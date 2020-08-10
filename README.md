@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 15:48:17，:rocket: 更新条数: +3295， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 16:02:33，:rocket: 更新条数: +3295， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-10-世卫组织：中南欧仍未完全控制疫情，西欧出现疫情复发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPIcmUGfECQtJTXdwLg2200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-世卫组织：相信将会获得安全有效的新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQNL9lPZIW4p12RtqXUJz200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-大连市第六人民医院负压病房改造工程基本完工，新增病房-36-间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijG8JkZi1rzukGiDljoOO200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-世卫组织总干事：开放学校后必须对潜在疫情保持警惕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTf5OHb8E83pgfUS98EDO200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-美国学生曝光学校复课乱象：不戴口罩还人挤人。美国多地教师游行反对复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0SNROpUKP4TuBuBaDevK200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-世卫组织总干事：全球新冠肺炎病例本周将达到2000万-死亡病例将达到75万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXYD4IhRJfO6s71SNuNXF200810&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-10-美区的-Apple-ID-会不会在不久的将来也会被封掉？](https://www.v2ex.com/t/697219) ![](assets/new.png)  
+- [2020-08-10-叹息蹉跎的大学时光](https://www.v2ex.com/t/697217) ![](assets/new.png)  
 - [2020-08-10-发一个前段时间找房子的爬虫、心累-还是没找到合适的，找了半年了](https://www.v2ex.com/t/697216) ![](assets/new.png)  
 - [2020-08-10-求指教-gitlab-正确的开机自启方式-排除-/etc/rc.local-尽量使用-systemd](https://www.v2ex.com/t/697215) ![](assets/new.png)  
 - [2020-08-10-为了不被剥削，想成立几个人的小型团队，看能不能活下去](https://www.v2ex.com/t/697214) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-10-关于-802.1Q-VLAN-的配置](https://www.v2ex.com/t/697199) ![](assets/new.png)  
 - [2020-08-10-华为手机助手-for-mac-备份通讯录和日程，从此再也恢复不了了。](https://www.v2ex.com/t/697198) ![](assets/new.png)  
 - [2020-08-10-请大家帮忙看下简历呀~](https://www.v2ex.com/t/697197) ![](assets/new.png)  
-- [2020-08-10-请问这是什么字体，-MacOS-默认的代码字体是什么？](https://www.v2ex.com/t/697196) ![](assets/new.png)  
-- [2020-08-10-你们会以什么心态对待离职前的最后一个任务？](https://www.v2ex.com/t/697193) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

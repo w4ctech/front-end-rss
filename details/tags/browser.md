@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-10 22:33:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 22:46:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -57,6 +57,7 @@
 - [2020-08-10-一个关于-CEF（Chromium-嵌入式框架）的问题！](https://www.v2ex.com/t/697213) 
 - [2020-08-10-缓存架构系统就谈多级缓存，可我就知-Redis！Nginx-缓存代理助力提升](https://toutiao.io/k/l7ghccw) 
 - [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) 
+- [2020-08-10-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
 - [2020-08-10-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-08-四川广元网信办:试点示范促落地-网络安全进社区](https://sec.thief.one/article_content?a_id=dd60f8d7f33544013a428934e01c8f3d) 
 - [2020-08-08-【安全圈】黑客攻击Reddit子版块并发布特朗普助选信息](https://sec.thief.one/article_content?a_id=e489e9ae0bac72c4a572873a383c03a8) 

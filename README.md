@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 00:26:34，:rocket: 更新条数: +3270， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 00:49:09，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-08-09-8月9日全国新增新冠49例-境外输入35例本土新疆14例](http://m.china.caixin.com/m/2020-08-10/101590704.html) ![](assets/new.png)  
 - [2020-08-08-最新疫情：全国新冠累计确诊84619例-新疆本土新增15例](http://m.china.caixin.com/m/2020-08-09/101590630.html) ![](assets/new.png)  
 - [2020-08-08-最新海外疫情：新冠感染者超1951万-累计死亡超72万](http://m.international.caixin.com/m/2020-08-09/101590636.html) ![](assets/new.png)  
 - [2020-08-08-【境内疫情观察】新疆新增15例本土病例（8月8日）](http://m.database.caixin.com/m/2020-08-09/101590640.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-04-杭州新增1例新冠无症状感染者-7月13日来自新疆](https://m.caixin.com/m/2020-08-05/101588990.html) ![](assets/new.png)  
 - [2020-08-03-【境内疫情观察】新疆新增28例本土病例（8月3日）](http://m.database.caixin.com/m/2020-08-04/101588535.html) ![](assets/new.png)  
 - [2020-08-03-大流行手记|8月3日：多地升级防控措施-日本东京疫情持续扩散](https://m.caixin.com/m/2020-08-04/101588372.html) ![](assets/new.png)  
-- [2020-08-03-新疆疾控称疫情为单一源头-防控措施升级](http://m.china.caixin.com/m/2020-08-04/101588739.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -715,9 +715,9 @@
 </summary>
 
 
+- [2020-08-10-只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html) ![](assets/new.png)  
 - [2020-08-07-科技爱好者周刊（第-119-期）：降雨量和保险博弈-](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html) ![](assets/new.png)  
 - [2020-07-31-科技爱好者周刊（第-118-期）：高考志愿怎么填](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html) ![](assets/new.png)  
-- [2020-07-24-科技爱好者周刊（第-117-期）：我不想让你记住我的脸](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-10-zip,-unzip-zipinfo-压缩级别问题](https://www.v2ex.com/t/696943) ![](assets/new.png)  
+- [2020-08-10-各位设计开发自己的框架过程中使用了多少个设计模式？](https://www.v2ex.com/t/696942) ![](assets/new.png)  
 - [2020-08-09-（murus）用过这个软件的人能分享一下使用体验吗](https://www.v2ex.com/t/696939) ![](assets/new.png)  
 - [2020-08-09-分享下我最近写的针对-SpringBoot-初学者入门的系列教程，准备写个完整的系列，目前已完成-7-篇](https://www.v2ex.com/t/696938) ![](assets/new.png)  
 - [2020-08-09-在线-全职-接单，需要做项目的老板-多捧场！](https://www.v2ex.com/t/696937) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-09-求助关于-DTK-的色彩校准](https://www.v2ex.com/t/696915) ![](assets/new.png)  
 - [2020-08-09-有哪些渠道可以付费咨询软件开发架构设计？](https://www.v2ex.com/t/696914) ![](assets/new.png)  
 - [2020-08-09-Big-Sur-的-SMB-好像有性能问题](https://www.v2ex.com/t/696913) ![](assets/new.png)  
-- [2020-08-09-面试机会非常少,可能简历有些问题,希望更多改进意见](https://www.v2ex.com/t/696912) ![](assets/new.png)  
-- [2020-08-09-app-需要接入微信支付，短时间内怎么快速接入](https://www.v2ex.com/t/696911) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,26 +1114,26 @@
 </summary>
 
 
+- [2020-08-10-RabbitMQ：如何保证消息不被重复消费](https://toutiao.io/k/8qddjy2) ![](assets/new.png)  
 - [2020-08-10-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-10-Fastjson-到了说再见的时候了](https://toutiao.io/k/x85hdml) ![](assets/new.png)  
-- [2020-08-10-RabbitMQ：如何保证消息不被重复消费](https://toutiao.io/k/8qddjy2) ![](assets/new.png)  
 - [2020-08-10-对话出门问问李志飞：GPT-3-是「暴力美学」的一次胜利](https://toutiao.io/k/q62savp) ![](assets/new.png)  
 - [2020-08-10-译-代码中如何写出更有意义的命名](https://toutiao.io/k/obq5g8g) ![](assets/new.png)  
 - [2020-08-10-本地缓存性能之王-Caffeine](https://toutiao.io/k/9aqipi3) ![](assets/new.png)  
 - [2020-08-10-为了解决-Prometheus-大内存问题，我竟然强行将-Prometheus-Operator-给肢解了](https://toutiao.io/k/u3liqwk) ![](assets/new.png)  
-- [2020-08-10-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
-- [2020-08-10-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-10-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-10-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-10-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-10-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
-- [2020-08-10-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-10-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-10-敏捷项目如何拥有管理变化的能力？](https://toutiao.io/k/bj5uk47) ![](assets/new.png)  
+- [2020-08-10-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-10-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-10-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [2020-08-10-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-10-推荐-面试高频题：Spring-Boot-自动装配的原理你能说出来吗？](https://toutiao.io/k/lpc9n3o) ![](assets/new.png)  
-- [2020-08-10-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-10-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-10-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-10-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-10-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-10-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-10-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
+- [2020-08-10-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-10-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-10-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-10-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

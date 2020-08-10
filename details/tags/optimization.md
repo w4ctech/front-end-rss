@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-10 05:33:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 05:46:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -19,4 +19,3 @@
 - [2020-08-10-PerfDog-助力自动化性能测试探索](https://www.v2ex.com/t/697046) 
 - [2020-08-10-Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-10-本地缓存性能之王-Caffeine](https://toutiao.io/k/9aqipi3) 
-- [2020-08-10-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 07:33:13，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 07:46:23，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-08-09-输入性新冠病例陡增-上海将加强国际航班远端管控](http://m.companies.caixin.com/m/2020-08-10/101590870.html) ![](assets/new.png)  
 - [2020-08-09-最新疫情：全国新冠累计确诊84668例-新增境外输入35例新疆本土14例](http://m.china.caixin.com/m/2020-08-10/101590823.html) ![](assets/new.png)  
 - [2020-08-09-【境内疫情观察】全国新增35例境外输入病例（8月9日）](http://m.database.caixin.com/m/2020-08-10/101590804.html) ![](assets/new.png)  
 - [2020-08-09-大流行手记|8月9日：日本澄清新冠病毒变异-特朗普谋求疫苗大选前出炉](https://m.caixin.com/m/2020-08-10/101590711.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-04-大流行手记|8月4日：南美确诊破500万-英国备战9月开学力阻新疫情](https://m.caixin.com/m/2020-08-05/101588777.html) ![](assets/new.png)  
 - [2020-08-04-杭州新增一例新疆无症状感染者-曾在沪杭两地活动](http://m.china.caixin.com/m/2020-08-05/101589141.html) ![](assets/new.png)  
 - [2020-08-04-香港两菜场暴发疫情-6名水产摊贩确诊](https://m.caixin.com/m/2020-08-05/101589021.html) ![](assets/new.png)  
-- [2020-08-04-杭州新增1例新冠无症状感染者-7月13日来自新疆](https://m.caixin.com/m/2020-08-05/101588990.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,13 @@
 </summary>
 
 
+- [2020-08-10-北京-跨境电商公司-高级后端工程师/Leader](https://www.v2ex.com/t/697092) ![](assets/new.png)  
+- [2020-08-10-有无做过-MySQL-迁移达梦数据库达大佬，有哪一些-sql-语句或视图或触发器会无法在达梦数据库中使用？](https://www.v2ex.com/t/697091) ![](assets/new.png)  
+- [2020-08-10-offer-比较-，一年前端经验，去-erp-系统的公司，还是去-react-的公司](https://www.v2ex.com/t/697090) ![](assets/new.png)  
+- [2020-08-10-Brydge-发布了一款-Windows-版的-Magic-Trackpad](https://www.v2ex.com/t/697089) ![](assets/new.png)  
+- [2020-08-10-B-站这个视频中的这个钢琴声伴有手机震动诶](https://www.v2ex.com/t/697088) ![](assets/new.png)  
+- [2020-08-10-如何评价公司项目中出现无人知晓何时何地何人设计的表？](https://www.v2ex.com/t/697087) ![](assets/new.png)  
+- [2020-08-10-谷歌地图手机上已经不能访问了？](https://www.v2ex.com/t/697086) ![](assets/new.png)  
 - [2020-08-10-WSL2-实在是太不香了。。。CPU-内存动不动六七十。。。](https://www.v2ex.com/t/697085) ![](assets/new.png)  
 - [2020-08-10-机器学习-Study-Jam-第二季组队学习-TensorFlow，免费赢取夏季礼包！](https://www.v2ex.com/t/697084) ![](assets/new.png)  
 - [2020-08-10-如何将-tomcat-的日志工具从默认的-juli-改为-log4j](https://www.v2ex.com/t/697082) ![](assets/new.png)  
@@ -1065,13 +1072,6 @@
 - [2020-08-10-为什么-docker-设置了-dockerhub-镜像还要请求国外地址](https://www.v2ex.com/t/697072) ![](assets/new.png)  
 - [2020-08-10-开发主力机-小心升级-Big-Sur](https://www.v2ex.com/t/697070) ![](assets/new.png)  
 - [2020-08-10-前后端未分离的情况下，如何顺畅的使用-vue-?](https://www.v2ex.com/t/697069) ![](assets/new.png)  
-- [2020-08-10-最近-2-个月阿里云香港的-GIA-CN2-不稳定](https://www.v2ex.com/t/697068) ![](assets/new.png)  
-- [2020-08-10-哪种-Python-库-修改-excel-文件能保存原有格式？](https://www.v2ex.com/t/697065) ![](assets/new.png)  
-- [2020-08-10-我也来带带各位想学英语的-v-友吧-第六帖](https://www.v2ex.com/t/697064) ![](assets/new.png)  
-- [2020-08-10-阿里巴巴达摩院城市大脑实验室实习生招聘](https://www.v2ex.com/t/697063) ![](assets/new.png)  
-- [2020-08-10-如何和程序员打成一片](https://www.v2ex.com/t/697062) ![](assets/new.png)  
-- [2020-08-10-PHP-访问没有响应,-一直转圈圈.-求助大佬](https://www.v2ex.com/t/697059) ![](assets/new.png)  
-- [2020-08-10-Windows-有没类似-macOS-的-Loopback-的虚拟声卡软件？](https://www.v2ex.com/t/697057) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1119,8 @@
 - [2020-08-10-RabbitMQ：如何保证消息不被重复消费](https://toutiao.io/k/8qddjy2) ![](assets/new.png)  
 - [2020-08-10-本地缓存性能之王-Caffeine](https://toutiao.io/k/9aqipi3) ![](assets/new.png)  
 - [2020-08-10-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-10-译-代码中如何写出更有意义的命名](https://toutiao.io/k/obq5g8g) ![](assets/new.png)  
 - [2020-08-10-对话出门问问李志飞：GPT-3-是「暴力美学」的一次胜利](https://toutiao.io/k/q62savp) ![](assets/new.png)  
+- [2020-08-10-译-代码中如何写出更有意义的命名](https://toutiao.io/k/obq5g8g) ![](assets/new.png)  
 - [2020-08-10-为了解决-Prometheus-大内存问题，我竟然强行将-Prometheus-Operator-给肢解了](https://toutiao.io/k/u3liqwk) ![](assets/new.png)  
 - [2020-08-10-敏捷项目如何拥有管理变化的能力？](https://toutiao.io/k/bj5uk47) ![](assets/new.png)  
 - [2020-08-10-新一代垃圾回收器-ZGC-的探索与实践](https://toutiao.io/k/3cvqbp2) ![](assets/new.png)  
@@ -1129,9 +1129,9 @@
 - [2020-08-10-一文带你看懂二叉树的序列化](https://toutiao.io/k/7sq7da9) ![](assets/new.png)  
 - [2020-08-10-MySQL-数据库升级的一些坑](https://toutiao.io/k/kyyn6wh) ![](assets/new.png)  
 - [2020-08-10-Java-开发必备！I/O-与-Netty-原理精讲](https://toutiao.io/k/akb3r9c) ![](assets/new.png)  
+- [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
 - [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
 - [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) ![](assets/new.png)  
-- [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
 - [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) ![](assets/new.png)  
 - [2020-08-10-flow.ci-v0.20.30-发布：简单而强大的开源-CI/CD-工具](https://toutiao.io/k/wwzvw0a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

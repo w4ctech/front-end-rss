@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 07:09:31，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 07:18:51，:rocket: 更新条数: +3252， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -79,9 +79,9 @@
 - [2020-08-05-广东再收紧香港入境要求-核酸检测报告时限缩短至24小时](http://m.china.caixin.com/m/2020-08-06/101589532.html) ![](assets/new.png)  
 - [2020-08-05-【境内疫情观察】全国新增30例本土病例（8月5日）](http://m.database.caixin.com/m/2020-08-06/101589410.html) ![](assets/new.png)  
 - [2020-08-05-大流行手记|8月5日：疫情加剧教育不平等-俄将开展未成年人新冠疫苗实验](https://m.caixin.com/m/2020-08-06/101589309.html) ![](assets/new.png)  
-- [2020-08-04-杭州新增一例新疆无症状感染者-曾在沪杭两地活动](http://m.china.caixin.com/m/2020-08-05/101589141.html) ![](assets/new.png)  
 - [2020-08-04-【境内疫情观察】新疆新增22例本土病例（8月4日）](http://m.database.caixin.com/m/2020-08-05/101588974.html) ![](assets/new.png)  
 - [2020-08-04-大流行手记|8月4日：南美确诊破500万-英国备战9月开学力阻新疫情](https://m.caixin.com/m/2020-08-05/101588777.html) ![](assets/new.png)  
+- [2020-08-04-杭州新增一例新疆无症状感染者-曾在沪杭两地活动](http://m.china.caixin.com/m/2020-08-05/101589141.html) ![](assets/new.png)  
 - [2020-08-04-香港两菜场暴发疫情-6名水产摊贩确诊](https://m.caixin.com/m/2020-08-05/101589021.html) ![](assets/new.png)  
 - [2020-08-04-杭州新增1例新冠无症状感染者-7月13日来自新疆](https://m.caixin.com/m/2020-08-05/101588990.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
@@ -1052,26 +1052,6 @@
 </summary>
 
 
-- [2020-08-10-杭州滨江-招一位两年经验左右的-Java-开发，内推直接面试~](https://www.v2ex.com/t/697074) ![](assets/new.png)  
-- [2020-08-10-App-抓包的问题](https://www.v2ex.com/t/697073) ![](assets/new.png)  
-- [2020-08-10-为什么-docker-设置了-dockerhub-镜像还要请求国外地址](https://www.v2ex.com/t/697072) ![](assets/new.png)  
-- [2020-08-10-开发主力机-小心升级-Big-Sur](https://www.v2ex.com/t/697070) ![](assets/new.png)  
-- [2020-08-10-前后端未分离的情况下，如何顺畅的使用-vue-?](https://www.v2ex.com/t/697069) ![](assets/new.png)  
-- [2020-08-10-最近-2-个月阿里云香港的-GIA-CN2-不稳定](https://www.v2ex.com/t/697068) ![](assets/new.png)  
-- [2020-08-10-哪种-Python-库-修改-excel-文件能保存原有格式？](https://www.v2ex.com/t/697065) ![](assets/new.png)  
-- [2020-08-10-我也来带带各位想学英语的-v-友吧-第六帖](https://www.v2ex.com/t/697064) ![](assets/new.png)  
-- [2020-08-10-阿里巴巴达摩院城市大脑实验室实习生招聘](https://www.v2ex.com/t/697063) ![](assets/new.png)  
-- [2020-08-10-如何和程序员打成一片](https://www.v2ex.com/t/697062) ![](assets/new.png)  
-- [2020-08-10-PHP-访问没有响应,-一直转圈圈.-求助大佬](https://www.v2ex.com/t/697059) ![](assets/new.png)  
-- [2020-08-10-Windows-有没类似-macOS-的-Loopback-的虚拟声卡软件？](https://www.v2ex.com/t/697057) ![](assets/new.png)  
-- [2020-08-10-如何把自己国区的所有-ICLOUD-上的东西搬到美区呢？国区也要有自己的备份。](https://www.v2ex.com/t/697056) ![](assets/new.png)  
-- [2020-08-10-CODING-现已支持墨刀原型引入](https://www.v2ex.com/t/697055) ![](assets/new.png)  
-- [2020-08-10-求问：懂操作人脸识别检索的朋友有无？付费~](https://www.v2ex.com/t/697054) ![](assets/new.png)  
-- [2020-08-10-统一推送联盟没下文，哪家推送最靠谱？](https://www.v2ex.com/t/697053) ![](assets/new.png)  
-- [2020-08-10-我自己的专利，哪里可以查询吗？](https://www.v2ex.com/t/697052) ![](assets/new.png)  
-- [2020-08-10-如何看待同事每日的提醒：“工程不重要，算法才重要”](https://www.v2ex.com/t/697051) ![](assets/new.png)  
-- [2020-08-10-一道挺不错的-leetcode/lintcode-题-字节跳动面试题：第-k-大的子数组](https://www.v2ex.com/t/697050) ![](assets/new.png)  
-- [2020-08-10-给我-6-个月的弟弟写了个网站，求意见~](https://www.v2ex.com/t/697049) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,19 +1099,19 @@
 - [2020-08-10-RabbitMQ：如何保证消息不被重复消费](https://toutiao.io/k/8qddjy2) ![](assets/new.png)  
 - [2020-08-10-本地缓存性能之王-Caffeine](https://toutiao.io/k/9aqipi3) ![](assets/new.png)  
 - [2020-08-10-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-10-对话出门问问李志飞：GPT-3-是「暴力美学」的一次胜利](https://toutiao.io/k/q62savp) ![](assets/new.png)  
 - [2020-08-10-译-代码中如何写出更有意义的命名](https://toutiao.io/k/obq5g8g) ![](assets/new.png)  
+- [2020-08-10-对话出门问问李志飞：GPT-3-是「暴力美学」的一次胜利](https://toutiao.io/k/q62savp) ![](assets/new.png)  
 - [2020-08-10-为了解决-Prometheus-大内存问题，我竟然强行将-Prometheus-Operator-给肢解了](https://toutiao.io/k/u3liqwk) ![](assets/new.png)  
 - [2020-08-10-敏捷项目如何拥有管理变化的能力？](https://toutiao.io/k/bj5uk47) ![](assets/new.png)  
 - [2020-08-10-新一代垃圾回收器-ZGC-的探索与实践](https://toutiao.io/k/3cvqbp2) ![](assets/new.png)  
 - [2020-08-10-缓存架构系统就谈多级缓存，可我就知-Redis！Nginx-缓存代理助力提升](https://toutiao.io/k/l7ghccw) ![](assets/new.png)  
 - [2020-08-10-从-0-到-1，搭建一个体系完善的前端-React-组件库](https://toutiao.io/k/vneh28i) ![](assets/new.png)  
-- [2020-08-10-一文带你看懂二叉树的序列化](https://toutiao.io/k/7sq7da9) ![](assets/new.png)  
 - [2020-08-10-MySQL-数据库升级的一些坑](https://toutiao.io/k/kyyn6wh) ![](assets/new.png)  
+- [2020-08-10-一文带你看懂二叉树的序列化](https://toutiao.io/k/7sq7da9) ![](assets/new.png)  
 - [2020-08-10-Java-开发必备！I/O-与-Netty-原理精讲](https://toutiao.io/k/akb3r9c) ![](assets/new.png)  
-- [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) ![](assets/new.png)  
 - [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
 - [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
+- [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) ![](assets/new.png)  
 - [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) ![](assets/new.png)  
 - [2020-08-10-flow.ci-v0.20.30-发布：简单而强大的开源-CI/CD-工具](https://toutiao.io/k/wwzvw0a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

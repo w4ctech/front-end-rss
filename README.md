@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 21:09:25，:rocket: 更新条数: +3510， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 21:19:25，:rocket: 更新条数: +3500， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-10-美国每-80-秒就有一人死于新冠肺炎](https://m.weibo.cn/3057540037/4536544695944906) ![](assets/new.png)  
 - [2020-08-10-世卫组织：中南欧仍未完全控制疫情，西欧出现疫情复发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPIcmUGfECQtJTXdwLg2200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-世卫组织：相信将会获得安全有效的新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQNL9lPZIW4p12RtqXUJz200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-大连市第六人民医院负压病房改造工程基本完工，新增病房-36-间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijG8JkZi1rzukGiDljoOO200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-世卫组织总干事：开放学校后必须对潜在疫情保持警惕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTf5OHb8E83pgfUS98EDO200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-美国学生曝光学校复课乱象：不戴口罩还人挤人。美国多地教师游行反对复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0SNROpUKP4TuBuBaDevK200810&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,8 +1140,8 @@
 - [2020-08-10-一文带你看懂二叉树的序列化](https://toutiao.io/k/7sq7da9) ![](assets/new.png)  
 - [2020-08-10-flow.ci-v0.20.30-发布：简单而强大的开源-CI/CD-工具](https://toutiao.io/k/wwzvw0a) ![](assets/new.png)  
 - [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
-- [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) ![](assets/new.png)  
 - [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
+- [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) ![](assets/new.png)  
 - [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) ![](assets/new.png)  
 - [2020-08-10-从-0-到-1，搭建一个体系完善的前端-React-组件库](https://toutiao.io/k/vneh28i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

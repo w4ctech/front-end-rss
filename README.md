@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 09:09:15，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 09:19:49，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,8 +39,8 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-10-香港新增69例新冠肺炎确诊病例-连续第八日少于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3GteZ0c5FgMWJCRBBLx8200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-印度前总统穆克吉确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwdfLlpryAuwuozpKmkTM200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-受疫情影响-近八成美国受访者担心还不上信用卡债](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCklaBiQ4yj2v90mZS6p2200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-哈萨克斯坦新增741例新冠肺炎确诊病例-累计确诊近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimIfn6NCdOgTsA2nFeyEr200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-大连金普新区：对已解除封闭地区实行社区管控-出台支持冷链物流和水产品加工企业发展措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigzNWXrAIAd3fzl5QfVr2200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-大连金普新区进行多次核酸检测-流调筛查11593人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikxUBksUvqip4ORFvH3RZ200810&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
-- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
-- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
-- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
-- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
-- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
-- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
-- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
-- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -781,26 +761,6 @@
 </summary>
 
 
-- [2020-08-08-「查缺补漏」巩固你的HTTP知识体系](https://www.ershicimi.com/p/2c8fabfc84cbfe1048f6390ac2e400aa) ![](assets/new.png)  
-- [2020-08-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1399cc984e8b4267161a93a92c3c017e) ![](assets/new.png)  
-- [2020-08-07-奇舞周刊第-359-期：可折叠-Web-可能会给我们带来的变化](https://www.ershicimi.com/p/837bcf9223d60128fd5d208fa01b5a0b) ![](assets/new.png)  
-- [2020-08-06-nestjs+vue+ts打造一个酷炫的星空聊天室含完整数据库设计](https://www.ershicimi.com/p/465cc2c19696694ea17500cbac43a394) ![](assets/new.png)  
-- [2020-08-06-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/955462dab8f7b36e725fa07924f35a80) ![](assets/new.png)  
-- [2020-08-05-解读HTTP/2与HTTP/3-的新特性](https://www.ershicimi.com/p/1c4945de34d494a06711fe4925025195) ![](assets/new.png)  
-- [2020-08-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/76189a0a1f3ba26bc46c4d82192e7253) ![](assets/new.png)  
-- [2020-08-04-如何学习React源码](https://www.ershicimi.com/p/e2c173d807de9fd12e90b51f269c7401) ![](assets/new.png)  
-- [2020-08-04-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4a3d870adc54773237476cc960c38bbe) ![](assets/new.png)  
-- [2020-08-03-利用-JS-实现多种图片相似度算法](https://www.ershicimi.com/p/560830dcf48ace0ef9cc827ad409f3f4) ![](assets/new.png)  
-- [2020-08-03-input/change/composition/keydown事件详解](https://www.ershicimi.com/p/5e6fe42cf3c3662621ea354df66a4498) ![](assets/new.png)  
-- [2020-08-03-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/c0fec69e82b38c277c301dc975dadd3c) ![](assets/new.png)  
-- [2020-08-01-React-Hooks-原理与最佳实践](https://www.ershicimi.com/p/cb479045ae6e3d08befea8f4bdf86edb) ![](assets/new.png)  
-- [2020-08-01-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3dc5c55b95d8f7a182b7afdc189940b2) ![](assets/new.png)  
-- [2020-07-31-奇舞周刊第-358-期：探索前端领域技术和业务价值](https://www.ershicimi.com/p/30a8b831821cd7d79f3e03af91f43e29) ![](assets/new.png)  
-- [2020-07-29-你不知道的-WebSocket](https://www.ershicimi.com/p/0bf0b89f8923693b8f12f689dd14f1d0) ![](assets/new.png)  
-- [2020-07-29-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6f8532a11d5b57f28c40c960db3ca462) ![](assets/new.png)  
-- [2020-07-28-Babel是如何读懂JS代码的](https://www.ershicimi.com/p/6839be7c5003bf445e2db4bd6f72658a) ![](assets/new.png)  
-- [2020-07-28-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/72daeeec1e7c2251da4ce6a9e66e48be) ![](assets/new.png)  
-- [2020-07-27-让你的-commit-更有价值](https://www.ershicimi.com/p/c78541193b34a89e4b18c57762068812) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1032,8 @@
 </summary>
 
 
+- [2020-08-10-裸辞找不到工作](https://www.v2ex.com/t/697123) ![](assets/new.png)  
+- [2020-08-10-一加氢-OS-11-发布了-就这？别问-问就是在做了😂](https://www.v2ex.com/t/697122) ![](assets/new.png)  
 - [2020-08-10-买-2020-iMac-还是组黑苹果-i7--10700k-?日经贴，求指导](https://www.v2ex.com/t/697120) ![](assets/new.png)  
 - [2020-08-10-magic-mouse-2-网页后退与网页左移问题](https://www.v2ex.com/t/697119) ![](assets/new.png)  
 - [2020-08-10-阿里云固定带宽怎么买便宜？](https://www.v2ex.com/t/697118) ![](assets/new.png)  
@@ -1090,8 +1052,6 @@
 - [2020-08-10-如何提升自己，不包括写代码](https://www.v2ex.com/t/697101) ![](assets/new.png)  
 - [2020-08-10-chrome-浏览器地址栏自带翻译插件，这个插件有历史版本吗？](https://www.v2ex.com/t/697099) ![](assets/new.png)  
 - [2020-08-10-关于-mongodb-索引的几个小问题](https://www.v2ex.com/t/697098) ![](assets/new.png)  
-- [2020-08-10-有没有书可以推荐下](https://www.v2ex.com/t/697097) ![](assets/new.png)  
-- [2020-08-10-最近国内-Minecraft-相关站点/多人服务器被大面积-DDoS/CC-攻击了？](https://www.v2ex.com/t/697095) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1137,13 +1097,13 @@
 - [2020-08-10-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) ![](assets/new.png)  
 - [2020-08-10-Fastjson-到了说再见的时候了](https://toutiao.io/k/x85hdml) ![](assets/new.png)  
 - [2020-08-10-本地缓存性能之王-Caffeine](https://toutiao.io/k/9aqipi3) ![](assets/new.png)  
-- [2020-08-10-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-10-RabbitMQ：如何保证消息不被重复消费](https://toutiao.io/k/8qddjy2) ![](assets/new.png)  
+- [2020-08-10-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-10-对话出门问问李志飞：GPT-3-是「暴力美学」的一次胜利](https://toutiao.io/k/q62savp) ![](assets/new.png)  
 - [2020-08-10-译-代码中如何写出更有意义的命名](https://toutiao.io/k/obq5g8g) ![](assets/new.png)  
 - [2020-08-10-为了解决-Prometheus-大内存问题，我竟然强行将-Prometheus-Operator-给肢解了](https://toutiao.io/k/u3liqwk) ![](assets/new.png)  
-- [2020-08-10-敏捷项目如何拥有管理变化的能力？](https://toutiao.io/k/bj5uk47) ![](assets/new.png)  
 - [2020-08-10-新一代垃圾回收器-ZGC-的探索与实践](https://toutiao.io/k/3cvqbp2) ![](assets/new.png)  
+- [2020-08-10-敏捷项目如何拥有管理变化的能力？](https://toutiao.io/k/bj5uk47) ![](assets/new.png)  
 - [2020-08-10-缓存架构系统就谈多级缓存，可我就知-Redis！Nginx-缓存代理助力提升](https://toutiao.io/k/l7ghccw) ![](assets/new.png)  
 - [2020-08-10-从-0-到-1，搭建一个体系完善的前端-React-组件库](https://toutiao.io/k/vneh28i) ![](assets/new.png)  
 - [2020-08-10-MySQL-数据库升级的一些坑](https://toutiao.io/k/kyyn6wh) ![](assets/new.png)  

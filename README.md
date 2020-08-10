@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 01:48:09，:rocket: 更新条数: +3277， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 02:02:40，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-10-项目登顶-GitHub-Trending-Java-月榜了......感谢-v2-的兄弟们～](https://www.v2ex.com/t/696965) ![](assets/new.png)  
 - [2020-08-10-Type-C-转接口的灵异现象](https://www.v2ex.com/t/696961) ![](assets/new.png)  
 - [2020-08-10-Java-集成计算机视觉算法问题](https://www.v2ex.com/t/696960) ![](assets/new.png)  
 - [2020-08-10-有木有同样是独立开发者的？一起加个群吧](https://www.v2ex.com/t/696959) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-09-在线-全职-接单，需要做项目的老板-多捧场！](https://www.v2ex.com/t/696937) ![](assets/new.png)  
 - [2020-08-09-在油管每月赚-500-美元有多难？](https://www.v2ex.com/t/696936) ![](assets/new.png)  
 - [2020-08-09-问个-JS-变量提升，块作用域与重复声明的问题](https://www.v2ex.com/t/696935) ![](assets/new.png)  
-- [2020-08-09-闲置了两个-50M-下行有公网-IP-的服务器，干点啥好](https://www.v2ex.com/t/696934) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,14 +1126,14 @@
 - [2020-08-10-从-0-到-1，搭建一个体系完善的前端-React-组件库](https://toutiao.io/k/vneh28i) ![](assets/new.png)  
 - [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) ![](assets/new.png)  
 - [2020-08-10-缓存架构系统就谈多级缓存，可我就知-Redis！Nginx-缓存代理助力提升](https://toutiao.io/k/l7ghccw) ![](assets/new.png)  
-- [2020-08-10-一文带你看懂二叉树的序列化](https://toutiao.io/k/7sq7da9) ![](assets/new.png)  
 - [2020-08-10-MySQL-数据库升级的一些坑](https://toutiao.io/k/kyyn6wh) ![](assets/new.png)  
-- [2020-08-10-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
-- [2020-08-10-推荐-面试高频题：Spring-Boot-自动装配的原理你能说出来吗？](https://toutiao.io/k/lpc9n3o) ![](assets/new.png)  
-- [2020-08-10-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-10-一文带你看懂二叉树的序列化](https://toutiao.io/k/7sq7da9) ![](assets/new.png)  
+- [2020-08-10-Java-开发必备！I/O-与-Netty-原理精讲](https://toutiao.io/k/akb3r9c) ![](assets/new.png)  
+- [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
+- [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
+- [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) ![](assets/new.png)  
 - [2020-08-10-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-10-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-10-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-10-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

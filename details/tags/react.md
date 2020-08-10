@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-10 01:48:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 02:02:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -32,3 +32,4 @@
 - [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/ad88a966ef504d6a8551e30959e8f190) 
 - [2020-08-10-从-0-到-1，搭建一个体系完善的前端-React-组件库](https://toutiao.io/k/vneh28i) 
 - [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) 
+- [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) 

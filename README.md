@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 08:48:22，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 09:02:40，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-10-印度前总统穆克吉确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwdfLlpryAuwuozpKmkTM200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-受疫情影响-近八成美国受访者担心还不上信用卡债](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCklaBiQ4yj2v90mZS6p2200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-哈萨克斯坦新增741例新冠肺炎确诊病例-累计确诊近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimIfn6NCdOgTsA2nFeyEr200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-大连金普新区：对已解除封闭地区实行社区管控-出台支持冷链物流和水产品加工企业发展措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigzNWXrAIAd3fzl5QfVr2200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-大连金普新区进行多次核酸检测-流调筛查11593人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikxUBksUvqip4ORFvH3RZ200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-大连4处中风险地区全部解除封闭-恢复正常生产生活](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticJdfRfNW7C4CXC4SdIqQ200810&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-10-阿里云固定带宽怎么买便宜？](https://www.v2ex.com/t/697118) ![](assets/new.png)  
+- [2020-08-10-你的-win-机器该不该开杀软（留-wd）？杀毒软件环境下编译时间测试](https://www.v2ex.com/t/697117) ![](assets/new.png)  
+- [2020-08-10-我面试了一个中级-iOS，你们觉得能发-offer-吗](https://www.v2ex.com/t/697115) ![](assets/new.png)  
 - [2020-08-10-技术交流群，猿类社区](https://www.v2ex.com/t/697114) ![](assets/new.png)  
 - [2020-08-10-三十而立的程序员，职业生涯还剩五年，想转型独立游戏开发，来白嫖经验](https://www.v2ex.com/t/697113) ![](assets/new.png)  
 - [2020-08-10-谈一下企业性质与工作幸福度](https://www.v2ex.com/t/697111) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-10-最近国内-Minecraft-相关站点/多人服务器被大面积-DDoS/CC-攻击了？](https://www.v2ex.com/t/697095) ![](assets/new.png)  
 - [2020-08-10-支付宝的网页支付密码流程是个啥脑洞？](https://www.v2ex.com/t/697094) ![](assets/new.png)  
 - [2020-08-10-虚拟机与主机互相-ping-不同](https://www.v2ex.com/t/697093) ![](assets/new.png)  
-- [2020-08-10-北京-跨境电商公司-高级后端工程师/Leader](https://www.v2ex.com/t/697092) ![](assets/new.png)  
-- [2020-08-10-有无做过-MySQL-迁移达梦数据库达大佬，有哪一些-sql-语句或视图或触发器会无法在达梦数据库中使用？](https://www.v2ex.com/t/697091) ![](assets/new.png)  
-- [2020-08-10-offer-比较-，一年前端经验，去-erp-系统的公司，还是去-react-的公司](https://www.v2ex.com/t/697090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,8 +1129,8 @@
 - [2020-08-10-MySQL-数据库升级的一些坑](https://toutiao.io/k/kyyn6wh) ![](assets/new.png)  
 - [2020-08-10-一文带你看懂二叉树的序列化](https://toutiao.io/k/7sq7da9) ![](assets/new.png)  
 - [2020-08-10-Java-开发必备！I/O-与-Netty-原理精讲](https://toutiao.io/k/akb3r9c) ![](assets/new.png)  
-- [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
 - [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
+- [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
 - [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) ![](assets/new.png)  
 - [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) ![](assets/new.png)  
 - [2020-08-10-flow.ci-v0.20.30-发布：简单而强大的开源-CI/CD-工具](https://toutiao.io/k/wwzvw0a) ![](assets/new.png)  

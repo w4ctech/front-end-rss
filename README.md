@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 23:33:29，:rocket: 更新条数: +3510， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 23:46:34，:rocket: 更新条数: +3510， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-10-谭德塞：已看到扑灭疫情的希望-但要做好两点工作](https://m.weibo.cn/3057540037/4536635292649726) ![](assets/new.png)  
+- [2020-08-10-非洲地区新冠肺炎确诊病例增长至104万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimkENBM89v7UcYJWc6RYO200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-美国每-80-秒就有一人死于新冠肺炎](https://m.weibo.cn/3057540037/4536544695944906) ![](assets/new.png)  
 - [2020-08-10-世卫组织：中南欧仍未完全控制疫情，西欧出现疫情复发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPIcmUGfECQtJTXdwLg2200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-世卫组织：相信将会获得安全有效的新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQNL9lPZIW4p12RtqXUJz200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-大连市第六人民医院负压病房改造工程基本完工，新增病房-36-间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijG8JkZi1rzukGiDljoOO200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-世卫组织总干事：开放学校后必须对潜在疫情保持警惕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTf5OHb8E83pgfUS98EDO200810&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,8 +1141,8 @@
 - [2020-08-10-RabbitMQ：如何保证消息不被重复消费](https://toutiao.io/k/8qddjy2) ![](assets/new.png)  
 - [2020-08-10-对话出门问问李志飞：GPT-3-是「暴力美学」的一次胜利](https://toutiao.io/k/q62savp) ![](assets/new.png)  
 - [2020-08-10-译-代码中如何写出更有意义的命名](https://toutiao.io/k/obq5g8g) ![](assets/new.png)  
-- [2020-08-10-为了解决-Prometheus-大内存问题，我竟然强行将-Prometheus-Operator-给肢解了](https://toutiao.io/k/u3liqwk) ![](assets/new.png)  
 - [2020-08-10-新一代垃圾回收器-ZGC-的探索与实践](https://toutiao.io/k/3cvqbp2) ![](assets/new.png)  
+- [2020-08-10-为了解决-Prometheus-大内存问题，我竟然强行将-Prometheus-Operator-给肢解了](https://toutiao.io/k/u3liqwk) ![](assets/new.png)  
 - [2020-08-10-缓存架构系统就谈多级缓存，可我就知-Redis！Nginx-缓存代理助力提升](https://toutiao.io/k/l7ghccw) ![](assets/new.png)  
 - [2020-08-10-Java-开发必备！I/O-与-Netty-原理精讲](https://toutiao.io/k/akb3r9c) ![](assets/new.png)  
 - [2020-08-10-敏捷项目如何拥有管理变化的能力？](https://toutiao.io/k/bj5uk47) ![](assets/new.png)  
@@ -1150,8 +1150,8 @@
 - [2020-08-10-一文带你看懂二叉树的序列化](https://toutiao.io/k/7sq7da9) ![](assets/new.png)  
 - [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
 - [2020-08-10-flow.ci-v0.20.30-发布：简单而强大的开源-CI/CD-工具](https://toutiao.io/k/wwzvw0a) ![](assets/new.png)  
-- [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
 - [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) ![](assets/new.png)  
+- [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
 - [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) ![](assets/new.png)  
 - [2020-08-10-从-0-到-1，搭建一个体系完善的前端-React-组件库](https://toutiao.io/k/vneh28i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

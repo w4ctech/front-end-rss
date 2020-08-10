@@ -12587,28 +12587,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "受疫情影响 近八成美国受访者担心还不上信用卡债",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCklaBiQ4yj2v90mZS6p2200810&isfromapp=1",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "哈萨克斯坦新增741例新冠肺炎确诊病例 累计确诊近10万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimIfn6NCdOgTsA2nFeyEr200810&isfromapp=1",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "大连金普新区：对已解除封闭地区实行社区管控 出台支持冷链物流和水产品加工企业发展措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigzNWXrAIAd3fzl5QfVr2200810&isfromapp=1",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "大连金普新区进行多次核酸检测 流调筛查11593人次",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikxUBksUvqip4ORFvH3RZ200810&isfromapp=1",
+        "date": "2020-08-10"
+      },
+      {
         "title": "大连4处中风险地区全部解除封闭 恢复正常生产生活",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticJdfRfNW7C4CXC4SdIqQ200810&isfromapp=1",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "大连市最后一个中风险小区解封！",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijXVxd27DGXsLQh5Jy2xa200810&isfromapp=1",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "秘鲁新增7012例新冠肺炎确诊病例 累计确诊近48万",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti323blwjH04X25cSnYe4q200810&isfromapp=1",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "8月9日新疆（含兵团）新增14例新冠肺炎确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtistQ0nEIjVgWg3M9MMF7e200810&isfromapp=1",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "上海入境航班连续出现输入病例 相关部门启动熔断机制",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCaFBo6o0VVGP4M9bNI2m200810&isfromapp=1",
         "date": "2020-08-10"
       }
     ]
@@ -15739,7 +15739,27 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "哪种 Python 库 修改 excel 文件能保存原有样式？",
+        "title": "开发主力机 小心升级 Big Sur",
+        "link": "https://www.v2ex.com/t/697070",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "前后端未分离的情况下，如何顺畅的使用 vue ?",
+        "link": "https://www.v2ex.com/t/697069",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "最近 2 个月阿里云香港的 GIA CN2 不稳定",
+        "link": "https://www.v2ex.com/t/697068",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "微信发错到公司群， TMD。",
+        "link": "https://www.v2ex.com/t/697067",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "哪种 Python 库 修改 excel 文件能保存原有格式？",
         "link": "https://www.v2ex.com/t/697065",
         "date": "2020-08-10"
       },
@@ -15897,21 +15917,6 @@
         "title": "怎样将 etcd 挂载成本地的一个文件夹",
         "link": "https://www.v2ex.com/t/697022",
         "date": "2020-08-10"
-      },
-      {
-        "title": "基于 Rust + WebAssembly 的 UI 组件库",
-        "link": "https://www.v2ex.com/t/697019",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "上次评最好用的银行 app，这次吐槽下最难用的银行 app",
-        "link": "https://www.v2ex.com/t/697018",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "腾讯北京视频线招聘，后台开发，目标职级 2-2，工作三年左右。",
-        "link": "https://www.v2ex.com/t/697016",
-        "date": "2020-08-10"
       }
     ]
   },
@@ -15920,6 +15925,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "如何替公司省下数千万勒索费用 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13664&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F178966551%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-10"
+      },
       {
         "title": "敏捷交付中的自动化测试 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13663&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-in-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -16014,11 +16024,6 @@
         "title": "又拍云网关速率限制实践 (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13645&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F164735755%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-08-10"
-      },
-      {
-        "title": "超实用图片工具网站，值得典藏 (www.jeffjade.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13644&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F07%2F27%2F165-aweome-picture-tool-website-list%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-10"
       }
     ]
   },
@@ -16108,13 +16113,13 @@
         "date": "2020-08-10"
       },
       {
-        "title": "论文盘点：ICCV 2019 Top 20，MobileNetV3 居首！",
-        "link": "https://toutiao.io/k/1tb36ni",
+        "title": "[译] React 测试驱动开发：从用户故事到产品",
+        "link": "https://toutiao.io/k/29s7zqw",
         "date": "2020-08-10"
       },
       {
-        "title": "[译] React 测试驱动开发：从用户故事到产品",
-        "link": "https://toutiao.io/k/29s7zqw",
+        "title": "论文盘点：ICCV 2019 Top 20，MobileNetV3 居首！",
+        "link": "https://toutiao.io/k/1tb36ni",
         "date": "2020-08-10"
       },
       {
@@ -16128,63 +16133,8 @@
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-10"
-      },
-      {
         "title": "[推荐] 监控系统选型，这篇不可不读",
         "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
         "date": "2020-08-10"
       },
       {
@@ -16193,13 +16143,68 @@
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
+        "link": "https://toutiao.io/k/329gcr0",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-10"
       }
     ]

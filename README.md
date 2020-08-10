@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 06:33:30，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 06:46:15，:rocket: 更新条数: +3288， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-10-受疫情影响-近八成美国受访者担心还不上信用卡债](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCklaBiQ4yj2v90mZS6p2200810&isfromapp=1) ![](assets/new.png)  
+- [2020-08-10-哈萨克斯坦新增741例新冠肺炎确诊病例-累计确诊近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimIfn6NCdOgTsA2nFeyEr200810&isfromapp=1) ![](assets/new.png)  
+- [2020-08-10-大连金普新区：对已解除封闭地区实行社区管控-出台支持冷链物流和水产品加工企业发展措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigzNWXrAIAd3fzl5QfVr2200810&isfromapp=1) ![](assets/new.png)  
+- [2020-08-10-大连金普新区进行多次核酸检测-流调筛查11593人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikxUBksUvqip4ORFvH3RZ200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-大连4处中风险地区全部解除封闭-恢复正常生产生活](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticJdfRfNW7C4CXC4SdIqQ200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-大连市最后一个中风险小区解封！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijXVxd27DGXsLQh5Jy2xa200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-秘鲁新增7012例新冠肺炎确诊病例-累计确诊近48万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti323blwjH04X25cSnYe4q200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-8月9日新疆（含兵团）新增14例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtistQ0nEIjVgWg3M9MMF7e200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-上海入境航班连续出现输入病例-相关部门启动熔断机制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCaFBo6o0VVGP4M9bNI2m200810&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,11 @@
 </summary>
 
 
-- [2020-08-10-哪种-Python-库-修改-excel-文件能保存原有样式？](https://www.v2ex.com/t/697065) ![](assets/new.png)  
+- [2020-08-10-开发主力机-小心升级-Big-Sur](https://www.v2ex.com/t/697070) ![](assets/new.png)  
+- [2020-08-10-前后端未分离的情况下，如何顺畅的使用-vue-?](https://www.v2ex.com/t/697069) ![](assets/new.png)  
+- [2020-08-10-最近-2-个月阿里云香港的-GIA-CN2-不稳定](https://www.v2ex.com/t/697068) ![](assets/new.png)  
+- [2020-08-10-微信发错到公司群，-TMD。](https://www.v2ex.com/t/697067) ![](assets/new.png)  
+- [2020-08-10-哪种-Python-库-修改-excel-文件能保存原有格式？](https://www.v2ex.com/t/697065) ![](assets/new.png)  
 - [2020-08-10-我也来带带各位想学英语的-v-友吧-第六帖](https://www.v2ex.com/t/697064) ![](assets/new.png)  
 - [2020-08-10-阿里巴巴达摩院城市大脑实验室实习生招聘](https://www.v2ex.com/t/697063) ![](assets/new.png)  
 - [2020-08-10-如何和程序员打成一片](https://www.v2ex.com/t/697062) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-10-给我-6-个月的弟弟写了个网站，求意见~](https://www.v2ex.com/t/697049) ![](assets/new.png)  
 - [2020-08-10-如何拒绝大学同学的婚礼邀请？](https://www.v2ex.com/t/697047) ![](assets/new.png)  
 - [2020-08-10-PerfDog-助力自动化性能测试探索](https://www.v2ex.com/t/697046) ![](assets/new.png)  
-- [2020-08-10-请教-alfred-不走代理问题](https://www.v2ex.com/t/697044) ![](assets/new.png)  
-- [2020-08-10-继续上次的问题，那大厂的外包又是个啥情况了？](https://www.v2ex.com/t/697043) ![](assets/new.png)  
-- [2020-08-10-广州移动办公去哪里好？](https://www.v2ex.com/t/697042) ![](assets/new.png)  
-- [2020-08-10-mac-网速很快，就是浏览器看视频一直在缓冲，很奇怪。。你们有过这种情况嘛](https://www.v2ex.com/t/697041) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,6 +1083,7 @@
 </summary>
 
 
+- [2020-08-10-如何替公司省下数千万勒索费用-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13664&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F178966551%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-10-敏捷交付中的自动化测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13663&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-in-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-10-敏捷项目如何拥有管理变化的能力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13662&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-management-in-agile-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-10-Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1102,7 +1103,6 @@
 - [2020-08-10-如何基于-Typescript-开发快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13647&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-use-typescript-develop-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-10-小图标，大学问-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13646&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-icon-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-10-又拍云网关速率限制实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13645&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F164735755%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-10-超实用图片工具网站，值得典藏-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13644&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F07%2F27%2F165-aweome-picture-tool-website-list%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1130,8 @@
 - [2020-08-10-Java-开发必备！I/O-与-Netty-原理精讲](https://toutiao.io/k/akb3r9c) ![](assets/new.png)  
 - [2020-08-10-一文带你看懂二叉树的序列化](https://toutiao.io/k/7sq7da9) ![](assets/new.png)  
 - [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
-- [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
 - [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) ![](assets/new.png)  
+- [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
 - [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) ![](assets/new.png)  
 - [2020-08-10-flow.ci-v0.20.30-发布：简单而强大的开源-CI/CD-工具](https://toutiao.io/k/wwzvw0a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

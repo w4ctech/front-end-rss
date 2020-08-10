@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-10 01:02:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 01:10:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2020-08-09-8月9日全国新增新冠49例-境外输入35例本土新疆14例](http://m.china.caixin.com/m/2020-08-10/101590704.html) 
+- [2020-08-09-大流行手记|8月9日：日本澄清新冠病毒变异-特朗普谋求疫苗大选前出炉](https://m.caixin.com/m/2020-08-10/101590711.html) 
 - [2020-08-08-最新疫情：全国新冠累计确诊84619例-新疆本土新增15例](http://m.china.caixin.com/m/2020-08-09/101590630.html) 
 - [2020-08-08-最新海外疫情：新冠感染者超1951万-累计死亡超72万](http://m.international.caixin.com/m/2020-08-09/101590636.html) 
 - [2020-08-08-【境内疫情观察】新疆新增15例本土病例（8月8日）](http://m.database.caixin.com/m/2020-08-09/101590640.html) 
@@ -2403,6 +2404,7 @@
 - [2020-08-04-开播即爆款的《三十而已》，却让我看清了国产剧的「真面目」](https://www.ershicimi.com/p/779698f9263d720874486e310931e6e9) 
 - [2020-08-04-万茜采访「翻车」：越火，越能看出一个人的本性](https://www.ershicimi.com/p/5ca679950035bfe101e02dcdfbea5c02) 
 - [2020-08-04-知乎故事-|-我是被老婆「撩」到手的](https://www.ershicimi.com/p/7489ac9af61c0d3007895a981ef3a938) 
+- [2020-08-10-Excelize-发布-2.3.0-版本，-Go-语言-Excel-文档基础库](https://www.v2ex.com/t/696945) 
 - [2020-08-10-zip,-unzip-zipinfo-压缩级别问题](https://www.v2ex.com/t/696943) 
 - [2020-08-10-各位设计开发自己的框架过程中使用了多少个设计模式？](https://www.v2ex.com/t/696942) 
 - [2020-08-09-（murus）用过这个软件的人能分享一下使用体验吗](https://www.v2ex.com/t/696939) 
@@ -2428,8 +2430,6 @@
 - [2020-08-09-笔记本液晶屏要不要贴膜](https://www.v2ex.com/t/696902) 
 - [2020-08-09-都-2020-年了，-iCloud-恢复为何还是如此的难用](https://www.v2ex.com/t/696900) 
 - [2020-08-09-2000-大洋+若干电币，远程工作者社区，电鸭社区征集个正儿八经的-LOGO；顺便预告-APP-要开搞了！](https://www.v2ex.com/t/696898) 
-- [2020-08-09-解锁闪屏](https://www.v2ex.com/t/696896) 
-- [2020-08-09-Apple-Watch-噪声监测什么情况下会把数据加入到健康-App-的“环境音量级别”里面去](https://www.v2ex.com/t/696895) 
 - [2020-08-10-敏捷交付中的自动化测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13663&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-in-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-10-敏捷项目如何拥有管理变化的能力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13662&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-management-in-agile-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-10-Android-MVP-&&-MVVM深度解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13660&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGj8fxXwQVAy7J9sOIp10xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -2453,14 +2453,15 @@
 - [2020-08-10-译-代码中如何写出更有意义的命名](https://toutiao.io/k/obq5g8g) 
 - [2020-08-10-为了解决-Prometheus-大内存问题，我竟然强行将-Prometheus-Operator-给肢解了](https://toutiao.io/k/u3liqwk) 
 - [2020-08-10-敏捷项目如何拥有管理变化的能力？](https://toutiao.io/k/bj5uk47) 
-- [2020-08-10-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
-- [2020-08-10-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
-- [2020-08-10-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) 
-- [2020-08-10-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
+- [2020-08-10-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
+- [2020-08-10-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) 
+- [2020-08-10-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
 - [2020-08-10-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
-- [2020-08-10-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
+- [2020-08-10-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
+- [2020-08-10-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
+- [2020-08-10-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
+- [2020-08-10-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) 
 - [2020-08-10-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
-- [2020-08-10-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) 
 - [2020-08-08-资金大举出逃,比特币未来何去何从?](https://sec.thief.one/article_content?a_id=f24fcbc0bcffa31bbf9695b72962f882) 
 - [2020-08-08-红队渗透手册之弹药篇](https://sec.thief.one/article_content?a_id=5522034aee8997bef73c96927d37c5b9) 
 - [2020-08-08-POC-T源码分析](https://sec.thief.one/article_content?a_id=f276cf3981de642849aaa54a7a3fc6d7) 

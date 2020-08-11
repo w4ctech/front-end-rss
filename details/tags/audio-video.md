@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-11 08:11:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 08:21:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,7 +88,6 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-06-张玉环被羁押近-27-年后无罪释放，他前妻接受采访的视频却刷屏了](https://www.ershicimi.com/p/882172c69d257f4c5f68e3dd2aa0249d) 
 - [2020-08-11-看到同事玩的王者荣耀手游自动生成的视频，不得不佩服做的配套服务](https://www.v2ex.com/t/697362) 
 - [2020-08-11-WebRTC-的电脑和手机端浏览器支持](https://toutiao.io/k/oskbqlc) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 11:02:42，:rocket: 更新条数: +3297， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 11:09:09，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-11-Fastify-框架无法启动，提示插件运行超时：-ERR_AVVIO_PLUGIN_TIMEOUT:，请问有熟悉这个框架的大神吗？](https://www.v2ex.com/t/697474) ![](assets/new.png)  
 - [2020-08-11-如何实现完成文件修改时自动生成修改日志](https://www.v2ex.com/t/697471) ![](assets/new.png)  
 - [2020-08-11-北京-iOS-知春路优质初创团队招人~出海游戏方向~1-年以上经验即可，-15~30K](https://www.v2ex.com/t/697470) ![](assets/new.png)  
 - [2020-08-11-招聘南京麒麟科创园母婴电商，诚招高级前端工程师/架构师（25-35K·13-薪），妹子超多](https://www.v2ex.com/t/697469) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-11-来说说你碰到最让人讨厌的理发店吧](https://www.v2ex.com/t/697451) ![](assets/new.png)  
 - [2020-08-11-下班后总想着工作上的事咋办](https://www.v2ex.com/t/697450) ![](assets/new.png)  
 - [2020-08-11-intel-nuc-nuc10i5fnk-明明就是一颗-15w-的-i5-10210u,-为什么电源需要-90w](https://www.v2ex.com/t/697448) ![](assets/new.png)  
-- [2020-08-11-南京-魔格继续招聘研发工程师，找工作的小伙伴，进来看看吧~](https://www.v2ex.com/t/697447) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

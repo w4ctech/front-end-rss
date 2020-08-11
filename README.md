@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 11:48:29，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 12:03:09，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-11-​确诊新冠肺炎，印度前总统慕克吉手术后病情危重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioV4A3jo32qQQ66HKx0rP200811&isfromapp=1) ![](assets/new.png)  
+- [2020-08-11-波兰新增新冠肺炎确诊病例551例-累计52961例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCHV4QhsUCrEOZo7YcZNo200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-普京：俄研发新冠疫苗已通过国家注册-将于明年流通](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixOrpAX0EUzDmGyOflr7q200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-乌鲁木齐为特殊人群车辆开辟绿色通道-优先查验保障通行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG8UMYdPdF3DxF12xJqFU200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-乌鲁木齐治愈出院确诊病例和解除医学观察的无症状感染者总数超300例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyaQr6eF1YwhtUw37mXae200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-11-​巴林新增386例新冠肺炎确诊病例-累计44397例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifYTSh70VBVjl93MiyB1S200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-11-大连工人村社区疫情风险等级由中风险调整为低风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiazoCcN7wlO5KwNiAWiqk200811&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-11-c++里怎么对函数做-hash，或者获得函数的函数签名](https://www.v2ex.com/t/697486) ![](assets/new.png)  
+- [2020-08-11-某宝-cpu-散片主板套求教](https://www.v2ex.com/t/697485) ![](assets/new.png)  
+- [2020-08-11-明天这是要下多大雨啊，有没有穿越的老哥。。。](https://www.v2ex.com/t/697483) ![](assets/new.png)  
 - [2020-08-11-谷歌地图国内没有偏移了](https://www.v2ex.com/t/697482) ![](assets/new.png)  
 - [2020-08-11-腾讯云-Serverless-支撑「新东方」核心业务算力资源](https://www.v2ex.com/t/697481) ![](assets/new.png)  
 - [2020-08-11-一面数据正在寻找对数据领域有热情的伙伴](https://www.v2ex.com/t/697480) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-11-时间的本质-穿越时空-小想法](https://www.v2ex.com/t/697462) ![](assets/new.png)  
 - [2020-08-11-请教一个关于-nginx-proxy_pass-的问题](https://www.v2ex.com/t/697461) ![](assets/new.png)  
 - [2020-08-11-如何理性，实施规则不被其他情感左右判断?](https://www.v2ex.com/t/697460) ![](assets/new.png)  
-- [2020-08-11-因业务软件通过-socks5-无法正常工作-需要-vp-嗯这类全局的-Linux-下自建的话现在什么协议还比较不受干扰](https://www.v2ex.com/t/697459) ![](assets/new.png)  
-- [2020-08-11-求助-C#-关于-DirectX-的编程，如何控制系统左右声道播放不同-WAV-音频](https://www.v2ex.com/t/697458) ![](assets/new.png)  
-- [2020-08-11-我的-MacBook-Pro-16inch-2019-烧掉了](https://www.v2ex.com/t/697457) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

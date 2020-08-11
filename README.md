@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 10:03:00，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 10:09:51，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-11-下班后总想着工作上的事咋办](https://www.v2ex.com/t/697450) ![](assets/new.png)  
 - [2020-08-11-intel-nuc-nuc10i5fnk-明明就是一颗-15w-的-i5-10210u,-为什么电源需要-90w](https://www.v2ex.com/t/697448) ![](assets/new.png)  
 - [2020-08-11-南京-魔格继续招聘研发工程师，找工作的小伙伴，进来看看吧~](https://www.v2ex.com/t/697447) ![](assets/new.png)  
 - [2020-08-11-react-redux-异步-dispatch-求助](https://www.v2ex.com/t/697445) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-11-招聘-北京-DevOps-工程师](https://www.v2ex.com/t/697429) ![](assets/new.png)  
 - [2020-08-11-杭州-阿里-阿里巴巴-业务平台事业部--Java-P6/P7-交易平台，核心部门，位置多多，机会多多！](https://www.v2ex.com/t/697428) ![](assets/new.png)  
 - [2020-08-11-大家-996-和大小周的是公司制度里直接写明的还是领导口头说的](https://www.v2ex.com/t/697427) ![](assets/new.png)  
-- [2020-08-11-问一下-MAC-电脑怎么备份升级呀？](https://www.v2ex.com/t/697426) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

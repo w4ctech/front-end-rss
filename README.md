@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 01:21:19，:rocket: 更新条数: +3288， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 01:31:25，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-08-10-8月10日全国新增新冠44例-境外输入31例本土新疆13例](https://m.caixin.com/m/2020-08-11/101591142.html) ![](assets/new.png)  
 - [2020-08-10-【图集】韩国首尔南大门市场现新冠聚集性感染事件](http://m.photos.caixin.com/m/2020-08-11/101591137.html) ![](assets/new.png)  
 - [2020-08-09-输入性新冠病例陡增-上海将加强国际航班远端管控](http://m.companies.caixin.com/m/2020-08-10/101590870.html) ![](assets/new.png)  
 - [2020-08-09-最新海外疫情：新冠感染者近1974万-累计死亡超72.6万](https://m.caixin.com/m/2020-08-10/101590953.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-05-大流行手记|8月5日：疫情加剧教育不平等-俄将开展未成年人新冠疫苗实验](https://m.caixin.com/m/2020-08-06/101589309.html) ![](assets/new.png)  
 - [2020-08-04-【境内疫情观察】新疆新增22例本土病例（8月4日）](http://m.database.caixin.com/m/2020-08-05/101588974.html) ![](assets/new.png)  
 - [2020-08-04-大流行手记|8月4日：南美确诊破500万-英国备战9月开学力阻新疫情](https://m.caixin.com/m/2020-08-05/101588777.html) ![](assets/new.png)  
-- [2020-08-04-杭州新增一例新疆无症状感染者-曾在沪杭两地活动](http://m.china.caixin.com/m/2020-08-05/101589141.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-11-如何纠正觉得傻子太多影响工作的不良心态](https://www.v2ex.com/t/697250) ![](assets/new.png)  
+- [2020-08-11-求助一位-zabbix-老师傅带带我](https://www.v2ex.com/t/697248) ![](assets/new.png)  
+- [2020-08-11-开始玩无人机,-第一次上传作品](https://www.v2ex.com/t/697247) ![](assets/new.png)  
 - [2020-08-11-微信红包封面还有热度吗，现在哪里可以找到可以用的红包封面呀？](https://www.v2ex.com/t/697244) ![](assets/new.png)  
 - [2020-08-11-Chrome-扩展---V2EX-悬停名片](https://www.v2ex.com/t/697243) ![](assets/new.png)  
 - [2020-08-11-iMac-2020-27"-到货了，遇到了内存降频的问题](https://www.v2ex.com/t/697242) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-10-如何解决-Linux-防火墙完全失效的问题？](https://www.v2ex.com/t/697228) ![](assets/new.png)  
 - [2020-08-10-Apple-预约服务现在为啥需要身份信息了？](https://www.v2ex.com/t/697225) ![](assets/new.png)  
 - [2020-08-10-坐标北京想入手共有产权房](https://www.v2ex.com/t/697224) ![](assets/new.png)  
-- [2020-08-10-打造一个-Geek-风的-github-主页](https://www.v2ex.com/t/697223) ![](assets/new.png)  
-- [2020-08-10-Google-Voice-/-GV-自动回复短信](https://www.v2ex.com/t/697222) ![](assets/new.png)  
-- [2020-08-10-如何在不拔掉外接显示器的情况下只使用内置屏幕](https://www.v2ex.com/t/697221) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,21 +1119,21 @@
 - [2020-08-11-Java-项目如何分层](https://toutiao.io/k/uxp2jfz) ![](assets/new.png)  
 - [2020-08-11-SpringCloud-微服务：基于-Nacos-组件，整合-Dubbo-框架](https://toutiao.io/k/b8afztf) ![](assets/new.png)  
 - [2020-08-11-译-你现在应该启用的-10-个超棒的-Chrome-功能](https://toutiao.io/k/zboy302) ![](assets/new.png)  
+- [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
 - [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  
 - [2020-08-11-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
 - [2020-08-11-译-混沌游戏日:混沌的手把手指南](https://toutiao.io/k/he095kf) ![](assets/new.png)  
-- [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
 - [2020-08-11-简直骚操作，ThreadLocal-还能当缓存用](https://toutiao.io/k/rvcs221) ![](assets/new.png)  
 - [2020-08-11-了不起的-Istio](https://toutiao.io/k/u6nqgc5) ![](assets/new.png)  
 - [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
 - [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
 - [2020-08-11-Redis-的持久化方案扩展讲解](https://toutiao.io/k/t4rlaaz) ![](assets/new.png)  
-- [2020-08-11-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
-- [2020-08-11-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-11-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-11-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-11-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-11-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-11-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-11-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-11-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-11-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-11-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-11-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

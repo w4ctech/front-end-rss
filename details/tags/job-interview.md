@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-11 10:20:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 10:31:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -59,4 +59,6 @@
 - [2020-08-11-南京-魔格继续招聘研发工程师，找工作的小伙伴，进来看看吧~](https://www.v2ex.com/t/697447) 
 - [2020-08-11-招聘-北京-UI/UX-设计师](https://www.v2ex.com/t/697435) 
 - [2020-08-11-招聘-北京-DevOps-工程师](https://www.v2ex.com/t/697429) 
+- [2020-08-11-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
+- [2020-08-11-推荐-面试高频题：Spring-Boot-自动装配的原理你能说出来吗？](https://toutiao.io/k/lpc9n3o) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

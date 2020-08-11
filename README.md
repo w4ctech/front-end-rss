@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 10:20:11，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 10:31:34，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,9 +1052,11 @@
 </summary>
 
 
+- [2020-08-11-因业务软件通过-socks5-无法正常工作-需要-vp-嗯这类全局的-Linux-下自建的话现在什么协议还比较不受干扰](https://www.v2ex.com/t/697459) ![](assets/new.png)  
+- [2020-08-11-求助-C#-关于-DirectX-的编程，如何控制系统左右声道播放不同-WAV-音频](https://www.v2ex.com/t/697458) ![](assets/new.png)  
+- [2020-08-11-我的-MacBook-Pro-16inch-2019-烧掉了](https://www.v2ex.com/t/697457) ![](assets/new.png)  
 - [2020-08-11-1-元秒杀-大厂高频设计模式应用及分析](https://www.v2ex.com/t/697455) ![](assets/new.png)  
 - [2020-08-11-Flutter-Movies-v1.1.0-更新](https://www.v2ex.com/t/697454) ![](assets/new.png)  
-- [2020-08-11-Tiktok-这么多美国用户，为什么美国-ZF-不能倾听民生却仍然坚持封锁啊？](https://www.v2ex.com/t/697453) ![](assets/new.png)  
 - [2020-08-11-iOS-14-beta地图能-app-单独改语言么?](https://www.v2ex.com/t/697452) ![](assets/new.png)  
 - [2020-08-11-来说说你碰到最让人讨厌的理发店吧](https://www.v2ex.com/t/697451) ![](assets/new.png)  
 - [2020-08-11-下班后总想着工作上的事咋办](https://www.v2ex.com/t/697450) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-11-debian-9-如何升级-5.6-內核？](https://www.v2ex.com/t/697436) ![](assets/new.png)  
 - [2020-08-11-招聘-北京-UI/UX-设计师](https://www.v2ex.com/t/697435) ![](assets/new.png)  
 - [2020-08-11-QQ-for-macOS-为什么偏好设置没用啊](https://www.v2ex.com/t/697434) ![](assets/new.png)  
-- [2020-08-11-parallels-desktop-发布-16-版本了](https://www.v2ex.com/t/697433) ![](assets/new.png)  
-- [2020-08-11-北京数美科技-招收-前端，测试，服务端研发，还有更多岗位-，都可以联系我！](https://www.v2ex.com/t/697432) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,8 +1129,8 @@
 - [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
 - [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
 - [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
-- [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
 - [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
+- [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
 - [2020-08-11-分享几个亲测有效的高效工作技巧](https://toutiao.io/k/13dp300) ![](assets/new.png)  
 - [2020-08-11-力扣1519：子树中标签相同的节点数](https://toutiao.io/k/fq3x5o9) ![](assets/new.png)  
 - [2020-08-11-Python-为什么能支持任意的真值判断？](https://toutiao.io/k/9z0vtmx) ![](assets/new.png)  

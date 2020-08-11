@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 07:48:06，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 08:02:55，:rocket: 更新条数: +3295， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-11-游戏辅助开发人员公开招聘有没有问题](https://www.v2ex.com/t/697396) ![](assets/new.png)  
+- [2020-08-11-很好奇这种文字是怎么做出来的](https://www.v2ex.com/t/697395) ![](assets/new.png)  
+- [2020-08-11-win10-开机久了也卡，好无赖](https://www.v2ex.com/t/697394) ![](assets/new.png)  
+- [2020-08-11-请问-go-build-出现私有仓库下载不了怎么解决？](https://www.v2ex.com/t/697393) ![](assets/new.png)  
 - [2020-08-11-求公司名字](https://www.v2ex.com/t/697392) ![](assets/new.png)  
 - [2020-08-11-请教一个关于-airflow-的问题](https://www.v2ex.com/t/697391) ![](assets/new.png)  
 - [2020-08-11-如果后续-Github，-Stackoverflow-都开始屏蔽中国用户，会有什么影响？](https://www.v2ex.com/t/697389) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-11-CODING-DevOps-代码质量实战系列第二课，相约周三](https://www.v2ex.com/t/697376) ![](assets/new.png)  
 - [2020-08-11-给-NBA-球星杜兰特的女神寡姐画上-Thug-Life-特效](https://www.v2ex.com/t/697375) ![](assets/new.png)  
 - [2020-08-11-关于点赞模块在高并发下的优化处理，求方案](https://www.v2ex.com/t/697374) ![](assets/new.png)  
-- [2020-08-11-阿里云产品优惠返佣-15%起，不影响发票](https://www.v2ex.com/t/697373) ![](assets/new.png)  
-- [2020-08-11-今天去天才吧让我有种去理发店的感觉。。。。](https://www.v2ex.com/t/697372) ![](assets/new.png)  
-- [2020-08-11-现在安卓就没有类似-v2er-开发的小账本-app-一样的软件嘛？？求推荐](https://www.v2ex.com/t/697370) ![](assets/new.png)  
-- [2020-08-11-大家都用什么比特币钱包？我用-bitpay，不知道安全不？不敢收大额的款](https://www.v2ex.com/t/697369) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

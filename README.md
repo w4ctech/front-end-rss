@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 07:02:48，:rocket: 更新条数: +3291， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 07:09:22，:rocket: 更新条数: +773， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-08-10-最新疫情：全国新冠累计确诊84712例-新增境外输入31例](http://m.china.caixin.com/m/2020-08-11/101591230.html) ![](assets/new.png)  
-- [2020-08-10-大流行手记|8月10日：美国疫情曲线呈降势-印度连续12天新增破5万例](https://m.caixin.com/m/2020-08-11/101591157.html) ![](assets/new.png)  
-- [2020-08-10-【图集】韩国首尔南大门市场现新冠聚集性感染事件](http://m.photos.caixin.com/m/2020-08-11/101591137.html) ![](assets/new.png)  
-- [2020-08-09-输入性新冠病例陡增-上海将加强国际航班远端管控](http://m.companies.caixin.com/m/2020-08-10/101590870.html) ![](assets/new.png)  
-- [2020-08-09-最新海外疫情：新冠感染者近1974万-累计死亡超72.6万](https://m.caixin.com/m/2020-08-10/101590953.html) ![](assets/new.png)  
-- [2020-08-09-【境内疫情观察】全国新增35例境外输入病例（8月9日）](http://m.database.caixin.com/m/2020-08-10/101590804.html) ![](assets/new.png)  
-- [2020-08-09-大流行手记|8月9日：日本澄清新冠病毒变异-特朗普谋求疫苗大选前出炉](https://m.caixin.com/m/2020-08-10/101590711.html) ![](assets/new.png)  
-- [2020-08-09-澳大利亚单日新增死亡病例创新高-新西兰连续百日无社区传播](http://m.international.caixin.com/m/2020-08-10/101590950.html) ![](assets/new.png)  
-- [2020-08-09-美国疫情现趋缓迹象-新增和死亡病例7日均值双双下行](http://m.international.caixin.com/m/2020-08-10/101590833.html) ![](assets/new.png)  
-- [2020-08-08-【境内疫情观察】新疆新增15例本土病例（8月8日）](http://m.database.caixin.com/m/2020-08-09/101590640.html) ![](assets/new.png)  
-- [2020-08-08-大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html) ![](assets/new.png)  
-- [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
-- [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) ![](assets/new.png)  
-- [2020-08-06-香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html) ![](assets/new.png)  
-- [2020-08-06-【境内疫情观察】北京新发地聚集性疫情在院病例清零（8月6日）](http://m.database.caixin.com/m/2020-08-07/101589969.html) ![](assets/new.png)  
-- [2020-08-06-大流行手记|8月6日：亚欧多国疫情继续回升-越南建起方舱医院](https://m.caixin.com/m/2020-08-07/101589796.html) ![](assets/new.png)  
-- [2020-08-05-广东再收紧香港入境要求-核酸检测报告时限缩短至24小时](http://m.china.caixin.com/m/2020-08-06/101589532.html) ![](assets/new.png)  
-- [2020-08-05-【境内疫情观察】全国新增30例本土病例（8月5日）](http://m.database.caixin.com/m/2020-08-06/101589410.html) ![](assets/new.png)  
-- [2020-08-05-大流行手记|8月5日：疫情加剧教育不平等-俄将开展未成年人新冠疫苗实验](https://m.caixin.com/m/2020-08-06/101589309.html) ![](assets/new.png)  
-- [2020-08-04-【境内疫情观察】新疆新增22例本土病例（8月4日）](http://m.database.caixin.com/m/2020-08-05/101588974.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +75,11 @@
 </summary>
 
 
+- [2020-08-11-​巴林新增386例新冠肺炎确诊病例-累计44397例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifYTSh70VBVjl93MiyB1S200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-大连工人村社区疫情风险等级由中风险调整为低风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiazoCcN7wlO5KwNiAWiqk200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-克服疫情影响-大连支持政策来了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiGzPbNxZciFVK2PUWliM200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-热评丨这场“寒假连着暑假”的开学-平稳顺利是全社会之盼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimY0Txo6bS6mbkQkXacL3200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-国家卫健委：昨日新增确诊病例44例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYtYvcMcH05CYnk4pG5p3200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-谭德塞：已看到扑灭疫情的希望-但要做好两点工作](https://m.weibo.cn/3057540037/4536635292649726) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1032,8 @@
 </summary>
 
 
+- [2020-08-11-继上次被阿里的-hr-连拒两次之后。](https://www.v2ex.com/t/697377) ![](assets/new.png)  
+- [2020-08-11-CODING-DevOps-代码质量实战系列第二课，相约周三](https://www.v2ex.com/t/697376) ![](assets/new.png)  
 - [2020-08-11-给杜兰特的女神画上-Thug-Life-特效](https://www.v2ex.com/t/697375) ![](assets/new.png)  
 - [2020-08-11-关于点赞模块在高并发下的优化处理，求方案](https://www.v2ex.com/t/697374) ![](assets/new.png)  
 - [2020-08-11-阿里云产品优惠返佣-15%起，不影响发票](https://www.v2ex.com/t/697373) ![](assets/new.png)  
@@ -1070,8 +1052,6 @@
 - [2020-08-11-mysql-主键用自增-id-还是雪花-id?](https://www.v2ex.com/t/697358) ![](assets/new.png)  
 - [2020-08-11-成都爱奇艺-游戏小伙伴来看下，-U3D（HC4）、erlang、关卡策划](https://www.v2ex.com/t/697355) ![](assets/new.png)  
 - [2020-08-11-现想买个低端-win-笔记本，-3k-价位还有必要入二手么？](https://www.v2ex.com/t/697354) ![](assets/new.png)  
-- [2020-08-11-我用了-3-天上线了一个小程序来解决「今天喝什么」的问题，欢迎大家试玩](https://www.v2ex.com/t/697352) ![](assets/new.png)  
-- [2020-08-11-哪里有比较全的全国-省市信息-json-文件，比如](https://www.v2ex.com/t/697349) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

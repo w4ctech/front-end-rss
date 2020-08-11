@@ -13893,6 +13893,16 @@
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
       {
+        "title": "常见的逻辑判断优化技巧",
+        "link": "https://www.ershicimi.com/p/7c8b8f62855e4546433d638252593475",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "前端框架选择Vue的理由",
+        "link": "https://www.ershicimi.com/p/61da09eb11f6a082d0001338169310a4",
+        "date": "2020-08-10"
+      },
+      {
         "title": "从零开始配置 TypeScript 项目",
         "link": "https://www.ershicimi.com/p/f842f28fb8eef6f52b56004e9b29fcf1",
         "date": "2020-08-08"
@@ -13981,16 +13991,6 @@
         "title": "写给前端的算法进阶指南，我是如何两个月零基础刷200题",
         "link": "https://www.ershicimi.com/p/fec885f94bafb0c093efefe73a66a093",
         "date": "2020-07-21"
-      },
-      {
-        "title": "没错，华为又对前端下手了！",
-        "link": "https://www.ershicimi.com/p/7ad48832cb77734e12cb44f7d30a3423",
-        "date": "2020-07-21"
-      },
-      {
-        "title": "程序猿的庚子年，到底有多难？",
-        "link": "https://www.ershicimi.com/p/b4d51a490ff34e6c6550314ef954ac61",
-        "date": "2020-07-20"
       }
     ]
   },
@@ -15759,6 +15759,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[求问问题相关] 请问各位大佬公司的私人 Git 库方案用的是什么 [有 CICD 持续集成扩展方向的]",
+        "link": "https://www.v2ex.com/t/697341",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "工作求职",
+        "link": "https://www.v2ex.com/t/697340",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "今年裸辞找工作有感",
+        "link": "https://www.v2ex.com/t/697339",
+        "date": "2020-08-11"
+      },
+      {
         "title": "还有啥可以检测微信单向好友的工具吗",
         "link": "https://www.v2ex.com/t/697337",
         "date": "2020-08-11"
@@ -15922,21 +15937,6 @@
         "title": "是不是学 IT 的毕业生越多， 996 和大小周也就越来越多？",
         "link": "https://www.v2ex.com/t/697294",
         "date": "2020-08-11"
-      },
-      {
-        "title": "美团点评- Java 研发工程师",
-        "link": "https://www.v2ex.com/t/697292",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "大量数据查询的方法-面试困难",
-        "link": "https://www.v2ex.com/t/697291",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "求推荐写测试用例的工具",
-        "link": "https://www.v2ex.com/t/697289",
-        "date": "2020-08-11"
       }
     ]
   },
@@ -16078,13 +16078,13 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[译] 你现在应该启用的 10 个超棒的 Chrome 功能",
-        "link": "https://toutiao.io/k/zboy302",
+        "title": "HBase/TiDB 都在用的数据结构：LSM Tree，不得了解一下？",
+        "link": "https://toutiao.io/k/v90if5y",
         "date": "2020-08-11"
       },
       {
-        "title": "HBase/TiDB 都在用的数据结构：LSM Tree，不得了解一下？",
-        "link": "https://toutiao.io/k/v90if5y",
+        "title": "[译] 你现在应该启用的 10 个超棒的 Chrome 功能",
+        "link": "https://toutiao.io/k/zboy302",
         "date": "2020-08-11"
       },
       {
@@ -16108,6 +16108,11 @@
         "date": "2020-08-11"
       },
       {
+        "title": "这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-11"
+      },
+      {
         "title": "[译] 凡人如何理解 lockless 算法？",
         "link": "https://toutiao.io/k/ounv0el",
         "date": "2020-08-11"
@@ -16115,11 +16120,6 @@
       {
         "title": "Canal binlog 日志 Dump 流程分析",
         "link": "https://toutiao.io/k/cymdlzo",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
         "date": "2020-08-11"
       },
       {
@@ -16153,23 +16153,13 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-11"
       },
       {
@@ -16178,23 +16168,23 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-11"
       },
       {
         "title": "[推荐] Java 线程池深度揭秘",
         "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-11"
       },
       {
@@ -16208,23 +16198,33 @@
         "date": "2020-08-11"
       },
       {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-11"
+      },
+      {
         "title": "[推荐] 监控系统选型，这篇不可不读",
         "link": "https://toutiao.io/k/cg7r5ft",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-11"
       }
     ]

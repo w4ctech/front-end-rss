@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 18:02:39，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 18:10:27，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-11-k30u-这个搞法真的没问题吗？自家其它货怎么卖？](https://www.v2ex.com/t/697540) ![](assets/new.png)  
 - [2020-08-11-20200812-午夜俱乐部](https://www.v2ex.com/t/697539) ![](assets/new.png)  
 - [2020-08-11-我的树莓派使用记录](https://www.v2ex.com/t/697538) ![](assets/new.png)  
 - [2020-08-11-带了半个月的实习生提桶跑路了，怎么适应？](https://www.v2ex.com/t/697536) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-11-android-小组件的问题？](https://www.v2ex.com/t/697521) ![](assets/new.png)  
 - [2020-08-11-有抢到小米-10-至尊纪念版亮银色的兄弟吗？](https://www.v2ex.com/t/697520) ![](assets/new.png)  
 - [2020-08-11-一个-macOS-朗读的小彩蛋……](https://www.v2ex.com/t/697519) ![](assets/new.png)  
-- [2020-08-11-Python-可视化工具库哪款最好用？哪款最不好用？](https://www.v2ex.com/t/697518) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

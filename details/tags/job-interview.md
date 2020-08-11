@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-11 03:33:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 03:46:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -58,4 +58,5 @@
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
 - [2020-08-11-现在携程面试，还要测试英语口语？](https://www.v2ex.com/t/697301) 
 - [2020-08-11-大量数据查询的方法-面试困难](https://www.v2ex.com/t/697291) 
+- [2020-08-11-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

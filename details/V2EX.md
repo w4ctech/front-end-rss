@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-11 13:33:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 13:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-11-视频点播-app-的播放源如何添加](https://www.v2ex.com/t/697504) 
+- [2020-08-11-MacBook-升级-海康威视-c2000-pro](https://www.v2ex.com/t/697503) 
 - [2020-08-11-自研企业级安卓-java2c-加固服务，第四代加壳，性能超过-vmp](https://www.v2ex.com/t/697502) 
 - [2020-08-11-C#-泛型、duck-typing、高效枚举](https://www.v2ex.com/t/697500) 
 - [2020-08-11-搞了一个象棋的微信小程序，汇聚各路象棋大咖实战讲解全攻略，喜欢象棋的朋友可以来看看！](https://www.v2ex.com/t/697499) 
@@ -40,4 +42,3 @@
 - [2020-08-11-求助-C#-关于-DirectX-的编程，如何控制系统左右声道播放不同-WAV-音频](https://www.v2ex.com/t/697458) 
 - [2020-08-11-我的-MacBook-Pro-16inch-2019-烧掉了](https://www.v2ex.com/t/697457) 
 - [2020-08-11-1-元秒杀-大厂高频设计模式应用及分析](https://www.v2ex.com/t/697455) 
-- [2020-08-11-Flutter-Movies-v1.1.0-更新](https://www.v2ex.com/t/697454) 

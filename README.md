@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 04:19:52，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 04:31:22，:rocket: 更新条数: +3291， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-08-10-8月10日全国新增新冠44例-境外输入31例本土新疆13例](https://m.caixin.com/m/2020-08-11/101591142.html) ![](assets/new.png)  
+- [2020-08-10-最新疫情：全国新冠累计确诊84712例-新增境外输入31例](http://m.china.caixin.com/m/2020-08-11/101591230.html) ![](assets/new.png)  
 - [2020-08-10-大流行手记|8月10日：美国疫情曲线呈降势-印度连续12天新增破5万例](https://m.caixin.com/m/2020-08-11/101591157.html) ![](assets/new.png)  
 - [2020-08-10-【图集】韩国首尔南大门市场现新冠聚集性感染事件](http://m.photos.caixin.com/m/2020-08-11/101591137.html) ![](assets/new.png)  
 - [2020-08-09-输入性新冠病例陡增-上海将加强国际航班远端管控](http://m.companies.caixin.com/m/2020-08-10/101590870.html) ![](assets/new.png)  
@@ -1130,9 +1130,9 @@
 - [2020-08-11-Redis-的持久化方案扩展讲解](https://toutiao.io/k/t4rlaaz) ![](assets/new.png)  
 - [2020-08-11-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
 - [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
+- [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
 - [2020-08-11-Python-为什么能支持任意的真值判断？](https://toutiao.io/k/9z0vtmx) ![](assets/new.png)  
 - [2020-08-11-力扣1519：子树中标签相同的节点数](https://toutiao.io/k/fq3x5o9) ![](assets/new.png)  
-- [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
 - [2020-08-11-分享几个亲测有效的高效工作技巧](https://toutiao.io/k/13dp300) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

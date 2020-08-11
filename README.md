@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 06:02:53，:rocket: 更新条数: +3505， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 06:10:21，:rocket: 更新条数: +3504， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-11-大连工人村社区疫情风险等级由中风险调整为低风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiazoCcN7wlO5KwNiAWiqk200811&isfromapp=1) ![](assets/new.png)  
+- [2020-08-11-克服疫情影响-大连支持政策来了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiGzPbNxZciFVK2PUWliM200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-热评丨这场“寒假连着暑假”的开学-平稳顺利是全社会之盼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimY0Txo6bS6mbkQkXacL3200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-国家卫健委：昨日新增确诊病例44例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYtYvcMcH05CYnk4pG5p3200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-谭德塞：已看到扑灭疫情的希望-但要做好两点工作](https://m.weibo.cn/3057540037/4536635292649726) ![](assets/new.png)  
-- [2020-08-10-2020年中央安排456.6亿元-支持各地提升公共卫生防控救治能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv7BbU6uCPkVRlySigUK2200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-世卫组织：全球新冠肺炎确诊病例新增253409例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuANCHP9HWiKG4bfSWRIn200811&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-11-现在有必要等-MacBook-Pro-14-寸吗？](https://www.v2ex.com/t/697360) ![](assets/new.png)  
 - [2020-08-11-mysql-主键用自增-id-还是雪花-id?](https://www.v2ex.com/t/697358) ![](assets/new.png)  
 - [2020-08-11-成都爱奇艺-游戏小伙伴来看下，-U3D（HC4）、erlang、关卡策划](https://www.v2ex.com/t/697355) ![](assets/new.png)  
 - [2020-08-11-现想买个低端-win-笔记本，-3k-价位还有必要入二手么？](https://www.v2ex.com/t/697354) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-11-google-map-出问题？](https://www.v2ex.com/t/697331) ![](assets/new.png)  
 - [2020-08-11-上海杨浦区职位：搜索推荐算法专家（leader），资深-Java-搜索开发工程师（开发的职位可以没有搜索的背景，互联网公司-Java-经验对搜索感兴趣的都可以），薪水好...](https://www.v2ex.com/t/697329) ![](assets/new.png)  
 - [2020-08-11-Evernote-premium-用户续费有什么省钱办法吗？](https://www.v2ex.com/t/697328) ![](assets/new.png)  
-- [2020-08-11-字由等字体软件是如何将字体加入应用的](https://www.v2ex.com/t/697326) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1138,8 +1138,8 @@
 - [2020-08-11-Spring-Cloud-微服务：基于-Nacos-组件，整合-Dubbo-框架](https://toutiao.io/k/b8afztf) ![](assets/new.png)  
 - [2020-08-11-了不起的-Istio](https://toutiao.io/k/u6nqgc5) ![](assets/new.png)  
 - [2020-08-11-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
-- [2020-08-11-Java-项目如何分层](https://toutiao.io/k/uxp2jfz) ![](assets/new.png)  
 - [2020-08-11-WebRTC-的电脑和手机端浏览器支持](https://toutiao.io/k/oskbqlc) ![](assets/new.png)  
+- [2020-08-11-Java-项目如何分层](https://toutiao.io/k/uxp2jfz) ![](assets/new.png)  
 - [2020-08-11-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
 - [2020-08-11-译-你现在应该启用的-10-个超棒的-Chrome-功能](https://toutiao.io/k/zboy302) ![](assets/new.png)  
 - [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  
@@ -1151,8 +1151,8 @@
 - [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
 - [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
 - [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-11-力扣1519：子树中标签相同的节点数](https://toutiao.io/k/fq3x5o9) ![](assets/new.png)  
 - [2020-08-11-Python-为什么能支持任意的真值判断？](https://toutiao.io/k/9z0vtmx) ![](assets/new.png)  
+- [2020-08-11-力扣1519：子树中标签相同的节点数](https://toutiao.io/k/fq3x5o9) ![](assets/new.png)  
 - [2020-08-11-分享几个亲测有效的高效工作技巧](https://toutiao.io/k/13dp300) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

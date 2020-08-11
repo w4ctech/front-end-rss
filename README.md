@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 14:10:20，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 14:20:06，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -916,6 +916,8 @@
 </summary>
 
 
+- [2020-08-11-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/adf9b7740214369c1a3daf15c832e9c8) ![](assets/new.png)  
+- [2020-08-10-在-30-岁的互联网战场上，技术的剑已不再锋利](https://www.ershicimi.com/p/f76b9041042ed585ebdb3fa21b3fa1ee) ![](assets/new.png)  
 - [2020-08-08-ES11-来了，还学得动吗？](https://www.ershicimi.com/p/2fadcba512a5310cf6d0d9077ae77ae7) ![](assets/new.png)  
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) ![](assets/new.png)  
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) ![](assets/new.png)  
@@ -934,8 +936,6 @@
 - [2020-07-20-前端工程化趋势愈发明显，-2020-年我们到底需要注意些什么？](https://www.ershicimi.com/p/e2e7b5fdc7ee5fd74ca68a099979f12f) ![](assets/new.png)  
 - [2020-07-17-付费课都免费？拉勾7周年把价值4000+的专栏免费了！！！](https://www.ershicimi.com/p/d3c0af342c2be3b578e57252a8be4a3c) ![](assets/new.png)  
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) ![](assets/new.png)  
-- [2020-07-15-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/e4d9f06d861c472f1cdb34d0de38dc00) ![](assets/new.png)  
-- [2020-07-14-为什么阿里那么难进，原来精髓在这](https://www.ershicimi.com/p/6cb0e3f63042ea94826c912f3c9c1ad3) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-11-如何得知国内浏览器排行榜？](https://www.v2ex.com/t/697512) ![](assets/new.png)  
 - [2020-08-11-墙壁上的开关，有没有什么产品可以卡住开关，不让开关被打开或关闭？](https://www.v2ex.com/t/697511) ![](assets/new.png)  
 - [2020-08-11-请教下类似-Mac/笔记本的-USB-HUB-类电子产品,各位认为怎么样才有足够吸引力让各位购买非天猫京东等平台](https://www.v2ex.com/t/697510) ![](assets/new.png)  
 - [2020-08-11-请问广州新装宽带有什么推荐的吗](https://www.v2ex.com/t/697509) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-11-从深圳到辽宁兴城，什么样的交通方案最好？](https://www.v2ex.com/t/697492) ![](assets/new.png)  
 - [2020-08-11-这周卖掉了大部分仓位，接下来看大家表演了](https://www.v2ex.com/t/697491) ![](assets/new.png)  
 - [2020-08-11-gnome3-有没有类似-unity7-的全局菜单](https://www.v2ex.com/t/697490) ![](assets/new.png)  
-- [2020-08-11-New-Edge-提示-mega.nz-不安全，换-firefox-可以成功打开](https://www.v2ex.com/t/697489) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

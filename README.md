@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 07:31:37，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 07:33:18，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)  
+- [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -1165,6 +1165,26 @@
 </summary>
 
 
+- [2020-08-10-【中国人的故事】暖镜头:致敬!高温下的坚守者](https://sec.thief.one/article_content?a_id=2ccadb26da4250e82d7f0de52ae9d565) ![](assets/new.png)  
+- [2020-08-10-mbuf](https://sec.thief.one/article_content?a_id=bed21cad03d4b539aaa5cc7135867375) ![](assets/new.png)  
+- [2020-08-10-亚洲诚信-CertCloud全球首发-|-一场解决SSL/TLS证书困局的硬核发布会](https://sec.thief.one/article_content?a_id=762891a242fea8de51e9da8320e2e8d4) ![](assets/new.png)  
+- [2020-08-09-聚焦BCS|重磅预告:战略峰会明日开幕-奇安信董事长齐向东将发表《...](https://sec.thief.one/article_content?a_id=56b65a3e1c6b14db0c9fd80af1dd08af) ![](assets/new.png)  
+- [2020-08-09-Web-指纹识别之路](https://sec.thief.one/article_content?a_id=e6eef8e55b8d5ff10a8e19a3590b99bc) ![](assets/new.png)  
+- [2020-08-08-四川广元网信办:试点示范促落地-网络安全进社区](https://sec.thief.one/article_content?a_id=dd60f8d7f33544013a428934e01c8f3d) ![](assets/new.png)  
+- [2020-08-08-【安全圈】黑客攻击Reddit子版块并发布特朗普助选信息](https://sec.thief.one/article_content?a_id=e489e9ae0bac72c4a572873a383c03a8) ![](assets/new.png)  
+- [2020-08-08-官宣!!一年一度的看雪安全开发者峰会10月正式召开,初心不改,我...](https://sec.thief.one/article_content?a_id=0ada3e41847449742b6b836cca71b4fd) ![](assets/new.png)  
+- [2020-08-08-资金大举出逃,比特币未来何去何从?](https://sec.thief.one/article_content?a_id=f24fcbc0bcffa31bbf9695b72962f882) ![](assets/new.png)  
+- [2020-08-08-红队渗透手册之弹药篇](https://sec.thief.one/article_content?a_id=5522034aee8997bef73c96927d37c5b9) ![](assets/new.png)  
+- [2020-08-08-POC-T源码分析](https://sec.thief.one/article_content?a_id=f276cf3981de642849aaa54a7a3fc6d7) ![](assets/new.png)  
+- [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) ![](assets/new.png)  
+- [2020-08-08-绿盟威胁情报专栏-|-海莲花APT32组织使用新的攻击技术,NTI已支...](https://sec.thief.one/article_content?a_id=5e43364b5e4ec4553f02b5c577591fac) ![](assets/new.png)  
+- [2020-08-08-什么是缓冲区溢出以及如何利用漏洞?](https://sec.thief.one/article_content?a_id=b9b36bed05239b21b8459288968d0d45) ![](assets/new.png)  
+- [2020-08-08-彭博社:ETH价格上涨是投机性的,而BTC上涨则基于其基本面](https://sec.thief.one/article_content?a_id=ac1ca76edcc762086c7bde8fed178139) ![](assets/new.png)  
+- [2020-08-08-安全招聘汇总-|-第五期](https://sec.thief.one/article_content?a_id=c6ae084e518453fdc205f0fc520266b9) ![](assets/new.png)  
+- [2020-08-08-Spring-Cloud-Config-Server目录遍历漏洞CVE-2020-5405](https://sec.thief.one/article_content?a_id=9e90936dfc23c1e492ee4ecaa3aa5ffe) ![](assets/new.png)  
+- [2020-08-08-英特尔遭黑客攻击!20GB绝密芯片工程数据遭窃](https://sec.thief.one/article_content?a_id=51f5aabc75a45c162d0785bf984687d8) ![](assets/new.png)  
+- [2020-08-08-5分钟内搭建你的第一个Python聊天机器人](https://sec.thief.one/article_content?a_id=902dbab14cb587291abe51eaf522c78b) ![](assets/new.png)  
+- [2020-08-07-某Nginx后门分析与重现](https://sec.thief.one/article_content?a_id=041479196ec76d97166265ce0b0d40d1) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

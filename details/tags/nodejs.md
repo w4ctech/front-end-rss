@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-11 07:31:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 07:33:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -33,3 +33,4 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
+- [2020-08-05-CVE-2020-7699:NodeJS模块代码注入](https://sec.thief.one/article_content?a_id=36eaa1400d5eb745ece6c6f07c13d02f) 

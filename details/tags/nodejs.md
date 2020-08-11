@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-11 08:22:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 08:31:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -26,5 +26,7 @@
 - [2020-07-08-实战-|-Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/85eb988956d577d60ed7515db04817de) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
+- [2020-08-11-译-为什么你需要使用-Node.js？](https://www.v2ex.com/t/697408) 
+- [2020-08-11-基于-Electron-电脑版小程序平台-开发多个小程序-COOL-AI](https://www.v2ex.com/t/697407) 
 - [2020-08-11-如何使用-Node.js-读取非常大的文件？](https://www.v2ex.com/t/697403) 
 - [2020-08-05-CVE-2020-7699:NodeJS模块代码注入](https://sec.thief.one/article_content?a_id=36eaa1400d5eb745ece6c6f07c13d02f) 

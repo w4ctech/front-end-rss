@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 08:22:12，:rocket: 更新条数: +3295， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 08:31:19，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,13 @@
 </summary>
 
 
+- [2020-08-11-还有几天离职手续就要办完了，向-V-站自媒体前辈学习](https://www.v2ex.com/t/697411) ![](assets/new.png)  
+- [2020-08-11-SpreadJS-纯前端表格控件应用案例：生产采购管理软件](https://www.v2ex.com/t/697410) ![](assets/new.png)  
+- [2020-08-11-自组装台式机，预计下半年双十一入手，目前打算多了解配件的情况，主要需求是机器学习和深度学习模型的训练学习](https://www.v2ex.com/t/697409) ![](assets/new.png)  
+- [2020-08-11-译-为什么你需要使用-Node.js？](https://www.v2ex.com/t/697408) ![](assets/new.png)  
+- [2020-08-11-基于-Electron-电脑版小程序平台-开发多个小程序-COOL-AI](https://www.v2ex.com/t/697407) ![](assets/new.png)  
+- [2020-08-11-时至今日，拼多多拼单写错地址，竟然还改不了也退不掉？](https://www.v2ex.com/t/697406) ![](assets/new.png)  
+- [2020-08-11-阿里云产品优惠返现](https://www.v2ex.com/t/697405) ![](assets/new.png)  
 - [2020-08-11-imgur-上传-api-似乎发生了一些变化](https://www.v2ex.com/t/697404) ![](assets/new.png)  
 - [2020-08-11-如何使用-Node.js-读取非常大的文件？](https://www.v2ex.com/t/697403) ![](assets/new.png)  
 - [2020-08-11-颈椎病到底要不要管？](https://www.v2ex.com/t/697402) ![](assets/new.png)  
@@ -1065,13 +1072,6 @@
 - [2020-08-11-请教一个关于-airflow-的问题](https://www.v2ex.com/t/697391) ![](assets/new.png)  
 - [2020-08-11-如果后续-Github，-Stackoverflow-都开始屏蔽中国用户，会有什么影响？](https://www.v2ex.com/t/697389) ![](assets/new.png)  
 - [2020-08-11-创造-RWPJS-一个-React-的-UI-库,-基于-Ant-Design。](https://www.v2ex.com/t/697388) ![](assets/new.png)  
-- [2020-08-11-求教-6.824-lab2B-TestFailAgree2B-怎么过啊？要被搞蒙了。。](https://www.v2ex.com/t/697387) ![](assets/new.png)  
-- [2020-08-11-各位知道有哪些集成加密文字可离线使用的工具软件么？](https://www.v2ex.com/t/697386) ![](assets/new.png)  
-- [2020-08-11-这样的配置能跑-1080P-全效-165FPS-PUBG-吗？](https://www.v2ex.com/t/697385) ![](assets/new.png)  
-- [2020-08-11-MBP-16-寸，当时忘了买-AC+，现在是不是还能买-AC？谢谢](https://www.v2ex.com/t/697383) ![](assets/new.png)  
-- [2020-08-11-有做安全与风控相关的吗？可以考虑一下字节跳动](https://www.v2ex.com/t/697382) ![](assets/new.png)  
-- [2020-08-11-新建了个-ruby-中文讨论群](https://www.v2ex.com/t/697379) ![](assets/new.png)  
-- [2020-08-11-求一部动画](https://www.v2ex.com/t/697378) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1119,8 @@
 - [2020-08-11-了不起的-Istio](https://toutiao.io/k/u6nqgc5) ![](assets/new.png)  
 - [2020-08-11-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
 - [2020-08-11-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-11-Java-项目如何分层](https://toutiao.io/k/uxp2jfz) ![](assets/new.png)  
 - [2020-08-11-WebRTC-的电脑和手机端浏览器支持](https://toutiao.io/k/oskbqlc) ![](assets/new.png)  
+- [2020-08-11-Java-项目如何分层](https://toutiao.io/k/uxp2jfz) ![](assets/new.png)  
 - [2020-08-11-译-你现在应该启用的-10-个超棒的-Chrome-功能](https://toutiao.io/k/zboy302) ![](assets/new.png)  
 - [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  
 - [2020-08-11-译-混沌游戏日：混沌的手把手指南](https://toutiao.io/k/he095kf) ![](assets/new.png)  

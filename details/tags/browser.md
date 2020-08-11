@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-11 09:02:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 09:09:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,7 +48,6 @@
 - [2020-08-11-有做安全与风控相关的吗？可以考虑一下字节跳动](https://www.v2ex.com/t/697382) 
 - [2020-08-11-译-你现在应该启用的-10-个超棒的-Chrome-功能](https://toutiao.io/k/zboy302) 
 - [2020-08-11-简直骚操作，ThreadLocal-还能当缓存用](https://toutiao.io/k/rvcs221) 
-- [2020-08-11-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-08-四川广元网信办:试点示范促落地-网络安全进社区](https://sec.thief.one/article_content?a_id=dd60f8d7f33544013a428934e01c8f3d) 
 - [2020-08-08-【安全圈】黑客攻击Reddit子版块并发布特朗普助选信息](https://sec.thief.one/article_content?a_id=e489e9ae0bac72c4a572873a383c03a8) 
 - [2020-08-08-官宣!!一年一度的看雪安全开发者峰会10月正式召开,初心不改,我...](https://sec.thief.one/article_content?a_id=0ada3e41847449742b6b836cca71b4fd) 

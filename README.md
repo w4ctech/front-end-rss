@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 10:09:51，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 10:19:08，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-11-乌鲁木齐为特殊人群车辆开辟绿色通道-优先查验保障通行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG8UMYdPdF3DxF12xJqFU200811&isfromapp=1) ![](assets/new.png)  
+- [2020-08-11-乌鲁木齐治愈出院确诊病例和解除医学观察的无症状感染者总数超300例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyaQr6eF1YwhtUw37mXae200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-​巴林新增386例新冠肺炎确诊病例-累计44397例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifYTSh70VBVjl93MiyB1S200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-大连工人村社区疫情风险等级由中风险调整为低风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiazoCcN7wlO5KwNiAWiqk200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-克服疫情影响-大连支持政策来了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiGzPbNxZciFVK2PUWliM200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-11-热评丨这场“寒假连着暑假”的开学-平稳顺利是全社会之盼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimY0Txo6bS6mbkQkXacL3200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-11-国家卫健委：昨日新增确诊病例44例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYtYvcMcH05CYnk4pG5p3200811&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1072,11 @@
 </summary>
 
 
+- [2020-08-11-1-元秒杀-大厂高频设计模式应用及分析](https://www.v2ex.com/t/697455) ![](assets/new.png)  
+- [2020-08-11-Flutter-Movies-v1.1.0-更新](https://www.v2ex.com/t/697454) ![](assets/new.png)  
+- [2020-08-11-Tiktok-这么多美国用户，为什么美国-ZF-不能倾听民生却仍然坚持封锁啊？](https://www.v2ex.com/t/697453) ![](assets/new.png)  
+- [2020-08-11-iOS-14-beta地图能-app-单独改语言么?](https://www.v2ex.com/t/697452) ![](assets/new.png)  
+- [2020-08-11-来说说你碰到最让人讨厌的理发店吧](https://www.v2ex.com/t/697451) ![](assets/new.png)  
 - [2020-08-11-下班后总想着工作上的事咋办](https://www.v2ex.com/t/697450) ![](assets/new.png)  
 - [2020-08-11-intel-nuc-nuc10i5fnk-明明就是一颗-15w-的-i5-10210u,-为什么电源需要-90w](https://www.v2ex.com/t/697448) ![](assets/new.png)  
 - [2020-08-11-南京-魔格继续招聘研发工程师，找工作的小伙伴，进来看看吧~](https://www.v2ex.com/t/697447) ![](assets/new.png)  
@@ -1067,11 +1092,6 @@
 - [2020-08-11-QQ-for-macOS-为什么偏好设置没用啊](https://www.v2ex.com/t/697434) ![](assets/new.png)  
 - [2020-08-11-parallels-desktop-发布-16-版本了](https://www.v2ex.com/t/697433) ![](assets/new.png)  
 - [2020-08-11-北京数美科技-招收-前端，测试，服务端研发，还有更多岗位-，都可以联系我！](https://www.v2ex.com/t/697432) ![](assets/new.png)  
-- [2020-08-11-Mac-pro-正常使用冒烟了。。。](https://www.v2ex.com/t/697431) ![](assets/new.png)  
-- [2020-08-11-宁波的程序员讨论群（技术、求职、生活）](https://www.v2ex.com/t/697430) ![](assets/new.png)  
-- [2020-08-11-招聘-北京-DevOps-工程师](https://www.v2ex.com/t/697429) ![](assets/new.png)  
-- [2020-08-11-杭州-阿里-阿里巴巴-业务平台事业部--Java-P6/P7-交易平台，核心部门，位置多多，机会多多！](https://www.v2ex.com/t/697428) ![](assets/new.png)  
-- [2020-08-11-大家-996-和大小周的是公司制度里直接写明的还是领导口头说的](https://www.v2ex.com/t/697427) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 16:10:22，:rocket: 更新条数: +3288， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 16:19:59，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,12 +38,12 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
@@ -729,6 +729,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -844,26 +854,6 @@
 </summary>
 
 
-- [2020-08-11-我们公司不会用分布式事务！](https://www.ershicimi.com/p/4faf992ac4e277cf4f39cfbc011a103b) ![](assets/new.png)  
-- [2020-08-11-来，告诉你阿里的数据库连接池Druid为啥如此牛逼！](https://www.ershicimi.com/p/56d40782a74a5d254406c53e7c60fa67) ![](assets/new.png)  
-- [2020-08-11-彻底搞懂“红黑树”......](https://www.ershicimi.com/p/0cc4a6df1d618c7656c5f5c9e718329b) ![](assets/new.png)  
-- [2020-08-10-被Redis击穿的一次面试经历](https://www.ershicimi.com/p/f4c2d4e1d5edbea33a9b3169c1355377) ![](assets/new.png)  
-- [2020-08-10-怒爬某-Hub-资源就为撸了一个鉴黄平台](https://www.ershicimi.com/p/6cb1ee77c314c2c2663541dfca2b7233) ![](assets/new.png)  
-- [2020-08-10-面试官：我把数据库部署在Docker容器内，你觉得如何？](https://www.ershicimi.com/p/0d0c8bcbc467c4529d256328f0e2f2de) ![](assets/new.png)  
-- [2020-08-09-一套简单通用的Java后台管理系统，拿来即用，非常方便（附项目地址）](https://www.ershicimi.com/p/d5da8fbbd4214abf4c4c8f5ba5f4ebb2) ![](assets/new.png)  
-- [2020-08-09-推荐：Windows平台上三款提高工作效率的免费神器！](https://www.ershicimi.com/p/16891c3d50a74da608eb5723645f2ba2) ![](assets/new.png)  
-- [2020-08-09-为什么-char-数组比-String-更适合存储密码？](https://www.ershicimi.com/p/670f8e19e57cf8571b4bf6fe22b538a4) ![](assets/new.png)  
-- [2020-08-08-IntelliJ-IDEA-2020.2-正式发布，真香！](https://www.ershicimi.com/p/2a57a17a39de45150101c413a292621e) ![](assets/new.png)  
-- [2020-08-08-看图说话，FastJson-并没有那么流行！](https://www.ershicimi.com/p/7be4093917bd4d8d51d44ce8d505108e) ![](assets/new.png)  
-- [2020-08-08-GitLab-内置了-CI/CD-工具，强大啊！！](https://www.ershicimi.com/p/be03600ef742f36a397f107c43f72675) ![](assets/new.png)  
-- [2020-08-07-绝了！这款工具让SpringBoot不再需要Controller、Service、DAO、Mappe](https://www.ershicimi.com/p/d328784b0906b4b91b854650819c51b1) ![](assets/new.png)  
-- [2020-08-07-别在网上乱找代码了，找了一段代码突然爆了！！！](https://www.ershicimi.com/p/51288cd2fac173f5b229d402dfb98cd3) ![](assets/new.png)  
-- [2020-08-07-微服务之间最佳调用方式是什么？](https://www.ershicimi.com/p/fe8b34a9327022dfaa2fb02489f94799) ![](assets/new.png)  
-- [2020-08-06-Mybatis-trim-标签的-2-个妙用！](https://www.ershicimi.com/p/9e3b07618847e2d1aa6b20b0d55ea86a) ![](assets/new.png)  
-- [2020-08-06-震惊！Redis-的字符串居然是这样实现的…](https://www.ershicimi.com/p/5a24bc34e36cc6129b57dfd280d15ac9) ![](assets/new.png)  
-- [2020-08-06-Oracle用户可要顶住了：准备好大规模补丁工作！以修补多达-433-个的新安全漏洞](https://www.ershicimi.com/p/84871b4048658ef6d85fc41c39c099a9) ![](assets/new.png)  
-- [2020-08-05-因用了Insert-into-select语句，美女同事被开除了！](https://www.ershicimi.com/p/a4be645aac669066ed1e86f8eeccfc3c) ![](assets/new.png)  
-- [2020-08-05-Hibernate-与-Mybatis-如何共存？打破你的认知！](https://www.ershicimi.com/p/89cc0b723eb2ddcd32ba4b0690db4f6c) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1042,6 +1032,7 @@
 </summary>
 
 
+- [2020-08-11-安卓有什么插件可以实现-iOS13-上的电池优化么？](https://www.v2ex.com/t/697532) ![](assets/new.png)  
 - [2020-08-11-Time-Machine-在没有外挂移动硬盘的情况下也可以恢复文件？](https://www.v2ex.com/t/697531) ![](assets/new.png)  
 - [2020-08-11-求助：在-gitbash-中-yarn-与-npm-的输出结果中，-yarn-自带了白色的背景色，如何避免该背景色？](https://www.v2ex.com/t/697530) ![](assets/new.png)  
 - [2020-08-11-小米服务框架是准备专门用来发官方广告了？](https://www.v2ex.com/t/697529) ![](assets/new.png)  
@@ -1061,7 +1052,6 @@
 - [2020-08-11-国内用什么邮箱好](https://www.v2ex.com/t/697513) ![](assets/new.png)  
 - [2020-08-11-如何得知国内浏览器排行榜？](https://www.v2ex.com/t/697512) ![](assets/new.png)  
 - [2020-08-11-墙壁上的开关，有没有什么产品可以卡住开关，不让开关被打开或关闭？](https://www.v2ex.com/t/697511) ![](assets/new.png)  
-- [2020-08-11-请教下类似-Mac/笔记本的-USB-HUB-类电子产品,各位认为怎么样才有足够吸引力让各位购买非天猫京东等平台](https://www.v2ex.com/t/697510) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

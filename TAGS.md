@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-11 16:10:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 16:19:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -391,7 +391,10 @@
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
 - [【前端瓶子君】还在看那些老掉牙的性能优化文章么？这些最新性能指标了解下](https://www.ershicimi.com/p/04f3f774d4fecb8f9564024b9fa99ac1)
 - [【程序员成长指北】私藏已久的前端性能优化技巧大全送你！抢救你的前端性能](https://www.ershicimi.com/p/f25de48730d428319449c2328f0bf7cd)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】安卓有什么插件可以实现-iOS13-上的电池优化么？](https://www.v2ex.com/t/697532)
 - [【V2EX】自研企业级安卓-java2c-加固服务，-4-代半加壳，性能超过-vmp](https://www.v2ex.com/t/697505)
 - [【V2EX】自研企业级安卓-java2c-加固服务，第四代加壳，性能超过-vmp](https://www.v2ex.com/t/697502)
 - [【技术头条】如何诊断-Linux-服务器的性能？10个工具助力你-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13668&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjvKvIQUCrybW4F1VMICVlA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -477,7 +480,6 @@
 
 
 - [【程序员成长指北】花椒前端基于-Docker-的-SSR-持续开发集成环境实践](https://www.ershicimi.com/p/de55d54617ef5488b526fd775b576d8e)
-- [【互联网架构师】面试官：我把数据库部署在Docker容器内，你觉得如何？](https://www.ershicimi.com/p/0d0c8bcbc467c4529d256328f0e2f2de)
 - [【V2EX】关于数据聚合与-graphQL-的使用](https://www.v2ex.com/t/697524)
 - [【安全热点】某Nginx后门分析与重现](https://sec.thief.one/article_content?a_id=041479196ec76d97166265ce0b0d40d1)
 - [......【查看更多】......](./details/tags/server.md)
@@ -500,7 +502,6 @@
 - [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
 - [【Nodejs技术栈】GitHub-真把代码冰封北极-1000-年！](https://www.ershicimi.com/p/38187e751101fa633b95b5998c0ed0bd)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
-- [【互联网架构师】GitLab-内置了-CI/CD-工具，强大啊！！](https://www.ershicimi.com/p/be03600ef742f36a397f107c43f72675)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【安全热点】9-招让你的GitHub下载飞速提升到2M/s以上](https://sec.thief.one/article_content?a_id=2e97edaa0101eca302d6aa4dd2e2f1cf)

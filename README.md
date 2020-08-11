@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 03:20:34，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 03:31:24，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-11-热评丨这场“寒假连着暑假”的开学-平稳顺利是全社会之盼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimY0Txo6bS6mbkQkXacL3200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-国家卫健委：昨日新增确诊病例44例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYtYvcMcH05CYnk4pG5p3200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-谭德塞：已看到扑灭疫情的希望-但要做好两点工作](https://m.weibo.cn/3057540037/4536635292649726) ![](assets/new.png)  
 - [2020-08-10-2020年中央安排456.6亿元-支持各地提升公共卫生防控救治能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv7BbU6uCPkVRlySigUK2200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-世卫组织：全球新冠肺炎确诊病例新增253409例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuANCHP9HWiKG4bfSWRIn200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-非洲地区新冠肺炎确诊病例增长至104万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimkENBM89v7UcYJWc6RYO200811&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,8 +1117,8 @@
 - [2020-08-11-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) ![](assets/new.png)  
 - [2020-08-11-SpringCloud-微服务：基于-Nacos-组件，整合-Dubbo-框架](https://toutiao.io/k/b8afztf) ![](assets/new.png)  
 - [2020-08-11-WebRTC-的电脑和手机端浏览器支持](https://toutiao.io/k/oskbqlc) ![](assets/new.png)  
-- [2020-08-11-Java-项目如何分层](https://toutiao.io/k/uxp2jfz) ![](assets/new.png)  
 - [2020-08-11-了不起的-Istio](https://toutiao.io/k/u6nqgc5) ![](assets/new.png)  
+- [2020-08-11-Java-项目如何分层](https://toutiao.io/k/uxp2jfz) ![](assets/new.png)  
 - [2020-08-11-译-你现在应该启用的-10-个超棒的-Chrome-功能](https://toutiao.io/k/zboy302) ![](assets/new.png)  
 - [2020-08-11-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
 - [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  

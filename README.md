@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 15:33:27，:rocket: 更新条数: +3297， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 15:46:24，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-11-至8月11日18时-天津无新增新冠肺炎确诊病例-境外输入确诊病例全部出院](http://wsjk.tj.gov.cn/art/2020/8/11/art_87_74530.html) ![](assets/new.png)  
 - [2020-08-11-印度媒体：印度前总统穆克吉健康状况恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipdhxenR5zLtp7ZpDAhK9200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-瑞士和列支敦士登新增187例新冠肺炎确诊病例-累计确诊36895例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDTQkRuSS4W0jYVqYftIe200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-​荷兰过去一周新增4036例新冠肺炎确诊病例-累计确诊59973例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMKc7hV62ru1J5a4B9BeL200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-英国自新冠疫情后已有73万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigrXabLsRyBz7rtVN7zb0200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-11-​确诊新冠肺炎，印度前总统慕克吉手术后病情危重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioV4A3jo32qQQ66HKx0rP200811&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -885,26 +885,6 @@
 </summary>
 
 
-- [2020-08-09-程序员摸鱼指南：副业成就未来](https://www.ershicimi.com/p/d1255e6c8dbe3b451b96fa9e52a79fa7) ![](assets/new.png)  
-- [2020-08-09-不会写代码的技术经理不是好CTO](https://www.ershicimi.com/p/7d77f110c8f4bf87192372d78d4e9958) ![](assets/new.png)  
-- [2020-08-09-为啥Flutter-Hooks没有受到太多关注和青睐？](https://www.ershicimi.com/p/ff1ee3b88e5b66c8095d0e491bcbc4e6) ![](assets/new.png)  
-- [2020-08-09-Twitter-重构了广告平台](https://www.ershicimi.com/p/aa1b33bd230d1ad887f60e6158d000f7) ![](assets/new.png)  
-- [2020-08-08-特朗普封杀微信TikTok，腾讯市值一度蒸发5000亿；余承东：华为手机没芯片了；英特尔20GB绝密](https://www.ershicimi.com/p/ed4272bf81c2548004d3b8355db85311) ![](assets/new.png)  
-- [2020-08-08-为什么我讨厌-Scrum？](https://www.ershicimi.com/p/82d942a57f68bcbe3354f5358c696451) ![](assets/new.png)  
-- [2020-08-08-从一次数据迁移项目里，我得到的四个经验教训](https://www.ershicimi.com/p/27b0985918aea9e1b754d23dc43e20f2) ![](assets/new.png)  
-- [2020-08-08-字节跳动在函数计算领域的应用实践](https://www.ershicimi.com/p/570519e84ce381d3584576e2555a45a3) ![](assets/new.png)  
-- [2020-08-07-被逼出海，滴滴：我太难了](https://www.ershicimi.com/p/49df60f792b2218361588c0474e50bc3) ![](assets/new.png)  
-- [2020-08-07-微前端是否值得采用？](https://www.ershicimi.com/p/97f1f53e261ca7d9927b253d33f2da61) ![](assets/new.png)  
-- [2020-08-07-从0到1教你配置深度学习服务器，高维破题助攻机器学习-|-Q推荐](https://www.ershicimi.com/p/2e26ee44e10f130ed47cd4d41594f583) ![](assets/new.png)  
-- [2020-08-07-“保质保量”Serverless全场景化应用，缺了“它”可不行-|-Q推荐](https://www.ershicimi.com/p/81ee8f21bf5bc31cd87335e0d8a8614c) ![](assets/new.png)  
-- [2020-08-07-Java-新特性前瞻：封印类](https://www.ershicimi.com/p/95923b5748afdbb18314056d41d77672) ![](assets/new.png)  
-- [2020-08-06-Arm中国的内斗与失控](https://www.ershicimi.com/p/f03cd127523aab7441598ae63c16ab6b) ![](assets/new.png)  
-- [2020-08-06-InfoQ写作平台划线笔记功能全新上线！给你带来不一样的写作学习体验～](https://www.ershicimi.com/p/17f6b2a6d5ee33d1cef743d3ef033b52) ![](assets/new.png)  
-- [2020-08-06-ZStack-+-神龙服务器：弹性裸金属开创企业私有云新纪元](https://www.ershicimi.com/p/7afd6da303c7c070f6b67f7d1ba7b947) ![](assets/new.png)  
-- [2020-08-06-不再重复造轮子，DevRun开发者沙龙-用友·华为云杯专场，革新传统开发模式！](https://www.ershicimi.com/p/d832c55baf8d2dde99d8f5b4a4312b05) ![](assets/new.png)  
-- [2020-08-06-敏捷已死，“工程化”永存](https://www.ershicimi.com/p/1a1f36bb24db3afa0c179a55fcfe6ee4) ![](assets/new.png)  
-- [2020-08-05-暴雪员工集体“开源”工资单：裁员加活不加价，年年盈利却不涨工资](https://www.ershicimi.com/p/ae9fb07e54765d2a486dd69fee2e1488) ![](assets/new.png)  
-- [2020-08-05-TensorFlow和PyTorch迎来了“后浪”](https://www.ershicimi.com/p/8616aa90aec38878263df5d5777597da) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1032,8 @@
 </summary>
 
 
+- [2020-08-11-小米服务框架是准备专门用来发官方广告了？](https://www.v2ex.com/t/697529) ![](assets/new.png)  
+- [2020-08-11-以下项目需求哪些用爬虫软件可以完成？哪些需要用爬虫库来完成？哪些必须要爬虫框架才能实现？](https://www.v2ex.com/t/697528) ![](assets/new.png)  
 - [2020-08-11-Watch6-有-5G-吗？](https://www.v2ex.com/t/697527) ![](assets/new.png)  
 - [2020-08-11-做了一个淘宝天猫历史订单导出软件](https://www.v2ex.com/t/697526) ![](assets/new.png)  
 - [2020-08-11-两个-WSL2-的-IP-地址相同？](https://www.v2ex.com/t/697525) ![](assets/new.png)  
@@ -1070,8 +1052,6 @@
 - [2020-08-11-请教下类似-Mac/笔记本的-USB-HUB-类电子产品,各位认为怎么样才有足够吸引力让各位购买非天猫京东等平台](https://www.v2ex.com/t/697510) ![](assets/new.png)  
 - [2020-08-11-请问广州新装宽带有什么推荐的吗](https://www.v2ex.com/t/697509) ![](assets/new.png)  
 - [2020-08-11-现在国内有什么值得推荐的-VR-全景直播方案提供商吗？](https://www.v2ex.com/t/697508) ![](assets/new.png)  
-- [2020-08-11-求助-GPG-如何从-keyserver-手动下载公钥？](https://www.v2ex.com/t/697507) ![](assets/new.png)  
-- [2020-08-11-V-友们，考察你们计算能力的时候到了，给出一个递推题目的数值解](https://www.v2ex.com/t/697506) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,11 +1106,11 @@
 - [2020-08-11-简直骚操作，ThreadLocal-还能当缓存用](https://toutiao.io/k/rvcs221) ![](assets/new.png)  
 - [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  
 - [2020-08-11-译-混沌游戏日：混沌的手把手指南](https://toutiao.io/k/he095kf) ![](assets/new.png)  
-- [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
 - [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
+- [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
 - [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
-- [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
 - [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
 - [2020-08-11-分享几个亲测有效的高效工作技巧](https://toutiao.io/k/13dp300) ![](assets/new.png)  
 - [2020-08-11-力扣1519：子树中标签相同的节点数](https://toutiao.io/k/fq3x5o9) ![](assets/new.png)  
 - [2020-08-11-Python-为什么能支持任意的真值判断？](https://toutiao.io/k/9z0vtmx) ![](assets/new.png)  

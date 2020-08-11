@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 14:02:37，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 14:10:20，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-11-墙壁上的开关，有没有什么产品可以卡住开关，不让开关被打开或关闭？](https://www.v2ex.com/t/697511) ![](assets/new.png)  
+- [2020-08-11-请教下类似-Mac/笔记本的-USB-HUB-类电子产品,各位认为怎么样才有足够吸引力让各位购买非天猫京东等平台](https://www.v2ex.com/t/697510) ![](assets/new.png)  
+- [2020-08-11-请问广州新装宽带有什么推荐的吗](https://www.v2ex.com/t/697509) ![](assets/new.png)  
 - [2020-08-11-现在国内有什么值得推荐的-VR-全景直播方案提供商吗？](https://www.v2ex.com/t/697508) ![](assets/new.png)  
 - [2020-08-11-求助-GPG-如何从-keyserver-手动下载公钥？](https://www.v2ex.com/t/697507) ![](assets/new.png)  
 - [2020-08-11-V-友们，考察你们计算能力的时候到了，给出一个递推题目的数值解](https://www.v2ex.com/t/697506) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-11-这周卖掉了大部分仓位，接下来看大家表演了](https://www.v2ex.com/t/697491) ![](assets/new.png)  
 - [2020-08-11-gnome3-有没有类似-unity7-的全局菜单](https://www.v2ex.com/t/697490) ![](assets/new.png)  
 - [2020-08-11-New-Edge-提示-mega.nz-不安全，换-firefox-可以成功打开](https://www.v2ex.com/t/697489) ![](assets/new.png)  
-- [2020-08-11-c++里怎么对函数做-hash，或者获得函数的函数签名](https://www.v2ex.com/t/697486) ![](assets/new.png)  
-- [2020-08-11-某宝-cpu-散片主板套求教](https://www.v2ex.com/t/697485) ![](assets/new.png)  
-- [2020-08-11-明天这是要下多大雨啊，有没有穿越的老哥。。。](https://www.v2ex.com/t/697483) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,8 +1126,8 @@
 - [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  
 - [2020-08-11-译-混沌游戏日：混沌的手把手指南](https://toutiao.io/k/he095kf) ![](assets/new.png)  
 - [2020-08-11-Redis-的持久化方案扩展讲解](https://toutiao.io/k/t4rlaaz) ![](assets/new.png)  
-- [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
 - [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
+- [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
 - [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
 - [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
 - [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  

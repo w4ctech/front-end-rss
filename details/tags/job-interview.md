@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-11 21:02:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 21:09:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -47,7 +47,6 @@
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
 - [2020-07-30-145道Web大厂面试真题分享](https://www.ershicimi.com/p/da75835aa6c431a35ff6867c50a9938d) 
 - [2020-07-30-2-年前端面试心路历程总结（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/b285e3145c5f77b4f45dfb2cc7d79a64) 
-- [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-08-10-被Redis击穿的一次面试经历](https://www.ershicimi.com/p/f4c2d4e1d5edbea33a9b3169c1355377) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 

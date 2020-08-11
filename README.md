@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 07:19:07，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 07:31:37，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)![](assets/dot.png)   
+- [安全热点](#安全热点)  
 
 ## 文章链接
 
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
+- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
+- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1072,9 @@
 </summary>
 
 
+- [2020-08-11-各位知道有哪些集成加密文字可离线使用的工具软件么？](https://www.v2ex.com/t/697386) ![](assets/new.png)  
+- [2020-08-11-这样的配置能跑-1080P-全效-165FPS-PUBG-吗？](https://www.v2ex.com/t/697385) ![](assets/new.png)  
+- [2020-08-11-岗位：-Java-研发工程师-坐标：上海-公司：携程-有意者，发-cv-到我邮箱-497589112@qq.com](https://www.v2ex.com/t/697384) ![](assets/new.png)  
 - [2020-08-11-MBP-16-寸，当时忘了买-AC+，现在是不是还能买-AC？谢谢](https://www.v2ex.com/t/697383) ![](assets/new.png)  
 - [2020-08-11-有做安全与风控相关的吗？可以考虑一下字节跳动](https://www.v2ex.com/t/697382) ![](assets/new.png)  
 - [2020-08-11-新建了个-ruby-中文讨论群](https://www.v2ex.com/t/697379) ![](assets/new.png)  
@@ -1069,9 +1092,6 @@
 - [2020-08-11-译-如何用-Python-操作-Excel-？](https://www.v2ex.com/t/697366) ![](assets/new.png)  
 - [2020-08-11-回龙观龙博苑二区次卧出租-1900-每月-无中介-2020-09-19-日可租](https://www.v2ex.com/t/697365) ![](assets/new.png)  
 - [2020-08-11-做了一个《暴打太空鼠》游戏，欢迎大家试玩和挑战排行榜](https://www.v2ex.com/t/697364) ![](assets/new.png)  
-- [2020-08-11-如果我们不买华为，芯片短缺的问题不就解决了吗](https://www.v2ex.com/t/697363) ![](assets/new.png)  
-- [2020-08-11-看到同事玩的王者荣耀手游自动生成的视频，不得不佩服做的配套服务](https://www.v2ex.com/t/697362) ![](assets/new.png)  
-- [2020-08-11-make-编译程序出错，不知道是什么原因](https://www.v2ex.com/t/697361) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,26 +1165,6 @@
 </summary>
 
 
-- [2020-08-10-【中国人的故事】暖镜头:致敬!高温下的坚守者](https://sec.thief.one/article_content?a_id=2ccadb26da4250e82d7f0de52ae9d565) ![](assets/new.png)  
-- [2020-08-10-mbuf](https://sec.thief.one/article_content?a_id=bed21cad03d4b539aaa5cc7135867375) ![](assets/new.png)  
-- [2020-08-10-亚洲诚信-CertCloud全球首发-|-一场解决SSL/TLS证书困局的硬核发布会](https://sec.thief.one/article_content?a_id=762891a242fea8de51e9da8320e2e8d4) ![](assets/new.png)  
-- [2020-08-09-聚焦BCS|重磅预告:战略峰会明日开幕-奇安信董事长齐向东将发表《...](https://sec.thief.one/article_content?a_id=56b65a3e1c6b14db0c9fd80af1dd08af) ![](assets/new.png)  
-- [2020-08-09-Web-指纹识别之路](https://sec.thief.one/article_content?a_id=e6eef8e55b8d5ff10a8e19a3590b99bc) ![](assets/new.png)  
-- [2020-08-08-四川广元网信办:试点示范促落地-网络安全进社区](https://sec.thief.one/article_content?a_id=dd60f8d7f33544013a428934e01c8f3d) ![](assets/new.png)  
-- [2020-08-08-【安全圈】黑客攻击Reddit子版块并发布特朗普助选信息](https://sec.thief.one/article_content?a_id=e489e9ae0bac72c4a572873a383c03a8) ![](assets/new.png)  
-- [2020-08-08-官宣!!一年一度的看雪安全开发者峰会10月正式召开,初心不改,我...](https://sec.thief.one/article_content?a_id=0ada3e41847449742b6b836cca71b4fd) ![](assets/new.png)  
-- [2020-08-08-资金大举出逃,比特币未来何去何从?](https://sec.thief.one/article_content?a_id=f24fcbc0bcffa31bbf9695b72962f882) ![](assets/new.png)  
-- [2020-08-08-红队渗透手册之弹药篇](https://sec.thief.one/article_content?a_id=5522034aee8997bef73c96927d37c5b9) ![](assets/new.png)  
-- [2020-08-08-POC-T源码分析](https://sec.thief.one/article_content?a_id=f276cf3981de642849aaa54a7a3fc6d7) ![](assets/new.png)  
-- [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) ![](assets/new.png)  
-- [2020-08-08-绿盟威胁情报专栏-|-海莲花APT32组织使用新的攻击技术,NTI已支...](https://sec.thief.one/article_content?a_id=5e43364b5e4ec4553f02b5c577591fac) ![](assets/new.png)  
-- [2020-08-08-什么是缓冲区溢出以及如何利用漏洞?](https://sec.thief.one/article_content?a_id=b9b36bed05239b21b8459288968d0d45) ![](assets/new.png)  
-- [2020-08-08-彭博社:ETH价格上涨是投机性的,而BTC上涨则基于其基本面](https://sec.thief.one/article_content?a_id=ac1ca76edcc762086c7bde8fed178139) ![](assets/new.png)  
-- [2020-08-08-安全招聘汇总-|-第五期](https://sec.thief.one/article_content?a_id=c6ae084e518453fdc205f0fc520266b9) ![](assets/new.png)  
-- [2020-08-08-Spring-Cloud-Config-Server目录遍历漏洞CVE-2020-5405](https://sec.thief.one/article_content?a_id=9e90936dfc23c1e492ee4ecaa3aa5ffe) ![](assets/new.png)  
-- [2020-08-08-英特尔遭黑客攻击!20GB绝密芯片工程数据遭窃](https://sec.thief.one/article_content?a_id=51f5aabc75a45c162d0785bf984687d8) ![](assets/new.png)  
-- [2020-08-08-5分钟内搭建你的第一个Python聊天机器人](https://sec.thief.one/article_content?a_id=902dbab14cb587291abe51eaf522c78b) ![](assets/new.png)  
-- [2020-08-07-某Nginx后门分析与重现](https://sec.thief.one/article_content?a_id=041479196ec76d97166265ce0b0d40d1) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

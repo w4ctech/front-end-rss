@@ -15759,6 +15759,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何实现完成文件修改时自动生成修改日志",
+        "link": "https://www.v2ex.com/t/697471",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[北京-iOS] 知春路优质初创团队招人~出海游戏方向~1 年以上经验即可， 15~30K",
+        "link": "https://www.v2ex.com/t/697470",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[招聘][南京]麒麟科创园母婴电商，诚招高级前端工程师/架构师（25-35K·13 薪），妹子超多",
+        "link": "https://www.v2ex.com/t/697469",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "上次发的个 V2 创业交流群，群里的一些聊天记录",
+        "link": "https://www.v2ex.com/t/697468",
+        "date": "2020-08-11"
+      },
+      {
         "title": "edge 在 android 平台耗电异常",
         "link": "https://www.v2ex.com/t/697467",
         "date": "2020-08-11"
@@ -15941,31 +15961,6 @@
       {
         "title": "如何寻找专业的验房师？哪个平台呢？",
         "link": "https://www.v2ex.com/t/697423",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "Tplink 安防监控不录人",
-        "link": "https://www.v2ex.com/t/697422",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "🔥[蚂蚁集团]组内直聘资深 Java 研发、流量调度/缓存/大数据 SRE",
-        "link": "https://www.v2ex.com/t/697421",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "airdroid/airmirror 有什么便宜点渠道吗？",
-        "link": "https://www.v2ex.com/t/697420",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "大家知道采矿权交易的平台吗",
-        "link": "https://www.v2ex.com/t/697419",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[北京] Typescript 后端开发工程师",
-        "link": "https://www.v2ex.com/t/697418",
         "date": "2020-08-11"
       }
     ]
@@ -16183,18 +16178,13 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
+        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
+        "link": "https://toutiao.io/k/329gcr0",
         "date": "2020-08-11"
       },
       {
@@ -16203,8 +16193,8 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
         "date": "2020-08-11"
       },
       {
@@ -16213,18 +16203,18 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-11"
       },
       {
@@ -16233,28 +16223,33 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
         "date": "2020-08-11"
       },
       {
         "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
         "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-11"
       }
     ]
@@ -16264,6 +16259,41 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "定了!渗透测试工程师线下就业班秋季报名正式开启",
+        "link": "https://sec.thief.one/article_content?a_id=9b0978d0c2ff2dac204461964441760a",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "中奖名单 | 前方锦鲤出没,速来围观!!!",
+        "link": "https://sec.thief.one/article_content?a_id=f819fec72a8c6cdb9481e335afc2c258",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "BCTF AutoPwn 第二站打响! 护网先锋战队夺得冠军席位",
+        "link": "https://sec.thief.one/article_content?a_id=f8f295ec40eb6f288b1624cc236e1ceb",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "开源工具Infection Monkey扩展ATT&CK测试技术",
+        "link": "https://sec.thief.one/article_content?a_id=87cba07dd0134da5af6b7d96d85dc4c4",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "零信任体系技术研究",
+        "link": "https://sec.thief.one/article_content?a_id=2d20e041ba9867204c156917ee01c23d",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "我给这个Python库打101分!",
+        "link": "https://sec.thief.one/article_content?a_id=5f6638e3ca363d95cf62aa859ad654eb",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "聚焦BCS|新华网:2020年北京网络安全大会开幕",
+        "link": "https://sec.thief.one/article_content?a_id=944a00ae884d9d18e1d8740f1c2c3361",
+        "date": "2020-08-10"
+      },
       {
         "title": "【中国人的故事】暖镜头:致敬!高温下的坚守者",
         "link": "https://sec.thief.one/article_content?a_id=2ccadb26da4250e82d7f0de52ae9d565",
@@ -16277,6 +16307,11 @@
       {
         "title": "亚洲诚信 CertCloud全球首发  | 一场解决SSL/TLS证书困局的硬核发布会",
         "link": "https://sec.thief.one/article_content?a_id=762891a242fea8de51e9da8320e2e8d4",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "红队渗透手册之钓鱼篇",
+        "link": "https://sec.thief.one/article_content?a_id=d202df2aec0673e3bf637adcf4f017f9",
         "date": "2020-08-10"
       },
       {
@@ -16490,6 +16525,11 @@
         "date": "2020-08-06"
       },
       {
+        "title": "【通知】隐私漏洞新增小程序和海外应用",
+        "link": "https://sec.thief.one/article_content?a_id=8ee110c6b8af8aac03210ebf4624e971",
+        "date": "2020-08-06"
+      },
+      {
         "title": "处理公告丨2020年7月腾讯外部安全报告处理公告",
         "link": "https://sec.thief.one/article_content?a_id=73f0f134e055101565f4b6fc4f9359be",
         "date": "2020-08-06"
@@ -16502,6 +16542,11 @@
       {
         "title": "绿盟威胁情报专栏|7月威胁热点",
         "link": "https://sec.thief.one/article_content?a_id=940716510e64edff29350c25be2155bb",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "Weblogic 远程命令执行漏洞(CVE-2020-14644)分析",
+        "link": "https://sec.thief.one/article_content?a_id=351610539ede89b03ae31dc6570901a3",
         "date": "2020-08-06"
       },
       {
@@ -16712,56 +16757,6 @@
       {
         "title": "【新坑慎入】小小的你竟然有着大大的安全隐患",
         "link": "https://sec.thief.one/article_content?a_id=eb6ef448afb9b96a38216b38babb9a1c",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "机缘巧合之下拿下个发卡网还撸了把羊毛",
-        "link": "https://sec.thief.one/article_content?a_id=3ac5e131af25ec7c732fa6086b3a961a",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "DeFi有多强?涨幅榜上随手抓就是一个8倍币,还有一个比它更强",
-        "link": "https://sec.thief.one/article_content?a_id=5d742048813379a0a255268fc5c830b1",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "FOFA五周年活动 | 五重礼感恩回馈",
-        "link": "https://sec.thief.one/article_content?a_id=063e22319c656030ee1e082d13b3ae82",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "CVE-2020-7699:NodeJS模块代码注入",
-        "link": "https://sec.thief.one/article_content?a_id=36eaa1400d5eb745ece6c6f07c13d02f",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "每日安全动态推送(08-05)",
-        "link": "https://sec.thief.one/article_content?a_id=6e269e57d021ed06c3d70d46b1a17220",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "天翼杯2020_wp_by_LQers",
-        "link": "https://sec.thief.one/article_content?a_id=eb4a1416f06ad82742ffbaf61728279a",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "华硕路由器远程代码执行漏洞通告",
-        "link": "https://sec.thief.one/article_content?a_id=91239c2bfb1081faf12860d8e9db728b",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "黑客真的可以躺着赚钱!",
-        "link": "https://sec.thief.one/article_content?a_id=b143aefe973728a4599b89174699d092",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "8月流火季,挖洞最高5倍积分!",
-        "link": "https://sec.thief.one/article_content?a_id=ad4784a15e8798cff38c5949239e73b3",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "实战|记一次授权的渗透测试",
-        "link": "https://sec.thief.one/article_content?a_id=9887f3dc40b40d851816b2f783cfba50",
         "date": "2020-08-05"
       }
     ]

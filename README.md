@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 14:48:00，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 15:02:51，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -24,7 +24,7 @@
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
-- [前端圈](#前端圈)![](assets/dot.png)   
+- [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-11-印度媒体：印度前总统穆克吉健康状况恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipdhxenR5zLtp7ZpDAhK9200811&isfromapp=1) ![](assets/new.png)  
+- [2020-08-11-瑞士和列支敦士登新增187例新冠肺炎确诊病例-累计确诊36895例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDTQkRuSS4W0jYVqYftIe200811&isfromapp=1) ![](assets/new.png)  
+- [2020-08-11-​荷兰过去一周新增4036例新冠肺炎确诊病例-累计确诊59973例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMKc7hV62ru1J5a4B9BeL200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-英国自新冠疫情后已有73万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigrXabLsRyBz7rtVN7zb0200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-​确诊新冠肺炎，印度前总统慕克吉手术后病情危重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioV4A3jo32qQQ66HKx0rP200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-11-波兰新增新冠肺炎确诊病例551例-累计52961例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCHV4QhsUCrEOZo7YcZNo200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-11-普京：俄研发新冠疫苗已通过国家注册-将于明年流通](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixOrpAX0EUzDmGyOflr7q200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-11-乌鲁木齐为特殊人群车辆开辟绿色通道-优先查验保障通行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG8UMYdPdF3DxF12xJqFU200811&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -322,26 +322,6 @@
 </summary>
 
 
-- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) ![](assets/new.png)  
-- [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) ![](assets/new.png)  
-- [2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) ![](assets/new.png)  
-- [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) ![](assets/new.png)  
-- [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) ![](assets/new.png)  
-- [2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) ![](assets/new.png)  
-- [2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) ![](assets/new.png)  
-- [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) ![](assets/new.png)  
-- [2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) ![](assets/new.png)  
-- [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) ![](assets/new.png)  
-- [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) ![](assets/new.png)  
-- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) ![](assets/new.png)  
-- [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) ![](assets/new.png)  
-- [2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) ![](assets/new.png)  
-- [2019-06-20-视频Vue-开发-ECharts-踩坑指南@袁源](https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff) ![](assets/new.png)  
-- [2019-06-20-VueConf-2019上海精彩视频花絮](https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479) ![](assets/new.png)  
-- [2019-06-15-VuePress-1.0发布与介绍的视频版@真山_VueConf-2019上海](https://www.ershicimi.com/p/df891224b8145e46f487100cd9aba181) ![](assets/new.png)  
-- [2019-06-13-蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0) ![](assets/new.png)  
-- [2019-06-12-视频Vue.js作者在VueConf现场发布RFC](https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde) ![](assets/new.png)  
-- [2019-06-11-真山在-VueConf-2019-上海-现场发布-VuePress-1.0](https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端圈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,9 +1032,11 @@
 </summary>
 
 
+- [2020-08-11-一个-macOS-朗读的小彩蛋……](https://www.v2ex.com/t/697519) ![](assets/new.png)  
+- [2020-08-11-Python-可视化工具库哪款最好用？哪款最不好用？](https://www.v2ex.com/t/697518) ![](assets/new.png)  
+- [2020-08-11-2020-年中信香港卡（信银国际）零门槛办理指南](https://www.v2ex.com/t/697517) ![](assets/new.png)  
 - [2020-08-11-小米出了透明电视，-RMB-49999，-而我觉得赛博朋克快来了](https://www.v2ex.com/t/697516) ![](assets/new.png)  
 - [2020-08-11-K30u-这价格无敌了啊](https://www.v2ex.com/t/697515) ![](assets/new.png)  
-- [2020-08-11-flutter-对接腾讯云-即时通信-IM](https://www.v2ex.com/t/697514) ![](assets/new.png)  
 - [2020-08-11-国内用什么邮箱好](https://www.v2ex.com/t/697513) ![](assets/new.png)  
 - [2020-08-11-如何得知国内浏览器排行榜？](https://www.v2ex.com/t/697512) ![](assets/new.png)  
 - [2020-08-11-墙壁上的开关，有没有什么产品可以卡住开关，不让开关被打开或关闭？](https://www.v2ex.com/t/697511) ![](assets/new.png)  
@@ -1070,8 +1052,6 @@
 - [2020-08-11-C#-泛型、duck-typing、高效枚举](https://www.v2ex.com/t/697500) ![](assets/new.png)  
 - [2020-08-11-搞了一个象棋的微信小程序，汇聚各路象棋大咖实战讲解全攻略，喜欢象棋的朋友可以来看看！](https://www.v2ex.com/t/697499) ![](assets/new.png)  
 - [2020-08-11-求教实现一个简单的会员积分系统😳](https://www.v2ex.com/t/697498) ![](assets/new.png)  
-- [2020-08-11-大佬们，问个正则](https://www.v2ex.com/t/697497) ![](assets/new.png)  
-- [2020-08-11-合租-沈塘桥地铁站附近求合租](https://www.v2ex.com/t/697494) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1123,11 +1103,11 @@
 - [2020-08-11-Java-项目如何分层](https://toutiao.io/k/uxp2jfz) ![](assets/new.png)  
 - [2020-08-11-译-你现在应该启用的-10-个超棒的-Chrome-功能](https://toutiao.io/k/zboy302) ![](assets/new.png)  
 - [2020-08-11-简直骚操作，ThreadLocal-还能当缓存用](https://toutiao.io/k/rvcs221) ![](assets/new.png)  
-- [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  
 - [2020-08-11-Redis-的持久化方案扩展讲解](https://toutiao.io/k/t4rlaaz) ![](assets/new.png)  
+- [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  
 - [2020-08-11-译-混沌游戏日：混沌的手把手指南](https://toutiao.io/k/he095kf) ![](assets/new.png)  
-- [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
 - [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
+- [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
 - [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
 - [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
 - [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  

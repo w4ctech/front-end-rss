@@ -12607,6 +12607,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "印度媒体：印度前总统穆克吉健康状况恶化",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipdhxenR5zLtp7ZpDAhK9200811&isfromapp=1",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "瑞士和列支敦士登新增187例新冠肺炎确诊病例 累计确诊36895例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDTQkRuSS4W0jYVqYftIe200811&isfromapp=1",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "​荷兰过去一周新增4036例新冠肺炎确诊病例 累计确诊59973例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMKc7hV62ru1J5a4B9BeL200811&isfromapp=1",
+        "date": "2020-08-11"
+      },
+      {
         "title": "英国自新冠疫情后已有73万人失业",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigrXabLsRyBz7rtVN7zb0200811&isfromapp=1",
         "date": "2020-08-11"
@@ -12614,21 +12629,6 @@
       {
         "title": "​确诊新冠肺炎，印度前总统慕克吉手术后病情危重",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioV4A3jo32qQQ66HKx0rP200811&isfromapp=1",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "波兰新增新冠肺炎确诊病例551例 累计52961例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCHV4QhsUCrEOZo7YcZNo200811&isfromapp=1",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "普京：俄研发新冠疫苗已通过国家注册 将于明年流通",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixOrpAX0EUzDmGyOflr7q200811&isfromapp=1",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "乌鲁木齐为特殊人群车辆开辟绿色通道 优先查验保障通行",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG8UMYdPdF3DxF12xJqFU200811&isfromapp=1",
         "date": "2020-08-11"
       }
     ]
@@ -13353,111 +13353,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/166",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/166",
     "title": "前端圈",
     "link": "https://www.ershicimi.com/a/166",
-    "items": [
-      {
-        "title": "用JS重塑复古计算机艺术 @JSConf2019",
-        "link": "https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f",
-        "date": "2019-11-06"
-      },
-      {
-        "title": "玉伯：我的前端成长之路",
-        "link": "https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e",
-        "date": "2019-11-05"
-      },
-      {
-        "title": "[视频]刘帅带来《巨型小程序的分布式开发与自动化管理》！",
-        "link": "https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5",
-        "date": "2019-10-13"
-      },
-      {
-        "title": "[更新视频]围观王泽在第五届FEDAY的演讲视频！",
-        "link": "https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d",
-        "date": "2019-10-13"
-      },
-      {
-        "title": "[视频]贵重带来《钉钉前端团队演进之路》！",
-        "link": "https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b",
-        "date": "2019-10-12"
-      },
-      {
-        "title": "[视频]崔红保带来《基于weex实现的小程序引擎》！",
-        "link": "https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b",
-        "date": "2019-10-11"
-      },
-      {
-        "title": "[视频]围观Unbug Lee在第五届FEDAY的演讲！",
-        "link": "https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a",
-        "date": "2019-10-10"
-      },
-      {
-        "title": "[视频]围观周俊鹏《依托云的Serverless落地实践》！",
-        "link": "https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0",
-        "date": "2019-10-09"
-      },
-      {
-        "title": "[视频]围观王泽在第五届FEDAY的演讲视频！",
-        "link": "https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed",
-        "date": "2019-10-08"
-      },
-      {
-        "title": "[视频]Chris Fritz在第五届FEDAY的演讲视频来啦！",
-        "link": "https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138",
-        "date": "2019-09-30"
-      },
-      {
-        "title": "[视频]一起围观月影在第五届FEDAY的演讲！",
-        "link": "https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a",
-        "date": "2019-09-29"
-      },
-      {
-        "title": "JavaScript性能开销之2019",
-        "link": "https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d",
-        "date": "2019-07-09"
-      },
-      {
-        "title": "[视频]探索Web编程的另一种形态@天翔",
-        "link": "https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d",
-        "date": "2019-07-02"
-      },
-      {
-        "title": "[视频]Vue开发小程序之性能优化@崔红保",
-        "link": "https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0",
-        "date": "2019-06-21"
-      },
-      {
-        "title": "[视频]Vue 开发 ECharts 踩坑指南@袁源",
-        "link": "https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff",
-        "date": "2019-06-20"
-      },
-      {
-        "title": "VueConf 2019上海精彩视频花絮",
-        "link": "https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479",
-        "date": "2019-06-20"
-      },
-      {
-        "title": "VuePress 1.0发布与介绍的视频版@真山_VueConf 2019上海",
-        "link": "https://www.ershicimi.com/p/df891224b8145e46f487100cd9aba181",
-        "date": "2019-06-15"
-      },
-      {
-        "title": "蒋豪群在VueConf 上海的演讲视频来啦！",
-        "link": "https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0",
-        "date": "2019-06-13"
-      },
-      {
-        "title": "[视频]Vue.js作者在VueConf现场发布RFC",
-        "link": "https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde",
-        "date": "2019-06-12"
-      },
-      {
-        "title": "真山在 VueConf 2019 上海 现场发布 VuePress 1.0",
-        "link": "https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624",
-        "date": "2019-06-11"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/169",
@@ -15759,6 +15658,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "一个 macOS 朗读的小彩蛋……",
+        "link": "https://www.v2ex.com/t/697519",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "Python 可视化工具库哪款最好用？哪款最不好用？",
+        "link": "https://www.v2ex.com/t/697518",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "2020 年中信香港卡（信银国际）零门槛办理指南",
+        "link": "https://www.v2ex.com/t/697517",
+        "date": "2020-08-11"
+      },
+      {
         "title": "小米出了透明电视， RMB 49999， 而我觉得赛博朋克快来了",
         "link": "https://www.v2ex.com/t/697516",
         "date": "2020-08-11"
@@ -15766,11 +15680,6 @@
       {
         "title": "K30u 这价格无敌了啊",
         "link": "https://www.v2ex.com/t/697515",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "flutter 对接腾讯云 即时通信 IM",
-        "link": "https://www.v2ex.com/t/697514",
         "date": "2020-08-11"
       },
       {
@@ -15942,21 +15851,6 @@
         "title": "[北京-iOS] 知春路优质初创团队招人~出海游戏方向~1 年以上经验即可， 15~30K",
         "link": "https://www.v2ex.com/t/697470",
         "date": "2020-08-11"
-      },
-      {
-        "title": "[招聘][南京]麒麟科创园母婴电商，诚招高级前端工程师/架构师（25-35K·13 薪），妹子超多",
-        "link": "https://www.v2ex.com/t/697469",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "上次发的个 V2 创业交流群，群里的一些聊天记录",
-        "link": "https://www.v2ex.com/t/697468",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "edge 在 android 平台耗电异常",
-        "link": "https://www.v2ex.com/t/697467",
-        "date": "2020-08-11"
       }
     ]
   },
@@ -16118,13 +16012,13 @@
         "date": "2020-08-11"
       },
       {
-        "title": "Eureka 客户端配置注册地址为什么要加 eureka 做后缀？",
-        "link": "https://toutiao.io/k/yf7moma",
+        "title": "Redis 的持久化方案扩展讲解",
+        "link": "https://toutiao.io/k/t4rlaaz",
         "date": "2020-08-11"
       },
       {
-        "title": "Redis 的持久化方案扩展讲解",
-        "link": "https://toutiao.io/k/t4rlaaz",
+        "title": "Eureka 客户端配置注册地址为什么要加 eureka 做后缀？",
+        "link": "https://toutiao.io/k/yf7moma",
         "date": "2020-08-11"
       },
       {
@@ -16133,13 +16027,13 @@
         "date": "2020-08-11"
       },
       {
-        "title": "用阻塞队列，再系一次鞋带",
-        "link": "https://toutiao.io/k/2orrna5",
+        "title": "[译] 凡人如何理解 lockless 算法？",
+        "link": "https://toutiao.io/k/ounv0el",
         "date": "2020-08-11"
       },
       {
-        "title": "[译] 凡人如何理解 lockless 算法？",
-        "link": "https://toutiao.io/k/ounv0el",
+        "title": "用阻塞队列，再系一次鞋带",
+        "link": "https://toutiao.io/k/2orrna5",
         "date": "2020-08-11"
       },
       {
@@ -16173,58 +16067,13 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-11"
       },
       {
@@ -16238,13 +16087,58 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 面试高频题：Spring Boot 自动装配的原理你能说出来吗？",
+        "link": "https://toutiao.io/k/lpc9n3o",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-11"
       },
       {
         "title": "[推荐] 超全实用图片工具网站列表",
         "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-11"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 15:09:54，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 15:19:56，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)![](assets/dot.png)   
@@ -477,6 +477,26 @@
 </summary>
 
 
+- [2020-08-11-常见的逻辑判断优化技巧](https://www.ershicimi.com/p/7c8b8f62855e4546433d638252593475) ![](assets/new.png)  
+- [2020-08-10-前端框架选择Vue的理由](https://www.ershicimi.com/p/61da09eb11f6a082d0001338169310a4) ![](assets/new.png)  
+- [2020-08-08-从零开始配置-TypeScript-项目](https://www.ershicimi.com/p/f842f28fb8eef6f52b56004e9b29fcf1) ![](assets/new.png)  
+- [2020-08-07-面试时行云流水仍被拒，人工智能的hr究竟喜欢什么样的求职者？](https://www.ershicimi.com/p/e39fe547c6342ec06fce5b27f0f75950) ![](assets/new.png)  
+- [2020-08-06-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/99fc54bf84ab2b810ca1c203c83cf505) ![](assets/new.png)  
+- [2020-08-05-vue3.0新型状态管理和逻辑复用方式](https://www.ershicimi.com/p/f68a2470bc8fd6493bfc5757328c2b9e) ![](assets/new.png)  
+- [2020-08-04-一文-get-入门-canvas-的最佳路径](https://www.ershicimi.com/p/79d73f9a992c207cc25227c10278f50b) ![](assets/new.png)  
+- [2020-08-03-vivo-悟空活动H5-活动加载优化](https://www.ershicimi.com/p/82b13171ad46eefa287cf2703e6fa8c1) ![](assets/new.png)  
+- [2020-08-03-没错，华为又对前端下手了！](https://www.ershicimi.com/p/14fa304b6aad76531bdd82b7a230d80b) ![](assets/new.png)  
+- [2020-08-02-精心挑选的几个前端公众号](https://www.ershicimi.com/p/7bd26145bedb709e603111df276f84e5) ![](assets/new.png)  
+- [2020-07-31-图片压缩原理](https://www.ershicimi.com/p/38acef5560c6e8e52234d7725053a8c1) ![](assets/new.png)  
+- [2020-07-30-【答案详解】145道Web高频面试题，锁定高薪Offer](https://www.ershicimi.com/p/12e1a03c8ddffaee7ced84f165fb9e00) ![](assets/new.png)  
+- [2020-07-29-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed) ![](assets/new.png)  
+- [2020-07-28-几个常见面试题，工作中也经常用到](https://www.ershicimi.com/p/605539ef8663e7d6be0c531072e51703) ![](assets/new.png)  
+- [2020-07-27-聊一聊前端性能优化](https://www.ershicimi.com/p/95e4dc5c9a8b25adcad6702c692cca9a) ![](assets/new.png)  
+- [2020-07-24-干货报告：八大科技领域，280-页，InfoQ《2020-中国技术发展白皮书》开放下载](https://www.ershicimi.com/p/c248c3768a872577152c1f8b04130125) ![](assets/new.png)  
+- [2020-07-23-全宇宙首本-VS-Code-中文书，来了！](https://www.ershicimi.com/p/90ce4164e0fd41aac8f7add903674e17) ![](assets/new.png)  
+- [2020-07-23-Vue异步更新机制和nextTick原理](https://www.ershicimi.com/p/4ec64ee9c5b317948e902ea6b0f967f4) ![](assets/new.png)  
+- [2020-07-22-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/668f88b73fc507582e0327b5e226e0ea) ![](assets/new.png)  
+- [2020-07-21-写给前端的算法进阶指南，我是如何两个月零基础刷200题](https://www.ershicimi.com/p/fec885f94bafb0c093efefe73a66a093) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-11-AdGuard-Home-版拦截大量的-logs-01.loggly.com-请求，请问大佬-logs-01.loggly.com-是干什么的？什么软件发出的请求](https://www.v2ex.com/t/697522) ![](assets/new.png)  
 - [2020-08-11-android-小组件的问题？](https://www.v2ex.com/t/697521) ![](assets/new.png)  
 - [2020-08-11-有抢到小米-10-至尊纪念版亮银色的兄弟吗？](https://www.v2ex.com/t/697520) ![](assets/new.png)  
 - [2020-08-11-一个-macOS-朗读的小彩蛋……](https://www.v2ex.com/t/697519) ![](assets/new.png)  
@@ -1051,7 +1072,6 @@
 - [2020-08-11-视频点播-app-的播放源如何添加](https://www.v2ex.com/t/697504) ![](assets/new.png)  
 - [2020-08-11-MacBook-升级-海康威视-c2000-pro](https://www.v2ex.com/t/697503) ![](assets/new.png)  
 - [2020-08-11-自研企业级安卓-java2c-加固服务，第四代加壳，性能超过-vmp](https://www.v2ex.com/t/697502) ![](assets/new.png)  
-- [2020-08-11-C#-泛型、duck-typing、高效枚举](https://www.v2ex.com/t/697500) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1102,12 +1122,12 @@
 - [2020-08-11-WebRTC-的电脑和手机端浏览器支持](https://toutiao.io/k/oskbqlc) ![](assets/new.png)  
 - [2020-08-11-Java-项目如何分层](https://toutiao.io/k/uxp2jfz) ![](assets/new.png)  
 - [2020-08-11-译-你现在应该启用的-10-个超棒的-Chrome-功能](https://toutiao.io/k/zboy302) ![](assets/new.png)  
-- [2020-08-11-简直骚操作，ThreadLocal-还能当缓存用](https://toutiao.io/k/rvcs221) ![](assets/new.png)  
 - [2020-08-11-Redis-的持久化方案扩展讲解](https://toutiao.io/k/t4rlaaz) ![](assets/new.png)  
+- [2020-08-11-简直骚操作，ThreadLocal-还能当缓存用](https://toutiao.io/k/rvcs221) ![](assets/new.png)  
 - [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  
 - [2020-08-11-译-混沌游戏日：混沌的手把手指南](https://toutiao.io/k/he095kf) ![](assets/new.png)  
-- [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
 - [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
+- [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
 - [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
 - [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
 - [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  

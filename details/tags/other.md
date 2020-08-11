@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-11 06:31:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 06:33:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2171,6 +2171,12 @@
 - [2020-08-11-热评丨这场“寒假连着暑假”的开学-平稳顺利是全社会之盼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimY0Txo6bS6mbkQkXacL3200811&isfromapp=1) 
 - [2020-08-11-国家卫健委：昨日新增确诊病例44例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYtYvcMcH05CYnk4pG5p3200811&isfromapp=1) 
 - [2020-08-10-谭德塞：已看到扑灭疫情的希望-但要做好两点工作](https://m.weibo.cn/3057540037/4536635292649726) 
+- [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
+- [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
+- [2020-01-06-推荐几个前端领域的优质公众号](https://www.ershicimi.com/p/2ecc19eb701a08ec7dc1ffbcc07b4487) 
+- [2020-01-04-【搞笑漫画】程序员鄙视链](https://www.ershicimi.com/p/99356f25157eaf693a3a9aa592666dbb) 
+- [2019-12-25-给开发人员的时间管理建议](https://www.ershicimi.com/p/fe451d9ed185297ab9a70fc9109d41fe) 
 - [2020-08-11-假如孙悟空是一名程序员](https://www.ershicimi.com/p/9d3c06f02ed3c1e5fe4f6ace1f17c667) 
 - [2020-08-09-当程序员遇到怪异-Bug-而崩溃的时候有声音](https://www.ershicimi.com/p/0285c7dbb386d617d48d356399218b3d) 
 - [2020-08-08-这10篇关于NLP预训练模型论文值得一看！](https://www.ershicimi.com/p/90f21c4bba54ac290aa957d300b1602f) 

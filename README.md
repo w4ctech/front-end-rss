@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 23:33:40，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 23:46:26，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-11-外边出着太阳，就我拿了个伞，像一个-XX](https://www.v2ex.com/t/697548) ![](assets/new.png)  
 - [2020-08-11-有没有-windows-下面好用的注册表监控管理或沙盒软件？](https://www.v2ex.com/t/697547) ![](assets/new.png)  
 - [2020-08-11-算法题基本上刷过就忘](https://www.v2ex.com/t/697546) ![](assets/new.png)  
 - [2020-08-11-2017-iMac-内存有推荐的卖家吗](https://www.v2ex.com/t/697545) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-11-求助：在-gitbash-中-yarn-与-npm-的输出结果中，-yarn-自带了白色的背景色，如何避免该背景色？](https://www.v2ex.com/t/697530) ![](assets/new.png)  
 - [2020-08-11-小米服务框架是准备专门用来发官方广告了？](https://www.v2ex.com/t/697529) ![](assets/new.png)  
 - [2020-08-11-以下项目需求哪些用爬虫软件可以完成？哪些需要用爬虫库来完成？哪些必须要爬虫框架才能实现？](https://www.v2ex.com/t/697528) ![](assets/new.png)  
-- [2020-08-11-Watch6-有-5G-吗？](https://www.v2ex.com/t/697527) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,8 +1126,8 @@
 - [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  
 - [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
 - [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
 - [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
+- [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
 - [2020-08-11-简直骚操作，ThreadLocal-还能当缓存用](https://toutiao.io/k/rvcs221) ![](assets/new.png)  
 - [2020-08-11-分享几个亲测有效的高效工作技巧](https://toutiao.io/k/13dp300) ![](assets/new.png)  
 - [2020-08-11-Python-为什么能支持任意的真值判断？](https://toutiao.io/k/9z0vtmx) ![](assets/new.png)  

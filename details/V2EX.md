@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-11 16:48:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 17:02:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-11-带了半个月的实习生提桶跑路了，怎么适应？](https://www.v2ex.com/t/697536) 
+- [2020-08-11-你们的海外服务器还好吗？](https://www.v2ex.com/t/697535) 
 - [2020-08-11-ditto-与-windows-剪贴板的选择？](https://www.v2ex.com/t/697534) 
 - [2020-08-11-iOS14-beta4-使用-Air-Pods-时用微信拍照声音的-bug-终于没有了](https://www.v2ex.com/t/697533) 
 - [2020-08-11-安卓有什么插件可以实现-iOS13-上的电池优化么？](https://www.v2ex.com/t/697532) 
@@ -46,5 +48,3 @@
 - [2020-08-11-这周卖掉了大部分仓位，接下来看大家表演了](https://www.v2ex.com/t/697491) 
 - [2020-08-11-gnome3-有没有类似-unity7-的全局菜单](https://www.v2ex.com/t/697490) 
 - [2020-08-11-New-Edge-提示-mega.nz-不安全，换-firefox-可以成功打开](https://www.v2ex.com/t/697489) 
-- [2020-08-11-c++里怎么对函数做-hash，或者获得函数的函数签名](https://www.v2ex.com/t/697486) 
-- [2020-08-11-某宝-cpu-散片主板套求教](https://www.v2ex.com/t/697485) 

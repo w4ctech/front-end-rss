@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 09:09:42，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 09:19:55，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-11-宁波的程序员讨论群（技术、求职、生活）](https://www.v2ex.com/t/697430) ![](assets/new.png)  
+- [2020-08-11-招聘-北京-DevOps-工程师](https://www.v2ex.com/t/697429) ![](assets/new.png)  
+- [2020-08-11-杭州-阿里-阿里巴巴-业务平台事业部--Java-P6/P7-交易平台，核心部门，位置多多，机会多多！](https://www.v2ex.com/t/697428) ![](assets/new.png)  
+- [2020-08-11-大家-996-和大小周的是公司制度里直接写明的还是领导口头说的](https://www.v2ex.com/t/697427) ![](assets/new.png)  
 - [2020-08-11-问一下-MAC-电脑怎么备份升级呀？](https://www.v2ex.com/t/697426) ![](assets/new.png)  
 - [2020-08-11-键盘单按-F4-失灵，但是-Alt+F4、Ctrl+F4-等组合键都正常。这是啥问题呢？](https://www.v2ex.com/t/697425) ![](assets/new.png)  
 - [2020-08-11-dnf-手游是真能鸽-我真是佛了-现在一点想玩的心情都没了](https://www.v2ex.com/t/697424) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-11-迫于氢-11-想刷机-请教-LineageOS-PixelExperience-Havoc-OS-这样类原生的系统体验怎么样](https://www.v2ex.com/t/697412) ![](assets/new.png)  
 - [2020-08-11-还有几天离职手续就要办完了，向-V-站自媒体前辈学习](https://www.v2ex.com/t/697411) ![](assets/new.png)  
 - [2020-08-11-SpreadJS-纯前端表格控件应用案例：生产采购管理软件](https://www.v2ex.com/t/697410) ![](assets/new.png)  
-- [2020-08-11-自组装台式机，预计下半年双十一入手，目前打算多了解配件的情况，主要需求是机器学习和深度学习模型的训练学习](https://www.v2ex.com/t/697409) ![](assets/new.png)  
-- [2020-08-11-译-为什么你需要使用-Node.js？](https://www.v2ex.com/t/697408) ![](assets/new.png)  
-- [2020-08-11-基于-Electron-电脑版小程序平台-开发多个小程序-COOL-AI](https://www.v2ex.com/t/697407) ![](assets/new.png)  
-- [2020-08-11-时至今日，拼多多拼单写错地址，竟然还改不了也退不掉？](https://www.v2ex.com/t/697406) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,8 +1117,8 @@
 - [2020-08-11-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) ![](assets/new.png)  
 - [2020-08-11-Spring-Cloud-微服务：基于-Nacos-组件，整合-Dubbo-框架](https://toutiao.io/k/b8afztf) ![](assets/new.png)  
 - [2020-08-11-了不起的-Istio](https://toutiao.io/k/u6nqgc5) ![](assets/new.png)  
-- [2020-08-11-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
 - [2020-08-11-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-11-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
 - [2020-08-11-WebRTC-的电脑和手机端浏览器支持](https://toutiao.io/k/oskbqlc) ![](assets/new.png)  
 - [2020-08-11-Java-项目如何分层](https://toutiao.io/k/uxp2jfz) ![](assets/new.png)  
 - [2020-08-11-译-你现在应该启用的-10-个超棒的-Chrome-功能](https://toutiao.io/k/zboy302) ![](assets/new.png)  
@@ -1129,10 +1129,10 @@
 - [2020-08-11-Redis-的持久化方案扩展讲解](https://toutiao.io/k/t4rlaaz) ![](assets/new.png)  
 - [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
 - [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
-- [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
 - [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-11-力扣1519：子树中标签相同的节点数](https://toutiao.io/k/fq3x5o9) ![](assets/new.png)  
+- [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
 - [2020-08-11-分享几个亲测有效的高效工作技巧](https://toutiao.io/k/13dp300) ![](assets/new.png)  
+- [2020-08-11-力扣1519：子树中标签相同的节点数](https://toutiao.io/k/fq3x5o9) ![](assets/new.png)  
 - [2020-08-11-Python-为什么能支持任意的真值判断？](https://toutiao.io/k/9z0vtmx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

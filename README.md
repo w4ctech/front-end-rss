@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 07:09:22，:rocket: 更新条数: +773， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 07:19:07，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-08-10-最新疫情：全国新冠累计确诊84712例-新增境外输入31例](http://m.china.caixin.com/m/2020-08-11/101591230.html) ![](assets/new.png)  
+- [2020-08-10-大流行手记|8月10日：美国疫情曲线呈降势-印度连续12天新增破5万例](https://m.caixin.com/m/2020-08-11/101591157.html) ![](assets/new.png)  
+- [2020-08-10-【图集】韩国首尔南大门市场现新冠聚集性感染事件](http://m.photos.caixin.com/m/2020-08-11/101591137.html) ![](assets/new.png)  
+- [2020-08-09-输入性新冠病例陡增-上海将加强国际航班远端管控](http://m.companies.caixin.com/m/2020-08-10/101590870.html) ![](assets/new.png)  
+- [2020-08-09-最新海外疫情：新冠感染者近1974万-累计死亡超72.6万](https://m.caixin.com/m/2020-08-10/101590953.html) ![](assets/new.png)  
+- [2020-08-09-【境内疫情观察】全国新增35例境外输入病例（8月9日）](http://m.database.caixin.com/m/2020-08-10/101590804.html) ![](assets/new.png)  
+- [2020-08-09-大流行手记|8月9日：日本澄清新冠病毒变异-特朗普谋求疫苗大选前出炉](https://m.caixin.com/m/2020-08-10/101590711.html) ![](assets/new.png)  
+- [2020-08-09-澳大利亚单日新增死亡病例创新高-新西兰连续百日无社区传播](http://m.international.caixin.com/m/2020-08-10/101590950.html) ![](assets/new.png)  
+- [2020-08-09-美国疫情现趋缓迹象-新增和死亡病例7日均值双双下行](http://m.international.caixin.com/m/2020-08-10/101590833.html) ![](assets/new.png)  
+- [2020-08-08-【境内疫情观察】新疆新增15例本土病例（8月8日）](http://m.database.caixin.com/m/2020-08-09/101590640.html) ![](assets/new.png)  
+- [2020-08-08-大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html) ![](assets/new.png)  
+- [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
+- [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) ![](assets/new.png)  
+- [2020-08-06-香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html) ![](assets/new.png)  
+- [2020-08-06-【境内疫情观察】北京新发地聚集性疫情在院病例清零（8月6日）](http://m.database.caixin.com/m/2020-08-07/101589969.html) ![](assets/new.png)  
+- [2020-08-06-大流行手记|8月6日：亚欧多国疫情继续回升-越南建起方舱医院](https://m.caixin.com/m/2020-08-07/101589796.html) ![](assets/new.png)  
+- [2020-08-05-广东再收紧香港入境要求-核酸检测报告时限缩短至24小时](http://m.china.caixin.com/m/2020-08-06/101589532.html) ![](assets/new.png)  
+- [2020-08-05-【境内疫情观察】全国新增30例本土病例（8月5日）](http://m.database.caixin.com/m/2020-08-06/101589410.html) ![](assets/new.png)  
+- [2020-08-05-大流行手记|8月5日：疫情加剧教育不平等-俄将开展未成年人新冠疫苗实验](https://m.caixin.com/m/2020-08-06/101589309.html) ![](assets/new.png)  
+- [2020-08-04-【境内疫情观察】新疆新增22例本土病例（8月4日）](http://m.database.caixin.com/m/2020-08-05/101588974.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,9 +1052,13 @@
 </summary>
 
 
+- [2020-08-11-MBP-16-寸，当时忘了买-AC+，现在是不是还能买-AC？谢谢](https://www.v2ex.com/t/697383) ![](assets/new.png)  
+- [2020-08-11-有做安全与风控相关的吗？可以考虑一下字节跳动](https://www.v2ex.com/t/697382) ![](assets/new.png)  
+- [2020-08-11-新建了个-ruby-中文讨论群](https://www.v2ex.com/t/697379) ![](assets/new.png)  
+- [2020-08-11-求一部动画](https://www.v2ex.com/t/697378) ![](assets/new.png)  
 - [2020-08-11-继上次被阿里的-hr-连拒两次之后。](https://www.v2ex.com/t/697377) ![](assets/new.png)  
 - [2020-08-11-CODING-DevOps-代码质量实战系列第二课，相约周三](https://www.v2ex.com/t/697376) ![](assets/new.png)  
-- [2020-08-11-给杜兰特的女神画上-Thug-Life-特效](https://www.v2ex.com/t/697375) ![](assets/new.png)  
+- [2020-08-11-给-NBA-球星杜兰特的女神寡姐画上-Thug-Life-特效](https://www.v2ex.com/t/697375) ![](assets/new.png)  
 - [2020-08-11-关于点赞模块在高并发下的优化处理，求方案](https://www.v2ex.com/t/697374) ![](assets/new.png)  
 - [2020-08-11-阿里云产品优惠返佣-15%起，不影响发票](https://www.v2ex.com/t/697373) ![](assets/new.png)  
 - [2020-08-11-今天去天才吧让我有种去理发店的感觉。。。。](https://www.v2ex.com/t/697372) ![](assets/new.png)  
@@ -1048,10 +1072,6 @@
 - [2020-08-11-如果我们不买华为，芯片短缺的问题不就解决了吗](https://www.v2ex.com/t/697363) ![](assets/new.png)  
 - [2020-08-11-看到同事玩的王者荣耀手游自动生成的视频，不得不佩服做的配套服务](https://www.v2ex.com/t/697362) ![](assets/new.png)  
 - [2020-08-11-make-编译程序出错，不知道是什么原因](https://www.v2ex.com/t/697361) ![](assets/new.png)  
-- [2020-08-11-现在有必要等-MacBook-Pro-14-寸吗？](https://www.v2ex.com/t/697360) ![](assets/new.png)  
-- [2020-08-11-mysql-主键用自增-id-还是雪花-id?](https://www.v2ex.com/t/697358) ![](assets/new.png)  
-- [2020-08-11-成都爱奇艺-游戏小伙伴来看下，-U3D（HC4）、erlang、关卡策划](https://www.v2ex.com/t/697355) ![](assets/new.png)  
-- [2020-08-11-现想买个低端-win-笔记本，-3k-价位还有必要入二手么？](https://www.v2ex.com/t/697354) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1112,8 +1132,8 @@
 - [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
 - [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
 - [2020-08-11-力扣1519：子树中标签相同的节点数](https://toutiao.io/k/fq3x5o9) ![](assets/new.png)  
-- [2020-08-11-Python-为什么能支持任意的真值判断？](https://toutiao.io/k/9z0vtmx) ![](assets/new.png)  
 - [2020-08-11-分享几个亲测有效的高效工作技巧](https://toutiao.io/k/13dp300) ![](assets/new.png)  
+- [2020-08-11-Python-为什么能支持任意的真值判断？](https://toutiao.io/k/9z0vtmx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

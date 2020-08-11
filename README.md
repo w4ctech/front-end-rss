@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 03:02:33，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 03:09:45，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -97,9 +97,9 @@
 
 - [2020-08-11-国家卫健委：昨日新增确诊病例44例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYtYvcMcH05CYnk4pG5p3200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-谭德塞：已看到扑灭疫情的希望-但要做好两点工作](https://m.weibo.cn/3057540037/4536635292649726) ![](assets/new.png)  
+- [2020-08-10-2020年中央安排456.6亿元-支持各地提升公共卫生防控救治能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv7BbU6uCPkVRlySigUK2200811&isfromapp=1) ![](assets/new.png)  
+- [2020-08-10-世卫组织：全球新冠肺炎确诊病例新增253409例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuANCHP9HWiKG4bfSWRIn200811&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-非洲地区新冠肺炎确诊病例增长至104万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimkENBM89v7UcYJWc6RYO200811&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-美国每-80-秒就有一人死于新冠肺炎](https://m.weibo.cn/3057540037/4536544695944906) ![](assets/new.png)  
-- [2020-08-10-世卫组织：中南欧仍未完全控制疫情，西欧出现疫情复发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPIcmUGfECQtJTXdwLg2200810&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-11-Outlook-邮箱给-QQ-邮箱发邮件被后者全放进了垃圾箱，怎么办？](https://www.v2ex.com/t/697298) ![](assets/new.png)  
+- [2020-08-11-直接使用-haproxy-官方文档的示例配置，出错](https://www.v2ex.com/t/697296) ![](assets/new.png)  
+- [2020-08-11-昨天问了个收租公，说深圳房价短期要调整下跌，不知可不可信？](https://www.v2ex.com/t/697295) ![](assets/new.png)  
+- [2020-08-11-是不是学-IT-的毕业生越多，-996-和大小周也就越来越多？](https://www.v2ex.com/t/697294) ![](assets/new.png)  
 - [2020-08-11-美团点评--Java-研发工程师](https://www.v2ex.com/t/697292) ![](assets/new.png)  
 - [2020-08-11-大量数据查询的方法-面试困难](https://www.v2ex.com/t/697291) ![](assets/new.png)  
 - [2020-08-11-求推荐写测试用例的工具](https://www.v2ex.com/t/697289) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-11-应届生找工作好难啊](https://www.v2ex.com/t/697275) ![](assets/new.png)  
 - [2020-08-11-mbp16-有必要等-10-代-cpu-么？](https://www.v2ex.com/t/697274) ![](assets/new.png)  
 - [2020-08-11-北京社保代缴有推荐的吗？](https://www.v2ex.com/t/697272) ![](assets/new.png)  
-- [2020-08-11-试试能不能收到开源的第一笔打赏-🌚](https://www.v2ex.com/t/697271) ![](assets/new.png)  
-- [2020-08-11-和彩云免费领取-2TB-空间-1-年](https://www.v2ex.com/t/697270) ![](assets/new.png)  
-- [2020-08-11-免费送-Advanced-SystemCare-13-Pro-清理优化工具-一个月](https://www.v2ex.com/t/697269) ![](assets/new.png)  
-- [2020-08-11-请教一下-Java-高手](https://www.v2ex.com/t/697267) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1122,8 @@
 - [2020-08-11-译-你现在应该启用的-10-个超棒的-Chrome-功能](https://toutiao.io/k/zboy302) ![](assets/new.png)  
 - [2020-08-11-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
 - [2020-08-11-Eureka-客户端配置注册地址为什么要加-eureka-做后缀？](https://toutiao.io/k/yf7moma) ![](assets/new.png)  
-- [2020-08-11-译-混沌游戏日:混沌的手把手指南](https://toutiao.io/k/he095kf) ![](assets/new.png)  
 - [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
+- [2020-08-11-译-混沌游戏日:混沌的手把手指南](https://toutiao.io/k/he095kf) ![](assets/new.png)  
 - [2020-08-11-简直骚操作，ThreadLocal-还能当缓存用](https://toutiao.io/k/rvcs221) ![](assets/new.png)  
 - [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
 - [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  

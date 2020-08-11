@@ -15759,6 +15759,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "谷歌地图国内没有偏移了",
+        "link": "https://www.v2ex.com/t/697482",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "腾讯云 Serverless 支撑「新东方」核心业务算力资源",
+        "link": "https://www.v2ex.com/t/697481",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "一面数据正在寻找对数据领域有热情的伙伴",
+        "link": "https://www.v2ex.com/t/697480",
+        "date": "2020-08-11"
+      },
+      {
         "title": "请问大家是怎么处理多个苹果设备垃圾短信的过滤问题的？",
         "link": "https://www.v2ex.com/t/697478",
         "date": "2020-08-11"
@@ -15931,21 +15946,6 @@
       {
         "title": "parallels desktop 发布 16 版本了",
         "link": "https://www.v2ex.com/t/697433",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[北京]数美科技 招收 前端，测试，服务端研发，还有更多岗位 ，都可以联系我！",
-        "link": "https://www.v2ex.com/t/697432",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "Mac pro 正常使用冒烟了。。。",
-        "link": "https://www.v2ex.com/t/697431",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "宁波的程序员讨论群（技术、求职、生活）",
-        "link": "https://www.v2ex.com/t/697430",
         "date": "2020-08-11"
       }
     ]
@@ -16163,13 +16163,13 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
+        "title": "[推荐] 面试高频题：Spring Boot 自动装配的原理你能说出来吗？",
+        "link": "https://toutiao.io/k/lpc9n3o",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-11"
       },
       {
@@ -16178,18 +16178,18 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
         "date": "2020-08-11"
       },
       {
@@ -16198,33 +16198,8 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
         "date": "2020-08-11"
       },
       {
@@ -16233,8 +16208,33 @@
         "date": "2020-08-11"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
         "date": "2020-08-11"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 11:33:15，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 11:46:39，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-11-谷歌地图国内没有偏移了](https://www.v2ex.com/t/697482) ![](assets/new.png)  
+- [2020-08-11-腾讯云-Serverless-支撑「新东方」核心业务算力资源](https://www.v2ex.com/t/697481) ![](assets/new.png)  
+- [2020-08-11-一面数据正在寻找对数据领域有热情的伙伴](https://www.v2ex.com/t/697480) ![](assets/new.png)  
 - [2020-08-11-请问大家是怎么处理多个苹果设备垃圾短信的过滤问题的？](https://www.v2ex.com/t/697478) ![](assets/new.png)  
 - [2020-08-11-蚂蚁金服上市前一波招聘杭州，成都双-11,12-核心部门招聘测试开发P6,-P7,P8-可加面试官微信直聊](https://www.v2ex.com/t/697476) ![](assets/new.png)  
 - [2020-08-11-mac-上-mysql-管理工具真的都好难用......](https://www.v2ex.com/t/697475) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-11-因业务软件通过-socks5-无法正常工作-需要-vp-嗯这类全局的-Linux-下自建的话现在什么协议还比较不受干扰](https://www.v2ex.com/t/697459) ![](assets/new.png)  
 - [2020-08-11-求助-C#-关于-DirectX-的编程，如何控制系统左右声道播放不同-WAV-音频](https://www.v2ex.com/t/697458) ![](assets/new.png)  
 - [2020-08-11-我的-MacBook-Pro-16inch-2019-烧掉了](https://www.v2ex.com/t/697457) ![](assets/new.png)  
-- [2020-08-11-1-元秒杀-大厂高频设计模式应用及分析](https://www.v2ex.com/t/697455) ![](assets/new.png)  
-- [2020-08-11-Flutter-Movies-v1.1.0-更新](https://www.v2ex.com/t/697454) ![](assets/new.png)  
-- [2020-08-11-iOS-14-beta地图能-app-单独改语言么?](https://www.v2ex.com/t/697452) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

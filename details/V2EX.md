@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-11 16:33:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 16:46:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-11-ditto-与-windows-剪贴板的选择？](https://www.v2ex.com/t/697534) 
 - [2020-08-11-iOS14-beta4-使用-Air-Pods-时用微信拍照声音的-bug-终于没有了](https://www.v2ex.com/t/697533) 
 - [2020-08-11-安卓有什么插件可以实现-iOS13-上的电池优化么？](https://www.v2ex.com/t/697532) 
 - [2020-08-11-Time-Machine-在没有外挂移动硬盘的情况下也可以恢复文件？](https://www.v2ex.com/t/697531) 

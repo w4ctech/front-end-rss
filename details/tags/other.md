@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-11 16:33:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-11 16:46:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2413,6 +2413,7 @@
 - [2020-08-04-开播即爆款的《三十而已》，却让我看清了国产剧的「真面目」](https://www.ershicimi.com/p/779698f9263d720874486e310931e6e9) 
 - [2020-08-04-万茜采访「翻车」：越火，越能看出一个人的本性](https://www.ershicimi.com/p/5ca679950035bfe101e02dcdfbea5c02) 
 - [2020-08-04-知乎故事-|-我是被老婆「撩」到手的](https://www.ershicimi.com/p/7489ac9af61c0d3007895a981ef3a938) 
+- [2020-08-11-ditto-与-windows-剪贴板的选择？](https://www.v2ex.com/t/697534) 
 - [2020-08-11-iOS14-beta4-使用-Air-Pods-时用微信拍照声音的-bug-终于没有了](https://www.v2ex.com/t/697533) 
 - [2020-08-11-Time-Machine-在没有外挂移动硬盘的情况下也可以恢复文件？](https://www.v2ex.com/t/697531) 
 - [2020-08-11-小米服务框架是准备专门用来发官方广告了？](https://www.v2ex.com/t/697529) 
@@ -2471,15 +2472,13 @@
 - [2020-08-11-分享几个亲测有效的高效工作技巧](https://toutiao.io/k/13dp300) 
 - [2020-08-11-力扣1519：子树中标签相同的节点数](https://toutiao.io/k/fq3x5o9) 
 - [2020-08-11-Python-为什么能支持任意的真值判断？](https://toutiao.io/k/9z0vtmx) 
-- [2020-08-11-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
-- [2020-08-11-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
 - [2020-08-11-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
-- [2020-08-11-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) 
-- [2020-08-11-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) 
-- [2020-08-11-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
 - [2020-08-11-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
-- [2020-08-11-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
+- [2020-08-11-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
+- [2020-08-11-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) 
+- [2020-08-11-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
 - [2020-08-11-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
+- [2020-08-11-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) 
 - [2020-08-11-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
 - [2020-08-11-定了!渗透测试工程师线下就业班秋季报名正式开启](https://sec.thief.one/article_content?a_id=9b0978d0c2ff2dac204461964441760a) 
 - [2020-08-11-中奖名单-|-前方锦鲤出没,速来围观!!!](https://sec.thief.one/article_content?a_id=f819fec72a8c6cdb9481e335afc2c258) 

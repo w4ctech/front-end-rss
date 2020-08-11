@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-11 16:19:59，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-11 16:31:33，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
@@ -854,6 +854,26 @@
 </summary>
 
 
+- [2020-08-11-我们公司不会用分布式事务！](https://www.ershicimi.com/p/4faf992ac4e277cf4f39cfbc011a103b) ![](assets/new.png)  
+- [2020-08-11-来，告诉你阿里的数据库连接池Druid为啥如此牛逼！](https://www.ershicimi.com/p/56d40782a74a5d254406c53e7c60fa67) ![](assets/new.png)  
+- [2020-08-11-彻底搞懂“红黑树”......](https://www.ershicimi.com/p/0cc4a6df1d618c7656c5f5c9e718329b) ![](assets/new.png)  
+- [2020-08-10-被Redis击穿的一次面试经历](https://www.ershicimi.com/p/f4c2d4e1d5edbea33a9b3169c1355377) ![](assets/new.png)  
+- [2020-08-10-怒爬某-Hub-资源就为撸了一个鉴黄平台](https://www.ershicimi.com/p/6cb1ee77c314c2c2663541dfca2b7233) ![](assets/new.png)  
+- [2020-08-10-面试官：我把数据库部署在Docker容器内，你觉得如何？](https://www.ershicimi.com/p/0d0c8bcbc467c4529d256328f0e2f2de) ![](assets/new.png)  
+- [2020-08-09-一套简单通用的Java后台管理系统，拿来即用，非常方便（附项目地址）](https://www.ershicimi.com/p/d5da8fbbd4214abf4c4c8f5ba5f4ebb2) ![](assets/new.png)  
+- [2020-08-09-推荐：Windows平台上三款提高工作效率的免费神器！](https://www.ershicimi.com/p/16891c3d50a74da608eb5723645f2ba2) ![](assets/new.png)  
+- [2020-08-09-为什么-char-数组比-String-更适合存储密码？](https://www.ershicimi.com/p/670f8e19e57cf8571b4bf6fe22b538a4) ![](assets/new.png)  
+- [2020-08-08-IntelliJ-IDEA-2020.2-正式发布，真香！](https://www.ershicimi.com/p/2a57a17a39de45150101c413a292621e) ![](assets/new.png)  
+- [2020-08-08-看图说话，FastJson-并没有那么流行！](https://www.ershicimi.com/p/7be4093917bd4d8d51d44ce8d505108e) ![](assets/new.png)  
+- [2020-08-08-GitLab-内置了-CI/CD-工具，强大啊！！](https://www.ershicimi.com/p/be03600ef742f36a397f107c43f72675) ![](assets/new.png)  
+- [2020-08-07-绝了！这款工具让SpringBoot不再需要Controller、Service、DAO、Mappe](https://www.ershicimi.com/p/d328784b0906b4b91b854650819c51b1) ![](assets/new.png)  
+- [2020-08-07-别在网上乱找代码了，找了一段代码突然爆了！！！](https://www.ershicimi.com/p/51288cd2fac173f5b229d402dfb98cd3) ![](assets/new.png)  
+- [2020-08-07-微服务之间最佳调用方式是什么？](https://www.ershicimi.com/p/fe8b34a9327022dfaa2fb02489f94799) ![](assets/new.png)  
+- [2020-08-06-Mybatis-trim-标签的-2-个妙用！](https://www.ershicimi.com/p/9e3b07618847e2d1aa6b20b0d55ea86a) ![](assets/new.png)  
+- [2020-08-06-震惊！Redis-的字符串居然是这样实现的…](https://www.ershicimi.com/p/5a24bc34e36cc6129b57dfd280d15ac9) ![](assets/new.png)  
+- [2020-08-06-Oracle用户可要顶住了：准备好大规模补丁工作！以修补多达-433-个的新安全漏洞](https://www.ershicimi.com/p/84871b4048658ef6d85fc41c39c099a9) ![](assets/new.png)  
+- [2020-08-05-因用了Insert-into-select语句，美女同事被开除了！](https://www.ershicimi.com/p/a4be645aac669066ed1e86f8eeccfc3c) ![](assets/new.png)  
+- [2020-08-05-Hibernate-与-Mybatis-如何共存？打破你的认知！](https://www.ershicimi.com/p/89cc0b723eb2ddcd32ba4b0690db4f6c) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-11-iOS14-beta4-使用-Air-Pods-时用微信拍照声音的-bug-终于没有了](https://www.v2ex.com/t/697533) ![](assets/new.png)  
 - [2020-08-11-安卓有什么插件可以实现-iOS13-上的电池优化么？](https://www.v2ex.com/t/697532) ![](assets/new.png)  
 - [2020-08-11-Time-Machine-在没有外挂移动硬盘的情况下也可以恢复文件？](https://www.v2ex.com/t/697531) ![](assets/new.png)  
 - [2020-08-11-求助：在-gitbash-中-yarn-与-npm-的输出结果中，-yarn-自带了白色的背景色，如何避免该背景色？](https://www.v2ex.com/t/697530) ![](assets/new.png)  
@@ -1051,7 +1072,6 @@
 - [2020-08-11-K30u-这价格无敌了啊](https://www.v2ex.com/t/697515) ![](assets/new.png)  
 - [2020-08-11-国内用什么邮箱好](https://www.v2ex.com/t/697513) ![](assets/new.png)  
 - [2020-08-11-如何得知国内浏览器排行榜？](https://www.v2ex.com/t/697512) ![](assets/new.png)  
-- [2020-08-11-墙壁上的开关，有没有什么产品可以卡住开关，不让开关被打开或关闭？](https://www.v2ex.com/t/697511) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1108,8 +1128,8 @@
 - [2020-08-11-译-混沌游戏日：混沌的手把手指南](https://toutiao.io/k/he095kf) ![](assets/new.png)  
 - [2020-08-11-用阻塞队列，再系一次鞋带](https://toutiao.io/k/2orrna5) ![](assets/new.png)  
 - [2020-08-11-译-凡人如何理解-lockless-算法？](https://toutiao.io/k/ounv0el) ![](assets/new.png)  
-- [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
 - [2020-08-11-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-11-只要一行代码，实现五种-CSS-经典布局](https://toutiao.io/k/1sdy74j) ![](assets/new.png)  
 - [2020-08-11-Canal-binlog-日志-Dump-流程分析](https://toutiao.io/k/cymdlzo) ![](assets/new.png)  
 - [2020-08-11-分享几个亲测有效的高效工作技巧](https://toutiao.io/k/13dp300) ![](assets/new.png)  
 - [2020-08-11-力扣1519：子树中标签相同的节点数](https://toutiao.io/k/fq3x5o9) ![](assets/new.png)  

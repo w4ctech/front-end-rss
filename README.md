@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 08:02:43，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 08:10:37，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -885,6 +885,26 @@
 </summary>
 
 
+- [2020-08-09-程序员摸鱼指南：副业成就未来](https://www.ershicimi.com/p/d1255e6c8dbe3b451b96fa9e52a79fa7) ![](assets/new.png)  
+- [2020-08-09-不会写代码的技术经理不是好CTO](https://www.ershicimi.com/p/7d77f110c8f4bf87192372d78d4e9958) ![](assets/new.png)  
+- [2020-08-09-为啥Flutter-Hooks没有受到太多关注和青睐？](https://www.ershicimi.com/p/ff1ee3b88e5b66c8095d0e491bcbc4e6) ![](assets/new.png)  
+- [2020-08-09-Twitter-重构了广告平台](https://www.ershicimi.com/p/aa1b33bd230d1ad887f60e6158d000f7) ![](assets/new.png)  
+- [2020-08-08-特朗普封杀微信TikTok，腾讯市值一度蒸发5000亿；余承东：华为手机没芯片了；英特尔20GB绝密](https://www.ershicimi.com/p/ed4272bf81c2548004d3b8355db85311) ![](assets/new.png)  
+- [2020-08-08-为什么我讨厌-Scrum？](https://www.ershicimi.com/p/82d942a57f68bcbe3354f5358c696451) ![](assets/new.png)  
+- [2020-08-08-从一次数据迁移项目里，我得到的四个经验教训](https://www.ershicimi.com/p/27b0985918aea9e1b754d23dc43e20f2) ![](assets/new.png)  
+- [2020-08-08-字节跳动在函数计算领域的应用实践](https://www.ershicimi.com/p/570519e84ce381d3584576e2555a45a3) ![](assets/new.png)  
+- [2020-08-07-被逼出海，滴滴：我太难了](https://www.ershicimi.com/p/49df60f792b2218361588c0474e50bc3) ![](assets/new.png)  
+- [2020-08-07-微前端是否值得采用？](https://www.ershicimi.com/p/97f1f53e261ca7d9927b253d33f2da61) ![](assets/new.png)  
+- [2020-08-07-从0到1教你配置深度学习服务器，高维破题助攻机器学习-|-Q推荐](https://www.ershicimi.com/p/2e26ee44e10f130ed47cd4d41594f583) ![](assets/new.png)  
+- [2020-08-07-“保质保量”Serverless全场景化应用，缺了“它”可不行-|-Q推荐](https://www.ershicimi.com/p/81ee8f21bf5bc31cd87335e0d8a8614c) ![](assets/new.png)  
+- [2020-08-07-Java-新特性前瞻：封印类](https://www.ershicimi.com/p/95923b5748afdbb18314056d41d77672) ![](assets/new.png)  
+- [2020-08-06-Arm中国的内斗与失控](https://www.ershicimi.com/p/f03cd127523aab7441598ae63c16ab6b) ![](assets/new.png)  
+- [2020-08-06-InfoQ写作平台划线笔记功能全新上线！给你带来不一样的写作学习体验～](https://www.ershicimi.com/p/17f6b2a6d5ee33d1cef743d3ef033b52) ![](assets/new.png)  
+- [2020-08-06-ZStack-+-神龙服务器：弹性裸金属开创企业私有云新纪元](https://www.ershicimi.com/p/7afd6da303c7c070f6b67f7d1ba7b947) ![](assets/new.png)  
+- [2020-08-06-不再重复造轮子，DevRun开发者沙龙-用友·华为云杯专场，革新传统开发模式！](https://www.ershicimi.com/p/d832c55baf8d2dde99d8f5b4a4312b05) ![](assets/new.png)  
+- [2020-08-06-敏捷已死，“工程化”永存](https://www.ershicimi.com/p/1a1f36bb24db3afa0c179a55fcfe6ee4) ![](assets/new.png)  
+- [2020-08-05-暴雪员工集体“开源”工资单：裁员加活不加价，年年盈利却不涨工资](https://www.ershicimi.com/p/ae9fb07e54765d2a486dd69fee2e1488) ![](assets/new.png)  
+- [2020-08-05-TensorFlow和PyTorch迎来了“后浪”](https://www.ershicimi.com/p/8616aa90aec38878263df5d5777597da) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-12-经过一年时间没改动，重新发布小程序升级了-2.0，不知道以前看过的人还记得不](https://www.v2ex.com/t/697709) ![](assets/new.png)  
+- [2020-08-12-Macbook-Pro-对外接显示器强制开启-HiDPI-会不会导致-CPU-资源浪费？](https://www.v2ex.com/t/697707) ![](assets/new.png)  
 - [2020-08-12-gin-支持解析带索引的数组-form-参数吗](https://www.v2ex.com/t/697705) ![](assets/new.png)  
 - [2020-08-12-上海靠谱职位：算法总监，薪水-OPEN](https://www.v2ex.com/t/697704) ![](assets/new.png)  
 - [2020-08-12-自己开发的「在线白板」产品上线-8-个月后......](https://www.v2ex.com/t/697703) ![](assets/new.png)  
@@ -1050,8 +1072,6 @@
 - [2020-08-12-这个配置，满足这个最低配置的价位大概是多少呀~-感谢指导~不含键盘鼠标显示器~~](https://www.v2ex.com/t/697687) ![](assets/new.png)  
 - [2020-08-12-北京社招-开黑啦-高级-iOS-工程师-20k-30k*14-薪](https://www.v2ex.com/t/697686) ![](assets/new.png)  
 - [2020-08-12-杭州/成都-Longbridge-IOS-macOS-前端-Go-开发招人啦](https://www.v2ex.com/t/697685) ![](assets/new.png)  
-- [2020-08-12-大家觉得，勤能补拙吗？](https://www.v2ex.com/t/697684) ![](assets/new.png)  
-- [2020-08-12-Flask-SQLAlchemy-更新update-数据，还有必要-db.session.addfoo-吗？](https://www.v2ex.com/t/697683) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1104,8 +1124,8 @@
 - [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-IDEA-奇淫小技巧](https://toutiao.io/k/8pelfwx) ![](assets/new.png)  
 - [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
-- [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
 - [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
+- [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  

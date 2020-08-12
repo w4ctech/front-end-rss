@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-12 04:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 05:02:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -59,4 +59,5 @@
 - [2020-08-12-讨论-Amazon-面试题：格雷编码](https://www.v2ex.com/t/697629) 
 - [2020-08-12-杭州-招聘产品助理，坐标临平，待遇优厚～-有朋友在找工作的看过来](https://www.v2ex.com/t/697613) 
 - [2020-08-12-D2iQ-Formerly-Mesosphere-招聘-C/C++-研发工程师](https://www.v2ex.com/t/697610) 
+- [2020-08-12-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

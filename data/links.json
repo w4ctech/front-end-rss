@@ -12650,11 +12650,6 @@
         "title": "捷克新增288例新冠肺炎确诊病例 累计18783例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXahROXHOFgDrpMoivtL200812&isfromapp=1",
         "date": "2020-08-12"
-      },
-      {
-        "title": "俄罗斯新增5102例新冠肺炎确诊病例 累计超90万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3mUguLLRrT4lhpPWqmtG200812&isfromapp=1",
-        "date": "2020-08-12"
       }
     ]
   },
@@ -15779,186 +15774,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
+    "rss": "https://rss.shab.fun/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": [
-      {
-        "title": "求推荐一部洋垃圾当车载导航使用",
-        "link": "https://www.v2ex.com/t/697742",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "有自建网盘的 V 友吗？",
-        "link": "https://www.v2ex.com/t/697741",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "200MB 上不去 有必要换 SDN 吗",
-        "link": "https://www.v2ex.com/t/697738",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "Unplugged Rust 线上快闪",
-        "link": "https://www.v2ex.com/t/697737",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "字节跳动内推季持续招人，多样海量岗位需求， 内推进度随时可查～～",
-        "link": "https://www.v2ex.com/t/697736",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "原创算法题求助。",
-        "link": "https://www.v2ex.com/t/697734",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "想学习，却不知道从何下手去学习。。",
-        "link": "https://www.v2ex.com/t/697733",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[内推] 美团到家事业群闪购平台- Java 工程师/技术专家",
-        "link": "https://www.v2ex.com/t/697732",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[maven 传递依赖问题请教]",
-        "link": "https://www.v2ex.com/t/697731",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "新买的 mbp16 电池这样正常吗",
-        "link": "https://www.v2ex.com/t/697730",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "微博强制开启了 登陆保护 怎么取消啊",
-        "link": "https://www.v2ex.com/t/697729",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "杭州有没有推荐的个人住宅软装设计师",
-        "link": "https://www.v2ex.com/t/697728",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "大家知道 tb 运营商网络锁官解的原理是什么吗？",
-        "link": "https://www.v2ex.com/t/697725",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[内推] 美团到家事业群闪购平台- Java 工程师/技术专家",
-        "link": "https://www.v2ex.com/t/697722",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "微信公众号淘客返利机器人分享",
-        "link": "https://www.v2ex.com/t/697720",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "「北京」拒绝 996，弹性时间搭配各种福利，来美餐做我的同事吗？",
-        "link": "https://www.v2ex.com/t/697719",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "vue 如何在单个组件中引入外部包,比如 echarts 或者 jquery?",
-        "link": "https://www.v2ex.com/t/697718",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "请问大家， 2015 的 MacBook Pro 15 寸 16g 代号 LT2 的机子现在还值得买吗？",
-        "link": "https://www.v2ex.com/t/697717",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "逃离大眼怪",
-        "link": "https://www.v2ex.com/t/697715",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "求推荐健身应用 Keep 的替代品",
-        "link": "https://www.v2ex.com/t/697714",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "小米透明电视到底值不值得买",
-        "link": "https://www.v2ex.com/t/697713",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "最近电影荒推荐推荐恐怖电影吧？",
-        "link": "https://www.v2ex.com/t/697712",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "经过一年时间没改动，重新发布小程序升级了 2.0，不知道以前看过的人还记得不",
-        "link": "https://www.v2ex.com/t/697709",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "Macbook Pro 对外接显示器强制开启 HiDPI 会不会导致 CPU 资源浪费？",
-        "link": "https://www.v2ex.com/t/697707",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "gin 支持解析带索引的数组 form 参数吗",
-        "link": "https://www.v2ex.com/t/697705",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "上海靠谱职位：算法总监，薪水 OPEN",
-        "link": "https://www.v2ex.com/t/697704",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "自己开发的「在线白板」产品上线 8 个月后......",
-        "link": "https://www.v2ex.com/t/697703",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "最近骑自行车上班，一路上遇到很多汽车抢道，有什么法子啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊？",
-        "link": "https://www.v2ex.com/t/697702",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "CODING DevOps 代码质量实战系列最后一课，周四发车",
-        "link": "https://www.v2ex.com/t/697701",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "我们正在创造一件有意思的事情，你是否有兴趣加入",
-        "link": "https://www.v2ex.com/t/697700",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "国内域名给境外 v2 ray 使用会发生什么？",
-        "link": "https://www.v2ex.com/t/697699",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "关于大厂和创业公司，有机会当然是选大厂啊",
-        "link": "https://www.v2ex.com/t/697698",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "哪里有面试培训课程？线上线下都可",
-        "link": "https://www.v2ex.com/t/697697",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "用过 yandex 域名邮箱的看过来",
-        "link": "https://www.v2ex.com/t/697695",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[offer 对比] 华为 OD-15 级与某 B 轮农业物联网公司",
-        "link": "https://www.v2ex.com/t/697694",
-        "date": "2020-08-12"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -16088,13 +15907,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "上帝视角看 TypeScript",
-        "link": "https://toutiao.io/k/ufd8g9h",
+        "title": "[译] 简单介绍一下 Dart",
+        "link": "https://toutiao.io/k/aeg5sis",
         "date": "2020-08-12"
       },
       {
-        "title": "[译] 简单介绍一下 Dart",
-        "link": "https://toutiao.io/k/aeg5sis",
+        "title": "上帝视角看 TypeScript",
+        "link": "https://toutiao.io/k/ufd8g9h",
         "date": "2020-08-12"
       },
       {
@@ -16148,13 +15967,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "如何替公司省下数千万勒索费用",
-        "link": "https://toutiao.io/k/9jwd117",
+        "title": "百亿关系链，架构如何设计？",
+        "link": "https://toutiao.io/k/1waq4xr",
         "date": "2020-08-12"
       },
       {
-        "title": "百亿关系链，架构如何设计？",
-        "link": "https://toutiao.io/k/1waq4xr",
+        "title": "如何替公司省下数千万勒索费用",
+        "link": "https://toutiao.io/k/9jwd117",
         "date": "2020-08-12"
       },
       {
@@ -16173,13 +15992,23 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
         "date": "2020-08-12"
       },
       {
@@ -16188,53 +16017,28 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
         "date": "2020-08-12"
       },
       {
@@ -16243,8 +16047,23 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
         "date": "2020-08-12"
       }
     ]

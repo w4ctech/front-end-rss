@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 15:48:26，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 16:02:30，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,6 +729,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1042,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-12-请教大神，大学生，想要入门-CTF-逆向，该学习什么?](https://www.v2ex.com/t/697824) ![](assets/new.png)  
+- [2020-08-12-专升本询问，现在是大专学历，是否有必要报一个网络教育的专升本？](https://www.v2ex.com/t/697823) ![](assets/new.png)  
+- [2020-08-12-拒绝-996-新加坡公司-thunes，上海-Golang-岗位内推！](https://www.v2ex.com/t/697822) ![](assets/new.png)  
+- [2020-08-12-velop-子节点上连接的机器怎么穿透?](https://www.v2ex.com/t/697821) ![](assets/new.png)  
 - [2020-08-12-佛系刷题群（微信）](https://www.v2ex.com/t/697818) ![](assets/new.png)  
 - [2020-08-12-小公司的技术主管还是大公司的小开发？](https://www.v2ex.com/t/697816) ![](assets/new.png)  
 - [2020-08-12-求个境外图床-APP](https://www.v2ex.com/t/697815) ![](assets/new.png)  
@@ -1058,10 +1072,6 @@
 - [2020-08-12-北京/杭州/成都-滴滴-社招-新项目急急急缺人-后端/前端/移动端/算法/测试/产品/运营/设计/安全](https://www.v2ex.com/t/697801) ![](assets/new.png)  
 - [2020-08-12-请教一下，钥匙串怎么为一个密码添加多个网址？](https://www.v2ex.com/t/697800) ![](assets/new.png)  
 - [2020-08-12-有一个疑问在心里好久了，请各位-v-友给点建议](https://www.v2ex.com/t/697798) ![](assets/new.png)  
-- [2020-08-12-求推荐个-pos-机-备用的小-pos-机竟然不能刷磁条卡](https://www.v2ex.com/t/697797) ![](assets/new.png)  
-- [2020-08-12-涂层脱落换过一次了，-第二次还能换吗？](https://www.v2ex.com/t/697796) ![](assets/new.png)  
-- [2020-08-12-求-V-友建议，我是-21-届本科生，专业网络工程，双非，现在在安全行业某-top-公司实习签了一年的实习合同，马上秋招了，我能否去投简历拿到明年毕业的公司的-off...](https://www.v2ex.com/t/697795) ![](assets/new.png)  
-- [2020-08-12-还是喜欢以前的买断制](https://www.v2ex.com/t/697794) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1129,8 @@
 - [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-如何替公司省下数千万勒索费用](https://toutiao.io/k/9jwd117) ![](assets/new.png)  
-- [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  
 - [2020-08-12-初中级前端-JavaScript-自测清单（二）](https://toutiao.io/k/6zau667) ![](assets/new.png)  
+- [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
 - [2020-08-12-译-构建去中心化智能合约编程货币](https://toutiao.io/k/lusa3mv) ![](assets/new.png)  
 - [2020-08-12-Python-批量合并-Excel](https://toutiao.io/k/18e4bzp) ![](assets/new.png)  

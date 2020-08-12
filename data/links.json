@@ -15779,6 +15779,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[maven 传递依赖问题请教]",
+        "link": "https://www.v2ex.com/t/697731",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "新买的 mbp16 电池这样正常吗",
+        "link": "https://www.v2ex.com/t/697730",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "微博强制开启了 登陆保护 怎么取消啊",
+        "link": "https://www.v2ex.com/t/697729",
+        "date": "2020-08-12"
+      },
+      {
         "title": "杭州有没有推荐的个人住宅软装设计师",
         "link": "https://www.v2ex.com/t/697728",
         "date": "2020-08-12"
@@ -15946,21 +15961,6 @@
       {
         "title": "pytorch 多分类的问题",
         "link": "https://www.v2ex.com/t/697682",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "能不能实现 sybase 与 ES 的数据同步",
-        "link": "https://www.v2ex.com/t/697681",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "直播通知",
-        "link": "https://www.v2ex.com/t/697680",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "请教各位，你们在使用什么样的数据库以及技术栈解决公司的大数据和在线分析需求呀？",
-        "link": "https://www.v2ex.com/t/697679",
         "date": "2020-08-12"
       }
     ]
@@ -16178,68 +16178,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
         "date": "2020-08-12"
       },
       {
@@ -16248,8 +16188,68 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
         "date": "2020-08-12"
       }
     ]

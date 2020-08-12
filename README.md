@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 09:20:14，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 09:31:30，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,12 @@
 </summary>
 
 
+- [2020-08-12-以色列新增366例新冠肺炎确诊病例-累计86959例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLq36aKakkhVJmJBXA2KN200812&isfromapp=1) ![](assets/new.png)  
+- [2020-08-12-巴林新增407例新冠肺炎确诊病例-累计44804例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqipodO0hCHpry3MfCWvh200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-香港新增62例新冠肺炎确诊病例-连续第十日新增病例少于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRFqqfxbyLUd1QYc2xkT7200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-菲律宾新增4444例新冠肺炎确诊病例-累计确诊143749例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM1fO5tMfBeJ8BLvunoHy200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-捷克新增288例新冠肺炎确诊病例-累计18783例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXahROXHOFgDrpMoivtL200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-俄罗斯新增5102例新冠肺炎确诊病例-累计超90万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3mUguLLRrT4lhpPWqmtG200812&isfromapp=1) ![](assets/new.png)  
-- [2020-08-12-湖北荆州出现今年2月确诊新冠患者治愈后再复阳病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMZ6NEu1FobicGpe0uPV0200812&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1053,11 @@
 </summary>
 
 
+- [2020-08-12-求推荐一部洋垃圾当车载导航使用](https://www.v2ex.com/t/697742) ![](assets/new.png)  
+- [2020-08-12-有自建网盘的-V-友吗？](https://www.v2ex.com/t/697741) ![](assets/new.png)  
+- [2020-08-12-200MB-上不去-有必要换-SDN-吗](https://www.v2ex.com/t/697738) ![](assets/new.png)  
+- [2020-08-12-Unplugged-Rust-线上快闪](https://www.v2ex.com/t/697737) ![](assets/new.png)  
+- [2020-08-12-字节跳动内推季持续招人，多样海量岗位需求，-内推进度随时可查～～](https://www.v2ex.com/t/697736) ![](assets/new.png)  
 - [2020-08-12-原创算法题求助。](https://www.v2ex.com/t/697734) ![](assets/new.png)  
 - [2020-08-12-想学习，却不知道从何下手去学习。。](https://www.v2ex.com/t/697733) ![](assets/new.png)  
 - [2020-08-12-内推-美团到家事业群闪购平台--Java-工程师/技术专家](https://www.v2ex.com/t/697732) ![](assets/new.png)  
@@ -1067,11 +1073,6 @@
 - [2020-08-12-请问大家，-2015-的-MacBook-Pro-15-寸-16g-代号-LT2-的机子现在还值得买吗？](https://www.v2ex.com/t/697717) ![](assets/new.png)  
 - [2020-08-12-逃离大眼怪](https://www.v2ex.com/t/697715) ![](assets/new.png)  
 - [2020-08-12-求推荐健身应用-Keep-的替代品](https://www.v2ex.com/t/697714) ![](assets/new.png)  
-- [2020-08-12-小米透明电视到底值不值得买](https://www.v2ex.com/t/697713) ![](assets/new.png)  
-- [2020-08-12-最近电影荒推荐推荐恐怖电影吧？](https://www.v2ex.com/t/697712) ![](assets/new.png)  
-- [2020-08-12-经过一年时间没改动，重新发布小程序升级了-2.0，不知道以前看过的人还记得不](https://www.v2ex.com/t/697709) ![](assets/new.png)  
-- [2020-08-12-Macbook-Pro-对外接显示器强制开启-HiDPI-会不会导致-CPU-资源浪费？](https://www.v2ex.com/t/697707) ![](assets/new.png)  
-- [2020-08-12-gin-支持解析带索引的数组-form-参数吗](https://www.v2ex.com/t/697705) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1120,8 @@
 - [2020-08-12-创建高可用-RabbitMQ-集群：SKlinux-服务器维护](https://toutiao.io/k/148cddl) ![](assets/new.png)  
 - [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
 - [2020-08-12-译-简单介绍一下-Dart](https://toutiao.io/k/aeg5sis) ![](assets/new.png)  
-- [2020-08-12-重走机器学习之路：形而上者谓之道](https://toutiao.io/k/bh15qjc) ![](assets/new.png)  
 - [2020-08-12-IDEA-奇淫小技巧](https://toutiao.io/k/8pelfwx) ![](assets/new.png)  
+- [2020-08-12-重走机器学习之路：形而上者谓之道](https://toutiao.io/k/bh15qjc) ![](assets/new.png)  
 - [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
 - [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  

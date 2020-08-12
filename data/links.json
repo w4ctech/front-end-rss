@@ -12627,6 +12627,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "以色列新增366例新冠肺炎确诊病例 累计86959例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLq36aKakkhVJmJBXA2KN200812&isfromapp=1",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "巴林新增407例新冠肺炎确诊病例 累计44804例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqipodO0hCHpry3MfCWvh200812&isfromapp=1",
+        "date": "2020-08-12"
+      },
+      {
         "title": "香港新增62例新冠肺炎确诊病例 连续第十日新增病例少于100例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRFqqfxbyLUd1QYc2xkT7200812&isfromapp=1",
         "date": "2020-08-12"
@@ -12644,11 +12654,6 @@
       {
         "title": "俄罗斯新增5102例新冠肺炎确诊病例 累计超90万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3mUguLLRrT4lhpPWqmtG200812&isfromapp=1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "湖北荆州出现今年2月确诊新冠患者治愈后再复阳病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMZ6NEu1FobicGpe0uPV0200812&isfromapp=1",
         "date": "2020-08-12"
       }
     ]
@@ -15779,6 +15784,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求推荐一部洋垃圾当车载导航使用",
+        "link": "https://www.v2ex.com/t/697742",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "有自建网盘的 V 友吗？",
+        "link": "https://www.v2ex.com/t/697741",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "200MB 上不去 有必要换 SDN 吗",
+        "link": "https://www.v2ex.com/t/697738",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Unplugged Rust 线上快闪",
+        "link": "https://www.v2ex.com/t/697737",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "字节跳动内推季持续招人，多样海量岗位需求， 内推进度随时可查～～",
+        "link": "https://www.v2ex.com/t/697736",
+        "date": "2020-08-12"
+      },
+      {
         "title": "原创算法题求助。",
         "link": "https://www.v2ex.com/t/697734",
         "date": "2020-08-12"
@@ -15927,36 +15957,6 @@
         "title": "[offer 对比] 华为 OD-15 级与某 B 轮农业物联网公司",
         "link": "https://www.v2ex.com/t/697694",
         "date": "2020-08-12"
-      },
-      {
-        "title": "房产契税税率将升至 3％至 5％",
-        "link": "https://www.v2ex.com/t/697691",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[救救孩子]2021 应届生秋招简历求批求建议",
-        "link": "https://www.v2ex.com/t/697690",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "成都游戏行业的 小伙伴来看下， U3D（HC4）、erlang、关卡策划",
-        "link": "https://www.v2ex.com/t/697689",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[上海] 阿里巴巴本地生活饿了么企业订餐招前端啦",
-        "link": "https://www.v2ex.com/t/697688",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "这个配置，满足这个最低配置的价位大概是多少呀~ 感谢指导~不含键盘鼠标显示器~~",
-        "link": "https://www.v2ex.com/t/697687",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[北京社招] [开黑啦] 高级 iOS 工程师 20k-30k*14 薪",
-        "link": "https://www.v2ex.com/t/697686",
-        "date": "2020-08-12"
       }
     ]
   },
@@ -16098,13 +16098,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "重走机器学习之路：形而上者谓之道",
-        "link": "https://toutiao.io/k/bh15qjc",
+        "title": "IDEA 奇淫小技巧",
+        "link": "https://toutiao.io/k/8pelfwx",
         "date": "2020-08-12"
       },
       {
-        "title": "IDEA 奇淫小技巧",
-        "link": "https://toutiao.io/k/8pelfwx",
+        "title": "重走机器学习之路：形而上者谓之道",
+        "link": "https://toutiao.io/k/bh15qjc",
         "date": "2020-08-12"
       },
       {
@@ -16173,8 +16173,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
         "date": "2020-08-12"
       },
       {
@@ -16188,18 +16188,18 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
         "date": "2020-08-12"
       },
       {
@@ -16208,18 +16208,33 @@
         "date": "2020-08-12"
       },
       {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-12"
+      },
+      {
         "title": "[推荐] 微服务重构四步法",
         "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
         "date": "2020-08-12"
       },
       {
@@ -16228,23 +16243,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
         "date": "2020-08-12"
       }
     ]

@@ -14451,7 +14451,108 @@
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10108",
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
-    "items": []
+    "items": [
+      {
+        "title": "面试时行云流水仍被拒，人工智能的hr究竟喜欢什么样的求职者？",
+        "link": "https://www.ershicimi.com/p/df647458c56044b6907989dfa5d13502",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "Node.js - 200 多行代码实现 Websocket 协议",
+        "link": "https://www.ershicimi.com/p/8ef2e8b38849932dc70b7afccac95337",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "一文读懂 Web 安全（面试必备）",
+        "link": "https://www.ershicimi.com/p/8be36c891f65a4d2916708db74fac164",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "手把手教你如何实现大量图片的自适应图片页面的排列",
+        "link": "https://www.ershicimi.com/p/2b8ef8a957b0a8b429917fafe7908ce6",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "了解 JS 压缩图片，这一篇就够了",
+        "link": "https://www.ershicimi.com/p/a9e2fd82597c2b2059f897c1bca9c667",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "图解 Vue 响应式原理",
+        "link": "https://www.ershicimi.com/p/eb9ef1a29cc963deb245295634fd09b8",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "H5 秒开方案大全",
+        "link": "https://www.ershicimi.com/p/d2e77a7bbd71a5616da3a48cae7e3ccd",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "干货报告：八大科技领域，280 页，InfoQ《2020 中国技术发展白皮书》开放下载",
+        "link": "https://www.ershicimi.com/p/5648fc6188eb34d24a24792d049674db",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "当HR跟你谈薪水时，如何回答能使收入最大化？",
+        "link": "https://www.ershicimi.com/p/0843b270fbb17ecc2d1a909a187f76d2",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "如何实现一个下载进度条/播放进度条",
+        "link": "https://www.ershicimi.com/p/a16da8567a128fdcb3bebb194ebe6394",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "nestjs+vue+ts打造一个酷炫的星空聊天室(含完整数据库设计)",
+        "link": "https://www.ershicimi.com/p/d7f514759a5f284077e55fcb953d2fc1",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "Vue+Electron开发跨平台桌面应用（实战）",
+        "link": "https://www.ershicimi.com/p/b959ab5f35231a51bb4bee304a440fdb",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "华为的前端全栈技术想学不？3个月，零费用，真香！",
+        "link": "https://www.ershicimi.com/p/0e99c5a357f834a27adc4a78217ec1bb",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "我是如何将业务代码写优雅的",
+        "link": "https://www.ershicimi.com/p/8d938a8dacd4e5d0a79e5002fcfa038b",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "前端开发：如何判断自己是初级、中级还是资深？",
+        "link": "https://www.ershicimi.com/p/08c64cddc8e5a5272ff8deaa8e487cb4",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "「干货」你需要了解的六种渲染模式",
+        "link": "https://www.ershicimi.com/p/183eb2453460e5d2498c9aa412eda3a7",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "揭秘几个“强”的不得了的前端公众号",
+        "link": "https://www.ershicimi.com/p/d81790fe6b17f01ab4e21f5e0f9ca4bc",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "Chrome DevTools 全攻略！助力高效开发",
+        "link": "https://www.ershicimi.com/p/a91ddbaacd702f621d78a36aff9c7bd6",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "Hybrid 应用中 H5 与 Native 通信的那点事儿",
+        "link": "https://www.ershicimi.com/p/94ef89e567327766248936ef6bc9b7df",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "让你的 commit 更有价值(规范)",
+        "link": "https://www.ershicimi.com/p/837ce051b98bbbb596958065d8c392fe",
+        "date": "2020-07-31"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10545",
@@ -15743,11 +15844,6 @@
         "date": "2020-08-12"
       },
       {
-        "title": "很想知道你们遇到这种情况，你们会怎么办",
-        "link": "https://www.v2ex.com/t/697799",
-        "date": "2020-08-12"
-      },
-      {
         "title": "有一个疑问在心里好久了，请各位 v 友给点建议",
         "link": "https://www.v2ex.com/t/697798",
         "date": "2020-08-12"
@@ -16042,13 +16138,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "Midway Serverless 能力介绍与设计分析",
-        "link": "https://toutiao.io/k/s49ocpe",
+        "title": "[译] StyleFlow：一张图片，属性解耦的完美 72 变",
+        "link": "https://toutiao.io/k/t3k62pz",
         "date": "2020-08-12"
       },
       {
-        "title": "[译] StyleFlow：一张图片，属性解耦的完美 72 变",
-        "link": "https://toutiao.io/k/t3k62pz",
+        "title": "Midway Serverless 能力介绍与设计分析",
+        "link": "https://toutiao.io/k/s49ocpe",
         "date": "2020-08-12"
       },
       {
@@ -16102,33 +16198,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
         "date": "2020-08-12"
       },
       {
@@ -16137,23 +16208,28 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
         "date": "2020-08-12"
       },
       {
@@ -16162,18 +16238,38 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
         "date": "2020-08-12"
       }
     ]

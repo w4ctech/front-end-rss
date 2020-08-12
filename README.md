@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 18:48:16，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 19:02:52，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-12-萌新请问下，-Linux-中是子进程-exit中的_exit触发中断进而要求内核-kenerl-发送-SIGCHLD-给父进程吗？](https://www.v2ex.com/t/697829) ![](assets/new.png)  
 - [2020-08-12-rich-机场改名-Tempest，换皮?-可以刷掉-rix-的大爷风评？](https://www.v2ex.com/t/697828) ![](assets/new.png)  
 - [2020-08-12-猜猜国内哪家公司能先把糖豆人抄到手机端](https://www.v2ex.com/t/697827) ![](assets/new.png)  
 - [2020-08-12-寻友贴](https://www.v2ex.com/t/697825) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-12-macOS-Big-Sur-无法启动-Adobe-After-Effects](https://www.v2ex.com/t/697806) ![](assets/new.png)  
 - [2020-08-12-招行&盒马满-20-减-20](https://www.v2ex.com/t/697805) ![](assets/new.png)  
 - [2020-08-12-有人用倍思那个氮化镓-3-口-65w-充电器给笔记本充电的吗？好像只能到-40w](https://www.v2ex.com/t/697803) ![](assets/new.png)  
-- [2020-08-12-955.WLB-不加班公司名单新增-14-家公司！](https://www.v2ex.com/t/697802) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

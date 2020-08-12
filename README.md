@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 03:33:29，:rocket: 更新条数: +3288， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 03:46:30，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-12-美医学期刊报告显示：疫情相关“有害信息”已致数百人死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLpQNdVK3w8mfF3x45zmA200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-巴西一血液样本中存新冠抗体-较该国首例确诊患者早15天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiARQZkGVf0swZTtxcWRNF200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-浙江昨日新增境外输入确诊病例1例-新增无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimH9bE7vSID9sLKRBq1Lb200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-截至8月11日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/413229.jhtml) ![](assets/new.png)  
 - [2020-08-11-刚果（布）累计新冠肺炎确诊病例3745例-全国卫生紧急状态将再次延长20天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihTsAzLnWb459bCQq9WZi200812&isfromapp=1) ![](assets/new.png)  
-- [2020-08-11-​意大利出台秋冬季新冠肺炎疫情应对方案](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibzKkHieVz9Cz3zIWx9EE200812&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-12-讨论-Amazon-面试题：格雷编码](https://www.v2ex.com/t/697629) ![](assets/new.png)  
+- [2020-08-12-入坑-APP-开发，做了一款《模拟位置》](https://www.v2ex.com/t/697628) ![](assets/new.png)  
+- [2020-08-12-MacBook-Pro-原来有银色版本？](https://www.v2ex.com/t/697627) ![](assets/new.png)  
+- [2020-08-12-服务器一开始下载很快，可惜几分钟之后就掉速度了](https://www.v2ex.com/t/697626) ![](assets/new.png)  
+- [2020-08-12-OurMacs-重新出发，新一代-Mac-应用和资讯搜索引擎](https://www.v2ex.com/t/697624) ![](assets/new.png)  
 - [2020-08-12-手机摔坏了，想换新手机，-V-友们有推荐的吗](https://www.v2ex.com/t/697622) ![](assets/new.png)  
 - [2020-08-12-跟着-KEEP-运动半个月，居然胖了-4-斤。。](https://www.v2ex.com/t/697621) ![](assets/new.png)  
 - [2020-08-12-电信宽带是不是对穿透不太友好](https://www.v2ex.com/t/697620) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-12-改邮箱显示：你要更改的这个邮件地址已经被注册，咋回事？](https://www.v2ex.com/t/697605) ![](assets/new.png)  
 - [2020-08-12-同事天天工作时间假装很忙实际在学习，我很不爽，求开导](https://www.v2ex.com/t/697604) ![](assets/new.png)  
 - [2020-08-12-有没有做个基于"自然语音识别"私有化部署的智能控制系统思路?](https://www.v2ex.com/t/697602) ![](assets/new.png)  
-- [2020-08-12-美国朋友想做个类似-juwai.com-的海外房地产网站,-个人或团队都行](https://www.v2ex.com/t/697600) ![](assets/new.png)  
-- [2020-08-12-昨天的手机各方面都很不错,但搞不懂冲击高端市场的产品为什么命名却趋向低端市场?](https://www.v2ex.com/t/697598) ![](assets/new.png)  
-- [2020-08-12-求好喝的咖啡。。。](https://www.v2ex.com/t/697597) ![](assets/new.png)  
-- [2020-08-12-nuxt.js-部署的问题](https://www.v2ex.com/t/697596) ![](assets/new.png)  
-- [2020-08-12-杭州-阿里巴巴达摩院前端/移动端](https://www.v2ex.com/t/697595) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,11 +1129,11 @@
 - [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
-- [2020-08-12-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-12-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-12-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-12-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-12-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-12-如何替公司省下数千万勒索费用](https://toutiao.io/k/9jwd117) ![](assets/new.png)  
+- [2020-08-12-Python-批量合并-Excel](https://toutiao.io/k/18e4bzp) ![](assets/new.png)  
+- [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  
+- [2020-08-12-初中级前端-JavaScript-自测清单（二）](https://toutiao.io/k/6zau667) ![](assets/new.png)  
+- [2020-08-12-译-构建去中心化智能合约编程货币](https://toutiao.io/k/lusa3mv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

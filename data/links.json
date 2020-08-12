@@ -12617,6 +12617,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美医学期刊报告显示：疫情相关“有害信息”已致数百人死亡",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLpQNdVK3w8mfF3x45zmA200812&isfromapp=1",
+        "date": "2020-08-12"
+      },
+      {
         "title": "巴西一血液样本中存新冠抗体 较该国首例确诊患者早15天",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiARQZkGVf0swZTtxcWRNF200812&isfromapp=1",
         "date": "2020-08-12"
@@ -12634,11 +12639,6 @@
       {
         "title": "刚果（布）累计新冠肺炎确诊病例3745例 全国卫生紧急状态将再次延长20天",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihTsAzLnWb459bCQq9WZi200812&isfromapp=1",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "​意大利出台秋冬季新冠肺炎疫情应对方案",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibzKkHieVz9Cz3zIWx9EE200812&isfromapp=1",
         "date": "2020-08-11"
       }
     ]
@@ -15769,6 +15769,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[讨论] Amazon 面试题：格雷编码",
+        "link": "https://www.v2ex.com/t/697629",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "入坑 APP 开发，做了一款《模拟位置》",
+        "link": "https://www.v2ex.com/t/697628",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "MacBook Pro 原来有银色版本？",
+        "link": "https://www.v2ex.com/t/697627",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "服务器一开始下载很快，可惜几分钟之后就掉速度了",
+        "link": "https://www.v2ex.com/t/697626",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "OurMacs 重新出发，新一代 Mac 应用和资讯搜索引擎",
+        "link": "https://www.v2ex.com/t/697624",
+        "date": "2020-08-12"
+      },
+      {
         "title": "手机摔坏了，想换新手机， V 友们有推荐的吗",
         "link": "https://www.v2ex.com/t/697622",
         "date": "2020-08-12"
@@ -15931,16 +15956,6 @@
       {
         "title": "好奇有帝都的 v 友今天被通知在家办公吗..",
         "link": "https://www.v2ex.com/t/697582",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "业界首创-良心云轻量 Lighthouse 直播带货惊喜夜",
-        "link": "https://www.v2ex.com/t/697578",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "RDP 的安全问题真的很大吗？",
-        "link": "https://www.v2ex.com/t/697575",
         "date": "2020-08-12"
       }
     ]
@@ -16133,8 +16148,38 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "如何替公司省下数千万勒索费用",
+        "link": "https://toutiao.io/k/9jwd117",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Python 批量合并 Excel",
+        "link": "https://toutiao.io/k/18e4bzp",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "百亿关系链，架构如何设计？",
+        "link": "https://toutiao.io/k/1waq4xr",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "初中级前端 JavaScript 自测清单（二）",
+        "link": "https://toutiao.io/k/6zau667",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[译] 构建去中心化智能合约编程货币",
+        "link": "https://toutiao.io/k/lusa3mv",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
         "date": "2020-08-12"
       },
       {
@@ -16148,38 +16193,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
         "date": "2020-08-12"
       },
       {
@@ -16188,8 +16203,18 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
         "date": "2020-08-12"
       },
       {
@@ -16198,13 +16223,28 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
         "date": "2020-08-12"
       },
       {
         "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
         "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-12"
       }
     ]

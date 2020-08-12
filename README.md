@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 05:19:32，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 05:31:31，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-12-Precision-5750-和-XPS-9700-怎么选？](https://www.v2ex.com/t/697658) ![](assets/new.png)  
 - [2020-08-12-我弄了一个聚合导航网站,个人感觉非常满意,特来听听小伙伴的意见](https://www.v2ex.com/t/697657) ![](assets/new.png)  
 - [2020-08-12-最近的诡异经历大家看下是不是也经历了。。。](https://www.v2ex.com/t/697656) ![](assets/new.png)  
 - [2020-08-12-14-款独显-MacBook-Pro-外接高分屏-Chrome-卡顿](https://www.v2ex.com/t/697653) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-12-有什么对-Linux-友好的笔记本或台式机吗？](https://www.v2ex.com/t/697633) ![](assets/new.png)  
 - [2020-08-12-咸鱼收到一个-19-款的-macbook-，不知道值不值](https://www.v2ex.com/t/697631) ![](assets/new.png)  
 - [2020-08-12-V-站的广告栏大概就是经济的晴雨表吧](https://www.v2ex.com/t/697630) ![](assets/new.png)  
-- [2020-08-12-讨论-Amazon-面试题：格雷编码](https://www.v2ex.com/t/697629) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,8 +1129,8 @@
 - [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
-- [2020-08-12-如何替公司省下数千万勒索费用](https://toutiao.io/k/9jwd117) ![](assets/new.png)  
 - [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  
+- [2020-08-12-如何替公司省下数千万勒索费用](https://toutiao.io/k/9jwd117) ![](assets/new.png)  
 - [2020-08-12-译-构建去中心化智能合约编程货币](https://toutiao.io/k/lusa3mv) ![](assets/new.png)  
 - [2020-08-12-初中级前端-JavaScript-自测清单（二）](https://toutiao.io/k/6zau667) ![](assets/new.png)  
 - [2020-08-12-Python-批量合并-Excel](https://toutiao.io/k/18e4bzp) ![](assets/new.png)  

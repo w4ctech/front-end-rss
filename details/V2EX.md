@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-12 02:02:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 02:10:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-12-Protected-Folder-超简单强大的文件&文件夹加密工具-20-年授权-只要-59](https://www.v2ex.com/t/697584) 
+- [2020-08-12-字节跳动内推来啦！（校招+社招）](https://www.v2ex.com/t/697583) 
+- [2020-08-12-好奇有帝都的-v-友今天被通知在家办公吗..](https://www.v2ex.com/t/697582) 
 - [2020-08-12-业界首创-良心云轻量-Lighthouse-直播带货惊喜夜](https://www.v2ex.com/t/697578) 
 - [2020-08-12-RDP-的安全问题真的很大吗？](https://www.v2ex.com/t/697575) 
 - [2020-08-12-小米-10-至尊版本-VS-iPhone-11-pro，你会选择哪个？](https://www.v2ex.com/t/697573) 
@@ -38,8 +41,3 @@
 - [2020-08-11-我的树莓派使用记录](https://www.v2ex.com/t/697538) 
 - [2020-08-11-带了半个月的实习生提桶跑路了，怎么适应？](https://www.v2ex.com/t/697536) 
 - [2020-08-11-你们的海外服务器还好吗？](https://www.v2ex.com/t/697535) 
-- [2020-08-11-ditto-与-windows-剪贴板的选择？](https://www.v2ex.com/t/697534) 
-- [2020-08-11-iOS14-beta4-使用-Air-Pods-时用微信拍照声音的-bug-终于没有了](https://www.v2ex.com/t/697533) 
-- [2020-08-11-安卓有什么插件可以实现-iOS13-上的电池优化么？](https://www.v2ex.com/t/697532) 
-- [2020-08-11-Time-Machine-在没有外挂移动硬盘的情况下也可以恢复文件？](https://www.v2ex.com/t/697531) 
-- [2020-08-11-求助：在-gitbash-中-yarn-与-npm-的输出结果中，-yarn-自带了白色的背景色，如何避免该背景色？](https://www.v2ex.com/t/697530) 

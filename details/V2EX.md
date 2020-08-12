@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-12 22:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 23:02:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-12-Grafana-使用教程---构建你的第一个仪表盘](https://www.v2ex.com/t/697832) 
 - [2020-08-12-洗衣机有异味，用啥清洁好呢](https://www.v2ex.com/t/697830) 
 - [2020-08-12-萌新请问下，-Linux-中是子进程-exit中的_exit触发中断进而要求内核-kenerl-发送-SIGCHLD-给父进程吗？](https://www.v2ex.com/t/697829) 
 - [2020-08-12-rich-机场改名-Tempest，换皮?-可以刷掉-rix-的大爷风评？](https://www.v2ex.com/t/697828) 

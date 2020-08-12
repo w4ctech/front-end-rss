@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 07:09:59，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 07:19:06，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-12-offer-对比-华为-OD-15-级与某-B-轮农业物联网公司](https://www.v2ex.com/t/697694) ![](assets/new.png)  
 - [2020-08-12-房产契税税率将升至-3％至-5％](https://www.v2ex.com/t/697691) ![](assets/new.png)  
 - [2020-08-12-救救孩子2021-应届生秋招简历求批求建议](https://www.v2ex.com/t/697690) ![](assets/new.png)  
 - [2020-08-12-成都游戏行业的-小伙伴来看下，-U3D（HC4）、erlang、关卡策划](https://www.v2ex.com/t/697689) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-12-想入个真无线的蓝牙耳机，看中-OPPO-W51-和-ViVo-TWS-Neo，有用过的朋友吗？推荐一下](https://www.v2ex.com/t/697670) ![](assets/new.png)  
 - [2020-08-12-30，欲转教师职业，换个稳定的工作，还有什么机会？](https://www.v2ex.com/t/697669) ![](assets/new.png)  
 - [2020-08-12-Web-前端开发工程师](https://www.v2ex.com/t/697667) ![](assets/new.png)  
-- [2020-08-12-问下大佬，信用卡还有小额美元溢缴款没法注销](https://www.v2ex.com/t/697665) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

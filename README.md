@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 12:26:00，:rocket: 更新条数: +3302， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 12:31:25，:rocket: 更新条数: +3302， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-12-俄卫生部长：外国同仁对俄新冠疫苗的批评毫无根据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRjPwiktTVefN0zRluNcS200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-亚美尼亚新增201例新冠肺炎确诊病例-累计确诊40794例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCpKvyRov0yEVJ52i5J20200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-伊朗新增新冠肺炎确诊病例2510例-累计确诊333699例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUPFkab5A9ucCqXtRrByU200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-以色列新增366例新冠肺炎确诊病例-累计86959例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLq36aKakkhVJmJBXA2KN200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-巴林新增407例新冠肺炎确诊病例-累计44804例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqipodO0hCHpry3MfCWvh200812&isfromapp=1) ![](assets/new.png)  
-- [2020-08-12-香港新增62例新冠肺炎确诊病例-连续第十日新增病例少于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRFqqfxbyLUd1QYc2xkT7200812&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-12-无限容量的账户。。。](https://www.v2ex.com/t/697792) ![](assets/new.png)  
+- [2020-08-12-Python-watchdog-如何判断一个文件已经“就绪”](https://www.v2ex.com/t/697791) ![](assets/new.png)  
 - [2020-08-12-新入职的公司发了台-E490-25CD,拿来有什么用？](https://www.v2ex.com/t/697790) ![](assets/new.png)  
 - [2020-08-12-PD16-发布了，订阅用户可以去更新了](https://www.v2ex.com/t/697789) ![](assets/new.png)  
 - [2020-08-12-大一新生笔电选择求助](https://www.v2ex.com/t/697788) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-12-北京-君逸招-0-3-年项目经理/助理](https://www.v2ex.com/t/697770) ![](assets/new.png)  
 - [2020-08-12-如果入职后短时间内，突然收到一家更好的-offer-怎么办？](https://www.v2ex.com/t/697769) ![](assets/new.png)  
 - [2020-08-12-还是-15-年-13-寸的-MacBook-Pro-键盘问题，内置键盘打一个字母-r，会同时出两个字母-fr](https://www.v2ex.com/t/697768) ![](assets/new.png)  
-- [2020-08-12-上海/杭州/北京量化-C++急招！不加班！](https://www.v2ex.com/t/697767) ![](assets/new.png)  
-- [2020-08-12-马上-30-岁了，这几个月特别焦虑](https://www.v2ex.com/t/697766) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1118,15 +1118,15 @@
 - [2020-08-12-代码优化实战：我又优化了一百个-if-else](https://toutiao.io/k/yv0hdsj) ![](assets/new.png)  
 - [2020-08-12-IDEA-奇淫小技巧](https://toutiao.io/k/8pelfwx) ![](assets/new.png)  
 - [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
-- [2020-08-12-创建高可用-RabbitMQ-集群：SKlinux-服务器维护](https://toutiao.io/k/148cddl) ![](assets/new.png)  
 - [2020-08-12-译-简单介绍一下-Dart](https://toutiao.io/k/aeg5sis) ![](assets/new.png)  
+- [2020-08-12-创建高可用-RabbitMQ-集群：SKlinux-服务器维护](https://toutiao.io/k/148cddl) ![](assets/new.png)  
 - [2020-08-12-重走机器学习之路：形而上者谓之道](https://toutiao.io/k/bh15qjc) ![](assets/new.png)  
 - [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
 - [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
-- [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
-- [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
+- [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
+- [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
 - [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  

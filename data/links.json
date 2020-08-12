@@ -12632,6 +12632,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "俄卫生部长：外国同仁对俄新冠疫苗的批评毫无根据",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRjPwiktTVefN0zRluNcS200812&isfromapp=1",
+        "date": "2020-08-12"
+      },
+      {
         "title": "亚美尼亚新增201例新冠肺炎确诊病例 累计确诊40794例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCpKvyRov0yEVJ52i5J20200812&isfromapp=1",
         "date": "2020-08-12"
@@ -12649,11 +12654,6 @@
       {
         "title": "巴林新增407例新冠肺炎确诊病例 累计44804例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqipodO0hCHpry3MfCWvh200812&isfromapp=1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "香港新增62例新冠肺炎确诊病例 连续第十日新增病例少于100例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRFqqfxbyLUd1QYc2xkT7200812&isfromapp=1",
         "date": "2020-08-12"
       }
     ]
@@ -15784,6 +15784,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "无限容量的账户。。。",
+        "link": "https://www.v2ex.com/t/697792",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Python watchdog 如何判断一个文件已经“就绪”",
+        "link": "https://www.v2ex.com/t/697791",
+        "date": "2020-08-12"
+      },
+      {
         "title": "新入职的公司发了台 E490 25CD,拿来有什么用？",
         "link": "https://www.v2ex.com/t/697790",
         "date": "2020-08-12"
@@ -15977,16 +15987,6 @@
         "title": "拼多多校招内推，技术一般 30w 起？",
         "link": "https://www.v2ex.com/t/697744",
         "date": "2020-08-12"
-      },
-      {
-        "title": "求推荐一部洋垃圾当车载导航使用",
-        "link": "https://www.v2ex.com/t/697742",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "有自建网盘的 V 友吗？",
-        "link": "https://www.v2ex.com/t/697741",
-        "date": "2020-08-12"
       }
     ]
   },
@@ -16123,13 +16123,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "创建高可用 RabbitMQ 集群：SKlinux 服务器维护",
-        "link": "https://toutiao.io/k/148cddl",
+        "title": "[译] 简单介绍一下 Dart",
+        "link": "https://toutiao.io/k/aeg5sis",
         "date": "2020-08-12"
       },
       {
-        "title": "[译] 简单介绍一下 Dart",
-        "link": "https://toutiao.io/k/aeg5sis",
+        "title": "创建高可用 RabbitMQ 集群：SKlinux 服务器维护",
+        "link": "https://toutiao.io/k/148cddl",
         "date": "2020-08-12"
       },
       {
@@ -16153,8 +16153,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "敏捷交付中的自动化测试",
-        "link": "https://toutiao.io/k/4yzji8q",
+        "title": "Spring 事务的传播行为案例分析",
+        "link": "https://toutiao.io/k/lvuk504",
         "date": "2020-08-12"
       },
       {
@@ -16163,8 +16163,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "Spring 事务的传播行为案例分析",
-        "link": "https://toutiao.io/k/lvuk504",
+        "title": "敏捷交付中的自动化测试",
+        "link": "https://toutiao.io/k/4yzji8q",
         "date": "2020-08-12"
       },
       {
@@ -16203,28 +16203,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
         "date": "2020-08-12"
       },
       {
@@ -16233,28 +16213,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
         "date": "2020-08-12"
       },
       {
@@ -16263,8 +16228,38 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-12"
       },
       {
@@ -16273,8 +16268,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
         "date": "2020-08-12"
       }
     ]

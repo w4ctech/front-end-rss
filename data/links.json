@@ -15779,6 +15779,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我们正在创造一件有意思的事情，你是否有兴趣加入",
+        "link": "https://www.v2ex.com/t/697700",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "国内域名给境外 v2 ray 使用会发生什么？",
+        "link": "https://www.v2ex.com/t/697699",
+        "date": "2020-08-12"
+      },
+      {
         "title": "关于大厂和创业公司，有机会当然是选大厂啊",
         "link": "https://www.v2ex.com/t/697698",
         "date": "2020-08-12"
@@ -15947,24 +15957,115 @@
         "title": "14 款独显 MacBook Pro 外接高分屏 Chrome 卡顿",
         "link": "https://www.v2ex.com/t/697653",
         "date": "2020-08-12"
-      },
-      {
-        "title": "用 spark 要翻墙吗？迷惑",
-        "link": "https://www.v2ex.com/t/697650",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "💎💎字节跳动 - 后端开发工程师（ Python &Golang）-发展最快的汽车类咨询平台-懂车帝喊你投简历啦！",
-        "link": "https://www.v2ex.com/t/697649",
-        "date": "2020-08-12"
       }
     ]
   },
   {
-    "rss": "https://rss.shab.fun/blogread/newest",
+    "rss": "https://rss.itggg.cn/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "领域对象发展的极致就是代理 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13673&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dynamic-domian-modelling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Android架构设计--MVP模式第（二）篇，如何减少类爆炸 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13672&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUWY_f4XP5E-RZ-nhVp7EeA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Android 持续滑动布局 ConsecutiveScrollerLayout 的使用 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "LiveDataBus 的实现比你想象中的简单 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13670&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA8uIFxma10pI87u6YPC3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "做运维前后的变化，看懂的人都哭了（慎入） (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13669&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCog13wfdQSQzhqKQuwS0QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "如何诊断 Linux 服务器的性能？10个工具助力你 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13668&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjvKvIQUCrybW4F1VMICVlA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "用 Python 赚钱的 5 个方法，教你业余时间赚外快！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13667&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4XmE3obITd_ykyJXa8Xt_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "截屏、文字提取一气呵成，超实用 OCR 开源小工具 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13666&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnKSpdpBfWmNnNMRYi_6T0g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Android Studio 4.0重磅发布：全新的 Motion 编辑器及众多更新都在这里！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13665&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRfiLyb4GiXPUtEAyjSR0BA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "如何替公司省下数千万勒索费用 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13664&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F178966551%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "敏捷交付中的自动化测试 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13663&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-in-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "敏捷项目如何拥有管理变化的能力？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13662&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-management-in-agile-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Android 项目中 Loading 对话框的优化 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Android MVP && MVVM深度解析 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13660&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGj8fxXwQVAy7J9sOIp10xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Android 技术总监应该干的那些事 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13659&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuqZYvyImfsQdQwuI6i6cbg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Android 升级适配爬坑历程 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "10 大受欢迎的全球顶级编程语言与薪资水平 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13657&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4yoMBPzafZ1LQPE3dk2K0Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Python 编辑神器 Jupyter ，推出首款官方可视化 Debug 工具！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13656&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP0i8lghP74whBvK5EA_RCg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "为什么培训班出来的程序员总遭人嫌弃？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13655&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6Zile1EaovOs289NZgQpbw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "雷军，扎克伯格，Linus 等巨佬的办公桌 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13654&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwjAxhZz2Yq1Py3BEKDQ2sg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-12"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/toutiao/today",
@@ -15992,23 +16093,23 @@
         "date": "2020-08-12"
       },
       {
-        "title": "重走机器学习之路：形而上者谓之道",
-        "link": "https://toutiao.io/k/bh15qjc",
-        "date": "2020-08-12"
-      },
-      {
         "title": "上帝视角看 TypeScript",
         "link": "https://toutiao.io/k/ufd8g9h",
         "date": "2020-08-12"
       },
       {
-        "title": "[译] StyleFlow：一张图片，属性解耦的完美 72 变",
-        "link": "https://toutiao.io/k/t3k62pz",
+        "title": "重走机器学习之路：形而上者谓之道",
+        "link": "https://toutiao.io/k/bh15qjc",
         "date": "2020-08-12"
       },
       {
         "title": "Midway Serverless 能力介绍与设计分析",
         "link": "https://toutiao.io/k/s49ocpe",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[译] StyleFlow：一张图片，属性解耦的完美 72 变",
+        "link": "https://toutiao.io/k/t3k62pz",
         "date": "2020-08-12"
       },
       {
@@ -16072,43 +16173,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-12"
-      },
-      {
         "title": "[推荐] 超长 JVM 总结，面试必备",
         "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
         "date": "2020-08-12"
       },
       {
@@ -16117,23 +16183,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-12"
       },
       {
@@ -16142,8 +16198,53 @@
         "date": "2020-08-12"
       },
       {
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-12"
+      },
+      {
         "title": "[推荐] 微服务重构四步法",
         "link": "https://toutiao.io/k/n7sr1fy",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
         "date": "2020-08-12"
       }
     ]

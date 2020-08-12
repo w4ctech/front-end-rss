@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 03:02:31，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 03:09:39，:rocket: 更新条数: +3290， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-12-巴西一血液样本中存新冠抗体-较该国首例确诊患者早15天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiARQZkGVf0swZTtxcWRNF200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-刚果（布）累计新冠肺炎确诊病例3745例-全国卫生紧急状态将再次延长20天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihTsAzLnWb459bCQq9WZi200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-​意大利出台秋冬季新冠肺炎疫情应对方案](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibzKkHieVz9Cz3zIWx9EE200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-巴西亚马孙州首府率先复课-首日出现老师确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSBjTqVoxb232Ms4RaLeH200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-11-​世卫组织：全球新冠肺炎确诊病例新增216033例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimGEjHYswWwodlj0KeY6h200812&isfromapp=1) ![](assets/new.png)  
-- [2020-08-11-多机构联合报告显示：​新冠肺炎疫情对70%以上年轻人的教育产生影响](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5mzOBRbGZxB3FFDsJHE200812&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-12-杭州-招聘产品助理，坐标临平，待遇优厚～-有朋友在找工作的看过来](https://www.v2ex.com/t/697613) ![](assets/new.png)  
 - [2020-08-12-MACBOOK-PRO-换了主板。。是不是电脑机子就不好了？？](https://www.v2ex.com/t/697611) ![](assets/new.png)  
 - [2020-08-12-D2iQ-Formerly-Mesosphere-招聘-C/C++-研发工程师](https://www.v2ex.com/t/697610) ![](assets/new.png)  
 - [2020-08-12-两个-EXCEL-表格怎么合并数据](https://www.v2ex.com/t/697608) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-12-究竟哪个专业比较好呢？](https://www.v2ex.com/t/697591) ![](assets/new.png)  
 - [2020-08-12-平板当手机怎么样？](https://www.v2ex.com/t/697590) ![](assets/new.png)  
 - [2020-08-12-为什么小米-10-周年雷总演讲反响不错，小米股价还是跌成这个熊样](https://www.v2ex.com/t/697589) ![](assets/new.png)  
-- [2020-08-12-如果你觉得你的上级领导能力以及管理能力有问题你会怎么办](https://www.v2ex.com/t/697588) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,19 +1121,19 @@
 - [2020-08-12-译-简单介绍一下-Dart](https://toutiao.io/k/aeg5sis) ![](assets/new.png)  
 - [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
 - [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
-- [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
 - [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
+- [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-IDEA-奇淫小技巧](https://toutiao.io/k/8pelfwx) ![](assets/new.png)  
-- [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
 - [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
+- [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
-- [2020-08-12-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
-- [2020-08-12-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-12-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-12-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
+- [2020-08-12-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [2020-08-12-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-12-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-12-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
+- [2020-08-12-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -12617,6 +12617,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "巴西一血液样本中存新冠抗体 较该国首例确诊患者早15天",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiARQZkGVf0swZTtxcWRNF200812&isfromapp=1",
+        "date": "2020-08-12"
+      },
+      {
         "title": "刚果（布）累计新冠肺炎确诊病例3745例 全国卫生紧急状态将再次延长20天",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihTsAzLnWb459bCQq9WZi200812&isfromapp=1",
         "date": "2020-08-11"
@@ -12634,11 +12639,6 @@
       {
         "title": "​世卫组织：全球新冠肺炎确诊病例新增216033例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimGEjHYswWwodlj0KeY6h200812&isfromapp=1",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "多机构联合报告显示：​新冠肺炎疫情对70%以上年轻人的教育产生影响",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5mzOBRbGZxB3FFDsJHE200812&isfromapp=1",
         "date": "2020-08-11"
       }
     ]
@@ -15769,6 +15769,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[杭州] 招聘产品助理，坐标临平，待遇优厚～\r\n有朋友在找工作的看过来",
+        "link": "https://www.v2ex.com/t/697613",
+        "date": "2020-08-12"
+      },
+      {
         "title": "MACBOOK PRO 换了主板。。是不是电脑机子就不好了？？",
         "link": "https://www.v2ex.com/t/697611",
         "date": "2020-08-12"
@@ -16098,13 +16103,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "6个小技巧，教你解锁 “增长黑客”",
-        "link": "https://toutiao.io/k/9pa1e10",
+        "title": "[译] StyleFlow：一张图片，属性解耦的完美 72 变",
+        "link": "https://toutiao.io/k/t3k62pz",
         "date": "2020-08-12"
       },
       {
-        "title": "[译] StyleFlow：一张图片，属性解耦的完美 72 变",
-        "link": "https://toutiao.io/k/t3k62pz",
+        "title": "6个小技巧，教你解锁 “增长黑客”",
+        "link": "https://toutiao.io/k/9pa1e10",
         "date": "2020-08-12"
       },
       {
@@ -16118,13 +16123,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "红蓝对抗之域名搜集方法总结",
-        "link": "https://toutiao.io/k/wjnyrcs",
+        "title": "敏捷交付中的自动化测试",
+        "link": "https://toutiao.io/k/4yzji8q",
         "date": "2020-08-12"
       },
       {
-        "title": "敏捷交付中的自动化测试",
-        "link": "https://toutiao.io/k/4yzji8q",
+        "title": "红蓝对抗之域名搜集方法总结",
+        "link": "https://toutiao.io/k/wjnyrcs",
         "date": "2020-08-12"
       },
       {
@@ -16138,23 +16143,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-12"
       },
       {
@@ -16163,38 +16153,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
         "date": "2020-08-12"
       },
       {
@@ -16203,13 +16168,53 @@
         "date": "2020-08-12"
       },
       {
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-12"
+      },
+      {
         "title": "[推荐] 微服务重构四步法",
         "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-12"
       }
     ]

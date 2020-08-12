@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 10:19:31，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 10:32:00，:rocket: 更新条数: +3297， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2020-08-12-亚美尼亚新增201例新冠肺炎确诊病例-累计确诊40794例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCpKvyRov0yEVJ52i5J20200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-伊朗新增新冠肺炎确诊病例2510例-累计确诊333699例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUPFkab5A9ucCqXtRrByU200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-以色列新增366例新冠肺炎确诊病例-累计86959例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLq36aKakkhVJmJBXA2KN200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-巴林新增407例新冠肺炎确诊病例-累计44804例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqipodO0hCHpry3MfCWvh200812&isfromapp=1) ![](assets/new.png)  
@@ -1052,6 +1053,7 @@
 </summary>
 
 
+- [2020-08-12-一个疑问:-全栈工程师到底是否应该也熟悉机器学习那一套东西？](https://www.v2ex.com/t/697759) ![](assets/new.png)  
 - [2020-08-12-firefox-使用网页微信无法直接粘贴图片](https://www.v2ex.com/t/697758) ![](assets/new.png)  
 - [2020-08-12-在-macOS-上直接跑-Docker-的综合体验是不是还不如在跑在-VirtualBox-的虚拟机中?](https://www.v2ex.com/t/697757) ![](assets/new.png)  
 - [2020-08-12-北京-京东物流-Java-后端-部门急聘-内推](https://www.v2ex.com/t/697756) ![](assets/new.png)  
@@ -1071,7 +1073,6 @@
 - [2020-08-12-Unplugged-Rust-线上快闪](https://www.v2ex.com/t/697737) ![](assets/new.png)  
 - [2020-08-12-字节跳动内推季持续招人，多样海量岗位需求，-内推进度随时可查～～](https://www.v2ex.com/t/697736) ![](assets/new.png)  
 - [2020-08-12-原创算法题求助。](https://www.v2ex.com/t/697734) ![](assets/new.png)  
-- [2020-08-12-想学习，却不知道从何下手去学习。。](https://www.v2ex.com/t/697733) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,8 +1125,8 @@
 - [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
 - [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
-- [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
 - [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
+- [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  

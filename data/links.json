@@ -16845,6 +16845,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "你会换购小米昨晚刚发布的 Redmi K30 至尊纪念版吗？",
+        "link": "https://www.v2ex.com/t/697555",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "笔记息屏后，外接显示器就不能再次点亮，需要重新插拔，客服说是正常的。大家有遇到这种问题吗？直接插在笔记本是没有问题的",
+        "link": "https://www.v2ex.com/t/697554",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "求助：有没有上过 IT 培训班的朋友能够分享一下自己的经历？",
+        "link": "https://www.v2ex.com/t/697552",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "模板类内模板构造函数的重载问题",
+        "link": "https://www.v2ex.com/t/697551",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "如果共享单车车筐里有把雨伞，你会拿走吗？理由呢？要真实些哦",
+        "link": "https://www.v2ex.com/t/697550",
+        "date": "2020-08-12"
+      },
+      {
         "title": "win10 2004 每天晚上都莫名其妙的被唤醒， powercfg lastwake 居然还是电源按钮",
         "link": "https://www.v2ex.com/t/697549",
         "date": "2020-08-12"
@@ -17043,31 +17068,6 @@
         "title": "V 友们，考察你们计算能力的时候到了，给出一个递推题目的数值解",
         "link": "https://www.v2ex.com/t/697506",
         "date": "2020-08-11"
-      },
-      {
-        "title": "自研企业级安卓 java2c 加固服务， 4 代半加壳，性能超过 vmp",
-        "link": "https://www.v2ex.com/t/697505",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "视频点播 app 的播放源如何添加",
-        "link": "https://www.v2ex.com/t/697504",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "MacBook 升级 海康威视 c2000 pro",
-        "link": "https://www.v2ex.com/t/697503",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "自研企业级安卓 java2c 加固服务，第四代加壳，性能超过 vmp",
-        "link": "https://www.v2ex.com/t/697502",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "C# 泛型、duck typing、高效枚举",
-        "link": "https://www.v2ex.com/t/697500",
-        "date": "2020-08-11"
       }
     ]
   },
@@ -17184,33 +17184,58 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "重走机器学习之路：形而上者谓之道",
+        "link": "https://toutiao.io/k/bh15qjc",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
+        "title": "神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "[译] 简单介绍一下 Dart",
+        "link": "https://toutiao.io/k/aeg5sis",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "上帝视角看 TypeScript",
+        "link": "https://toutiao.io/k/ufd8g9h",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
+        "title": "Midway Serverless 能力介绍与设计分析",
+        "link": "https://toutiao.io/k/s49ocpe",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
+        "title": "在 Kotlin 中使用 Dagger 会遇到的陷阱和优化方法",
+        "link": "https://toutiao.io/k/hn7gn1l",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "代码优化实战：我又优化了一百个 if else",
+        "link": "https://toutiao.io/k/yv0hdsj",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[译] StyleFlow：一张图片，属性解耦的完美 72 变",
+        "link": "https://toutiao.io/k/t3k62pz",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "创建高可用 RabbitMQ 集群：SKlinux 服务器维护",
+        "link": "https://toutiao.io/k/148cddl",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "6个小技巧，教你解锁 “增长黑客”",
+        "link": "https://toutiao.io/k/9pa1e10",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
         "date": "2020-08-12"
       },
       {
@@ -17219,23 +17244,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-12"
       },
       {
@@ -17244,18 +17259,53 @@
         "date": "2020-08-12"
       },
       {
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-12"
+      },
+      {
         "title": "[推荐] Go 调试分析的高阶技巧",
         "link": "https://toutiao.io/k/onlqg3p",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
         "date": "2020-08-12"
       }
     ]

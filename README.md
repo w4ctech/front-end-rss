@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 00:25:54，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 00:48:16，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,11 @@
 </summary>
 
 
+- [2020-08-12-你会换购小米昨晚刚发布的-Redmi-K30-至尊纪念版吗？](https://www.v2ex.com/t/697555) ![](assets/new.png)  
+- [2020-08-12-笔记息屏后，外接显示器就不能再次点亮，需要重新插拔，客服说是正常的。大家有遇到这种问题吗？直接插在笔记本是没有问题的](https://www.v2ex.com/t/697554) ![](assets/new.png)  
+- [2020-08-12-求助：有没有上过-IT-培训班的朋友能够分享一下自己的经历？](https://www.v2ex.com/t/697552) ![](assets/new.png)  
+- [2020-08-12-模板类内模板构造函数的重载问题](https://www.v2ex.com/t/697551) ![](assets/new.png)  
+- [2020-08-12-如果共享单车车筐里有把雨伞，你会拿走吗？理由呢？要真实些哦](https://www.v2ex.com/t/697550) ![](assets/new.png)  
 - [2020-08-12-win10-2004-每天晚上都莫名其妙的被唤醒，-powercfg-lastwake-居然还是电源按钮](https://www.v2ex.com/t/697549) ![](assets/new.png)  
 - [2020-08-11-外边出着太阳，就我拿了个伞，像一个-XX](https://www.v2ex.com/t/697548) ![](assets/new.png)  
 - [2020-08-11-有没有-windows-下面好用的注册表监控管理或沙盒软件？](https://www.v2ex.com/t/697547) ![](assets/new.png)  
@@ -1087,11 +1092,6 @@
 - [2020-08-11-带了半个月的实习生提桶跑路了，怎么适应？](https://www.v2ex.com/t/697536) ![](assets/new.png)  
 - [2020-08-11-你们的海外服务器还好吗？](https://www.v2ex.com/t/697535) ![](assets/new.png)  
 - [2020-08-11-ditto-与-windows-剪贴板的选择？](https://www.v2ex.com/t/697534) ![](assets/new.png)  
-- [2020-08-11-iOS14-beta4-使用-Air-Pods-时用微信拍照声音的-bug-终于没有了](https://www.v2ex.com/t/697533) ![](assets/new.png)  
-- [2020-08-11-安卓有什么插件可以实现-iOS13-上的电池优化么？](https://www.v2ex.com/t/697532) ![](assets/new.png)  
-- [2020-08-11-Time-Machine-在没有外挂移动硬盘的情况下也可以恢复文件？](https://www.v2ex.com/t/697531) ![](assets/new.png)  
-- [2020-08-11-求助：在-gitbash-中-yarn-与-npm-的输出结果中，-yarn-自带了白色的背景色，如何避免该背景色？](https://www.v2ex.com/t/697530) ![](assets/new.png)  
-- [2020-08-11-小米服务框架是准备专门用来发官方广告了？](https://www.v2ex.com/t/697529) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,21 +1134,26 @@
 </summary>
 
 
-- [2020-08-12-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-12-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-12-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-12-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
-- [2020-08-12-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
-- [2020-08-12-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-12-重走机器学习之路：形而上者谓之道](https://toutiao.io/k/bh15qjc) ![](assets/new.png)  
+- [2020-08-12-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-12-译-简单介绍一下-Dart](https://toutiao.io/k/aeg5sis) ![](assets/new.png)  
+- [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
+- [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
+- [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
+- [2020-08-12-代码优化实战：我又优化了一百个-if-else](https://toutiao.io/k/yv0hdsj) ![](assets/new.png)  
+- [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
+- [2020-08-12-创建高可用-RabbitMQ-集群：SKlinux-服务器维护](https://toutiao.io/k/148cddl) ![](assets/new.png)  
+- [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
+- [2020-08-12-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
 - [2020-08-12-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-12-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
-- [2020-08-12-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-12-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-12-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-12-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-12-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
 - [2020-08-12-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-08-12-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-12-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-12-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-12-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-12-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-12-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-12-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-12-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

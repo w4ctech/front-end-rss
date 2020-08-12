@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 12:03:01，:rocket: 更新条数: +3303， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 12:12:09，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-12-强制转-LPR-了，大家怎么看？](https://www.v2ex.com/t/697785) ![](assets/new.png)  
+- [2020-08-12-歌单推荐：史上最畅销专辑金曲选辑](https://www.v2ex.com/t/697784) ![](assets/new.png)  
 - [2020-08-12-推荐一个开源软件-AlDente，适合长期插电使用的-macbook-用户](https://www.v2ex.com/t/697781) ![](assets/new.png)  
 - [2020-08-12-个人觉着社交媒体应归为酒类,有人不耐受有人耐受.不耐受的人容易上头,就跟喝大了一样.](https://www.v2ex.com/t/697780) ![](assets/new.png)  
 - [2020-08-12-quanx-始终用不了](https://www.v2ex.com/t/697779) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-12-突然想到一种情况，员工签竞业协议后，公司不给员工的那一份协议](https://www.v2ex.com/t/697765) ![](assets/new.png)  
 - [2020-08-12-怎么禁用安卓版-Firefox-的流氓软件拦截？](https://www.v2ex.com/t/697764) ![](assets/new.png)  
 - [2020-08-12-惊！某人的-macOS-磁盘竟变成了这样](https://www.v2ex.com/t/697763) ![](assets/new.png)  
-- [2020-08-12-leetcode-Amazon-面试题：格雷编码](https://www.v2ex.com/t/697761) ![](assets/new.png)  
-- [2020-08-12-请问如何给.m4a-文件添加封面](https://www.v2ex.com/t/697760) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,8 +1129,8 @@
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
-- [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  
 - [2020-08-12-如何替公司省下数千万勒索费用](https://toutiao.io/k/9jwd117) ![](assets/new.png)  
+- [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  
 - [2020-08-12-初中级前端-JavaScript-自测清单（二）](https://toutiao.io/k/6zau667) ![](assets/new.png)  
 - [2020-08-12-译-构建去中心化智能合约编程货币](https://toutiao.io/k/lusa3mv) ![](assets/new.png)  
 - [2020-08-12-Python-批量合并-Excel](https://toutiao.io/k/18e4bzp) ![](assets/new.png)  

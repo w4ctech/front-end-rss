@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 04:21:01，:rocket: 更新条数: +3295， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 04:31:26，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-12-这种可视化方法可不可能集成到-hugo-的博文里？](https://www.v2ex.com/t/697644) ![](assets/new.png)  
+- [2020-08-12-出点闲置的电脑，主板,-开发板啥的](https://www.v2ex.com/t/697643) ![](assets/new.png)  
 - [2020-08-12-Python-有什么办法异步监控文件修改吗？](https://www.v2ex.com/t/697642) ![](assets/new.png)  
 - [2020-08-12-Precision-5750-还是-XPS-9700](https://www.v2ex.com/t/697641) ![](assets/new.png)  
 - [2020-08-12-Clash-作为网关的话-TUN-模式和-redir-host/fake-ip-有什么优势？](https://www.v2ex.com/t/697640) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-12-手机摔坏了，想换新手机，-V-友们有推荐的吗](https://www.v2ex.com/t/697622) ![](assets/new.png)  
 - [2020-08-12-跟着-KEEP-运动半个月，居然胖了-4-斤。。](https://www.v2ex.com/t/697621) ![](assets/new.png)  
 - [2020-08-12-电信宽带是不是对穿透不太友好](https://www.v2ex.com/t/697620) ![](assets/new.png)  
-- [2020-08-12-快手-杭州急招-iOS-客户端](https://www.v2ex.com/t/697617) ![](assets/new.png)  
-- [2020-08-12-拼多多上买了个-iPad](https://www.v2ex.com/t/697616) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,8 +1131,8 @@
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
 - [2020-08-12-如何替公司省下数千万勒索费用](https://toutiao.io/k/9jwd117) ![](assets/new.png)  
 - [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  
-- [2020-08-12-译-构建去中心化智能合约编程货币](https://toutiao.io/k/lusa3mv) ![](assets/new.png)  
 - [2020-08-12-初中级前端-JavaScript-自测清单（二）](https://toutiao.io/k/6zau667) ![](assets/new.png)  
+- [2020-08-12-译-构建去中心化智能合约编程货币](https://toutiao.io/k/lusa3mv) ![](assets/new.png)  
 - [2020-08-12-Python-批量合并-Excel](https://toutiao.io/k/18e4bzp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

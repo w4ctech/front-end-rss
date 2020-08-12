@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 01:10:28，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 01:20:02，:rocket: 更新条数: +3512， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,8 +64,8 @@
 </summary>
 
 
+- [2020-08-11-8月11日全国新增新冠25例-本土新疆9例](https://m.caixin.com/m/2020-08-12/101591645.html) ![](assets/new.png)  
 - [2020-08-11-大流行手记|8月11日：俄注册全球首款新冠疫苗-新西兰102天后再现本土病例](https://m.caixin.com/m/2020-08-12/101591634.html) ![](assets/new.png)  
-- [2020-08-10-最新疫情：全国新冠累计确诊84712例-新增境外输入31例](http://m.china.caixin.com/m/2020-08-11/101591230.html) ![](assets/new.png)  
 - [2020-08-10-【境内疫情观察】全国8省份新增境外输入病例31例（8月10日）](http://m.database.caixin.com/m/2020-08-11/101591238.html) ![](assets/new.png)  
 - [2020-08-10-大流行手记|8月10日：美国疫情曲线呈降势-印度连续12天新增破5万例](https://m.caixin.com/m/2020-08-11/101591157.html) ![](assets/new.png)  
 - [2020-08-10-【图集】韩国首尔南大门市场现新冠聚集性感染事件](http://m.photos.caixin.com/m/2020-08-11/101591137.html) ![](assets/new.png)  
@@ -1072,6 +1072,10 @@
 </summary>
 
 
+- [2020-08-12-vmware-和-win10-自带的-Hyper-v-哪个做-Linux-服务器好点](https://www.v2ex.com/t/697565) ![](assets/new.png)  
+- [2020-08-12-多个前端小项目，怎么让基础代码复用啊，每一个项目都是通过-vue-cli-脚手架生成的](https://www.v2ex.com/t/697564) ![](assets/new.png)  
+- [2020-08-12-请问一下-ahkah-品牌首饰有靠谱代购吗？](https://www.v2ex.com/t/697561) ![](assets/new.png)  
+- [2020-08-12-字节小程序是不是完全照搬-wx-小程序，毫无创意唉。。](https://www.v2ex.com/t/697560) ![](assets/new.png)  
 - [2020-08-12-各位大神！-CENTOS-的-hosts-文件能不能引用附加其他文本？](https://www.v2ex.com/t/697558) ![](assets/new.png)  
 - [2020-08-12-rsync-定时备份每次都要输入-pubkey-密码，怎么安全处理](https://www.v2ex.com/t/697556) ![](assets/new.png)  
 - [2020-08-12-你会换购小米昨晚刚发布的-Redmi-K30-至尊纪念版吗？](https://www.v2ex.com/t/697555) ![](assets/new.png)  
@@ -1088,10 +1092,6 @@
 - [2020-08-11-怎么感觉好多前端文档都是机翻的？？](https://www.v2ex.com/t/697543) ![](assets/new.png)  
 - [2020-08-11-有没有想象过没有网络或者只有局域网的生活-自己的状态会是怎样-有哪些事可以做](https://www.v2ex.com/t/697542) ![](assets/new.png)  
 - [2020-08-11-求各位大佬们发表一下意见](https://www.v2ex.com/t/697541) ![](assets/new.png)  
-- [2020-08-11-k30u-这个搞法真的没问题吗？自家其它货怎么卖？](https://www.v2ex.com/t/697540) ![](assets/new.png)  
-- [2020-08-11-20200812-午夜俱乐部](https://www.v2ex.com/t/697539) ![](assets/new.png)  
-- [2020-08-11-我的树莓派使用记录](https://www.v2ex.com/t/697538) ![](assets/new.png)  
-- [2020-08-11-带了半个月的实习生提桶跑路了，怎么适应？](https://www.v2ex.com/t/697536) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,21 +1139,21 @@
 - [2020-08-12-代码优化实战：我又优化了一百个-if-else](https://toutiao.io/k/yv0hdsj) ![](assets/new.png)  
 - [2020-08-12-译-简单介绍一下-Dart](https://toutiao.io/k/aeg5sis) ![](assets/new.png)  
 - [2020-08-12-创建高可用-RabbitMQ-集群：SKlinux-服务器维护](https://toutiao.io/k/148cddl) ![](assets/new.png)  
-- [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
 - [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
+- [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
 - [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
 - [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
-- [2020-08-12-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-12-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-12-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
-- [2020-08-12-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-12-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-12-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
+- [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
+- [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
+- [2020-08-12-IDEA-奇淫小技巧](https://toutiao.io/k/8pelfwx) ![](assets/new.png)  
+- [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
+- [2020-08-12-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-12-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-12-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
 - [2020-08-12-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-12-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-12-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-12-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-12-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

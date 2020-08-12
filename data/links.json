@@ -5,14 +5,14 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "大流行手记|8月11日：俄注册全球首款新冠疫苗 新西兰102天后再现本土病例",
-        "link": "https://m.caixin.com/m/2020-08-12/101591634.html",
+        "title": "8月11日全国新增新冠25例 本土新疆9例",
+        "link": "https://m.caixin.com/m/2020-08-12/101591645.html",
         "date": "2020-08-11"
       },
       {
-        "title": "最新疫情：全国新冠累计确诊84712例 新增境外输入31例",
-        "link": "http://m.china.caixin.com/m/2020-08-11/101591230.html",
-        "date": "2020-08-10"
+        "title": "大流行手记|8月11日：俄注册全球首款新冠疫苗 新西兰102天后再现本土病例",
+        "link": "https://m.caixin.com/m/2020-08-12/101591634.html",
+        "date": "2020-08-11"
       },
       {
         "title": "【境内疫情观察】全国8省份新增境外输入病例31例（8月10日）",
@@ -16855,6 +16855,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "vmware 和 win10 自带的 Hyper-v 哪个做 Linux 服务器好点",
+        "link": "https://www.v2ex.com/t/697565",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "多个前端小项目，怎么让基础代码复用啊，每一个项目都是通过 vue-cli 脚手架生成的",
+        "link": "https://www.v2ex.com/t/697564",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "请问一下 ahkah 品牌首饰有靠谱代购吗？",
+        "link": "https://www.v2ex.com/t/697561",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "字节小程序是不是完全照搬 wx 小程序，毫无创意唉。。",
+        "link": "https://www.v2ex.com/t/697560",
+        "date": "2020-08-12"
+      },
+      {
         "title": "各位大神！ CENTOS 的 hosts 文件能不能引用附加其他文本？",
         "link": "https://www.v2ex.com/t/697558",
         "date": "2020-08-12"
@@ -17043,31 +17063,6 @@
         "title": "小米出了透明电视， RMB 49999， 而我觉得赛博朋克快来了",
         "link": "https://www.v2ex.com/t/697516",
         "date": "2020-08-11"
-      },
-      {
-        "title": "K30u 这价格无敌了啊",
-        "link": "https://www.v2ex.com/t/697515",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "国内用什么邮箱好",
-        "link": "https://www.v2ex.com/t/697513",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "如何得知国内浏览器排行榜？",
-        "link": "https://www.v2ex.com/t/697512",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "墙壁上的开关，有没有什么产品可以卡住开关，不让开关被打开或关闭？",
-        "link": "https://www.v2ex.com/t/697511",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "请教下类似 Mac/笔记本的 USB HUB 类电子产品,各位认为怎么样才有足够吸引力让各位购买(非天猫京东等平台)",
-        "link": "https://www.v2ex.com/t/697510",
-        "date": "2020-08-11"
       }
     ]
   },
@@ -17209,13 +17204,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "上帝视角看 TypeScript",
-        "link": "https://toutiao.io/k/ufd8g9h",
+        "title": "Midway Serverless 能力介绍与设计分析",
+        "link": "https://toutiao.io/k/s49ocpe",
         "date": "2020-08-12"
       },
       {
-        "title": "Midway Serverless 能力介绍与设计分析",
-        "link": "https://toutiao.io/k/s49ocpe",
+        "title": "上帝视角看 TypeScript",
+        "link": "https://toutiao.io/k/ufd8g9h",
         "date": "2020-08-12"
       },
       {
@@ -17234,53 +17229,38 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
+        "title": "使用 systemd-detect-virt 判断 Linux 是否运行在虚拟机中",
+        "link": "https://toutiao.io/k/5dmt30z",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
+        "title": "红蓝对抗之域名搜集方法总结",
+        "link": "https://toutiao.io/k/wjnyrcs",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
+        "title": "敏捷交付中的自动化测试",
+        "link": "https://toutiao.io/k/4yzji8q",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
+        "title": "IDEA 奇淫小技巧",
+        "link": "https://toutiao.io/k/8pelfwx",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
+        "title": "Spring 事务的传播行为案例分析",
+        "link": "https://toutiao.io/k/lvuk504",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
         "date": "2020-08-12"
       },
       {
@@ -17289,13 +17269,28 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-12"
       },
       {
@@ -17304,8 +17299,33 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-12"
       }
     ]

@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-08-12 06:33:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 06:46:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-12-这个配置，满足这个最低配置的价位大概是多少呀~-感谢指导~不含键盘鼠标显示器~~](https://www.v2ex.com/t/697687) 
+- [2020-08-12-北京社招-开黑啦-高级-iOS-工程师-20k-30k*14-薪](https://www.v2ex.com/t/697686) 
+- [2020-08-12-杭州/成都-Longbridge-IOS-macOS-前端-Go-开发招人啦](https://www.v2ex.com/t/697685) 
+- [2020-08-12-大家觉得，勤能补拙吗？](https://www.v2ex.com/t/697684) 
+- [2020-08-12-Flask-SQLAlchemy-更新update-数据，还有必要-db.session.addfoo-吗？](https://www.v2ex.com/t/697683) 
 - [2020-08-12-pytorch-多分类的问题](https://www.v2ex.com/t/697682) 
 - [2020-08-12-能不能实现-sybase-与-ES-的数据同步](https://www.v2ex.com/t/697681) 
 - [2020-08-12-直播通知](https://www.v2ex.com/t/697680) 
@@ -36,7 +41,3 @@
 - [2020-08-12-Precision-5750-还是-XPS-9700](https://www.v2ex.com/t/697641) 
 - [2020-08-12-Clash-作为网关的话-TUN-模式和-redir-host/fake-ip-有什么优势？](https://www.v2ex.com/t/697640) 
 - [2020-08-12-创业公司还是大厂？目前求职，希望大伙给点建议](https://www.v2ex.com/t/697639) 
-- [2020-08-12-求-V-友推荐个图片加水印的软件](https://www.v2ex.com/t/697637) 
-- [2020-08-12-在-iOS-14-正式发布前能上架-Xcode12-编译的已适配-14-的-App-吗？](https://www.v2ex.com/t/697636) 
-- [2020-08-12-如何能查到企业文化与招聘研究的国外的文档](https://www.v2ex.com/t/697634) 
-- [2020-08-12-有什么对-Linux-友好的笔记本或台式机吗？](https://www.v2ex.com/t/697633) 

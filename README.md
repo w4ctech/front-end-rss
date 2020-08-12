@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 06:33:36，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 06:46:39，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,8 @@
 
 
 - [2020-08-11-湖北荆州一新冠患者治愈后再次复阳](http://m.china.caixin.com/m/2020-08-12/101591849.html) ![](assets/new.png)  
+- [2020-08-11-最新疫情：全国新冠累计确诊84737例-新增境外输入16例](http://m.china.caixin.com/m/2020-08-12/101591858.html) ![](assets/new.png)  
+- [2020-08-11-【境内疫情观察】全国8省份新增境外输入病例16例（8月11日）](http://m.database.caixin.com/m/2020-08-12/101591859.html) ![](assets/new.png)  
 - [2020-08-11-大流行手记|8月11日：俄注册全球首款新冠疫苗-新西兰102天后再现本土病例](https://m.caixin.com/m/2020-08-12/101591634.html) ![](assets/new.png)  
 - [2020-08-10-【境内疫情观察】全国8省份新增境外输入病例31例（8月10日）](http://m.database.caixin.com/m/2020-08-11/101591238.html) ![](assets/new.png)  
 - [2020-08-10-大流行手记|8月10日：美国疫情曲线呈降势-印度连续12天新增破5万例](https://m.caixin.com/m/2020-08-11/101591157.html) ![](assets/new.png)  
@@ -82,8 +84,6 @@
 - [2020-08-06-香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html) ![](assets/new.png)  
 - [2020-08-06-【境内疫情观察】北京新发地聚集性疫情在院病例清零（8月6日）](http://m.database.caixin.com/m/2020-08-07/101589969.html) ![](assets/new.png)  
 - [2020-08-06-大流行手记|8月6日：亚欧多国疫情继续回升-越南建起方舱医院](https://m.caixin.com/m/2020-08-07/101589796.html) ![](assets/new.png)  
-- [2020-08-05-【境内疫情观察】全国新增30例本土病例（8月5日）](http://m.database.caixin.com/m/2020-08-06/101589410.html) ![](assets/new.png)  
-- [2020-08-05-大流行手记|8月5日：疫情加剧教育不平等-俄将开展未成年人新冠疫苗实验](https://m.caixin.com/m/2020-08-06/101589309.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-12-这个配置，满足这个最低配置的价位大概是多少呀~-感谢指导~不含键盘鼠标显示器~~](https://www.v2ex.com/t/697687) ![](assets/new.png)  
+- [2020-08-12-北京社招-开黑啦-高级-iOS-工程师-20k-30k*14-薪](https://www.v2ex.com/t/697686) ![](assets/new.png)  
+- [2020-08-12-杭州/成都-Longbridge-IOS-macOS-前端-Go-开发招人啦](https://www.v2ex.com/t/697685) ![](assets/new.png)  
+- [2020-08-12-大家觉得，勤能补拙吗？](https://www.v2ex.com/t/697684) ![](assets/new.png)  
+- [2020-08-12-Flask-SQLAlchemy-更新update-数据，还有必要-db.session.addfoo-吗？](https://www.v2ex.com/t/697683) ![](assets/new.png)  
 - [2020-08-12-pytorch-多分类的问题](https://www.v2ex.com/t/697682) ![](assets/new.png)  
 - [2020-08-12-能不能实现-sybase-与-ES-的数据同步](https://www.v2ex.com/t/697681) ![](assets/new.png)  
 - [2020-08-12-直播通知](https://www.v2ex.com/t/697680) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-12-腾讯-2021-校园招聘内推啦](https://www.v2ex.com/t/697663) ![](assets/new.png)  
 - [2020-08-12-有没有成都老哥通过链家买过房的，中介费一般能砍到多少？](https://www.v2ex.com/t/697662) ![](assets/new.png)  
 - [2020-08-12-大家都说遇见工作上违法的问题进行仲裁，直到身边的朋友实际遇见了才发现仲裁是真的很难_:з」∠_](https://www.v2ex.com/t/697661) ![](assets/new.png)  
-- [2020-08-12-国内电报群可以正常使用吗？...](https://www.v2ex.com/t/697660) ![](assets/new.png)  
-- [2020-08-12-关于学习数据结构与算法分析，请教几个问题](https://www.v2ex.com/t/697659) ![](assets/new.png)  
-- [2020-08-12-Precision-5750-和-XPS-9700-怎么选？](https://www.v2ex.com/t/697658) ![](assets/new.png)  
-- [2020-08-12-我弄了一个聚合导航网站,个人感觉非常满意,特来听听小伙伴的意见](https://www.v2ex.com/t/697657) ![](assets/new.png)  
-- [2020-08-12-最近的诡异经历大家看下是不是也经历了。。。](https://www.v2ex.com/t/697656) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1118,8 +1118,8 @@
 - [2020-08-12-代码优化实战：我又优化了一百个-if-else](https://toutiao.io/k/yv0hdsj) ![](assets/new.png)  
 - [2020-08-12-创建高可用-RabbitMQ-集群：SKlinux-服务器维护](https://toutiao.io/k/148cddl) ![](assets/new.png)  
 - [2020-08-12-译-简单介绍一下-Dart](https://toutiao.io/k/aeg5sis) ![](assets/new.png)  
-- [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
 - [2020-08-12-重走机器学习之路：形而上者谓之道](https://toutiao.io/k/bh15qjc) ![](assets/new.png)  
+- [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
 - [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
 - [2020-08-12-IDEA-奇淫小技巧](https://toutiao.io/k/8pelfwx) ![](assets/new.png)  

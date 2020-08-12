@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 02:20:47，:rocket: 更新条数: +3507， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 02:31:39，:rocket: 更新条数: +3507， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,15 @@
 </summary>
 
 
+- [2020-08-12-nuxt.js-部署的问题](https://www.v2ex.com/t/697596) ![](assets/new.png)  
+- [2020-08-12-杭州-阿里巴巴达摩院前端/移动端](https://www.v2ex.com/t/697595) ![](assets/new.png)  
+- [2020-08-12-北京美团充电---前端15.5-薪-+-足够的成长空间-前端工程师、高级前端工程师](https://www.v2ex.com/t/697594) ![](assets/new.png)  
+- [2020-08-12-如果一个人突然从极点穿越到了赤道，会怎么样。](https://www.v2ex.com/t/697593) ![](assets/new.png)  
+- [2020-08-12-请大家推荐一下现在有哪种建站系统好用？](https://www.v2ex.com/t/697592) ![](assets/new.png)  
+- [2020-08-12-究竟哪个专业比较好呢？](https://www.v2ex.com/t/697591) ![](assets/new.png)  
+- [2020-08-12-平板当手机怎么样？](https://www.v2ex.com/t/697590) ![](assets/new.png)  
+- [2020-08-12-为什么小米-10-周年雷总演讲反响不错，小米股价还是跌成这个熊样](https://www.v2ex.com/t/697589) ![](assets/new.png)  
+- [2020-08-12-如果你觉得你的上级领导能力以及管理能力有问题你会怎么办](https://www.v2ex.com/t/697588) ![](assets/new.png)  
 - [2020-08-12-深圳如何申请公租房、安居房。。](https://www.v2ex.com/t/697587) ![](assets/new.png)  
 - [2020-08-12-对接了一个-ERP，-auth2-登录-30-分钟令牌就过期了](https://www.v2ex.com/t/697586) ![](assets/new.png)  
 - [2020-08-12-不懂就问，-Java-读取大文件字节内存溢出怎么优化](https://www.v2ex.com/t/697585) ![](assets/new.png)  
@@ -1083,15 +1092,6 @@
 - [2020-08-12-小米-10-至尊版本-VS-iPhone-11-pro，你会选择哪个？](https://www.v2ex.com/t/697573) ![](assets/new.png)  
 - [2020-08-12-请问-windows-系统的日志或者审计功能，会记录文件复制剪切等操作吗](https://www.v2ex.com/t/697571) ![](assets/new.png)  
 - [2020-08-12-centos-关闭了-ipv6-为何还会监听-ipv6-的端口。](https://www.v2ex.com/t/697570) ![](assets/new.png)  
-- [2020-08-12-昆明最具竞争力-IT-薪资-瑞丽航空招人啦，各种岗位，从入门新人到高级工程师，-5k-20k](https://www.v2ex.com/t/697569) ![](assets/new.png)  
-- [2020-08-12-SpreadJS-纯前端表格控件应用案例：医疗行业智能报表系统](https://www.v2ex.com/t/697567) ![](assets/new.png)  
-- [2020-08-12-直行,-左转均为绿色,-非机动车可以左转吗?杭州路口给我整迷糊了](https://www.v2ex.com/t/697566) ![](assets/new.png)  
-- [2020-08-12-vmware-和-win10-自带的-Hyper-v-哪个做-Linux-服务器好点](https://www.v2ex.com/t/697565) ![](assets/new.png)  
-- [2020-08-12-多个前端小项目，怎么让基础代码复用啊，每一个项目都是通过-vue-cli-脚手架生成的](https://www.v2ex.com/t/697564) ![](assets/new.png)  
-- [2020-08-12-请问一下-ahkah-品牌首饰有靠谱代购吗？](https://www.v2ex.com/t/697561) ![](assets/new.png)  
-- [2020-08-12-字节小程序是不是完全照搬-wx-小程序，毫无创意唉。。](https://www.v2ex.com/t/697560) ![](assets/new.png)  
-- [2020-08-12-各位大神！-CENTOS-的-hosts-文件能不能引用附加其他文本？](https://www.v2ex.com/t/697558) ![](assets/new.png)  
-- [2020-08-12-rsync-定时备份每次都要输入-pubkey-密码，怎么安全处理](https://www.v2ex.com/t/697556) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,19 +1141,19 @@
 - [2020-08-12-译-简单介绍一下-Dart](https://toutiao.io/k/aeg5sis) ![](assets/new.png)  
 - [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
 - [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
-- [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
+- [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-IDEA-奇淫小技巧](https://toutiao.io/k/8pelfwx) ![](assets/new.png)  
 - [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
 - [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
-- [2020-08-12-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
-- [2020-08-12-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-12-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-12-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
+- [2020-08-12-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-12-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-12-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
 - [2020-08-12-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-12-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

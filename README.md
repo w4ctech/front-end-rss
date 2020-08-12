@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 04:10:15，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 04:19:52，:rocket: 更新条数: +3295， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-12-Python-有什么办法异步监控文件修改吗？](https://www.v2ex.com/t/697642) ![](assets/new.png)  
+- [2020-08-12-Precision-5750-还是-XPS-9700](https://www.v2ex.com/t/697641) ![](assets/new.png)  
+- [2020-08-12-Clash-作为网关的话-TUN-模式和-redir-host/fake-ip-有什么优势？](https://www.v2ex.com/t/697640) ![](assets/new.png)  
+- [2020-08-12-创业公司还是大厂？目前求职，希望大伙给点建议](https://www.v2ex.com/t/697639) ![](assets/new.png)  
 - [2020-08-12-求-V-友推荐个图片加水印的软件](https://www.v2ex.com/t/697637) ![](assets/new.png)  
 - [2020-08-12-在-iOS-14-正式发布前能上架-Xcode12-编译的已适配-14-的-App-吗？](https://www.v2ex.com/t/697636) ![](assets/new.png)  
 - [2020-08-12-如何能查到企业文化与招聘研究的国外的文档](https://www.v2ex.com/t/697634) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-12-电信宽带是不是对穿透不太友好](https://www.v2ex.com/t/697620) ![](assets/new.png)  
 - [2020-08-12-快手-杭州急招-iOS-客户端](https://www.v2ex.com/t/697617) ![](assets/new.png)  
 - [2020-08-12-拼多多上买了个-iPad](https://www.v2ex.com/t/697616) ![](assets/new.png)  
-- [2020-08-12-最近-区块链-defi-dex-大火，当年的-fomo3D-之类的抓住机会的都暴富了](https://www.v2ex.com/t/697614) ![](assets/new.png)  
-- [2020-08-12-杭州-招聘产品助理，坐标临平，待遇优厚～-有朋友在找工作的看过来](https://www.v2ex.com/t/697613) ![](assets/new.png)  
-- [2020-08-12-MACBOOK-PRO-换了主板。。是不是电脑机子就不好了？？](https://www.v2ex.com/t/697611) ![](assets/new.png)  
-- [2020-08-12-D2iQ-Formerly-Mesosphere-招聘-C/C++-研发工程师](https://www.v2ex.com/t/697610) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,6 +1083,7 @@
 </summary>
 
 
+- [2020-08-12-领域对象发展的极致就是代理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13673&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dynamic-domian-modelling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-12-Android架构设计--MVP模式第（二）篇，如何减少类爆炸-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13672&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUWY_f4XP5E-RZ-nhVp7EeA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-12-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-12-LiveDataBus-的实现比你想象中的简单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13670&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA8uIFxma10pI87u6YPC3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1102,7 +1103,6 @@
 - [2020-08-12-Python-编辑神器-Jupyter-，推出首款官方可视化-Debug-工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13656&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP0i8lghP74whBvK5EA_RCg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-12-为什么培训班出来的程序员总遭人嫌弃？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13655&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6Zile1EaovOs289NZgQpbw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-12-雷军，扎克伯格，Linus-等巨佬的办公桌-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13654&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwjAxhZz2Yq1Py3BEKDQ2sg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-12-一个故事讲完-CPU-的工作原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13653&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYuAeWJBFmBiZOmF5t5vEFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1123,17 +1123,17 @@
 - [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
 - [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
-- [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-IDEA-奇淫小技巧](https://toutiao.io/k/8pelfwx) ![](assets/new.png)  
+- [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
 - [2020-08-12-如何替公司省下数千万勒索费用](https://toutiao.io/k/9jwd117) ![](assets/new.png)  
 - [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  
-- [2020-08-12-Python-批量合并-Excel](https://toutiao.io/k/18e4bzp) ![](assets/new.png)  
-- [2020-08-12-初中级前端-JavaScript-自测清单（二）](https://toutiao.io/k/6zau667) ![](assets/new.png)  
 - [2020-08-12-译-构建去中心化智能合约编程货币](https://toutiao.io/k/lusa3mv) ![](assets/new.png)  
+- [2020-08-12-初中级前端-JavaScript-自测清单（二）](https://toutiao.io/k/6zau667) ![](assets/new.png)  
+- [2020-08-12-Python-批量合并-Excel](https://toutiao.io/k/18e4bzp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

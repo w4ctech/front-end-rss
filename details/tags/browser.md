@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-12 14:02:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 14:10:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,6 +34,8 @@
 - [2020-07-29-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/09cb1e7efc8578dd3041798220627091) 
 - [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
 - [2020-08-04-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/871f09b3bcea8e9a831bcf53f804ee83) 
+- [2020-08-07-使用Chrome扩展程序生成网页骨架屏](https://www.ershicimi.com/p/e50ce5a4a13d21d6039afa920358f458) 
+- [2020-08-02-【干货】Chrome插件扩展开发全攻略](https://www.ershicimi.com/p/14032fdc02504ea4910da6aab08d1bec) 
 - [2020-08-10-一文读懂-Web-安全（面试必备）](https://www.ershicimi.com/p/8be36c891f65a4d2916708db74fac164) 
 - [2020-08-03-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/183eb2453460e5d2498c9aa412eda3a7) 
 - [2020-08-01-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a91ddbaacd702f621d78a36aff9c7bd6) 
@@ -48,7 +50,6 @@
 - [2020-08-12-怎么禁用安卓版-Firefox-的流氓软件拦截？](https://www.v2ex.com/t/697764) 
 - [2020-08-12-firefox-使用网页微信无法直接粘贴图片](https://www.v2ex.com/t/697758) 
 - [2020-08-12-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
-- [2020-08-12-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
 - [2020-08-10-聚焦BCS|新华网:2020年北京网络安全大会开幕](https://sec.thief.one/article_content?a_id=944a00ae884d9d18e1d8740f1c2c3361) 
 - [2020-08-08-四川广元网信办:试点示范促落地-网络安全进社区](https://sec.thief.one/article_content?a_id=dd60f8d7f33544013a428934e01c8f3d) 
 - [2020-08-08-【安全圈】黑客攻击Reddit子版块并发布特朗普助选信息](https://sec.thief.one/article_content?a_id=e489e9ae0bac72c4a572873a383c03a8) 

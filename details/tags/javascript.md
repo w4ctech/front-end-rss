@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-12 14:02:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 14:10:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -72,6 +72,10 @@
 - [2020-08-06-1000+-个项目的10大JavaScript错误](https://www.ershicimi.com/p/4d35e3f93cf5f956c52e6840fead0b60) 
 - [2020-07-27-妙用CSS变量，让你的CSS变得更心动](https://www.ershicimi.com/p/fd651b921e447be022ffe74d701e854d) 
 - [2020-07-23-带你写出符合Promise/A+规范Promise的源码](https://www.ershicimi.com/p/54288e3fa0845c82c4ad3798615a0b7a) 
+- [2020-08-09-使用-JavaScript-编写更好的条件语句](https://www.ershicimi.com/p/d054739d31544e48187a7c89786eb1ee) 
+- [2020-08-06-H5-秒开方案大全](https://www.ershicimi.com/p/fba88c1c455ea577a6825390faa823a0) 
+- [2020-08-04-应该在JavaScript中使用Class吗？](https://www.ershicimi.com/p/bd32a4b14a22166f54394f801e787e01) 
+- [2020-07-31-模块化之-snowpack，提高10倍打包速度。](https://www.ershicimi.com/p/94c1215dd428f56af335ad9fb262eb48) 
 - [2020-08-09-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/a9e2fd82597c2b2059f897c1bca9c667) 
 - [2020-08-07-H5-秒开方案大全](https://www.ershicimi.com/p/d2e77a7bbd71a5616da3a48cae7e3ccd) 
 - [2020-07-31-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/94ef89e567327766248936ef6bc9b7df) 

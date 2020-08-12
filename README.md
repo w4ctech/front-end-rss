@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 02:33:31，:rocket: 更新条数: +3290， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 02:46:23，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-12-有没有做个基于"自然语音识别"私有化部署的智能控制系统思路?](https://www.v2ex.com/t/697602) ![](assets/new.png)  
+- [2020-08-12-使用-Block-的人是否会产生优越感？](https://www.v2ex.com/t/697601) ![](assets/new.png)  
+- [2020-08-12-美国朋友想做个类似-juwai.com-的海外房地产网站,-个人或团队都行](https://www.v2ex.com/t/697600) ![](assets/new.png)  
+- [2020-08-12-昨天的手机各方面都很不错,但搞不懂冲击高端市场的产品为什么命名却趋向低端市场?](https://www.v2ex.com/t/697598) ![](assets/new.png)  
+- [2020-08-12-求好喝的咖啡。。。](https://www.v2ex.com/t/697597) ![](assets/new.png)  
 - [2020-08-12-nuxt.js-部署的问题](https://www.v2ex.com/t/697596) ![](assets/new.png)  
 - [2020-08-12-杭州-阿里巴巴达摩院前端/移动端](https://www.v2ex.com/t/697595) ![](assets/new.png)  
 - [2020-08-12-北京美团充电---前端15.5-薪-+-足够的成长空间-前端工程师、高级前端工程师](https://www.v2ex.com/t/697594) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-12-Protected-Folder-超简单强大的文件&文件夹加密工具-20-年授权-只要-59](https://www.v2ex.com/t/697584) ![](assets/new.png)  
 - [2020-08-12-字节跳动内推来啦！（校招+社招）](https://www.v2ex.com/t/697583) ![](assets/new.png)  
 - [2020-08-12-好奇有帝都的-v-友今天被通知在家办公吗..](https://www.v2ex.com/t/697582) ![](assets/new.png)  
-- [2020-08-12-业界首创-良心云轻量-Lighthouse-直播带货惊喜夜](https://www.v2ex.com/t/697578) ![](assets/new.png)  
-- [2020-08-12-RDP-的安全问题真的很大吗？](https://www.v2ex.com/t/697575) ![](assets/new.png)  
-- [2020-08-12-小米-10-至尊版本-VS-iPhone-11-pro，你会选择哪个？](https://www.v2ex.com/t/697573) ![](assets/new.png)  
-- [2020-08-12-请问-windows-系统的日志或者审计功能，会记录文件复制剪切等操作吗](https://www.v2ex.com/t/697571) ![](assets/new.png)  
-- [2020-08-12-centos-关闭了-ipv6-为何还会监听-ipv6-的端口。](https://www.v2ex.com/t/697570) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,11 +1129,11 @@
 - [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
-- [2020-08-12-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-12-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-12-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-12-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-12-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
+- [2020-08-12-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
 - [2020-08-12-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-12-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
+- [2020-08-12-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

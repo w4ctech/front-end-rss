@@ -15769,6 +15769,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有做个基于\"自然语音识别\"私有化部署的智能控制系统思路?",
+        "link": "https://www.v2ex.com/t/697602",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "使用 Block 的人是否会产生优越感？",
+        "link": "https://www.v2ex.com/t/697601",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "美国朋友想做个类似 juwai.com 的海外房地产网站, 个人或团队都行",
+        "link": "https://www.v2ex.com/t/697600",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "昨天的手机各方面都很不错,但搞不懂冲击高端市场的产品为什么命名却趋向低端市场?",
+        "link": "https://www.v2ex.com/t/697598",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "求好喝的咖啡。。。",
+        "link": "https://www.v2ex.com/t/697597",
+        "date": "2020-08-12"
+      },
+      {
         "title": "nuxt.js 部署的问题",
         "link": "https://www.v2ex.com/t/697596",
         "date": "2020-08-12"
@@ -15922,36 +15947,6 @@
         "title": "笔记息屏后，外接显示器就不能再次点亮，需要重新插拔，客服说是正常的。大家有遇到这种问题吗？直接插在笔记本是没有问题的",
         "link": "https://www.v2ex.com/t/697554",
         "date": "2020-08-12"
-      },
-      {
-        "title": "求助：有没有上过 IT 培训班的朋友能够分享一下自己的经历？",
-        "link": "https://www.v2ex.com/t/697552",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "模板类内模板构造函数的重载问题",
-        "link": "https://www.v2ex.com/t/697551",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "如果共享单车车筐里有把雨伞，你会拿走吗？理由呢？要真实些哦",
-        "link": "https://www.v2ex.com/t/697550",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "win10 2004 每天晚上都莫名其妙的被唤醒， powercfg lastwake 居然还是电源按钮",
-        "link": "https://www.v2ex.com/t/697549",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "外边出着太阳，就我拿了个伞，像一个 XX",
-        "link": "https://www.v2ex.com/t/697548",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "有没有 windows 下面好用的注册表监控管理或沙盒软件？",
-        "link": "https://www.v2ex.com/t/697547",
-        "date": "2020-08-11"
       }
     ]
   },
@@ -16143,48 +16138,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
         "date": "2020-08-12"
       },
       {
@@ -16193,8 +16148,23 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
         "date": "2020-08-12"
       },
       {
@@ -16203,18 +16173,43 @@
         "date": "2020-08-12"
       },
       {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-12"
+      },
+      {
         "title": "[推荐] 微服务重构四步法",
         "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-12"
       }
     ]

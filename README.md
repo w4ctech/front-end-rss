@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 23:18:15，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 23:31:17，:rocket: 更新条数: +3516， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-12-抗击疫情-秘鲁17日起重新实施每周日全国强制隔离政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtictTi3r0RHjCqR5ITGDtb200813&isfromapp=1) ![](assets/new.png)  
+- [2020-08-12-美国多位公共卫生专家：疫情信息统计新规损害数据完整性并给医院造成不必要负担](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS05rd56f8ufajdwK6Fz3200813&isfromapp=1) ![](assets/new.png)  
+- [2020-08-12-​香港机场管理局：内地出发旅客8月15日至10月15日可在香港机场转机或过境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK7BKXECFZR9CDoqy8AUW200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-西甲毕尔巴鄂竞技俱乐部6名球员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikq2K9hXKaVlY2OLe2tpQ200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-印度传统医学部部长纳伊克确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiupRUOXf88b4tOHs76OjP200812&isfromapp=1) ![](assets/new.png)  
-- [2020-08-12-严控疫情-约旦宣布13日起关闭约叙边境贾比尔口岸1周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL76O6ziiRIc4q4ZxJyZB200812&isfromapp=1) ![](assets/new.png)  
-- [2020-08-12-俄卫生部长：外国同仁对俄新冠疫苗的批评毫无根据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRjPwiktTVefN0zRluNcS200812&isfromapp=1) ![](assets/new.png)  
-- [2020-08-12-亚美尼亚新增201例新冠肺炎确诊病例-累计确诊40794例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCpKvyRov0yEVJ52i5J20200812&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-12-VuePress-两个问题:1.生成页面只有标题没有内容。2.部署在-gh-pages-的页面无法编辑](https://www.v2ex.com/t/697833) ![](assets/new.png)  
 - [2020-08-12-Grafana-使用教程---构建你的第一个仪表盘](https://www.v2ex.com/t/697832) ![](assets/new.png)  
 - [2020-08-12-洗衣机有异味，用啥清洁好呢](https://www.v2ex.com/t/697830) ![](assets/new.png)  
 - [2020-08-12-萌新请问下，-Linux-中是子进程-exit中的_exit触发中断进而要求内核-kenerl-发送-SIGCHLD-给父进程吗？](https://www.v2ex.com/t/697829) ![](assets/new.png)  
@@ -1071,7 +1092,6 @@
 - [2020-08-12-请教-Windows10-高手一个系统问题](https://www.v2ex.com/t/697810) ![](assets/new.png)  
 - [2020-08-12-软件工程师面试中要注意什么？](https://www.v2ex.com/t/697809) ![](assets/new.png)  
 - [2020-08-12-Redis-migrate-数据迁移工具---golang](https://www.v2ex.com/t/697808) ![](assets/new.png)  
-- [2020-08-12-macOS-Big-Sur-无法启动-Adobe-After-Effects](https://www.v2ex.com/t/697806) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-12 03:48:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 04:02:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -55,6 +55,7 @@
 - [2020-07-23-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/864b0feaa51046cb6caa2a3a52b8f670) 
 - [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) 
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
+- [2020-08-12-如何能查到企业文化与招聘研究的国外的文档](https://www.v2ex.com/t/697634) 
 - [2020-08-12-讨论-Amazon-面试题：格雷编码](https://www.v2ex.com/t/697629) 
 - [2020-08-12-杭州-招聘产品助理，坐标临平，待遇优厚～-有朋友在找工作的看过来](https://www.v2ex.com/t/697613) 
 - [2020-08-12-D2iQ-Formerly-Mesosphere-招聘-C/C++-研发工程师](https://www.v2ex.com/t/697610) 

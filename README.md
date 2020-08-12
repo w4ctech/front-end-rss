@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 05:02:42，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 05:09:24，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-12-最近的诡异经历大家看下是不是也经历了。。。](https://www.v2ex.com/t/697656) ![](assets/new.png)  
 - [2020-08-12-14-款独显-MacBook-Pro-外接高分屏-Chrome-卡顿](https://www.v2ex.com/t/697653) ![](assets/new.png)  
 - [2020-08-12-用-spark-要翻墙吗？迷惑](https://www.v2ex.com/t/697650) ![](assets/new.png)  
 - [2020-08-12-💎💎字节跳动---后端开发工程师（-Python-&Golang）-发展最快的汽车类咨询平台-懂车帝喊你投简历啦！](https://www.v2ex.com/t/697649) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-12-V-站的广告栏大概就是经济的晴雨表吧](https://www.v2ex.com/t/697630) ![](assets/new.png)  
 - [2020-08-12-讨论-Amazon-面试题：格雷编码](https://www.v2ex.com/t/697629) ![](assets/new.png)  
 - [2020-08-12-入坑-APP-开发，做了一款《模拟位置》](https://www.v2ex.com/t/697628) ![](assets/new.png)  
-- [2020-08-12-MacBook-Pro-原来有银色版本？](https://www.v2ex.com/t/697627) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1125,8 @@
 - [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
 - [2020-08-12-IDEA-奇淫小技巧](https://toutiao.io/k/8pelfwx) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
-- [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
+- [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
 - [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-12 22:32:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 22:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -20,12 +20,12 @@
 - [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) 
 - [2019-12-05-【面试题】2019开年跳槽系列-30](https://www.ershicimi.com/p/c953e0c5b4aaccbe729309f61ee8574b) 
 - [2019-12-04-【面试题】2019开年跳槽系列-29](https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10) 
+- [2020-08-12-【招聘】深圳富途招聘web前后端工程师](https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2) 
 - [2020-08-10-【招聘】微医集团前端技术部招高级前端开发工程师及前端技术专家](https://www.ershicimi.com/p/01b1405da53014f424c46c2d7e799c19) 
 - [2020-08-09-【招聘】北京猎聘多面中心招高级前端开发工程师](https://www.ershicimi.com/p/8051d6fde1f84fe20c31249ee0701e70) 
 - [2020-08-07-【招聘】字节跳动广州EI团队招前端开发Leader以及高级前端工程师](https://www.ershicimi.com/p/01b3208db8c27d26d1fe73f2f499dd88) 
 - [2020-08-06-【招聘】北京新浪微博招高级前端开发工程师（社招）](https://www.ershicimi.com/p/e84d592a3e7a2ac0ec8ce7cd5d5fa584) 
 - [2020-08-04-【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c) 
-- [2020-08-02-【招聘】字节跳动产研国际化招聘前端工程师社招/校招/实习](https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8) 
 - [2020-08-08-大厂面试过程复盘微信/阿里/头条,附答案篇](https://www.ershicimi.com/p/1c0ecd331da7dc8d59eb557b0732590f) 
 - [2020-08-05-今年面试，薪资该往高了要吗？](https://www.ershicimi.com/p/45db14c43fd467f0a74e479c1e9e62cf) 
 - [2020-07-30-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/fb17d9c7059bdb212d99e4321f722e43) 
@@ -56,4 +56,5 @@
 - [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) 
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
 - [2020-08-12-软件工程师面试中要注意什么？](https://www.v2ex.com/t/697809) 
+- [2020-08-12-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

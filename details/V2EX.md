@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-12 22:32:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 22:46:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2020-08-12-大一新生笔电选择求助](https://www.v2ex.com/t/697788) 
 - [2020-08-12-强制转-LPR-了，大家怎么看？](https://www.v2ex.com/t/697785) 
 - [2020-08-12-歌单推荐：史上最畅销专辑金曲选辑](https://www.v2ex.com/t/697784) 
-- [2020-08-12-推荐一个开源软件-AlDente，适合长期插电使用的-macbook-用户](https://www.v2ex.com/t/697781) 

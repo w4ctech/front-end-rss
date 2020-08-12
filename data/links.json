@@ -15115,6 +15115,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "我的天！你竟然没有在SpringBoot中使用过异步请求和异步调用...",
+        "link": "https://www.ershicimi.com/p/fd7d6892f88375848eeb49a2246fe552",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "一个员工的离职成本到底有多恐怖！",
+        "link": "https://www.ershicimi.com/p/9a87f880040c1bf47c4ca7bd3aa36739",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "看看华为 Java 编程的军规...",
+        "link": "https://www.ershicimi.com/p/2f22d2432104d03fd5bf3e4d0d650125",
+        "date": "2020-08-12"
+      },
+      {
         "title": "我们公司不会用分布式事务！",
         "link": "https://www.ershicimi.com/p/4faf992ac4e277cf4f39cfbc011a103b",
         "date": "2020-08-11"
@@ -15198,21 +15213,6 @@
         "title": "震惊！Redis 的字符串居然是这样实现的…",
         "link": "https://www.ershicimi.com/p/5a24bc34e36cc6129b57dfd280d15ac9",
         "date": "2020-08-06"
-      },
-      {
-        "title": "Oracle用户可要顶住了：准备好大规模补丁工作！以修补多达 433 个的新安全漏洞",
-        "link": "https://www.ershicimi.com/p/84871b4048658ef6d85fc41c39c099a9",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "因用了Insert into select语句，美女同事被开除了！",
-        "link": "https://www.ershicimi.com/p/a4be645aac669066ed1e86f8eeccfc3c",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "Hibernate 与 Mybatis 如何共存？打破你的认知！",
-        "link": "https://www.ershicimi.com/p/89cc0b723eb2ddcd32ba4b0690db4f6c",
-        "date": "2020-08-05"
       }
     ]
   },
@@ -15769,13 +15769,43 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "有没有做个基于\"自然语音识别\"私有化部署的智能控制系统思路?",
-        "link": "https://www.v2ex.com/t/697602",
+        "title": "MACBOOK PRO 换了主板。。是不是电脑机子就不好了？？",
+        "link": "https://www.v2ex.com/t/697611",
         "date": "2020-08-12"
       },
       {
-        "title": "使用 Block 的人是否会产生优越感？",
-        "link": "https://www.v2ex.com/t/697601",
+        "title": "D2iQ (Formerly Mesosphere) 招聘 C/C++ 研发工程师",
+        "link": "https://www.v2ex.com/t/697610",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "两个 EXCEL 表格怎么合并数据",
+        "link": "https://www.v2ex.com/t/697608",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "办理居转户，前公司拒不提供离职证明，怎么办呢",
+        "link": "https://www.v2ex.com/t/697607",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Google photos takeout 到 onedrive 以后，时间戳 地理位置都丢了。有啥好的工具么可以写回么？",
+        "link": "https://www.v2ex.com/t/697606",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "改邮箱显示：你要更改的这个邮件地址已经被注册，咋回事？",
+        "link": "https://www.v2ex.com/t/697605",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "同事天天工作时间假装很忙实际在学习，我很不爽，求开导",
+        "link": "https://www.v2ex.com/t/697604",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "有没有做个基于\"自然语音识别\"私有化部署的智能控制系统思路?",
+        "link": "https://www.v2ex.com/t/697602",
         "date": "2020-08-12"
       },
       {
@@ -15916,36 +15946,6 @@
       {
         "title": "多个前端小项目，怎么让基础代码复用啊，每一个项目都是通过 vue-cli 脚手架生成的",
         "link": "https://www.v2ex.com/t/697564",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "请问一下 ahkah 品牌首饰有靠谱代购吗？",
-        "link": "https://www.v2ex.com/t/697561",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "字节小程序是不是完全照搬 wx 小程序，毫无创意唉。。",
-        "link": "https://www.v2ex.com/t/697560",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "各位大神！ CENTOS 的 hosts 文件能不能引用附加其他文本？",
-        "link": "https://www.v2ex.com/t/697558",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "rsync 定时备份每次都要输入 pubkey 密码，怎么安全处理",
-        "link": "https://www.v2ex.com/t/697556",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "你会换购小米昨晚刚发布的 Redmi K30 至尊纪念版吗？",
-        "link": "https://www.v2ex.com/t/697555",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "笔记息屏后，外接显示器就不能再次点亮，需要重新插拔，客服说是正常的。大家有遇到这种问题吗？直接插在笔记本是没有问题的",
-        "link": "https://www.v2ex.com/t/697554",
         "date": "2020-08-12"
       }
     ]
@@ -16088,13 +16088,13 @@
         "date": "2020-08-12"
       },
       {
-        "title": "上帝视角看 TypeScript",
-        "link": "https://toutiao.io/k/ufd8g9h",
+        "title": "Midway Serverless 能力介绍与设计分析",
+        "link": "https://toutiao.io/k/s49ocpe",
         "date": "2020-08-12"
       },
       {
-        "title": "Midway Serverless 能力介绍与设计分析",
-        "link": "https://toutiao.io/k/s49ocpe",
+        "title": "上帝视角看 TypeScript",
+        "link": "https://toutiao.io/k/ufd8g9h",
         "date": "2020-08-12"
       },
       {
@@ -16138,18 +16138,18 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
         "date": "2020-08-12"
       },
       {
@@ -16158,13 +16158,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
         "date": "2020-08-12"
       },
       {
@@ -16173,13 +16168,23 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
         "date": "2020-08-12"
       },
       {
@@ -16188,13 +16193,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
         "date": "2020-08-12"
       },
       {

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 02:48:29，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 03:02:31，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -854,6 +854,9 @@
 </summary>
 
 
+- [2020-08-12-我的天！你竟然没有在SpringBoot中使用过异步请求和异步调用...](https://www.ershicimi.com/p/fd7d6892f88375848eeb49a2246fe552) ![](assets/new.png)  
+- [2020-08-12-一个员工的离职成本到底有多恐怖！](https://www.ershicimi.com/p/9a87f880040c1bf47c4ca7bd3aa36739) ![](assets/new.png)  
+- [2020-08-12-看看华为-Java-编程的军规...](https://www.ershicimi.com/p/2f22d2432104d03fd5bf3e4d0d650125) ![](assets/new.png)  
 - [2020-08-11-我们公司不会用分布式事务！](https://www.ershicimi.com/p/4faf992ac4e277cf4f39cfbc011a103b) ![](assets/new.png)  
 - [2020-08-11-来，告诉你阿里的数据库连接池Druid为啥如此牛逼！](https://www.ershicimi.com/p/56d40782a74a5d254406c53e7c60fa67) ![](assets/new.png)  
 - [2020-08-11-彻底搞懂“红黑树”......](https://www.ershicimi.com/p/0cc4a6df1d618c7656c5f5c9e718329b) ![](assets/new.png)  
@@ -871,9 +874,6 @@
 - [2020-08-07-微服务之间最佳调用方式是什么？](https://www.ershicimi.com/p/fe8b34a9327022dfaa2fb02489f94799) ![](assets/new.png)  
 - [2020-08-06-Mybatis-trim-标签的-2-个妙用！](https://www.ershicimi.com/p/9e3b07618847e2d1aa6b20b0d55ea86a) ![](assets/new.png)  
 - [2020-08-06-震惊！Redis-的字符串居然是这样实现的…](https://www.ershicimi.com/p/5a24bc34e36cc6129b57dfd280d15ac9) ![](assets/new.png)  
-- [2020-08-06-Oracle用户可要顶住了：准备好大规模补丁工作！以修补多达-433-个的新安全漏洞](https://www.ershicimi.com/p/84871b4048658ef6d85fc41c39c099a9) ![](assets/new.png)  
-- [2020-08-05-因用了Insert-into-select语句，美女同事被开除了！](https://www.ershicimi.com/p/a4be645aac669066ed1e86f8eeccfc3c) ![](assets/new.png)  
-- [2020-08-05-Hibernate-与-Mybatis-如何共存？打破你的认知！](https://www.ershicimi.com/p/89cc0b723eb2ddcd32ba4b0690db4f6c) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,8 +1052,14 @@
 </summary>
 
 
+- [2020-08-12-MACBOOK-PRO-换了主板。。是不是电脑机子就不好了？？](https://www.v2ex.com/t/697611) ![](assets/new.png)  
+- [2020-08-12-D2iQ-Formerly-Mesosphere-招聘-C/C++-研发工程师](https://www.v2ex.com/t/697610) ![](assets/new.png)  
+- [2020-08-12-两个-EXCEL-表格怎么合并数据](https://www.v2ex.com/t/697608) ![](assets/new.png)  
+- [2020-08-12-办理居转户，前公司拒不提供离职证明，怎么办呢](https://www.v2ex.com/t/697607) ![](assets/new.png)  
+- [2020-08-12-Google-photos-takeout-到-onedrive-以后，时间戳-地理位置都丢了。有啥好的工具么可以写回么？](https://www.v2ex.com/t/697606) ![](assets/new.png)  
+- [2020-08-12-改邮箱显示：你要更改的这个邮件地址已经被注册，咋回事？](https://www.v2ex.com/t/697605) ![](assets/new.png)  
+- [2020-08-12-同事天天工作时间假装很忙实际在学习，我很不爽，求开导](https://www.v2ex.com/t/697604) ![](assets/new.png)  
 - [2020-08-12-有没有做个基于"自然语音识别"私有化部署的智能控制系统思路?](https://www.v2ex.com/t/697602) ![](assets/new.png)  
-- [2020-08-12-使用-Block-的人是否会产生优越感？](https://www.v2ex.com/t/697601) ![](assets/new.png)  
 - [2020-08-12-美国朋友想做个类似-juwai.com-的海外房地产网站,-个人或团队都行](https://www.v2ex.com/t/697600) ![](assets/new.png)  
 - [2020-08-12-昨天的手机各方面都很不错,但搞不懂冲击高端市场的产品为什么命名却趋向低端市场?](https://www.v2ex.com/t/697598) ![](assets/new.png)  
 - [2020-08-12-求好喝的咖啡。。。](https://www.v2ex.com/t/697597) ![](assets/new.png)  
@@ -1066,12 +1072,6 @@
 - [2020-08-12-平板当手机怎么样？](https://www.v2ex.com/t/697590) ![](assets/new.png)  
 - [2020-08-12-为什么小米-10-周年雷总演讲反响不错，小米股价还是跌成这个熊样](https://www.v2ex.com/t/697589) ![](assets/new.png)  
 - [2020-08-12-如果你觉得你的上级领导能力以及管理能力有问题你会怎么办](https://www.v2ex.com/t/697588) ![](assets/new.png)  
-- [2020-08-12-深圳如何申请公租房、安居房。。](https://www.v2ex.com/t/697587) ![](assets/new.png)  
-- [2020-08-12-对接了一个-ERP，-auth2-登录-30-分钟令牌就过期了](https://www.v2ex.com/t/697586) ![](assets/new.png)  
-- [2020-08-12-不懂就问，-Java-读取大文件字节内存溢出怎么优化](https://www.v2ex.com/t/697585) ![](assets/new.png)  
-- [2020-08-12-Protected-Folder-超简单强大的文件&文件夹加密工具-20-年授权-只要-59](https://www.v2ex.com/t/697584) ![](assets/new.png)  
-- [2020-08-12-字节跳动内推来啦！（校招+社招）](https://www.v2ex.com/t/697583) ![](assets/new.png)  
-- [2020-08-12-好奇有帝都的-v-友今天被通知在家办公吗..](https://www.v2ex.com/t/697582) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1119,8 @@
 - [2020-08-12-重走机器学习之路：形而上者谓之道](https://toutiao.io/k/bh15qjc) ![](assets/new.png)  
 - [2020-08-12-创建高可用-RabbitMQ-集群：SKlinux-服务器维护](https://toutiao.io/k/148cddl) ![](assets/new.png)  
 - [2020-08-12-译-简单介绍一下-Dart](https://toutiao.io/k/aeg5sis) ![](assets/new.png)  
-- [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
 - [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
+- [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
 - [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
 - [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
@@ -1129,11 +1129,11 @@
 - [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
-- [2020-08-12-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-12-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-12-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-12-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-12-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-12-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
 - [2020-08-12-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
-- [2020-08-12-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-12-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

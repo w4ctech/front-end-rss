@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 10:10:03，:rocket: 更新条数: +3295， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 10:19:31，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,13 +66,13 @@
 
 - [2020-08-11-湖北荆州一新冠患者治愈后再次复阳](http://m.china.caixin.com/m/2020-08-12/101591849.html) ![](assets/new.png)  
 - [2020-08-11-最新疫情：全国新冠累计确诊84737例-新增境外输入16例](http://m.china.caixin.com/m/2020-08-12/101591858.html) ![](assets/new.png)  
+- [2020-08-11-最新海外疫情：新冠感染者超2021万-累计死亡近74万](https://m.caixin.com/m/2020-08-12/101591953.html) ![](assets/new.png)  
 - [2020-08-11-【境内疫情观察】全国8省份新增境外输入病例16例（8月11日）](http://m.database.caixin.com/m/2020-08-12/101591859.html) ![](assets/new.png)  
 - [2020-08-11-大流行手记|8月11日：俄注册全球首款新冠疫苗-新西兰102天后再现本土病例](https://m.caixin.com/m/2020-08-12/101591634.html) ![](assets/new.png)  
 - [2020-08-10-【境内疫情观察】全国8省份新增境外输入病例31例（8月10日）](http://m.database.caixin.com/m/2020-08-11/101591238.html) ![](assets/new.png)  
 - [2020-08-10-大流行手记|8月10日：美国疫情曲线呈降势-印度连续12天新增破5万例](https://m.caixin.com/m/2020-08-11/101591157.html) ![](assets/new.png)  
 - [2020-08-10-【图集】韩国首尔南大门市场现新冠聚集性感染事件](http://m.photos.caixin.com/m/2020-08-11/101591137.html) ![](assets/new.png)  
 - [2020-08-09-输入性新冠病例陡增-上海将加强国际航班远端管控](http://m.companies.caixin.com/m/2020-08-10/101590870.html) ![](assets/new.png)  
-- [2020-08-09-最新海外疫情：新冠感染者近1974万-累计死亡超72.6万](https://m.caixin.com/m/2020-08-10/101590953.html) ![](assets/new.png)  
 - [2020-08-09-【境内疫情观察】全国新增35例境外输入病例（8月9日）](http://m.database.caixin.com/m/2020-08-10/101590804.html) ![](assets/new.png)  
 - [2020-08-09-大流行手记|8月9日：日本澄清新冠病毒变异-特朗普谋求疫苗大选前出炉](https://m.caixin.com/m/2020-08-10/101590711.html) ![](assets/new.png)  
 - [2020-08-09-澳大利亚单日新增死亡病例创新高-新西兰连续百日无社区传播](http://m.international.caixin.com/m/2020-08-10/101590950.html) ![](assets/new.png)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-12-伊朗新增新冠肺炎确诊病例2510例-累计确诊333699例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUPFkab5A9ucCqXtRrByU200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-以色列新增366例新冠肺炎确诊病例-累计86959例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLq36aKakkhVJmJBXA2KN200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-巴林新增407例新冠肺炎确诊病例-累计44804例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqipodO0hCHpry3MfCWvh200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-香港新增62例新冠肺炎确诊病例-连续第十日新增病例少于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRFqqfxbyLUd1QYc2xkT7200812&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-菲律宾新增4444例新冠肺炎确诊病例-累计确诊143749例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM1fO5tMfBeJ8BLvunoHy200812&isfromapp=1) ![](assets/new.png)  
-- [2020-08-12-捷克新增288例新冠肺炎确诊病例-累计18783例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXahROXHOFgDrpMoivtL200812&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-12-firefox-使用网页微信无法直接粘贴图片](https://www.v2ex.com/t/697758) ![](assets/new.png)  
+- [2020-08-12-在-macOS-上直接跑-Docker-的综合体验是不是还不如在跑在-VirtualBox-的虚拟机中?](https://www.v2ex.com/t/697757) ![](assets/new.png)  
+- [2020-08-12-北京-京东物流-Java-后端-部门急聘-内推](https://www.v2ex.com/t/697756) ![](assets/new.png)  
+- [2020-08-12-根据步骤得写-python3-解密代码](https://www.v2ex.com/t/697754) ![](assets/new.png)  
+- [2020-08-12-这个-bug-让我毫无头绪啊](https://www.v2ex.com/t/697753) ![](assets/new.png)  
 - [2020-08-12-鉴于收费摄像头不好用，想做个智能摄像头](https://www.v2ex.com/t/697752) ![](assets/new.png)  
 - [2020-08-12-人工智能+跨境电商公司-求-Java-、产品经理（广告系统）、算法工程师、爬虫工程师](https://www.v2ex.com/t/697751) ![](assets/new.png)  
 - [2020-08-12-为什么淘宝网页总是需要重新登录，而客户端则不需要](https://www.v2ex.com/t/697749) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-12-字节跳动内推季持续招人，多样海量岗位需求，-内推进度随时可查～～](https://www.v2ex.com/t/697736) ![](assets/new.png)  
 - [2020-08-12-原创算法题求助。](https://www.v2ex.com/t/697734) ![](assets/new.png)  
 - [2020-08-12-想学习，却不知道从何下手去学习。。](https://www.v2ex.com/t/697733) ![](assets/new.png)  
-- [2020-08-12-内推-美团到家事业群闪购平台--Java-工程师/技术专家](https://www.v2ex.com/t/697732) ![](assets/new.png)  
-- [2020-08-12-maven-传递依赖问题请教](https://www.v2ex.com/t/697731) ![](assets/new.png)  
-- [2020-08-12-新买的-mbp16-电池这样正常吗](https://www.v2ex.com/t/697730) ![](assets/new.png)  
-- [2020-08-12-微博强制开启了-登陆保护-怎么取消啊](https://www.v2ex.com/t/697729) ![](assets/new.png)  
-- [2020-08-12-杭州有没有推荐的个人住宅软装设计师](https://www.v2ex.com/t/697728) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

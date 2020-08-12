@@ -15,6 +15,11 @@
         "date": "2020-08-11"
       },
       {
+        "title": "最新海外疫情：新冠感染者超2021万 累计死亡近74万",
+        "link": "https://m.caixin.com/m/2020-08-12/101591953.html",
+        "date": "2020-08-11"
+      },
+      {
         "title": "【境内疫情观察】全国8省份新增境外输入病例16例（8月11日）",
         "link": "http://m.database.caixin.com/m/2020-08-12/101591859.html",
         "date": "2020-08-11"
@@ -42,11 +47,6 @@
       {
         "title": "输入性新冠病例陡增 上海将加强国际航班远端管控",
         "link": "http://m.companies.caixin.com/m/2020-08-10/101590870.html",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "最新海外疫情：新冠感染者近1974万 累计死亡超72.6万",
-        "link": "https://m.caixin.com/m/2020-08-10/101590953.html",
         "date": "2020-08-09"
       },
       {
@@ -12627,6 +12627,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "伊朗新增新冠肺炎确诊病例2510例 累计确诊333699例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUPFkab5A9ucCqXtRrByU200812&isfromapp=1",
+        "date": "2020-08-12"
+      },
+      {
         "title": "以色列新增366例新冠肺炎确诊病例 累计86959例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLq36aKakkhVJmJBXA2KN200812&isfromapp=1",
         "date": "2020-08-12"
@@ -12644,11 +12649,6 @@
       {
         "title": "菲律宾新增4444例新冠肺炎确诊病例 累计确诊143749例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM1fO5tMfBeJ8BLvunoHy200812&isfromapp=1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "捷克新增288例新冠肺炎确诊病例 累计18783例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXahROXHOFgDrpMoivtL200812&isfromapp=1",
         "date": "2020-08-12"
       }
     ]
@@ -15779,6 +15779,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "firefox 使用网页微信无法直接粘贴图片",
+        "link": "https://www.v2ex.com/t/697758",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "在 macOS 上直接跑 Docker 的综合体验是不是还不如在跑在 VirtualBox 的虚拟机中?",
+        "link": "https://www.v2ex.com/t/697757",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[北京] 京东物流 Java 后端 部门急聘 内推",
+        "link": "https://www.v2ex.com/t/697756",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "根据步骤得写 python3 解密代码",
+        "link": "https://www.v2ex.com/t/697754",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "这个 bug 让我毫无头绪啊",
+        "link": "https://www.v2ex.com/t/697753",
+        "date": "2020-08-12"
+      },
+      {
         "title": "鉴于收费摄像头不好用，想做个智能摄像头",
         "link": "https://www.v2ex.com/t/697752",
         "date": "2020-08-12"
@@ -15931,26 +15956,6 @@
       {
         "title": "经过一年时间没改动，重新发布小程序升级了 2.0，不知道以前看过的人还记得不",
         "link": "https://www.v2ex.com/t/697709",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "Macbook Pro 对外接显示器强制开启 HiDPI 会不会导致 CPU 资源浪费？",
-        "link": "https://www.v2ex.com/t/697707",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "gin 支持解析带索引的数组 form 参数吗",
-        "link": "https://www.v2ex.com/t/697705",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "上海靠谱职位：算法总监，薪水 OPEN",
-        "link": "https://www.v2ex.com/t/697704",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "自己开发的「在线白板」产品上线 8 个月后......",
-        "link": "https://www.v2ex.com/t/697703",
         "date": "2020-08-12"
       }
     ]
@@ -16168,18 +16173,8 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
         "date": "2020-08-12"
       },
       {
@@ -16188,33 +16183,43 @@
         "date": "2020-08-12"
       },
       {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-12"
+      },
+      {
         "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
         "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
         "date": "2020-08-12"
       },
       {
         "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
         "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
         "date": "2020-08-12"
       },
       {
@@ -16228,18 +16233,18 @@
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
         "date": "2020-08-12"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
         "date": "2020-08-12"
       }
     ]

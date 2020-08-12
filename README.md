@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 11:02:32，:rocket: 更新条数: +3515， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 11:09:25，:rocket: 更新条数: +3515， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,9 @@
 </summary>
 
 
+- [2020-08-12-如果入职后短时间内，突然收到一家更好的-offer-怎么办？](https://www.v2ex.com/t/697769) ![](assets/new.png)  
+- [2020-08-12-还是-15-年-13-寸的-MacBook-Pro-键盘问题，内置键盘打一个字母-r，会同时出两个字母-fr](https://www.v2ex.com/t/697768) ![](assets/new.png)  
+- [2020-08-12-上海/杭州/北京量化-C++急招！不加班！](https://www.v2ex.com/t/697767) ![](assets/new.png)  
 - [2020-08-12-马上-30-岁了，这几个月特别焦虑](https://www.v2ex.com/t/697766) ![](assets/new.png)  
 - [2020-08-12-突然想到一种情况，员工签竞业协议后，公司不给员工的那一份协议](https://www.v2ex.com/t/697765) ![](assets/new.png)  
 - [2020-08-12-怎么禁用安卓版-Firefox-的流氓软件拦截？](https://www.v2ex.com/t/697764) ![](assets/new.png)  
@@ -1089,9 +1092,6 @@
 - [2020-08-12-为什么淘宝网页总是需要重新登录，而客户端则不需要](https://www.v2ex.com/t/697749) ![](assets/new.png)  
 - [2020-08-12-旅游资源和质量讨论](https://www.v2ex.com/t/697748) ![](assets/new.png)  
 - [2020-08-12-leetcode-刷题专用的一个-c-数据结构库](https://www.v2ex.com/t/697747) ![](assets/new.png)  
-- [2020-08-12-近期书荒，求推荐书看！](https://www.v2ex.com/t/697746) ![](assets/new.png)  
-- [2020-08-12-8G-内存的-mbp2018-idea-开发有点卡有没有什么解决路子？](https://www.v2ex.com/t/697745) ![](assets/new.png)  
-- [2020-08-12-拼多多校招内推，技术一般-30w-起？](https://www.v2ex.com/t/697744) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

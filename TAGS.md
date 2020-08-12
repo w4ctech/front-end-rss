@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-12 12:33:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 12:46:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -146,6 +146,7 @@
 - [【Nodejs技术栈】一文为您构建系统化的-NPM-知识！](https://www.ershicimi.com/p/fea5ae1edaee933a9ce2ea90688c5e4f)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【开发者头条】译-构建去中心化智能合约编程货币](https://toutiao.io/k/lusa3mv)
+- [【开发者头条】推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -170,7 +171,6 @@
 - [【前端大学】Node在大前端中的应用场景分析](https://www.ershicimi.com/p/7699685284374cceb17a58f26dc0bc29)
 - [【全栈前端精选】50行实现Node.js多进程分页爬虫](https://www.ershicimi.com/p/343a6b5d04d666d6feeb955b8c73dd95)
 - [【政采云前端团队】如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082)
-- [【程序员成长指北】Node.js---200-多行代码实现-Websocket-协议](https://www.ershicimi.com/p/8ef2e8b38849932dc70b7afccac95337)
 - [【Nodejs技术栈】CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b)
 - [【Nodejs技术栈】写在前面-—-为什么-2020-还要学-Node.js](https://www.ershicimi.com/p/29c03005193c1b449c3e2f8dd8661176)
 - [【Nodejs技术栈】赠书第-2-期｜Node.js-企业级应用开发实践](https://www.ershicimi.com/p/e15e541682fadd6c6f283df641910553)
@@ -451,15 +451,14 @@
 - [【前端宇宙】推荐一位实力超强的平安前端算法大佬：瓶子君](https://www.ershicimi.com/p/b9f4238d2dd4c83ebbbc2c99be4b821c)
 - [【前端瓶子君】写写源码、练练算法、看看文章、吹吹水，邀你加入啦](https://www.ershicimi.com/p/1e92c7e634f44076dbf145d92a9a5301)
 - [【前端瓶子君】从头开始复习算法之让你彻底搞清楚BFS和DFS](https://www.ershicimi.com/p/e413a9f238897d02fadf0d40160a09a7)
-- [【程序员成长指北】华为的前端全栈技术想学不？3个月，零费用，真香！](https://www.ershicimi.com/p/0e99c5a357f834a27adc4a78217ec1bb)
 - [【奇舞周刊】「查缺补漏」巩固你的HTTP知识体系](https://www.ershicimi.com/p/2c8fabfc84cbfe1048f6390ac2e400aa)
 - [【奇舞周刊】解读HTTP/2与HTTP/3-的新特性](https://www.ershicimi.com/p/1c4945de34d494a06711fe4925025195)
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【V2EX】一个疑问:-全栈工程师到底是否应该也熟悉机器学习那一套东西？](https://www.v2ex.com/t/697759)
 - [【V2EX】人工智能+跨境电商公司-求-Java-、产品经理（广告系统）、算法工程师、爬虫工程师](https://www.v2ex.com/t/697751)
-- [【开发者头条】推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4)
 - [【开发者头条】推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k)
+- [【开发者头条】推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

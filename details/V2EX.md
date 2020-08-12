@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-12 14:10:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 14:20:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-12-macOS-Big-Sur-无法启动-Adobe-After-Effects](https://www.v2ex.com/t/697806) 
 - [2020-08-12-招行&盒马满-20-减-20](https://www.v2ex.com/t/697805) 
 - [2020-08-12-有人用倍思那个氮化镓-3-口-65w-充电器给笔记本充电的吗？好像只能到-40w](https://www.v2ex.com/t/697803) 
 - [2020-08-12-955.WLB-不加班公司名单新增-14-家公司！](https://www.v2ex.com/t/697802) 
@@ -45,5 +46,3 @@
 - [2020-08-12-请问如何给.m4a-文件添加封面](https://www.v2ex.com/t/697760) 
 - [2020-08-12-一个疑问:-全栈工程师到底是否应该也熟悉机器学习那一套东西？](https://www.v2ex.com/t/697759) 
 - [2020-08-12-firefox-使用网页微信无法直接粘贴图片](https://www.v2ex.com/t/697758) 
-- [2020-08-12-在-macOS-上直接跑-Docker-的综合体验是不是还不如在跑在-VirtualBox-的虚拟机中?](https://www.v2ex.com/t/697757) 
-- [2020-08-12-北京-京东物流-Java-后端-部门急聘-内推](https://www.v2ex.com/t/697756) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 11:48:28，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 12:03:01，:rocket: 更新条数: +3303， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-08-11-境外输入新冠病例反弹-中东中亚务工回国人员为主](https://m.caixin.com/m/2020-08-12/101591994.html) ![](assets/new.png)  
 - [2020-08-11-湖北荆州一新冠患者治愈后再次复阳](http://m.china.caixin.com/m/2020-08-12/101591849.html) ![](assets/new.png)  
 - [2020-08-11-最新疫情：全国新冠累计确诊84737例-新增境外输入16例](http://m.china.caixin.com/m/2020-08-12/101591858.html) ![](assets/new.png)  
 - [2020-08-11-最新海外疫情：新冠感染者超2021万-累计死亡近74万](https://m.caixin.com/m/2020-08-12/101591953.html) ![](assets/new.png)  
@@ -81,7 +82,6 @@
 - [2020-08-08-大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html) ![](assets/new.png)  
 - [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
 - [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) ![](assets/new.png)  
-- [2020-08-06-香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html) ![](assets/new.png)  
 - [2020-08-06-【境内疫情观察】北京新发地聚集性疫情在院病例清零（8月6日）](http://m.database.caixin.com/m/2020-08-07/101589969.html) ![](assets/new.png)  
 - [2020-08-06-大流行手记|8月6日：亚欧多国疫情继续回升-越南建起方舱医院](https://m.caixin.com/m/2020-08-07/101589796.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-12-推荐一个开源软件-AlDente，适合长期插电使用的-macbook-用户](https://www.v2ex.com/t/697781) ![](assets/new.png)  
+- [2020-08-12-个人觉着社交媒体应归为酒类,有人不耐受有人耐受.不耐受的人容易上头,就跟喝大了一样.](https://www.v2ex.com/t/697780) ![](assets/new.png)  
+- [2020-08-12-quanx-始终用不了](https://www.v2ex.com/t/697779) ![](assets/new.png)  
+- [2020-08-12-对象存储既然没有目录概念，那浏览器端的树状结构怎么实现的？](https://www.v2ex.com/t/697778) ![](assets/new.png)  
+- [2020-08-12-有没有-tiddly-wiki-的群聊?](https://www.v2ex.com/t/697777) ![](assets/new.png)  
 - [2020-08-12-前后端分离的项目，可以做插件在线安装这样的功能吗](https://www.v2ex.com/t/697776) ![](assets/new.png)  
 - [2020-08-12-Adobe-＋重庆重橙网络科技有限公司-的嘴脸恶心到极致-"此-Flash-Player-与您的地区不相容"](https://www.v2ex.com/t/697775) ![](assets/new.png)  
 - [2020-08-12-主板-RTC-时间存在-CMOS-里，如果装机过程没网络，启动系统时间会是正确的吗](https://www.v2ex.com/t/697774) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-12-惊！某人的-macOS-磁盘竟变成了这样](https://www.v2ex.com/t/697763) ![](assets/new.png)  
 - [2020-08-12-leetcode-Amazon-面试题：格雷编码](https://www.v2ex.com/t/697761) ![](assets/new.png)  
 - [2020-08-12-请问如何给.m4a-文件添加封面](https://www.v2ex.com/t/697760) ![](assets/new.png)  
-- [2020-08-12-一个疑问:-全栈工程师到底是否应该也熟悉机器学习那一套东西？](https://www.v2ex.com/t/697759) ![](assets/new.png)  
-- [2020-08-12-firefox-使用网页微信无法直接粘贴图片](https://www.v2ex.com/t/697758) ![](assets/new.png)  
-- [2020-08-12-在-macOS-上直接跑-Docker-的综合体验是不是还不如在跑在-VirtualBox-的虚拟机中?](https://www.v2ex.com/t/697757) ![](assets/new.png)  
-- [2020-08-12-北京-京东物流-Java-后端-部门急聘-内推](https://www.v2ex.com/t/697756) ![](assets/new.png)  
-- [2020-08-12-根据步骤得写-python3-解密代码](https://www.v2ex.com/t/697754) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,8 +1129,8 @@
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  
-- [2020-08-12-如何替公司省下数千万勒索费用](https://toutiao.io/k/9jwd117) ![](assets/new.png)  
 - [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) ![](assets/new.png)  
+- [2020-08-12-如何替公司省下数千万勒索费用](https://toutiao.io/k/9jwd117) ![](assets/new.png)  
 - [2020-08-12-初中级前端-JavaScript-自测清单（二）](https://toutiao.io/k/6zau667) ![](assets/new.png)  
 - [2020-08-12-译-构建去中心化智能合约编程货币](https://toutiao.io/k/lusa3mv) ![](assets/new.png)  
 - [2020-08-12-Python-批量合并-Excel](https://toutiao.io/k/18e4bzp) ![](assets/new.png)  

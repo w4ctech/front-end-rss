@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 08:20:54，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 08:31:27，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,8 +1052,9 @@
 </summary>
 
 
+- [2020-08-12-逃离大眼怪](https://www.v2ex.com/t/697715) ![](assets/new.png)  
 - [2020-08-12-求推荐健身应用-Keep-的替代品](https://www.v2ex.com/t/697714) ![](assets/new.png)  
-- [2020-08-12-如何评价-2020-年-8-月-11-日晚发布的小米透明电视？-顺便问下这项目怎么样？](https://www.v2ex.com/t/697713) ![](assets/new.png)  
+- [2020-08-12-小米透明电视到底值不值得买](https://www.v2ex.com/t/697713) ![](assets/new.png)  
 - [2020-08-12-最近电影荒推荐推荐恐怖电影吧？](https://www.v2ex.com/t/697712) ![](assets/new.png)  
 - [2020-08-12-经过一年时间没改动，重新发布小程序升级了-2.0，不知道以前看过的人还记得不](https://www.v2ex.com/t/697709) ![](assets/new.png)  
 - [2020-08-12-Macbook-Pro-对外接显示器强制开启-HiDPI-会不会导致-CPU-资源浪费？](https://www.v2ex.com/t/697707) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-12-房产契税税率将升至-3％至-5％](https://www.v2ex.com/t/697691) ![](assets/new.png)  
 - [2020-08-12-救救孩子2021-应届生秋招简历求批求建议](https://www.v2ex.com/t/697690) ![](assets/new.png)  
 - [2020-08-12-成都游戏行业的-小伙伴来看下，-U3D（HC4）、erlang、关卡策划](https://www.v2ex.com/t/697689) ![](assets/new.png)  
-- [2020-08-12-上海-阿里巴巴本地生活饿了么企业订餐招前端啦](https://www.v2ex.com/t/697688) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

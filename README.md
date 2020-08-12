@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 11:18:25，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 11:31:44，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-12-主板-RTC-时间存在-CMOS-里，如果装机过程没网络，启动系统时间会是正确的吗](https://www.v2ex.com/t/697774) ![](assets/new.png)  
+- [2020-08-12-创意-VS-Code-插件制作，虚拟二次元人物陪你写稿](https://www.v2ex.com/t/697773) ![](assets/new.png)  
+- [2020-08-12-现在买-AW5-是不是挺亏的？](https://www.v2ex.com/t/697772) ![](assets/new.png)  
 - [2020-08-12-北京-君逸招-0-3-年项目经理/助理](https://www.v2ex.com/t/697770) ![](assets/new.png)  
 - [2020-08-12-如果入职后短时间内，突然收到一家更好的-offer-怎么办？](https://www.v2ex.com/t/697769) ![](assets/new.png)  
 - [2020-08-12-还是-15-年-13-寸的-MacBook-Pro-键盘问题，内置键盘打一个字母-r，会同时出两个字母-fr](https://www.v2ex.com/t/697768) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-12-根据步骤得写-python3-解密代码](https://www.v2ex.com/t/697754) ![](assets/new.png)  
 - [2020-08-12-这个-bug-让我毫无头绪啊](https://www.v2ex.com/t/697753) ![](assets/new.png)  
 - [2020-08-12-鉴于收费摄像头不好用，想做个智能摄像头](https://www.v2ex.com/t/697752) ![](assets/new.png)  
-- [2020-08-12-人工智能+跨境电商公司-求-Java-、产品经理（广告系统）、算法工程师、爬虫工程师](https://www.v2ex.com/t/697751) ![](assets/new.png)  
-- [2020-08-12-为什么淘宝网页总是需要重新登录，而客户端则不需要](https://www.v2ex.com/t/697749) ![](assets/new.png)  
-- [2020-08-12-旅游资源和质量讨论](https://www.v2ex.com/t/697748) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-12 11:18:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 11:31:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -461,6 +461,7 @@
 - [【V2EX】一个疑问:-全栈工程师到底是否应该也熟悉机器学习那一套东西？](https://www.v2ex.com/t/697759)
 - [【V2EX】人工智能+跨境电商公司-求-Java-、产品经理（广告系统）、算法工程师、爬虫工程师](https://www.v2ex.com/t/697751)
 - [【V2EX】原创算法题求助。](https://www.v2ex.com/t/697734)
+- [【开发者头条】推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k)
 - [【开发者头条】推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

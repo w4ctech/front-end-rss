@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-12 16:33:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-12 16:46:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2487,16 +2487,14 @@
 - [2020-08-12-百亿关系链，架构如何设计？](https://toutiao.io/k/1waq4xr) 
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) 
 - [2020-08-12-Python-批量合并-Excel](https://toutiao.io/k/18e4bzp) 
-- [2020-08-12-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
-- [2020-08-12-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
-- [2020-08-12-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) 
-- [2020-08-12-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
-- [2020-08-12-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
-- [2020-08-12-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) 
+- [2020-08-12-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
 - [2020-08-12-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) 
-- [2020-08-12-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
 - [2020-08-12-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) 
+- [2020-08-12-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
 - [2020-08-12-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
+- [2020-08-12-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) 
+- [2020-08-12-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) 
+- [2020-08-12-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
 - [2020-08-11-定了!渗透测试工程师线下就业班秋季报名正式开启](https://sec.thief.one/article_content?a_id=9b0978d0c2ff2dac204461964441760a) 
 - [2020-08-11-中奖名单-|-前方锦鲤出没,速来围观!!!](https://sec.thief.one/article_content?a_id=f819fec72a8c6cdb9481e335afc2c258) 
 - [2020-08-11-BCTF-AutoPwn-第二站打响!-护网先锋战队夺得冠军席位](https://sec.thief.one/article_content?a_id=f8f295ec40eb6f288b1624cc236e1ceb) 

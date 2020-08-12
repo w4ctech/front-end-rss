@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-12 10:02:59，:rocket: 更新条数: +3295， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-12 10:10:03，:rocket: 更新条数: +3295， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-12-鉴于收费摄像头不好用，想做个智能摄像头](https://www.v2ex.com/t/697752) ![](assets/new.png)  
+- [2020-08-12-人工智能+跨境电商公司-求-Java-、产品经理（广告系统）、算法工程师、爬虫工程师](https://www.v2ex.com/t/697751) ![](assets/new.png)  
 - [2020-08-12-为什么淘宝网页总是需要重新登录，而客户端则不需要](https://www.v2ex.com/t/697749) ![](assets/new.png)  
 - [2020-08-12-旅游资源和质量讨论](https://www.v2ex.com/t/697748) ![](assets/new.png)  
 - [2020-08-12-leetcode-刷题专用的一个-c-数据结构库](https://www.v2ex.com/t/697747) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-12-新买的-mbp16-电池这样正常吗](https://www.v2ex.com/t/697730) ![](assets/new.png)  
 - [2020-08-12-微博强制开启了-登陆保护-怎么取消啊](https://www.v2ex.com/t/697729) ![](assets/new.png)  
 - [2020-08-12-杭州有没有推荐的个人住宅软装设计师](https://www.v2ex.com/t/697728) ![](assets/new.png)  
-- [2020-08-12-大家知道-tb-运营商网络锁官解的原理是什么吗？](https://www.v2ex.com/t/697725) ![](assets/new.png)  
-- [2020-08-12-内推-美团到家事业群闪购平台--Java-工程师/技术专家](https://www.v2ex.com/t/697722) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,16 +1116,16 @@
 
 - [2020-08-12-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
 - [2020-08-12-代码优化实战：我又优化了一百个-if-else](https://toutiao.io/k/yv0hdsj) ![](assets/new.png)  
-- [2020-08-12-创建高可用-RabbitMQ-集群：SKlinux-服务器维护](https://toutiao.io/k/148cddl) ![](assets/new.png)  
 - [2020-08-12-IDEA-奇淫小技巧](https://toutiao.io/k/8pelfwx) ![](assets/new.png)  
+- [2020-08-12-创建高可用-RabbitMQ-集群：SKlinux-服务器维护](https://toutiao.io/k/148cddl) ![](assets/new.png)  
 - [2020-08-12-上帝视角看-TypeScript](https://toutiao.io/k/ufd8g9h) ![](assets/new.png)  
 - [2020-08-12-译-简单介绍一下-Dart](https://toutiao.io/k/aeg5sis) ![](assets/new.png)  
 - [2020-08-12-重走机器学习之路：形而上者谓之道](https://toutiao.io/k/bh15qjc) ![](assets/new.png)  
 - [2020-08-12-Midway-Serverless-能力介绍与设计分析](https://toutiao.io/k/s49ocpe) ![](assets/new.png)  
 - [2020-08-12-译-StyleFlow：一张图片，属性解耦的完美-72-变](https://toutiao.io/k/t3k62pz) ![](assets/new.png)  
 - [2020-08-12-6个小技巧，教你解锁-“增长黑客”](https://toutiao.io/k/9pa1e10) ![](assets/new.png)  
-- [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-红蓝对抗之域名搜集方法总结](https://toutiao.io/k/wjnyrcs) ![](assets/new.png)  
+- [2020-08-12-敏捷交付中的自动化测试](https://toutiao.io/k/4yzji8q) ![](assets/new.png)  
 - [2020-08-12-Spring-事务的传播行为案例分析](https://toutiao.io/k/lvuk504) ![](assets/new.png)  
 - [2020-08-12-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/hn7gn1l) ![](assets/new.png)  
 - [2020-08-12-使用-systemd-detect-virt-判断-Linux-是否运行在虚拟机中](https://toutiao.io/k/5dmt30z) ![](assets/new.png)  

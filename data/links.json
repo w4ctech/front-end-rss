@@ -12637,6 +12637,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "民航局：已与20个国家恢复定期客运航班",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidKXRyVbtk8U52ZEgOhMi200813&isfromapp=1",
+        "date": "2020-08-13"
+      },
+      {
         "title": "利比里亚副总统霍华德·泰勒确诊新冠肺炎",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3pCW3Dfq3tntzlzv6XCK200813&isfromapp=1",
         "date": "2020-08-13"
@@ -12647,18 +12652,13 @@
         "date": "2020-08-13"
       },
       {
+        "title": "截至8月12日24时新型冠状病毒肺炎疫情最新情况",
+        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/413286.jhtml",
+        "date": "2020-08-13"
+      },
+      {
         "title": "抗击疫情 秘鲁17日起重新实施每周日全国强制隔离政策",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtictTi3r0RHjCqR5ITGDtb200813&isfromapp=1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "美国多位公共卫生专家：疫情信息统计新规损害数据完整性并给医院造成不必要负担",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS05rd56f8ufajdwK6Fz3200813&isfromapp=1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "​香港机场管理局：内地出发旅客8月15日至10月15日可在香港机场转机或过境",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK7BKXECFZR9CDoqy8AUW200813&isfromapp=1",
         "date": "2020-08-12"
       }
     ]
@@ -15789,6 +15789,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Nebula Graph 特性讲解——RocksDB 统计信息的收集和展示",
+        "link": "https://www.v2ex.com/t/697915",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "想换个新手机，预算 3000-6000，来懂得推荐推荐",
+        "link": "https://www.v2ex.com/t/697914",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "鉴于中国拆迁严重，有一个不成熟的想法",
+        "link": "https://www.v2ex.com/t/697913",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "chrome os 能装在普通笔记本上么？",
+        "link": "https://www.v2ex.com/t/697912",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "广州 CVTE 教育事业部 [安卓系统] [ Java ][c++] [15k+] 16 薪",
+        "link": "https://www.v2ex.com/t/697909",
+        "date": "2020-08-13"
+      },
+      {
         "title": "aid-learning 用了什么技术，手机上的 Linux 体验和原生 APP 一样",
         "link": "https://www.v2ex.com/t/697908",
         "date": "2020-08-13"
@@ -15946,36 +15971,6 @@
       {
         "title": "Python 如何实现 connect 隧道请求？",
         "link": "https://www.v2ex.com/t/697868",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "c++ 可以通过 dump 或 core 调试分析出哪个线程修改了变量吗？",
-        "link": "https://www.v2ex.com/t/697865",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "正版 Windows 10 家庭/专业版 正版操作系统 2 折购买",
-        "link": "https://www.v2ex.com/t/697864",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "今天查文档才发现 layui 社区关闭了，有知道内情的吗？",
-        "link": "https://www.v2ex.com/t/697863",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "Google 面试题：最大假期天数(如何获得最长的假期）",
-        "link": "https://www.v2ex.com/t/697861",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "城西银泰，地铁五号线萍水街站，找合租室友。",
-        "link": "https://www.v2ex.com/t/697860",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "请问一个 rsa 加密问题",
-        "link": "https://www.v2ex.com/t/697859",
         "date": "2020-08-13"
       }
     ]
@@ -16193,58 +16188,13 @@
         "date": "2020-08-13"
       },
       {
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-13"
+      },
+      {
         "title": "[推荐] 字节跳动表格存储中的事务",
         "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
         "date": "2020-08-13"
       },
       {
@@ -16253,8 +16203,43 @@
         "date": "2020-08-13"
       },
       {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-13"
+      },
+      {
         "title": "[推荐] 架构思维其实就那么回事",
         "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
         "date": "2020-08-13"
       },
       {
@@ -16263,8 +16248,18 @@
         "date": "2020-08-13"
       },
       {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
         "date": "2020-08-13"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 22:33:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 22:46:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,7 +32,6 @@
 - [2020-08-11-『1W7字中高级前端面试必知必会』终极版](https://www.ershicimi.com/p/20ce725bd473667ae5ddd1742165d8cd) 
 - [2020-08-05-2万字！90个前端开发面试必问基础大总结](https://www.ershicimi.com/p/29bfa617feb719e3f7063eb358232dbe) 
 - [2020-07-30-蚂蚁、字节、滴滴面试经历总结都已过](https://www.ershicimi.com/p/8dc90b9888f39f8df50a9ce0c71726dd) 
-- [2020-07-27-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/8f5cb92d83016cc2cea02da1fb0fe8c2) 
 - [2020-08-07-今年面试，谈“钱”还合适吗？](https://www.ershicimi.com/p/d7869e53c2ab1c0b4fd9a4519559ef72) 
 - [2020-08-04-如何在面试官面前展示自己--经典AI面试题限时免费领取](https://www.ershicimi.com/p/4958378b45876dfc1ffe26a0c47e19eb) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 

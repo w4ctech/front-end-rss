@@ -12637,6 +12637,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "利比里亚副总统霍华德·泰勒确诊新冠肺炎",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3pCW3Dfq3tntzlzv6XCK200813&isfromapp=1",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "美国儿童新冠感染者激增",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8TZq0b0lgJKOFH0hGqnd200813&isfromapp=1",
+        "date": "2020-08-13"
+      },
+      {
         "title": "抗击疫情 秘鲁17日起重新实施每周日全国强制隔离政策",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtictTi3r0RHjCqR5ITGDtb200813&isfromapp=1",
         "date": "2020-08-12"
@@ -12649,16 +12659,6 @@
       {
         "title": "​香港机场管理局：内地出发旅客8月15日至10月15日可在香港机场转机或过境",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK7BKXECFZR9CDoqy8AUW200813&isfromapp=1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "西甲毕尔巴鄂竞技俱乐部6名球员新冠检测呈阳性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikq2K9hXKaVlY2OLe2tpQ200812&isfromapp=1",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "印度传统医学部部长纳伊克确诊感染新冠肺炎",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiupRUOXf88b4tOHs76OjP200812&isfromapp=1",
         "date": "2020-08-12"
       }
     ]
@@ -15789,6 +15789,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Glide 加载图片失败重新加载的问题",
+        "link": "https://www.v2ex.com/t/697904",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "一份在 Python 里面写 shader 或者在博客里面写 shader 的教程",
+        "link": "https://www.v2ex.com/t/697902",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "女朋友被公司 IT 说剽窃公司数据，我真服了",
+        "link": "https://www.v2ex.com/t/697901",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "很好奇那些第三方做直播数据服务的，他们的数据都从哪里来的？",
+        "link": "https://www.v2ex.com/t/697900",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "联想小新太扯了吧",
+        "link": "https://www.v2ex.com/t/697898",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "有人用过新一代前端一体化工程工具 Rome 么？",
+        "link": "https://www.v2ex.com/t/697897",
+        "date": "2020-08-13"
+      },
+      {
         "title": "请教一个百度搜索页面获取关键字的问题",
         "link": "https://www.v2ex.com/t/697895",
         "date": "2020-08-13"
@@ -15946,46 +15976,6 @@
       {
         "title": "求解同一 IP-localhost 下不同端口号的应用程序用 iframe 嵌入页面跨域问题",
         "link": "https://www.v2ex.com/t/697855",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "百度真的是有史以来最最最最最烂的搜索引擎",
-        "link": "https://www.v2ex.com/t/697854",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "swaggerUi 的使用",
-        "link": "https://www.v2ex.com/t/697853",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "ikbc c87 和 c200 有什么区别？",
-        "link": "https://www.v2ex.com/t/697852",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "vue 使用 backgroundImage 无法显示静态图片是怎么回事？",
-        "link": "https://www.v2ex.com/t/697851",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "MBP 16 升级 big sur beta 4 之后 支持 vp9 编码了？",
-        "link": "https://www.v2ex.com/t/697850",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "当前最好用的安卓是哪款呢？",
-        "link": "https://www.v2ex.com/t/697849",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "各位有没有什么长久坐在电脑前保护眼睛的经验和方法？",
-        "link": "https://www.v2ex.com/t/697848",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "求推荐管理个人观影记录的开源系统，简单好用的.",
-        "link": "https://www.v2ex.com/t/697847",
         "date": "2020-08-13"
       }
     ]
@@ -16183,73 +16173,23 @@
         "date": "2020-08-13"
       },
       {
-        "title": "什么是见解、如何实现算法见解？（Mixlab 智能可视化系列）",
-        "link": "https://toutiao.io/k/ccjizo9",
-        "date": "2020-08-13"
-      },
-      {
         "title": "Redis 集合相关命令",
         "link": "https://toutiao.io/k/t5ft4w8",
         "date": "2020-08-13"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
+        "title": "聊聊安全",
+        "link": "https://toutiao.io/k/sdy7nuy",
         "date": "2020-08-13"
       },
       {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
+        "title": "什么是见解、如何实现算法见解？（Mixlab 智能可视化系列）",
+        "link": "https://toutiao.io/k/ccjizo9",
         "date": "2020-08-13"
       },
       {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
+        "title": "Redis 作者 Antirez 与 Contributor Mattsta 之间关于 CRC 的 Battle",
+        "link": "https://toutiao.io/k/c8gp8hk",
         "date": "2020-08-13"
       },
       {
@@ -16258,13 +16198,73 @@
         "date": "2020-08-13"
       },
       {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
         "date": "2020-08-13"
       },
       {
         "title": "[推荐] 技术管理的世界观",
         "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-13"
       }
     ]

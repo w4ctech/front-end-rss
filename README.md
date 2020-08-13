@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 03:09:41，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 03:19:59，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-13-利比里亚副总统霍华德·泰勒确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3pCW3Dfq3tntzlzv6XCK200813&isfromapp=1) ![](assets/new.png)  
+- [2020-08-13-美国儿童新冠感染者激增](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8TZq0b0lgJKOFH0hGqnd200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-抗击疫情-秘鲁17日起重新实施每周日全国强制隔离政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtictTi3r0RHjCqR5ITGDtb200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-美国多位公共卫生专家：疫情信息统计新规损害数据完整性并给医院造成不必要负担](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS05rd56f8ufajdwK6Fz3200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-12-​香港机场管理局：内地出发旅客8月15日至10月15日可在香港机场转机或过境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK7BKXECFZR9CDoqy8AUW200813&isfromapp=1) ![](assets/new.png)  
-- [2020-08-12-西甲毕尔巴鄂竞技俱乐部6名球员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikq2K9hXKaVlY2OLe2tpQ200812&isfromapp=1) ![](assets/new.png)  
-- [2020-08-12-印度传统医学部部长纳伊克确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiupRUOXf88b4tOHs76OjP200812&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-13-Glide-加载图片失败重新加载的问题](https://www.v2ex.com/t/697904) ![](assets/new.png)  
+- [2020-08-13-一份在-Python-里面写-shader-或者在博客里面写-shader-的教程](https://www.v2ex.com/t/697902) ![](assets/new.png)  
+- [2020-08-13-女朋友被公司-IT-说剽窃公司数据，我真服了](https://www.v2ex.com/t/697901) ![](assets/new.png)  
+- [2020-08-13-很好奇那些第三方做直播数据服务的，他们的数据都从哪里来的？](https://www.v2ex.com/t/697900) ![](assets/new.png)  
+- [2020-08-13-联想小新太扯了吧](https://www.v2ex.com/t/697898) ![](assets/new.png)  
+- [2020-08-13-有人用过新一代前端一体化工程工具-Rome-么？](https://www.v2ex.com/t/697897) ![](assets/new.png)  
 - [2020-08-13-请教一个百度搜索页面获取关键字的问题](https://www.v2ex.com/t/697895) ![](assets/new.png)  
 - [2020-08-13-想换-Android-机，但是苹果的生态问题如何解决？有替代方案吗？](https://www.v2ex.com/t/697893) ![](assets/new.png)  
 - [2020-08-13-dnspod.com-的邮件功能是不是坏了？](https://www.v2ex.com/t/697892) ![](assets/new.png)  
@@ -1066,12 +1072,6 @@
 - [2020-08-13-因-CCIE-改版，有没有相关的资料分享？](https://www.v2ex.com/t/697882) ![](assets/new.png)  
 - [2020-08-13-这几种软件安装了，电脑用起来都比别人快几倍~](https://www.v2ex.com/t/697881) ![](assets/new.png)  
 - [2020-08-13-构建系统工程师/工具链/流水线工程师（-Python-/Groovy/C++-），地点：上海，薪水-OPEN，不加班](https://www.v2ex.com/t/697880) ![](assets/new.png)  
-- [2020-08-13-有没有优质的管理-会员到期提醒-的-app-或者公众号？](https://www.v2ex.com/t/697879) ![](assets/new.png)  
-- [2020-08-13-iPhone-xs-泡水后第三方-app-无法使用麦克风耳机正常](https://www.v2ex.com/t/697878) ![](assets/new.png)  
-- [2020-08-13-现在这个配置还能怎么升级？](https://www.v2ex.com/t/697877) ![](assets/new.png)  
-- [2020-08-13-现在的应届生都这么猛吗？](https://www.v2ex.com/t/697876) ![](assets/new.png)  
-- [2020-08-13-阿里云看下](https://www.v2ex.com/t/697875) ![](assets/new.png)  
-- [2020-08-13-mbp-接口不够用了，有没有雷电-3-转-Type-C-的拓展坞](https://www.v2ex.com/t/697874) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,10 +1130,10 @@
 - [2020-08-13-信也科技的-Flutter-实践之路](https://toutiao.io/k/2y0cvix) ![](assets/new.png)  
 - [2020-08-13-k8s-client-go-源码剖析（一）](https://toutiao.io/k/a5ik27m) ![](assets/new.png)  
 - [2020-08-13-分布式锁带来的-“一致性”-问题](https://toutiao.io/k/bffrhwg) ![](assets/new.png)  
-- [2020-08-13-什么是见解、如何实现算法见解？（Mixlab-智能可视化系列）](https://toutiao.io/k/ccjizo9) ![](assets/new.png)  
 - [2020-08-13-Redis-集合相关命令](https://toutiao.io/k/t5ft4w8) ![](assets/new.png)  
-- [2020-08-13-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-13-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
+- [2020-08-13-聊聊安全](https://toutiao.io/k/sdy7nuy) ![](assets/new.png)  
+- [2020-08-13-什么是见解、如何实现算法见解？（Mixlab-智能可视化系列）](https://toutiao.io/k/ccjizo9) ![](assets/new.png)  
+- [2020-08-13-Redis-作者-Antirez-与-Contributor-Mattsta-之间关于-CRC-的-Battle](https://toutiao.io/k/c8gp8hk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

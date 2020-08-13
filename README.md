@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 11:48:39，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 12:03:06，:rocket: 更新条数: +3303， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
+- [2020-08-12-新发地8月15日起正式复市-不再对个人消费者开放](https://m.caixin.com/m/2020-08-13/101592402.html) ![](assets/new.png)  
 - [2020-08-12-最新疫情：全国新冠累计确诊84756例-新增境外输入11例](http://m.china.caixin.com/m/2020-08-13/101592209.html) ![](assets/new.png)  
 - [2020-08-12-最新海外疫情：新冠感染者超2049万-累计死亡近74.5万](https://m.caixin.com/m/2020-08-13/101592295.html) ![](assets/new.png)  
 - [2020-08-12-【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-09-澳大利亚单日新增死亡病例创新高-新西兰连续百日无社区传播](http://m.international.caixin.com/m/2020-08-10/101590950.html) ![](assets/new.png)  
 - [2020-08-09-美国疫情现趋缓迹象-新增和死亡病例7日均值双双下行](http://m.international.caixin.com/m/2020-08-10/101590833.html) ![](assets/new.png)  
 - [2020-08-08-【境内疫情观察】新疆新增15例本土病例（8月8日）](http://m.database.caixin.com/m/2020-08-09/101590640.html) ![](assets/new.png)  
-- [2020-08-08-大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -761,6 +761,12 @@
 </summary>
 
 
+- [2020-08-13-React17新特性：启发式更新算法](https://www.ershicimi.com/p/e8426b680d9e54dd7b0e8e2bf99ed27a) ![](assets/new.png)  
+- [2020-08-13-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/202b21f9d90c1818d553dab44f4fb92e) ![](assets/new.png)  
+- [2020-08-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4b4bbc116c4b2037194f5c0695a61d7d) ![](assets/new.png)  
+- [2020-08-12-Typescript-设计模式之工厂方法](https://www.ershicimi.com/p/d2844298970d62f62810c7e1b62503be) ![](assets/new.png)  
+- [2020-08-12-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/84b7e68a494aa11cd1e9bdbc2d940eed) ![](assets/new.png)  
+- [2020-08-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/ab855c73f377eae23b8ee14d79cd9083) ![](assets/new.png)  
 - [2020-08-11-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/3730a93bc041ddb6d24663ae9640e4c0) ![](assets/new.png)  
 - [2020-08-11-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/b8001da66920d15bffe0222d0523d534) ![](assets/new.png)  
 - [2020-08-10-如何写技术文章](https://www.ershicimi.com/p/6a7b49e3b7e50d9350b85884aba9dd4b) ![](assets/new.png)  
@@ -775,12 +781,6 @@
 - [2020-08-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/76189a0a1f3ba26bc46c4d82192e7253) ![](assets/new.png)  
 - [2020-08-04-如何学习React源码](https://www.ershicimi.com/p/e2c173d807de9fd12e90b51f269c7401) ![](assets/new.png)  
 - [2020-08-04-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4a3d870adc54773237476cc960c38bbe) ![](assets/new.png)  
-- [2020-08-03-利用-JS-实现多种图片相似度算法](https://www.ershicimi.com/p/560830dcf48ace0ef9cc827ad409f3f4) ![](assets/new.png)  
-- [2020-08-03-input/change/composition/keydown事件详解](https://www.ershicimi.com/p/5e6fe42cf3c3662621ea354df66a4498) ![](assets/new.png)  
-- [2020-08-03-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/c0fec69e82b38c277c301dc975dadd3c) ![](assets/new.png)  
-- [2020-08-01-React-Hooks-原理与最佳实践](https://www.ershicimi.com/p/cb479045ae6e3d08befea8f4bdf86edb) ![](assets/new.png)  
-- [2020-08-01-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3dc5c55b95d8f7a182b7afdc189940b2) ![](assets/new.png)  
-- [2020-07-31-奇舞周刊第-358-期：探索前端领域技术和业务价值](https://www.ershicimi.com/p/30a8b831821cd7d79f3e03af91f43e29) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-13-央视痛批大胃王，大家有啥看法？](https://www.v2ex.com/t/698072) ![](assets/new.png)  
 - [2020-08-13-免费招行话费劵-25-以上](https://www.v2ex.com/t/698071) ![](assets/new.png)  
 - [2020-08-13-1-元秒杀-大厂系统设计真题考点解析打包福利](https://www.v2ex.com/t/698070) ![](assets/new.png)  
 - [2020-08-13-macbook-pro-13-2017-带-4k60hz-问题彻底解决，-eGPU-真香，我来交作业了](https://www.v2ex.com/t/698068) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-13-安卓怎么读取第三方-APP-自定义通知栏的字符串？](https://www.v2ex.com/t/698047) ![](assets/new.png)  
 - [2020-08-13-黄金，科技股，比特币和病毒](https://www.v2ex.com/t/698045) ![](assets/new.png)  
 - [2020-08-13-vimer,-开发了一个与服务器端同步插件,-Github-大部分都是-toml-配置,-写了个-json-配置](https://www.v2ex.com/t/698043) ![](assets/new.png)  
-- [2020-08-13-有没有简单工具-实现含有某关键词-筛选出来并可复制，除了-excel](https://www.v2ex.com/t/698042) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

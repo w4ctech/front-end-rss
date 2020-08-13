@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 10:33:44，:rocket: 更新条数: +3305， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 10:46:23，:rocket: 更新条数: +3306， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-13-🔥新加坡-技术移民机会-知名海外直播产品公司，招聘高级-Computer-Graphics-算法工程师，网络传输算法工程师，机器学习工程师（网络传输方向）等高级算法...](https://www.v2ex.com/t/698056) ![](assets/new.png)  
+- [2020-08-13-OptaPlanner-使用问题](https://www.v2ex.com/t/698055) ![](assets/new.png)  
 - [2020-08-13-迁移-docker-宿主机，直接打包-/var/lib/docker-复制过去可行吗？](https://www.v2ex.com/t/698054) ![](assets/new.png)  
 - [2020-08-13-Notion-表格生成器-——-一小时学习-VUE-的产物](https://www.v2ex.com/t/698053) ![](assets/new.png)  
 - [2020-08-13-PHP-中如何定位内存泄露的代码所在行呢？](https://www.v2ex.com/t/698052) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-13-请教-springboot-后台接受-urlEncode-这种数据时，如何可以较好的接受参数](https://www.v2ex.com/t/698036) ![](assets/new.png)  
 - [2020-08-13-青岛-伦敦“专机”，以及亮点首都航空快速通关卡](https://www.v2ex.com/t/698035) ![](assets/new.png)  
 - [2020-08-13-译-什么是-Memoization？（难道是记住？）](https://www.v2ex.com/t/698034) ![](assets/new.png)  
-- [2020-08-13-U1S1，-B-站这样是不是太严格了？](https://www.v2ex.com/t/698032) ![](assets/new.png)  
-- [2020-08-13-群晖-NAS-里的硬盘，到底应不应该设置休眠](https://www.v2ex.com/t/698031) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,8 +1121,8 @@
 - [2020-08-13-Redis-模块机制：模块编写篇](https://toutiao.io/k/exlkydf) ![](assets/new.png)  
 - [2020-08-13-Kylin-最佳实践：爱奇艺如何处理千亿级数据](https://toutiao.io/k/7u3df9c) ![](assets/new.png)  
 - [2020-08-13-如何有效防止-SQL-注入攻击](https://toutiao.io/k/b819euj) ![](assets/new.png)  
-- [2020-08-13-为什么-CPU-访问硬盘很慢](https://toutiao.io/k/5wzucah) ![](assets/new.png)  
 - [2020-08-13-Excelize-2.3.0-发布，Go-语言-Excel-文档基础库](https://toutiao.io/k/sj4cece) ![](assets/new.png)  
+- [2020-08-13-为什么-CPU-访问硬盘很慢](https://toutiao.io/k/5wzucah) ![](assets/new.png)  
 - [2020-08-13-是谁在调用我？使用-arthas-+-jprofiler-做复杂链路分析](https://toutiao.io/k/ywhgjel) ![](assets/new.png)  
 - [2020-08-13-BoltDB-1.3.0-实现分析（四）](https://toutiao.io/k/bjs9uxi) ![](assets/new.png)  
 - [2020-08-13-软件测试中的-18-个难题](https://toutiao.io/k/21twbut) ![](assets/new.png)  

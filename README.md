@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 23:19:12，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 23:31:44，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1078,6 +1078,7 @@
 - [2020-08-13-2020-年，对-Ubuntu-支持良好的笔记本，求推荐](https://www.v2ex.com/t/698123) ![](assets/new.png)  
 - [2020-08-13-因为忘了-apple-pay-密码，导致-iPhone-被停用了。。。。](https://www.v2ex.com/t/698122) ![](assets/new.png)  
 - [2020-08-13-iPad-“屏幕使用时间”疑问](https://www.v2ex.com/t/698121) ![](assets/new.png)  
+- [2020-08-13-UI/UX-远程全职设计师（急招）|-月薪-10k-15k-RMB](https://www.v2ex.com/t/698120) ![](assets/new.png)  
 - [2020-08-13-我有个不成熟的想法，关于-macbook-pro-2019-15"散热](https://www.v2ex.com/t/698119) ![](assets/new.png)  
 - [2020-08-13-大量-HTTP-请求调第三方慢接口引起的-fd-耗尽问题](https://www.v2ex.com/t/698116) ![](assets/new.png)  
 - [2020-08-13-信息安全-开放几个课程](https://www.v2ex.com/t/698115) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-13-apple-watch-s4、s5-会不会通过固件更新支持血氧检测？我听说它们的传感器是支持血氧检测的](https://www.v2ex.com/t/698102) ![](assets/new.png)  
 - [2020-08-13-有沒有拼-2T-icloud-Family-Storage-的？美區](https://www.v2ex.com/t/698101) ![](assets/new.png)  
 - [2020-08-13-今年的确定性机会](https://www.v2ex.com/t/698098) ![](assets/new.png)  
-- [2020-08-13-pxel3a-怎么样有没有大佬分享下实际感受](https://www.v2ex.com/t/698096) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,8 +1150,8 @@
 - [2020-08-13-Redis-作者-Antirez-与-Contributor-Mattsta-之间关于-CRC-的-Battle](https://toutiao.io/k/c8gp8hk) ![](assets/new.png)  
 - [2020-08-13-软件测试中的-18-个难题](https://toutiao.io/k/21twbut) ![](assets/new.png)  
 - [2020-08-13-信也科技的-Flutter-实践之路](https://toutiao.io/k/2y0cvix) ![](assets/new.png)  
-- [2020-08-13-Redis-集合相关命令](https://toutiao.io/k/t5ft4w8) ![](assets/new.png)  
 - [2020-08-13-k8s-client-go-源码剖析（一）](https://toutiao.io/k/a5ik27m) ![](assets/new.png)  
+- [2020-08-13-Redis-集合相关命令](https://toutiao.io/k/t5ft4w8) ![](assets/new.png)  
 - [2020-08-13-什么是见解、如何实现算法见解？（Mixlab-智能可视化系列）](https://toutiao.io/k/ccjizo9) ![](assets/new.png)  
 - [2020-08-13-聊聊安全](https://toutiao.io/k/sdy7nuy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

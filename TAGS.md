@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-13 11:17:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 11:31:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -144,6 +144,7 @@
 - [【前端瓶子君】在NPM上发布beta或alpha版](https://www.ershicimi.com/p/34b981b9bbda2a2019d900ecb99359e8)
 - [【Nodejs技术栈】一文为您构建系统化的-NPM-知识！](https://www.ershicimi.com/p/fea5ae1edaee933a9ce2ea90688c5e4f)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【开发者头条】推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -327,7 +328,6 @@
 - [【前端宇宙】一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/4f9305adc2196470487ee0d4fbb50840)
 - [【前端瓶子君】一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/171df28ff0edbe1d56c921d7fa3ab686)
 - [【张鑫旭-鑫空间-鑫生活】SVG任意图形path曲线路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)
-- [【V2EX】杭州-浙江中南集团急招-3D-场景设计/关卡策划/数值策划/客户端开发（内有顶级-MOBA-手游彩蛋）](https://www.v2ex.com/t/698016)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -453,8 +453,8 @@
 - [【奇舞周刊】解读HTTP/2与HTTP/3-的新特性](https://www.ershicimi.com/p/1c4945de34d494a06711fe4925025195)
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
+- [【V2EX】macbook-pro-13-2017-带-4k60hz-问题彻底解决，-eGPU-真香，我来交作业了](https://www.v2ex.com/t/698068)
 - [【开发者头条】什么是见解、如何实现算法见解？（Mixlab-智能可视化系列）](https://toutiao.io/k/ccjizo9)
-- [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
 - [【开发者头条】推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -602,11 +602,12 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】西安一批发市场进口虾产品检出新冠-官方称无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html)
+- [【武汉肺炎防疫全纪录(财新网)】西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊84756例-新增境外输入11例](http://m.china.caixin.com/m/2020-08-13/101592209.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染者超2049万-累计死亡近74.5万](https://m.caixin.com/m/2020-08-13/101592295.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月12日：近40万美国儿童感染新冠-巴西阿根廷安排学校复课](https://m.caixin.com/m/2020-08-13/101592096.html)
+- [【武汉肺炎防疫全纪录(财新网)】巴西一州决定测试生产俄罗斯疫苗](http://m.international.caixin.com/m/2020-08-13/101592371.html)
 - [【武汉肺炎防疫全纪录(财新网)】境外输入新冠病例反弹-中东中亚务工回国人员为主](https://m.caixin.com/m/2020-08-12/101591994.html)
 - [【武汉肺炎防疫全纪录(财新网)】湖北荆州一新冠患者治愈后再次复阳](http://m.china.caixin.com/m/2020-08-12/101591849.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国8省份新增境外输入病例16例（8月11日）](http://m.database.caixin.com/m/2020-08-12/101591859.html)
@@ -621,7 +622,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增15例本土病例（8月8日）](http://m.database.caixin.com/m/2020-08-09/101590640.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

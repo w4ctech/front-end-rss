@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 11:17:54，:rocket: 更新条数: +3305， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 11:31:33，:rocket: 更新条数: +3302， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,11 +64,12 @@
 </summary>
 
 
-- [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
+- [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
 - [2020-08-12-最新疫情：全国新冠累计确诊84756例-新增境外输入11例](http://m.china.caixin.com/m/2020-08-13/101592209.html) ![](assets/new.png)  
 - [2020-08-12-最新海外疫情：新冠感染者超2049万-累计死亡近74.5万](https://m.caixin.com/m/2020-08-13/101592295.html) ![](assets/new.png)  
 - [2020-08-12-【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html) ![](assets/new.png)  
 - [2020-08-12-大流行手记|8月12日：近40万美国儿童感染新冠-巴西阿根廷安排学校复课](https://m.caixin.com/m/2020-08-13/101592096.html) ![](assets/new.png)  
+- [2020-08-12-巴西一州决定测试生产俄罗斯疫苗](http://m.international.caixin.com/m/2020-08-13/101592371.html) ![](assets/new.png)  
 - [2020-08-11-境外输入新冠病例反弹-中东中亚务工回国人员为主](https://m.caixin.com/m/2020-08-12/101591994.html) ![](assets/new.png)  
 - [2020-08-11-湖北荆州一新冠患者治愈后再次复阳](http://m.china.caixin.com/m/2020-08-12/101591849.html) ![](assets/new.png)  
 - [2020-08-11-【境内疫情观察】全国8省份新增境外输入病例16例（8月11日）](http://m.database.caixin.com/m/2020-08-12/101591859.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-09-美国疫情现趋缓迹象-新增和死亡病例7日均值双双下行](http://m.international.caixin.com/m/2020-08-10/101590833.html) ![](assets/new.png)  
 - [2020-08-08-【境内疫情观察】新疆新增15例本土病例（8月8日）](http://m.database.caixin.com/m/2020-08-09/101590640.html) ![](assets/new.png)  
 - [2020-08-08-大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html) ![](assets/new.png)  
-- [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,8 @@
 </summary>
 
 
-- [2020-08-13-求靠谱第三方的苹果维修店铺。](https://www.v2ex.com/t/698065) ![](assets/new.png)  
+- [2020-08-13-macbook-pro-13-2017-带-4k60hz-问题彻底解决，-eGPU-真香，我来交作业了](https://www.v2ex.com/t/698068) ![](assets/new.png)  
+- [2020-08-13-求北京靠谱第三方的苹果维修店铺。](https://www.v2ex.com/t/698065) ![](assets/new.png)  
 - [2020-08-13-小米-8-推送-MIUI12-了](https://www.v2ex.com/t/698064) ![](assets/new.png)  
 - [2020-08-13-电视投屏--电视果-5S18M1和天猫魔投-4Kcost-M18选哪个?](https://www.v2ex.com/t/698061) ![](assets/new.png)  
 - [2020-08-13-深圳-Shopee-虾皮内推求简历啊](https://www.v2ex.com/t/698060) ![](assets/new.png)  
@@ -1063,7 +1064,6 @@
 - [2020-08-13-迁移-docker-宿主机，直接打包-/var/lib/docker-复制过去可行吗？](https://www.v2ex.com/t/698054) ![](assets/new.png)  
 - [2020-08-13-Notion-表格生成器-——-一小时学习-VUE-的产物](https://www.v2ex.com/t/698053) ![](assets/new.png)  
 - [2020-08-13-PHP-中如何定位内存泄露的代码所在行呢？](https://www.v2ex.com/t/698052) ![](assets/new.png)  
-- [2020-08-13-十多年的域名莫名其妙被墙了，奇怪的是现用的阿里云国内能访问？](https://www.v2ex.com/t/698051) ![](assets/new.png)  
 - [2020-08-13-现在微信群中的各种骚扰不胜其烦，这可咋整呢？](https://www.v2ex.com/t/698050) ![](assets/new.png)  
 - [2020-08-13-除了带薪-ls-外-又掌握一门摸鱼技巧](https://www.v2ex.com/t/698048) ![](assets/new.png)  
 - [2020-08-13-安卓怎么读取第三方-APP-自定义通知栏的字符串？](https://www.v2ex.com/t/698047) ![](assets/new.png)  

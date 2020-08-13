@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 11:09:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 11:17:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,6 +87,5 @@
 - [2020-08-06-张玉环被羁押近-27-年后无罪释放，他前妻接受采访的视频却刷屏了](https://www.ershicimi.com/p/882172c69d257f4c5f68e3dd2aa0249d) 
 - [2020-08-13-🔥新加坡-技术移民机会-知名海外直播产品公司，招聘高级-Computer-Graphics-算法工程师，网络传输算法工程师，机器学习工程师（网络传输方向）等高级算法...](https://www.v2ex.com/t/698056) 
 - [2020-08-13-webRtc](https://www.v2ex.com/t/698038) 
-- [2020-08-13-在千兆内网环境中，低延迟传输一路-720p-视频一般用什么协议](https://www.v2ex.com/t/698014) 
 - [2020-08-06-明晚轰趴刷夜+4天全程直播!请收好这份DEF-CON-28节目单](https://sec.thief.one/article_content?a_id=131e1f0cc8290b4cdd1e295ddc2543f5) 
 - [2020-08-06-直播预告|《红队百科全书内部审核版》最后五套等你带回家!!!](https://sec.thief.one/article_content?a_id=307035ef098dfef2013f9318b6a83827) 

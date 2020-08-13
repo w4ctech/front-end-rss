@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 15:31:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 15:33:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2218,6 +2218,13 @@
 - [2020-08-05-京东物流风格-NutUI-发布了](https://www.ershicimi.com/p/f1e87e476eaba57e88be1c6870182673) 
 - [2020-08-03-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c) 
 - [2020-08-03-【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀](https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3) 
+- [2020-08-12-浅谈-Web-前端工程化](https://www.ershicimi.com/p/2d535a20dccc98f8042a01d0d6ceef44) 
+- [2020-08-12-Angular-发布首个正式的路线图](https://www.ershicimi.com/p/b57cfcf13ef689d73b78049acee6d425) 
+- [2020-08-10-1-小时带走前端大牛的求职攻略](https://www.ershicimi.com/p/7d03e34a92219ca4f7c8e139f45e0bca) 
+- [2020-08-07-面了个-4-年的前端，简历看着像实战派，实际上…](https://www.ershicimi.com/p/89fd647d64bebc7f492c9dd42e490d9c) 
+- [2020-08-03-6-万奖金等你赢！RTE-编程挑战赛已启动](https://www.ershicimi.com/p/0de7017a53990467bc2d706172c6f5e1) 
+- [2020-08-03-响应式布局新方案](https://www.ershicimi.com/p/9ece9349ffc7fcb3d012b8e50170fc57) 
+- [2020-07-31-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/a3a6c874e1d46d006e9db625341a6728) 
 - [2020-08-11-想在一线城市买房，大家帮忙看看钱够吗？](https://www.ershicimi.com/p/c4b64994b6427165f869f7e0b89e41a1) 
 - [2020-08-10-6种移动端-1px-解决方案完整版](https://www.ershicimi.com/p/845c294ed4ae93eb3cb92d3e399573dc) 
 - [2020-08-07-ES11-来了，还学得动吗？](https://www.ershicimi.com/p/8678a2659961bc8c5aaca6acd87871ce) 

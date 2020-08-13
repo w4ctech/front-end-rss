@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 07:09:36，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 07:19:14，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-13-几维安全用代码虚拟化技术解决-IOT-安全核心痛点，让万物互联更安全](https://www.v2ex.com/t/697977) ![](assets/new.png)  
 - [2020-08-13-求推荐个云服务器](https://www.v2ex.com/t/697976) ![](assets/new.png)  
 - [2020-08-13-代码提示-有插件能支持中文提示的吗？](https://www.v2ex.com/t/697975) ![](assets/new.png)  
 - [2020-08-13-哪里能找到好的外包软件服务呢？](https://www.v2ex.com/t/697974) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-13-刚刚被联通承诺最低消费的合约秀了](https://www.v2ex.com/t/697957) ![](assets/new.png)  
 - [2020-08-13-建立了一个计划监督打卡群，觉得能自觉遵守群打卡要求的来，拒绝混水！](https://www.v2ex.com/t/697956) ![](assets/new.png)  
 - [2020-08-13-VS-Code-for-Java-7-月更新内容一览](https://www.v2ex.com/t/697955) ![](assets/new.png)  
-- [2020-08-13-一体化部署工具-CloudBase-Framework-开发简报（2020-08-13）](https://www.v2ex.com/t/697954) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

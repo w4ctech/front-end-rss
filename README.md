@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 10:48:25，:rocket: 更新条数: +3306， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 11:02:38，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
 - [2020-08-12-最新疫情：全国新冠累计确诊84756例-新增境外输入11例](http://m.china.caixin.com/m/2020-08-13/101592209.html) ![](assets/new.png)  
 - [2020-08-12-最新海外疫情：新冠感染者超2049万-累计死亡近74.5万](https://m.caixin.com/m/2020-08-13/101592295.html) ![](assets/new.png)  
 - [2020-08-12-【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html) ![](assets/new.png)  
@@ -75,15 +76,14 @@
 - [2020-08-10-【境内疫情观察】全国8省份新增境外输入病例31例（8月10日）](http://m.database.caixin.com/m/2020-08-11/101591238.html) ![](assets/new.png)  
 - [2020-08-10-大流行手记|8月10日：美国疫情曲线呈降势-印度连续12天新增破5万例](https://m.caixin.com/m/2020-08-11/101591157.html) ![](assets/new.png)  
 - [2020-08-10-【图集】韩国首尔南大门市场现新冠聚集性感染事件](http://m.photos.caixin.com/m/2020-08-11/101591137.html) ![](assets/new.png)  
-- [2020-08-09-输入性新冠病例陡增-上海将加强国际航班远端管控](http://m.companies.caixin.com/m/2020-08-10/101590870.html) ![](assets/new.png)  
 - [2020-08-09-【境内疫情观察】全国新增35例境外输入病例（8月9日）](http://m.database.caixin.com/m/2020-08-10/101590804.html) ![](assets/new.png)  
 - [2020-08-09-大流行手记|8月9日：日本澄清新冠病毒变异-特朗普谋求疫苗大选前出炉](https://m.caixin.com/m/2020-08-10/101590711.html) ![](assets/new.png)  
+- [2020-08-09-输入性新冠病例陡增-上海将加强国际航班远端管控](http://m.companies.caixin.com/m/2020-08-10/101590870.html) ![](assets/new.png)  
 - [2020-08-09-澳大利亚单日新增死亡病例创新高-新西兰连续百日无社区传播](http://m.international.caixin.com/m/2020-08-10/101590950.html) ![](assets/new.png)  
 - [2020-08-09-美国疫情现趋缓迹象-新增和死亡病例7日均值双双下行](http://m.international.caixin.com/m/2020-08-10/101590833.html) ![](assets/new.png)  
 - [2020-08-08-【境内疫情观察】新疆新增15例本土病例（8月8日）](http://m.database.caixin.com/m/2020-08-09/101590640.html) ![](assets/new.png)  
 - [2020-08-08-大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html) ![](assets/new.png)  
 - [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
-- [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-13-西安方欣海鲜市场876份环境样本检测结果和360份人员（含9名直接接触人员）检测结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRbTVRBosiOa5prDjuBIz200813&isfromapp=1) ![](assets/new.png)  
+- [2020-08-13-世卫组织：全球新冠肺炎确诊病例超2040万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtbQtGHniwgqj8hfsGNp200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-菲律宾今年前7个月外国游客旅游收入下降72%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic67VipJhDFWs2OmfAPA9200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-北京新发地主市场南部区域将于15日开放营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLSFWu5tVSofuBjmU5zUE200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-北京新发地市场全面取消零售功能-场外建便民零售菜店](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijrI6iA8ApfQ6cpyPp5cu200813&isfromapp=1) ![](assets/new.png)  
-- [2020-08-13-大连市甘井子区大连湾街道核心区外围12个社区（村）有序逐步解除封闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRRMvWVbAGIeD6re0eWys200813&isfromapp=1) ![](assets/new.png)  
-- [2020-08-13-印度前总统穆克吉昏迷-生命体征稳定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibwrZO2Mic3WffYPug37v200813&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-13-电视投屏--电视果-5S18M1和天猫魔投-4Kcost-M18选哪个?](https://www.v2ex.com/t/698061) ![](assets/new.png)  
+- [2020-08-13-深圳-Shopee-虾皮内推求简历啊](https://www.v2ex.com/t/698060) ![](assets/new.png)  
+- [2020-08-13-深圳电信，几条线路的连接质量。](https://www.v2ex.com/t/698059) ![](assets/new.png)  
+- [2020-08-13-iPhone-开了市政交通一卡通，太灵敏的怎么办？](https://www.v2ex.com/t/698058) ![](assets/new.png)  
 - [2020-08-13-🔥新加坡-技术移民机会-知名海外直播产品公司，招聘高级-Computer-Graphics-算法工程师，网络传输算法工程师，机器学习工程师（网络传输方向）等高级算法...](https://www.v2ex.com/t/698056) ![](assets/new.png)  
 - [2020-08-13-OptaPlanner-使用问题](https://www.v2ex.com/t/698055) ![](assets/new.png)  
 - [2020-08-13-迁移-docker-宿主机，直接打包-/var/lib/docker-复制过去可行吗？](https://www.v2ex.com/t/698054) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-13-apple-watch-5-有必要买吗?体验如何？](https://www.v2ex.com/t/698040) ![](assets/new.png)  
 - [2020-08-13-如何用-Python-计算一个图形的分形维度数](https://www.v2ex.com/t/698039) ![](assets/new.png)  
 - [2020-08-13-webRtc](https://www.v2ex.com/t/698038) ![](assets/new.png)  
-- [2020-08-13-求推荐-300-以内的电动剃须刀](https://www.v2ex.com/t/698037) ![](assets/new.png)  
-- [2020-08-13-请教-springboot-后台接受-urlEncode-这种数据时，如何可以较好的接受参数](https://www.v2ex.com/t/698036) ![](assets/new.png)  
-- [2020-08-13-青岛-伦敦“专机”，以及亮点首都航空快速通关卡](https://www.v2ex.com/t/698035) ![](assets/new.png)  
-- [2020-08-13-译-什么是-Memoization？（难道是记住？）](https://www.v2ex.com/t/698034) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,6 +1145,9 @@
 </summary>
 
 
+- [2020-08-13-Instagram被诉非法收集用户生物识别数据](https://sec.thief.one/article_content?a_id=ead820ce5f59c3755c8e93f8e657c4d6) ![](assets/new.png)  
+- [2020-08-12-Python-为什么能支持任意的真值判断?](https://sec.thief.one/article_content?a_id=1dd5c22ac00697481345f178839e9f79) ![](assets/new.png)  
+- [2020-08-12-小步快跑,快速迭代:安全运营的器术法道](https://sec.thief.one/article_content?a_id=d4633f9bd36e09edc07d581ccd85bab2) ![](assets/new.png)  
 - [2020-08-11-定了!渗透测试工程师线下就业班秋季报名正式开启](https://sec.thief.one/article_content?a_id=9b0978d0c2ff2dac204461964441760a) ![](assets/new.png)  
 - [2020-08-11-中奖名单-|-前方锦鲤出没,速来围观!!!](https://sec.thief.one/article_content?a_id=f819fec72a8c6cdb9481e335afc2c258) ![](assets/new.png)  
 - [2020-08-11-BCTF-AutoPwn-第二站打响!-护网先锋战队夺得冠军席位](https://sec.thief.one/article_content?a_id=f8f295ec40eb6f288b1624cc236e1ceb) ![](assets/new.png)  
@@ -1162,9 +1165,6 @@
 - [2020-08-08-【安全圈】黑客攻击Reddit子版块并发布特朗普助选信息](https://sec.thief.one/article_content?a_id=e489e9ae0bac72c4a572873a383c03a8) ![](assets/new.png)  
 - [2020-08-08-官宣!!一年一度的看雪安全开发者峰会10月正式召开,初心不改,我...](https://sec.thief.one/article_content?a_id=0ada3e41847449742b6b836cca71b4fd) ![](assets/new.png)  
 - [2020-08-08-资金大举出逃,比特币未来何去何从?](https://sec.thief.one/article_content?a_id=f24fcbc0bcffa31bbf9695b72962f882) ![](assets/new.png)  
-- [2020-08-08-红队渗透手册之弹药篇](https://sec.thief.one/article_content?a_id=5522034aee8997bef73c96927d37c5b9) ![](assets/new.png)  
-- [2020-08-08-POC-T源码分析](https://sec.thief.one/article_content?a_id=f276cf3981de642849aaa54a7a3fc6d7) ![](assets/new.png)  
-- [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

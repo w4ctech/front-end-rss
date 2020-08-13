@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 18:33:13，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 18:46:23，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-13-因为忘了-apple-pay-密码，导致-iPhone-被停用了。。。。](https://www.v2ex.com/t/698122) ![](assets/new.png)  
 - [2020-08-13-iPad-“屏幕使用时间”疑问](https://www.v2ex.com/t/698121) ![](assets/new.png)  
 - [2020-08-13-我有个不成熟的想法，关于-macbook-pro-2019-15"散热](https://www.v2ex.com/t/698119) ![](assets/new.png)  
 - [2020-08-13-大量-HTTP-请求调第三方慢接口引起的-fd-耗尽问题](https://www.v2ex.com/t/698116) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-13-闲着的时间做什么？感觉生活很无聊](https://www.v2ex.com/t/698094) ![](assets/new.png)  
 - [2020-08-13-nplayer-本地-移动收费用](https://www.v2ex.com/t/698092) ![](assets/new.png)  
 - [2020-08-13-有没有-HHKB-的键盘膜?](https://www.v2ex.com/t/698091) ![](assets/new.png)  
-- [2020-08-13-美区-Apple-ID-是不是可以绑定新的美国运通卡了？](https://www.v2ex.com/t/698090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

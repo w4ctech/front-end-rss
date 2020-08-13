@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 15:33:19，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 15:46:41，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-13-意大利新增病例显著增加-局部封锁或难以避免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix8SzLa3EQLpH6o6pUFUe200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-莫斯科开学不强制学生戴口罩-暂无恢复居家隔离制度计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFv8FJ93cYz7Rm0sv1R49200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-巴西一看守所严重超负荷运转-近一半犯人感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijKeuxviu4WTh2Pz4BZh2200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-受疫情影响-泰国主要机场今年第三季度旅客吞吐量下降88.69％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQSzky0KZqFL3UHdjxxQ200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-国家卫健委、教育部：秋季开学后中小学生应随身备用口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif1ef5Rno53VFDSmN2GSe200813&isfromapp=1) ![](assets/new.png)  
-- [2020-08-13-泰国口罩生产能力提升-政府放松对口罩管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibfXq1tksG7LrveIKcDFi200813&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
-- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
-- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
-- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
-- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
-- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-13-mbp-有推荐的拓展坞和键盘吗？](https://www.v2ex.com/t/698114) ![](assets/new.png)  
 - [2020-08-13-Mac-在合盖的时候外接显示器只有-30fps，但是打开盖子就有-60fps](https://www.v2ex.com/t/698112) ![](assets/new.png)  
 - [2020-08-13-有没有老哥分享一款电脑桌，要求价格最好不超过-2000，桌面面积够大，简约有质感](https://www.v2ex.com/t/698110) ![](assets/new.png)  
 - [2020-08-13-站里有懂家庭-KTV-搭建的朋友吗？](https://www.v2ex.com/t/698107) ![](assets/new.png)  
@@ -1091,7 +1072,6 @@
 - [2020-08-13-小米-10-ultra-挺不错的，就是没有-2k-以及广告很烦](https://www.v2ex.com/t/698089) ![](assets/new.png)  
 - [2020-08-13-个人如果做-Windows-NAS，一定要用-Win-Server-么？似乎-Win-Server-很难搞对于不是程序员和运维的人有点压力。Win-和-Win-Server-对于个人-NAS-差别巨大么？](https://www.v2ex.com/t/698088) ![](assets/new.png)  
 - [2020-08-13-阿里云被黑客入侵植入挖矿软件并修改了-ssh-key](https://www.v2ex.com/t/698087) ![](assets/new.png)  
-- [2020-08-13-公司-100-人，买了个爱快企业路由，怎么做一些网络的安全设置？](https://www.v2ex.com/t/698086) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1148,9 +1128,9 @@
 - [2020-08-13-云原生安全：docker-容器逃逸](https://toutiao.io/k/9oztisp) ![](assets/new.png)  
 - [2020-08-13-是谁在调用我？使用-arthas-+-jprofiler-做复杂链路分析](https://toutiao.io/k/ywhgjel) ![](assets/new.png)  
 - [2020-08-13-软件测试中的-18-个难题](https://toutiao.io/k/21twbut) ![](assets/new.png)  
+- [2020-08-13-Redis-作者-Antirez-与-Contributor-Mattsta-之间关于-CRC-的-Battle](https://toutiao.io/k/c8gp8hk) ![](assets/new.png)  
 - [2020-08-13-k8s-client-go-源码剖析（一）](https://toutiao.io/k/a5ik27m) ![](assets/new.png)  
 - [2020-08-13-信也科技的-Flutter-实践之路](https://toutiao.io/k/2y0cvix) ![](assets/new.png)  
-- [2020-08-13-Redis-作者-Antirez-与-Contributor-Mattsta-之间关于-CRC-的-Battle](https://toutiao.io/k/c8gp8hk) ![](assets/new.png)  
 - [2020-08-13-Redis-集合相关命令](https://toutiao.io/k/t5ft4w8) ![](assets/new.png)  
 - [2020-08-13-聊聊安全](https://toutiao.io/k/sdy7nuy) ![](assets/new.png)  
 - [2020-08-13-什么是见解、如何实现算法见解？（Mixlab-智能可视化系列）](https://toutiao.io/k/ccjizo9) ![](assets/new.png)  

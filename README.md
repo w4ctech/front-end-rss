@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 03:48:21，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 04:02:42，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-13-黑苹果双屏-颜色不对问题-发紫色-基佬紫](https://www.v2ex.com/t/697918) ![](assets/new.png)  
+- [2020-08-13-招远程兼职或部分外包，岗位游戏策划/游戏美工](https://www.v2ex.com/t/697917) ![](assets/new.png)  
+- [2020-08-13-iOS-转行什么比较好](https://www.v2ex.com/t/697916) ![](assets/new.png)  
 - [2020-08-13-Nebula-Graph-特性讲解——RocksDB-统计信息的收集和展示](https://www.v2ex.com/t/697915) ![](assets/new.png)  
 - [2020-08-13-想换个新手机，预算-3000-6000，来懂得推荐推荐](https://www.v2ex.com/t/697914) ![](assets/new.png)  
 - [2020-08-13-鉴于中国拆迁严重，有一个不成熟的想法](https://www.v2ex.com/t/697913) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-13-请教一个百度搜索页面获取关键字的问题](https://www.v2ex.com/t/697895) ![](assets/new.png)  
 - [2020-08-13-想换-Android-机，但是苹果的生态问题如何解决？有替代方案吗？](https://www.v2ex.com/t/697893) ![](assets/new.png)  
 - [2020-08-13-dnspod.com-的邮件功能是不是坏了？](https://www.v2ex.com/t/697892) ![](assets/new.png)  
-- [2020-08-13-请问有兄弟用过-eipass-密码管理这款工具吗？](https://www.v2ex.com/t/697891) ![](assets/new.png)  
-- [2020-08-13-有哪位-v-友有-a-股股票的历史数据可以分享的](https://www.v2ex.com/t/697890) ![](assets/new.png)  
-- [2020-08-13-django-触发信号后就设置一个值，这个值怎么使用？](https://www.v2ex.com/t/697889) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,8 +1116,8 @@
 
 - [2020-08-13-Python-制作图片验证码？也就三行代码罢了](https://toutiao.io/k/4rvchvo) ![](assets/new.png)  
 - [2020-08-13-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
-- [2020-08-13-浅谈数仓分层和模型](https://toutiao.io/k/6kx5cgk) ![](assets/new.png)  
 - [2020-08-13-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-13-浅谈数仓分层和模型](https://toutiao.io/k/6kx5cgk) ![](assets/new.png)  
 - [2020-08-13-如何有效防止-SQL-注入攻击](https://toutiao.io/k/b819euj) ![](assets/new.png)  
 - [2020-08-13-为什么-CPU-访问硬盘很慢](https://toutiao.io/k/5wzucah) ![](assets/new.png)  
 - [2020-08-13-Kylin-最佳实践：爱奇艺如何处理千亿级数据](https://toutiao.io/k/7u3df9c) ![](assets/new.png)  

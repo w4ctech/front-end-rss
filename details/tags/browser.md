@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 03:48:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 04:02:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -48,7 +48,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-13-chrome-os-能装在普通笔记本上么？](https://www.v2ex.com/t/697912) 
 - [2020-08-13-因-CCIE-改版，有没有相关的资料分享？](https://www.v2ex.com/t/697882) 
-- [2020-08-13-Python-如何实现-connect-隧道请求？](https://www.v2ex.com/t/697868) 
 - [2020-08-13-云原生安全：docker-容器逃逸](https://toutiao.io/k/9oztisp) 
 - [2020-08-13-k8s-client-go-源码剖析（一）](https://toutiao.io/k/a5ik27m) 
 - [2020-08-13-聊聊安全](https://toutiao.io/k/sdy7nuy) 

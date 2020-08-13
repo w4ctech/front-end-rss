@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 11:02:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 11:09:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2494,14 +2494,13 @@
 - [2020-08-13-分布式锁带来的-“一致性”-问题](https://toutiao.io/k/bffrhwg) 
 - [2020-08-13-Redis-集合相关命令](https://toutiao.io/k/t5ft4w8) 
 - [2020-08-13-Redis-作者-Antirez-与-Contributor-Mattsta-之间关于-CRC-的-Battle](https://toutiao.io/k/c8gp8hk) 
-- [2020-08-13-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
-- [2020-08-13-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
-- [2020-08-13-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
+- [2020-08-13-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) 
 - [2020-08-13-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) 
+- [2020-08-13-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) 
+- [2020-08-13-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
 - [2020-08-13-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
-- [2020-08-13-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
+- [2020-08-13-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
 - [2020-08-13-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) 
-- [2020-08-13-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
 - [2020-08-13-Instagram被诉非法收集用户生物识别数据](https://sec.thief.one/article_content?a_id=ead820ce5f59c3755c8e93f8e657c4d6) 
 - [2020-08-12-Python-为什么能支持任意的真值判断?](https://sec.thief.one/article_content?a_id=1dd5c22ac00697481345f178839e9f79) 
 - [2020-08-11-定了!渗透测试工程师线下就业班秋季报名正式开启](https://sec.thief.one/article_content?a_id=9b0978d0c2ff2dac204461964441760a) 

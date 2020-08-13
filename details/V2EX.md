@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 16:33:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 16:46:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -17,7 +17,6 @@
 - [2020-08-13-apple-watch-s4、s5-会不会通过固件更新支持血氧检测？我听说它们的传感器是支持血氧检测的](https://www.v2ex.com/t/698102) 
 - [2020-08-13-有沒有拼-2T-icloud-Family-Storage-的？美區](https://www.v2ex.com/t/698101) 
 - [2020-08-13-今年的确定性机会](https://www.v2ex.com/t/698098) 
-- [2020-08-13-麻烦管理员隐藏一个我发的可能引起争议的贴](https://www.v2ex.com/t/698097) 
 - [2020-08-13-pxel3a-怎么样有没有大佬分享下实际感受](https://www.v2ex.com/t/698096) 
 - [2020-08-13-Mac-mini-如何在无键盘的情况下解锁](https://www.v2ex.com/t/698095) 
 - [2020-08-13-闲着的时间做什么？感觉生活很无聊](https://www.v2ex.com/t/698094) 

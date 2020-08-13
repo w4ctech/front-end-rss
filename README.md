@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 16:33:17，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 16:46:27，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1064,7 +1064,6 @@
 - [2020-08-13-apple-watch-s4、s5-会不会通过固件更新支持血氧检测？我听说它们的传感器是支持血氧检测的](https://www.v2ex.com/t/698102) ![](assets/new.png)  
 - [2020-08-13-有沒有拼-2T-icloud-Family-Storage-的？美區](https://www.v2ex.com/t/698101) ![](assets/new.png)  
 - [2020-08-13-今年的确定性机会](https://www.v2ex.com/t/698098) ![](assets/new.png)  
-- [2020-08-13-麻烦管理员隐藏一个我发的可能引起争议的贴](https://www.v2ex.com/t/698097) ![](assets/new.png)  
 - [2020-08-13-pxel3a-怎么样有没有大佬分享下实际感受](https://www.v2ex.com/t/698096) ![](assets/new.png)  
 - [2020-08-13-Mac-mini-如何在无键盘的情况下解锁](https://www.v2ex.com/t/698095) ![](assets/new.png)  
 - [2020-08-13-闲着的时间做什么？感觉生活很无聊](https://www.v2ex.com/t/698094) ![](assets/new.png)  
@@ -1072,6 +1071,7 @@
 - [2020-08-13-有没有-HHKB-的键盘膜?](https://www.v2ex.com/t/698091) ![](assets/new.png)  
 - [2020-08-13-美区-Apple-ID-是不是可以绑定新的美国运通卡了？](https://www.v2ex.com/t/698090) ![](assets/new.png)  
 - [2020-08-13-小米-10-ultra-挺不错的，就是没有-2k-以及广告很烦](https://www.v2ex.com/t/698089) ![](assets/new.png)  
+- [2020-08-13-个人如果做-Windows-NAS，一定要用-Win-Server-么？似乎-Win-Server-很难搞对于不是程序员和运维的人有点压力。Win-和-Win-Server-对于个人-NAS-差别巨大么？](https://www.v2ex.com/t/698088) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,8 +1127,8 @@
 - [2020-08-13-分布式锁带来的-“一致性”-问题](https://toutiao.io/k/bffrhwg) ![](assets/new.png)  
 - [2020-08-13-云原生安全：docker-容器逃逸](https://toutiao.io/k/9oztisp) ![](assets/new.png)  
 - [2020-08-13-是谁在调用我？使用-arthas-+-jprofiler-做复杂链路分析](https://toutiao.io/k/ywhgjel) ![](assets/new.png)  
-- [2020-08-13-软件测试中的-18-个难题](https://toutiao.io/k/21twbut) ![](assets/new.png)  
 - [2020-08-13-Redis-作者-Antirez-与-Contributor-Mattsta-之间关于-CRC-的-Battle](https://toutiao.io/k/c8gp8hk) ![](assets/new.png)  
+- [2020-08-13-软件测试中的-18-个难题](https://toutiao.io/k/21twbut) ![](assets/new.png)  
 - [2020-08-13-k8s-client-go-源码剖析（一）](https://toutiao.io/k/a5ik27m) ![](assets/new.png)  
 - [2020-08-13-信也科技的-Flutter-实践之路](https://toutiao.io/k/2y0cvix) ![](assets/new.png)  
 - [2020-08-13-Redis-集合相关命令](https://toutiao.io/k/t5ft4w8) ![](assets/new.png)  

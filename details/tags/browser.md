@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 12:46:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 12:48:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,7 +46,6 @@
 - [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) 
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-13-请教-springboot-后台接受-urlEncode-这种数据时，如何可以较好的接受参数](https://www.v2ex.com/t/698036) 
 - [2020-08-13-k8s-client-go-源码剖析（一）](https://toutiao.io/k/a5ik27m) 
 - [2020-08-13-云原生安全：docker-容器逃逸](https://toutiao.io/k/9oztisp) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 14:48:06，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 15:02:45，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-13-巴西一看守所严重超负荷运转-近一半犯人感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijKeuxviu4WTh2Pz4BZh2200813&isfromapp=1) ![](assets/new.png)  
+- [2020-08-13-受疫情影响-泰国主要机场今年第三季度旅客吞吐量下降88.69％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQSzky0KZqFL3UHdjxxQ200813&isfromapp=1) ![](assets/new.png)  
+- [2020-08-13-国家卫健委、教育部：秋季开学后中小学生应随身备用口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif1ef5Rno53VFDSmN2GSe200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-泰国口罩生产能力提升-政府放松对口罩管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibfXq1tksG7LrveIKcDFi200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-西安方欣海鲜市场876份环境样本检测结果和360份人员（含9名直接接触人员）检测结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRbTVRBosiOa5prDjuBIz200813&isfromapp=1) ![](assets/new.png)  
-- [2020-08-13-世卫组织：全球新冠肺炎确诊病例超2040万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtbQtGHniwgqj8hfsGNp200813&isfromapp=1) ![](assets/new.png)  
-- [2020-08-13-菲律宾今年前7个月外国游客旅游收入下降72%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic67VipJhDFWs2OmfAPA9200813&isfromapp=1) ![](assets/new.png)  
-- [2020-08-13-北京新发地主市场南部区域将于15日开放营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLSFWu5tVSofuBjmU5zUE200813&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-13-站里有懂家庭-KTV-搭建的朋友吗？](https://www.v2ex.com/t/698107) ![](assets/new.png)  
+- [2020-08-13-付费-1000-元，恢复微信聊天记录，手机型号三星-s9](https://www.v2ex.com/t/698105) ![](assets/new.png)  
 - [2020-08-13-怎么才能批量导入浏览器的地址栏搜索引擎？](https://www.v2ex.com/t/698104) ![](assets/new.png)  
 - [2020-08-13-请教各位-iPhone-安装声田怎么破](https://www.v2ex.com/t/698103) ![](assets/new.png)  
 - [2020-08-13-apple-watch-s4、s5-会不会通过固件更新支持血氧检测？我听说它们的传感器是支持血氧检测的](https://www.v2ex.com/t/698102) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-13-阿里云被黑客入侵植入挖矿软件并修改了-ssh-key](https://www.v2ex.com/t/698087) ![](assets/new.png)  
 - [2020-08-13-公司-100-人，买了个爱快企业路由，怎么做一些网络的安全设置？](https://www.v2ex.com/t/698086) ![](assets/new.png)  
 - [2020-08-13-明天实习答辩难顶，一般领导对实习生答辩有什么期望？](https://www.v2ex.com/t/698085) ![](assets/new.png)  
-- [2020-08-13-Google-搜索“地球-寿命”第一结果是地球上人类的寿命而不是地球的寿命](https://www.v2ex.com/t/698083) ![](assets/new.png)  
-- [2020-08-13-Mac-每次重启后收回微信截图权限](https://www.v2ex.com/t/698082) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

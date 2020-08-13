@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 08:02:47，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 08:10:56，:rocket: 更新条数: +3288， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,7 +19,7 @@
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
-- [VUE全家桶](#vue全家桶)![](assets/dot.png)   
+- [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
@@ -66,7 +66,6 @@
 
 - [2020-08-12-最新疫情：全国新冠累计确诊84756例-新增境外输入11例](http://m.china.caixin.com/m/2020-08-13/101592209.html) ![](assets/new.png)  
 - [2020-08-12-【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html) ![](assets/new.png)  
-- [2020-08-12-【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html) ![](assets/new.png)  
 - [2020-08-12-大流行手记|8月12日：近40万美国儿童感染新冠-巴西阿根廷安排学校复课](https://m.caixin.com/m/2020-08-13/101592096.html) ![](assets/new.png)  
 - [2020-08-11-境外输入新冠病例反弹-中东中亚务工回国人员为主](https://m.caixin.com/m/2020-08-12/101591994.html) ![](assets/new.png)  
 - [2020-08-11-湖北荆州一新冠患者治愈后再次复阳](http://m.china.caixin.com/m/2020-08-12/101591849.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-08-08-【境内疫情观察】新疆新增15例本土病例（8月8日）](http://m.database.caixin.com/m/2020-08-09/101590640.html) ![](assets/new.png)  
 - [2020-08-08-大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html) ![](assets/new.png)  
 - [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
+- [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -173,20 +173,6 @@
 </summary>
 
 
-- [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) ![](assets/new.png)  
-- [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) ![](assets/new.png)  
-- [2019-12-19-【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e) ![](assets/new.png)  
-- [2019-12-18-【面试题】2019开年跳槽系列-35](https://www.ershicimi.com/p/13693c22440fcc75bcb7816cbd38d87a) ![](assets/new.png)  
-- [2019-12-16-【面试题】2019开年跳槽系列-34](https://www.ershicimi.com/p/55cfb22f6deb40706c18677e12a05d7d) ![](assets/new.png)  
-- [2019-12-12-【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2) ![](assets/new.png)  
-- [2019-12-09-【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da) ![](assets/new.png)  
-- [2019-12-09-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d) ![](assets/new.png)  
-- [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) ![](assets/new.png)  
-- [2019-12-06-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3) ![](assets/new.png)  
-- [2019-12-05-【面试题】2019开年跳槽系列-30](https://www.ershicimi.com/p/c953e0c5b4aaccbe729309f61ee8574b) ![](assets/new.png)  
-- [2019-12-05-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/c000cfc00b1de7d595f4c51820cc7630) ![](assets/new.png)  
-- [2019-12-04-【面试题】2019开年跳槽系列-29](https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10) ![](assets/new.png)  
-- [2019-12-04-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/38b599052a6c0772985ffdbfad6875d6) ![](assets/new.png)  
 - [......【查看更多】......](./details/VUE全家桶.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1038,12 @@
 </summary>
 
 
+- [2020-08-13-境内高校学生在学校官网公开讨论魔法上网](https://www.v2ex.com/t/697999) ![](assets/new.png)  
+- [2020-08-13-添加-Foxmail-到杀毒软件白名单？](https://www.v2ex.com/t/697998) ![](assets/new.png)  
+- [2020-08-13-请教:-如何在小公司内搭建起前端体系](https://www.v2ex.com/t/697997) ![](assets/new.png)  
+- [2020-08-13-店家发短信通知回复一下淘宝，威胁短信？](https://www.v2ex.com/t/697996) ![](assets/new.png)  
+- [2020-08-13-一个月前出于兴趣写了个工具类，关于-EXCEL-导入的，现在不知道如何扩展](https://www.v2ex.com/t/697995) ![](assets/new.png)  
+- [2020-08-13-成都-上市美企内推](https://www.v2ex.com/t/697992) ![](assets/new.png)  
 - [2020-08-13-北京海淀区-数据与爬虫开发工程师-25-40-万](https://www.v2ex.com/t/697991) ![](assets/new.png)  
 - [2020-08-13-mysql-直接-select-sumamount-from-....-和先-select-amount-from-...-然后用-Java-求和有什么区别吗？](https://www.v2ex.com/t/697988) ![](assets/new.png)  
 - [2020-08-13-大佬们，有在金蝶云工作的吗，那边工作怎么样?](https://www.v2ex.com/t/697987) ![](assets/new.png)  
@@ -1066,12 +1058,6 @@
 - [2020-08-13-代码提示-有插件能支持中文提示的吗？](https://www.v2ex.com/t/697975) ![](assets/new.png)  
 - [2020-08-13-哪里能找到好的外包软件服务呢？](https://www.v2ex.com/t/697974) ![](assets/new.png)  
 - [2020-08-13-小米退出-Android-One，不开心。。](https://www.v2ex.com/t/697973) ![](assets/new.png)  
-- [2020-08-13-V-友们有用罗技-M590-无线鼠标的吗，这款鼠标不能用国产电池？](https://www.v2ex.com/t/697970) ![](assets/new.png)  
-- [2020-08-13-准备入行互联网的女萌新来报到啦～](https://www.v2ex.com/t/697969) ![](assets/new.png)  
-- [2020-08-13-js.cool-为开源项目提供免费的域名托管](https://www.v2ex.com/t/697968) ![](assets/new.png)  
-- [2020-08-13-租户硬盘配额问题](https://www.v2ex.com/t/697967) ![](assets/new.png)  
-- [2020-08-13-百度-BPIT-部门-2021-届校招提前批](https://www.v2ex.com/t/697966) ![](assets/new.png)  
-- [2020-08-13-讨论-8-月-25-日,个人房贷将统一转换为-LPR-定价,说开去........](https://www.v2ex.com/t/697965) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

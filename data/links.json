@@ -14768,58 +14768,7 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [
-      {
-        "title": "NutUI CLI源码解析",
-        "link": "https://jdc.jd.com/archives/213013",
-        "date": "2020-03-24"
-      },
-      {
-        "title": "NutUI 3.0 中单元测试的探索和实践",
-        "link": "https://jdc.jd.com/archives/213007",
-        "date": "2020-03-10"
-      },
-      {
-        "title": "用户说的都是真的吗？这些陷阱要避开",
-        "link": "https://jdc.jd.com/archives/212987",
-        "date": "2019-06-28"
-      },
-      {
-        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
-        "link": "https://jdc.jd.com/archives/212979",
-        "date": "2019-03-15"
-      },
-      {
-        "title": "京东PLUS会员项目前端性能优化实践",
-        "link": "https://jdc.jd.com/archives/212962",
-        "date": "2019-02-15"
-      },
-      {
-        "title": "8个常见的研究者认知偏误陷阱",
-        "link": "https://jdc.jd.com/archives/212946",
-        "date": "2019-01-28"
-      },
-      {
-        "title": "用户访谈——哪些原则简单却有效",
-        "link": "https://jdc.jd.com/archives/212927",
-        "date": "2019-01-24"
-      },
-      {
-        "title": "体现工匠精神的Resource Hints",
-        "link": "https://jdc.jd.com/archives/212917",
-        "date": "2018-12-29"
-      },
-      {
-        "title": "HTML5 Audio的兼容性问题和优化",
-        "link": "https://jdc.jd.com/archives/212874",
-        "date": "2018-12-26"
-      },
-      {
-        "title": "一个表情引发的思考",
-        "link": "https://jdc.jd.com/archives/212870",
-        "date": "2018-12-26"
-      }
-    ],
+    "items": [],
     "link": "https://jdc.jd.com"
   },
   {
@@ -15640,10 +15589,61 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10647",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10647",
     "title": "编程之上",
     "link": "https://www.ershicimi.com/a/10647",
-    "items": []
+    "items": [
+      {
+        "title": "2019 年终总结",
+        "link": "https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2",
+        "date": "2019-12-31"
+      },
+      {
+        "title": "git 入门",
+        "link": "https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0",
+        "date": "2019-10-28"
+      },
+      {
+        "title": "谨以此文祝福和致敬每一位前端开发工程师",
+        "link": "https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9",
+        "date": "2019-10-24"
+      },
+      {
+        "title": "Git 工作流",
+        "link": "https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e",
+        "date": "2019-10-20"
+      },
+      {
+        "title": "前端初级",
+        "link": "https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4",
+        "date": "2019-10-17"
+      },
+      {
+        "title": "Javascript 内存空间管理",
+        "link": "https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6",
+        "date": "2019-10-16"
+      },
+      {
+        "title": "我对前端架构师的定义",
+        "link": "https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f",
+        "date": "2019-10-15"
+      },
+      {
+        "title": "《大教堂和集市》读后感",
+        "link": "https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54",
+        "date": "2019-10-13"
+      },
+      {
+        "title": "8年前端开发的知识点沉淀",
+        "link": "https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d",
+        "date": "2019-10-12"
+      },
+      {
+        "title": "如何有效学习",
+        "link": "https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a",
+        "date": "2019-10-12"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/198",

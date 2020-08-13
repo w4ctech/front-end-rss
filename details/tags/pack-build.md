@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 04:10:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 04:20:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -8,8 +8,8 @@
 
 
 - [2019-11-25-一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6) 
+- [2020-08-11-嗯，手搓一个-TinyPng-压缩图片的-WebpackPlugin-也-SoEasy-啦](https://www.ershicimi.com/p/471baea15c3058f1c30b71ebbadb1748) 
 - [2020-08-07-分享-9-条-Webpack-优化策略](https://www.ershicimi.com/p/8b2d1e104d1102bfbf711a9c0b969bbd) 
-- [2020-07-28-聊聊-NPM-镜像那些险象环生的坑](https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4) 
 - [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
 - [2020-08-03-前端人如何构建能力模型，高薪成长？-|-极客时间](https://www.ershicimi.com/p/ac76b421286fc2b59318b7522bb61efb) 
 - [2020-08-13-前端底层知识体系构建](https://www.ershicimi.com/p/b778708e52a8703839ec00df05003a0a) 
@@ -22,3 +22,4 @@
 - [2020-07-15-一文为您构建系统化的-NPM-知识！](https://www.ershicimi.com/p/fea5ae1edaee933a9ce2ea90688c5e4f) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-08-13-构建系统工程师/工具链/流水线工程师（-Python-/Groovy/C++-），地点：上海，薪水-OPEN，不加班](https://www.v2ex.com/t/697880) 
+- [2020-08-13-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) 

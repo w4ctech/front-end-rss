@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 04:10:23，:rocket: 更新条数: +3302， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 04:20:07，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -260,6 +260,9 @@
 </summary>
 
 
+- [2020-08-12-浅谈-Web-前端工程化](https://www.ershicimi.com/p/2d535a20dccc98f8042a01d0d6ceef44) ![](assets/new.png)  
+- [2020-08-12-Angular-发布首个正式的路线图](https://www.ershicimi.com/p/b57cfcf13ef689d73b78049acee6d425) ![](assets/new.png)  
+- [2020-08-11-嗯，手搓一个-TinyPng-压缩图片的-WebpackPlugin-也-SoEasy-啦](https://www.ershicimi.com/p/471baea15c3058f1c30b71ebbadb1748) ![](assets/new.png)  
 - [2020-08-10-1-小时带走前端大牛的求职攻略](https://www.ershicimi.com/p/7d03e34a92219ca4f7c8e139f45e0bca) ![](assets/new.png)  
 - [2020-08-10-H5-秒开方案大全](https://www.ershicimi.com/p/06ee25f076d1d8681c0699495fb505d7) ![](assets/new.png)  
 - [2020-08-09-sync_hooks、CLS-与-Node-中异步资源生命周期监听](https://www.ershicimi.com/p/be586e92c385df9fe0ce0da145608cb3) ![](assets/new.png)  
@@ -277,9 +280,6 @@
 - [2020-07-31-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/a3a6c874e1d46d006e9db625341a6728) ![](assets/new.png)  
 - [2020-07-31-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971) ![](assets/new.png)  
 - [2020-07-30-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/fb17d9c7059bdb212d99e4321f722e43) ![](assets/new.png)  
-- [2020-07-29-8-年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/3747511cc8dc7a2cc724a61429691845) ![](assets/new.png)  
-- [2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330) ![](assets/new.png)  
-- [2020-07-28-聊聊-NPM-镜像那些险象环生的坑](https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,7 @@
 </summary>
 
 
-- [2020-08-13-徐晓东到底做了啥？全网消失？](https://www.v2ex.com/t/697925) ![](assets/new.png)  
+- [2020-08-13-长沙电信也有-CN2-节点了？](https://www.v2ex.com/t/697926) ![](assets/new.png)  
 - [2020-08-13-大爷的，有本事今天再跌啊，涨啥，](https://www.v2ex.com/t/697923) ![](assets/new.png)  
 - [2020-08-13-想入配置大杯或者超大杯（高配）的（尺寸小点吧，便宜）新-mbp，不知道什么时候适合入手呢？](https://www.v2ex.com/t/697922) ![](assets/new.png)  
 - [2020-08-13-rixcloud-改名后登陆不上新网址](https://www.v2ex.com/t/697921) ![](assets/new.png)  
@@ -1114,8 +1114,8 @@
 </summary>
 
 
-- [2020-08-13-Python-制作图片验证码？也就三行代码罢了](https://toutiao.io/k/4rvchvo) ![](assets/new.png)  
 - [2020-08-13-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-13-Python-制作图片验证码？也就三行代码罢了](https://toutiao.io/k/4rvchvo) ![](assets/new.png)  
 - [2020-08-13-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
 - [2020-08-13-浅谈数仓分层和模型](https://toutiao.io/k/6kx5cgk) ![](assets/new.png)  
 - [2020-08-13-如何有效防止-SQL-注入攻击](https://toutiao.io/k/b819euj) ![](assets/new.png)  
@@ -1132,8 +1132,8 @@
 - [2020-08-13-分布式锁带来的-“一致性”-问题](https://toutiao.io/k/bffrhwg) ![](assets/new.png)  
 - [2020-08-13-Redis-集合相关命令](https://toutiao.io/k/t5ft4w8) ![](assets/new.png)  
 - [2020-08-13-聊聊安全](https://toutiao.io/k/sdy7nuy) ![](assets/new.png)  
-- [2020-08-13-什么是见解、如何实现算法见解？（Mixlab-智能可视化系列）](https://toutiao.io/k/ccjizo9) ![](assets/new.png)  
 - [2020-08-13-Redis-作者-Antirez-与-Contributor-Mattsta-之间关于-CRC-的-Battle](https://toutiao.io/k/c8gp8hk) ![](assets/new.png)  
+- [2020-08-13-什么是见解、如何实现算法见解？（Mixlab-智能可视化系列）](https://toutiao.io/k/ccjizo9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

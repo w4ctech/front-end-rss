@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 12:03:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 12:12:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,7 +83,6 @@
 - [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
-- [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-06-张玉环被羁押近-27-年后无罪释放，他前妻接受采访的视频却刷屏了](https://www.ershicimi.com/p/882172c69d257f4c5f68e3dd2aa0249d) 
 - [2020-08-13-🔥新加坡-技术移民机会-知名海外直播产品公司，招聘高级-Computer-Graphics-算法工程师，网络传输算法工程师，机器学习工程师（网络传输方向）等高级算法...](https://www.v2ex.com/t/698056) 
 - [2020-08-13-webRtc](https://www.v2ex.com/t/698038) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-13 04:48:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 05:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-13-腾讯处理突发事情都是靠装死吗？](https://www.v2ex.com/t/697936) 
 - [2020-08-13-车用那种靠静电吸附的侧挡，不用时是否需要拿下来](https://www.v2ex.com/t/697935) 
 - [2020-08-13-发现-mac-big-sur-安装程序一个很蠢的-bug](https://www.v2ex.com/t/697934) 
 - [2020-08-13-没有人关注苹果-9-10-月份发布的的第一台-ARM-的-MacBook](https://www.v2ex.com/t/697933) 

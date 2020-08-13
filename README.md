@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 23:08:58，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 23:18:05，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-13-macbook-pro-的-led-屏幕是采用-PWM-调光吗?](https://www.v2ex.com/t/698126) ![](assets/new.png)  
 - [2020-08-13-数据库工具-Navicat-全家桶-20%折扣](https://www.v2ex.com/t/698125) ![](assets/new.png)  
 - [2020-08-13-ZX-Spectrum-重制版，一个有趣的-Kickstarter-项目](https://www.v2ex.com/t/698124) ![](assets/new.png)  
 - [2020-08-13-2020-年，对-Ubuntu-支持良好的笔记本，求推荐](https://www.v2ex.com/t/698123) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-13-有沒有拼-2T-icloud-Family-Storage-的？美區](https://www.v2ex.com/t/698101) ![](assets/new.png)  
 - [2020-08-13-今年的确定性机会](https://www.v2ex.com/t/698098) ![](assets/new.png)  
 - [2020-08-13-pxel3a-怎么样有没有大佬分享下实际感受](https://www.v2ex.com/t/698096) ![](assets/new.png)  
-- [2020-08-13-Mac-mini-如何在无键盘的情况下解锁](https://www.v2ex.com/t/698095) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

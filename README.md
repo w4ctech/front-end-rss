@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 02:48:29，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 03:02:43，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-13-想换-Android-机，但是苹果的生态问题如何解决？有替代方案吗？](https://www.v2ex.com/t/697893) ![](assets/new.png)  
+- [2020-08-13-dnspod.com-的邮件功能是不是坏了？](https://www.v2ex.com/t/697892) ![](assets/new.png)  
+- [2020-08-13-请问有兄弟用过-eipass-密码管理这款工具吗？](https://www.v2ex.com/t/697891) ![](assets/new.png)  
+- [2020-08-13-有哪位-v-友有-a-股股票的历史数据可以分享的](https://www.v2ex.com/t/697890) ![](assets/new.png)  
+- [2020-08-13-django-触发信号后就设置一个值，这个值怎么使用？](https://www.v2ex.com/t/697889) ![](assets/new.png)  
+- [2020-08-13-小米-10-Ultra-版的-120W-充电器，充-MacBook-Pro-可以吗？](https://www.v2ex.com/t/697888) ![](assets/new.png)  
 - [2020-08-13-黑苹果双屏-颜色不对问题-发紫](https://www.v2ex.com/t/697887) ![](assets/new.png)  
 - [2020-08-13-突然发现每个月养老保险比伙食费都多。。。。](https://www.v2ex.com/t/697885) ![](assets/new.png)  
 - [2020-08-13-关于分布式的问题请教](https://www.v2ex.com/t/697884) ![](assets/new.png)  
@@ -1066,12 +1072,6 @@
 - [2020-08-13-阿里云看下](https://www.v2ex.com/t/697875) ![](assets/new.png)  
 - [2020-08-13-mbp-接口不够用了，有没有雷电-3-转-Type-C-的拓展坞](https://www.v2ex.com/t/697874) ![](assets/new.png)  
 - [2020-08-13-编程问题-如何给-所有子类的-同个父类属性-赋值。](https://www.v2ex.com/t/697873) ![](assets/new.png)  
-- [2020-08-13-大部分非机动车道没有红绿灯，感觉很不合理](https://www.v2ex.com/t/697869) ![](assets/new.png)  
-- [2020-08-13-Python-如何实现-connect-隧道请求？](https://www.v2ex.com/t/697868) ![](assets/new.png)  
-- [2020-08-13-c++-可以通过-dump-或-core-调试分析出哪个线程修改了变量吗？](https://www.v2ex.com/t/697865) ![](assets/new.png)  
-- [2020-08-13-正版-Windows-10-家庭/专业版-正版操作系统-2-折购买](https://www.v2ex.com/t/697864) ![](assets/new.png)  
-- [2020-08-13-今天查文档才发现-layui-社区关闭了，有知道内情的吗？](https://www.v2ex.com/t/697863) ![](assets/new.png)  
-- [2020-08-13-Google-面试题：最大假期天数如何获得最长的假期）](https://www.v2ex.com/t/697861) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,23 +1117,23 @@
 - [2020-08-13-Python-制作图片验证码？也就三行代码罢了](https://toutiao.io/k/4rvchvo) ![](assets/new.png)  
 - [2020-08-13-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
 - [2020-08-13-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-13-浅谈数仓分层和模型](https://toutiao.io/k/6kx5cgk) ![](assets/new.png)  
 - [2020-08-13-如何有效防止-SQL-注入攻击](https://toutiao.io/k/b819euj) ![](assets/new.png)  
 - [2020-08-13-为什么-CPU-访问硬盘很慢](https://toutiao.io/k/5wzucah) ![](assets/new.png)  
-- [2020-08-13-浅谈数仓分层和模型](https://toutiao.io/k/6kx5cgk) ![](assets/new.png)  
 - [2020-08-13-Kylin-最佳实践：爱奇艺如何处理千亿级数据](https://toutiao.io/k/7u3df9c) ![](assets/new.png)  
 - [2020-08-13-Redis-模块机制：模块编写篇](https://toutiao.io/k/exlkydf) ![](assets/new.png)  
 - [2020-08-13-是谁在调用我？使用-arthas-+-jprofiler-做复杂链路分析](https://toutiao.io/k/ywhgjel) ![](assets/new.png)  
 - [2020-08-13-BoltDB-1.3.0-实现分析（四）](https://toutiao.io/k/bjs9uxi) ![](assets/new.png)  
 - [2020-08-13-Excelize-2.3.0-发布,-Go-语言-Excel-文档基础库](https://toutiao.io/k/sj4cece) ![](assets/new.png)  
-- [2020-08-13-云原生安全：docker-容器逃逸](https://toutiao.io/k/9oztisp) ![](assets/new.png)  
 - [2020-08-13-软件测试中的-18-个难题](https://toutiao.io/k/21twbut) ![](assets/new.png)  
+- [2020-08-13-云原生安全：docker-容器逃逸](https://toutiao.io/k/9oztisp) ![](assets/new.png)  
 - [2020-08-13-信也科技的-Flutter-实践之路](https://toutiao.io/k/2y0cvix) ![](assets/new.png)  
 - [2020-08-13-k8s-client-go-源码剖析（一）](https://toutiao.io/k/a5ik27m) ![](assets/new.png)  
-- [2020-08-13-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
 - [2020-08-13-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-13-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-13-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
 - [2020-08-13-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-13-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-13-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-13-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

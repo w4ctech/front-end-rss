@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 08:33:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 08:46:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,7 +47,6 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-13-几维安全用代码虚拟化技术解决-IOT-安全核心痛点，让万物互联更安全](https://www.v2ex.com/t/697977) 
-- [2020-08-13-nfs-client-provisioner-这个玩意可以迁移数据么?](https://www.v2ex.com/t/697964) 
 - [2020-08-13-k8s-client-go-源码剖析（一）](https://toutiao.io/k/a5ik27m) 
 - [2020-08-13-云原生安全：docker-容器逃逸](https://toutiao.io/k/9oztisp) 
 - [2020-08-13-聊聊安全](https://toutiao.io/k/sdy7nuy) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 08:33:25，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 08:46:29，:rocket: 更新条数: +3290， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1042,12 @@
 </summary>
 
 
+- [2020-08-13-杭州-浙江中南集团急招-3D-场景设计/关卡策划/数值策划/客户端开发（内有顶级-MOBA-手游彩蛋）](https://www.v2ex.com/t/698016) ![](assets/new.png)  
+- [2020-08-13-产品、前后端、运营岗，地点，北京、深圳、上海、杭州。欢迎有兴趣的小伙伴联系](https://www.v2ex.com/t/698015) ![](assets/new.png)  
+- [2020-08-13-在千兆内网环境中，低延迟传输一路-720p-视频一般用什么协议](https://www.v2ex.com/t/698014) ![](assets/new.png)  
+- [2020-08-13-公司电脑禁止使用微信-PC-端-有什么好的办法没](https://www.v2ex.com/t/698013) ![](assets/new.png)  
+- [2020-08-13-Python-aiohttp-访问-twitter-关于-ssl-问题](https://www.v2ex.com/t/698012) ![](assets/new.png)  
+- [2020-08-13-译-详解-Node.js-事件循环（翻译自-Node.js-官网文档）](https://www.v2ex.com/t/698011) ![](assets/new.png)  
 - [2020-08-13-为什么大家关注的都是-LPR-固定利率和浮动利率，讨论浮动值的却很少？](https://www.v2ex.com/t/698010) ![](assets/new.png)  
 - [2020-08-13-招大前端工程师-小米小爱业务北京](https://www.v2ex.com/t/698009) ![](assets/new.png)  
 - [2020-08-13-为什么-APP-端登录也要有验证码？](https://www.v2ex.com/t/698007) ![](assets/new.png)  
@@ -1066,12 +1062,6 @@
 - [2020-08-13-一个月前出于兴趣写了个工具类，关于-EXCEL-导入的，现在不知道如何扩展](https://www.v2ex.com/t/697995) ![](assets/new.png)  
 - [2020-08-13-成都-上市美企内推](https://www.v2ex.com/t/697992) ![](assets/new.png)  
 - [2020-08-13-北京海淀区-数据与爬虫开发工程师-25-40-万](https://www.v2ex.com/t/697991) ![](assets/new.png)  
-- [2020-08-13-mysql-直接-select-sumamount-from-....-和先-select-amount-from-...-然后用-Java-求和有什么区别吗？](https://www.v2ex.com/t/697988) ![](assets/new.png)  
-- [2020-08-13-大佬们，有在金蝶云工作的吗，那边工作怎么样?](https://www.v2ex.com/t/697987) ![](assets/new.png)  
-- [2020-08-13-javascript-使用正则表达式全局替换字符串，如何在匹配结果基础上修改？](https://www.v2ex.com/t/697986) ![](assets/new.png)  
-- [2020-08-13-虚拟货币是不是无法产生利息？](https://www.v2ex.com/t/697984) ![](assets/new.png)  
-- [2020-08-13-换卡了](https://www.v2ex.com/t/697983) ![](assets/new.png)  
-- [2020-08-13-powershell-的转义规则](https://www.v2ex.com/t/697980) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

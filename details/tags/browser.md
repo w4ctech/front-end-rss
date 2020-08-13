@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 08:10:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 08:21:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,9 +31,6 @@
 - [2020-08-09-前端周报：印度政府已要求应用商店下架百度和微博；微信回应特朗普封禁：正在评估；安卓版-Chrome](https://www.ershicimi.com/p/8851a5df79a6834f39ee004a86ff2fa8) 
 - [2020-08-02-前端周报：Edge-地址栏输入任意内容导致浏览器崩溃；阿里最短命-P10：之前任百度云副总裁；微软首](https://www.ershicimi.com/p/4cf689cb1d6ef81716cb74be7394d0d5) 
 - [2020-08-06-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/99fc54bf84ab2b810ca1c203c83cf505) 
-- [2020-08-10-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a2929b813f88b5317d77d308314b161d) 
-- [2020-08-08-十五张图带你彻底搞懂从URL到页面展示发生的故事](https://www.ershicimi.com/p/69273fec87f05a5ac2966608fa6766c6) 
-- [2020-07-29-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/09cb1e7efc8578dd3041798220627091) 
 - [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
 - [2020-08-04-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/871f09b3bcea8e9a831bcf53f804ee83) 
 - [2020-08-12-为什么cookie会有httponly属性?真实案例解释XSS的三种攻击](https://www.ershicimi.com/p/d903df7fbd5154c7e85f3b0a90158460) 
@@ -43,7 +40,6 @@
 - [2020-08-01-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a91ddbaacd702f621d78a36aff9c7bd6) 
 - [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
 - [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) 
-- [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-13-几维安全用代码虚拟化技术解决-IOT-安全核心痛点，让万物互联更安全](https://www.v2ex.com/t/697977) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 16:02:44，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 16:10:25，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-13-世卫组织：全球新冠肺炎确诊病例超过2043万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir4ImrsPgpRHaBuFpWLAn200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-意大利新增病例显著增加-局部封锁或难以避免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix8SzLa3EQLpH6o6pUFUe200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-莫斯科开学不强制学生戴口罩-暂无恢复居家隔离制度计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFv8FJ93cYz7Rm0sv1R49200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-巴西一看守所严重超负荷运转-近一半犯人感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijKeuxviu4WTh2Pz4BZh2200813&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-受疫情影响-泰国主要机场今年第三季度旅客吞吐量下降88.69％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQSzky0KZqFL3UHdjxxQ200813&isfromapp=1) ![](assets/new.png)  
-- [2020-08-13-国家卫健委、教育部：秋季开学后中小学生应随身备用口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif1ef5Rno53VFDSmN2GSe200813&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 13:03:02，:rocket: 更新条数: +3302， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 13:09:25，:rocket: 更新条数: +3302， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1118,8 +1118,8 @@
 - [2020-08-13-Python-制作图片验证码？也就三行代码罢了](https://toutiao.io/k/4rvchvo) ![](assets/new.png)  
 - [2020-08-13-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
 - [2020-08-13-浅谈数仓分层和模型](https://toutiao.io/k/6kx5cgk) ![](assets/new.png)  
-- [2020-08-13-Kylin-最佳实践：爱奇艺如何处理千亿级数据](https://toutiao.io/k/7u3df9c) ![](assets/new.png)  
 - [2020-08-13-Redis-模块机制：模块编写篇](https://toutiao.io/k/exlkydf) ![](assets/new.png)  
+- [2020-08-13-Kylin-最佳实践：爱奇艺如何处理千亿级数据](https://toutiao.io/k/7u3df9c) ![](assets/new.png)  
 - [2020-08-13-为什么-CPU-访问硬盘很慢](https://toutiao.io/k/5wzucah) ![](assets/new.png)  
 - [2020-08-13-Excelize-2.3.0-发布，Go-语言-Excel-文档基础库](https://toutiao.io/k/sj4cece) ![](assets/new.png)  
 - [2020-08-13-如何有效防止-SQL-注入攻击](https://toutiao.io/k/b819euj) ![](assets/new.png)  
@@ -1127,8 +1127,8 @@
 - [2020-08-13-BoltDB-1.3.0-实现分析（四）](https://toutiao.io/k/bjs9uxi) ![](assets/new.png)  
 - [2020-08-13-软件测试中的-18-个难题](https://toutiao.io/k/21twbut) ![](assets/new.png)  
 - [2020-08-13-k8s-client-go-源码剖析（一）](https://toutiao.io/k/a5ik27m) ![](assets/new.png)  
-- [2020-08-13-云原生安全：docker-容器逃逸](https://toutiao.io/k/9oztisp) ![](assets/new.png)  
 - [2020-08-13-分布式锁带来的-“一致性”-问题](https://toutiao.io/k/bffrhwg) ![](assets/new.png)  
+- [2020-08-13-云原生安全：docker-容器逃逸](https://toutiao.io/k/9oztisp) ![](assets/new.png)  
 - [2020-08-13-信也科技的-Flutter-实践之路](https://toutiao.io/k/2y0cvix) ![](assets/new.png)  
 - [2020-08-13-Redis-集合相关命令](https://toutiao.io/k/t5ft4w8) ![](assets/new.png)  
 - [2020-08-13-Redis-作者-Antirez-与-Contributor-Mattsta-之间关于-CRC-的-Battle](https://toutiao.io/k/c8gp8hk) ![](assets/new.png)  

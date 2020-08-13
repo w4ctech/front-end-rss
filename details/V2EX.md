@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-13 21:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 22:02:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-13-ZX-Spectrum-重制版，一个有趣的-Kickstarter-项目](https://www.v2ex.com/t/698124) 
 - [2020-08-13-2020-年，对-Ubuntu-支持良好的笔记本，求推荐](https://www.v2ex.com/t/698123) 
 - [2020-08-13-因为忘了-apple-pay-密码，导致-iPhone-被停用了。。。。](https://www.v2ex.com/t/698122) 
 - [2020-08-13-iPad-“屏幕使用时间”疑问](https://www.v2ex.com/t/698121) 
@@ -39,4 +40,3 @@
 - [2020-08-13-js-中的‘-’问题](https://www.v2ex.com/t/698079) 
 - [2020-08-13-搜狐秋招内推](https://www.v2ex.com/t/698076) 
 - [2020-08-13-坐标魔都-国际精品网-换套餐就不让保留了？](https://www.v2ex.com/t/698075) 
-- [2020-08-13-为啥-7zip-360-压缩能无视伪加密的-zip-文件？](https://www.v2ex.com/t/698074) 

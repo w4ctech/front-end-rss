@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 06:23:15，:rocket: 更新条数: +3305， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 06:31:45，:rocket: 更新条数: +3306， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-13-上海-喜马拉雅社招-急招一个机器翻译方向的小伙伴](https://www.v2ex.com/t/697962) ![](assets/new.png)  
+- [2020-08-13-一时-coding-一时骂，一直-coding-一直爽。。](https://www.v2ex.com/t/697961) ![](assets/new.png)  
+- [2020-08-13-新增和编辑接口分开好还是合在一起好](https://www.v2ex.com/t/697960) ![](assets/new.png)  
+- [2020-08-13-独立开发者开发小程序是不是一开始就注册企业类型会比较好？](https://www.v2ex.com/t/697959) ![](assets/new.png)  
 - [2020-08-13-哈啰出行-盛夏强势来袭](https://www.v2ex.com/t/697958) ![](assets/new.png)  
 - [2020-08-13-刚刚被联通承诺最低消费的合约秀了](https://www.v2ex.com/t/697957) ![](assets/new.png)  
 - [2020-08-13-建立了一个计划监督打卡群，觉得能自觉遵守群打卡要求的来，拒绝混水！](https://www.v2ex.com/t/697956) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-13-typora-就是加载不了图片！卸载重装也不行，还有没有哪个软件可以用七牛云图床](https://www.v2ex.com/t/697944) ![](assets/new.png)  
 - [2020-08-13-实用-py-SubscriptableFileIO-使-FileIO-支持数据切片](https://www.v2ex.com/t/697943) ![](assets/new.png)  
 - [2020-08-13-速度！优酷会员-12-元一年升级到酷喵](https://www.v2ex.com/t/697940) ![](assets/new.png)  
-- [2020-08-13-深圳25K~40K腾讯高级前端开发工程师](https://www.v2ex.com/t/697938) ![](assets/new.png)  
-- [2020-08-13-网易云的权限](https://www.v2ex.com/t/697937) ![](assets/new.png)  
-- [2020-08-13-腾讯处理突发事情都是靠装死吗？](https://www.v2ex.com/t/697936) ![](assets/new.png)  
-- [2020-08-13-车用那种靠静电吸附的侧挡，不用时是否需要拿下来](https://www.v2ex.com/t/697935) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

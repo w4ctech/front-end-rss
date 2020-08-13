@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 06:23:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 06:31:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -55,4 +55,5 @@
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
 - [2020-08-13-发个招聘贴-base-杭州,-965](https://www.v2ex.com/t/697953) 
 - [2020-08-13-面试一个一万左右的人,让他写冒泡排序,递归和一些基础-sql-题,会不会过于简单](https://www.v2ex.com/t/697948) 
+- [2020-08-13-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 08:46:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 08:48:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2311,6 +2311,12 @@
 - [2020-07-17-拉勾-7-周年，拉勾教育免费公开所有技术专栏！](https://www.ershicimi.com/p/4e864c67e23502b38cac11e0924f6567) 
 - [2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html) 
 - [2020-08-07-科技爱好者周刊（第-119-期）：降雨量和保险博弈-](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html) 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [2020-08-11-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/b8001da66920d15bffe0222d0523d534) 
 - [2020-08-10-如何写技术文章](https://www.ershicimi.com/p/6a7b49e3b7e50d9350b85884aba9dd4b) 
 - [2020-08-10-一次性清除“知乎”所有DIV](https://www.ershicimi.com/p/1c71f47b56203235d6e8c66643fbd383) 

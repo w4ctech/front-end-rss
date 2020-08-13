@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-13 06:48:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 07:02:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-13-小米退出-Android-One，不开心。。](https://www.v2ex.com/t/697973) 
 - [2020-08-13-V-友们有用罗技-M590-无线鼠标的吗，这款鼠标不能用国产电池？](https://www.v2ex.com/t/697970) 
 - [2020-08-13-准备入行互联网的女萌新来报到啦～](https://www.v2ex.com/t/697969) 
 - [2020-08-13-js.cool-为开源项目提供免费的域名托管](https://www.v2ex.com/t/697968) 
@@ -45,4 +46,3 @@
 - [2020-08-13-快手内推-快手-2021-校招内推火热开启](https://www.v2ex.com/t/697928) 
 - [2020-08-13-上海-半导体-EDA-Synopsys-求一位-OPC-Application-Engineer](https://www.v2ex.com/t/697927) 
 - [2020-08-13-长沙电信也有-CN2-节点了？](https://www.v2ex.com/t/697926) 
-- [2020-08-13-大爷的，有本事今天再跌啊，涨啥，](https://www.v2ex.com/t/697923) 

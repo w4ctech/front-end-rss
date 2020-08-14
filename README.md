@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 10:02:57，:rocket: 更新条数: +3525， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 10:10:05，:rocket: 更新条数: +3525， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-14-大家如何看待公司里的工作与学习工作无关的新技术之间的时间分配矛盾？](https://www.v2ex.com/t/698321) ![](assets/new.png)  
 - [2020-08-14-求教-k8s-部署-mysql-问题](https://www.v2ex.com/t/698319) ![](assets/new.png)  
 - [2020-08-14-用-Spring-Boot-仿一个-V2EX-前后端分离，需要用到哪些框架？](https://www.v2ex.com/t/698316) ![](assets/new.png)  
 - [2020-08-14-妙控板好是好，就是用的手腕痛](https://www.v2ex.com/t/698315) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-14-公众号被封号了，里面的流量主的钱弄找回了吗？](https://www.v2ex.com/t/698297) ![](assets/new.png)  
 - [2020-08-14-内推-滴滴-前端，后端-算法，-base-北京-杭州](https://www.v2ex.com/t/698296) ![](assets/new.png)  
 - [2020-08-14-职场真是“做人留一线，日后好相见”验证场景-TOP1](https://www.v2ex.com/t/698295) ![](assets/new.png)  
-- [2020-08-14-没有模块或者-App-能使-Android-同时播放多个音频而不被暂停？](https://www.v2ex.com/t/698294) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,8 +1149,8 @@
 - [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
 - [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
 - [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
-- [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
+- [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-小步快跑，快速迭代：安全运营的器术法道](https://toutiao.io/k/p9zq1tc) ![](assets/new.png)  
 - [2020-08-14-提前批算法工程师面试之路](https://toutiao.io/k/33s0h78) ![](assets/new.png)  
 - [2020-08-14-NTLM-的基操](https://toutiao.io/k/8v99f45) ![](assets/new.png)  

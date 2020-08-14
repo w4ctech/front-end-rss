@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 13:33:17，:rocket: 更新条数: +3306， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 13:46:37，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-14-请教，还有什么网站项目值得投资开发](https://www.v2ex.com/t/698353) ![](assets/new.png)  
+- [2020-08-14-你们的-iMac-都是用的什么扩展内存](https://www.v2ex.com/t/698352) ![](assets/new.png)  
+- [2020-08-14-win7-update-更新.NET4.8-总是报错，错误代码-643，打其他补丁正常](https://www.v2ex.com/t/698351) ![](assets/new.png)  
 - [2020-08-14-宽带的限速对-KCP-无效吗？](https://www.v2ex.com/t/698350) ![](assets/new.png)  
 - [2020-08-14-macos-版本太老无法购买限免-app-reeder4](https://www.v2ex.com/t/698349) ![](assets/new.png)  
 - [2020-08-14-concurrent.futures-多进程/多线程之间，子程如何动态与主线协调变量数值？](https://www.v2ex.com/t/698348) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-14-面试算法题用什么语言？](https://www.v2ex.com/t/698332) ![](assets/new.png)  
 - [2020-08-14-25-岁，工作三年，现在进国家单位是不是太早了](https://www.v2ex.com/t/698331) ![](assets/new.png)  
 - [2020-08-14-8/17-算法免费讲座-掌握刷题套路-，刷-100-题胜过别⼈刷-300-题！](https://www.v2ex.com/t/698329) ![](assets/new.png)  
-- [2020-08-14-让你们看看什么是股神般的操作](https://www.v2ex.com/t/698328) ![](assets/new.png)  
-- [2020-08-14-逆波兰表达式求值](https://www.v2ex.com/t/698327) ![](assets/new.png)  
-- [2020-08-14-肝半个多月，刚刚上架的基金管理插件](https://www.v2ex.com/t/698325) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

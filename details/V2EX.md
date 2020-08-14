@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-14 13:33:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 13:46:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-14-请教，还有什么网站项目值得投资开发](https://www.v2ex.com/t/698353) 
+- [2020-08-14-你们的-iMac-都是用的什么扩展内存](https://www.v2ex.com/t/698352) 
+- [2020-08-14-win7-update-更新.NET4.8-总是报错，错误代码-643，打其他补丁正常](https://www.v2ex.com/t/698351) 
 - [2020-08-14-宽带的限速对-KCP-无效吗？](https://www.v2ex.com/t/698350) 
 - [2020-08-14-macos-版本太老无法购买限免-app-reeder4](https://www.v2ex.com/t/698349) 
 - [2020-08-14-concurrent.futures-多进程/多线程之间，子程如何动态与主线协调变量数值？](https://www.v2ex.com/t/698348) 
@@ -40,5 +43,3 @@
 - [2020-08-14-完美世界的-88.com-邮箱开放注册](https://www.v2ex.com/t/698307) 
 - [2020-08-14-7Plus-换了尾插后快充不能使用了](https://www.v2ex.com/t/698306) 
 - [2020-08-14-Mozilla-裁员，-MDN-何去何从…](https://www.v2ex.com/t/698305) 
-- [2020-08-14-更了-ipados14-apple-news-彻底打不开了](https://www.v2ex.com/t/698302) 
-- [2020-08-14-阿里云体验实验室-教你如何《快速搭建-LNMP-环境》](https://www.v2ex.com/t/698301) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-14 14:48:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 15:02:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-14-StarLink-测试版带宽及延迟被曝光](https://www.v2ex.com/t/698363) 
+- [2020-08-14-QA-转-RD-建议](https://www.v2ex.com/t/698362) 
 - [2020-08-14-堡垒之夜的-Epic-Game-大战-Apple-制作了这个模仿苹果-1984-广告的宣传片](https://www.v2ex.com/t/698361) 
 - [2020-08-14-4G-网络无法访问-v-站，其他网站（bing，-zhihu）速度都正常，切到-wifi-之后一切正常](https://www.v2ex.com/t/698360) 
 - [2020-08-14-怎么给-Android-团队提建议增加历史删除文件恢复功能？](https://www.v2ex.com/t/698359) 
@@ -42,4 +44,3 @@
 - [2020-08-14-用-Spring-Boot-仿一个-V2EX-前后端分离，需要用到哪些框架？](https://www.v2ex.com/t/698316) 
 - [2020-08-14-妙控板好是好，就是用的手腕痛](https://www.v2ex.com/t/698315) 
 - [2020-08-14-招聘：深圳-非-996，硅谷-13-亿美元独角兽-Flexport，寻找有工匠精神的同道中人-全栈/DevOps](https://www.v2ex.com/t/698314) 
-- [2020-08-14-能做出这种网站的前端程序员是什么水平?](https://www.v2ex.com/t/698313) 

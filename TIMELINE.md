@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-14 15:20:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-14 15:31:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -26,9 +26,9 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
-<td>01月</td>
-<td>02月</td>
-<td>03月</td>
+<td><a href="#2019-01">01月</a></td>
+<td><a href="#2019-02">02月</a></td>
+<td><a href="#2019-03">03月</a></td>
 <td>04月</td>
 <td>05月</td>
 <td><a href="#2019-06">06月</a></td>
@@ -38,6 +38,24 @@
 <td><a href="#2019-10">10月</a></td>
 <td><a href="#2019-11">11月</a></td>
 <td><a href="#2019-12">12月</a></td>
+</tr>
+
+<tr>
+<th colspan="12">2018年</th>
+</tr>
+<tr>
+<td>01月</td>
+<td>02月</td>
+<td>03月</td>
+<td>04月</td>
+<td>05月</td>
+<td>06月</td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td>11月</td>
+<td><a href="#2018-12">12月</a></td>
 </tr>
 
 </table>
@@ -410,6 +428,7 @@
 - [【知乎日报】2020-08-04-开播即爆款的《三十而已》，却让我看清了国产剧的「真面目」](https://www.ershicimi.com/p/779698f9263d720874486e310931e6e9) 
 - [【知乎日报】2020-08-04-万茜采访「翻车」：越火，越能看出一个人的本性](https://www.ershicimi.com/p/5ca679950035bfe101e02dcdfbea5c02) 
 - [【知乎日报】2020-08-04-知乎故事-|-我是被老婆「撩」到手的](https://www.ershicimi.com/p/7489ac9af61c0d3007895a981ef3a938) 
+- [【V2EX】2020-08-14-有人试过吧-pixel-屏幕换成-LCD-吗](https://www.v2ex.com/t/698368) 
 - [【V2EX】2020-08-14-有没有开源的-Crontab-Web-管理工具推荐，试了几个都感觉不是很好用](https://www.v2ex.com/t/698367) 
 - [【V2EX】2020-08-14-说个搞笑的事情，我冒烟不能开机需要换主板的-MBP-自己好了~~](https://www.v2ex.com/t/698364) 
 - [【V2EX】2020-08-14-StarLink-测试版带宽及延迟被曝光](https://www.v2ex.com/t/698363) 
@@ -447,7 +466,6 @@
 - [【V2EX】2020-08-14-PHP-怎样才能验证-ssl/tls-证书的有效性](https://www.v2ex.com/t/698323) 
 - [【V2EX】2020-08-14-大腿们，求个-k2p-的官改固件下载地址。。](https://www.v2ex.com/t/698322) 
 - [【V2EX】2020-08-14-大家如何看待公司里的工作与学习工作无关的新技术之间的时间分配矛盾？](https://www.v2ex.com/t/698321) 
-- [【V2EX】2020-08-14-求教-k8s-部署-mysql-问题](https://www.v2ex.com/t/698319) 
 - [【技术头条】2020-08-14-分享一个Flink-checkpoint失败的问题和解决办法-club.perfma.com](https://blogread.cn/news/go.php?idItem=13677&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1733519%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-08-14-API设计的几条原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-08-14-怎样消灭Bug？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -488,20 +506,20 @@
 - [【开发者头条】2020-08-14-小步快跑，快速迭代：安全运营的器术法道](https://toutiao.io/k/p9zq1tc) 
 - [【开发者头条】2020-08-14-提前批算法工程师面试之路](https://toutiao.io/k/33s0h78) 
 - [【开发者头条】2020-08-14-NTLM-的基操](https://toutiao.io/k/8v99f45) 
-- [【开发者头条】2020-08-14-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
-- [【开发者头条】2020-08-14-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
-- [【开发者头条】2020-08-14-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) 
-- [【开发者头条】2020-08-14-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) 
-- [【开发者头条】2020-08-14-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
-- [【开发者头条】2020-08-14-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
-- [【开发者头条】2020-08-14-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
-- [【开发者头条】2020-08-14-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
-- [【开发者头条】2020-08-14-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
-- [【开发者头条】2020-08-14-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) 
-- [【开发者头条】2020-08-14-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) 
-- [【开发者头条】2020-08-14-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
+- [【开发者头条】2020-08-14-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) 
 - [【开发者头条】2020-08-14-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
+- [【开发者头条】2020-08-14-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
+- [【开发者头条】2020-08-14-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
+- [【开发者头条】2020-08-14-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
+- [【开发者头条】2020-08-14-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
+- [【开发者头条】2020-08-14-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
 - [【开发者头条】2020-08-14-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
+- [【开发者头条】2020-08-14-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
+- [【开发者头条】2020-08-14-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) 
+- [【开发者头条】2020-08-14-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) 
+- [【开发者头条】2020-08-14-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) 
+- [【开发者头条】2020-08-14-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
+- [【开发者头条】2020-08-14-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) 
 - [【开发者头条】2020-08-14-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) 
 - [【安全热点】2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) 
 - [【安全热点】2020-08-13-红队渗透手册之免杀篇](https://sec.thief.one/article_content?a_id=d228e82dbf1bf060bcfd097026dd9efe) 
@@ -2245,6 +2263,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html) 
 - [【前端开发博客】2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
 - [【前端开发博客】2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
+- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
+- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [【前端e进阶】2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [【前端e进阶】2020-03-05-2020.03.03-互联网大厂入职薪资更新表](https://www.ershicimi.com/p/7758b0618c2076417db69702ed3bc49d) 
 - [【前端e进阶】2020-03-04-大厂薪资揭秘2020年初版-数据可信度比较高，-大家可以自行参考。](https://www.ershicimi.com/p/039430d577e04cceec7189892fdca5f0) 
@@ -3480,6 +3500,54 @@
 - [【前端圈】2019-06-13-蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0) 
 - [【前端圈】2019-06-12-视频Vue.js作者在VueConf现场发布RFC](https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde) 
 - [【前端圈】2019-06-11-真山在-VueConf-2019-上海-现场发布-VuePress-1.0](https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624) 
+- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-03">
+ 2019-03
+</summary>
+
+
+- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-02">
+ 2019-02
+</summary>
+
+
+- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-01">
+ 2019-01
+</summary>
+
+
+- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
+- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2018-12">
+ 2018-12
+</summary>
+
+
+- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
+- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

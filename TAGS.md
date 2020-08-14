@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-14 07:09:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 07:19:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -115,7 +115,6 @@
 - [【前端迷】从零开始配置-TypeScript-项目](https://www.ershicimi.com/p/f842f28fb8eef6f52b56004e9b29fcf1)
 - [【奇舞周刊】Typescript-设计模式之工厂方法](https://www.ershicimi.com/p/d2844298970d62f62810c7e1b62503be)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
-- [【V2EX】TypeScript-的定义和基本用法](https://www.v2ex.com/t/698216)
 - [【开发者头条】TypeScript-设计模式之工厂方法](https://toutiao.io/k/p280wsr)
 - [【开发者头条】TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo)
 - [......【查看更多】......](./details/tags/typescript.md)
@@ -147,6 +146,7 @@
 - [【前端宇宙】13-个-你应该知道的-npm-快速开发技巧](https://www.ershicimi.com/p/f3ffb0316cd205ad9ebb79b6f85c5328)
 - [【前端瓶子君】在NPM上发布beta或alpha版](https://www.ershicimi.com/p/34b981b9bbda2a2019d900ecb99359e8)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【开发者头条】推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -332,6 +332,7 @@
 - [【前端宇宙】一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/4f9305adc2196470487ee0d4fbb50840)
 - [【前端瓶子君】一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/171df28ff0edbe1d56c921d7fa3ab686)
 - [【张鑫旭-鑫空间-鑫生活】SVG任意图形path曲线路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)
+- [【V2EX】杭州-Unity3d-主程序-招聘](https://www.v2ex.com/t/698266)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -461,7 +462,6 @@
 - [【V2EX】想用-Springboot-做后端接口，但组里-scala-大佬希望我用-Akka-Http-怎么办](https://www.v2ex.com/t/698252)
 - [【开发者头条】快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
 - [【开发者头条】提前批算法工程师面试之路](https://toutiao.io/k/33s0h78)
-- [【开发者头条】推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k)
 - [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

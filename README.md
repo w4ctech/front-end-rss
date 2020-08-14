@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 03:48:06，:rocket: 更新条数: +3310， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 04:02:48，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-14-睡觉打鼾越来越严重，怎么破？](https://www.v2ex.com/t/698212) ![](assets/new.png)  
+- [2020-08-14-shell-里-echo-如何同时输出单引号和双引号](https://www.v2ex.com/t/698210) ![](assets/new.png)  
+- [2020-08-14-问下各位后端大佬独自一人如何解决前端页面问题](https://www.v2ex.com/t/698209) ![](assets/new.png)  
+- [2020-08-14-一个程序员对小程序的思考](https://www.v2ex.com/t/698208) ![](assets/new.png)  
+- [2020-08-14-诡异的要死，谁能解释一下](https://www.v2ex.com/t/698207) ![](assets/new.png)  
+- [2020-08-14-腾讯校招内推-可推荐吃鸡项目组](https://www.v2ex.com/t/698206) ![](assets/new.png)  
 - [2020-08-14-国内有没有类似于-Firebase-Realtime-Database-的服务呀？](https://www.v2ex.com/t/698205) ![](assets/new.png)  
 - [2020-08-14-坐我后面的一个同事反反复复咳嗽了几个月了，大概是什么毛病](https://www.v2ex.com/t/698204) ![](assets/new.png)  
 - [2020-08-14-字节面试这么坑吗](https://www.v2ex.com/t/698203) ![](assets/new.png)  
@@ -1066,12 +1072,6 @@
 - [2020-08-14-坐对面的同事总是大声哼歌毫无自觉怎么办](https://www.v2ex.com/t/698194) ![](assets/new.png)  
 - [2020-08-14-搭建国外-AWS-上的网站，怎么保证国内可以流畅的访问？](https://www.v2ex.com/t/698193) ![](assets/new.png)  
 - [2020-08-14-时间机器备份极慢如何解决？](https://www.v2ex.com/t/698191) ![](assets/new.png)  
-- [2020-08-14-大家有接触过语义转换吗](https://www.v2ex.com/t/698190) ![](assets/new.png)  
-- [2020-08-14-程序员最怕什么？](https://www.v2ex.com/t/698189) ![](assets/new.png)  
-- [2020-08-14-求灭蟑螂的神药](https://www.v2ex.com/t/698188) ![](assets/new.png)  
-- [2020-08-14-有遇到过-chrome-浏览器看很多网站代码块背景是黑色的问题吗](https://www.v2ex.com/t/698187) ![](assets/new.png)  
-- [2020-08-14-移动的主题测试](https://www.v2ex.com/t/698186) ![](assets/new.png)  
-- [2020-08-14-各位老哥，离职工作交接一般要多久啊？](https://www.v2ex.com/t/698185) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,12 +1122,12 @@
 - [2020-08-14-译-Python-为什么要在-18-年前引入布尔类型？且与-C、C++-和-Java-都不同？](https://toutiao.io/k/h40ys77) ![](assets/new.png)  
 - [2020-08-14-TypeScript-设计模式之工厂方法](https://toutiao.io/k/p280wsr) ![](assets/new.png)  
 - [2020-08-14-漫谈分布式系统（二十一）：基于代价的优化](https://toutiao.io/k/ssyf7ey) ![](assets/new.png)  
-- [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
+- [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-今晚发车，赶紧上车吧！](https://toutiao.io/k/hmqka5v) ![](assets/new.png)  
+- [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
 - [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
 - [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
-- [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
 - [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
 - [2020-08-14-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  

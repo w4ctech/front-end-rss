@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-14 18:10:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 18:21:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-14-2-台-Nexus-5X-顺利升级到-Android8.0](https://www.v2ex.com/t/698383) 
 - [2020-08-14-Factorio-1.0](https://www.v2ex.com/t/698382) 
 - [2020-08-14-挡住太阳是否可以解决全球变暖的问题？](https://www.v2ex.com/t/698381) 
 - [2020-08-14-.Net-Core-速度快的原因是什么？](https://www.v2ex.com/t/698380) 
@@ -41,4 +42,3 @@
 - [2020-08-14-土区的-Netflix-账号不能看港区内容？](https://www.v2ex.com/t/698337) 
 - [2020-08-14-KFC-的微信小程序：下单居然还花上-10-分钟，严重的时候甚至无法结算。](https://www.v2ex.com/t/698336) 
 - [2020-08-14-新风尚，外卖可以点半份了](https://www.v2ex.com/t/698334) 
-- [2020-08-14-用-win10-截取视频片段，有没有推荐的软件？](https://www.v2ex.com/t/698333) 

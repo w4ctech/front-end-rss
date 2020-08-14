@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-14 02:10:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 02:21:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,8 +45,6 @@
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-08-13-大量-HTTP-请求调第三方慢接口引起的-fd-耗尽问题](https://www.v2ex.com/t/698116) 
-- [2020-08-13-信息安全-开放几个课程](https://www.v2ex.com/t/698115) 
 - [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) 
 - [2020-08-14-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
 - [2020-08-14-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) 

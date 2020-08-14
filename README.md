@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 16:21:02，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 16:31:39，:rocket: 更新条数: +3308， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-14-英国新增1441例新冠肺炎确诊病例-累计确诊316367例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiha7nw6233YM2e8rC1vBF200815&isfromapp=1) ![](assets/new.png)  
+- [2020-08-14-陕西安康今日中午12时已完成对兴安市场全面消杀-目前临时休市](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDAWchUhU5NM3WoYo5Ic8200814&isfromapp=1) ![](assets/new.png)  
+- [2020-08-14-针对英国把法国列入隔离清单-法国将采取“对等措施”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirqJyp6jwRMBCfupxp2XT200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-香港各界感谢内地支援-凝心聚力共抗疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qsBrU63LERU5Y4PZRmO200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-秘鲁新增新冠肺炎确诊病例5069例-累计确诊逾50万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADUG2O4ygrPXF9Qza50U200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-14-超过900名美国医护人员死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD1vyVdGUkQJhQcFX5ICW200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-14-乌鲁木齐：有确诊病例两次核酸检测呈阴性-第三次复阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6OZmHudvVk3nk68hqT71200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-14-乌鲁木齐：单日治愈出院和解除医学观察总数连续第7天超过新报告感染者人数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPj0HeIQE81BgLabsvtTc200814&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,7 @@
 </summary>
 
 
-- [2020-08-14-迫于小孩要看动画拼购小小优趣](https://www.v2ex.com/t/698377) ![](assets/new.png)  
+- [2020-08-14-小区联通宽带撑死只能达到-90-兆，怎么办？](https://www.v2ex.com/t/698378) ![](assets/new.png)  
 - [2020-08-14-第一个大小周的-996……我明天去不……](https://www.v2ex.com/t/698376) ![](assets/new.png)  
 - [2020-08-14-硬件越来越快，软件越来越慢？](https://www.v2ex.com/t/698373) ![](assets/new.png)  
 - [2020-08-14-VSCode-中有没有办法连接到-Onedrive-网盘并实时编辑文件？](https://www.v2ex.com/t/698372) ![](assets/new.png)  

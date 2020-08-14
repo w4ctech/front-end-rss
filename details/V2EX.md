@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-14 04:10:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 04:20:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-14-macbook-pro-16-升级到-10.15.6-后-VGA-外接屏幕不显示](https://www.v2ex.com/t/698217) 
+- [2020-08-14-TypeScript-的定义和基本用法](https://www.v2ex.com/t/698216) 
 - [2020-08-14-百亿补贴上搞了一台机械革命-S2-Air，香是香，就是感觉不对](https://www.v2ex.com/t/698215) 
 - [2020-08-14-2-5K-用户运营岗位，可远程，可兼职，可以开实习证明](https://www.v2ex.com/t/698214) 
 - [2020-08-14-这样的买房杠杆算大不？](https://www.v2ex.com/t/698213) 
@@ -48,4 +50,3 @@
 - [2020-08-14-看板应用-teambition-和其他企业系统的整合](https://www.v2ex.com/t/698170) 
 - [2020-08-14-HK-节点，-Google-Play-时常无法更新下载](https://www.v2ex.com/t/698169) 
 - [2020-08-14-Pzea-购买云主机付款后主机未开通，-V-友有渠道能联系到售后的方法吗？](https://www.v2ex.com/t/698168) 
-- [2020-08-14-远程-硅谷科技初创，招-React-Native-全栈工程师](https://www.v2ex.com/t/698166) 

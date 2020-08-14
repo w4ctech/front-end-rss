@@ -15839,6 +15839,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "虚拟机运行国产软件真的安全吗？",
+        "link": "https://www.v2ex.com/t/698386",
+        "date": "2020-08-14"
+      },
+      {
         "title": "对于开发转产品 各位有什么建议？",
         "link": "https://www.v2ex.com/t/698385",
         "date": "2020-08-14"
@@ -16021,11 +16026,6 @@
       {
         "title": "土区的 Netflix 账号不能看港区内容？",
         "link": "https://www.v2ex.com/t/698337",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "KFC 的微信小程序：下单居然还花上 10 分钟，严重的时候甚至无法结算。",
-        "link": "https://www.v2ex.com/t/698336",
         "date": "2020-08-14"
       }
     ]
@@ -16213,13 +16213,13 @@
         "date": "2020-08-14"
       },
       {
-        "title": "特征工程：类别特征的常见处理方式（含代码）",
-        "link": "https://toutiao.io/k/rtkzlgl",
+        "title": "听说同学你搞不懂 Java 的 LinkedHashMap，可笑",
+        "link": "https://toutiao.io/k/x0xsvse",
         "date": "2020-08-14"
       },
       {
-        "title": "听说同学你搞不懂 Java 的 LinkedHashMap，可笑",
-        "link": "https://toutiao.io/k/x0xsvse",
+        "title": "特征工程：类别特征的常见处理方式（含代码）",
+        "link": "https://toutiao.io/k/rtkzlgl",
         "date": "2020-08-14"
       },
       {
@@ -16228,13 +16228,13 @@
         "date": "2020-08-14"
       },
       {
-        "title": "Chrome 扩展插件数次审核被拒的惨痛经历",
-        "link": "https://toutiao.io/k/yzroche",
+        "title": "提前批算法工程师面试之路",
+        "link": "https://toutiao.io/k/33s0h78",
         "date": "2020-08-14"
       },
       {
-        "title": "提前批算法工程师面试之路",
-        "link": "https://toutiao.io/k/33s0h78",
+        "title": "Chrome 扩展插件数次审核被拒的惨痛经历",
+        "link": "https://toutiao.io/k/yzroche",
         "date": "2020-08-14"
       },
       {
@@ -16243,38 +16243,8 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-14"
-      },
-      {
         "title": "[推荐] 面试官：说一下你常用的加密算法",
         "link": "https://toutiao.io/k/z7rw71k",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
         "date": "2020-08-14"
       },
       {
@@ -16283,23 +16253,18 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
         "date": "2020-08-14"
       },
       {
@@ -16313,8 +16278,43 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-14"
       }
     ]

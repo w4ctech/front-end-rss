@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-14 19:19:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 19:31:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -203,7 +203,6 @@
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
 - [【V2EX】同一商家的-APP-和微信小程序比较，请问哪个连接会更快？](https://www.v2ex.com/t/698340)
-- [【V2EX】KFC-的微信小程序：下单居然还花上-10-分钟，严重的时候甚至无法结算。](https://www.v2ex.com/t/698336)
 - [【安全热点】【通知】隐私漏洞新增小程序和海外应用](https://sec.thief.one/article_content?a_id=8ee110c6b8af8aac03210ebf4624e971)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -464,6 +463,7 @@
 - [【开发者头条】快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
 - [【开发者头条】提前批算法工程师面试之路](https://toutiao.io/k/33s0h78)
 - [【开发者头条】推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k)
+- [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
 - [【开发者头条】推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

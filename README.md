@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 09:09:57，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 09:20:12，:rocket: 更新条数: +3310， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-14-能做出这种网站的前端程序员是什么水平?](https://www.v2ex.com/t/698313) ![](assets/new.png)  
+- [2020-08-14-苹果加入反微信禁令-如果-appstore-下架微信，你还会买苹果手机吗？](https://www.v2ex.com/t/698312) ![](assets/new.png)  
+- [2020-08-14-开单宝进销存-3-周年，序列号免费大派送！需要的话，源码一起带走~](https://www.v2ex.com/t/698311) ![](assets/new.png)  
+- [2020-08-14-每个月都会被「整理发票」所困扰的小伙伴们看过来！](https://www.v2ex.com/t/698310) ![](assets/new.png)  
 - [2020-08-14-招聘：-深圳-非-996，硅谷-13-亿美元独角兽-Flexport，寻找有工匠精神的同道中人-全栈/DevOps](https://www.v2ex.com/t/698308) ![](assets/new.png)  
 - [2020-08-14-完美世界的-88.com-邮箱开放注册](https://www.v2ex.com/t/698307) ![](assets/new.png)  
 - [2020-08-14-7Plus-换了尾插后快充不能使用了](https://www.v2ex.com/t/698306) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-14-爱奇艺上半年亏损一百多个亿](https://www.v2ex.com/t/698293) ![](assets/new.png)  
 - [2020-08-14-高考完了没事做，大佬们进来给我的博客提提意见呗](https://www.v2ex.com/t/698292) ![](assets/new.png)  
 - [2020-08-14-Reeder-4-限免，-Mac-OS-和-iOS-双平台](https://www.v2ex.com/t/698291) ![](assets/new.png)  
-- [2020-08-14-到底是什么原因促使你选择了-MyBatis-作为-ORMapping-的？](https://www.v2ex.com/t/698290) ![](assets/new.png)  
-- [2020-08-14-诸位,求推荐会计学入门的书籍或者教程](https://www.v2ex.com/t/698289) ![](assets/new.png)  
-- [2020-08-14-目前（2020-年-8-月）国内版-MIUI-的-FCM-推送是否能像原生/类原生一样正常工作？](https://www.v2ex.com/t/698288) ![](assets/new.png)  
-- [2020-08-14-服务器被扫描,发现一个好玩儿的,发给大家乐呵乐呵](https://www.v2ex.com/t/698286) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

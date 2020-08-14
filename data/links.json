@@ -13117,6 +13117,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2034期】全民K歌推流直播Web实践",
+        "link": "https://www.ershicimi.com/p/418fa8175221ad03a3dc474f0ba433a3",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "【第2033期】核心稳定、易扩展——开放关闭原则（The Open-Closed Principle",
+        "link": "https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb",
+        "date": "2020-08-14"
+      },
+      {
         "title": "【第2032期】基于react的组件库主题设计方案",
         "link": "https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500",
         "date": "2020-08-12"
@@ -13205,16 +13215,6 @@
         "title": "【招聘】北京洋葱学院招聘前端工程师(社招)",
         "link": "https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c",
         "date": "2020-08-04"
-      },
-      {
-        "title": "如何快速建立正确的前端知识体系？",
-        "link": "https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀",
-        "link": "https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3",
-        "date": "2020-08-03"
       }
     ]
   },
@@ -16925,6 +16925,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "每一个认认真真写文档的程序猿都会被无良 HR 逼成不写注释的屑码农",
+        "link": "https://www.v2ex.com/t/698393",
+        "date": "2020-08-14"
+      },
+      {
         "title": "上头一句话，下面就开始争先恐后表忠心了",
         "link": "https://www.v2ex.com/t/698392",
         "date": "2020-08-14"
@@ -17107,16 +17112,6 @@
       {
         "title": "房贷，邮储银行，选了固定审核后变成了 LPR",
         "link": "https://www.v2ex.com/t/698346",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "莫名其妙被注册了 GOV.CN 的用户",
-        "link": "https://www.v2ex.com/t/698344",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "Pagic 官网来啦！ Deno + React 驱动的静态网站生成器！",
-        "link": "https://www.v2ex.com/t/698343",
         "date": "2020-08-14"
       }
     ]
@@ -17334,58 +17329,8 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
         "date": "2020-08-14"
       },
       {
@@ -17394,18 +17339,68 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-14"
-      },
-      {
         "title": "[推荐] 分布式事务内幕",
         "link": "https://toutiao.io/k/82orv6z",
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
         "date": "2020-08-14"
       }
     ]

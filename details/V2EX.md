@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-14 22:34:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 22:46:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-14-每一个认认真真写文档的程序猿都会被无良-HR-逼成不写注释的屑码农](https://www.v2ex.com/t/698393) 
 - [2020-08-14-上头一句话，下面就开始争先恐后表忠心了](https://www.v2ex.com/t/698392) 
 - [2020-08-14-linksys-mesh-wifi-路由-用死啦，如何？](https://www.v2ex.com/t/698391) 
 - [2020-08-14-现在，技术美术和引擎程序员哪个更吃香？哪个更有前途？](https://www.v2ex.com/t/698390) 
@@ -42,5 +43,3 @@
 - [2020-08-14-macos-版本太老无法购买限免-app-reeder4](https://www.v2ex.com/t/698349) 
 - [2020-08-14-concurrent.futures-多进程/多线程之间，子程如何动态与主线协调变量数值？](https://www.v2ex.com/t/698348) 
 - [2020-08-14-房贷，邮储银行，选了固定审核后变成了-LPR](https://www.v2ex.com/t/698346) 
-- [2020-08-14-莫名其妙被注册了-GOV.CN-的用户](https://www.v2ex.com/t/698344) 
-- [2020-08-14-Pagic-官网来啦！-Deno-+-React-驱动的静态网站生成器！](https://www.v2ex.com/t/698343) 

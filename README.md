@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 22:34:00，:rocket: 更新条数: +3528， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 22:46:35，:rocket: 更新条数: +3527， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -229,6 +229,8 @@
 </summary>
 
 
+- [2020-08-14-【第2034期】全民K歌推流直播Web实践](https://www.ershicimi.com/p/418fa8175221ad03a3dc474f0ba433a3) ![](assets/new.png)  
+- [2020-08-14-【第2033期】核心稳定、易扩展——开放关闭原则（The-Open-Closed-Principle](https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb) ![](assets/new.png)  
 - [2020-08-12-【第2032期】基于react的组件库主题设计方案](https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500) ![](assets/new.png)  
 - [2020-08-12-【招聘】深圳富途招聘web前后端工程师](https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2) ![](assets/new.png)  
 - [2020-08-11-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f) ![](assets/new.png)  
@@ -247,8 +249,6 @@
 - [2020-08-05-京东物流风格-NutUI-发布了](https://www.ershicimi.com/p/f1e87e476eaba57e88be1c6870182673) ![](assets/new.png)  
 - [2020-08-04-【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306) ![](assets/new.png)  
 - [2020-08-04-【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c) ![](assets/new.png)  
-- [2020-08-03-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c) ![](assets/new.png)  
-- [2020-08-03-【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀](https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-14-每一个认认真真写文档的程序猿都会被无良-HR-逼成不写注释的屑码农](https://www.v2ex.com/t/698393) ![](assets/new.png)  
 - [2020-08-14-上头一句话，下面就开始争先恐后表忠心了](https://www.v2ex.com/t/698392) ![](assets/new.png)  
 - [2020-08-14-linksys-mesh-wifi-路由-用死啦，如何？](https://www.v2ex.com/t/698391) ![](assets/new.png)  
 - [2020-08-14-现在，技术美术和引擎程序员哪个更吃香？哪个更有前途？](https://www.v2ex.com/t/698390) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-14-硬件越来越快，软件越来越慢？](https://www.v2ex.com/t/698373) ![](assets/new.png)  
 - [2020-08-14-VSCode-中有没有办法连接到-Onedrive-网盘并实时编辑文件？](https://www.v2ex.com/t/698372) ![](assets/new.png)  
 - [2020-08-14-有没有什么软件/插件可以即时生成视频字幕？](https://www.v2ex.com/t/698371) ![](assets/new.png)  
-- [2020-08-14-有人试过吧-pixel-屏幕换成-LCD-吗](https://www.v2ex.com/t/698368) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

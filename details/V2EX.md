@@ -1,13 +1,18 @@
-:alarm_clock: 更新时间: 2020-08-14 03:10:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 03:19:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-14-坐对面的同事总是大声哼歌毫无自觉怎么办](https://www.v2ex.com/t/698194) 
+- [2020-08-14-搭建国外-AWS-上的网站，怎么保证国内可以流畅的访问？](https://www.v2ex.com/t/698193) 
+- [2020-08-14-时间机器备份极慢如何解决？](https://www.v2ex.com/t/698191) 
+- [2020-08-14-大家有接触过语义转换吗](https://www.v2ex.com/t/698190) 
+- [2020-08-14-程序员最怕什么？](https://www.v2ex.com/t/698189) 
 - [2020-08-14-求灭蟑螂的神药](https://www.v2ex.com/t/698188) 
 - [2020-08-14-有遇到过-chrome-浏览器看很多网站代码块背景是黑色的问题吗](https://www.v2ex.com/t/698187) 
-- [2020-08-14-放在国外-AWS-上的网站，怎么保证国内可以流畅的访问？](https://www.v2ex.com/t/698186) 
+- [2020-08-14-移动的主题测试](https://www.v2ex.com/t/698186) 
 - [2020-08-14-各位老哥，离职工作交接一般要多久啊？](https://www.v2ex.com/t/698185) 
 - [2020-08-14-FFmpeg-编译时-libavcodec/encode.c-未被编进-libacodec.so](https://www.v2ex.com/t/698184) 
 - [2020-08-14-如何看待某些明星去抗洪一线作秀？](https://www.v2ex.com/t/698183) 
@@ -43,9 +48,3 @@
 - [2020-08-14-使用-CloudFlare，是属于什么“部门”的事？运维？前端？后端？](https://www.v2ex.com/t/698147) 
 - [2020-08-14-请问-android-studio-怎么引用.aar-文件？](https://www.v2ex.com/t/698146) 
 - [2020-08-14-吐槽吐槽吐槽，苹果对自家也搞双标，也是醉了](https://www.v2ex.com/t/698145) 
-- [2020-08-14-128G-内存，-elasticsearch-的内存该怎么设置？](https://www.v2ex.com/t/698144) 
-- [2020-08-14-Apple-Card-有机会引进大陆嘛？](https://www.v2ex.com/t/698143) 
-- [2020-08-14-Java-开发过程中，如何将本地启的微服务注册到-K8s-上的注册中心（Eureka）？](https://www.v2ex.com/t/698142) 
-- [2020-08-14-准备下班去定蔚来-EC6-了,求喷](https://www.v2ex.com/t/698141) 
-- [2020-08-14-Reeder-4-限免](https://www.v2ex.com/t/698140) 
-- [2020-08-14-买了一把-Filco，打算退货了](https://www.v2ex.com/t/698139) 

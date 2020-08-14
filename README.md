@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 00:26:23，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 00:49:18，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,9 +64,9 @@
 </summary>
 
 
+- [2020-08-13-大流行手记|8月13日：全球数百人因新冠错误信息死亡-新西兰疑冷库货物输入病毒](https://m.caixin.com/m/2020-08-14/101592513.html) ![](assets/new.png)  
 - [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
 - [2020-08-12-新发地8月15日起正式复市-不再对个人消费者开放](https://m.caixin.com/m/2020-08-13/101592402.html) ![](assets/new.png)  
-- [2020-08-12-最新疫情：全国新冠累计确诊84756例-新增境外输入11例](http://m.china.caixin.com/m/2020-08-13/101592209.html) ![](assets/new.png)  
 - [2020-08-12-最新海外疫情：新冠感染者超2049万-累计死亡近74.5万](https://m.caixin.com/m/2020-08-13/101592295.html) ![](assets/new.png)  
 - [2020-08-12-【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html) ![](assets/new.png)  
 - [2020-08-12-大流行手记|8月12日：近40万美国儿童感染新冠-巴西阿根廷安排学校复课](https://m.caixin.com/m/2020-08-13/101592096.html) ![](assets/new.png)  
@@ -715,9 +715,9 @@
 </summary>
 
 
+- [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html) ![](assets/new.png)  
 - [2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html) ![](assets/new.png)  
 - [2020-08-10-只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html) ![](assets/new.png)  
-- [2020-08-07-科技爱好者周刊（第-119-期）：降雨量和保险博弈-](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-14-二问咖啡](https://www.v2ex.com/t/698134) ![](assets/new.png)  
+- [2020-08-14-油管打不开了？-不对呀，-gmail-等等都可以开呀](https://www.v2ex.com/t/698133) ![](assets/new.png)  
+- [2020-08-14-Reeder4-限免，有需要的可以领取](https://www.v2ex.com/t/698132) ![](assets/new.png)  
+- [2020-08-14-win10-版-onedrive-一直无法登陆，有什么解决办法？](https://www.v2ex.com/t/698131) ![](assets/new.png)  
 - [2020-08-14-BundleHunt-发车了](https://www.v2ex.com/t/698129) ![](assets/new.png)  
 - [2020-08-13-一名网友称微信聊天记录被老婆远程监控](https://www.v2ex.com/t/698128) ![](assets/new.png)  
 - [2020-08-13-macbook-pro-的-led-屏幕是采用-PWM-调光吗?](https://www.v2ex.com/t/698126) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-13-Mac-在合盖的时候外接显示器只有-30fps，但是打开盖子就有-60fps](https://www.v2ex.com/t/698112) ![](assets/new.png)  
 - [2020-08-13-有没有老哥分享一款电脑桌，要求价格最好不超过-2000，桌面面积够大，简约有质感](https://www.v2ex.com/t/698110) ![](assets/new.png)  
 - [2020-08-13-站里有懂家庭-KTV-搭建的朋友吗？](https://www.v2ex.com/t/698107) ![](assets/new.png)  
-- [2020-08-13-付费-1000-元，恢复微信聊天记录，手机型号三星-s9](https://www.v2ex.com/t/698105) ![](assets/new.png)  
-- [2020-08-13-怎么才能批量导入浏览器的地址栏搜索引擎？](https://www.v2ex.com/t/698104) ![](assets/new.png)  
-- [2020-08-13-请教各位-iPhone-安装声田怎么破](https://www.v2ex.com/t/698103) ![](assets/new.png)  
-- [2020-08-13-apple-watch-s4、s5-会不会通过固件更新支持血氧检测？我听说它们的传感器是支持血氧检测的](https://www.v2ex.com/t/698102) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,26 +1114,26 @@
 </summary>
 
 
+- [2020-08-14-Redis-数据结构：整数集合/压缩列表](https://toutiao.io/k/zax3heq) ![](assets/new.png)  
+- [2020-08-14-Go-1.15-正式发布：看看都有哪些值得关注的变化](https://toutiao.io/k/5v93wii) ![](assets/new.png)  
 - [2020-08-14-源码分析：ArrayList-和-LinkedList-如何实现的？我看你还有机会](https://toutiao.io/k/memkkk7) ![](assets/new.png)  
 - [2020-08-14-TypeScript-设计模式之工厂方法](https://toutiao.io/k/p280wsr) ![](assets/new.png)  
-- [2020-08-14-Redis-数据结构：整数集合/压缩列表](https://toutiao.io/k/zax3heq) ![](assets/new.png)  
-- [2020-08-14-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-14-Go-1.15-正式发布：看看都有哪些值得关注的变化](https://toutiao.io/k/5v93wii) ![](assets/new.png)  
-- [2020-08-14-译-Python-为什么要在-18-年前引入布尔类型？且与-C、C++-和-Java-都不同？](https://toutiao.io/k/h40ys77) ![](assets/new.png)  
 - [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
-- [2020-08-14-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
-- [2020-08-14-漫谈分布式系统（二十一）：基于代价的优化](https://toutiao.io/k/ssyf7ey) ![](assets/new.png)  
+- [2020-08-14-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
+- [2020-08-14-译-Python-为什么要在-18-年前引入布尔类型？且与-C、C++-和-Java-都不同？](https://toutiao.io/k/h40ys77) ![](assets/new.png)  
 - [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
+- [2020-08-14-漫谈分布式系统（二十一）：基于代价的优化](https://toutiao.io/k/ssyf7ey) ![](assets/new.png)  
+- [2020-08-14-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-14-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-14-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-14-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-14-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-08-14-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-14-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
-- [2020-08-14-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-14-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-14-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
 - [2020-08-14-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
 - [2020-08-14-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-14-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-14-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-14-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-14-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-14-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-14-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

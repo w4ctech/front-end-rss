@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 18:03:08，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 18:10:29，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1021,26 +1041,26 @@
 </summary>
 
 
+- [2020-08-14-中国人都有什么有意思的特色-Buff？](https://www.ershicimi.com/p/b681e42d3d92a42ee176109e1c06c53d) ![](assets/new.png)  
+- [2020-08-14-解说争霸，赢奖金-|-寻找全网最强影视视频解说](https://www.ershicimi.com/p/1d7122c242b40a8b379813cf5d0b1653) ![](assets/new.png)  
+- [2020-08-14-知乎故事-|-我不小心把猫放进滚筒洗衣机了](https://www.ershicimi.com/p/e527ae0f312d8790634cc32ea2f193f7) ![](assets/new.png)  
+- [2020-08-13-知乎好问题：既然所有的生命都要死亡，那么生命的意义是什么？](https://www.ershicimi.com/p/e03c34c8a0fca6e0a58dd73e449fa4be) ![](assets/new.png)  
+- [2020-08-13-剖腹产过后，我发现我竟然不爱我的女儿，这正常吗？](https://www.ershicimi.com/p/4e75d8e2685b65a780ba32b98cb2b486) ![](assets/new.png)  
+- [2020-08-13-自律，是治愈一切迷茫的良药](https://www.ershicimi.com/p/be063ed5d6a41b361bbdda2858be1831) ![](assets/new.png)  
+- [2020-08-13-知乎故事-|-未来岳父邀你下棋，是展现实力还是巧妙输掉？](https://www.ershicimi.com/p/35ce85c8f565173afe2db0fa9e7eb577) ![](assets/new.png)  
+- [2020-08-12-知乎新发现：全知乎最热门的学校竟然不是-985！](https://www.ershicimi.com/p/06fb3f62654b746d0a41563dcb475bab) ![](assets/new.png)  
+- [2020-08-12-法律高手是如何「炼」成的？](https://www.ershicimi.com/p/5098af4804001c110836bcd6fb01074b) ![](assets/new.png)  
+- [2020-08-12-知乎故事-|-你能容忍你的朋友在你租的单间房蹭住多少天？](https://www.ershicimi.com/p/571ea0d9202b91933e0efcea410c5337) ![](assets/new.png)  
+- [2020-08-11-知乎高赞：有哪些人际关系方面的小技巧可以保护自己？](https://www.ershicimi.com/p/4eba04e278d4f27e7a98c5ba94f803d5) ![](assets/new.png)  
+- [2020-08-11-为什么周星驰电影中会出现那么多丑化的女性形象?](https://www.ershicimi.com/p/0faaf8e46d8da6342c777ac9ab183fee) ![](assets/new.png)  
+- [2020-08-11-知乎故事-|-如果清穿成溥仪，怎么合理的把烂牌盘活呢？](https://www.ershicimi.com/p/0da7a4fdb31c108d2c857315b9d307cb) ![](assets/new.png)  
+- [2020-08-10-你最爱的纯棉衣服其实既不天然，也不环保，甚至比化纤添加剂还多](https://www.ershicimi.com/p/8a54df079ee4d7d8611a13ba364619f7) ![](assets/new.png)  
+- [2020-08-10-真正的成年人，都该进来学习怎么正确戴套](https://www.ershicimi.com/p/8201f11803c91635e7efbde1df0683a5) ![](assets/new.png)  
+- [2020-08-10-iPad-里藏的-102-颗磁铁，有什么用？](https://www.ershicimi.com/p/3af977fd8467814affbe90d61f6c25d9) ![](assets/new.png)  
+- [2020-08-10-知乎故事-|-年纪轻轻得了痛风是什么感受？](https://www.ershicimi.com/p/f472994c01c2866bc9f9f137dd23cab4) ![](assets/new.png)  
 - [2020-08-09-本周知乎热榜-|-我国人均国民总收入首破-1-万美元，「三十而已」大结局，拼多多厕所坑位风波](https://www.ershicimi.com/p/63d102381655ff6607a80cd55ed698fd) ![](assets/new.png)  
 - [2020-08-09-动漫作品中最长的一天是哪天？](https://www.ershicimi.com/p/5dfaf67bcf3c86ac5cbfef46e9207f01) ![](assets/new.png)  
 - [2020-08-09-2020-我删除无数个公众号，只留下了这-7-个](https://www.ershicimi.com/p/372a814e05992b38c51ebdb41c19da24) ![](assets/new.png)  
-- [2020-08-09-知乎故事-|-你有哪些委屈到想哭的瞬间？](https://www.ershicimi.com/p/119c79bfddf3dee29ad534d2b79b22b3) ![](assets/new.png)  
-- [2020-08-08-知乎神吐槽-|-为什么之前跪舔追自己的男生追一半就不追了？](https://www.ershicimi.com/p/994673ae439291d31819520d3d07266b) ![](assets/new.png)  
-- [2020-08-08-长相真的会影响一个人的命运么？](https://www.ershicimi.com/p/00c06daf6de4ee7a099fd7fb2c00d26d) ![](assets/new.png)  
-- [2020-08-08-知乎故事-|-有没有重男轻女的反击案例？](https://www.ershicimi.com/p/e104c7e5b18e9f0b2be23f092e21d1b8) ![](assets/new.png)  
-- [2020-08-07-知乎高赞：你以为的天赋和努力，在「习惯霸权」面前不值一提](https://www.ershicimi.com/p/bf9d11385894e0c828710da04e478c3e) ![](assets/new.png)  
-- [2020-08-07-如何在-360-小时内创造一部院线级长片？](https://www.ershicimi.com/p/47634ac7df558b90aecaf266b3c7aebf) ![](assets/new.png)  
-- [2020-08-07-哪个瞬间，你突然觉得读书真有用？](https://www.ershicimi.com/p/2472eece4e3525784448226bba724ba3) ![](assets/new.png)  
-- [2020-08-07-知乎故事-|-自助餐被我吃回本了](https://www.ershicimi.com/p/79529b96594f3c4d7f1f8501dbdc619e) ![](assets/new.png)  
-- [2020-08-06-张玉环被羁押近-27-年后无罪释放，他前妻接受采访的视频却刷屏了](https://www.ershicimi.com/p/882172c69d257f4c5f68e3dd2aa0249d) ![](assets/new.png)  
-- [2020-08-06-韦正《爱五》后首次回应「抄袭风波」，一场告别一次结束](https://www.ershicimi.com/p/7d257a1e30654051440a1e28bf9cb91f) ![](assets/new.png)  
-- [2020-08-06-知乎故事-|-你高中时有哪些怦然心动的瞬间？](https://www.ershicimi.com/p/8753f72d98da1fac605be22a394a2b11) ![](assets/new.png)  
-- [2020-08-05-黎巴嫩首都发生爆炸致-4000+-人伤亡？！遇到爆炸时有哪些秘诀能保全自己？](https://www.ershicimi.com/p/d95abf0bd7a21f91dac8a6ae79dc818a) ![](assets/new.png)  
-- [2020-08-05-70-岁生第一个孩子是一种什么样的体验？](https://www.ershicimi.com/p/dfb5c2cbf89aabf6eb6d284665c8f875) ![](assets/new.png)  
-- [2020-08-05-知乎故事-|-你见过命苦的人有多苦？](https://www.ershicimi.com/p/89c86b9fdee612df60fb302cddacb95c) ![](assets/new.png)  
-- [2020-08-04-开播即爆款的《三十而已》，却让我看清了国产剧的「真面目」](https://www.ershicimi.com/p/779698f9263d720874486e310931e6e9) ![](assets/new.png)  
-- [2020-08-04-万茜采访「翻车」：越火，越能看出一个人的本性](https://www.ershicimi.com/p/5ca679950035bfe101e02dcdfbea5c02) ![](assets/new.png)  
-- [2020-08-04-知乎故事-|-我是被老婆「撩」到手的](https://www.ershicimi.com/p/7489ac9af61c0d3007895a981ef3a938) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,8 +1148,8 @@
 - [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
 - [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
-- [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
 - [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
+- [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
 - [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
 - [2020-08-14-小步快跑，快速迭代：安全运营的器术法道](https://toutiao.io/k/p9zq1tc) ![](assets/new.png)  
 - [2020-08-14-提前批算法工程师面试之路](https://toutiao.io/k/33s0h78) ![](assets/new.png)  

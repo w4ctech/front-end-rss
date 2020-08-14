@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 01:33:52，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 01:46:46，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-14-关于厄瓜多尔冷冻生南美白虾排查处置情况的通报](http://sxwjw.shaanxi.gov.cn/art/2020/8/14/art_9_72437.html) ![](assets/new.png)  
 - [2020-08-13-美国疾控中心主任：不会施压学校重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihnxOszP5eayJw96xHVff200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-国家卫健委、教育部发布新版秋冬季疫情防控技术方案](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7xQ4cBjQnRkbZm6lh2y2200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-苏里南总统新冠病毒检测结果呈阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZT6dCSPsdkT1inBGinSR200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-13-世卫组织总干事：全球应对新冠肺炎所用资金已是金融危机的3.5倍以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiidwcbeQYZ73cicRA5M2z200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-13-世卫组织：全球新冠肺炎确诊病例超过2043万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir4ImrsPgpRHaBuFpWLAn200813&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,16 @@
 </summary>
 
 
+- [2020-08-14-哪句话支撑你度过许多煎熬时刻？](https://www.v2ex.com/t/698152) ![](assets/new.png)  
+- [2020-08-14-关于共享单车](https://www.v2ex.com/t/698151) ![](assets/new.png)  
+- [2020-08-14-出去面试很扎心](https://www.v2ex.com/t/698150) ![](assets/new.png)  
+- [2020-08-14-杭州-招聘-Golang-工程师（后端、云相关），-base-杭州，双休，不-996，公司现金流健康](https://www.v2ex.com/t/698149) ![](assets/new.png)  
+- [2020-08-14-面试该不该填家人信息和身份证号？](https://www.v2ex.com/t/698148) ![](assets/new.png)  
+- [2020-08-14-使用-CloudFlare，是属于什么“部门”的事？运维？前端？后端？](https://www.v2ex.com/t/698147) ![](assets/new.png)  
+- [2020-08-14-请问-android-studio-怎么引用.aar-文件？](https://www.v2ex.com/t/698146) ![](assets/new.png)  
+- [2020-08-14-吐槽吐槽吐槽，苹果对自家也搞双标，也是醉了](https://www.v2ex.com/t/698145) ![](assets/new.png)  
+- [2020-08-14-128G-内存，-elasticsearch-的内存该怎么设置？](https://www.v2ex.com/t/698144) ![](assets/new.png)  
+- [2020-08-14-Apple-Card-有机会引进大陆嘛？](https://www.v2ex.com/t/698143) ![](assets/new.png)  
 - [2020-08-14-Java-开发过程中，如何将本地启的微服务注册到-K8s-上的注册中心（Eureka）？](https://www.v2ex.com/t/698142) ![](assets/new.png)  
 - [2020-08-14-准备下班去定蔚来-EC6-了,求喷](https://www.v2ex.com/t/698141) ![](assets/new.png)  
 - [2020-08-14-Reeder-4-限免](https://www.v2ex.com/t/698140) ![](assets/new.png)  
@@ -1062,16 +1072,6 @@
 - [2020-08-14-现在-macOS-Big-Sur-现在兼容性如何啊-Homebrew-这些支持咋样啊](https://www.v2ex.com/t/698135) ![](assets/new.png)  
 - [2020-08-14-二问咖啡](https://www.v2ex.com/t/698134) ![](assets/new.png)  
 - [2020-08-14-油管打不开了？-不对呀，-gmail-等等都可以开呀](https://www.v2ex.com/t/698133) ![](assets/new.png)  
-- [2020-08-14-Reeder4-限免，有需要的可以领取](https://www.v2ex.com/t/698132) ![](assets/new.png)  
-- [2020-08-14-win10-版-onedrive-一直无法登陆，有什么解决办法？](https://www.v2ex.com/t/698131) ![](assets/new.png)  
-- [2020-08-14-BundleHunt-发车了](https://www.v2ex.com/t/698129) ![](assets/new.png)  
-- [2020-08-13-一名网友称微信聊天记录被老婆远程监控](https://www.v2ex.com/t/698128) ![](assets/new.png)  
-- [2020-08-13-macbook-pro-的-led-屏幕是采用-PWM-调光吗?](https://www.v2ex.com/t/698126) ![](assets/new.png)  
-- [2020-08-13-数据库工具-Navicat-全家桶-20%折扣](https://www.v2ex.com/t/698125) ![](assets/new.png)  
-- [2020-08-13-ZX-Spectrum-重制版，一个有趣的-Kickstarter-项目](https://www.v2ex.com/t/698124) ![](assets/new.png)  
-- [2020-08-13-2020-年，对-Ubuntu-支持良好的笔记本，求推荐](https://www.v2ex.com/t/698123) ![](assets/new.png)  
-- [2020-08-13-因为忘了-apple-pay-密码，导致-iPhone-被停用了。。。。](https://www.v2ex.com/t/698122) ![](assets/new.png)  
-- [2020-08-13-iPad-“屏幕使用时间”疑问](https://www.v2ex.com/t/698121) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,14 +1126,14 @@
 - [2020-08-14-漫谈分布式系统（二十一）：基于代价的优化](https://toutiao.io/k/ssyf7ey) ![](assets/new.png)  
 - [2020-08-14-今晚发车，赶紧上车吧！](https://toutiao.io/k/hmqka5v) ![](assets/new.png)  
 - [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
-- [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
 - [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
+- [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
 - [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
-- [2020-08-14-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-14-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
-- [2020-08-14-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-08-14-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-14-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-14-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-14-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-14-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

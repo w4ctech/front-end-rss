@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 01:02:19，:rocket: 更新条数: +3512， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 01:08:51，:rocket: 更新条数: +3512， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-14-现在-macOS-Big-Sur-现在兼容性如何啊-Homebrew-这些支持咋样啊](https://www.v2ex.com/t/698135) ![](assets/new.png)  
 - [2020-08-14-二问咖啡](https://www.v2ex.com/t/698134) ![](assets/new.png)  
 - [2020-08-14-油管打不开了？-不对呀，-gmail-等等都可以开呀](https://www.v2ex.com/t/698133) ![](assets/new.png)  
 - [2020-08-14-Reeder4-限免，有需要的可以领取](https://www.v2ex.com/t/698132) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-13-mbp-有推荐的拓展坞和键盘吗？](https://www.v2ex.com/t/698114) ![](assets/new.png)  
 - [2020-08-13-Mac-在合盖的时候外接显示器只有-30fps，但是打开盖子就有-60fps](https://www.v2ex.com/t/698112) ![](assets/new.png)  
 - [2020-08-13-有没有老哥分享一款电脑桌，要求价格最好不超过-2000，桌面面积够大，简约有质感](https://www.v2ex.com/t/698110) ![](assets/new.png)  
-- [2020-08-13-站里有懂家庭-KTV-搭建的朋友吗？](https://www.v2ex.com/t/698107) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1138,22 +1138,22 @@
 - [2020-08-14-Go-1.15-正式发布：看看都有哪些值得关注的变化](https://toutiao.io/k/5v93wii) ![](assets/new.png)  
 - [2020-08-14-源码分析：ArrayList-和-LinkedList-如何实现的？我看你还有机会](https://toutiao.io/k/memkkk7) ![](assets/new.png)  
 - [2020-08-14-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-14-TypeScript-设计模式之工厂方法](https://toutiao.io/k/p280wsr) ![](assets/new.png)  
 - [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
-- [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
+- [2020-08-14-TypeScript-设计模式之工厂方法](https://toutiao.io/k/p280wsr) ![](assets/new.png)  
 - [2020-08-14-译-Python-为什么要在-18-年前引入布尔类型？且与-C、C++-和-Java-都不同？](https://toutiao.io/k/h40ys77) ![](assets/new.png)  
+- [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
 - [2020-08-14-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
 - [2020-08-14-漫谈分布式系统（二十一）：基于代价的优化](https://toutiao.io/k/ssyf7ey) ![](assets/new.png)  
 - [2020-08-14-今晚发车，赶紧上车吧！](https://toutiao.io/k/hmqka5v) ![](assets/new.png)  
-- [2020-08-14-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-14-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-14-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-14-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-14-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-14-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
 - [2020-08-14-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
-- [2020-08-14-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-14-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-14-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-14-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [2020-08-14-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-14-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-14-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-14-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

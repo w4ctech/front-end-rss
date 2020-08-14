@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-14 01:02:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 01:08:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-14-现在-macOS-Big-Sur-现在兼容性如何啊-Homebrew-这些支持咋样啊](https://www.v2ex.com/t/698135) 
 - [2020-08-14-二问咖啡](https://www.v2ex.com/t/698134) 
 - [2020-08-14-油管打不开了？-不对呀，-gmail-等等都可以开呀](https://www.v2ex.com/t/698133) 
 - [2020-08-14-Reeder4-限免，有需要的可以领取](https://www.v2ex.com/t/698132) 
@@ -41,4 +42,3 @@
 - [2020-08-13-个人如果做-Windows-NAS，一定要用-Win-Server-么？似乎-Win-Server-很难搞对于不是程序员和运维的人有点压力。Win-和-Win-Server-对于个人-NAS-差别巨大么？](https://www.v2ex.com/t/698088) 
 - [2020-08-13-阿里云被黑客入侵植入挖矿软件并修改了-ssh-key](https://www.v2ex.com/t/698087) 
 - [2020-08-13-公司-100-人，买了个爱快企业路由，怎么做一些网络的安全设置？](https://www.v2ex.com/t/698086) 
-- [2020-08-13-明天实习答辩难顶，一般领导对实习生答辩有什么期望？](https://www.v2ex.com/t/698085) 

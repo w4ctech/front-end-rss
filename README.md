@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 02:33:45，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 02:46:39，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-14-RSS-客户端-Reeder-4-限免（Mac-/-iOS）](https://www.v2ex.com/t/698176) ![](assets/new.png)  
+- [2020-08-14-macbook-16，-90-度打开-竖起来放在桌面上当副屏-有问题吗](https://www.v2ex.com/t/698175) ![](assets/new.png)  
+- [2020-08-14-OCR-识别技术在企业-OA-系统中的应用](https://www.v2ex.com/t/698174) ![](assets/new.png)  
+- [2020-08-14-菜鸟招-Java-工程师-杭州/北京都有](https://www.v2ex.com/t/698173) ![](assets/new.png)  
 - [2020-08-14-VS-Code-插件：支持码云（Gitee）各种日常操作，欢迎补充需求](https://www.v2ex.com/t/698171) ![](assets/new.png)  
 - [2020-08-14-看板应用-teambition-和其他企业系统的整合](https://www.v2ex.com/t/698170) ![](assets/new.png)  
 - [2020-08-14-HK-节点，-Google-Play-时常无法更新下载](https://www.v2ex.com/t/698169) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-14-为什么很多讲设计模式的博客，讲解的代码例子都是基于“继承抽象类或实现接口“，设计模式规范很严格么？](https://www.v2ex.com/t/698155) ![](assets/new.png)  
 - [2020-08-14-想到一个奇怪的问题，如果马化腾给他微信余额数据库直接改成-1-亿，那这个可以出去买东西吗](https://www.v2ex.com/t/698154) ![](assets/new.png)  
 - [2020-08-14-leetcode/lintcode-题解-逆波兰表达式求值](https://www.v2ex.com/t/698153) ![](assets/new.png)  
-- [2020-08-14-哪句话支撑你度过许多煎熬时刻？](https://www.v2ex.com/t/698152) ![](assets/new.png)  
-- [2020-08-14-关于共享单车](https://www.v2ex.com/t/698151) ![](assets/new.png)  
-- [2020-08-14-出去面试很扎心](https://www.v2ex.com/t/698150) ![](assets/new.png)  
-- [2020-08-14-杭州-招聘-Golang-工程师（后端、云相关），-base-杭州，双休，不-996，公司现金流健康](https://www.v2ex.com/t/698149) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,15 +1125,15 @@
 - [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
 - [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-今晚发车，赶紧上车吧！](https://toutiao.io/k/hmqka5v) ![](assets/new.png)  
+- [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
 - [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
 - [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
-- [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
 - [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
 - [2020-08-14-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
-- [2020-08-14-NTLM-的基操](https://toutiao.io/k/8v99f45) ![](assets/new.png)  
 - [2020-08-14-提前批算法工程师面试之路](https://toutiao.io/k/33s0h78) ![](assets/new.png)  
 - [2020-08-14-小步快跑，快速迭代：安全运营的器术法道](https://toutiao.io/k/p9zq1tc) ![](assets/new.png)  
+- [2020-08-14-NTLM-的基操](https://toutiao.io/k/8v99f45) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

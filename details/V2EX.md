@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-08-14 02:33:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 02:46:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-14-RSS-客户端-Reeder-4-限免（Mac-/-iOS）](https://www.v2ex.com/t/698176) 
+- [2020-08-14-macbook-16，-90-度打开-竖起来放在桌面上当副屏-有问题吗](https://www.v2ex.com/t/698175) 
+- [2020-08-14-OCR-识别技术在企业-OA-系统中的应用](https://www.v2ex.com/t/698174) 
+- [2020-08-14-菜鸟招-Java-工程师-杭州/北京都有](https://www.v2ex.com/t/698173) 
 - [2020-08-14-VS-Code-插件：支持码云（Gitee）各种日常操作，欢迎补充需求](https://www.v2ex.com/t/698171) 
 - [2020-08-14-看板应用-teambition-和其他企业系统的整合](https://www.v2ex.com/t/698170) 
 - [2020-08-14-HK-节点，-Google-Play-时常无法更新下载](https://www.v2ex.com/t/698169) 
@@ -45,8 +49,3 @@
 - [2020-08-14-win10-版-onedrive-一直无法登陆，有什么解决办法？](https://www.v2ex.com/t/698131) 
 - [2020-08-14-BundleHunt-发车了](https://www.v2ex.com/t/698129) 
 - [2020-08-13-一名网友称微信聊天记录被老婆远程监控](https://www.v2ex.com/t/698128) 
-- [2020-08-13-macbook-pro-的-led-屏幕是采用-PWM-调光吗?](https://www.v2ex.com/t/698126) 
-- [2020-08-13-数据库工具-Navicat-全家桶-20%折扣](https://www.v2ex.com/t/698125) 
-- [2020-08-13-ZX-Spectrum-重制版，一个有趣的-Kickstarter-项目](https://www.v2ex.com/t/698124) 
-- [2020-08-13-2020-年，对-Ubuntu-支持良好的笔记本，求推荐](https://www.v2ex.com/t/698123) 
-- [2020-08-13-因为忘了-apple-pay-密码，导致-iPhone-被停用了。。。。](https://www.v2ex.com/t/698122) 

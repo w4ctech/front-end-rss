@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 11:48:08，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 12:03:08，:rocket: 更新条数: +3308， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-14-土区的-Netflix-账号不能看港区内容？](https://www.v2ex.com/t/698337) ![](assets/new.png)  
+- [2020-08-14-KFC-的微信小程序：下单居然还花上-10-分钟，严重的时候甚至无法结算。](https://www.v2ex.com/t/698336) ![](assets/new.png)  
 - [2020-08-14-新风尚，外卖可以点半份了](https://www.v2ex.com/t/698334) ![](assets/new.png)  
 - [2020-08-14-用-win10-截取视频片段，有没有推荐的软件？](https://www.v2ex.com/t/698333) ![](assets/new.png)  
 - [2020-08-14-面试算法题用什么语言？](https://www.v2ex.com/t/698332) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-14-招聘：深圳-非-996，硅谷-13-亿美元独角兽-Flexport，寻找有工匠精神的同道中人-全栈/DevOps](https://www.v2ex.com/t/698314) ![](assets/new.png)  
 - [2020-08-14-能做出这种网站的前端程序员是什么水平?](https://www.v2ex.com/t/698313) ![](assets/new.png)  
 - [2020-08-14-开单宝进销存-3-周年，序列号免费大派送！需要的话，源码一起带走~](https://www.v2ex.com/t/698311) ![](assets/new.png)  
-- [2020-08-14-每个月都会被「整理发票」所困扰的小伙伴们看过来！](https://www.v2ex.com/t/698310) ![](assets/new.png)  
-- [2020-08-14-招聘：-深圳-非-996，硅谷-13-亿美元独角兽-Flexport，寻找有工匠精神的同道中人-全栈/DevOps](https://www.v2ex.com/t/698308) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 16:48:11，:rocket: 更新条数: +3308， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 17:03:00，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-14-.Net-Core-速度快的原因是什么？](https://www.v2ex.com/t/698380) ![](assets/new.png)  
+- [2020-08-14-我又来了，-mbp-左右两个风扇出风量明显不一样有人遇到过吗？](https://www.v2ex.com/t/698379) ![](assets/new.png)  
 - [2020-08-14-小区联通宽带撑死只能达到-90-兆，怎么办？](https://www.v2ex.com/t/698378) ![](assets/new.png)  
 - [2020-08-14-第一个大小周的-996……我明天去不……](https://www.v2ex.com/t/698376) ![](assets/new.png)  
 - [2020-08-14-硬件越来越快，软件越来越慢？](https://www.v2ex.com/t/698373) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-14-UBUNTU20-百度网盘客户端登陆后显示加载失败-有什么解决办法呢？](https://www.v2ex.com/t/698355) ![](assets/new.png)  
 - [2020-08-14-请教，还有什么网站项目值得投资开发](https://www.v2ex.com/t/698353) ![](assets/new.png)  
 - [2020-08-14-你们的-iMac-都是用的什么扩展内存](https://www.v2ex.com/t/698352) ![](assets/new.png)  
-- [2020-08-14-win7-update-更新.NET4.8-总是报错，错误代码-643，打其他补丁正常](https://www.v2ex.com/t/698351) ![](assets/new.png)  
-- [2020-08-14-宽带的限速对-KCP-无效吗？](https://www.v2ex.com/t/698350) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

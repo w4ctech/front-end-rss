@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-14 03:21:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 03:31:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -53,8 +53,8 @@
 - [2020-07-23-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/864b0feaa51046cb6caa2a3a52b8f670) 
 - [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) 
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
+- [2020-08-14-校招内推-美团点评-2021-届秋季校园招聘内推！](https://www.v2ex.com/t/698197) 
 - [2020-08-14-出去面试很扎心](https://www.v2ex.com/t/698150) 
 - [2020-08-14-杭州-招聘-Golang-工程师（后端、云相关），-base-杭州，双休，不-996，公司现金流健康](https://www.v2ex.com/t/698149) 
 - [2020-08-14-面试该不该填家人信息和身份证号？](https://www.v2ex.com/t/698148) 
-- [2020-08-14-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 14:33:29，:rocket: 更新条数: +3308， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 14:46:27，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,15 +65,16 @@
 
 
 - [2020-08-13-反思新冠疫情，中疾控原副主任撰文详解传染病预警机制怎么改](https://m.caixin.com/m/2020-08-14/101592909.html) ![](assets/new.png)  
+- [2020-08-13-香港新增病例连续12日保持双位数-疫情蔓延至外佣群体](https://m.caixin.com/m/2020-08-14/101593005.html) ![](assets/new.png)  
 - [2020-08-13-广东陆丰发现1例新冠肺炎确诊病例，为深圳超市员工](https://m.caixin.com/m/2020-08-14/101592985.html) ![](assets/new.png)  
 - [2020-08-13-最新疫情：全国新冠累计确诊84786例-上海新增境外输入16例](https://m.caixin.com/m/2020-08-14/101592763.html) ![](assets/new.png)  
 - [2020-08-13-最新海外疫情：新冠感染者超2078万-累计死亡超75万](http://m.international.caixin.com/m/2020-08-14/101592777.html) ![](assets/new.png)  
 - [2020-08-13-【境内疫情观察】上海新增16例境外输入病例（8月13日）](http://m.database.caixin.com/m/2020-08-14/101592707.html) ![](assets/new.png)  
 - [2020-08-13-大流行手记|8月13日：全球数百人因新冠错误信息死亡-新西兰疑冷库货物输入病毒](https://m.caixin.com/m/2020-08-14/101592513.html) ![](assets/new.png)  
-- [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
 - [2020-08-12-新发地8月15日起正式复市-不再对个人消费者开放](https://m.caixin.com/m/2020-08-13/101592402.html) ![](assets/new.png)  
 - [2020-08-12-【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html) ![](assets/new.png)  
 - [2020-08-12-大流行手记|8月12日：近40万美国儿童感染新冠-巴西阿根廷安排学校复课](https://m.caixin.com/m/2020-08-13/101592096.html) ![](assets/new.png)  
+- [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
 - [2020-08-12-巴西一州决定测试生产俄罗斯疫苗](http://m.international.caixin.com/m/2020-08-13/101592371.html) ![](assets/new.png)  
 - [2020-08-11-【境内疫情观察】全国8省份新增境外输入病例16例（8月11日）](http://m.database.caixin.com/m/2020-08-12/101591859.html) ![](assets/new.png)  
 - [2020-08-11-大流行手记|8月11日：俄注册全球首款新冠疫苗-新西兰102天后再现本土病例](https://m.caixin.com/m/2020-08-12/101591634.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-10-大流行手记|8月10日：美国疫情曲线呈降势-印度连续12天新增破5万例](https://m.caixin.com/m/2020-08-11/101591157.html) ![](assets/new.png)  
 - [2020-08-10-【图集】韩国首尔南大门市场现新冠聚集性感染事件](http://m.photos.caixin.com/m/2020-08-11/101591137.html) ![](assets/new.png)  
 - [2020-08-09-【境内疫情观察】全国新增35例境外输入病例（8月9日）](http://m.database.caixin.com/m/2020-08-10/101590804.html) ![](assets/new.png)  
-- [2020-08-09-大流行手记|8月9日：日本澄清新冠病毒变异-特朗普谋求疫苗大选前出炉](https://m.caixin.com/m/2020-08-10/101590711.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-14-堡垒之夜的-Epic-Game-大战-Apple-制作了这个模仿苹果-1984-广告的宣传片](https://www.v2ex.com/t/698361) ![](assets/new.png)  
 - [2020-08-14-4G-网络无法访问-v-站，其他网站（bing，-zhihu）速度都正常，切到-wifi-之后一切正常](https://www.v2ex.com/t/698360) ![](assets/new.png)  
 - [2020-08-14-怎么给-Android-团队提建议增加历史删除文件恢复功能？](https://www.v2ex.com/t/698359) ![](assets/new.png)  
 - [2020-08-14-大家怎么看待护网行动？](https://www.v2ex.com/t/698358) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-14-同一商家的-APP-和微信小程序比较，请问哪个连接会更快？](https://www.v2ex.com/t/698340) ![](assets/new.png)  
 - [2020-08-14-被拖欠-4-个月工资，求广州靠谱的律师咨询。](https://www.v2ex.com/t/698339) ![](assets/new.png)  
 - [2020-08-14-土区的-Netflix-账号不能看港区内容？](https://www.v2ex.com/t/698337) ![](assets/new.png)  
-- [2020-08-14-KFC-的微信小程序：下单居然还花上-10-分钟，严重的时候甚至无法结算。](https://www.v2ex.com/t/698336) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 19:09:18，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 19:18:16，:rocket: 更新条数: +3527， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-14-对于开发转产品-各位有什么建议？](https://www.v2ex.com/t/698385) ![](assets/new.png)  
 - [2020-08-14-终于把-x-换成-xr-了眼睛不痛了-😄](https://www.v2ex.com/t/698384) ![](assets/new.png)  
 - [2020-08-14-2-台-Nexus-5X-顺利升级到-Android8.0](https://www.v2ex.com/t/698383) ![](assets/new.png)  
 - [2020-08-14-Factorio-1.0](https://www.v2ex.com/t/698382) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-14-堡垒之夜的-Epic-Game-大战-Apple-制作了这个模仿苹果-1984-广告的宣传片](https://www.v2ex.com/t/698361) ![](assets/new.png)  
 - [2020-08-14-4G-网络无法访问-v-站，其他网站（bing，-zhihu）速度都正常，切到-wifi-之后一切正常](https://www.v2ex.com/t/698360) ![](assets/new.png)  
 - [2020-08-14-怎么给-Android-团队提建议增加历史删除文件恢复功能？](https://www.v2ex.com/t/698359) ![](assets/new.png)  
-- [2020-08-14-大家怎么看待护网行动？](https://www.v2ex.com/t/698358) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,8 +1150,8 @@
 - [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
 - [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
-- [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
 - [2020-08-14-小步快跑，快速迭代：安全运营的器术法道](https://toutiao.io/k/p9zq1tc) ![](assets/new.png)  
+- [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
 - [2020-08-14-提前批算法工程师面试之路](https://toutiao.io/k/33s0h78) ![](assets/new.png)  
 - [2020-08-14-NTLM-的基操](https://toutiao.io/k/8v99f45) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

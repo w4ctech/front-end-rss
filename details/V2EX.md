@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-14 19:09:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 19:18:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-14-对于开发转产品-各位有什么建议？](https://www.v2ex.com/t/698385) 
 - [2020-08-14-终于把-x-换成-xr-了眼睛不痛了-😄](https://www.v2ex.com/t/698384) 
 - [2020-08-14-2-台-Nexus-5X-顺利升级到-Android8.0](https://www.v2ex.com/t/698383) 
 - [2020-08-14-Factorio-1.0](https://www.v2ex.com/t/698382) 

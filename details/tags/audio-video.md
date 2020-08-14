@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-14 12:14:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 12:27:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,6 +85,7 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-06-张玉环被羁押近-27-年后无罪释放，他前妻接受采访的视频却刷屏了](https://www.ershicimi.com/p/882172c69d257f4c5f68e3dd2aa0249d) 
+- [2020-08-14-用户脚本-强制-Twitter-网页版播放最高画质视频](https://www.v2ex.com/t/698341) 
 - [2020-08-14-用-win10-截取视频片段，有没有推荐的软件？](https://www.v2ex.com/t/698333) 
 - [2020-08-14-没有模块或者-App-能使-Android-同时播放多个音频而不被暂停？](https://www.v2ex.com/t/698294) 
 - [2020-08-13-央视提醒:微信清粉服务或泄露个人信息含视频](https://sec.thief.one/article_content?a_id=68e5a1ad9f18eb39c4be5133326c39ba) 

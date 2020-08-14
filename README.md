@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 02:21:33，:rocket: 更新条数: +3308， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 02:31:40，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,7 +1052,10 @@
 </summary>
 
 
-- [2020-08-14-Pzea-购买云主机付款后主机未开通，-V-友有渠道能连联到售后吗？](https://www.v2ex.com/t/698168) ![](assets/new.png)  
+- [2020-08-14-VS-Code-插件：支持码云（Gitee）各种日常操作，欢迎补充需求](https://www.v2ex.com/t/698171) ![](assets/new.png)  
+- [2020-08-14-看板应用-teambition-和其他企业系统的整合](https://www.v2ex.com/t/698170) ![](assets/new.png)  
+- [2020-08-14-HK-节点，-Google-Play-时常无法更新下载](https://www.v2ex.com/t/698169) ![](assets/new.png)  
+- [2020-08-14-Pzea-购买云主机付款后主机未开通，-V-友有渠道能联系到售后的方法吗？](https://www.v2ex.com/t/698168) ![](assets/new.png)  
 - [2020-08-14-远程-硅谷科技初创，招-React-Native-全栈工程师](https://www.v2ex.com/t/698166) ![](assets/new.png)  
 - [2020-08-14-相互宝-2-周-4-块多了-你们都退了吗？](https://www.v2ex.com/t/698165) ![](assets/new.png)  
 - [2020-08-14-想-DIY-个-OpenPGP-Card，但是好像智能卡硬件很难获得](https://www.v2ex.com/t/698164) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-14-关于共享单车](https://www.v2ex.com/t/698151) ![](assets/new.png)  
 - [2020-08-14-出去面试很扎心](https://www.v2ex.com/t/698150) ![](assets/new.png)  
 - [2020-08-14-杭州-招聘-Golang-工程师（后端、云相关），-base-杭州，双休，不-996，公司现金流健康](https://www.v2ex.com/t/698149) ![](assets/new.png)  
-- [2020-08-14-面试该不该填家人信息和身份证号？](https://www.v2ex.com/t/698148) ![](assets/new.png)  
-- [2020-08-14-使用-CloudFlare，是属于什么“部门”的事？运维？前端？后端？](https://www.v2ex.com/t/698147) ![](assets/new.png)  
-- [2020-08-14-请问-android-studio-怎么引用.aar-文件？](https://www.v2ex.com/t/698146) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1118,11 +1118,11 @@
 - [2020-08-14-Go-1.15-正式发布：看看都有哪些值得关注的变化](https://toutiao.io/k/5v93wii) ![](assets/new.png)  
 - [2020-08-14-源码分析：ArrayList-和-LinkedList-如何实现的？我看你还有机会](https://toutiao.io/k/memkkk7) ![](assets/new.png)  
 - [2020-08-14-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-14-TypeScript-设计模式之工厂方法](https://toutiao.io/k/p280wsr) ![](assets/new.png)  
 - [2020-08-14-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-14-TypeScript-设计模式之工厂方法](https://toutiao.io/k/p280wsr) ![](assets/new.png)  
 - [2020-08-14-译-Python-为什么要在-18-年前引入布尔类型？且与-C、C++-和-Java-都不同？](https://toutiao.io/k/h40ys77) ![](assets/new.png)  
-- [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
 - [2020-08-14-漫谈分布式系统（二十一）：基于代价的优化](https://toutiao.io/k/ssyf7ey) ![](assets/new.png)  
+- [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
 - [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-今晚发车，赶紧上车吧！](https://toutiao.io/k/hmqka5v) ![](assets/new.png)  
 - [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
@@ -1130,10 +1130,10 @@
 - [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
 - [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
-- [2020-08-14-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-14-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-14-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
-- [2020-08-14-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-14-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-14-NTLM-的基操](https://toutiao.io/k/8v99f45) ![](assets/new.png)  
+- [2020-08-14-提前批算法工程师面试之路](https://toutiao.io/k/33s0h78) ![](assets/new.png)  
+- [2020-08-14-小步快跑，快速迭代：安全运营的器术法道](https://toutiao.io/k/p9zq1tc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

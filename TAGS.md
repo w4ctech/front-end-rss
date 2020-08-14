@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-14 02:21:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 02:31:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -147,7 +147,6 @@
 - [【前端宇宙】13-个-你应该知道的-npm-快速开发技巧](https://www.ershicimi.com/p/f3ffb0316cd205ad9ebb79b6f85c5328)
 - [【前端瓶子君】在NPM上发布beta或alpha版](https://www.ershicimi.com/p/34b981b9bbda2a2019d900ecb99359e8)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【开发者头条】推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -462,9 +461,8 @@
 - [【V2EX】坐标北京，有看推荐算法机会的吗？欢迎进来聊聊~~](https://www.v2ex.com/t/698157)
 - [【V2EX】128G-内存，-elasticsearch-的内存该怎么设置？](https://www.v2ex.com/t/698144)
 - [【开发者头条】快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
+- [【开发者头条】提前批算法工程师面试之路](https://toutiao.io/k/33s0h78)
 - [【开发者头条】推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k)
-- [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
-- [【开发者头条】推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -506,6 +504,7 @@
 - [【互联网架构师】GitLab-内置了-CI/CD-工具，强大啊！！](https://www.ershicimi.com/p/be03600ef742f36a397f107c43f72675)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】VS-Code-插件：支持码云（Gitee）各种日常操作，欢迎补充需求](https://www.v2ex.com/t/698171)
 - [【安全热点】9-招让你的GitHub下载飞速提升到2M/s以上](https://sec.thief.one/article_content?a_id=2e97edaa0101eca302d6aa4dd2e2f1cf)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

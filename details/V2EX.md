@@ -1,11 +1,14 @@
-:alarm_clock: 更新时间: 2020-08-14 02:21:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 02:31:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-08-14-Pzea-购买云主机付款后主机未开通，-V-友有渠道能连联到售后吗？](https://www.v2ex.com/t/698168) 
+- [2020-08-14-VS-Code-插件：支持码云（Gitee）各种日常操作，欢迎补充需求](https://www.v2ex.com/t/698171) 
+- [2020-08-14-看板应用-teambition-和其他企业系统的整合](https://www.v2ex.com/t/698170) 
+- [2020-08-14-HK-节点，-Google-Play-时常无法更新下载](https://www.v2ex.com/t/698169) 
+- [2020-08-14-Pzea-购买云主机付款后主机未开通，-V-友有渠道能联系到售后的方法吗？](https://www.v2ex.com/t/698168) 
 - [2020-08-14-远程-硅谷科技初创，招-React-Native-全栈工程师](https://www.v2ex.com/t/698166) 
 - [2020-08-14-相互宝-2-周-4-块多了-你们都退了吗？](https://www.v2ex.com/t/698165) 
 - [2020-08-14-想-DIY-个-OpenPGP-Card，但是好像智能卡硬件很难获得](https://www.v2ex.com/t/698164) 
@@ -47,6 +50,3 @@
 - [2020-08-13-ZX-Spectrum-重制版，一个有趣的-Kickstarter-项目](https://www.v2ex.com/t/698124) 
 - [2020-08-13-2020-年，对-Ubuntu-支持良好的笔记本，求推荐](https://www.v2ex.com/t/698123) 
 - [2020-08-13-因为忘了-apple-pay-密码，导致-iPhone-被停用了。。。。](https://www.v2ex.com/t/698122) 
-- [2020-08-13-iPad-“屏幕使用时间”疑问](https://www.v2ex.com/t/698121) 
-- [2020-08-13-UI/UX-远程全职设计师（急招）|-月薪-10k-15k-RMB](https://www.v2ex.com/t/698120) 
-- [2020-08-13-我有个不成熟的想法，关于-macbook-pro-2019-15"散热](https://www.v2ex.com/t/698119) 

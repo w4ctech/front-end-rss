@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-14 02:21:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 02:31:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -56,4 +56,5 @@
 - [2020-08-14-出去面试很扎心](https://www.v2ex.com/t/698150) 
 - [2020-08-14-杭州-招聘-Golang-工程师（后端、云相关），-base-杭州，双休，不-996，公司现金流健康](https://www.v2ex.com/t/698149) 
 - [2020-08-14-面试该不该填家人信息和身份证号？](https://www.v2ex.com/t/698148) 
+- [2020-08-14-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

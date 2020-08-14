@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 15:33:33，:rocket: 更新条数: +3262， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 15:46:31，:rocket: 更新条数: +3310， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -729,6 +729,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1042,6 +1052,26 @@
 </summary>
 
 
+- [2020-08-14-硬件越来越快，软件越来越慢？](https://www.v2ex.com/t/698373) ![](assets/new.png)  
+- [2020-08-14-VSCode-中有没有办法连接到-Onedrive-网盘并实时编辑文件？](https://www.v2ex.com/t/698372) ![](assets/new.png)  
+- [2020-08-14-有没有什么软件/插件可以即时生成视频字幕？](https://www.v2ex.com/t/698371) ![](assets/new.png)  
+- [2020-08-14-有人试过吧-pixel-屏幕换成-LCD-吗](https://www.v2ex.com/t/698368) ![](assets/new.png)  
+- [2020-08-14-有没有开源的-Crontab-Web-管理工具推荐，试了几个都感觉不是很好用](https://www.v2ex.com/t/698367) ![](assets/new.png)  
+- [2020-08-14-说个搞笑的事情，我冒烟不能开机需要换主板的-MBP-自己好了~~](https://www.v2ex.com/t/698364) ![](assets/new.png)  
+- [2020-08-14-StarLink-测试版带宽及延迟被曝光](https://www.v2ex.com/t/698363) ![](assets/new.png)  
+- [2020-08-14-QA-转-RD-建议](https://www.v2ex.com/t/698362) ![](assets/new.png)  
+- [2020-08-14-堡垒之夜的-Epic-Game-大战-Apple-制作了这个模仿苹果-1984-广告的宣传片](https://www.v2ex.com/t/698361) ![](assets/new.png)  
+- [2020-08-14-4G-网络无法访问-v-站，其他网站（bing，-zhihu）速度都正常，切到-wifi-之后一切正常](https://www.v2ex.com/t/698360) ![](assets/new.png)  
+- [2020-08-14-怎么给-Android-团队提建议增加历史删除文件恢复功能？](https://www.v2ex.com/t/698359) ![](assets/new.png)  
+- [2020-08-14-大家怎么看待护网行动？](https://www.v2ex.com/t/698358) ![](assets/new.png)  
+- [2020-08-14-请教各位大佬！](https://www.v2ex.com/t/698357) ![](assets/new.png)  
+- [2020-08-14-UBUNTU20-百度网盘客户端登陆后显示加载失败-有什么解决办法呢？](https://www.v2ex.com/t/698355) ![](assets/new.png)  
+- [2020-08-14-请教，还有什么网站项目值得投资开发](https://www.v2ex.com/t/698353) ![](assets/new.png)  
+- [2020-08-14-你们的-iMac-都是用的什么扩展内存](https://www.v2ex.com/t/698352) ![](assets/new.png)  
+- [2020-08-14-win7-update-更新.NET4.8-总是报错，错误代码-643，打其他补丁正常](https://www.v2ex.com/t/698351) ![](assets/new.png)  
+- [2020-08-14-宽带的限速对-KCP-无效吗？](https://www.v2ex.com/t/698350) ![](assets/new.png)  
+- [2020-08-14-macos-版本太老无法购买限免-app-reeder4](https://www.v2ex.com/t/698349) ![](assets/new.png)  
+- [2020-08-14-concurrent.futures-多进程/多线程之间，子程如何动态与主线协调变量数值？](https://www.v2ex.com/t/698348) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

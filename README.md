@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 08:48:23，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 09:03:18，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-14-菲律宾新增6216例新冠肺炎确诊病例-累计确诊153660例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYptZsov45IwLmzSP0ujr200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-德国累计确诊新冠肺炎病例221413例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKm4DWqtLK1AwXsm4fDVG200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-​巴基斯坦新增新冠肺炎确诊病例624例-累计确诊病例287299例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7FkcRxOvrUk851fPUbyH200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-两部门：低风险地区校园内学生无需佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiumjwk5PqCNqUhyXAgZ6E200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-印度新增64553例新冠肺炎确诊病例-累计确诊2461190例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiloWc4i0U0l1x7aJt1skh200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-14-菲律宾抗疫持续-政府制定提振经济计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7pl2n7pZqXVawJrjPkIP200814&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,13 @@
 </summary>
 
 
+- [2020-08-14-7Plus-换了尾插后快充不能使用了](https://www.v2ex.com/t/698306) ![](assets/new.png)  
+- [2020-08-14-Mozilla-裁员，-MDN-何去何从…](https://www.v2ex.com/t/698305) ![](assets/new.png)  
+- [2020-08-14-更了-ipados14-apple-news-彻底打不开了](https://www.v2ex.com/t/698302) ![](assets/new.png)  
+- [2020-08-14-阿里云体验实验室-教你如何《快速搭建-LNMP-环境》](https://www.v2ex.com/t/698301) ![](assets/new.png)  
+- [2020-08-14-推荐一款适用-mac-的能充电能连蓝牙的键鼠套装！](https://www.v2ex.com/t/698300) ![](assets/new.png)  
+- [2020-08-14-北京的-model3-车主求救，想咨询一下体验的问题来决策是否参与-2-万辆电动车计划](https://www.v2ex.com/t/698299) ![](assets/new.png)  
+- [2020-08-14-淘宝的商品标题写得太差劲了](https://www.v2ex.com/t/698298) ![](assets/new.png)  
 - [2020-08-14-公众号被封号了，里面的流量主的钱弄找回了吗？](https://www.v2ex.com/t/698297) ![](assets/new.png)  
 - [2020-08-14-内推-滴滴-前端，后端-算法，-base-北京-杭州](https://www.v2ex.com/t/698296) ![](assets/new.png)  
 - [2020-08-14-职场真是“做人留一线，日后好相见”验证场景-TOP1](https://www.v2ex.com/t/698295) ![](assets/new.png)  
@@ -1065,13 +1072,6 @@
 - [2020-08-14-服务器被扫描,发现一个好玩儿的,发给大家乐呵乐呵](https://www.v2ex.com/t/698286) ![](assets/new.png)  
 - [2020-08-14-有人试过用电脑给芒果催熟吗](https://www.v2ex.com/t/698285) ![](assets/new.png)  
 - [2020-08-14-有什么资料（博客，书籍等）或在-v-站评论能了解清楚-Java-（顺带-c++）的-HashMap-实现和熟练使用吗？](https://www.v2ex.com/t/698284) ![](assets/new.png)  
-- [2020-08-14-回龙观附近有没有喜欢玩滑板的朋友](https://www.v2ex.com/t/698283) ![](assets/new.png)  
-- [2020-08-14-关于-go-swagger-的使用](https://www.v2ex.com/t/698281) ![](assets/new.png)  
-- [2020-08-14-现在那种前端网页页面-className-看起来是随机的是如何实现的](https://www.v2ex.com/t/698280) ![](assets/new.png)  
-- [2020-08-14-即使是云上贵州-iCloud-也很慢](https://www.v2ex.com/t/698279) ![](assets/new.png)  
-- [2020-08-14-Reeder-4-限免了，各位可否分享一下你们优质的-RSS-订阅源](https://www.v2ex.com/t/698278) ![](assets/new.png)  
-- [2020-08-14-这道-LeetCode-是不是做不了。。。。](https://www.v2ex.com/t/698277) ![](assets/new.png)  
-- [2020-08-14-内推-快手-快手校园招聘秋季内推正式开始,直达面试](https://www.v2ex.com/t/698276) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

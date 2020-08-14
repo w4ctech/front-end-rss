@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 01:48:38，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 02:02:39，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-14-为什么很多讲设计模式的博客，讲解的代码例子都是基于“继承抽象类或实现接口“，设计模式规范很严格么？](https://www.v2ex.com/t/698155) ![](assets/new.png)  
+- [2020-08-14-想到一个奇怪的问题，如果马化腾给他微信余额数据库直接改成-1-亿，那这个可以出去买东西吗](https://www.v2ex.com/t/698154) ![](assets/new.png)  
+- [2020-08-14-leetcode/lintcode-题解-逆波兰表达式求值](https://www.v2ex.com/t/698153) ![](assets/new.png)  
 - [2020-08-14-哪句话支撑你度过许多煎熬时刻？](https://www.v2ex.com/t/698152) ![](assets/new.png)  
 - [2020-08-14-关于共享单车](https://www.v2ex.com/t/698151) ![](assets/new.png)  
 - [2020-08-14-出去面试很扎心](https://www.v2ex.com/t/698150) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-14-775-和-995-选哪个](https://www.v2ex.com/t/698138) ![](assets/new.png)  
 - [2020-08-14-快手，靠谱研发，在线内推](https://www.v2ex.com/t/698137) ![](assets/new.png)  
 - [2020-08-14-请问如何相对低成本的合法稳定访问境外网络？-深圳，外企](https://www.v2ex.com/t/698136) ![](assets/new.png)  
-- [2020-08-14-现在-macOS-Big-Sur-现在兼容性如何啊-Homebrew-这些支持咋样啊](https://www.v2ex.com/t/698135) ![](assets/new.png)  
-- [2020-08-14-二问咖啡](https://www.v2ex.com/t/698134) ![](assets/new.png)  
-- [2020-08-14-油管打不开了？-不对呀，-gmail-等等都可以开呀](https://www.v2ex.com/t/698133) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,8 +1120,8 @@
 - [2020-08-14-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
 - [2020-08-14-TypeScript-设计模式之工厂方法](https://toutiao.io/k/p280wsr) ![](assets/new.png)  
 - [2020-08-14-译-Python-为什么要在-18-年前引入布尔类型？且与-C、C++-和-Java-都不同？](https://toutiao.io/k/h40ys77) ![](assets/new.png)  
-- [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
 - [2020-08-14-漫谈分布式系统（二十一）：基于代价的优化](https://toutiao.io/k/ssyf7ey) ![](assets/new.png)  
 - [2020-08-14-今晚发车，赶紧上车吧！](https://toutiao.io/k/hmqka5v) ![](assets/new.png)  
@@ -1130,10 +1130,10 @@
 - [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
 - [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
-- [2020-08-14-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-14-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
-- [2020-08-14-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-14-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-14-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-14-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-14-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-14-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

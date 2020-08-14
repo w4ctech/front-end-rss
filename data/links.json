@@ -12687,6 +12687,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "智利新冠肺炎疫情持续缓和 超55万人申请国家帮扶贷款",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyJBj72jJ9zoliOQLCzaj200815&isfromapp=1",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "世卫组织：全球新增新冠肺炎确诊病例286710例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI4rO7DtMNRYCENWKWsth200815&isfromapp=1",
+        "date": "2020-08-14"
+      },
+      {
         "title": "英国新增1441例新冠肺炎确诊病例 累计确诊316367例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiha7nw6233YM2e8rC1vBF200815&isfromapp=1",
         "date": "2020-08-14"
@@ -12699,16 +12709,6 @@
       {
         "title": "针对英国把法国列入隔离清单 法国将采取“对等措施”",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirqJyp6jwRMBCfupxp2XT200814&isfromapp=1",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "香港各界感谢内地支援 凝心聚力共抗疫情",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qsBrU63LERU5Y4PZRmO200814&isfromapp=1",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "秘鲁新增新冠肺炎确诊病例5069例 累计确诊逾50万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADUG2O4ygrPXF9Qza50U200814&isfromapp=1",
         "date": "2020-08-14"
       }
     ]
@@ -16874,6 +16874,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "niz plum 的静电容键盘，双模蓝牙支持的怎么样？尤其是对 mbp",
+        "link": "https://www.v2ex.com/t/698399",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "发现注意力不能集中了",
+        "link": "https://www.v2ex.com/t/698398",
+        "date": "2020-08-14"
+      },
+      {
         "title": "怎么用 ReactiveX 遍历树？",
         "link": "https://www.v2ex.com/t/698397",
         "date": "2020-08-14"
@@ -17062,16 +17072,6 @@
         "title": "宽带的限速对 KCP 无效吗？",
         "link": "https://www.v2ex.com/t/698350",
         "date": "2020-08-14"
-      },
-      {
-        "title": "macos 版本太老无法购买限免 app reeder4",
-        "link": "https://www.v2ex.com/t/698349",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "concurrent.futures 多进程/多线程之间，子程如何动态与主线协调变量数值？",
-        "link": "https://www.v2ex.com/t/698348",
-        "date": "2020-08-14"
       }
     ]
   },
@@ -17258,13 +17258,13 @@
         "date": "2020-08-14"
       },
       {
-        "title": "特征工程：类别特征的常见处理方式（含代码）",
-        "link": "https://toutiao.io/k/rtkzlgl",
+        "title": "听说同学你搞不懂 Java 的 LinkedHashMap，可笑",
+        "link": "https://toutiao.io/k/x0xsvse",
         "date": "2020-08-14"
       },
       {
-        "title": "听说同学你搞不懂 Java 的 LinkedHashMap，可笑",
-        "link": "https://toutiao.io/k/x0xsvse",
+        "title": "特征工程：类别特征的常见处理方式（含代码）",
+        "link": "https://toutiao.io/k/rtkzlgl",
         "date": "2020-08-14"
       },
       {
@@ -17288,23 +17288,8 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-14"
       },
       {
@@ -17313,38 +17298,13 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
         "date": "2020-08-14"
       },
       {
@@ -17353,13 +17313,53 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
         "date": "2020-08-14"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 23:33:48，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 23:46:20，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-14-智利新冠肺炎疫情持续缓和-超55万人申请国家帮扶贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyJBj72jJ9zoliOQLCzaj200815&isfromapp=1) ![](assets/new.png)  
+- [2020-08-14-世卫组织：全球新增新冠肺炎确诊病例286710例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI4rO7DtMNRYCENWKWsth200815&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-英国新增1441例新冠肺炎确诊病例-累计确诊316367例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiha7nw6233YM2e8rC1vBF200815&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-陕西安康今日中午12时已完成对兴安市场全面消杀-目前临时休市](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDAWchUhU5NM3WoYo5Ic8200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-针对英国把法国列入隔离清单-法国将采取“对等措施”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirqJyp6jwRMBCfupxp2XT200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-14-香港各界感谢内地支援-凝心聚力共抗疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qsBrU63LERU5Y4PZRmO200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-14-秘鲁新增新冠肺炎确诊病例5069例-累计确诊逾50万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADUG2O4ygrPXF9Qza50U200814&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1062,6 +1062,8 @@
 </summary>
 
 
+- [2020-08-14-niz-plum-的静电容键盘，双模蓝牙支持的怎么样？尤其是对-mbp](https://www.v2ex.com/t/698399) ![](assets/new.png)  
+- [2020-08-14-发现注意力不能集中了](https://www.v2ex.com/t/698398) ![](assets/new.png)  
 - [2020-08-14-怎么用-ReactiveX-遍历树？](https://www.v2ex.com/t/698397) ![](assets/new.png)  
 - [2020-08-14-喜马拉雅官方淘宝店购买喜点-818-会员-返利-30-多](https://www.v2ex.com/t/698396) ![](assets/new.png)  
 - [2020-08-14-b-站评论区竟然可以输入-HTML-标签，并且显示出来？](https://www.v2ex.com/t/698395) ![](assets/new.png)  
@@ -1080,8 +1082,6 @@
 - [2020-08-14-挡住太阳是否可以解决全球变暖的问题？](https://www.v2ex.com/t/698381) ![](assets/new.png)  
 - [2020-08-14-.Net-Core-速度快的原因是什么？](https://www.v2ex.com/t/698380) ![](assets/new.png)  
 - [2020-08-14-我又来了，-mbp-左右两个风扇出风量明显不一样有人遇到过吗？](https://www.v2ex.com/t/698379) ![](assets/new.png)  
-- [2020-08-14-小区联通宽带撑死只能达到-90-兆，怎么办？](https://www.v2ex.com/t/698378) ![](assets/new.png)  
-- [2020-08-14-第一个大小周的-996……我明天去不……](https://www.v2ex.com/t/698376) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1138,8 +1138,8 @@
 - [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
 - [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
-- [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
+- [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-小步快跑，快速迭代：安全运营的器术法道](https://toutiao.io/k/p9zq1tc) ![](assets/new.png)  
 - [2020-08-14-提前批算法工程师面试之路](https://toutiao.io/k/33s0h78) ![](assets/new.png)  
 - [2020-08-14-NTLM-的基操](https://toutiao.io/k/8v99f45) ![](assets/new.png)  

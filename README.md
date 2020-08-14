@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 06:33:33，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 06:46:23，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-14-​巴基斯坦新增新冠肺炎确诊病例624例-累计确诊病例287299例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7FkcRxOvrUk851fPUbyH200814&isfromapp=1) ![](assets/new.png)  
+- [2020-08-14-印度新增64553例新冠肺炎确诊病例-累计确诊2461190例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiloWc4i0U0l1x7aJt1skh200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-菲律宾抗疫持续-政府制定提振经济计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7pl2n7pZqXVawJrjPkIP200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-天津市及时处置一名境外新冠病毒核酸检测结果阳性外籍人员有关疫情风险-目前结果全部阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiANrQu0WyMKUNzl3bTAlV200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-大连回应南京一市民经大连飞往日本后新冠检测呈阳性的有关情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRW5GxFujfSgX8ML3uSa200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-14-关于厄瓜多尔冷冻生南美白虾排查处置情况的通报](http://sxwjw.shaanxi.gov.cn/art/2020/8/14/art_9_72437.html) ![](assets/new.png)  
-- [2020-08-13-美国疾控中心主任：不会施压学校重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihnxOszP5eayJw96xHVff200814&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-14-腾讯+云南-云南腾云信息产业有限公司（一部手机游云南）招聘大数据岗位](https://www.v2ex.com/t/698254) ![](assets/new.png)  
+- [2020-08-14-可以发卖房信息吗？美林海岸花园小两房（科韵路、金融城）](https://www.v2ex.com/t/698253) ![](assets/new.png)  
+- [2020-08-14-想用-Springboot-做后端接口，但组里-scala-大佬希望我用-Akka-Http-怎么办](https://www.v2ex.com/t/698252) ![](assets/new.png)  
+- [2020-08-14-关于最近房贷-lpr-转换事情](https://www.v2ex.com/t/698251) ![](assets/new.png)  
+- [2020-08-14-杭州招嵌入式工程师](https://www.v2ex.com/t/698250) ![](assets/new.png)  
 - [2020-08-14-吉祥航空从深圳出发的直达航线怎么查？](https://www.v2ex.com/t/698249) ![](assets/new.png)  
 - [2020-08-14-基于没有见过老酒贬值，打算屯品牌白酒等升值，靠谱不靠谱？想做一个这样的平台](https://www.v2ex.com/t/698248) ![](assets/new.png)  
 - [2020-08-14-投降，转行做中药材，想了几个店铺/公司名称都被注册了，求名！](https://www.v2ex.com/t/698245) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-14-218-元-充喜马拉雅会员-得-13-个会员。](https://www.v2ex.com/t/698231) ![](assets/new.png)  
 - [2020-08-14-字节跳动安全与风控内推](https://www.v2ex.com/t/698230) ![](assets/new.png)  
 - [2020-08-14-18-年买的-mbp-2015-电池鼓包了，让我想起了那个用针筒放气的老哥](https://www.v2ex.com/t/698226) ![](assets/new.png)  
-- [2020-08-14-应该保持什么样的工作态度](https://www.v2ex.com/t/698225) ![](assets/new.png)  
-- [2020-08-14-心态失衡怎么办](https://www.v2ex.com/t/698223) ![](assets/new.png)  
-- [2020-08-14-Oxygen-OS-11-开发者预览版-3-发布了，带来了全新的界面设计](https://www.v2ex.com/t/698222) ![](assets/new.png)  
-- [2020-08-14-上海（周浦/康桥/航头/新场/惠南）等小伙伴看过来：大数据负责人/搜索技术负责人-；-离家近的好职位来啦！](https://www.v2ex.com/t/698221) ![](assets/new.png)  
-- [2020-08-14-金蝶是-996-公司吗？](https://www.v2ex.com/t/698220) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,10 +1125,10 @@
 - [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
 - [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-今晚发车，赶紧上车吧！](https://toutiao.io/k/hmqka5v) ![](assets/new.png)  
-- [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
-- [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
-- [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
 - [2020-08-14-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
+- [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
+- [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
 - [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
 - [2020-08-14-小步快跑，快速迭代：安全运营的器术法道](https://toutiao.io/k/p9zq1tc) ![](assets/new.png)  

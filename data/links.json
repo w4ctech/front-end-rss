@@ -12667,8 +12667,18 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "德国累计确诊新冠肺炎病例221413例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKm4DWqtLK1AwXsm4fDVG200814&isfromapp=1",
+        "date": "2020-08-14"
+      },
+      {
         "title": "​巴基斯坦新增新冠肺炎确诊病例624例 累计确诊病例287299例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7FkcRxOvrUk851fPUbyH200814&isfromapp=1",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "两部门：低风险地区校园内学生无需佩戴口罩",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiumjwk5PqCNqUhyXAgZ6E200814&isfromapp=1",
         "date": "2020-08-14"
       },
       {
@@ -12679,16 +12689,6 @@
       {
         "title": "菲律宾抗疫持续 政府制定提振经济计划",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7pl2n7pZqXVawJrjPkIP200814&isfromapp=1",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "天津市及时处置一名境外新冠病毒核酸检测结果阳性外籍人员有关疫情风险 目前结果全部阴性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiANrQu0WyMKUNzl3bTAlV200814&isfromapp=1",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "大连回应南京一市民经大连飞往日本后新冠检测呈阳性的有关情况",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRW5GxFujfSgX8ML3uSa200814&isfromapp=1",
         "date": "2020-08-14"
       }
     ]
@@ -15819,6 +15819,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "服务器被扫描,发现一个好玩儿的,发给大家乐呵乐呵",
+        "link": "https://www.v2ex.com/t/698286",
+        "date": "2020-08-14"
+      },
+      {
         "title": "有人试过用电脑给芒果催熟吗",
         "link": "https://www.v2ex.com/t/698285",
         "date": "2020-08-14"
@@ -15992,11 +15997,6 @@
         "title": "［上海］拼多多招前端/ Java /客户端，急缺岗位",
         "link": "https://www.v2ex.com/t/698239",
         "date": "2020-08-14"
-      },
-      {
-        "title": "关于 EasyWechat 中验证 token 的问题",
-        "link": "https://www.v2ex.com/t/698237",
-        "date": "2020-08-14"
       }
     ]
   },
@@ -16005,6 +16005,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "API设计的几条原则 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-14"
+      },
       {
         "title": "怎样消灭Bug？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -16099,11 +16104,6 @@
         "title": "10 大受欢迎的全球顶级编程语言与薪资水平 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13657&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4yoMBPzafZ1LQPE3dk2K0Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-08-14"
-      },
-      {
-        "title": "Python 编辑神器 Jupyter ，推出首款官方可视化 Debug 工具！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13656&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP0i8lghP74whBvK5EA_RCg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-14"
       }
     ]
   },
@@ -16153,13 +16153,13 @@
         "date": "2020-08-14"
       },
       {
-        "title": "TypeScript 实战总结之实现一个互联网黑白墙",
-        "link": "https://toutiao.io/k/zh8z9mo",
+        "title": "高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
         "date": "2020-08-14"
       },
       {
-        "title": "高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
+        "title": "TypeScript 实战总结之实现一个互联网黑白墙",
+        "link": "https://toutiao.io/k/zh8z9mo",
         "date": "2020-08-14"
       },
       {
@@ -16213,63 +16213,13 @@
         "date": "2020-08-14"
       },
       {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-14"
+      },
+      {
         "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
         "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
         "date": "2020-08-14"
       },
       {
@@ -16278,13 +16228,63 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-14"
       },
       {
         "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
         "link": "https://toutiao.io/k/m7jtpvi",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
         "date": "2020-08-14"
       }
     ]

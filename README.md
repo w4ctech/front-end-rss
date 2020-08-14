@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 07:48:06，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 08:02:41，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-14-德国累计确诊新冠肺炎病例221413例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKm4DWqtLK1AwXsm4fDVG200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-​巴基斯坦新增新冠肺炎确诊病例624例-累计确诊病例287299例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7FkcRxOvrUk851fPUbyH200814&isfromapp=1) ![](assets/new.png)  
+- [2020-08-14-两部门：低风险地区校园内学生无需佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiumjwk5PqCNqUhyXAgZ6E200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-印度新增64553例新冠肺炎确诊病例-累计确诊2461190例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiloWc4i0U0l1x7aJt1skh200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-菲律宾抗疫持续-政府制定提振经济计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7pl2n7pZqXVawJrjPkIP200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-14-天津市及时处置一名境外新冠病毒核酸检测结果阳性外籍人员有关疫情风险-目前结果全部阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiANrQu0WyMKUNzl3bTAlV200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-14-大连回应南京一市民经大连飞往日本后新冠检测呈阳性的有关情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRW5GxFujfSgX8ML3uSa200814&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-14-服务器被扫描,发现一个好玩儿的,发给大家乐呵乐呵](https://www.v2ex.com/t/698286) ![](assets/new.png)  
 - [2020-08-14-有人试过用电脑给芒果催熟吗](https://www.v2ex.com/t/698285) ![](assets/new.png)  
 - [2020-08-14-有什么资料（博客，书籍等）或在-v-站评论能了解清楚-Java-（顺带-c++）的-HashMap-实现和熟练使用吗？](https://www.v2ex.com/t/698284) ![](assets/new.png)  
 - [2020-08-14-回龙观附近有没有喜欢玩滑板的朋友](https://www.v2ex.com/t/698283) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-14-杭州-Unity3d-主程序-招聘](https://www.v2ex.com/t/698266) ![](assets/new.png)  
 - [2020-08-14-epic-不满苹果的抽成-被下架-起诉了苹果](https://www.v2ex.com/t/698264) ![](assets/new.png)  
 - [2020-08-14-iPad-Pro-10.5-屏幕亮斑过保还能否维修](https://www.v2ex.com/t/698263) ![](assets/new.png)  
-- [2020-08-14-Docker-容器时间如何与宿主机同步问题解决方案小结](https://www.v2ex.com/t/698262) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,6 +1083,7 @@
 </summary>
 
 
+- [2020-08-14-API设计的几条原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-14-怎样消灭Bug？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-14-优先改进哪个点：捏软柿子还是啃硬骨头？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13674&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontinuous-improvement-priority%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-14-领域对象发展的极致就是代理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13673&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dynamic-domian-modelling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1102,7 +1103,6 @@
 - [2020-08-14-Android-技术总监应该干的那些事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13659&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuqZYvyImfsQdQwuI6i6cbg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-14-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-14-10-大受欢迎的全球顶级编程语言与薪资水平-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13657&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4yoMBPzafZ1LQPE3dk2K0Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-14-Python-编辑神器-Jupyter-，推出首款官方可视化-Debug-工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13656&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP0i8lghP74whBvK5EA_RCg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1122,8 @@
 - [2020-08-14-译-Python-为什么要在-18-年前引入布尔类型？且与-C、C++-和-Java-都不同？](https://toutiao.io/k/h40ys77) ![](assets/new.png)  
 - [2020-08-14-漫谈分布式系统（二十一）：基于代价的优化](https://toutiao.io/k/ssyf7ey) ![](assets/new.png)  
 - [2020-08-14-TypeScript-设计模式之工厂方法](https://toutiao.io/k/p280wsr) ![](assets/new.png)  
-- [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
 - [2020-08-14-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
 - [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-今晚发车，赶紧上车吧！](https://toutiao.io/k/hmqka5v) ![](assets/new.png)  
 - [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  

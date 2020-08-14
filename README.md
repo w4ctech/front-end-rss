@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 08:02:41，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 08:13:06，:rocket: 更新条数: +3305， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-08-13-8月13日全国新增新冠30例-上海境外输入16例](http://m.china.caixin.com/m/2020-08-14/101592528.html) ![](assets/new.png)  
+- [2020-08-13-最新疫情：全国新冠累计确诊84786例-上海新增境外输入16例](https://m.caixin.com/m/2020-08-14/101592763.html) ![](assets/new.png)  
 - [2020-08-13-【境内疫情观察】上海新增16例境外输入病例（8月13日）](http://m.database.caixin.com/m/2020-08-14/101592707.html) ![](assets/new.png)  
 - [2020-08-13-大流行手记|8月13日：全球数百人因新冠错误信息死亡-新西兰疑冷库货物输入病毒](https://m.caixin.com/m/2020-08-14/101592513.html) ![](assets/new.png)  
 - [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-14-Reeder-4-限免，-Mac-OS-和-iOS-双平台](https://www.v2ex.com/t/698291) ![](assets/new.png)  
+- [2020-08-14-到底是什么原因促使你选择了-MyBatis-作为-ORMapping-的？](https://www.v2ex.com/t/698290) ![](assets/new.png)  
+- [2020-08-14-诸位,求推荐会计学入门的书籍或者教程](https://www.v2ex.com/t/698289) ![](assets/new.png)  
+- [2020-08-14-目前（2020-年-8-月）国内版-MIUI-的-FCM-推送是否能像原生/类原生一样正常工作？](https://www.v2ex.com/t/698288) ![](assets/new.png)  
 - [2020-08-14-服务器被扫描,发现一个好玩儿的,发给大家乐呵乐呵](https://www.v2ex.com/t/698286) ![](assets/new.png)  
 - [2020-08-14-有人试过用电脑给芒果催熟吗](https://www.v2ex.com/t/698285) ![](assets/new.png)  
 - [2020-08-14-有什么资料（博客，书籍等）或在-v-站评论能了解清楚-Java-（顺带-c++）的-HashMap-实现和熟练使用吗？](https://www.v2ex.com/t/698284) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-14-青岛的铁汁们，有没有靠谱点的公司推荐一下？](https://www.v2ex.com/t/698271) ![](assets/new.png)  
 - [2020-08-14-大家会去破解-switch-吗？](https://www.v2ex.com/t/698270) ![](assets/new.png)  
 - [2020-08-14-关于桂枝公司的劳动者权益](https://www.v2ex.com/t/698269) ![](assets/new.png)  
-- [2020-08-14-JS/TS-引用第三方库的时候，能够-debug-进入该库的函数么？在有-sourcemap-的情况下？](https://www.v2ex.com/t/698267) ![](assets/new.png)  
-- [2020-08-14-杭州-Unity3d-主程序-招聘](https://www.v2ex.com/t/698266) ![](assets/new.png)  
-- [2020-08-14-epic-不满苹果的抽成-被下架-起诉了苹果](https://www.v2ex.com/t/698264) ![](assets/new.png)  
-- [2020-08-14-iPad-Pro-10.5-屏幕亮斑过保还能否维修](https://www.v2ex.com/t/698263) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

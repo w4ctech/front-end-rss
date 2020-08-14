@@ -5,8 +5,8 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "8月13日全国新增新冠30例 上海境外输入16例",
-        "link": "http://m.china.caixin.com/m/2020-08-14/101592528.html",
+        "title": "最新疫情：全国新冠累计确诊84786例 上海新增境外输入16例",
+        "link": "https://m.caixin.com/m/2020-08-14/101592763.html",
         "date": "2020-08-13"
       },
       {
@@ -7990,7 +7990,7 @@
         "date": "2020-02-27"
       },
       {
-        "title": "地图|最新海外疫情：新冠感染者超2049万 美国累计感染近520万",
+        "title": "地图|最新海外疫情：新冠感染者超2078万 美国累计感染近525万",
         "link": "http://m.datanews.caixin.com/m/interactive/2020/pneumonia-h5/global.html",
         "date": "2020-02-26"
       },
@@ -15819,6 +15819,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Reeder 4 限免， Mac OS 和 iOS 双平台",
+        "link": "https://www.v2ex.com/t/698291",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "到底是什么原因促使你选择了 MyBatis 作为 ORMapping 的？",
+        "link": "https://www.v2ex.com/t/698290",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "诸位,求推荐会计学入门的书籍或者教程",
+        "link": "https://www.v2ex.com/t/698289",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "目前（2020 年 8 月）国内版 MIUI 的 FCM 推送是否能像原生/类原生一样正常工作？",
+        "link": "https://www.v2ex.com/t/698288",
+        "date": "2020-08-14"
+      },
+      {
         "title": "服务器被扫描,发现一个好玩儿的,发给大家乐呵乐呵",
         "link": "https://www.v2ex.com/t/698286",
         "date": "2020-08-14"
@@ -15981,21 +16001,6 @@
       {
         "title": "网件 R7000 跑不满千兆带宽？",
         "link": "https://www.v2ex.com/t/698243",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "喜马拉雅买 1 得 13 已经开始预约！",
-        "link": "https://www.v2ex.com/t/698241",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "笔记本键盘引号键突然触发不了 keydown 了",
-        "link": "https://www.v2ex.com/t/698240",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "［上海］拼多多招前端/ Java /客户端，急缺岗位",
-        "link": "https://www.v2ex.com/t/698239",
         "date": "2020-08-14"
       }
     ]
@@ -16213,13 +16218,8 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-14"
       },
       {
@@ -16228,48 +16228,8 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-14"
       },
       {
@@ -16278,13 +16238,58 @@
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
         "date": "2020-08-14"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
         "date": "2020-08-14"
       }
     ]

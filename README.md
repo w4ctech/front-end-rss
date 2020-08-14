@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 06:22:58，:rocket: 更新条数: +3308， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 06:31:24，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-08-13-8月13日全国新增新冠30例-上海境外输入16例](http://m.china.caixin.com/m/2020-08-14/101592528.html) ![](assets/new.png)  
+- [2020-08-13-【境内疫情观察】上海新增16例境外输入病例（8月13日）](http://m.database.caixin.com/m/2020-08-14/101592707.html) ![](assets/new.png)  
 - [2020-08-13-大流行手记|8月13日：全球数百人因新冠错误信息死亡-新西兰疑冷库货物输入病毒](https://m.caixin.com/m/2020-08-14/101592513.html) ![](assets/new.png)  
 - [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
 - [2020-08-12-新发地8月15日起正式复市-不再对个人消费者开放](https://m.caixin.com/m/2020-08-13/101592402.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-09-大流行手记|8月9日：日本澄清新冠病毒变异-特朗普谋求疫苗大选前出炉](https://m.caixin.com/m/2020-08-10/101590711.html) ![](assets/new.png)  
 - [2020-08-09-输入性新冠病例陡增-上海将加强国际航班远端管控](http://m.companies.caixin.com/m/2020-08-10/101590870.html) ![](assets/new.png)  
 - [2020-08-09-澳大利亚单日新增死亡病例创新高-新西兰连续百日无社区传播](http://m.international.caixin.com/m/2020-08-10/101590950.html) ![](assets/new.png)  
-- [2020-08-09-美国疫情现趋缓迹象-新增和死亡病例7日均值双双下行](http://m.international.caixin.com/m/2020-08-10/101590833.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-14-菲律宾抗疫持续-政府制定提振经济计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7pl2n7pZqXVawJrjPkIP200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-天津市及时处置一名境外新冠病毒核酸检测结果阳性外籍人员有关疫情风险-目前结果全部阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiANrQu0WyMKUNzl3bTAlV200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-大连回应南京一市民经大连飞往日本后新冠检测呈阳性的有关情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRW5GxFujfSgX8ML3uSa200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-关于厄瓜多尔冷冻生南美白虾排查处置情况的通报](http://sxwjw.shaanxi.gov.cn/art/2020/8/14/art_9_72437.html) ![](assets/new.png)  
 - [2020-08-13-美国疾控中心主任：不会施压学校重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihnxOszP5eayJw96xHVff200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-13-国家卫健委、教育部发布新版秋冬季疫情防控技术方案](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7xQ4cBjQnRkbZm6lh2y2200814&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-14-吉祥航空从深圳出发的直达航线怎么查？](https://www.v2ex.com/t/698249) ![](assets/new.png)  
+- [2020-08-14-基于没有见过老酒贬值，打算屯品牌白酒等升值，靠谱不靠谱？想做一个这样的平台](https://www.v2ex.com/t/698248) ![](assets/new.png)  
 - [2020-08-14-投降，转行做中药材，想了几个店铺/公司名称都被注册了，求名！](https://www.v2ex.com/t/698245) ![](assets/new.png)  
 - [2020-08-14-网件-R7000-跑不满千兆带宽？](https://www.v2ex.com/t/698243) ![](assets/new.png)  
 - [2020-08-14-喜马拉雅买-1-得-13-已经开始预约！](https://www.v2ex.com/t/698241) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-14-Oxygen-OS-11-开发者预览版-3-发布了，带来了全新的界面设计](https://www.v2ex.com/t/698222) ![](assets/new.png)  
 - [2020-08-14-上海（周浦/康桥/航头/新场/惠南）等小伙伴看过来：大数据负责人/搜索技术负责人-；-离家近的好职位来啦！](https://www.v2ex.com/t/698221) ![](assets/new.png)  
 - [2020-08-14-金蝶是-996-公司吗？](https://www.v2ex.com/t/698220) ![](assets/new.png)  
-- [2020-08-14-请教，朋友刚好要飞纽约，-google-fi-怎么破限制](https://www.v2ex.com/t/698219) ![](assets/new.png)  
-- [2020-08-14-关于消费者主动拉取任务队列中的问题](https://www.v2ex.com/t/698218) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,8 +1126,8 @@
 - [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-今晚发车，赶紧上车吧！](https://toutiao.io/k/hmqka5v) ![](assets/new.png)  
 - [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
-- [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
 - [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
+- [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
 - [2020-08-14-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
 - [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 21:33:34，:rocket: 更新条数: +3528， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 21:46:38，:rocket: 更新条数: +3528， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-14-linksys-mesh-wifi-路由-用死啦，如何？](https://www.v2ex.com/t/698391) ![](assets/new.png)  
 - [2020-08-14-现在，技术美术和引擎程序员哪个更吃香？哪个更有前途？](https://www.v2ex.com/t/698390) ![](assets/new.png)  
 - [2020-08-14-webpack-externals-外部加载-cdn-文件到底是怎么用的？](https://www.v2ex.com/t/698389) ![](assets/new.png)  
 - [2020-08-14-有没有搜狐畅游的大爷，给个天龙怀旧服的内测码](https://www.v2ex.com/t/698388) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-14-有没有什么软件/插件可以即时生成视频字幕？](https://www.v2ex.com/t/698371) ![](assets/new.png)  
 - [2020-08-14-有人试过吧-pixel-屏幕换成-LCD-吗](https://www.v2ex.com/t/698368) ![](assets/new.png)  
 - [2020-08-14-有没有开源的-Crontab-Web-管理工具推荐，试了几个都感觉不是很好用](https://www.v2ex.com/t/698367) ![](assets/new.png)  
-- [2020-08-14-说个搞笑的事情，我冒烟不能开机需要换主板的-MBP-自己好了~~](https://www.v2ex.com/t/698364) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

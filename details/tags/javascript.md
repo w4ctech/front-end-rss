@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-14 16:33:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 16:46:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -89,6 +89,7 @@
 - [2020-08-12-我的天！你竟然没有在SpringBoot中使用过异步请求和异步调用...](https://www.ershicimi.com/p/fd7d6892f88375848eeb49a2246fe552) 
 - [2020-08-09-为什么-char-数组比-String-更适合存储密码？](https://www.ershicimi.com/p/670f8e19e57cf8571b4bf6fe22b538a4) 
 - [2020-08-08-看图说话，FastJson-并没有那么流行！](https://www.ershicimi.com/p/7be4093917bd4d8d51d44ce8d505108e) 
+- [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

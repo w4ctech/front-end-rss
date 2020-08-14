@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-14 15:09:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-14 15:20:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -28,5 +28,4 @@
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
-- [2020-08-14-招聘：深圳-非-996，硅谷-13-亿美元独角兽-Flexport，寻找有工匠精神的同道中人-全栈/DevOps](https://www.v2ex.com/t/698314) 
 - [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) 

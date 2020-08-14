@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 15:09:45，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 15:20:15，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1042,8 @@
 </summary>
 
 
+- [2020-08-14-有没有开源的-Crontab-Web-管理工具推荐，试了几个都感觉不是很好用](https://www.v2ex.com/t/698367) ![](assets/new.png)  
+- [2020-08-14-说个搞笑的事情，我冒烟不能开机需要换主板的-MBP-自己好了~~](https://www.v2ex.com/t/698364) ![](assets/new.png)  
 - [2020-08-14-StarLink-测试版带宽及延迟被曝光](https://www.v2ex.com/t/698363) ![](assets/new.png)  
 - [2020-08-14-QA-转-RD-建议](https://www.v2ex.com/t/698362) ![](assets/new.png)  
 - [2020-08-14-堡垒之夜的-Epic-Game-大战-Apple-制作了这个模仿苹果-1984-广告的宣传片](https://www.v2ex.com/t/698361) ![](assets/new.png)  
@@ -1070,8 +1062,6 @@
 - [2020-08-14-莫名其妙被注册了-GOV.CN-的用户](https://www.v2ex.com/t/698344) ![](assets/new.png)  
 - [2020-08-14-Pagic-官网来啦！-Deno-+-React-驱动的静态网站生成器！](https://www.v2ex.com/t/698343) ![](assets/new.png)  
 - [2020-08-14-守望先锋战绩网页插件](https://www.v2ex.com/t/698342) ![](assets/new.png)  
-- [2020-08-14-用户脚本-强制-Twitter-网页版播放最高画质视频](https://www.v2ex.com/t/698341) ![](assets/new.png)  
-- [2020-08-14-同一商家的-APP-和微信小程序比较，请问哪个连接会更快？](https://www.v2ex.com/t/698340) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

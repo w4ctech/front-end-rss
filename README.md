@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-14 12:48:31，:rocket: 更新条数: +3308， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-14 13:02:16，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,10 +96,10 @@
 
 
 - [2020-08-14-香港各界感谢内地支援-凝心聚力共抗疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qsBrU63LERU5Y4PZRmO200814&isfromapp=1) ![](assets/new.png)  
+- [2020-08-14-秘鲁新增新冠肺炎确诊病例5069例-累计确诊逾50万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADUG2O4ygrPXF9Qza50U200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-超过900名美国医护人员死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD1vyVdGUkQJhQcFX5ICW200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-乌鲁木齐：有确诊病例两次核酸检测呈阴性-第三次复阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6OZmHudvVk3nk68hqT71200814&isfromapp=1) ![](assets/new.png)  
 - [2020-08-14-乌鲁木齐：单日治愈出院和解除医学观察总数连续第7天超过新报告感染者人数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPj0HeIQE81BgLabsvtTc200814&isfromapp=1) ![](assets/new.png)  
-- [2020-08-14-菲律宾新增6216例新冠肺炎确诊病例-累计确诊153660例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYptZsov45IwLmzSP0ujr200814&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-14-房贷，邮储银行，选了固定审核后变成了-LPR](https://www.v2ex.com/t/698346) ![](assets/new.png)  
+- [2020-08-14-莫名其妙被注册了-GOV.CN-的用户](https://www.v2ex.com/t/698344) ![](assets/new.png)  
+- [2020-08-14-Pagic-官网来啦！-Deno-+-React-驱动的静态网站生成器！](https://www.v2ex.com/t/698343) ![](assets/new.png)  
 - [2020-08-14-守望先锋战绩网页插件](https://www.v2ex.com/t/698342) ![](assets/new.png)  
 - [2020-08-14-用户脚本-强制-Twitter-网页版播放最高画质视频](https://www.v2ex.com/t/698341) ![](assets/new.png)  
 - [2020-08-14-同一商家的-APP-和微信小程序比较，请问哪个连接会更快？](https://www.v2ex.com/t/698340) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-14-gcp-白天看个油管的-1080-都卡-用的-trojan-有懂哥知道怎么办吗](https://www.v2ex.com/t/698324) ![](assets/new.png)  
 - [2020-08-14-PHP-怎样才能验证-ssl/tls-证书的有效性](https://www.v2ex.com/t/698323) ![](assets/new.png)  
 - [2020-08-14-大腿们，求个-k2p-的官改固件下载地址。。](https://www.v2ex.com/t/698322) ![](assets/new.png)  
-- [2020-08-14-大家如何看待公司里的工作与学习工作无关的新技术之间的时间分配矛盾？](https://www.v2ex.com/t/698321) ![](assets/new.png)  
-- [2020-08-14-求教-k8s-部署-mysql-问题](https://www.v2ex.com/t/698319) ![](assets/new.png)  
-- [2020-08-14-用-Spring-Boot-仿一个-V2EX-前后端分离，需要用到哪些框架？](https://www.v2ex.com/t/698316) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,15 +1121,15 @@
 - [2020-08-14-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
 - [2020-08-14-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
 - [2020-08-14-译-Python-为什么要在-18-年前引入布尔类型？且与-C、C++-和-Java-都不同？](https://toutiao.io/k/h40ys77) ![](assets/new.png)  
-- [2020-08-14-漫谈分布式系统（二十一）：基于代价的优化](https://toutiao.io/k/ssyf7ey) ![](assets/new.png)  
 - [2020-08-14-今晚发车，赶紧上车吧！](https://toutiao.io/k/hmqka5v) ![](assets/new.png)  
+- [2020-08-14-漫谈分布式系统（二十一）：基于代价的优化](https://toutiao.io/k/ssyf7ey) ![](assets/new.png)  
 - [2020-08-14-TypeScript-设计模式之工厂方法](https://toutiao.io/k/p280wsr) ![](assets/new.png)  
 - [2020-08-14-TypeScript-实战总结之实现一个互联网黑白墙](https://toutiao.io/k/zh8z9mo) ![](assets/new.png)  
 - [2020-08-14-ES-同义词处理方案](https://toutiao.io/k/wwftc5d) ![](assets/new.png)  
 - [2020-08-14-手写-Dubbo（一）：基本原理](https://toutiao.io/k/3lpyk3p) ![](assets/new.png)  
 - [2020-08-14-Flexbox-最全图文指南](https://toutiao.io/k/vo5ewx7) ![](assets/new.png)  
-- [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
 - [2020-08-14-听说同学你搞不懂-Java-的-LinkedHashMap，可笑](https://toutiao.io/k/x0xsvse) ![](assets/new.png)  
+- [2020-08-14-Chrome-扩展插件数次审核被拒的惨痛经历](https://toutiao.io/k/yzroche) ![](assets/new.png)  
 - [2020-08-14-特征工程：类别特征的常见处理方式（含代码）](https://toutiao.io/k/rtkzlgl) ![](assets/new.png)  
 - [2020-08-14-小步快跑，快速迭代：安全运营的器术法道](https://toutiao.io/k/p9zq1tc) ![](assets/new.png)  
 - [2020-08-14-提前批算法工程师面试之路](https://toutiao.io/k/33s0h78) ![](assets/new.png)  
@@ -1145,6 +1145,7 @@
 </summary>
 
 
+- [2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) ![](assets/new.png)  
 - [2020-08-13-红队渗透手册之免杀篇](https://sec.thief.one/article_content?a_id=d228e82dbf1bf060bcfd097026dd9efe) ![](assets/new.png)  
 - [2020-08-13-​【安全圈】黑客劫持了YouTube流行频道,以促进比特币诈骗](https://sec.thief.one/article_content?a_id=d988719f07b20e2774b0d54fb4503d3e) ![](assets/new.png)  
 - [2020-08-13-ISC-2020技术日:数字时代加剧网络攻击态势,热议防御新技术锤炼之...](https://sec.thief.one/article_content?a_id=892baf7b4aedc8fd4a6de660165c8fe6) ![](assets/new.png)  
@@ -1164,7 +1165,6 @@
 - [2020-08-12-【漏洞通告】微软8月安全更新多个产品高危漏洞通告](https://sec.thief.one/article_content?a_id=afd2be532540441e88429fa179c790f8) ![](assets/new.png)  
 - [2020-08-11-定了!渗透测试工程师线下就业班秋季报名正式开启](https://sec.thief.one/article_content?a_id=9b0978d0c2ff2dac204461964441760a) ![](assets/new.png)  
 - [2020-08-11-中奖名单-|-前方锦鲤出没,速来围观!!!](https://sec.thief.one/article_content?a_id=f819fec72a8c6cdb9481e335afc2c258) ![](assets/new.png)  
-- [2020-08-11-BCTF-AutoPwn-第二站打响!-护网先锋战队夺得冠军席位](https://sec.thief.one/article_content?a_id=f8f295ec40eb6f288b1624cc236e1ceb) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

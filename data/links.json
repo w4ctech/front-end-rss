@@ -12700,7 +12700,33 @@
     "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "北京新发地主市场南区今天复市，只批发不零售",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRpeCwxOkd1DiWft535h200815&isfromapp=1",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "乌鲁木齐 14 日新增确诊病例和无症状感染者总数首次回到个位数",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiINMeiUmcKb1gKavp4oaU200815&isfromapp=1",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "​香港 15 日报告新增 46 例新冠肺炎确诊病例，其中 39 例为本土病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihqGU1xgfnbD8ubLD7tfE200815&isfromapp=1",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "天津新增 1 例境外输入新冠肺炎确诊病例，累计境外输入 69 例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaC2bR6hG59Qm59AD97Ie200815&isfromapp=1",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "广东陆丰 1 名确诊病例活动轨迹公布",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU1sB9CWVBuNjM7IsPRLe200815&isfromapp=1",
+        "date": "2020-08-15"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",
@@ -15936,11 +15962,6 @@
         "title": "为什么其他汽车厂商卖车不能像特斯拉一样互联网销售，价格公开透明？",
         "link": "https://www.v2ex.com/t/698479",
         "date": "2020-08-15"
-      },
-      {
-        "title": "Android Studio 需要更新，但是更新包太大，总是下载到一半出现 ssl peer shutdown incorectly.",
-        "link": "https://www.v2ex.com/t/698476",
-        "date": "2020-08-15"
       }
     ]
   },
@@ -16107,68 +16128,28 @@
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
-        "date": "2020-08-15"
-      },
-      {
         "title": "[推荐] 架构思维其实就那么回事",
         "link": "https://toutiao.io/k/904xmvc",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
         "date": "2020-08-15"
       },
       {
@@ -16177,8 +16158,48 @@
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
         "date": "2020-08-15"
       }
     ]

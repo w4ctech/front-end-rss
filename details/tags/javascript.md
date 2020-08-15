@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 04:10:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 04:20:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -61,10 +61,6 @@
 - [2020-08-07-Django-3.1-发布，支持异步-view-和-middleware](https://www.ershicimi.com/p/b1eb1881506d7224b7ece2c0a459e1e1) 
 - [2020-08-04-2020年不容错过的十大JavaScript库](https://www.ershicimi.com/p/072db7b80dfc6fcd63f89b4ea9510d7a) 
 - [2020-08-03-vivo-悟空活动H5-活动加载优化](https://www.ershicimi.com/p/82b13171ad46eefa287cf2703e6fa8c1) 
-- [2020-08-05-1000+-个项目的10大JavaScript错误](https://www.ershicimi.com/p/0074ae0ddcf7469ee6d7863df700cd5f) 
-- [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
-- [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
-- [2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) 
 - [2020-08-10-有了这个工具，小白也能快速写出复杂正则了](https://www.ershicimi.com/p/9086635077ee5bab869955e8a13cdb44) 
 - [2020-08-06-1000+-个项目的10大JavaScript错误](https://www.ershicimi.com/p/4d35e3f93cf5f956c52e6840fead0b60) 
 - [2020-07-27-妙用CSS变量，让你的CSS变得更心动](https://www.ershicimi.com/p/fd651b921e447be022ffe74d701e854d) 
@@ -97,6 +93,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-08-15-求推荐一款带-usb-支持-typec-协议且能-USB-网络共享的-wifi6-路由器](https://www.v2ex.com/t/698433) 
 - [2020-08-14-linksys-mesh-wifi-路由-用死啦，如何？](https://www.v2ex.com/t/698391) 
 - [2020-08-15-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-15-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

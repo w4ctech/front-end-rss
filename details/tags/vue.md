@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 04:10:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 04:20:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -40,7 +40,6 @@
 - [2020-08-10-前端框架选择Vue的理由](https://www.ershicimi.com/p/61da09eb11f6a082d0001338169310a4) 
 - [2020-08-05-vue3.0新型状态管理和逻辑复用方式](https://www.ershicimi.com/p/f68a2470bc8fd6493bfc5757328c2b9e) 
 - [2020-07-29-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed) 
-- [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
 - [2020-08-10-58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/1cf49709f7c37e2028ba1bceedcf27c4) 
 - [2020-07-31-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/68fe92e6e732623ea18dfde151124ad4) 
 - [2020-07-23-不到20%的开发能真正理解-Vue-，有没有你？（文内有福利）](https://www.ershicimi.com/p/fdc50530ca959ce13662f1feeaf110e4) 
@@ -59,4 +58,3 @@
 - [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-08-15-服务端渲染为刚需，-直接用模板引擎还是-vue+服务端渲染组件？](https://www.v2ex.com/t/698408) 
-- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) 

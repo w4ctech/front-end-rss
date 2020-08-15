@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 11:48:12，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-15 12:02:54，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -761,6 +761,7 @@
 </summary>
 
 
+- [2020-08-14-奇舞周刊第-360-期：-API-设计的几条原则](https://www.ershicimi.com/p/81d264b9b908a30db0537fd22c56ae8f) ![](assets/new.png)  
 - [2020-08-13-React17新特性：启发式更新算法](https://www.ershicimi.com/p/e8426b680d9e54dd7b0e8e2bf99ed27a) ![](assets/new.png)  
 - [2020-08-13-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/202b21f9d90c1818d553dab44f4fb92e) ![](assets/new.png)  
 - [2020-08-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4b4bbc116c4b2037194f5c0695a61d7d) ![](assets/new.png)  
@@ -780,7 +781,6 @@
 - [2020-08-05-解读HTTP/2与HTTP/3-的新特性](https://www.ershicimi.com/p/1c4945de34d494a06711fe4925025195) ![](assets/new.png)  
 - [2020-08-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/76189a0a1f3ba26bc46c4d82192e7253) ![](assets/new.png)  
 - [2020-08-04-如何学习React源码](https://www.ershicimi.com/p/e2c173d807de9fd12e90b51f269c7401) ![](assets/new.png)  
-- [2020-08-04-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4a3d870adc54773237476cc960c38bbe) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-15-房东直租-1-号线汶水路地铁房，静安大宁悦公馆豪装三室一厅整租，全明厨卫](https://www.v2ex.com/t/698534) ![](assets/new.png)  
 - [2020-08-15-请问大家在哪里可以买到质量靠谱的-surface-go-2？价格有优惠更好](https://www.v2ex.com/t/698533) ![](assets/new.png)  
 - [2020-08-15-AdGuard-广告拦截软件-官方正版永久授权-开车价-含-30-元优惠码](https://www.v2ex.com/t/698532) ![](assets/new.png)  
 - [2020-08-15-2-个-csv-文件内容是否相同有没有好的比较方法](https://www.v2ex.com/t/698531) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-15-alt-tab-的时候屏幕中间会出现-app-列表，在外接屏幕的情况下，有什么快捷键可以让这个列表出现在指定屏幕上](https://www.v2ex.com/t/698499) ![](assets/new.png)  
 - [2020-08-15-玩转-PhpStorm-系列教程](https://www.v2ex.com/t/698496) ![](assets/new.png)  
 - [2020-08-15-北京有不加班的游戏（或科技）公司么？](https://www.v2ex.com/t/698493) ![](assets/new.png)  
-- [2020-08-15-有多少人写过-今晚吃什么.exe-这样的东西](https://www.v2ex.com/t/698492) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,15 +1125,15 @@
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) ![](assets/new.png)  
 - [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
 - [2020-08-15-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-15-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-15-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
 - [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-15-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
 - [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-15-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
-- [2020-08-15-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
+- [2020-08-15-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-15-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-15-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-15-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-15-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-15-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
+- [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

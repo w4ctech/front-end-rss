@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-15 14:20:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 14:31:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-15-卧室照明的色温多少比较好？](https://www.v2ex.com/t/698570) 
+- [2020-08-15-北京美团-交易系统平台-会员中心-高级-Java-工程师/资深-Java-工程师/-Java-技术专家25K-50K](https://www.v2ex.com/t/698568) 
 - [2020-08-15-JavaEE-开发中通常都会有-@Controller-@Service-@Repository-三层，较真地说，-SpringMVC-中的-C-到底是其中的-@Controller-层还是三层合一？](https://www.v2ex.com/t/698564) 
 - [2020-08-15-求教-pandas-输出到-Excel，=号如何以正常字符串输出并正确显示](https://www.v2ex.com/t/698563) 
 - [2020-08-15-apple-watch-这样的运动手表记录泳池游泳，一趟没游完中途停下来休息也会自动算一趟（设置好的距离）么？](https://www.v2ex.com/t/698562) 
@@ -27,6 +29,3 @@
 - [2020-08-15-boss-直聘搞阴间招聘?](https://www.v2ex.com/t/698527) 
 - [2020-08-15-20-年了，研究生做计算机视觉方向还有出路吗](https://www.v2ex.com/t/698523) 
 - [2020-08-15-iPad-Air3-和-iPad-Pro-选哪个，略纠结](https://www.v2ex.com/t/698521) 
-- [2020-08-15-Facebook-对-Golang-依赖注入的实现](https://www.v2ex.com/t/698520) 
-- [2020-08-15-私企程序员到底算不算一份工作](https://www.v2ex.com/t/698518) 
-- [2020-08-15-分享一个可以通过台词找影片素材的在线工具](https://www.v2ex.com/t/698517) 

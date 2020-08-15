@@ -14792,7 +14792,23 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": []
+    "items": [
+      {
+        "title": "科技爱好者周刊（第 120 期）：只有开放才能打败封锁",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "勒索软件产业化的感想",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/ransomware.html",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "只要一行代码，实现五种 CSS 经典布局",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html",
+        "date": "2020-08-10"
+      }
+    ]
   },
   {
     "rss": "http://jdc.jd.com/feed",
@@ -15838,6 +15854,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "卧室照明的色温多少比较好？",
+        "link": "https://www.v2ex.com/t/698570",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[北京]美团-交易系统平台-会员中心-高级 Java 工程师/资深 Java 工程师/ Java 技术专家[25K-50K]",
+        "link": "https://www.v2ex.com/t/698568",
+        "date": "2020-08-15"
+      },
+      {
         "title": "JavaEE 开发中通常都会有 @Controller @Service @Repository 三层，较真地说， SpringMVC 中的 C 到底是其中的 @Controller 层还是三层合一？",
         "link": "https://www.v2ex.com/t/698564",
         "date": "2020-08-15"
@@ -15945,21 +15971,6 @@
       {
         "title": "iPad Air3 和 iPad Pro 选哪个，略纠结",
         "link": "https://www.v2ex.com/t/698521",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "Facebook 对 Golang 依赖注入的实现",
-        "link": "https://www.v2ex.com/t/698520",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "私企程序员到底算不算一份工作",
-        "link": "https://www.v2ex.com/t/698518",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "分享一个可以通过台词找影片素材的在线工具",
-        "link": "https://www.v2ex.com/t/698517",
         "date": "2020-08-15"
       }
     ]
@@ -16127,48 +16138,18 @@
         "date": "2020-08-15"
       },
       {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-15"
+      },
+      {
         "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
         "link": "https://toutiao.io/k/gfbzndp",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
         "date": "2020-08-15"
       },
       {
@@ -16182,23 +16163,53 @@
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
         "date": "2020-08-15"
       },
       {
         "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
         "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-15"
       }
     ]

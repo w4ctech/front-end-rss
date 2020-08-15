@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 15:48:09，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-15 16:02:32，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-15-比利时一养老院38人新冠病毒检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI4zBIfV7MwSLrAopohi5200815&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-感染人数增多-奥地利总理库尔茨呼吁加强边境管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizypy2Ys5e5BxPEmb3GmZ200815&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-国际移民组织：今年至少1200名移民丧生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivrebO4oqBS8NDY2EqvJf200815&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-8月17日起-香港始发至北京旅客需出示核酸检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4eQYumSkiXaNa059JsQC200815&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-北京新发地主市场南区今天复市，只批发不零售](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRpeCwxOkd1DiWft535h200815&isfromapp=1) ![](assets/new.png)  
-- [2020-08-15-乌鲁木齐-14-日新增确诊病例和无症状感染者总数首次回到个位数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiINMeiUmcKb1gKavp4oaU200815&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-15-Docker-禁止被列入美国“实体名单”的国家、企业、个人使用](https://www.v2ex.com/t/698581) ![](assets/new.png)  
+- [2020-08-15-iPad-扩容有什么需要注意的地方吗？](https://www.v2ex.com/t/698580) ![](assets/new.png)  
 - [2020-08-15-应届生这样水平的简历能进大厂吗](https://www.v2ex.com/t/698576) ![](assets/new.png)  
 - [2020-08-15-手上-100-多条上海-cn2-发现是真不行了](https://www.v2ex.com/t/698573) ![](assets/new.png)  
 - [2020-08-15-魔都-7-月，-8-月展子上拍的小姐姐](https://www.v2ex.com/t/698572) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-15-V-站有用-anki-的朋友吗-请教一下能否做到在正面给一个输入框我可以输入内容-翻面过来后输入的内容可以保留并展现？谢谢](https://www.v2ex.com/t/698546) ![](assets/new.png)  
 - [2020-08-15-华为杭研所消费者-bg-业务](https://www.v2ex.com/t/698545) ![](assets/new.png)  
 - [2020-08-15-给父母主卧装电视-or-投影，求推荐。](https://www.v2ex.com/t/698541) ![](assets/new.png)  
-- [2020-08-15-求能看龙珠系列网站](https://www.v2ex.com/t/698540) ![](assets/new.png)  
-- [2020-08-15-房东直租-1-号线汶水路地铁房，静安大宁悦公馆豪装三室一厅整租，全明厨卫](https://www.v2ex.com/t/698534) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1124,16 @@
 - [2020-08-15-Webkit-内核初探](https://toutiao.io/k/hpyl1d5) ![](assets/new.png)  
 - [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) ![](assets/new.png)  
-- [2020-08-15-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-15-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
-- [2020-08-15-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-15-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-15-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-15-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-15-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-15-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
 - [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-15-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-15-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
 - [2020-08-15-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-15-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-15-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-15-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

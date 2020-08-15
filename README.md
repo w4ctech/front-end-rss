@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 16:48:07，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-15 17:02:39，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-15-V2EX-是不是曾经对邮件验证有-bug-或者是曾经没有验证？](https://www.v2ex.com/t/698592) ![](assets/new.png)  
+- [2020-08-15-遇到一个关于视频业务很蛋疼的反向代理问题](https://www.v2ex.com/t/698591) ![](assets/new.png)  
 - [2020-08-15-Goland：在新建的项目里面导入已经安装好的第三方包时，会出现没有智能提示的情况。使用该包下的方法还会爆红，但运行代码后，代码不爆红，且智能提示正常（只针...](https://www.v2ex.com/t/698589) ![](assets/new.png)  
 - [2020-08-15-滴滴出行-北京、杭州内推-Android/iOS/-Java-/前端/Go/-PHP-/C++/算法等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/698588) ![](assets/new.png)  
 - [2020-08-15-25-生日快乐🎈](https://www.v2ex.com/t/698587) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-15-JavaEE-开发中通常都会有-@Controller-@Service-@Repository-三层，较真地说，-SpringMVC-中的-C-到底是其中的-@Controller-层还是三层合一？](https://www.v2ex.com/t/698564) ![](assets/new.png)  
 - [2020-08-15-求教-pandas-输出到-Excel，=号如何以正常字符串输出并正确显示](https://www.v2ex.com/t/698563) ![](assets/new.png)  
 - [2020-08-15-apple-watch-这样的运动手表记录泳池游泳，一趟没游完中途停下来休息也会自动算一趟（设置好的距离）么？](https://www.v2ex.com/t/698562) ![](assets/new.png)  
-- [2020-08-15-求解答，职业困惑](https://www.v2ex.com/t/698558) ![](assets/new.png)  
-- [2020-08-15-迫于贫穷买了个二手-macbook-pro-16-inch-2015-mid](https://www.v2ex.com/t/698557) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1124,16 @@
 - [2020-08-15-Webkit-内核初探](https://toutiao.io/k/hpyl1d5) ![](assets/new.png)  
 - [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) ![](assets/new.png)  
+- [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
 - [2020-08-15-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
 - [2020-08-15-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-15-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-15-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-15-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
 - [2020-08-15-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-15-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-15-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
+- [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-15-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-15-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-15-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

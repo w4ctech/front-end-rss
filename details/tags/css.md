@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 12:31:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 12:33:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -20,7 +20,6 @@
 - [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/) 
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) 
-- [2020-08-10-只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html) 
 - [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) 
 - [2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/) 
 - [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/) 

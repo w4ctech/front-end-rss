@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 12:31:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 12:33:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2323,8 +2323,6 @@
 - [2020-07-23-微前端从实战到源码-可能是最完整的版本！](https://www.ershicimi.com/p/8f129ecc57ce670a54e08c76ac3f51f1) 
 - [2020-07-22-如何用函数框架快速开发大型-Web-应用-|-实战](https://www.ershicimi.com/p/e16ae7ca242b28c21744fe8477891858) 
 - [2020-07-19-想来交流群吗？我派直升机来接你呀～](https://www.ershicimi.com/p/912a38c3de7559460ab2155ecf2cc407) 
-- [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html) 
-- [2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html) 
 - [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
 - [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 

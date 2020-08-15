@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 12:31:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-15 12:33:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -397,9 +397,6 @@
 - [【Nodejs技术栈】2020-08-01-赠书第-2-期｜Node.js-企业级应用开发实践](https://www.ershicimi.com/p/e15e541682fadd6c6f283df641910553) 
 - [【张鑫旭-鑫空间-鑫生活】2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) 
-- [【阮一峰的网络日志】2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html) 
-- [【阮一峰的网络日志】2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html) 
-- [【阮一峰的网络日志】2020-08-10-只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html) 
 - [【奇舞周刊】2020-08-14-奇舞周刊第-360-期：-API-设计的几条原则](https://www.ershicimi.com/p/81d264b9b908a30db0537fd22c56ae8f) 
 - [【奇舞周刊】2020-08-13-React17新特性：启发式更新算法](https://www.ershicimi.com/p/e8426b680d9e54dd7b0e8e2bf99ed27a) 
 - [【奇舞周刊】2020-08-13-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/202b21f9d90c1818d553dab44f4fb92e) 

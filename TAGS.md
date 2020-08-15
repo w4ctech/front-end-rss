@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-15 12:31:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 12:33:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -342,13 +342,13 @@
 - [【张鑫旭-鑫空间-鑫生活】巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/)
 - [【张鑫旭-鑫空间-鑫生活】使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)
-- [【阮一峰的网络日志】只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html)
 - [【凹凸实验室】几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/)
 - [【凹凸实验室】2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)
 - [【凹凸实验室】serverless](https://aotu.io/notes/2019/08/05/serverless/)
 - [【凹凸实验室】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
 - [【凹凸实验室】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
 - [【凹凸实验室】一个例子上手SVG动画](https://aotu.io/notes/2017/05/04/example-for-svg-animation/)
+- [【凹凸实验室】使用-Snap.svg-制作动画](https://aotu.io/notes/2017/01/22/snapsvg/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -14792,23 +14792,7 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": [
-      {
-        "title": "科技爱好者周刊（第 120 期）：只有开放才能打败封锁",
-        "link": "http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "勒索软件产业化的感想",
-        "link": "http://www.ruanyifeng.com/blog/2020/08/ransomware.html",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "只要一行代码，实现五种 CSS 经典布局",
-        "link": "http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html",
-        "date": "2020-08-10"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "http://jdc.jd.com/feed",

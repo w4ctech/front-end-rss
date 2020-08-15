@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-15 21:02:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 21:09:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Nodejs技术栈
 
 
 
 
+- [2020-08-14-13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0) 
 - [2020-08-13-推荐一位优秀的阿里前端小姐姐](https://www.ershicimi.com/p/0848864d299a95f9317ae4f6cf7ca211) 
 - [2020-08-13-一杯茶的时间，上手-Koa2-+-MySQL-开发](https://www.ershicimi.com/p/c7db98ad78904e16b74e417ea79c2233) 
 - [2020-08-12-语雀的技术架构演进之路](https://www.ershicimi.com/p/e1b307d08b39421d4a384d316bff5979) 
@@ -24,4 +25,3 @@
 - [2020-07-22-如何用函数框架快速开发大型-Web-应用-|-实战](https://www.ershicimi.com/p/e16ae7ca242b28c21744fe8477891858) 
 - [2020-07-20-Node.js-+-Socket.io-实现一对一即时聊天](https://www.ershicimi.com/p/746bef7a3728af1b081cca4b03f3270d) 
 - [2020-07-19-GitHub-真把代码冰封北极-1000-年！](https://www.ershicimi.com/p/38187e751101fa633b95b5998c0ed0bd) 
-- [2020-07-19-想来交流群吗？我派直升机来接你呀～](https://www.ershicimi.com/p/912a38c3de7559460ab2155ecf2cc407) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 07:48:09，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-15 08:02:58，:rocket: 更新条数: +3515， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-15-广东陆丰-1-名确诊病例活动轨迹公布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU1sB9CWVBuNjM7IsPRLe200815&isfromapp=1) ![](assets/new.png)  
+- [2020-08-15-北京今起各学段分批开学，幼儿园将实行全封闭式管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimFEWniipKQE46MVqBzSQ200815&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-大连连续9天无新增本土确诊病例-累计出院80名患者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiex7Wtykpndktqs2slH7V200815&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-深圳罗湖对阳性病例所在单元楼住户实施隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7V3cfABQnTF653u9ce5b200815&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-大连市金普新区站前街道盛滨社区等三个社区（村）疫情风险等级调整为低风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib9AUXbyFip7MGnbusVJQ200815&isfromapp=1) ![](assets/new.png)  
-- [2020-08-15-西班牙疫情反弹-全国夜生活场所暂时关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUqm5B6itOz0TSU8soeX3200815&isfromapp=1) ![](assets/new.png)  
-- [2020-08-15-沪加强重点场所检测，47911件样品新冠病毒核酸检测均为阴性](http://wsjkw.sh.gov.cn/xwfb/20200815/341deb2ec52747d699c9a16c2a9f25f0.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-15-十万火急，“转载”英文怎么说](https://www.v2ex.com/t/698463) ![](assets/new.png)  
 - [2020-08-15-两年产品经验最近求职之路艰难,-望大家看看这简历有什么问题](https://www.v2ex.com/t/698462) ![](assets/new.png)  
 - [2020-08-15-我这个批量替换某表字段内容的-SQL-语句有错吗...一直报错-1064](https://www.v2ex.com/t/698460) ![](assets/new.png)  
 - [2020-08-15-Win10-的软-Raid1-重新同步有没有捷径可走？](https://www.v2ex.com/t/698457) ![](assets/new.png)  
@@ -1071,7 +1092,6 @@
 - [2020-08-15-求推荐一款带-usb-支持-typec-协议且能-USB-网络共享的-wifi6-路由器](https://www.v2ex.com/t/698433) ![](assets/new.png)  
 - [2020-08-15-5G-LCD-屏手机哪家强？](https://www.v2ex.com/t/698432) ![](assets/new.png)  
 - [2020-08-15-辣鸡-offer-比较](https://www.v2ex.com/t/698431) ![](assets/new.png)  
-- [2020-08-15-妈妈已半年头疼，失眠，每天睡眠很少，但怎么劝都不去医院看怎么办？](https://www.v2ex.com/t/698429) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1144,16 @@
 - [2020-08-15-你不知道的-TypeScript-泛型](https://toutiao.io/k/mm7o2pb) ![](assets/new.png)  
 - [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) ![](assets/new.png)  
-- [2020-08-15-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-15-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-15-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
+- [2020-08-15-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-15-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
 - [2020-08-15-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-15-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
 - [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-15-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-15-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
-- [2020-08-15-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-15-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-15-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-15-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-15-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-15-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

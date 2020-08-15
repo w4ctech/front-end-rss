@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 03:48:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 04:02:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2020-08-14-8月14日全国新增新冠22例-本土新疆7例广东1例](https://m.caixin.com/m/2020-08-15/101593073.html) 
+- [2020-08-14-深圳21家盒马门店停业-部分市民免费检测核酸](https://m.caixin.com/m/2020-08-15/101593109.html) 
 - [2020-08-14-大流行手记|8月14日：英国再购近1亿剂疫苗-俄疫苗寻求世卫资格预审](https://m.caixin.com/m/2020-08-15/101593099.html) 
 - [2020-08-13-反思新冠疫情，中疾控原副主任撰文详解传染病预警机制怎么改](https://m.caixin.com/m/2020-08-14/101592909.html) 
 - [2020-08-13-香港新增病例连续12日保持双位数-疫情蔓延至外佣群体](https://m.caixin.com/m/2020-08-14/101593005.html) 
@@ -2489,20 +2490,20 @@
 - [2020-08-15-Android-MVP-&&-MVVM深度解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13660&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGj8fxXwQVAy7J9sOIp10xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-15-Android-技术总监应该干的那些事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13659&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuqZYvyImfsQdQwuI6i6cbg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-15-数据源管理：分布式-NoSQL-系统，Cassandra-集群管理](https://toutiao.io/k/ct1wjj2) 
-- [2020-08-15-Puppeteer-入门与实战](https://toutiao.io/k/i4tupr5) 
 - [2020-08-15-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) 
+- [2020-08-15-Puppeteer-入门与实战](https://toutiao.io/k/i4tupr5) 
 - [2020-08-15-Volcano-1.0：分布式调度系统漫谈](https://toutiao.io/k/o1gs8d4) 
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) 
 - [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) 
-- [2020-08-15-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) 
-- [2020-08-15-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) 
 - [2020-08-15-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
-- [2020-08-15-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
-- [2020-08-15-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
-- [2020-08-15-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
 - [2020-08-15-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
 - [2020-08-15-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
 - [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
+- [2020-08-15-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) 
+- [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
+- [2020-08-15-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) 
+- [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) 
+- [2020-08-15-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) 
 - [2020-08-13-红队渗透手册之免杀篇](https://sec.thief.one/article_content?a_id=d228e82dbf1bf060bcfd097026dd9efe) 
 - [2020-08-13-ISC-2020技术日:数字时代加剧网络攻击态势,热议防御新技术锤炼之...](https://sec.thief.one/article_content?a_id=892baf7b4aedc8fd4a6de660165c8fe6) 
 - [2020-08-13-XXE的一些利用方式](https://sec.thief.one/article_content?a_id=9a9d151ad65b9685b3acc99ddd0b9449) 

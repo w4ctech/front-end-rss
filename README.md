@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 07:33:35，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-15 07:46:41，:rocket: 更新条数: +3264， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1052,26 +1052,6 @@
 </summary>
 
 
-- [2020-08-15-Win10-的软-Raid1-重新同步有没有捷径可走？](https://www.v2ex.com/t/698457) ![](assets/new.png)  
-- [2020-08-15-大佬们帮忙提提意见，目前毕业一年在南京工作-加上读书-4-年了-，虽然是同一家公司，但是部门人员都在深圳，我相当于本地协助，去年出差几次深圳，感觉深圳更...](https://www.v2ex.com/t/698454) ![](assets/new.png)  
-- [2020-08-15-从去年到现在,骚操作真的频频](https://www.v2ex.com/t/698452) ![](assets/new.png)  
-- [2020-08-15-戴了隐形眼镜之后，感觉世界都变大了](https://www.v2ex.com/t/698451) ![](assets/new.png)  
-- [2020-08-15-想蹭一个信号比较弱-wifi，仅仅换天线更多的接收设备有效果吗？](https://www.v2ex.com/t/698450) ![](assets/new.png)  
-- [2020-08-15-红包有偿，帮忙看一下小程序的问题](https://www.v2ex.com/t/698446) ![](assets/new.png)  
-- [2020-08-15-求助，-MacBook-Pro-16-补充更新后多次死机重启](https://www.v2ex.com/t/698445) ![](assets/new.png)  
-- [2020-08-15-求-KOOLSS-替代品](https://www.v2ex.com/t/698444) ![](assets/new.png)  
-- [2020-08-15-开源一个-Typecho-怀旧电脑主题-Win95-的修改版](https://www.v2ex.com/t/698443) ![](assets/new.png)  
-- [2020-08-15-宽带日常使用低延迟>高带宽](https://www.v2ex.com/t/698442) ![](assets/new.png)  
-- [2020-08-15-求一个有偿前端面试辅导](https://www.v2ex.com/t/698440) ![](assets/new.png)  
-- [2020-08-15-求助大佬，-有没有基于-webrtc-实现的-p2p-屏幕分享的源码或者教程案例](https://www.v2ex.com/t/698439) ![](assets/new.png)  
-- [2020-08-15-在线教育招聘各类技术人才](https://www.v2ex.com/t/698438) ![](assets/new.png)  
-- [2020-08-15-求职远程/长沙-PHP-后端-Laravel-Swoole-Nodejs](https://www.v2ex.com/t/698434) ![](assets/new.png)  
-- [2020-08-15-求推荐一款带-usb-支持-typec-协议且能-USB-网络共享的-wifi6-路由器](https://www.v2ex.com/t/698433) ![](assets/new.png)  
-- [2020-08-15-5G-LCD-屏手机哪家强？](https://www.v2ex.com/t/698432) ![](assets/new.png)  
-- [2020-08-15-辣鸡-offer-比较](https://www.v2ex.com/t/698431) ![](assets/new.png)  
-- [2020-08-15-妈妈已半年头疼，失眠，每天睡眠很少，但怎么劝都不去医院看怎么办？](https://www.v2ex.com/t/698429) ![](assets/new.png)  
-- [2020-08-15-用-clash-可以上谷歌和-fb，但下载-URL-以-https://github-production-release-**-开头的东西总是失败，该如何设置我的代理软件以好好下载这些东西？](https://www.v2ex.com/t/698428) ![](assets/new.png)  
-- [2020-08-15-Java-开发人员想入手个满足开发的中度价格的轻薄本，求打醒....](https://www.v2ex.com/t/698427) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,19 +1101,19 @@
 - [2020-08-15-译-优化-Golang-服务来减少-40%-以上的-CPU](https://toutiao.io/k/o3a92oq) ![](assets/new.png)  
 - [2020-08-15-Volcano-1.0：分布式调度系统漫谈](https://toutiao.io/k/o1gs8d4) ![](assets/new.png)  
 - [2020-08-15-Webkit-内核初探](https://toutiao.io/k/hpyl1d5) ![](assets/new.png)  
-- [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
 - [2020-08-15-你不知道的-TypeScript-泛型](https://toutiao.io/k/mm7o2pb) ![](assets/new.png)  
+- [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) ![](assets/new.png)  
-- [2020-08-15-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-15-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-15-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-15-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-15-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [2020-08-15-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
 - [2020-08-15-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
-- [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-15-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-15-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
+- [2020-08-15-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-15-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-15-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-15-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

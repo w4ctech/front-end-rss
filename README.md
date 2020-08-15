@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 10:48:20，:rocket: 更新条数: +3286， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-15 11:02:26，:rocket: 更新条数: +3288， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-15-20-年了，研究生做计算机视觉方向还有出路吗](https://www.v2ex.com/t/698523) ![](assets/new.png)  
+- [2020-08-15-iPad-Air3-和-iPad-Pro-选哪个，略纠结](https://www.v2ex.com/t/698521) ![](assets/new.png)  
+- [2020-08-15-Facebook-对-Golang-依赖注入的实现](https://www.v2ex.com/t/698520) ![](assets/new.png)  
+- [2020-08-15-私企程序员到底算不算一份工作](https://www.v2ex.com/t/698518) ![](assets/new.png)  
+- [2020-08-15-分享一个可以通过台词找影片素材的在线工具](https://www.v2ex.com/t/698517) ![](assets/new.png)  
 - [2020-08-15-有好用的人脸识别库没啊??](https://www.v2ex.com/t/698515) ![](assets/new.png)  
 - [2020-08-15-21-届应届生校招-|-求简历优化、投递岗位建议](https://www.v2ex.com/t/698514) ![](assets/new.png)  
 - [2020-08-15-Docmate---一个可以自由部署的文档平台](https://www.v2ex.com/t/698511) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-15-电报群怎么下载-animated-emoji-这样的-动画表情?](https://www.v2ex.com/t/698489) ![](assets/new.png)  
 - [2020-08-15-是我看走眼了吗？最新-Android-11-依然不会强制-Scoped-Storage](https://www.v2ex.com/t/698484) ![](assets/new.png)  
 - [2020-08-15-wordpress-多用户，怎样加密/或屏蔽/或-404-某个“作者”的所有文章，且后期可恢复](https://www.v2ex.com/t/698483) ![](assets/new.png)  
-- [2020-08-15-###-南山西丽宝珠花园单间次卧个人转租，月租-2000-元，条件舒适性价比极高，近期可入住-###](https://www.v2ex.com/t/698480) ![](assets/new.png)  
-- [2020-08-15-为什么其他汽车厂商卖车不能像特斯拉一样互联网销售，价格公开透明？](https://www.v2ex.com/t/698479) ![](assets/new.png)  
-- [2020-08-15-Android-Studio-需要更新，但是更新包太大，总是下载到一半出现-ssl-peer-shutdown-incorectly.](https://www.v2ex.com/t/698476) ![](assets/new.png)  
-- [2020-08-15-求助-求质数的-nodejs-程序内存溢出，能帮忙分析是哪儿溢出了吗？](https://www.v2ex.com/t/698472) ![](assets/new.png)  
-- [2020-08-15-github-文件-raw-地址在-chrome-打不开，-Safari-可以](https://www.v2ex.com/t/698468) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1124,16 @@
 - [2020-08-15-Webkit-内核初探](https://toutiao.io/k/hpyl1d5) ![](assets/new.png)  
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) ![](assets/new.png)  
 - [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
-- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-15-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-15-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
 - [2020-08-15-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-15-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-15-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-15-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-15-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [2020-08-15-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-15-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
-- [2020-08-15-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
-- [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-15-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-15-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

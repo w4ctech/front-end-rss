@@ -13127,16 +13127,218 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/5760",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
-    "items": []
+    "items": [
+      {
+        "title": "【第2034期】全民K歌推流直播Web实践",
+        "link": "https://www.ershicimi.com/p/418fa8175221ad03a3dc474f0ba433a3",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "【第2033期】核心稳定、易扩展——开放关闭原则（The Open-Closed Principle",
+        "link": "https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "【第2032期】基于react的组件库主题设计方案",
+        "link": "https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "【招聘】深圳富途招聘web前后端工程师",
+        "link": "https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "前端圈的贫富差距正在拉大？",
+        "link": "https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "【第2031期】APNG 那些事",
+        "link": "https://www.ershicimi.com/p/0b91f049f1eac1c08cfd70c761b36127",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "【第2030期】JavaScript 启动性能瓶颈分析与解决方案",
+        "link": "https://www.ershicimi.com/p/b5d928c5a5bb527a841b3c254803bc72",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "【招聘】微医集团前端技术部招高级前端开发工程师及前端技术专家",
+        "link": "https://www.ershicimi.com/p/01b1405da53014f424c46c2d7e799c19",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "【第2029期】Plugin Anything：插件化改造工具",
+        "link": "https://www.ershicimi.com/p/7c9d9ac311c34240231a88a3b847fe80",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "【招聘】北京猎聘多面中心招高级前端开发工程师",
+        "link": "https://www.ershicimi.com/p/8051d6fde1f84fe20c31249ee0701e70",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "【第2028期】What I'm thinking about: JS疲劳、招聘",
+        "link": "https://www.ershicimi.com/p/65b985e1834e3b5cfd21fd74691a5317",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "【第2027期】图解CORS",
+        "link": "https://www.ershicimi.com/p/2f680c25c9986033bf75373aaf0ed968",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "【招聘】字节跳动广州EI团队招前端开发Leader以及高级前端工程师",
+        "link": "https://www.ershicimi.com/p/01b3208db8c27d26d1fe73f2f499dd88",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "【第2026期】「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值",
+        "link": "https://www.ershicimi.com/p/6b62edaefd5ec41b54e722ff322340e1",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "【招聘】北京新浪微博招高级前端开发工程师（社招）",
+        "link": "https://www.ershicimi.com/p/e84d592a3e7a2ac0ec8ce7cd5d5fa584",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "当HR跟你谈薪水时，如何回答能使收入最大化？",
+        "link": "https://www.ershicimi.com/p/c0f85e55a86d6ef9d7713fb5fcf22bcb",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "【第2025期】解读 Chrome 84 新特性，支持私有方法、用户空闲检测！",
+        "link": "https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "京东物流风格 NutUI 发布了",
+        "link": "https://www.ershicimi.com/p/f1e87e476eaba57e88be1c6870182673",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "【第2024期】微保Serverless实践之架构演进",
+        "link": "https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "【招聘】北京洋葱学院招聘前端工程师(社招)",
+        "link": "https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c",
+        "date": "2020-08-04"
+      }
+    ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/65",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/65",
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
-    "items": []
+    "items": [
+      {
+        "title": "资深前端，到底解决了普通前端做不到的哪些问题？",
+        "link": "https://www.ershicimi.com/p/068d5f314f954f71356c45b22860f3f5",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "React v17.0 RC 释出，官方称“没啥新特色”",
+        "link": "https://www.ershicimi.com/p/f4d29b0e5b99c349f1a1a5c7be32b8d2",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "内存怪兽 Chrome 被黑的最惨一次",
+        "link": "https://www.ershicimi.com/p/dbe05e010ee40c3db60919a7ef934cbb",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "完美代码，一次通过",
+        "link": "https://www.ershicimi.com/p/bd0f707aee32f3adbb49a88f4ccd42c4",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "浅谈 Web 前端工程化",
+        "link": "https://www.ershicimi.com/p/2d535a20dccc98f8042a01d0d6ceef44",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Angular 发布首个正式的路线图",
+        "link": "https://www.ershicimi.com/p/b57cfcf13ef689d73b78049acee6d425",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "嗯，手搓一个 TinyPng 压缩图片的 WebpackPlugin 也 SoEasy 啦",
+        "link": "https://www.ershicimi.com/p/471baea15c3058f1c30b71ebbadb1748",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "1 小时带走前端大牛的求职攻略",
+        "link": "https://www.ershicimi.com/p/7d03e34a92219ca4f7c8e139f45e0bca",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "H5 秒开方案大全",
+        "link": "https://www.ershicimi.com/p/06ee25f076d1d8681c0699495fb505d7",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "sync_hooks、CLS 与 Node 中异步资源生命周期监听",
+        "link": "https://www.ershicimi.com/p/be586e92c385df9fe0ce0da145608cb3",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "大厂面试过程复盘(微信/阿里/头条,附答案篇)",
+        "link": "https://www.ershicimi.com/p/1c0ecd331da7dc8d59eb557b0732590f",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "面了个 4 年的前端，简历看着像实战派，实际上…",
+        "link": "https://www.ershicimi.com/p/89fd647d64bebc7f492c9dd42e490d9c",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "分享 9 条 Webpack 优化策略",
+        "link": "https://www.ershicimi.com/p/8b2d1e104d1102bfbf711a9c0b969bbd",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "初中级前端 JavaScript 自测清单（2）",
+        "link": "https://www.ershicimi.com/p/569048fe3be75fa334dac7b308a7477b",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "今年面试，薪资该往高了要吗？",
+        "link": "https://www.ershicimi.com/p/45db14c43fd467f0a74e479c1e9e62cf",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "了解 JS 压缩图片，这一篇就够了",
+        "link": "https://www.ershicimi.com/p/73c7dd0baa62af2e57b693a889d2d5d1",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "轻松搞定移动端适配",
+        "link": "https://www.ershicimi.com/p/cda76956f8bedf88951f53d5bc5059aa",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "6 万奖金等你赢！RTE 编程挑战赛已启动",
+        "link": "https://www.ershicimi.com/p/0de7017a53990467bc2d706172c6f5e1",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "响应式布局新方案",
+        "link": "https://www.ershicimi.com/p/9ece9349ffc7fcb3d012b8e50170fc57",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "你不知道的 WebSocket",
+        "link": "https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9",
+        "date": "2020-08-02"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/29",
@@ -14102,10 +14304,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/8801",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/8801",
     "title": "前端宇宙",
     "link": "https://www.ershicimi.com/a/8801",
-    "items": []
+    "items": [
+      {
+        "title": "花十分钟的时间武装你的代码库",
+        "link": "https://www.ershicimi.com/p/956285b0f1e2bd92a535f6c7be7c58f8",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "哥们别闹，你离资深前端还远着呢",
+        "link": "https://www.ershicimi.com/p/a6834f2a206b14d240e5e5a5d53711ce",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "手写webpack核心原理，再也不怕面试官问我webpack原理",
+        "link": "https://www.ershicimi.com/p/1a4c44d4b827f462f108b0d0624a29d6",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "有了这个工具，小白也能快速写出复杂正则了",
+        "link": "https://www.ershicimi.com/p/9086635077ee5bab869955e8a13cdb44",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "太可惜了，90%的前端是被一面刷掉",
+        "link": "https://www.ershicimi.com/p/b74a3f09fc6c344a935f9ebb6956bfda",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "58道Vue常见面试题集锦，涵盖入门到精通，自测 Vue 掌握程度",
+        "link": "https://www.ershicimi.com/p/1cf49709f7c37e2028ba1bceedcf27c4",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "中国程序员VS美国程序员，太形象了...",
+        "link": "https://www.ershicimi.com/p/7cfa34f4a99062a141a2c1c09f9cf3b8",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "推荐一位实力超强的平安前端算法大佬：瓶子君",
+        "link": "https://www.ershicimi.com/p/b9f4238d2dd4c83ebbbc2c99be4b821c",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "1000+ 个项目的10大JavaScript错误",
+        "link": "https://www.ershicimi.com/p/4d35e3f93cf5f956c52e6840fead0b60",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "为什么我不再用Vue，改用React？",
+        "link": "https://www.ershicimi.com/p/41df4d9cbc8e82472ed966915bc2ee9d",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "12 个实用的前端开发技巧总结",
+        "link": "https://www.ershicimi.com/p/aeffc4856f00d9e9337a6dd3ec98cac0",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境",
+        "link": "https://www.ershicimi.com/p/871f09b3bcea8e9a831bcf53f804ee83",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "三百年前的你，依然不想上班",
+        "link": "https://www.ershicimi.com/p/2009c36e3b91d054672d24b2ea904461",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "一个有趣的例子带你入门canvas",
+        "link": "https://www.ershicimi.com/p/4f9305adc2196470487ee0d4fbb50840",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "使用 Vue 3.0，你可能不再需要Vuex了",
+        "link": "https://www.ershicimi.com/p/68fe92e6e732623ea18dfde151124ad4",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "2020Web前端高薪攻略.pdf",
+        "link": "https://www.ershicimi.com/p/3ec145e065b39a7e96183e085f6d80ad",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "13 个 你应该知道的 npm 快速开发技巧",
+        "link": "https://www.ershicimi.com/p/f3ffb0316cd205ad9ebb79b6f85c5328",
+        "date": "2020-07-30"
+      },
+      {
+        "title": "三年，我从语文老师到支付宝技术前端的蜕变",
+        "link": "https://www.ershicimi.com/p/0cd696d9ddd5c9ce61f916b1d5b5e4a6",
+        "date": "2020-07-28"
+      },
+      {
+        "title": "一行 CSS 代码搞定响应式布局",
+        "link": "https://www.ershicimi.com/p/d8d864aa387c420fa7d7726177163b0b",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "4 个技能，帮你提升跳槽信心",
+        "link": "https://www.ershicimi.com/p/1fd2900872b0b5f7614afe72ab900d8c",
+        "date": "2020-07-27"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10641",
@@ -15764,10 +16067,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/5762",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/5762",
     "title": "前端日刊",
     "link": "https://www.ershicimi.com/a/5762",
-    "items": []
+    "items": [
+      {
+        "title": "node_modules 困境",
+        "link": "https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "嘿，不要给 async 函数写那么多 try/catch 了",
+        "link": "https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "哥们别闹，你离资深前端还远着呢",
+        "link": "https://www.ershicimi.com/p/8622926e340dfe4280f19700b1ee842d",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "20个 CSS 快速提升技巧",
+        "link": "https://www.ershicimi.com/p/e8e5a804eb3e23cdd6b164c00b42a79b",
+        "date": "2020-07-28"
+      },
+      {
+        "title": "很好奇，做前端的你是不是也这样……",
+        "link": "https://www.ershicimi.com/p/048e1304836c9fbd4f15a6d64473f0c9",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "最硬核的前端面试题直播解析，来了！",
+        "link": "https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "大厂面试官最爱追问的几道题，这回有答案了",
+        "link": "https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3",
+        "date": "2020-07-20"
+      },
+      {
+        "title": "程序员给自己简历中埋的5个雷点",
+        "link": "https://www.ershicimi.com/p/f94c5e36a24615de1cc7f5ad37edac05",
+        "date": "2020-07-16"
+      },
+      {
+        "title": "这 2 个坏习惯，让你离大厂越来越远",
+        "link": "https://www.ershicimi.com/p/d4461ae1d17f7dc46e2028920b7b2b6f",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "写这么骚的 JS 代码，不怕被揍么？",
+        "link": "https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c",
+        "date": "2020-07-11"
+      },
+      {
+        "title": "【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测 Vue 掌握程度",
+        "link": "https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6",
+        "date": "2020-07-07"
+      },
+      {
+        "title": "今年薪资普涨还有可能吗？说说我的看法",
+        "link": "https://www.ershicimi.com/p/bdcb031876cb4a1ccf3e34e88ceb7dec",
+        "date": "2020-07-06"
+      },
+      {
+        "title": "真的！！！两行css代码实现瀑布流，html,css最简单的瀑布流实现方式且没有缺点！",
+        "link": "https://www.ershicimi.com/p/cd371b537f54318e95d7b5842c195697",
+        "date": "2020-07-03"
+      },
+      {
+        "title": "React开发必须知道的34个技巧",
+        "link": "https://www.ershicimi.com/p/5fd3fea3e708fdde0f7d0f1425fd0aea",
+        "date": "2020-07-01"
+      },
+      {
+        "title": "很好奇，做前端的你是不是也这样……",
+        "link": "https://www.ershicimi.com/p/d43337bede38d0646400dc74efdb4162",
+        "date": "2020-06-29"
+      },
+      {
+        "title": "JavaScript常用API合集汇总",
+        "link": "https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "理解 WebView",
+        "link": "https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "前端真的有资深工程师吗？",
+        "link": "https://www.ershicimi.com/p/f4af0fa1f56cc187e12aefbbafa1a985",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "这么骚的 js 代码，不怕被揍么",
+        "link": "https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3",
+        "date": "2020-06-20"
+      },
+      {
+        "title": "2020 年 6 月编程语言排行榜",
+        "link": "https://www.ershicimi.com/p/42775fc7b1c5439867bc85a64f9adc64",
+        "date": "2020-06-17"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10548",

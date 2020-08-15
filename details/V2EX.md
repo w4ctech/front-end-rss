@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-15 10:09:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 10:19:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-15-播放-Dolby-Vision-电影会偏色，怎么破。](https://www.v2ex.com/t/698508) 
 - [2020-08-15-微服务杂念---最近的一些思绪整理](https://www.v2ex.com/t/698500) 
 - [2020-08-15-alt-tab-的时候屏幕中间会出现-app-列表，在外接屏幕的情况下，有什么快捷键可以让这个列表出现在指定屏幕上](https://www.v2ex.com/t/698499) 
 - [2020-08-15-玩转-PhpStorm-系列教程](https://www.v2ex.com/t/698496) 

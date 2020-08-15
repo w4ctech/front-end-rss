@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 02:33:42，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-15 02:46:15，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -854,6 +854,12 @@
 </summary>
 
 
+- [2020-08-15-40+-张最全-Linux-/-C-/-C++-思维导图，收藏！](https://www.ershicimi.com/p/6ef3b2261d4173f8a0f692d0471b9fa9) ![](assets/new.png)  
+- [2020-08-15-为什么我劝你放弃了Restful-API？](https://www.ershicimi.com/p/58bba24f4392498624309ef5dc8a6fd8) ![](assets/new.png)  
+- [2020-08-15-因为一条SQL，我差点被祭天......](https://www.ershicimi.com/p/b0a596f549fc3b57aec904971bcc2909) ![](assets/new.png)  
+- [2020-08-14-年薪68万,人才缺口30万,这个神仙技能今年火遍整个职业圈!](https://www.ershicimi.com/p/875c6aa5d168ea51712be597aa865180) ![](assets/new.png)  
+- [2020-08-14-又整理了一批可以拿去做副业的开源项目...](https://www.ershicimi.com/p/bfc04a46f8f99a1a8db435e031872cb1) ![](assets/new.png)  
+- [2020-08-14-好用到爆的-Java-小技巧](https://www.ershicimi.com/p/4ac35869265d57b29e3f6c14f6372d6b) ![](assets/new.png)  
 - [2020-08-13-32岁程序员被辞退欲跳楼！为什么我不建议你轻易买保险？](https://www.ershicimi.com/p/d5b32ff82843b4c3e665741eb84f143f) ![](assets/new.png)  
 - [2020-08-13-DataGrip-上手体验，真香！](https://www.ershicimi.com/p/03eee984a40b5ec0785ac1adc5ad97bb) ![](assets/new.png)  
 - [2020-08-13-Spring-Cloud-微服务下的权限解决方案](https://www.ershicimi.com/p/44e54d72fccb49e1f633d8919edcc407) ![](assets/new.png)  
@@ -868,12 +874,6 @@
 - [2020-08-10-面试官：我把数据库部署在Docker容器内，你觉得如何？](https://www.ershicimi.com/p/0d0c8bcbc467c4529d256328f0e2f2de) ![](assets/new.png)  
 - [2020-08-09-一套简单通用的Java后台管理系统，拿来即用，非常方便（附项目地址）](https://www.ershicimi.com/p/d5da8fbbd4214abf4c4c8f5ba5f4ebb2) ![](assets/new.png)  
 - [2020-08-09-推荐：Windows平台上三款提高工作效率的免费神器！](https://www.ershicimi.com/p/16891c3d50a74da608eb5723645f2ba2) ![](assets/new.png)  
-- [2020-08-09-为什么-char-数组比-String-更适合存储密码？](https://www.ershicimi.com/p/670f8e19e57cf8571b4bf6fe22b538a4) ![](assets/new.png)  
-- [2020-08-08-IntelliJ-IDEA-2020.2-正式发布，真香！](https://www.ershicimi.com/p/2a57a17a39de45150101c413a292621e) ![](assets/new.png)  
-- [2020-08-08-看图说话，FastJson-并没有那么流行！](https://www.ershicimi.com/p/7be4093917bd4d8d51d44ce8d505108e) ![](assets/new.png)  
-- [2020-08-08-GitLab-内置了-CI/CD-工具，强大啊！！](https://www.ershicimi.com/p/be03600ef742f36a397f107c43f72675) ![](assets/new.png)  
-- [2020-08-07-绝了！这款工具让SpringBoot不再需要Controller、Service、DAO、Mappe](https://www.ershicimi.com/p/d328784b0906b4b91b854650819c51b1) ![](assets/new.png)  
-- [2020-08-07-别在网上乱找代码了，找了一段代码突然爆了！！！](https://www.ershicimi.com/p/51288cd2fac173f5b229d402dfb98cd3) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-15-事业单位研究所和某一线金融公司的-offer，我该怎么选。。](https://www.v2ex.com/t/698417) ![](assets/new.png)  
+- [2020-08-15-手把手教你从零开始使用-Python-编写大型冒险类游戏-01-之游戏介绍](https://www.v2ex.com/t/698416) ![](assets/new.png)  
 - [2020-08-15-笔记本开机启动要一个小时，是啥原因～](https://www.v2ex.com/t/698415) ![](assets/new.png)  
 - [2020-08-15-怎么这么多小米的广告](https://www.v2ex.com/t/698414) ![](assets/new.png)  
 - [2020-08-15-苹果官方翻新-mac-大量上架在线商店](https://www.v2ex.com/t/698413) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-14-喜马拉雅官方淘宝店购买喜点-818-会员-返利-30-多](https://www.v2ex.com/t/698396) ![](assets/new.png)  
 - [2020-08-14-b-站评论区竟然可以输入-HTML-标签，并且显示出来？](https://www.v2ex.com/t/698395) ![](assets/new.png)  
 - [2020-08-14-每一个认认真真写文档的程序猿都会被无良-HR-逼成不写注释的屑码农](https://www.v2ex.com/t/698393) ![](assets/new.png)  
-- [2020-08-14-linksys-mesh-wifi-路由-用死啦，如何？](https://www.v2ex.com/t/698391) ![](assets/new.png)  
-- [2020-08-14-现在，技术美术和引擎程序员哪个更吃香？哪个更有前途？](https://www.v2ex.com/t/698390) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,23 +1117,23 @@
 - [2020-08-15-数据源管理：分布式-NoSQL-系统，Cassandra-集群管理](https://toutiao.io/k/ct1wjj2) ![](assets/new.png)  
 - [2020-08-15-译-优化-Golang-服务来减少-40%-以上的-CPU](https://toutiao.io/k/o3a92oq) ![](assets/new.png)  
 - [2020-08-15-Volcano-1.0：分布式调度系统漫谈](https://toutiao.io/k/o1gs8d4) ![](assets/new.png)  
-- [2020-08-15-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
 - [2020-08-15-Puppeteer-入门与实战](https://toutiao.io/k/i4tupr5) ![](assets/new.png)  
+- [2020-08-15-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) ![](assets/new.png)  
-- [2020-08-15-Webkit-内核初探](https://toutiao.io/k/hpyl1d5) ![](assets/new.png)  
 - [2020-08-15-看快手如何干掉-Fastjson](https://toutiao.io/k/25f53t3) ![](assets/new.png)  
+- [2020-08-15-Webkit-内核初探](https://toutiao.io/k/hpyl1d5) ![](assets/new.png)  
 - [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
 - [2020-08-15-你不知道的-TypeScript-泛型](https://toutiao.io/k/mm7o2pb) ![](assets/new.png)  
-- [2020-08-15-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
-- [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
 - [2020-08-15-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-15-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-15-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-15-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
 - [2020-08-15-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
-- [2020-08-15-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-15-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-15-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
-- [2020-08-15-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-15-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
 - [2020-08-15-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-15-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-15-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

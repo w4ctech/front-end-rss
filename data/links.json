@@ -15185,6 +15185,36 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "40+ 张最全 Linux / C / C++ 思维导图，收藏！",
+        "link": "https://www.ershicimi.com/p/6ef3b2261d4173f8a0f692d0471b9fa9",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "为什么我劝你放弃了Restful API？",
+        "link": "https://www.ershicimi.com/p/58bba24f4392498624309ef5dc8a6fd8",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "因为一条SQL，我差点被祭天......",
+        "link": "https://www.ershicimi.com/p/b0a596f549fc3b57aec904971bcc2909",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "年薪68万,人才缺口30万,这个神仙技能今年火遍整个职业圈!",
+        "link": "https://www.ershicimi.com/p/875c6aa5d168ea51712be597aa865180",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "又整理了一批可以拿去做副业的开源项目...",
+        "link": "https://www.ershicimi.com/p/bfc04a46f8f99a1a8db435e031872cb1",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "好用到爆的 Java 小技巧",
+        "link": "https://www.ershicimi.com/p/4ac35869265d57b29e3f6c14f6372d6b",
+        "date": "2020-08-14"
+      },
+      {
         "title": "32岁程序员被辞退欲跳楼！为什么我不建议你轻易买保险？",
         "link": "https://www.ershicimi.com/p/d5b32ff82843b4c3e665741eb84f143f",
         "date": "2020-08-13"
@@ -15253,36 +15283,6 @@
         "title": "推荐：Windows平台上三款提高工作效率的免费神器！",
         "link": "https://www.ershicimi.com/p/16891c3d50a74da608eb5723645f2ba2",
         "date": "2020-08-09"
-      },
-      {
-        "title": "为什么 char 数组比 String 更适合存储密码？",
-        "link": "https://www.ershicimi.com/p/670f8e19e57cf8571b4bf6fe22b538a4",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "IntelliJ IDEA 2020.2 正式发布，真香！",
-        "link": "https://www.ershicimi.com/p/2a57a17a39de45150101c413a292621e",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "看图说话，FastJson 并没有那么流行！",
-        "link": "https://www.ershicimi.com/p/7be4093917bd4d8d51d44ce8d505108e",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "GitLab 内置了 CI/CD 工具，强大啊！！",
-        "link": "https://www.ershicimi.com/p/be03600ef742f36a397f107c43f72675",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "绝了！这款工具让SpringBoot不再需要Controller、Service、DAO、Mappe",
-        "link": "https://www.ershicimi.com/p/d328784b0906b4b91b854650819c51b1",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "别在网上乱找代码了，找了一段代码突然爆了！！！",
-        "link": "https://www.ershicimi.com/p/51288cd2fac173f5b229d402dfb98cd3",
-        "date": "2020-08-07"
       }
     ]
   },
@@ -15839,6 +15839,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "事业单位研究所和某一线金融公司的 offer，我该怎么选。。",
+        "link": "https://www.v2ex.com/t/698417",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "手把手教你从零开始使用 Python 编写大型冒险类游戏 01 之游戏介绍",
+        "link": "https://www.v2ex.com/t/698416",
+        "date": "2020-08-15"
+      },
+      {
         "title": "笔记本开机启动要一个小时，是啥原因～",
         "link": "https://www.v2ex.com/t/698415",
         "date": "2020-08-15"
@@ -16022,11 +16032,6 @@
         "title": "有人试过吧 pixel 屏幕换成 LCD 吗",
         "link": "https://www.v2ex.com/t/698368",
         "date": "2020-08-14"
-      },
-      {
-        "title": "有没有开源的 Crontab Web 管理工具推荐，试了几个都感觉不是很好用",
-        "link": "https://www.v2ex.com/t/698367",
-        "date": "2020-08-14"
       }
     ]
   },
@@ -16158,13 +16163,13 @@
         "date": "2020-08-15"
       },
       {
-        "title": "Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
+        "title": "Puppeteer 入门与实战",
+        "link": "https://toutiao.io/k/i4tupr5",
         "date": "2020-08-15"
       },
       {
-        "title": "Puppeteer 入门与实战",
-        "link": "https://toutiao.io/k/i4tupr5",
+        "title": "Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
         "date": "2020-08-15"
       },
       {
@@ -16173,13 +16178,13 @@
         "date": "2020-08-15"
       },
       {
-        "title": "Webkit 内核初探",
-        "link": "https://toutiao.io/k/hpyl1d5",
+        "title": "看快手如何干掉 Fastjson",
+        "link": "https://toutiao.io/k/25f53t3",
         "date": "2020-08-15"
       },
       {
-        "title": "看快手如何干掉 Fastjson",
-        "link": "https://toutiao.io/k/25f53t3",
+        "title": "Webkit 内核初探",
+        "link": "https://toutiao.io/k/hpyl1d5",
         "date": "2020-08-15"
       },
       {
@@ -16193,68 +16198,8 @@
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-15"
-      },
-      {
         "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
         "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-15"
       },
       {
@@ -16263,8 +16208,68 @@
         "date": "2020-08-15"
       },
       {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
+        "date": "2020-08-15"
+      },
+      {
         "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
         "link": "https://toutiao.io/k/wiujwft",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
         "date": "2020-08-15"
       }
     ]

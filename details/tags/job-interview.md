@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 05:48:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 06:02:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -39,6 +39,7 @@
 - [2020-08-07-面试时行云流水仍被拒，人工智能的hr究竟喜欢什么样的求职者？](https://www.ershicimi.com/p/e39fe547c6342ec06fce5b27f0f75950) 
 - [2020-07-30-【答案详解】145道Web高频面试题，锁定高薪Offer](https://www.ershicimi.com/p/12e1a03c8ddffaee7ced84f165fb9e00) 
 - [2020-07-28-几个常见面试题，工作中也经常用到](https://www.ershicimi.com/p/605539ef8663e7d6be0c531072e51703) 
+- [2020-08-15-阿里政企云体验技术团队招聘](https://www.ershicimi.com/p/5c26c875713ff444f75c8f230f13cbd5) 
 - [2020-08-04-140道Web大厂面试真题分享](https://www.ershicimi.com/p/98b665ae6279bb61f28b2f70441f6bf2) 
 - [2020-06-18-政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c) 
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
@@ -54,4 +55,5 @@
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
 - [2020-08-15-求一个有偿前端面试辅导](https://www.v2ex.com/t/698440) 
 - [2020-08-15-在线教育招聘各类技术人才](https://www.v2ex.com/t/698438) 
+- [2020-08-15-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

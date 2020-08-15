@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 13:48:31，:rocket: 更新条数: +3288， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-15 14:02:34，:rocket: 更新条数: +3290， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-15-求解答，职业困惑](https://www.v2ex.com/t/698558) ![](assets/new.png)  
+- [2020-08-15-迫于贫穷买了个二手-macbook-pro-16-inch-2015-mid](https://www.v2ex.com/t/698557) ![](assets/new.png)  
+- [2020-08-15-广州电信-cn2-gia-选择性走-202.97-开头的节点？](https://www.v2ex.com/t/698556) ![](assets/new.png)  
 - [2020-08-15-滴滴旗下花小猪注册送券邀请送现金](https://www.v2ex.com/t/698552) ![](assets/new.png)  
 - [2020-08-15-手贱清除了群组的历史记录,还能恢复吗-还是说需要重新退出加入群组?](https://www.v2ex.com/t/698549) ![](assets/new.png)  
 - [2020-08-15-手上有-HR-账号-如果卖简历-不带联系方式那种-有人要吗](https://www.v2ex.com/t/698547) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-15-iPad-Air3-和-iPad-Pro-选哪个，略纠结](https://www.v2ex.com/t/698521) ![](assets/new.png)  
 - [2020-08-15-Facebook-对-Golang-依赖注入的实现](https://www.v2ex.com/t/698520) ![](assets/new.png)  
 - [2020-08-15-私企程序员到底算不算一份工作](https://www.v2ex.com/t/698518) ![](assets/new.png)  
-- [2020-08-15-分享一个可以通过台词找影片素材的在线工具](https://www.v2ex.com/t/698517) ![](assets/new.png)  
-- [2020-08-15-有好用的人脸识别库没啊??](https://www.v2ex.com/t/698515) ![](assets/new.png)  
-- [2020-08-15-21-届应届生校招-|-求简历优化、投递岗位建议](https://www.v2ex.com/t/698514) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1124,16 @@
 - [2020-08-15-Webkit-内核初探](https://toutiao.io/k/hpyl1d5) ![](assets/new.png)  
 - [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) ![](assets/new.png)  
-- [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
 - [2020-08-15-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [2020-08-15-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-15-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-15-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
-- [2020-08-15-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
 - [2020-08-15-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-15-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-15-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-15-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-15-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-15-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-15-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

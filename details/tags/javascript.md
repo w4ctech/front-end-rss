@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 15:31:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 15:33:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,6 +41,7 @@
 - [2020-08-06-初中级前端-JavaScript-自测清单（2）](https://www.ershicimi.com/p/569048fe3be75fa334dac7b308a7477b) 
 - [2020-08-05-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/73c7dd0baa62af2e57b693a889d2d5d1) 
 - [2020-08-04-轻松搞定移动端适配](https://www.ershicimi.com/p/cda76956f8bedf88951f53d5bc5059aa) 
+- [2020-08-03-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/857f78c739dbb63c0434f44cb6385b59) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 

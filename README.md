@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 23:02:46，:rocket: 更新条数: +3511， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-15 23:09:10，:rocket: 更新条数: +3512， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-15-针对-Python-学习者的-Linux-入门视频集](https://www.v2ex.com/t/698603) ![](assets/new.png)  
 - [2020-08-15-MBP-打游戏的正确姿势？](https://www.v2ex.com/t/698602) ![](assets/new.png)  
 - [2020-08-15-关于远程控制](https://www.v2ex.com/t/698601) ![](assets/new.png)  
 - [2020-08-15-请问-tensorflow2-安装最低的内存要求？](https://www.v2ex.com/t/698598) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-15-iPad-扩容有什么需要注意的地方吗？](https://www.v2ex.com/t/698580) ![](assets/new.png)  
 - [2020-08-15-应届生这样水平的简历能进大厂吗](https://www.v2ex.com/t/698576) ![](assets/new.png)  
 - [2020-08-15-手上-100-多条上海-cn2-发现是真不行了](https://www.v2ex.com/t/698573) ![](assets/new.png)  
-- [2020-08-15-魔都-7-月，-8-月展子上拍的小姐姐](https://www.v2ex.com/t/698572) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,16 +1144,16 @@
 - [2020-08-15-Webkit-内核初探](https://toutiao.io/k/hpyl1d5) ![](assets/new.png)  
 - [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) ![](assets/new.png)  
-- [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-15-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
 - [2020-08-15-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-15-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-15-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
-- [2020-08-15-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-15-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
 - [2020-08-15-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
-- [2020-08-15-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-15-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-15-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-15-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

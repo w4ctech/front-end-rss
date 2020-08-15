@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-15 23:02:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 23:09:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-15-针对-Python-学习者的-Linux-入门视频集](https://www.v2ex.com/t/698603) 
 - [2020-08-15-MBP-打游戏的正确姿势？](https://www.v2ex.com/t/698602) 
 - [2020-08-15-关于远程控制](https://www.v2ex.com/t/698601) 
 - [2020-08-15-请问-tensorflow2-安装最低的内存要求？](https://www.v2ex.com/t/698598) 

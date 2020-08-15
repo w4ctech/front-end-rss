@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 01:33:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 01:46:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,8 +31,6 @@
 - [2020-08-11-『1W7字中高级前端面试必知必会』终极版](https://www.ershicimi.com/p/20ce725bd473667ae5ddd1742165d8cd) 
 - [2020-08-05-2万字！90个前端开发面试必问基础大总结](https://www.ershicimi.com/p/29bfa617feb719e3f7063eb358232dbe) 
 - [2020-07-30-蚂蚁、字节、滴滴面试经历总结都已过](https://www.ershicimi.com/p/8dc90b9888f39f8df50a9ce0c71726dd) 
-- [2020-08-07-今年面试，谈“钱”还合适吗？](https://www.ershicimi.com/p/d7869e53c2ab1c0b4fd9a4519559ef72) 
-- [2020-08-04-如何在面试官面前展示自己--经典AI面试题限时免费领取](https://www.ershicimi.com/p/4958378b45876dfc1ffe26a0c47e19eb) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
 - [2019-10-21-招聘-|-字节跳动-上海-前端工程师社招-&-校招-&-实习生](https://www.ershicimi.com/p/dff761693416bd940e698627c37a14d9) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 09:33:33，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-15 09:46:13，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,7 +1072,9 @@
 </summary>
 
 
-- [2020-08-15-国内的开发者有申请到-ARM-Mac-吗？](https://www.v2ex.com/t/698494) ![](assets/new.png)  
+- [2020-08-15-微服务杂念---最近的一些思绪整理](https://www.v2ex.com/t/698500) ![](assets/new.png)  
+- [2020-08-15-alt-tab-的时候屏幕中间会出现-app-列表，在外接屏幕的情况下，有什么快捷键可以让这个列表出现在指定屏幕上](https://www.v2ex.com/t/698499) ![](assets/new.png)  
+- [2020-08-15-玩转-PhpStorm-系列教程](https://www.v2ex.com/t/698496) ![](assets/new.png)  
 - [2020-08-15-北京有不加班的游戏（或科技）公司么？](https://www.v2ex.com/t/698493) ![](assets/new.png)  
 - [2020-08-15-有多少人写过-今晚吃什么.exe-这样的东西](https://www.v2ex.com/t/698492) ![](assets/new.png)  
 - [2020-08-15-R7000-+-Manjaro-+-4k-+-1080P-使用体验](https://www.v2ex.com/t/698491) ![](assets/new.png)  
@@ -1090,8 +1092,6 @@
 - [2020-08-15-中科大的-mirror-全挂了？](https://www.v2ex.com/t/698465) ![](assets/new.png)  
 - [2020-08-15-咨询下各位关于技术跟项管的关系，是不是技术都是平庸的，平庸在哪？](https://www.v2ex.com/t/698464) ![](assets/new.png)  
 - [2020-08-15-十万火急，“转载”英文怎么说](https://www.v2ex.com/t/698463) ![](assets/new.png)  
-- [2020-08-15-两年产品经验最近求职之路艰难,-望大家看看这简历有什么问题](https://www.v2ex.com/t/698462) ![](assets/new.png)  
-- [2020-08-15-我这个批量替换某表字段内容的-SQL-语句有错吗...一直报错-1064](https://www.v2ex.com/t/698460) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,16 +1144,16 @@
 - [2020-08-15-Webkit-内核初探](https://toutiao.io/k/hpyl1d5) ![](assets/new.png)  
 - [2020-08-15-揭开链表的真面目](https://toutiao.io/k/rjlq8g3) ![](assets/new.png)  
 - [2020-08-15-Spark-RDD-的依赖关系以及-DAG-划分-stage](https://toutiao.io/k/skbjfw2) ![](assets/new.png)  
-- [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-15-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
-- [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-15-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-15-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [2020-08-15-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-15-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
+- [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
 - [2020-08-15-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-15-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-15-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-15-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-15-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-15-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

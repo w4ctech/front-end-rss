@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 09:33:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 09:46:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -37,5 +37,4 @@
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://aotu.io/notes/2017/01/06/wxapp-img-loader/) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
-- [2020-08-15-红包有偿，帮忙看一下小程序的问题](https://www.v2ex.com/t/698446) 
 - [2020-08-06-【通知】隐私漏洞新增小程序和海外应用](https://sec.thief.one/article_content?a_id=8ee110c6b8af8aac03210ebf4624e971) 

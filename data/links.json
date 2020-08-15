@@ -15,6 +15,16 @@
         "date": "2020-08-14"
       },
       {
+        "title": "最新海外疫情：新冠感染超2108万 累计死亡超76万",
+        "link": "http://m.international.caixin.com/m/2020-08-15/101593206.html",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "【境内疫情观察】广东新增1例本土病例（8月14日）",
+        "link": "http://m.database.caixin.com/m/2020-08-15/101593194.html",
+        "date": "2020-08-14"
+      },
+      {
         "title": "大流行手记|8月14日：英国再购近1亿剂疫苗 俄疫苗寻求世卫资格预审",
         "link": "https://m.caixin.com/m/2020-08-15/101593099.html",
         "date": "2020-08-14"
@@ -13871,6 +13881,21 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "如何衡量前端工程质量？我们有了平台化的解决方案",
+        "link": "https://www.ershicimi.com/p/dd0656b355c467a5ea70699349234d43",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "TypeScript 4.0 RC发布，带来诸多更新",
+        "link": "https://www.ershicimi.com/p/493c41b006bc86ce765d8a62eadaffbf",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "来呀，一起造出一个React框架！ | 极客大学",
+        "link": "https://www.ershicimi.com/p/c5613ff6ece0feea538d048d2236e143",
+        "date": "2020-08-14"
+      },
+      {
         "title": "软件史上最著名的10大Bug",
         "link": "https://www.ershicimi.com/p/baa4a19c76768f07918c5b1d514b433e",
         "date": "2020-08-13"
@@ -13954,21 +13979,6 @@
         "title": "TypeScript 新版网站上线：带来了新的导航机制",
         "link": "https://www.ershicimi.com/p/58349e95c656106f3a81063652684787",
         "date": "2020-08-05"
-      },
-      {
-        "title": "iOS工程师的自我修养 | 极客时间",
-        "link": "https://www.ershicimi.com/p/8093e3d376e5069381761de9f62121cd",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "2020年不容错过的十大JavaScript库",
-        "link": "https://www.ershicimi.com/p/072db7b80dfc6fcd63f89b4ea9510d7a",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "程序员简历的 8 个建议",
-        "link": "https://www.ershicimi.com/p/e47a77e26f69847b990f9dc6cc497f8f",
-        "date": "2020-08-04"
       }
     ]
   },
@@ -14782,23 +14792,7 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": [
-      {
-        "title": "科技爱好者周刊（第 120 期）：只有开放才能打败封锁",
-        "link": "http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "勒索软件产业化的感想",
-        "link": "http://www.ruanyifeng.com/blog/2020/08/ransomware.html",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "只要一行代码，实现五种 CSS 经典布局",
-        "link": "http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html",
-        "date": "2020-08-10"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "http://jdc.jd.com/feed",
@@ -15844,6 +15838,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "R7000 + Manjaro + 4k + 1080P 使用体验",
+        "link": "https://www.v2ex.com/t/698491",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "应届生一般对自己的职业规划会有什么水平的认知？",
+        "link": "https://www.v2ex.com/t/698490",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "电报群怎么下载 animated emoji 这样的 动画表情?",
+        "link": "https://www.v2ex.com/t/698489",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "是我看走眼了吗？最新 Android 11 依然不会强制 Scoped Storage",
+        "link": "https://www.v2ex.com/t/698484",
+        "date": "2020-08-15"
+      },
+      {
         "title": "wordpress 多用户，怎样加密/或屏蔽/或 404 某个“作者”的所有文章，且后期可恢复",
         "link": "https://www.v2ex.com/t/698483",
         "date": "2020-08-15"
@@ -15956,26 +15970,6 @@
       {
         "title": "宽带日常使用低延迟>高带宽",
         "link": "https://www.v2ex.com/t/698442",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "求一个有偿前端面试辅导",
-        "link": "https://www.v2ex.com/t/698440",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "求助大佬， 有没有基于 webrtc 实现的 p2p 屏幕分享的源码或者教程案例",
-        "link": "https://www.v2ex.com/t/698439",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "在线教育招聘各类技术人才",
-        "link": "https://www.v2ex.com/t/698438",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[求职][远程/长沙] PHP 后端 Laravel Swoole Nodejs",
-        "link": "https://www.v2ex.com/t/698434",
         "date": "2020-08-15"
       }
     ]
@@ -16143,21 +16137,6 @@
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-15"
-      },
-      {
         "title": "[推荐] 面试官：说一下你常用的加密算法",
         "link": "https://toutiao.io/k/z7rw71k",
         "date": "2020-08-15"
@@ -16168,33 +16147,8 @@
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-15"
       },
       {
@@ -16203,8 +16157,23 @@
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
         "date": "2020-08-15"
       },
       {
@@ -16213,8 +16182,33 @@
         "date": "2020-08-15"
       },
       {
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-15"
+      },
+      {
         "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
         "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-15"
       }
     ]

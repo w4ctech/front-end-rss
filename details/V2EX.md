@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-15 14:10:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 14:20:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-15-JavaEE-开发中通常都会有-@Controller-@Service-@Repository-三层，较真地说，-SpringMVC-中的-C-到底是其中的-@Controller-层还是三层合一？](https://www.v2ex.com/t/698564) 
 - [2020-08-15-求教-pandas-输出到-Excel，=号如何以正常字符串输出并正确显示](https://www.v2ex.com/t/698563) 
 - [2020-08-15-apple-watch-这样的运动手表记录泳池游泳，一趟没游完中途停下来休息也会自动算一趟（设置好的距离）么？](https://www.v2ex.com/t/698562) 
 - [2020-08-15-50-收个京东](https://www.v2ex.com/t/698561) 
@@ -29,5 +30,3 @@
 - [2020-08-15-Facebook-对-Golang-依赖注入的实现](https://www.v2ex.com/t/698520) 
 - [2020-08-15-私企程序员到底算不算一份工作](https://www.v2ex.com/t/698518) 
 - [2020-08-15-分享一个可以通过台词找影片素材的在线工具](https://www.v2ex.com/t/698517) 
-- [2020-08-15-有好用的人脸识别库没啊??](https://www.v2ex.com/t/698515) 
-- [2020-08-15-21-届应届生校招-|-求简历优化、投递岗位建议](https://www.v2ex.com/t/698514) 

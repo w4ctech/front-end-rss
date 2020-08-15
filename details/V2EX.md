@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-15 01:02:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 01:10:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-15-请问各位大佬：-proxmox-ve-如何便捷的远程唤醒](https://www.v2ex.com/t/698406) 
 - [2020-08-15-P-站可以直连了,大家试试,我试了可以](https://www.v2ex.com/t/698405) 
 - [2020-08-15-求能定时-block-网站的-chrome-扩展或其它-mac-app](https://www.v2ex.com/t/698401) 
 - [2020-08-14-niz-plum-的静电容键盘，双模蓝牙支持的怎么样？尤其是对-mbp](https://www.v2ex.com/t/698399) 

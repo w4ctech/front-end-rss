@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 06:02:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 06:10:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -27,10 +27,6 @@
 - [2020-01-22-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](https://m.caixin.com/m/2020-01-23/101507521.html) 
 - [2020-01-21-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-21-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
-- [2020-01-02-回顾2019-年-JavaScript-现状调查报告](https://www.ershicimi.com/p/9adf10f5eda0e047609c758df13436b0) 
-- [2020-01-01-倏忽一年：回顾点评前端-2019-重大事件、趋势](https://www.ershicimi.com/p/88b10c5e55ecef0583393efa7d466665) 
-- [2019-12-30-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/8afb29a5864bf11ab6723cdc66a0c6ab) 
-- [2019-12-26-如何答一道惊艳面试官的数组去重问题？](https://www.ershicimi.com/p/65b6fbfea2975868732525463c062fdf) 
 - [2020-08-12-不要成为只会JS，不会写CSS的“伪前端”！](https://www.ershicimi.com/p/ecd28c1d3162b1b9e5df477c2f9285ff) 
 - [2020-08-10-H5秒开方案思考与实践](https://www.ershicimi.com/p/3e92f7a44ce96c1ddaa1ea6350bff48c) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
@@ -116,14 +112,6 @@
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-08-12-我的天！你竟然没有在SpringBoot中使用过异步请求和异步调用...](https://www.ershicimi.com/p/fd7d6892f88375848eeb49a2246fe552) 
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) 
-- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
-- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
-- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
-- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) 
-- [2019-12-04-EHTML:-HTML-Framework-that-allows-you-write-no-JavaScript-code-at-all.](https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173) 
-- [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
-- [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
-- [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-08-15-求推荐一款带-usb-支持-typec-协议且能-USB-网络共享的-wifi6-路由器](https://www.v2ex.com/t/698433) 
 - [2020-08-15-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

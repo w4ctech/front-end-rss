@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 08:12:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 08:20:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,6 +44,7 @@
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-08-15-github-文件-raw-地址在-chrome-打不开，-Safari-可以](https://www.v2ex.com/t/698468) 
 - [2020-08-15-用-clash-可以上谷歌和-fb，但下载-URL-以-https://github-production-release-**-开头的东西总是失败，该如何设置我的代理软件以好好下载这些东西？](https://www.v2ex.com/t/698428) 
 - [2020-08-15-Webkit-内核初探](https://toutiao.io/k/hpyl1d5) 
 - [2020-08-15-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 

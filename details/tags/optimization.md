@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 15:02:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 15:09:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -8,6 +8,7 @@
 
 
 - [2020-02-19-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
+- [2020-08-11-几行代码摸清楚上拉加载原理](https://www.ershicimi.com/p/93c846411d9ca2424a82dd9ae53621b0) 
 - [2020-08-11-几行代码摸清楚上拉加载原理](https://www.ershicimi.com/p/9e9043eaf6883b38d468acbe305253d6) 
 - [2020-08-11-常见的逻辑判断优化技巧](https://www.ershicimi.com/p/7c8b8f62855e4546433d638252593475) 
 - [2020-07-27-聊一聊前端性能优化](https://www.ershicimi.com/p/95e4dc5c9a8b25adcad6702c692cca9a) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 18:21:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 18:22:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -19,6 +19,7 @@
 - [2020-08-14-来呀，一起造出一个React框架！-|-极客大学](https://www.ershicimi.com/p/c5613ff6ece0feea538d048d2236e143) 
 - [2020-08-07-耗时三年，向React迁移的利与弊](https://www.ershicimi.com/p/20749545e470bf9c2ebc4975ceffba78) 
 - [2020-08-09-响应式布局新方案：融合响应式设计，开源-React-组件](https://www.ershicimi.com/p/3771cb7862f02240188c2ba6657224c6) 
+- [2020-05-24-这就是你日思夜想的-React-原生动态加载](https://www.ershicimi.com/p/cdb1611bac626565c3013e6a5654e149) 
 - [2020-08-06-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/41df4d9cbc8e82472ed966915bc2ee9d) 
 - [2020-08-12-React-v17.0-RC-版本发布：无新特性](https://www.ershicimi.com/p/ff456d5ca653daace51493c34c5d301a) 
 - [2020-08-09-代数效应与React](https://www.ershicimi.com/p/2a8c7c1d0b96859f4d0a81633168a9f2) 

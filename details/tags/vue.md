@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 18:21:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 18:22:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -20,6 +20,8 @@
 - [2020-08-10-人人都懂的Vue框架，你能最佳实践么？​](https://www.ershicimi.com/p/81b490c6b8c3a0a56d7c592bda1e2b5d) 
 - [2020-08-07-vue+ts打造一个酷炫的星空聊天室](https://www.ershicimi.com/p/c64d38b51fa72b47892b8461f633523d) 
 - [2020-08-04-10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/8d2998e902c1647ba47e8752060e0885) 
+- [2020-08-04-Vue版的团队代码规范](https://www.ershicimi.com/p/4c98dcb82fb6941f3ad338180c8b21c5) 
+- [2020-08-03-你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/93578da8ee8a23416b0a42c0e692eb45) 
 - [2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) 
 - [2019-06-20-视频Vue-开发-ECharts-踩坑指南@袁源](https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff) 
 - [2019-06-20-VueConf-2019上海精彩视频花絮](https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479) 
@@ -38,10 +40,14 @@
 - [2020-08-10-前端框架选择Vue的理由](https://www.ershicimi.com/p/61da09eb11f6a082d0001338169310a4) 
 - [2020-08-05-vue3.0新型状态管理和逻辑复用方式](https://www.ershicimi.com/p/f68a2470bc8fd6493bfc5757328c2b9e) 
 - [2020-07-29-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed) 
+- [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
 - [2020-08-10-58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/1cf49709f7c37e2028ba1bceedcf27c4) 
 - [2020-07-31-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/68fe92e6e732623ea18dfde151124ad4) 
 - [2020-08-10-Vue.set-的副作用](https://www.ershicimi.com/p/7696aeebf7fe8c3379dbae7c988d1734) 
 - [2020-08-04-【万字长文】史上最强vue总结，更新版](https://www.ershicimi.com/p/5f587b1f639ff6eb4dc0ced05a8599c3) 
+- [2020-08-09-图解-Vue-响应式原理](https://www.ershicimi.com/p/eb9ef1a29cc963deb245295634fd09b8) 
+- [2020-08-05-nestjs+vue+ts打造一个酷炫的星空聊天室含完整数据库设计](https://www.ershicimi.com/p/d7f514759a5f284077e55fcb953d2fc1) 
+- [2020-08-04-Vue+Electron开发跨平台桌面应用（实战）](https://www.ershicimi.com/p/b959ab5f35231a51bb4bee304a440fdb) 
 - [2020-08-06-Nest.js-+-Vue-+-TS-打造一个酷炫的星空聊天室含完整数据库设计](https://www.ershicimi.com/p/fa126fb13fde2c401dae7fb541d9185c) 
 - [2020-08-04-深入Vue-底层原理以及运行机制](https://www.ershicimi.com/p/9025ae23cea918507c880dfd788e3136) 
 - [2020-07-30-工程化-1:1-从零实现-Vue-源码](https://www.ershicimi.com/p/3accac5a39f0227384771ed6026452c1) 

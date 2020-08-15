@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-15 18:21:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 18:22:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -12,6 +12,7 @@
 - [2020-08-11-几行代码摸清楚上拉加载原理](https://www.ershicimi.com/p/9e9043eaf6883b38d468acbe305253d6) 
 - [2020-08-11-常见的逻辑判断优化技巧](https://www.ershicimi.com/p/7c8b8f62855e4546433d638252593475) 
 - [2020-07-27-聊一聊前端性能优化](https://www.ershicimi.com/p/95e4dc5c9a8b25adcad6702c692cca9a) 
+- [2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 

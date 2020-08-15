@@ -30,11 +30,6 @@
         "date": "2020-08-13"
       },
       {
-        "title": "最新海外疫情：新冠感染者超2078万 累计死亡超75万",
-        "link": "http://m.international.caixin.com/m/2020-08-14/101592777.html",
-        "date": "2020-08-13"
-      },
-      {
         "title": "【境内疫情观察】上海新增16例境外输入病例（8月13日）",
         "link": "http://m.database.caixin.com/m/2020-08-14/101592707.html",
         "date": "2020-08-13"
@@ -8020,7 +8015,7 @@
         "date": "2020-02-27"
       },
       {
-        "title": "地图|最新海外疫情：新冠感染者超2078万 美国累计感染近525万",
+        "title": "地图|最新海外疫情：新冠感染超2108万 美国累计感染超531万",
         "link": "http://m.datanews.caixin.com/m/interactive/2020/pneumonia-h5/global.html",
         "date": "2020-02-26"
       },
@@ -12697,7 +12692,7 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
-        "title": "天津新增1例境外输入新冠肺炎确诊病例 累计境外输入69例",
+        "title": "天津新增 1 例境外输入新冠肺炎确诊病例，累计境外输入 69 例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaC2bR6hG59Qm59AD97Ie200815&isfromapp=1",
         "date": "2020-08-15"
       },
@@ -13874,108 +13869,7 @@
     "rss": "https://rss.itggg.cn/wechat/ershicimi/154",
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
-    "items": [
-      {
-        "title": "软件史上最著名的10大Bug",
-        "link": "https://www.ershicimi.com/p/baa4a19c76768f07918c5b1d514b433e",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "关于多端技术，这4个核心知识你get到了吗？",
-        "link": "https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "WebAssembly如何演进成为“浏览器第二编程语言”？",
-        "link": "https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "6个常见的可访问性问题及解决方案",
-        "link": "https://www.ershicimi.com/p/d3547dd3615918b17be6bd34fe67e291",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "从0到1教你配置深度学习服务器，高维破题助攻机器学习！ | 活动推荐",
-        "link": "https://www.ershicimi.com/p/8e2d4d1865ea806550287d585958e48b",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "CSS-in-JS：一个充满争议的技术方案",
-        "link": "https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "如何在 Web 上大规模生成 UUID",
-        "link": "https://www.ershicimi.com/p/439c67fd019b6392684956127a2db49e",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "不想一辈子打工，我做了个月入40余万的App",
-        "link": "https://www.ershicimi.com/p/25bd483e164fa404b662543003e7d9d9",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "WebSocket 开发实战，三步实现实时弹幕系统",
-        "link": "https://www.ershicimi.com/p/c80886f25187f3817819d1ebc95381f1",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "前端周报：印度政府已要求应用商店下架百度和微博；微信回应特朗普封禁：正在评估；安卓版 Chrome",
-        "link": "https://www.ershicimi.com/p/8851a5df79a6834f39ee004a86ff2fa8",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "耗时三年，向React迁移的利与弊",
-        "link": "https://www.ershicimi.com/p/20749545e470bf9c2ebc4975ceffba78",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "Django 3.1 发布，支持异步 view 和 middleware",
-        "link": "https://www.ershicimi.com/p/b1eb1881506d7224b7ece2c0a459e1e1",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "网络传输如何“快“人一步？ | 活动推荐",
-        "link": "https://www.ershicimi.com/p/0289f3b0697a8bb02be2b7e3b2287d88",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "Flutter 1.20正式发布，新特性解读！",
-        "link": "https://www.ershicimi.com/p/47c1db4e66630d3dbad0eb6107daa23b",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "微软对 TikTok 可能的三种运作方式",
-        "link": "https://www.ershicimi.com/p/520c44a4e48c56e40e869287add2199f",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "Flutter 初学者必读的高级布局规则",
-        "link": "https://www.ershicimi.com/p/e8a2dcb94152bdaf483cc9c90d30036a",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "TypeScript 新版网站上线：带来了新的导航机制",
-        "link": "https://www.ershicimi.com/p/58349e95c656106f3a81063652684787",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "iOS工程师的自我修养 | 极客时间",
-        "link": "https://www.ershicimi.com/p/8093e3d376e5069381761de9f62121cd",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "2020年不容错过的十大JavaScript库",
-        "link": "https://www.ershicimi.com/p/072db7b80dfc6fcd63f89b4ea9510d7a",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "程序员简历的 8 个建议",
-        "link": "https://www.ershicimi.com/p/e47a77e26f69847b990f9dc6cc497f8f",
-        "date": "2020-08-04"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9457",
@@ -15849,6 +15743,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Android Studio 需要更新，但是更新包太大，总是下载到一半出现 ssl peer shutdown incorectly.",
+        "link": "https://www.v2ex.com/t/698476",
+        "date": "2020-08-15"
+      },
+      {
         "title": "[求助] 求质数的 nodejs 程序内存溢出，能帮忙分析是哪儿溢出了吗？",
         "link": "https://www.v2ex.com/t/698472",
         "date": "2020-08-15"
@@ -15987,16 +15886,6 @@
         "title": "用 clash 可以上谷歌和 fb，但下载 URL 以 https://github-production-release-** 开头的东西总是失败，该如何设置我的代理软件以好好下载这些东西？",
         "link": "https://www.v2ex.com/t/698428",
         "date": "2020-08-15"
-      },
-      {
-        "title": "Java 开发人员想入手个满足开发的中度价格的轻薄本，求打醒....",
-        "link": "https://www.v2ex.com/t/698427",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "虚拟环境下的 uwsgi 设置开机启动并且进程守护有啥官方的方法不?",
-        "link": "https://www.v2ex.com/t/698426",
-        "date": "2020-08-15"
       }
     ]
   },
@@ -16113,13 +16002,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "看快手如何干掉 Fastjson",
-        "link": "https://toutiao.io/k/25f53t3",
+        "title": "数据源管理：分布式 NoSQL 系统，Cassandra 集群管理",
+        "link": "https://toutiao.io/k/ct1wjj2",
         "date": "2020-08-15"
       },
       {
-        "title": "数据源管理：分布式 NoSQL 系统，Cassandra 集群管理",
-        "link": "https://toutiao.io/k/ct1wjj2",
+        "title": "看快手如何干掉 Fastjson",
+        "link": "https://toutiao.io/k/25f53t3",
         "date": "2020-08-15"
       },
       {
@@ -16163,28 +16052,38 @@
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-15"
-      },
-      {
         "title": "[推荐] 分布式事务内幕",
         "link": "https://toutiao.io/k/82orv6z",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
         "date": "2020-08-15"
       },
       {
@@ -16193,23 +16092,13 @@
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-15"
       },
       {
@@ -16218,18 +16107,18 @@
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
         "date": "2020-08-15"
       },
       {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] Go 调试分析的高阶技巧",
+        "link": "https://toutiao.io/k/onlqg3p",
         "date": "2020-08-15"
       },
       {

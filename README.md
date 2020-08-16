@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-16 13:46:35，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-16 13:48:27，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -446,26 +446,6 @@
 </summary>
 
 
-- [2020-08-16-前端周报：谷歌开源-chromeOS.dev；-十余家美国企业联手抵制特朗普“封杀”微信；Angul](https://www.ershicimi.com/p/64729e7a6d3cc0184e99536b8a72d7fc) ![](assets/new.png)  
-- [2020-08-14-如何衡量前端工程质量？我们有了平台化的解决方案](https://www.ershicimi.com/p/dd0656b355c467a5ea70699349234d43) ![](assets/new.png)  
-- [2020-08-14-TypeScript-4.0-RC发布，带来诸多更新](https://www.ershicimi.com/p/493c41b006bc86ce765d8a62eadaffbf) ![](assets/new.png)  
-- [2020-08-14-来呀，一起造出一个React框架！-|-极客大学](https://www.ershicimi.com/p/c5613ff6ece0feea538d048d2236e143) ![](assets/new.png)  
-- [2020-08-13-软件史上最著名的10大Bug](https://www.ershicimi.com/p/baa4a19c76768f07918c5b1d514b433e) ![](assets/new.png)  
-- [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686) ![](assets/new.png)  
-- [2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da) ![](assets/new.png)  
-- [2020-08-12-6个常见的可访问性问题及解决方案](https://www.ershicimi.com/p/d3547dd3615918b17be6bd34fe67e291) ![](assets/new.png)  
-- [2020-08-12-从0到1教你配置深度学习服务器，高维破题助攻机器学习！-|-活动推荐](https://www.ershicimi.com/p/8e2d4d1865ea806550287d585958e48b) ![](assets/new.png)  
-- [2020-08-11-CSS-in-JS：一个充满争议的技术方案](https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6) ![](assets/new.png)  
-- [2020-08-11-如何在-Web-上大规模生成-UUID](https://www.ershicimi.com/p/439c67fd019b6392684956127a2db49e) ![](assets/new.png)  
-- [2020-08-10-不想一辈子打工，我做了个月入40余万的App](https://www.ershicimi.com/p/25bd483e164fa404b662543003e7d9d9) ![](assets/new.png)  
-- [2020-08-10-WebSocket-开发实战，三步实现实时弹幕系统](https://www.ershicimi.com/p/c80886f25187f3817819d1ebc95381f1) ![](assets/new.png)  
-- [2020-08-09-前端周报：印度政府已要求应用商店下架百度和微博；微信回应特朗普封禁：正在评估；安卓版-Chrome](https://www.ershicimi.com/p/8851a5df79a6834f39ee004a86ff2fa8) ![](assets/new.png)  
-- [2020-08-07-耗时三年，向React迁移的利与弊](https://www.ershicimi.com/p/20749545e470bf9c2ebc4975ceffba78) ![](assets/new.png)  
-- [2020-08-07-Django-3.1-发布，支持异步-view-和-middleware](https://www.ershicimi.com/p/b1eb1881506d7224b7ece2c0a459e1e1) ![](assets/new.png)  
-- [2020-08-07-网络传输如何“快“人一步？-|-活动推荐](https://www.ershicimi.com/p/0289f3b0697a8bb02be2b7e3b2287d88) ![](assets/new.png)  
-- [2020-08-06-Flutter-1.20正式发布，新特性解读！](https://www.ershicimi.com/p/47c1db4e66630d3dbad0eb6107daa23b) ![](assets/new.png)  
-- [2020-08-06-微软对-TikTok-可能的三种运作方式](https://www.ershicimi.com/p/520c44a4e48c56e40e869287add2199f) ![](assets/new.png)  
-- [2020-08-05-Flutter-初学者必读的高级布局规则](https://www.ershicimi.com/p/e8a2dcb94152bdaf483cc9c90d30036a) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1032,26 @@
 </summary>
 
 
+- [2020-08-16-Martian-框架的建议征集帖](https://www.v2ex.com/t/698771) ![](assets/new.png)  
+- [2020-08-16-迅雷播放器好-nc-哇](https://www.v2ex.com/t/698765) ![](assets/new.png)  
+- [2020-08-16-有什么好的共享屏幕软件](https://www.v2ex.com/t/698764) ![](assets/new.png)  
+- [2020-08-16-如何快速测试-UserScript油猴脚本？](https://www.v2ex.com/t/698763) ![](assets/new.png)  
+- [2020-08-16-想问一下在上海浦东怎么找房东直租的房子？](https://www.v2ex.com/t/698759) ![](assets/new.png)  
+- [2020-08-16-关于宫和按摩椅求教](https://www.v2ex.com/t/698758) ![](assets/new.png)  
+- [2020-08-16-快被烦炸了，-iPhone-上的健康-App-总是提示已关闭-WLAN-和蜂窝数据。](https://www.v2ex.com/t/698756) ![](assets/new.png)  
+- [2020-08-16-自己开发-APP-需要支付功能，不想成立公司，有哪些解决办法？](https://www.v2ex.com/t/698755) ![](assets/new.png)  
+- [2020-08-16-北京有哪些好玩的地方](https://www.v2ex.com/t/698754) ![](assets/new.png)  
+- [2020-08-16-小区有个卖饮水机的，找了个女的含住一口水，结果那个女的可以抱起很重的东西，是什么原理？](https://www.v2ex.com/t/698753) ![](assets/new.png)  
+- [2020-08-16-miui-怎么快速切换-hce-钱包和小米钱包](https://www.v2ex.com/t/698752) ![](assets/new.png)  
+- [2020-08-16-DB-大神有空有意向的可以关注下](https://www.v2ex.com/t/698750) ![](assets/new.png)  
+- [2020-08-16-开车苹果美区家庭，-iCloud2T,Apple-Music88-元每季度，跳车一人，有上车的么](https://www.v2ex.com/t/698749) ![](assets/new.png)  
+- [2020-08-16-现在可以在-Python-中使用-rubi-来解不定积分了么？](https://www.v2ex.com/t/698748) ![](assets/new.png)  
+- [2020-08-16-Magic-keyboard-2-和-trackpad-2-突然不掉电怎么回事？](https://www.v2ex.com/t/698747) ![](assets/new.png)  
+- [2020-08-16-分享一个有关路径设置的低级错误](https://www.v2ex.com/t/698746) ![](assets/new.png)  
+- [2020-08-16-15-左右的预算,-看上了-cx4-2.0L-次顶配和领克-03-2.0T-劲-pro,-纠结](https://www.v2ex.com/t/698744) ![](assets/new.png)  
+- [2020-08-16-求推荐个写代码用的显示器](https://www.v2ex.com/t/698743) ![](assets/new.png)  
+- [2020-08-16-有人有评论回复恐惧症吗？](https://www.v2ex.com/t/698742) ![](assets/new.png)  
+- [2020-08-16-macOS-音乐-app-的问题](https://www.v2ex.com/t/698741) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

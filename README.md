@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-16 12:33:23，:rocket: 更新条数: +3302， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-16 12:46:37，:rocket: 更新条数: +3303， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-16-迅雷播放器好-nc-哇](https://www.v2ex.com/t/698765) ![](assets/new.png)  
+- [2020-08-16-有什么好的共享屏幕软件](https://www.v2ex.com/t/698764) ![](assets/new.png)  
 - [2020-08-16-如何快速测试-UserScript油猴脚本？](https://www.v2ex.com/t/698763) ![](assets/new.png)  
 - [2020-08-16-想问一下在上海浦东怎么找房东直租的房子？](https://www.v2ex.com/t/698759) ![](assets/new.png)  
 - [2020-08-16-关于宫和按摩椅求教](https://www.v2ex.com/t/698758) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-16-有人有评论回复恐惧症吗？](https://www.v2ex.com/t/698742) ![](assets/new.png)  
 - [2020-08-16-macOS-音乐-app-的问题](https://www.v2ex.com/t/698741) ![](assets/new.png)  
 - [2020-08-16-教张小聋做微信系列？今天微信（小号）和-V2-友交易了几次，提示被多人举报封号？然后我上去申请解封，所有能帮我解封的好友都解封失败？](https://www.v2ex.com/t/698738) ![](assets/new.png)  
-- [2020-08-16-桌面端的新版-Tim-如何使用系统默认浏览器来打开链接？](https://www.v2ex.com/t/698737) ![](assets/new.png)  
-- [2020-08-16-听说-loli.top-域名被土豪拿下了？](https://www.v2ex.com/t/698736) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,15 +1125,15 @@
 - [2020-08-16-周末干嘛啦？别闲着！](https://toutiao.io/k/qgn6er5) ![](assets/new.png)  
 - [2020-08-16-揭开数组的真面目](https://toutiao.io/k/qdry358) ![](assets/new.png)  
 - [2020-08-16-Asio：创建被动套接字](https://toutiao.io/k/ymrilo7) ![](assets/new.png)  
-- [2020-08-16-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-16-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-16-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-16-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-16-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-16-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-16-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-16-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-16-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
 - [2020-08-16-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
+- [2020-08-16-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-16-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-16-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-16-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-16-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-16-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-16-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

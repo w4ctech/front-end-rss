@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-16 11:33:22，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-16 11:46:31，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -100,7 +100,6 @@
 - [2020-08-16-俄流行病学专家：俄罗斯新冠病毒疫苗或在一个月后开始大规模接种](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigG3IxeWgClrvkLyeVEke200816&isfromapp=1) ![](assets/new.png)  
 - [2020-08-16-印度前总统确诊新冠肺炎-现仍在昏迷-生命体征正常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik8CcXYnK4eVKpu8jVjbd200816&isfromapp=1) ![](assets/new.png)  
 - [2020-08-16-当初随母亲逃离武汉回到美国的8岁女孩，确诊了……](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw3y4iJMM1WAgppXSmE3P200816&isfromapp=1) ![](assets/new.png)  
-- [2020-08-16-日本奈良天理大学橄榄球部发生集体感染-累计新冠肺炎确诊20人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2DYfjATNuypVTa4Dwkd200816&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1073,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-16-DB-大神有空有意向的可以关注下](https://www.v2ex.com/t/698750) ![](assets/new.png)  
 - [2020-08-16-开车苹果美区家庭，-iCloud2T,Apple-Music88-元每季度，跳车一人，有上车的么](https://www.v2ex.com/t/698749) ![](assets/new.png)  
 - [2020-08-16-现在可以在-Python-中使用-rubi-来解不定积分了么？](https://www.v2ex.com/t/698748) ![](assets/new.png)  
 - [2020-08-16-Magic-keyboard-2-和-trackpad-2-突然不掉电怎么回事？](https://www.v2ex.com/t/698747) ![](assets/new.png)  
@@ -1092,7 +1092,6 @@
 - [2020-08-16-4-年开发经验-测试驱动-敏捷开发-熟悉微服务环境](https://www.v2ex.com/t/698725) ![](assets/new.png)  
 - [2020-08-16-都在说-996，大小周，但我们公司最近从大小周改成了双休](https://www.v2ex.com/t/698724) ![](assets/new.png)  
 - [2020-08-16-上海移动宽带咋样](https://www.v2ex.com/t/698723) ![](assets/new.png)  
-- [2020-08-16-同源-iframe-如何修改内部-dom？](https://www.v2ex.com/t/698722) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1138,23 +1137,23 @@
 - [2020-08-16-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
 - [2020-08-16-使用-Hugo-搭建博客](https://toutiao.io/k/pcw56h6) ![](assets/new.png)  
 - [2020-08-16-Dubbo-协议解析与-ESA-RPC-实践](https://toutiao.io/k/gsdn4sv) ![](assets/new.png)  
-- [2020-08-16-利用-puppeteer-来录制网页操作导出-GIF-动图](https://toutiao.io/k/hj0qn2o) ![](assets/new.png)  
 - [2020-08-16-记一次-Sqlalchemy-Session-问题](https://toutiao.io/k/f4yv4kl) ![](assets/new.png)  
+- [2020-08-16-利用-puppeteer-来录制网页操作导出-GIF-动图](https://toutiao.io/k/hj0qn2o) ![](assets/new.png)  
 - [2020-08-16-基于-Kotlin-+-Netty-实现一个简单的-TCP-自定义协议](https://toutiao.io/k/ndmodxj) ![](assets/new.png)  
 - [2020-08-16-AutoUpdater-迁移到-GitHub](https://toutiao.io/k/kqq70of) ![](assets/new.png)  
 - [2020-08-16-首家强化学习大规模落地工业应用，快手是如何做到的？](https://toutiao.io/k/rvwz7yj) ![](assets/new.png)  
 - [2020-08-16-周末干嘛啦？别闲着！](https://toutiao.io/k/qgn6er5) ![](assets/new.png)  
 - [2020-08-16-揭开数组的真面目](https://toutiao.io/k/qdry358) ![](assets/new.png)  
 - [2020-08-16-Asio：创建被动套接字](https://toutiao.io/k/ymrilo7) ![](assets/new.png)  
-- [2020-08-16-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-16-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [2020-08-16-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
-- [2020-08-16-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-16-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-16-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-16-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-16-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-16-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-16-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
 - [2020-08-16-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-16-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-16-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-16-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-16-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

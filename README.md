@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-15 23:48:27，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-16 00:06:12，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1083,26 +1083,26 @@
 </summary>
 
 
-- [2020-08-15-分享一个Flink-checkpoint失败的问题和解决办法-club.perfma.com](https://blogread.cn/news/go.php?idItem=13677&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1733519%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-API设计的几条原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-怎样消灭Bug？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-优先改进哪个点：捏软柿子还是啃硬骨头？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13674&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontinuous-improvement-priority%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-领域对象发展的极致就是代理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13673&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dynamic-domian-modelling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-Android架构设计--MVP模式第（二）篇，如何减少类爆炸-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13672&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUWY_f4XP5E-RZ-nhVp7EeA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-LiveDataBus-的实现比你想象中的简单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13670&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA8uIFxma10pI87u6YPC3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-做运维前后的变化，看懂的人都哭了（慎入）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13669&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCog13wfdQSQzhqKQuwS0QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-如何诊断-Linux-服务器的性能？10个工具助力你-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13668&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjvKvIQUCrybW4F1VMICVlA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-用-Python-赚钱的-5-个方法，教你业余时间赚外快！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13667&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4XmE3obITd_ykyJXa8Xt_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-截屏、文字提取一气呵成，超实用-OCR-开源小工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13666&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnKSpdpBfWmNnNMRYi_6T0g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-Android-Studio-4.0重磅发布：全新的-Motion-编辑器及众多更新都在这里！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13665&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRfiLyb4GiXPUtEAyjSR0BA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-如何替公司省下数千万勒索费用-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13664&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F178966551%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-敏捷交付中的自动化测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13663&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-in-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-敏捷项目如何拥有管理变化的能力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13662&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-management-in-agile-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-Android-MVP-&&-MVVM深度解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13660&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGj8fxXwQVAy7J9sOIp10xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-Android-技术总监应该干的那些事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13659&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuqZYvyImfsQdQwuI6i6cbg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-15-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-分享一个Flink-checkpoint失败的问题和解决办法-club.perfma.com](https://blogread.cn/news/go.php?idItem=13677&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1733519%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-API设计的几条原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-怎样消灭Bug？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-优先改进哪个点：捏软柿子还是啃硬骨头？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13674&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontinuous-improvement-priority%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-领域对象发展的极致就是代理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13673&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dynamic-domian-modelling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-Android架构设计--MVP模式第（二）篇，如何减少类爆炸-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13672&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUWY_f4XP5E-RZ-nhVp7EeA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-LiveDataBus-的实现比你想象中的简单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13670&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA8uIFxma10pI87u6YPC3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-做运维前后的变化，看懂的人都哭了（慎入）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13669&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCog13wfdQSQzhqKQuwS0QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-如何诊断-Linux-服务器的性能？10个工具助力你-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13668&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjvKvIQUCrybW4F1VMICVlA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-用-Python-赚钱的-5-个方法，教你业余时间赚外快！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13667&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4XmE3obITd_ykyJXa8Xt_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-截屏、文字提取一气呵成，超实用-OCR-开源小工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13666&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnKSpdpBfWmNnNMRYi_6T0g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-Android-Studio-4.0重磅发布：全新的-Motion-编辑器及众多更新都在这里！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13665&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRfiLyb4GiXPUtEAyjSR0BA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-如何替公司省下数千万勒索费用-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13664&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F178966551%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-敏捷交付中的自动化测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13663&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-in-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-敏捷项目如何拥有管理变化的能力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13662&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-management-in-agile-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-Android-MVP-&&-MVVM深度解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13660&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGj8fxXwQVAy7J9sOIp10xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-Android-技术总监应该干的那些事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13659&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuqZYvyImfsQdQwuI6i6cbg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-16-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,25 +1114,25 @@
 </summary>
 
 
-- [2020-08-15-周末干嘛啦？别闲着！](https://toutiao.io/k/qgn6er5) ![](assets/new.png)  
-- [2020-08-15-利用-puppeteer-来录制网页操作导出-GIF-动图](https://toutiao.io/k/hj0qn2o) ![](assets/new.png)  
-- [2020-08-15-使用-Hugo-搭建博客](https://toutiao.io/k/pcw56h6) ![](assets/new.png)  
-- [2020-08-15-记一次-Sqlalchemy-Session-问题](https://toutiao.io/k/f4yv4kl) ![](assets/new.png)  
-- [2020-08-15-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-15-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-15-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-15-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-15-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-15-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-15-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
-- [2020-08-15-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-15-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
-- [2020-08-15-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
-- [2020-08-15-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-15-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-15-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-15-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-15-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-16-周末干嘛啦？别闲着！](https://toutiao.io/k/qgn6er5) ![](assets/new.png)  
+- [2020-08-16-使用-Hugo-搭建博客](https://toutiao.io/k/pcw56h6) ![](assets/new.png)  
+- [2020-08-16-记一次-Sqlalchemy-Session-问题](https://toutiao.io/k/f4yv4kl) ![](assets/new.png)  
+- [2020-08-16-利用-puppeteer-来录制网页操作导出-GIF-动图](https://toutiao.io/k/hj0qn2o) ![](assets/new.png)  
+- [2020-08-16-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-16-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
+- [2020-08-16-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-16-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-16-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-16-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-16-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-16-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-16-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-16-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-16-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-16-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-16-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-16-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-16-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

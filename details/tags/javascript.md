@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-16 11:18:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 11:31:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -102,7 +102,6 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-08-16-2020-年了，求推荐一款高性能插卡无线路由器](https://www.v2ex.com/t/698731) 
 - [2020-08-16-同源-iframe-如何修改内部-dom？](https://www.v2ex.com/t/698722) 
-- [2020-08-16-用-sequelize.js-操作-sqlite3-数据库在并发写事务时，出现-"SQLITE_BUSY"-的报错，但在用-knex.js-时就没有出现这个错误，问题到底出在哪里？](https://www.v2ex.com/t/698698) 
 - [2020-08-16-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-16-揭开数组的真面目](https://toutiao.io/k/qdry358) 
 - [2020-08-07-【安全圈】路由器,交换机和AnyConnect-VPN中的高度严重漏洞](https://sec.thief.one/article_content?a_id=1c9ffbde3b409b310e18dcadfbe69b72) 

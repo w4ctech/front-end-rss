@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-16 23:33:23，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-16 23:46:31，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-08-16-奥地利总理：近期新冠肺炎感染人数增加-呼吁加强边境管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiISNQrpPKQzqGNqxJ95TW200816&isfromapp=1) ![](assets/new.png)  
-- [2020-08-16-对于广东陆丰出现疫情，钟南山有个总体判断，还提醒大家→](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioCUOa7zLMYWizCKcfIuH200816&isfromapp=1) ![](assets/new.png)  
-- [2020-08-16-​香港16日通报新增74例新冠肺炎确诊病例-其中70例为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3RPMaiAn8UFltG7mHRsF200816&isfromapp=1) ![](assets/new.png)  
-- [2020-08-16-确定26家定点医院-2000多名医疗人员一线救治-新疆疫情防控形势总体向好](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLaNs2qLMLLBn7IsfE9V6200816&isfromapp=1) ![](assets/new.png)  
-- [2020-08-16-俄流行病学专家：俄罗斯新冠病毒疫苗或在一个月后开始大规模接种](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigG3IxeWgClrvkLyeVEke200816&isfromapp=1) ![](assets/new.png)  
+- [2020-08-16-哥伦比亚累计新冠肺炎病例逾46万-原住民聚集区疫情形势严峻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBN4M3y0RqPWrxa1iOJwO200817&isfromapp=1) ![](assets/new.png)  
+- [2020-08-16-世卫组织：全球新冠肺炎确诊病例超过2129万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtineZqwUKuJw7KWgy0MKh1200817&isfromapp=1) ![](assets/new.png)  
+- [2020-08-16-巴西总统幼子确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij0oIJHLuVMOq1874EuQp200817&isfromapp=1) ![](assets/new.png)  
+- [2020-08-16-英国一酒吧4人新冠病毒检测呈阳性-致百人面临感染风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4NK2lF1xtNnUqWVenVuD200817&isfromapp=1) ![](assets/new.png)  
+- [2020-08-16-印度特里凡得琅中央监狱350余名囚犯感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu3eDdJiPxCOthQrProrw200817&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1137,23 +1137,23 @@
 - [2020-08-16-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
 - [2020-08-16-学-C语言和学-C++-它有毛关系吗？](https://toutiao.io/k/c7jl9z4) ![](assets/new.png)  
 - [2020-08-16-Facebook-对-Golang-依赖注入的实现](https://toutiao.io/k/aiwwan4) ![](assets/new.png)  
+- [2020-08-16-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-16-Kubernetes-如何改变美团的云基础设施？](https://toutiao.io/k/cur5n7m) ![](assets/new.png)  
 - [2020-08-16-LeetCode-100：相同的树](https://toutiao.io/k/pag73bk) ![](assets/new.png)  
 - [2020-08-16-如何复用一套代码满足多样化的需求？](https://toutiao.io/k/x35vow3) ![](assets/new.png)  
-- [2020-08-16-Kubernetes-如何改变美团的云基础设施？](https://toutiao.io/k/cur5n7m) ![](assets/new.png)  
-- [2020-08-16-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
 - [2020-08-16-懂程序员的产品经理是什么样子？](https://toutiao.io/k/odvsl62) ![](assets/new.png)  
-- [2020-08-16-遇到困难的时候你会和谁说](https://toutiao.io/k/d1qirzo) ![](assets/new.png)  
-- [2020-08-16-Python-函数为什么会默认返回-None？](https://toutiao.io/k/5ldsr7i) ![](assets/new.png)  
 - [2020-08-16-AI-技术如何打造智能语音质检系统](https://toutiao.io/k/wx36ke3) ![](assets/new.png)  
 - [2020-08-16-深入浅出-GFS（分布式文件存储）](https://toutiao.io/k/bjuxka6) ![](assets/new.png)  
-- [2020-08-16-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-16-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-16-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
-- [2020-08-16-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
-- [2020-08-16-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-16-遇到困难的时候你会和谁说](https://toutiao.io/k/d1qirzo) ![](assets/new.png)  
+- [2020-08-16-Python-函数为什么会默认返回-None？](https://toutiao.io/k/5ldsr7i) ![](assets/new.png)  
+- [2020-08-16-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-16-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-16-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-16-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-16-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-16-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
 - [2020-08-16-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
-- [2020-08-16-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
-- [2020-08-16-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-16-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

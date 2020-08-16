@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-16 12:48:34，:rocket: 更新条数: +3283， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-16 13:02:46，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -792,6 +792,26 @@
 </summary>
 
 
+- [2020-08-14-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/4c942683e6bca89c942ba0b335f1becc) ![](assets/new.png)  
+- [2020-08-13-GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24) ![](assets/new.png)  
+- [2020-08-10-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/275ad2fd95cd8464f6628b9bf93a9595) ![](assets/new.png)  
+- [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) ![](assets/new.png)  
+- [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4) ![](assets/new.png)  
+- [2020-08-03-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/8622926e340dfe4280f19700b1ee842d) ![](assets/new.png)  
+- [2020-07-28-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/e8e5a804eb3e23cdd6b164c00b42a79b) ![](assets/new.png)  
+- [2020-07-27-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/048e1304836c9fbd4f15a6d64473f0c9) ![](assets/new.png)  
+- [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) ![](assets/new.png)  
+- [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) ![](assets/new.png)  
+- [2020-07-16-程序员给自己简历中埋的5个雷点](https://www.ershicimi.com/p/f94c5e36a24615de1cc7f5ad37edac05) ![](assets/new.png)  
+- [2020-07-13-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/d4461ae1d17f7dc46e2028920b7b2b6f) ![](assets/new.png)  
+- [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) ![](assets/new.png)  
+- [2020-07-07-【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6) ![](assets/new.png)  
+- [2020-07-06-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/bdcb031876cb4a1ccf3e34e88ceb7dec) ![](assets/new.png)  
+- [2020-07-03-真的！！！两行css代码实现瀑布流，html,css最简单的瀑布流实现方式且没有缺点！](https://www.ershicimi.com/p/cd371b537f54318e95d7b5842c195697) ![](assets/new.png)  
+- [2020-07-01-React开发必须知道的34个技巧](https://www.ershicimi.com/p/5fd3fea3e708fdde0f7d0f1425fd0aea) ![](assets/new.png)  
+- [2020-06-29-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/d43337bede38d0646400dc74efdb4162) ![](assets/new.png)  
+- [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) ![](assets/new.png)  
+- [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1063,26 +1083,6 @@
 </summary>
 
 
-- [2020-08-16-一次蚂蚁金服的辛酸面试历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13687&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlGMB3sdVbQFkmaDL_cgvyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-JetPack系列-Paging-3.0学习-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13686&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOKLlU1LtF1LvFHDbgkrMkA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-程序员不应该错过的-7-大导航-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13685&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1k_JILzNoRbh14mu--5cHw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-Android-AES加密（Kotlin）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13684&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FENUca2jF0V4OVnUyMyluAA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-学计算机的女生，是一种怎样的存在？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13683&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtKOFvcv6F-IVpSlGy0Asyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-蓝绿大厂之争，国产手机逆袭除了自研芯片还能靠啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13682&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbR3IGteDHE0q9MdfnN-ufg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-张一鸣：我的大学四年收获及工作感悟-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13680&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSVvNPdsfZS3kLFy3wWe33g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-如何优雅地向老师表达：我这周任务没啥进展？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13679&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDTGUSO0gF4v76zJ1YU5kLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-强推-16-款-IDEA-插件，让你的开发速度飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13678&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvLmgi509ND6MnlxqszxCIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-分享一个Flink-checkpoint失败的问题和解决办法-club.perfma.com](https://blogread.cn/news/go.php?idItem=13677&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1733519%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-API设计的几条原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-怎样消灭Bug？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-优先改进哪个点：捏软柿子还是啃硬骨头？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13674&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontinuous-improvement-priority%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-领域对象发展的极致就是代理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13673&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dynamic-domian-modelling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-Android架构设计--MVP模式第（二）篇，如何减少类爆炸-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13672&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUWY_f4XP5E-RZ-nhVp7EeA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-LiveDataBus-的实现比你想象中的简单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13670&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA8uIFxma10pI87u6YPC3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-做运维前后的变化，看懂的人都哭了（慎入）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13669&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCog13wfdQSQzhqKQuwS0QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-16-如何诊断-Linux-服务器的性能？10个工具助力你-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13668&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjvKvIQUCrybW4F1VMICVlA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1099,21 +1099,21 @@
 - [2020-08-16-记一次-Sqlalchemy-Session-问题](https://toutiao.io/k/f4yv4kl) ![](assets/new.png)  
 - [2020-08-16-Dubbo-协议解析与-ESA-RPC-实践](https://toutiao.io/k/gsdn4sv) ![](assets/new.png)  
 - [2020-08-16-利用-puppeteer-来录制网页操作导出-GIF-动图](https://toutiao.io/k/hj0qn2o) ![](assets/new.png)  
-- [2020-08-16-AutoUpdater-迁移到-GitHub](https://toutiao.io/k/kqq70of) ![](assets/new.png)  
 - [2020-08-16-基于-Kotlin-+-Netty-实现一个简单的-TCP-自定义协议](https://toutiao.io/k/ndmodxj) ![](assets/new.png)  
+- [2020-08-16-AutoUpdater-迁移到-GitHub](https://toutiao.io/k/kqq70of) ![](assets/new.png)  
 - [2020-08-16-首家强化学习大规模落地工业应用，快手是如何做到的？](https://toutiao.io/k/rvwz7yj) ![](assets/new.png)  
 - [2020-08-16-周末干嘛啦？别闲着！](https://toutiao.io/k/qgn6er5) ![](assets/new.png)  
 - [2020-08-16-揭开数组的真面目](https://toutiao.io/k/qdry358) ![](assets/new.png)  
 - [2020-08-16-Asio：创建被动套接字](https://toutiao.io/k/ymrilo7) ![](assets/new.png)  
-- [2020-08-16-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
-- [2020-08-16-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-16-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-16-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
-- [2020-08-16-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-16-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-16-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
 - [2020-08-16-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-16-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-16-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-16-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-16-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-16-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-16-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-16-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-16-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-16-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

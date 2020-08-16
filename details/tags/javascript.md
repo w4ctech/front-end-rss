@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-16 07:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 08:02:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -100,6 +100,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-08-16-用-sequelize.js-操作-sqlite3-数据库在并发写事务时，出现-"SQLITE_BUSY"-的报错，但在用-knex.js-时就没有出现这个错误，问题到底出在哪里？](https://www.v2ex.com/t/698698) 
 - [2020-08-16-关于-Clash-在路由器端的配置，如何使局域网内的设备按指定-规则](https://www.v2ex.com/t/698695) 
 - [2020-08-16-如何把文件格式化成标准的-key-value-格式的-json-文件？](https://www.v2ex.com/t/698691) 
 - [2020-08-16-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

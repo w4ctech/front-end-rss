@@ -15859,6 +15859,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "用 sequelize.js 操作 sqlite3 数据库在并发写事务时，出现 \"SQLITE_BUSY\" 的报错，但在用 knex.js 时就没有出现这个错误，问题到底出在哪里？",
+        "link": "https://www.v2ex.com/t/698698",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "有支持微信电话来电提醒的手表或手环吗？",
+        "link": "https://www.v2ex.com/t/698696",
+        "date": "2020-08-16"
+      },
+      {
         "title": "关于 Clash 在路由器端的配置，如何使局域网内的设备按指定 规则",
         "link": "https://www.v2ex.com/t/698695",
         "date": "2020-08-16"
@@ -15981,11 +15991,6 @@
       {
         "title": "想找个能接活的 Python 游戏程序员，可能需要英语比较好。",
         "link": "https://www.v2ex.com/t/698650",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "为了做鬼畜视频，我开发了一个小工具",
-        "link": "https://www.v2ex.com/t/698646",
         "date": "2020-08-16"
       }
     ]
@@ -16118,13 +16123,13 @@
         "date": "2020-08-16"
       },
       {
-        "title": "利用 puppeteer 来录制网页操作导出 GIF 动图",
-        "link": "https://toutiao.io/k/hj0qn2o",
+        "title": "Dubbo 协议解析与 ESA RPC 实践",
+        "link": "https://toutiao.io/k/gsdn4sv",
         "date": "2020-08-16"
       },
       {
-        "title": "Dubbo 协议解析与 ESA RPC 实践",
-        "link": "https://toutiao.io/k/gsdn4sv",
+        "title": "利用 puppeteer 来录制网页操作导出 GIF 动图",
+        "link": "https://toutiao.io/k/hj0qn2o",
         "date": "2020-08-16"
       },
       {
@@ -16158,53 +16163,8 @@
         "date": "2020-08-16"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
         "date": "2020-08-16"
       },
       {
@@ -16213,8 +16173,28 @@
         "date": "2020-08-16"
       },
       {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
         "date": "2020-08-16"
       },
       {
@@ -16223,13 +16203,38 @@
         "date": "2020-08-16"
       },
       {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-16"
       },
       {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
         "date": "2020-08-16"
       }
     ]

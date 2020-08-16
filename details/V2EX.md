@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-16 05:02:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 05:09:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-16-又拍云-CDN-恶意请求被屏蔽后仍然在继续扣费](https://www.v2ex.com/t/698665) 
 - [2020-08-16-puppeteer-的-goto-方法响应十分慢，可能是什么原因？](https://www.v2ex.com/t/698663) 
 - [2020-08-16-pixel-2xl-续航如何？](https://www.v2ex.com/t/698662) 
 - [2020-08-16-问一些以后转行程序员的问题](https://www.v2ex.com/t/698660) 

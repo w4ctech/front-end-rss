@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-16 21:09:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 21:19:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-16-毕业两年的-UI，现在来深圳，找工作容易不？](https://www.v2ex.com/t/698798) 
 - [2020-08-16-pixel-3a-跟-pixel-2xl-再改装-ram-你回选择哪个](https://www.v2ex.com/t/698797) 
 - [2020-08-16-RouterOS-开始支持-DoH](https://www.v2ex.com/t/698795) 
 - [2020-08-16-计算机专业的运维转行程序员，打算以美国-FLAG-为目标。要做什么准备呢？](https://www.v2ex.com/t/698794) 
@@ -34,4 +35,3 @@
 - [2020-08-16-北京有哪些好玩的地方](https://www.v2ex.com/t/698754) 
 - [2020-08-16-miui-怎么快速切换-hce-钱包和小米钱包](https://www.v2ex.com/t/698752) 
 - [2020-08-16-DB-大神有空有意向的可以关注下](https://www.v2ex.com/t/698750) 
-- [2020-08-16-现在可以在-Python-中使用-rubi-来解不定积分了么？](https://www.v2ex.com/t/698748) 

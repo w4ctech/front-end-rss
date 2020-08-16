@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-16 01:02:19，:rocket: 更新条数: +3512， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-16 01:10:26，:rocket: 更新条数: +3514， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-16-国家卫健委：15日新增确诊病例19例-其中境外输入病例15例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiTvpaeAHab6717QKBnKQ200816&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-上海15日新增5例境外输入新冠肺炎确诊病例-新增治愈出院5例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fdqc1si8g5TCV2xqs4j200816&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-丹麦世卫专家：一些欧洲国家夏季防控松懈致疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiExT1UL0JgCo71Aw500IJ200816&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-秘鲁新冠肺炎确诊病例逾51万例，拟在9月对全体监狱服刑及工作人员进行病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilsLiLnJdLxFuCTbSaRYf200816&isfromapp=1) ![](assets/new.png)  
 - [2020-08-15-世卫组织：全球新增294237例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX6mE6YuRl4xUuZmtJjnz200816&isfromapp=1) ![](assets/new.png)  
-- [2020-08-15-​肯尼亚首都居民新冠肺炎确诊率超千分之四](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLR5dMdKtgg2yx84A1zqj200816&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,8 @@
 </summary>
 
 
+- [2020-08-16-120-收爱奇艺，腾讯和网易云，再-45-看一个京东](https://www.v2ex.com/t/698610) ![](assets/new.png)  
+- [2020-08-16-求一个-sed-脚本-转义行中的引号](https://www.v2ex.com/t/698609) ![](assets/new.png)  
 - [2020-08-16-关于-Python-封装-seleum-与自动登录是否冲突](https://www.v2ex.com/t/698606) ![](assets/new.png)  
 - [2020-08-16-睡一觉开机后微信、QQ-登录状态、chrome-打开保留关闭前的网页](https://www.v2ex.com/t/698605) ![](assets/new.png)  
 - [2020-08-15-针对-Python-学习者的-Linux-入门视频集](https://www.v2ex.com/t/698603) ![](assets/new.png)  
@@ -1090,8 +1092,6 @@
 - [2020-08-15-Mac-的-Boot-Camp-能装精简版的-win10-吗？](https://www.v2ex.com/t/698586) ![](assets/new.png)  
 - [2020-08-15-躺着敲代码的笔记本桌推荐？](https://www.v2ex.com/t/698585) ![](assets/new.png)  
 - [2020-08-15-一个简单的音乐聚合网站，试图减少你来回切换音乐软件的烦恼~](https://www.v2ex.com/t/698584) ![](assets/new.png)  
-- [2020-08-15-为什么啊？两台华硕-AC86U，刷了同一个原版梅林固件文件，一个出现-UU-加速器，一个没有](https://www.v2ex.com/t/698582) ![](assets/new.png)  
-- [2020-08-15-iPad-扩容有什么需要注意的地方吗？](https://www.v2ex.com/t/698580) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,19 +1141,19 @@
 - [2020-08-16-记一次-Sqlalchemy-Session-问题](https://toutiao.io/k/f4yv4kl) ![](assets/new.png)  
 - [2020-08-16-基于-Kotlin-+-Netty-实现一个简单的-TCP-自定义协议](https://toutiao.io/k/ndmodxj) ![](assets/new.png)  
 - [2020-08-16-首家强化学习大规模落地工业应用，快手是如何做到的？](https://toutiao.io/k/rvwz7yj) ![](assets/new.png)  
-- [2020-08-16-Dubbo-协议解析与-ESA-RPC-实践](https://toutiao.io/k/gsdn4sv) ![](assets/new.png)  
 - [2020-08-16-AutoUpdater-迁移到-GitHub](https://toutiao.io/k/kqq70of) ![](assets/new.png)  
+- [2020-08-16-Dubbo-协议解析与-ESA-RPC-实践](https://toutiao.io/k/gsdn4sv) ![](assets/new.png)  
 - [2020-08-16-Asio：创建被动套接字](https://toutiao.io/k/ymrilo7) ![](assets/new.png)  
 - [2020-08-16-揭开数组的真面目](https://toutiao.io/k/qdry358) ![](assets/new.png)  
 - [2020-08-16-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-16-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
-- [2020-08-16-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-16-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
-- [2020-08-16-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-16-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-16-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-16-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
 - [2020-08-16-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-16-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-16-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
+- [2020-08-16-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-16-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
 - [2020-08-16-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-16-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

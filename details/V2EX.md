@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-16 01:02:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 01:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-16-120-收爱奇艺，腾讯和网易云，再-45-看一个京东](https://www.v2ex.com/t/698610) 
+- [2020-08-16-求一个-sed-脚本-转义行中的引号](https://www.v2ex.com/t/698609) 
 - [2020-08-16-关于-Python-封装-seleum-与自动登录是否冲突](https://www.v2ex.com/t/698606) 
 - [2020-08-16-睡一觉开机后微信、QQ-登录状态、chrome-打开保留关闭前的网页](https://www.v2ex.com/t/698605) 
 - [2020-08-15-针对-Python-学习者的-Linux-入门视频集](https://www.v2ex.com/t/698603) 

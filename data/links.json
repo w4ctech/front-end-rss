@@ -12702,6 +12702,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "国家卫健委：15日新增确诊病例19例 其中境外输入病例15例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiTvpaeAHab6717QKBnKQ200816&isfromapp=1",
+        "date": "2020-08-16"
+      },
+      {
         "title": "上海15日新增5例境外输入新冠肺炎确诊病例 新增治愈出院5例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fdqc1si8g5TCV2xqs4j200816&isfromapp=1",
         "date": "2020-08-15"
@@ -12719,11 +12724,6 @@
       {
         "title": "世卫组织：全球新增294237例新冠肺炎确诊病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX6mE6YuRl4xUuZmtJjnz200816&isfromapp=1",
-        "date": "2020-08-15"
-      },
-      {
-        "title": "​肯尼亚首都居民新冠肺炎确诊率超千分之四",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLR5dMdKtgg2yx84A1zqj200816&isfromapp=1",
         "date": "2020-08-15"
       }
     ]
@@ -16940,6 +16940,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "120 收爱奇艺，腾讯和网易云，再 45 看一个京东",
+        "link": "https://www.v2ex.com/t/698610",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "求一个 sed 脚本 转义行中的引号",
+        "link": "https://www.v2ex.com/t/698609",
+        "date": "2020-08-16"
+      },
+      {
         "title": "关于 Python 封装 seleum 与自动登录是否冲突",
         "link": "https://www.v2ex.com/t/698606",
         "date": "2020-08-16"
@@ -17234,13 +17244,13 @@
         "date": "2020-08-16"
       },
       {
-        "title": "Dubbo 协议解析与 ESA RPC 实践",
-        "link": "https://toutiao.io/k/gsdn4sv",
+        "title": "AutoUpdater 迁移到 GitHub",
+        "link": "https://toutiao.io/k/kqq70of",
         "date": "2020-08-16"
       },
       {
-        "title": "AutoUpdater 迁移到 GitHub",
-        "link": "https://toutiao.io/k/kqq70of",
+        "title": "Dubbo 协议解析与 ESA RPC 实践",
+        "link": "https://toutiao.io/k/gsdn4sv",
         "date": "2020-08-16"
       },
       {
@@ -17259,33 +17269,8 @@
         "date": "2020-08-16"
       },
       {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-16"
       },
       {
@@ -17294,28 +17279,18 @@
         "date": "2020-08-16"
       },
       {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-16"
-      },
-      {
         "title": "[推荐] Go 调试分析的高阶技巧",
         "link": "https://toutiao.io/k/onlqg3p",
         "date": "2020-08-16"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
         "date": "2020-08-16"
       },
       {
@@ -17324,8 +17299,43 @@
         "date": "2020-08-16"
       },
       {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
         "date": "2020-08-16"
       }
     ]

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-16 09:03:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 09:09:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-16-微信-iPad-版和-Mac-版里的公众号不能同步近期所有文章](https://www.v2ex.com/t/698717) 
+- [2020-08-16-产品经理有哪些博客、播客、up-主、网站推荐关注？](https://www.v2ex.com/t/698716) 
 - [2020-08-16-应届生参加校招才发现-hr-面是最难的](https://www.v2ex.com/t/698713) 
 - [2020-08-16-求推荐个-app-备份软件](https://www.v2ex.com/t/698712) 
 - [2020-08-16-做个调查，当前你正在看哪些开源项目的源代码？](https://www.v2ex.com/t/698711) 
@@ -28,4 +30,3 @@
 - [2020-08-16-显示器因为冰箱和空调的运作突然黑屏？](https://www.v2ex.com/t/698674) 
 - [2020-08-16-pve-单网口问题](https://www.v2ex.com/t/698673) 
 - [2020-08-16-杭州滨江开源数据科学平台-Tech-Lead--数据库系统方向](https://www.v2ex.com/t/698670) 
-- [2020-08-16-Python-的-pickle-或者-shelve-库为什么不能-dump-一个-gevent-协程对象](https://www.v2ex.com/t/698667) 

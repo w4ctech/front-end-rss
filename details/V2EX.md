@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-16 01:21:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 01:31:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -34,4 +34,3 @@
 - [2020-08-15-［吐槽］-iCloud-是垃圾堆吗？啥-app-都往里面备份数据？](https://www.v2ex.com/t/698571) 
 - [2020-08-15-卧室照明的色温多少比较好？](https://www.v2ex.com/t/698570) 
 - [2020-08-15-北京美团-交易系统平台-会员中心-高级-Java-工程师/资深-Java-工程师/-Java-技术专家25K-50K](https://www.v2ex.com/t/698568) 
-- [2020-08-15-JavaEE-开发中通常都会有-@Controller-@Service-@Repository-三层，较真地说，-SpringMVC-中的-C-到底是其中的-@Controller-层还是三层合一？](https://www.v2ex.com/t/698564) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-16 13:31:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 13:33:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2306,6 +2306,12 @@
 - [2020-07-31-2020Web前端高薪攻略.pdf](https://www.ershicimi.com/p/3ec145e065b39a7e96183e085f6d80ad) 
 - [2020-07-28-三年，我从语文老师到支付宝技术前端的蜕变](https://www.ershicimi.com/p/0cd696d9ddd5c9ce61f916b1d5b5e4a6) 
 - [2020-07-27-4-个技能，帮你提升跳槽信心](https://www.ershicimi.com/p/1fd2900872b0b5f7614afe72ab900d8c) 
+- [2020-08-14-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/028dbbcbb3938f10867f149ba1fea2cd) 
+- [2020-08-14-手写一个微前端框架（内含源码地址）](https://www.ershicimi.com/p/7341dd001b382e42afba5dbe9268e5d4) 
+- [2020-08-13-「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://www.ershicimi.com/p/5a36397261e32a83f9ae682afc161313) 
+- [2020-08-10-前端异常监控解决方案研究](https://www.ershicimi.com/p/988ba9f3360ab57c14e9170b1f18bb33) 
+- [2020-08-06-当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/ce54d965ae7a10518b93d50a0c97f0ff) 
+- [2020-08-05-如何精确统计页面停留时长](https://www.ershicimi.com/p/2859c84d8994c04ae3504184d111fc90) 
 - [2020-08-13-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/cb6be2563b3c79ea671ec0486006c539) 
 - [2020-08-10-手把手教你如何实现大量图片的自适应图片页面的排列](https://www.ershicimi.com/p/2b8ef8a957b0a8b429917fafe7908ce6) 
 - [2020-08-07-干货报告：八大科技领域，280-页，InfoQ《2020-中国技术发展白皮书》开放下载](https://www.ershicimi.com/p/5648fc6188eb34d24a24792d049674db) 
@@ -2318,12 +2324,6 @@
 - [2020-07-22-如何用函数框架快速开发大型-Web-应用-|-实战](https://www.ershicimi.com/p/e16ae7ca242b28c21744fe8477891858) 
 - [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html) 
 - [2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html) 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [2020-08-14-奇舞周刊第-360-期：-API-设计的几条原则](https://www.ershicimi.com/p/81d264b9b908a30db0537fd22c56ae8f) 
 - [2020-08-13-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/202b21f9d90c1818d553dab44f4fb92e) 
 - [2020-08-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4b4bbc116c4b2037194f5c0695a61d7d) 

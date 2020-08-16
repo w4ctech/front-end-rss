@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-16 07:09:54，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-16 07:19:33，:rocket: 更新条数: +733， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-08-15-最新疫情：全国新冠累计确诊84827例-新增境外输入15例](https://m.caixin.com/m/2020-08-16/101593296.html) ![](assets/new.png)  
-- [2020-08-15-【境内疫情观察】全国新增15例境外输入病例（8月15日）](http://m.database.caixin.com/m/2020-08-16/101593302.html) ![](assets/new.png)  
-- [2020-08-14-深圳21家盒马门店停业-部分市民免费检测核酸](https://m.caixin.com/m/2020-08-15/101593109.html) ![](assets/new.png)  
-- [2020-08-14-最新海外疫情：新冠感染超2108万-累计死亡超76万](http://m.international.caixin.com/m/2020-08-15/101593206.html) ![](assets/new.png)  
-- [2020-08-14-【境内疫情观察】广东新增1例本土病例（8月14日）](http://m.database.caixin.com/m/2020-08-15/101593194.html) ![](assets/new.png)  
-- [2020-08-14-大流行手记|8月14日：英国再购近1亿剂疫苗-俄疫苗寻求世卫资格预审](https://m.caixin.com/m/2020-08-15/101593099.html) ![](assets/new.png)  
-- [2020-08-13-反思新冠疫情，中疾控原副主任撰文详解传染病预警机制怎么改](https://m.caixin.com/m/2020-08-14/101592909.html) ![](assets/new.png)  
-- [2020-08-13-香港新增病例连续12日保持双位数-疫情蔓延至外佣群体](https://m.caixin.com/m/2020-08-14/101593005.html) ![](assets/new.png)  
-- [2020-08-13-【境内疫情观察】上海新增16例境外输入病例（8月13日）](http://m.database.caixin.com/m/2020-08-14/101592707.html) ![](assets/new.png)  
-- [2020-08-13-大流行手记|8月13日：全球数百人因新冠错误信息死亡-新西兰疑冷库货物输入病毒](https://m.caixin.com/m/2020-08-14/101592513.html) ![](assets/new.png)  
-- [2020-08-13-深圳盒马鲜生员工在老家确诊新冠-两名同事核酸阳性无症状](https://m.caixin.com/m/2020-08-14/101593019.html) ![](assets/new.png)  
-- [2020-08-13-广东陆丰发现1例新冠肺炎确诊病例，为深圳超市员工](https://m.caixin.com/m/2020-08-14/101592985.html) ![](assets/new.png)  
-- [2020-08-12-新发地8月15日起正式复市-不再对个人消费者开放](https://m.caixin.com/m/2020-08-13/101592402.html) ![](assets/new.png)  
-- [2020-08-12-【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html) ![](assets/new.png)  
-- [2020-08-12-大流行手记|8月12日：近40万美国儿童感染新冠-巴西阿根廷安排学校复课](https://m.caixin.com/m/2020-08-13/101592096.html) ![](assets/new.png)  
-- [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
-- [2020-08-12-巴西一州决定测试生产俄罗斯疫苗](http://m.international.caixin.com/m/2020-08-13/101592371.html) ![](assets/new.png)  
-- [2020-08-11-【境内疫情观察】全国8省份新增境外输入病例16例（8月11日）](http://m.database.caixin.com/m/2020-08-12/101591859.html) ![](assets/new.png)  
-- [2020-08-11-大流行手记|8月11日：俄注册全球首款新冠疫苗-新西兰102天后再现本土病例](https://m.caixin.com/m/2020-08-12/101591634.html) ![](assets/new.png)  
-- [2020-08-11-境外输入新冠病例反弹-中东中亚务工回国人员为主](https://m.caixin.com/m/2020-08-12/101591994.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -291,6 +271,26 @@
 </summary>
 
 
+- [2020-08-15-JavaScript最大的秘密](https://www.ershicimi.com/p/697382eab9b61edfb064ab2f078de6d7) ![](assets/new.png)  
+- [2020-08-14-揭秘内幕：华为内部使用的vue技术公开](https://www.ershicimi.com/p/ec85f985997b000cbbc5b08706318dcc) ![](assets/new.png)  
+- [2020-08-14-如果前端学习只能推荐一本书，我只能吐血推荐这本](https://www.ershicimi.com/p/0fb643b36021a53fe42f65e5afe47334) ![](assets/new.png)  
+- [2020-08-13-VSCode-的这些黑科技-99%-的人都不知道](https://www.ershicimi.com/p/d596b9806acf2a79684616e11fb87360) ![](assets/new.png)  
+- [2020-08-12-推荐一个移动端比赛，6万+总奖金](https://www.ershicimi.com/p/4fd36792074cc1f522018fcee5b62475) ![](assets/new.png)  
+- [2020-08-12-a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站…z站？](https://www.ershicimi.com/p/2236a4928b61a1a4c9f88b025171ad7d) ![](assets/new.png)  
+- [2020-08-11-想在一线城市买房，大家帮忙看看钱够吗？](https://www.ershicimi.com/p/c4b64994b6427165f869f7e0b89e41a1) ![](assets/new.png)  
+- [2020-08-11-『1W7字中高级前端面试必知必会』终极版](https://www.ershicimi.com/p/20ce725bd473667ae5ddd1742165d8cd) ![](assets/new.png)  
+- [2020-08-10-6种移动端-1px-解决方案完整版](https://www.ershicimi.com/p/845c294ed4ae93eb3cb92d3e399573dc) ![](assets/new.png)  
+- [2020-08-07-ES11-来了，还学得动吗？](https://www.ershicimi.com/p/8678a2659961bc8c5aaca6acd87871ce) ![](assets/new.png)  
+- [2020-08-06-今年想离职有多难？](https://www.ershicimi.com/p/90bc3adad823f4bada2e98cc224ecf13) ![](assets/new.png)  
+- [2020-08-06-node_modules-困境](https://www.ershicimi.com/p/624d81abb744ab9f4a0781907c37a4e4) ![](assets/new.png)  
+- [2020-08-05-2万字！90个前端开发面试必问基础大总结](https://www.ershicimi.com/p/29bfa617feb719e3f7063eb358232dbe) ![](assets/new.png)  
+- [2020-08-04-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/b1f934f2e3176b107d43f118ae3e4998) ![](assets/new.png)  
+- [2020-08-04-Vue版的团队代码规范](https://www.ershicimi.com/p/4c98dcb82fb6941f3ad338180c8b21c5) ![](assets/new.png)  
+- [2020-08-03-你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/93578da8ee8a23416b0a42c0e692eb45) ![](assets/new.png)  
+- [2020-08-03-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/857f78c739dbb63c0434f44cb6385b59) ![](assets/new.png)  
+- [2020-08-01-前端登录，这一篇就够了](https://www.ershicimi.com/p/f5810b6aca92e17e121abcc608e44921) ![](assets/new.png)  
+- [2020-07-31-没错，华为又对前端下手了！](https://www.ershicimi.com/p/f4c6c88a1974b3ee832e72a3fd7634eb) ![](assets/new.png)  
+- [2020-07-31-25-个实用前端网站工具推荐](https://www.ershicimi.com/p/3ed2bde25cb9c1bd5f6f4a6b424fc1e0) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1001,26 +1001,6 @@
 </summary>
 
 
-- [2020-08-14-中国人都有什么有意思的特色-Buff？](https://www.ershicimi.com/p/b681e42d3d92a42ee176109e1c06c53d) ![](assets/new.png)  
-- [2020-08-14-解说争霸，赢奖金-|-寻找全网最强影视视频解说](https://www.ershicimi.com/p/1d7122c242b40a8b379813cf5d0b1653) ![](assets/new.png)  
-- [2020-08-14-知乎故事-|-我不小心把猫放进滚筒洗衣机了](https://www.ershicimi.com/p/e527ae0f312d8790634cc32ea2f193f7) ![](assets/new.png)  
-- [2020-08-13-知乎好问题：既然所有的生命都要死亡，那么生命的意义是什么？](https://www.ershicimi.com/p/e03c34c8a0fca6e0a58dd73e449fa4be) ![](assets/new.png)  
-- [2020-08-13-剖腹产过后，我发现我竟然不爱我的女儿，这正常吗？](https://www.ershicimi.com/p/4e75d8e2685b65a780ba32b98cb2b486) ![](assets/new.png)  
-- [2020-08-13-自律，是治愈一切迷茫的良药](https://www.ershicimi.com/p/be063ed5d6a41b361bbdda2858be1831) ![](assets/new.png)  
-- [2020-08-13-知乎故事-|-未来岳父邀你下棋，是展现实力还是巧妙输掉？](https://www.ershicimi.com/p/35ce85c8f565173afe2db0fa9e7eb577) ![](assets/new.png)  
-- [2020-08-12-知乎新发现：全知乎最热门的学校竟然不是-985！](https://www.ershicimi.com/p/06fb3f62654b746d0a41563dcb475bab) ![](assets/new.png)  
-- [2020-08-12-法律高手是如何「炼」成的？](https://www.ershicimi.com/p/5098af4804001c110836bcd6fb01074b) ![](assets/new.png)  
-- [2020-08-12-知乎故事-|-你能容忍你的朋友在你租的单间房蹭住多少天？](https://www.ershicimi.com/p/571ea0d9202b91933e0efcea410c5337) ![](assets/new.png)  
-- [2020-08-11-知乎高赞：有哪些人际关系方面的小技巧可以保护自己？](https://www.ershicimi.com/p/4eba04e278d4f27e7a98c5ba94f803d5) ![](assets/new.png)  
-- [2020-08-11-为什么周星驰电影中会出现那么多丑化的女性形象?](https://www.ershicimi.com/p/0faaf8e46d8da6342c777ac9ab183fee) ![](assets/new.png)  
-- [2020-08-11-知乎故事-|-如果清穿成溥仪，怎么合理的把烂牌盘活呢？](https://www.ershicimi.com/p/0da7a4fdb31c108d2c857315b9d307cb) ![](assets/new.png)  
-- [2020-08-10-你最爱的纯棉衣服其实既不天然，也不环保，甚至比化纤添加剂还多](https://www.ershicimi.com/p/8a54df079ee4d7d8611a13ba364619f7) ![](assets/new.png)  
-- [2020-08-10-真正的成年人，都该进来学习怎么正确戴套](https://www.ershicimi.com/p/8201f11803c91635e7efbde1df0683a5) ![](assets/new.png)  
-- [2020-08-10-iPad-里藏的-102-颗磁铁，有什么用？](https://www.ershicimi.com/p/3af977fd8467814affbe90d61f6c25d9) ![](assets/new.png)  
-- [2020-08-10-知乎故事-|-年纪轻轻得了痛风是什么感受？](https://www.ershicimi.com/p/f472994c01c2866bc9f9f137dd23cab4) ![](assets/new.png)  
-- [2020-08-09-本周知乎热榜-|-我国人均国民总收入首破-1-万美元，「三十而已」大结局，拼多多厕所坑位风波](https://www.ershicimi.com/p/63d102381655ff6607a80cd55ed698fd) ![](assets/new.png)  
-- [2020-08-09-动漫作品中最长的一天是哪天？](https://www.ershicimi.com/p/5dfaf67bcf3c86ac5cbfef46e9207f01) ![](assets/new.png)  
-- [2020-08-09-2020-我删除无数个公众号，只留下了这-7-个](https://www.ershicimi.com/p/372a814e05992b38c51ebdb41c19da24) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,15 +1085,15 @@
 - [2020-08-16-周末干嘛啦？别闲着！](https://toutiao.io/k/qgn6er5) ![](assets/new.png)  
 - [2020-08-16-揭开数组的真面目](https://toutiao.io/k/qdry358) ![](assets/new.png)  
 - [2020-08-16-Asio：创建被动套接字](https://toutiao.io/k/ymrilo7) ![](assets/new.png)  
-- [2020-08-16-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
-- [2020-08-16-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-16-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
-- [2020-08-16-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-16-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-16-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-16-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-16-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [2020-08-16-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-16-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
-- [2020-08-16-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-16-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-16-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-16-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
+- [2020-08-16-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-16-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-16-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

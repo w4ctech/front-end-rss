@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-16 16:48:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 17:02:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -12,7 +12,6 @@
 - [2020-08-16-有关软路由的散热有什么建议吗？](https://www.v2ex.com/t/698789) 
 - [2020-08-16-FutureTask-里使用普通语义而不是-CAS-写的原因是？](https://www.v2ex.com/t/698787) 
 - [2020-08-16-带触控条的-MacBookPro-要按两下-Esc-才能取消输入法](https://www.v2ex.com/t/698785) 
-- [2020-08-16-有一说一，长得帅的-v-友都点击来回复了，问问-mbp-性能问题](https://www.v2ex.com/t/698781) 
 - [2020-08-16-某信不能复制折叠内容了?](https://www.v2ex.com/t/698780) 
 - [2020-08-16-wps-的迷之操作含义](https://www.v2ex.com/t/698779) 
 - [2020-08-16-求推荐上海加班少的公司](https://www.v2ex.com/t/698778) 

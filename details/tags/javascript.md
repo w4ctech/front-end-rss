@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-16 13:33:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 13:46:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -83,6 +83,7 @@
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4) 
 - [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) 
 - [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) 
@@ -98,8 +99,6 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-08-16-2020-年了，求推荐一款高性能插卡无线路由器](https://www.v2ex.com/t/698731) 
-- [2020-08-16-同源-iframe-如何修改内部-dom？](https://www.v2ex.com/t/698722) 
 - [2020-08-16-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-16-揭开数组的真面目](https://toutiao.io/k/qdry358) 
 - [2020-08-07-【安全圈】路由器,交换机和AnyConnect-VPN中的高度严重漏洞](https://sec.thief.one/article_content?a_id=1c9ffbde3b409b310e18dcadfbe69b72) 

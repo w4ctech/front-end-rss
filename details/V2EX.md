@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-16 05:09:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 05:18:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-16-杭州滨江开源数据科学平台-Tech-Lead--数据库系统方向](https://www.v2ex.com/t/698670) 
+- [2020-08-16-百度搜-base64-解密，这也算涉及敏感？](https://www.v2ex.com/t/698669) 
+- [2020-08-16-Python-的-pickle-或者-shelve-库为什么不能-dump-一个-gevent-协程对象](https://www.v2ex.com/t/698667) 
 - [2020-08-16-又拍云-CDN-恶意请求被屏蔽后仍然在继续扣费](https://www.v2ex.com/t/698665) 
 - [2020-08-16-puppeteer-的-goto-方法响应十分慢，可能是什么原因？](https://www.v2ex.com/t/698663) 
 - [2020-08-16-pixel-2xl-续航如何？](https://www.v2ex.com/t/698662) 
@@ -15,7 +18,6 @@
 - [2020-08-16-网站访问速度慢，设置-dns8.8.4.4-是不是就能块一点？](https://www.v2ex.com/t/698653) 
 - [2020-08-16-笔记本电脑电池充电问题](https://www.v2ex.com/t/698652) 
 - [2020-08-16-想找个能接活的-Python-游戏程序员，可能需要英语比较好。](https://www.v2ex.com/t/698650) 
-- [2020-08-16-月薪-2-万都不到的却敢自称程序员-……](https://www.v2ex.com/t/698648) 
 - [2020-08-16-为了做鬼畜视频，我开发了一个小工具](https://www.v2ex.com/t/698646) 
 - [2020-08-16-为什么每次访问网站都要输验证码？](https://www.v2ex.com/t/698645) 
 - [2020-08-16-iMac-2020，配个全尺寸的-MagicKeyboard-怎么样？](https://www.v2ex.com/t/698641) 
@@ -31,5 +33,3 @@
 - [2020-08-16-经常需要分享文件，有什么好方案吗？](https://www.v2ex.com/t/698624) 
 - [2020-08-16-小白求助：-A1502-系统-10.15.6-时间机器怎么用？](https://www.v2ex.com/t/698622) 
 - [2020-08-16-Reactant:-一个渐进式-React-框架](https://www.v2ex.com/t/698621) 
-- [2020-08-16-AI-名词被滥用](https://www.v2ex.com/t/698620) 
-- [2020-08-16-怎样翻译-Field-?](https://www.v2ex.com/t/698618) 

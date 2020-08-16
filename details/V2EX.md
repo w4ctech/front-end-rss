@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-16 04:48:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 05:02:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-16-puppeteer-的-goto-方法响应十分慢，可能是什么原因？](https://www.v2ex.com/t/698663) 
+- [2020-08-16-pixel-2xl-续航如何？](https://www.v2ex.com/t/698662) 
 - [2020-08-16-问一些以后转行程序员的问题](https://www.v2ex.com/t/698660) 
 - [2020-08-16-免费网游加速器“流星”的马脚露出来了？](https://www.v2ex.com/t/698659) 
 - [2020-08-16-最好的列表协作方式？（比如共享的博客列表，-twitter-列表）](https://www.v2ex.com/t/698657) 
@@ -30,4 +32,3 @@
 - [2020-08-16-Reactant:-一个渐进式-React-框架](https://www.v2ex.com/t/698621) 
 - [2020-08-16-AI-名词被滥用](https://www.v2ex.com/t/698620) 
 - [2020-08-16-怎样翻译-Field-?](https://www.v2ex.com/t/698618) 
-- [2020-08-16-什么时间/渠道购入-ThinkPad-X1-比较可靠优惠？](https://www.v2ex.com/t/698612) 

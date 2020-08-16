@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-16 06:22:34，:rocket: 更新条数: +3265， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-16 06:31:36，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-08-15-最新疫情：全国新冠累计确诊84827例-新增境外输入15例](https://m.caixin.com/m/2020-08-16/101593296.html) ![](assets/new.png)  
 - [2020-08-14-深圳21家盒马门店停业-部分市民免费检测核酸](https://m.caixin.com/m/2020-08-15/101593109.html) ![](assets/new.png)  
 - [2020-08-14-最新海外疫情：新冠感染超2108万-累计死亡超76万](http://m.international.caixin.com/m/2020-08-15/101593206.html) ![](assets/new.png)  
 - [2020-08-14-【境内疫情观察】广东新增1例本土病例（8月14日）](http://m.database.caixin.com/m/2020-08-15/101593194.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-11-大流行手记|8月11日：俄注册全球首款新冠疫苗-新西兰102天后再现本土病例](https://m.caixin.com/m/2020-08-12/101591634.html) ![](assets/new.png)  
 - [2020-08-11-境外输入新冠病例反弹-中东中亚务工回国人员为主](https://m.caixin.com/m/2020-08-12/101591994.html) ![](assets/new.png)  
 - [2020-08-11-湖北荆州一新冠患者治愈后再次复阳](http://m.china.caixin.com/m/2020-08-12/101591849.html) ![](assets/new.png)  
-- [2020-08-10-【境内疫情观察】全国8省份新增境外输入病例31例（8月10日）](http://m.database.caixin.com/m/2020-08-11/101591238.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,26 @@
 </summary>
 
 
+- [2020-08-16-为什么-MySQL-的-IN-操作在大于-3-个操作数时不用索引？](https://www.v2ex.com/t/698683) ![](assets/new.png)  
+- [2020-08-16-又来招聘远程开发啦-Golang-区块链开发-|-Typescript-前端开发](https://www.v2ex.com/t/698682) ![](assets/new.png)  
+- [2020-08-16-交易区怎么一大堆出会员的，有点烦](https://www.v2ex.com/t/698681) ![](assets/new.png)  
+- [2020-08-16-为知笔记的-Tab-可以默认是缩进吗？](https://www.v2ex.com/t/698680) ![](assets/new.png)  
+- [2020-08-16-medium-付费会员？](https://www.v2ex.com/t/698675) ![](assets/new.png)  
+- [2020-08-16-显示器因为冰箱和空调的运作突然黑屏？](https://www.v2ex.com/t/698674) ![](assets/new.png)  
+- [2020-08-16-pve-单网口问题](https://www.v2ex.com/t/698673) ![](assets/new.png)  
+- [2020-08-16-杭州滨江开源数据科学平台-Tech-Lead--数据库系统方向](https://www.v2ex.com/t/698670) ![](assets/new.png)  
+- [2020-08-16-Python-的-pickle-或者-shelve-库为什么不能-dump-一个-gevent-协程对象](https://www.v2ex.com/t/698667) ![](assets/new.png)  
+- [2020-08-16-又拍云-CDN-恶意请求被屏蔽后仍然在继续扣费](https://www.v2ex.com/t/698665) ![](assets/new.png)  
+- [2020-08-16-puppeteer-的-goto-方法响应十分慢，可能是什么原因？](https://www.v2ex.com/t/698663) ![](assets/new.png)  
+- [2020-08-16-pixel-2xl-续航如何？](https://www.v2ex.com/t/698662) ![](assets/new.png)  
+- [2020-08-16-问一些以后转行程序员的问题](https://www.v2ex.com/t/698660) ![](assets/new.png)  
+- [2020-08-16-免费网游加速器“流星”的马脚露出来了？](https://www.v2ex.com/t/698659) ![](assets/new.png)  
+- [2020-08-16-最好的列表协作方式？（比如共享的博客列表，-twitter-列表）](https://www.v2ex.com/t/698657) ![](assets/new.png)  
+- [2020-08-16-手机中毒无解](https://www.v2ex.com/t/698656) ![](assets/new.png)  
+- [2020-08-16-网站访问速度慢，设置-dns8.8.4.4-是不是就能块一点？](https://www.v2ex.com/t/698653) ![](assets/new.png)  
+- [2020-08-16-笔记本电脑电池充电问题](https://www.v2ex.com/t/698652) ![](assets/new.png)  
+- [2020-08-16-想找个能接活的-Python-游戏程序员，可能需要英语比较好。](https://www.v2ex.com/t/698650) ![](assets/new.png)  
+- [2020-08-16-为了做鬼畜视频，我开发了一个小工具](https://www.v2ex.com/t/698646) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,8 +1116,8 @@
 
 - [2020-08-16-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
 - [2020-08-16-使用-Hugo-搭建博客](https://toutiao.io/k/pcw56h6) ![](assets/new.png)  
-- [2020-08-16-利用-puppeteer-来录制网页操作导出-GIF-动图](https://toutiao.io/k/hj0qn2o) ![](assets/new.png)  
 - [2020-08-16-记一次-Sqlalchemy-Session-问题](https://toutiao.io/k/f4yv4kl) ![](assets/new.png)  
+- [2020-08-16-利用-puppeteer-来录制网页操作导出-GIF-动图](https://toutiao.io/k/hj0qn2o) ![](assets/new.png)  
 - [2020-08-16-Dubbo-协议解析与-ESA-RPC-实践](https://toutiao.io/k/gsdn4sv) ![](assets/new.png)  
 - [2020-08-16-基于-Kotlin-+-Netty-实现一个简单的-TCP-自定义协议](https://toutiao.io/k/ndmodxj) ![](assets/new.png)  
 - [2020-08-16-周末干嘛啦？别闲着！](https://toutiao.io/k/qgn6er5) ![](assets/new.png)  
@@ -1105,15 +1125,15 @@
 - [2020-08-16-首家强化学习大规模落地工业应用，快手是如何做到的？](https://toutiao.io/k/rvwz7yj) ![](assets/new.png)  
 - [2020-08-16-揭开数组的真面目](https://toutiao.io/k/qdry358) ![](assets/new.png)  
 - [2020-08-16-Asio：创建被动套接字](https://toutiao.io/k/ymrilo7) ![](assets/new.png)  
-- [2020-08-16-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
-- [2020-08-16-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-16-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-16-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
 - [2020-08-16-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-16-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
-- [2020-08-16-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-16-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-16-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-16-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-16-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-16-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-16-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
 - [2020-08-16-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-16-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-16-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

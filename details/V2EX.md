@@ -1,11 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-16 01:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 01:20:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-08-16-120-收爱奇艺，腾讯和网易云，再-45-看一个京东](https://www.v2ex.com/t/698610) 
+- [2020-08-16-什么时间/渠道购入-ThinkPad-X1-比较可靠优惠？](https://www.v2ex.com/t/698612) 
+- [2020-08-16-120-收爱奇艺，腾讯和网易云，再-可能一个-jd](https://www.v2ex.com/t/698610) 
 - [2020-08-16-求一个-sed-脚本-转义行中的引号](https://www.v2ex.com/t/698609) 
 - [2020-08-16-关于-Python-封装-seleum-与自动登录是否冲突](https://www.v2ex.com/t/698606) 
 - [2020-08-16-睡一觉开机后微信、QQ-登录状态、chrome-打开保留关闭前的网页](https://www.v2ex.com/t/698605) 
@@ -34,5 +35,3 @@
 - [2020-08-15-卧室照明的色温多少比较好？](https://www.v2ex.com/t/698570) 
 - [2020-08-15-北京美团-交易系统平台-会员中心-高级-Java-工程师/资深-Java-工程师/-Java-技术专家25K-50K](https://www.v2ex.com/t/698568) 
 - [2020-08-15-JavaEE-开发中通常都会有-@Controller-@Service-@Repository-三层，较真地说，-SpringMVC-中的-C-到底是其中的-@Controller-层还是三层合一？](https://www.v2ex.com/t/698564) 
-- [2020-08-15-求教-pandas-输出到-Excel，=号如何以正常字符串输出并正确显示](https://www.v2ex.com/t/698563) 
-- [2020-08-15-apple-watch-这样的运动手表记录泳池游泳，一趟没游完中途停下来休息也会自动算一趟（设置好的距离）么？](https://www.v2ex.com/t/698562) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-16 15:09:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-16 15:19:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2500,15 +2500,16 @@
 - [2020-08-16-首家强化学习大规模落地工业应用，快手是如何做到的？](https://toutiao.io/k/rvwz7yj) 
 - [2020-08-16-周末干嘛啦？别闲着！](https://toutiao.io/k/qgn6er5) 
 - [2020-08-16-Asio：创建被动套接字](https://toutiao.io/k/ymrilo7) 
-- [2020-08-16-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) 
 - [2020-08-16-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) 
-- [2020-08-16-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
 - [2020-08-16-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
-- [2020-08-16-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) 
-- [2020-08-16-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
-- [2020-08-16-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) 
 - [2020-08-16-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
-- [2020-08-16-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
+- [2020-08-16-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) 
+- [2020-08-16-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
+- [2020-08-16-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
+- [2020-08-16-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
+- [2020-08-16-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) 
+- [2020-08-16-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) 
+- [2020-08-16-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) 
 - [2020-08-15-Struts2-S2-059-漏洞分析](https://sec.thief.one/article_content?a_id=1e81e408d726a4c620d3af6f49b8b4df) 
 - [2020-08-14-CVE-2019-0230:Apache-Struts2远程代码执行漏洞通告](https://sec.thief.one/article_content?a_id=1d627d72a4a6ff90ae9e29871b0db55e) 
 - [2020-08-13-红队渗透手册之免杀篇](https://sec.thief.one/article_content?a_id=d228e82dbf1bf060bcfd097026dd9efe) 

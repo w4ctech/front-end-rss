@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-17 04:20:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 04:21:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -58,7 +58,7 @@
 - [【前端宇宙】为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/41df4d9cbc8e82472ed966915bc2ee9d)
 - [【前端瓶子君】React-v17.0-RC-版本发布：无新特性](https://www.ershicimi.com/p/ff456d5ca653daace51493c34c5d301a)
 - [【前端瓶子君】代数效应与React](https://www.ershicimi.com/p/2a8c7c1d0b96859f4d0a81633168a9f2)
-- [【奇舞周刊】React17新特性：启发式更新算法](https://www.ershicimi.com/p/e8426b680d9e54dd7b0e8e2bf99ed27a)
+- [【Nodejs技术栈】从零手写实现-React16-中的-Fiber-架构](https://www.ershicimi.com/p/8247a6aef4810f765657eb88130495d8)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -147,6 +147,7 @@
 - [【前端宇宙】13-个-你应该知道的-npm-快速开发技巧](https://www.ershicimi.com/p/f3ffb0316cd205ad9ebb79b6f85c5328)
 - [【前端瓶子君】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/487ca56b404864dbaaa907bf0334c2b5)
 - [【前端瓶子君】在NPM上发布beta或alpha版](https://www.ershicimi.com/p/34b981b9bbda2a2019d900ecb99359e8)
+- [【Nodejs技术栈】13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【开发者头条】推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi)
 - [......【查看更多】......](./details/tags/pack-build.md)
@@ -175,6 +176,12 @@
 - [【程序员成长指北】用（Node+MongoDB）搭建简单的图床或者网盘](https://www.ershicimi.com/p/1580806542907ddbaeebddd0a4f582b0)
 - [【程序员成长指北】Node.js-进阶之-fs-文件模块学习](https://www.ershicimi.com/p/d1ef4d94506b4cee89f625b399f7410a)
 - [【程序员成长指北】Node.js---200-多行代码实现-Websocket-协议](https://www.ershicimi.com/p/8ef2e8b38849932dc70b7afccac95337)
+- [【Nodejs技术栈】一杯茶的时间，上手-Koa2-+-MySQL-开发](https://www.ershicimi.com/p/c7db98ad78904e16b74e417ea79c2233)
+- [【Nodejs技术栈】CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b)
+- [【Nodejs技术栈】写在前面-—-为什么-2020-还要学-Node.js](https://www.ershicimi.com/p/29c03005193c1b449c3e2f8dd8661176)
+- [【Nodejs技术栈】赠书第-2-期｜Node.js-企业级应用开发实践](https://www.ershicimi.com/p/e15e541682fadd6c6f283df641910553)
+- [【Nodejs技术栈】Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/b1c05458bdcb1ec021f90bcf873addab)
+- [【Nodejs技术栈】Node.js-+-Socket.io-实现一对一即时聊天](https://www.ershicimi.com/p/746bef7a3728af1b081cca4b03f3270d)
 - [【前端日刊】node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2)
 - [【JavaScript】如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776)
 - [......【查看更多】......](./details/tags/nodejs.md)
@@ -499,6 +506,7 @@
 
 - [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
 - [【前端瓶子君】手动实现高仿github的内容diff效果](https://www.ershicimi.com/p/beef59ba18fa75f44e33de487b505c5b)
+- [【Nodejs技术栈】GitHub-真把代码冰封北极-1000-年！](https://www.ershicimi.com/p/38187e751101fa633b95b5998c0ed0bd)
 - [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)

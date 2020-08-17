@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-17 04:20:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 04:21:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2314,6 +2314,11 @@
 - [2020-08-07-干货报告：八大科技领域，280-页，InfoQ《2020-中国技术发展白皮书》开放下载](https://www.ershicimi.com/p/5648fc6188eb34d24a24792d049674db) 
 - [2020-08-06-当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/0843b270fbb17ecc2d1a909a187f76d2) 
 - [2020-08-06-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/a16da8567a128fdcb3bebb194ebe6394) 
+- [2020-08-13-推荐一位优秀的阿里前端小姐姐](https://www.ershicimi.com/p/0848864d299a95f9317ae4f6cf7ca211) 
+- [2020-08-12-语雀的技术架构演进之路](https://www.ershicimi.com/p/e1b307d08b39421d4a384d316bff5979) 
+- [2020-08-11-全面、系统的前端工程化精讲](https://www.ershicimi.com/p/472f1e0365de8327c57f9aab14f8117d) 
+- [2020-07-23-微前端从实战到源码-可能是最完整的版本！](https://www.ershicimi.com/p/8f129ecc57ce670a54e08c76ac3f51f1) 
+- [2020-07-22-如何用函数框架快速开发大型-Web-应用-|-实战](https://www.ershicimi.com/p/e16ae7ca242b28c21744fe8477891858) 
 - [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html) 
 - [2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html) 
 - [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 

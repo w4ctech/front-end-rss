@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-17 15:10:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 15:20:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,5 +42,3 @@
 - [2020-08-17-禁令生效，华为-19-年-5-月-16-日以前生产的手机将不再得到-google-更新](https://www.v2ex.com/t/699074) 
 - [2020-08-17-此问题是否能使用-Java-script-解决](https://www.v2ex.com/t/699072) 
 - [2020-08-17-有点过分-，-iCloud-容量满了，-iCloud-邮件都不能工作了。](https://www.v2ex.com/t/699071) 
-- [2020-08-17-辞职了](https://www.v2ex.com/t/699070) 
-- [2020-08-17-网易杭州Leader-岗位招聘爬虫工程师](https://www.v2ex.com/t/699069) 

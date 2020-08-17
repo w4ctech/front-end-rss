@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 15:10:12，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 15:20:45，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-17-冰岛新冠肺炎确诊病例升至2014例-8月19日将实行更严格入境规则](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibuTADptyE26K7g75FSab200817&isfromapp=1) ![](assets/new.png)  
+- [2020-08-17-香港延长禁止餐厅晚市堂食等社交距离措施直至8月25日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuICPzGhWyZ2APCNWWZrb200817&isfromapp=1) ![](assets/new.png)  
 - [2020-08-17-美航空业新一波失业潮将来临-专家：美经济复苏前景灰暗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieNUjSSXcuoDOm2PfsO6O200817&isfromapp=1) ![](assets/new.png)  
 - [2020-08-17-受疫情影响-泰国经济持续低迷-预计全年GDP将呈现负增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq41akbTxLK7G5861UJec200817&isfromapp=1) ![](assets/new.png)  
 - [2020-08-17-缓解疫情失业压力-新加坡延长四至七个月的补贴期限](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihE8x8pJYj6CaU7CVoqZg200817&isfromapp=1) ![](assets/new.png)  
-- [2020-08-17-香港新增44例新冠肺炎确诊病例-连续15日新增少于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihAqi3kG9JsuP5PRLOdQ5200817&isfromapp=1) ![](assets/new.png)  
-- [2020-08-17-大连全市中小学9月1日正常开学-校园封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyplww0ZvovC0QuxiRIYl200817&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

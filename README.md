@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 18:34:35，:rocket: 更新条数: +3310， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 18:49:21，:rocket: 更新条数: +3310， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-17-美区-App-Store..没有卡..不想买礼品卡..还能用什么办法-内购](https://www.v2ex.com/t/699139) ![](assets/new.png)  
 - [2020-08-17-Rust-核心团队发推回应-Mozilla-裁员](https://www.v2ex.com/t/699138) ![](assets/new.png)  
 - [2020-08-17-刚买的-MacBook-pro-开箱后发现有两个小划痕](https://www.v2ex.com/t/699137) ![](assets/new.png)  
 - [2020-08-17-招安卓全栈（后端极轻），仿-app，带报价来。](https://www.v2ex.com/t/699132) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-17-帮父母买鱼油保健品，海淘还是国内网站买？感觉国内网站买不放心](https://www.v2ex.com/t/699105) ![](assets/new.png)  
 - [2020-08-17-macOS-应用商店应用可以备份吗？](https://www.v2ex.com/t/699102) ![](assets/new.png)  
 - [2020-08-17-如何查看微信上-h5-的源码？](https://www.v2ex.com/t/699101) ![](assets/new.png)  
-- [2020-08-17-刚了解-gin，有一点问题想请教一下](https://www.v2ex.com/t/699100) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

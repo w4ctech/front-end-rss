@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 05:19:08，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 05:20:14，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)![](assets/dot.png)   
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
@@ -477,6 +477,26 @@
 </summary>
 
 
+- [2020-08-17-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/f1e3f318aab513221b27ccb6128dff80) ![](assets/new.png)  
+- [2020-08-16-推介一位前端实力博主朋友：SHERlocked93](https://www.ershicimi.com/p/1fe80950a657593fa6f559fa2a30576d) ![](assets/new.png)  
+- [2020-08-14-阿里政企云体验技术团队招聘](https://www.ershicimi.com/p/c71e634de19ae78652206700d083e332) ![](assets/new.png)  
+- [2020-08-13-前端底层知识体系构建](https://www.ershicimi.com/p/b778708e52a8703839ec00df05003a0a) ![](assets/new.png)  
+- [2020-08-12-美团优选事业部—高级Web前端工程师](https://www.ershicimi.com/p/b5728d3d9273f1f0e0235b7c14341b2b) ![](assets/new.png)  
+- [2020-08-11-常见的逻辑判断优化技巧](https://www.ershicimi.com/p/7c8b8f62855e4546433d638252593475) ![](assets/new.png)  
+- [2020-08-10-前端框架选择Vue的理由](https://www.ershicimi.com/p/61da09eb11f6a082d0001338169310a4) ![](assets/new.png)  
+- [2020-08-08-从零开始配置-TypeScript-项目](https://www.ershicimi.com/p/f842f28fb8eef6f52b56004e9b29fcf1) ![](assets/new.png)  
+- [2020-08-07-面试时行云流水仍被拒，人工智能的hr究竟喜欢什么样的求职者？](https://www.ershicimi.com/p/e39fe547c6342ec06fce5b27f0f75950) ![](assets/new.png)  
+- [2020-08-06-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/99fc54bf84ab2b810ca1c203c83cf505) ![](assets/new.png)  
+- [2020-08-05-vue3.0新型状态管理和逻辑复用方式](https://www.ershicimi.com/p/f68a2470bc8fd6493bfc5757328c2b9e) ![](assets/new.png)  
+- [2020-08-04-一文-get-入门-canvas-的最佳路径](https://www.ershicimi.com/p/79d73f9a992c207cc25227c10278f50b) ![](assets/new.png)  
+- [2020-08-03-vivo-悟空活动H5-活动加载优化](https://www.ershicimi.com/p/82b13171ad46eefa287cf2703e6fa8c1) ![](assets/new.png)  
+- [2020-08-03-没错，华为又对前端下手了！](https://www.ershicimi.com/p/14fa304b6aad76531bdd82b7a230d80b) ![](assets/new.png)  
+- [2020-08-02-精心挑选的几个前端公众号](https://www.ershicimi.com/p/7bd26145bedb709e603111df276f84e5) ![](assets/new.png)  
+- [2020-07-31-图片压缩原理](https://www.ershicimi.com/p/38acef5560c6e8e52234d7725053a8c1) ![](assets/new.png)  
+- [2020-07-30-【答案详解】145道Web高频面试题，锁定高薪Offer](https://www.ershicimi.com/p/12e1a03c8ddffaee7ced84f165fb9e00) ![](assets/new.png)  
+- [2020-07-29-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed) ![](assets/new.png)  
+- [2020-07-28-几个常见面试题，工作中也经常用到](https://www.ershicimi.com/p/605539ef8663e7d6be0c531072e51703) ![](assets/new.png)  
+- [2020-07-27-聊一聊前端性能优化](https://www.ershicimi.com/p/95e4dc5c9a8b25adcad6702c692cca9a) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -834,6 +854,26 @@
 </summary>
 
 
+- [2020-08-16-Docker-更新协议，禁止被列入美国“实体名单”的国家、企业、个人使用,开源被“截流”？](https://www.ershicimi.com/p/6ddf07e7de4a4c4769f2427c54aa8088) ![](assets/new.png)  
+- [2020-08-16-MySQL-日期时间类型怎么选？千万不要乱用！](https://www.ershicimi.com/p/7fcaa1726aa5214777cc010c97b5f8d4) ![](assets/new.png)  
+- [2020-08-16-一起围观下我们CTO写的代码，巧妙使用枚举干掉if-else！](https://www.ershicimi.com/p/fa3fcd9b9ac927362c3df472aefa981a) ![](assets/new.png)  
+- [2020-08-16-权威！盘点-100-个最受欢迎的-Java-库！绝对经典](https://www.ershicimi.com/p/9c05d3d378828be2c37f7a3615e5b730) ![](assets/new.png)  
+- [2020-08-16-SQL-查询总是先执行SELECT语句吗？你们都错了！](https://www.ershicimi.com/p/37e53b17011f05e9b83f59c70e374958) ![](assets/new.png)  
+- [2020-08-16-如何优雅的实现-try/catch-异常块？](https://www.ershicimi.com/p/4d07bb54af3631bf208bd408c7cd21d9) ![](assets/new.png)  
+- [2020-08-15-40+-张最全-Linux-/-C-/-C++-思维导图，收藏！](https://www.ershicimi.com/p/6ef3b2261d4173f8a0f692d0471b9fa9) ![](assets/new.png)  
+- [2020-08-15-为什么我劝你放弃了Restful-API？](https://www.ershicimi.com/p/58bba24f4392498624309ef5dc8a6fd8) ![](assets/new.png)  
+- [2020-08-15-因为一条SQL，我差点被祭天......](https://www.ershicimi.com/p/b0a596f549fc3b57aec904971bcc2909) ![](assets/new.png)  
+- [2020-08-14-年薪68万,人才缺口30万,这个神仙技能今年火遍整个职业圈!](https://www.ershicimi.com/p/875c6aa5d168ea51712be597aa865180) ![](assets/new.png)  
+- [2020-08-14-又整理了一批可以拿去做副业的开源项目...](https://www.ershicimi.com/p/bfc04a46f8f99a1a8db435e031872cb1) ![](assets/new.png)  
+- [2020-08-14-好用到爆的-Java-小技巧](https://www.ershicimi.com/p/4ac35869265d57b29e3f6c14f6372d6b) ![](assets/new.png)  
+- [2020-08-13-32岁程序员被辞退欲跳楼！为什么我不建议你轻易买保险？](https://www.ershicimi.com/p/d5b32ff82843b4c3e665741eb84f143f) ![](assets/new.png)  
+- [2020-08-13-DataGrip-上手体验，真香！](https://www.ershicimi.com/p/03eee984a40b5ec0785ac1adc5ad97bb) ![](assets/new.png)  
+- [2020-08-13-Spring-Cloud-微服务下的权限解决方案](https://www.ershicimi.com/p/44e54d72fccb49e1f633d8919edcc407) ![](assets/new.png)  
+- [2020-08-12-我的天！你竟然没有在SpringBoot中使用过异步请求和异步调用...](https://www.ershicimi.com/p/fd7d6892f88375848eeb49a2246fe552) ![](assets/new.png)  
+- [2020-08-12-一个员工的离职成本到底有多恐怖！](https://www.ershicimi.com/p/9a87f880040c1bf47c4ca7bd3aa36739) ![](assets/new.png)  
+- [2020-08-12-看看华为-Java-编程的军规...](https://www.ershicimi.com/p/2f22d2432104d03fd5bf3e4d0d650125) ![](assets/new.png)  
+- [2020-08-11-我们公司不会用分布式事务！](https://www.ershicimi.com/p/4faf992ac4e277cf4f39cfbc011a103b) ![](assets/new.png)  
+- [2020-08-11-来，告诉你阿里的数据库连接池Druid为啥如此牛逼！](https://www.ershicimi.com/p/56d40782a74a5d254406c53e7c60fa67) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

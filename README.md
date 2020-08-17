@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 15:48:30，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 16:02:47，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-17-银行的开发岗普遍不加班吗。。](https://www.v2ex.com/t/699125) ![](assets/new.png)  
 - [2020-08-17-Yubikey-最新固件版本-w](https://www.v2ex.com/t/699124) ![](assets/new.png)  
 - [2020-08-17-求助-单模单纤千兆光电转换只有百兆速度](https://www.v2ex.com/t/699123) ![](assets/new.png)  
 - [2020-08-17-仅需-10-元-即可获得<美团&字节&快手&网易&B-站>2020-算法真题详解全套](https://www.v2ex.com/t/699122) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-17-（久等了）韭菜盒子——做最好用的-VSCode-养鸡插件](https://www.v2ex.com/t/699099) ![](assets/new.png)  
 - [2020-08-17-求-aiohttp-后端-直接生成-exl-下载-的-demo-，实在找不到材料。。](https://www.v2ex.com/t/699098) ![](assets/new.png)  
 - [2020-08-17-啊这。。亲身经历-github-intel-项目刷-star-的兼职](https://www.v2ex.com/t/699097) ![](assets/new.png)  
-- [2020-08-17-小红书-高级后端开发工程师招聘-直播带货业务-组内直招岗位](https://www.v2ex.com/t/699096) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

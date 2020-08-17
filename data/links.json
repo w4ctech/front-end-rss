@@ -12717,6 +12717,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "大连对垃圾收运点、垃圾压缩站、公厕等每天消毒消杀不少于3次",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZTs1R2ZlOuqDq17JKqpS200817&isfromapp=1",
+        "date": "2020-08-17"
+      },
+      {
         "title": "阿根廷新冠肺炎确诊病例累计近30万 儿童节人群聚集引担忧",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiImWQCurbHWRhT0kKwN67200817&isfromapp=1",
         "date": "2020-08-17"
@@ -12735,11 +12740,6 @@
         "title": "玻利维亚新冠肺炎确诊病例将破10万 政治动荡阻碍防疫措施推行",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP7wfaX36qya92943Xag5200817&isfromapp=1",
         "date": "2020-08-17"
-      },
-      {
-        "title": "新西兰总理阿德恩：大选将推迟四周举行",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJXzVvw4xJUDGRQMDoBcj200817&isfromapp=1",
-        "date": "2020-08-16"
       }
     ]
   },
@@ -15869,6 +15869,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Python xml 模块的一个坑",
+        "link": "https://www.v2ex.com/t/698876",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "有没有开源项目可以维护多个文件名对应的多个网盘链接以便分发？",
+        "link": "https://www.v2ex.com/t/698874",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "Docker 禁止美国“实体清单”主体使用， Docker 开源项目不受影响 现阶段的影响有哪些，其他后续连锁反应挺严重的。",
+        "link": "https://www.v2ex.com/t/698871",
+        "date": "2020-08-17"
+      },
+      {
         "title": "[eBay 招 广告、推荐、搜索、AI 算法] 上海 eBay 美企，电商 ，不加班， WLB.（内有本周靠谱快速安排部门职位）",
         "link": "https://www.v2ex.com/t/698869",
         "date": "2020-08-17"
@@ -16011,21 +16026,6 @@
       {
         "title": "最近一直在开会，想做个会议录音。",
         "link": "https://www.v2ex.com/t/698828",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "关于鼠标的正确使用方式 —— 我 teme 居然不会用鼠标？！",
-        "link": "https://www.v2ex.com/t/698825",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "计算两个字符串相似度，它来了，后端集成多种算法",
-        "link": "https://www.v2ex.com/t/698824",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "合肥的小伙伴看过来 招人了",
-        "link": "https://www.v2ex.com/t/698822",
         "date": "2020-08-17"
       }
     ]
@@ -16218,23 +16218,8 @@
         "date": "2020-08-17"
       },
       {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
         "date": "2020-08-17"
       },
       {
@@ -16243,33 +16228,8 @@
         "date": "2020-08-17"
       },
       {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-17"
       },
       {
@@ -16278,18 +16238,58 @@
         "date": "2020-08-17"
       },
       {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-17"
+      },
+      {
         "title": "[推荐] 图解 Vue 响应式原理",
         "link": "https://toutiao.io/k/sia6td6",
         "date": "2020-08-17"
       },
       {
-        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
-        "link": "https://toutiao.io/k/lmtdqk1",
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
         "date": "2020-08-17"
       },
       {
         "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
         "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
         "date": "2020-08-17"
       }
     ]

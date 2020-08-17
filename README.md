@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 03:09:51，:rocket: 更新条数: +3305， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 03:20:30，:rocket: 更新条数: +3305， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-17-大连对垃圾收运点、垃圾压缩站、公厕等每天消毒消杀不少于3次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZTs1R2ZlOuqDq17JKqpS200817&isfromapp=1) ![](assets/new.png)  
 - [2020-08-17-阿根廷新冠肺炎确诊病例累计近30万-儿童节人群聚集引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiImWQCurbHWRhT0kKwN67200817&isfromapp=1) ![](assets/new.png)  
 - [2020-08-17-受疫情影响-巴西约500万名文化艺术从业者亟需援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisqPSt8eBh9kxjcTYpODd200817&isfromapp=1) ![](assets/new.png)  
 - [2020-08-17-美新冠病毒检测周期过长-美媒：出结果太慢-四成检测毫无意义](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWp8BCi637tXsIh3FN7TU200817&isfromapp=1) ![](assets/new.png)  
 - [2020-08-17-玻利维亚新冠肺炎确诊病例将破10万-政治动荡阻碍防疫措施推行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP7wfaX36qya92943Xag5200817&isfromapp=1) ![](assets/new.png)  
-- [2020-08-16-新西兰总理阿德恩：大选将推迟四周举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJXzVvw4xJUDGRQMDoBcj200817&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-17-Python-xml-模块的一个坑](https://www.v2ex.com/t/698876) ![](assets/new.png)  
+- [2020-08-17-有没有开源项目可以维护多个文件名对应的多个网盘链接以便分发？](https://www.v2ex.com/t/698874) ![](assets/new.png)  
+- [2020-08-17-Docker-禁止美国“实体清单”主体使用，-Docker-开源项目不受影响-现阶段的影响有哪些，其他后续连锁反应挺严重的。](https://www.v2ex.com/t/698871) ![](assets/new.png)  
 - [2020-08-17-eBay-招-广告、推荐、搜索、AI-算法-上海-eBay-美企，电商-，不加班，-WLB.（内有本周靠谱快速安排部门职位）](https://www.v2ex.com/t/698869) ![](assets/new.png)  
 - [2020-08-17-有没有专门发布直播电商线报的机器人或账号？](https://www.v2ex.com/t/698868) ![](assets/new.png)  
 - [2020-08-17-Elasticsearch-索引-html-文档有什么比较好的实践方案](https://www.v2ex.com/t/698866) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-17-iPad-上有没有周期锁屏软件](https://www.v2ex.com/t/698849) ![](assets/new.png)  
 - [2020-08-17-没有-usermod-命令还没修改用户权限吗](https://www.v2ex.com/t/698847) ![](assets/new.png)  
 - [2020-08-17-2017-款-macbook-air-满电睡眠两天直接没电了](https://www.v2ex.com/t/698844) ![](assets/new.png)  
-- [2020-08-17-杭州湾信息港附近单间出租](https://www.v2ex.com/t/698843) ![](assets/new.png)  
-- [2020-08-17-马克丁官网打不开了？是被攻击还是咋了。](https://www.v2ex.com/t/698842) ![](assets/new.png)  
-- [2020-08-17-这种情况该怎么办？](https://www.v2ex.com/t/698841) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,11 +1129,11 @@
 - [2020-08-17-深度：手写一个-WebSocket-协议](https://toutiao.io/k/42oqniu) ![](assets/new.png)  
 - [2020-08-17-分享一个-Flink-checkpoint-失败的问题和解决办法](https://toutiao.io/k/s2vgaxn) ![](assets/new.png)  
 - [2020-08-17-定位生产问题时，异常堆栈莫名丢了，何解？](https://toutiao.io/k/531jcms) ![](assets/new.png)  
-- [2020-08-17-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-17-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-17-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
-- [2020-08-17-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-17-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
 - [2020-08-17-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-17-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-17-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-17-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

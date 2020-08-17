@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-17 03:09:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 03:20:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -459,7 +459,6 @@
 - [【V2EX】Elasticsearch-索引-html-文档有什么比较好的实践方案](https://www.v2ex.com/t/698866)
 - [【V2EX】内推-滴滴-前端，后端-算法，-base-北京-杭州-成都](https://www.v2ex.com/t/698860)
 - [【V2EX】带有车道限制的-VRP-问题有成熟算法吗？](https://www.v2ex.com/t/698850)
-- [【V2EX】计算两个字符串相似度，它来了，后端集成多种算法](https://www.v2ex.com/t/698824)
 - [【技术头条】十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k)
 - [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
@@ -484,6 +483,7 @@
 - [【前端瓶子君】插播一条消息，Docker-发布公告禁止被列入美国“实体名单”的国家、企业、个人使用](https://www.ershicimi.com/p/3b75282bb059443c14a5b941c4022125)
 - [【互联网架构师】Docker-更新协议，禁止被列入美国“实体名单”的国家、企业、个人使用,开源被“截流”？](https://www.ershicimi.com/p/6ddf07e7de4a4c4769f2427c54aa8088)
 - [【互联网架构师】为什么我劝你放弃了Restful-API？](https://www.ershicimi.com/p/58bba24f4392498624309ef5dc8a6fd8)
+- [【V2EX】Docker-禁止美国“实体清单”主体使用，-Docker-开源项目不受影响-现阶段的影响有哪些，其他后续连锁反应挺严重的。](https://www.v2ex.com/t/698871)
 - [【安全热点】某Nginx后门分析与重现](https://sec.thief.one/article_content?a_id=041479196ec76d97166265ce0b0d40d1)
 - [......【查看更多】......](./details/tags/server.md)
 

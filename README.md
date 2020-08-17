@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 09:02:55，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 09:10:05，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,6 @@
 
 
 - [2020-08-16-【境内疫情观察】全国无新增本土病例（8月16日）](http://m.database.caixin.com/m/2020-08-17/101593491.html) ![](assets/new.png)  
-- [2020-08-16-8月16日全国新增新冠22例-均由境外输入](https://m.caixin.com/m/2020-08-17/101593360.html) ![](assets/new.png)  
 - [2020-08-16-大流行手记|8月16日：印度签约生产低价新冠疫苗-复课后美国多州学校现疫情](https://m.caixin.com/m/2020-08-17/101593367.html) ![](assets/new.png)  
 - [2020-08-15-广东排查48家盒马鲜生关联企业-新发疫情传染源尚未明确](http://m.china.caixin.com/m/2020-08-16/101593340.html) ![](assets/new.png)  
 - [2020-08-15-最新海外疫情：新冠感染超2133万-累计死亡超76.6万](http://m.international.caixin.com/m/2020-08-16/101593315.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-08-12-大流行手记|8月12日：近40万美国儿童感染新冠-巴西阿根廷安排学校复课](https://m.caixin.com/m/2020-08-13/101592096.html) ![](assets/new.png)  
 - [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
 - [2020-08-12-巴西一州决定测试生产俄罗斯疫苗](http://m.international.caixin.com/m/2020-08-13/101592371.html) ![](assets/new.png)  
+- [2020-08-11-【境内疫情观察】全国8省份新增境外输入病例16例（8月11日）](http://m.database.caixin.com/m/2020-08-12/101591859.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-17-小白求助，-5-千万数据量的表查询如何处理](https://www.v2ex.com/t/699029) ![](assets/new.png)  
 - [2020-08-17-iOS-14-开始查询-HTTPS-记录-type-65](https://www.v2ex.com/t/699027) ![](assets/new.png)  
 - [2020-08-17-又到了公司绩效考核的时间了，每次都有点小崩溃](https://www.v2ex.com/t/699024) ![](assets/new.png)  
 - [2020-08-17-校园网-udp53-居然没有限制，但代理服务器怎么选是个问题](https://www.v2ex.com/t/699023) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-17-请推荐-外包公司用的项目管理和成本核算系统](https://www.v2ex.com/t/699005) ![](assets/new.png)  
 - [2020-08-17-网站分享,不喜勿喷](https://www.v2ex.com/t/699004) ![](assets/new.png)  
 - [2020-08-17-北京-社招-逍遥一下-高级-iOS-工程师-20k-30k*14-薪](https://www.v2ex.com/t/699003) ![](assets/new.png)  
-- [2020-08-17-这种消费观念正常吗？有没有跟我一样的](https://www.v2ex.com/t/699002) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-17 10:21:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 10:31:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-17-请教大家，如果有机会是否应该辞掉工作回到校园去读研？](https://www.v2ex.com/t/699062) 
 - [2020-08-17-YouTube-上有什么优质频道吗？](https://www.v2ex.com/t/699061) 
 - [2020-08-17-有用过百度竞价排名的吗？](https://www.v2ex.com/t/699060) 
 - [2020-08-17-群晖管家-APP，在内网开启-https-验证就报自签证书](https://www.v2ex.com/t/699059) 
@@ -41,4 +42,3 @@
 - [2020-08-17-gitbook-pdf-生成的-pdf-的目录默认链接到一个第三方的网站，咋解决呢？](https://www.v2ex.com/t/699016) 
 - [2020-08-17-请教下大家有没比较好的快速建站方案](https://www.v2ex.com/t/699015) 
 - [2020-08-17-shiro-的自定义-realm-中使用-mapper-的一个很奇怪的-BUG](https://www.v2ex.com/t/699013) 
-- [2020-08-17-感天动地，-onenote-中英文输入字体不一致的-bug-终于修复了](https://www.v2ex.com/t/699012) 

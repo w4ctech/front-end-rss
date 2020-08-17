@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-17 04:11:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 04:20:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,7 +26,6 @@
 - [2020-08-07-【第2027期】图解CORS](https://www.ershicimi.com/p/2f680c25c9986033bf75373aaf0ed968) 
 - [2020-08-05-【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa) 
 - [2020-08-13-内存怪兽-Chrome-被黑的最惨一次](https://www.ershicimi.com/p/dbe05e010ee40c3db60919a7ef934cbb) 
-- [2020-08-02-你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9) 
 - [2020-08-16-前端周报：谷歌开源-chromeOS.dev；-十余家美国企业联手抵制特朗普“封杀”微信；Angul](https://www.ershicimi.com/p/64729e7a6d3cc0184e99536b8a72d7fc) 
 - [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686) 
 - [2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da) 
@@ -40,14 +39,11 @@
 - [2020-08-12-为什么cookie会有httponly属性?真实案例解释XSS的三种攻击](https://www.ershicimi.com/p/d903df7fbd5154c7e85f3b0a90158460) 
 - [2020-08-07-使用Chrome扩展程序生成网页骨架屏](https://www.ershicimi.com/p/e50ce5a4a13d21d6039afa920358f458) 
 - [2020-08-10-一文读懂-Web-安全（面试必备）](https://www.ershicimi.com/p/8be36c891f65a4d2916708db74fac164) 
-- [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
-- [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) 
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-17-安全与风控内推---字节跳动](https://www.v2ex.com/t/698903) 
 - [2020-08-17-现在还有人用导航网站吗~为了方便自己有时候访问一些收藏起来的有用网站但又不想用浏览器的收藏夹，所以做了一个按简单标签分类的导航网站，希望大家给些建议](https://www.v2ex.com/t/698879) 
-- [2020-08-17-又一个-Chrome-扩展---Google-Dictionary-Word-History-Utilities](https://www.v2ex.com/t/698856) 
 - [2020-08-17-深度：手写一个-WebSocket-协议](https://toutiao.io/k/42oqniu) 
 - [2020-08-17-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) 
 - [2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) 

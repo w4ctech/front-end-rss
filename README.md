@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 08:21:47，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 08:31:37，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -1021,6 +1021,26 @@
 </summary>
 
 
+- [2020-08-14-中国人都有什么有意思的特色-Buff？](https://www.ershicimi.com/p/b681e42d3d92a42ee176109e1c06c53d) ![](assets/new.png)  
+- [2020-08-14-解说争霸，赢奖金-|-寻找全网最强影视视频解说](https://www.ershicimi.com/p/1d7122c242b40a8b379813cf5d0b1653) ![](assets/new.png)  
+- [2020-08-14-知乎故事-|-我不小心把猫放进滚筒洗衣机了](https://www.ershicimi.com/p/e527ae0f312d8790634cc32ea2f193f7) ![](assets/new.png)  
+- [2020-08-13-知乎好问题：既然所有的生命都要死亡，那么生命的意义是什么？](https://www.ershicimi.com/p/e03c34c8a0fca6e0a58dd73e449fa4be) ![](assets/new.png)  
+- [2020-08-13-剖腹产过后，我发现我竟然不爱我的女儿，这正常吗？](https://www.ershicimi.com/p/4e75d8e2685b65a780ba32b98cb2b486) ![](assets/new.png)  
+- [2020-08-13-自律，是治愈一切迷茫的良药](https://www.ershicimi.com/p/be063ed5d6a41b361bbdda2858be1831) ![](assets/new.png)  
+- [2020-08-13-知乎故事-|-未来岳父邀你下棋，是展现实力还是巧妙输掉？](https://www.ershicimi.com/p/35ce85c8f565173afe2db0fa9e7eb577) ![](assets/new.png)  
+- [2020-08-12-知乎新发现：全知乎最热门的学校竟然不是-985！](https://www.ershicimi.com/p/06fb3f62654b746d0a41563dcb475bab) ![](assets/new.png)  
+- [2020-08-12-法律高手是如何「炼」成的？](https://www.ershicimi.com/p/5098af4804001c110836bcd6fb01074b) ![](assets/new.png)  
+- [2020-08-12-知乎故事-|-你能容忍你的朋友在你租的单间房蹭住多少天？](https://www.ershicimi.com/p/571ea0d9202b91933e0efcea410c5337) ![](assets/new.png)  
+- [2020-08-11-知乎高赞：有哪些人际关系方面的小技巧可以保护自己？](https://www.ershicimi.com/p/4eba04e278d4f27e7a98c5ba94f803d5) ![](assets/new.png)  
+- [2020-08-11-为什么周星驰电影中会出现那么多丑化的女性形象?](https://www.ershicimi.com/p/0faaf8e46d8da6342c777ac9ab183fee) ![](assets/new.png)  
+- [2020-08-11-知乎故事-|-如果清穿成溥仪，怎么合理的把烂牌盘活呢？](https://www.ershicimi.com/p/0da7a4fdb31c108d2c857315b9d307cb) ![](assets/new.png)  
+- [2020-08-10-你最爱的纯棉衣服其实既不天然，也不环保，甚至比化纤添加剂还多](https://www.ershicimi.com/p/8a54df079ee4d7d8611a13ba364619f7) ![](assets/new.png)  
+- [2020-08-10-真正的成年人，都该进来学习怎么正确戴套](https://www.ershicimi.com/p/8201f11803c91635e7efbde1df0683a5) ![](assets/new.png)  
+- [2020-08-10-iPad-里藏的-102-颗磁铁，有什么用？](https://www.ershicimi.com/p/3af977fd8467814affbe90d61f6c25d9) ![](assets/new.png)  
+- [2020-08-10-知乎故事-|-年纪轻轻得了痛风是什么感受？](https://www.ershicimi.com/p/f472994c01c2866bc9f9f137dd23cab4) ![](assets/new.png)  
+- [2020-08-09-本周知乎热榜-|-我国人均国民总收入首破-1-万美元，「三十而已」大结局，拼多多厕所坑位风波](https://www.ershicimi.com/p/63d102381655ff6607a80cd55ed698fd) ![](assets/new.png)  
+- [2020-08-09-动漫作品中最长的一天是哪天？](https://www.ershicimi.com/p/5dfaf67bcf3c86ac5cbfef46e9207f01) ![](assets/new.png)  
+- [2020-08-09-2020-我删除无数个公众号，只留下了这-7-个](https://www.ershicimi.com/p/372a814e05992b38c51ebdb41c19da24) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-17-第四期德国-IT-岗位招聘之-Software-developer,-IT-support,-Database-Administrator](https://www.v2ex.com/t/699009) ![](assets/new.png)  
+- [2020-08-17-京东-plus-会员不能续费？](https://www.v2ex.com/t/699008) ![](assets/new.png)  
+- [2020-08-17-一般做电商优惠券计价相关的设计，是用策略模式还是用-drools-这样的规则引擎](https://www.v2ex.com/t/699007) ![](assets/new.png)  
+- [2020-08-17-总算把拓扑图搞好了，大家看好不好](https://www.v2ex.com/t/699006) ![](assets/new.png)  
+- [2020-08-17-请推荐-外包公司用的项目管理和成本核算系统](https://www.v2ex.com/t/699005) ![](assets/new.png)  
+- [2020-08-17-网站分享,不喜勿喷](https://www.v2ex.com/t/699004) ![](assets/new.png)  
 - [2020-08-17-北京-社招-逍遥一下-高级-iOS-工程师-20k-30k*14-薪](https://www.v2ex.com/t/699003) ![](assets/new.png)  
 - [2020-08-17-这种消费观念正常吗？有没有跟我一样的](https://www.v2ex.com/t/699002) ![](assets/new.png)  
 - [2020-08-17-罗湖政务短信平台的-bug-，直接把-sql-语句发过来了](https://www.v2ex.com/t/699001) ![](assets/new.png)  
@@ -1046,12 +1072,6 @@
 - [2020-08-17-字节-教育方向，大量-HC，-长期内推](https://www.v2ex.com/t/698985) ![](assets/new.png)  
 - [2020-08-17-各位的-Windows-系统运行-Excel-的时候，拖拽窗口有滞粘、卡顿的现象吗？](https://www.v2ex.com/t/698984) ![](assets/new.png)  
 - [2020-08-17-如何用-C++-写一个软件渲染器？](https://www.v2ex.com/t/698982) ![](assets/new.png)  
-- [2020-08-17-北京海淀，有看推荐算法机会的吗？福利待遇好，直接面试，欢迎进来聊聊~~](https://www.v2ex.com/t/698979) ![](assets/new.png)  
-- [2020-08-17-字节-教育方向，大量-HC，长期内推](https://www.v2ex.com/t/698977) ![](assets/new.png)  
-- [2020-08-17-深圳宝安-急招后台开发工程师（15-35k）＋测试开发工程师（10-20k）](https://www.v2ex.com/t/698976) ![](assets/new.png)  
-- [2020-08-17-INFO-SPIDER-爬虫工具箱，已开源，持续更新，欢迎-Star](https://www.v2ex.com/t/698975) ![](assets/new.png)  
-- [2020-08-17-组内内推-百度-视觉技术部](https://www.v2ex.com/t/698974) ![](assets/new.png)  
-- [2020-08-17-如何尽可能多的获取全世界所有-online-的域名列表（包括子域名）](https://www.v2ex.com/t/698973) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1100,8 +1120,8 @@
 - [2020-08-17-Facebook-对-Golang-依赖注入的实现](https://toutiao.io/k/aiwwan4) ![](assets/new.png)  
 - [2020-08-17-定位生产问题时，异常堆栈莫名丢了，何解？](https://toutiao.io/k/531jcms) ![](assets/new.png)  
 - [2020-08-17-懂程序员的产品经理是什么样子？](https://toutiao.io/k/odvsl62) ![](assets/new.png)  
-- [2020-08-17-Kubernetes-如何改变美团的云基础设施？](https://toutiao.io/k/cur5n7m) ![](assets/new.png)  
 - [2020-08-17-学-C语言和学-C++-它有毛关系吗？](https://toutiao.io/k/c7jl9z4) ![](assets/new.png)  
+- [2020-08-17-Kubernetes-如何改变美团的云基础设施？](https://toutiao.io/k/cur5n7m) ![](assets/new.png)  
 - [2020-08-17-AI-技术如何打造智能语音质检系统](https://toutiao.io/k/wx36ke3) ![](assets/new.png)  
 - [2020-08-17-Python-函数为什么会默认返回-None？](https://toutiao.io/k/5ldsr7i) ![](assets/new.png)  
 - [2020-08-17-遇到困难的时候你会和谁说](https://toutiao.io/k/d1qirzo) ![](assets/new.png)  
@@ -1111,8 +1131,8 @@
 - [2020-08-17-分享一个-Flink-checkpoint-失败的问题和解决办法](https://toutiao.io/k/s2vgaxn) ![](assets/new.png)  
 - [2020-08-17-API-设计的几条原则](https://toutiao.io/k/8yejc7o) ![](assets/new.png)  
 - [2020-08-17-前端与-DSL](https://toutiao.io/k/s0j9qkh) ![](assets/new.png)  
-- [2020-08-17-译-使用-JavaScript-检测空闲的浏览器选项卡，可以做些什么？](https://toutiao.io/k/2arbeoh) ![](assets/new.png)  
 - [2020-08-17-Pulsar-与-Kafka-全方位对比（上）：功能、性能、用例](https://toutiao.io/k/v9gbk0d) ![](assets/new.png)  
+- [2020-08-17-译-使用-JavaScript-检测空闲的浏览器选项卡，可以做些什么？](https://toutiao.io/k/2arbeoh) ![](assets/new.png)  
 - [2020-08-17-异常处理的那些事儿](https://toutiao.io/k/hu57qnw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

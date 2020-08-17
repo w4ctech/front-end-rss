@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 06:23:39，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 06:31:21，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-17-即日起乘飞机离开大连-取消查验7日内核酸检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiorGeGEZcf9Yf0hvawTHW200817&isfromapp=1) ![](assets/new.png)  
+- [2020-08-17-土耳其安塔利亚市市长新冠病毒检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir40uPUO3NLJZizSg2560200817&isfromapp=1) ![](assets/new.png)  
 - [2020-08-17-大连30支现场消毒队伍对442处疫点疫区进行终末消毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBYUJZkraqpSJKwPFTF3G200817&isfromapp=1) ![](assets/new.png)  
 - [2020-08-17-安倍晋三进入医院-官邸消息人士：为确保身体无恙进行检查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHLIdOmYpUiQEI4To5qPZ200817&isfromapp=1) ![](assets/new.png)  
 - [2020-08-17-大连对垃圾收运点、垃圾压缩站、公厕等每天消毒消杀不少于3次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZTs1R2ZlOuqDq17JKqpS200817&isfromapp=1) ![](assets/new.png)  
-- [2020-08-17-阿根廷新冠肺炎确诊病例累计近30万-儿童节人群聚集引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiImWQCurbHWRhT0kKwN67200817&isfromapp=1) ![](assets/new.png)  
-- [2020-08-17-受疫情影响-巴西约500万名文化艺术从业者亟需援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisqPSt8eBh9kxjcTYpODd200817&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-17-外企内推-MX-Player-北京研发中心内推，大量-HC～](https://www.v2ex.com/t/698949) ![](assets/new.png)  
 - [2020-08-17-被老板拉黑咋办？](https://www.v2ex.com/t/698948) ![](assets/new.png)  
 - [2020-08-17-自己搞的小玩意,分享给大家使用](https://www.v2ex.com/t/698945) ![](assets/new.png)  
 - [2020-08-17-免费-Linux-服务器管理面板](https://www.v2ex.com/t/698939) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-17-哪位大佬可以分享一下-sudoer-的配置？](https://www.v2ex.com/t/698914) ![](assets/new.png)  
 - [2020-08-17-我的软件「wnr」上架了-Product-Hunt！](https://www.v2ex.com/t/698913) ![](assets/new.png)  
 - [2020-08-17-Android-这里有个百度-TL-模拟面试的机会](https://www.v2ex.com/t/698909) ![](assets/new.png)  
-- [2020-08-17-go-环境搭建，-GO-程序-xsec-ip-database-master-是恶意-IP-和域名库，-go-build-main.go-编译报-loglevel-错误，多多指教](https://www.v2ex.com/t/698908) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

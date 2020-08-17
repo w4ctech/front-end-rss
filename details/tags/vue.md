@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-17 16:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 16:33:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -51,8 +51,6 @@
 - [2020-07-30-工程化-1:1-从零实现-Vue-源码](https://www.ershicimi.com/p/3accac5a39f0227384771ed6026452c1) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-07-07-【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6) 
-- [2020-08-04-Vue的生命周期有多长？](https://www.ershicimi.com/p/eb6c9a853fe54f661ed6b543e15c39cf) 
-- [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-08-17-VUE-自定义指令的问题](https://www.v2ex.com/t/699093) 
 - [2020-08-17-Vue-的-transition-动画前缀使用-fade-时为什么无效呢？](https://www.v2ex.com/t/699092) 

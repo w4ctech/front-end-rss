@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-17 16:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 16:33:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -23,5 +23,4 @@
 - [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/487ca56b404864dbaaa907bf0334c2b5) 
 - [2020-08-13-在NPM上发布beta或alpha版](https://www.ershicimi.com/p/34b981b9bbda2a2019d900ecb99359e8) 
 - [2020-08-14-13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0) 
-- [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 

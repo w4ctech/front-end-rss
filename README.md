@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 16:31:42，:rocket: 更新条数: +3316， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 16:33:13，:rocket: 更新条数: +3276， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -45,14 +45,14 @@
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -916,26 +916,6 @@
 </summary>
 
 
-- [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341) ![](assets/new.png)  
-- [2020-08-13-面了个-4-年的前端，简历看着像实战派，实际上……](https://www.ershicimi.com/p/529451701bd7e68b0beea1bce1921d36) ![](assets/new.png)  
-- [2020-08-12-一周内在闲鱼上被疯转-2-万次的“多线程”资料！](https://www.ershicimi.com/p/8fdc4dabcff23f716ebb8b3ecd65bcf9) ![](assets/new.png)  
-- [2020-08-11-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/adf9b7740214369c1a3daf15c832e9c8) ![](assets/new.png)  
-- [2020-08-10-在-30-岁的互联网战场上，技术的剑已不再锋利](https://www.ershicimi.com/p/f76b9041042ed585ebdb3fa21b3fa1ee) ![](assets/new.png)  
-- [2020-08-08-ES11-来了，还学得动吗？](https://www.ershicimi.com/p/2fadcba512a5310cf6d0d9077ae77ae7) ![](assets/new.png)  
-- [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) ![](assets/new.png)  
-- [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) ![](assets/new.png)  
-- [2020-08-05-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/4742e260273a2bf0fcfccc86f9f97422) ![](assets/new.png)  
-- [2020-08-04-Vue的生命周期有多长？](https://www.ershicimi.com/p/eb6c9a853fe54f661ed6b543e15c39cf) ![](assets/new.png)  
-- [2020-08-03-如何精确统计页面停留时长](https://www.ershicimi.com/p/1c9ebd84df7644667e1347d67682706a) ![](assets/new.png)  
-- [2020-07-31-140道Web大厂面试真题分享](https://www.ershicimi.com/p/82353361ddca791ad1aa9c6410e36028) ![](assets/new.png)  
-- [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) ![](assets/new.png)  
-- [2020-07-29-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/8d9aae6d6881f11e8d1c09ed67f7bdf5) ![](assets/new.png)  
-- [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) ![](assets/new.png)  
-- [2020-07-27-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/02e36a0d0749c177b1fe11f86b5f5ea2) ![](assets/new.png)  
-- [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/ad88a966ef504d6a8551e30959e8f190) ![](assets/new.png)  
-- [2020-07-23-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/864b0feaa51046cb6caa2a3a52b8f670) ![](assets/new.png)  
-- [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) ![](assets/new.png)  
-- [2020-07-21-35岁的老程序员一面就砸，一问原因，挺突然的...](https://www.ershicimi.com/p/cf3287f84f31276654ea80494a292e12) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,26 +1063,6 @@
 </summary>
 
 
-- [2020-08-17-为什么要加快组织变革的速度-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13689&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fspeed-up-organization-transformation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-如何优雅使用「快应用」API-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13688&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-use-the-quickapp-api-gracefully%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-一次蚂蚁金服的辛酸面试历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13687&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlGMB3sdVbQFkmaDL_cgvyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-JetPack系列-Paging-3.0学习-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13686&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOKLlU1LtF1LvFHDbgkrMkA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-程序员不应该错过的-7-大导航-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13685&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1k_JILzNoRbh14mu--5cHw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-Android-AES加密（Kotlin）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13684&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FENUca2jF0V4OVnUyMyluAA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-学计算机的女生，是一种怎样的存在？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13683&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtKOFvcv6F-IVpSlGy0Asyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-蓝绿大厂之争，国产手机逆袭除了自研芯片还能靠啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13682&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbR3IGteDHE0q9MdfnN-ufg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-张一鸣：我的大学四年收获及工作感悟-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13680&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSVvNPdsfZS3kLFy3wWe33g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-如何优雅地向老师表达：我这周任务没啥进展？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13679&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDTGUSO0gF4v76zJ1YU5kLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-强推-16-款-IDEA-插件，让你的开发速度飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13678&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvLmgi509ND6MnlxqszxCIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-分享一个Flink-checkpoint失败的问题和解决办法-club.perfma.com](https://blogread.cn/news/go.php?idItem=13677&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1733519%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-API设计的几条原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-怎样消灭Bug？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-优先改进哪个点：捏软柿子还是啃硬骨头？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13674&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontinuous-improvement-priority%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-领域对象发展的极致就是代理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13673&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dynamic-domian-modelling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-Android架构设计--MVP模式第（二）篇，如何减少类爆炸-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13672&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUWY_f4XP5E-RZ-nhVp7EeA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-17-LiveDataBus-的实现比你想象中的简单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13670&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA8uIFxma10pI87u6YPC3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

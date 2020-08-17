@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 15:33:37，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 15:46:35，:rocket: 更新条数: +3297， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-08-17-冰岛新冠肺炎确诊病例升至2014例-8月19日将实行更严格入境规则](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibuTADptyE26K7g75FSab200817&isfromapp=1) ![](assets/new.png)  
+- [2020-08-17-香港延长禁止餐厅晚市堂食等社交距离措施直至8月25日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuICPzGhWyZ2APCNWWZrb200817&isfromapp=1) ![](assets/new.png)  
+- [2020-08-17-美航空业新一波失业潮将来临-专家：美经济复苏前景灰暗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieNUjSSXcuoDOm2PfsO6O200817&isfromapp=1) ![](assets/new.png)  
+- [2020-08-17-受疫情影响-泰国经济持续低迷-预计全年GDP将呈现负增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq41akbTxLK7G5861UJec200817&isfromapp=1) ![](assets/new.png)  
+- [2020-08-17-缓解疫情失业压力-新加坡延长四至七个月的补贴期限](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihE8x8pJYj6CaU7CVoqZg200817&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -441,26 +446,6 @@
 </summary>
 
 
-- [2020-08-17-为什么我不再用Redux了](https://www.ershicimi.com/p/187315cdb1b5fb3a1ed93f4d392c8e4f) ![](assets/new.png)  
-- [2020-08-17-Java的新未来：逐渐“Kotlin化”](https://www.ershicimi.com/p/040365896ed79cf8352fd2e8cee746e2) ![](assets/new.png)  
-- [2020-08-16-前端周报：谷歌开源-chromeOS.dev；-十余家美国企业联手抵制特朗普“封杀”微信；Angul](https://www.ershicimi.com/p/64729e7a6d3cc0184e99536b8a72d7fc) ![](assets/new.png)  
-- [2020-08-14-如何衡量前端工程质量？我们有了平台化的解决方案](https://www.ershicimi.com/p/dd0656b355c467a5ea70699349234d43) ![](assets/new.png)  
-- [2020-08-14-TypeScript-4.0-RC发布，带来诸多更新](https://www.ershicimi.com/p/493c41b006bc86ce765d8a62eadaffbf) ![](assets/new.png)  
-- [2020-08-14-来呀，一起造出一个React框架！-|-极客大学](https://www.ershicimi.com/p/c5613ff6ece0feea538d048d2236e143) ![](assets/new.png)  
-- [2020-08-13-软件史上最著名的10大Bug](https://www.ershicimi.com/p/baa4a19c76768f07918c5b1d514b433e) ![](assets/new.png)  
-- [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686) ![](assets/new.png)  
-- [2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da) ![](assets/new.png)  
-- [2020-08-12-6个常见的可访问性问题及解决方案](https://www.ershicimi.com/p/d3547dd3615918b17be6bd34fe67e291) ![](assets/new.png)  
-- [2020-08-12-从0到1教你配置深度学习服务器，高维破题助攻机器学习！-|-活动推荐](https://www.ershicimi.com/p/8e2d4d1865ea806550287d585958e48b) ![](assets/new.png)  
-- [2020-08-11-CSS-in-JS：一个充满争议的技术方案](https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6) ![](assets/new.png)  
-- [2020-08-11-如何在-Web-上大规模生成-UUID](https://www.ershicimi.com/p/439c67fd019b6392684956127a2db49e) ![](assets/new.png)  
-- [2020-08-10-不想一辈子打工，我做了个月入40余万的App](https://www.ershicimi.com/p/25bd483e164fa404b662543003e7d9d9) ![](assets/new.png)  
-- [2020-08-10-WebSocket-开发实战，三步实现实时弹幕系统](https://www.ershicimi.com/p/c80886f25187f3817819d1ebc95381f1) ![](assets/new.png)  
-- [2020-08-09-前端周报：印度政府已要求应用商店下架百度和微博；微信回应特朗普封禁：正在评估；安卓版-Chrome](https://www.ershicimi.com/p/8851a5df79a6834f39ee004a86ff2fa8) ![](assets/new.png)  
-- [2020-08-07-耗时三年，向React迁移的利与弊](https://www.ershicimi.com/p/20749545e470bf9c2ebc4975ceffba78) ![](assets/new.png)  
-- [2020-08-07-Django-3.1-发布，支持异步-view-和-middleware](https://www.ershicimi.com/p/b1eb1881506d7224b7ece2c0a459e1e1) ![](assets/new.png)  
-- [2020-08-07-网络传输如何“快“人一步？-|-活动推荐](https://www.ershicimi.com/p/0289f3b0697a8bb02be2b7e3b2287d88) ![](assets/new.png)  
-- [2020-08-06-Flutter-1.20正式发布，新特性解读！](https://www.ershicimi.com/p/47c1db4e66630d3dbad0eb6107daa23b) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1032,26 @@
 </summary>
 
 
+- [2020-08-17-Yubikey-最新固件版本-w](https://www.v2ex.com/t/699124) ![](assets/new.png)  
+- [2020-08-17-求助-单模单纤千兆光电转换只有百兆速度](https://www.v2ex.com/t/699123) ![](assets/new.png)  
+- [2020-08-17-仅需-10-元-即可获得<美团&字节&快手&网易&B-站>2020-算法真题详解全套](https://www.v2ex.com/t/699122) ![](assets/new.png)  
+- [2020-08-17-sagemath-是否真的好用？还是隐藏了大坑？](https://www.v2ex.com/t/699118) ![](assets/new.png)  
+- [2020-08-17-骑车被转弯的货车撞了](https://www.v2ex.com/t/699116) ![](assets/new.png)  
+- [2020-08-17-内推成功，内推人可以获得多少报酬？](https://www.v2ex.com/t/699114) ![](assets/new.png)  
+- [2020-08-17-《智慧海南总体方案（2020-2025-年）》本节点相关内容选摘](https://www.v2ex.com/t/699111) ![](assets/new.png)  
+- [2020-08-17-求助北京居住证相关问题](https://www.v2ex.com/t/699110) ![](assets/new.png)  
+- [2020-08-17-有一个落户北京的机会却有点犹豫了](https://www.v2ex.com/t/699109) ![](assets/new.png)  
+- [2020-08-17-肯德基、麦当劳丢弃超过销售时间的食物是否属于浪费?](https://www.v2ex.com/t/699108) ![](assets/new.png)  
+- [2020-08-17-经过几年的迭代，印象终于把-Evernote-进化成了国产垃圾](https://www.v2ex.com/t/699107) ![](assets/new.png)  
+- [2020-08-17-怎么在微信里打开本地网页](https://www.v2ex.com/t/699106) ![](assets/new.png)  
+- [2020-08-17-帮父母买鱼油保健品，海淘还是国内网站买？感觉国内网站买不放心](https://www.v2ex.com/t/699105) ![](assets/new.png)  
+- [2020-08-17-macOS-应用商店应用可以备份吗？](https://www.v2ex.com/t/699102) ![](assets/new.png)  
+- [2020-08-17-如何查看微信上-h5-的源码？](https://www.v2ex.com/t/699101) ![](assets/new.png)  
+- [2020-08-17-刚了解-gin，有一点问题想请教一下](https://www.v2ex.com/t/699100) ![](assets/new.png)  
+- [2020-08-17-（久等了）韭菜盒子——做最好用的-VSCode-养鸡插件](https://www.v2ex.com/t/699099) ![](assets/new.png)  
+- [2020-08-17-求-aiohttp-后端-直接生成-exl-下载-的-demo-，实在找不到材料。。](https://www.v2ex.com/t/699098) ![](assets/new.png)  
+- [2020-08-17-啊这。。亲身经历-github-intel-项目刷-star-的兼职](https://www.v2ex.com/t/699097) ![](assets/new.png)  
+- [2020-08-17-小红书-高级后端开发工程师招聘-直播带货业务-组内直招岗位](https://www.v2ex.com/t/699096) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1098,8 +1103,8 @@
 - [2020-08-17-Kubernetes-如何改变美团的云基础设施？](https://toutiao.io/k/cur5n7m) ![](assets/new.png)  
 - [2020-08-17-学-C-语言和学-C++-它有毛关系吗？](https://toutiao.io/k/c7jl9z4) ![](assets/new.png)  
 - [2020-08-17-AI-技术如何打造智能语音质检系统](https://toutiao.io/k/wx36ke3) ![](assets/new.png)  
-- [2020-08-17-Python-函数为什么会默认返回-None？](https://toutiao.io/k/5ldsr7i) ![](assets/new.png)  
 - [2020-08-17-遇到困难的时候你会和谁说](https://toutiao.io/k/d1qirzo) ![](assets/new.png)  
+- [2020-08-17-Python-函数为什么会默认返回-None？](https://toutiao.io/k/5ldsr7i) ![](assets/new.png)  
 - [2020-08-17-深入浅出-GFS（分布式文件存储）](https://toutiao.io/k/bjuxka6) ![](assets/new.png)  
 - [2020-08-17-LeetCode-100：相同的树](https://toutiao.io/k/pag73bk) ![](assets/new.png)  
 - [2020-08-17-深度：手写一个-WebSocket-协议](https://toutiao.io/k/42oqniu) ![](assets/new.png)  

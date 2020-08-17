@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 07:48:16，:rocket: 更新条数: +3303， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 08:02:41，:rocket: 更新条数: +3305， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-17-谁用过开源免费的项目管理系统，推荐下](https://www.v2ex.com/t/698993) ![](assets/new.png)  
+- [2020-08-17-闲鱼出-iPad-，买家用两天坏了。](https://www.v2ex.com/t/698990) ![](assets/new.png)  
+- [2020-08-17-FAQ-|-PerfDog-常见问题解答第二期](https://www.v2ex.com/t/698988) ![](assets/new.png)  
+- [2020-08-17-BSL-Shaders](https://www.v2ex.com/t/698987) ![](assets/new.png)  
+- [2020-08-17-2020-年了，-Android-MVVM-应该怎么写](https://www.v2ex.com/t/698986) ![](assets/new.png)  
 - [2020-08-17-字节-教育方向，大量-HC，-长期内推](https://www.v2ex.com/t/698985) ![](assets/new.png)  
 - [2020-08-17-各位的-Windows-系统运行-Excel-的时候，拖拽窗口有滞粘、卡顿的现象吗？](https://www.v2ex.com/t/698984) ![](assets/new.png)  
 - [2020-08-17-如何用-C++-写一个软件渲染器？](https://www.v2ex.com/t/698982) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-17-迫于无房状态，请大家推荐房子或者吐槽房子（广州）](https://www.v2ex.com/t/698969) ![](assets/new.png)  
 - [2020-08-17-不懂就问，在公司内网使用-PHP-curl-获取远程网页内容，返回：出错信息-服务节点：-chn-shads-1-12-客户-IP：](https://www.v2ex.com/t/698965) ![](assets/new.png)  
 - [2020-08-17-开一个-office-365-家庭版的车](https://www.v2ex.com/t/698964) ![](assets/new.png)  
-- [2020-08-17-六个月试用期加试用期百分之八十工资的-offer-能接吗](https://www.v2ex.com/t/698958) ![](assets/new.png)  
-- [2020-08-17-券商开发部门值得去吗？](https://www.v2ex.com/t/698954) ![](assets/new.png)  
-- [2020-08-17-http-报文如果不携带-connection-但是-server-返回了'Connection':-'keek-alive'会建立持久连接么](https://www.v2ex.com/t/698952) ![](assets/new.png)  
-- [2020-08-17-外企内推-MX-Player-北京研发中心内推，大量-HC～](https://www.v2ex.com/t/698949) ![](assets/new.png)  
-- [2020-08-17-被老板拉黑咋办？](https://www.v2ex.com/t/698948) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1130,8 @@
 - [2020-08-17-深度：手写一个-WebSocket-协议](https://toutiao.io/k/42oqniu) ![](assets/new.png)  
 - [2020-08-17-分享一个-Flink-checkpoint-失败的问题和解决办法](https://toutiao.io/k/s2vgaxn) ![](assets/new.png)  
 - [2020-08-17-API-设计的几条原则](https://toutiao.io/k/8yejc7o) ![](assets/new.png)  
-- [2020-08-17-译-使用-JavaScript-检测空闲的浏览器选项卡，可以做些什么？](https://toutiao.io/k/2arbeoh) ![](assets/new.png)  
 - [2020-08-17-前端与-DSL](https://toutiao.io/k/s0j9qkh) ![](assets/new.png)  
+- [2020-08-17-译-使用-JavaScript-检测空闲的浏览器选项卡，可以做些什么？](https://toutiao.io/k/2arbeoh) ![](assets/new.png)  
 - [2020-08-17-Pulsar-与-Kafka-全方位对比（上）：功能、性能、用例](https://toutiao.io/k/v9gbk0d) ![](assets/new.png)  
 - [2020-08-17-异常处理的那些事儿](https://toutiao.io/k/hu57qnw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

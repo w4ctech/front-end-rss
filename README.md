@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 12:12:46，:rocket: 更新条数: +758， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 12:25:34，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-08-16-最新疫情：全国新冠累计确诊84849例-新增22例全部由境外输入](http://m.china.caixin.com/m/2020-08-17/101593562.html) ![](assets/new.png)  
+- [2020-08-16-最新海外疫情：新冠感染近2155万-累计死亡超77万](http://m.international.caixin.com/m/2020-08-17/101593571.html) ![](assets/new.png)  
+- [2020-08-16-【境内疫情观察】全国无新增本土病例（8月16日）](http://m.database.caixin.com/m/2020-08-17/101593491.html) ![](assets/new.png)  
+- [2020-08-16-大流行手记|8月16日：印度签约生产低价新冠疫苗-复课后美国多州学校现疫情](https://m.caixin.com/m/2020-08-17/101593367.html) ![](assets/new.png)  
+- [2020-08-15-广东排查48家盒马鲜生关联企业-新发疫情传染源尚未明确](http://m.china.caixin.com/m/2020-08-16/101593340.html) ![](assets/new.png)  
+- [2020-08-15-【境内疫情观察】全国新增15例境外输入病例（8月15日）](http://m.database.caixin.com/m/2020-08-16/101593302.html) ![](assets/new.png)  
+- [2020-08-14-深圳21家盒马门店停业-部分市民免费检测核酸](https://m.caixin.com/m/2020-08-15/101593109.html) ![](assets/new.png)  
+- [2020-08-14-【境内疫情观察】广东新增1例本土病例（8月14日）](http://m.database.caixin.com/m/2020-08-15/101593194.html) ![](assets/new.png)  
+- [2020-08-14-大流行手记|8月14日：英国再购近1亿剂疫苗-俄疫苗寻求世卫资格预审](https://m.caixin.com/m/2020-08-15/101593099.html) ![](assets/new.png)  
+- [2020-08-13-【境内疫情观察】上海新增16例境外输入病例（8月13日）](http://m.database.caixin.com/m/2020-08-14/101592707.html) ![](assets/new.png)  
+- [2020-08-13-大流行手记|8月13日：全球数百人因新冠错误信息死亡-新西兰疑冷库货物输入病毒](https://m.caixin.com/m/2020-08-14/101592513.html) ![](assets/new.png)  
+- [2020-08-13-反思新冠疫情，中疾控原副主任撰文详解传染病预警机制怎么改](https://m.caixin.com/m/2020-08-14/101592909.html) ![](assets/new.png)  
+- [2020-08-13-香港新增病例连续12日保持双位数-疫情蔓延至外佣群体](https://m.caixin.com/m/2020-08-14/101593005.html) ![](assets/new.png)  
+- [2020-08-13-深圳盒马鲜生员工在老家确诊新冠-两名同事核酸阳性无症状](https://m.caixin.com/m/2020-08-14/101593019.html) ![](assets/new.png)  
+- [2020-08-13-广东陆丰发现1例新冠肺炎确诊病例，为深圳超市员工](https://m.caixin.com/m/2020-08-14/101592985.html) ![](assets/new.png)  
+- [2020-08-12-新发地8月15日起正式复市-不再对个人消费者开放](https://m.caixin.com/m/2020-08-13/101592402.html) ![](assets/new.png)  
+- [2020-08-12-【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html) ![](assets/new.png)  
+- [2020-08-12-大流行手记|8月12日：近40万美国儿童感染新冠-巴西阿根廷安排学校复课](https://m.caixin.com/m/2020-08-13/101592096.html) ![](assets/new.png)  
+- [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
+- [2020-08-12-巴西一州决定测试生产俄罗斯疫苗](http://m.international.caixin.com/m/2020-08-13/101592371.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -741,6 +761,12 @@
 </summary>
 
 
+- [2020-08-17-了不起的-IoC-与-DI](https://www.ershicimi.com/p/266736fa647762d5702cbbb751558d90) ![](assets/new.png)  
+- [2020-08-17-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/ccbf696e7a333a95521a299849054ecd) ![](assets/new.png)  
+- [2020-08-17-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/04281a7adb7ddbc0a91899ed8528e5ab) ![](assets/new.png)  
+- [2020-08-15-TypeScript实现八大排序与搜索算法](https://www.ershicimi.com/p/f651db2c204494516d96ac8ee4dae5d9) ![](assets/new.png)  
+- [2020-08-15-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/4d67de8b0dfdfd69c9f1544a6b0bfda3) ![](assets/new.png)  
+- [2020-08-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/805da77915d63d084626882aaccc52b1) ![](assets/new.png)  
 - [2020-08-14-奇舞周刊第-360-期：-API-设计的几条原则](https://www.ershicimi.com/p/81d264b9b908a30db0537fd22c56ae8f) ![](assets/new.png)  
 - [2020-08-13-React17新特性：启发式更新算法](https://www.ershicimi.com/p/e8426b680d9e54dd7b0e8e2bf99ed27a) ![](assets/new.png)  
 - [2020-08-13-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/202b21f9d90c1818d553dab44f4fb92e) ![](assets/new.png)  
@@ -755,12 +781,6 @@
 - [2020-08-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/f320dc91203419a135ddaa4deb1b6d53) ![](assets/new.png)  
 - [2020-08-08-「查缺补漏」巩固你的HTTP知识体系](https://www.ershicimi.com/p/2c8fabfc84cbfe1048f6390ac2e400aa) ![](assets/new.png)  
 - [2020-08-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1399cc984e8b4267161a93a92c3c017e) ![](assets/new.png)  
-- [2020-08-07-奇舞周刊第-359-期：可折叠-Web-可能会给我们带来的变化](https://www.ershicimi.com/p/837bcf9223d60128fd5d208fa01b5a0b) ![](assets/new.png)  
-- [2020-08-06-nestjs+vue+ts打造一个酷炫的星空聊天室含完整数据库设计](https://www.ershicimi.com/p/465cc2c19696694ea17500cbac43a394) ![](assets/new.png)  
-- [2020-08-06-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/955462dab8f7b36e725fa07924f35a80) ![](assets/new.png)  
-- [2020-08-05-解读HTTP/2与HTTP/3-的新特性](https://www.ershicimi.com/p/1c4945de34d494a06711fe4925025195) ![](assets/new.png)  
-- [2020-08-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/76189a0a1f3ba26bc46c4d82192e7253) ![](assets/new.png)  
-- [2020-08-04-如何学习React源码](https://www.ershicimi.com/p/e2c173d807de9fd12e90b51f269c7401) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-17-Shopee-新加坡内推-老司机内推新加坡篇](https://www.v2ex.com/t/699086) ![](assets/new.png)  
+- [2020-08-17-实测华为云香港节点-129-包年-真香！](https://www.v2ex.com/t/699085) ![](assets/new.png)  
+- [2020-08-17-中信银行-北京-社招内推-大量-hc-系统分析师、-Java-开发、前端开发-20k-40k](https://www.v2ex.com/t/699084) ![](assets/new.png)  
+- [2020-08-17-Discourse-升级后，论坛删除了几百个用户](https://www.v2ex.com/t/699083) ![](assets/new.png)  
+- [2020-08-17-杭州公司黑名单+1](https://www.v2ex.com/t/699082) ![](assets/new.png)  
 - [2020-08-17-用树莓派-DIY-波士顿机器狗，帮你省下-50-万：教程开源，人人皆可上手](https://www.v2ex.com/t/699079) ![](assets/new.png)  
 - [2020-08-17-微信小程序云开发如何对单个云函数限流？](https://www.v2ex.com/t/699078) ![](assets/new.png)  
 - [2020-08-17-谷歌翻译-App](https://www.v2ex.com/t/699077) ![](assets/new.png)  
@@ -1047,11 +1072,6 @@
 - [2020-08-17-求助一下：-Opencart-管理员权限不足显示-Permission-Denied!-怎么解决？](https://www.v2ex.com/t/699066) ![](assets/new.png)  
 - [2020-08-17-树莓派玩具怎么优化？](https://www.v2ex.com/t/699065) ![](assets/new.png)  
 - [2020-08-17-周鸿祎称有的软件会偷偷打开摄像头-或者麦克风录音](https://www.v2ex.com/t/699064) ![](assets/new.png)  
-- [2020-08-17-ikbc-c87+MBP-10.14.6，各位有遇到过键盘出现这种情况吗？](https://www.v2ex.com/t/699063) ![](assets/new.png)  
-- [2020-08-17-请教大家，如果有机会是否应该辞掉工作回到校园去读研？](https://www.v2ex.com/t/699062) ![](assets/new.png)  
-- [2020-08-17-YouTube-上有什么优质频道吗？](https://www.v2ex.com/t/699061) ![](assets/new.png)  
-- [2020-08-17-有用过百度竞价排名的吗？](https://www.v2ex.com/t/699060) ![](assets/new.png)  
-- [2020-08-17-群晖管家-APP，在内网开启-https-验证就报自签证书](https://www.v2ex.com/t/699059) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1063,6 +1083,26 @@
 </summary>
 
 
+- [2020-08-17-为什么要加快组织变革的速度-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13689&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fspeed-up-organization-transformation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-如何优雅使用「快应用」API-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13688&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-use-the-quickapp-api-gracefully%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-一次蚂蚁金服的辛酸面试历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13687&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlGMB3sdVbQFkmaDL_cgvyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-JetPack系列-Paging-3.0学习-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13686&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOKLlU1LtF1LvFHDbgkrMkA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-程序员不应该错过的-7-大导航-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13685&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1k_JILzNoRbh14mu--5cHw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-Android-AES加密（Kotlin）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13684&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FENUca2jF0V4OVnUyMyluAA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-学计算机的女生，是一种怎样的存在？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13683&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtKOFvcv6F-IVpSlGy0Asyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-蓝绿大厂之争，国产手机逆袭除了自研芯片还能靠啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13682&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbR3IGteDHE0q9MdfnN-ufg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-张一鸣：我的大学四年收获及工作感悟-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13680&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSVvNPdsfZS3kLFy3wWe33g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-如何优雅地向老师表达：我这周任务没啥进展？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13679&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDTGUSO0gF4v76zJ1YU5kLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-强推-16-款-IDEA-插件，让你的开发速度飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13678&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvLmgi509ND6MnlxqszxCIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-分享一个Flink-checkpoint失败的问题和解决办法-club.perfma.com](https://blogread.cn/news/go.php?idItem=13677&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1733519%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-API设计的几条原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-怎样消灭Bug？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-优先改进哪个点：捏软柿子还是啃硬骨头？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13674&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontinuous-improvement-priority%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-领域对象发展的极致就是代理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13673&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dynamic-domian-modelling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-Android架构设计--MVP模式第（二）篇，如何减少类爆炸-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13672&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUWY_f4XP5E-RZ-nhVp7EeA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-17-LiveDataBus-的实现比你想象中的简单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13670&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA8uIFxma10pI87u6YPC3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1085,8 +1125,8 @@
 - [2020-08-17-AI-技术如何打造智能语音质检系统](https://toutiao.io/k/wx36ke3) ![](assets/new.png)  
 - [2020-08-17-Python-函数为什么会默认返回-None？](https://toutiao.io/k/5ldsr7i) ![](assets/new.png)  
 - [2020-08-17-遇到困难的时候你会和谁说](https://toutiao.io/k/d1qirzo) ![](assets/new.png)  
-- [2020-08-17-LeetCode-100：相同的树](https://toutiao.io/k/pag73bk) ![](assets/new.png)  
 - [2020-08-17-深入浅出-GFS（分布式文件存储）](https://toutiao.io/k/bjuxka6) ![](assets/new.png)  
+- [2020-08-17-LeetCode-100：相同的树](https://toutiao.io/k/pag73bk) ![](assets/new.png)  
 - [2020-08-17-深度：手写一个-WebSocket-协议](https://toutiao.io/k/42oqniu) ![](assets/new.png)  
 - [2020-08-17-分享一个-Flink-checkpoint-失败的问题和解决办法](https://toutiao.io/k/s2vgaxn) ![](assets/new.png)  
 - [2020-08-17-API-设计的几条原则](https://toutiao.io/k/8yejc7o) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 15:02:56，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 15:10:12，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-08-16-深圳升级进口冻品监管力度-消杀检测费用由政府承担](http://m.china.caixin.com/m/2020-08-17/101593714.html) ![](assets/new.png)  
 - [2020-08-16-最新海外疫情：新冠感染近2155万-累计死亡超77万](http://m.international.caixin.com/m/2020-08-17/101593571.html) ![](assets/new.png)  
 - [2020-08-16-最新疫情：全国新冠累计确诊84849例-新增22例全部由境外输入](http://m.china.caixin.com/m/2020-08-17/101593562.html) ![](assets/new.png)  
 - [2020-08-16-【境内疫情观察】全国无新增本土病例（8月16日）](http://m.database.caixin.com/m/2020-08-17/101593491.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-12-【境内疫情观察】新疆新增8例本土病例（8月12日）](http://m.database.caixin.com/m/2020-08-13/101592210.html) ![](assets/new.png)  
 - [2020-08-12-大流行手记|8月12日：近40万美国儿童感染新冠-巴西阿根廷安排学校复课](https://m.caixin.com/m/2020-08-13/101592096.html) ![](assets/new.png)  
 - [2020-08-12-西安一批发市场进口虾产品检出新冠-官方称尚无人员确诊](http://m.china.caixin.com/m/2020-08-13/101592376.html) ![](assets/new.png)  
-- [2020-08-12-巴西一州决定测试生产俄罗斯疫苗](http://m.international.caixin.com/m/2020-08-13/101592371.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,8 +1132,8 @@
 - [2020-08-17-API-设计的几条原则](https://toutiao.io/k/8yejc7o) ![](assets/new.png)  
 - [2020-08-17-Pulsar-与-Kafka-全方位对比（上）：功能、性能、用例](https://toutiao.io/k/v9gbk0d) ![](assets/new.png)  
 - [2020-08-17-前端与-DSL](https://toutiao.io/k/s0j9qkh) ![](assets/new.png)  
-- [2020-08-17-译-使用-JavaScript-检测空闲的浏览器选项卡，可以做些什么？](https://toutiao.io/k/2arbeoh) ![](assets/new.png)  
 - [2020-08-17-异常处理的那些事儿](https://toutiao.io/k/hu57qnw) ![](assets/new.png)  
+- [2020-08-17-译-使用-JavaScript-检测空闲的浏览器选项卡，可以做些什么？](https://toutiao.io/k/2arbeoh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

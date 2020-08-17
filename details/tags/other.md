@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-17 15:02:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 15:10:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-08-16-深圳升级进口冻品监管力度-消杀检测费用由政府承担](http://m.china.caixin.com/m/2020-08-17/101593714.html) 
 - [2020-08-16-最新海外疫情：新冠感染近2155万-累计死亡超77万](http://m.international.caixin.com/m/2020-08-17/101593571.html) 
 - [2020-08-16-最新疫情：全国新冠累计确诊84849例-新增22例全部由境外输入](http://m.china.caixin.com/m/2020-08-17/101593562.html) 
 - [2020-08-16-【境内疫情观察】全国无新增本土病例（8月16日）](http://m.database.caixin.com/m/2020-08-17/101593491.html) 
@@ -2507,18 +2508,15 @@
 - [2020-08-17-API-设计的几条原则](https://toutiao.io/k/8yejc7o) 
 - [2020-08-17-前端与-DSL](https://toutiao.io/k/s0j9qkh) 
 - [2020-08-17-异常处理的那些事儿](https://toutiao.io/k/hu57qnw) 
-- [2020-08-17-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) 
+- [2020-08-17-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) 
+- [2020-08-17-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) 
 - [2020-08-17-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
-- [2020-08-17-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) 
-- [2020-08-17-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
-- [2020-08-17-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
 - [2020-08-17-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) 
 - [2020-08-17-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) 
-- [2020-08-17-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) 
-- [2020-08-17-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) 
-- [2020-08-17-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
+- [2020-08-17-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) 
+- [2020-08-17-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
+- [2020-08-17-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) 
 - [2020-08-17-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) 
-- [2020-08-17-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
 - [2020-08-15-Struts2-S2-059-漏洞分析](https://sec.thief.one/article_content?a_id=1e81e408d726a4c620d3af6f49b8b4df) 
 - [2020-08-14-CVE-2019-0230:Apache-Struts2远程代码执行漏洞通告](https://sec.thief.one/article_content?a_id=1d627d72a4a6ff90ae9e29871b0db55e) 
 - [2020-08-13-红队渗透手册之免杀篇](https://sec.thief.one/article_content?a_id=d228e82dbf1bf060bcfd097026dd9efe) 

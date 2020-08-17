@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-17 17:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 18:02:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-17-刚买的-MacBook-pro-开箱后发现有两个小划痕](https://www.v2ex.com/t/699137) 
 - [2020-08-17-招安卓全栈（后端极轻），仿-app，带报价来。](https://www.v2ex.com/t/699132) 
 - [2020-08-17-有炒美股的交流群吗？求加](https://www.v2ex.com/t/699127) 
 - [2020-08-17-印象笔记的资金流是有问题了吗？](https://www.v2ex.com/t/699126) 

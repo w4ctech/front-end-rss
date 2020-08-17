@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-17 05:20:14，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 05:31:48，:rocket: 更新条数: +3308， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-17-Android-开发技术周报-Issue#293](https://www.v2ex.com/t/698932) ![](assets/new.png)  
+- [2020-08-17-Big-Sur-Beta4-自带的邮件开启后还会自动弹出屏幕吗？](https://www.v2ex.com/t/698930) ![](assets/new.png)  
 - [2020-08-17-现在市面上有提供-API-的-GPS-追踪器么？](https://www.v2ex.com/t/698926) ![](assets/new.png)  
 - [2020-08-17-AI-挑战赛冠军方案分享](https://www.v2ex.com/t/698925) ![](assets/new.png)  
 - [2020-08-17-精品网出国-udp-策略丢包](https://www.v2ex.com/t/698924) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-17-刚做到的百度面试题：祖玛游戏](https://www.v2ex.com/t/698900) ![](assets/new.png)  
 - [2020-08-17-离开工作环境后完全就是脱离社会，经常在想这是我本身性格的问题还是干技术的痛](https://www.v2ex.com/t/698899) ![](assets/new.png)  
 - [2020-08-17-MBP-15-寸-2015-基础版外接-4K-显示器的问题](https://www.v2ex.com/t/698897) ![](assets/new.png)  
-- [2020-08-17-敏捷开发大行其道，-UML-在实际工作还有多少程度的使用？](https://www.v2ex.com/t/698896) ![](assets/new.png)  
-- [2020-08-17-微软模拟飞行-2020-马上要解锁了](https://www.v2ex.com/t/698895) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,10 +1129,10 @@
 - [2020-08-17-深入浅出-GFS（分布式文件存储）](https://toutiao.io/k/bjuxka6) ![](assets/new.png)  
 - [2020-08-17-深度：手写一个-WebSocket-协议](https://toutiao.io/k/42oqniu) ![](assets/new.png)  
 - [2020-08-17-分享一个-Flink-checkpoint-失败的问题和解决办法](https://toutiao.io/k/s2vgaxn) ![](assets/new.png)  
-- [2020-08-17-译-使用-JavaScript-检测空闲的浏览器选项卡，可以做些什么？](https://toutiao.io/k/2arbeoh) ![](assets/new.png)  
 - [2020-08-17-API-设计的几条原则](https://toutiao.io/k/8yejc7o) ![](assets/new.png)  
-- [2020-08-17-异常处理的那些事儿](https://toutiao.io/k/hu57qnw) ![](assets/new.png)  
+- [2020-08-17-译-使用-JavaScript-检测空闲的浏览器选项卡，可以做些什么？](https://toutiao.io/k/2arbeoh) ![](assets/new.png)  
 - [2020-08-17-前端与-DSL](https://toutiao.io/k/s0j9qkh) ![](assets/new.png)  
+- [2020-08-17-异常处理的那些事儿](https://toutiao.io/k/hu57qnw) ![](assets/new.png)  
 - [2020-08-17-Pulsar-与-Kafka-全方位对比（上）：功能、性能、用例](https://toutiao.io/k/v9gbk0d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

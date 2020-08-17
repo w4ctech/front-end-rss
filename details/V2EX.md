@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-17 05:02:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 05:09:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-17-AI-挑战赛冠军方案分享](https://www.v2ex.com/t/698925) 
 - [2020-08-17-精品网出国-udp-策略丢包](https://www.v2ex.com/t/698924) 
 - [2020-08-17-ebay-中国研发中心招聘设计实习生](https://www.v2ex.com/t/698922) 
 - [2020-08-17-深圳企业宽带固定-IP-多少钱？](https://www.v2ex.com/t/698920) 

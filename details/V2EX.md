@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-17 22:02:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 22:09:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -35,4 +35,3 @@
 - [2020-08-17-求一个开源信息发布的项目，或相似也可以](https://www.v2ex.com/t/699095) 
 - [2020-08-17-10.15.6-无法播放油管视频？](https://www.v2ex.com/t/699094) 
 - [2020-08-17-VUE-自定义指令的问题](https://www.v2ex.com/t/699093) 
-- [2020-08-17-Vue-的-transition-动画前缀使用-fade-时为什么无效呢？](https://www.v2ex.com/t/699092) 

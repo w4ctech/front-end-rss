@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 06:48:09，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 07:02:40，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-18-google-voice-开通问题](https://www.v2ex.com/t/699297) ![](assets/new.png)  
+- [2020-08-18-有没有现成的扫码跟踪货品轨迹的系统？开源或商业](https://www.v2ex.com/t/699296) ![](assets/new.png)  
 - [2020-08-18-无墙的移动网络体验](https://www.v2ex.com/t/699295) ![](assets/new.png)  
 - [2020-08-18-国内最好的统计-SDK-是哪个](https://www.v2ex.com/t/699294) ![](assets/new.png)  
 - [2020-08-18-远程全职Team247-寻找初/中/高级软件工程师全栈方向](https://www.v2ex.com/t/699293) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-18-腾讯学生机可以直接买了吗？](https://www.v2ex.com/t/699274) ![](assets/new.png)  
 - [2020-08-18-字节跳动内推季持续招人，多样海量岗位需求，-内推进度随时可查哦](https://www.v2ex.com/t/699273) ![](assets/new.png)  
 - [2020-08-18-从一线回到二线又重新回去](https://www.v2ex.com/t/699272) ![](assets/new.png)  
-- [2020-08-18-有可能在氧-OS-上用上氢-OS-的短信么](https://www.v2ex.com/t/699270) ![](assets/new.png)  
-- [2020-08-18-我这专科还有救吗，无经验](https://www.v2ex.com/t/699268) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

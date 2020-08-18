@@ -13162,10 +13162,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/5760",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
-    "items": []
+    "items": [
+      {
+        "title": "【第2036期】如何将Canvas绘制过程转为视频",
+        "link": "https://www.ershicimi.com/p/727e24fa191cab2b75d598dda8a41335",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "【第2035期】React 17 RC 版发布：无新特性，却有新期待！",
+        "link": "https://www.ershicimi.com/p/bc2f78439648d4259c89c2977e549c86",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "【开源】Reactant: 一个渐进式React的框架",
+        "link": "https://www.ershicimi.com/p/03e9e1aa72383b954073d6d0100a7f4a",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "【第2034期】全民K歌推流直播Web实践",
+        "link": "https://www.ershicimi.com/p/418fa8175221ad03a3dc474f0ba433a3",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "【第2033期】核心稳定、易扩展——开放关闭原则（The Open-Closed Principle",
+        "link": "https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "【第2032期】基于react的组件库主题设计方案",
+        "link": "https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "【招聘】深圳富途招聘web前后端工程师",
+        "link": "https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "前端圈的贫富差距正在拉大？",
+        "link": "https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "【第2031期】APNG 那些事",
+        "link": "https://www.ershicimi.com/p/0b91f049f1eac1c08cfd70c761b36127",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "【第2030期】JavaScript 启动性能瓶颈分析与解决方案",
+        "link": "https://www.ershicimi.com/p/b5d928c5a5bb527a841b3c254803bc72",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "【招聘】微医集团前端技术部招高级前端开发工程师及前端技术专家",
+        "link": "https://www.ershicimi.com/p/01b1405da53014f424c46c2d7e799c19",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "【第2029期】Plugin Anything：插件化改造工具",
+        "link": "https://www.ershicimi.com/p/7c9d9ac311c34240231a88a3b847fe80",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "【招聘】北京猎聘多面中心招高级前端开发工程师",
+        "link": "https://www.ershicimi.com/p/8051d6fde1f84fe20c31249ee0701e70",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "【第2028期】What I'm thinking about: JS疲劳、招聘",
+        "link": "https://www.ershicimi.com/p/65b985e1834e3b5cfd21fd74691a5317",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "【第2027期】图解CORS",
+        "link": "https://www.ershicimi.com/p/2f680c25c9986033bf75373aaf0ed968",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "【招聘】字节跳动广州EI团队招前端开发Leader以及高级前端工程师",
+        "link": "https://www.ershicimi.com/p/01b3208db8c27d26d1fe73f2f499dd88",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "【第2026期】「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值",
+        "link": "https://www.ershicimi.com/p/6b62edaefd5ec41b54e722ff322340e1",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "【招聘】北京新浪微博招高级前端开发工程师（社招）",
+        "link": "https://www.ershicimi.com/p/e84d592a3e7a2ac0ec8ce7cd5d5fa584",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "当HR跟你谈薪水时，如何回答能使收入最大化？",
+        "link": "https://www.ershicimi.com/p/c0f85e55a86d6ef9d7713fb5fcf22bcb",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "【第2025期】解读 Chrome 84 新特性，支持私有方法、用户空闲检测！",
+        "link": "https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa",
+        "date": "2020-08-05"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/65",
@@ -15788,6 +15889,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "淘宝半价撸话费",
+        "link": "https://www.v2ex.com/t/699327",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "appstoreconnect 创建应用，没有上传 icon 地方了？",
+        "link": "https://www.v2ex.com/t/699325",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "江苏电信使用光猫多播叠加下行",
+        "link": "https://www.v2ex.com/t/699324",
+        "date": "2020-08-18"
+      },
+      {
         "title": "你们啥时候会想买保险？",
         "link": "https://www.v2ex.com/t/699323",
         "date": "2020-08-18"
@@ -15951,16 +16067,6 @@
         "title": "安全与风控内推----字节跳动",
         "link": "https://www.v2ex.com/t/699279",
         "date": "2020-08-18"
-      },
-      {
-        "title": "笔记本遮挡摄像头用什么东西遮挡笔记好",
-        "link": "https://www.v2ex.com/t/699277",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "腾讯学生机可以直接买了吗？",
-        "link": "https://www.v2ex.com/t/699274",
-        "date": "2020-08-18"
       }
     ]
   },
@@ -16092,23 +16198,23 @@
         "date": "2020-08-18"
       },
       {
-        "title": ".NET Core + Ocelot：API 网关",
-        "link": "https://toutiao.io/k/xxh3674",
-        "date": "2020-08-18"
-      },
-      {
         "title": "LeetCode 题解",
         "link": "https://toutiao.io/k/hjie8u4",
         "date": "2020-08-18"
       },
       {
-        "title": "深色模式在 Web 端的适配方案",
-        "link": "https://toutiao.io/k/03kk4hr",
+        "title": ".NET Core + Ocelot：API 网关",
+        "link": "https://toutiao.io/k/xxh3674",
         "date": "2020-08-18"
       },
       {
         "title": "Kubernetes 源码解析：HPA 水平自动伸缩如何工作",
         "link": "https://toutiao.io/k/vaowlox",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "深色模式在 Web 端的适配方案",
+        "link": "https://toutiao.io/k/03kk4hr",
         "date": "2020-08-18"
       },
       {
@@ -16177,53 +16283,8 @@
         "date": "2020-08-18"
       },
       {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
-        "link": "https://toutiao.io/k/lmtdqk1",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
         "date": "2020-08-18"
       },
       {
@@ -16232,23 +16293,68 @@
         "date": "2020-08-18"
       },
       {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
         "date": "2020-08-18"
       },
       {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
         "date": "2020-08-18"
       },
       {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-18"
       },
       {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
         "date": "2020-08-18"
       }
     ]

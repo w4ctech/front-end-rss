@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 07:48:18，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 08:02:52，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-18-2020年8月17日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202008/t20200818_3930100.html) ![](assets/new.png)  
 - [2020-08-18-关于最近疫情-钟南山有这些最新判断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUO5hM83050CD3tj4m6CJ200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-解封后疫情反弹-尼泊尔多地恢复局部封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNYYPK0hj0FACoxajkoQZ200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-香港疫情仍未见稳定趋势-特区政府将推出第三轮防疫抗疫基金及第二期“保就业计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXO1HTscdpXuMuBFW2rWj200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-山东公布17日新增境外输入无症状感染者详情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN910P9z67BEyuckjOlFt200818&isfromapp=1) ![](assets/new.png)  
-- [2020-08-18-墨西哥新增3571例新冠肺炎确诊病例-累计525733例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZhtZ0AN7x12TSLSc72Kx200818&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -142,26 +142,6 @@
 </summary>
 
 
-- [2020-08-18-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/912afe515684fa01eb8ad9b6917b6ada) ![](assets/new.png)  
-- [2020-08-18-让你减少加班的15条高效JS技巧！](https://www.ershicimi.com/p/b1504bcafd500a85680eb80fd2b2a340) ![](assets/new.png)  
-- [2020-08-17-Medium-2w+赞，高效程序员拥有的-7-个习惯！](https://www.ershicimi.com/p/f2923984bf41ae01209684f5523f3016) ![](assets/new.png)  
-- [2020-08-17-Docker-禁止被列入美国“实体名单”的国家、企业、个人使用](https://www.ershicimi.com/p/ea984f42cc9c18f9f658aed494d5bd3d) ![](assets/new.png)  
-- [2020-08-16-想要学习人工智能？推荐你一条完整的学习路径！](https://www.ershicimi.com/p/65a42c4907f7602144dab106f299618a) ![](assets/new.png)  
-- [2020-08-16-使用-JavaScript-编写更好的条件语句](https://www.ershicimi.com/p/2ffbec9a1d3ea118c57e492891812113) ![](assets/new.png)  
-- [2020-08-15-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/91319db848d90b3313d835b9d3701cc6) ![](assets/new.png)  
-- [2020-08-14-上帝视角看-Vue-源码，能看出个啥？](https://www.ershicimi.com/p/05216dad101054eb7bfac1eaafcee7ad) ![](assets/new.png)  
-- [2020-08-14-一行-CSS-为网页添加暗黑模式支持](https://www.ershicimi.com/p/0a1e448b833f9e37c846cc11bb8a8235) ![](assets/new.png)  
-- [2020-08-13-彻底理解-Cookie、Session、Token、JWT](https://www.ershicimi.com/p/84993ecce885d12eed3d49609df83b48) ![](assets/new.png)  
-- [2020-08-13-你可以不尊重我的人，但必须尊重我的代码...](https://www.ershicimi.com/p/b49e6145eb1c1f02187a36f19b87364e) ![](assets/new.png)  
-- [2020-08-12-不要成为只会JS，不会写CSS的“伪前端”！](https://www.ershicimi.com/p/ecd28c1d3162b1b9e5df477c2f9285ff) ![](assets/new.png)  
-- [2020-08-12-10款谷歌浏览器插件武装你的浏览器](https://www.ershicimi.com/p/a6a585d5469d551f985ffac24fbb6f5a) ![](assets/new.png)  
-- [2020-08-11-几行代码摸清楚上拉加载原理](https://www.ershicimi.com/p/93c846411d9ca2424a82dd9ae53621b0) ![](assets/new.png)  
-- [2020-08-11-假如孙悟空是一名程序员](https://www.ershicimi.com/p/9d3c06f02ed3c1e5fe4f6ace1f17c667) ![](assets/new.png)  
-- [2020-08-10-人人都懂的Vue框架，你能最佳实践么？​](https://www.ershicimi.com/p/81b490c6b8c3a0a56d7c592bda1e2b5d) ![](assets/new.png)  
-- [2020-08-10-H5秒开方案思考与实践](https://www.ershicimi.com/p/3e92f7a44ce96c1ddaa1ea6350bff48c) ![](assets/new.png)  
-- [2020-08-09-Chrome扩展程序一键生成网页骨架屏](https://www.ershicimi.com/p/79a65ce0ef931083c1e9036f9c31be52) ![](assets/new.png)  
-- [2020-08-09-当程序员遇到怪异-Bug-而崩溃的时候有声音](https://www.ershicimi.com/p/0285c7dbb386d617d48d356399218b3d) ![](assets/new.png)  
-- [2020-08-08-这10篇关于NLP预训练模型论文值得一看！](https://www.ershicimi.com/p/90f21c4bba54ac290aa957d300b1602f) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -729,6 +709,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1042,6 +1032,8 @@
 </summary>
 
 
+- [2020-08-18-相同尺寸的显示器，为啥分辨率越高，图像越清晰？不知这说法对不对](https://www.v2ex.com/t/699317) ![](assets/new.png)  
+- [2020-08-18-话说-leetcode-的那个单周竞赛，真有内推机会么？](https://www.v2ex.com/t/699315) ![](assets/new.png)  
 - [2020-08-18-被旅游公司坑了-3-万-2，求助-V-友该如何处理](https://www.v2ex.com/t/699312) ![](assets/new.png)  
 - [2020-08-18-纠结要不要转-LPR](https://www.v2ex.com/t/699311) ![](assets/new.png)  
 - [2020-08-18-微服务系统中，分别有后台系统管理员和-APP-用户两种类型的用户，该如何做认证？](https://www.v2ex.com/t/699308) ![](assets/new.png)  
@@ -1060,8 +1052,6 @@
 - [2020-08-18-搞了个程序员接单平台，欢迎各位大佬入驻](https://www.v2ex.com/t/699290) ![](assets/new.png)  
 - [2020-08-18-老铁们敲代码累了都吃点啥补充能量呢](https://www.v2ex.com/t/699289) ![](assets/new.png)  
 - [2020-08-18-在-Mac-上装-yoyo-鹿鸣](https://www.v2ex.com/t/699288) ![](assets/new.png)  
-- [2020-08-18-11P-总是发热掉电快，已经关掉后台和升级系统](https://www.v2ex.com/t/699287) ![](assets/new.png)  
-- [2020-08-18-各位老友们，我又来提问了，你们的后端服务-API-有做节流（throttle）和防抖（debounce）吗？](https://www.v2ex.com/t/699286) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,8 +1097,8 @@
 - [2020-08-18-微信小游戏背后的技术优化](https://toutiao.io/k/lhyjn91) ![](assets/new.png)  
 - [2020-08-18-从-0-到-1-搭建业务中台](https://toutiao.io/k/fonb2xz) ![](assets/new.png)  
 - [2020-08-18-rsync-复制文件的一些注意事项](https://toutiao.io/k/qz4uqwp) ![](assets/new.png)  
-- [2020-08-18-.NET-Core-+-Ocelot：API-网关](https://toutiao.io/k/xxh3674) ![](assets/new.png)  
 - [2020-08-18-LeetCode-题解](https://toutiao.io/k/hjie8u4) ![](assets/new.png)  
+- [2020-08-18-.NET-Core-+-Ocelot：API-网关](https://toutiao.io/k/xxh3674) ![](assets/new.png)  
 - [2020-08-18-深色模式在-Web-端的适配方案](https://toutiao.io/k/03kk4hr) ![](assets/new.png)  
 - [2020-08-18-Kubernetes-源码解析：HPA-水平自动伸缩如何工作](https://toutiao.io/k/vaowlox) ![](assets/new.png)  
 - [2020-08-18-为-Linux-系统开启多因素认证](https://toutiao.io/k/ftz28qu) ![](assets/new.png)  

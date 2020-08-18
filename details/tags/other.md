@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-18 15:31:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 15:33:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2197,18 +2197,6 @@
 - [2020-08-18-上海中小学幼儿园秋季学期开学（园）仍实行相对封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRqZHBN9Rgh9hEBDTI4z9200818&isfromapp=1) 
 - [2020-08-18-乌鲁木齐市：所有的快递包裹均采用无接触派送](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7AZfvOu1OaTnkARCbXcX200818&isfromapp=1) 
 - [2020-08-18-大连今日起恢复道路客运运营，离连取消查验核酸证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZzg714iKrRqy2kGx6DrL200818&isfromapp=1) 
-- [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
-- [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
-- [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
-- [2020-01-06-推荐几个前端领域的优质公众号](https://www.ershicimi.com/p/2ecc19eb701a08ec7dc1ffbcc07b4487) 
-- [2020-01-04-【搞笑漫画】程序员鄙视链](https://www.ershicimi.com/p/99356f25157eaf693a3a9aa592666dbb) 
-- [2019-12-25-给开发人员的时间管理建议](https://www.ershicimi.com/p/fe451d9ed185297ab9a70fc9109d41fe) 
-- [2020-08-17-Medium-2w+赞，高效程序员拥有的-7-个习惯！](https://www.ershicimi.com/p/f2923984bf41ae01209684f5523f3016) 
-- [2020-08-16-想要学习人工智能？推荐你一条完整的学习路径！](https://www.ershicimi.com/p/65a42c4907f7602144dab106f299618a) 
-- [2020-08-13-你可以不尊重我的人，但必须尊重我的代码...](https://www.ershicimi.com/p/b49e6145eb1c1f02187a36f19b87364e) 
-- [2020-08-11-假如孙悟空是一名程序员](https://www.ershicimi.com/p/9d3c06f02ed3c1e5fe4f6ace1f17c667) 
-- [2020-08-09-当程序员遇到怪异-Bug-而崩溃的时候有声音](https://www.ershicimi.com/p/0285c7dbb386d617d48d356399218b3d) 
-- [2020-08-08-这10篇关于NLP预训练模型论文值得一看！](https://www.ershicimi.com/p/90f21c4bba54ac290aa957d300b1602f) 
 - [2019-12-09-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d) 
 - [2019-12-06-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3) 
 - [2019-12-05-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/c000cfc00b1de7d595f4c51820cc7630) 

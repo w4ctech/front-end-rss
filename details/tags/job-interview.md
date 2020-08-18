@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-18 14:32:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 14:33:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -43,7 +43,6 @@
 - [2020-06-18-政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c) 
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
 - [2020-08-12-聊聊面试那些事儿](https://www.ershicimi.com/p/b99f6c63e031c512d2e9bc0578a94954) 
-- [2020-08-11-面试时行云流水仍被拒，人工智能的hr究竟喜欢什么样的求职者？](https://www.ershicimi.com/p/df647458c56044b6907989dfa5d13502) 
 - [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 

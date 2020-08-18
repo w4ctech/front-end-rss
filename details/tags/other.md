@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-18 14:32:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 14:33:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2311,10 +2311,6 @@
 - [2020-08-14-手写一个微前端框架（内含源码地址）](https://www.ershicimi.com/p/7341dd001b382e42afba5dbe9268e5d4) 
 - [2020-08-13-「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://www.ershicimi.com/p/5a36397261e32a83f9ae682afc161313) 
 - [2020-08-10-前端异常监控解决方案研究](https://www.ershicimi.com/p/988ba9f3360ab57c14e9170b1f18bb33) 
-- [2020-08-13-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/cb6be2563b3c79ea671ec0486006c539) 
-- [2020-08-10-手把手教你如何实现大量图片的自适应图片页面的排列](https://www.ershicimi.com/p/2b8ef8a957b0a8b429917fafe7908ce6) 
-- [2020-08-07-干货报告：八大科技领域，280-页，InfoQ《2020-中国技术发展白皮书》开放下载](https://www.ershicimi.com/p/5648fc6188eb34d24a24792d049674db) 
-- [2020-08-06-当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/0843b270fbb17ecc2d1a909a187f76d2) 
 - [2020-08-17-Mongoose-实现关联查询和踩坑记录](https://www.ershicimi.com/p/422174403b1db1de6805793a1c5a2af6) 
 - [2020-08-13-推荐一位优秀的阿里前端小姐姐](https://www.ershicimi.com/p/0848864d299a95f9317ae4f6cf7ca211) 
 - [2020-08-12-语雀的技术架构演进之路](https://www.ershicimi.com/p/e1b307d08b39421d4a384d316bff5979) 

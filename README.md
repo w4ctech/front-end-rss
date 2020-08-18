@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 18:10:37，:rocket: 更新条数: +3539， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 18:22:18，:rocket: 更新条数: +3539， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-18-美国佛州迈阿密-戴德县近-600-名公立学校员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti45gmALpOOK0mn6KhpJpI200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-中国驻以色列使馆提醒在以色列的中国建筑工人切实防范新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixHcj6JplBb0Nf11zP9fb200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-世卫组织：重启学校需要考虑多个因素](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3viV2O1P5ffRSQ2tZpLa200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-上海中小学幼儿园秋季学期开学（园）仍实行相对封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRqZHBN9Rgh9hEBDTI4z9200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-乌鲁木齐市：所有的快递包裹均采用无接触派送](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7AZfvOu1OaTnkARCbXcX200818&isfromapp=1) ![](assets/new.png)  
-- [2020-08-18-大连今日起恢复道路客运运营，离连取消查验核酸证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZzg714iKrRqy2kGx6DrL200818&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-18-天翼云是不是炸了？](https://www.v2ex.com/t/699471) ![](assets/new.png)  
 - [2020-08-18-icloud-邮箱显示账号错误，无法接收邮件，网页版也打不开！](https://www.v2ex.com/t/699470) ![](assets/new.png)  
 - [2020-08-18-20-届毕业生简历求指导](https://www.v2ex.com/t/699468) ![](assets/new.png)  
 - [2020-08-18-今天有人遇到微信公众号回调超时的问题吗？](https://www.v2ex.com/t/699466) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-18-App-Store-是宕机了吗？](https://www.v2ex.com/t/699449) ![](assets/new.png)  
 - [2020-08-18-发现-tiktok-有网页版，不拔掉-sim-card-也能用，抖音却没有。](https://www.v2ex.com/t/699448) ![](assets/new.png)  
 - [2020-08-18-继薪资被倒挂事件后，开始带着几个入职的同事开始做项目。](https://www.v2ex.com/t/699446) ![](assets/new.png)  
-- [2020-08-18-Java-:-对于必需使用有参构造器确定一些实现细节且这些细节千奇百怪无法使用统一接口的服务实现，如何能得到近似-Java-SPI-一样程度的解耦呢?](https://www.v2ex.com/t/699445) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1152,8 +1152,8 @@
 - [2020-08-18-Docker-服务禁止被列入美国实体名单的国家、企业使用](https://toutiao.io/k/kttzpj0) ![](assets/new.png)  
 - [2020-08-18-了不起的-IoC-与-DI](https://toutiao.io/k/cksymai) ![](assets/new.png)  
 - [2020-08-18-Zabbix-5.0-LTS-新功能一览](https://toutiao.io/k/go3ezt0) ![](assets/new.png)  
-- [2020-08-18-面试官：对象可能会迟到，但它永远不会缺席](https://toutiao.io/k/vg32co3) ![](assets/new.png)  
 - [2020-08-18-TypeScript-类型系统](https://toutiao.io/k/q9sxre5) ![](assets/new.png)  
+- [2020-08-18-面试官：对象可能会迟到，但它永远不会缺席](https://toutiao.io/k/vg32co3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

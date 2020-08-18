@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 06:13:11，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 06:22:30，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-18-关于车位交易的税费问题请教](https://www.v2ex.com/t/699285) ![](assets/new.png)  
+- [2020-08-18-有没有哪款策略游戏能模拟俄罗斯那种「遍地是矿，但是开采成本+运输成本远高于市场价」的情况？](https://www.v2ex.com/t/699284) ![](assets/new.png)  
+- [2020-08-18-zhihu-投放的广告平台劫持跳转，贵司可否知道？](https://www.v2ex.com/t/699283) ![](assets/new.png)  
+- [2020-08-18-上海-19-年毕业-求职](https://www.v2ex.com/t/699282) ![](assets/new.png)  
+- [2020-08-18-美区-Apple-ID，国行-Apple-Watch-无法使用吗](https://www.v2ex.com/t/699281) ![](assets/new.png)  
+- [2020-08-18-安全与风控内推----字节跳动](https://www.v2ex.com/t/699279) ![](assets/new.png)  
 - [2020-08-18-笔记本遮挡摄像头用什么东西遮挡笔记好](https://www.v2ex.com/t/699277) ![](assets/new.png)  
 - [2020-08-18-腾讯学生机可以直接买了吗？](https://www.v2ex.com/t/699274) ![](assets/new.png)  
 - [2020-08-18-字节跳动内推季持续招人，多样海量岗位需求，-内推进度随时可查哦](https://www.v2ex.com/t/699273) ![](assets/new.png)  
@@ -1066,12 +1072,6 @@
 - [2020-08-18-近几年-Docker-用于生产环境的越来越多，那么-Windows-主机下的-Docker-生产环境是否可行](https://www.v2ex.com/t/699261) ![](assets/new.png)  
 - [2020-08-18-获取任意链接文章正文-API-接口](https://www.v2ex.com/t/699259) ![](assets/new.png)  
 - [2020-08-18-关于外卖，上一个人取餐拖拖拉拉造成的取餐超时，这个怎么处理？](https://www.v2ex.com/t/699258) ![](assets/new.png)  
-- [2020-08-18-MSFS2020-首发问题及部分解决方案](https://www.v2ex.com/t/699257) ![](assets/new.png)  
-- [2020-08-18-小程序除了广告还有什么好的变现手段吗？](https://www.v2ex.com/t/699256) ![](assets/new.png)  
-- [2020-08-18-这种公众号诱导算欺诈吗？](https://www.v2ex.com/t/699255) ![](assets/new.png)  
-- [2020-08-18-为什么-ADUI-这么难用，某米手机还是卖得那么好？](https://www.v2ex.com/t/699254) ![](assets/new.png)  
-- [2020-08-18-字节跳动海量-HC-招聘，社招&校招都有，内推有回声，投递不石沉大海。](https://www.v2ex.com/t/699253) ![](assets/new.png)  
-- [2020-08-18-美区-spotify，差一人，长期车](https://www.v2ex.com/t/699251) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,8 +1117,8 @@
 - [2020-08-18-微信小游戏背后的技术优化](https://toutiao.io/k/lhyjn91) ![](assets/new.png)  
 - [2020-08-18-从-0-到-1-搭建业务中台](https://toutiao.io/k/fonb2xz) ![](assets/new.png)  
 - [2020-08-18-rsync-复制文件的一些注意事项](https://toutiao.io/k/qz4uqwp) ![](assets/new.png)  
-- [2020-08-18-.NET-Core-+-Ocelot：API-网关](https://toutiao.io/k/xxh3674) ![](assets/new.png)  
 - [2020-08-18-LeetCode-题解](https://toutiao.io/k/hjie8u4) ![](assets/new.png)  
+- [2020-08-18-.NET-Core-+-Ocelot：API-网关](https://toutiao.io/k/xxh3674) ![](assets/new.png)  
 - [2020-08-18-Kubernetes-源码解析：HPA-水平自动伸缩如何工作](https://toutiao.io/k/vaowlox) ![](assets/new.png)  
 - [2020-08-18-深色模式在-Web-端的适配方案](https://toutiao.io/k/03kk4hr) ![](assets/new.png)  
 - [2020-08-18-为-Linux-系统开启多因素认证](https://toutiao.io/k/ftz28qu) ![](assets/new.png)  
@@ -1131,8 +1131,8 @@
 - [2020-08-18-Uniswap-非权威开发指南（v2-版）](https://toutiao.io/k/75bnd0g) ![](assets/new.png)  
 - [2020-08-18-了不起的-IoC-与-DI](https://toutiao.io/k/cksymai) ![](assets/new.png)  
 - [2020-08-18-Zabbix-5.0-LTS-新功能一览](https://toutiao.io/k/go3ezt0) ![](assets/new.png)  
-- [2020-08-18-TypeScript-类型系统](https://toutiao.io/k/q9sxre5) ![](assets/new.png)  
 - [2020-08-18-Docker-服务禁止被列入美国实体名单的国家、企业使用](https://toutiao.io/k/kttzpj0) ![](assets/new.png)  
+- [2020-08-18-TypeScript-类型系统](https://toutiao.io/k/q9sxre5) ![](assets/new.png)  
 - [2020-08-18-面试官：对象可能会迟到，但它永远不会缺席](https://toutiao.io/k/vg32co3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

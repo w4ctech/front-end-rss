@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 14:21:52，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 14:32:36，:rocket: 更新条数: +3220， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)![](assets/dot.png)   
+- [安全热点](#安全热点)  
 
 ## 文章链接
 
@@ -99,7 +99,7 @@
 - [2020-08-18-世卫组织：重启学校需要考虑多个因素](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3viV2O1P5ffRSQ2tZpLa200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-上海中小学幼儿园秋季学期开学（园）仍实行相对封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRqZHBN9Rgh9hEBDTI4z9200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-乌鲁木齐市：所有的快递包裹均采用无接触派送](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7AZfvOu1OaTnkARCbXcX200818&isfromapp=1) ![](assets/new.png)  
-- [2020-08-18-新疆（含兵团）连续第2日无新增确诊病例-治愈出院比例达57.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiReCtnfY1zGZRdMfSmVx0200818&isfromapp=1) ![](assets/new.png)  
+- [2020-08-18-大连今日起恢复道路客运运营，离连取消查验核酸证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZzg714iKrRqy2kGx6DrL200818&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-18-uniapp-中使用-使用-transform:-scale-为什么在-IOS-下面空白啊](https://www.v2ex.com/t/699437) ![](assets/new.png)  
+- [2020-08-18-有需求显卡进行深度学习模型训练的小伙伴吗？](https://www.v2ex.com/t/699436) ![](assets/new.png)  
 - [2020-08-18-学校为了就业率推荐科研助理岗位会有影响吗？](https://www.v2ex.com/t/699435) ![](assets/new.png)  
 - [2020-08-18-把老家房子卖了，现在可以投资点什么比较好](https://www.v2ex.com/t/699434) ![](assets/new.png)  
 - [2020-08-18-wordpress-搭建的网站被攻击，疯狂访问/wp-admin/admin-ajax.-PHP](https://www.v2ex.com/t/699433) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-18-关于-MBP-16-inch-的键盘问题](https://www.v2ex.com/t/699412) ![](assets/new.png)  
 - [2020-08-18-Google-要断供华为的-Google-服务了。众所周知华为不能解-bl-锁刷第三方。Google-服务也不能像普通-app-一样安装。那么以后断供生效后的新款华为手机怎么用-Goog...](https://www.v2ex.com/t/699411) ![](assets/new.png)  
 - [2020-08-18-Ceph-RGW-如何更好做流量控制](https://www.v2ex.com/t/699410) ![](assets/new.png)  
-- [2020-08-18-腾讯滑块验证收费了，-有啥验证方案可以免费，而且还相当强壮呢](https://www.v2ex.com/t/699409) ![](assets/new.png)  
-- [2020-08-18-公司跑路了没有离职证明这么搞？](https://www.v2ex.com/t/699407) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,26 +1145,6 @@
 </summary>
 
 
-- [2020-08-18-中文版强势开源!这或许是最经典的计算机编程教材...](https://sec.thief.one/article_content?a_id=9caa06e389f71f28ee18f90b65ab0799) ![](assets/new.png)  
-- [2020-08-18-Apache-Dubbo-远程代码执行漏洞CVE-2020-11995](https://sec.thief.one/article_content?a_id=a7cefeabc9c1a8f045cc23ef7f601fd3) ![](assets/new.png)  
-- [2020-08-18-一款一键创建攻击机的脚本idea](https://sec.thief.one/article_content?a_id=63c10f92d208cf3cb95cedec43c540fd) ![](assets/new.png)  
-- [2020-08-18-谷歌排名第一的编程语言,死磕这点,初中生也能学的会!不信你看!](https://sec.thief.one/article_content?a_id=647bc62afe52b3509628a82d80769430) ![](assets/new.png)  
-- [2020-08-18-Apache-Shiro身份验证绕过漏洞风险提示](https://sec.thief.one/article_content?a_id=a13eefc82748a2cd020fe7ab90437d78) ![](assets/new.png)  
-- [2020-08-18-上来直接放0day大招,一天给一个月的活干完了!](https://sec.thief.one/article_content?a_id=9426bf0796551bd45617fb135edde55b) ![](assets/new.png)  
-- [2020-08-18-记一次有趣的APP反编译的过程](https://sec.thief.one/article_content?a_id=14837b2ad1cf82f3abafae3300ff0c11) ![](assets/new.png)  
-- [2020-08-17-2020.8.17红队威胁情报-日更](https://sec.thief.one/article_content?a_id=152bfd080a496e0c0bd2b9874bfdff47) ![](assets/new.png)  
-- [2020-08-17-Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80) ![](assets/new.png)  
-- [2020-08-17-SecWiki周刊第337期](https://sec.thief.one/article_content?a_id=19487bdb2f0c3835d087448f65f265bd) ![](assets/new.png)  
-- [2020-08-15-Struts2-S2-059-漏洞分析](https://sec.thief.one/article_content?a_id=1e81e408d726a4c620d3af6f49b8b4df) ![](assets/new.png)  
-- [2020-08-15-牛聘|2020年度岗位招聘第10期](https://sec.thief.one/article_content?a_id=48dc5bfc5999e36a623b8c8acdda0d3a) ![](assets/new.png)  
-- [2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) ![](assets/new.png)  
-- [2020-08-14-CVE-2019-0230:Apache-Struts2远程代码执行漏洞通告](https://sec.thief.one/article_content?a_id=1d627d72a4a6ff90ae9e29871b0db55e) ![](assets/new.png)  
-- [2020-08-13-红队渗透手册之免杀篇](https://sec.thief.one/article_content?a_id=d228e82dbf1bf060bcfd097026dd9efe) ![](assets/new.png)  
-- [2020-08-13-​【安全圈】黑客劫持了YouTube流行频道,以促进比特币诈骗](https://sec.thief.one/article_content?a_id=d988719f07b20e2774b0d54fb4503d3e) ![](assets/new.png)  
-- [2020-08-13-ISC-2020技术日:数字时代加剧网络攻击态势,热议防御新技术锤炼之...](https://sec.thief.one/article_content?a_id=892baf7b4aedc8fd4a6de660165c8fe6) ![](assets/new.png)  
-- [2020-08-13-XXE的一些利用方式](https://sec.thief.one/article_content?a_id=9a9d151ad65b9685b3acc99ddd0b9449) ![](assets/new.png)  
-- [2020-08-13-CodeQL静态代码扫描之实现关联接口、入参、和危险方法并自动化构...](https://sec.thief.one/article_content?a_id=e46b10633c8e881454fc778852cec178) ![](assets/new.png)  
-- [2020-08-13-这世界上10%的人,节日快乐!](https://sec.thief.one/article_content?a_id=85fde09cc98ed34135c804c9bf0ffe9a) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

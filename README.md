@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 09:48:06，:rocket: 更新条数: +3321， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 10:02:48，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-18-人力资源+数据分析项目](https://www.v2ex.com/t/699372) ![](assets/new.png)  
+- [2020-08-18-老板好像跑路了。](https://www.v2ex.com/t/699370) ![](assets/new.png)  
+- [2020-08-18-IOS-云家庭车](https://www.v2ex.com/t/699368) ![](assets/new.png)  
 - [2020-08-18-你们都说杭州是奋斗逼之都，别来，但是「城市」这个节点，放眼望去，杭州的帖比上海北京深圳似乎都多，可能还包括「生活」这个节点；杭州的互联网环境-2020-年是...](https://www.v2ex.com/t/699367) ![](assets/new.png)  
 - [2020-08-18-ElasticSearch-2.x---7.x-跨-N-版本迁移的相关经验总结分享](https://www.v2ex.com/t/699366) ![](assets/new.png)  
 - [2020-08-18-侄女被英国某大学录取，金融类专业，求推荐送什么礼物好？](https://www.v2ex.com/t/699365) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-18-关于笔记,折腾了一圈...](https://www.v2ex.com/t/699351) ![](assets/new.png)  
 - [2020-08-18-关于-FFmpeg-的问题](https://www.v2ex.com/t/699349) ![](assets/new.png)  
 - [2020-08-18-被“职业举报违法”](https://www.v2ex.com/t/699348) ![](assets/new.png)  
-- [2020-08-18-美股历史行情数据-API-接口](https://www.v2ex.com/t/699347) ![](assets/new.png)  
-- [2020-08-18-最近要开放-API-给第三方调用，造了个小轮子，已开源](https://www.v2ex.com/t/699346) ![](assets/new.png)  
-- [2020-08-18-8/24-免费讲座-疫情下，他如何从-Startup-逆袭上岸-Google？](https://www.v2ex.com/t/699345) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

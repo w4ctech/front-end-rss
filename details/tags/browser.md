@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-18 15:20:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 15:21:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,6 +25,7 @@
 - [2020-08-09-Chrome扩展程序一键生成网页骨架屏](https://www.ershicimi.com/p/79a65ce0ef931083c1e9036f9c31be52) 
 - [2020-08-07-【第2027期】图解CORS](https://www.ershicimi.com/p/2f680c25c9986033bf75373aaf0ed968) 
 - [2020-08-05-【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa) 
+- [2020-08-13-内存怪兽-Chrome-被黑的最惨一次](https://www.ershicimi.com/p/dbe05e010ee40c3db60919a7ef934cbb) 
 - [2020-08-18-Microsoft-365挥别IE-11，IE“死”在了微软自己手里](https://www.ershicimi.com/p/6624d44bbe8b3cd74412ea0b86cdcbad) 
 - [2020-08-16-前端周报：谷歌开源-chromeOS.dev；-十余家美国企业联手抵制特朗普“封杀”微信；Angul](https://www.ershicimi.com/p/64729e7a6d3cc0184e99536b8a72d7fc) 
 - [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686) 
@@ -35,9 +36,12 @@
 - [2020-08-10-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a2929b813f88b5317d77d308314b161d) 
 - [2020-08-08-十五张图带你彻底搞懂从URL到页面展示发生的故事](https://www.ershicimi.com/p/69273fec87f05a5ac2966608fa6766c6) 
 - [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
+- [2020-08-04-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/871f09b3bcea8e9a831bcf53f804ee83) 
 - [2020-08-12-为什么cookie会有httponly属性?真实案例解释XSS的三种攻击](https://www.ershicimi.com/p/d903df7fbd5154c7e85f3b0a90158460) 
 - [2020-08-07-使用Chrome扩展程序生成网页骨架屏](https://www.ershicimi.com/p/e50ce5a4a13d21d6039afa920358f458) 
 - [2020-08-10-一文读懂-Web-安全（面试必备）](https://www.ershicimi.com/p/8be36c891f65a4d2916708db74fac164) 
+- [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
+- [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-18-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 

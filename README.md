@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 21:09:50，:rocket: 更新条数: +3540， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 21:20:05，:rocket: 更新条数: +3540， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-18-C++友元函数问题](https://www.v2ex.com/t/699474) ![](assets/new.png)  
 - [2020-08-18-微软模拟飞行-2020-首体验，配置/国内城市/操控](https://www.v2ex.com/t/699473) ![](assets/new.png)  
 - [2020-08-18-如何在不产生高的流量下耗尽家里路由器的性能](https://www.v2ex.com/t/699472) ![](assets/new.png)  
 - [2020-08-18-天翼云是不是炸了？](https://www.v2ex.com/t/699471) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-18-使用什么服务能够管理大量的图片](https://www.v2ex.com/t/699453) ![](assets/new.png)  
 - [2020-08-18-知乎上不要评论，不要评论，不要评论](https://www.v2ex.com/t/699452) ![](assets/new.png)  
 - [2020-08-18-小米只能插座是只能在同一个-wifi-才能控制？包括我在同一个-wifi-定的时，如果到时间手机没和插座一个-WIFI，就等于没定？](https://www.v2ex.com/t/699450) ![](assets/new.png)  
-- [2020-08-18-App-Store-是宕机了吗？](https://www.v2ex.com/t/699449) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

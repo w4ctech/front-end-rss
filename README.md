@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 10:02:48，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 10:10:31，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,10 +65,10 @@
 
 
 - [2020-08-17-最新疫情：全国新冠累计确诊84871例-新增境外输入22例](https://m.caixin.com/m/2020-08-18/101593912.html) ![](assets/new.png)  
+- [2020-08-17-最新海外疫情：新冠感染超2175万-累计死亡近77万](http://m.international.caixin.com/m/2020-08-18/101594091.html) ![](assets/new.png)  
 - [2020-08-17-大流行手记|8月17日：多国报告变异病毒实为老毒株-印度现新变种](https://m.caixin.com/m/2020-08-18/101593771.html) ![](assets/new.png)  
 - [2020-08-17-【境内疫情观察】全国连续2日无新增本土病例（8月17日）](http://m.database.caixin.com/m/2020-08-18/101593899.html) ![](assets/new.png)  
 - [2020-08-16-深圳升级进口冻品监管力度-消杀检测费用由政府承担](http://m.china.caixin.com/m/2020-08-17/101593714.html) ![](assets/new.png)  
-- [2020-08-16-最新海外疫情：新冠感染近2155万-累计死亡超77万](http://m.international.caixin.com/m/2020-08-17/101593571.html) ![](assets/new.png)  
 - [2020-08-16-【境内疫情观察】全国无新增本土病例（8月16日）](http://m.database.caixin.com/m/2020-08-17/101593491.html) ![](assets/new.png)  
 - [2020-08-16-大流行手记|8月16日：印度签约生产低价新冠疫苗-复课后美国多州学校现疫情](https://m.caixin.com/m/2020-08-17/101593367.html) ![](assets/new.png)  
 - [2020-08-15-广东排查48家盒马鲜生关联企业-新发疫情传染源尚未明确](http://m.china.caixin.com/m/2020-08-16/101593340.html) ![](assets/new.png)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-18-新疆（含兵团）连续第2日无新增确诊病例-治愈出院比例达57.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiReCtnfY1zGZRdMfSmVx0200818&isfromapp=1) ![](assets/new.png)  
+- [2020-08-18-俄罗斯卫生部发布新冠病毒疫苗生产视频](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9ZXxh8MAgANMaB4QAVSg200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-2020年8月17日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202008/t20200818_3930100.html) ![](assets/new.png)  
 - [2020-08-18-关于最近疫情-钟南山有这些最新判断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUO5hM83050CD3tj4m6CJ200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-解封后疫情反弹-尼泊尔多地恢复局部封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNYYPK0hj0FACoxajkoQZ200818&isfromapp=1) ![](assets/new.png)  
-- [2020-08-18-香港疫情仍未见稳定趋势-特区政府将推出第三轮防疫抗疫基金及第二期“保就业计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXO1HTscdpXuMuBFW2rWj200818&isfromapp=1) ![](assets/new.png)  
-- [2020-08-18-山东公布17日新增境外输入无症状感染者详情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN910P9z67BEyuckjOlFt200818&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-18-如何通过-zerotier-访问家中局域网的其他设备？](https://www.v2ex.com/t/699375) ![](assets/new.png)  
+- [2020-08-18-短期租房城市选择求建议](https://www.v2ex.com/t/699374) ![](assets/new.png)  
 - [2020-08-18-人力资源+数据分析项目](https://www.v2ex.com/t/699372) ![](assets/new.png)  
 - [2020-08-18-老板好像跑路了。](https://www.v2ex.com/t/699370) ![](assets/new.png)  
 - [2020-08-18-IOS-云家庭车](https://www.v2ex.com/t/699368) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-18-vim-长文件内跳转后颜色/配置丢失](https://www.v2ex.com/t/699353) ![](assets/new.png)  
 - [2020-08-18-全职远程12K-30K，招募-2-名-Ruby-中/高级开发，海外酒店行业-SAAS-产品](https://www.v2ex.com/t/699352) ![](assets/new.png)  
 - [2020-08-18-关于笔记,折腾了一圈...](https://www.v2ex.com/t/699351) ![](assets/new.png)  
-- [2020-08-18-关于-FFmpeg-的问题](https://www.v2ex.com/t/699349) ![](assets/new.png)  
-- [2020-08-18-被“职业举报违法”](https://www.v2ex.com/t/699348) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1125,8 @@
 - [2020-08-18-Python-经典面试题：并发场景的生产消费者模式](https://toutiao.io/k/r4sp86a) ![](assets/new.png)  
 - [2020-08-18-浅析-Kubernetes-Pod-重启策略和健康检查](https://toutiao.io/k/d3cnluh) ![](assets/new.png)  
 - [2020-08-18-hox-+-useRequest：异步数据流管理从未如此轻松自然](https://toutiao.io/k/zywv6e3) ![](assets/new.png)  
-- [2020-08-18-Redis-migrate-数据迁移工具](https://toutiao.io/k/fiv94h6) ![](assets/new.png)  
 - [2020-08-18-图解-Vue-异步更新原理](https://toutiao.io/k/1psu8sr) ![](assets/new.png)  
+- [2020-08-18-Redis-migrate-数据迁移工具](https://toutiao.io/k/fiv94h6) ![](assets/new.png)  
 - [2020-08-18-Uniswap-非权威开发指南（v2-版）](https://toutiao.io/k/75bnd0g) ![](assets/new.png)  
 - [2020-08-18-Cilium-多-K8S-集群-multi-cluster-解决方案-ClusterMesh-试手](https://toutiao.io/k/4oagbsz) ![](assets/new.png)  
 - [2020-08-18-了不起的-IoC-与-DI](https://toutiao.io/k/cksymai) ![](assets/new.png)  

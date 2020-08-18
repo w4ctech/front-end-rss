@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-18 12:48:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 13:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -67,6 +67,3 @@
 - [2020-08-06-四年磨一剑,腾讯安全联合实验室最强战绩一览](https://sec.thief.one/article_content?a_id=fb2693044377f81dfece6ed5830f9d3b) 
 - [2020-08-06-处理公告丨2020年7月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=73f0f134e055101565f4b6fc4f9359be) 
 - [2020-08-06-国舜股份携手某综合性国有物流企业,赋能Web应用安全防护](https://sec.thief.one/article_content?a_id=6862b300a581857f1ded538fdd2ea9c3) 
-- [2020-08-06-安全牛成为2020北京网络安全大会官方合作伙伴](https://sec.thief.one/article_content?a_id=ba5ef939b40370b95e8675036da7ba85) 
-- [2020-08-06-记一次渗透测试从XSS到Getshell过程详细到无语](https://sec.thief.one/article_content?a_id=372869c6dd8d2f34b77ea79b42634443) 
-- [2020-08-05-【安全圈】白帽黑客帮助微软保护数百万用户,微软-12-个月向黑客支...](https://sec.thief.one/article_content?a_id=04e79e98db5ce90fef97831c9b671c36) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 18:33:33，:rocket: 更新条数: +775， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 18:46:34，:rocket: 更新条数: +3539， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-08-17-最新疫情：全国新冠累计确诊84871例-新增境外输入22例](https://m.caixin.com/m/2020-08-18/101593912.html) ![](assets/new.png)  
+- [2020-08-17-最新海外疫情：新冠感染超2175万-累计死亡近77万](http://m.international.caixin.com/m/2020-08-18/101594091.html) ![](assets/new.png)  
+- [2020-08-17-大流行手记|8月17日：多国报告变异病毒实为老毒株-印度现新变种](https://m.caixin.com/m/2020-08-18/101593771.html) ![](assets/new.png)  
+- [2020-08-17-【境内疫情观察】全国连续2日无新增本土病例（8月17日）](http://m.database.caixin.com/m/2020-08-18/101593899.html) ![](assets/new.png)  
+- [2020-08-17-以色列中国建筑工地暴发疫情-约90人确诊感染新冠病毒](http://m.international.caixin.com/m/2020-08-18/101594199.html) ![](assets/new.png)  
+- [2020-08-16-深圳升级进口冻品监管力度-消杀检测费用由政府承担](http://m.china.caixin.com/m/2020-08-17/101593714.html) ![](assets/new.png)  
+- [2020-08-16-【境内疫情观察】全国无新增本土病例（8月16日）](http://m.database.caixin.com/m/2020-08-17/101593491.html) ![](assets/new.png)  
+- [2020-08-16-大流行手记|8月16日：印度签约生产低价新冠疫苗-复课后美国多州学校现疫情](https://m.caixin.com/m/2020-08-17/101593367.html) ![](assets/new.png)  
+- [2020-08-15-广东排查48家盒马鲜生关联企业-新发疫情传染源尚未明确](http://m.china.caixin.com/m/2020-08-16/101593340.html) ![](assets/new.png)  
+- [2020-08-15-【境内疫情观察】全国新增15例境外输入病例（8月15日）](http://m.database.caixin.com/m/2020-08-16/101593302.html) ![](assets/new.png)  
+- [2020-08-14-深圳21家盒马门店停业-部分市民免费检测核酸](https://m.caixin.com/m/2020-08-15/101593109.html) ![](assets/new.png)  
+- [2020-08-14-【境内疫情观察】广东新增1例本土病例（8月14日）](http://m.database.caixin.com/m/2020-08-15/101593194.html) ![](assets/new.png)  
+- [2020-08-14-大流行手记|8月14日：英国再购近1亿剂疫苗-俄疫苗寻求世卫资格预审](https://m.caixin.com/m/2020-08-15/101593099.html) ![](assets/new.png)  
+- [2020-08-13-【境内疫情观察】上海新增16例境外输入病例（8月13日）](http://m.database.caixin.com/m/2020-08-14/101592707.html) ![](assets/new.png)  
+- [2020-08-13-大流行手记|8月13日：全球数百人因新冠错误信息死亡-新西兰疑冷库货物输入病毒](https://m.caixin.com/m/2020-08-14/101592513.html) ![](assets/new.png)  
+- [2020-08-13-反思新冠疫情，中疾控原副主任撰文详解传染病预警机制怎么改](https://m.caixin.com/m/2020-08-14/101592909.html) ![](assets/new.png)  
+- [2020-08-13-香港新增病例连续12日保持双位数-疫情蔓延至外佣群体](https://m.caixin.com/m/2020-08-14/101593005.html) ![](assets/new.png)  
+- [2020-08-13-深圳盒马鲜生员工在老家确诊新冠-两名同事核酸阳性无症状](https://m.caixin.com/m/2020-08-14/101593019.html) ![](assets/new.png)  
+- [2020-08-13-广东陆丰发现1例新冠肺炎确诊病例，为深圳超市员工](https://m.caixin.com/m/2020-08-14/101592985.html) ![](assets/new.png)  
+- [2020-08-12-新发地8月15日起正式复市-不再对个人消费者开放](https://m.caixin.com/m/2020-08-13/101592402.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -730,6 +750,26 @@
 </summary>
 
 
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1102,8 +1142,8 @@
 - [2020-08-18-图解-Vue-异步更新原理](https://toutiao.io/k/1psu8sr) ![](assets/new.png)  
 - [2020-08-18-Uniswap-非权威开发指南（v2-版）](https://toutiao.io/k/75bnd0g) ![](assets/new.png)  
 - [2020-08-18-Kubernetes-源码解析：HPA-水平自动伸缩如何工作](https://toutiao.io/k/vaowlox) ![](assets/new.png)  
-- [2020-08-18-为-Linux-系统开启多因素认证](https://toutiao.io/k/ftz28qu) ![](assets/new.png)  
 - [2020-08-18-深色模式在-Web-端的适配方案](https://toutiao.io/k/03kk4hr) ![](assets/new.png)  
+- [2020-08-18-为-Linux-系统开启多因素认证](https://toutiao.io/k/ftz28qu) ![](assets/new.png)  
 - [2020-08-18-Python-经典面试题：并发场景的生产消费者模式](https://toutiao.io/k/r4sp86a) ![](assets/new.png)  
 - [2020-08-18-浅析-Kubernetes-Pod-重启策略和健康检查](https://toutiao.io/k/d3cnluh) ![](assets/new.png)  
 - [2020-08-18-hox-+-useRequest：异步数据流管理从未如此轻松自然](https://toutiao.io/k/zywv6e3) ![](assets/new.png)  
@@ -1112,8 +1152,8 @@
 - [2020-08-18-Docker-服务禁止被列入美国实体名单的国家、企业使用](https://toutiao.io/k/kttzpj0) ![](assets/new.png)  
 - [2020-08-18-了不起的-IoC-与-DI](https://toutiao.io/k/cksymai) ![](assets/new.png)  
 - [2020-08-18-Zabbix-5.0-LTS-新功能一览](https://toutiao.io/k/go3ezt0) ![](assets/new.png)  
-- [2020-08-18-面试官：对象可能会迟到，但它永远不会缺席](https://toutiao.io/k/vg32co3) ![](assets/new.png)  
 - [2020-08-18-TypeScript-类型系统](https://toutiao.io/k/q9sxre5) ![](assets/new.png)  
+- [2020-08-18-面试官：对象可能会迟到，但它永远不会缺席](https://toutiao.io/k/vg32co3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

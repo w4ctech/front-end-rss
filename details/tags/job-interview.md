@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-18 18:33:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 18:46:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
@@ -53,5 +54,6 @@
 - [2020-08-18-一次蚂蚁金服的辛酸面试历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13687&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlGMB3sdVbQFkmaDL_cgvyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-18-Python-经典面试题：并发场景的生产消费者模式](https://toutiao.io/k/r4sp86a) 
 - [2020-08-18-面试官：对象可能会迟到，但它永远不会缺席](https://toutiao.io/k/vg32co3) 
+- [2020-08-18-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-15-牛聘|2020年度岗位招聘第10期](https://sec.thief.one/article_content?a_id=48dc5bfc5999e36a623b8c8acdda0d3a) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

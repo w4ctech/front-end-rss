@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 08:33:45，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 08:46:21，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-18-HC-多招点人（百度社招），客户端-APP、服务端测试都要](https://www.v2ex.com/t/699335) ![](assets/new.png)  
+- [2020-08-18-内推-上海快手移动端岗位有没有猛男/靓女来看一下！](https://www.v2ex.com/t/699334) ![](assets/new.png)  
+- [2020-08-18-数字人民币技术细节讨论-无网络支付](https://www.v2ex.com/t/699333) ![](assets/new.png)  
+- [2020-08-18-视频-逐帧学习-count-min-sketch-的算法原理-含-code](https://www.v2ex.com/t/699332) ![](assets/new.png)  
+- [2020-08-18-在某鱼买了一台-p2415q，到手后感觉屏幕有一种磨砂感，不是很通透](https://www.v2ex.com/t/699331) ![](assets/new.png)  
 - [2020-08-18-淘宝半价撸话费](https://www.v2ex.com/t/699327) ![](assets/new.png)  
 - [2020-08-18-appstoreconnect-创建应用，没有上传-icon-地方了？](https://www.v2ex.com/t/699325) ![](assets/new.png)  
 - [2020-08-18-江苏电信使用光猫多播叠加下行](https://www.v2ex.com/t/699324) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-18-微服务系统中，分别有后台系统管理员和-APP-用户两种类型的用户，该如何做认证？](https://www.v2ex.com/t/699308) ![](assets/new.png)  
 - [2020-08-18-JDK（EE）真的有人用吗](https://www.v2ex.com/t/699306) ![](assets/new.png)  
 - [2020-08-18-需要找两位-Java-和-PHP-领域的中-V-做活动](https://www.v2ex.com/t/699305) ![](assets/new.png)  
-- [2020-08-18-迫于群里人天天吹水,-导致群里人要跑没了](https://www.v2ex.com/t/699304) ![](assets/new.png)  
-- [2020-08-18-香港招行手机版网银已经支持-FPS-转账](https://www.v2ex.com/t/699302) ![](assets/new.png)  
-- [2020-08-18-不懂就问-Office-家庭版的-One-Note-等软件同步速度会上去吗？](https://www.v2ex.com/t/699301) ![](assets/new.png)  
-- [2020-08-18-内推-贝壳找房-庆祝之前入职发财的同学，再次开贴，-Java-，-web-前端，-IOS，-Android-，设计，校招生都招人，待遇非常好](https://www.v2ex.com/t/699299) ![](assets/new.png)  
-- [2020-08-18-各位-PHP-老铁,-问个关于验证码来源问题.-实在是找不到啦!](https://www.v2ex.com/t/699298) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,8 +1127,8 @@
 - [2020-08-18-hox-+-useRequest：异步数据流管理从未如此轻松自然](https://toutiao.io/k/zywv6e3) ![](assets/new.png)  
 - [2020-08-18-Redis-migrate-数据迁移工具](https://toutiao.io/k/fiv94h6) ![](assets/new.png)  
 - [2020-08-18-图解-Vue-异步更新原理](https://toutiao.io/k/1psu8sr) ![](assets/new.png)  
-- [2020-08-18-Cilium-多-K8S-集群-multi-cluster-解决方案-ClusterMesh-试手](https://toutiao.io/k/4oagbsz) ![](assets/new.png)  
 - [2020-08-18-Uniswap-非权威开发指南（v2-版）](https://toutiao.io/k/75bnd0g) ![](assets/new.png)  
+- [2020-08-18-Cilium-多-K8S-集群-multi-cluster-解决方案-ClusterMesh-试手](https://toutiao.io/k/4oagbsz) ![](assets/new.png)  
 - [2020-08-18-了不起的-IoC-与-DI](https://toutiao.io/k/cksymai) ![](assets/new.png)  
 - [2020-08-18-Zabbix-5.0-LTS-新功能一览](https://toutiao.io/k/go3ezt0) ![](assets/new.png)  
 - [2020-08-18-Docker-服务禁止被列入美国实体名单的国家、企业使用](https://toutiao.io/k/kttzpj0) ![](assets/new.png)  

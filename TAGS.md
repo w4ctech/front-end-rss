@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-18 08:33:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 08:46:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -241,7 +241,6 @@
 
 
 - [【奇舞周刊】Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/3730a93bc041ddb6d24663ae9640e4c0)
-- [【V2EX】有没有哪款策略游戏能模拟俄罗斯那种「遍地是矿，但是开采成本+运输成本远高于市场价」的情况？](https://www.v2ex.com/t/699284)
 - [【开发者头条】微信小游戏背后的技术优化](https://toutiao.io/k/lhyjn91)
 - [......【查看更多】......](./details/tags/dev-game.md)
 

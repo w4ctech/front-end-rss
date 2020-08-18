@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-18 15:48:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-18 16:02:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -26,7 +26,7 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
-<td><a href="#2019-01">01月</a></td>
+<td>01月</td>
 <td><a href="#2019-02">02月</a></td>
 <td><a href="#2019-03">03月</a></td>
 <td>04月</td>
@@ -524,6 +524,9 @@
 - [【知乎日报】2020-08-09-本周知乎热榜-|-我国人均国民总收入首破-1-万美元，「三十而已」大结局，拼多多厕所坑位风波](https://www.ershicimi.com/p/63d102381655ff6607a80cd55ed698fd) 
 - [【知乎日报】2020-08-09-动漫作品中最长的一天是哪天？](https://www.ershicimi.com/p/5dfaf67bcf3c86ac5cbfef46e9207f01) 
 - [【知乎日报】2020-08-09-2020-我删除无数个公众号，只留下了这-7-个](https://www.ershicimi.com/p/372a814e05992b38c51ebdb41c19da24) 
+- [【V2EX】2020-08-18-openwrt-旁路由的-dns-怎么弄呢](https://www.v2ex.com/t/699459) 
+- [【V2EX】2020-08-18-租房好难呀，北京望京地区有男室友合租吗？](https://www.v2ex.com/t/699458) 
+- [【V2EX】2020-08-18-域名买了-10-年该干什么](https://www.v2ex.com/t/699457) 
 - [【V2EX】2020-08-18-迫于换个节点，抱歉原谅我再发一遍求职贴](https://www.v2ex.com/t/699456) 
 - [【V2EX】2020-08-18-如何在-mac-彻底删除-avast](https://www.v2ex.com/t/699455) 
 - [【V2EX】2020-08-18-使用什么服务能够管理大量的图片](https://www.v2ex.com/t/699453) 
@@ -555,10 +558,7 @@
 - [【V2EX】2020-08-18-有大佬用过-upnote-吗？](https://www.v2ex.com/t/699417) 
 - [【V2EX】2020-08-18-急招-蚂蚁金服-国际事业部-p6-p7-欢迎来投](https://www.v2ex.com/t/699416) 
 - [【V2EX】2020-08-18-关于-MBP-16-inch-的键盘问题](https://www.v2ex.com/t/699412) 
-- [【V2EX】2020-08-18-Google-要断供华为的-Google-服务了。众所周知华为不能解-bl-锁刷第三方。Google-服务也不能像普通-app-一样安装。那么以后断供生效后的新款华为手机怎么用-Goog...](https://www.v2ex.com/t/699411) 
 - [【V2EX】2020-08-18-Ceph-RGW-如何更好做流量控制](https://www.v2ex.com/t/699410) 
-- [【V2EX】2020-08-18-腾讯滑块验证收费了，-有啥验证方案可以免费，而且还相当强壮呢](https://www.v2ex.com/t/699409) 
-- [【V2EX】2020-08-18-公司跑路了没有离职证明这么搞？](https://www.v2ex.com/t/699407) 
 - [【技术头条】2020-08-18-工具-vs-产品-And-知识-vs-思维-|-晚晴幽草轩-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13692&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F08%2F18%2F166-tools-vs-products-and-knowledge-vs-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-08-18-从技术雷达看科技宏观趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13691&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmacro-trends-tech-industry-may-2020%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-08-18-白话中台战略：中台的第一性原理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13690&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fzhongtai-first-principle%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -599,21 +599,21 @@
 - [【开发者头条】2020-08-18-Zabbix-5.0-LTS-新功能一览](https://toutiao.io/k/go3ezt0) 
 - [【开发者头条】2020-08-18-TypeScript-类型系统](https://toutiao.io/k/q9sxre5) 
 - [【开发者头条】2020-08-18-面试官：对象可能会迟到，但它永远不会缺席](https://toutiao.io/k/vg32co3) 
-- [【开发者头条】2020-08-18-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) 
-- [【开发者头条】2020-08-18-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) 
-- [【开发者头条】2020-08-18-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
 - [【开发者头条】2020-08-18-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) 
-- [【开发者头条】2020-08-18-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
-- [【开发者头条】2020-08-18-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) 
-- [【开发者头条】2020-08-18-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) 
-- [【开发者头条】2020-08-18-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) 
-- [【开发者头条】2020-08-18-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) 
-- [【开发者头条】2020-08-18-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) 
-- [【开发者头条】2020-08-18-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) 
-- [【开发者头条】2020-08-18-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) 
-- [【开发者头条】2020-08-18-推荐-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) 
 - [【开发者头条】2020-08-18-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) 
-- [【开发者头条】2020-08-18-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
+- [【开发者头条】2020-08-18-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) 
+- [【开发者头条】2020-08-18-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) 
+- [【开发者头条】2020-08-18-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) 
+- [【开发者头条】2020-08-18-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) 
+- [【开发者头条】2020-08-18-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
+- [【开发者头条】2020-08-18-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) 
+- [【开发者头条】2020-08-18-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
+- [【开发者头条】2020-08-18-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) 
+- [【开发者头条】2020-08-18-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
+- [【开发者头条】2020-08-18-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
+- [【开发者头条】2020-08-18-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) 
+- [【开发者头条】2020-08-18-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) 
+- [【开发者头条】2020-08-18-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) 
 - [【安全热点】2020-08-18-中文版强势开源!这或许是最经典的计算机编程教材...](https://sec.thief.one/article_content?a_id=9caa06e389f71f28ee18f90b65ab0799) 
 - [【安全热点】2020-08-18-Apache-Dubbo-远程代码执行漏洞CVE-2020-11995](https://sec.thief.one/article_content?a_id=a7cefeabc9c1a8f045cc23ef7f601fd3) 
 - [【安全热点】2020-08-18-一款一键创建攻击机的脚本idea](https://sec.thief.one/article_content?a_id=63c10f92d208cf3cb95cedec43c540fd) 
@@ -2349,8 +2349,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html) 
 - [【前端开发博客】2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
 - [【前端开发博客】2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
-- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [【凹凸实验室】2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/) 
 - [【凹凸实验室】2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
 - [【前端e进阶】2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
@@ -3616,7 +3614,6 @@
 - [【前端圈】2019-06-13-蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0) 
 - [【前端圈】2019-06-12-视频Vue.js作者在VueConf现场发布RFC](https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde) 
 - [【前端圈】2019-06-11-真山在-VueConf-2019-上海-现场发布-VuePress-1.0](https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624) 
-- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
 - [【凹凸实验室】2019-06-21-Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/) 
 - [【凹凸实验室】2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) 
 
@@ -3629,7 +3626,6 @@
 </summary>
 
 
-- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [【凹凸实验室】2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -3641,21 +3637,8 @@
 </summary>
 
 
-- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [【凹凸实验室】2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/) 
 - [【凹凸实验室】2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-01">
- 2019-01
-</summary>
-
-
-- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3666,9 +3649,6 @@
 </summary>
 
 
-- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
-- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
-- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [【凹凸实验室】2018-12-23-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
 - [【凹凸实验室】2018-12-17-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/) 
 

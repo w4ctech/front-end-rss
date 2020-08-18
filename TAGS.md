@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-18 15:48:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 16:02:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -444,8 +444,6 @@
 - [【前端迷】常见的逻辑判断优化技巧](https://www.ershicimi.com/p/7c8b8f62855e4546433d638252593475)
 - [【全栈前端精选】你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/173eba198865b70c7d1f3ffb182ab705)
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
 - [【凹凸实验室】京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)
 - [【凹凸实验室】前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/)
@@ -523,8 +521,8 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【V2EX】如何在-mac-彻底删除-avast](https://www.v2ex.com/t/699455)
 - [【技术头条】十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4)
 - [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
+- [【安全热点】Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

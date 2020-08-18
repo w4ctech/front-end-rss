@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-18 05:48:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 06:02:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -99,7 +99,6 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-08-18-使用-ipython-console-输出的数据太多的问题](https://www.v2ex.com/t/699224) 
 - [2020-08-18-深色模式在-Web-端的适配方案](https://toutiao.io/k/03kk4hr) 
 - [2020-08-18-hox-+-useRequest：异步数据流管理从未如此轻松自然](https://toutiao.io/k/zywv6e3) 
 - [2020-08-07-【安全圈】路由器,交换机和AnyConnect-VPN中的高度严重漏洞](https://sec.thief.one/article_content?a_id=1c9ffbde3b409b310e18dcadfbe69b72) 

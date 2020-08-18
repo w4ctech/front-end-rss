@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 05:48:28，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 06:02:34，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-18-关于最近疫情-钟南山有这些最新判断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUO5hM83050CD3tj4m6CJ200818&isfromapp=1) ![](assets/new.png)  
+- [2020-08-18-解封后疫情反弹-尼泊尔多地恢复局部封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNYYPK0hj0FACoxajkoQZ200818&isfromapp=1) ![](assets/new.png)  
+- [2020-08-18-香港疫情仍未见稳定趋势-特区政府将推出第三轮防疫抗疫基金及第二期“保就业计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXO1HTscdpXuMuBFW2rWj200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-山东公布17日新增境外输入无症状感染者详情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN910P9z67BEyuckjOlFt200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-墨西哥新增3571例新冠肺炎确诊病例-累计525733例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZhtZ0AN7x12TSLSc72Kx200818&isfromapp=1) ![](assets/new.png)  
-- [2020-08-18-8月17日浙江新增无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIpvVXirDlYSu40bWqURf200818&isfromapp=1) ![](assets/new.png)  
-- [2020-08-18-非洲地区新冠肺炎确诊病例超112万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilsWprGsBFgJzPY6JmGBW200818&isfromapp=1) ![](assets/new.png)  
-- [2020-08-17-上海17日新增14例境外输入新冠肺炎确诊病例-，新增治愈出院3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVICQsXPXCTypWYNK2K6Y200818&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-18-腾讯学生机可以直接买了吗？](https://www.v2ex.com/t/699274) ![](assets/new.png)  
+- [2020-08-18-字节跳动内推季持续招人，多样海量岗位需求，-内推进度随时可查哦](https://www.v2ex.com/t/699273) ![](assets/new.png)  
+- [2020-08-18-从一线回到二线又重新回去](https://www.v2ex.com/t/699272) ![](assets/new.png)  
 - [2020-08-18-有可能在氧-OS-上用上氢-OS-的短信么](https://www.v2ex.com/t/699270) ![](assets/new.png)  
 - [2020-08-18-我这专科还有救吗，无经验](https://www.v2ex.com/t/699268) ![](assets/new.png)  
 - [2020-08-18-腾讯-QQ-多次无缘无故冻结账号，还无法解封，有腾讯相关人员能处理下么？](https://www.v2ex.com/t/699267) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-18-字节跳动海量-HC-招聘，社招&校招都有，内推有回声，投递不石沉大海。](https://www.v2ex.com/t/699253) ![](assets/new.png)  
 - [2020-08-18-美区-spotify，差一人，长期车](https://www.v2ex.com/t/699251) ![](assets/new.png)  
 - [2020-08-18-准备做个用户群体为国外用户的-APP-求老铁推荐一个可以收款的接口](https://www.v2ex.com/t/699249) ![](assets/new.png)  
-- [2020-08-18-19-年毕业至今未工作，现在拿到外包的-offer，希望能得到一些建议](https://www.v2ex.com/t/699248) ![](assets/new.png)  
-- [2020-08-18-成都。爱奇艺-游戏小伙伴来看下，-U3D（HC4）、erlang、关卡策划](https://www.v2ex.com/t/699247) ![](assets/new.png)  
-- [2020-08-18-杭州-300-万-刚需-哪个板块？](https://www.v2ex.com/t/699244) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

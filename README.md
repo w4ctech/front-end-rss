@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 10:33:23，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 10:46:15，:rocket: 更新条数: +3536， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-18-乌鲁木齐市：所有的快递包裹均采用无接触派送](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7AZfvOu1OaTnkARCbXcX200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-新疆（含兵团）连续第2日无新增确诊病例-治愈出院比例达57.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiReCtnfY1zGZRdMfSmVx0200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-俄罗斯卫生部发布新冠病毒疫苗生产视频](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9ZXxh8MAgANMaB4QAVSg200818&isfromapp=1) ![](assets/new.png)  
 - [2020-08-18-2020年8月17日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202008/t20200818_3930100.html) ![](assets/new.png)  
 - [2020-08-18-关于最近疫情-钟南山有这些最新判断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUO5hM83050CD3tj4m6CJ200818&isfromapp=1) ![](assets/new.png)  
-- [2020-08-18-解封后疫情反弹-尼泊尔多地恢复局部封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNYYPK0hj0FACoxajkoQZ200818&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1123,10 +1143,10 @@
 - [2020-08-18-深色模式在-Web-端的适配方案](https://toutiao.io/k/03kk4hr) ![](assets/new.png)  
 - [2020-08-18-为-Linux-系统开启多因素认证](https://toutiao.io/k/ftz28qu) ![](assets/new.png)  
 - [2020-08-18-Python-经典面试题：并发场景的生产消费者模式](https://toutiao.io/k/r4sp86a) ![](assets/new.png)  
-- [2020-08-18-浅析-Kubernetes-Pod-重启策略和健康检查](https://toutiao.io/k/d3cnluh) ![](assets/new.png)  
 - [2020-08-18-图解-Vue-异步更新原理](https://toutiao.io/k/1psu8sr) ![](assets/new.png)  
-- [2020-08-18-hox-+-useRequest：异步数据流管理从未如此轻松自然](https://toutiao.io/k/zywv6e3) ![](assets/new.png)  
+- [2020-08-18-浅析-Kubernetes-Pod-重启策略和健康检查](https://toutiao.io/k/d3cnluh) ![](assets/new.png)  
 - [2020-08-18-Uniswap-非权威开发指南（v2-版）](https://toutiao.io/k/75bnd0g) ![](assets/new.png)  
+- [2020-08-18-hox-+-useRequest：异步数据流管理从未如此轻松自然](https://toutiao.io/k/zywv6e3) ![](assets/new.png)  
 - [2020-08-18-Redis-migrate-数据迁移工具](https://toutiao.io/k/fiv94h6) ![](assets/new.png)  
 - [2020-08-18-Cilium-多-K8S-集群-multi-cluster-解决方案-ClusterMesh-试手](https://toutiao.io/k/4oagbsz) ![](assets/new.png)  
 - [2020-08-18-Docker-服务禁止被列入美国实体名单的国家、企业使用](https://toutiao.io/k/kttzpj0) ![](assets/new.png)  

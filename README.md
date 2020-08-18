@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 07:19:36，:rocket: 更新条数: +3321， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 07:31:37，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-18-微服务系统中，分别有后台系统管理员和-APP-用户两种类型的用户，该如何做认证？](https://www.v2ex.com/t/699308) ![](assets/new.png)  
+- [2020-08-18-JDK（EE）真的有人用吗](https://www.v2ex.com/t/699306) ![](assets/new.png)  
+- [2020-08-18-需要找两位-Java-和-PHP-领域的中-V-做活动](https://www.v2ex.com/t/699305) ![](assets/new.png)  
 - [2020-08-18-迫于群里人天天吹水,-导致群里人要跑没了](https://www.v2ex.com/t/699304) ![](assets/new.png)  
 - [2020-08-18-有油管会员的车吗？](https://www.v2ex.com/t/699303) ![](assets/new.png)  
 - [2020-08-18-香港招行手机版网银已经支持-FPS-转账](https://www.v2ex.com/t/699302) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-18-11P-总是发热掉电快，已经关掉后台和升级系统](https://www.v2ex.com/t/699287) ![](assets/new.png)  
 - [2020-08-18-各位老友们，我又来提问了，你们的后端服务-API-有做节流（throttle）和防抖（debounce）吗？](https://www.v2ex.com/t/699286) ![](assets/new.png)  
 - [2020-08-18-关于车位交易的税费问题请教](https://www.v2ex.com/t/699285) ![](assets/new.png)  
-- [2020-08-18-有没有哪款策略游戏能模拟俄罗斯那种「遍地是矿，但是开采成本+运输成本远高于市场价」的情况？](https://www.v2ex.com/t/699284) ![](assets/new.png)  
-- [2020-08-18-zhihu-投放的广告平台劫持跳转，贵司可否知道？](https://www.v2ex.com/t/699283) ![](assets/new.png)  
-- [2020-08-18-上海-19-年毕业-求职](https://www.v2ex.com/t/699282) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,8 +1117,8 @@
 - [2020-08-18-微信小游戏背后的技术优化](https://toutiao.io/k/lhyjn91) ![](assets/new.png)  
 - [2020-08-18-从-0-到-1-搭建业务中台](https://toutiao.io/k/fonb2xz) ![](assets/new.png)  
 - [2020-08-18-rsync-复制文件的一些注意事项](https://toutiao.io/k/qz4uqwp) ![](assets/new.png)  
-- [2020-08-18-LeetCode-题解](https://toutiao.io/k/hjie8u4) ![](assets/new.png)  
 - [2020-08-18-.NET-Core-+-Ocelot：API-网关](https://toutiao.io/k/xxh3674) ![](assets/new.png)  
+- [2020-08-18-LeetCode-题解](https://toutiao.io/k/hjie8u4) ![](assets/new.png)  
 - [2020-08-18-深色模式在-Web-端的适配方案](https://toutiao.io/k/03kk4hr) ![](assets/new.png)  
 - [2020-08-18-Kubernetes-源码解析：HPA-水平自动伸缩如何工作](https://toutiao.io/k/vaowlox) ![](assets/new.png)  
 - [2020-08-18-为-Linux-系统开启多因素认证](https://toutiao.io/k/ftz28qu) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 09:33:36，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 09:46:52，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
@@ -446,26 +446,6 @@
 </summary>
 
 
-- [2020-08-18-Microsoft-365挥别IE-11，IE“死”在了微软自己手里](https://www.ershicimi.com/p/6624d44bbe8b3cd74412ea0b86cdcbad) ![](assets/new.png)  
-- [2020-08-18-快手Android-OOM治理实践与思考丨InfoQ大咖说](https://www.ershicimi.com/p/5d9fc46be2301d91f92938ac74696eb7) ![](assets/new.png)  
-- [2020-08-17-为什么我不再用Redux了](https://www.ershicimi.com/p/187315cdb1b5fb3a1ed93f4d392c8e4f) ![](assets/new.png)  
-- [2020-08-17-Java的新未来：逐渐“Kotlin化”](https://www.ershicimi.com/p/040365896ed79cf8352fd2e8cee746e2) ![](assets/new.png)  
-- [2020-08-16-前端周报：谷歌开源-chromeOS.dev；-十余家美国企业联手抵制特朗普“封杀”微信；Angul](https://www.ershicimi.com/p/64729e7a6d3cc0184e99536b8a72d7fc) ![](assets/new.png)  
-- [2020-08-14-如何衡量前端工程质量？我们有了平台化的解决方案](https://www.ershicimi.com/p/dd0656b355c467a5ea70699349234d43) ![](assets/new.png)  
-- [2020-08-14-TypeScript-4.0-RC发布，带来诸多更新](https://www.ershicimi.com/p/493c41b006bc86ce765d8a62eadaffbf) ![](assets/new.png)  
-- [2020-08-14-来呀，一起造出一个React框架！-|-极客大学](https://www.ershicimi.com/p/c5613ff6ece0feea538d048d2236e143) ![](assets/new.png)  
-- [2020-08-13-软件史上最著名的10大Bug](https://www.ershicimi.com/p/baa4a19c76768f07918c5b1d514b433e) ![](assets/new.png)  
-- [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686) ![](assets/new.png)  
-- [2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da) ![](assets/new.png)  
-- [2020-08-12-6个常见的可访问性问题及解决方案](https://www.ershicimi.com/p/d3547dd3615918b17be6bd34fe67e291) ![](assets/new.png)  
-- [2020-08-12-从0到1教你配置深度学习服务器，高维破题助攻机器学习！-|-活动推荐](https://www.ershicimi.com/p/8e2d4d1865ea806550287d585958e48b) ![](assets/new.png)  
-- [2020-08-11-CSS-in-JS：一个充满争议的技术方案](https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6) ![](assets/new.png)  
-- [2020-08-11-如何在-Web-上大规模生成-UUID](https://www.ershicimi.com/p/439c67fd019b6392684956127a2db49e) ![](assets/new.png)  
-- [2020-08-10-不想一辈子打工，我做了个月入40余万的App](https://www.ershicimi.com/p/25bd483e164fa404b662543003e7d9d9) ![](assets/new.png)  
-- [2020-08-10-WebSocket-开发实战，三步实现实时弹幕系统](https://www.ershicimi.com/p/c80886f25187f3817819d1ebc95381f1) ![](assets/new.png)  
-- [2020-08-09-前端周报：印度政府已要求应用商店下架百度和微博；微信回应特朗普封禁：正在评估；安卓版-Chrome](https://www.ershicimi.com/p/8851a5df79a6834f39ee004a86ff2fa8) ![](assets/new.png)  
-- [2020-08-07-耗时三年，向React迁移的利与弊](https://www.ershicimi.com/p/20749545e470bf9c2ebc4975ceffba78) ![](assets/new.png)  
-- [2020-08-07-Django-3.1-发布，支持异步-view-和-middleware](https://www.ershicimi.com/p/b1eb1881506d7224b7ece2c0a459e1e1) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1032,11 @@
 </summary>
 
 
+- [2020-08-18-你们都说杭州是奋斗逼之都，别来，但是「城市」这个节点，放眼望去，杭州的帖比上海北京深圳似乎都多，可能还包括「生活」这个节点；杭州的互联网环境-2020-年是...](https://www.v2ex.com/t/699367) ![](assets/new.png)  
+- [2020-08-18-ElasticSearch-2.x---7.x-跨-N-版本迁移的相关经验总结分享](https://www.v2ex.com/t/699366) ![](assets/new.png)  
+- [2020-08-18-侄女被英国某大学录取，金融类专业，求推荐送什么礼物好？](https://www.v2ex.com/t/699365) ![](assets/new.png)  
+- [2020-08-18-nodejs-天生异步-为什么还需要异步队列](https://www.v2ex.com/t/699362) ![](assets/new.png)  
+- [2020-08-18-“低电请充电，电量低于-20%”是什么新的操作？](https://www.v2ex.com/t/699361) ![](assets/new.png)  
 - [2020-08-18-JS-在不使用-API-的情况下，有办法获取域名对应-IP-吗？](https://www.v2ex.com/t/699360) ![](assets/new.png)  
 - [2020-08-18-sublime-已经一年不更新了](https://www.v2ex.com/t/699359) ![](assets/new.png)  
 - [2020-08-18-20200818-东莞证券武汉研发中心诚聘-@武汉](https://www.v2ex.com/t/699358) ![](assets/new.png)  
@@ -1067,11 +1052,6 @@
 - [2020-08-18-美股历史行情数据-API-接口](https://www.v2ex.com/t/699347) ![](assets/new.png)  
 - [2020-08-18-最近要开放-API-给第三方调用，造了个小轮子，已开源](https://www.v2ex.com/t/699346) ![](assets/new.png)  
 - [2020-08-18-8/24-免费讲座-疫情下，他如何从-Startup-逆袭上岸-Google？](https://www.v2ex.com/t/699345) ![](assets/new.png)  
-- [2020-08-18-杭州有没有什么租房交流群之类的，我看的好多都是中介，心好累](https://www.v2ex.com/t/699343) ![](assets/new.png)  
-- [2020-08-18-不懂就问，劳务公司代发工资，有什么危害](https://www.v2ex.com/t/699342) ![](assets/new.png)  
-- [2020-08-18-CODING-DevOps-微服务项目实战系列第二课来啦！](https://www.v2ex.com/t/699341) ![](assets/new.png)  
-- [2020-08-18-V-站大佬们-国内用户如何加速访问国外服务器?](https://www.v2ex.com/t/699340) ![](assets/new.png)  
-- [2020-08-18-大数据-请问-Flink-on-k8s-有坑吗？是官方的好用还是谷歌的-Operator-好用？](https://www.v2ex.com/t/699339) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1110,8 @@
 - [2020-08-18-Uniswap-非权威开发指南（v2-版）](https://toutiao.io/k/75bnd0g) ![](assets/new.png)  
 - [2020-08-18-Cilium-多-K8S-集群-multi-cluster-解决方案-ClusterMesh-试手](https://toutiao.io/k/4oagbsz) ![](assets/new.png)  
 - [2020-08-18-了不起的-IoC-与-DI](https://toutiao.io/k/cksymai) ![](assets/new.png)  
-- [2020-08-18-Zabbix-5.0-LTS-新功能一览](https://toutiao.io/k/go3ezt0) ![](assets/new.png)  
 - [2020-08-18-Docker-服务禁止被列入美国实体名单的国家、企业使用](https://toutiao.io/k/kttzpj0) ![](assets/new.png)  
+- [2020-08-18-Zabbix-5.0-LTS-新功能一览](https://toutiao.io/k/go3ezt0) ![](assets/new.png)  
 - [2020-08-18-TypeScript-类型系统](https://toutiao.io/k/q9sxre5) ![](assets/new.png)  
 - [2020-08-18-面试官：对象可能会迟到，但它永远不会缺席](https://toutiao.io/k/vg32co3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

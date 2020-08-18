@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 01:10:45，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 01:21:19，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,9 +64,9 @@
 </summary>
 
 
+- [2020-08-17-8月17日全国新增境外输入新冠22例-其中上海14例](https://m.caixin.com/m/2020-08-18/101593785.html) ![](assets/new.png)  
 - [2020-08-16-深圳升级进口冻品监管力度-消杀检测费用由政府承担](http://m.china.caixin.com/m/2020-08-17/101593714.html) ![](assets/new.png)  
 - [2020-08-16-最新海外疫情：新冠感染近2155万-累计死亡超77万](http://m.international.caixin.com/m/2020-08-17/101593571.html) ![](assets/new.png)  
-- [2020-08-16-最新疫情：全国新冠累计确诊84849例-新增22例全部由境外输入](http://m.china.caixin.com/m/2020-08-17/101593562.html) ![](assets/new.png)  
 - [2020-08-16-【境内疫情观察】全国无新增本土病例（8月16日）](http://m.database.caixin.com/m/2020-08-17/101593491.html) ![](assets/new.png)  
 - [2020-08-16-大流行手记|8月16日：印度签约生产低价新冠疫苗-复课后美国多州学校现疫情](https://m.caixin.com/m/2020-08-17/101593367.html) ![](assets/new.png)  
 - [2020-08-15-广东排查48家盒马鲜生关联企业-新发疫情传染源尚未明确](http://m.china.caixin.com/m/2020-08-16/101593340.html) ![](assets/new.png)  
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-18-常量类和枚举分别适用哪些场景？](https://www.v2ex.com/t/699158) ![](assets/new.png)  
+- [2020-08-18-向用-PicGo-作为写博客上传图片到图床工具的朋友们提问：生成的-markdown-链接怎么带上文件名？](https://www.v2ex.com/t/699157) ![](assets/new.png)  
+- [2020-08-18-有没有开源-uniapp-项目推荐？学习用。](https://www.v2ex.com/t/699155) ![](assets/new.png)  
 - [2020-08-18-laravel-中如何做-tcp-client-长连接？](https://www.v2ex.com/t/699153) ![](assets/new.png)  
 - [2020-08-18-昨天手机从微波炉上掉落，-wifi-蓝牙功能今早都失效了。](https://www.v2ex.com/t/699151) ![](assets/new.png)  
 - [2020-08-18-DuckDuckGo-用户有没有发现近期纯中文关键词搜索结果变差了很多？](https://www.v2ex.com/t/699149) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-17-有炒美股的交流群吗？求加](https://www.v2ex.com/t/699127) ![](assets/new.png)  
 - [2020-08-17-印象笔记的资金流是有问题了吗？](https://www.v2ex.com/t/699126) ![](assets/new.png)  
 - [2020-08-17-银行的开发岗普遍不加班吗。。](https://www.v2ex.com/t/699125) ![](assets/new.png)  
-- [2020-08-17-Yubikey-最新固件版本-w](https://www.v2ex.com/t/699124) ![](assets/new.png)  
-- [2020-08-17-求助-单模单纤千兆光电转换只有百兆速度](https://www.v2ex.com/t/699123) ![](assets/new.png)  
-- [2020-08-17-仅需-10-元-即可获得<美团&字节&快手&网易&B-站>2020-算法真题详解全套](https://www.v2ex.com/t/699122) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,13 +1127,13 @@
 - [2020-08-18-Python-经典面试题：并发场景的生产消费者模式](https://toutiao.io/k/r4sp86a) ![](assets/new.png)  
 - [2020-08-18-Cilium-多-K8S-集群-multi-cluster-解决方案-ClusterMesh-试手](https://toutiao.io/k/4oagbsz) ![](assets/new.png)  
 - [2020-08-18-Redis-migrate-数据迁移工具](https://toutiao.io/k/fiv94h6) ![](assets/new.png)  
-- [2020-08-18-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
-- [2020-08-18-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
-- [2020-08-18-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
 - [2020-08-18-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
-- [2020-08-18-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-18-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-18-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
 - [2020-08-18-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-18-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-18-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-18-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-18-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

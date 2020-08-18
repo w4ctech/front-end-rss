@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 15:21:44，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 15:31:15，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-18-知乎上不要评论，不要评论，不要评论](https://www.v2ex.com/t/699452) ![](assets/new.png)  
+- [2020-08-18-小米只能插座是只能在同一个-wifi-才能控制？包括我在同一个-wifi-定的时，如果到时间手机没和插座一个-WIFI，就等于没定？](https://www.v2ex.com/t/699450) ![](assets/new.png)  
 - [2020-08-18-App-Store-是宕机了吗？](https://www.v2ex.com/t/699449) ![](assets/new.png)  
 - [2020-08-18-发现-tiktok-有网页版，不拔掉-sim-card-也能用，抖音却没有。](https://www.v2ex.com/t/699448) ![](assets/new.png)  
 - [2020-08-18-继薪资被倒挂事件后，开始带着几个入职的同事开始做项目。](https://www.v2ex.com/t/699446) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-18-书房的-hdmi-方案，求意见！](https://www.v2ex.com/t/699430) ![](assets/new.png)  
 - [2020-08-18-被-iOS-界大佬级程序员拉黑，玻璃心进来吐槽下。](https://www.v2ex.com/t/699429) ![](assets/new.png)  
 - [2020-08-18-突然想问个问题，不从宿主哪里获取信息，虚拟机自己能知道自己是个虚拟机么](https://www.v2ex.com/t/699427) ![](assets/new.png)  
-- [2020-08-18-top-域名-白送](https://www.v2ex.com/t/699426) ![](assets/new.png)  
-- [2020-08-18-使用-react-写了个网页版数独工具](https://www.v2ex.com/t/699425) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 15:02:39，:rocket: 更新条数: +3283， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 15:10:11，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1052,6 +1052,26 @@
 </summary>
 
 
+- [2020-08-18-Microsoft/Office-365-家庭版拼团，-8/17-新开，余-4-位置](https://www.v2ex.com/t/699447) ![](assets/new.png)  
+- [2020-08-18-继薪资被倒挂事件后，开始带着几个入职的同事开始做项目。](https://www.v2ex.com/t/699446) ![](assets/new.png)  
+- [2020-08-18-Java-:-对于必需使用有参构造器确定一些实现细节且这些细节千奇百怪无法使用统一接口的服务实现，如何能得到近似-Java-SPI-一样程度的解耦呢?](https://www.v2ex.com/t/699445) ![](assets/new.png)  
+- [2020-08-18-git-查看某次-merge-操作影响的文件，应该怎么查](https://www.v2ex.com/t/699444) ![](assets/new.png)  
+- [2020-08-18-如何快速将云提供商的存款提现？](https://www.v2ex.com/t/699443) ![](assets/new.png)  
+- [2020-08-18-请问一下，-Linux-关于进程/线程之间的锁机制的实现，具体代码从哪里看起呢？](https://www.v2ex.com/t/699441) ![](assets/new.png)  
+- [2020-08-18-Google-Photos-恢复照片到-iPhone-总是卡](https://www.v2ex.com/t/699438) ![](assets/new.png)  
+- [2020-08-18-uniapp-中使用-使用-transform:-scale-为什么在-IOS-下面空白啊](https://www.v2ex.com/t/699437) ![](assets/new.png)  
+- [2020-08-18-有需求显卡进行深度学习模型训练的小伙伴吗？](https://www.v2ex.com/t/699436) ![](assets/new.png)  
+- [2020-08-18-学校为了就业率推荐科研助理岗位会有影响吗？](https://www.v2ex.com/t/699435) ![](assets/new.png)  
+- [2020-08-18-把老家房子卖了，现在可以投资点什么比较好](https://www.v2ex.com/t/699434) ![](assets/new.png)  
+- [2020-08-18-wordpress-搭建的网站被攻击，疯狂访问/wp-admin/admin-ajax.-PHP](https://www.v2ex.com/t/699433) ![](assets/new.png)  
+- [2020-08-18-分享一下-k2p-隐形加-USB-的方案](https://www.v2ex.com/t/699432) ![](assets/new.png)  
+- [2020-08-18-腾讯-深圳-招聘运维开发工程师-项目组直招](https://www.v2ex.com/t/699431) ![](assets/new.png)  
+- [2020-08-18-书房的-hdmi-方案，求意见！](https://www.v2ex.com/t/699430) ![](assets/new.png)  
+- [2020-08-18-被-iOS-界大佬级程序员拉黑，玻璃心进来吐槽下。](https://www.v2ex.com/t/699429) ![](assets/new.png)  
+- [2020-08-18-突然想问个问题，不从宿主哪里获取信息，虚拟机自己能知道自己是个虚拟机么](https://www.v2ex.com/t/699427) ![](assets/new.png)  
+- [2020-08-18-top-域名-白送](https://www.v2ex.com/t/699426) ![](assets/new.png)  
+- [2020-08-18-使用-react-写了个网页版数独工具](https://www.v2ex.com/t/699425) ![](assets/new.png)  
+- [2020-08-18-可能是首个支持部署-Deno-前后端应用的工具](https://www.v2ex.com/t/699424) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

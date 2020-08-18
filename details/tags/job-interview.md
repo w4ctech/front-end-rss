@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-18 03:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 04:04:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -51,7 +51,6 @@
 - [2020-07-23-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/864b0feaa51046cb6caa2a3a52b8f670) 
 - [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) 
 - [2020-08-18-巨硬家面试题：二叉树的锯齿形层次遍历](https://www.v2ex.com/t/699223) 
-- [2020-08-18-南京最舒服的外企-趋势科技-21-届校园招聘开启！-专业内推！-赶紧上车..](https://www.v2ex.com/t/699181) 
 - [2020-08-18-一次蚂蚁金服的辛酸面试历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13687&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlGMB3sdVbQFkmaDL_cgvyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-18-Python-经典面试题：并发场景的生产消费者模式](https://toutiao.io/k/r4sp86a) 
 - [2020-08-18-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 

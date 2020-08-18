@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-18 01:21:19，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-18 01:31:32，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-18-各位老铁们，有做过一个产品后认真推广坚持下去的嘛](https://www.v2ex.com/t/699163) ![](assets/new.png)  
+- [2020-08-18-全国天气预报信息-API-接口](https://www.v2ex.com/t/699162) ![](assets/new.png)  
+- [2020-08-18-Kotlin-1.4-Released](https://www.v2ex.com/t/699161) ![](assets/new.png)  
+- [2020-08-18-老颈椎了，乳胶枕有-V-友推荐吗？](https://www.v2ex.com/t/699160) ![](assets/new.png)  
+- [2020-08-18-有把右-ALT-改成删除的么？](https://www.v2ex.com/t/699159) ![](assets/new.png)  
 - [2020-08-18-常量类和枚举分别适用哪些场景？](https://www.v2ex.com/t/699158) ![](assets/new.png)  
 - [2020-08-18-向用-PicGo-作为写博客上传图片到图床工具的朋友们提问：生成的-markdown-链接怎么带上文件名？](https://www.v2ex.com/t/699157) ![](assets/new.png)  
 - [2020-08-18-有没有开源-uniapp-项目推荐？学习用。](https://www.v2ex.com/t/699155) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-17-家人想换智能锁，有推荐的吗？](https://www.v2ex.com/t/699140) ![](assets/new.png)  
 - [2020-08-17-美区-App-Store..没有卡..不想买礼品卡..还能用什么办法-内购](https://www.v2ex.com/t/699139) ![](assets/new.png)  
 - [2020-08-17-Rust-核心团队发推回应-Mozilla-裁员](https://www.v2ex.com/t/699138) ![](assets/new.png)  
-- [2020-08-17-刚买的-MacBook-pro-开箱后发现有两个小划痕](https://www.v2ex.com/t/699137) ![](assets/new.png)  
-- [2020-08-17-招安卓全栈（后端极轻），仿-app，带报价来。](https://www.v2ex.com/t/699132) ![](assets/new.png)  
-- [2020-08-17-有炒美股的交流群吗？求加](https://www.v2ex.com/t/699127) ![](assets/new.png)  
-- [2020-08-17-印象笔记的资金流是有问题了吗？](https://www.v2ex.com/t/699126) ![](assets/new.png)  
-- [2020-08-17-银行的开发岗普遍不加班吗。。](https://www.v2ex.com/t/699125) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,10 +1114,10 @@
 </summary>
 
 
-- [2020-08-18-从-0-到-1-搭建业务中台](https://toutiao.io/k/fonb2xz) ![](assets/new.png)  
 - [2020-08-18-微信小游戏背后的技术优化](https://toutiao.io/k/lhyjn91) ![](assets/new.png)  
-- [2020-08-18-.NET-Core-+-Ocelot：API-网关](https://toutiao.io/k/xxh3674) ![](assets/new.png)  
+- [2020-08-18-从-0-到-1-搭建业务中台](https://toutiao.io/k/fonb2xz) ![](assets/new.png)  
 - [2020-08-18-Kubernetes-源码解析：HPA-水平自动伸缩如何工作](https://toutiao.io/k/vaowlox) ![](assets/new.png)  
+- [2020-08-18-.NET-Core-+-Ocelot：API-网关](https://toutiao.io/k/xxh3674) ![](assets/new.png)  
 - [2020-08-18-rsync-复制文件的一些注意事项](https://toutiao.io/k/qz4uqwp) ![](assets/new.png)  
 - [2020-08-18-LeetCode-题解](https://toutiao.io/k/hjie8u4) ![](assets/new.png)  
 - [2020-08-18-为-Linux-系统开启多因素认证](https://toutiao.io/k/ftz28qu) ![](assets/new.png)  
@@ -1125,15 +1125,15 @@
 - [2020-08-18-浅析-Kubernetes-Pod-重启策略和健康检查](https://toutiao.io/k/d3cnluh) ![](assets/new.png)  
 - [2020-08-18-hox-+-useRequest：异步数据流管理从未如此轻松自然](https://toutiao.io/k/zywv6e3) ![](assets/new.png)  
 - [2020-08-18-Python-经典面试题：并发场景的生产消费者模式](https://toutiao.io/k/r4sp86a) ![](assets/new.png)  
-- [2020-08-18-Cilium-多-K8S-集群-multi-cluster-解决方案-ClusterMesh-试手](https://toutiao.io/k/4oagbsz) ![](assets/new.png)  
 - [2020-08-18-Redis-migrate-数据迁移工具](https://toutiao.io/k/fiv94h6) ![](assets/new.png)  
-- [2020-08-18-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
-- [2020-08-18-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
-- [2020-08-18-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-18-Cilium-多-K8S-集群-multi-cluster-解决方案-ClusterMesh-试手](https://toutiao.io/k/4oagbsz) ![](assets/new.png)  
+- [2020-08-18-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-18-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-18-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
 - [2020-08-18-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-18-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-18-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
-- [2020-08-18-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-18-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
+- [2020-08-18-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-18-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-18 20:02:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-18 20:15:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -54,5 +54,6 @@
 - [2020-08-18-一次蚂蚁金服的辛酸面试历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13687&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlGMB3sdVbQFkmaDL_cgvyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-18-Python-经典面试题：并发场景的生产消费者模式](https://toutiao.io/k/r4sp86a) 
 - [2020-08-18-面试官：对象可能会迟到，但它永远不会缺席](https://toutiao.io/k/vg32co3) 
+- [2020-08-18-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-15-牛聘|2020年度岗位招聘第10期](https://sec.thief.one/article_content?a_id=48dc5bfc5999e36a623b8c8acdda0d3a) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

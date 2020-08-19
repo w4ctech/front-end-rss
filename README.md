@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 08:33:48，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 08:46:30，:rocket: 更新条数: +3321， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
@@ -446,6 +446,9 @@
 </summary>
 
 
+- [2020-08-19-我是怎样通过个人项目成长为高级-JavaScript-开发者的](https://www.ershicimi.com/p/dd5e699b03225c29d4b74f38f71ce072) ![](assets/new.png)  
+- [2020-08-19-Mac-恶意软件通过-Xcode-项目传播，受影响-IP-大多在中国和印度](https://www.ershicimi.com/p/3d51af78aa7c5cdbcb459fb69ad6ab96) ![](assets/new.png)  
+- [2020-08-19-“Android-开发还有什么可以学习的？”-|-极客时间](https://www.ershicimi.com/p/bfc4b7a2ca71765577547d8139435fbc) ![](assets/new.png)  
 - [2020-08-18-Microsoft-365挥别IE-11，IE“死”在了微软自己手里](https://www.ershicimi.com/p/6624d44bbe8b3cd74412ea0b86cdcbad) ![](assets/new.png)  
 - [2020-08-18-快手Android-OOM治理实践与思考丨InfoQ大咖说](https://www.ershicimi.com/p/5d9fc46be2301d91f92938ac74696eb7) ![](assets/new.png)  
 - [2020-08-17-为什么我不再用Redux了](https://www.ershicimi.com/p/187315cdb1b5fb3a1ed93f4d392c8e4f) ![](assets/new.png)  
@@ -463,9 +466,6 @@
 - [2020-08-11-如何在-Web-上大规模生成-UUID](https://www.ershicimi.com/p/439c67fd019b6392684956127a2db49e) ![](assets/new.png)  
 - [2020-08-10-不想一辈子打工，我做了个月入40余万的App](https://www.ershicimi.com/p/25bd483e164fa404b662543003e7d9d9) ![](assets/new.png)  
 - [2020-08-10-WebSocket-开发实战，三步实现实时弹幕系统](https://www.ershicimi.com/p/c80886f25187f3817819d1ebc95381f1) ![](assets/new.png)  
-- [2020-08-09-前端周报：印度政府已要求应用商店下架百度和微博；微信回应特朗普封禁：正在评估；安卓版-Chrome](https://www.ershicimi.com/p/8851a5df79a6834f39ee004a86ff2fa8) ![](assets/new.png)  
-- [2020-08-07-耗时三年，向React迁移的利与弊](https://www.ershicimi.com/p/20749545e470bf9c2ebc4975ceffba78) ![](assets/new.png)  
-- [2020-08-07-Django-3.1-发布，支持异步-view-和-middleware](https://www.ershicimi.com/p/b1eb1881506d7224b7ece2c0a459e1e1) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -715,6 +715,9 @@
 </summary>
 
 
+- [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html) ![](assets/new.png)  
+- [2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html) ![](assets/new.png)  
+- [2020-08-10-只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1049,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-19-一个关于排序的问题，请各位大佬赐教](https://www.v2ex.com/t/699668) ![](assets/new.png)  
+- [2020-08-19-成都---安恒信息---寻-Python-开发工程师](https://www.v2ex.com/t/699667) ![](assets/new.png)  
+- [2020-08-19-请教，公众号这种回复小程序咋弄的？](https://www.v2ex.com/t/699666) ![](assets/new.png)  
+- [2020-08-19-广州求租客村，赤岗，磨碟沙地铁站附近的两室一厅，-2500-左右，最好房东直租或者谁转租，不想掏中介费](https://www.v2ex.com/t/699665) ![](assets/new.png)  
 - [2020-08-19-用-docker-compose-启动-nginx，-network-为-host，-nginx-无法启动是怎么回事？](https://www.v2ex.com/t/699660) ![](assets/new.png)  
 - [2020-08-19-iPadOS-Public-Beta-的-iPad-Pro-用户们，你们可以外接显示器吗？](https://www.v2ex.com/t/699659) ![](assets/new.png)  
 - [2020-08-19-如何让-ol->-li-列表复制的文本带上序号](https://www.v2ex.com/t/699658) ![](assets/new.png)  
@@ -1065,10 +1072,6 @@
 - [2020-08-19-感觉这里创业组队挺多的啊？有成功的吗？](https://www.v2ex.com/t/699644) ![](assets/new.png)  
 - [2020-08-19-大家还在读书的话-你们的大学还封闭管理嘛？-shabi-学校真是服了](https://www.v2ex.com/t/699643) ![](assets/new.png)  
 - [2020-08-19-求机友推荐电信联通的流量套餐](https://www.v2ex.com/t/699642) ![](assets/new.png)  
-- [2020-08-19-携号转网！广州移动电信用户可以办理联通沃派套餐了。29-元月租](https://www.v2ex.com/t/699641) ![](assets/new.png)  
-- [2020-08-19-148-开头的-12-位骚扰彩信是哪里发的](https://www.v2ex.com/t/699640) ![](assets/new.png)  
-- [2020-08-19-杭州的-IXP-搞得咋样了。。。。](https://www.v2ex.com/t/699639) ![](assets/new.png)  
-- [2020-08-19-成功开通了-GitHub-Sponsors](https://www.v2ex.com/t/699638) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1125,8 @@
 - [2020-08-19-JetCache-埋点的骚操作，不服不行啊](https://toutiao.io/k/3gn5idg) ![](assets/new.png)  
 - [2020-08-19-京东商城订单模块-Swift-探索](https://toutiao.io/k/qezitnz) ![](assets/new.png)  
 - [2020-08-19-这应该是最适合国内用户的-K3s-HA-方案](https://toutiao.io/k/vsp7iq7) ![](assets/new.png)  
-- [2020-08-19-掌握这些-Go-语言特性，你的水平将提高-N-个档次（二）](https://toutiao.io/k/r4z7515) ![](assets/new.png)  
 - [2020-08-19-入门：Apache-Pulsar-项目成长史](https://toutiao.io/k/z7m3tiz) ![](assets/new.png)  
+- [2020-08-19-掌握这些-Go-语言特性，你的水平将提高-N-个档次（二）](https://toutiao.io/k/r4z7515) ![](assets/new.png)  
 - [2020-08-19-微软开源计算机视觉专题库（含分类、检测、分割、关键点、跟踪、动作识别等主流方向）](https://toutiao.io/k/dmih94k) ![](assets/new.png)  
 - [2020-08-19-从实际案例讲-Deno-的应用场景](https://toutiao.io/k/5j4z6w5) ![](assets/new.png)  
 - [2020-08-19-开源：如何实现一个-iOS-AOP-框架？](https://toutiao.io/k/0umo6ma) ![](assets/new.png)  

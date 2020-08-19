@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-19 06:46:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-19 06:48:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -2866,6 +2866,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-02-01-【聚焦】转危为安，用足用好世卫组织临时建议](http://m.opinion.caixin.com/m/2020-02-02/101510608.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-02-01-菲律宾出现境外首个新冠肺炎死亡病例-逝者为44岁武汉观光客](http://m.international.caixin.com/m/2020-02-02/101510658.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-02-01-新冠病毒会通过粪—口传播吗？卫健委回应](http://m.china.caixin.com/m/2020-02-02/101510713.html) 
+- [【Vue社区】2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [【前端开发博客】2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
 - [【前端开发博客】2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
 - [【前端开发博客】2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
@@ -3313,6 +3314,21 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-01-02-新冠肺炎重症患者增至11人-病原仍未确定](http://m.china.caixin.com/m/2020-01-03/101506089.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-01-02-防新冠肺炎扩散-港府每日公布监察数据](http://m.china.caixin.com/m/2020-01-03/101506090.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-01-01-新冠肺炎患者受何病毒感染引关注-各地加强预警](http://m.china.caixin.com/m/2020-01-02/101506091.html) 
+- [【Vue社区】2020-01-22-Vue优雅设计一个组件](https://www.ershicimi.com/p/7230f837307dccbce835587cc0c65dfe) 
+- [【Vue社区】2020-01-20-带你彻底搞懂Vue3的响应式原理！TypeScript从零实现基于Proxy的响应式库](https://www.ershicimi.com/p/8b10f42113d0085423d395070e24d72d) 
+- [【Vue社区】2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [【Vue社区】2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
+- [【Vue社区】2020-01-14-字节跳动面试官：请你用Vue实现一个大文件上传和断点续传](https://www.ershicimi.com/p/a670d609b3ad6fb9a360fa50ff63b537) 
+- [【Vue社区】2020-01-13-vue移动端开发总结](https://www.ershicimi.com/p/16d6d5f6fa8b66524349cd93f51dbbe5) 
+- [【Vue社区】2020-01-10-面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89) 
+- [【Vue社区】2020-01-09-Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008) 
+- [【Vue社区】2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
+- [【Vue社区】2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
+- [【Vue社区】2020-01-06-推荐几个前端领域的优质公众号](https://www.ershicimi.com/p/2ecc19eb701a08ec7dc1ffbcc07b4487) 
+- [【Vue社区】2020-01-04-【搞笑漫画】程序员鄙视链](https://www.ershicimi.com/p/99356f25157eaf693a3a9aa592666dbb) 
+- [【Vue社区】2020-01-03-从零开发一套完整的vue项目开发环境](https://www.ershicimi.com/p/cab0fde7933f77481f19d7a7ccf21319) 
+- [【Vue社区】2020-01-02-回顾2019-年-JavaScript-现状调查报告](https://www.ershicimi.com/p/9adf10f5eda0e047609c758df13436b0) 
+- [【Vue社区】2020-01-01-倏忽一年：回顾点评前端-2019-重大事件、趋势](https://www.ershicimi.com/p/88b10c5e55ecef0583393efa7d466665) 
 - [【前端开发博客】2020-01-16-阿里-ice.work-探秘系列-withRouter-的使用](https://www.ershicimi.com/p/29c023dd30374ab258ceef6aeaddb1e2) 
 - [【前端开发博客】2020-01-15-阿里-ice.work-探秘系列-useState、useEffect](https://www.ershicimi.com/p/23159dcf23f0f8f92efd0a91c7a316f2) 
 - [【前端外刊评论】2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
@@ -3342,6 +3358,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2019-12-31-肺炎疫情阴影下，武汉华南海鲜批发市场休市整治](http://m.china.caixin.com/m/2020-01-01/101506092.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2019-12-30-武汉发现不明原因肺炎-当地一海鲜市场消毒（更新）](http://m.china.caixin.com/m/2019-12-31/101506094.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2019-12-30-武汉通报27例病毒性肺炎疫情-病原检测正在进行](http://m.china.caixin.com/m/2019-12-31/101506093.html) 
+- [【Vue社区】2019-12-31-Vue-CLI-4-发布：自动化升级过程，支持自定义包管理器](https://www.ershicimi.com/p/f3854cabca198728fee0c97ec0f825bf) 
+- [【Vue社区】2019-12-30-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/8afb29a5864bf11ab6723cdc66a0c6ab) 
+- [【Vue社区】2019-12-26-如何答一道惊艳面试官的数组去重问题？](https://www.ershicimi.com/p/65b6fbfea2975868732525463c062fdf) 
+- [【Vue社区】2019-12-25-给开发人员的时间管理建议](https://www.ershicimi.com/p/fe451d9ed185297ab9a70fc9109d41fe) 
 - [【VUE全家桶】2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [【VUE全家桶】2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
 - [【VUE全家桶】2019-12-19-【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e) 
@@ -3390,6 +3410,7 @@
 - [【前端艺术家&&飞冰早报】2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [【前端艺术家&&飞冰早报】2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [【前端艺术家&&飞冰早报】2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [【编程之上】2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3441,6 +3462,15 @@
 - [【前端外刊评论】2019-10-21-招聘-|-字节跳动-上海-前端工程师社招-&-校招-&-实习生](https://www.ershicimi.com/p/dff761693416bd940e698627c37a14d9) 
 - [【前端外刊评论】2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
 - [【前端外刊评论】2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
+- [【编程之上】2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
+- [【编程之上】2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) 
+- [【编程之上】2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [【编程之上】2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) 
+- [【编程之上】2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [【编程之上】2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) 
+- [【编程之上】2019-10-13-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
+- [【编程之上】2019-10-12-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
+- [【编程之上】2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

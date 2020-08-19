@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-19 06:46:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 06:48:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2195,6 +2195,12 @@
 - [2020-01-15-日本公布一新型冠状病毒感染病例-患者去过武汉](http://m.china.caixin.com/m/2020-01-16/101506054.html) 
 - [2020-01-10-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://m.china.caixin.com/m/2020-01-11/101506220.html) 
 - [2020-08-19-疫中看拉美丨拉美国家合作加速新冠疫苗研发-专家提醒民众勿盲目乐观](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimw96GVXoM19QKmHNjhqB200819&isfromapp=1) 
+- [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
+- [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
+- [2020-01-06-推荐几个前端领域的优质公众号](https://www.ershicimi.com/p/2ecc19eb701a08ec7dc1ffbcc07b4487) 
+- [2020-01-04-【搞笑漫画】程序员鄙视链](https://www.ershicimi.com/p/99356f25157eaf693a3a9aa592666dbb) 
+- [2019-12-25-给开发人员的时间管理建议](https://www.ershicimi.com/p/fe451d9ed185297ab9a70fc9109d41fe) 
 - [2020-08-17-Medium-2w+赞，高效程序员拥有的-7-个习惯！](https://www.ershicimi.com/p/f2923984bf41ae01209684f5523f3016) 
 - [2020-08-16-想要学习人工智能？推荐你一条完整的学习路径！](https://www.ershicimi.com/p/65a42c4907f7602144dab106f299618a) 
 - [2020-08-13-你可以不尊重我的人，但必须尊重我的代码...](https://www.ershicimi.com/p/b49e6145eb1c1f02187a36f19b87364e) 
@@ -2413,6 +2419,13 @@
 - [2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
 - [2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) 
+- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) 
+- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) 
+- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) 
+- [2019-10-13-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
+- [2019-10-12-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
+- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
 - [2020-08-14-中国人都有什么有意思的特色-Buff？](https://www.ershicimi.com/p/b681e42d3d92a42ee176109e1c06c53d) 
 - [2020-08-14-知乎故事-|-我不小心把猫放进滚筒洗衣机了](https://www.ershicimi.com/p/e527ae0f312d8790634cc32ea2f193f7) 
 - [2020-08-13-知乎好问题：既然所有的生命都要死亡，那么生命的意义是什么？](https://www.ershicimi.com/p/e03c34c8a0fca6e0a58dd73e449fa4be) 

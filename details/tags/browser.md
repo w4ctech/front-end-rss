@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-19 19:08:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 19:16:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -51,7 +51,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-19-如何保证一个请求在-200ms-内完成](https://www.v2ex.com/t/699769) 
 - [2020-08-19-Nginx-怎么配置访问的-URL-是目录的时候跳转到目录下的-index.-PHP-并保留查询参数](https://www.v2ex.com/t/699762) 
-- [2020-08-19-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
 - [2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) 
 - [2020-08-13-​【安全圈】黑客劫持了YouTube流行频道,以促进比特币诈骗](https://sec.thief.one/article_content?a_id=d988719f07b20e2774b0d54fb4503d3e) 
 - [2020-08-13-2020中国网络安全年会在网上成功召开](https://sec.thief.one/article_content?a_id=23dc4003dd5c7a6106e089c28ba8bc3a) 

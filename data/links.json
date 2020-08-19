@@ -12752,6 +12752,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "辽宁大连湾街道降为低风险地区后全面解封",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix7B7xuogB0b5LyHb2OLC200819&isfromapp=1",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "尼泊尔新增681例新冠肺炎确诊病例 累计达28938例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBqN0sfx1hVYJBJNRCDoX200819&isfromapp=1",
+        "date": "2020-08-19"
+      },
+      {
         "title": "辽宁新增1例境外输入无症状感染者",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilEp9lBjJCsrUV3997jbo200819&isfromapp=1",
         "date": "2020-08-19"
@@ -12764,16 +12774,6 @@
       {
         "title": "江西新增境外输入新冠肺炎确诊病例3例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8PKn7rSsPARJnxFJbEO3200819&isfromapp=1",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "守望相助！白衣战士身后是万众一心的中国人民",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVTUpygv197j4QcnSiIN2200819&isfromapp=1",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "德国新增1510例新冠肺炎确诊病例 累计226914例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipUCAKksuEvDBAPGjpwdN200819&isfromapp=1",
         "date": "2020-08-19"
       }
     ]
@@ -15904,6 +15904,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[北京] [逍遥一下] 高级 iOS 工程师 20k-30k*14 薪",
+        "link": "https://www.v2ex.com/t/699726",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "请教一下各位，有没有什么软件能够抓某一个指定程序的所有网络请求的",
+        "link": "https://www.v2ex.com/t/699725",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "求教如何用简短代码发现一个 dataframe 里出现 a 列值大于相邻行的 b 列值情况的位置。。。",
+        "link": "https://www.v2ex.com/t/699724",
+        "date": "2020-08-19"
+      },
+      {
         "title": "[北京] [逍遥一下] 高级服务端工程师 15k-30k*14 薪",
         "link": "https://www.v2ex.com/t/699723",
         "date": "2020-08-19"
@@ -16072,21 +16087,6 @@
         "title": "是不是用了代理， DNS 解析这一步就被代理客户端把持了？",
         "link": "https://www.v2ex.com/t/699678",
         "date": "2020-08-19"
-      },
-      {
-        "title": "腾讯视频里面提示清理手机垃圾的快手广告",
-        "link": "https://www.v2ex.com/t/699677",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "字节跳动大牛 2 小时详解秒杀系统",
-        "link": "https://www.v2ex.com/t/699675",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "下午这个点肚子就有点饿了，求 V 友推荐一些小零食~",
-        "link": "https://www.v2ex.com/t/699674",
-        "date": "2020-08-19"
       }
     ]
   },
@@ -16208,13 +16208,13 @@
         "date": "2020-08-19"
       },
       {
-        "title": "Redis 五大对象",
-        "link": "https://toutiao.io/k/djlfguy",
+        "title": "工具 vs 产品 And 知识 vs 思维",
+        "link": "https://toutiao.io/k/ex0jj5x",
         "date": "2020-08-19"
       },
       {
-        "title": "工具 vs 产品 And 知识 vs 思维",
-        "link": "https://toutiao.io/k/ex0jj5x",
+        "title": "Redis 五大对象",
+        "link": "https://toutiao.io/k/djlfguy",
         "date": "2020-08-19"
       },
       {
@@ -16303,23 +16303,18 @@
         "date": "2020-08-19"
       },
       {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-19"
+      },
+      {
         "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
         "link": "https://toutiao.io/k/9ujm1ju",
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
         "date": "2020-08-19"
       },
       {
@@ -16328,18 +16323,8 @@
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
         "date": "2020-08-19"
       },
       {
@@ -16348,18 +16333,28 @@
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
-        "date": "2020-08-19"
-      },
-      {
         "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
         "link": "https://toutiao.io/k/gfbzndp",
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
         "date": "2020-08-19"
       },
       {
@@ -16368,13 +16363,18 @@
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
+        "title": "[推荐] 高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
         "date": "2020-08-19"
       }
     ]

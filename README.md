@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 04:33:19，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 04:46:26，:rocket: 更新条数: +3284， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-08-18-8月18日全国新增境外输入新冠病例17例-其中上海8例](https://m.caixin.com/m/2020-08-19/101594218.html) ![](assets/new.png)  
+- [2020-08-18-最新疫情：全国新冠累计确诊84888例-新增境外输入17例](https://m.caixin.com/m/2020-08-19/101594339.html) ![](assets/new.png)  
 - [2020-08-18-大流行手记|8月18日：俄第二款疫苗上马二期临床-韩国严防首都圈失守](https://m.caixin.com/m/2020-08-19/101594245.html) ![](assets/new.png)  
 - [2020-08-17-最新海外疫情：新冠感染超2175万-累计死亡近77万](http://m.international.caixin.com/m/2020-08-18/101594091.html) ![](assets/new.png)  
 - [2020-08-17-大流行手记|8月17日：多国报告变异病毒实为老毒株-印度现新变种](https://m.caixin.com/m/2020-08-18/101593771.html) ![](assets/new.png)  
@@ -1052,26 +1052,6 @@
 </summary>
 
 
-- [2020-08-19-dogedoge-最近很多正常关键字无法搜索](https://www.v2ex.com/t/699579) ![](assets/new.png)  
-- [2020-08-19-苹果为什么不整个融合电脑-ARM-+-x86](https://www.v2ex.com/t/699578) ![](assets/new.png)  
-- [2020-08-19-前段时间趁着打折，买了一款-罗技-MX-Vertical-鼠标，在谁用同款的吗，一起来交流交流](https://www.v2ex.com/t/699577) ![](assets/new.png)  
-- [2020-08-19-美的电压力锅，温控烧毁了。](https://www.v2ex.com/t/699576) ![](assets/new.png)  
-- [2020-08-19-求问咸鱼买硬盘有什么坑～](https://www.v2ex.com/t/699574) ![](assets/new.png)  
-- [2020-08-19-找一个-C#wpf-开发游戏下载器](https://www.v2ex.com/t/699573) ![](assets/new.png)  
-- [2020-08-19-chrome-helper-这个总是占用-CPU-过高的问题，大家怎么解决的？](https://www.v2ex.com/t/699571) ![](assets/new.png)  
-- [2020-08-19-gitbook-生成的章节链接怎么带上-index.html?](https://www.v2ex.com/t/699570) ![](assets/new.png)  
-- [2020-08-19-重要通知-淘宝前端搭建服务正在招人！](https://www.v2ex.com/t/699569) ![](assets/new.png)  
-- [2020-08-19-新款京造-k1，看着还不错，很薄，这样的话好像能省手托](https://www.v2ex.com/t/699568) ![](assets/new.png)  
-- [2020-08-19-想给父亲换个新手机，求推荐](https://www.v2ex.com/t/699566) ![](assets/new.png)  
-- [2020-08-19-员工加班与否，是主管评价一个员工的唯一依据吗？](https://www.v2ex.com/t/699565) ![](assets/new.png)  
-- [2020-08-19-广州，两年经验，-Java-后端，来找找机会。](https://www.v2ex.com/t/699564) ![](assets/new.png)  
-- [2020-08-19-Thief-5.1-摸鱼神器发布-新增鱼塘资讯、多套股票/基金模板，隐蔽性更高](https://www.v2ex.com/t/699563) ![](assets/new.png)  
-- [2020-08-19-分享一个好玩的网址导航，创意工作者的网址导航哦](https://www.v2ex.com/t/699561) ![](assets/new.png)  
-- [2020-08-19-mac-下有什么好工具可以联-Linux-服务器和-windows-服务器的？](https://www.v2ex.com/t/699560) ![](assets/new.png)  
-- [2020-08-19-K30-Ultra（至尊纪念版）深度使用简评](https://www.v2ex.com/t/699557) ![](assets/new.png)  
-- [2020-08-19-广州鼻炎去哪个医院检查好，疫情下是不是不好去一些医院检查](https://www.v2ex.com/t/699556) ![](assets/new.png)  
-- [2020-08-19-有什么推荐的在国内能买到的-eGPU-呢](https://www.v2ex.com/t/699555) ![](assets/new.png)  
-- [2020-08-19-做饭半年，-995-码农如何做到自备每日工作餐](https://www.v2ex.com/t/699554) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,10 +1101,10 @@
 - [2020-08-19-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
 - [2020-08-19-书单丨5-本经典著作描绘-C++-学习路线图](https://toutiao.io/k/tlr1sb8) ![](assets/new.png)  
 - [2020-08-19-聊一聊-Redis-数据内部存储使用到的数据结构](https://toutiao.io/k/cyf3oyp) ![](assets/new.png)  
+- [2020-08-19-工具-vs-产品-And-知识-vs-思维](https://toutiao.io/k/ex0jj5x) ![](assets/new.png)  
 - [2020-08-19-JetCache-埋点的骚操作，不服不行啊](https://toutiao.io/k/3gn5idg) ![](assets/new.png)  
 - [2020-08-19-京东商城订单模块-Swift-探索](https://toutiao.io/k/qezitnz) ![](assets/new.png)  
 - [2020-08-19-这应该是最适合国内用户的-K3s-HA-方案](https://toutiao.io/k/vsp7iq7) ![](assets/new.png)  
-- [2020-08-19-工具-vs-产品-And-知识-vs-思维](https://toutiao.io/k/ex0jj5x) ![](assets/new.png)  
 - [2020-08-19-掌握这些-Go-语言特性，你的水平将提高-N-个档次（二）](https://toutiao.io/k/r4z7515) ![](assets/new.png)  
 - [2020-08-19-入门：Apache-Pulsar-项目成长史](https://toutiao.io/k/z7m3tiz) ![](assets/new.png)  
 - [2020-08-19-微软开源计算机视觉专题库（含分类、检测、分割、关键点、跟踪、动作识别等主流方向）](https://toutiao.io/k/dmih94k) ![](assets/new.png)  

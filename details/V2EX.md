@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-19 22:02:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 22:09:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-19-pixel-2xl-10-闪退-有人遇到过吗？](https://www.v2ex.com/t/699787) 
 - [2020-08-19-请教一个帝国-CMS-批量替换-的-正则表达式的问题](https://www.v2ex.com/t/699785) 
 - [2020-08-19-请问转行的人都是怎么找到第一份工作的？](https://www.v2ex.com/t/699784) 
 - [2020-08-19-quicklogin-全量聚合登录，快速打通用户群-](https://www.v2ex.com/t/699783) 

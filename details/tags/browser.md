@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-19 12:04:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 12:13:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,7 +42,6 @@
 - [2020-08-19-“杀死”那个-IE-11-浏览器](https://www.ershicimi.com/p/8d90e9c15a75a2ac5926d44af5cb004a) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-19-teamviewer-需要注册才能用了吗？](https://www.v2ex.com/t/699700) 
-- [2020-08-19-译-10-条重要的前端安全建议](https://www.v2ex.com/t/699673) 
 - [2020-08-19-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
 - [2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) 
 - [2020-08-13-​【安全圈】黑客劫持了YouTube流行频道,以促进比特币诈骗](https://sec.thief.one/article_content?a_id=d988719f07b20e2774b0d54fb4503d3e) 

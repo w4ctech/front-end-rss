@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 12:34:52，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 12:46:14，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,7 +1052,7 @@
 </summary>
 
 
-- [2020-08-19-社招杭州部门直推滴滴出行-高级/资深研发工程师](https://www.v2ex.com/t/699731) ![](assets/new.png)  
+- [2020-08-19-社招杭州部门直推滴滴出行-高级/资深-Java-研发工程师](https://www.v2ex.com/t/699731) ![](assets/new.png)  
 - [2020-08-19-北京-逍遥一下-高级服务端工程师（Go-方向）20k-30k*14-薪](https://www.v2ex.com/t/699730) ![](assets/new.png)  
 - [2020-08-19-大佬们能-show-一下你们的书签（网址）是怎么管理的吗？](https://www.v2ex.com/t/699729) ![](assets/new.png)  
 - [2020-08-19-教训！装修公司全包合同，首付款付完，刚砸铲墙完，公司老板跑路了](https://www.v2ex.com/t/699728) ![](assets/new.png)  
@@ -1117,8 +1117,8 @@
 - [2020-08-19-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
 - [2020-08-19-工具-vs-产品-And-知识-vs-思维](https://toutiao.io/k/ex0jj5x) ![](assets/new.png)  
 - [2020-08-19-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
-- [2020-08-19-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
 - [2020-08-19-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
+- [2020-08-19-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
 - [2020-08-19-书单丨5-本经典著作描绘-C++-学习路线图](https://toutiao.io/k/tlr1sb8) ![](assets/new.png)  
 - [2020-08-19-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
 - [2020-08-19-入门：Apache-Pulsar-项目成长史](https://toutiao.io/k/z7m3tiz) ![](assets/new.png)  

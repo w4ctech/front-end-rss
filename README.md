@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 10:20:47，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 10:31:43，:rocket: 更新条数: +3321， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-19-中国政府向南苏丹、几内亚派遣抗疫医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH9E4K9p5aDlmZDuGkwpb200819&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-江西新增境外输入新冠肺炎确诊病例3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8PKn7rSsPARJnxFJbEO3200819&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-守望相助！白衣战士身后是万众一心的中国人民](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVTUpygv197j4QcnSiIN2200819&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-德国新增1510例新冠肺炎确诊病例-累计226914例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipUCAKksuEvDBAPGjpwdN200819&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-辽宁大连新冠肺炎住院病例全部出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLcGeWHu3IA97h0Lw0yZ1200819&isfromapp=1) ![](assets/new.png)  
-- [2020-08-19-津巴布韦境内累计新冠肺炎确诊病例达5378例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3fBNaaBdwQDwAZHDMdpN200819&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,13 +1052,13 @@
 </summary>
 
 
+- [2020-08-19-抖音定时自动发布](https://www.v2ex.com/t/699701) ![](assets/new.png)  
 - [2020-08-19-teamviewer-需要注册才能用了吗？](https://www.v2ex.com/t/699700) ![](assets/new.png)  
 - [2020-08-19-Postwoman-更名为-hoppscotch，-woman-不愿意做-woman-了。](https://www.v2ex.com/t/699699) ![](assets/new.png)  
 - [2020-08-19-大家开发-APP-用什么-UI-框架？](https://www.v2ex.com/t/699698) ![](assets/new.png)  
 - [2020-08-19-前端有必要帮后端整理数据么？](https://www.v2ex.com/t/699697) ![](assets/new.png)  
 - [2020-08-19-Python-的-uiautomator2-操作微信会不会被封号](https://www.v2ex.com/t/699696) ![](assets/new.png)  
 - [2020-08-19-Unity3d-和-Unreal-Engine-哪个更有前途？](https://www.v2ex.com/t/699695) ![](assets/new.png)  
-- [2020-08-19-大家觉得腾讯是不是垃圾,-专门坑墙内可怜娃的钱](https://www.v2ex.com/t/699694) ![](assets/new.png)  
 - [2020-08-19-上海张江，喜马拉雅，内推](https://www.v2ex.com/t/699693) ![](assets/new.png)  
 - [2020-08-19-可能是-2020-年的最后一次周报（很丧预警）](https://www.v2ex.com/t/699691) ![](assets/new.png)  
 - [2020-08-19-广州电信游戏宽带-500M-还有-cn2-吗？](https://www.v2ex.com/t/699690) ![](assets/new.png)  
@@ -1117,8 +1117,8 @@
 - [2020-08-19-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
 - [2020-08-19-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
 - [2020-08-19-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
-- [2020-08-19-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
 - [2020-08-19-工具-vs-产品-And-知识-vs-思维](https://toutiao.io/k/ex0jj5x) ![](assets/new.png)  
+- [2020-08-19-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
 - [2020-08-19-书单丨5-本经典著作描绘-C++-学习路线图](https://toutiao.io/k/tlr1sb8) ![](assets/new.png)  
 - [2020-08-19-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
 - [2020-08-19-聊一聊-Redis-数据内部存储使用到的数据结构](https://toutiao.io/k/cyf3oyp) ![](assets/new.png)  

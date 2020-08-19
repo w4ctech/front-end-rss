@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 03:48:21，:rocket: 更新条数: +3324， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 04:02:41，:rocket: 更新条数: +3324， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-19-疫中看拉美丨拉美国家合作加速新冠疫苗研发-专家提醒民众勿盲目乐观](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimw96GVXoM19QKmHNjhqB200819&isfromapp=1) ![](assets/new.png)  
+- [2020-08-19-新加坡外籍工人中新增百例新冠肺炎确诊病例-约7000人被隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0tUgnMhYPjqhmwWF6RlS200819&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-美国国家橄榄球联盟（NFL）将允许球迷现场观看比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLpTydUgJ8PXcZzoQqAHL200819&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-截至8月18日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/413690.jhtml) ![](assets/new.png)  
 - [2020-08-18-美国过去24小时新增近5万例新冠肺炎确诊病例，累计超547万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixfQYyaQuhyHMtgBsvKEG200819&isfromapp=1) ![](assets/new.png)  
-- [2020-08-18-美国新冠肺炎确诊病例超546万例-死亡超17万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5bkpV4BWW2BhOJqRj7vz200819&isfromapp=1) ![](assets/new.png)  
-- [2020-08-18-福奇：美国的新冠病毒检测问题仍未完全解决](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYoQvTSeRhQ36j2WW00SB200819&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-19-chrome-helper-这个总是占用-CPU-过高的问题，大家怎么解决的？](https://www.v2ex.com/t/699571) ![](assets/new.png)  
+- [2020-08-19-gitbook-生成的章节链接怎么带上-index.html?](https://www.v2ex.com/t/699570) ![](assets/new.png)  
 - [2020-08-19-重要通知-淘宝前端搭建服务正在招人！](https://www.v2ex.com/t/699569) ![](assets/new.png)  
 - [2020-08-19-新款京造-k1，看着还不错，很薄，这样的话好像能省手托](https://www.v2ex.com/t/699568) ![](assets/new.png)  
 - [2020-08-19-想给父亲换个新手机，求推荐](https://www.v2ex.com/t/699566) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-19-请教能否让-nginx-的反向代理调用外部正向代理](https://www.v2ex.com/t/699547) ![](assets/new.png)  
 - [2020-08-19-macbookpro-16-寸为啥开程序一定会黑屏一下啊](https://www.v2ex.com/t/699546) ![](assets/new.png)  
 - [2020-08-19-请问如何测试一个服务能承受多大的并发量](https://www.v2ex.com/t/699545) ![](assets/new.png)  
-- [2020-08-19-迫于又续了一年的苏宁-super-会员，故出一个腾讯视频会员](https://www.v2ex.com/t/699544) ![](assets/new.png)  
-- [2020-08-19-这个功能应该不难吧？](https://www.v2ex.com/t/699543) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,6 +1083,8 @@
 </summary>
 
 
+- [2020-08-19-英语学习指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13694&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenglish-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-19-技术人员的耐心和包容心-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13693&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fengineer-patience-inclusivity%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-19-工具-vs-产品-And-知识-vs-思维-|-晚晴幽草轩-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13692&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F08%2F18%2F166-tools-vs-products-and-knowledge-vs-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-19-从技术雷达看科技宏观趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13691&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmacro-trends-tech-industry-may-2020%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-19-白话中台战略：中台的第一性原理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13690&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fzhongtai-first-principle%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1101,8 +1103,6 @@
 - [2020-08-19-分享一个Flink-checkpoint失败的问题和解决办法-club.perfma.com](https://blogread.cn/news/go.php?idItem=13677&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1733519%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-19-API设计的几条原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-19-怎样消灭Bug？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-19-优先改进哪个点：捏软柿子还是啃硬骨头？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13674&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontinuous-improvement-priority%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-19-领域对象发展的极致就是代理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13673&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-dynamic-domian-modelling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,13 +1126,13 @@
 - [2020-08-19-这应该是最适合国内用户的-K3s-HA-方案](https://toutiao.io/k/vsp7iq7) ![](assets/new.png)  
 - [2020-08-19-工具-vs-产品-And-知识-vs-思维](https://toutiao.io/k/ex0jj5x) ![](assets/new.png)  
 - [2020-08-19-掌握这些-Go-语言特性，你的水平将提高-N-个档次（二）](https://toutiao.io/k/r4z7515) ![](assets/new.png)  
-- [2020-08-19-入门：Apache-Pulsar-项目成长史](https://toutiao.io/k/z7m3tiz) ![](assets/new.png)  
 - [2020-08-19-微软开源计算机视觉专题库（含分类、检测、分割、关键点、跟踪、动作识别等主流方向）](https://toutiao.io/k/dmih94k) ![](assets/new.png)  
+- [2020-08-19-入门：Apache-Pulsar-项目成长史](https://toutiao.io/k/z7m3tiz) ![](assets/new.png)  
 - [2020-08-19-开源：如何实现一个-iOS-AOP-框架？](https://toutiao.io/k/0umo6ma) ![](assets/new.png)  
 - [2020-08-19-从实际案例讲-Deno-的应用场景](https://toutiao.io/k/5j4z6w5) ![](assets/new.png)  
 - [2020-08-19-力扣刷题插件](https://toutiao.io/k/95wkuy1) ![](assets/new.png)  
-- [2020-08-19-如何学习一些比较复杂的技术概念](https://toutiao.io/k/g6y71kw) ![](assets/new.png)  
 - [2020-08-19-没想到-Shell-命令竟然还能这么玩？（Shell-玩转大数据分析）](https://toutiao.io/k/0ah1n1b) ![](assets/new.png)  
+- [2020-08-19-如何学习一些比较复杂的技术概念](https://toutiao.io/k/g6y71kw) ![](assets/new.png)  
 - [2020-08-19-Kubernetes-源码解析：Informer](https://toutiao.io/k/icop0p6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

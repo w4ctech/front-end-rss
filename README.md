@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 13:02:32，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 13:09:33，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-19-更新了安装脚本，悄悄告诉你一下](https://www.v2ex.com/t/699733) ![](assets/new.png)  
 - [2020-08-19-社招杭州部门直推滴滴出行-高级/资深-Java-研发工程师](https://www.v2ex.com/t/699731) ![](assets/new.png)  
 - [2020-08-19-北京-逍遥一下-高级服务端工程师（Go-方向）20k-30k*14-薪](https://www.v2ex.com/t/699730) ![](assets/new.png)  
 - [2020-08-19-大佬们能-show-一下你们的书签（网址）是怎么管理的吗？](https://www.v2ex.com/t/699729) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-19-windows-右下角图标模糊](https://www.v2ex.com/t/699711) ![](assets/new.png)  
 - [2020-08-19-自如租房，新来一夫妻租了一个房间，带了家婆和两个小孩，每天闹腾的很，-v-友们怎么看~](https://www.v2ex.com/t/699710) ![](assets/new.png)  
 - [2020-08-19-求推荐移动硬盘](https://www.v2ex.com/t/699709) ![](assets/new.png)  
-- [2020-08-19-电纸书哪个好用呢](https://www.v2ex.com/t/699708) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1130,8 @@
 - [2020-08-19-微软开源计算机视觉专题库（含分类、检测、分割、关键点、跟踪、动作识别等主流方向）](https://toutiao.io/k/dmih94k) ![](assets/new.png)  
 - [2020-08-19-从实际案例讲-Deno-的应用场景](https://toutiao.io/k/5j4z6w5) ![](assets/new.png)  
 - [2020-08-19-开源：如何实现一个-iOS-AOP-框架？](https://toutiao.io/k/0umo6ma) ![](assets/new.png)  
-- [2020-08-19-没想到-Shell-命令竟然还能这么玩？（Shell-玩转大数据分析）](https://toutiao.io/k/0ah1n1b) ![](assets/new.png)  
 - [2020-08-19-力扣刷题插件](https://toutiao.io/k/95wkuy1) ![](assets/new.png)  
+- [2020-08-19-没想到-Shell-命令竟然还能这么玩？（Shell-玩转大数据分析）](https://toutiao.io/k/0ah1n1b) ![](assets/new.png)  
 - [2020-08-19-如何学习一些比较复杂的技术概念](https://toutiao.io/k/g6y71kw) ![](assets/new.png)  
 - [2020-08-19-Kubernetes-源码解析：Informer](https://toutiao.io/k/icop0p6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

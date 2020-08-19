@@ -15899,6 +15899,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MAC 10.15 安装 PHP zip 扩展遇到的签名问题",
+        "link": "https://www.v2ex.com/t/699609",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "阿里云产品返佣优惠，新沟续费升级都可返 10—15 个点。",
+        "link": "https://www.v2ex.com/t/699607",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "变长模板参数同时匹配失败和匹配到空参数列表<>如何解决",
+        "link": "https://www.v2ex.com/t/699606",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "国产软件",
+        "link": "https://www.v2ex.com/t/699605",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "mate30 pro 是不是比 iPhone 更持久？",
+        "link": "https://www.v2ex.com/t/699604",
+        "date": "2020-08-19"
+      },
+      {
         "title": "[一道中等难度题] 被围绕的区域",
         "link": "https://www.v2ex.com/t/699601",
         "date": "2020-08-19"
@@ -16061,31 +16086,6 @@
       {
         "title": "mac 下有什么好工具可以联 Linux 服务器和 windows 服务器的？",
         "link": "https://www.v2ex.com/t/699560",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "K30 Ultra（至尊纪念版）深度使用简评",
-        "link": "https://www.v2ex.com/t/699557",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "广州鼻炎去哪个医院检查好，疫情下是不是不好去一些医院检查",
-        "link": "https://www.v2ex.com/t/699556",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "有什么推荐的在国内能买到的 eGPU 呢",
-        "link": "https://www.v2ex.com/t/699555",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "做饭半年， 995 码农如何做到自备每日工作餐",
-        "link": "https://www.v2ex.com/t/699554",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "有没有那种可以提供 api 的数据库云？",
-        "link": "https://www.v2ex.com/t/699553",
         "date": "2020-08-19"
       }
     ]
@@ -16303,13 +16303,33 @@
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
+        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
+        "link": "https://toutiao.io/k/wtofrd2",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
         "date": "2020-08-19"
       },
       {
@@ -16323,58 +16343,38 @@
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-19"
-      },
-      {
         "title": "[推荐] 高并发系统三大利器之限流",
         "link": "https://toutiao.io/k/1514ax3",
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
         "date": "2020-08-19"
       }
     ]

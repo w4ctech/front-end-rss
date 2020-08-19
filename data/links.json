@@ -12752,6 +12752,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "​意大利新增新冠肺炎确诊病例642例 累计255278例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaQnQITwQFx8pxs9jiTk5200819&isfromapp=1",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "​英国新增新冠肺炎确诊病例812例 累计321098例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisrGsMDavVB948Hfdf3sV200819&isfromapp=1",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "人类干扰减少 疫情下的土耳其海龟重获生机",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMH2XqRWbfTuQurmlLEgS200819&isfromapp=1",
+        "date": "2020-08-19"
+      },
+      {
         "title": "巴勒斯坦新增300例新冠肺炎确诊病例 累计17606例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIiO0VpQxFz1FaZcaHL2i200819&isfromapp=1",
         "date": "2020-08-19"
@@ -12759,21 +12774,6 @@
       {
         "title": "肯尼亚新增379例新冠肺炎确诊病例 累计确诊31015例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWzPeGMYdsq00LNaNz36B200819&isfromapp=1",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "辽宁大连湾街道降为低风险地区后全面解封",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix7B7xuogB0b5LyHb2OLC200819&isfromapp=1",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "尼泊尔新增681例新冠肺炎确诊病例 累计达28938例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBqN0sfx1hVYJBJNRCDoX200819&isfromapp=1",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "辽宁新增1例境外输入无症状感染者",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilEp9lBjJCsrUV3997jbo200819&isfromapp=1",
         "date": "2020-08-19"
       }
     ]
@@ -14863,7 +14863,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -16247,13 +16298,8 @@
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
         "date": "2020-08-19"
       },
       {
@@ -16262,28 +16308,8 @@
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/9ujm1ju",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 快速入门数据结构和算法",
-        "link": "https://toutiao.io/k/vkyzxyw",
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
         "date": "2020-08-19"
       },
       {
@@ -16292,13 +16318,13 @@
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
         "date": "2020-08-19"
       },
       {
@@ -16307,18 +16333,43 @@
         "date": "2020-08-19"
       },
       {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-19"
+      },
+      {
         "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
         "link": "https://toutiao.io/k/lmtdqk1",
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
         "date": "2020-08-19"
       },
       {
         "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
         "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
+        "link": "https://toutiao.io/k/wtofrd2",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
         "date": "2020-08-19"
       }
     ]

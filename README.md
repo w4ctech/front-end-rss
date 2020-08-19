@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 13:09:33，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 13:19:18，:rocket: 更新条数: +3324， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-19-你们有过对某件事突然死心的时候么](https://www.v2ex.com/t/699736) ![](assets/new.png)  
+- [2020-08-19-JAXB-2.x-注解-@XmlElementWrapper-设置属性](https://www.v2ex.com/t/699735) ![](assets/new.png)  
+- [2020-08-19-滴滴-电商项目招聘-Java-工程师](https://www.v2ex.com/t/699734) ![](assets/new.png)  
 - [2020-08-19-更新了安装脚本，悄悄告诉你一下](https://www.v2ex.com/t/699733) ![](assets/new.png)  
 - [2020-08-19-社招杭州部门直推滴滴出行-高级/资深-Java-研发工程师](https://www.v2ex.com/t/699731) ![](assets/new.png)  
 - [2020-08-19-北京-逍遥一下-高级服务端工程师（Go-方向）20k-30k*14-薪](https://www.v2ex.com/t/699730) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-19-我是不是最后一个知道小米-miui12-自带谷歌服务的](https://www.v2ex.com/t/699717) ![](assets/new.png)  
 - [2020-08-19-转租-朝南主卧-独卫带阳台-萧山近网易海康-5-号线金鸡路地铁站丰润家园](https://www.v2ex.com/t/699716) ![](assets/new.png)  
 - [2020-08-19-iOS14-beta5-没有办法进行下载-APP-前的验证?](https://www.v2ex.com/t/699715) ![](assets/new.png)  
-- [2020-08-19-windows-右下角图标模糊](https://www.v2ex.com/t/699711) ![](assets/new.png)  
-- [2020-08-19-自如租房，新来一夫妻租了一个房间，带了家婆和两个小孩，每天闹腾的很，-v-友们怎么看~](https://www.v2ex.com/t/699710) ![](assets/new.png)  
-- [2020-08-19-求推荐移动硬盘](https://www.v2ex.com/t/699709) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

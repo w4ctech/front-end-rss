@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 23:33:31，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 23:46:27，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1119,21 +1119,21 @@
 - [2020-08-19-mit-6.824-学习笔记-二-：GFS-设计-附脑图](https://toutiao.io/k/lxub979) ![](assets/new.png)  
 - [2020-08-19-关于-Golang-错误处理的一些思考​](https://toutiao.io/k/fuqmwtt) ![](assets/new.png)  
 - [2020-08-19-单元测试，只是测试吗？](https://toutiao.io/k/pveume6) ![](assets/new.png)  
-- [2020-08-19-直观解读-KL-散度的数学概念](https://toutiao.io/k/thaa1tn) ![](assets/new.png)  
 - [2020-08-19-记一次-Spring-项目打包问题排查](https://toutiao.io/k/v5nc8dk) ![](assets/new.png)  
-- [2020-08-19-OPA-Gatekeeper-策略入门](https://toutiao.io/k/9426ael) ![](assets/new.png)  
 - [2020-08-19-前端圈的贫富差距正在拉大？](https://toutiao.io/k/2ufxwgx) ![](assets/new.png)  
+- [2020-08-19-OPA-Gatekeeper-策略入门](https://toutiao.io/k/9426ael) ![](assets/new.png)  
+- [2020-08-19-直观解读-KL-散度的数学概念](https://toutiao.io/k/thaa1tn) ![](assets/new.png)  
 - [2020-08-19-深度剖析-GitHub-上-15.1k-Star-项目：redux-thunk](https://toutiao.io/k/pyja4h7) ![](assets/new.png)  
-- [2020-08-19-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-19-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
-- [2020-08-19-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-19-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
 - [2020-08-19-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
 - [2020-08-19-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
-- [2020-08-19-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-19-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
-- [2020-08-19-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
 - [2020-08-19-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-19-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-19-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-19-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-19-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-19-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
+- [2020-08-19-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-19-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

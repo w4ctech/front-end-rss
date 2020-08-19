@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-19 09:02:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 09:10:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,7 @@
 - [2020-08-19-译-10-条重要的前端安全建议](https://www.v2ex.com/t/699673) 
 - [2020-08-19-字节跳动安全与风控员工内推（可以帮忙查询进度，实时反馈）](https://www.v2ex.com/t/699653) 
 - [2020-08-19-如果刚毕业在安全行业去那家公司好啊，明年毕业了，马上秋招，现在在绿盟某办事处实习，马上秋招有点焦虑，在考虑毕业去那家企业的问题，怕走到弯路，求大佬指点](https://www.v2ex.com/t/699649) 
+- [2020-08-19-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
 - [2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) 
 - [2020-08-13-​【安全圈】黑客劫持了YouTube流行频道,以促进比特币诈骗](https://sec.thief.one/article_content?a_id=d988719f07b20e2774b0d54fb4503d3e) 
 - [2020-08-13-2020中国网络安全年会在网上成功召开](https://sec.thief.one/article_content?a_id=23dc4003dd5c7a6106e089c28ba8bc3a) 

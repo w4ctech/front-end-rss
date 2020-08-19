@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 15:20:55，:rocket: 更新条数: +3277， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 15:31:28，:rocket: 更新条数: +3321， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -42,9 +42,9 @@
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
-- [前端e进阶](#前端e进阶)  
+- [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-08-19-巴勒斯坦新增300例新冠肺炎确诊病例-累计17606例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIiO0VpQxFz1FaZcaHL2i200819&isfromapp=1) ![](assets/new.png)  
+- [2020-08-19-肯尼亚新增379例新冠肺炎确诊病例-累计确诊31015例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWzPeGMYdsq00LNaNz36B200819&isfromapp=1) ![](assets/new.png)  
+- [2020-08-19-辽宁大连湾街道降为低风险地区后全面解封](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix7B7xuogB0b5LyHb2OLC200819&isfromapp=1) ![](assets/new.png)  
+- [2020-08-19-尼泊尔新增681例新冠肺炎确诊病例-累计达28938例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBqN0sfx1hVYJBJNRCDoX200819&isfromapp=1) ![](assets/new.png)  
+- [2020-08-19-辽宁新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilEp9lBjJCsrUV3997jbo200819&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -818,6 +823,26 @@
 </summary>
 
 
+- [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) ![](assets/new.png)  
+- [2020-03-05-2020.03.03-互联网大厂入职薪资更新表](https://www.ershicimi.com/p/7758b0618c2076417db69702ed3bc49d) ![](assets/new.png)  
+- [2020-03-04-大厂薪资揭秘2020年初版-数据可信度比较高，-大家可以自行参考。](https://www.ershicimi.com/p/039430d577e04cceec7189892fdca5f0) ![](assets/new.png)  
+- [2020-03-03-​Ant-Disign-4.0-升级实践扑街指南-一](https://www.ershicimi.com/p/9d5a595678f0794369df0922f74275cc) ![](assets/new.png)  
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) ![](assets/new.png)  
+- [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) ![](assets/new.png)  
+- [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) ![](assets/new.png)  
+- [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) ![](assets/new.png)  
+- [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) ![](assets/new.png)  
+- [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) ![](assets/new.png)  
+- [2020-01-18-送本书](https://www.ershicimi.com/p/fc85b54cd1493e38d679fcfcf525e81c) ![](assets/new.png)  
+- [2020-01-09-数据结构快速盘点---非线性结构](https://www.ershicimi.com/p/f7a5ba42a60821d218cf7ef18b662ddc) ![](assets/new.png)  
+- [2020-01-07-数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4) ![](assets/new.png)  
+- [2020-01-06-推荐4位我关注的的前端大佬](https://www.ershicimi.com/p/f7c2664f5c0716b78eac7f1e095ec90a) ![](assets/new.png)  
+- [2020-01-03-第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf) ![](assets/new.png)  
+- [2020-01-01-2020-新年Flag-走起～](https://www.ershicimi.com/p/62f48318c8c93ebd262dfa3cf67e4de3) ![](assets/new.png)  
+- [2019-12-31-第35期-掌握树的四种遍历方式，以及BFS,-DFS](https://www.ershicimi.com/p/64dd6ef1b1b773b56e00263f37e6a9f3) ![](assets/new.png)  
+- [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) ![](assets/new.png)  
+- [2019-12-27-第33期-树，二叉树，-二叉搜索树](https://www.ershicimi.com/p/89374f0929cd781ecbaed1b84ee3519f) ![](assets/new.png)  
+- [2019-12-25-第32期-Set-和-Map-的简单运用](https://www.ershicimi.com/p/56b110b211e2b54a8020fc2ac0d4648d) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端e进阶.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -860,6 +885,26 @@
 </summary>
 
 
+- [2020-08-19-苹果报复腾讯持股游戏商：全面封杀Epic-Games，祸及大量开发者](https://www.ershicimi.com/p/2b13a0a3c8e29ed8f24bfe731e5d1a42) ![](assets/new.png)  
+- [2020-08-19-有奖征稿-|-写作平台八月宠粉福利来袭，参与创作领取限时大奖～](https://www.ershicimi.com/p/16d2db6bf5812dd3f8a74ecbc0b10606) ![](assets/new.png)  
+- [2020-08-19-云原生落地难？对话VMware大咖，企业应用改造之路不再迷惘-|-大咖说](https://www.ershicimi.com/p/121dad4e1664c0e233a308d25e258111) ![](assets/new.png)  
+- [2020-08-19-“杀死”那个-IE-11-浏览器](https://www.ershicimi.com/p/8d90e9c15a75a2ac5926d44af5cb004a) ![](assets/new.png)  
+- [2020-08-19-Kotlin发布-1.4版本，高亮速度提升1.5-4倍，支持接口-SAM-转换](https://www.ershicimi.com/p/4749758858e93b72b4dd367b48760bd3) ![](assets/new.png)  
+- [2020-08-18-做技术，就得去大厂-|-极客时间](https://www.ershicimi.com/p/699675a511c296a79408dd777e6f39b9) ![](assets/new.png)  
+- [2020-08-18-10天上线、37小时后倒闭，一行代码毁掉一个价值十亿美金的明星项目](https://www.ershicimi.com/p/1b29fde07b71da7d05c934544a71a0fd) ![](assets/new.png)  
+- [2020-08-18-技术人的创新能力可以靠后天培养么？-|-Q推荐](https://www.ershicimi.com/p/a25867357ac8d2d920f7496f5ef74a13) ![](assets/new.png)  
+- [2020-08-18-一文看懂阿里文娱大数据-OLAP-选型](https://www.ershicimi.com/p/b365f656378c95edfe038decf123415d) ![](assets/new.png)  
+- [2020-08-18-“非常规”数据科学求职指南](https://www.ershicimi.com/p/d53cdbfcbebfe7c391ff6e390f080935) ![](assets/new.png)  
+- [2020-08-17-不想一辈子打工，我做了个月入-40-余万的-App](https://www.ershicimi.com/p/0c7e97963d87987bec007b8e4c59e4e2) ![](assets/new.png)  
+- [2020-08-17-VMware：重新定义多云环境应用现代化之路](https://www.ershicimi.com/p/003d649004bdb84324c360b9c64239a1) ![](assets/new.png)  
+- [2020-08-17-如何帮助IT研发团队成长，加速企业实现技术驱动业务增长？|-极客时间](https://www.ershicimi.com/p/194a3b48d6056faed4ca56b964748265) ![](assets/new.png)  
+- [2020-08-17-耗时三年，向-React-迁移的利与弊](https://www.ershicimi.com/p/8016a5d1c48048ab12b2882bbed8a693) ![](assets/new.png)  
+- [2020-08-17-5-种提高开发速度的方法](https://www.ershicimi.com/p/574eb97ffbcfbcde112b9b3b4db647cd) ![](assets/new.png)  
+- [2020-08-16-Java正在“Kotlin化”](https://www.ershicimi.com/p/8575408663a818b0898a691e51ea53ac) ![](assets/new.png)  
+- [2020-08-16-除了写好代码，开发人员更需要具备什么能力？](https://www.ershicimi.com/p/b1aeca93339ea5045a3c45855e8b00f8) ![](assets/new.png)  
+- [2020-08-16-团队每天-996-，还要提升人效比，怎么办？|-TGO鲲鹏会](https://www.ershicimi.com/p/f5f1b9980e082f95c3199a7b689b94ec) ![](assets/new.png)  
+- [2020-08-16-如何用Prometheus和Grafana监控Kubernetes集群？](https://www.ershicimi.com/p/34811d687bf8be2a6a28571884a00dd9) ![](assets/new.png)  
+- [2020-08-15-腾讯员工不降薪月均7.5万；95%中国用户愿为微信放弃iPhone；中国开发者从App-Store赚](https://www.ershicimi.com/p/f2f9045f3c73f0764da697af74dda402) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

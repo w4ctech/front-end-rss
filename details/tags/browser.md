@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-19 15:11:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 15:20:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,11 +38,9 @@
 - [2020-08-10-一文读懂-Web-安全（面试必备）](https://www.ershicimi.com/p/8be36c891f65a4d2916708db74fac164) 
 - [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
 - [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2020-08-19-“杀死”那个-IE-11-浏览器](https://www.ershicimi.com/p/8d90e9c15a75a2ac5926d44af5cb004a) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-08-19-Nginx-怎么配置访问的-URL-是目录的时候跳转到目录下的-index.-PHP-并保留查询参数](https://www.v2ex.com/t/699762) 
 - [2020-08-19-请教一下各位，有没有什么软件能够抓某一个指定程序的所有网络请求的](https://www.v2ex.com/t/699725) 
-- [2020-08-19-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
 - [2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) 
 - [2020-08-13-​【安全圈】黑客劫持了YouTube流行频道,以促进比特币诈骗](https://sec.thief.one/article_content?a_id=d988719f07b20e2774b0d54fb4503d3e) 
 - [2020-08-13-2020中国网络安全年会在网上成功召开](https://sec.thief.one/article_content?a_id=23dc4003dd5c7a6106e089c28ba8bc3a) 

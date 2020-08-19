@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 06:11:28，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 06:22:38，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-19-迫于升级-Catalina-后外接屏幕无法正常使用且无解决办法，求忽略升级方法](https://www.v2ex.com/t/699610) ![](assets/new.png)  
 - [2020-08-19-MAC-10.15-安装-PHP-zip-扩展遇到的签名问题](https://www.v2ex.com/t/699609) ![](assets/new.png)  
 - [2020-08-19-阿里云产品返佣优惠，新沟续费升级都可返-10—15-个点。](https://www.v2ex.com/t/699607) ![](assets/new.png)  
 - [2020-08-19-变长模板参数同时匹配失败和匹配到空参数列表<>如何解决](https://www.v2ex.com/t/699606) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-19-搞了一个比较好用的-网易云-歌单音乐下载器](https://www.v2ex.com/t/699586) ![](assets/new.png)  
 - [2020-08-19-杭州-字节跳动-杭州-教育-后端-招人啦~](https://www.v2ex.com/t/699585) ![](assets/new.png)  
 - [2020-08-19-济南这地方有什么公司值得推荐](https://www.v2ex.com/t/699584) ![](assets/new.png)  
-- [2020-08-19-应届生身份/校招时间线问题](https://www.v2ex.com/t/699583) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

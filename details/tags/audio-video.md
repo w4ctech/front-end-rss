@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-19 02:48:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 03:02:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,6 +89,7 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-14-解说争霸，赢奖金-|-寻找全网最强影视视频解说](https://www.ershicimi.com/p/1d7122c242b40a8b379813cf5d0b1653) 
+- [2020-08-19-迫于又续了一年的苏宁-super-会员，故出一个腾讯视频会员](https://www.v2ex.com/t/699544) 
 - [2020-08-19-🔥新加坡-技术移民机会新加坡知名上市互联网公司（纽交所上市股票），寻找-Lead-Machine-Learning-Engineer,-Head-of-Devops-及资深或专家级音视频工程师...](https://www.v2ex.com/t/699534) 
 - [2020-08-13-央视提醒:微信清粉服务或泄露个人信息含视频](https://sec.thief.one/article_content?a_id=68e5a1ad9f18eb39c4be5133326c39ba) 
 - [2020-08-06-明晚轰趴刷夜+4天全程直播!请收好这份DEF-CON-28节目单](https://sec.thief.one/article_content?a_id=131e1f0cc8290b4cdd1e295ddc2543f5) 

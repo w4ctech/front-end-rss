@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 02:48:04，:rocket: 更新条数: +3541， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 03:02:31，:rocket: 更新条数: +3544， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -874,6 +874,9 @@
 </summary>
 
 
+- [2020-08-19-日志框架选型，Logback-还是-Log4j2？](https://www.ershicimi.com/p/639602b4f1710c35c1fe2a81b0c5b7fc) ![](assets/new.png)  
+- [2020-08-19-曲线救国：提高github下载速度到2MB/s](https://www.ershicimi.com/p/ce5872cfb29569c07e9944fada2b237a) ![](assets/new.png)  
+- [2020-08-19-Spring-Boot-2.3.3-正式发布！2.4.0-正式版即将发布！](https://www.ershicimi.com/p/a7cc57a2c6018ede175e3042e9b46162) ![](assets/new.png)  
 - [2020-08-18-Java-后端不懂-GC-调优很丢脸吗？](https://www.ershicimi.com/p/0005ee82994fc3711dd9c9c3b0d90a4a) ![](assets/new.png)  
 - [2020-08-18-Java-强、弱、软、虚，你属于哪一种？](https://www.ershicimi.com/p/66fecf071d54817fa7e92632f0061338) ![](assets/new.png)  
 - [2020-08-18-要注意了！这样使用MyBatis框架，被攻击了！](https://www.ershicimi.com/p/03328701c9aa91ece49797c59a0afef2) ![](assets/new.png)  
@@ -891,9 +894,6 @@
 - [2020-08-14-好用到爆的-Java-小技巧](https://www.ershicimi.com/p/4ac35869265d57b29e3f6c14f6372d6b) ![](assets/new.png)  
 - [2020-08-13-32岁程序员被辞退欲跳楼！为什么我不建议你轻易买保险？](https://www.ershicimi.com/p/d5b32ff82843b4c3e665741eb84f143f) ![](assets/new.png)  
 - [2020-08-13-DataGrip-上手体验，真香！](https://www.ershicimi.com/p/03eee984a40b5ec0785ac1adc5ad97bb) ![](assets/new.png)  
-- [2020-08-13-Spring-Cloud-微服务下的权限解决方案](https://www.ershicimi.com/p/44e54d72fccb49e1f633d8919edcc407) ![](assets/new.png)  
-- [2020-08-12-我的天！你竟然没有在SpringBoot中使用过异步请求和异步调用...](https://www.ershicimi.com/p/fd7d6892f88375848eeb49a2246fe552) ![](assets/new.png)  
-- [2020-08-12-一个员工的离职成本到底有多恐怖！](https://www.ershicimi.com/p/9a87f880040c1bf47c4ca7bd3aa36739) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,8 +1072,15 @@
 </summary>
 
 
+- [2020-08-19-macbookpro-16-寸为啥开程序一定会黑屏一下啊](https://www.v2ex.com/t/699546) ![](assets/new.png)  
+- [2020-08-19-请问如何测试一个服务能承受多大的并发量](https://www.v2ex.com/t/699545) ![](assets/new.png)  
+- [2020-08-19-迫于又续了一年的苏宁-super-会员，故出一个腾讯视频会员](https://www.v2ex.com/t/699544) ![](assets/new.png)  
+- [2020-08-19-这个功能应该不难吧？](https://www.v2ex.com/t/699543) ![](assets/new.png)  
+- [2020-08-19-git-如何查看某个文件是什么时候-“来到”-当前这个分支的](https://www.v2ex.com/t/699542) ![](assets/new.png)  
+- [2020-08-19-轻量开源的跨平台番茄工作法工具---MyTomato](https://www.v2ex.com/t/699541) ![](assets/new.png)  
+- [2020-08-19-手机只是个消费品，喜欢就买，不喜欢就不买，带节奏的消停点吧](https://www.v2ex.com/t/699540) ![](assets/new.png)  
+- [2020-08-19-chrome-web-store-不再接收新的扩展吗？](https://www.v2ex.com/t/699538) ![](assets/new.png)  
 - [2020-08-19-请推荐一两个在-MacOS-中好用的邮箱-APP-……](https://www.v2ex.com/t/699537) ![](assets/new.png)  
-- [2020-08-19-喜马拉雅送的会员，需要什么会员带价和连联系方式](https://www.v2ex.com/t/699536) ![](assets/new.png)  
 - [2020-08-19-macbook-pro-盒盖后打开会出现灰白褪色现象](https://www.v2ex.com/t/699535) ![](assets/new.png)  
 - [2020-08-19-🔥新加坡-技术移民机会新加坡知名上市互联网公司（纽交所上市股票），寻找-Lead-Machine-Learning-Engineer,-Head-of-Devops-及资深或专家级音视频工程师...](https://www.v2ex.com/t/699534) ![](assets/new.png)  
 - [2020-08-19-求推荐一个深圳宝安能拉到写字楼办公室里面的-iplc-运营商](https://www.v2ex.com/t/699533) ![](assets/new.png)  
@@ -1085,13 +1092,6 @@
 - [2020-08-19-sony-售后真的是垃圾！](https://www.v2ex.com/t/699526) ![](assets/new.png)  
 - [2020-08-19-第一梯队投资公司正式员工招聘（-Swift-开发、TS-开发）-猎头通道直招](https://www.v2ex.com/t/699525) ![](assets/new.png)  
 - [2020-08-19-上海交通卡充值优惠-工行、招行](https://www.v2ex.com/t/699524) ![](assets/new.png)  
-- [2020-08-19-脚踏当电脑的机箱开关，解放双手](https://www.v2ex.com/t/699523) ![](assets/new.png)  
-- [2020-08-19-IOS14beta5-刚出来-不敢尝新啦-嘿嘿](https://www.v2ex.com/t/699521) ![](assets/new.png)  
-- [2020-08-19-域名邮箱，-improvmx-和-forwardemail-哪个好？](https://www.v2ex.com/t/699520) ![](assets/new.png)  
-- [2020-08-19-出网易云，京东，腾讯会员，其他会员半卖半送](https://www.v2ex.com/t/699519) ![](assets/new.png)  
-- [2020-08-19-急招-阿里巴巴-优酷-iOS-开发人员p6-p7-急招!-急招!-急招!-急招!](https://www.v2ex.com/t/699517) ![](assets/new.png)  
-- [2020-08-19-吐槽一个同事](https://www.v2ex.com/t/699516) ![](assets/new.png)  
-- [2020-08-19-有没有懂西安人才认定购房的规则的呀，杭漂想回西安](https://www.v2ex.com/t/699515) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,18 +1142,18 @@
 - [2020-08-19-书单丨5-本经典著作描绘-C++-学习路线图](https://toutiao.io/k/tlr1sb8) ![](assets/new.png)  
 - [2020-08-19-聊一聊-Redis-数据内部存储使用到的数据结构](https://toutiao.io/k/cyf3oyp) ![](assets/new.png)  
 - [2020-08-19-京东商城订单模块-Swift-探索](https://toutiao.io/k/qezitnz) ![](assets/new.png)  
-- [2020-08-19-JetCache-埋点的骚操作,不服不行啊](https://toutiao.io/k/3gn5idg) ![](assets/new.png)  
+- [2020-08-19-JetCache-埋点的骚操作，不服不行啊](https://toutiao.io/k/3gn5idg) ![](assets/new.png)  
 - [2020-08-19-这应该是最适合国内用户的-K3s-HA-方案](https://toutiao.io/k/vsp7iq7) ![](assets/new.png)  
 - [2020-08-19-掌握这些-Go-语言特性，你的水平将提高-N-个档次（二）](https://toutiao.io/k/r4z7515) ![](assets/new.png)  
 - [2020-08-19-微软开源计算机视觉专题库（含分类、检测、分割、关键点、跟踪、动作识别等主流方向）](https://toutiao.io/k/dmih94k) ![](assets/new.png)  
 - [2020-08-19-入门：Apache-Pulsar-项目成长史](https://toutiao.io/k/z7m3tiz) ![](assets/new.png)  
-- [2020-08-19-开源：如何实现一个-iOS-AOP-框架？](https://toutiao.io/k/0umo6ma) ![](assets/new.png)  
-- [2020-08-19-从实际案例讲-Deno-的应用场景](https://toutiao.io/k/5j4z6w5) ![](assets/new.png)  
 - [2020-08-19-工具-vs-产品-And-知识-vs-思维](https://toutiao.io/k/ex0jj5x) ![](assets/new.png)  
-- [2020-08-19-如何学习一些比较复杂的技术概念](https://toutiao.io/k/g6y71kw) ![](assets/new.png)  
+- [2020-08-19-从实际案例讲-Deno-的应用场景](https://toutiao.io/k/5j4z6w5) ![](assets/new.png)  
+- [2020-08-19-开源：如何实现一个-iOS-AOP-框架？](https://toutiao.io/k/0umo6ma) ![](assets/new.png)  
 - [2020-08-19-力扣刷题插件](https://toutiao.io/k/95wkuy1) ![](assets/new.png)  
-- [2020-08-19-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-19-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-19-如何学习一些比较复杂的技术概念](https://toutiao.io/k/g6y71kw) ![](assets/new.png)  
+- [2020-08-19-没想到-Shell-命令竟然还能这么玩？（Shell-玩转大数据分析）](https://toutiao.io/k/0ah1n1b) ![](assets/new.png)  
+- [2020-08-19-Kubernetes-源码解析：Informer](https://toutiao.io/k/icop0p6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

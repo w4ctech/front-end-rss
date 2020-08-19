@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-19 02:48:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 03:02:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -572,10 +572,11 @@
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
+- [【互联网架构师】曲线救国：提高github下载速度到2MB/s](https://www.ershicimi.com/p/ce5872cfb29569c07e9944fada2b237a)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】git-如何查看某个文件是什么时候-“来到”-当前这个分支的](https://www.v2ex.com/t/699542)
 - [【V2EX】GitHub-加速大全-欢迎各位老铁补充说明~](https://www.v2ex.com/t/699514)
-- [【V2EX】移动-4g-访问-github.io-炸穿了](https://www.v2ex.com/t/699495)
 - [【安全热点】9-招让你的GitHub下载飞速提升到2M/s以上](https://sec.thief.one/article_content?a_id=2e97edaa0101eca302d6aa4dd2e2f1cf)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

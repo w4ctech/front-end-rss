@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 06:48:30，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 07:02:38，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-19-求推荐-MBP-现场维修/上门维修的店家（广州](https://www.v2ex.com/t/699626) ![](assets/new.png)  
+- [2020-08-19-Netflix-会在-2020-年-8-月-19-日上线一部关于电子游戏的纪录片-High-Score](https://www.v2ex.com/t/699623) ![](assets/new.png)  
+- [2020-08-19-传统保险资管公司-iOS-开发坑](https://www.v2ex.com/t/699622) ![](assets/new.png)  
+- [2020-08-19-如何让-Chrome-浏览器标签「真正」休眠？](https://www.v2ex.com/t/699621) ![](assets/new.png)  
+- [2020-08-19-MSFS-2020-的-4K-硬件配置](https://www.v2ex.com/t/699620) ![](assets/new.png)  
 - [2020-08-19-考过了阿里云-ACP-认证，分享下经验心得，顺手做了个备考小程序](https://www.v2ex.com/t/699619) ![](assets/new.png)  
 - [2020-08-19-为什么-springcloud-gateway-默认会过滤掉-keepalive-呢？](https://www.v2ex.com/t/699618) ![](assets/new.png)  
 - [2020-08-19-转租东昌路站/世纪大道站-乳山三村一室整租转租-5000-元](https://www.v2ex.com/t/699617) ![](assets/new.png)  
@@ -1063,15 +1068,10 @@
 - [2020-08-19-阿里云产品返佣优惠，新沟续费升级都可返-10—15-个点。](https://www.v2ex.com/t/699607) ![](assets/new.png)  
 - [2020-08-19-变长模板参数同时匹配失败和匹配到空参数列表<>如何解决](https://www.v2ex.com/t/699606) ![](assets/new.png)  
 - [2020-08-19-国产软件](https://www.v2ex.com/t/699605) ![](assets/new.png)  
-- [2020-08-19-mate30-pro-是不是比-iPhone-更持久？](https://www.v2ex.com/t/699604) ![](assets/new.png)  
 - [2020-08-19-一道中等难度题-被围绕的区域](https://www.v2ex.com/t/699601) ![](assets/new.png)  
 - [2020-08-19-有没有办公室里四季都可以用的睡袋](https://www.v2ex.com/t/699600) ![](assets/new.png)  
 - [2020-08-19-内推育碧成都-Web-程序员（C#-+-Javascript）](https://www.v2ex.com/t/699596) ![](assets/new.png)  
 - [2020-08-19-上海/北京-量化交易-数据系统开发工程师](https://www.v2ex.com/t/699595) ![](assets/new.png)  
-- [2020-08-19-新买的屏幕内部有灰，有必要换吗？](https://www.v2ex.com/t/699594) ![](assets/new.png)  
-- [2020-08-19-互联网券商内推](https://www.v2ex.com/t/699593) ![](assets/new.png)  
-- [2020-08-19-目前-AdGuard-Home-的-Windows-版本，有什么方案可以国内外分流吗？](https://www.v2ex.com/t/699592) ![](assets/new.png)  
-- [2020-08-19-请教一个画图问题](https://www.v2ex.com/t/699591) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

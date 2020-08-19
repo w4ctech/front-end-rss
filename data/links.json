@@ -15904,6 +15904,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求推荐 MBP 现场维修/上门维修的店家（广州",
+        "link": "https://www.v2ex.com/t/699626",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "Netflix 会在 2020 年 8 月 19 日上线一部关于电子游戏的纪录片 High Score",
+        "link": "https://www.v2ex.com/t/699623",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "传统保险资管公司 iOS 开发坑",
+        "link": "https://www.v2ex.com/t/699622",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "如何让 Chrome 浏览器标签「真正」休眠？",
+        "link": "https://www.v2ex.com/t/699621",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "MSFS 2020 的 4K 硬件配置",
+        "link": "https://www.v2ex.com/t/699620",
+        "date": "2020-08-19"
+      },
+      {
         "title": "考过了阿里云 ACP 认证，分享下经验心得，顺手做了个备考小程序",
         "link": "https://www.v2ex.com/t/699619",
         "date": "2020-08-19"
@@ -15956,11 +15981,6 @@
       {
         "title": "国产软件",
         "link": "https://www.v2ex.com/t/699605",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "mate30 pro 是不是比 iPhone 更持久？",
-        "link": "https://www.v2ex.com/t/699604",
         "date": "2020-08-19"
       },
       {
@@ -16056,36 +16076,6 @@
       {
         "title": "苹果为什么不整个融合电脑 ARM + x86",
         "link": "https://www.v2ex.com/t/699578",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "前段时间趁着打折，买了一款 罗技 MX Vertical 鼠标，在谁用同款的吗，一起来交流交流",
-        "link": "https://www.v2ex.com/t/699577",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "美的电压力锅，温控烧毁了。",
-        "link": "https://www.v2ex.com/t/699576",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "求问咸鱼买硬盘有什么坑～",
-        "link": "https://www.v2ex.com/t/699574",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "找一个 C#wpf 开发游戏下载器",
-        "link": "https://www.v2ex.com/t/699573",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "chrome helper 这个总是占用 CPU 过高的问题，大家怎么解决的？",
-        "link": "https://www.v2ex.com/t/699571",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "gitbook 生成的章节链接怎么带上 index.html?",
-        "link": "https://www.v2ex.com/t/699570",
         "date": "2020-08-19"
       }
     ]
@@ -16303,63 +16293,8 @@
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
         "date": "2020-08-19"
       },
       {
@@ -16368,13 +16303,68 @@
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-19"
       },
       {
-        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
-        "link": "https://toutiao.io/k/lmtdqk1",
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
         "date": "2020-08-19"
       }
     ]

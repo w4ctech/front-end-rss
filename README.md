@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 14:11:02，:rocket: 更新条数: +3303， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 14:21:20，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-19-巴勒斯坦新增300例新冠肺炎确诊病例-累计17606例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIiO0VpQxFz1FaZcaHL2i200819&isfromapp=1) ![](assets/new.png)  
+- [2020-08-19-肯尼亚新增379例新冠肺炎确诊病例-累计确诊31015例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWzPeGMYdsq00LNaNz36B200819&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-辽宁大连湾街道降为低风险地区后全面解封](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix7B7xuogB0b5LyHb2OLC200819&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-尼泊尔新增681例新冠肺炎确诊病例-累计达28938例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBqN0sfx1hVYJBJNRCDoX200819&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-辽宁新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilEp9lBjJCsrUV3997jbo200819&isfromapp=1) ![](assets/new.png)  
-- [2020-08-19-中国政府向南苏丹、几内亚派遣抗疫医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH9E4K9p5aDlmZDuGkwpb200819&isfromapp=1) ![](assets/new.png)  
-- [2020-08-19-江西新增境外输入新冠肺炎确诊病例3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8PKn7rSsPARJnxFJbEO3200819&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -761,6 +761,26 @@
 </summary>
 
 
+- [2020-08-19-由浅入深定制你的代码规范与检查](https://www.ershicimi.com/p/131d36eff84fef4c84ffffc8b82600ca) ![](assets/new.png)  
+- [2020-08-19-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/561aa425ceae0345d3d143e64a16b64e) ![](assets/new.png)  
+- [2020-08-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/21687a97b8d39342508840d57eac2154) ![](assets/new.png)  
+- [2020-08-18-对比-React-Hooks-和-Vue-Composition-API](https://www.ershicimi.com/p/b296461b98b210848ebccb85282f2040) ![](assets/new.png)  
+- [2020-08-18-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/1252965e1c0e9173434eb7296c2db5f7) ![](assets/new.png)  
+- [2020-08-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/53fd7088445b5bf55ca2eb0e5562f5bb) ![](assets/new.png)  
+- [2020-08-17-了不起的-IoC-与-DI](https://www.ershicimi.com/p/266736fa647762d5702cbbb751558d90) ![](assets/new.png)  
+- [2020-08-17-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/ccbf696e7a333a95521a299849054ecd) ![](assets/new.png)  
+- [2020-08-17-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/04281a7adb7ddbc0a91899ed8528e5ab) ![](assets/new.png)  
+- [2020-08-15-TypeScript实现八大排序与搜索算法](https://www.ershicimi.com/p/f651db2c204494516d96ac8ee4dae5d9) ![](assets/new.png)  
+- [2020-08-15-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/4d67de8b0dfdfd69c9f1544a6b0bfda3) ![](assets/new.png)  
+- [2020-08-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/805da77915d63d084626882aaccc52b1) ![](assets/new.png)  
+- [2020-08-14-奇舞周刊第-360-期：-API-设计的几条原则](https://www.ershicimi.com/p/81d264b9b908a30db0537fd22c56ae8f) ![](assets/new.png)  
+- [2020-08-13-React17新特性：启发式更新算法](https://www.ershicimi.com/p/e8426b680d9e54dd7b0e8e2bf99ed27a) ![](assets/new.png)  
+- [2020-08-13-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/202b21f9d90c1818d553dab44f4fb92e) ![](assets/new.png)  
+- [2020-08-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4b4bbc116c4b2037194f5c0695a61d7d) ![](assets/new.png)  
+- [2020-08-12-Typescript-设计模式之工厂方法](https://www.ershicimi.com/p/d2844298970d62f62810c7e1b62503be) ![](assets/new.png)  
+- [2020-08-12-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/84b7e68a494aa11cd1e9bdbc2d940eed) ![](assets/new.png)  
+- [2020-08-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/ab855c73f377eae23b8ee14d79cd9083) ![](assets/new.png)  
+- [2020-08-11-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/3730a93bc041ddb6d24663ae9640e4c0) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-19-请教下有把京东或者淘宝订单导出的手段吗？](https://www.v2ex.com/t/699752) ![](assets/new.png)  
+- [2020-08-19-纯新手，想买个摩托车，求推荐](https://www.v2ex.com/t/699751) ![](assets/new.png)  
+- [2020-08-19-阿里云《云中谁送锦书来》热烈来袭，给你不一样的表白体验](https://www.v2ex.com/t/699749) ![](assets/new.png)  
 - [2020-08-19-最近在学-Three.js-在官网上看到一个演示案例-https://richardmattka.com/](https://www.v2ex.com/t/699748) ![](assets/new.png)  
 - [2020-08-19-在大厂工作两年，现在想听取下前辈们意见](https://www.v2ex.com/t/699747) ![](assets/new.png)  
 - [2020-08-19-Microsoft-Authenticator-有办法修改添加账号的-logo-吗？](https://www.v2ex.com/t/699745) ![](assets/new.png)  
@@ -1049,9 +1072,6 @@
 - [2020-08-19-大佬们能-show-一下你们的书签（网址）是怎么管理的吗？](https://www.v2ex.com/t/699729) ![](assets/new.png)  
 - [2020-08-19-教训！装修公司全包合同，首付款付完，刚砸铲墙完，公司老板跑路了](https://www.v2ex.com/t/699728) ![](assets/new.png)  
 - [2020-08-19-北京-逍遥一下-高级-iOS-工程师-20k-30k*14-薪](https://www.v2ex.com/t/699726) ![](assets/new.png)  
-- [2020-08-19-请教一下各位，有没有什么软件能够抓某一个指定程序的所有网络请求的](https://www.v2ex.com/t/699725) ![](assets/new.png)  
-- [2020-08-19-求教如何用简短代码发现一个-dataframe-里出现-a-列值大于相邻行的-b-列值情况的位置。。。](https://www.v2ex.com/t/699724) ![](assets/new.png)  
-- [2020-08-19-北京-逍遥一下-高级服务端工程师-15k-30k*14-薪](https://www.v2ex.com/t/699723) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1094,26 +1114,6 @@
 </summary>
 
 
-- [2020-08-19-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
-- [2020-08-19-工具-vs-产品-And-知识-vs-思维](https://toutiao.io/k/ex0jj5x) ![](assets/new.png)  
-- [2020-08-19-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
-- [2020-08-19-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
-- [2020-08-19-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
-- [2020-08-19-书单丨5-本经典著作描绘-C++-学习路线图](https://toutiao.io/k/tlr1sb8) ![](assets/new.png)  
-- [2020-08-19-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
-- [2020-08-19-入门：Apache-Pulsar-项目成长史](https://toutiao.io/k/z7m3tiz) ![](assets/new.png)  
-- [2020-08-19-聊一聊-Redis-数据内部存储使用到的数据结构](https://toutiao.io/k/cyf3oyp) ![](assets/new.png)  
-- [2020-08-19-JetCache-埋点的骚操作，不服不行啊](https://toutiao.io/k/3gn5idg) ![](assets/new.png)  
-- [2020-08-19-掌握这些-Go-语言特性，你的水平将提高-N-个档次（二）](https://toutiao.io/k/r4z7515) ![](assets/new.png)  
-- [2020-08-19-京东商城订单模块-Swift-探索](https://toutiao.io/k/qezitnz) ![](assets/new.png)  
-- [2020-08-19-这应该是最适合国内用户的-K3s-HA-方案](https://toutiao.io/k/vsp7iq7) ![](assets/new.png)  
-- [2020-08-19-微软开源计算机视觉专题库（含分类、检测、分割、关键点、跟踪、动作识别等主流方向）](https://toutiao.io/k/dmih94k) ![](assets/new.png)  
-- [2020-08-19-从实际案例讲-Deno-的应用场景](https://toutiao.io/k/5j4z6w5) ![](assets/new.png)  
-- [2020-08-19-开源：如何实现一个-iOS-AOP-框架？](https://toutiao.io/k/0umo6ma) ![](assets/new.png)  
-- [2020-08-19-力扣刷题插件](https://toutiao.io/k/95wkuy1) ![](assets/new.png)  
-- [2020-08-19-没想到-Shell-命令竟然还能这么玩？（Shell-玩转大数据分析）](https://toutiao.io/k/0ah1n1b) ![](assets/new.png)  
-- [2020-08-19-如何学习一些比较复杂的技术概念](https://toutiao.io/k/g6y71kw) ![](assets/new.png)  
-- [2020-08-19-Kubernetes-源码解析：Informer](https://toutiao.io/k/icop0p6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

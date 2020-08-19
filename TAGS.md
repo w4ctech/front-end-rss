@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-19 14:11:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 14:21:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -114,6 +114,8 @@
 - [【前端之巅】TypeScript-4.0-RC发布，带来诸多更新](https://www.ershicimi.com/p/493c41b006bc86ce765d8a62eadaffbf)
 - [【前端迷】从零开始配置-TypeScript-项目](https://www.ershicimi.com/p/f842f28fb8eef6f52b56004e9b29fcf1)
 - [【全栈前端精选】最详细从零开始配置-TypeScript-项目的教程](https://www.ershicimi.com/p/c981035bedc84fafcedb56bb3f772d90)
+- [【奇舞周刊】TypeScript实现八大排序与搜索算法](https://www.ershicimi.com/p/f651db2c204494516d96ac8ee4dae5d9)
+- [【奇舞周刊】Typescript-设计模式之工厂方法](https://www.ershicimi.com/p/d2844298970d62f62810c7e1b62503be)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -237,6 +239,7 @@
 
 
 
+- [【奇舞周刊】Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/3730a93bc041ddb6d24663ae9640e4c0)
 - [【InfoQ】苹果报复腾讯持股游戏商：全面封杀Epic-Games，祸及大量开发者](https://www.ershicimi.com/p/2b13a0a3c8e29ed8f24bfe731e5d1a42)
 - [【V2EX】最近在学-Three.js-在官网上看到一个演示案例-https://richardmattka.com/](https://www.v2ex.com/t/699748)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -396,7 +399,6 @@
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -459,12 +461,6 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【V2EX】滴滴出行-北京、杭州内推-Android/iOS/前端/-Java-/Go/-PHP-/算法/C++等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/699741)
 - [【技术头条】十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj)
-- [【开发者头条】史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j)
-- [【开发者头条】有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko)
-- [【开发者头条】推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
-- [【开发者头条】推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4)
-- [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
 - [【安全热点】Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

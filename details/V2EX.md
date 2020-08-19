@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-19 00:06:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 00:26:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-19-没有-Big-Sur-Beta5。。。我的电脑卡顿得很不开心。。。尤其是-lightroom](https://www.v2ex.com/t/699483) 
 - [2020-08-18-生产环境（非云环境）服务器你们有开启-TPM-吗](https://www.v2ex.com/t/699481) 
 - [2020-08-18-想用-Python-抓取-v2ph.com-的图片，但是貌似抓取太频繁，会被-ban-IP](https://www.v2ex.com/t/699480) 
 - [2020-08-18-在-线-全-职-接单，需要做项目的老板多捧场！](https://www.v2ex.com/t/699479) 
@@ -43,5 +44,3 @@
 - [2020-08-18-有需求显卡进行深度学习模型训练的小伙伴吗？](https://www.v2ex.com/t/699436) 
 - [2020-08-18-学校为了就业率推荐科研助理岗位会有影响吗？](https://www.v2ex.com/t/699435) 
 - [2020-08-18-把老家房子卖了，现在可以投资点什么比较好](https://www.v2ex.com/t/699434) 
-- [2020-08-18-wordpress-搭建的网站被攻击，疯狂访问/wp-admin/admin-ajax.-PHP](https://www.v2ex.com/t/699433) 
-- [2020-08-18-分享一下-k2p-隐形加-USB-的方案](https://www.v2ex.com/t/699432) 

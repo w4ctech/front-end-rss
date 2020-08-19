@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-19 08:47:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 09:02:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -11,5 +11,4 @@
 - [2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
 - [2020-08-19-请教，公众号这种回复小程序咋弄的？](https://www.v2ex.com/t/699666) 
-- [2020-08-19-考过了阿里云-ACP-认证，分享下经验心得，顺手做了个备考小程序](https://www.v2ex.com/t/699619) 
 - [2020-08-06-【通知】隐私漏洞新增小程序和海外应用](https://sec.thief.one/article_content?a_id=8ee110c6b8af8aac03210ebf4624e971) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-19 20:33:42，:rocket: 更新条数: +990， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-19 20:46:17，:rocket: 更新条数: +3538， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-08-18-最新疫情：全国新冠累计确诊84888例-新增境外输入17例](https://m.caixin.com/m/2020-08-19/101594339.html) ![](assets/new.png)  
+- [2020-08-18-最新海外疫情：新冠感染超2201万-累计死亡超77.6万](http://m.international.caixin.com/m/2020-08-19/101594478.html) ![](assets/new.png)  
+- [2020-08-18-【境内疫情观察】全国新增17例境外输入病例（8月18日）](http://m.database.caixin.com/m/2020-08-19/101594377.html) ![](assets/new.png)  
+- [2020-08-18-大流行手记|8月18日：俄第二款疫苗上马二期临床-韩国严防首都圈失守](https://m.caixin.com/m/2020-08-19/101594245.html) ![](assets/new.png)  
+- [2020-08-17-大流行手记|8月17日：多国报告变异病毒实为老毒株-印度现新变种](https://m.caixin.com/m/2020-08-18/101593771.html) ![](assets/new.png)  
+- [2020-08-17-【境内疫情观察】全国连续2日无新增本土病例（8月17日）](http://m.database.caixin.com/m/2020-08-18/101593899.html) ![](assets/new.png)  
+- [2020-08-17-以色列中国建筑工地暴发疫情-约90人确诊感染新冠病毒](http://m.international.caixin.com/m/2020-08-18/101594199.html) ![](assets/new.png)  
+- [2020-08-16-深圳升级进口冻品监管力度-消杀检测费用由政府承担](http://m.china.caixin.com/m/2020-08-17/101593714.html) ![](assets/new.png)  
+- [2020-08-16-【境内疫情观察】全国无新增本土病例（8月16日）](http://m.database.caixin.com/m/2020-08-17/101593491.html) ![](assets/new.png)  
+- [2020-08-16-大流行手记|8月16日：印度签约生产低价新冠疫苗-复课后美国多州学校现疫情](https://m.caixin.com/m/2020-08-17/101593367.html) ![](assets/new.png)  
+- [2020-08-15-广东排查48家盒马鲜生关联企业-新发疫情传染源尚未明确](http://m.china.caixin.com/m/2020-08-16/101593340.html) ![](assets/new.png)  
+- [2020-08-15-【境内疫情观察】全国新增15例境外输入病例（8月15日）](http://m.database.caixin.com/m/2020-08-16/101593302.html) ![](assets/new.png)  
+- [2020-08-14-深圳21家盒马门店停业-部分市民免费检测核酸](https://m.caixin.com/m/2020-08-15/101593109.html) ![](assets/new.png)  
+- [2020-08-14-【境内疫情观察】广东新增1例本土病例（8月14日）](http://m.database.caixin.com/m/2020-08-15/101593194.html) ![](assets/new.png)  
+- [2020-08-14-大流行手记|8月14日：英国再购近1亿剂疫苗-俄疫苗寻求世卫资格预审](https://m.caixin.com/m/2020-08-15/101593099.html) ![](assets/new.png)  
+- [2020-08-13-【境内疫情观察】上海新增16例境外输入病例（8月13日）](http://m.database.caixin.com/m/2020-08-14/101592707.html) ![](assets/new.png)  
+- [2020-08-13-大流行手记|8月13日：全球数百人因新冠错误信息死亡-新西兰疑冷库货物输入病毒](https://m.caixin.com/m/2020-08-14/101592513.html) ![](assets/new.png)  
+- [2020-08-13-反思新冠疫情，中疾控原副主任撰文详解传染病预警机制怎么改](https://m.caixin.com/m/2020-08-14/101592909.html) ![](assets/new.png)  
+- [2020-08-13-香港新增病例连续12日保持双位数-疫情蔓延至外佣群体](https://m.caixin.com/m/2020-08-14/101593005.html) ![](assets/new.png)  
+- [2020-08-13-深圳盒马鲜生员工在老家确诊新冠-两名同事核酸阳性无症状](https://m.caixin.com/m/2020-08-14/101593019.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -364,6 +384,10 @@
 </summary>
 
 
+- [2020-08-19-听说只要标题写-Vue3，你们就会点进来看！](https://www.ershicimi.com/p/a097f3050c243ed7ed41104cbded5a66) ![](assets/new.png)  
+- [2020-08-19-手写React-Router源码，深入理解其原理](https://www.ershicimi.com/p/6a54787aa9552b9ddb9e7396ffc908e9) ![](assets/new.png)  
+- [2020-08-18-这份前端电子书，我整理了三年，现在免费给你](https://www.ershicimi.com/p/03f094910a59afba1675816baa1e125a) ![](assets/new.png)  
+- [2020-08-18-React-v17.0-RC-释出，官方称“没啥新特色”](https://www.ershicimi.com/p/31d3fe2e8fb16eceb0b8fd7cb266c538) ![](assets/new.png)  
 - [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/cfabfdca2a110470838f5cee4ea85d9c) ![](assets/new.png)  
 - [2020-08-15-一行能装逼的JavaScript代码](https://www.ershicimi.com/p/a4addcc1c7571c739aa7e9e2c2513dbb) ![](assets/new.png)  
 - [2020-08-14-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/7d235f496b633474e136e7d048097d47) ![](assets/new.png)  
@@ -380,10 +404,6 @@
 - [2020-08-08-「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://www.ershicimi.com/p/f0fd811ffbdf7c3e0927fd41905363e0) ![](assets/new.png)  
 - [2020-08-07-今年面试，谈“钱”还合适吗？](https://www.ershicimi.com/p/d7869e53c2ab1c0b4fd9a4519559ef72) ![](assets/new.png)  
 - [2020-08-06-从淘宝推送的黑科技，看商业数据分析里的秘密](https://www.ershicimi.com/p/2c5f42d582a4bca0542276329c600ca3) ![](assets/new.png)  
-- [2020-08-06-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/1522f001f7a968a78777ff56290fa7fc) ![](assets/new.png)  
-- [2020-08-05-前端工程师被疯抢，华为做了什么？](https://www.ershicimi.com/p/f26196dce3483964d02157409e2bb067) ![](assets/new.png)  
-- [2020-08-05-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/3a77528d8a0914a19017c79cd617cb8b) ![](assets/new.png)  
-- [2020-08-04-如何在面试官面前展示自己--经典AI面试题限时免费领取](https://www.ershicimi.com/p/4958378b45876dfc1ffe26a0c47e19eb) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1145,8 @@
 - [2020-08-19-掌握这些-Go-语言特性，你的水平将提高-N-个档次（二）](https://toutiao.io/k/r4z7515) ![](assets/new.png)  
 - [2020-08-19-聊一聊-Redis-数据内部存储使用到的数据结构](https://toutiao.io/k/cyf3oyp) ![](assets/new.png)  
 - [2020-08-19-JetCache-埋点的骚操作，不服不行啊](https://toutiao.io/k/3gn5idg) ![](assets/new.png)  
-- [2020-08-19-这应该是最适合国内用户的-K3s-HA-方案](https://toutiao.io/k/vsp7iq7) ![](assets/new.png)  
 - [2020-08-19-京东商城订单模块-Swift-探索](https://toutiao.io/k/qezitnz) ![](assets/new.png)  
+- [2020-08-19-这应该是最适合国内用户的-K3s-HA-方案](https://toutiao.io/k/vsp7iq7) ![](assets/new.png)  
 - [2020-08-19-力扣刷题插件](https://toutiao.io/k/95wkuy1) ![](assets/new.png)  
 - [2020-08-19-从实际案例讲-Deno-的应用场景](https://toutiao.io/k/5j4z6w5) ![](assets/new.png)  
 - [2020-08-19-开源：如何实现一个-iOS-AOP-框架？](https://toutiao.io/k/0umo6ma) ![](assets/new.png)  

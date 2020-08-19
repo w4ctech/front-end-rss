@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-19 15:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 15:48:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2323,12 +2323,6 @@
 - [2020-07-22-如何用函数框架快速开发大型-Web-应用-|-实战](https://www.ershicimi.com/p/e16ae7ca242b28c21744fe8477891858) 
 - [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html) 
 - [2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html) 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [2020-08-19-由浅入深定制你的代码规范与检查](https://www.ershicimi.com/p/131d36eff84fef4c84ffffc8b82600ca) 
 - [2020-08-19-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/561aa425ceae0345d3d143e64a16b64e) 
 - [2020-08-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/21687a97b8d39342508840d57eac2154) 

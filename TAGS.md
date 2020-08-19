@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-19 02:02:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-19 02:11:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -114,8 +114,6 @@
 - [【前端之巅】TypeScript-4.0-RC发布，带来诸多更新](https://www.ershicimi.com/p/493c41b006bc86ce765d8a62eadaffbf)
 - [【前端迷】从零开始配置-TypeScript-项目](https://www.ershicimi.com/p/f842f28fb8eef6f52b56004e9b29fcf1)
 - [【全栈前端精选】最详细从零开始配置-TypeScript-项目的教程](https://www.ershicimi.com/p/c981035bedc84fafcedb56bb3f772d90)
-- [【奇舞周刊】TypeScript实现八大排序与搜索算法](https://www.ershicimi.com/p/f651db2c204494516d96ac8ee4dae5d9)
-- [【奇舞周刊】Typescript-设计模式之工厂方法](https://www.ershicimi.com/p/d2844298970d62f62810c7e1b62503be)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -151,8 +149,8 @@
 - [【前端瓶子君】你的-import-被-webpack-编译成了什么？](https://www.ershicimi.com/p/82d58fc6f539f0b064d396694142e221)
 - [【前端瓶子君】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/487ca56b404864dbaaa907bf0334c2b5)
 - [【前端瓶子君】在NPM上发布beta或alpha版](https://www.ershicimi.com/p/34b981b9bbda2a2019d900ecb99359e8)
-- [【Nodejs技术栈】13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0)
 - [【JavaScript】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341)
+- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -179,11 +177,6 @@
 - [【程序员成长指北】用（Node+MongoDB）搭建简单的图床或者网盘](https://www.ershicimi.com/p/1580806542907ddbaeebddd0a4f582b0)
 - [【程序员成长指北】Node.js-进阶之-fs-文件模块学习](https://www.ershicimi.com/p/d1ef4d94506b4cee89f625b399f7410a)
 - [【程序员成长指北】Node.js---200-多行代码实现-Websocket-协议](https://www.ershicimi.com/p/8ef2e8b38849932dc70b7afccac95337)
-- [【Nodejs技术栈】一杯茶的时间，上手-Koa2-+-MySQL-开发](https://www.ershicimi.com/p/c7db98ad78904e16b74e417ea79c2233)
-- [【Nodejs技术栈】CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b)
-- [【Nodejs技术栈】写在前面-—-为什么-2020-还要学-Node.js](https://www.ershicimi.com/p/29c03005193c1b449c3e2f8dd8661176)
-- [【Nodejs技术栈】赠书第-2-期｜Node.js-企业级应用开发实践](https://www.ershicimi.com/p/e15e541682fadd6c6f283df641910553)
-- [【Nodejs技术栈】Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/b1c05458bdcb1ec021f90bcf873addab)
 - [【前端日刊】node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2)
 - [【JavaScript】如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776)
 - [......【查看更多】......](./details/tags/nodejs.md)
@@ -238,7 +231,6 @@
 
 
 
-- [【奇舞周刊】Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/3730a93bc041ddb6d24663ae9640e4c0)
 - [【V2EX】有好玩的解密类游戏推荐？请进！](https://www.v2ex.com/t/699511)
 - [【V2EX】深圳-教育产品游戏开发工程师](https://www.v2ex.com/t/699503)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -457,7 +449,6 @@
 - [【全栈前端精选】全栈前端技术交流吐槽群](https://www.ershicimi.com/p/f89e19da2db17253b587f99dd929c68b)
 - [【前端宇宙】推荐一位实力超强的平安前端算法大佬：瓶子君](https://www.ershicimi.com/p/b9f4238d2dd4c83ebbbc2c99be4b821c)
 - [【前端瓶子君】写写源码、练练算法、看看文章、吹吹水，邀你加入啦](https://www.ershicimi.com/p/1e92c7e634f44076dbf145d92a9a5301)
-- [【奇舞周刊】「查缺补漏」巩固你的HTTP知识体系](https://www.ershicimi.com/p/2c8fabfc84cbfe1048f6390ac2e400aa)
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【技术头条】十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -506,7 +497,6 @@
 
 - [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
 - [【前端瓶子君】手动实现高仿github的内容diff效果](https://www.ershicimi.com/p/beef59ba18fa75f44e33de487b505c5b)
-- [【Nodejs技术栈】推荐一位-Github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/ed297c30ed030e57e29c4b4dfdfec211)
 - [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)

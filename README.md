@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 03:48:32，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 04:02:37，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,7 +1052,10 @@
 </summary>
 
 
-- [2020-08-20-公司所在楼层男厕里放的有成盒的不知名品牌的安全套，这？](https://www.v2ex.com/t/699889) ![](assets/new.png)  
+- [2020-08-20-大佬们，试用期快结束了，走还是不走](https://www.v2ex.com/t/699894) ![](assets/new.png)  
+- [2020-08-20-求助：-secureCRT-中的仿真设置遇到问题](https://www.v2ex.com/t/699893) ![](assets/new.png)  
+- [2020-08-20-折腾-NAS-丢失大量珍贵数据后有感](https://www.v2ex.com/t/699891) ![](assets/new.png)  
+- [2020-08-20-前端，相学习一门后端语言，选-PHP-还是-C#，还是-py？](https://www.v2ex.com/t/699890) ![](assets/new.png)  
 - [2020-08-20-工作内容疲倦](https://www.v2ex.com/t/699888) ![](assets/new.png)  
 - [2020-08-20-求推荐-小米至尊-8G-vs-一加-8Pro，该选择哪台？](https://www.v2ex.com/t/699887) ![](assets/new.png)  
 - [2020-08-20-想给大家安利一下-FF14-这个网游](https://www.v2ex.com/t/699884) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-20-内推-爱奇艺-社招-测试类岗位](https://www.v2ex.com/t/699872) ![](assets/new.png)  
 - [2020-08-20-“允许”应该怎么读？](https://www.v2ex.com/t/699871) ![](assets/new.png)  
 - [2020-08-20-印象笔记吃相也太难看了，思维导图大纲模式连高级账户都不给用？](https://www.v2ex.com/t/699870) ![](assets/new.png)  
-- [2020-08-20-有什么好用的-mysql-ER-图工具（不用设置外键的）](https://www.v2ex.com/t/699869) ![](assets/new.png)  
-- [2020-08-20-Quarkus-是什么,感觉现在挺火的](https://www.v2ex.com/t/699866) ![](assets/new.png)  
-- [2020-08-20-=>箭头函数的返回值在哪里获取](https://www.v2ex.com/t/699864) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,11 +1129,11 @@
 - [2020-08-20-Gitlab-ci：从零开始的前端自动化部署](https://toutiao.io/k/x3mna3p) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
 - [2020-08-20-分布式集群调度框架-Mesos-架构与实现](https://toutiao.io/k/6sj58vw) ![](assets/new.png)  
+- [2020-08-20-创业是格局与思维的放大器](https://toutiao.io/k/uc0e8kr) ![](assets/new.png)  
 - [2020-08-20-微服务全链路异步化实践](https://toutiao.io/k/w8j691c) ![](assets/new.png)  
 - [2020-08-20-浅谈蓝队反制手段](https://toutiao.io/k/3n8uwrx) ![](assets/new.png)  
 - [2020-08-20-为什么微信推荐这么快？](https://toutiao.io/k/0ebjtus) ![](assets/new.png)  
-- [2020-08-20-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-20-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
+- [2020-08-20-3000-类别，20-万个标注，山师等推出大规模-Logo-检测数据集：LogoDet-3K](https://toutiao.io/k/mwu3ins) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

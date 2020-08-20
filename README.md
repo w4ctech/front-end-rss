@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 05:48:12，:rocket: 更新条数: +3321， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 06:02:56，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-20-借鉴可以借鉴，照搬数码荔枝的产品是什么意思？](https://www.v2ex.com/t/699930) ![](assets/new.png)  
+- [2020-08-20-electron-vue-多窗口同步共享-vuex-数据问题如何解决！求助！](https://www.v2ex.com/t/699929) ![](assets/new.png)  
+- [2020-08-20-社招---热招中-字节跳动---移动-OS-/-教育-/-电商业务，前端-/-客户端-/-服务端-/-测试-/-产品，坐标：北京---中关村](https://www.v2ex.com/t/699927) ![](assets/new.png)  
 - [2020-08-20-求购一台-mbp-最好是-16G-的](https://www.v2ex.com/t/699925) ![](assets/new.png)  
 - [2020-08-20-Big-Sur-Beta-5-更新下载失败后内存泄漏？](https://www.v2ex.com/t/699923) ![](assets/new.png)  
 - [2020-08-20-非专业解释-Google、高德卫星地图上同一坐标为何会偏差这么大，附-130MB-采集省市区边界坐标数据](https://www.v2ex.com/t/699921) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-20-怎么从一句文字描述做分类？求机器学习的兄弟指点方案](https://www.v2ex.com/t/699903) ![](assets/new.png)  
 - [2020-08-20-低价出售京东-plus-腾讯网易唯品会奇迹小说西贝等年卡会员](https://www.v2ex.com/t/699902) ![](assets/new.png)  
 - [2020-08-20-求视频会议平台大佬-前端后端我们都需要~~](https://www.v2ex.com/t/699901) ![](assets/new.png)  
-- [2020-08-20-用帝国-CMS-批量替换功能需要写正则，请问应该怎么写？](https://www.v2ex.com/t/699900) ![](assets/new.png)  
-- [2020-08-20-互联网公司的图标](https://www.v2ex.com/t/699899) ![](assets/new.png)  
-- [2020-08-20-优派-27-英寸-VX2780-2K-HD-屏幕四周较暗](https://www.v2ex.com/t/699897) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1119,8 @@
 - [2020-08-20-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
 - [2020-08-20-单元测试，只是测试吗？](https://toutiao.io/k/pveume6) ![](assets/new.png)  
 - [2020-08-20-前端圈的贫富差距正在拉大？](https://toutiao.io/k/2ufxwgx) ![](assets/new.png)  
-- [2020-08-20-记一次-Spring-项目打包问题排查](https://toutiao.io/k/v5nc8dk) ![](assets/new.png)  
 - [2020-08-20-Bitmap-用户分群方法在贝壳-DMP-的实践和应用](https://toutiao.io/k/rgkpykf) ![](assets/new.png)  
+- [2020-08-20-记一次-Spring-项目打包问题排查](https://toutiao.io/k/v5nc8dk) ![](assets/new.png)  
 - [2020-08-20-mit-6.824-学习笔记-二-：GFS-设计-附脑图](https://toutiao.io/k/lxub979) ![](assets/new.png)  
 - [2020-08-20-深度剖析-GitHub-上-15.1k-Star-项目：redux-thunk](https://toutiao.io/k/pyja4h7) ![](assets/new.png)  
 - [2020-08-20-直观解读-KL-散度的数学概念](https://toutiao.io/k/thaa1tn) ![](assets/new.png)  
@@ -1129,9 +1129,9 @@
 - [2020-08-20-Gitlab-ci：从零开始的前端自动化部署](https://toutiao.io/k/x3mna3p) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
 - [2020-08-20-分布式集群调度框架-Mesos-架构与实现](https://toutiao.io/k/6sj58vw) ![](assets/new.png)  
+- [2020-08-20-微服务全链路异步化实践](https://toutiao.io/k/w8j691c) ![](assets/new.png)  
 - [2020-08-20-创业是格局与思维的放大器](https://toutiao.io/k/uc0e8kr) ![](assets/new.png)  
 - [2020-08-20-浅谈蓝队反制手段](https://toutiao.io/k/3n8uwrx) ![](assets/new.png)  
-- [2020-08-20-微服务全链路异步化实践](https://toutiao.io/k/w8j691c) ![](assets/new.png)  
 - [2020-08-20-为什么微信推荐这么快？](https://toutiao.io/k/0ebjtus) ![](assets/new.png)  
 - [2020-08-20-3000-类别，20-万个标注，山师等推出大规模-Logo-检测数据集：LogoDet-3K](https://toutiao.io/k/mwu3ins) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

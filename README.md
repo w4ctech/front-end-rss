@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 04:21:53，:rocket: 更新条数: +3538， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 04:31:34，:rocket: 更新条数: +3540， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,10 @@
 </summary>
 
 
+- [2020-08-20-怎么从一句文字描述做分类？求机器学习的兄弟指点方案](https://www.v2ex.com/t/699903) ![](assets/new.png)  
+- [2020-08-20-低价出售京东-plus-腾讯网易唯品会奇迹小说西贝等年卡会员](https://www.v2ex.com/t/699902) ![](assets/new.png)  
+- [2020-08-20-求视频会议平台大佬-前端后端我们都需要~~](https://www.v2ex.com/t/699901) ![](assets/new.png)  
+- [2020-08-20-用帝国-CMS-批量替换功能需要写正则，请问应该怎么写？](https://www.v2ex.com/t/699900) ![](assets/new.png)  
 - [2020-08-20-互联网公司的图标](https://www.v2ex.com/t/699899) ![](assets/new.png)  
 - [2020-08-20-优派-27-英寸-VX2780-2K-HD-屏幕四周较暗](https://www.v2ex.com/t/699897) ![](assets/new.png)  
 - [2020-08-20-macOS-真的是-bugOS，越来越难用了！](https://www.v2ex.com/t/699896) ![](assets/new.png)  
@@ -1088,10 +1092,6 @@
 - [2020-08-20-有防晒推荐吗](https://www.v2ex.com/t/699880) ![](assets/new.png)  
 - [2020-08-20-拟合问题求解](https://www.v2ex.com/t/699879) ![](assets/new.png)  
 - [2020-08-20-感觉一加还是保留了一点最基本的良心。。。。。](https://www.v2ex.com/t/699878) ![](assets/new.png)  
-- [2020-08-20-黑神话：悟空](https://www.v2ex.com/t/699877) ![](assets/new.png)  
-- [2020-08-20-求-apache-rewrite-的规则实现](https://www.v2ex.com/t/699876) ![](assets/new.png)  
-- [2020-08-20-终于还是辞职了](https://www.v2ex.com/t/699875) ![](assets/new.png)  
-- [2020-08-20-现在转行-Java-合适吗，-24-岁，](https://www.v2ex.com/t/699874) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,9 +1150,9 @@
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
 - [2020-08-20-分布式集群调度框架-Mesos-架构与实现](https://toutiao.io/k/6sj58vw) ![](assets/new.png)  
 - [2020-08-20-创业是格局与思维的放大器](https://toutiao.io/k/uc0e8kr) ![](assets/new.png)  
-- [2020-08-20-微服务全链路异步化实践](https://toutiao.io/k/w8j691c) ![](assets/new.png)  
 - [2020-08-20-浅谈蓝队反制手段](https://toutiao.io/k/3n8uwrx) ![](assets/new.png)  
 - [2020-08-20-为什么微信推荐这么快？](https://toutiao.io/k/0ebjtus) ![](assets/new.png)  
+- [2020-08-20-微服务全链路异步化实践](https://toutiao.io/k/w8j691c) ![](assets/new.png)  
 - [2020-08-20-3000-类别，20-万个标注，山师等推出大规模-Logo-检测数据集：LogoDet-3K](https://toutiao.io/k/mwu3ins) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

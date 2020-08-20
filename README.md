@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 23:33:57，:rocket: 更新条数: +3548， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 23:46:25，:rocket: 更新条数: +3548， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-20-​世界银行行长：新冠肺炎疫情或将使全球1亿人口陷入极端贫困](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik1g0TVvgRbJCAy0HAUBL200821&isfromapp=1) ![](assets/new.png)  
+- [2020-08-20-波兰气候部长库尔蒂卡新冠病毒检测为阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6otl47CjolWE3asyBdwU200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-日本新增新冠肺炎确诊病例1185例-累计确诊超6万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwHyiE2JGyfEKfKKolVM5200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-5至7月-巴西失业率增长20.9%-190万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUhc0lfqSVwKa2VDVBIYY200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-中国政府第三批援马达加斯加抗疫物资交接仪式在塔那那利佛举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBPWgK2a6H4V1EEzECJtv200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-20-新冠肺炎疫情将造成孟加拉国170万年轻人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDVtPdAJw6MhksE8DXs9J200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-20-继卫生部长后波兰外交部长查普托维奇辞职](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimsSSE2mCl2U1iPM7asws200820&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-20-Go-mod-问题](https://www.v2ex.com/t/700116) ![](assets/new.png)  
 - [2020-08-20-分享一个非常舒服的-Gatsby-博客主题](https://www.v2ex.com/t/700115) ![](assets/new.png)  
 - [2020-08-20-如何测试-Mac-Silicon](https://www.v2ex.com/t/700114) ![](assets/new.png)  
 - [2020-08-20-吐槽一下-PDF-Expert](https://www.v2ex.com/t/700113) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-20-卑微民警在线求助使用-Python-的-excel-数据分析](https://www.v2ex.com/t/700095) ![](assets/new.png)  
 - [2020-08-20-安卓-Tim-最新版-V-3.1.1.2900-浏览图片不能回退](https://www.v2ex.com/t/700094) ![](assets/new.png)  
 - [2020-08-20-还有人在用-iPad-mini2-的吗？请问如何续命？](https://www.v2ex.com/t/700093) ![](assets/new.png)  
-- [2020-08-20-github-下载-zip-格式的仓库的功能好像没用了？](https://www.v2ex.com/t/700092) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 19:09:41，:rocket: 更新条数: +3545， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 19:18:00，:rocket: 更新条数: +3545， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1142,16 +1142,16 @@
 - [2020-08-20-我在阿里写代码学会的六件事](https://toutiao.io/k/k7jdi3w) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
 - [2020-08-20-前端圈的贫富差距正在拉大？](https://toutiao.io/k/2ufxwgx) ![](assets/new.png)  
-- [2020-08-20-MIT-6.824-学习笔记（二）：GFS-设计（附脑图）](https://toutiao.io/k/lxub979) ![](assets/new.png)  
 - [2020-08-20-记一次-Spring-项目打包问题排查](https://toutiao.io/k/v5nc8dk) ![](assets/new.png)  
+- [2020-08-20-MIT-6.824-学习笔记（二）：GFS-设计（附脑图）](https://toutiao.io/k/lxub979) ![](assets/new.png)  
 - [2020-08-20-深度剖析-GitHub-上-15.1k-Star-项目：redux-thunk](https://toutiao.io/k/pyja4h7) ![](assets/new.png)  
 - [2020-08-20-直观解读-KL-散度的数学概念](https://toutiao.io/k/thaa1tn) ![](assets/new.png)  
 - [2020-08-20-OPA-Gatekeeper-策略入门](https://toutiao.io/k/9426ael) ![](assets/new.png)  
 - [2020-08-20-Gitlab-ci：从零开始的前端自动化部署](https://toutiao.io/k/x3mna3p) ![](assets/new.png)  
 - [2020-08-20-分布式集群调度框架-Mesos-架构与实现](https://toutiao.io/k/6sj58vw) ![](assets/new.png)  
 - [2020-08-20-为什么微信推荐这么快？](https://toutiao.io/k/0ebjtus) ![](assets/new.png)  
-- [2020-08-20-微服务全链路异步化实践](https://toutiao.io/k/w8j691c) ![](assets/new.png)  
 - [2020-08-20-创业是格局与思维的放大器](https://toutiao.io/k/uc0e8kr) ![](assets/new.png)  
+- [2020-08-20-微服务全链路异步化实践](https://toutiao.io/k/w8j691c) ![](assets/new.png)  
 - [2020-08-20-浅谈蓝队反制手段](https://toutiao.io/k/3n8uwrx) ![](assets/new.png)  
 - [2020-08-20-3000-类别，20-万个标注，山师等推出大规模-Logo-检测数据集：LogoDet-3K](https://toutiao.io/k/mwu3ins) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

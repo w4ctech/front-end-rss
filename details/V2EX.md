@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-20 10:02:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-20 10:10:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-20-想玩玩自走棋消磨下时间，大家有什么建议吗](https://www.v2ex.com/t/700026) 
 - [2020-08-20-上海-招-Python-后端/全栈工程师](https://www.v2ex.com/t/700025) 
 - [2020-08-20-Ubuntu-IP-地址丢失的问题](https://www.v2ex.com/t/700023) 
 - [2020-08-20-matplotlib-画的图怎么自适应窗口大小](https://www.v2ex.com/t/700022) 
@@ -40,4 +41,3 @@
 - [2020-08-20-CODING-仪表盘功能正式推出，实现工作数据可视化！](https://www.v2ex.com/t/699980) 
 - [2020-08-20-感觉路由器发热变大了](https://www.v2ex.com/t/699979) 
 - [2020-08-20-windows-下的神奇-bug-导致公司-nas-文件夹被清空？](https://www.v2ex.com/t/699978) 
-- [2020-08-20-如何让电脑发送命令让电磁铁通电与断电呢？](https://www.v2ex.com/t/699976) 

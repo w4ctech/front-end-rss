@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 11:02:33，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 11:09:25，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-20-Chromebook-貌似又企业锁，怎么破？](https://www.v2ex.com/t/700036) ![](assets/new.png)  
 - [2020-08-20-实习期没到离职,简历要不要写这段工作经历](https://www.v2ex.com/t/700034) ![](assets/new.png)  
 - [2020-08-20-我为什么用-nas](https://www.v2ex.com/t/700033) ![](assets/new.png)  
 - [2020-08-20-如果-SSL-被强制更换你还会使用吗？](https://www.v2ex.com/t/700032) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-20-助力为梦想勇敢前进的创业者：欢迎使用微信小程序社交电商-+-知识内容付费轻社区-+-直播导购-=-你的想象](https://www.v2ex.com/t/700011) ![](assets/new.png)  
 - [2020-08-20-译-看看-Segment-团队如何自动化他们的基础架构以赋能工程师！](https://www.v2ex.com/t/700009) ![](assets/new.png)  
 - [2020-08-20-各位-V-友，求个解决连续范围的问题。](https://www.v2ex.com/t/700008) ![](assets/new.png)  
-- [2020-08-20-PC-发出-http-请求是先去局域网内-dns-服务器还是先去网关呢？](https://www.v2ex.com/t/700007) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

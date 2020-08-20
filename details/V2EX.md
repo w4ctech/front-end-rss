@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-20 11:02:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-20 11:09:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-20-Chromebook-貌似又企业锁，怎么破？](https://www.v2ex.com/t/700036) 
 - [2020-08-20-实习期没到离职,简历要不要写这段工作经历](https://www.v2ex.com/t/700034) 
 - [2020-08-20-我为什么用-nas](https://www.v2ex.com/t/700033) 
 - [2020-08-20-如果-SSL-被强制更换你还会使用吗？](https://www.v2ex.com/t/700032) 
@@ -39,5 +40,3 @@
 - [2020-08-20-IDaaS-如何保护全球企业的数据资产](https://www.v2ex.com/t/699991) 
 - [2020-08-20-原来都一样，-Google-Gmail-Drive-等-1-点左右就挂了，到现在还未修复。](https://www.v2ex.com/t/699990) 
 - [2020-08-20-如何使用-Spring-Boot-来管理-Maven-plugin-的版本？](https://www.v2ex.com/t/699987) 
-- [2020-08-20-请问-MacOS-如何剪切文本内容？](https://www.v2ex.com/t/699986) 
-- [2020-08-20-远程工作程序员好搞吗？最近招聘了几个远程程序员，效果不是很理想，挨骂了，怪我没培训好](https://www.v2ex.com/t/699985) 

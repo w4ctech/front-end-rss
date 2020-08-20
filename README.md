@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 17:02:44，:rocket: 更新条数: +3328， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 17:10:22，:rocket: 更新条数: +3327， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,7 +1052,6 @@
 </summary>
 
 
-- [2020-08-20-杭州出个-西门子-3-门冰箱-9-成-xin-···-质量很-Nice](https://www.v2ex.com/t/700102) ![](assets/new.png)  
 - [2020-08-20-澳洲幸运-10-计划群-5113660](https://www.v2ex.com/t/700101) ![](assets/new.png)  
 - [2020-08-20-jquery-里-gt-的问题？](https://www.v2ex.com/t/700098) ![](assets/new.png)  
 - [2020-08-20-企业微信在线文档-同一-doc_id-中英文不同内容](https://www.v2ex.com/t/700097) ![](assets/new.png)  
@@ -1072,6 +1071,7 @@
 - [2020-08-20-如何构造-v1-和-v2-才能读取到-1.txt](https://www.v2ex.com/t/700081) ![](assets/new.png)  
 - [2020-08-20-iPhone-11-怎么开启激活锁？](https://www.v2ex.com/t/700080) ![](assets/new.png)  
 - [2020-08-20-diskgenius-扩容-uefi-引导区失败无法进系统，这数据还有救吗？](https://www.v2ex.com/t/700079) ![](assets/new.png)  
+- [2020-08-20-ios14-线刷问题](https://www.v2ex.com/t/700078) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

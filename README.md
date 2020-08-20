@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 14:12:26，:rocket: 更新条数: +3329， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 14:21:10，:rocket: 更新条数: +3330， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-20-ios14-线刷问题](https://www.v2ex.com/t/700078) ![](assets/new.png)  
+- [2020-08-20-爱奇艺---用户运营实习生（直接招聘，简历合适直接进入面试流程，流程快）](https://www.v2ex.com/t/700077) ![](assets/new.png)  
+- [2020-08-20-管理员已阻止你运行此应用怎样解决-www](https://www.v2ex.com/t/700076) ![](assets/new.png)  
 - [2020-08-20-投了两周简历,-一个面试邀请都没有,-大佬们能帮我-review-下简历吗,-3-年-Android](https://www.v2ex.com/t/700075) ![](assets/new.png)  
 - [2020-08-20-微信小商店全量开放，号称「人人都可成商家」](https://www.v2ex.com/t/700074) ![](assets/new.png)  
 - [2020-08-20-听说这就是-iPhone12-的外观了，你们喜欢吗？重回硌手的直角边框了，反正我是喜欢的-旺柴](https://www.v2ex.com/t/700073) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-20-北京租房真贵](https://www.v2ex.com/t/700057) ![](assets/new.png)  
 - [2020-08-20-第一次云通关](https://www.v2ex.com/t/700056) ![](assets/new.png)  
 - [2020-08-20-深圳富途证券社招内推](https://www.v2ex.com/t/700055) ![](assets/new.png)  
-- [2020-08-20-广州珠江宽频-mtr-腾讯的-dns-走的是内网？](https://www.v2ex.com/t/700054) ![](assets/new.png)  
-- [2020-08-20-淘宝特价版杭州社招2+年经验-招前端](https://www.v2ex.com/t/700053) ![](assets/new.png)  
-- [2020-08-20-杭州-阿里巴巴搜索推荐事业部开发岗位招聘](https://www.v2ex.com/t/700052) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1123,8 +1123,8 @@
 - [2020-08-20-前端圈的贫富差距正在拉大？](https://toutiao.io/k/2ufxwgx) ![](assets/new.png)  
 - [2020-08-20-记一次-Spring-项目打包问题排查](https://toutiao.io/k/v5nc8dk) ![](assets/new.png)  
 - [2020-08-20-MIT-6.824-学习笔记（二）：GFS-设计（附脑图）](https://toutiao.io/k/lxub979) ![](assets/new.png)  
-- [2020-08-20-深度剖析-GitHub-上-15.1k-Star-项目：redux-thunk](https://toutiao.io/k/pyja4h7) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
+- [2020-08-20-深度剖析-GitHub-上-15.1k-Star-项目：redux-thunk](https://toutiao.io/k/pyja4h7) ![](assets/new.png)  
 - [2020-08-20-直观解读-KL-散度的数学概念](https://toutiao.io/k/thaa1tn) ![](assets/new.png)  
 - [2020-08-20-OPA-Gatekeeper-策略入门](https://toutiao.io/k/9426ael) ![](assets/new.png)  
 - [2020-08-20-Gitlab-ci：从零开始的前端自动化部署](https://toutiao.io/k/x3mna3p) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 07:48:11，:rocket: 更新条数: +3328， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 08:02:56，:rocket: 更新条数: +3328， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -477,6 +477,8 @@
 </summary>
 
 
+- [2020-08-20-金九银十就在眼前，应该怎么做准备？](https://www.ershicimi.com/p/9c97150e9c41c576e5190b0ad7373e08) ![](assets/new.png)  
+- [2020-08-19-从0到1，搭建一个体系完善的前端React组件库](https://www.ershicimi.com/p/0b478ecb62435c984c5379106f63d692) ![](assets/new.png)  
 - [2020-08-18-面试的时候可长点心吧](https://www.ershicimi.com/p/59de6443acd01c75c7bebc97f9df930c) ![](assets/new.png)  
 - [2020-08-17-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/f1e3f318aab513221b27ccb6128dff80) ![](assets/new.png)  
 - [2020-08-16-推介一位前端实力博主朋友：SHERlocked93](https://www.ershicimi.com/p/1fe80950a657593fa6f559fa2a30576d) ![](assets/new.png)  
@@ -495,8 +497,6 @@
 - [2020-08-02-精心挑选的几个前端公众号](https://www.ershicimi.com/p/7bd26145bedb709e603111df276f84e5) ![](assets/new.png)  
 - [2020-07-31-图片压缩原理](https://www.ershicimi.com/p/38acef5560c6e8e52234d7725053a8c1) ![](assets/new.png)  
 - [2020-07-30-【答案详解】145道Web高频面试题，锁定高薪Offer](https://www.ershicimi.com/p/12e1a03c8ddffaee7ced84f165fb9e00) ![](assets/new.png)  
-- [2020-07-29-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed) ![](assets/new.png)  
-- [2020-07-28-几个常见面试题，工作中也经常用到](https://www.ershicimi.com/p/605539ef8663e7d6be0c531072e51703) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-20-CODING-仪表盘功能正式推出，实现工作数据可视化！](https://www.v2ex.com/t/699980) ![](assets/new.png)  
+- [2020-08-20-感觉路由器发热变大了](https://www.v2ex.com/t/699979) ![](assets/new.png)  
+- [2020-08-20-windows-下的神奇-bug-导致公司-nas-文件夹被清空？](https://www.v2ex.com/t/699978) ![](assets/new.png)  
+- [2020-08-20-如何让电脑发送命令让电磁铁通电与断电呢？](https://www.v2ex.com/t/699976) ![](assets/new.png)  
 - [2020-08-20-在这种情况下，试用期被劝退，可以要赔偿吗？](https://www.v2ex.com/t/699974) ![](assets/new.png)  
 - [2020-08-20-记得之前有些改-hosts-文件的方法](https://www.v2ex.com/t/699973) ![](assets/new.png)  
 - [2020-08-20-求推荐类似-RixCloud-的机场,-能够达到-google-ping-<110ms-带宽-500M+](https://www.v2ex.com/t/699972) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-20-房子有了，孩子有了，羡慕人家单身的，可以狼藉天涯，有没有人和我一样看法](https://www.v2ex.com/t/699960) ![](assets/new.png)  
 - [2020-08-20-有了公网-ip，-ESXI-虚拟机控制台也不能远程外网访问？](https://www.v2ex.com/t/699958) ![](assets/new.png)  
 - [2020-08-20-使用套路云的-PolarDB-还需要自己分表吗？](https://www.v2ex.com/t/699957) ![](assets/new.png)  
-- [2020-08-20-收个京东-plus-,带价的来](https://www.v2ex.com/t/699956) ![](assets/new.png)  
-- [2020-08-20-怎么看待简历中-redis/Memcached-都拼写错误的人？](https://www.v2ex.com/t/699955) ![](assets/new.png)  
-- [2020-08-20-关于-NextCloud-的一些使用技巧分享和-PHP-读文件的疑问](https://www.v2ex.com/t/699954) ![](assets/new.png)  
-- [2020-08-20-求助-eno1-IP-地址丢失问题](https://www.v2ex.com/t/699953) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

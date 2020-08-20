@@ -15909,6 +15909,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "前端圣经，红宝书第四版已经在图灵预售了（99 本书+电子书+练习）~~~下个月 27 正式发售",
+        "link": "https://www.v2ex.com/t/699848",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[爱考原题的亚麻新出的 VO] 二叉查找树的中序后继",
+        "link": "https://www.v2ex.com/t/699847",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "Nodejs 如何并发请求数据接口，并返回汇总后的结果？",
+        "link": "https://www.v2ex.com/t/699845",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[内推][育碧成都]Lead Programmer 程序主管",
+        "link": "https://www.v2ex.com/t/699844",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "在笔记本上装了个 Fedora 32，感觉还可以，小问题不少，软件太少了",
+        "link": "https://www.v2ex.com/t/699842",
+        "date": "2020-08-20"
+      },
+      {
         "title": "大佬们你们 sql gui 都用啥啊?",
         "link": "https://www.v2ex.com/t/699841",
         "date": "2020-08-20"
@@ -16061,31 +16086,6 @@
       {
         "title": "十六进制怎么快速计算转成十进制",
         "link": "https://www.v2ex.com/t/699799",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "你们接受房租占自己收入多大的比例？ 10%？ 20%？",
-        "link": "https://www.v2ex.com/t/699798",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "关于 windows10 安装出现“windows 安装程序无法将 windows 配置为在此计算机上运行”的问题",
-        "link": "https://www.v2ex.com/t/699796",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "等了好久的战魂铭人，今天打开 tap 一看因为氪金设计问题评分爆了，有点可惜",
-        "link": "https://www.v2ex.com/t/699795",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "有用 google cloud 服务器的吗？ 最近网络可好？",
-        "link": "https://www.v2ex.com/t/699793",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "v 友们，哪些大型券商 APP 比较好用呢？",
-        "link": "https://www.v2ex.com/t/699792",
         "date": "2020-08-20"
       }
     ]
@@ -16278,38 +16278,8 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 快速入门数据结构和算法",
-        "link": "https://toutiao.io/k/vkyzxyw",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/9ujm1ju",
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
         "date": "2020-08-20"
       },
       {
@@ -16318,23 +16288,13 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
-        "link": "https://toutiao.io/k/nn7q9kk",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
         "date": "2020-08-20"
       },
       {
@@ -16343,13 +16303,53 @@
         "date": "2020-08-20"
       },
       {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-20"
+      },
+      {
         "title": "[推荐] 图解 Vue 响应式原理",
         "link": "https://toutiao.io/k/sia6td6",
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
-        "link": "https://toutiao.io/k/lmtdqk1",
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
         "date": "2020-08-20"
       }
     ]

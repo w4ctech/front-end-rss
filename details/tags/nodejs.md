@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-20 02:22:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-20 02:31:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -24,4 +24,5 @@
 - [2020-07-29-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/b1c05458bdcb1ec021f90bcf873addab) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
+- [2020-08-20-Nodejs-如何并发请求数据接口，并返回汇总后的结果？](https://www.v2ex.com/t/699845) 
 - [2020-08-20-请问-k8s-如何将-pod-均匀调度到每个-node-上](https://www.v2ex.com/t/699835) 

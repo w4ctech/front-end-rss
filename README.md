@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 02:22:57，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 02:31:34，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-20-前端圣经，红宝书第四版已经在图灵预售了（99-本书+电子书+练习）~~~下个月-27-正式发售](https://www.v2ex.com/t/699848) ![](assets/new.png)  
+- [2020-08-20-爱考原题的亚麻新出的-VO-二叉查找树的中序后继](https://www.v2ex.com/t/699847) ![](assets/new.png)  
+- [2020-08-20-Nodejs-如何并发请求数据接口，并返回汇总后的结果？](https://www.v2ex.com/t/699845) ![](assets/new.png)  
+- [2020-08-20-内推育碧成都Lead-Programmer-程序主管](https://www.v2ex.com/t/699844) ![](assets/new.png)  
+- [2020-08-20-在笔记本上装了个-Fedora-32，感觉还可以，小问题不少，软件太少了](https://www.v2ex.com/t/699842) ![](assets/new.png)  
 - [2020-08-20-大佬们你们-sql-gui-都用啥啊?](https://www.v2ex.com/t/699841) ![](assets/new.png)  
 - [2020-08-20-求助-Ubuntu-IPV6-的问题；](https://www.v2ex.com/t/699840) ![](assets/new.png)  
 - [2020-08-20-爱考原题的亚麻新出的-VO-二叉查找树的中序后继](https://www.v2ex.com/t/699839) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-20-求推荐-ios-剪切板管理软件或者捷径](https://www.v2ex.com/t/699827) ![](assets/new.png)  
 - [2020-08-20-请教一个关于内网穿透流程问题](https://www.v2ex.com/t/699826) ![](assets/new.png)  
 - [2020-08-20-昨天下班地铁上看见了一个穿女装的~~~](https://www.v2ex.com/t/699825) ![](assets/new.png)  
-- [2020-08-20-iPhone-6-更新了系统后，耗电异常的快，又遇到这种情况的吗](https://www.v2ex.com/t/699823) ![](assets/new.png)  
-- [2020-08-20-MacBook-Pro-Retina,-13-inch,-Early-2015-更换-NVMe-SSD-西部数据-SN750-记录](https://www.v2ex.com/t/699821) ![](assets/new.png)  
-- [2020-08-20-自学国际象棋](https://www.v2ex.com/t/699820) ![](assets/new.png)  
-- [2020-08-20-为什么-phpmyadmin-显示的数据库大小远大于-mysql-中该数据库文件夹实际占用的大小？](https://www.v2ex.com/t/699818) ![](assets/new.png)  
-- [2020-08-20-社招内推-快手科技](https://www.v2ex.com/t/699817) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,11 +1129,11 @@
 - [2020-08-20-Gitlab-ci：从零开始的前端自动化部署](https://toutiao.io/k/x3mna3p) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
 - [2020-08-20-分布式集群调度框架-Mesos-架构与实现](https://toutiao.io/k/6sj58vw) ![](assets/new.png)  
-- [2020-08-20-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
-- [2020-08-20-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
-- [2020-08-20-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-20-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-20-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-20-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-20-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
 - [2020-08-20-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
+- [2020-08-20-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 15:33:25，:rocket: 更新条数: +3331， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 15:46:17，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -45,7 +45,7 @@
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
@@ -916,26 +916,6 @@
 </summary>
 
 
-- [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341) ![](assets/new.png)  
-- [2020-08-13-面了个-4-年的前端，简历看着像实战派，实际上……](https://www.ershicimi.com/p/529451701bd7e68b0beea1bce1921d36) ![](assets/new.png)  
-- [2020-08-12-一周内在闲鱼上被疯转-2-万次的“多线程”资料！](https://www.ershicimi.com/p/8fdc4dabcff23f716ebb8b3ecd65bcf9) ![](assets/new.png)  
-- [2020-08-11-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/adf9b7740214369c1a3daf15c832e9c8) ![](assets/new.png)  
-- [2020-08-10-在-30-岁的互联网战场上，技术的剑已不再锋利](https://www.ershicimi.com/p/f76b9041042ed585ebdb3fa21b3fa1ee) ![](assets/new.png)  
-- [2020-08-08-ES11-来了，还学得动吗？](https://www.ershicimi.com/p/2fadcba512a5310cf6d0d9077ae77ae7) ![](assets/new.png)  
-- [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) ![](assets/new.png)  
-- [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) ![](assets/new.png)  
-- [2020-08-05-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/4742e260273a2bf0fcfccc86f9f97422) ![](assets/new.png)  
-- [2020-08-04-Vue的生命周期有多长？](https://www.ershicimi.com/p/eb6c9a853fe54f661ed6b543e15c39cf) ![](assets/new.png)  
-- [2020-08-03-如何精确统计页面停留时长](https://www.ershicimi.com/p/1c9ebd84df7644667e1347d67682706a) ![](assets/new.png)  
-- [2020-07-31-140道Web大厂面试真题分享](https://www.ershicimi.com/p/82353361ddca791ad1aa9c6410e36028) ![](assets/new.png)  
-- [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) ![](assets/new.png)  
-- [2020-07-29-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/8d9aae6d6881f11e8d1c09ed67f7bdf5) ![](assets/new.png)  
-- [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) ![](assets/new.png)  
-- [2020-07-27-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/02e36a0d0749c177b1fe11f86b5f5ea2) ![](assets/new.png)  
-- [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/ad88a966ef504d6a8551e30959e8f190) ![](assets/new.png)  
-- [2020-07-23-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/864b0feaa51046cb6caa2a3a52b8f670) ![](assets/new.png)  
-- [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) ![](assets/new.png)  
-- [2020-07-21-35岁的老程序员一面就砸，一问原因，挺突然的...](https://www.ershicimi.com/p/cf3287f84f31276654ea80494a292e12) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1032,9 @@
 </summary>
 
 
+- [2020-08-20-安卓-Tim-最新版-V-3.1.1.2900-浏览图片不能回退](https://www.v2ex.com/t/700094) ![](assets/new.png)  
+- [2020-08-20-还有人在用-iPad-mini2-的吗？请问如何续命？](https://www.v2ex.com/t/700093) ![](assets/new.png)  
+- [2020-08-20-github-下载-zip-格式的仓库的功能好像没用了？](https://www.v2ex.com/t/700092) ![](assets/new.png)  
 - [2020-08-20-天天被老板习惯性-pua-你们会选择离开吗？](https://www.v2ex.com/t/700090) ![](assets/new.png)  
 - [2020-08-20-QNET：-APP-弱网络测试专家](https://www.v2ex.com/t/700088) ![](assets/new.png)  
 - [2020-08-20-pve-下直通-uhd630-硬解的问题](https://www.v2ex.com/t/700087) ![](assets/new.png)  
@@ -1069,9 +1052,6 @@
 - [2020-08-20-投了两周简历,-一个面试邀请都没有,-大佬们能帮我-review-下简历吗,-3-年-Android](https://www.v2ex.com/t/700075) ![](assets/new.png)  
 - [2020-08-20-微信小商店全量开放，号称「人人都可成商家」](https://www.v2ex.com/t/700074) ![](assets/new.png)  
 - [2020-08-20-听说这就是-iPhone12-的外观了，你们喜欢吗？重回硌手的直角边框了，反正我是喜欢的-旺柴](https://www.v2ex.com/t/700073) ![](assets/new.png)  
-- [2020-08-20-上海比心陪练招聘前端！😆👏🏻🎉](https://www.v2ex.com/t/700071) ![](assets/new.png)  
-- [2020-08-20-VMware-Fusion-12-发布啦，支持-big-sur，关键个人还免费。](https://www.v2ex.com/t/700070) ![](assets/new.png)  
-- [2020-08-20-AirPods-Pro-第三方耳塞求推荐](https://www.v2ex.com/t/700069) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

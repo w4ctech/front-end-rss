@@ -13401,6 +13401,16 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境",
+        "link": "https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "接地气的前端中小厂一二线城市薪资水平报告",
+        "link": "https://www.ershicimi.com/p/656ca7a985dd3f9ff17d143cb581cc53",
+        "date": "2020-08-19"
+      },
+      {
         "title": "哥们别闹，你离资深前端还远着呢",
         "link": "https://www.ershicimi.com/p/13ea72e0325fa260959c8695c88c8eb1",
         "date": "2020-08-18"
@@ -13489,16 +13499,6 @@
         "title": "很好奇，做前端的你是不是也这样……",
         "link": "https://www.ershicimi.com/p/b1f934f2e3176b107d43f118ae3e4998",
         "date": "2020-08-04"
-      },
-      {
-        "title": "Vue版的团队代码规范",
-        "link": "https://www.ershicimi.com/p/4c98dcb82fb6941f3ad338180c8b21c5",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "你不知道的Vue干货，全在这里了",
-        "link": "https://www.ershicimi.com/p/93578da8ee8a23416b0a42c0e692eb45",
-        "date": "2020-08-03"
       }
     ]
   },
@@ -15909,6 +15909,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教数据库怎么设计：字段之间的依赖关系",
+        "link": "https://www.v2ex.com/t/699857",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "阿里云+腾讯云+华为云高优惠返现",
+        "link": "https://www.v2ex.com/t/699856",
+        "date": "2020-08-20"
+      },
+      {
         "title": "在街上被人拍抖音感觉很难受",
         "link": "https://www.v2ex.com/t/699854",
         "date": "2020-08-20"
@@ -16082,16 +16092,6 @@
         "title": "关于胃的问题",
         "link": "https://www.v2ex.com/t/699809",
         "date": "2020-08-20"
-      },
-      {
-        "title": "成都爱奇艺招聘 U3D（HC4）、erlang、关卡策划",
-        "link": "https://www.v2ex.com/t/699808",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "上海蚂蚁金服 - 金融核心技术部 持续招聘中",
-        "link": "https://www.v2ex.com/t/699807",
-        "date": "2020-08-20"
       }
     ]
   },
@@ -16100,6 +16100,16 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "QUIC协议详解之Initial包的处理 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13696&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F162914823%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "大侠稍等！URL 中为何出现奇怪的字符 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13695&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F190871446%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-20"
+      },
       {
         "title": "英语学习指南 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13694&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenglish-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -16189,16 +16199,6 @@
         "title": "分享一个Flink checkpoint失败的问题和解决办法 (club.perfma.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13677&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1733519%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-08-20"
-      },
-      {
-        "title": "API设计的几条原则 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "怎样消灭Bug？ (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-20"
       }
     ]
   },
@@ -16283,53 +16283,13 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/9ujm1ju",
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
-        "link": "https://toutiao.io/k/nn7q9kk",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
-        "link": "https://toutiao.io/k/lmtdqk1",
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
         "date": "2020-08-20"
       },
       {
@@ -16338,23 +16298,63 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-20"
-      },
-      {
         "title": "[推荐] Java 线程池深度揭秘",
         "link": "https://toutiao.io/k/prh2qvl",
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
+        "link": "https://toutiao.io/k/wtofrd2",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
         "date": "2020-08-20"
       }
     ]

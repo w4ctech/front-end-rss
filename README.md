@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 02:48:21，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 03:02:32，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -291,6 +291,8 @@
 </summary>
 
 
+- [2020-08-20-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3) ![](assets/new.png)  
+- [2020-08-19-接地气的前端中小厂一二线城市薪资水平报告](https://www.ershicimi.com/p/656ca7a985dd3f9ff17d143cb581cc53) ![](assets/new.png)  
 - [2020-08-18-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/13ea72e0325fa260959c8695c88c8eb1) ![](assets/new.png)  
 - [2020-08-18-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/ab4577545adee248832f5ef732221730) ![](assets/new.png)  
 - [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/dbcbb37e2b049d82b4c7a6170708306c) ![](assets/new.png)  
@@ -309,8 +311,6 @@
 - [2020-08-06-node_modules-困境](https://www.ershicimi.com/p/624d81abb744ab9f4a0781907c37a4e4) ![](assets/new.png)  
 - [2020-08-05-2万字！90个前端开发面试必问基础大总结](https://www.ershicimi.com/p/29bfa617feb719e3f7063eb358232dbe) ![](assets/new.png)  
 - [2020-08-04-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/b1f934f2e3176b107d43f118ae3e4998) ![](assets/new.png)  
-- [2020-08-04-Vue版的团队代码规范](https://www.ershicimi.com/p/4c98dcb82fb6941f3ad338180c8b21c5) ![](assets/new.png)  
-- [2020-08-03-你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/93578da8ee8a23416b0a42c0e692eb45) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-20-请教数据库怎么设计：字段之间的依赖关系](https://www.v2ex.com/t/699857) ![](assets/new.png)  
+- [2020-08-20-阿里云+腾讯云+华为云高优惠返现](https://www.v2ex.com/t/699856) ![](assets/new.png)  
 - [2020-08-20-在街上被人拍抖音感觉很难受](https://www.v2ex.com/t/699854) ![](assets/new.png)  
 - [2020-08-20-请问我的-macbook-pro-13-寸-17-款-的原装充电器给电脑充电的时候功率变成了-12W-导致充电不进，大家有遇到过吗？](https://www.v2ex.com/t/699852) ![](assets/new.png)  
 - [2020-08-20-现在的手机又大又厚，有没有稍微小一点点的](https://www.v2ex.com/t/699850) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-20-请问-k8s-如何将-pod-均匀调度到每个-node-上](https://www.v2ex.com/t/699835) ![](assets/new.png)  
 - [2020-08-20-养了只精分的布偶真可怕](https://www.v2ex.com/t/699833) ![](assets/new.png)  
 - [2020-08-20-阿里云优惠大放送](https://www.v2ex.com/t/699832) ![](assets/new.png)  
-- [2020-08-20-大佬们，请教一个问题，在服务器上开启的-mongodb-数据库总是被黑客删数据怎么办，开了远程。](https://www.v2ex.com/t/699831) ![](assets/new.png)  
-- [2020-08-20-华为-matebook-锐龙适合装-Linux-么](https://www.v2ex.com/t/699830) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,6 +1083,8 @@
 </summary>
 
 
+- [2020-08-20-QUIC协议详解之Initial包的处理-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13696&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F162914823%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-20-大侠稍等！URL-中为何出现奇怪的字符-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13695&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F190871446%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-20-英语学习指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13694&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenglish-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-20-技术人员的耐心和包容心-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13693&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fengineer-patience-inclusivity%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-20-工具-vs-产品-And-知识-vs-思维-|-晚晴幽草轩-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13692&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F08%2F18%2F166-tools-vs-products-and-knowledge-vs-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1101,8 +1103,6 @@
 - [2020-08-20-如何优雅地向老师表达：我这周任务没啥进展？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13679&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDTGUSO0gF4v76zJ1YU5kLQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-20-强推-16-款-IDEA-插件，让你的开发速度飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13678&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvLmgi509ND6MnlxqszxCIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-20-分享一个Flink-checkpoint失败的问题和解决办法-club.perfma.com](https://blogread.cn/news/go.php?idItem=13677&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1733519%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-20-API设计的几条原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13676&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-20-怎样消灭Bug？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13675&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-software-quality-bug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,11 +1129,11 @@
 - [2020-08-20-Gitlab-ci：从零开始的前端自动化部署](https://toutiao.io/k/x3mna3p) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
 - [2020-08-20-分布式集群调度框架-Mesos-架构与实现](https://toutiao.io/k/6sj58vw) ![](assets/new.png)  
-- [2020-08-20-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-20-推荐-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
-- [2020-08-20-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
-- [2020-08-20-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
-- [2020-08-20-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-20-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-20-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-20-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-20-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
+- [2020-08-20-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

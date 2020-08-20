@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-20 02:48:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-20 03:02:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -90,11 +90,11 @@
 - [【Vue中文社区】人人都懂的Vue框架，你能最佳实践么？​](https://www.ershicimi.com/p/81b490c6b8c3a0a56d7c592bda1e2b5d)
 - [【前端开发】使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/ab4577545adee248832f5ef732221730)
 - [【前端开发】揭秘内幕：华为内部使用的vue技术公开](https://www.ershicimi.com/p/ec85f985997b000cbbc5b08706318dcc)
-- [【前端开发】Vue版的团队代码规范](https://www.ershicimi.com/p/4c98dcb82fb6941f3ad338180c8b21c5)
-- [【前端开发】你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/93578da8ee8a23416b0a42c0e692eb45)
 - [【前端圈】视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0)
 - [【前端圈】视频Vue-开发-ECharts-踩坑指南@袁源](https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff)
 - [【前端圈】VueConf-2019上海精彩视频花絮](https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479)
+- [【前端圈】VuePress-1.0发布与介绍的视频版@真山_VueConf-2019上海](https://www.ershicimi.com/p/df891224b8145e46f487100cd9aba181)
+- [【前端圈】蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -337,7 +337,6 @@
 - [【前端瓶子君】你不知道的-Canvas-绘制过程也可以直接转视频的](https://www.ershicimi.com/p/d65eaeea69935a0b1126ea1d528d9af8)
 - [【张鑫旭-鑫空间-鑫生活】SVG任意图形path曲线路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)
 - [【V2EX】大佬们你们-sql-gui-都用啥啊?](https://www.v2ex.com/t/699841)
-- [【V2EX】成都爱奇艺招聘-U3D（HC4）、erlang、关卡策划](https://www.v2ex.com/t/699808)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -435,9 +434,9 @@
 - [【Vue中文社区】10款谷歌浏览器插件武装你的浏览器](https://www.ershicimi.com/p/a6a585d5469d551f985ffac24fbb6f5a)
 - [【前端早读课】【第2027期】图解CORS](https://www.ershicimi.com/p/2f680c25c9986033bf75373aaf0ed968)
 - [【前端大全】内存怪兽-Chrome-被黑的最惨一次](https://www.ershicimi.com/p/dbe05e010ee40c3db60919a7ef934cbb)
+- [【前端开发】新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3)
 - [【前端之巅】Microsoft-365挥别IE-11，IE“死”在了微软自己手里](https://www.ershicimi.com/p/6624d44bbe8b3cd74412ea0b86cdcbad)
 - [【前端之巅】前端周报：谷歌开源-chromeOS.dev；-十余家美国企业联手抵制特朗普“封杀”微信；Angul](https://www.ershicimi.com/p/64729e7a6d3cc0184e99536b8a72d7fc)
-- [【前端之巅】关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -463,6 +462,7 @@
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【技术头条】十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
 - [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
 - [【安全热点】Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)

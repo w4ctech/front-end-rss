@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 05:33:41，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 05:46:35，:rocket: 更新条数: +3321， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-20-求购一台-mbp-最好是-16G-的](https://www.v2ex.com/t/699925) ![](assets/new.png)  
 - [2020-08-20-Big-Sur-Beta-5-更新下载失败后内存泄漏？](https://www.v2ex.com/t/699923) ![](assets/new.png)  
 - [2020-08-20-非专业解释-Google、高德卫星地图上同一坐标为何会偏差这么大，附-130MB-采集省市区边界坐标数据](https://www.v2ex.com/t/699921) ![](assets/new.png)  
 - [2020-08-20-杭州程序员薪资](https://www.v2ex.com/t/699919) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-20-用帝国-CMS-批量替换功能需要写正则，请问应该怎么写？](https://www.v2ex.com/t/699900) ![](assets/new.png)  
 - [2020-08-20-互联网公司的图标](https://www.v2ex.com/t/699899) ![](assets/new.png)  
 - [2020-08-20-优派-27-英寸-VX2780-2K-HD-屏幕四周较暗](https://www.v2ex.com/t/699897) ![](assets/new.png)  
-- [2020-08-20-macOS-真的是-bugOS，越来越难用了！](https://www.v2ex.com/t/699896) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,8 +1120,8 @@
 - [2020-08-20-单元测试，只是测试吗？](https://toutiao.io/k/pveume6) ![](assets/new.png)  
 - [2020-08-20-前端圈的贫富差距正在拉大？](https://toutiao.io/k/2ufxwgx) ![](assets/new.png)  
 - [2020-08-20-记一次-Spring-项目打包问题排查](https://toutiao.io/k/v5nc8dk) ![](assets/new.png)  
-- [2020-08-20-mit-6.824-学习笔记-二-：GFS-设计-附脑图](https://toutiao.io/k/lxub979) ![](assets/new.png)  
 - [2020-08-20-Bitmap-用户分群方法在贝壳-DMP-的实践和应用](https://toutiao.io/k/rgkpykf) ![](assets/new.png)  
+- [2020-08-20-mit-6.824-学习笔记-二-：GFS-设计-附脑图](https://toutiao.io/k/lxub979) ![](assets/new.png)  
 - [2020-08-20-深度剖析-GitHub-上-15.1k-Star-项目：redux-thunk](https://toutiao.io/k/pyja4h7) ![](assets/new.png)  
 - [2020-08-20-直观解读-KL-散度的数学概念](https://toutiao.io/k/thaa1tn) ![](assets/new.png)  
 - [2020-08-20-OPA-Gatekeeper-策略入门](https://toutiao.io/k/9426ael) ![](assets/new.png)  

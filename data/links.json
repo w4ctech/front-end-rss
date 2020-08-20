@@ -15909,6 +15909,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求购一台 mbp 最好是 16G 的",
+        "link": "https://www.v2ex.com/t/699925",
+        "date": "2020-08-20"
+      },
+      {
         "title": "Big Sur Beta 5 更新下载失败后内存泄漏？",
         "link": "https://www.v2ex.com/t/699923",
         "date": "2020-08-20"
@@ -16077,16 +16082,6 @@
         "title": "黑神话：悟空",
         "link": "https://www.v2ex.com/t/699877",
         "date": "2020-08-20"
-      },
-      {
-        "title": "求 apache rewrite 的规则实现",
-        "link": "https://www.v2ex.com/t/699876",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "终于还是辞职了",
-        "link": "https://www.v2ex.com/t/699875",
-        "date": "2020-08-20"
       }
     ]
   },
@@ -16233,13 +16228,13 @@
         "date": "2020-08-20"
       },
       {
-        "title": "mit 6.824 学习笔记 (二) ：GFS 设计 (附脑图)",
-        "link": "https://toutiao.io/k/lxub979",
+        "title": "Bitmap 用户分群方法在贝壳 DMP 的实践和应用",
+        "link": "https://toutiao.io/k/rgkpykf",
         "date": "2020-08-20"
       },
       {
-        "title": "Bitmap 用户分群方法在贝壳 DMP 的实践和应用",
-        "link": "https://toutiao.io/k/rgkpykf",
+        "title": "mit 6.824 学习笔记 (二) ：GFS 设计 (附脑图)",
+        "link": "https://toutiao.io/k/lxub979",
         "date": "2020-08-20"
       },
       {
@@ -16303,23 +16298,13 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
         "date": "2020-08-20"
       },
       {
@@ -16328,8 +16313,13 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
         "date": "2020-08-20"
       },
       {
@@ -16338,28 +16328,8 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
-        "link": "https://toutiao.io/k/lmtdqk1",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/9ujm1ju",
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
         "date": "2020-08-20"
       },
       {
@@ -16368,8 +16338,33 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
         "date": "2020-08-20"
       },
       {

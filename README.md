@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 03:33:30，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 03:46:32，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-20-习近平：向全国奋战在抗洪抢险救灾一线的同志们致以诚挚问候](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPEOzXMYqnTxtFFPifKjZ200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-受疫情影响-澳洲航空2020财年损近20亿澳元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtispbE9HG78A1Rb7JDFwYW200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-四川昨日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIEJgHsXSEEy7R6i0empm200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-美国护理机构新冠肺炎确诊病例增长迅速](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidmagRPKTHS94Nvb27my7200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-美国新冠肺炎确诊病例累计超551万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti14DrK7cGYQ9bfoCQ4IBQ200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-19-世卫组织：全球新增新冠肺炎确诊病例213391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil7xyUhme06JlfYlByq9j200820&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,15 @@
 </summary>
 
 
+- [2020-08-20-公司所在楼层男厕里放的有成盒的不知名品牌的安全套，这？](https://www.v2ex.com/t/699889) ![](assets/new.png)  
+- [2020-08-20-工作内容疲倦](https://www.v2ex.com/t/699888) ![](assets/new.png)  
+- [2020-08-20-求推荐-小米至尊-8G-vs-一加-8Pro，该选择哪台？](https://www.v2ex.com/t/699887) ![](assets/new.png)  
+- [2020-08-20-想给大家安利一下-FF14-这个网游](https://www.v2ex.com/t/699884) ![](assets/new.png)  
+- [2020-08-20-出个软件，-Sensei，强大的-macOS-监控软件](https://www.v2ex.com/t/699882) ![](assets/new.png)  
+- [2020-08-20-投诉之后顺丰快递小哥直接被开除了，以后还应该投诉吗？](https://www.v2ex.com/t/699881) ![](assets/new.png)  
+- [2020-08-20-有防晒推荐吗](https://www.v2ex.com/t/699880) ![](assets/new.png)  
+- [2020-08-20-拟合问题求解](https://www.v2ex.com/t/699879) ![](assets/new.png)  
+- [2020-08-20-感觉一加还是保留了一点最基本的良心。。。。。](https://www.v2ex.com/t/699878) ![](assets/new.png)  
 - [2020-08-20-黑神话：悟空](https://www.v2ex.com/t/699877) ![](assets/new.png)  
 - [2020-08-20-求-apache-rewrite-的规则实现](https://www.v2ex.com/t/699876) ![](assets/new.png)  
 - [2020-08-20-终于还是辞职了](https://www.v2ex.com/t/699875) ![](assets/new.png)  
@@ -1063,15 +1072,6 @@
 - [2020-08-20-有什么好用的-mysql-ER-图工具（不用设置外键的）](https://www.v2ex.com/t/699869) ![](assets/new.png)  
 - [2020-08-20-Quarkus-是什么,感觉现在挺火的](https://www.v2ex.com/t/699866) ![](assets/new.png)  
 - [2020-08-20-=>箭头函数的返回值在哪里获取](https://www.v2ex.com/t/699864) ![](assets/new.png)  
-- [2020-08-20-你们的电话卡月租是多少？](https://www.v2ex.com/t/699863) ![](assets/new.png)  
-- [2020-08-20-一个开发去运营,大家提提建议](https://www.v2ex.com/t/699862) ![](assets/new.png)  
-- [2020-08-20-面试笔试做不出长整数加法的是不是-coding-能力就基本当没有了？](https://www.v2ex.com/t/699860) ![](assets/new.png)  
-- [2020-08-20-请教数据库怎么设计：字段之间的依赖关系](https://www.v2ex.com/t/699857) ![](assets/new.png)  
-- [2020-08-20-阿里云+腾讯云+华为云高优惠返现](https://www.v2ex.com/t/699856) ![](assets/new.png)  
-- [2020-08-20-在街上被人拍抖音感觉很难受](https://www.v2ex.com/t/699854) ![](assets/new.png)  
-- [2020-08-20-请问我的-macbook-pro-13-寸-17-款-的原装充电器给电脑充电的时候功率变成了-12W-导致充电不进，大家有遇到过吗？](https://www.v2ex.com/t/699852) ![](assets/new.png)  
-- [2020-08-20-现在的手机又大又厚，有没有稍微小一点点的](https://www.v2ex.com/t/699850) ![](assets/new.png)  
-- [2020-08-20-想知道-go-的-orm-框架都是如何映射结构体到表的？](https://www.v2ex.com/t/699849) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,11 +1129,11 @@
 - [2020-08-20-Gitlab-ci：从零开始的前端自动化部署](https://toutiao.io/k/x3mna3p) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
 - [2020-08-20-分布式集群调度框架-Mesos-架构与实现](https://toutiao.io/k/6sj58vw) ![](assets/new.png)  
-- [2020-08-20-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
-- [2020-08-20-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
-- [2020-08-20-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
-- [2020-08-20-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-20-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-20-微服务全链路异步化实践](https://toutiao.io/k/w8j691c) ![](assets/new.png)  
+- [2020-08-20-浅谈蓝队反制手段](https://toutiao.io/k/3n8uwrx) ![](assets/new.png)  
+- [2020-08-20-为什么微信推荐这么快？](https://toutiao.io/k/0ebjtus) ![](assets/new.png)  
+- [2020-08-20-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-20-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

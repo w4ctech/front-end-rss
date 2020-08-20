@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 07:02:19，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 07:10:18，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-20-有了公网-ip，-ESXI-虚拟机控制台也不能远程外网访问？](https://www.v2ex.com/t/699958) ![](assets/new.png)  
+- [2020-08-20-使用套路云的-PolarDB-还需要自己分表吗？](https://www.v2ex.com/t/699957) ![](assets/new.png)  
 - [2020-08-20-收个京东-plus-,带价的来](https://www.v2ex.com/t/699956) ![](assets/new.png)  
 - [2020-08-20-怎么看待简历中-redis/Memcached-都拼写错误的人？](https://www.v2ex.com/t/699955) ![](assets/new.png)  
 - [2020-08-20-关于-NextCloud-的一些使用技巧分享和-PHP-读文件的疑问](https://www.v2ex.com/t/699954) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-20-如果部署服务在-K8s-集群，那么微信公众平台-IP-白名单设置是什么？](https://www.v2ex.com/t/699938) ![](assets/new.png)  
 - [2020-08-20-做一个不要##的推荐](https://www.v2ex.com/t/699937) ![](assets/new.png)  
 - [2020-08-20-大家基本使用-NAS-的原因是什么](https://www.v2ex.com/t/699936) ![](assets/new.png)  
-- [2020-08-20-有没有玩过健身环大冒险的，真的能减肥吗？](https://www.v2ex.com/t/699935) ![](assets/new.png)  
-- [2020-08-20-群晖里通过-docker-安装的-aria2-怎么通过-ddnsto-远程访问](https://www.v2ex.com/t/699934) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

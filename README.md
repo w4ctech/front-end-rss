@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 12:48:19，:rocket: 更新条数: +3327， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 13:02:29，:rocket: 更新条数: +3327， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,10 +96,10 @@
 
 
 - [2020-08-20-新冠肺炎疫情将造成孟加拉国170万年轻人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDVtPdAJw6MhksE8DXs9J200820&isfromapp=1) ![](assets/new.png)  
+- [2020-08-20-继卫生部长后波兰外交部长查普托维奇辞职](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimsSSE2mCl2U1iPM7asws200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-世界卫生组织欧洲办事处：欧洲新冠肺炎疫情再呈上升趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXdamZdvFkPdnB7RQf9cQ200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-伊朗新增新冠肺炎确诊病例2279例-累计确诊352558例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEKX53bYPjyI1HHjW2puE200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-印尼新增2266例新冠肺炎确诊病例-累计确诊147211例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMvMuVgWL0DqJ5HsBAGUY200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-20-香港20日新增18例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJHId45wvvq1xH83ZBqb1200820&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-20-第一次云通关](https://www.v2ex.com/t/700056) ![](assets/new.png)  
+- [2020-08-20-深圳富途证券社招内推](https://www.v2ex.com/t/700055) ![](assets/new.png)  
+- [2020-08-20-广州珠江宽频-mtr-腾讯的-dns-走的是内网？](https://www.v2ex.com/t/700054) ![](assets/new.png)  
+- [2020-08-20-淘宝特价版杭州社招2+年经验-招前端](https://www.v2ex.com/t/700053) ![](assets/new.png)  
 - [2020-08-20-杭州-阿里巴巴搜索推荐事业部开发岗位招聘](https://www.v2ex.com/t/700052) ![](assets/new.png)  
 - [2020-08-20-红米-k30-至尊版十周年纪念版-vs-K30-Pro-详细对比评测-微博转发有抽奖](https://www.v2ex.com/t/700051) ![](assets/new.png)  
 - [2020-08-20-如果员工离职时带走自己的工作成果，法律上有罪吗？](https://www.v2ex.com/t/700050) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-20-一个-PHP-线程-pconnect-两个地址-redis-地址，是否可以？](https://www.v2ex.com/t/700038) ![](assets/new.png)  
 - [2020-08-20-如何答好面试中的系统设计题？](https://www.v2ex.com/t/700037) ![](assets/new.png)  
 - [2020-08-20-Chromebook-貌似又企业锁，怎么破？](https://www.v2ex.com/t/700036) ![](assets/new.png)  
-- [2020-08-20-实习期没到离职,简历要不要写这段工作经历](https://www.v2ex.com/t/700034) ![](assets/new.png)  
-- [2020-08-20-我为什么用-nas](https://www.v2ex.com/t/700033) ![](assets/new.png)  
-- [2020-08-20-如果-SSL-被强制更换你还会使用吗？](https://www.v2ex.com/t/700032) ![](assets/new.png)  
-- [2020-08-20-Linux-里的-timedatectl-这个命令工具的源码，从哪儿看？-谢谢](https://www.v2ex.com/t/700031) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,6 +1146,8 @@
 
 
 - [2020-08-20-再签某大型国有银行,国舜股份为客户核心业务系统上线提供安全赋能](https://sec.thief.one/article_content?a_id=da7b8071315719b1f18f465fe957eed7) ![](assets/new.png)  
+- [2020-08-20-秘密行动倒计时丨DC86021行动指挥部致全体极客伙伴的一封密信](https://sec.thief.one/article_content?a_id=fd80118481b3e927099487572e1a15ae) ![](assets/new.png)  
+- [2020-08-19-【漏洞通告】深信服终端检测平台EDR远程命令执行漏洞处置手册](https://sec.thief.one/article_content?a_id=2a750b15681a6aae99ec9cbdcd7ccc4c) ![](assets/new.png)  
 - [2020-08-19-漏洞风险提示-|-Apache-Shiro-身份验证绕过漏洞CVE-2020-13933](https://sec.thief.one/article_content?a_id=1d9a10b26ffd03b51475753e0cae23de) ![](assets/new.png)  
 - [2020-08-18-中文版强势开源!这或许是最经典的计算机编程教材...](https://sec.thief.one/article_content?a_id=9caa06e389f71f28ee18f90b65ab0799) ![](assets/new.png)  
 - [2020-08-18-Apache-Dubbo-远程代码执行漏洞CVE-2020-11995](https://sec.thief.one/article_content?a_id=a7cefeabc9c1a8f045cc23ef7f601fd3) ![](assets/new.png)  
@@ -1155,6 +1157,7 @@
 - [2020-08-18-上来直接放0day大招,一天给一个月的活干完了!](https://sec.thief.one/article_content?a_id=9426bf0796551bd45617fb135edde55b) ![](assets/new.png)  
 - [2020-08-18-记一次有趣的APP反编译的过程](https://sec.thief.one/article_content?a_id=14837b2ad1cf82f3abafae3300ff0c11) ![](assets/new.png)  
 - [2020-08-17-2020.8.17红队威胁情报-日更](https://sec.thief.one/article_content?a_id=152bfd080a496e0c0bd2b9874bfdff47) ![](assets/new.png)  
+- [2020-08-17-翻译|系统管理员免费数字取证调查工具TOP20](https://sec.thief.one/article_content?a_id=90fd980e1275b14204298be6dd7fb6d1) ![](assets/new.png)  
 - [2020-08-17-Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80) ![](assets/new.png)  
 - [2020-08-17-SecWiki周刊第337期](https://sec.thief.one/article_content?a_id=19487bdb2f0c3835d087448f65f265bd) ![](assets/new.png)  
 - [2020-08-15-Struts2-S2-059-漏洞分析](https://sec.thief.one/article_content?a_id=1e81e408d726a4c620d3af6f49b8b4df) ![](assets/new.png)  
@@ -1162,9 +1165,6 @@
 - [2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) ![](assets/new.png)  
 - [2020-08-14-CVE-2019-0230:Apache-Struts2远程代码执行漏洞通告](https://sec.thief.one/article_content?a_id=1d627d72a4a6ff90ae9e29871b0db55e) ![](assets/new.png)  
 - [2020-08-13-红队渗透手册之免杀篇](https://sec.thief.one/article_content?a_id=d228e82dbf1bf060bcfd097026dd9efe) ![](assets/new.png)  
-- [2020-08-13-​【安全圈】黑客劫持了YouTube流行频道,以促进比特币诈骗](https://sec.thief.one/article_content?a_id=d988719f07b20e2774b0d54fb4503d3e) ![](assets/new.png)  
-- [2020-08-13-ISC-2020技术日:数字时代加剧网络攻击态势,热议防御新技术锤炼之...](https://sec.thief.one/article_content?a_id=892baf7b4aedc8fd4a6de660165c8fe6) ![](assets/new.png)  
-- [2020-08-13-XXE的一些利用方式](https://sec.thief.one/article_content?a_id=9a9d151ad65b9685b3acc99ddd0b9449) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

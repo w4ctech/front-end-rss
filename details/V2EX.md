@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-20 10:10:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-20 10:19:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-20-macOS-big-surbeta5-更新后-navicat-premium-不能打开了](https://www.v2ex.com/t/700027) 
 - [2020-08-20-想玩玩自走棋消磨下时间，大家有什么建议吗](https://www.v2ex.com/t/700026) 
 - [2020-08-20-上海-招-Python-后端/全栈工程师](https://www.v2ex.com/t/700025) 
 - [2020-08-20-Ubuntu-IP-地址丢失的问题](https://www.v2ex.com/t/700023) 

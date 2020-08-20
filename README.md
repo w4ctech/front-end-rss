@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 08:10:53，:rocket: 更新条数: +3329， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 08:21:34，:rocket: 更新条数: +3329， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-20-请问-MacOS-如何剪切文本内容？](https://www.v2ex.com/t/699986) ![](assets/new.png)  
+- [2020-08-20-远程工作程序员好搞吗？最近招聘了几个远程程序员，效果不是很理想，挨骂了，怪我没培训好](https://www.v2ex.com/t/699985) ![](assets/new.png)  
+- [2020-08-20-人肉翻译-k8s-文档，目前遇到最长的一篇](https://www.v2ex.com/t/699984) ![](assets/new.png)  
+- [2020-08-20-大家看了游戏科学的《黑神话·悟空》的实机演示视频了吗，真的叼！](https://www.v2ex.com/t/699982) ![](assets/new.png)  
 - [2020-08-20-想做个第三方客户端，大家说说做啥好？](https://www.v2ex.com/t/699981) ![](assets/new.png)  
 - [2020-08-20-CODING-仪表盘功能正式推出，实现工作数据可视化！](https://www.v2ex.com/t/699980) ![](assets/new.png)  
 - [2020-08-20-感觉路由器发热变大了](https://www.v2ex.com/t/699979) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-20-SpreadJS-集成-Odoo-提升企业-ERP-表格功能](https://www.v2ex.com/t/699965) ![](assets/new.png)  
 - [2020-08-20-海外远程-测试职位，前端职位](https://www.v2ex.com/t/699964) ![](assets/new.png)  
 - [2020-08-20-数码荔枝又双叒叕出来又当又立啦~~](https://www.v2ex.com/t/699963) ![](assets/new.png)  
-- [2020-08-20-有人遇到-App-Store-联合验证的这个东西吗？](https://www.v2ex.com/t/699962) ![](assets/new.png)  
-- [2020-08-20-问一下各位大佬有没有简单的静态博客的工具](https://www.v2ex.com/t/699961) ![](assets/new.png)  
-- [2020-08-20-房子有了，孩子有了，羡慕人家单身的，可以狼藉天涯，有没有人和我一样看法](https://www.v2ex.com/t/699960) ![](assets/new.png)  
-- [2020-08-20-有了公网-ip，-ESXI-虚拟机控制台也不能远程外网访问？](https://www.v2ex.com/t/699958) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

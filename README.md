@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 10:19:58，:rocket: 更新条数: +3542， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 10:31:32，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-08-20-哈萨克斯坦新增新冠肺炎确诊病例1031例-累计确诊124356例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSAV4tZ5wHC0rGipYmnJI200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-20-陕西新增2例境外输入无症状感染者](http://sxwjw.shaanxi.gov.cn/art/2020/8/20/art_9_72668.html) ![](assets/new.png)  
-- [2020-08-20-习近平：向全国奋战在抗洪抢险救灾一线的同志们致以诚挚问候](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPEOzXMYqnTxtFFPifKjZ200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-20-受疫情影响-澳洲航空2020财年损近20亿澳元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtispbE9HG78A1Rb7JDFwYW200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-20-四川昨日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIEJgHsXSEEy7R6i0empm200820&isfromapp=1) ![](assets/new.png)  
+- [2020-08-20-伊朗新增新冠肺炎确诊病例2279例-累计确诊352558例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEKX53bYPjyI1HHjW2puE200820&isfromapp=1) ![](assets/new.png)  
+- [2020-08-20-印尼新增2266例新冠肺炎确诊病例-累计确诊147211例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMvMuVgWL0DqJ5HsBAGUY200820&isfromapp=1) ![](assets/new.png)  
+- [2020-08-20-香港20日新增18例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJHId45wvvq1xH83ZBqb1200820&isfromapp=1) ![](assets/new.png)  
+- [2020-08-20-俄罗斯新增4785例新冠肺炎确诊病例-累计确诊942106例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixuXy7YGse80GJ8Tu418j200820&isfromapp=1) ![](assets/new.png)  
+- [2020-08-20-德国累计确诊新冠肺炎患者228621例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJltgPOmYBXiEi6DHq04m200820&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
-- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
-- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
-- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
-- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
-- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-20-如果想做个抽奖小程序，在有抽奖助手这种-1-亿用户的体量的前提下，-还有什么可做的吗？](https://www.v2ex.com/t/700029) ![](assets/new.png)  
 - [2020-08-20-macOS-big-surbeta5-更新后-navicat-premium-不能打开了](https://www.v2ex.com/t/700027) ![](assets/new.png)  
 - [2020-08-20-想玩玩自走棋消磨下时间，大家有什么建议吗](https://www.v2ex.com/t/700026) ![](assets/new.png)  
 - [2020-08-20-上海-招-Python-后端/全栈工程师](https://www.v2ex.com/t/700025) ![](assets/new.png)  
@@ -1091,7 +1072,6 @@
 - [2020-08-20-多人如何将各自的-commit-推到同一个-Pull-Request-中](https://www.v2ex.com/t/700005) ![](assets/new.png)  
 - [2020-08-20-window10-更新-浏览器访问-某些网站-直接崩溃，绿屏重启](https://www.v2ex.com/t/700004) ![](assets/new.png)  
 - [2020-08-20-很显然，-v2-的技术话题云计算节点，已经被不懂技术的销售占领了](https://www.v2ex.com/t/700003) ![](assets/new.png)  
-- [2020-08-20-关于不同覆盖率格式的互转](https://www.v2ex.com/t/700000) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

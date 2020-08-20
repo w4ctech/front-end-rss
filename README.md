@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 01:11:06，:rocket: 更新条数: +3313， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 01:21:41，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-20-有没有这样的一个开源系统或者付费系统能够满足这些要求？](https://www.v2ex.com/t/699812) ![](assets/new.png)  
+- [2020-08-20-通达信超前红柱量指标公式，关于股票，有人知道这个公式是什么意思吗？](https://www.v2ex.com/t/699811) ![](assets/new.png)  
+- [2020-08-20-求帮忙查看红帽的解决方案帮助文档](https://www.v2ex.com/t/699810) ![](assets/new.png)  
+- [2020-08-20-关于胃的问题](https://www.v2ex.com/t/699809) ![](assets/new.png)  
+- [2020-08-20-成都爱奇艺招聘-U3D（HC4）、erlang、关卡策划](https://www.v2ex.com/t/699808) ![](assets/new.png)  
+- [2020-08-20-上海蚂蚁金服---金融核心技术部-持续招聘中](https://www.v2ex.com/t/699807) ![](assets/new.png)  
 - [2020-08-20-终于治好了-“切换多个搜索综合症”-了。](https://www.v2ex.com/t/699801) ![](assets/new.png)  
 - [2020-08-20-分享一个不错的网址导航，创意工作者的网址导航](https://www.v2ex.com/t/699800) ![](assets/new.png)  
 - [2020-08-20-十六进制怎么快速计算转成十进制](https://www.v2ex.com/t/699799) ![](assets/new.png)  
@@ -1066,12 +1072,6 @@
 - [2020-08-19-请教一个帝国-CMS-批量替换-的-正则表达式的问题](https://www.v2ex.com/t/699785) ![](assets/new.png)  
 - [2020-08-19-请问转行的人都是怎么找到第一份工作的？](https://www.v2ex.com/t/699784) ![](assets/new.png)  
 - [2020-08-19-quicklogin-全量聚合登录，快速打通用户群-](https://www.v2ex.com/t/699783) ![](assets/new.png)  
-- [2020-08-19-易柚系统不更新了吗？](https://www.v2ex.com/t/699781) ![](assets/new.png)  
-- [2020-08-19-开箱即用的中后台框架还有谁](https://www.v2ex.com/t/699780) ![](assets/new.png)  
-- [2020-08-19-关于电信诈骗，求助](https://www.v2ex.com/t/699779) ![](assets/new.png)  
-- [2020-08-19-有人出-xr-128G-黑色港版-或者美版吗](https://www.v2ex.com/t/699778) ![](assets/new.png)  
-- [2020-08-19-分享深圳微时光的一篇新文章：当一个程序员决定不再-996-式奋斗](https://www.v2ex.com/t/699777) ![](assets/new.png)  
-- [2020-08-19-求各个天光墟的地址，谢了各位老广](https://www.v2ex.com/t/699776) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1115,25 +1115,25 @@
 
 
 - [2020-08-20-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
-- [2020-08-20-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
 - [2020-08-20-关于-Golang-错误处理的一些思考​](https://toutiao.io/k/fuqmwtt) ![](assets/new.png)  
+- [2020-08-20-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
 - [2020-08-20-mit-6.824-学习笔记-二-：GFS-设计-附脑图](https://toutiao.io/k/lxub979) ![](assets/new.png)  
 - [2020-08-20-单元测试，只是测试吗？](https://toutiao.io/k/pveume6) ![](assets/new.png)  
-- [2020-08-20-记一次-Spring-项目打包问题排查](https://toutiao.io/k/v5nc8dk) ![](assets/new.png)  
 - [2020-08-20-前端圈的贫富差距正在拉大？](https://toutiao.io/k/2ufxwgx) ![](assets/new.png)  
+- [2020-08-20-记一次-Spring-项目打包问题排查](https://toutiao.io/k/v5nc8dk) ![](assets/new.png)  
 - [2020-08-20-深度剖析-GitHub-上-15.1k-Star-项目：redux-thunk](https://toutiao.io/k/pyja4h7) ![](assets/new.png)  
 - [2020-08-20-直观解读-KL-散度的数学概念](https://toutiao.io/k/thaa1tn) ![](assets/new.png)  
 - [2020-08-20-OPA-Gatekeeper-策略入门](https://toutiao.io/k/9426ael) ![](assets/new.png)  
 - [2020-08-20-Bitmap-用户分群方法在贝壳-DMP-的实践和应用](https://toutiao.io/k/rgkpykf) ![](assets/new.png)  
 - [2020-08-20-Gitlab-ci：从零开始的前端自动化部署](https://toutiao.io/k/x3mna3p) ![](assets/new.png)  
+- [2020-08-20-我在阿里写代码学会的六件事](https://toutiao.io/k/k7jdi3w) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
-- [2020-08-20-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-20-分布式集群调度框架-Mesos-架构与实现](https://toutiao.io/k/6sj58vw) ![](assets/new.png)  
 - [2020-08-20-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-20-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-20-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
-- [2020-08-20-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
-- [2020-08-20-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
+- [2020-08-20-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
 - [2020-08-20-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
+- [2020-08-20-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-20-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

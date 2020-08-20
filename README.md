@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 18:22:26，:rocket: 更新条数: +3326， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 18:31:35，:rocket: 更新条数: +3326， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1122,8 +1122,8 @@
 - [2020-08-20-我在阿里写代码学会的六件事](https://toutiao.io/k/k7jdi3w) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
 - [2020-08-20-前端圈的贫富差距正在拉大？](https://toutiao.io/k/2ufxwgx) ![](assets/new.png)  
-- [2020-08-20-记一次-Spring-项目打包问题排查](https://toutiao.io/k/v5nc8dk) ![](assets/new.png)  
 - [2020-08-20-MIT-6.824-学习笔记（二）：GFS-设计（附脑图）](https://toutiao.io/k/lxub979) ![](assets/new.png)  
+- [2020-08-20-记一次-Spring-项目打包问题排查](https://toutiao.io/k/v5nc8dk) ![](assets/new.png)  
 - [2020-08-20-深度剖析-GitHub-上-15.1k-Star-项目：redux-thunk](https://toutiao.io/k/pyja4h7) ![](assets/new.png)  
 - [2020-08-20-直观解读-KL-散度的数学概念](https://toutiao.io/k/thaa1tn) ![](assets/new.png)  
 - [2020-08-20-OPA-Gatekeeper-策略入门](https://toutiao.io/k/9426ael) ![](assets/new.png)  

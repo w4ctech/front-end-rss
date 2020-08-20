@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 08:22:42，:rocket: 更新条数: +3329， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 08:31:27，:rocket: 更新条数: +3328， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -715,9 +715,9 @@
 </summary>
 
 
+- [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html) ![](assets/new.png)  
 - [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html) ![](assets/new.png)  
 - [2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html) ![](assets/new.png)  
-- [2020-08-10-只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-20-原来都一样，-Google-Gmail-Drive-等-1-点左右就挂了，到现在还未修复。](https://www.v2ex.com/t/699990) ![](assets/new.png)  
+- [2020-08-20-你租房更喜欢独居还是群居？](https://www.v2ex.com/t/699988) ![](assets/new.png)  
+- [2020-08-20-如何使用-Spring-Boot-来管理-Maven-plugin-的版本？](https://www.v2ex.com/t/699987) ![](assets/new.png)  
 - [2020-08-20-请问-MacOS-如何剪切文本内容？](https://www.v2ex.com/t/699986) ![](assets/new.png)  
 - [2020-08-20-远程工作程序员好搞吗？最近招聘了几个远程程序员，效果不是很理想，挨骂了，怪我没培训好](https://www.v2ex.com/t/699985) ![](assets/new.png)  
 - [2020-08-20-人肉翻译-k8s-文档，目前遇到最长的一篇](https://www.v2ex.com/t/699984) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-20-上海求独当一面的-Java-工程师~](https://www.v2ex.com/t/699968) ![](assets/new.png)  
 - [2020-08-20-骑士卡有实际用处吗？会不会是智商税](https://www.v2ex.com/t/699967) ![](assets/new.png)  
 - [2020-08-20-Mac-有没有什么软件批量提起视频里面的音频](https://www.v2ex.com/t/699966) ![](assets/new.png)  
-- [2020-08-20-SpreadJS-集成-Odoo-提升企业-ERP-表格功能](https://www.v2ex.com/t/699965) ![](assets/new.png)  
-- [2020-08-20-海外远程-测试职位，前端职位](https://www.v2ex.com/t/699964) ![](assets/new.png)  
-- [2020-08-20-数码荔枝又双叒叕出来又当又立啦~~](https://www.v2ex.com/t/699963) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

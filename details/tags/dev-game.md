@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-20 10:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-20 11:02:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -9,4 +9,3 @@
 
 - [2020-08-11-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/3730a93bc041ddb6d24663ae9640e4c0) 
 - [2020-08-19-苹果报复腾讯持股游戏商：全面封杀Epic-Games，祸及大量开发者](https://www.ershicimi.com/p/2b13a0a3c8e29ed8f24bfe731e5d1a42) 
-- [2020-08-20-大家看了游戏科学的《黑神话·悟空》的实机演示视频了吗，真的叼！](https://www.v2ex.com/t/699982) 

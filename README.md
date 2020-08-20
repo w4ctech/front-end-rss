@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 10:48:12，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 11:02:33，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-20-世界卫生组织欧洲办事处：欧洲新冠肺炎疫情再呈上升趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXdamZdvFkPdnB7RQf9cQ200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-伊朗新增新冠肺炎确诊病例2279例-累计确诊352558例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEKX53bYPjyI1HHjW2puE200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-印尼新增2266例新冠肺炎确诊病例-累计确诊147211例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMvMuVgWL0DqJ5HsBAGUY200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-香港20日新增18例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJHId45wvvq1xH83ZBqb1200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-俄罗斯新增4785例新冠肺炎确诊病例-累计确诊942106例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixuXy7YGse80GJ8Tu418j200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-20-德国累计确诊新冠肺炎患者228621例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJltgPOmYBXiEi6DHq04m200820&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-20-实习期没到离职,简历要不要写这段工作经历](https://www.v2ex.com/t/700034) ![](assets/new.png)  
+- [2020-08-20-我为什么用-nas](https://www.v2ex.com/t/700033) ![](assets/new.png)  
+- [2020-08-20-如果-SSL-被强制更换你还会使用吗？](https://www.v2ex.com/t/700032) ![](assets/new.png)  
 - [2020-08-20-Linux-里的-timedatectl-这个命令工具的源码，从哪儿看？-谢谢](https://www.v2ex.com/t/700031) ![](assets/new.png)  
 - [2020-08-20-如果想做个抽奖小程序，在有抽奖助手这种-1-亿用户的体量的前提下，-还有什么可做的吗？](https://www.v2ex.com/t/700029) ![](assets/new.png)  
 - [2020-08-20-macOS-big-surbeta5-更新后-navicat-premium-不能打开了](https://www.v2ex.com/t/700027) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-20-译-看看-Segment-团队如何自动化他们的基础架构以赋能工程师！](https://www.v2ex.com/t/700009) ![](assets/new.png)  
 - [2020-08-20-各位-V-友，求个解决连续范围的问题。](https://www.v2ex.com/t/700008) ![](assets/new.png)  
 - [2020-08-20-PC-发出-http-请求是先去局域网内-dns-服务器还是先去网关呢？](https://www.v2ex.com/t/700007) ![](assets/new.png)  
-- [2020-08-20-坐标：北京·名厨-求·前端开发工程师](https://www.v2ex.com/t/700006) ![](assets/new.png)  
-- [2020-08-20-多人如何将各自的-commit-推到同一个-Pull-Request-中](https://www.v2ex.com/t/700005) ![](assets/new.png)  
-- [2020-08-20-window10-更新-浏览器访问-某些网站-直接崩溃，绿屏重启](https://www.v2ex.com/t/700004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,8 +1124,8 @@
 - [2020-08-20-mit-6.824-学习笔记-二-：GFS-设计-附脑图](https://toutiao.io/k/lxub979) ![](assets/new.png)  
 - [2020-08-20-深度剖析-GitHub-上-15.1k-Star-项目：redux-thunk](https://toutiao.io/k/pyja4h7) ![](assets/new.png)  
 - [2020-08-20-直观解读-KL-散度的数学概念](https://toutiao.io/k/thaa1tn) ![](assets/new.png)  
-- [2020-08-20-OPA-Gatekeeper-策略入门](https://toutiao.io/k/9426ael) ![](assets/new.png)  
 - [2020-08-20-我在阿里写代码学会的六件事](https://toutiao.io/k/k7jdi3w) ![](assets/new.png)  
+- [2020-08-20-OPA-Gatekeeper-策略入门](https://toutiao.io/k/9426ael) ![](assets/new.png)  
 - [2020-08-20-Gitlab-ci：从零开始的前端自动化部署](https://toutiao.io/k/x3mna3p) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
 - [2020-08-20-分布式集群调度框架-Mesos-架构与实现](https://toutiao.io/k/6sj58vw) ![](assets/new.png)  
@@ -1145,6 +1145,8 @@
 </summary>
 
 
+- [2020-08-20-再签某大型国有银行,国舜股份为客户核心业务系统上线提供安全赋能](https://sec.thief.one/article_content?a_id=da7b8071315719b1f18f465fe957eed7) ![](assets/new.png)  
+- [2020-08-19-漏洞风险提示-|-Apache-Shiro-身份验证绕过漏洞CVE-2020-13933](https://sec.thief.one/article_content?a_id=1d9a10b26ffd03b51475753e0cae23de) ![](assets/new.png)  
 - [2020-08-18-中文版强势开源!这或许是最经典的计算机编程教材...](https://sec.thief.one/article_content?a_id=9caa06e389f71f28ee18f90b65ab0799) ![](assets/new.png)  
 - [2020-08-18-Apache-Dubbo-远程代码执行漏洞CVE-2020-11995](https://sec.thief.one/article_content?a_id=a7cefeabc9c1a8f045cc23ef7f601fd3) ![](assets/new.png)  
 - [2020-08-18-一款一键创建攻击机的脚本idea](https://sec.thief.one/article_content?a_id=63c10f92d208cf3cb95cedec43c540fd) ![](assets/new.png)  
@@ -1163,8 +1165,6 @@
 - [2020-08-13-​【安全圈】黑客劫持了YouTube流行频道,以促进比特币诈骗](https://sec.thief.one/article_content?a_id=d988719f07b20e2774b0d54fb4503d3e) ![](assets/new.png)  
 - [2020-08-13-ISC-2020技术日:数字时代加剧网络攻击态势,热议防御新技术锤炼之...](https://sec.thief.one/article_content?a_id=892baf7b4aedc8fd4a6de660165c8fe6) ![](assets/new.png)  
 - [2020-08-13-XXE的一些利用方式](https://sec.thief.one/article_content?a_id=9a9d151ad65b9685b3acc99ddd0b9449) ![](assets/new.png)  
-- [2020-08-13-CodeQL静态代码扫描之实现关联接口、入参、和危险方法并自动化构...](https://sec.thief.one/article_content?a_id=e46b10633c8e881454fc778852cec178) ![](assets/new.png)  
-- [2020-08-13-这世界上10%的人,节日快乐!](https://sec.thief.one/article_content?a_id=85fde09cc98ed34135c804c9bf0ffe9a) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

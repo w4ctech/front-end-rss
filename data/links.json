@@ -12762,6 +12762,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "世界卫生组织欧洲办事处：欧洲新冠肺炎疫情再呈上升趋势",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXdamZdvFkPdnB7RQf9cQ200820&isfromapp=1",
+        "date": "2020-08-20"
+      },
+      {
         "title": "伊朗新增新冠肺炎确诊病例2279例 累计确诊352558例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEKX53bYPjyI1HHjW2puE200820&isfromapp=1",
         "date": "2020-08-20"
@@ -12779,11 +12784,6 @@
       {
         "title": "俄罗斯新增4785例新冠肺炎确诊病例 累计确诊942106例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixuXy7YGse80GJ8Tu418j200820&isfromapp=1",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "德国累计确诊新冠肺炎患者228621例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJltgPOmYBXiEi6DHq04m200820&isfromapp=1",
         "date": "2020-08-20"
       }
     ]
@@ -15914,6 +15914,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "实习期没到离职,简历要不要写这段工作经历",
+        "link": "https://www.v2ex.com/t/700034",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "我为什么用 nas",
+        "link": "https://www.v2ex.com/t/700033",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "如果 SSL 被强制更换你还会使用吗？",
+        "link": "https://www.v2ex.com/t/700032",
+        "date": "2020-08-20"
+      },
+      {
         "title": "Linux 里的 timedatectl 这个命令工具的源码，从哪儿看？ 谢谢",
         "link": "https://www.v2ex.com/t/700031",
         "date": "2020-08-20"
@@ -16076,16 +16091,6 @@
       {
         "title": "远程工作程序员好搞吗？最近招聘了几个远程程序员，效果不是很理想，挨骂了，怪我没培训好",
         "link": "https://www.v2ex.com/t/699985",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "人肉翻译 k8s 文档，目前遇到最长的一篇",
-        "link": "https://www.v2ex.com/t/699984",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "大家看了游戏科学的《黑神话·悟空》的实机演示视频了吗，真的叼！",
-        "link": "https://www.v2ex.com/t/699982",
         "date": "2020-08-20"
       }
     ]
@@ -16253,13 +16258,13 @@
         "date": "2020-08-20"
       },
       {
-        "title": "OPA Gatekeeper 策略入门",
-        "link": "https://toutiao.io/k/9426ael",
+        "title": "我在阿里写代码学会的六件事",
+        "link": "https://toutiao.io/k/k7jdi3w",
         "date": "2020-08-20"
       },
       {
-        "title": "我在阿里写代码学会的六件事",
-        "link": "https://toutiao.io/k/k7jdi3w",
+        "title": "OPA Gatekeeper 策略入门",
+        "link": "https://toutiao.io/k/9426ael",
         "date": "2020-08-20"
       },
       {
@@ -16303,48 +16308,13 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
-        "link": "https://toutiao.io/k/nn7q9kk",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
-        "date": "2020-08-20"
-      },
-      {
         "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
         "link": "https://toutiao.io/k/9ujm1ju",
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 快速入门数据结构和算法",
-        "link": "https://toutiao.io/k/vkyzxyw",
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
         "date": "2020-08-20"
       },
       {
@@ -16358,23 +16328,58 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
         "date": "2020-08-20"
       },
       {
         "title": "[推荐] 图解：通用搜索引擎背后的技术点",
         "link": "https://toutiao.io/k/l5wu4f9",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
+        "link": "https://toutiao.io/k/wtofrd2",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
+        "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-20"
       }
     ]
@@ -16384,6 +16389,16 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "再签某大型国有银行,国舜股份为客户核心业务系统上线提供安全赋能",
+        "link": "https://sec.thief.one/article_content?a_id=da7b8071315719b1f18f465fe957eed7",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "漏洞风险提示 | Apache Shiro 身份验证绕过漏洞(CVE-2020-13933)",
+        "link": "https://sec.thief.one/article_content?a_id=1d9a10b26ffd03b51475753e0cae23de",
+        "date": "2020-08-19"
+      },
       {
         "title": "中文版强势开源!这或许是最经典的计算机编程教材...",
         "link": "https://sec.thief.one/article_content?a_id=9caa06e389f71f28ee18f90b65ab0799",
@@ -16872,16 +16887,6 @@
       {
         "title": "Shiro RememberMe 漏洞检测的探索之路",
         "link": "https://sec.thief.one/article_content?a_id=6a771ac99dd9625b931ab696216ee962",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "随着区块链行业在中国的扩张,行业薪资呈爆炸式增长",
-        "link": "https://sec.thief.one/article_content?a_id=71adb4ba0a3fc90353cf6a78ca99a75c",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "9 招让你的GitHub下载飞速提升到2M/s以上",
-        "link": "https://sec.thief.one/article_content?a_id=2e97edaa0101eca302d6aa4dd2e2f1cf",
         "date": "2020-08-06"
       }
     ]

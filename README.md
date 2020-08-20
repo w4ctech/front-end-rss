@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 03:02:32，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 03:10:04，:rocket: 更新条数: +3316， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-20-受疫情影响-澳洲航空2020财年损近20亿澳元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtispbE9HG78A1Rb7JDFwYW200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-四川昨日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIEJgHsXSEEy7R6i0empm200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-美国护理机构新冠肺炎确诊病例增长迅速](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidmagRPKTHS94Nvb27my7200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-美国新冠肺炎确诊病例累计超551万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti14DrK7cGYQ9bfoCQ4IBQ200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-19-世卫组织：全球新增新冠肺炎确诊病例213391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil7xyUhme06JlfYlByq9j200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-19-世卫组织：全球新冠肺炎确诊病例超过2198万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQnBIrnXId9Eb0rQn8Cw1200820&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-20-你们的电话卡月租是多少？](https://www.v2ex.com/t/699863) ![](assets/new.png)  
+- [2020-08-20-一个开发去运营,大家提提建议](https://www.v2ex.com/t/699862) ![](assets/new.png)  
+- [2020-08-20-面试笔试做不出长整数加法的是不是-coding-能力就基本当没有了？](https://www.v2ex.com/t/699860) ![](assets/new.png)  
 - [2020-08-20-请教数据库怎么设计：字段之间的依赖关系](https://www.v2ex.com/t/699857) ![](assets/new.png)  
 - [2020-08-20-阿里云+腾讯云+华为云高优惠返现](https://www.v2ex.com/t/699856) ![](assets/new.png)  
 - [2020-08-20-在街上被人拍抖音感觉很难受](https://www.v2ex.com/t/699854) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-20-请问怎么找对象](https://www.v2ex.com/t/699838) ![](assets/new.png)  
 - [2020-08-20-米哈游-秋季校招-秋季校招&社招](https://www.v2ex.com/t/699837) ![](assets/new.png)  
 - [2020-08-20-Mac-的“信息”App-如何标记全部已读？](https://www.v2ex.com/t/699836) ![](assets/new.png)  
-- [2020-08-20-请问-k8s-如何将-pod-均匀调度到每个-node-上](https://www.v2ex.com/t/699835) ![](assets/new.png)  
-- [2020-08-20-养了只精分的布偶真可怕](https://www.v2ex.com/t/699833) ![](assets/new.png)  
-- [2020-08-20-阿里云优惠大放送](https://www.v2ex.com/t/699832) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,11 +1129,11 @@
 - [2020-08-20-Gitlab-ci：从零开始的前端自动化部署](https://toutiao.io/k/x3mna3p) ![](assets/new.png)  
 - [2020-08-20-如何避免用动态语言的思维写-Go-代码](https://toutiao.io/k/lmt5cd6) ![](assets/new.png)  
 - [2020-08-20-分布式集群调度框架-Mesos-架构与实现](https://toutiao.io/k/6sj58vw) ![](assets/new.png)  
-- [2020-08-20-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-20-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
-- [2020-08-20-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-20-推荐-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
-- [2020-08-20-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
+- [2020-08-20-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-20-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-20-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
+- [2020-08-20-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

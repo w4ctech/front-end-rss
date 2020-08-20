@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 07:34:44，:rocket: 更新条数: +3326， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 07:46:40，:rocket: 更新条数: +3328， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-20-在这种情况下，试用期被劝退，可以要赔偿吗？](https://www.v2ex.com/t/699974) ![](assets/new.png)  
+- [2020-08-20-记得之前有些改-hosts-文件的方法](https://www.v2ex.com/t/699973) ![](assets/new.png)  
+- [2020-08-20-求推荐类似-RixCloud-的机场,-能够达到-google-ping-<110ms-带宽-500M+](https://www.v2ex.com/t/699972) ![](assets/new.png)  
+- [2020-08-20-内网-dns-解析请求被转发到了远端的代理-server](https://www.v2ex.com/t/699971) ![](assets/new.png)  
+- [2020-08-20-有经营-pdd-的老哥么，求抱团](https://www.v2ex.com/t/699969) ![](assets/new.png)  
+- [2020-08-20-上海求独当一面的-Java-工程师~](https://www.v2ex.com/t/699968) ![](assets/new.png)  
 - [2020-08-20-骑士卡有实际用处吗？会不会是智商税](https://www.v2ex.com/t/699967) ![](assets/new.png)  
 - [2020-08-20-Mac-有没有什么软件批量提起视频里面的音频](https://www.v2ex.com/t/699966) ![](assets/new.png)  
 - [2020-08-20-SpreadJS-集成-Odoo-提升企业-ERP-表格功能](https://www.v2ex.com/t/699965) ![](assets/new.png)  
@@ -1066,12 +1072,6 @@
 - [2020-08-20-怎么看待简历中-redis/Memcached-都拼写错误的人？](https://www.v2ex.com/t/699955) ![](assets/new.png)  
 - [2020-08-20-关于-NextCloud-的一些使用技巧分享和-PHP-读文件的疑问](https://www.v2ex.com/t/699954) ![](assets/new.png)  
 - [2020-08-20-求助-eno1-IP-地址丢失问题](https://www.v2ex.com/t/699953) ![](assets/new.png)  
-- [2020-08-20-有没有简单好用的播放器，有-api-跳到某个进度的那种](https://www.v2ex.com/t/699951) ![](assets/new.png)  
-- [2020-08-20-每天一个找茬小技巧（手动狗头](https://www.v2ex.com/t/699950) ![](assets/new.png)  
-- [2020-08-20-简单做了一个给证件照添加水印的程序](https://www.v2ex.com/t/699948) ![](assets/new.png)  
-- [2020-08-20-企业信息查询插件](https://www.v2ex.com/t/699947) ![](assets/new.png)  
-- [2020-08-20-系统语言英文，-Edge-新标签页显示中文](https://www.v2ex.com/t/699946) ![](assets/new.png)  
-- [2020-08-20-面的央企处于背调阶段正好遇上公司裁员，要走吗还是等等](https://www.v2ex.com/t/699945) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

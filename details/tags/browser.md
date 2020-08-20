@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-20 07:34:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-20 07:46:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-08-19-“杀死”那个-IE-11-浏览器](https://www.ershicimi.com/p/8d90e9c15a75a2ac5926d44af5cb004a) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-08-20-内网-dns-解析请求被转发到了远端的代理-server](https://www.v2ex.com/t/699971) 
 - [2020-08-20-系统语言英文，-Edge-新标签页显示中文](https://www.v2ex.com/t/699946) 
 - [2020-08-20-关于-nginx-转发问题请求](https://www.v2ex.com/t/699942) 
 - [2020-08-20-大侠稍等！URL-中为何出现奇怪的字符-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13695&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F190871446%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

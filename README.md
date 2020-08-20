@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 06:48:33，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 07:02:19，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-08-19-8月19日全国新增境外输入新冠7例-无症状感染者新增22例](https://m.caixin.com/m/2020-08-20/101594707.html) ![](assets/new.png)  
+- [2020-08-19-【境内疫情观察】全国新增7例境外输入病例（8月19日）](http://m.database.caixin.com/m/2020-08-20/101594917.html) ![](assets/new.png)  
 - [2020-08-19-大流行手记|8月19日：英国拟全国筛查无症状感染者-澳大利亚将免费接种疫苗](https://m.caixin.com/m/2020-08-20/101594704.html) ![](assets/new.png)  
 - [2020-08-18-最新海外疫情：新冠感染超2201万-累计死亡超77.6万](http://m.international.caixin.com/m/2020-08-19/101594478.html) ![](assets/new.png)  
 - [2020-08-18-【境内疫情观察】全国新增17例境外输入病例（8月18日）](http://m.database.caixin.com/m/2020-08-19/101594377.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-13-【境内疫情观察】上海新增16例境外输入病例（8月13日）](http://m.database.caixin.com/m/2020-08-14/101592707.html) ![](assets/new.png)  
 - [2020-08-13-大流行手记|8月13日：全球数百人因新冠错误信息死亡-新西兰疑冷库货物输入病毒](https://m.caixin.com/m/2020-08-14/101592513.html) ![](assets/new.png)  
 - [2020-08-13-反思新冠疫情，中疾控原副主任撰文详解传染病预警机制怎么改](https://m.caixin.com/m/2020-08-14/101592909.html) ![](assets/new.png)  
-- [2020-08-13-香港新增病例连续12日保持双位数-疫情蔓延至外佣群体](https://m.caixin.com/m/2020-08-14/101593005.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-20-哈萨克斯坦新增新冠肺炎确诊病例1031例-累计确诊124356例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSAV4tZ5wHC0rGipYmnJI200820&isfromapp=1) ![](assets/new.png)  
+- [2020-08-20-陕西新增2例境外输入无症状感染者](http://sxwjw.shaanxi.gov.cn/art/2020/8/20/art_9_72668.html) ![](assets/new.png)  
 - [2020-08-20-习近平：向全国奋战在抗洪抢险救灾一线的同志们致以诚挚问候](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPEOzXMYqnTxtFFPifKjZ200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-受疫情影响-澳洲航空2020财年损近20亿澳元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtispbE9HG78A1Rb7JDFwYW200820&isfromapp=1) ![](assets/new.png)  
 - [2020-08-20-四川昨日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIEJgHsXSEEy7R6i0empm200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-19-美国护理机构新冠肺炎确诊病例增长迅速](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidmagRPKTHS94Nvb27my7200820&isfromapp=1) ![](assets/new.png)  
-- [2020-08-19-美国新冠肺炎确诊病例累计超551万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti14DrK7cGYQ9bfoCQ4IBQ200820&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-20-收个京东-plus-,带价的来](https://www.v2ex.com/t/699956) ![](assets/new.png)  
+- [2020-08-20-怎么看待简历中-redis/Memcached-都拼写错误的人？](https://www.v2ex.com/t/699955) ![](assets/new.png)  
+- [2020-08-20-关于-NextCloud-的一些使用技巧分享和-PHP-读文件的疑问](https://www.v2ex.com/t/699954) ![](assets/new.png)  
+- [2020-08-20-求助-eno1-IP-地址丢失问题](https://www.v2ex.com/t/699953) ![](assets/new.png)  
 - [2020-08-20-有没有简单好用的播放器，有-api-跳到某个进度的那种](https://www.v2ex.com/t/699951) ![](assets/new.png)  
 - [2020-08-20-每天一个找茬小技巧（手动狗头](https://www.v2ex.com/t/699950) ![](assets/new.png)  
 - [2020-08-20-简单做了一个给证件照添加水印的程序](https://www.v2ex.com/t/699948) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-20-大家基本使用-NAS-的原因是什么](https://www.v2ex.com/t/699936) ![](assets/new.png)  
 - [2020-08-20-有没有玩过健身环大冒险的，真的能减肥吗？](https://www.v2ex.com/t/699935) ![](assets/new.png)  
 - [2020-08-20-群晖里通过-docker-安装的-aria2-怎么通过-ddnsto-远程访问](https://www.v2ex.com/t/699934) ![](assets/new.png)  
-- [2020-08-20-Anker-30W-Gan-PD-快充头可以用来快充-MacBook-吗？](https://www.v2ex.com/t/699932) ![](assets/new.png)  
-- [2020-08-20-借鉴可以借鉴，照搬数码荔枝的产品是什么意思？](https://www.v2ex.com/t/699930) ![](assets/new.png)  
-- [2020-08-20-electron-vue-多窗口同步共享-vuex-数据问题如何解决！求助！](https://www.v2ex.com/t/699929) ![](assets/new.png)  
-- [2020-08-20-社招---热招中-字节跳动---移动-OS-/-教育-/-电商业务，前端-/-客户端-/-服务端-/-测试-/-产品，坐标：北京---中关村](https://www.v2ex.com/t/699927) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

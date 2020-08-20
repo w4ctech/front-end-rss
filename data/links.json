@@ -10,6 +10,11 @@
         "date": "2020-08-19"
       },
       {
+        "title": "【境内疫情观察】全国新增7例境外输入病例（8月19日）",
+        "link": "http://m.database.caixin.com/m/2020-08-20/101594917.html",
+        "date": "2020-08-19"
+      },
+      {
         "title": "大流行手记|8月19日：英国拟全国筛查无症状感染者 澳大利亚将免费接种疫苗",
         "link": "https://m.caixin.com/m/2020-08-20/101594704.html",
         "date": "2020-08-19"
@@ -12757,6 +12762,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "哈萨克斯坦新增新冠肺炎确诊病例1031例 累计确诊124356例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSAV4tZ5wHC0rGipYmnJI200820&isfromapp=1",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "陕西新增2例境外输入无症状感染者",
+        "link": "http://sxwjw.shaanxi.gov.cn/art/2020/8/20/art_9_72668.html",
+        "date": "2020-08-20"
+      },
+      {
         "title": "习近平：向全国奋战在抗洪抢险救灾一线的同志们致以诚挚问候",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPEOzXMYqnTxtFFPifKjZ200820&isfromapp=1",
         "date": "2020-08-20"
@@ -12770,16 +12785,6 @@
         "title": "四川昨日新增1例境外输入确诊病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIEJgHsXSEEy7R6i0empm200820&isfromapp=1",
         "date": "2020-08-20"
-      },
-      {
-        "title": "美国护理机构新冠肺炎确诊病例增长迅速",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidmagRPKTHS94Nvb27my7200820&isfromapp=1",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "美国新冠肺炎确诊病例累计超551万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti14DrK7cGYQ9bfoCQ4IBQ200820&isfromapp=1",
-        "date": "2020-08-19"
       }
     ]
   },
@@ -15909,6 +15914,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "收个京东 plus ,带价的来",
+        "link": "https://www.v2ex.com/t/699956",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "怎么看待简历中 redis/Memcached 都拼写错误的人？",
+        "link": "https://www.v2ex.com/t/699955",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "关于 NextCloud 的一些使用技巧分享和 PHP 读文件的疑问",
+        "link": "https://www.v2ex.com/t/699954",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[求助] eno1 IP 地址丢失问题",
+        "link": "https://www.v2ex.com/t/699953",
+        "date": "2020-08-20"
+      },
+      {
         "title": "有没有简单好用的播放器，有 api 跳到某个进度的那种",
         "link": "https://www.v2ex.com/t/699951",
         "date": "2020-08-20"
@@ -16061,31 +16086,6 @@
       {
         "title": "迄今为止最大的单机游戏是什么？",
         "link": "https://www.v2ex.com/t/699907",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[急招] [阿里巴巴][北京] [优酷] iOS 开发人员 急招! 急招! 急招! 急招!",
-        "link": "https://www.v2ex.com/t/699906",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "推荐一个通过输入关键词文本寻找切换窗口的软件",
-        "link": "https://www.v2ex.com/t/699905",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "工作一年想裸辞，我到底该怎么办？",
-        "link": "https://www.v2ex.com/t/699904",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "怎么从一句文字描述做分类？求机器学习的兄弟指点方案",
-        "link": "https://www.v2ex.com/t/699903",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "低价出售京东 plus 腾讯网易唯品会奇迹小说西贝等年卡会员",
-        "link": "https://www.v2ex.com/t/699902",
         "date": "2020-08-20"
       }
     ]
@@ -16303,43 +16303,8 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/9ujm1ju",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
+        "title": "[推荐] 字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
         "date": "2020-08-20"
       },
       {
@@ -16348,8 +16313,18 @@
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
         "date": "2020-08-20"
       },
       {
@@ -16358,23 +16333,48 @@
         "date": "2020-08-20"
       },
       {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
+        "date": "2020-08-20"
+      },
+      {
         "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
         "link": "https://toutiao.io/k/jax48ch",
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
         "date": "2020-08-20"
       },
       {
-        "title": "[推荐] 字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
+        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
+        "link": "https://toutiao.io/k/wtofrd2",
         "date": "2020-08-20"
       }
     ]

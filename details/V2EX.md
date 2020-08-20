@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-08-20 14:03:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-20 14:12:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-20-投了两周简历,-一个面试邀请都没有,-大佬们能帮我-review-下简历吗,-3-年-Android](https://www.v2ex.com/t/700075) 
+- [2020-08-20-微信小商店全量开放，号称「人人都可成商家」](https://www.v2ex.com/t/700074) 
+- [2020-08-20-听说这就是-iPhone12-的外观了，你们喜欢吗？重回硌手的直角边框了，反正我是喜欢的-旺柴](https://www.v2ex.com/t/700073) 
+- [2020-08-20-上海比心陪练招聘前端！😆👏🏻🎉](https://www.v2ex.com/t/700071) 
+- [2020-08-20-VMware-Fusion-12-发布啦，支持-big-sur，关键个人还免费。](https://www.v2ex.com/t/700070) 
 - [2020-08-20-AirPods-Pro-第三方耳塞求推荐](https://www.v2ex.com/t/700069) 
 - [2020-08-20-求大佬推荐实惠套餐的联通手机卡](https://www.v2ex.com/t/700068) 
 - [2020-08-20-求推荐轻量级的容器管理解决方案](https://www.v2ex.com/t/700067) 
@@ -42,8 +47,3 @@
 - [2020-08-20-如果想做个抽奖小程序，在有抽奖助手这种-1-亿用户的体量的前提下，-还有什么可做的吗？](https://www.v2ex.com/t/700029) 
 - [2020-08-20-macOS-big-surbeta5-更新后-navicat-premium-不能打开了](https://www.v2ex.com/t/700027) 
 - [2020-08-20-想玩玩自走棋消磨下时间，大家有什么建议吗](https://www.v2ex.com/t/700026) 
-- [2020-08-20-上海-招-Python-后端/全栈工程师](https://www.v2ex.com/t/700025) 
-- [2020-08-20-Ubuntu-IP-地址丢失的问题](https://www.v2ex.com/t/700023) 
-- [2020-08-20-matplotlib-画的图怎么自适应窗口大小](https://www.v2ex.com/t/700022) 
-- [2020-08-20-<漫画堂>上海&广州诚聘-Android/-PHP-工程师~](https://www.v2ex.com/t/700021) 
-- [2020-08-20-COD17-的预告片真的太有意思啦](https://www.v2ex.com/t/700020) 

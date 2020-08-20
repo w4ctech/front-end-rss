@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-20 14:03:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-20 14:12:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-08-19-“杀死”那个-IE-11-浏览器](https://www.ershicimi.com/p/8d90e9c15a75a2ac5926d44af5cb004a) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-08-20-投了两周简历,-一个面试邀请都没有,-大佬们能帮我-review-下简历吗,-3-年-Android](https://www.v2ex.com/t/700075) 
 - [2020-08-20-nginx-如何配置将多个域名的所有请求跳转到各自首页?](https://www.v2ex.com/t/700046) 
 - [2020-08-20-Edge-浏览器没有建议密码的功能？](https://www.v2ex.com/t/700043) 
 - [2020-08-20-Chromebook-貌似又企业锁，怎么破？](https://www.v2ex.com/t/700036) 

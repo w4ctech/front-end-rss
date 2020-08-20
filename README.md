@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-20 04:02:37，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-20 04:10:53，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-20-写的-Asynico-协程并发始终运行不起来,总是按顺序一个个执行](https://www.v2ex.com/t/699895) ![](assets/new.png)  
 - [2020-08-20-大佬们，试用期快结束了，走还是不走](https://www.v2ex.com/t/699894) ![](assets/new.png)  
 - [2020-08-20-求助：-secureCRT-中的仿真设置遇到问题](https://www.v2ex.com/t/699893) ![](assets/new.png)  
 - [2020-08-20-折腾-NAS-丢失大量珍贵数据后有感](https://www.v2ex.com/t/699891) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-20-老旧小区改造，作为租户怎么维护自己的权益？](https://www.v2ex.com/t/699873) ![](assets/new.png)  
 - [2020-08-20-内推-爱奇艺-社招-测试类岗位](https://www.v2ex.com/t/699872) ![](assets/new.png)  
 - [2020-08-20-“允许”应该怎么读？](https://www.v2ex.com/t/699871) ![](assets/new.png)  
-- [2020-08-20-印象笔记吃相也太难看了，思维导图大纲模式连高级账户都不给用？](https://www.v2ex.com/t/699870) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

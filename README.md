@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 03:21:59，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 03:31:34，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-21-请教一下，-Java-在程序中调用第三方包时如何防止第三方包出错导致-jvm-崩溃导致整个程序停止运行](https://www.v2ex.com/t/700190) ![](assets/new.png)  
 - [2020-08-21-女朋友觉得我写的告白代码不浪漫，要跟我分手，我该不该挽回？](https://www.v2ex.com/t/700189) ![](assets/new.png)  
 - [2020-08-21-C++打包这个项目报错](https://www.v2ex.com/t/700188) ![](assets/new.png)  
 - [2020-08-21-有大佬遇到过-audio-标签-src-有值-但是无法播放的问题吗](https://www.v2ex.com/t/700187) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-21-字节跳动北京-⚡️商业变现平台-前端⚡️火热社招⚡️](https://www.v2ex.com/t/700167) ![](assets/new.png)  
 - [2020-08-21-拼多多砍价要拉多少人才能成功](https://www.v2ex.com/t/700166) ![](assets/new.png)  
 - [2020-08-21-社招---热招中-字节跳动---移动-OS-/-教育-/-电商业务，前端-/-客户端-/-服务端-/-测试-/-产品，坐标：北京---中关村](https://www.v2ex.com/t/700164) ![](assets/new.png)  
-- [2020-08-21-这个社会真是人善被人欺](https://www.v2ex.com/t/700162) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

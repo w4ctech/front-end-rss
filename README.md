@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 14:21:51，:rocket: 更新条数: +3336， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 14:31:25，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-21-《社恐之歌》](https://www.v2ex.com/t/700381) ![](assets/new.png)  
 - [2020-08-21-2020-年-8-月-MacBook-Pro-近期会更新吗？你等吗？谈谈这个时间点购买-16-寸-MBP-的一些事。q](https://www.v2ex.com/t/700380) ![](assets/new.png)  
 - [2020-08-21-请教-multiprocessing-问题，在-window7-下运行可以正常打印，-ubuntu-运行一会就卡死了。](https://www.v2ex.com/t/700378) ![](assets/new.png)  
 - [2020-08-21-Macbook-Air-值不值得买？](https://www.v2ex.com/t/700376) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-21-officer-我这边可以提供帮助](https://www.v2ex.com/t/700360) ![](assets/new.png)  
 - [2020-08-21-Oray-向日葵能远程控制工作站上的-VMware-虚拟机吗？](https://www.v2ex.com/t/700358) ![](assets/new.png)  
 - [2020-08-21-想问下大佬们-8g-的-MacBook-Pro13-日常使用情况](https://www.v2ex.com/t/700357) ![](assets/new.png)  
-- [2020-08-21-#首发-#开源-钉钉-Golang-sdk-附六大神器](https://www.v2ex.com/t/700356) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

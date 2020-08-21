@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-21 14:21:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 14:31:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-21-《社恐之歌》](https://www.v2ex.com/t/700381) 
 - [2020-08-21-2020-年-8-月-MacBook-Pro-近期会更新吗？你等吗？谈谈这个时间点购买-16-寸-MBP-的一些事。q](https://www.v2ex.com/t/700380) 
 - [2020-08-21-请教-multiprocessing-问题，在-window7-下运行可以正常打印，-ubuntu-运行一会就卡死了。](https://www.v2ex.com/t/700378) 
 - [2020-08-21-Macbook-Air-值不值得买？](https://www.v2ex.com/t/700376) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 08:33:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 08:46:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -21,5 +21,4 @@
 - [2020-08-21-如何让你的Nginx-提升10倍性能？](https://www.ershicimi.com/p/f6a7fffad06ba4c4d6c9555e2aca00bb) 
 - [2020-08-20-Web翻译开始分析运行时性能](https://juejin.im/post/6863009658974683144) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2020-08-21-我感觉-Win10-的-UI-设计在退步，很多-UWP-应用也很丑，性能也在下降，是我一个人这样感觉吗？](https://www.v2ex.com/t/700263) 
 - [2020-08-21-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) 

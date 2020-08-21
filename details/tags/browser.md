@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 12:48:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 13:02:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,7 @@
 - [2020-08-21-大侠稍等！URL-中为何出现奇怪的字符-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13695&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F190871446%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-21-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
 - [2020-08-21-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
+- [2020-08-21-【安全热点周报】第156期:被列入美国“实体名单”的企业禁止使用...](https://sec.thief.one/article_content?a_id=25fbfef3add42ab624ef4167dd7c2734) 
 - [2020-08-20-再签某大型国有银行,国舜股份为客户核心业务系统上线提供安全赋能](https://sec.thief.one/article_content?a_id=da7b8071315719b1f18f465fe957eed7) 
 - [2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) 
 - [2020-08-13-​【安全圈】黑客劫持了YouTube流行频道,以促进比特币诈骗](https://sec.thief.one/article_content?a_id=d988719f07b20e2774b0d54fb4503d3e) 
@@ -64,4 +65,3 @@
 - [2020-08-07-交行、招行分别被罚100万:对客户个人信息未尽安全保护义务](https://sec.thief.one/article_content?a_id=a901750498cf374bb1d51b7ae4cd3f58) 
 - [2020-08-06-四年磨一剑,腾讯安全联合实验室最强战绩一览](https://sec.thief.one/article_content?a_id=fb2693044377f81dfece6ed5830f9d3b) 
 - [2020-08-06-处理公告丨2020年7月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=73f0f134e055101565f4b6fc4f9359be) 
-- [2020-08-06-国舜股份携手某综合性国有物流企业,赋能Web应用安全防护](https://sec.thief.one/article_content?a_id=6862b300a581857f1ded538fdd2ea9c3) 

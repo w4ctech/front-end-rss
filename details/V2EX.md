@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-08-21 01:33:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 01:46:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-21-如何理解私有云和公有云？](https://www.v2ex.com/t/700143) 
+- [2020-08-21-三家个异地公司最适合的互连方式？](https://www.v2ex.com/t/700142) 
+- [2020-08-21-dart-中有类似-ts,js-的-@type-{'string1'|'string2'}-的自定义数据类型吗?](https://www.v2ex.com/t/700141) 
+- [2020-08-21-Mac-上的提醒软件](https://www.v2ex.com/t/700140) 
+- [2020-08-21-Notion？自建-Confluence？拿什么拯救你我的印象笔记](https://www.v2ex.com/t/700139) 
+- [2020-08-21-Android-通过摄像头如何实现手势感应功能](https://www.v2ex.com/t/700138) 
 - [2020-08-21-16-寸的-mbp-是不是有问题？](https://www.v2ex.com/t/700136) 
 - [2020-08-21-吐槽一下-Java-JRE-的源码可读性有点差](https://www.v2ex.com/t/700135) 
 - [2020-08-21-阿里云折上折优惠大放送](https://www.v2ex.com/t/700134) 
@@ -42,8 +48,3 @@
 - [2020-08-20-喜马拉雅“买-1-得-13”活动是大数据杀熟吗？](https://www.v2ex.com/t/700096) 
 - [2020-08-20-卑微民警在线求助使用-Python-的-excel-数据分析](https://www.v2ex.com/t/700095) 
 - [2020-08-20-安卓-Tim-最新版-V-3.1.1.2900-浏览图片不能回退](https://www.v2ex.com/t/700094) 
-- [2020-08-20-还有人在用-iPad-mini2-的吗？请问如何续命？](https://www.v2ex.com/t/700093) 
-- [2020-08-20-github-下载-zip-格式的仓库的功能好像没用了？](https://www.v2ex.com/t/700092) 
-- [2020-08-20-天天被老板习惯性-pua-你们会选择离开吗？](https://www.v2ex.com/t/700090) 
-- [2020-08-20-QNET：-APP-弱网络测试专家](https://www.v2ex.com/t/700088) 
-- [2020-08-20-pve-下直通-uhd630-硬解的问题](https://www.v2ex.com/t/700087) 

@@ -14601,7 +14601,108 @@
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10108",
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
-    "items": []
+    "items": [
+      {
+        "title": "20k以上面试必问，Webpack原理和优化",
+        "link": "https://www.ershicimi.com/p/5379364f157c9bf33acff139cea6f1b3",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "手写webpack核心原理，再也不怕面试官问我webpack原理",
+        "link": "https://www.ershicimi.com/p/d96f15cd91f30f9344c1f816d325ae6e",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "如何制定企业级代码规范与检查",
+        "link": "https://www.ershicimi.com/p/c84427dbedf800d6645fcaf10f3fa2db",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "不要成为只会JS，不会写CSS的“伪前端”！",
+        "link": "https://www.ershicimi.com/p/694b31fe14a82e07d81b3d8837cd8cda",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "苹果营销页中的交互动画，见证CSS的魔力",
+        "link": "https://www.ershicimi.com/p/d922b4eb0ca34752fab50887420f1cf7",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "15个免费学习JavaScript的最佳网站",
+        "link": "https://www.ershicimi.com/p/9985de8408860a473725642a4b1ddf0b",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "你可能需要一个优质 前端Node 交流群",
+        "link": "https://www.ershicimi.com/p/6c29dd30e4979644fd5e458c47f7699f",
+        "date": "2020-08-15"
+      },
+      {
+        "title": "你应该知道的一些JS数组技巧",
+        "link": "https://www.ershicimi.com/p/52b7b15d5581137e7c761f7b2f2b9fd0",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "使用Vue创建一个分页组件",
+        "link": "https://www.ershicimi.com/p/de44a870309e9db91964511f2f2bcb02",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "这 2 个坏习惯，让你离大厂越来越远",
+        "link": "https://www.ershicimi.com/p/cb6be2563b3c79ea671ec0486006c539",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "使用 JavaScript 编写更好的条件语句",
+        "link": "https://www.ershicimi.com/p/74ba6cbb5e0e285be05a3bb84336fe27",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "【资讯】Node v14.8.0 发布，支持Top Level Await",
+        "link": "https://www.ershicimi.com/p/c25b6b9a7363afff9348a5e2591035e5",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "用（Node+MongoDB）搭建简单的图床或者网盘",
+        "link": "https://www.ershicimi.com/p/1580806542907ddbaeebddd0a4f582b0",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Node.js 进阶之 fs 文件模块学习",
+        "link": "https://www.ershicimi.com/p/d1ef4d94506b4cee89f625b399f7410a",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "面试时行云流水仍被拒，人工智能的hr究竟喜欢什么样的求职者？",
+        "link": "https://www.ershicimi.com/p/df647458c56044b6907989dfa5d13502",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "Node.js - 200 多行代码实现 Websocket 协议",
+        "link": "https://www.ershicimi.com/p/8ef2e8b38849932dc70b7afccac95337",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "一文读懂 Web 安全（面试必备）",
+        "link": "https://www.ershicimi.com/p/8be36c891f65a4d2916708db74fac164",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "手把手教你如何实现大量图片的自适应图片页面的排列",
+        "link": "https://www.ershicimi.com/p/2b8ef8a957b0a8b429917fafe7908ce6",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "了解 JS 压缩图片，这一篇就够了",
+        "link": "https://www.ershicimi.com/p/a9e2fd82597c2b2059f897c1bca9c667",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "图解 Vue 响应式原理",
+        "link": "https://www.ershicimi.com/p/eb9ef1a29cc963deb245295634fd09b8",
+        "date": "2020-08-09"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10545",
@@ -15859,6 +15960,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "emmm 没太能理解, 为啥我用 postgres 的 dbowner 去访问库中的表，还是没权限",
+        "link": "https://www.v2ex.com/t/700398",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "彩虹屁老婆插件这个名字太俗气了吗？不🙅‍♂️，那些波涛汹涌的老婆模型才真的羞 xi 耻 huan 呢！",
+        "link": "https://www.v2ex.com/t/700397",
+        "date": "2020-08-21"
+      },
+      {
         "title": "你们会每天刷完牙后用漱口水吗？",
         "link": "https://www.v2ex.com/t/700396",
         "date": "2020-08-21"
@@ -16056,16 +16167,6 @@
       {
         "title": "xxx K 付费找人弄 zabbix 监控 oracle 的东西，环境都有",
         "link": "https://www.v2ex.com/t/700349",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[leetcode/lintcode 题解] 背包问题",
-        "link": "https://www.v2ex.com/t/700348",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "求教一个 pandas 赋值失败的问题， pandas 赋值机制到底是怎么回事...",
-        "link": "https://www.v2ex.com/t/700347",
         "date": "2020-08-21"
       }
     ]
@@ -16283,63 +16384,13 @@
         "date": "2020-08-21"
       },
       {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/9ujm1ju",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
-        "link": "https://toutiao.io/k/lmtdqk1",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] HBase/TiDB 都在用的数据结构：LSM Tree，不得了解一下？",
-        "link": "https://toutiao.io/k/v90if5y",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] ​Linux CPU 性能优化指南",
-        "link": "https://toutiao.io/k/e6zbho6",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
-        "link": "https://toutiao.io/k/kumhh9k",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
+        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
+        "link": "https://toutiao.io/k/wtofrd2",
         "date": "2020-08-21"
       },
       {
         "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
         "link": "https://toutiao.io/k/n1da8v7",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
         "date": "2020-08-21"
       },
       {
@@ -16353,8 +16404,58 @@
         "date": "2020-08-21"
       },
       {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] ​Linux CPU 性能优化指南",
+        "link": "https://toutiao.io/k/e6zbho6",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] HBase/TiDB 都在用的数据结构：LSM Tree，不得了解一下？",
+        "link": "https://toutiao.io/k/v90if5y",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
         "date": "2020-08-21"
       }
     ]

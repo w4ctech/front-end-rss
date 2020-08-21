@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 09:02:41，:rocket: 更新条数: +3336， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 09:10:18，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1058,6 +1058,9 @@
 </summary>
 
 
+- [2020-08-21-有没有朋友知道-Speedtest-洛杉矶测速节点-的-2-degrees-机房在哪-?-直连晚高峰都能到-200-兆-？](https://www.v2ex.com/t/700322) ![](assets/new.png)  
+- [2020-08-21-在不保存所有变量的情况下如何算出方差？](https://www.v2ex.com/t/700321) ![](assets/new.png)  
+- [2020-08-21-QQ-邮箱又出现什么重大漏洞了吗？](https://www.v2ex.com/t/700319) ![](assets/new.png)  
 - [2020-08-21-请教下,-统招在职研究生应聘大厂有希望吗](https://www.v2ex.com/t/700317) ![](assets/new.png)  
 - [2020-08-21-终极广告拦截者软件](https://www.v2ex.com/t/700316) ![](assets/new.png)  
 - [2020-08-21-node-多进程，进程数与性能-线图](https://www.v2ex.com/t/700314) ![](assets/new.png)  
@@ -1075,9 +1078,6 @@
 - [2020-08-21-吐槽一下京东配送](https://www.v2ex.com/t/700299) ![](assets/new.png)  
 - [2020-08-21-MacOS-10.15-上的-Safari-访问-SMZDM-时，很多图片显示不出来](https://www.v2ex.com/t/700298) ![](assets/new.png)  
 - [2020-08-21-crud-模板方法](https://www.v2ex.com/t/700297) ![](assets/new.png)  
-- [2020-08-21-吐槽一下-iPhone-的导航](https://www.v2ex.com/t/700296) ![](assets/new.png)  
-- [2020-08-21-知网上-airplay-和-dlna-的两篇论文，谁能帮忙下载下](https://www.v2ex.com/t/700294) ![](assets/new.png)  
-- [2020-08-21-自己换了一个触摸板。。。](https://www.v2ex.com/t/700293) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

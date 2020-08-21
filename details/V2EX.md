@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-21 01:02:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 01:10:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-21-大佬们我这个简历可以帮忙-review-一下吗....准大四打算找数据分析或物联网的工作（非科班自学的有点难搞）](https://www.v2ex.com/t/700126) 
 - [2020-08-21-大家有什么好玩好用的站可以推荐](https://www.v2ex.com/t/700125) 
 - [2020-08-21-为什么-MyBatis-Plus-不使用-Java-Persistence-API-的注解?](https://www.v2ex.com/t/700124) 
 - [2020-08-21-Google-Drive-团队盘是否合适用于数据备份？](https://www.v2ex.com/t/700123) 
@@ -46,6 +47,3 @@
 - [2020-08-20-如何构造-v1-和-v2-才能读取到-1.txt](https://www.v2ex.com/t/700081) 
 - [2020-08-20-iPhone-11-怎么开启激活锁？](https://www.v2ex.com/t/700080) 
 - [2020-08-20-diskgenius-扩容-uefi-引导区失败无法进系统，这数据还有救吗？](https://www.v2ex.com/t/700079) 
-- [2020-08-20-ios14-线刷问题](https://www.v2ex.com/t/700078) 
-- [2020-08-20-爱奇艺---用户运营实习生（直接招聘，简历合适直接进入面试流程，流程快）](https://www.v2ex.com/t/700077) 
-- [2020-08-20-管理员已阻止你运行此应用怎样解决-www](https://www.v2ex.com/t/700076) 

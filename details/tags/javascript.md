@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 14:31:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 14:33:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -84,7 +84,6 @@
 - [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) 
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-08-16-如何优雅的实现-try/catch-异常块？](https://www.ershicimi.com/p/4d07bb54af3631bf208bd408c7cd21d9) 
-- [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) 
 - [2020-08-20-JS引擎（一）：JS中的JIT与基本执行逻辑](https://juejin.im/post/6863269040300032008) 
 - [2020-08-20-重学前端-ES6+新特性总结](https://juejin.im/post/6863266417194565645) 
 - [2020-08-20-JavaScript中的对象有哪些？（上）](https://juejin.im/post/6863123244988399630) 

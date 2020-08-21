@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 02:33:25，:rocket: 更新条数: +3540， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 02:46:32，:rocket: 更新条数: +3544， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,11 @@
 </summary>
 
 
+- [2020-08-21-求推荐鼠标垫，鼠标是-mx-master-3](https://www.v2ex.com/t/700171) ![](assets/new.png)  
+- [2020-08-21-win10-2004-版本现在稳定吗，是否可以升级，官方没推送打算用易升](https://www.v2ex.com/t/700169) ![](assets/new.png)  
+- [2020-08-21-微信小商店个人可以开了，将来会不会是一个小风口，开发者可以做什么？](https://www.v2ex.com/t/700168) ![](assets/new.png)  
+- [2020-08-21-字节跳动北京-⚡️商业变现平台-前端⚡️火热社招⚡️](https://www.v2ex.com/t/700167) ![](assets/new.png)  
+- [2020-08-21-拼多多砍价要拉多少人才能成功](https://www.v2ex.com/t/700166) ![](assets/new.png)  
 - [2020-08-21-社招---热招中-字节跳动---移动-OS-/-教育-/-电商业务，前端-/-客户端-/-服务端-/-测试-/-产品，坐标：北京---中关村](https://www.v2ex.com/t/700164) ![](assets/new.png)  
 - [2020-08-21-外包-桌面应用开发](https://www.v2ex.com/t/700163) ![](assets/new.png)  
 - [2020-08-21-这个社会真是人善被人欺](https://www.v2ex.com/t/700162) ![](assets/new.png)  
@@ -1087,11 +1092,6 @@
 - [2020-08-21-android7.0+-调用-libusb1.0.20-问题](https://www.v2ex.com/t/700146) ![](assets/new.png)  
 - [2020-08-21-为什么发不了帖回不了帖](https://www.v2ex.com/t/700145) ![](assets/new.png)  
 - [2020-08-21-如何理解私有云和公有云？](https://www.v2ex.com/t/700143) ![](assets/new.png)  
-- [2020-08-21-三家个异地公司最适合的互连方式？](https://www.v2ex.com/t/700142) ![](assets/new.png)  
-- [2020-08-21-dart-中有类似-ts,js-的-@type-{'string1'|'string2'}-的自定义数据类型吗?](https://www.v2ex.com/t/700141) ![](assets/new.png)  
-- [2020-08-21-Mac-上的提醒软件](https://www.v2ex.com/t/700140) ![](assets/new.png)  
-- [2020-08-21-Notion？自建-Confluence？拿什么拯救你我的印象笔记](https://www.v2ex.com/t/700139) ![](assets/new.png)  
-- [2020-08-21-Android-通过摄像头如何实现手势感应功能](https://www.v2ex.com/t/700138) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,11 +1149,11 @@
 - [2020-08-21-如何编写一篇技术-BLOG](https://toutiao.io/k/3rrdanp) ![](assets/new.png)  
 - [2020-08-21-知道吗？容器镜像也可以延迟拉取](https://toutiao.io/k/vcutmwu) ![](assets/new.png)  
 - [2020-08-21-数据结构与算法：归并排序](https://toutiao.io/k/9l2wkb9) ![](assets/new.png)  
-- [2020-08-21-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-21-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
-- [2020-08-21-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-21-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-21-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-21-MT-BERT-在文本检索任务中的实践](https://toutiao.io/k/ewzrlmv) ![](assets/new.png)  
+- [2020-08-21-王者荣耀背后的实时大数据平台用了什么黑科技？](https://toutiao.io/k/22ay1p0) ![](assets/new.png)  
+- [2020-08-21-是谁动了我的-DOM？](https://toutiao.io/k/5olqidi) ![](assets/new.png)  
+- [2020-08-21-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
+- [2020-08-21-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-21 13:33:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 13:46:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-21-Debian-/-Ubuntu-使用-Budgie-桌面的最优方法](https://www.v2ex.com/t/700371) 
+- [2020-08-21-Damedane-真的太搞笑了](https://www.v2ex.com/t/700370) 
 - [2020-08-21-滴滴出行-北京、杭州、成都、深圳内推-Android/iOS/算法/前端/-PHP-/-Java-/Go/C++等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/700368) 
 - [2020-08-21-苹果手机有好用的追书-APP-吗？](https://www.v2ex.com/t/700367) 
 - [2020-08-21-开了套路云的全站加速，各位境外的小伙伴帮忙体验下速度如何，希望没白开？](https://www.v2ex.com/t/700366) 
@@ -45,6 +47,3 @@
 - [2020-08-21-字节跳动内推季持续招人，海量岗位需求，-内推进度随时可查哦](https://www.v2ex.com/t/700325) 
 - [2020-08-21-zf-部门真应该学习一下-iOS-上-sign-in-with-Apple-这个机制](https://www.v2ex.com/t/700324) 
 - [2020-08-21-ant-design-vue-打包文件过大，怎么去掉部分-js-文件](https://www.v2ex.com/t/700323) 
-- [2020-08-21-有没有朋友知道-Speedtest-洛杉矶测速节点-的-2-degrees-机房在哪-?-直连晚高峰都能到-200-兆-？](https://www.v2ex.com/t/700322) 
-- [2020-08-21-在不保存所有变量的情况下如何算出方差？](https://www.v2ex.com/t/700321) 
-- [2020-08-21-QQ-邮箱又出现什么重大漏洞了吗？](https://www.v2ex.com/t/700319) 

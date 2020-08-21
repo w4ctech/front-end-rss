@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 13:33:31，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 13:46:25，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -291,26 +291,6 @@
 </summary>
 
 
-- [2020-08-21-为什么阿里P6+前端这么值钱？​](https://www.ershicimi.com/p/f369e347356fcc2cffd602023dc02e19) ![](assets/new.png)  
-- [2020-08-21-10+个很酷的VueJS组件，模板和实验示例](https://www.ershicimi.com/p/8d69a0a2ac6a6f75a6231abf0da0fa0d) ![](assets/new.png)  
-- [2020-08-20-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3) ![](assets/new.png)  
-- [2020-08-19-接地气的前端中小厂一二线城市薪资水平报告](https://www.ershicimi.com/p/656ca7a985dd3f9ff17d143cb581cc53) ![](assets/new.png)  
-- [2020-08-18-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/13ea72e0325fa260959c8695c88c8eb1) ![](assets/new.png)  
-- [2020-08-18-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/ab4577545adee248832f5ef732221730) ![](assets/new.png)  
-- [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/dbcbb37e2b049d82b4c7a6170708306c) ![](assets/new.png)  
-- [2020-08-17-只用-div-和-css-能玩出什么花来？请扶好下巴！](https://www.ershicimi.com/p/04cbca4e6830d30be444ade6af0e6ca5) ![](assets/new.png)  
-- [2020-08-15-JavaScript最大的秘密](https://www.ershicimi.com/p/697382eab9b61edfb064ab2f078de6d7) ![](assets/new.png)  
-- [2020-08-14-揭秘内幕：华为内部使用的vue技术公开](https://www.ershicimi.com/p/ec85f985997b000cbbc5b08706318dcc) ![](assets/new.png)  
-- [2020-08-14-如果前端学习只能推荐一本书，我只能吐血推荐这本](https://www.ershicimi.com/p/0fb643b36021a53fe42f65e5afe47334) ![](assets/new.png)  
-- [2020-08-13-VSCode-的这些黑科技-99%-的人都不知道](https://www.ershicimi.com/p/d596b9806acf2a79684616e11fb87360) ![](assets/new.png)  
-- [2020-08-12-推荐一个移动端比赛，6万+总奖金](https://www.ershicimi.com/p/4fd36792074cc1f522018fcee5b62475) ![](assets/new.png)  
-- [2020-08-12-a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站…z站？](https://www.ershicimi.com/p/2236a4928b61a1a4c9f88b025171ad7d) ![](assets/new.png)  
-- [2020-08-11-想在一线城市买房，大家帮忙看看钱够吗？](https://www.ershicimi.com/p/c4b64994b6427165f869f7e0b89e41a1) ![](assets/new.png)  
-- [2020-08-11-『1W7字中高级前端面试必知必会』终极版](https://www.ershicimi.com/p/20ce725bd473667ae5ddd1742165d8cd) ![](assets/new.png)  
-- [2020-08-10-6种移动端-1px-解决方案完整版](https://www.ershicimi.com/p/845c294ed4ae93eb3cb92d3e399573dc) ![](assets/new.png)  
-- [2020-08-07-ES11-来了，还学得动吗？](https://www.ershicimi.com/p/8678a2659961bc8c5aaca6acd87871ce) ![](assets/new.png)  
-- [2020-08-06-今年想离职有多难？](https://www.ershicimi.com/p/90bc3adad823f4bada2e98cc224ecf13) ![](assets/new.png)  
-- [2020-08-06-node_modules-困境](https://www.ershicimi.com/p/624d81abb744ab9f4a0781907c37a4e4) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1026,6 +1006,26 @@
 </summary>
 
 
+- [2020-08-19-飞行员用空姐不雅照威胁其陪睡，遇到类似问题时，我们应该怎么办？](https://www.ershicimi.com/p/31b2e3394c76754b31cc8f11713122c4) ![](assets/new.png)  
+- [2020-08-19-有奖活动-|-5-万现金寻找校园有「视」之士](https://www.ershicimi.com/p/55db7a0431ac9727bf29b0292428ee92) ![](assets/new.png)  
+- [2020-08-19-2020，口碑极佳的-7-个公众号，你关注了吗？](https://www.ershicimi.com/p/0369bb53385210a1a258b14f6ad95302) ![](assets/new.png)  
+- [2020-08-19-知乎故事-|-你对空姐提出过最奇怪的要求是什么?](https://www.ershicimi.com/p/368a990c925712946f50b45feb9992ae) ![](assets/new.png)  
+- [2020-08-18-知乎高赞：如何提高自己为人处世的能力？](https://www.ershicimi.com/p/98b1ad3756bed727075c137add388afb) ![](assets/new.png)  
+- [2020-08-18-有奖活动-|「小秋招」职场练习生-C-位出道视频征集](https://www.ershicimi.com/p/f35dc28cee875bc2aa2f7b45463b51ca) ![](assets/new.png)  
+- [2020-08-18-为什么有些人年纪轻轻却思想深度远高于常人？](https://www.ershicimi.com/p/cfbf3d028252d8f200afda06a73327f6) ![](assets/new.png)  
+- [2020-08-18-知乎故事-|-刚上大学，我喜欢上了我的班导](https://www.ershicimi.com/p/afaefd641f4785121a1a095472a46500) ![](assets/new.png)  
+- [2020-08-17-中国的文物有多逆天？被考古学家怀疑是穿越者带回去的……](https://www.ershicimi.com/p/6555ab8efc4286aa669bd1c3bd497eb6) ![](assets/new.png)  
+- [2020-08-17-如果蚊子被彻底灭绝，对生物链有什么影响?](https://www.ershicimi.com/p/8a99d940eaad9d27c2df222b88b49237) ![](assets/new.png)  
+- [2020-08-17-手机里超受欢迎的-8-个公众号，你关注了吗？](https://www.ershicimi.com/p/e7263d312f9c09723b9c9918830a70f8) ![](assets/new.png)  
+- [2020-08-17-知乎故事-|-我发现老公已经出轨-8-年了](https://www.ershicimi.com/p/7b4a9667324ca2b9be9bdd997e3b925d) ![](assets/new.png)  
+- [2020-08-16-本周知乎热榜-|-北京雨来了，小米十周年了，杨国福麻辣烫喊话张亮了](https://www.ershicimi.com/p/0ad844d0d2e5c993b17f843e902f6d6e) ![](assets/new.png)  
+- [2020-08-16-「新人创作挑战赛」来了，10-万新人奖金等你来拿](https://www.ershicimi.com/p/58415ee8e661dd3fdb24363e8db60259) ![](assets/new.png)  
+- [2020-08-16-知乎故事-|-你见过最挑食的人能到什么程度？](https://www.ershicimi.com/p/26cbb30e4f6d2233ec1d160eaefad8c9) ![](assets/new.png)  
+- [2020-08-15-知乎神吐槽-|-突然知道一个被瞒了很久的秘密是一种怎样的体验？](https://www.ershicimi.com/p/e10e8400ae81ac3c70c21d5d124ef008) ![](assets/new.png)  
+- [2020-08-15-姑娘，你的「性」还好吗？](https://www.ershicimi.com/p/ff14aa80ee649dc589648e4420883d1b) ![](assets/new.png)  
+- [2020-08-15-知乎故事-|-皇上赐了我一碗避子汤](https://www.ershicimi.com/p/07e4500476254ea831adec5b1e03670e) ![](assets/new.png)  
+- [2020-08-14-中国人都有什么有意思的特色-Buff？](https://www.ershicimi.com/p/b681e42d3d92a42ee176109e1c06c53d) ![](assets/new.png)  
+- [2020-08-14-解说争霸，赢奖金-|-寻找全网最强影视视频解说](https://www.ershicimi.com/p/1d7122c242b40a8b379813cf5d0b1653) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1037,8 @@
 </summary>
 
 
+- [2020-08-21-Debian-/-Ubuntu-使用-Budgie-桌面的最优方法](https://www.v2ex.com/t/700371) ![](assets/new.png)  
+- [2020-08-21-Damedane-真的太搞笑了](https://www.v2ex.com/t/700370) ![](assets/new.png)  
 - [2020-08-21-滴滴出行-北京、杭州、成都、深圳内推-Android/iOS/算法/前端/-PHP-/-Java-/Go/C++等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/700368) ![](assets/new.png)  
 - [2020-08-21-苹果手机有好用的追书-APP-吗？](https://www.v2ex.com/t/700367) ![](assets/new.png)  
 - [2020-08-21-开了套路云的全站加速，各位境外的小伙伴帮忙体验下速度如何，希望没白开？](https://www.v2ex.com/t/700366) ![](assets/new.png)  
@@ -1055,8 +1057,6 @@
 - [2020-08-21-理财正兴起，有理财相关的产品推荐吗，如果没有，自己做一个是否可行呢？](https://www.v2ex.com/t/700350) ![](assets/new.png)  
 - [2020-08-21-xxx-K-付费找人弄-zabbix-监控-oracle-的东西，环境都有](https://www.v2ex.com/t/700349) ![](assets/new.png)  
 - [2020-08-21-leetcode/lintcode-题解-背包问题](https://www.v2ex.com/t/700348) ![](assets/new.png)  
-- [2020-08-21-求教一个-pandas-赋值失败的问题，-pandas-赋值机制到底是怎么回事...](https://www.v2ex.com/t/700347) ![](assets/new.png)  
-- [2020-08-21-分享一个打车羊毛](https://www.v2ex.com/t/700346) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,9 +1107,9 @@
 - [2020-08-21-vim-的几种模式-mode-和按键映射-map](https://toutiao.io/k/wlll3jk) ![](assets/new.png)  
 - [2020-08-21-MacBook-Pro-电池维修记](https://toutiao.io/k/nuls8kx) ![](assets/new.png)  
 - [2020-08-21-译-如果你只知道-go-test-用于单元测试就太-LOW-了](https://toutiao.io/k/a62743e) ![](assets/new.png)  
+- [2020-08-21-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
 - [2020-08-21-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
 - [2020-08-21-从架构到源码：一文了解-Flutter-渲染机制](https://toutiao.io/k/rrs00zt) ![](assets/new.png)  
-- [2020-08-21-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
 - [2020-08-21-对抗攻击之利用水印生成对抗样本](https://toutiao.io/k/afevejz) ![](assets/new.png)  
 - [2020-08-21-语雀的技术架构演进之路](https://toutiao.io/k/qt9yjv5) ![](assets/new.png)  
 - [2020-08-21-10-个最好用的在线配色网站推荐](https://toutiao.io/k/cx7a4mp) ![](assets/new.png)  

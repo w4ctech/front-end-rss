@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 18:11:06，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 18:22:17，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-21-法国新增新冠肺炎确诊病例4586例-累计确诊234400例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticXjOcpFuHpY6FyNVbs7r200822&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-世卫组织总干事：希望在两年内结束新冠肺炎大流行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtispuP9Q8ZQYm2e0Euiliw200822&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-沙特卫生大臣：在没有疫苗的情况下学校将继续实施远程教育](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipRLqYnSFOSzIe3xPWuUz200822&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-美疾控中心：预计至9月中旬-美国新冠肺炎死亡病例累计约为19.5万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9lLvUhNzMC6rjDORjeit200822&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-捷克总统泽曼将隔离期间参与选举投票法案签署成法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7BhPhgjGsPIb0j3NHJ6J200822&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-科威特新增502例新冠肺炎确诊病例-累计确诊79269例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaWJ4pV49rC922CrdwuJf200821&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-21-如何一边交谈一边思考？](https://www.v2ex.com/t/700413) ![](assets/new.png)  
 - [2020-08-21-信通院发布《中国宽带资费水平报告》](https://www.v2ex.com/t/700412) ![](assets/new.png)  
 - [2020-08-21-记录一次-印象笔记-数据丢失](https://www.v2ex.com/t/700411) ![](assets/new.png)  
 - [2020-08-21-求问关于-ffmpeg-烧录硬字幕的时间线问题。](https://www.v2ex.com/t/700409) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-21-GitHub：记录一些-JS-逆向和爬虫](https://www.v2ex.com/t/700393) ![](assets/new.png)  
 - [2020-08-21-双非、非科班年纪还偏大的想要进大厂，太难了](https://www.v2ex.com/t/700392) ![](assets/new.png)  
 - [2020-08-21-微信小程序开发，晚安来啦](https://www.v2ex.com/t/700391) ![](assets/new.png)  
-- [2020-08-21-服务器被人从-redis-的漏洞注入了奇怪的东西](https://www.v2ex.com/t/700390) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

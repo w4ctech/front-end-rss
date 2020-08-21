@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 02:26:34，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 02:31:31，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-21-社招---热招中-字节跳动---移动-OS-/-教育-/-电商业务，前端-/-客户端-/-服务端-/-测试-/-产品，坐标：北京---中关村](https://www.v2ex.com/t/700164) ![](assets/new.png)  
+- [2020-08-21-外包-桌面应用开发](https://www.v2ex.com/t/700163) ![](assets/new.png)  
 - [2020-08-21-这个社会真是人善被人欺](https://www.v2ex.com/t/700162) ![](assets/new.png)  
 - [2020-08-21-寻找外包-公司项目](https://www.v2ex.com/t/700160) ![](assets/new.png)  
 - [2020-08-21-北京公司的一个-hr-小菜鸟，招不到推荐算法该怎么办？](https://www.v2ex.com/t/700158) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-21-Mac-上的提醒软件](https://www.v2ex.com/t/700140) ![](assets/new.png)  
 - [2020-08-21-Notion？自建-Confluence？拿什么拯救你我的印象笔记](https://www.v2ex.com/t/700139) ![](assets/new.png)  
 - [2020-08-21-Android-通过摄像头如何实现手势感应功能](https://www.v2ex.com/t/700138) ![](assets/new.png)  
-- [2020-08-21-16-寸的-mbp-是不是有问题？](https://www.v2ex.com/t/700136) ![](assets/new.png)  
-- [2020-08-21-吐槽一下-Java-JRE-的源码可读性有点差](https://www.v2ex.com/t/700135) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,10 +1130,10 @@
 - [2020-08-21-知道吗？容器镜像也可以延迟拉取](https://toutiao.io/k/vcutmwu) ![](assets/new.png)  
 - [2020-08-21-数据结构与算法：归并排序](https://toutiao.io/k/9l2wkb9) ![](assets/new.png)  
 - [2020-08-21-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-21-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
-- [2020-08-21-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-21-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
+- [2020-08-21-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-21-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-21-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-21-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

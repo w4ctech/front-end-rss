@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 00:27:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 00:51:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -45,7 +45,6 @@
 - [2020-07-31-140道Web大厂面试真题分享](https://www.ershicimi.com/p/82353361ddca791ad1aa9c6410e36028) 
 - [2020-08-20-深圳-腾讯智慧零售战略合作部招聘前端实习生](https://www.v2ex.com/t/700086) 
 - [2020-08-20-爱奇艺---用户运营实习生（直接招聘，简历合适直接进入面试流程，流程快）](https://www.v2ex.com/t/700077) 
-- [2020-08-20-上海比心陪练招聘前端！😆👏🏻🎉](https://www.v2ex.com/t/700071) 
 - [2020-08-21-一次蚂蚁金服的辛酸面试历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13687&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlGMB3sdVbQFkmaDL_cgvyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-15-牛聘|2020年度岗位招聘第10期](https://sec.thief.one/article_content?a_id=48dc5bfc5999e36a623b8c8acdda0d3a) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-21 08:12:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 08:23:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -246,7 +246,6 @@
 - [【奇舞周刊】Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/3730a93bc041ddb6d24663ae9640e4c0)
 - [【InfoQ】苹果报复腾讯持股游戏商：全面封杀Epic-Games，祸及大量开发者](https://www.ershicimi.com/p/2b13a0a3c8e29ed8f24bfe731e5d1a42)
 - [【V2EX】北京联通可以开通游戏宽带](https://www.v2ex.com/t/700259)
-- [【V2EX】安卓的-SSR-如果勾选-UDP-转发能实现游戏加速么？](https://www.v2ex.com/t/700253)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -469,9 +468,8 @@
 - [【技术头条】十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】vim-的几种模式-mode-和按键映射-map](https://toutiao.io/k/wlll3jk)
 - [【开发者头条】数据结构与算法：归并排序](https://toutiao.io/k/9l2wkb9)
-- [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
-- [【开发者头条】推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k)
 - [【开发者头条】推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
+- [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
 - [【安全热点】Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -626,10 +624,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】上海新增11例境外输入病例（8月20日）](http://m.database.caixin.com/m/2020-08-21/101595382.html)
 - [【武汉肺炎防疫全纪录(财新网)】研究：新冠病毒特殊突变或致毒性降低，复制能力不变](https://m.caixin.com/m/2020-08-21/101595406.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊84917例-新增境外输入22例](https://m.caixin.com/m/2020-08-21/101595336.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超2256万-累计死亡近79万](http://m.international.caixin.com/m/2020-08-21/101595424.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月20日：亚欧多国疫情持续反弹-欧盟再购2亿余剂疫苗](https://m.caixin.com/m/2020-08-21/101595264.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增7例境外输入病例（8月19日）](http://m.database.caixin.com/m/2020-08-20/101594917.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月19日：英国拟全国筛查无症状感染者-澳大利亚将免费接种疫苗](https://m.caixin.com/m/2020-08-20/101594704.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超2201万-累计死亡超77.6万](http://m.international.caixin.com/m/2020-08-19/101594478.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增17例境外输入病例（8月18日）](http://m.database.caixin.com/m/2020-08-19/101594377.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月18日：俄第二款疫苗上马二期临床-韩国严防首都圈失守](https://m.caixin.com/m/2020-08-19/101594245.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月17日：多国报告变异病毒实为老毒株-印度现新变种](https://m.caixin.com/m/2020-08-18/101593771.html)

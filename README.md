@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 08:12:23，:rocket: 更新条数: +3335， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 08:23:23，:rocket: 更新条数: +3334， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,10 +67,10 @@
 - [2020-08-20-【境内疫情观察】上海新增11例境外输入病例（8月20日）](http://m.database.caixin.com/m/2020-08-21/101595382.html) ![](assets/new.png)  
 - [2020-08-20-研究：新冠病毒特殊突变或致毒性降低，复制能力不变](https://m.caixin.com/m/2020-08-21/101595406.html) ![](assets/new.png)  
 - [2020-08-20-最新疫情：全国新冠累计确诊84917例-新增境外输入22例](https://m.caixin.com/m/2020-08-21/101595336.html) ![](assets/new.png)  
+- [2020-08-20-最新海外疫情：新冠感染超2256万-累计死亡近79万](http://m.international.caixin.com/m/2020-08-21/101595424.html) ![](assets/new.png)  
 - [2020-08-20-大流行手记|8月20日：亚欧多国疫情持续反弹-欧盟再购2亿余剂疫苗](https://m.caixin.com/m/2020-08-21/101595264.html) ![](assets/new.png)  
 - [2020-08-19-【境内疫情观察】全国新增7例境外输入病例（8月19日）](http://m.database.caixin.com/m/2020-08-20/101594917.html) ![](assets/new.png)  
 - [2020-08-19-大流行手记|8月19日：英国拟全国筛查无症状感染者-澳大利亚将免费接种疫苗](https://m.caixin.com/m/2020-08-20/101594704.html) ![](assets/new.png)  
-- [2020-08-18-最新海外疫情：新冠感染超2201万-累计死亡超77.6万](http://m.international.caixin.com/m/2020-08-19/101594478.html) ![](assets/new.png)  
 - [2020-08-18-【境内疫情观察】全国新增17例境外输入病例（8月18日）](http://m.database.caixin.com/m/2020-08-19/101594377.html) ![](assets/new.png)  
 - [2020-08-18-大流行手记|8月18日：俄第二款疫苗上马二期临床-韩国严防首都圈失守](https://m.caixin.com/m/2020-08-19/101594245.html) ![](assets/new.png)  
 - [2020-08-17-大流行手记|8月17日：多国报告变异病毒实为老毒株-印度现新变种](https://m.caixin.com/m/2020-08-18/101593771.html) ![](assets/new.png)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-21-俄罗斯新增4870例新冠肺炎确诊病例-累计确诊946976例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticnP7zLhSFrpS3lJ5loc8200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-赞比亚新增154例新冠肺炎确诊病例-累计增至10372例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiblXNeh1aKR3Lo8DTpf2o200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-阿尔巴尼亚新增新冠肺炎确诊病例155例-累计确诊7967例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZC85XJYfoRGtjBpTJc5Y200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-乌克兰新增2106例新冠肺炎确诊病例-累计确诊100643例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6scweDQxpA8r8pe50kYD200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-印度新增68898例新冠肺炎确诊病例-累计确诊2905823例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRgiVHhpvrfFVCn2voq8Y200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-江苏徐州发布关于厄瓜多尔冷冻南美白虾防疫排查情况的通报](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHJulJEJ8dQsqEyTKrppk200821&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -446,6 +446,8 @@
 </summary>
 
 
+- [2020-08-20-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/678351a2d3edbf0921c1ab972bc4510f) ![](assets/new.png)  
+- [2020-08-20-5-种提高开发速度的方法](https://www.ershicimi.com/p/04457acfa3d94d74ba67f47b1ba5bded) ![](assets/new.png)  
 - [2020-08-19-我是怎样通过个人项目成长为高级-JavaScript-开发者的](https://www.ershicimi.com/p/dd5e699b03225c29d4b74f38f71ce072) ![](assets/new.png)  
 - [2020-08-19-Mac-恶意软件通过-Xcode-项目传播，受影响-IP-大多在中国和印度](https://www.ershicimi.com/p/3d51af78aa7c5cdbcb459fb69ad6ab96) ![](assets/new.png)  
 - [2020-08-19-“Android-开发还有什么可以学习的？”-|-极客时间](https://www.ershicimi.com/p/bfc4b7a2ca71765577547d8139435fbc) ![](assets/new.png)  
@@ -464,8 +466,6 @@
 - [2020-08-12-从0到1教你配置深度学习服务器，高维破题助攻机器学习！-|-活动推荐](https://www.ershicimi.com/p/8e2d4d1865ea806550287d585958e48b) ![](assets/new.png)  
 - [2020-08-11-CSS-in-JS：一个充满争议的技术方案](https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6) ![](assets/new.png)  
 - [2020-08-11-如何在-Web-上大规模生成-UUID](https://www.ershicimi.com/p/439c67fd019b6392684956127a2db49e) ![](assets/new.png)  
-- [2020-08-10-不想一辈子打工，我做了个月入40余万的App](https://www.ershicimi.com/p/25bd483e164fa404b662543003e7d9d9) ![](assets/new.png)  
-- [2020-08-10-WebSocket-开发实战，三步实现实时弹幕系统](https://www.ershicimi.com/p/c80886f25187f3817819d1ebc95381f1) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-08-21-除了碳云、修罗云这些-NAT，大家还知道哪些低配置、高带宽、大流量的廉云。](https://www.v2ex.com/t/700305) ![](assets/new.png)  
+- [2020-08-21-多大厂才能用到分布式事务](https://www.v2ex.com/t/700304) ![](assets/new.png)  
+- [2020-08-21-猫眼电影切换城市地址栏和请求参数都没有城市信息](https://www.v2ex.com/t/700301) ![](assets/new.png)  
+- [2020-08-21-深圳电信又开始能后台提速了？](https://www.v2ex.com/t/700300) ![](assets/new.png)  
 - [2020-08-21-吐槽一下京东配送](https://www.v2ex.com/t/700299) ![](assets/new.png)  
 - [2020-08-21-MacOS-10.15-上的-Safari-访问-SMZDM-时，很多图片显示不出来](https://www.v2ex.com/t/700298) ![](assets/new.png)  
 - [2020-08-21-crud-模板方法](https://www.v2ex.com/t/700297) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-08-21-居然会有人把开源的技术库说是自己写！](https://www.v2ex.com/t/700283) ![](assets/new.png)  
 - [2020-08-21-增加用户操作记录审计，并用-mq-同步日志如何不影响现有逻辑？](https://www.v2ex.com/t/700282) ![](assets/new.png)  
 - [2020-08-21-阿里-2020-动态规划题：背包问题](https://www.v2ex.com/t/700281) ![](assets/new.png)  
-- [2020-08-21-下午犯困，该喝茶还是喝咖啡？](https://www.v2ex.com/t/700280) ![](assets/new.png)  
-- [2020-08-21-我觉得电动车好可怕怎么办?](https://www.v2ex.com/t/700279) ![](assets/new.png)  
-- [2020-08-21-我搭建的-laravel-不能路由是怎么回事，新搭建了一个-laravel-框架网站，只有/index.-PHP-/routes-才有用，直接访问没用](https://www.v2ex.com/t/700278) ![](assets/new.png)  
-- [2020-08-21-安全与风控相关岗位内推（实时反馈进度）](https://www.v2ex.com/t/700277) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,8 +1127,8 @@
 - [2020-08-21-vim-的几种模式-mode-和按键映射-map](https://toutiao.io/k/wlll3jk) ![](assets/new.png)  
 - [2020-08-21-MacBook-Pro-电池维修记](https://toutiao.io/k/nuls8kx) ![](assets/new.png)  
 - [2020-08-21-译-如果你只知道-go-test-用于单元测试就太-LOW-了](https://toutiao.io/k/a62743e) ![](assets/new.png)  
-- [2020-08-21-从架构到源码：一文了解-Flutter-渲染机制](https://toutiao.io/k/rrs00zt) ![](assets/new.png)  
 - [2020-08-21-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
+- [2020-08-21-从架构到源码：一文了解-Flutter-渲染机制](https://toutiao.io/k/rrs00zt) ![](assets/new.png)  
 - [2020-08-21-对抗攻击之利用水印生成对抗样本](https://toutiao.io/k/afevejz) ![](assets/new.png)  
 - [2020-08-21-语雀的技术架构演进之路](https://toutiao.io/k/qt9yjv5) ![](assets/new.png)  
 - [2020-08-21-10-个最好用的在线配色网站推荐](https://toutiao.io/k/cx7a4mp) ![](assets/new.png)  

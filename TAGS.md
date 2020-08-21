@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-21 07:31:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 07:33:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -244,7 +244,6 @@
 
 
 - [【奇舞周刊】Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/3730a93bc041ddb6d24663ae9640e4c0)
-- [【InfoQ】苹果报复腾讯持股游戏商：全面封杀Epic-Games，祸及大量开发者](https://www.ershicimi.com/p/2b13a0a3c8e29ed8f24bfe731e5d1a42)
 - [【V2EX】北京联通可以开通游戏宽带](https://www.v2ex.com/t/700259)
 - [【V2EX】安卓的-SSR-如果勾选-UDP-转发能实现游戏加速么？](https://www.v2ex.com/t/700253)
 - [【V2EX】北京联通游戏宽带](https://www.v2ex.com/t/700249)

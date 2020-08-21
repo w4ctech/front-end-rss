@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 18:02:46，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 18:11:06，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-21-世卫组织总干事：希望在两年内结束新冠肺炎大流行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtispuP9Q8ZQYm2e0Euiliw200822&isfromapp=1) ![](assets/new.png)  
+- [2020-08-21-沙特卫生大臣：在没有疫苗的情况下学校将继续实施远程教育](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipRLqYnSFOSzIe3xPWuUz200822&isfromapp=1) ![](assets/new.png)  
+- [2020-08-21-美疾控中心：预计至9月中旬-美国新冠肺炎死亡病例累计约为19.5万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9lLvUhNzMC6rjDORjeit200822&isfromapp=1) ![](assets/new.png)  
+- [2020-08-21-捷克总统泽曼将隔离期间参与选举投票法案签署成法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7BhPhgjGsPIb0j3NHJ6J200822&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-科威特新增502例新冠肺炎确诊病例-累计确诊79269例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaWJ4pV49rC922CrdwuJf200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-世卫组织：全球新冠肺炎确诊病例累计超2249万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4zNcsM5RMKvYWymY6Tkf200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-伊朗新增新冠肺炎确诊病例2206例-累计确诊354764例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib5L0rgifDzPhOu0RddlK200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-德国新冠肺炎确诊病例累计超23万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti351fGCBZW0edzYx7QboU200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-巴林新增353例新冠肺炎确诊病例-累计确诊48303例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwkOxtXJk1QVBQTRUSill200821&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1130,8 @@
 - [2020-08-21-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
 - [2020-08-21-译-如果你只知道-go-test-用于单元测试就太-LOW-了](https://toutiao.io/k/a62743e) ![](assets/new.png)  
 - [2020-08-21-从架构到源码：一文了解-Flutter-渲染机制](https://toutiao.io/k/rrs00zt) ![](assets/new.png)  
-- [2020-08-21-对抗攻击之利用水印生成对抗样本](https://toutiao.io/k/afevejz) ![](assets/new.png)  
 - [2020-08-21-语雀的技术架构演进之路](https://toutiao.io/k/qt9yjv5) ![](assets/new.png)  
+- [2020-08-21-对抗攻击之利用水印生成对抗样本](https://toutiao.io/k/afevejz) ![](assets/new.png)  
 - [2020-08-21-10-个最好用的在线配色网站推荐](https://toutiao.io/k/cx7a4mp) ![](assets/new.png)  
 - [2020-08-21-如何编写一篇技术-BLOG](https://toutiao.io/k/3rrdanp) ![](assets/new.png)  
 - [2020-08-21-知道吗？容器镜像也可以延迟拉取](https://toutiao.io/k/vcutmwu) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 08:02:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 08:12:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -39,3 +39,4 @@
 - [2020-08-17-耗时三年，向-React-迁移的利与弊](https://www.ershicimi.com/p/8016a5d1c48048ab12b2882bbed8a693) 
 - [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/ad88a966ef504d6a8551e30959e8f190) 
 - [2020-08-19-Redux原理解析](https://juejin.im/post/6862969315785965582) 
+- [2020-08-21-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) 

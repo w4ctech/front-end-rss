@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 01:10:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 01:21:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -13,7 +13,7 @@
 - [2020-02-04-阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497) 
 - [2019-11-25-Serverless-背景下的前端困境与解决方案](https://www.ershicimi.com/p/ec1908283d9c4dac9fa716b21292ccd5) 
 - [2019-11-18-赠书-|-张鑫旭新书《CSS选择器世界》章节试读](https://www.ershicimi.com/p/1be4d882970f60785dec795871ae4c89) 
-- [2020-08-11-一行-CSS-为网页添加暗黑模式支持](https://www.ershicimi.com/p/201db9cb5f5231abe2e3ce5a3c32673a) 
+- [2020-08-20-CSS八种让人眼前一亮的HOVER效果](https://www.ershicimi.com/p/6b273e15c18aa88603c67effb76e579b) 
 - [2020-08-17-苹果营销页中的交互动画，见证CSS的魔力](https://www.ershicimi.com/p/d922b4eb0ca34752fab50887420f1cf7) 
 - [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) 
 - [2020-07-21-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) 

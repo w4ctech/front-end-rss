@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 17:48:09，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 18:02:46，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1135,8 +1135,8 @@
 - [2020-08-21-10-个最好用的在线配色网站推荐](https://toutiao.io/k/cx7a4mp) ![](assets/new.png)  
 - [2020-08-21-如何编写一篇技术-BLOG](https://toutiao.io/k/3rrdanp) ![](assets/new.png)  
 - [2020-08-21-知道吗？容器镜像也可以延迟拉取](https://toutiao.io/k/vcutmwu) ![](assets/new.png)  
-- [2020-08-21-数据结构与算法：归并排序](https://toutiao.io/k/9l2wkb9) ![](assets/new.png)  
 - [2020-08-21-王者荣耀背后的实时大数据平台用了什么黑科技？](https://toutiao.io/k/22ay1p0) ![](assets/new.png)  
+- [2020-08-21-数据结构与算法：归并排序](https://toutiao.io/k/9l2wkb9) ![](assets/new.png)  
 - [2020-08-21-是谁动了我的-DOM？](https://toutiao.io/k/5olqidi) ![](assets/new.png)  
 - [2020-08-21-MT-BERT-在文本检索任务中的实践](https://toutiao.io/k/ewzrlmv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

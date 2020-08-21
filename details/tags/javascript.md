@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 11:48:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 12:03:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -60,6 +60,10 @@
 - [2020-08-11-CSS-in-JS：一个充满争议的技术方案](https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6) 
 - [2020-08-03-vivo-悟空活动H5-活动加载优化](https://www.ershicimi.com/p/82b13171ad46eefa287cf2703e6fa8c1) 
 - [2020-08-15-从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/f9083588d3d1b71d64046194c7377a80) 
+- [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
+- [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
+- [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
+- [2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) 
 - [2020-08-18-14个-JavaScript-代码优化技巧](https://www.ershicimi.com/p/7d3772aa580f69c45d317264efdd2e99) 
 - [2020-08-10-有了这个工具，小白也能快速写出复杂正则了](https://www.ershicimi.com/p/9086635077ee5bab869955e8a13cdb44) 
 - [2020-08-06-1000+-个项目的10大JavaScript错误](https://www.ershicimi.com/p/4d35e3f93cf5f956c52e6840fead0b60) 

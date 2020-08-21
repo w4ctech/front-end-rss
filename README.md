@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 02:48:20，:rocket: 更新条数: +3326， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 03:02:50，:rocket: 更新条数: +3324， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -854,6 +854,12 @@
 </summary>
 
 
+- [2020-08-21-7月平均工资下来，Java程序员哭笑不得！](https://www.ershicimi.com/p/6032a371f516f224ad79e231803b70d3) ![](assets/new.png)  
+- [2020-08-21-为什么阿里规定需要在事务注解@Transactional中指定rollbackFor？](https://www.ershicimi.com/p/7bece20abfce05044a36130c80a3b3af) ![](assets/new.png)  
+- [2020-08-21-如何让你的Nginx-提升10倍性能？](https://www.ershicimi.com/p/f6a7fffad06ba4c4d6c9555e2aca00bb) ![](assets/new.png)  
+- [2020-08-20-知乎高赞：当update修改数据与原数据相同时会再次执行吗？](https://www.ershicimi.com/p/3ff2e9de753fe84d407603a560e9f8c2) ![](assets/new.png)  
+- [2020-08-20-Redis-实现延迟队列？深深被折服！！](https://www.ershicimi.com/p/9a509db5bf44bbcc773fd1acd4effb2d) ![](assets/new.png)  
+- [2020-08-20-SpringBoot项目优雅的http客户端工具，太香了!](https://www.ershicimi.com/p/3e91084d0a76a64293335098989f21c4) ![](assets/new.png)  
 - [2020-08-19-日志框架选型，Logback-还是-Log4j2？](https://www.ershicimi.com/p/639602b4f1710c35c1fe2a81b0c5b7fc) ![](assets/new.png)  
 - [2020-08-19-曲线救国：提高github下载速度到2MB/s](https://www.ershicimi.com/p/ce5872cfb29569c07e9944fada2b237a) ![](assets/new.png)  
 - [2020-08-19-Spring-Boot-2.3.3-正式发布！2.4.0-正式版即将发布！](https://www.ershicimi.com/p/a7cc57a2c6018ede175e3042e9b46162) ![](assets/new.png)  
@@ -868,12 +874,6 @@
 - [2020-08-16-如何优雅的实现-try/catch-异常块？](https://www.ershicimi.com/p/4d07bb54af3631bf208bd408c7cd21d9) ![](assets/new.png)  
 - [2020-08-15-40+-张最全-Linux-/-C-/-C++-思维导图，收藏！](https://www.ershicimi.com/p/6ef3b2261d4173f8a0f692d0471b9fa9) ![](assets/new.png)  
 - [2020-08-15-为什么我劝你放弃了Restful-API？](https://www.ershicimi.com/p/58bba24f4392498624309ef5dc8a6fd8) ![](assets/new.png)  
-- [2020-08-15-因为一条SQL，我差点被祭天......](https://www.ershicimi.com/p/b0a596f549fc3b57aec904971bcc2909) ![](assets/new.png)  
-- [2020-08-14-年薪68万,人才缺口30万,这个神仙技能今年火遍整个职业圈!](https://www.ershicimi.com/p/875c6aa5d168ea51712be597aa865180) ![](assets/new.png)  
-- [2020-08-14-又整理了一批可以拿去做副业的开源项目...](https://www.ershicimi.com/p/bfc04a46f8f99a1a8db435e031872cb1) ![](assets/new.png)  
-- [2020-08-14-好用到爆的-Java-小技巧](https://www.ershicimi.com/p/4ac35869265d57b29e3f6c14f6372d6b) ![](assets/new.png)  
-- [2020-08-13-32岁程序员被辞退欲跳楼！为什么我不建议你轻易买保险？](https://www.ershicimi.com/p/d5b32ff82843b4c3e665741eb84f143f) ![](assets/new.png)  
-- [2020-08-13-DataGrip-上手体验，真香！](https://www.ershicimi.com/p/03eee984a40b5ec0785ac1adc5ad97bb) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
+- [2020-08-21-有一台-win10-的-pc-怎么也不能走旁路由的代理出去上网](https://www.v2ex.com/t/700180) ![](assets/new.png)  
+- [2020-08-21-成都-数据挖掘/量化分析--](https://www.v2ex.com/t/700179) ![](assets/new.png)  
+- [2020-08-21-首发入的-11pro，电池健康度-88%](https://www.v2ex.com/t/700178) ![](assets/new.png)  
+- [2020-08-21-感觉创意-tab-下的内容变少了，两三天没有更新](https://www.v2ex.com/t/700176) ![](assets/new.png)  
+- [2020-08-21-公司不按时发工资怎么办？](https://www.v2ex.com/t/700175) ![](assets/new.png)  
+- [2020-08-21-app-store-切换到港区要验证了，完！](https://www.v2ex.com/t/700174) ![](assets/new.png)  
+- [2020-08-21-微信小程序怎么使用腾讯地图个性化图层-beta-版](https://www.v2ex.com/t/700173) ![](assets/new.png)  
 - [2020-08-21-求推荐鼠标垫，鼠标是-mx-master-3](https://www.v2ex.com/t/700171) ![](assets/new.png)  
 - [2020-08-21-win10-2004-版本现在稳定吗，是否可以升级，官方没推送打算用易升](https://www.v2ex.com/t/700169) ![](assets/new.png)  
 - [2020-08-21-微信小商店个人可以开了，将来会不会是一个小风口，开发者可以做什么？](https://www.v2ex.com/t/700168) ![](assets/new.png)  
 - [2020-08-21-字节跳动北京-⚡️商业变现平台-前端⚡️火热社招⚡️](https://www.v2ex.com/t/700167) ![](assets/new.png)  
 - [2020-08-21-拼多多砍价要拉多少人才能成功](https://www.v2ex.com/t/700166) ![](assets/new.png)  
 - [2020-08-21-社招---热招中-字节跳动---移动-OS-/-教育-/-电商业务，前端-/-客户端-/-服务端-/-测试-/-产品，坐标：北京---中关村](https://www.v2ex.com/t/700164) ![](assets/new.png)  
-- [2020-08-21-外包-桌面应用开发](https://www.v2ex.com/t/700163) ![](assets/new.png)  
 - [2020-08-21-这个社会真是人善被人欺](https://www.v2ex.com/t/700162) ![](assets/new.png)  
-- [2020-08-21-寻找外包-公司项目](https://www.v2ex.com/t/700160) ![](assets/new.png)  
 - [2020-08-21-北京公司的一个-hr-小菜鸟，招不到推荐算法该怎么办？](https://www.v2ex.com/t/700158) ![](assets/new.png)  
 - [2020-08-21-Elasticsearch-Java-的-CPU-占用奇高，-CPU-几乎-100%的使用率了，怎么排查原因？](https://www.v2ex.com/t/700156) ![](assets/new.png)  
 - [2020-08-21-2020-年了如何调试微信公众号网页](https://www.v2ex.com/t/700154) ![](assets/new.png)  
 - [2020-08-21-要不要回老家？](https://www.v2ex.com/t/700153) ![](assets/new.png)  
 - [2020-08-21-思勰投资丨-2021-校园招聘-量化研究员、C++软件开发工程师（全职/实习）](https://www.v2ex.com/t/700151) ![](assets/new.png)  
 - [2020-08-21-杭州余杭区有玩轮滑的-V-友吗，一起刷街的那种](https://www.v2ex.com/t/700150) ![](assets/new.png)  
-- [2020-08-21-做了-6-年安卓，现在又回-Java-了，有点迷茫，有点期待](https://www.v2ex.com/t/700149) ![](assets/new.png)  
-- [2020-08-21-三星-t7-不能插在-iPad-Air-3?](https://www.v2ex.com/t/700148) ![](assets/new.png)  
-- [2020-08-21-android7.0+-调用-libusb1.0.20-问题](https://www.v2ex.com/t/700146) ![](assets/new.png)  
-- [2020-08-21-为什么发不了帖回不了帖](https://www.v2ex.com/t/700145) ![](assets/new.png)  
-- [2020-08-21-如何理解私有云和公有云？](https://www.v2ex.com/t/700143) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1118,22 +1118,22 @@
 - [2020-08-21-Java-多线程并发读写锁-ReadWriteLock-实现原理剖析](https://toutiao.io/k/dygj96h) ![](assets/new.png)  
 - [2020-08-21-vim-的几种模式-mode-和按键映射-map](https://toutiao.io/k/wlll3jk) ![](assets/new.png)  
 - [2020-08-21-从图片裁剪来聊聊前端二进制](https://toutiao.io/k/d69blax) ![](assets/new.png)  
-- [2020-08-21-MacBook-Pro-电池维修记](https://toutiao.io/k/nuls8kx) ![](assets/new.png)  
 - [2020-08-21-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
+- [2020-08-21-MacBook-Pro-电池维修记](https://toutiao.io/k/nuls8kx) ![](assets/new.png)  
 - [2020-08-21-译-如果你只知道-go-test-用于单元测试就太-LOW-了](https://toutiao.io/k/a62743e) ![](assets/new.png)  
 - [2020-08-21-从架构到源码：一文了解-Flutter-渲染机制](https://toutiao.io/k/rrs00zt) ![](assets/new.png)  
 - [2020-08-21-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
 - [2020-08-21-对抗攻击之利用水印生成对抗样本](https://toutiao.io/k/afevejz) ![](assets/new.png)  
-- [2020-08-21-10-个最好用的在线配色网站推荐](https://toutiao.io/k/cx7a4mp) ![](assets/new.png)  
 - [2020-08-21-语雀的技术架构演进之路](https://toutiao.io/k/qt9yjv5) ![](assets/new.png)  
+- [2020-08-21-10-个最好用的在线配色网站推荐](https://toutiao.io/k/cx7a4mp) ![](assets/new.png)  
 - [2020-08-21-如何编写一篇技术-BLOG](https://toutiao.io/k/3rrdanp) ![](assets/new.png)  
 - [2020-08-21-知道吗？容器镜像也可以延迟拉取](https://toutiao.io/k/vcutmwu) ![](assets/new.png)  
 - [2020-08-21-数据结构与算法：归并排序](https://toutiao.io/k/9l2wkb9) ![](assets/new.png)  
 - [2020-08-21-MT-BERT-在文本检索任务中的实践](https://toutiao.io/k/ewzrlmv) ![](assets/new.png)  
 - [2020-08-21-王者荣耀背后的实时大数据平台用了什么黑科技？](https://toutiao.io/k/22ay1p0) ![](assets/new.png)  
 - [2020-08-21-是谁动了我的-DOM？](https://toutiao.io/k/5olqidi) ![](assets/new.png)  
-- [2020-08-21-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
 - [2020-08-21-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
+- [2020-08-21-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

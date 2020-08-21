@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 11:19:41，:rocket: 更新条数: +3336， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 11:31:46，:rocket: 更新条数: +3336， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-08-21-对于付费听音乐，你们怎么想？](https://www.v2ex.com/t/700353) ![](assets/new.png)  
+- [2020-08-21-联系-Apple-Support，电话里的音乐为什么我都很喜欢？是因为跟我的-Apple-Music-喜好绑定了吗？](https://www.v2ex.com/t/700352) ![](assets/new.png)  
+- [2020-08-21-那些小软件小产品小厂是怎么做大做强的呢？](https://www.v2ex.com/t/700351) ![](assets/new.png)  
+- [2020-08-21-理财正兴起，有理财相关的产品推荐吗，如果没有，自己做一个是否可行呢？](https://www.v2ex.com/t/700350) ![](assets/new.png)  
 - [2020-08-21-xxx-K-付费找人弄-zabbix-监控-oracle-的东西，环境都有](https://www.v2ex.com/t/700349) ![](assets/new.png)  
 - [2020-08-21-leetcode/lintcode-题解-背包问题](https://www.v2ex.com/t/700348) ![](assets/new.png)  
 - [2020-08-21-求教一个-pandas-赋值失败的问题，-pandas-赋值机制到底是怎么回事...](https://www.v2ex.com/t/700347) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-08-21-Win10-定位功能用不了，位置功能打不开](https://www.v2ex.com/t/700336) ![](assets/new.png)  
 - [2020-08-21-七夕咋整哦](https://www.v2ex.com/t/700334) ![](assets/new.png)  
 - [2020-08-21-今天重制了-iMac-，蓝牙键盘-2-代就失灵了](https://www.v2ex.com/t/700332) ![](assets/new.png)  
-- [2020-08-21-聊聊电影八佰](https://www.v2ex.com/t/700330) ![](assets/new.png)  
-- [2020-08-21-软件开发技术博文头条-API-接口](https://www.v2ex.com/t/700329) ![](assets/new.png)  
-- [2020-08-21-Java-转-go-是不是一种正确的选择](https://www.v2ex.com/t/700328) ![](assets/new.png)  
-- [2020-08-21-良心云-10-周年折上折优惠](https://www.v2ex.com/t/700327) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,8 +1134,8 @@
 - [2020-08-21-10-个最好用的在线配色网站推荐](https://toutiao.io/k/cx7a4mp) ![](assets/new.png)  
 - [2020-08-21-如何编写一篇技术-BLOG](https://toutiao.io/k/3rrdanp) ![](assets/new.png)  
 - [2020-08-21-知道吗？容器镜像也可以延迟拉取](https://toutiao.io/k/vcutmwu) ![](assets/new.png)  
-- [2020-08-21-数据结构与算法：归并排序](https://toutiao.io/k/9l2wkb9) ![](assets/new.png)  
 - [2020-08-21-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
+- [2020-08-21-数据结构与算法：归并排序](https://toutiao.io/k/9l2wkb9) ![](assets/new.png)  
 - [2020-08-21-王者荣耀背后的实时大数据平台用了什么黑科技？](https://toutiao.io/k/22ay1p0) ![](assets/new.png)  
 - [2020-08-21-是谁动了我的-DOM？](https://toutiao.io/k/5olqidi) ![](assets/new.png)  
 - [2020-08-21-MT-BERT-在文本检索任务中的实践](https://toutiao.io/k/ewzrlmv) ![](assets/new.png)  

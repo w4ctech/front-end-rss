@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-21 14:10:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 14:20:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-21-2020-年-8-月-MacBook-Pro-近期会更新吗？你等吗？谈谈这个时间点购买-16-寸-MBP-的一些事。q](https://www.v2ex.com/t/700380) 
+- [2020-08-21-请教-multiprocessing-问题，在-window7-下运行可以正常打印，-ubuntu-运行一会就卡死了。](https://www.v2ex.com/t/700378) 
 - [2020-08-21-Macbook-Air-值不值得买？](https://www.v2ex.com/t/700376) 
 - [2020-08-21-软购商城-取消订阅邮件真恶心](https://www.v2ex.com/t/700375) 
 - [2020-08-21-求问金融专硕想转-CS-方向的学硕要如何开始准备呢？](https://www.v2ex.com/t/700374) 
@@ -43,6 +45,3 @@
 - [2020-08-21-Win10-定位功能用不了，位置功能打不开](https://www.v2ex.com/t/700336) 
 - [2020-08-21-七夕咋整哦](https://www.v2ex.com/t/700334) 
 - [2020-08-21-今天重制了-iMac-，蓝牙键盘-2-代就失灵了](https://www.v2ex.com/t/700332) 
-- [2020-08-21-聊聊电影八佰](https://www.v2ex.com/t/700330) 
-- [2020-08-21-软件开发技术博文头条-API-接口](https://www.v2ex.com/t/700329) 
-- [2020-08-21-Java-转-go-是不是一种正确的选择](https://www.v2ex.com/t/700328) 

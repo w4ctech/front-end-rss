@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 08:48:30，:rocket: 更新条数: +3335， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 09:02:41，:rocket: 更新条数: +3336， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,12 @@
 </summary>
 
 
+- [2020-08-21-亚美尼亚新增158例新冠肺炎确诊病例-累计确诊42477例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixfkhmUwKNANbvtylRqMd200821&isfromapp=1) ![](assets/new.png)  
+- [2020-08-21-哈萨克斯坦新增新冠肺炎确诊病例979例-中亚地区累计确诊约21.4万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR4kavAx2HL4gI3faZE3i200821&isfromapp=1) ![](assets/new.png)  
+- [2020-08-21-捷克新增新冠肺炎确诊病例247例-累计确诊21045例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigtCLhXNZntnLIFemLk73200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-俄罗斯新增4870例新冠肺炎确诊病例-累计确诊946976例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticnP7zLhSFrpS3lJ5loc8200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-赞比亚新增154例新冠肺炎确诊病例-累计增至10372例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiblXNeh1aKR3Lo8DTpf2o200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-阿尔巴尼亚新增新冠肺炎确诊病例155例-累计确诊7967例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZC85XJYfoRGtjBpTJc5Y200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-乌克兰新增2106例新冠肺炎确诊病例-累计确诊100643例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6scweDQxpA8r8pe50kYD200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-印度新增68898例新冠肺炎确诊病例-累计确诊2905823例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRgiVHhpvrfFVCn2voq8Y200821&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1058,8 @@
 </summary>
 
 
+- [2020-08-21-请教下,-统招在职研究生应聘大厂有希望吗](https://www.v2ex.com/t/700317) ![](assets/new.png)  
+- [2020-08-21-终极广告拦截者软件](https://www.v2ex.com/t/700316) ![](assets/new.png)  
 - [2020-08-21-node-多进程，进程数与性能-线图](https://www.v2ex.com/t/700314) ![](assets/new.png)  
 - [2020-08-21-操作系统问题，关于函数地址空间](https://www.v2ex.com/t/700313) ![](assets/new.png)  
 - [2020-08-21-大家午饭是和办公室同事一起吃的-还是-只和三俩平时谈得来的好友一起吃](https://www.v2ex.com/t/700312) ![](assets/new.png)  
@@ -1075,8 +1078,6 @@
 - [2020-08-21-吐槽一下-iPhone-的导航](https://www.v2ex.com/t/700296) ![](assets/new.png)  
 - [2020-08-21-知网上-airplay-和-dlna-的两篇论文，谁能帮忙下载下](https://www.v2ex.com/t/700294) ![](assets/new.png)  
 - [2020-08-21-自己换了一个触摸板。。。](https://www.v2ex.com/t/700293) ![](assets/new.png)  
-- [2020-08-21-坐标南京，某独角兽企业-工资打折-有好坑的请带我飞](https://www.v2ex.com/t/700292) ![](assets/new.png)  
-- [2020-08-21-上海-漕河泾-招聘前端工程师-965](https://www.v2ex.com/t/700291) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

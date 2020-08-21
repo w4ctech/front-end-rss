@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 09:10:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 09:20:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -58,4 +58,5 @@
 - [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
 - [2020-08-19-Vue-2.6-源码分析之旅【4】-——-diff-算法](https://juejin.im/post/6862955082237870087) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-08-21-ant-design-vue-打包文件过大，怎么去掉部分-js-文件](https://www.v2ex.com/t/700323) 
 - [2020-08-21-推荐-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) 

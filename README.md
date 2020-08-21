@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 09:10:18，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 09:20:51，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,12 +95,13 @@
 </summary>
 
 
+- [2020-08-21-香港2新增27例新冠肺炎确诊病例-已连续19日日新增病例低于百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2txu3mR0XzfpbJOH5Fyk200821&isfromapp=1) ![](assets/new.png)  
+- [2020-08-21-新加坡新增新冠肺炎确诊病例117例-累计确诊56216例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNVVtml9Fy8ksAoAshcNA200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-亚美尼亚新增158例新冠肺炎确诊病例-累计确诊42477例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixfkhmUwKNANbvtylRqMd200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-哈萨克斯坦新增新冠肺炎确诊病例979例-中亚地区累计确诊约21.4万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR4kavAx2HL4gI3faZE3i200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-捷克新增新冠肺炎确诊病例247例-累计确诊21045例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigtCLhXNZntnLIFemLk73200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-俄罗斯新增4870例新冠肺炎确诊病例-累计确诊946976例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticnP7zLhSFrpS3lJ5loc8200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-赞比亚新增154例新冠肺炎确诊病例-累计增至10372例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiblXNeh1aKR3Lo8DTpf2o200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-阿尔巴尼亚新增新冠肺炎确诊病例155例-累计确诊7967例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZC85XJYfoRGtjBpTJc5Y200821&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1058,6 +1059,8 @@
 </summary>
 
 
+- [2020-08-21-zf-部门真应该学习一下-iOS-上-sign-in-with-Apple-这个机制](https://www.v2ex.com/t/700324) ![](assets/new.png)  
+- [2020-08-21-ant-design-vue-打包文件过大，怎么去掉部分-js-文件](https://www.v2ex.com/t/700323) ![](assets/new.png)  
 - [2020-08-21-有没有朋友知道-Speedtest-洛杉矶测速节点-的-2-degrees-机房在哪-?-直连晚高峰都能到-200-兆-？](https://www.v2ex.com/t/700322) ![](assets/new.png)  
 - [2020-08-21-在不保存所有变量的情况下如何算出方差？](https://www.v2ex.com/t/700321) ![](assets/new.png)  
 - [2020-08-21-QQ-邮箱又出现什么重大漏洞了吗？](https://www.v2ex.com/t/700319) ![](assets/new.png)  
@@ -1076,8 +1079,6 @@
 - [2020-08-21-猫眼电影切换城市地址栏和请求参数都没有城市信息](https://www.v2ex.com/t/700301) ![](assets/new.png)  
 - [2020-08-21-深圳电信又开始能后台提速了？](https://www.v2ex.com/t/700300) ![](assets/new.png)  
 - [2020-08-21-吐槽一下京东配送](https://www.v2ex.com/t/700299) ![](assets/new.png)  
-- [2020-08-21-MacOS-10.15-上的-Safari-访问-SMZDM-时，很多图片显示不出来](https://www.v2ex.com/t/700298) ![](assets/new.png)  
-- [2020-08-21-crud-模板方法](https://www.v2ex.com/t/700297) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

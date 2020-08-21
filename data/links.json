@@ -12777,6 +12777,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "香港2新增27例新冠肺炎确诊病例 已连续19日日新增病例低于百例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2txu3mR0XzfpbJOH5Fyk200821&isfromapp=1",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "新加坡新增新冠肺炎确诊病例117例 累计确诊56216例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNVVtml9Fy8ksAoAshcNA200821&isfromapp=1",
+        "date": "2020-08-21"
+      },
+      {
         "title": "亚美尼亚新增158例新冠肺炎确诊病例 累计确诊42477例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixfkhmUwKNANbvtylRqMd200821&isfromapp=1",
         "date": "2020-08-21"
@@ -12799,11 +12809,6 @@
       {
         "title": "赞比亚新增154例新冠肺炎确诊病例 累计增至10372例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiblXNeh1aKR3Lo8DTpf2o200821&isfromapp=1",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "阿尔巴尼亚新增新冠肺炎确诊病例155例 累计确诊7967例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZC85XJYfoRGtjBpTJc5Y200821&isfromapp=1",
         "date": "2020-08-21"
       }
     ]
@@ -15960,6 +15965,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "zf 部门真应该学习一下 iOS 上 sign in with Apple 这个机制",
+        "link": "https://www.v2ex.com/t/700324",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "ant design vue 打包文件过大，怎么去掉部分 js 文件",
+        "link": "https://www.v2ex.com/t/700323",
+        "date": "2020-08-21"
+      },
+      {
         "title": "有没有朋友知道 Speedtest 洛杉矶测速节点 的 2 degrees 机房在哪 ? 直连晚高峰都能到 200 兆 ？",
         "link": "https://www.v2ex.com/t/700322",
         "date": "2020-08-21"
@@ -16152,16 +16167,6 @@
       {
         "title": "分享给父母换手机的经历",
         "link": "https://www.v2ex.com/t/700275",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "百度云加速海外版如何添加",
-        "link": "https://www.v2ex.com/t/700274",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[杭州/北京] 阿里云 aPaas 团队招 Java 研发专家、Windows C++客户端开发、架构师",
-        "link": "https://www.v2ex.com/t/700273",
         "date": "2020-08-21"
       }
     ]
@@ -16379,61 +16384,6 @@
         "date": "2020-08-21"
       },
       {
-        "title": "[推荐] 图解 Vue 响应式原理",
-        "link": "https://toutiao.io/k/sia6td6",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] Java 线程池深度揭秘",
-        "link": "https://toutiao.io/k/prh2qvl",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/9ujm1ju",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 快速入门数据结构和算法",
-        "link": "https://toutiao.io/k/vkyzxyw",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-21"
-      },
-      {
         "title": "[推荐] ​Linux CPU 性能优化指南",
         "link": "https://toutiao.io/k/e6zbho6",
         "date": "2020-08-21"
@@ -16444,13 +16394,68 @@
         "date": "2020-08-21"
       },
       {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
+        "link": "https://toutiao.io/k/kumhh9k",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] Java 线程池深度揭秘",
+        "link": "https://toutiao.io/k/prh2qvl",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
         "date": "2020-08-21"
       },
       {
         "title": "[推荐] 高并发系统三大利器之限流",
         "link": "https://toutiao.io/k/1514ax3",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 图解 Vue 响应式原理",
+        "link": "https://toutiao.io/k/sia6td6",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
+        "link": "https://toutiao.io/k/wtofrd2",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
         "date": "2020-08-21"
       }
     ]

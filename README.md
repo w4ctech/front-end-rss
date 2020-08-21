@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 13:48:15，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 14:02:32，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-08-21-软购商城-取消订阅邮件真恶心](https://www.v2ex.com/t/700375) ![](assets/new.png)  
+- [2020-08-21-求问金融专硕想转-CS-方向的学硕要如何开始准备呢？](https://www.v2ex.com/t/700374) ![](assets/new.png)  
+- [2020-08-21-求帮忙测个速](https://www.v2ex.com/t/700373) ![](assets/new.png)  
 - [2020-08-21-Debian-/-Ubuntu-使用-Budgie-桌面的最优方法](https://www.v2ex.com/t/700371) ![](assets/new.png)  
 - [2020-08-21-Damedane-真的太搞笑了](https://www.v2ex.com/t/700370) ![](assets/new.png)  
 - [2020-08-21-滴滴出行-北京、杭州、成都、深圳内推-Android/iOS/算法/前端/-PHP-/-Java-/Go/C++等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/700368) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-08-21-对于付费听音乐，你们怎么想？](https://www.v2ex.com/t/700353) ![](assets/new.png)  
 - [2020-08-21-联系-Apple-Support，电话里的音乐为什么我都很喜欢？是因为跟我的-Apple-Music-喜好绑定了吗？](https://www.v2ex.com/t/700352) ![](assets/new.png)  
 - [2020-08-21-那些小软件小产品小厂是怎么做大做强的呢？](https://www.v2ex.com/t/700351) ![](assets/new.png)  
-- [2020-08-21-理财正兴起，有理财相关的产品推荐吗，如果没有，自己做一个是否可行呢？](https://www.v2ex.com/t/700350) ![](assets/new.png)  
-- [2020-08-21-xxx-K-付费找人弄-zabbix-监控-oracle-的东西，环境都有](https://www.v2ex.com/t/700349) ![](assets/new.png)  
-- [2020-08-21-leetcode/lintcode-题解-背包问题](https://www.v2ex.com/t/700348) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,9 +1126,9 @@
 - [2020-08-21-从图片裁剪来聊聊前端二进制](https://toutiao.io/k/d69blax) ![](assets/new.png)  
 - [2020-08-21-vim-的几种模式-mode-和按键映射-map](https://toutiao.io/k/wlll3jk) ![](assets/new.png)  
 - [2020-08-21-MacBook-Pro-电池维修记](https://toutiao.io/k/nuls8kx) ![](assets/new.png)  
-- [2020-08-21-译-如果你只知道-go-test-用于单元测试就太-LOW-了](https://toutiao.io/k/a62743e) ![](assets/new.png)  
-- [2020-08-21-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
 - [2020-08-21-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
+- [2020-08-21-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
+- [2020-08-21-译-如果你只知道-go-test-用于单元测试就太-LOW-了](https://toutiao.io/k/a62743e) ![](assets/new.png)  
 - [2020-08-21-从架构到源码：一文了解-Flutter-渲染机制](https://toutiao.io/k/rrs00zt) ![](assets/new.png)  
 - [2020-08-21-对抗攻击之利用水印生成对抗样本](https://toutiao.io/k/afevejz) ![](assets/new.png)  
 - [2020-08-21-语雀的技术架构演进之路](https://toutiao.io/k/qt9yjv5) ![](assets/new.png)  

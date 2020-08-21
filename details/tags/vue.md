@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 13:46:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 13:48:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -21,6 +21,9 @@
 - [2020-08-14-上帝视角看-Vue-源码，能看出个啥？](https://www.ershicimi.com/p/05216dad101054eb7bfac1eaafcee7ad) 
 - [2020-08-10-人人都懂的Vue框架，你能最佳实践么？​](https://www.ershicimi.com/p/81b490c6b8c3a0a56d7c592bda1e2b5d) 
 - [2020-08-19-【第2039期】最全的Vue3.0升级指南](https://www.ershicimi.com/p/7fcf952746a6358794d01e287227a661) 
+- [2020-08-21-10+个很酷的VueJS组件，模板和实验示例](https://www.ershicimi.com/p/8d69a0a2ac6a6f75a6231abf0da0fa0d) 
+- [2020-08-18-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/ab4577545adee248832f5ef732221730) 
+- [2020-08-14-揭秘内幕：华为内部使用的vue技术公开](https://www.ershicimi.com/p/ec85f985997b000cbbc5b08706318dcc) 
 - [2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) 
 - [2019-06-20-视频Vue-开发-ECharts-踩坑指南@袁源](https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff) 
 - [2019-06-20-VueConf-2019上海精彩视频花絮](https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479) 

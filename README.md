@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 10:33:09，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 10:46:39，:rocket: 更新条数: +3335， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -100,9 +100,6 @@
 - [2020-08-21-巴林新增353例新冠肺炎确诊病例-累计确诊48303例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwkOxtXJk1QVBQTRUSill200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-香港2新增27例新冠肺炎确诊病例-已连续19日日新增病例低于百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2txu3mR0XzfpbJOH5Fyk200821&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-新加坡新增新冠肺炎确诊病例117例-累计确诊56216例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNVVtml9Fy8ksAoAshcNA200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-亚美尼亚新增158例新冠肺炎确诊病例-累计确诊42477例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixfkhmUwKNANbvtylRqMd200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-哈萨克斯坦新增新冠肺炎确诊病例979例-中亚地区累计确诊约21.4万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR4kavAx2HL4gI3faZE3i200821&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-捷克新增新冠肺炎确诊病例247例-累计确诊21045例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigtCLhXNZntnLIFemLk73200821&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -950,11 +947,11 @@
 </summary>
 
 
+- [2020-08-20-Vue编写组件的方式，你知道几种？](https://juejin.im/post/6863260665684246542) ![](assets/new.png)  
+- [2020-08-20-游戏商城实现全纪录（egret）](https://juejin.im/post/6863260331872813063) ![](assets/new.png)  
 - [2020-08-20-跟随Element学习Vue小技巧14——Cascader](https://juejin.im/post/6863097419110809607) ![](assets/new.png)  
 - [2020-08-20-译-打包用于分发的-UI-库-——-当你要发布一个-UI-组件库时，你可能需要遵守的指南](https://juejin.im/post/6863091746113323021) ![](assets/new.png)  
-- [2020-08-20-「金九银十」一个问题就知道你会不会CSS了](https://juejin.im/post/6863088078497120270) ![](assets/new.png)  
 - [2020-08-20-翻译-vue/next-指南——01安装](https://juejin.im/post/6863087597711785998) ![](assets/new.png)  
-- [2020-08-20-你不知道的JavaScript（上卷）--块作用域](https://juejin.im/post/6863025980534063118) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,6 +1057,8 @@
 </summary>
 
 
+- [2020-08-21-家用显示器坏了，求推荐（写写代码，偶尔玩下游戏）](https://www.v2ex.com/t/700341) ![](assets/new.png)  
+- [2020-08-21-YouTube-在后台试图开启麦克风录音被-iOS-抓了现行…](https://www.v2ex.com/t/700340) ![](assets/new.png)  
 - [2020-08-21-我们有数据库交流群吗？求拉。。](https://www.v2ex.com/t/700339) ![](assets/new.png)  
 - [2020-08-21-2020-年了，腾讯大王卡还划算吗？考虑换套餐了](https://www.v2ex.com/t/700338) ![](assets/new.png)  
 - [2020-08-21-轻量级的全文检索选哪个？-50-万内。](https://www.v2ex.com/t/700337) ![](assets/new.png)  
@@ -1078,8 +1077,6 @@
 - [2020-08-21-在不保存所有变量的情况下如何算出方差？](https://www.v2ex.com/t/700321) ![](assets/new.png)  
 - [2020-08-21-QQ-邮箱又出现什么重大漏洞了吗？](https://www.v2ex.com/t/700319) ![](assets/new.png)  
 - [2020-08-21-请教下,-统招在职研究生应聘大厂有希望吗](https://www.v2ex.com/t/700317) ![](assets/new.png)  
-- [2020-08-21-终极广告拦截者软件](https://www.v2ex.com/t/700316) ![](assets/new.png)  
-- [2020-08-21-node-多进程，进程数与性能-线图](https://www.v2ex.com/t/700314) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

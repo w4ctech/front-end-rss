@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 10:33:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 10:46:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -56,6 +56,7 @@
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f) 
 - [2020-08-04-Vue的生命周期有多长？](https://www.ershicimi.com/p/eb6c9a853fe54f661ed6b543e15c39cf) 
 - [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
+- [2020-08-20-Vue编写组件的方式，你知道几种？](https://juejin.im/post/6863260665684246542) 
 - [2020-08-20-跟随Element学习Vue小技巧14——Cascader](https://juejin.im/post/6863097419110809607) 
 - [2020-08-20-翻译-vue/next-指南——01安装](https://juejin.im/post/6863087597711785998) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

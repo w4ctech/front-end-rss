@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-21 23:33:40，:rocket: 更新条数: +3556， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-21 23:46:24，:rocket: 更新条数: +3556， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-21-巴西疫情“重灾区”圣保罗州处于“红色”防疫阶段地区首次清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOwiRyRkvsfBpzyUdhVwc200822&isfromapp=1) ![](assets/new.png)  
+- [2020-08-21-世卫组织：全球新冠肺炎新增277617例-美洲区域确诊超过1200万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8lQgDN1Chf9rUVImsr68200822&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-法国新增新冠肺炎确诊病例-4586-例，累计确诊-234400-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticXjOcpFuHpY6FyNVbs7r200822&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-世卫组织总干事：希望在两年内结束新冠肺炎大流行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtispuP9Q8ZQYm2e0Euiliw200822&isfromapp=1) ![](assets/new.png)  
 - [2020-08-21-沙特卫生大臣：在没有疫苗的情况下学校将继续实施远程教育](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipRLqYnSFOSzIe3xPWuUz200822&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-美疾控中心：预计至9月中旬-美国新冠肺炎死亡病例累计约为19.5万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9lLvUhNzMC6rjDORjeit200822&isfromapp=1) ![](assets/new.png)  
-- [2020-08-21-捷克总统泽曼将隔离期间参与选举投票法案签署成法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7BhPhgjGsPIb0j3NHJ6J200822&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-08-21-学习-iOS-开发的课程求推荐](https://www.v2ex.com/t/700423) ![](assets/new.png)  
+- [2020-08-21-后台与使用时间](https://www.v2ex.com/t/700422) ![](assets/new.png)  
 - [2020-08-21-电报上那些卖-无限容量谷歌网盘-的，靠谱吗？](https://www.v2ex.com/t/700421) ![](assets/new.png)  
 - [2020-08-21-问下大佬-6-楼和-4-楼能共享宽带吗？](https://www.v2ex.com/t/700420) ![](assets/new.png)  
 - [2020-08-21-2020-年-Vue-UI-组件框架选哪个？](https://www.v2ex.com/t/700419) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-08-21-请问群晖的-SSD-Cache-对局域网大量小文件写入是否有提升](https://www.v2ex.com/t/700405) ![](assets/new.png)  
 - [2020-08-21-知乎手机网页官方跳转至流氓网站](https://www.v2ex.com/t/700404) ![](assets/new.png)  
 - [2020-08-21-开源项目分享-：管理多个-git-库的命令行工具](https://www.v2ex.com/t/700403) ![](assets/new.png)  
-- [2020-08-21-应届生入职三个月，有点小丧](https://www.v2ex.com/t/700402) ![](assets/new.png)  
-- [2020-08-21-你们还用-mgo-么,好像都没怎么维护了](https://www.v2ex.com/t/700401) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

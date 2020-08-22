@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-22 04:33:26，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-22 04:46:26，:rocket: 更新条数: +3323， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-08-20-前端边角料-|-微信公众号开发中常见的目录配置总结](https://juejin.im/post/6863301900947849230) ![](assets/new.png)  
-- [2020-08-20-JS中attribute和property的区别](https://juejin.im/post/6863301172606976014) ![](assets/new.png)  
-- [2020-08-20-WEB前端规范和代码优化手册](https://juejin.im/post/6863300189852827662) ![](assets/new.png)  
-- [2020-08-20-JavaScript中的对象有哪些（下）](https://juejin.im/post/6863299587130687501) ![](assets/new.png)  
-- [2020-08-20-HTTPS原理及执行流程](https://juejin.im/post/6863295544828444686) ![](assets/new.png)  
+- [2020-08-20-DOM整理实践](https://juejin.im/post/6863307691994529805) ![](assets/new.png)  
+- [2020-08-20-Web翻译谷歌宣布推出新的Chrome浏览器开发者工具，以减少页面加载并构建类似原生应用的体验](https://juejin.im/post/6863305100585893896) ![](assets/new.png)  
+- [2020-08-20-【翻译】Promises/A+规范](https://juejin.im/post/6863304429714702344) ![](assets/new.png)  
+- [2020-08-20-js延迟加载的六种方式](https://juejin.im/post/6863289198704033800) ![](assets/new.png)  
+- [2020-08-20-人家都在玩源码，你还在纠结vue-router的使用...](https://juejin.im/post/6863288289185988616) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-08-22-你们的-win10-升级到-2004-版本了吗？](https://www.v2ex.com/t/700485) ![](assets/new.png)  
+- [2020-08-22-自如-app-应用内更新](https://www.v2ex.com/t/700484) ![](assets/new.png)  
 - [2020-08-22-這個飛行器的原理是什麼？很好玩的樣子](https://www.v2ex.com/t/700483) ![](assets/new.png)  
 - [2020-08-22-迫于老父亲需要制作教学课件，求一套电脑配置](https://www.v2ex.com/t/700482) ![](assets/new.png)  
 - [2020-08-22-求一款登录就永久封号的工具](https://www.v2ex.com/t/700481) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-08-22-求介绍线路板行业有好用、全面的-ERP-软件](https://www.v2ex.com/t/700460) ![](assets/new.png)  
 - [2020-08-22-怎么让自己变得更有价值？](https://www.v2ex.com/t/700458) ![](assets/new.png)  
 - [2020-08-22-tuple-格式的时间如何转化成'H:M:S'](https://www.v2ex.com/t/700456) ![](assets/new.png)  
-- [2020-08-22-遗传算法生成的模型如何避免过拟合？](https://www.v2ex.com/t/700455) ![](assets/new.png)  
-- [2020-08-22-想转-Linux-运维](https://www.v2ex.com/t/700454) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,8 +1120,8 @@
 
 
 - [2020-08-22-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
-- [2020-08-22-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
 - [2020-08-22-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
+- [2020-08-22-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
 - [2020-08-22-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
 - [2020-08-22-Elasticsearch-Client-Bulk-死锁问题处理](https://toutiao.io/k/g3xb2pz) ![](assets/new.png)  
 - [2020-08-22-Superset，基于-Web-的开源-BI-工具，GitHub-三万-star](https://toutiao.io/k/uyj2p7w) ![](assets/new.png)  
@@ -1129,16 +1129,16 @@
 - [2020-08-22-译-Nodejs-与-Golang-的比较：Web-开发人员选择哪个最佳？](https://toutiao.io/k/n10bb7z) ![](assets/new.png)  
 - [2020-08-22-iPadOS-13.4-+-键盘-+-鼠标：让你的旧-iPad-重获新生](https://toutiao.io/k/ocb41t3) ![](assets/new.png)  
 - [2020-08-22-Raft-算法之领导人选举](https://toutiao.io/k/2l2d2pu) ![](assets/new.png)  
-- [2020-08-22-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-22-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
 - [2020-08-22-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
-- [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
 - [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
-- [2020-08-22-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
-- [2020-08-22-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
 - [2020-08-22-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
 - [2020-08-22-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
 - [2020-08-22-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
-- [2020-08-22-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-22-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-22-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-22 16:21:43，:rocket: 更新条数: +3328， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-22 16:31:21，:rocket: 更新条数: +3329， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-08-22-QQ-微信通话提醒声音是真的烦](https://www.v2ex.com/t/700604) ![](assets/new.png)  
+- [2020-08-22-小弟目前手里有几百个，请问买微众银行的大额存单+风险大吗](https://www.v2ex.com/t/700603) ![](assets/new.png)  
+- [2020-08-22-找个成都的女程序员](https://www.v2ex.com/t/700602) ![](assets/new.png)  
 - [2020-08-22-2015Early-的-MBP，更新-Big-sur-後-WiFi-打不開](https://www.v2ex.com/t/700601) ![](assets/new.png)  
 - [2020-08-22-学到一个定理就必须要证明一下是什么心理？](https://www.v2ex.com/t/700600) ![](assets/new.png)  
 - [2020-08-22-chrome-web-store-插件，审核通不过](https://www.v2ex.com/t/700599) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-08-22-苹果的-final-cut-是买断的吗-，-还是说-大版本要花钱升级，类似-pd？](https://www.v2ex.com/t/700585) ![](assets/new.png)  
 - [2020-08-22-Speedtest-安徽的测速节点没了](https://www.v2ex.com/t/700584) ![](assets/new.png)  
 - [2020-08-22-完全无法理解为何-youtube-搜索结果中不能-block-特定用户的视频](https://www.v2ex.com/t/700583) ![](assets/new.png)  
-- [2020-08-22-分享一个彩票追号工具](https://www.v2ex.com/t/700582) ![](assets/new.png)  
-- [2020-08-22-闲鱼拍了个-2019-款-iMac-21.5-寸，不知道是不是-49-年入国军](https://www.v2ex.com/t/700581) ![](assets/new.png)  
-- [2020-08-22-去大厂，金钱与经验收益颇丰吗？](https://www.v2ex.com/t/700580) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,15 +1129,15 @@
 - [2020-08-22-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
 - [2020-08-22-译-Nodejs-与-Golang-的比较：Web-开发人员选择哪个最佳？](https://toutiao.io/k/n10bb7z) ![](assets/new.png)  
 - [2020-08-22-iPadOS-13.4-+-键盘-+-鼠标：让你的旧-iPad-重获新生](https://toutiao.io/k/ocb41t3) ![](assets/new.png)  
-- [2020-08-22-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
 - [2020-08-22-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-22-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
-- [2020-08-22-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
-- [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
-- [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
-- [2020-08-22-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
-- [2020-08-22-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-22-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-22-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-22-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-22-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
+- [2020-08-22-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
+- [2020-08-22-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
+- [2020-08-22-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
 - [2020-08-22-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

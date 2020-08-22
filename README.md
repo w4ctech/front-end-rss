@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-22 06:48:11，:rocket: 更新条数: +3542， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-22 07:03:17，:rocket: 更新条数: +3543， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-22-谭德塞：希望新冠肺炎疫情两年内结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirItM0D1MTxa0QglLWjMA200822&isfromapp=1) ![](assets/new.png)  
+- [2020-08-22-印度连续24天日增超5万例](http://m.weibo.cn/3057540037/4540700710677625) ![](assets/new.png)  
 - [2020-08-22-广东陆丰疫情病毒溯源-与香港流行毒株高度同源](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC6a5ZIg7quvy3PrAXV1g200822&isfromapp=1) ![](assets/new.png)  
 - [2020-08-22-牙买加单日新增新冠肺炎确诊病例破纪录-政府强化防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1vEXWoM9TrMMynovykBI200822&isfromapp=1) ![](assets/new.png)  
 - [2020-08-22-江苏8月21日新增无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIv9nPppc5nL4T7XjXq97200822&isfromapp=1) ![](assets/new.png)  
-- [2020-08-22-俄罗斯第二款新冠疫苗开始2期临床试验-预计9月结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisXCg6kZNkS7Y9WevTZC3200822&isfromapp=1) ![](assets/new.png)  
-- [2020-08-22-西班牙多个大区新冠肺炎疫情出现反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5E1cNKZ6ke1lL6XjEiN3200822&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-08-22-大麦网的购票页也是-Dev-模式……](https://www.v2ex.com/t/700512) ![](assets/new.png)  
+- [2020-08-22-在国内，-iPhone-的市场占有率是多少？](https://www.v2ex.com/t/700511) ![](assets/new.png)  
+- [2020-08-22-官网出了-MX-MASTER-3-FOR-MAC](https://www.v2ex.com/t/700509) ![](assets/new.png)  
 - [2020-08-22-2019-款-MBP-花屏，翻车了吗。。](https://www.v2ex.com/t/700507) ![](assets/new.png)  
 - [2020-08-22-88-邮箱卖用过的邮箱](https://www.v2ex.com/t/700506) ![](assets/new.png)  
 - [2020-08-22-M247-电信网速感人](https://www.v2ex.com/t/700505) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-08-22-有老哥搞过-ipv6-备案吗？](https://www.v2ex.com/t/700489) ![](assets/new.png)  
 - [2020-08-22-校招/社招-哈啰出行-内推-上海/杭州-各类职位大量招聘](https://www.v2ex.com/t/700488) ![](assets/new.png)  
 - [2020-08-22-感觉面对中年危机的最好方式还是做好投资](https://www.v2ex.com/t/700487) ![](assets/new.png)  
-- [2020-08-22-QQ-群聊，老有人被盗号发菠菜广告、赛车游艇广告，怎么实现的？为啥微信没有盗号？](https://www.v2ex.com/t/700486) ![](assets/new.png)  
-- [2020-08-22-你们的-win10-升级到-2004-版本了吗？](https://www.v2ex.com/t/700485) ![](assets/new.png)  
-- [2020-08-22-自如-app-应用内更新](https://www.v2ex.com/t/700484) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1149,16 @@
 - [2020-08-22-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
 - [2020-08-22-Raft-算法之领导人选举](https://toutiao.io/k/2l2d2pu) ![](assets/new.png)  
 - [2020-08-22-iPadOS-13.4-+-键盘-+-鼠标：让你的旧-iPad-重获新生](https://toutiao.io/k/ocb41t3) ![](assets/new.png)  
-- [2020-08-22-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
-- [2020-08-22-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
-- [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
-- [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-22-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
-- [2020-08-22-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
-- [2020-08-22-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-22-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
 - [2020-08-22-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
+- [2020-08-22-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
+- [2020-08-22-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
+- [2020-08-22-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-22-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-22-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-22-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
 - [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
+- [2020-08-22-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-22 16:48:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 17:02:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
 
 
+- [2020-08-21-前端的核心竞争力在哪里？](https://www.ershicimi.com/p/4edf132a9c1fd2aaf3c1f58d23764169) 
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f) 
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-18-每出现一个Bug，都要思考这个问题](https://www.ershicimi.com/p/50772aaf0bbc5fe9a2a8ebd37ed47c3b) 
@@ -24,4 +25,3 @@
 - [2020-07-29-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/8d9aae6d6881f11e8d1c09ed67f7bdf5) 
 - [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
 - [2020-07-27-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/02e36a0d0749c177b1fe11f86b5f5ea2) 
-- [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/ad88a966ef504d6a8551e30959e8f190) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 03:20:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 03:21:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-07-13-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
 - [2020-08-20-【第2040期】Node-模块化之争：为什么-CommonJS-和-ES-Modules-无法相互协](https://www.ershicimi.com/p/4d066ebfc0e5df2c0e1d9f1468fb35ce) 
 - [2020-08-06-node_modules-困境](https://www.ershicimi.com/p/624d81abb744ab9f4a0781907c37a4e4) 
 - [2020-08-09-Node在大前端中的应用场景分析](https://www.ershicimi.com/p/7699685284374cceb17a58f26dc0bc29) 

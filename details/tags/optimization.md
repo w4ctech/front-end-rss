@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 15:33:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 15:46:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -27,7 +27,6 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-08-21-如何让你的Nginx-提升10倍性能？](https://www.ershicimi.com/p/f6a7fffad06ba4c4d6c9555e2aca00bb) 
-- [2020-08-21-译动态导入、代码分割、延迟加载和错误边界](https://juejin.im/post/6863444288048234503) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-08-22-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) 
 - [2020-08-22-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) 

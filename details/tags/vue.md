@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 15:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 16:03:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -55,4 +55,7 @@
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f) 
 - [2020-08-04-Vue的生命周期有多长？](https://www.ershicimi.com/p/eb6c9a853fe54f661ed6b543e15c39cf) 
 - [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
+- [2020-08-21-翻译-vue3指南-03应用实例](https://juejin.im/post/6863664455935983630) 
+- [2020-08-21-【姐妹篇】人家都在玩源码，你还在纠结vuex的使用...](https://juejin.im/post/6863661061103747085) 
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-08-22-Vue3-里-provide-一个-Vue-实例，为什么在-inject-时必须填写默认值？](https://www.v2ex.com/t/700561) 

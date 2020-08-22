@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 21:20:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 21:31:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -16,7 +16,6 @@
 - [2020-08-22-请问-android-studio-可以自定义-build-命令吗？想加个参数。](https://www.v2ex.com/t/700605) 
 - [2020-08-22-QQ-微信通话提醒声音是真的烦](https://www.v2ex.com/t/700604) 
 - [2020-08-22-小弟目前手里有几百个，请问买微众银行的大额存单+风险大吗](https://www.v2ex.com/t/700603) 
-- [2020-08-22-找个成都的女程序员](https://www.v2ex.com/t/700602) 
 - [2020-08-22-2015Early-的-MBP，更新-Big-sur-後-WiFi-打不開](https://www.v2ex.com/t/700601) 
 - [2020-08-22-学到一个定理就必须要证明一下是什么心理？](https://www.v2ex.com/t/700600) 
 - [2020-08-22-chrome-web-store-插件，审核通不过](https://www.v2ex.com/t/700599) 

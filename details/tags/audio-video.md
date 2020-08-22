@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 11:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 11:48:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,10 +85,6 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-08-20-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/678351a2d3edbf0921c1ab972bc4510f) 
-- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
-- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
-- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
-- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-18-有奖活动-|「小秋招」职场练习生-C-位出道视频征集](https://www.ershicimi.com/p/f35dc28cee875bc2aa2f7b45463b51ca) 
 - [2020-08-14-解说争霸，赢奖金-|-寻找全网最强影视视频解说](https://www.ershicimi.com/p/1d7122c242b40a8b379813cf5d0b1653) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-22 03:33:29，:rocket: 更新条数: +3322， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-22 03:46:20，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1057,26 +1057,6 @@
 </summary>
 
 
-- [2020-08-22-图多杀猫-今天去-George-Floyd-事件现场转了一圈](https://www.v2ex.com/t/700470) ![](assets/new.png)  
-- [2020-08-22-Python-deque-是什么](https://www.v2ex.com/t/700469) ![](assets/new.png)  
-- [2020-08-22-影视行业复苏在即，应该持有正处于低谷的影视股票吗？](https://www.v2ex.com/t/700466) ![](assets/new.png)  
-- [2020-08-22-腾讯微视招聘-c++/golang-开发工程师](https://www.v2ex.com/t/700464) ![](assets/new.png)  
-- [2020-08-22-WIN10-花样不少,还是更习惯于-WIN7-的稳定](https://www.v2ex.com/t/700461) ![](assets/new.png)  
-- [2020-08-22-求介绍线路板行业有好用、全面的-ERP-软件](https://www.v2ex.com/t/700460) ![](assets/new.png)  
-- [2020-08-22-怎么让自己变得更有价值？](https://www.v2ex.com/t/700458) ![](assets/new.png)  
-- [2020-08-22-tuple-格式的时间如何转化成'H:M:S'](https://www.v2ex.com/t/700456) ![](assets/new.png)  
-- [2020-08-22-遗传算法生成的模型如何避免过拟合？](https://www.v2ex.com/t/700455) ![](assets/new.png)  
-- [2020-08-22-想转-Linux-运维](https://www.v2ex.com/t/700454) ![](assets/new.png)  
-- [2020-08-22-每天在自己的技术问答网站自问自答](https://www.v2ex.com/t/700453) ![](assets/new.png)  
-- [2020-08-22-为什么-iPhone-有的游戏想玩新号就得刷机清空数据？](https://www.v2ex.com/t/700452) ![](assets/new.png)  
-- [2020-08-22-家宽上网流量全局由-VPS-跳转如何实现](https://www.v2ex.com/t/700451) ![](assets/new.png)  
-- [2020-08-22-求助，-macOS-big-Sur-恢复模式无法退出](https://www.v2ex.com/t/700450) ![](assets/new.png)  
-- [2020-08-22-用-leanclooud-写了个简单的开源博客系统，可以自定义主题，有些功能还在开发中](https://www.v2ex.com/t/700449) ![](assets/new.png)  
-- [2020-08-22-3-甲公立医院牙医在外面开诊所，或利用下班时间兼职在私立诊所上班合法吗？](https://www.v2ex.com/t/700448) ![](assets/new.png)  
-- [2020-08-22-银行流水](https://www.v2ex.com/t/700447) ![](assets/new.png)  
-- [2020-08-22-OpenWRT-成功获取-IPv6-地址却无法使用](https://www.v2ex.com/t/700446) ![](assets/new.png)  
-- [2020-08-22-vscode-和-Jupyter-Notebook-之间是什么关系](https://www.v2ex.com/t/700445) ![](assets/new.png)  
-- [2020-08-22-哪些属性适合用字典表维护以及哪些属性用常量和枚举维护？](https://www.v2ex.com/t/700441) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,21 +1104,21 @@
 - [2020-08-22-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
 - [2020-08-22-Elasticsearch-Client-Bulk-死锁问题处理](https://toutiao.io/k/g3xb2pz) ![](assets/new.png)  
 - [2020-08-22-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
-- [2020-08-22-Superset，基于-Web-的开源-BI-工具，GitHub-三万-star](https://toutiao.io/k/uyj2p7w) ![](assets/new.png)  
 - [2020-08-22-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
+- [2020-08-22-Superset，基于-Web-的开源-BI-工具，GitHub-三万-star](https://toutiao.io/k/uyj2p7w) ![](assets/new.png)  
 - [2020-08-22-译-Nodejs-与-Golang-的比较：Web-开发人员选择哪个最佳？](https://toutiao.io/k/n10bb7z) ![](assets/new.png)  
 - [2020-08-22-iPadOS-13.4-+-键盘-+-鼠标：让你的旧-iPad-重获新生](https://toutiao.io/k/ocb41t3) ![](assets/new.png)  
 - [2020-08-22-Raft-算法之领导人选举](https://toutiao.io/k/2l2d2pu) ![](assets/new.png)  
-- [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
-- [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
-- [2020-08-22-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
-- [2020-08-22-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
+- [2020-08-22-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
 - [2020-08-22-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-22-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
+- [2020-08-22-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
+- [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-22-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
 - [2020-08-22-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-22-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-22-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
-- [2020-08-22-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-22-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

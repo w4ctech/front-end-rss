@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-22 00:55:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 01:02:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-22-v-站没有用-bootstrap-的么？](https://www.v2ex.com/t/700434) 
 - [2020-08-22-瘦客户机-huawei-升腾-GI945-不可以直接-sata-硬盘启动-win7-系统么？](https://www.v2ex.com/t/700433) 
 - [2020-08-22-再问-Google-Photos-备份问题:-如何把其他所有设备上的照片全部快速同步到-Google-Photos-上](https://www.v2ex.com/t/700431) 
 - [2020-08-22-一个爬取-ins-和微博美女的网站，但每-5-秒自动刷新一次没法细看，如何限制自动刷新？](https://www.v2ex.com/t/700430) 
@@ -45,5 +46,3 @@
 - [2020-08-21-看到个挺无耻的用户提示](https://www.v2ex.com/t/700388) 
 - [2020-08-21-GitHub：反爬技术方案的研究与落地](https://www.v2ex.com/t/700387) 
 - [2020-08-21-问个关于网页打印的问题](https://www.v2ex.com/t/700386) 
-- [2020-08-21-求推荐可以集成写入日历事件的-GDT-类计时-app](https://www.v2ex.com/t/700385) 
-- [2020-08-21-今年的服装行业是不是滞销比较严重？](https://www.v2ex.com/t/700384) 

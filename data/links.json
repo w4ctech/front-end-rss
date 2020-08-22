@@ -15960,6 +15960,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求助， macOS big Sur 恢复模式无法退出",
+        "link": "https://www.v2ex.com/t/700450",
+        "date": "2020-08-22"
+      },
+      {
         "title": "用 leanclooud 写了个简单的开源博客系统，可以自定义主题，有些功能还在开发中",
         "link": "https://www.v2ex.com/t/700449",
         "date": "2020-08-22"
@@ -16314,18 +16319,28 @@
         "date": "2020-08-22"
       },
       {
-        "title": "Superset，基于 Web 的开源 BI 工具，GitHub 三万 star",
-        "link": "https://toutiao.io/k/uyj2p7w",
-        "date": "2020-08-22"
-      },
-      {
         "title": "Raft 算法之领导人选举",
         "link": "https://toutiao.io/k/2l2d2pu",
         "date": "2020-08-22"
       },
       {
-        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
-        "link": "https://toutiao.io/k/voyjhtq",
+        "title": "Superset，基于 Web 的开源 BI 工具，GitHub 三万 star",
+        "link": "https://toutiao.io/k/uyj2p7w",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
+        "link": "https://toutiao.io/k/wtofrd2",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
+        "link": "https://toutiao.io/k/ityut7e",
         "date": "2020-08-22"
       },
       {
@@ -16339,23 +16354,8 @@
         "date": "2020-08-22"
       },
       {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
-        "date": "2020-08-22"
-      },
-      {
         "title": "[推荐] 图解：通用搜索引擎背后的技术点",
         "link": "https://toutiao.io/k/l5wu4f9",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/9ujm1ju",
         "date": "2020-08-22"
       },
       {
@@ -16364,23 +16364,13 @@
         "date": "2020-08-22"
       },
       {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
-        "link": "https://toutiao.io/k/lmtdqk1",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
-        "link": "https://toutiao.io/k/ityut7e",
-        "date": "2020-08-22"
-      },
-      {
         "title": "[推荐] 分布式事务内幕",
         "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
         "date": "2020-08-22"
       },
       {
@@ -16394,8 +16384,23 @@
         "date": "2020-08-22"
       },
       {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
         "date": "2020-08-22"
       }
     ]

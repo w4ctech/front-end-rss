@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-22 02:03:18，:rocket: 更新条数: +3326， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-22 02:11:07，:rocket: 更新条数: +3327， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-22-求助，-macOS-big-Sur-恢复模式无法退出](https://www.v2ex.com/t/700450) ![](assets/new.png)  
 - [2020-08-22-用-leanclooud-写了个简单的开源博客系统，可以自定义主题，有些功能还在开发中](https://www.v2ex.com/t/700449) ![](assets/new.png)  
 - [2020-08-22-3-甲公立医院牙医在外面开诊所，或利用下班时间兼职在私立诊所上班合法吗？](https://www.v2ex.com/t/700448) ![](assets/new.png)  
 - [2020-08-22-银行流水](https://www.v2ex.com/t/700447) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-22-有没有什么资料或书总结了每个语言都必须有的语法特性](https://www.v2ex.com/t/700427) ![](assets/new.png)  
 - [2020-08-22-你在技术上遇到过瓶颈期吗？你是如何度过的？](https://www.v2ex.com/t/700426) ![](assets/new.png)  
 - [2020-08-21-学习-iOS-开发的课程求推荐](https://www.v2ex.com/t/700423) ![](assets/new.png)  
-- [2020-08-21-后台与使用时间](https://www.v2ex.com/t/700422) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,18 +1127,18 @@
 - [2020-08-22-译-Nodejs-与-Golang-的比较：Web-开发人员选择哪个最佳？](https://toutiao.io/k/n10bb7z) ![](assets/new.png)  
 - [2020-08-22-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
 - [2020-08-22-iPadOS-13.4-+-键盘-+-鼠标：让你的旧-iPad-重获新生](https://toutiao.io/k/ocb41t3) ![](assets/new.png)  
-- [2020-08-22-Superset，基于-Web-的开源-BI-工具，GitHub-三万-star](https://toutiao.io/k/uyj2p7w) ![](assets/new.png)  
 - [2020-08-22-Raft-算法之领导人选举](https://toutiao.io/k/2l2d2pu) ![](assets/new.png)  
-- [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-22-Superset，基于-Web-的开源-BI-工具，GitHub-三万-star](https://toutiao.io/k/uyj2p7w) ![](assets/new.png)  
+- [2020-08-22-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
+- [2020-08-22-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-22-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
 - [2020-08-22-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
 - [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
-- [2020-08-22-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
 - [2020-08-22-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
-- [2020-08-22-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
-- [2020-08-22-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
 - [2020-08-22-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-22-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
-- [2020-08-22-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-22-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

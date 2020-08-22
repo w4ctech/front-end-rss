@@ -15970,6 +15970,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "领导随手在白板上画了一张草图，告诉我大致要的功能怎么样，要求我界面简洁清爽，并给了截止日期。",
+        "link": "https://www.v2ex.com/t/700523",
+        "date": "2020-08-22"
+      },
+      {
         "title": "这种情况有没有更换电池成功的？",
         "link": "https://www.v2ex.com/t/700522",
         "date": "2020-08-22"
@@ -16299,13 +16304,13 @@
         "date": "2020-08-22"
       },
       {
-        "title": "[译] Nodejs 与 Golang 的比较：Web 开发人员选择哪个最佳？",
-        "link": "https://toutiao.io/k/n10bb7z",
+        "title": "十个问题弄清 JVM & GC（二）",
+        "link": "https://toutiao.io/k/v2dq9lz",
         "date": "2020-08-22"
       },
       {
-        "title": "十个问题弄清 JVM & GC（二）",
-        "link": "https://toutiao.io/k/v2dq9lz",
+        "title": "[译] Nodejs 与 Golang 的比较：Web 开发人员选择哪个最佳？",
+        "link": "https://toutiao.io/k/n10bb7z",
         "date": "2020-08-22"
       },
       {
@@ -16319,43 +16324,8 @@
         "date": "2020-08-22"
       },
       {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "[推荐] HBase/TiDB 都在用的数据结构：LSM Tree，不得了解一下？",
-        "link": "https://toutiao.io/k/v90if5y",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "[推荐] 快速入门数据结构和算法",
-        "link": "https://toutiao.io/k/vkyzxyw",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
-        "link": "https://toutiao.io/k/kumhh9k",
-        "date": "2020-08-22"
-      },
-      {
         "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
         "link": "https://toutiao.io/k/9ujm1ju",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
         "date": "2020-08-22"
       },
       {
@@ -16364,18 +16334,28 @@
         "date": "2020-08-22"
       },
       {
-        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
-        "link": "https://toutiao.io/k/lmtdqk1",
+        "title": "[推荐] HBase/TiDB 都在用的数据结构：LSM Tree，不得了解一下？",
+        "link": "https://toutiao.io/k/v90if5y",
         "date": "2020-08-22"
       },
       {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
         "date": "2020-08-22"
       },
       {
         "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
         "link": "https://toutiao.io/k/voyjhtq",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
+        "link": "https://toutiao.io/k/wtofrd2",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
         "date": "2020-08-22"
       },
       {
@@ -16391,6 +16371,31 @@
       {
         "title": "[推荐] 数据库压力降低 90%，携程机票订单缓存系统实践",
         "link": "https://toutiao.io/k/ityut7e",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
+        "link": "https://toutiao.io/k/w3c3n1w",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
         "date": "2020-08-22"
       }
     ]

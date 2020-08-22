@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-22 16:20:43，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-22 16:21:43，:rocket: 更新条数: +3328， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)![](assets/dot.png)   
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -508,6 +508,26 @@
 </summary>
 
 
+- [2020-08-21-刚进入下半年，有些公司就开始裁人了](https://www.ershicimi.com/p/bc65b352a287c7fee250de112eab7d11) ![](assets/new.png)  
+- [2020-08-21-假如特朗普是一门编程语言](https://www.ershicimi.com/p/30c58334c3c678349cfb5a475e696c4b) ![](assets/new.png)  
+- [2020-08-20-深入解析-Vue-的热更新原理，尤大是如何巧用源码中的细节？](https://www.ershicimi.com/p/2b6d755cd0959e8025e368da2abfab99) ![](assets/new.png)  
+- [2020-08-19-手动实现高仿github的内容diff效果](https://www.ershicimi.com/p/a7ee1b4fc4334d29cd1407007dd83033) ![](assets/new.png)  
+- [2020-08-18-最详细从零开始配置-TypeScript-项目的教程](https://www.ershicimi.com/p/c981035bedc84fafcedb56bb3f772d90) ![](assets/new.png)  
+- [2020-08-17-想要学习人工智能？推荐你一条完整的学习路径！](https://www.ershicimi.com/p/dff67f29e2e70b4f917e5151268d2546) ![](assets/new.png)  
+- [2020-08-17-HTTP-无状态中的-"状态"-到底指的是什么？](https://www.ershicimi.com/p/1a8dc2100ac260579c7aaa34c469588a) ![](assets/new.png)  
+- [2020-08-16-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/173eba198865b70c7d1f3ffb182ab705) ![](assets/new.png)  
+- [2020-08-15-阿里政企云体验技术团队招聘](https://www.ershicimi.com/p/5c26c875713ff444f75c8f230f13cbd5) ![](assets/new.png)  
+- [2020-08-15-从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/f9083588d3d1b71d64046194c7377a80) ![](assets/new.png)  
+- [2020-08-14-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/f14cd0190146e27d2a70e441c951a3b0) ![](assets/new.png)  
+- [2020-08-14-a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站…z站？](https://www.ershicimi.com/p/b8741dcf6a76009c7afb89adc46a6115) ![](assets/new.png)  
+- [2020-08-13-一文搞定前端代理骚操作！再也不怕线上bug啦！](https://www.ershicimi.com/p/101450b4cd471bc9d8c6df98a5ed070f) ![](assets/new.png)  
+- [2020-08-12-手把手教你搭建一个灰度发布环境](https://www.ershicimi.com/p/fbcc2751a515d6f320e9bf2064b81416) ![](assets/new.png)  
+- [2020-08-11-做前端开发，30-岁前能买上房子吗？](https://www.ershicimi.com/p/bf63e022c6016c01699eed54563f88b6) ![](assets/new.png)  
+- [2020-08-11-我在阿里收获的N个成长](https://www.ershicimi.com/p/77b10a413f11c4c11212da88bbb036cc) ![](assets/new.png)  
+- [2020-08-10-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a2929b813f88b5317d77d308314b161d) ![](assets/new.png)  
+- [2020-08-09-响应式布局新方案：融合响应式设计，开源-React-组件](https://www.ershicimi.com/p/3771cb7862f02240188c2ba6657224c6) ![](assets/new.png)  
+- [2020-08-08-十五张图带你彻底搞懂从URL到页面展示发生的故事](https://www.ershicimi.com/p/69273fec87f05a5ac2966608fa6766c6) ![](assets/new.png)  
+- [2020-08-07-半年时间成为资深程序员，可行吗？](https://www.ershicimi.com/p/735cf5c22e3d862221dfce0052ad5a60) ![](assets/new.png)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1057,26 @@
 </summary>
 
 
+- [2020-08-22-2015Early-的-MBP，更新-Big-sur-後-WiFi-打不開](https://www.v2ex.com/t/700601) ![](assets/new.png)  
+- [2020-08-22-学到一个定理就必须要证明一下是什么心理？](https://www.v2ex.com/t/700600) ![](assets/new.png)  
+- [2020-08-22-chrome-web-store-插件，审核通不过](https://www.v2ex.com/t/700599) ![](assets/new.png)  
+- [2020-08-22-看到不少人焦虑，经过深思熟虑分享一个低成本高回报零风险之咸鱼翻身项目给诸位](https://www.v2ex.com/t/700598) ![](assets/new.png)  
+- [2020-08-22-两个同事真的令我抓狂](https://www.v2ex.com/t/700597) ![](assets/new.png)  
+- [2020-08-22-老用户转移动花卡宝藏版套餐](https://www.v2ex.com/t/700596) ![](assets/new.png)  
+- [2020-08-22-对自己抠门是不是一种病？](https://www.v2ex.com/t/700594) ![](assets/new.png)  
+- [2020-08-22-求-Python-视频或文字教程，-PHP-准备转行](https://www.v2ex.com/t/700593) ![](assets/new.png)  
+- [2020-08-22-2020-年最新套餐联通沃派青春卡（沃派-8.0）来啦！-29-元月租-70G-超大杯，免费申请，快递到家，广州移动电信用户可以携号转网！](https://www.v2ex.com/t/700592) ![](assets/new.png)  
+- [2020-08-22-有没有好的代理-ip-池工具？求推荐](https://www.v2ex.com/t/700591) ![](assets/new.png)  
+- [2020-08-22-https://www.google.cn/maps，-http://www.google.cn//maps-，这-2-个都打不开了，有没有其他方法在电脑上查看纠正后的谷歌卫星地图？](https://www.v2ex.com/t/700590) ![](assets/new.png)  
+- [2020-08-22-结婚后，办公室喜糖怎么发？](https://www.v2ex.com/t/700588) ![](assets/new.png)  
+- [2020-08-22-搜索引擎是怎么处理零宽字符的？](https://www.v2ex.com/t/700587) ![](assets/new.png)  
+- [2020-08-22-这样的最终结果，到底算不算两个事务的-ACID-都得到了保障?](https://www.v2ex.com/t/700586) ![](assets/new.png)  
+- [2020-08-22-苹果的-final-cut-是买断的吗-，-还是说-大版本要花钱升级，类似-pd？](https://www.v2ex.com/t/700585) ![](assets/new.png)  
+- [2020-08-22-Speedtest-安徽的测速节点没了](https://www.v2ex.com/t/700584) ![](assets/new.png)  
+- [2020-08-22-完全无法理解为何-youtube-搜索结果中不能-block-特定用户的视频](https://www.v2ex.com/t/700583) ![](assets/new.png)  
+- [2020-08-22-分享一个彩票追号工具](https://www.v2ex.com/t/700582) ![](assets/new.png)  
+- [2020-08-22-闲鱼拍了个-2019-款-iMac-21.5-寸，不知道是不是-49-年入国军](https://www.v2ex.com/t/700581) ![](assets/new.png)  
+- [2020-08-22-去大厂，金钱与经验收益颇丰吗？](https://www.v2ex.com/t/700580) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

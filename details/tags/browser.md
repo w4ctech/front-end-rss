@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 16:20:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 16:21:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,6 +30,8 @@
 - [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686) 
 - [2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da) 
 - [2020-08-06-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/99fc54bf84ab2b810ca1c203c83cf505) 
+- [2020-08-10-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a2929b813f88b5317d77d308314b161d) 
+- [2020-08-08-十五张图带你彻底搞懂从URL到页面展示发生的故事](https://www.ershicimi.com/p/69273fec87f05a5ac2966608fa6766c6) 
 - [2020-08-04-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/871f09b3bcea8e9a831bcf53f804ee83) 
 - [2020-08-21-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b5461c81ed335f6665ccd2c399c37edf) 
 - [2020-08-12-为什么cookie会有httponly属性?真实案例解释XSS的三种攻击](https://www.ershicimi.com/p/d903df7fbd5154c7e85f3b0a90158460) 
@@ -38,6 +40,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-08-19-“杀死”那个-IE-11-浏览器](https://www.ershicimi.com/p/8d90e9c15a75a2ac5926d44af5cb004a) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-08-22-chrome-web-store-插件，审核通不过](https://www.v2ex.com/t/700599) 
 - [2020-08-22-大侠稍等！URL-中为何出现奇怪的字符-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13695&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F190871446%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-22-Elasticsearch-Client-Bulk-死锁问题处理](https://toutiao.io/k/g3xb2pz) 
 - [2020-08-21-【安全热点周报】第156期:被列入美国“实体名单”的企业禁止使用...](https://sec.thief.one/article_content?a_id=25fbfef3add42ab624ef4167dd7c2734) 

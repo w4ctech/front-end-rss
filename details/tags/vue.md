@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 16:20:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 16:21:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -40,6 +40,7 @@
 - [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
 - [2020-08-10-前端框架选择Vue的理由](https://www.ershicimi.com/p/61da09eb11f6a082d0001338169310a4) 
 - [2020-08-05-vue3.0新型状态管理和逻辑复用方式](https://www.ershicimi.com/p/f68a2470bc8fd6493bfc5757328c2b9e) 
+- [2020-08-20-深入解析-Vue-的热更新原理，尤大是如何巧用源码中的细节？](https://www.ershicimi.com/p/2b6d755cd0959e8025e368da2abfab99) 
 - [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
 - [2020-08-18-上帝视角看-Vue-源码，能看出个啥？](https://www.ershicimi.com/p/0e29f2e9a8824df02cc351192de5cfe7) 
 - [2020-08-10-58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/1cf49709f7c37e2028ba1bceedcf27c4) 
@@ -57,3 +58,4 @@
 - [2020-08-21-翻译-vue3指南-03应用实例](https://juejin.im/post/6863664455935983630) 
 - [2020-08-21-【姐妹篇】人家都在玩源码，你还在纠结vuex的使用...](https://juejin.im/post/6863661061103747085) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-08-22-Vue3-里-provide-一个-Vue-实例，为什么在-inject-时必须填写默认值？](https://www.v2ex.com/t/700561) 

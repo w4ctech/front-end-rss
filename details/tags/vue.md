@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 14:33:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 14:46:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -57,4 +57,3 @@
 - [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-08-22-Vue3-里-provide-一个-Vue-实例，为什么在-inject-时必须填写默认值？](https://www.v2ex.com/t/700561) 
-- [2020-08-22-搭建了一个简单的-Vue-Cesium-架子，可以直接拉取项目，自己扩展。骗个-star](https://www.v2ex.com/t/700531) 

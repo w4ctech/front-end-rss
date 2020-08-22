@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 03:21:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 03:31:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -34,6 +34,8 @@
 - [2020-08-18-让你减少加班的15条高效JS技巧！](https://www.ershicimi.com/p/b1504bcafd500a85680eb80fd2b2a340) 
 - [2020-08-16-使用-JavaScript-编写更好的条件语句](https://www.ershicimi.com/p/2ffbec9a1d3ea118c57e492891812113) 
 - [2020-08-12-不要成为只会JS，不会写CSS的“伪前端”！](https://www.ershicimi.com/p/ecd28c1d3162b1b9e5df477c2f9285ff) 
+- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
+- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-08-19-【图书】JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/0670af4c43a69b00c705bafb864ad249) 
 - [2020-08-18-【第2038期】使用滚动特效的最佳实践](https://www.ershicimi.com/p/f101c6e7a2e764911b2c8c10c82bb979) 
 - [2020-08-10-【第2030期】JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/b5d928c5a5bb527a841b3c254803bc72) 
@@ -122,5 +124,6 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-08-22-图多杀猫-今天去-George-Floyd-事件现场转了一圈](https://www.v2ex.com/t/700470) 
 - [2020-08-22-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) 
 - [2020-08-07-【安全圈】路由器,交换机和AnyConnect-VPN中的高度严重漏洞](https://sec.thief.one/article_content?a_id=1c9ffbde3b409b310e18dcadfbe69b72) 

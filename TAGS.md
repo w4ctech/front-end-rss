@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-22 01:10:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 01:21:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -180,15 +180,15 @@
 - [【程序员成长指北】用（Node+MongoDB）搭建简单的图床或者网盘](https://www.ershicimi.com/p/1580806542907ddbaeebddd0a4f582b0)
 - [【程序员成长指北】Node.js-进阶之-fs-文件模块学习](https://www.ershicimi.com/p/d1ef4d94506b4cee89f625b399f7410a)
 - [【程序员成长指北】Node.js---200-多行代码实现-Websocket-协议](https://www.ershicimi.com/p/8ef2e8b38849932dc70b7afccac95337)
+- [【Nodejs技术栈】推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806)
+- [【Nodejs技术栈】一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/4fd54e82ba5cd37e48a5a8095178bbb9)
+- [【Nodejs技术栈】Node.js-异步延续模型](https://www.ershicimi.com/p/49850a57b1261230fb6486dece7bb273)
+- [【Nodejs技术栈】如何定制企业级-Node.js-代码检查规范](https://www.ershicimi.com/p/46117eecd705963a4217bd64bbc467df)
 - [【Nodejs技术栈】一杯茶的时间，上手-Koa2-+-MySQL-开发](https://www.ershicimi.com/p/c7db98ad78904e16b74e417ea79c2233)
 - [【Nodejs技术栈】CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b)
 - [【Nodejs技术栈】写在前面-—-为什么-2020-还要学-Node.js](https://www.ershicimi.com/p/29c03005193c1b449c3e2f8dd8661176)
-- [【Nodejs技术栈】赠书第-2-期｜Node.js-企业级应用开发实践](https://www.ershicimi.com/p/e15e541682fadd6c6f283df641910553)
-- [【Nodejs技术栈】Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/b1c05458bdcb1ec021f90bcf873addab)
 - [【阮一峰的网络日志】Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html)
 - [【凹凸实验室】一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/)
-- [【凹凸实验室】Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/)
-- [【凹凸实验室】【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -453,7 +453,7 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【互联网架构师】如何让你的Nginx-提升10倍性能？](https://www.ershicimi.com/p/f6a7fffad06ba4c4d6c9555e2aca00bb)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6)
+- [【开发者头条】滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -521,9 +521,8 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】SpringBoot项目优雅的http客户端工具，太香了!](https://www.ershicimi.com/p/3e91084d0a76a64293335098989f21c4)
 - [【技术头条】十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
 - [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
-- [【开发者头条】推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k)
+- [【开发者头条】推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
 - [【安全热点】Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -577,7 +576,6 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】开源项目分享-：管理多个-git-库的命令行工具](https://www.v2ex.com/t/700403)
-- [【V2EX】GitHub：反爬技术方案的研究与落地](https://www.v2ex.com/t/700387)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

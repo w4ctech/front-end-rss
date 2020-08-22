@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-22 01:10:33，:rocket: 更新条数: +3535， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-22 01:21:06，:rocket: 更新条数: +3538， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -663,6 +663,12 @@
 </summary>
 
 
+- [2020-08-22-推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806) ![](assets/new.png)  
+- [2020-08-21-从零实现-Vuex-掌握其执行流程和执行机制](https://www.ershicimi.com/p/7cf670e6bdff4a0d4c0dea875d51ae1c) ![](assets/new.png)  
+- [2020-08-21-一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/4fd54e82ba5cd37e48a5a8095178bbb9) ![](assets/new.png)  
+- [2020-08-20-Node.js-异步延续模型](https://www.ershicimi.com/p/49850a57b1261230fb6486dece7bb273) ![](assets/new.png)  
+- [2020-08-19-如何定制企业级-Node.js-代码检查规范](https://www.ershicimi.com/p/46117eecd705963a4217bd64bbc467df) ![](assets/new.png)  
+- [2020-08-18-前端模块化：CommonJS,AMD,CMD,ES6](https://www.ershicimi.com/p/d2379722a4ae1383e39ba0c43731c031) ![](assets/new.png)  
 - [2020-08-17-Mongoose-实现关联查询和踩坑记录](https://www.ershicimi.com/p/422174403b1db1de6805793a1c5a2af6) ![](assets/new.png)  
 - [2020-08-16-推荐一位-Github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/ed297c30ed030e57e29c4b4dfdfec211) ![](assets/new.png)  
 - [2020-08-14-13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0) ![](assets/new.png)  
@@ -677,12 +683,6 @@
 - [2020-08-05-写在前面-—-为什么-2020-还要学-Node.js](https://www.ershicimi.com/p/29c03005193c1b449c3e2f8dd8661176) ![](assets/new.png)  
 - [2020-08-04-深入Vue-底层原理以及运行机制](https://www.ershicimi.com/p/9025ae23cea918507c880dfd788e3136) ![](assets/new.png)  
 - [2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) ![](assets/new.png)  
-- [2020-08-01-赠书第-2-期｜Node.js-企业级应用开发实践](https://www.ershicimi.com/p/e15e541682fadd6c6f283df641910553) ![](assets/new.png)  
-- [2020-07-30-工程化-1:1-从零实现-Vue-源码](https://www.ershicimi.com/p/3accac5a39f0227384771ed6026452c1) ![](assets/new.png)  
-- [2020-07-29-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/b1c05458bdcb1ec021f90bcf873addab) ![](assets/new.png)  
-- [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) ![](assets/new.png)  
-- [2020-07-23-微前端从实战到源码-可能是最完整的版本！](https://www.ershicimi.com/p/8f129ecc57ce670a54e08c76ac3f51f1) ![](assets/new.png)  
-- [2020-07-22-如何用函数框架快速开发大型-Web-应用-|-实战](https://www.ershicimi.com/p/e16ae7ca242b28c21744fe8477891858) ![](assets/new.png)  
 - [......【查看更多】......](./details/Nodejs技术栈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-08-22-求助贴：-Android10-后台持续定位问题](https://www.v2ex.com/t/700438) ![](assets/new.png)  
+- [2020-08-22-迫于活动，-45-收京东会员](https://www.v2ex.com/t/700437) ![](assets/new.png)  
+- [2020-08-22-不想工作了，可是..](https://www.v2ex.com/t/700436) ![](assets/new.png)  
 - [2020-08-22-v-站没有用-bootstrap-的么？](https://www.v2ex.com/t/700434) ![](assets/new.png)  
 - [2020-08-22-瘦客户机-huawei-升腾-GI945-不可以直接-sata-硬盘启动-win7-系统么？](https://www.v2ex.com/t/700433) ![](assets/new.png)  
 - [2020-08-22-再问-Google-Photos-备份问题:-如何把其他所有设备上的照片全部快速同步到-Google-Photos-上](https://www.v2ex.com/t/700431) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-08-21-请问下-chromium-edge-on-windows-的标签栏和地址栏字体是啥？](https://www.v2ex.com/t/700416) ![](assets/new.png)  
 - [2020-08-21-谁能在西安教育方面有资源](https://www.v2ex.com/t/700415) ![](assets/new.png)  
 - [2020-08-21-经过-8-个月的折腾，我准备回归-win10+虚拟机的怀抱，另外得出结论，-Java-程序员对于-Linux-桌面的使用并不是强依赖性质的](https://www.v2ex.com/t/700414) ![](assets/new.png)  
-- [2020-08-21-如何一边交谈一边思考？](https://www.v2ex.com/t/700413) ![](assets/new.png)  
-- [2020-08-21-信通院发布《中国宽带资费水平报告》](https://www.v2ex.com/t/700412) ![](assets/new.png)  
-- [2020-08-21-记录一次-印象笔记-数据丢失](https://www.v2ex.com/t/700411) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,20 +1139,23 @@
 </summary>
 
 
-- [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
-- [2020-08-22-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
-- [2020-08-22-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
-- [2020-08-22-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-22-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-22-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
-- [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
-- [2020-08-22-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-22-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
-- [2020-08-22-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
-- [2020-08-22-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-22-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
-- [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-22-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
+- [2020-08-22-Elasticsearch-Client-Bulk-死锁问题处理](https://toutiao.io/k/g3xb2pz) ![](assets/new.png)  
+- [2020-08-22-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
 - [2020-08-22-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-22-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-22-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-22-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-22-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
+- [2020-08-22-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-22-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
+- [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-22-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-22-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
+- [2020-08-22-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-22-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
 - [2020-08-22-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

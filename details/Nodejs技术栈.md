@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-08-22 01:10:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 01:21:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Nodejs技术栈
 
 
 
 
+- [2020-08-22-推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806) 
+- [2020-08-21-从零实现-Vuex-掌握其执行流程和执行机制](https://www.ershicimi.com/p/7cf670e6bdff4a0d4c0dea875d51ae1c) 
+- [2020-08-21-一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/4fd54e82ba5cd37e48a5a8095178bbb9) 
+- [2020-08-20-Node.js-异步延续模型](https://www.ershicimi.com/p/49850a57b1261230fb6486dece7bb273) 
+- [2020-08-19-如何定制企业级-Node.js-代码检查规范](https://www.ershicimi.com/p/46117eecd705963a4217bd64bbc467df) 
+- [2020-08-18-前端模块化：CommonJS,AMD,CMD,ES6](https://www.ershicimi.com/p/d2379722a4ae1383e39ba0c43731c031) 
 - [2020-08-17-Mongoose-实现关联查询和踩坑记录](https://www.ershicimi.com/p/422174403b1db1de6805793a1c5a2af6) 
 - [2020-08-16-推荐一位-Github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/ed297c30ed030e57e29c4b4dfdfec211) 
 - [2020-08-14-13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0) 
@@ -19,9 +25,3 @@
 - [2020-08-05-写在前面-—-为什么-2020-还要学-Node.js](https://www.ershicimi.com/p/29c03005193c1b449c3e2f8dd8661176) 
 - [2020-08-04-深入Vue-底层原理以及运行机制](https://www.ershicimi.com/p/9025ae23cea918507c880dfd788e3136) 
 - [2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) 
-- [2020-08-01-赠书第-2-期｜Node.js-企业级应用开发实践](https://www.ershicimi.com/p/e15e541682fadd6c6f283df641910553) 
-- [2020-07-30-工程化-1:1-从零实现-Vue-源码](https://www.ershicimi.com/p/3accac5a39f0227384771ed6026452c1) 
-- [2020-07-29-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/b1c05458bdcb1ec021f90bcf873addab) 
-- [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) 
-- [2020-07-23-微前端从实战到源码-可能是最完整的版本！](https://www.ershicimi.com/p/8f129ecc57ce670a54e08c76ac3f51f1) 
-- [2020-07-22-如何用函数框架快速开发大型-Web-应用-|-实战](https://www.ershicimi.com/p/e16ae7ca242b28c21744fe8477891858) 

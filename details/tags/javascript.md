@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 01:10:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 01:21:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -72,6 +72,7 @@
 - [2020-08-14-你应该知道的一些JS数组技巧](https://www.ershicimi.com/p/52b7b15d5581137e7c761f7b2f2b9fd0) 
 - [2020-08-13-使用-JavaScript-编写更好的条件语句](https://www.ershicimi.com/p/74ba6cbb5e0e285be05a3bb84336fe27) 
 - [2020-08-09-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/a9e2fd82597c2b2059f897c1bca9c667) 
+- [2020-08-18-前端模块化：CommonJS,AMD,CMD,ES6](https://www.ershicimi.com/p/d2379722a4ae1383e39ba0c43731c031) 
 - [2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) 
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 

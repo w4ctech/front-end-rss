@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 17:02:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 17:09:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2454,6 +2454,7 @@
 - [2020-08-15-姑娘，你的「性」还好吗？](https://www.ershicimi.com/p/ff14aa80ee649dc589648e4420883d1b) 
 - [2020-08-15-知乎故事-|-皇上赐了我一碗避子汤](https://www.ershicimi.com/p/07e4500476254ea831adec5b1e03670e) 
 - [2020-08-14-中国人都有什么有意思的特色-Buff？](https://www.ershicimi.com/p/b681e42d3d92a42ee176109e1c06c53d) 
+- [2020-08-22-学历有硬伤，打算进大厂。有啥方法吗](https://www.v2ex.com/t/700608) 
 - [2020-08-22-近期神价键鼠：-499-元罗技-G903，-159-元-G304；-179-元的-Cherry-键盘](https://www.v2ex.com/t/700607) 
 - [2020-08-22-IDEA-插件开发，学习路径、资料等求指导。](https://www.v2ex.com/t/700606) 
 - [2020-08-22-请问-android-studio-可以自定义-build-命令吗？想加个参数。](https://www.v2ex.com/t/700605) 
@@ -2509,14 +2510,13 @@
 - [2020-08-22-Shell-编码规范](https://toutiao.io/k/jbo65f6) 
 - [2020-08-22-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
 - [2020-08-22-iPadOS-13.4-+-键盘-+-鼠标：让你的旧-iPad-重获新生](https://toutiao.io/k/ocb41t3) 
-- [2020-08-22-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) 
-- [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) 
-- [2020-08-22-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) 
+- [2020-08-22-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) 
 - [2020-08-22-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) 
 - [2020-08-22-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) 
-- [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) 
-- [2020-08-22-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) 
+- [2020-08-22-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) 
 - [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) 
+- [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) 
+- [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) 
 - [2020-08-22-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) 
 - [2020-08-21-小心恶意软件掏空你的手机~](https://sec.thief.one/article_content?a_id=e2dafb568c1a208c2eb62a589d04e719) 
 - [2020-08-20-盘点|2020上半年八大应急响应典型案例分析](https://sec.thief.one/article_content?a_id=2bd9c68a5a211e89dd72d14604cd352a) 

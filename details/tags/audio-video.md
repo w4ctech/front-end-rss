@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 21:09:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 21:20:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -93,6 +93,7 @@
 - [2020-08-22-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/1c917ebcc94ef67dc4fe89f64b2d4659) 
 - [2020-08-18-有奖活动-|「小秋招」职场练习生-C-位出道视频征集](https://www.ershicimi.com/p/f35dc28cee875bc2aa2f7b45463b51ca) 
 - [2020-08-14-解说争霸，赢奖金-|-寻找全网最强影视视频解说](https://www.ershicimi.com/p/1d7122c242b40a8b379813cf5d0b1653) 
+- [2020-08-22-一边看大木直播，一边写了个密码生成的小工具pwgenhttps://github.com/zzztttkkk/pwgen](https://www.v2ex.com/t/700613) 
 - [2020-08-22-求-Python-视频或文字教程，-PHP-准备转行](https://www.v2ex.com/t/700593) 
 - [2020-08-22-完全无法理解为何-youtube-搜索结果中不能-block-特定用户的视频](https://www.v2ex.com/t/700583) 
 - [2020-08-13-央视提醒:微信清粉服务或泄露个人信息含视频](https://sec.thief.one/article_content?a_id=68e5a1ad9f18eb39c4be5133326c39ba) 

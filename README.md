@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-22 02:33:29，:rocket: 更新条数: +3328， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-22 02:46:36，:rocket: 更新条数: +3327， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-08-22-WIN10-花样不少,还是更习惯于-WIN7-的稳定](https://www.v2ex.com/t/700461) ![](assets/new.png)  
+- [2020-08-22-求介绍线路板行业有好用、全面的-ERP-软件](https://www.v2ex.com/t/700460) ![](assets/new.png)  
+- [2020-08-22-怎么让自己变得更有价值？](https://www.v2ex.com/t/700458) ![](assets/new.png)  
+- [2020-08-22-tuple-格式的时间如何转化成'H:M:S'](https://www.v2ex.com/t/700456) ![](assets/new.png)  
 - [2020-08-22-遗传算法生成的模型如何避免过拟合？](https://www.v2ex.com/t/700455) ![](assets/new.png)  
 - [2020-08-22-想转-Linux-运维](https://www.v2ex.com/t/700454) ![](assets/new.png)  
 - [2020-08-22-每天在自己的技术问答网站自问自答](https://www.v2ex.com/t/700453) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-08-22-买不到真正的医用口罩吗？](https://www.v2ex.com/t/700439) ![](assets/new.png)  
 - [2020-08-22-求助贴：-Android10-后台持续定位问题](https://www.v2ex.com/t/700438) ![](assets/new.png)  
 - [2020-08-22-迫于活动，-45-收京东会员](https://www.v2ex.com/t/700437) ![](assets/new.png)  
-- [2020-08-22-不想工作了，可是..](https://www.v2ex.com/t/700436) ![](assets/new.png)  
-- [2020-08-22-v-站没有用-bootstrap-的么？](https://www.v2ex.com/t/700434) ![](assets/new.png)  
-- [2020-08-22-瘦客户机-huawei-升腾-GI945-不可以直接-sata-硬盘启动-win7-系统么？](https://www.v2ex.com/t/700433) ![](assets/new.png)  
-- [2020-08-22-再问-Google-Photos-备份问题:-如何把其他所有设备上的照片全部快速同步到-Google-Photos-上](https://www.v2ex.com/t/700431) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,20 +1125,20 @@
 - [2020-08-22-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
 - [2020-08-22-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
 - [2020-08-22-译-Nodejs-与-Golang-的比较：Web-开发人员选择哪个最佳？](https://toutiao.io/k/n10bb7z) ![](assets/new.png)  
-- [2020-08-22-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
 - [2020-08-22-iPadOS-13.4-+-键盘-+-鼠标：让你的旧-iPad-重获新生](https://toutiao.io/k/ocb41t3) ![](assets/new.png)  
+- [2020-08-22-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
 - [2020-08-22-Raft-算法之领导人选举](https://toutiao.io/k/2l2d2pu) ![](assets/new.png)  
 - [2020-08-22-Superset，基于-Web-的开源-BI-工具，GitHub-三万-star](https://toutiao.io/k/uyj2p7w) ![](assets/new.png)  
-- [2020-08-22-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-22-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
-- [2020-08-22-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-22-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-22-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
-- [2020-08-22-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
-- [2020-08-22-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
 - [2020-08-22-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-22-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-22-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-22-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
+- [2020-08-22-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-22-推荐-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-22-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-22-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-22-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
 - [2020-08-22-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
+- [2020-08-22-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

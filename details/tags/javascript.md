@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 01:21:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 01:31:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -57,6 +57,7 @@
 - [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
 - [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
 - [2020-08-19-我是怎样通过个人项目成长为高级-JavaScript-开发者的](https://www.ershicimi.com/p/dd5e699b03225c29d4b74f38f71ce072) 
+- [2020-08-03-vivo-悟空活动H5-活动加载优化](https://www.ershicimi.com/p/82b13171ad46eefa287cf2703e6fa8c1) 
 - [2020-08-15-从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/f9083588d3d1b71d64046194c7377a80) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
@@ -70,6 +71,8 @@
 - [2020-08-14-你应该知道的一些JS数组技巧](https://www.ershicimi.com/p/52b7b15d5581137e7c761f7b2f2b9fd0) 
 - [2020-08-13-使用-JavaScript-编写更好的条件语句](https://www.ershicimi.com/p/74ba6cbb5e0e285be05a3bb84336fe27) 
 - [2020-08-09-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/a9e2fd82597c2b2059f897c1bca9c667) 
+- [2020-08-18-前端模块化：CommonJS,AMD,CMD,ES6](https://www.ershicimi.com/p/d2379722a4ae1383e39ba0c43731c031) 
+- [2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) 
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
@@ -79,6 +82,7 @@
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4) 
 - [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) 
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
+- [2020-08-16-如何优雅的实现-try/catch-异常块？](https://www.ershicimi.com/p/4d07bb54af3631bf208bd408c7cd21d9) 
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 

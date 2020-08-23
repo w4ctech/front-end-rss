@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-23 14:10:37，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-23 14:22:05，:rocket: 更新条数: +3326， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1057,6 +1057,26 @@
 </summary>
 
 
+- [2020-08-23-古翠路地铁站附近租房，跪求攻略](https://www.v2ex.com/t/700790) ![](assets/new.png)  
+- [2020-08-23-时代的好人](https://www.v2ex.com/t/700789) ![](assets/new.png)  
+- [2020-08-23-改了下-gitalk，增加了匿名评论功能](https://www.v2ex.com/t/700785) ![](assets/new.png)  
+- [2020-08-23-一批整站下载工具（下载神器）](https://www.v2ex.com/t/700784) ![](assets/new.png)  
+- [2020-08-23-请教-chrome://last-为什么在-chrome-里面没有了？有替代的吗？在-360-浏览器里都还有这功能。](https://www.v2ex.com/t/700783) ![](assets/new.png)  
+- [2020-08-23-终于跟女朋友解释清楚了什么是云计算](https://www.v2ex.com/t/700781) ![](assets/new.png)  
+- [2020-08-23-Python-插入特殊符号](https://www.v2ex.com/t/700780) ![](assets/new.png)  
+- [2020-08-23-Windows-上有流畅运行-Android-app-的工具么？](https://www.v2ex.com/t/700779) ![](assets/new.png)  
+- [2020-08-23-百度云盘莫名多了陌生人的照片，为何啊](https://www.v2ex.com/t/700777) ![](assets/new.png)  
+- [2020-08-23-SpringBoot-启动过程中有什么办法可以取消掉某个类上注释的-@ImportResource-注解吗](https://www.v2ex.com/t/700776) ![](assets/new.png)  
+- [2020-08-23-vcenter-server-7.0-是不是只能在虚拟机上跑？](https://www.v2ex.com/t/700775) ![](assets/new.png)  
+- [2020-08-23-字节跳动商业变现部门内推：-HC-多，钱也多，速来！](https://www.v2ex.com/t/700774) ![](assets/new.png)  
+- [2020-08-23-美区-Apple-ID-购买的时候需要挂美国代理防止被风控吗？](https://www.v2ex.com/t/700773) ![](assets/new.png)  
+- [2020-08-23-百度网盘天翼网盘上传照片会被改修改日期甚至拍摄日期都被改](https://www.v2ex.com/t/700772) ![](assets/new.png)  
+- [2020-08-23-迷茫大三，在线请教](https://www.v2ex.com/t/700771) ![](assets/new.png)  
+- [2020-08-23-行人如何防止误闯红灯?](https://www.v2ex.com/t/700769) ![](assets/new.png)  
+- [2020-08-23-个人可以购买补充医疗保险吗](https://www.v2ex.com/t/700768) ![](assets/new.png)  
+- [2020-08-23-饿了么的超时歉意红包太鸡贼了](https://www.v2ex.com/t/700767) ![](assets/new.png)  
+- [2020-08-23-Mojave-和-Big-Sur-双系统启动项兼容问题求教](https://www.v2ex.com/t/700766) ![](assets/new.png)  
+- [2020-08-23-今年-27，刚转行-Java-开发，入职一周，感觉很吃力啊，应该从哪开始着手，请过来人给点儿意见，拜托](https://www.v2ex.com/t/700765) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,16 +1129,16 @@
 - [2020-08-23-浅谈网络攻击追踪溯源](https://toutiao.io/k/uw843pc) ![](assets/new.png)  
 - [2020-08-23-一文搞定前端代理骚操作！再也不怕线上-bug-啦](https://toutiao.io/k/n4bmt51) ![](assets/new.png)  
 - [2020-08-23-PHP-Opcache-配置优化实战](https://toutiao.io/k/zilb74h) ![](assets/new.png)  
-- [2020-08-23-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
-- [2020-08-23-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
-- [2020-08-23-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
-- [2020-08-23-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-23-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
-- [2020-08-23-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-23-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-23-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
 - [2020-08-23-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
-- [2020-08-23-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-23-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
 - [2020-08-23-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
 - [2020-08-23-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
+- [2020-08-23-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-23-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-23-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-23-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

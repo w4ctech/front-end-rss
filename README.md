@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-23 06:33:34，:rocket: 更新条数: +3330， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-23 06:46:39，:rocket: 更新条数: +3279， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -49,9 +49,9 @@
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)![](assets/dot.png)   
+- [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1005,16 +1005,6 @@
 </summary>
 
 
-- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
-- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
-- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
-- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
-- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
-- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
-- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
-- [2019-10-13-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
-- [2019-10-12-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
-- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,26 +1047,6 @@
 </summary>
 
 
-- [2020-08-23-闲时做了个租房小程序，希望对-V-友有用](https://www.v2ex.com/t/700691) ![](assets/new.png)  
-- [2020-08-23-守望先锋已经不能玩了](https://www.v2ex.com/t/700690) ![](assets/new.png)  
-- [2020-08-23-咸鱼上/现实中-如何应对那些-没有契约精神，无礼耍赖的人？-（是我的问题还是他们的问题？）](https://www.v2ex.com/t/700689) ![](assets/new.png)  
-- [2020-08-23-二次元向-不会爬虫的快来，批量下载超清壁纸的软件（免登录/客制化-tag-自动更新](https://www.v2ex.com/t/700688) ![](assets/new.png)  
-- [2020-08-23-微信跨国语音有过滤吗](https://www.v2ex.com/t/700686) ![](assets/new.png)  
-- [2020-08-23-仅支持-HomeKit-的智能家居，国产都有什么品牌吗？绿米这种强制用网关的安全吗](https://www.v2ex.com/t/700684) ![](assets/new.png)  
-- [2020-08-23-美区车位，余-1，半年支付](https://www.v2ex.com/t/700683) ![](assets/new.png)  
-- [2020-08-23-关于腾讯质量部-是天坑部门吗](https://www.v2ex.com/t/700682) ![](assets/new.png)  
-- [2020-08-23-npm-上的包有办法做成离线安装包吗?](https://www.v2ex.com/t/700680) ![](assets/new.png)  
-- [2020-08-23-关于显卡换代价格的一些疑问](https://www.v2ex.com/t/700679) ![](assets/new.png)  
-- [2020-08-23-请问-archlinux-使用-yay-安装软件时候，交互命令是什么意思？](https://www.v2ex.com/t/700678) ![](assets/new.png)  
-- [2020-08-23-总有人说-Android-抽成-70%，比-iOS-的-30%高那么多，然而事实并不仅仅如此，需要分情况讨论](https://www.v2ex.com/t/700677) ![](assets/new.png)  
-- [2020-08-23-去海南发展怎么样？工作和生活，值得推荐去吗？](https://www.v2ex.com/t/700676) ![](assets/new.png)  
-- [2020-08-23-同事写的注释实在太多余了](https://www.v2ex.com/t/700675) ![](assets/new.png)  
-- [2020-08-23-滴滴这帮人这代码写的……这优惠券也是没谁了……](https://www.v2ex.com/t/700674) ![](assets/new.png)  
-- [2020-08-23-关于《八佰》的现实意义，这篇文章讲得很热血](https://www.v2ex.com/t/700673) ![](assets/new.png)  
-- [2020-08-23-求推荐-适合-新手-类型-advert-中国这样论坛，-学习的地方。](https://www.v2ex.com/t/700671) ![](assets/new.png)  
-- [2020-08-23-2020.08.23--周末碎碎念](https://www.v2ex.com/t/700670) ![](assets/new.png)  
-- [2020-08-23-给新生的-V2-程序员们讲一个老梗，中国的-VIM-开发风气是新浪带起来的，但是现在已经不用了。](https://www.v2ex.com/t/700669) ![](assets/new.png)  
-- [2020-08-23-移动-4G-和-5G-走的线路不一样吗？](https://www.v2ex.com/t/700668) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1099,16 @@
 - [2020-08-23-一文搞定前端代理骚操作！再也不怕线上-bug-啦](https://toutiao.io/k/n4bmt51) ![](assets/new.png)  
 - [2020-08-23-闲鱼如何在-2-个月内实现-Android-启动速度翻倍的？](https://toutiao.io/k/bsrmb6b) ![](assets/new.png)  
 - [2020-08-23-PHP-Opcache-配置优化实战](https://toutiao.io/k/zilb74h) ![](assets/new.png)  
-- [2020-08-23-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
-- [2020-08-23-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
-- [2020-08-23-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
-- [2020-08-23-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-23-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
-- [2020-08-23-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
-- [2020-08-23-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-23-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-23-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
+- [2020-08-23-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
+- [2020-08-23-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-23-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
 - [2020-08-23-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-23-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
+- [2020-08-23-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-23-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
+- [2020-08-23-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-23-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

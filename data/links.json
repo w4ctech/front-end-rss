@@ -12792,10 +12792,36 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "奥地利新增207例新冠肺炎确诊病例 累计25159例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMgdnweEiKJFT5ZM90Kuo200823&isfromapp=1",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "疫情反弹 阿联酋连续6天新增新冠肺炎确诊病例数大幅上升",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipMZoOPL1UcGq3QRGKYPG200823&isfromapp=1",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "乌克兰前总理季莫申科感染新冠病毒 症状严重",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqlIEh0yRj9mIyynxtWHW200823&isfromapp=1",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "香港新增25例新冠肺炎确诊病例 其中19例为本土病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyAfqGpR80GdAujQHSxV6200823&isfromapp=1",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "减免税费、利息补贴……澳门为中小企业纾困送“及时雨”",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LRjyWV5KyOH5dtYiMuD200823&isfromapp=1",
+        "date": "2020-08-23"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",
@@ -15949,6 +15975,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "行人如何防止误闯红灯?",
+        "link": "https://www.v2ex.com/t/700769",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "个人可以购买补充医疗保险吗",
+        "link": "https://www.v2ex.com/t/700768",
+        "date": "2020-08-23"
+      },
+      {
         "title": "饿了么的超时歉意红包太鸡贼了",
         "link": "https://www.v2ex.com/t/700767",
         "date": "2020-08-23"
@@ -16142,11 +16178,6 @@
         "title": "建议暗黑模式再造一些改进",
         "link": "https://www.v2ex.com/t/700721",
         "date": "2020-08-23"
-      },
-      {
-        "title": "一个 kafka consumer 在 k8s 里 该如何设置存活检测",
-        "link": "https://www.v2ex.com/t/700718",
-        "date": "2020-08-23"
       }
     ]
   },
@@ -16313,8 +16344,8 @@
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
-        "link": "https://toutiao.io/k/lmtdqk1",
+        "title": "[推荐] 一道有意思的腾讯算法面试题",
+        "link": "https://toutiao.io/k/wui7yqj",
         "date": "2020-08-23"
       },
       {
@@ -16323,33 +16354,33 @@
         "date": "2020-08-23"
       },
       {
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-23"
+      },
+      {
         "title": "[推荐] 图解：通用搜索引擎背后的技术点",
         "link": "https://toutiao.io/k/l5wu4f9",
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] 分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/9ujm1ju",
+        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
+        "link": "https://toutiao.io/k/kumhh9k",
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] 一道有意思的腾讯算法面试题",
-        "link": "https://toutiao.io/k/wui7yqj",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
-        "link": "https://toutiao.io/k/smg6nko",
+        "title": "[推荐] ​Linux CPU 性能优化指南",
+        "link": "https://toutiao.io/k/e6zbho6",
         "date": "2020-08-23"
       },
       {
@@ -16363,8 +16394,8 @@
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
+        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
+        "link": "https://toutiao.io/k/smg6nko",
         "date": "2020-08-23"
       },
       {
@@ -16373,13 +16404,13 @@
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] ​Linux CPU 性能优化指南",
-        "link": "https://toutiao.io/k/e6zbho6",
+        "title": "[推荐] 分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] PB 级大规模 Elasticsearch 集群运维与调优实践",
-        "link": "https://toutiao.io/k/w3c3n1w",
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
         "date": "2020-08-23"
       },
       {

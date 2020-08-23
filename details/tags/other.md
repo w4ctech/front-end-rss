@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-23 07:20:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 07:21:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-08-23-韩国教会又惹祸！首都圈暴发疫情-并已蔓延全国......](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6DOpKG3KYhZLCPqQJw62200823&isfromapp=1) 
+- [2020-08-23-美国学生漠视防疫规定-聚会或致超级传播](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij0uLkakuhRlQ3FKAdz5C200823&isfromapp=1) 
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html) 
 - [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html) 
 - [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 

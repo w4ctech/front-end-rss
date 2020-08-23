@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 08:34:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 08:46:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -57,4 +57,3 @@
 - [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
 - [2020-08-22-完整版-Vue-VS-非完整版-Vue](https://juejin.im/post/6863738604905037837) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-08-23-照着-某马的-vue-教学，用-django-DRF-整了个-管理系统玩具。](https://www.v2ex.com/t/700667) 

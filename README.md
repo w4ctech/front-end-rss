@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-23 08:34:14，:rocket: 更新条数: +3326， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-23 08:46:28，:rocket: 更新条数: +3324， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2020-08-22-【境内疫情观察】全国新增12例境外输入病例（8月22日）](http://m.database.caixin.com/m/2020-08-23/101596003.html) ![](assets/new.png)  
 - [2020-08-22-最新疫情：全国新冠累计确诊84951例-新增境外输入12例](http://m.china.caixin.com/m/2020-08-23/101596001.html) ![](assets/new.png)  
-- [2020-08-21-最新海外疫情：新冠感染超2282万-累计死亡近79.5万](http://m.international.caixin.com/m/2020-08-22/101595896.html) ![](assets/new.png)  
+- [2020-08-22-最新海外疫情：新冠感染近2308万-累计死亡近80万](http://m.international.caixin.com/m/2020-08-23/101596024.html) ![](assets/new.png)  
+- [2020-08-22-【境内疫情观察】全国新增12例境外输入病例（8月22日）](http://m.database.caixin.com/m/2020-08-23/101596003.html) ![](assets/new.png)  
 - [2020-08-21-【境内疫情观察】上海新增13例境外输入病例（8月21日）](http://m.database.caixin.com/m/2020-08-22/101595840.html) ![](assets/new.png)  
 - [2020-08-21-大流行手记|8月21日：日本拟开放外国人入境-俄疫苗上市后方做三期临床](https://m.caixin.com/m/2020-08-22/101595776.html) ![](assets/new.png)  
 - [2020-08-20-香港9月1日起推自愿性全民检测-中央政府负责费用](http://m.china.caixin.com/m/2020-08-21/101595663.html) ![](assets/new.png)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-23-减免税费、利息补贴……澳门为中小企业纾困送“及时雨”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LRjyWV5KyOH5dtYiMuD200823&isfromapp=1) ![](assets/new.png)  
 - [2020-08-23-赞比亚新增204例新冠肺炎确诊病例-累计10831例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifs3XLY2WOHHqkn1jbCuV200823&isfromapp=1) ![](assets/new.png)  
 - [2020-08-23-韩国教会又惹祸！首都圈暴发疫情-并已蔓延全国......](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6DOpKG3KYhZLCPqQJw62200823&isfromapp=1) ![](assets/new.png)  
 - [2020-08-23-印度新冠肺炎确诊病例累计超300万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXL4kntW7N2YSGP1PPc79200823&isfromapp=1) ![](assets/new.png)  
 - [2020-08-23-美国加州洛杉矶县新冠肺炎确诊病例趋年轻化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu73x5yYs9IMLaJNxUu28200823&isfromapp=1) ![](assets/new.png)  
-- [2020-08-23-美国学生漠视防疫规定-聚会或致超级传播](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij0uLkakuhRlQ3FKAdz5C200823&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-08-23-一个-kafka-consumer-在-k8s-里-该如何设置存活检测](https://www.v2ex.com/t/700718) ![](assets/new.png)  
+- [2020-08-23-就这？挽留老客户？联通你可算了吧。](https://www.v2ex.com/t/700717) ![](assets/new.png)  
 - [2020-08-23-大家有没有发现掘金上后端的文章基本都被-Java-霸屏了](https://www.v2ex.com/t/700715) ![](assets/new.png)  
 - [2020-08-23-iOS-14-Beta-5-看不到隐藏相册了吗？](https://www.v2ex.com/t/700714) ![](assets/new.png)  
 - [2020-08-23-上海-蚂蚁金服-数据平台（p6、p7、p8）招聘](https://www.v2ex.com/t/700713) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-08-23-群晖和威联通同价的话应该无脑群晖吗？](https://www.v2ex.com/t/700696) ![](assets/new.png)  
 - [2020-08-23-厚制备延迟置零为啥空闲空间还会不断变小](https://www.v2ex.com/t/700695) ![](assets/new.png)  
 - [2020-08-23-闲时做了个租房小程序，希望对-V-友有用](https://www.v2ex.com/t/700691) ![](assets/new.png)  
-- [2020-08-23-守望先锋已经不能玩了](https://www.v2ex.com/t/700690) ![](assets/new.png)  
-- [2020-08-23-咸鱼上/现实中-如何应对那些-没有契约精神，无礼耍赖的人？-（是我的问题还是他们的问题？）](https://www.v2ex.com/t/700689) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,23 +1122,23 @@
 - [2020-08-23-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
 - [2020-08-23-Ray，面向新兴-AI-应用的分布式框架](https://toutiao.io/k/svce46c) ![](assets/new.png)  
 - [2020-08-23-译-图解-Go-内存管理与内存清理](https://toutiao.io/k/rfvpcag) ![](assets/new.png)  
-- [2020-08-23-K3s-+-Ambassador，强大的轻量级-K8S-解决方案](https://toutiao.io/k/53h9oed) ![](assets/new.png)  
 - [2020-08-23-QUIC-协议详解之-Initial-包的处理](https://toutiao.io/k/5fht3f0) ![](assets/new.png)  
+- [2020-08-23-K3s-+-Ambassador，强大的轻量级-K8S-解决方案](https://toutiao.io/k/53h9oed) ![](assets/new.png)  
 - [2020-08-23-PicGo-图床与-Typora（PicGo-+-Typora-+-GitHub-的完整设置）](https://toutiao.io/k/47f28up) ![](assets/new.png)  
 - [2020-08-23-浅谈网络攻击追踪溯源](https://toutiao.io/k/uw843pc) ![](assets/new.png)  
 - [2020-08-23-闲鱼如何在-2-个月内实现-Android-启动速度翻倍的？](https://toutiao.io/k/bsrmb6b) ![](assets/new.png)  
 - [2020-08-23-一文搞定前端代理骚操作！再也不怕线上-bug-啦](https://toutiao.io/k/n4bmt51) ![](assets/new.png)  
 - [2020-08-23-PHP-Opcache-配置优化实战](https://toutiao.io/k/zilb74h) ![](assets/new.png)  
-- [2020-08-23-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-23-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
+- [2020-08-23-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
 - [2020-08-23-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-23-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
+- [2020-08-23-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
+- [2020-08-23-推荐-HBase/TiDB-都在用的数据结构：LSM-Tree，不得了解一下？](https://toutiao.io/k/v90if5y) ![](assets/new.png)  
+- [2020-08-23-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-23-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
 - [2020-08-23-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
 - [2020-08-23-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
-- [2020-08-23-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
-- [2020-08-23-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
-- [2020-08-23-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
-- [2020-08-23-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-23-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
+- [2020-08-23-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

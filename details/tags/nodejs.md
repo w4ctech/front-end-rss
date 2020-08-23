@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 11:48:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 12:03:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -30,3 +30,4 @@
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
 - [2020-08-22-nodejs-----融会贯通-（三）](https://juejin.im/post/6863991439395651598) 
 - [2020-08-22-nodejs-----融会贯通-（二）](https://juejin.im/post/6863984873174990861) 
+- [2020-08-23-找个-node-兼职来做](https://www.v2ex.com/t/700755) 

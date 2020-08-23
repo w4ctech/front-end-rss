@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-23 08:22:06，:rocket: 更新条数: +3327， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-23 08:31:43，:rocket: 更新条数: +3326， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-08-23-大家有没有发现掘金上后端的文章基本都被-Java-霸屏了](https://www.v2ex.com/t/700715) ![](assets/new.png)  
+- [2020-08-23-iOS-14-Beta-5-看不到隐藏相册了吗？](https://www.v2ex.com/t/700714) ![](assets/new.png)  
 - [2020-08-23-上海-蚂蚁金服-数据平台（p6、p7、p8）招聘](https://www.v2ex.com/t/700713) ![](assets/new.png)  
 - [2020-08-23-iPhone-腾讯视频-APP-如何用手机号登录，找了半个多小时找不到入口](https://www.v2ex.com/t/700712) ![](assets/new.png)  
 - [2020-08-23-用浏览器打开腾讯视频和新闻的网页，就咔地一声黑屏](https://www.v2ex.com/t/700711) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-08-23-闲时做了个租房小程序，希望对-V-友有用](https://www.v2ex.com/t/700691) ![](assets/new.png)  
 - [2020-08-23-守望先锋已经不能玩了](https://www.v2ex.com/t/700690) ![](assets/new.png)  
 - [2020-08-23-咸鱼上/现实中-如何应对那些-没有契约精神，无礼耍赖的人？-（是我的问题还是他们的问题？）](https://www.v2ex.com/t/700689) ![](assets/new.png)  
-- [2020-08-23-二次元向-不会爬虫的快来，批量下载超清壁纸的软件（免登录/客制化-tag-自动更新](https://www.v2ex.com/t/700688) ![](assets/new.png)  
-- [2020-08-23-微信跨国语音有过滤吗](https://www.v2ex.com/t/700686) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-08-23-闲鱼如何在-2-个月内实现-Android-启动速度翻倍的？](https://toutiao.io/k/bsrmb6b) ![](assets/new.png)  
 - [2020-08-23-一文搞定前端代理骚操作！再也不怕线上-bug-啦](https://toutiao.io/k/n4bmt51) ![](assets/new.png)  
 - [2020-08-23-PHP-Opcache-配置优化实战](https://toutiao.io/k/zilb74h) ![](assets/new.png)  
-- [2020-08-23-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
-- [2020-08-23-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-23-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-23-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
-- [2020-08-23-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
-- [2020-08-23-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
-- [2020-08-23-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-23-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
 - [2020-08-23-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-23-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-23-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
+- [2020-08-23-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
 - [2020-08-23-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-23-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
+- [2020-08-23-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
+- [2020-08-23-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-23-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
+- [2020-08-23-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

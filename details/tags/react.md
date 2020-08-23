@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 05:09:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 05:19:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -35,3 +35,4 @@
 - [2020-08-13-React17新特性：启发式更新算法](https://www.ershicimi.com/p/e8426b680d9e54dd7b0e8e2bf99ed27a) 
 - [2020-07-01-React开发必须知道的34个技巧](https://www.ershicimi.com/p/5fd3fea3e708fdde0f7d0f1425fd0aea) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
+- [2020-08-23-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) 

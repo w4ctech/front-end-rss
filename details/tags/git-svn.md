@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 15:02:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 15:09:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -17,5 +17,4 @@
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
 - [2020-08-23-改了下-gitalk，增加了匿名评论功能](https://www.v2ex.com/t/700785) 
-- [2020-08-23-用函数计算和-OSS-做了一个-Git-LFS-服务器](https://www.v2ex.com/t/700747) 
 - [2020-08-23-PicGo-图床与-Typora（PicGo-+-Typora-+-GitHub-的完整设置）](https://toutiao.io/k/47f28up) 

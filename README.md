@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-23 08:12:22，:rocket: 更新条数: +770， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-23 08:20:58，:rocket: 更新条数: +3327， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-08-22-【境内疫情观察】全国新增12例境外输入病例（8月22日）](http://m.database.caixin.com/m/2020-08-23/101596003.html) ![](assets/new.png)  
+- [2020-08-22-最新疫情：全国新冠累计确诊84951例-新增境外输入12例](http://m.china.caixin.com/m/2020-08-23/101596001.html) ![](assets/new.png)  
+- [2020-08-21-最新海外疫情：新冠感染超2282万-累计死亡近79.5万](http://m.international.caixin.com/m/2020-08-22/101595896.html) ![](assets/new.png)  
+- [2020-08-21-【境内疫情观察】上海新增13例境外输入病例（8月21日）](http://m.database.caixin.com/m/2020-08-22/101595840.html) ![](assets/new.png)  
+- [2020-08-21-大流行手记|8月21日：日本拟开放外国人入境-俄疫苗上市后方做三期临床](https://m.caixin.com/m/2020-08-22/101595776.html) ![](assets/new.png)  
+- [2020-08-20-香港9月1日起推自愿性全民检测-中央政府负责费用](http://m.china.caixin.com/m/2020-08-21/101595663.html) ![](assets/new.png)  
+- [2020-08-20-研究：新冠病毒特殊突变或致毒性降低，复制能力不变](https://m.caixin.com/m/2020-08-21/101595406.html) ![](assets/new.png)  
+- [2020-08-20-【境内疫情观察】上海新增11例境外输入病例（8月20日）](http://m.database.caixin.com/m/2020-08-21/101595382.html) ![](assets/new.png)  
+- [2020-08-20-大流行手记|8月20日：亚欧多国疫情持续反弹-欧盟再购2亿余剂疫苗](https://m.caixin.com/m/2020-08-21/101595264.html) ![](assets/new.png)  
+- [2020-08-19-【境内疫情观察】全国新增7例境外输入病例（8月19日）](http://m.database.caixin.com/m/2020-08-20/101594917.html) ![](assets/new.png)  
+- [2020-08-19-大流行手记|8月19日：英国拟全国筛查无症状感染者-澳大利亚将免费接种疫苗](https://m.caixin.com/m/2020-08-20/101594704.html) ![](assets/new.png)  
+- [2020-08-18-【境内疫情观察】全国新增17例境外输入病例（8月18日）](http://m.database.caixin.com/m/2020-08-19/101594377.html) ![](assets/new.png)  
+- [2020-08-18-大流行手记|8月18日：俄第二款疫苗上马二期临床-韩国严防首都圈失守](https://m.caixin.com/m/2020-08-19/101594245.html) ![](assets/new.png)  
+- [2020-08-17-大流行手记|8月17日：多国报告变异病毒实为老毒株-印度现新变种](https://m.caixin.com/m/2020-08-18/101593771.html) ![](assets/new.png)  
+- [2020-08-17-【境内疫情观察】全国连续2日无新增本土病例（8月17日）](http://m.database.caixin.com/m/2020-08-18/101593899.html) ![](assets/new.png)  
+- [2020-08-17-以色列中国建筑工地暴发疫情-约90人确诊感染新冠病毒](http://m.international.caixin.com/m/2020-08-18/101594199.html) ![](assets/new.png)  
+- [2020-08-16-【境内疫情观察】全国无新增本土病例（8月16日）](http://m.database.caixin.com/m/2020-08-17/101593491.html) ![](assets/new.png)  
+- [2020-08-16-大流行手记|8月16日：印度签约生产低价新冠疫苗-复课后美国多州学校现疫情](https://m.caixin.com/m/2020-08-17/101593367.html) ![](assets/new.png)  
+- [2020-08-16-深圳升级进口冻品监管力度-消杀检测费用由政府承担](http://m.china.caixin.com/m/2020-08-17/101593714.html) ![](assets/new.png)  
+- [2020-08-15-【境内疫情观察】全国新增15例境外输入病例（8月15日）](http://m.database.caixin.com/m/2020-08-16/101593302.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -426,6 +446,7 @@
 </summary>
 
 
+- [2020-08-23-前端周报：IE最终“死”在了微软自己手里；字节跳动决定起诉特朗普政府；Android-11将强迫用户](https://www.ershicimi.com/p/61af13562d837fde29be12fd8cfb3fdd) ![](assets/new.png)  
 - [2020-08-21-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98) ![](assets/new.png)  
 - [2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19) ![](assets/new.png)  
 - [2020-08-21-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-活动推荐](https://www.ershicimi.com/p/4c35ff4a1caac14804f16dd4e1b2b036) ![](assets/new.png)  
@@ -445,7 +466,6 @@
 - [2020-08-13-软件史上最著名的10大Bug](https://www.ershicimi.com/p/baa4a19c76768f07918c5b1d514b433e) ![](assets/new.png)  
 - [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686) ![](assets/new.png)  
 - [2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da) ![](assets/new.png)  
-- [2020-08-12-6个常见的可访问性问题及解决方案](https://www.ershicimi.com/p/d3547dd3615918b17be6bd34fe67e291) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-23-上海-蚂蚁金服-数据平台（p6、p7、p8）招聘](https://www.v2ex.com/t/700713) ![](assets/new.png)  
 - [2020-08-23-iPhone-腾讯视频-APP-如何用手机号登录，找了半个多小时找不到入口](https://www.v2ex.com/t/700712) ![](assets/new.png)  
 - [2020-08-23-用浏览器打开腾讯视频和新闻的网页，就咔地一声黑屏](https://www.v2ex.com/t/700711) ![](assets/new.png)  
 - [2020-08-23-有償請求幫忙搭建一個-Telegram-Bot-。](https://www.v2ex.com/t/700710) ![](assets/new.png)  
@@ -1056,7 +1077,6 @@
 - [2020-08-23-咸鱼上/现实中-如何应对那些-没有契约精神，无礼耍赖的人？-（是我的问题还是他们的问题？）](https://www.v2ex.com/t/700689) ![](assets/new.png)  
 - [2020-08-23-二次元向-不会爬虫的快来，批量下载超清壁纸的软件（免登录/客制化-tag-自动更新](https://www.v2ex.com/t/700688) ![](assets/new.png)  
 - [2020-08-23-微信跨国语音有过滤吗](https://www.v2ex.com/t/700686) ![](assets/new.png)  
-- [2020-08-23-仅支持-HomeKit-的智能家居，国产都有什么品牌吗？绿米这种强制用网关的安全吗](https://www.v2ex.com/t/700684) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,16 +1129,16 @@
 - [2020-08-23-闲鱼如何在-2-个月内实现-Android-启动速度翻倍的？](https://toutiao.io/k/bsrmb6b) ![](assets/new.png)  
 - [2020-08-23-一文搞定前端代理骚操作！再也不怕线上-bug-啦](https://toutiao.io/k/n4bmt51) ![](assets/new.png)  
 - [2020-08-23-PHP-Opcache-配置优化实战](https://toutiao.io/k/zilb74h) ![](assets/new.png)  
-- [2020-08-23-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
-- [2020-08-23-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
-- [2020-08-23-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
-- [2020-08-23-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
-- [2020-08-23-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
-- [2020-08-23-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
-- [2020-08-23-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
 - [2020-08-23-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
 - [2020-08-23-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
-- [2020-08-23-推荐-图解：通用搜索引擎背后的技术点](https://toutiao.io/k/l5wu4f9) ![](assets/new.png)  
+- [2020-08-23-推荐-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-23-推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w) ![](assets/new.png)  
+- [2020-08-23-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
+- [2020-08-23-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
+- [2020-08-23-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
+- [2020-08-23-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
+- [2020-08-23-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-23-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

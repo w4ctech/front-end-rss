@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-23 04:11:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 04:21:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -46,7 +46,6 @@
 - [【前端早读课】【第2032期】基于react的组件库主题设计方案](https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500)
 - [【前端大全】一步一步教你把-Redux-Saga-添加到-React＆Redux-程序中](https://www.ershicimi.com/p/d2cfe666ae63d09748c95b2d9130f170)
 - [【前端大全】React-v17.0-RC-释出，官方称“没啥新特色”](https://www.ershicimi.com/p/f4d29b0e5b99c349f1a1a5c7be32b8d2)
-- [【前端大全】sync_hooks、CLS-与-Node-中异步资源生命周期监听](https://www.ershicimi.com/p/be586e92c385df9fe0ce0da145608cb3)
 - [【前端开发博客】工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040)
 - [【前端开发博客】工具控-react-优化里面用到-lodash.memoize](https://www.ershicimi.com/p/8030f9ceac2221818a92f0a24cede590)
 - [【前端开发博客】工具控babel-react-optimize](https://www.ershicimi.com/p/87be70d3d4719eedb42df24f6303ca69)
@@ -59,6 +58,7 @@
 - [【前端迷】从0到1，搭建一个体系完善的前端React组件库](https://www.ershicimi.com/p/0b478ecb62435c984c5379106f63d692)
 - [【前端迷】为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/f1e3f318aab513221b27ccb6128dff80)
 - [【全栈前端精选】响应式布局新方案：融合响应式设计，开源-React-组件](https://www.ershicimi.com/p/3771cb7862f02240188c2ba6657224c6)
+- [【政采云前端团队】这就是你日思夜想的-React-原生动态加载](https://www.ershicimi.com/p/cdb1611bac626565c3013e6a5654e149)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -111,6 +111,7 @@
 
 
 
+- [【前端大全】TypeScript-设计模式之观察者模式](https://www.ershicimi.com/p/db48ec5a2c3bbfb4159b89312df12887)
 - [【前端之巅】TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98)
 - [【前端之巅】TypeScript-4.0-RC发布，带来诸多更新](https://www.ershicimi.com/p/493c41b006bc86ce765d8a62eadaffbf)
 - [【前端迷】从零开始配置-TypeScript-项目](https://www.ershicimi.com/p/f842f28fb8eef6f52b56004e9b29fcf1)
@@ -524,9 +525,9 @@
 - [【V2EX】各位-Java-大佬你们-http-客户端都用什么?](https://www.v2ex.com/t/700630)
 - [【技术头条】十大经典排序算法动图+代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j)
-- [【开发者头条】推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko)
 - [【开发者头条】推荐-PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
-- [【开发者头条】推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
+- [【开发者头条】推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k)
+- [【开发者头条】推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -609,12 +610,12 @@
 - [【VUE全家桶】【面试题】2019开年跳槽系列-29](https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10)
 - [【前端早读课】【招聘】深圳富途招聘web前后端工程师](https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2)
 - [【前端早读课】【招聘】微医集团前端技术部招高级前端开发工程师及前端技术专家](https://www.ershicimi.com/p/01b1405da53014f424c46c2d7e799c19)
-- [【前端大全】大厂面试过程复盘微信/阿里/头条,附答案篇](https://www.ershicimi.com/p/1c0ecd331da7dc8d59eb557b0732590f)
 - [【前端开发】『1W7字中高级前端面试必知必会』终极版](https://www.ershicimi.com/p/20ce725bd473667ae5ddd1742165d8cd)
 - [【前端大学】今年面试，谈“钱”还合适吗？](https://www.ershicimi.com/p/d7869e53c2ab1c0b4fd9a4519559ef72)
 - [【前端外刊评论】字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4)
 - [【前端外刊评论】招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93)
 - [【前端外刊评论】招聘-|-字节跳动-上海-前端工程师社招-&-校招-&-实习生](https://www.ershicimi.com/p/dff761693416bd940e698627c37a14d9)
+- [【前端迷】面试的时候可长点心吧](https://www.ershicimi.com/p/59de6443acd01c75c7bebc97f9df930c)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

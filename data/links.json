@@ -15975,6 +15975,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "win10 原版 iso 重装后打开 edge 浏览器，默认搜索引擎是百度",
+        "link": "https://www.v2ex.com/t/700815",
+        "date": "2020-08-23"
+      },
+      {
         "title": "遇到一次很奇怪的数据泄露",
         "link": "https://www.v2ex.com/t/700813",
         "date": "2020-08-23"
@@ -16163,11 +16168,6 @@
         "title": "Mojave 和 Big Sur 双系统启动项兼容问题求教",
         "link": "https://www.v2ex.com/t/700766",
         "date": "2020-08-23"
-      },
-      {
-        "title": "今年 27，刚转行 Java 开发，入职一周，感觉很吃力啊，应该从哪开始着手，请过来人给点儿意见，拜托",
-        "link": "https://www.v2ex.com/t/700765",
-        "date": "2020-08-23"
       }
     ]
   },
@@ -16176,6 +16176,61 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "开发人员各种鄙视链 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13711&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKy5huXhbnCC26pGcN5wY_A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "一名 24 岁程序员的挣扎！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13710&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT1XoIE2U0-Lfc_rRfbzgTA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "6 月编程语言排行榜，Rust 第一次进入前 20 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13709&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbV4HHJyPdB-eMsxk3lugzA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "再见，Eclipse！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13708&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F697I72BTFxsSKiTUf1J97A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "重磅！《命令与征服》和《红色警戒》源码公布了！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13707&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE87rCePh_4laTowZpoRW6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "不要让 Chrome 成为下一个 IE！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-sYSSTkU0wqZ4n_RE4w81Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "这是我看过关于微服务架构最好的文章 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13705&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-kdFE6Rw5-QJmfIi2y7BqQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "React 团队全员罢工了？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13704&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjhvC7sWd3M2aX0gD9w7LvA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "Myeclipse 2020.5 版本首发！支持 Java14 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13703&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6PuvYsSh9GvgmhMfaOgPDg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "蚂蚁金服是如何提高移动端体验的？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13702&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ft1Ty2MDbFCDE2DG7lXjnUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "10 个 Vue 开发技巧，助力成为更好的工程师！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13701&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2BSTD8UrDmEBGX8jjIeRtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-08-23"
+      },
       {
         "title": "开发模型的演化 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13700&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fevolution-of-development-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -16219,61 +16274,6 @@
       {
         "title": "工具 vs 产品 And 知识 vs 思维 | 晚晴幽草轩 (www.jeffjade.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13692&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F08%2F18%2F166-tools-vs-products-and-knowledge-vs-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "从技术雷达看科技宏观趋势 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13691&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmacro-trends-tech-industry-may-2020%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "白话中台战略：中台的第一性原理 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13690&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fzhongtai-first-principle%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "为什么要加快组织变革的速度 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13689&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fspeed-up-organization-transformation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "如何优雅使用「快应用」API (quickapp.lovejade.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13688&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-use-the-quickapp-api-gracefully%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "一次蚂蚁金服的辛酸面试历程 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13687&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlGMB3sdVbQFkmaDL_cgvyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "JetPack系列 Paging 3.0学习 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13686&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOKLlU1LtF1LvFHDbgkrMkA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "程序员不应该错过的 7 大导航 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13685&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1k_JILzNoRbh14mu--5cHw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "Android AES加密（Kotlin） (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13684&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FENUca2jF0V4OVnUyMyluAA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "学计算机的女生，是一种怎样的存在？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13683&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtKOFvcv6F-IVpSlGy0Asyg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "蓝绿大厂之争，国产手机逆袭除了自研芯片还能靠啥？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13682&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbR3IGteDHE0q9MdfnN-ufg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "十大经典排序算法(动图+代码) (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13681&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2uP6FEaxkoxmgyFiEftB3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-08-23"
       }
     ]
@@ -16339,13 +16339,13 @@
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
-        "link": "https://toutiao.io/k/kumhh9k",
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/9ujm1ju",
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] 快速入门数据结构和算法",
-        "link": "https://toutiao.io/k/vkyzxyw",
+        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
+        "link": "https://toutiao.io/k/kumhh9k",
         "date": "2020-08-23"
       },
       {
@@ -16354,13 +16354,28 @@
         "date": "2020-08-23"
       },
       {
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "[推荐] MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面",
+        "link": "https://toutiao.io/k/lmtdqk1",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
+        "date": "2020-08-23"
+      },
+      {
         "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
         "link": "https://toutiao.io/k/nn7q9kk",
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] ​Linux CPU 性能优化指南",
-        "link": "https://toutiao.io/k/e6zbho6",
+        "title": "[推荐] HBase/TiDB 都在用的数据结构：LSM Tree，不得了解一下？",
+        "link": "https://toutiao.io/k/v90if5y",
         "date": "2020-08-23"
       },
       {
@@ -16374,38 +16389,23 @@
         "date": "2020-08-23"
       },
       {
+        "title": "[推荐] 高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
+        "date": "2020-08-23"
+      },
+      {
         "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
         "link": "https://toutiao.io/k/wtofrd2",
         "date": "2020-08-23"
       },
       {
-        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
-        "link": "https://toutiao.io/k/smg6nko",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "[推荐] 史上最全的 vim 快捷键文档/手册/大全/帮助/指南",
-        "link": "https://toutiao.io/k/dx4z66j",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "[推荐] HBase/TiDB 都在用的数据结构：LSM Tree，不得了解一下？",
-        "link": "https://toutiao.io/k/v90if5y",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
-        "date": "2020-08-23"
-      },
-      {
         "title": "[推荐] 一道有意思的腾讯算法面试题",
         "link": "https://toutiao.io/k/wui7yqj",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "[推荐] 这个网站堪称宝藏，收藏起来吧",
+        "link": "https://toutiao.io/k/voyjhtq",
         "date": "2020-08-23"
       }
     ]

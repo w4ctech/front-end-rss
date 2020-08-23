@@ -15611,13 +15611,8 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "Webpack配置篇后续",
-        "link": "https://juejin.im/post/6863774127833448456",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "文件上传下载攻略，断点续传等等那些事儿",
-        "link": "https://juejin.im/post/6863774364396060679",
+        "title": "基于canvas完成图片裁剪工具",
+        "link": "https://juejin.im/post/6863786552414339079",
         "date": "2020-08-22"
       },
       {
@@ -15631,9 +15626,14 @@
         "date": "2020-08-22"
       },
       {
-        "title": "Graphql + Node 实践（一）：环境搭建",
-        "link": "https://juejin.im/post/6863665123278618637",
-        "date": "2020-08-21"
+        "title": "Web前端开发入门 v1 - 超强不解释",
+        "link": "https://juejin.im/post/6863756961272463368",
+        "date": "2020-08-22"
+      },
+      {
+        "title": "XMPP、BOSH、ejabberd、Openfire、Strophe",
+        "link": "https://juejin.im/post/6863753661491724295",
+        "date": "2020-08-22"
       }
     ]
   },

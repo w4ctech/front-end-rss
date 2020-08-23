@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-23 07:31:45，:rocket: 更新条数: +3330， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-23 07:33:35，:rocket: 更新条数: +3330， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-08-22-Webpack配置篇后续](https://juejin.im/post/6863774127833448456) ![](assets/new.png)  
-- [2020-08-22-文件上传下载攻略，断点续传等等那些事儿](https://juejin.im/post/6863774364396060679) ![](assets/new.png)  
+- [2020-08-22-基于canvas完成图片裁剪工具](https://juejin.im/post/6863786552414339079) ![](assets/new.png)  
 - [2020-08-22-Vue脚手架系列08-表单组件-设计FormItem组件](https://juejin.im/post/6863773988863246349) ![](assets/new.png)  
 - [2020-08-22-通俗易懂的redux原理](https://juejin.im/post/6863760642092826637) ![](assets/new.png)  
-- [2020-08-21-Graphql-+-Node-实践（一）：环境搭建](https://juejin.im/post/6863665123278618637) ![](assets/new.png)  
+- [2020-08-22-Web前端开发入门-v1---超强不解释](https://juejin.im/post/6863756961272463368) ![](assets/new.png)  
+- [2020-08-22-XMPP、BOSH、ejabberd、Openfire、Strophe](https://juejin.im/post/6863753661491724295) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

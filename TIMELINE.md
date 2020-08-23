@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 07:31:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-23 07:33:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -480,11 +480,11 @@
 - [【JavaScript】2020-08-05-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/4742e260273a2bf0fcfccc86f9f97422) 
 - [【JavaScript】2020-08-04-Vue的生命周期有多长？](https://www.ershicimi.com/p/eb6c9a853fe54f661ed6b543e15c39cf) 
 - [【JavaScript】2020-08-03-如何精确统计页面停留时长](https://www.ershicimi.com/p/1c9ebd84df7644667e1347d67682706a) 
-- [【掘金前端】2020-08-22-Webpack配置篇后续](https://juejin.im/post/6863774127833448456) 
-- [【掘金前端】2020-08-22-文件上传下载攻略，断点续传等等那些事儿](https://juejin.im/post/6863774364396060679) 
+- [【掘金前端】2020-08-22-基于canvas完成图片裁剪工具](https://juejin.im/post/6863786552414339079) 
 - [【掘金前端】2020-08-22-Vue脚手架系列08-表单组件-设计FormItem组件](https://juejin.im/post/6863773988863246349) 
 - [【掘金前端】2020-08-22-通俗易懂的redux原理](https://juejin.im/post/6863760642092826637) 
-- [【掘金前端】2020-08-21-Graphql-+-Node-实践（一）：环境搭建](https://juejin.im/post/6863665123278618637) 
+- [【掘金前端】2020-08-22-Web前端开发入门-v1---超强不解释](https://juejin.im/post/6863756961272463368) 
+- [【掘金前端】2020-08-22-XMPP、BOSH、ejabberd、Openfire、Strophe](https://juejin.im/post/6863753661491724295) 
 - [【知乎日报】2020-08-19-飞行员用空姐不雅照威胁其陪睡，遇到类似问题时，我们应该怎么办？](https://www.ershicimi.com/p/31b2e3394c76754b31cc8f11713122c4) 
 - [【知乎日报】2020-08-19-有奖活动-|-5-万现金寻找校园有「视」之士](https://www.ershicimi.com/p/55db7a0431ac9727bf29b0292428ee92) 
 - [【知乎日报】2020-08-19-2020，口碑极佳的-7-个公众号，你关注了吗？](https://www.ershicimi.com/p/0369bb53385210a1a258b14f6ad95302) 

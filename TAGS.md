@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-23 07:31:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 07:33:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -338,6 +338,7 @@
 - [【前端早读课】【第2031期】APNG-那些事](https://www.ershicimi.com/p/0b91f049f1eac1c08cfd70c761b36127)
 - [【前端迷】一文-get-入门-canvas-的最佳路径](https://www.ershicimi.com/p/79d73f9a992c207cc25227c10278f50b)
 - [【前端瓶子君】你不知道的-Canvas-绘制过程也可以直接转视频的](https://www.ershicimi.com/p/d65eaeea69935a0b1126ea1d528d9af8)
+- [【掘金前端】基于canvas完成图片裁剪工具](https://juejin.im/post/6863786552414339079)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

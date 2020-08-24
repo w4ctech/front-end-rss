@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-24 02:34:03，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-24 02:46:49，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,10 +947,10 @@
 </summary>
 
 
+- [2020-08-23-JavaScript-测试系列实战（一）：使用-Jest-和-Enzyme-测试-React-组件](https://juejin.im/post/6864374977052737543) ![](assets/new.png)  
 - [2020-08-23-精读《Spring-概念》](https://juejin.im/post/6864359846121209864) ![](assets/new.png)  
 - [2020-08-23-CSP-是用来做什么的了？](https://juejin.im/post/6864359710318198797) ![](assets/new.png)  
 - [2020-08-23-ElementUI-不维护了？供我们选择的-Vue-组件库还有很多！](https://juejin.im/post/6864350927768748039) ![](assets/new.png)  
-- [2020-08-23-深入分析Vue-Router原理,彻底看穿前端路由](https://juejin.im/post/6864156289267597326) ![](assets/new.png)  
 - [2020-08-23-JS代码要不要加分号?](https://juejin.im/post/6864143874932080654) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-08-24-北京-社招-建信融通-Java-开发、前端、测试、测试开发、运维](https://www.v2ex.com/t/700863) ![](assets/new.png)  
+- [2020-08-24-markdown-的-code-标签渲染成-html-的-css-问题](https://www.v2ex.com/t/700862) ![](assets/new.png)  
+- [2020-08-24-Akulaku-内推](https://www.v2ex.com/t/700861) ![](assets/new.png)  
+- [2020-08-24-关于社交，是我有问题吗？](https://www.v2ex.com/t/700860) ![](assets/new.png)  
 - [2020-08-24-如果你的公司搬迁到雄安新区，你们是选择去还是不去呢？](https://www.v2ex.com/t/700859) ![](assets/new.png)  
 - [2020-08-24-做了一个证件照制作小程序](https://www.v2ex.com/t/700856) ![](assets/new.png)  
 - [2020-08-24-大佬们~~-七夕要来了~~-送男票什么呀~~](https://www.v2ex.com/t/700855) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-08-24-Java-实习生的培养计划该怎么写啊](https://www.v2ex.com/t/700842) ![](assets/new.png)  
 - [2020-08-24-搞了个-iterm2-上突出标识服务器的插件](https://www.v2ex.com/t/700841) ![](assets/new.png)  
 - [2020-08-24-965-WLB-|-德国软件巨头-SAP-北京-Cloud-Platform-前端工程师](https://www.v2ex.com/t/700840) ![](assets/new.png)  
-- [2020-08-24-阿里云代理商，新购续费升级额外优惠-10-15%](https://www.v2ex.com/t/700839) ![](assets/new.png)  
-- [2020-08-24-用-EXCEL-排会议座次，有更加便捷的方法吗？](https://www.v2ex.com/t/700837) ![](assets/new.png)  
-- [2020-08-24-还剩下一套-MAXT-黑苹果主机和一颗-10500ES](https://www.v2ex.com/t/700836) ![](assets/new.png)  
-- [2020-08-24-有没有研究-monaco/vscode-的小组？能拉我下吗？](https://www.v2ex.com/t/700833) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-08-24-译-更有效使用-GitHub-的-4-个技巧](https://toutiao.io/k/3oswfvq) ![](assets/new.png)  
 - [2020-08-24-你的系统可用性-5-个-9-了吗？](https://toutiao.io/k/kfbevck) ![](assets/new.png)  
 - [2020-08-24-为什么说软件架构设计很重要？](https://toutiao.io/k/tbn2cum) ![](assets/new.png)  
+- [2020-08-24-这是一份-pip-常用命令小结](https://toutiao.io/k/cv1z9qw) ![](assets/new.png)  
 - [2020-08-24-RecyclerView-Adapter-系列之集成-Lifecycle](https://toutiao.io/k/tpcgkbv) ![](assets/new.png)  
 - [2020-08-24-Apache-Pulsar-在-BIGO-的性能调优实战（上）](https://toutiao.io/k/vd8iqvp) ![](assets/new.png)  
 - [2020-08-24-高并发下比-AtomicLong-性能更好的-LongAdder](https://toutiao.io/k/oa38hlw) ![](assets/new.png)  
-- [2020-08-24-这是一份-pip-常用命令小结](https://toutiao.io/k/cv1z9qw) ![](assets/new.png)  
 - [2020-08-24-跨越鸿沟：计算机视觉-学术界与工业界的-GAP-有多大？](https://toutiao.io/k/rh0msrp) ![](assets/new.png)  
 - [2020-08-24-Kubernetes-控制器：副本集-ReplicaSet](https://toutiao.io/k/ittpel3) ![](assets/new.png)  
 - [2020-08-24-一文讲懂数据库隔离级别](https://toutiao.io/k/efelr53) ![](assets/new.png)  
-- [2020-08-24-译-如何使得你的-Go-命令行程序变得友好？](https://toutiao.io/k/q8idzqf) ![](assets/new.png)  
 - [2020-08-24-浅谈-PHP-无回显命令执行的利用](https://toutiao.io/k/ovsr9s1) ![](assets/new.png)  
+- [2020-08-24-译-如何使得你的-Go-命令行程序变得友好？](https://toutiao.io/k/q8idzqf) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

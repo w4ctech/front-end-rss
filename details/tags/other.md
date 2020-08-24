@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-24 15:22:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-24 15:31:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2214,12 +2214,6 @@
 - [2020-01-06-推荐几个前端领域的优质公众号](https://www.ershicimi.com/p/2ecc19eb701a08ec7dc1ffbcc07b4487) 
 - [2020-01-04-【搞笑漫画】程序员鄙视链](https://www.ershicimi.com/p/99356f25157eaf693a3a9aa592666dbb) 
 - [2019-12-25-给开发人员的时间管理建议](https://www.ershicimi.com/p/fe451d9ed185297ab9a70fc9109d41fe) 
-- [2020-08-21-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/3f28bbd461d074860be4532fa14d2558) 
-- [2020-08-20-​电影里的程序员是骗人的，这才是真的](https://www.ershicimi.com/p/412f77b445e02a18734ae444659cd29b) 
-- [2020-08-19-这么痛苦的学习源码到底图个啥!](https://www.ershicimi.com/p/2c7504852cfc28aa59b148abcb050665) 
-- [2020-08-17-Medium-2w+赞，高效程序员拥有的-7-个习惯！](https://www.ershicimi.com/p/f2923984bf41ae01209684f5523f3016) 
-- [2020-08-16-想要学习人工智能？推荐你一条完整的学习路径！](https://www.ershicimi.com/p/65a42c4907f7602144dab106f299618a) 
-- [2020-08-13-你可以不尊重我的人，但必须尊重我的代码...](https://www.ershicimi.com/p/b49e6145eb1c1f02187a36f19b87364e) 
 - [2019-12-09-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d) 
 - [2019-12-06-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3) 
 - [2019-12-05-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/c000cfc00b1de7d595f4c51820cc7630) 
@@ -2337,6 +2331,12 @@
 - [2020-08-11-全面、系统的前端工程化精讲](https://www.ershicimi.com/p/472f1e0365de8327c57f9aab14f8117d) 
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html) 
 - [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html) 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [2020-08-22-花十分钟的时间武装你的代码库](https://www.ershicimi.com/p/47f3ee8adf292f99eb4171ed84b7f923) 
 - [2020-08-22-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/38ab4aa737bd8d1a242b6add11e6a2f7) 
 - [2020-08-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/de8879235b5c632566af37325a6e99c3) 

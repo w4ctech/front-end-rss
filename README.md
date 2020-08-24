@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-24 02:26:21，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-24 02:31:31，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-24-如果你的公司搬迁到雄安新区，你们是选择去还是不去呢？](https://www.v2ex.com/t/700859) ![](assets/new.png)  
 - [2020-08-24-做了一个证件照制作小程序](https://www.v2ex.com/t/700856) ![](assets/new.png)  
 - [2020-08-24-大佬们~~-七夕要来了~~-送男票什么呀~~](https://www.v2ex.com/t/700855) ![](assets/new.png)  
 - [2020-08-24-新版摸鱼插件来了，如何装模作样地写代码摸鱼？](https://www.v2ex.com/t/700853) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-24-用-EXCEL-排会议座次，有更加便捷的方法吗？](https://www.v2ex.com/t/700837) ![](assets/new.png)  
 - [2020-08-24-还剩下一套-MAXT-黑苹果主机和一颗-10500ES](https://www.v2ex.com/t/700836) ![](assets/new.png)  
 - [2020-08-24-有没有研究-monaco/vscode-的小组？能拉我下吗？](https://www.v2ex.com/t/700833) ![](assets/new.png)  
-- [2020-08-24-访问-B-站视频时，如何让-Firefox-和-Chrome-一样允许跨域访问？](https://www.v2ex.com/t/700831) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1123,9 +1123,9 @@
 - [2020-08-24-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
 - [2020-08-24-记一次网络请求连接超时的事故](https://toutiao.io/k/6ypc6qi) ![](assets/new.png)  
 - [2020-08-24-程序员戴耳机敲代码，到底在听啥？](https://toutiao.io/k/drl9p2q) ![](assets/new.png)  
+- [2020-08-24-软件开发项目里千万要避开的几种人](https://toutiao.io/k/wi6a6vk) ![](assets/new.png)  
 - [2020-08-24-从电源问题出发，带你揭秘新体系结构范式-COA](https://toutiao.io/k/emgf3k6) ![](assets/new.png)  
 - [2020-08-24-Raft-算法之集群成员变更](https://toutiao.io/k/l6me8fz) ![](assets/new.png)  
-- [2020-08-24-软件开发项目里千万要避开的几种人](https://toutiao.io/k/wi6a6vk) ![](assets/new.png)  
 - [2020-08-24-“锟斤拷”-的前世今生](https://toutiao.io/k/pv95vn7) ![](assets/new.png)  
 - [2020-08-24-译-更有效使用-GitHub-的-4-个技巧](https://toutiao.io/k/3oswfvq) ![](assets/new.png)  
 - [2020-08-24-你的系统可用性-5-个-9-了吗？](https://toutiao.io/k/kfbevck) ![](assets/new.png)  

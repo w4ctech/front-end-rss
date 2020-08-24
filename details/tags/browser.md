@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-24 18:46:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-24 18:48:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,13 +37,10 @@
 - [2020-08-10-一文读懂-Web-安全（面试必备）](https://www.ershicimi.com/p/8be36c891f65a4d2916708db74fac164) 
 - [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2020-08-19-“杀死”那个-IE-11-浏览器](https://www.ershicimi.com/p/8d90e9c15a75a2ac5926d44af5cb004a) 
+- [2020-08-24-target-=-“_-blank”背后的隐藏漏洞](https://www.ershicimi.com/p/8aea060e252affcf9ee57f387fd27213) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-08-24-刚翻看-Google-浏览器提示密码被泄露-有相似的小伙伴瞄](https://www.v2ex.com/t/700934) 
-- [2020-08-24-客户提供的-API-接口在本地，但业务系统在阿里云，如何建立一个安全的通讯机制？](https://www.v2ex.com/t/700917) 
-- [2020-08-24-比较方便看新闻的-chrome-插件](https://www.v2ex.com/t/700916) 
-- [2020-08-24-应届生刚入职，从开发被调到安全部门了，想请教下](https://www.v2ex.com/t/700912) 
-- [2020-08-24-🔥新加坡-技术移民机会知名大型上市互联网公司，招聘机器学习平台负责人，业务后台-leader，移动安全-leader，大数据数仓/数据平台-leader，云平台数据库...](https://www.v2ex.com/t/700906) 
+- [2020-08-24-我这样理解-Java-中-volatile-不能保证并发安全正确吗?](https://www.v2ex.com/t/701107) 
+- [2020-08-24-Mac-上浏览器打开大部分网页都提示不是安全连接，这个是咋回事？](https://www.v2ex.com/t/701102) 
 - [2020-08-24-不要让-Chrome-成为下一个-IE！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-sYSSTkU0wqZ4n_RE4w81Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-24-记一次网络请求连接超时的事故](https://toutiao.io/k/6ypc6qi) 
 - [2020-08-24-RecyclerView-Adapter-系列之集成-Lifecycle](https://toutiao.io/k/tpcgkbv) 

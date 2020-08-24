@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-24 06:34:13，:rocket: 更新条数: +3333， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-24 06:46:32，:rocket: 更新条数: +3336， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-08-23-最新疫情：全国新冠累计确诊84967例-新增境外输入16例](http://m.china.caixin.com/m/2020-08-24/101596196.html) ![](assets/new.png)  
+- [2020-08-23-【境内疫情观察】全国新增16例境外输入病例（8月23日）](http://m.database.caixin.com/m/2020-08-24/101596225.html) ![](assets/new.png)  
 - [2020-08-23-大流行手记|8月23日：新冠病例年轻化趋势明显-WHO出青少年佩戴口罩指南](https://m.caixin.com/m/2020-08-24/101596064.html) ![](assets/new.png)  
 - [2020-08-22-最新海外疫情：新冠感染近2308万-累计死亡近80万](http://m.international.caixin.com/m/2020-08-23/101596024.html) ![](assets/new.png)  
 - [2020-08-22-【境内疫情观察】全国新增12例境外输入病例（8月22日）](http://m.database.caixin.com/m/2020-08-23/101596003.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-17-【境内疫情观察】全国连续2日无新增本土病例（8月17日）](http://m.database.caixin.com/m/2020-08-18/101593899.html) ![](assets/new.png)  
 - [2020-08-17-以色列中国建筑工地暴发疫情-约90人确诊感染新冠病毒](http://m.international.caixin.com/m/2020-08-18/101594199.html) ![](assets/new.png)  
 - [2020-08-16-【境内疫情观察】全国无新增本土病例（8月16日）](http://m.database.caixin.com/m/2020-08-17/101593491.html) ![](assets/new.png)  
-- [2020-08-16-大流行手记|8月16日：印度签约生产低价新冠疫苗-复课后美国多州学校现疫情](https://m.caixin.com/m/2020-08-17/101593367.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,12 @@
 </summary>
 
 
+- [2020-08-24-请问老铁，微信这个状态是怎么激活的啊。非常非常讨厌](https://www.v2ex.com/t/700955) ![](assets/new.png)  
+- [2020-08-24-寻找一名微信小程序前端兼职-可长期](https://www.v2ex.com/t/700953) ![](assets/new.png)  
+- [2020-08-24-京东前端实习生招](https://www.v2ex.com/t/700952) ![](assets/new.png)  
+- [2020-08-24-windows10-环境，实用多桌面功能分享](https://www.v2ex.com/t/700951) ![](assets/new.png)  
+- [2020-08-24-团队直招-快手直播-server-团队招聘啦](https://www.v2ex.com/t/700950) ![](assets/new.png)  
+- [2020-08-24-小神推-小程序推送平台有人用过吗？](https://www.v2ex.com/t/700949) ![](assets/new.png)  
 - [2020-08-24-iPhone-相机自动变换颜色,-这是什么功能?-如何关闭?](https://www.v2ex.com/t/700948) ![](assets/new.png)  
 - [2020-08-24-做了个前端浏览器图片格式转化器-webp2jpg-online，支持批量输出-jpeg、png、png-8、webp、webp-动画、gif、base64](https://www.v2ex.com/t/700944) ![](assets/new.png)  
 - [2020-08-24-有什么好用的微信点赞工具吗，各位大佬](https://www.v2ex.com/t/700941) ![](assets/new.png)  
@@ -1071,12 +1077,6 @@
 - [2020-08-24-以后不能再在消防楼梯唱歌了～](https://www.v2ex.com/t/700930) ![](assets/new.png)  
 - [2020-08-24-go-写了一个批量上传小工具](https://www.v2ex.com/t/700929) ![](assets/new.png)  
 - [2020-08-24-作为云服务大杀器的全同态加密Fully-Homomorphic-Encryption，现在在实际的应用中是什么状态？](https://www.v2ex.com/t/700927) ![](assets/new.png)  
-- [2020-08-24-如何才能利用好-iOS-捷径自动化-及微信使用问题](https://www.v2ex.com/t/700925) ![](assets/new.png)  
-- [2020-08-24-装机求助,-帮忙看看配置,-打游戏用](https://www.v2ex.com/t/700924) ![](assets/new.png)  
-- [2020-08-24-base64-两次反转加密后,-逆向解码不一致](https://www.v2ex.com/t/700923) ![](assets/new.png)  
-- [2020-08-24-Android-开发技术周报-Issue#294](https://www.v2ex.com/t/700922) ![](assets/new.png)  
-- [2020-08-24-为什么网页版-speedtest-裸连很慢，打开之后只有日本节点？？](https://www.v2ex.com/t/700921) ![](assets/new.png)  
-- [2020-08-24-急招-滴滴后端工程师，部门直招，直达-leader](https://www.v2ex.com/t/700920) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,8 +1128,8 @@
 - [2020-08-24-从电源问题出发，带你揭秘新体系结构范式-COA](https://toutiao.io/k/emgf3k6) ![](assets/new.png)  
 - [2020-08-24-“锟斤拷”-的前世今生](https://toutiao.io/k/pv95vn7) ![](assets/new.png)  
 - [2020-08-24-译-更有效使用-GitHub-的-4-个技巧](https://toutiao.io/k/3oswfvq) ![](assets/new.png)  
-- [2020-08-24-为什么说软件架构设计很重要？](https://toutiao.io/k/tbn2cum) ![](assets/new.png)  
 - [2020-08-24-你的系统可用性-5-个-9-了吗？](https://toutiao.io/k/kfbevck) ![](assets/new.png)  
+- [2020-08-24-为什么说软件架构设计很重要？](https://toutiao.io/k/tbn2cum) ![](assets/new.png)  
 - [2020-08-24-高并发下比-AtomicLong-性能更好的-LongAdder](https://toutiao.io/k/oa38hlw) ![](assets/new.png)  
 - [2020-08-24-这是一份-pip-常用命令小结](https://toutiao.io/k/cv1z9qw) ![](assets/new.png)  
 - [2020-08-24-RecyclerView-Adapter-系列之集成-Lifecycle](https://toutiao.io/k/tpcgkbv) ![](assets/new.png)  

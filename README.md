@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-24 04:33:53，:rocket: 更新条数: +3335， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-24 04:46:27，:rocket: 更新条数: +3335， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-24-实习-微软亚洲研究院-机器学习系统网络优化实习生](https://www.v2ex.com/t/700914) ![](assets/new.png)  
 - [2020-08-24-应届生刚入职，从开发被调到安全部门了，想请教下](https://www.v2ex.com/t/700912) ![](assets/new.png)  
 - [2020-08-24-Docker-container-持久化配置文件是个好的做法吗？](https://www.v2ex.com/t/700910) ![](assets/new.png)  
 - [2020-08-24-莫名其妙的一通滴滴推广电话](https://www.v2ex.com/t/700909) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-24-《云顶修仙-Online》已开启-100-级修仙之路，已实现半开源。](https://www.v2ex.com/t/700888) ![](assets/new.png)  
 - [2020-08-24-迟到的永远都不是离得最远的人](https://www.v2ex.com/t/700885) ![](assets/new.png)  
 - [2020-08-24-求一个现成的相册网站项目](https://www.v2ex.com/t/700884) ![](assets/new.png)  
-- [2020-08-24-gitbook-渲染-pdf-的时候怎么让-code-全部渲染出来没有-scroll](https://www.v2ex.com/t/700883) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1135,10 +1135,10 @@
 - [2020-08-24-高并发下比-AtomicLong-性能更好的-LongAdder](https://toutiao.io/k/oa38hlw) ![](assets/new.png)  
 - [2020-08-24-RecyclerView-Adapter-系列之集成-Lifecycle](https://toutiao.io/k/tpcgkbv) ![](assets/new.png)  
 - [2020-08-24-一文讲懂数据库隔离级别](https://toutiao.io/k/efelr53) ![](assets/new.png)  
-- [2020-08-24-跨越鸿沟：计算机视觉-学术界与工业界的-GAP-有多大？](https://toutiao.io/k/rh0msrp) ![](assets/new.png)  
 - [2020-08-24-译-如何使得你的-Go-命令行程序变得友好？](https://toutiao.io/k/q8idzqf) ![](assets/new.png)  
-- [2020-08-24-Kubernetes-控制器：副本集-ReplicaSet](https://toutiao.io/k/ittpel3) ![](assets/new.png)  
+- [2020-08-24-跨越鸿沟：计算机视觉-学术界与工业界的-GAP-有多大？](https://toutiao.io/k/rh0msrp) ![](assets/new.png)  
 - [2020-08-24-浅谈-PHP-无回显命令执行的利用](https://toutiao.io/k/ovsr9s1) ![](assets/new.png)  
+- [2020-08-24-Kubernetes-控制器：副本集-ReplicaSet](https://toutiao.io/k/ittpel3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-24 03:10:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-24 03:21:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-08-19-“杀死”那个-IE-11-浏览器](https://www.ershicimi.com/p/8d90e9c15a75a2ac5926d44af5cb004a) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-08-24-用上班摸鱼的时间写了一个-Chrome-插件，伪装-Tab-标签栏（大佬勿喷）](https://www.v2ex.com/t/700879) 
 - [2020-08-24-感觉-chrome-自带的下载太慢了，迅雷也不太行，有什么推荐的下载器吗，没有的话打算写一个，目前想用-Go-语言，但不太清楚具体的技术栈](https://www.v2ex.com/t/700872) 
 - [2020-08-24-有没有办法在-Nginx-里获取-client-证书的签名算法信息？](https://www.v2ex.com/t/700845) 
 - [2020-08-24-不要让-Chrome-成为下一个-IE！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-sYSSTkU0wqZ4n_RE4w81Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

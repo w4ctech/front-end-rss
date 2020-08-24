@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-24 03:10:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-24 03:21:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,5 +90,4 @@
 - [2020-08-18-有奖活动-|「小秋招」职场练习生-C-位出道视频征集](https://www.ershicimi.com/p/f35dc28cee875bc2aa2f7b45463b51ca) 
 - [2020-08-14-解说争霸，赢奖金-|-寻找全网最强影视视频解说](https://www.ershicimi.com/p/1d7122c242b40a8b379813cf5d0b1653) 
 - [2020-08-24-收-腾讯视频会员-以及-QQ-绿钻会员](https://www.v2ex.com/t/700866) 
-- [2020-08-24-访问-B-站视频时，如何让-Firefox-和-Chrome-一样允许跨域访问？](https://www.v2ex.com/t/700831) 
 - [2020-08-13-央视提醒:微信清粉服务或泄露个人信息含视频](https://sec.thief.one/article_content?a_id=68e5a1ad9f18eb39c4be5133326c39ba) 

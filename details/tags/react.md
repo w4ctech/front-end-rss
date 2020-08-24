@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-24 03:10:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-24 03:21:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -34,8 +34,5 @@
 - [2020-08-18-对比-React-Hooks-和-Vue-Composition-API](https://www.ershicimi.com/p/b296461b98b210848ebccb85282f2040) 
 - [2020-07-01-React开发必须知道的34个技巧](https://www.ershicimi.com/p/5fd3fea3e708fdde0f7d0f1425fd0aea) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
-- [2020-08-23-React-hooks-简明教程](https://juejin.im/post/6864127055903227912) 
-- [2020-08-23-React-router-简明教程](https://juejin.im/post/6864126627643817997) 
 - [2020-08-24-react-native-easy-app](https://www.v2ex.com/t/700850) 
 - [2020-08-24-React-团队全员罢工了？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13704&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjhvC7sWd3M2aX0gD9w7LvA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-08-24-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) 

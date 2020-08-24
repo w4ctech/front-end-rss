@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-24 01:48:29，:rocket: 更新条数: +3331， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-24 02:03:07，:rocket: 更新条数: +3333， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -949,9 +949,9 @@
 
 - [2020-08-23-精读《Spring-概念》](https://juejin.im/post/6864359846121209864) ![](assets/new.png)  
 - [2020-08-23-CSP-是用来做什么的了？](https://juejin.im/post/6864359710318198797) ![](assets/new.png)  
-- [2020-08-23-ElementUI-不维护了？供我们选择的-Vue-组件库还有很多！](https://juejin.im/post/6864350927768748039) ![](assets/new.png)  
 - [2020-08-23-深入分析Vue-Router原理,彻底看穿前端路由](https://juejin.im/post/6864156289267597326) ![](assets/new.png)  
 - [2020-08-23-JS代码要不要加分号?](https://juejin.im/post/6864143874932080654) ![](assets/new.png)  
+- [2020-08-22-我的前端自学笔记-=>-模块化开发与规范化标准](https://juejin.im/post/6863838861089964045) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-08-24-有没有办法在-Nginx-里获取-client-证书的签名算法信息？](https://www.v2ex.com/t/700845) ![](assets/new.png)  
+- [2020-08-24-请问一下大家关于阿里岗位编制的问题](https://www.v2ex.com/t/700844) ![](assets/new.png)  
+- [2020-08-24-Joplin-使用的-onedrive-同步受不了了改成-dropbox-同步+Joplin-本地文件系统了](https://www.v2ex.com/t/700843) ![](assets/new.png)  
+- [2020-08-24-Java-实习生的培养计划该怎么写啊](https://www.v2ex.com/t/700842) ![](assets/new.png)  
 - [2020-08-24-搞了个-iterm2-上突出标识服务器的插件](https://www.v2ex.com/t/700841) ![](assets/new.png)  
 - [2020-08-24-965-WLB-|-德国软件巨头-SAP-北京-Cloud-Platform-前端工程师](https://www.v2ex.com/t/700840) ![](assets/new.png)  
 - [2020-08-24-阿里云代理商，新购续费升级额外优惠-10-15%](https://www.v2ex.com/t/700839) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-08-23-二个工作机会不知道怎么选择。都是外包。](https://www.v2ex.com/t/700822) ![](assets/new.png)  
 - [2020-08-23-问：国内妈妈们常逛的社区类产品都在哪？或者说哪些产品妈妈们使用的比较多？](https://www.v2ex.com/t/700821) ![](assets/new.png)  
 - [2020-08-23-2020.0824-午夜俱乐部](https://www.v2ex.com/t/700820) ![](assets/new.png)  
-- [2020-08-23-希尔顿酒店的-WIFI-居然禁了加密协议传输？](https://www.v2ex.com/t/700818) ![](assets/new.png)  
-- [2020-08-23-想跟大家探讨下用区块链来解决协作和信用的问题](https://www.v2ex.com/t/700817) ![](assets/new.png)  
-- [2020-08-23-win10-原版-iso-重装后打开-edge-浏览器，默认搜索引擎是百度](https://www.v2ex.com/t/700815) ![](assets/new.png)  
-- [2020-08-23-遇到一次很奇怪的数据泄露](https://www.v2ex.com/t/700813) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,19 +1126,19 @@
 - [2020-08-24-从电源问题出发，带你揭秘新体系结构范式-COA](https://toutiao.io/k/emgf3k6) ![](assets/new.png)  
 - [2020-08-24-Raft-算法之集群成员变更](https://toutiao.io/k/l6me8fz) ![](assets/new.png)  
 - [2020-08-24-软件开发项目里千万要避开的几种人](https://toutiao.io/k/wi6a6vk) ![](assets/new.png)  
-- [2020-08-24-译-更有效使用-GitHub-的-4-个技巧](https://toutiao.io/k/3oswfvq) ![](assets/new.png)  
 - [2020-08-24-“锟斤拷”-的前世今生](https://toutiao.io/k/pv95vn7) ![](assets/new.png)  
+- [2020-08-24-译-更有效使用-GitHub-的-4-个技巧](https://toutiao.io/k/3oswfvq) ![](assets/new.png)  
 - [2020-08-24-你的系统可用性-5-个-9-了吗？](https://toutiao.io/k/kfbevck) ![](assets/new.png)  
 - [2020-08-24-为什么说软件架构设计很重要？](https://toutiao.io/k/tbn2cum) ![](assets/new.png)  
 - [2020-08-24-RecyclerView-Adapter-系列之集成-Lifecycle](https://toutiao.io/k/tpcgkbv) ![](assets/new.png)  
 - [2020-08-24-Apache-Pulsar-在-BIGO-的性能调优实战（上）](https://toutiao.io/k/vd8iqvp) ![](assets/new.png)  
-- [2020-08-24-这是一份-pip-常用命令小结](https://toutiao.io/k/cv1z9qw) ![](assets/new.png)  
 - [2020-08-24-高并发下比-AtomicLong-性能更好的-LongAdder](https://toutiao.io/k/oa38hlw) ![](assets/new.png)  
-- [2020-08-24-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-24-这是一份-pip-常用命令小结](https://toutiao.io/k/cv1z9qw) ![](assets/new.png)  
+- [2020-08-24-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-24-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
 - [2020-08-24-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
-- [2020-08-24-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
-- [2020-08-24-推荐-MySQL-事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://toutiao.io/k/lmtdqk1) ![](assets/new.png)  
 - [2020-08-24-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-24-推荐-这个网站堪称宝藏，收藏起来吧](https://toutiao.io/k/voyjhtq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

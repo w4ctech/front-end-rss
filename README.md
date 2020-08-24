@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-24 18:48:07，:rocket: 更新条数: +3342， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-24 19:02:56，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,9 +38,9 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -761,26 +751,6 @@
 </summary>
 
 
-- [2020-08-22-花十分钟的时间武装你的代码库](https://www.ershicimi.com/p/47f3ee8adf292f99eb4171ed84b7f923) ![](assets/new.png)  
-- [2020-08-22-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/38ab4aa737bd8d1a242b6add11e6a2f7) ![](assets/new.png)  
-- [2020-08-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/de8879235b5c632566af37325a6e99c3) ![](assets/new.png)  
-- [2020-08-21-奇舞周刊第-361-期：2020-2021-设计趋势报告](https://www.ershicimi.com/p/2a300a3f85f784bcc2d542a530c0d447) ![](assets/new.png)  
-- [2020-08-20-从图片裁剪来聊聊前端二进制](https://www.ershicimi.com/p/5d8dc3f91b9a57991718540c2eaa488f) ![](assets/new.png)  
-- [2020-08-20-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/0ba294b0779f77c1d2fc67c099955aa0) ![](assets/new.png)  
-- [2020-08-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/f208c076be603d5c053f2540f9bf9ba7) ![](assets/new.png)  
-- [2020-08-19-由浅入深定制你的代码规范与检查](https://www.ershicimi.com/p/131d36eff84fef4c84ffffc8b82600ca) ![](assets/new.png)  
-- [2020-08-19-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/561aa425ceae0345d3d143e64a16b64e) ![](assets/new.png)  
-- [2020-08-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/21687a97b8d39342508840d57eac2154) ![](assets/new.png)  
-- [2020-08-18-对比-React-Hooks-和-Vue-Composition-API](https://www.ershicimi.com/p/b296461b98b210848ebccb85282f2040) ![](assets/new.png)  
-- [2020-08-18-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/1252965e1c0e9173434eb7296c2db5f7) ![](assets/new.png)  
-- [2020-08-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/53fd7088445b5bf55ca2eb0e5562f5bb) ![](assets/new.png)  
-- [2020-08-17-了不起的-IoC-与-DI](https://www.ershicimi.com/p/266736fa647762d5702cbbb751558d90) ![](assets/new.png)  
-- [2020-08-17-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/ccbf696e7a333a95521a299849054ecd) ![](assets/new.png)  
-- [2020-08-17-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/04281a7adb7ddbc0a91899ed8528e5ab) ![](assets/new.png)  
-- [2020-08-15-TypeScript实现八大排序与搜索算法](https://www.ershicimi.com/p/f651db2c204494516d96ac8ee4dae5d9) ![](assets/new.png)  
-- [2020-08-15-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/4d67de8b0dfdfd69c9f1544a6b0bfda3) ![](assets/new.png)  
-- [2020-08-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/805da77915d63d084626882aaccc52b1) ![](assets/new.png)  
-- [2020-08-14-奇舞周刊第-360-期：-API-设计的几条原则](https://www.ershicimi.com/p/81d264b9b908a30db0537fd22c56ae8f) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

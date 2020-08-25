@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-25 19:09:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 19:19:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-25-Chrome-85-发布](https://www.v2ex.com/t/701434) 
 - [2020-08-25-求推荐-MBP-的-Type-C-to-Type-C-扩展坞](https://www.v2ex.com/t/701432) 
 - [2020-08-25-Homebrew-安装遇到困难，求解答。](https://www.v2ex.com/t/701430) 
 - [2020-08-25-azure-国际有没有人用过他的-CDN？有用过的可以讲一下，如何查看他的-CDN-流量和宽带](https://www.v2ex.com/t/701428) 

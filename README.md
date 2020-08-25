@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 10:48:11，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 11:03:28，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -516,6 +516,7 @@
 </summary>
 
 
+- [2020-08-25-卧槽!微软Python入门课居然汉化了!](https://sec.thief.one/article_content?a_id=d6e63fefc8044a4c708fb710eb80f2f7) ![](assets/new.png)  
 - [2020-08-21-【安全热点周报】第156期:被列入美国“实体名单”的企业禁止使用...](https://sec.thief.one/article_content?a_id=25fbfef3add42ab624ef4167dd7c2734) ![](assets/new.png)  
 - [2020-08-21-小心恶意软件掏空你的手机~](https://sec.thief.one/article_content?a_id=e2dafb568c1a208c2eb62a589d04e719) ![](assets/new.png)  
 - [2020-08-20-盘点|2020上半年八大应急响应典型案例分析](https://sec.thief.one/article_content?a_id=2bd9c68a5a211e89dd72d14604cd352a) ![](assets/new.png)  
@@ -535,7 +536,6 @@
 - [2020-08-17-翻译|系统管理员免费数字取证调查工具TOP20](https://sec.thief.one/article_content?a_id=90fd980e1275b14204298be6dd7fb6d1) ![](assets/new.png)  
 - [2020-08-17-Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80) ![](assets/new.png)  
 - [2020-08-17-SecWiki周刊第337期](https://sec.thief.one/article_content?a_id=19487bdb2f0c3835d087448f65f265bd) ![](assets/new.png)  
-- [2020-08-15-Struts2-S2-059-漏洞分析](https://sec.thief.one/article_content?a_id=1e81e408d726a4c620d3af6f49b8b4df) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

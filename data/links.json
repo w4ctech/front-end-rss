@@ -357,6 +357,11 @@
     "link": "https://sec.thief.one/",
     "items": [
       {
+        "title": "卧槽!微软Python入门课居然汉化了!",
+        "link": "https://sec.thief.one/article_content?a_id=d6e63fefc8044a4c708fb710eb80f2f7",
+        "date": "2020-08-25"
+      },
+      {
         "title": "【安全热点周报】第156期:被列入美国“实体名单”的企业禁止使用...",
         "link": "https://sec.thief.one/article_content?a_id=25fbfef3add42ab624ef4167dd7c2734",
         "date": "2020-08-21"
@@ -849,11 +854,6 @@
       {
         "title": "【流行威胁跟踪】AgentTesla新变种活跃海外,窃密数据或遭多处泄露",
         "link": "https://sec.thief.one/article_content?a_id=93e986706d62502801c566314036eba3",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "绿盟威胁情报专栏|7月威胁热点",
-        "link": "https://sec.thief.one/article_content?a_id=940716510e64edff29350c25be2155bb",
         "date": "2020-08-06"
       }
     ]

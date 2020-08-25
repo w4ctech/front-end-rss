@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-25 10:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 11:03:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -13,6 +13,7 @@
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 - [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
+- [2020-08-25-卧槽!微软Python入门课居然汉化了!](https://sec.thief.one/article_content?a_id=d6e63fefc8044a4c708fb710eb80f2f7) 
 - [2020-08-21-小心恶意软件掏空你的手机~](https://sec.thief.one/article_content?a_id=e2dafb568c1a208c2eb62a589d04e719) 
 - [2020-08-20-盘点|2020上半年八大应急响应典型案例分析](https://sec.thief.one/article_content?a_id=2bd9c68a5a211e89dd72d14604cd352a) 
 - [2020-08-20-秘密行动倒计时丨DC86021行动指挥部致全体极客伙伴的一封密信](https://sec.thief.one/article_content?a_id=c1b98bb40838df2addfbc3d7e11421ac) 
@@ -82,4 +83,3 @@
 - [2020-08-07-Python编程语言的核心是什么?](https://sec.thief.one/article_content?a_id=e0dbd1228f4186c315d8497d80a6a138) 
 - [2020-08-06-【新职业-新机遇】人工智能“训练员”,让AI更聪明](https://sec.thief.one/article_content?a_id=31f47f67054d54621f883db64154ab54) 
 - [2020-08-06-【流行威胁跟踪】AgentTesla新变种活跃海外,窃密数据或遭多处泄露](https://sec.thief.one/article_content?a_id=93e986706d62502801c566314036eba3) 
-- [2020-08-06-绿盟威胁情报专栏|7月威胁热点](https://sec.thief.one/article_content?a_id=940716510e64edff29350c25be2155bb) 

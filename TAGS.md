@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-25 10:48:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 11:03:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -408,6 +408,7 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
+- [【安全热点】卧槽!微软Python入门课居然汉化了!](https://sec.thief.one/article_content?a_id=d6e63fefc8044a4c708fb710eb80f2f7)
 - [【安全热点】小心恶意软件掏空你的手机~](https://sec.thief.one/article_content?a_id=e2dafb568c1a208c2eb62a589d04e719)
 - [【安全热点】盘点|2020上半年八大应急响应典型案例分析](https://sec.thief.one/article_content?a_id=2bd9c68a5a211e89dd72d14604cd352a)
 - [【安全热点】秘密行动倒计时丨DC86021行动指挥部致全体极客伙伴的一封密信](https://sec.thief.one/article_content?a_id=c1b98bb40838df2addfbc3d7e11421ac)
@@ -419,7 +420,6 @@
 - [【安全热点】一款一键创建攻击机的脚本idea](https://sec.thief.one/article_content?a_id=63c10f92d208cf3cb95cedec43c540fd)
 - [【安全热点】谷歌排名第一的编程语言,死磕这点,初中生也能学的会!不信你看!](https://sec.thief.one/article_content?a_id=647bc62afe52b3509628a82d80769430)
 - [【安全热点】Apache-Shiro身份验证绕过漏洞风险提示](https://sec.thief.one/article_content?a_id=a13eefc82748a2cd020fe7ab90437d78)
-- [【安全热点】上来直接放0day大招,一天给一个月的活干完了!](https://sec.thief.one/article_content?a_id=9426bf0796551bd45617fb135edde55b)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

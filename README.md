@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 14:10:59，:rocket: 更新条数: +3345， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 14:22:20，:rocket: 更新条数: +3345， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-25-Macbook-Pro-在九月会更新吗？](https://www.v2ex.com/t/701409) ![](assets/new.png)  
 - [2020-08-25-微软-DevRel-中国团队热招软件工程师](https://www.v2ex.com/t/701407) ![](assets/new.png)  
 - [2020-08-25-现在有比较强的预测婴儿未来长相的-app-么](https://www.v2ex.com/t/701406) ![](assets/new.png)  
 - [2020-08-25-刚买的罗技-MX-Master-3-感觉没有-M110-好用，是我的使用方式有什么问题吗？](https://www.v2ex.com/t/701405) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-25-MySQL-查询语句执行顺序疑问：多表关联时会先生成笛卡尔乘积？](https://www.v2ex.com/t/701387) ![](assets/new.png)  
 - [2020-08-25-为何牛郎织女的故事在古代就能算作爱情浪漫感天动地，发生在现代的话就是违法犯罪?](https://www.v2ex.com/t/701386) ![](assets/new.png)  
 - [2020-08-25-总感觉肯德基，麦当劳的可乐比自家冰箱的好喝，是错觉吗](https://www.v2ex.com/t/701381) ![](assets/new.png)  
-- [2020-08-25-面向新手详细解释爬取-cctv-网页-flash-视频](https://www.v2ex.com/t/701380) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

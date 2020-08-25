@@ -16749,8 +16749,34 @@
   {
     "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "Node 脚本遭遇异常时如何安全退出",
+        "link": "https://juejin.im/post/6865060371481395213",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "划分主域",
+        "link": "https://juejin.im/post/6864950423330619405",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "手动实现一个 react-router-dom",
+        "link": "https://juejin.im/post/6864869694390665224",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "AntV G6 【Dagre 流程图布局】在项目需求中的运用  | 🏆 技术专题第三期征文",
+        "link": "https://juejin.im/post/6864838468715937799",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "🏆 技术专题第三期 | 数据可视化的那些事",
+        "link": "https://juejin.im/post/6864072407461101582",
+        "date": "2020-08-22"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",

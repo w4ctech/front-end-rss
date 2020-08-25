@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-25 14:03:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 14:10:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,5 +88,7 @@
 - [2020-08-24-初探视频原理和FFmpeg](https://www.ershicimi.com/p/d2b22c5f83e76f61caad1c48b650c7a6) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-22-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/1c917ebcc94ef67dc4fe89f64b2d4659) 
-- [2020-08-18-有奖活动-|「小秋招」职场练习生-C-位出道视频征集](https://www.ershicimi.com/p/f35dc28cee875bc2aa2f7b45463b51ca) 
+- [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) 
+- [2020-08-25-杭州-目睹直播同事都去过七夕了,我还在招前端](https://www.v2ex.com/t/701391) 
+- [2020-08-25-面向新手详细解释爬取-cctv-网页-flash-视频](https://www.v2ex.com/t/701380) 
 - [2020-08-13-央视提醒:微信清粉服务或泄露个人信息含视频](https://sec.thief.one/article_content?a_id=68e5a1ad9f18eb39c4be5133326c39ba) 

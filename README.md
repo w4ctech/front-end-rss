@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 07:31:57，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 07:33:35，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,9 +36,9 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
-- [安全热点](#安全热点)  
+- [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -295,6 +295,16 @@
 </summary>
 
 
+- [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) ![](assets/new.png)  
+- [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) ![](assets/new.png)  
+- [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) ![](assets/new.png)  
+- [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) ![](assets/new.png)  
+- [2020-07-21-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) ![](assets/new.png)  
+- [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) ![](assets/new.png)  
+- [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) ![](assets/new.png)  
+- [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/) ![](assets/new.png)  
+- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) ![](assets/new.png)  
+- [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -320,6 +330,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -496,6 +516,26 @@
 </summary>
 
 
+- [2020-08-21-【安全热点周报】第156期:被列入美国“实体名单”的企业禁止使用...](https://sec.thief.one/article_content?a_id=25fbfef3add42ab624ef4167dd7c2734) ![](assets/new.png)  
+- [2020-08-21-小心恶意软件掏空你的手机~](https://sec.thief.one/article_content?a_id=e2dafb568c1a208c2eb62a589d04e719) ![](assets/new.png)  
+- [2020-08-20-盘点|2020上半年八大应急响应典型案例分析](https://sec.thief.one/article_content?a_id=2bd9c68a5a211e89dd72d14604cd352a) ![](assets/new.png)  
+- [2020-08-20-再签某大型国有银行,国舜股份为客户核心业务系统上线提供安全赋能](https://sec.thief.one/article_content?a_id=da7b8071315719b1f18f465fe957eed7) ![](assets/new.png)  
+- [2020-08-20-秘密行动倒计时丨DC86021行动指挥部致全体极客伙伴的一封密信](https://sec.thief.one/article_content?a_id=c1b98bb40838df2addfbc3d7e11421ac) ![](assets/new.png)  
+- [2020-08-20-秘密行动倒计时丨DC86021行动指挥部致全体极客伙伴的一封密信](https://sec.thief.one/article_content?a_id=fd80118481b3e927099487572e1a15ae) ![](assets/new.png)  
+- [2020-08-19-【漏洞通告】深信服终端检测平台EDR远程命令执行漏洞处置手册](https://sec.thief.one/article_content?a_id=2a750b15681a6aae99ec9cbdcd7ccc4c) ![](assets/new.png)  
+- [2020-08-19-漏洞风险提示-|-Apache-Shiro-身份验证绕过漏洞CVE-2020-13933](https://sec.thief.one/article_content?a_id=1d9a10b26ffd03b51475753e0cae23de) ![](assets/new.png)  
+- [2020-08-18-中文版强势开源!这或许是最经典的计算机编程教材...](https://sec.thief.one/article_content?a_id=9caa06e389f71f28ee18f90b65ab0799) ![](assets/new.png)  
+- [2020-08-18-Apache-Dubbo-远程代码执行漏洞CVE-2020-11995](https://sec.thief.one/article_content?a_id=a7cefeabc9c1a8f045cc23ef7f601fd3) ![](assets/new.png)  
+- [2020-08-18-一款一键创建攻击机的脚本idea](https://sec.thief.one/article_content?a_id=63c10f92d208cf3cb95cedec43c540fd) ![](assets/new.png)  
+- [2020-08-18-谷歌排名第一的编程语言,死磕这点,初中生也能学的会!不信你看!](https://sec.thief.one/article_content?a_id=647bc62afe52b3509628a82d80769430) ![](assets/new.png)  
+- [2020-08-18-Apache-Shiro身份验证绕过漏洞风险提示](https://sec.thief.one/article_content?a_id=a13eefc82748a2cd020fe7ab90437d78) ![](assets/new.png)  
+- [2020-08-18-上来直接放0day大招,一天给一个月的活干完了!](https://sec.thief.one/article_content?a_id=9426bf0796551bd45617fb135edde55b) ![](assets/new.png)  
+- [2020-08-18-记一次有趣的APP反编译的过程](https://sec.thief.one/article_content?a_id=14837b2ad1cf82f3abafae3300ff0c11) ![](assets/new.png)  
+- [2020-08-17-2020.8.17红队威胁情报-日更](https://sec.thief.one/article_content?a_id=152bfd080a496e0c0bd2b9874bfdff47) ![](assets/new.png)  
+- [2020-08-17-翻译|系统管理员免费数字取证调查工具TOP20](https://sec.thief.one/article_content?a_id=90fd980e1275b14204298be6dd7fb6d1) ![](assets/new.png)  
+- [2020-08-17-Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80) ![](assets/new.png)  
+- [2020-08-17-SecWiki周刊第337期](https://sec.thief.one/article_content?a_id=19487bdb2f0c3835d087448f65f265bd) ![](assets/new.png)  
+- [2020-08-15-Struts2-S2-059-漏洞分析](https://sec.thief.one/article_content?a_id=1e81e408d726a4c620d3af6f49b8b4df) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

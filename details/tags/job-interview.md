@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-25 13:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 14:03:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,8 +40,6 @@
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-07-31-140道Web大厂面试真题分享](https://www.ershicimi.com/p/82353361ddca791ad1aa9c6410e36028) 
-- [2020-08-25-Leetcode/Lintcode-刷题-巨硬家面试题：字符串查找（带解题思路）](https://www.v2ex.com/t/701372) 
-- [2020-08-25-招聘/北京-运维部_百度云运维研发工程师招聘](https://www.v2ex.com/t/701362) 
 - [2020-08-25-程序员面试-10-大潜规则，千万不要踩坑！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13712&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4V37CDiEFBajn2NTMEcHMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-15-牛聘|2020年度岗位招聘第10期](https://sec.thief.one/article_content?a_id=48dc5bfc5999e36a623b8c8acdda0d3a) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

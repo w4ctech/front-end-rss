@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 16:33:38，:rocket: 更新条数: +3344， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 16:46:23，:rocket: 更新条数: +3344， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-25-azure-国际有没有人用过他的-CDN？有用过的可以讲一下，如何查看他的-CDN-流量和宽带](https://www.v2ex.com/t/701428) ![](assets/new.png)  
 - [2020-08-25-有什么好点的顺序扣款实现方案](https://www.v2ex.com/t/701427) ![](assets/new.png)  
 - [2020-08-25-求鉴别-这个-IP-哪家在卖](https://www.v2ex.com/t/701426) ![](assets/new.png)  
 - [2020-08-25-转租-短租，因重回学校，转租白堆子站附近次卧](https://www.v2ex.com/t/701425) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-25-6-网口软路由安装-esxi-并在其下创建-ikuai-和-op-后](https://www.v2ex.com/t/701410) ![](assets/new.png)  
 - [2020-08-25-Macbook-Pro-在九月会更新吗？](https://www.v2ex.com/t/701409) ![](assets/new.png)  
 - [2020-08-25-微软-DevRel-中国团队热招软件工程师](https://www.v2ex.com/t/701407) ![](assets/new.png)  
-- [2020-08-25-现在有比较强的预测婴儿未来长相的-app-么](https://www.v2ex.com/t/701406) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

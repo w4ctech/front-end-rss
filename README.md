@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 17:02:37，:rocket: 更新条数: +3344， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 17:10:00，:rocket: 更新条数: +3344， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-08-25-Homebrew-安装遇到困难，求解答。](https://www.v2ex.com/t/701430) ![](assets/new.png)  
+- [2020-08-25-起个公司名，水一下](https://www.v2ex.com/t/701429) ![](assets/new.png)  
 - [2020-08-25-azure-国际有没有人用过他的-CDN？有用过的可以讲一下，如何查看他的-CDN-流量和宽带](https://www.v2ex.com/t/701428) ![](assets/new.png)  
 - [2020-08-25-有什么好点的顺序扣款实现方案](https://www.v2ex.com/t/701427) ![](assets/new.png)  
 - [2020-08-25-求鉴别-这个-IP-哪家在卖](https://www.v2ex.com/t/701426) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-08-25-开源项目尝试推广的第一天，有点失落。](https://www.v2ex.com/t/701412) ![](assets/new.png)  
 - [2020-08-25-idea-2020.2-使用-WSL2-终端太卡了](https://www.v2ex.com/t/701411) ![](assets/new.png)  
 - [2020-08-25-6-网口软路由安装-esxi-并在其下创建-ikuai-和-op-后](https://www.v2ex.com/t/701410) ![](assets/new.png)  
-- [2020-08-25-Macbook-Pro-在九月会更新吗？](https://www.v2ex.com/t/701409) ![](assets/new.png)  
-- [2020-08-25-微软-DevRel-中国团队热招软件工程师](https://www.v2ex.com/t/701407) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,8 +1128,8 @@
 - [2020-08-25-携程基于-Quasar-协程的-NIO-实践](https://toutiao.io/k/1zpub79) ![](assets/new.png)  
 - [2020-08-25-如何为团队定制自己的-Node.js-框架？（基于-EggJS）](https://toutiao.io/k/juo1crf) ![](assets/new.png)  
 - [2020-08-25-大规模数据安全分类系统架构实践](https://toutiao.io/k/d0raa3b) ![](assets/new.png)  
-- [2020-08-25-Python-为什么没有-void-关键字？](https://toutiao.io/k/nnj3t6m) ![](assets/new.png)  
 - [2020-08-25-types-和-@types-是什么？](https://toutiao.io/k/owh81t0) ![](assets/new.png)  
+- [2020-08-25-Python-为什么没有-void-关键字？](https://toutiao.io/k/nnj3t6m) ![](assets/new.png)  
 - [2020-08-25-在命令行进行简单的统计分析](https://toutiao.io/k/mcg1w0g) ![](assets/new.png)  
 - [2020-08-25-Gin-学习之响应处理](https://toutiao.io/k/685owjs) ![](assets/new.png)  
 - [2020-08-25-海量数据下的精准营销工程实践](https://toutiao.io/k/5qnsh37) ![](assets/new.png)  

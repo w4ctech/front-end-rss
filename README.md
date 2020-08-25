@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 23:33:58，:rocket: 更新条数: +3565， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 23:46:23，:rocket: 更新条数: +3541， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -967,11 +967,6 @@
 </summary>
 
 
-- [2020-08-25-Node-脚本遭遇异常时如何安全退出](https://juejin.im/post/6865060371481395213) ![](assets/new.png)  
-- [2020-08-25-划分主域](https://juejin.im/post/6864950423330619405) ![](assets/new.png)  
-- [2020-08-25-手动实现一个-react-router-dom](https://juejin.im/post/6864869694390665224) ![](assets/new.png)  
-- [2020-08-25-AntV-G6-【Dagre-流程图布局】在项目需求中的运用-|-🏆-技术专题第三期征文](https://juejin.im/post/6864838468715937799) ![](assets/new.png)  
-- [2020-08-22-🏆-技术专题第三期-|-数据可视化的那些事](https://juejin.im/post/6864072407461101582) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,26 +1134,22 @@
 </summary>
 
 
-- [2020-08-25-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
-- [2020-08-25-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-08-25-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts) ![](assets/new.png)  
-- [2020-08-25-TypeScript-设计模式之发布：订阅模式](https://toutiao.io/k/tbuo234) ![](assets/new.png)  
-- [2020-08-25-Substrate-官方教程增强版](https://toutiao.io/k/8a4agfs) ![](assets/new.png)  
-- [2020-08-25-你用对锁了吗？浅谈-Java-“锁”-事](https://toutiao.io/k/76o97ha) ![](assets/new.png)  
-- [2020-08-25-携程基于-Quasar-协程的-NIO-实践](https://toutiao.io/k/1zpub79) ![](assets/new.png)  
-- [2020-08-25-如何为团队定制自己的-Node.js-框架？（基于-EggJS）](https://toutiao.io/k/juo1crf) ![](assets/new.png)  
-- [2020-08-25-大规模数据安全分类系统架构实践](https://toutiao.io/k/d0raa3b) ![](assets/new.png)  
-- [2020-08-25-types-和-@types-是什么？](https://toutiao.io/k/owh81t0) ![](assets/new.png)  
-- [2020-08-25-Python-为什么没有-void-关键字？](https://toutiao.io/k/nnj3t6m) ![](assets/new.png)  
-- [2020-08-25-在命令行进行简单的统计分析](https://toutiao.io/k/mcg1w0g) ![](assets/new.png)  
-- [2020-08-25-Gin-学习之响应处理](https://toutiao.io/k/685owjs) ![](assets/new.png)  
-- [2020-08-25-海量数据下的精准营销工程实践](https://toutiao.io/k/5qnsh37) ![](assets/new.png)  
-- [2020-08-25-Java-开发者生码-IDEA-插件，香](https://toutiao.io/k/xxyjfez) ![](assets/new.png)  
-- [2020-08-25-哥斯拉-Godzilla-shell-管理工具](https://toutiao.io/k/9rkjdll) ![](assets/new.png)  
-- [2020-08-25-译-在-Solidity-中使用值数组以降低-gas-消耗](https://toutiao.io/k/7g2tstj) ![](assets/new.png)  
-- [2020-08-25-性能优化是权衡的哲学](https://toutiao.io/k/0vo4i5m) ![](assets/new.png)  
-- [2020-08-25-迁移性好、多用途，港中文提出特征分离的无监督人类三维姿态表征](https://toutiao.io/k/zlzk8wh) ![](assets/new.png)  
-- [2020-08-25-在-Android-和-Hilt-中限定作用域](https://toutiao.io/k/6gez8rr) ![](assets/new.png)  
+- [2020-08-25-加入「码农周刊-VIP-会员」，与上市公司-CTO-一起成长！](https://toutiao.io/k/dhm0x44) ![](assets/new.png)  
+- [2020-08-25-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
+- [2020-08-25-推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw) ![](assets/new.png)  
+- [2020-08-25-推荐-高并发系统三大利器之限流](https://toutiao.io/k/1514ax3) ![](assets/new.png)  
+- [2020-08-25-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
+- [2020-08-25-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) ![](assets/new.png)  
+- [2020-08-25-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/9ujm1ju) ![](assets/new.png)  
+- [2020-08-25-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
+- [2020-08-25-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
+- [2020-08-25-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
+- [2020-08-25-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
+- [2020-08-25-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
+- [2020-08-25-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
+- [2020-08-25-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-25-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
+- [2020-08-25-推荐-神器推荐！让我用的最爽的几款-Windows-软件，非常实用](https://toutiao.io/k/n1da8v7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

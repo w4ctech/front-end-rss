@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-24 23:48:05，:rocket: 更新条数: +3560， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 00:06:03，:rocket: 更新条数: +3560， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1108,26 +1108,26 @@
 </summary>
 
 
-- [2020-08-24-评估数据中台成熟度的7个维度-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13717&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-zhongtai-maturity-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-好记性不如视觉笔记-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13716&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-visual-notes%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-心血来潮复制了一段前程序员留下的代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13715&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fb6TMXmnf9jPsVArmqjBh8Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-Win-10-中使用-Python-碰到的奇怪现象-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13714&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKnbhnPb9tQxgGW9R5r8PmQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-一个人竟然撸了一个微博-App-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13713&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMUY8NKD7e7wM9I7jLB4E5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-程序员面试-10-大潜规则，千万不要踩坑！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13712&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4V37CDiEFBajn2NTMEcHMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-开发人员各种鄙视链-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13711&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKy5huXhbnCC26pGcN5wY_A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-一名-24-岁程序员的挣扎！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13710&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT1XoIE2U0-Lfc_rRfbzgTA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-6-月编程语言排行榜，Rust-第一次进入前-20-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13709&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbV4HHJyPdB-eMsxk3lugzA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-再见，Eclipse！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13708&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F697I72BTFxsSKiTUf1J97A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-重磅！《命令与征服》和《红色警戒》源码公布了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13707&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE87rCePh_4laTowZpoRW6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-不要让-Chrome-成为下一个-IE！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-sYSSTkU0wqZ4n_RE4w81Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-这是我看过关于微服务架构最好的文章-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13705&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-kdFE6Rw5-QJmfIi2y7BqQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-React-团队全员罢工了？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13704&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjhvC7sWd3M2aX0gD9w7LvA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-Myeclipse-2020.5-版本首发！支持-Java14-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13703&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6PuvYsSh9GvgmhMfaOgPDg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-蚂蚁金服是如何提高移动端体验的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13702&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ft1Ty2MDbFCDE2DG7lXjnUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-10-个-Vue-开发技巧，助力成为更好的工程师！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13701&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2BSTD8UrDmEBGX8jjIeRtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-开发模型的演化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13700&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fevolution-of-development-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-是时候构建安全服务平台了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13699&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-service-platform-ssdlc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-24-软件开发是一项团队运动-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13698&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-development-team-sports%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-评估数据中台成熟度的7个维度-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13717&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-zhongtai-maturity-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-好记性不如视觉笔记-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13716&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-visual-notes%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-心血来潮复制了一段前程序员留下的代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13715&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fb6TMXmnf9jPsVArmqjBh8Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-Win-10-中使用-Python-碰到的奇怪现象-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13714&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKnbhnPb9tQxgGW9R5r8PmQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-一个人竟然撸了一个微博-App-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13713&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMUY8NKD7e7wM9I7jLB4E5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-程序员面试-10-大潜规则，千万不要踩坑！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13712&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4V37CDiEFBajn2NTMEcHMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-开发人员各种鄙视链-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13711&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKy5huXhbnCC26pGcN5wY_A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-一名-24-岁程序员的挣扎！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13710&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT1XoIE2U0-Lfc_rRfbzgTA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-6-月编程语言排行榜，Rust-第一次进入前-20-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13709&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbV4HHJyPdB-eMsxk3lugzA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-再见，Eclipse！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13708&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F697I72BTFxsSKiTUf1J97A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-重磅！《命令与征服》和《红色警戒》源码公布了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13707&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE87rCePh_4laTowZpoRW6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-不要让-Chrome-成为下一个-IE！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-sYSSTkU0wqZ4n_RE4w81Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-这是我看过关于微服务架构最好的文章-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13705&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-kdFE6Rw5-QJmfIi2y7BqQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-React-团队全员罢工了？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13704&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjhvC7sWd3M2aX0gD9w7LvA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-Myeclipse-2020.5-版本首发！支持-Java14-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13703&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6PuvYsSh9GvgmhMfaOgPDg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-蚂蚁金服是如何提高移动端体验的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13702&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ft1Ty2MDbFCDE2DG7lXjnUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-10-个-Vue-开发技巧，助力成为更好的工程师！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13701&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2BSTD8UrDmEBGX8jjIeRtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-开发模型的演化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13700&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fevolution-of-development-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-是时候构建安全服务平台了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13699&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-service-platform-ssdlc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-25-软件开发是一项团队运动-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13698&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-development-team-sports%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,26 +1139,26 @@
 </summary>
 
 
-- [2020-08-24-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
-- [2020-08-24-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
-- [2020-08-24-软件开发项目里千万要避开的几种人](https://toutiao.io/k/wi6a6vk) ![](assets/new.png)  
-- [2020-08-24-程序员戴耳机敲代码，到底在听啥？](https://toutiao.io/k/drl9p2q) ![](assets/new.png)  
-- [2020-08-24-记一次网络请求连接超时的事故](https://toutiao.io/k/6ypc6qi) ![](assets/new.png)  
-- [2020-08-24-你的系统可用性-5-个-9-了吗？](https://toutiao.io/k/kfbevck) ![](assets/new.png)  
-- [2020-08-24-高并发下比-AtomicLong-性能更好的-LongAdder](https://toutiao.io/k/oa38hlw) ![](assets/new.png)  
-- [2020-08-24-跨越鸿沟：计算机视觉-学术界与工业界的-GAP-有多大？](https://toutiao.io/k/rh0msrp) ![](assets/new.png)  
-- [2020-08-24-Raft-算法之集群成员变更](https://toutiao.io/k/l6me8fz) ![](assets/new.png)  
-- [2020-08-24-为什么说软件架构设计很重要？](https://toutiao.io/k/tbn2cum) ![](assets/new.png)  
-- [2020-08-24-译-更有效使用-GitHub-的-4-个技巧](https://toutiao.io/k/3oswfvq) ![](assets/new.png)  
-- [2020-08-24-“锟斤拷”-的前世今生](https://toutiao.io/k/pv95vn7) ![](assets/new.png)  
-- [2020-08-24-从电源问题出发，带你揭秘新体系结构范式-COA](https://toutiao.io/k/emgf3k6) ![](assets/new.png)  
-- [2020-08-24-Apache-Pulsar-在-BIGO-的性能调优实战（上）](https://toutiao.io/k/vd8iqvp) ![](assets/new.png)  
-- [2020-08-24-这是一份-pip-常用命令小结](https://toutiao.io/k/cv1z9qw) ![](assets/new.png)  
-- [2020-08-24-一文讲懂数据库隔离级别](https://toutiao.io/k/efelr53) ![](assets/new.png)  
-- [2020-08-24-RecyclerView-Adapter-系列之集成-Lifecycle](https://toutiao.io/k/tpcgkbv) ![](assets/new.png)  
-- [2020-08-24-译-如何使得你的-Go-命令行程序变得友好？](https://toutiao.io/k/q8idzqf) ![](assets/new.png)  
-- [2020-08-24-浅谈-PHP-无回显命令执行的利用](https://toutiao.io/k/ovsr9s1) ![](assets/new.png)  
-- [2020-08-24-Kubernetes-控制器：副本集-ReplicaSet](https://toutiao.io/k/ittpel3) ![](assets/new.png)  
+- [2020-08-25-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
+- [2020-08-25-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
+- [2020-08-25-软件开发项目里千万要避开的几种人](https://toutiao.io/k/wi6a6vk) ![](assets/new.png)  
+- [2020-08-25-程序员戴耳机敲代码，到底在听啥？](https://toutiao.io/k/drl9p2q) ![](assets/new.png)  
+- [2020-08-25-记一次网络请求连接超时的事故](https://toutiao.io/k/6ypc6qi) ![](assets/new.png)  
+- [2020-08-25-你的系统可用性-5-个-9-了吗？](https://toutiao.io/k/kfbevck) ![](assets/new.png)  
+- [2020-08-25-高并发下比-AtomicLong-性能更好的-LongAdder](https://toutiao.io/k/oa38hlw) ![](assets/new.png)  
+- [2020-08-25-跨越鸿沟：计算机视觉-学术界与工业界的-GAP-有多大？](https://toutiao.io/k/rh0msrp) ![](assets/new.png)  
+- [2020-08-25-Raft-算法之集群成员变更](https://toutiao.io/k/l6me8fz) ![](assets/new.png)  
+- [2020-08-25-为什么说软件架构设计很重要？](https://toutiao.io/k/tbn2cum) ![](assets/new.png)  
+- [2020-08-25-译-更有效使用-GitHub-的-4-个技巧](https://toutiao.io/k/3oswfvq) ![](assets/new.png)  
+- [2020-08-25-“锟斤拷”-的前世今生](https://toutiao.io/k/pv95vn7) ![](assets/new.png)  
+- [2020-08-25-从电源问题出发，带你揭秘新体系结构范式-COA](https://toutiao.io/k/emgf3k6) ![](assets/new.png)  
+- [2020-08-25-Apache-Pulsar-在-BIGO-的性能调优实战（上）](https://toutiao.io/k/vd8iqvp) ![](assets/new.png)  
+- [2020-08-25-这是一份-pip-常用命令小结](https://toutiao.io/k/cv1z9qw) ![](assets/new.png)  
+- [2020-08-25-一文讲懂数据库隔离级别](https://toutiao.io/k/efelr53) ![](assets/new.png)  
+- [2020-08-25-RecyclerView-Adapter-系列之集成-Lifecycle](https://toutiao.io/k/tpcgkbv) ![](assets/new.png)  
+- [2020-08-25-译-如何使得你的-Go-命令行程序变得友好？](https://toutiao.io/k/q8idzqf) ![](assets/new.png)  
+- [2020-08-25-浅谈-PHP-无回显命令执行的利用](https://toutiao.io/k/ovsr9s1) ![](assets/new.png)  
+- [2020-08-25-Kubernetes-控制器：副本集-ReplicaSet](https://toutiao.io/k/ittpel3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

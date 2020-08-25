@@ -12832,28 +12832,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
-        "title": "5天→3天 核酸检测时限调整 ​阿联酋赴华商业航班乘客请注意！",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijggbB45AFo64zO3KrhCe200825&isfromapp=1",
+        "title": "世卫组织：全球新冠肺炎新增206382例 欧洲区域累计超过400万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artist50jvkV2ru1ojhWV4L9200826&isfromapp=1",
         "date": "2020-08-25"
       },
       {
-        "title": "国际航协：旅客在航空旅行中拒戴口罩将面临处罚风险",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6L7VsDpSPITusceQ6pOX200825&isfromapp=1",
+        "title": "世卫组织：二次感染新冠病毒并不常见",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivriMkUfMjH9BvWp3n0La200826&isfromapp=1",
         "date": "2020-08-25"
       },
       {
-        "title": "​孟加拉国新增2545例新冠肺炎确诊病例 累计达299628例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidR27MWLFKB15YaY1NbVZ200825&isfromapp=1",
+        "title": "英国政府态度逆转 规定中学生在学校公共区域必须佩戴口罩",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwBSVBTrQ2DW8woFQwa5i200826&isfromapp=1",
         "date": "2020-08-25"
       },
       {
-        "title": "伊朗新增2213例新冠肺炎确诊病例 累计363363例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIWT0VrLDeNXBuN6VBty8200825&isfromapp=1",
+        "title": "以色列公安部副部长被确诊感染新冠肺炎 全国累计确诊达106245例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzFSY370lvFVGGhj3Fj2200826&isfromapp=1",
         "date": "2020-08-25"
       },
       {
-        "title": "天津新增1例境外输入新冠肺炎确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMEZ6Xc9FhAxbvJuT2syd200825&isfromapp=1",
+        "title": "巴西总统长子确诊感染新冠肺炎",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5V5Fzq1ZLD4UW8SBA846200826&isfromapp=1",
         "date": "2020-08-25"
       }
     ]
@@ -13262,6 +13262,41 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2045期】从零开始实现VS Code基金插件",
+        "link": "https://www.ershicimi.com/p/fb15505fd6f7debd9827389b1cc632aa",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "【第2044期】React Hooks 设计思想",
+        "link": "https://www.ershicimi.com/p/63dfed5cb476fa7f223ea64a5df4f28e",
+        "date": "2020-08-24"
+      },
+      {
+        "title": "【招聘】饿了么外卖终端技术 - 小程序团队招前端（杭州 + 上海）",
+        "link": "https://www.ershicimi.com/p/2ac32e2e8da7d2eb2bf9841ac6bd0a4c",
+        "date": "2020-08-24"
+      },
+      {
+        "title": "前端工程师如何修炼自己的编程内力",
+        "link": "https://www.ershicimi.com/p/21e52d1a5e449e70a449422658cb4271",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "【第2043期】Design Tokens —— 设计与开发碰撞的火花",
+        "link": "https://www.ershicimi.com/p/35ee80358033c8cd3825f02a98fac670",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "【图书】重来3：跳出疯狂的忙碌",
+        "link": "https://www.ershicimi.com/p/4130ff8e27efb05029017101fce2d324",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "【第2042期】程序员如何把控自己的职业",
+        "link": "https://www.ershicimi.com/p/ca3438e04b4906929931b448b7f1e6fc",
+        "date": "2020-08-22"
+      },
+      {
         "title": "【第2041期】浅谈低代码平台涉及的一些技术选型",
         "link": "https://www.ershicimi.com/p/40277dad48572c03bccb5f59acf8da7a",
         "date": "2020-08-21"
@@ -13325,41 +13360,6 @@
         "title": "【第2034期】全民K歌推流直播Web实践",
         "link": "https://www.ershicimi.com/p/418fa8175221ad03a3dc474f0ba433a3",
         "date": "2020-08-14"
-      },
-      {
-        "title": "【第2033期】核心稳定、易扩展——开放关闭原则（The Open-Closed Principle",
-        "link": "https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "【第2032期】基于react的组件库主题设计方案",
-        "link": "https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "【招聘】深圳富途招聘web前后端工程师",
-        "link": "https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "前端圈的贫富差距正在拉大？",
-        "link": "https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "【第2031期】APNG 那些事",
-        "link": "https://www.ershicimi.com/p/0b91f049f1eac1c08cfd70c761b36127",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "【第2030期】JavaScript 启动性能瓶颈分析与解决方案",
-        "link": "https://www.ershicimi.com/p/b5d928c5a5bb527a841b3c254803bc72",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "【招聘】微医集团前端技术部招高级前端开发工程师及前端技术专家",
-        "link": "https://www.ershicimi.com/p/01b1405da53014f424c46c2d7e799c19",
-        "date": "2020-08-10"
       }
     ]
   },
@@ -16752,6 +16752,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "Node 脚本遭遇异常时如何安全退出",
+        "link": "https://juejin.im/post/6865060371481395213",
+        "date": "2020-08-25"
+      },
+      {
         "title": "划分主域",
         "link": "https://juejin.im/post/6864950423330619405",
         "date": "2020-08-25"
@@ -16765,11 +16770,6 @@
         "title": "AntV G6 【Dagre 流程图布局】在项目需求中的运用  | 🏆 技术专题第三期征文",
         "link": "https://juejin.im/post/6864838468715937799",
         "date": "2020-08-25"
-      },
-      {
-        "title": "【译】原生格式化JavaScript中的日期与时间",
-        "link": "https://juejin.im/post/6864801940757282823",
-        "date": "2020-08-24"
       },
       {
         "title": "🏆 技术专题第三期 | 数据可视化的那些事",
@@ -17455,13 +17455,13 @@
         "date": "2020-08-25"
       },
       {
-        "title": "大规模数据安全分类系统架构实践",
-        "link": "https://toutiao.io/k/d0raa3b",
+        "title": "如何为团队定制自己的 Node.js 框架？（基于 EggJS）",
+        "link": "https://toutiao.io/k/juo1crf",
         "date": "2020-08-25"
       },
       {
-        "title": "如何为团队定制自己的 Node.js 框架？（基于 EggJS）",
-        "link": "https://toutiao.io/k/juo1crf",
+        "title": "大规模数据安全分类系统架构实践",
+        "link": "https://toutiao.io/k/d0raa3b",
         "date": "2020-08-25"
       },
       {
@@ -17520,13 +17520,23 @@
         "date": "2020-08-25"
       },
       {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
+        "title": "[推荐] 史上最全的 vim 快捷键文档/手册/大全/帮助/指南",
+        "link": "https://toutiao.io/k/dx4z66j",
         "date": "2020-08-25"
       },
       {
         "title": "[推荐] Java 如何优雅的生成测试数据",
         "link": "https://toutiao.io/k/njbuzjl",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
+        "link": "https://toutiao.io/k/q5376fl",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "[推荐] 一道有意思的腾讯算法面试题",
+        "link": "https://toutiao.io/k/wui7yqj",
         "date": "2020-08-25"
       },
       {
@@ -17540,48 +17550,8 @@
         "date": "2020-08-25"
       },
       {
-        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
-        "link": "https://toutiao.io/k/kumhh9k",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之缓存",
-        "link": "https://toutiao.io/k/gbvhdf1",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "[推荐] 一道有意思的腾讯算法面试题",
-        "link": "https://toutiao.io/k/wui7yqj",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
-        "link": "https://toutiao.io/k/q5376fl",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "[推荐] 全网最通透的 Java 8 版本特性讲解",
-        "link": "https://toutiao.io/k/vbmfzum",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之限流",
-        "link": "https://toutiao.io/k/1514ax3",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "[推荐] 美国如果把根域名服务器封了，中国会从网络上消失？",
-        "link": "https://toutiao.io/k/yitvf34",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "[推荐] 快速入门数据结构和算法",
-        "link": "https://toutiao.io/k/vkyzxyw",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
+        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
+        "link": "https://toutiao.io/k/smg6nko",
         "date": "2020-08-25"
       },
       {
@@ -17590,8 +17560,38 @@
         "date": "2020-08-25"
       },
       {
-        "title": "[推荐] 多图详解！10 大高性能开发核心技术",
-        "link": "https://toutiao.io/k/iqokf55",
+        "title": "[推荐] 高并发系统三大利器之限流",
+        "link": "https://toutiao.io/k/1514ax3",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "[推荐] Redis 五大对象",
+        "link": "https://toutiao.io/k/djlfguy",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "[推荐] ​Linux CPU 性能优化指南",
+        "link": "https://toutiao.io/k/e6zbho6",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "[推荐] 全网最通透的 Java 8 版本特性讲解",
+        "link": "https://toutiao.io/k/vbmfzum",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "[推荐] 美国如果把根域名服务器封了，中国会从网络上消失？",
+        "link": "https://toutiao.io/k/yitvf34",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "[推荐] Tomcat 高并发之道原理拆解与性能调优",
+        "link": "https://toutiao.io/k/htijp2l",
         "date": "2020-08-25"
       }
     ]

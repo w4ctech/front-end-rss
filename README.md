@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 23:20:04，:rocket: 更新条数: +3565， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 23:31:44，:rocket: 更新条数: +3565， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-08-25-5天→3天-核酸检测时限调整-​阿联酋赴华商业航班乘客请注意！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijggbB45AFo64zO3KrhCe200825&isfromapp=1) ![](assets/new.png)  
-- [2020-08-25-国际航协：旅客在航空旅行中拒戴口罩将面临处罚风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6L7VsDpSPITusceQ6pOX200825&isfromapp=1) ![](assets/new.png)  
-- [2020-08-25-​孟加拉国新增2545例新冠肺炎确诊病例-累计达299628例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidR27MWLFKB15YaY1NbVZ200825&isfromapp=1) ![](assets/new.png)  
-- [2020-08-25-伊朗新增2213例新冠肺炎确诊病例-累计363363例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIWT0VrLDeNXBuN6VBty8200825&isfromapp=1) ![](assets/new.png)  
-- [2020-08-25-天津新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMEZ6Xc9FhAxbvJuT2syd200825&isfromapp=1) ![](assets/new.png)  
+- [2020-08-25-世卫组织：全球新冠肺炎新增206382例-欧洲区域累计超过400万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artist50jvkV2ru1ojhWV4L9200826&isfromapp=1) ![](assets/new.png)  
+- [2020-08-25-世卫组织：二次感染新冠病毒并不常见](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivriMkUfMjH9BvWp3n0La200826&isfromapp=1) ![](assets/new.png)  
+- [2020-08-25-英国政府态度逆转-规定中学生在学校公共区域必须佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwBSVBTrQ2DW8woFQwa5i200826&isfromapp=1) ![](assets/new.png)  
+- [2020-08-25-以色列公安部副部长被确诊感染新冠肺炎-全国累计确诊达106245例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzFSY370lvFVGGhj3Fj2200826&isfromapp=1) ![](assets/new.png)  
+- [2020-08-25-巴西总统长子确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5V5Fzq1ZLD4UW8SBA846200826&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -229,6 +229,13 @@
 </summary>
 
 
+- [2020-08-25-【第2045期】从零开始实现VS-Code基金插件](https://www.ershicimi.com/p/fb15505fd6f7debd9827389b1cc632aa) ![](assets/new.png)  
+- [2020-08-24-【第2044期】React-Hooks-设计思想](https://www.ershicimi.com/p/63dfed5cb476fa7f223ea64a5df4f28e) ![](assets/new.png)  
+- [2020-08-24-【招聘】饿了么外卖终端技术---小程序团队招前端（杭州-+-上海）](https://www.ershicimi.com/p/2ac32e2e8da7d2eb2bf9841ac6bd0a4c) ![](assets/new.png)  
+- [2020-08-23-前端工程师如何修炼自己的编程内力](https://www.ershicimi.com/p/21e52d1a5e449e70a449422658cb4271) ![](assets/new.png)  
+- [2020-08-23-【第2043期】Design-Tokens-——-设计与开发碰撞的火花](https://www.ershicimi.com/p/35ee80358033c8cd3825f02a98fac670) ![](assets/new.png)  
+- [2020-08-23-【图书】重来3：跳出疯狂的忙碌](https://www.ershicimi.com/p/4130ff8e27efb05029017101fce2d324) ![](assets/new.png)  
+- [2020-08-22-【第2042期】程序员如何把控自己的职业](https://www.ershicimi.com/p/ca3438e04b4906929931b448b7f1e6fc) ![](assets/new.png)  
 - [2020-08-21-【第2041期】浅谈低代码平台涉及的一些技术选型](https://www.ershicimi.com/p/40277dad48572c03bccb5f59acf8da7a) ![](assets/new.png)  
 - [2020-08-21-【招聘】字节跳动杭州-Data-广告系统-展现优化招前端开发工程师（校招+社招）](https://www.ershicimi.com/p/062d9435803e76ddcbc362c09914370f) ![](assets/new.png)  
 - [2020-08-20-【第2040期】Node-模块化之争：为什么-CommonJS-和-ES-Modules-无法相互协](https://www.ershicimi.com/p/4d066ebfc0e5df2c0e1d9f1468fb35ce) ![](assets/new.png)  
@@ -242,13 +249,6 @@
 - [2020-08-15-【第2035期】React-17-RC-版发布：无新特性，却有新期待！](https://www.ershicimi.com/p/bc2f78439648d4259c89c2977e549c86) ![](assets/new.png)  
 - [2020-08-15-【开源】Reactant:-一个渐进式React的框架](https://www.ershicimi.com/p/03e9e1aa72383b954073d6d0100a7f4a) ![](assets/new.png)  
 - [2020-08-14-【第2034期】全民K歌推流直播Web实践](https://www.ershicimi.com/p/418fa8175221ad03a3dc474f0ba433a3) ![](assets/new.png)  
-- [2020-08-14-【第2033期】核心稳定、易扩展——开放关闭原则（The-Open-Closed-Principle](https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb) ![](assets/new.png)  
-- [2020-08-12-【第2032期】基于react的组件库主题设计方案](https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500) ![](assets/new.png)  
-- [2020-08-12-【招聘】深圳富途招聘web前后端工程师](https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2) ![](assets/new.png)  
-- [2020-08-11-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f) ![](assets/new.png)  
-- [2020-08-11-【第2031期】APNG-那些事](https://www.ershicimi.com/p/0b91f049f1eac1c08cfd70c761b36127) ![](assets/new.png)  
-- [2020-08-10-【第2030期】JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/b5d928c5a5bb527a841b3c254803bc72) ![](assets/new.png)  
-- [2020-08-10-【招聘】微医集团前端技术部招高级前端开发工程师及前端技术专家](https://www.ershicimi.com/p/01b1405da53014f424c46c2d7e799c19) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,10 +967,10 @@
 </summary>
 
 
+- [2020-08-25-Node-脚本遭遇异常时如何安全退出](https://juejin.im/post/6865060371481395213) ![](assets/new.png)  
 - [2020-08-25-划分主域](https://juejin.im/post/6864950423330619405) ![](assets/new.png)  
 - [2020-08-25-手动实现一个-react-router-dom](https://juejin.im/post/6864869694390665224) ![](assets/new.png)  
 - [2020-08-25-AntV-G6-【Dagre-流程图布局】在项目需求中的运用-|-🏆-技术专题第三期征文](https://juejin.im/post/6864838468715937799) ![](assets/new.png)  
-- [2020-08-24-【译】原生格式化JavaScript中的日期与时间](https://juejin.im/post/6864801940757282823) ![](assets/new.png)  
 - [2020-08-22-🏆-技术专题第三期-|-数据可视化的那些事](https://juejin.im/post/6864072407461101582) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1146,8 +1146,8 @@
 - [2020-08-25-Substrate-官方教程增强版](https://toutiao.io/k/8a4agfs) ![](assets/new.png)  
 - [2020-08-25-你用对锁了吗？浅谈-Java-“锁”-事](https://toutiao.io/k/76o97ha) ![](assets/new.png)  
 - [2020-08-25-携程基于-Quasar-协程的-NIO-实践](https://toutiao.io/k/1zpub79) ![](assets/new.png)  
-- [2020-08-25-大规模数据安全分类系统架构实践](https://toutiao.io/k/d0raa3b) ![](assets/new.png)  
 - [2020-08-25-如何为团队定制自己的-Node.js-框架？（基于-EggJS）](https://toutiao.io/k/juo1crf) ![](assets/new.png)  
+- [2020-08-25-大规模数据安全分类系统架构实践](https://toutiao.io/k/d0raa3b) ![](assets/new.png)  
 - [2020-08-25-types-和-@types-是什么？](https://toutiao.io/k/owh81t0) ![](assets/new.png)  
 - [2020-08-25-Python-为什么没有-void-关键字？](https://toutiao.io/k/nnj3t6m) ![](assets/new.png)  
 - [2020-08-25-在命令行进行简单的统计分析](https://toutiao.io/k/mcg1w0g) ![](assets/new.png)  

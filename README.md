@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 15:46:23，:rocket: 更新条数: +3306， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 15:48:13，:rocket: 更新条数: +3344， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1057,6 +1057,26 @@
 </summary>
 
 
+- [2020-08-25-对于开发者来说，苹果-App-Store-有哪些比较严重的问题？](https://www.v2ex.com/t/701422) ![](assets/new.png)  
+- [2020-08-25-macos-看图软件求推荐，-WebP，-JFIF](https://www.v2ex.com/t/701421) ![](assets/new.png)  
+- [2020-08-25-杭州--同花顺内推码-QT5064](https://www.v2ex.com/t/701420) ![](assets/new.png)  
+- [2020-08-25-持续招聘中---内附比较详细的介绍-上海蚂蚁金服---金融核心技术部](https://www.v2ex.com/t/701419) ![](assets/new.png)  
+- [2020-08-25-尝试让富文本编辑器框架-Draft.js-支持表格功能](https://www.v2ex.com/t/701418) ![](assets/new.png)  
+- [2020-08-25-有没有用-sonos-的老哥啊，今天播放列表中大部分-qq-和-163-的音乐都失效了](https://www.v2ex.com/t/701417) ![](assets/new.png)  
+- [2020-08-25-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/701416) ![](assets/new.png)  
+- [2020-08-25-淘宝特价版怎么样？会超过拼多多吗？](https://www.v2ex.com/t/701415) ![](assets/new.png)  
+- [2020-08-25-小白吐槽一下今天-C/C++装机历程](https://www.v2ex.com/t/701414) ![](assets/new.png)  
+- [2020-08-25-菜鸟裹裹-TestFlight-测试版教大家“发音”](https://www.v2ex.com/t/701413) ![](assets/new.png)  
+- [2020-08-25-开源项目尝试推广的第一天，有点失落。](https://www.v2ex.com/t/701412) ![](assets/new.png)  
+- [2020-08-25-idea-2020.2-使用-WSL2-终端太卡了](https://www.v2ex.com/t/701411) ![](assets/new.png)  
+- [2020-08-25-6-网口软路由安装-esxi-并在其下创建-ikuai-和-op-后](https://www.v2ex.com/t/701410) ![](assets/new.png)  
+- [2020-08-25-Macbook-Pro-在九月会更新吗？](https://www.v2ex.com/t/701409) ![](assets/new.png)  
+- [2020-08-25-微软-DevRel-中国团队热招软件工程师](https://www.v2ex.com/t/701407) ![](assets/new.png)  
+- [2020-08-25-现在有比较强的预测婴儿未来长相的-app-么](https://www.v2ex.com/t/701406) ![](assets/new.png)  
+- [2020-08-25-刚买的罗技-MX-Master-3-感觉没有-M110-好用，是我的使用方式有什么问题吗？](https://www.v2ex.com/t/701405) ![](assets/new.png)  
+- [2020-08-25-现在我非常郁闷，-想教张小龙做微信](https://www.v2ex.com/t/701404) ![](assets/new.png)  
+- [2020-08-25-AngularDart-vs.-Flutter-Web-on-`A-RealWorld-example-app`](https://www.v2ex.com/t/701403) ![](assets/new.png)  
+- [2020-08-25-求推荐一个群管理-antispam-bot](https://www.v2ex.com/t/701401) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

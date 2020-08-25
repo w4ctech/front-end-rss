@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 19:48:25，:rocket: 更新条数: +3564， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 20:02:55，:rocket: 更新条数: +3565， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-08-25-关于-huawei-MA5671A-ONT-模块直接接入交换机，从而功能性替代光猫的问题](https://www.v2ex.com/t/701435) ![](assets/new.png)  
 - [2020-08-25-Chrome-85-发布](https://www.v2ex.com/t/701434) ![](assets/new.png)  
 - [2020-08-25-求推荐-MBP-的-Type-C-to-Type-C-扩展坞](https://www.v2ex.com/t/701432) ![](assets/new.png)  
 - [2020-08-25-Homebrew-安装遇到困难，求解答。](https://www.v2ex.com/t/701430) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-08-25-小白吐槽一下今天-C/C++装机历程](https://www.v2ex.com/t/701414) ![](assets/new.png)  
 - [2020-08-25-菜鸟裹裹-TestFlight-测试版教大家“发音”](https://www.v2ex.com/t/701413) ![](assets/new.png)  
 - [2020-08-25-开源项目尝试推广的第一天，有点失落。](https://www.v2ex.com/t/701412) ![](assets/new.png)  
-- [2020-08-25-idea-2020.2-使用-WSL2-终端太卡了](https://www.v2ex.com/t/701411) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

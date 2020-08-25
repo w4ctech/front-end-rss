@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-25 19:48:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 20:02:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-25-关于-huawei-MA5671A-ONT-模块直接接入交换机，从而功能性替代光猫的问题](https://www.v2ex.com/t/701435) 
 - [2020-08-25-Chrome-85-发布](https://www.v2ex.com/t/701434) 
 - [2020-08-25-求推荐-MBP-的-Type-C-to-Type-C-扩展坞](https://www.v2ex.com/t/701432) 
 - [2020-08-25-Homebrew-安装遇到困难，求解答。](https://www.v2ex.com/t/701430) 

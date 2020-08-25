@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 15:22:30，:rocket: 更新条数: +3345， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 15:31:26，:rocket: 更新条数: +3345， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-25-5天→3天-核酸检测时限调整-​阿联酋赴华商业航班乘客请注意！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijggbB45AFo64zO3KrhCe200825&isfromapp=1) ![](assets/new.png)  
 - [2020-08-25-国际航协：旅客在航空旅行中拒戴口罩将面临处罚风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6L7VsDpSPITusceQ6pOX200825&isfromapp=1) ![](assets/new.png)  
 - [2020-08-25-​孟加拉国新增2545例新冠肺炎确诊病例-累计达299628例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidR27MWLFKB15YaY1NbVZ200825&isfromapp=1) ![](assets/new.png)  
 - [2020-08-25-伊朗新增2213例新冠肺炎确诊病例-累计363363例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIWT0VrLDeNXBuN6VBty8200825&isfromapp=1) ![](assets/new.png)  
 - [2020-08-25-天津新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMEZ6Xc9FhAxbvJuT2syd200825&isfromapp=1) ![](assets/new.png)  
-- [2020-08-25-俄罗斯新增4696例新冠肺炎确诊病例-累计达966189例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5PmosSN6LHWKmONrGQH1200825&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-08-25-杭州--同花顺内推码-QT5064](https://www.v2ex.com/t/701420) ![](assets/new.png)  
+- [2020-08-25-持续招聘中---内附比较详细的介绍-上海蚂蚁金服---金融核心技术部](https://www.v2ex.com/t/701419) ![](assets/new.png)  
 - [2020-08-25-尝试让富文本编辑器框架-Draft.js-支持表格功能](https://www.v2ex.com/t/701418) ![](assets/new.png)  
 - [2020-08-25-有没有用-sonos-的老哥啊，今天播放列表中大部分-qq-和-163-的音乐都失效了](https://www.v2ex.com/t/701417) ![](assets/new.png)  
 - [2020-08-25-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/701416) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-08-25-求推荐一个群管理-antispam-bot](https://www.v2ex.com/t/701401) ![](assets/new.png)  
 - [2020-08-25-公司正式通知绩效改革方案了](https://www.v2ex.com/t/701399) ![](assets/new.png)  
 - [2020-08-25-北京/美团社招2-年+-Java-开发-酒旅方向](https://www.v2ex.com/t/701398) ![](assets/new.png)  
-- [2020-08-25-HEVC-的画质和压缩率的优势仅在超高清分辨率时才凸显，而-QSV-的画质和压缩率能和-AVC-持平，全高清及以下的分辨率，-HEVC-基本上得不偿失](https://www.v2ex.com/t/701397) ![](assets/new.png)  
-- [2020-08-25-都已经-2020-了，-是否回建议使用支付宝里的-卡包-功能？-既然支付宝-和微信-都为实名过的-号了-是否使用-支付宝里的-卡包-功能就-百利无一害了呢？-身份证，护...](https://www.v2ex.com/t/701395) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

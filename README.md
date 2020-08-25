@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 14:48:09，:rocket: 更新条数: +3346， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 15:02:42，:rocket: 更新条数: +3306， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-25-国际航协：旅客在航空旅行中拒戴口罩将面临处罚风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6L7VsDpSPITusceQ6pOX200825&isfromapp=1) ![](assets/new.png)  
 - [2020-08-25-​孟加拉国新增2545例新冠肺炎确诊病例-累计达299628例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidR27MWLFKB15YaY1NbVZ200825&isfromapp=1) ![](assets/new.png)  
 - [2020-08-25-伊朗新增2213例新冠肺炎确诊病例-累计363363例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIWT0VrLDeNXBuN6VBty8200825&isfromapp=1) ![](assets/new.png)  
 - [2020-08-25-天津新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMEZ6Xc9FhAxbvJuT2syd200825&isfromapp=1) ![](assets/new.png)  
 - [2020-08-25-俄罗斯新增4696例新冠肺炎确诊病例-累计达966189例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5PmosSN6LHWKmONrGQH1200825&isfromapp=1) ![](assets/new.png)  
-- [2020-08-25-比利时新冠肺炎新增确诊病例数稳步下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5Gbpr3Pl4W0jHYj2ka1200825&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,26 +1057,6 @@
 </summary>
 
 
-- [2020-08-25-小白吐槽一下今天-C/C++装机历程](https://www.v2ex.com/t/701414) ![](assets/new.png)  
-- [2020-08-25-菜鸟裹裹-TestFlight-测试版教大家“发音”](https://www.v2ex.com/t/701413) ![](assets/new.png)  
-- [2020-08-25-开源项目尝试推广的第一天，有点失落。](https://www.v2ex.com/t/701412) ![](assets/new.png)  
-- [2020-08-25-idea-2020.2-使用-WSL2-终端太卡了](https://www.v2ex.com/t/701411) ![](assets/new.png)  
-- [2020-08-25-6-网口软路由安装-esxi-并在其下创建-ikuai-和-op-后](https://www.v2ex.com/t/701410) ![](assets/new.png)  
-- [2020-08-25-Macbook-Pro-在九月会更新吗？](https://www.v2ex.com/t/701409) ![](assets/new.png)  
-- [2020-08-25-微软-DevRel-中国团队热招软件工程师](https://www.v2ex.com/t/701407) ![](assets/new.png)  
-- [2020-08-25-现在有比较强的预测婴儿未来长相的-app-么](https://www.v2ex.com/t/701406) ![](assets/new.png)  
-- [2020-08-25-刚买的罗技-MX-Master-3-感觉没有-M110-好用，是我的使用方式有什么问题吗？](https://www.v2ex.com/t/701405) ![](assets/new.png)  
-- [2020-08-25-现在我非常郁闷，-想教张小龙做微信](https://www.v2ex.com/t/701404) ![](assets/new.png)  
-- [2020-08-25-AngularDart-vs.-Flutter-Web-on-`A-RealWorld-example-app`](https://www.v2ex.com/t/701403) ![](assets/new.png)  
-- [2020-08-25-求推荐一个群管理-antispam-bot](https://www.v2ex.com/t/701401) ![](assets/new.png)  
-- [2020-08-25-公司正式通知绩效改革方案了](https://www.v2ex.com/t/701399) ![](assets/new.png)  
-- [2020-08-25-北京/美团社招2-年+-Java-开发-酒旅方向](https://www.v2ex.com/t/701398) ![](assets/new.png)  
-- [2020-08-25-HEVC-的画质和压缩率的优势仅在超高清分辨率时才凸显，而-QSV-的画质和压缩率能和-AVC-持平，全高清及以下的分辨率，-HEVC-基本上得不偿失](https://www.v2ex.com/t/701397) ![](assets/new.png)  
-- [2020-08-25-都已经-2020-了，-是否回建议使用支付宝里的-卡包-功能？-既然支付宝-和微信-都为实名过的-号了-是否使用-支付宝里的-卡包-功能就-百利无一害了呢？-身份证，护...](https://www.v2ex.com/t/701395) ![](assets/new.png)  
-- [2020-08-25-迫于开车失败-再开-iCloud-美区家庭车-计划-5-人-400g/人-15/月](https://www.v2ex.com/t/701393) ![](assets/new.png)  
-- [2020-08-25-港区-Apple-Music-发车](https://www.v2ex.com/t/701392) ![](assets/new.png)  
-- [2020-08-25-杭州-目睹直播同事都去过七夕了,我还在招前端](https://www.v2ex.com/t/701391) ![](assets/new.png)  
-- [2020-08-25-多语言编程的设想：将变量名与自然语言解耦](https://www.v2ex.com/t/701390) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

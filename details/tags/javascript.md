@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-25 14:48:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 15:02:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -93,8 +93,5 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-08-25-6-网口软路由安装-esxi-并在其下创建-ikuai-和-op-后](https://www.v2ex.com/t/701410) 
-- [2020-08-25-多语言编程的设想：将变量名与自然语言解耦](https://www.v2ex.com/t/701390) 
-- [2020-08-25-win-有没有-pdf-阅读器可以滚动半页的](https://www.v2ex.com/t/701368) 
 - [2020-08-25-译-在-Solidity-中使用值数组以降低-gas-消耗](https://toutiao.io/k/7g2tstj) 
 - [2020-08-07-【安全圈】路由器,交换机和AnyConnect-VPN中的高度严重漏洞](https://sec.thief.one/article_content?a_id=1c9ffbde3b409b310e18dcadfbe69b72) 

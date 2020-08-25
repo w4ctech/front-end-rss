@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 15:31:26，:rocket: 更新条数: +3345， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 15:33:30，:rocket: 更新条数: +3310， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -1119,26 +1119,6 @@
 </summary>
 
 
-- [2020-08-25-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
-- [2020-08-25-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-08-25-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts) ![](assets/new.png)  
-- [2020-08-25-TypeScript-设计模式之发布：订阅模式](https://toutiao.io/k/tbuo234) ![](assets/new.png)  
-- [2020-08-25-Substrate-官方教程增强版](https://toutiao.io/k/8a4agfs) ![](assets/new.png)  
-- [2020-08-25-你用对锁了吗？浅谈-Java-“锁”-事](https://toutiao.io/k/76o97ha) ![](assets/new.png)  
-- [2020-08-25-携程基于-Quasar-协程的-NIO-实践](https://toutiao.io/k/1zpub79) ![](assets/new.png)  
-- [2020-08-25-如何为团队定制自己的-Node.js-框架？（基于-EggJS）](https://toutiao.io/k/juo1crf) ![](assets/new.png)  
-- [2020-08-25-大规模数据安全分类系统架构实践](https://toutiao.io/k/d0raa3b) ![](assets/new.png)  
-- [2020-08-25-types-和-@types-是什么？](https://toutiao.io/k/owh81t0) ![](assets/new.png)  
-- [2020-08-25-Python-为什么没有-void-关键字？](https://toutiao.io/k/nnj3t6m) ![](assets/new.png)  
-- [2020-08-25-在命令行进行简单的统计分析](https://toutiao.io/k/mcg1w0g) ![](assets/new.png)  
-- [2020-08-25-Gin-学习之响应处理](https://toutiao.io/k/685owjs) ![](assets/new.png)  
-- [2020-08-25-Java-开发者生码-IDEA-插件，香](https://toutiao.io/k/xxyjfez) ![](assets/new.png)  
-- [2020-08-25-海量数据下的精准营销工程实践](https://toutiao.io/k/5qnsh37) ![](assets/new.png)  
-- [2020-08-25-哥斯拉-Godzilla-shell-管理工具](https://toutiao.io/k/9rkjdll) ![](assets/new.png)  
-- [2020-08-25-译-在-Solidity-中使用值数组以降低-gas-消耗](https://toutiao.io/k/7g2tstj) ![](assets/new.png)  
-- [2020-08-25-性能优化是权衡的哲学](https://toutiao.io/k/0vo4i5m) ![](assets/new.png)  
-- [2020-08-25-迁移性好、多用途，港中文提出特征分离的无监督人类三维姿态表征](https://toutiao.io/k/zlzk8wh) ![](assets/new.png)  
-- [2020-08-25-在-Android-和-Hilt-中限定作用域](https://toutiao.io/k/6gez8rr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

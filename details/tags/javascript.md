@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-25 20:33:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 20:46:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -72,7 +72,6 @@
 - [2020-08-15-15个免费学习JavaScript的最佳网站](https://www.ershicimi.com/p/9985de8408860a473725642a4b1ddf0b) 
 - [2020-08-14-你应该知道的一些JS数组技巧](https://www.ershicimi.com/p/52b7b15d5581137e7c761f7b2f2b9fd0) 
 - [2020-08-18-前端模块化：CommonJS,AMD,CMD,ES6](https://www.ershicimi.com/p/d2379722a4ae1383e39ba0c43731c031) 
-- [2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) 
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 

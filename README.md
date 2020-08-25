@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 20:33:36，:rocket: 更新条数: +3565， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 20:46:27，:rocket: 更新条数: +3565， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -663,6 +663,9 @@
 </summary>
 
 
+- [2020-08-24-如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/f492d329ae09069db4024ed25a7531ee) ![](assets/new.png)  
+- [2020-08-23-CNodejs每日新闻周刊｜第-3-期](https://www.ershicimi.com/p/aa8ce2fb495c2ce2e13fe5d917ab5741) ![](assets/new.png)  
+- [2020-08-23-CNodejs每日新闻周刊｜第-2-期](https://www.ershicimi.com/p/b770e0e896eaae7a0368cd15b5b8a48a) ![](assets/new.png)  
 - [2020-08-22-推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806) ![](assets/new.png)  
 - [2020-08-21-从零实现-Vuex-掌握其执行流程和执行机制](https://www.ershicimi.com/p/7cf670e6bdff4a0d4c0dea875d51ae1c) ![](assets/new.png)  
 - [2020-08-21-一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/4fd54e82ba5cd37e48a5a8095178bbb9) ![](assets/new.png)  
@@ -680,9 +683,6 @@
 - [2020-08-09-CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b) ![](assets/new.png)  
 - [2020-08-07-从零手写实现-React16-中的-Fiber-架构](https://www.ershicimi.com/p/8247a6aef4810f765657eb88130495d8) ![](assets/new.png)  
 - [2020-08-06-Nest.js-+-Vue-+-TS-打造一个酷炫的星空聊天室含完整数据库设计](https://www.ershicimi.com/p/fa126fb13fde2c401dae7fb541d9185c) ![](assets/new.png)  
-- [2020-08-05-写在前面-—-为什么-2020-还要学-Node.js](https://www.ershicimi.com/p/29c03005193c1b449c3e2f8dd8661176) ![](assets/new.png)  
-- [2020-08-04-深入Vue-底层原理以及运行机制](https://www.ershicimi.com/p/9025ae23cea918507c880dfd788e3136) ![](assets/new.png)  
-- [2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) ![](assets/new.png)  
 - [......【查看更多】......](./details/Nodejs技术栈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,8 +1146,8 @@
 - [2020-08-25-Substrate-官方教程增强版](https://toutiao.io/k/8a4agfs) ![](assets/new.png)  
 - [2020-08-25-你用对锁了吗？浅谈-Java-“锁”-事](https://toutiao.io/k/76o97ha) ![](assets/new.png)  
 - [2020-08-25-携程基于-Quasar-协程的-NIO-实践](https://toutiao.io/k/1zpub79) ![](assets/new.png)  
-- [2020-08-25-如何为团队定制自己的-Node.js-框架？（基于-EggJS）](https://toutiao.io/k/juo1crf) ![](assets/new.png)  
 - [2020-08-25-大规模数据安全分类系统架构实践](https://toutiao.io/k/d0raa3b) ![](assets/new.png)  
+- [2020-08-25-如何为团队定制自己的-Node.js-框架？（基于-EggJS）](https://toutiao.io/k/juo1crf) ![](assets/new.png)  
 - [2020-08-25-types-和-@types-是什么？](https://toutiao.io/k/owh81t0) ![](assets/new.png)  
 - [2020-08-25-Python-为什么没有-void-关键字？](https://toutiao.io/k/nnj3t6m) ![](assets/new.png)  
 - [2020-08-25-在命令行进行简单的统计分析](https://toutiao.io/k/mcg1w0g) ![](assets/new.png)  

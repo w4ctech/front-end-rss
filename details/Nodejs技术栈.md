@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-25 20:33:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 20:46:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Nodejs技术栈
 
 
 
 
+- [2020-08-24-如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/f492d329ae09069db4024ed25a7531ee) 
+- [2020-08-23-CNodejs每日新闻周刊｜第-3-期](https://www.ershicimi.com/p/aa8ce2fb495c2ce2e13fe5d917ab5741) 
+- [2020-08-23-CNodejs每日新闻周刊｜第-2-期](https://www.ershicimi.com/p/b770e0e896eaae7a0368cd15b5b8a48a) 
 - [2020-08-22-推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806) 
 - [2020-08-21-从零实现-Vuex-掌握其执行流程和执行机制](https://www.ershicimi.com/p/7cf670e6bdff4a0d4c0dea875d51ae1c) 
 - [2020-08-21-一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/4fd54e82ba5cd37e48a5a8095178bbb9) 
@@ -22,6 +25,3 @@
 - [2020-08-09-CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b) 
 - [2020-08-07-从零手写实现-React16-中的-Fiber-架构](https://www.ershicimi.com/p/8247a6aef4810f765657eb88130495d8) 
 - [2020-08-06-Nest.js-+-Vue-+-TS-打造一个酷炫的星空聊天室含完整数据库设计](https://www.ershicimi.com/p/fa126fb13fde2c401dae7fb541d9185c) 
-- [2020-08-05-写在前面-—-为什么-2020-还要学-Node.js](https://www.ershicimi.com/p/29c03005193c1b449c3e2f8dd8661176) 
-- [2020-08-04-深入Vue-底层原理以及运行机制](https://www.ershicimi.com/p/9025ae23cea918507c880dfd788e3136) 
-- [2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) 

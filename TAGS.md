@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-25 20:33:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 20:46:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -180,18 +180,18 @@
 - [【程序员成长指北】语雀的技术架构演进之路-Node.js-技术栈](https://www.ershicimi.com/p/750c2e9ffded02efc20f038cd4bf293b)
 - [【程序员成长指北】（有趣问答）2019年nodejs凉了吗？凉到什么程度了？](https://www.ershicimi.com/p/fa74cf36712d4455b2435e4d05fd8a93)
 - [【程序员成长指北】你可能需要一个优质-前端Node-交流群](https://www.ershicimi.com/p/6c29dd30e4979644fd5e458c47f7699f)
+- [【Nodejs技术栈】如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/f492d329ae09069db4024ed25a7531ee)
+- [【Nodejs技术栈】CNodejs每日新闻周刊｜第-3-期](https://www.ershicimi.com/p/aa8ce2fb495c2ce2e13fe5d917ab5741)
+- [【Nodejs技术栈】CNodejs每日新闻周刊｜第-2-期](https://www.ershicimi.com/p/b770e0e896eaae7a0368cd15b5b8a48a)
 - [【Nodejs技术栈】推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806)
 - [【Nodejs技术栈】一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/4fd54e82ba5cd37e48a5a8095178bbb9)
 - [【Nodejs技术栈】Node.js-异步延续模型](https://www.ershicimi.com/p/49850a57b1261230fb6486dece7bb273)
 - [【Nodejs技术栈】如何定制企业级-Node.js-代码检查规范](https://www.ershicimi.com/p/46117eecd705963a4217bd64bbc467df)
 - [【Nodejs技术栈】一杯茶的时间，上手-Koa2-+-MySQL-开发](https://www.ershicimi.com/p/c7db98ad78904e16b74e417ea79c2233)
 - [【Nodejs技术栈】CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b)
-- [【Nodejs技术栈】写在前面-—-为什么-2020-还要学-Node.js](https://www.ershicimi.com/p/29c03005193c1b449c3e2f8dd8661176)
 - [【阮一峰的网络日志】Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html)
 - [【凹凸实验室】一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/)
 - [【凹凸实验室】Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/)
-- [【凹凸实验室】【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/)
-- [【凹凸实验室】跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -526,11 +526,11 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】SpringBoot项目优雅的http客户端工具，太香了!](https://www.ershicimi.com/p/3e91084d0a76a64293335098989f21c4)
 - [【V2EX】刚买的罗技-MX-Master-3-感觉没有-M110-好用，是我的使用方式有什么问题吗？](https://www.v2ex.com/t/701405)
-- [【开发者头条】推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko)
 - [【开发者头条】推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k)
 - [【开发者头条】推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj)
-- [【开发者头条】推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j)
+- [【开发者头条】推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko)
 - [【开发者头条】推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
+- [【开发者头条】推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

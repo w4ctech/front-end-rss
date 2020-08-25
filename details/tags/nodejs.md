@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-25 20:33:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 20:46:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -15,13 +15,15 @@
 - [2020-08-25-语雀的技术架构演进之路-Node.js-技术栈](https://www.ershicimi.com/p/750c2e9ffded02efc20f038cd4bf293b) 
 - [2020-08-21-（有趣问答）2019年nodejs凉了吗？凉到什么程度了？](https://www.ershicimi.com/p/fa74cf36712d4455b2435e4d05fd8a93) 
 - [2020-08-15-你可能需要一个优质-前端Node-交流群](https://www.ershicimi.com/p/6c29dd30e4979644fd5e458c47f7699f) 
+- [2020-08-24-如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/f492d329ae09069db4024ed25a7531ee) 
+- [2020-08-23-CNodejs每日新闻周刊｜第-3-期](https://www.ershicimi.com/p/aa8ce2fb495c2ce2e13fe5d917ab5741) 
+- [2020-08-23-CNodejs每日新闻周刊｜第-2-期](https://www.ershicimi.com/p/b770e0e896eaae7a0368cd15b5b8a48a) 
 - [2020-08-22-推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806) 
 - [2020-08-21-一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/4fd54e82ba5cd37e48a5a8095178bbb9) 
 - [2020-08-20-Node.js-异步延续模型](https://www.ershicimi.com/p/49850a57b1261230fb6486dece7bb273) 
 - [2020-08-19-如何定制企业级-Node.js-代码检查规范](https://www.ershicimi.com/p/46117eecd705963a4217bd64bbc467df) 
 - [2020-08-13-一杯茶的时间，上手-Koa2-+-MySQL-开发](https://www.ershicimi.com/p/c7db98ad78904e16b74e417ea79c2233) 
 - [2020-08-09-CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b) 
-- [2020-08-05-写在前面-—-为什么-2020-还要学-Node.js](https://www.ershicimi.com/p/29c03005193c1b449c3e2f8dd8661176) 
 - [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html) 
 - [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) 
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 

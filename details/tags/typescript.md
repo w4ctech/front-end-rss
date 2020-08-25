@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-25 16:11:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 16:21:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -14,5 +14,4 @@
 - [2020-08-18-最详细从零开始配置-TypeScript-项目的教程](https://www.ershicimi.com/p/c981035bedc84fafcedb56bb3f772d90) 
 - [2020-08-25-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/7d480457079b49dcd33f872a2df97950) 
 - [2020-08-21-Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/d948601d568750029fcc55a5f8ac2ce4) 
-- [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
 - [2020-08-25-TypeScript-设计模式之发布：订阅模式](https://toutiao.io/k/tbuo234) 

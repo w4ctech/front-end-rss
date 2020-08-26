@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 14:22:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 14:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2346,12 +2346,6 @@
 - [2020-08-11-全面、系统的前端工程化精讲](https://www.ershicimi.com/p/472f1e0365de8327c57f9aab14f8117d) 
 - [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html) 
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html) 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [2020-08-25-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/0e76675b07fc19319e467add150d7e3c) 
 - [2020-08-25-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3e056098794f38c6b162b2c015231f53) 
 - [2020-08-24-useContext更佳实践](https://www.ershicimi.com/p/3a76d21d9f3617310c2631808277fd2c) 

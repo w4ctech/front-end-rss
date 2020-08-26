@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 06:33:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 06:46:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,7 +8,6 @@
 
 
 - [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
-- [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
 - [2019-12-19-【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e) 
@@ -39,6 +38,7 @@
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-07-31-140道Web大厂面试真题分享](https://www.ershicimi.com/p/82353361ddca791ad1aa9c6410e36028) 
+- [2020-08-26-杭州-互联网公司营收良好-招聘-Golang-工程师～-周末双休-朝九晚六-年底多薪](https://www.v2ex.com/t/701588) 
 - [2020-08-26-珠海-招聘前端](https://www.v2ex.com/t/701569) 
 - [2020-08-26-疫情期间保持业务量持续增长的-star-up-公司-北京研发中心招聘技术岗](https://www.v2ex.com/t/701564) 
 - [2020-08-26-腾讯-IMWeb-团队招聘-web-前端开发工程师，-base-深圳-/武汉（15-40k）！!](https://www.v2ex.com/t/701554) 

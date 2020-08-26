@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 04:33:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 04:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -19,6 +19,7 @@
 - [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) 
 - [2019-12-05-【面试题】2019开年跳槽系列-30](https://www.ershicimi.com/p/c953e0c5b4aaccbe729309f61ee8574b) 
 - [2019-12-04-【面试题】2019开年跳槽系列-29](https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10) 
+- [2020-08-26-面试字节-27K-岗，3-道题就被干掉](https://www.ershicimi.com/p/765ec59942a27238b9e800e6b95a0dee) 
 - [2020-08-11-『1W7字中高级前端面试必知必会』终极版](https://www.ershicimi.com/p/20ce725bd473667ae5ddd1742165d8cd) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
@@ -38,6 +39,7 @@
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-07-31-140道Web大厂面试真题分享](https://www.ershicimi.com/p/82353361ddca791ad1aa9c6410e36028) 
+- [2020-08-26-社招-腾讯-微视前端持续招聘中，坐标深圳内推](https://www.v2ex.com/t/701542) 
 - [2020-08-26-社招-北京-探探招聘-Android、iOS、Go-后端等开发](https://www.v2ex.com/t/701533) 
 - [2020-08-26-北京-招聘前端，坐标北京/大望路/万达广场，凡影科技](https://www.v2ex.com/t/701514) 
 - [2020-08-26-北京-招聘前端，坐标北京/大望路/万达广场，凡影科技](https://www.v2ex.com/t/701511) 

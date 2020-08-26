@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 04:33:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 04:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -63,3 +63,4 @@
 - [2020-08-04-Vue的生命周期有多长？](https://www.ershicimi.com/p/eb6c9a853fe54f661ed6b543e15c39cf) 
 - [2020-08-25-基于-vue-的-jest-配置配置项](https://juejin.im/post/6864831805820944397) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-08-26-针对公司开发的项目对于-ElementUI-的下拉框二次封装了个组件......](https://www.v2ex.com/t/701544) 

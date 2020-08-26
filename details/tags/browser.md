@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 07:20:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 07:31:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,7 @@
 - [2020-08-24-target-=-“_-blank”背后的隐藏漏洞](https://www.ershicimi.com/p/8aea060e252affcf9ee57f387fd27213) 
 - [2020-08-25-Ajax与跨域的知识点](https://juejin.im/post/6864959118944567304) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-08-26-吊大的进。关于-Google-安全码](https://www.v2ex.com/t/701613) 
 - [2020-08-26-不要让-Chrome-成为下一个-IE！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-sYSSTkU0wqZ4n_RE4w81Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-26-从乙方到甲方：我所亲历的信息安全建设之变迁（一）](https://toutiao.io/k/nofk9e8) 
 - [2020-08-26-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 

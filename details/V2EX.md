@@ -1,11 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-26 01:34:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 01:46:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-08-26-iOS-Public-Beta6](https://www.v2ex.com/t/701457) 
+- [2020-08-26-深圳招聘-Golang-后端工程师，物联网行业，不加班](https://www.v2ex.com/t/701461) 
+- [2020-08-26-tmux-怎么用-shell-脚本操作?](https://www.v2ex.com/t/701460) 
+- [2020-08-26-iOS14-Public-Beta6](https://www.v2ex.com/t/701457) 
 - [2020-08-26-杭州/广州跨境电商-Fordeal-技术招聘](https://www.v2ex.com/t/701456) 
 - [2020-08-26-有没有托管-nginx-的云服务](https://www.v2ex.com/t/701455) 
 - [2020-08-26-Dcat-Admin-v1.7.0-发布---增加全新菜单样式，以及全组件异步渲染功能](https://www.v2ex.com/t/701454) 
@@ -42,6 +44,3 @@
 - [2020-08-25-小白吐槽一下今天-C/C++装机历程](https://www.v2ex.com/t/701414) 
 - [2020-08-25-菜鸟裹裹-TestFlight-测试版教大家“发音”](https://www.v2ex.com/t/701413) 
 - [2020-08-25-开源项目尝试推广的第一天，有点失落。](https://www.v2ex.com/t/701412) 
-- [2020-08-25-idea-2020.2-使用-WSL2-终端太卡了](https://www.v2ex.com/t/701411) 
-- [2020-08-25-6-网口软路由安装-esxi-并在其下创建-ikuai-和-op-后](https://www.v2ex.com/t/701410) 
-- [2020-08-25-Macbook-Pro-在九月会更新吗？](https://www.v2ex.com/t/701409) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-26 10:31:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 10:33:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -402,14 +402,14 @@
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
 - [【前端宇宙】聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/eaff4a9acf7a4e7e9c8f6e833b7c7ea1)
 - [【前端宇宙】两行代码实现图片碎片化加载](https://www.ershicimi.com/p/165b79e16b8a59b1799441768291f3f2)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】如何让你的Nginx-提升10倍性能？](https://www.ershicimi.com/p/f6a7fffad06ba4c4d6c9555e2aca00bb)
 - [【InfoQ】吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-Q推荐](https://www.ershicimi.com/p/48c314f431a59179ad7bd192b40cf439)
 - [【InfoQ】我接手了一个“垃圾”系统，全栈优化后将性能提升了350倍](https://www.ershicimi.com/p/6aebfbb2b178ab388aa9df3cba9e5375)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3)
 - [【开发者头条】推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55)
-- [【开发者头条】推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l)
-- [【开发者头条】推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

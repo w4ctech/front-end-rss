@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 04:02:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 04:11:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -38,3 +38,4 @@
 - [2020-08-24-带着问题看React新生命周期](https://juejin.im/post/6864776382241898509) 
 - [2020-08-26-React-团队全员罢工了？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13704&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjhvC7sWd3M2aX0gD9w7LvA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-26-写一个-React-H5-可视化编辑器](https://toutiao.io/k/o43t141) 
+- [2020-08-26-推荐-为什么我们放弃了-Vue？Vue-和-React-深度对比](https://toutiao.io/k/wtofrd2) 

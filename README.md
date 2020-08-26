@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-26 03:02:53，:rocket: 更新条数: +3346， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-26 03:10:20，:rocket: 更新条数: +3345， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-08-26-支付宝基金的顺风车能买吗-有点闲钱不甘于放余额宝-买了个影视的和电车新能源](https://www.v2ex.com/t/701512) ![](assets/new.png)  
+- [2020-08-26-北京-招聘前端，坐标北京/大望路/万达广场，凡影科技](https://www.v2ex.com/t/701511) ![](assets/new.png)  
 - [2020-08-26-macbook-外接显示器后鼠标的选择](https://www.v2ex.com/t/701508) ![](assets/new.png)  
 - [2020-08-26-怼天怼地的马斯克道歉了？](https://www.v2ex.com/t/701507) ![](assets/new.png)  
 - [2020-08-26-刚建了一个百度人脸识别生态合作交流群，有兴趣的朋友可以进入，本群将会不定期分享人工智能行业峰会活动，公开课，行业案例等，有兴趣的朋友可以进入，交流协作...](https://www.v2ex.com/t/701506) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-08-26-appstore-app-审核-The-review-of-your-app-is-taking-longer-than-expected](https://www.v2ex.com/t/701490) ![](assets/new.png)  
 - [2020-08-26-华为云-WeLink-会议电话竟然可以用来诈骗](https://www.v2ex.com/t/701489) ![](assets/new.png)  
 - [2020-08-26-一个-Spring-Boot-应用的-jar-包竟然要一百多兆？这就是我接手的项目](https://www.v2ex.com/t/701488) ![](assets/new.png)  
-- [2020-08-26-打算把-github.io-迁移到-gitee.io-或者-coding.me，哪家比较好一点？](https://www.v2ex.com/t/701487) ![](assets/new.png)  
-- [2020-08-26-0202-年了,-现在在-Windows-下快乐编程的姿势是什么❓](https://www.v2ex.com/t/701485) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,24 +1121,24 @@
 
 - [2020-08-26-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
 - [2020-08-26-如何做一个懂产品的程序员？](https://toutiao.io/k/xeriwdj) ![](assets/new.png)  
-- [2020-08-26-使用-go-进行日志分析并生成-excel,再也不担心做日志分析了](https://toutiao.io/k/gero4fz) ![](assets/new.png)  
+- [2020-08-26-使用-Go-进行日志分析并生成-Excel，再也不担心做日志分析了](https://toutiao.io/k/gero4fz) ![](assets/new.png)  
 - [2020-08-26-程序员过关斩将：解决分布式-session-问题](https://toutiao.io/k/3tciz0a) ![](assets/new.png)  
 - [2020-08-26-聊聊微服务（一）](https://toutiao.io/k/wpzmp75) ![](assets/new.png)  
 - [2020-08-26-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3) ![](assets/new.png)  
 - [2020-08-26-译-一个思路，如何尝试创建自己的-CSS-框架？](https://toutiao.io/k/8yhw39n) ![](assets/new.png)  
 - [2020-08-26-用-Python-写个七夕表白神器](https://toutiao.io/k/ee69dyh) ![](assets/new.png)  
-- [2020-08-26-加入「码农周刊-VIP-会员」，与上市公司-CTO-一起成长！](https://toutiao.io/k/dhm0x44) ![](assets/new.png)  
 - [2020-08-26-程序员进阶系列：你真的懂-HelloWorld-吗？](https://toutiao.io/k/t2egj2p) ![](assets/new.png)  
+- [2020-08-26-加入「码农周刊-VIP-会员」，与上市公司-CTO-一起成长！](https://toutiao.io/k/dhm0x44) ![](assets/new.png)  
+- [2020-08-26-Go-设计模式：单例模式](https://toutiao.io/k/k9hcvn5) ![](assets/new.png)  
 - [2020-08-26-NiLang：可逆计算，微分万物](https://toutiao.io/k/i5g7k4b) ![](assets/new.png)  
 - [2020-08-26-宝塔面板-phpMyAdmin-未授权访问漏洞是个低级错误吗？](https://toutiao.io/k/lbolo7u) ![](assets/new.png)  
-- [2020-08-26-Go-设计模式：单例模式](https://toutiao.io/k/k9hcvn5) ![](assets/new.png)  
 - [2020-08-26-特征工程：连续特征的常见处理方式（含实例）](https://toutiao.io/k/5wxxrn2) ![](assets/new.png)  
 - [2020-08-26-Service-Mesh-对比：Istio-与-Linkerd](https://toutiao.io/k/ut0r76n) ![](assets/new.png)  
 - [2020-08-26-写一个-React-H5-可视化编辑器](https://toutiao.io/k/o43t141) ![](assets/new.png)  
 - [2020-08-26-技术选型：Spark-SQL-vs-Presto](https://toutiao.io/k/fzf7p0d) ![](assets/new.png)  
 - [2020-08-26-从乙方到甲方：我所亲历的信息安全建设之变迁（一）](https://toutiao.io/k/nofk9e8) ![](assets/new.png)  
 - [2020-08-26-Raft-算法之日志复制](https://toutiao.io/k/t5x0vv6) ![](assets/new.png)  
-- [2020-08-26-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
+- [2020-08-26-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-26 02:11:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 02:22:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-26-想买-r7000p，不着急，笔记本一般什么时候买价格较合适呢？](https://www.v2ex.com/t/701482) 
+- [2020-08-26-电脑大神都用英文命名文件（夹）？我发现了一个大大的好处，提高查找效率](https://www.v2ex.com/t/701481) 
+- [2020-08-26-新车倒库剐蹭到柱子上的防撞条了，心疼！](https://www.v2ex.com/t/701478) 
 - [2020-08-26-最近和老婆做了一个重大决定，两人都从南京去苏州工作，请问苏州.net/.net-core-工作机会多吗](https://www.v2ex.com/t/701476) 
 - [2020-08-26-拒绝-996，-WLB-965-新加坡公司-thunes，上海-Golang-岗位，-B-轮已盈利，技术氛围好](https://www.v2ex.com/t/701475) 
 - [2020-08-26-ahooks-•-useTable---查询表格场景插件化-Hook-解决方案](https://www.v2ex.com/t/701473) 
@@ -39,6 +42,3 @@
 - [2020-08-25-App-Store-审核变松了？](https://www.v2ex.com/t/701436) 
 - [2020-08-25-关于-huawei-MA5671A-ONT-模块直接接入交换机，从而功能性替代光猫的问题](https://www.v2ex.com/t/701435) 
 - [2020-08-25-Chrome-85-发布](https://www.v2ex.com/t/701434) 
-- [2020-08-25-求推荐-MBP-的-Type-C-to-Type-C-扩展坞](https://www.v2ex.com/t/701432) 
-- [2020-08-25-Homebrew-安装遇到困难，求解答。](https://www.v2ex.com/t/701430) 
-- [2020-08-25-azure-国际有没有人用过他的-CDN？有用过的可以讲一下，如何查看他的-CDN-流量和宽带](https://www.v2ex.com/t/701428) 

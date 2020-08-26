@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 02:48:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 03:02:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,5 +90,4 @@
 - [2020-08-22-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/1c917ebcc94ef67dc4fe89f64b2d4659) 
 - [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) 
 - [2020-08-26-深圳招聘视频监控流媒体服务开发工程师，物联网行业，不加班](https://www.v2ex.com/t/701469) 
-- [2020-08-26-ios-14-beta6-Airpods-pro-的空间音频有用过的小伙伴嘛](https://www.v2ex.com/t/701450) 
 - [2020-08-13-央视提醒:微信清粉服务或泄露个人信息含视频](https://sec.thief.one/article_content?a_id=68e5a1ad9f18eb39c4be5133326c39ba) 

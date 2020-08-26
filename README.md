@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-26 02:48:08，:rocket: 更新条数: +3346， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-26 03:02:53，:rocket: 更新条数: +3346， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,10 +1057,19 @@
 </summary>
 
 
+- [2020-08-26-macbook-外接显示器后鼠标的选择](https://www.v2ex.com/t/701508) ![](assets/new.png)  
+- [2020-08-26-怼天怼地的马斯克道歉了？](https://www.v2ex.com/t/701507) ![](assets/new.png)  
+- [2020-08-26-刚建了一个百度人脸识别生态合作交流群，有兴趣的朋友可以进入，本群将会不定期分享人工智能行业峰会活动，公开课，行业案例等，有兴趣的朋友可以进入，交流协作...](https://www.v2ex.com/t/701506) ![](assets/new.png)  
+- [2020-08-26-有已经入手-keychron-k8-的小伙伴么](https://www.v2ex.com/t/701505) ![](assets/new.png)  
+- [2020-08-26-没想到厦门-e-通卡这么快就上了-Apple-Pay](https://www.v2ex.com/t/701504) ![](assets/new.png)  
+- [2020-08-26-金士顿-A2000，-nvme，拷贝文件或者安装软件不定时假死](https://www.v2ex.com/t/701503) ![](assets/new.png)  
+- [2020-08-26-微信小程序内扫描当前小程序的小程序码，如何拿到这个小程序码的参数](https://www.v2ex.com/t/701501) ![](assets/new.png)  
+- [2020-08-26-大家会给孩子打流感疫苗吗？](https://www.v2ex.com/t/701500) ![](assets/new.png)  
+- [2020-08-26-直接在-site-packages-里面修改库可以吗？](https://www.v2ex.com/t/701499) ![](assets/new.png)  
+- [2020-08-26-开源了一个不一样的前端监控系统，同时寻求志同道合的人加入一起发展](https://www.v2ex.com/t/701498) ![](assets/new.png)  
 - [2020-08-26-iOS-Chrome-现在可以往其它应用填充密码了](https://www.v2ex.com/t/701497) ![](assets/new.png)  
 - [2020-08-26-字节跳动client-Infrastructure-上海内推](https://www.v2ex.com/t/701496) ![](assets/new.png)  
 - [2020-08-26-新租的房子住着鼻子不舒服，可能的原因有什么？](https://www.v2ex.com/t/701495) ![](assets/new.png)  
-- [2020-08-26-需要购买阿里云产品找我，折上折优惠，不影响开票，招阿里云代理。](https://www.v2ex.com/t/701493) ![](assets/new.png)  
 - [2020-08-26-ThinkPad-Carbon-X1-2019、ThinkPad-X13、Dell-XPS-7390-四选一](https://www.v2ex.com/t/701492) ![](assets/new.png)  
 - [2020-08-26-后端来问问:是不是安卓开发比-iOS-更难?](https://www.v2ex.com/t/701491) ![](assets/new.png)  
 - [2020-08-26-appstore-app-审核-The-review-of-your-app-is-taking-longer-than-expected](https://www.v2ex.com/t/701490) ![](assets/new.png)  
@@ -1068,15 +1077,6 @@
 - [2020-08-26-一个-Spring-Boot-应用的-jar-包竟然要一百多兆？这就是我接手的项目](https://www.v2ex.com/t/701488) ![](assets/new.png)  
 - [2020-08-26-打算把-github.io-迁移到-gitee.io-或者-coding.me，哪家比较好一点？](https://www.v2ex.com/t/701487) ![](assets/new.png)  
 - [2020-08-26-0202-年了,-现在在-Windows-下快乐编程的姿势是什么❓](https://www.v2ex.com/t/701485) ![](assets/new.png)  
-- [2020-08-26-找人搭伙，开发一个资产类的账本工具](https://www.v2ex.com/t/701483) ![](assets/new.png)  
-- [2020-08-26-想买-r7000p，不着急，笔记本一般什么时候买价格较合适呢？](https://www.v2ex.com/t/701482) ![](assets/new.png)  
-- [2020-08-26-电脑大神都用英文命名文件（夹）？我发现了一个大大的好处，提高查找效率](https://www.v2ex.com/t/701481) ![](assets/new.png)  
-- [2020-08-26-新车倒库剐蹭到柱子上的防撞条了，心疼！](https://www.v2ex.com/t/701478) ![](assets/new.png)  
-- [2020-08-26-最近和老婆做了一个重大决定，两人都从南京去苏州工作，请问苏州.net/.net-core-工作机会多吗](https://www.v2ex.com/t/701476) ![](assets/new.png)  
-- [2020-08-26-拒绝-996，-WLB-965-新加坡公司-thunes，上海-Golang-岗位，-B-轮已盈利，技术氛围好](https://www.v2ex.com/t/701475) ![](assets/new.png)  
-- [2020-08-26-ahooks-•-useTable---查询表格场景插件化-Hook-解决方案](https://www.v2ex.com/t/701473) ![](assets/new.png)  
-- [2020-08-26-有哪些可以摸鱼、养老的-IT-类公司？](https://www.v2ex.com/t/701472) ![](assets/new.png)  
-- [2020-08-26-上海招贤纳士！互联网支付公司上海讯联数据招聘优秀-WEB-前端工程师-/-WEB-前端技术专家](https://www.v2ex.com/t/701471) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-08-26-用-Python-写个七夕表白神器](https://toutiao.io/k/ee69dyh) ![](assets/new.png)  
 - [2020-08-26-加入「码农周刊-VIP-会员」，与上市公司-CTO-一起成长！](https://toutiao.io/k/dhm0x44) ![](assets/new.png)  
 - [2020-08-26-程序员进阶系列：你真的懂-HelloWorld-吗？](https://toutiao.io/k/t2egj2p) ![](assets/new.png)  
+- [2020-08-26-NiLang：可逆计算，微分万物](https://toutiao.io/k/i5g7k4b) ![](assets/new.png)  
 - [2020-08-26-宝塔面板-phpMyAdmin-未授权访问漏洞是个低级错误吗？](https://toutiao.io/k/lbolo7u) ![](assets/new.png)  
 - [2020-08-26-Go-设计模式：单例模式](https://toutiao.io/k/k9hcvn5) ![](assets/new.png)  
-- [2020-08-26-NiLang：可逆计算，微分万物](https://toutiao.io/k/i5g7k4b) ![](assets/new.png)  
-- [2020-08-26-Service-Mesh-对比：Istio-与-Linkerd](https://toutiao.io/k/ut0r76n) ![](assets/new.png)  
 - [2020-08-26-特征工程：连续特征的常见处理方式（含实例）](https://toutiao.io/k/5wxxrn2) ![](assets/new.png)  
-- [2020-08-26-技术选型：Spark-SQL-vs-Presto](https://toutiao.io/k/fzf7p0d) ![](assets/new.png)  
+- [2020-08-26-Service-Mesh-对比：Istio-与-Linkerd](https://toutiao.io/k/ut0r76n) ![](assets/new.png)  
 - [2020-08-26-写一个-React-H5-可视化编辑器](https://toutiao.io/k/o43t141) ![](assets/new.png)  
+- [2020-08-26-技术选型：Spark-SQL-vs-Presto](https://toutiao.io/k/fzf7p0d) ![](assets/new.png)  
 - [2020-08-26-从乙方到甲方：我所亲历的信息安全建设之变迁（一）](https://toutiao.io/k/nofk9e8) ![](assets/new.png)  
 - [2020-08-26-Raft-算法之日志复制](https://toutiao.io/k/t5x0vv6) ![](assets/new.png)  
-- [2020-08-26-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
+- [2020-08-26-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

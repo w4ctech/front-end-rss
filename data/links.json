@@ -12847,6 +12847,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "马尔代夫前总统加尧姆确诊新冠肺炎",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4CoVVfP4KqQDNm5mc1q7200826&isfromapp=1",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "意大利一养殖场工作人员出现新冠肺炎聚集性感染 182人检测阳性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimzj0jEuXXLW2Jv250kqU200826&isfromapp=1",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "缅甸单日新增30例新冠肺炎确诊病例 创疫情出现以来最高纪录",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3VeAo2Y5D5atUnNJyr9p200826&isfromapp=1",
+        "date": "2020-08-26"
+      },
+      {
         "title": "香港医护界积极参与普及社区检测计划，已有5000余人报名",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipKAkFkZ1wHU4eND9qSLk200826&isfromapp=1",
         "date": "2020-08-26"
@@ -12855,21 +12870,6 @@
         "title": "清零！北京新冠肺炎疫情在院病例全部清零",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTnA1ToCyQvRwRZUX3TLe200826&isfromapp=1",
         "date": "2020-08-26"
-      },
-      {
-        "title": "截至8月25日24时新型冠状病毒肺炎疫情最新情况",
-        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/414108.jhtml",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "世卫组织：全球新冠肺炎新增206382例 欧洲区域累计超过400万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artist50jvkV2ru1ojhWV4L9200826&isfromapp=1",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "世卫组织：二次感染新冠病毒并不常见",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivriMkUfMjH9BvWp3n0La200826&isfromapp=1",
-        "date": "2020-08-25"
       }
     ]
   },
@@ -15666,6 +15666,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "前端学数据结构与算法（三）：链表为什么能和数组相提并论？实现数组bettle下",
+        "link": "https://juejin.im/post/6864976147877199886",
+        "date": "2020-08-25"
+      },
+      {
         "title": "React 自定义 Hooks 的应用",
         "link": "https://juejin.im/post/6864871906567749645",
         "date": "2020-08-25"
@@ -15684,11 +15689,6 @@
         "title": "【Vue】谨慎使用$attrs与$listeners",
         "link": "https://juejin.im/post/6864858225443864583",
         "date": "2020-08-25"
-      },
-      {
-        "title": "实用，完整的HTTP cookie指南",
-        "link": "https://juejin.im/post/6864706438821281806",
-        "date": "2020-08-24"
       }
     ]
   },
@@ -16025,6 +16025,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "记录自己劝别人炒股的话术",
+        "link": "https://www.v2ex.com/t/701587",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "想要读取一个文件并筛选特定的文件名该怎么做呢",
+        "link": "https://www.v2ex.com/t/701586",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "Gitbook 一直安装失败",
+        "link": "https://www.v2ex.com/t/701585",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "薪资给的高，怎么就看不上初创公司？算法进来聊一聊",
+        "link": "https://www.v2ex.com/t/701584",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "在医院，在中国，在人间。程序员的胆囊结石手术记录",
+        "link": "https://www.v2ex.com/t/701583",
+        "date": "2020-08-26"
+      },
+      {
         "title": "为什么我媳妇周围的每个同事要么男的有钱要么女的不仅自己有钱老公更有钱？",
         "link": "https://www.v2ex.com/t/701582",
         "date": "2020-08-26"
@@ -16208,21 +16233,6 @@
         "title": "[社招 - 热招中] 字节跳动 - 移动 OS 教育 / 电商业务，高级前端工程师，坐标：北京 - 中关村",
         "link": "https://www.v2ex.com/t/701538",
         "date": "2020-08-26"
-      },
-      {
-        "title": "刚建了一个百度人脸识别生态合作交流群，有兴趣的朋友可以进入，本群将会不定期分享人工智能行业峰会活动，公开课，行业案例等，有兴趣的朋友可以进入，交流协作...",
-        "link": "https://www.v2ex.com/t/701535",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "求 pt 邀请:据说这俩天可以发 chd 限时邀请注册,求 chd 大佬发个限时邀请,感激不尽!",
-        "link": "https://www.v2ex.com/t/701534",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[社招-北京] 探探招聘 Android、iOS、Go 后端等开发",
-        "link": "https://www.v2ex.com/t/701533",
-        "date": "2020-08-26"
       }
     ]
   },
@@ -16374,13 +16384,13 @@
         "date": "2020-08-26"
       },
       {
-        "title": "用 Python 写个七夕表白神器",
-        "link": "https://toutiao.io/k/ee69dyh",
+        "title": "程序员进阶系列：你真的懂 HelloWorld 吗？",
+        "link": "https://toutiao.io/k/t2egj2p",
         "date": "2020-08-26"
       },
       {
-        "title": "程序员进阶系列：你真的懂 HelloWorld 吗？",
-        "link": "https://toutiao.io/k/t2egj2p",
+        "title": "用 Python 写个七夕表白神器",
+        "link": "https://toutiao.io/k/ee69dyh",
         "date": "2020-08-26"
       },
       {
@@ -16399,13 +16409,13 @@
         "date": "2020-08-26"
       },
       {
-        "title": "特征工程：连续特征的常见处理方式（含实例）",
-        "link": "https://toutiao.io/k/5wxxrn2",
+        "title": "宝塔面板 phpMyAdmin 未授权访问漏洞是个低级错误吗？",
+        "link": "https://toutiao.io/k/lbolo7u",
         "date": "2020-08-26"
       },
       {
-        "title": "宝塔面板 phpMyAdmin 未授权访问漏洞是个低级错误吗？",
-        "link": "https://toutiao.io/k/lbolo7u",
+        "title": "特征工程：连续特征的常见处理方式（含实例）",
+        "link": "https://toutiao.io/k/5wxxrn2",
         "date": "2020-08-26"
       },
       {
@@ -16439,23 +16449,8 @@
         "date": "2020-08-26"
       },
       {
-        "title": "[推荐] 全网最通透的 Java 8 版本特性讲解",
-        "link": "https://toutiao.io/k/vbmfzum",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
-        "link": "https://toutiao.io/k/l5wu4f9",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] Redis 五大对象",
-        "link": "https://toutiao.io/k/djlfguy",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] Shell 编码规范",
-        "link": "https://toutiao.io/k/jbo65f6",
+        "title": "[推荐] 英语学习指南",
+        "link": "https://toutiao.io/k/m9lrd6m",
         "date": "2020-08-26"
       },
       {
@@ -16464,38 +16459,8 @@
         "date": "2020-08-26"
       },
       {
-        "title": "[推荐] Java 如何优雅的生成测试数据",
-        "link": "https://toutiao.io/k/njbuzjl",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
-        "link": "https://toutiao.io/k/kumhh9k",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之缓存",
-        "link": "https://toutiao.io/k/gbvhdf1",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
-        "link": "https://toutiao.io/k/q5376fl",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 快速入门数据结构和算法",
-        "link": "https://toutiao.io/k/vkyzxyw",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/9ujm1ju",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] Tomcat 高并发之道原理拆解与性能调优",
-        "link": "https://toutiao.io/k/htijp2l",
+        "title": "[推荐] 史上最全的 vim 快捷键文档/手册/大全/帮助/指南",
+        "link": "https://toutiao.io/k/dx4z66j",
         "date": "2020-08-26"
       },
       {
@@ -16504,13 +16469,58 @@
         "date": "2020-08-26"
       },
       {
+        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
+        "link": "https://toutiao.io/k/kumhh9k",
+        "date": "2020-08-26"
+      },
+      {
         "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
         "link": "https://toutiao.io/k/smg6nko",
         "date": "2020-08-26"
       },
       {
+        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
+        "link": "https://toutiao.io/k/q5376fl",
+        "date": "2020-08-26"
+      },
+      {
         "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
         "link": "https://toutiao.io/k/wtofrd2",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] Redis 五大对象",
+        "link": "https://toutiao.io/k/djlfguy",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
+        "link": "https://toutiao.io/k/n1da8v7",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] 全网最通透的 Java 8 版本特性讲解",
+        "link": "https://toutiao.io/k/vbmfzum",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] Tomcat 高并发之道原理拆解与性能调优",
+        "link": "https://toutiao.io/k/htijp2l",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] 高并发系统三大利器之缓存",
+        "link": "https://toutiao.io/k/gbvhdf1",
         "date": "2020-08-26"
       }
     ]

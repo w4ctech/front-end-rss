@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 05:48:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 06:03:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-08-22-TypeScript-设计模式之观察者模式](https://www.ershicimi.com/p/db48ec5a2c3bbfb4159b89312df12887) 
 - [2020-08-21-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98) 
 - [2020-08-08-从零开始配置-TypeScript-项目](https://www.ershicimi.com/p/f842f28fb8eef6f52b56004e9b29fcf1) 
 - [2020-08-26-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/af4e71a9b7323e89cdbee04b4a0a1e6a) 

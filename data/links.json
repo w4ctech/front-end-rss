@@ -15671,6 +15671,11 @@
         "date": "2020-08-25"
       },
       {
+        "title": "基于 vue 的 jest 配置配置项",
+        "link": "https://juejin.im/post/6864831805820944397",
+        "date": "2020-08-25"
+      },
+      {
         "title": "带着问题看React新生命周期",
         "link": "https://juejin.im/post/6864776382241898509",
         "date": "2020-08-24"
@@ -15678,11 +15683,6 @@
       {
         "title": "从源码出发浅析mobx依赖收集和依赖更新原理",
         "link": "https://juejin.im/post/6864767418691289102",
-        "date": "2020-08-24"
-      },
-      {
-        "title": "js异步编程，eventLoop、消息队列都是做什么的？ 什么是宏任务，什么是微任务",
-        "link": "https://juejin.im/post/6864485337771573261",
         "date": "2020-08-24"
       }
     ]
@@ -16020,6 +16020,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "刚建了一个百度人脸识别生态合作交流群，有兴趣的朋友可以进入，本群将会不定期分享人工智能行业峰会活动，公开课，行业案例等，有兴趣的朋友可以进入，交流协作...",
+        "link": "https://www.v2ex.com/t/701535",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "求 pt 邀请:据说这俩天可以发 chd 限时邀请注册,求 chd 大佬发个限时邀请,感激不尽!",
+        "link": "https://www.v2ex.com/t/701534",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[社招-北京] 探探招聘 Android、iOS、Go 后端等开发",
+        "link": "https://www.v2ex.com/t/701533",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[广州] 找一份工作， Java 开发， 5 年经验",
+        "link": "https://www.v2ex.com/t/701531",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "Bandwagon DC6 GIA-E 垃圾移动去程绕法兰克福了",
+        "link": "https://www.v2ex.com/t/701530",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[招聘/北京] 游戏 3d 主美（手游） / u3d 游戏主程",
+        "link": "https://www.v2ex.com/t/701529",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "为什么大家都不喜欢 Touch bar 我觉得很香？ 附配置",
+        "link": "https://www.v2ex.com/t/701528",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "sockjs-client 怎么发送 json 数据呀？",
+        "link": "https://www.v2ex.com/t/701527",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "YY 系的公司是不是都是 99（6-0.5）的情况了",
+        "link": "https://www.v2ex.com/t/701526",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "作为一名程序员，沟通「能力」是否重要？",
+        "link": "https://www.v2ex.com/t/701525",
+        "date": "2020-08-26"
+      },
+      {
         "title": "5.1 声道的 wav 怎样无损转换成双声道的 flac",
         "link": "https://www.v2ex.com/t/701521",
         "date": "2020-08-26"
@@ -16147,41 +16197,6 @@
       {
         "title": "打算把 github.io 迁移到 gitee.io 或者 coding.me，哪家比较好一点？",
         "link": "https://www.v2ex.com/t/701487",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "0202 年了, 现在在 Windows 下快乐编程的姿势是什么❓",
-        "link": "https://www.v2ex.com/t/701485",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "找人搭伙，开发一个资产类的账本工具",
-        "link": "https://www.v2ex.com/t/701483",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "想买 r7000p，不着急，笔记本一般什么时候买价格较合适呢？",
-        "link": "https://www.v2ex.com/t/701482",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "电脑大神都用英文命名文件（夹）？我发现了一个大大的好处，提高查找效率",
-        "link": "https://www.v2ex.com/t/701481",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "新车倒库剐蹭到柱子上的防撞条了，心疼！",
-        "link": "https://www.v2ex.com/t/701478",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "最近和老婆做了一个重大决定，两人都从南京去苏州工作，请问苏州.net/.net core 工作机会多吗",
-        "link": "https://www.v2ex.com/t/701476",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[拒绝 996， WLB 965] 新加坡公司 thunes，上海 Golang 岗位， B 轮已盈利，技术氛围好",
-        "link": "https://www.v2ex.com/t/701475",
         "date": "2020-08-26"
       }
     ]
@@ -16334,13 +16349,13 @@
         "date": "2020-08-26"
       },
       {
-        "title": "程序员进阶系列：你真的懂 HelloWorld 吗？",
-        "link": "https://toutiao.io/k/t2egj2p",
+        "title": "用 Python 写个七夕表白神器",
+        "link": "https://toutiao.io/k/ee69dyh",
         "date": "2020-08-26"
       },
       {
-        "title": "用 Python 写个七夕表白神器",
-        "link": "https://toutiao.io/k/ee69dyh",
+        "title": "程序员进阶系列：你真的懂 HelloWorld 吗？",
+        "link": "https://toutiao.io/k/t2egj2p",
         "date": "2020-08-26"
       },
       {
@@ -16384,58 +16399,13 @@
         "date": "2020-08-26"
       },
       {
-        "title": "Raft 算法之日志复制",
-        "link": "https://toutiao.io/k/t5x0vv6",
-        "date": "2020-08-26"
-      },
-      {
         "title": "从乙方到甲方：我所亲历的信息安全建设之变迁（一）",
         "link": "https://toutiao.io/k/nofk9e8",
         "date": "2020-08-26"
       },
       {
-        "title": "[推荐] 为什么我们放弃了 Vue？Vue 和 React 深度对比",
-        "link": "https://toutiao.io/k/wtofrd2",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] Shell 编码规范",
-        "link": "https://toutiao.io/k/jbo65f6",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
-        "link": "https://toutiao.io/k/nn7q9kk",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之缓存",
-        "link": "https://toutiao.io/k/gbvhdf1",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
-        "link": "https://toutiao.io/k/q5376fl",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 史上最全的 vim 快捷键文档/手册/大全/帮助/指南",
-        "link": "https://toutiao.io/k/dx4z66j",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 快速入门数据结构和算法",
-        "link": "https://toutiao.io/k/vkyzxyw",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 多图详解！10 大高性能开发核心技术",
-        "link": "https://toutiao.io/k/iqokf55",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "[推荐] 一道有意思的腾讯算法面试题",
-        "link": "https://toutiao.io/k/wui7yqj",
+        "title": "Raft 算法之日志复制",
+        "link": "https://toutiao.io/k/t5x0vv6",
         "date": "2020-08-26"
       },
       {
@@ -16444,13 +16414,23 @@
         "date": "2020-08-26"
       },
       {
-        "title": "[推荐] 神器推荐！让我用的最爽的几款 Windows 软件，非常实用",
-        "link": "https://toutiao.io/k/n1da8v7",
+        "title": "[推荐] 英语学习指南",
+        "link": "https://toutiao.io/k/m9lrd6m",
         "date": "2020-08-26"
       },
       {
-        "title": "[推荐] 美国如果把根域名服务器封了，中国会从网络上消失？",
-        "link": "https://toutiao.io/k/yitvf34",
+        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
+        "link": "https://toutiao.io/k/q5376fl",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] Tomcat 高并发之道原理拆解与性能调优",
+        "link": "https://toutiao.io/k/htijp2l",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] 快速入门数据结构和算法",
+        "link": "https://toutiao.io/k/vkyzxyw",
         "date": "2020-08-26"
       },
       {
@@ -16459,13 +16439,48 @@
         "date": "2020-08-26"
       },
       {
-        "title": "[推荐] ​Linux CPU 性能优化指南",
-        "link": "https://toutiao.io/k/e6zbho6",
+        "title": "[推荐] 美国如果把根域名服务器封了，中国会从网络上消失？",
+        "link": "https://toutiao.io/k/yitvf34",
         "date": "2020-08-26"
       },
       {
-        "title": "[推荐] Tomcat 高并发之道原理拆解与性能调优",
-        "link": "https://toutiao.io/k/htijp2l",
+        "title": "[推荐] 高并发系统三大利器之缓存",
+        "link": "https://toutiao.io/k/gbvhdf1",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] Shell 编码规范",
+        "link": "https://toutiao.io/k/jbo65f6",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] 一道有意思的腾讯算法面试题",
+        "link": "https://toutiao.io/k/wui7yqj",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] Java 如何优雅的生成测试数据",
+        "link": "https://toutiao.io/k/njbuzjl",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
+        "link": "https://toutiao.io/k/kumhh9k",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] 史上最全的 vim 快捷键文档/手册/大全/帮助/指南",
+        "link": "https://toutiao.io/k/dx4z66j",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "[推荐] 图解：通用搜索引擎背后的技术点",
+        "link": "https://toutiao.io/k/l5wu4f9",
         "date": "2020-08-26"
       }
     ]

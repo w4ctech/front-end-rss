@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 03:48:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 04:02:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -38,6 +38,7 @@
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-07-31-140道Web大厂面试真题分享](https://www.ershicimi.com/p/82353361ddca791ad1aa9c6410e36028) 
+- [2020-08-26-社招-北京-探探招聘-Android、iOS、Go-后端等开发](https://www.v2ex.com/t/701533) 
 - [2020-08-26-北京-招聘前端，坐标北京/大望路/万达广场，凡影科技](https://www.v2ex.com/t/701514) 
 - [2020-08-26-北京-招聘前端，坐标北京/大望路/万达广场，凡影科技](https://www.v2ex.com/t/701511) 
 - [2020-08-26-程序员面试-10-大潜规则，千万不要踩坑！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13712&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4V37CDiEFBajn2NTMEcHMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

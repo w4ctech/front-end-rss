@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 05:20:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 05:31:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -43,7 +43,6 @@
 - [2020-08-26-社招-腾讯-微视前端持续招聘中，坐标深圳内推](https://www.v2ex.com/t/701542) 
 - [2020-08-26-社招-北京-探探招聘-Android、iOS、Go-后端等开发](https://www.v2ex.com/t/701533) 
 - [2020-08-26-北京-招聘前端，坐标北京/大望路/万达广场，凡影科技](https://www.v2ex.com/t/701514) 
-- [2020-08-26-北京-招聘前端，坐标北京/大望路/万达广场，凡影科技](https://www.v2ex.com/t/701511) 
 - [2020-08-26-程序员面试-10-大潜规则，千万不要踩坑！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13712&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4V37CDiEFBajn2NTMEcHMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-15-牛聘|2020年度岗位招聘第10期](https://sec.thief.one/article_content?a_id=48dc5bfc5999e36a623b8c8acdda0d3a) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

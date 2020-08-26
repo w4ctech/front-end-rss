@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-26 07:02:51，:rocket: 更新条数: +3339， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-26 07:10:24，:rocket: 更新条数: +3348， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-08-25-8月25日全国新增境外输入新冠15例](http://m.china.caixin.com/m/2020-08-26/101597070.html) ![](assets/new.png)  
+- [2020-08-25-最新疫情：全国新冠累计确诊84996例-新增境外输入15例](http://m.china.caixin.com/m/2020-08-26/101597287.html) ![](assets/new.png)  
 - [2020-08-25-港大教授详解二次感染病例-还要不要接种新冠疫苗？](http://m.china.caixin.com/m/2020-08-26/101597053.html) ![](assets/new.png)  
 - [2020-08-25-【境内疫情观察】全国新增15例境外输入病例（8月25日）](http://m.database.caixin.com/m/2020-08-26/101597234.html) ![](assets/new.png)  
 - [2020-08-25-大流行手记|8月25日：非洲新冠死亡率更低-172个国家地区加入全球疫苗计划](https://m.caixin.com/m/2020-08-26/101597079.html) ![](assets/new.png)  
@@ -729,6 +729,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1057,11 @@
 </summary>
 
 
+- [2020-08-26-杭州网易Leader-岗位招聘高级爬虫工程师](https://www.v2ex.com/t/701603) ![](assets/new.png)  
+- [2020-08-26-字节跳动-杭州-电商-招聘前端开发](https://www.v2ex.com/t/701602) ![](assets/new.png)  
+- [2020-08-26-很多朋友让我建一个羊毛群-今天他来了](https://www.v2ex.com/t/701601) ![](assets/new.png)  
+- [2020-08-26-FC/NES-上的马里奥医生对战](https://www.v2ex.com/t/701600) ![](assets/new.png)  
+- [2020-08-26-求解：-OkHttp-下载文件的时候会在下载过程中突然给服务端发送一个-FIN，导致连接终止](https://www.v2ex.com/t/701598) ![](assets/new.png)  
 - [2020-08-26-AppleID-不显示头像](https://www.v2ex.com/t/701595) ![](assets/new.png)  
 - [2020-08-26-杭州.招聘-PHP-/golang-后端工程师（15-25K）](https://www.v2ex.com/t/701594) ![](assets/new.png)  
 - [2020-08-26-多系统启动盘+pe-的最佳解决方案](https://www.v2ex.com/t/701592) ![](assets/new.png)  
@@ -1062,11 +1077,6 @@
 - [2020-08-26-谷歌-reCaptcha-验证码服务再次被攻破](https://www.v2ex.com/t/701580) ![](assets/new.png)  
 - [2020-08-26-在京东也翻车了，返修被偷换了硬件。](https://www.v2ex.com/t/701579) ![](assets/new.png)  
 - [2020-08-26-请各位大佬帮忙看看，那个公司比较好](https://www.v2ex.com/t/701575) ![](assets/new.png)  
-- [2020-08-26-为什么大部分人做不了架构师？这-2-点是关键](https://www.v2ex.com/t/701574) ![](assets/new.png)  
-- [2020-08-26-《在线工具秘籍》为在线工具创作一本「优质开源中文说明书」,-让在线工具造福人类~](https://www.v2ex.com/t/701573) ![](assets/new.png)  
-- [2020-08-26-请教一下，过年离职什么时间点合适](https://www.v2ex.com/t/701571) ![](assets/new.png)  
-- [2020-08-26-装黑苹果-i7-8700-和-i7-9700-差别大吗？](https://www.v2ex.com/t/701570) ![](assets/new.png)  
-- [2020-08-26-珠海-招聘前端](https://www.v2ex.com/t/701569) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

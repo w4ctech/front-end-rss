@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-26 07:02:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 07:10:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -402,14 +402,14 @@
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
 - [【前端宇宙】聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/eaff4a9acf7a4e7e9c8f6e833b7c7ea1)
 - [【前端宇宙】两行代码实现图片碎片化加载](https://www.ershicimi.com/p/165b79e16b8a59b1799441768291f3f2)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】如何让你的Nginx-提升10倍性能？](https://www.ershicimi.com/p/f6a7fffad06ba4c4d6c9555e2aca00bb)
 - [【InfoQ】吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-Q推荐](https://www.ershicimi.com/p/48c314f431a59179ad7bd192b40cf439)
 - [【InfoQ】我接手了一个“垃圾”系统，全栈优化后将性能提升了350倍](https://www.ershicimi.com/p/6aebfbb2b178ab388aa9df3cba9e5375)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3)
 - [【开发者头条】推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl)
-- [【开发者头条】推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6)
-- [【开发者头条】推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -468,12 +468,13 @@
 - [【全栈前端精选】HTTP-无状态中的-"状态"-到底指的是什么？](https://www.ershicimi.com/p/1a8dc2100ac260579c7aaa34c469588a)
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
+- [【V2EX】求解：-OkHttp-下载文件的时候会在下载过程中突然给服务端发送一个-FIN，导致连接终止](https://www.v2ex.com/t/701598)
 - [【V2EX】薪资给的高，怎么就看不上初创公司？算法进来聊一聊](https://www.v2ex.com/t/701584)
 - [【开发者头条】Raft-算法之日志复制](https://toutiao.io/k/t5x0vv6)
 - [【开发者头条】推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k)
 - [【开发者头条】推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj)
-- [【开发者头条】推荐-快速入门数据结构和算法](https://toutiao.io/k/vkyzxyw)
 - [【开发者头条】推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko)
+- [【开发者头条】推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j)
 - [【安全热点】Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -624,7 +625,7 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】8月25日全国新增境外输入新冠15例](http://m.china.caixin.com/m/2020-08-26/101597070.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊84996例-新增境外输入15例](http://m.china.caixin.com/m/2020-08-26/101597287.html)
 - [【武汉肺炎防疫全纪录(财新网)】港大教授详解二次感染病例-还要不要接种新冠疫苗？](http://m.china.caixin.com/m/2020-08-26/101597053.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增15例境外输入病例（8月25日）](http://m.database.caixin.com/m/2020-08-26/101597234.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月25日：非洲新冠死亡率更低-172个国家地区加入全球疫苗计划](https://m.caixin.com/m/2020-08-26/101597079.html)

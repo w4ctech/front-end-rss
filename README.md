@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-26 02:33:54，:rocket: 更新条数: +3344， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-26 02:46:38，:rocket: 更新条数: +3346， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-26-香港医护界积极参与普及社区检测计划，已有5000余人报名](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipKAkFkZ1wHU4eND9qSLk200826&isfromapp=1) ![](assets/new.png)  
 - [2020-08-26-清零！北京新冠肺炎疫情在院病例全部清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTnA1ToCyQvRwRZUX3TLe200826&isfromapp=1) ![](assets/new.png)  
 - [2020-08-26-截至8月25日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/414108.jhtml) ![](assets/new.png)  
 - [2020-08-25-世卫组织：全球新冠肺炎新增206382例-欧洲区域累计超过400万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artist50jvkV2ru1ojhWV4L9200826&isfromapp=1) ![](assets/new.png)  
 - [2020-08-25-世卫组织：二次感染新冠病毒并不常见](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivriMkUfMjH9BvWp3n0La200826&isfromapp=1) ![](assets/new.png)  
-- [2020-08-25-英国政府态度逆转-规定中学生在学校公共区域必须佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwBSVBTrQ2DW8woFQwa5i200826&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,13 @@
 </summary>
 
 
+- [2020-08-26-iOS-Chrome-现在可以往其它应用填充密码了](https://www.v2ex.com/t/701497) ![](assets/new.png)  
+- [2020-08-26-字节跳动client-Infrastructure-上海内推](https://www.v2ex.com/t/701496) ![](assets/new.png)  
+- [2020-08-26-新租的房子住着鼻子不舒服，可能的原因有什么？](https://www.v2ex.com/t/701495) ![](assets/new.png)  
+- [2020-08-26-需要购买阿里云产品找我，折上折优惠，不影响开票，招阿里云代理。](https://www.v2ex.com/t/701493) ![](assets/new.png)  
+- [2020-08-26-ThinkPad-Carbon-X1-2019、ThinkPad-X13、Dell-XPS-7390-四选一](https://www.v2ex.com/t/701492) ![](assets/new.png)  
+- [2020-08-26-后端来问问:是不是安卓开发比-iOS-更难?](https://www.v2ex.com/t/701491) ![](assets/new.png)  
+- [2020-08-26-appstore-app-审核-The-review-of-your-app-is-taking-longer-than-expected](https://www.v2ex.com/t/701490) ![](assets/new.png)  
 - [2020-08-26-华为云-WeLink-会议电话竟然可以用来诈骗](https://www.v2ex.com/t/701489) ![](assets/new.png)  
 - [2020-08-26-一个-Spring-Boot-应用的-jar-包竟然要一百多兆？这就是我接手的项目](https://www.v2ex.com/t/701488) ![](assets/new.png)  
 - [2020-08-26-打算把-github.io-迁移到-gitee.io-或者-coding.me，哪家比较好一点？](https://www.v2ex.com/t/701487) ![](assets/new.png)  
@@ -1070,13 +1077,6 @@
 - [2020-08-26-ahooks-•-useTable---查询表格场景插件化-Hook-解决方案](https://www.v2ex.com/t/701473) ![](assets/new.png)  
 - [2020-08-26-有哪些可以摸鱼、养老的-IT-类公司？](https://www.v2ex.com/t/701472) ![](assets/new.png)  
 - [2020-08-26-上海招贤纳士！互联网支付公司上海讯联数据招聘优秀-WEB-前端工程师-/-WEB-前端技术专家](https://www.v2ex.com/t/701471) ![](assets/new.png)  
-- [2020-08-26-讲真的，受不了开放式办公](https://www.v2ex.com/t/701470) ![](assets/new.png)  
-- [2020-08-26-深圳招聘视频监控流媒体服务开发工程师，物联网行业，不加班](https://www.v2ex.com/t/701469) ![](assets/new.png)  
-- [2020-08-26-狗狗家面试题：第-k-大元素（快速排序法）](https://www.v2ex.com/t/701468) ![](assets/new.png)  
-- [2020-08-26-请教-多商户的小程序-一定要申请电信增值业务许可证吗？](https://www.v2ex.com/t/701467) ![](assets/new.png)  
-- [2020-08-26-你在-Coding-的时候，喜欢做些什么？](https://www.v2ex.com/t/701466) ![](assets/new.png)  
-- [2020-08-26-新冠疫苗已经开始接种了，下周要出国，现在去可靠吗？](https://www.v2ex.com/t/701465) ![](assets/new.png)  
-- [2020-08-26-pycharm-遇到个神奇-bug](https://www.v2ex.com/t/701463) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,9 +1136,9 @@
 - [2020-08-26-特征工程：连续特征的常见处理方式（含实例）](https://toutiao.io/k/5wxxrn2) ![](assets/new.png)  
 - [2020-08-26-技术选型：Spark-SQL-vs-Presto](https://toutiao.io/k/fzf7p0d) ![](assets/new.png)  
 - [2020-08-26-写一个-React-H5-可视化编辑器](https://toutiao.io/k/o43t141) ![](assets/new.png)  
-- [2020-08-26-Raft-算法之日志复制](https://toutiao.io/k/t5x0vv6) ![](assets/new.png)  
 - [2020-08-26-从乙方到甲方：我所亲历的信息安全建设之变迁（一）](https://toutiao.io/k/nofk9e8) ![](assets/new.png)  
-- [2020-08-26-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
+- [2020-08-26-Raft-算法之日志复制](https://toutiao.io/k/t5x0vv6) ![](assets/new.png)  
+- [2020-08-26-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

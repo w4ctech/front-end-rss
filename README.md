@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-26 02:22:43，:rocket: 更新条数: +3340， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-26 02:31:30，:rocket: 更新条数: +3344， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -854,6 +854,12 @@
 </summary>
 
 
+- [2020-08-26-太强了！这款轻量级的数据库中间件完美解决了SpringBoot中分库分表问题？](https://www.ershicimi.com/p/79122ca6202cf5ce31618c1f0a883b4c) ![](assets/new.png)  
+- [2020-08-26-掌握了这30道MySQL基础面试题，我成了面霸](https://www.ershicimi.com/p/0cdee53998225df3bcddc15abed262cb) ![](assets/new.png)  
+- [2020-08-26-谷歌开源的代码评审规范，值得借鉴！](https://www.ershicimi.com/p/ce3ca943bd02532503a01b7c3ada520a) ![](assets/new.png)  
+- [2020-08-25-DDD-到底什么鬼？](https://www.ershicimi.com/p/91e7429bb13453cdf3513a248e3ac957) ![](assets/new.png)  
+- [2020-08-25-华为Java开发编程军规，谁违反谁走](https://www.ershicimi.com/p/ef4cf353d94eae87e646aea973f708a4) ![](assets/new.png)  
+- [2020-08-25-实战：Java如何实现文件批量导入导出（兼容xls,xlsx）？](https://www.ershicimi.com/p/52c555039866cbf78e7939946f94320d) ![](assets/new.png)  
 - [2020-08-23-刚刚，张一鸣还击！字节跳动正式起诉特朗普及美国政府！同时准备"关停预案"！中国已有告赢先例！](https://www.ershicimi.com/p/71d698fe2d8189cfb533d25fbebc266a) ![](assets/new.png)  
 - [2020-08-23-半吊子架构师，一来就想干掉RabbitMQ](https://www.ershicimi.com/p/c18f026870c44a0724301b6fc499139c) ![](assets/new.png)  
 - [2020-08-23-MySQL-not-exists-真的不走索引么?](https://www.ershicimi.com/p/ddd3f67c53b9b73f5e74c16c066ddb8e) ![](assets/new.png)  
@@ -868,12 +874,6 @@
 - [2020-08-21-如何让你的Nginx-提升10倍性能？](https://www.ershicimi.com/p/f6a7fffad06ba4c4d6c9555e2aca00bb) ![](assets/new.png)  
 - [2020-08-20-知乎高赞：当update修改数据与原数据相同时会再次执行吗？](https://www.ershicimi.com/p/3ff2e9de753fe84d407603a560e9f8c2) ![](assets/new.png)  
 - [2020-08-20-Redis-实现延迟队列？深深被折服！！](https://www.ershicimi.com/p/9a509db5bf44bbcc773fd1acd4effb2d) ![](assets/new.png)  
-- [2020-08-20-SpringBoot项目优雅的http客户端工具，太香了!](https://www.ershicimi.com/p/3e91084d0a76a64293335098989f21c4) ![](assets/new.png)  
-- [2020-08-19-日志框架选型，Logback-还是-Log4j2？](https://www.ershicimi.com/p/639602b4f1710c35c1fe2a81b0c5b7fc) ![](assets/new.png)  
-- [2020-08-19-曲线救国：提高github下载速度到2MB/s](https://www.ershicimi.com/p/ce5872cfb29569c07e9944fada2b237a) ![](assets/new.png)  
-- [2020-08-19-Spring-Boot-2.3.3-正式发布！2.4.0-正式版即将发布！](https://www.ershicimi.com/p/a7cc57a2c6018ede175e3042e9b46162) ![](assets/new.png)  
-- [2020-08-18-Java-后端不懂-GC-调优很丢脸吗？](https://www.ershicimi.com/p/0005ee82994fc3711dd9c9c3b0d90a4a) ![](assets/new.png)  
-- [2020-08-18-Java-强、弱、软、虚，你属于哪一种？](https://www.ershicimi.com/p/66fecf071d54817fa7e92632f0061338) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +947,11 @@
 </summary>
 
 
+- [2020-08-25-京喜小程序体验评分优化实践](https://juejin.im/post/6865109303716642824) ![](assets/new.png)  
 - [2020-08-25-蒲公英-·-JELLY技术周刊-Vol.19-从零开始的-Cloud-IDE-开发](https://juejin.im/post/6865106035527385095) ![](assets/new.png)  
 - [2020-08-25-用「增量」思想提升代码检查和打包构建的效率](https://juejin.im/post/6865101730166767623) ![](assets/new.png)  
 - [2020-08-25-Node-脚本遭遇异常时如何安全退出](https://juejin.im/post/6865060371481395213) ![](assets/new.png)  
 - [2020-08-25-划分主域](https://juejin.im/post/6864950423330619405) ![](assets/new.png)  
-- [2020-08-25-手动实现一个-react-router-dom](https://juejin.im/post/6864869694390665224) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-08-26-华为云-WeLink-会议电话竟然可以用来诈骗](https://www.v2ex.com/t/701489) ![](assets/new.png)  
+- [2020-08-26-一个-Spring-Boot-应用的-jar-包竟然要一百多兆？这就是我接手的项目](https://www.v2ex.com/t/701488) ![](assets/new.png)  
+- [2020-08-26-打算把-github.io-迁移到-gitee.io-或者-coding.me，哪家比较好一点？](https://www.v2ex.com/t/701487) ![](assets/new.png)  
+- [2020-08-26-0202-年了,-现在在-Windows-下快乐编程的姿势是什么❓](https://www.v2ex.com/t/701485) ![](assets/new.png)  
+- [2020-08-26-找人搭伙，开发一个资产类的账本工具](https://www.v2ex.com/t/701483) ![](assets/new.png)  
 - [2020-08-26-想买-r7000p，不着急，笔记本一般什么时候买价格较合适呢？](https://www.v2ex.com/t/701482) ![](assets/new.png)  
 - [2020-08-26-电脑大神都用英文命名文件（夹）？我发现了一个大大的好处，提高查找效率](https://www.v2ex.com/t/701481) ![](assets/new.png)  
 - [2020-08-26-新车倒库剐蹭到柱子上的防撞条了，心疼！](https://www.v2ex.com/t/701478) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-08-26-你在-Coding-的时候，喜欢做些什么？](https://www.v2ex.com/t/701466) ![](assets/new.png)  
 - [2020-08-26-新冠疫苗已经开始接种了，下周要出国，现在去可靠吗？](https://www.v2ex.com/t/701465) ![](assets/new.png)  
 - [2020-08-26-pycharm-遇到个神奇-bug](https://www.v2ex.com/t/701463) ![](assets/new.png)  
-- [2020-08-26-难道真的系统好做，生态难做？](https://www.v2ex.com/t/701462) ![](assets/new.png)  
-- [2020-08-26-深圳招聘-Golang-后端工程师，物联网行业，不加班](https://www.v2ex.com/t/701461) ![](assets/new.png)  
-- [2020-08-26-tmux-怎么用-shell-脚本操作?](https://www.v2ex.com/t/701460) ![](assets/new.png)  
-- [2020-08-26-iOS14-Public-Beta6](https://www.v2ex.com/t/701457) ![](assets/new.png)  
-- [2020-08-26-杭州/广州跨境电商-Fordeal-技术招聘](https://www.v2ex.com/t/701456) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,6 +1088,8 @@
 </summary>
 
 
+- [2020-08-26-一页纸测试策略-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13720&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-strategy-one-page%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-26-速度（Velocity）不背这个锅-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13719&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-26-边缘计算、区块链、5G，哪个能走的更远-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13718&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F197716752%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-26-评估数据中台成熟度的7个维度-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13717&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdata-zhongtai-maturity-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-26-好记性不如视觉笔记-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13716&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-visual-notes%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1106,8 +1108,6 @@
 - [2020-08-26-Myeclipse-2020.5-版本首发！支持-Java14-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13703&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6PuvYsSh9GvgmhMfaOgPDg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-26-蚂蚁金服是如何提高移动端体验的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13702&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ft1Ty2MDbFCDE2DG7lXjnUw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-26-10-个-Vue-开发技巧，助力成为更好的工程师！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13701&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2BSTD8UrDmEBGX8jjIeRtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-26-开发模型的演化-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13700&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fevolution-of-development-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-26-是时候构建安全服务平台了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13699&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-service-platform-ssdlc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,21 +1124,21 @@
 - [2020-08-26-使用-go-进行日志分析并生成-excel,再也不担心做日志分析了](https://toutiao.io/k/gero4fz) ![](assets/new.png)  
 - [2020-08-26-程序员过关斩将：解决分布式-session-问题](https://toutiao.io/k/3tciz0a) ![](assets/new.png)  
 - [2020-08-26-聊聊微服务（一）](https://toutiao.io/k/wpzmp75) ![](assets/new.png)  
-- [2020-08-26-译-一个思路，如何尝试创建自己的-CSS-框架？](https://toutiao.io/k/8yhw39n) ![](assets/new.png)  
-- [2020-08-26-加入「码农周刊-VIP-会员」，与上市公司-CTO-一起成长！](https://toutiao.io/k/dhm0x44) ![](assets/new.png)  
 - [2020-08-26-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3) ![](assets/new.png)  
+- [2020-08-26-译-一个思路，如何尝试创建自己的-CSS-框架？](https://toutiao.io/k/8yhw39n) ![](assets/new.png)  
 - [2020-08-26-用-Python-写个七夕表白神器](https://toutiao.io/k/ee69dyh) ![](assets/new.png)  
+- [2020-08-26-加入「码农周刊-VIP-会员」，与上市公司-CTO-一起成长！](https://toutiao.io/k/dhm0x44) ![](assets/new.png)  
 - [2020-08-26-程序员进阶系列：你真的懂-HelloWorld-吗？](https://toutiao.io/k/t2egj2p) ![](assets/new.png)  
-- [2020-08-26-Go-设计模式：单例模式](https://toutiao.io/k/k9hcvn5) ![](assets/new.png)  
 - [2020-08-26-宝塔面板-phpMyAdmin-未授权访问漏洞是个低级错误吗？](https://toutiao.io/k/lbolo7u) ![](assets/new.png)  
+- [2020-08-26-Go-设计模式：单例模式](https://toutiao.io/k/k9hcvn5) ![](assets/new.png)  
 - [2020-08-26-NiLang：可逆计算，微分万物](https://toutiao.io/k/i5g7k4b) ![](assets/new.png)  
 - [2020-08-26-Service-Mesh-对比：Istio-与-Linkerd](https://toutiao.io/k/ut0r76n) ![](assets/new.png)  
 - [2020-08-26-特征工程：连续特征的常见处理方式（含实例）](https://toutiao.io/k/5wxxrn2) ![](assets/new.png)  
-- [2020-08-26-推荐-Java-如何优雅的生成测试数据](https://toutiao.io/k/njbuzjl) ![](assets/new.png)  
-- [2020-08-26-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
-- [2020-08-26-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
-- [2020-08-26-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
-- [2020-08-26-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
+- [2020-08-26-技术选型：Spark-SQL-vs-Presto](https://toutiao.io/k/fzf7p0d) ![](assets/new.png)  
+- [2020-08-26-写一个-React-H5-可视化编辑器](https://toutiao.io/k/o43t141) ![](assets/new.png)  
+- [2020-08-26-Raft-算法之日志复制](https://toutiao.io/k/t5x0vv6) ![](assets/new.png)  
+- [2020-08-26-从乙方到甲方：我所亲历的信息安全建设之变迁（一）](https://toutiao.io/k/nofk9e8) ![](assets/new.png)  
+- [2020-08-26-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

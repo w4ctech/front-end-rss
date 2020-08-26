@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-26 06:03:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 06:12:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -39,6 +39,7 @@
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-07-31-140道Web大厂面试真题分享](https://www.ershicimi.com/p/82353361ddca791ad1aa9c6410e36028) 
+- [2020-08-26-珠海-招聘前端](https://www.v2ex.com/t/701569) 
 - [2020-08-26-疫情期间保持业务量持续增长的-star-up-公司-北京研发中心招聘技术岗](https://www.v2ex.com/t/701564) 
 - [2020-08-26-腾讯-IMWeb-团队招聘-web-前端开发工程师，-base-深圳-/武汉（15-40k）！!](https://www.v2ex.com/t/701554) 
 - [2020-08-26-社招-腾讯-微视前端持续招聘中，坐标深圳内推](https://www.v2ex.com/t/701542) 

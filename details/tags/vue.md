@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-27 07:48:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-27 08:02:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -46,7 +46,6 @@
 - [2020-08-20-深入解析-Vue-的热更新原理，尤大是如何巧用源码中的细节？](https://www.ershicimi.com/p/2b6d755cd0959e8025e368da2abfab99) 
 - [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
 - [2020-08-18-上帝视角看-Vue-源码，能看出个啥？](https://www.ershicimi.com/p/0e29f2e9a8824df02cc351192de5cfe7) 
-- [2020-08-10-58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/1cf49709f7c37e2028ba1bceedcf27c4) 
 - [2020-08-25-Vue模板编译原理](https://www.ershicimi.com/p/9df5782d8378ea8f0b468f0508956b16) 
 - [2020-08-20-从零实现Vue-Cli脚手架/Vuex](https://www.ershicimi.com/p/dbb6ece46050e5243e41ce06c6fe66a8) 
 - [2020-08-14-使用Vue创建一个分页组件](https://www.ershicimi.com/p/de44a870309e9db91964511f2f2bcb02) 
@@ -56,4 +55,8 @@
 - [2020-07-07-【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6) 
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f) 
 - [2020-08-04-Vue的生命周期有多长？](https://www.ershicimi.com/p/eb6c9a853fe54f661ed6b543e15c39cf) 
+- [2020-08-26-学习Vue应用测试，让你的项目更加健壮和稳定](https://juejin.im/post/6865477717220851720) 
+- [2020-08-26-VUE源码-Object的变化侦测](https://juejin.im/post/6865470838494691336) 
+- [2020-08-26-翻译-vue3指南--08List-Rendering-列表渲染](https://juejin.im/post/6865427018675126279) 
+- [2020-08-26-跟随Element学习Vue小技巧20——Upload](https://juejin.im/post/6865333323107926023) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-27 07:48:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-27 08:02:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -62,10 +62,11 @@
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
 - [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
+- [2020-08-26-H5-秒开方案大全](https://www.ershicimi.com/p/c2c283afe566a9e224000ca0d7844e60) 
+- [2020-08-25-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/194ea3d64d5964fd5067a31dd27bdf7a) 
 - [2020-08-18-14个-JavaScript-代码优化技巧](https://www.ershicimi.com/p/7d3772aa580f69c45d317264efdd2e99) 
 - [2020-08-10-有了这个工具，小白也能快速写出复杂正则了](https://www.ershicimi.com/p/9086635077ee5bab869955e8a13cdb44) 
 - [2020-08-23-这一次，彻底弄懂-JavaScript-执行机制](https://www.ershicimi.com/p/8e561a465605e1122c0db6fbe19cb68b) 
-- [2020-08-16-报告老板，我们的H5页面在iOS11系统上白屏了！](https://www.ershicimi.com/p/2fe06a752d6c8a341e24ad1b17bd41c9) 
 - [2020-08-23-轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://www.ershicimi.com/p/401f5dc4f2647e21507489cdac2ab7c6) 
 - [2020-08-22-前端模块化：CommonJS,AMD,CMD,ES6-学习](https://www.ershicimi.com/p/e4f5ac1282bf739481e72f8c9dde613b) 
 - [2020-08-21-从0开始编写一个开关组件](https://www.ershicimi.com/p/4f0c3edae20d0ec18b9c047399ca27fd) 
@@ -92,7 +93,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-08-26-tampermonkey-如何自动填充密码-并通过前端的表单检查](https://www.v2ex.com/t/701749) 
-- [2020-08-26-Markdown-Here-插件为何会使用-squoosh-的-js](https://www.v2ex.com/t/701741) 
-- [2020-08-26-请教一个编程技巧，有没有办法把-websocket-的通讯装到-Promise-里面去？](https://www.v2ex.com/t/701731) 
+- [2020-08-27-Python-的-execjs-库怎么才能模拟-require.js-的加载机制?](https://www.v2ex.com/t/701898) 
+- [2020-08-27-Jackson-用树模型处理-JSON-是必备技能，不信你看](https://toutiao.io/k/iugppfh) 
+- [2020-08-27-想要在-JS-中把正则玩得飘逸，学会这几个函数的使用必不可少](https://toutiao.io/k/fmqrboe) 
 - [2020-08-07-【安全圈】路由器,交换机和AnyConnect-VPN中的高度严重漏洞](https://sec.thief.one/article_content?a_id=1c9ffbde3b409b310e18dcadfbe69b72) 

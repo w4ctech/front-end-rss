@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-27 12:48:21，:rocket: 更新条数: +3348， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-27 13:02:20，:rocket: 更新条数: +3348， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1154,6 +1154,7 @@
 - [2020-08-25-PyTorch-实现,GitHub-4000-星:这是微软开源的计算机视觉库](https://sec.thief.one/article_content?a_id=42a600770d2ccfe348622b7b3d3075fb) ![](assets/new.png)  
 - [2020-08-25-卧槽!微软Python入门课居然汉化了!](https://sec.thief.one/article_content?a_id=d6e63fefc8044a4c708fb710eb80f2f7) ![](assets/new.png)  
 - [2020-08-25-第四届强网杯-Writeup](https://sec.thief.one/article_content?a_id=03ce2a40fea38e1ba4a3ff6e81c70af4) ![](assets/new.png)  
+- [2020-08-24-特斯拉和拼多多“拒交门”背后的逻辑:替你铺路的人,将左右你的路](https://sec.thief.one/article_content?a_id=90e605866f68e7117b94a04e6f29bf44) ![](assets/new.png)  
 - [2020-08-21-【安全热点周报】第156期:被列入美国“实体名单”的企业禁止使用...](https://sec.thief.one/article_content?a_id=25fbfef3add42ab624ef4167dd7c2734) ![](assets/new.png)  
 - [2020-08-21-小心恶意软件掏空你的手机~](https://sec.thief.one/article_content?a_id=e2dafb568c1a208c2eb62a589d04e719) ![](assets/new.png)  
 - [2020-08-20-盘点|2020上半年八大应急响应典型案例分析](https://sec.thief.one/article_content?a_id=2bd9c68a5a211e89dd72d14604cd352a) ![](assets/new.png)  
@@ -1169,7 +1170,6 @@
 - [2020-08-18-Apache-Shiro身份验证绕过漏洞风险提示](https://sec.thief.one/article_content?a_id=a13eefc82748a2cd020fe7ab90437d78) ![](assets/new.png)  
 - [2020-08-18-上来直接放0day大招,一天给一个月的活干完了!](https://sec.thief.one/article_content?a_id=9426bf0796551bd45617fb135edde55b) ![](assets/new.png)  
 - [2020-08-18-记一次有趣的APP反编译的过程](https://sec.thief.one/article_content?a_id=14837b2ad1cf82f3abafae3300ff0c11) ![](assets/new.png)  
-- [2020-08-17-2020.8.17红队威胁情报-日更](https://sec.thief.one/article_content?a_id=152bfd080a496e0c0bd2b9874bfdff47) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

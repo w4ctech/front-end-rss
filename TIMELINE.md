@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-27 12:48:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-27 13:02:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -621,6 +621,7 @@
 - [【安全热点】2020-08-25-PyTorch-实现,GitHub-4000-星:这是微软开源的计算机视觉库](https://sec.thief.one/article_content?a_id=42a600770d2ccfe348622b7b3d3075fb) 
 - [【安全热点】2020-08-25-卧槽!微软Python入门课居然汉化了!](https://sec.thief.one/article_content?a_id=d6e63fefc8044a4c708fb710eb80f2f7) 
 - [【安全热点】2020-08-25-第四届强网杯-Writeup](https://sec.thief.one/article_content?a_id=03ce2a40fea38e1ba4a3ff6e81c70af4) 
+- [【安全热点】2020-08-24-特斯拉和拼多多“拒交门”背后的逻辑:替你铺路的人,将左右你的路](https://sec.thief.one/article_content?a_id=90e605866f68e7117b94a04e6f29bf44) 
 - [【安全热点】2020-08-21-【安全热点周报】第156期:被列入美国“实体名单”的企业禁止使用...](https://sec.thief.one/article_content?a_id=25fbfef3add42ab624ef4167dd7c2734) 
 - [【安全热点】2020-08-21-小心恶意软件掏空你的手机~](https://sec.thief.one/article_content?a_id=e2dafb568c1a208c2eb62a589d04e719) 
 - [【安全热点】2020-08-20-盘点|2020上半年八大应急响应典型案例分析](https://sec.thief.one/article_content?a_id=2bd9c68a5a211e89dd72d14604cd352a) 
@@ -716,7 +717,6 @@
 - [【安全热点】2020-08-07-交行、招行分别被罚100万:对客户个人信息未尽安全保护义务](https://sec.thief.one/article_content?a_id=a901750498cf374bb1d51b7ae4cd3f58) 
 - [【安全热点】2020-08-07-Python编程语言的核心是什么?](https://sec.thief.one/article_content?a_id=e0dbd1228f4186c315d8497d80a6a138) 
 - [【安全热点】2020-08-06-四年磨一剑,腾讯安全联合实验室最强战绩一览](https://sec.thief.one/article_content?a_id=fb2693044377f81dfece6ed5830f9d3b) 
-- [【安全热点】2020-08-06-【新职业-新机遇】人工智能“训练员”,让AI更聪明](https://sec.thief.one/article_content?a_id=31f47f67054d54621f883db64154ab54) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

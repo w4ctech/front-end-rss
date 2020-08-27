@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-27 15:33:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-27 15:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,9 +38,6 @@
 - [2020-08-25-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/8adab04cfeb6a2825d1afeaceb5fa141) 
 - [2020-08-24-target-=-“_-blank”背后的隐藏漏洞](https://www.ershicimi.com/p/8aea060e252affcf9ee57f387fd27213) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-08-27-Chrome-插件商店镜像，国内使用更方便，顺便收录各位大佬插件，请留下插件-ID](https://www.v2ex.com/t/701907) 
-- [2020-08-27-🐻推特翻译熊---Twitter-with-Baidu-Translator-一款显著提高日推（Twitter）刷推体验的-Chrome-插件](https://www.v2ex.com/t/701900) 
-- [2020-08-27-上海-20-40k-ARKIE-招高级前端工程师](https://www.v2ex.com/t/701896) 
 - [2020-08-27-不要让-Chrome-成为下一个-IE！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-sYSSTkU0wqZ4n_RE4w81Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-27-DataFrame、Series、array、tensor-的创建及相互转化](https://toutiao.io/k/w33l5fc) 
 - [2020-08-27-哇，ElasticSearch-多字段权重排序居然可以这么玩](https://toutiao.io/k/xftobm2) 

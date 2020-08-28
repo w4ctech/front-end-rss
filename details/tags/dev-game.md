@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-28 08:02:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-28 08:12:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,4 +28,3 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-08-20-「致知计划动漫游戏季」2-亿流量-30-万现金大奖等你拿](https://www.ershicimi.com/p/e94fbdf2ad8480940d8a7a5d6b48fe61) 
-- [2020-08-27-现在游戏后端是怎么做存储的？](https://www.v2ex.com/t/702018) 

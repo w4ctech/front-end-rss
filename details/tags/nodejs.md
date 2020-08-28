@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-28 08:02:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-28 08:12:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -12,9 +12,9 @@
 - [2020-08-26-Electron-安装过程深入解析-|-留言送书](https://www.ershicimi.com/p/9d7a7d31db73d2460bba0c5463b2b204) 
 - [2020-08-02-如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082) 
 - [2020-08-18-用（Node+MongoDB）搭建最简单的图床或者网盘](https://www.ershicimi.com/p/b4e4ab5ba244a19a1c376d8ae96563a7) 
+- [2020-08-27-如何科学修改-node_modules-里的文件](https://www.ershicimi.com/p/5b9e2ef051d363ea1c961e01df904640) 
 - [2020-08-25-语雀的技术架构演进之路-Node.js-技术栈](https://www.ershicimi.com/p/750c2e9ffded02efc20f038cd4bf293b) 
 - [2020-08-21-（有趣问答）2019年nodejs凉了吗？凉到什么程度了？](https://www.ershicimi.com/p/fa74cf36712d4455b2435e4d05fd8a93) 
-- [2020-08-15-你可能需要一个优质-前端Node-交流群](https://www.ershicimi.com/p/6c29dd30e4979644fd5e458c47f7699f) 
 - [2020-08-24-如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/f492d329ae09069db4024ed25a7531ee) 
 - [2020-08-23-CNodejs每日新闻周刊｜第-3-期](https://www.ershicimi.com/p/aa8ce2fb495c2ce2e13fe5d917ab5741) 
 - [2020-08-23-CNodejs每日新闻周刊｜第-2-期](https://www.ershicimi.com/p/b770e0e896eaae7a0368cd15b5b8a48a) 
@@ -32,4 +32,4 @@
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
-- [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
+- [2020-08-28-搭建-K8S-集群之-node-节点部署](https://toutiao.io/k/4ar6i06) 

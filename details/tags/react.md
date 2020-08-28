@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-28 20:12:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-28 20:23:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -44,4 +44,4 @@
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-08-23-为什么我不再用Redux了](https://www.ershicimi.com/p/b7ebad00483b283493e2e5171ae28990) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 
-- [2020-08-28-你真的会用-React-useEffect-了吗](https://www.v2ex.com/t/702216) 
+- [2020-08-27-React高阶用法之Render-Props](https://juejin.im/post/6865585305206915079) 

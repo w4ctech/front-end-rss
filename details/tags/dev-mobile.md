@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-28 20:12:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-28 20:23:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -8,3 +8,4 @@
 
 
 - [2020-08-26-分享-Flutter-学习总结](https://www.ershicimi.com/p/00e7b0fcbc519b73b15d21a31b294c68) 
+- [2020-08-27-Flutter-Candies-糖果小助手](https://juejin.im/post/6865846819554623502) 

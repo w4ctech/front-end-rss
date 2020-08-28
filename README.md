@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-28 20:12:23，:rocket: 更新条数: +3570， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-28 20:23:01，:rocket: 更新条数: +3569， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,11 +64,12 @@
 </summary>
 
 
-- [2020-08-27-8月27日全国新增境外输入新冠9例](https://m.caixin.com/m/2020-08-28/101598080.html) ![](assets/new.png)  
+- [2020-08-27-最新疫情：全国新冠累计确诊85013例-新增境外输入9例](https://m.caixin.com/m/2020-08-28/101598442.html) ![](assets/new.png)  
+- [2020-08-27-最新海外疫情：新冠感染超2432万-累计死亡超82.6万](http://m.international.caixin.com/m/2020-08-28/101598451.html) ![](assets/new.png)  
 - [2020-08-27-【境内疫情观察】全国新增9例境外输入病例（8月27日）](http://m.database.caixin.com/m/2020-08-28/101598252.html) ![](assets/new.png)  
 - [2020-08-27-大流行手记|8月27日：全球多个二次感染病例浮现-美国缩小新冠检测范围引担忧](https://m.caixin.com/m/2020-08-28/101598091.html) ![](assets/new.png)  
+- [2020-08-27-欧洲多国解封后单日新增又创新高-年轻人感染率激增](http://m.international.caixin.com/m/2020-08-28/101598512.html) ![](assets/new.png)  
 - [2020-08-26-香港全民检测在即-华大回应检测准确率疑云](https://m.caixin.com/m/2020-08-27/101597833.html) ![](assets/new.png)  
-- [2020-08-26-最新海外疫情：新冠感染近2405万-累计死亡超82万](http://m.international.caixin.com/m/2020-08-27/101597915.html) ![](assets/new.png)  
 - [2020-08-26-【境内疫情观察】全国新增8例境外输入病例（8月26日）](http://m.database.caixin.com/m/2020-08-27/101597696.html) ![](assets/new.png)  
 - [2020-08-26-大流行手记|8月26日：美国多所高校暴发疫情-韩国首都圈学校恢复网课](https://m.caixin.com/m/2020-08-27/101597570.html) ![](assets/new.png)  
 - [2020-08-25-港大教授详解二次感染病例-还要不要接种新冠疫苗？](http://m.china.caixin.com/m/2020-08-26/101597053.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-22-【境内疫情观察】全国新增12例境外输入病例（8月22日）](http://m.database.caixin.com/m/2020-08-23/101596003.html) ![](assets/new.png)  
 - [2020-08-22-大流行手记|8月22日：全球经济衰退-一亿人或重返极端贫困](https://m.caixin.com/m/2020-08-23/101595980.html) ![](assets/new.png)  
 - [2020-08-21-【境内疫情观察】上海新增13例境外输入病例（8月21日）](http://m.database.caixin.com/m/2020-08-22/101595840.html) ![](assets/new.png)  
-- [2020-08-21-大流行手记|8月21日：日本拟开放外国人入境-俄疫苗上市后方做三期临床](https://m.caixin.com/m/2020-08-22/101595776.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-08-28-拉美地区新冠肺炎累计确诊人数超过700万，阿根廷连续两天新增确诊病例超万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1xw834ETPCWzg3UchNeI200828&isfromapp=1) ![](assets/new.png)  
-- [2020-08-28-电影院等公共场所重开，香港放宽多项防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS9zhUb7HaE7kgFR4woay200828&isfromapp=1) ![](assets/new.png)  
-- [2020-08-28-国家林草局：9月底前完成禁食野生动物后续工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAHIJKqUYCcUppfQE9lP200828&isfromapp=1) ![](assets/new.png)  
-- [2020-08-28-抗击新冠疫情拟表彰1500人名单公示](http://m.weibo.cn/2803301701/4542848990978159) ![](assets/new.png)  
-- [2020-08-28-韩国新冠肺炎累计确诊病例超1.9万例-将延长防疫二级响应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBlBZxx4N5he359DiQZX3200828&isfromapp=1) ![](assets/new.png)  
+- [2020-08-28-韩国新冠肺炎确诊人数达-19077-例，首都圈继续强化防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBZtfhNcsEzIiuNvinxQn200828&isfromapp=1) ![](assets/new.png)  
+- [2020-08-28-乌鲁木齐市部分区（县）调整风险等级为低风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipZngCoa3Lc1FeJxzugyh200828&isfromapp=1) ![](assets/new.png)  
+- [2020-08-28-深圳-8·14-疫情大排查结束！社区传播风险基本消除](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilGGjNt3CmQts6YrWUX3D200828&isfromapp=1) ![](assets/new.png)  
+- [2020-08-28-法国多地宣布实施口罩强制佩戴令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixHDz1YlPlGvVXvuiYNCc200828&isfromapp=1) ![](assets/new.png)  
+- [2020-08-28-内地核酸检测支援队抵达香港，特区政府及各界表示热烈欢迎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8RtR6R2sZqgEjgsuXn8w200828&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -812,6 +812,7 @@
 </summary>
 
 
+- [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) ![](assets/new.png)  
 - [2020-08-25-为什么阿里P6+前端这么值钱?](https://www.ershicimi.com/p/d511f2ae3591d2f8c141251a38ea29fd) ![](assets/new.png)  
 - [2020-08-24-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/11844956143091a3f5f4e75b947343e6) ![](assets/new.png)  
 - [2020-08-21-前端的核心竞争力在哪里？](https://www.ershicimi.com/p/e4649c2d813951cb3234f4dfa6d99e5a) ![](assets/new.png)  
@@ -831,7 +832,6 @@
 - [2020-07-13-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/d4461ae1d17f7dc46e2028920b7b2b6f) ![](assets/new.png)  
 - [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) ![](assets/new.png)  
 - [2020-07-07-【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6) ![](assets/new.png)  
-- [2020-07-06-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/bdcb031876cb4a1ccf3e34e88ceb7dec) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,11 +967,11 @@
 </summary>
 
 
-- [2020-08-27-如何实现无限累加的一个函数](https://juejin.im/post/6865805857976745998) ![](assets/new.png)  
+- [2020-08-27-使用-Lighthouse-CI-进行前端页面性能分析-一](https://juejin.im/post/6865908266199842824) ![](assets/new.png)  
+- [2020-08-27-IphoneX适配正确姿势](https://juejin.im/post/6865873665104773128) ![](assets/new.png)  
+- [2020-08-27-Flutter-Candies-糖果小助手](https://juejin.im/post/6865846819554623502) ![](assets/new.png)  
 - [2020-08-27-一天一大-lee重新安排行程难度:中等-Day20200827](https://juejin.im/post/6865690302380769293) ![](assets/new.png)  
-- [2020-08-27-优雅的使用icon之svg](https://juejin.im/post/6865599905436696583) ![](assets/new.png)  
-- [2020-08-27-一年前端面试指南（万字详细答案）](https://juejin.im/post/6865600010570989582) ![](assets/new.png)  
-- [2020-08-23-Web翻译简化Angular变化检测](https://juejin.im/post/6864339862213001229) ![](assets/new.png)  
+- [2020-08-27-React高阶用法之Render-Props](https://juejin.im/post/6865585305206915079) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,26 +1077,26 @@
 </summary>
 
 
-- [2020-08-28-突然发现-Chrome-的标签群组还不错](https://www.v2ex.com/t/702241) ![](assets/new.png)  
-- [2020-08-28-腾讯云-cos-挂了一个-hugo-静态博客，-cdn-刷新遇到了坑](https://www.v2ex.com/t/702240) ![](assets/new.png)  
-- [2020-08-28-手机试玩之多多红包](https://www.v2ex.com/t/702239) ![](assets/new.png)  
-- [2020-08-28-求助一个算法问题，老板发怒了，急](https://www.v2ex.com/t/702238) ![](assets/new.png)  
-- [2020-08-28-C++/Qt-做了个批量自动抠图的小软件，调-removebg-的-api，可生成高清图](https://www.v2ex.com/t/702237) ![](assets/new.png)  
-- [2020-08-28-影响体验，但功能满足，且不是主力场景的特性，你们一般如何处理](https://www.v2ex.com/t/702236) ![](assets/new.png)  
-- [2020-08-28-大家听歌之后会自动脑放吗？](https://www.v2ex.com/t/702235) ![](assets/new.png)  
-- [2020-08-28-Git-diff-如何以文件为单位显示变动？](https://www.v2ex.com/t/702233) ![](assets/new.png)  
-- [2020-08-28-对一件不熟悉的事（选专业方面）表达了轻率的观点，有点心虚，听听大家的看法](https://www.v2ex.com/t/702232) ![](assets/new.png)  
-- [2020-08-28-杭州/上海哈啰出行-Java-开发-社招-S3/S4-级别](https://www.v2ex.com/t/702231) ![](assets/new.png)  
-- [2020-08-28-有办法可以自动判断我的工程最低需要什么版本的-Python-吗？](https://www.v2ex.com/t/702229) ![](assets/new.png)  
-- [2020-08-28-字节跳动杭州-Data-团队招聘-后端,-算法,-SRE,-大数据](https://www.v2ex.com/t/702227) ![](assets/new.png)  
-- [2020-08-28-毕业一年多在外面租房有必要提取公积金吗](https://www.v2ex.com/t/702225) ![](assets/new.png)  
-- [2020-08-28-北京/上海字节跳动-AI-Lab-后台开发工程师-校招&社招&实习](https://www.v2ex.com/t/702224) ![](assets/new.png)  
-- [2020-08-28-字节跳动杭州-Data-团队招聘](https://www.v2ex.com/t/702223) ![](assets/new.png)  
-- [2020-08-28-互联网跨行转地产销售，拿了恒大和新力两个公司的-offer，现在怎么选。。。](https://www.v2ex.com/t/702222) ![](assets/new.png)  
-- [2020-08-28-一个简单的教学直播-app，安卓端和-iOS-端，外包开发大约需要多少钱？](https://www.v2ex.com/t/702221) ![](assets/new.png)  
-- [2020-08-28-每天中午下午两点多人都处于迷迷糊糊的状态？一般晚-12:00-睡-早-7:00-起床-过了下午三点就又来精神了-这样正常嘛？](https://www.v2ex.com/t/702220) ![](assets/new.png)  
-- [2020-08-28-大佬们，有没有好的办法获取渲染后的-html-片段带样式](https://www.v2ex.com/t/702218) ![](assets/new.png)  
-- [2020-08-28-有个问题问问大家关于最大打开文件数、/etc/hosts-已经域名解析的一些事](https://www.v2ex.com/t/702217) ![](assets/new.png)  
+- [2020-08-28-华为云国内延迟低](https://www.v2ex.com/t/702327) ![](assets/new.png)  
+- [2020-08-28-广东中山移动携转之后-29-元-300m2-年](https://www.v2ex.com/t/702326) ![](assets/new.png)  
+- [2020-08-28-学生刚工作，打算慢慢开始理财，求教。](https://www.v2ex.com/t/702323) ![](assets/new.png)  
+- [2020-08-28-黑果，有一定概在睡眠时立即重启,老哥们看看问题出在哪里？](https://www.v2ex.com/t/702322) ![](assets/new.png)  
+- [2020-08-28-平面设计转编程，刚开始怎么初学？](https://www.v2ex.com/t/702321) ![](assets/new.png)  
+- [2020-08-28-有啥靠谱实惠的海外代理-ip，我是不太懂，越实惠越好。](https://www.v2ex.com/t/702320) ![](assets/new.png)  
+- [2020-08-28-J4125-低功耗-2.5G-迷你软路由详细折腾心得](https://www.v2ex.com/t/702319) ![](assets/new.png)  
+- [2020-08-28-你们看-Apple-Music-的滚动歌词发烫吗？](https://www.v2ex.com/t/702318) ![](assets/new.png)  
+- [2020-08-28-独立开发者社区建立一周年纪念！还活着-~](https://www.v2ex.com/t/702317) ![](assets/new.png)  
+- [2020-08-28-请问爬虫高手为什么每次-scrapy-用-xpath-的-extract_first-或者-get-总是会有这个-class-的前缀出现???](https://www.v2ex.com/t/702316) ![](assets/new.png)  
+- [2020-08-28-Java-中-notify在最开始和在最后没有区别吗?](https://www.v2ex.com/t/702315) ![](assets/new.png)  
+- [2020-08-28-杭州-内推直招-分布式大数据-蚂蚁科技旗下世界领先的分布式数据库-OceanBase-刚成立新公司，急聘多名前端工程师，业务稳空间大,-P6~P8](https://www.v2ex.com/t/702314) ![](assets/new.png)  
+- [2020-08-28-有些-ZF-网站是不是下班的时候会顺手把服务器关了？？](https://www.v2ex.com/t/702312) ![](assets/new.png)  
+- [2020-08-28-要不要辞职？](https://www.v2ex.com/t/702311) ![](assets/new.png)  
+- [2020-08-28-希望考非全的大哥们能给点建议](https://www.v2ex.com/t/702310) ![](assets/new.png)  
+- [2020-08-28-请求删除我的账号及发言](https://www.v2ex.com/t/702307) ![](assets/new.png)  
+- [2020-08-28-有没有可能性把雷电-3-的充电线分离开来，让大部分设备实现-100w-或者更高的充电速度](https://www.v2ex.com/t/702306) ![](assets/new.png)  
+- [2020-08-28-有人有被别人表达好感之后就心生厌恶吗](https://www.v2ex.com/t/702302) ![](assets/new.png)  
+- [2020-08-28-垃圾-251-云](https://www.v2ex.com/t/702301) ![](assets/new.png)  
+- [2020-08-28-字节内推-字节跳动创新业务中心落地成都！计划投资-100-亿！-5-年内员工规模将达-1-万人！还不快来上车？](https://www.v2ex.com/t/702300) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,22 +1143,22 @@
 - [2020-08-28-一个工作三年的同事，居然还搞不清深拷贝、浅拷贝...](https://toutiao.io/k/oqtp5ib) ![](assets/new.png)  
 - [2020-08-28-搭建-K8S-集群之-node-节点部署](https://toutiao.io/k/4ar6i06) ![](assets/new.png)  
 - [2020-08-28-云原生时代消息中间件的演进路线](https://toutiao.io/k/colr6z5) ![](assets/new.png)  
-- [2020-08-28-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
-- [2020-08-28-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
 - [2020-08-28-RTC-技术科普：什么是视频编码](https://toutiao.io/k/i3om210) ![](assets/new.png)  
+- [2020-08-28-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
+- [2020-08-28-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) ![](assets/new.png)  
+- [2020-08-28-分布式系统入门之路](https://toutiao.io/k/myqyxe0) ![](assets/new.png)  
+- [2020-08-28-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
 - [2020-08-28-作为程序员你不知道-Redis-持久化，如何通过面试？](https://toutiao.io/k/6dwivtm) ![](assets/new.png)  
 - [2020-08-28-网站图标开发指南](https://toutiao.io/k/wjr32y6) ![](assets/new.png)  
 - [2020-08-28-程序员进阶系列：年少不懂爱加加，懂了已是猿中人](https://toutiao.io/k/niuc8fh) ![](assets/new.png)  
 - [2020-08-28-Thanos-与-VictoriaMetrics，谁才是打造大型-Prometheus-监控系统的王者？](https://toutiao.io/k/oolya77) ![](assets/new.png)  
 - [2020-08-28-Google-Cloud-服务网格：Traffic-Director-与-Anthos-Service-Mesh-的左右互搏](https://toutiao.io/k/h86exeb) ![](assets/new.png)  
-- [2020-08-28-10-年测试，第一课](https://toutiao.io/k/6tqte0l) ![](assets/new.png)  
 - [2020-08-28-Go-内存管理之代码的逃逸分析](https://toutiao.io/k/sn4xvrd) ![](assets/new.png)  
-- [2020-08-28-基于-Proxy-的线程通信新方案](https://toutiao.io/k/vdfadri) ![](assets/new.png)  
-- [2020-08-28-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) ![](assets/new.png)  
-- [2020-08-28-分布式系统入门之路](https://toutiao.io/k/myqyxe0) ![](assets/new.png)  
-- [2020-08-28-实时数仓在滴滴的实践和落地](https://toutiao.io/k/8g42wm9) ![](assets/new.png)  
-- [2020-08-28-我想贪图安逸，但又不甘心，怎么办？](https://toutiao.io/k/0ta5lxe) ![](assets/new.png)  
+- [2020-08-28-10-年测试，第一课](https://toutiao.io/k/6tqte0l) ![](assets/new.png)  
 - [2020-08-28-彻底弄懂-TCP-协议：从三次握手说起](https://toutiao.io/k/g6ttk6b) ![](assets/new.png)  
+- [2020-08-28-实时数仓在滴滴的实践和落地](https://toutiao.io/k/8g42wm9) ![](assets/new.png)  
+- [2020-08-28-基于-Proxy-的线程通信新方案](https://toutiao.io/k/vdfadri) ![](assets/new.png)  
+- [2020-08-28-我想贪图安逸，但又不甘心，怎么办？](https://toutiao.io/k/0ta5lxe) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

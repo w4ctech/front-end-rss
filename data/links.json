@@ -14952,7 +14952,23 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": []
+    "items": [
+      {
+        "title": "科技爱好者周刊（第 122 期）：谈谈互联网公司的高估值",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html",
+        "date": "2020-08-28"
+      },
+      {
+        "title": "rsync 用法教程",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/rsync.html",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "科技爱好者周刊（第 121 期）：为什么人类没有越来越闲？",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html",
+        "date": "2020-08-21"
+      }
+    ]
   },
   {
     "rss": "http://jdc.jd.com/feed",

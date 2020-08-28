@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-28 12:48:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-28 13:02:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,14 +31,6 @@
 - [2020-08-21-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b5461c81ed335f6665ccd2c399c37edf) 
 - [2020-08-20-Chrome插件扩展开发全攻略](https://www.ershicimi.com/p/3ebc28db5f973abcff97880dc5b4a8e1) 
 - [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-08-25-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/8adab04cfeb6a2825d1afeaceb5fa141) 
@@ -66,5 +58,3 @@
 - [2020-08-07-2020中国网络安全年会即将召开-强大嘉宾阵容不容错过!](https://sec.thief.one/article_content?a_id=ed7075379c3f2f8a6143355bcfb50245) 
 - [2020-08-07-先睹为快-|-绿盟科技首部安全服务题材微电影震撼来袭,精彩预告抢先看](https://sec.thief.one/article_content?a_id=4cbd57f01d6ac1c172cafe59f27a4b6c) 
 - [2020-08-07-全国20余省市“新基建”政策盘点:网络安全迎来哪些发展利好?](https://sec.thief.one/article_content?a_id=d20b6d122a865794f78217bcbcf6017f) 
-- [2020-08-07-从“被动应对”到“主动进化”——AI算法在流量分析安全攻防中的应...](https://sec.thief.one/article_content?a_id=fa4d6e8ef0ce0fb532fda99585ab46b9) 
-- [2020-08-07-BCS-2020-安全创客汇10强创客强在哪?](https://sec.thief.one/article_content?a_id=2747795131617047802884dfa28c542c) 

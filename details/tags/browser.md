@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-28 10:48:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-28 11:02:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,14 +31,6 @@
 - [2020-08-21-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b5461c81ed335f6665ccd2c399c37edf) 
 - [2020-08-20-Chrome插件扩展开发全攻略](https://www.ershicimi.com/p/3ebc28db5f973abcff97880dc5b4a8e1) 
 - [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-08-25-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/8adab04cfeb6a2825d1afeaceb5fa141) 
@@ -48,6 +40,7 @@
 - [2020-08-28-大佬们，有没有好的办法获取渲染后的-html-片段带样式](https://www.v2ex.com/t/702218) 
 - [2020-08-28-不要让-Chrome-成为下一个-IE！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-sYSSTkU0wqZ4n_RE4w81Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-28-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
+- [2020-08-28-国家标准、地方政策、案件处罚:近期关键信息基础设施安全资讯一览](https://sec.thief.one/article_content?a_id=fc6227f3db0824af3ff1be7b79764973) 
 - [2020-08-21-【安全热点周报】第156期:被列入美国“实体名单”的企业禁止使用...](https://sec.thief.one/article_content?a_id=25fbfef3add42ab624ef4167dd7c2734) 
 - [2020-08-20-再签某大型国有银行,国舜股份为客户核心业务系统上线提供安全赋能](https://sec.thief.one/article_content?a_id=da7b8071315719b1f18f465fe957eed7) 
 - [2020-08-14-360欧阳梅雯:安全领域创新正上演”冰与火之歌](https://sec.thief.one/article_content?a_id=99684aca9bbf87efcae63daf2d430094) 
@@ -67,5 +60,3 @@
 - [2020-08-07-全国20余省市“新基建”政策盘点:网络安全迎来哪些发展利好?](https://sec.thief.one/article_content?a_id=d20b6d122a865794f78217bcbcf6017f) 
 - [2020-08-07-从“被动应对”到“主动进化”——AI算法在流量分析安全攻防中的应...](https://sec.thief.one/article_content?a_id=fa4d6e8ef0ce0fb532fda99585ab46b9) 
 - [2020-08-07-BCS-2020-安全创客汇10强创客强在哪?](https://sec.thief.one/article_content?a_id=2747795131617047802884dfa28c542c) 
-- [2020-08-07-交行、招行分别被罚100万:对客户个人信息未尽安全保护义务](https://sec.thief.one/article_content?a_id=a901750498cf374bb1d51b7ae4cd3f58) 
-- [2020-08-06-四年磨一剑,腾讯安全联合实验室最强战绩一览](https://sec.thief.one/article_content?a_id=fb2693044377f81dfece6ed5830f9d3b) 

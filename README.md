@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-29 12:46:22，:rocket: 更新条数: +3345， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-29 12:48:26，:rocket: 更新条数: +3345， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -229,6 +229,9 @@
 </summary>
 
 
+- [2020-08-28-【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a) ![](assets/new.png)  
+- [2020-08-28-【招聘】上海意派信息科技有限公司招前端研发工程师](https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c) ![](assets/new.png)  
+- [2020-08-28-【第2047期】如何使用AVIF：新一代图像压缩格式](https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53) ![](assets/new.png)  
 - [2020-08-26-【第2046期】苹果-App-Clip-技术详解](https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91) ![](assets/new.png)  
 - [2020-08-26-【重磅】飞冰（ICE）终于支持无线开发了](https://www.ershicimi.com/p/0e35a7f9130b107de41f3aa4482b066c) ![](assets/new.png)  
 - [2020-08-25-【第2045期】从零开始实现VS-Code基金插件](https://www.ershicimi.com/p/fb15505fd6f7debd9827389b1cc632aa) ![](assets/new.png)  
@@ -246,9 +249,6 @@
 - [2020-08-19-【图书】JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/0670af4c43a69b00c705bafb864ad249) ![](assets/new.png)  
 - [2020-08-18-【第2038期】使用滚动特效的最佳实践](https://www.ershicimi.com/p/f101c6e7a2e764911b2c8c10c82bb979) ![](assets/new.png)  
 - [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/5f009967cba7777eba39d4014c783399) ![](assets/new.png)  
-- [2020-08-17-【第2037期】React-Hooks-实践指南](https://www.ershicimi.com/p/1528e240db95f11b550049648079f145) ![](assets/new.png)  
-- [2020-08-16-【第2036期】如何将Canvas绘制过程转为视频](https://www.ershicimi.com/p/727e24fa191cab2b75d598dda8a41335) ![](assets/new.png)  
-- [2020-08-15-【第2035期】React-17-RC-版发布：无新特性，却有新期待！](https://www.ershicimi.com/p/bc2f78439648d4259c89c2977e549c86) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -854,6 +854,12 @@
 </summary>
 
 
+- [2020-08-29-fastjson的作者，在阿里内网挨骂了？！](https://www.ershicimi.com/p/c59bd6c77198c5afe06b0b3bc358124c) ![](assets/new.png)  
+- [2020-08-29-Docker-被禁？还有千千万万个-Docker-站起来！！](https://www.ershicimi.com/p/d5c91aa7e77aae71171736ae0ee14ac3) ![](assets/new.png)  
+- [2020-08-29-还在用Swagger（丝袜哥）管理接口文档？我推荐你试试它.....](https://www.ershicimi.com/p/ba99747b4ee788033660930cd13bed73) ![](assets/new.png)  
+- [2020-08-28-字节面试归来，四面竟然都考了算法！](https://www.ershicimi.com/p/93870384e86285174416f385a64c52af) ![](assets/new.png)  
+- [2020-08-28-重磅：IntelliJ-IDEA-2020.2-EAP-5-已发布，可完美支持Java-15](https://www.ershicimi.com/p/b97e8f75cef94cc3a5df3d0a1839ee7e) ![](assets/new.png)  
+- [2020-08-28-这款网络排查工具，堪称神器！](https://www.ershicimi.com/p/c6717bcd65bccaef1d794853157aaa44) ![](assets/new.png)  
 - [2020-08-27-那些还在外包公司干的程序员们，快醒醒吧！](https://www.ershicimi.com/p/a6263872c194c6c287d6e99d212573b3) ![](assets/new.png)  
 - [2020-08-27-这10个让你笑的合不拢嘴的GitHub项目，居然拿了7万星](https://www.ershicimi.com/p/616cf314d329a056fa79b55316b72f96) ![](assets/new.png)  
 - [2020-08-27-肝完这篇-TCP/IP-，我就面试去！](https://www.ershicimi.com/p/a194e1ce51cb55a03b99730e3d6c5e76) ![](assets/new.png)  
@@ -868,12 +874,6 @@
 - [2020-08-23-MySQL-not-exists-真的不走索引么?](https://www.ershicimi.com/p/ddd3f67c53b9b73f5e74c16c066ddb8e) ![](assets/new.png)  
 - [2020-08-23-不要再自己封装各种Util工具类了，这款神仙级框架你值得拥有！](https://www.ershicimi.com/p/e8f6e39f94899fc595508e35af60a8f9) ![](assets/new.png)  
 - [2020-08-23-一文讲懂什么是-vlan、三层交换机、网关、DNS、子网掩码、MAC地址](https://www.ershicimi.com/p/639c162109aa3b657d75101c5dd99fbd) ![](assets/new.png)  
-- [2020-08-23-秒杀商品超卖事故：Redis分布式锁请慎用！](https://www.ershicimi.com/p/110b4f8581e9b7c8f4a518ea33b04f29) ![](assets/new.png)  
-- [2020-08-22-软件公司与非软件公司区别（纯个人看法）](https://www.ershicimi.com/p/2e8a03530b64c027c3650ada5bf68303) ![](assets/new.png)  
-- [2020-08-22-Mybatis-框架下-SQL-注入攻击的-3-种方式，真是防不胜防！](https://www.ershicimi.com/p/8327a18c5b13f1c78b39fa00fe86f433) ![](assets/new.png)  
-- [2020-08-22-写出一手烂代码的-19-条准则！](https://www.ershicimi.com/p/1599efd832434e374599d98e4ee54b68) ![](assets/new.png)  
-- [2020-08-21-7月平均工资下来，Java程序员哭笑不得！](https://www.ershicimi.com/p/6032a371f516f224ad79e231803b70d3) ![](assets/new.png)  
-- [2020-08-21-为什么阿里规定需要在事务注解@Transactional中指定rollbackFor？](https://www.ershicimi.com/p/7bece20abfce05044a36130c80a3b3af) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

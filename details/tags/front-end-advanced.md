@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-29 12:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-29 12:48:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -13,6 +13,7 @@
 - [2020-08-17-HTTP-无状态中的-"状态"-到底指的是什么？](https://www.ershicimi.com/p/1a8dc2100ac260579c7aaa34c469588a) 
 - [2020-01-07-数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4) 
 - [2020-01-03-第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf) 
+- [2020-08-28-字节面试归来，四面竟然都考了算法！](https://www.ershicimi.com/p/93870384e86285174416f385a64c52af) 
 - [2020-08-25-WebAssembly-是-Deno-的好搭档](https://www.ershicimi.com/p/b2f131f110b2585231764c7f017fcf27) 
 - [2020-08-29-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) 
 - [2020-08-29-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) 

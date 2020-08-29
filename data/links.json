@@ -13312,6 +13312,21 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2048期】网站的不同版本可能会同时运行",
+        "link": "https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a",
+        "date": "2020-08-28"
+      },
+      {
+        "title": "【招聘】上海意派信息科技有限公司招前端研发工程师",
+        "link": "https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c",
+        "date": "2020-08-28"
+      },
+      {
+        "title": "【第2047期】如何使用AVIF：新一代图像压缩格式",
+        "link": "https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53",
+        "date": "2020-08-28"
+      },
+      {
         "title": "【第2046期】苹果 App Clip 技术详解",
         "link": "https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91",
         "date": "2020-08-26"
@@ -13395,21 +13410,6 @@
         "title": "20k以上面试必问，Webpack原理和优化",
         "link": "https://www.ershicimi.com/p/5f009967cba7777eba39d4014c783399",
         "date": "2020-08-17"
-      },
-      {
-        "title": "【第2037期】React Hooks 实践指南",
-        "link": "https://www.ershicimi.com/p/1528e240db95f11b550049648079f145",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "【第2036期】如何将Canvas绘制过程转为视频",
-        "link": "https://www.ershicimi.com/p/727e24fa191cab2b75d598dda8a41335",
-        "date": "2020-08-16"
-      },
-      {
-        "title": "【第2035期】React 17 RC 版发布：无新特性，却有新期待！",
-        "link": "https://www.ershicimi.com/p/bc2f78439648d4259c89c2977e549c86",
-        "date": "2020-08-15"
       }
     ]
   },
@@ -15380,6 +15380,36 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "fastjson的作者，在阿里内网挨骂了？！",
+        "link": "https://www.ershicimi.com/p/c59bd6c77198c5afe06b0b3bc358124c",
+        "date": "2020-08-29"
+      },
+      {
+        "title": "Docker 被禁？还有千千万万个 Docker 站起来！！",
+        "link": "https://www.ershicimi.com/p/d5c91aa7e77aae71171736ae0ee14ac3",
+        "date": "2020-08-29"
+      },
+      {
+        "title": "还在用Swagger（丝袜哥）管理接口文档？我推荐你试试它.....",
+        "link": "https://www.ershicimi.com/p/ba99747b4ee788033660930cd13bed73",
+        "date": "2020-08-29"
+      },
+      {
+        "title": "字节面试归来，四面竟然都考了算法！",
+        "link": "https://www.ershicimi.com/p/93870384e86285174416f385a64c52af",
+        "date": "2020-08-28"
+      },
+      {
+        "title": "重磅：IntelliJ IDEA 2020.2 EAP 5 已发布，可完美支持Java 15",
+        "link": "https://www.ershicimi.com/p/b97e8f75cef94cc3a5df3d0a1839ee7e",
+        "date": "2020-08-28"
+      },
+      {
+        "title": "这款网络排查工具，堪称神器！",
+        "link": "https://www.ershicimi.com/p/c6717bcd65bccaef1d794853157aaa44",
+        "date": "2020-08-28"
+      },
+      {
         "title": "那些还在外包公司干的程序员们，快醒醒吧！",
         "link": "https://www.ershicimi.com/p/a6263872c194c6c287d6e99d212573b3",
         "date": "2020-08-27"
@@ -15448,36 +15478,6 @@
         "title": "一文讲懂什么是 vlan、三层交换机、网关、DNS、子网掩码、MAC地址",
         "link": "https://www.ershicimi.com/p/639c162109aa3b657d75101c5dd99fbd",
         "date": "2020-08-23"
-      },
-      {
-        "title": "秒杀商品超卖事故：Redis分布式锁请慎用！",
-        "link": "https://www.ershicimi.com/p/110b4f8581e9b7c8f4a518ea33b04f29",
-        "date": "2020-08-23"
-      },
-      {
-        "title": "软件公司与非软件公司区别（纯个人看法）",
-        "link": "https://www.ershicimi.com/p/2e8a03530b64c027c3650ada5bf68303",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "Mybatis 框架下 SQL 注入攻击的 3 种方式，真是防不胜防！",
-        "link": "https://www.ershicimi.com/p/8327a18c5b13f1c78b39fa00fe86f433",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "写出一手烂代码的 19 条准则！",
-        "link": "https://www.ershicimi.com/p/1599efd832434e374599d98e4ee54b68",
-        "date": "2020-08-22"
-      },
-      {
-        "title": "7月平均工资下来，Java程序员哭笑不得！",
-        "link": "https://www.ershicimi.com/p/6032a371f516f224ad79e231803b70d3",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "为什么阿里规定需要在事务注解@Transactional中指定rollbackFor？",
-        "link": "https://www.ershicimi.com/p/7bece20abfce05044a36130c80a3b3af",
-        "date": "2020-08-21"
       }
     ]
   },

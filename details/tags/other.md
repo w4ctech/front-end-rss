@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-29 12:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-29 12:48:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2254,6 +2254,7 @@
 - [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) 
 - [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) 
 - [2019-10-23-实战LeetCode-系列一-题目+解析](https://www.ershicimi.com/p/0bd1f30b071658ddeeedad623bd87c57) 
+- [2020-08-28-【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a) 
 - [2020-08-26-【第2046期】苹果-App-Clip-技术详解](https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91) 
 - [2020-08-26-【重磅】飞冰（ICE）终于支持无线开发了](https://www.ershicimi.com/p/0e35a7f9130b107de41f3aa4482b066c) 
 - [2020-08-25-【第2045期】从零开始实现VS-Code基金插件](https://www.ershicimi.com/p/fb15505fd6f7debd9827389b1cc632aa) 
@@ -2406,6 +2407,9 @@
 - [2019-12-31-第35期-掌握树的四种遍历方式，以及BFS,-DFS](https://www.ershicimi.com/p/64dd6ef1b1b773b56e00263f37e6a9f3) 
 - [2019-12-27-第33期-树，二叉树，-二叉搜索树](https://www.ershicimi.com/p/89374f0929cd781ecbaed1b84ee3519f) 
 - [2019-12-25-第32期-Set-和-Map-的简单运用](https://www.ershicimi.com/p/56b110b211e2b54a8020fc2ac0d4648d) 
+- [2020-08-29-还在用Swagger（丝袜哥）管理接口文档？我推荐你试试它.....](https://www.ershicimi.com/p/ba99747b4ee788033660930cd13bed73) 
+- [2020-08-28-重磅：IntelliJ-IDEA-2020.2-EAP-5-已发布，可完美支持Java-15](https://www.ershicimi.com/p/b97e8f75cef94cc3a5df3d0a1839ee7e) 
+- [2020-08-28-这款网络排查工具，堪称神器！](https://www.ershicimi.com/p/c6717bcd65bccaef1d794853157aaa44) 
 - [2020-08-27-那些还在外包公司干的程序员们，快醒醒吧！](https://www.ershicimi.com/p/a6263872c194c6c287d6e99d212573b3) 
 - [2020-08-26-太强了！这款轻量级的数据库中间件完美解决了SpringBoot中分库分表问题？](https://www.ershicimi.com/p/79122ca6202cf5ce31618c1f0a883b4c) 
 - [2020-08-26-谷歌开源的代码评审规范，值得借鉴！](https://www.ershicimi.com/p/ce3ca943bd02532503a01b7c3ada520a) 
@@ -2417,12 +2421,6 @@
 - [2020-08-23-MySQL-not-exists-真的不走索引么?](https://www.ershicimi.com/p/ddd3f67c53b9b73f5e74c16c066ddb8e) 
 - [2020-08-23-不要再自己封装各种Util工具类了，这款神仙级框架你值得拥有！](https://www.ershicimi.com/p/e8f6e39f94899fc595508e35af60a8f9) 
 - [2020-08-23-一文讲懂什么是-vlan、三层交换机、网关、DNS、子网掩码、MAC地址](https://www.ershicimi.com/p/639c162109aa3b657d75101c5dd99fbd) 
-- [2020-08-23-秒杀商品超卖事故：Redis分布式锁请慎用！](https://www.ershicimi.com/p/110b4f8581e9b7c8f4a518ea33b04f29) 
-- [2020-08-22-软件公司与非软件公司区别（纯个人看法）](https://www.ershicimi.com/p/2e8a03530b64c027c3650ada5bf68303) 
-- [2020-08-22-Mybatis-框架下-SQL-注入攻击的-3-种方式，真是防不胜防！](https://www.ershicimi.com/p/8327a18c5b13f1c78b39fa00fe86f433) 
-- [2020-08-22-写出一手烂代码的-19-条准则！](https://www.ershicimi.com/p/1599efd832434e374599d98e4ee54b68) 
-- [2020-08-21-7月平均工资下来，Java程序员哭笑不得！](https://www.ershicimi.com/p/6032a371f516f224ad79e231803b70d3) 
-- [2020-08-21-为什么阿里规定需要在事务注解@Transactional中指定rollbackFor？](https://www.ershicimi.com/p/7bece20abfce05044a36130c80a3b3af) 
 - [2020-08-26-Kubernetes这么香，为什么谷歌还坚持使用Borg？](https://www.ershicimi.com/p/2406ef92eb4a2fad258b8a62e670cd65) 
 - [2020-08-26-写Java代码时会踩哪些坑？2.2-万字干货总结](https://www.ershicimi.com/p/25ff387937b5b4dff898d57fa38e3025) 
 - [2020-08-26-不想成为架构师的程序员，只配叫码农-｜-极客时间](https://www.ershicimi.com/p/08adc80a35d07609c92ecd16c60e277a) 

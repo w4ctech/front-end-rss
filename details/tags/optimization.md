@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-29 08:18:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-29 08:31:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -16,14 +16,12 @@
 - [2020-08-16-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/173eba198865b70c7d1f3ffb182ab705) 
 - [2020-08-09-编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab) 
 - [2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb) 
+- [2020-08-28-从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/40104f0698599d721f2fd833ca8a0558) 
 - [2020-08-23-聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/eaff4a9acf7a4e7e9c8f6e833b7c7ea1) 
 - [2020-08-21-两行代码实现图片碎片化加载](https://www.ershicimi.com/p/165b79e16b8a59b1799441768291f3f2) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2020-08-25-难搞的-Linux-性能问题，如何从内核层面解决？丨极客时间](https://www.ershicimi.com/p/de371da51f7c5c77a17ee7bc465d91b6) 
 - [2020-08-23-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-Q推荐](https://www.ershicimi.com/p/48c314f431a59179ad7bd192b40cf439) 
-- [2020-08-27-使用-Lighthouse-CI-进行前端页面性能分析-一](https://juejin.im/post/6865908266199842824) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2020-08-29-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) 
-- [2020-08-29-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) 
 - [2020-08-29-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) 

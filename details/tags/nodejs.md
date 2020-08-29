@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-29 08:18:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-29 08:31:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -25,4 +25,4 @@
 - [2020-08-13-一杯茶的时间，上手-Koa2-+-MySQL-开发](https://www.ershicimi.com/p/c7db98ad78904e16b74e417ea79c2233) 
 - [2020-08-09-CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
-- [2020-08-29-搭建-K8S-集群之-node-节点部署](https://toutiao.io/k/4ar6i06) 
+- [2020-08-29-你遇到过哪些业务场景，可以通过-node.js-实现，却是-CPU-密集型场景，并且可能需要实时返回的？](https://www.v2ex.com/t/702377) 

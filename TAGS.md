@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-29 16:07:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-29 16:16:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -472,7 +472,6 @@
 - [【全栈前端精选】HTTP-无状态中的-"状态"-到底指的是什么？](https://www.ershicimi.com/p/1a8dc2100ac260579c7aaa34c469588a)
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
-- [【互联网架构师】字节面试归来，四面竟然都考了算法！](https://www.ershicimi.com/p/93870384e86285174416f385a64c52af)
 - [【InfoQ】WebAssembly-是-Deno-的好搭档](https://www.ershicimi.com/p/b2f131f110b2585231764c7f017fcf27)
 - [【开发者头条】推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj)
 - [【开发者头条】推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k)
@@ -493,7 +492,6 @@
 
 
 
-- [【互联网架构师】Docker-被禁？还有千千万万个-Docker-站起来！！](https://www.ershicimi.com/p/d5c91aa7e77aae71171736ae0ee14ac3)
 - [【安全热点】某Nginx后门分析与重现](https://sec.thief.one/article_content?a_id=041479196ec76d97166265ce0b0d40d1)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -517,7 +515,6 @@
 - [【Nodejs技术栈】推荐一位-Github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/ed297c30ed030e57e29c4b4dfdfec211)
 - [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
-- [【互联网架构师】这10个让你笑的合不拢嘴的GitHub项目，居然拿了7万星](https://www.ershicimi.com/p/616cf314d329a056fa79b55316b72f96)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】话说-github-的项目迁移到-organization-后在自己的项目列表还能看到吗](https://www.v2ex.com/t/702422)

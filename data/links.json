@@ -12882,28 +12882,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
-        "title": "印度新增76472例新冠肺炎确诊病例 累计确诊超346万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL81pkwi06VlqTECjURzu200829&isfromapp=1",
+        "title": "意大利新增新冠肺炎确诊病例1444例 非法移民登陆者感染率约4%",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizkYi6rs5ioNfW3ABvilA200829&isfromapp=1",
         "date": "2020-08-29"
       },
       {
-        "title": "加强培训  提升秋冬季新冠疫情防控能力",
-        "link": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202008/t20200829_171883.html",
+        "title": "新加坡将对所有出租车司机及食品业从业人员进行新冠病毒检测",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGodhHXrlOQek6gBIQPMz200829&isfromapp=1",
         "date": "2020-08-29"
       },
       {
-        "title": "上海8月28日无新增本地新冠肺炎确诊病例 新增境外输入3例  治愈出院7例",
-        "link": "http://wsjkw.sh.gov.cn/xwfb/20200829/7e570b3eaf1942a1aaf47b4d3c97f438.html",
+        "title": "经济复苏略显端倪？肯尼亚茶叶价格升至5个月以来的最高点",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXGVENQkfPwHyukEBzd1V200829&isfromapp=1",
         "date": "2020-08-29"
       },
       {
-        "title": "韩国首都圈疫情仍未缓解 咖啡店将禁堂食",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ4Rk7NFesRok5D8xSuFk200829&isfromapp=1",
+        "title": "不丹宣布​疫情期间取消禁烟令 由政府直接售卖香烟",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifzxsy68cXBXhMGbkkrBs200829&isfromapp=1",
         "date": "2020-08-29"
       },
       {
-        "title": "清零！辽宁本土确诊病例全部治愈出院",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBZClzaNtDBIevDy2W3iF200829&isfromapp=1",
+        "title": "不保持距离、不戴口罩！柏林警方叫停反防疫措施游行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioum558MxspNVy001NK9X200829&isfromapp=1",
         "date": "2020-08-29"
       }
     ]
@@ -13846,6 +13846,16 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "1000+个项目的10大JavaScript错误",
+        "link": "https://www.ershicimi.com/p/51d0c0cd051627d75fc8b9b08453cc70",
+        "date": "2020-08-29"
+      },
+      {
+        "title": "哥们别闹，你离资深前端还远着呢！",
+        "link": "https://www.ershicimi.com/p/24a743a33eda3f7af6f418938e9b12c4",
+        "date": "2020-08-28"
+      },
+      {
         "title": "面试字节27K岗，3道题就被干掉",
         "link": "https://www.ershicimi.com/p/40a6d1aeb96eb3f2ea22048c808d270b",
         "date": "2020-08-27"
@@ -13934,16 +13944,6 @@
         "title": "程序员的崩溃，是从“你薪资比我高”开始的！",
         "link": "https://www.ershicimi.com/p/7d235f496b633474e136e7d048097d47",
         "date": "2020-08-14"
-      },
-      {
-        "title": "从敲下一行JS代码到这行代码被执行，中间发生了什么？",
-        "link": "https://www.ershicimi.com/p/0d5707065f98d3f894c6539137e56e8b",
-        "date": "2020-08-14"
-      },
-      {
-        "title": "前端圈的贫富差距正在拉大？",
-        "link": "https://www.ershicimi.com/p/4a7fc69bb4921680bf53f6a95d68d26f",
-        "date": "2020-08-13"
       }
     ],
     "link": "https://www.ershicimi.com/a/892"
@@ -14382,6 +14382,11 @@
     "link": "https://www.ershicimi.com/a/10195",
     "items": [
       {
+        "title": "npm 依赖管理中被忽略的那些细节",
+        "link": "https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2",
+        "date": "2020-08-23"
+      },
+      {
         "title": "政采云前端团队 2021 届校园招聘正式启动！",
         "link": "https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194",
         "date": "2020-08-19"
@@ -14475,11 +14480,6 @@
         "title": "那些一票难求的高质量前端公众号",
         "link": "https://www.ershicimi.com/p/a608db79fe2d76e19451625e9c00c238",
         "date": "2020-05-27"
-      },
-      {
-        "title": "这就是你日思夜想的 React 原生动态加载",
-        "link": "https://www.ershicimi.com/p/cdb1611bac626565c3013e6a5654e149",
-        "date": "2020-05-24"
       }
     ]
   },
@@ -14703,6 +14703,21 @@
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
       {
+        "title": "程序员成长指北开通评论了！（送一波福利）",
+        "link": "https://www.ershicimi.com/p/081fc7a728b7f2c129365f3c046841db",
+        "date": "2020-08-29"
+      },
+      {
+        "title": "想去字节面试，TypeScript 要掌握到什么程度？",
+        "link": "https://www.ershicimi.com/p/8c23ffbc4aeea978af78394d9abeaedb",
+        "date": "2020-08-28"
+      },
+      {
+        "title": "从一道面试题说起：GET 请求能传图片吗？",
+        "link": "https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091",
+        "date": "2020-08-28"
+      },
+      {
         "title": "你的 Tree-Shaking 真的起作用了吗？",
         "link": "https://www.ershicimi.com/p/1fb97f4d53c0fe40b06fb55e42cbcdef",
         "date": "2020-08-27"
@@ -14786,21 +14801,6 @@
         "title": "手写webpack核心原理，再也不怕面试官问我webpack原理",
         "link": "https://www.ershicimi.com/p/d96f15cd91f30f9344c1f816d325ae6e",
         "date": "2020-08-19"
-      },
-      {
-        "title": "如何制定企业级代码规范与检查",
-        "link": "https://www.ershicimi.com/p/c84427dbedf800d6645fcaf10f3fa2db",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "不要成为只会JS，不会写CSS的“伪前端”！",
-        "link": "https://www.ershicimi.com/p/694b31fe14a82e07d81b3d8837cd8cda",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "苹果营销页中的交互动画，见证CSS的魔力",
-        "link": "https://www.ershicimi.com/p/d922b4eb0ca34752fab50887420f1cf7",
-        "date": "2020-08-17"
       }
     ]
   },

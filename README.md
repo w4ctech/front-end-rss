@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-29 20:18:42，:rocket: 更新条数: +3565， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-29 20:31:22，:rocket: 更新条数: +3565， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-08-29-印度新增76472例新冠肺炎确诊病例-累计确诊超346万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL81pkwi06VlqTECjURzu200829&isfromapp=1) ![](assets/new.png)  
-- [2020-08-29-加强培训-提升秋冬季新冠疫情防控能力](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202008/t20200829_171883.html) ![](assets/new.png)  
-- [2020-08-29-上海8月28日无新增本地新冠肺炎确诊病例-新增境外输入3例-治愈出院7例](http://wsjkw.sh.gov.cn/xwfb/20200829/7e570b3eaf1942a1aaf47b4d3c97f438.html) ![](assets/new.png)  
-- [2020-08-29-韩国首都圈疫情仍未缓解-咖啡店将禁堂食](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ4Rk7NFesRok5D8xSuFk200829&isfromapp=1) ![](assets/new.png)  
-- [2020-08-29-清零！辽宁本土确诊病例全部治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBZClzaNtDBIevDy2W3iF200829&isfromapp=1) ![](assets/new.png)  
+- [2020-08-29-意大利新增新冠肺炎确诊病例1444例-非法移民登陆者感染率约4%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizkYi6rs5ioNfW3ABvilA200829&isfromapp=1) ![](assets/new.png)  
+- [2020-08-29-新加坡将对所有出租车司机及食品业从业人员进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGodhHXrlOQek6gBIQPMz200829&isfromapp=1) ![](assets/new.png)  
+- [2020-08-29-经济复苏略显端倪？肯尼亚茶叶价格升至5个月以来的最高点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXGVENQkfPwHyukEBzd1V200829&isfromapp=1) ![](assets/new.png)  
+- [2020-08-29-不丹宣布​疫情期间取消禁烟令-由政府直接售卖香烟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifzxsy68cXBXhMGbkkrBs200829&isfromapp=1) ![](assets/new.png)  
+- [2020-08-29-不保持距离、不戴口罩！柏林警方叫停反防疫措施游行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioum558MxspNVy001NK9X200829&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -384,6 +384,8 @@
 </summary>
 
 
+- [2020-08-29-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/51d0c0cd051627d75fc8b9b08453cc70) ![](assets/new.png)  
+- [2020-08-28-哥们别闹，你离资深前端还远着呢！](https://www.ershicimi.com/p/24a743a33eda3f7af6f418938e9b12c4) ![](assets/new.png)  
 - [2020-08-27-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/40a6d1aeb96eb3f2ea22048c808d270b) ![](assets/new.png)  
 - [2020-08-27-SCSS-—-缩减50%的样式代码](https://www.ershicimi.com/p/d438f5eaf473f48856e8bc1692e036f4) ![](assets/new.png)  
 - [2020-08-26-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/0b7180084c409fa0aff5a35d9c3c5658) ![](assets/new.png)  
@@ -402,8 +404,6 @@
 - [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/cfabfdca2a110470838f5cee4ea85d9c) ![](assets/new.png)  
 - [2020-08-15-一行能装逼的JavaScript代码](https://www.ershicimi.com/p/a4addcc1c7571c739aa7e9e2c2513dbb) ![](assets/new.png)  
 - [2020-08-14-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/7d235f496b633474e136e7d048097d47) ![](assets/new.png)  
-- [2020-08-14-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/0d5707065f98d3f894c6539137e56e8b) ![](assets/new.png)  
-- [2020-08-13-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/4a7fc69bb4921680bf53f6a95d68d26f) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -539,6 +539,7 @@
 </summary>
 
 
+- [2020-08-23-npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2) ![](assets/new.png)  
 - [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) ![](assets/new.png)  
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) ![](assets/new.png)  
 - [2020-08-13-政采云前端团队喊你来闯关了！](https://www.ershicimi.com/p/7cd1a9757ea3f0baf544e1ad26067461) ![](assets/new.png)  
@@ -558,7 +559,6 @@
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) ![](assets/new.png)  
 - [2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb) ![](assets/new.png)  
 - [2020-05-27-那些一票难求的高质量前端公众号](https://www.ershicimi.com/p/a608db79fe2d76e19451625e9c00c238) ![](assets/new.png)  
-- [2020-05-24-这就是你日思夜想的-React-原生动态加载](https://www.ershicimi.com/p/cdb1611bac626565c3013e6a5654e149) ![](assets/new.png)  
 - [......【查看更多】......](./details/政采云前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -632,6 +632,9 @@
 </summary>
 
 
+- [2020-08-29-程序员成长指北开通评论了！（送一波福利）](https://www.ershicimi.com/p/081fc7a728b7f2c129365f3c046841db) ![](assets/new.png)  
+- [2020-08-28-想去字节面试，TypeScript-要掌握到什么程度？](https://www.ershicimi.com/p/8c23ffbc4aeea978af78394d9abeaedb) ![](assets/new.png)  
+- [2020-08-28-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091) ![](assets/new.png)  
 - [2020-08-27-你的-Tree-Shaking-真的起作用了吗？](https://www.ershicimi.com/p/1fb97f4d53c0fe40b06fb55e42cbcdef) ![](assets/new.png)  
 - [2020-08-27-如何科学修改-node_modules-里的文件](https://www.ershicimi.com/p/5b9e2ef051d363ea1c961e01df904640) ![](assets/new.png)  
 - [2020-08-26-前端面试题大汇总之Webpack专题](https://www.ershicimi.com/p/7c8b1a166d982f1af40f0ed984037078) ![](assets/new.png)  
@@ -649,9 +652,6 @@
 - [2020-08-20-Chrome插件扩展开发全攻略](https://www.ershicimi.com/p/3ebc28db5f973abcff97880dc5b4a8e1) ![](assets/new.png)  
 - [2020-08-19-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/5379364f157c9bf33acff139cea6f1b3) ![](assets/new.png)  
 - [2020-08-19-手写webpack核心原理，再也不怕面试官问我webpack原理](https://www.ershicimi.com/p/d96f15cd91f30f9344c1f816d325ae6e) ![](assets/new.png)  
-- [2020-08-18-如何制定企业级代码规范与检查](https://www.ershicimi.com/p/c84427dbedf800d6645fcaf10f3fa2db) ![](assets/new.png)  
-- [2020-08-17-不要成为只会JS，不会写CSS的“伪前端”！](https://www.ershicimi.com/p/694b31fe14a82e07d81b3d8837cd8cda) ![](assets/new.png)  
-- [2020-08-17-苹果营销页中的交互动画，见证CSS的魔力](https://www.ershicimi.com/p/d922b4eb0ca34752fab50887420f1cf7) ![](assets/new.png)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

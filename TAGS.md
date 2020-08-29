@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-29 20:31:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-29 20:33:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -527,8 +527,10 @@
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】字节面试归来，四面竟然都考了算法！](https://www.ershicimi.com/p/93870384e86285174416f385a64c52af)
-- [【InfoQ】WebAssembly-是-Deno-的好搭档](https://www.ershicimi.com/p/b2f131f110b2585231764c7f017fcf27)
+- [【V2EX】请问境内哪些银行的-VISA/MasterCard-能支持在-Kickstarter-上付款?](https://www.v2ex.com/t/702501)
 - [【开发者头条】推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj)
+- [【开发者头条】推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j)
+- [【开发者头条】推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko)
 - [【开发者头条】推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k)
 - [【安全热点】Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -550,6 +552,8 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【互联网架构师】Docker-被禁？还有千千万万个-Docker-站起来！！](https://www.ershicimi.com/p/d5c91aa7e77aae71171736ae0ee14ac3)
+- [【V2EX】docker-nginx-日志如何同时-stdout-和挂载日志目录？](https://www.v2ex.com/t/702513)
+- [【V2EX】付费，写一条-nginx-规则](https://www.v2ex.com/t/702476)
 - [【安全热点】某Nginx后门分析与重现](https://sec.thief.one/article_content?a_id=041479196ec76d97166265ce0b0d40d1)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -578,7 +582,7 @@
 - [【互联网架构师】这10个让你笑的合不拢嘴的GitHub项目，居然拿了7万星](https://www.ershicimi.com/p/616cf314d329a056fa79b55316b72f96)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】话说-github-的项目迁移到-organization-后在自己的项目列表还能看到吗](https://www.v2ex.com/t/702422)
+- [【V2EX】求问，-github-上发现能满足我需求的代码，接下来具体怎么操作，怎么运行，测试？](https://www.v2ex.com/t/702489)
 - [【安全热点】PyTorch-实现,GitHub-4000-星:这是微软开源的计算机视觉库](https://sec.thief.one/article_content?a_id=42a600770d2ccfe348622b7b3d3075fb)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -683,8 +687,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊85022例-新增境外输入9例](https://m.caixin.com/m/2020-08-29/101598780.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染近2461万-累计死亡超83万](http://m.international.caixin.com/m/2020-08-29/101598798.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】辽宁本土在院病例清零（8月28日）](http://m.database.caixin.com/m/2020-08-29/101598785.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月28日：谭德赛说疫情影响精神健康-全美逾44万儿童染疫](https://m.caixin.com/m/2020-08-29/101598633.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超2432万-累计死亡超82.6万](http://m.international.caixin.com/m/2020-08-28/101598451.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增9例境外输入病例（8月27日）](http://m.database.caixin.com/m/2020-08-28/101598252.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月27日：全球多个二次感染病例浮现-美国缩小新冠检测范围引担忧](https://m.caixin.com/m/2020-08-28/101598091.html)
 - [【武汉肺炎防疫全纪录(财新网)】欧洲多国解封后单日新增又创新高-年轻人感染率激增](http://m.international.caixin.com/m/2020-08-28/101598512.html)
@@ -701,7 +706,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】印度累计确诊破300万例-已有逾1亿人失业](http://m.international.caixin.com/m/2020-08-24/101596360.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增12例境外输入病例（8月22日）](http://m.database.caixin.com/m/2020-08-23/101596003.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月22日：全球经济衰退-一亿人或重返极端贫困](https://m.caixin.com/m/2020-08-23/101595980.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】上海新增13例境外输入病例（8月21日）](http://m.database.caixin.com/m/2020-08-22/101595840.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

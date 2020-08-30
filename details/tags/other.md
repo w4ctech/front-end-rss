@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-30 08:18:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 08:31:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2506,7 +2506,6 @@
 - [2020-08-30-贷款-年利率-4.35%是个什么概念-高还是地？](https://www.v2ex.com/t/702556) 
 - [2020-08-30-上海-蚂蚁金服-金融核心技术部-Java-技术专家求贤若渴-!-机构生态服务新赛道](https://www.v2ex.com/t/702552) 
 - [2020-08-30-crontab-自动脚本求助](https://www.v2ex.com/t/702551) 
-- [2020-08-30-酒店式公寓的上网终端，-Wi-Fi-连接可以直接上网，有线连接就会跳登录页面，有没有办法绕过呀？](https://www.v2ex.com/t/702550) 
 - [2020-08-30-如何组织一场成功的Bug-Bash？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13724&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-facilitate-bug-bash%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-30-在线培训的9个原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13723&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fonline-training-priciples%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-30-Bitcask-学习笔记-old-panda.com](https://blogread.cn/news/go.php?idItem=13721&url=https%3A%2F%2Fold-panda.com%2F2020%2F08%2F23%2Fbitcask%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -2532,14 +2531,14 @@
 - [2020-08-30-前置条件断言](https://toutiao.io/k/01ah244) 
 - [2020-08-30-这是一个充满挑战的好时代](https://toutiao.io/k/7ajoa1g) 
 - [2020-08-30-Jetpack-新成员，App-Startup-一篇就懂](https://toutiao.io/k/9hls4am) 
-- [2020-08-30-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
-- [2020-08-30-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
+- [2020-08-30-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) 
 - [2020-08-30-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) 
+- [2020-08-30-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) 
+- [2020-08-30-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) 
+- [2020-08-30-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
+- [2020-08-30-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
 - [2020-08-30-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
-- [2020-08-30-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) 
 - [2020-08-30-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) 
-- [2020-08-30-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) 
-- [2020-08-30-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) 
 - [2020-08-28-齐向东:广州有四大优势,拟将奇安信大湾区总部落户海珠](https://sec.thief.one/article_content?a_id=46f3b4bed8c895360e02d56f820a3d60) 
 - [2020-08-28-科普-|-ETH2-Staking-指南-:客户端多样性为何如此重要](https://sec.thief.one/article_content?a_id=792c1505a32e56d5a56d23daa296653a) 
 - [2020-08-28-央视曝光6亿快递单号被用来洗钱;苹果或将推出基于Web的网络搜索...](https://sec.thief.one/article_content?a_id=34df5d508b50c3e5a062dfbe2b9f4ba2) 

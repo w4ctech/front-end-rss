@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-30 23:33:30，:rocket: 更新条数: +3564， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-30 23:46:17，:rocket: 更新条数: +3564， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-08-30-加拿大特朗普国际酒店破产关闭，开业仅三年](http://m.weibo.cn/3057540037/4543747155827780) ![](assets/new.png)  
-- [2020-08-30-疫后夜经济复苏-武汉夜间大巡控正式启动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij8ovHxzlbB29oOKKTuhL200830&isfromapp=1) ![](assets/new.png)  
-- [2020-08-30-受新冠疫情影响-泰国花卉出口上半年同期下跌31%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq16DshHy6EZc7PuOJrpn200830&isfromapp=1) ![](assets/new.png)  
-- [2020-08-30-全球首席财务官：更看好中国经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHAzASDQfeccis4YezPAr200830&isfromapp=1) ![](assets/new.png)  
-- [2020-08-30-111-天，全球之最！ECMO-使用时间最长的新冠肺炎患者出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXnu6wggQolUMJzDJyEt3200830&isfromapp=1) ![](assets/new.png)  
+- [2020-08-30-美国36个州报告近9千例高校确诊病例-专家建议疫情高校集中隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidsz65dS6bGgJEF1EWiMH200831&isfromapp=1) ![](assets/new.png)  
+- [2020-08-30-巴西累计新冠肺炎确诊病例超386万例-圣保罗市年轻人感染率达17.7%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid51d125UaqucN0a76XjP200831&isfromapp=1) ![](assets/new.png)  
+- [2020-08-30-​哥伦比亚9月起将重启旅游业-宾馆、海滩等场所可恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYdIQMACdnaunm5K6sVV3200831&isfromapp=1) ![](assets/new.png)  
+- [2020-08-30-全球三分之一学童疫情停课期间无法远程学习](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWH5kss3EzczL2PAAoyYW200831&isfromapp=1) ![](assets/new.png)  
+- [2020-08-30-美国高校不断暴发大规模感染事件-多地教师工会强烈抵制开学计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVxwmQ0AVwFIlILKMZXrT200831&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1149,16 @@
 - [2020-08-30-Delta-Lake-第一篇论文发布了](https://toutiao.io/k/y8b343g) ![](assets/new.png)  
 - [2020-08-30-Jetpack-新成员，App-Startup-一篇就懂](https://toutiao.io/k/9hls4am) ![](assets/new.png)  
 - [2020-08-30-前置条件断言](https://toutiao.io/k/01ah244) ![](assets/new.png)  
-- [2020-08-30-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
-- [2020-08-30-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) ![](assets/new.png)  
 - [2020-08-30-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-08-30-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
-- [2020-08-30-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
-- [2020-08-30-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
+- [2020-08-30-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
 - [2020-08-30-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
-- [2020-08-30-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) ![](assets/new.png)  
-- [2020-08-30-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
+- [2020-08-30-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
+- [2020-08-30-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
+- [2020-08-30-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
+- [2020-08-30-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) ![](assets/new.png)  
+- [2020-08-30-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
 - [2020-08-30-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
+- [2020-08-30-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

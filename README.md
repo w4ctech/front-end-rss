@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-30 10:02:53，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-30 10:08:42，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-30-好奇-0day-游戏一般发布在哪里](https://www.v2ex.com/t/702617) ![](assets/new.png)  
 - [2020-08-30-神经网络模型在训练第一个-Epoch-报出-Warning-然后继续从头开始训练循环往复，请问如何解决？](https://www.v2ex.com/t/702616) ![](assets/new.png)  
 - [2020-08-30-国内的大型零售商为啥没有人做类似山姆会员店的付费会员模式？](https://www.v2ex.com/t/702613) ![](assets/new.png)  
 - [2020-08-30-明明大家都是同一起跑线的兄弟，你却可以准备结婚了](https://www.v2ex.com/t/702611) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-30-杭州｜阿里-阿里巴巴-业务平台事业部--Java-P6/P7-交易平台，核心部门，位置多多，机会多多，待遇没得说！](https://www.v2ex.com/t/702593) ![](assets/new.png)  
 - [2020-08-30-京东-app-有一个-bug-复现百分之一百](https://www.v2ex.com/t/702588) ![](assets/new.png)  
 - [2020-08-30-当下-如何禁用-流氓启动项-CleanMyMac-X-HealthMonitor](https://www.v2ex.com/t/702586) ![](assets/new.png)  
-- [2020-08-30-滴滴出行-北京、杭州、成都、深圳内推-Java-/Android/iOS/算法/前端/-PHP-/-Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/702584) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-08-30-前置条件断言](https://toutiao.io/k/01ah244) ![](assets/new.png)  
 - [2020-08-30-Jetpack-新成员，App-Startup-一篇就懂](https://toutiao.io/k/9hls4am) ![](assets/new.png)  
 - [2020-08-30-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
-- [2020-08-30-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
+- [2020-08-30-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-30-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
+- [2020-08-30-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
+- [2020-08-30-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
 - [2020-08-30-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-08-30-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
 - [2020-08-30-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
-- [2020-08-30-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
 - [2020-08-30-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
-- [2020-08-30-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
+- [2020-08-30-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
 - [2020-08-30-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
-- [2020-08-30-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

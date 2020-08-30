@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-30 09:18:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 09:31:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-30-刚翻唱了周杰伦的《回到过去》-大家伙帮我听听唱得咋样-旺柴](https://www.v2ex.com/t/702607) 
 - [2020-08-30-emmm-帮朋友收个-airpods-二代-教育优惠的](https://www.v2ex.com/t/702606) 
 - [2020-08-30-异步函数如何强制同步执行？](https://www.v2ex.com/t/702605) 
 - [2020-08-30-京东-app-有一个-bug-导致不断报错](https://www.v2ex.com/t/702604) 

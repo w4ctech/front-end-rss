@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-30 09:33:06，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-30 09:46:32，:rocket: 更新条数: +3339， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-08-30-国内的大型零售商为啥没有人做类似山姆会员店的付费会员模式？](https://www.v2ex.com/t/702613) ![](assets/new.png)  
+- [2020-08-30-明明大家都是同一起跑线的兄弟，你却可以准备结婚了](https://www.v2ex.com/t/702611) ![](assets/new.png)  
+- [2020-08-30-有没有发现我们生活接触的体育运动大部分玩家都是野路子出身？](https://www.v2ex.com/t/702610) ![](assets/new.png)  
+- [2020-08-30-地图无法定位当前位置](https://www.v2ex.com/t/702609) ![](assets/new.png)  
 - [2020-08-30-刚翻唱了周杰伦的《回到过去》-大家伙帮我听听唱得咋样-旺柴](https://www.v2ex.com/t/702607) ![](assets/new.png)  
 - [2020-08-30-emmm-帮朋友收个-airpods-二代-教育优惠的](https://www.v2ex.com/t/702606) ![](assets/new.png)  
 - [2020-08-30-异步函数如何强制同步执行？](https://www.v2ex.com/t/702605) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-08-30-当下-如何禁用-流氓启动项-CleanMyMac-X-HealthMonitor](https://www.v2ex.com/t/702586) ![](assets/new.png)  
 - [2020-08-30-滴滴出行-北京、杭州、成都、深圳内推-Java-/Android/iOS/算法/前端/-PHP-/-Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/702584) ![](assets/new.png)  
 - [2020-08-30-Big-Sur-提出来的壁纸，如何能正确设置为动态桌面？](https://www.v2ex.com/t/702583) ![](assets/new.png)  
-- [2020-08-30-Python-类相关问题](https://www.v2ex.com/t/702580) ![](assets/new.png)  
-- [2020-08-30-单表千万行数据库-LIKE-搜索优化手记](https://www.v2ex.com/t/702579) ![](assets/new.png)  
-- [2020-08-30-程序员中年转行择业之小说家](https://www.v2ex.com/t/702578) ![](assets/new.png)  
-- [2020-08-30-怎样怼亲戚](https://www.v2ex.com/t/702577) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-08-30-这是一个充满挑战的好时代](https://toutiao.io/k/7ajoa1g) ![](assets/new.png)  
 - [2020-08-30-前置条件断言](https://toutiao.io/k/01ah244) ![](assets/new.png)  
 - [2020-08-30-Jetpack-新成员，App-Startup-一篇就懂](https://toutiao.io/k/9hls4am) ![](assets/new.png)  
-- [2020-08-30-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
-- [2020-08-30-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
-- [2020-08-30-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
-- [2020-08-30-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
-- [2020-08-30-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
-- [2020-08-30-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
-- [2020-08-30-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-08-30-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
 - [2020-08-30-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
-- [2020-08-30-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
+- [2020-08-30-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
+- [2020-08-30-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
+- [2020-08-30-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-30-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
+- [2020-08-30-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
+- [2020-08-30-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
+- [2020-08-30-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
+- [2020-08-30-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
+- [2020-08-30-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

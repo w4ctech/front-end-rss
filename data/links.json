@@ -16075,6 +16075,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "神经网络模型在训练第一个 Epoch 报出 Warning 然后继续从头开始训练循环往复，请问如何解决？",
+        "link": "https://www.v2ex.com/t/702616",
+        "date": "2020-08-30"
+      },
+      {
         "title": "国内的大型零售商为啥没有人做类似山姆会员店的付费会员模式？",
         "link": "https://www.v2ex.com/t/702613",
         "date": "2020-08-30"
@@ -16208,21 +16213,6 @@
         "title": "最新美区 Apple ID 绑定 PayPal 风控问题",
         "link": "https://www.v2ex.com/t/702573",
         "date": "2020-08-30"
-      },
-      {
-        "title": "有办法在安卓机上直接跑 adb shell 命令吗？",
-        "link": "https://www.v2ex.com/t/702566",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "七八十岁时候你会是怎样的生活？--> 现在你的生活是怎样的？",
-        "link": "https://www.v2ex.com/t/702565",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "C#开发有想转前端的想法，现在来说的话这个想法合理吗？",
-        "link": "https://www.v2ex.com/t/702564",
-        "date": "2020-08-30"
       }
     ]
   },
@@ -16349,13 +16339,13 @@
         "date": "2020-08-30"
       },
       {
-        "title": "一页纸测试策略",
-        "link": "https://toutiao.io/k/f7oqkk0",
+        "title": "消息链路优化之弱感知链路优化",
+        "link": "https://toutiao.io/k/cz89whz",
         "date": "2020-08-30"
       },
       {
-        "title": "消息链路优化之弱感知链路优化",
-        "link": "https://toutiao.io/k/cz89whz",
+        "title": "一页纸测试策略",
+        "link": "https://toutiao.io/k/f7oqkk0",
         "date": "2020-08-30"
       },
       {
@@ -16389,23 +16379,8 @@
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] 英语学习指南",
-        "link": "https://toutiao.io/k/m9lrd6m",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "[推荐] 十个问题弄清 JVM & GC（二）",
-        "link": "https://toutiao.io/k/v2dq9lz",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
-        "link": "https://toutiao.io/k/q5376fl",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "[推荐] ​Linux CPU 性能优化指南",
-        "link": "https://toutiao.io/k/e6zbho6",
+        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
+        "link": "https://toutiao.io/k/smg6nko",
         "date": "2020-08-30"
       },
       {
@@ -16414,23 +16389,18 @@
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] 高手都是如何刷 LeetCode 的？| 码农周刊第 315 期",
-        "link": "https://toutiao.io/k/sh6tvfh",
-        "date": "2020-08-30"
-      },
-      {
         "title": "[推荐] 微服务的战争：按什么维度拆分服务",
         "link": "https://toutiao.io/k/3lp54k3",
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
-        "link": "https://toutiao.io/k/nn7q9kk",
+        "title": "[推荐] 十个问题弄清 JVM & GC（二）",
+        "link": "https://toutiao.io/k/v2dq9lz",
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] 史上最全的 vim 快捷键文档/手册/大全/帮助/指南",
-        "link": "https://toutiao.io/k/dx4z66j",
+        "title": "[推荐] 微服务技术栈：API 网关中心，落地实现方案",
+        "link": "https://toutiao.io/k/5fjxacf",
         "date": "2020-08-30"
       },
       {
@@ -16439,13 +16409,23 @@
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] Shell 编码规范",
-        "link": "https://toutiao.io/k/jbo65f6",
+        "title": "[推荐] 多图详解！10 大高性能开发核心技术",
+        "link": "https://toutiao.io/k/iqokf55",
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] 一道有意思的腾讯算法面试题",
-        "link": "https://toutiao.io/k/wui7yqj",
+        "title": "[推荐] 美国如果把根域名服务器封了，中国会从网络上消失？",
+        "link": "https://toutiao.io/k/yitvf34",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
+        "link": "https://toutiao.io/k/q5376fl",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] 英语学习指南",
+        "link": "https://toutiao.io/k/m9lrd6m",
         "date": "2020-08-30"
       },
       {
@@ -16454,13 +16434,23 @@
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] Tomcat 高并发之道原理拆解与性能调优",
-        "link": "https://toutiao.io/k/htijp2l",
+        "title": "[推荐] Shell 编码规范",
+        "link": "https://toutiao.io/k/jbo65f6",
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] 程序日志级别规范",
-        "link": "https://toutiao.io/k/sf65q0v",
+        "title": "[推荐] 高并发系统三大利器之缓存",
+        "link": "https://toutiao.io/k/gbvhdf1",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] 高手都是如何刷 LeetCode 的？| 码农周刊第 315 期",
+        "link": "https://toutiao.io/k/sh6tvfh",
         "date": "2020-08-30"
       }
     ]

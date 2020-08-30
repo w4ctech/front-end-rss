@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-30 07:48:08，:rocket: 更新条数: +3334， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-30 08:06:29，:rocket: 更新条数: +3335， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-08-30-后台新人应该怎么准备呢？本科计算机，硕士期间一直做得算法](https://www.v2ex.com/t/702596) ![](assets/new.png)  
+- [2020-08-30-Python-协程示例多数都是用来做爬虫的，有没有其他案例可以更好的加深协程的理解和应用](https://www.v2ex.com/t/702595) ![](assets/new.png)  
+- [2020-08-30-实发工资的困惑](https://www.v2ex.com/t/702594) ![](assets/new.png)  
+- [2020-08-30-杭州｜阿里-阿里巴巴-业务平台事业部--Java-P6/P7-交易平台，核心部门，位置多多，机会多多，待遇没得说！](https://www.v2ex.com/t/702593) ![](assets/new.png)  
 - [2020-08-30-京东-app-有一个-bug-复现百分之一百](https://www.v2ex.com/t/702588) ![](assets/new.png)  
 - [2020-08-30-当下-如何禁用-流氓启动项-CleanMyMac-X-HealthMonitor](https://www.v2ex.com/t/702586) ![](assets/new.png)  
 - [2020-08-30-滴滴出行-北京、杭州、成都、深圳内推-Java-/Android/iOS/算法/前端/-PHP-/-Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/702584) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-08-30-C#开发有想转前端的想法，现在来说的话这个想法合理吗？](https://www.v2ex.com/t/702564) ![](assets/new.png)  
 - [2020-08-30-周末想去星巴克学习，降噪耳机有推荐的吗？](https://www.v2ex.com/t/702562) ![](assets/new.png)  
 - [2020-08-30-“apple-pay-待删除”-怎么整？](https://www.v2ex.com/t/702561) ![](assets/new.png)  
-- [2020-08-30-贷款-年利率-4.35%是个什么概念-高还是地？](https://www.v2ex.com/t/702556) ![](assets/new.png)  
-- [2020-08-30-有哪些适合新手实战的-Vue-开源项目？](https://www.v2ex.com/t/702555) ![](assets/new.png)  
-- [2020-08-30-上海-蚂蚁金服-金融核心技术部-Java-技术专家求贤若渴-!-机构生态服务新赛道](https://www.v2ex.com/t/702552) ![](assets/new.png)  
-- [2020-08-30-crontab-自动脚本求助](https://www.v2ex.com/t/702551) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-08-30-前置条件断言](https://toutiao.io/k/01ah244) ![](assets/new.png)  
 - [2020-08-30-这是一个充满挑战的好时代](https://toutiao.io/k/7ajoa1g) ![](assets/new.png)  
 - [2020-08-30-Jetpack-新成员，App-Startup-一篇就懂](https://toutiao.io/k/9hls4am) ![](assets/new.png)  
-- [2020-08-30-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
-- [2020-08-30-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
-- [2020-08-30-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
-- [2020-08-30-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
-- [2020-08-30-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
-- [2020-08-30-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
-- [2020-08-30-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
-- [2020-08-30-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
+- [2020-08-30-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
+- [2020-08-30-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
+- [2020-08-30-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
 - [2020-08-30-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
+- [2020-08-30-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
+- [2020-08-30-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
+- [2020-08-30-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
+- [2020-08-30-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
 - [2020-08-30-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
+- [2020-08-30-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

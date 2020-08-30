@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-30 13:33:19，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-30 13:46:26，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -947,11 +947,11 @@
 </summary>
 
 
+- [2020-08-29-如何搭建一个属于自己的脚手架](https://juejin.im/post/6866435508487225358) ![](assets/new.png)  
 - [2020-08-28-【深入JS】彻底弄懂JS函数调用和this指向](https://juejin.im/post/6866306361605505031) ![](assets/new.png)  
-- [2020-08-28-TypeScript-详解策略模式Strategy-Pattern](https://juejin.im/post/6865983384376901639) ![](assets/new.png)  
-- [2020-08-28-对nextTick的简单理解](https://juejin.im/post/6865978424633229325) ![](assets/new.png)  
+- [2020-08-28-webrtc实现视频群聊系列文章二实现网络中一对一视频聊天](https://juejin.im/post/6866252687462105101) ![](assets/new.png)  
+- [2020-08-28-webrtc实现群聊系列文章一本地模拟视频通话](https://juejin.im/post/6866252061336567822) ![](assets/new.png)  
 - [2020-08-28-你的页面健康吗？](https://juejin.im/post/6865973094633504776) ![](assets/new.png)  
-- [2020-08-28-玩转ECharts之实现“顶端装饰”](https://juejin.im/post/6865973220626366472) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,26 +1057,6 @@
 </summary>
 
 
-- [2020-08-30-怒扔涂层不粘锅，用什么新锅好？](https://www.v2ex.com/t/702649) ![](assets/new.png)  
-- [2020-08-30-iphone7p-128g-官方折价-1300，好像还不错的样子？](https://www.v2ex.com/t/702648) ![](assets/new.png)  
-- [2020-08-30-win10-安装后-C-盘占用-30-多-G，用了几天，占用-26G-多点，是哪些文件消失了？](https://www.v2ex.com/t/702647) ![](assets/new.png)  
-- [2020-08-30-北京你知道吗？这家量化基金的-IT-开发个人都有机会拿四五百万奖金](https://www.v2ex.com/t/702646) ![](assets/new.png)  
-- [2020-08-30-想学习-Java-web-各种场景的最佳实践，有什么书或者教程比较好？](https://www.v2ex.com/t/702642) ![](assets/new.png)  
-- [2020-08-30-文件下载-URL-的-Zip-后面一长串随机字符，如何找到文件支链地址？](https://www.v2ex.com/t/702640) ![](assets/new.png)  
-- [2020-08-30-没有阳台的情况下，大城市租房党是怎么晾衣服的？](https://www.v2ex.com/t/702639) ![](assets/new.png)  
-- [2020-08-30-有哪些适合新手实战的-React-开源项目？](https://www.v2ex.com/t/702637) ![](assets/new.png)  
-- [2020-08-30-整活，能不能好好说话微信小程序版](https://www.v2ex.com/t/702635) ![](assets/new.png)  
-- [2020-08-30-以后不能在公共场所打弹弓了](https://www.v2ex.com/t/702634) ![](assets/new.png)  
-- [2020-08-30-请教大家一个问题，-m3u8-文件如何防下载](https://www.v2ex.com/t/702631) ![](assets/new.png)  
-- [2020-08-30-从-1-月-31-号开始的一个月之后是哪天](https://www.v2ex.com/t/702630) ![](assets/new.png)  
-- [2020-08-30-2020-晒晒你的-Vim-主题](https://www.v2ex.com/t/702629) ![](assets/new.png)  
-- [2020-08-30-iPhone-太旧，如何更新特定版本的-app？](https://www.v2ex.com/t/702628) ![](assets/new.png)  
-- [2020-08-30-手机有什么好的搜索引擎推荐](https://www.v2ex.com/t/702626) ![](assets/new.png)  
-- [2020-08-30-社招-字节跳动---移动-OS-教育-/-电商业务，高级前端工程师，坐标：北京---中关村](https://www.v2ex.com/t/702625) ![](assets/new.png)  
-- [2020-08-30-GitHub-自带的看板为什么与-Issue-强关联？我想把自己的业余学习事项用-GitHub-看板管理。](https://www.v2ex.com/t/702624) ![](assets/new.png)  
-- [2020-08-30-判断是否字母的问题](https://www.v2ex.com/t/702620) ![](assets/new.png)  
-- [2020-08-30-想要入手一个平板，记录日常的笔记；-iReader-Smart-X-；-iPad-pro；-huawei-pad；-sony-；这几个大家怎么选？有推荐的吗？](https://www.v2ex.com/t/702619) ![](assets/new.png)  
-- [2020-08-30-神经网络模型在训练第一个-Epoch-报出-Warning-然后继续从头开始训练循环往复，请问如何解决？](https://www.v2ex.com/t/702616) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,21 +1104,21 @@
 - [2020-08-30-Istio-1.7：进击的追风少年](https://toutiao.io/k/jxa7l5y) ![](assets/new.png)  
 - [2020-08-30-一页纸测试策略](https://toutiao.io/k/f7oqkk0) ![](assets/new.png)  
 - [2020-08-30-消息链路优化之弱感知链路优化](https://toutiao.io/k/cz89whz) ![](assets/new.png)  
-- [2020-08-30-TypeScript-配置文件该怎么写？](https://toutiao.io/k/9eedrzr) ![](assets/new.png)  
 - [2020-08-30-这是一个充满挑战的好时代](https://toutiao.io/k/7ajoa1g) ![](assets/new.png)  
+- [2020-08-30-TypeScript-配置文件该怎么写？](https://toutiao.io/k/9eedrzr) ![](assets/new.png)  
 - [2020-08-30-Delta-Lake-第一篇论文发布了](https://toutiao.io/k/y8b343g) ![](assets/new.png)  
 - [2020-08-30-前置条件断言](https://toutiao.io/k/01ah244) ![](assets/new.png)  
 - [2020-08-30-Jetpack-新成员，App-Startup-一篇就懂](https://toutiao.io/k/9hls4am) ![](assets/new.png)  
-- [2020-08-30-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
-- [2020-08-30-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
-- [2020-08-30-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
-- [2020-08-30-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
-- [2020-08-30-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-08-30-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
-- [2020-08-30-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
 - [2020-08-30-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
+- [2020-08-30-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
+- [2020-08-30-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-30-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
 - [2020-08-30-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
+- [2020-08-30-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
+- [2020-08-30-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
 - [2020-08-30-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
+- [2020-08-30-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
+- [2020-08-30-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

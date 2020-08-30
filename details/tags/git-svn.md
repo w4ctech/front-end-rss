@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-30 13:33:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 13:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -16,5 +16,4 @@
 - [2020-08-27-这10个让你笑的合不拢嘴的GitHub项目，居然拿了7万星](https://www.ershicimi.com/p/616cf314d329a056fa79b55316b72f96) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
-- [2020-08-30-GitHub-自带的看板为什么与-Issue-强关联？我想把自己的业余学习事项用-GitHub-看板管理。](https://www.v2ex.com/t/702624) 
 - [2020-08-25-PyTorch-实现,GitHub-4000-星:这是微软开源的计算机视觉库](https://sec.thief.one/article_content?a_id=42a600770d2ccfe348622b7b3d3075fb) 

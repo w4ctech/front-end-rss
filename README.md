@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-30 15:02:44，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-30 15:11:28，:rocket: 更新条数: +3336， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-08-30-mysql-8.0-用-json-还是-text？](https://www.v2ex.com/t/702675) ![](assets/new.png)  
+- [2020-08-30-新手学-Linux-有什么建议呢？](https://www.v2ex.com/t/702674) ![](assets/new.png)  
 - [2020-08-30-这里有人关注-C++么？分享一个我-C++设计与实现-EDSL-的心得](https://www.v2ex.com/t/702672) ![](assets/new.png)  
 - [2020-08-30-module-path-应不应该放-go-文件？](https://www.v2ex.com/t/702671) ![](assets/new.png)  
 - [2020-08-30-在网上购买小型家具（小书架之类），里面的甲醛会影响到健康吗？](https://www.v2ex.com/t/702670) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-08-30-想学习-Java-web-各种场景的最佳实践，有什么书或者教程比较好？](https://www.v2ex.com/t/702642) ![](assets/new.png)  
 - [2020-08-30-文件下载-URL-的-Zip-后面一长串随机字符，如何找到文件支链地址？](https://www.v2ex.com/t/702640) ![](assets/new.png)  
 - [2020-08-30-没有阳台的情况下，大城市租房党是怎么晾衣服的？](https://www.v2ex.com/t/702639) ![](assets/new.png)  
-- [2020-08-30-有哪些适合新手实战的-React-开源项目？](https://www.v2ex.com/t/702637) ![](assets/new.png)  
-- [2020-08-30-整活，能不能好好说话微信小程序版](https://www.v2ex.com/t/702635) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-08-30-Delta-Lake-第一篇论文发布了](https://toutiao.io/k/y8b343g) ![](assets/new.png)  
 - [2020-08-30-前置条件断言](https://toutiao.io/k/01ah244) ![](assets/new.png)  
 - [2020-08-30-Jetpack-新成员，App-Startup-一篇就懂](https://toutiao.io/k/9hls4am) ![](assets/new.png)  
-- [2020-08-30-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-08-30-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
-- [2020-08-30-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
-- [2020-08-30-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
+- [2020-08-30-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) ![](assets/new.png)  
 - [2020-08-30-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
-- [2020-08-30-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
-- [2020-08-30-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
-- [2020-08-30-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
-- [2020-08-30-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-30-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
+- [2020-08-30-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
 - [2020-08-30-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
+- [2020-08-30-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-30-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
+- [2020-08-30-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
+- [2020-08-30-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
+- [2020-08-30-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

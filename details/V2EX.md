@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-30 10:08:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 10:16:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-30-想要入手一个平板，记录日常的笔记；-iReader-Smart-X-；-iPad-pro；-huawei-pad；-sony-；这几个大家怎么选？有推荐的吗？](https://www.v2ex.com/t/702619) 
 - [2020-08-30-好奇-0day-游戏一般发布在哪里](https://www.v2ex.com/t/702617) 
 - [2020-08-30-神经网络模型在训练第一个-Epoch-报出-Warning-然后继续从头开始训练循环往复，请问如何解决？](https://www.v2ex.com/t/702616) 
 - [2020-08-30-国内的大型零售商为啥没有人做类似山姆会员店的付费会员模式？](https://www.v2ex.com/t/702613) 

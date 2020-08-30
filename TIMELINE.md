@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-30 15:16:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-30 15:18:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -537,6 +537,8 @@
 - [【知乎日报】2020-08-20-口碑绝佳的-9-个公众号，越早知道越好](https://www.ershicimi.com/p/aa8f105a40e8d26eb70c775eb998ced3) 
 - [【知乎日报】2020-08-20-知乎故事-|-买房后你快乐吗？](https://www.ershicimi.com/p/ed173f3dec4a47f97964f77390dfc29f) 
 - [【知乎日报】2020-08-19-飞行员用空姐不雅照威胁其陪睡，遇到类似问题时，我们应该怎么办？](https://www.ershicimi.com/p/31b2e3394c76754b31cc8f11713122c4) 
+- [【V2EX】2020-08-30-我的-mpb-会唱歌](https://www.v2ex.com/t/702678) 
+- [【V2EX】2020-08-30-云原生-go-zero-微服务框架介绍](https://www.v2ex.com/t/702677) 
 - [【V2EX】2020-08-30-mysql-8.0-用-json-还是-text？](https://www.v2ex.com/t/702675) 
 - [【V2EX】2020-08-30-新手学-Linux-有什么建议呢？](https://www.v2ex.com/t/702674) 
 - [【V2EX】2020-08-30-这里有人关注-C++么？分享一个我-C++设计与实现-EDSL-的心得](https://www.v2ex.com/t/702672) 
@@ -563,7 +565,6 @@
 - [【V2EX】2020-08-30-请教大家一个问题，-m3u8-文件如何防下载](https://www.v2ex.com/t/702631) 
 - [【V2EX】2020-08-30-从-1-月-31-号开始的一个月之后是哪天](https://www.v2ex.com/t/702630) 
 - [【V2EX】2020-08-30-2020-晒晒你的-Vim-主题](https://www.v2ex.com/t/702629) 
-- [【V2EX】2020-08-30-iPhone-太旧，如何更新特定版本的-app？](https://www.v2ex.com/t/702628) 
 - [【技术头条】2020-08-30-如何组织一场成功的Bug-Bash？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13724&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-facilitate-bug-bash%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-08-30-在线培训的9个原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13723&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fonline-training-priciples%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-08-30-看视频常见的-720p、1080p、4k，这些分辨率到底包含了什么-www.upyun.com](https://blogread.cn/news/go.php?idItem=13722&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F576%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

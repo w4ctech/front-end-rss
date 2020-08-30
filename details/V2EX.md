@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-30 10:33:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 10:46:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-30-GitHub-自带的看板为什么与-Issue-强关联？我想把自己的业余学习事项用-GitHub-看板管理。](https://www.v2ex.com/t/702624) 
+- [2020-08-30-v2ex-什么鬼，全文搜索用的是-google，这个让我们无法翻墙的怎么办?](https://www.v2ex.com/t/702622) 
 - [2020-08-30-判断是否字母的问题](https://www.v2ex.com/t/702620) 
 - [2020-08-30-想要入手一个平板，记录日常的笔记；-iReader-Smart-X-；-iPad-pro；-huawei-pad；-sony-；这几个大家怎么选？有推荐的吗？](https://www.v2ex.com/t/702619) 
 - [2020-08-30-好奇-0day-游戏一般发布在哪里](https://www.v2ex.com/t/702617) 
@@ -35,4 +37,3 @@
 - [2020-08-30-怎样怼亲戚](https://www.v2ex.com/t/702577) 
 - [2020-08-30-有人试过把-gsap-引入微信小程序吗？](https://www.v2ex.com/t/702576) 
 - [2020-08-30-闲置的旧衣服怎么处理？有没有回收渠道？](https://www.v2ex.com/t/702575) 
-- [2020-08-30-最新美区-Apple-ID-绑定-PayPal-风控问题](https://www.v2ex.com/t/702573) 

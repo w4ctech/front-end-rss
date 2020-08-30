@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-30 14:33:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 14:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-30-北京的-v-友，有没有啥活动群周末可以组织玩一玩的嘞](https://www.v2ex.com/t/702668) 
+- [2020-08-30-求桌面布置解决方案](https://www.v2ex.com/t/702666) 
 - [2020-08-30-这届的-MacBook-不行](https://www.v2ex.com/t/702664) 
 - [2020-08-30-#紧急扩招#-阿里云天基集群管理事业部社招](https://www.v2ex.com/t/702660) 
 - [2020-08-30-大家多久换一次工作？](https://www.v2ex.com/t/702658) 
@@ -30,4 +32,3 @@
 - [2020-08-30-GitHub-自带的看板为什么与-Issue-强关联？我想把自己的业余学习事项用-GitHub-看板管理。](https://www.v2ex.com/t/702624) 
 - [2020-08-30-判断是否字母的问题](https://www.v2ex.com/t/702620) 
 - [2020-08-30-想要入手一个平板，记录日常的笔记；-iReader-Smart-X-；-iPad-pro；-huawei-pad；-sony-；这几个大家怎么选？有推荐的吗？](https://www.v2ex.com/t/702619) 
-- [2020-08-30-神经网络模型在训练第一个-Epoch-报出-Warning-然后继续从头开始训练循环往复，请问如何解决？](https://www.v2ex.com/t/702616) 

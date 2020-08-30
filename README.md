@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-30 12:33:18，:rocket: 更新条数: +3338， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-30 12:46:40，:rocket: 更新条数: +3334， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -65,9 +65,9 @@
 
 
 - [2020-08-29-最新疫情：全国新冠累计确诊85031例-新增境外输入9例](https://m.caixin.com/m/2020-08-30/101598923.html) ![](assets/new.png)  
+- [2020-08-29-最新海外疫情：新冠感染超2487万-累计死亡近84万](http://m.international.caixin.com/m/2020-08-30/101599033.html) ![](assets/new.png)  
 - [2020-08-29-【境内疫情观察】全国新增9例境外输入病例（8月29日）](http://m.database.caixin.com/m/2020-08-30/101598926.html) ![](assets/new.png)  
 - [2020-08-29-大流行手记|8月29日：美共和党大会4人确诊-印度数百医护人员病亡](https://m.caixin.com/m/2020-08-30/101598907.html) ![](assets/new.png)  
-- [2020-08-28-最新海外疫情：新冠感染近2461万-累计死亡超83万](http://m.international.caixin.com/m/2020-08-29/101598798.html) ![](assets/new.png)  
 - [2020-08-28-【境内疫情观察】辽宁本土在院病例清零（8月28日）](http://m.database.caixin.com/m/2020-08-29/101598785.html) ![](assets/new.png)  
 - [2020-08-28-大流行手记|8月28日：谭德赛说疫情影响精神健康-全美逾44万儿童染疫](https://m.caixin.com/m/2020-08-29/101598633.html) ![](assets/new.png)  
 - [2020-08-27-【境内疫情观察】全国新增9例境外输入病例（8月27日）](http://m.database.caixin.com/m/2020-08-28/101598252.html) ![](assets/new.png)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-30-受新冠疫情影响-泰国花卉出口上半年同期下跌31%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq16DshHy6EZc7PuOJrpn200830&isfromapp=1) ![](assets/new.png)  
+- [2020-08-30-全球首席财务官：更看好中国经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHAzASDQfeccis4YezPAr200830&isfromapp=1) ![](assets/new.png)  
 - [2020-08-30-111-天，全球之最！ECMO-使用时间最长的新冠肺炎患者出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXnu6wggQolUMJzDJyEt3200830&isfromapp=1) ![](assets/new.png)  
 - [2020-08-30-​印度新冠肺炎确诊病例累计超-350-万，单日新增近-8-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivPKg4eM7Z5YefnqxNe3i200830&isfromapp=1) ![](assets/new.png)  
 - [2020-08-30-辽宁大连-7·22-疫情结束，本地确诊病例、无症状感染者全部出院双清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuywIse0Da43PoY2j6QYb200830&isfromapp=1) ![](assets/new.png)  
-- [2020-08-30-七国集团国家二季度经济均遭历史性下滑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip9eXtG1uXNRfUEHPCeae200830&isfromapp=1) ![](assets/new.png)  
-- [2020-08-30-香港普及社区检测，超31万人已网上预约](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2dwm0M52k1SvfMxBW2oP200830&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +947,6 @@
 </summary>
 
 
-- [2020-08-27-Node.js日志神器（winston）](https://juejin.im/post/6865926810061045774) ![](assets/new.png)  
-- [2020-08-27-在vue实战中认识的vue-router](https://juejin.im/post/6865924622098333704) ![](assets/new.png)  
-- [2020-08-27-我对web前端与可视化的一些思考|🏆-技术专题第三期](https://juejin.im/post/6865921593726468103) ![](assets/new.png)  
-- [2020-08-27-小程序开发不得不爬的坑，我替你爬过了！](https://juejin.im/post/6865920270218035214) ![](assets/new.png)  
-- [2020-08-25-leafletjs可视化地理位置](https://juejin.im/post/6864860217646809096) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-30-win10-安装后-C-盘占用-30-多-G，用了几天，占用-26G-多点，是哪些文件消失了？](https://www.v2ex.com/t/702647) ![](assets/new.png)  
+- [2020-08-30-北京你知道吗？这家量化基金的-IT-开发个人都有机会拿四五百万奖金](https://www.v2ex.com/t/702646) ![](assets/new.png)  
 - [2020-08-30-想学习-Java-web-各种场景的最佳实践，有什么书或者教程比较好？](https://www.v2ex.com/t/702642) ![](assets/new.png)  
 - [2020-08-30-文件下载-URL-的-Zip-后面一长串随机字符，如何找到文件支链地址？](https://www.v2ex.com/t/702640) ![](assets/new.png)  
 - [2020-08-30-没有阳台的情况下，大城市租房党是怎么晾衣服的？](https://www.v2ex.com/t/702639) ![](assets/new.png)  
@@ -1075,8 +1072,6 @@
 - [2020-08-30-神经网络模型在训练第一个-Epoch-报出-Warning-然后继续从头开始训练循环往复，请问如何解决？](https://www.v2ex.com/t/702616) ![](assets/new.png)  
 - [2020-08-30-国内的大型零售商为啥没有人做类似山姆会员店的付费会员模式？](https://www.v2ex.com/t/702613) ![](assets/new.png)  
 - [2020-08-30-明明大家都是同一起跑线的兄弟，你却可以准备结婚了](https://www.v2ex.com/t/702611) ![](assets/new.png)  
-- [2020-08-30-有没有发现我们生活接触的体育运动大部分玩家都是野路子出身？](https://www.v2ex.com/t/702610) ![](assets/new.png)  
-- [2020-08-30-地图无法定位当前位置](https://www.v2ex.com/t/702609) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1124,16 @@
 - [2020-08-30-Delta-Lake-第一篇论文发布了](https://toutiao.io/k/y8b343g) ![](assets/new.png)  
 - [2020-08-30-前置条件断言](https://toutiao.io/k/01ah244) ![](assets/new.png)  
 - [2020-08-30-Jetpack-新成员，App-Startup-一篇就懂](https://toutiao.io/k/9hls4am) ![](assets/new.png)  
-- [2020-08-30-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
-- [2020-08-30-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
-- [2020-08-30-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-08-30-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
-- [2020-08-30-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
-- [2020-08-30-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
-- [2020-08-30-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
-- [2020-08-30-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
+- [2020-08-30-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
 - [2020-08-30-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
-- [2020-08-30-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
+- [2020-08-30-推荐-丢弃掉那些-BeanUtils-工具类吧，MapStruct-真香](https://toutiao.io/k/nn7q9kk) ![](assets/new.png)  
+- [2020-08-30-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
+- [2020-08-30-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
+- [2020-08-30-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
+- [2020-08-30-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
+- [2020-08-30-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
+- [2020-08-30-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
+- [2020-08-30-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -10,6 +10,11 @@
         "date": "2020-08-29"
       },
       {
+        "title": "最新海外疫情：新冠感染超2487万 累计死亡近84万",
+        "link": "http://m.international.caixin.com/m/2020-08-30/101599033.html",
+        "date": "2020-08-29"
+      },
+      {
         "title": "【境内疫情观察】全国新增9例境外输入病例（8月29日）",
         "link": "http://m.database.caixin.com/m/2020-08-30/101598926.html",
         "date": "2020-08-29"
@@ -18,11 +23,6 @@
         "title": "大流行手记|8月29日：美共和党大会4人确诊  印度数百医护人员病亡",
         "link": "https://m.caixin.com/m/2020-08-30/101598907.html",
         "date": "2020-08-29"
-      },
-      {
-        "title": "最新海外疫情：新冠感染近2461万 累计死亡超83万",
-        "link": "http://m.international.caixin.com/m/2020-08-29/101598798.html",
-        "date": "2020-08-28"
       },
       {
         "title": "【境内疫情观察】辽宁本土在院病例清零（8月28日）",
@@ -12897,6 +12897,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "受新冠疫情影响 泰国花卉出口上半年同期下跌31%",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq16DshHy6EZc7PuOJrpn200830&isfromapp=1",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "全球首席财务官：更看好中国经济",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHAzASDQfeccis4YezPAr200830&isfromapp=1",
+        "date": "2020-08-30"
+      },
+      {
         "title": "111 天，全球之最！ECMO 使用时间最长的新冠肺炎患者出院",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXnu6wggQolUMJzDJyEt3200830&isfromapp=1",
         "date": "2020-08-30"
@@ -12909,16 +12919,6 @@
       {
         "title": "辽宁大连 7·22 疫情结束，本地确诊病例、无症状感染者全部出院双清零",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuywIse0Da43PoY2j6QYb200830&isfromapp=1",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "七国集团国家二季度经济均遭历史性下滑",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip9eXtG1uXNRfUEHPCeae200830&isfromapp=1",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "香港普及社区检测，超31万人已网上预约",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2dwm0M52k1SvfMxBW2oP200830&isfromapp=1",
         "date": "2020-08-30"
       }
     ]
@@ -15711,36 +15711,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "Node.js日志神器（winston）",
-        "link": "https://juejin.im/post/6865926810061045774",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "在vue实战中认识的vue-router",
-        "link": "https://juejin.im/post/6865924622098333704",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "我对web前端与可视化的一些思考|🏆 技术专题第三期",
-        "link": "https://juejin.im/post/6865921593726468103",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "小程序开发不得不爬的坑，我替你爬过了！",
-        "link": "https://juejin.im/post/6865920270218035214",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "leafletjs可视化地理位置",
-        "link": "https://juejin.im/post/6864860217646809096",
-        "date": "2020-08-25"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -16075,6 +16049,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "win10 安装后 C 盘占用 30 多 G，用了几天，占用 26G 多点，是哪些文件消失了？",
+        "link": "https://www.v2ex.com/t/702647",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[北京]你知道吗？这家量化基金的 IT 开发个人都有机会拿四五百万奖金",
+        "link": "https://www.v2ex.com/t/702646",
+        "date": "2020-08-30"
+      },
+      {
         "title": "想学习 Java web 各种场景的最佳实践，有什么书或者教程比较好？",
         "link": "https://www.v2ex.com/t/702642",
         "date": "2020-08-30"
@@ -16212,11 +16196,6 @@
       {
         "title": "MacBook Pro 并没有 OLED 屏幕，那么深色模式有何意义？",
         "link": "https://www.v2ex.com/t/702599",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "后台新人应该怎么准备呢？本科计算机，硕士期间一直做得算法",
-        "link": "https://www.v2ex.com/t/702596",
         "date": "2020-08-30"
       }
     ]
@@ -16384,43 +16363,8 @@
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] 微服务技术栈：API 网关中心，落地实现方案",
-        "link": "https://toutiao.io/k/5fjxacf",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
-        "link": "https://toutiao.io/k/kumhh9k",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
-        "link": "https://toutiao.io/k/3lp54k3",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之缓存",
-        "link": "https://toutiao.io/k/gbvhdf1",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "[推荐] 程序日志级别规范",
-        "link": "https://toutiao.io/k/sf65q0v",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "[推荐] Redis 五大对象",
-        "link": "https://toutiao.io/k/djlfguy",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "[推荐] Shell 编码规范",
-        "link": "https://toutiao.io/k/jbo65f6",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
-        "link": "https://toutiao.io/k/smg6nko",
+        "title": "[推荐] Spring 中异步注解 @Async 的使用、原理及使用时可能导致的问题",
+        "link": "https://toutiao.io/k/g063et3",
         "date": "2020-08-30"
       },
       {
@@ -16429,13 +16373,38 @@
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
-        "link": "https://toutiao.io/k/q5376fl",
+        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
+        "link": "https://toutiao.io/k/nn7q9kk",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] 微服务技术栈：API 网关中心，落地实现方案",
+        "link": "https://toutiao.io/k/5fjxacf",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] 高手都是如何刷 LeetCode 的？| 码农周刊第 315 期",
+        "link": "https://toutiao.io/k/sh6tvfh",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] 十个问题弄清 JVM & GC（二）",
+        "link": "https://toutiao.io/k/v2dq9lz",
         "date": "2020-08-30"
       },
       {
         "title": "[推荐] 英语学习指南",
         "link": "https://toutiao.io/k/m9lrd6m",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] ​Linux CPU 性能优化指南",
+        "link": "https://toutiao.io/k/e6zbho6",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] Redis 五大对象",
+        "link": "https://toutiao.io/k/djlfguy",
         "date": "2020-08-30"
       },
       {
@@ -16454,8 +16423,18 @@
         "date": "2020-08-30"
       },
       {
-        "title": "[推荐] 丢弃掉那些 BeanUtils 工具类吧，MapStruct 真香",
-        "link": "https://toutiao.io/k/nn7q9kk",
+        "title": "[推荐] 程序日志级别规范",
+        "link": "https://toutiao.io/k/sf65q0v",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
+        "link": "https://toutiao.io/k/smg6nko",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
+        "link": "https://toutiao.io/k/q5376fl",
         "date": "2020-08-30"
       }
     ]

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-30 11:18:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 11:31:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-30-请教大家一个问题，-m3u8-文件如何防下载](https://www.v2ex.com/t/702631) 
 - [2020-08-30-从-1-月-31-号开始的一个月之后是哪天](https://www.v2ex.com/t/702630) 
 - [2020-08-30-2020-晒晒你的-Vim-主题](https://www.v2ex.com/t/702629) 
 - [2020-08-30-iPhone-太旧，如何更新特定版本的-app？](https://www.v2ex.com/t/702628) 
@@ -33,4 +34,3 @@
 - [2020-08-30-京东-app-有一个-bug-复现百分之一百](https://www.v2ex.com/t/702588) 
 - [2020-08-30-当下-如何禁用-流氓启动项-CleanMyMac-X-HealthMonitor](https://www.v2ex.com/t/702586) 
 - [2020-08-30-滴滴出行-北京、杭州、成都、深圳内推-Java-/Android/iOS/算法/前端/-PHP-/-Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/702584) 
-- [2020-08-30-Big-Sur-提出来的壁纸，如何能正确设置为动态桌面？](https://www.v2ex.com/t/702583) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-30 17:18:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 17:31:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -417,8 +417,8 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【技术头条】全方面分析-Hilt-和-Koin-性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13727&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FD86krymBKK02zGEPRjV09g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】消息链路优化之弱感知链路优化](https://toutiao.io/k/cz89whz)
-- [【开发者头条】推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl)
 - [【开发者头条】推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e)
+- [【开发者头条】推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -479,6 +479,7 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】字节面试归来，四面竟然都考了算法！](https://www.ershicimi.com/p/93870384e86285174416f385a64c52af)
 - [【V2EX】一直做-http-短链接，对长链接比较迷惑。。。-求解](https://www.v2ex.com/t/702688)
+- [【开发者头条】推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko)
 - [【开发者头条】推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k)
 - [【开发者头条】推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j)
 - [【安全热点】Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80)

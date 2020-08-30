@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-30 13:48:01，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-30 14:02:42，:rocket: 更新条数: +3337， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -948,10 +948,10 @@
 
 
 - [2020-08-29-如何搭建一个属于自己的脚手架](https://juejin.im/post/6866435508487225358) ![](assets/new.png)  
-- [2020-08-28-【深入JS】彻底弄懂JS函数调用和this指向](https://juejin.im/post/6866306361605505031) ![](assets/new.png)  
+- [2020-08-29-彻底理解Promise原理及全功能实现](https://juejin.im/post/6866372840451473415) ![](assets/new.png)  
+- [2020-08-29-JavaScript-基本数据类型知识总结](https://juejin.im/post/6866362567473381383) ![](assets/new.png)  
 - [2020-08-28-webrtc实现视频群聊系列文章二实现网络中一对一视频聊天](https://juejin.im/post/6866252687462105101) ![](assets/new.png)  
 - [2020-08-28-webrtc实现群聊系列文章一本地模拟视频通话](https://juejin.im/post/6866252061336567822) ![](assets/new.png)  
-- [2020-08-28-你的页面健康吗？](https://juejin.im/post/6865973094633504776) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-30-第一台-Ryzen-“nuc”](https://www.v2ex.com/t/702655) ![](assets/new.png)  
 - [2020-08-30-程序员如何选择自己的第二语言？](https://www.v2ex.com/t/702654) ![](assets/new.png)  
 - [2020-08-30-怒扔涂层不粘锅，用什么新锅好？](https://www.v2ex.com/t/702649) ![](assets/new.png)  
 - [2020-08-30-iphone7p-128g-官方折价-1300，好像还不错的样子？](https://www.v2ex.com/t/702648) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-30-社招-字节跳动---移动-OS-教育-/-电商业务，高级前端工程师，坐标：北京---中关村](https://www.v2ex.com/t/702625) ![](assets/new.png)  
 - [2020-08-30-GitHub-自带的看板为什么与-Issue-强关联？我想把自己的业余学习事项用-GitHub-看板管理。](https://www.v2ex.com/t/702624) ![](assets/new.png)  
 - [2020-08-30-判断是否字母的问题](https://www.v2ex.com/t/702620) ![](assets/new.png)  
-- [2020-08-30-想要入手一个平板，记录日常的笔记；-iReader-Smart-X-；-iPad-pro；-huawei-pad；-sony-；这几个大家怎么选？有推荐的吗？](https://www.v2ex.com/t/702619) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-08-30-前置条件断言](https://toutiao.io/k/01ah244) ![](assets/new.png)  
 - [2020-08-30-Jetpack-新成员，App-Startup-一篇就懂](https://toutiao.io/k/9hls4am) ![](assets/new.png)  
 - [2020-08-30-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
-- [2020-08-30-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
-- [2020-08-30-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
-- [2020-08-30-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
+- [2020-08-30-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
+- [2020-08-30-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
 - [2020-08-30-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
-- [2020-08-30-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
-- [2020-08-30-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
-- [2020-08-30-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
-- [2020-08-30-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
+- [2020-08-30-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
+- [2020-08-30-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
+- [2020-08-30-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
+- [2020-08-30-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) ![](assets/new.png)  
 - [2020-08-30-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
+- [2020-08-30-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

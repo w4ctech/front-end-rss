@@ -16070,10 +16070,151 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "程序员如何选择自己的第二语言？",
+        "link": "https://www.v2ex.com/t/702654",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "怒扔涂层不粘锅，用什么新锅好？",
+        "link": "https://www.v2ex.com/t/702649",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "iphone7p 128g 官方折价 1300，好像还不错的样子？",
+        "link": "https://www.v2ex.com/t/702648",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "win10 安装后 C 盘占用 30 多 G，用了几天，占用 26G 多点，是哪些文件消失了？",
+        "link": "https://www.v2ex.com/t/702647",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[北京]你知道吗？这家量化基金的 IT 开发个人都有机会拿四五百万奖金",
+        "link": "https://www.v2ex.com/t/702646",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "想学习 Java web 各种场景的最佳实践，有什么书或者教程比较好？",
+        "link": "https://www.v2ex.com/t/702642",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "文件下载 URL 的 Zip 后面一长串随机字符，如何找到文件支链地址？",
+        "link": "https://www.v2ex.com/t/702640",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "没有阳台的情况下，大城市租房党是怎么晾衣服的？",
+        "link": "https://www.v2ex.com/t/702639",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "有哪些适合新手实战的 React 开源项目？",
+        "link": "https://www.v2ex.com/t/702637",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "整活，能不能好好说话微信小程序版",
+        "link": "https://www.v2ex.com/t/702635",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "以后不能在公共场所打弹弓了",
+        "link": "https://www.v2ex.com/t/702634",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "请教大家一个问题， m3u8 文件如何防下载",
+        "link": "https://www.v2ex.com/t/702631",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "从 1 月 31 号开始的一个月之后是哪天",
+        "link": "https://www.v2ex.com/t/702630",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "2020 晒晒你的 Vim 主题",
+        "link": "https://www.v2ex.com/t/702629",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "iPhone 太旧，如何更新特定版本的 app？",
+        "link": "https://www.v2ex.com/t/702628",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "手机有什么好的搜索引擎推荐",
+        "link": "https://www.v2ex.com/t/702626",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "[社招] 字节跳动 - 移动 OS 教育 / 电商业务，高级前端工程师，坐标：北京 - 中关村",
+        "link": "https://www.v2ex.com/t/702625",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "GitHub 自带的看板为什么与 Issue 强关联？我想把自己的业余学习事项用 GitHub 看板管理。",
+        "link": "https://www.v2ex.com/t/702624",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "判断是否字母的问题",
+        "link": "https://www.v2ex.com/t/702620",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "想要入手一个平板，记录日常的笔记； iReader Smart X ； iPad pro； huawei pad； sony ；这几个大家怎么选？有推荐的吗？",
+        "link": "https://www.v2ex.com/t/702619",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "神经网络模型在训练第一个 Epoch 报出 Warning 然后继续从头开始训练循环往复，请问如何解决？",
+        "link": "https://www.v2ex.com/t/702616",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "国内的大型零售商为啥没有人做类似山姆会员店的付费会员模式？",
+        "link": "https://www.v2ex.com/t/702613",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "明明大家都是同一起跑线的兄弟，你却可以准备结婚了",
+        "link": "https://www.v2ex.com/t/702611",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "有没有发现我们生活接触的体育运动大部分玩家都是野路子出身？",
+        "link": "https://www.v2ex.com/t/702610",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "地图无法定位当前位置",
+        "link": "https://www.v2ex.com/t/702609",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "刚翻唱了周杰伦的《回到过去》 大家伙帮我听听唱得咋样 [旺柴]",
+        "link": "https://www.v2ex.com/t/702607",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "emmm 帮朋友收个 airpods 二代 教育优惠的",
+        "link": "https://www.v2ex.com/t/702606",
+        "date": "2020-08-30"
+      },
+      {
+        "title": "异步函数如何强制同步执行？",
+        "link": "https://www.v2ex.com/t/702605",
+        "date": "2020-08-30"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",

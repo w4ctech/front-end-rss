@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 07:01:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 07:06:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,9 +86,14 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-08-20-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/678351a2d3edbf0921c1ab972bc4510f) 
+- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
+- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
+- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
+- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-08-24-初探视频原理和FFmpeg](https://www.ershicimi.com/p/d2b22c5f83e76f61caad1c48b650c7a6) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) 
+- [2020-08-31-今天看了一个关于-Shopee-开店的课程直播](https://www.v2ex.com/t/702829) 
 - [2020-08-31-视频解析还可以呦~](https://www.v2ex.com/t/702802) 
 - [2020-08-31-看视频常见的-720p、1080p、4k，这些分辨率到底包含了什么-www.upyun.com](https://blogread.cn/news/go.php?idItem=13722&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F576%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-26-【视频】|-Python:字符串和常量](https://sec.thief.one/article_content?a_id=8bd4b3a056a9ad99db6d62589189460b) 

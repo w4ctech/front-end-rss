@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 10:48:14，:rocket: 更新条数: +3362， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 11:01:49，:rocket: 更新条数: +3584， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -64,7 +64,8 @@
 </summary>
 
 
-- [2020-08-30-8月30日全国新增境外输入新冠17例](https://m.caixin.com/m/2020-08-31/101599065.html) ![](assets/new.png)  
+- [2020-08-30-最新疫情：全国新冠累计确诊85048例-新增境外输入17例](http://m.china.caixin.com/m/2020-08-31/101599390.html) ![](assets/new.png)  
+- [2020-08-30-最新海外疫情：新冠感染超2509万-累计死亡超84万](http://m.international.caixin.com/m/2020-08-31/101599392.html) ![](assets/new.png)  
 - [2020-08-30-【境内疫情观察】全国连续15日无新增本土病例（8月30日）](http://m.database.caixin.com/m/2020-08-31/101599218.html) ![](assets/new.png)  
 - [2020-08-30-大流行手记|8月30日：全球新冠确诊破2500万-英国9月全面开学引争议](https://m.caixin.com/m/2020-08-31/101599105.html) ![](assets/new.png)  
 - [2020-08-29-【境内疫情观察】全国新增9例境外输入病例（8月29日）](http://m.database.caixin.com/m/2020-08-30/101598926.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-24-香港本地疫情缓和-电影院美容院将重开](https://m.caixin.com/m/2020-08-25/101596797.html) ![](assets/new.png)  
 - [2020-08-24-【境内疫情观察】全国新增14例境外输入病例（8月24日）](http://m.database.caixin.com/m/2020-08-25/101596684.html) ![](assets/new.png)  
 - [2020-08-24-大流行手记|8月24日：疫情威胁全球粮食安全-美国新增病例增势趋缓](https://m.caixin.com/m/2020-08-25/101596567.html) ![](assets/new.png)  
-- [2020-08-23-【境内疫情观察】全国新增16例境外输入病例（8月23日）](http://m.database.caixin.com/m/2020-08-24/101596225.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,7 @@
 </summary>
 
 
+- [2020-08-31-陆家嘴软件园的兄弟们，请你们不要再定预定外卖了，损人不利己啊](https://www.v2ex.com/t/702914) ![](assets/new.png)  
 - [2020-08-31-人生第一台-iPhone](https://www.v2ex.com/t/702913) ![](assets/new.png)  
 - [2020-08-31-大家有没有出现过-mac-下所有软件的导出功能失效的问题](https://www.v2ex.com/t/702912) ![](assets/new.png)  
 - [2020-08-31-上海，不加班，-15-薪，教育公司，氛围好](https://www.v2ex.com/t/702911) ![](assets/new.png)  
@@ -1076,7 +1097,6 @@
 - [2020-08-31-苹果将会配合-Apple-Silicon-推出自行研发设计的绘图处理器（GPU）](https://www.v2ex.com/t/702895) ![](assets/new.png)  
 - [2020-08-31-求一句-MySQL-SQL-语句，表内指定字段重复的条目，以-UpdateTime-字段排序，只保留最新一条。。。](https://www.v2ex.com/t/702893) ![](assets/new.png)  
 - [2020-08-31-谷歌面试题：二叉查找树迭代器（hard-题，面试中有变形）](https://www.v2ex.com/t/702892) ![](assets/new.png)  
-- [2020-08-31-iOS-模拟器运行报错,真机没问题,从未遇到过,这个是哪里的问题啊,维护的项目,不知道设置了什么,平时还是喜欢用模拟器](https://www.v2ex.com/t/702891) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1145,8 @@
 - [2020-08-31-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
 - [2020-08-31-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
 - [2020-08-31-彻底搞懂-etcd-系列文章（七）：etcd-gRPC-服务-API](https://toutiao.io/k/sw8edpy) ![](assets/new.png)  
-- [2020-08-31-在-aws-上使用-eks-进行服务发布](https://toutiao.io/k/yom9oge) ![](assets/new.png)  
 - [2020-08-31-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
+- [2020-08-31-在-aws-上使用-eks-进行服务发布](https://toutiao.io/k/yom9oge) ![](assets/new.png)  
 - [2020-08-31-动态规划问题为什么要画表格？](https://toutiao.io/k/ak1vnp7) ![](assets/new.png)  
 - [2020-08-31-科普，想成为厉害的-Java-后端程序员，你需要懂这些](https://toutiao.io/k/uoqreby) ![](assets/new.png)  
 - [2020-08-31-还在手工生成数据库文档？3-个步骤自动完成了解一下](https://toutiao.io/k/vshredp) ![](assets/new.png)  

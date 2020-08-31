@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2020-08-31 02:17:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 02:18:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-08-31-我把公司当家，老板当爹，结局...](https://www.ershicimi.com/p/11c1f4c310283bd5bdfd307162eec3cc) 
+- [2020-08-25-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/6b2b0fd10a0fedbbf4ae9b369d12e8fc) 
+- [2020-08-25-七夕---程序员表白代码](https://www.ershicimi.com/p/9ce3b4c32b95941f167ef699c63e8e0d) 
+- [2020-08-23-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/0a8e5e3631400f06d8b77cdfec967a6e) 
+- [2020-08-22-假如特朗普是一门编程语言](https://www.ershicimi.com/p/c7e6f0cbdabd744b0ee67a8043071d33) 
+- [2020-08-19-前端登录，这一篇就够了](https://www.ershicimi.com/p/92afd770c05a430e8a690e4e787de01f) 
+- [2020-08-16-让你编码嗨到停不下来的8个VSCode插件](https://www.ershicimi.com/p/ac1fb2e5cbeaf78e68576b7ae73c2034) 
+- [2020-08-16-当大神遇到Bug，惊呆了...](https://www.ershicimi.com/p/6775a3ca87d0a2914f3a64e5cbf582e6) 
 - [2020-08-28-科技爱好者周刊（第-122-期）：谈谈互联网公司的高估值](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html) 
 - [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html) 
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html) 

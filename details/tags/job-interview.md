@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 09:48:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 10:01:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -46,7 +46,6 @@
 - [2020-08-31-谷歌面试题：二叉查找树迭代器（hard-题，面试中有变形）](https://www.v2ex.com/t/702892) 
 - [2020-08-31-郑州/-PHP-诸葛找房郑州分公司,欲招聘数名-PHP-开发,双休,十三薪，可以一看。](https://www.v2ex.com/t/702873) 
 - [2020-08-31-招聘/北京-今年最后一波社招-金融机构-Java-/数据/前端](https://www.v2ex.com/t/702862) 
-- [2020-08-31-字节跳动电商杭州分部招聘前端](https://www.v2ex.com/t/702845) 
 - [2020-08-31-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
 - [2020-08-15-牛聘|2020年度岗位招聘第10期](https://sec.thief.one/article_content?a_id=48dc5bfc5999e36a623b8c8acdda0d3a) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 14:31:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 14:33:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2227,12 +2227,6 @@
 - [2020-08-31-疫情持续-乌干达整体经济增长预期受到抑制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticNQoedwedUZQQATlzKO1200831&isfromapp=1) 
 - [2020-08-31-比利时统计局：新冠疫情致部分食品杂货价格上涨达-10%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL99ftA9uyky0CAfxls62200831&isfromapp=1) 
 - [2020-08-31-印度前总统穆克吉健康状况恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidh7KTPZNEYqpZuBqdUB6200831&isfromapp=1) 
-- [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
-- [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
-- [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
-- [2020-01-06-推荐几个前端领域的优质公众号](https://www.ershicimi.com/p/2ecc19eb701a08ec7dc1ffbcc07b4487) 
-- [2020-01-04-【搞笑漫画】程序员鄙视链](https://www.ershicimi.com/p/99356f25157eaf693a3a9aa592666dbb) 
-- [2019-12-25-给开发人员的时间管理建议](https://www.ershicimi.com/p/fe451d9ed185297ab9a70fc9109d41fe) 
 - [2020-08-31-为什么大家都在吹捧Python，大厂高薪敲门砖了解一下](https://www.ershicimi.com/p/57f59e1b53bba44e594fe61bc91d0ff6) 
 - [2020-08-27-160买400的硬核书，当当这波羊毛别忘薅！](https://www.ershicimi.com/p/71f83d6d4f21ac6f6a74d989b8e9a7e7) 
 - [2020-08-26-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/96500598de350e20fae35611f5ab1e1d) 

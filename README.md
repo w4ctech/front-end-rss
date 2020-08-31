@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 03:33:19，:rocket: 更新条数: +3356， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 03:46:42，:rocket: 更新条数: +3357， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-31-浙江31日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9VpIVpzzog6PuMpnsCFS200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-张伯礼借央视新闻平台请家长们放心：校园已搭起防控“安全网”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNGfj8ED7FAeT2mjyi3dD200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-新加坡一家庭聚会-5人感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit1QK9HXKjTmXYHTR4oh7200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-疫中看巴西丨疫情之下难迎开学季](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikbAfcUT5b9s4TLxwKNoB200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-截至8月30日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/414339.jhtml) ![](assets/new.png)  
-- [2020-08-31-新学期来临-多国采取各种方式平衡复课和防疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHzK9Gl0jRAIMGM4ZadIM200831&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -949,8 +949,8 @@
 
 - [2020-08-30-深入Node.js的模块加载机制，手写require函数](https://juejin.im/post/6866973719634542606) ![](assets/new.png)  
 - [2020-08-30-精读《数据搭建引擎-bi-designer-API-设计器》](https://juejin.im/post/6866968983812521992) ![](assets/new.png)  
-- [2020-08-30-当裸辞遇到了面试难，你需要了解一下这些面试题](https://juejin.im/post/6866920515420815374) ![](assets/new.png)  
 - [2020-08-30-「一劳永逸」48张小图带你领略flex布局之美](https://juejin.im/post/6866914148387651592) ![](assets/new.png)  
+- [2020-08-29-基于AntV-G2实现一个通用可视化Vue插件-|-🏆-技术专题第三期征文](https://juejin.im/post/6866330015970099208) ![](assets/new.png)  
 - [2020-08-26-5858快到家-React+hooks+redux项目实战](https://juejin.im/post/6865495375382806535) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-08-31-基于苹果-ac+和-ac-的问题，请教各位大佬](https://www.v2ex.com/t/702772) ![](assets/new.png)  
+- [2020-08-31-微信小程序，授权手机号码能用-google-voice-么？](https://www.v2ex.com/t/702771) ![](assets/new.png)  
+- [2020-08-31-求推荐游戏引擎](https://www.v2ex.com/t/702770) ![](assets/new.png)  
+- [2020-08-31-这个是怎么加密的啊？厂家说是-DES-加密，试了半天没搞出来](https://www.v2ex.com/t/702769) ![](assets/new.png)  
+- [2020-08-31-微信公众号后台，你们家的数据统计挂了！](https://www.v2ex.com/t/702768) ![](assets/new.png)  
 - [2020-08-31-PHP-获取文件如何确保和源文件一致？](https://www.v2ex.com/t/702767) ![](assets/new.png)  
 - [2020-08-31-如何在-gRPC-服务上定义权限分配的-schema（规则？不知道咋翻了）](https://www.v2ex.com/t/702766) ![](assets/new.png)  
 - [2020-08-31-如何获取-Gsuite-港区商业版-20%off-优惠码~](https://www.v2ex.com/t/702765) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-08-31-跳槽，应该涨多少？](https://www.v2ex.com/t/702752) ![](assets/new.png)  
 - [2020-08-31-个人在-Github-公开翻译国内已出版中文版的英文图书，是否构成盗版和侵权？](https://www.v2ex.com/t/702751) ![](assets/new.png)  
 - [2020-08-31-mbp-升级到-10.15.6-之后,-切换工作区,-外接显示器也跟着一起切换了](https://www.v2ex.com/t/702750) ![](assets/new.png)  
-- [2020-08-31-A-polyglot-web-converter-https://transform.tools/](https://www.v2ex.com/t/702747) ![](assets/new.png)  
-- [2020-08-31-用好这几个技巧，解决-Maven-Jar-包冲突易如反掌](https://www.v2ex.com/t/702745) ![](assets/new.png)  
-- [2020-08-31-Mac-还剩-80-GB-本地空间，复制-130-GB-的系统自带照片图库到移动硬盘，不一会就提示电脑空间不足，怎么解决？](https://www.v2ex.com/t/702743) ![](assets/new.png)  
-- [2020-08-31-给喜欢用-Vimium-的-Mac-键盘党一个全局切换软件](https://www.v2ex.com/t/702742) ![](assets/new.png)  
-- [2020-08-31-盒马&招行无门槛立减](https://www.v2ex.com/t/702739) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1122,8 @@
 - [2020-08-31-程序员戴耳机敲代码，到底在听啥？|-码农周刊第-316-期](https://toutiao.io/k/mkcz3p1) ![](assets/new.png)  
 - [2020-08-31-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
 - [2020-08-31-彻底搞懂-etcd-系列文章（七）：etcd-gRPC-服务-API](https://toutiao.io/k/sw8edpy) ![](assets/new.png)  
-- [2020-08-31-在-aws-上使用-eks-进行服务发布](https://toutiao.io/k/yom9oge) ![](assets/new.png)  
 - [2020-08-31-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-08-31-在-aws-上使用-eks-进行服务发布](https://toutiao.io/k/yom9oge) ![](assets/new.png)  
 - [2020-08-31-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
 - [2020-08-31-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
 - [2020-08-31-动态规划问题为什么要画表格？](https://toutiao.io/k/ak1vnp7) ![](assets/new.png)  
@@ -1132,13 +1132,13 @@
 - [2020-08-31-科普，想成为厉害的-Java-后端程序员，你需要懂这些](https://toutiao.io/k/uoqreby) ![](assets/new.png)  
 - [2020-08-31-Android-加载图片占用内存分析](https://toutiao.io/k/pg47m32) ![](assets/new.png)  
 - [2020-08-31-PHP-FPM-进程模型](https://toutiao.io/k/dzyb5qc) ![](assets/new.png)  
-- [2020-08-31-HashMap-实现原理分析（一）](https://toutiao.io/k/zwecqtf) ![](assets/new.png)  
 - [2020-08-31-手淘实习百日记](https://toutiao.io/k/8h1hg8p) ![](assets/new.png)  
-- [2020-08-31-AQS-原理剖析](https://toutiao.io/k/meupj67) ![](assets/new.png)  
-- [2020-08-31-在-Kotlin-的-data-class-中使用-MapStruct](https://toutiao.io/k/oqy0ow8) ![](assets/new.png)  
+- [2020-08-31-HashMap-实现原理分析（一）](https://toutiao.io/k/zwecqtf) ![](assets/new.png)  
 - [2020-08-31-RSA-加密算法主要公式](https://toutiao.io/k/88tl7vl) ![](assets/new.png)  
-- [2020-08-31-高效掌握新技能的-“树型思维”](https://toutiao.io/k/4lxnpx9) ![](assets/new.png)  
+- [2020-08-31-AQS-原理剖析](https://toutiao.io/k/meupj67) ![](assets/new.png)  
 - [2020-08-31-线上-Go-程序偶尔出现异常怎么办？这个思路可解决你的烦恼](https://toutiao.io/k/2qvqfwk) ![](assets/new.png)  
+- [2020-08-31-在-Kotlin-的-data-class-中使用-MapStruct](https://toutiao.io/k/oqy0ow8) ![](assets/new.png)  
+- [2020-08-31-高效掌握新技能的-“树型思维”](https://toutiao.io/k/4lxnpx9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

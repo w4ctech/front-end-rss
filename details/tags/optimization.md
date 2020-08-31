@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 14:33:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 14:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -21,13 +21,12 @@
 - [2020-08-21-两行代码实现图片碎片化加载](https://www.ershicimi.com/p/165b79e16b8a59b1799441768291f3f2) 
 - [2020-08-30-从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/3b2320a714b0da3f00d2ef5987edc815) 
 - [2020-08-29-网站优化，这些工具你一定用得着](https://www.ershicimi.com/p/1ea244ce3464291c67fe0a63322a0285) 
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-08-31-全方面分析-Hilt-和-Koin-性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13727&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FD86krymBKK02zGEPRjV09g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-31-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) 
 - [2020-08-31-Android-加载图片占用内存分析](https://toutiao.io/k/pg47m32) 
-- [2020-08-31-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) 
 - [2020-08-31-推荐-​Linux-CPU-性能优化指南](https://toutiao.io/k/e6zbho6) 
+- [2020-08-31-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) 
 - [2020-08-31-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) 
 - [2020-08-31-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) 
+- [2020-08-31-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 07:33:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 07:46:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -59,5 +59,4 @@
 - [2020-08-04-Vue的生命周期有多长？](https://www.ershicimi.com/p/eb6c9a853fe54f661ed6b543e15c39cf) 
 - [2020-08-30-Vuex的五个核心概念—state/getter/mutation/action/module](https://juejin.im/post/6867020770061582350) 
 - [2020-08-30-Vue-开发规范](https://juejin.im/post/6866803898590593031) 
-- [2020-08-29-分享一下我用VueCli创建项目以后都干了哪些准备工作](https://juejin.im/post/6866656374407823368) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

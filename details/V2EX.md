@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-31 22:33:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 22:46:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-31-出售京东-plus50-网易云音乐-40-快看漫画-15-去哪-10-大地影院-5](https://www.v2ex.com/t/702977) 
 - [2020-08-31-除了微信和-FaceTime,-有什么免费&稳定的视频/语音通话和通讯软件推荐?](https://www.v2ex.com/t/702976) 
 - [2020-08-31-重新自学-PHP](https://www.v2ex.com/t/702975) 
 - [2020-08-31-关于-iOS-14-Beta-更新时卡在-Terms-and-Conditions-的问题](https://www.v2ex.com/t/702974) 
@@ -42,4 +43,3 @@
 - [2020-08-31-超大杯之间的对决：小米-10-至尊纪念版-ultra-vs-华为-P40-Pro-+-plus-详细对比评测](https://www.v2ex.com/t/702930) 
 - [2020-08-31-讨教下购-Apple-的经验](https://www.v2ex.com/t/702929) 
 - [2020-08-31-注意：零遁-EASYNET-的内网访问并不会隔离不同用户的资源](https://www.v2ex.com/t/702928) 
-- [2020-08-31-录取到了人力资源管理，有些疑惑](https://www.v2ex.com/t/702927) 

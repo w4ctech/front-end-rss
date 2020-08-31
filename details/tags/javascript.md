@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 03:16:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 03:18:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -31,6 +31,11 @@
 - [2020-01-01-倏忽一年：回顾点评前端-2019-重大事件、趋势](https://www.ershicimi.com/p/88b10c5e55ecef0583393efa7d466665) 
 - [2019-12-30-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/8afb29a5864bf11ab6723cdc66a0c6ab) 
 - [2019-12-26-如何答一道惊艳面试官的数组去重问题？](https://www.ershicimi.com/p/65b6fbfea2975868732525463c062fdf) 
+- [2020-08-31-组件库主题设计方案](https://www.ershicimi.com/p/bd627e1f5077fcdfcebbd4ab1f52d0b3) 
+- [2020-08-30-JS双等号比较符（“==”）作用细节](https://www.ershicimi.com/p/07f1ee574b986bab870b96fdbc16215e) 
+- [2020-08-29-JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/5bcbb20189299ec55fd6551294609e0f) 
+- [2020-08-25-收藏-|-JS开发必须知道的41个技巧](https://www.ershicimi.com/p/8f396b8d923dbf163755b74732500162) 
+- [2020-08-25-23条JavaScript初学者应知的最佳实践方法](https://www.ershicimi.com/p/d909ffd10b2489b792a673d653734ebb) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-08-19-【图书】JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/0670af4c43a69b00c705bafb864ad249) 

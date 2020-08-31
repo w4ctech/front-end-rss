@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 03:16:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 03:18:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2231,6 +2231,14 @@
 - [2020-01-06-推荐几个前端领域的优质公众号](https://www.ershicimi.com/p/2ecc19eb701a08ec7dc1ffbcc07b4487) 
 - [2020-01-04-【搞笑漫画】程序员鄙视链](https://www.ershicimi.com/p/99356f25157eaf693a3a9aa592666dbb) 
 - [2019-12-25-给开发人员的时间管理建议](https://www.ershicimi.com/p/fe451d9ed185297ab9a70fc9109d41fe) 
+- [2020-08-31-为什么大家都在吹捧Python，大厂高薪敲门砖了解一下](https://www.ershicimi.com/p/57f59e1b53bba44e594fe61bc91d0ff6) 
+- [2020-08-27-160买400的硬核书，当当这波羊毛别忘薅！](https://www.ershicimi.com/p/71f83d6d4f21ac6f6a74d989b8e9a7e7) 
+- [2020-08-26-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/96500598de350e20fae35611f5ab1e1d) 
+- [2020-08-24-为什么阿里P6+前端这么值钱?](https://www.ershicimi.com/p/1ac291ab159fd81f2d9e6af8d91cb21c) 
+- [2020-08-24-前端简历中的项目经历怎么突出亮点？](https://www.ershicimi.com/p/ed6f05e2ac04c32985b4ad02d45b16bd) 
+- [2020-08-23-一文搞懂CDN加速原理](https://www.ershicimi.com/p/0a3b60fc85388732432ec63dcdc24a8b) 
+- [2020-08-23-你可能需要一个优质前端交流群](https://www.ershicimi.com/p/bc03952104f039c5a016fef4ec18b0f6) 
+- [2020-08-21-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/3f28bbd461d074860be4532fa14d2558) 
 - [2019-12-09-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d) 
 - [2019-12-06-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3) 
 - [2019-12-05-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/c000cfc00b1de7d595f4c51820cc7630) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 21:48:09，:rocket: 更新条数: +3579， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 22:02:38，:rocket: 更新条数: +3579， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1146,8 +1146,8 @@
 - [2020-08-31-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
 - [2020-08-31-彻底搞懂-etcd-系列文章（七）：etcd-gRPC-服务-API](https://toutiao.io/k/sw8edpy) ![](assets/new.png)  
 - [2020-08-31-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-08-31-在-aws-上使用-eks-进行服务发布](https://toutiao.io/k/yom9oge) ![](assets/new.png)  
 - [2020-08-31-动态规划问题为什么要画表格？](https://toutiao.io/k/ak1vnp7) ![](assets/new.png)  
+- [2020-08-31-在-aws-上使用-eks-进行服务发布](https://toutiao.io/k/yom9oge) ![](assets/new.png)  
 - [2020-08-31-科普，想成为厉害的-Java-后端程序员，你需要懂这些](https://toutiao.io/k/uoqreby) ![](assets/new.png)  
 - [2020-08-31-Android-加载图片占用内存分析](https://toutiao.io/k/pg47m32) ![](assets/new.png)  
 - [2020-08-31-还在手工生成数据库文档？3-个步骤自动完成了解一下](https://toutiao.io/k/vshredp) ![](assets/new.png)  

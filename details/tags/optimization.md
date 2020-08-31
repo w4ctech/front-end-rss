@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 12:02:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 12:06:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-19-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-08-21-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/41e3d1505f669635e89074edfbeab9ae) 
 - [2020-08-21-【招聘】字节跳动杭州-Data-广告系统-展现优化招前端开发工程师（校招+社招）](https://www.ershicimi.com/p/062d9435803e76ddcbc362c09914370f) 
 - [2020-08-30-前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome-85发布，提高页面加载速度；iPhon](https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb) 

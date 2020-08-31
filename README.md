@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 12:02:07，:rocket: 更新条数: +1003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 12:06:48，:rocket: 更新条数: +3582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-08-30-最新疫情：全国新冠累计确诊85048例-新增境外输入17例](http://m.china.caixin.com/m/2020-08-31/101599390.html) ![](assets/new.png)  
+- [2020-08-30-最新海外疫情：新冠感染超2509万-累计死亡超84万](http://m.international.caixin.com/m/2020-08-31/101599392.html) ![](assets/new.png)  
+- [2020-08-30-【境内疫情观察】全国连续15日无新增本土病例（8月30日）](http://m.database.caixin.com/m/2020-08-31/101599218.html) ![](assets/new.png)  
+- [2020-08-30-大流行手记|8月30日：全球新冠确诊破2500万-英国9月全面开学引争议](https://m.caixin.com/m/2020-08-31/101599105.html) ![](assets/new.png)  
+- [2020-08-29-【境内疫情观察】全国新增9例境外输入病例（8月29日）](http://m.database.caixin.com/m/2020-08-30/101598926.html) ![](assets/new.png)  
+- [2020-08-29-大流行手记|8月29日：美共和党大会4人确诊-印度数百医护人员病亡](https://m.caixin.com/m/2020-08-30/101598907.html) ![](assets/new.png)  
+- [2020-08-28-【境内疫情观察】辽宁本土在院病例清零（8月28日）](http://m.database.caixin.com/m/2020-08-29/101598785.html) ![](assets/new.png)  
+- [2020-08-28-大流行手记|8月28日：谭德赛说疫情影响精神健康-全美逾44万儿童染疫](https://m.caixin.com/m/2020-08-29/101598633.html) ![](assets/new.png)  
+- [2020-08-27-【境内疫情观察】全国新增9例境外输入病例（8月27日）](http://m.database.caixin.com/m/2020-08-28/101598252.html) ![](assets/new.png)  
+- [2020-08-27-大流行手记|8月27日：全球多个二次感染病例浮现-美国缩小新冠检测范围引担忧](https://m.caixin.com/m/2020-08-28/101598091.html) ![](assets/new.png)  
+- [2020-08-27-欧洲多国解封后单日新增又创新高-年轻人感染率激增](http://m.international.caixin.com/m/2020-08-28/101598512.html) ![](assets/new.png)  
+- [2020-08-26-香港全民检测在即-华大回应检测准确率疑云](https://m.caixin.com/m/2020-08-27/101597833.html) ![](assets/new.png)  
+- [2020-08-26-【境内疫情观察】全国新增8例境外输入病例（8月26日）](http://m.database.caixin.com/m/2020-08-27/101597696.html) ![](assets/new.png)  
+- [2020-08-26-大流行手记|8月26日：美国多所高校暴发疫情-韩国首都圈学校恢复网课](https://m.caixin.com/m/2020-08-27/101597570.html) ![](assets/new.png)  
+- [2020-08-25-港大教授详解二次感染病例-还要不要接种新冠疫苗？](http://m.china.caixin.com/m/2020-08-26/101597053.html) ![](assets/new.png)  
+- [2020-08-25-【境内疫情观察】全国新增15例境外输入病例（8月25日）](http://m.database.caixin.com/m/2020-08-26/101597234.html) ![](assets/new.png)  
+- [2020-08-25-大流行手记|8月25日：非洲新冠死亡率更低-172个国家地区加入全球疫苗计划](https://m.caixin.com/m/2020-08-26/101597079.html) ![](assets/new.png)  
+- [2020-08-24-香港本地疫情缓和-电影院美容院将重开](https://m.caixin.com/m/2020-08-25/101596797.html) ![](assets/new.png)  
+- [2020-08-24-【境内疫情观察】全国新增14例境外输入病例（8月24日）](http://m.database.caixin.com/m/2020-08-25/101596684.html) ![](assets/new.png)  
+- [2020-08-24-大流行手记|8月24日：疫情威胁全球粮食安全-美国新增病例增势趋缓](https://m.caixin.com/m/2020-08-25/101596567.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 02:48:24，:rocket: 更新条数: +3352， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 03:02:37，:rocket: 更新条数: +3352， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-31-新加坡一家庭聚会-5人感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit1QK9HXKjTmXYHTR4oh7200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-截至8月30日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/414339.jhtml) ![](assets/new.png)  
 - [2020-08-31-新学期来临-多国采取各种方式平衡复课和防疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHzK9Gl0jRAIMGM4ZadIM200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-30-美国36个州报告近9千例高校确诊病例-专家建议疫情高校集中隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidsz65dS6bGgJEF1EWiMH200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-30-巴西累计新冠肺炎确诊病例超386万例-圣保罗市年轻人感染率达17.7%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid51d125UaqucN0a76XjP200831&isfromapp=1) ![](assets/new.png)  
-- [2020-08-30-​哥伦比亚9月起将重启旅游业-宾馆、海滩等场所可恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYdIQMACdnaunm5K6sVV3200831&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -291,6 +291,7 @@
 </summary>
 
 
+- [2020-08-31-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/a9337d0dd478f3fdf1e4bd2da7a9a315) ![](assets/new.png)  
 - [2020-08-29-什么时候适合使用-Map-而不是-Object](https://www.ershicimi.com/p/e273470c288b15e9148f7bfe4314d588) ![](assets/new.png)  
 - [2020-08-29-疯传！某大厂P8面试题库遭到泄露！](https://www.ershicimi.com/p/f91c2932a95bee7f1b4c9e22ef33958e) ![](assets/new.png)  
 - [2020-08-28-前阿里手淘前端负责人@winter：前端人如何保持竞争力？](https://www.ershicimi.com/p/2f5718bda413c1dd648ddb27aead15f4) ![](assets/new.png)  
@@ -310,7 +311,6 @@
 - [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/dbcbb37e2b049d82b4c7a6170708306c) ![](assets/new.png)  
 - [2020-08-17-只用-div-和-css-能玩出什么花来？请扶好下巴！](https://www.ershicimi.com/p/04cbca4e6830d30be444ade6af0e6ca5) ![](assets/new.png)  
 - [2020-08-15-JavaScript最大的秘密](https://www.ershicimi.com/p/697382eab9b61edfb064ab2f078de6d7) ![](assets/new.png)  
-- [2020-08-14-揭秘内幕：华为内部使用的vue技术公开](https://www.ershicimi.com/p/ec85f985997b000cbbc5b08706318dcc) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-08-31-爱奇艺北京-CDN-数据开发工程师](https://www.v2ex.com/t/702753) ![](assets/new.png)  
+- [2020-08-31-跳槽，应该涨多少？](https://www.v2ex.com/t/702752) ![](assets/new.png)  
+- [2020-08-31-个人在-Github-公开翻译国内已出版中文版的英文图书，是否构成盗版和侵权？](https://www.v2ex.com/t/702751) ![](assets/new.png)  
+- [2020-08-31-mbp-升级到-10.15.6-之后,-切换工作区,-外接显示器也跟着一起切换了](https://www.v2ex.com/t/702750) ![](assets/new.png)  
+- [2020-08-31-北京联通高性价比套餐](https://www.v2ex.com/t/702748) ![](assets/new.png)  
 - [2020-08-31-A-polyglot-web-converter-https://transform.tools/](https://www.v2ex.com/t/702747) ![](assets/new.png)  
 - [2020-08-31-用好这几个技巧，解决-Maven-Jar-包冲突易如反掌](https://www.v2ex.com/t/702745) ![](assets/new.png)  
 - [2020-08-31-Mac-还剩-80-GB-本地空间，复制-130-GB-的系统自带照片图库到移动硬盘，不一会就提示电脑空间不足，怎么解决？](https://www.v2ex.com/t/702743) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-08-31-上海-掌门一对一-AI-部门-有人在吗-研发岗-怎么样？](https://www.v2ex.com/t/702729) ![](assets/new.png)  
 - [2020-08-31-React-Native-开发基础库，超实用！](https://www.v2ex.com/t/702727) ![](assets/new.png)  
 - [2020-08-31-我有一个非常想买的产品需要询问。](https://www.v2ex.com/t/702725) ![](assets/new.png)  
-- [2020-08-31-客户是外贸,怎么架构才正确.](https://www.v2ex.com/t/702724) ![](assets/new.png)  
-- [2020-08-31-某些语言的协程机制，其作用是什么，是否会造成额外的开销](https://www.v2ex.com/t/702723) ![](assets/new.png)  
-- [2020-08-31-苹果-11-系列手维修需要注意的事项](https://www.v2ex.com/t/702722) ![](assets/new.png)  
-- [2020-08-31-2020-年-8-月底了，家用-Mesh-网络路由器有推荐的么？](https://www.v2ex.com/t/702721) ![](assets/new.png)  
-- [2020-08-31-求助，蜗牛星际黑群晖异常关机后出现问题](https://www.v2ex.com/t/702720) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,19 +1126,19 @@
 - [2020-08-31-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
 - [2020-08-31-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
 - [2020-08-31-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
-- [2020-08-31-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
 - [2020-08-31-动态规划问题为什么要画表格？](https://toutiao.io/k/ak1vnp7) ![](assets/new.png)  
+- [2020-08-31-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
 - [2020-08-31-还在手工生成数据库文档？3-个步骤自动完成了解一下](https://toutiao.io/k/vshredp) ![](assets/new.png)  
 - [2020-08-31-科普，想成为厉害的-Java-后端程序员，你需要懂这些](https://toutiao.io/k/uoqreby) ![](assets/new.png)  
 - [2020-08-31-Android-加载图片占用内存分析](https://toutiao.io/k/pg47m32) ![](assets/new.png)  
 - [2020-08-31-PHP-FPM-进程模型](https://toutiao.io/k/dzyb5qc) ![](assets/new.png)  
-- [2020-08-31-手淘实习百日记](https://toutiao.io/k/8h1hg8p) ![](assets/new.png)  
 - [2020-08-31-HashMap-实现原理分析（一）](https://toutiao.io/k/zwecqtf) ![](assets/new.png)  
-- [2020-08-31-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
-- [2020-08-31-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
+- [2020-08-31-手淘实习百日记](https://toutiao.io/k/8h1hg8p) ![](assets/new.png)  
+- [2020-08-31-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
+- [2020-08-31-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
+- [2020-08-31-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
 - [2020-08-31-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
-- [2020-08-31-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
-- [2020-08-31-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) ![](assets/new.png)  
+- [2020-08-31-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

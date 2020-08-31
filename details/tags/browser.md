@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 13:02:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 13:06:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,7 @@
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-31-Data-Scientist](https://www.v2ex.com/t/702915) 
 - [2020-08-31-安全与风控岗位员工内推（实时反馈进度+HC-很多+响应速度快）](https://www.v2ex.com/t/702890) 
 - [2020-08-31-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 

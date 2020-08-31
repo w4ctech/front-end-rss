@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 13:02:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 13:06:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -35,6 +35,8 @@
 - [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) 
 - [2020-06-18-政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c) 
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
+- [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
+- [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-08-27-肝完这篇-TCP/IP-，我就面试去！](https://www.ershicimi.com/p/a194e1ce51cb55a03b99730e3d6c5e76) 
 - [2020-08-26-掌握了这30道MySQL基础面试题，我成了面霸](https://www.ershicimi.com/p/0cdee53998225df3bcddc15abed262cb) 

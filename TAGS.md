@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-31 13:02:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 13:06:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -125,6 +125,7 @@
 - [【前端瓶子君】TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/7d480457079b49dcd33f872a2df97950)
 - [【前端瓶子君】Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/d948601d568750029fcc55a5f8ac2ce4)
 - [【程序员成长指北】想去字节面试，TypeScript-要掌握到什么程度？](https://www.ershicimi.com/p/8c23ffbc4aeea978af78394d9abeaedb)
+- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -577,6 +578,7 @@
 - [【Nodejs技术栈】推荐一位-Github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/ed297c30ed030e57e29c4b4dfdfec211)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【互联网架构师】这10个让你笑的合不拢嘴的GitHub项目，居然拿了7万星](https://www.ershicimi.com/p/616cf314d329a056fa79b55316b72f96)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)

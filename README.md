@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 07:18:06，:rocket: 更新条数: +3355， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 07:31:37，:rocket: 更新条数: +3353， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,7 +947,7 @@
 </summary>
 
 
-- [2020-08-30-前端职业规划---从阿里取消-P-等级显示来看什么是扁平化管理,-什么是组织创新](https://juejin.im/post/6866984319454642189) ![](assets/new.png)  
+- [2020-08-30-Vuex的五个核心概念—state/getter/mutation/action/module](https://juejin.im/post/6867020770061582350) ![](assets/new.png)  
 - [2020-08-30-Vue-开发规范](https://juejin.im/post/6866803898590593031) ![](assets/new.png)  
 - [2020-08-29-分享一下我用VueCli创建项目以后都干了哪些准备工作](https://juejin.im/post/6866656374407823368) ![](assets/new.png)  
 - [2020-08-25-Webpack构建library时的踩坑经历](https://juejin.im/post/6865182299941109774) ![](assets/new.png)  
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-31-免费的-YouTube-视频下载工具](https://www.v2ex.com/t/702831) ![](assets/new.png)  
 - [2020-08-31-今天看了一个关于-Shopee-开店的课程直播](https://www.v2ex.com/t/702829) ![](assets/new.png)  
 - [2020-08-31-支持-Callkit-的微信配合-Apple-Watch-收不到语音电话推送](https://www.v2ex.com/t/702828) ![](assets/new.png)  
 - [2020-08-31-请问一下-Android-上有没有这样的图片处理软件](https://www.v2ex.com/t/702827) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-31-代码中使用-API-时需要使用证书，这些证书如何安全管理？](https://www.v2ex.com/t/702805) ![](assets/new.png)  
 - [2020-08-31-我觉得这是微信的一个-Bug，-1.4G-占用不到-64G-的-1%](https://www.v2ex.com/t/702803) ![](assets/new.png)  
 - [2020-08-31-视频解析还可以呦~](https://www.v2ex.com/t/702802) ![](assets/new.png)  
-- [2020-08-31-有没有-win10-无线网经常掉线的朋友，想问问怎么回事](https://www.v2ex.com/t/702801) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,8 +1132,8 @@
 - [2020-08-31-还在手工生成数据库文档？3-个步骤自动完成了解一下](https://toutiao.io/k/vshredp) ![](assets/new.png)  
 - [2020-08-31-Android-加载图片占用内存分析](https://toutiao.io/k/pg47m32) ![](assets/new.png)  
 - [2020-08-31-手淘实习百日记](https://toutiao.io/k/8h1hg8p) ![](assets/new.png)  
-- [2020-08-31-HashMap-实现原理分析（一）](https://toutiao.io/k/zwecqtf) ![](assets/new.png)  
 - [2020-08-31-PHP-FPM-进程模型](https://toutiao.io/k/dzyb5qc) ![](assets/new.png)  
+- [2020-08-31-HashMap-实现原理分析（一）](https://toutiao.io/k/zwecqtf) ![](assets/new.png)  
 - [2020-08-31-线上-Go-程序偶尔出现异常怎么办？这个思路可解决你的烦恼](https://toutiao.io/k/2qvqfwk) ![](assets/new.png)  
 - [2020-08-31-高效掌握新技能的-“树型思维”](https://toutiao.io/k/4lxnpx9) ![](assets/new.png)  
 - [2020-08-31-在-Kotlin-的-data-class-中使用-MapStruct](https://toutiao.io/k/oqy0ow8) ![](assets/new.png)  

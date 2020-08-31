@@ -12907,6 +12907,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "疫情持续 乌干达整体经济增长预期受到抑制",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticNQoedwedUZQQATlzKO1200831&isfromapp=1",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "卡塔尔新增203例新冠肺炎确诊病例 疫情再度缓和",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWt6xpE5iX3fvPhMYZz22200831&isfromapp=1",
+        "date": "2020-08-31"
+      },
+      {
         "title": "比利时统计局：新冠疫情致部分食品杂货价格上涨达 10%",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL99ftA9uyky0CAfxls62200831&isfromapp=1",
         "date": "2020-08-31"
@@ -12919,16 +12929,6 @@
       {
         "title": "印度前总统穆克吉健康状况恶化",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidh7KTPZNEYqpZuBqdUB6200831&isfromapp=1",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "印度新增新冠肺炎确诊病例 78512 例，累计确诊超 362 万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6FhKRTe6ztOhPvmbsvyc200831&isfromapp=1",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "新冠肺炎疫情引发美企破产潮",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5FPDQ1jTfEnLaYPk8Y9F200831&isfromapp=1",
         "date": "2020-08-31"
       }
     ]
@@ -16827,6 +16827,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "[Web翻译]从开发者的角度对比Polymer和Angular",
+        "link": "https://juejin.im/post/6867076744399028238",
+        "date": "2020-08-31"
+      },
+      {
         "title": "Web开发应该知道的数据结构🍊",
         "link": "https://juejin.im/post/6866970001409064967",
         "date": "2020-08-30"
@@ -16839,11 +16844,6 @@
       {
         "title": "属性签名——高维数据可视化方法| 🏆 技术专题第三期",
         "link": "https://juejin.im/post/6866960310650011662",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "ThreeJS 源码剖析之 Renderer（一）",
-        "link": "https://juejin.im/post/6866951247157690376",
         "date": "2020-08-30"
       },
       {
@@ -17186,6 +17186,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "怎么正确理解招聘里面的熟悉二字？",
+        "link": "https://www.v2ex.com/t/702942",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "Python 到底是强类型语言，还是弱类型语言？",
+        "link": "https://www.v2ex.com/t/702941",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "空降领导 一年离职 下家问如何回复",
+        "link": "https://www.v2ex.com/t/702940",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "第四期德国 IT 岗位招聘之 System Administrator SAP, Software Developer， VMware Specialist",
+        "link": "https://www.v2ex.com/t/702938",
+        "date": "2020-08-31"
+      },
+      {
         "title": "高效的关键词替换和敏感词过滤工具",
         "link": "https://www.v2ex.com/t/702937",
         "date": "2020-08-31"
@@ -17368,31 +17388,6 @@
       {
         "title": "求一句 MySQL SQL 语句，表内指定字段重复的条目，以 UpdateTime 字段排序，只保留最新一条。。。",
         "link": "https://www.v2ex.com/t/702893",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "谷歌面试题：二叉查找树迭代器（hard 题，面试中有变形）",
-        "link": "https://www.v2ex.com/t/702892",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "iOS 模拟器运行报错,真机没问题,从未遇到过,这个是哪里的问题啊,维护的项目,不知道设置了什么,平时还是喜欢用模拟器",
-        "link": "https://www.v2ex.com/t/702891",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "安全与风控岗位员工内推（实时反馈进度+HC 很多+响应速度快）",
-        "link": "https://www.v2ex.com/t/702890",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "手机 wifi 坏了，保修期内，天才吧返厂维修，回来后，原彩功能没有了",
-        "link": "https://www.v2ex.com/t/702889",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "怎么这么多扫弱密码的...",
-        "link": "https://www.v2ex.com/t/702888",
         "date": "2020-08-31"
       }
     ]
@@ -17610,18 +17605,8 @@
         "date": "2020-08-31"
       },
       {
-        "title": "[推荐] 一道有意思的腾讯算法面试题",
-        "link": "https://toutiao.io/k/wui7yqj",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "[推荐] 史上最全的 vim 快捷键文档/手册/大全/帮助/指南",
-        "link": "https://toutiao.io/k/dx4z66j",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "[推荐] Linux 系统优化（内核优化）",
-        "link": "https://toutiao.io/k/bopgl5e",
+        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
+        "link": "https://toutiao.io/k/jhsjj8v",
         "date": "2020-08-31"
       },
       {
@@ -17630,33 +17615,38 @@
         "date": "2020-08-31"
       },
       {
+        "title": "[推荐] 史上最全的 vim 快捷键文档/手册/大全/帮助/指南",
+        "link": "https://toutiao.io/k/dx4z66j",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "[推荐] Shell 编码规范",
+        "link": "https://toutiao.io/k/jbo65f6",
+        "date": "2020-08-31"
+      },
+      {
         "title": "[推荐] 全网最通透的 Java 8 版本特性讲解",
         "link": "https://toutiao.io/k/vbmfzum",
         "date": "2020-08-31"
       },
       {
-        "title": "[推荐] 英语学习指南",
-        "link": "https://toutiao.io/k/m9lrd6m",
+        "title": "[推荐] 微服务技术栈：API 网关中心，落地实现方案",
+        "link": "https://toutiao.io/k/5fjxacf",
         "date": "2020-08-31"
       },
       {
-        "title": "[推荐] 多图详解！10 大高性能开发核心技术",
-        "link": "https://toutiao.io/k/iqokf55",
+        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
+        "link": "https://toutiao.io/k/smg6nko",
         "date": "2020-08-31"
       },
       {
-        "title": "[推荐] 美国如果把根域名服务器封了，中国会从网络上消失？",
-        "link": "https://toutiao.io/k/yitvf34",
+        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
+        "link": "https://toutiao.io/k/749snp6",
         "date": "2020-08-31"
       },
       {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "[推荐] Tomcat 高并发之道原理拆解与性能调优",
-        "link": "https://toutiao.io/k/htijp2l",
+        "title": "[推荐] 高手都是如何刷 LeetCode 的？| 码农周刊第 315 期",
+        "link": "https://toutiao.io/k/sh6tvfh",
         "date": "2020-08-31"
       },
       {
@@ -17665,23 +17655,28 @@
         "date": "2020-08-31"
       },
       {
-        "title": "[推荐] 十个问题弄清 JVM & GC（二）",
-        "link": "https://toutiao.io/k/v2dq9lz",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "[推荐] 程序日志级别规范",
-        "link": "https://toutiao.io/k/sf65q0v",
-        "date": "2020-08-31"
-      },
-      {
         "title": "[推荐] ​Linux CPU 性能优化指南",
         "link": "https://toutiao.io/k/e6zbho6",
         "date": "2020-08-31"
       },
       {
-        "title": "[推荐] 收藏! 超全的 GitHub 计算机算法、机器学习、深度学习的面试指南集锦",
-        "link": "https://toutiao.io/k/kumhh9k",
+        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
+        "link": "https://toutiao.io/k/3lp54k3",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "[推荐] 一道有意思的腾讯算法面试题",
+        "link": "https://toutiao.io/k/wui7yqj",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "[推荐] 高并发系统三大利器之缓存",
+        "link": "https://toutiao.io/k/gbvhdf1",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "[推荐] Redis 五大对象",
+        "link": "https://toutiao.io/k/djlfguy",
         "date": "2020-08-31"
       }
     ]

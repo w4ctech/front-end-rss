@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 13:18:13，:rocket: 更新条数: +3583， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 13:31:27，:rocket: 更新条数: +3582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-31-疫情持续-乌干达整体经济增长预期受到抑制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticNQoedwedUZQQATlzKO1200831&isfromapp=1) ![](assets/new.png)  
+- [2020-08-31-卡塔尔新增203例新冠肺炎确诊病例-疫情再度缓和](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWt6xpE5iX3fvPhMYZz22200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-比利时统计局：新冠疫情致部分食品杂货价格上涨达-10%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL99ftA9uyky0CAfxls62200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-香港新增-9-例新冠肺炎确诊病例-累计确诊-4810-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRTx0lG1eALtHjHwXNCEu200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-印度前总统穆克吉健康状况恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidh7KTPZNEYqpZuBqdUB6200831&isfromapp=1) ![](assets/new.png)  
-- [2020-08-31-印度新增新冠肺炎确诊病例-78512-例，累计确诊超-362-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6FhKRTe6ztOhPvmbsvyc200831&isfromapp=1) ![](assets/new.png)  
-- [2020-08-31-新冠肺炎疫情引发美企破产潮](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5FPDQ1jTfEnLaYPk8Y9F200831&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,10 +967,10 @@
 </summary>
 
 
+- [2020-08-31-Web翻译从开发者的角度对比Polymer和Angular](https://juejin.im/post/6867076744399028238) ![](assets/new.png)  
 - [2020-08-30-Web开发应该知道的数据结构🍊](https://juejin.im/post/6866970001409064967) ![](assets/new.png)  
 - [2020-08-30-谈谈微信小程序仿网易云音乐有关播放的那些事儿](https://juejin.im/post/6866963549823238151) ![](assets/new.png)  
 - [2020-08-30-属性签名——高维数据可视化方法|-🏆-技术专题第三期](https://juejin.im/post/6866960310650011662) ![](assets/new.png)  
-- [2020-08-30-ThreeJS-源码剖析之-Renderer（一）](https://juejin.im/post/6866951247157690376) ![](assets/new.png)  
 - [2020-08-30-惊了，「文件下载」原来有这么多花样](https://juejin.im/post/6866817673045475335) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1077,6 +1077,10 @@
 </summary>
 
 
+- [2020-08-31-怎么正确理解招聘里面的熟悉二字？](https://www.v2ex.com/t/702942) ![](assets/new.png)  
+- [2020-08-31-Python-到底是强类型语言，还是弱类型语言？](https://www.v2ex.com/t/702941) ![](assets/new.png)  
+- [2020-08-31-空降领导-一年离职-下家问如何回复](https://www.v2ex.com/t/702940) ![](assets/new.png)  
+- [2020-08-31-第四期德国-IT-岗位招聘之-System-Administrator-SAP,-Software-Developer，-VMware-Specialist](https://www.v2ex.com/t/702938) ![](assets/new.png)  
 - [2020-08-31-高效的关键词替换和敏感词过滤工具](https://www.v2ex.com/t/702937) ![](assets/new.png)  
 - [2020-08-31-老哥们，推荐一个对照翻译软体呗，俺想翻译点-pdf](https://www.v2ex.com/t/702935) ![](assets/new.png)  
 - [2020-08-31-累计用户-50-万的小程序可以赚多少钱?](https://www.v2ex.com/t/702934) ![](assets/new.png)  
@@ -1093,10 +1097,6 @@
 - [2020-08-31-凉宫春日新作公布！](https://www.v2ex.com/t/702921) ![](assets/new.png)  
 - [2020-08-31-腾讯社招深圳部门招一名-C++工程师，-1-3-年经验，流程快，先到先得](https://www.v2ex.com/t/702920) ![](assets/new.png)  
 - [2020-08-31-leetcode/lintcode-题解-谷歌面试题：二叉查找树迭代器](https://www.v2ex.com/t/702918) ![](assets/new.png)  
-- [2020-08-31-从热搜想到的：关于起名、同名同姓问题](https://www.v2ex.com/t/702917) ![](assets/new.png)  
-- [2020-08-31-菜鸡求一份-Python-后端开发的工作](https://www.v2ex.com/t/702916) ![](assets/new.png)  
-- [2020-08-31-Data-Scientist](https://www.v2ex.com/t/702915) ![](assets/new.png)  
-- [2020-08-31-陆家嘴软件园的兄弟们，请你们不要再定预定外卖了，损人不利己啊](https://www.v2ex.com/t/702914) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

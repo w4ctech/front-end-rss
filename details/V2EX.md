@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-31 20:48:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 21:02:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-31-重新自学-PHP](https://www.v2ex.com/t/702975) 
+- [2020-08-31-关于-iOS-14-Beta-更新时卡在-Terms-and-Conditions-的问题](https://www.v2ex.com/t/702974) 
 - [2020-08-31-MariaDB-基金会居然入驻-B-站了](https://www.v2ex.com/t/702972) 
 - [2020-08-31-V2EX-对-Nintendo-Friend-Code-的进一步支持](https://www.v2ex.com/t/702970) 
 - [2020-08-31-WSL2-中如何使用-vim-的-visual-block-模式](https://www.v2ex.com/t/702968) 
@@ -40,5 +42,3 @@
 - [2020-08-31-讨教下购-Apple-的经验](https://www.v2ex.com/t/702929) 
 - [2020-08-31-注意：零遁-EASYNET-的内网访问并不会隔离不同用户的资源](https://www.v2ex.com/t/702928) 
 - [2020-08-31-录取到了人力资源管理，有些疑惑](https://www.v2ex.com/t/702927) 
-- [2020-08-31-别墅装修想上全屋光纤，请问光纤可以上-AP+AC=方案吗？](https://www.v2ex.com/t/702925) 
-- [2020-08-31-通信短信息和语音呼叫服务管理规定（征求意见稿）](https://www.v2ex.com/t/702924) 

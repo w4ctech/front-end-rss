@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 20:48:29，:rocket: 更新条数: +3578， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 21:02:56，:rocket: 更新条数: +3578， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-08-31-重新自学-PHP](https://www.v2ex.com/t/702975) ![](assets/new.png)  
+- [2020-08-31-关于-iOS-14-Beta-更新时卡在-Terms-and-Conditions-的问题](https://www.v2ex.com/t/702974) ![](assets/new.png)  
 - [2020-08-31-MariaDB-基金会居然入驻-B-站了](https://www.v2ex.com/t/702972) ![](assets/new.png)  
 - [2020-08-31-V2EX-对-Nintendo-Friend-Code-的进一步支持](https://www.v2ex.com/t/702970) ![](assets/new.png)  
 - [2020-08-31-WSL2-中如何使用-vim-的-visual-block-模式](https://www.v2ex.com/t/702968) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-08-31-中国调整出口限制目录-或影响-TikTok-出售流程](https://www.v2ex.com/t/702950) ![](assets/new.png)  
 - [2020-08-31-实习招聘/分析方向-快手招分析类实习生，有转正机会！](https://www.v2ex.com/t/702948) ![](assets/new.png)  
 - [2020-08-31-vue-页面卡顿如何优化？](https://www.v2ex.com/t/702947) ![](assets/new.png)  
-- [2020-08-31-问下，用-zoom-F8-录音机的录的音有直流偏置怎么设置？](https://www.v2ex.com/t/702946) ![](assets/new.png)  
-- [2020-08-31-问下大家有没有使用过-32-寸高分辨显示器进行编程，去过-apple-store-体验过苹果的-XDR，感觉很棒！](https://www.v2ex.com/t/702945) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

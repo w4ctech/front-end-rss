@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 10:06:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 10:16:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -58,7 +58,7 @@
 - [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
 - [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
 - [2020-08-19-我是怎样通过个人项目成长为高级-JavaScript-开发者的](https://www.ershicimi.com/p/dd5e699b03225c29d4b74f38f71ce072) 
-- [2020-08-15-从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/f9083588d3d1b71d64046194c7377a80) 
+- [2020-08-31-应该在JavaScript中使用Class吗](https://www.ershicimi.com/p/f907df50ac697ede04cc4769768768cd) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
 - [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
@@ -109,7 +109,8 @@
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-08-29-fastjson的作者，在阿里内网挨骂了？！](https://www.ershicimi.com/p/c59bd6c77198c5afe06b0b3bc358124c) 
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) 
-- [2020-08-28-JavaScript数组总结篇](https://juejin.im/post/6866257220686839822) 
+- [2020-08-29-D3.js入门教程-|-🏆-技术专题第三期征文](https://juejin.im/post/6866352135412711438) 
+- [2020-08-28-常见事件与DOM事件模型](https://juejin.im/post/6866228449598504967) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -119,6 +120,5 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-08-31-想整个-NAS-软路由一体机，有什么好用的板-U-推荐吗](https://www.v2ex.com/t/702854) 
 - [2020-08-31-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) 
 - [2020-08-13-【原创】jsjiami&sojson部分解密思路](https://sec.thief.one/article_content?a_id=201e06047656a34de3426c45216fefa9) 

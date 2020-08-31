@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 07:06:52，:rocket: 更新条数: +3575， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 07:16:38，:rocket: 更新条数: +3575， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -968,8 +968,8 @@
 
 
 - [2020-08-30-前端职业规划---从阿里取消-P-等级显示来看什么是扁平化管理,-什么是组织创新](https://juejin.im/post/6866984319454642189) ![](assets/new.png)  
+- [2020-08-30-Vue-开发规范](https://juejin.im/post/6866803898590593031) ![](assets/new.png)  
 - [2020-08-29-分享一下我用VueCli创建项目以后都干了哪些准备工作](https://juejin.im/post/6866656374407823368) ![](assets/new.png)  
-- [2020-08-29-用-Three.js-实现简单的粒子动画](https://juejin.im/post/6866335813790072845) ![](assets/new.png)  
 - [2020-08-25-Webpack构建library时的踩坑经历](https://juejin.im/post/6865182299941109774) ![](assets/new.png)  
 - [2020-08-02-在微信小程序中使用less最优方式](https://juejin.im/post/6856649674020012045) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)

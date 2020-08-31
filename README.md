@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 03:02:37，:rocket: 更新条数: +3352， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 03:07:55，:rocket: 更新条数: +3358， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-31-张伯礼借央视新闻平台请家长们放心：校园已搭起防控“安全网”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNGfj8ED7FAeT2mjyi3dD200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-新加坡一家庭聚会-5人感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit1QK9HXKjTmXYHTR4oh7200831&isfromapp=1) ![](assets/new.png)  
+- [2020-08-31-疫中看巴西丨疫情之下难迎开学季](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikbAfcUT5b9s4TLxwKNoB200831&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-截至8月30日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/414339.jhtml) ![](assets/new.png)  
 - [2020-08-31-新学期来临-多国采取各种方式平衡复课和防疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHzK9Gl0jRAIMGM4ZadIM200831&isfromapp=1) ![](assets/new.png)  
-- [2020-08-30-美国36个州报告近9千例高校确诊病例-专家建议疫情高校集中隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidsz65dS6bGgJEF1EWiMH200831&isfromapp=1) ![](assets/new.png)  
-- [2020-08-30-巴西累计新冠肺炎确诊病例超386万例-圣保罗市年轻人感染率达17.7%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid51d125UaqucN0a76XjP200831&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-08-31-Setapp-还有车吗？](https://www.v2ex.com/t/702756) ![](assets/new.png)  
+- [2020-08-31-ziroom-地铁上地站-枫润家园-转-zu](https://www.v2ex.com/t/702755) ![](assets/new.png)  
+- [2020-08-31-招聘-混沌工程Chaos-Mesh-研发工程师](https://www.v2ex.com/t/702754) ![](assets/new.png)  
 - [2020-08-31-爱奇艺北京-CDN-数据开发工程师](https://www.v2ex.com/t/702753) ![](assets/new.png)  
 - [2020-08-31-跳槽，应该涨多少？](https://www.v2ex.com/t/702752) ![](assets/new.png)  
 - [2020-08-31-个人在-Github-公开翻译国内已出版中文版的英文图书，是否构成盗版和侵权？](https://www.v2ex.com/t/702751) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-08-31-杭州多家包租公司跑路，上万租客在跟房东紧张对线被赶走或者重新交钱住。](https://www.v2ex.com/t/702733) ![](assets/new.png)  
 - [2020-08-31-为什么说-Python-不适合做带-UI-的程序？-kivy-不是很强大吗？](https://www.v2ex.com/t/702731) ![](assets/new.png)  
 - [2020-08-31-ns-运行-retroarch，不认中文名的-rom，谁知道](https://www.v2ex.com/t/702730) ![](assets/new.png)  
-- [2020-08-31-上海-掌门一对一-AI-部门-有人在吗-研发岗-怎么样？](https://www.v2ex.com/t/702729) ![](assets/new.png)  
-- [2020-08-31-React-Native-开发基础库，超实用！](https://www.v2ex.com/t/702727) ![](assets/new.png)  
-- [2020-08-31-我有一个非常想买的产品需要询问。](https://www.v2ex.com/t/702725) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,11 +1134,11 @@
 - [2020-08-31-PHP-FPM-进程模型](https://toutiao.io/k/dzyb5qc) ![](assets/new.png)  
 - [2020-08-31-HashMap-实现原理分析（一）](https://toutiao.io/k/zwecqtf) ![](assets/new.png)  
 - [2020-08-31-手淘实习百日记](https://toutiao.io/k/8h1hg8p) ![](assets/new.png)  
-- [2020-08-31-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
-- [2020-08-31-推荐-收藏!-超全的-GitHub-计算机算法、机器学习、深度学习的面试指南集锦](https://toutiao.io/k/kumhh9k) ![](assets/new.png)  
-- [2020-08-31-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
-- [2020-08-31-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
-- [2020-08-31-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
+- [2020-08-31-在-Kotlin-的-data-class-中使用-MapStruct](https://toutiao.io/k/oqy0ow8) ![](assets/new.png)  
+- [2020-08-31-RSA-加密算法主要公式](https://toutiao.io/k/88tl7vl) ![](assets/new.png)  
+- [2020-08-31-AQS-原理剖析](https://toutiao.io/k/meupj67) ![](assets/new.png)  
+- [2020-08-31-高效掌握新技能的-“树型思维”](https://toutiao.io/k/4lxnpx9) ![](assets/new.png)  
+- [2020-08-31-线上-Go-程序偶尔出现异常怎么办？这个思路可解决你的烦恼](https://toutiao.io/k/2qvqfwk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

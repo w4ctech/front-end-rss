@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 11:48:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 12:02:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
@@ -46,7 +45,6 @@
 - [2020-08-31-leetcode/lintcode-题解-谷歌面试题：二叉查找树迭代器](https://www.v2ex.com/t/702918) 
 - [2020-08-31-北京/西二旗-跟谁学--高途课堂，招聘岗位：前端工程师、高级-android-等一系列岗位，职级-p5-p8-都会考虑详见正文。欢迎大佬踊跃投递。](https://www.v2ex.com/t/702900) 
 - [2020-08-31-谷歌面试题：二叉查找树迭代器（hard-题，面试中有变形）](https://www.v2ex.com/t/702892) 
-- [2020-08-31-郑州/-PHP-诸葛找房郑州分公司,欲招聘数名-PHP-开发,双休,十三薪，可以一看。](https://www.v2ex.com/t/702873) 
 - [2020-08-31-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
 - [2020-08-15-牛聘|2020年度岗位招聘第10期](https://sec.thief.one/article_content?a_id=48dc5bfc5999e36a623b8c8acdda0d3a) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 12:06:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 12:16:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2534,6 +2534,7 @@
 - [2020-08-20-口碑绝佳的-9-个公众号，越早知道越好](https://www.ershicimi.com/p/aa8f105a40e8d26eb70c775eb998ced3) 
 - [2020-08-20-知乎故事-|-买房后你快乐吗？](https://www.ershicimi.com/p/ed173f3dec4a47f97964f77390dfc29f) 
 - [2020-08-19-飞行员用空姐不雅照威胁其陪睡，遇到类似问题时，我们应该怎么办？](https://www.ershicimi.com/p/31b2e3394c76754b31cc8f11713122c4) 
+- [2020-08-31-别墅装修想上全屋光纤，请问光纤可以上-AP+AC=方案吗？](https://www.v2ex.com/t/702925) 
 - [2020-08-31-通信短信息和语音呼叫服务管理规定（征求意见稿）](https://www.v2ex.com/t/702924) 
 - [2020-08-31-有没有统一格式化-SQL-DDL-语句的工具?](https://www.v2ex.com/t/702922) 
 - [2020-08-31-凉宫春日新作公布！](https://www.v2ex.com/t/702921) 
@@ -2598,13 +2599,11 @@
 - [2020-08-31-高效掌握新技能的-“树型思维”](https://toutiao.io/k/4lxnpx9) 
 - [2020-08-31-在-Kotlin-的-data-class-中使用-MapStruct](https://toutiao.io/k/oqy0ow8) 
 - [2020-08-31-AQS-原理剖析](https://toutiao.io/k/meupj67) 
+- [2020-08-31-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) 
 - [2020-08-31-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) 
-- [2020-08-31-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
-- [2020-08-31-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) 
-- [2020-08-31-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
-- [2020-08-31-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) 
-- [2020-08-31-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) 
 - [2020-08-31-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) 
+- [2020-08-31-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
+- [2020-08-31-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
 - [2020-08-28-齐向东:广州有四大优势,拟将奇安信大湾区总部落户海珠](https://sec.thief.one/article_content?a_id=46f3b4bed8c895360e02d56f820a3d60) 
 - [2020-08-28-科普-|-ETH2-Staking-指南-:客户端多样性为何如此重要](https://sec.thief.one/article_content?a_id=792c1505a32e56d5a56d23daa296653a) 
 - [2020-08-28-央视曝光6亿快递单号被用来洗钱;苹果或将推出基于Web的网络搜索...](https://sec.thief.one/article_content?a_id=34df5d508b50c3e5a062dfbe2b9f4ba2) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-31 15:33:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-31 15:46:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-31-买了-iPad-pro2020，原生键盘有点奇怪，拍照也很糊，我中招了吗？](https://www.v2ex.com/t/702963) 
 - [2020-08-31-工作第五年,没有研究技术的心态了,自己有些浮躁,怎么破?](https://www.v2ex.com/t/702961) 
 - [2020-08-31-OpenWRT-上的-SSR+插件因为-SSR-服务器不支持-ipv6-导致-instagram-刷不出来，怎样在不关闭-ipv6-的前提下解决这个问题？](https://www.v2ex.com/t/702960) 
 - [2020-08-31-最近发现-quarkus-非常火，我想了解下，-quarkus-和-springboot-有啥区别？为啥要用-quarkus-呢？](https://www.v2ex.com/t/702958) 
@@ -43,4 +44,3 @@
 - [2020-08-31-菜鸡求一份-Python-后端开发的工作](https://www.v2ex.com/t/702916) 
 - [2020-08-31-Data-Scientist](https://www.v2ex.com/t/702915) 
 - [2020-08-31-陆家嘴软件园的兄弟们，请你们不要再定预定外卖了，损人不利己啊](https://www.v2ex.com/t/702914) 
-- [2020-08-31-人生第一台-iPhone](https://www.v2ex.com/t/702913) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-31 15:33:27，:rocket: 更新条数: +3360， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-31 15:46:23，:rocket: 更新条数: +3360， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-08-31-买了-iPad-pro2020，原生键盘有点奇怪，拍照也很糊，我中招了吗？](https://www.v2ex.com/t/702963) ![](assets/new.png)  
 - [2020-08-31-工作第五年,没有研究技术的心态了,自己有些浮躁,怎么破?](https://www.v2ex.com/t/702961) ![](assets/new.png)  
 - [2020-08-31-OpenWRT-上的-SSR+插件因为-SSR-服务器不支持-ipv6-导致-instagram-刷不出来，怎样在不关闭-ipv6-的前提下解决这个问题？](https://www.v2ex.com/t/702960) ![](assets/new.png)  
 - [2020-08-31-最近发现-quarkus-非常火，我想了解下，-quarkus-和-springboot-有啥区别？为啥要用-quarkus-呢？](https://www.v2ex.com/t/702958) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-08-31-空降领导-一年离职-下家问如何回复](https://www.v2ex.com/t/702940) ![](assets/new.png)  
 - [2020-08-31-第四期德国-IT-岗位招聘之-System-Administrator-SAP,-Software-Developer，-VMware-Specialist](https://www.v2ex.com/t/702938) ![](assets/new.png)  
 - [2020-08-31-高效的关键词替换和敏感词过滤工具](https://www.v2ex.com/t/702937) ![](assets/new.png)  
-- [2020-08-31-老哥们，推荐一个对照翻译软体呗，俺想翻译点-pdf](https://www.v2ex.com/t/702935) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,8 +1136,8 @@
 - [2020-08-31-HashMap-实现原理分析（一）](https://toutiao.io/k/zwecqtf) ![](assets/new.png)  
 - [2020-08-31-线上-Go-程序偶尔出现异常怎么办？这个思路可解决你的烦恼](https://toutiao.io/k/2qvqfwk) ![](assets/new.png)  
 - [2020-08-31-高效掌握新技能的-“树型思维”](https://toutiao.io/k/4lxnpx9) ![](assets/new.png)  
-- [2020-08-31-在-Kotlin-的-data-class-中使用-MapStruct](https://toutiao.io/k/oqy0ow8) ![](assets/new.png)  
 - [2020-08-31-AQS-原理剖析](https://toutiao.io/k/meupj67) ![](assets/new.png)  
+- [2020-08-31-在-Kotlin-的-data-class-中使用-MapStruct](https://toutiao.io/k/oqy0ow8) ![](assets/new.png)  
 - [2020-08-31-RSA-加密算法主要公式](https://toutiao.io/k/88tl7vl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

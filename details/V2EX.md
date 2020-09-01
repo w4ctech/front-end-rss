@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-01 05:13:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 05:21:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-01-上海电信能够通过工单方式开通-IPv4/IPv6-双栈了](https://www.v2ex.com/t/703109) 
+- [2020-09-01-被喂了多年的屎，突然吃上饭了有点不习惯](https://www.v2ex.com/t/703107) 
 - [2020-09-01-写了篇新文章---MySQL-PostgreSQL-和-SQLite-都有什么区别？用哪个？](https://www.v2ex.com/t/703105) 
 - [2020-09-01-某宝售卖的破解-PD-全线下架。](https://www.v2ex.com/t/703104) 
 - [2020-09-01-京东风控](https://www.v2ex.com/t/703103) 
@@ -36,6 +38,3 @@
 - [2020-09-01-为什么用-Python-motor-会慢这么多，我做错了什么吗？](https://www.v2ex.com/t/703063) 
 - [2020-09-01-Catalina-和-BigSur-中，-Anydesk-的权限问题](https://www.v2ex.com/t/703062) 
 - [2020-09-01-AirPods-Pro-一拿出来-有严重啸叫](https://www.v2ex.com/t/703061) 
-- [2020-09-01-苹果系统-GTK-应用打包新思路](https://www.v2ex.com/t/703060) 
-- [2020-09-01-Offer-比较](https://www.v2ex.com/t/703057) 
-- [2020-09-01-长沙电信-dns-挂了？](https://www.v2ex.com/t/703056) 

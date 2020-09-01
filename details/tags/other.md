@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 13:21:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 13:31:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2494,6 +2494,7 @@
 - [2020-08-20-口碑绝佳的-9-个公众号，越早知道越好](https://www.ershicimi.com/p/aa8f105a40e8d26eb70c775eb998ced3) 
 - [2020-08-20-知乎故事-|-买房后你快乐吗？](https://www.ershicimi.com/p/ed173f3dec4a47f97964f77390dfc29f) 
 - [2020-08-19-飞行员用空姐不雅照威胁其陪睡，遇到类似问题时，我们应该怎么办？](https://www.ershicimi.com/p/31b2e3394c76754b31cc8f11713122c4) 
+- [2020-09-01-iOS-14-天气-app-无法定位到区](https://www.v2ex.com/t/703305) 
 - [2020-09-01-西二旗清河上班的，现转租回龙观龙博苑二区的次卧一间，-1700-元/月。](https://www.v2ex.com/t/703304) 
 - [2020-09-01-外区-apple-id-手机验证注册问题](https://www.v2ex.com/t/703301) 
 - [2020-09-01-百度北京-百度集团&百度云-Redis-技术团队社招](https://www.v2ex.com/t/703300) 
@@ -2557,15 +2558,12 @@
 - [2020-09-01-消息队列之事务消息，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/36hqisn) 
 - [2020-09-01-版本管理工具及-Ruby-工具链环境](https://toutiao.io/k/d1m91ay) 
 - [2020-09-01-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) 
-- [2020-09-01-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) 
-- [2020-09-01-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) 
 - [2020-09-01-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) 
-- [2020-09-01-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) 
-- [2020-09-01-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) 
 - [2020-09-01-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
-- [2020-09-01-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
 - [2020-09-01-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) 
+- [2020-09-01-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) 
 - [2020-09-01-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
+- [2020-09-01-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) 
 - [2020-09-01-开学大礼包:绿盟君的精华文章汇总篇](https://sec.thief.one/article_content?a_id=6e76d6450741aaf6c90034d4aba4beee) 
 - [2020-09-01-今日开票|1024,一场黑客专属狂欢在“节”难逃](https://sec.thief.one/article_content?a_id=f084f47d94e278e44282ee59802f00fc) 
 - [2020-09-01-干货-|-登录点测试的Tips](https://sec.thief.one/article_content?a_id=cd15b83b8d24f43b06401b2494da55c0) 

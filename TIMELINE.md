@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 01:36:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-01 01:46:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-09-01-香港普及社区检测计划第一天-市民保持距离依次进入检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin1k5rO7UmbT8rl9TACX5200901&isfromapp=1) 
 - [【前端迷】2020-09-01-工作年限=能力？会的越多=薪资越高？No！！！！](https://www.ershicimi.com/p/aa40c2f4c199e51fe3fe228449ed9c2d) 
 - [【前端迷】2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
+- [【V2EX】2020-09-01-数字货币是否具有无限法偿性？](https://www.v2ex.com/t/703013) 
+- [【V2EX】2020-09-01-在-Python-里面把-module-设置成类的变量有什么问题吗？](https://www.v2ex.com/t/703011) 
 - [【V2EX】2020-09-01-如果你和我一样追-A-站的交通事故-video，欢迎加入我的-telegram-订阅频道获取更新提醒](https://www.v2ex.com/t/703010) 
 - [【V2EX】2020-09-01-记账工具-Money-Pro-的-macOS-端限时降价-¥6](https://www.v2ex.com/t/703007) 
 - [【V2EX】2020-09-01-颠覆你的想象!微软新手机「Surface-Duo」2020-年您可以选择的折叠手机](https://www.v2ex.com/t/703006) 
@@ -118,23 +120,23 @@
 - [【开发者头条】2020-09-01-KDD-Cup-2020-自动图学习比赛冠军技术方案及在美团广告的实践](https://toutiao.io/k/dbi87y2) 
 - [【开发者头条】2020-09-01-10-年-bloger-告诉你要不要写博客，又该如何优雅地写博客？](https://toutiao.io/k/fgq798p) 
 - [【开发者头条】2020-09-01-JS-真的可以为所欲为之绕过-ContextProvider-给-useRequest-注入全局配置](https://toutiao.io/k/wmkm5fk) 
-- [【开发者头条】2020-09-01-从零开始编写一个库到-crates-中心](https://toutiao.io/k/ek7qadb) 
 - [【开发者头条】2020-09-01-Redis-有序集合相关命令](https://toutiao.io/k/g20qcon) 
-- [【开发者头条】2020-09-01-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) 
-- [【开发者头条】2020-09-01-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) 
-- [【开发者头条】2020-09-01-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
-- [【开发者头条】2020-09-01-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
-- [【开发者头条】2020-09-01-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) 
+- [【开发者头条】2020-09-01-从零开始编写一个库到-crates-中心](https://toutiao.io/k/ek7qadb) 
 - [【开发者头条】2020-09-01-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) 
+- [【开发者头条】2020-09-01-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) 
+- [【开发者头条】2020-09-01-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
 - [【开发者头条】2020-09-01-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) 
-- [【开发者头条】2020-09-01-推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts) 
-- [【开发者头条】2020-09-01-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) 
+- [【开发者头条】2020-09-01-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) 
+- [【开发者头条】2020-09-01-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) 
+- [【开发者头条】2020-09-01-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) 
+- [【开发者头条】2020-09-01-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
 - [【开发者头条】2020-09-01-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) 
-- [【开发者头条】2020-09-01-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) 
+- [【开发者头条】2020-09-01-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) 
 - [【开发者头条】2020-09-01-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
-- [【开发者头条】2020-09-01-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) 
-- [【开发者头条】2020-09-01-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) 
-- [【开发者头条】2020-09-01-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) 
+- [【开发者头条】2020-09-01-推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts) 
+- [【开发者头条】2020-09-01-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) 
+- [【开发者头条】2020-09-01-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) 
+- [【开发者头条】2020-09-01-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -145,7 +147,8 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2020-08-30-最新疫情：全国新冠累计确诊85048例-新增境外输入17例](http://m.china.caixin.com/m/2020-08-31/101599390.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-08-31-8月31日全国新增境外输入新冠10例](https://m.caixin.com/m/2020-09-01/101599568.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-08-31-大流行手记|8月31日：巴黎拟全民免费检测-美国新冠病死率陷误读风波](https://m.caixin.com/m/2020-09-01/101599565.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-08-30-最新海外疫情：新冠感染超2509万-累计死亡超84万](http://m.international.caixin.com/m/2020-08-31/101599392.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-08-30-【境内疫情观察】全国连续15日无新增本土病例（8月30日）](http://m.database.caixin.com/m/2020-08-31/101599218.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-08-30-大流行手记|8月30日：全球新冠确诊破2500万-英国9月全面开学引争议](https://m.caixin.com/m/2020-08-31/101599105.html) 
@@ -626,9 +629,6 @@
 - [【V2EX】2020-08-31-WSL2-中如何使用-vim-的-visual-block-模式](https://www.v2ex.com/t/702968) 
 - [【V2EX】2020-08-31-全职远程-加拿大游戏公司，-Unreal-Engine-4-开发](https://www.v2ex.com/t/702967) 
 - [【V2EX】2020-08-31-妹妹上高中了，有打电话的需求，-esim-版-AW-能解决吗？](https://www.v2ex.com/t/702966) 
-- [【V2EX】2020-08-31-糟心了，-ubuntu-snap-有啥奇巧的提速方法吗？](https://www.v2ex.com/t/702964) 
-- [【V2EX】2020-08-31-买了-iPad-pro2020，原生键盘有点奇怪，拍照也很糊，我中招了吗？](https://www.v2ex.com/t/702963) 
-- [【V2EX】2020-08-31-工作第五年,没有研究技术的心态了,自己有些浮躁,怎么破?](https://www.v2ex.com/t/702961) 
 - [【安全热点】2020-08-31-习近平主持召开中共中央政治局会议](https://sec.thief.one/article_content?a_id=8db9e4ba2df8d9cdcae0db508e5c3ea9) 
 - [【安全热点】2020-08-28-齐向东:广州有四大优势,拟将奇安信大湾区总部落户海珠](https://sec.thief.one/article_content?a_id=46f3b4bed8c895360e02d56f820a3d60) 
 - [【安全热点】2020-08-28-科普-|-ETH2-Staking-指南-:客户端多样性为何如此重要](https://sec.thief.one/article_content?a_id=792c1505a32e56d5a56d23daa296653a) 

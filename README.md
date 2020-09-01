@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 01:36:15，:rocket: 更新条数: +3346， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 01:46:30，:rocket: 更新条数: +3346， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,8 @@
 </summary>
 
 
-- [2020-08-30-最新疫情：全国新冠累计确诊85048例-新增境外输入17例](http://m.china.caixin.com/m/2020-08-31/101599390.html) ![](assets/new.png)  
+- [2020-08-31-8月31日全国新增境外输入新冠10例](https://m.caixin.com/m/2020-09-01/101599568.html) ![](assets/new.png)  
+- [2020-08-31-大流行手记|8月31日：巴黎拟全民免费检测-美国新冠病死率陷误读风波](https://m.caixin.com/m/2020-09-01/101599565.html) ![](assets/new.png)  
 - [2020-08-30-最新海外疫情：新冠感染超2509万-累计死亡超84万](http://m.international.caixin.com/m/2020-08-31/101599392.html) ![](assets/new.png)  
 - [2020-08-30-【境内疫情观察】全国连续15日无新增本土病例（8月30日）](http://m.database.caixin.com/m/2020-08-31/101599218.html) ![](assets/new.png)  
 - [2020-08-30-大流行手记|8月30日：全球新冠确诊破2500万-英国9月全面开学引争议](https://m.caixin.com/m/2020-08-31/101599105.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-25-大流行手记|8月25日：非洲新冠死亡率更低-172个国家地区加入全球疫苗计划](https://m.caixin.com/m/2020-08-26/101597079.html) ![](assets/new.png)  
 - [2020-08-24-香港本地疫情缓和-电影院美容院将重开](https://m.caixin.com/m/2020-08-25/101596797.html) ![](assets/new.png)  
 - [2020-08-24-【境内疫情观察】全国新增14例境外输入病例（8月24日）](http://m.database.caixin.com/m/2020-08-25/101596684.html) ![](assets/new.png)  
-- [2020-08-24-大流行手记|8月24日：疫情威胁全球粮食安全-美国新增病例增势趋缓](https://m.caixin.com/m/2020-08-25/101596567.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-01-数字货币是否具有无限法偿性？](https://www.v2ex.com/t/703013) ![](assets/new.png)  
+- [2020-09-01-在-Python-里面把-module-设置成类的变量有什么问题吗？](https://www.v2ex.com/t/703011) ![](assets/new.png)  
 - [2020-09-01-如果你和我一样追-A-站的交通事故-video，欢迎加入我的-telegram-订阅频道获取更新提醒](https://www.v2ex.com/t/703010) ![](assets/new.png)  
 - [2020-09-01-记账工具-Money-Pro-的-macOS-端限时降价-¥6](https://www.v2ex.com/t/703007) ![](assets/new.png)  
 - [2020-09-01-颠覆你的想象!微软新手机「Surface-Duo」2020-年您可以选择的折叠手机](https://www.v2ex.com/t/703006) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-01-ARM-处理器版-MacBook-曝光：-12-寸不足-1-公斤重、5400-元起](https://www.v2ex.com/t/702985) ![](assets/new.png)  
 - [2020-08-31-20200901-午夜俱乐部](https://www.v2ex.com/t/702984) ![](assets/new.png)  
 - [2020-08-31-阿里云轻量服务器开出一个-47.242-开头的-ip，现在好像也不是-cn2-了哦。我测试了下还不如阿里云国际买的服务器-8.210-的快？](https://www.v2ex.com/t/702983) ![](assets/new.png)  
-- [2020-08-31-开学即大四，软件工程专业，现在找实习难不难?](https://www.v2ex.com/t/702982) ![](assets/new.png)  
-- [2020-08-31-租房信号一格问题，怎么解决？](https://www.v2ex.com/t/702979) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-09-01-KDD-Cup-2020-自动图学习比赛冠军技术方案及在美团广告的实践](https://toutiao.io/k/dbi87y2) ![](assets/new.png)  
 - [2020-09-01-10-年-bloger-告诉你要不要写博客，又该如何优雅地写博客？](https://toutiao.io/k/fgq798p) ![](assets/new.png)  
 - [2020-09-01-JS-真的可以为所欲为之绕过-ContextProvider-给-useRequest-注入全局配置](https://toutiao.io/k/wmkm5fk) ![](assets/new.png)  
-- [2020-09-01-从零开始编写一个库到-crates-中心](https://toutiao.io/k/ek7qadb) ![](assets/new.png)  
 - [2020-09-01-Redis-有序集合相关命令](https://toutiao.io/k/g20qcon) ![](assets/new.png)  
-- [2020-09-01-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) ![](assets/new.png)  
-- [2020-09-01-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-09-01-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
-- [2020-09-01-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
-- [2020-09-01-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
+- [2020-09-01-从零开始编写一个库到-crates-中心](https://toutiao.io/k/ek7qadb) ![](assets/new.png)  
 - [2020-09-01-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
+- [2020-09-01-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
+- [2020-09-01-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
 - [2020-09-01-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
+- [2020-09-01-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) ![](assets/new.png)  
+- [2020-09-01-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
+- [2020-09-01-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

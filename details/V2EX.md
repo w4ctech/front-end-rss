@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-01 01:36:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 01:46:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-01-数字货币是否具有无限法偿性？](https://www.v2ex.com/t/703013) 
+- [2020-09-01-在-Python-里面把-module-设置成类的变量有什么问题吗？](https://www.v2ex.com/t/703011) 
 - [2020-09-01-如果你和我一样追-A-站的交通事故-video，欢迎加入我的-telegram-订阅频道获取更新提醒](https://www.v2ex.com/t/703010) 
 - [2020-09-01-记账工具-Money-Pro-的-macOS-端限时降价-¥6](https://www.v2ex.com/t/703007) 
 - [2020-09-01-颠覆你的想象!微软新手机「Surface-Duo」2020-年您可以选择的折叠手机](https://www.v2ex.com/t/703006) 
@@ -34,6 +36,3 @@
 - [2020-08-31-WSL2-中如何使用-vim-的-visual-block-模式](https://www.v2ex.com/t/702968) 
 - [2020-08-31-全职远程-加拿大游戏公司，-Unreal-Engine-4-开发](https://www.v2ex.com/t/702967) 
 - [2020-08-31-妹妹上高中了，有打电话的需求，-esim-版-AW-能解决吗？](https://www.v2ex.com/t/702966) 
-- [2020-08-31-糟心了，-ubuntu-snap-有啥奇巧的提速方法吗？](https://www.v2ex.com/t/702964) 
-- [2020-08-31-买了-iPad-pro2020，原生键盘有点奇怪，拍照也很糊，我中招了吗？](https://www.v2ex.com/t/702963) 
-- [2020-08-31-工作第五年,没有研究技术的心态了,自己有些浮躁,怎么破?](https://www.v2ex.com/t/702961) 

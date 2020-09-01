@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 01:48:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 02:03:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -41,3 +41,4 @@
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 
+- [2020-08-30-React16.13.1网抑云实战-（第一周）|-axios封装、轮播图实现、alias别名](https://juejin.im/post/6866940379866857480) 

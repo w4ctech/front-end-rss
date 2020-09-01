@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 01:48:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 02:03:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -95,7 +95,6 @@
 - [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) 
 - [2020-09-01-如果你和我一样追-A-站的交通事故-video，欢迎加入我的-telegram-订阅频道获取更新提醒](https://www.v2ex.com/t/703010) 
 - [2020-09-01-10T-视频源文件，-1T-项目文件，-4T-网络资料，如何快速上传-GoogleDrive，求正确方式](https://www.v2ex.com/t/702991) 
-- [2020-08-31-除了微信和-FaceTime,-有什么免费&稳定的视频/语音通话和通讯软件推荐?](https://www.v2ex.com/t/702976) 
 - [2020-09-01-看视频常见的-720p、1080p、4k，这些分辨率到底包含了什么-www.upyun.com](https://blogread.cn/news/go.php?idItem=13722&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F576%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-26-【视频】|-Python:字符串和常量](https://sec.thief.one/article_content?a_id=8bd4b3a056a9ad99db6d62589189460b) 
 - [2020-08-13-央视提醒:微信清粉服务或泄露个人信息含视频](https://sec.thief.one/article_content?a_id=68e5a1ad9f18eb39c4be5133326c39ba) 

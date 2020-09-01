@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 08:33:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 08:46:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -46,6 +46,5 @@
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-08-31-面试总结网络篇](https://juejin.im/post/6867359137467432974) 
 - [2020-09-01-AI-+-Robotics-Covariant.AI-深圳团队招聘软件工程师](https://www.v2ex.com/t/703186) 
-- [2020-09-01-坐标北京的硅谷-star-up-HC-多多的技术岗持续招聘-ing](https://www.v2ex.com/t/703158) 
 - [2020-08-15-牛聘|2020年度岗位招聘第10期](https://sec.thief.one/article_content?a_id=48dc5bfc5999e36a623b8c8acdda0d3a) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 08:33:55，:rocket: 更新条数: +3354， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 08:46:28，:rocket: 更新条数: +3353， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-01-Rust权限控制Casbin-Rust-下成熟好用的权限控制库](https://www.v2ex.com/t/703209) ![](assets/new.png)  
 - [2020-09-01-飞猪酒店招技术专家/高级开发工程师——杭州](https://www.v2ex.com/t/703205) ![](assets/new.png)  
 - [2020-09-01-github-传大文件用-LFS](https://www.v2ex.com/t/703204) ![](assets/new.png)  
 - [2020-09-01-小米-安全团队急招中高级-Java-/-Golang-/-Python-/-Lua-工程师，-Base-北京-/-武汉](https://www.v2ex.com/t/703203) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-01-mac-os-下有可以命令把文本内容放到粘贴板吗](https://www.v2ex.com/t/703179) ![](assets/new.png)  
 - [2020-09-01-大佬们推荐笔记本，预算-6500-内](https://www.v2ex.com/t/703177) ![](assets/new.png)  
 - [2020-09-01-是不是应该单独建一个电子会员的交易节点？](https://www.v2ex.com/t/703176) ![](assets/new.png)  
-- [2020-09-01-985-非全日制研究生校招可以进大厂-非全含金量这么高？](https://www.v2ex.com/t/703175) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

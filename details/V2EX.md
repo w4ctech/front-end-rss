@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-01 08:33:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 08:46:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-01-Rust权限控制Casbin-Rust-下成熟好用的权限控制库](https://www.v2ex.com/t/703209) 
 - [2020-09-01-飞猪酒店招技术专家/高级开发工程师——杭州](https://www.v2ex.com/t/703205) 
 - [2020-09-01-github-传大文件用-LFS](https://www.v2ex.com/t/703204) 
 - [2020-09-01-小米-安全团队急招中高级-Java-/-Golang-/-Python-/-Lua-工程师，-Base-北京-/-武汉](https://www.v2ex.com/t/703203) 
@@ -34,5 +35,3 @@
 - [2020-09-01-猫咪自动喂食器求推荐](https://www.v2ex.com/t/703163) 
 - [2020-09-01-Hey-Siri-能给我的猫取个名字么？](https://www.v2ex.com/t/703161) 
 - [2020-09-01-怎么快速重新拾起前端？](https://www.v2ex.com/t/703160) 
-- [2020-09-01-坐标北京的硅谷-star-up-HC-多多的技术岗持续招聘-ing](https://www.v2ex.com/t/703158) 
-- [2020-09-01-朋友说北京是美食荒漠，其实中国大部分城市都是美食荒漠](https://www.v2ex.com/t/703156) 

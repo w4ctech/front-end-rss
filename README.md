@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 00:07:45，:rocket: 更新条数: +3576， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 00:31:20，:rocket: 更新条数: +3560， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-01-ARM-处理器版-MacBook-曝光：-12-寸不足-1-公斤重、5400-元起](https://www.v2ex.com/t/702985) ![](assets/new.png)  
 - [2020-08-31-20200901-午夜俱乐部](https://www.v2ex.com/t/702984) ![](assets/new.png)  
 - [2020-08-31-阿里云轻量服务器开出一个-47.242-开头的-ip，现在好像也不是-cn2-了哦。我测试了下还不如阿里云国际买的服务器-8.210-的快？](https://www.v2ex.com/t/702983) ![](assets/new.png)  
 - [2020-08-31-开学即大四，软件工程专业，现在找实习难不难?](https://www.v2ex.com/t/702982) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-08-31-OpenWRT-上的-SSR+插件因为-SSR-服务器不支持-ipv6-导致-instagram-刷不出来，怎样在不关闭-ipv6-的前提下解决这个问题？](https://www.v2ex.com/t/702960) ![](assets/new.png)  
 - [2020-08-31-最近发现-quarkus-非常火，我想了解下，-quarkus-和-springboot-有啥区别？为啥要用-quarkus-呢？](https://www.v2ex.com/t/702958) ![](assets/new.png)  
 - [2020-08-31-字节跳动-Data-广告系统部门为什么值得加入？](https://www.v2ex.com/t/702957) ![](assets/new.png)  
-- [2020-08-31-是什么东西让我们事后进入了贤者模式，能否把这种物质提取或者制造出来，有欲望的时候就来一粒。](https://www.v2ex.com/t/702955) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,26 +1139,26 @@
 </summary>
 
 
-- [2020-09-01-程序员戴耳机敲代码，到底在听啥？|-码农周刊第-316-期](https://toutiao.io/k/mkcz3p1) ![](assets/new.png)  
-- [2020-09-01-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
-- [2020-09-01-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
-- [2020-09-01-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-01-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
-- [2020-09-01-彻底搞懂-etcd-系列文章（七）：etcd-gRPC-服务-API](https://toutiao.io/k/sw8edpy) ![](assets/new.png)  
-- [2020-09-01-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-09-01-动态规划问题为什么要画表格？](https://toutiao.io/k/ak1vnp7) ![](assets/new.png)  
-- [2020-09-01-在-aws-上使用-eks-进行服务发布](https://toutiao.io/k/yom9oge) ![](assets/new.png)  
-- [2020-09-01-科普，想成为厉害的-Java-后端程序员，你需要懂这些](https://toutiao.io/k/uoqreby) ![](assets/new.png)  
-- [2020-09-01-Android-加载图片占用内存分析](https://toutiao.io/k/pg47m32) ![](assets/new.png)  
-- [2020-09-01-还在手工生成数据库文档？3-个步骤自动完成了解一下](https://toutiao.io/k/vshredp) ![](assets/new.png)  
-- [2020-09-01-手淘实习百日记](https://toutiao.io/k/8h1hg8p) ![](assets/new.png)  
-- [2020-09-01-PHP-FPM-进程模型](https://toutiao.io/k/dzyb5qc) ![](assets/new.png)  
-- [2020-09-01-HashMap-实现原理分析（一）](https://toutiao.io/k/zwecqtf) ![](assets/new.png)  
-- [2020-09-01-线上-Go-程序偶尔出现异常怎么办？这个思路可解决你的烦恼](https://toutiao.io/k/2qvqfwk) ![](assets/new.png)  
-- [2020-09-01-高效掌握新技能的-“树型思维”](https://toutiao.io/k/4lxnpx9) ![](assets/new.png)  
-- [2020-09-01-AQS-原理剖析](https://toutiao.io/k/meupj67) ![](assets/new.png)  
-- [2020-09-01-在-Kotlin-的-data-class-中使用-MapStruct](https://toutiao.io/k/oqy0ow8) ![](assets/new.png)  
-- [2020-09-01-RSA-加密算法主要公式](https://toutiao.io/k/88tl7vl) ![](assets/new.png)  
+- [2020-09-01-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
+- [2020-09-01-用户画像面面谈](https://toutiao.io/k/md213f8) ![](assets/new.png)  
+- [2020-09-01-Facebook-开源-Go-ORM-项目-ent-schema-使用（上）](https://toutiao.io/k/tl3rnpv) ![](assets/new.png)  
+- [2020-09-01-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-01-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-01-基于-Spark-的大规模推荐系统特征工程](https://toutiao.io/k/90jrxp6) ![](assets/new.png)  
+- [2020-09-01-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
+- [2020-09-01-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
+- [2020-09-01-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
+- [2020-09-01-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
+- [2020-09-01-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
+- [2020-09-01-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
+- [2020-09-01-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
+- [2020-09-01-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
+- [2020-09-01-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
+- [2020-09-01-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
+- [2020-09-01-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
+- [2020-09-01-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
+- [2020-09-01-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
+- [2020-09-01-推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-01 07:11:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 07:21:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -125,6 +125,7 @@
 - [【前端瓶子君】Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/d948601d568750029fcc55a5f8ac2ce4)
 - [【程序员成长指北】想去字节面试，TypeScript-要掌握到什么程度？](https://www.ershicimi.com/p/8c23ffbc4aeea978af78394d9abeaedb)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【V2EX】typeScript-4.1-将支持-Template-string-types](https://www.v2ex.com/t/703169)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -474,8 +475,8 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】字节面试归来，四面竟然都考了算法！](https://www.ershicimi.com/p/93870384e86285174416f385a64c52af)
 - [【技术头条】HTTP/3-来了，你了解它么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13737&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F198959604%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko)
 - [【开发者头条】推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j)
+- [【开发者头条】推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko)
 - [【安全热点】Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

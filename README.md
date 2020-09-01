@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 03:02:29，:rocket: 更新条数: +3355， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 03:11:10，:rocket: 更新条数: +3356， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-01-疫中看拉美丨经历“最长隔离期”的阿根廷-抗疫之路为何依然艰辛？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9zYEyk7dVnXTZOSbkAAE200901&isfromapp=1) ![](assets/new.png)  
+- [2020-09-01-美国儿科学会：美儿童感染率快速上升，远超美国民众的平均水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiHbd1mj59MpbErNipyeP200901&isfromapp=1) ![](assets/new.png)  
 - [2020-09-01-香港普及社区检测计划第一天-市民保持距离依次进入检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin1k5rO7UmbT8rl9TACX5200901&isfromapp=1) ![](assets/new.png)  
 - [2020-08-31-你好，九月!](http://m.weibo.cn/2803301701/4544239902393189) ![](assets/new.png)  
 - [2020-08-31-世卫组织：上周全球新增超过180万例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticV4Igui262t7qPkWGnWo200901&isfromapp=1) ![](assets/new.png)  
-- [2020-08-31-意甲9月19日开启新赛季-多名球员新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti53DLbqzNT5mcA23ytGYp200901&isfromapp=1) ![](assets/new.png)  
-- [2020-08-31-旅客入境加纳需承担150美元新冠肺炎检测费](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7arOtMFGsEprbER4ZbL200901&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-08-31-JavaScript-深度学习--1.-Hello-World](https://juejin.im/post/6867329196536905735) ![](assets/new.png)  
-- [2020-08-31-22+-高频实用的-JavaScript-片段-（2020年）](https://juejin.im/post/6867299629436764167) ![](assets/new.png)  
+- [2020-08-31-vuecli3改ssr，验证你的ssr是否成功](https://juejin.im/post/6867348995866361870) ![](assets/new.png)  
 - [2020-08-31-T-HTTP-Cache，接口管理机制，为项目多一种解决方案](https://juejin.im/post/6867290006218604551) ![](assets/new.png)  
 - [2020-08-31-JavaScript实现队列结构（Queue）](https://juejin.im/post/6867186051065053192) ![](assets/new.png)  
 - [2020-08-31-XSS攻防实战（附JS源码）](https://juejin.im/post/6867184627393265677) ![](assets/new.png)  
+- [2020-08-27-我对web前端与可视化的一些思考|🏆-技术专题第三期](https://juejin.im/post/6865921593726468103) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,13 @@
 </summary>
 
 
+- [2020-09-01-为什么用-Python-motor-会慢这么多，我做错了什么吗？](https://www.v2ex.com/t/703063) ![](assets/new.png)  
+- [2020-09-01-Catalina-和-BigSur-中，-Anydesk-的权限问题](https://www.v2ex.com/t/703062) ![](assets/new.png)  
+- [2020-09-01-AirPods-Pro-一拿出来-有严重啸叫](https://www.v2ex.com/t/703061) ![](assets/new.png)  
+- [2020-09-01-苹果系统-GTK-应用打包新思路](https://www.v2ex.com/t/703060) ![](assets/new.png)  
+- [2020-09-01-Offer-比较](https://www.v2ex.com/t/703057) ![](assets/new.png)  
+- [2020-09-01-长沙电信-dns-挂了？](https://www.v2ex.com/t/703056) ![](assets/new.png)  
+- [2020-09-01-几年没写-sql-之后脑子好像不够用了，有大佬看下怎么做不。。。](https://www.v2ex.com/t/703055) ![](assets/new.png)  
 - [2020-09-01-spring-oauth2-的-clientId-和-secret-验证为什么封装成-UsernamePasswordAuthenticationToken？](https://www.v2ex.com/t/703054) ![](assets/new.png)  
 - [2020-09-01-iPhone-12-系列据传预计-10-月下旬发布](https://www.v2ex.com/t/703053) ![](assets/new.png)  
 - [2020-09-01-今天-iWatch-正面朝下全屏碎了,-能显示内容,-心痛,-有没有修补办法?](https://www.v2ex.com/t/703051) ![](assets/new.png)  
@@ -1070,13 +1077,6 @@
 - [2020-09-01-牙齿矫正,广州](https://www.v2ex.com/t/703038) ![](assets/new.png)  
 - [2020-09-01-自考-CS，求学习顺序](https://www.v2ex.com/t/703037) ![](assets/new.png)  
 - [2020-09-01-阿里云体验实验室-教程《快速搭建-LAMP-环境》](https://www.v2ex.com/t/703035) ![](assets/new.png)  
-- [2020-09-01-求助-+-讨论-im-场景下,-如何快速查询出一个时间窗口内没有发过消息的会话呢?](https://www.v2ex.com/t/703032) ![](assets/new.png)  
-- [2020-09-01-iPad-连着-wifi-但网页，-APP-都上不网，这什么情况？](https://www.v2ex.com/t/703031) ![](assets/new.png)  
-- [2020-09-01-阿里云体验实验室-教程《搭建-Node.js-编程环境》](https://www.v2ex.com/t/703030) ![](assets/new.png)  
-- [2020-09-01-问一下哦，现在运营商一直在推-1000m，但是高网速有啥应用场景吗？](https://www.v2ex.com/t/703029) ![](assets/new.png)  
-- [2020-09-01-12306-买-10.1-的票你买成了-9.1-当天的，退票-20%手续费，还四舍五入？](https://www.v2ex.com/t/703028) ![](assets/new.png)  
-- [2020-09-01-手持-18-款-mbp13，买-imac2020-还是置换-mbp16-香？](https://www.v2ex.com/t/703027) ![](assets/new.png)  
-- [2020-09-01-涂鸦智能-杭州-团队直招客户端前端开发](https://www.v2ex.com/t/703026) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,9 +1136,9 @@
 - [2020-09-01-高并发系统三大利器之降级](https://toutiao.io/k/03hcg05) ![](assets/new.png)  
 - [2020-09-01-Go-设计模式（二）：工厂模式-&-DI-容器](https://toutiao.io/k/fr4ubtz) ![](assets/new.png)  
 - [2020-09-01-消息队列之事务消息，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/36hqisn) ![](assets/new.png)  
+- [2020-09-01-卧槽！竟然可以直接白嫖-Github-Action-的-2C7G-服务器](https://toutiao.io/k/dzyi0ws) ![](assets/new.png)  
 - [2020-09-01-参考近百篇文献，“图像着色”-最全综述](https://toutiao.io/k/nqnmctv) ![](assets/new.png)  
 - [2020-09-01-版本管理工具及-Ruby-工具链环境](https://toutiao.io/k/d1m91ay) ![](assets/new.png)  
-- [2020-09-01-卧槽！竟然可以直接白嫖-Github-Action-的-2C7G-服务器](https://toutiao.io/k/dzyi0ws) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

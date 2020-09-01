@@ -12912,6 +12912,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "疫中看拉美丨经历“最长隔离期”的阿根廷 抗疫之路为何依然艰辛？",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9zYEyk7dVnXTZOSbkAAE200901&isfromapp=1",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "美国儿科学会：美儿童感染率快速上升，远超美国民众的平均水平",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiHbd1mj59MpbErNipyeP200901&isfromapp=1",
+        "date": "2020-09-01"
+      },
+      {
         "title": "香港普及社区检测计划第一天 市民保持距离依次进入检测点",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin1k5rO7UmbT8rl9TACX5200901&isfromapp=1",
         "date": "2020-09-01"
@@ -12924,16 +12934,6 @@
       {
         "title": "世卫组织：上周全球新增超过180万例新冠肺炎确诊病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticV4Igui262t7qPkWGnWo200901&isfromapp=1",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "意甲9月19日开启新赛季 多名球员新冠病毒检测呈阳性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti53DLbqzNT5mcA23ytGYp200901&isfromapp=1",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "旅客入境加纳需承担150美元新冠肺炎检测费",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7arOtMFGsEprbER4ZbL200901&isfromapp=1",
         "date": "2020-08-31"
       }
     ]
@@ -15731,13 +15731,8 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "JavaScript 深度学习- 1. Hello World",
-        "link": "https://juejin.im/post/6867329196536905735",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "22+ 高频实用的 JavaScript 片段 （2020年）",
-        "link": "https://juejin.im/post/6867299629436764167",
+        "title": "vuecli3改ssr，验证你的ssr是否成功",
+        "link": "https://juejin.im/post/6867348995866361870",
         "date": "2020-08-31"
       },
       {
@@ -15754,6 +15749,11 @@
         "title": "XSS攻防实战（附JS源码）",
         "link": "https://juejin.im/post/6867184627393265677",
         "date": "2020-08-31"
+      },
+      {
+        "title": "我对web前端与可视化的一些思考|🏆 技术专题第三期",
+        "link": "https://juejin.im/post/6865921593726468103",
+        "date": "2020-08-27"
       }
     ]
   },
@@ -16090,6 +16090,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为什么用 Python motor 会慢这么多，我做错了什么吗？",
+        "link": "https://www.v2ex.com/t/703063",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "Catalina 和 BigSur 中， Anydesk 的权限问题",
+        "link": "https://www.v2ex.com/t/703062",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "AirPods Pro 一拿出来 有严重啸叫",
+        "link": "https://www.v2ex.com/t/703061",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "苹果系统 GTK 应用打包新思路",
+        "link": "https://www.v2ex.com/t/703060",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "Offer 比较",
+        "link": "https://www.v2ex.com/t/703057",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "长沙电信 dns 挂了？",
+        "link": "https://www.v2ex.com/t/703056",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "几年没写 sql 之后脑子好像不够用了，有大佬看下怎么做不。。。",
+        "link": "https://www.v2ex.com/t/703055",
+        "date": "2020-09-01"
+      },
+      {
         "title": "spring oauth2 的 clientId 和 secret 验证为什么封装成 UsernamePasswordAuthenticationToken？",
         "link": "https://www.v2ex.com/t/703054",
         "date": "2020-09-01"
@@ -16222,36 +16257,6 @@
       {
         "title": "巨硬面试题：两个排序数组的中位数（我用的是双指针，不知道还有没有更优解）",
         "link": "https://www.v2ex.com/t/703016",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "数字货币是否具有无限法偿性？",
-        "link": "https://www.v2ex.com/t/703013",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "在 Python 里面把 module 设置成类的变量有什么问题吗？",
-        "link": "https://www.v2ex.com/t/703011",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "如果你和我一样追 A 站的交通事故 video，欢迎加入我的 telegram 订阅频道获取更新提醒",
-        "link": "https://www.v2ex.com/t/703010",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "记账工具 Money Pro 的 macOS 端限时降价 ¥6",
-        "link": "https://www.v2ex.com/t/703007",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "颠覆你的想象!微软新手机「Surface Duo」2020 年您可以选择的折叠手机",
-        "link": "https://www.v2ex.com/t/703006",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "学校电信宽带是怎么检测设备数量的",
-        "link": "https://www.v2ex.com/t/703005",
         "date": "2020-09-01"
       }
     ]
@@ -16454,6 +16459,11 @@
         "date": "2020-09-01"
       },
       {
+        "title": "卧槽！竟然可以直接白嫖 Github Action 的 2C7G 服务器",
+        "link": "https://toutiao.io/k/dzyi0ws",
+        "date": "2020-09-01"
+      },
+      {
         "title": "参考近百篇文献，“图像着色” 最全综述",
         "link": "https://toutiao.io/k/nqnmctv",
         "date": "2020-09-01"
@@ -16464,43 +16474,13 @@
         "date": "2020-09-01"
       },
       {
-        "title": "卧槽！竟然可以直接白嫖 Github Action 的 2C7G 服务器",
-        "link": "https://toutiao.io/k/dzyi0ws",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] Spring 中异步注解 @Async 的使用、原理及使用时可能导致的问题",
-        "link": "https://toutiao.io/k/g063et3",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] 十个问题弄清 JVM & GC（二）",
-        "link": "https://toutiao.io/k/v2dq9lz",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] 一道有意思的腾讯算法面试题",
-        "link": "https://toutiao.io/k/wui7yqj",
-        "date": "2020-09-01"
-      },
-      {
         "title": "[推荐] 高并发系统三大利器之缓存",
         "link": "https://toutiao.io/k/gbvhdf1",
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
-        "link": "https://toutiao.io/k/3lp54k3",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] 多图详解！10 大高性能开发核心技术",
-        "link": "https://toutiao.io/k/iqokf55",
+        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
+        "link": "https://toutiao.io/k/749snp6",
         "date": "2020-09-01"
       },
       {
@@ -16509,18 +16489,28 @@
         "date": "2020-09-01"
       },
       {
+        "title": "[推荐] 多图详解！10 大高性能开发核心技术",
+        "link": "https://toutiao.io/k/iqokf55",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "[推荐] 微服务技术栈：API 网关中心，落地实现方案",
+        "link": "https://toutiao.io/k/5fjxacf",
+        "date": "2020-09-01"
+      },
+      {
         "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
         "link": "https://toutiao.io/k/jhsjj8v",
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
-        "link": "https://toutiao.io/k/smg6nko",
+        "title": "[推荐] Linux 系统优化（内核优化）",
+        "link": "https://toutiao.io/k/bopgl5e",
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] 全网最通透的 Java 8 版本特性讲解",
-        "link": "https://toutiao.io/k/vbmfzum",
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
         "date": "2020-09-01"
       },
       {
@@ -16529,18 +16519,33 @@
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] Redis 五大对象",
-        "link": "https://toutiao.io/k/djlfguy",
+        "title": "[推荐] 一道有意思的腾讯算法面试题",
+        "link": "https://toutiao.io/k/wui7yqj",
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] Shell 编码规范",
-        "link": "https://toutiao.io/k/jbo65f6",
+        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
+        "link": "https://toutiao.io/k/3lp54k3",
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
-        "link": "https://toutiao.io/k/8r5oqql",
+        "title": "[推荐] 使用 Spring Boot DevTools 优化你的开发体验",
+        "link": "https://toutiao.io/k/e6fskts",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "[推荐] 程序日志级别规范",
+        "link": "https://toutiao.io/k/sf65q0v",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "[推荐] 高手都是如何刷 LeetCode 的？| 码农周刊第 315 期",
+        "link": "https://toutiao.io/k/sh6tvfh",
         "date": "2020-09-01"
       }
     ]

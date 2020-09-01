@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-01 05:02:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 05:13:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-01-写了篇新文章---MySQL-PostgreSQL-和-SQLite-都有什么区别？用哪个？](https://www.v2ex.com/t/703105) 
 - [2020-09-01-某宝售卖的破解-PD-全线下架。](https://www.v2ex.com/t/703104) 
 - [2020-09-01-京东风控](https://www.v2ex.com/t/703103) 
 - [2020-09-01-上海-米哈游内推---Java-/Golang/Web-前端/移动客户端](https://www.v2ex.com/t/703102) 
@@ -21,7 +22,6 @@
 - [2020-09-01-关于软件开发的竞业限制，这样合理么](https://www.v2ex.com/t/703085) 
 - [2020-09-01-按教程部署支持-k8s-的-portainer-的时候，遇到存储绑定问题，请教](https://www.v2ex.com/t/703083) 
 - [2020-09-01-Mac-OS-CATALINA-删除确认](https://www.v2ex.com/t/703081) 
-- [2020-09-01-这-小米的系统开发人员这一个月放假了么](https://www.v2ex.com/t/703080) 
 - [2020-09-01-用了绿联-CM212-转接头，把-Macbook-Pro-16’-的左侧-USB-口烧了](https://www.v2ex.com/t/703078) 
 - [2020-09-01-猿辅导内推-北京-开发、测试、产品](https://www.v2ex.com/t/703076) 
 - [2020-09-01-macOS-Big-Sur-beta5-最近发现-open-files-too-many-的情况越来越多了](https://www.v2ex.com/t/703075) 
@@ -39,4 +39,3 @@
 - [2020-09-01-苹果系统-GTK-应用打包新思路](https://www.v2ex.com/t/703060) 
 - [2020-09-01-Offer-比较](https://www.v2ex.com/t/703057) 
 - [2020-09-01-长沙电信-dns-挂了？](https://www.v2ex.com/t/703056) 
-- [2020-09-01-几年没写-sql-之后脑子好像不够用了，有大佬看下怎么做不。。。](https://www.v2ex.com/t/703055) 

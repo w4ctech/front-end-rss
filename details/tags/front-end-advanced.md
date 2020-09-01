@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 16:31:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 16:34:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -22,6 +22,7 @@
 - [2020-01-03-第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf) 
 - [2020-08-28-字节面试归来，四面竟然都考了算法！](https://www.ershicimi.com/p/93870384e86285174416f385a64c52af) 
 - [2020-08-31-2万字干货-|-带你领略不一样的HTTP协议](https://juejin.im/post/6867353181668507662) 
+- [2020-09-01-Nginx-重定向-HTTP-->-HTTPS-的问题](https://www.v2ex.com/t/703309) 
 - [2020-09-01-HTTP/3-来了，你了解它么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13737&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F198959604%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-01-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) 
 - [2020-08-28-CVE-2019-17564-Dubbo-HTTP协议反序列化漏洞](https://sec.thief.one/article_content?a_id=089e1dbb3df7c9061b7ec290770bae6c) 

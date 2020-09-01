@@ -1,11 +1,14 @@
-:alarm_clock: 更新时间: 2020-09-01 03:48:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 04:02:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-09-01-这-TM-小米的系统开发人员这一个月放假了么](https://www.v2ex.com/t/703080) 
+- [2020-09-01-关于软件开发的竞业限制，这样合理么](https://www.v2ex.com/t/703085) 
+- [2020-09-01-按教程部署支持-k8s-的-portainer-的时候，遇到存储绑定问题，请教](https://www.v2ex.com/t/703083) 
+- [2020-09-01-Mac-OS-CATALINA-删除确认](https://www.v2ex.com/t/703081) 
+- [2020-09-01-这-小米的系统开发人员这一个月放假了么](https://www.v2ex.com/t/703080) 
 - [2020-09-01-用了绿联-CM212-转接头，把-Macbook-Pro-16’-的左侧-USB-口烧了](https://www.v2ex.com/t/703078) 
 - [2020-09-01-猿辅导内推-北京-开发、测试、产品](https://www.v2ex.com/t/703076) 
 - [2020-09-01-macOS-Big-Sur-beta5-最近发现-open-files-too-many-的情况越来越多了](https://www.v2ex.com/t/703075) 
@@ -36,6 +39,3 @@
 - [2020-09-01-Java-开发初中高核心区别到底是什么](https://www.v2ex.com/t/703039) 
 - [2020-09-01-牙齿矫正,广州](https://www.v2ex.com/t/703038) 
 - [2020-09-01-自考-CS，求学习顺序](https://www.v2ex.com/t/703037) 
-- [2020-09-01-阿里云体验实验室-教程《快速搭建-LAMP-环境》](https://www.v2ex.com/t/703035) 
-- [2020-09-01-求助-+-讨论-im-场景下,-如何快速查询出一个时间窗口内没有发过消息的会话呢?](https://www.v2ex.com/t/703032) 
-- [2020-09-01-iPad-连着-wifi-但网页，-APP-都上不网，这什么情况？](https://www.v2ex.com/t/703031) 

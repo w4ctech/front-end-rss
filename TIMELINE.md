@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 08:12:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-01 08:24:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,11 +122,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-01-美国新冠肺炎确诊病例累计超603万例-死亡超18万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQPHg3HxaKpreeDZ8LyGM200901&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-01-俄罗斯新增4729例新冠肺炎确诊病例-累计确诊超100万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis587XafpsPXye5gcxIFu200901&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-01-澳门扩客计划9月1日起正式实施-助力经济复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGmMvIeYjpAtuUlhuzBzT200901&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-09-01-休舱！巴西“方舱医院”被改为汽车电影院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuSzrYnTcWH1xJKhcR1a200901&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-09-01-世卫组织：新冠病毒在青少年中的传播率比幼童更高](http://m.weibo.cn/3057540037/4544305837120657) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-01-疫中看拉美丨经历“最长隔离期”的阿根廷-抗疫之路为何依然艰辛？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9zYEyk7dVnXTZOSbkAAE200901&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-01-美国儿科学会：美儿童感染率快速上升，远超美国民众的平均水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiHbd1mj59MpbErNipyeP200901&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-01-香港普及社区检测计划第一天-市民保持距离依次进入检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin1k5rO7UmbT8rl9TACX5200901&isfromapp=1) 
 - [【前端开发】2020-09-01-看了28岁华为员工的工资表才知道：牛逼的人注定会牛逼](https://www.ershicimi.com/p/863c36c51ecb470781408d31cc99669e) 
 - [【前端开发】2020-09-01-整理几个超实用的前端提效-shell-命令](https://www.ershicimi.com/p/36f845b565e38d48f70d248590eff751) 
 - [【前端之巅】2020-09-01-我用React和Vue构建了同款应用，来看看哪里不一样（2020版）](https://www.ershicimi.com/p/0cc0282c4670ccc96d6386c3e3dc4c2e) 
@@ -138,6 +138,8 @@
 - [【互联网架构师】2020-09-01-SparkStreaming-是火还是坑？](https://www.ershicimi.com/p/7b58402913eecc5af4f72b5252b78de1) 
 - [【互联网架构师】2020-09-01-认真看看，-以后写-SQL-就爽多了：MyBatis-动态-SQL](https://www.ershicimi.com/p/e6d290566e0fb04eb3801bd227b482eb) 
 - [【互联网架构师】2020-09-01-为什么阿里规定需要在事务注解@Transactional中指定rollbackFor](https://www.ershicimi.com/p/9e2ec473d8f75e278902c5190634cc13) 
+- [【V2EX】2020-09-01-腾讯云续费-2.4-折](https://www.v2ex.com/t/703198) 
+- [【V2EX】2020-09-01-Power-Platform-在中国是否有前途？](https://www.v2ex.com/t/703196) 
 - [【V2EX】2020-09-01-那个什么光年实验室是傻-X-吗？](https://www.v2ex.com/t/703193) 
 - [【V2EX】2020-09-01-武汉招初级前端，-2-年经验，技术栈-vue-全家桶+elementUi，-7000+，五险一金，双休，有需要换工作的小伙伴加-V：-SmF5X25hb2NhbmZlbg==](https://www.v2ex.com/t/703191) 
 - [【V2EX】2020-09-01-mac-os-x-有类似-Linux-下-keynav-用键盘模拟鼠标的软件吗？](https://www.v2ex.com/t/703190) 
@@ -167,7 +169,6 @@
 - [【V2EX】2020-09-01-字节秋招-前端-商业变现部门狂缺前端开发（北上杭）](https://www.v2ex.com/t/703155) 
 - [【V2EX】2020-09-01-DMG-Disk-Image-在-macOS-Big-Sur-里有了一个新图标](https://www.v2ex.com/t/703153) 
 - [【V2EX】2020-09-01-8-月的最后一天，收获了好消息...](https://www.v2ex.com/t/703151) 
-- [【V2EX】2020-09-01-服务端中间件与数据库的安全配置](https://www.v2ex.com/t/703149) 
 - [【技术头条】2020-09-01-HTTP/3-来了，你了解它么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13737&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F198959604%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-09-01-如何画出漂亮的神经网络图？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13736&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU5jTHWORDCGMd2UI5jFu0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-09-01-以为是行废代码，原来有这作用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13735&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fd8JeWaWf53_60KeRoISRuQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -208,21 +209,21 @@
 - [【开发者头条】2020-09-01-消息队列之事务消息，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/36hqisn) 
 - [【开发者头条】2020-09-01-参考近百篇文献，“图像着色”-最全综述](https://toutiao.io/k/nqnmctv) 
 - [【开发者头条】2020-09-01-版本管理工具及-Ruby-工具链环境](https://toutiao.io/k/d1m91ay) 
-- [【开发者头条】2020-09-01-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) 
-- [【开发者头条】2020-09-01-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
-- [【开发者头条】2020-09-01-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) 
-- [【开发者头条】2020-09-01-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
+- [【开发者头条】2020-09-01-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) 
 - [【开发者头条】2020-09-01-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) 
-- [【开发者头条】2020-09-01-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
-- [【开发者头条】2020-09-01-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) 
-- [【开发者头条】2020-09-01-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) 
-- [【开发者头条】2020-09-01-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) 
 - [【开发者头条】2020-09-01-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) 
-- [【开发者头条】2020-09-01-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) 
-- [【开发者头条】2020-09-01-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
+- [【开发者头条】2020-09-01-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) 
+- [【开发者头条】2020-09-01-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
+- [【开发者头条】2020-09-01-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) 
+- [【开发者头条】2020-09-01-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) 
+- [【开发者头条】2020-09-01-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
+- [【开发者头条】2020-09-01-推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj) 
 - [【开发者头条】2020-09-01-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) 
-- [【开发者头条】2020-09-01-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
+- [【开发者头条】2020-09-01-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) 
 - [【开发者头条】2020-09-01-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) 
+- [【开发者头条】2020-09-01-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) 
+- [【开发者头条】2020-09-01-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) 
+- [【开发者头条】2020-09-01-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

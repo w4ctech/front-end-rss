@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 08:12:41，:rocket: 更新条数: +3573， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 08:24:37，:rocket: 更新条数: +3574， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-01-美国新冠肺炎确诊病例累计超603万例-死亡超18万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQPHg3HxaKpreeDZ8LyGM200901&isfromapp=1) ![](assets/new.png)  
+- [2020-09-01-俄罗斯新增4729例新冠肺炎确诊病例-累计确诊超100万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis587XafpsPXye5gcxIFu200901&isfromapp=1) ![](assets/new.png)  
+- [2020-09-01-澳门扩客计划9月1日起正式实施-助力经济复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGmMvIeYjpAtuUlhuzBzT200901&isfromapp=1) ![](assets/new.png)  
 - [2020-09-01-休舱！巴西“方舱医院”被改为汽车电影院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuSzrYnTcWH1xJKhcR1a200901&isfromapp=1) ![](assets/new.png)  
 - [2020-09-01-世卫组织：新冠病毒在青少年中的传播率比幼童更高](http://m.weibo.cn/3057540037/4544305837120657) ![](assets/new.png)  
-- [2020-09-01-疫中看拉美丨经历“最长隔离期”的阿根廷-抗疫之路为何依然艰辛？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9zYEyk7dVnXTZOSbkAAE200901&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-美国儿科学会：美儿童感染率快速上升，远超美国民众的平均水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiHbd1mj59MpbErNipyeP200901&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-香港普及社区检测计划第一天-市民保持距离依次进入检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin1k5rO7UmbT8rl9TACX5200901&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-01-腾讯云续费-2.4-折](https://www.v2ex.com/t/703198) ![](assets/new.png)  
+- [2020-09-01-Power-Platform-在中国是否有前途？](https://www.v2ex.com/t/703196) ![](assets/new.png)  
 - [2020-09-01-那个什么光年实验室是傻-X-吗？](https://www.v2ex.com/t/703193) ![](assets/new.png)  
 - [2020-09-01-武汉招初级前端，-2-年经验，技术栈-vue-全家桶+elementUi，-7000+，五险一金，双休，有需要换工作的小伙伴加-V：-SmF5X25hb2NhbmZlbg==](https://www.v2ex.com/t/703191) ![](assets/new.png)  
 - [2020-09-01-mac-os-x-有类似-Linux-下-keynav-用键盘模拟鼠标的软件吗？](https://www.v2ex.com/t/703190) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-01-关于车子轮胎的问题，这种情况是不是可以投诉](https://www.v2ex.com/t/703174) ![](assets/new.png)  
 - [2020-09-01-戾气是怎么炼成的](https://www.v2ex.com/t/703173) ![](assets/new.png)  
 - [2020-09-01-C-语言有没有开源的-MD5-的库？目前只需要对字符串做-md5-校验，不需要加密。](https://www.v2ex.com/t/703171) ![](assets/new.png)  
-- [2020-09-01-视频面试的体验好糟糕](https://www.v2ex.com/t/703170) ![](assets/new.png)  
-- [2020-09-01-typeScript-4.1-将支持-Template-string-types](https://www.v2ex.com/t/703169) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

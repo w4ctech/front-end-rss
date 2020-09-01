@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-01 08:12:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 08:24:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-01-腾讯云续费-2.4-折](https://www.v2ex.com/t/703198) 
+- [2020-09-01-Power-Platform-在中国是否有前途？](https://www.v2ex.com/t/703196) 
 - [2020-09-01-那个什么光年实验室是傻-X-吗？](https://www.v2ex.com/t/703193) 
 - [2020-09-01-武汉招初级前端，-2-年经验，技术栈-vue-全家桶+elementUi，-7000+，五险一金，双休，有需要换工作的小伙伴加-V：-SmF5X25hb2NhbmZlbg==](https://www.v2ex.com/t/703191) 
 - [2020-09-01-mac-os-x-有类似-Linux-下-keynav-用键盘模拟鼠标的软件吗？](https://www.v2ex.com/t/703190) 
@@ -34,4 +36,3 @@
 - [2020-09-01-字节秋招-前端-商业变现部门狂缺前端开发（北上杭）](https://www.v2ex.com/t/703155) 
 - [2020-09-01-DMG-Disk-Image-在-macOS-Big-Sur-里有了一个新图标](https://www.v2ex.com/t/703153) 
 - [2020-09-01-8-月的最后一天，收获了好消息...](https://www.v2ex.com/t/703151) 
-- [2020-09-01-服务端中间件与数据库的安全配置](https://www.v2ex.com/t/703149) 

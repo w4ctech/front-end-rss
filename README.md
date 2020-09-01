@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 00:31:20，:rocket: 更新条数: +3560， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 00:58:36，:rocket: 更新条数: +3566， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,13 @@
 </summary>
 
 
+- [2020-09-01-迫于阿里小号到期了，来问还有什么能代替的吗？](https://www.v2ex.com/t/702998) ![](assets/new.png)  
+- [2020-09-01-忽略空气阻力和引力，火药爆炸的加速度是单调递减，还是先暴涨，再递减？](https://www.v2ex.com/t/702996) ![](assets/new.png)  
+- [2020-09-01-华尔街日报：-TikTok-事件是扎克伯格使得坏](https://www.v2ex.com/t/702995) ![](assets/new.png)  
+- [2020-09-01-《极限竞速地平线-3》微软商店打折，终极版只需要-71-块钱，可以入了吗兄弟们](https://www.v2ex.com/t/702994) ![](assets/new.png)  
+- [2020-09-01-10T-视频源文件，-1T-项目文件，-4T-网络资料，如何快速上传-GoogleDrive，求正确方式](https://www.v2ex.com/t/702991) ![](assets/new.png)  
+- [2020-09-01-mac-装双系统问题](https://www.v2ex.com/t/702990) ![](assets/new.png)  
+- [2020-09-01-iPhone-12-全系售价表曝光啦](https://www.v2ex.com/t/702989) ![](assets/new.png)  
 - [2020-09-01-ARM-处理器版-MacBook-曝光：-12-寸不足-1-公斤重、5400-元起](https://www.v2ex.com/t/702985) ![](assets/new.png)  
 - [2020-08-31-20200901-午夜俱乐部](https://www.v2ex.com/t/702984) ![](assets/new.png)  
 - [2020-08-31-阿里云轻量服务器开出一个-47.242-开头的-ip，现在好像也不是-cn2-了哦。我测试了下还不如阿里云国际买的服务器-8.210-的快？](https://www.v2ex.com/t/702983) ![](assets/new.png)  
@@ -1090,13 +1097,6 @@
 - [2020-08-31-V2EX-对-Nintendo-Friend-Code-的进一步支持](https://www.v2ex.com/t/702970) ![](assets/new.png)  
 - [2020-08-31-WSL2-中如何使用-vim-的-visual-block-模式](https://www.v2ex.com/t/702968) ![](assets/new.png)  
 - [2020-08-31-全职远程-加拿大游戏公司，-Unreal-Engine-4-开发](https://www.v2ex.com/t/702967) ![](assets/new.png)  
-- [2020-08-31-妹妹上高中了，有打电话的需求，-esim-版-AW-能解决吗？](https://www.v2ex.com/t/702966) ![](assets/new.png)  
-- [2020-08-31-糟心了，-ubuntu-snap-有啥奇巧的提速方法吗？](https://www.v2ex.com/t/702964) ![](assets/new.png)  
-- [2020-08-31-买了-iPad-pro2020，原生键盘有点奇怪，拍照也很糊，我中招了吗？](https://www.v2ex.com/t/702963) ![](assets/new.png)  
-- [2020-08-31-工作第五年,没有研究技术的心态了,自己有些浮躁,怎么破?](https://www.v2ex.com/t/702961) ![](assets/new.png)  
-- [2020-08-31-OpenWRT-上的-SSR+插件因为-SSR-服务器不支持-ipv6-导致-instagram-刷不出来，怎样在不关闭-ipv6-的前提下解决这个问题？](https://www.v2ex.com/t/702960) ![](assets/new.png)  
-- [2020-08-31-最近发现-quarkus-非常火，我想了解下，-quarkus-和-springboot-有啥区别？为啥要用-quarkus-呢？](https://www.v2ex.com/t/702958) ![](assets/new.png)  
-- [2020-08-31-字节跳动-Data-广告系统部门为什么值得加入？](https://www.v2ex.com/t/702957) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,25 +1140,25 @@
 
 
 - [2020-09-01-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
-- [2020-09-01-用户画像面面谈](https://toutiao.io/k/md213f8) ![](assets/new.png)  
-- [2020-09-01-Facebook-开源-Go-ORM-项目-ent-schema-使用（上）](https://toutiao.io/k/tl3rnpv) ![](assets/new.png)  
 - [2020-09-01-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-01-Facebook-开源-Go-ORM-项目-ent-schema-使用（上）](https://toutiao.io/k/tl3rnpv) ![](assets/new.png)  
 - [2020-09-01-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-01-用户画像面面谈](https://toutiao.io/k/md213f8) ![](assets/new.png)  
 - [2020-09-01-基于-Spark-的大规模推荐系统特征工程](https://toutiao.io/k/90jrxp6) ![](assets/new.png)  
-- [2020-09-01-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
-- [2020-09-01-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
-- [2020-09-01-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
-- [2020-09-01-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
-- [2020-09-01-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
-- [2020-09-01-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
-- [2020-09-01-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) ![](assets/new.png)  
-- [2020-09-01-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-09-01-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
-- [2020-09-01-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
+- [2020-09-01-一键解锁网易云音乐变灰歌曲](https://toutiao.io/k/y4xv4tr) ![](assets/new.png)  
+- [2020-09-01-KDD-Cup-2020-自动图学习比赛冠军技术方案及在美团广告的实践](https://toutiao.io/k/dbi87y2) ![](assets/new.png)  
+- [2020-09-01-我半夜爬了严选的女性文胸数据，发现了惊天秘密](https://toutiao.io/k/9na1q0e) ![](assets/new.png)  
+- [2020-09-01-JS-真的可以为所欲为之绕过-ContextProvider-给-useRequest-注入全局配置](https://toutiao.io/k/wmkm5fk) ![](assets/new.png)  
+- [2020-09-01-从零开始编写一个库到-crates-中心](https://toutiao.io/k/ek7qadb) ![](assets/new.png)  
+- [2020-09-01-10-年-bloger-告诉你要不要写博客，又该如何优雅地写博客？](https://toutiao.io/k/fgq798p) ![](assets/new.png)  
+- [2020-09-01-Redis-有序集合相关命令](https://toutiao.io/k/g20qcon) ![](assets/new.png)  
 - [2020-09-01-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
-- [2020-09-01-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
-- [2020-09-01-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
-- [2020-09-01-推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts) ![](assets/new.png)  
+- [2020-09-01-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
+- [2020-09-01-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) ![](assets/new.png)  
+- [2020-09-01-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) ![](assets/new.png)  
+- [2020-09-01-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
+- [2020-09-01-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
+- [2020-09-01-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

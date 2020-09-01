@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 01:19:28，:rocket: 更新条数: +3348， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 01:27:19，:rocket: 更新条数: +3346， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-01-学校电信宽带是怎么检测设备数量的](https://www.v2ex.com/t/703005) ![](assets/new.png)  
+- [2020-09-01-广州有-Go-的岗位内推吗？谢谢大佬们](https://www.v2ex.com/t/703004) ![](assets/new.png)  
 - [2020-09-01-求助,30GB-的机器学习的数据集,领导让下载到本地服务器我该怎么做,由于都是国内,暂时想到写个-Dockerfile-上传到阿里服务器或腾讯容器仓库再下拉,有其他更好的方...](https://www.v2ex.com/t/703001) ![](assets/new.png)  
 - [2020-09-01-老婆用试纸测试怀孕了，需要去医院检查吗？](https://www.v2ex.com/t/703000) ![](assets/new.png)  
 - [2020-09-01-有什么工具可以测试-Linux-和-window-有没有改过密码吗？-每周检查一次](https://www.v2ex.com/t/702999) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-08-31-出售京东-plus50-网易云音乐-40-快看漫画-15-去哪-10-大地影院-5](https://www.v2ex.com/t/702977) ![](assets/new.png)  
 - [2020-08-31-除了微信和-FaceTime,-有什么免费&稳定的视频/语音通话和通讯软件推荐?](https://www.v2ex.com/t/702976) ![](assets/new.png)  
 - [2020-08-31-重新自学-PHP](https://www.v2ex.com/t/702975) ![](assets/new.png)  
-- [2020-08-31-关于-iOS-14-Beta-更新时卡在-Terms-and-Conditions-的问题](https://www.v2ex.com/t/702974) ![](assets/new.png)  
-- [2020-08-31-MariaDB-基金会居然入驻-B-站了](https://www.v2ex.com/t/702972) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,17 +1128,17 @@
 - [2020-09-01-一键解锁网易云音乐变灰歌曲](https://toutiao.io/k/y4xv4tr) ![](assets/new.png)  
 - [2020-09-01-我半夜爬了严选的女性文胸数据，发现了惊天秘密](https://toutiao.io/k/9na1q0e) ![](assets/new.png)  
 - [2020-09-01-KDD-Cup-2020-自动图学习比赛冠军技术方案及在美团广告的实践](https://toutiao.io/k/dbi87y2) ![](assets/new.png)  
-- [2020-09-01-10-年-bloger-告诉你要不要写博客，又该如何优雅地写博客？](https://toutiao.io/k/fgq798p) ![](assets/new.png)  
 - [2020-09-01-JS-真的可以为所欲为之绕过-ContextProvider-给-useRequest-注入全局配置](https://toutiao.io/k/wmkm5fk) ![](assets/new.png)  
+- [2020-09-01-10-年-bloger-告诉你要不要写博客，又该如何优雅地写博客？](https://toutiao.io/k/fgq798p) ![](assets/new.png)  
 - [2020-09-01-从零开始编写一个库到-crates-中心](https://toutiao.io/k/ek7qadb) ![](assets/new.png)  
 - [2020-09-01-Redis-有序集合相关命令](https://toutiao.io/k/g20qcon) ![](assets/new.png)  
-- [2020-09-01-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
-- [2020-09-01-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
-- [2020-09-01-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
-- [2020-09-01-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) ![](assets/new.png)  
-- [2020-09-01-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-09-01-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
 - [2020-09-01-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
+- [2020-09-01-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) ![](assets/new.png)  
+- [2020-09-01-推荐-Tomcat-高并发之道原理拆解与性能调优](https://toutiao.io/k/htijp2l) ![](assets/new.png)  
+- [2020-09-01-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
+- [2020-09-01-推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j) ![](assets/new.png)  
+- [2020-09-01-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
+- [2020-09-01-推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

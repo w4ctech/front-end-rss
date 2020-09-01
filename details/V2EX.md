@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-09-01 02:48:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 03:02:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-01-spring-oauth2-的-clientId-和-secret-验证为什么封装成-UsernamePasswordAuthenticationToken？](https://www.v2ex.com/t/703054) 
+- [2020-09-01-iPhone-12-系列据传预计-10-月下旬发布](https://www.v2ex.com/t/703053) 
+- [2020-09-01-今天-iWatch-正面朝下全屏碎了,-能显示内容,-心痛,-有没有修补办法?](https://www.v2ex.com/t/703051) 
+- [2020-09-01-QQ-邮箱下载附件也限速了](https://www.v2ex.com/t/703050) 
 - [2020-09-01-年龄-30+了，有个机会去上海，是去还是留？](https://www.v2ex.com/t/703048) 
 - [2020-09-01-大家有骑电动车上班的吗？关于新国标怎么破](https://www.v2ex.com/t/703046) 
 - [2020-09-01-阿里云体验实验室-教程《搭建-Java-Web-开发环境》](https://www.v2ex.com/t/703044) 
@@ -34,7 +38,3 @@
 - [2020-09-01-记账工具-Money-Pro-的-macOS-端限时降价-¥6](https://www.v2ex.com/t/703007) 
 - [2020-09-01-颠覆你的想象!微软新手机「Surface-Duo」2020-年您可以选择的折叠手机](https://www.v2ex.com/t/703006) 
 - [2020-09-01-学校电信宽带是怎么检测设备数量的](https://www.v2ex.com/t/703005) 
-- [2020-09-01-广州有-Go-的岗位内推吗？谢谢大佬们](https://www.v2ex.com/t/703004) 
-- [2020-09-01-求助,30GB-的机器学习的数据集,领导让下载到本地服务器我该怎么做,由于都是国内,暂时想到写个-Dockerfile-上传到阿里服务器或腾讯容器仓库再下拉,有其他更好的方...](https://www.v2ex.com/t/703001) 
-- [2020-09-01-老婆用试纸测试怀孕了，需要去医院检查吗？](https://www.v2ex.com/t/703000) 
-- [2020-09-01-有什么工具可以测试-Linux-和-window-有没有改过密码吗？-每周检查一次](https://www.v2ex.com/t/702999) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 13:48:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 14:03:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -21,4 +21,3 @@
 - [2020-08-21-Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/d948601d568750029fcc55a5f8ac2ce4) 
 - [2020-08-28-想去字节面试，TypeScript-要掌握到什么程度？](https://www.ershicimi.com/p/8c23ffbc4aeea978af78394d9abeaedb) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
-- [2020-09-01-上海-ARKIE-工业设计-Web-全栈-/-前端-TypeScript](https://www.v2ex.com/t/703262) 

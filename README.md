@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 23:10:40，:rocket: 更新条数: +3358， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 23:20:40，:rocket: 更新条数: +3358， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-01-世卫组织：全球新冠肺炎确诊病例新增208215例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit7ZOsZ3moaASHcn6upa0200902&isfromapp=1) ![](assets/new.png)  
+- [2020-09-01-欧亚发展银行：塔吉克斯坦为地区唯一保持经济增长的国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW4tXVuNvgiRoT56g796W200902&isfromapp=1) ![](assets/new.png)  
 - [2020-09-01-吴尊友再谈“西城大爷”-大数据助力疫情防控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPGGQSgtOMlmien4vZbRY200901&isfromapp=1) ![](assets/new.png)  
 - [2020-09-01-钟南山谈抗疫说中国人的命最重要](http://m.weibo.cn/2656274875/4544443480803192) ![](assets/new.png)  
 - [2020-09-01-李小加：香港未来5至10年会成为全球最大的生物科技融资中心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM58N0QciQ4LemUJHXltB200901&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-香港中联办工作人员积极参与特区政府“普及社区检测计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4KbQzZyiyTLDAImpQEYD200901&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-印度累计8.7万医务人员确诊新冠肺炎-573人死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii16nt0XIthqyaZvyKbmB200901&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1135,8 +1135,8 @@
 - [2020-09-01-Redis-有序集合相关命令](https://toutiao.io/k/g20qcon) ![](assets/new.png)  
 - [2020-09-01-消息队列之事务消息，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/36hqisn) ![](assets/new.png)  
 - [2020-09-01-从零开始编写一个库到-crates-中心](https://toutiao.io/k/ek7qadb) ![](assets/new.png)  
-- [2020-09-01-MySQL-读锁的区别和应用场景分析](https://toutiao.io/k/l6de1q9) ![](assets/new.png)  
 - [2020-09-01-卧槽！竟然可以直接白嫖-Github-Action-的-2C7G-服务器](https://toutiao.io/k/dzyi0ws) ![](assets/new.png)  
+- [2020-09-01-MySQL-读锁的区别和应用场景分析](https://toutiao.io/k/l6de1q9) ![](assets/new.png)  
 - [2020-09-01-参考近百篇文献，“图像着色”-最全综述](https://toutiao.io/k/nqnmctv) ![](assets/new.png)  
 - [2020-09-01-版本管理工具及-Ruby-工具链环境](https://toutiao.io/k/d1m91ay) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

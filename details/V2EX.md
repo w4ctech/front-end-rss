@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-01 14:48:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 15:03:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-01-有什么-K8s-安装教程推荐嘛](https://www.v2ex.com/t/703326) 
 - [2020-09-01-vite-中如何使用-JS-新语法？](https://www.v2ex.com/t/703325) 
 - [2020-09-01-Apple-ID-Number？-Apple-ID-Person-ID?](https://www.v2ex.com/t/703324) 
 - [2020-09-01-macos-的日历无法设置一天的起始时间](https://www.v2ex.com/t/703323) 
@@ -39,5 +40,3 @@
 - [2020-09-01-LeetCode/LintCode-题解丨阿里巴巴面试原题：两个排序数组的中位数](https://www.v2ex.com/t/703282) 
 - [2020-09-01-Spring-Security-5-集成-Authing-OIDC-单点登录指南](https://www.v2ex.com/t/703281) 
 - [2020-09-01-为什么阿里不去做网盘呢](https://www.v2ex.com/t/703279) 
-- [2020-09-01-去腾讯-PCG-还是留华为？要不要跳？](https://www.v2ex.com/t/703278) 
-- [2020-09-01-编程术语-upvalued-的中文对应术语是啥](https://www.v2ex.com/t/703276) 

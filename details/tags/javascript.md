@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 07:22:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 07:31:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -94,5 +94,4 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-01-SpreadJS-纯前端表格控件应用案例：雨诺订单管理系统（雨诺-OMS）](https://www.v2ex.com/t/703167) 
 - [2020-09-01-JS-真的可以为所欲为之绕过-ContextProvider-给-useRequest-注入全局配置](https://toutiao.io/k/wmkm5fk) 
-- [2020-09-01-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) 
 - [2020-08-13-【原创】jsjiami&sojson部分解密思路](https://sec.thief.one/article_content?a_id=201e06047656a34de3426c45216fefa9) 

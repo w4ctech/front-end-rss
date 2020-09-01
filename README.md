@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 02:03:01，:rocket: 更新条数: +3566， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 02:12:28，:rocket: 更新条数: +3572， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -874,6 +874,9 @@
 </summary>
 
 
+- [2020-09-01-SparkStreaming-是火还是坑？](https://www.ershicimi.com/p/7b58402913eecc5af4f72b5252b78de1) ![](assets/new.png)  
+- [2020-09-01-认真看看，-以后写-SQL-就爽多了：MyBatis-动态-SQL](https://www.ershicimi.com/p/e6d290566e0fb04eb3801bd227b482eb) ![](assets/new.png)  
+- [2020-09-01-为什么阿里规定需要在事务注解@Transactional中指定rollbackFor](https://www.ershicimi.com/p/9e2ec473d8f75e278902c5190634cc13) ![](assets/new.png)  
 - [2020-08-31-太疯狂了！刚刚，马斯克脑机接口试验成功！这次是活猪下次是人脑！](https://www.ershicimi.com/p/ef1b1eaab2fb800d65bf86fdf6fe314c) ![](assets/new.png)  
 - [2020-08-31-S太赞了！大佬竟然用ELK搭建起了支撑TB级的日志监控系统...](https://www.ershicimi.com/p/5681e4a3dad158e2c4772dfa2c625a81) ![](assets/new.png)  
 - [2020-08-31-写这么骚的代码，不怕被揍么？](https://www.ershicimi.com/p/694e12ca33935ce3d7b2a413ca9cb383) ![](assets/new.png)  
@@ -891,9 +894,6 @@
 - [2020-08-27-肝完这篇-TCP/IP-，我就面试去！](https://www.ershicimi.com/p/a194e1ce51cb55a03b99730e3d6c5e76) ![](assets/new.png)  
 - [2020-08-26-太强了！这款轻量级的数据库中间件完美解决了SpringBoot中分库分表问题？](https://www.ershicimi.com/p/79122ca6202cf5ce31618c1f0a883b4c) ![](assets/new.png)  
 - [2020-08-26-掌握了这30道MySQL基础面试题，我成了面霸](https://www.ershicimi.com/p/0cdee53998225df3bcddc15abed262cb) ![](assets/new.png)  
-- [2020-08-26-谷歌开源的代码评审规范，值得借鉴！](https://www.ershicimi.com/p/ce3ca943bd02532503a01b7c3ada520a) ![](assets/new.png)  
-- [2020-08-25-DDD-到底什么鬼？](https://www.ershicimi.com/p/91e7429bb13453cdf3513a248e3ac957) ![](assets/new.png)  
-- [2020-08-25-华为Java开发编程军规，谁违反谁走](https://www.ershicimi.com/p/ef4cf353d94eae87e646aea973f708a4) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,7 +967,7 @@
 </summary>
 
 
-- [2020-08-31-Web翻译从开发者的角度对比Polymer和Angular](https://juejin.im/post/6867076744399028238) ![](assets/new.png)  
+- [2020-08-31-前端知识体系系统化学习（一）浏览器](https://juejin.im/post/6867086699399217160) ![](assets/new.png)  
 - [2020-08-31-一点点学会编译文本](https://juejin.im/post/6867066016313114632) ![](assets/new.png)  
 - [2020-08-30-浏览器跨域问题与服务器中的-CORS](https://juejin.im/post/6866942131777306631) ![](assets/new.png)  
 - [2020-08-30-React16.13.1网抑云实战-（第一周）|-axios封装、轮播图实现、alias别名](https://juejin.im/post/6866940379866857480) ![](assets/new.png)  
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-09-01-求助-+-讨论-im-场景下,-如何快速查询出一个时间窗口内没有发过消息的会话呢?](https://www.v2ex.com/t/703032) ![](assets/new.png)  
+- [2020-09-01-iPad-连着-wifi-但网页，-APP-都上不网，这什么情况？](https://www.v2ex.com/t/703031) ![](assets/new.png)  
+- [2020-09-01-阿里云体验实验室-教程《搭建-Node.js-编程环境》](https://www.v2ex.com/t/703030) ![](assets/new.png)  
+- [2020-09-01-问一下哦，现在运营商一直在推-1000m，但是高网速有啥应用场景吗？](https://www.v2ex.com/t/703029) ![](assets/new.png)  
+- [2020-09-01-12306-买-10.1-的票你买成了-9.1-当天的，退票-20%手续费，还四舍五入？](https://www.v2ex.com/t/703028) ![](assets/new.png)  
 - [2020-09-01-手持-18-款-mbp13，买-imac2020-还是置换-mbp16-香？](https://www.v2ex.com/t/703027) ![](assets/new.png)  
 - [2020-09-01-涂鸦智能-杭州-团队直招客户端前端开发](https://www.v2ex.com/t/703026) ![](assets/new.png)  
 - [2020-09-01-冷静分析-抖音的推荐算法机制算是很难被抄袭的核心技术吗?](https://www.v2ex.com/t/703025) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-09-01-记账工具-Money-Pro-的-macOS-端限时降价-¥6](https://www.v2ex.com/t/703007) ![](assets/new.png)  
 - [2020-09-01-颠覆你的想象!微软新手机「Surface-Duo」2020-年您可以选择的折叠手机](https://www.v2ex.com/t/703006) ![](assets/new.png)  
 - [2020-09-01-学校电信宽带是怎么检测设备数量的](https://www.v2ex.com/t/703005) ![](assets/new.png)  
-- [2020-09-01-广州有-Go-的岗位内推吗？谢谢大佬们](https://www.v2ex.com/t/703004) ![](assets/new.png)  
-- [2020-09-01-求助,30GB-的机器学习的数据集,领导让下载到本地服务器我该怎么做,由于都是国内,暂时想到写个-Dockerfile-上传到阿里服务器或腾讯容器仓库再下拉,有其他更好的方...](https://www.v2ex.com/t/703001) ![](assets/new.png)  
-- [2020-09-01-老婆用试纸测试怀孕了，需要去医院检查吗？](https://www.v2ex.com/t/703000) ![](assets/new.png)  
-- [2020-09-01-有什么工具可以测试-Linux-和-window-有没有改过密码吗？-每周检查一次](https://www.v2ex.com/t/702999) ![](assets/new.png)  
-- [2020-09-01-迫于阿里小号到期了，来问还有什么能代替的吗？](https://www.v2ex.com/t/702998) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,21 +1144,21 @@
 - [2020-09-01-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
 - [2020-09-01-Facebook-开源-Go-ORM-项目-ent-schema-使用（上）](https://toutiao.io/k/tl3rnpv) ![](assets/new.png)  
 - [2020-09-01-用户画像面面谈](https://toutiao.io/k/md213f8) ![](assets/new.png)  
-- [2020-09-01-基于-Spark-的大规模推荐系统特征工程](https://toutiao.io/k/90jrxp6) ![](assets/new.png)  
 - [2020-09-01-一键解锁网易云音乐变灰歌曲](https://toutiao.io/k/y4xv4tr) ![](assets/new.png)  
+- [2020-09-01-基于-Spark-的大规模推荐系统特征工程](https://toutiao.io/k/90jrxp6) ![](assets/new.png)  
 - [2020-09-01-我半夜爬了严选的女性文胸数据，发现了惊天秘密](https://toutiao.io/k/9na1q0e) ![](assets/new.png)  
 - [2020-09-01-10-年-bloger-告诉你要不要写博客，又该如何优雅地写博客？](https://toutiao.io/k/fgq798p) ![](assets/new.png)  
 - [2020-09-01-KDD-Cup-2020-自动图学习比赛冠军技术方案及在美团广告的实践](https://toutiao.io/k/dbi87y2) ![](assets/new.png)  
 - [2020-09-01-JS-真的可以为所欲为之绕过-ContextProvider-给-useRequest-注入全局配置](https://toutiao.io/k/wmkm5fk) ![](assets/new.png)  
 - [2020-09-01-Redis-有序集合相关命令](https://toutiao.io/k/g20qcon) ![](assets/new.png)  
 - [2020-09-01-从零开始编写一个库到-crates-中心](https://toutiao.io/k/ek7qadb) ![](assets/new.png)  
-- [2020-09-01-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
-- [2020-09-01-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
+- [2020-09-01-Go-设计模式（二）：工厂模式-&-DI-容器](https://toutiao.io/k/fr4ubtz) ![](assets/new.png)  
+- [2020-09-01-MySQL-读锁的区别和应用场景分析](https://toutiao.io/k/l6de1q9) ![](assets/new.png)  
+- [2020-09-01-高并发系统三大利器之降级](https://toutiao.io/k/03hcg05) ![](assets/new.png)  
+- [2020-09-01-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) ![](assets/new.png)  
 - [2020-09-01-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
 - [2020-09-01-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-09-01-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) ![](assets/new.png)  
-- [2020-09-01-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) ![](assets/new.png)  
-- [2020-09-01-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
+- [2020-09-01-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

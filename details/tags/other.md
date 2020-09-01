@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 20:48:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 21:02:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2607,13 +2607,14 @@
 - [2020-09-01-消息队列之事务消息，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/36hqisn) 
 - [2020-09-01-MySQL-读锁的区别和应用场景分析](https://toutiao.io/k/l6de1q9) 
 - [2020-09-01-版本管理工具及-Ruby-工具链环境](https://toutiao.io/k/d1m91ay) 
-- [2020-09-01-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) 
+- [2020-09-01-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) 
+- [2020-09-01-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) 
+- [2020-09-01-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
 - [2020-09-01-推荐-Redis-五大对象](https://toutiao.io/k/djlfguy) 
 - [2020-09-01-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) 
-- [2020-09-01-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
-- [2020-09-01-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) 
-- [2020-09-01-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
 - [2020-09-01-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) 
+- [2020-09-01-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) 
+- [2020-09-01-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
 - [2020-09-01-开学大礼包:绿盟君的精华文章汇总篇](https://sec.thief.one/article_content?a_id=6e76d6450741aaf6c90034d4aba4beee) 
 - [2020-09-01-今日开票|1024,一场黑客专属狂欢在“节”难逃](https://sec.thief.one/article_content?a_id=f084f47d94e278e44282ee59802f00fc) 
 - [2020-09-01-干货-|-登录点测试的Tips](https://sec.thief.one/article_content?a_id=cd15b83b8d24f43b06401b2494da55c0) 

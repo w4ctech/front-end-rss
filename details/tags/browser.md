@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 01:04:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 01:19:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,7 +26,7 @@
 - [2020-08-24-target-=-“_-blank”背后的隐藏漏洞](https://www.ershicimi.com/p/2a8bd23118c416bdac0972de5d95785a) 
 - [2020-08-23-前端周报：IE最终“死”在了微软自己手里；字节跳动决定起诉特朗普政府；Android-11将强迫用户](https://www.ershicimi.com/p/61af13562d837fde29be12fd8cfb3fdd) 
 - [2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19) 
-- [2020-08-06-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/99fc54bf84ab2b810ca1c203c83cf505) 
+- [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
 - [2020-08-21-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b5461c81ed335f6665ccd2c399c37edf) 
 - [2020-08-28-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091) 
 - [2020-08-20-Chrome插件扩展开发全攻略](https://www.ershicimi.com/p/3ebc28db5f973abcff97880dc5b4a8e1) 
@@ -36,7 +36,6 @@
 - [2020-08-30-浏览器跨域问题与服务器中的-CORS](https://juejin.im/post/6866942131777306631) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-31-V2EX-对-Nintendo-Friend-Code-的进一步支持](https://www.v2ex.com/t/702970) 
-- [2020-09-01-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
 - [2020-08-28-“安全运营中心”到底是个啥?](https://sec.thief.one/article_content?a_id=f4612695b0f4fea9d86b60dda897f7b7) 
 - [2020-08-28-国家标准、地方政策、案件处罚:近期关键信息基础设施安全资讯一览](https://sec.thief.one/article_content?a_id=fc6227f3db0824af3ff1be7b79764973) 
 - [2020-08-21-【安全热点周报】第156期:被列入美国“实体名单”的企业禁止使用...](https://sec.thief.one/article_content?a_id=25fbfef3add42ab624ef4167dd7c2734) 

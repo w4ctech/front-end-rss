@@ -12927,6 +12927,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "李小加：香港未来5至10年会成为全球最大的生物科技融资中心",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM58N0QciQ4LemUJHXltB200901&isfromapp=1",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "香港中联办工作人员积极参与特区政府“普及社区检测计划”",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4KbQzZyiyTLDAImpQEYD200901&isfromapp=1",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "印度累计8.7万医务人员确诊新冠肺炎 573人死亡",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii16nt0XIthqyaZvyKbmB200901&isfromapp=1",
+        "date": "2020-09-01"
+      },
+      {
         "title": "首趟经绥芬河口岸出境中欧班列今日开行",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRdrHfbOq0pQztVGECyyo200901&isfromapp=1",
         "date": "2020-09-01"
@@ -12934,21 +12949,6 @@
       {
         "title": "投桃报李！武汉开出防疫物资专列载587万只口罩驰援新疆",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQAHrLH7gk1mFFMeL0gpe200901&isfromapp=1",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "美国新冠肺炎确诊病例累计超603万例 死亡超18万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQPHg3HxaKpreeDZ8LyGM200901&isfromapp=1",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "俄罗斯新增4729例新冠肺炎确诊病例 累计确诊超100万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis587XafpsPXye5gcxIFu200901&isfromapp=1",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "澳门扩客计划9月1日起正式实施 助力经济复苏",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGmMvIeYjpAtuUlhuzBzT200901&isfromapp=1",
         "date": "2020-09-01"
       }
     ]
@@ -16258,11 +16258,6 @@
         "title": "公司一个面向用户的项目还在用 jsp，怎么说服领导更换其他框架",
         "link": "https://www.v2ex.com/t/703250",
         "date": "2020-09-01"
-      },
-      {
-        "title": "移动端性能测试必备工具 PerfDog 性能狗",
-        "link": "https://www.v2ex.com/t/703249",
-        "date": "2020-09-01"
       }
     ]
   },
@@ -16479,23 +16474,33 @@
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] 使用 Spring Boot DevTools 优化你的开发体验",
-        "link": "https://toutiao.io/k/e6fskts",
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] 全网最通透的 Java 8 版本特性讲解",
-        "link": "https://toutiao.io/k/vbmfzum",
+        "title": "[推荐] 高手都是如何刷 LeetCode 的？| 码农周刊第 315 期",
+        "link": "https://toutiao.io/k/sh6tvfh",
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] 美国如果把根域名服务器封了，中国会从网络上消失？",
-        "link": "https://toutiao.io/k/yitvf34",
+        "title": "[推荐] 十个问题弄清 JVM & GC（二）",
+        "link": "https://toutiao.io/k/v2dq9lz",
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] Spring 中异步注解 @Async 的使用、原理及使用时可能导致的问题",
-        "link": "https://toutiao.io/k/g063et3",
+        "title": "[推荐] Redis 五大对象",
+        "link": "https://toutiao.io/k/djlfguy",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
+        "link": "https://toutiao.io/k/q5376fl",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
+        "link": "https://toutiao.io/k/749snp6",
         "date": "2020-09-01"
       },
       {
@@ -16504,8 +16509,33 @@
         "date": "2020-09-01"
       },
       {
+        "title": "[推荐] Shell 编码规范",
+        "link": "https://toutiao.io/k/jbo65f6",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "[推荐] 全网最通透的 Java 8 版本特性讲解",
+        "link": "https://toutiao.io/k/vbmfzum",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
+        "link": "https://toutiao.io/k/8r5oqql",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "[推荐] Spring 中异步注解 @Async 的使用、原理及使用时可能导致的问题",
+        "link": "https://toutiao.io/k/g063et3",
+        "date": "2020-09-01"
+      },
+      {
         "title": "[推荐] 程序日志级别规范",
         "link": "https://toutiao.io/k/sf65q0v",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
+        "link": "https://toutiao.io/k/jhsjj8v",
         "date": "2020-09-01"
       },
       {
@@ -16514,43 +16544,8 @@
         "date": "2020-09-01"
       },
       {
-        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
-        "link": "https://toutiao.io/k/3lp54k3",
-        "date": "2020-09-01"
-      },
-      {
         "title": "[推荐] 史上最全的 vim 快捷键文档/手册/大全/帮助/指南",
         "link": "https://toutiao.io/k/dx4z66j",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
-        "link": "https://toutiao.io/k/cgycnq9",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
-        "link": "https://toutiao.io/k/smg6nko",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之缓存",
-        "link": "https://toutiao.io/k/gbvhdf1",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] 英语学习指南",
-        "link": "https://toutiao.io/k/m9lrd6m",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "[推荐] 十个问题弄清 JVM & GC（二）",
-        "link": "https://toutiao.io/k/v2dq9lz",
         "date": "2020-09-01"
       }
     ]

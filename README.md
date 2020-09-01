@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 12:30:53，:rocket: 更新条数: +3357， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 12:36:11，:rocket: 更新条数: +3356， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-01-李小加：香港未来5至10年会成为全球最大的生物科技融资中心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM58N0QciQ4LemUJHXltB200901&isfromapp=1) ![](assets/new.png)  
+- [2020-09-01-香港中联办工作人员积极参与特区政府“普及社区检测计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4KbQzZyiyTLDAImpQEYD200901&isfromapp=1) ![](assets/new.png)  
+- [2020-09-01-印度累计8.7万医务人员确诊新冠肺炎-573人死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii16nt0XIthqyaZvyKbmB200901&isfromapp=1) ![](assets/new.png)  
 - [2020-09-01-首趟经绥芬河口岸出境中欧班列今日开行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRdrHfbOq0pQztVGECyyo200901&isfromapp=1) ![](assets/new.png)  
 - [2020-09-01-投桃报李！武汉开出防疫物资专列载587万只口罩驰援新疆](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQAHrLH7gk1mFFMeL0gpe200901&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-美国新冠肺炎确诊病例累计超603万例-死亡超18万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQPHg3HxaKpreeDZ8LyGM200901&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-俄罗斯新增4729例新冠肺炎确诊病例-累计确诊超100万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis587XafpsPXye5gcxIFu200901&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-澳门扩客计划9月1日起正式实施-助力经济复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGmMvIeYjpAtuUlhuzBzT200901&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

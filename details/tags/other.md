@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 23:31:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 23:33:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2575,6 +2575,21 @@
 - [2020-09-01-抽奖送几本技术书](https://www.v2ex.com/t/703316) 
 - [2020-09-01-业主直租龙华区龙华街道上油松村单身公寓](https://www.v2ex.com/t/703315) 
 - [2020-09-01-苹果的后台机制我是没看懂](https://www.v2ex.com/t/703310) 
+- [2020-09-01-如何画出漂亮的神经网络图？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13736&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU5jTHWORDCGMd2UI5jFu0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-以为是行废代码，原来有这作用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13735&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fd8JeWaWf53_60KeRoISRuQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-上班划水神器：一个可以在控制台玩斗地主的项目！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13734&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlZADjzG5X7_uHaC0ox-NiQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-美团面经分享！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13733&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8PcuXezVr7m62bZefOwByw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-10-大黑客专用的-Linux-操作系统...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13732&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzQ8Xj8TvVd_zoL7mzhGqJg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-12-岁学习编程，17-岁香港高中生成苹果-WWDC2020-Swift-开发者挑战赛赢家！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13731&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fphyl0_ibzm7kex8ab-0hXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-前端开发人员的救生工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13730&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIKPEXnonICtB10Iekzu8xA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-一手好-SQL-是如何炼成的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13729&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWgbDH5wqqWayyPND3ykn5Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-Jetpack-Hilt-依赖注入框架上手指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13726&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNw3eASO7QesAmGRYy6el1Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-如何组织一场成功的Bug-Bash？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13724&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-facilitate-bug-bash%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-在线培训的9个原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13723&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fonline-training-priciples%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-Bitcask-学习笔记-old-panda.com](https://blogread.cn/news/go.php?idItem=13721&url=https%3A%2F%2Fold-panda.com%2F2020%2F08%2F23%2Fbitcask%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-一页纸测试策略-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13720&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-strategy-one-page%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-速度（Velocity）不背这个锅-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13719&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-01-边缘计算、区块链、5G，哪个能走的更远-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13718&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F197716752%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-01-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) 
 - [2020-09-01-一键解锁网易云音乐变灰歌曲](https://toutiao.io/k/y4xv4tr) 
 - [2020-09-01-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) 

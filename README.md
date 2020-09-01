@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-01 23:31:38，:rocket: 更新条数: +3559， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-01 23:33:51，:rocket: 更新条数: +3579， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -1108,6 +1108,26 @@
 </summary>
 
 
+- [2020-09-01-HTTP/3-来了，你了解它么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13737&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F198959604%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-如何画出漂亮的神经网络图？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13736&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU5jTHWORDCGMd2UI5jFu0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-以为是行废代码，原来有这作用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13735&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fd8JeWaWf53_60KeRoISRuQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-上班划水神器：一个可以在控制台玩斗地主的项目！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13734&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlZADjzG5X7_uHaC0ox-NiQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-美团面经分享！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13733&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8PcuXezVr7m62bZefOwByw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-10-大黑客专用的-Linux-操作系统...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13732&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzQ8Xj8TvVd_zoL7mzhGqJg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-12-岁学习编程，17-岁香港高中生成苹果-WWDC2020-Swift-开发者挑战赛赢家！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13731&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fphyl0_ibzm7kex8ab-0hXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-前端开发人员的救生工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13730&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIKPEXnonICtB10Iekzu8xA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-一手好-SQL-是如何炼成的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13729&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWgbDH5wqqWayyPND3ykn5Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-那些初学者实践-Flutter-最常出现的错误-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13728&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fc-L7-KkEDplbIkOcaogoRA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-全方面分析-Hilt-和-Koin-性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13727&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FD86krymBKK02zGEPRjV09g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-Jetpack-Hilt-依赖注入框架上手指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13726&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNw3eASO7QesAmGRYy6el1Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-Flutter-是移动应用程序开发的未来？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13725&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-ue_AG05uzp_Ez8hpb_TQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-如何组织一场成功的Bug-Bash？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13724&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-facilitate-bug-bash%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-在线培训的9个原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13723&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fonline-training-priciples%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-看视频常见的-720p、1080p、4k，这些分辨率到底包含了什么-www.upyun.com](https://blogread.cn/news/go.php?idItem=13722&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F576%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-Bitcask-学习笔记-old-panda.com](https://blogread.cn/news/go.php?idItem=13721&url=https%3A%2F%2Fold-panda.com%2F2020%2F08%2F23%2Fbitcask%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-一页纸测试策略-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13720&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-strategy-one-page%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-速度（Velocity）不背这个锅-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13719&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-01-边缘计算、区块链、5G，哪个能走的更远-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13718&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F197716752%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

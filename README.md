@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 10:23:09，:rocket: 更新条数: +3358， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 10:31:30，:rocket: 更新条数: +3359， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 - [2020-09-01-最新疫情：全国新冠累计确诊85066例-新增境外输入8例](http://m.china.caixin.com/m/2020-09-02/101600274.html) ![](assets/new.png)  
 - [2020-09-01-新疆所有户外景区今起恢复开放-跨省游亦重启](http://m.companies.caixin.com/m/2020-09-02/101600371.html) ![](assets/new.png)  
+- [2020-09-01-最新海外疫情：新冠感染超2562万-累计死亡超85万](http://m.international.caixin.com/m/2020-09-02/101600449.html) ![](assets/new.png)  
 - [2020-09-01-【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html) ![](assets/new.png)  
 - [2020-09-01-大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html) ![](assets/new.png)  
 - [2020-08-31-新疆乌鲁木齐及多地州全面解封-部分地区仍有防疫管控](http://m.china.caixin.com/m/2020-09-01/101600000.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-27-欧洲多国解封后单日新增又创新高-年轻人感染率激增](http://m.international.caixin.com/m/2020-08-28/101598512.html) ![](assets/new.png)  
 - [2020-08-26-【境内疫情观察】全国新增8例境外输入病例（8月26日）](http://m.database.caixin.com/m/2020-08-27/101597696.html) ![](assets/new.png)  
 - [2020-08-26-大流行手记|8月26日：美国多所高校暴发疫情-韩国首都圈学校恢复网课](https://m.caixin.com/m/2020-08-27/101597570.html) ![](assets/new.png)  
-- [2020-08-26-香港全民检测在即-华大回应检测准确率疑云](https://m.caixin.com/m/2020-08-27/101597833.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-02-​香港新增8例新冠肺炎确诊病例-累计确诊4830例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRlUEkIpaq67qOpgJTCrN200902&isfromapp=1) ![](assets/new.png)  
+- [2020-09-02-​北京海关：对进口冷链食品实施百分之百检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7VJy487feFbrMznpjj33200902&isfromapp=1) ![](assets/new.png)  
+- [2020-09-02-举步维艰！新冠肺炎疫情仍在美多州校园蔓延](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuQoMz9ciujZAJRP55Kdm200902&isfromapp=1) ![](assets/new.png)  
 - [2020-09-02-国家卫健委援疆人员全部撤离！邱海波总结抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirhlNZZK7SORjm0ZHRH08200902&isfromapp=1) ![](assets/new.png)  
 - [2020-09-02-南非专家：服贸会有利于促进国际自由贸易](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitWEFv1ef5wu6W6Gs3fil200902&isfromapp=1) ![](assets/new.png)  
-- [2020-09-02-制造业平稳、服务业强劲，外媒热议中国经济逆势复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiq0SS4tZXF9BeBiZmCiA200901&isfromapp=1) ![](assets/new.png)  
-- [2020-09-02-缅甸第二波疫情来势凶猛，过去17天确诊病例超过之前4个多月总和](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijX8UhHim8bA3C97HqjvZ200902&isfromapp=1) ![](assets/new.png)  
-- [2020-09-02-疫情扩散迅猛-美媒：每55个美国人就有1人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRJ2DvB34RLnzv1MXP9QJ200902&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-02-（急求）前端开发求职，一年经验，-19-届普通一本非科班，广州-or-深圳](https://www.v2ex.com/t/703633) ![](assets/new.png)  
 - [2020-09-02-为网络安全人员制作了一个工具](https://www.v2ex.com/t/703632) ![](assets/new.png)  
 - [2020-09-02-有什么可视化-JVM-执行字节码的工具吗？](https://www.v2ex.com/t/703631) ![](assets/new.png)  
 - [2020-09-02-九号线曹路站原始一居（55-平）转租](https://www.v2ex.com/t/703628) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-02-关于-CORS-的一个问题，大家怎么看](https://www.v2ex.com/t/703603) ![](assets/new.png)  
 - [2020-09-02-有没有重庆的小伙伴，想加一个重庆的群一起玩](https://www.v2ex.com/t/703599) ![](assets/new.png)  
 - [2020-09-02-网络运维工资](https://www.v2ex.com/t/703598) ![](assets/new.png)  
-- [2020-09-02-（9-月）前端开发求职，一年经验，-19-届普通一本非科班，广州-or-深圳](https://www.v2ex.com/t/703597) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,8 +1136,8 @@
 - [2020-09-02-RECSYS-系列-|-浅谈学术界和工业界的-10-种深度推荐系统技术](https://toutiao.io/k/63zxa6x) ![](assets/new.png)  
 - [2020-09-02-如何组织一场成功的-Bug-Bash？](https://toutiao.io/k/k17mhuo) ![](assets/new.png)  
 - [2020-09-02-译-都说-Go-可以开启成千上万的-Goroutine，那调度器是怎么处理核上任务分配的？](https://toutiao.io/k/7v1r9s5) ![](assets/new.png)  
-- [2020-09-02-Idea-提效总结](https://toutiao.io/k/0c521an) ![](assets/new.png)  
 - [2020-09-02-Prometheus-监控神器：服务发现篇（二）](https://toutiao.io/k/2oeudi0) ![](assets/new.png)  
+- [2020-09-02-Idea-提效总结](https://toutiao.io/k/0c521an) ![](assets/new.png)  
 - [2020-09-02-基于-openresty-的-URL-断路器/熔断器：URL-fuse](https://toutiao.io/k/jjowmoy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-02 09:34:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 09:46:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -25,4 +25,3 @@
 - [2020-08-09-CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [2020-09-02-深圳20k-40k-内推-Node.js-开发工程师，欢迎各位大佬砸简历](https://www.v2ex.com/t/703576) 
-- [2020-09-02-深圳-聚蜂智能科技有限公司-招聘-Node.js-开发工程师](https://www.v2ex.com/t/703554) 

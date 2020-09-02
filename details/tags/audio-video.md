@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-02 20:12:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 20:23:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -19,5 +19,12 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-09-01-让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告](https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9) 
+- [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
+- [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) 
+- [2020-09-02-mac-上有哪些好用的视频格式转换工具？](https://www.v2ex.com/t/703713) 
+- [2020-09-02-有咩有不转码，批量添加视频水印的方法](https://www.v2ex.com/t/703694) 
+- [2020-09-02-新功能-微信群直播-有大神邀请进群体验吗？*_*](https://www.v2ex.com/t/703670) 
+- [2020-09-02-看视频常见的-720p、1080p、4k，这些分辨率到底包含了什么-www.upyun.com](https://blogread.cn/news/go.php?idItem=13722&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F576%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-02-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) 
 - [2020-08-26-【视频】|-Python:字符串和常量](https://sec.thief.one/article_content?a_id=8bd4b3a056a9ad99db6d62589189460b) 
 - [2020-08-13-央视提醒:微信清粉服务或泄露个人信息含视频](https://sec.thief.one/article_content?a_id=68e5a1ad9f18eb39c4be5133326c39ba) 

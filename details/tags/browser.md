@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-02 15:03:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 15:11:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,7 +34,6 @@
 - [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-09-02-求助！-nginx-服务器有大量异常请求，请帮忙看一下，感激不尽](https://www.v2ex.com/t/703692) 
 - [2020-09-02-PHP-mt_rand-伪随机数安全探讨](https://toutiao.io/k/8p3kr8n) 
 - [2020-09-02-基于-openresty-的-URL-断路器/熔断器：URL-fuse](https://toutiao.io/k/jjowmoy) 
 - [2020-09-02-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 

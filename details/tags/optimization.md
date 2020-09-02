@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-02 17:11:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 17:21:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,8 +7,10 @@
 
 
 
-- [2020-08-31-谷歌发布-Chrome-85-稳定版，引入-PGO，页面加载速度提升-10%](https://www.ershicimi.com/p/975990ee48bfa33c48d7f050015bdbe5) 
 - [2020-08-30-前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome-85发布，提高页面加载速度；iPhon](https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb) 
+- [2020-08-31-老生常谈的性能优化再来讲一遍给大家](https://www.ershicimi.com/p/61efe0503f15be9bf6c891fdd624c07e) 
+- [2020-08-11-常见的逻辑判断优化技巧](https://www.ershicimi.com/p/7c8b8f62855e4546433d638252593475) 
+- [2020-08-16-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/173eba198865b70c7d1f3ffb182ab705) 
 - [2020-08-09-编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab) 
 - [2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 

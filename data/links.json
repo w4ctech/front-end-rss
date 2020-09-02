@@ -4674,8 +4674,13 @@
         "date": "2020-09-02"
       },
       {
-        "title": "[推荐] 高手都是如何刷 LeetCode 的？| 码农周刊第 315 期",
-        "link": "https://toutiao.io/k/sh6tvfh",
+        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
+        "link": "https://toutiao.io/k/8r5oqql",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 使用 Spring Boot DevTools 优化你的开发体验",
+        "link": "https://toutiao.io/k/e6fskts",
         "date": "2020-09-02"
       },
       {
@@ -4684,33 +4689,13 @@
         "date": "2020-09-02"
       },
       {
-        "title": "[推荐] 大厂是如何使用 JMH 进行 Java 代码性能测试的？必须掌握",
-        "link": "https://toutiao.io/k/lti22p3",
+        "title": "[推荐] 英语学习指南",
+        "link": "https://toutiao.io/k/m9lrd6m",
         "date": "2020-09-02"
       },
       {
-        "title": "[推荐] 多图详解！10 大高性能开发核心技术",
-        "link": "https://toutiao.io/k/iqokf55",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
-        "link": "https://toutiao.io/k/8r5oqql",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] 微服务技术栈：API 网关中心，落地实现方案",
-        "link": "https://toutiao.io/k/5fjxacf",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] Shell 编码规范",
-        "link": "https://toutiao.io/k/jbo65f6",
+        "title": "[推荐] 程序日志级别规范",
+        "link": "https://toutiao.io/k/sf65q0v",
         "date": "2020-09-02"
       },
       {
@@ -4719,8 +4704,13 @@
         "date": "2020-09-02"
       },
       {
-        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
-        "link": "https://toutiao.io/k/3lp54k3",
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 高手都是如何刷 LeetCode 的？| 码农周刊第 315 期",
+        "link": "https://toutiao.io/k/sh6tvfh",
         "date": "2020-09-02"
       },
       {
@@ -4729,13 +4719,23 @@
         "date": "2020-09-02"
       },
       {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
+        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
+        "link": "https://toutiao.io/k/3lp54k3",
         "date": "2020-09-02"
       },
       {
-        "title": "[推荐] 英语学习指南",
-        "link": "https://toutiao.io/k/m9lrd6m",
+        "title": "[推荐] 微服务技术栈：API 网关中心，落地实现方案",
+        "link": "https://toutiao.io/k/5fjxacf",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 全网最通透的 Java 8 版本特性讲解",
+        "link": "https://toutiao.io/k/vbmfzum",
         "date": "2020-09-02"
       },
       {
@@ -4744,8 +4744,8 @@
         "date": "2020-09-02"
       },
       {
-        "title": "[推荐] 高并发系统三大利器之缓存",
-        "link": "https://toutiao.io/k/gbvhdf1",
+        "title": "[推荐] 大厂是如何使用 JMH 进行 Java 代码性能测试的？必须掌握",
+        "link": "https://toutiao.io/k/lti22p3",
         "date": "2020-09-02"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 14:48:21，:rocket: 更新条数: +3363， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 15:03:05，:rocket: 更新条数: +3363， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-02-请教-flask-的-config.py-优雅使用方式](https://www.v2ex.com/t/703701) ![](assets/new.png)  
+- [2020-09-02-你们都用百度网盘存什么阿](https://www.v2ex.com/t/703699) ![](assets/new.png)  
 - [2020-09-02-为何-Java-内存占用比.Net-内存占用高这么多？](https://www.v2ex.com/t/703698) ![](assets/new.png)  
 - [2020-09-02-做了一个可视化-ACG-人物关系的网站](https://www.v2ex.com/t/703697) ![](assets/new.png)  
 - [2020-09-02-有咩有不转码，批量添加视频水印的方法](https://www.v2ex.com/t/703694) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-02-各位是如何调整自己面对客户的沟通能力的？](https://www.v2ex.com/t/703677) ![](assets/new.png)  
 - [2020-09-02-在家里休息一天，没有任何人联系，这是正常的么？](https://www.v2ex.com/t/703676) ![](assets/new.png)  
 - [2020-09-02-杭州阿里-Java-C2M-事业部急招！大量-HC-放出！](https://www.v2ex.com/t/703674) ![](assets/new.png)  
-- [2020-09-02-生活不在正轨上，感觉很迷茫](https://www.v2ex.com/t/703673) ![](assets/new.png)  
-- [2020-09-02-发现一个调节-macOS-充电量阈值的小工具（bclm）](https://www.v2ex.com/t/703672) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,14 +1126,14 @@
 - [2020-09-02-Python-到底是强类型语言，还是弱类型语言？](https://toutiao.io/k/ugzknje) ![](assets/new.png)  
 - [2020-09-02-强大精简的爬虫框架-Colly，能否取代-Scrapy？](https://toutiao.io/k/jjnj85i) ![](assets/new.png)  
 - [2020-09-02-为什么不建议在-for-循环里捕捉异常？](https://toutiao.io/k/h2xjwst) ![](assets/new.png)  
-- [2020-09-02-MySQL-复杂-where-语句分析](https://toutiao.io/k/1v9xvkb) ![](assets/new.png)  
 - [2020-09-02-前端智能化实践：从图片识别-UI-样式](https://toutiao.io/k/j3pywnx) ![](assets/new.png)  
+- [2020-09-02-MySQL-复杂-where-语句分析](https://toutiao.io/k/1v9xvkb) ![](assets/new.png)  
 - [2020-09-02-编写第一个-.NET-微服务](https://toutiao.io/k/ci832ri) ![](assets/new.png)  
 - [2020-09-02-Flink-实战采坑记之-Kryo-序列化](https://toutiao.io/k/5atjr0c) ![](assets/new.png)  
 - [2020-09-02-软件产品创新与宇宙奇点大爆炸](https://toutiao.io/k/geoff5q) ![](assets/new.png)  
 - [2020-09-02-Python-的-GIL](https://toutiao.io/k/vcchwk0) ![](assets/new.png)  
-- [2020-09-02-PHP-mt_rand-伪随机数安全探讨](https://toutiao.io/k/8p3kr8n) ![](assets/new.png)  
 - [2020-09-02-RECSYS-系列-|-浅谈学术界和工业界的-10-种深度推荐系统技术](https://toutiao.io/k/63zxa6x) ![](assets/new.png)  
+- [2020-09-02-PHP-mt_rand-伪随机数安全探讨](https://toutiao.io/k/8p3kr8n) ![](assets/new.png)  
 - [2020-09-02-译-都说-Go-可以开启成千上万的-Goroutine，那调度器是怎么处理核上任务分配的？](https://toutiao.io/k/7v1r9s5) ![](assets/new.png)  
 - [2020-09-02-如何组织一场成功的-Bug-Bash？](https://toutiao.io/k/k17mhuo) ![](assets/new.png)  
 - [2020-09-02-Prometheus-监控神器：服务发现篇（二）](https://toutiao.io/k/2oeudi0) ![](assets/new.png)  

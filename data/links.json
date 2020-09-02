@@ -15756,10 +15756,36 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "通过构建自己的JavaScript测试框架来了解JS测试",
+        "link": "https://juejin.im/post/6867861924533501965",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "《调教命令行09》磁盘很廉价，放小电影最合适了",
+        "link": "https://juejin.im/post/6867825945706709000",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "Webpack漫谈",
+        "link": "https://juejin.im/post/6867797346550284296",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[Web翻译]无构建开发（2）：es-dev-server",
+        "link": "https://juejin.im/post/6867658360192237582",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "实现一个简易的promise",
+        "link": "https://juejin.im/post/6867525375984205831",
+        "date": "2020-09-01"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",

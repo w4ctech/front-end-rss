@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-02 12:46:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-02 12:48:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -117,6 +117,11 @@
 - [【InfoQ】2020-09-01-运维工程师应该如何提高和进阶？一系列免费课程给你答案！｜-极客时间企业版](https://www.ershicimi.com/p/189ac974ee4c2a7540989f6568d5378a) 
 - [【InfoQ】2020-09-01-谈谈微服务设计中的-API-网关模式](https://www.ershicimi.com/p/a7ee95ecb6df3a9fa3c320b825c70061) 
 - [【InfoQ】2020-09-01-你应该了解的5种TypeScript设计模式](https://www.ershicimi.com/p/600a86127284ce5e132fa0128df3bbc5) 
+- [【掘金前端】2020-09-02-通过构建自己的JavaScript测试框架来了解JS测试](https://juejin.im/post/6867861924533501965) 
+- [【掘金前端】2020-09-02-《调教命令行09》磁盘很廉价，放小电影最合适了](https://juejin.im/post/6867825945706709000) 
+- [【掘金前端】2020-09-02-Webpack漫谈](https://juejin.im/post/6867797346550284296) 
+- [【掘金前端】2020-09-01-Web翻译无构建开发（2）：es-dev-server](https://juejin.im/post/6867658360192237582) 
+- [【掘金前端】2020-09-01-实现一个简易的promise](https://juejin.im/post/6867525375984205831) 
 - [【V2EX】2020-09-02-自建-DNS-over-HTTPS-如何暴露和被攻击的？](https://www.v2ex.com/t/703661) 
 - [【V2EX】2020-09-02-京东商品推广小程序，有没有大佬指点一下](https://www.v2ex.com/t/703660) 
 - [【V2EX】2020-09-02-看到这样一个入木三分的价值观评价](https://www.v2ex.com/t/703659) 

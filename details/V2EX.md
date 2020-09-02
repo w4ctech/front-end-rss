@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-02 02:03:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 02:12:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-02-mybatis-是不是主要解决了-Java-没有文本块的问题](https://www.v2ex.com/t/703412) 
+- [2020-09-02-有了解越南股票投资的同学没有？](https://www.v2ex.com/t/703411) 
 - [2020-09-02-Java-程序员如何利用工具高效学习](https://www.v2ex.com/t/703410) 
 - [2020-09-02-有什么好的办法可以监控"网页结构"变化](https://www.v2ex.com/t/703409) 
 - [2020-09-02-腾讯云一台-Windows-机每个月被攻击](https://www.v2ex.com/t/703405) 

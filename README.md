@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 06:26:59，:rocket: 更新条数: +3363， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 06:31:26，:rocket: 更新条数: +3362， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-02-如何彻底的重装-macos-系统](https://www.v2ex.com/t/703518) ![](assets/new.png)  
 - [2020-09-02-请教个问题，内核是如何处理大小端的问题的？](https://www.v2ex.com/t/703515) ![](assets/new.png)  
 - [2020-09-02-mbp-内部这个位置的挡板叫什么，淘宝有卖吗](https://www.v2ex.com/t/703514) ![](assets/new.png)  
 - [2020-09-02-请问.then里面为什么要添加=>箭头函数](https://www.v2ex.com/t/703513) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-02-你们接受入职前试用期工资打折吗](https://www.v2ex.com/t/703490) ![](assets/new.png)  
 - [2020-09-02-深圳招-Android-开发工程师-6-名-15-25K](https://www.v2ex.com/t/703488) ![](assets/new.png)  
 - [2020-09-02-深圳招-Node.js-开发工程师-15-30K](https://www.v2ex.com/t/703486) ![](assets/new.png)  
-- [2020-09-02-会多门自然语言对程序员来说算不算加分项](https://www.v2ex.com/t/703485) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

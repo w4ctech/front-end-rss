@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 03:24:05，:rocket: 更新条数: +3349， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 03:31:53，:rocket: 更新条数: +3352， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-02-给三星-Galaxy-Watch-写了个跳绳-App-YaoYao-跳绳](https://www.v2ex.com/t/703458) ![](assets/new.png)  
+- [2020-09-02-试用期辞退-你们遇到试用期内被辞退，会要求公司给补偿吗？](https://www.v2ex.com/t/703457) ![](assets/new.png)  
+- [2020-09-02-小白请教-redis-一小问题](https://www.v2ex.com/t/703456) ![](assets/new.png)  
 - [2020-09-02-迫于空间尺寸，有没有那种迷你型机柜，用来放路由器和-nas](https://www.v2ex.com/t/703454) ![](assets/new.png)  
 - [2020-09-02-做了个果汁导航，你的上网新主页！](https://www.v2ex.com/t/703451) ![](assets/new.png)  
 - [2020-09-02-各位，划船机效果咋样~](https://www.v2ex.com/t/703450) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-02-#郑州#在线教育公司招聘程序员工程师！](https://www.v2ex.com/t/703429) ![](assets/new.png)  
 - [2020-09-02-springboot-能不能源码编译直接启动不用打-jar-包呢](https://www.v2ex.com/t/703428) ![](assets/new.png)  
 - [2020-09-02-社招-/-北京-字节跳动---移动-OS-/-教育-/-电商业务，高级前端研发、高级客户端研发](https://www.v2ex.com/t/703426) ![](assets/new.png)  
-- [2020-09-02-杭州/阿里巴巴集团淘系技术部-前端技术-前端技术专家/高级前端开发工程师](https://www.v2ex.com/t/703425) ![](assets/new.png)  
-- [2020-09-02-求解，如何监控-Linux-用户-bash-的输入输出](https://www.v2ex.com/t/703421) ![](assets/new.png)  
-- [2020-09-02-租户是否可以或者是否有权利投诉物业，有什么途径么？](https://www.v2ex.com/t/703420) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,21 +1124,21 @@
 - [2020-09-02-为什么不建议在-for-循环里捕捉异常？](https://toutiao.io/k/h2xjwst) ![](assets/new.png)  
 - [2020-09-02-Python-工匠：在边界处思考](https://toutiao.io/k/swwidma) ![](assets/new.png)  
 - [2020-09-02-Python-到底是强类型语言，还是弱类型语言？](https://toutiao.io/k/ugzknje) ![](assets/new.png)  
-- [2020-09-02-编写第一个-.NET-微服务](https://toutiao.io/k/ci832ri) ![](assets/new.png)  
 - [2020-09-02-MySQL-复杂-where-语句分析](https://toutiao.io/k/1v9xvkb) ![](assets/new.png)  
-- [2020-09-02-30-个网站产品落地页免费模板](https://toutiao.io/k/qrs55xl) ![](assets/new.png)  
+- [2020-09-02-编写第一个-.NET-微服务](https://toutiao.io/k/ci832ri) ![](assets/new.png)  
 - [2020-09-02-前端智能化实践：从图片识别-UI-样式](https://toutiao.io/k/j3pywnx) ![](assets/new.png)  
+- [2020-09-02-30-个网站产品落地页免费模板](https://toutiao.io/k/qrs55xl) ![](assets/new.png)  
 - [2020-09-02-Flink-实战采坑记之-Kryo-序列化](https://toutiao.io/k/5atjr0c) ![](assets/new.png)  
 - [2020-09-02-软件产品创新与宇宙奇点大爆炸](https://toutiao.io/k/geoff5q) ![](assets/new.png)  
 - [2020-09-02-强大精简的爬虫框架-Colly，能否取代-Scrapy？](https://toutiao.io/k/jjnj85i) ![](assets/new.png)  
 - [2020-09-02-Python-的-GIL](https://toutiao.io/k/vcchwk0) ![](assets/new.png)  
 - [2020-09-02-PHP-mt_rand-伪随机数安全探讨](https://toutiao.io/k/8p3kr8n) ![](assets/new.png)  
 - [2020-09-02-RECSYS-系列-|-浅谈学术界和工业界的-10-种深度推荐系统技术](https://toutiao.io/k/63zxa6x) ![](assets/new.png)  
-- [2020-09-02-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) ![](assets/new.png)  
-- [2020-09-02-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) ![](assets/new.png)  
-- [2020-09-02-推荐-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3) ![](assets/new.png)  
-- [2020-09-02-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) ![](assets/new.png)  
+- [2020-09-02-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
 - [2020-09-02-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
+- [2020-09-02-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) ![](assets/new.png)  
+- [2020-09-02-推荐-多图详解！10-大高性能开发核心技术](https://toutiao.io/k/iqokf55) ![](assets/new.png)  
+- [2020-09-02-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

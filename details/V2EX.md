@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-09-02 03:24:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 03:31:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-02-给三星-Galaxy-Watch-写了个跳绳-App-YaoYao-跳绳](https://www.v2ex.com/t/703458) 
+- [2020-09-02-试用期辞退-你们遇到试用期内被辞退，会要求公司给补偿吗？](https://www.v2ex.com/t/703457) 
+- [2020-09-02-小白请教-redis-一小问题](https://www.v2ex.com/t/703456) 
 - [2020-09-02-迫于空间尺寸，有没有那种迷你型机柜，用来放路由器和-nas](https://www.v2ex.com/t/703454) 
 - [2020-09-02-做了个果汁导航，你的上网新主页！](https://www.v2ex.com/t/703451) 
 - [2020-09-02-各位，划船机效果咋样~](https://www.v2ex.com/t/703450) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 06:03:19，:rocket: 更新条数: +3363， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 06:12:19，:rocket: 更新条数: +3361， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,6 @@
 </summary>
 
 
-- [2020-09-01-9月1日全国新增境外输入新冠8例](http://m.china.caixin.com/m/2020-09-02/101600116.html) ![](assets/new.png)  
 - [2020-09-01-【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html) ![](assets/new.png)  
 - [2020-09-01-大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html) ![](assets/new.png)  
 - [2020-08-31-新疆乌鲁木齐及多地州全面解封-部分地区仍有防疫管控](http://m.china.caixin.com/m/2020-09-01/101600000.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-08-26-【境内疫情观察】全国新增8例境外输入病例（8月26日）](http://m.database.caixin.com/m/2020-08-27/101597696.html) ![](assets/new.png)  
 - [2020-08-26-大流行手记|8月26日：美国多所高校暴发疫情-韩国首都圈学校恢复网课](https://m.caixin.com/m/2020-08-27/101597570.html) ![](assets/new.png)  
 - [2020-08-26-香港全民检测在即-华大回应检测准确率疑云](https://m.caixin.com/m/2020-08-27/101597833.html) ![](assets/new.png)  
+- [2020-08-25-港大教授详解二次感染病例-还要不要接种新冠疫苗？](http://m.china.caixin.com/m/2020-08-26/101597053.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-02-南非专家：服贸会有利于促进国际自由贸易](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitWEFv1ef5wu6W6Gs3fil200902&isfromapp=1) ![](assets/new.png)  
+- [2020-09-02-制造业平稳、服务业强劲，外媒热议中国经济逆势复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiq0SS4tZXF9BeBiZmCiA200901&isfromapp=1) ![](assets/new.png)  
+- [2020-09-02-缅甸第二波疫情来势凶猛，过去17天确诊病例超过之前4个多月总和](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijX8UhHim8bA3C97HqjvZ200902&isfromapp=1) ![](assets/new.png)  
+- [2020-09-02-疫情扩散迅猛-美媒：每55个美国人就有1人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRJ2DvB34RLnzv1MXP9QJ200902&isfromapp=1) ![](assets/new.png)  
 - [2020-09-01-秘鲁总统：疫情尚未结束，9月份将继续实施周日强制隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimLzxdcjweoEaWGiF6qWC200902&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-世卫组织：全球新冠肺炎确诊病例新增208215例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit7ZOsZ3moaASHcn6upa0200902&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-欧亚发展银行：塔吉克斯坦为地区唯一保持经济增长的国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW4tXVuNvgiRoT56g796W200902&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-吴尊友再谈“西城大爷”-大数据助力疫情防控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPGGQSgtOMlmien4vZbRY200901&isfromapp=1) ![](assets/new.png)  
-- [2020-09-01-钟南山谈抗疫说中国人的命最重要](http://m.weibo.cn/2656274875/4544443480803192) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-02-我在闲鱼发布的宝贝被好些人盗图,投诉无门求解.](https://www.v2ex.com/t/703507) ![](assets/new.png)  
 - [2020-09-02-为啥阿三领导下的微软给所有电脑执行自动更新重启，切不能关闭。](https://www.v2ex.com/t/703506) ![](assets/new.png)  
 - [2020-09-02-入职选择求助，希音-or-亚信](https://www.v2ex.com/t/703505) ![](assets/new.png)  
 - [2020-09-02-换个视角，觉得现在的中国人，注定读书要读到-30-岁](https://www.v2ex.com/t/703503) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-02-mac-唤醒时候-wifi-随机性断开，有解吗](https://www.v2ex.com/t/703481) ![](assets/new.png)  
 - [2020-09-02-我需要一个应用来自动停止-Android-充电](https://www.v2ex.com/t/703480) ![](assets/new.png)  
 - [2020-09-02-工作一年，项目经验不足，该如何继续呢](https://www.v2ex.com/t/703478) ![](assets/new.png)  
-- [2020-09-02-不懂就问，中国在中低端手机芯片领域可以完全自给自足吗](https://www.v2ex.com/t/703477) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,8 +1136,8 @@
 - [2020-09-02-RECSYS-系列-|-浅谈学术界和工业界的-10-种深度推荐系统技术](https://toutiao.io/k/63zxa6x) ![](assets/new.png)  
 - [2020-09-02-基于-OpenrResty-的-URL-断路器/熔断器：URL-fuse](https://toutiao.io/k/jjowmoy) ![](assets/new.png)  
 - [2020-09-02-译-都说-Go-可以开启成千上万的-Goroutine，那调度器是怎么处理核上任务分配的？](https://toutiao.io/k/7v1r9s5) ![](assets/new.png)  
-- [2020-09-02-如何组织一场成功的-Bug-Bash？](https://toutiao.io/k/k17mhuo) ![](assets/new.png)  
 - [2020-09-02-Prometheus-监控神器：服务发现篇（二）](https://toutiao.io/k/2oeudi0) ![](assets/new.png)  
+- [2020-09-02-如何组织一场成功的-Bug-Bash？](https://toutiao.io/k/k17mhuo) ![](assets/new.png)  
 - [2020-09-02-Idea-提效总结](https://toutiao.io/k/0c521an) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

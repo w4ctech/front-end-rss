@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 07:03:04，:rocket: 更新条数: +3582， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 07:11:30，:rocket: 更新条数: +3582， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -967,11 +967,11 @@
 </summary>
 
 
-- [2020-09-01-笔记之浏览器工作原理与实践（2）](https://juejin.im/post/6867493401932251144) ![](assets/new.png)  
+- [2020-09-01-一个常用的mac新机前端开发环境配置指南带shell脚本](https://juejin.im/post/6867457249342652430) ![](assets/new.png)  
 - [2020-09-01-浏览器缓存解析，看完不懂，你打我！](https://juejin.im/post/6867451120458694670) ![](assets/new.png)  
 - [2020-09-01-WeakSet和WeakMap你都懂吗？](https://juejin.im/post/6867434566190104583) ![](assets/new.png)  
+- [2020-08-31-了解Event-Loop这篇挺足的](https://juejin.im/post/6867403486833852430) ![](assets/new.png)  
 - [2020-08-31-「完全理解」如何统一项目中的代码风格](https://juejin.im/post/6867354721040990215) ![](assets/new.png)  
-- [2020-08-30-浅谈-MutationObserverInit](https://juejin.im/post/6866725132027559944) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-02-safari-地址栏输入网址后按回车有慢一拍的感觉？](https://www.v2ex.com/t/703537) ![](assets/new.png)  
+- [2020-09-02-字节秋招-研发内推-商业变现北京前端缺口大！](https://www.v2ex.com/t/703536) ![](assets/new.png)  
 - [2020-09-02-安卓手机-HEIC-格式的照片有什么好的备份工具吗](https://www.v2ex.com/t/703534) ![](assets/new.png)  
 - [2020-09-02-工作中遇到没有接触过的新领域，一般花多久上手比较合适？](https://www.v2ex.com/t/703533) ![](assets/new.png)  
 - [2020-09-02-招聘-|-一起练琴-招聘研发工程师（Android、iOS），坐标深圳宝安区](https://www.v2ex.com/t/703532) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-02-mbp-内部这个位置的挡板叫什么，淘宝有卖吗](https://www.v2ex.com/t/703514) ![](assets/new.png)  
 - [2020-09-02-请问.then里面为什么要添加=>箭头函数](https://www.v2ex.com/t/703513) ![](assets/new.png)  
 - [2020-09-02-iphone11-摄像头上有几道细微的划痕正常吗？](https://www.v2ex.com/t/703511) ![](assets/new.png)  
-- [2020-09-02-会了吧插件-jetbrains-用户收集贴](https://www.v2ex.com/t/703510) ![](assets/new.png)  
-- [2020-09-02-五年的.net-core-想找个长期的兼职工作，现在是一个自由工作者](https://www.v2ex.com/t/703509) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

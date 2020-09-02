@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-09-02 03:48:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 04:03:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-02-国内-IPv6-环境支持是真差，标明支持-IPv6-支持也只是半支持](https://www.v2ex.com/t/703466) 
+- [2020-09-02-求推荐家里老人用的浴室防滑拖鞋](https://www.v2ex.com/t/703464) 
+- [2020-09-02-3-年-PHP-会点-Java-，去杭州的话找-965-的公司，能拿个多少？](https://www.v2ex.com/t/703463) 
 - [2020-09-02-AWS-上的开发服务器连-ssh-过去到-22-端口，经常被那啥干扰断掉，有啥办法么？](https://www.v2ex.com/t/703461) 
 - [2020-09-02-关于“Inside-the-Java-Virtual-Machine---Chapter-5-The-Java-Virtual-Machine---The-Java-Stack”的疑问](https://www.v2ex.com/t/703460) 
 - [2020-09-02-求教一个双网卡无法上网的问题](https://www.v2ex.com/t/703459) 
@@ -34,5 +37,3 @@
 - [2020-09-02-不懂就问在-mac-下用什么-ide-来-build-和-debug-c-的程序，比如-nginx-代码](https://www.v2ex.com/t/703419) 
 - [2020-09-02-阿里云产品优惠-新购续费升级-15%](https://www.v2ex.com/t/703418) 
 - [2020-09-02-求-Mac-远程桌面的解决方案](https://www.v2ex.com/t/703417) 
-- [2020-09-02-北京-内推直招京东商城搜推数据部，-急求前端开发，-反馈快](https://www.v2ex.com/t/703414) 
-- [2020-09-02-mybatis-是不是主要解决了-Java-没有文本块的问题](https://www.v2ex.com/t/703412) 

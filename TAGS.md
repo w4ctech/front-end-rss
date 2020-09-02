@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-02 04:48:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 05:02:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -158,7 +158,6 @@
 - [【InfoQ】一个微服务业务系统的中台构建之路](https://www.ershicimi.com/p/cc07622a3be3b6a5f1115a11f312ae31)
 - [【JavaScript】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【开发者头条】推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -192,6 +191,7 @@
 - [【Nodejs技术栈】一杯茶的时间，上手-Koa2-+-MySQL-开发](https://www.ershicimi.com/p/c7db98ad78904e16b74e417ea79c2233)
 - [【Nodejs技术栈】CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b)
 - [【前端日刊】node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2)
+- [【V2EX】深圳招-Node.js-开发工程师-15-30K](https://www.v2ex.com/t/703486)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -474,7 +474,9 @@
 - [【V2EX】小米-大数据团队-招聘啦！-Java-！算法！资深数据分析！都是核心项目！](https://www.v2ex.com/t/703469)
 - [【V2EX】vs-code-使用-vim-插件-快捷键问题](https://www.v2ex.com/t/703444)
 - [【技术头条】HTTP/3-来了，你了解它么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13737&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F198959604%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-史上最全的-vim-快捷键文档/手册/大全/帮助/指南](https://toutiao.io/k/dx4z66j)
 - [【开发者头条】推荐-有了-MinIO，你还会用-FastDFS-么？](https://toutiao.io/k/smg6nko)
+- [【开发者头条】推荐-一道有意思的腾讯算法面试题](https://toutiao.io/k/wui7yqj)
 - [【安全热点】CVE-2019-17564-Dubbo-HTTP协议反序列化漏洞](https://sec.thief.one/article_content?a_id=089e1dbb3df7c9061b7ec290770bae6c)
 - [【安全热点】Android-HTTPS防抓包策略与对抗方法总结](https://sec.thief.one/article_content?a_id=64d5679d02914a3d35260df056a1fa80)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -626,7 +628,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】9月1日全国新增境外输入新冠8例](http://m.china.caixin.com/m/2020-09-02/101600116.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html)
-- [【武汉肺炎防疫全纪录(财新网)】新疆乌鲁木齐及多地州逐步解封-部分地区仍有防疫管控](http://m.china.caixin.com/m/2020-09-01/101600000.html)
+- [【武汉肺炎防疫全纪录(财新网)】新疆乌鲁木齐及多地州全面解封-部分地区仍有防疫管控](http://m.china.caixin.com/m/2020-09-01/101600000.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港全民检测首日-8.2万市民接受采样](http://m.china.caixin.com/m/2020-09-01/101599956.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染近2536万-累计死亡超84.5万](http://m.international.caixin.com/m/2020-09-01/101599880.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增10例境外输入病例（8月31日）](http://m.database.caixin.com/m/2020-09-01/101599721.html)

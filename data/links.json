@@ -20,7 +20,7 @@
         "date": "2020-09-01"
       },
       {
-        "title": "新疆乌鲁木齐及多地州逐步解封 部分地区仍有防疫管控",
+        "title": "新疆乌鲁木齐及多地州全面解封 部分地区仍有防疫管控",
         "link": "http://m.china.caixin.com/m/2020-09-01/101600000.html",
         "date": "2020-08-31"
       },
@@ -16115,6 +16115,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[深圳]招 Node.js 开发工程师 15-30K",
+        "link": "https://www.v2ex.com/t/703486",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "会多门自然语言对程序员来说算不算加分项",
+        "link": "https://www.v2ex.com/t/703485",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "pylance import csv import json 这种绝对导入, go to definition 都跳进 pyi 文件 如何破解",
+        "link": "https://www.v2ex.com/t/703484",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "Android 开发技术周报 Issue#295",
+        "link": "https://www.v2ex.com/t/703483",
+        "date": "2020-09-02"
+      },
+      {
         "title": "蚂蚁金服支付宝事业群商家与开放技术部招前端！ P5+",
         "link": "https://www.v2ex.com/t/703482",
         "date": "2020-09-02"
@@ -16283,16 +16303,6 @@
         "title": "咨询一个 vmware 内容库的问题",
         "link": "https://www.v2ex.com/t/703438",
         "date": "2020-09-02"
-      },
-      {
-        "title": "联通网络连不上华为云？",
-        "link": "https://www.v2ex.com/t/703437",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "在需要的时候点击一下即可一键卸载之前指定的安卓 app，有实现方案吗？",
-        "link": "https://www.v2ex.com/t/703435",
-        "date": "2020-09-02"
       }
     ]
   },
@@ -16419,13 +16429,13 @@
         "date": "2020-09-02"
       },
       {
-        "title": "为什么不建议在 for 循环里捕捉异常？",
-        "link": "https://toutiao.io/k/h2xjwst",
+        "title": "Python 工匠：在边界处思考",
+        "link": "https://toutiao.io/k/swwidma",
         "date": "2020-09-02"
       },
       {
-        "title": "Python 工匠：在边界处思考",
-        "link": "https://toutiao.io/k/swwidma",
+        "title": "为什么不建议在 for 循环里捕捉异常？",
+        "link": "https://toutiao.io/k/h2xjwst",
         "date": "2020-09-02"
       },
       {
@@ -16459,13 +16469,13 @@
         "date": "2020-09-02"
       },
       {
-        "title": "软件产品创新与宇宙奇点大爆炸",
-        "link": "https://toutiao.io/k/geoff5q",
+        "title": "强大精简的爬虫框架 Colly，能否取代 Scrapy？",
+        "link": "https://toutiao.io/k/jjnj85i",
         "date": "2020-09-02"
       },
       {
-        "title": "强大精简的爬虫框架 Colly，能否取代 Scrapy？",
-        "link": "https://toutiao.io/k/jjnj85i",
+        "title": "软件产品创新与宇宙奇点大爆炸",
+        "link": "https://toutiao.io/k/geoff5q",
         "date": "2020-09-02"
       },
       {
@@ -16484,8 +16494,43 @@
         "date": "2020-09-02"
       },
       {
-        "title": "[推荐] Redis 五大对象",
-        "link": "https://toutiao.io/k/djlfguy",
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
+        "link": "https://toutiao.io/k/q5376fl",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 史上最全的 vim 快捷键文档/手册/大全/帮助/指南",
+        "link": "https://toutiao.io/k/dx4z66j",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 使用 Spring Boot DevTools 优化你的开发体验",
+        "link": "https://toutiao.io/k/e6fskts",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
+        "link": "https://toutiao.io/k/smg6nko",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 一道有意思的腾讯算法面试题",
+        "link": "https://toutiao.io/k/wui7yqj",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] Tomcat 高并发之道原理拆解与性能调优",
+        "link": "https://toutiao.io/k/htijp2l",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
+        "link": "https://toutiao.io/k/749snp6",
         "date": "2020-09-02"
       },
       {
@@ -16499,28 +16544,8 @@
         "date": "2020-09-02"
       },
       {
-        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
-        "link": "https://toutiao.io/k/3lp54k3",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] 使用 Spring Boot DevTools 优化你的开发体验",
-        "link": "https://toutiao.io/k/e6fskts",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] 微服务技术栈：API 网关中心，落地实现方案",
-        "link": "https://toutiao.io/k/5fjxacf",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] 有了 MinIO，你还会用 FastDFS 么？",
-        "link": "https://toutiao.io/k/smg6nko",
+        "title": "[推荐] Spring 中异步注解 @Async 的使用、原理及使用时可能导致的问题",
+        "link": "https://toutiao.io/k/g063et3",
         "date": "2020-09-02"
       },
       {
@@ -16529,33 +16554,18 @@
         "date": "2020-09-02"
       },
       {
-        "title": "[推荐] 英语学习指南",
-        "link": "https://toutiao.io/k/m9lrd6m",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] Tomcat 高并发之道原理拆解与性能调优",
-        "link": "https://toutiao.io/k/htijp2l",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] 高并发系统三大利器之缓存",
-        "link": "https://toutiao.io/k/gbvhdf1",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "[推荐] Spring 中异步注解 @Async 的使用、原理及使用时可能导致的问题",
-        "link": "https://toutiao.io/k/g063et3",
-        "date": "2020-09-02"
-      },
-      {
         "title": "[推荐] 十个问题弄清 JVM & GC（二）",
         "link": "https://toutiao.io/k/v2dq9lz",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 程序日志级别规范",
+        "link": "https://toutiao.io/k/sf65q0v",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "[推荐] 美国如果把根域名服务器封了，中国会从网络上消失？",
+        "link": "https://toutiao.io/k/yitvf34",
         "date": "2020-09-02"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-02 12:48:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 13:02:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -46,4 +46,3 @@
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-08-15-牛聘|2020年度岗位招聘第10期](https://sec.thief.one/article_content?a_id=48dc5bfc5999e36a623b8c8acdda0d3a) 
-- [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

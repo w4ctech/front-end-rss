@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-02 12:48:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 13:02:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,6 +30,14 @@
 - [2020-08-21-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b5461c81ed335f6665ccd2c399c37edf) 
 - [2020-08-28-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091) 
 - [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) 
 - [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
@@ -38,7 +46,7 @@
 - [2020-09-02-PHP-mt_rand-伪随机数安全探讨](https://toutiao.io/k/8p3kr8n) 
 - [2020-09-02-基于-openresty-的-URL-断路器/熔断器：URL-fuse](https://toutiao.io/k/jjowmoy) 
 - [2020-09-02-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
-- [2020-09-02-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
+- [2020-09-01-安全研究实验室巡礼——美国堪萨斯大学信息安全实验室IAL](https://sec.thief.one/article_content?a_id=337e8106a20a936e463b33f3a94d2858) 
 - [2020-08-28-“安全运营中心”到底是个啥?](https://sec.thief.one/article_content?a_id=f4612695b0f4fea9d86b60dda897f7b7) 
 - [2020-08-28-国家标准、地方政策、案件处罚:近期关键信息基础设施安全资讯一览](https://sec.thief.one/article_content?a_id=fc6227f3db0824af3ff1be7b79764973) 
 - [2020-08-28-你你你你要跳动吗?安全风控等你一起跳动!](https://sec.thief.one/article_content?a_id=10056e3bf6a5f8ccf4a491d0c1e5e335) 
@@ -55,4 +63,3 @@
 - [2020-08-08-四川广元网信办:试点示范促落地-网络安全进社区](https://sec.thief.one/article_content?a_id=dd60f8d7f33544013a428934e01c8f3d) 
 - [2020-08-08-【安全圈】黑客攻击Reddit子版块并发布特朗普助选信息](https://sec.thief.one/article_content?a_id=e489e9ae0bac72c4a572873a383c03a8) 
 - [2020-08-08-官宣!!一年一度的看雪安全开发者峰会10月正式召开,初心不改,我...](https://sec.thief.one/article_content?a_id=0ada3e41847449742b6b836cca71b4fd) 
-- [2020-08-08-安全招聘汇总-|-第五期](https://sec.thief.one/article_content?a_id=c6ae084e518453fdc205f0fc520266b9) 

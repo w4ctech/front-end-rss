@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 23:20:48，:rocket: 更新条数: +996， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 23:31:43，:rocket: 更新条数: +996， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -75,11 +75,11 @@
 </summary>
 
 
-- [2020-09-02-巴黎圣日尔曼俱乐部3名队员新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIFKBdYBgEnBbd6Zj6D31200902&isfromapp=1) ![](assets/new.png)  
-- [2020-09-02-疫情导致国际游客数量锐减-肯尼亚旅游业收入将下降80%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZItOWUcIEpEALyHYsK76200902&isfromapp=1) ![](assets/new.png)  
-- [2020-09-02-世卫组织：全球新冠肺炎确诊病例超过2554万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQtzzuHBJmkZ7nMoJHW3Z200902&isfromapp=1) ![](assets/new.png)  
-- [2020-09-02-​香港新增8例新冠肺炎确诊病例-累计确诊4830例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRlUEkIpaq67qOpgJTCrN200902&isfromapp=1) ![](assets/new.png)  
-- [2020-09-02-​北京海关：对进口冷链食品实施百分之百检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7VJy487feFbrMznpjj33200902&isfromapp=1) ![](assets/new.png)  
+- [2020-09-02-美国新冠肺炎确诊病例已超过610万-死亡病例超18.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSTr3ourGvyKlNykuikgI200903&isfromapp=1) ![](assets/new.png)  
+- [2020-09-02-受疫情影响印度餐饮业利润大幅减少-20%~30%餐厅将会倒闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipQnLHgcrNClWKSTH9Mbl200903&isfromapp=1) ![](assets/new.png)  
+- [2020-09-02-欧洲疾控中心负责人称欧洲的新冠病毒感染率现已基本回到3月时候水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyDQ6bQLGen1U3JsDV6O9200903&isfromapp=1) ![](assets/new.png)  
+- [2020-09-02-捷克首席卫生官感染新冠病毒-卫生部长被隔离并接受检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAfmP6jbGirt2pfRUp30o200903&isfromapp=1) ![](assets/new.png)  
+- [2020-09-02-土耳其卫生部长：近3万名医护人员感染新冠病毒-其中52人死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv5WD56DL3dORFQdhehXi200903&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

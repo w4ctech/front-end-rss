@@ -1,13 +1,14 @@
-:alarm_clock: 更新时间: 2020-09-02 23:20:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 23:31:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2020-09-02-巴黎圣日尔曼俱乐部3名队员新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIFKBdYBgEnBbd6Zj6D31200902&isfromapp=1) 
-- [2020-09-02-疫情导致国际游客数量锐减-肯尼亚旅游业收入将下降80%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZItOWUcIEpEALyHYsK76200902&isfromapp=1) 
-- [2020-09-02-​北京海关：对进口冷链食品实施百分之百检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7VJy487feFbrMznpjj33200902&isfromapp=1) 
+- [2020-09-02-受疫情影响印度餐饮业利润大幅减少-20%~30%餐厅将会倒闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipQnLHgcrNClWKSTH9Mbl200903&isfromapp=1) 
+- [2020-09-02-欧洲疾控中心负责人称欧洲的新冠病毒感染率现已基本回到3月时候水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyDQ6bQLGen1U3JsDV6O9200903&isfromapp=1) 
+- [2020-09-02-捷克首席卫生官感染新冠病毒-卫生部长被隔离并接受检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAfmP6jbGirt2pfRUp30o200903&isfromapp=1) 
+- [2020-09-02-土耳其卫生部长：近3万名医护人员感染新冠病毒-其中52人死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv5WD56DL3dORFQdhehXi200903&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
 - [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
@@ -374,17 +375,14 @@
 - [2020-09-02-Prometheus-监控神器：服务发现篇（二）](https://toutiao.io/k/2oeudi0) 
 - [2020-09-02-如何组织一场成功的-Bug-Bash？](https://toutiao.io/k/k17mhuo) 
 - [2020-09-02-Idea-提效总结](https://toutiao.io/k/0c521an) 
-- [2020-09-02-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) 
-- [2020-09-02-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) 
-- [2020-09-02-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) 
+- [2020-09-02-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) 
 - [2020-09-02-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
-- [2020-09-02-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
-- [2020-09-02-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
-- [2020-09-02-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) 
-- [2020-09-02-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) 
-- [2020-09-02-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) 
-- [2020-09-02-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) 
+- [2020-09-02-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) 
 - [2020-09-02-推荐-全网最通透的-Java-8-版本特性讲解](https://toutiao.io/k/vbmfzum) 
+- [2020-09-02-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
+- [2020-09-02-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) 
+- [2020-09-02-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) 
+- [2020-09-02-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
 - [2020-09-02-Python-为什么没有-void-关键字?](https://sec.thief.one/article_content?a_id=fb007043192de16f7a3b1fd35511c049) 
 - [2020-09-01-开学大礼包:绿盟君的精华文章汇总篇](https://sec.thief.one/article_content?a_id=6e76d6450741aaf6c90034d4aba4beee) 
 - [2020-09-01-今日开票|1024,一场黑客专属狂欢在“节”难逃](https://sec.thief.one/article_content?a_id=f084f47d94e278e44282ee59802f00fc) 

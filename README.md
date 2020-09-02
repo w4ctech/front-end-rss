@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 09:48:19，:rocket: 更新条数: +3360， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 10:02:45，:rocket: 更新条数: +3581， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,9 +967,9 @@
 </summary>
 
 
+- [2020-09-02-《调教命令行09》磁盘很廉价，放小电影最合适了](https://juejin.im/post/6867825945706709000) ![](assets/new.png)  
 - [2020-09-02-Webpack漫谈](https://juejin.im/post/6867797346550284296) ![](assets/new.png)  
 - [2020-09-01-Web翻译无构建开发（2）：es-dev-server](https://juejin.im/post/6867658360192237582) ![](assets/new.png)  
-- [2020-09-01-Javascript异步编程](https://juejin.im/post/6867561271068688397) ![](assets/new.png)  
 - [2020-09-01-实现一个简易的promise](https://juejin.im/post/6867525375984205831) ![](assets/new.png)  
 - [2020-09-01-事件合成的一些思路](https://juejin.im/post/6867513711678980109) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1057,6 +1077,12 @@
 </summary>
 
 
+- [2020-09-02-请各位老哥帮忙出出主意，大龄码农的困扰，实在太纠结了](https://www.v2ex.com/t/703620) ![](assets/new.png)  
+- [2020-09-02-一晚上-6-次五国-欲哭无泪但是不想放弃...](https://www.v2ex.com/t/703619) ![](assets/new.png)  
+- [2020-09-02-求问有没有类似于-V2EX-的开源代码](https://www.v2ex.com/t/703617) ![](assets/new.png)  
+- [2020-09-02-长沙地区可以刷花呗白条卡变现咯](https://www.v2ex.com/t/703613) ![](assets/new.png)  
+- [2020-09-02-我能发布内容了吗](https://www.v2ex.com/t/703612) ![](assets/new.png)  
+- [2020-09-02-这里怎么没有嵌入式的应届招聘？兄弟们！](https://www.v2ex.com/t/703611) ![](assets/new.png)  
 - [2020-09-02-有没有很多人称呼你为“大神”？](https://www.v2ex.com/t/703609) ![](assets/new.png)  
 - [2020-09-02-请教一下，有些域名解析后会同时返回-v4v6-地址，有些域名解析后只返回-v4-地址，这个配置是在哪里调整？](https://www.v2ex.com/t/703608) ![](assets/new.png)  
 - [2020-09-02-用-material-UI-重写了个人首页，之前被太多人吐槽丑](https://www.v2ex.com/t/703605) ![](assets/new.png)  
@@ -1071,12 +1097,6 @@
 - [2020-09-02-iphone11-带着手机壳也掉漆？](https://www.v2ex.com/t/703589) ![](assets/new.png)  
 - [2020-09-02-用-NetworkX-+-Gephi-+-Nebula-Graph-分析<权力的游戏>人物关系（下篇）](https://www.v2ex.com/t/703588) ![](assets/new.png)  
 - [2020-09-02-招聘区块链钱包开发工程师（20K-35K](https://www.v2ex.com/t/703587) ![](assets/new.png)  
-- [2020-09-02-投影仪能不用数据线吗？](https://www.v2ex.com/t/703586) ![](assets/new.png)  
-- [2020-09-02-用了几个月-KDE-了，有几个问题想请教一下](https://www.v2ex.com/t/703585) ![](assets/new.png)  
-- [2020-09-02-教张小龙做微信，为张一鸣操碎心](https://www.v2ex.com/t/703584) ![](assets/new.png)  
-- [2020-09-02-windows-息屏后又立刻自动亮起](https://www.v2ex.com/t/703583) ![](assets/new.png)  
-- [2020-09-02-生产服务器集群被黑了，帮看看这个脚本](https://www.v2ex.com/t/703582) ![](assets/new.png)  
-- [2020-09-02-请问使用-Vue-加载一个-html-页面？有没有好的方式。](https://www.v2ex.com/t/703581) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1135,10 +1155,10 @@
 - [2020-09-02-PHP-mt_rand-伪随机数安全探讨](https://toutiao.io/k/8p3kr8n) ![](assets/new.png)  
 - [2020-09-02-RECSYS-系列-|-浅谈学术界和工业界的-10-种深度推荐系统技术](https://toutiao.io/k/63zxa6x) ![](assets/new.png)  
 - [2020-09-02-译-都说-Go-可以开启成千上万的-Goroutine，那调度器是怎么处理核上任务分配的？](https://toutiao.io/k/7v1r9s5) ![](assets/new.png)  
-- [2020-09-02-基于-openresty-的-URL-断路器/熔断器：URL-fuse](https://toutiao.io/k/jjowmoy) ![](assets/new.png)  
 - [2020-09-02-如何组织一场成功的-Bug-Bash？](https://toutiao.io/k/k17mhuo) ![](assets/new.png)  
-- [2020-09-02-Prometheus-监控神器：服务发现篇（二）](https://toutiao.io/k/2oeudi0) ![](assets/new.png)  
+- [2020-09-02-基于-openresty-的-URL-断路器/熔断器：URL-fuse](https://toutiao.io/k/jjowmoy) ![](assets/new.png)  
 - [2020-09-02-Idea-提效总结](https://toutiao.io/k/0c521an) ![](assets/new.png)  
+- [2020-09-02-Prometheus-监控神器：服务发现篇（二）](https://toutiao.io/k/2oeudi0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-01 23:48:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 00:07:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,7 +43,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-01-Chrome-如何完全用命令行控制](https://www.v2ex.com/t/703312) 
-- [2020-09-01-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
+- [2020-09-02-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-08-28-“安全运营中心”到底是个啥?](https://sec.thief.one/article_content?a_id=f4612695b0f4fea9d86b60dda897f7b7) 
 - [2020-08-28-国家标准、地方政策、案件处罚:近期关键信息基础设施安全资讯一览](https://sec.thief.one/article_content?a_id=fc6227f3db0824af3ff1be7b79764973) 
 - [2020-08-28-你你你你要跳动吗?安全风控等你一起跳动!](https://sec.thief.one/article_content?a_id=10056e3bf6a5f8ccf4a491d0c1e5e335) 

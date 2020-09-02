@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-02 15:24:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 15:31:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,7 @@
 - [2020-09-02-求助！-nginx-服务器有大量异常请求，请帮忙看一下，感激不尽](https://www.v2ex.com/t/703692) 
 - [2020-09-02-PHP-mt_rand-伪随机数安全探讨](https://toutiao.io/k/8p3kr8n) 
 - [2020-09-02-基于-openresty-的-URL-断路器/熔断器：URL-fuse](https://toutiao.io/k/jjowmoy) 
+- [2020-09-02-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-02-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
 - [2020-09-01-安全研究实验室巡礼——美国堪萨斯大学信息安全实验室IAL](https://sec.thief.one/article_content?a_id=337e8106a20a936e463b33f3a94d2858) 
 - [2020-08-28-“安全运营中心”到底是个啥?](https://sec.thief.one/article_content?a_id=f4612695b0f4fea9d86b60dda897f7b7) 

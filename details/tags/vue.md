@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-02 13:22:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-02 13:31:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -66,3 +66,4 @@
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f) 
 - [2020-09-01-VueCli的介绍及应用](https://juejin.im/post/6867705215714344973) 
 - [2020-09-01-和你一起吃透Vuex](https://juejin.im/post/6867704373695217678) 
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 12:14:35，:rocket: 更新条数: +3360， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 12:29:19，:rocket: 更新条数: +3361， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,11 +947,11 @@
 </summary>
 
 
+- [2020-09-02-通过构建自己的JavaScript测试框架来了解JS测试](https://juejin.im/post/6867861924533501965) ![](assets/new.png)  
 - [2020-09-02-《调教命令行09》磁盘很廉价，放小电影最合适了](https://juejin.im/post/6867825945706709000) ![](assets/new.png)  
 - [2020-09-02-Webpack漫谈](https://juejin.im/post/6867797346550284296) ![](assets/new.png)  
 - [2020-09-01-Web翻译无构建开发（2）：es-dev-server](https://juejin.im/post/6867658360192237582) ![](assets/new.png)  
 - [2020-09-01-实现一个简易的promise](https://juejin.im/post/6867525375984205831) ![](assets/new.png)  
-- [2020-09-01-事件合成的一些思路](https://juejin.im/post/6867513711678980109) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-02-京东商品推广小程序，有没有大佬指点一下](https://www.v2ex.com/t/703660) ![](assets/new.png)  
+- [2020-09-02-看到这样一个入木三分的价值观评价](https://www.v2ex.com/t/703659) ![](assets/new.png)  
 - [2020-09-02-一个开源的-Flutter-数独应用,支持-iOS/Android](https://www.v2ex.com/t/703658) ![](assets/new.png)  
 - [2020-09-02-今天自定义了-github-主页，挺有意思嘛，不知道还有没有其他自定义方法](https://www.v2ex.com/t/703657) ![](assets/new.png)  
 - [2020-09-02-求推荐支持和原生播客-app-同步的第三方播客-APP](https://www.v2ex.com/t/703656) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-02-美国-iCloud-Storage-和-Apple-Music-车](https://www.v2ex.com/t/703638) ![](assets/new.png)  
 - [2020-09-02-2008-年的-v2ex](https://www.v2ex.com/t/703635) ![](assets/new.png)  
 - [2020-09-02-Gmail-转发-iCloud-的邮件，昨天出现一封漏转，几年前也出现过一次。](https://www.v2ex.com/t/703634) ![](assets/new.png)  
-- [2020-09-02-（急求）前端开发求职，一年经验，-19-届普通一本非科班，广州-or-深圳](https://www.v2ex.com/t/703633) ![](assets/new.png)  
-- [2020-09-02-为网络安全人员制作了一个工具](https://www.v2ex.com/t/703632) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,9 +1134,9 @@
 - [2020-09-02-Python-的-GIL](https://toutiao.io/k/vcchwk0) ![](assets/new.png)  
 - [2020-09-02-PHP-mt_rand-伪随机数安全探讨](https://toutiao.io/k/8p3kr8n) ![](assets/new.png)  
 - [2020-09-02-RECSYS-系列-|-浅谈学术界和工业界的-10-种深度推荐系统技术](https://toutiao.io/k/63zxa6x) ![](assets/new.png)  
+- [2020-09-02-译-都说-Go-可以开启成千上万的-Goroutine，那调度器是怎么处理核上任务分配的？](https://toutiao.io/k/7v1r9s5) ![](assets/new.png)  
 - [2020-09-02-如何组织一场成功的-Bug-Bash？](https://toutiao.io/k/k17mhuo) ![](assets/new.png)  
 - [2020-09-02-Idea-提效总结](https://toutiao.io/k/0c521an) ![](assets/new.png)  
-- [2020-09-02-译-都说-Go-可以开启成千上万的-Goroutine，那调度器是怎么处理核上任务分配的？](https://toutiao.io/k/7v1r9s5) ![](assets/new.png)  
 - [2020-09-02-Prometheus-监控神器：服务发现篇（二）](https://toutiao.io/k/2oeudi0) ![](assets/new.png)  
 - [2020-09-02-基于-openresty-的-URL-断路器/熔断器：URL-fuse](https://toutiao.io/k/jjowmoy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

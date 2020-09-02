@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 13:10:49，:rocket: 更新条数: +3361， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 13:21:15，:rocket: 更新条数: +3328， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -947,7 +947,7 @@
 </summary>
 
 
-- [2020-09-01-我来聊聊前端应用表现层抽象](https://juejin.im/post/6867711193830817799) ![](assets/new.png)  
+- [2020-09-01-认识前端模块化以及了解CommonJS](https://juejin.im/post/6867755434980147214) ![](assets/new.png)  
 - [2020-09-01-React源码系列三：React.Render流程-二-之更新](https://juejin.im/post/6867710713754812423) ![](assets/new.png)  
 - [2020-09-01-VueCli的介绍及应用](https://juejin.im/post/6867705215714344973) ![](assets/new.png)  
 - [2020-09-01-和你一起吃透Vuex](https://juejin.im/post/6867704373695217678) ![](assets/new.png)  
@@ -1057,26 +1057,6 @@
 </summary>
 
 
-- [2020-09-02-又到一年中秋节，好吃的月饼有啥推荐](https://www.v2ex.com/t/703668) ![](assets/new.png)  
-- [2020-09-02-话说...RDS-是如何搭建起来的？](https://www.v2ex.com/t/703665) ![](assets/new.png)  
-- [2020-09-02-在新设备登录-Apple-ID-时，验证其他可信设备-曾经-的锁屏密码？](https://www.v2ex.com/t/703664) ![](assets/new.png)  
-- [2020-09-02-自建-DNS-over-HTTPS-如何暴露和被攻击的？](https://www.v2ex.com/t/703661) ![](assets/new.png)  
-- [2020-09-02-京东商品推广小程序，有没有大佬指点一下](https://www.v2ex.com/t/703660) ![](assets/new.png)  
-- [2020-09-02-看到这样一个入木三分的价值观评价](https://www.v2ex.com/t/703659) ![](assets/new.png)  
-- [2020-09-02-一个开源的-Flutter-数独应用,支持-iOS/Android](https://www.v2ex.com/t/703658) ![](assets/new.png)  
-- [2020-09-02-今天自定义了-github-主页，挺有意思嘛，不知道还有没有其他自定义方法](https://www.v2ex.com/t/703657) ![](assets/new.png)  
-- [2020-09-02-求推荐支持和原生播客-app-同步的第三方播客-APP](https://www.v2ex.com/t/703656) ![](assets/new.png)  
-- [2020-09-02-macOS-防止微信-QQ-视频语音时其它-APP-声音减小的一种方法](https://www.v2ex.com/t/703654) ![](assets/new.png)  
-- [2020-09-02-信条预售好像不大乐观](https://www.v2ex.com/t/703653) ![](assets/new.png)  
-- [2020-09-02-老哥你们的开发环境是直接在本机还是起虚拟机](https://www.v2ex.com/t/703650) ![](assets/new.png)  
-- [2020-09-02-PDD-企业内购互助群求拉](https://www.v2ex.com/t/703649) ![](assets/new.png)  
-- [2020-09-02-网络运维-网络工程师-薪资](https://www.v2ex.com/t/703648) ![](assets/new.png)  
-- [2020-09-02-续-为-typecho-写了一个-android-客户端](https://www.v2ex.com/t/703646) ![](assets/new.png)  
-- [2020-09-02-北京-美团-Java-美团外卖-交易系统平台-营销中心--Java-后端工程师内推](https://www.v2ex.com/t/703645) ![](assets/new.png)  
-- [2020-09-02-Python-如何生成今天-0-点到现在的所有以小时为单位的时间字符串？-and-...](https://www.v2ex.com/t/703644) ![](assets/new.png)  
-- [2020-09-02-9-元喵-国内大厂高频动规题详解](https://www.v2ex.com/t/703643) ![](assets/new.png)  
-- [2020-09-02-非科班自学转行，想请各位前辈帮忙看看简历](https://www.v2ex.com/t/703642) ![](assets/new.png)  
-- [2020-09-02-北京-社招-逍遥一下-高级前端工程师-20k-30k*14-薪](https://www.v2ex.com/t/703641) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,8 +1116,8 @@
 - [2020-09-02-RECSYS-系列-|-浅谈学术界和工业界的-10-种深度推荐系统技术](https://toutiao.io/k/63zxa6x) ![](assets/new.png)  
 - [2020-09-02-译-都说-Go-可以开启成千上万的-Goroutine，那调度器是怎么处理核上任务分配的？](https://toutiao.io/k/7v1r9s5) ![](assets/new.png)  
 - [2020-09-02-如何组织一场成功的-Bug-Bash？](https://toutiao.io/k/k17mhuo) ![](assets/new.png)  
-- [2020-09-02-Prometheus-监控神器：服务发现篇（二）](https://toutiao.io/k/2oeudi0) ![](assets/new.png)  
 - [2020-09-02-Idea-提效总结](https://toutiao.io/k/0c521an) ![](assets/new.png)  
+- [2020-09-02-Prometheus-监控神器：服务发现篇（二）](https://toutiao.io/k/2oeudi0) ![](assets/new.png)  
 - [2020-09-02-基于-openresty-的-URL-断路器/熔断器：URL-fuse](https://toutiao.io/k/jjowmoy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

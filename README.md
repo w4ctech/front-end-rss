@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 05:33:50，:rocket: 更新条数: +3587， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 05:46:34，:rocket: 更新条数: +3584， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,12 +1077,12 @@
 </summary>
 
 
+- [2020-09-02-换个视角，觉得现在的中国人，注定读书要读到-30-岁](https://www.v2ex.com/t/703503) ![](assets/new.png)  
 - [2020-09-02-请教下房屋维修问题，顶楼漏水，想用维修基金](https://www.v2ex.com/t/703500) ![](assets/new.png)  
 - [2020-09-02-我做了一个给个人用的「接受赞赏」小工具，效果比收款二维码好不少～](https://www.v2ex.com/t/703499) ![](assets/new.png)  
 - [2020-09-02-MDClub-历时两年，开发了一个超漂亮、超好用的开源论坛系统](https://www.v2ex.com/t/703498) ![](assets/new.png)  
 - [2020-09-02-接上次仲裁事件，终于有个结果了](https://www.v2ex.com/t/703496) ![](assets/new.png)  
 - [2020-09-02-HugePages_Free-为-0](https://www.v2ex.com/t/703494) ![](assets/new.png)  
-- [2020-09-02-你们对最近的罗冠军事件-怎么看？](https://www.v2ex.com/t/703493) ![](assets/new.png)  
 - [2020-09-02-关于-selenium-被验证问题](https://www.v2ex.com/t/703491) ![](assets/new.png)  
 - [2020-09-02-你们接受入职前试用期工资打折吗](https://www.v2ex.com/t/703490) ![](assets/new.png)  
 - [2020-09-02-深圳招-Android-开发工程师-6-名-15-25K](https://www.v2ex.com/t/703488) ![](assets/new.png)  
@@ -1147,8 +1147,8 @@
 - [2020-09-02-为什么不建议在-for-循环里捕捉异常？](https://toutiao.io/k/h2xjwst) ![](assets/new.png)  
 - [2020-09-02-MySQL-复杂-where-语句分析](https://toutiao.io/k/1v9xvkb) ![](assets/new.png)  
 - [2020-09-02-前端智能化实践：从图片识别-UI-样式](https://toutiao.io/k/j3pywnx) ![](assets/new.png)  
-- [2020-09-02-编写第一个-.NET-微服务](https://toutiao.io/k/ci832ri) ![](assets/new.png)  
 - [2020-09-02-强大精简的爬虫框架-Colly，能否取代-Scrapy？](https://toutiao.io/k/jjnj85i) ![](assets/new.png)  
+- [2020-09-02-编写第一个-.NET-微服务](https://toutiao.io/k/ci832ri) ![](assets/new.png)  
 - [2020-09-02-Flink-实战采坑记之-Kryo-序列化](https://toutiao.io/k/5atjr0c) ![](assets/new.png)  
 - [2020-09-02-软件产品创新与宇宙奇点大爆炸](https://toutiao.io/k/geoff5q) ![](assets/new.png)  
 - [2020-09-02-Python-的-GIL](https://toutiao.io/k/vcchwk0) ![](assets/new.png)  
@@ -1156,8 +1156,8 @@
 - [2020-09-02-RECSYS-系列-|-浅谈学术界和工业界的-10-种深度推荐系统技术](https://toutiao.io/k/63zxa6x) ![](assets/new.png)  
 - [2020-09-02-基于-OpenrResty-的-URL-断路器/熔断器：URL-fuse](https://toutiao.io/k/jjowmoy) ![](assets/new.png)  
 - [2020-09-02-译-都说-Go-可以开启成千上万的-Goroutine，那调度器是怎么处理核上任务分配的？](https://toutiao.io/k/7v1r9s5) ![](assets/new.png)  
-- [2020-09-02-如何组织一场成功的-Bug-Bash？](https://toutiao.io/k/k17mhuo) ![](assets/new.png)  
 - [2020-09-02-Prometheus-监控神器：服务发现篇（二）](https://toutiao.io/k/2oeudi0) ![](assets/new.png)  
+- [2020-09-02-如何组织一场成功的-Bug-Bash？](https://toutiao.io/k/k17mhuo) ![](assets/new.png)  
 - [2020-09-02-Idea-提效总结](https://toutiao.io/k/0c521an) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

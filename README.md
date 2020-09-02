@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-02 14:12:24，:rocket: 更新条数: +3365， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-02 14:23:50，:rocket: 更新条数: +3363， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-02-有咩有不转码，批量添加视频水印的方法](https://www.v2ex.com/t/703694) ![](assets/new.png)  
 - [2020-09-02-求助！-nginx-服务器有大量异常请求，请帮忙看一下，感激不尽](https://www.v2ex.com/t/703692) ![](assets/new.png)  
 - [2020-09-02-突然收到支付宝花呗还款短信！马云下面的公司越来越没底线！](https://www.v2ex.com/t/703690) ![](assets/new.png)  
 - [2020-09-02-北京-美团-Kubernetes-基础技术部-分布式数据库云平台开发工程师](https://www.v2ex.com/t/703688) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-02-发现一个调节-macOS-充电量阈值的小工具（bclm）](https://www.v2ex.com/t/703672) ![](assets/new.png)  
 - [2020-09-02-新功能-微信群直播-有大神邀请进群体验吗？*_*](https://www.v2ex.com/t/703670) ![](assets/new.png)  
 - [2020-09-02-脚受伤了，但肚子大的让人头疼，怎么减肥呢？](https://www.v2ex.com/t/703669) ![](assets/new.png)  
-- [2020-09-02-又到一年中秋节，好吃的月饼有啥推荐](https://www.v2ex.com/t/703668) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

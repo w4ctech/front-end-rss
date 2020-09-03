@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-03 10:46:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-03 10:48:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -35,6 +35,9 @@
 - [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
 - [2020-08-31-今天来聊聊，我是如何把Vue学到顶尖水平？](https://www.ershicimi.com/p/52d95b50014398dade79b7255263cdf3) 
 - [2020-08-19-听说只要标题写-Vue3，你们就会点进来看！](https://www.ershicimi.com/p/a097f3050c243ed7ed41104cbded5a66) 
+- [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
+- [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) 
+- [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
 - [2020-08-25-Vue.js教程：构建一个特斯拉汽车余电计算器](https://www.ershicimi.com/p/32916f70a49cb13f7ae9baaf17258e31) 
 - [2020-09-01-厉害了！！前端最火的-Vue-框架，你用对了么？！](https://www.ershicimi.com/p/d0adcc41f5e8fb311119c89147ff430c) 
 - [2020-08-29-10+个很酷的VueJS组件，模板和实验示例](https://www.ershicimi.com/p/f04663071e252f48137db709798c168e) 

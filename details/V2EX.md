@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-03 11:21:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-03 11:31:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-03-如何在-windows-上使用-zsh](https://www.v2ex.com/t/703987) 
+- [2020-09-03-v-友们，求推荐深度学习主机配置](https://www.v2ex.com/t/703986) 
 - [2020-09-03-视频面试，我开了视频，结果面试官不开...](https://www.v2ex.com/t/703985) 
 - [2020-09-03-简单-Google-面试题：二叉搜索树中最接近的值](https://www.v2ex.com/t/703984) 
 - [2020-09-03-豆瓣崩了，网站打不开](https://www.v2ex.com/t/703983) 
@@ -48,4 +50,3 @@
 - [2020-09-03-字节跳动校招/社招火热进行中，薪酬福利多多，快来一起搞事情！](https://www.v2ex.com/t/703940) 
 - [2020-09-03-python2-与-python3-中-struct-模块的问题](https://www.v2ex.com/t/703939) 
 - [2020-09-03-想问下应届生投简历的正确打开方式](https://www.v2ex.com/t/703938) 
-- [2020-09-03-ActionView-Taro-版正在开发中，有哪位同学想加入啊?](https://www.v2ex.com/t/703936) 

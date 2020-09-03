@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-03 14:03:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-03 14:12:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -15,6 +15,7 @@
 - [2020-08-27-SCSS-—-缩减50%的样式代码](https://www.ershicimi.com/p/d438f5eaf473f48856e8bc1692e036f4) 
 - [2019-11-25-Serverless-背景下的前端困境与解决方案](https://www.ershicimi.com/p/ec1908283d9c4dac9fa716b21292ccd5) 
 - [2019-11-18-赠书-|-张鑫旭新书《CSS选择器世界》章节试读](https://www.ershicimi.com/p/1be4d882970f60785dec795871ae4c89) 
+- [2020-08-22-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/2ea21b25dc76af21287225c55538e10f) 
 - [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) 
 - [2020-07-21-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) 
 - [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
@@ -46,7 +47,6 @@
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
 - [2020-08-31-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325) 
 - [2020-07-28-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/e8e5a804eb3e23cdd6b164c00b42a79b) 
-- [2020-09-03-CSS的阳光大道（持续更新）](https://juejin.im/post/6868194531750182926) 
 - [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 

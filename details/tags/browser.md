@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-03 12:14:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-03 12:29:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -10,7 +10,6 @@
 - [2020-08-20-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3) 
 - [2020-08-20-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/64aa4f104f6d241a62bf476f1e1621a2) 
 - [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) 
-- [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
 - [2020-08-21-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b5461c81ed335f6665ccd2c399c37edf) 
 - [2020-08-28-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091) 
 - [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
@@ -25,6 +24,7 @@
 - [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) 
 - [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2020-09-03-浏览器工作原理---1.-浏览器的多线程](https://juejin.im/post/6868184573897867277) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-03-nginx-反向代理缓存设置问题](https://www.v2ex.com/t/703976) 
 - [2020-09-03-有没有这种划水浏览器插件？](https://www.v2ex.com/t/703952) 

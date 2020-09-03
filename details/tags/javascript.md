@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-03 12:14:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-03 12:29:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -36,7 +36,6 @@
 - [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
 - [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
 - [2020-09-02-微众正式开源Fes.js：快速、简单、健壮的管理台前端应用](https://www.ershicimi.com/p/df8d37e15035a568568c62ec9f4ff23f) 
-- [2020-08-31-应该在JavaScript中使用Class吗](https://www.ershicimi.com/p/f907df50ac697ede04cc4769768768cd) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
 - [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
@@ -86,6 +85,8 @@
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-08-29-fastjson的作者，在阿里内网挨骂了？！](https://www.ershicimi.com/p/c59bd6c77198c5afe06b0b3bc358124c) 
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) 
+- [2020-09-03-D3.js数据可视化从入门到放不下（二）——-实现一个基础图表](https://juejin.im/post/6868193761021820935) 
+- [2020-09-03-理一理-JS-之「对象的基本用法」](https://juejin.im/post/6868189901045628935) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

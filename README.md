@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-03 09:33:57，:rocket: 更新条数: +3370， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-03 09:46:25，:rocket: 更新条数: +784， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-09-02-9月2日全国新增境外输入新冠11例](https://m.caixin.com/m/2020-09-03/101600593.html) ![](assets/new.png)  
-- [2020-09-02-【境内疫情观察】全国新增11例境外输入病例（9月2日）](http://m.database.caixin.com/m/2020-09-03/101600745.html) ![](assets/new.png)  
-- [2020-09-02-大流行手记|9月2日：美拒绝参与全球新冠疫苗计划-日本拟免费全民接种](https://m.caixin.com/m/2020-09-03/101600607.html) ![](assets/new.png)  
-- [2020-09-01-新疆所有户外景区今起恢复开放-跨省游亦重启](http://m.companies.caixin.com/m/2020-09-02/101600371.html) ![](assets/new.png)  
-- [2020-09-01-最新海外疫情：新冠感染超2562万-累计死亡超85万](http://m.international.caixin.com/m/2020-09-02/101600449.html) ![](assets/new.png)  
-- [2020-09-01-【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html) ![](assets/new.png)  
-- [2020-09-01-大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html) ![](assets/new.png)  
-- [2020-08-31-新疆乌鲁木齐及多地州全面解封-部分地区仍有防疫管控](http://m.china.caixin.com/m/2020-09-01/101600000.html) ![](assets/new.png)  
-- [2020-08-31-香港全民检测首日-8.2万市民接受采样](http://m.china.caixin.com/m/2020-09-01/101599956.html) ![](assets/new.png)  
-- [2020-08-31-【境内疫情观察】全国新增10例境外输入病例（8月31日）](http://m.database.caixin.com/m/2020-09-01/101599721.html) ![](assets/new.png)  
-- [2020-08-31-大流行手记|8月31日：美国新冠病死率陷误读风波-巴黎拟全民免费检测](https://m.caixin.com/m/2020-09-01/101599565.html) ![](assets/new.png)  
-- [2020-08-30-【境内疫情观察】全国连续15日无新增本土病例（8月30日）](http://m.database.caixin.com/m/2020-08-31/101599218.html) ![](assets/new.png)  
-- [2020-08-30-大流行手记|8月30日：全球新冠确诊破2500万-英国9月全面开学引争议](https://m.caixin.com/m/2020-08-31/101599105.html) ![](assets/new.png)  
-- [2020-08-29-【境内疫情观察】全国新增9例境外输入病例（8月29日）](http://m.database.caixin.com/m/2020-08-30/101598926.html) ![](assets/new.png)  
-- [2020-08-29-大流行手记|8月29日：美共和党大会4人确诊-印度数百医护人员病亡](https://m.caixin.com/m/2020-08-30/101598907.html) ![](assets/new.png)  
-- [2020-08-28-【境内疫情观察】辽宁本土在院病例清零（8月28日）](http://m.database.caixin.com/m/2020-08-29/101598785.html) ![](assets/new.png)  
-- [2020-08-28-大流行手记|8月28日：谭德赛说疫情影响精神健康-全美逾44万儿童染疫](https://m.caixin.com/m/2020-08-29/101598633.html) ![](assets/new.png)  
-- [2020-08-27-【境内疫情观察】全国新增9例境外输入病例（8月27日）](http://m.database.caixin.com/m/2020-08-28/101598252.html) ![](assets/new.png)  
-- [2020-08-27-大流行手记|8月27日：全球多个二次感染病例浮现-美国缩小新冠检测范围引担忧](https://m.caixin.com/m/2020-08-28/101598091.html) ![](assets/new.png)  
-- [2020-08-27-欧洲多国解封后单日新增又创新高-年轻人感染率激增](http://m.international.caixin.com/m/2020-08-28/101598512.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1037,11 @@
 </summary>
 
 
+- [2020-09-03-猎头高级大数据开发-坐标：北京五道口-游戏和-APP-公司-作为团队的小-leader,带三四个人。薪资-25-50，-open-可谈.](https://www.v2ex.com/t/703963) ![](assets/new.png)  
+- [2020-09-03-公司外派技术人员去阿拉伯国家常驻开发，想听听大家意见。](https://www.v2ex.com/t/703962) ![](assets/new.png)  
+- [2020-09-03-请教一个前端功能模块化管理的问题](https://www.v2ex.com/t/703961) ![](assets/new.png)  
+- [2020-09-03-挺有时间的，想接项目来做](https://www.v2ex.com/t/703960) ![](assets/new.png)  
+- [2020-09-03-新加坡-Shopee部门直招-跪求资深-SRE-和-Linux-内核专家!](https://www.v2ex.com/t/703959) ![](assets/new.png)  
 - [2020-09-03-北京海淀-长亭科技-高级后端开发工程师-Go-工程师](https://www.v2ex.com/t/703958) ![](assets/new.png)  
 - [2020-09-03-mac-无法被-vnc-客户端远程连接桌面是怎么回事？](https://www.v2ex.com/t/703957) ![](assets/new.png)  
 - [2020-09-03-两次看着别人跳出阶层，该如何调整自己心态](https://www.v2ex.com/t/703956) ![](assets/new.png)  
@@ -1072,11 +1057,6 @@
 - [2020-09-03-年轻人的第一次买房要注意什么？](https://www.v2ex.com/t/703944) ![](assets/new.png)  
 - [2020-09-03-v-社的大佬们，咨询个-pc-chrome-浏览器主页被篡改的问题](https://www.v2ex.com/t/703943) ![](assets/new.png)  
 - [2020-09-03-记得之前-V2EX-有同学吐槽过小米客服吧？我也来吐槽分享下](https://www.v2ex.com/t/703942) ![](assets/new.png)  
-- [2020-09-03-请教一个关于-xshell-的问题](https://www.v2ex.com/t/703941) ![](assets/new.png)  
-- [2020-09-03-字节跳动校招/社招火热进行中，薪酬福利多多，快来一起搞事情！](https://www.v2ex.com/t/703940) ![](assets/new.png)  
-- [2020-09-03-python2-与-python3-中-struct-模块的问题](https://www.v2ex.com/t/703939) ![](assets/new.png)  
-- [2020-09-03-想问下应届生投简历的正确打开方式](https://www.v2ex.com/t/703938) ![](assets/new.png)  
-- [2020-09-03-ActionView-Taro-版正在开发中，有哪位同学想加入啊?](https://www.v2ex.com/t/703936) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,8 +1114,8 @@
 - [2020-09-03-关于-AI-的数百个问题，清华男神刘云浩教授的-3-万字回复给整得明明白白](https://toutiao.io/k/mhtjnhq) ![](assets/new.png)  
 - [2020-09-03-​GODNSLOG：开源一个新鲜的-DNSLOG](https://toutiao.io/k/4atum0t) ![](assets/new.png)  
 - [2020-09-03-vivo-悟空活动中台：栅格布局方案](https://toutiao.io/k/e3k0p0j) ![](assets/new.png)  
-- [2020-09-03-测试-10-年，10-节课（五）：单独测试是有风险的](https://toutiao.io/k/i1vvuuz) ![](assets/new.png)  
 - [2020-09-03-创业那些坑很难避免，要磨练在坑里吸取营养的能力](https://toutiao.io/k/okhhm2p) ![](assets/new.png)  
+- [2020-09-03-测试-10-年，10-节课（五）：单独测试是有风险的](https://toutiao.io/k/i1vvuuz) ![](assets/new.png)  
 - [2020-09-03-滴滴数据通道服务演进之路](https://toutiao.io/k/nbncsx6) ![](assets/new.png)  
 - [2020-09-03-Apache-Flink-漫谈系列：流表对偶-duality-性](https://toutiao.io/k/14oj69r) ![](assets/new.png)  
 - [2020-09-03-在-View-上使用挂起函数（实战）](https://toutiao.io/k/wv1lsqy) ![](assets/new.png)  

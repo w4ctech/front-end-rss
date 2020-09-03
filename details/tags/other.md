@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-03 19:02:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-03 19:09:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -380,10 +380,11 @@
 - [2020-09-03-Apache-Flink-漫谈系列：流表对偶-duality-性](https://toutiao.io/k/14oj69r) 
 - [2020-09-03-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
 - [2020-09-03-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) 
-- [2020-09-03-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) 
-- [2020-09-03-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) 
-- [2020-09-03-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) 
 - [2020-09-03-推荐-美国如果把根域名服务器封了，中国会从网络上消失？](https://toutiao.io/k/yitvf34) 
+- [2020-09-03-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) 
+- [2020-09-03-推荐-英语学习指南](https://toutiao.io/k/m9lrd6m) 
+- [2020-09-03-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
+- [2020-09-03-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) 
 - [2020-09-03-Python-工匠:写好面向对象代码的原则上](https://sec.thief.one/article_content?a_id=b890e9ead0eb96f502fd6911bbc329a3) 
 - [2020-09-03-将比特币用作结算网络中蕴含的经济学知识](https://sec.thief.one/article_content?a_id=e32a1a760d37edaf83512f3dcf0666bf) 
 - [2020-09-03-奖励|ByteSRC-8月精英白帽排行榜](https://sec.thief.one/article_content?a_id=851cc090c4e45ce1f34d3d22b8922aba) 

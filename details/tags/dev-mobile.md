@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-03 04:23:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-03 04:24:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -6,6 +6,3 @@
 > 关键字：`Flutter`、`PWA`、`移动开发`
 
 
-
-- [2020-09-03-那些初学者实践-Flutter-最常出现的错误-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13728&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fc-L7-KkEDplbIkOcaogoRA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-03-Flutter-是移动应用程序开发的未来？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13725&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-ue_AG05uzp_Ez8hpb_TQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

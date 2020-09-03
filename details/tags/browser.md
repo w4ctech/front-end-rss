@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-03 04:23:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-03 04:24:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,18 +8,7 @@
 
 
 - [2020-08-20-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3) 
-- [2020-08-20-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/64aa4f104f6d241a62bf476f1e1621a2) 
-- [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) 
-- [2020-08-24-target-=-“_-blank”背后的隐藏漏洞](https://www.ershicimi.com/p/2a8bd23118c416bdac0972de5d95785a) 
-- [2020-08-23-前端周报：IE最终“死”在了微软自己手里；字节跳动决定起诉特朗普政府；Android-11将强迫用户](https://www.ershicimi.com/p/61af13562d837fde29be12fd8cfb3fdd) 
-- [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
-- [2020-08-28-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091) 
-- [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) 
-- [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-09-03-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
-- [2020-09-03-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-01-安全研究实验室巡礼——美国堪萨斯大学信息安全实验室IAL](https://sec.thief.one/article_content?a_id=337e8106a20a936e463b33f3a94d2858) 
 - [2020-08-28-“安全运营中心”到底是个啥?](https://sec.thief.one/article_content?a_id=f4612695b0f4fea9d86b60dda897f7b7) 
 - [2020-08-28-国家标准、地方政策、案件处罚:近期关键信息基础设施安全资讯一览](https://sec.thief.one/article_content?a_id=fc6227f3db0824af3ff1be7b79764973) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-03 06:03:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-03 06:12:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,8 +18,6 @@
 - [2020-08-25-23条JavaScript初学者应知的最佳实践方法](https://www.ershicimi.com/p/d909ffd10b2489b792a673d653734ebb) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
-- [2020-08-19-【图书】JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/0670af4c43a69b00c705bafb864ad249) 
-- [2020-08-18-【第2038期】使用滚动特效的最佳实践](https://www.ershicimi.com/p/f101c6e7a2e764911b2c8c10c82bb979) 
 - [2020-08-28-是谁动了我的-DOM？](https://www.ershicimi.com/p/876fdf28d2d3525c89d6ec8c706ee990) 
 - [2020-08-25-轻松理解-JS-中的面向对象，顺便搞懂-prototype-和-__proto__](https://www.ershicimi.com/p/c475787f0e0b777cf153d9bd72532b02) 
 - [2020-08-23-一文读懂-javascript-深拷贝与浅拷贝](https://www.ershicimi.com/p/11c84bea4df77c0c051ce6a8ae1a30b7) 
@@ -58,7 +56,6 @@
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-08-29-fastjson的作者，在阿里内网挨骂了？！](https://www.ershicimi.com/p/c59bd6c77198c5afe06b0b3bc358124c) 
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) 
-- [2020-09-02-【重识前端】暴走的异步编程](https://juejin.im/post/6867814019055484942) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -69,6 +66,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-03-看玩软路由的经常装个-ikuai](https://www.v2ex.com/t/703840) 
+- [2020-09-03-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) 
 - [2020-09-01-一次学校集体被钓鱼事件分析](https://sec.thief.one/article_content?a_id=18c6749a46129e8f2d826f8ab4c5a86f) 
 - [2020-09-01-QNAP-NAS在野漏洞攻击事件披露](https://sec.thief.one/article_content?a_id=2393da48f466c8328f67d77d3649af54) 
 - [2020-08-28-小心!你家的路由器可能会变成偷窥你的眼睛](https://sec.thief.one/article_content?a_id=387240be8b51b0fd8b400a206cf132b1) 

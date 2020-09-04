@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-04 18:03:03，:rocket: 更新条数: +1003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-04 18:12:09，:rocket: 更新条数: +1003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1130,8 +1130,8 @@
 - [2020-09-04-自动化回归环境搭建复盘](https://toutiao.io/k/eoa4uy6) ![](assets/new.png)  
 - [2020-09-04-关于技术规划的想法](https://toutiao.io/k/mjk8u1u) ![](assets/new.png)  
 - [2020-09-04-特征工程：特征交叉-Feature-Crosses](https://toutiao.io/k/fok2kjg) ![](assets/new.png)  
-- [2020-09-04-用-Python-实现朋友圈中的九宫格图片](https://toutiao.io/k/ao91r9a) ![](assets/new.png)  
 - [2020-09-04-程序员进阶系列：多图教你掌握-JVM](https://toutiao.io/k/pz73jc0) ![](assets/new.png)  
+- [2020-09-04-用-Python-实现朋友圈中的九宫格图片](https://toutiao.io/k/ao91r9a) ![](assets/new.png)  
 - [2020-09-04-Mac-下搭建-Clion-+-OpenCV-4.x-的开发环境](https://toutiao.io/k/e7ag90p) ![](assets/new.png)  
 - [2020-09-04-你真的知道什么是线程安全吗？](https://toutiao.io/k/xuvh0vj) ![](assets/new.png)  
 - [2020-09-04-初学心得：Rust-学习笔记](https://toutiao.io/k/c3om2jg) ![](assets/new.png)  

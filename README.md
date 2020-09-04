@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-04 06:35:01，:rocket: 更新条数: +3369， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-04 06:46:27，:rocket: 更新条数: +777， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-09-03-最新疫情：全国新冠累计确诊85102例-新增境外输入25例](https://m.caixin.com/m/2020-09-04/101601169.html) ![](assets/new.png)  
-- [2020-09-02-【境内疫情观察】全国新增11例境外输入病例（9月2日）](http://m.database.caixin.com/m/2020-09-03/101600745.html) ![](assets/new.png)  
-- [2020-09-02-大流行手记|9月2日：美拒绝参与全球新冠疫苗计划-日本拟免费全民接种](https://m.caixin.com/m/2020-09-03/101600607.html) ![](assets/new.png)  
-- [2020-09-02-耶鲁公卫院长：疫苗民族主义无法终结全球大流行病](http://m.international.caixin.com/m/2020-09-03/101600933.html) ![](assets/new.png)  
-- [2020-09-02-83岁贝卢斯科尼确诊新冠-叱咤意大利政商多年谤誉一身](http://m.international.caixin.com/m/2020-09-03/101600827.html) ![](assets/new.png)  
-- [2020-09-01-新疆所有户外景区今起恢复开放-跨省游亦重启](http://m.companies.caixin.com/m/2020-09-02/101600371.html) ![](assets/new.png)  
-- [2020-09-01-最新海外疫情：新冠感染超2562万-累计死亡超85万](http://m.international.caixin.com/m/2020-09-02/101600449.html) ![](assets/new.png)  
-- [2020-09-01-【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html) ![](assets/new.png)  
-- [2020-09-01-大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html) ![](assets/new.png)  
-- [2020-08-31-新疆乌鲁木齐及多地州全面解封-部分地区仍有防疫管控](http://m.china.caixin.com/m/2020-09-01/101600000.html) ![](assets/new.png)  
-- [2020-08-31-香港全民检测首日-8.2万市民接受采样](http://m.china.caixin.com/m/2020-09-01/101599956.html) ![](assets/new.png)  
-- [2020-08-31-【境内疫情观察】全国新增10例境外输入病例（8月31日）](http://m.database.caixin.com/m/2020-09-01/101599721.html) ![](assets/new.png)  
-- [2020-08-31-大流行手记|8月31日：美国新冠病死率陷误读风波-巴黎拟全民免费检测](https://m.caixin.com/m/2020-09-01/101599565.html) ![](assets/new.png)  
-- [2020-08-30-【境内疫情观察】全国连续15日无新增本土病例（8月30日）](http://m.database.caixin.com/m/2020-08-31/101599218.html) ![](assets/new.png)  
-- [2020-08-30-大流行手记|8月30日：全球新冠确诊破2500万-英国9月全面开学引争议](https://m.caixin.com/m/2020-08-31/101599105.html) ![](assets/new.png)  
-- [2020-08-29-【境内疫情观察】全国新增9例境外输入病例（8月29日）](http://m.database.caixin.com/m/2020-08-30/101598926.html) ![](assets/new.png)  
-- [2020-08-29-大流行手记|8月29日：美共和党大会4人确诊-印度数百医护人员病亡](https://m.caixin.com/m/2020-08-30/101598907.html) ![](assets/new.png)  
-- [2020-08-28-【境内疫情观察】辽宁本土在院病例清零（8月28日）](http://m.database.caixin.com/m/2020-08-29/101598785.html) ![](assets/new.png)  
-- [2020-08-28-大流行手记|8月28日：谭德赛说疫情影响精神健康-全美逾44万儿童染疫](https://m.caixin.com/m/2020-08-29/101598633.html) ![](assets/new.png)  
-- [2020-08-27-【境内疫情观察】全国新增9例境外输入病例（8月27日）](http://m.database.caixin.com/m/2020-08-28/101598252.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1037,8 @@
 </summary>
 
 
+- [2020-09-04-那些辞职创业的互联网人现在怎么样了？](https://www.v2ex.com/t/704207) ![](assets/new.png)  
+- [2020-09-04-请问这一步为啥要分-2-次写？](https://www.v2ex.com/t/704206) ![](assets/new.png)  
 - [2020-09-04-怎么禁止-WiFi-自动切换节点？](https://www.v2ex.com/t/704205) ![](assets/new.png)  
 - [2020-09-04-mbp+black-magic+外接显示器打开-dota2-的问题](https://www.v2ex.com/t/704204) ![](assets/new.png)  
 - [2020-09-04-请问北京宽带哪家比较合适，主要是看视频不卡就行](https://www.v2ex.com/t/704203) ![](assets/new.png)  
@@ -1075,8 +1057,6 @@
 - [2020-09-04-美团-北京望京人少活多，近期至少需要-10-个新伙伴！美团酒旅诚聘高级前端工程师](https://www.v2ex.com/t/704185) ![](assets/new.png)  
 - [2020-09-04-iPhone-12-对-5g-的支持会分两种？](https://www.v2ex.com/t/704184) ![](assets/new.png)  
 - [2020-09-04-杭州蚂蚁金服支付宝事业群商家与开放技术部招前端，-P5-P8](https://www.v2ex.com/t/704182) ![](assets/new.png)  
-- [2020-09-04-求看英超的途径](https://www.v2ex.com/t/704179) ![](assets/new.png)  
-- [2020-09-04-spring-整合-mybatis-时引入-properties，测试时程序无限运行](https://www.v2ex.com/t/704178) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1102,8 @@
 - [2020-09-04-最想与朋友分享的网站列表](https://toutiao.io/k/wlkg9pi) ![](assets/new.png)  
 - [2020-09-04-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [2020-09-04-肝完这篇前端开发学习路线图，凌晨两点了](https://toutiao.io/k/d00wqyf) ![](assets/new.png)  
-- [2020-09-04-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
 - [2020-09-04-译-聚焦-Android-11：游戏开发新工具](https://toutiao.io/k/eraqm5i) ![](assets/new.png)  
+- [2020-09-04-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
 - [2020-09-04-浅谈-FTP、FTPS-与-SFTP](https://toutiao.io/k/i3yfain) ![](assets/new.png)  
 - [2020-09-04-查询-ElasticSearch：用-SQL-代替-DSL](https://toutiao.io/k/xggulcs) ![](assets/new.png)  
 - [2020-09-04-AutoExcel：一款基于-POI-的-Excel-导入导出利器](https://toutiao.io/k/q3tnr1b) ![](assets/new.png)  

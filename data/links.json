@@ -4125,7 +4125,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4299,6 +4299,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "国内的 AI 电话是国内开发的还是买国外的？",
+        "link": "https://www.v2ex.com/t/704376",
+        "date": "2020-09-04"
+      },
       {
         "title": "升级了 Big Sur Beta6 之后， SMB 无法访问了。。。",
         "link": "https://www.v2ex.com/t/704374",
@@ -4488,11 +4493,6 @@
         "title": "吐槽一下小米的手机及售后政策",
         "link": "https://www.v2ex.com/t/704327",
         "date": "2020-09-04"
-      },
-      {
-        "title": "换个浏览器登录 v 站一直跳转，怎么破？",
-        "link": "https://www.v2ex.com/t/704326",
-        "date": "2020-09-04"
       }
     ]
   },
@@ -4664,13 +4664,13 @@
         "date": "2020-09-04"
       },
       {
-        "title": "程序员进阶系列：多图教你掌握 JVM",
-        "link": "https://toutiao.io/k/pz73jc0",
+        "title": "用 Python 实现朋友圈中的九宫格图片",
+        "link": "https://toutiao.io/k/ao91r9a",
         "date": "2020-09-04"
       },
       {
-        "title": "用 Python 实现朋友圈中的九宫格图片",
-        "link": "https://toutiao.io/k/ao91r9a",
+        "title": "程序员进阶系列：多图教你掌握 JVM",
+        "link": "https://toutiao.io/k/pz73jc0",
         "date": "2020-09-04"
       },
       {
@@ -4709,13 +4709,33 @@
         "date": "2020-09-04"
       },
       {
+        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
+        "link": "https://toutiao.io/k/8r5oqql",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "[推荐] Spring 中异步注解 @Async 的使用、原理及使用时可能导致的问题",
+        "link": "https://toutiao.io/k/g063et3",
+        "date": "2020-09-04"
+      },
+      {
         "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
         "link": "https://toutiao.io/k/749snp6",
         "date": "2020-09-04"
       },
       {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
+        "title": "[推荐] Linux 系统优化（内核优化）",
+        "link": "https://toutiao.io/k/bopgl5e",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "[推荐] 使用 Spring Boot DevTools 优化你的开发体验",
+        "link": "https://toutiao.io/k/e6fskts",
         "date": "2020-09-04"
       },
       {
@@ -4724,33 +4744,8 @@
         "date": "2020-09-04"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "[推荐] 微服务技术栈：API 网关中心，落地实现方案",
-        "link": "https://toutiao.io/k/5fjxacf",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "[推荐] 高手都是如何刷 LeetCode 的？| 码农周刊第 315 期",
-        "link": "https://toutiao.io/k/sh6tvfh",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "[推荐] 大厂是如何使用 JMH 进行 Java 代码性能测试的？必须掌握",
-        "link": "https://toutiao.io/k/lti22p3",
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
         "date": "2020-09-04"
       },
       {
@@ -4759,18 +4754,8 @@
         "date": "2020-09-04"
       },
       {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
         "date": "2020-09-04"
       },
       {
@@ -4781,6 +4766,21 @@
       {
         "title": "[推荐] 滴滴 ElasticSearch 千万级 TPS 写入性能翻倍技术剖析",
         "link": "https://toutiao.io/k/q5376fl",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
+        "link": "https://toutiao.io/k/jhsjj8v",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
         "date": "2020-09-04"
       }
     ]

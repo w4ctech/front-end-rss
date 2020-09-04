@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-04 18:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-04 18:25:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-04-国内的-AI-电话是国内开发的还是买国外的？](https://www.v2ex.com/t/704376) 
 - [2020-09-04-升级了-Big-Sur-Beta6-之后，-SMB-无法访问了。。。](https://www.v2ex.com/t/704374) 
 - [2020-09-04-社招阿里巴巴杭州菜鸟网络大数据开发](https://www.v2ex.com/t/704372) 
 - [2020-09-04-前有汉芯木兰红芯浏览器，后有武汉东西湖](https://www.v2ex.com/t/704371) 
@@ -43,4 +44,3 @@
 - [2020-09-04-今天发现一个奇葩问题-composer-国内镜像-拉取的-GuzzleHttp-7-版本居然有-.git-文件](https://www.v2ex.com/t/704329) 
 - [2020-09-04-求助-卸载-packageinstaller-之后怎么通过-adb-安装软件](https://www.v2ex.com/t/704328) 
 - [2020-09-04-吐槽一下小米的手机及售后政策](https://www.v2ex.com/t/704327) 
-- [2020-09-04-换个浏览器登录-v-站一直跳转，怎么破？](https://www.v2ex.com/t/704326) 

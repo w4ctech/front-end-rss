@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-04 18:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-04 18:25:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,7 +29,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-04-前有汉芯木兰红芯浏览器，后有武汉东西湖](https://www.v2ex.com/t/704371) 
 - [2020-09-04-大佬们问一哈。。有没有类似-teamviewer-的好用的远控啊](https://www.v2ex.com/t/704367) 
-- [2020-09-04-换个浏览器登录-v-站一直跳转，怎么破？](https://www.v2ex.com/t/704326) 
 - [2020-09-04-你真的知道什么是线程安全吗？](https://toutiao.io/k/xuvh0vj) 
 - [2020-09-04-先声夺人|首份中国互联网云安全技术专利分析报告出炉:腾讯获多项第...](https://sec.thief.one/article_content?a_id=939279900533209bf0976f59293ecd3c) 
 - [2020-09-04-信息安全漏洞月报2020年8月](https://sec.thief.one/article_content?a_id=31defa7d9dc60a91f7749a45a9bac7c0) 

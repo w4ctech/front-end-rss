@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-04 07:34:13，:rocket: 更新条数: +3590， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-04 07:46:51，:rocket: 更新条数: +998， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-09-03-最新疫情：全国新冠累计确诊85102例-新增境外输入25例](https://m.caixin.com/m/2020-09-04/101601169.html) ![](assets/new.png)  
-- [2020-09-03-最新海外疫情：新冠感染近2618万-累计死亡超86万](http://m.international.caixin.com/m/2020-09-04/101601227.html) ![](assets/new.png)  
-- [2020-09-03-【境内疫情观察】广东新增13例境外输入病例（9月3日）](http://m.database.caixin.com/m/2020-09-04/101601203.html) ![](assets/new.png)  
-- [2020-09-02-【境内疫情观察】全国新增11例境外输入病例（9月2日）](http://m.database.caixin.com/m/2020-09-03/101600745.html) ![](assets/new.png)  
-- [2020-09-02-大流行手记|9月2日：美拒绝参与全球新冠疫苗计划-日本拟免费全民接种](https://m.caixin.com/m/2020-09-03/101600607.html) ![](assets/new.png)  
-- [2020-09-02-耶鲁公卫院长：疫苗民族主义无法终结全球大流行病](http://m.international.caixin.com/m/2020-09-03/101600933.html) ![](assets/new.png)  
-- [2020-09-02-83岁贝卢斯科尼确诊新冠-叱咤意大利政商多年谤誉一身](http://m.international.caixin.com/m/2020-09-03/101600827.html) ![](assets/new.png)  
-- [2020-09-01-新疆所有户外景区今起恢复开放-跨省游亦重启](http://m.companies.caixin.com/m/2020-09-02/101600371.html) ![](assets/new.png)  
-- [2020-09-01-【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html) ![](assets/new.png)  
-- [2020-09-01-大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html) ![](assets/new.png)  
-- [2020-08-31-新疆乌鲁木齐及多地州全面解封-部分地区仍有防疫管控](http://m.china.caixin.com/m/2020-09-01/101600000.html) ![](assets/new.png)  
-- [2020-08-31-香港全民检测首日-8.2万市民接受采样](http://m.china.caixin.com/m/2020-09-01/101599956.html) ![](assets/new.png)  
-- [2020-08-31-【境内疫情观察】全国新增10例境外输入病例（8月31日）](http://m.database.caixin.com/m/2020-09-01/101599721.html) ![](assets/new.png)  
-- [2020-08-31-大流行手记|8月31日：美国新冠病死率陷误读风波-巴黎拟全民免费检测](https://m.caixin.com/m/2020-09-01/101599565.html) ![](assets/new.png)  
-- [2020-08-30-【境内疫情观察】全国连续15日无新增本土病例（8月30日）](http://m.database.caixin.com/m/2020-08-31/101599218.html) ![](assets/new.png)  
-- [2020-08-30-大流行手记|8月30日：全球新冠确诊破2500万-英国9月全面开学引争议](https://m.caixin.com/m/2020-08-31/101599105.html) ![](assets/new.png)  
-- [2020-08-29-【境内疫情观察】全国新增9例境外输入病例（8月29日）](http://m.database.caixin.com/m/2020-08-30/101598926.html) ![](assets/new.png)  
-- [2020-08-29-大流行手记|8月29日：美共和党大会4人确诊-印度数百医护人员病亡](https://m.caixin.com/m/2020-08-30/101598907.html) ![](assets/new.png)  
-- [2020-08-28-【境内疫情观察】辽宁本土在院病例清零（8月28日）](http://m.database.caixin.com/m/2020-08-29/101598785.html) ![](assets/new.png)  
-- [2020-08-28-大流行手记|8月28日：谭德赛说疫情影响精神健康-全美逾44万儿童染疫](https://m.caixin.com/m/2020-08-29/101598633.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,7 +947,7 @@
 </summary>
 
 
-- [2020-09-02-vue3.0+vite+TypeScript-初体验](https://juejin.im/post/6868167869436264461) ![](assets/new.png)  
+- [2020-09-03-你还在为项目里的重复请求发愁吗?](https://juejin.im/post/6868530321776705544) ![](assets/new.png)  
 - [2020-09-02-10分钟我们一起来理解下js中的栈stack和堆heap](https://juejin.im/post/6868166748709847053) ![](assets/new.png)  
 - [2020-09-02-Umi@3.0+Ts+Antd@4.0从零搭建后台项目工程](https://juejin.im/post/6868164601201033230) ![](assets/new.png)  
 - [2020-09-02-你不知道的JavaScript（上卷）--this上）](https://juejin.im/post/6868089843369377805) ![](assets/new.png)  
@@ -1077,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-04-iPhone-Xs-的听筒开到一半左右音量就失真了](https://www.v2ex.com/t/704236) ![](assets/new.png)  
+- [2020-09-04-字节秋招-前端-商业变现前端缺口超大！快来补！](https://www.v2ex.com/t/704235) ![](assets/new.png)  
+- [2020-09-04-搬运必看！下载-YouTube-视频的最佳方法-建议收藏）](https://www.v2ex.com/t/704232) ![](assets/new.png)  
+- [2020-09-04-Win+-Linux-双系统到底有什么弊端和优点？](https://www.v2ex.com/t/704231) ![](assets/new.png)  
 - [2020-09-04-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://www.v2ex.com/t/704230) ![](assets/new.png)  
 - [2020-09-04-完全不迫，随缘出京东-42、网易云-42、Keep-32、快看漫画-8、大地-5、去哪儿-5，芒果月卡-5-等会员卡](https://www.v2ex.com/t/704229) ![](assets/new.png)  
 - [2020-09-04-做技术的，大多数人的中年危机都是逃不掉的](https://www.v2ex.com/t/704227) ![](assets/new.png)  
@@ -1086,7 +1070,6 @@
 - [2020-09-04-请问这种是二清吗？](https://www.v2ex.com/t/704221) ![](assets/new.png)  
 - [2020-09-04-上海宽带哪家强？求推荐](https://www.v2ex.com/t/704220) ![](assets/new.png)  
 - [2020-09-04-友情链接互助交互~](https://www.v2ex.com/t/704219) ![](assets/new.png)  
-- [2020-09-04-996-是违反劳动法的](https://www.v2ex.com/t/704218) ![](assets/new.png)  
 - [2020-09-04-微信-安卓端新更的这个夜间模式适配有点辣眼睛哦](https://www.v2ex.com/t/704217) ![](assets/new.png)  
 - [2020-09-04-安卓手机-NFC-模拟公交卡可在地铁站人工充值](https://www.v2ex.com/t/704216) ![](assets/new.png)  
 - [2020-09-04-诚心求分析：北京共产房，还是杭州商品房？](https://www.v2ex.com/t/704214) ![](assets/new.png)  
@@ -1094,9 +1077,6 @@
 - [2020-09-04-switch-开会员地区有什么讲究吗？](https://www.v2ex.com/t/704211) ![](assets/new.png)  
 - [2020-09-04-那些辞职创业的互联网人现在怎么样了？](https://www.v2ex.com/t/704207) ![](assets/new.png)  
 - [2020-09-04-请问这一步为啥要分-2-次写？](https://www.v2ex.com/t/704206) ![](assets/new.png)  
-- [2020-09-04-怎么禁止-WiFi-自动切换节点？](https://www.v2ex.com/t/704205) ![](assets/new.png)  
-- [2020-09-04-mbp+black-magic+外接显示器打开-dota2-的问题](https://www.v2ex.com/t/704204) ![](assets/new.png)  
-- [2020-09-04-请问北京宽带哪家比较合适，主要是看视频不卡就行](https://www.v2ex.com/t/704203) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1108,6 +1088,7 @@
 </summary>
 
 
+- [2020-09-04-SSL-证书变革之时已至，这些变化你都清楚吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13740&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F215766881%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-04-最想与朋友分享的网站列表-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13739&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F09%2F01%2F168-list-of-websites-i-most-want-to-share-with-my-friends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-04-浅谈-FTP、FTPS-与-SFTP-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13738&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F208617545%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-04-HTTP/3-来了，你了解它么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13737&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F198959604%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1127,7 +1108,6 @@
 - [2020-09-04-在线培训的9个原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13723&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fonline-training-priciples%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-04-看视频常见的-720p、1080p、4k，这些分辨率到底包含了什么-www.upyun.com](https://blogread.cn/news/go.php?idItem=13722&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F576%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-04-Bitcask-学习笔记-old-panda.com](https://blogread.cn/news/go.php?idItem=13721&url=https%3A%2F%2Fold-panda.com%2F2020%2F08%2F23%2Fbitcask%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-04-一页纸测试策略-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13720&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-strategy-one-page%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

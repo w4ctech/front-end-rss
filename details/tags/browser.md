@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-04 05:02:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-04 05:11:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-08-20-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3) 
 - [2020-08-20-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/64aa4f104f6d241a62bf476f1e1621a2) 
 - [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) 
 - [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
@@ -18,6 +19,7 @@
 - [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-04-spring-整合-mybatis-时引入-properties，测试时程序无限运行](https://www.v2ex.com/t/704178) 
 - [2020-09-04-你真的知道什么是线程安全吗？](https://toutiao.io/k/xuvh0vj) 
 - [2020-09-04-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
 - [2020-09-04-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 

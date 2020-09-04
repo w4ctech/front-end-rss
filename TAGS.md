@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-04 17:11:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-04 17:21:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -447,10 +447,10 @@
 - [【V2EX】大佬们问一哈。。有没有类似-teamviewer-的好用的远控啊](https://www.v2ex.com/t/704367)
 - [【V2EX】换个浏览器登录-v-站一直跳转，怎么破？](https://www.v2ex.com/t/704326)
 - [【开发者头条】你真的知道什么是线程安全吗？](https://toutiao.io/k/xuvh0vj)
+- [【开发者头条】推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9)
 - [【安全热点】先声夺人|首份中国互联网云安全技术专利分析报告出炉:腾讯获多项第...](https://sec.thief.one/article_content?a_id=939279900533209bf0976f59293ecd3c)
 - [【安全热点】信息安全漏洞月报2020年8月](https://sec.thief.one/article_content?a_id=31defa7d9dc60a91f7749a45a9bac7c0)
 - [【安全热点】【安全热点周报】第158期:Windows-10发布新补丁导致设备蓝屏不断](https://sec.thief.one/article_content?a_id=5131d33f94907f80f0de8a5b3b8bb36c)
-- [【安全热点】喜大普奔|IOT-固件安全小组招新啦](https://sec.thief.one/article_content?a_id=b254ed5b198ed56b451e38b12fae2c70)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

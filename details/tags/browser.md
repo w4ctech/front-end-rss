@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-04 05:11:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-04 05:21:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,7 +22,6 @@
 - [2020-09-04-spring-整合-mybatis-时引入-properties，测试时程序无限运行](https://www.v2ex.com/t/704178) 
 - [2020-09-04-你真的知道什么是线程安全吗？](https://toutiao.io/k/xuvh0vj) 
 - [2020-09-04-推荐-高并发系统三大利器之缓存](https://toutiao.io/k/gbvhdf1) 
-- [2020-09-04-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-03-浏览器新高度-奇安信发布87内核可信浏览器先锋版](https://sec.thief.one/article_content?a_id=08b8acfbfb3f14bd8b3094804a7376d0) 
 - [2020-09-03-在全球范围内成功劫持28000台打印机,只为打印一份“安全指南”?](https://sec.thief.one/article_content?a_id=6cda0172866df50409ae67731a2d2930) 
 - [2020-09-03-网络安全等级保护和关键信息基础设施-安全保护工作宣贯会成功举办](https://sec.thief.one/article_content?a_id=f4ee7f05433c4903dbad4cba3f336cb4) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-04 05:11:22，:rocket: 更新条数: +782， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-04 05:21:48，:rocket: 更新条数: +777， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-09-04-美媒专访感染过新冠的武汉市民](http://m.weibo.cn/3057540037/4545393000190144) ![](assets/new.png)  
-- [2020-09-04-上市保险公司半年报：净利润同比下降，健康险增长快](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizwci241ygjARpxiN2QZu200904&isfromapp=1) ![](assets/new.png)  
-- [2020-09-04-巴拉圭新冠肺炎累计确诊近2万例-累计治愈超1万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS22AdBI0sOI6V8njEKw4200904&isfromapp=1) ![](assets/new.png)  
-- [2020-09-04-巴西首都所在联邦区允许重新开放电影院和剧院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVDXjSxnA44icaO5znFXk200904&isfromapp=1) ![](assets/new.png)  
-- [2020-09-03-9月3日新增确诊病例25例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9vFVtOCv7GV08OSZAtUZ200904&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1032,7 @@
 </summary>
 
 
+- [2020-09-04-求看英超的途径](https://www.v2ex.com/t/704179) ![](assets/new.png)  
 - [2020-09-04-spring-整合-mybatis-时引入-properties，测试时程序无限运行](https://www.v2ex.com/t/704178) ![](assets/new.png)  
 - [2020-09-04-请问有没有这样一种咖啡饮品](https://www.v2ex.com/t/704177) ![](assets/new.png)  
 - [2020-09-04-电瓶车求推荐](https://www.v2ex.com/t/704176) ![](assets/new.png)  
@@ -1056,7 +1052,6 @@
 - [2020-09-04-专科-Java-没出路了啊](https://www.v2ex.com/t/704158) ![](assets/new.png)  
 - [2020-09-04-win-10-的正版-key-如何迁移到新电脑上？](https://www.v2ex.com/t/704157) ![](assets/new.png)  
 - [2020-09-04-redis-大-value-问题？](https://www.v2ex.com/t/704154) ![](assets/new.png)  
-- [2020-09-04-Windows-DirectStorage-和-nvidia-RTX-IO-技术能移植应用到-Linux-数据库上吗](https://www.v2ex.com/t/704153) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1102,9 +1097,9 @@
 - [2020-09-04-最想与朋友分享的网站列表](https://toutiao.io/k/wlkg9pi) ![](assets/new.png)  
 - [2020-09-04-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [2020-09-04-肝完这篇前端开发学习路线图，凌晨两点了](https://toutiao.io/k/d00wqyf) ![](assets/new.png)  
-- [2020-09-04-查询-ElasticSearch：用-SQL-代替-DSL](https://toutiao.io/k/xggulcs) ![](assets/new.png)  
 - [2020-09-04-译-聚焦-Android-11：游戏开发新工具](https://toutiao.io/k/eraqm5i) ![](assets/new.png)  
 - [2020-09-04-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-04-查询-ElasticSearch：用-SQL-代替-DSL](https://toutiao.io/k/xggulcs) ![](assets/new.png)  
 - [2020-09-04-浅谈-FTP、FTPS-与-SFTP](https://toutiao.io/k/i3yfain) ![](assets/new.png)  
 - [2020-09-04-AutoExcel：一款基于-POI-的-Excel-导入导出利器](https://toutiao.io/k/q3tnr1b) ![](assets/new.png)  
 - [2020-09-04-关于技术规划的想法](https://toutiao.io/k/mjk8u1u) ![](assets/new.png)  
@@ -1114,8 +1109,8 @@
 - [2020-09-04-你真的知道什么是线程安全吗？](https://toutiao.io/k/xuvh0vj) ![](assets/new.png)  
 - [2020-09-04-程序员进阶系列：多图教你掌握-JVM](https://toutiao.io/k/pz73jc0) ![](assets/new.png)  
 - [2020-09-04-硬核手写字节码实现-HelloWorld](https://toutiao.io/k/c1z4xa8) ![](assets/new.png)  
-- [2020-09-04-初学心得：Rust-学习笔记](https://toutiao.io/k/c3om2jg) ![](assets/new.png)  
 - [2020-09-04-没想到吧！关于-Dubbo-的-“消费端线程池模型”-官网也写错了](https://toutiao.io/k/cqsrm4e) ![](assets/new.png)  
+- [2020-09-04-初学心得：Rust-学习笔记](https://toutiao.io/k/c3om2jg) ![](assets/new.png)  
 - [2020-09-04-特征工程：特征交叉-Feature-Crosses](https://toutiao.io/k/fok2kjg) ![](assets/new.png)  
 - [2020-09-04-Linux-使用-less-命令查看文件](https://toutiao.io/k/57nwlom) ![](assets/new.png)  
 - [2020-09-04-Spring-Security-如何优雅的增加-OAuth-2-协议授权模式](https://toutiao.io/k/l8h00r3) ![](assets/new.png)  

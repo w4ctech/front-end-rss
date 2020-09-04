@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-04 22:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-04 22:11:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -383,13 +383,15 @@
 - [2020-09-04-硬核手写字节码实现-HelloWorld](https://toutiao.io/k/c1z4xa8) 
 - [2020-09-04-没想到吧！关于-Dubbo-的-“消费端线程池模型”-官网也写错了](https://toutiao.io/k/cqsrm4e) 
 - [2020-09-04-Spring-Security-如何优雅地增加-OAuth2-协议授权模式](https://toutiao.io/k/l8h00r3) 
-- [2020-09-04-推荐-Shell-编码规范](https://toutiao.io/k/jbo65f6) 
+- [2020-09-04-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) 
+- [2020-09-04-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) 
+- [2020-09-04-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) 
+- [2020-09-04-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) 
+- [2020-09-04-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) 
+- [2020-09-04-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) 
 - [2020-09-04-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) 
 - [2020-09-04-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) 
-- [2020-09-04-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) 
-- [2020-09-04-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) 
-- [2020-09-04-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) 
-- [2020-09-04-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) 
+- [2020-09-04-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
 - [2020-09-04-Big-Data-Analytics-in-Cyber-Security:-Network-Traffic-and-Attack](https://sec.thief.one/article_content?a_id=96d9e22cc8055aa3888a5b55e7405722) 
 - [2020-09-04-观点-|-勿畏魅影:比特币不需要持续增发](https://sec.thief.one/article_content?a_id=6bd600081dd5be909c8307af991eece4) 
 - [2020-09-04-奇安信荣获2020鲲鹏应用创新大赛广西赛区一等奖](https://sec.thief.one/article_content?a_id=285583f1b2838d1ec7cca90a54d8d0e8) 

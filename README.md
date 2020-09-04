@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-04 11:48:17，:rocket: 更新条数: +3594， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-04 12:04:18，:rocket: 更新条数: +1003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-09-03-最新疫情：全国新冠累计确诊85102例-新增境外输入25例](https://m.caixin.com/m/2020-09-04/101601169.html) ![](assets/new.png)  
-- [2020-09-03-最新海外疫情：新冠感染近2618万-累计死亡超86万](http://m.international.caixin.com/m/2020-09-04/101601227.html) ![](assets/new.png)  
-- [2020-09-03-【境内疫情观察】广东新增13例境外输入病例（9月3日）](http://m.database.caixin.com/m/2020-09-04/101601203.html) ![](assets/new.png)  
-- [2020-09-02-【境内疫情观察】全国新增11例境外输入病例（9月2日）](http://m.database.caixin.com/m/2020-09-03/101600745.html) ![](assets/new.png)  
-- [2020-09-02-大流行手记|9月2日：美拒绝参与全球新冠疫苗计划-日本拟免费全民接种](https://m.caixin.com/m/2020-09-03/101600607.html) ![](assets/new.png)  
-- [2020-09-02-耶鲁公卫院长：疫苗民族主义无法终结全球大流行病](http://m.international.caixin.com/m/2020-09-03/101600933.html) ![](assets/new.png)  
-- [2020-09-02-83岁贝卢斯科尼确诊新冠-叱咤意大利政商多年谤誉一身](http://m.international.caixin.com/m/2020-09-03/101600827.html) ![](assets/new.png)  
-- [2020-09-01-新疆所有户外景区今起恢复开放-跨省游亦重启](http://m.companies.caixin.com/m/2020-09-02/101600371.html) ![](assets/new.png)  
-- [2020-09-01-【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html) ![](assets/new.png)  
-- [2020-09-01-大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html) ![](assets/new.png)  
-- [2020-08-31-新疆乌鲁木齐及多地州全面解封-部分地区仍有防疫管控](http://m.china.caixin.com/m/2020-09-01/101600000.html) ![](assets/new.png)  
-- [2020-08-31-香港全民检测首日-8.2万市民接受采样](http://m.china.caixin.com/m/2020-09-01/101599956.html) ![](assets/new.png)  
-- [2020-08-31-【境内疫情观察】全国新增10例境外输入病例（8月31日）](http://m.database.caixin.com/m/2020-09-01/101599721.html) ![](assets/new.png)  
-- [2020-08-31-大流行手记|8月31日：美国新冠病死率陷误读风波-巴黎拟全民免费检测](https://m.caixin.com/m/2020-09-01/101599565.html) ![](assets/new.png)  
-- [2020-08-30-【境内疫情观察】全国连续15日无新增本土病例（8月30日）](http://m.database.caixin.com/m/2020-08-31/101599218.html) ![](assets/new.png)  
-- [2020-08-30-大流行手记|8月30日：全球新冠确诊破2500万-英国9月全面开学引争议](https://m.caixin.com/m/2020-08-31/101599105.html) ![](assets/new.png)  
-- [2020-08-29-【境内疫情观察】全国新增9例境外输入病例（8月29日）](http://m.database.caixin.com/m/2020-08-30/101598926.html) ![](assets/new.png)  
-- [2020-08-29-大流行手记|8月29日：美共和党大会4人确诊-印度数百医护人员病亡](https://m.caixin.com/m/2020-08-30/101598907.html) ![](assets/new.png)  
-- [2020-08-28-【境内疫情观察】辽宁本土在院病例清零（8月28日）](http://m.database.caixin.com/m/2020-08-29/101598785.html) ![](assets/new.png)  
-- [2020-08-28-大流行手记|8月28日：谭德赛说疫情影响精神健康-全美逾44万儿童染疫](https://m.caixin.com/m/2020-08-29/101598633.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-04-请教一下-esxi-显卡直通](https://www.v2ex.com/t/704315) ![](assets/new.png)  
 - [2020-09-04-请问如何把键盘的问号和斜杠对调？这样打问号就不用按-shift-了](https://www.v2ex.com/t/704314) ![](assets/new.png)  
 - [2020-09-04-百度-ai-平台研发部-凉面面经-社招-Python-岗-上海](https://www.v2ex.com/t/704313) ![](assets/new.png)  
 - [2020-09-04-有没有写好接口文档就生成接口代码的工具？](https://www.v2ex.com/t/704312) ![](assets/new.png)  
@@ -1096,7 +1077,6 @@
 - [2020-09-04-暴露通知怎么启用啊](https://www.v2ex.com/t/704294) ![](assets/new.png)  
 - [2020-09-04-过敏性鼻炎,-有没有好办法？](https://www.v2ex.com/t/704292) ![](assets/new.png)  
 - [2020-09-04-88vip-和-jd-plus](https://www.v2ex.com/t/704290) ![](assets/new.png)  
-- [2020-09-04-IDEA-看书摸鱼插件，时隔一年，再次更新](https://www.v2ex.com/t/704288) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1154,8 +1134,8 @@
 - [2020-09-04-程序员进阶系列：多图教你掌握-JVM](https://toutiao.io/k/pz73jc0) ![](assets/new.png)  
 - [2020-09-04-你真的知道什么是线程安全吗？](https://toutiao.io/k/xuvh0vj) ![](assets/new.png)  
 - [2020-09-04-硬核手写字节码实现-HelloWorld](https://toutiao.io/k/c1z4xa8) ![](assets/new.png)  
-- [2020-09-04-初学心得：Rust-学习笔记](https://toutiao.io/k/c3om2jg) ![](assets/new.png)  
 - [2020-09-04-特征工程：特征交叉-Feature-Crosses](https://toutiao.io/k/fok2kjg) ![](assets/new.png)  
+- [2020-09-04-初学心得：Rust-学习笔记](https://toutiao.io/k/c3om2jg) ![](assets/new.png)  
 - [2020-09-04-没想到吧！关于-Dubbo-的-“消费端线程池模型”-官网也写错了](https://toutiao.io/k/cqsrm4e) ![](assets/new.png)  
 - [2020-09-04-Linux-使用-less-命令查看文件](https://toutiao.io/k/57nwlom) ![](assets/new.png)  
 - [2020-09-04-Spring-Security-如何优雅地增加-OAuth2-协议授权模式](https://toutiao.io/k/l8h00r3) ![](assets/new.png)  

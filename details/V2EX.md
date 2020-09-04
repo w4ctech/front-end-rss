@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-04 22:34:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-04 22:46:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -22,7 +22,6 @@
 - [2020-09-04-最近微软-reorg-了一次，发帖吐槽下-winserver](https://www.v2ex.com/t/704365) 
 - [2020-09-04-优化了一波-Index.py-的-Radix-Tree-实现](https://www.v2ex.com/t/704364) 
 - [2020-09-04-印度区-premium-突然失效，说我地址跟家庭经理地址不一样，怎么操作啊？](https://www.v2ex.com/t/704363) 
-- [2020-09-04-v-站通过谷歌注册进来的，怎么改密码…](https://www.v2ex.com/t/704362) 
 - [2020-09-04-升级-Big-Sur-后发现的一些问题](https://www.v2ex.com/t/704360) 
 - [2020-09-04-只用-JavaScript-怎么实现平滑的-scroll-snap？](https://www.v2ex.com/t/704359) 
 - [2020-09-04-会有-New-Apple-TV-2020-吗？](https://www.v2ex.com/t/704357) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-05 05:56:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-05 06:06:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -25,5 +25,4 @@
 - [2020-08-09-CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [2020-09-04-2020年你应该了解的23个极为有用的NodeJS库](https://juejin.im/post/6868616801513799687) 
-- [2020-09-05-社招内推20k-40k深圳-Node.js-全栈开发工程师](https://www.v2ex.com/t/704413) 
 - [2020-09-05-如何为-Electron-应用实现自动更新](https://toutiao.io/k/xcxwjy5) 

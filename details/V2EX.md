@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-04 23:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-05 00:06:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-05-有人用过“个人认证证书”（Personal-Authentification-Certificate）吗](https://www.v2ex.com/t/704383) 
 - [2020-09-04-20200906-午夜俱乐部](https://www.v2ex.com/t/704382) 
 - [2020-09-04-有感而发!](https://www.v2ex.com/t/704381) 
 - [2020-09-04-写了个-vscode-的滑词,-悬浮翻译小插件](https://www.v2ex.com/t/704380) 
@@ -41,4 +42,3 @@
 - [2020-09-04-apple-music-同一个-ID-可以在不同的区，不同时间段，分别享受-3-个月免费试用么？](https://www.v2ex.com/t/704338) 
 - [2020-09-04-蓝牙信号会互相干扰](https://www.v2ex.com/t/704337) 
 - [2020-09-04-真心求推荐电动车](https://www.v2ex.com/t/704335) 
-- [2020-09-04-房子比较大，搞了个路由器做无线桥接，总是间歇性掉网，怎么办？](https://www.v2ex.com/t/704333) 

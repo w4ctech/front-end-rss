@@ -650,111 +650,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/29",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/29",
     "title": "前端开发",
     "link": "https://www.ershicimi.com/a/29",
-    "items": [
-      {
-        "title": "10个Vue开发技巧助力成为更好的工程师",
-        "link": "https://www.ershicimi.com/p/f760bf4660bc70afed5083b15fa800e7",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "提升低端设备的 Web 性能",
-        "link": "https://www.ershicimi.com/p/ec186f5390fd3818a116bfc2d75d0588",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "TypeScript 4.0正式发布！现在是开始使用它的最佳时机",
-        "link": "https://www.ershicimi.com/p/78488999aa15733fab661ea4fee9e62c",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "看了28岁华为员工的工资表才知道：牛逼的人注定会牛逼",
-        "link": "https://www.ershicimi.com/p/863c36c51ecb470781408d31cc99669e",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "整理几个超实用的前端提效 shell 命令",
-        "link": "https://www.ershicimi.com/p/36f845b565e38d48f70d248590eff751",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "Vue超好玩的新特性：在CSS中使用JS变量",
-        "link": "https://www.ershicimi.com/p/a9337d0dd478f3fdf1e4bd2da7a9a315",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "什么时候适合使用 Map 而不是 Object",
-        "link": "https://www.ershicimi.com/p/e273470c288b15e9148f7bfe4314d588",
-        "date": "2020-08-29"
-      },
-      {
-        "title": "疯传！某大厂P8面试题库遭到泄露！",
-        "link": "https://www.ershicimi.com/p/f91c2932a95bee7f1b4c9e22ef33958e",
-        "date": "2020-08-29"
-      },
-      {
-        "title": "前阿里手淘前端负责人@winter：前端人如何保持竞争力？",
-        "link": "https://www.ershicimi.com/p/2f5718bda413c1dd648ddb27aead15f4",
-        "date": "2020-08-28"
-      },
-      {
-        "title": "Angular 发布首个正式的路线图",
-        "link": "https://www.ershicimi.com/p/cdedd10d05bd067549323b47daa0f016",
-        "date": "2020-08-28"
-      },
-      {
-        "title": "React谁都会，你的优势在哪里？",
-        "link": "https://www.ershicimi.com/p/0d3e10257b30fd97f94b37c3b1b1e35c",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "前端必会 - CDN加速原理",
-        "link": "https://www.ershicimi.com/p/1976b81f1ce62b7eeacdd4115f8909f8",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "Vue 开发必须知道的 36 个技巧",
-        "link": "https://www.ershicimi.com/p/8dbc379c5d917edda3916a4d6d41fa85",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "有些公司开始裁人了，慌得一批",
-        "link": "https://www.ershicimi.com/p/62960e68af97a69ac3caccbc63bf3ab4",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "手把手教你搭建一个灰度发布环境",
-        "link": "https://www.ershicimi.com/p/c46da7e99d94426f6480256c851b93ac",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "Vue 强烈推介的实用技巧",
-        "link": "https://www.ershicimi.com/p/2a3c298ec2183d8a7fa17372439a5bc1",
-        "date": "2020-08-24"
-      },
-      {
-        "title": "为什么阿里P6+前端这么值钱？​",
-        "link": "https://www.ershicimi.com/p/f369e347356fcc2cffd602023dc02e19",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "10+个很酷的VueJS组件，模板和实验示例",
-        "link": "https://www.ershicimi.com/p/8d69a0a2ac6a6f75a6231abf0da0fa0d",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境",
-        "link": "https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "接地气的前端中小厂一二线城市薪资水平报告",
-        "link": "https://www.ershicimi.com/p/656ca7a985dd3f9ff17d143cb581cc53",
-        "date": "2020-08-19"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/166",
@@ -2183,111 +2082,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/6210",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/6210",
     "title": "奇舞周刊",
     "link": "https://www.ershicimi.com/a/6210",
-    "items": [
-      {
-        "title": "新的跨域策略：COOP、COEP",
-        "link": "https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/ec3b126ee2719fe4fef1a01d3f840b35",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/05f673bfc6c5fc81d028bc547a988853",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "Vue Composition API 陷阱",
-        "link": "https://www.ershicimi.com/p/2803a18549e9516648ab6f334a327b39",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/f6a9bf8144331b524cd463dc22ef7dde",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/731d83b67f979b223714076f1e50fe08",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "关于 useState 的一切",
-        "link": "https://www.ershicimi.com/p/cc841d64862e2ffbc9a5400aeac36ada",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/488d75a4b393a9b5c37600fb1f08a050",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/afcbfa4dab12382e1be6bfb3c89ccc64",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "看了就懂的 AST 和 Babel 工作流程",
-        "link": "https://www.ershicimi.com/p/513c95d0a3d66fee1cfe93fe2d3b671b",
-        "date": "2020-08-29"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/c9701326c770749a4fcabe257f4f6580",
-        "date": "2020-08-29"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/a87874fd68e07343f590aae797b1553e",
-        "date": "2020-08-29"
-      },
-      {
-        "title": "强烈推荐的几个微信小程序开发小技巧，简单又实用",
-        "link": "https://www.ershicimi.com/p/8459c8b15bedaf00fed9fa8535dd48e9",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/6ccb8052ada1284908ca8c1862eb67ec",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/cd6588f83c9a9e53cffe5f959f4b7bb0",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "如何优雅的实现消息通信？",
-        "link": "https://www.ershicimi.com/p/18a7a82d211c2de47075d25e9607637e",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/7a6613afbd3c2b7a6ee9a0ed175a7fd0",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/5d47312bf71c509e7240751903b72779",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "浏览器之导航这件小事",
-        "link": "https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/0e76675b07fc19319e467add150d7e3c",
-        "date": "2020-08-25"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/5762",
@@ -2825,36 +2623,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "Vue.js构建工具比较",
-        "link": "https://juejin.im/post/6868987550577950728",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "Egg.js 试水 - 天气预报",
-        "link": "https://juejin.im/post/6868964474360070152",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "前端Cookie的介绍和使用封装",
-        "link": "https://juejin.im/post/6868534697870229512",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "Edge 浏览器在亚像素宽度计算的表现差异",
-        "link": "https://juejin.im/post/6868530337971077134",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "【前端进阶之npm】如何在npm上发自己的包",
-        "link": "https://juejin.im/post/6868526409313320968",
-        "date": "2020-09-03"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -3014,7 +2786,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -3352,16 +3124,6 @@
         "date": "2020-09-05"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-05"
-      },
-      {
         "title": "[推荐] 高手都是如何刷 LeetCode 的？| 码农周刊第 315 期",
         "link": "https://toutiao.io/k/sh6tvfh",
         "date": "2020-09-05"
@@ -3372,43 +3134,8 @@
         "date": "2020-09-05"
       },
       {
-        "title": "[推荐] Spring 中异步注解 @Async 的使用、原理及使用时可能导致的问题",
-        "link": "https://toutiao.io/k/g063et3",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "[推荐] Superset，基于 Web 的开源 BI 工具，GitHub 三万 star",
-        "link": "https://toutiao.io/k/uyj2p7w",
-        "date": "2020-09-05"
-      },
-      {
         "title": "[推荐] Shell 编码规范",
         "link": "https://toutiao.io/k/jbo65f6",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "[推荐] 使用 Spring Boot DevTools 优化你的开发体验",
-        "link": "https://toutiao.io/k/e6fskts",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
-        "link": "https://toutiao.io/k/3lp54k3",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
-        "link": "https://toutiao.io/k/749snp6",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
-        "link": "https://toutiao.io/k/8r5oqql",
         "date": "2020-09-05"
       },
       {
@@ -3417,13 +3144,58 @@
         "date": "2020-09-05"
       },
       {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-05"
+      },
+      {
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
+        "date": "2020-09-05"
+      },
+      {
+        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
+        "link": "https://toutiao.io/k/3lp54k3",
+        "date": "2020-09-05"
+      },
+      {
+        "title": "[推荐] 十个问题弄清 JVM & GC（二）",
+        "link": "https://toutiao.io/k/v2dq9lz",
+        "date": "2020-09-05"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-05"
+      },
+      {
+        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
+        "link": "https://toutiao.io/k/749snp6",
+        "date": "2020-09-05"
+      },
+      {
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
+        "date": "2020-09-05"
+      },
+      {
         "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
         "link": "https://toutiao.io/k/cgycnq9",
         "date": "2020-09-05"
       },
       {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-05"
+      },
+      {
+        "title": "[推荐] Superset，基于 Web 的开源 BI 工具，GitHub 三万 star",
+        "link": "https://toutiao.io/k/uyj2p7w",
+        "date": "2020-09-05"
+      },
+      {
+        "title": "[推荐] 使用 Spring Boot DevTools 优化你的开发体验",
+        "link": "https://toutiao.io/k/e6fskts",
         "date": "2020-09-05"
       }
     ]

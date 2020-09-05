@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-05 23:03:13，:rocket: 更新条数: +991， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-05 23:11:21，:rocket: 更新条数: +991， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1129,16 +1129,16 @@
 - [2020-09-05-client-go-之-DeltaFIFO-实现原理](https://toutiao.io/k/hd1n3bc) ![](assets/new.png)  
 - [2020-09-05-浅入浅出-Java-ConcurrentHashMap](https://toutiao.io/k/wgheu31) ![](assets/new.png)  
 - [2020-09-05-「码农周刊-VIP-会员专属邮件周报」今晚发送，赶紧上车吧！](https://toutiao.io/k/309i83k) ![](assets/new.png)  
-- [2020-09-05-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
-- [2020-09-05-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-09-05-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
-- [2020-09-05-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
 - [2020-09-05-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
-- [2020-09-05-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
+- [2020-09-05-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
 - [2020-09-05-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) ![](assets/new.png)  
+- [2020-09-05-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
+- [2020-09-05-推荐-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3) ![](assets/new.png)  
+- [2020-09-05-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) ![](assets/new.png)  
 - [2020-09-05-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
 - [2020-09-05-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
 - [2020-09-05-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
+- [2020-09-05-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

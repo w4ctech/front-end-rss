@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-05 07:23:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-05 07:43:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -124,10 +124,8 @@
 - [【前端宇宙】Typescript-使用日志干货](https://www.ershicimi.com/p/f1dd64e534ebe4864a4eba54809473a4)
 - [【前端宇宙】TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/1e6610b883aed73746a7bb3c3d8e7373)
 - [【前端宇宙】想去字节面试，TypeScript-要掌握到什么程度？](https://www.ershicimi.com/p/a648c89135efeb37049568816a00fc98)
-- [【前端瓶子君】TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/7d480457079b49dcd33f872a2df97950)
 - [【程序员成长指北】想去字节面试，TypeScript-要掌握到什么程度？](https://www.ershicimi.com/p/8c23ffbc4aeea978af78394d9abeaedb)
 - [【InfoQ】你应该了解的5种TypeScript设计模式](https://www.ershicimi.com/p/600a86127284ce5e132fa0128df3bbc5)
-- [【掘金前端】用-TypeScript-模板字符串类型来制作-URL-parser](https://juejin.im/post/6868156971393449997)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -148,11 +146,6 @@
 - [【React中文社区】一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
 - [【全栈前端精选】Babel是如何读懂JS代码的](https://www.ershicimi.com/p/faad2dc6631b33a4e757150901996f4b)
-- [【政采云前端团队】npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2)
-- [【政采云前端团队】自定义-ESLint-规则，让代码持续美丽](https://www.ershicimi.com/p/78a02d35ff153be695c61fdaa2e891a2)
-- [【政采云前端团队】分分钟教会你搭建企业级的-npm-私有仓库](https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1)
-- [【前端瓶子君】Babel是如何读懂JS代码的](https://www.ershicimi.com/p/24a26a39eb2b1bc8e4d20dde4f6449d6)
-- [【前端瓶子君】SASS的知识体系构建](https://www.ershicimi.com/p/7d18be539559f46b9c56d64a08dd696f)
 - [【程序员成长指北】前端面试题大汇总之Webpack专题](https://www.ershicimi.com/p/7c8b1a166d982f1af40f0ed984037078)
 - [【Nodejs技术栈】一篇文章构建你的-Node.js-知识体系](https://www.ershicimi.com/p/f1fb1a33a8919fc776903a2c25cf09d2)
 - [【Nodejs技术栈】13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0)
@@ -160,6 +153,7 @@
 - [【InfoQ】一个微服务业务系统的中台构建之路](https://www.ershicimi.com/p/cc07622a3be3b6a5f1115a11f312ae31)
 - [【JavaScript】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【开发者头条】推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v)
 - [【安全热点】为精准用户画像,恶意npm软件包窃取浏览器文件](https://sec.thief.one/article_content?a_id=78ad1622ed4c56f1198320bacadf54a2)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -180,7 +174,6 @@
 - [【React中文社区】V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78)
 - [【前端早读课】【第2040期】Node-模块化之争：为什么-CommonJS-和-ES-Modules-无法相互协](https://www.ershicimi.com/p/4d066ebfc0e5df2c0e1d9f1468fb35ce)
 - [【前端之巅】Electron-10正式发布：终止对-7.xy-的支持](https://www.ershicimi.com/p/8c95a1f84c833e102f8c423d2b6fdae5)
-- [【政采云前端团队】如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082)
 - [【程序员成长指北】Node.js-环境性能监控探究](https://www.ershicimi.com/p/c175dbfa89ac26c866deab6f6850d264)
 - [【程序员成长指北】如何科学修改-node_modules-里的文件](https://www.ershicimi.com/p/5b9e2ef051d363ea1c961e01df904640)
 - [【程序员成长指北】语雀的技术架构演进之路-Node.js-技术栈](https://www.ershicimi.com/p/750c2e9ffded02efc20f038cd4bf293b)
@@ -236,9 +229,6 @@
 
 
 - [【前端之巅】Flutter-在阿里淘系的体系化建设和业务实践](https://www.ershicimi.com/p/df277c7c2479b10b89231f01e349caf2)
-- [【前端瓶子君】分享-Flutter-学习总结](https://www.ershicimi.com/p/00e7b0fcbc519b73b15d21a31b294c68)
-- [【技术头条】那些初学者实践-Flutter-最常出现的错误-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13728&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fc-L7-KkEDplbIkOcaogoRA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】Flutter-是移动应用程序开发的未来？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13725&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-ue_AG05uzp_Ez8hpb_TQw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -401,20 +391,19 @@
 - [【前端大学】谷歌发布-Chrome-85-稳定版，引入-PGO，页面加载速度提升-10%](https://www.ershicimi.com/p/975990ee48bfa33c48d7f050015bdbe5)
 - [【前端之巅】前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome-85发布，提高页面加载速度；iPhon](https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb)
 - [【前端迷】老生常谈的性能优化再来讲一遍给大家](https://www.ershicimi.com/p/61efe0503f15be9bf6c891fdd624c07e)
-- [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
-- [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
 - [【前端宇宙】从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/40104f0698599d721f2fd833ca8a0558)
 - [【前端宇宙】聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/eaff4a9acf7a4e7e9c8f6e833b7c7ea1)
 - [【前端宇宙】两行代码实现图片碎片化加载](https://www.ershicimi.com/p/165b79e16b8a59b1799441768291f3f2)
-- [【前端瓶子君】从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/3b2320a714b0da3f00d2ef5987edc815)
-- [【前端瓶子君】网站优化，这些工具你一定用得着](https://www.ershicimi.com/p/1ea244ce3464291c67fe0a63322a0285)
 - [【程序员成长指北】谷歌发布-Chrome-85-稳定版，引入-PGO，页面加载速度提升-10%](https://www.ershicimi.com/p/22e4522290e35e07728382add97acd64)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】重磅！！Gradle-6.6-发布，大幅提升性能！](https://www.ershicimi.com/p/5bae6c72a775ac5d441656380ded66ae)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】SpringBoot-IDEA-下性能起飞！-JMeter-性能并发测试](https://www.v2ex.com/t/704419)
-- [【技术头条】全方面分析-Hilt-和-Koin-性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13727&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FD86krymBKK02zGEPRjV09g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e)
+- [【开发者头条】推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl)
+- [【开发者头条】推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu)
+- [【开发者头条】推荐-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3)
+- [【开发者头条】推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -442,9 +431,9 @@
 - [【奇舞周刊】浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】如何选购安全放心的全脂牛奶](https://www.v2ex.com/t/704467)
 - [【V2EX】请教安卓手机淘宝-app-中商品详情页的图片缓存在什么目录下？](https://www.v2ex.com/t/704457)
 - [【开发者头条】client-go-之-DeltaFIFO-实现原理](https://toutiao.io/k/hd1n3bc)
-- [【开发者头条】推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9)
 - [【安全热点】先声夺人|首份中国互联网云安全技术专利分析报告出炉:腾讯获多项第...](https://sec.thief.one/article_content?a_id=939279900533209bf0976f59293ecd3c)
 - [【安全热点】信息安全漏洞月报2020年8月](https://sec.thief.one/article_content?a_id=31defa7d9dc60a91f7749a45a9bac7c0)
 - [【安全热点】【安全热点周报】第158期:Windows-10发布新补丁导致设备蓝屏不断](https://sec.thief.one/article_content?a_id=5131d33f94907f80f0de8a5b3b8bb36c)
@@ -472,7 +461,6 @@
 - [【前端之巅】二面阿里惨败，全是算法基本功的问题···-|-极客大学](https://www.ershicimi.com/p/87f10d6722414698e6f270ae4d5574a8)
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
-- [【技术头条】HTTP/3-来了，你了解它么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13737&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F198959604%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】CVE-2019-17564-Dubbo-HTTP协议反序列化漏洞](https://sec.thief.one/article_content?a_id=089e1dbb3df7c9061b7ec290770bae6c)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -512,16 +500,12 @@
 
 - [【全栈前端精选】Gitlab-ci:从零开始的前端自动化部署](https://www.ershicimi.com/p/934717cb9aa4c27d76f4942db0d4410f)
 - [【全栈前端精选】手动实现高仿github的内容diff效果](https://www.ershicimi.com/p/a7ee1b4fc4334d29cd1407007dd83033)
-- [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
-- [【前端瓶子君】Gitlab-ci:-从零开始的前端自动化部署](https://www.ershicimi.com/p/05ba755e5bac48080c5e505679b60857)
 - [【Nodejs技术栈】推荐一位-Github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/ed297c30ed030e57e29c4b4dfdfec211)
 - [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】刚刚拿到了-GitHub-Codespaces-的-Beta-测试资格](https://www.v2ex.com/t/704426)
-- [【V2EX】git-可以在-B-分支直接推送改动给-A-分支合并,-而不用切换到-A-分支的办法吗?](https://www.v2ex.com/t/704420)
-- [【开发者头条】推荐-Superset，基于-Web-的开源-BI-工具，GitHub-三万-star](https://toutiao.io/k/uyj2p7w)
 - [【安全热点】PyTorch-实现,GitHub-4000-星:这是微软开源的计算机视觉库](https://sec.thief.one/article_content?a_id=42a600770d2ccfe348622b7b3d3075fb)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-05 12:30:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-05 12:55:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -35,10 +35,8 @@
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
 - [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
+- [2020-09-02-微众正式开源Fes.js：快速、简单、健壮的管理台前端应用](https://www.ershicimi.com/p/df8d37e15035a568568c62ec9f4ff23f) 
 - [2020-08-31-应该在JavaScript中使用Class吗](https://www.ershicimi.com/p/f907df50ac697ede04cc4769768768cd) 
-- [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
-- [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
-- [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
 - [2020-08-30-JavaScript-经典「红宝书」，几代前端人的入门选择](https://www.ershicimi.com/p/a300a8874b1decab5e5b81361a25288c) 
 - [2020-08-26-H5-秒开方案大全](https://www.ershicimi.com/p/c2c283afe566a9e224000ca0d7844e60) 
 - [2020-08-25-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/194ea3d64d5964fd5067a31dd27bdf7a) 
@@ -66,6 +64,8 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-09-05-路由被雷劈坏了！](https://www.v2ex.com/t/704534) 
+- [2020-09-05-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) 
 - [2020-09-04-安全情报总第008期-|一周安全大事件回顾](https://sec.thief.one/article_content?a_id=c5456c27d6db16a06dcc4fa847e15fb8) 
 - [2020-09-04-【JSRC中秋礼盒上线-|-1积分兑换月饼+盲盒+香茶-】](https://sec.thief.one/article_content?a_id=1238c79966261cd6bcc234c70bcf5638) 
 - [2020-09-01-一次学校集体被钓鱼事件分析](https://sec.thief.one/article_content?a_id=18c6749a46129e8f2d826f8ab4c5a86f) 

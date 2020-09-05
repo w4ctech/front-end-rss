@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-05 12:30:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-05 12:55:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -9,6 +9,7 @@
 
 - [2020-08-20-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3) 
 - [2020-08-20-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/64aa4f104f6d241a62bf476f1e1621a2) 
+- [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) 
 - [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
 - [2020-09-04-如何防止重复发送ajax请求](https://www.ershicimi.com/p/98a8850e1ffb750ead2a74a1665adb83) 
 - [2020-08-28-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091) 
@@ -19,8 +20,8 @@
 - [2020-09-03-前端Cookie的介绍和使用封装](https://juejin.im/post/6868534697870229512) 
 - [2020-09-03-Edge-浏览器在亚像素宽度计算的表现差异](https://juejin.im/post/6868530337971077134) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-09-05-Go-使用-http.Get-的奇怪的问题](https://www.v2ex.com/t/704485) 
 - [2020-09-05-client-go-之-DeltaFIFO-实现原理](https://toutiao.io/k/hd1n3bc) 
+- [2020-09-05-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-05-欧盟5G安全政策对我国产业影响的思考](https://sec.thief.one/article_content?a_id=effed41b9a78e59815a7bd5c8e4ebf55) 
 - [2020-09-04-先声夺人|首份中国互联网云安全技术专利分析报告出炉:腾讯获多项第...](https://sec.thief.one/article_content?a_id=939279900533209bf0976f59293ecd3c) 
 - [2020-09-04-信息安全漏洞月报2020年8月](https://sec.thief.one/article_content?a_id=31defa7d9dc60a91f7749a45a9bac7c0) 

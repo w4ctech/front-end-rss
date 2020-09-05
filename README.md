@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-05 02:12:55，:rocket: 更新条数: +769， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-05 02:28:36，:rocket: 更新条数: +759， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -271,6 +271,7 @@
 </summary>
 
 
+- [2020-09-04-10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/f760bf4660bc70afed5083b15fa800e7) ![](assets/new.png)  
 - [2020-09-03-提升低端设备的-Web-性能](https://www.ershicimi.com/p/ec186f5390fd3818a116bfc2d75d0588) ![](assets/new.png)  
 - [2020-09-02-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/78488999aa15733fab661ea4fee9e62c) ![](assets/new.png)  
 - [2020-09-01-看了28岁华为员工的工资表才知道：牛逼的人注定会牛逼](https://www.ershicimi.com/p/863c36c51ecb470781408d31cc99669e) ![](assets/new.png)  
@@ -290,7 +291,6 @@
 - [2020-08-21-10+个很酷的VueJS组件，模板和实验示例](https://www.ershicimi.com/p/8d69a0a2ac6a6f75a6231abf0da0fa0d) ![](assets/new.png)  
 - [2020-08-20-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3) ![](assets/new.png)  
 - [2020-08-19-接地气的前端中小厂一二线城市薪资水平报告](https://www.ershicimi.com/p/656ca7a985dd3f9ff17d143cb581cc53) ![](assets/new.png)  
-- [2020-08-18-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/13ea72e0325fa260959c8695c88c8eb1) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -709,16 +709,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1027,11 @@
 </summary>
 
 
+- [2020-09-05-用-HCaaS-容器虚拟机搭建-LNMP](https://www.v2ex.com/t/704403) ![](assets/new.png)  
+- [2020-09-05-瘦子接近中年也发福,有什么办法把肚子减掉吗?](https://www.v2ex.com/t/704401) ![](assets/new.png)  
+- [2020-09-05-我的-iMac-会把-MacBook-pro-不停地唤醒](https://www.v2ex.com/t/704400) ![](assets/new.png)  
+- [2020-09-05-为什么某些手机会出现上下滑动时导致页面容器上下移动？大佬解答一下](https://www.v2ex.com/t/704399) ![](assets/new.png)  
+- [2020-09-05-终于等到你---GitHub-镜像仓库服务](https://www.v2ex.com/t/704398) ![](assets/new.png)  
 - [2020-09-05-有人用-anylinks-的服务吗？](https://www.v2ex.com/t/704397) ![](assets/new.png)  
 - [2020-09-05-整理观点，乐观派怎么看内循环？](https://www.v2ex.com/t/704396) ![](assets/new.png)  
 - [2020-09-05-寻一份以创意和创新为核心的产品类型的工作。最好是互联网行业的，其他·行业单独聊。](https://www.v2ex.com/t/704395) ![](assets/new.png)  
@@ -1052,11 +1047,6 @@
 - [2020-09-04-写了个-vscode-的滑词,-悬浮翻译小插件](https://www.v2ex.com/t/704380) ![](assets/new.png)  
 - [2020-09-04-用这种难度的题目面试程序员，给多少时间合适？](https://www.v2ex.com/t/704379) ![](assets/new.png)  
 - [2020-09-04-熟能生巧-–-刷题的一些技巧的经验之谈](https://www.v2ex.com/t/704378) ![](assets/new.png)  
-- [2020-09-04-这两年间歇性焦虑，我到底能做什么](https://www.v2ex.com/t/704377) ![](assets/new.png)  
-- [2020-09-04-国内的-AI-电话是国内开发的还是买国外的？](https://www.v2ex.com/t/704376) ![](assets/new.png)  
-- [2020-09-04-升级了-Big-Sur-Beta6-之后，-SMB-无法访问了。。。](https://www.v2ex.com/t/704374) ![](assets/new.png)  
-- [2020-09-04-社招阿里巴巴杭州菜鸟网络大数据开发](https://www.v2ex.com/t/704372) ![](assets/new.png)  
-- [2020-09-04-前有汉芯木兰红芯浏览器，后有武汉东西湖](https://www.v2ex.com/t/704371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1106,18 +1096,18 @@
 - [2020-09-05-「码农周刊-VIP-会员专属邮件周报」今晚发送，赶紧上车吧！](https://toutiao.io/k/309i83k) ![](assets/new.png)  
 - [2020-09-05-云原生技术研究：从-bpftrace-看如何利用-eBPF-实现内核追踪](https://toutiao.io/k/02bl7fl) ![](assets/new.png)  
 - [2020-09-05-从两周发布上线到一周发布上线，如何做到高效稳定？](https://toutiao.io/k/7kgclu1) ![](assets/new.png)  
+- [2020-09-05-如何为-Electron-应用实现自动更新](https://toutiao.io/k/xcxwjy5) ![](assets/new.png)  
 - [2020-09-05-分布式锁的封装也很有讲究呀](https://toutiao.io/k/bgwedsm) ![](assets/new.png)  
 - [2020-09-05-浅入浅出-Java-ConcurrentHashMap](https://toutiao.io/k/wgheu31) ![](assets/new.png)  
-- [2020-09-05-如何为-Electron-应用实现自动更新](https://toutiao.io/k/xcxwjy5) ![](assets/new.png)  
-- [2020-09-05-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-05-推荐-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3) ![](assets/new.png)  
-- [2020-09-05-推荐-Superset，基于-Web-的开源-BI-工具，GitHub-三万-star](https://toutiao.io/k/uyj2p7w) ![](assets/new.png)  
-- [2020-09-05-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
-- [2020-09-05-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
-- [2020-09-05-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
-- [2020-09-05-推荐-滴滴-ElasticSearch-千万级-TPS-写入性能翻倍技术剖析](https://toutiao.io/k/q5376fl) ![](assets/new.png)  
-- [2020-09-05-推荐-十个问题弄清-JVM-&-GC（二）](https://toutiao.io/k/v2dq9lz) ![](assets/new.png)  
+- [2020-09-05-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
 - [2020-09-05-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-05-推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts) ![](assets/new.png)  
+- [2020-09-05-推荐-Spring-中异步注解-@Async-的使用、原理及使用时可能导致的问题](https://toutiao.io/k/g063et3) ![](assets/new.png)  
+- [2020-09-05-推荐-微服务技术栈：API-网关中心，落地实现方案](https://toutiao.io/k/5fjxacf) ![](assets/new.png)  
+- [2020-09-05-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
+- [2020-09-05-推荐-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3) ![](assets/new.png)  
+- [2020-09-05-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) ![](assets/new.png)  
+- [2020-09-05-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) ![](assets/new.png)  
 - [2020-09-05-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

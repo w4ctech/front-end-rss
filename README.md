@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-06 02:12:57，:rocket: 更新条数: +770， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-06 02:25:33，:rocket: 更新条数: +769， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1037,6 +1037,7 @@
 </summary>
 
 
+- [2020-09-06-有个疑问，国内有很多-mac-破解软件，一直不明白这种破解网站的目的？怎么盈利？以及这些破解的-mac-软件是否有后门，例如-https://xclient.info/](https://www.v2ex.com/t/704596) ![](assets/new.png)  
 - [2020-09-06-iMac-2020-升级-4-根内存条](https://www.v2ex.com/t/704593) ![](assets/new.png)  
 - [2020-09-06-出现这个问题是不是说明-momo-陌陌-APP-处理数据库的效率很低，和腾讯这种大厂还是有差距的](https://www.v2ex.com/t/704592) ![](assets/new.png)  
 - [2020-09-06-有没有见过那种又菜，又凶的人？](https://www.v2ex.com/t/704591) ![](assets/new.png)  
@@ -1056,7 +1057,6 @@
 - [2020-09-05-雷电-3-口脏了怎么清理](https://www.v2ex.com/t/704572) ![](assets/new.png)  
 - [2020-09-05-iOS-可以对单个-app-备份，然后恢复吗？](https://www.v2ex.com/t/704571) ![](assets/new.png)  
 - [2020-09-05-有没有合伙做流媒体音乐商店的](https://www.v2ex.com/t/704570) ![](assets/new.png)  
-- [2020-09-05-我的博客-WordPress-1024.Cool-终于上线了，欢迎拍砖。](https://www.v2ex.com/t/704569) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,16 +1109,16 @@
 - [2020-09-06-Go-设计模式（五）：创建型模式总结](https://toutiao.io/k/rh2towx) ![](assets/new.png)  
 - [2020-09-06-Go-实现-Uniswap-本地测试和节点部署](https://toutiao.io/k/jfagizp) ![](assets/new.png)  
 - [2020-09-06-在-Deno-中使用-Node-模块](https://toutiao.io/k/nu94vvy) ![](assets/new.png)  
-- [2020-09-06-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
-- [2020-09-06-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
+- [2020-09-06-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
 - [2020-09-06-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-06-推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts) ![](assets/new.png)  
-- [2020-09-06-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) ![](assets/new.png)  
-- [2020-09-06-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-06-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
-- [2020-09-06-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) ![](assets/new.png)  
+- [2020-09-06-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
 - [2020-09-06-推荐-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3) ![](assets/new.png)  
-- [2020-09-06-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
+- [2020-09-06-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-06-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) ![](assets/new.png)  
+- [2020-09-06-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) ![](assets/new.png)  
+- [2020-09-06-推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts) ![](assets/new.png)  
+- [2020-09-06-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-06-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-06 02:12:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-06 02:25:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -70,6 +70,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-06-Bean-Validation-声明式校验方法的参数、返回值](https://toutiao.io/k/010gtdb) 
+- [2020-09-06-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-04-安全情报总第008期-|一周安全大事件回顾](https://sec.thief.one/article_content?a_id=c5456c27d6db16a06dcc4fa847e15fb8) 
 - [2020-09-04-【JSRC中秋礼盒上线-|-1积分兑换月饼+盲盒+香茶-】](https://sec.thief.one/article_content?a_id=1238c79966261cd6bcc234c70bcf5638) 
 - [2020-09-01-一次学校集体被钓鱼事件分析](https://sec.thief.one/article_content?a_id=18c6749a46129e8f2d826f8ab4c5a86f) 

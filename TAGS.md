@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-06 02:12:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-06 02:25:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -162,6 +162,7 @@
 - [【JavaScript】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341)
 - [【掘金前端】webpack-学习系列（一）](https://juejin.im/post/6869001859206479885)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【开发者头条】推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v)
 - [【安全热点】为精准用户画像,恶意npm软件包窃取浏览器文件](https://sec.thief.one/article_content?a_id=78ad1622ed4c56f1198320bacadf54a2)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -445,8 +446,8 @@
 - [【奇舞周刊】浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】有个疑问，国内有很多-mac-破解软件，一直不明白这种破解网站的目的？怎么盈利？以及这些破解的-mac-软件是否有后门，例如-https://xclient.info/](https://www.v2ex.com/t/704596)
 - [【V2EX】第一次想更换常用的-Chrome-浏览器，问问大家有没有推荐的浏览器](https://www.v2ex.com/t/704573)
-- [【开发者头条】推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9)
 - [【安全热点】欧盟5G安全政策对我国产业影响的思考](https://sec.thief.one/article_content?a_id=effed41b9a78e59815a7bd5c8e4ebf55)
 - [【安全热点】先声夺人|首份中国互联网云安全技术专利分析报告出炉:腾讯获多项第...](https://sec.thief.one/article_content?a_id=939279900533209bf0976f59293ecd3c)
 - [【安全热点】信息安全漏洞月报2020年8月](https://sec.thief.one/article_content?a_id=31defa7d9dc60a91f7749a45a9bac7c0)

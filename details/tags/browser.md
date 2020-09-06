@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-06 07:22:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-06 07:32:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,11 +7,6 @@
 
 
 
-- [2020-08-20-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/c06dd0c8a67623246074f6088ddea4a3) 
-- [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) 
-- [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
-- [2020-09-04-如何防止重复发送ajax请求](https://www.ershicimi.com/p/98a8850e1ffb750ead2a74a1665adb83) 
-- [2020-08-28-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091) 
 - [2020-09-05-欧盟5G安全政策对我国产业影响的思考](https://sec.thief.one/article_content?a_id=effed41b9a78e59815a7bd5c8e4ebf55) 
 - [2020-09-04-先声夺人|首份中国互联网云安全技术专利分析报告出炉:腾讯获多项第...](https://sec.thief.one/article_content?a_id=939279900533209bf0976f59293ecd3c) 
 - [2020-09-04-信息安全漏洞月报2020年8月](https://sec.thief.one/article_content?a_id=31defa7d9dc60a91f7749a45a9bac7c0) 

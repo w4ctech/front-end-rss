@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-06 22:47:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-06 23:03:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -162,6 +162,7 @@
 - [【JavaScript】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【V2EX】docker-compose-up-重新构建不更新代码？](https://www.v2ex.com/t/704689)
+- [【开发者头条】推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v)
 - [【安全热点】为精准用户画像,恶意npm软件包窃取浏览器文件](https://sec.thief.one/article_content?a_id=78ad1622ed4c56f1198320bacadf54a2)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -376,7 +377,6 @@
 - [【前端日刊】最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b)
 - [【知乎日报】「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec)
 - [【V2EX】油管默认的视频格式全变成了-AV1?](https://www.v2ex.com/t/704714)
-- [【开发者头条】推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89)
 - [【安全热点】【视频】|-Python:练习英雄联盟](https://sec.thief.one/article_content?a_id=0bacafbbe8c7eee2a1de1d470ed258eb)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -413,7 +413,7 @@
 - [【互联网架构师】重磅！！Gradle-6.6-发布，大幅提升性能！](https://www.ershicimi.com/p/5bae6c72a775ac5d441656380ded66ae)
 - [【掘金前端】大批量数据下的基于arcgis和echarts的管网流向渲染优化|🏆-技术专题第三期征文](https://juejin.im/post/6867032433834622984)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts)
+- [【开发者头条】推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

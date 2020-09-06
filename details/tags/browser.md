@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-06 12:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-06 12:15:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,10 +7,8 @@
 
 
 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2020-09-05-不为人知的多种跨域方式](https://juejin.im/post/6869205662962810894) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-09-06-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
+- [2020-09-04-如何防止重复发送ajax请求](https://www.ershicimi.com/p/98a8850e1ffb750ead2a74a1665adb83) 
+- [2020-08-28-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091) 
 - [2020-09-06-《信息安全技术-网络安全等级保护测评机构能力要求和评估规范》全文](https://sec.thief.one/article_content?a_id=3d794a2c287ef1df7d3c46609be85e8b) 
 - [2020-09-05-欧盟5G安全政策对我国产业影响的思考](https://sec.thief.one/article_content?a_id=effed41b9a78e59815a7bd5c8e4ebf55) 
 - [2020-09-04-先声夺人|首份中国互联网云安全技术专利分析报告出炉:腾讯获多项第...](https://sec.thief.one/article_content?a_id=939279900533209bf0976f59293ecd3c) 

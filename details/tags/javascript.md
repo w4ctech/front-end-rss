@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-06 17:11:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-06 17:21:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -44,8 +44,11 @@
 - [2020-08-30-JavaScript-经典「红宝书」，几代前端人的入门选择](https://www.ershicimi.com/p/a300a8874b1decab5e5b81361a25288c) 
 - [2020-08-26-H5-秒开方案大全](https://www.ershicimi.com/p/c2c283afe566a9e224000ca0d7844e60) 
 - [2020-08-25-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/194ea3d64d5964fd5067a31dd27bdf7a) 
+- [2020-09-01-关于JavaScript计时器，你需要知道的全部知识](https://www.ershicimi.com/p/42a44afa67100aa54e323f32a716b845) 
+- [2020-08-23-这一次，彻底弄懂-JavaScript-执行机制](https://www.ershicimi.com/p/8e561a465605e1122c0db6fbe19cb68b) 
 - [2020-09-05-JavaScript红宝书第4版来了「回馈粉丝第二期」](https://www.ershicimi.com/p/f91df0d66af3f4bde48250d36a3dc96f) 
 - [2020-09-02-小技巧不定宽溢出文本适配滚动](https://www.ershicimi.com/p/4cc2a7c0a52dd69ac9affba81aff5a23) 
+- [2020-08-18-前端模块化：CommonJS,AMD,CMD,ES6](https://www.ershicimi.com/p/d2379722a4ae1383e39ba0c43731c031) 
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
@@ -94,7 +97,6 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-06-Bean-Validation-声明式校验方法的参数、返回值](https://toutiao.io/k/010gtdb) 
-- [2020-09-06-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-06-Faxhell:一个利用Fax服务和DLL劫持技术实现的Bind-Shell](https://sec.thief.one/article_content?a_id=ec2bec911ee88facd44abe49fd2bcef2) 
 - [2020-09-04-安全情报总第008期-|一周安全大事件回顾](https://sec.thief.one/article_content?a_id=c5456c27d6db16a06dcc4fa847e15fb8) 
 - [2020-09-04-【JSRC中秋礼盒上线-|-1积分兑换月饼+盲盒+香茶-】](https://sec.thief.one/article_content?a_id=1238c79966261cd6bcc234c70bcf5638) 

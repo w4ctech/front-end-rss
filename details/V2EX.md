@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-06 03:34:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-06 03:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -38,4 +38,3 @@
 - [2020-09-05-alpine-的争议](https://www.v2ex.com/t/704568) 
 - [2020-09-05-Windows-微信也不出个深色模式](https://www.v2ex.com/t/704567) 
 - [2020-09-05-大家来聊聊数字广东这公司的情况？加班如何？](https://www.v2ex.com/t/704564) 
-- [2020-09-05-PHP7.4-版本要求最低云服务器配置必须是-4G-内存吗？](https://www.v2ex.com/t/704563) 

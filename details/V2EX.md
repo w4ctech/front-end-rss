@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-06 11:34:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-06 11:47:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-06-medium-开通-Partner-Program-earnings](https://www.v2ex.com/t/704669) 
+- [2020-09-06-SOHO-环境多核工作站性价比分析：-ThreadRipper-3970X-vs-Ryzen-3950X-*-2](https://www.v2ex.com/t/704668) 
 - [2020-09-06-杭州/武汉-字节跳动-飞书-开放平台客户端-iOS/-Android-组内内推](https://www.v2ex.com/t/704665) 
 - [2020-09-06-iPad-登陆了美区的-Apple-ID，如何方便的安装国区独有的-App-而不切换-Apple-ID-呢？](https://www.v2ex.com/t/704664) 
 - [2020-09-06-每次提交回复都会提示已经发过一条类似的了](https://www.v2ex.com/t/704663) 
@@ -33,6 +35,3 @@
 - [2020-09-06-Mac-上-Safari-书签文件夹能做到鼠标放上去自动展开？](https://www.v2ex.com/t/704624) 
 - [2020-09-06-如何在-macOS-分区被格式化只剩下-windows-的-MacBook-上重装-macOS？](https://www.v2ex.com/t/704621) 
 - [2020-09-06-在线支付WX,-支付宝,-Paypal,-信用卡哪种商户得知的个人信息最少](https://www.v2ex.com/t/704620) 
-- [2020-09-06-关于教育的一点思考-未来是否可以让偏远地区的孩子，通过网络来享受名校老师的课程？如果教育资源从信息流（或者软件层面）可以共享之后，我们对于受教育者能...](https://www.v2ex.com/t/704619) 
-- [2020-09-06-QQ-拼音开始主动劣化用户体验了](https://www.v2ex.com/t/704618) 
-- [2020-09-06-清华-TUNA-开源镜像站跟-AWS-合作创建了一家子站](https://www.v2ex.com/t/704617) 

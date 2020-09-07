@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-07 18:03:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-07 18:12:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,7 +13,6 @@
 - [2020-09-04-如何防止重复发送ajax请求](https://www.ershicimi.com/p/98a8850e1ffb750ead2a74a1665adb83) 
 - [2020-08-28-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091) 
 - [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-07-ISC-2020-大数据产业安全创新在线研讨会丨左晓栋:重要数据识别研...](https://sec.thief.one/article_content?a_id=923be0c428edd6197a0f3bd9b0f41cd1) 
 - [2020-09-07-亮相服贸会:奇安信内生安全框架助力新基建与数字化转型](https://sec.thief.one/article_content?a_id=5fc0a2a136d9fa53d83406d2ef9720dc) 
 - [2020-09-07-干货-|GitHUB安全搬运工-Ⅱ](https://sec.thief.one/article_content?a_id=a98cb538f72f6c6f6980560de321f7cf) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-07 12:32:17，:rocket: 更新条数: +777， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-07 12:38:24，:rocket: 更新条数: +778， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1037,6 +1037,8 @@
 </summary>
 
 
+- [2020-09-07-网页设计，大屏幕下全宽度，图片和文字看起来太大，怎么破](https://www.v2ex.com/t/704979) ![](assets/new.png)  
+- [2020-09-07-杭州-蚂蚁金服-Java-开发/数据开发-商家增长团队又又又又在期待你的加入！机会多多，等你来挑战！](https://www.v2ex.com/t/704978) ![](assets/new.png)  
 - [2020-09-07-应届毕业生需要把社团经历放上简历上面去吗，求职意向安全类](https://www.v2ex.com/t/704976) ![](assets/new.png)  
 - [2020-09-07-要怎么选择工作，专业相关？兴趣爱好？其他？](https://www.v2ex.com/t/704974) ![](assets/new.png)  
 - [2020-09-07-腾讯社招-腾讯开心鼠-ABCmouse-团队招聘前端、高级前端工程师！快速安排面试！](https://www.v2ex.com/t/704973) ![](assets/new.png)  
@@ -1055,8 +1057,6 @@
 - [2020-09-07-收电子发票-滴滴打车](https://www.v2ex.com/t/704955) ![](assets/new.png)  
 - [2020-09-07-红米-K30（不带-pro）和至尊纪念版差在哪里？不关注哪些方面的人没必要加这个钱？](https://www.v2ex.com/t/704954) ![](assets/new.png)  
 - [2020-09-07-郑州-瑞茂通/易煤网-内推，求-Java-、前端大佬，-base-郑州，-A-股上市公司](https://www.v2ex.com/t/704952) ![](assets/new.png)  
-- [2020-09-07-电信提速出-BUG-了？](https://www.v2ex.com/t/704951) ![](assets/new.png)  
-- [2020-09-07-求助-iPad-pencil-随手写输入汉字默认出现的是繁体，如何修改为简体？](https://www.v2ex.com/t/704949) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

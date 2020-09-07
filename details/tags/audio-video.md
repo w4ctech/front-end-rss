@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-07 12:32:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-07 12:38:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -22,5 +22,6 @@
 - [2020-09-06-PC端、移动端Video自动播放兼容完美解决方案（IOS、安卓、微信端）](https://juejin.im/post/6869587681458782215) 
 - [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) 
 - [2020-09-07-有小米/明基的挂灯以后，摄像头挂哪里？](https://www.v2ex.com/t/704943) 
+- [2020-09-07-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) 
 - [2020-09-07-【视频】|-Python:赋值运算符及内存分析](https://sec.thief.one/article_content?a_id=253d594484e42ab0b49b0c27f98e4fd0) 
 - [2020-09-05-【视频】|-Python:练习英雄联盟](https://sec.thief.one/article_content?a_id=0bacafbbe8c7eee2a1de1d470ed258eb) 

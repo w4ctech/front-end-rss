@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-07 12:32:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-07 12:38:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -158,7 +158,6 @@
 - [【奇舞周刊】看了就懂的-AST-和-Babel-工作流程](https://www.ershicimi.com/p/513c95d0a3d66fee1cfe93fe2d3b671b)
 - [【JavaScript】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【开发者头条】推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -371,6 +370,7 @@
 - [【掘金前端】PC端、移动端Video自动播放兼容完美解决方案（IOS、安卓、微信端）](https://juejin.im/post/6869587681458782215)
 - [【知乎日报】「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec)
 - [【V2EX】有小米/明基的挂灯以后，摄像头挂哪里？](https://www.v2ex.com/t/704943)
+- [【开发者头条】推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89)
 - [【安全热点】【视频】|-Python:赋值运算符及内存分析](https://sec.thief.one/article_content?a_id=253d594484e42ab0b49b0c27f98e4fd0)
 - [【安全热点】【视频】|-Python:练习英雄联盟](https://sec.thief.one/article_content?a_id=0bacafbbe8c7eee2a1de1d470ed258eb)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -407,6 +407,8 @@
 - [【互联网架构师】重磅！！Gradle-6.6-发布，大幅提升性能！](https://www.ershicimi.com/p/5bae6c72a775ac5d441656380ded66ae)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e)
+- [【开发者头条】推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts)
+- [【开发者头条】推荐-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -436,13 +438,13 @@
 - [【V2EX】应届毕业生需要把社团经历放上简历上面去吗，求职意向安全类](https://www.v2ex.com/t/704976)
 - [【技术头条】如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】网络安全逐渐成为程序员的必备技能](https://toutiao.io/k/9rtsqxv)
+- [【开发者头条】推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9)
 - [【安全热点】干货-|GitHUB安全搬运工-Ⅱ](https://sec.thief.one/article_content?a_id=a98cb538f72f6c6f6980560de321f7cf)
 - [【安全热点】2020年中国网络安全市场全景图](https://sec.thief.one/article_content?a_id=3f199baa933811393820ea6f1c60184f)
 - [【安全热点】《信息安全技术-网络安全等级保护测评机构能力要求和评估规范》全文](https://sec.thief.one/article_content?a_id=3d794a2c287ef1df7d3c46609be85e8b)
 - [【安全热点】欧盟5G安全政策对我国产业影响的思考](https://sec.thief.one/article_content?a_id=effed41b9a78e59815a7bd5c8e4ebf55)
 - [【安全热点】先声夺人|首份中国互联网云安全技术专利分析报告出炉:腾讯获多项第...](https://sec.thief.one/article_content?a_id=939279900533209bf0976f59293ecd3c)
 - [【安全热点】信息安全漏洞月报2020年8月](https://sec.thief.one/article_content?a_id=31defa7d9dc60a91f7749a45a9bac7c0)
-- [【安全热点】【安全热点周报】第158期:Windows-10发布新补丁导致设备蓝屏不断](https://sec.thief.one/article_content?a_id=5131d33f94907f80f0de8a5b3b8bb36c)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

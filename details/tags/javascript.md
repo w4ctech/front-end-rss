@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-07 13:32:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-07 13:34:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,6 +18,7 @@
 - [2020-08-25-23条JavaScript初学者应知的最佳实践方法](https://www.ershicimi.com/p/d909ffd10b2489b792a673d653734ebb) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
+- [2020-09-04-【第2055期】如何用JavaScript检测空闲的浏览器标签](https://www.ershicimi.com/p/c32e4b47cdc9760e316fc3ad69997cf3) 
 - [2020-09-01-组件库主题设计方案](https://www.ershicimi.com/p/fc0000487bd88250eda0ec26b8190db1) 
 - [2020-08-28-是谁动了我的-DOM？](https://www.ershicimi.com/p/876fdf28d2d3525c89d6ec8c706ee990) 
 - [2020-09-06-包邮送8本《JavaScript编程精解》老鹰书](https://www.ershicimi.com/p/25c40b36c19ea0c48376bf45324e53f9) 

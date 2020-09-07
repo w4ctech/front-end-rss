@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-07 17:32:15，:rocket: 更新条数: +742， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-07 17:34:24，:rocket: 更新条数: +3387， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-09-06-最新疫情：全国新冠累计确诊85134例-新增境外输入12例](https://m.caixin.com/m/2020-09-07/101602077.html) ![](assets/new.png)  
+- [2020-09-06-最新海外疫情：新冠感染超2699万-累计死亡近88万](http://m.international.caixin.com/m/2020-09-07/101602196.html) ![](assets/new.png)  
+- [2020-09-06-【境内疫情观察】全国新增12例境外输入病例（9月6日）](http://m.database.caixin.com/m/2020-09-07/101602132.html) ![](assets/new.png)  
+- [2020-09-06-大流行手记|9月6日：印度疫情蔓延迅速-美药企拟联合声明拒绝疫苗仓促上市](https://m.caixin.com/m/2020-09-07/101602016.html) ![](assets/new.png)  
+- [2020-09-06-美专家：如何看待疫情，美两党选民差异显著](http://m.international.caixin.com/m/2020-09-07/101602182.html) ![](assets/new.png)  
+- [2020-09-05-【境内疫情观察】全国新增10例境外输入病例（9月5日）](http://m.database.caixin.com/m/2020-09-06/101601891.html) ![](assets/new.png)  
+- [2020-09-05-大流行手记|9月5日：法国22所学校现疫情被关闭-研究预测美国今年新冠病死41万人](https://m.caixin.com/m/2020-09-06/101601876.html) ![](assets/new.png)  
+- [2020-09-04-【境内疫情观察】全国连续20日无新增本土病例（9月4日）](http://m.database.caixin.com/m/2020-09-05/101601775.html) ![](assets/new.png)  
+- [2020-09-04-大流行手记|9月4日：WHO称暂无疫苗保护率超50%-九成国家基本卫生服务受打击](https://m.caixin.com/m/2020-09-05/101601701.html) ![](assets/new.png)  
+- [2020-09-04-美疾控吁各州做好11月初分发疫苗准备-官员称与选举无关](http://m.international.caixin.com/m/2020-09-05/101601647.html) ![](assets/new.png)  
+- [2020-09-03-香港全民检测-化验21万人4宗确诊](http://m.china.caixin.com/m/2020-09-04/101601542.html) ![](assets/new.png)  
+- [2020-09-03-【境内疫情观察】广东新增13例境外输入病例（9月3日）](http://m.database.caixin.com/m/2020-09-04/101601203.html) ![](assets/new.png)  
+- [2020-09-03-大流行手记|9月3日：印度日新增病例超8万-美国拟大选前大规模分发疫苗](https://m.caixin.com/m/2020-09-04/101601074.html) ![](assets/new.png)  
+- [2020-09-02-【境内疫情观察】全国新增11例境外输入病例（9月2日）](http://m.database.caixin.com/m/2020-09-03/101600745.html) ![](assets/new.png)  
+- [2020-09-02-大流行手记|9月2日：美拒绝参与全球新冠疫苗计划-日本拟免费全民接种](https://m.caixin.com/m/2020-09-03/101600607.html) ![](assets/new.png)  
+- [2020-09-02-耶鲁公卫院长：疫苗民族主义无法终结全球大流行病](http://m.international.caixin.com/m/2020-09-03/101600933.html) ![](assets/new.png)  
+- [2020-09-02-83岁贝卢斯科尼确诊新冠-叱咤意大利政商多年谤誉一身](http://m.international.caixin.com/m/2020-09-03/101600827.html) ![](assets/new.png)  
+- [2020-09-01-新疆所有户外景区今起恢复开放-跨省游亦重启](http://m.companies.caixin.com/m/2020-09-02/101600371.html) ![](assets/new.png)  
+- [2020-09-01-【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html) ![](assets/new.png)  
+- [2020-09-01-大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1057,26 @@
 </summary>
 
 
+- [2020-09-07-测试环境数据库等都在内网，如何本地开发？](https://www.v2ex.com/t/705034) ![](assets/new.png)  
+- [2020-09-07-《住房租赁条例（征求意见稿）》公开征求意见](https://www.v2ex.com/t/705033) ![](assets/new.png)  
+- [2020-09-07-如何让-websocket-连接走代理？](https://www.v2ex.com/t/705032) ![](assets/new.png)  
+- [2020-09-07-有感于微信公众号的广告...](https://www.v2ex.com/t/705031) ![](assets/new.png)  
+- [2020-09-07-使用过-AWS-DynamoDB-的大神看过来，关于分页有问题](https://www.v2ex.com/t/705030) ![](assets/new.png)  
+- [2020-09-07-甲骨文韩国机房还能开出机器吗?](https://www.v2ex.com/t/705029) ![](assets/new.png)  
+- [2020-09-07-坚持了半年独立开发，如今每天收入依旧不到-50-块钱，方向有问题吗？](https://www.v2ex.com/t/705028) ![](assets/new.png)  
+- [2020-09-07-文章分享，十分钟包教包会写个炫酷应用《serverless-实战-从零开始实现图片艺术化应用》](https://www.v2ex.com/t/705027) ![](assets/new.png)  
+- [2020-09-07-怎么样能够安全、可靠、快速地只删除-APP-文稿，而保留-APP-以及系统设置？](https://www.v2ex.com/t/705026) ![](assets/new.png)  
+- [2020-09-07-如何学习数据库建表](https://www.v2ex.com/t/705025) ![](assets/new.png)  
+- [2020-09-07-负能量-突然感觉自己好垃圾](https://www.v2ex.com/t/705024) ![](assets/new.png)  
+- [2020-09-07-QQ-邮箱自动关闭-Exchange-等收信服务](https://www.v2ex.com/t/705023) ![](assets/new.png)  
+- [2020-09-07-Java-io-中的带缓冲的-inputstream-读取时，缓冲区为什么不用清除啊？](https://www.v2ex.com/t/705022) ![](assets/new.png)  
+- [2020-09-07-有个良心云闲置的-1-核-2G1M-学生机，做点什么好呢](https://www.v2ex.com/t/705021) ![](assets/new.png)  
+- [2020-09-07-阿里旗下--全球速卖通商家后台的-菜鸟物流服务管理-页面，只能看到投诉工单，看不到咨询工单](https://www.v2ex.com/t/705020) ![](assets/new.png)  
+- [2020-09-07-想知道-EVE-手游国际服有没有开放-API，或者有没有开放-API-的打算](https://www.v2ex.com/t/705019) ![](assets/new.png)  
+- [2020-09-07-后天去成都起诉满城房产。](https://www.v2ex.com/t/705018) ![](assets/new.png)  
+- [2020-09-07-小米内推北京-武汉-南京-深圳-上海-海外](https://www.v2ex.com/t/705017) ![](assets/new.png)  
+- [2020-09-07-macbookpro-2020-13-寸-删除键问题](https://www.v2ex.com/t/705016) ![](assets/new.png)  
+- [2020-09-07-iMac-27-2019-款问价～](https://www.v2ex.com/t/705015) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -3936,10 +3936,36 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "为什么你老是讲不清楚js的继承模式",
+        "link": "https://juejin.im/post/6869689622676471816",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "潮流前端周刊（第 1 期）",
+        "link": "https://juejin.im/post/6869686334450368525",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "前端工程师也能玩转深度学习--数据集处理篇",
+        "link": "https://juejin.im/post/6869676936008826894",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "CSS 中的层叠上下文",
+        "link": "https://juejin.im/post/6869654419609387022",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "从源码对react-router v5进行原理分析(一)",
+        "link": "https://juejin.im/post/6869650649621987336",
+        "date": "2020-09-06"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -4099,7 +4125,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4673,13 +4699,13 @@
         "date": "2020-09-07"
       },
       {
-        "title": "目标检测入门学习笔记",
-        "link": "https://toutiao.io/k/a46hm3i",
+        "title": "Kotlin 1.4 中的语法改动",
+        "link": "https://toutiao.io/k/x4cevzl",
         "date": "2020-09-07"
       },
       {
-        "title": "Kotlin 1.4 中的语法改动",
-        "link": "https://toutiao.io/k/x4cevzl",
+        "title": "目标检测入门学习笔记",
+        "link": "https://toutiao.io/k/a46hm3i",
         "date": "2020-09-07"
       },
       {
@@ -4713,23 +4739,8 @@
         "date": "2020-09-07"
       },
       {
-        "title": "[推荐] 使用 Spring Boot DevTools 优化你的开发体验",
-        "link": "https://toutiao.io/k/e6fskts",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
-        "link": "https://toutiao.io/k/8r5oqql",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "[推荐] 如何做一个懂产品的程序员？",
-        "link": "https://toutiao.io/k/xeriwdj",
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-07"
       },
       {
@@ -4738,23 +4749,8 @@
         "date": "2020-09-07"
       },
       {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
+        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
+        "link": "https://toutiao.io/k/749snp6",
         "date": "2020-09-07"
       },
       {
@@ -4773,18 +4769,48 @@
         "date": "2020-09-07"
       },
       {
-        "title": "[推荐] 程序日志级别规范",
-        "link": "https://toutiao.io/k/sf65q0v",
+        "title": "[推荐] 如何做一个懂产品的程序员？",
+        "link": "https://toutiao.io/k/xeriwdj",
         "date": "2020-09-07"
       },
       {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
+        "link": "https://toutiao.io/k/3lp54k3",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
         "date": "2020-09-07"
       },
       {
         "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
         "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
+        "link": "https://toutiao.io/k/jhsjj8v",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
+        "link": "https://toutiao.io/k/8r5oqql",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-07"
       }
     ]

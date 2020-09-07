@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-07 07:03:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-07 07:12:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,4 +7,5 @@
 
 
 
+- [2020-08-29-微信内测新功能「群直播」来了](https://www.ershicimi.com/p/2e0190b02bd398710ace1bda794533a1) 
 - [2020-09-05-【视频】|-Python:练习英雄联盟](https://sec.thief.one/article_content?a_id=0bacafbbe8c7eee2a1de1d470ed258eb) 

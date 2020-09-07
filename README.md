@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-07 11:47:00，:rocket: 更新条数: +964， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-07 11:48:55，:rocket: 更新条数: +3605， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-09-06-最新疫情：全国新冠累计确诊85134例-新增境外输入12例](https://m.caixin.com/m/2020-09-07/101602077.html) ![](assets/new.png)  
+- [2020-09-06-最新海外疫情：新冠感染超2699万-累计死亡近88万](http://m.international.caixin.com/m/2020-09-07/101602196.html) ![](assets/new.png)  
+- [2020-09-06-【境内疫情观察】全国新增12例境外输入病例（9月6日）](http://m.database.caixin.com/m/2020-09-07/101602132.html) ![](assets/new.png)  
+- [2020-09-06-大流行手记|9月6日：印度疫情蔓延迅速-美药企拟联合声明拒绝疫苗仓促上市](https://m.caixin.com/m/2020-09-07/101602016.html) ![](assets/new.png)  
+- [2020-09-06-美专家：如何看待疫情，美两党选民差异显著](http://m.international.caixin.com/m/2020-09-07/101602182.html) ![](assets/new.png)  
+- [2020-09-05-【境内疫情观察】全国新增10例境外输入病例（9月5日）](http://m.database.caixin.com/m/2020-09-06/101601891.html) ![](assets/new.png)  
+- [2020-09-05-大流行手记|9月5日：法国22所学校现疫情被关闭-研究预测美国今年新冠病死41万人](https://m.caixin.com/m/2020-09-06/101601876.html) ![](assets/new.png)  
+- [2020-09-04-【境内疫情观察】全国连续20日无新增本土病例（9月4日）](http://m.database.caixin.com/m/2020-09-05/101601775.html) ![](assets/new.png)  
+- [2020-09-04-大流行手记|9月4日：WHO称暂无疫苗保护率超50%-九成国家基本卫生服务受打击](https://m.caixin.com/m/2020-09-05/101601701.html) ![](assets/new.png)  
+- [2020-09-04-美疾控吁各州做好11月初分发疫苗准备-官员称与选举无关](http://m.international.caixin.com/m/2020-09-05/101601647.html) ![](assets/new.png)  
+- [2020-09-03-香港全民检测-化验21万人4宗确诊](http://m.china.caixin.com/m/2020-09-04/101601542.html) ![](assets/new.png)  
+- [2020-09-03-【境内疫情观察】广东新增13例境外输入病例（9月3日）](http://m.database.caixin.com/m/2020-09-04/101601203.html) ![](assets/new.png)  
+- [2020-09-03-大流行手记|9月3日：印度日新增病例超8万-美国拟大选前大规模分发疫苗](https://m.caixin.com/m/2020-09-04/101601074.html) ![](assets/new.png)  
+- [2020-09-02-【境内疫情观察】全国新增11例境外输入病例（9月2日）](http://m.database.caixin.com/m/2020-09-03/101600745.html) ![](assets/new.png)  
+- [2020-09-02-大流行手记|9月2日：美拒绝参与全球新冠疫苗计划-日本拟免费全民接种](https://m.caixin.com/m/2020-09-03/101600607.html) ![](assets/new.png)  
+- [2020-09-02-耶鲁公卫院长：疫苗民族主义无法终结全球大流行病](http://m.international.caixin.com/m/2020-09-03/101600933.html) ![](assets/new.png)  
+- [2020-09-02-83岁贝卢斯科尼确诊新冠-叱咤意大利政商多年谤誉一身](http://m.international.caixin.com/m/2020-09-03/101600827.html) ![](assets/new.png)  
+- [2020-09-01-新疆所有户外景区今起恢复开放-跨省游亦重启](http://m.companies.caixin.com/m/2020-09-02/101600371.html) ![](assets/new.png)  
+- [2020-09-01-【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html) ![](assets/new.png)  
+- [2020-09-01-大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -271,6 +291,26 @@
 </summary>
 
 
+- [2020-09-07-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/88f43dd714f8230fa1990c43875ccaaa) ![](assets/new.png)  
+- [2020-09-07-『初中级前端必看』谈谈如何更有质量地看源码](https://www.ershicimi.com/p/6c9cb578b2408d6fb0c749f932efba8f) ![](assets/new.png)  
+- [2020-09-06-包邮送8本《JavaScript编程精解》老鹰书](https://www.ershicimi.com/p/25c40b36c19ea0c48376bf45324e53f9) ![](assets/new.png)  
+- [2020-09-04-10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/f760bf4660bc70afed5083b15fa800e7) ![](assets/new.png)  
+- [2020-09-03-提升低端设备的-Web-性能](https://www.ershicimi.com/p/ec186f5390fd3818a116bfc2d75d0588) ![](assets/new.png)  
+- [2020-09-02-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/78488999aa15733fab661ea4fee9e62c) ![](assets/new.png)  
+- [2020-09-01-看了28岁华为员工的工资表才知道：牛逼的人注定会牛逼](https://www.ershicimi.com/p/863c36c51ecb470781408d31cc99669e) ![](assets/new.png)  
+- [2020-09-01-整理几个超实用的前端提效-shell-命令](https://www.ershicimi.com/p/36f845b565e38d48f70d248590eff751) ![](assets/new.png)  
+- [2020-08-31-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/a9337d0dd478f3fdf1e4bd2da7a9a315) ![](assets/new.png)  
+- [2020-08-29-什么时候适合使用-Map-而不是-Object](https://www.ershicimi.com/p/e273470c288b15e9148f7bfe4314d588) ![](assets/new.png)  
+- [2020-08-29-疯传！某大厂P8面试题库遭到泄露！](https://www.ershicimi.com/p/f91c2932a95bee7f1b4c9e22ef33958e) ![](assets/new.png)  
+- [2020-08-28-前阿里手淘前端负责人@winter：前端人如何保持竞争力？](https://www.ershicimi.com/p/2f5718bda413c1dd648ddb27aead15f4) ![](assets/new.png)  
+- [2020-08-28-Angular-发布首个正式的路线图](https://www.ershicimi.com/p/cdedd10d05bd067549323b47daa0f016) ![](assets/new.png)  
+- [2020-08-27-React谁都会，你的优势在哪里？](https://www.ershicimi.com/p/0d3e10257b30fd97f94b37c3b1b1e35c) ![](assets/new.png)  
+- [2020-08-27-前端必会---CDN加速原理](https://www.ershicimi.com/p/1976b81f1ce62b7eeacdd4115f8909f8) ![](assets/new.png)  
+- [2020-08-26-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/8dbc379c5d917edda3916a4d6d41fa85) ![](assets/new.png)  
+- [2020-08-25-有些公司开始裁人了，慌得一批](https://www.ershicimi.com/p/62960e68af97a69ac3caccbc63bf3ab4) ![](assets/new.png)  
+- [2020-08-25-手把手教你搭建一个灰度发布环境](https://www.ershicimi.com/p/c46da7e99d94426f6480256c851b93ac) ![](assets/new.png)  
+- [2020-08-24-Vue-强烈推介的实用技巧](https://www.ershicimi.com/p/2a3c298ec2183d8a7fa17372439a5bc1) ![](assets/new.png)  
+- [2020-08-21-为什么阿里P6+前端这么值钱？​](https://www.ershicimi.com/p/f369e347356fcc2cffd602023dc02e19) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1006,6 +1046,26 @@
 </summary>
 
 
+- [2020-08-25-2020-年，你有哪些与爱情有关的独特回忆？](https://www.ershicimi.com/p/cfa70b8c00d6769439ecb260dc0819dd) ![](assets/new.png)  
+- [2020-08-25-马薇薇-VS-李思恒，这次谁能赢？！](https://www.ershicimi.com/p/9e23c35b8eb07becb2a1bbfa25fef78f) ![](assets/new.png)  
+- [2020-08-25-朋友圈里的熬夜冠军都在看什么？](https://www.ershicimi.com/p/8b2fda0d3ce9857c905f025c33c20a99) ![](assets/new.png)  
+- [2020-08-25-知乎故事-|-婚姻真的是逃不掉的缘分吗？](https://www.ershicimi.com/p/d4f6682fd6d4e3148ffdac7568a5365c) ![](assets/new.png)  
+- [2020-08-24-知乎高赞：你在生活中见过哪些高情商的行为？](https://www.ershicimi.com/p/a1830955fd61ed239cd17d512dc89771) ![](assets/new.png)  
+- [2020-08-24-明天就七夕了，还没做好准备怎么办？](https://www.ershicimi.com/p/ab8c8a8c4699e42b3700fafe00125fe6) ![](assets/new.png)  
+- [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) ![](assets/new.png)  
+- [2020-08-24-知乎故事-|-你有没有被一句话伤了很久？](https://www.ershicimi.com/p/c1aa7e23cbdfaf7edca2c1a80b7c0ebd) ![](assets/new.png)  
+- [2020-08-23-本周知乎热榜-|「黑悟空」火了，特斯拉「大战」拼多多了，苹果市值突破两万亿了](https://www.ershicimi.com/p/263fc928a790d21ebfdbccf616621277) ![](assets/new.png)  
+- [2020-08-23-2020-年大学生高性价比笔记本电脑选购指南](https://www.ershicimi.com/p/96972cc9895f30e0bde1b306acbd9d7e) ![](assets/new.png)  
+- [2020-08-23-知乎故事-|-养一只狗超过-10-年是种怎样的体验？](https://www.ershicimi.com/p/5d66972819f01e0ff0483af3944a5f9d) ![](assets/new.png)  
+- [2020-08-21-知乎神吐槽-|-十九岁有女票和稳定的性生活，在中国算什么水平？](https://www.ershicimi.com/p/f3131cb3e0cc20c6d78c692f786d2a21) ![](assets/new.png)  
+- [2020-08-21-七夕送礼小「能」手](https://www.ershicimi.com/p/7bc0b435782970ef93f8f0967ebea7b4) ![](assets/new.png)  
+- [2020-08-21-微信语音，最反人类的设计](https://www.ershicimi.com/p/1fc313cfa7667be08d2871302365363d) ![](assets/new.png)  
+- [2020-08-21-知乎故事-|-什么样的人才是真正的吃货？](https://www.ershicimi.com/p/2d6597263aa2c3bef68fc03fe152454e) ![](assets/new.png)  
+- [2020-08-20-吃过大蒜后可以立刻吃这几种东西，不然蒜味就进入你的血液了……](https://www.ershicimi.com/p/20dded992a788f61007c3b55c17afffb) ![](assets/new.png)  
+- [2020-08-20-「致知计划动漫游戏季」2-亿流量-30-万现金大奖等你拿](https://www.ershicimi.com/p/e94fbdf2ad8480940d8a7a5d6b48fe61) ![](assets/new.png)  
+- [2020-08-20-口碑绝佳的-9-个公众号，越早知道越好](https://www.ershicimi.com/p/aa8f105a40e8d26eb70c775eb998ced3) ![](assets/new.png)  
+- [2020-08-20-知乎故事-|-买房后你快乐吗？](https://www.ershicimi.com/p/ed173f3dec4a47f97964f77390dfc29f) ![](assets/new.png)  
+- [2020-08-19-飞行员用空姐不雅照威胁其陪睡，遇到类似问题时，我们应该怎么办？](https://www.ershicimi.com/p/31b2e3394c76754b31cc8f11713122c4) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

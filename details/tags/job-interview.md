@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-07 16:12:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-07 16:24:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -35,6 +35,7 @@
 - [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) 
 - [2020-06-18-政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c) 
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
+- [2020-09-01-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/cd5098c850b48905d5cc8c1c72a88c39) 
 - [2020-09-01-面试必考：真的理解-$nextTick-么](https://www.ershicimi.com/p/bb4dac4bedfd0a58d04ed473a522ad71) 
 - [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
 - [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) 
@@ -46,3 +47,4 @@
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-09-07-第四期德国-IT-岗位招聘之-Web-administrator,-Senior-developer-C++,-Second-&-Third-Level-Supporter](https://www.v2ex.com/t/704992) 
 - [2020-09-07-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
+- [2020-09-07-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 

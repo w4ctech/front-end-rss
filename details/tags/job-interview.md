@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 07:22:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 07:32:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -47,3 +47,4 @@
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-09-08-北京/丰台-SkyMed｜安德联智秋季招聘](https://www.v2ex.com/t/705174) 
 - [2020-09-08-北京-作业帮-招聘测试开发工程师-15-25K](https://www.v2ex.com/t/705170) 
+- [2020-09-08-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 

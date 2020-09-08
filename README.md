@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-08 07:34:45，:rocket: 更新条数: +3380， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-08 07:47:13，:rocket: 更新条数: +775， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-09-07-港专家：婴儿粪便新冠病毒量高出成人多倍](http://m.china.caixin.com/m/2020-09-08/101602464.html) ![](assets/new.png)  
-- [2020-09-07-全国抗击新冠肺炎疫情表彰大会举行-习近平颁授勋章奖章并讲话](http://m.china.caixin.com/m/2020-09-08/101602614.html) ![](assets/new.png)  
-- [2020-09-07-【境内疫情观察】新疆现有确诊病例和无症状感染者全部清零（9月7日）](http://m.database.caixin.com/m/2020-09-08/101602534.html) ![](assets/new.png)  
-- [2020-09-07-大流行手记|9月7日：英国疫情抬头-印度感染人数超巴西成全球第二](https://m.caixin.com/m/2020-09-08/101602427.html) ![](assets/new.png)  
-- [2020-09-06-最新疫情：全国新冠累计确诊85134例-新增境外输入12例](https://m.caixin.com/m/2020-09-07/101602077.html) ![](assets/new.png)  
-- [2020-09-06-最新海外疫情：新冠感染超2699万-累计死亡近88万](http://m.international.caixin.com/m/2020-09-07/101602196.html) ![](assets/new.png)  
-- [2020-09-06-【境内疫情观察】全国新增12例境外输入病例（9月6日）](http://m.database.caixin.com/m/2020-09-07/101602132.html) ![](assets/new.png)  
-- [2020-09-06-大流行手记|9月6日：印度疫情蔓延迅速-美药企拟联合声明拒绝疫苗仓促上市](https://m.caixin.com/m/2020-09-07/101602016.html) ![](assets/new.png)  
-- [2020-09-06-美专家：如何看待疫情，美两党选民差异显著](http://m.international.caixin.com/m/2020-09-07/101602182.html) ![](assets/new.png)  
-- [2020-09-05-【境内疫情观察】全国新增10例境外输入病例（9月5日）](http://m.database.caixin.com/m/2020-09-06/101601891.html) ![](assets/new.png)  
-- [2020-09-05-大流行手记|9月5日：法国22所学校现疫情被关闭-研究预测美国今年新冠病死41万人](https://m.caixin.com/m/2020-09-06/101601876.html) ![](assets/new.png)  
-- [2020-09-04-【境内疫情观察】全国连续20日无新增本土病例（9月4日）](http://m.database.caixin.com/m/2020-09-05/101601775.html) ![](assets/new.png)  
-- [2020-09-04-大流行手记|9月4日：WHO称暂无疫苗保护率超50%-九成国家基本卫生服务受打击](https://m.caixin.com/m/2020-09-05/101601701.html) ![](assets/new.png)  
-- [2020-09-04-美疾控吁各州做好11月初分发疫苗准备-官员称与选举无关](http://m.international.caixin.com/m/2020-09-05/101601647.html) ![](assets/new.png)  
-- [2020-09-03-香港全民检测-化验21万人4宗确诊](http://m.china.caixin.com/m/2020-09-04/101601542.html) ![](assets/new.png)  
-- [2020-09-03-【境内疫情观察】广东新增13例境外输入病例（9月3日）](http://m.database.caixin.com/m/2020-09-04/101601203.html) ![](assets/new.png)  
-- [2020-09-03-大流行手记|9月3日：印度日新增病例超8万-美国拟大选前大规模分发疫苗](https://m.caixin.com/m/2020-09-04/101601074.html) ![](assets/new.png)  
-- [2020-09-02-【境内疫情观察】全国新增11例境外输入病例（9月2日）](http://m.database.caixin.com/m/2020-09-03/101600745.html) ![](assets/new.png)  
-- [2020-09-02-大流行手记|9月2日：美拒绝参与全球新冠疫苗计划-日本拟免费全民接种](https://m.caixin.com/m/2020-09-03/101600607.html) ![](assets/new.png)  
-- [2020-09-02-耶鲁公卫院长：疫苗民族主义无法终结全球大流行病](http://m.international.caixin.com/m/2020-09-03/101600933.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1037,11 @@
 </summary>
 
 
+- [2020-09-08-蒲公英要人脸认证了](https://www.v2ex.com/t/705223) ![](assets/new.png)  
+- [2020-09-08-上海招聘嵌入式开发（驱动方向岗，有换工作的哥哥们可以看看。](https://www.v2ex.com/t/705222) ![](assets/new.png)  
+- [2020-09-08-为什么少有（或者几乎没有）人开/上-1Password-的车？还是我没找到？](https://www.v2ex.com/t/705221) ![](assets/new.png)  
+- [2020-09-08-恕我直言，小程序云开发的-ServerDate是很烂的设计](https://www.v2ex.com/t/705220) ![](assets/new.png)  
+- [2020-09-08-吐槽一波-Sony-WF1000XM3](https://www.v2ex.com/t/705218) ![](assets/new.png)  
 - [2020-09-08-MacOS-自动切换-APP-当前输入法小工具-1.2.10-更新](https://www.v2ex.com/t/705212) ![](assets/new.png)  
 - [2020-09-08-深圳--阿里巴巴投资的-D-轮科技品牌--坚果智能投影仪-招-Java-；校招社招（含内推）](https://www.v2ex.com/t/705211) ![](assets/new.png)  
 - [2020-09-08-Gradle-中修改了-apk-的输出目录，-Android-Studio-中调试-app-的时候找不到对应的-apk-文件。](https://www.v2ex.com/t/705210) ![](assets/new.png)  
@@ -1072,11 +1057,6 @@
 - [2020-09-08-哪个云服务平台的语音识别准确度较高？](https://www.v2ex.com/t/705197) ![](assets/new.png)  
 - [2020-09-08-远程工作---Nomisma-区块链金融初创招-DevOps-工程师](https://www.v2ex.com/t/705196) ![](assets/new.png)  
 - [2020-09-08-Firebase-是不是丢数据呐？](https://www.v2ex.com/t/705195) ![](assets/new.png)  
-- [2020-09-08-终于发了一次-技术帖-PHP-TP5-自定义命令行-异步-人脸识别-阿里云](https://www.v2ex.com/t/705194) ![](assets/new.png)  
-- [2020-09-08-很多网站的发送邮件服务是怎么成功发送到用户邮箱里的？](https://www.v2ex.com/t/705193) ![](assets/new.png)  
-- [2020-09-08-svn-下载-git-的单个目录，-git-多分支情况下，下回来的是哪个分支？](https://www.v2ex.com/t/705190) ![](assets/new.png)  
-- [2020-09-08-宽带送的机顶盒能不能提取点播的-apk](https://www.v2ex.com/t/705188) ![](assets/new.png)  
-- [2020-09-08-最近喜欢上了读英语词典](https://www.v2ex.com/t/705186) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,8 +1112,8 @@
 - [2020-09-08-Kotlin-源码里成吨的-noinline-和-crossinline-是干嘛的？看完这个视频你转头也写了一吨](https://toutiao.io/k/xvi1d56) ![](assets/new.png)  
 - [2020-09-08-Go：gops-如何与-Go-运行时交互？](https://toutiao.io/k/wnm57uf) ![](assets/new.png)  
 - [2020-09-08-火花四射，当字体设计遇上机器学习](https://toutiao.io/k/39b75s7) ![](assets/new.png)  
-- [2020-09-08-Spring-5-中文解析核心篇：IoC-容器之-Spring-AOP-API](https://toutiao.io/k/bw4v40a) ![](assets/new.png)  
 - [2020-09-08-分布式系统的核心：共识问题](https://toutiao.io/k/yuo5idd) ![](assets/new.png)  
+- [2020-09-08-Spring-5-中文解析核心篇：IoC-容器之-Spring-AOP-API](https://toutiao.io/k/bw4v40a) ![](assets/new.png)  
 - [2020-09-08-高效能人士的-2-个习惯：以终为始与要事第一](https://toutiao.io/k/awuv747) ![](assets/new.png)  
 - [2020-09-08-Prometheus-监控神器：服务发现篇（三）](https://toutiao.io/k/11k5gr2) ![](assets/new.png)  
 - [2020-09-08-云原生技术研究：Cilium-网络概述](https://toutiao.io/k/lohfj9v) ![](assets/new.png)  

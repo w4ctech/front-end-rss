@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 01:37:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 01:47:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-09-02-浏览器中的跨域问题与-CORS](https://www.ershicimi.com/p/a482ed736bf2f7834bbbab4735420960) 
 - [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) 
 - [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
 - [2020-09-04-如何防止重复发送ajax请求](https://www.ershicimi.com/p/98a8850e1ffb750ead2a74a1665adb83) 
@@ -21,15 +20,6 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-09-07-如何让-websocket-连接走代理？](https://www.v2ex.com/t/705032) 
-- [2020-09-07-怎么样能够安全、可靠、快速地只删除-APP-文稿，而保留-APP-以及系统设置？](https://www.v2ex.com/t/705026) 
-- [2020-09-08-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-08-终于弄明白了-Singleton,Transient,Scoped-的作用域是如何实现的](https://toutiao.io/k/qq1az5m) 
-- [2020-09-08-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-07-ISC-2020-大数据产业安全创新在线研讨会丨左晓栋:重要数据识别研...](https://sec.thief.one/article_content?a_id=923be0c428edd6197a0f3bd9b0f41cd1) 
 - [2020-09-07-亮相服贸会:奇安信内生安全框架助力新基建与数字化转型](https://sec.thief.one/article_content?a_id=5fc0a2a136d9fa53d83406d2ef9720dc) 
 - [2020-09-07-干货-|GitHUB安全搬运工-Ⅱ](https://sec.thief.one/article_content?a_id=a98cb538f72f6c6f6980560de321f7cf) 

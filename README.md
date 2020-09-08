@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-08 00:32:06，:rocket: 更新条数: +771， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-08 00:59:09，:rocket: 更新条数: +774， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -927,6 +927,11 @@
 </summary>
 
 
+- [2020-09-07-食堂店小二儿教你学会栈](https://juejin.im/post/6869785753958907912) ![](assets/new.png)  
+- [2020-09-07-潮流前端周刊（第-1-期）](https://juejin.im/post/6869686334450368525) ![](assets/new.png)  
+- [2020-09-07-前端工程师也能玩转深度学习--数据集处理篇](https://juejin.im/post/6869676936008826894) ![](assets/new.png)  
+- [2020-09-07-CSS-中的层叠上下文](https://juejin.im/post/6869654419609387022) ![](assets/new.png)  
+- [2020-09-06-从源码对react-router-v5进行原理分析一](https://juejin.im/post/6869650649621987336) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,9 +1037,12 @@
 </summary>
 
 
+- [2020-09-08-学累了怎么放松](https://www.v2ex.com/t/705048) ![](assets/new.png)  
+- [2020-09-08-为什么-1080p-和-4k-同样是-28-寸的显示器，显示网页图片效果不一样？](https://www.v2ex.com/t/705047) ![](assets/new.png)  
+- [2020-09-08-没决定要不要去北京](https://www.v2ex.com/t/705046) ![](assets/new.png)  
+- [2020-09-08-2-年工作经验-Java-现在去一线城市好找工作嘛](https://www.v2ex.com/t/705045) ![](assets/new.png)  
 - [2020-09-08-如果-John-Ive-不喜欢-iOS-14，他会换哪款-Android-机？](https://www.v2ex.com/t/705043) ![](assets/new.png)  
 - [2020-09-08-架构整洁之道---读书后记](https://www.v2ex.com/t/705042) ![](assets/new.png)  
-- [2020-09-07-如何看待-Scratch-在中国被禁](https://www.v2ex.com/t/705041) ![](assets/new.png)  
 - [2020-09-07-youtube-的车有吗？](https://www.v2ex.com/t/705039) ![](assets/new.png)  
 - [2020-09-07-运维记录](https://www.v2ex.com/t/705037) ![](assets/new.png)  
 - [2020-09-07-家里宽带用公网-IP，需要注意点什么？](https://www.v2ex.com/t/705036) ![](assets/new.png)  
@@ -1049,9 +1057,6 @@
 - [2020-09-07-文章分享，十分钟包教包会写个炫酷应用《serverless-实战-从零开始实现图片艺术化应用》](https://www.v2ex.com/t/705027) ![](assets/new.png)  
 - [2020-09-07-怎么样能够安全、可靠、快速地只删除-APP-文稿，而保留-APP-以及系统设置？](https://www.v2ex.com/t/705026) ![](assets/new.png)  
 - [2020-09-07-如何学习数据库建表](https://www.v2ex.com/t/705025) ![](assets/new.png)  
-- [2020-09-07-负能量-突然感觉自己好垃圾](https://www.v2ex.com/t/705024) ![](assets/new.png)  
-- [2020-09-07-QQ-邮箱自动关闭-Exchange-等收信服务](https://www.v2ex.com/t/705023) ![](assets/new.png)  
-- [2020-09-07-Java-io-中的带缓冲的-inputstream-读取时，缓冲区为什么不用清除啊？](https://www.v2ex.com/t/705022) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,24 +1101,24 @@
 
 - [2020-09-08-工具-|-京东-App-后台中间件](https://toutiao.io/k/0ren1cq) ![](assets/new.png)  
 - [2020-09-08-LeetCode-28：实现-strStr](https://toutiao.io/k/xogyblt) ![](assets/new.png)  
+- [2020-09-08-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
 - [2020-09-08-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
 - [2020-09-08-译-Vue.js-构建工具比较](https://toutiao.io/k/za7y69r) ![](assets/new.png)  
-- [2020-09-08-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-08-算法工程师的数学基础：如何理解概率分布函数和概率密度函数](https://toutiao.io/k/5ntsdsw) ![](assets/new.png)  
 - [2020-09-08-DDD：降低甚至消除问题域和解决方案域的壁垒](https://toutiao.io/k/q1yw3ra) ![](assets/new.png)  
+- [2020-09-08-算法工程师的数学基础：如何理解概率分布函数和概率密度函数](https://toutiao.io/k/5ntsdsw) ![](assets/new.png)  
 - [2020-09-08-Python-一键批量下载抖音无水印视频](https://toutiao.io/k/5disjh5) ![](assets/new.png)  
-- [2020-09-08-Kotlin-源码里成吨的-noinline-和-crossinline-是干嘛的？看完这个视频你转头也写了一吨](https://toutiao.io/k/xvi1d56) ![](assets/new.png)  
 - [2020-09-08-如何提高代码质量](https://toutiao.io/k/b5x6wql) ![](assets/new.png)  
+- [2020-09-08-Kotlin-源码里成吨的-noinline-和-crossinline-是干嘛的？看完这个视频你转头也写了一吨](https://toutiao.io/k/xvi1d56) ![](assets/new.png)  
 - [2020-09-08-终于弄明白了-Singleton,Transient,Scoped-的作用域是如何实现的](https://toutiao.io/k/qq1az5m) ![](assets/new.png)  
-- [2020-09-08-推荐-如何做一个懂产品的程序员？](https://toutiao.io/k/xeriwdj) ![](assets/new.png)  
-- [2020-09-08-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
 - [2020-09-08-推荐-微服务的战争：按什么维度拆分服务](https://toutiao.io/k/3lp54k3) ![](assets/new.png)  
-- [2020-09-08-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-08-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
-- [2020-09-08-推荐-使用-Spring-Boot-DevTools-优化你的开发体验](https://toutiao.io/k/e6fskts) ![](assets/new.png)  
-- [2020-09-08-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-08-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
 - [2020-09-08-推荐-高手都是如何刷-LeetCode-的？|-码农周刊第-315-期](https://toutiao.io/k/sh6tvfh) ![](assets/new.png)  
-- [2020-09-08-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-08-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-08-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-08-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) ![](assets/new.png)  
+- [2020-09-08-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-08-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
+- [2020-09-08-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

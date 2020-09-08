@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 00:32:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 00:59:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -19,10 +19,8 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-07-如何让-websocket-连接走代理？](https://www.v2ex.com/t/705032) 
 - [2020-09-07-怎么样能够安全、可靠、快速地只删除-APP-文稿，而保留-APP-以及系统设置？](https://www.v2ex.com/t/705026) 
-- [2020-09-07-21-届应届毕业生找工作，安全方向，以下是我的简历，有-hr-请添加下面-vx](https://www.v2ex.com/t/704998) 
 - [2020-09-08-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-08-终于弄明白了-Singleton,Transient,Scoped-的作用域是如何实现的](https://toutiao.io/k/qq1az5m) 
-- [2020-09-08-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-07-ISC-2020-大数据产业安全创新在线研讨会丨左晓栋:重要数据识别研...](https://sec.thief.one/article_content?a_id=923be0c428edd6197a0f3bd9b0f41cd1) 
 - [2020-09-07-亮相服贸会:奇安信内生安全框架助力新基建与数字化转型](https://sec.thief.one/article_content?a_id=5fc0a2a136d9fa53d83406d2ef9720dc) 
 - [2020-09-07-干货-|GitHUB安全搬运工-Ⅱ](https://sec.thief.one/article_content?a_id=a98cb538f72f6c6f6980560de321f7cf) 

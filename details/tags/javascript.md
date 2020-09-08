@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 18:03:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 18:12:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,10 @@
 
 
 
+- [2020-01-02-回顾2019-年-JavaScript-现状调查报告](https://www.ershicimi.com/p/9adf10f5eda0e047609c758df13436b0) 
+- [2020-01-01-倏忽一年：回顾点评前端-2019-重大事件、趋势](https://www.ershicimi.com/p/88b10c5e55ecef0583393efa7d466665) 
+- [2019-12-30-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/8afb29a5864bf11ab6723cdc66a0c6ab) 
+- [2019-12-26-如何答一道惊艳面试官的数组去重问题？](https://www.ershicimi.com/p/65b6fbfea2975868732525463c062fdf) 
 - [2020-08-31-组件库主题设计方案](https://www.ershicimi.com/p/bd627e1f5077fcdfcebbd4ab1f52d0b3) 
 - [2020-08-30-JS双等号比较符（“==”）作用细节](https://www.ershicimi.com/p/07f1ee574b986bab870b96fdbc16215e) 
 - [2020-08-29-JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/5bcbb20189299ec55fd6551294609e0f) 
@@ -39,6 +43,8 @@
 - [2020-08-30-JavaScript-经典「红宝书」，几代前端人的入门选择](https://www.ershicimi.com/p/a300a8874b1decab5e5b81361a25288c) 
 - [2020-08-26-H5-秒开方案大全](https://www.ershicimi.com/p/c2c283afe566a9e224000ca0d7844e60) 
 - [2020-08-25-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/194ea3d64d5964fd5067a31dd27bdf7a) 
+- [2020-09-07-XSS攻防实战（附JS源码）](https://www.ershicimi.com/p/fba0b87ae87b1ab532db066a5e22bcbc) 
+- [2020-09-01-关于JavaScript计时器，你需要知道的全部知识](https://www.ershicimi.com/p/42a44afa67100aa54e323f32a716b845) 
 - [2020-09-05-JavaScript红宝书第4版来了「回馈粉丝第二期」](https://www.ershicimi.com/p/f91df0d66af3f4bde48250d36a3dc96f) 
 - [2020-09-02-小技巧不定宽溢出文本适配滚动](https://www.ershicimi.com/p/4cc2a7c0a52dd69ac9affba81aff5a23) 
 - [2020-08-18-前端模块化：CommonJS,AMD,CMD,ES6](https://www.ershicimi.com/p/d2379722a4ae1383e39ba0c43731c031) 
@@ -75,6 +81,13 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-09-07-是谁动了我的-DOM？](https://www.ershicimi.com/p/919bd1ae01862df1ac098dd627d16e0c) 
+- [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4) 
+- [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) 
+- [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
+- [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) 
+- [2020-09-08-正则表达式方法，原来可以这么简单（js）](https://juejin.im/post/6870036651788206093) 
+- [2020-09-08-回味基础：call、apply和bind那些事儿](https://juejin.im/post/6870025360198041607) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -83,6 +96,9 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-09-08-cnzz-的统计-js-经常打开很慢，大家有推荐的速度快点的统计吗](https://www.v2ex.com/t/705351) 
+- [2020-09-08-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-08-【JSRC小课堂预告】漏洞挖掘“骚操作”二如何优雅地寻找Web...](https://sec.thief.one/article_content?a_id=4f407220c1b35fa1823d45bc32a840f6) 
 - [2020-09-08-先导篇-|-《2020安全信息和事件管理SIEM研究报告》即将发布](https://sec.thief.one/article_content?a_id=beff6c5ec9b7b1a17240c29bd61bf08c) 
 - [2020-09-08-Gartner:将有更多CEO为网络安全事件担负个人责任](https://sec.thief.one/article_content?a_id=d3b4473e414ccb296c77fab1af14a69f) 

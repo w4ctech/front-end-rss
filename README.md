@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-08 14:47:08，:rocket: 更新条数: +682， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-08 14:48:52，:rocket: 更新条数: +742， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,14 +21,14 @@
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
 - [React中文社区](#react中文社区)![](assets/dot.png)   
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
@@ -209,6 +209,26 @@
 </summary>
 
 
+- [2020-09-06-【第2057期】随机数的故事](https://www.ershicimi.com/p/30e5cdf40afca89496cf46e7f7211811) ![](assets/new.png)  
+- [2020-09-05-【第2056期】蚂蚁金服@御术：比能力更重要的是你的底层操作系统](https://www.ershicimi.com/p/13bf52c17564c88b2774643ce8ba4346) ![](assets/new.png)  
+- [2020-09-04-【第2055期】如何用JavaScript检测空闲的浏览器标签](https://www.ershicimi.com/p/c32e4b47cdc9760e316fc3ad69997cf3) ![](assets/new.png)  
+- [2020-09-04-【招聘】阿里云GTS交付技术部在西安、成都等地的产品研发测试等岗位招聘啦](https://www.ershicimi.com/p/f79d3baa7325ace1d4b71047702a8095) ![](assets/new.png)  
+- [2020-09-03-【第2054期】不顾一切找圆角-——-Figma-实时平滑圆角方案探究](https://www.ershicimi.com/p/f6bcfa9de57bf2f0f95ae825c1819ea7) ![](assets/new.png)  
+- [2020-09-03-【招聘】字节跳动杭州游戏平台招前端开发实习+社招](https://www.ershicimi.com/p/08b5c48d6117cf5fd86562c555815603) ![](assets/new.png)  
+- [2020-09-02-【第2053期】这才是真正的Git——Git实用技巧](https://www.ershicimi.com/p/7d7385718b77d4f2a7253594e7f9c83a) ![](assets/new.png)  
+- [2020-09-01-React谁都会，你的优势在哪里？](https://www.ershicimi.com/p/adff9b42befe5d8c81e4095e4dab9f68) ![](assets/new.png)  
+- [2020-09-01-【第2052期】保持页脚在底部:Flexbox-vs-Grid](https://www.ershicimi.com/p/42443e8de5b8f50f235e1c17f798afa2) ![](assets/new.png)  
+- [2020-08-31-【第2051期】这才是真正的-Git——分支合并](https://www.ershicimi.com/p/fc9c755034b9025beeb6b565199936fa) ![](assets/new.png)  
+- [2020-08-30-【第2050期】这才是真正的Git——Git内部原理揭秘！](https://www.ershicimi.com/p/a02843f139248ff6303e3ca85c366ae6) ![](assets/new.png)  
+- [2020-08-30-【招聘】阿里淘宝事业群C2M事业部招资深前端开发工程师/P6](https://www.ershicimi.com/p/c66a63b15451a0cf214b48a65d8d58ee) ![](assets/new.png)  
+- [2020-08-29-【第2049期】从第一代-iPhone-细数到-iPhone-12，iPhone-屏幕尺寸进化历程背](https://www.ershicimi.com/p/b67e4fdc4d2b694f53d7a8089bd9c362) ![](assets/new.png)  
+- [2020-08-28-【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a) ![](assets/new.png)  
+- [2020-08-28-【招聘】上海意派信息科技有限公司招前端研发工程师](https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c) ![](assets/new.png)  
+- [2020-08-28-【第2047期】如何使用AVIF：新一代图像压缩格式](https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53) ![](assets/new.png)  
+- [2020-08-26-【第2046期】苹果-App-Clip-技术详解](https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91) ![](assets/new.png)  
+- [2020-08-26-【重磅】飞冰（ICE）终于支持无线开发了](https://www.ershicimi.com/p/0e35a7f9130b107de41f3aa4482b066c) ![](assets/new.png)  
+- [2020-08-25-【第2045期】从零开始实现VS-Code基金插件](https://www.ershicimi.com/p/fb15505fd6f7debd9827389b1cc632aa) ![](assets/new.png)  
+- [2020-08-24-【第2044期】React-Hooks-设计思想](https://www.ershicimi.com/p/63dfed5cb476fa7f223ea64a5df4f28e) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -406,6 +426,26 @@
 </summary>
 
 
+- [2020-09-07-我在近期求职中遇到的前端面试问题及其解法](https://www.ershicimi.com/p/101cfd8ee46ea065ea458331d4ee3033) ![](assets/new.png)  
+- [2020-09-07-五分钟了解-Node.js-Shebang](https://www.ershicimi.com/p/55ff6d0a01c1f059f114915151b165ce) ![](assets/new.png)  
+- [2020-09-07-数字时代，闻“讯”而来](https://www.ershicimi.com/p/12440a2197a4d985d2eb3b2a0ca245af) ![](assets/new.png)  
+- [2020-09-06-前端周报：收入最高的-15-种编程语言榜单出炉；微软宣布关闭-VS-Codespaces；KMM-进](https://www.ershicimi.com/p/82a454d2e35f8f10f209322e2e5b3b9a) ![](assets/new.png)  
+- [2020-09-04-Flutter-在阿里淘系的体系化建设和业务实践](https://www.ershicimi.com/p/df277c7c2479b10b89231f01e349caf2) ![](assets/new.png)  
+- [2020-09-04-滴滴出行小程序多语言-I18n-实践](https://www.ershicimi.com/p/b7e7335bdc2e3e334766965eca9626ba) ![](assets/new.png)  
+- [2020-09-04-来呀，一起造一个简易React！-|-极客大学](https://www.ershicimi.com/p/b35f182ae37593e5cd3c3c5b9d1983fd) ![](assets/new.png)  
+- [2020-09-03-顶级React组件库推荐](https://www.ershicimi.com/p/75ec9a701793f8f8caf737b04c68c802) ![](assets/new.png)  
+- [2020-09-03-前端智能化实践：从图片识别UI样式](https://www.ershicimi.com/p/b2888b1a9a3bdb371ab8ea370ac4dedd) ![](assets/new.png)  
+- [2020-09-02-十年后将要消失的五种编程语言](https://www.ershicimi.com/p/aaf27e6bdc3307989e05fb597131f0f1) ![](assets/new.png)  
+- [2020-09-02-微众正式开源Fes.js：快速、简单、健壮的管理台前端应用](https://www.ershicimi.com/p/df8d37e15035a568568c62ec9f4ff23f) ![](assets/new.png)  
+- [2020-09-02-产业互联网时代不想掉队？鹅厂的这个会你不能错过！-|-活动推荐](https://www.ershicimi.com/p/5cc6b3989df99b55e93436a1b34a631e) ![](assets/new.png)  
+- [2020-09-01-我用React和Vue构建了同款应用，来看看哪里不一样（2020版）](https://www.ershicimi.com/p/0cc0282c4670ccc96d6386c3e3dc4c2e) ![](assets/new.png)  
+- [2020-09-01-让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告](https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9) ![](assets/new.png)  
+- [2020-08-31-一些建议：给当年刚做程序员的我](https://www.ershicimi.com/p/21225df10b21c1ab025627eebf6f5832) ![](assets/new.png)  
+- [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) ![](assets/new.png)  
+- [2020-08-31-二面阿里惨败，全是算法基本功的问题···-|-极客大学](https://www.ershicimi.com/p/87f10d6722414698e6f270ae4d5574a8) ![](assets/new.png)  
+- [2020-08-30-前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome-85发布，提高页面加载速度；iPhon](https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb) ![](assets/new.png)  
+- [2020-08-28-你应该了解的5种TypeScript设计模式](https://www.ershicimi.com/p/45ed7e0eead9a279d85819e21b2bc91b) ![](assets/new.png)  
+- [2020-08-28-Electron-10正式发布：终止对-7.xy-的支持](https://www.ershicimi.com/p/8c95a1f84c833e102f8c423d2b6fdae5) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -701,6 +741,26 @@
 </summary>
 
 
+- [2020-09-07-是谁动了我的-DOM？](https://www.ershicimi.com/p/919bd1ae01862df1ac098dd627d16e0c) ![](assets/new.png)  
+- [2020-09-07-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/2269c870d3af5610827f53d27408970b) ![](assets/new.png)  
+- [2020-09-07-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/7b3df6f71aeaa732b990f2fd912e0e5a) ![](assets/new.png)  
+- [2020-09-05-TypeScript-4.1-新特性：字符串模板类型，Vuex-终于有救了？](https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80) ![](assets/new.png)  
+- [2020-09-05-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/8cd5e6453faec928130dc88f18779d56) ![](assets/new.png)  
+- [2020-09-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/240512a48a84d034c760e135be50380d) ![](assets/new.png)  
+- [2020-09-04-奇舞周刊第-362-期:-细说-SOLID-原则](https://www.ershicimi.com/p/f99bac47ded23aca5812579168de9c7e) ![](assets/new.png)  
+- [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) ![](assets/new.png)  
+- [2020-09-02-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/ec3b126ee2719fe4fef1a01d3f840b35) ![](assets/new.png)  
+- [2020-09-02-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/05f673bfc6c5fc81d028bc547a988853) ![](assets/new.png)  
+- [2020-09-01-Vue-Composition-API-陷阱](https://www.ershicimi.com/p/2803a18549e9516648ab6f334a327b39) ![](assets/new.png)  
+- [2020-09-01-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/f6a9bf8144331b524cd463dc22ef7dde) ![](assets/new.png)  
+- [2020-09-01-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/731d83b67f979b223714076f1e50fe08) ![](assets/new.png)  
+- [2020-08-31-关于-useState-的一切](https://www.ershicimi.com/p/cc841d64862e2ffbc9a5400aeac36ada) ![](assets/new.png)  
+- [2020-08-31-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/488d75a4b393a9b5c37600fb1f08a050) ![](assets/new.png)  
+- [2020-08-31-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/afcbfa4dab12382e1be6bfb3c89ccc64) ![](assets/new.png)  
+- [2020-08-29-看了就懂的-AST-和-Babel-工作流程](https://www.ershicimi.com/p/513c95d0a3d66fee1cfe93fe2d3b671b) ![](assets/new.png)  
+- [2020-08-29-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/c9701326c770749a4fcabe257f4f6580) ![](assets/new.png)  
+- [2020-08-29-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/a87874fd68e07343f590aae797b1553e) ![](assets/new.png)  
+- [2020-08-27-强烈推荐的几个微信小程序开发小技巧，简单又实用](https://www.ershicimi.com/p/8459c8b15bedaf00fed9fa8535dd48e9) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

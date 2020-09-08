@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 12:47:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 12:49:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -45,6 +45,10 @@
 - [2020-08-20-深入解析-Vue-的热更新原理，尤大是如何巧用源码中的细节？](https://www.ershicimi.com/p/2b6d755cd0959e8025e368da2abfab99) 
 - [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
 - [2020-08-31-今天来聊聊，我是如何把Vue学到顶尖水平？](https://www.ershicimi.com/p/d66c711e69f68286fcf0a465dc5cf9cd) 
+- [2020-09-04-2020最新-最火Vue面试题大合集](https://www.ershicimi.com/p/2fd4eb43266d8e705b45cf56fdfad352) 
+- [2020-08-31-从0到1，Vue大牛的前端搭建——异常监控系统](https://www.ershicimi.com/p/e98f819977d1b1a03e9c7176628564c3) 
+- [2020-08-28-Vue源码解析，keep-alive是如何实现缓存的？](https://www.ershicimi.com/p/e2981546aac891156868fab2bb4ec346) 
+- [2020-08-25-Vue模板编译原理](https://www.ershicimi.com/p/9df5782d8378ea8f0b468f0508956b16) 
 - [2020-08-30-10个实用技巧让你的-Vue-代码更优雅](https://www.ershicimi.com/p/d0a7aeb3fef2dd5d840e15b8f8717269) 
 - [2020-08-27-什么？华为开始对Node&Vue下手了？](https://www.ershicimi.com/p/fa7c430e5710d6664aaf2ebf5b132816) 
 - [2020-08-21-从零实现-Vuex-掌握其执行流程和执行机制](https://www.ershicimi.com/p/7cf670e6bdff4a0d4c0dea875d51ae1c) 
@@ -59,5 +63,6 @@
 - [2020-09-02-Vue.js-教程：构建一个特斯拉汽车余电计算器](https://www.ershicimi.com/p/e4b2fef1677dcbd2e31cb5253e688411) 
 - [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) 
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f) 
+- [2020-09-08-Vue-开发必须知道的-36-个技巧【近1W字】](https://juejin.im/post/6870042833630265352) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-09-08-译-Vue.js-构建工具比较](https://toutiao.io/k/za7y69r) 

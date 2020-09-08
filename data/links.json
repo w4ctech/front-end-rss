@@ -3184,10 +3184,221 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "求推荐个言情小说。",
+        "link": "https://www.v2ex.com/t/705336",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "为什么 mbp 同时接上 timemachine 和 4k 屏，就会卡得无法使用？",
+        "link": "https://www.v2ex.com/t/705335",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "大家平时喝水除了肥宅快乐水和白开水还喝什么",
+        "link": "https://www.v2ex.com/t/705334",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[请教] Docker 容器如何与主机同网段其它主机互通？",
+        "link": "https://www.v2ex.com/t/705333",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "需要对外提供一个 Java sdk,现在碰到需要区分生产环境和非生产环境的情况有些搞不定",
+        "link": "https://www.v2ex.com/t/705332",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "楼下能把支管堵了，并有权利不让楼上的支管放在楼下室内中吗？",
+        "link": "https://www.v2ex.com/t/705331",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "你们有人转到 apple 印度区过没?",
+        "link": "https://www.v2ex.com/t/705330",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "Hyrule Warriors: Age of Calamity",
+        "link": "https://www.v2ex.com/t/705329",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "腾讯云香港轻量应用服务器晚高峰测试",
+        "link": "https://www.v2ex.com/t/705328",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "原来 HMS 就是 Hong Meng System 啊！谁说 HongMeng 不存在的？",
+        "link": "https://www.v2ex.com/t/705327",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "Switch 转移存档数据到新机器以后，卡带仍然要用原来的吗？",
+        "link": "https://www.v2ex.com/t/705325",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[北京] 红杉资本招聘 TypeScript 全栈 / Swift 工程师",
+        "link": "https://www.v2ex.com/t/705323",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "急寻前端兼职 大 牛（坐标：上海）哦",
+        "link": "https://www.v2ex.com/t/705322",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[校招] [拼多多内推] 拼多多 2021 届校园招聘 9 月 7 日 全！面！启！动！ [正式批] 所有岗位，全面开放 ！",
+        "link": "https://www.v2ex.com/t/705321",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "推荐几个开源项目",
+        "link": "https://www.v2ex.com/t/705320",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "PHP Memory Limit 128M 如何改为 256M 或更高，通过 PHP .INI 修改不生效",
+        "link": "https://www.v2ex.com/t/705319",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "opengapps 是侵权的么？",
+        "link": "https://www.v2ex.com/t/705318",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[杭州] [蚂蚁金服] [ Java 开发/数据开发] 商家增长团队又又又又在期待你的加入！机会多多，等你来挑战！",
+        "link": "https://www.v2ex.com/t/705317",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "急寻前端兼职大牛（坐标：上海）哈",
+        "link": "https://www.v2ex.com/t/705316",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "请教各位, 这个错误编码大概是个啥? 我在 win 下解压后就这样了, 试过了大概不是 GBK/Big5.",
+        "link": "https://www.v2ex.com/t/705315",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "嘉定上汽前端外包怎么样？加班多吗？有老哥在里面吗？",
+        "link": "https://www.v2ex.com/t/705314",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "小白请教， opengapps 与 GMS 什么关系？",
+        "link": "https://www.v2ex.com/t/705313",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "求管理预约和签到的平台",
+        "link": "https://www.v2ex.com/t/705312",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "Condition variable 是怎么告诉调度器这个线程不应该被调度，又是怎样唤醒的呢？",
+        "link": "https://www.v2ex.com/t/705309",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "没了 GMS，不是还有 OpenGapps 么？怎么说的那么可怕？",
+        "link": "https://www.v2ex.com/t/705307",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "虚拟主机能用来干啥啊？",
+        "link": "https://www.v2ex.com/t/705306",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[深圳] 京东 - 凹凸实验室 - 高级前端工程师（用户体验工程师）（2020 年急聘）",
+        "link": "https://www.v2ex.com/t/705305",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "深圳搬去广州有感",
+        "link": "https://www.v2ex.com/t/705304",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "连 11 月份的 BEC 考试也取消了，凉凉",
+        "link": "https://www.v2ex.com/t/705303",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "移动端多媒体开发工程师，地点：上海，薪水： 40-60k",
+        "link": "https://www.v2ex.com/t/705302",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "msyql group by，窗口函数 和 直接循环查询性能分析",
+        "link": "https://www.v2ex.com/t/705300",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "二十多岁高血压（141/85）是不是意味着要终身吃药了？",
+        "link": "https://www.v2ex.com/t/705299",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "这两天新房验收，问题好多，业主们提供的信息凌乱，突发奇想",
+        "link": "https://www.v2ex.com/t/705298",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "开源一个略显粗糙的论坛系统",
+        "link": "https://www.v2ex.com/t/705297",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "东京 IT 公司招靠谱前端 后端开发（日本在住者优先）",
+        "link": "https://www.v2ex.com/t/705296",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "成为废人的第一天",
+        "link": "https://www.v2ex.com/t/705295",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "看 jd 猜薪酬",
+        "link": "https://www.v2ex.com/t/705294",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "安卓是不是没落了？很多老论坛基本凉凉了",
+        "link": "https://www.v2ex.com/t/705293",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "资深图像算法工程师/leader，地点：上海杨浦",
+        "link": "https://www.v2ex.com/t/705292",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "截图时，把信息隐藏在图片里，还需要防止压缩带来的数据丢失",
+        "link": "https://www.v2ex.com/t/705291",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "正则表达式能不能匹配另一个正则表达式的结果",
+        "link": "https://www.v2ex.com/t/705289",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "请教一个商品名录的需求",
+        "link": "https://www.v2ex.com/t/705288",
+        "date": "2020-09-08"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -3367,13 +3578,13 @@
         "date": "2020-09-08"
       },
       {
-        "title": "高效能人士的 2 个习惯：以终为始与要事第一",
-        "link": "https://toutiao.io/k/awuv747",
+        "title": "分布式系统的核心：共识问题",
+        "link": "https://toutiao.io/k/yuo5idd",
         "date": "2020-09-08"
       },
       {
-        "title": "分布式系统的核心：共识问题",
-        "link": "https://toutiao.io/k/yuo5idd",
+        "title": "高效能人士的 2 个习惯：以终为始与要事第一",
+        "link": "https://toutiao.io/k/awuv747",
         "date": "2020-09-08"
       },
       {
@@ -3382,13 +3593,13 @@
         "date": "2020-09-08"
       },
       {
-        "title": "字节跳动的算法面试题是什么难度？",
-        "link": "https://toutiao.io/k/9fcfnso",
+        "title": "Spring 5 中文解析核心篇：IoC 容器之 Spring AOP API",
+        "link": "https://toutiao.io/k/bw4v40a",
         "date": "2020-09-08"
       },
       {
-        "title": "Spring 5 中文解析核心篇：IoC 容器之 Spring AOP API",
-        "link": "https://toutiao.io/k/bw4v40a",
+        "title": "字节跳动的算法面试题是什么难度？",
+        "link": "https://toutiao.io/k/9fcfnso",
         "date": "2020-09-08"
       },
       {
@@ -3402,63 +3613,8 @@
         "date": "2020-09-08"
       },
       {
-        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
-        "link": "https://toutiao.io/k/749snp6",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] Linux 系统优化（内核优化）",
-        "link": "https://toutiao.io/k/bopgl5e",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 如何做一个懂产品的程序员？",
-        "link": "https://toutiao.io/k/xeriwdj",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 微服务的战争：按什么维度拆分服务",
-        "link": "https://toutiao.io/k/3lp54k3",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 大厂是如何使用 JMH 进行 Java 代码性能测试的？必须掌握",
-        "link": "https://toutiao.io/k/lti22p3",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 程序日志级别规范",
-        "link": "https://toutiao.io/k/sf65q0v",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-08"
       },
       {
@@ -3467,13 +3623,68 @@
         "date": "2020-09-08"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
         "date": "2020-09-08"
       },
       {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 大厂是如何使用 JMH 进行 Java 代码性能测试的？必须掌握",
+        "link": "https://toutiao.io/k/lti22p3",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 程序日志级别规范",
+        "link": "https://toutiao.io/k/sf65q0v",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
+        "link": "https://toutiao.io/k/8r5oqql",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 如何做一个懂产品的程序员？",
+        "link": "https://toutiao.io/k/xeriwdj",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
+        "link": "https://toutiao.io/k/jhsjj8v",
         "date": "2020-09-08"
       }
     ]

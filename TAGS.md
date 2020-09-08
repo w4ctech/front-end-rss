@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-08 14:48:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 15:03:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -129,6 +129,7 @@
 - [【程序员成长指北】想去字节面试，TypeScript-要掌握到什么程度？](https://www.ershicimi.com/p/8c23ffbc4aeea978af78394d9abeaedb)
 - [【InfoQ】你应该了解的5种TypeScript设计模式](https://www.ershicimi.com/p/600a86127284ce5e132fa0128df3bbc5)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【V2EX】北京-红杉资本招聘-TypeScript-全栈-/-Swift-工程师](https://www.v2ex.com/t/705323)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -372,6 +373,7 @@
 - [【前端之巅】让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告](https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9)
 - [【前端日刊】最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b)
 - [【知乎日报】「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec)
+- [【V2EX】资深图像算法工程师/leader，地点：上海杨浦](https://www.v2ex.com/t/705292)
 - [【开发者头条】Python-一键批量下载抖音无水印视频](https://toutiao.io/k/5disjh5)
 - [【开发者头条】Kotlin-源码里成吨的-noinline-和-crossinline-是干嘛的？看完这个视频你转头也写了一吨](https://toutiao.io/k/xvi1d56)
 - [【开发者头条】推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89)
@@ -412,7 +414,7 @@
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】重磅！！Gradle-6.6-发布，大幅提升性能！](https://www.ershicimi.com/p/5bae6c72a775ac5d441656380ded66ae)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e)
+- [【V2EX】msyql-group-by，窗口函数-和-直接循环查询性能分析](https://www.v2ex.com/t/705300)
 - [【开发者头条】推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -442,6 +444,7 @@
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【技术头条】如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】终于弄明白了-Singleton,-Transient,-Scoped-的作用域是如何实现的](https://toutiao.io/k/qq1az5m)
+- [【开发者头条】推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9)
 - [【安全热点】征文-|-​黄乐:安全产品POC那些事](https://sec.thief.one/article_content?a_id=12e7415421afa57cea0c378df7e53114)
 - [【安全热点】中方提出《全球数据安全倡议》,开启数字安全全球化规则进程](https://sec.thief.one/article_content?a_id=16354b261d42749afc84bd3c8dcf9cca)
 - [【安全热点】PHP安全:文件包含安全](https://sec.thief.one/article_content?a_id=e248e285b9f2364087475e03bfa29fdc)
@@ -449,7 +452,6 @@
 - [【安全热点】亮相服贸会:奇安信内生安全框架助力新基建与数字化转型](https://sec.thief.one/article_content?a_id=5fc0a2a136d9fa53d83406d2ef9720dc)
 - [【安全热点】干货-|GitHUB安全搬运工-Ⅱ](https://sec.thief.one/article_content?a_id=a98cb538f72f6c6f6980560de321f7cf)
 - [【安全热点】2020年中国网络安全市场全景图](https://sec.thief.one/article_content?a_id=3f199baa933811393820ea6f1c60184f)
-- [【安全热点】《信息安全技术-网络安全等级保护测评机构能力要求和评估规范》全文](https://sec.thief.one/article_content?a_id=3d794a2c287ef1df7d3c46609be85e8b)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -492,6 +494,7 @@
 
 
 - [【前端大全】前端工程师不可不知的-Nginx-知识](https://www.ershicimi.com/p/3ac56accf0c7fee739407974f9ea06e5)
+- [【V2EX】请教-Docker-容器如何与主机同网段其它主机互通？](https://www.v2ex.com/t/705333)
 - [【安全热点】phpStudy-Nginx-文件解析漏洞风险提示](https://sec.thief.one/article_content?a_id=edf4670e3b47e51a8bd94af08a7ecd32)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -521,7 +524,6 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【开发者头条】推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy)
 - [【安全热点】他四个月公众号做到-5w-粉丝,Github-全球榜单第一!](https://sec.thief.one/article_content?a_id=a59ff2caad8859e7ca53a84e779c22f4)
 - [【安全热点】B站UP主自制的开源OCR翻译器走红Github,用一次就粉了](https://sec.thief.one/article_content?a_id=956dd8466d2b22fea4aba5b3fa42f464)
 - [......【查看更多】......](./details/tags/git-svn.md)

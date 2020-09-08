@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 23:03:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 23:11:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -381,14 +381,13 @@
 - [2020-09-08-Spring-5-中文解析核心篇：IoC-容器之-Spring-AOP-API](https://toutiao.io/k/bw4v40a) 
 - [2020-09-08-为什么列式存储广泛应用于-OLAP-领域？](https://toutiao.io/k/mjb7o88) 
 - [2020-09-08-云原生技术研究：Cilium-网络概述](https://toutiao.io/k/lohfj9v) 
-- [2020-09-08-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) 
+- [2020-09-08-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) 
+- [2020-09-08-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) 
 - [2020-09-08-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) 
-- [2020-09-08-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) 
-- [2020-09-08-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) 
-- [2020-09-08-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) 
-- [2020-09-08-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) 
-- [2020-09-08-推荐-如何做一个懂产品的程序员？](https://toutiao.io/k/xeriwdj) 
 - [2020-09-08-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) 
+- [2020-09-08-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) 
+- [2020-09-08-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) 
+- [2020-09-08-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) 
 - [2020-09-08-微步在线2021届校招开启-|-快来体验职场Young模式!](https://sec.thief.one/article_content?a_id=5f01628a53648c34e18e3720c65c3a4b) 
 - [2020-09-08-堡塔携手补天征集漏洞:单个漏洞最高奖金税后达10万元](https://sec.thief.one/article_content?a_id=bf8fa134b4dae41d5088251e16d00894) 
 - [2020-09-08-每日攻防资讯简报Sept.8th](https://sec.thief.one/article_content?a_id=9a8b2ec4e160032a6da5c96d27329900) 

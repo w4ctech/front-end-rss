@@ -3936,10 +3936,36 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "「面试必会」中高级前端必会的手写面试题(二)",
+        "link": "https://juejin.im/post/6870043180444680200",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "正则表达式(方法)，原来可以这么简单（js）",
+        "link": "https://juejin.im/post/6870036651788206093",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[Web翻译]使用Web组件构建您的下一个设计系统",
+        "link": "https://juejin.im/post/6870035681398718477",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "回味基础：call、apply和bind那些事儿",
+        "link": "https://juejin.im/post/6870025360198041607",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "🏆 技术专题第四期 | 聊聊微前端的那些事",
+        "link": "https://juejin.im/post/6869996232249442311",
+        "date": "2020-09-07"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -4688,13 +4714,13 @@
         "date": "2020-09-08"
       },
       {
-        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
-        "link": "https://toutiao.io/k/749snp6",
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
         "date": "2020-09-08"
       },
       {
-        "title": "[推荐] Linux 系统优化（内核优化）",
-        "link": "https://toutiao.io/k/bopgl5e",
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
         "date": "2020-09-08"
       },
       {
@@ -4703,13 +4729,38 @@
         "date": "2020-09-08"
       },
       {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "[推荐] 大厂是如何使用 JMH 进行 Java 代码性能测试的？必须掌握",
+        "link": "https://toutiao.io/k/lti22p3",
         "date": "2020-09-08"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 程序日志级别规范",
+        "link": "https://toutiao.io/k/sf65q0v",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] Linux 系统优化（内核优化）",
+        "link": "https://toutiao.io/k/bopgl5e",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-08"
       },
       {
@@ -4723,43 +4774,18 @@
         "date": "2020-09-08"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-08"
-      },
-      {
         "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
         "link": "https://toutiao.io/k/qit9l0m",
         "date": "2020-09-08"
       },
       {
-        "title": "[推荐] 程序日志级别规范",
-        "link": "https://toutiao.io/k/sf65q0v",
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
         "date": "2020-09-08"
       },
       {
         "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
         "link": "https://toutiao.io/k/gatrxff",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-08"
       }
     ]

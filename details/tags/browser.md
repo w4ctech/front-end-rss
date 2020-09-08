@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 09:12:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 09:24:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,7 +24,9 @@
 - [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
+- [2020-09-07-通过场景变换来了解弄懂HTTP缓存机制](https://juejin.im/post/6869772400670867464) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-08-Gradle-中修改了-apk-的输出目录，-Android-Studio-中调试-app-的时候找不到对应的-apk-文件。](https://www.v2ex.com/t/705210) 
 - [2020-09-08-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-08-终于弄明白了-Singleton,-Transient,-Scoped-的作用域是如何实现的](https://toutiao.io/k/qq1az5m) 
 - [2020-09-08-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 

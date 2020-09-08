@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 12:33:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 12:38:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -43,6 +43,3 @@
 - [2020-09-02-面试被问到“零拷贝”？我一脸懵逼！](https://www.ershicimi.com/p/41c96727172d753b3d0836e9879b4895) 
 - [2020-09-02-我和面试官的博弈：Redis-篇](https://www.ershicimi.com/p/b1a9a83e702747b1d3f80f29311f1cf4) 
 - [2020-09-01-面试官一问就懵的设计模式题，是时候该怼回去了-丨-极客时间](https://www.ershicimi.com/p/52e94bb200353fe2417ce7fe7c64ceee) 
-- [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
-- [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
-- [2020-09-08-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 08:49:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 09:03:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -8,7 +8,6 @@
 
 
 - [2019-11-25-一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6) 
-- [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
 - [2020-09-08-面试官:请手写一个简易的Webpack](https://www.ershicimi.com/p/b99c6ee7c391d8edf34b867fb1e02fb3) 
 - [2020-09-03-Babel是如何读懂JS代码的](https://www.ershicimi.com/p/faad2dc6631b33a4e757150901996f4b) 
 - [2020-08-23-npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2) 
@@ -18,7 +17,4 @@
 - [2020-09-04-Babel是如何读懂JS代码的](https://www.ershicimi.com/p/24a26a39eb2b1bc8e4d20dde4f6449d6) 
 - [2020-08-26-一篇文章构建你的-Node.js-知识体系](https://www.ershicimi.com/p/f1fb1a33a8919fc776903a2c25cf09d2) 
 - [2020-08-14-13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0) 
-- [2020-08-29-看了就懂的-AST-和-Babel-工作流程](https://www.ershicimi.com/p/513c95d0a3d66fee1cfe93fe2d3b671b) 
-- [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
-- [2020-09-08-团队在高速扩张中的能力构建与质量保证-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13754&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcapacity-building-and-quality-assurance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-08 01:05:27，:rocket: 更新条数: +502， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-08 01:20:23，:rocket: 更新条数: +497， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-09-08-智利新冠肺炎累计确诊近42.5万-国庆假期期间部分区域防疫措施再放宽](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUatx1eSjmdbFmfhgrdDS200908&isfromapp=1) ![](assets/new.png)  
-- [2020-09-07-​防疫形势严峻-摩洛哥重启隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBRVD9xd8X33L5GRNFCq6200908&isfromapp=1) ![](assets/new.png)  
-- [2020-09-07-世卫组织：中国对公共卫生基础设施的投入以及中国人民的责任感非常令人敬佩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCxLDpOMJt83JVoT1NLQA200908&isfromapp=1) ![](assets/new.png)  
-- [2020-09-07-​巴西国庆小长假最后一天-多地海滩和酒吧人群聚集](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVTvUXOttryDAtr9GH6ge200908&isfromapp=1) ![](assets/new.png)  
-- [2020-09-07-法国球星姆巴佩新冠检测阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilsUCEBB3vfOLPYo5y0xr200908&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

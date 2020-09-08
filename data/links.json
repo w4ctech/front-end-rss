@@ -6,36 +6,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/coronavirus/dxy",
+    "rss": "https://rss.shab.fun/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "智利新冠肺炎累计确诊近42.5万 国庆假期期间部分区域防疫措施再放宽",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUatx1eSjmdbFmfhgrdDS200908&isfromapp=1",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "​防疫形势严峻 摩洛哥重启隔离措施",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBRVD9xd8X33L5GRNFCq6200908&isfromapp=1",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "世卫组织：中国对公共卫生基础设施的投入以及中国人民的责任感非常令人敬佩",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCxLDpOMJt83JVoT1NLQA200908&isfromapp=1",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "​巴西国庆小长假最后一天 多地海滩和酒吧人群聚集",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVTvUXOttryDAtr9GH6ge200908&isfromapp=1",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "法国球星姆巴佩新冠检测阳性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilsUCEBB3vfOLPYo5y0xr200908&isfromapp=1",
-        "date": "2020-09-07"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",

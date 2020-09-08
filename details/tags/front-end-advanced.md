@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 23:34:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 23:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -15,5 +15,3 @@
 - [2020-09-05-卧槽！火爆GitHub的算法电子书开放下载了！](https://www.ershicimi.com/p/d864b5a3e2141990d3a4ae5454338734) 
 - [2020-09-08-请教一下-HttpDns-的问题，想了解下工作方式跟具体的实现场景。](https://www.v2ex.com/t/705338) 
 - [2020-09-08-HTTP/3-来了，你了解它么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13737&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F198959604%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-08-算法工程师的数学基础：如何理解概率分布函数和概率密度函数](https://toutiao.io/k/5ntsdsw) 
-- [2020-09-08-字节跳动的算法面试题是什么难度？](https://toutiao.io/k/9fcfnso) 

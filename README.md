@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-08 23:34:35，:rocket: 更新条数: +3386， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-08 23:47:05，:rocket: 更新条数: +762， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-09-07-港专家：婴儿粪便新冠病毒量高出成人多倍](http://m.china.caixin.com/m/2020-09-08/101602464.html) ![](assets/new.png)  
-- [2020-09-07-全国抗击新冠肺炎疫情表彰大会举行-习近平颁授勋章奖章并讲话](http://m.china.caixin.com/m/2020-09-08/101602614.html) ![](assets/new.png)  
-- [2020-09-07-最新海外疫情：新冠感染超2721万-累计死亡超88万](http://m.international.caixin.com/m/2020-09-08/101602795.html) ![](assets/new.png)  
-- [2020-09-07-【境内疫情观察】新疆现有确诊病例和无症状感染者全部清零（9月7日）](http://m.database.caixin.com/m/2020-09-08/101602534.html) ![](assets/new.png)  
-- [2020-09-07-大流行手记|9月7日：英国疫情抬头-印度感染人数超巴西成全球第二](https://m.caixin.com/m/2020-09-08/101602427.html) ![](assets/new.png)  
-- [2020-09-06-【境内疫情观察】全国新增12例境外输入病例（9月6日）](http://m.database.caixin.com/m/2020-09-07/101602132.html) ![](assets/new.png)  
-- [2020-09-06-大流行手记|9月6日：印度疫情蔓延迅速-美药企拟联合声明拒绝疫苗仓促上市](https://m.caixin.com/m/2020-09-07/101602016.html) ![](assets/new.png)  
-- [2020-09-06-美专家：如何看待疫情，美两党选民差异显著](http://m.international.caixin.com/m/2020-09-07/101602182.html) ![](assets/new.png)  
-- [2020-09-05-【境内疫情观察】全国新增10例境外输入病例（9月5日）](http://m.database.caixin.com/m/2020-09-06/101601891.html) ![](assets/new.png)  
-- [2020-09-05-大流行手记|9月5日：法国22所学校现疫情被关闭-研究预测美国今年新冠病死41万人](https://m.caixin.com/m/2020-09-06/101601876.html) ![](assets/new.png)  
-- [2020-09-04-【境内疫情观察】全国连续20日无新增本土病例（9月4日）](http://m.database.caixin.com/m/2020-09-05/101601775.html) ![](assets/new.png)  
-- [2020-09-04-大流行手记|9月4日：WHO称暂无疫苗保护率超50%-九成国家基本卫生服务受打击](https://m.caixin.com/m/2020-09-05/101601701.html) ![](assets/new.png)  
-- [2020-09-04-美疾控吁各州做好11月初分发疫苗准备-官员称与选举无关](http://m.international.caixin.com/m/2020-09-05/101601647.html) ![](assets/new.png)  
-- [2020-09-03-香港全民检测-化验21万人4宗确诊](http://m.china.caixin.com/m/2020-09-04/101601542.html) ![](assets/new.png)  
-- [2020-09-03-【境内疫情观察】广东新增13例境外输入病例（9月3日）](http://m.database.caixin.com/m/2020-09-04/101601203.html) ![](assets/new.png)  
-- [2020-09-03-大流行手记|9月3日：印度日新增病例超8万-美国拟大选前大规模分发疫苗](https://m.caixin.com/m/2020-09-04/101601074.html) ![](assets/new.png)  
-- [2020-09-02-【境内疫情观察】全国新增11例境外输入病例（9月2日）](http://m.database.caixin.com/m/2020-09-03/101600745.html) ![](assets/new.png)  
-- [2020-09-02-大流行手记|9月2日：美拒绝参与全球新冠疫苗计划-日本拟免费全民接种](https://m.caixin.com/m/2020-09-03/101600607.html) ![](assets/new.png)  
-- [2020-09-02-耶鲁公卫院长：疫苗民族主义无法终结全球大流行病](http://m.international.caixin.com/m/2020-09-03/101600933.html) ![](assets/new.png)  
-- [2020-09-02-83岁贝卢斯科尼确诊新冠-叱咤意大利政商多年谤誉一身](http://m.international.caixin.com/m/2020-09-03/101600827.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +75,11 @@
 </summary>
 
 
-- [2020-09-08-不顾病例激增-美国阿拉巴马州塔斯卡卢萨市重开酒吧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEs7r6kQN9G6EGKf3x77b200909&isfromapp=1) ![](assets/new.png)  
-- [2020-09-08-​意大利新增新冠肺炎确诊病例1370例-教育长表示学校复课并非绝对安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihFxQwWLaP4k7Thac1h1x200909&isfromapp=1) ![](assets/new.png)  
-- [2020-09-08-印尼新冠肺炎确诊病例总数超20万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCyAFrzIbWPeCHy1VOUHE200908&isfromapp=1) ![](assets/new.png)  
-- [2020-09-08-法国总理将接受新冠检测-其密切接触者检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY2KEhVu0ic2lthC92iPU200908&isfromapp=1) ![](assets/new.png)  
-- [2020-09-08-中国民航航班已恢复到疫情前九成](http://m.weibo.cn/3057540037/4546973418658698) ![](assets/new.png)  
+- [2020-09-08-美疫苗研发计划不受信任，多数美民众不愿第一时间接种新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizbjouTFj9Alik7fuvta3200909&isfromapp=1) ![](assets/new.png)  
+- [2020-09-08-南山风骨，国士无双！钟南山院士返粤受到热烈欢迎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioqAfXhZ1mF6YdsHYnjMN200909&isfromapp=1) ![](assets/new.png)  
+- [2020-09-08-世卫组织：全球新冠肺炎确诊病例新增203897例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidWcdR6JEvWKuKA0LN2NQ200909&isfromapp=1) ![](assets/new.png)  
+- [2020-09-08-加拿大安大略省政府宣布暂停开学计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidPdKgLiVWxAmYoyM0jlh200909&isfromapp=1) ![](assets/new.png)  
+- [2020-09-08-比利时首都三所学校发生新冠肺炎聚集性疫情-数百名师生被隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwV1bVC4hFvxtHQObx99f200909&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,26 +1099,22 @@
 </summary>
 
 
-- [2020-09-08-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-08-LeetCode-28：实现-strStr](https://toutiao.io/k/xogyblt) ![](assets/new.png)  
-- [2020-09-08-工具-|-京东-App-后台中间件](https://toutiao.io/k/0ren1cq) ![](assets/new.png)  
-- [2020-09-08-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-08-如何提高代码质量](https://toutiao.io/k/b5x6wql) ![](assets/new.png)  
-- [2020-09-08-DDD：降低甚至消除问题域和解决方案域的壁垒](https://toutiao.io/k/q1yw3ra) ![](assets/new.png)  
-- [2020-09-08-Python-一键批量下载抖音无水印视频](https://toutiao.io/k/5disjh5) ![](assets/new.png)  
-- [2020-09-08-译-Vue.js-构建工具比较](https://toutiao.io/k/za7y69r) ![](assets/new.png)  
-- [2020-09-08-算法工程师的数学基础：如何理解概率分布函数和概率密度函数](https://toutiao.io/k/5ntsdsw) ![](assets/new.png)  
-- [2020-09-08-终于弄明白了-Singleton,-Transient,-Scoped-的作用域是如何实现的](https://toutiao.io/k/qq1az5m) ![](assets/new.png)  
-- [2020-09-08-Kotlin-源码里成吨的-noinline-和-crossinline-是干嘛的？看完这个视频你转头也写了一吨](https://toutiao.io/k/xvi1d56) ![](assets/new.png)  
-- [2020-09-08-字节跳动的算法面试题是什么难度？](https://toutiao.io/k/9fcfnso) ![](assets/new.png)  
-- [2020-09-08-分布式系统的核心：共识问题](https://toutiao.io/k/yuo5idd) ![](assets/new.png)  
-- [2020-09-08-Go：gops-如何与-Go-运行时交互？](https://toutiao.io/k/wnm57uf) ![](assets/new.png)  
-- [2020-09-08-高效能人士的-2-个习惯：以终为始与要事第一](https://toutiao.io/k/awuv747) ![](assets/new.png)  
-- [2020-09-08-Prometheus-监控神器：服务发现篇（三）](https://toutiao.io/k/11k5gr2) ![](assets/new.png)  
-- [2020-09-08-火花四射，当字体设计遇上机器学习](https://toutiao.io/k/39b75s7) ![](assets/new.png)  
-- [2020-09-08-Spring-5-中文解析核心篇：IoC-容器之-Spring-AOP-API](https://toutiao.io/k/bw4v40a) ![](assets/new.png)  
-- [2020-09-08-为什么列式存储广泛应用于-OLAP-领域？](https://toutiao.io/k/mjb7o88) ![](assets/new.png)  
-- [2020-09-08-云原生技术研究：Cilium-网络概述](https://toutiao.io/k/lohfj9v) ![](assets/new.png)  
+- [2020-09-08-资料-|-Git-魔法.pdf](https://toutiao.io/k/poerfhe) ![](assets/new.png)  
+- [2020-09-08-推荐-如何做一个懂产品的程序员？](https://toutiao.io/k/xeriwdj) ![](assets/new.png)  
+- [2020-09-08-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-08-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) ![](assets/new.png)  
+- [2020-09-08-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-08-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-08-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) ![](assets/new.png)  
+- [2020-09-08-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-08-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-08-推荐-程序日志级别规范](https://toutiao.io/k/sf65q0v) ![](assets/new.png)  
+- [2020-09-08-推荐-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3) ![](assets/new.png)  
+- [2020-09-08-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-08-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
+- [2020-09-08-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-08-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
+- [2020-09-08-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

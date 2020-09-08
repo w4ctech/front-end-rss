@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 23:34:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 23:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2020-09-08-小白请教，-opengapps-与-GMS-什么关系？](https://www.v2ex.com/t/705313) 
 - [2020-09-08-求管理预约和签到的平台](https://www.v2ex.com/t/705312) 
 - [2020-09-08-Condition-variable-是怎么告诉调度器这个线程不应该被调度，又是怎样唤醒的呢？](https://www.v2ex.com/t/705309) 
-- [2020-09-08-没了-GMS，不是还有-OpenGapps-么？怎么说的那么可怕？](https://www.v2ex.com/t/705307) 

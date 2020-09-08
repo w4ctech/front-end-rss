@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-08 12:49:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 13:03:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,7 +8,6 @@
 
 
 - [2020-09-02-浏览器中的跨域问题与-CORS](https://www.ershicimi.com/p/a482ed736bf2f7834bbbab4735420960) 
-- [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) 
 - [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
 - [2020-09-04-如何防止重复发送ajax请求](https://www.ershicimi.com/p/98a8850e1ffb750ead2a74a1665adb83) 
 - [2020-08-28-从一道面试题说起：GET-请求能传图片吗？](https://www.ershicimi.com/p/f6f0077d85a7f0512115c7b9fb1bf091) 
@@ -27,8 +26,8 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-08-🔥新加坡-技术移民机会纽交所上市互联网公司，寻找机器学习平台负责人，后台-leader，移动安全-leader，大数据数仓或数据平台-leader/高级专家，云平台数...](https://www.v2ex.com/t/705273) 
 - [2020-09-08-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-08-终于弄明白了-Singleton,-Transient,-Scoped-的作用域是如何实现的](https://toutiao.io/k/qq1az5m) 
 - [2020-09-08-征文-|-​黄乐:安全产品POC那些事](https://sec.thief.one/article_content?a_id=12e7415421afa57cea0c378df7e53114) 
+- [2020-09-08-中方提出《全球数据安全倡议》,开启数字安全全球化规则进程](https://sec.thief.one/article_content?a_id=16354b261d42749afc84bd3c8dcf9cca) 
 - [2020-09-08-PHP安全:文件包含安全](https://sec.thief.one/article_content?a_id=e248e285b9f2364087475e03bfa29fdc) 
 - [2020-09-07-ISC-2020-大数据产业安全创新在线研讨会丨左晓栋:重要数据识别研...](https://sec.thief.one/article_content?a_id=923be0c428edd6197a0f3bd9b0f41cd1) 
 - [2020-09-07-亮相服贸会:奇安信内生安全框架助力新基建与数字化转型](https://sec.thief.one/article_content?a_id=5fc0a2a136d9fa53d83406d2ef9720dc) 
@@ -40,10 +39,7 @@
 - [2020-09-04-信息安全漏洞月报2020年8月](https://sec.thief.one/article_content?a_id=31defa7d9dc60a91f7749a45a9bac7c0) 
 - [2020-09-04-【安全热点周报】第158期:Windows-10发布新补丁导致设备蓝屏不断](https://sec.thief.one/article_content?a_id=5131d33f94907f80f0de8a5b3b8bb36c) 
 - [2020-09-04-喜大普奔|IOT-固件安全小组招新啦](https://sec.thief.one/article_content?a_id=b254ed5b198ed56b451e38b12fae2c70) 
+- [2020-09-04-独家爆料!在美团搞安全,是种怎样的体验?](https://sec.thief.one/article_content?a_id=61eb8e18ffd651ab7c4b25d7436b196b) 
 - [2020-09-04-PHP安全:邮件安全](https://sec.thief.one/article_content?a_id=f54b2f4c501846ec5e1e069623053c5a) 
 - [2020-09-03-“银行窃贼”转型“病毒分销商”,Emotet木马加持横向渗透掀起安全...](https://sec.thief.one/article_content?a_id=59e432c157408b41dd005bbb0e0891bd) 
 - [2020-09-03-浏览器新高度-奇安信发布87内核可信浏览器先锋版](https://sec.thief.one/article_content?a_id=08b8acfbfb3f14bd8b3094804a7376d0) 
-- [2020-09-03-在全球范围内成功劫持28000台打印机,只为打印一份“安全指南”?](https://sec.thief.one/article_content?a_id=6cda0172866df50409ae67731a2d2930) 
-- [2020-09-03-网络安全等级保护和关键信息基础设施-安全保护工作宣贯会成功举办](https://sec.thief.one/article_content?a_id=f4ee7f05433c4903dbad4cba3f336cb4) 
-- [2020-09-03-【招聘】小米信息安全与隐私部招人了!](https://sec.thief.one/article_content?a_id=f19599b6f86794cd9c2749a3a42f9c69) 
-- [2020-09-03-郭启全:网络安全等保制度、关保制度落地要求及工作重点解读](https://sec.thief.one/article_content?a_id=92ee782310b7e2c0f2f7a1a4f3cca7da) 

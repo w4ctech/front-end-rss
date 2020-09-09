@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 05:11:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 05:22:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,8 +7,11 @@
 
 
 
+- [2020-09-07-【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327) 
+- [2020-09-02-浏览器中的跨域问题与-CORS](https://www.ershicimi.com/p/a482ed736bf2f7834bbbab4735420960) 
 - [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) 
 - [2020-09-08-你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-08-征文-|-​黄乐:安全产品POC那些事](https://sec.thief.one/article_content?a_id=12e7415421afa57cea0c378df7e53114) 
 - [2020-09-08-中方提出《全球数据安全倡议》,开启数字安全全球化规则进程](https://sec.thief.one/article_content?a_id=16354b261d42749afc84bd3c8dcf9cca) 
 - [2020-09-08-PHP安全:文件包含安全](https://sec.thief.one/article_content?a_id=e248e285b9f2364087475e03bfa29fdc) 

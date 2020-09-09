@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-09 14:04:06，:rocket: 更新条数: +750， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-09 14:13:29，:rocket: 更新条数: +742， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -1037,26 +1037,6 @@
 </summary>
 
 
-- [2020-09-09-请教一个网络配置相关的问题](https://www.v2ex.com/t/705620) ![](assets/new.png)  
-- [2020-09-09-袋鼠这一招棋走的妙啊~~~](https://www.v2ex.com/t/705619) ![](assets/new.png)  
-- [2020-09-09-自己建了个小站，帮助大家对比薪资和级别，希望大家提出意见！](https://www.v2ex.com/t/705618) ![](assets/new.png)  
-- [2020-09-09-饿了么支付宝小程序餐具份数选择不会立即更新](https://www.v2ex.com/t/705617) ![](assets/new.png)  
-- [2020-09-09-哥哥姐姐们,求个-ffmpeg-指令~](https://www.v2ex.com/t/705616) ![](assets/new.png)  
-- [2020-09-09-ITX-平台对比-OEM-大厂的-SFF-小电脑有那些优缺点？](https://www.v2ex.com/t/705615) ![](assets/new.png)  
-- [2020-09-09-新-mac-小白用户，想咨询一个-mac-系统下的截图粘贴尺寸大问题](https://www.v2ex.com/t/705613) ![](assets/new.png)  
-- [2020-09-09-联通大王卡，流量选项怎么也玩文字游戏了？？](https://www.v2ex.com/t/705612) ![](assets/new.png)  
-- [2020-09-09-如何访问非中国区-Apple-Music-网页？](https://www.v2ex.com/t/705611) ![](assets/new.png)  
-- [2020-09-09-PHP-引用其他类问题请教](https://www.v2ex.com/t/705609) ![](assets/new.png)  
-- [2020-09-09-求推荐医疗保险](https://www.v2ex.com/t/705608) ![](assets/new.png)  
-- [2020-09-09-Google-Chrome-Helper-问题](https://www.v2ex.com/t/705607) ![](assets/new.png)  
-- [2020-09-09-求一个-H5-聊天室源代码](https://www.v2ex.com/t/705605) ![](assets/new.png)  
-- [2020-09-09-应届入职感觉被坑了，想求一些建议](https://www.v2ex.com/t/705604) ![](assets/new.png)  
-- [2020-09-09-服务器安全请教](https://www.v2ex.com/t/705603) ![](assets/new.png)  
-- [2020-09-09-招人得物海外客户端招募-iOS/Android-初级/中级开发](https://www.v2ex.com/t/705602) ![](assets/new.png)  
-- [2020-09-09-上海-硅谷高科技-IOT-公司-Proxy-招前端工程师-2-3ys,小程序背景）25-30k-福利好-大部分时间-WFH](https://www.v2ex.com/t/705601) ![](assets/new.png)  
-- [2020-09-09-安卓日常使用-root/xposed-过的机子做主力机的前景？](https://www.v2ex.com/t/705600) ![](assets/new.png)  
-- [2020-09-09-招人得物平台架构组招募-iOS/Android-初级/高级/资深开发](https://www.v2ex.com/t/705599) ![](assets/new.png)  
-- [2020-09-09-Python-如何优雅地处理子线程异常？](https://www.v2ex.com/t/705598) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1099,6 +1079,26 @@
 </summary>
 
 
+- [2020-09-09-运维自动化工具-Ansible-原理及意义](https://toutiao.io/k/j618xnl) ![](assets/new.png)  
+- [2020-09-09-K8s-上的-Go-服务怎么扩容、发版更新、回滚、平滑重启？教你用-Deployment-全搞定](https://toutiao.io/k/qbkjrv0) ![](assets/new.png)  
+- [2020-09-09-资料-|-Git-魔法.pdf](https://toutiao.io/k/poerfhe) ![](assets/new.png)  
+- [2020-09-09-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-09-创建对象的最佳方式是什么？](https://toutiao.io/k/pv6tv2d) ![](assets/new.png)  
+- [2020-09-09-站在使用层面，Bean-Validation-这些标准接口你需要烂熟于胸](https://toutiao.io/k/qhycoq3) ![](assets/new.png)  
+- [2020-09-09-比能力更重要的是你的底层操作系统](https://toutiao.io/k/9okrprb) ![](assets/new.png)  
+- [2020-09-09-社招面试经历](https://toutiao.io/k/yvm0wbe) ![](assets/new.png)  
+- [2020-09-09-提升开发效率-N-倍的-20+-命令行神器（附-demo）](https://toutiao.io/k/nims2je) ![](assets/new.png)  
+- [2020-09-09-数据湖技术-Iceberg-的探索与实践](https://toutiao.io/k/e60xpun) ![](assets/new.png)  
+- [2020-09-09-不要让远程办公成为团队协作的绊脚石](https://toutiao.io/k/rqxhxxd) ![](assets/new.png)  
+- [2020-09-09-译-CGO-如何生成兼容-C-的结构体？](https://toutiao.io/k/1tbwqey) ![](assets/new.png)  
+- [2020-09-09-图解-DataX-核心设计原理](https://toutiao.io/k/v1hn7ub) ![](assets/new.png)  
+- [2020-09-09-学会-wire-依赖注入、cron-定时任务其实就这么简单](https://toutiao.io/k/ek1ow76) ![](assets/new.png)  
+- [2020-09-09-Hive-SQL-使用过程中的奇怪现象](https://toutiao.io/k/oisaipn) ![](assets/new.png)  
+- [2020-09-09-不要再问我-in，exists-走不走索引了](https://toutiao.io/k/b46dizj) ![](assets/new.png)  
+- [2020-09-09-LeetCode-多线程之交替打印-FooBar](https://toutiao.io/k/1idqjfb) ![](assets/new.png)  
+- [2020-09-09-OPPO-云原生-Service-Mesh-探索与实践](https://toutiao.io/k/3nt8cg0) ![](assets/new.png)  
+- [2020-09-09-Kubernetes-无状态应用的一般特征](https://toutiao.io/k/dmc9bgu) ![](assets/new.png)  
+- [2020-09-09-图像编辑新作：连续色彩迁移](https://toutiao.io/k/kbafp6d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

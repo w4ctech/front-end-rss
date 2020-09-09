@@ -3941,10 +3941,36 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "Vue 知识点汇总",
+        "link": "https://juejin.im/post/6870315059189383176",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "vue+node.js手把手教你搭建一个直播平台（二）",
+        "link": "https://juejin.im/post/6870313552381476878",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "webpack搭建项目流程(纯干货)",
+        "link": "https://juejin.im/post/6870312297055649800",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "关于React Native调用Android原生方法",
+        "link": "https://juejin.im/post/6870311782725091342",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "React Hooks学习总结",
+        "link": "https://juejin.im/post/6870310874968489991",
+        "date": "2020-09-08"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -4104,7 +4130,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4278,6 +4304,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "在助理岗考实验室的研究生还是继续找 Java 的工作？",
+        "link": "https://www.v2ex.com/t/705572",
+        "date": "2020-09-09"
+      },
       {
         "title": "Linux 8GB 总内存只识别到 5.69GB",
         "link": "https://www.v2ex.com/t/705571",
@@ -4476,11 +4507,6 @@
       {
         "title": "还有一周要去面试了，有什么面容/仪表整理方案能让自己看起来精神阳光一些的",
         "link": "https://www.v2ex.com/t/705523",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "HIVE 增量数据的问题",
-        "link": "https://www.v2ex.com/t/705522",
         "date": "2020-09-09"
       }
     ]
@@ -4698,8 +4724,63 @@
         "date": "2020-09-09"
       },
       {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-09"
+      },
+      {
         "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
         "link": "https://toutiao.io/k/gatrxff",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
+        "link": "https://toutiao.io/k/jhsjj8v",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
+        "link": "https://toutiao.io/k/749snp6",
         "date": "2020-09-09"
       },
       {
@@ -4713,63 +4794,8 @@
         "date": "2020-09-09"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 程序日志级别规范",
-        "link": "https://toutiao.io/k/sf65q0v",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
         "date": "2020-09-09"
       }
     ]

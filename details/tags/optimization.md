@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 10:23:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 10:32:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -31,4 +31,3 @@
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-09-02-重磅！！Gradle-6.6-发布，大幅提升性能！](https://www.ershicimi.com/p/5bae6c72a775ac5d441656380ded66ae) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2020-09-09-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) 

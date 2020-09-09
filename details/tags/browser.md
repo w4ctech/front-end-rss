@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 10:23:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 10:32:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,6 +31,7 @@
 - [2020-09-09-用-Pocket-的-v-友，你们能用-firefox-登录吗？](https://www.v2ex.com/t/705538) 
 - [2020-09-09-为什么-safari-浏览器所有网页都可以整页截图，唯独-gmail-不行？](https://www.v2ex.com/t/705527) 
 - [2020-09-09-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-09-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-08-征文-|-​黄乐:安全产品POC那些事](https://sec.thief.one/article_content?a_id=12e7415421afa57cea0c378df7e53114) 
 - [2020-09-08-中方提出《全球数据安全倡议》,开启数字安全全球化规则进程](https://sec.thief.one/article_content?a_id=16354b261d42749afc84bd3c8dcf9cca) 
 - [2020-09-08-PHP安全:文件包含安全](https://sec.thief.one/article_content?a_id=e248e285b9f2364087475e03bfa29fdc) 

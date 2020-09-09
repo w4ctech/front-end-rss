@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 18:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 18:26:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -36,4 +36,10 @@
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
 - [2020-09-01-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/cd5098c850b48905d5cc8c1c72a88c39) 
 - [2020-09-01-面试必考：真的理解-$nextTick-么](https://www.ershicimi.com/p/bb4dac4bedfd0a58d04ed473a522ad71) 
+- [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
+- [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) 
+- [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
+- [2020-09-09-成都/西安/武汉-ThoughtWorks-大量需求安卓应用、安卓底层开发工程师-40+-HC，两年经验直接面试](https://www.v2ex.com/t/705652) 
+- [2020-09-09-社招面试经历](https://toutiao.io/k/yvm0wbe) 
+- [2020-09-09-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
 - [2020-09-09-如何迈过人生求职这道坎,翻越面试那块砖,答案就在这里](https://sec.thief.one/article_content?a_id=99fba8ba0539e6b8b7c0149debfeeb50) 

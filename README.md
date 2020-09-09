@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-09 22:03:25，:rocket: 更新条数: +1005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-09 22:11:46，:rocket: 更新条数: +1004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1137,8 +1137,8 @@
 - [2020-09-09-Hive-SQL-使用过程中的奇怪现象](https://toutiao.io/k/oisaipn) ![](assets/new.png)  
 - [2020-09-09-OPPO-云原生-Service-Mesh-探索与实践](https://toutiao.io/k/3nt8cg0) ![](assets/new.png)  
 - [2020-09-09-LeetCode-多线程之交替打印-FooBar](https://toutiao.io/k/1idqjfb) ![](assets/new.png)  
-- [2020-09-09-Kubernetes-无状态应用的一般特征](https://toutiao.io/k/dmc9bgu) ![](assets/new.png)  
 - [2020-09-09-图像编辑新作：连续色彩迁移](https://toutiao.io/k/kbafp6d) ![](assets/new.png)  
+- [2020-09-09-Kubernetes-无状态应用的一般特征](https://toutiao.io/k/dmc9bgu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

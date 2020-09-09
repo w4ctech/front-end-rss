@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 12:48:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 13:03:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -21,6 +21,5 @@
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
 - [2020-09-09-资料-|-Git-魔法.pdf](https://toutiao.io/k/poerfhe) 
-- [2020-09-09-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) 
 - [2020-09-06-他四个月公众号做到-5w-粉丝,Github-全球榜单第一!](https://sec.thief.one/article_content?a_id=a59ff2caad8859e7ca53a84e779c22f4) 
 - [2020-09-05-B站UP主自制的开源OCR翻译器走红Github,用一次就粉了](https://sec.thief.one/article_content?a_id=956dd8466d2b22fea4aba5b3fa42f464) 

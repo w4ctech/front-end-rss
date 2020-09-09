@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 15:03:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 15:12:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -30,7 +30,4 @@
 - [2020-09-01-我用React和Vue构建了同款应用，来看看哪里不一样（2020版）](https://www.ershicimi.com/p/0cc0282c4670ccc96d6386c3e3dc4c2e) 
 - [2020-08-25-React、TypeScript、NodeJS-和-MongoDB-搭建-Todo-App](https://www.ershicimi.com/p/412e64be174d44edd0778ac0d0064fc6) 
 - [2020-08-19-从0到1，搭建一个体系完善的前端React组件库](https://www.ershicimi.com/p/0b478ecb62435c984c5379106f63d692) 
-- [2020-09-02-写React-Hooks前必读](https://www.ershicimi.com/p/2a0754e176bef859c1d8c6f4fd975b4e) 
-- [2020-08-27-我就想招React，为啥遍地都是Vue？](https://www.ershicimi.com/p/4e8027229ac961bedd081251aa59b443) 
-- [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 

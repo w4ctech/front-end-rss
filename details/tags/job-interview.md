@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 19:35:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 19:47:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
@@ -45,4 +44,5 @@
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-09-09-成都/西安/武汉-ThoughtWorks-大量需求安卓应用、安卓底层开发工程师-40+-HC，两年经验直接面试](https://www.v2ex.com/t/705652) 
 - [2020-09-09-社招面试经历](https://toutiao.io/k/yvm0wbe) 
+- [2020-09-09-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
 - [2020-09-09-如何迈过人生求职这道坎,翻越面试那块砖,答案就在这里](https://sec.thief.one/article_content?a_id=99fba8ba0539e6b8b7c0149debfeeb50) 

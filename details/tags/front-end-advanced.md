@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 12:30:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 12:32:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -13,4 +13,8 @@
 - [2020-01-07-数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4) 
 - [2020-01-03-第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf) 
 - [2020-09-05-卧槽！火爆GitHub的算法电子书开放下载了！](https://www.ershicimi.com/p/d864b5a3e2141990d3a4ae5454338734) 
+- [2020-09-09-9-元秒杀-<美团&字节&快手&网易&B-站>秋招算法真题详解](https://www.v2ex.com/t/705581) 
+- [2020-09-09-是否有哪本出版的经典的算法方面的书籍讲解了-B-树和-B+树?网上的博客资料总觉得有点飘](https://www.v2ex.com/t/705556) 
+- [2020-09-09-数集的均分算法该怎么实现?](https://www.v2ex.com/t/705555) 
+- [2020-09-09-猎头寻访-地点：北京五道口，高级大数据开发工程师（带团队），推荐算法工程师。](https://www.v2ex.com/t/705549) 
 - [2020-09-09-HTTP/3-来了，你了解它么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13737&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F198959604%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

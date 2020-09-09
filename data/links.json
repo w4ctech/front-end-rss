@@ -1399,111 +1399,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/9323",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/9323",
     "title": "全栈前端精选",
     "link": "https://www.ershicimi.com/a/9323",
-    "items": [
-      {
-        "title": "(实战)Node.js 实现抢票小工具&短信通知提醒",
-        "link": "https://www.ershicimi.com/p/135231f1360380a7aed3e813e8f18695",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "SourceMap知多少：介绍与实践",
-        "link": "https://www.ershicimi.com/p/ef6328d74d9a8d4d0c098684e3292d87",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "想要学习人工智能？推荐你一条完整的学习路径！",
-        "link": "https://www.ershicimi.com/p/a75c929ceebd3c41432f6c3f925ec5ab",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "13 个 你不得不知道的 npm 快速开发技巧",
-        "link": "https://www.ershicimi.com/p/aeb1125cea08e55df813496be609fd0f",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "JavaScript红宝书第4版，送！！！",
-        "link": "https://www.ershicimi.com/p/a4f6302fb39e9a27999c12cd5f220fb0",
-        "date": "2020-09-06"
-      },
-      {
-        "title": "《TypeScript 项目开发实战》送！！！",
-        "link": "https://www.ershicimi.com/p/50f1c291a5460b5970bb2483827e6eae",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "Babel是如何读懂JS代码的",
-        "link": "https://www.ershicimi.com/p/faad2dc6631b33a4e757150901996f4b",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "前端必会：CDN加速原理",
-        "link": "https://www.ershicimi.com/p/8296d15733f9550fb9973cddf12f7500",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "厉害了！！前端最火的 Vue 框架，你用对了么？！",
-        "link": "https://www.ershicimi.com/p/d0adcc41f5e8fb311119c89147ff430c",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "应该在JavaScript中使用Class吗",
-        "link": "https://www.ershicimi.com/p/f907df50ac697ede04cc4769768768cd",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "你不知道的 TypeScript 高级技巧",
-        "link": "https://www.ershicimi.com/p/3600b9930214c547bb019511d95d007b",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "10+个很酷的VueJS组件，模板和实验示例",
-        "link": "https://www.ershicimi.com/p/f04663071e252f48137db709798c168e",
-        "date": "2020-08-29"
-      },
-      {
-        "title": "搞懂 Vue ，这一篇文章就够了！",
-        "link": "https://www.ershicimi.com/p/444f4613aecd2e0ab48a588378e0bbb1",
-        "date": "2020-08-28"
-      },
-      {
-        "title": "「面经」你可能需要的三轮网易面经",
-        "link": "https://www.ershicimi.com/p/cc00727fef337a6075023536af1a6109",
-        "date": "2020-08-28"
-      },
-      {
-        "title": "Gitlab-ci:从零开始的前端自动化部署",
-        "link": "https://www.ershicimi.com/p/934717cb9aa4c27d76f4942db0d4410f",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "TypeScript 4.0正式发布！现在是开始使用它的最佳时机",
-        "link": "https://www.ershicimi.com/p/af4e71a9b7323e89cdbee04b4a0a1e6a",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "七夕 - 程序员表白代码",
-        "link": "https://www.ershicimi.com/p/1276541957823b562376c4ec118afd5b",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "前端工程师如何修炼自己的编程内力",
-        "link": "https://www.ershicimi.com/p/ebd0d0bba98a7d78d915411f5a6b0685",
-        "date": "2020-08-24"
-      },
-      {
-        "title": "混搭 TypeScript + GraphQL + DI + Decorator 风格写 Node.",
-        "link": "https://www.ershicimi.com/p/3f9c5e504cd65c71a6f06248462741f3",
-        "date": "2020-08-24"
-      },
-      {
-        "title": "美国如果把根域名服务器封了，中国会从网络上消失？",
-        "link": "https://www.ershicimi.com/p/bb12a608aac48dd6785804ac0931e4bd",
-        "date": "2020-08-23"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10195",
@@ -3184,10 +3083,206 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "请问 Mac 上的磁盘管理机制是什么样的？感觉好乱，怎么才能让他整洁一点呢？",
+        "link": "https://www.v2ex.com/t/705643",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "国外访问中国网站, 网速很慢, 有什么方法可以解决吗",
+        "link": "https://www.v2ex.com/t/705642",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "2020-09-03 ~ 2020-09-09 GitHub 周报",
+        "link": "https://www.v2ex.com/t/705640",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "不懂就问： node.js 做静态资源服务器如何？",
+        "link": "https://www.v2ex.com/t/705637",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "《一往无前》雷军亲述小米热血 10 年摘录",
+        "link": "https://www.v2ex.com/t/705635",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "20 届应届毕业生求职~",
+        "link": "https://www.v2ex.com/t/705634",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "2018-2020 , 跳票两年的 DSM 7.0 终于来了",
+        "link": "https://www.v2ex.com/t/705633",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "请注意，部分应用会在 Pixel 升级到 Android 11 后导致 Luancher 无限 FC",
+        "link": "https://www.v2ex.com/t/705631",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[不懂就问] 请问这段 go 代码该如何优化",
+        "link": "https://www.v2ex.com/t/705630",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "网页图书如何转为电子书格式？",
+        "link": "https://www.v2ex.com/t/705629",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "Python 调用 c 这两种做法的不同",
+        "link": "https://www.v2ex.com/t/705628",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "iMac 2020 款 如果过保修，硬盘坏了怎么办？可不可以外置硬盘作为系统盘？",
+        "link": "https://www.v2ex.com/t/705627",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "网购防蓝光眼镜，有推荐的吗",
+        "link": "https://www.v2ex.com/t/705626",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "win10 这个图标",
+        "link": "https://www.v2ex.com/t/705625",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "想要转行到大数据工程师，从腾讯的大数据培训班入手靠谱么？",
+        "link": "https://www.v2ex.com/t/705623",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "惊了。。。爬虫这种公众号烂大街的文章也能上 nature 。。。",
+        "link": "https://www.v2ex.com/t/705622",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "微信支付 notify_url 回调重复通知",
+        "link": "https://www.v2ex.com/t/705621",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "请教一个网络配置相关的问题",
+        "link": "https://www.v2ex.com/t/705620",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "袋鼠这一招棋走的妙啊~~~",
+        "link": "https://www.v2ex.com/t/705619",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "自己建了个小站，帮助大家对比薪资和级别，希望大家提出意见！",
+        "link": "https://www.v2ex.com/t/705618",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "饿了么支付宝小程序餐具份数选择不会立即更新",
+        "link": "https://www.v2ex.com/t/705617",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "哥哥姐姐们,求个 ffmpeg 指令~",
+        "link": "https://www.v2ex.com/t/705616",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "ITX 平台对比 OEM 大厂的 SFF 小电脑有那些优缺点？",
+        "link": "https://www.v2ex.com/t/705615",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "新 mac 小白用户，想咨询一个 mac 系统下的截图粘贴尺寸大问题",
+        "link": "https://www.v2ex.com/t/705613",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "联通大王卡，流量选项怎么也玩文字游戏了？？",
+        "link": "https://www.v2ex.com/t/705612",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "如何访问非中国区 Apple Music 网页？",
+        "link": "https://www.v2ex.com/t/705611",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "PHP 引用其他类问题请教",
+        "link": "https://www.v2ex.com/t/705609",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "求推荐医疗保险",
+        "link": "https://www.v2ex.com/t/705608",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "Google Chrome Helper 问题",
+        "link": "https://www.v2ex.com/t/705607",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "求一个 H5 聊天室源代码",
+        "link": "https://www.v2ex.com/t/705605",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "应届入职感觉被坑了，想求一些建议",
+        "link": "https://www.v2ex.com/t/705604",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "服务器安全请教",
+        "link": "https://www.v2ex.com/t/705603",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[招人]得物海外客户端招募 iOS/Android 初级/中级开发",
+        "link": "https://www.v2ex.com/t/705602",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[上海] 硅谷高科技 IOT 公司 Proxy 招前端工程师 (2-3ys,小程序背景）25-30k 福利好 大部分时间 WFH",
+        "link": "https://www.v2ex.com/t/705601",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "安卓日常使用 root/xposed 过的机子做主力机的前景？",
+        "link": "https://www.v2ex.com/t/705600",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[招人]得物平台架构组招募 iOS/Android 初级/高级/资深开发",
+        "link": "https://www.v2ex.com/t/705599",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "Python 如何优雅地处理子线程异常？",
+        "link": "https://www.v2ex.com/t/705598",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[北上广深杭][网易内推]网易热招， hc 多多，有需要的大佬看过来",
+        "link": "https://www.v2ex.com/t/705597",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[求租/找室友] 9 号线漕河泾 或者 12 号线虹梅路 或者 1 号线莲花路 附近",
+        "link": "https://www.v2ex.com/t/705596",
+        "date": "2020-09-09"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -3402,8 +3497,13 @@
         "date": "2020-09-09"
       },
       {
-        "title": "[推荐] 大厂是如何使用 JMH 进行 Java 代码性能测试的？必须掌握",
-        "link": "https://toutiao.io/k/lti22p3",
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 如何做一个懂产品的程序员？",
+        "link": "https://toutiao.io/k/xeriwdj",
         "date": "2020-09-09"
       },
       {
@@ -3412,58 +3512,23 @@
         "date": "2020-09-09"
       },
       {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
         "date": "2020-09-09"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-09"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
+        "title": "[推荐] 大厂是如何使用 JMH 进行 Java 代码性能测试的？必须掌握",
+        "link": "https://toutiao.io/k/lti22p3",
         "date": "2020-09-09"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
-        "link": "https://toutiao.io/k/8r5oqql",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "[推荐] 程序日志级别规范",
-        "link": "https://toutiao.io/k/sf65q0v",
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-09"
       },
       {
@@ -3472,8 +3537,38 @@
         "date": "2020-09-09"
       },
       {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] Linux 系统优化（内核优化）",
+        "link": "https://toutiao.io/k/bopgl5e",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
         "date": "2020-09-09"
       }
     ]

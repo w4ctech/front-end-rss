@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-09 23:21:26，:rocket: 更新条数: +1004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-09 23:32:36，:rocket: 更新条数: +986， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1119,26 +1119,23 @@
 </summary>
 
 
-- [2020-09-09-运维自动化工具-Ansible-原理及意义](https://toutiao.io/k/j618xnl) ![](assets/new.png)  
-- [2020-09-09-K8s-上的-Go-服务怎么扩容、发版更新、回滚、平滑重启？教你用-Deployment-全搞定](https://toutiao.io/k/qbkjrv0) ![](assets/new.png)  
-- [2020-09-09-资料-|-Git-魔法.pdf](https://toutiao.io/k/poerfhe) ![](assets/new.png)  
-- [2020-09-09-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-09-创建对象的最佳方式是什么？](https://toutiao.io/k/pv6tv2d) ![](assets/new.png)  
-- [2020-09-09-站在使用层面，Bean-Validation-这些标准接口你需要烂熟于胸](https://toutiao.io/k/qhycoq3) ![](assets/new.png)  
-- [2020-09-09-比能力更重要的是你的底层操作系统](https://toutiao.io/k/9okrprb) ![](assets/new.png)  
-- [2020-09-09-提升开发效率-N-倍的-20+-命令行神器（附-demo）](https://toutiao.io/k/nims2je) ![](assets/new.png)  
-- [2020-09-09-社招面试经历](https://toutiao.io/k/yvm0wbe) ![](assets/new.png)  
-- [2020-09-09-数据湖技术-Iceberg-的探索与实践](https://toutiao.io/k/e60xpun) ![](assets/new.png)  
-- [2020-09-09-不要让远程办公成为团队协作的绊脚石](https://toutiao.io/k/rqxhxxd) ![](assets/new.png)  
-- [2020-09-09-不要再问我-in，exists-走不走索引了](https://toutiao.io/k/b46dizj) ![](assets/new.png)  
-- [2020-09-09-译-CGO-如何生成兼容-C-的结构体？](https://toutiao.io/k/1tbwqey) ![](assets/new.png)  
-- [2020-09-09-图解-DataX-核心设计原理](https://toutiao.io/k/v1hn7ub) ![](assets/new.png)  
-- [2020-09-09-学会-wire-依赖注入、cron-定时任务其实就这么简单](https://toutiao.io/k/ek1ow76) ![](assets/new.png)  
-- [2020-09-09-Hive-SQL-使用过程中的奇怪现象](https://toutiao.io/k/oisaipn) ![](assets/new.png)  
-- [2020-09-09-OPPO-云原生-Service-Mesh-探索与实践](https://toutiao.io/k/3nt8cg0) ![](assets/new.png)  
-- [2020-09-09-LeetCode-多线程之交替打印-FooBar](https://toutiao.io/k/1idqjfb) ![](assets/new.png)  
-- [2020-09-09-Kubernetes-无状态应用的一般特征](https://toutiao.io/k/dmc9bgu) ![](assets/new.png)  
-- [2020-09-09-图像编辑新作：连续色彩迁移](https://toutiao.io/k/kbafp6d) ![](assets/new.png)  
+- [2020-09-09-任正非：若果有人拧熄了灯塔，我们怎么航行？|-码农周刊第-317-期](https://toutiao.io/k/ixcjpqn) ![](assets/new.png)  
+- [2020-09-09-工具-|-搜狗公司-C++-服务器引擎](https://toutiao.io/k/7ih2f4v) ![](assets/new.png)  
+- [2020-09-09-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
+- [2020-09-09-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) ![](assets/new.png)  
+- [2020-09-09-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-09-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-09-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-09-推荐-消息队列之推还是拉，RocketMQ-和-Kafka-是如何做的？](https://toutiao.io/k/749snp6) ![](assets/new.png)  
+- [2020-09-09-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-09-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
+- [2020-09-09-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-09-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
+- [2020-09-09-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-09-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-09-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
+- [2020-09-09-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-09-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

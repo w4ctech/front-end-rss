@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-09 23:34:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 23:47:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-09-创业如何组建自己的一个团队](https://www.v2ex.com/t/705664) 
 - [2020-09-09-分享一个在杭州骑车过红绿灯的心得技巧😂😂](https://www.v2ex.com/t/705662) 
 - [2020-09-09-vscode-insiders-1.49-似乎修好了在-Windows-上-HDR-显示的问题](https://www.v2ex.com/t/705661) 
 - [2020-09-09-吐槽工资](https://www.v2ex.com/t/705658) 
@@ -43,4 +44,3 @@
 - [2020-09-09-饿了么支付宝小程序餐具份数选择不会立即更新](https://www.v2ex.com/t/705617) 
 - [2020-09-09-哥哥姐姐们,求个-ffmpeg-指令~](https://www.v2ex.com/t/705616) 
 - [2020-09-09-ITX-平台对比-OEM-大厂的-SFF-小电脑有那些优缺点？](https://www.v2ex.com/t/705615) 
-- [2020-09-09-新-mac-小白用户，想咨询一个-mac-系统下的截图粘贴尺寸大问题](https://www.v2ex.com/t/705613) 

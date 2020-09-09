@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 04:49:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 05:03:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -55,7 +55,6 @@
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-09-05-TypeScript-4.1-新特性：字符串模板类型，Vuex-终于有救了？](https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80) 
 - [2020-09-01-Vue-Composition-API-陷阱](https://www.ershicimi.com/p/2803a18549e9516648ab6f334a327b39) 
-- [2020-09-02-Vue.js-教程：构建一个特斯拉汽车余电计算器](https://www.ershicimi.com/p/e4b2fef1677dcbd2e31cb5253e688411) 
 - [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) 
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f) 
 - [2020-09-08-Vuex基础知识梳理](https://juejin.im/post/6870146101853290503) 

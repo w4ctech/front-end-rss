@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 06:35:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 06:47:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -24,4 +24,5 @@
 - [2020-09-08-促膝长谈-|-webpack-模块热替换-HMR---hot-module-replacement](https://juejin.im/post/6870258201384714253) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-09-09-团队在高速扩张中的能力构建与质量保证-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13754&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcapacity-building-and-quality-assurance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-09-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) 
 - [2020-09-08-一张图告诉你,如何构建内网隐蔽通道](https://sec.thief.one/article_content?a_id=b4a1a12b062ed61ab0f547fb76749d98) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 03:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 04:03:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -24,5 +24,7 @@
 - [2020-09-09-问个关于-git-和-Linux-进程的问题](https://www.v2ex.com/t/705426) 
 - [2020-09-09-求助，-tortoiseGit-的文件图标不见了](https://www.v2ex.com/t/705407) 
 - [2020-09-09-资料-|-Git-魔法.pdf](https://toutiao.io/k/poerfhe) 
+- [2020-09-09-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) 
+- [2020-09-09-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) 
 - [2020-09-06-他四个月公众号做到-5w-粉丝,Github-全球榜单第一!](https://sec.thief.one/article_content?a_id=a59ff2caad8859e7ca53a84e779c22f4) 
 - [2020-09-05-B站UP主自制的开源OCR翻译器走红Github,用一次就粉了](https://sec.thief.one/article_content?a_id=956dd8466d2b22fea4aba5b3fa42f464) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-09 01:48:53，:rocket: 更新条数: +3603， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-09 02:03:49，:rocket: 更新条数: +995， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-09-08-9月8日全国新增境外输入新冠2例](http://m.china.caixin.com/m/2020-09-09/101602935.html) ![](assets/new.png)  
-- [2020-09-07-港专家：婴儿粪便新冠病毒量高出成人多倍](http://m.china.caixin.com/m/2020-09-08/101602464.html) ![](assets/new.png)  
-- [2020-09-07-全国抗击新冠肺炎疫情表彰大会举行-习近平颁授勋章奖章并讲话](http://m.china.caixin.com/m/2020-09-08/101602614.html) ![](assets/new.png)  
-- [2020-09-07-最新海外疫情：新冠感染超2721万-累计死亡超88万](http://m.international.caixin.com/m/2020-09-08/101602795.html) ![](assets/new.png)  
-- [2020-09-07-【境内疫情观察】新疆现有确诊病例和无症状感染者全部清零（9月7日）](http://m.database.caixin.com/m/2020-09-08/101602534.html) ![](assets/new.png)  
-- [2020-09-07-大流行手记|9月7日：英国疫情抬头-印度感染人数超巴西成全球第二](https://m.caixin.com/m/2020-09-08/101602427.html) ![](assets/new.png)  
-- [2020-09-06-【境内疫情观察】全国新增12例境外输入病例（9月6日）](http://m.database.caixin.com/m/2020-09-07/101602132.html) ![](assets/new.png)  
-- [2020-09-06-大流行手记|9月6日：印度疫情蔓延迅速-美药企拟联合声明拒绝疫苗仓促上市](https://m.caixin.com/m/2020-09-07/101602016.html) ![](assets/new.png)  
-- [2020-09-06-美专家：如何看待疫情，美两党选民差异显著](http://m.international.caixin.com/m/2020-09-07/101602182.html) ![](assets/new.png)  
-- [2020-09-05-【境内疫情观察】全国新增10例境外输入病例（9月5日）](http://m.database.caixin.com/m/2020-09-06/101601891.html) ![](assets/new.png)  
-- [2020-09-05-大流行手记|9月5日：法国22所学校现疫情被关闭-研究预测美国今年新冠病死41万人](https://m.caixin.com/m/2020-09-06/101601876.html) ![](assets/new.png)  
-- [2020-09-04-【境内疫情观察】全国连续20日无新增本土病例（9月4日）](http://m.database.caixin.com/m/2020-09-05/101601775.html) ![](assets/new.png)  
-- [2020-09-04-大流行手记|9月4日：WHO称暂无疫苗保护率超50%-九成国家基本卫生服务受打击](https://m.caixin.com/m/2020-09-05/101601701.html) ![](assets/new.png)  
-- [2020-09-04-美疾控吁各州做好11月初分发疫苗准备-官员称与选举无关](http://m.international.caixin.com/m/2020-09-05/101601647.html) ![](assets/new.png)  
-- [2020-09-03-香港全民检测-化验21万人4宗确诊](http://m.china.caixin.com/m/2020-09-04/101601542.html) ![](assets/new.png)  
-- [2020-09-03-【境内疫情观察】广东新增13例境外输入病例（9月3日）](http://m.database.caixin.com/m/2020-09-04/101601203.html) ![](assets/new.png)  
-- [2020-09-03-大流行手记|9月3日：印度日新增病例超8万-美国拟大选前大规模分发疫苗](https://m.caixin.com/m/2020-09-04/101601074.html) ![](assets/new.png)  
-- [2020-09-02-【境内疫情观察】全国新增11例境外输入病例（9月2日）](http://m.database.caixin.com/m/2020-09-03/101600745.html) ![](assets/new.png)  
-- [2020-09-02-大流行手记|9月2日：美拒绝参与全球新冠疫苗计划-日本拟免费全民接种](https://m.caixin.com/m/2020-09-03/101600607.html) ![](assets/new.png)  
-- [2020-09-02-耶鲁公卫院长：疫苗民族主义无法终结全球大流行病](http://m.international.caixin.com/m/2020-09-03/101600933.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,13 @@
 </summary>
 
 
+- [2020-09-09-360-数科实践：-JanusGraph-到-NebulaGraph-迁移](https://www.v2ex.com/t/705388) ![](assets/new.png)  
+- [2020-09-09-Laravel-8-正式发布，一起来看看有哪些新特性吧](https://www.v2ex.com/t/705387) ![](assets/new.png)  
+- [2020-09-09-上海钢联-2020-招聘，南昌研发岗。大量-HC](https://www.v2ex.com/t/705385) ![](assets/new.png)  
+- [2020-09-09-求助如何调用百度的地图的底图？](https://www.v2ex.com/t/705383) ![](assets/new.png)  
+- [2020-09-09-iPhone-11-128g-京东自营-4899-12-期免息。](https://www.v2ex.com/t/705382) ![](assets/new.png)  
+- [2020-09-09-安卓-11-发布了](https://www.v2ex.com/t/705381) ![](assets/new.png)  
+- [2020-09-09-北京联通现在最低的套餐是-300M-的了，-1480-一年](https://www.v2ex.com/t/705379) ![](assets/new.png)  
 - [2020-09-09-推荐一些可以加在简历上的免费实战项目](https://www.v2ex.com/t/705378) ![](assets/new.png)  
 - [2020-09-09-如何得出-第一周-1.1-1.7-第二周-1.8-14-这样的格式](https://www.v2ex.com/t/705376) ![](assets/new.png)  
 - [2020-09-09-sort-命令-与-vi-命令-与-中文-问题-doge](https://www.v2ex.com/t/705375) ![](assets/new.png)  
@@ -1090,13 +1077,6 @@
 - [2020-09-09-个人（灵活就业者）以全额缴纳职工医保划算吗](https://www.v2ex.com/t/705363) ![](assets/new.png)  
 - [2020-09-09-请问各位，百度产品网站对-ip-地址的访问记录记录保存多久](https://www.v2ex.com/t/705362) ![](assets/new.png)  
 - [2020-09-09-Big-Sur-回滚-Catalina-版本之后通知中心键不在顶栏了](https://www.v2ex.com/t/705361) ![](assets/new.png)  
-- [2020-09-09-薪资证明怎么办](https://www.v2ex.com/t/705359) ![](assets/new.png)  
-- [2020-09-08-Android-11](https://www.v2ex.com/t/705358) ![](assets/new.png)  
-- [2020-09-08-Airpods-pro-与洗衣机的激烈交锋](https://www.v2ex.com/t/705356) ![](assets/new.png)  
-- [2020-09-08-怎么用-sed-实现替换':'变为'\0'，即类似-tr-':'-'\0'-的效果呢](https://www.v2ex.com/t/705355) ![](assets/new.png)  
-- [2020-09-08-ZPan-招募-Contributors-有人想一起做一个开源项目么？需要-Gopher-和-Vuer](https://www.v2ex.com/t/705354) ![](assets/new.png)  
-- [2020-09-08-华为云对象存储数据无故丢失，选择云存储时请慎重！](https://www.v2ex.com/t/705353) ![](assets/new.png)  
-- [2020-09-08-cnzz-的统计-js-经常打开很慢，大家有推荐的速度快点的统计吗](https://www.v2ex.com/t/705351) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,21 +1124,21 @@
 - [2020-09-09-K8s-上的-Go-服务怎么扩容、发版更新、回滚、平滑重启？教你用-Deployment-全搞定](https://toutiao.io/k/qbkjrv0) ![](assets/new.png)  
 - [2020-09-09-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
 - [2020-09-09-创建对象的最佳方式是什么？](https://toutiao.io/k/pv6tv2d) ![](assets/new.png)  
-- [2020-09-09-数据湖技术-Iceberg-的探索与实践](https://toutiao.io/k/e60xpun) ![](assets/new.png)  
 - [2020-09-09-社招面试经历](https://toutiao.io/k/yvm0wbe) ![](assets/new.png)  
+- [2020-09-09-数据湖技术-Iceberg-的探索与实践](https://toutiao.io/k/e60xpun) ![](assets/new.png)  
 - [2020-09-09-不要让远程办公成为团队协作的绊脚石](https://toutiao.io/k/rqxhxxd) ![](assets/new.png)  
 - [2020-09-09-译-CGO-如何生成兼容-C-的结构体？](https://toutiao.io/k/1tbwqey) ![](assets/new.png)  
 - [2020-09-09-Hive-SQL-使用过程中的奇怪现象](https://toutiao.io/k/oisaipn) ![](assets/new.png)  
 - [2020-09-09-站在使用层面，Bean-Validation-这些标准接口你需要烂熟于胸](https://toutiao.io/k/qhycoq3) ![](assets/new.png)  
 - [2020-09-09-比能力更重要的是你的底层操作系统](https://toutiao.io/k/9okrprb) ![](assets/new.png)  
-- [2020-09-09-图解-DataX-核心设计原理](https://toutiao.io/k/v1hn7ub) ![](assets/new.png)  
 - [2020-09-09-提升开发效率-N-倍的-20+-命令行神器（附-demo）](https://toutiao.io/k/nims2je) ![](assets/new.png)  
+- [2020-09-09-图解-DataX-核心设计原理](https://toutiao.io/k/v1hn7ub) ![](assets/new.png)  
 - [2020-09-09-学会-wire-依赖注入、cron-定时任务其实就这么简单](https://toutiao.io/k/ek1ow76) ![](assets/new.png)  
-- [2020-09-09-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-09-推荐-如何做一个懂产品的程序员？](https://toutiao.io/k/xeriwdj) ![](assets/new.png)  
-- [2020-09-09-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-09-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-09-推荐-开发出优秀的-API，构建-RESTful-API-的-13-种最佳实践，学会此文就很优秀了](https://toutiao.io/k/jhsjj8v) ![](assets/new.png)  
+- [2020-09-09-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-09-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-09-推荐-大厂是如何使用-JMH-进行-Java-代码性能测试的？必须掌握](https://toutiao.io/k/lti22p3) ![](assets/new.png)  
+- [2020-09-09-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-09-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

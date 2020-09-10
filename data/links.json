@@ -13497,6 +13497,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2061期】「划线高亮」和「插入笔记」—— 不止是前端知识点",
+        "link": "https://www.ershicimi.com/p/2abe050d4d4e378256169c7f315c4ffc",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "【招聘】阿里云-GTS-金融业务交付（北/上/广/深/杭/西安/成都）金融交付专家（Android、",
+        "link": "https://www.ershicimi.com/p/da6c36b95adca2b5ed98f1473beedcbf",
+        "date": "2020-09-10"
+      },
+      {
         "title": "【第2060期】现代浏览器内部揭秘之二",
         "link": "https://www.ershicimi.com/p/8aad4f0ad581c8838769e9bf858aa95b",
         "date": "2020-09-09"
@@ -13584,16 +13594,6 @@
       {
         "title": "【第2048期】网站的不同版本可能会同时运行",
         "link": "https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a",
-        "date": "2020-08-28"
-      },
-      {
-        "title": "【招聘】上海意派信息科技有限公司招前端研发工程师",
-        "link": "https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c",
-        "date": "2020-08-28"
-      },
-      {
-        "title": "【第2047期】如何使用AVIF：新一代图像压缩格式",
-        "link": "https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53",
         "date": "2020-08-28"
       }
     ]
@@ -17705,13 +17705,13 @@
         "date": "2020-09-10"
       },
       {
-        "title": "聊聊 Google 的工程实践（二）",
-        "link": "https://toutiao.io/k/drhzsk5",
+        "title": "图解 Go 内存管理器的内存分配策略",
+        "link": "https://toutiao.io/k/0rwr3wc",
         "date": "2020-09-10"
       },
       {
-        "title": "图解 Go 内存管理器的内存分配策略",
-        "link": "https://toutiao.io/k/0rwr3wc",
+        "title": "聊聊 Google 的工程实践（二）",
+        "link": "https://toutiao.io/k/drhzsk5",
         "date": "2020-09-10"
       },
       {
@@ -17720,13 +17720,8 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-10"
       },
       {
@@ -17735,43 +17730,13 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
-        "link": "https://toutiao.io/k/8r5oqql",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
         "date": "2020-09-10"
       },
       {
@@ -17780,8 +17745,13 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-10"
       },
       {
@@ -17790,8 +17760,38 @@
         "date": "2020-09-10"
       },
       {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-10"
+      },
+      {
         "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
         "link": "https://toutiao.io/k/cgycnq9",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-10"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-10 22:34:23，:rocket: 更新条数: +3605， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-10 22:47:20，:rocket: 更新条数: +3605， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -229,6 +229,8 @@
 </summary>
 
 
+- [2020-09-10-【第2061期】「划线高亮」和「插入笔记」——-不止是前端知识点](https://www.ershicimi.com/p/2abe050d4d4e378256169c7f315c4ffc) ![](assets/new.png)  
+- [2020-09-10-【招聘】阿里云-GTS-金融业务交付（北/上/广/深/杭/西安/成都）金融交付专家（Android、](https://www.ershicimi.com/p/da6c36b95adca2b5ed98f1473beedcbf) ![](assets/new.png)  
 - [2020-09-09-【第2060期】现代浏览器内部揭秘之二](https://www.ershicimi.com/p/8aad4f0ad581c8838769e9bf858aa95b) ![](assets/new.png)  
 - [2020-09-08-【第2059期】唤起-App-在转转的实践](https://www.ershicimi.com/p/e7443110a39a7dc60911f68d4a2798a5) ![](assets/new.png)  
 - [2020-09-07-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/1f8b456d3a2ea6d977e969610e3fd41e) ![](assets/new.png)  
@@ -247,8 +249,6 @@
 - [2020-08-30-【招聘】阿里淘宝事业群C2M事业部招资深前端开发工程师/P6](https://www.ershicimi.com/p/c66a63b15451a0cf214b48a65d8d58ee) ![](assets/new.png)  
 - [2020-08-29-【第2049期】从第一代-iPhone-细数到-iPhone-12，iPhone-屏幕尺寸进化历程背](https://www.ershicimi.com/p/b67e4fdc4d2b694f53d7a8089bd9c362) ![](assets/new.png)  
 - [2020-08-28-【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a) ![](assets/new.png)  
-- [2020-08-28-【招聘】上海意派信息科技有限公司招前端研发工程师](https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c) ![](assets/new.png)  
-- [2020-08-28-【第2047期】如何使用AVIF：新一代图像压缩格式](https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1156,8 +1156,8 @@
 - [2020-09-10-为开源项目做贡献的-10-个步骤](https://toutiao.io/k/7xbq36k) ![](assets/new.png)  
 - [2020-09-10-Redis-和-Memcached-的恩怨情仇](https://toutiao.io/k/n2w1gfz) ![](assets/new.png)  
 - [2020-09-10-审查代码有风险吗？](https://toutiao.io/k/zskyk64) ![](assets/new.png)  
-- [2020-09-10-聊聊-Google-的工程实践（二）](https://toutiao.io/k/drhzsk5) ![](assets/new.png)  
 - [2020-09-10-图解-Go-内存管理器的内存分配策略](https://toutiao.io/k/0rwr3wc) ![](assets/new.png)  
+- [2020-09-10-聊聊-Google-的工程实践（二）](https://toutiao.io/k/drhzsk5) ![](assets/new.png)  
 - [2020-09-10-译-聚焦-Android-11-:-隐私和安全](https://toutiao.io/k/nccpa6r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-10 11:21:30，:rocket: 更新条数: +3397， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-10 11:32:42，:rocket: 更新条数: +3395， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-10-FCPX-剪辑的一个问题，如何在字幕的准确时间，放入对应图片。或者是如何做到精确插入图片](https://www.v2ex.com/t/705903) ![](assets/new.png)  
 - [2020-09-10-今天是教师节，现在的老师一点都不负责，不配过教师节！](https://www.v2ex.com/t/705900) ![](assets/new.png)  
 - [2020-09-10-请问管理员，我的帐号是被降权了么？-急切](https://www.v2ex.com/t/705899) ![](assets/new.png)  
 - [2020-09-10-MacBook-kernel_task-100%-以及如何清灰](https://www.v2ex.com/t/705898) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-10-2020-年-9-月-10-日-18:18-华为将公开-鸿蒙系统的部分源码](https://www.v2ex.com/t/705882) ![](assets/new.png)  
 - [2020-09-10-各位大佬-VScode-插件有没有推荐呀~~~~](https://www.v2ex.com/t/705881) ![](assets/new.png)  
 - [2020-09-10-又一个没啥用的微信交流群](https://www.v2ex.com/t/705880) ![](assets/new.png)  
-- [2020-09-10-成都-#回川打拼-首选黑桃#-黑桃互动成都手游研发中心大量招募游戏人才，-3D-主美、TA、原画、特效、UI、文案策划等岗位虚位以待。公司靠谱，项目赚钱，内部推...](https://www.v2ex.com/t/705879) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

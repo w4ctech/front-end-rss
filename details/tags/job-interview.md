@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 11:34:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 11:47:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -46,7 +46,6 @@
 - [2020-09-10-青岛-招聘产品经理，高福利高发展](https://www.v2ex.com/t/705875) 
 - [2020-09-10-阿里巴巴本地生活--内推-招聘-后端-大数据-数据开发](https://www.v2ex.com/t/705873) 
 - [2020-09-10-上海-外企招聘嵌入式工程师](https://www.v2ex.com/t/705860) 
-- [2020-09-10-招聘-Python-软件开发工程师、数据工程师——上海量化对冲基金](https://www.v2ex.com/t/705856) 
 - [2020-09-10-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-10-面试：为了进阿里，需要深入理解-ReentrantLock-原理](https://toutiao.io/k/clnqzsv) 
 - [2020-09-10-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 

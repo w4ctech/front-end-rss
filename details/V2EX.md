@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-10 17:11:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 17:22:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-10-zookeeper-的顺序一致性，当-client-连接到不同-server-的时候如何保证？](https://www.v2ex.com/t/705981) 
 - [2020-09-10-小米-AI-音箱蓝牙连接电脑有明显的延迟，怎么破？](https://www.v2ex.com/t/705980) 
 - [2020-09-10-Clash-for-Android-选可用节点的问题](https://www.v2ex.com/t/705977) 
 - [2020-09-10-前端谈的工资-6k，实习期一个月发了工资-2.9k。老哥们觉得有必要继续干下去吗](https://www.v2ex.com/t/705972) 
@@ -32,4 +33,3 @@
 - [2020-09-10-bitwarden-rs-自建,-ios-客户端不会自动同步?](https://www.v2ex.com/t/705936) 
 - [2020-09-10-30-岁了，还能去一线吗](https://www.v2ex.com/t/705935) 
 - [2020-09-10-关于海外兼职的疑问](https://www.v2ex.com/t/705934) 
-- [2020-09-10-内推-鹅厂-待遇给足，-hc-够多，欢迎来撩-!-诚招后台开发工程师（go/-Java-/-Python-/c++...）](https://www.v2ex.com/t/705931) 

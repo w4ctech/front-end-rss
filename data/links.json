@@ -13065,7 +13065,33 @@
     "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "多名球员疑似感染新冠肺炎 阿联酋阿尔瓦赫达足球队将缺席亚冠联赛",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwrUzVvYeBjyaKxzB0lJV200910&isfromapp=1",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "美国首申失业金人数达88.4万 持续位于高位",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijpEOrKOwF2tvIOnqta6X200910&isfromapp=1",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "300名塞内加尔士兵或感染新冠肺炎",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivKbHgN6ihlwJB7RM9hM9200910&isfromapp=1",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "​那不勒斯俱乐部主席德劳伦蒂斯新冠肺炎检测呈阳性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9qGECoMsIn9tYe7CGaLo200910&isfromapp=1",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "新疆 62 所高校学生 10 日起陆续返校入学",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAetywmsHSKw8wZhoUgbw200910&isfromapp=1",
+        "date": "2020-09-10"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",
@@ -16219,6 +16245,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "鸿蒙 2.0 就是 几年前开源的 liteos？ 那华为这一年都在干啥？",
+        "link": "https://www.v2ex.com/t/705958",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "Java 数组，如何通过自定义实现倒叙排序？",
+        "link": "https://www.v2ex.com/t/705957",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "为什么我觉得国内厂手机的背面做成炫彩有股浓浓的杀马特风格",
+        "link": "https://www.v2ex.com/t/705956",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "华为鸿蒙 OS 官网正式上线：提供源码下载",
+        "link": "https://www.v2ex.com/t/705954",
+        "date": "2020-09-10"
+      },
+      {
         "title": "在 MacBook 上，将电脑文件拖拽到移动硬盘，使用“移动”而非“复制”操作如何实现？",
         "link": "https://www.v2ex.com/t/705952",
         "date": "2020-09-10"
@@ -16266,11 +16312,6 @@
       {
         "title": "请教下各位平时写的脚本都是如何进行管理以便方便下次执行，能否分享下相关经验或者轮子？",
         "link": "https://www.v2ex.com/t/705942",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "鸿蒙正式在码云开源了，大佬们分析分析",
-        "link": "https://www.v2ex.com/t/705940",
         "date": "2020-09-10"
       },
       {
@@ -16376,26 +16417,6 @@
       {
         "title": "FCPX 剪辑的一个问题，如何在字幕的准确时间，放入对应图片。或者是如何做到精确插入图？",
         "link": "https://www.v2ex.com/t/705909",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "nginx/Aliyun 的域名解析太迷了",
-        "link": "https://www.v2ex.com/t/705908",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "升级 idea 2020.2.1 search everywhere 失效, 想通过 find action 查看, 也发现打不开, 这个怎么解决呢..",
-        "link": "https://www.v2ex.com/t/705907",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "想问一下，大家学习 k8s 花了多久时间？",
-        "link": "https://www.v2ex.com/t/705906",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "FCPX 剪辑的一个问题，如何在字幕的准确时间，放入对应图片。或者是如何做到精确插入图片",
-        "link": "https://www.v2ex.com/t/705903",
         "date": "2020-09-10"
       }
     ]
@@ -16558,13 +16579,13 @@
         "date": "2020-09-10"
       },
       {
-        "title": "ClickhHouse 开发数据模型之留存分析",
-        "link": "https://toutiao.io/k/0e7c19c",
+        "title": "人生极简指南，解决 90% 要用什么软件的烦恼",
+        "link": "https://toutiao.io/k/st6ewk1",
         "date": "2020-09-10"
       },
       {
-        "title": "人生极简指南，解决 90% 要用什么软件的烦恼",
-        "link": "https://toutiao.io/k/st6ewk1",
+        "title": "ClickhHouse 开发数据模型之留存分析",
+        "link": "https://toutiao.io/k/0e7c19c",
         "date": "2020-09-10"
       },
       {
@@ -16613,43 +16634,13 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-10"
       },
       {
@@ -16658,18 +16649,28 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
-        "link": "https://toutiao.io/k/749snp6",
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] Linux 系统优化（内核优化）",
+        "link": "https://toutiao.io/k/bopgl5e",
         "date": "2020-09-10"
       },
       {
         "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
         "link": "https://toutiao.io/k/qit9l0m",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-10"
       },
       {
@@ -16683,8 +16684,28 @@
         "date": "2020-09-10"
       },
       {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
+        "date": "2020-09-10"
+      },
+      {
         "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
         "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-10"
       }
     ]

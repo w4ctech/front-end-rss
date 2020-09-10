@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 00:56:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 01:01:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,16 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) 
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-10-Chrome-如何清除当前/特定网页的缓存？](https://www.v2ex.com/t/705668) 
+- [2020-09-09-Big-Sur-一打开-Safari-就闪退](https://www.v2ex.com/t/705656) 
+- [2020-09-09-微信支付-notify_url-回调重复通知](https://www.v2ex.com/t/705621) 
+- [2020-09-10-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-10-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
+- [2020-09-10-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-09-奇安信代码安全实验室帮助微软修复多个高危漏洞,获官方致谢](https://sec.thief.one/article_content?a_id=2272d19cb2ea392dd1ea4460a699167b) 
 - [2020-09-09-诸子云|9.5北京金融及互联网业网络安全创新研讨会](https://sec.thief.one/article_content?a_id=7b282dbba8aab2378cbf9901ce5f0052) 
 - [2020-09-09-信息安全漏洞周报2020年第35期](https://sec.thief.one/article_content?a_id=7b84e676163ec41e67745b7244d17af1) 

@@ -13057,6 +13057,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "印度新冠累计确诊超 446 万例",
+        "link": "http://m.weibo.cn/3057540037/4547594057164158",
+        "date": "2020-09-10"
+      },
+      {
         "title": "疫情之下，黄金成为乌吉两国最主要出口创汇商品",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOXxljCYwLxPug7Jk2rOh200910&isfromapp=1",
         "date": "2020-09-10"
@@ -13075,11 +13080,6 @@
         "title": "截至9月9日24时新型冠状病毒肺炎疫情最新情况",
         "link": "http://wsjkw.hebei.gov.cn/content/content_3714/414922.jhtml",
         "date": "2020-09-10"
-      },
-      {
-        "title": "巴西：调查预计今年第四季度就业市场或好转",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipofEK4WgTy7LnL27Y8SZ200910&isfromapp=1",
-        "date": "2020-09-09"
       }
     ]
   },
@@ -15876,6 +15876,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "Taro跨端开发之多业务模块管理 React Native篇(上)",
+        "link": "https://juejin.im/post/6870674523759476750",
+        "date": "2020-09-09"
+      },
+      {
         "title": "跟随Element学习Vue小技巧(36)——Notification",
         "link": "https://juejin.im/post/6870642250787848199",
         "date": "2020-09-09"
@@ -15893,11 +15898,6 @@
       {
         "title": "vue-ssr | 具体实现篇 | 集成vuex及vue-router",
         "link": "https://juejin.im/post/6870473682415058952",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "Chrome DevTools-使用篇",
-        "link": "https://juejin.im/post/6870455831771496462",
         "date": "2020-09-09"
       }
     ]
@@ -16235,6 +16235,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教各位大佬，在 ROS 起的 IPsec/L2tp 为什么在 Windows 上连接不了？",
+        "link": "https://www.v2ex.com/t/705792",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "中英之间的互联网该如何优化下延迟？",
+        "link": "https://www.v2ex.com/t/705791",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[ThoughtWorks 内推] 武汉北美 MU 急招 Android、ios",
+        "link": "https://www.v2ex.com/t/705790",
+        "date": "2020-09-10"
+      },
+      {
         "title": "今天教师节啦，你一定有想说的话，如果不好意思说出口，那就发一个漂流瓶给老师吧~",
         "link": "https://www.v2ex.com/t/705788",
         "date": "2020-09-10"
@@ -16427,11 +16442,6 @@
       {
         "title": "#不懂就问 为什么国外网站链接跳转喜欢在当前 tab，国内网站一般都是新 tab 打开",
         "link": "https://www.v2ex.com/t/705744",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "各位老哥 我也想问一下农村买房带地的问题",
-        "link": "https://www.v2ex.com/t/705741",
         "date": "2020-09-10"
       }
     ]
@@ -16649,8 +16659,8 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-10"
       },
       {
@@ -16659,43 +16669,13 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] Linux 系统优化（内核优化）",
-        "link": "https://toutiao.io/k/bopgl5e",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-10"
-      },
-      {
         "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
         "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-10"
       },
       {
@@ -16704,8 +16684,18 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] Linux 系统优化（内核优化）",
+        "link": "https://toutiao.io/k/bopgl5e",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-10"
       },
       {
@@ -16714,13 +16704,33 @@
         "date": "2020-09-10"
       },
       {
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-10"
+      },
+      {
         "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
         "link": "https://toutiao.io/k/cgycnq9",
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
-        "link": "https://toutiao.io/k/749snp6",
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-10"
       }
     ]

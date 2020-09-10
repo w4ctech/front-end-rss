@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 23:34:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 23:46:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2612,15 +2612,16 @@
 - [2020-09-10-SSL-证书变革之时已至，这些变化你都清楚吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13740&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F215766881%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-10-最想与朋友分享的网站列表-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13739&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F09%2F01%2F168-list-of-websites-i-most-want-to-share-with-my-friends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-10-任正非：若果有人拧熄了灯塔，我们怎么航行？|-码农周刊第-317-期](https://toutiao.io/k/ixcjpqn) 
-- [2020-09-10-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) 
+- [2020-09-10-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) 
+- [2020-09-10-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) 
 - [2020-09-10-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) 
+- [2020-09-10-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) 
+- [2020-09-10-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) 
+- [2020-09-10-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) 
+- [2020-09-10-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) 
+- [2020-09-10-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) 
 - [2020-09-10-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) 
 - [2020-09-10-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) 
-- [2020-09-10-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) 
-- [2020-09-10-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) 
-- [2020-09-10-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) 
-- [2020-09-10-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) 
-- [2020-09-10-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) 
 - [2020-09-10-BTV:特别节目《来了!服贸会》专访齐向东](https://sec.thief.one/article_content?a_id=b02347a28489bb1f2dfd050c2d3aaec9) 
 - [2020-09-10-程序员注意啦!程序员全套英语学习资源泄露,手慢无!禁止传播](https://sec.thief.one/article_content?a_id=fc2a9eb0348fc6e27dfd697521dc499f) 
 - [2020-09-10-【补丁库更新】奇安信集团2020年09月补丁库更新通告第一次更新](https://sec.thief.one/article_content?a_id=c528452a31fc34c22bbd37bbfc8260c2) 

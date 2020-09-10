@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-10 12:48:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 13:03:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -124,7 +124,6 @@
 - [【前端宇宙】Typescript-使用日志干货](https://www.ershicimi.com/p/f1dd64e534ebe4864a4eba54809473a4)
 - [【前端宇宙】TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/1e6610b883aed73746a7bb3c3d8e7373)
 - [【前端宇宙】想去字节面试，TypeScript-要掌握到什么程度？](https://www.ershicimi.com/p/a648c89135efeb37049568816a00fc98)
-- [【InfoQ】你应该了解的5种TypeScript设计模式](https://www.ershicimi.com/p/600a86127284ce5e132fa0128df3bbc5)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -576,7 +575,6 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
 - [【开发者头条】推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy)
 - [【安全热点】他四个月公众号做到-5w-粉丝,Github-全球榜单第一!](https://sec.thief.one/article_content?a_id=a59ff2caad8859e7ca53a84e779c22f4)
 - [......【查看更多】......](./details/tags/git-svn.md)

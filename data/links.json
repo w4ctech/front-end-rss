@@ -13067,6 +13067,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美国首申失业金人数达88.4万 持续位于高位",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijpEOrKOwF2tvIOnqta6X200910&isfromapp=1",
+        "date": "2020-09-10"
+      },
+      {
         "title": "300名塞内加尔士兵或感染新冠肺炎",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivKbHgN6ihlwJB7RM9hM9200910&isfromapp=1",
         "date": "2020-09-10"
@@ -13084,11 +13089,6 @@
       {
         "title": "受疫情影响 法国已有 32 所学校和 524 个班级被关闭",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticGMq6lzeFKo906srzy94200910&isfromapp=1",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "印度新冠累计确诊超 446 万例",
-        "link": "http://m.weibo.cn/3057540037/4547594057164158",
         "date": "2020-09-10"
       }
     ]
@@ -16786,108 +16786,7 @@
     "rss": "https://rss.itggg.cn/wechat/ershicimi/89",
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
-    "items": [
-      {
-        "title": "开源有国界？我提交了PR，但维护者因国家法律拒绝合并代码",
-        "link": "https://www.ershicimi.com/p/2881797e8f9d11d139cd9d5695b9782d",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "就算有“中台”模式，企业也应该重视“大部头”架构设计",
-        "link": "https://www.ershicimi.com/p/a0a2981ad564503d95f2932133184ed3",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "免费开放10门云原生系列课，研发团队人人可学 ｜ 极客时间企业版",
-        "link": "https://www.ershicimi.com/p/09845db8abeeb2fb0182b3c107fcdd44",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "如何提高智能决策？在线抄送“武林秘诀” ｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/69f0b1824b9a895eaad2474a02dc05b9",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "放弃Windows，用国产开源替换政府办公系统！这个国家做到了",
-        "link": "https://www.ershicimi.com/p/73a66d80e4dcea3c07e0964f9a836519",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "百度集团副总裁吴甜：用系统思维看AI，新基建带来AI生产平台机会",
-        "link": "https://www.ershicimi.com/p/b1a82ca40228847691eea290f9791895",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "大厂专家们眼里的QCon+案例研习社什么样子？｜ 极客时间",
-        "link": "https://www.ershicimi.com/p/258fdc922ca8f57732ea4f96ae55761c",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "物联网、微服务技术专家指点你线下实操？一场不可不来的技术沙龙 ｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/4fbf4fa006d26c7026be663264ee832e",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "Vue.js 教程：构建一个特斯拉汽车余电计算器",
-        "link": "https://www.ershicimi.com/p/e4b2fef1677dcbd2e31cb5253e688411",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "面试官一问就懵的设计模式题，是时候该怼回去了 丨 极客时间",
-        "link": "https://www.ershicimi.com/p/52e94bb200353fe2417ce7fe7c64ceee",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "MATLAB被禁影响升级！哈工大被曝在全国大学生数学建模竞赛中禁用MATLAB",
-        "link": "https://www.ershicimi.com/p/fad0b03583f93ab1a16ef8a51c4f395a",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "运维工程师应该如何提高和进阶？一系列免费课程给你答案！｜ 极客时间企业版",
-        "link": "https://www.ershicimi.com/p/189ac974ee4c2a7540989f6568d5378a",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "谈谈微服务设计中的 API 网关模式",
-        "link": "https://www.ershicimi.com/p/a7ee95ecb6df3a9fa3c320b825c70061",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "你应该了解的5种TypeScript设计模式",
-        "link": "https://www.ershicimi.com/p/600a86127284ce5e132fa0128df3bbc5",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "饿了么危矣？",
-        "link": "https://www.ershicimi.com/p/0da22f2f976feb1280c83c240c3f998d",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "开发运维配置繁杂，是时候给应用架构做减法了",
-        "link": "https://www.ershicimi.com/p/353043b360834b0cd64427de9deb6906",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "抛弃x86的苹果，意味着什么？",
-        "link": "https://www.ershicimi.com/p/7816c76cd714d75da1e11a8e76f2b663",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "上火星还不够，马斯克要用脑机接口带领全人类“进化”",
-        "link": "https://www.ershicimi.com/p/e0d13634c14d56a49f0f1a591affc0fc",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "拿价值5.8亿元光刻机做抵押，曾高薪挖角台积电的武汉芯片项目不行了？",
-        "link": "https://www.ershicimi.com/p/07664168b05c5a27fc08667d4619423e",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "中台这趟车还能驶多久 | InfoQ 公开课",
-        "link": "https://www.ershicimi.com/p/ac9a95b2138dc8f0ffdf54e4fa46002d",
-        "date": "2020-08-30"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/893",
@@ -17361,6 +17260,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "golang 里面全局匿名变量的作用是啥？",
+        "link": "https://www.v2ex.com/t/705928",
+        "date": "2020-09-10"
+      },
+      {
         "title": "api-mom 一个 API 在线管理工具",
         "link": "https://www.v2ex.com/t/705927",
         "date": "2020-09-10"
@@ -17548,16 +17452,6 @@
       {
         "title": "又一个没啥用的微信交流群",
         "link": "https://www.v2ex.com/t/705880",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[成都] #回川打拼 首选黑桃# 黑桃互动成都手游研发中心大量招募游戏人才， 3D 主美、TA、原画、特效、UI、文案策划等岗位虚位以待。公司靠谱，项目赚钱，内部推...",
-        "link": "https://www.v2ex.com/t/705879",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "安卓开 wifi 热点，其它主机间不能互相访问",
-        "link": "https://www.v2ex.com/t/705878",
         "date": "2020-09-10"
       }
     ]
@@ -17760,13 +17654,13 @@
         "date": "2020-09-10"
       },
       {
-        "title": "审查代码有风险吗？",
-        "link": "https://toutiao.io/k/zskyk64",
+        "title": "Redis 和 Memcached 的恩怨情仇",
+        "link": "https://toutiao.io/k/n2w1gfz",
         "date": "2020-09-10"
       },
       {
-        "title": "Redis 和 Memcached 的恩怨情仇",
-        "link": "https://toutiao.io/k/n2w1gfz",
+        "title": "审查代码有风险吗？",
+        "link": "https://toutiao.io/k/zskyk64",
         "date": "2020-09-10"
       },
       {
@@ -17775,18 +17669,18 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
-        "link": "https://toutiao.io/k/749snp6",
+        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
+        "link": "https://toutiao.io/k/jhsjj8v",
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] Linux 系统优化（内核优化）",
-        "link": "https://toutiao.io/k/bopgl5e",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
         "date": "2020-09-10"
       },
       {
@@ -17795,33 +17689,18 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
         "date": "2020-09-10"
       },
       {
@@ -17830,8 +17709,23 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
+        "link": "https://toutiao.io/k/749snp6",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-10"
       },
       {
@@ -17840,13 +17734,13 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] Linux 系统优化（内核优化）",
+        "link": "https://toutiao.io/k/bopgl5e",
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
         "date": "2020-09-10"
       }
     ]
@@ -17856,6 +17750,11 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "BTV:特别节目《来了!服贸会》专访齐向东",
+        "link": "https://sec.thief.one/article_content?a_id=b02347a28489bb1f2dfd050c2d3aaec9",
+        "date": "2020-09-10"
+      },
       {
         "title": "程序员注意啦!程序员全套英语学习资源泄露,手慢无!(禁止传播)",
         "link": "https://sec.thief.one/article_content?a_id=fc2a9eb0348fc6e27dfd697521dc499f",
@@ -18349,11 +18248,6 @@
       {
         "title": "微软:所有人注意!即将彻底删除Flash",
         "link": "https://sec.thief.one/article_content?a_id=6da832a214887200cb782ae020337df8",
-        "date": "2020-09-06"
-      },
-      {
-        "title": "AlphaBay暗网市场主持人被判处11年有期徒刑",
-        "link": "https://sec.thief.one/article_content?a_id=099be96215aaed56ccb6d95143fcabb4",
         "date": "2020-09-06"
       }
     ]

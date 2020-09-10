@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 12:32:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 12:38:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,6 +21,8 @@
 - [2020-03-13-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-06-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
+- [2020-09-09-【第2060期】现代浏览器内部揭秘之二](https://www.ershicimi.com/p/8aad4f0ad581c8838769e9bf858aa95b) 
+- [2020-09-07-【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327) 
 - [2020-09-02-浏览器中的跨域问题与-CORS](https://www.ershicimi.com/p/a482ed736bf2f7834bbbab4735420960) 
 - [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) 
 - [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
@@ -43,6 +45,7 @@
 - [2020-09-10-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-10-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-10-译-聚焦-Android-11-:-隐私和安全](https://toutiao.io/k/nccpa6r) 
+- [2020-09-10-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-10-破局网络安全“人才荒”,360多维赋能“钓鱼城杯”国际网络安全创新...](https://sec.thief.one/article_content?a_id=5da3fa2e70b67ddbf86dd87377b6e8af) 
 - [2020-09-10-用于云服务和应用程序的网络安全可编程性的数据日志管理](https://sec.thief.one/article_content?a_id=59b7f4c27e762f0be1755dda4dadbd48) 
 - [2020-09-10-【漏洞预警】CNNVD-关于微软多个安全漏洞的通报2020年9月](https://sec.thief.one/article_content?a_id=fb37b09ae527159e77d26ba921edfa6f) 

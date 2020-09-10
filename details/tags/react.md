@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 12:32:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 12:38:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -9,6 +9,7 @@
 
 - [2020-08-28-React谁都会，你的优势在哪里？](https://www.ershicimi.com/p/211cdecf8fa02d364c2442e408c1490c) 
 - [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) 
+- [2020-09-01-React谁都会，你的优势在哪里？](https://www.ershicimi.com/p/adff9b42befe5d8c81e4095e4dab9f68) 
 - [2020-09-08-从外包到-React-核心团队成员](https://www.ershicimi.com/p/83a31cd3cc5ae4c47aa0cdae71c1fb7b) 
 - [2020-09-07-原来-React-是为这些人量身定制](https://www.ershicimi.com/p/8185ce0198ae71897b1d9c435d4f5258) 
 - [2020-09-04-React-Hooks-设计思想](https://www.ershicimi.com/p/6a8cc0a216dfb372fc6a8e79b545538f) 

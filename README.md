@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-10 21:48:55，:rocket: 更新条数: +3605， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-10 22:03:33，:rocket: 更新条数: +3605， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1155,8 +1155,8 @@
 - [2020-09-10-译-如何处理-JavaScript-比较中的临界情况](https://toutiao.io/k/lpv3zfu) ![](assets/new.png)  
 - [2020-09-10-为开源项目做贡献的-10-个步骤](https://toutiao.io/k/7xbq36k) ![](assets/new.png)  
 - [2020-09-10-Redis-和-Memcached-的恩怨情仇](https://toutiao.io/k/n2w1gfz) ![](assets/new.png)  
-- [2020-09-10-审查代码有风险吗？](https://toutiao.io/k/zskyk64) ![](assets/new.png)  
 - [2020-09-10-聊聊-Google-的工程实践（二）](https://toutiao.io/k/drhzsk5) ![](assets/new.png)  
+- [2020-09-10-审查代码有风险吗？](https://toutiao.io/k/zskyk64) ![](assets/new.png)  
 - [2020-09-10-图解-Go-内存管理器的内存分配策略](https://toutiao.io/k/0rwr3wc) ![](assets/new.png)  
 - [2020-09-10-译-聚焦-Android-11-:-隐私和安全](https://toutiao.io/k/nccpa6r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

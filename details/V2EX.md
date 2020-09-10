@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-09-10 02:25:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 02:32:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-10-医疗信息化交友](https://www.v2ex.com/t/705711) 
+- [2020-09-10-小米手环可以用做门禁么？](https://www.v2ex.com/t/705710) 
+- [2020-09-10-杭州-蚂蚁金服-Java-开发/数据开发-商家增长团队又又又又在期待你的加入！机会多多，等你来挑战！](https://www.v2ex.com/t/705707) 
+- [2020-09-10-360-可视门铃真“质保”只有-1-年？](https://www.v2ex.com/t/705706) 
+- [2020-09-10-AutoAHK-中，如何自定义-Program-Files-x86路径](https://www.v2ex.com/t/705705) 
+- [2020-09-10-求助，多台-windows-机器，如何批量禁止特定软件更新？](https://www.v2ex.com/t/705704) 
 - [2020-09-10-成都，文殊院地铁一号线上出租一个一室户。](https://www.v2ex.com/t/705703) 
 - [2020-09-10-从调度中心回到某个全屏桌面，有时候启动台还显示在那里，和程序重合了](https://www.v2ex.com/t/705702) 
 - [2020-09-10-急：电脑开机后，显示器循环各种纯色画面。。。](https://www.v2ex.com/t/705701) 
@@ -37,8 +43,3 @@
 - [2020-09-09-广州招聘-CDN-Nginx/Openresty-后端开发-20K-40K](https://www.v2ex.com/t/705665) 
 - [2020-09-09-创业如何组建自己的一个团队](https://www.v2ex.com/t/705664) 
 - [2020-09-09-分享一个在杭州骑车过红绿灯的心得技巧😂😂](https://www.v2ex.com/t/705662) 
-- [2020-09-09-vscode-insiders-1.49-似乎修好了在-Windows-上-HDR-显示的问题](https://www.v2ex.com/t/705661) 
-- [2020-09-09-吐槽工资](https://www.v2ex.com/t/705658) 
-- [2020-09-09-Big-Sur-一打开-Safari-就闪退](https://www.v2ex.com/t/705656) 
-- [2020-09-09-转让域名](https://www.v2ex.com/t/705655) 
-- [2020-09-09-What's-new-in-Dubbo-go-v1.5.1](https://www.v2ex.com/t/705654) 

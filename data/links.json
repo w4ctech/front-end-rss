@@ -13067,6 +13067,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "天津新增3例境外输入无症状感染者",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuVIRjAwJamNRf872eGt5200910&isfromapp=1",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "哥伦比亚抗议活动造成数百人死伤 政府将加强首都安全部署",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0usYj9U3DtNinSqT7YRN200910&isfromapp=1",
+        "date": "2020-09-10"
+      },
+      {
         "title": "多名球员疑似感染新冠肺炎 阿联酋阿尔瓦赫达足球队将缺席亚冠联赛",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwrUzVvYeBjyaKxzB0lJV200910&isfromapp=1",
         "date": "2020-09-10"
@@ -13079,16 +13089,6 @@
       {
         "title": "300名塞内加尔士兵或感染新冠肺炎",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivKbHgN6ihlwJB7RM9hM9200910&isfromapp=1",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "​那不勒斯俱乐部主席德劳伦蒂斯新冠肺炎检测呈阳性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9qGECoMsIn9tYe7CGaLo200910&isfromapp=1",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "新疆 62 所高校学生 10 日起陆续返校入学",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAetywmsHSKw8wZhoUgbw200910&isfromapp=1",
         "date": "2020-09-10"
       }
     ]
@@ -16245,6 +16245,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我终于发现 V2EX “via 平台” 的秘密",
+        "link": "https://www.v2ex.com/t/705963",
+        "date": "2020-09-10"
+      },
+      {
         "title": "投资方式思考",
         "link": "https://www.v2ex.com/t/705962",
         "date": "2020-09-10"
@@ -16402,16 +16407,6 @@
       {
         "title": "ntt 往电信的流量全被阻断了吗？",
         "link": "https://www.v2ex.com/t/705917",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "阿里巴巴 - [内推] - 后端、大数据 - 北京/上海/杭州",
-        "link": "https://www.v2ex.com/t/705914",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "支付密匙 能干什么?",
-        "link": "https://www.v2ex.com/t/705913",
         "date": "2020-09-10"
       }
     ]
@@ -16629,68 +16624,8 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？",
-        "link": "https://toutiao.io/k/749snp6",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
-        "date": "2020-09-10"
-      },
-      {
         "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
         "link": "https://toutiao.io/k/gatrxff",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] Linux 系统优化（内核优化）",
-        "link": "https://toutiao.io/k/bopgl5e",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
-        "link": "https://toutiao.io/k/8r5oqql",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
-        "link": "https://toutiao.io/k/jhsjj8v",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
-        "link": "https://toutiao.io/k/cgycnq9",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-10"
       },
       {
@@ -16699,8 +16634,68 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 开发出优秀的 API，构建 RESTful API 的 13 种最佳实践，学会此文就很优秀了",
+        "link": "https://toutiao.io/k/jhsjj8v",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] Linux 系统优化（内核优化）",
+        "link": "https://toutiao.io/k/bopgl5e",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
+        "link": "https://toutiao.io/k/8r5oqql",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
         "date": "2020-09-10"
       }
     ]

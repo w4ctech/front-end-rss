@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 05:48:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 06:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -43,7 +43,6 @@
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-09-10-全球领先的数据智能科技平台-MobTech-招聘安卓技术支持了](https://www.v2ex.com/t/705770) 
-- [2020-09-10-深圳招聘-Java-架构师-2-名，欢迎自荐推荐一下](https://www.v2ex.com/t/705739) 
 - [2020-09-10-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-10-面试：为了进阿里，需要深入理解-ReentrantLock-原理](https://toutiao.io/k/clnqzsv) 
 - [2020-09-10-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 

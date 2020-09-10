@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-10 07:49:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 08:03:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -577,7 +577,6 @@
 - [【V2EX】不小心把账号密码提交到-GitHub-公开仓库怎么办？](https://www.v2ex.com/t/705822)
 - [【V2EX】leader-想要多开发版本，多测试环境的-git-flow。我按照他的想法画了这个，-v2ers-品一品](https://www.v2ex.com/t/705802)
 - [【开发者头条】推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy)
-- [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
 - [【安全热点】他四个月公众号做到-5w-粉丝,Github-全球榜单第一!](https://sec.thief.one/article_content?a_id=a59ff2caad8859e7ca53a84e779c22f4)
 - [【安全热点】B站UP主自制的开源OCR翻译器走红Github,用一次就粉了](https://sec.thief.one/article_content?a_id=956dd8466d2b22fea4aba5b3fa42f464)
 - [......【查看更多】......](./details/tags/git-svn.md)

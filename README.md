@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-10 23:11:03，:rocket: 更新条数: +3605， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-10 23:21:13，:rocket: 更新条数: +3587， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1139,26 +1139,23 @@
 </summary>
 
 
-- [2020-09-10-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
-- [2020-09-10-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
 - [2020-09-10-任正非：若果有人拧熄了灯塔，我们怎么航行？|-码农周刊第-317-期](https://toutiao.io/k/ixcjpqn) ![](assets/new.png)  
-- [2020-09-10-什么？听说这四个概念，很多-Java-老手都说不清](https://toutiao.io/k/tduydez) ![](assets/new.png)  
-- [2020-09-10-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-10-三个月内业务增长-30-倍：如何在疫情期间扩展-Google-Meet](https://toutiao.io/k/xfg1ag6) ![](assets/new.png)  
-- [2020-09-10-糟糕，在错误的分支开发了新功能，该怎么处理呢？](https://toutiao.io/k/v7p18iw) ![](assets/new.png)  
-- [2020-09-10-译-大规模微服务利器：eBPF-+-Kubernetes-KubeCon,-2020](https://toutiao.io/k/dehbk59) ![](assets/new.png)  
-- [2020-09-10-人生极简指南，解决-90%-要用什么软件的烦恼](https://toutiao.io/k/st6ewk1) ![](assets/new.png)  
-- [2020-09-10-工具-|-搜狗公司-C++-服务器引擎](https://toutiao.io/k/7ih2f4v) ![](assets/new.png)  
-- [2020-09-10-ClickhHouse-开发数据模型之留存分析](https://toutiao.io/k/0e7c19c) ![](assets/new.png)  
-- [2020-09-10-细数-TS-中那些奇怪的符号](https://toutiao.io/k/k3m6d3m) ![](assets/new.png)  
-- [2020-09-10-面试：为了进阿里，需要深入理解-ReentrantLock-原理](https://toutiao.io/k/clnqzsv) ![](assets/new.png)  
-- [2020-09-10-译-如何处理-JavaScript-比较中的临界情况](https://toutiao.io/k/lpv3zfu) ![](assets/new.png)  
-- [2020-09-10-为开源项目做贡献的-10-个步骤](https://toutiao.io/k/7xbq36k) ![](assets/new.png)  
-- [2020-09-10-Redis-和-Memcached-的恩怨情仇](https://toutiao.io/k/n2w1gfz) ![](assets/new.png)  
-- [2020-09-10-图解-Go-内存管理器的内存分配策略](https://toutiao.io/k/0rwr3wc) ![](assets/new.png)  
-- [2020-09-10-审查代码有风险吗？](https://toutiao.io/k/zskyk64) ![](assets/new.png)  
-- [2020-09-10-聊聊-Google-的工程实践（二）](https://toutiao.io/k/drhzsk5) ![](assets/new.png)  
-- [2020-09-10-译-聚焦-Android-11-:-隐私和安全](https://toutiao.io/k/nccpa6r) ![](assets/new.png)  
+- [2020-09-10-工具-|-企鹅电竞开发的，用于播放特效动画的实现方案](https://toutiao.io/k/7sew4zn) ![](assets/new.png)  
+- [2020-09-10-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-10-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-10-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-10-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-10-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-10-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-10-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-10-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-10-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-10-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-10-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) ![](assets/new.png)  
+- [2020-09-10-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-10-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
+- [2020-09-10-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
+- [2020-09-10-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

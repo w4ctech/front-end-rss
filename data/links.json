@@ -17620,108 +17620,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-10"
-      },
-      {
         "title": "任正非：若果有人拧熄了灯塔，我们怎么航行？| 码农周刊第 317 期",
         "link": "https://toutiao.io/k/ixcjpqn",
         "date": "2020-09-10"
       },
       {
-        "title": "什么？听说这四个概念，很多 Java 老手都说不清",
-        "link": "https://toutiao.io/k/tduydez",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "三个月内业务增长 30 倍：如何在疫情期间扩展 Google Meet",
-        "link": "https://toutiao.io/k/xfg1ag6",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "糟糕，在错误的分支开发了新功能，该怎么处理呢？",
-        "link": "https://toutiao.io/k/v7p18iw",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[译] 大规模微服务利器：eBPF + Kubernetes (KubeCon, 2020)",
-        "link": "https://toutiao.io/k/dehbk59",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "人生极简指南，解决 90% 要用什么软件的烦恼",
-        "link": "https://toutiao.io/k/st6ewk1",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "工具 | 搜狗公司 C++ 服务器引擎",
-        "link": "https://toutiao.io/k/7ih2f4v",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "ClickhHouse 开发数据模型之留存分析",
-        "link": "https://toutiao.io/k/0e7c19c",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "细数 TS 中那些奇怪的符号",
-        "link": "https://toutiao.io/k/k3m6d3m",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "面试：为了进阿里，需要深入理解 ReentrantLock 原理",
-        "link": "https://toutiao.io/k/clnqzsv",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[译] 如何处理 JavaScript 比较中的临界情况",
-        "link": "https://toutiao.io/k/lpv3zfu",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "为开源项目做贡献的 10 个步骤",
-        "link": "https://toutiao.io/k/7xbq36k",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "Redis 和 Memcached 的恩怨情仇",
-        "link": "https://toutiao.io/k/n2w1gfz",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "图解 Go 内存管理器的内存分配策略",
-        "link": "https://toutiao.io/k/0rwr3wc",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "审查代码有风险吗？",
-        "link": "https://toutiao.io/k/zskyk64",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "聊聊 Google 的工程实践（二）",
-        "link": "https://toutiao.io/k/drhzsk5",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[译] 聚焦 Android 11 : 隐私和安全",
-        "link": "https://toutiao.io/k/nccpa6r",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "工具 | 企鹅电竞开发的，用于播放特效动画的实现方案",
+        "link": "https://toutiao.io/k/7sew4zn",
         "date": "2020-09-10"
       },
       {
@@ -17730,43 +17635,8 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
-        "link": "https://toutiao.io/k/cgycnq9",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-10"
       },
       {
@@ -17775,8 +17645,48 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-10"
       },
       {
@@ -17790,8 +17700,8 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-10"
       }
     ]

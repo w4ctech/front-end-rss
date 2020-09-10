@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-10 17:34:27，:rocket: 更新条数: +3604， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-10 17:47:03，:rocket: 更新条数: +3605， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-10-wx-的好友关系是怎样被其他-app-获取的](https://www.v2ex.com/t/705983) ![](assets/new.png)  
 - [2020-09-10-zookeeper-的顺序一致性，当-client-连接到不同-server-的时候如何保证？](https://www.v2ex.com/t/705981) ![](assets/new.png)  
 - [2020-09-10-小米-AI-音箱蓝牙连接电脑有明显的延迟，怎么破？](https://www.v2ex.com/t/705980) ![](assets/new.png)  
 - [2020-09-10-Clash-for-Android-选可用节点的问题](https://www.v2ex.com/t/705977) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-10-Mac-终端运行“brew-install-xxx”过程中不显示下载进度条，怎么解决？](https://www.v2ex.com/t/705950) ![](assets/new.png)  
 - [2020-09-10-在不能联网的情况下,-可以为已经创建好的-docker-容器添加新的东西吗？](https://www.v2ex.com/t/705949) ![](assets/new.png)  
 - [2020-09-10-普一本科，软工专业，三年-Java-求指点](https://www.v2ex.com/t/705948) ![](assets/new.png)  
-- [2020-09-10-分享一个与-postcss-和-viewport-配套使用的全新适配单位:-pv](https://www.v2ex.com/t/705947) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

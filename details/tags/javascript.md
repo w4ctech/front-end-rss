@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 15:27:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 15:32:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -76,12 +76,14 @@
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-09-10-『极限版』不掺水，用纯-CSS-来实现超飒的表单验证功能](https://www.ershicimi.com/p/b1db44ad9abcc9adfd41248d850bfeab) 
 - [2020-09-07-是谁动了我的-DOM？](https://www.ershicimi.com/p/919bd1ae01862df1ac098dd627d16e0c) 
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4) 
 - [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) 
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) 
+- [2020-09-09-前端知识体系系统化学习【JS篇】:（六-2）抽丝剥茧的带你剖析引用数据类型之Function篇](https://juejin.im/post/6870529541178310669) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -91,8 +93,12 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-09-10-Java-数组，如何通过自定义实现倒叙排序？](https://www.v2ex.com/t/705957) 
+- [2020-09-10-分享一个与-postcss-和-viewport-配套使用的全新适配单位:-pv](https://www.v2ex.com/t/705947) 
+- [2020-09-10-golang-里面全局匿名变量的作用是啥？](https://www.v2ex.com/t/705928) 
 - [2020-09-10-如何实现一个优雅的Python的Json序列化库-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13755&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-python-json-library%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-10-译-如何处理-JavaScript-比较中的临界情况](https://toutiao.io/k/lpv3zfu) 
+- [2020-09-10-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-08-【JSRC小课堂预告】漏洞挖掘“骚操作”二如何优雅地寻找Web...](https://sec.thief.one/article_content?a_id=4f407220c1b35fa1823d45bc32a840f6) 
 - [2020-09-08-先导篇-|-《2020安全信息和事件管理SIEM研究报告》即将发布](https://sec.thief.one/article_content?a_id=beff6c5ec9b7b1a17240c29bd61bf08c) 
 - [2020-09-08-Gartner:将有更多CEO为网络安全事件担负个人责任](https://sec.thief.one/article_content?a_id=d3b4473e414ccb296c77fab1af14a69f) 

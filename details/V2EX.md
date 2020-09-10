@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-10 06:13:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 06:26:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-10-CERNET-IPv6-放开了-HKIX-和-HE-的互联](https://www.v2ex.com/t/705794) 
+- [2020-09-10-教师节有感而发](https://www.v2ex.com/t/705793) 
 - [2020-09-10-请教各位大佬，在-ROS-起的-IPsec/L2tp-为什么在-Windows-上连接不了？](https://www.v2ex.com/t/705792) 
 - [2020-09-10-中英之间的互联网该如何优化下延迟？](https://www.v2ex.com/t/705791) 
 - [2020-09-10-ThoughtWorks-内推-武汉北美-MU-急招-Android、ios](https://www.v2ex.com/t/705790) 
@@ -45,5 +47,3 @@
 - [2020-09-10-上海-新购入新国标电动车，建一个群交流信息](https://www.v2ex.com/t/705748) 
 - [2020-09-10-北京-Aibee内推-2020-年，我们急求-Golang-开发工程师，待遇优厚，入职快！](https://www.v2ex.com/t/705747) 
 - [2020-09-10-深圳-需求-Java-架构师-2-名，欢迎推荐自荐一下](https://www.v2ex.com/t/705746) 
-- [2020-09-10-Guys-IOS14-beta8-都出了-下一个版本就是正式版了-还不上车？](https://www.v2ex.com/t/705745) 
-- [2020-09-10-#不懂就问-为什么国外网站链接跳转喜欢在当前-tab，国内网站一般都是新-tab-打开](https://www.v2ex.com/t/705744) 

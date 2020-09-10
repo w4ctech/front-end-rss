@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 07:13:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 07:22:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -29,3 +29,4 @@
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-09-10-中英之间的互联网该如何优化下延迟？](https://www.v2ex.com/t/705791) 
+- [2020-09-10-推荐-Linux-系统优化（内核优化）](https://toutiao.io/k/bopgl5e) 

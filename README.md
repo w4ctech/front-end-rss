@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-10 23:21:13，:rocket: 更新条数: +3587， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-10 23:32:01，:rocket: 更新条数: +3588， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-09-10-马来西亚心理咨询热线疫情期间接听上万个来电-民众努力应对心理健康问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuYNTaS861A2gixfRkSta200910&isfromapp=1) ![](assets/new.png)  
-- [2020-09-10-天津新增3例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuVIRjAwJamNRf872eGt5200910&isfromapp=1) ![](assets/new.png)  
-- [2020-09-10-哥伦比亚抗议活动造成数百人死伤-政府将加强首都安全部署](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0usYj9U3DtNinSqT7YRN200910&isfromapp=1) ![](assets/new.png)  
-- [2020-09-10-多名球员疑似感染新冠肺炎-阿联酋阿尔瓦赫达足球队将缺席亚冠联赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwrUzVvYeBjyaKxzB0lJV200910&isfromapp=1) ![](assets/new.png)  
-- [2020-09-10-美国首申失业金人数达88.4万-持续位于高位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijpEOrKOwF2tvIOnqta6X200910&isfromapp=1) ![](assets/new.png)  
+- [2020-09-10-哥伦比亚新冠肺炎确诊病例近70万-但多地仍在举行大规模游行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGldyuHAt5HzhCFDTNj0G200911&isfromapp=1) ![](assets/new.png)  
+- [2020-09-10-英国将葡萄牙、匈牙利加入入境隔离检疫名单](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YDhuYaLTd67x6SmSGYR200911&isfromapp=1) ![](assets/new.png)  
+- [2020-09-10-秘鲁国防部称或将延迟至10月中旬重启国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiafydCdf33KAHDwugG1QH200911&isfromapp=1) ![](assets/new.png)  
+- [2020-09-10-突尼斯疫情日趋严峻-学生将分批上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBbysemrYrTgfkj5GmEsI200911&isfromapp=1) ![](assets/new.png)  
+- [2020-09-10-丹麦首都哥本哈根疫情恶化-多个地方实行逗留禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1XlBjXk8DyUkZHQjn5y6200911&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-10-我的-windows-10-游戏机已经从不能睡眠变成不能关机了](https://www.v2ex.com/t/705988) ![](assets/new.png)  
 - [2020-09-10-21-应届生，寻找销售或者渠道岗位](https://www.v2ex.com/t/705986) ![](assets/new.png)  
 - [2020-09-10-Chrome-85+-的同学可以来体验一下-AVIF-的神奇效果了。](https://www.v2ex.com/t/705985) ![](assets/new.png)  
 - [2020-09-10-网格员可以扣押停放在楼里的电动车，甚至查封住户？](https://www.v2ex.com/t/705984) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-10-Java-数组，如何通过自定义实现倒叙排序？](https://www.v2ex.com/t/705957) ![](assets/new.png)  
 - [2020-09-10-为什么我觉得国内厂手机的背面做成炫彩有股浓浓的杀马特风格](https://www.v2ex.com/t/705956) ![](assets/new.png)  
 - [2020-09-10-在-MacBook-上，将电脑文件拖拽到移动硬盘，使用“移动”而非“复制”操作如何实现？](https://www.v2ex.com/t/705952) ![](assets/new.png)  
-- [2020-09-10-哪里有对-一整本英语原著，进行语法剖析-的书、资料、教程？](https://www.v2ex.com/t/705951) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,21 +1141,21 @@
 
 - [2020-09-10-任正非：若果有人拧熄了灯塔，我们怎么航行？|-码农周刊第-317-期](https://toutiao.io/k/ixcjpqn) ![](assets/new.png)  
 - [2020-09-10-工具-|-企鹅电竞开发的，用于播放特效动画的实现方案](https://toutiao.io/k/7sew4zn) ![](assets/new.png)  
-- [2020-09-10-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
-- [2020-09-10-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-10-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
-- [2020-09-10-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-10-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-10-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-10-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-10-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-10-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-10-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
 - [2020-09-10-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) ![](assets/new.png)  
-- [2020-09-10-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-10-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
+- [2020-09-10-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-10-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
 - [2020-09-10-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
+- [2020-09-10-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-10-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-10-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-10-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
+- [2020-09-10-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
 - [2020-09-10-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-10-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
+- [2020-09-10-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-10-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-10-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-10-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

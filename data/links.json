@@ -13067,28 +13067,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
-        "title": "马来西亚心理咨询热线疫情期间接听上万个来电 民众努力应对心理健康问题",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuYNTaS861A2gixfRkSta200910&isfromapp=1",
+        "title": "哥伦比亚新冠肺炎确诊病例近70万 但多地仍在举行大规模游行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGldyuHAt5HzhCFDTNj0G200911&isfromapp=1",
         "date": "2020-09-10"
       },
       {
-        "title": "天津新增3例境外输入无症状感染者",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuVIRjAwJamNRf872eGt5200910&isfromapp=1",
+        "title": "英国将葡萄牙、匈牙利加入入境隔离检疫名单",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YDhuYaLTd67x6SmSGYR200911&isfromapp=1",
         "date": "2020-09-10"
       },
       {
-        "title": "哥伦比亚抗议活动造成数百人死伤 政府将加强首都安全部署",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0usYj9U3DtNinSqT7YRN200910&isfromapp=1",
+        "title": "秘鲁国防部称或将延迟至10月中旬重启国际航班",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiafydCdf33KAHDwugG1QH200911&isfromapp=1",
         "date": "2020-09-10"
       },
       {
-        "title": "多名球员疑似感染新冠肺炎 阿联酋阿尔瓦赫达足球队将缺席亚冠联赛",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwrUzVvYeBjyaKxzB0lJV200910&isfromapp=1",
+        "title": "突尼斯疫情日趋严峻 学生将分批上课",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBbysemrYrTgfkj5GmEsI200911&isfromapp=1",
         "date": "2020-09-10"
       },
       {
-        "title": "美国首申失业金人数达88.4万 持续位于高位",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijpEOrKOwF2tvIOnqta6X200910&isfromapp=1",
+        "title": "丹麦首都哥本哈根疫情恶化 多个地方实行逗留禁令",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1XlBjXk8DyUkZHQjn5y6200911&isfromapp=1",
         "date": "2020-09-10"
       }
     ]
@@ -17361,6 +17361,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我的 windows 10 游戏机已经从不能睡眠变成不能关机了",
+        "link": "https://www.v2ex.com/t/705988",
+        "date": "2020-09-10"
+      },
+      {
         "title": "21 应届生，寻找销售或者渠道岗位",
         "link": "https://www.v2ex.com/t/705986",
         "date": "2020-09-10"
@@ -17630,33 +17635,8 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
         "date": "2020-09-10"
       },
       {
@@ -17665,33 +17645,8 @@
         "date": "2020-09-10"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
-        "link": "https://toutiao.io/k/cgycnq9",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-10"
       },
       {
@@ -17700,8 +17655,58 @@
         "date": "2020-09-10"
       },
       {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-10"
+      },
+      {
         "title": "[推荐] 一文了解 Zookeeper",
         "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-10"
       }
     ]

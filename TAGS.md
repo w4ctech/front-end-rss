@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-10 09:34:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 09:46:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -253,6 +253,7 @@
 
 - [【前端早读课】【招聘】字节跳动杭州游戏平台招前端开发实习+社招](https://www.ershicimi.com/p/08b5c48d6117cf5fd86562c555815603)
 - [【知乎日报】「致知计划动漫游戏季」2-亿流量-30-万现金大奖等你拿](https://www.ershicimi.com/p/e94fbdf2ad8480940d8a7a5d6b48fe61)
+- [【V2EX】成都-#回川打拼-首选黑桃#-黑桃互动成都手游研发中心大量招募游戏人才，-3D-主美、TA、原画、特效、UI、文案策划等岗位虚位以待。公司靠谱，项目赚钱，内部推...](https://www.v2ex.com/t/705879)
 - [【V2EX】成都-游戏公司美术策划向招聘](https://www.v2ex.com/t/705874)
 - [【安全热点】为玩游戏找“黑客”破解防沉迷?14岁熊孩子被骗5万元](https://sec.thief.one/article_content?a_id=64b74353acc9d6adca2d578223d393c6)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -517,8 +518,8 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【开发者头条】推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy)
 - [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
+- [【开发者头条】推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy)
 - [【安全热点】他四个月公众号做到-5w-粉丝,Github-全球榜单第一!](https://sec.thief.one/article_content?a_id=a59ff2caad8859e7ca53a84e779c22f4)
 - [【安全热点】B站UP主自制的开源OCR翻译器走红Github,用一次就粉了](https://sec.thief.one/article_content?a_id=956dd8466d2b22fea4aba5b3fa42f464)
 - [......【查看更多】......](./details/tags/git-svn.md)

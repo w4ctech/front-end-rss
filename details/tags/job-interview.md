@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 09:34:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 09:46:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -49,5 +49,4 @@
 - [2020-09-10-人力资源面试官对你强输：给不起期望薪资、996、疫情、无偿加班、长期出差、驻点开发、封闭开发](https://www.v2ex.com/t/705835) 
 - [2020-09-10-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-10-面试：为了进阿里，需要深入理解-ReentrantLock-原理](https://toutiao.io/k/clnqzsv) 
-- [2020-09-10-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
 - [2020-09-09-如何迈过人生求职这道坎,翻越面试那块砖,答案就在这里](https://sec.thief.one/article_content?a_id=99fba8ba0539e6b8b7c0149debfeeb50) 

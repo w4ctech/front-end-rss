@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-10 03:11:46，:rocket: 更新条数: +783， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-10 03:23:36，:rocket: 更新条数: +785， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -75,11 +75,11 @@
 </summary>
 
 
+- [2020-09-10-上海将对目的地为苏浙皖的入境人员实行“3+11”隔离转运措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy74hMAzw6spwMwGXzipy200910&isfromapp=1) ![](assets/new.png)  
+- [2020-09-10-新疆9月11日起恢复旅游专列开行，价格同比下降30％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXFrkptk7h3fnsqIaeJpa200910&isfromapp=1) ![](assets/new.png)  
+- [2020-09-10-截至9月9日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/414922.jhtml) ![](assets/new.png)  
 - [2020-09-09-巴西：调查预计今年第四季度就业市场或好转](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipofEK4WgTy7LnL27Y8SZ200910&isfromapp=1) ![](assets/new.png)  
 - [2020-09-09-巴西新冠肺炎累计确诊人数超419万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUtAXImUOkUyfKkikttKt200910&isfromapp=1) ![](assets/new.png)  
-- [2020-09-09-秘鲁卫生部长：新冠肺炎死亡病例增速或已开始趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijkDHHtlsySHxzchRjNgv200910&isfromapp=1) ![](assets/new.png)  
-- [2020-09-09-英国新增新冠肺炎确诊病例2659例-累计确诊355219例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOl9T1FC4tpN8V1wmP3DF200909&isfromapp=1) ![](assets/new.png)  
-- [2020-09-09-缅甸再次敦促：第二轮疫情期间离开若开邦人士向卫生部门报到](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwuzgl92EdXfoGuAi60L200909&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1037,15 @@
 </summary>
 
 
+- [2020-09-10-请问各位彦祖同学，-macos-上面哪款音乐播放软件可以关闭了再打开自动读取到上次关闭时的位置的](https://www.v2ex.com/t/705738) ![](assets/new.png)  
+- [2020-09-10-社招北京建信融通-Java-开发、-测试-、运维](https://www.v2ex.com/t/705737) ![](assets/new.png)  
+- [2020-09-10-苹果-2020-发布会即将举行，来聊聊你最期待哪款新产品吧](https://www.v2ex.com/t/705736) ![](assets/new.png)  
+- [2020-09-10-做了一个能实时浏览公众号文章热榜的产品，欢迎大家进来公众号摸鱼](https://www.v2ex.com/t/705735) ![](assets/new.png)  
+- [2020-09-10-求助：-2013-款-macbook-air-A1466-更换西数-SN550-500G-后盖上屏幕时间长后会关机，需要重新开机](https://www.v2ex.com/t/705734) ![](assets/new.png)  
+- [2020-09-10-现在想买房，在西安沣东新城。有老哥最近买的，想问问首付月供多钱。总怕那些置业顾问骗我。。](https://www.v2ex.com/t/705733) ![](assets/new.png)  
+- [2020-09-10-有没有做微信公众号的老哥，请教一下。](https://www.v2ex.com/t/705732) ![](assets/new.png)  
+- [2020-09-10-v2ex-手机验证无法接收验证码](https://www.v2ex.com/t/705731) ![](assets/new.png)  
+- [2020-09-10-前端技术选型只有三大框架了吗？](https://www.v2ex.com/t/705730) ![](assets/new.png)  
 - [2020-09-10-请教一下，下列岗位哪个好点](https://www.v2ex.com/t/705729) ![](assets/new.png)  
 - [2020-09-10-9.15-试用期到期，今天被通知能力不足，要解除劳动合同，要争取补偿吗？](https://www.v2ex.com/t/705728) ![](assets/new.png)  
 - [2020-09-10-老哥们，有一个关于用户结算时购物车可用优惠券筛选的需求，求助！](https://www.v2ex.com/t/705727) ![](assets/new.png)  
@@ -1048,15 +1057,6 @@
 - [2020-09-10-一部手机失窃而揭露的窃取个人信息实现资金盗取的黑色产业链](https://www.v2ex.com/t/705720) ![](assets/new.png)  
 - [2020-09-10-新加坡-南洋理工大学研究组招-系统研发工程师/-以及-NTU-读研读博机会](https://www.v2ex.com/t/705719) ![](assets/new.png)  
 - [2020-09-10-好奇，大家在公司敲代码的时候让戴耳机听音乐么？](https://www.v2ex.com/t/705718) ![](assets/new.png)  
-- [2020-09-10-iPhone-XR-新固件（13.717H35）更新后，副卡没法用](https://www.v2ex.com/t/705717) ![](assets/new.png)  
-- [2020-09-10-字节跳动---安全与风控几十个岗位内推（v2-上有朋友入职了）](https://www.v2ex.com/t/705716) ![](assets/new.png)  
-- [2020-09-10-为什么我最近发的几个帖子都疑似被降权了？](https://www.v2ex.com/t/705715) ![](assets/new.png)  
-- [2020-09-10-windows-上有没有-跨平台-的-全局-密码管理工具？希望不仅是填充网页，也可以填充应用](https://www.v2ex.com/t/705714) ![](assets/new.png)  
-- [2020-09-10-git-搞分支的问题](https://www.v2ex.com/t/705712) ![](assets/new.png)  
-- [2020-09-10-医疗信息化交友](https://www.v2ex.com/t/705711) ![](assets/new.png)  
-- [2020-09-10-小米手环可以用做门禁么？](https://www.v2ex.com/t/705710) ![](assets/new.png)  
-- [2020-09-10-杭州-蚂蚁金服-Java-开发/数据开发-商家增长团队又又又又在期待你的加入！机会多多，等你来挑战！](https://www.v2ex.com/t/705707) ![](assets/new.png)  
-- [2020-09-10-360-可视门铃真“质保”只有-1-年？](https://www.v2ex.com/t/705706) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,8 +1114,8 @@
 - [2020-09-10-译-大规模微服务利器：eBPF-+-Kubernetes-KubeCon,-2020](https://toutiao.io/k/dehbk59) ![](assets/new.png)  
 - [2020-09-10-为开源项目做贡献的-10-个步骤](https://toutiao.io/k/7xbq36k) ![](assets/new.png)  
 - [2020-09-10-聊聊-Google-的工程实践（二）](https://toutiao.io/k/drhzsk5) ![](assets/new.png)  
-- [2020-09-10-译-聚焦-Android-11-:-隐私和安全](https://toutiao.io/k/nccpa6r) ![](assets/new.png)  
 - [2020-09-10-审查代码有风险吗？](https://toutiao.io/k/zskyk64) ![](assets/new.png)  
+- [2020-09-10-译-聚焦-Android-11-:-隐私和安全](https://toutiao.io/k/nccpa6r) ![](assets/new.png)  
 - [2020-09-10-图解-Go-内存管理器的内存分配策略](https://toutiao.io/k/0rwr3wc) ![](assets/new.png)  
 - [2020-09-10-人生极简指南，解决-90%-要用什么软件的烦恼](https://toutiao.io/k/st6ewk1) ![](assets/new.png)  
 - [2020-09-10-Redis-和-Memcached-的恩怨情仇](https://toutiao.io/k/n2w1gfz) ![](assets/new.png)  

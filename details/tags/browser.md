@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 07:03:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 07:13:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,6 +33,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-10-想请教大家一个关于-web-请求或者说爬虫方面的问题](https://www.v2ex.com/t/705813) 
 - [2020-09-10-字节跳动---安全与风控几百个岗位内推（v2-上有朋友入职了）](https://www.v2ex.com/t/705796) 
 - [2020-09-10-可视化的创建管理网页自动化脚本--Chrome-插件](https://www.v2ex.com/t/705772) 
 - [2020-09-10-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

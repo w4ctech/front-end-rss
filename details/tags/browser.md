@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 10:48:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 11:04:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,14 +29,6 @@
 - [2020-09-08-你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e) 
 - [2020-09-04-如何防止重复发送ajax请求](https://www.ershicimi.com/p/98a8850e1ffb750ead2a74a1665adb83) 
 - [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
@@ -47,7 +39,10 @@
 - [2020-09-10-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-10-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-10-译-聚焦-Android-11-:-隐私和安全](https://toutiao.io/k/nccpa6r) 
-- [2020-09-10-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
+- [2020-09-10-破局网络安全“人才荒”,360多维赋能“钓鱼城杯”国际网络安全创新...](https://sec.thief.one/article_content?a_id=5da3fa2e70b67ddbf86dd87377b6e8af) 
+- [2020-09-10-用于云服务和应用程序的网络安全可编程性的数据日志管理](https://sec.thief.one/article_content?a_id=59b7f4c27e762f0be1755dda4dadbd48) 
+- [2020-09-10-【漏洞预警】CNNVD-关于微软多个安全漏洞的通报2020年9月](https://sec.thief.one/article_content?a_id=fb37b09ae527159e77d26ba921edfa6f) 
+- [2020-09-10-研究:几乎所有网络安全公司都在泄露敏感数据](https://sec.thief.one/article_content?a_id=9135bb0d024155aaf457af761b253f3f) 
 - [2020-09-09-奇安信代码安全实验室帮助微软修复多个高危漏洞,获官方致谢](https://sec.thief.one/article_content?a_id=2272d19cb2ea392dd1ea4460a699167b) 
 - [2020-09-09-诸子云|9.5北京金融及互联网业网络安全创新研讨会](https://sec.thief.one/article_content?a_id=7b282dbba8aab2378cbf9901ce5f0052) 
 - [2020-09-09-信息安全漏洞周报2020年第35期](https://sec.thief.one/article_content?a_id=7b84e676163ec41e67745b7244d17af1) 
@@ -63,4 +58,3 @@
 - [2020-09-07-干货-|GitHUB安全搬运工-Ⅱ](https://sec.thief.one/article_content?a_id=a98cb538f72f6c6f6980560de321f7cf) 
 - [2020-09-06-2020年中国网络安全市场全景图](https://sec.thief.one/article_content?a_id=3f199baa933811393820ea6f1c60184f) 
 - [2020-09-06-《信息安全技术-网络安全等级保护测评机构能力要求和评估规范》全文](https://sec.thief.one/article_content?a_id=3d794a2c287ef1df7d3c46609be85e8b) 
-- [2020-09-05-欧盟5G安全政策对我国产业影响的思考](https://sec.thief.one/article_content?a_id=effed41b9a78e59815a7bd5c8e4ebf55) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 08:03:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 08:12:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -68,3 +68,4 @@
 - [2020-09-09-跟随Element学习Vue小技巧36——Notification](https://juejin.im/post/6870642250787848199) 
 - [2020-09-09-vue-ssr-|-具体实现篇-|-集成vuex及vue-router](https://juejin.im/post/6870473682415058952) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-09-10-Vue-有没有什么生成落地页的插件或者框架](https://www.v2ex.com/t/705832) 

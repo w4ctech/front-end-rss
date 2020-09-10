@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 04:12:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 04:24:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -20,6 +20,7 @@
 - [2020-09-01-让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告](https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) 
+- [2020-09-10-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) 
 - [2020-09-09-【视频】|-Python:算术运算符](https://sec.thief.one/article_content?a_id=cd8a8a5511dae5fe30baa124d1231819) 
 - [2020-09-07-9月15日直播-|-互联网医疗APP个人信息保护线上沙龙,扫码即看](https://sec.thief.one/article_content?a_id=d447a98243fdc631179926a2a05b9b15) 
 - [2020-09-07-【视频】|-Python:赋值运算符及内存分析](https://sec.thief.one/article_content?a_id=253d594484e42ab0b49b0c27f98e4fd0) 

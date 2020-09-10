@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 08:24:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 08:32:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,6 +40,8 @@
 - [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-09-01-面试官一问就懵的设计模式题，是时候该怼回去了-丨-极客时间](https://www.ershicimi.com/p/52e94bb200353fe2417ce7fe7c64ceee) 
+- [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
+- [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-09-10-人力资源面试官对你强输：给不起期望薪资、996、疫情、无偿加班、长期出差、驻点开发、封闭开发](https://www.v2ex.com/t/705835) 
 - [2020-09-10-上海科技公司在招聘产品经理-有推荐者欢迎推荐](https://www.v2ex.com/t/705801) 
 - [2020-09-10-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 

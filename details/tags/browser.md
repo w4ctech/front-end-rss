@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 10:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 11:03:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,7 +28,6 @@
 - [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
 - [2020-09-08-你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e) 
 - [2020-09-04-如何防止重复发送ajax请求](https://www.ershicimi.com/p/98a8850e1ffb750ead2a74a1665adb83) 
-- [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
 - [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) 
@@ -40,6 +39,12 @@
 - [2020-09-11-Edge-浏览器总是自动产生文件-debug.log](https://www.v2ex.com/t/706220) 
 - [2020-09-11-Java-OKhttp4.0-与-Python-Requests、Postman-区别](https://www.v2ex.com/t/706205) 
 - [2020-09-11-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-11-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
+- [2020-09-11-国内首批SASE安全产品亮相,深信服全新模式再次定义“安全无处不...](https://sec.thief.one/article_content?a_id=e416ef9b1e0f494c80aa58ed9ebfdb10) 
+- [2020-09-11-招聘-|-上海富友诚聘安全工程师](https://sec.thief.one/article_content?a_id=f16d0b17bb65a12a14b9519e5955e7bc) 
+- [2020-09-11-广东网警《HW演习防守基础安全指引》全文-附下载](https://sec.thief.one/article_content?a_id=4fe49b32d080964c624e072ac6e98ecf) 
+- [2020-09-11-【安全热点周报】第159期:定制Win-10主题文件可以窃取Windows凭证](https://sec.thief.one/article_content?a_id=bc54f173aa0fd7ee2d98b2b35315874f) 
+- [2020-09-11-E安全前方播报——安恒信息正式成为成都大运会网络信息安全类官方...](https://sec.thief.one/article_content?a_id=10370d8fdaeb13c83355ddad67785f5d) 
 - [2020-09-10-破局网络安全“人才荒”,360多维赋能“钓鱼城杯”国际网络安全创新...](https://sec.thief.one/article_content?a_id=5da3fa2e70b67ddbf86dd87377b6e8af) 
 - [2020-09-10-用于云服务和应用程序的网络安全可编程性的数据日志管理](https://sec.thief.one/article_content?a_id=59b7f4c27e762f0be1755dda4dadbd48) 
 - [2020-09-10-【漏洞预警】CNNVD-关于微软多个安全漏洞的通报2020年9月](https://sec.thief.one/article_content?a_id=fb37b09ae527159e77d26ba921edfa6f) 
@@ -56,6 +61,3 @@
 - [2020-09-08-PHP安全:文件包含安全](https://sec.thief.one/article_content?a_id=e248e285b9f2364087475e03bfa29fdc) 
 - [2020-09-07-ISC-2020-大数据产业安全创新在线研讨会丨左晓栋:重要数据识别研...](https://sec.thief.one/article_content?a_id=923be0c428edd6197a0f3bd9b0f41cd1) 
 - [2020-09-07-亮相服贸会:奇安信内生安全框架助力新基建与数字化转型](https://sec.thief.one/article_content?a_id=5fc0a2a136d9fa53d83406d2ef9720dc) 
-- [2020-09-07-干货-|GitHUB安全搬运工-Ⅱ](https://sec.thief.one/article_content?a_id=a98cb538f72f6c6f6980560de321f7cf) 
-- [2020-09-06-2020年中国网络安全市场全景图](https://sec.thief.one/article_content?a_id=3f199baa933811393820ea6f1c60184f) 
-- [2020-09-06-《信息安全技术-网络安全等级保护测评机构能力要求和评估规范》全文](https://sec.thief.one/article_content?a_id=3d794a2c287ef1df7d3c46609be85e8b) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 10:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 11:03:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -68,7 +68,6 @@
 - [2020-09-01-关于JavaScript计时器，你需要知道的全部知识](https://www.ershicimi.com/p/42a44afa67100aa54e323f32a716b845) 
 - [2020-09-05-JavaScript红宝书第4版来了「回馈粉丝第二期」](https://www.ershicimi.com/p/f91df0d66af3f4bde48250d36a3dc96f) 
 - [2020-09-02-小技巧不定宽溢出文本适配滚动](https://www.ershicimi.com/p/4cc2a7c0a52dd69ac9affba81aff5a23) 
-- [2020-08-18-前端模块化：CommonJS,AMD,CMD,ES6](https://www.ershicimi.com/p/d2379722a4ae1383e39ba0c43731c031) 
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
@@ -96,8 +95,8 @@
 - [2020-09-11-如何实现一个优雅的Python的Json序列化库-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13755&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-python-json-library%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-11-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-11-如何实现一个优雅的-Python-的-Json-序列化库](https://toutiao.io/k/6blou0m) 
+- [2020-09-11-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-08-【JSRC小课堂预告】漏洞挖掘“骚操作”二如何优雅地寻找Web...](https://sec.thief.one/article_content?a_id=4f407220c1b35fa1823d45bc32a840f6) 
 - [2020-09-08-先导篇-|-《2020安全信息和事件管理SIEM研究报告》即将发布](https://sec.thief.one/article_content?a_id=beff6c5ec9b7b1a17240c29bd61bf08c) 
 - [2020-09-08-Gartner:将有更多CEO为网络安全事件担负个人责任](https://sec.thief.one/article_content?a_id=d3b4473e414ccb296c77fab1af14a69f) 
 - [2020-09-07-Windows横向移动全攻略一:WMI事件订阅](https://sec.thief.one/article_content?a_id=5a025c76f7ba98318d3a4a81db432e9c) 
-- [2020-09-06-Faxhell:一个利用Fax服务和DLL劫持技术实现的Bind-Shell](https://sec.thief.one/article_content?a_id=ec2bec911ee88facd44abe49fd2bcef2) 

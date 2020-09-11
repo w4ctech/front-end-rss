@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-11 00:07:17，:rocket: 更新条数: +3594， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-11 00:31:45，:rocket: 更新条数: +3596， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-11-微信能不能不要老是打断现有音乐播放？](https://www.v2ex.com/t/705992) ![](assets/new.png)  
+- [2020-09-11-讨论:继乌云网WooYun，漏洞盒子等平台关停之后，现在的信息安全行业是什么情况？](https://www.v2ex.com/t/705990) ![](assets/new.png)  
+- [2020-09-11-昨天是发工资的日子，但上家公司新浪时金的-HR-跑来跟我说，我请年假超额，把我八月份两天的工资都扣了。思来想去我觉得我一定要发出来，望大家提高警惕，勿入深...](https://www.v2ex.com/t/705989) ![](assets/new.png)  
 - [2020-09-10-我的-windows-10-游戏机已经从不能睡眠变成不能关机了](https://www.v2ex.com/t/705988) ![](assets/new.png)  
 - [2020-09-10-21-应届生，寻找销售或者渠道岗位](https://www.v2ex.com/t/705986) ![](assets/new.png)  
 - [2020-09-10-Chrome-85+-的同学可以来体验一下-AVIF-的神奇效果了。](https://www.v2ex.com/t/705985) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-09-10-QQ-被盗用来发了垃圾信息和-QQ-空间发布了垃圾信息可能是什么原因？](https://www.v2ex.com/t/705961) ![](assets/new.png)  
 - [2020-09-10-有参加-2020-年计算机技术与软件专业技术资格（水平）考试的同学吗。](https://www.v2ex.com/t/705960) ![](assets/new.png)  
 - [2020-09-10-寻安卓兼职,-最好在上海本地](https://www.v2ex.com/t/705959) ![](assets/new.png)  
-- [2020-09-10-Java-数组，如何通过自定义实现倒叙排序？](https://www.v2ex.com/t/705957) ![](assets/new.png)  
-- [2020-09-10-为什么我觉得国内厂手机的背面做成炫彩有股浓浓的杀马特风格](https://www.v2ex.com/t/705956) ![](assets/new.png)  
-- [2020-09-10-在-MacBook-上，将电脑文件拖拽到移动硬盘，使用“移动”而非“复制”操作如何实现？](https://www.v2ex.com/t/705952) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,24 +1141,24 @@
 
 - [2020-09-11-任正非：若果有人拧熄了灯塔，我们怎么航行？|-码农周刊第-317-期](https://toutiao.io/k/ixcjpqn) ![](assets/new.png)  
 - [2020-09-11-工具-|-企鹅电竞开发的，用于播放特效动画的实现方案](https://toutiao.io/k/7sew4zn) ![](assets/new.png)  
-- [2020-09-11-Facebook-开源-Go-ORM-项目-Ent-代码生成使用篇](https://toutiao.io/k/h46oc2w) ![](assets/new.png)  
-- [2020-09-11-Spring-Boot-开发微信公众号](https://toutiao.io/k/qfdifot) ![](assets/new.png)  
-- [2020-09-11-译-详解-Python-的二元算术运算，为什么说减法只是语法糖？](https://toutiao.io/k/70cbu8s) ![](assets/new.png)  
 - [2020-09-11-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-11-Facebook-开源-Go-ORM-项目-Ent-代码生成使用篇](https://toutiao.io/k/h46oc2w) ![](assets/new.png)  
 - [2020-09-11-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
+- [2020-09-11-Spring-Boot-开发微信公众号](https://toutiao.io/k/qfdifot) ![](assets/new.png)  
 - [2020-09-11-从偷手机，到窃取个人信息实现多平台盗刷的黑色产业链](https://toutiao.io/k/mqckask) ![](assets/new.png)  
-- [2020-09-11-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-11-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
-- [2020-09-11-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
-- [2020-09-11-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-11-译-详解-Python-的二元算术运算，为什么说减法只是语法糖？](https://toutiao.io/k/70cbu8s) ![](assets/new.png)  
+- [2020-09-11-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-11-如何基于-Flink-生成在线机器学习的样本？](https://toutiao.io/k/zu6s46v) ![](assets/new.png)  
+- [2020-09-11-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
 - [2020-09-11-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-11-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-11-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
 - [2020-09-11-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-11-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-11-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-11-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
+- [2020-09-11-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
 - [2020-09-11-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
-- [2020-09-11-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-11-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-11-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-11-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) ![](assets/new.png)  
+- [2020-09-11-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

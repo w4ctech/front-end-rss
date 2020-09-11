@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-11 02:34:22，:rocket: 更新条数: +3394， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-11 02:47:06，:rocket: 更新条数: +3394， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -854,6 +854,12 @@
 </summary>
 
 
+- [2020-09-11-牛逼！IDEA不愧为神器，结合Groovy脚本，简直天下无敌！](https://www.ershicimi.com/p/6e662cf05c1e9c7b3d74fa40cdbe4e95) ![](assets/new.png)  
+- [2020-09-11-为什么-Redis-要比-Memcached-更火？](https://www.ershicimi.com/p/86f6bf89758f8ce02795855682497ad6) ![](assets/new.png)  
+- [2020-09-11-点赞模块设计：Redis缓存-+-定时写入数据库实现高性能点赞功能](https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c) ![](assets/new.png)  
+- [2020-09-10-分享400多道算法题，来挑战吧](https://www.ershicimi.com/p/4e88bfd1eb96ea5426860ad1aa28700b) ![](assets/new.png)  
+- [2020-09-10-写这么骚的代码，真不怕被同事揍么？](https://www.ershicimi.com/p/4bcaaa6722516d9bd6e47236490031d2) ![](assets/new.png)  
+- [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) ![](assets/new.png)  
 - [2020-09-09-支付宝二面：Mybatis接口Mapper内的方法为啥不能重载吗？我直接懵逼了...](https://www.ershicimi.com/p/99f6a7a94269be4d747af02899618524) ![](assets/new.png)  
 - [2020-09-09-为什么程序员都不喜欢使用-switch-，而是大量的-if……else-if-？](https://www.ershicimi.com/p/88eb308e4bf0cff894702cd7cb62615c) ![](assets/new.png)  
 - [2020-09-09-天啊，为什么我的-Redis-变慢了。。](https://www.ershicimi.com/p/205a766e32b93e5da04bc5266003b271) ![](assets/new.png)  
@@ -868,12 +874,6 @@
 - [2020-09-05-卧槽！火爆GitHub的算法电子书开放下载了！](https://www.ershicimi.com/p/d864b5a3e2141990d3a4ae5454338734) ![](assets/new.png)  
 - [2020-09-05-推荐一个准确率99.9%的离线IP地址定位服务！](https://www.ershicimi.com/p/af8ecbbb4f27d3bc006ad042722a5684) ![](assets/new.png)  
 - [2020-09-05-Java-如何实现二维码？](https://www.ershicimi.com/p/91b6cf5f5357032bc20149481433865c) ![](assets/new.png)  
-- [2020-09-04-因Redis分布式锁造成的P0级重大事故，整个项目组被扣了绩效......，请慎用](https://www.ershicimi.com/p/6be5f5364b5573198a0cf140025d990d) ![](assets/new.png)  
-- [2020-09-04-SpringBoot-@Value-读取配置，太强大了！](https://www.ershicimi.com/p/b80b39a63bf5751b812078c4d97d7228) ![](assets/new.png)  
-- [2020-09-04-这么写参数校验Validator就不会被劝退了~](https://www.ershicimi.com/p/01747704cd6f10b0b999fd194736e801) ![](assets/new.png)  
-- [2020-09-03-最新消息，网易公司内部开始使用昵称!学阿里？](https://www.ershicimi.com/p/a614550a4dca1d3a9fb0d08660556dc1) ![](assets/new.png)  
-- [2020-09-03-20个使用-Java-CompletableFuture的示例，不服不行](https://www.ershicimi.com/p/12e92ee8cc71e7a2462a7c6699ba4fd7) ![](assets/new.png)  
-- [2020-09-03-好评度很高的通用基础库，代码写的不错！](https://www.ershicimi.com/p/aefe0def7c8714ef2cd39c3c02248e6f) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,7 +1057,12 @@
 </summary>
 
 
-- [2020-09-11-gitee](https://www.v2ex.com/t/706047) ![](assets/new.png)  
+- [2020-09-11-字节跳动---安全与风控内推](https://www.v2ex.com/t/706053) ![](assets/new.png)  
+- [2020-09-11-不懂就问，微信和-qq-私聊发的图，传输时有加密吗？](https://www.v2ex.com/t/706052) ![](assets/new.png)  
+- [2020-09-11-最近和前同事吃饭得知-上家公司的总公司也被-jc-抄家了。](https://www.v2ex.com/t/706051) ![](assets/new.png)  
+- [2020-09-11-深圳有什么特产可以带回去？](https://www.v2ex.com/t/706050) ![](assets/new.png)  
+- [2020-09-11-问了下-loli.top-域名大佬，好像购买花了一两万？还建了个博客-blog.loli.top-？](https://www.v2ex.com/t/706049) ![](assets/new.png)  
+- [2020-09-11-gitee-构建博客](https://www.v2ex.com/t/706047) ![](assets/new.png)  
 - [2020-09-11-求推荐键盘](https://www.v2ex.com/t/706046) ![](assets/new.png)  
 - [2020-09-11-从数据库中捞取某个字段和为特定值的记录](https://www.v2ex.com/t/706045) ![](assets/new.png)  
 - [2020-09-11-请教大家有关-git-工作流的问题](https://www.v2ex.com/t/706044) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-09-11-好迷茫啊](https://www.v2ex.com/t/706032) ![](assets/new.png)  
 - [2020-09-11-看完了《大话数据结构》和《算法图解》可以开始刷题了么？](https://www.v2ex.com/t/706029) ![](assets/new.png)  
 - [2020-09-11-幕布，你家发客户端都不测试么，一直内存泄漏，一直-crash](https://www.v2ex.com/t/706028) ![](assets/new.png)  
-- [2020-09-11-今日继续推广我的工具类小程序](https://www.v2ex.com/t/706027) ![](assets/new.png)  
-- [2020-09-11-观《观《教师节有感而发》有感而发》有感而发](https://www.v2ex.com/t/706025) ![](assets/new.png)  
-- [2020-09-11-深圳福田区开车没带驾照会怎么样？驾照的照片可以吗？](https://www.v2ex.com/t/706024) ![](assets/new.png)  
-- [2020-09-11-机械转电子信息，犹豫中](https://www.v2ex.com/t/706023) ![](assets/new.png)  
-- [2020-09-11-我东京的服务器一到晚上就抽风，昨晚-10-点直接丢包-100%，早上-3、4-点就好了,白天速度正常。](https://www.v2ex.com/t/706022) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1135,9 +1135,9 @@
 - [2020-09-11-如何实现一个优雅的-Python-的-Json-序列化库](https://toutiao.io/k/6blou0m) ![](assets/new.png)  
 - [2020-09-11-译-容器编排的优势与特点](https://toutiao.io/k/e0jr37e) ![](assets/new.png)  
 - [2020-09-11-Redis-源码阅读：字符串](https://toutiao.io/k/ns00i3f) ![](assets/new.png)  
-- [2020-09-11-关于-ref-的一切](https://toutiao.io/k/yinm5ii) ![](assets/new.png)  
 - [2020-09-11-杂谈-Java-内存-Webshell-的攻与防](https://toutiao.io/k/tkubazc) ![](assets/new.png)  
 - [2020-09-11-Windows-入侵痕迹清理技巧](https://toutiao.io/k/92rb4j0) ![](assets/new.png)  
+- [2020-09-11-关于-ref-的一切](https://toutiao.io/k/yinm5ii) ![](assets/new.png)  
 - [2020-09-11-译-动态作用域？Dave-Cheney-大神由-Go-单元测试惯用形式所想](https://toutiao.io/k/2ezisfq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

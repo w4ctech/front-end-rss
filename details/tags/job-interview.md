@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 02:34:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 02:47:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -44,5 +44,4 @@
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-09-11-校招-佳能医疗研发“Made-For-Life”2021-校园招聘开启](https://www.v2ex.com/t/706034) 
 - [2020-09-11-Google-面试题：序列重构](https://www.v2ex.com/t/706011) 
-- [2020-09-11-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
 - [2020-09-09-如何迈过人生求职这道坎,翻越面试那块砖,答案就在这里](https://sec.thief.one/article_content?a_id=99fba8ba0539e6b8b7c0149debfeeb50) 

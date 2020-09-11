@@ -13077,6 +13077,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "外交部：中国向加勒比国家援助物资全部顺利移交",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwkJGbqx9f6zaD3ogHvgH200911&isfromapp=1",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "新冠病毒传染率已突破“1” 英国疫情重新进入紧急状态",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipbx5pNzgstPIFWQOj1K5200911&isfromapp=1",
+        "date": "2020-09-11"
+      },
+      {
         "title": "受疫情影响 意大利今年第二季度就业人数同比减少84.1万人",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKLPDVP6t5CtjsF7zNwAf200911&isfromapp=1",
         "date": "2020-09-11"
@@ -13089,16 +13099,6 @@
       {
         "title": "印度新增96551例新冠肺炎确诊病例 累计超456万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQq9lL6F6tavckMFqAxOc200911&isfromapp=1",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "谭德塞：目前最令人担心的是缺乏团结",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwf34NU7VAEJxFUf83ndr200911&isfromapp=1",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "秘鲁新增新冠肺炎确诊病例逾71万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIZRx2Rwh44cSqToZdIw3200911&isfromapp=1",
         "date": "2020-09-11"
       }
     ]
@@ -17027,13 +17027,13 @@
         "date": "2020-09-10"
       },
       {
-        "title": "使用node转发请求",
-        "link": "https://juejin.im/post/6871053664610418695",
+        "title": "「Vue学习记录一」开发环境准备",
+        "link": "https://juejin.im/post/6871052602205798407",
         "date": "2020-09-10"
       },
       {
-        "title": "「Vue学习记录一」开发环境准备",
-        "link": "https://juejin.im/post/6871052602205798407",
+        "title": "微信开发之小程序登录相关的各类ID",
+        "link": "https://juejin.im/post/6870856346124681229",
         "date": "2020-09-10"
       }
     ]
@@ -17371,6 +17371,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "单位有几台闲置的服务器，也有几条专线 IP",
+        "link": "https://www.v2ex.com/t/706285",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "2020 年腾讯 TCPA 还值不值得用",
+        "link": "https://www.v2ex.com/t/706284",
+        "date": "2020-09-11"
+      },
+      {
         "title": "请问这是我的路由器坏了吗？",
         "link": "https://www.v2ex.com/t/706282",
         "date": "2020-09-11"
@@ -17544,16 +17554,6 @@
         "title": "寻求腾讯云计算型主机和标准型主机本地系统盘餐套",
         "link": "https://www.v2ex.com/t/706236",
         "date": "2020-09-11"
-      },
-      {
-        "title": "有没有人懂面向企业的产品 系统配置 路由网关配置这些的，折腾了好几天 搞不出来",
-        "link": "https://www.v2ex.com/t/706235",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "为什么 亚马逊全球加速 走 202.97 路由却高速稳定？",
-        "link": "https://www.v2ex.com/t/706234",
-        "date": "2020-09-11"
       }
     ]
   },
@@ -17715,13 +17715,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[译] 详解 Python 的二元算术运算，为什么说减法只是语法糖？",
-        "link": "https://toutiao.io/k/70cbu8s",
+        "title": "爱了！安利一个相见恨晚的可视化学习网站",
+        "link": "https://toutiao.io/k/vm6q2ih",
         "date": "2020-09-11"
       },
       {
-        "title": "爱了！安利一个相见恨晚的可视化学习网站",
-        "link": "https://toutiao.io/k/vm6q2ih",
+        "title": "[译] 详解 Python 的二元算术运算，为什么说减法只是语法糖？",
+        "link": "https://toutiao.io/k/70cbu8s",
         "date": "2020-09-11"
       },
       {
@@ -17775,33 +17775,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
-        "link": "https://toutiao.io/k/8r5oqql",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-11"
       },
       {
@@ -17810,33 +17790,43 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
+        "link": "https://toutiao.io/k/8r5oqql",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-11"
       },
       {
@@ -17845,8 +17835,18 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
-        "link": "https://toutiao.io/k/cgycnq9",
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-11"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-11 14:13:02，:rocket: 更新条数: +3616， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-11 14:24:26，:rocket: 更新条数: +3616， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-11-外交部：中国向加勒比国家援助物资全部顺利移交](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwkJGbqx9f6zaD3ogHvgH200911&isfromapp=1) ![](assets/new.png)  
+- [2020-09-11-新冠病毒传染率已突破“1”-英国疫情重新进入紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipbx5pNzgstPIFWQOj1K5200911&isfromapp=1) ![](assets/new.png)  
 - [2020-09-11-受疫情影响-意大利今年第二季度就业人数同比减少84.1万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKLPDVP6t5CtjsF7zNwAf200911&isfromapp=1) ![](assets/new.png)  
 - [2020-09-11-捷克新增1382例新冠肺炎确诊病例-连续三天新增过千例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizWSHpECz2aMbaozqwM0A200911&isfromapp=1) ![](assets/new.png)  
 - [2020-09-11-印度新增96551例新冠肺炎确诊病例-累计超456万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQq9lL6F6tavckMFqAxOc200911&isfromapp=1) ![](assets/new.png)  
-- [2020-09-11-谭德塞：目前最令人担心的是缺乏团结](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwf34NU7VAEJxFUf83ndr200911&isfromapp=1) ![](assets/new.png)  
-- [2020-09-11-秘鲁新增新冠肺炎确诊病例逾71万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIZRx2Rwh44cSqToZdIw3200911&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -970,8 +970,8 @@
 - [2020-09-11-ZooTeam-前端周刊｜第-99-期](https://juejin.im/post/6871153362683822088) ![](assets/new.png)  
 - [2020-09-10-让你的前端组件混沌一下？](https://juejin.im/post/6871114023849426952) ![](assets/new.png)  
 - [2020-09-10-Taro跨端开发之多业务模块管理-React-Native篇中](https://juejin.im/post/6871058311521763336) ![](assets/new.png)  
-- [2020-09-10-使用node转发请求](https://juejin.im/post/6871053664610418695) ![](assets/new.png)  
 - [2020-09-10-「Vue学习记录一」开发环境准备](https://juejin.im/post/6871052602205798407) ![](assets/new.png)  
+- [2020-09-10-微信开发之小程序登录相关的各类ID](https://juejin.im/post/6870856346124681229) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-11-单位有几台闲置的服务器，也有几条专线-IP](https://www.v2ex.com/t/706285) ![](assets/new.png)  
+- [2020-09-11-2020-年腾讯-TCPA-还值不值得用](https://www.v2ex.com/t/706284) ![](assets/new.png)  
 - [2020-09-11-请问这是我的路由器坏了吗？](https://www.v2ex.com/t/706282) ![](assets/new.png)  
 - [2020-09-11-这电池优化隐藏的很深啊，开启后微信自然就走-FCM，消息都即使，早上起来只占-7M](https://www.v2ex.com/t/706281) ![](assets/new.png)  
 - [2020-09-11-如何在前端客户多次点击不同的内容时，只加载最后一次点击的请求？](https://www.v2ex.com/t/706278) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-11-pdd-部门直招-Java-后端开发](https://www.v2ex.com/t/706261) ![](assets/new.png)  
 - [2020-09-11-如何通过拍摄照片表现-IPS-显示器的漏光问题](https://www.v2ex.com/t/706260) ![](assets/new.png)  
 - [2020-09-11-请教个网络速度连通性的问题](https://www.v2ex.com/t/706258) ![](assets/new.png)  
-- [2020-09-11-在公司里需不需要站队，怎么选择站队？](https://www.v2ex.com/t/706255) ![](assets/new.png)  
-- [2020-09-11-Java-初级后端岗位竞争太激烈了吧](https://www.v2ex.com/t/706253) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1148,8 +1148,8 @@
 - [2020-09-11-从偷手机，到窃取个人信息实现多平台盗刷的黑色产业链](https://toutiao.io/k/mqckask) ![](assets/new.png)  
 - [2020-09-11-Spring-Boot-开发微信公众号](https://toutiao.io/k/qfdifot) ![](assets/new.png)  
 - [2020-09-11-工具-|-企鹅电竞开发的，用于播放特效动画的实现方案](https://toutiao.io/k/7sew4zn) ![](assets/new.png)  
-- [2020-09-11-译-详解-Python-的二元算术运算，为什么说减法只是语法糖？](https://toutiao.io/k/70cbu8s) ![](assets/new.png)  
 - [2020-09-11-爱了！安利一个相见恨晚的可视化学习网站](https://toutiao.io/k/vm6q2ih) ![](assets/new.png)  
+- [2020-09-11-译-详解-Python-的二元算术运算，为什么说减法只是语法糖？](https://toutiao.io/k/70cbu8s) ![](assets/new.png)  
 - [2020-09-11-如何基于-Flink-生成在线机器学习的样本？](https://toutiao.io/k/zu6s46v) ![](assets/new.png)  
 - [2020-09-11-Prometheus-监控神器：Kubernetes-篇（一）](https://toutiao.io/k/h1yl3x7) ![](assets/new.png)  
 - [2020-09-11-为什么不能使用-Application-Context-显示-Dialog？](https://toutiao.io/k/86vdw3o) ![](assets/new.png)  

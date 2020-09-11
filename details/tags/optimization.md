@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 15:34:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 15:48:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -10,7 +10,6 @@
 - [2020-02-19-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-09-08-网站优化，这些神级工具你一定用得上](https://www.ershicimi.com/p/4de6b89e9e8327c7691ac085046ba869) 
 - [2020-08-30-谷歌发布-Chrome-85-稳定版，引入-PGO，页面加载速度提升-10%](https://www.ershicimi.com/p/b6ecdac0e9f67afe4f5b260a6b06ed42) 
-- [2020-09-03-提升低端设备的-Web-性能](https://www.ershicimi.com/p/ec186f5390fd3818a116bfc2d75d0588) 
 - [2020-08-31-谷歌发布-Chrome-85-稳定版，引入-PGO，页面加载速度提升-10%](https://www.ershicimi.com/p/975990ee48bfa33c48d7f050015bdbe5) 
 - [2020-08-30-前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome-85发布，提高页面加载速度；iPhon](https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb) 
 - [2020-09-09-腾讯音乐移动端页面通用性能优化实践](https://www.ershicimi.com/p/951c47621be39d733c40f8453c62418b) 

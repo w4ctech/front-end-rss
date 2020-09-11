@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 09:23:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 09:32:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -29,3 +29,5 @@
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2020-09-11-点赞模块设计：Redis缓存-+-定时写入数据库实现高性能点赞功能](https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-09-11-问一下懂安卓的同学..如何获取-APP-从网络上加载到的文件?](https://www.v2ex.com/t/706222) 
+- [2020-09-11-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) 

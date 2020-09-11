@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 04:34:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 04:47:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -93,8 +93,6 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-11-@Schedule、@Async-有关问题请教各为大佬](https://www.v2ex.com/t/706090) 
 - [2020-09-11-有没有谁用过-PDF-文件以翻书的形式打开的-js-插件](https://www.v2ex.com/t/706088) 
-- [2020-09-11-Python-遍历数组对象怎么取序号?](https://www.v2ex.com/t/706069) 
-- [2020-09-11-求助大神，有没有谁用过-PDF-文件以翻书的形式打开的-js-插件](https://www.v2ex.com/t/706067) 
 - [2020-09-11-如何实现一个优雅的Python的Json序列化库-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13755&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-python-json-library%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-11-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-11-如何实现一个优雅的-Python-的-Json-序列化库](https://toutiao.io/k/6blou0m) 

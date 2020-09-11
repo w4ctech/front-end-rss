@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 08:34:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 08:47:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,7 +37,6 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) 
 - [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
@@ -45,6 +44,7 @@
 - [2020-09-11-chrome-上有没有比-smart-proxy-更智能的插件。](https://www.v2ex.com/t/706179) 
 - [2020-09-11-iOS-怎么获取最新系列-iPhone-后置相机准确的视场角数值field-of-view,-FOV-？](https://www.v2ex.com/t/706172) 
 - [2020-09-11-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-11-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-10-破局网络安全“人才荒”,360多维赋能“钓鱼城杯”国际网络安全创新...](https://sec.thief.one/article_content?a_id=5da3fa2e70b67ddbf86dd87377b6e8af) 
 - [2020-09-10-用于云服务和应用程序的网络安全可编程性的数据日志管理](https://sec.thief.one/article_content?a_id=59b7f4c27e762f0be1755dda4dadbd48) 
 - [2020-09-10-【漏洞预警】CNNVD-关于微软多个安全漏洞的通报2020年9月](https://sec.thief.one/article_content?a_id=fb37b09ae527159e77d26ba921edfa6f) 

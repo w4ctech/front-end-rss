@@ -16365,111 +16365,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/6210",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/6210",
     "title": "奇舞周刊",
     "link": "https://www.ershicimi.com/a/6210",
-    "items": [
-      {
-        "title": "『极限版』不掺水，用纯 CSS 来实现超飒的表单验证功能",
-        "link": "https://www.ershicimi.com/p/b1db44ad9abcc9adfd41248d850bfeab",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/06388e002c5994ed0bbb81a2b331f15f",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/469138dd0c9eda97fea49af99b2963ee",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "关于ref的一切",
-        "link": "https://www.ershicimi.com/p/4b3333ce70b41bd7c23d9629fcccc039",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/dbc437e0d03b75fe2f4725e6f7cca96e",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/1032c8bf0060f4ebc29f82195c98bdf6",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/62a4cdbef7fd9dfddaabaf02ea4a0aac",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/6687b9b7b05a486dbcc532302ca328f4",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "是谁动了我的 DOM？",
-        "link": "https://www.ershicimi.com/p/919bd1ae01862df1ac098dd627d16e0c",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/2269c870d3af5610827f53d27408970b",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/7b3df6f71aeaa732b990f2fd912e0e5a",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "TypeScript 4.1 新特性：字符串模板类型，Vuex 终于有救了？",
-        "link": "https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/8cd5e6453faec928130dc88f18779d56",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/240512a48a84d034c760e135be50380d",
-        "date": "2020-09-05"
-      },
-      {
-        "title": "奇舞周刊第 362 期: 细说 SOLID 原则",
-        "link": "https://www.ershicimi.com/p/f99bac47ded23aca5812579168de9c7e",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "新的跨域策略：COOP、COEP",
-        "link": "https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/ec3b126ee2719fe4fef1a01d3f840b35",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "来奇舞团吧，让自己过得快乐一点",
-        "link": "https://www.ershicimi.com/p/05f673bfc6c5fc81d028bc547a988853",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "Vue Composition API 陷阱",
-        "link": "https://www.ershicimi.com/p/2803a18549e9516648ab6f334a327b39",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "奇舞团招实习生啦，这次产品和开发都要！",
-        "link": "https://www.ershicimi.com/p/f6a9bf8144331b524cd463dc22ef7dde",
-        "date": "2020-09-01"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/5762",
@@ -17371,6 +17270,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "工作和第二学位该怎么取舍？",
+        "link": "https://www.v2ex.com/t/706204",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "CleanMyMac X 解锁完整 一年 248 值得购买吗？或者有什么好的平替吗？",
+        "link": "https://www.v2ex.com/t/706203",
+        "date": "2020-09-11"
+      },
+      {
         "title": "寻求 electron 大神，一个兼职小项目，预算 5K",
         "link": "https://www.v2ex.com/t/706200",
         "date": "2020-09-11"
@@ -17538,21 +17447,6 @@
       {
         "title": "Mac 上是否有根据 WiFi 无感切换代理的工具？",
         "link": "https://www.v2ex.com/t/706155",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "计算机软考马上要开始了，还有两个月了，有人一起复习的吗？",
-        "link": "https://www.v2ex.com/t/706154",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "苹果鼠标，你们用的都还好吗？为啥我实际感觉其实也不那么好用。",
-        "link": "https://www.v2ex.com/t/706153",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "jetbrain 系列 IDE 怎么调回上一个位置",
-        "link": "https://www.v2ex.com/t/706152",
         "date": "2020-09-11"
       }
     ]
@@ -17775,8 +17669,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-11"
       },
       {
@@ -17785,33 +17684,28 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-11"
       },
       {
@@ -17820,33 +17714,33 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
         "date": "2020-09-11"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-11 08:34:44，:rocket: 更新条数: +3616， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-11 08:47:17，:rocket: 更新条数: +3595， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
@@ -781,26 +781,6 @@
 </summary>
 
 
-- [2020-09-10-『极限版』不掺水，用纯-CSS-来实现超飒的表单验证功能](https://www.ershicimi.com/p/b1db44ad9abcc9adfd41248d850bfeab) ![](assets/new.png)  
-- [2020-09-10-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/06388e002c5994ed0bbb81a2b331f15f) ![](assets/new.png)  
-- [2020-09-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/469138dd0c9eda97fea49af99b2963ee) ![](assets/new.png)  
-- [2020-09-09-关于ref的一切](https://www.ershicimi.com/p/4b3333ce70b41bd7c23d9629fcccc039) ![](assets/new.png)  
-- [2020-09-09-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/dbc437e0d03b75fe2f4725e6f7cca96e) ![](assets/new.png)  
-- [2020-09-09-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1032c8bf0060f4ebc29f82195c98bdf6) ![](assets/new.png)  
-- [2020-09-08-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/62a4cdbef7fd9dfddaabaf02ea4a0aac) ![](assets/new.png)  
-- [2020-09-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6687b9b7b05a486dbcc532302ca328f4) ![](assets/new.png)  
-- [2020-09-07-是谁动了我的-DOM？](https://www.ershicimi.com/p/919bd1ae01862df1ac098dd627d16e0c) ![](assets/new.png)  
-- [2020-09-07-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/2269c870d3af5610827f53d27408970b) ![](assets/new.png)  
-- [2020-09-07-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/7b3df6f71aeaa732b990f2fd912e0e5a) ![](assets/new.png)  
-- [2020-09-05-TypeScript-4.1-新特性：字符串模板类型，Vuex-终于有救了？](https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80) ![](assets/new.png)  
-- [2020-09-05-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/8cd5e6453faec928130dc88f18779d56) ![](assets/new.png)  
-- [2020-09-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/240512a48a84d034c760e135be50380d) ![](assets/new.png)  
-- [2020-09-04-奇舞周刊第-362-期:-细说-SOLID-原则](https://www.ershicimi.com/p/f99bac47ded23aca5812579168de9c7e) ![](assets/new.png)  
-- [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) ![](assets/new.png)  
-- [2020-09-02-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/ec3b126ee2719fe4fef1a01d3f840b35) ![](assets/new.png)  
-- [2020-09-02-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/05f673bfc6c5fc81d028bc547a988853) ![](assets/new.png)  
-- [2020-09-01-Vue-Composition-API-陷阱](https://www.ershicimi.com/p/2803a18549e9516648ab6f334a327b39) ![](assets/new.png)  
-- [2020-09-01-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/f6a9bf8144331b524cd463dc22ef7dde) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-11-工作和第二学位该怎么取舍？](https://www.v2ex.com/t/706204) ![](assets/new.png)  
+- [2020-09-11-CleanMyMac-X-解锁完整-一年-248-值得购买吗？或者有什么好的平替吗？](https://www.v2ex.com/t/706203) ![](assets/new.png)  
 - [2020-09-11-寻求-electron-大神，一个兼职小项目，预算-5K](https://www.v2ex.com/t/706200) ![](assets/new.png)  
 - [2020-09-11-有一个网站-哪位巨佬知道！](https://www.v2ex.com/t/706199) ![](assets/new.png)  
 - [2020-09-11-MIUI-的天气城市切换过渡动画还挺好看的，有-MIUI-的同学吗？我想仿一个，能大致说一下原理吗？](https://www.v2ex.com/t/706197) ![](assets/new.png)  
@@ -1095,8 +1077,6 @@
 - [2020-09-11-chrome-上有没有比-smart-proxy-更智能的插件。](https://www.v2ex.com/t/706179) ![](assets/new.png)  
 - [2020-09-11-iMac-2020-选配问题，需求如下。（从-16-寸-MBP-换过去）](https://www.v2ex.com/t/706177) ![](assets/new.png)  
 - [2020-09-11-华强路,求推荐](https://www.v2ex.com/t/706176) ![](assets/new.png)  
-- [2020-09-11-Express-集成-OIDC-单点登录指南](https://www.v2ex.com/t/706175) ![](assets/new.png)  
-- [2020-09-11-请教大家有没有比较实惠的，防止访客-Wifi-出“事故”的软硬件设备？](https://www.v2ex.com/t/706174) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -16255,6 +16255,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教大家有没有比较实惠的，防止访客 Wifi 出“事故”的软硬件设备？",
+        "link": "https://www.v2ex.com/t/706174",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "为什么 Mac 上的 Siri 声音不如 iOS 上的真实？",
+        "link": "https://www.v2ex.com/t/706173",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "iOS 怎么获取最新系列 iPhone 后置相机准确的视场角数值(field of view, FOV) ？",
+        "link": "https://www.v2ex.com/t/706172",
+        "date": "2020-09-11"
+      },
+      {
         "title": "我对 JVM 的 Loading Constraints 理解正确吗？",
         "link": "https://www.v2ex.com/t/706171",
         "date": "2020-09-11"
@@ -16427,16 +16442,6 @@
       {
         "title": "小白请问一下 VMWare 虚拟化平台的一些概念性问题？",
         "link": "https://www.v2ex.com/t/706125",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "长江存储推出了国产 ssd，致钛，大家觉得怎么样",
-        "link": "https://www.v2ex.com/t/706124",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "点子：输验证码挣美元",
-        "link": "https://www.v2ex.com/t/706123",
         "date": "2020-09-11"
       }
     ]
@@ -16644,13 +16649,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "杂谈 Java 内存 Webshell 的攻与防",
-        "link": "https://toutiao.io/k/tkubazc",
+        "title": "[译] 动态作用域？Dave Cheney 大神由 Go 单元测试惯用形式所想",
+        "link": "https://toutiao.io/k/2ezisfq",
         "date": "2020-09-11"
       },
       {
-        "title": "[译] 动态作用域？Dave Cheney 大神由 Go 单元测试惯用形式所想",
-        "link": "https://toutiao.io/k/2ezisfq",
+        "title": "杂谈 Java 内存 Webshell 的攻与防",
+        "link": "https://toutiao.io/k/tkubazc",
         "date": "2020-09-11"
       },
       {
@@ -16659,38 +16664,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
-        "link": "https://toutiao.io/k/cgycnq9",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
-        "link": "https://toutiao.io/k/8r5oqql",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-11"
       },
       {
@@ -16704,18 +16684,8 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
         "date": "2020-09-11"
       },
       {
@@ -16724,13 +16694,48 @@
         "date": "2020-09-11"
       },
       {
+        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
+        "link": "https://toutiao.io/k/8r5oqql",
+        "date": "2020-09-11"
+      },
+      {
         "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
         "link": "https://toutiao.io/k/yk3b77w",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-11"
       }
     ]

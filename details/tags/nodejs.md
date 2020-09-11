@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 11:46:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 11:49:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -26,3 +26,4 @@
 - [2020-08-09-CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [2020-09-10-使用node转发请求](https://juejin.im/post/6871053664610418695) 
+- [2020-09-11-安卓无障碍自动工具,-j2v8-引擎,-类-autojs](https://www.v2ex.com/t/706230) 

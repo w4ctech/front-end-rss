@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 14:32:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 14:34:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,6 +34,7 @@
 - [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) 
 - [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-11-字节跳动---安全与风控几百个岗位内推（已经有-V2-的朋友入职了）](https://www.v2ex.com/t/706240) 
 - [2020-09-11-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-11-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) 
 - [2020-09-11-云的声音|腾讯安全董志强:用云原生安全打造易用可信赖的云](https://sec.thief.one/article_content?a_id=8f6c153a7630ffd891cb1025e6b2ad26) 

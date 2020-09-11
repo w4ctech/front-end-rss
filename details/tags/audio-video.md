@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 13:11:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 13:21:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,14 +83,10 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-09-01-让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告](https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9) 
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) 
-- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
-- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
-- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
-- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) 
 - [2020-09-11-自制视频史上最贵的华为-P-系列到底表现如何?华为-P40Pro+详细评测](https://www.v2ex.com/t/706237) 
+- [2020-09-11-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) 
 - [2020-09-11-【视频】|-Python:小节回顾](https://sec.thief.one/article_content?a_id=ea5921059aa9249efc6c95ad58c1d6dc) 
 - [2020-09-10-【视频】|-漫话安全:2020国家网络安全宣传周](https://sec.thief.one/article_content?a_id=49fb80d5eef5f3b76e3fc9badb71e5a8) 
 - [2020-09-09-【视频】|-Python:算术运算符](https://sec.thief.one/article_content?a_id=cd8a8a5511dae5fe30baa124d1231819) 

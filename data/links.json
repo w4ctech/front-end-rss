@@ -16378,33 +16378,23 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
+        "title": "浅析 Flutter 渲染原理",
+        "link": "https://toutiao.io/k/xougc1l",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "无尽学习者修炼指南 v3.0",
+        "link": "https://toutiao.io/k/ghay540",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
+        "title": "elecV2P：一款不止于 MITM 的网络工具",
+        "link": "https://toutiao.io/k/3dcr8pg",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-11"
       },
       {
@@ -16413,33 +16403,23 @@
         "date": "2020-09-11"
       },
       {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-11"
+      },
+      {
         "title": "[推荐] 有赞零售移动 CI/CD 实践",
         "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
         "date": "2020-09-11"
       },
       {
@@ -16448,8 +16428,43 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-11"
       }
     ]

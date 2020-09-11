@@ -16255,6 +16255,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[厦门][5K-20K][965] 厦门卫星定位 招聘 web 前端开发工程师",
+        "link": "https://www.v2ex.com/t/706195",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "是转行去做网店，还是继续过月薪 2W 的打工生活",
+        "link": "https://www.v2ex.com/t/706194",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[上海] 思勰投资 2021 秋季校招及社招岗位开启！量化研究、C++软件开发、数据工程师等岗位…",
+        "link": "https://www.v2ex.com/t/706193",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "看到最热的两个帖子，感觉现在的人对“占用公共资源”这件事真的是高度敏感",
+        "link": "https://www.v2ex.com/t/706191",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "鸿蒙 HarmonyOS 2.0 正式发布了",
+        "link": "https://www.v2ex.com/t/706189",
+        "date": "2020-09-11"
+      },
+      {
         "title": "公众号被永久封禁了。咋办！好不容易运营了 2W 粉丝。心累",
         "link": "https://www.v2ex.com/t/706187",
         "date": "2020-09-11"
@@ -16423,26 +16448,6 @@
         "title": "Signal 群组推荐",
         "link": "https://www.v2ex.com/t/706146",
         "date": "2020-09-11"
-      },
-      {
-        "title": "安利:标记狮新功能:adobe xd 实时预览",
-        "link": "https://www.v2ex.com/t/706144",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "怎么编写一个同时支持 callback 和 promise 风格的函数",
-        "link": "https://www.v2ex.com/t/706142",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "用 Golang 写一个 Go 的 IDE 如何",
-        "link": "https://www.v2ex.com/t/706140",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "统一推送对即时通讯软件并不友好",
-        "link": "https://www.v2ex.com/t/706139",
-        "date": "2020-09-11"
       }
     ]
   },
@@ -16604,13 +16609,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "如何基于 Flink 生成在线机器学习的样本？",
-        "link": "https://toutiao.io/k/zu6s46v",
+        "title": "Redis 源码阅读：字符串",
+        "link": "https://toutiao.io/k/ns00i3f",
         "date": "2020-09-11"
       },
       {
-        "title": "Prometheus 监控神器：Kubernetes 篇（一）",
-        "link": "https://toutiao.io/k/h1yl3x7",
+        "title": "如何基于 Flink 生成在线机器学习的样本？",
+        "link": "https://toutiao.io/k/zu6s46v",
         "date": "2020-09-11"
       },
       {
@@ -16619,8 +16624,8 @@
         "date": "2020-09-11"
       },
       {
-        "title": "Redis 源码阅读：字符串",
-        "link": "https://toutiao.io/k/ns00i3f",
+        "title": "Prometheus 监控神器：Kubernetes 篇（一）",
+        "link": "https://toutiao.io/k/h1yl3x7",
         "date": "2020-09-11"
       },
       {
@@ -16629,13 +16634,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "如何实现一个优雅的 Python 的 Json 序列化库",
-        "link": "https://toutiao.io/k/6blou0m",
+        "title": "[译] 容器编排的优势与特点",
+        "link": "https://toutiao.io/k/e0jr37e",
         "date": "2020-09-11"
       },
       {
-        "title": "[译] 容器编排的优势与特点",
-        "link": "https://toutiao.io/k/e0jr37e",
+        "title": "如何实现一个优雅的 Python 的 Json 序列化库",
+        "link": "https://toutiao.io/k/6blou0m",
         "date": "2020-09-11"
       },
       {
@@ -16664,28 +16669,18 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
+        "link": "https://toutiao.io/k/cgycnq9",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
         "date": "2020-09-11"
       },
       {
@@ -16694,23 +16689,18 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 缓存与数据库双写一致这个 “老大难”，该怎么治",
-        "link": "https://toutiao.io/k/cgycnq9",
+        "title": "[推荐] 订单中心，1 亿数据架构，这次服了",
+        "link": "https://toutiao.io/k/8r5oqql",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-11"
       },
       {
@@ -16719,8 +16709,8 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-11"
       },
       {
@@ -16729,13 +16719,28 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-11"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 02:03:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 02:13:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,7 +34,6 @@
 - [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-11-讨论:继乌云网WooYun，漏洞盒子等平台关停之后，现在的信息安全行业是什么情况？](https://www.v2ex.com/t/705990) 
-- [2020-09-10-Chrome-85+-的同学可以来体验一下-AVIF-的神奇效果了。](https://www.v2ex.com/t/705985) 
 - [2020-09-11-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-10-破局网络安全“人才荒”,360多维赋能“钓鱼城杯”国际网络安全创新...](https://sec.thief.one/article_content?a_id=5da3fa2e70b67ddbf86dd87377b6e8af) 
 - [2020-09-10-用于云服务和应用程序的网络安全可编程性的数据日志管理](https://sec.thief.one/article_content?a_id=59b7f4c27e762f0be1755dda4dadbd48) 

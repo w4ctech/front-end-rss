@@ -15896,8 +15896,8 @@
         "date": "2020-09-10"
       },
       {
-        "title": "Jest+Enzyme测试React组件（编码规范-->测试实例）（二）",
-        "link": "https://juejin.im/post/6870832841031483399",
+        "title": "创建你自己的 vue cli preset",
+        "link": "https://juejin.im/post/6870889824383926279",
         "date": "2020-09-10"
       },
       {
@@ -16250,6 +16250,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大家有质量好的 USB 集线器推荐吗？",
+        "link": "https://www.v2ex.com/t/706037",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "还没谈薪，就要背调，这合理吗？",
+        "link": "https://www.v2ex.com/t/706036",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "macOS Catalina 10.15.6 (19G2531)",
+        "link": "https://www.v2ex.com/t/706035",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[校招] 佳能医疗研发“Made For Life”2021 校园招聘开启",
+        "link": "https://www.v2ex.com/t/706034",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "一站式 ai 在线解决影视频动漫插帧补帧、图像高清、黑白上色……平台上线，独拥视频插帧 DAIN 最新算法。",
+        "link": "https://www.v2ex.com/t/706033",
+        "date": "2020-09-11"
+      },
+      {
         "title": "好迷茫啊",
         "link": "https://www.v2ex.com/t/706032",
         "date": "2020-09-11"
@@ -16428,26 +16453,6 @@
         "title": "我的 windows 10 游戏机已经从不能睡眠变成不能关机了",
         "link": "https://www.v2ex.com/t/705988",
         "date": "2020-09-10"
-      },
-      {
-        "title": "21 应届生，寻找销售或者渠道岗位",
-        "link": "https://www.v2ex.com/t/705986",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "Chrome 85+ 的同学可以来体验一下 AVIF 的神奇效果了。",
-        "link": "https://www.v2ex.com/t/705985",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "网格员可以扣押停放在楼里的电动车，甚至查封住户？",
-        "link": "https://www.v2ex.com/t/705984",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "wx 的好友关系是怎样被其他 app 获取的",
-        "link": "https://www.v2ex.com/t/705983",
-        "date": "2020-09-10"
       }
     ]
   },
@@ -16594,13 +16599,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "Facebook 开源 Go ORM 项目 Ent 代码生成使用篇",
-        "link": "https://toutiao.io/k/h46oc2w",
+        "title": "Spring Boot 开发微信公众号",
+        "link": "https://toutiao.io/k/qfdifot",
         "date": "2020-09-11"
       },
       {
-        "title": "Spring Boot 开发微信公众号",
-        "link": "https://toutiao.io/k/qfdifot",
+        "title": "Facebook 开源 Go ORM 项目 Ent 代码生成使用篇",
+        "link": "https://toutiao.io/k/h46oc2w",
         "date": "2020-09-11"
       },
       {
@@ -16624,13 +16629,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "如何实现一个优雅的 Python 的 Json 序列化库",
-        "link": "https://toutiao.io/k/6blou0m",
+        "title": "为什么不能使用 Application Context 显示 Dialog？",
+        "link": "https://toutiao.io/k/86vdw3o",
         "date": "2020-09-11"
       },
       {
-        "title": "为什么不能使用 Application Context 显示 Dialog？",
-        "link": "https://toutiao.io/k/86vdw3o",
+        "title": "如何实现一个优雅的 Python 的 Json 序列化库",
+        "link": "https://toutiao.io/k/6blou0m",
         "date": "2020-09-11"
       },
       {
@@ -16639,58 +16644,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
-        "link": "https://toutiao.io/k/gatrxff",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-11"
       },
       {
@@ -16699,18 +16659,63 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-11"
       },
       {
         "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
         "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] DBA 的福音，SQL 审核利器：goinception",
+        "link": "https://toutiao.io/k/gatrxff",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
         "date": "2020-09-11"
       }
     ]

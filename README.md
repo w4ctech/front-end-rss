@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-11 02:03:51，:rocket: 更新条数: +3389， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-11 02:13:01，:rocket: 更新条数: +3390， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -948,7 +948,7 @@
 
 
 - [2020-09-10-多种方式实现自定义-React-路由拦截弹窗](https://juejin.im/post/6871018004289683463) ![](assets/new.png)  
-- [2020-09-10-Jest+Enzyme测试React组件（编码规范-->测试实例）（二）](https://juejin.im/post/6870832841031483399) ![](assets/new.png)  
+- [2020-09-10-创建你自己的-vue-cli-preset](https://juejin.im/post/6870889824383926279) ![](assets/new.png)  
 - [2020-09-10-摘录总结JS砖瓦篇](https://juejin.im/post/6870832609232977927) ![](assets/new.png)  
 - [2020-09-10-通俗易懂的了解观察者模式/发布订阅模式](https://juejin.im/post/6870830840977293326) ![](assets/new.png)  
 - [2020-09-10-面试常见问题之-JavaScript-内存机制-总结](https://juejin.im/post/6870830548198260749) ![](assets/new.png)  
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-09-11-大家有质量好的-USB-集线器推荐吗？](https://www.v2ex.com/t/706037) ![](assets/new.png)  
+- [2020-09-11-还没谈薪，就要背调，这合理吗？](https://www.v2ex.com/t/706036) ![](assets/new.png)  
+- [2020-09-11-macOS-Catalina-10.15.6-19G2531](https://www.v2ex.com/t/706035) ![](assets/new.png)  
+- [2020-09-11-校招-佳能医疗研发“Made-For-Life”2021-校园招聘开启](https://www.v2ex.com/t/706034) ![](assets/new.png)  
+- [2020-09-11-一站式-ai-在线解决影视频动漫插帧补帧、图像高清、黑白上色……平台上线，独拥视频插帧-DAIN-最新算法。](https://www.v2ex.com/t/706033) ![](assets/new.png)  
 - [2020-09-11-好迷茫啊](https://www.v2ex.com/t/706032) ![](assets/new.png)  
 - [2020-09-11-看完了《大话数据结构》和《算法图解》可以开始刷题了么？](https://www.v2ex.com/t/706029) ![](assets/new.png)  
 - [2020-09-11-幕布，你家发客户端都不测试么，一直内存泄漏，一直-crash](https://www.v2ex.com/t/706028) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-09-11-Foxmail-居然又更新了](https://www.v2ex.com/t/706014) ![](assets/new.png)  
 - [2020-09-11-今天想换个输入法，竟然发现紫光拼音还在更新，现在叫华宇拼音](https://www.v2ex.com/t/706013) ![](assets/new.png)  
 - [2020-09-11-迫于洗牙，请问现在还有哪里可以领洗牙券吗？](https://www.v2ex.com/t/706012) ![](assets/new.png)  
-- [2020-09-11-Google-面试题：序列重构](https://www.v2ex.com/t/706011) ![](assets/new.png)  
-- [2020-09-11-三七互娱内推-社招](https://www.v2ex.com/t/706010) ![](assets/new.png)  
-- [2020-09-11-个人开发的社交-app,寻找达人圈子，鱼聊](https://www.v2ex.com/t/706009) ![](assets/new.png)  
-- [2020-09-11-看到好多人吐槽-golang-的错误处理，但我用的很爽啊](https://www.v2ex.com/t/706008) ![](assets/new.png)  
-- [2020-09-11-想问下各位大佬,我说错了么?](https://www.v2ex.com/t/706007) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,20 +1125,20 @@
 - [2020-09-11-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
 - [2020-09-11-从偷手机，到窃取个人信息实现多平台盗刷的黑色产业链](https://toutiao.io/k/mqckask) ![](assets/new.png)  
 - [2020-09-11-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-11-Facebook-开源-Go-ORM-项目-Ent-代码生成使用篇](https://toutiao.io/k/h46oc2w) ![](assets/new.png)  
 - [2020-09-11-Spring-Boot-开发微信公众号](https://toutiao.io/k/qfdifot) ![](assets/new.png)  
+- [2020-09-11-Facebook-开源-Go-ORM-项目-Ent-代码生成使用篇](https://toutiao.io/k/h46oc2w) ![](assets/new.png)  
 - [2020-09-11-译-详解-Python-的二元算术运算，为什么说减法只是语法糖？](https://toutiao.io/k/70cbu8s) ![](assets/new.png)  
 - [2020-09-11-如何基于-Flink-生成在线机器学习的样本？](https://toutiao.io/k/zu6s46v) ![](assets/new.png)  
 - [2020-09-11-Prometheus-监控神器：Kubernetes-篇（一）](https://toutiao.io/k/h1yl3x7) ![](assets/new.png)  
 - [2020-09-11-爱了！安利一个相见恨晚的可视化学习网站](https://toutiao.io/k/vm6q2ih) ![](assets/new.png)  
-- [2020-09-11-如何实现一个优雅的-Python-的-Json-序列化库](https://toutiao.io/k/6blou0m) ![](assets/new.png)  
 - [2020-09-11-为什么不能使用-Application-Context-显示-Dialog？](https://toutiao.io/k/86vdw3o) ![](assets/new.png)  
+- [2020-09-11-如何实现一个优雅的-Python-的-Json-序列化库](https://toutiao.io/k/6blou0m) ![](assets/new.png)  
 - [2020-09-11-译-容器编排的优势与特点](https://toutiao.io/k/e0jr37e) ![](assets/new.png)  
-- [2020-09-11-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-11-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-11-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-11-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-11-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-11-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-11-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-11-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-11-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-11-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

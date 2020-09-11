@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-11 16:03:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 16:12:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -147,6 +147,9 @@
 - [【前端迷】面试官:请手写一个简易的Webpack](https://www.ershicimi.com/p/b99c6ee7c391d8edf34b867fb1e02fb3)
 - [【全栈前端精选】13-个-你不得不知道的-npm-快速开发技巧](https://www.ershicimi.com/p/aeb1125cea08e55df813496be609fd0f)
 - [【全栈前端精选】Babel是如何读懂JS代码的](https://www.ershicimi.com/p/faad2dc6631b33a4e757150901996f4b)
+- [【政采云前端团队】npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2)
+- [【政采云前端团队】自定义-ESLint-规则，让代码持续美丽](https://www.ershicimi.com/p/78a02d35ff153be695c61fdaa2e891a2)
+- [【政采云前端团队】分分钟教会你搭建企业级的-npm-私有仓库](https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1)
 - [【前端宇宙】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/dd519ff53605dc6a78a5bad2fde1c8fd)
 - [【前端瓶子君】Babel是如何读懂JS代码的](https://www.ershicimi.com/p/24a26a39eb2b1bc8e4d20dde4f6449d6)
 - [【Nodejs技术栈】一篇文章构建你的-Node.js-知识体系](https://www.ershicimi.com/p/f1fb1a33a8919fc776903a2c25cf09d2)
@@ -175,6 +178,7 @@
 - [【前端之巅】五分钟了解-Node.js-Shebang](https://www.ershicimi.com/p/55ff6d0a01c1f059f114915151b165ce)
 - [【前端之巅】Electron-10正式发布：终止对-7.xy-的支持](https://www.ershicimi.com/p/8c95a1f84c833e102f8c423d2b6fdae5)
 - [【全栈前端精选】实战Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/135231f1360380a7aed3e813e8f18695)
+- [【政采云前端团队】如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082)
 - [【前端瓶子君】包邮免费送本啦（Node.js-初学者进）](https://www.ershicimi.com/p/c1b72640d1da178d7bddf666100818c5)
 - [【程序员成长指北】Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/b3cac8cd587b06157d6b9b1d146fea5a)
 - [【程序员成长指北】Node.js-环境性能监控探究](https://www.ershicimi.com/p/c175dbfa89ac26c866deab6f6850d264)
@@ -396,6 +400,8 @@
 - [【前端之巅】前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome-85发布，提高页面加载速度；iPhon](https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb)
 - [【前端迷】腾讯音乐移动端页面通用性能优化实践](https://www.ershicimi.com/p/951c47621be39d733c40f8453c62418b)
 - [【前端迷】老生常谈的性能优化再来讲一遍给大家](https://www.ershicimi.com/p/61efe0503f15be9bf6c891fdd624c07e)
+- [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
+- [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
 - [【前端宇宙】从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/40104f0698599d721f2fd833ca8a0558)
 - [【前端宇宙】聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/eaff4a9acf7a4e7e9c8f6e833b7c7ea1)
 - [【前端瓶子君】从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/3b2320a714b0da3f00d2ef5987edc815)
@@ -406,8 +412,6 @@
 - [【程序员成长指北】谷歌发布-Chrome-85-稳定版，引入-PGO，页面加载速度提升-10%](https://www.ershicimi.com/p/22e4522290e35e07728382add97acd64)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
-- [【互联网架构师】点赞模块设计：Redis缓存-+-定时写入数据库实现高性能点赞功能](https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c)
-- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -506,6 +510,7 @@
 - [【前端早读课】【第2051期】这才是真正的-Git——分支合并](https://www.ershicimi.com/p/fc9c755034b9025beeb6b565199936fa)
 - [【前端早读课】【第2050期】这才是真正的Git——Git内部原理揭秘！](https://www.ershicimi.com/p/a02843f139248ff6303e3ca85c366ae6)
 - [【全栈前端精选】Gitlab-ci:从零开始的前端自动化部署](https://www.ershicimi.com/p/934717cb9aa4c27d76f4942db0d4410f)
+- [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
 - [【前端瓶子君】Gitlab-ci:-从零开始的前端自动化部署](https://www.ershicimi.com/p/05ba755e5bac48080c5e505679b60857)
 - [【Nodejs技术栈】推荐一位-Github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/ed297c30ed030e57e29c4b4dfdfec211)
 - [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)
@@ -514,7 +519,7 @@
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】在-GitHub-上发现了个宝藏项目，超牛的爬虫工具箱](https://www.v2ex.com/t/706291)
 - [【V2EX】羊毛褥起来：-Free-access-to-200+-digital-versions-of-Oxford-Student-Books](https://www.v2ex.com/t/706290)
-- [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
+- [【开发者头条】推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

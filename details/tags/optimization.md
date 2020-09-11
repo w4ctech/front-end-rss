@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 16:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 16:12:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -15,6 +15,8 @@
 - [2020-08-30-前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome-85发布，提高页面加载速度；iPhon](https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb) 
 - [2020-09-09-腾讯音乐移动端页面通用性能优化实践](https://www.ershicimi.com/p/951c47621be39d733c40f8453c62418b) 
 - [2020-08-31-老生常谈的性能优化再来讲一遍给大家](https://www.ershicimi.com/p/61efe0503f15be9bf6c891fdd624c07e) 
+- [2020-08-09-编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab) 
+- [2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb) 
 - [2020-08-28-从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/40104f0698599d721f2fd833ca8a0558) 
 - [2020-08-23-聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/eaff4a9acf7a4e7e9c8f6e833b7c7ea1) 
 - [2020-08-30-从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/3b2320a714b0da3f00d2ef5987edc815) 
@@ -29,3 +31,4 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-09-11-这电池优化隐藏的很深啊，开启后微信自然就走-FCM，消息都即使，早上起来只占-7M](https://www.v2ex.com/t/706281) 
 - [2020-09-11-如何在前端客户多次点击不同的内容时，只加载最后一次点击的请求？](https://www.v2ex.com/t/706278) 
+- [2020-09-11-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) 

@@ -14572,10 +14572,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10195",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10195",
     "title": "政采云前端团队",
     "link": "https://www.ershicimi.com/a/10195",
-    "items": []
+    "items": [
+      {
+        "title": "npm 依赖管理中被忽略的那些细节",
+        "link": "https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2",
+        "date": "2020-08-23"
+      },
+      {
+        "title": "政采云前端团队 2021 届校园招聘正式启动！",
+        "link": "https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "深色模式适配指南",
+        "link": "https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd",
+        "date": "2020-08-16"
+      },
+      {
+        "title": "政采云前端团队喊你来闯关了！",
+        "link": "https://www.ershicimi.com/p/7cd1a9757ea3f0baf544e1ad26067461",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "编写高质量可维护的代码之优化逻辑判断",
+        "link": "https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "如何基于 Electron 开发跨终端的应用",
+        "link": "https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "手把手教你打造属于自己团队的前端小报系统",
+        "link": "https://www.ershicimi.com/p/82ccf4538e1dcdee08ab9c11d9f143c4",
+        "date": "2020-07-26"
+      },
+      {
+        "title": "如何开发跨框架的组件",
+        "link": "https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd",
+        "date": "2020-07-19"
+      },
+      {
+        "title": "自定义 ESLint 规则，让代码持续美丽",
+        "link": "https://www.ershicimi.com/p/78a02d35ff153be695c61fdaa2e891a2",
+        "date": "2020-07-12"
+      },
+      {
+        "title": "拥抱 Vue 3 系列之 JSX 语法",
+        "link": "https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb",
+        "date": "2020-07-05"
+      },
+      {
+        "title": "ZooTeam 拍了拍你，来看看如何设计动态化表单",
+        "link": "https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314",
+        "date": "2020-06-28"
+      },
+      {
+        "title": "如何拿到政采云 P6 Offer",
+        "link": "https://www.ershicimi.com/p/8cb0205aac2e45d5affe79465d843946",
+        "date": "2020-06-27"
+      },
+      {
+        "title": "分分钟教会你搭建企业级的 npm 私有仓库",
+        "link": "https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1",
+        "date": "2020-06-21"
+      },
+      {
+        "title": "政采云前端团队 2021 暑期实习招聘",
+        "link": "https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "基于 Web 端的人脸识别身份验证",
+        "link": "https://www.ershicimi.com/p/00803c2cd426b82b7a2115014fb74c99",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "关于 - 政采云前端团队",
+        "link": "https://www.ershicimi.com/p/1263b3b7f0ca45da27c3f06a22eeb949",
+        "date": "2020-06-10"
+      },
+      {
+        "title": "一份值得收藏的 Git 异常处理清单",
+        "link": "https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "万字长文干货，面试官角度看招聘",
+        "link": "https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "如何实现高性能的在线 PDF 预览",
+        "link": "https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "那些一票难求的高质量前端公众号",
+        "link": "https://www.ershicimi.com/p/a608db79fe2d76e19451625e9c00c238",
+        "date": "2020-05-27"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/8801",
@@ -16154,6 +16255,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "怎么在投影仪上流畅播放 NAS 上的视频",
+        "link": "https://www.v2ex.com/t/706302",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "edge 账号密码修改后登不上去了你们有这问题吗",
+        "link": "https://www.v2ex.com/t/706301",
+        "date": "2020-09-11"
+      },
+      {
         "title": "接到个电话要我下周去试岗 1 周，太过于突然有些不知所措",
         "link": "https://www.v2ex.com/t/706300",
         "date": "2020-09-11"
@@ -16306,16 +16417,6 @@
       {
         "title": "Java 初级后端岗位竞争太激烈了吧",
         "link": "https://www.v2ex.com/t/706253",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[招聘] 特赞上海招聘资深前端工程师",
-        "link": "https://www.v2ex.com/t/706252",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "CentOS 7.7 系统，数据库放数据盘有什么危害？数据库比较大，现在数据盘还剩 6G，更换麻烦",
-        "link": "https://www.v2ex.com/t/706251",
         "date": "2020-09-11"
       }
     ]
@@ -16538,8 +16639,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-11"
       },
       {
@@ -16548,33 +16654,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
         "date": "2020-09-11"
       },
       {
@@ -16588,16 +16674,6 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
-        "date": "2020-09-11"
-      },
-      {
         "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
         "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-11"
@@ -16608,8 +16684,33 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
         "date": "2020-09-11"
       }
     ]

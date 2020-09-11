@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-11 13:21:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 13:32:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -193,7 +193,6 @@
 - [【Nodejs技术栈】CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b)
 - [【前端日刊】node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2)
 - [【掘金前端】使用node转发请求](https://juejin.im/post/6871053664610418695)
-- [【V2EX】安卓无障碍自动工具,-j2v8-引擎,-类-autojs](https://www.v2ex.com/t/706230)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -475,7 +474,6 @@
 - [【互联网架构师】卧槽！火爆GitHub的算法电子书开放下载了！](https://www.ershicimi.com/p/d864b5a3e2141990d3a4ae5454338734)
 - [【InfoQ】算法学不会？可能你该补补数学了丨极客时间](https://www.ershicimi.com/p/aa6dd30e2050ab90d15fd90aba0e0998)
 - [【V2EX】算法刷题千道，面试就忘怎么办？](https://www.v2ex.com/t/706248)
-- [【V2EX】猎头寻访-北京汉迪移动-地点：北京五道口，高级大数据开发工程师（带团队），推荐算法工程师。](https://www.v2ex.com/t/706229)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

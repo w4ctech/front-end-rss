@@ -13077,6 +13077,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "希腊新增287例新冠肺炎确诊病例 累计12734例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBSDIjBEEamZGuZYa7a9F200911&isfromapp=1",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "瑞士将9个法国本土大区列入高风险地区名单 边境地区人员进入瑞士暂不需隔离",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGM05G9VQaXgEn9rXopnl200911&isfromapp=1",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "日本新增新冠肺炎确诊病例645人 累计74686人",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCfo7h3GvRzGyLtNtB5Wp200911&isfromapp=1",
+        "date": "2020-09-11"
+      },
+      {
         "title": "外交部：中国向加勒比国家援助物资全部顺利移交",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwkJGbqx9f6zaD3ogHvgH200911&isfromapp=1",
         "date": "2020-09-11"
@@ -13084,21 +13099,6 @@
       {
         "title": "新冠病毒传染率已突破“1” 英国疫情重新进入紧急状态",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipbx5pNzgstPIFWQOj1K5200911&isfromapp=1",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "受疫情影响 意大利今年第二季度就业人数同比减少84.1万人",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKLPDVP6t5CtjsF7zNwAf200911&isfromapp=1",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "捷克新增1382例新冠肺炎确诊病例 连续三天新增过千例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizWSHpECz2aMbaozqwM0A200911&isfromapp=1",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "印度新增96551例新冠肺炎确诊病例 累计超456万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQq9lL6F6tavckMFqAxOc200911&isfromapp=1",
         "date": "2020-09-11"
       }
     ]
@@ -16639,53 +16639,8 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-11"
-      },
-      {
         "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
         "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
         "date": "2020-09-11"
       },
       {
@@ -16694,8 +16649,53 @@
         "date": "2020-09-11"
       },
       {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
+        "date": "2020-09-11"
+      },
+      {
         "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
         "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-11"
       },
       {
@@ -16704,13 +16704,13 @@
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-11"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-11"
       }
     ]

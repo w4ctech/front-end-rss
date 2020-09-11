@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 12:05:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 12:23:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -42,6 +42,9 @@
 - [2020-09-09-我在近期求职中遇到的前端面试问题及其解法](https://www.ershicimi.com/p/e3e6661d7978bbd903b8cf73d5773d0e) 
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
+- [2020-09-11-招聘-特赞上海招聘资深前端工程师](https://www.v2ex.com/t/706252) 
+- [2020-09-11-大雁资产-招聘：股票量化研究-上海-推荐奖-1W](https://www.v2ex.com/t/706249) 
+- [2020-09-11-9-月北京招聘：-C++/-Python-/FPGA/量化交易系统开发工程师](https://www.v2ex.com/t/706246) 
+- [2020-09-11-美团招聘-WMPS-外卖广告后台开发工程师](https://www.v2ex.com/t/706219) 
 - [2020-09-11-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
-- [2020-09-11-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
 - [2020-09-09-如何迈过人生求职这道坎,翻越面试那块砖,答案就在这里](https://sec.thief.one/article_content?a_id=99fba8ba0539e6b8b7c0149debfeeb50) 

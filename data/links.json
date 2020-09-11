@@ -13070,33 +13070,7 @@
     "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "印度新增96551例新冠肺炎确诊病例 累计超456万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQq9lL6F6tavckMFqAxOc200911&isfromapp=1",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "谭德塞：目前最令人担心的是缺乏团结",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwf34NU7VAEJxFUf83ndr200911&isfromapp=1",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "秘鲁新增新冠肺炎确诊病例逾71万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIZRx2Rwh44cSqToZdIw3200911&isfromapp=1",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "世卫组织：年底前可能有新冠疫苗结果出炉",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQnk5dXG2JE2F8d0kj7E200911&isfromapp=1",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "哥伦比亚新冠肺炎确诊病例近70万 但多地仍在举行大规模游行",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGldyuHAt5HzhCFDTNj0G200911&isfromapp=1",
-        "date": "2020-09-10"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",

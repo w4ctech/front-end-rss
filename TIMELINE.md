@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 06:32:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-11 06:36:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -99,11 +99,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-09-01-【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-09-01-大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-09-01-新疆所有户外景区今起恢复开放-跨省游亦重启](http://m.companies.caixin.com/m/2020-09-02/101600371.html) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-11-印度新增96551例新冠肺炎确诊病例-累计超456万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQq9lL6F6tavckMFqAxOc200911&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-11-谭德塞：目前最令人担心的是缺乏团结](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwf34NU7VAEJxFUf83ndr200911&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-11-秘鲁新增新冠肺炎确诊病例逾71万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIZRx2Rwh44cSqToZdIw3200911&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-10-世卫组织：年底前可能有新冠疫苗结果出炉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQnk5dXG2JE2F8d0kj7E200911&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-10-哥伦比亚新冠肺炎确诊病例近70万-但多地仍在举行大规模游行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGldyuHAt5HzhCFDTNj0G200911&isfromapp=1) 
 - [【Vue中文社区】2020-09-11-前端现状：80%-的人陷入这个误区一直出不来！](https://www.ershicimi.com/p/a18626fdce7983c1651a0d15e4d92279) 
 - [【Vue中文社区】2020-09-11-npm-install-执行后的“秘密”](https://www.ershicimi.com/p/d42f1bc6464039961f01731afa743882) 
 - [【Vue中文社区】2020-09-10-Vue-数据更新但页面没有更新的-7-种情况，你遇到过几种](https://www.ershicimi.com/p/6b1b9c2b05ec3dbc675946f6a996be5a) 

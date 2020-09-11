@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-11 06:32:30，:rocket: 更新条数: +3391， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-11 06:36:15，:rocket: 更新条数: +3386， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -95,11 +95,6 @@
 </summary>
 
 
-- [2020-09-11-印度新增96551例新冠肺炎确诊病例-累计超456万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQq9lL6F6tavckMFqAxOc200911&isfromapp=1) ![](assets/new.png)  
-- [2020-09-11-谭德塞：目前最令人担心的是缺乏团结](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwf34NU7VAEJxFUf83ndr200911&isfromapp=1) ![](assets/new.png)  
-- [2020-09-11-秘鲁新增新冠肺炎确诊病例逾71万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIZRx2Rwh44cSqToZdIw3200911&isfromapp=1) ![](assets/new.png)  
-- [2020-09-10-世卫组织：年底前可能有新冠疫苗结果出炉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQnk5dXG2JE2F8d0kj7E200911&isfromapp=1) ![](assets/new.png)  
-- [2020-09-10-哥伦比亚新冠肺炎确诊病例近70万-但多地仍在举行大规模游行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGldyuHAt5HzhCFDTNj0G200911&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-11 00:31:45，:rocket: 更新条数: +3596， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-11 00:56:49，:rocket: 更新条数: +3375， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-09-09-最新疫情：全国新冠累计确诊85153例-新增境外输入7例](http://m.china.caixin.com/m/2020-09-10/101603521.html) ![](assets/new.png)  
+- [2020-09-10-大流行手记|9月10日：阿斯利康称疫苗仍有望年底面市-美国料难大选前接种](https://m.caixin.com/m/2020-09-11/101603864.html) ![](assets/new.png)  
 - [2020-09-09-南京新增无症状感染者为解除隔离后确诊-相关社群排查核酸](http://m.china.caixin.com/m/2020-09-10/101603551.html) ![](assets/new.png)  
 - [2020-09-09-数字说|新冠疫苗研发提速-公众愿意接种吗？](http://m.datanews.caixin.com/m/2020-09-10/101603514.html) ![](assets/new.png)  
 - [2020-09-09-【境内疫情观察】上海新增6例境外输入病例（9月9日）](http://m.database.caixin.com/m/2020-09-10/101603573.html) ![](assets/new.png)  
@@ -715,9 +715,9 @@
 </summary>
 
 
+- [2020-09-11-科技爱好者周刊（第-124-期）：华为如何考核员工](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html) ![](assets/new.png)  
 - [2020-09-04-科技爱好者周刊（第-123-期）：互联网公司与湘军的军制](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html) ![](assets/new.png)  
 - [2020-08-28-科技爱好者周刊（第-122-期）：谈谈互联网公司的高估值](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html) ![](assets/new.png)  
-- [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,7 +947,7 @@
 </summary>
 
 
-- [2020-09-10-「原题-+-精讲-」7.8-月份新出炉面试题含大厂100道1.2万字整理一](https://juejin.im/post/6870861976336236552) ![](assets/new.png)  
+- [2020-09-10-多种方式实现自定义-React-路由拦截弹窗](https://juejin.im/post/6871018004289683463) ![](assets/new.png)  
 - [2020-09-10-Jest+Enzyme测试React组件（编码规范-->测试实例）（二）](https://juejin.im/post/6870832841031483399) ![](assets/new.png)  
 - [2020-09-10-摘录总结JS砖瓦篇](https://juejin.im/post/6870832609232977927) ![](assets/new.png)  
 - [2020-09-10-通俗易懂的了解观察者模式/发布订阅模式](https://juejin.im/post/6870830840977293326) ![](assets/new.png)  
@@ -1077,6 +1057,11 @@
 </summary>
 
 
+- [2020-09-11-淘宝-bug，链接随机跳转问题](https://www.v2ex.com/t/705998) ![](assets/new.png)  
+- [2020-09-11-Evernote-国际版罗马尼亚币只需要-8-块钱一个月](https://www.v2ex.com/t/705997) ![](assets/new.png)  
+- [2020-09-11-有知乎的大佬吗，请问你们禁言算法怎么做的，怎么禁言如此频繁，隔一天禁言我一次](https://www.v2ex.com/t/705996) ![](assets/new.png)  
+- [2020-09-11-三亚免税店便宜是因为打折优惠还是无税？](https://www.v2ex.com/t/705995) ![](assets/new.png)  
+- [2020-09-11-菜鸟的吃相越来越显得是没教养](https://www.v2ex.com/t/705994) ![](assets/new.png)  
 - [2020-09-11-微信能不能不要老是打断现有音乐播放？](https://www.v2ex.com/t/705992) ![](assets/new.png)  
 - [2020-09-11-讨论:继乌云网WooYun，漏洞盒子等平台关停之后，现在的信息安全行业是什么情况？](https://www.v2ex.com/t/705990) ![](assets/new.png)  
 - [2020-09-11-昨天是发工资的日子，但上家公司新浪时金的-HR-跑来跟我说，我请年假超额，把我八月份两天的工资都扣了。思来想去我觉得我一定要发出来，望大家提高警惕，勿入深...](https://www.v2ex.com/t/705989) ![](assets/new.png)  
@@ -1092,11 +1077,6 @@
 - [2020-09-10-请教大家图像处理的加速，显卡选-RTX30-系还是专业卡？顺便求合适的台式机推荐。](https://www.v2ex.com/t/705970) ![](assets/new.png)  
 - [2020-09-10-工作两年，从开发转测试，越走越迷茫](https://www.v2ex.com/t/705969) ![](assets/new.png)  
 - [2020-09-10-新版的-PHP-里-phpinfo-不输出-configure-command-了？](https://www.v2ex.com/t/705968) ![](assets/new.png)  
-- [2020-09-10-Jump-Desktop-通过-DRP-连接-windows10，只要没操作，马上就断开连接，怎么破](https://www.v2ex.com/t/705966) ![](assets/new.png)  
-- [2020-09-10-我终于发现-V2EX-“via-平台”-的秘密](https://www.v2ex.com/t/705963) ![](assets/new.png)  
-- [2020-09-10-QQ-被盗用来发了垃圾信息和-QQ-空间发布了垃圾信息可能是什么原因？](https://www.v2ex.com/t/705961) ![](assets/new.png)  
-- [2020-09-10-有参加-2020-年计算机技术与软件专业技术资格（水平）考试的同学吗。](https://www.v2ex.com/t/705960) ![](assets/new.png)  
-- [2020-09-10-寻安卓兼职,-最好在上海本地](https://www.v2ex.com/t/705959) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,25 +1120,25 @@
 
 
 - [2020-09-11-任正非：若果有人拧熄了灯塔，我们怎么航行？|-码农周刊第-317-期](https://toutiao.io/k/ixcjpqn) ![](assets/new.png)  
-- [2020-09-11-工具-|-企鹅电竞开发的，用于播放特效动画的实现方案](https://toutiao.io/k/7sew4zn) ![](assets/new.png)  
 - [2020-09-11-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
-- [2020-09-11-Facebook-开源-Go-ORM-项目-Ent-代码生成使用篇](https://toutiao.io/k/h46oc2w) ![](assets/new.png)  
+- [2020-09-11-工具-|-企鹅电竞开发的，用于播放特效动画的实现方案](https://toutiao.io/k/7sew4zn) ![](assets/new.png)  
 - [2020-09-11-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
-- [2020-09-11-Spring-Boot-开发微信公众号](https://toutiao.io/k/qfdifot) ![](assets/new.png)  
+- [2020-09-11-Facebook-开源-Go-ORM-项目-Ent-代码生成使用篇](https://toutiao.io/k/h46oc2w) ![](assets/new.png)  
 - [2020-09-11-从偷手机，到窃取个人信息实现多平台盗刷的黑色产业链](https://toutiao.io/k/mqckask) ![](assets/new.png)  
-- [2020-09-11-译-详解-Python-的二元算术运算，为什么说减法只是语法糖？](https://toutiao.io/k/70cbu8s) ![](assets/new.png)  
+- [2020-09-11-Spring-Boot-开发微信公众号](https://toutiao.io/k/qfdifot) ![](assets/new.png)  
 - [2020-09-11-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-11-译-详解-Python-的二元算术运算，为什么说减法只是语法糖？](https://toutiao.io/k/70cbu8s) ![](assets/new.png)  
 - [2020-09-11-如何基于-Flink-生成在线机器学习的样本？](https://toutiao.io/k/zu6s46v) ![](assets/new.png)  
+- [2020-09-11-Prometheus-监控神器：Kubernetes-篇（一）](https://toutiao.io/k/h1yl3x7) ![](assets/new.png)  
+- [2020-09-11-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-11-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-11-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-11-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [2020-09-11-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-09-11-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-11-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-11-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
-- [2020-09-11-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-11-推荐-订单中心，1-亿数据架构，这次服了](https://toutiao.io/k/8r5oqql) ![](assets/new.png)  
-- [2020-09-11-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
 - [2020-09-11-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-11-推荐-缓存与数据库双写一致这个-“老大难”，该怎么治](https://toutiao.io/k/cgycnq9) ![](assets/new.png)  
-- [2020-09-11-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-11-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
+- [2020-09-11-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-11-推荐-DBA-的福音，SQL-审核利器：goinception](https://toutiao.io/k/gatrxff) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

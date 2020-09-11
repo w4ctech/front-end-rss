@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-11 21:34:38，:rocket: 更新条数: +3612， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-11 21:47:05，:rocket: 更新条数: +3613， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-11-云游戏苹果也要抽成-30%，笑死我了](https://www.v2ex.com/t/706306) ![](assets/new.png)  
 - [2020-09-11-本来下班打算玩一会儿文明-6](https://www.v2ex.com/t/706305) ![](assets/new.png)  
 - [2020-09-11-现在自动驾驶已经可以在中国复杂路况下实现良好的，可预判的行为了。未来已来](https://www.v2ex.com/t/706304) ![](assets/new.png)  
 - [2020-09-11-Telegram-电报-怎么搜索自己的发言？](https://www.v2ex.com/t/706303) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-11-请问这是我的路由器坏了吗？](https://www.v2ex.com/t/706282) ![](assets/new.png)  
 - [2020-09-11-这电池优化隐藏的很深啊，开启后微信自然就走-FCM，消息都即使，早上起来只占-7M](https://www.v2ex.com/t/706281) ![](assets/new.png)  
 - [2020-09-11-如何在前端客户多次点击不同的内容时，只加载最后一次点击的请求？](https://www.v2ex.com/t/706278) ![](assets/new.png)  
-- [2020-09-11-有没有能同时管理多个网盘账号里的文件的客户端？](https://www.v2ex.com/t/706277) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

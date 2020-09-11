@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 03:34:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 03:47:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -43,8 +43,8 @@
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
 - [2020-09-10-「原题-+-精讲-」7.8-月份新出炉面试题含大厂100道1.2万字整理一](https://juejin.im/post/6871024909674364942) 
+- [2020-09-11-招聘-深圳-Using.AI-2020-年秋招](https://www.v2ex.com/t/706091) 
 - [2020-09-11-请教下大家,-做一个公司内部的招聘站,-后端需要排期多久合适呢?](https://www.v2ex.com/t/706079) 
 - [2020-09-11-面试中发现很多学信网查不到的统招本科，这正常么？](https://www.v2ex.com/t/706073) 
 - [2020-09-11-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
-- [2020-09-11-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
 - [2020-09-09-如何迈过人生求职这道坎,翻越面试那块砖,答案就在这里](https://sec.thief.one/article_content?a_id=99fba8ba0539e6b8b7c0149debfeeb50) 

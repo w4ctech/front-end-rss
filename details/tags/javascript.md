@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 03:34:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 03:47:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -118,6 +118,8 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-09-11-@Schedule、@Async-有关问题请教各为大佬](https://www.v2ex.com/t/706090) 
+- [2020-09-11-有没有谁用过-PDF-文件以翻书的形式打开的-js-插件](https://www.v2ex.com/t/706088) 
 - [2020-09-11-Python-遍历数组对象怎么取序号?](https://www.v2ex.com/t/706069) 
 - [2020-09-11-求助大神，有没有谁用过-PDF-文件以翻书的形式打开的-js-插件](https://www.v2ex.com/t/706067) 
 - [2020-09-11-gorm-如何存数组](https://www.v2ex.com/t/706059) 

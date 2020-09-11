@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 06:13:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 06:26:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -32,4 +32,4 @@
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-09-08-6个常用的React组件库](https://www.ershicimi.com/p/b29088ee78904693d4cfb04c6c3fe15a) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 
-- [2020-09-10-多种方式实现自定义-React-路由拦截弹窗](https://juejin.im/post/6871018004289683463) 
+- [2020-09-10-Jest+Enzyme测试React组件（编码规范=>测试实例）](https://juejin.im/post/6871046025625206798) 

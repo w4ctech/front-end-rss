@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 14:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 15:03:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -22,4 +22,5 @@
 - [2020-08-14-13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0) 
 - [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
+- [2020-09-11-团队在高速扩张中的能力构建与质量保证-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13754&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcapacity-building-and-quality-assurance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-08-一张图告诉你,如何构建内网隐蔽通道](https://sec.thief.one/article_content?a_id=b4a1a12b062ed61ab0f547fb76749d98) 

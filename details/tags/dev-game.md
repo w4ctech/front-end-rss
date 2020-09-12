@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 01:28:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 01:32:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -8,6 +8,26 @@
 
 
 - [2020-09-03-【招聘】字节跳动杭州游戏平台招前端开发实习+社招](https://www.ershicimi.com/p/08b5c48d6117cf5fd86562c555815603) 
+- [2018-12-23-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
+- [2018-01-28-H5游戏开发：FC小蜜蜂](https://aotu.io/notes/2018/01/28/galaxian/) 
+- [2018-01-17-H5游戏开发：消灭星星](https://aotu.io/notes/2018/01/17/popstar/) 
+- [2018-01-04-H5游戏开发：套圈圈](https://aotu.io/notes/2018/01/04/waterful/) 
+- [2017-12-27-H5游戏开发：游戏引擎入门推荐](https://aotu.io/notes/2017/12/27/h5-game-engine-recommend/) 
+- [2017-11-28-H5游戏开发：指尖大冒险](https://aotu.io/notes/2017/11/28/h5_game_jumping/) 
+- [2017-11-16-H5游戏开发：决胜三分球](https://aotu.io/notes/2017/11/16/basketball/) 
+- [2017-11-06-H5游戏开发：推金币](https://aotu.io/notes/2017/11/06/coindozer/) 
+- [2017-11-02-H5游戏开发：一笔画](https://aotu.io/notes/2017/11/02/onestroke/) 
+- [2017-10-18-H5游戏开发：横屏适配](https://aotu.io/notes/2017/10/18/landscape_mode_in_html5_game/) 
+- [2017-09-25-H5游戏开发：贪吃蛇](https://aotu.io/notes/2017/09/25/h5game-snake/) 
+- [2017-08-28-Three.js-现学现卖](https://aotu.io/notes/2017/08/28/getting-started-with-threejs/) 
+- [2017-07-23-这里有你对-Web-游戏的疑问吗？](https://aotu.io/notes/2017/07/23/some-doubts-about-web-games/) 
+- [2017-07-19-一篇文章带你快速入门-CreateJS](https://aotu.io/notes/2017/07/19/createjs/) 
+- [2017-04-17-Matter.js-2D-物理引擎试玩报告](https://aotu.io/notes/2017/04/17/Matter-js/) 
+- [2016-12-04-源码赏析---1K的Firewatch游戏](https://aotu.io/notes/2016/12/04/firewatcher-appreciation/) 
+- [2016-03-01-createjs开发入门](https://aotu.io/notes/2016/03/01/createjs-get-started/) 
+- [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
+- [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
+- [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-08-20-「致知计划动漫游戏季」2-亿流量-30-万现金大奖等你拿](https://www.ershicimi.com/p/e94fbdf2ad8480940d8a7a5d6b48fe61) 
 - [2020-09-11-云游戏苹果也要抽成-30%，笑死我了](https://www.v2ex.com/t/706306) 
 - [2020-09-08-为玩游戏找“黑客”破解防沉迷?14岁熊孩子被骗5万元](https://sec.thief.one/article_content?a_id=64b74353acc9d6adca2d578223d393c6) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-12 06:13:32，:rocket: 更新条数: +3608， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-12 06:26:39，:rocket: 更新条数: +3609， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-12-印度新增97570例新冠肺炎确诊病例-累计超465万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPdCbCzK1xGmLeYHrxnkR200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-12-印度医学研究理事会：5月新冠肺炎感染人数可能超640万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAkqZaKBxRiTp8dK8SC3Y200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-12-美食品和药物管理局前局长：政府有意淡化疫情威胁致民众不愿戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2TkfyyTy5FHkzJrd0e9l200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-12-疫情之下中泰贸易逆势增长-今年前7个月涨幅达6.5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4SnWwl1Ep9HaZMSOv1Jx200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-12-疫中看巴西丨疫情冲击小微企业-政府扶持民众创业图自救](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYlEEBzdp2gi2CAO4R5J4200912&isfromapp=1) ![](assets/new.png)  
-- [2020-09-12-中国驻埃及使馆更新指定新冠病毒检测机构信息](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEoNFyVNaquhIyjE7UqM200912&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-12-服务器的-4-个-USB3.0-口全部失灵，向各位老师请教原因。](https://www.v2ex.com/t/706377) ![](assets/new.png)  
+- [2020-09-12-准备研究一下，一些古老年代网游的单机版本了](https://www.v2ex.com/t/706376) ![](assets/new.png)  
+- [2020-09-12-转租-距离地铁六号线元芬站A-口654-米-,-单间](https://www.v2ex.com/t/706375) ![](assets/new.png)  
 - [2020-09-12-关于-iap，我想替苹果说句话](https://www.v2ex.com/t/706374) ![](assets/new.png)  
 - [2020-09-12-现在前端写代码，还有直接写原生的-HTML、CSS、JS-吗？前端框架辣么多，一堆编译、打包、部署工具，眼花缭乱，还有人直接写原生代码吗？](https://www.v2ex.com/t/706372) ![](assets/new.png)  
 - [2020-09-12-知乎-iOS-客户端不看崩溃统计的吗？](https://www.v2ex.com/t/706371) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-09-12-Protonmail-没有-PC-客户端，免费用户也不能-SMTP-和-POP3，有其他方法么？](https://www.v2ex.com/t/706351) ![](assets/new.png)  
 - [2020-09-12-如何判断两个函数/方法的-行为/意义-是否相同呢？](https://www.v2ex.com/t/706350) ![](assets/new.png)  
 - [2020-09-12-大神求助，黑苹果卡-exitbs-start-怎么办？](https://www.v2ex.com/t/706348) ![](assets/new.png)  
-- [2020-09-12-发一个自己做的证书过期告警工具](https://www.v2ex.com/t/706347) ![](assets/new.png)  
-- [2020-09-12-杭州/北京蚂蚁金服风险智能团队---Java-高级开发工程师/技术专家-没有-996，周三周五不加班！](https://www.v2ex.com/t/706346) ![](assets/new.png)  
-- [2020-09-12-广州收山地车](https://www.v2ex.com/t/706345) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,20 +1145,20 @@
 - [2020-09-12-WalletConnect-非权威开发指南](https://toutiao.io/k/gfncgc6) ![](assets/new.png)  
 - [2020-09-12-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
 - [2020-09-12-无尽学习者修炼指南-v3.0](https://toutiao.io/k/ghay540) ![](assets/new.png)  
-- [2020-09-12-数据一致性校验及数据同步，运维必看](https://toutiao.io/k/n54xlt6) ![](assets/new.png)  
 - [2020-09-12-1:1-还原，自制树莓派复古街机：教程已开源](https://toutiao.io/k/98xu6eu) ![](assets/new.png)  
+- [2020-09-12-数据一致性校验及数据同步，运维必看](https://toutiao.io/k/n54xlt6) ![](assets/new.png)  
 - [2020-09-12-浅析-Flutter-渲染原理](https://toutiao.io/k/xougc1l) ![](assets/new.png)  
-- [2020-09-12-模型性能杀器解读：如果项目的模型遇到瓶颈，用这些-Tricks-就对了](https://toutiao.io/k/i3mgewz) ![](assets/new.png)  
 - [2020-09-12-elecV2P：一款不止于-MITM-的网络工具](https://toutiao.io/k/3dcr8pg) ![](assets/new.png)  
+- [2020-09-12-模型性能杀器解读：如果项目的模型遇到瓶颈，用这些-Tricks-就对了](https://toutiao.io/k/i3mgewz) ![](assets/new.png)  
 - [2020-09-12-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-12-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
-- [2020-09-12-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-12-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-12-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
+- [2020-09-12-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-12-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
 - [2020-09-12-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
-- [2020-09-12-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-12-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-12-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-12-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
 - [2020-09-12-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-12-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
-- [2020-09-12-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

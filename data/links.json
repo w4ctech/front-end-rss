@@ -13082,6 +13082,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "印度新增97570例新冠肺炎确诊病例 累计超465万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPdCbCzK1xGmLeYHrxnkR200912&isfromapp=1",
+        "date": "2020-09-12"
+      },
+      {
         "title": "印度医学研究理事会：5月新冠肺炎感染人数可能超640万人",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAkqZaKBxRiTp8dK8SC3Y200912&isfromapp=1",
         "date": "2020-09-12"
@@ -13099,11 +13104,6 @@
       {
         "title": "疫中看巴西丨疫情冲击小微企业 政府扶持民众创业图自救",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYlEEBzdp2gi2CAO4R5J4200912&isfromapp=1",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "中国驻埃及使馆更新指定新冠病毒检测机构信息",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEoNFyVNaquhIyjE7UqM200912&isfromapp=1",
         "date": "2020-09-12"
       }
     ]
@@ -17376,6 +17376,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "服务器的 4 个 USB3.0 口全部失灵，向各位老师请教原因。",
+        "link": "https://www.v2ex.com/t/706377",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "准备研究一下，一些古老年代网游的单机版本了",
+        "link": "https://www.v2ex.com/t/706376",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[转租] 距离地铁六号线元芬站(A 口)654 米 , 单间",
+        "link": "https://www.v2ex.com/t/706375",
+        "date": "2020-09-12"
+      },
+      {
         "title": "关于 iap，我想替苹果说句话",
         "link": "https://www.v2ex.com/t/706374",
         "date": "2020-09-12"
@@ -17554,16 +17569,6 @@
         "title": "你们收到过这个邮件没, 哈哈哈哈哈哈哈哈!",
         "link": "https://www.v2ex.com/t/706328",
         "date": "2020-09-12"
-      },
-      {
-        "title": "息知一个极简的微信消息通知接口",
-        "link": "https://www.v2ex.com/t/706327",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "jekyll 首页 truncate picture 问题",
-        "link": "https://www.v2ex.com/t/706326",
-        "date": "2020-09-12"
       }
     ]
   },
@@ -17710,13 +17715,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "数据一致性校验及数据同步，运维必看",
-        "link": "https://toutiao.io/k/n54xlt6",
+        "title": "1:1 还原，自制树莓派复古街机：教程已开源",
+        "link": "https://toutiao.io/k/98xu6eu",
         "date": "2020-09-12"
       },
       {
-        "title": "1:1 还原，自制树莓派复古街机：教程已开源",
-        "link": "https://toutiao.io/k/98xu6eu",
+        "title": "数据一致性校验及数据同步，运维必看",
+        "link": "https://toutiao.io/k/n54xlt6",
         "date": "2020-09-12"
       },
       {
@@ -17725,13 +17730,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "模型性能杀器解读：如果项目的模型遇到瓶颈，用这些 Tricks 就对了",
-        "link": "https://toutiao.io/k/i3mgewz",
+        "title": "elecV2P：一款不止于 MITM 的网络工具",
+        "link": "https://toutiao.io/k/3dcr8pg",
         "date": "2020-09-12"
       },
       {
-        "title": "elecV2P：一款不止于 MITM 的网络工具",
-        "link": "https://toutiao.io/k/3dcr8pg",
+        "title": "模型性能杀器解读：如果项目的模型遇到瓶颈，用这些 Tricks 就对了",
+        "link": "https://toutiao.io/k/i3mgewz",
         "date": "2020-09-12"
       },
       {
@@ -17740,18 +17745,18 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
         "date": "2020-09-12"
       },
       {
@@ -17760,23 +17765,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-12"
       },
       {
@@ -17785,28 +17780,38 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-12"
       }
     ]

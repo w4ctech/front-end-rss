@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 05:21:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 05:32:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2020-09-12-Aria2-or-Internet-Download-Manager-下载速度对比.](https://www.v2ex.com/t/706322) 
 - [2020-09-12-iOS-的搜索框用自带的英文输入法为什么没有输入预测？](https://www.v2ex.com/t/706321) 
 - [2020-09-12-微信为什么会开发拍一拍这么傻的功能](https://www.v2ex.com/t/706319) 
-- [2020-09-12-V2-的用户最近是流失了吗？](https://www.v2ex.com/t/706318) 

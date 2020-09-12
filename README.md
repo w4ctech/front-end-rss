@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-12 15:23:03，:rocket: 更新条数: +3386， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-12 15:32:31，:rocket: 更新条数: +3385， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-12-CZ800-掉速](https://www.v2ex.com/t/706491) ![](assets/new.png)  
+- [2020-09-12-一个神奇的现象，-Gank.io-v2-的-API-SSL-握手失败](https://www.v2ex.com/t/706490) ![](assets/new.png)  
+- [2020-09-12-请问，眼药水有推荐吗？](https://www.v2ex.com/t/706489) ![](assets/new.png)  
+- [2020-09-12-我的-HHKB-是不是挂了，换了新电池后开不了机，囧](https://www.v2ex.com/t/706488) ![](assets/new.png)  
 - [2020-09-12-有-Cloudflare-的人吗？你们的-Cloudflare-Peering-Portal-数据统计坏很久了](https://www.v2ex.com/t/706487) ![](assets/new.png)  
 - [2020-09-12-微软生财有道？｜-如何看待-Bing-搜索夹带-invite-code](https://www.v2ex.com/t/706484) ![](assets/new.png)  
 - [2020-09-12-有什么好用的批量下载油管视频合集的办法/工具吗](https://www.v2ex.com/t/706483) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-12-上海联通宽带桥接后-iptv-不能用](https://www.v2ex.com/t/706469) ![](assets/new.png)  
 - [2020-09-12-spyder-的代码编辑去和控制台有什么区别？](https://www.v2ex.com/t/706468) ![](assets/new.png)  
 - [2020-09-12-探讨-docker-容器里增加开机自启命令或者脚本的最佳方式](https://www.v2ex.com/t/706467) ![](assets/new.png)  
-- [2020-09-12-mac-下合并-pdf-的软件](https://www.v2ex.com/t/706466) ![](assets/new.png)  
-- [2020-09-12-程序员里面的优秀人才，出来回答个问题](https://www.v2ex.com/t/706465) ![](assets/new.png)  
-- [2020-09-12-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/706464) ![](assets/new.png)  
-- [2020-09-12-组建小团队卖主题怎么样？](https://www.v2ex.com/t/706463) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-09-12-浅析-Flutter-渲染原理](https://toutiao.io/k/xougc1l) ![](assets/new.png)  
 - [2020-09-12-elecV2P：一款不止于-MITM-的网络工具](https://toutiao.io/k/3dcr8pg) ![](assets/new.png)  
 - [2020-09-12-模型性能杀器解读：如果项目的模型遇到瓶颈，用这些-Tricks-就对了](https://toutiao.io/k/i3mgewz) ![](assets/new.png)  
-- [2020-09-12-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-12-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-09-12-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-12-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
-- [2020-09-12-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-12-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-12-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-12-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-12-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-12-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-12-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
 - [2020-09-12-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-12-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
+- [2020-09-12-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-12-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-12-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-12-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

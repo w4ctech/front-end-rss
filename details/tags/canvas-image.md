@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 16:34:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 16:47:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,4 +7,5 @@
 
 
 
+- [2020-09-10-easyCanvas实现思路解析](https://juejin.im/post/6871124987550531592) 
 - [2020-09-12-2720qm-显示器的-ypbpr-与-rgb-颜色，有什么区别?](https://www.v2ex.com/t/706502) 

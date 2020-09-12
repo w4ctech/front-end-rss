@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 16:34:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 16:47:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -60,6 +60,6 @@
 - [2020-09-05-TypeScript-4.1-新特性：字符串模板类型，Vuex-终于有救了？](https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80) 
 - [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) 
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f) 
-- [2020-09-10-Vuex-|-具体实现篇-|-基础实现](https://juejin.im/post/6871119934483611661) 
-- [2020-09-10-vue|源码篇|watch及computed的实现](https://juejin.im/post/6871119267316793358) 
+- [2020-09-11-Vue2.0-$set的正确使用详解](https://juejin.im/post/6871150667105959943) 
+- [2020-09-11-前端面试系列【013】---vue-中组件之间通信的方式有哪些？](https://juejin.im/post/6871146162070487053) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

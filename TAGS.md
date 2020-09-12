@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-12 07:32:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 07:34:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -153,6 +153,8 @@
 - [【政采云前端团队】分分钟教会你搭建企业级的-npm-私有仓库](https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1)
 - [【前端宇宙】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/dd519ff53605dc6a78a5bad2fde1c8fd)
 - [【前端瓶子君】Babel是如何读懂JS代码的](https://www.ershicimi.com/p/24a26a39eb2b1bc8e4d20dde4f6449d6)
+- [【Nodejs技术栈】一篇文章构建你的-Node.js-知识体系](https://www.ershicimi.com/p/f1fb1a33a8919fc776903a2c25cf09d2)
+- [【Nodejs技术栈】13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0)
 - [【JavaScript】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【V2EX】分享一段代码，可以不用-webpack-这样的工具方便地用-jsx、less-写点小-demo](https://www.v2ex.com/t/706370)
@@ -182,6 +184,15 @@
 - [【前端瓶子君】包邮免费送本啦（Node.js-初学者进）](https://www.ershicimi.com/p/c1b72640d1da178d7bddf666100818c5)
 - [【程序员成长指北】Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/b3cac8cd587b06157d6b9b1d146fea5a)
 - [【程序员成长指北】Node.js-环境性能监控探究](https://www.ershicimi.com/p/c175dbfa89ac26c866deab6f6850d264)
+- [【Nodejs技术栈】如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/f492d329ae09069db4024ed25a7531ee)
+- [【Nodejs技术栈】CNodejs每日新闻周刊｜第-3-期](https://www.ershicimi.com/p/aa8ce2fb495c2ce2e13fe5d917ab5741)
+- [【Nodejs技术栈】CNodejs每日新闻周刊｜第-2-期](https://www.ershicimi.com/p/b770e0e896eaae7a0368cd15b5b8a48a)
+- [【Nodejs技术栈】推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806)
+- [【Nodejs技术栈】一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/4fd54e82ba5cd37e48a5a8095178bbb9)
+- [【Nodejs技术栈】Node.js-异步延续模型](https://www.ershicimi.com/p/49850a57b1261230fb6486dece7bb273)
+- [【Nodejs技术栈】如何定制企业级-Node.js-代码检查规范](https://www.ershicimi.com/p/46117eecd705963a4217bd64bbc467df)
+- [【Nodejs技术栈】一杯茶的时间，上手-Koa2-+-MySQL-开发](https://www.ershicimi.com/p/c7db98ad78904e16b74e417ea79c2233)
+- [【Nodejs技术栈】CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b)
 - [【前端日刊】node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2)
 - [【掘金前端】Egg.js试水---文章增删改查【前后端分离】](https://juejin.im/post/6871478190037336078)
 - [......【查看更多】......](./details/tags/nodejs.md)
@@ -504,6 +515,7 @@
 - [【全栈前端精选】Gitlab-ci:从零开始的前端自动化部署](https://www.ershicimi.com/p/934717cb9aa4c27d76f4942db0d4410f)
 - [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
 - [【前端瓶子君】Gitlab-ci:-从零开始的前端自动化部署](https://www.ershicimi.com/p/05ba755e5bac48080c5e505679b60857)
+- [【Nodejs技术栈】推荐一位-Github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/ed297c30ed030e57e29c4b4dfdfec211)
 - [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)

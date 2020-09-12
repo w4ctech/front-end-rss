@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 21:49:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 22:03:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
@@ -46,5 +45,5 @@
 - [2020-09-12-深圳/北京腾讯招聘-AI-后台工程师/AI-后台高级工程师-组内直招-，团队氛围和谐，技术大佬云集，欢迎来撩！](https://www.v2ex.com/t/706508) 
 - [2020-09-12-请问各位大佬面试的时候怎么和面试官沟通确认这份工作是你想要的？](https://www.v2ex.com/t/706495) 
 - [2020-09-12-请教各位，站在面试官的角度看，招聘两年工作经验的后端是否会看重语言和技术栈的匹配度呢？](https://www.v2ex.com/t/706476) 
-- [2020-09-12-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
+- [2020-09-12-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
 - [2020-09-09-如何迈过人生求职这道坎,翻越面试那块砖,答案就在这里](https://sec.thief.one/article_content?a_id=99fba8ba0539e6b8b7c0149debfeeb50) 

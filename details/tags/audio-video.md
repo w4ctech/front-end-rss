@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 21:23:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 21:32:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -21,9 +21,6 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
-- [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) 
-- [2020-09-12-有什么好用的批量下载油管视频合集的办法/工具吗](https://www.v2ex.com/t/706483) 
 - [2020-09-11-95后大学生情侣拍不雅视频获利53万,或判十年以上有期徒刑](https://sec.thief.one/article_content?a_id=f3f1843310bcddf1ddb7d7a0209bc04e) 
 - [2020-09-11-【视频】|-Python:小节回顾](https://sec.thief.one/article_content?a_id=ea5921059aa9249efc6c95ad58c1d6dc) 
 - [2020-09-10-【视频】|-漫话安全:2020国家网络安全宣传周](https://sec.thief.one/article_content?a_id=49fb80d5eef5f3b76e3fc9badb71e5a8) 

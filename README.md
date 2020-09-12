@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-12 00:31:43，:rocket: 更新条数: +3603， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-12 00:58:35，:rocket: 更新条数: +3604， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-09-11-大流行手记|9月11日：美国超50万名儿童确诊-欧洲多国疫情反弹迅速](https://m.caixin.com/m/2020-09-12/101604428.html) ![](assets/new.png)  
 - [2020-09-10-最新疫情：全国新冠累计确诊85168例-新增境外输入15例](https://m.caixin.com/m/2020-09-11/101604201.html) ![](assets/new.png)  
 - [2020-09-10-最新海外疫情：新冠感染超2803万-累计死亡近90.5万](http://m.international.caixin.com/m/2020-09-11/101604197.html) ![](assets/new.png)  
 - [2020-09-10-【境内疫情观察】全国新增15例境外输入病例（9月10日）](http://m.database.caixin.com/m/2020-09-11/101604061.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-09-06-美专家：如何看待疫情，美两党选民差异显著](http://m.international.caixin.com/m/2020-09-07/101602182.html) ![](assets/new.png)  
 - [2020-09-05-【境内疫情观察】全国新增10例境外输入病例（9月5日）](http://m.database.caixin.com/m/2020-09-06/101601891.html) ![](assets/new.png)  
 - [2020-09-05-大流行手记|9月5日：法国22所学校现疫情被关闭-研究预测美国今年新冠病死41万人](https://m.caixin.com/m/2020-09-06/101601876.html) ![](assets/new.png)  
-- [2020-09-04-【境内疫情观察】全国连续20日无新增本土病例（9月4日）](http://m.database.caixin.com/m/2020-09-05/101601775.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-12-上海9月11日无新增本地新冠肺炎确诊病例-新增境外输入2例-治愈出院4例](http://wsjkw.sh.gov.cn/xwfb/20200912/00215ec694d94a28b08c31efc32eff1d.html) ![](assets/new.png)  
 - [2020-09-11-新冠病毒基因组测序实验室网络在非洲启动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitjPYH1LeDOphxpVdlsz1200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-11-印度铁道部国务部长苏雷希·安加迪确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikmu0qpbXHsmWyWYe8G2Q200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-11-听，香港医护真正的心声！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81zhwhg8DvvcJt3ogFj6200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-11-疫情局部反弹-西班牙超10万居民再度进入管控状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih7iUMFBHdkEHKoGLaFMP200912&isfromapp=1) ![](assets/new.png)  
-- [2020-09-11-希腊新增287例新冠肺炎确诊病例-累计12734例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBSDIjBEEamZGuZYa7a9F200911&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-12-滴滴出行-北京、杭州、成都、深圳内推-前端/-Java-/iOS/Android/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/706314) ![](assets/new.png)  
+- [2020-09-12-教育考试网挂了？](https://www.v2ex.com/t/706313) ![](assets/new.png)  
 - [2020-09-12-开了台-AWS-东京-EC2，发现居然支持看-Netflix](https://www.v2ex.com/t/706311) ![](assets/new.png)  
 - [2020-09-11-VLOG-007：为美好的西域风光献上祝福-敦煌旅拍-周末随心飞](https://www.v2ex.com/t/706310) ![](assets/new.png)  
 - [2020-09-11-新买的内存，分一根一根开测试都没问题，两根一起就重启](https://www.v2ex.com/t/706309) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-11-公司降薪了，基本工资拿出-10%算绩效，说年底-12-变成-16-薪，多出-4-薪算绩效，说是工资涨了。-但怎么看也是少了的，是不是不靠谱啊？要不要走呢？](https://www.v2ex.com/t/706293) ![](assets/new.png)  
 - [2020-09-11-现在速度快的-dot-跟-doh-dns-有哪些？](https://www.v2ex.com/t/706292) ![](assets/new.png)  
 - [2020-09-11-在-GitHub-上发现了个宝藏项目，超牛的爬虫工具箱](https://www.v2ex.com/t/706291) ![](assets/new.png)  
-- [2020-09-11-羊毛褥起来：-Free-access-to-200+-digital-versions-of-Oxford-Student-Books](https://www.v2ex.com/t/706290) ![](assets/new.png)  
-- [2020-09-11-单位有几台闲置的服务器，也有几条专线-IP](https://www.v2ex.com/t/706285) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,23 +1142,23 @@
 - [2020-09-12-任正非：若果有人拧熄了灯塔，我们怎么航行？|-码农周刊第-317-期](https://toutiao.io/k/ixcjpqn) ![](assets/new.png)  
 - [2020-09-12-2020-疫情下半场：如何向管理要效益，促成降本提效？](https://toutiao.io/k/nalyrhg) ![](assets/new.png)  
 - [2020-09-12-WalletConnect-非权威开发指南](https://toutiao.io/k/gfncgc6) ![](assets/new.png)  
-- [2020-09-12-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
 - [2020-09-12-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-12-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
 - [2020-09-12-无尽学习者修炼指南-v3.0](https://toutiao.io/k/ghay540) ![](assets/new.png)  
-- [2020-09-12-浅析-Flutter-渲染原理](https://toutiao.io/k/xougc1l) ![](assets/new.png)  
 - [2020-09-12-数据一致性校验及数据同步，运维必看](https://toutiao.io/k/n54xlt6) ![](assets/new.png)  
+- [2020-09-12-浅析-Flutter-渲染原理](https://toutiao.io/k/xougc1l) ![](assets/new.png)  
 - [2020-09-12-1:1-还原，自制树莓派复古街机：教程已开源](https://toutiao.io/k/98xu6eu) ![](assets/new.png)  
 - [2020-09-12-模型性能杀器解读：如果项目的模型遇到瓶颈，用这些-Tricks-就对了](https://toutiao.io/k/i3mgewz) ![](assets/new.png)  
 - [2020-09-12-elecV2P：一款不止于-MITM-的网络工具](https://toutiao.io/k/3dcr8pg) ![](assets/new.png)  
-- [2020-09-12-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
-- [2020-09-12-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
 - [2020-09-12-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
 - [2020-09-12-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-12-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-12-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-12-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
 - [2020-09-12-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-12-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-12-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
 - [2020-09-12-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-12-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-12-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-12-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

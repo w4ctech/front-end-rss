@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-12 09:34:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 09:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-12-拿到一个很不错的-offer-了，但是对方最多只能等两周](https://www.v2ex.com/t/706428) 
+- [2020-09-12-hk-油管-premium-hk-sp-family-有意来](https://www.v2ex.com/t/706426) 
 - [2020-09-12-Gooreplacer:-重定向请求的浏览器扩展](https://www.v2ex.com/t/706424) 
 - [2020-09-12-这个写的博客挺有意思的,-现在很少见到非程序员的博客了](https://www.v2ex.com/t/706423) 
 - [2020-09-12-macbook-屏幕四周白色云雾。。什么情况](https://www.v2ex.com/t/706421) 
@@ -42,6 +44,3 @@
 - [2020-09-12-新加坡-Shopee部门直招-招资深-SRE-和-Linux-内核专家!](https://www.v2ex.com/t/706383) 
 - [2020-09-12-master-mx3-for-mac-体验如何？用起来和秒控一样丝滑吗？](https://www.v2ex.com/t/706381) 
 - [2020-09-12-养猫从入门到放弃，记我精神崩溃的一周](https://www.v2ex.com/t/706380) 
-- [2020-09-12-给你一张银行卡，如何识别是什么卡种？](https://www.v2ex.com/t/706378) 
-- [2020-09-12-服务器的-4-个-USB3.0-口全部失灵，向各位老师请教原因。](https://www.v2ex.com/t/706377) 
-- [2020-09-12-准备研究一下，一些古老年代网游的单机版本了](https://www.v2ex.com/t/706376) 

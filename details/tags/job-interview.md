@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 16:47:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 17:03:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -43,7 +43,7 @@
 - [2020-09-09-我在近期求职中遇到的前端面试问题及其解法](https://www.ershicimi.com/p/e3e6661d7978bbd903b8cf73d5773d0e) 
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) 
 - [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) 
-- [2020-09-10-Spring-面试题，一次性打包给大家](https://juejin.im/post/6871128026567065613) 
 - [2020-09-12-请问各位大佬面试的时候怎么和面试官沟通确认这份工作是你想要的？](https://www.v2ex.com/t/706495) 
 - [2020-09-12-请教各位，站在面试官的角度看，招聘两年工作经验的后端是否会看重语言和技术栈的匹配度呢？](https://www.v2ex.com/t/706476) 
+- [2020-09-12-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
 - [2020-09-09-如何迈过人生求职这道坎,翻越面试那块砖,答案就在这里](https://sec.thief.one/article_content?a_id=99fba8ba0539e6b8b7c0149debfeeb50) 

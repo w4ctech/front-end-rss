@@ -15799,10 +15799,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/893",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/893",
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
-    "items": []
+    "items": [
+      {
+        "title": "为什么大家都在吹捧Python，大厂高薪敲门砖了解一下",
+        "link": "https://www.ershicimi.com/p/25ecfff8e0bfd6d8520f074924adc40f",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "为什么我不再用Vue，改用React？",
+        "link": "https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f",
+        "date": "2020-08-28"
+      },
+      {
+        "title": "CSS 8种让人眼前一亮的hover效果眼前一亮的HOVER效果",
+        "link": "https://www.ershicimi.com/p/fd765fbe942d3cae8b7315b7a2f1e843",
+        "date": "2020-08-27"
+      },
+      {
+        "title": "Vue 开发必须知道的 36 个技巧",
+        "link": "https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b",
+        "date": "2020-08-27"
+      },
+      {
+        "title": "哥们别闹，你离资深前端还远着呢",
+        "link": "https://www.ershicimi.com/p/c137ee5ba9af6ee1df54d4ace219d1b7",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "为什么阿里P6+前端这么值钱?",
+        "link": "https://www.ershicimi.com/p/d1817ac2caa875b27ca8ab9965b15bd9",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "前端工程师如何修炼自己的编程内力",
+        "link": "https://www.ershicimi.com/p/0784280e1ffd19b5c51fd601c3f53262",
+        "date": "2020-08-24"
+      },
+      {
+        "title": "前端的核心竞争力在哪里？",
+        "link": "https://www.ershicimi.com/p/4edf132a9c1fd2aaf3c1f58d23764169",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "Vue3.0和2.0的区别？五步学会Vue3.0实战项目！",
+        "link": "https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f",
+        "date": "2020-08-20"
+      },
+      {
+        "title": "大厂面试官最爱追问的几道题，这回有答案了",
+        "link": "https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca",
+        "date": "2020-08-19"
+      },
+      {
+        "title": "每出现一个Bug，都要思考这个问题",
+        "link": "https://www.ershicimi.com/p/50772aaf0bbc5fe9a2a8ebd37ed47c3b",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "20k以上面试必问，Webpack原理和优化",
+        "link": "https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "面了个 4 年的前端，简历看着像实战派，实际上……",
+        "link": "https://www.ershicimi.com/p/529451701bd7e68b0beea1bce1921d36",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "一周内在闲鱼上被疯转 2 万次的“多线程”资料！",
+        "link": "https://www.ershicimi.com/p/8fdc4dabcff23f716ebb8b3ecd65bcf9",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "前端圈的贫富差距正在拉大？",
+        "link": "https://www.ershicimi.com/p/adf9b7740214369c1a3daf15c832e9c8",
+        "date": "2020-08-11"
+      },
+      {
+        "title": "在 30 岁的互联网战场上，技术的剑已不再锋利",
+        "link": "https://www.ershicimi.com/p/f76b9041042ed585ebdb3fa21b3fa1ee",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "ES11 来了，还学得动吗？",
+        "link": "https://www.ershicimi.com/p/2fadcba512a5310cf6d0d9077ae77ae7",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "嘿，不要给 async 函数写那么多 try/catch 了",
+        "link": "https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "面试官：“同学，你做过真实落地项目吗？”​",
+        "link": "https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "哥们别闹，你离资深前端还远着呢",
+        "link": "https://www.ershicimi.com/p/4742e260273a2bf0fcfccc86f9f97422",
+        "date": "2020-08-05"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/juejin/category/frontend",
@@ -16169,6 +16270,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[实习] [微软亚洲研究院] 基于机器学习的爬虫检测实习生",
+        "link": "https://www.v2ex.com/t/706464",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "组建小团队卖主题怎么样？",
+        "link": "https://www.v2ex.com/t/706463",
+        "date": "2020-09-12"
+      },
+      {
         "title": "买了 360 移动硬盘，用来备份笔记本系统",
         "link": "https://www.v2ex.com/t/706461",
         "date": "2020-09-12"
@@ -16342,11 +16453,6 @@
         "title": "为什么要有大小周...",
         "link": "https://www.v2ex.com/t/706415",
         "date": "2020-09-12"
-      },
-      {
-        "title": "美區 Apple News+ & Apple Music 100CNY / 3 mo",
-        "link": "https://www.v2ex.com/t/706413",
-        "date": "2020-09-12"
       }
     ]
   },
@@ -16493,13 +16599,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "1:1 还原，自制树莓派复古街机：教程已开源",
-        "link": "https://toutiao.io/k/98xu6eu",
+        "title": "数据一致性校验及数据同步，运维必看",
+        "link": "https://toutiao.io/k/n54xlt6",
         "date": "2020-09-12"
       },
       {
-        "title": "数据一致性校验及数据同步，运维必看",
-        "link": "https://toutiao.io/k/n54xlt6",
+        "title": "1:1 还原，自制树莓派复古街机：教程已开源",
+        "link": "https://toutiao.io/k/98xu6eu",
         "date": "2020-09-12"
       },
       {
@@ -16518,58 +16624,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-12"
       },
       {
@@ -16578,8 +16639,18 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
         "date": "2020-09-12"
       },
       {
@@ -16588,8 +16659,43 @@
         "date": "2020-09-12"
       },
       {
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-12"
+      },
+      {
         "title": "[推荐] 有赞零售移动 CI/CD 实践",
         "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
         "date": "2020-09-12"
       }
     ]

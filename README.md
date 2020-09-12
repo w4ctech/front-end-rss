@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-12 14:03:46，:rocket: 更新条数: +3365， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-12 14:12:42，:rocket: 更新条数: +3386， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -45,7 +45,7 @@
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
@@ -916,6 +916,26 @@
 </summary>
 
 
+- [2020-08-31-为什么大家都在吹捧Python，大厂高薪敲门砖了解一下](https://www.ershicimi.com/p/25ecfff8e0bfd6d8520f074924adc40f) ![](assets/new.png)  
+- [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) ![](assets/new.png)  
+- [2020-08-27-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/fd765fbe942d3cae8b7315b7a2f1e843) ![](assets/new.png)  
+- [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) ![](assets/new.png)  
+- [2020-08-26-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/c137ee5ba9af6ee1df54d4ace219d1b7) ![](assets/new.png)  
+- [2020-08-25-为什么阿里P6+前端这么值钱?](https://www.ershicimi.com/p/d1817ac2caa875b27ca8ab9965b15bd9) ![](assets/new.png)  
+- [2020-08-24-前端工程师如何修炼自己的编程内力](https://www.ershicimi.com/p/0784280e1ffd19b5c51fd601c3f53262) ![](assets/new.png)  
+- [2020-08-21-前端的核心竞争力在哪里？](https://www.ershicimi.com/p/4edf132a9c1fd2aaf3c1f58d23764169) ![](assets/new.png)  
+- [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f) ![](assets/new.png)  
+- [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca) ![](assets/new.png)  
+- [2020-08-18-每出现一个Bug，都要思考这个问题](https://www.ershicimi.com/p/50772aaf0bbc5fe9a2a8ebd37ed47c3b) ![](assets/new.png)  
+- [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341) ![](assets/new.png)  
+- [2020-08-13-面了个-4-年的前端，简历看着像实战派，实际上……](https://www.ershicimi.com/p/529451701bd7e68b0beea1bce1921d36) ![](assets/new.png)  
+- [2020-08-12-一周内在闲鱼上被疯转-2-万次的“多线程”资料！](https://www.ershicimi.com/p/8fdc4dabcff23f716ebb8b3ecd65bcf9) ![](assets/new.png)  
+- [2020-08-11-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/adf9b7740214369c1a3daf15c832e9c8) ![](assets/new.png)  
+- [2020-08-10-在-30-岁的互联网战场上，技术的剑已不再锋利](https://www.ershicimi.com/p/f76b9041042ed585ebdb3fa21b3fa1ee) ![](assets/new.png)  
+- [2020-08-08-ES11-来了，还学得动吗？](https://www.ershicimi.com/p/2fadcba512a5310cf6d0d9077ae77ae7) ![](assets/new.png)  
+- [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214) ![](assets/new.png)  
+- [2020-08-06-面试官：“同学，你做过真实落地项目吗？”​](https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf) ![](assets/new.png)  
+- [2020-08-05-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/4742e260273a2bf0fcfccc86f9f97422) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-12-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/706464) ![](assets/new.png)  
+- [2020-09-12-组建小团队卖主题怎么样？](https://www.v2ex.com/t/706463) ![](assets/new.png)  
 - [2020-09-12-买了-360-移动硬盘，用来备份笔记本系统](https://www.v2ex.com/t/706461) ![](assets/new.png)  
 - [2020-09-12-一个“不需要”写代码-的-mock-&-代理-工具](https://www.v2ex.com/t/706460) ![](assets/new.png)  
 - [2020-09-12-思维导图-Freeplane-如何回车正常输入中文？](https://www.v2ex.com/t/706459) ![](assets/new.png)  
@@ -1055,8 +1077,6 @@
 - [2020-09-12-苹果内购服务端验证-in_app-中订单列表是一直累积的吗？](https://www.v2ex.com/t/706439) ![](assets/new.png)  
 - [2020-09-12-有苏州的老哥知道九龙医院怎么样吗](https://www.v2ex.com/t/706438) ![](assets/new.png)  
 - [2020-09-12-求助帖-观念、家庭教育等问题，你们长大后跟父母沟通，会有隔阂吗？](https://www.v2ex.com/t/706437) ![](assets/new.png)  
-- [2020-09-12-合资车还是有很大优势](https://www.v2ex.com/t/706436) ![](assets/new.png)  
-- [2020-09-12-16-寸-mbp-外接显示器，这个待机温度真的让我捉急啊](https://www.v2ex.com/t/706434) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,20 +1125,20 @@
 - [2020-09-12-WalletConnect-非权威开发指南](https://toutiao.io/k/gfncgc6) ![](assets/new.png)  
 - [2020-09-12-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
 - [2020-09-12-无尽学习者修炼指南-v3.0](https://toutiao.io/k/ghay540) ![](assets/new.png)  
-- [2020-09-12-1:1-还原，自制树莓派复古街机：教程已开源](https://toutiao.io/k/98xu6eu) ![](assets/new.png)  
 - [2020-09-12-数据一致性校验及数据同步，运维必看](https://toutiao.io/k/n54xlt6) ![](assets/new.png)  
+- [2020-09-12-1:1-还原，自制树莓派复古街机：教程已开源](https://toutiao.io/k/98xu6eu) ![](assets/new.png)  
 - [2020-09-12-浅析-Flutter-渲染原理](https://toutiao.io/k/xougc1l) ![](assets/new.png)  
 - [2020-09-12-elecV2P：一款不止于-MITM-的网络工具](https://toutiao.io/k/3dcr8pg) ![](assets/new.png)  
 - [2020-09-12-模型性能杀器解读：如果项目的模型遇到瓶颈，用这些-Tricks-就对了](https://toutiao.io/k/i3mgewz) ![](assets/new.png)  
-- [2020-09-12-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-12-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-12-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-09-12-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
-- [2020-09-12-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-12-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-12-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-12-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-12-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
 - [2020-09-12-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-12-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-12-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-12-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-12-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-12-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-12-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
+- [2020-09-12-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

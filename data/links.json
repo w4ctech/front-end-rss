@@ -13092,6 +13092,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "又一名人感染！马竞官方宣布主教练西蒙尼新冠检测呈阳性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimesWZw0LT8vWWqONCfdd200913&isfromapp=1",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "疫情期间巴西民众消费倾向明显变化 食物和娱乐产品为主",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2ebipBufIbKyGd2gmV7T200913&isfromapp=1",
+        "date": "2020-09-12"
+      },
+      {
         "title": "​希腊一食品厂191人感染新冠病毒 企业被关闭一星期",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijrVHnu6nFN2gRe8x51TR200912&isfromapp=1",
         "date": "2020-09-12"
@@ -13104,16 +13114,6 @@
       {
         "title": "天津新增1例境外输入新冠肺炎确诊病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqbM6zfGyXwFUL4zOHeQ8200912&isfromapp=1",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "美学校新冠肺炎疫情持续恶化 年轻群体乱象频现",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7cEphPyD5rDQaaUgkvkv200912&isfromapp=1",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "香港新增13宗新冠肺炎确诊病例 其中9宗为本地个案",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9bbAf5X6dxrSDpYpaFGs200912&isfromapp=1",
         "date": "2020-09-12"
       }
     ]
@@ -17705,13 +17705,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "Android 11 正式发布：开发者们的舞台已就绪",
-        "link": "https://toutiao.io/k/r603v97",
+        "title": "60 分钟看懂 HMM 的基本原理",
+        "link": "https://toutiao.io/k/zo51bqn",
         "date": "2020-09-12"
       },
       {
-        "title": "60 分钟看懂 HMM 的基本原理",
-        "link": "https://toutiao.io/k/zo51bqn",
+        "title": "Android 11 正式发布：开发者们的舞台已就绪",
+        "link": "https://toutiao.io/k/r603v97",
         "date": "2020-09-12"
       },
       {
@@ -17750,43 +17750,23 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
-        "link": "https://toutiao.io/k/lerlnil",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-12"
-      },
-      {
         "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
         "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
         "date": "2020-09-12"
       },
       {
@@ -17795,13 +17775,18 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-12"
       },
       {
@@ -17810,18 +17795,33 @@
         "date": "2020-09-12"
       },
       {
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-12"
+      },
+      {
         "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
         "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-12"
       }
     ]

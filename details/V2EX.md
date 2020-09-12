@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-09-12 07:48:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 08:03:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-12-通过-MapReduce-降低服务响应时间](https://www.v2ex.com/t/706403) 
+- [2020-09-12-Dubbo-go-应用维度注册模型](https://www.v2ex.com/t/706402) 
+- [2020-09-12-golang-如何使用-context-来关闭-http-链接？](https://www.v2ex.com/t/706401) 
 - [2020-09-12-为什么我的-V2EX-过一段时间再打开就退出登录了？](https://www.v2ex.com/t/706400) 
 - [2020-09-12-深圳西乡附近哪里可以打乒乓球](https://www.v2ex.com/t/706399) 
 - [2020-09-12-关于精神-XXX-的一些疑惑](https://www.v2ex.com/t/706398) 
@@ -38,5 +41,3 @@
 - [2020-09-12-请问-Apple-售后有提供升级内存的服务吗？](https://www.v2ex.com/t/706356) 
 - [2020-09-12-像美团、饿了么这样的平台上线外卖商品，平台自己需要办食品经营许可证吗？](https://www.v2ex.com/t/706355) 
 - [2020-09-12-golang-中-map-的并发问题](https://www.v2ex.com/t/706354) 
-- [2020-09-12-MacBook-Pro-磁盘怎么解？](https://www.v2ex.com/t/706352) 
-- [2020-09-12-Protonmail-没有-PC-客户端，免费用户也不能-SMTP-和-POP3，有其他方法么？](https://www.v2ex.com/t/706351) 

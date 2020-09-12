@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-12 06:26:39，:rocket: 更新条数: +3609， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-12 06:32:14，:rocket: 更新条数: +3608， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,9 +1077,10 @@
 </summary>
 
 
+- [2020-09-12-给你一张银行卡，如何识别是什么卡种？](https://www.v2ex.com/t/706378) ![](assets/new.png)  
 - [2020-09-12-服务器的-4-个-USB3.0-口全部失灵，向各位老师请教原因。](https://www.v2ex.com/t/706377) ![](assets/new.png)  
 - [2020-09-12-准备研究一下，一些古老年代网游的单机版本了](https://www.v2ex.com/t/706376) ![](assets/new.png)  
-- [2020-09-12-转租-距离地铁六号线元芬站A-口654-米-,-单间](https://www.v2ex.com/t/706375) ![](assets/new.png)  
+- [2020-09-12-深圳龙华转租-距离地铁六号线元芬站A-口654-米-,-单间](https://www.v2ex.com/t/706375) ![](assets/new.png)  
 - [2020-09-12-关于-iap，我想替苹果说句话](https://www.v2ex.com/t/706374) ![](assets/new.png)  
 - [2020-09-12-现在前端写代码，还有直接写原生的-HTML、CSS、JS-吗？前端框架辣么多，一堆编译、打包、部署工具，眼花缭乱，还有人直接写原生代码吗？](https://www.v2ex.com/t/706372) ![](assets/new.png)  
 - [2020-09-12-知乎-iOS-客户端不看崩溃统计的吗？](https://www.v2ex.com/t/706371) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-12-MacBook-Pro-磁盘怎么解？](https://www.v2ex.com/t/706352) ![](assets/new.png)  
 - [2020-09-12-Protonmail-没有-PC-客户端，免费用户也不能-SMTP-和-POP3，有其他方法么？](https://www.v2ex.com/t/706351) ![](assets/new.png)  
 - [2020-09-12-如何判断两个函数/方法的-行为/意义-是否相同呢？](https://www.v2ex.com/t/706350) ![](assets/new.png)  
-- [2020-09-12-大神求助，黑苹果卡-exitbs-start-怎么办？](https://www.v2ex.com/t/706348) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,14 +1151,14 @@
 - [2020-09-12-elecV2P：一款不止于-MITM-的网络工具](https://toutiao.io/k/3dcr8pg) ![](assets/new.png)  
 - [2020-09-12-模型性能杀器解读：如果项目的模型遇到瓶颈，用这些-Tricks-就对了](https://toutiao.io/k/i3mgewz) ![](assets/new.png)  
 - [2020-09-12-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-12-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
-- [2020-09-12-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-12-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-12-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
 - [2020-09-12-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-12-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-12-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-12-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-12-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
 - [2020-09-12-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-12-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-09-12-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-12-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-12-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

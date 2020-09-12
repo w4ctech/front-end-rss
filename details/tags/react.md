@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 16:24:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 16:32:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -28,8 +28,7 @@
 - [2020-09-03-顶级React组件库推荐](https://www.ershicimi.com/p/75ec9a701793f8f8caf737b04c68c802) 
 - [2020-09-01-我用React和Vue构建了同款应用，来看看哪里不一样（2020版）](https://www.ershicimi.com/p/0cc0282c4670ccc96d6386c3e3dc4c2e) 
 - [2020-08-25-React、TypeScript、NodeJS-和-MongoDB-搭建-Todo-App](https://www.ershicimi.com/p/412e64be174d44edd0778ac0d0064fc6) 
-- [2020-09-02-写React-Hooks前必读](https://www.ershicimi.com/p/2a0754e176bef859c1d8c6f4fd975b4e) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-09-08-6个常用的React组件库](https://www.ershicimi.com/p/b29088ee78904693d4cfb04c6c3fe15a) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 
-- [2020-09-10-react-native-scrollable-tab-view组件样式修改](https://juejin.im/post/6871107863390584845) 
+- [2020-09-10-React-Router-使用教程](https://juejin.im/post/6871091677705682952) 

@@ -17381,6 +17381,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "电脑开机不断重启，自己排查了两天，找不到方向了，有大佬知道怎么排查问题不",
+        "link": "https://www.v2ex.com/t/706337",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "Windows 现在管理对图形处理器的选择，但是用户自定义配置却不生效？",
+        "link": "https://www.v2ex.com/t/706335",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[北京/武汉/郑州]云视讯领先品牌-小鱼易连-devops/k8s 运维工程师招聘火热进行中",
+        "link": "https://www.v2ex.com/t/706334",
+        "date": "2020-09-12"
+      },
+      {
         "title": "所谓的降噪耳机到底能降什么？",
         "link": "https://www.v2ex.com/t/706333",
         "date": "2020-09-12"
@@ -17569,16 +17584,6 @@
         "title": "羊毛褥起来： Free access to 200+ digital versions of Oxford Student Books",
         "link": "https://www.v2ex.com/t/706290",
         "date": "2020-09-11"
-      },
-      {
-        "title": "单位有几台闲置的服务器，也有几条专线 IP",
-        "link": "https://www.v2ex.com/t/706285",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "2020 年腾讯 TCPA 还值不值得用",
-        "link": "https://www.v2ex.com/t/706284",
-        "date": "2020-09-11"
       }
     ]
   },
@@ -17750,6 +17755,21 @@
         "date": "2020-09-12"
       },
       {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-12"
+      },
+      {
         "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
         "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-12"
@@ -17760,13 +17780,8 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-12"
       },
       {
@@ -17775,38 +17790,8 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-12"
       },
       {
@@ -17815,13 +17800,33 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-12"
       }
     ]

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-09-12 03:03:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 03:12:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-12-电脑开机不断重启，自己排查了两天，找不到方向了，有大佬知道怎么排查问题不](https://www.v2ex.com/t/706337) 
+- [2020-09-12-Windows-现在管理对图形处理器的选择，但是用户自定义配置却不生效？](https://www.v2ex.com/t/706335) 
+- [2020-09-12-北京/武汉/郑州云视讯领先品牌-小鱼易连-devops/k8s-运维工程师招聘火热进行中](https://www.v2ex.com/t/706334) 
 - [2020-09-12-所谓的降噪耳机到底能降什么？](https://www.v2ex.com/t/706333) 
 - [2020-09-12-怎么区别精打细算和抠门？](https://www.v2ex.com/t/706332) 
 - [2020-09-12-lede-如何使用-systemctl-来创建自启动-frp？](https://www.v2ex.com/t/706331) 
@@ -43,5 +46,3 @@
 - [2020-09-11-现在速度快的-dot-跟-doh-dns-有哪些？](https://www.v2ex.com/t/706292) 
 - [2020-09-11-在-GitHub-上发现了个宝藏项目，超牛的爬虫工具箱](https://www.v2ex.com/t/706291) 
 - [2020-09-11-羊毛褥起来：-Free-access-to-200+-digital-versions-of-Oxford-Student-Books](https://www.v2ex.com/t/706290) 
-- [2020-09-11-单位有几台闲置的服务器，也有几条专线-IP](https://www.v2ex.com/t/706285) 
-- [2020-09-11-2020-年腾讯-TCPA-还值不值得用](https://www.v2ex.com/t/706284) 

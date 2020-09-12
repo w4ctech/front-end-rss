@@ -5,19 +5,14 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "9月11日全国新增境外输入新冠6例",
-        "link": "https://m.caixin.com/m/2020-09-12/101604449.html",
+        "title": "最新疫情：全国新冠累计确诊85174例 新增境外输入6例",
+        "link": "http://m.china.caixin.com/m/2020-09-12/101604506.html",
         "date": "2020-09-11"
       },
       {
         "title": "大流行手记|9月11日：美国超50万名儿童确诊 欧洲多国疫情反弹迅速",
         "link": "https://m.caixin.com/m/2020-09-12/101604428.html",
         "date": "2020-09-11"
-      },
-      {
-        "title": "最新疫情：全国新冠累计确诊85168例 新增境外输入15例",
-        "link": "https://m.caixin.com/m/2020-09-11/101604201.html",
-        "date": "2020-09-10"
       },
       {
         "title": "最新海外疫情：新冠感染超2803万 累计死亡近90.5万",
@@ -16265,6 +16260,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "现在点外卖，每次要多出一毛钱买筷子了",
+        "link": "https://www.v2ex.com/t/706367",
+        "date": "2020-09-12"
+      },
+      {
         "title": "理财之见笑大方之家",
         "link": "https://www.v2ex.com/t/706365",
         "date": "2020-09-12"
@@ -16458,11 +16458,6 @@
         "title": "V2 的用户最近是流失了吗？",
         "link": "https://www.v2ex.com/t/706318",
         "date": "2020-09-12"
-      },
-      {
-        "title": "一个 mysql 表，只有学生姓名`name`和学生成绩`grade`两列，现在要 SELECT 出排名前十的同学，但如果满分的有 12 个，则 SELECT 的结果该有 12 个学生，该如何写...",
-        "link": "https://www.v2ex.com/t/706317",
-        "date": "2020-09-12"
       }
     ]
   },
@@ -16614,13 +16609,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "浅析 Flutter 渲染原理",
-        "link": "https://toutiao.io/k/xougc1l",
+        "title": "数据一致性校验及数据同步，运维必看",
+        "link": "https://toutiao.io/k/n54xlt6",
         "date": "2020-09-12"
       },
       {
-        "title": "数据一致性校验及数据同步，运维必看",
-        "link": "https://toutiao.io/k/n54xlt6",
+        "title": "浅析 Flutter 渲染原理",
+        "link": "https://toutiao.io/k/xougc1l",
         "date": "2020-09-12"
       },
       {
@@ -16634,33 +16629,48 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-12"
-      },
-      {
         "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
         "link": "https://toutiao.io/k/lsclo7b",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-12"
       },
       {
@@ -16674,28 +16684,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-12"
-      },
-      {
         "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
         "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-12"
       },
       {
@@ -16704,8 +16699,8 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
         "date": "2020-09-12"
       }
     ]

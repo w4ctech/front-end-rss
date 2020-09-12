@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 14:23:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 14:32:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,7 +34,6 @@
 - [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) 
 - [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-09-12-Gooreplacer:-重定向请求的浏览器扩展](https://www.v2ex.com/t/706424) 
 - [2020-09-12-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-12-网安周开幕:河南省金水区网络安全产业政策发布](https://sec.thief.one/article_content?a_id=7d3651290fcdeffb51e3540ddb1916c2) 
 - [2020-09-12-智博会聚焦工业互联网安全-内生安全框架提供安全保障](https://sec.thief.one/article_content?a_id=e3a2cf0d03f9ba4ec9f23042dad46437) 

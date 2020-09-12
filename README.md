@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-12 14:23:48，:rocket: 更新条数: +3386， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-12 14:32:03，:rocket: 更新条数: +3386， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-12-截至目前（2020-9-12），学习实践-TypeScript-的正确姿势有哪些？](https://www.v2ex.com/t/706474) ![](assets/new.png)  
 - [2020-09-12-为啥用-163-邮箱向-Q-邮箱发邮件会显示地址不存在？](https://www.v2ex.com/t/706473) ![](assets/new.png)  
 - [2020-09-12-鸿蒙相关-知乎大型钓鱼现场](https://www.v2ex.com/t/706472) ![](assets/new.png)  
 - [2020-09-12-求-Windows-下免费的数据恢复软件](https://www.v2ex.com/t/706471) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-12-一周工作-4-天（8-小时），每周-32-小时，时间地点自由，远程上班。](https://www.v2ex.com/t/706452) ![](assets/new.png)  
 - [2020-09-12-如果-CI-系统只能获取到开源代码的源码包，是否应当使用-C++包管理器来管理内部项目的依赖呢?](https://www.v2ex.com/t/706450) ![](assets/new.png)  
 - [2020-09-12-有没有会搞-APP-的个人啊？-我在深圳科技园-有机会聊聊](https://www.v2ex.com/t/706449) ![](assets/new.png)  
-- [2020-09-12-请问在一家公司待多久才合适离职，不以至于影响下一份工作。](https://www.v2ex.com/t/706448) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,20 +1125,20 @@
 - [2020-09-12-WalletConnect-非权威开发指南](https://toutiao.io/k/gfncgc6) ![](assets/new.png)  
 - [2020-09-12-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
 - [2020-09-12-无尽学习者修炼指南-v3.0](https://toutiao.io/k/ghay540) ![](assets/new.png)  
-- [2020-09-12-数据一致性校验及数据同步，运维必看](https://toutiao.io/k/n54xlt6) ![](assets/new.png)  
 - [2020-09-12-1:1-还原，自制树莓派复古街机：教程已开源](https://toutiao.io/k/98xu6eu) ![](assets/new.png)  
+- [2020-09-12-数据一致性校验及数据同步，运维必看](https://toutiao.io/k/n54xlt6) ![](assets/new.png)  
 - [2020-09-12-浅析-Flutter-渲染原理](https://toutiao.io/k/xougc1l) ![](assets/new.png)  
 - [2020-09-12-elecV2P：一款不止于-MITM-的网络工具](https://toutiao.io/k/3dcr8pg) ![](assets/new.png)  
 - [2020-09-12-模型性能杀器解读：如果项目的模型遇到瓶颈，用这些-Tricks-就对了](https://toutiao.io/k/i3mgewz) ![](assets/new.png)  
 - [2020-09-12-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-09-12-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-12-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-12-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
+- [2020-09-12-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
 - [2020-09-12-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-12-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [2020-09-12-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-12-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-12-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
-- [2020-09-12-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
 - [2020-09-12-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-12-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-12-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

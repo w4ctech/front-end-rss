@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-12 14:23:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 14:32:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -125,6 +125,7 @@
 - [【前端宇宙】TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/1e6610b883aed73746a7bb3c3d8e7373)
 - [【前端宇宙】想去字节面试，TypeScript-要掌握到什么程度？](https://www.ershicimi.com/p/a648c89135efeb37049568816a00fc98)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【V2EX】截至目前（2020-9-12），学习实践-TypeScript-的正确姿势有哪些？](https://www.v2ex.com/t/706474)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

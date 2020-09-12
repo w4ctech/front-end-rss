@@ -13092,6 +13092,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "阿联酋单日新增确诊病例数首次破千 累计确诊78849例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit4z3Tve3uKoiPPpDmOeg200912&isfromapp=1",
+        "date": "2020-09-12"
+      },
+      {
         "title": "无法达到防疫标准 乌干达53%的学校欲重开面授有心无力",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBsxAqPNU7sxHfKWc0VMH200912&isfromapp=1",
         "date": "2020-09-12"
@@ -13109,11 +13114,6 @@
       {
         "title": "印度新增97570例新冠肺炎确诊病例 累计超465万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPdCbCzK1xGmLeYHrxnkR200912&isfromapp=1",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "印度医学研究理事会：5月新冠肺炎感染人数可能超640万人",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAkqZaKBxRiTp8dK8SC3Y200912&isfromapp=1",
         "date": "2020-09-12"
       }
     ]
@@ -17730,13 +17730,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "1:1 还原，自制树莓派复古街机：教程已开源",
-        "link": "https://toutiao.io/k/98xu6eu",
+        "title": "数据一致性校验及数据同步，运维必看",
+        "link": "https://toutiao.io/k/n54xlt6",
         "date": "2020-09-12"
       },
       {
-        "title": "数据一致性校验及数据同步，运维必看",
-        "link": "https://toutiao.io/k/n54xlt6",
+        "title": "1:1 还原，自制树莓派复古街机：教程已开源",
+        "link": "https://toutiao.io/k/98xu6eu",
         "date": "2020-09-12"
       },
       {
@@ -17755,33 +17755,8 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-12"
-      },
-      {
         "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
         "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-12"
       },
       {
@@ -17790,23 +17765,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
         "date": "2020-09-12"
       },
       {
@@ -17815,8 +17780,38 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-12"
       },
       {
@@ -17825,8 +17820,13 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-12"
       }
     ]

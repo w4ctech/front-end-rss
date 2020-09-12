@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 13:34:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 13:47:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -26,3 +26,4 @@
 - [2020-08-09-CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [2020-09-11-Egg.js试水---文章增删改查【前后端分离】](https://juejin.im/post/6871478190037336078) 
+- [2020-09-11-【写给初入前端职场同学的话】，顺便聊聊：Node.js入门系列（四）事件处理机制及事件环机制](https://juejin.im/post/6871437065754509325) 

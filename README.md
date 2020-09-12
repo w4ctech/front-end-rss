@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-12 06:49:05，:rocket: 更新条数: +3385， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-12 07:03:23，:rocket: 更新条数: +3385， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-09-11-最新疫情：全国新冠累计确诊85174例-新增境外输入6例](http://m.china.caixin.com/m/2020-09-12/101604506.html) ![](assets/new.png)  
+- [2020-09-11-全球首个鼻喷新冠疫苗启动临床试验-具流感新冠双重免疫](https://m.caixin.com/m/2020-09-12/101604535.html) ![](assets/new.png)  
 - [2020-09-11-大流行手记|9月11日：美国超50万名儿童确诊-欧洲多国疫情反弹迅速](https://m.caixin.com/m/2020-09-12/101604428.html) ![](assets/new.png)  
 - [2020-09-10-最新海外疫情：新冠感染超2803万-累计死亡近90.5万](http://m.international.caixin.com/m/2020-09-11/101604197.html) ![](assets/new.png)  
 - [2020-09-10-【境内疫情观察】全国新增15例境外输入病例（9月10日）](http://m.database.caixin.com/m/2020-09-11/101604061.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-09-06-大流行手记|9月6日：印度疫情蔓延迅速-美药企拟联合声明拒绝疫苗仓促上市](https://m.caixin.com/m/2020-09-07/101602016.html) ![](assets/new.png)  
 - [2020-09-06-美专家：如何看待疫情，美两党选民差异显著](http://m.international.caixin.com/m/2020-09-07/101602182.html) ![](assets/new.png)  
 - [2020-09-05-【境内疫情观察】全国新增10例境外输入病例（9月5日）](http://m.database.caixin.com/m/2020-09-06/101601891.html) ![](assets/new.png)  
-- [2020-09-05-大流行手记|9月5日：法国22所学校现疫情被关闭-研究预测美国今年新冠病死41万人](https://m.caixin.com/m/2020-09-06/101601876.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-12-乌克兰新增3103例新冠肺炎确诊病例-累计确诊151859例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWl0KCmvszwSyP0x1j4FY200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-12-印度新增97570例新冠肺炎确诊病例-累计超465万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPdCbCzK1xGmLeYHrxnkR200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-12-印度医学研究理事会：5月新冠肺炎感染人数可能超640万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAkqZaKBxRiTp8dK8SC3Y200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-12-美食品和药物管理局前局长：政府有意淡化疫情威胁致民众不愿戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2TkfyyTy5FHkzJrd0e9l200912&isfromapp=1) ![](assets/new.png)  
 - [2020-09-12-疫情之下中泰贸易逆势增长-今年前7个月涨幅达6.5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4SnWwl1Ep9HaZMSOv1Jx200912&isfromapp=1) ![](assets/new.png)  
-- [2020-09-12-疫中看巴西丨疫情冲击小微企业-政府扶持民众创业图自救](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYlEEBzdp2gi2CAO4R5J4200912&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-12-今天来谈点俗的-应届找工作所遇到的情况](https://www.v2ex.com/t/706384) ![](assets/new.png)  
+- [2020-09-12-新加坡-Shopee部门直招-招资深-SRE-和-Linux-内核专家!](https://www.v2ex.com/t/706383) ![](assets/new.png)  
 - [2020-09-12-master-mx3-for-mac-体验如何？用起来和秒控一样丝滑吗？](https://www.v2ex.com/t/706381) ![](assets/new.png)  
 - [2020-09-12-养猫从入门到放弃，记我精神崩溃的一周](https://www.v2ex.com/t/706380) ![](assets/new.png)  
 - [2020-09-12-给你一张银行卡，如何识别是什么卡种？](https://www.v2ex.com/t/706378) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-12-使用-PDD-让我有一种被鄙视的感觉……](https://www.v2ex.com/t/706358) ![](assets/new.png)  
 - [2020-09-12-请问-Apple-售后有提供升级内存的服务吗？](https://www.v2ex.com/t/706356) ![](assets/new.png)  
 - [2020-09-12-像美团、饿了么这样的平台上线外卖商品，平台自己需要办食品经营许可证吗？](https://www.v2ex.com/t/706355) ![](assets/new.png)  
-- [2020-09-12-golang-中-map-的并发问题](https://www.v2ex.com/t/706354) ![](assets/new.png)  
-- [2020-09-12-MacBook-Pro-磁盘怎么解？](https://www.v2ex.com/t/706352) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-09-12-浅析-Flutter-渲染原理](https://toutiao.io/k/xougc1l) ![](assets/new.png)  
 - [2020-09-12-elecV2P：一款不止于-MITM-的网络工具](https://toutiao.io/k/3dcr8pg) ![](assets/new.png)  
 - [2020-09-12-模型性能杀器解读：如果项目的模型遇到瓶颈，用这些-Tricks-就对了](https://toutiao.io/k/i3mgewz) ![](assets/new.png)  
-- [2020-09-12-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-12-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-12-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
 - [2020-09-12-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-12-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-12-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-09-12-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-12-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
 - [2020-09-12-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
-- [2020-09-12-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-12-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-12-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-12-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-12-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-12-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
+- [2020-09-12-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

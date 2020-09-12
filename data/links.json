@@ -16265,6 +16265,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "理财之见笑大方之家",
+        "link": "https://www.v2ex.com/t/706365",
+        "date": "2020-09-12"
+      },
+      {
         "title": "上海医保卡状态怎么查？",
         "link": "https://www.v2ex.com/t/706363",
         "date": "2020-09-12"
@@ -16458,21 +16463,6 @@
         "title": "一个 mysql 表，只有学生姓名`name`和学生成绩`grade`两列，现在要 SELECT 出排名前十的同学，但如果满分的有 12 个，则 SELECT 的结果该有 12 个学生，该如何写...",
         "link": "https://www.v2ex.com/t/706317",
         "date": "2020-09-12"
-      },
-      {
-        "title": "求推荐一个监控摄像头",
-        "link": "https://www.v2ex.com/t/706316",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "有关 Mysql 优化内存该如何设置的问题",
-        "link": "https://www.v2ex.com/t/706315",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[滴滴出行-北京、杭州、成都、深圳内推] 前端/ Java /iOS/Android/算法/ PHP /Go/C++/数据等各类职位大量招聘，月 20k-80k，优秀另有期权",
-        "link": "https://www.v2ex.com/t/706314",
-        "date": "2020-09-12"
       }
     ]
   },
@@ -16644,13 +16634,8 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-12"
       },
       {
@@ -16659,8 +16644,18 @@
         "date": "2020-09-12"
       },
       {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-12"
+      },
+      {
         "title": "[推荐] 有赞零售移动 CI/CD 实践",
         "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
         "date": "2020-09-12"
       },
       {
@@ -16669,28 +16664,8 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-12"
       },
       {
@@ -16699,23 +16674,38 @@
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-12"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-12"
       }
     ]

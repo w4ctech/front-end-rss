@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-12 05:02:57，:rocket: 更新条数: +3390， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-12 05:11:39，:rocket: 更新条数: +3388， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-12-理财之见笑大方之家](https://www.v2ex.com/t/706365) ![](assets/new.png)  
 - [2020-09-12-上海医保卡状态怎么查？](https://www.v2ex.com/t/706363) ![](assets/new.png)  
 - [2020-09-12-大文件（大于-10G）上传-v-友有什么建议？](https://www.v2ex.com/t/706362) ![](assets/new.png)  
 - [2020-09-12-水湾网谷大厦上班-附近有哪里租房比较好的](https://www.v2ex.com/t/706360) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-12-28G-的视频如何上传至百度云（已开通超级会员）](https://www.v2ex.com/t/706342) ![](assets/new.png)  
 - [2020-09-12-有没有那种可以粘贴之后让数字自动＋-1-的软件](https://www.v2ex.com/t/706341) ![](assets/new.png)  
 - [2020-09-12-西安/国企-Java-、Javascript-大数据、运维开发、产品、交互快来啊。](https://www.v2ex.com/t/706340) ![](assets/new.png)  
-- [2020-09-12-为什么有加班。](https://www.v2ex.com/t/706339) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-09-12-数据一致性校验及数据同步，运维必看](https://toutiao.io/k/n54xlt6) ![](assets/new.png)  
 - [2020-09-12-模型性能杀器解读：如果项目的模型遇到瓶颈，用这些-Tricks-就对了](https://toutiao.io/k/i3mgewz) ![](assets/new.png)  
 - [2020-09-12-elecV2P：一款不止于-MITM-的网络工具](https://toutiao.io/k/3dcr8pg) ![](assets/new.png)  
-- [2020-09-12-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
-- [2020-09-12-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-12-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
 - [2020-09-12-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-12-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
 - [2020-09-12-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-12-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
 - [2020-09-12-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-12-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
-- [2020-09-12-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-09-12-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-12-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-12-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-12-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-12-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

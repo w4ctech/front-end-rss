@@ -15588,108 +15588,7 @@
     "rss": "https://rss.itggg.cn/wechat/ershicimi/6304",
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
-    "items": [
-      {
-        "title": "你还在用 BeanUtils？试试 MapStruct，优雅的对象转换解决方案！",
-        "link": "https://www.ershicimi.com/p/816ed102e3ab42efb878a1e90ad6d26a",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "太傻了！下次二面再回答不好“秒杀系统“设计原理，我就捶死自己...",
-        "link": "https://www.ershicimi.com/p/5f7e72ad1aaf55afb14d3301dd788684",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "审阅“史上”最烂的代码",
-        "link": "https://www.ershicimi.com/p/dda0f24b938817674882112d59aca7d9",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "牛逼！IDEA不愧为神器，结合Groovy脚本，简直天下无敌！",
-        "link": "https://www.ershicimi.com/p/6e662cf05c1e9c7b3d74fa40cdbe4e95",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "为什么 Redis 要比 Memcached 更火？",
-        "link": "https://www.ershicimi.com/p/86f6bf89758f8ce02795855682497ad6",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "点赞模块设计：Redis缓存 + 定时写入数据库实现高性能点赞功能",
-        "link": "https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "分享400多道算法题，来挑战吧",
-        "link": "https://www.ershicimi.com/p/4e88bfd1eb96ea5426860ad1aa28700b",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "写这么骚的代码，真不怕被同事揍么？",
-        "link": "https://www.ershicimi.com/p/4bcaaa6722516d9bd6e47236490031d2",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "你的登录接口真的安全吗？",
-        "link": "https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "支付宝二面：Mybatis接口Mapper内的方法为啥不能重载吗？我直接懵逼了...",
-        "link": "https://www.ershicimi.com/p/99f6a7a94269be4d747af02899618524",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "为什么程序员都不喜欢使用 switch ，而是大量的 if……else if ？",
-        "link": "https://www.ershicimi.com/p/88eb308e4bf0cff894702cd7cb62615c",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "天啊，为什么我的 Redis 变慢了。。",
-        "link": "https://www.ershicimi.com/p/205a766e32b93e5da04bc5266003b271",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "异地多活，企业上云的必然趋势！",
-        "link": "https://www.ershicimi.com/p/7bed8d4aa9d75730c23523fe70ee400f",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "为啥不能用uuid做MySQL的主键！？",
-        "link": "https://www.ershicimi.com/p/a231e6d67d49e1cc13fccfd8e9ce5a9c",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "Redis 开发陷阱及避坑指南！",
-        "link": "https://www.ershicimi.com/p/2c0744b80cef7ee9a155eab097c9b53f",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "为什么 Java 中“1000==1000”为false，而”100==100“为true？",
-        "link": "https://www.ershicimi.com/p/3e55ad85e18e6fdf5349397ac6f03d90",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "面试：如何从 100 亿 URL 中找出相同的 URL？",
-        "link": "https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "Spring Boot + Redis解决商品秒杀库存超卖，看这篇文章就够了",
-        "link": "https://www.ershicimi.com/p/8df72d817dfb02c53b59ac2ffb8ee322",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "Lambda 表达式入门，这篇够了！",
-        "link": "https://www.ershicimi.com/p/645438d78655b545bd9965860425f519",
-        "date": "2020-09-06"
-      },
-      {
-        "title": "做一个网站多少钱？",
-        "link": "https://www.ershicimi.com/p/118e84f2cb597a6ab93cff4351822121",
-        "date": "2020-09-06"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/89",
@@ -15799,111 +15698,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/893",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/893",
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
-    "items": [
-      {
-        "title": "为什么大家都在吹捧Python，大厂高薪敲门砖了解一下",
-        "link": "https://www.ershicimi.com/p/25ecfff8e0bfd6d8520f074924adc40f",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "为什么我不再用Vue，改用React？",
-        "link": "https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f",
-        "date": "2020-08-28"
-      },
-      {
-        "title": "CSS 8种让人眼前一亮的hover效果眼前一亮的HOVER效果",
-        "link": "https://www.ershicimi.com/p/fd765fbe942d3cae8b7315b7a2f1e843",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "Vue 开发必须知道的 36 个技巧",
-        "link": "https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b",
-        "date": "2020-08-27"
-      },
-      {
-        "title": "哥们别闹，你离资深前端还远着呢",
-        "link": "https://www.ershicimi.com/p/c137ee5ba9af6ee1df54d4ace219d1b7",
-        "date": "2020-08-26"
-      },
-      {
-        "title": "为什么阿里P6+前端这么值钱?",
-        "link": "https://www.ershicimi.com/p/d1817ac2caa875b27ca8ab9965b15bd9",
-        "date": "2020-08-25"
-      },
-      {
-        "title": "前端工程师如何修炼自己的编程内力",
-        "link": "https://www.ershicimi.com/p/0784280e1ffd19b5c51fd601c3f53262",
-        "date": "2020-08-24"
-      },
-      {
-        "title": "前端的核心竞争力在哪里？",
-        "link": "https://www.ershicimi.com/p/4edf132a9c1fd2aaf3c1f58d23764169",
-        "date": "2020-08-21"
-      },
-      {
-        "title": "Vue3.0和2.0的区别？五步学会Vue3.0实战项目！",
-        "link": "https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f",
-        "date": "2020-08-20"
-      },
-      {
-        "title": "大厂面试官最爱追问的几道题，这回有答案了",
-        "link": "https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca",
-        "date": "2020-08-19"
-      },
-      {
-        "title": "每出现一个Bug，都要思考这个问题",
-        "link": "https://www.ershicimi.com/p/50772aaf0bbc5fe9a2a8ebd37ed47c3b",
-        "date": "2020-08-18"
-      },
-      {
-        "title": "20k以上面试必问，Webpack原理和优化",
-        "link": "https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341",
-        "date": "2020-08-17"
-      },
-      {
-        "title": "面了个 4 年的前端，简历看着像实战派，实际上……",
-        "link": "https://www.ershicimi.com/p/529451701bd7e68b0beea1bce1921d36",
-        "date": "2020-08-13"
-      },
-      {
-        "title": "一周内在闲鱼上被疯转 2 万次的“多线程”资料！",
-        "link": "https://www.ershicimi.com/p/8fdc4dabcff23f716ebb8b3ecd65bcf9",
-        "date": "2020-08-12"
-      },
-      {
-        "title": "前端圈的贫富差距正在拉大？",
-        "link": "https://www.ershicimi.com/p/adf9b7740214369c1a3daf15c832e9c8",
-        "date": "2020-08-11"
-      },
-      {
-        "title": "在 30 岁的互联网战场上，技术的剑已不再锋利",
-        "link": "https://www.ershicimi.com/p/f76b9041042ed585ebdb3fa21b3fa1ee",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "ES11 来了，还学得动吗？",
-        "link": "https://www.ershicimi.com/p/2fadcba512a5310cf6d0d9077ae77ae7",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "嘿，不要给 async 函数写那么多 try/catch 了",
-        "link": "https://www.ershicimi.com/p/a4945fb2d2f7a64d0529447534a2a214",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "面试官：“同学，你做过真实落地项目吗？”​",
-        "link": "https://www.ershicimi.com/p/4609aef1f65dfb719a2989d7e444a5cf",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "哥们别闹，你离资深前端还远着呢",
-        "link": "https://www.ershicimi.com/p/4742e260273a2bf0fcfccc86f9f97422",
-        "date": "2020-08-05"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/juejin/category/frontend",
@@ -16095,7 +15893,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []

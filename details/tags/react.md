@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 13:21:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 13:32:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -9,6 +9,7 @@
 
 - [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) 
 - [2020-09-01-React谁都会，你的优势在哪里？](https://www.ershicimi.com/p/adff9b42befe5d8c81e4095e4dab9f68) 
+- [2020-09-12-唐朝人更懂-React](https://www.ershicimi.com/p/216c2f51fe09be91ce7b4e7cac69146b) 
 - [2020-09-08-从外包到-React-核心团队成员](https://www.ershicimi.com/p/83a31cd3cc5ae4c47aa0cdae71c1fb7b) 
 - [2020-09-07-原来-React-是为这些人量身定制](https://www.ershicimi.com/p/8185ce0198ae71897b1d9c435d4f5258) 
 - [2020-09-04-React-Hooks-设计思想](https://www.ershicimi.com/p/6a8cc0a216dfb372fc6a8e79b545538f) 
@@ -31,4 +32,3 @@
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-09-08-6个常用的React组件库](https://www.ershicimi.com/p/b29088ee78904693d4cfb04c6c3fe15a) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 
-- [2020-09-10-Taro跨端开发之多业务模块管理-React-Native篇中](https://juejin.im/post/6871058311521763336) 

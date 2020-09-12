@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 03:12:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 03:23:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,6 +90,7 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-24-「知」知乎，「知」未来-——-2021-知乎校招直播来啦](https://www.ershicimi.com/p/5828f13db6ef1050b69d394b3f83bbec) 
+- [2020-09-12-28G-的视频如何上传至百度云（已开通超级会员）](https://www.v2ex.com/t/706342) 
 - [2020-09-12-Android-平台/阿里云-APP/偷偷使用前置摄像头](https://www.v2ex.com/t/706324) 
 - [2020-09-12-求推荐一个监控摄像头](https://www.v2ex.com/t/706316) 
 - [2020-09-11-怎么在投影仪上流畅播放-NAS-上的视频](https://www.v2ex.com/t/706302) 

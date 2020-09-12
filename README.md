@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-12 12:39:16，:rocket: 更新条数: +3388， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-12 12:47:25，:rocket: 更新条数: +3389， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-12-疫情期间买了台低配的-16-寸。能出多少？](https://www.v2ex.com/t/706455) ![](assets/new.png)  
+- [2020-09-12-什么东西才能被称作项目中的亮点？](https://www.v2ex.com/t/706454) ![](assets/new.png)  
 - [2020-09-12-异性陌生人主动要求住一间房，脑子一坑同意了](https://www.v2ex.com/t/706453) ![](assets/new.png)  
 - [2020-09-12-一周工作-4-天（8-小时），每周-32-小时，时间地点自由，远程上班。](https://www.v2ex.com/t/706452) ![](assets/new.png)  
 - [2020-09-12-如果-CI-系统只能获取到开源代码的源码包，是否应当使用-C++包管理器来管理内部项目的依赖呢?](https://www.v2ex.com/t/706450) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-12-pandas-分组后如何去后百分之-80-的值](https://www.v2ex.com/t/706433) ![](assets/new.png)  
 - [2020-09-12-联通-500M-带宽，买了个路由器-wifi-只有-100M-速度？](https://www.v2ex.com/t/706432) ![](assets/new.png)  
 - [2020-09-12-apple-pencil-不香了，我想拯救一下，求助！](https://www.v2ex.com/t/706431) ![](assets/new.png)  
-- [2020-09-12-用-gost-设置代理套娃的疑问](https://www.v2ex.com/t/706430) ![](assets/new.png)  
-- [2020-09-12-拿到一个很不错的-offer-了，但是对方最多只能等两周](https://www.v2ex.com/t/706428) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-09-12-浅析-Flutter-渲染原理](https://toutiao.io/k/xougc1l) ![](assets/new.png)  
 - [2020-09-12-elecV2P：一款不止于-MITM-的网络工具](https://toutiao.io/k/3dcr8pg) ![](assets/new.png)  
 - [2020-09-12-模型性能杀器解读：如果项目的模型遇到瓶颈，用这些-Tricks-就对了](https://toutiao.io/k/i3mgewz) ![](assets/new.png)  
+- [2020-09-12-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-12-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
 - [2020-09-12-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
-- [2020-09-12-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-12-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-12-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-12-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-12-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-12-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-12-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
 - [2020-09-12-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
 - [2020-09-12-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
-- [2020-09-12-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-12-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-12-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 15:32:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 15:34:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,7 +23,6 @@
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-09-09-【第2060期】现代浏览器内部揭秘之二](https://www.ershicimi.com/p/8aad4f0ad581c8838769e9bf858aa95b) 
 - [2020-09-07-【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327) 
-- [2020-09-02-浏览器中的跨域问题与-CORS](https://www.ershicimi.com/p/a482ed736bf2f7834bbbab4735420960) 
 - [2020-08-31-Chrome开发工具插件推荐](https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92) 
 - [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
 - [2020-09-08-你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 15:32:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 15:34:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -36,8 +36,6 @@
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-09-04-【第2055期】如何用JavaScript检测空闲的浏览器标签](https://www.ershicimi.com/p/c32e4b47cdc9760e316fc3ad69997cf3) 
-- [2020-09-09-JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/84b3f04fb31d9be0836936577de6b023) 
-- [2020-09-01-组件库主题设计方案](https://www.ershicimi.com/p/fc0000487bd88250eda0ec26b8190db1) 
 - [2020-09-12-H5-秒开方案大全](https://www.ershicimi.com/p/75d29fd40c2aff8f2bb28cd44438223f) 
 - [2020-09-11-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/74bd803fe62c842c03de6bf050297dd8) 
 - [2020-09-09-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/9a5263bb72a424b82d761fd9e82a5152) 
@@ -51,9 +49,6 @@
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
 - [2020-08-29-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/51d0c0cd051627d75fc8b9b08453cc70) 
 - [2020-08-26-轻松理解-JS-中的面向对象，顺便搞懂-prototype-和-__proto__](https://www.ershicimi.com/p/903b07549433d52ef56578c461a18318) 
-- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
-- [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
-- [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
 - [2020-09-02-微众正式开源Fes.js：快速、简单、健壮的管理台前端应用](https://www.ershicimi.com/p/df8d37e15035a568568c62ec9f4ff23f) 
 - [2020-09-07-JS原型相关知识点](https://www.ershicimi.com/p/615ac57abc1d69cc60d1f97b775d75b1) 
 - [2020-09-06-JavaScript红宝书第4版，送！！！](https://www.ershicimi.com/p/a4f6302fb39e9a27999c12cd5f220fb0) 

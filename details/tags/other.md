@@ -1,11 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-13 00:07:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 00:33:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2020-09-11-最新疫情：全国新冠累计确诊85174例-新增境外输入6例](http://m.china.caixin.com/m/2020-09-12/101604506.html) 
+- [2020-09-12-9月12日全国新增境外输入新冠10例-无症状感染者70例](http://m.china.caixin.com/m/2020-09-13/101604612.html) 
+- [2020-09-12-大流行手记|9月12日：法国疫情明显恶化-阿斯利康重启新冠疫苗试验](https://m.caixin.com/m/2020-09-13/101604607.html) 
 - [2020-09-11-全球首个鼻喷新冠疫苗启动临床试验-具流感新冠双重免疫](https://m.caixin.com/m/2020-09-12/101604535.html) 
 - [2020-09-11-最新海外疫情：新冠感染超2835万-累计死亡超91万](https://m.caixin.com/m/2020-09-12/101604570.html) 
 - [2020-09-11-【境内疫情观察】全国连续150日无新增死亡病例（9月11日）](http://m.database.caixin.com/m/2020-09-12/101604544.html) 
@@ -2605,7 +2606,6 @@
 - [2020-09-12-求-Windows-下免费的数据恢复软件](https://www.v2ex.com/t/706471) 
 - [2020-09-12-上海联通宽带桥接后-iptv-不能用](https://www.v2ex.com/t/706469) 
 - [2020-09-12-spyder-的代码编辑去和控制台有什么区别？](https://www.v2ex.com/t/706468) 
-- [2020-09-12-mac-下合并-pdf-的软件](https://www.v2ex.com/t/706466) 
 - [2020-09-13-如何做好一场线上培训-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13758&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fa-good-online-training%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-13-图说敏捷项目管理中的价值-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13757&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management-value%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-13-如何制作出让女朋友满意的大片-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13756&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F231068497%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -2629,17 +2629,19 @@
 - [2020-09-13-网易大数据用户画像实践](https://toutiao.io/k/bqjhhe3) 
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) 
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) 
-- [2020-09-13-Go-设计模式（八）：装饰器模式](https://toutiao.io/k/v7d0lnr) 
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) 
+- [2020-09-13-Go-设计模式（八）：装饰器模式](https://toutiao.io/k/v7d0lnr) 
+- [2020-09-13-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) 
+- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) 
 - [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) 
 - [2020-09-13-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) 
-- [2020-09-13-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) 
-- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) 
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) 
-- [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) 
-- [2020-09-13-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) 
+- [2020-09-13-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) 
 - [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) 
+- [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) 
+- [2020-09-13-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) 
+- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) 
 - [2020-09-13-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) 
+- [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) 
 - [2020-09-12-蓝队实战溯源反制手册分享](https://sec.thief.one/article_content?a_id=81963be55e7e0658827dca12219ddc75) 
 - [2020-09-12-极棒大赛志愿者开启招募-近距离接触顶尖极客](https://sec.thief.one/article_content?a_id=2da4dacc280dad7b75f7997b582a0af3) 
 - [2020-09-12-AI-初学者转行成功的秘诀只有一个,那就是……](https://sec.thief.one/article_content?a_id=e238cab05d1195db686d75c4679ff0f6) 

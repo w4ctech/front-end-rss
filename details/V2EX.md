@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-13 00:07:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 00:33:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,5 +43,3 @@
 - [2020-09-12-求-Windows-下免费的数据恢复软件](https://www.v2ex.com/t/706471) 
 - [2020-09-12-上海联通宽带桥接后-iptv-不能用](https://www.v2ex.com/t/706469) 
 - [2020-09-12-spyder-的代码编辑去和控制台有什么区别？](https://www.v2ex.com/t/706468) 
-- [2020-09-12-探讨-docker-容器里增加开机自启命令或者脚本的最佳方式](https://www.v2ex.com/t/706467) 
-- [2020-09-12-mac-下合并-pdf-的软件](https://www.v2ex.com/t/706466) 

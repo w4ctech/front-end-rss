@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 23:11:26，:rocket: 更新条数: +3616， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 23:21:25，:rocket: 更新条数: +3616， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-09-13-调整来了！全国多所高校缩短中秋国庆假期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiidICTu7VOPEn5Phukc0o200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-香港各界鼓劲打气-内地核酸检测支援队队员做好抗疫一线“侦察兵”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVc83ay6gUJfzXmzx67EZ200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-马来西亚卫生部：目前国内三大感染群皆涉及一线医护人员-要吸取教训](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikJp4ytBT1GB666xa7zN0200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-不可忽视老年人，多地应对无电子健康码群体的措施来了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyWAZKUk6Tt5F9Zn6oOoD200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-浙江岱山一外籍轮船-7-名船员核酸检测阳性，官方通报：已采取隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix8XGQsR83ZlNkupDpHeT200913&isfromapp=1) ![](assets/new.png)  
+- [2020-09-13-巴西新冠肺炎累计确诊人数超433万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilMEQU9fHls8p2lbhKecg200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-13-美国新冠肺炎确诊病例超651万-死亡病例超19.4万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPVm40JHUwHOBZ1l6VVNT200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-13-古巴主流媒体广泛关注联合国通过全球合作应对疫情相关决议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWINQ9oiHLbpvZLla5oQ200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-13-美国俄亥俄州立大学因新冠疫情取消了2021年春假](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8YQ4lDQSFZtYIMO7PYek200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-13-世卫组织：全球新冠肺炎确诊病例超过2863万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitzjGUszfmAhhBkpAT5MC200914&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,7 +967,7 @@
 </summary>
 
 
-- [2020-09-12-nodejs系统学习（二）——I/O操作](https://juejin.im/post/6871870857438822414) ![](assets/new.png)  
+- [2020-09-13-使用Vue3.0，我收获了哪些知识点（二）](https://juejin.im/post/6872113750636232712) ![](assets/new.png)  
 - [2020-09-12-JS查找数组中是否包含某个元素或对象](https://juejin.im/post/6871870155421384718) ![](assets/new.png)  
 - [2020-09-12-有关antd的datePicker组件自定义可选时间范围](https://juejin.im/post/6871870135880122376) ![](assets/new.png)  
 - [2020-09-12-fetch-API新特性:-Stremaing-Request](https://juejin.im/post/6871869373787668493) ![](assets/new.png)  
@@ -1149,16 +1149,16 @@
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-13-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
-- [2020-09-13-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
-- [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
 - [2020-09-13-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
+- [2020-09-13-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-13-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-13-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
 - [2020-09-13-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-13-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -16285,6 +16285,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "苹果官网 iTunes 无法下载，只显示谢谢下载，不会弹出下载窗口，中，美，港官网都一样",
+        "link": "https://www.v2ex.com/t/706615",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "大理和丽江，住宿和交通求指教～",
+        "link": "https://www.v2ex.com/t/706613",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "关于中国移动未经允许破坏私家围墙，架通讯电缆的解决方法？",
+        "link": "https://www.v2ex.com/t/706612",
+        "date": "2020-09-13"
+      },
+      {
         "title": "word 中为什么要将换行符显示出来，这是出于什么考虑",
         "link": "https://www.v2ex.com/t/706611",
         "date": "2020-09-13"
@@ -16458,21 +16473,6 @@
         "title": "[社招] [美资外企] iOS、android 高级工程师",
         "link": "https://www.v2ex.com/t/706566",
         "date": "2020-09-13"
-      },
-      {
-        "title": "快手 [北、上、杭、深] 招人了！",
-        "link": "https://www.v2ex.com/t/706565",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[北京社招] 字节跳动移动 OS 教育，高级前端工程师岗位热招啦！快到碗里来~~",
-        "link": "https://www.v2ex.com/t/706564",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "解析网站 log（如 Nginx access log），得出 PV， UV， topK access 是什么岗位？ ELK？",
-        "link": "https://www.v2ex.com/t/706562",
-        "date": "2020-09-13"
       }
     ]
   },
@@ -16639,63 +16639,8 @@
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-13"
-      },
-      {
         "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
         "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-13"
       },
       {
@@ -16704,13 +16649,68 @@
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-13"
       },
       {
         "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
         "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-13"
       }
     ]

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-13 03:12:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 03:24:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -216,6 +216,7 @@
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端之巅】滴滴出行小程序多语言-I18n-实践](https://www.ershicimi.com/p/b7e7335bdc2e3e334766965eca9626ba)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】仿微信朋友圈做了个小社区，小伙伴可以玩玩哈，有外包或者招聘需求的小伙伴也欢迎发帖哈，我们也会帮忙转发推广的，小程序的二维码如下，欢迎各位捧场哈](https://www.v2ex.com/t/706544)
 - [【安全热点】记一次小程序加解密测试](https://sec.thief.one/article_content?a_id=6d8c03267cba5037282d08697e4af441)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 

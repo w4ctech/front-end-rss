@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 09:03:43，:rocket: 更新条数: +3391， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 09:12:34，:rocket: 更新条数: +3391， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-13-韩国新增新冠肺炎确诊病例-121-例，政府下调首都圈防疫措施级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigCDYsQsWD4TRUgXwOTK8200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-澳大利亚墨尔本市民反对封城游行，警方已逮捕数十人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuP5SkIlPmy8ThWfNBu2i200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-香港财政司司长：感谢内地到港支援的化验人员-为香港恢复正常创造条件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPs4fj5TNKOERaXsKfMOh200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-​北美观察丨疫情当前「医疗旅游」受冲击-，墨西哥仍成为美国人「救命」的彼岸国？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitU4V0pJFxwYM0dfEqP8T200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-芬兰航空赫尔辛基—南京航班12日正式复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPI9efd1y8qfKM475s2Gu200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-香港新冠病毒普检计划已完成144.8万个样本核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijTNcJeMyBlz1FBNiBR94200913&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-13-用-ublock-屏蔽百度热榜](https://www.v2ex.com/t/706628) ![](assets/new.png)  
 - [2020-09-13-这种静态站点能部署吗](https://www.v2ex.com/t/706627) ![](assets/new.png)  
 - [2020-09-13-潮汕地区一般送什么茶叶给长辈？](https://www.v2ex.com/t/706626) ![](assets/new.png)  
 - [2020-09-13-超级马里奥-3-之-3-分钟速通解析](https://www.v2ex.com/t/706625) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-13-月经帖：-Macbook-合盖再开后-Wi-Fi-断连怎么破？](https://www.v2ex.com/t/706608) ![](assets/new.png)  
 - [2020-09-13-求推荐休闲向的种地游戏](https://www.v2ex.com/t/706607) ![](assets/new.png)  
 - [2020-09-13-set_time_limit-has-been-disabled-for-security-reasons-怎么弄啊？](https://www.v2ex.com/t/706605) ![](assets/new.png)  
-- [2020-09-13-登陆网页版-QQ-邮箱，提示连接不安全](https://www.v2ex.com/t/706604) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-13-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
-- [2020-09-13-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
+- [2020-09-13-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-13-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
 - [2020-09-13-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-13-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
 - [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-13-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-13-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

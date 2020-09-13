@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 04:03:45，:rocket: 更新条数: +3609， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 04:12:37，:rocket: 更新条数: +3609， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-13-Youtube-Premium-美区印度家庭会员年付-45！还差一位，需要的联系-telegram：-jiazhixin333](https://www.v2ex.com/t/706559) ![](assets/new.png)  
 - [2020-09-13-仿微信朋友圈做了个小社区，小伙伴可以玩玩哈，有外包或者招聘需求的小伙伴也欢迎发帖哈](https://www.v2ex.com/t/706558) ![](assets/new.png)  
 - [2020-09-13-配件避雷：-ANKER-的-C2L-线](https://www.v2ex.com/t/706557) ![](assets/new.png)  
 - [2020-09-13-将一个-flask-api-里接收的文件，再使用-requests-post-到另一个-flask-api](https://www.v2ex.com/t/706556) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-13-请教-adb-pm-disable-user-和-disable-的区别？](https://www.v2ex.com/t/706538) ![](assets/new.png)  
 - [2020-09-13-面临大量文件迁移工作，烦请大家推荐工具软件](https://www.v2ex.com/t/706537) ![](assets/new.png)  
 - [2020-09-13-怎么的操作才能让微博禁言一个人的微博号？](https://www.v2ex.com/t/706535) ![](assets/new.png)  
-- [2020-09-13-有人看了-netflix-这个新的纪录片了吗？关于科技巨头们如何利用大数据“作恶”](https://www.v2ex.com/t/706534) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,22 +1143,22 @@
 - [2020-09-13-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [2020-09-13-60-分钟看懂-HMM-的基本原理](https://toutiao.io/k/zo51bqn) ![](assets/new.png)  
 - [2020-09-13-网易大数据用户画像实践](https://toutiao.io/k/bqjhhe3) ![](assets/new.png)  
-- [2020-09-13-ClickHouse-性能关键性指标有哪些？](https://toutiao.io/k/67u7ojo) ![](assets/new.png)  
 - [2020-09-13-Go-设计模式（八）：装饰器模式](https://toutiao.io/k/v7d0lnr) ![](assets/new.png)  
+- [2020-09-13-ClickHouse-性能关键性指标有哪些？](https://toutiao.io/k/67u7ojo) ![](assets/new.png)  
 - [2020-09-13-Android-11-正式发布：开发者们的舞台已就绪](https://toutiao.io/k/r603v97) ![](assets/new.png)  
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-13-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
-- [2020-09-13-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-13-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
 - [2020-09-13-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-13-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-13-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-13-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
 - [2020-09-13-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-13-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-13-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
+- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

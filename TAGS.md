@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-13 06:47:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 06:49:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -408,11 +408,10 @@
 - [【程序员成长指北】QQ音乐客户端Web页面通用性能优化实践](https://www.ershicimi.com/p/2a26ee43140af3078bb280fa857918ae)
 - [【程序员成长指北】面试官：说一说递归如何优化-尾递归优化](https://www.ershicimi.com/p/6c29ac8722c5e7ee12e306e95c38cd96)
 - [【程序员成长指北】网站优化，这些工具你一定用得着](https://www.ershicimi.com/p/818dde30b12c00d9240413b1d620dfc9)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】点赞模块设计：Redis缓存-+-定时写入数据库实现高性能点赞功能](https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】ClickHouse-性能关键性指标有哪些？](https://toutiao.io/k/67u7ojo)
+- [【开发者头条】推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-13 14:34:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 14:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -60,7 +60,6 @@
 - [2020-09-05-TypeScript-4.1-新特性：字符串模板类型，Vuex-终于有救了？](https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80) 
 - [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) 
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f) 
-- [2020-09-12-Vuex-|-思路篇-|-第二版模块化](https://juejin.im/post/6871507099482849294) 
-- [2020-09-11-Vuex-|-具体实现篇-|-模块化实现](https://juejin.im/post/6871507081703686158) 
-- [2020-09-11-Vue-源码阅读第一步-深度解读响应式原理](https://juejin.im/post/6871478709506244615) 
+- [2020-09-12-【Vue系列】Vue的首次渲染流程](https://juejin.im/post/6871677801972367373) 
+- [2020-09-12-用-Vue3-写一个-swipe-cell](https://juejin.im/post/6871669209445695495) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

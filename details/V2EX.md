@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-13 23:34:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 23:47:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2020-09-13-据传-14-inch-MacBook-Pro-将会在-10.15-发布会上亮相](https://www.v2ex.com/t/706670) 
 - [2020-09-13-央行数字货币预测](https://www.v2ex.com/t/706669) 
 - [2020-09-13-八大视频剪辑素材网站推荐-宝藏素材](https://www.v2ex.com/t/706668) 
-- [2020-09-13-iPhone-无法连接自建的-Minecraft-的-Java-服务器](https://www.v2ex.com/t/706666) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 01:07:38，:rocket: 更新条数: +3610， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 01:26:25，:rocket: 更新条数: +3611， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-13-秋招-offer-选择，诚求大家建议](https://www.v2ex.com/t/706523) ![](assets/new.png)  
+- [2020-09-13-如何使用国内的信用卡在-Google-Store-美国官网下单?](https://www.v2ex.com/t/706522) ![](assets/new.png)  
+- [2020-09-13-安装-vue-时遇到了这个错误](https://www.v2ex.com/t/706520) ![](assets/new.png)  
 - [2020-09-13-想要学一下-Docker-+-PHP--Swoole，环境用-Window-+-Docker，还是-WSL2-+-Docker？](https://www.v2ex.com/t/706519) ![](assets/new.png)  
 - [2020-09-13-YouTube-premium-美区印度服发车。](https://www.v2ex.com/t/706518) ![](assets/new.png)  
 - [2020-09-12-请大家推荐高质量，清晰，简单的-Vue-和-Go-的代码](https://www.v2ex.com/t/706515) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-09-12-20200913-午夜俱乐部](https://www.v2ex.com/t/706500) ![](assets/new.png)  
 - [2020-09-12-硬件盲求推荐啦~](https://www.v2ex.com/t/706499) ![](assets/new.png)  
 - [2020-09-12-Linux-软连接求教](https://www.v2ex.com/t/706498) ![](assets/new.png)  
-- [2020-09-12-AGA-的质量果然还是不错的（毫无根据的对比一下）](https://www.v2ex.com/t/706497) ![](assets/new.png)  
-- [2020-09-12-有没控制程序-cpu-使用的开源项目？](https://www.v2ex.com/t/706496) ![](assets/new.png)  
-- [2020-09-12-请问各位大佬面试的时候怎么和面试官沟通确认这份工作是你想要的？](https://www.v2ex.com/t/706495) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,23 +1142,23 @@
 - [2020-09-13-任正非：若果有人拧熄了灯塔，我们怎么航行？|-码农周刊第-317-期](https://toutiao.io/k/ixcjpqn) ![](assets/new.png)  
 - [2020-09-13-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [2020-09-13-60-分钟看懂-HMM-的基本原理](https://toutiao.io/k/zo51bqn) ![](assets/new.png)  
+- [2020-09-13-网易大数据用户画像实践](https://toutiao.io/k/bqjhhe3) ![](assets/new.png)  
 - [2020-09-13-ClickHouse-性能关键性指标有哪些？](https://toutiao.io/k/67u7ojo) ![](assets/new.png)  
 - [2020-09-13-Android-11-正式发布：开发者们的舞台已就绪](https://toutiao.io/k/r603v97) ![](assets/new.png)  
-- [2020-09-13-网易大数据用户画像实践](https://toutiao.io/k/bqjhhe3) ![](assets/new.png)  
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-Go-设计模式（八）：装饰器模式](https://toutiao.io/k/v7d0lnr) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-13-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-13-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-13-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-13-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-13-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
 - [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
 - [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-13-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-13-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-13-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
-- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-13-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

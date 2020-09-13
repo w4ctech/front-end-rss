@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 10:47:26，:rocket: 更新条数: +3615， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 11:05:19，:rocket: 更新条数: +3390， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-13-不可忽视老年人，多地应对无电子健康码群体的措施来了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyWAZKUk6Tt5F9Zn6oOoD200913&isfromapp=1) ![](assets/new.png)  
+- [2020-09-13-浙江岱山一外籍轮船-7-名船员核酸检测阳性，官方通报：已采取隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix8XGQsR83ZlNkupDpHeT200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-韩国新增新冠肺炎确诊病例-121-例，政府下调首都圈防疫措施级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigCDYsQsWD4TRUgXwOTK8200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-澳大利亚墨尔本市民反对封城游行，警方已逮捕数十人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuP5SkIlPmy8ThWfNBu2i200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-香港财政司司长：感谢内地到港支援的化验人员-为香港恢复正常创造条件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPs4fj5TNKOERaXsKfMOh200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-​北美观察丨疫情当前「医疗旅游」受冲击-，墨西哥仍成为美国人「救命」的彼岸国？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitU4V0pJFxwYM0dfEqP8T200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-芬兰航空赫尔辛基—南京航班12日正式复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPI9efd1y8qfKM475s2Gu200913&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-13-SFC-游戏推荐？](https://www.v2ex.com/t/706651) ![](assets/new.png)  
+- [2020-09-13-请问有哪些平台能推广自己做的网站而不会被视为发广告](https://www.v2ex.com/t/706649) ![](assets/new.png)  
 - [2020-09-13-ios-14-beta-8-来了，-iPhone-12-真的要来咯](https://www.v2ex.com/t/706648) ![](assets/new.png)  
 - [2020-09-13-今晚高光时刻](https://www.v2ex.com/t/706646) ![](assets/new.png)  
 - [2020-09-13-转租-番禺大石转租一个单间](https://www.v2ex.com/t/706644) ![](assets/new.png)  
@@ -1095,8 +1077,6 @@
 - [2020-09-13-用-ublock-屏蔽百度热榜](https://www.v2ex.com/t/706628) ![](assets/new.png)  
 - [2020-09-13-这种静态站点能部署吗](https://www.v2ex.com/t/706627) ![](assets/new.png)  
 - [2020-09-13-潮汕地区一般送什么茶叶给长辈？](https://www.v2ex.com/t/706626) ![](assets/new.png)  
-- [2020-09-13-超级马里奥-3-之-3-分钟速通解析](https://www.v2ex.com/t/706625) ![](assets/new.png)  
-- [2020-09-13-IDEA-控制台的配置问题](https://www.v2ex.com/t/706624) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1129,16 @@
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-13-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-13-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
 - [2020-09-13-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-13-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
 - [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
+- [2020-09-13-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-13-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-13-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-13-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1170,26 +1150,26 @@
 </summary>
 
 
+- [2020-09-13-BUF大事件丨1780个流行安卓APP违反加密规则;工信部通报101款违...](https://sec.thief.one/article_content?a_id=885824c80b2d0c2441dba6b444c9484e) ![](assets/new.png)  
+- [2020-09-13-有那么一家公司,想把双因子认证技术开源](https://sec.thief.one/article_content?a_id=19a8aa6ae13fd1b0ab0cd6ab8a11360a) ![](assets/new.png)  
+- [2020-09-13-【视频】|-Python:关系运算符](https://sec.thief.one/article_content?a_id=9f9d6a3d441365749d098b27bb3794af) ![](assets/new.png)  
+- [2020-09-13-奇安信6档50期网安节目亮相2020国家网安周](https://sec.thief.one/article_content?a_id=8dcbc18d37487da9a1cb926a13995792) ![](assets/new.png)  
+- [2020-09-13-关于近期网络传播“天融信NGFW下一代防火墙设备存在漏洞”等情况...](https://sec.thief.one/article_content?a_id=b50f17cec0d8b08b253addafb5b06744) ![](assets/new.png)  
+- [2020-09-13-《2020年中国网络安全十大创新方向》报告发布](https://sec.thief.one/article_content?a_id=1a2fb95ec196d2d8c50bddfd9ad2d3e8) ![](assets/new.png)  
+- [2020-09-13-第二天火热继续](https://sec.thief.one/article_content?a_id=45fa82c597f2a4600009d6caa7d09c01) ![](assets/new.png)  
+- [2020-09-13-推荐几个优质原创的安全公众号](https://sec.thief.one/article_content?a_id=754fa466027ea4344251ebb58d1cd166) ![](assets/new.png)  
+- [2020-09-13-数据中心巨头Equinix遭遇勒索软件攻击,被勒索450万美元](https://sec.thief.one/article_content?a_id=c19ac2f16ea3917d84c3e298a5d34d7a) ![](assets/new.png)  
+- [2020-09-13-研究:车联网数据安全风险分析及相关建议](https://sec.thief.one/article_content?a_id=f8b7039ad768b7780f39767428eb60b2) ![](assets/new.png)  
+- [2020-09-13-为了鉴黄!写代码爬取了某-Hub-资源](https://sec.thief.one/article_content?a_id=0db5ebad29cd214da321daa5d51f55bf) ![](assets/new.png)  
+- [2020-09-13-蓝军近期需要关注的12个漏洞截止至8月20日](https://sec.thief.one/article_content?a_id=c0664a5302c7eeb355b99025b8dbfe08) ![](assets/new.png)  
+- [2020-09-13-《新闻1+1》数字经济的未来,中国能赢吗?](https://sec.thief.one/article_content?a_id=fd08bed218c31223adb0df6989c89318) ![](assets/new.png)  
+- [2020-09-12-太赞了!-豆瓣9.3分的《Linux-命令行大全》.pdf-限时下载](https://sec.thief.one/article_content?a_id=b5b7495d058cde9a1a8c6ac246233434) ![](assets/new.png)  
+- [2020-09-12-疯狂直播间涉嫌万人聚赌,日流水几百万](https://sec.thief.one/article_content?a_id=3a93ee5340ffd1a84a8c9d41a97f0a00) ![](assets/new.png)  
+- [2020-09-12-“圈子社区”官方线下沙龙暨＂豫剑2020＂网络安全红队峰会召开公告](https://sec.thief.one/article_content?a_id=1fd53c3feb31f3820583855aa7069a6c) ![](assets/new.png)  
 - [2020-09-12-蓝队实战溯源反制手册分享](https://sec.thief.one/article_content?a_id=81963be55e7e0658827dca12219ddc75) ![](assets/new.png)  
 - [2020-09-12-极棒大赛志愿者开启招募-近距离接触顶尖极客](https://sec.thief.one/article_content?a_id=2da4dacc280dad7b75f7997b582a0af3) ![](assets/new.png)  
 - [2020-09-12-AI-初学者转行成功的秘诀只有一个,那就是……](https://sec.thief.one/article_content?a_id=e238cab05d1195db686d75c4679ff0f6) ![](assets/new.png)  
 - [2020-09-12-网安周开幕:河南省金水区网络安全产业政策发布](https://sec.thief.one/article_content?a_id=7d3651290fcdeffb51e3540ddb1916c2) ![](assets/new.png)  
-- [2020-09-12-我用三个月时间,深入挖掘一条涉案金额上亿的黑色诈骗产业链](https://sec.thief.one/article_content?a_id=3ddc91b93ac870ab4c05d358dcec0d3d) ![](assets/new.png)  
-- [2020-09-12-智博会聚焦工业互联网安全-内生安全框架提供安全保障](https://sec.thief.one/article_content?a_id=e3a2cf0d03f9ba4ec9f23042dad46437) ![](assets/new.png)  
-- [2020-09-12-360胡振泉:“政+企”战略棋局全面铺开,360网络安全协同创新产业...](https://sec.thief.one/article_content?a_id=c02958c540a35854da320ee906dfec8c) ![](assets/new.png)  
-- [2020-09-12-以太坊区块链黑客松:-构造下一个数字世界](https://sec.thief.one/article_content?a_id=b8eebdf3dab92073cecd058d817158b5) ![](assets/new.png)  
-- [2020-09-12-《教育行业网络安全白皮书2020年》全文](https://sec.thief.one/article_content?a_id=b99615b0d1e99865a5556a194e2afe9c) ![](assets/new.png)  
-- [2020-09-12-Nuclei:一款快速自定义模板扫描工具](https://sec.thief.one/article_content?a_id=ee45d9a0ca185efecad7698450d78583) ![](assets/new.png)  
-- [2020-09-12-快报!英国纽卡斯尔大学遭受DoppelPaymer勒索软件攻击,导致大量...](https://sec.thief.one/article_content?a_id=12291b081260283734540ee4a9379b3d) ![](assets/new.png)  
-- [2020-09-12-推荐几个优质原创的安全公众号](https://sec.thief.one/article_content?a_id=32f82522eadfe5ffdfa2bde86c8f9eb8) ![](assets/new.png)  
-- [2020-09-12-五大网络空间攻击威胁及应对策略上](https://sec.thief.one/article_content?a_id=33da555c1699b0ba57cb9b566884c6fa) ![](assets/new.png)  
-- [2020-09-12-一二线城市知名-IT-互联网公司名单新版](https://sec.thief.one/article_content?a_id=163b79436878c67831a8f8d240dd9d22) ![](assets/new.png)  
-- [2020-09-12-从手机失窃事件看手机安全问题](https://sec.thief.one/article_content?a_id=d550f1f3c13708b02436a95ae9b0e829) ![](assets/new.png)  
-- [2020-09-12-央行发行数字货币,和我们有什么关系?](https://sec.thief.one/article_content?a_id=5f50440465b872915d46e106d5665f14) ![](assets/new.png)  
-- [2020-09-11-天融信关于TopAPP-LB产品旧版本存在SQL注入漏洞的说明](https://sec.thief.one/article_content?a_id=11623956800cb0d55d6bb769ee78843c) ![](assets/new.png)  
-- [2020-09-11-我和JS文件不得不说的故事](https://sec.thief.one/article_content?a_id=630a9b1d3482e432a0172abd933451e8) ![](assets/new.png)  
-- [2020-09-11-95后大学生情侣拍不雅视频获利53万,或判十年以上有期徒刑](https://sec.thief.one/article_content?a_id=f3f1843310bcddf1ddb7d7a0209bc04e) ![](assets/new.png)  
-- [2020-09-11-云的声音|腾讯安全董志强:用云原生安全打造易用可信赖的云](https://sec.thief.one/article_content?a_id=8f6c153a7630ffd891cb1025e6b2ad26) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

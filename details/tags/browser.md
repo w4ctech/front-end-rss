@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-13 10:47:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 11:05:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,14 +29,6 @@
 - [2020-09-08-你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e) 
 - [2020-09-04-如何防止重复发送ajax请求](https://www.ershicimi.com/p/98a8850e1ffb750ead2a74a1665adb83) 
 - [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) 
@@ -47,6 +39,10 @@
 - [2020-09-13-安卓-APP-软件安全方面你们做了哪些操作呢](https://www.v2ex.com/t/706617) 
 - [2020-09-13-登陆网页版-QQ-邮箱，提示连接不安全](https://www.v2ex.com/t/706604) 
 - [2020-09-13-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-13-《2020年中国网络安全十大创新方向》报告发布](https://sec.thief.one/article_content?a_id=1a2fb95ec196d2d8c50bddfd9ad2d3e8) 
+- [2020-09-13-推荐几个优质原创的安全公众号](https://sec.thief.one/article_content?a_id=754fa466027ea4344251ebb58d1cd166) 
+- [2020-09-13-研究:车联网数据安全风险分析及相关建议](https://sec.thief.one/article_content?a_id=f8b7039ad768b7780f39767428eb60b2) 
+- [2020-09-12-“圈子社区”官方线下沙龙暨＂豫剑2020＂网络安全红队峰会召开公告](https://sec.thief.one/article_content?a_id=1fd53c3feb31f3820583855aa7069a6c) 
 - [2020-09-12-网安周开幕:河南省金水区网络安全产业政策发布](https://sec.thief.one/article_content?a_id=7d3651290fcdeffb51e3540ddb1916c2) 
 - [2020-09-12-智博会聚焦工业互联网安全-内生安全框架提供安全保障](https://sec.thief.one/article_content?a_id=e3a2cf0d03f9ba4ec9f23042dad46437) 
 - [2020-09-12-360胡振泉:“政+企”战略棋局全面铺开,360网络安全协同创新产业...](https://sec.thief.one/article_content?a_id=c02958c540a35854da320ee906dfec8c) 
@@ -68,6 +64,3 @@
 - [2020-09-09-信息安全漏洞周报2020年第35期](https://sec.thief.one/article_content?a_id=7b84e676163ec41e67745b7244d17af1) 
 - [2020-09-09-微软9月安全更新补丁和高危漏洞风险提示](https://sec.thief.one/article_content?a_id=19b77c5a558e5e6e460478e201988e70) 
 - [2020-09-09-【漏洞通告】微软9月安全更新多个产品高危漏洞通告](https://sec.thief.one/article_content?a_id=367f54d6ec3b46642d3a3df03bac82ed) 
-- [2020-09-08-阿里巴巴安全部表示:盗号概率非常低](https://sec.thief.one/article_content?a_id=7117cfac6a2888b066dfa20178bf90f0) 
-- [2020-09-08-强蹭开学热,Pojie、WastedLocker勒索病毒8月“换新”报到!](https://sec.thief.one/article_content?a_id=f33253e51372e61b1a04d4252869be5f) 
-- [2020-09-08-征文-|-​黄乐:安全产品POC那些事](https://sec.thief.one/article_content?a_id=12e7415421afa57cea0c378df7e53114) 

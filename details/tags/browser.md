@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-13 08:12:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 08:24:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,6 +34,7 @@
 - [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) 
 - [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-13-安卓-APP-软件安全方面你们做了哪些操作呢](https://www.v2ex.com/t/706617) 
 - [2020-09-13-登陆网页版-QQ-邮箱，提示连接不安全](https://www.v2ex.com/t/706604) 
 - [2020-09-13-浏览器扩展-从选择的书签文件夹里-roll-一条书签出来](https://www.v2ex.com/t/706581) 
 - [2020-09-13-想请问一下-selenium-中会不会遇到有时会不会自动关闭浏览器的情况](https://www.v2ex.com/t/706574) 

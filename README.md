@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 16:24:38，:rocket: 更新条数: +3533， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 16:32:40，:rocket: 更新条数: +3353， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,12 +20,12 @@
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
-- [React中文社区](#react中文社区)  
+- [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
-- [前端开发博客](#前端开发博客)  
+- [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
@@ -39,11 +39,11 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -198,6 +198,26 @@
 </summary>
 
 
+- [2020-08-19-招个数据分析工程师，我给25k](https://www.ershicimi.com/p/003c2b9ee98c0992b36c5258e82747d3) ![](assets/new.png)  
+- [2020-07-13-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) ![](assets/new.png)  
+- [2020-05-17-一文掌握GO语言实战技能三](https://www.ershicimi.com/p/46cac625ac351e226dc4486f2397cb50) ![](assets/new.png)  
+- [2020-05-17-一文掌握GO语言实战技能二](https://www.ershicimi.com/p/0efd18d6a0774aa88db09fc12989a6ab) ![](assets/new.png)  
+- [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) ![](assets/new.png)  
+- [2020-05-14-一文掌握GO语言实战技能一---万字长文](https://www.ershicimi.com/p/b4aa653a71762c4ac0d8fb3a4d4d1c63) ![](assets/new.png)  
+- [2020-05-14-一文达到Mysql实战水平-习题答案](https://www.ershicimi.com/p/541e3bf6cc03ebd608c403da8cd4f8d3) ![](assets/new.png)  
+- [2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) ![](assets/new.png)  
+- [2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) ![](assets/new.png)  
+- [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) ![](assets/new.png)  
+- [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88) ![](assets/new.png)  
+- [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a) ![](assets/new.png)  
+- [2019-11-28-来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c) ![](assets/new.png)  
+- [2019-11-25-一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6) ![](assets/new.png)  
+- [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) ![](assets/new.png)  
+- [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) ![](assets/new.png)  
+- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) ![](assets/new.png)  
+- [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) ![](assets/new.png)  
+- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) ![](assets/new.png)  
+- [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) ![](assets/new.png)  
 - [......【查看更多】......](./details/React中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -333,6 +353,26 @@
 </summary>
 
 
+- [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) ![](assets/new.png)  
+- [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) ![](assets/new.png)  
+- [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) ![](assets/new.png)  
+- [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) ![](assets/new.png)  
+- [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) ![](assets/new.png)  
+- [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) ![](assets/new.png)  
+- [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) ![](assets/new.png)  
+- [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) ![](assets/new.png)  
+- [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) ![](assets/new.png)  
+- [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) ![](assets/new.png)  
+- [2020-02-13-工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040) ![](assets/new.png)  
+- [2020-02-12-工具控-react-优化里面用到-lodash.memoize](https://www.ershicimi.com/p/8030f9ceac2221818a92f0a24cede590) ![](assets/new.png)  
+- [2020-02-11-工具控babel-react-optimize](https://www.ershicimi.com/p/87be70d3d4719eedb42df24f6303ca69) ![](assets/new.png)  
+- [2020-02-07-工具控来看看代码高亮必备](https://www.ershicimi.com/p/56debedff7f9d3c357f3621de7a64aa2) ![](assets/new.png)  
+- [2020-02-06-阿里-ice.work-探秘系列-react-materials-之Label](https://www.ershicimi.com/p/41048b591220c58f73c8e9945b1514c1) ![](assets/new.png)  
+- [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) ![](assets/new.png)  
+- [2020-02-04-阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497) ![](assets/new.png)  
+- [2020-02-03-阿里-ice.work-探秘系列-disabled-reload](https://www.ershicimi.com/p/51eed11abceaabb3dd7f2ceed864d182) ![](assets/new.png)  
+- [2020-01-16-阿里-ice.work-探秘系列-withRouter-的使用](https://www.ershicimi.com/p/29c023dd30374ab258ceef6aeaddb1e2) ![](assets/new.png)  
+- [2020-01-15-阿里-ice.work-探秘系列-useState、useEffect](https://www.ershicimi.com/p/23159dcf23f0f8f92efd0a91c7a316f2) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发博客.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -710,26 +750,6 @@
 </summary>
 
 
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -834,6 +854,26 @@
 </summary>
 
 
+- [2020-09-12-你还在用-BeanUtils？试试-MapStruct，优雅的对象转换解决方案！](https://www.ershicimi.com/p/816ed102e3ab42efb878a1e90ad6d26a) ![](assets/new.png)  
+- [2020-09-12-太傻了！下次二面再回答不好“秒杀系统“设计原理，我就捶死自己...](https://www.ershicimi.com/p/5f7e72ad1aaf55afb14d3301dd788684) ![](assets/new.png)  
+- [2020-09-12-审阅“史上”最烂的代码](https://www.ershicimi.com/p/dda0f24b938817674882112d59aca7d9) ![](assets/new.png)  
+- [2020-09-11-牛逼！IDEA不愧为神器，结合Groovy脚本，简直天下无敌！](https://www.ershicimi.com/p/6e662cf05c1e9c7b3d74fa40cdbe4e95) ![](assets/new.png)  
+- [2020-09-11-为什么-Redis-要比-Memcached-更火？](https://www.ershicimi.com/p/86f6bf89758f8ce02795855682497ad6) ![](assets/new.png)  
+- [2020-09-11-点赞模块设计：Redis缓存-+-定时写入数据库实现高性能点赞功能](https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c) ![](assets/new.png)  
+- [2020-09-10-分享400多道算法题，来挑战吧](https://www.ershicimi.com/p/4e88bfd1eb96ea5426860ad1aa28700b) ![](assets/new.png)  
+- [2020-09-10-写这么骚的代码，真不怕被同事揍么？](https://www.ershicimi.com/p/4bcaaa6722516d9bd6e47236490031d2) ![](assets/new.png)  
+- [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) ![](assets/new.png)  
+- [2020-09-09-支付宝二面：Mybatis接口Mapper内的方法为啥不能重载吗？我直接懵逼了...](https://www.ershicimi.com/p/99f6a7a94269be4d747af02899618524) ![](assets/new.png)  
+- [2020-09-09-为什么程序员都不喜欢使用-switch-，而是大量的-if……else-if-？](https://www.ershicimi.com/p/88eb308e4bf0cff894702cd7cb62615c) ![](assets/new.png)  
+- [2020-09-09-天啊，为什么我的-Redis-变慢了。。](https://www.ershicimi.com/p/205a766e32b93e5da04bc5266003b271) ![](assets/new.png)  
+- [2020-09-08-异地多活，企业上云的必然趋势！](https://www.ershicimi.com/p/7bed8d4aa9d75730c23523fe70ee400f) ![](assets/new.png)  
+- [2020-09-08-为啥不能用uuid做MySQL的主键！？](https://www.ershicimi.com/p/a231e6d67d49e1cc13fccfd8e9ce5a9c) ![](assets/new.png)  
+- [2020-09-08-Redis-开发陷阱及避坑指南！](https://www.ershicimi.com/p/2c0744b80cef7ee9a155eab097c9b53f) ![](assets/new.png)  
+- [2020-09-07-为什么-Java-中“1000==1000”为false，而”100==100“为true？](https://www.ershicimi.com/p/3e55ad85e18e6fdf5349397ac6f03d90) ![](assets/new.png)  
+- [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) ![](assets/new.png)  
+- [2020-09-07-Spring-Boot-+-Redis解决商品秒杀库存超卖，看这篇文章就够了](https://www.ershicimi.com/p/8df72d817dfb02c53b59ac2ffb8ee322) ![](assets/new.png)  
+- [2020-09-06-Lambda-表达式入门，这篇够了！](https://www.ershicimi.com/p/645438d78655b545bd9965860425f519) ![](assets/new.png)  
+- [2020-09-06-做一个网站多少钱？](https://www.ershicimi.com/p/118e84f2cb597a6ab93cff4351822121) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1017,26 +1057,6 @@
 </summary>
 
 
-- [2020-09-13-有没有一个这样的虚拟社交软件？](https://www.v2ex.com/t/706706) ![](assets/new.png)  
-- [2020-09-13-广州联通今年废了吗](https://www.v2ex.com/t/706705) ![](assets/new.png)  
-- [2020-09-13-有思想深度和严谨逻辑的长文去哪里找？](https://www.v2ex.com/t/706704) ![](assets/new.png)  
-- [2020-09-13-在完全不使用的情况下，-iOS-微博-App-每天稳定占用约一小时屏幕使用时间](https://www.v2ex.com/t/706703) ![](assets/new.png)  
-- [2020-09-13-sage-能判断级数的敛散性么？](https://www.v2ex.com/t/706702) ![](assets/new.png)  
-- [2020-09-13-校招入职干了三个月，对未来发展有点迷茫](https://www.v2ex.com/t/706700) ![](assets/new.png)  
-- [2020-09-13-技术讨论提供公开透传接口有什么风险?](https://www.v2ex.com/t/706698) ![](assets/new.png)  
-- [2020-09-13-毕业-3-个月，小团队，真要变全干工程师了](https://www.v2ex.com/t/706697) ![](assets/new.png)  
-- [2020-09-13-有飞蚊症的程序员们，你们现在怎么样？](https://www.v2ex.com/t/706696) ![](assets/new.png)  
-- [2020-09-13-快手内推-北京-杭州-深圳-上海](https://www.v2ex.com/t/706695) ![](assets/new.png)  
-- [2020-09-13-突然想起了刚入安卓手机时的塔防游戏-Fieldrunners](https://www.v2ex.com/t/706694) ![](assets/new.png)  
-- [2020-09-13-怎么应对职场圣母白莲花呢？](https://www.v2ex.com/t/706692) ![](assets/new.png)  
-- [2020-09-13-请问-Powershell-怎么直接拼接参数执行命令？](https://www.v2ex.com/t/706690) ![](assets/new.png)  
-- [2020-09-13-Python-排列组合生成](https://www.v2ex.com/t/706689) ![](assets/new.png)  
-- [2020-09-13-大家用什么办法加快静态博客（挂在-github-那种）图片的加载速度的？（cdn，压缩图片）](https://www.v2ex.com/t/706688) ![](assets/new.png)  
-- [2020-09-13-又来招聘远程开发啦-Golang-区块链开发](https://www.v2ex.com/t/706687) ![](assets/new.png)  
-- [2020-09-13-要怎么引导女朋友不去看那些奇奇怪怪的视频/文章](https://www.v2ex.com/t/706685) ![](assets/new.png)  
-- [2020-09-13-远程，还是双语邦的云-Team----再求一名优秀-Flutter-程序员](https://www.v2ex.com/t/706684) ![](assets/new.png)  
-- [2020-09-13-十五年程序员转行卖水果，老婆家里石榴园云南大理丰收了，软籽不吐籽个大水甜可榨汁喝（100-元一箱-5-公斤装包邮）](https://www.v2ex.com/t/706683) ![](assets/new.png)  
-- [2020-09-13-算是个彩蛋吗？（Game-Center）](https://www.v2ex.com/t/706682) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,6 +1068,26 @@
 </summary>
 
 
+- [2020-09-13-用完-Gradle-之后，有点嫌弃-Maven了。真的-贼好用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13771&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP6FN-62Em4THdQK_jEGf6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-下载！《Linux-命令行大全》pdf-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13770&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp8v5mX9Wxuyh__aUKomiLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-怼你没商量！Linux之父手删AWS-工程师提交的补丁，表示这是愚蠢的行为，网友：我的快乐又回来了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13769&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ-PJ5ajfxHcLYEJWlszR5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-主宰这个世界的-10-大算法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13768&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlIeT6xeYWx0bYiIDgiJHpQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-重磅！阿里推出国产开源的-jdk-！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13767&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyvSp2eRV201wsEoJ0xxinA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-同事向我展示他的代码是怎么工作的-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13766&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fke9U-FQywihhe0ALo2q7IQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-Android-DEPPLINK、APPLink-原理简析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13764&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1Kkt6zoqa670f-Dez8XBLw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-滴滴开源-移动开发-方面的-4-个项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fcwf-DSFx4T0AsR2AuEH0zA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-新手不用愁了，谷歌推出了免费的-Kotlin-和-Android-开发课程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13762&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWcMkQp8DP_PO2rgA_Oe0pA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-Google-推荐在-MVVM-架构中使用-Kotlin-Flow-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13761&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWknyggP5F8mjRiUcOStn3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-是时候上车-Jetpack-了，内含音乐播放器实例-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13760&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FawtTAUx47pjTcQVJxkMydA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-海外开发者账号上架总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13759&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2m91yKmgDJ3B7E-ZnpiFlw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-如何做好一场线上培训-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13758&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fa-good-online-training%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-图说敏捷项目管理中的价值-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13757&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management-value%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-如何制作出让女朋友满意的大片-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13756&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F231068497%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-如何实现一个优雅的Python的Json序列化库-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13755&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-python-json-library%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-团队在高速扩张中的能力构建与质量保证-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13754&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcapacity-building-and-quality-assurance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-ThoughtWorks的敏捷测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13753&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-thoughtworks%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-13-不要让远程办公成为团队协作的绊脚石-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13752&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fremote-cooperation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,16 +1109,16 @@
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
-- [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-13-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
 - [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
 - [2020-09-13-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
+- [2020-09-13-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-13-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-13-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-13-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
+- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
 - [2020-09-13-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-13-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

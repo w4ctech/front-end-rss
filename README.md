@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 02:13:24，:rocket: 更新条数: +3388， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 02:26:14，:rocket: 更新条数: +3389， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-13-怎么的操作才能让微博禁言一个人的微博号？](https://www.v2ex.com/t/706535) ![](assets/new.png)  
+- [2020-09-13-有人看了-netflix-这个新的纪录片了吗？关于科技巨头们如何利用大数据“作恶”](https://www.v2ex.com/t/706534) ![](assets/new.png)  
 - [2020-09-13-如何在访问-V-站某些结点时不使用特殊的背景，比如-nodejs，黑色的和主站白色的反差太大](https://www.v2ex.com/t/706533) ![](assets/new.png)  
 - [2020-09-13-烦死了，经常周末给你安排任务，有时在路上，有时还没起来就发信息过来，无时无刻，工作生活还有界限吗](https://www.v2ex.com/t/706532) ![](assets/new.png)  
 - [2020-09-13-现在大家还在订阅的技术博客有哪些](https://www.v2ex.com/t/706531) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-12-盒马官网的-app-下载链接无法下载](https://www.v2ex.com/t/706513) ![](assets/new.png)  
 - [2020-09-12-深圳租房怎么选？大佬分一下区位](https://www.v2ex.com/t/706512) ![](assets/new.png)  
 - [2020-09-12-受伤成为废人的第一周](https://www.v2ex.com/t/706510) ![](assets/new.png)  
-- [2020-09-12-深圳/北京腾讯招聘-AI-后台工程师/AI-后台高级工程师-组内直招-，团队氛围和谐，技术大佬云集，欢迎来撩！](https://www.v2ex.com/t/706508) ![](assets/new.png)  
-- [2020-09-12-感觉毕业进一家养老公司确实是我人生的重大失误](https://www.v2ex.com/t/706506) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,23 +1122,23 @@
 - [2020-09-13-任正非：若果有人拧熄了灯塔，我们怎么航行？|-码农周刊第-317-期](https://toutiao.io/k/ixcjpqn) ![](assets/new.png)  
 - [2020-09-13-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [2020-09-13-60-分钟看懂-HMM-的基本原理](https://toutiao.io/k/zo51bqn) ![](assets/new.png)  
-- [2020-09-13-网易大数据用户画像实践](https://toutiao.io/k/bqjhhe3) ![](assets/new.png)  
 - [2020-09-13-ClickHouse-性能关键性指标有哪些？](https://toutiao.io/k/67u7ojo) ![](assets/new.png)  
+- [2020-09-13-网易大数据用户画像实践](https://toutiao.io/k/bqjhhe3) ![](assets/new.png)  
 - [2020-09-13-Android-11-正式发布：开发者们的舞台已就绪](https://toutiao.io/k/r603v97) ![](assets/new.png)  
 - [2020-09-13-Go-设计模式（八）：装饰器模式](https://toutiao.io/k/v7d0lnr) ![](assets/new.png)  
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
-- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-13-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
-- [2020-09-13-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-13-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-13-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
-- [2020-09-13-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
 - [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-13-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-13-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-13-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-13-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-13-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

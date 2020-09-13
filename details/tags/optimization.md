@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-13 02:13:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 02:26:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -28,4 +28,3 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-09-13-Gitee-为啥网页性能这么高？](https://www.v2ex.com/t/706525) 
 - [2020-09-13-ClickHouse-性能关键性指标有哪些？](https://toutiao.io/k/67u7ojo) 
-- [2020-09-13-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) 

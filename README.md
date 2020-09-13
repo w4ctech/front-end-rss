@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 11:21:40，:rocket: 更新条数: +3613， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 11:32:26，:rocket: 更新条数: +3612， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-13-高手看过来,Mac-OS-下-ShadowSocketX-NG-R8-的科学上网问题,快气死了!](https://www.v2ex.com/t/706660) ![](assets/new.png)  
 - [2020-09-13-🤐-这里有一个开发者，然后就，就...就...就...差一些点子了喂](https://www.v2ex.com/t/706659) ![](assets/new.png)  
 - [2020-09-13-收京东-E-卡，-1500-左右](https://www.v2ex.com/t/706658) ![](assets/new.png)  
 - [2020-09-13-Python-与-mysql-正规则不一样吗？-问个-mysql-数据替换的正规则。哪位朋友帮我看看下面-mysql-正规则有什么问题？-谢谢](https://www.v2ex.com/t/706657) ![](assets/new.png)  
@@ -1084,7 +1085,6 @@
 - [2020-09-13-ElasticSearch7.9.1,-ik-分词无法插入数据](https://www.v2ex.com/t/706655) ![](assets/new.png)  
 - [2020-09-13-SFC-游戏推荐？](https://www.v2ex.com/t/706651) ![](assets/new.png)  
 - [2020-09-13-请问有哪些平台能推广自己做的网站而不会被视为发广告](https://www.v2ex.com/t/706649) ![](assets/new.png)  
-- [2020-09-13-ios-14-beta-8-来了，-iPhone-12-真的要来咯](https://www.v2ex.com/t/706648) ![](assets/new.png)  
 - [2020-09-13-今晚高光时刻](https://www.v2ex.com/t/706646) ![](assets/new.png)  
 - [2020-09-13-转租-番禺大石转租一个单间](https://www.v2ex.com/t/706644) ![](assets/new.png)  
 - [2020-09-13-请问单网卡双网关-如何做到从外网都可以访问](https://www.v2ex.com/t/706642) ![](assets/new.png)  
@@ -1149,16 +1149,16 @@
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-13-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-13-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
 - [2020-09-13-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-13-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-13-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-13-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
+- [2020-09-13-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
-- [2020-09-13-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
-- [2020-09-13-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-13-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

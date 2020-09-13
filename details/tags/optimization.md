@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-13 21:49:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 22:03:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -16,7 +16,7 @@
 - [2020-08-09-编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab) 
 - [2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb) 
 - [2020-08-28-从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/40104f0698599d721f2fd833ca8a0558) 
-- [2020-08-30-从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/3b2320a714b0da3f00d2ef5987edc815) 
+- [2020-09-13-腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/0dc883c40b3a91eda21efc54ba4b23f9) 
 - [2020-09-11-大规格文件的上传优化实用篇](https://www.ershicimi.com/p/1250d17c61d70da781c7585205c595cd) 
 - [2020-09-08-QQ音乐客户端Web页面通用性能优化实践](https://www.ershicimi.com/p/2a26ee43140af3078bb280fa857918ae) 
 - [2020-09-07-面试官：说一说递归如何优化-尾递归优化](https://www.ershicimi.com/p/6c29ac8722c5e7ee12e306e95c38cd96) 
@@ -33,3 +33,4 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-09-13-大家用什么办法加快静态博客（挂在-github-那种）图片的加载速度的？（cdn，压缩图片）](https://www.v2ex.com/t/706688) 
 - [2020-09-13-ClickHouse-性能关键性指标有哪些？](https://toutiao.io/k/67u7ojo) 
+- [2020-09-13-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) 

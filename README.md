@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 03:24:07，:rocket: 更新条数: +3386， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 03:32:20，:rocket: 更新条数: +3386， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,10 +96,10 @@
 
 
 - [2020-09-13-芬兰航空赫尔辛基—南京航班12日正式复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPI9efd1y8qfKM475s2Gu200913&isfromapp=1) ![](assets/new.png)  
+- [2020-09-13-香港新冠病毒普检计划已完成144.8万个样本核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijTNcJeMyBlz1FBNiBR94200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-英国牛津大学将恢复新冠疫苗临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Hwc70LIwwJp5NNZ6Pib200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-美多州山火持续肆虐-专家：山火烟尘使人更易感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirFuWyxS4CMSHjcC6vb7S200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-12-又一名人感染！马竞官方宣布主教练西蒙尼新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimesWZw0LT8vWWqONCfdd200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-12-疫情期间巴西民众消费倾向明显变化-食物和娱乐产品为主](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2ebipBufIbKyGd2gmV7T200913&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,20 +1125,20 @@
 - [2020-09-13-网易大数据用户画像实践](https://toutiao.io/k/bqjhhe3) ![](assets/new.png)  
 - [2020-09-13-ClickHouse-性能关键性指标有哪些？](https://toutiao.io/k/67u7ojo) ![](assets/new.png)  
 - [2020-09-13-Android-11-正式发布：开发者们的舞台已就绪](https://toutiao.io/k/r603v97) ![](assets/new.png)  
-- [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-Go-设计模式（八）：装饰器模式](https://toutiao.io/k/v7d0lnr) ![](assets/new.png)  
+- [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-13-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
-- [2020-09-13-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [2020-09-13-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
 - [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
-- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-13-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-13-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-13-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
+- [2020-09-13-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-13-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
+- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-13-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

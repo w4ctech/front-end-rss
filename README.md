@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 15:49:19，:rocket: 更新条数: +3388， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 16:04:03，:rocket: 更新条数: +3390， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-13-有没有一个这样的虚拟社交软件？](https://www.v2ex.com/t/706706) ![](assets/new.png)  
+- [2020-09-13-广州联通今年废了吗](https://www.v2ex.com/t/706705) ![](assets/new.png)  
+- [2020-09-13-有思想深度和严谨逻辑的长文去哪里找？](https://www.v2ex.com/t/706704) ![](assets/new.png)  
+- [2020-09-13-在完全不使用的情况下，-iOS-微博-App-每天稳定占用约一小时屏幕使用时间](https://www.v2ex.com/t/706703) ![](assets/new.png)  
 - [2020-09-13-sage-能判断级数的敛散性么？](https://www.v2ex.com/t/706702) ![](assets/new.png)  
 - [2020-09-13-校招入职干了三个月，对未来发展有点迷茫](https://www.v2ex.com/t/706700) ![](assets/new.png)  
 - [2020-09-13-技术讨论提供公开透传接口有什么风险?](https://www.v2ex.com/t/706698) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-13-远程，还是双语邦的云-Team----再求一名优秀-Flutter-程序员](https://www.v2ex.com/t/706684) ![](assets/new.png)  
 - [2020-09-13-十五年程序员转行卖水果，老婆家里石榴园云南大理丰收了，软籽不吐籽个大水甜可榨汁喝（100-元一箱-5-公斤装包邮）](https://www.v2ex.com/t/706683) ![](assets/new.png)  
 - [2020-09-13-算是个彩蛋吗？（Game-Center）](https://www.v2ex.com/t/706682) ![](assets/new.png)  
-- [2020-09-13-北京离京急出大行-P18，-20-寸折叠自行车，-18-速，送头盔、码表、手电筒。坐标通州，尽量面交自取吧。1750-元，详见咸鱼。](https://www.v2ex.com/t/706680) ![](assets/new.png)  
-- [2020-09-13-一场持续了五年的技术大会还能如何升级？-GopherChina2020-给你答案！](https://www.v2ex.com/t/706677) ![](assets/new.png)  
-- [2020-09-13-SwiftUI-实现的开源-macOS-状态栏监控-app](https://www.v2ex.com/t/706676) ![](assets/new.png)  
-- [2020-09-13-mac-os-10.15.6-监听权限问题](https://www.v2ex.com/t/706675) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-13-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
-- [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-13-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-13-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
+- [2020-09-13-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-13-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-13-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
 - [2020-09-13-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-13-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
+- [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
 - [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

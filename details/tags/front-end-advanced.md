@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-13 15:49:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 16:04:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -16,5 +16,4 @@
 - [2020-09-10-分享400多道算法题，来挑战吧](https://www.ershicimi.com/p/4e88bfd1eb96ea5426860ad1aa28700b) 
 - [2020-09-08-算法学不会？可能你该补补数学了丨极客时间](https://www.ershicimi.com/p/aa6dd30e2050ab90d15fd90aba0e0998) 
 - [2020-09-13-十三先生的个人博客-https://www.shisanblog.cn-上线啦啦啦](https://www.v2ex.com/t/706672) 
-- [2020-09-13-ElasticSearch7.9.1,-ik-分词无法插入数据](https://www.v2ex.com/t/706655) 
 - [2020-09-13-主宰这个世界的-10-大算法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13768&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlIeT6xeYWx0bYiIDgiJHpQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

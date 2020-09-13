@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 16:48:53，:rocket: 更新条数: +3390， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 17:03:40，:rocket: 更新条数: +3353， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1057,26 +1057,6 @@
 </summary>
 
 
-- [2020-09-13-有没有转租青岛公寓的朋友？](https://www.v2ex.com/t/706708) ![](assets/new.png)  
-- [2020-09-13-有人想吐槽社保的各种-app-吗？](https://www.v2ex.com/t/706707) ![](assets/new.png)  
-- [2020-09-13-有没有一个这样的虚拟社交软件？](https://www.v2ex.com/t/706706) ![](assets/new.png)  
-- [2020-09-13-广州联通今年废了吗](https://www.v2ex.com/t/706705) ![](assets/new.png)  
-- [2020-09-13-有思想深度和严谨逻辑的长文去哪里找？](https://www.v2ex.com/t/706704) ![](assets/new.png)  
-- [2020-09-13-在完全不使用的情况下，-iOS-微博-App-每天稳定占用约一小时屏幕使用时间](https://www.v2ex.com/t/706703) ![](assets/new.png)  
-- [2020-09-13-sage-能判断级数的敛散性么？](https://www.v2ex.com/t/706702) ![](assets/new.png)  
-- [2020-09-13-校招入职干了三个月，对未来发展有点迷茫](https://www.v2ex.com/t/706700) ![](assets/new.png)  
-- [2020-09-13-技术讨论提供公开透传接口有什么风险?](https://www.v2ex.com/t/706698) ![](assets/new.png)  
-- [2020-09-13-毕业-3-个月，小团队，真要变全干工程师了](https://www.v2ex.com/t/706697) ![](assets/new.png)  
-- [2020-09-13-有飞蚊症的程序员们，你们现在怎么样？](https://www.v2ex.com/t/706696) ![](assets/new.png)  
-- [2020-09-13-快手内推-北京-杭州-深圳-上海](https://www.v2ex.com/t/706695) ![](assets/new.png)  
-- [2020-09-13-突然想起了刚入安卓手机时的塔防游戏-Fieldrunners](https://www.v2ex.com/t/706694) ![](assets/new.png)  
-- [2020-09-13-怎么应对职场圣母白莲花呢？](https://www.v2ex.com/t/706692) ![](assets/new.png)  
-- [2020-09-13-请问-Powershell-怎么直接拼接参数执行命令？](https://www.v2ex.com/t/706690) ![](assets/new.png)  
-- [2020-09-13-Python-排列组合生成](https://www.v2ex.com/t/706689) ![](assets/new.png)  
-- [2020-09-13-大家用什么办法加快静态博客（挂在-github-那种）图片的加载速度的？（cdn，压缩图片）](https://www.v2ex.com/t/706688) ![](assets/new.png)  
-- [2020-09-13-又来招聘远程开发啦-Golang-区块链开发](https://www.v2ex.com/t/706687) ![](assets/new.png)  
-- [2020-09-13-要怎么引导女朋友不去看那些奇奇怪怪的视频/文章](https://www.v2ex.com/t/706685) ![](assets/new.png)  
-- [2020-09-13-远程，还是双语邦的云-Team----再求一名优秀-Flutter-程序员](https://www.v2ex.com/t/706684) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1109,16 @@
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-13-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
-- [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
+- [2020-09-13-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-13-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
 - [2020-09-13-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
 - [2020-09-13-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-13-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
 - [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-13-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-13-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
+- [2020-09-13-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

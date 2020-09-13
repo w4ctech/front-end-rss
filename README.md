@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 13:11:20，:rocket: 更新条数: +3610， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 13:22:21，:rocket: 更新条数: +3386， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-13-调整来了！全国多所高校缩短中秋国庆假期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiidICTu7VOPEn5Phukc0o200913&isfromapp=1) ![](assets/new.png)  
+- [2020-09-13-香港各界鼓劲打气-内地核酸检测支援队队员做好抗疫一线“侦察兵”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVc83ay6gUJfzXmzx67EZ200913&isfromapp=1) ![](assets/new.png)  
+- [2020-09-13-马来西亚卫生部：目前国内三大感染群皆涉及一线医护人员-要吸取教训](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikJp4ytBT1GB666xa7zN0200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-不可忽视老年人，多地应对无电子健康码群体的措施来了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyWAZKUk6Tt5F9Zn6oOoD200913&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-浙江岱山一外籍轮船-7-名船员核酸检测阳性，官方通报：已采取隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix8XGQsR83ZlNkupDpHeT200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-韩国新增新冠肺炎确诊病例-121-例，政府下调首都圈防疫措施级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigCDYsQsWD4TRUgXwOTK8200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-澳大利亚墨尔本市民反对封城游行，警方已逮捕数十人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuP5SkIlPmy8ThWfNBu2i200913&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-香港财政司司长：感谢内地到港支援的化验人员-为香港恢复正常创造条件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPs4fj5TNKOERaXsKfMOh200913&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-13-北京离京急出大行-P18，-20-寸折叠自行车，-18-速，送头盔、码表、手电筒。坐标通州，尽量面交自取吧。1750-元，详见咸鱼。](https://www.v2ex.com/t/706680) ![](assets/new.png)  
 - [2020-09-13-一场持续了五年的技术大会还能如何升级？-GopherChina2020-给你答案！](https://www.v2ex.com/t/706677) ![](assets/new.png)  
 - [2020-09-13-SwiftUI-实现的开源-macOS-状态栏监控-app](https://www.v2ex.com/t/706676) ![](assets/new.png)  
 - [2020-09-13-mac-os-10.15.6-监听权限问题](https://www.v2ex.com/t/706675) ![](assets/new.png)  
@@ -1096,7 +1077,6 @@
 - [2020-09-13-Python-与-mysql-正规则不一样吗？-问个-mysql-数据替换的正规则。哪位朋友帮我看看下面-mysql-正规则有什么问题？-谢谢](https://www.v2ex.com/t/706657) ![](assets/new.png)  
 - [2020-09-13-who-来拯救我，求内推，求工作，-20-应届，知乎实习了九个月左右](https://www.v2ex.com/t/706656) ![](assets/new.png)  
 - [2020-09-13-ElasticSearch7.9.1,-ik-分词无法插入数据](https://www.v2ex.com/t/706655) ![](assets/new.png)  
-- [2020-09-13-SFC-游戏推荐？](https://www.v2ex.com/t/706651) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1129,16 @@
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
-- [2020-09-13-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
-- [2020-09-13-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-13-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-13-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-13-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
 - [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-13-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-13-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-13-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
+- [2020-09-13-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-13-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-13-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-13-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

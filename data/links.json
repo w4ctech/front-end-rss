@@ -10,6 +10,11 @@
         "date": "2020-09-12"
       },
       {
+        "title": "浙江岱山一外籍轮船7名船员核酸检测阳性 已隔离观察",
+        "link": "http://m.china.caixin.com/m/2020-09-13/101604668.html",
+        "date": "2020-09-12"
+      },
+      {
         "title": "云南瑞丽市一小区发现1例疑似病例，实施隔离封闭管理",
         "link": "http://m.china.caixin.com/m/2020-09-13/101604642.html",
         "date": "2020-09-12"
@@ -14286,6 +14291,66 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "前端周报：华为鸿蒙OS 2.0 发布，年底发布手机版；字节跳动正在与美国政府协商，避免出售核心技术；",
+        "link": "https://www.ershicimi.com/p/e33f220c44211dce47d96003f97a1963",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "来呀，一起造一个简易React！ | 极客大学",
+        "link": "https://www.ershicimi.com/p/950e9acf0a06cddf9b8dfb3ae76389ee",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "尤雨溪：TypeScript不会取代JavaScript",
+        "link": "https://www.ershicimi.com/p/7859ef90ce3ea34ab85fd27051242012",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "如何保持对个人项目的热情？",
+        "link": "https://www.ershicimi.com/p/fc7f649a54b567f0e6d9bc7b54dd1117",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "云原生时代，数字化转型潮下的微服务之道｜活动推荐",
+        "link": "https://www.ershicimi.com/p/40620f96569c7bb6d25d3b66fdd1f6e9",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "最受欢迎的10大Angular技巧",
+        "link": "https://www.ershicimi.com/p/f50c15becb76529a5233dd20054593a6",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "快速上手 WebAssembly 应用开发：Emscripten 使用入门",
+        "link": "https://www.ershicimi.com/p/885d228f79a93b4366a04cd233851b4c",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "程序员离职后收到前东家 2400 元，反手被告违反竞业协议赔 35 万",
+        "link": "https://www.ershicimi.com/p/15f4dee6c7c31f65caa3ddc2899e7364",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "苹果：你甚至可以在 Safari 中使用 Chrome 的插件",
+        "link": "https://www.ershicimi.com/p/b48742a28ac8c65f031f2b49695474db",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "数字化转型潮下，技术人才管理该怎么做？｜ 活动推荐",
+        "link": "https://www.ershicimi.com/p/d801f0a8f788a04f6bd780d1d1896de2",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "谷歌软件工程师是怎样写设计文档的？",
+        "link": "https://www.ershicimi.com/p/d25c49ae2e317b0e0fd3d50c007e9620",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "WebAssembly上手：基础指南",
+        "link": "https://www.ershicimi.com/p/0918c8b235efba620245f047551d4cf6",
+        "date": "2020-09-08"
+      },
+      {
         "title": "我在近期求职中遇到的前端面试问题及其解法",
         "link": "https://www.ershicimi.com/p/101cfd8ee46ea065ea458331d4ee3033",
         "date": "2020-09-07"
@@ -14324,66 +14389,6 @@
         "title": "顶级React组件库推荐",
         "link": "https://www.ershicimi.com/p/75ec9a701793f8f8caf737b04c68c802",
         "date": "2020-09-03"
-      },
-      {
-        "title": "前端智能化实践：从图片识别UI样式",
-        "link": "https://www.ershicimi.com/p/b2888b1a9a3bdb371ab8ea370ac4dedd",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "十年后将要消失的五种编程语言",
-        "link": "https://www.ershicimi.com/p/aaf27e6bdc3307989e05fb597131f0f1",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "微众正式开源Fes.js：快速、简单、健壮的管理台前端应用",
-        "link": "https://www.ershicimi.com/p/df8d37e15035a568568c62ec9f4ff23f",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "产业互联网时代不想掉队？鹅厂的这个会你不能错过！ | 活动推荐",
-        "link": "https://www.ershicimi.com/p/5cc6b3989df99b55e93436a1b34a631e",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "我用React和Vue构建了同款应用，来看看哪里不一样（2020版）",
-        "link": "https://www.ershicimi.com/p/0cc0282c4670ccc96d6386c3e3dc4c2e",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告",
-        "link": "https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "一些建议：给当年刚做程序员的我",
-        "link": "https://www.ershicimi.com/p/21225df10b21c1ab025627eebf6f5832",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "Chrome开发工具插件推荐",
-        "link": "https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "二面阿里惨败，全是算法基本功的问题··· | 极客大学",
-        "link": "https://www.ershicimi.com/p/87f10d6722414698e6f270ae4d5574a8",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome 85发布，提高页面加载速度；iPhon",
-        "link": "https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "你应该了解的5种TypeScript设计模式",
-        "link": "https://www.ershicimi.com/p/45ed7e0eead9a279d85819e21b2bc91b",
-        "date": "2020-08-28"
-      },
-      {
-        "title": "Electron 10正式发布：终止对 7.xy 的支持",
-        "link": "https://www.ershicimi.com/p/8c95a1f84c833e102f8c423d2b6fdae5",
-        "date": "2020-08-28"
       }
     ]
   },
@@ -16285,6 +16290,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "问一下大家联通动态 ip 分配记录保留多久",
+        "link": "https://www.v2ex.com/t/706622",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[租房] 成都租房闲谈（大佬们来总结总结经验）",
+        "link": "https://www.v2ex.com/t/706621",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "V 站里有时间时间充足的程序员兼职或全职开发项目么？",
+        "link": "https://www.v2ex.com/t/706620",
+        "date": "2020-09-13"
+      },
+      {
         "title": "在上海办理交通银行借记卡这么麻烦吗",
         "link": "https://www.v2ex.com/t/706619",
         "date": "2020-09-13"
@@ -16463,16 +16483,6 @@
         "title": "[英语]体恤衫上印[stay at home dog mom],想表达什么?有什么梗么?",
         "link": "https://www.v2ex.com/t/706573",
         "date": "2020-09-13"
-      },
-      {
-        "title": "广州最 cool 的互联网金融公司招 Java 中高级攻城狮了， 14 薪。",
-        "link": "https://www.v2ex.com/t/706571",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "HHKB 蓝牙版暴毙，打两个字后突然连不上，重启后不亮",
-        "link": "https://www.v2ex.com/t/706570",
-        "date": "2020-09-13"
       }
     ]
   },
@@ -16639,8 +16649,8 @@
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
         "date": "2020-09-13"
       },
       {
@@ -16649,58 +16659,23 @@
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-13"
-      },
-      {
         "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
         "link": "https://toutiao.io/k/qird2vy",
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-13"
       },
       {
@@ -16709,8 +16684,43 @@
         "date": "2020-09-13"
       },
       {
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-13"
+      },
+      {
         "title": "[推荐] Golang 汇编入门知识总结",
         "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
         "date": "2020-09-13"
       }
     ]

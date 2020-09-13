@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 05:32:17，:rocket: 更新条数: +3386， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 05:34:28，:rocket: 更新条数: +3589， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,26 +1108,6 @@
 </summary>
 
 
-- [2020-09-13-如何做好一场线上培训-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13758&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fa-good-online-training%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-图说敏捷项目管理中的价值-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13757&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management-value%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-如何制作出让女朋友满意的大片-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13756&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F231068497%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-如何实现一个优雅的Python的Json序列化库-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13755&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-python-json-library%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-团队在高速扩张中的能力构建与质量保证-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13754&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcapacity-building-and-quality-assurance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-ThoughtWorks的敏捷测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13753&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-thoughtworks%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-不要让远程办公成为团队协作的绊脚石-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13752&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fremote-cooperation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-敏捷项目中的隔空实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13751&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-2020-年编程语言盘点展望：Java-老兵不死，Kotlin-蓄势待发-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13750&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFeGKgZAFeapAC8uQGUqCbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-蚂蚁金服是如何提高移动端体验的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13749&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ03U2-3vq_6USTqAF7Bfhg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-再见了，-VS-Code-！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13748&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJ48_TKfBf-ymh8gNqg4yUA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-如何玩转微软新版-Edge-浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13747&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-_JY6jZ-raW0NxGo_JRaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-最受-IT-公司欢迎的-30-款开源软件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13746&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp1K2-2936d8ZjbhwNmmMSw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-我为什么放弃移动开发？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13745&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJsBHh5yEcorIUVDW8egTfA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-100-个网络基础知识，全部掌握顶半个网络高手-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13744&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB96t8C3m2nUnY6qJO8z2tg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-干掉-Navicat：这个-IDEA-的兄弟真香！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13743&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTCboEqwgwXeu0uAqyePzvQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-碎片化时代，找准你的增长飞轮-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13742&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fflywheel-effect-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-敏捷度量的Why、What、Who、When-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13741&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-mesure-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-SSL-证书变革之时已至，这些变化你都清楚吗？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13740&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F215766881%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-13-最想与朋友分享的网站列表-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13739&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F09%2F01%2F168-list-of-websites-i-most-want-to-share-with-my-friends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-13 18:04:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 18:13:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -27,4 +27,3 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-09-13-大家用什么办法加快静态博客（挂在-github-那种）图片的加载速度的？（cdn，压缩图片）](https://www.v2ex.com/t/706688) 
 - [2020-09-13-ClickHouse-性能关键性指标有哪些？](https://toutiao.io/k/67u7ojo) 
-- [2020-09-13-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) 

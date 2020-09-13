@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-13 12:15:42，:rocket: 更新条数: +3388， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-13 12:30:03，:rocket: 更新条数: +3389， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,15 +64,16 @@
 </summary>
 
 
+- [2020-09-12-最新疫情：全国新冠累计确诊85184例-新增境外输入10例](http://m.china.caixin.com/m/2020-09-13/101604692.html) ![](assets/new.png)  
 - [2020-09-12-9月12日全国新增境外输入新冠10例-无症状感染者70例](http://m.china.caixin.com/m/2020-09-13/101604612.html) ![](assets/new.png)  
 - [2020-09-12-舟山一外籍轮7名船员核检阳性-已隔离观察](http://m.china.caixin.com/m/2020-09-13/101604668.html) ![](assets/new.png)  
 - [2020-09-12-云南瑞丽市一小区发现1例疑似病例，实施隔离封闭管理](http://m.china.caixin.com/m/2020-09-13/101604642.html) ![](assets/new.png)  
+- [2020-09-12-最新海外疫情：新冠感染近2864万-累计死亡超91.5万](http://m.international.caixin.com/m/2020-09-13/101604693.html) ![](assets/new.png)  
 - [2020-09-12-【境内疫情观察】全国新增70例无症状感染者（9月12日）](http://m.database.caixin.com/m/2020-09-13/101604644.html) ![](assets/new.png)  
 - [2020-09-12-大流行手记|9月12日：法国疫情明显恶化-阿斯利康重启新冠疫苗试验](https://m.caixin.com/m/2020-09-13/101604607.html) ![](assets/new.png)  
-- [2020-09-11-全球首个鼻喷新冠疫苗启动临床试验-具流感新冠双重免疫](https://m.caixin.com/m/2020-09-12/101604535.html) ![](assets/new.png)  
-- [2020-09-11-最新海外疫情：新冠感染超2835万-累计死亡超91万](https://m.caixin.com/m/2020-09-12/101604570.html) ![](assets/new.png)  
 - [2020-09-11-【境内疫情观察】全国连续150日无新增死亡病例（9月11日）](http://m.database.caixin.com/m/2020-09-12/101604544.html) ![](assets/new.png)  
 - [2020-09-11-大流行手记|9月11日：美国超50万名儿童确诊-欧洲多国疫情反弹迅速](https://m.caixin.com/m/2020-09-12/101604428.html) ![](assets/new.png)  
+- [2020-09-11-全球首个鼻喷新冠疫苗启动临床试验-具流感新冠双重免疫](https://m.caixin.com/m/2020-09-12/101604535.html) ![](assets/new.png)  
 - [2020-09-10-【境内疫情观察】全国新增15例境外输入病例（9月10日）](http://m.database.caixin.com/m/2020-09-11/101604061.html) ![](assets/new.png)  
 - [2020-09-10-大流行手记|9月10日：阿斯利康称疫苗仍有望年底面市-美国料难大选前接种](https://m.caixin.com/m/2020-09-11/101603864.html) ![](assets/new.png)  
 - [2020-09-09-南京新增无症状感染者为解除隔离后确诊-相关社群排查核酸](http://m.china.caixin.com/m/2020-09-10/101603551.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-09-08-大流行手记|9月8日：九大药企宣誓不供应不合规疫苗-世卫吁各国加大公卫投资](https://m.caixin.com/m/2020-09-09/101602982.html) ![](assets/new.png)  
 - [2020-09-07-【境内疫情观察】新疆现有确诊病例和无症状感染者全部清零（9月7日）](http://m.database.caixin.com/m/2020-09-08/101602534.html) ![](assets/new.png)  
 - [2020-09-07-大流行手记|9月7日：英国疫情抬头-印度感染人数超巴西成全球第二](https://m.caixin.com/m/2020-09-08/101602427.html) ![](assets/new.png)  
-- [2020-09-07-港专家：婴儿粪便新冠病毒量高出成人多倍](http://m.china.caixin.com/m/2020-09-08/101602464.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-13-八大视频剪辑素材网站推荐-宝藏素材](https://www.v2ex.com/t/706668) ![](assets/new.png)  
+- [2020-09-13-iPhone-无法连接自建的-Minecraft-的-Java-服务器](https://www.v2ex.com/t/706666) ![](assets/new.png)  
 - [2020-09-13-想买-iMac-2020-内存条，这两个内存的-SKU-一模一样，请问是一样的吗？能买吗？](https://www.v2ex.com/t/706665) ![](assets/new.png)  
 - [2020-09-13-不好意思我有一个懵逼的问题-765---888-=--123-是怎么算出来的?](https://www.v2ex.com/t/706662) ![](assets/new.png)  
 - [2020-09-13-问下大家，百度账号注销后，对这个账号的相关信息还能保存多久](https://www.v2ex.com/t/706661) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-13-如何远离工业文明？](https://www.v2ex.com/t/706640) ![](assets/new.png)  
 - [2020-09-13-晒一下新装的-AMD-3950X-的黑苹果](https://www.v2ex.com/t/706639) ![](assets/new.png)  
 - [2020-09-13-联通来电管家-公众号-提示服务故障；是否已经放弃这个公众号了？](https://www.v2ex.com/t/706637) ![](assets/new.png)  
-- [2020-09-13-我的阿里小号也凉了。](https://www.v2ex.com/t/706635) ![](assets/new.png)  
-- [2020-09-13-救救孩子吧，-Windows10-下安装-Centos8-后，想尽办法，折腾一天，修复不了-Win10-引导。](https://www.v2ex.com/t/706634) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-09-13-探秘-App-Clips](https://toutiao.io/k/mokoh1w) ![](assets/new.png)  
 - [2020-09-13-ECCV-2020-大规模实例分割挑战赛-LVIS-Challenge-冠军方案](https://toutiao.io/k/vpa9b3i) ![](assets/new.png)  
 - [2020-09-13-Prometheus-监控神器：Kubernetes-篇（三）](https://toutiao.io/k/7ywlscs) ![](assets/new.png)  
-- [2020-09-13-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-13-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-13-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
-- [2020-09-13-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
+- [2020-09-13-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-13-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-13-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
 - [2020-09-13-推荐-爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台](https://toutiao.io/k/yk3b77w) ![](assets/new.png)  
-- [2020-09-13-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-13-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-13-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-13-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-13-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-13-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
 - [2020-09-13-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-13-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-13-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-13-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

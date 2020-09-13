@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-13 12:15:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-13 12:30:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,8 +35,6 @@
 - [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-13-网络安全去哪学？](https://www.v2ex.com/t/706633) 
-- [2020-09-13-浏览网页时自然学外语的-Chrome-插件](https://www.v2ex.com/t/706618) 
-- [2020-09-13-安卓-APP-软件安全方面你们做了哪些操作呢](https://www.v2ex.com/t/706617) 
 - [2020-09-13-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-13-《2020年中国网络安全十大创新方向》报告发布](https://sec.thief.one/article_content?a_id=1a2fb95ec196d2d8c50bddfd9ad2d3e8) 
 - [2020-09-13-推荐几个优质原创的安全公众号](https://sec.thief.one/article_content?a_id=754fa466027ea4344251ebb58d1cd166) 

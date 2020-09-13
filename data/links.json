@@ -13097,6 +13097,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "英国牛津大学将恢复新冠疫苗临床试验",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Hwc70LIwwJp5NNZ6Pib200913&isfromapp=1",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "美多州山火持续肆虐 专家：山火烟尘使人更易感染新冠病毒",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirFuWyxS4CMSHjcC6vb7S200913&isfromapp=1",
+        "date": "2020-09-13"
+      },
+      {
         "title": "又一名人感染！马竞官方宣布主教练西蒙尼新冠检测呈阳性",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimesWZw0LT8vWWqONCfdd200913&isfromapp=1",
         "date": "2020-09-12"
@@ -13109,16 +13119,6 @@
       {
         "title": "新冠病毒检测呈阳性的学生举办大型派对 美国高校防疫任务艰巨",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN93ylsdcVkezEAMvCaGu200913&isfromapp=1",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "法国单日新增新冠肺炎感染人数超过一万",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYEjvW5WtfiU1iPKoyHGv200913&isfromapp=1",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "​希腊一食品厂191人感染新冠病毒 企业被关闭一星期",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijrVHnu6nFN2gRe8x51TR200912&isfromapp=1",
         "date": "2020-09-12"
       }
     ]
@@ -14918,6 +14918,36 @@
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
       {
+        "title": "你可以不精通Vue，但一定要精通JS！",
+        "link": "https://www.ershicimi.com/p/54a3b7294b6d2a017f06de24f1b42b3b",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "2020年，你应该知道 23 个非常有用的 NodeJs 库",
+        "link": "https://www.ershicimi.com/p/798661a5bcfcfb22e65df66de8d51a51",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "大规格文件的上传优化(实用篇)",
+        "link": "https://www.ershicimi.com/p/1250d17c61d70da781c7585205c595cd",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "Next.js + TypeScript 搭建一个简易的博客系统",
+        "link": "https://www.ershicimi.com/p/040abb2abbc6153f2f63af356c4edcb8",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "从零手写实现React Hooks！",
+        "link": "https://www.ershicimi.com/p/6680d662cc773c847ef42cc1aa7206b2",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "【不可思议的CANVAS】画一只会跟着鼠标走的小狗",
+        "link": "https://www.ershicimi.com/p/ffa58cf66cdbb13763e59a9e56abb48b",
+        "date": "2020-09-10"
+      },
+      {
         "title": "Node.js 中的 require 是如何工作的？",
         "link": "https://www.ershicimi.com/p/b3cac8cd587b06157d6b9b1d146fea5a",
         "date": "2020-09-09"
@@ -14986,36 +15016,6 @@
         "title": "(小技巧)不定宽溢出文本适配滚动",
         "link": "https://www.ershicimi.com/p/4cc2a7c0a52dd69ac9affba81aff5a23",
         "date": "2020-09-02"
-      },
-      {
-        "title": "转行/文科/女生/双非？来，带你暴力入门Web前端！",
-        "link": "https://www.ershicimi.com/p/3a9cd0da4a1a97c251d115357295e6ba",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "面试必考：真的理解 $nextTick 么",
-        "link": "https://www.ershicimi.com/p/bb4dac4bedfd0a58d04ed473a522ad71",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "从Generator入手读懂 co 模块源码（干货）",
-        "link": "https://www.ershicimi.com/p/5ec1771d907e25082ebb7ade774562f6",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "谷歌发布 Chrome 85 稳定版，引入 PGO，页面加载速度提升 10%",
-        "link": "https://www.ershicimi.com/p/22e4522290e35e07728382add97acd64",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "10个实用技巧让你的 Vue 代码更优雅",
-        "link": "https://www.ershicimi.com/p/d0a7aeb3fef2dd5d840e15b8f8717269",
-        "date": "2020-08-30"
-      },
-      {
-        "title": "程序员成长指北开通评论了！（送一波福利）",
-        "link": "https://www.ershicimi.com/p/081fc7a728b7f2c129365f3c046841db",
-        "date": "2020-08-29"
       }
     ]
   },
@@ -17032,6 +17032,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "手把手教你用vuepress搭建自己的网站",
+        "link": "https://juejin.im/post/6871777915235729422",
+        "date": "2020-09-12"
+      },
+      {
         "title": "细数这些年被困扰过的 TS 问题",
         "link": "https://juejin.im/post/6871752423577223176",
         "date": "2020-09-12"
@@ -17049,11 +17054,6 @@
       {
         "title": "浅尝Vue3.0，万字总结",
         "link": "https://juejin.im/post/6871276085342912519",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "🚩Vue源码面试——模板和数据如何渲染成最终的DOM",
-        "link": "https://juejin.im/post/6871161430830235662",
         "date": "2020-09-11"
       }
     ]
@@ -17391,6 +17391,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "送！ 7 天腾讯会员 3 个",
+        "link": "https://www.v2ex.com/t/706527",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "apple pencil 值得入手吗",
+        "link": "https://www.v2ex.com/t/706526",
+        "date": "2020-09-13"
+      },
+      {
         "title": "Gitee 为啥网页性能这么高？",
         "link": "https://www.v2ex.com/t/706525",
         "date": "2020-09-13"
@@ -17574,16 +17584,6 @@
         "title": "ipython 交互变成和 Python 交互变成有什么不同",
         "link": "https://www.v2ex.com/t/706478",
         "date": "2020-09-12"
-      },
-      {
-        "title": "有没有程序员的简历模版网站",
-        "link": "https://www.v2ex.com/t/706477",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "请教各位，站在面试官的角度看，招聘两年工作经验的后端是否会看重语言和技术栈的匹配度呢？",
-        "link": "https://www.v2ex.com/t/706476",
-        "date": "2020-09-12"
       }
     ]
   },
@@ -17715,13 +17715,13 @@
         "date": "2020-09-13"
       },
       {
-        "title": "网易大数据用户画像实践",
-        "link": "https://toutiao.io/k/bqjhhe3",
+        "title": "ClickHouse 性能关键性指标有哪些？",
+        "link": "https://toutiao.io/k/67u7ojo",
         "date": "2020-09-13"
       },
       {
-        "title": "ClickHouse 性能关键性指标有哪些？",
-        "link": "https://toutiao.io/k/67u7ojo",
+        "title": "网易大数据用户画像实践",
+        "link": "https://toutiao.io/k/bqjhhe3",
         "date": "2020-09-13"
       },
       {
@@ -17730,13 +17730,13 @@
         "date": "2020-09-13"
       },
       {
-        "title": "探秘 App Clips",
-        "link": "https://toutiao.io/k/mokoh1w",
+        "title": "Go 设计模式（八）：装饰器模式",
+        "link": "https://toutiao.io/k/v7d0lnr",
         "date": "2020-09-13"
       },
       {
-        "title": "Go 设计模式（八）：装饰器模式",
-        "link": "https://toutiao.io/k/v7d0lnr",
+        "title": "探秘 App Clips",
+        "link": "https://toutiao.io/k/mokoh1w",
         "date": "2020-09-13"
       },
       {
@@ -17750,13 +17750,8 @@
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
-        "link": "https://toutiao.io/k/yk3b77w",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-13"
       },
       {
@@ -17765,28 +17760,13 @@
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-13"
       },
       {
@@ -17795,23 +17775,23 @@
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
-        "link": "https://toutiao.io/k/lerlnil",
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-13"
       },
       {
@@ -17820,8 +17800,28 @@
         "date": "2020-09-13"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 爱奇艺数据中台建设组合拳：日志投递、统一数仓、大数据平台",
+        "link": "https://toutiao.io/k/yk3b77w",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-13"
       }
     ]

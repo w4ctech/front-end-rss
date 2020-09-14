@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 12:32:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 12:38:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -43,4 +43,5 @@
 - [2020-09-14-百度上海研发中心-招聘后端-Java-和前端工程师](https://www.v2ex.com/t/706946) 
 - [2020-09-14-北京/上海/杭州/合肥-招聘：云平台开发工程师/云平台架构师（C++），不加班，薪水-OPEN](https://www.v2ex.com/t/706932) 
 - [2020-09-14-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) 
+- [2020-09-14-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
 - [2020-09-14-日赚1万5!暴利黑客行业“无需面试”~](https://sec.thief.one/article_content?a_id=f71799c45649c086991b5929b36fbee5) 

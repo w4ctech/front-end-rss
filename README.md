@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 02:25:38，:rocket: 更新条数: +3618， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 02:32:25，:rocket: 更新条数: +3619， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,7 +1077,12 @@
 </summary>
 
 
-- [2020-09-14-腾讯云-磁盘扩展问题请教一下！](https://www.v2ex.com/t/706772) ![](assets/new.png)  
+- [2020-09-14-有人买过-Geekon-牌子的显示器吗？会不会翻车？-现在在-tb-买-ultrafine-还值得吗？官网都售罄了是不是代表快要上新啦？](https://www.v2ex.com/t/706779) ![](assets/new.png)  
+- [2020-09-14-有使用过-sib-国际标准银行出入金的吗](https://www.v2ex.com/t/706778) ![](assets/new.png)  
+- [2020-09-14-人和人之间天赋的差异是巨大的](https://www.v2ex.com/t/706775) ![](assets/new.png)  
+- [2020-09-14-一打字或者动鼠标,桌子晃,由于显示器垫高了-12-公分,晃的就很明显,有啥办法吗?](https://www.v2ex.com/t/706774) ![](assets/new.png)  
+- [2020-09-14-北京市·海淀区-招聘初级.Net-开发工程师](https://www.v2ex.com/t/706773) ![](assets/new.png)  
+- [2020-09-14-腾讯云-磁盘扩容问题请教一下！](https://www.v2ex.com/t/706772) ![](assets/new.png)  
 - [2020-09-14-在非对称加密出现前交换密钥的办法-Three-pass-protocol](https://www.v2ex.com/t/706771) ![](assets/new.png)  
 - [2020-09-14-k8s-相关源码分析学习分享](https://www.v2ex.com/t/706770) ![](assets/new.png)  
 - [2020-09-14-有在玩英雄联盟手游的吗？](https://www.v2ex.com/t/706768) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-09-14-华为-SE-岗位职责是什么，类似互联网公司的产品经理吗？](https://www.v2ex.com/t/706759) ![](assets/new.png)  
 - [2020-09-14-RXThinkCMF-一款基于-ThinkPhp6-的敏捷后台开发框架](https://www.v2ex.com/t/706756) ![](assets/new.png)  
 - [2020-09-14-成都有可以代收快递的地方吗](https://www.v2ex.com/t/706755) ![](assets/new.png)  
-- [2020-09-14-mybatis+pgsql-执行-insert-和-update-之后返回-id](https://www.v2ex.com/t/706754) ![](assets/new.png)  
-- [2020-09-14-nuc-坏了哪里修啊？](https://www.v2ex.com/t/706752) ![](assets/new.png)  
-- [2020-09-14-关于摩托罗拉-razr5G-手机的看法](https://www.v2ex.com/t/706751) ![](assets/new.png)  
-- [2020-09-14-这三种房选哪个](https://www.v2ex.com/t/706750) ![](assets/new.png)  
-- [2020-09-14-内个请问有用思维导图比较多的小伙伴吗？](https://www.v2ex.com/t/706748) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1108,6 +1108,8 @@
 </summary>
 
 
+- [2020-09-14-大数据项目中的QA需要迎接新的挑战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13773&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fqa-in-big-data-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-14-成熟度模型罪与罚-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13772&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fapability-maturity-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-14-用完-Gradle-之后，有点嫌弃-Maven了。真的-贼好用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13771&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP6FN-62Em4THdQK_jEGf6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-14-下载！《Linux-命令行大全》pdf-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13770&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp8v5mX9Wxuyh__aUKomiLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-14-怼你没商量！Linux之父手删AWS-工程师提交的补丁，表示这是愚蠢的行为，网友：我的快乐又回来了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13769&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ-PJ5ajfxHcLYEJWlszR5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1126,8 +1128,6 @@
 - [2020-09-14-如何制作出让女朋友满意的大片-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13756&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F231068497%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-14-如何实现一个优雅的Python的Json序列化库-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13755&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-python-json-library%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-14-团队在高速扩张中的能力构建与质量保证-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13754&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcapacity-building-and-quality-assurance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-14-ThoughtWorks的敏捷测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13753&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-thoughtworks%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-14-不要让远程办公成为团队协作的绊脚石-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13752&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fremote-cooperation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1155,10 +1155,10 @@
 - [2020-09-14-多线程：Rust-学习笔记](https://toutiao.io/k/5r7vvxu) ![](assets/new.png)  
 - [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
 - [2020-09-14-2020-年研一末找实习总结（面经）](https://toutiao.io/k/h297wka) ![](assets/new.png)  
-- [2020-09-14-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
-- [2020-09-14-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-14-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-14-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
+- [2020-09-14-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
+- [2020-09-14-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-14-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-14-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 11:49:08，:rocket: 更新条数: +3396， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 12:04:34，:rocket: 更新条数: +3400， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-09-14-孟加拉国新增1812例新冠肺炎确诊病例-累计确诊339332例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwkRtqnmVd78iRK1zAbOH200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-14-伊朗新增2619例新冠肺炎确诊病例-累计确诊404648例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVALHPG9WP6Kw3GYb5xpm200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-14-香港新增新冠肺炎确诊病例14例-累计确诊4972例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLK2NOLLQPiGaJFoFdxDZ200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-14-以色列新增新冠肺炎确诊病例2837例-累计156596例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4A7SGsUi4SydI1LJaEMl200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-14-乌克兰新增2462例新冠肺炎确诊病例-累计确诊156797例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti51aoqWTeyW38Ld91fSds200914&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -942,11 +947,11 @@
 </summary>
 
 
+- [2020-09-14-你必须要掌握的HTTPS](https://juejin.im/post/6872276748570984455) ![](assets/new.png)  
 - [2020-09-13-谈谈-MySQL-的-JSON-数据类型](https://juejin.im/post/6872248954185875464) ![](assets/new.png)  
 - [2020-09-13-尝鲜vue3.0-tyepscript开发组件3](https://juejin.im/post/6872235455824265229) ![](assets/new.png)  
 - [2020-09-13-Vue2源码解读-Observe](https://juejin.im/post/6872232567244849160) ![](assets/new.png)  
 - [2020-09-13-开局一张图，带你解读-redux-源码](https://juejin.im/post/6872230902508814349) ![](assets/new.png)  
-- [2020-09-13-手写-React-Hooks](https://juejin.im/post/6872223515580481544) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1135,8 @@
 - [2020-09-14-多线程：Rust-学习笔记](https://toutiao.io/k/5r7vvxu) ![](assets/new.png)  
 - [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
 - [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
-- [2020-09-14-Zotero-和它的朋友们：一个文献阅读生态](https://toutiao.io/k/qedff03) ![](assets/new.png)  
 - [2020-09-14-达达双云双活实践](https://toutiao.io/k/cgpou00) ![](assets/new.png)  
+- [2020-09-14-Zotero-和它的朋友们：一个文献阅读生态](https://toutiao.io/k/qedff03) ![](assets/new.png)  
 - [2020-09-14-Eureka-应用](https://toutiao.io/k/8lcxcso) ![](assets/new.png)  
 - [2020-09-14-详解-Context-包，看这一篇就够了](https://toutiao.io/k/6uqag5s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

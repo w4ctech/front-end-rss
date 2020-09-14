@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 09:34:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 09:47:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -96,10 +96,11 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-09-14-自荐开发的前后端分离的的后台权限管理框架-CatchAdmin](https://www.v2ex.com/t/706939) 
+- [2020-09-14-一口的电信光纤收发器，如何接两个路由啊？](https://www.v2ex.com/t/706933) 
 - [2020-09-14-路由器拨号的话各设备的-IPV6-地址能固定吗](https://www.v2ex.com/t/706907) 
 - [2020-09-14-如何实现一个优雅的Python的Json序列化库-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13755&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-python-json-library%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-14-鸿蒙系统中的-JS-开发框架](https://toutiao.io/k/5o5cl7x) 
-- [2020-09-14-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-13-BUF大事件丨1780个流行安卓APP违反加密规则;工信部通报101款违...](https://sec.thief.one/article_content?a_id=885824c80b2d0c2441dba6b444c9484e) 
 - [2020-09-12-从手机失窃事件看手机安全问题](https://sec.thief.one/article_content?a_id=d550f1f3c13708b02436a95ae9b0e829) 
 - [2020-09-11-我和JS文件不得不说的故事](https://sec.thief.one/article_content?a_id=630a9b1d3482e432a0172abd933451e8) 

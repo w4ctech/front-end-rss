@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 03:12:26，:rocket: 更新条数: +3620， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 03:24:16，:rocket: 更新条数: +3621， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-14-首批俄新冠疫苗被运送至各地区-14日前交付](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5rz1tdX9wIIsFwHsrls200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-14-只顾自己私利！《柳叶刀》批美破坏全球共同抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQaakKkNjWtTrol1ayfFh200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-14-调查显示65%美国人不认同特朗普应对疫情的表现](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXx7yiWOiU23tf00s08YM200914&isfromapp=1) ![](assets/new.png)  
+- [2020-09-14-英国报告显示受疫情影响全球出国旅行需求减少57%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwIXkq2utuysv3cB51TCC200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-13-巴西新冠肺炎累计确诊人数超433万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilMEQU9fHls8p2lbhKecg200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-美国新冠肺炎确诊病例超651万-死亡病例超19.4万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPVm40JHUwHOBZ1l6VVNT200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-古巴主流媒体广泛关注联合国通过全球合作应对疫情相关决议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWINQ9oiHLbpvZLla5oQ200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-美国俄亥俄州立大学因新冠疫情取消了2021年春假](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8YQ4lDQSFZtYIMO7PYek200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-13-世卫组织：全球新冠肺炎确诊病例超过2863万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitzjGUszfmAhhBkpAT5MC200914&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,10 +967,10 @@
 </summary>
 
 
+- [2020-09-13-浅析鸿蒙-JavaScript-GUI-技术栈](https://juejin.im/post/6872154561574862855) ![](assets/new.png)  
 - [2020-09-13-多线程必考的「生产者---消费者」模型，看齐姐这篇文章就够了](https://juejin.im/post/6872131047032553486) ![](assets/new.png)  
 - [2020-09-13-一个合格的中级前端工程师应该掌握的-20-个-Vue-技巧](https://juejin.im/post/6872128694639394830) ![](assets/new.png)  
 - [2020-09-13-parcel快速构建多页面应用](https://juejin.im/post/6871970727352860686) ![](assets/new.png)  
-- [2020-09-13-一文带您彻底弄明白~EventLoop和EventQueue~不明白你打死我](https://juejin.im/post/6871951339992285198) ![](assets/new.png)  
 - [2020-09-13-面试官：浏览器输入URL后发生了什么？](https://juejin.im/post/6871947938701475847) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-09-14-类似百度百科的弹出词条功能该怎么实现比较好？](https://www.v2ex.com/t/706802) ![](assets/new.png)  
+- [2020-09-14-平台自营不同店铺是否涉及二清问题？](https://www.v2ex.com/t/706801) ![](assets/new.png)  
+- [2020-09-14-Android-有没有好用的-Todo-App-推荐？](https://www.v2ex.com/t/706800) ![](assets/new.png)  
+- [2020-09-14-安全与风控几百个岗位内推（北上杭深+社招校招）](https://www.v2ex.com/t/706799) ![](assets/new.png)  
+- [2020-09-14-开发界的“神笔码良”来了！从设计稿智能生成-H5-应用](https://www.v2ex.com/t/706798) ![](assets/new.png)  
 - [2020-09-14-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/706796) ![](assets/new.png)  
 - [2020-09-14-Reading-Habits-Survey](https://www.v2ex.com/t/706795) ![](assets/new.png)  
 - [2020-09-14-请问-CSGO-有开放-API-么，没找到。想自己租个服务器然后接口拉起进入房间，类似-5E-B5-那种做法。](https://www.v2ex.com/t/706793) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-09-14-Laravel-5.5-appservice-获取不到-Auth-信息-Session-在这里也获取不到-，](https://www.v2ex.com/t/706780) ![](assets/new.png)  
 - [2020-09-14-有人买过-Geekon-牌子的显示器吗？会不会翻车？-现在在-tb-买-ultrafine-还值得吗？官网都售罄了是不是代表快要上新啦？](https://www.v2ex.com/t/706779) ![](assets/new.png)  
 - [2020-09-14-有使用过-sib-国际标准银行出入金的吗](https://www.v2ex.com/t/706778) ![](assets/new.png)  
-- [2020-09-14-人和人之间天赋的差异是巨大的](https://www.v2ex.com/t/706775) ![](assets/new.png)  
-- [2020-09-14-一打字或者动鼠标,桌子晃,由于显示器垫高了-12-公分,晃的就很明显,有啥办法吗?](https://www.v2ex.com/t/706774) ![](assets/new.png)  
-- [2020-09-14-北京市·海淀区-招聘初级.Net-开发工程师](https://www.v2ex.com/t/706773) ![](assets/new.png)  
-- [2020-09-14-腾讯云-磁盘扩容问题请教一下！](https://www.v2ex.com/t/706772) ![](assets/new.png)  
-- [2020-09-14-在非对称加密出现前交换密钥的办法-Three-pass-protocol](https://www.v2ex.com/t/706771) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,19 +1146,19 @@
 - [2020-09-14-这-4-种-ThreadLocal-你都知道吗？](https://toutiao.io/k/hg8rsi9) ![](assets/new.png)  
 - [2020-09-14-鸿蒙系统中的-JS-开发框架](https://toutiao.io/k/5o5cl7x) ![](assets/new.png)  
 - [2020-09-14-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-14-网站优化技巧之图片容量优化](https://toutiao.io/k/naxh5kz) ![](assets/new.png)  
 - [2020-09-14-为什么我们需要批量操作？](https://toutiao.io/k/jjuwkq1) ![](assets/new.png)  
 - [2020-09-14-Apache-Spark-3.0-第一个稳定版发布，终于可以在生产环境中使用啦](https://toutiao.io/k/y32vbp3) ![](assets/new.png)  
-- [2020-09-14-网站优化技巧之图片容量优化](https://toutiao.io/k/naxh5kz) ![](assets/new.png)  
 - [2020-09-14-Istio-Pilot-源码分析（一）](https://toutiao.io/k/ofucg96) ![](assets/new.png)  
 - [2020-09-14-擦亮慧眼：找工作避坑指北](https://toutiao.io/k/cq32ryk) ![](assets/new.png)  
-- [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
 - [2020-09-14-多线程：Rust-学习笔记](https://toutiao.io/k/5r7vvxu) ![](assets/new.png)  
-- [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
+- [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
 - [2020-09-14-2020-年研一末找实习总结（面经）](https://toutiao.io/k/h297wka) ![](assets/new.png)  
-- [2020-09-14-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
-- [2020-09-14-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
 - [2020-09-14-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
-- [2020-09-14-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-14-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
+- [2020-09-14-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-14-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

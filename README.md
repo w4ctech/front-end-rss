@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 06:13:42，:rocket: 更新条数: +3624， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 06:27:15，:rocket: 更新条数: +3400， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,11 +947,11 @@
 </summary>
 
 
-- [2020-09-13-React-useTypescript!](https://juejin.im/post/6872003091047120909) ![](assets/new.png)  
-- [2020-09-13-探索-React-Hooks底层设计](https://juejin.im/post/6871940895470518279) ![](assets/new.png)  
-- [2020-09-13-HTML5新增相关标签的和属性](https://juejin.im/post/6871937593861210120) ![](assets/new.png)  
-- [2020-09-13-什么是PWA?](https://juejin.im/post/6871919772808937485) ![](assets/new.png)  
-- [2020-09-13-Flutter——另类设计，提升页面开发效率，简化跳转以及传值](https://juejin.im/post/6871905809886871565) ![](assets/new.png)  
+- [2020-09-13-JavaScript异步编程你知道吗？](https://juejin.im/post/6872025393734352904) ![](assets/new.png)  
+- [2020-09-13-基于electron的全能桌面级脚手架-设计](https://juejin.im/post/6872013079346053134) ![](assets/new.png)  
+- [2020-09-13-一个入门级别的前端打包工具](https://juejin.im/post/6872003223771676679) ![](assets/new.png)  
+- [2020-09-13-虚拟DOM-和-DOM-diff](https://juejin.im/post/6872001390521090055) ![](assets/new.png)  
+- [2020-09-13-白话文，轻松理解Promise原理，并实现（二）](https://juejin.im/post/6871994935773429773) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,7 +1057,10 @@
 </summary>
 
 
-- [2020-09-14-经常会接到一些项目，忙不过来，大家有空的可以进来看看，有合适的项目可以做做](https://www.v2ex.com/t/706860) ![](assets/new.png)  
+- [2020-09-14-欢迎来体验一下我们的小程序社区](https://www.v2ex.com/t/706866) ![](assets/new.png)  
+- [2020-09-14-比较数据算法](https://www.v2ex.com/t/706864) ![](assets/new.png)  
+- [2020-09-14-9.19-日北京漫展有人去吗，据说有好多漂亮小姐姐，可以手机拍肩合影](https://www.v2ex.com/t/706863) ![](assets/new.png)  
+- [2020-09-14-内推-字节跳动-广告技术团队直推~~（北京，-20K~40K）](https://www.v2ex.com/t/706862) ![](assets/new.png)  
 - [2020-09-14-猪场面试题：骑士的最短路线](https://www.v2ex.com/t/706859) ![](assets/new.png)  
 - [2020-09-14-连续签到二百多天了](https://www.v2ex.com/t/706858) ![](assets/new.png)  
 - [2020-09-14-微信日常迷惑行为](https://www.v2ex.com/t/706856) ![](assets/new.png)  
@@ -1094,9 +1077,6 @@
 - [2020-09-14-一个简单的中文姓名字典生成器](https://www.v2ex.com/t/706843) ![](assets/new.png)  
 - [2020-09-14-想问个关于-CLion-的问题](https://www.v2ex.com/t/706842) ![](assets/new.png)  
 - [2020-09-14-有什么办法可以在-IT-行业吃一辈子？](https://www.v2ex.com/t/706841) ![](assets/new.png)  
-- [2020-09-14-你们的微博号被“征用”过当水军么？](https://www.v2ex.com/t/706840) ![](assets/new.png)  
-- [2020-09-14-使用其他生物输入验证码](https://www.v2ex.com/t/706839) ![](assets/new.png)  
-- [2020-09-14-iPhone-12-Pro-的长宽尺寸](https://www.v2ex.com/t/706838) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1155,9 +1135,9 @@
 - [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
 - [2020-09-14-多线程：Rust-学习笔记](https://toutiao.io/k/5r7vvxu) ![](assets/new.png)  
 - [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
-- [2020-09-14-Zotero-和它的朋友们：一个文献阅读生态](https://toutiao.io/k/qedff03) ![](assets/new.png)  
 - [2020-09-14-Eureka-应用](https://toutiao.io/k/8lcxcso) ![](assets/new.png)  
 - [2020-09-14-达达双云双活实践](https://toutiao.io/k/cgpou00) ![](assets/new.png)  
+- [2020-09-14-Zotero-和它的朋友们：一个文献阅读生态](https://toutiao.io/k/qedff03) ![](assets/new.png)  
 - [2020-09-14-详解-Context-包，看这一篇就够了](https://toutiao.io/k/6uqag5s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

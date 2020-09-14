@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 08:13:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 08:25:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -33,4 +33,5 @@
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-09-08-6个常用的React组件库](https://www.ershicimi.com/p/b29088ee78904693d4cfb04c6c3fe15a) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 
+- [2020-09-13-开局一张图，带你解读-redux-源码](https://juejin.im/post/6872230902508814349) 
 - [2020-09-13-手写-React-Hooks](https://juejin.im/post/6872223515580481544) 

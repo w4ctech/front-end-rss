@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 01:29:31，:rocket: 更新条数: +3391， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 01:32:34，:rocket: 更新条数: +3391， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -950,7 +950,7 @@
 - [2020-09-13-女生如何在前端职业发展中寻求突破](https://juejin.im/post/6872136699405664263) ![](assets/new.png)  
 - [2020-09-13-vuepress建站过程中遇到的一些问题](https://juejin.im/post/6872126254619820040) ![](assets/new.png)  
 - [2020-09-13-「算法与数据结构」一张脑图带你看动态规划算法之美](https://juejin.im/post/6872115031501340679) ![](assets/new.png)  
-- [2020-09-13-使用Vue3.0，我收获了哪些知识点（二）](https://juejin.im/post/6872113750636232712) ![](assets/new.png)  
+- [2020-09-13-Vue3.0来袭，你想学的都在这里（二）](https://juejin.im/post/6872113750636232712) ![](assets/new.png)  
 - [2020-09-13-一份不可多得的-TS-学习指南（1.8W字）](https://juejin.im/post/6872111128135073806) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-14-360-已启动-DoH-和-DoT-公测](https://www.v2ex.com/t/706747) ![](assets/new.png)  
+- [2020-09-14-mbp-16-寸-5600m-官翻会不会出](https://www.v2ex.com/t/706746) ![](assets/new.png)  
+- [2020-09-14-写了一个写了一个写了一个写了一个写了一个写了一个写了一个](https://www.v2ex.com/t/706745) ![](assets/new.png)  
 - [2020-09-14-迫于新房还在装修，星沙求租两房](https://www.v2ex.com/t/706744) ![](assets/new.png)  
 - [2020-09-14-一款基于-Laravel5.8-开发的后台管理系统](https://www.v2ex.com/t/706743) ![](assets/new.png)  
 - [2020-09-14-Edge-总是无法访问页面](https://www.v2ex.com/t/706742) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-14-想学-Apple-的-app-开发，学习哪种开发语言的一点疑惑](https://www.v2ex.com/t/706721) ![](assets/new.png)  
 - [2020-09-14-土木搬砖狗转行前端开发](https://www.v2ex.com/t/706720) ![](assets/new.png)  
 - [2020-09-14-处理器内存相同，理论上-iPhone11-运行比-iPhone11-pro-快？因为-11-分辨率低于-11pro？](https://www.v2ex.com/t/706719) ![](assets/new.png)  
-- [2020-09-13-NVDIA-以-400-亿美元收购-ARM](https://www.v2ex.com/t/706718) ![](assets/new.png)  
-- [2020-09-13-GameJam---AI-竞技场](https://www.v2ex.com/t/706717) ![](assets/new.png)  
-- [2020-09-13-曾经-996-的我得过急性青光眼，医生和我说，可以选择去地铁挥旗子，保护眼睛。如果要去它可以帮我介绍。我说这么瞎讲的意见有人去么。医生说有个四大的小姑娘就...](https://www.v2ex.com/t/706715) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-09-14-Apache-Spark-3.0-第一个稳定版发布，终于可以在生产环境中使用啦](https://toutiao.io/k/y32vbp3) ![](assets/new.png)  
 - [2020-09-14-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
 - [2020-09-14-Istio-Pilot-源码分析（一）](https://toutiao.io/k/ofucg96) ![](assets/new.png)  
-- [2020-09-14-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-14-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
-- [2020-09-14-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-14-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-14-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
 - [2020-09-14-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
-- [2020-09-14-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-14-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
-- [2020-09-14-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-14-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
+- [2020-09-14-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
 - [2020-09-14-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
-- [2020-09-14-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-14-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-14-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-14-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-14-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-14-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

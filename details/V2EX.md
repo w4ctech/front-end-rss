@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-14 13:03:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 13:11:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-14-调查一下需求，关于记笔记软件](https://www.v2ex.com/t/706987) 
 - [2020-09-14-一直没签劳动合同的话，该不该签？](https://www.v2ex.com/t/706986) 
 - [2020-09-14-第四期德国-IT-岗位招聘之-SAP-PLM-Project-Manager-,-IT-system-administrator,-PHP-developer](https://www.v2ex.com/t/706985) 
 - [2020-09-14-专转本机构不给网课退费怎么办?](https://www.v2ex.com/t/706984) 
@@ -40,4 +41,3 @@
 - [2020-09-14-postgresql+zhparser-模糊搜索出现-NOTICE:-text-search-query-contains-only-stop-words-or-doesn't-contain-lexemes,-ignored](https://www.v2ex.com/t/706940) 
 - [2020-09-14-自荐开发的前后端分离的的权限管理后台](https://www.v2ex.com/t/706939) 
 - [2020-09-14-大家是怎么在实践中应用-JVM-相关知识的？](https://www.v2ex.com/t/706938) 
-- [2020-09-14-上海/爱回收-招前端啦，简历砸过来！](https://www.v2ex.com/t/706937) 

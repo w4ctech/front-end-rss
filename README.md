@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 19:21:58，:rocket: 更新条数: +3567， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 19:32:34，:rocket: 更新条数: +3607， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1077,6 +1077,26 @@
 </summary>
 
 
+- [2020-09-14-AirPods-2-和-AirPods-Pro-更新固件-3A283](https://www.v2ex.com/t/707022) ![](assets/new.png)  
+- [2020-09-14-个人开发者开发小程序注册公司还是个体户工作室](https://www.v2ex.com/t/707021) ![](assets/new.png)  
+- [2020-09-14-寻做过支付/风控模型或电商支付的铁铁](https://www.v2ex.com/t/707020) ![](assets/new.png)  
+- [2020-09-14-各位攒机或升级内存条会考虑使用-DDR3L-吗？](https://www.v2ex.com/t/707019) ![](assets/new.png)  
+- [2020-09-14-Kiwi-Browser-在-Google-Play-商店发布更新了](https://www.v2ex.com/t/707018) ![](assets/new.png)  
+- [2020-09-14-求大佬们帮忙，-10400+b460m-钢铁传奇黑苹果核显不正常](https://www.v2ex.com/t/707017) ![](assets/new.png)  
+- [2020-09-14-C++-常量右值有没有啥意义？](https://www.v2ex.com/t/707016) ![](assets/new.png)  
+- [2020-09-14-出网易云信账号](https://www.v2ex.com/t/707015) ![](assets/new.png)  
+- [2020-09-14-两年过去了，那个叫-uTools-的怎么样了](https://www.v2ex.com/t/707014) ![](assets/new.png)  
+- [2020-09-14-漕河泾地铁附近-打算出售整个三室一厅大概-100-平米-有-VR-看房视图-诚意者可以询价联络](https://www.v2ex.com/t/707013) ![](assets/new.png)  
+- [2020-09-14-广州字节跳动社招-前端还有-10+-hc，机会难得](https://www.v2ex.com/t/707012) ![](assets/new.png)  
+- [2020-09-14-第一次想法实践反思-关于线上匿名时事分享会](https://www.v2ex.com/t/707010) ![](assets/new.png)  
+- [2020-09-14-怎么测试在一个运营商网络里边的-TCP-或-UDP-数据报文超时的时间？](https://www.v2ex.com/t/707009) ![](assets/new.png)  
+- [2020-09-14-没上过大学，论文不应该是高大上、很严谨的东西吗？为什么知网上某些论文还不如网友博客里的文章有深度？](https://www.v2ex.com/t/707008) ![](assets/new.png)  
+- [2020-09-14-不懂就问：英伟达收购-Arm-对国内嵌入式行业有什么影响呢？](https://www.v2ex.com/t/707007) ![](assets/new.png)  
+- [2020-09-14-甲醛超标，请大家注意。](https://www.v2ex.com/t/707006) ![](assets/new.png)  
+- [2020-09-14-想业余时间折腾下嵌入式，请教大家从哪里入手好呢？](https://www.v2ex.com/t/707005) ![](assets/new.png)  
+- [2020-09-14-iOS14pb8-是-GM-吗？](https://www.v2ex.com/t/707004) ![](assets/new.png)  
+- [2020-09-14-开源一个自己的开发-“持久化异步失败重试系统”](https://www.v2ex.com/t/707003) ![](assets/new.png)  
+- [2020-09-14-花了-2-小时初步学习了一下-VSCode-开发，搞了一个-Markdown-转思维导图的拓展](https://www.v2ex.com/t/707001) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,21 +1139,21 @@
 </summary>
 
 
+- [2020-09-14-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
 - [2020-09-14-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-14-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
 - [2020-09-14-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
-- [2020-09-14-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-14-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
-- [2020-09-14-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-14-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [2020-09-14-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
+- [2020-09-14-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-14-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
 - [2020-09-14-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
 - [2020-09-14-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-14-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-14-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [2020-09-14-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-14-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-14-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
 - [2020-09-14-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-14-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-14-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-14-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
+- [2020-09-14-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 00:07:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 00:32:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -62,10 +62,10 @@
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
 - [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
+- [2020-09-13-【适合收藏】为了多点时间陪女朋友，我向BAT大佬跪求了这15条JS技巧](https://www.ershicimi.com/p/377a93f8f8487721b0841aef9d394740) 
 - [2020-09-03-22+-高频实用的-JavaScript-片段-（2020年）](https://www.ershicimi.com/p/ee09a441d4f3a019165848d06d13eeb2) 
 - [2020-08-30-JavaScript-经典「红宝书」，几代前端人的入门选择](https://www.ershicimi.com/p/a300a8874b1decab5e5b81361a25288c) 
 - [2020-08-26-H5-秒开方案大全](https://www.ershicimi.com/p/c2c283afe566a9e224000ca0d7844e60) 
-- [2020-08-25-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/194ea3d64d5964fd5067a31dd27bdf7a) 
 - [2020-09-09-大型-web-应用公共组件架构思考](https://www.ershicimi.com/p/458c0b367c1e5a43f88a1a33d99a2c78) 
 - [2020-09-07-XSS攻防实战（附JS源码）](https://www.ershicimi.com/p/fba0b87ae87b1ab532db066a5e22bcbc) 
 - [2020-09-05-JavaScript红宝书第4版来了「回馈粉丝第二期」](https://www.ershicimi.com/p/f91df0d66af3f4bde48250d36a3dc96f) 
@@ -112,7 +112,6 @@
 - [2020-09-05-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/6df8ec8f180d99efe64faf4d4c8dc6d3) 
 - [2020-09-04-玩转-CSS-变量](https://www.ershicimi.com/p/bdd8b63bd0d792fe265f3f929077dda8) 
 - [2020-09-01-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/ff3c43131acc2b4f5aa34bc2a1af2152) 
-- [2020-09-12-JS查找数组中是否包含某个元素或对象](https://juejin.im/post/6871870155421384718) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -124,6 +123,7 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-14-如何实现一个优雅的Python的Json序列化库-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13755&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-python-json-library%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-14-鸿蒙系统中的-JS-开发框架](https://toutiao.io/k/5o5cl7x) 
+- [2020-09-14-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-13-BUF大事件丨1780个流行安卓APP违反加密规则;工信部通报101款违...](https://sec.thief.one/article_content?a_id=885824c80b2d0c2441dba6b444c9484e) 
 - [2020-09-12-从手机失窃事件看手机安全问题](https://sec.thief.one/article_content?a_id=d550f1f3c13708b02436a95ae9b0e829) 
 - [2020-09-11-我和JS文件不得不说的故事](https://sec.thief.one/article_content?a_id=630a9b1d3482e432a0172abd933451e8) 

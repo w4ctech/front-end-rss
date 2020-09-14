@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-14 19:34:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 19:47:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-14-单纯吐槽下捷克和硕苹果维修中心](https://www.v2ex.com/t/707023) 
 - [2020-09-14-AirPods-2-和-AirPods-Pro-更新固件-3A283](https://www.v2ex.com/t/707022) 
 - [2020-09-14-个人开发者开发小程序注册公司还是个体户工作室](https://www.v2ex.com/t/707021) 
 - [2020-09-14-寻做过支付/风控模型或电商支付的铁铁](https://www.v2ex.com/t/707020) 

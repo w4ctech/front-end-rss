@@ -13122,6 +13122,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "香港新增新冠肺炎确诊病例14例 累计确诊4972例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLK2NOLLQPiGaJFoFdxDZ200914&isfromapp=1",
+        "date": "2020-09-14"
+      },
+      {
         "title": "以色列新增新冠肺炎确诊病例2837例 累计156596例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4A7SGsUi4SydI1LJaEMl200914&isfromapp=1",
         "date": "2020-09-14"
@@ -13139,11 +13144,6 @@
       {
         "title": "首批俄新冠疫苗被运送至各地区 14日前交付",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5rz1tdX9wIIsFwHsrls200914&isfromapp=1",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "只顾自己私利！《柳叶刀》批美破坏全球共同抗疫",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQaakKkNjWtTrol1ayfFh200914&isfromapp=1",
         "date": "2020-09-14"
       }
     ]
@@ -17416,6 +17416,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[出] 出一些东西",
+        "link": "https://www.v2ex.com/t/706929",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "19 届毕业生，计算机类数字媒体技术专业，求一份工作",
+        "link": "https://www.v2ex.com/t/706928",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "新买了 MacBook Pro 16 寸，但是感觉除了里面的配置比 MacBook Pro 2015 LT2 的好之外，没别的亮点？",
+        "link": "https://www.v2ex.com/t/706927",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "江苏镇江多线服务器租用全场 7 折，续费同价，电信 16H16G 100M 独享只要 650 元/月",
+        "link": "https://www.v2ex.com/t/706926",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "单向网络如何反向联通，",
+        "link": "https://www.v2ex.com/t/706924",
+        "date": "2020-09-14"
+      },
+      {
         "title": "[出] 出一些七七八八",
         "link": "https://www.v2ex.com/t/706923",
         "date": "2020-09-14"
@@ -17603,31 +17628,6 @@
       {
         "title": "诸君安卓手机淘宝是否卡出翔，原因为何？",
         "link": "https://www.v2ex.com/t/706880",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[北京社招] [开黑啦] 高级前端工程师 20k-30k*14 薪",
-        "link": "https://www.v2ex.com/t/706879",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "请教一下各位老哥，现在的小学生流行什么玩具",
-        "link": "https://www.v2ex.com/t/706878",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "红米 K30 至尊版， miui12， Google 套件部分无法同步",
-        "link": "https://www.v2ex.com/t/706877",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "iPhone 12 pro 边框是柔软的航空铝嘛？",
-        "link": "https://www.v2ex.com/t/706875",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "迫于最近需要考试，市面上的刷题软件又过于无赖，逐开发了一套简单的刷题网站",
-        "link": "https://www.v2ex.com/t/706874",
         "date": "2020-09-14"
       }
     ]
@@ -17845,28 +17845,8 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-14"
       },
       {
@@ -17875,13 +17855,8 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
         "date": "2020-09-14"
       },
       {
@@ -17890,28 +17865,53 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
-        "link": "https://toutiao.io/k/lerlnil",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
-        "date": "2020-09-14"
-      },
-      {
         "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
         "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-14"
       },
       {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-14"
+      },
+      {
         "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
         "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-14"
       },
       {

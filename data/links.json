@@ -17411,6 +17411,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "macbook 应用软件都带上了.app 后缀名,请问怎么取消?",
+        "link": "https://www.v2ex.com/t/706764",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[拒绝 996， WLB 965] 新加坡公司 thunes，上海 Golang 岗位，可在家办公",
+        "link": "https://www.v2ex.com/t/706763",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "腾讯云十周年续费活动低至 2.4 折操作",
+        "link": "https://www.v2ex.com/t/706762",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "海外兔采访 | 编程艺术家 Lee215 的算法旅程",
+        "link": "https://www.v2ex.com/t/706761",
+        "date": "2020-09-14"
+      },
+      {
         "title": "谷歌的亲儿子 Fusia 系统最近怎么样了，怎么跟进",
         "link": "https://www.v2ex.com/t/706760",
         "date": "2020-09-14"
@@ -17569,26 +17589,6 @@
         "title": "曾经 996 的我得过急性青光眼，医生和我说，可以选择去地铁挥旗子，保护眼睛。如果要去它可以帮我介绍。我说这么瞎讲的意见有人去么。医生说有个四大的小姑娘就...",
         "link": "https://www.v2ex.com/t/706715",
         "date": "2020-09-13"
-      },
-      {
-        "title": "推荐同时能连接两个设备的无线耳机？",
-        "link": "https://www.v2ex.com/t/706714",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "web 开发可不可以像集装箱一样组装起来？",
-        "link": "https://www.v2ex.com/t/706713",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "地铁频率不能再快了吗",
-        "link": "https://www.v2ex.com/t/706712",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "深圳南山有移动商宽进小区的资源介绍一下？",
-        "link": "https://www.v2ex.com/t/706711",
-        "date": "2020-09-13"
       }
     ]
   },
@@ -17735,13 +17735,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "Apache Spark 3.0 第一个稳定版发布，终于可以在生产环境中使用啦",
-        "link": "https://toutiao.io/k/y32vbp3",
+        "title": "为什么我们需要批量操作？",
+        "link": "https://toutiao.io/k/jjuwkq1",
         "date": "2020-09-14"
       },
       {
-        "title": "为什么我们需要批量操作？",
-        "link": "https://toutiao.io/k/jjuwkq1",
+        "title": "Apache Spark 3.0 第一个稳定版发布，终于可以在生产环境中使用啦",
+        "link": "https://toutiao.io/k/y32vbp3",
         "date": "2020-09-14"
       },
       {
@@ -17760,13 +17760,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "结构与算法：队列和栈结构",
-        "link": "https://toutiao.io/k/4oq1oq8",
+        "title": "擦亮慧眼：找工作避坑指北",
+        "link": "https://toutiao.io/k/cq32ryk",
         "date": "2020-09-14"
       },
       {
-        "title": "擦亮慧眼：找工作避坑指北",
-        "link": "https://toutiao.io/k/cq32ryk",
+        "title": "结构与算法：队列和栈结构",
+        "link": "https://toutiao.io/k/4oq1oq8",
         "date": "2020-09-14"
       },
       {
@@ -17785,38 +17785,8 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
         "date": "2020-09-14"
       },
       {
@@ -17830,18 +17800,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-14"
       },
       {
@@ -17850,13 +17815,48 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-14"
       },
       {
         "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
         "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
         "date": "2020-09-14"
       }
     ]

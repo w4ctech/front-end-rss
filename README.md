@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 02:04:04，:rocket: 更新条数: +3618， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 02:13:22，:rocket: 更新条数: +3618， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,10 @@
 </summary>
 
 
+- [2020-09-14-macbook-应用软件都带上了.app-后缀名,请问怎么取消?](https://www.v2ex.com/t/706764) ![](assets/new.png)  
+- [2020-09-14-拒绝-996，-WLB-965-新加坡公司-thunes，上海-Golang-岗位，可在家办公](https://www.v2ex.com/t/706763) ![](assets/new.png)  
+- [2020-09-14-腾讯云十周年续费活动低至-2.4-折操作](https://www.v2ex.com/t/706762) ![](assets/new.png)  
+- [2020-09-14-海外兔采访-|-编程艺术家-Lee215-的算法旅程](https://www.v2ex.com/t/706761) ![](assets/new.png)  
 - [2020-09-14-谷歌的亲儿子-Fusia-系统最近怎么样了，怎么跟进](https://www.v2ex.com/t/706760) ![](assets/new.png)  
 - [2020-09-14-华为-SE-岗位职责是什么，类似互联网公司的产品经理吗？](https://www.v2ex.com/t/706759) ![](assets/new.png)  
 - [2020-09-14-RXThinkCMF-一款基于-ThinkPhp6-的敏捷后台开发框架](https://www.v2ex.com/t/706756) ![](assets/new.png)  
@@ -1093,10 +1097,6 @@
 - [2020-09-14-一款基于-Laravel5.8-开发的后台管理系统](https://www.v2ex.com/t/706743) ![](assets/new.png)  
 - [2020-09-14-Edge-总是无法访问页面](https://www.v2ex.com/t/706742) ![](assets/new.png)  
 - [2020-09-14-老板“受邀”参加华为开发者大会，周六回来，今天开会说要研究鸿蒙，为鸿蒙开发软件。](https://www.v2ex.com/t/706738) ![](assets/new.png)  
-- [2020-09-14-有没有觉的-swagger2-注解难用的，用注释生成文档不好么？](https://www.v2ex.com/t/706737) ![](assets/new.png)  
-- [2020-09-14-我在北京租了个月租-700-的房子，不敢想像](https://www.v2ex.com/t/706736) ![](assets/new.png)  
-- [2020-09-14-springboot-敏捷后台开发框架](https://www.v2ex.com/t/706734) ![](assets/new.png)  
-- [2020-09-14-macos-安装-visualbox-启动-centos7-失败](https://www.v2ex.com/t/706733) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,20 +1145,20 @@
 - [2020-09-14-我就想加个索引，怎么就这么难？](https://toutiao.io/k/unu3flc) ![](assets/new.png)  
 - [2020-09-14-鸿蒙系统中的-JS-开发框架](https://toutiao.io/k/5o5cl7x) ![](assets/new.png)  
 - [2020-09-14-这-4-种-ThreadLocal-你都知道吗？](https://toutiao.io/k/hg8rsi9) ![](assets/new.png)  
-- [2020-09-14-Apache-Spark-3.0-第一个稳定版发布，终于可以在生产环境中使用啦](https://toutiao.io/k/y32vbp3) ![](assets/new.png)  
 - [2020-09-14-为什么我们需要批量操作？](https://toutiao.io/k/jjuwkq1) ![](assets/new.png)  
+- [2020-09-14-Apache-Spark-3.0-第一个稳定版发布，终于可以在生产环境中使用啦](https://toutiao.io/k/y32vbp3) ![](assets/new.png)  
 - [2020-09-14-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
 - [2020-09-14-Istio-Pilot-源码分析（一）](https://toutiao.io/k/ofucg96) ![](assets/new.png)  
 - [2020-09-14-网站优化技巧之图片容量优化](https://toutiao.io/k/naxh5kz) ![](assets/new.png)  
-- [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
 - [2020-09-14-擦亮慧眼：找工作避坑指北](https://toutiao.io/k/cq32ryk) ![](assets/new.png)  
+- [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
 - [2020-09-14-多线程：Rust-学习笔记](https://toutiao.io/k/5r7vvxu) ![](assets/new.png)  
 - [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
 - [2020-09-14-2020-年研一末找实习总结（面经）](https://toutiao.io/k/h297wka) ![](assets/new.png)  
-- [2020-09-14-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-14-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-14-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-14-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-14-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
+- [2020-09-14-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
+- [2020-09-14-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-14-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

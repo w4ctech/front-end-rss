@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-14 02:13:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 02:25:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -161,7 +161,7 @@
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【技术头条】团队在高速扩张中的能力构建与质量保证-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13754&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcapacity-building-and-quality-assurance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【V2EX】Snowpack，下一代前端构建工具？](https://www.v2ex.com/t/706765)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -581,8 +581,8 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【开发者头条】推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy)
 - [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
+- [【开发者头条】推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

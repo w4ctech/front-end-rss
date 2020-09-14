@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 01:00:21，:rocket: 更新条数: +3616， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 01:06:37，:rocket: 更新条数: +3616， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-14-springboot-权限管理系统](https://www.v2ex.com/t/706730) ![](assets/new.png)  
 - [2020-09-14-哪个月份出生的人最多？](https://www.v2ex.com/t/706729) ![](assets/new.png)  
 - [2020-09-14-32-寸-4k-求推荐](https://www.v2ex.com/t/706726) ![](assets/new.png)  
 - [2020-09-14-想知道一些在线的软件是用的什么技术，比如在线-ps，-wps-等等。](https://www.v2ex.com/t/706724) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-13-21-届校招后台开发不同方向的-Offer-比较，希望各位帮忙分析一下](https://www.v2ex.com/t/706709) ![](assets/new.png)  
 - [2020-09-13-有没有转租青岛公寓的朋友？](https://www.v2ex.com/t/706708) ![](assets/new.png)  
 - [2020-09-13-有人想吐槽社保的各种-app-吗？](https://www.v2ex.com/t/706707) ![](assets/new.png)  
-- [2020-09-13-有没有一个这样的虚拟社交软件？](https://www.v2ex.com/t/706706) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,22 +1143,22 @@
 - [2020-09-14-资料-|-华为鸿蒙操作系统学习资料汇总](https://toutiao.io/k/slblr4a) ![](assets/new.png)  
 - [2020-09-14-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
 - [2020-09-14-我就想加个索引，怎么就这么难？](https://toutiao.io/k/unu3flc) ![](assets/new.png)  
-- [2020-09-14-这-4-种-ThreadLocal-你都知道吗？](https://toutiao.io/k/hg8rsi9) ![](assets/new.png)  
 - [2020-09-14-鸿蒙系统中的-JS-开发框架](https://toutiao.io/k/5o5cl7x) ![](assets/new.png)  
+- [2020-09-14-这-4-种-ThreadLocal-你都知道吗？](https://toutiao.io/k/hg8rsi9) ![](assets/new.png)  
 - [2020-09-14-Apache-Spark-3.0-第一个稳定版发布，终于可以在生产环境中使用啦](https://toutiao.io/k/y32vbp3) ![](assets/new.png)  
 - [2020-09-14-为什么我们需要批量操作？](https://toutiao.io/k/jjuwkq1) ![](assets/new.png)  
-- [2020-09-14-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
 - [2020-09-14-Istio-Pilot-源码分析（一）](https://toutiao.io/k/ofucg96) ![](assets/new.png)  
-- [2020-09-14-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-14-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
-- [2020-09-14-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-14-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-14-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-14-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-14-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
-- [2020-09-14-推荐-一次完整的-JVM-堆外内存泄漏故障排查记录](https://toutiao.io/k/u5ha7zq) ![](assets/new.png)  
-- [2020-09-14-推荐-译-5-个-Git-工作流，改善你的开发流程](https://toutiao.io/k/qird2vy) ![](assets/new.png)  
+- [2020-09-14-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-14-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
 - [2020-09-14-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-14-推荐-面试：为了进阿里，又把并发-CAS-Compare-and-Swap-实现重新精读一遍](https://toutiao.io/k/3683jxd) ![](assets/new.png)  
+- [2020-09-14-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
+- [2020-09-14-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-14-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-14-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-14-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-14-推荐-王者荣耀为什么不使用微服务架构？](https://toutiao.io/k/w8xis2z) ![](assets/new.png)  
+- [2020-09-14-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

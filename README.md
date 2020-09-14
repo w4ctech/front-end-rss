@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 02:49:09，:rocket: 更新条数: +3398， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 03:03:45，:rocket: 更新条数: +3399， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-09-13-精读《BI-搭建---筛选条件》](https://juejin.im/post/6872156077203718151) ![](assets/new.png)  
-- [2020-09-13-浅析鸿蒙-JavaScript-GUI-技术栈](https://juejin.im/post/6872154561574862855) ![](assets/new.png)  
-- [2020-09-13-Javascript基础篇整理-01:-基础数据类型和使用](https://juejin.im/post/6871960862857363470) ![](assets/new.png)  
-- [2020-09-13-Taro跨端开发之多业务模块管理-React-Native篇终篇](https://juejin.im/post/6871956943808757773) ![](assets/new.png)  
-- [2020-09-13-前端面试必备技巧](https://juejin.im/post/6871956933775982606) ![](assets/new.png)  
+- [2020-09-13-多线程必考的「生产者---消费者」模型，看齐姐这篇文章就够了](https://juejin.im/post/6872131047032553486) ![](assets/new.png)  
+- [2020-09-13-一个合格的中级前端工程师应该掌握的-20-个-Vue-技巧](https://juejin.im/post/6872128694639394830) ![](assets/new.png)  
+- [2020-09-13-parcel快速构建多页面应用](https://juejin.im/post/6871970727352860686) ![](assets/new.png)  
+- [2020-09-13-一文带您彻底弄明白~EventLoop和EventQueue~不明白你打死我](https://juejin.im/post/6871951339992285198) ![](assets/new.png)  
+- [2020-09-13-面试官：浏览器输入URL后发生了什么？](https://juejin.im/post/6871947938701475847) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-09-14-9.15-日（本周二），面向全球的《百度，世界-2020》线上大型论坛，即将开启，对-AI-感兴趣的可以进直播群哈](https://www.v2ex.com/t/706790) ![](assets/new.png)  
+- [2020-09-14-北京什么医院号脉比较好，父母想来北京看中医调理调理身体](https://www.v2ex.com/t/706789) ![](assets/new.png)  
+- [2020-09-14-茴字有多少种写法？（怎么判断一个整数是否为偶数）](https://www.v2ex.com/t/706788) ![](assets/new.png)  
+- [2020-09-14-bing.com-访问不了？](https://www.v2ex.com/t/706787) ![](assets/new.png)  
+- [2020-09-14-环球记者：-9-9-6-创造快乐生活](https://www.v2ex.com/t/706786) ![](assets/new.png)  
 - [2020-09-14-有没有比-QQ-自带截图还好用的工具？](https://www.v2ex.com/t/706784) ![](assets/new.png)  
 - [2020-09-14-安全与风控---字节跳动几百个岗位内推（校招+社招）](https://www.v2ex.com/t/706783) ![](assets/new.png)  
 - [2020-09-14-大佬帮看一下代码，为什么会偶尔报错-panic:-send-on-closed-channel](https://www.v2ex.com/t/706782) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-09-14-k8s-相关源码分析学习分享](https://www.v2ex.com/t/706770) ![](assets/new.png)  
 - [2020-09-14-有在玩英雄联盟手游的吗？](https://www.v2ex.com/t/706768) ![](assets/new.png)  
 - [2020-09-14-Oracle-要买-Tiktok-了？](https://www.v2ex.com/t/706767) ![](assets/new.png)  
-- [2020-09-14-噢，昨天搬家被自家猫一顿乱抓血肉模糊（夸张），这是什么情况，护地盘吗？](https://www.v2ex.com/t/706766) ![](assets/new.png)  
-- [2020-09-14-Snowpack，下一代前端构建工具？](https://www.v2ex.com/t/706765) ![](assets/new.png)  
-- [2020-09-14-macbook-应用软件都带上了.app-后缀名,请问怎么取消?](https://www.v2ex.com/t/706764) ![](assets/new.png)  
-- [2020-09-14-拒绝-996，-WLB-965-新加坡公司-thunes，上海-Golang-岗位，可在家办公](https://www.v2ex.com/t/706763) ![](assets/new.png)  
-- [2020-09-14-腾讯云十周年续费活动低至-2.4-折操作](https://www.v2ex.com/t/706762) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,17 +1128,17 @@
 - [2020-09-14-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
 - [2020-09-14-为什么我们需要批量操作？](https://toutiao.io/k/jjuwkq1) ![](assets/new.png)  
 - [2020-09-14-Apache-Spark-3.0-第一个稳定版发布，终于可以在生产环境中使用啦](https://toutiao.io/k/y32vbp3) ![](assets/new.png)  
-- [2020-09-14-Istio-Pilot-源码分析（一）](https://toutiao.io/k/ofucg96) ![](assets/new.png)  
 - [2020-09-14-网站优化技巧之图片容量优化](https://toutiao.io/k/naxh5kz) ![](assets/new.png)  
+- [2020-09-14-Istio-Pilot-源码分析（一）](https://toutiao.io/k/ofucg96) ![](assets/new.png)  
 - [2020-09-14-擦亮慧眼：找工作避坑指北](https://toutiao.io/k/cq32ryk) ![](assets/new.png)  
 - [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
 - [2020-09-14-多线程：Rust-学习笔记](https://toutiao.io/k/5r7vvxu) ![](assets/new.png)  
 - [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
 - [2020-09-14-2020-年研一末找实习总结（面经）](https://toutiao.io/k/h297wka) ![](assets/new.png)  
-- [2020-09-14-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-14-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-14-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-14-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-14-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [2020-09-14-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
-- [2020-09-14-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

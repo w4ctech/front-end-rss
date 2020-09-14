@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 22:34:35，:rocket: 更新条数: +3609， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 22:47:21，:rocket: 更新条数: +3609， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -229,6 +229,9 @@
 </summary>
 
 
+- [2020-09-14-【第2065期】做B端后台产品很复杂？一份完整的设计流程和规范！](https://www.ershicimi.com/p/7b3aabc43a6a1b86dc4f4dff7c7f5fb3) ![](assets/new.png)  
+- [2020-09-13-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/f6b658f55451af6d8763c8998c296af3) ![](assets/new.png)  
+- [2020-09-13-【第2064期】现代浏览器内部揭秘之三](https://www.ershicimi.com/p/3244c9910c9004e0c7456a5f693c14cf) ![](assets/new.png)  
 - [2020-09-12-【第2063期】如何进行表单体验优化-中台系统](https://www.ershicimi.com/p/cbfdb8df7884184d75e415555dbbee81) ![](assets/new.png)  
 - [2020-09-11-【第2062期】蚂蚁金服@沉鱼：前端十二年](https://www.ershicimi.com/p/bb4fc69860e84861f1b62e1d60a7260c) ![](assets/new.png)  
 - [2020-09-10-【第2061期】「划线高亮」和「插入笔记」——-不止是前端知识点](https://www.ershicimi.com/p/2abe050d4d4e378256169c7f315c4ffc) ![](assets/new.png)  
@@ -246,9 +249,6 @@
 - [2020-09-02-【第2053期】这才是真正的Git——Git实用技巧](https://www.ershicimi.com/p/7d7385718b77d4f2a7253594e7f9c83a) ![](assets/new.png)  
 - [2020-09-01-React谁都会，你的优势在哪里？](https://www.ershicimi.com/p/adff9b42befe5d8c81e4095e4dab9f68) ![](assets/new.png)  
 - [2020-09-01-【第2052期】保持页脚在底部:Flexbox-vs-Grid](https://www.ershicimi.com/p/42443e8de5b8f50f235e1c17f798afa2) ![](assets/new.png)  
-- [2020-08-31-【第2051期】这才是真正的-Git——分支合并](https://www.ershicimi.com/p/fc9c755034b9025beeb6b565199936fa) ![](assets/new.png)  
-- [2020-08-30-【第2050期】这才是真正的Git——Git内部原理揭秘！](https://www.ershicimi.com/p/a02843f139248ff6303e3ca85c366ae6) ![](assets/new.png)  
-- [2020-08-30-【招聘】阿里淘宝事业群C2M事业部招资深前端开发工程师/P6](https://www.ershicimi.com/p/c66a63b15451a0cf214b48a65d8d58ee) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,21 +1139,21 @@
 </summary>
 
 
-- [2020-09-14-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
-- [2020-09-14-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-14-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-14-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-14-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
-- [2020-09-14-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [2020-09-14-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-14-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
-- [2020-09-14-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-14-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
-- [2020-09-14-推荐-一文了解-Zookeeper](https://toutiao.io/k/of5k6dk) ![](assets/new.png)  
-- [2020-09-14-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-14-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [2020-09-14-推荐-还以为-VSCode-是程序员专属的工具？那你可太小看它了](https://toutiao.io/k/qit9l0m) ![](assets/new.png)  
-- [2020-09-14-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-14-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-14-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
+- [2020-09-14-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-14-推荐-30-个网站产品落地页免费模板](https://toutiao.io/k/qrs55xl) ![](assets/new.png)  
+- [2020-09-14-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-14-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-14-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-14-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-14-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-14-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-14-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
+- [2020-09-14-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-14-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

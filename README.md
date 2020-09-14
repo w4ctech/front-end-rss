@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 06:27:15，:rocket: 更新条数: +3400， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 06:32:57，:rocket: 更新条数: +3400， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-14-乌克兰新增2462例新冠肺炎确诊病例-累计确诊156797例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti51aoqWTeyW38Ld91fSds200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-印度新增新冠肺炎确诊病例92071例-累计确诊突破484万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5ccKEWcyeyP2nmDDFxH200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-首批俄新冠疫苗被运送至各地区-14日前交付](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5rz1tdX9wIIsFwHsrls200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-只顾自己私利！《柳叶刀》批美破坏全球共同抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQaakKkNjWtTrol1ayfFh200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-调查显示65%美国人不认同特朗普应对疫情的表现](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXx7yiWOiU23tf00s08YM200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-14-英国报告显示受疫情影响全球出国旅行需求减少57%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwIXkq2utuysv3cB51TCC200914&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-14-一般项目会使用-mybatis-自动生成的-example-吗？](https://www.v2ex.com/t/706870) ![](assets/new.png)  
+- [2020-09-14-关于鸿蒙-OS-本质，我的独家理解](https://www.v2ex.com/t/706868) ![](assets/new.png)  
 - [2020-09-14-欢迎来体验一下我们的小程序社区](https://www.v2ex.com/t/706866) ![](assets/new.png)  
 - [2020-09-14-比较数据算法](https://www.v2ex.com/t/706864) ![](assets/new.png)  
 - [2020-09-14-9.19-日北京漫展有人去吗，据说有好多漂亮小姐姐，可以手机拍肩合影](https://www.v2ex.com/t/706863) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-14-字节内推,-社招、校招都可,-还不来字节?](https://www.v2ex.com/t/706845) ![](assets/new.png)  
 - [2020-09-14-吐个槽---Win10-的鼠标滚动改了之后各种不爽](https://www.v2ex.com/t/706844) ![](assets/new.png)  
 - [2020-09-14-一个简单的中文姓名字典生成器](https://www.v2ex.com/t/706843) ![](assets/new.png)  
-- [2020-09-14-想问个关于-CLion-的问题](https://www.v2ex.com/t/706842) ![](assets/new.png)  
-- [2020-09-14-有什么办法可以在-IT-行业吃一辈子？](https://www.v2ex.com/t/706841) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

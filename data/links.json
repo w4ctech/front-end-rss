@@ -13122,6 +13122,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "乌克兰新增2462例新冠肺炎确诊病例 累计确诊156797例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti51aoqWTeyW38Ld91fSds200914&isfromapp=1",
+        "date": "2020-09-14"
+      },
+      {
         "title": "印度新增新冠肺炎确诊病例92071例 累计确诊突破484万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5ccKEWcyeyP2nmDDFxH200914&isfromapp=1",
         "date": "2020-09-14"
@@ -13139,11 +13144,6 @@
       {
         "title": "调查显示65%美国人不认同特朗普应对疫情的表现",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXx7yiWOiU23tf00s08YM200914&isfromapp=1",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "英国报告显示受疫情影响全球出国旅行需求减少57%",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwIXkq2utuysv3cB51TCC200914&isfromapp=1",
         "date": "2020-09-14"
       }
     ]
@@ -16300,6 +16300,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "一般项目会使用 mybatis 自动生成的 example 吗？",
+        "link": "https://www.v2ex.com/t/706870",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "关于鸿蒙 OS 本质，我的独家理解",
+        "link": "https://www.v2ex.com/t/706868",
+        "date": "2020-09-14"
+      },
+      {
         "title": "欢迎来体验一下我们的小程序社区",
         "link": "https://www.v2ex.com/t/706866",
         "date": "2020-09-14"
@@ -16467,16 +16477,6 @@
       {
         "title": "国庆夕阳红长江中下游纯玩观光团草案（包括预算）",
         "link": "https://www.v2ex.com/t/706822",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "问一个 win to go 的问题",
-        "link": "https://www.v2ex.com/t/706820",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[北京] 求贤, 少年得到[得到旗下]求 iOS 开发和高级开发",
-        "link": "https://www.v2ex.com/t/706818",
         "date": "2020-09-14"
       }
     ]
@@ -16694,18 +16694,18 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-14"
       },
       {
@@ -16714,13 +16714,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-14"
       },
       {
@@ -16734,38 +16734,38 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
-        "link": "https://toutiao.io/k/qird2vy",
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-14"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 10:49:06，:rocket: 更新条数: +3626， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 11:03:27，:rocket: 更新条数: +3400， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-14-孟加拉国新增1812例新冠肺炎确诊病例-累计确诊339332例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwkRtqnmVd78iRK1zAbOH200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-伊朗新增2619例新冠肺炎确诊病例-累计确诊404648例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVALHPG9WP6Kw3GYb5xpm200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-香港新增新冠肺炎确诊病例14例-累计确诊4972例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLK2NOLLQPiGaJFoFdxDZ200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-以色列新增新冠肺炎确诊病例2837例-累计156596例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4A7SGsUi4SydI1LJaEMl200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-乌克兰新增2462例新冠肺炎确诊病例-累计确诊156797例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti51aoqWTeyW38Ld91fSds200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-14-印度新增新冠肺炎确诊病例92071例-累计确诊突破484万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5ccKEWcyeyP2nmDDFxH200914&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,16 +1067,16 @@
 - [2020-09-14-WSL2-的-Docker-Desktop-如何修改原来-Linux-中的-/var/lib/docker/容器-ID/容器配置-那个-docker-inspect-出来那个文件呢？](https://www.v2ex.com/t/706953) ![](assets/new.png)  
 - [2020-09-14-Hacker-News/V2EX-热帖讨论组](https://www.v2ex.com/t/706952) ![](assets/new.png)  
 - [2020-09-14-我有个需求需要模拟微信用户数据](https://www.v2ex.com/t/706951) ![](assets/new.png)  
-- [2020-09-14-我就想问问有几个失业的](https://www.v2ex.com/t/706950) ![](assets/new.png)  
 - [2020-09-14-十月离职工资如何算](https://www.v2ex.com/t/706949) ![](assets/new.png)  
 - [2020-09-14-经常忘记亲人朋友的生日，写个小程序来记生日和提醒生日！](https://www.v2ex.com/t/706947) ![](assets/new.png)  
 - [2020-09-14-百度上海研发中心-招聘后端-Java-和前端工程师](https://www.v2ex.com/t/706946) ![](assets/new.png)  
 - [2020-09-14-netty-多线程下载服务器-OOM](https://www.v2ex.com/t/706944) ![](assets/new.png)  
 - [2020-09-14-滴滴-20-优惠券](https://www.v2ex.com/t/706943) ![](assets/new.png)  
-- [2020-09-14-翻译翻译什么叫钱给够](https://www.v2ex.com/t/706942) ![](assets/new.png)  
 - [2020-09-14-带老婆零基础转程序媛，-3-个月成功上岸亚马逊!](https://www.v2ex.com/t/706941) ![](assets/new.png)  
 - [2020-09-14-postgresql+zhparser-模糊搜索出现-NOTICE:-text-search-query-contains-only-stop-words-or-doesn't-contain-lexemes,-ignored](https://www.v2ex.com/t/706940) ![](assets/new.png)  
 - [2020-09-14-自荐开发的前后端分离的的权限管理后台](https://www.v2ex.com/t/706939) ![](assets/new.png)  
+- [2020-09-14-大家是怎么在实践中应用-JVM-相关知识的？](https://www.v2ex.com/t/706938) ![](assets/new.png)  
+- [2020-09-14-上海/爱回收-招前端啦，简历砸过来！](https://www.v2ex.com/t/706937) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1170,26 +1150,26 @@
 </summary>
 
 
+- [2020-09-14-齐向东:网络安全要从“治病救人”进化到“可防可控”](https://sec.thief.one/article_content?a_id=335b91709fd41f0448ba3f3bb90a7913) ![](assets/new.png)  
+- [2020-09-14-200美元变290000美元,这个DeFi用户经历了什么?](https://sec.thief.one/article_content?a_id=d1b7601929c01b82ad8a6c4d7aeb3c37) ![](assets/new.png)  
+- [2020-09-14-网络犯罪组织Malàsmoke盯上观看色情网站的你](https://sec.thief.one/article_content?a_id=9e3ee8dd7f9d5102fa929eb61867fbc5) ![](assets/new.png)  
+- [2020-09-14-【原创】Burpsuite内部的cookie处理机制](https://sec.thief.one/article_content?a_id=43b8835734ea0722b118a60cb948300f) ![](assets/new.png)  
+- [2020-09-14-【视频】|-2020年国家网络安全宣传周:网络安全为人民,网络安全靠...](https://sec.thief.one/article_content?a_id=b9be403f6e904adf6180e5f8aa417d79) ![](assets/new.png)  
+- [2020-09-14-人物|银科控股张福明:穿越灰暗,方知安全](https://sec.thief.one/article_content?a_id=eee47b01e1dc7f40a0b70609102fbf15) ![](assets/new.png)  
+- [2020-09-14-关于绿盟科技UTS产品受“管理员任意登录漏洞”影响的说明](https://sec.thief.one/article_content?a_id=530a532438afa853f5b8e2dab0da9ff3) ![](assets/new.png)  
+- [2020-09-14-urllib,-urllib2,-urllib3-都是小弟弟](https://sec.thief.one/article_content?a_id=38c06b73d1f2e3f6447bb12cf9357388) ![](assets/new.png)  
+- [2020-09-14-中国顶级黑客Top10,最后一位你猜是谁](https://sec.thief.one/article_content?a_id=a1336a552fd1df21672f6ba553b8c452) ![](assets/new.png)  
+- [2020-09-14-逆向入门分析实战四](https://sec.thief.one/article_content?a_id=af6c321a126446bc9018e74cffdd3a0e) ![](assets/new.png)  
+- [2020-09-14-日赚1万5!暴利黑客行业“无需面试”~](https://sec.thief.one/article_content?a_id=f71799c45649c086991b5929b36fbee5) ![](assets/new.png)  
+- [2020-09-14-疑似BITTER组织利用LNK文件的攻击活动分析](https://sec.thief.one/article_content?a_id=3a0a5cfb591ad841e2820754e7bf8e51) ![](assets/new.png)  
+- [2020-09-14-微软确认伊朗和俄罗斯黑客正试图入侵美国干预总统竞选](https://sec.thief.one/article_content?a_id=faf826b314883c04df4ad25381f7bd2a) ![](assets/new.png)  
+- [2020-09-14-AI应届生年薪涨到40万了,你现在转行还来得及!](https://sec.thief.one/article_content?a_id=f57acaa18aef33cf499113902b71b55a) ![](assets/new.png)  
+- [2020-09-14-货币战争实则是黄金之争?为什么各国都在争夺黄金?](https://sec.thief.one/article_content?a_id=a65edd6b8ecb6e0db2843683fa3a3947) ![](assets/new.png)  
+- [2020-09-13-首届“钓鱼城杯”国际网络安全创新大赛王者出炉,InkSec战队勇夺10...](https://sec.thief.one/article_content?a_id=a4e3b06481359e2d52297922461facfa) ![](assets/new.png)  
+- [2020-09-13-日本新政:网暴施暴者个人信息可公开](https://sec.thief.one/article_content?a_id=5444af2a88bacdc159ba6f1cc593c9e0) ![](assets/new.png)  
+- [2020-09-13-关于恶意利用圈子社区专版检测工具捆绑木马进行钓鱼攻击的预警公告](https://sec.thief.one/article_content?a_id=1ef900c91010f6a7380c33e7ae2e0a9b) ![](assets/new.png)  
 - [2020-09-13-B站疯传,-2-万次的-Linux-命令大全!!!](https://sec.thief.one/article_content?a_id=dfc68a266a6631827eb5dbaf0ae9b38e) ![](assets/new.png)  
 - [2020-09-13-一口气搞懂“文件系统”,就靠这-25-张图了](https://sec.thief.one/article_content?a_id=67d1659ec380778b8d7511a93b03d674) ![](assets/new.png)  
-- [2020-09-13-BUF大事件丨1780个流行安卓APP违反加密规则;工信部通报101款违...](https://sec.thief.one/article_content?a_id=885824c80b2d0c2441dba6b444c9484e) ![](assets/new.png)  
-- [2020-09-13-有那么一家公司,想把双因子认证技术开源](https://sec.thief.one/article_content?a_id=19a8aa6ae13fd1b0ab0cd6ab8a11360a) ![](assets/new.png)  
-- [2020-09-13-【视频】|-Python:关系运算符](https://sec.thief.one/article_content?a_id=9f9d6a3d441365749d098b27bb3794af) ![](assets/new.png)  
-- [2020-09-13-奇安信6档50期网安节目亮相2020国家网安周](https://sec.thief.one/article_content?a_id=8dcbc18d37487da9a1cb926a13995792) ![](assets/new.png)  
-- [2020-09-13-关于近期网络传播“天融信NGFW下一代防火墙设备存在漏洞”等情况...](https://sec.thief.one/article_content?a_id=b50f17cec0d8b08b253addafb5b06744) ![](assets/new.png)  
-- [2020-09-13-《2020年中国网络安全十大创新方向》报告发布](https://sec.thief.one/article_content?a_id=1a2fb95ec196d2d8c50bddfd9ad2d3e8) ![](assets/new.png)  
-- [2020-09-13-第二天火热继续](https://sec.thief.one/article_content?a_id=45fa82c597f2a4600009d6caa7d09c01) ![](assets/new.png)  
-- [2020-09-13-推荐几个优质原创的安全公众号](https://sec.thief.one/article_content?a_id=754fa466027ea4344251ebb58d1cd166) ![](assets/new.png)  
-- [2020-09-13-数据中心巨头Equinix遭遇勒索软件攻击,被勒索450万美元](https://sec.thief.one/article_content?a_id=c19ac2f16ea3917d84c3e298a5d34d7a) ![](assets/new.png)  
-- [2020-09-13-研究:车联网数据安全风险分析及相关建议](https://sec.thief.one/article_content?a_id=f8b7039ad768b7780f39767428eb60b2) ![](assets/new.png)  
-- [2020-09-13-为了鉴黄!写代码爬取了某-Hub-资源](https://sec.thief.one/article_content?a_id=0db5ebad29cd214da321daa5d51f55bf) ![](assets/new.png)  
-- [2020-09-13-蓝军近期需要关注的12个漏洞截止至8月20日](https://sec.thief.one/article_content?a_id=c0664a5302c7eeb355b99025b8dbfe08) ![](assets/new.png)  
-- [2020-09-13-《新闻1+1》数字经济的未来,中国能赢吗?](https://sec.thief.one/article_content?a_id=fd08bed218c31223adb0df6989c89318) ![](assets/new.png)  
-- [2020-09-12-太赞了!-豆瓣9.3分的《Linux-命令行大全》.pdf-限时下载](https://sec.thief.one/article_content?a_id=b5b7495d058cde9a1a8c6ac246233434) ![](assets/new.png)  
-- [2020-09-12-疯狂直播间涉嫌万人聚赌,日流水几百万](https://sec.thief.one/article_content?a_id=3a93ee5340ffd1a84a8c9d41a97f0a00) ![](assets/new.png)  
-- [2020-09-12-“圈子社区”官方线下沙龙暨＂豫剑2020＂网络安全红队峰会召开公告](https://sec.thief.one/article_content?a_id=1fd53c3feb31f3820583855aa7069a6c) ![](assets/new.png)  
-- [2020-09-12-蓝队实战溯源反制手册分享](https://sec.thief.one/article_content?a_id=81963be55e7e0658827dca12219ddc75) ![](assets/new.png)  
-- [2020-09-12-极棒大赛志愿者开启招募-近距离接触顶尖极客](https://sec.thief.one/article_content?a_id=2da4dacc280dad7b75f7997b582a0af3) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

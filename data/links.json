@@ -16295,6 +16295,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "系统迁移引起的故障",
+        "link": "https://www.v2ex.com/t/706836",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "不懂就问， Nvidia 收购 ARM 为什么需要中国的批准？",
+        "link": "https://www.v2ex.com/t/706834",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "利用 Iptables 对 gost/socat/brook 进行流量统计",
+        "link": "https://www.v2ex.com/t/706833",
+        "date": "2020-09-14"
+      },
+      {
         "title": "60 收京东 plus",
         "link": "https://www.v2ex.com/t/706831",
         "date": "2020-09-14"
@@ -16457,21 +16472,6 @@
       {
         "title": "bing.com 访问不了？",
         "link": "https://www.v2ex.com/t/706787",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "环球记者： 9-9-6 创造快乐生活",
-        "link": "https://www.v2ex.com/t/706786",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "有没有比 QQ 自带截图还好用的工具？",
-        "link": "https://www.v2ex.com/t/706784",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "安全与风控---字节跳动几百个岗位内推（校招+社招）",
-        "link": "https://www.v2ex.com/t/706783",
         "date": "2020-09-14"
       }
     ]
@@ -16654,11 +16654,6 @@
         "date": "2020-09-14"
       },
       {
-        "title": "多线程：Rust 学习笔记",
-        "link": "https://toutiao.io/k/5r7vvxu",
-        "date": "2020-09-14"
-      },
-      {
         "title": "结构与算法：队列和栈结构",
         "link": "https://toutiao.io/k/4oq1oq8",
         "date": "2020-09-14"
@@ -16669,48 +16664,18 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
+        "title": "多线程：Rust 学习笔记",
+        "link": "https://toutiao.io/k/5r7vvxu",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
         "date": "2020-09-14"
       },
       {
@@ -16719,28 +16684,63 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-14"
-      },
-      {
         "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
         "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] [译] 5 个 Git 工作流，改善你的开发流程",
+        "link": "https://toutiao.io/k/qird2vy",
         "date": "2020-09-14"
       }
     ]

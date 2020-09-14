@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 04:34:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 04:47:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,7 +36,6 @@
 - [2020-09-13-面试官：浏览器输入URL后发生了什么？](https://juejin.im/post/6871947938701475847) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-14-安全与风控几百个岗位内推（北上杭深+社招校招）](https://www.v2ex.com/t/706799) 
-- [2020-09-14-安全与风控---字节跳动几百个岗位内推（校招+社招）](https://www.v2ex.com/t/706783) 
 - [2020-09-14-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-13-《2020年中国网络安全十大创新方向》报告发布](https://sec.thief.one/article_content?a_id=1a2fb95ec196d2d8c50bddfd9ad2d3e8) 
 - [2020-09-13-推荐几个优质原创的安全公众号](https://sec.thief.one/article_content?a_id=754fa466027ea4344251ebb58d1cd166) 

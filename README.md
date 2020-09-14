@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 04:34:42，:rocket: 更新条数: +3395， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 04:47:30，:rocket: 更新条数: +3395， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-14-系统迁移引起的故障](https://www.v2ex.com/t/706836) ![](assets/new.png)  
+- [2020-09-14-不懂就问，-Nvidia-收购-ARM-为什么需要中国的批准？](https://www.v2ex.com/t/706834) ![](assets/new.png)  
+- [2020-09-14-利用-Iptables-对-gost/socat/brook-进行流量统计](https://www.v2ex.com/t/706833) ![](assets/new.png)  
 - [2020-09-14-60-收京东-plus](https://www.v2ex.com/t/706831) ![](assets/new.png)  
 - [2020-09-14-打汉字很大概率首个字母成英文](https://www.v2ex.com/t/706830) ![](assets/new.png)  
 - [2020-09-14-英伟达收购-ARM，水果傻了吧](https://www.v2ex.com/t/706829) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-14-Android-分片上传有什么比较好的方案吗？](https://www.v2ex.com/t/706809) ![](assets/new.png)  
 - [2020-09-14-招一个-Go-开发，国庆节前有效-美团](https://www.v2ex.com/t/706808) ![](assets/new.png)  
 - [2020-09-14-27-寸-4K-显示器推荐](https://www.v2ex.com/t/706807) ![](assets/new.png)  
-- [2020-09-14-抖音电商内推-~-前端](https://www.v2ex.com/t/706806) ![](assets/new.png)  
-- [2020-09-14-阿里云免费领域名的活动,-每天发-200-个，连续-10-天！](https://www.v2ex.com/t/706805) ![](assets/new.png)  
-- [2020-09-14-阿里云续费哪里领优惠？代理商们出来~](https://www.v2ex.com/t/706804) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,13 +1132,13 @@
 - [2020-09-14-Istio-Pilot-源码分析（一）](https://toutiao.io/k/ofucg96) ![](assets/new.png)  
 - [2020-09-14-擦亮慧眼：找工作避坑指北](https://toutiao.io/k/cq32ryk) ![](assets/new.png)  
 - [2020-09-14-2020-年研一末找实习总结（面经）](https://toutiao.io/k/h297wka) ![](assets/new.png)  
-- [2020-09-14-多线程：Rust-学习笔记](https://toutiao.io/k/5r7vvxu) ![](assets/new.png)  
 - [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
 - [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
-- [2020-09-14-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-14-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-14-推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu) ![](assets/new.png)  
-- [2020-09-14-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-14-多线程：Rust-学习笔记](https://toutiao.io/k/5r7vvxu) ![](assets/new.png)  
+- [2020-09-14-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-14-推荐-Java-并发编程：Executor-线程池框架简介](https://toutiao.io/k/lerlnil) ![](assets/new.png)  
+- [2020-09-14-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-14-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

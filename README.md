@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 13:11:59，:rocket: 更新条数: +3623， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 13:22:41，:rocket: 更新条数: +3400， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-14-删除或注销电报-Telegram-账号的方法](https://www.v2ex.com/t/706988) ![](assets/new.png)  
 - [2020-09-14-调查一下需求，关于记笔记软件](https://www.v2ex.com/t/706987) ![](assets/new.png)  
 - [2020-09-14-一直没签劳动合同的话，该不该签？](https://www.v2ex.com/t/706986) ![](assets/new.png)  
 - [2020-09-14-第四期德国-IT-岗位招聘之-SAP-PLM-Project-Manager-,-IT-system-administrator,-PHP-developer](https://www.v2ex.com/t/706985) ![](assets/new.png)  
@@ -1096,7 +1077,6 @@
 - [2020-09-14-分享下我的腰椎手术经历](https://www.v2ex.com/t/706965) ![](assets/new.png)  
 - [2020-09-14-吐槽智联招聘，感觉设计真的智障](https://www.v2ex.com/t/706962) ![](assets/new.png)  
 - [2020-09-14-苏州物业费贵不贵？](https://www.v2ex.com/t/706960) ![](assets/new.png)  
-- [2020-09-14-鞋脚臭的人吐槽：网上买个紫光款的烘鞋器，结果只是发紫色的光，根本没有紫外线。](https://www.v2ex.com/t/706959) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,8 +1131,8 @@
 - [2020-09-14-Istio-Pilot-源码分析（一）](https://toutiao.io/k/ofucg96) ![](assets/new.png)  
 - [2020-09-14-擦亮慧眼：找工作避坑指北](https://toutiao.io/k/cq32ryk) ![](assets/new.png)  
 - [2020-09-14-Apache-Spark-3.0-第一个稳定版发布，终于可以在生产环境中使用啦](https://toutiao.io/k/y32vbp3) ![](assets/new.png)  
-- [2020-09-14-2020-年研一末找实习总结（面经）](https://toutiao.io/k/h297wka) ![](assets/new.png)  
 - [2020-09-14-多线程：Rust-学习笔记](https://toutiao.io/k/5r7vvxu) ![](assets/new.png)  
+- [2020-09-14-2020-年研一末找实习总结（面经）](https://toutiao.io/k/h297wka) ![](assets/new.png)  
 - [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
 - [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
 - [2020-09-14-达达双云双活实践](https://toutiao.io/k/cgpou00) ![](assets/new.png)  

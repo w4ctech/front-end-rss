@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 08:03:47，:rocket: 更新条数: +3367， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 08:13:24，:rocket: 更新条数: +3404， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-14-以色列新增新冠肺炎确诊病例2837例-累计156596例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4A7SGsUi4SydI1LJaEMl200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-乌克兰新增2462例新冠肺炎确诊病例-累计确诊156797例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti51aoqWTeyW38Ld91fSds200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-印度新增新冠肺炎确诊病例92071例-累计确诊突破484万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5ccKEWcyeyP2nmDDFxH200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-首批俄新冠疫苗被运送至各地区-14日前交付](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5rz1tdX9wIIsFwHsrls200914&isfromapp=1) ![](assets/new.png)  
 - [2020-09-14-只顾自己私利！《柳叶刀》批美破坏全球共同抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQaakKkNjWtTrol1ayfFh200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-14-调查显示65%美国人不认同特朗普应对疫情的表现](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXx7yiWOiU23tf00s08YM200914&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-14-车主要哪种信用卡比较划得来？](https://www.v2ex.com/t/706910) ![](assets/new.png)  
+- [2020-09-14-类似于-reg007-的这样的网站还有哪些](https://www.v2ex.com/t/706909) ![](assets/new.png)  
+- [2020-09-14-elasticsearch-单机高并发写入出现丢失数据的情况](https://www.v2ex.com/t/706908) ![](assets/new.png)  
+- [2020-09-14-路由器拨号的话各设备的-IPV6-地址能固定吗](https://www.v2ex.com/t/706907) ![](assets/new.png)  
 - [2020-09-14-美团|北京-Java-后台开发工程师团队直招，-20-40K，专人跟进进度，全程沟通可查](https://www.v2ex.com/t/706906) ![](assets/new.png)  
 - [2020-09-14-npm-与-yarn-本地安装是不是可以通用](https://www.v2ex.com/t/706905) ![](assets/new.png)  
 - [2020-09-14-macbook-pro-外接-4k-显示器-,hdmi-线推荐](https://www.v2ex.com/t/706904) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-14-太难了，项目砍掉-PHP-，强转-Java-，学不下去怎么破。](https://www.v2ex.com/t/706890) ![](assets/new.png)  
 - [2020-09-14-GoGolang中高级工程师－－风变科技招聘](https://www.v2ex.com/t/706889) ![](assets/new.png)  
 - [2020-09-14-为什么-V2-个人资料里，设置了不允许搜索引擎检索，还是能在谷歌搜索到](https://www.v2ex.com/t/706888) ![](assets/new.png)  
-- [2020-09-14-中科大洋-北京社招急求-C++研发工程师，-20k-30k-您还不来等啥呢](https://www.v2ex.com/t/706887) ![](assets/new.png)  
-- [2020-09-14-求助，如何写绩效自评？](https://www.v2ex.com/t/706886) ![](assets/new.png)  
-- [2020-09-14-南通-塔扬信息科技招聘-Python-工程师](https://www.v2ex.com/t/706885) ![](assets/new.png)  
-- [2020-09-14-技嘉发布四合一-8TB-PCIe-4.0-SSD：读取速度达-15GB/s](https://www.v2ex.com/t/706884) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,6 +1119,26 @@
 </summary>
 
 
+- [2020-09-14-任正非：若果有人拧熄了灯塔，我们怎么航行？|-码农周刊第-317-期](https://toutiao.io/k/ixcjpqn) ![](assets/new.png)  
+- [2020-09-14-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-14-鸿蒙系统中的-JS-开发框架](https://toutiao.io/k/5o5cl7x) ![](assets/new.png)  
+- [2020-09-14-我就想加个索引，怎么就这么难？](https://toutiao.io/k/unu3flc) ![](assets/new.png)  
+- [2020-09-14-网站优化技巧之图片容量优化](https://toutiao.io/k/naxh5kz) ![](assets/new.png)  
+- [2020-09-14-资料-|-华为鸿蒙操作系统学习资料汇总](https://toutiao.io/k/slblr4a) ![](assets/new.png)  
+- [2020-09-14-这-4-种-ThreadLocal-你都知道吗？](https://toutiao.io/k/hg8rsi9) ![](assets/new.png)  
+- [2020-09-14-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-14-为什么我们需要批量操作？](https://toutiao.io/k/jjuwkq1) ![](assets/new.png)  
+- [2020-09-14-Apache-Spark-3.0-第一个稳定版发布，终于可以在生产环境中使用啦](https://toutiao.io/k/y32vbp3) ![](assets/new.png)  
+- [2020-09-14-Istio-Pilot-源码分析（一）](https://toutiao.io/k/ofucg96) ![](assets/new.png)  
+- [2020-09-14-擦亮慧眼：找工作避坑指北](https://toutiao.io/k/cq32ryk) ![](assets/new.png)  
+- [2020-09-14-2020-年研一末找实习总结（面经）](https://toutiao.io/k/h297wka) ![](assets/new.png)  
+- [2020-09-14-多线程：Rust-学习笔记](https://toutiao.io/k/5r7vvxu) ![](assets/new.png)  
+- [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
+- [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
+- [2020-09-14-达达双云双活实践](https://toutiao.io/k/cgpou00) ![](assets/new.png)  
+- [2020-09-14-Eureka-应用](https://toutiao.io/k/8lcxcso) ![](assets/new.png)  
+- [2020-09-14-Zotero-和它的朋友们：一个文献阅读生态](https://toutiao.io/k/qedff03) ![](assets/new.png)  
+- [2020-09-14-详解-Context-包，看这一篇就够了](https://toutiao.io/k/6uqag5s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

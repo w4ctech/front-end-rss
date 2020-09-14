@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 13:22:41，:rocket: 更新条数: +3400， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 13:32:16，:rocket: 更新条数: +3398， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,7 +1057,7 @@
 </summary>
 
 
-- [2020-09-14-删除或注销电报-Telegram-账号的方法](https://www.v2ex.com/t/706988) ![](assets/new.png)  
+- [2020-09-14-浙江图书馆-登录后，-可以看到明文的身份证号-www.zjlib.cn](https://www.v2ex.com/t/706989) ![](assets/new.png)  
 - [2020-09-14-调查一下需求，关于记笔记软件](https://www.v2ex.com/t/706987) ![](assets/new.png)  
 - [2020-09-14-一直没签劳动合同的话，该不该签？](https://www.v2ex.com/t/706986) ![](assets/new.png)  
 - [2020-09-14-第四期德国-IT-岗位招聘之-SAP-PLM-Project-Manager-,-IT-system-administrator,-PHP-developer](https://www.v2ex.com/t/706985) ![](assets/new.png)  
@@ -1136,8 +1136,8 @@
 - [2020-09-14-浅谈-Flink-state-状态管理机制](https://toutiao.io/k/syd5fta) ![](assets/new.png)  
 - [2020-09-14-结构与算法：队列和栈结构](https://toutiao.io/k/4oq1oq8) ![](assets/new.png)  
 - [2020-09-14-达达双云双活实践](https://toutiao.io/k/cgpou00) ![](assets/new.png)  
-- [2020-09-14-详解-Context-包，看这一篇就够了](https://toutiao.io/k/6uqag5s) ![](assets/new.png)  
 - [2020-09-14-Zotero-和它的朋友们：一个文献阅读生态](https://toutiao.io/k/qedff03) ![](assets/new.png)  
+- [2020-09-14-详解-Context-包，看这一篇就够了](https://toutiao.io/k/6uqag5s) ![](assets/new.png)  
 - [2020-09-14-Eureka-应用](https://toutiao.io/k/8lcxcso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

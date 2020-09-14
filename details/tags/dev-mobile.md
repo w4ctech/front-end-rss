@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 02:35:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 02:47:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -8,5 +8,4 @@
 
 
 - [2020-09-04-Flutter-在阿里淘系的体系化建设和业务实践](https://www.ershicimi.com/p/df277c7c2479b10b89231f01e349caf2) 
-- [2020-09-13-FlutterDojo设计之道—状态管理之路（六）](https://juejin.im/post/6872153613776060424) 
 - [2020-09-14-滴滴开源-移动开发-方面的-4-个项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fcwf-DSFx4T0AsR2AuEH0zA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

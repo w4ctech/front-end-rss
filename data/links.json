@@ -16295,6 +16295,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于内存条频率不同",
+        "link": "https://www.v2ex.com/t/706824",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "给外企投简历（校招）请教一下这几个字段是想让我填啥？",
+        "link": "https://www.v2ex.com/t/706823",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "国庆夕阳红长江中下游纯玩观光团草案（包括预算）",
+        "link": "https://www.v2ex.com/t/706822",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "问一个 win to go 的问题",
+        "link": "https://www.v2ex.com/t/706820",
+        "date": "2020-09-14"
+      },
+      {
         "title": "[北京] 求贤, 少年得到[得到旗下]求 iOS 开发和高级开发",
         "link": "https://www.v2ex.com/t/706818",
         "date": "2020-09-14"
@@ -16458,36 +16478,6 @@
         "title": "有使用过 sib 国际标准银行出入金的吗",
         "link": "https://www.v2ex.com/t/706778",
         "date": "2020-09-14"
-      },
-      {
-        "title": "人和人之间天赋的差异是巨大的",
-        "link": "https://www.v2ex.com/t/706775",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "一打字或者动鼠标,桌子晃,由于显示器垫高了 12 公分,晃的就很明显,有啥办法吗?",
-        "link": "https://www.v2ex.com/t/706774",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[北京市·海淀区] 招聘初级.Net 开发工程师",
-        "link": "https://www.v2ex.com/t/706773",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[腾讯云] 磁盘扩容问题请教一下！",
-        "link": "https://www.v2ex.com/t/706772",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "在非对称加密出现前交换密钥的办法 Three-pass protocol",
-        "link": "https://www.v2ex.com/t/706771",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "k8s 相关源码分析学习分享",
-        "link": "https://www.v2ex.com/t/706770",
-        "date": "2020-09-14"
       }
     ]
   },
@@ -16614,13 +16604,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "资料 | 华为鸿蒙操作系统学习资料汇总",
-        "link": "https://toutiao.io/k/slblr4a",
+        "title": "鸿蒙系统中的 JS 开发框架",
+        "link": "https://toutiao.io/k/5o5cl7x",
         "date": "2020-09-14"
       },
       {
-        "title": "鸿蒙系统中的 JS 开发框架",
-        "link": "https://toutiao.io/k/5o5cl7x",
+        "title": "资料 | 华为鸿蒙操作系统学习资料汇总",
+        "link": "https://toutiao.io/k/slblr4a",
         "date": "2020-09-14"
       },
       {
@@ -16684,48 +16674,8 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
-        "link": "https://toutiao.io/k/dkcgweu",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
         "date": "2020-09-14"
       },
       {
@@ -16734,13 +16684,23 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
         "date": "2020-09-14"
       },
       {
@@ -16749,13 +16709,43 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
+        "link": "https://toutiao.io/k/u5ha7zq",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
         "date": "2020-09-14"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 11:46:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-14 11:49:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -109,11 +109,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-09-01-【境内疫情观察】新疆全面恢复正常生产生活秩序（9月1日）](http://m.database.caixin.com/m/2020-09-02/101600250.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-09-01-大流行手记|9月1日：多国按计划开学-俄罗斯称20余国洽购疫苗](https://m.caixin.com/m/2020-09-02/101600125.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-09-01-新疆所有户外景区今起恢复开放-跨省游亦重启](http://m.companies.caixin.com/m/2020-09-02/101600371.html) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-14-孟加拉国新增1812例新冠肺炎确诊病例-累计确诊339332例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwkRtqnmVd78iRK1zAbOH200914&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-14-伊朗新增2619例新冠肺炎确诊病例-累计确诊404648例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVALHPG9WP6Kw3GYb5xpm200914&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-14-香港新增新冠肺炎确诊病例14例-累计确诊4972例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLK2NOLLQPiGaJFoFdxDZ200914&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-14-以色列新增新冠肺炎确诊病例2837例-累计156596例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4A7SGsUi4SydI1LJaEMl200914&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-09-14-乌克兰新增2462例新冠肺炎确诊病例-累计确诊156797例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti51aoqWTeyW38Ld91fSds200914&isfromapp=1) 
 - [【Vue中文社区】2020-09-11-前端现状：80%-的人陷入这个误区一直出不来！](https://www.ershicimi.com/p/a18626fdce7983c1651a0d15e4d92279) 
 - [【Vue中文社区】2020-09-11-npm-install-执行后的“秘密”](https://www.ershicimi.com/p/d42f1bc6464039961f01731afa743882) 
 - [【Vue中文社区】2020-09-10-Vue-数据更新但页面没有更新的-7-种情况，你遇到过几种](https://www.ershicimi.com/p/6b1b9c2b05ec3dbc675946f6a996be5a) 

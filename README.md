@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-14 11:46:56，:rocket: 更新条数: +3401， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-14 11:49:08，:rocket: 更新条数: +3396， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -95,11 +95,6 @@
 </summary>
 
 
-- [2020-09-14-孟加拉国新增1812例新冠肺炎确诊病例-累计确诊339332例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwkRtqnmVd78iRK1zAbOH200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-14-伊朗新增2619例新冠肺炎确诊病例-累计确诊404648例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVALHPG9WP6Kw3GYb5xpm200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-14-香港新增新冠肺炎确诊病例14例-累计确诊4972例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLK2NOLLQPiGaJFoFdxDZ200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-14-以色列新增新冠肺炎确诊病例2837例-累计156596例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4A7SGsUi4SydI1LJaEMl200914&isfromapp=1) ![](assets/new.png)  
-- [2020-09-14-乌克兰新增2462例新冠肺炎确诊病例-累计确诊156797例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti51aoqWTeyW38Ld91fSds200914&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

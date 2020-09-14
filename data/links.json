@@ -5,11 +5,6 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "9月13日全国新增境外输入新冠10例 无症状感染者39例",
-        "link": "http://m.china.caixin.com/m/2020-09-14/101604856.html",
-        "date": "2020-09-13"
-      },
-      {
         "title": "【境内疫情观察】全国新增10例境外输入病例（9月13日）",
         "link": "http://m.database.caixin.com/m/2020-09-14/101604870.html",
         "date": "2020-09-13"
@@ -8445,7 +8440,7 @@
         "date": "2020-02-27"
       },
       {
-        "title": "地图|最新海外疫情：新冠感染超2835万 美国累计感染超644万",
+        "title": "地图|最新海外疫情：新冠感染超2888万 美国累计感染近652万",
         "link": "http://m.datanews.caixin.com/m/interactive/2020/pneumonia-h5/global.html",
         "date": "2020-02-26"
       },
@@ -13122,6 +13117,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "伊朗新增2619例新冠肺炎确诊病例 累计确诊404648例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVALHPG9WP6Kw3GYb5xpm200914&isfromapp=1",
+        "date": "2020-09-14"
+      },
+      {
         "title": "香港新增新冠肺炎确诊病例14例 累计确诊4972例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLK2NOLLQPiGaJFoFdxDZ200914&isfromapp=1",
         "date": "2020-09-14"
@@ -13139,11 +13139,6 @@
       {
         "title": "印度新增新冠肺炎确诊病例92071例 累计确诊突破484万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5ccKEWcyeyP2nmDDFxH200914&isfromapp=1",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "首批俄新冠疫苗被运送至各地区 14日前交付",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5rz1tdX9wIIsFwHsrls200914&isfromapp=1",
         "date": "2020-09-14"
       }
     ]
@@ -16300,6 +16295,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我有个需求需要模拟微信用户数据",
+        "link": "https://www.v2ex.com/t/706951",
+        "date": "2020-09-14"
+      },
+      {
         "title": "我就想问问有几个失业的",
         "link": "https://www.v2ex.com/t/706950",
         "date": "2020-09-14"
@@ -16503,11 +16503,6 @@
         "title": "十一想从成都到泸沽湖有什么攻略吗？",
         "link": "https://www.v2ex.com/t/706902",
         "date": "2020-09-14"
-      },
-      {
-        "title": "静态分析二进制文件系统调用，请问 Python 为什么找不到 socket",
-        "link": "https://www.v2ex.com/t/706901",
-        "date": "2020-09-14"
       }
     ]
   },
@@ -16669,13 +16664,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "Apache Spark 3.0 第一个稳定版发布，终于可以在生产环境中使用啦",
-        "link": "https://toutiao.io/k/y32vbp3",
+        "title": "Istio Pilot 源码分析（一）",
+        "link": "https://toutiao.io/k/ofucg96",
         "date": "2020-09-14"
       },
       {
-        "title": "Istio Pilot 源码分析（一）",
-        "link": "https://toutiao.io/k/ofucg96",
+        "title": "Apache Spark 3.0 第一个稳定版发布，终于可以在生产环境中使用啦",
+        "link": "https://toutiao.io/k/y32vbp3",
         "date": "2020-09-14"
       },
       {
@@ -16724,18 +16719,8 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-14"
       },
       {
@@ -16744,38 +16729,8 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
+        "link": "https://toutiao.io/k/3683jxd",
         "date": "2020-09-14"
       },
       {
@@ -16784,8 +16739,43 @@
         "date": "2020-09-14"
       },
       {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-14"
+      },
+      {
         "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
         "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-14"
       },
       {
@@ -16794,8 +16784,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-14"
       }
     ]

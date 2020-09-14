@@ -5,6 +5,11 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "9月13日全国新增境外输入新冠10例 无症状感染者39例",
+        "link": "http://m.china.caixin.com/m/2020-09-14/101604856.html",
+        "date": "2020-09-13"
+      },
+      {
         "title": "舟山一外籍轮7名船员核检阳性 已隔离观察",
         "link": "http://m.china.caixin.com/m/2020-09-13/101604668.html",
         "date": "2020-09-12"
@@ -13107,6 +13112,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "印度新增新冠肺炎确诊病例92071例 累计确诊突破484万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5ccKEWcyeyP2nmDDFxH200914&isfromapp=1",
+        "date": "2020-09-14"
+      },
+      {
         "title": "首批俄新冠疫苗被运送至各地区 14日前交付",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5rz1tdX9wIIsFwHsrls200914&isfromapp=1",
         "date": "2020-09-14"
@@ -13125,11 +13135,6 @@
         "title": "英国报告显示受疫情影响全球出国旅行需求减少57%",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwIXkq2utuysv3cB51TCC200914&isfromapp=1",
         "date": "2020-09-14"
-      },
-      {
-        "title": "巴西新冠肺炎累计确诊人数超433万",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilMEQU9fHls8p2lbhKecg200914&isfromapp=1",
-        "date": "2020-09-13"
       }
     ]
   },
@@ -15931,16 +15936,6 @@
         "date": "2020-09-13"
       },
       {
-        "title": "多线程必考的「生产者 - 消费者」模型，看齐姐这篇文章就够了",
-        "link": "https://juejin.im/post/6872131047032553486",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "一个合格的中级前端工程师应该掌握的 20 个 Vue 技巧",
-        "link": "https://juejin.im/post/6872128694639394830",
-        "date": "2020-09-13"
-      },
-      {
         "title": "React-useTypescript!",
         "link": "https://juejin.im/post/6872003091047120909",
         "date": "2020-09-13"
@@ -15948,6 +15943,16 @@
       {
         "title": "parcel快速构建多页面应用",
         "link": "https://juejin.im/post/6871970727352860686",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "探索 React Hooks底层设计",
+        "link": "https://juejin.im/post/6871940895470518279",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "HTML5新增相关标签的和属性",
+        "link": "https://juejin.im/post/6871937593861210120",
         "date": "2020-09-13"
       }
     ]
@@ -16285,6 +16290,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "9 月 14 日（星期一）20:00 商汤科技事业群专场直播-MIG 专场等你来！",
+        "link": "https://www.v2ex.com/t/706853",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "求教大佬 sql 问题",
+        "link": "https://www.v2ex.com/t/706852",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "v2ex 上的朋友有做安全与风控的吗？",
+        "link": "https://www.v2ex.com/t/706851",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[深圳福田] 金融行业软件开发工程师（c++/c#）",
+        "link": "https://www.v2ex.com/t/706850",
+        "date": "2020-09-14"
+      },
+      {
         "title": "今天看不到帖子正文内容是啥情况？安卓的 V2er，是不是 V2EX 改网页结构了客户端解析不了？记得这个程序没用 v2 的 API。",
         "link": "https://www.v2ex.com/t/706849",
         "date": "2020-09-14"
@@ -16458,26 +16483,6 @@
         "title": "阿里云续费哪里领优惠？代理商们出来~",
         "link": "https://www.v2ex.com/t/706804",
         "date": "2020-09-14"
-      },
-      {
-        "title": "[南京.鼓楼] 求爬虫/反爬工程师、NLP/推荐算法工程师（可实习能转正），全职 15-20K/月，实习 300-500 元/天",
-        "link": "https://www.v2ex.com/t/706803",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "类似百度百科的弹出词条功能该怎么实现比较好？",
-        "link": "https://www.v2ex.com/t/706802",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "平台自营不同店铺是否涉及二清问题？",
-        "link": "https://www.v2ex.com/t/706801",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "Android 有没有好用的 Todo App 推荐？",
-        "link": "https://www.v2ex.com/t/706800",
-        "date": "2020-09-14"
       }
     ]
   },
@@ -16614,13 +16619,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "资料 | 华为鸿蒙操作系统学习资料汇总",
-        "link": "https://toutiao.io/k/slblr4a",
+        "title": "网站优化技巧之图片容量优化",
+        "link": "https://toutiao.io/k/naxh5kz",
         "date": "2020-09-14"
       },
       {
-        "title": "网站优化技巧之图片容量优化",
-        "link": "https://toutiao.io/k/naxh5kz",
+        "title": "资料 | 华为鸿蒙操作系统学习资料汇总",
+        "link": "https://toutiao.io/k/slblr4a",
         "date": "2020-09-14"
       },
       {
@@ -16664,13 +16669,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "结构与算法：队列和栈结构",
-        "link": "https://toutiao.io/k/4oq1oq8",
+        "title": "多线程：Rust 学习笔记",
+        "link": "https://toutiao.io/k/5r7vvxu",
         "date": "2020-09-14"
       },
       {
-        "title": "多线程：Rust 学习笔记",
-        "link": "https://toutiao.io/k/5r7vvxu",
+        "title": "结构与算法：队列和栈结构",
+        "link": "https://toutiao.io/k/4oq1oq8",
         "date": "2020-09-14"
       },
       {
@@ -16694,23 +16699,53 @@
         "date": "2020-09-14"
       },
       {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-14"
+      },
+      {
         "title": "[推荐] 一文了解 Zookeeper",
         "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一次完整的 JVM 堆外内存泄漏故障排查记录",
-        "link": "https://toutiao.io/k/u5ha7zq",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
         "date": "2020-09-14"
       },
       {
@@ -16724,48 +16759,18 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
-        "link": "https://toutiao.io/k/lerlnil",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-14"
-      },
-      {
         "title": "[推荐] 接口调度者：API 网关",
         "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-14"
       }
     ]

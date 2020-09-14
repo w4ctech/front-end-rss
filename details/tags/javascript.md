@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 15:47:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 15:49:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -39,10 +39,6 @@
 - [2020-09-04-【第2055期】如何用JavaScript检测空闲的浏览器标签](https://www.ershicimi.com/p/c32e4b47cdc9760e316fc3ad69997cf3) 
 - [2020-09-09-JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/84b3f04fb31d9be0836936577de6b023) 
 - [2020-09-01-组件库主题设计方案](https://www.ershicimi.com/p/fc0000487bd88250eda0ec26b8190db1) 
-- [2020-09-12-H5-秒开方案大全](https://www.ershicimi.com/p/75d29fd40c2aff8f2bb28cd44438223f) 
-- [2020-09-11-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/74bd803fe62c842c03de6bf050297dd8) 
-- [2020-09-09-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/9a5263bb72a424b82d761fd9e82a5152) 
-- [2020-09-06-包邮送8本《JavaScript编程精解》老鹰书](https://www.ershicimi.com/p/25c40b36c19ea0c48376bf45324e53f9) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
@@ -50,13 +46,12 @@
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
+- [2020-08-29-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/51d0c0cd051627d75fc8b9b08453cc70) 
+- [2020-08-26-轻松理解-JS-中的面向对象，顺便搞懂-prototype-和-__proto__](https://www.ershicimi.com/p/903b07549433d52ef56578c461a18318) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
 - [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
 - [2020-09-07-JS原型相关知识点](https://www.ershicimi.com/p/615ac57abc1d69cc60d1f97b775d75b1) 
-- [2020-09-12-函数式编程，“香”吗？](https://www.ershicimi.com/p/05a99c22bd5981bc13bce77ea1e8cf65) 
-- [2020-09-06-JavaScript红宝书第4版，送！！！](https://www.ershicimi.com/p/a4f6302fb39e9a27999c12cd5f220fb0) 
-- [2020-08-31-应该在JavaScript中使用Class吗](https://www.ershicimi.com/p/f907df50ac697ede04cc4769768768cd) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
 - [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 

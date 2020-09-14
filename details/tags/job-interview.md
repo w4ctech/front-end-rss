@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 14:48:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 15:03:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,6 +41,4 @@
 - [2020-09-09-我在近期求职中遇到的前端面试问题及其解法](https://www.ershicimi.com/p/e3e6661d7978bbd903b8cf73d5773d0e) 
 - [2020-09-14-第四期德国-IT-岗位招聘之-SAP-PLM-Project-Manager-,-IT-system-administrator,-PHP-developer](https://www.v2ex.com/t/706985) 
 - [2020-09-14-吐槽智联招聘，感觉设计真的智障](https://www.v2ex.com/t/706962) 
-- [2020-09-14-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
-- [2020-09-14-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
 - [2020-09-14-日赚1万5!暴利黑客行业“无需面试”~](https://sec.thief.one/article_content?a_id=f71799c45649c086991b5929b36fbee5) 

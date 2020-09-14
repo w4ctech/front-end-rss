@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-14 18:35:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 18:47:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -531,7 +531,6 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】分享400多道算法题，来挑战吧](https://www.ershicimi.com/p/4e88bfd1eb96ea5426860ad1aa28700b)
 - [【InfoQ】算法学不会？可能你该补补数学了丨极客时间](https://www.ershicimi.com/p/aa6dd30e2050ab90d15fd90aba0e0998)
-- [【V2EX】iPhone-蜂窝网络如何设置-http-代理？](https://www.v2ex.com/t/706979)
 - [【技术头条】主宰这个世界的-10-大算法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13768&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlIeT6xeYWx0bYiIDgiJHpQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

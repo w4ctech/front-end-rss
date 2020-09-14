@@ -16300,7 +16300,52 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "自荐开发的前后端分离的的后台权限管理框架 CatchAdmin",
+        "title": "我就想问问有几个失业的",
+        "link": "https://www.v2ex.com/t/706950",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "十月离职工资如何算",
+        "link": "https://www.v2ex.com/t/706949",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "经常忘记亲人朋友的生日，写个小程序来记生日和提醒生日！",
+        "link": "https://www.v2ex.com/t/706947",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[百度上海研发中心] 招聘后端 Java 和前端工程师",
+        "link": "https://www.v2ex.com/t/706946",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "netty 多线程下载服务器 OOM",
+        "link": "https://www.v2ex.com/t/706944",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "滴滴 20 优惠券",
+        "link": "https://www.v2ex.com/t/706943",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "翻译翻译什么叫钱给够",
+        "link": "https://www.v2ex.com/t/706942",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "带老婆零基础转程序媛， 3 个月成功上岸亚马逊!",
+        "link": "https://www.v2ex.com/t/706941",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "postgresql+zhparser 模糊搜索出现 NOTICE: text-search query contains only stop words or doesn't contain lexemes, ignored",
+        "link": "https://www.v2ex.com/t/706940",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "自荐开发的前后端分离的的权限管理后台",
         "link": "https://www.v2ex.com/t/706939",
         "date": "2020-09-14"
       },
@@ -16463,46 +16508,6 @@
         "title": "静态分析二进制文件系统调用，请问 Python 为什么找不到 socket",
         "link": "https://www.v2ex.com/t/706901",
         "date": "2020-09-14"
-      },
-      {
-        "title": "一个很冷门的领域，佛教 App",
-        "link": "https://www.v2ex.com/t/706898",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "iOS 企业证书签名，价格优惠",
-        "link": "https://www.v2ex.com/t/706897",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "有没有程序猿小哥哥喜欢研究护肤的",
-        "link": "https://www.v2ex.com/t/706896",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "另辟蹊径在 Linux 下使用微信",
-        "link": "https://www.v2ex.com/t/706895",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "小偿领养加州荷兰猪",
-        "link": "https://www.v2ex.com/t/706893",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "redis 的持久化方式 RDB 和 AOF 各自是什么英文的缩写？用中文如何翻译最信达雅？",
-        "link": "https://www.v2ex.com/t/706892",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "golang 的模板为什么只能有一个数据根呢",
-        "link": "https://www.v2ex.com/t/706891",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "太难了，项目砍掉 PHP ，强转 Java ，学不下去怎么破。",
-        "link": "https://www.v2ex.com/t/706890",
-        "date": "2020-09-14"
       }
     ]
   },
@@ -16664,13 +16669,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "Istio Pilot 源码分析（一）",
-        "link": "https://toutiao.io/k/ofucg96",
+        "title": "Apache Spark 3.0 第一个稳定版发布，终于可以在生产环境中使用啦",
+        "link": "https://toutiao.io/k/y32vbp3",
         "date": "2020-09-14"
       },
       {
-        "title": "Apache Spark 3.0 第一个稳定版发布，终于可以在生产环境中使用啦",
-        "link": "https://toutiao.io/k/y32vbp3",
+        "title": "Istio Pilot 源码分析（一）",
+        "link": "https://toutiao.io/k/ofucg96",
         "date": "2020-09-14"
       },
       {
@@ -16719,58 +16724,13 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，又把并发 CAS (Compare and Swap) 实现重新精读一遍",
-        "link": "https://toutiao.io/k/3683jxd",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
-        "link": "https://toutiao.io/k/w8xis2z",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
         "date": "2020-09-14"
       },
       {
@@ -16779,18 +16739,63 @@
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-14"
       },
       {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 20 个 MySQL 高性能架构设计原则",
+        "link": "https://toutiao.io/k/dkcgweu",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "[推荐] 王者荣耀为什么不使用微服务架构？",
+        "link": "https://toutiao.io/k/w8xis2z",
         "date": "2020-09-14"
       }
     ]

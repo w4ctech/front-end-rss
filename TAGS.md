@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-14 09:48:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 10:03:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -214,6 +214,7 @@
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端之巅】滴滴出行小程序多语言-I18n-实践](https://www.ershicimi.com/p/b7e7335bdc2e3e334766965eca9626ba)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】经常忘记亲人朋友的生日，写个小程序来记生日和提醒生日！](https://www.v2ex.com/t/706947)
 - [【安全热点】记一次小程序加解密测试](https://sec.thief.one/article_content?a_id=6d8c03267cba5037282d08697e4af441)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -412,6 +413,7 @@
 - [【互联网架构师】点赞模块设计：Redis缓存-+-定时写入数据库实现高性能点赞功能](https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】网站优化技巧之图片容量优化](https://toutiao.io/k/naxh5kz)
+- [【开发者头条】推荐-20-个-MySQL-高性能架构设计原则](https://toutiao.io/k/dkcgweu)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -520,7 +522,6 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

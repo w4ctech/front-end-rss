@@ -14870,6 +14870,26 @@
     "title": "前端瓶子君",
     "items": [
       {
+        "title": "Angular、React、Vue三大框架逻辑复用横评",
+        "link": "https://www.ershicimi.com/p/cf03861ea29d8902d2a3453b49c91b62",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "【译】深入了解V8",
+        "link": "https://www.ershicimi.com/p/f146696392d62087be2f1c565ba505c6",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "大数据时代下的“火眼金睛”？如何高效精准快速地学习目标检测？",
+        "link": "https://www.ershicimi.com/p/c64ebfa4a7d0c3741fa32e571eaf65e0",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "low-code？与20年前的Dreamweaver有什么区别？",
+        "link": "https://www.ershicimi.com/p/5e40fd5d66061b54ee4d15cd83362bfe",
+        "date": "2020-09-14"
+      },
+      {
         "title": "腾讯新闻前端团队：深入理解前端性能监控",
         "link": "https://www.ershicimi.com/p/0dc883c40b3a91eda21efc54ba4b23f9",
         "date": "2020-09-13"
@@ -14948,26 +14968,6 @@
         "title": "Babel是如何读懂JS代码的",
         "link": "https://www.ershicimi.com/p/24a26a39eb2b1bc8e4d20dde4f6449d6",
         "date": "2020-09-04"
-      },
-      {
-        "title": "Gitlab-ci: 从零开始的前端自动化部署",
-        "link": "https://www.ershicimi.com/p/05ba755e5bac48080c5e505679b60857",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "可能是最全的 “文本溢出截断省略” 方案合集",
-        "link": "https://www.ershicimi.com/p/15d38aaeccc4caf4f061a31d5abf8df9",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "写React Hooks前必读",
-        "link": "https://www.ershicimi.com/p/2a0754e176bef859c1d8c6f4fd975b4e",
-        "date": "2020-09-02"
-      },
-      {
-        "title": "面试字节27K岗，3道题就被干掉",
-        "link": "https://www.ershicimi.com/p/cd5098c850b48905d5cc8c1c72a88c39",
-        "date": "2020-09-01"
       }
     ],
     "link": "https://www.ershicimi.com/a/10641"
@@ -17451,6 +17451,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "业务方向会影响未来个人的发展吗？",
+        "link": "https://www.v2ex.com/t/707390",
+        "date": "2020-09-15"
+      },
+      {
         "title": "这个 iOS 14 更新是 GM 吗？",
         "link": "https://www.v2ex.com/t/707389",
         "date": "2020-09-15"
@@ -17638,11 +17643,6 @@
       {
         "title": "把互联网服务搭建在移动中的非固定场所非固定 ip 还受现有法规监管吗",
         "link": "https://www.v2ex.com/t/707343",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "分享一部 Netflix 的纪录片《监视资本主义：智能陷阱》",
-        "link": "https://www.v2ex.com/t/707340",
         "date": "2020-09-15"
       }
     ]
@@ -17865,58 +17865,18 @@
         "date": "2020-09-15"
       },
       {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-15"
+      },
+      {
         "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
         "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 30 个网站产品落地页免费模板",
-        "link": "https://toutiao.io/k/qrs55xl",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
-        "link": "https://toutiao.io/k/pz73jc0",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-15"
       },
       {
@@ -17925,18 +17885,58 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
+        "title": "[推荐] 30 个网站产品落地页免费模板",
+        "link": "https://toutiao.io/k/qrs55xl",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
         "date": "2020-09-15"
       },
       {
         "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
         "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-15"
       }
     ]

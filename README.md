@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 16:48:55，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 17:04:10，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-15-在京东自营买的海德划船机，使用中受伤了，我该如何维权！](https://www.v2ex.com/t/707366) ![](assets/new.png)  
 - [2020-09-15-iPhone-8-升级到-13.7-空间清理了-20G+](https://www.v2ex.com/t/707361) ![](assets/new.png)  
 - [2020-09-15-做了一个聚合-Instagram-照片的网站---Insroll.com](https://www.v2ex.com/t/707360) ![](assets/new.png)  
 - [2020-09-15-西安-翼辉信息西安研发中心秋季招聘](https://www.v2ex.com/t/707359) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-15-分享一部-Netflix-的纪录片《监视资本主义：智能陷阱》](https://www.v2ex.com/t/707340) ![](assets/new.png)  
 - [2020-09-15-建了一个用户可以发布和订阅临时主题的网站---minorpage.com](https://www.v2ex.com/t/707338) ![](assets/new.png)  
 - [2020-09-15-JDK15-今天发布没人关心一下吗？](https://www.v2ex.com/t/707337) ![](assets/new.png)  
-- [2020-09-15-JavaScript-事件循环与主代码关系](https://www.v2ex.com/t/707336) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

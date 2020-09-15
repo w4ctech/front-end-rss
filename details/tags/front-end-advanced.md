@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 13:11:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 13:22:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -15,5 +15,6 @@
 - [2020-01-03-第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf) 
 - [2020-09-10-分享400多道算法题，来挑战吧](https://www.ershicimi.com/p/4e88bfd1eb96ea5426860ad1aa28700b) 
 - [2020-09-13-快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b) 
+- [2020-09-15-北京汉迪移动，坐标五道口，职位需求大数据开发，推荐算法工程师。薪资-35-50-之间（或原始薪资上合理涨幅）](https://www.v2ex.com/t/707286) 
 - [2020-09-15-主宰这个世界的-10-大算法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13768&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlIeT6xeYWx0bYiIDgiJHpQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-15-中科院博士整理的机器学习算法知识手册-|-附PDF下载](https://sec.thief.one/article_content?a_id=5fff48d65aa1f5a391f61b570dc3f675) 

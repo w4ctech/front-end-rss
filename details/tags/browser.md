@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 13:11:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 13:22:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,6 +36,7 @@
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2020-09-15-面试官：你了解数据安全传输吗？](https://juejin.im/post/6872669413981159438) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-15-字节跳动---内容安全北京前端团队招聘](https://www.v2ex.com/t/707265) 
 - [2020-09-15-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-15-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-15-先声夺人|《2020年数据安全典型实践案例》云鼎获荐](https://sec.thief.one/article_content?a_id=b61a397f5b2547c8c1f0c68deae5a65a) 

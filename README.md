@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 07:49:34，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 08:04:09，:rocket: 更新条数: +3409， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,7 +1057,11 @@
 </summary>
 
 
-- [2020-09-15-如果没有本地服务功能，业务集中在服务端，那-app-端有必要进行混淆或加固防破解么？](https://www.v2ex.com/t/707215) ![](assets/new.png)  
+- [2020-09-15-关于-go-在-Linux-,-amd64-平台下的系统调用问题](https://www.v2ex.com/t/707219) ![](assets/new.png)  
+- [2020-09-15-请教：-AWS-的-Route53-服务，怎么把-@通配符解析为-cname？](https://www.v2ex.com/t/707218) ![](assets/new.png)  
+- [2020-09-15-如何快速压缩-40T-的图片](https://www.v2ex.com/t/707217) ![](assets/new.png)  
+- [2020-09-15-2020-款的-MBP-真的问题多多-还是-17-款的-MBP-用着舒心](https://www.v2ex.com/t/707216) ![](assets/new.png)  
+- [2020-09-15-如果-app-端没有本地服务业务，业务都集中在服务端，那-app-端有必要进行混淆或加固防破解么？](https://www.v2ex.com/t/707215) ![](assets/new.png)  
 - [2020-09-15-如何快速判断-24-口交换机，每个口都是能正常工作的，不会有坏口](https://www.v2ex.com/t/707214) ![](assets/new.png)  
 - [2020-09-15-请教一个威联通管理员访问普通用户相册的问题？](https://www.v2ex.com/t/707213) ![](assets/new.png)  
 - [2020-09-15-2020-年了,-能同时在-苹果-安卓-群辉-NAS-识别的-磁盘格式,-最佳实践是什么?](https://www.v2ex.com/t/707212) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-15-华为/松研所&苏研所/企业智慧屏---Java-/android/c/c++-高级开发工程师（15-17-级，华为编制,-30k---50k,-14-薪）](https://www.v2ex.com/t/707200) ![](assets/new.png)  
 - [2020-09-15-测试工程师](https://www.v2ex.com/t/707199) ![](assets/new.png)  
 - [2020-09-15-恒大开始-7-12-工作制，降薪+取消双休](https://www.v2ex.com/t/707196) ![](assets/new.png)  
-- [2020-09-15-有什么好用的大数据服务商?](https://www.v2ex.com/t/707195) ![](assets/new.png)  
-- [2020-09-15-难道云上贵州-iCloud-的图片已经同步到百度服务器上了？](https://www.v2ex.com/t/707194) ![](assets/new.png)  
-- [2020-09-15-我一直比较纳闷为什么阿里云不把-net.cn-执行-www.net.cn](https://www.v2ex.com/t/707193) ![](assets/new.png)  
-- [2020-09-15-请教各位运维大佬有没有可以统一管理项目发布的平台或者工具呢？](https://www.v2ex.com/t/707192) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

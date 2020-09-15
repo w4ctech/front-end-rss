@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-15 09:12:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 09:24:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
 
 
+- [2020-09-14-落魄前端，整理给自己的前端知识体系复习大纲（第一篇，上百知识点，2W字+）](https://www.ershicimi.com/p/85f881a3b16ac667b0141712bd345c4e) 
 - [2020-09-12-5个很常用的CSS3网页小实例](https://www.ershicimi.com/p/cc31a0415cd6949432efb37fa6d0bf27) 
 - [2020-09-11-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/c17632c9138f5cb25baa775890519b34) 
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
@@ -24,4 +25,3 @@
 - [2020-08-26-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/c137ee5ba9af6ee1df54d4ace219d1b7) 
 - [2020-08-25-为什么阿里P6+前端这么值钱?](https://www.ershicimi.com/p/d1817ac2caa875b27ca8ab9965b15bd9) 
 - [2020-08-24-前端工程师如何修炼自己的编程内力](https://www.ershicimi.com/p/0784280e1ffd19b5c51fd601c3f53262) 
-- [2020-08-21-前端的核心竞争力在哪里？](https://www.ershicimi.com/p/4edf132a9c1fd2aaf3c1f58d23764169) 

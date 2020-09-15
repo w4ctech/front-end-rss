@@ -16330,6 +16330,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Windows 系统有没有专门做弹窗拦截的软件？",
+        "link": "https://www.v2ex.com/t/707290",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "为什么同步代码块升级到轻量级锁，而不是偏向锁了呢",
+        "link": "https://www.v2ex.com/t/707289",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "在操作系统终端中进行翻译的程序会有人使用吗？",
+        "link": "https://www.v2ex.com/t/707288",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "跟谁学-高途课堂，坐标西二旗，职级在 p5-p8 之间都会考虑（对标阿里）职位需求如下",
+        "link": "https://www.v2ex.com/t/707287",
+        "date": "2020-09-15"
+      },
+      {
         "title": "北京汉迪移动，坐标五道口，职位需求大数据开发，推荐算法工程师。薪资 35-50 之间（或原始薪资上合理涨幅）",
         "link": "https://www.v2ex.com/t/707286",
         "date": "2020-09-15"
@@ -16517,26 +16537,6 @@
       {
         "title": "为什么现在的笔记本纷纷取消以太网口，却对 TF 卡这种保留再三？",
         "link": "https://www.v2ex.com/t/707242",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "知道创宇秋季活动开启，欢迎朋友们来选购合适的安全产品！ [老规矩，内有抽奖]",
-        "link": "https://www.v2ex.com/t/707241",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[出租/整租][西湖区-嘉绿-世纪新城][1 室 1 厅]东边套 50 平，全屋落地窗，边上是超市和地铁口，龙湖物业",
-        "link": "https://www.v2ex.com/t/707240",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "ios 两个 ViewController 跳转相关问题咨询",
-        "link": "https://www.v2ex.com/t/707239",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "2020 苹果发布会讨论，这回没有第三方直播了",
-        "link": "https://www.v2ex.com/t/707238",
         "date": "2020-09-15"
       }
     ]
@@ -16729,13 +16729,13 @@
         "date": "2020-09-15"
       },
       {
-        "title": "ClickHouse 入门基础知识了解",
-        "link": "https://toutiao.io/k/636xeiy",
+        "title": "再见 RNN，你好 TCN",
+        "link": "https://toutiao.io/k/cxh30fi",
         "date": "2020-09-15"
       },
       {
-        "title": "再见 RNN，你好 TCN",
-        "link": "https://toutiao.io/k/cxh30fi",
+        "title": "ClickHouse 入门基础知识了解",
+        "link": "https://toutiao.io/k/636xeiy",
         "date": "2020-09-15"
       },
       {
@@ -16759,13 +16759,8 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-15"
       },
       {
@@ -16774,23 +16769,18 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
         "date": "2020-09-15"
       },
       {
@@ -16799,28 +16789,23 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-15"
-      },
-      {
         "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
         "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-15"
       },
       {
@@ -16829,8 +16814,23 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-15"
       }
     ]

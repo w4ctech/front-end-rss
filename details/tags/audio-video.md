@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 12:04:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 12:15:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,6 +85,7 @@
 - [2020-09-15-作业帮---直播---Android-工程师](https://www.v2ex.com/t/707273) 
 - [2020-09-15-🔥新加坡-技术移民机会新加坡知名互联网公司，招聘前端，后端开发，-DevOps-工程师，-iOS,安卓开发等方向，另寻高级架构专家，-Head-of-Devops-及音视频工...](https://www.v2ex.com/t/707261) 
 - [2020-09-15-是时候上车-Jetpack-了，内含音乐播放器实例-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13760&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FawtTAUx47pjTcQVJxkMydA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-15-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) 
 - [2020-09-15-【视频】|-Python:逻辑运算符](https://sec.thief.one/article_content?a_id=6c5f82c5ca33a779fcba1eb9e418b2f6) 
 - [2020-09-14-活动-|-APP不下架的内容合规秘诀,参与直播,立刻拥有!](https://sec.thief.one/article_content?a_id=55919235dd4c64cbe03d318a1125bc04) 
 - [2020-09-14-【视频】|-2020年国家网络安全宣传周:网络安全为人民,网络安全靠...](https://sec.thief.one/article_content?a_id=b9be403f6e904adf6180e5f8aa417d79) 

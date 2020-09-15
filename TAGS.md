@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-15 12:04:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 12:15:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -127,7 +127,6 @@
 - [【程序员成长指北】Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/040abb2abbc6153f2f63af356c4edcb8)
 - [【InfoQ】尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/d95588bb2dfefaac5fb01927aca21dad)
 - [【JavaScript】【软件更新】TypeScript-4.0正式发布！](https://www.ershicimi.com/p/8a2344e4dbdfdd6502c56441d6475911)
-- [【掘金前端】从编译器出发深入理解Typescript](https://juejin.im/post/6872617267323109389)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -159,6 +158,7 @@
 - [【Nodejs技术栈】一篇文章构建你的-Node.js-知识体系](https://www.ershicimi.com/p/f1fb1a33a8919fc776903a2c25cf09d2)
 - [【Nodejs技术栈】13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0)
 - [【前端日刊】webpack-这么牛X，你还不会用？](https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1)
+- [【掘金前端】【webpack系列】webpack内部机制](https://juejin.im/post/6872590966466576397)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [......【查看更多】......](./details/tags/pack-build.md)
 

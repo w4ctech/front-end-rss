@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 23:22:21，:rocket: 更新条数: +3634， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 23:32:02，:rocket: 更新条数: +3636， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-15-纠结-做了一个小程序刚刚起色，有人出钱想买下来，该不该卖掉?](https://www.v2ex.com/t/707393) ![](assets/new.png)  
+- [2020-09-15-感觉-apple-watch4-都不需要升级了，米兰尼斯系列](https://www.v2ex.com/t/707392) ![](assets/new.png)  
+- [2020-09-15-后端开发用得到-scala-吗，有没有必要学习？](https://www.v2ex.com/t/707391) ![](assets/new.png)  
 - [2020-09-15-业务方向会影响未来个人的发展吗？](https://www.v2ex.com/t/707390) ![](assets/new.png)  
 - [2020-09-15-这个-iOS-14-更新是-GM-吗？](https://www.v2ex.com/t/707389) ![](assets/new.png)  
 - [2020-09-15-熬夜看了苹果发布会，这是发布了个寂寞？](https://www.v2ex.com/t/707388) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-09-15-深夜提问-诸位-phper-的-composer-部署流程是怎么样的](https://www.v2ex.com/t/707376) ![](assets/new.png)  
 - [2020-09-15-所以-12-还要专门再来一场？](https://www.v2ex.com/t/707375) ![](assets/new.png)  
 - [2020-09-15-apple-特别活动结束，确定没有新-iPhone](https://www.v2ex.com/t/707373) ![](assets/new.png)  
-- [2020-09-15-所以国行手表是不是又会阉割血氧啊？](https://www.v2ex.com/t/707372) ![](assets/new.png)  
-- [2020-09-15-新-iPad-Air-发布了，-599-刀起](https://www.v2ex.com/t/707371) ![](assets/new.png)  
-- [2020-09-15-请问在火币网工作有什么风险吗](https://www.v2ex.com/t/707370) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

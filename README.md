@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 15:34:43，:rocket: 更新条数: +3412， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 15:47:10，:rocket: 更新条数: +3412， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-15-马来西亚总理：国家仍未切断新冠病毒传播链，近期疫情状况令人担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwsMKZpfzPCzZ4wCp7atG200915&isfromapp=1) ![](assets/new.png)  
+- [2020-09-15-泰国旅游签证出新政，外国游客隔离-14-天后可获至少-90-天签证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikpbEKL42xlFI7lK9jAhZ200915&isfromapp=1) ![](assets/new.png)  
+- [2020-09-15-中国电影发行放映协会15日发布新规：电影院每场上座率不得超过75%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMMVoQb2H6vPduswDgSCD200915&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-伊朗新增2705例新冠肺炎确诊病例-累计确诊407353例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1UIDprDfHrFvwT9w3YG5200915&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-菲律宾新增3544例新冠肺炎确诊病例-累计达269407例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJbZEz5nuV2HjJB204zSF200915&isfromapp=1) ![](assets/new.png)  
-- [2020-09-15-​受疫情影响-英国年轻人失业率攀升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip5WdVZgnVZvo3Gcoh5ot200915&isfromapp=1) ![](assets/new.png)  
-- [2020-09-15-德国小镇一周增55例确诊病例-或与一位美国人有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSoBJ6GFpMEI5CM2HUNSB200915&isfromapp=1) ![](assets/new.png)  
-- [2020-09-15-美高校新冠肺炎确诊病例超8.8万-前官员：应对失败归咎因国家领导层](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUzrZ8Jrt5yWKgftLjBTR200915&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-15-如果今晚发布了新-iPad-Air，还可以用教育优惠吗](https://www.v2ex.com/t/707351) ![](assets/new.png)  
+- [2020-09-15-成都-内推-美菜网-后台开发/前端/测试/产品，欢迎投递简历](https://www.v2ex.com/t/707350) ![](assets/new.png)  
 - [2020-09-15-邻里：面向北美华人的轻论坛](https://www.v2ex.com/t/707349) ![](assets/new.png)  
 - [2020-09-15-刚买了-epubee-的-10-年会员，迫于网站可能跑路风险](https://www.v2ex.com/t/707348) ![](assets/new.png)  
 - [2020-09-15-现在最便宜-5g-手机是什么，想用来当热点](https://www.v2ex.com/t/707347) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-15-推荐桌子](https://www.v2ex.com/t/707329) ![](assets/new.png)  
 - [2020-09-15-如何关闭支付宝基金的净值估算](https://www.v2ex.com/t/707328) ![](assets/new.png)  
 - [2020-09-15-可能很蠢的问题：如何-100%避免入职-3-个月内被辞退？](https://www.v2ex.com/t/707327) ![](assets/new.png)  
-- [2020-09-15-两台设备应该如何通过网线连接共享互联网呢？](https://www.v2ex.com/t/707326) ![](assets/new.png)  
-- [2020-09-15-智联招聘的国企投递记录会删除吗？](https://www.v2ex.com/t/707325) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,9 +1131,9 @@
 - [2020-09-15-软件测试人员的职业发展](https://toutiao.io/k/y3xrbca) ![](assets/new.png)  
 - [2020-09-15-Go：A-Documentary-发布](https://toutiao.io/k/49m9qqf) ![](assets/new.png)  
 - [2020-09-15-代码重构之法：方法重构分析](https://toutiao.io/k/dkhtai6) ![](assets/new.png)  
-- [2020-09-15-简单来说，它就是用来滚动切换列表项的](https://toutiao.io/k/u5s4huf) ![](assets/new.png)  
 - [2020-09-15-Spring-5-中文解析核心篇：集成测试之-TestContext](https://toutiao.io/k/nf5076v) ![](assets/new.png)  
 - [2020-09-15-ClickHouse-入门基础知识了解](https://toutiao.io/k/636xeiy) ![](assets/new.png)  
+- [2020-09-15-简单来说，它就是用来滚动切换列表项的](https://toutiao.io/k/u5s4huf) ![](assets/new.png)  
 - [2020-09-15-再见-RNN，你好-TCN](https://toutiao.io/k/cxh30fi) ![](assets/new.png)  
 - [2020-09-15-Fragment-时长统计那些事](https://toutiao.io/k/lkwonde) ![](assets/new.png)  
 - [2020-09-15-如果故障选择了你](https://toutiao.io/k/ayhw7ik) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 02:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 02:13:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -39,6 +39,7 @@
 - [2020-09-04-【第2055期】如何用JavaScript检测空闲的浏览器标签](https://www.ershicimi.com/p/c32e4b47cdc9760e316fc3ad69997cf3) 
 - [2020-09-09-JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/84b3f04fb31d9be0836936577de6b023) 
 - [2020-09-01-组件库主题设计方案](https://www.ershicimi.com/p/fc0000487bd88250eda0ec26b8190db1) 
+- [2020-09-15-2020年8月Github上最热门的JavaScript开源项目排行](https://www.ershicimi.com/p/5be35f333ef5c3d9b4115629921c4fef) 
 - [2020-09-12-H5-秒开方案大全](https://www.ershicimi.com/p/75d29fd40c2aff8f2bb28cd44438223f) 
 - [2020-09-11-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/74bd803fe62c842c03de6bf050297dd8) 
 - [2020-09-09-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/9a5263bb72a424b82d761fd9e82a5152) 
@@ -96,12 +97,12 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-09-15-招兼职前端-H5-开发，开发一个官网！](https://www.v2ex.com/t/707066) 
 - [2020-09-15-用动态路由打通各-Virtual-L2（Zerotier）网络](https://www.v2ex.com/t/707060) 
 - [2020-09-15-巨硬面试题：最大子数组](https://www.v2ex.com/t/707036) 
 - [2020-09-15-如何实现一个优雅的Python的Json序列化库-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13755&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-python-json-library%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-15-Go：A-Documentary-发布](https://toutiao.io/k/49m9qqf) 
 - [2020-09-15-简单来说，它就是用来滚动切换列表项的](https://toutiao.io/k/u5s4huf) 
-- [2020-09-15-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-13-BUF大事件丨1780个流行安卓APP违反加密规则;工信部通报101款违...](https://sec.thief.one/article_content?a_id=885824c80b2d0c2441dba6b444c9484e) 
 - [2020-09-12-从手机失窃事件看手机安全问题](https://sec.thief.one/article_content?a_id=d550f1f3c13708b02436a95ae9b0e829) 
 - [2020-09-11-我和JS文件不得不说的故事](https://sec.thief.one/article_content?a_id=630a9b1d3482e432a0172abd933451e8) 

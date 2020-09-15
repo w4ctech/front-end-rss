@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 02:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 02:13:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -13,6 +13,7 @@
 - [2020-09-08-从外包到-React-核心团队成员](https://www.ershicimi.com/p/83a31cd3cc5ae4c47aa0cdae71c1fb7b) 
 - [2020-09-07-原来-React-是为这些人量身定制](https://www.ershicimi.com/p/8185ce0198ae71897b1d9c435d4f5258) 
 - [2020-09-04-React-Hooks-设计思想](https://www.ershicimi.com/p/6a8cc0a216dfb372fc6a8e79b545538f) 
+- [2020-09-15-阿里前端面试归来，简易-React-框架怎么造？？](https://www.ershicimi.com/p/ffc2d703b67547974c5502691d5de5ff) 
 - [2020-09-10-React-中请求远程数据的四种方法](https://www.ershicimi.com/p/77692ffc1a5c773458ec1ebc84235314) 
 - [2020-02-13-工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040) 
 - [2020-02-12-工具控-react-优化里面用到-lodash.memoize](https://www.ershicimi.com/p/8030f9ceac2221818a92f0a24cede590) 
@@ -32,5 +33,4 @@
 - [2020-09-14-来呀，一起造一个简易React！](https://www.ershicimi.com/p/2693c1565e0eed4bb363bf8ef1d47357) 
 - [2020-09-10-从零手写实现React-Hooks！](https://www.ershicimi.com/p/6680d662cc773c847ef42cc1aa7206b2) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
-- [2020-09-08-6个常用的React组件库](https://www.ershicimi.com/p/b29088ee78904693d4cfb04c6c3fe15a) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 

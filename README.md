@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 04:47:37，:rocket: 更新条数: +3409， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 05:03:22，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-15-flameshot-截图工具-0.8.0-Beta-释出](https://www.v2ex.com/t/707152) ![](assets/new.png)  
+- [2020-09-15-怎么开通百度网盘会员最便宜](https://www.v2ex.com/t/707150) ![](assets/new.png)  
 - [2020-09-15-FastStone-Capture--截图神器！终于被软购商城代理！正版官方授权特价出售！](https://www.v2ex.com/t/707149) ![](assets/new.png)  
 - [2020-09-15-公司不续签合同，经济补偿怎么算](https://www.v2ex.com/t/707148) ![](assets/new.png)  
 - [2020-09-15-做一家这样的公司靠谱吗？](https://www.v2ex.com/t/707147) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-15-有没有安卓的支持-office，-pdf-等格式-d-额文档查看器的程序](https://www.v2ex.com/t/707129) ![](assets/new.png)  
 - [2020-09-15-「美团金服北京社招」---新增长业务---保险前端持续招人中](https://www.v2ex.com/t/707128) ![](assets/new.png)  
 - [2020-09-15-小程序运营推广交流群](https://www.v2ex.com/t/707127) ![](assets/new.png)  
-- [2020-09-15-#杭州#-字节跳动-电商团队招人啦！~-前端&后端&测试岗位-hc-非常多社招，机会难得，考虑一下呗？](https://www.v2ex.com/t/707126) ![](assets/new.png)  
-- [2020-09-15-大家生产环境服务器是选用-Ubuntu-还是-CentOS？](https://www.v2ex.com/t/707125) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1135,8 +1135,8 @@
 - [2020-09-15-Fragment-时长统计那些事](https://toutiao.io/k/lkwonde) ![](assets/new.png)  
 - [2020-09-15-taro-script-0.4-发布，基于-Taro-v3-的-JavaScript-解释器组件](https://toutiao.io/k/ta5m0wy) ![](assets/new.png)  
 - [2020-09-15-Spring-5-中文解析核心篇：集成测试之-TestContext](https://toutiao.io/k/nf5076v) ![](assets/new.png)  
-- [2020-09-15-再见-RNN，你好-TCN](https://toutiao.io/k/cxh30fi) ![](assets/new.png)  
 - [2020-09-15-ClickHouse-入门基础知识了解](https://toutiao.io/k/636xeiy) ![](assets/new.png)  
+- [2020-09-15-再见-RNN，你好-TCN](https://toutiao.io/k/cxh30fi) ![](assets/new.png)  
 - [2020-09-15-Jenkins-在-Kubernetes-中的-DevOps-流水线最佳实践](https://toutiao.io/k/9kjjnxj) ![](assets/new.png)  
 - [2020-09-15-Life-of-a-Packet-in-Cilium：实地探索-Pod-to-Service-转发路径及-BPF-处理逻辑](https://toutiao.io/k/9ad80ce) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

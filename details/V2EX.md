@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-15 04:47:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 05:03:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-15-flameshot-截图工具-0.8.0-Beta-释出](https://www.v2ex.com/t/707152) 
+- [2020-09-15-怎么开通百度网盘会员最便宜](https://www.v2ex.com/t/707150) 
 - [2020-09-15-FastStone-Capture--截图神器！终于被软购商城代理！正版官方授权特价出售！](https://www.v2ex.com/t/707149) 
 - [2020-09-15-公司不续签合同，经济补偿怎么算](https://www.v2ex.com/t/707148) 
 - [2020-09-15-做一家这样的公司靠谱吗？](https://www.v2ex.com/t/707147) 
@@ -42,6 +44,3 @@
 - [2020-09-15-35-岁被裁不是很正常的事吗？](https://www.v2ex.com/t/707106) 
 - [2020-09-15-Google-pixel-在-store-官网通过-imei-查询,没有显示-unlocked。说明什么？](https://www.v2ex.com/t/707105) 
 - [2020-09-15-北京西二旗-贝壳找房-招聘内推：-Java-开发工程师，大前端工程师（FE+客户端）](https://www.v2ex.com/t/707104) 
-- [2020-09-15-Win10-开机总用临时配置文件登录如何是好？没修改过用户名](https://www.v2ex.com/t/707102) 
-- [2020-09-15-gitlab-通过别人的-merge-请求后，触发-ci-的-pipline-失败，如何设置邮件通知到申请-merge-的人员？](https://www.v2ex.com/t/707101) 
-- [2020-09-15-Airpods-2-/-Airpods-Pro-的自动切换-/-空间音频功能来了，给大家说一下手动更新方法](https://www.v2ex.com/t/707100) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 02:13:52，:rocket: 更新条数: +3403， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 02:25:44，:rocket: 更新条数: +3401， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-15-有没有正在用-ChatOpslack/rocketchat来管理自己事务的-v-友，可以分享一下经验吗？](https://www.v2ex.com/t/707072) ![](assets/new.png)  
+- [2020-09-15-2020-09-14-铜豌豆软件源快讯：](https://www.v2ex.com/t/707070) ![](assets/new.png)  
+- [2020-09-15-MSVC-支持-C11-和-C17-了](https://www.v2ex.com/t/707069) ![](assets/new.png)  
 - [2020-09-15-成都-offer-求比较](https://www.v2ex.com/t/707067) ![](assets/new.png)  
 - [2020-09-15-招兼职前端-H5-开发，开发一个官网！](https://www.v2ex.com/t/707066) ![](assets/new.png)  
 - [2020-09-15-Mac-按键回显软件有和-keycastr-类似的么？](https://www.v2ex.com/t/707065) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-15-不懂就问，独显的-mac-pro-也卡顿掉帧么](https://www.v2ex.com/t/707049) ![](assets/new.png)  
 - [2020-09-15-推荐流_feed-流_吃饭流_极简版-1.0-想了好几天了准备代码完善一下](https://www.v2ex.com/t/707047) ![](assets/new.png)  
 - [2020-09-15-你的薪资被倒挂了吗？](https://www.v2ex.com/t/707046) ![](assets/new.png)  
-- [2020-09-15-关于职业生涯的规划。是否应该纠结于大公司？](https://www.v2ex.com/t/707045) ![](assets/new.png)  
-- [2020-09-15-找工作，有一到两年工作经验的面试跟应届生面试区别大吗?](https://www.v2ex.com/t/707044) ![](assets/new.png)  
-- [2020-09-15-腾讯云十周年续费活动最后三天，续费可低至-2.4-折。](https://www.v2ex.com/t/707042) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,19 +1126,19 @@
 - [2020-09-15-迁到-K8s-后服务老莫名重启？把-Go-的运行时错误重定向到文件](https://toutiao.io/k/1k49r2m) ![](assets/new.png)  
 - [2020-09-15-持久化内存调研](https://toutiao.io/k/4kl7jme) ![](assets/new.png)  
 - [2020-09-15-Go：A-Documentary-发布](https://toutiao.io/k/49m9qqf) ![](assets/new.png)  
-- [2020-09-15-软件测试人员的职业发展](https://toutiao.io/k/y3xrbca) ![](assets/new.png)  
 - [2020-09-15-译-Kubectl-的奇技淫巧](https://toutiao.io/k/iz58izg) ![](assets/new.png)  
+- [2020-09-15-软件测试人员的职业发展](https://toutiao.io/k/y3xrbca) ![](assets/new.png)  
 - [2020-09-15-简单来说，它就是用来滚动切换列表项的](https://toutiao.io/k/u5s4huf) ![](assets/new.png)  
 - [2020-09-15-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
 - [2020-09-15-代码重构之法：方法重构分析](https://toutiao.io/k/dkhtai6) ![](assets/new.png)  
 - [2020-09-15-Fragment-时长统计那些事](https://toutiao.io/k/lkwonde) ![](assets/new.png)  
 - [2020-09-15-taro-script-0.4-发布，基于-Taro-v3-的-JavaScript-解释器组件](https://toutiao.io/k/ta5m0wy) ![](assets/new.png)  
 - [2020-09-15-Spring-5-中文解析核心篇：集成测试之-TestContext](https://toutiao.io/k/nf5076v) ![](assets/new.png)  
-- [2020-09-15-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
-- [2020-09-15-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
-- [2020-09-15-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-15-推荐-30-个网站产品落地页免费模板](https://toutiao.io/k/qrs55xl) ![](assets/new.png)  
-- [2020-09-15-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-15-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-15-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-15-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-15-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-15-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

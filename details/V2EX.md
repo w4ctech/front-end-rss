@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-09-15 02:13:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 02:25:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-15-有没有正在用-ChatOpslack/rocketchat来管理自己事务的-v-友，可以分享一下经验吗？](https://www.v2ex.com/t/707072) 
+- [2020-09-15-2020-09-14-铜豌豆软件源快讯：](https://www.v2ex.com/t/707070) 
+- [2020-09-15-MSVC-支持-C11-和-C17-了](https://www.v2ex.com/t/707069) 
 - [2020-09-15-成都-offer-求比较](https://www.v2ex.com/t/707067) 
 - [2020-09-15-招兼职前端-H5-开发，开发一个官网！](https://www.v2ex.com/t/707066) 
 - [2020-09-15-Mac-按键回显软件有和-keycastr-类似的么？](https://www.v2ex.com/t/707065) 
@@ -41,8 +44,3 @@
 - [2020-09-14-虚拟机装-FreeNas-怎么设计硬盘挂载好？](https://www.v2ex.com/t/707025) 
 - [2020-09-14-Apple-Care-换新款的概率有多少？](https://www.v2ex.com/t/707024) 
 - [2020-09-14-单纯吐槽下捷克和硕苹果维修中心](https://www.v2ex.com/t/707023) 
-- [2020-09-14-AirPods-2-和-AirPods-Pro-更新固件-3A283](https://www.v2ex.com/t/707022) 
-- [2020-09-14-个人开发者开发小程序注册公司还是个体户工作室](https://www.v2ex.com/t/707021) 
-- [2020-09-14-寻做过支付/风控模型或电商支付的铁铁](https://www.v2ex.com/t/707020) 
-- [2020-09-14-各位攒机或升级内存条会考虑使用-DDR3L-吗？](https://www.v2ex.com/t/707019) 
-- [2020-09-14-Kiwi-Browser-在-Google-Play-商店发布更新了](https://www.v2ex.com/t/707018) 

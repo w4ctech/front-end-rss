@@ -14321,6 +14321,31 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "10个不那么知名但很实用的Web API",
+        "link": "https://www.ershicimi.com/p/f7901bcaf5ccab448ad14e7c5306a5a8",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "重写软件的 6 大风险",
+        "link": "https://www.ershicimi.com/p/6592768259795661693ea1dae69b7217",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "Flash 终将谢幕：微软将于年底停止对 Flash 的支持",
+        "link": "https://www.ershicimi.com/p/d5c57237974a28051de674bdfcef41ab",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "面试 100 多位软件工程师后的建议",
+        "link": "https://www.ershicimi.com/p/e4068a4851c1fc23414277c8dec4b64c",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "架构评审，技术总监怒了，丢给我400个大厂架构案例，先研究透了！ | 极客大学",
+        "link": "https://www.ershicimi.com/p/9ddc93f475c2287782588506bbdfa750",
+        "date": "2020-09-14"
+      },
+      {
         "title": "前端周报：华为鸿蒙OS 2.0 发布，年底发布手机版；字节跳动正在与美国政府协商，避免出售核心技术；",
         "link": "https://www.ershicimi.com/p/e33f220c44211dce47d96003f97a1963",
         "date": "2020-09-13"
@@ -14394,31 +14419,6 @@
         "title": "数字时代，闻“讯”而来",
         "link": "https://www.ershicimi.com/p/12440a2197a4d985d2eb3b2a0ca245af",
         "date": "2020-09-07"
-      },
-      {
-        "title": "前端周报：收入最高的 15 种编程语言榜单出炉；微软宣布关闭 VS Codespaces；KMM 进",
-        "link": "https://www.ershicimi.com/p/82a454d2e35f8f10f209322e2e5b3b9a",
-        "date": "2020-09-06"
-      },
-      {
-        "title": "Flutter 在阿里淘系的体系化建设和业务实践",
-        "link": "https://www.ershicimi.com/p/df277c7c2479b10b89231f01e349caf2",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "滴滴出行小程序多语言 I18n 实践",
-        "link": "https://www.ershicimi.com/p/b7e7335bdc2e3e334766965eca9626ba",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "来呀，一起造一个简易React！ | 极客大学",
-        "link": "https://www.ershicimi.com/p/b35f182ae37593e5cd3c3c5b9d1983fd",
-        "date": "2020-09-04"
-      },
-      {
-        "title": "顶级React组件库推荐",
-        "link": "https://www.ershicimi.com/p/75ec9a701793f8f8caf737b04c68c802",
-        "date": "2020-09-03"
       }
     ]
   },
@@ -15961,11 +15961,6 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "分享Typescript编译原理",
-        "link": "https://juejin.im/post/6872617267323109389",
-        "date": "2020-09-14"
-      },
-      {
         "title": "让自己的网站支持第三方支付能力(支持支付宝与微信支付)",
         "link": "https://juejin.im/post/6872561583931785229",
         "date": "2020-09-14"
@@ -15983,6 +15978,11 @@
       {
         "title": "HOC真的就那么高级吗？你可知道还能这么玩",
         "link": "https://juejin.im/post/6872501583607758855",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "有关 HashMap 面试会问的一切",
+        "link": "https://juejin.im/post/6872486892625985544",
         "date": "2020-09-14"
       }
     ]
@@ -16320,6 +16320,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[实习] [微软亚洲研究院] 基于机器学习的爬虫检测实习生",
+        "link": "https://www.v2ex.com/t/707226",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "Fusion 12: Now Available!",
+        "link": "https://www.v2ex.com/t/707225",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "这种情况是否该为了爱情付出",
+        "link": "https://www.v2ex.com/t/707224",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "能否根据浏览器设置自动切换 Dark Mode 呢？",
+        "link": "https://www.v2ex.com/t/707222",
+        "date": "2020-09-15"
+      },
+      {
         "title": "帖子可以删除吗",
         "link": "https://www.v2ex.com/t/707220",
         "date": "2020-09-15"
@@ -16492,36 +16512,6 @@
       {
         "title": "刚发现出现了两个 “Macintosh HD - 数据” 盘",
         "link": "https://www.v2ex.com/t/707178",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "关应 AirpodsPRO 的 音频空间",
-        "link": "https://www.v2ex.com/t/707176",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[2020 急聘] [深圳] 京东 - 凹凸实验室- 高级前端工程师（20-40k）",
-        "link": "https://www.v2ex.com/t/707175",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "M720q OpenCore 引导 Catalina 黑屏，是不是 DP 转 DVI 转接线的锅？",
-        "link": "https://www.v2ex.com/t/707174",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "Mac 系统关机就死机，已重置过 smc",
-        "link": "https://www.v2ex.com/t/707173",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[北京社招] 字节跳动移动 OS 教育，高级前端工程师岗位热招啦！快到碗里来~~",
-        "link": "https://www.v2ex.com/t/707172",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[华为/松研所] 企业智慧屏 - 底层驱动工程师（非外包/OD, 25k - 40k, 14 薪）",
-        "link": "https://www.v2ex.com/t/707171",
         "date": "2020-09-15"
       }
     ]
@@ -16744,28 +16734,8 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 30 个网站产品落地页免费模板",
-        "link": "https://toutiao.io/k/qrs55xl",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
-        "link": "https://toutiao.io/k/lerlnil",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-15"
       },
       {
@@ -16774,8 +16744,8 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
         "date": "2020-09-15"
       },
       {
@@ -16784,18 +16754,8 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
+        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
+        "link": "https://toutiao.io/k/lerlnil",
         "date": "2020-09-15"
       },
       {
@@ -16804,18 +16764,48 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-15"
       },
       {
         "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
         "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
+        "link": "https://toutiao.io/k/qit9l0m",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-15"
       }
     ]

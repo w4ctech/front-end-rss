@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 23:34:04，:rocket: 更新条数: +3636， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 23:47:04，:rocket: 更新条数: +3636， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-15-美国疾控中心：新冠疫情对少数族裔年轻人造成更大冲击](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimW2j5ci5kf3IBaIQVgAO200916&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-云南15日新增境外航空输入确诊病例1例-新增境外航空输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV37lsjWTbSKBLNIcHbBP200916&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-疫情下安哥拉中企复工复产-保障“一带一路”项目平稳运行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNgOTtt4ctbV5ZVoOKSNt200916&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-马来西亚总理：国家仍未切断新冠病毒传播链，近期疫情状况令人担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwsMKZpfzPCzZ4wCp7atG200915&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-泰国旅游签证出新政，外国游客隔离-14-天后可获至少-90-天签证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikpbEKL42xlFI7lK9jAhZ200915&isfromapp=1) ![](assets/new.png)  
-- [2020-09-15-中国电影发行放映协会-15-日发布新规：电影院每场上座率不得超过-75%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMMVoQb2H6vPduswDgSCD200915&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

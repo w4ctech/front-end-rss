@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 18:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 18:12:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,7 +41,4 @@
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
 - [2020-09-15-西安-翼辉信息西安研发中心秋季招聘](https://www.v2ex.com/t/707359) 
 - [2020-09-15-技术面试都过了，最后在-IQ-测试上翻车](https://www.v2ex.com/t/707344) 
-- [2020-09-15-智联招聘的国企投递记录会删除吗？](https://www.v2ex.com/t/707325) 
-- [2020-09-15-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
-- [2020-09-15-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
 - [2020-09-14-日赚1万5!暴利黑客行业“无需面试”~](https://sec.thief.one/article_content?a_id=f71799c45649c086991b5929b36fbee5) 

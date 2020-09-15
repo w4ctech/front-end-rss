@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 09:24:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 09:32:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,9 +41,7 @@
 - [2020-09-15-ios-两个-ViewController-跳转相关问题咨询](https://www.v2ex.com/t/707239) 
 - [2020-09-15-求指教：-Curl-请求报:-curl:-52-Empty-reply-from-servermac-上正常，-centos-上请求就报错](https://www.v2ex.com/t/707236) 
 - [2020-09-15-能否根据浏览器设置自动切换-Dark-Mode-呢？](https://www.v2ex.com/t/707222) 
-- [2020-09-15-chrome-出现-http-500-错误,火狐正常,什么情况导致的?](https://www.v2ex.com/t/707209) 
 - [2020-09-15-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-15-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-14-“圈子社区”官方线下沙龙暨＂豫剑2020＂网络安全红队峰会召开公告](https://sec.thief.one/article_content?a_id=e80a28c554f6c387e626f37e8feaaeb8) 
 - [2020-09-14-齐向东:网络安全要从“治病救人”进化到“可防可控”](https://sec.thief.one/article_content?a_id=335b91709fd41f0448ba3f3bb90a7913) 
 - [2020-09-14-【原创】Burpsuite内部的cookie处理机制](https://sec.thief.one/article_content?a_id=43b8835734ea0722b118a60cb948300f) 

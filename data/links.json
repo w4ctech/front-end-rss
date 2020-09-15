@@ -17451,6 +17451,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "国内 Watch 是否有必要买蜂窝版",
+        "link": "https://www.v2ex.com/t/707382",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "除了 macOS 所有系统更新明天推送",
+        "link": "https://www.v2ex.com/t/707381",
+        "date": "2020-09-15"
+      },
+      {
         "title": "apple watch s6 新表带感觉好神奇。。。",
         "link": "https://www.v2ex.com/t/707380",
         "date": "2020-09-15"
@@ -17624,16 +17634,6 @@
         "title": "有没有音乐大佬，我妹主声乐，副钢琴，买个差点的电钢琴在宿舍练够用吗",
         "link": "https://www.v2ex.com/t/707333",
         "date": "2020-09-15"
-      },
-      {
-        "title": "整活升级：给 ssh 终端加个“开机动画”呗！",
-        "link": "https://www.v2ex.com/t/707332",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "搬砖的快乐你不懂，来这里搬世界上最香的砖！",
-        "link": "https://www.v2ex.com/t/707331",
-        "date": "2020-09-15"
       }
     ]
   },
@@ -17800,13 +17800,13 @@
         "date": "2020-09-15"
       },
       {
-        "title": "Go：A Documentary 发布",
-        "link": "https://toutiao.io/k/49m9qqf",
+        "title": "代码重构之法：方法重构分析",
+        "link": "https://toutiao.io/k/dkhtai6",
         "date": "2020-09-15"
       },
       {
-        "title": "代码重构之法：方法重构分析",
-        "link": "https://toutiao.io/k/dkhtai6",
+        "title": "Go：A Documentary 发布",
+        "link": "https://toutiao.io/k/49m9qqf",
         "date": "2020-09-15"
       },
       {
@@ -17855,53 +17855,8 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 30 个网站产品落地页免费模板",
-        "link": "https://toutiao.io/k/qrs55xl",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-15"
-      },
-      {
         "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
         "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
         "date": "2020-09-15"
       },
       {
@@ -17910,8 +17865,53 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
+        "title": "[推荐] 30 个网站产品落地页免费模板",
+        "link": "https://toutiao.io/k/qrs55xl",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-15"
       },
       {
@@ -17920,13 +17920,13 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-15"
       }
     ]

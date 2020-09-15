@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 12:38:41，:rocket: 更新条数: +3614， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 12:47:08，:rocket: 更新条数: +3636， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
@@ -142,6 +142,26 @@
 </summary>
 
 
+- [2020-09-11-前端现状：80%-的人陷入这个误区一直出不来！](https://www.ershicimi.com/p/a18626fdce7983c1651a0d15e4d92279) ![](assets/new.png)  
+- [2020-09-11-npm-install-执行后的“秘密”](https://www.ershicimi.com/p/d42f1bc6464039961f01731afa743882) ![](assets/new.png)  
+- [2020-09-10-Vue-数据更新但页面没有更新的-7-种情况，你遇到过几种](https://www.ershicimi.com/p/6b1b9c2b05ec3dbc675946f6a996be5a) ![](assets/new.png)  
+- [2020-09-10-老师，您还记得那个长期被你VIP的同学吗](https://www.ershicimi.com/p/4138c143e6c337f6c14cd357aad11191) ![](assets/new.png)  
+- [2020-09-09-为你的-Vue.js-单页应用提速](https://www.ershicimi.com/p/b6f590585c22757c51a05a5787b9cc0a) ![](assets/new.png)  
+- [2020-09-09-15个必须知道的JavaScript数组方法](https://www.ershicimi.com/p/d9d012994024de7ac82b03eb146c7466) ![](assets/new.png)  
+- [2020-09-08-网站优化，这些神级工具你一定用得上](https://www.ershicimi.com/p/4de6b89e9e8327c7691ac085046ba869) ![](assets/new.png)  
+- [2020-09-08-25-个实用前端网站工具推荐](https://www.ershicimi.com/p/2ad1f5e0a6023ebd692335139c0d953c) ![](assets/new.png)  
+- [2020-09-07-仅20%的前端开发才能理解-Vue-，有没有你？](https://www.ershicimi.com/p/7341d52936c1fd95e500e44863c4b0a3) ![](assets/new.png)  
+- [2020-09-07-只用-div-和-css-能玩出什么花来？请扶好下巴！](https://www.ershicimi.com/p/cc1383441b45b9661b015516014a28fc) ![](assets/new.png)  
+- [2020-09-06-TypeScript项目开发实战-|-撸起来](https://www.ershicimi.com/p/6ef9380daa13fa7ee7b26553974efa11) ![](assets/new.png)  
+- [2020-09-05-为什么采用Proxy重构响应系统-|-Vue3源码系列](https://www.ershicimi.com/p/7bf909df2b2c18c1146d6cde30cf49bf) ![](assets/new.png)  
+- [2020-09-04-强烈推介的几个微信小程序开发小技巧，简单又实用](https://www.ershicimi.com/p/97e7e0477177276e1869de66fe09a902) ![](assets/new.png)  
+- [2020-09-03-高效终端命令行工具---给你的终端美个容](https://www.ershicimi.com/p/ba7e72bc93a8b80ad006d27097136e48) ![](assets/new.png)  
+- [2020-09-03-九年程序人生-|-路漫漫其修远](https://www.ershicimi.com/p/0fb436fbd01d5a834617265520455213) ![](assets/new.png)  
+- [2020-09-02-不想搬砖了？来，带你暴力入门Web前端?](https://www.ershicimi.com/p/2d64dc3124fea60291ca6b74b8f048c2) ![](assets/new.png)  
+- [2020-09-01-基于Vue实现一个有点意思的拼拼乐小游戏](https://www.ershicimi.com/p/25024beb56ff65d810b0573ac6031ba4) ![](assets/new.png)  
+- [2020-09-01-这个人工智能程序，找人融资的话，能融到多少?](https://www.ershicimi.com/p/29bb58f2ea64c3370770385067127198) ![](assets/new.png)  
+- [2020-08-31-为什么大家都在吹捧Python，大厂高薪敲门砖了解一下](https://www.ershicimi.com/p/57f59e1b53bba44e594fe61bc91d0ff6) ![](assets/new.png)  
+- [2020-08-31-组件库主题设计方案](https://www.ershicimi.com/p/bd627e1f5077fcdfcebbd4ab1f52d0b3) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +967,11 @@
 </summary>
 
 
-- [2020-09-15-译-世界比以往任何时候都更需要-Web-可访问性](https://juejin.im/post/6872684910058930189) ![](assets/new.png)  
-- [2020-09-15-译-如何处理-JavaScript-比较中的临界情况](https://juejin.im/post/6872682987859738632) ![](assets/new.png)  
-- [2020-09-15-使用-taro-deploy-自动化构建发布-taro-小程序](https://juejin.im/post/6872675384966512647) ![](assets/new.png)  
-- [2020-09-15-基于-vue/jest/allure-的前端接口集成测试](https://juejin.im/post/6872643529739501582) ![](assets/new.png)  
+- [2020-09-15-ES6（五）——-函数](https://juejin.im/post/6872690286879997959) ![](assets/new.png)  
+- [2020-09-15-面试官：你了解数据安全传输吗？](https://juejin.im/post/6872669413981159438) ![](assets/new.png)  
+- [2020-09-15-译-Vue-应用的代码覆盖率](https://juejin.im/post/6872653403177254919) ![](assets/new.png)  
 - [2020-09-15-webpack-plugin-探索-内含详细-tapable-讲解](https://juejin.im/post/6872641206212362254) ![](assets/new.png)  
+- [2020-09-14-如何搭建异常捕获平台｜数据统计](https://juejin.im/post/6872557582662238222) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,10 @@
 </summary>
 
 
+- [2020-09-15-［西安/小米］据说小米要在西安成立研发中心了？](https://www.v2ex.com/t/707308) ![](assets/new.png)  
+- [2020-09-15-我的电池健康管理好像很久都没有断电用电池了](https://www.v2ex.com/t/707307) ![](assets/new.png)  
+- [2020-09-15-科普一个东西:庞氏骗局](https://www.v2ex.com/t/707306) ![](assets/new.png)  
+- [2020-09-15-shadowrocket-的配置规则](https://www.v2ex.com/t/707305) ![](assets/new.png)  
 - [2020-09-15-京东已实名用户注意了，现在任何人都能通过你京东的手机号/邮箱/用户名查到你姓以外的实名信息](https://www.v2ex.com/t/707302) ![](assets/new.png)  
 - [2020-09-15-字节跳动广告技术部招人了，大量招人。北京、杭州、新加坡、山景城都有岗位，薪资可谈，发展前景高](https://www.v2ex.com/t/707301) ![](assets/new.png)  
 - [2020-09-15-去哪里寻找一些都市传说的素材](https://www.v2ex.com/t/707300) ![](assets/new.png)  
@@ -1073,10 +1097,6 @@
 - [2020-09-15-跟谁学-高途课堂，坐标西二旗，职级在-p5-p8-之间都会考虑（对标阿里）职位需求如下](https://www.v2ex.com/t/707287) ![](assets/new.png)  
 - [2020-09-15-北京汉迪移动，坐标五道口，职位需求大数据开发，推荐算法工程师。薪资-35-50-之间（或原始薪资上合理涨幅）](https://www.v2ex.com/t/707286) ![](assets/new.png)  
 - [2020-09-15-分享一段代码](https://www.v2ex.com/t/707285) ![](assets/new.png)  
-- [2020-09-15-挂一家恶心人的公司，北京新发地掌鲜网络科技服务有限公司](https://www.v2ex.com/t/707284) ![](assets/new.png)  
-- [2020-09-15-早上上班路上看到杭师大新生开学，有点感慨](https://www.v2ex.com/t/707283) ![](assets/new.png)  
-- [2020-09-15-hyper-v-和-intel-virtualization-同时开启会蓝屏](https://www.v2ex.com/t/707282) ![](assets/new.png)  
-- [2020-09-15-注册某个证券-app-上看到的，这条款看着吃相太难看了想换个，新手想买些股票基金什么的怎么入手比较好？](https://www.v2ex.com/t/707281) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,8 +1154,8 @@
 - [2020-09-15-简单来说，它就是用来滚动切换列表项的](https://toutiao.io/k/u5s4huf) ![](assets/new.png)  
 - [2020-09-15-Spring-5-中文解析核心篇：集成测试之-TestContext](https://toutiao.io/k/nf5076v) ![](assets/new.png)  
 - [2020-09-15-Fragment-时长统计那些事](https://toutiao.io/k/lkwonde) ![](assets/new.png)  
-- [2020-09-15-再见-RNN，你好-TCN](https://toutiao.io/k/cxh30fi) ![](assets/new.png)  
 - [2020-09-15-ClickHouse-入门基础知识了解](https://toutiao.io/k/636xeiy) ![](assets/new.png)  
+- [2020-09-15-再见-RNN，你好-TCN](https://toutiao.io/k/cxh30fi) ![](assets/new.png)  
 - [2020-09-15-Jenkins-在-Kubernetes-中的-DevOps-流水线最佳实践](https://toutiao.io/k/9kjjnxj) ![](assets/new.png)  
 - [2020-09-15-如果故障选择了你](https://toutiao.io/k/ayhw7ik) ![](assets/new.png)  
 - [2020-09-15-taro-script-0.4-发布，基于-Taro-v3-的-JavaScript-解释器组件](https://toutiao.io/k/ta5m0wy) ![](assets/new.png)  

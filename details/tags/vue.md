@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 12:38:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 12:47:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -16,6 +16,11 @@
 - [2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
 - [2020-01-03-从零开发一套完整的vue项目开发环境](https://www.ershicimi.com/p/cab0fde7933f77481f19d7a7ccf21319) 
 - [2019-12-31-Vue-CLI-4-发布：自动化升级过程，支持自定义包管理器](https://www.ershicimi.com/p/f3854cabca198728fee0c97ec0f825bf) 
+- [2020-09-10-Vue-数据更新但页面没有更新的-7-种情况，你遇到过几种](https://www.ershicimi.com/p/6b1b9c2b05ec3dbc675946f6a996be5a) 
+- [2020-09-09-为你的-Vue.js-单页应用提速](https://www.ershicimi.com/p/b6f590585c22757c51a05a5787b9cc0a) 
+- [2020-09-07-仅20%的前端开发才能理解-Vue-，有没有你？](https://www.ershicimi.com/p/7341d52936c1fd95e500e44863c4b0a3) 
+- [2020-09-05-为什么采用Proxy重构响应系统-|-Vue3源码系列](https://www.ershicimi.com/p/7bf909df2b2c18c1146d6cde30cf49bf) 
+- [2020-09-01-基于Vue实现一个有点意思的拼拼乐小游戏](https://www.ershicimi.com/p/25024beb56ff65d810b0573ac6031ba4) 
 - [2020-09-13-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/f6b658f55451af6d8763c8998c296af3) 
 - [2020-09-07-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/1f8b456d3a2ea6d977e969610e3fd41e) 
 - [2020-09-09-VUE+ElementUI构建管理后台项目经验与技巧，金九银十跳槽必看！](https://www.ershicimi.com/p/c7f22039876a029d99d715e7bcbae5c0) 
@@ -62,5 +67,5 @@
 - [2020-09-11-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/c17632c9138f5cb25baa775890519b34) 
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) 
-- [2020-09-15-基于-vue/jest/allure-的前端接口集成测试](https://juejin.im/post/6872643529739501582) 
+- [2020-09-15-译-Vue-应用的代码覆盖率](https://juejin.im/post/6872653403177254919) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

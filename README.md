@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 18:12:53，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 18:26:00，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-15-深夜提问-诸位-phper-的-composer-部署流程是怎么样的](https://www.v2ex.com/t/707376) ![](assets/new.png)  
 - [2020-09-15-所以-12-还要专门再来一场？](https://www.v2ex.com/t/707375) ![](assets/new.png)  
 - [2020-09-15-apple-特别活动结束，确定没有新-iPhone](https://www.v2ex.com/t/707373) ![](assets/new.png)  
 - [2020-09-15-所以国行手表是不是又会阉割血氧啊？](https://www.v2ex.com/t/707372) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-15-如果今晚发布了新-iPad-Air，还可以用教育优惠吗](https://www.v2ex.com/t/707351) ![](assets/new.png)  
 - [2020-09-15-成都-内推-美菜网-后台开发/前端/测试/产品，欢迎投递简历](https://www.v2ex.com/t/707350) ![](assets/new.png)  
 - [2020-09-15-邻里：面向北美华人的轻论坛](https://www.v2ex.com/t/707349) ![](assets/new.png)  
-- [2020-09-15-刚买了-epubee-的-10-年会员，迫于网站可能跑路风险](https://www.v2ex.com/t/707348) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

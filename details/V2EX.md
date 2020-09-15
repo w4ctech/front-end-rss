@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 07:03:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 07:12:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2020-09-15-flameshot-截图工具-0.8.0-Beta-释出](https://www.v2ex.com/t/707152) 
 - [2020-09-15-怎么开通百度网盘会员最便宜](https://www.v2ex.com/t/707150) 
 - [2020-09-15-FastStone-Capture--截图神器！终于被软购商城代理！正版官方授权特价出售！](https://www.v2ex.com/t/707149) 
-- [2020-09-15-公司不续签合同，经济补偿怎么算](https://www.v2ex.com/t/707148) 

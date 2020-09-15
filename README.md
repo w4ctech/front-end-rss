@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 15:49:06，:rocket: 更新条数: +3412， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 16:04:00，:rocket: 更新条数: +3414， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -97,7 +97,7 @@
 
 - [2020-09-15-马来西亚总理：国家仍未切断新冠病毒传播链，近期疫情状况令人担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwsMKZpfzPCzZ4wCp7atG200915&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-泰国旅游签证出新政，外国游客隔离-14-天后可获至少-90-天签证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikpbEKL42xlFI7lK9jAhZ200915&isfromapp=1) ![](assets/new.png)  
-- [2020-09-15-中国电影发行放映协会15日发布新规：电影院每场上座率不得超过75%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMMVoQb2H6vPduswDgSCD200915&isfromapp=1) ![](assets/new.png)  
+- [2020-09-15-中国电影发行放映协会-15-日发布新规：电影院每场上座率不得超过-75%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMMVoQb2H6vPduswDgSCD200915&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-伊朗新增2705例新冠肺炎确诊病例-累计确诊407353例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1UIDprDfHrFvwT9w3YG5200915&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-菲律宾新增3544例新冠肺炎确诊病例-累计达269407例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJbZEz5nuV2HjJB204zSF200915&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-15-怪事：香港服务器-http-reset](https://www.v2ex.com/t/707355) ![](assets/new.png)  
+- [2020-09-15-有见过多劳多得，每月工作量搞排名公示，垫底的人奖金就减半的吗](https://www.v2ex.com/t/707354) ![](assets/new.png)  
+- [2020-09-15-这个是哪里有问题，加密出来结果不对～](https://www.v2ex.com/t/707353) ![](assets/new.png)  
+- [2020-09-15-2020-MBP-13-用-pd-跑-Windows-风扇声巨大](https://www.v2ex.com/t/707352) ![](assets/new.png)  
 - [2020-09-15-如果今晚发布了新-iPad-Air，还可以用教育优惠吗](https://www.v2ex.com/t/707351) ![](assets/new.png)  
 - [2020-09-15-成都-内推-美菜网-后台开发/前端/测试/产品，欢迎投递简历](https://www.v2ex.com/t/707350) ![](assets/new.png)  
 - [2020-09-15-邻里：面向北美华人的轻论坛](https://www.v2ex.com/t/707349) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-15-有没有音乐大佬，我妹主声乐，副钢琴，买个差点的电钢琴在宿舍练够用吗](https://www.v2ex.com/t/707333) ![](assets/new.png)  
 - [2020-09-15-整活升级：给-ssh-终端加个“开机动画”呗！](https://www.v2ex.com/t/707332) ![](assets/new.png)  
 - [2020-09-15-搬砖的快乐你不懂，来这里搬世界上最香的砖！](https://www.v2ex.com/t/707331) ![](assets/new.png)  
-- [2020-09-15-关于-Python-的一个多线程的诡异的异常](https://www.v2ex.com/t/707330) ![](assets/new.png)  
-- [2020-09-15-推荐桌子](https://www.v2ex.com/t/707329) ![](assets/new.png)  
-- [2020-09-15-如何关闭支付宝基金的净值估算](https://www.v2ex.com/t/707328) ![](assets/new.png)  
-- [2020-09-15-可能很蠢的问题：如何-100%避免入职-3-个月内被辞退？](https://www.v2ex.com/t/707327) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -16320,6 +16320,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如果没有本地服务功能，业务集中在服务端，那 app 端有必要进行混淆或加固防破解么？",
+        "link": "https://www.v2ex.com/t/707215",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "如何快速判断 24 口交换机，每个口都是能正常工作的，不会有坏口",
+        "link": "https://www.v2ex.com/t/707214",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "请教一个威联通管理员访问普通用户相册的问题？",
+        "link": "https://www.v2ex.com/t/707213",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "2020 年了, 能同时在 苹果 安卓 群辉 NAS 识别的 磁盘格式, 最佳实践是什么?",
+        "link": "https://www.v2ex.com/t/707212",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "如何记录页面上的三方 js 恶意跳转行为？",
+        "link": "https://www.v2ex.com/t/707211",
+        "date": "2020-09-15"
+      },
+      {
         "title": "youtube 字幕下载方法",
         "link": "https://www.v2ex.com/t/707210",
         "date": "2020-09-15"
@@ -16487,26 +16512,6 @@
       {
         "title": "后端代码狗想不那么系统的学习 React.求推荐学习路线和学习资料",
         "link": "https://www.v2ex.com/t/707167",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "PHP 如何实现会话永不过期，一直保持登录状态！",
-        "link": "https://www.v2ex.com/t/707165",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "脑子里突然冒出来的当年看过的。。暴露年龄的乱乱的。。作为备忘录的",
-        "link": "https://www.v2ex.com/t/707164",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "macOS 下能关闭 BD PROCHOT 吗?",
-        "link": "https://www.v2ex.com/t/707162",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "有用明基 pd2700u 写代码的巨巨吗",
-        "link": "https://www.v2ex.com/t/707161",
         "date": "2020-09-15"
       }
     ]
@@ -16729,38 +16734,13 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 一文了解 Zookeeper",
-        "link": "https://toutiao.io/k/of5k6dk",
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 30 个网站产品落地页免费模板",
-        "link": "https://toutiao.io/k/qrs55xl",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
-        "link": "https://toutiao.io/k/lerlnil",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
         "date": "2020-09-15"
       },
       {
@@ -16769,13 +16749,13 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
         "date": "2020-09-15"
       },
       {
@@ -16784,23 +16764,48 @@
         "date": "2020-09-15"
       },
       {
+        "title": "[推荐] 30 个网站产品落地页免费模板",
+        "link": "https://toutiao.io/k/qrs55xl",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-15"
+      },
+      {
         "title": "[推荐] Golang 汇编入门知识总结",
         "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-15"
-      },
-      {
         "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
         "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-15"
       }
     ]

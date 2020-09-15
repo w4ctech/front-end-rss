@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 17:04:10，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 17:11:46，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-15-AMD-Ryzen-系列-CPU-对虚拟化的支持怎样了？](https://www.v2ex.com/t/707367) ![](assets/new.png)  
 - [2020-09-15-在京东自营买的海德划船机，使用中受伤了，我该如何维权！](https://www.v2ex.com/t/707366) ![](assets/new.png)  
 - [2020-09-15-iPhone-8-升级到-13.7-空间清理了-20G+](https://www.v2ex.com/t/707361) ![](assets/new.png)  
 - [2020-09-15-做了一个聚合-Instagram-照片的网站---Insroll.com](https://www.v2ex.com/t/707360) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-15-把互联网服务搭建在移动中的非固定场所非固定-ip-还受现有法规监管吗](https://www.v2ex.com/t/707343) ![](assets/new.png)  
 - [2020-09-15-分享一部-Netflix-的纪录片《监视资本主义：智能陷阱》](https://www.v2ex.com/t/707340) ![](assets/new.png)  
 - [2020-09-15-建了一个用户可以发布和订阅临时主题的网站---minorpage.com](https://www.v2ex.com/t/707338) ![](assets/new.png)  
-- [2020-09-15-JDK15-今天发布没人关心一下吗？](https://www.v2ex.com/t/707337) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,8 +1131,8 @@
 - [2020-09-15-软件测试人员的职业发展](https://toutiao.io/k/y3xrbca) ![](assets/new.png)  
 - [2020-09-15-Go：A-Documentary-发布](https://toutiao.io/k/49m9qqf) ![](assets/new.png)  
 - [2020-09-15-代码重构之法：方法重构分析](https://toutiao.io/k/dkhtai6) ![](assets/new.png)  
-- [2020-09-15-ClickHouse-入门基础知识了解](https://toutiao.io/k/636xeiy) ![](assets/new.png)  
 - [2020-09-15-Spring-5-中文解析核心篇：集成测试之-TestContext](https://toutiao.io/k/nf5076v) ![](assets/new.png)  
+- [2020-09-15-ClickHouse-入门基础知识了解](https://toutiao.io/k/636xeiy) ![](assets/new.png)  
 - [2020-09-15-简单来说，它就是用来滚动切换列表项的](https://toutiao.io/k/u5s4huf) ![](assets/new.png)  
 - [2020-09-15-再见-RNN，你好-TCN](https://toutiao.io/k/cxh30fi) ![](assets/new.png)  
 - [2020-09-15-Fragment-时长统计那些事](https://toutiao.io/k/lkwonde) ![](assets/new.png)  

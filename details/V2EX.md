@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-15 22:34:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 22:47:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-15-这个-iOS-14-更新是-GM-吗？](https://www.v2ex.com/t/707389) 
 - [2020-09-15-熬夜看了苹果发布会，这是发布了个寂寞？](https://www.v2ex.com/t/707388) 
 - [2020-09-15-A14-CPU-提升-16.7%，-GPU-提升-8.3%，提升历代最小？](https://www.v2ex.com/t/707387) 
 - [2020-09-15-SteelSeries-Arctis-9](https://www.v2ex.com/t/707386) 

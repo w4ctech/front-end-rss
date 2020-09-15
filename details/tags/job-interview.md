@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 04:34:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 04:47:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,6 +41,6 @@
 - [2020-09-14-有关-HashMap-面试会问的一切](https://juejin.im/post/6872486892625985544) 
 - [2020-09-15-上海/杭州支付宝社招P6-P8-支付宝「大出行技术部」招聘-Java-研发](https://www.v2ex.com/t/707133) 
 - [2020-09-15-北京西二旗-贝壳找房-招聘内推：-Java-开发工程师，大前端工程师（FE+客户端）](https://www.v2ex.com/t/707104) 
-- [2020-09-15-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
 - [2020-09-15-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
+- [2020-09-15-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
 - [2020-09-14-日赚1万5!暴利黑客行业“无需面试”~](https://sec.thief.one/article_content?a_id=f71799c45649c086991b5929b36fbee5) 

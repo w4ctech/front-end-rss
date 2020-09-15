@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 04:34:51，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 04:47:37，:rocket: 更新条数: +3409， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 - [2020-09-14-9月14日全国新增境外输入新冠8例](http://m.china.caixin.com/m/2020-09-15/101605225.html) ![](assets/new.png)  
 - [2020-09-14-云南瑞丽9月13日新冠确诊病例为缅甸偷渡-将严格边境一线管控](https://m.caixin.com/m/2020-09-15/101605215.html) ![](assets/new.png)  
 - [2020-09-14-云南瑞丽全员核酸检测城区人员居家隔离-严打偷渡者](https://m.caixin.com/m/2020-09-15/101605206.html) ![](assets/new.png)  
+- [2020-09-14-【境内疫情观察】云南瑞丽开展全员核酸检测（9月14日）](http://m.database.caixin.com/m/2020-09-15/101605390.html) ![](assets/new.png)  
 - [2020-09-14-大流行手记|9月14日：中缅边境防疫升级-全球日增30.79万感染者创新高](https://m.caixin.com/m/2020-09-15/101605256.html) ![](assets/new.png)  
 - [2020-09-13-最新海外疫情：新冠感染超2888万-累计死亡近92万](http://m.international.caixin.com/m/2020-09-14/101605044.html) ![](assets/new.png)  
 - [2020-09-13-【境内疫情观察】全国新增10例境外输入病例（9月13日）](http://m.database.caixin.com/m/2020-09-14/101604870.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-09-09-南京新增无症状感染者为解除隔离后确诊-相关社群排查核酸](http://m.china.caixin.com/m/2020-09-10/101603551.html) ![](assets/new.png)  
 - [2020-09-09-【境内疫情观察】上海新增6例境外输入病例（9月9日）](http://m.database.caixin.com/m/2020-09-10/101603573.html) ![](assets/new.png)  
 - [2020-09-09-大流行手记|9月9日：英国升级防控措施-中疾控一援非专家感染新冠](https://m.caixin.com/m/2020-09-10/101603429.html) ![](assets/new.png)  
-- [2020-09-09-数字说|新冠疫苗研发提速-公众愿意接种吗？](http://m.datanews.caixin.com/m/2020-09-10/101603514.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,12 @@
 </summary>
 
 
+- [2020-09-15-FastStone-Capture--截图神器！终于被软购商城代理！正版官方授权特价出售！](https://www.v2ex.com/t/707149) ![](assets/new.png)  
+- [2020-09-15-公司不续签合同，经济补偿怎么算](https://www.v2ex.com/t/707148) ![](assets/new.png)  
+- [2020-09-15-做一家这样的公司靠谱吗？](https://www.v2ex.com/t/707147) ![](assets/new.png)  
+- [2020-09-15-字节跳动游戏业务校招美术岗位大量空缺！上海、北京、杭州，深圳，任你选择！（附内推码+通关锦囊）](https://www.v2ex.com/t/707146) ![](assets/new.png)  
+- [2020-09-15-有关链路聚合交换机的一个问题](https://www.v2ex.com/t/707145) ![](assets/new.png)  
+- [2020-09-15-码云觉得-@Wchchc-解读鸿蒙的帖子很赞……](https://www.v2ex.com/t/707144) ![](assets/new.png)  
 - [2020-09-15-想起诉-PDD，苦于没有证据……](https://www.v2ex.com/t/707143) ![](assets/new.png)  
 - [2020-09-15-11-代-NUC](https://www.v2ex.com/t/707140) ![](assets/new.png)  
 - [2020-09-15-智能家居这个行业前景如何？](https://www.v2ex.com/t/707139) ![](assets/new.png)  
@@ -1071,12 +1077,6 @@
 - [2020-09-15-小程序运营推广交流群](https://www.v2ex.com/t/707127) ![](assets/new.png)  
 - [2020-09-15-#杭州#-字节跳动-电商团队招人啦！~-前端&后端&测试岗位-hc-非常多社招，机会难得，考虑一下呗？](https://www.v2ex.com/t/707126) ![](assets/new.png)  
 - [2020-09-15-大家生产环境服务器是选用-Ubuntu-还是-CentOS？](https://www.v2ex.com/t/707125) ![](assets/new.png)  
-- [2020-09-15-妹妹公司这周起开始从-975-变成-996.准备辞职,请问是现在辞职好,还是国庆后辞职好?](https://www.v2ex.com/t/707124) ![](assets/new.png)  
-- [2020-09-15-贝壳找房-内推（各岗位都有，大量-hc）](https://www.v2ex.com/t/707123) ![](assets/new.png)  
-- [2020-09-15-大家心目中有哪些经典电视剧值得再次回味的？](https://www.v2ex.com/t/707122) ![](assets/new.png)  
-- [2020-09-15-安卓研发工程师-——坚果云（国内最稳定的云盘服务商）](https://www.v2ex.com/t/707120) ![](assets/new.png)  
-- [2020-09-15-25-岁脱发严重](https://www.v2ex.com/t/707119) ![](assets/new.png)  
-- [2020-09-15-蓝湖赶紧招几个算法大神吧，实在太卡了](https://www.v2ex.com/t/707118) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1125,8 @@
 - [2020-09-15-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
 - [2020-09-15-迁到-K8s-后服务老莫名重启？把-Go-的运行时错误重定向到文件](https://toutiao.io/k/1k49r2m) ![](assets/new.png)  
 - [2020-09-15-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
-- [2020-09-15-持久化内存调研](https://toutiao.io/k/4kl7jme) ![](assets/new.png)  
 - [2020-09-15-译-Kubectl-的奇技淫巧](https://toutiao.io/k/iz58izg) ![](assets/new.png)  
+- [2020-09-15-持久化内存调研](https://toutiao.io/k/4kl7jme) ![](assets/new.png)  
 - [2020-09-15-软件测试人员的职业发展](https://toutiao.io/k/y3xrbca) ![](assets/new.png)  
 - [2020-09-15-Go：A-Documentary-发布](https://toutiao.io/k/49m9qqf) ![](assets/new.png)  
 - [2020-09-15-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
@@ -1137,8 +1137,8 @@
 - [2020-09-15-Spring-5-中文解析核心篇：集成测试之-TestContext](https://toutiao.io/k/nf5076v) ![](assets/new.png)  
 - [2020-09-15-再见-RNN，你好-TCN](https://toutiao.io/k/cxh30fi) ![](assets/new.png)  
 - [2020-09-15-ClickHouse-入门基础知识了解](https://toutiao.io/k/636xeiy) ![](assets/new.png)  
+- [2020-09-15-Jenkins-在-Kubernetes-中的-DevOps-流水线最佳实践](https://toutiao.io/k/9kjjnxj) ![](assets/new.png)  
 - [2020-09-15-Life-of-a-Packet-in-Cilium：实地探索-Pod-to-Service-转发路径及-BPF-处理逻辑](https://toutiao.io/k/9ad80ce) ![](assets/new.png)  
-- [2020-09-15-如果故障选择了你](https://toutiao.io/k/ayhw7ik) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

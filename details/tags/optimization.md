@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-15 19:03:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 19:11:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-19-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-09-08-网站优化，这些神级工具你一定用得上](https://www.ershicimi.com/p/4de6b89e9e8327c7691ac085046ba869) 
 - [2020-09-14-前端性能优化【进阶篇】](https://www.ershicimi.com/p/0d38ecc5f39a0d3787e70d0dab1347fa) 
 - [2020-09-03-提升低端设备的-Web-性能](https://www.ershicimi.com/p/ec186f5390fd3818a116bfc2d75d0588) 

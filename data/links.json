@@ -13137,6 +13137,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "民航局：8月份民航发展继续呈现回升态势",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0BT9jRBW6yzwj9zl8o9C200915&isfromapp=1",
+        "date": "2020-09-15"
+      },
+      {
         "title": "捷克因疫情被关闭或部分关闭的学校大幅上升",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLgJgF7Uik9mGVyXx6je0200915&isfromapp=1",
         "date": "2020-09-14"
@@ -13154,11 +13159,6 @@
       {
         "title": "意大利前总理贝卢斯科尼新冠肺炎治愈出院",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihjrx4x33vIEZjrNgVtjZ200914&isfromapp=1",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "孟加拉国新增1812例新冠肺炎确诊病例 累计确诊339332例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwkRtqnmVd78iRK1zAbOH200914&isfromapp=1",
         "date": "2020-09-14"
       }
     ]
@@ -15956,13 +15956,13 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "16期-熬夜7天，我总结了JavaScript与ES的25个重要知识点！",
-        "link": "https://juejin.im/post/6872521948015329293",
+        "title": "Webpack5 跨应用代码共享 - Module Federation",
+        "link": "https://juejin.im/post/6872505128939683848",
         "date": "2020-09-14"
       },
       {
-        "title": "Webpack5 跨应用代码共享 - Module Federation",
-        "link": "https://juejin.im/post/6872505128939683848",
+        "title": "HOC真的就那么高级吗？你可知道还能这么玩",
+        "link": "https://juejin.im/post/6872501583607758855",
         "date": "2020-09-14"
       },
       {
@@ -16315,6 +16315,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "秋招找工作， offer 求前辈们指点",
+        "link": "https://www.v2ex.com/t/707098",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "现在信息安全的就业前景咋样，有大佬来说说吗",
+        "link": "https://www.v2ex.com/t/707097",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "最近在 SpringCloud 项目进行性能压力测试，想请教大家 Jmeter 的线程数设置多少合适？谢谢！",
+        "link": "https://www.v2ex.com/t/707096",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "请问 Java 怎么防止内存溢出？",
+        "link": "https://www.v2ex.com/t/707095",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "请问 MacBook pro 2017 13 寸 无 touch bar 能更换新款键盘吗",
+        "link": "https://www.v2ex.com/t/707094",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "flask_restful nested 多层嵌套问题应该如何解决",
+        "link": "https://www.v2ex.com/t/707093",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "有哪些像 V2EX 一样的，用户数比较少的小论坛？",
+        "link": "https://www.v2ex.com/t/707092",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "安全与风控几百个岗位内推（v2 上已经有朋友入职了）",
+        "link": "https://www.v2ex.com/t/707091",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "想出 MBP，问问价格",
+        "link": "https://www.v2ex.com/t/707089",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "11pm 256+AirPods pro 现在什么价位出手？",
+        "link": "https://www.v2ex.com/t/707088",
+        "date": "2020-09-15"
+      },
+      {
         "title": "普通家庭有必要搞个 NAS 吗？",
         "link": "https://www.v2ex.com/t/707087",
         "date": "2020-09-15"
@@ -16453,46 +16503,6 @@
         "title": "不懂就问，独显的 mac pro 也卡顿掉帧么",
         "link": "https://www.v2ex.com/t/707049",
         "date": "2020-09-15"
-      },
-      {
-        "title": "推荐流_feed 流_吃饭流_极简版 1.0\r\n想了好几天了准备代码完善一下",
-        "link": "https://www.v2ex.com/t/707047",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "你的薪资被倒挂了吗？",
-        "link": "https://www.v2ex.com/t/707046",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "关于职业生涯的规划。是否应该纠结于大公司？",
-        "link": "https://www.v2ex.com/t/707045",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "找工作，有一到两年工作经验的面试跟应届生面试区别大吗?",
-        "link": "https://www.v2ex.com/t/707044",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "腾讯云十周年续费活动最后三天，续费可低至 2.4 折。",
-        "link": "https://www.v2ex.com/t/707042",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "ssh 设置 pubkey 登录时，设置密钥的密码对安全有提升吗？",
-        "link": "https://www.v2ex.com/t/707041",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "IDEA 控制台配置问题",
-        "link": "https://www.v2ex.com/t/707039",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "不开放注册的后台，首位用户怎么添加好",
-        "link": "https://www.v2ex.com/t/707038",
-        "date": "2020-09-15"
       }
     ]
   },
@@ -16501,6 +16511,16 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "一页纸手把手教你怎么做敏捷项目管理 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13775&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "一个输入框你要做一周？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13774&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fan-input-box%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-15"
+      },
       {
         "title": "大数据项目中的QA需要迎接新的挑战 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13773&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fqa-in-big-data-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -16590,16 +16610,6 @@
         "title": "如何制作出让女朋友满意的大片 (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13756&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F231068497%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-09-15"
-      },
-      {
-        "title": "如何实现一个优雅的Python的Json序列化库 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13755&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-python-json-library%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "团队在高速扩张中的能力构建与质量保证 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13754&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcapacity-building-and-quality-assurance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-09-15"
       }
     ]
   },
@@ -16609,12 +16619,17 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "任正非：若果有人拧熄了灯塔，我们怎么航行？| 码农周刊第 317 期",
+        "link": "https://toutiao.io/k/ixcjpqn",
+        "date": "2020-09-15"
+      },
+      {
         "title": "《一年顶十年》干货读书笔记",
         "link": "https://toutiao.io/k/okqtla6",
         "date": "2020-09-15"
       },
       {
-        "title": "二哥来扫盲了：Java 后端开发常用的第三方服务 TOP10",
+        "title": "二哥来扫盲了：Java 后端开发常用的第三方服务 TOP 10",
         "link": "https://toutiao.io/k/1vfytv1",
         "date": "2020-09-15"
       },
@@ -16639,6 +16654,11 @@
         "date": "2020-09-15"
       },
       {
+        "title": "软件测试人员的职业发展",
+        "link": "https://toutiao.io/k/y3xrbca",
+        "date": "2020-09-15"
+      },
+      {
         "title": "Go：A Documentary 发布",
         "link": "https://toutiao.io/k/49m9qqf",
         "date": "2020-09-15"
@@ -16649,18 +16669,13 @@
         "date": "2020-09-15"
       },
       {
-        "title": "软件测试人员的职业发展",
-        "link": "https://toutiao.io/k/y3xrbca",
+        "title": "资料 | 各大互联网公司容易考察的高频 LeetCode 题",
+        "link": "https://toutiao.io/k/dcmvw72",
         "date": "2020-09-15"
       },
       {
         "title": "简单来说，它就是用来滚动切换列表项的",
         "link": "https://toutiao.io/k/u5s4huf",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
         "date": "2020-09-15"
       },
       {
@@ -16694,63 +16709,18 @@
         "date": "2020-09-15"
       },
       {
-        "title": "如果故障选择了你",
-        "link": "https://toutiao.io/k/ayhw7ik",
-        "date": "2020-09-15"
-      },
-      {
         "title": "Life of a Packet in Cilium：实地探索 Pod-to-Service 转发路径及 BPF 处理逻辑",
         "link": "https://toutiao.io/k/9ad80ce",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "如果故障选择了你",
+        "link": "https://toutiao.io/k/ayhw7ik",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "Jenkins 在 Kubernetes 中的 DevOps 流水线最佳实践",
+        "link": "https://toutiao.io/k/9kjjnxj",
         "date": "2020-09-15"
       },
       {
@@ -16759,23 +16729,73 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 30 个网站产品落地页免费模板",
-        "link": "https://toutiao.io/k/qrs55xl",
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 一文了解 Zookeeper",
+        "link": "https://toutiao.io/k/of5k6dk",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
         "date": "2020-09-15"
       }
     ]

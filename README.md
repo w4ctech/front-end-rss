@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 21:34:52，:rocket: 更新条数: +3633， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 21:47:03，:rocket: 更新条数: +3633， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-15-熬夜看了苹果发布会，这是发布了个寂寞？](https://www.v2ex.com/t/707388) ![](assets/new.png)  
 - [2020-09-15-A14-CPU-提升-16.7%，-GPU-提升-8.3%，提升历代最小？](https://www.v2ex.com/t/707387) ![](assets/new.png)  
 - [2020-09-15-SteelSeries-Arctis-9](https://www.v2ex.com/t/707386) ![](assets/new.png)  
 - [2020-09-15-这次居然还是没有推出-AirTags](https://www.v2ex.com/t/707385) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-15-请问在火币网工作有什么风险吗](https://www.v2ex.com/t/707370) ![](assets/new.png)  
 - [2020-09-15-10400-黑苹果核显驱动求助](https://www.v2ex.com/t/707369) ![](assets/new.png)  
 - [2020-09-15-今晚的苹果发布会第三方无法观看，同时只介绍了手表和平板](https://www.v2ex.com/t/707368) ![](assets/new.png)  
-- [2020-09-15-AMD-Ryzen-系列-CPU-对虚拟化的支持怎样了？](https://www.v2ex.com/t/707367) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1152,8 +1152,8 @@
 - [2020-09-15-代码重构之法：方法重构分析](https://toutiao.io/k/dkhtai6) ![](assets/new.png)  
 - [2020-09-15-ClickHouse-入门基础知识了解](https://toutiao.io/k/636xeiy) ![](assets/new.png)  
 - [2020-09-15-Spring-5-中文解析核心篇：集成测试之-TestContext](https://toutiao.io/k/nf5076v) ![](assets/new.png)  
-- [2020-09-15-Go：A-Documentary-发布](https://toutiao.io/k/49m9qqf) ![](assets/new.png)  
 - [2020-09-15-再见-RNN，你好-TCN](https://toutiao.io/k/cxh30fi) ![](assets/new.png)  
+- [2020-09-15-Go：A-Documentary-发布](https://toutiao.io/k/49m9qqf) ![](assets/new.png)  
 - [2020-09-15-简单来说，它就是用来滚动切换列表项的](https://toutiao.io/k/u5s4huf) ![](assets/new.png)  
 - [2020-09-15-Fragment-时长统计那些事](https://toutiao.io/k/lkwonde) ![](assets/new.png)  
 - [2020-09-15-如果故障选择了你](https://toutiao.io/k/ayhw7ik) ![](assets/new.png)  

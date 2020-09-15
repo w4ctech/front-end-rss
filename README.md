@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 08:26:05，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 08:32:24，:rocket: 更新条数: +3409， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-09-15-画了几天时间，初步搞了个可视化页面交互搭建](https://www.v2ex.com/t/707233) ![](assets/new.png)  
+- [2020-09-15-有老哥面试过招商银行技术岗吗](https://www.v2ex.com/t/707232) ![](assets/new.png)  
+- [2020-09-15-该不该升级-MIUI-11-到-MIUI-12](https://www.v2ex.com/t/707231) ![](assets/new.png)  
+- [2020-09-15-9-月直播课预告-|-CODING-DevOps-深度解析系列上线啦](https://www.v2ex.com/t/707229) ![](assets/new.png)  
+- [2020-09-15-滴滴滴……滴滴滴，我在哪？](https://www.v2ex.com/t/707228) ![](assets/new.png)  
 - [2020-09-15-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/707226) ![](assets/new.png)  
 - [2020-09-15-Fusion-12:-Now-Available!](https://www.v2ex.com/t/707225) ![](assets/new.png)  
 - [2020-09-15-这种情况是否该为了爱情付出](https://www.v2ex.com/t/707224) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-09-15-2020-年了,-能同时在-苹果-安卓-群辉-NAS-识别的-磁盘格式,-最佳实践是什么?](https://www.v2ex.com/t/707212) ![](assets/new.png)  
 - [2020-09-15-如何记录页面上的三方-js-恶意跳转行为？](https://www.v2ex.com/t/707211) ![](assets/new.png)  
 - [2020-09-15-youtube-字幕下载方法](https://www.v2ex.com/t/707210) ![](assets/new.png)  
-- [2020-09-15-chrome-出现-http-500-错误,火狐正常,什么情况导致的?](https://www.v2ex.com/t/707209) ![](assets/new.png)  
-- [2020-09-15-求助！简历已经发到招聘网站半个月了一直没有面试邀请该怎么办](https://www.v2ex.com/t/707208) ![](assets/new.png)  
-- [2020-09-15-大四计算机狗，秋招结束，不读研，剩下时间能干嘛](https://www.v2ex.com/t/707207) ![](assets/new.png)  
-- [2020-09-15-为什么-macOS-聚焦搜索老是搜出无关内容？](https://www.v2ex.com/t/707206) ![](assets/new.png)  
-- [2020-09-15-求问-Go-设置结构体属性的样式](https://www.v2ex.com/t/707205) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

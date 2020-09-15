@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 09:03:49，:rocket: 更新条数: +3410， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 09:12:36，:rocket: 更新条数: +3412， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-15-Casbin-专注、高效的访问控制框架](https://www.v2ex.com/t/707250) ![](assets/new.png)  
+- [2020-09-15-在-Chrome-上使用-DEVONthink-的时候总是弹窗](https://www.v2ex.com/t/707249) ![](assets/new.png)  
+- [2020-09-15-AirPods-Pro-更新固件-3A283-使用感受](https://www.v2ex.com/t/707248) ![](assets/new.png)  
+- [2020-09-15-做了一个前端方面的小网站，稳定运行有段时间了。打算换换友情链接啊~~](https://www.v2ex.com/t/707247) ![](assets/new.png)  
 - [2020-09-15-iPhone11-掉了被人捡了-怎么样才能找回-!](https://www.v2ex.com/t/707246) ![](assets/new.png)  
 - [2020-09-15-换修的-Airpods-Pro-新固件下序列号也能显示了](https://www.v2ex.com/t/707245) ![](assets/new.png)  
 - [2020-09-15-找不出-bug](https://www.v2ex.com/t/707244) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-15-有老哥面试过招商银行技术岗吗](https://www.v2ex.com/t/707232) ![](assets/new.png)  
 - [2020-09-15-该不该升级-MIUI-11-到-MIUI-12](https://www.v2ex.com/t/707231) ![](assets/new.png)  
 - [2020-09-15-9-月直播课预告-|-CODING-DevOps-深度解析系列上线啦](https://www.v2ex.com/t/707229) ![](assets/new.png)  
-- [2020-09-15-滴滴滴……滴滴滴，我在哪？](https://www.v2ex.com/t/707228) ![](assets/new.png)  
-- [2020-09-15-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/707226) ![](assets/new.png)  
-- [2020-09-15-Fusion-12:-Now-Available!](https://www.v2ex.com/t/707225) ![](assets/new.png)  
-- [2020-09-15-这种情况是否该为了爱情付出](https://www.v2ex.com/t/707224) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

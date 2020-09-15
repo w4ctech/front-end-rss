@@ -16320,6 +16320,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "招募一名 web 前端 自由职业者， 12000-18000/月",
+        "link": "https://www.v2ex.com/t/707203",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "请教关于交换机镜像端口的问题",
+        "link": "https://www.v2ex.com/t/707202",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[华为/松研所&苏研所/企业智慧屏] - Java /android/c/c++ 高级开发工程师（15-17 级，华为编制, 30k - 50k, 14 薪）",
+        "link": "https://www.v2ex.com/t/707200",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "测试工程师",
+        "link": "https://www.v2ex.com/t/707199",
+        "date": "2020-09-15"
+      },
+      {
         "title": "恒大开始 7-12 工作制，降薪+取消双休",
         "link": "https://www.v2ex.com/t/707196",
         "date": "2020-09-15"
@@ -16482,31 +16502,6 @@
       {
         "title": "按指数投资的比例买股票和买指数基金，哪个手续费低？",
         "link": "https://www.v2ex.com/t/707155",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "不懂就问，请教下各位哪里可以买到 ergodone",
-        "link": "https://www.v2ex.com/t/707154",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "请问诸位 Android 开发大佬， EditText 的 ReplacementTransformationMethod 有什么办法绕过去",
-        "link": "https://www.v2ex.com/t/707153",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "flameshot 截图工具 0.8.0 Beta 释出",
-        "link": "https://www.v2ex.com/t/707152",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "怎么开通百度网盘会员最便宜",
-        "link": "https://www.v2ex.com/t/707150",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "FastStone Capture -截图神器！终于被软购商城代理！正版官方授权特价出售！",
-        "link": "https://www.v2ex.com/t/707149",
         "date": "2020-09-15"
       }
     ]
@@ -16729,18 +16724,28 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-15"
       },
       {
         "title": "[推荐] 一文了解 Zookeeper",
         "link": "https://toutiao.io/k/of5k6dk",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
         "date": "2020-09-15"
       },
       {
@@ -16754,33 +16759,8 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-15"
-      },
-      {
         "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
         "link": "https://toutiao.io/k/ywhve25",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 还以为 VSCode 是程序员专属的工具？那你可太小看它了",
-        "link": "https://toutiao.io/k/qit9l0m",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-15"
       },
       {
@@ -16789,8 +16769,8 @@
         "date": "2020-09-15"
       },
       {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-15"
       },
       {
@@ -16799,8 +16779,23 @@
         "date": "2020-09-15"
       },
       {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-15"
+      },
+      {
         "title": "[推荐] Java 并发编程：Executor 线程池框架简介",
         "link": "https://toutiao.io/k/lerlnil",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-15"
       }
     ]

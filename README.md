@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-15 06:36:03，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-15 06:47:07，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-15-德国小镇一周增55例确诊病例-或与一位美国人有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSoBJ6GFpMEI5CM2HUNSB200915&isfromapp=1) ![](assets/new.png)  
+- [2020-09-15-美高校新冠肺炎确诊病例超8.8万-前官员：应对失败归咎因国家领导层](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUzrZ8Jrt5yWKgftLjBTR200915&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-哈萨克斯坦新增新冠肺炎确诊病例大幅下降-政府抗疫拨款超千亿坚戈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOSNXhvG55PNZZKvZsdTV200915&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-​印度新增83809例新冠肺炎确诊病例-累计确诊超493万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVhY0itcavEcNWP900xce200915&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-香港新冠病毒普及社区检测计划结束-林郑月娥：要感谢所有为抗疫工作出力的人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQOA9XbLc9cV4bFfgXb95200915&isfromapp=1) ![](assets/new.png)  
-- [2020-09-15-民航局：8月份民航发展继续呈现回升态势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0BT9jRBW6yzwj9zl8o9C200915&isfromapp=1) ![](assets/new.png)  
-- [2020-09-15-法国多地收紧防控措施，将大型集会活动人数上限下调至1000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFb0dYm1j0XcG2Jo6uG2m200915&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-15-Offer-求比较（杭州）](https://www.v2ex.com/t/707191) ![](assets/new.png)  
+- [2020-09-15-tttttttttt](https://www.v2ex.com/t/707189) ![](assets/new.png)  
 - [2020-09-15-tttttt](https://www.v2ex.com/t/707188) ![](assets/new.png)  
 - [2020-09-15-多核潜移默化地改变着我们的编程语言](https://www.v2ex.com/t/707187) ![](assets/new.png)  
 - [2020-09-15-想用-PD-装-Windows-玩游戏，有没有反虚拟机检测工具？](https://www.v2ex.com/t/707186) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-15-整个群，聊聊-go](https://www.v2ex.com/t/707168) ![](assets/new.png)  
 - [2020-09-15-后端代码狗想不那么系统的学习-React.求推荐学习路线和学习资料](https://www.v2ex.com/t/707167) ![](assets/new.png)  
 - [2020-09-15-PHP-如何实现会话永不过期，一直保持登录状态！](https://www.v2ex.com/t/707165) ![](assets/new.png)  
-- [2020-09-15-脑子里突然冒出来的当年看过的。。暴露年龄的乱乱的。。作为备忘录的](https://www.v2ex.com/t/707164) ![](assets/new.png)  
-- [2020-09-15-macOS-下能关闭-BD-PROCHOT-吗?](https://www.v2ex.com/t/707162) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

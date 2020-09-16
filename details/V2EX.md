@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-16 20:34:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 20:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-16-看见-Apple-Watch-的帖子，正好这段时间一个人住，有两个风险有点怕：摔倒和安防](https://www.v2ex.com/t/707733) 
 - [2020-09-16-iOS-14-推送啦，开始更新](https://www.v2ex.com/t/707732) 
 - [2020-09-16-新的-Evernote-for-ios-点个赞，推荐尝试](https://www.v2ex.com/t/707731) 
 - [2020-09-16-小年糕-远程办公不打卡，-go-语言开发算法测试内推](https://www.v2ex.com/t/707730) 
@@ -41,4 +42,3 @@
 - [2020-09-16-问个-git-ignore-问题](https://www.v2ex.com/t/707686) 
 - [2020-09-16-求问一道-C#笔试题，想知道最好的解答是什么](https://www.v2ex.com/t/707685) 
 - [2020-09-16-有人听过珠峰周啸天的课吗？靠谱吗？](https://www.v2ex.com/t/707684) 
-- [2020-09-16-AirPods-Pro-的空间音频不支持-iPad-和-Mac？](https://www.v2ex.com/t/707683) 

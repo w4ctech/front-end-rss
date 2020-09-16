@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 12:47:25，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 13:03:22，:rocket: 更新条数: +3638， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-16-收藏贴-Java-有哪些项目的源码值得一看？](https://www.v2ex.com/t/707690) ![](assets/new.png)  
 - [2020-09-16-无法访问在-github-托管的网站](https://www.v2ex.com/t/707689) ![](assets/new.png)  
 - [2020-09-16-30-块钱买了个-HDMI-采集卡](https://www.v2ex.com/t/707688) ![](assets/new.png)  
 - [2020-09-16-问个-git-ignore-问题](https://www.v2ex.com/t/707686) ![](assets/new.png)  
@@ -1076,7 +1097,6 @@
 - [2020-09-16-北京、成都-+高薪-高级数据库内核/引擎开发工程师（高速发展企业）](https://www.v2ex.com/t/707667) ![](assets/new.png)  
 - [2020-09-16-热招岗位--北京职位（跟谁学、汉迪移动）](https://www.v2ex.com/t/707666) ![](assets/new.png)  
 - [2020-09-16-拼多多-商户业务直招-18-薪-Java-后端资深研发](https://www.v2ex.com/t/707665) ![](assets/new.png)  
-- [2020-09-16-收京东-Plus-会员年卡](https://www.v2ex.com/t/707664) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,6 +1170,11 @@
 </summary>
 
 
+- [2020-09-16-Apache-Cocoon高危漏洞风险提示](https://sec.thief.one/article_content?a_id=4870f328a91530b197b8b814bc093219) ![](assets/new.png)  
+- [2020-09-16-请签收您的中秋节惊喜!](https://sec.thief.one/article_content?a_id=82d8beef6ce8fc4d99f8f81a67f7f243) ![](assets/new.png)  
+- [2020-09-16-2020福建网安周,与您相约“疫”考之下数据安全管理](https://sec.thief.one/article_content?a_id=717ecf0455488918b2488d8d84493607) ![](assets/new.png)  
+- [2020-09-16-【漏洞通告】IBM-Spectrum-Protect-Plus目录遍历与任意代码执行漏洞...](https://sec.thief.one/article_content?a_id=85137e8b379480039edc9893ab7b0ba4) ![](assets/new.png)  
+- [2020-09-16-良心贴!没想到-Google-排名第一的编程语言,可以这么简单!](https://sec.thief.one/article_content?a_id=080ca644cb85f82a77824e8bcf5a0be3) ![](assets/new.png)  
 - [2020-09-16-招聘-|-金山云诚聘安全开发工程师](https://sec.thief.one/article_content?a_id=e2d4c6708d277fbcbc24968f6883e105) ![](assets/new.png)  
 - [2020-09-16-解读伊朗黑客利用VPN漏洞入侵全球企业内网事件](https://sec.thief.one/article_content?a_id=23a2f38d30635577acd4bc3a2fc4b97c) ![](assets/new.png)  
 - [2020-09-16-百度世界大会2020:首揭三大维度,百度AI安全护航百度大脑](https://sec.thief.one/article_content?a_id=1d5cd004fd8d96095d94ea8926c98011) ![](assets/new.png)  
@@ -1165,11 +1190,6 @@
 - [2020-09-16-二级市场行情寡淡,到交易所挖矿去?](https://sec.thief.one/article_content?a_id=854e3738088c380c4d443c07c99a2f0f) ![](assets/new.png)  
 - [2020-09-16-黑客利用DrayTek设备中的0day漏洞对企业网络发动攻击](https://sec.thief.one/article_content?a_id=c16a502bfdd0f0e0cf57b3c0022e049c) ![](assets/new.png)  
 - [2020-09-16-一次广播电视网络安全应急演练过程全记录](https://sec.thief.one/article_content?a_id=be2108295a1b6b3c91e45fa855b51c2e) ![](assets/new.png)  
-- [2020-09-16-微软修复了有史以来最严重的安全漏洞之一](https://sec.thief.one/article_content?a_id=afba7177ee15ad41e9fa204d58f607e1) ![](assets/new.png)  
-- [2020-09-16-测试-APP-抓不到数据包该怎么办](https://sec.thief.one/article_content?a_id=6bdcaa227689f37fefbe618bf821ae7b) ![](assets/new.png)  
-- [2020-09-16-【视频分享】虚拟机逃逸漏洞的利用思路与方法](https://sec.thief.one/article_content?a_id=00f4da1e74030a20c3d1d47845559b7a) ![](assets/new.png)  
-- [2020-09-16-你收到一条团队好友验证......](https://sec.thief.one/article_content?a_id=ba9b9aca98cd7c160a928df485bb7ed3) ![](assets/new.png)  
-- [2020-09-16-目标国防行业:Lazarus使用招聘诱饵结合持续更新的网络武器](https://sec.thief.one/article_content?a_id=0f773122c25ef18daca6e3f4ec8e6a90) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

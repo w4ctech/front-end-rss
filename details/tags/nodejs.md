@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 14:24:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 14:32:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -29,3 +29,4 @@
 - [2020-08-20-Node.js-异步延续模型](https://www.ershicimi.com/p/49850a57b1261230fb6486dece7bb273) 
 - [2020-08-19-如何定制企业级-Node.js-代码检查规范](https://www.ershicimi.com/p/46117eecd705963a4217bd64bbc467df) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
+- [2020-09-16-上海/北京-C-轮-NLP-方向公司，重金求-Java-、Web、BI、Electron、测试、以及-Techleader-类型的大佬](https://www.v2ex.com/t/707707) 

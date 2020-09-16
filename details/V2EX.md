@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-16 21:47:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 22:03:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-16-有没有-iPhonse-SE-2016-更新到-iOS14-的，进来聊聊体验怎么样？](https://www.v2ex.com/t/707736) 
 - [2020-09-16-看见-Apple-Watch-的帖子，正好这段时间一个人住，有两个风险有点怕：摔倒和安防](https://www.v2ex.com/t/707733) 
 - [2020-09-16-iOS-14-推送啦，开始更新](https://www.v2ex.com/t/707732) 
 - [2020-09-16-新的-Evernote-for-ios-点个赞，推荐尝试](https://www.v2ex.com/t/707731) 
@@ -39,6 +40,3 @@
 - [2020-09-16-收藏贴-Java-有哪些项目的源码值得一看？](https://www.v2ex.com/t/707690) 
 - [2020-09-16-无法访问在-github-托管的网站](https://www.v2ex.com/t/707689) 
 - [2020-09-16-30-块钱买了个-HDMI-采集卡](https://www.v2ex.com/t/707688) 
-- [2020-09-16-问个-git-ignore-问题](https://www.v2ex.com/t/707686) 
-- [2020-09-16-求问一道-C#笔试题，想知道最好的解答是什么](https://www.v2ex.com/t/707685) 
-- [2020-09-16-有人听过珠峰周啸天的课吗？靠谱吗？](https://www.v2ex.com/t/707684) 

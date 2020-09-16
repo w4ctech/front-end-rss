@@ -17461,6 +17461,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "国内有高端品牌的话，国外高端手机品牌定价相对也不会太高吧。",
+        "link": "https://www.v2ex.com/t/707453",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "杭州，找工作也太难了",
+        "link": "https://www.v2ex.com/t/707452",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "我想知道什么时候 iPhone 能上 typec 接口，明年有戏吗？",
+        "link": "https://www.v2ex.com/t/707451",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "对于大小周，如何设置闹钟",
+        "link": "https://www.v2ex.com/t/707450",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "15k 的 12 薪失业 降薪到 10k 的 14 薪 值得去吗",
+        "link": "https://www.v2ex.com/t/707449",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[上海[20K-35K]实地科技 ai 智慧楼宇招前端 React 前端开发",
+        "link": "https://www.v2ex.com/t/707447",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "问个蛋疼的问题，欠费的情况下怎么知道自己的手机号?",
+        "link": "https://www.v2ex.com/t/707446",
+        "date": "2020-09-16"
+      },
+      {
         "title": "有没有前端比较深层次的书籍或视频",
         "link": "https://www.v2ex.com/t/707445",
         "date": "2020-09-16"
@@ -17629,36 +17664,6 @@
         "title": "国庆节上门喂猫",
         "link": "https://www.v2ex.com/t/707404",
         "date": "2020-09-16"
-      },
-      {
-        "title": "Python 工程师应该如何学习 Java web",
-        "link": "https://www.v2ex.com/t/707403",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "国行手表可以在主力机不登出 iCloud 下激活 ecg 嘛",
-        "link": "https://www.v2ex.com/t/707401",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "旧的 air3 刚上路，新的 air4 来了，超级纠结",
-        "link": "https://www.v2ex.com/t/707400",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "pycharm 怎么避免包更新扫描？",
-        "link": "https://www.v2ex.com/t/707399",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "预算 200 到 2000 求推荐降噪耳机或者隔音耳罩，以及求对比",
-        "link": "https://www.v2ex.com/t/707398",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "大胆猜测，这一代很多人会换华为",
-        "link": "https://www.v2ex.com/t/707397",
-        "date": "2020-09-16"
       }
     ]
   },
@@ -17795,13 +17800,13 @@
         "date": "2020-09-16"
       },
       {
-        "title": "每个 Spark 工程师都应该知道的五种 Join 策略",
-        "link": "https://toutiao.io/k/hg9q63k",
+        "title": "Spring 事务是如何应用到你的业务场景中的？",
+        "link": "https://toutiao.io/k/a2zzp9y",
         "date": "2020-09-16"
       },
       {
-        "title": "Spring 事务是如何应用到你的业务场景中的？",
-        "link": "https://toutiao.io/k/a2zzp9y",
+        "title": "每个 Spark 工程师都应该知道的五种 Join 策略",
+        "link": "https://toutiao.io/k/hg9q63k",
         "date": "2020-09-16"
       },
       {
@@ -17825,6 +17830,11 @@
         "date": "2020-09-16"
       },
       {
+        "title": "浅谈如何搭建知识体系",
+        "link": "https://toutiao.io/k/2mquhr4",
+        "date": "2020-09-16"
+      },
+      {
         "title": "聚焦 Android 11: 开发语言",
         "link": "https://toutiao.io/k/9w4z4m2",
         "date": "2020-09-16"
@@ -17832,11 +17842,6 @@
       {
         "title": "无栈协程：Rust 学习笔记",
         "link": "https://toutiao.io/k/b7shlzb",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "浅谈如何搭建知识体系",
-        "link": "https://toutiao.io/k/2mquhr4",
         "date": "2020-09-16"
       },
       {
@@ -17855,6 +17860,21 @@
         "date": "2020-09-16"
       },
       {
+        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
+        "link": "https://toutiao.io/k/pz73jc0",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-16"
+      },
+      {
         "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
         "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-16"
@@ -17865,23 +17885,8 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
         "date": "2020-09-16"
       },
       {
@@ -17890,18 +17895,8 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-16"
-      },
-      {
         "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
         "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-16"
       },
       {
@@ -17910,18 +17905,28 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-16"
       }
     ]

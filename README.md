@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 02:13:21，:rocket: 更新条数: +3631， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 02:25:55，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,13 @@
 </summary>
 
 
+- [2020-09-16-国内有高端品牌的话，国外高端手机品牌定价相对也不会太高吧。](https://www.v2ex.com/t/707453) ![](assets/new.png)  
+- [2020-09-16-杭州，找工作也太难了](https://www.v2ex.com/t/707452) ![](assets/new.png)  
+- [2020-09-16-我想知道什么时候-iPhone-能上-typec-接口，明年有戏吗？](https://www.v2ex.com/t/707451) ![](assets/new.png)  
+- [2020-09-16-对于大小周，如何设置闹钟](https://www.v2ex.com/t/707450) ![](assets/new.png)  
+- [2020-09-16-15k-的-12-薪失业-降薪到-10k-的-14-薪-值得去吗](https://www.v2ex.com/t/707449) ![](assets/new.png)  
+- [2020-09-16-上海20K-35K实地科技-ai-智慧楼宇招前端-React-前端开发](https://www.v2ex.com/t/707447) ![](assets/new.png)  
+- [2020-09-16-问个蛋疼的问题，欠费的情况下怎么知道自己的手机号?](https://www.v2ex.com/t/707446) ![](assets/new.png)  
 - [2020-09-16-有没有前端比较深层次的书籍或视频](https://www.v2ex.com/t/707445) ![](assets/new.png)  
 - [2020-09-16-如何挂到北京协和的专家号](https://www.v2ex.com/t/707444) ![](assets/new.png)  
 - [2020-09-16-有适合家里运动的健身器材吗？](https://www.v2ex.com/t/707443) ![](assets/new.png)  
@@ -1090,13 +1097,6 @@
 - [2020-09-16-有没有东北的-V-友，迫于-10.8-号要去东北调兵山市，请教一二：](https://www.v2ex.com/t/707434) ![](assets/new.png)  
 - [2020-09-16-深圳15k-30k依瞳科技/后端开发工程师，明星创业团队，持续招人](https://www.v2ex.com/t/707433) ![](assets/new.png)  
 - [2020-09-16-有人换过-apple-watch-电池吗？](https://www.v2ex.com/t/707432) ![](assets/new.png)  
-- [2020-09-16-鸿蒙-2.0v2-上都没什么讨论啊](https://www.v2ex.com/t/707431) ![](assets/new.png)  
-- [2020-09-16-Macbook-pro-2018-15-寸-黑屏无法开机-刷-T2-后起死回生](https://www.v2ex.com/t/707427) ![](assets/new.png)  
-- [2020-09-16-弄了个去各种短视频水印的小程序，几乎不限次数，免费用](https://www.v2ex.com/t/707426) ![](assets/new.png)  
-- [2020-09-16-迫于-vercel.app-被微信封掉了，求推荐类似服务](https://www.v2ex.com/t/707425) ![](assets/new.png)  
-- [2020-09-16-今年的运势很差，求破解之法](https://www.v2ex.com/t/707424) ![](assets/new.png)  
-- [2020-09-16-为什么总喜欢将已-B-挂嘴上](https://www.v2ex.com/t/707423) ![](assets/new.png)  
-- [2020-09-16-国内有支持第三方登录访问的云盘么？](https://www.v2ex.com/t/707422) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,22 +1143,22 @@
 - [2020-09-16-Spring-Boot-2-集成日志，复杂业务下的自定义实现](https://toutiao.io/k/p5r1xgu) ![](assets/new.png)  
 - [2020-09-16-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
 - [2020-09-16-烦人的-Null，你可以滚了](https://toutiao.io/k/o15uuox) ![](assets/new.png)  
-- [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
 - [2020-09-16-Spring-事务是如何应用到你的业务场景中的？](https://toutiao.io/k/a2zzp9y) ![](assets/new.png)  
+- [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
 - [2020-09-16-深度剖析-Kafka-Producer-的缓冲池机制（图解-+-源码分析）](https://toutiao.io/k/n37jb6g) ![](assets/new.png)  
 - [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
 - [2020-09-16-详解增强算术赋值：“-=”-操作是怎么实现的？](https://toutiao.io/k/iuyl9j7) ![](assets/new.png)  
 - [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) ![](assets/new.png)  
+- [2020-09-16-浅谈如何搭建知识体系](https://toutiao.io/k/2mquhr4) ![](assets/new.png)  
 - [2020-09-16-聚焦-Android-11:-开发语言](https://toutiao.io/k/9w4z4m2) ![](assets/new.png)  
 - [2020-09-16-无栈协程：Rust-学习笔记](https://toutiao.io/k/b7shlzb) ![](assets/new.png)  
-- [2020-09-16-浅谈如何搭建知识体系](https://toutiao.io/k/2mquhr4) ![](assets/new.png)  
 - [2020-09-16-如何进行重构？](https://toutiao.io/k/iezhfup) ![](assets/new.png)  
 - [2020-09-16-译-Kubernetes：移除-CPU-限制，服务运行更快](https://toutiao.io/k/qy6jqm2) ![](assets/new.png)  
 - [2020-09-16-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-16-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
-- [2020-09-16-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-16-推荐-程序员进阶系列：多图教你掌握-JVM](https://toutiao.io/k/pz73jc0) ![](assets/new.png)  
+- [2020-09-16-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
 - [2020-09-16-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-16-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-16-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

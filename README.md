@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 02:34:47，:rocket: 更新条数: +3631， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 02:47:01，:rocket: 更新条数: +3409， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,13 @@
 </summary>
 
 
+- [2020-09-16-cloudflare-能缓存-webdav-或者需要-http-auth-的资源吗](https://www.v2ex.com/t/707461) ![](assets/new.png)  
+- [2020-09-16-apple-care+服务升级](https://www.v2ex.com/t/707460) ![](assets/new.png)  
+- [2020-09-16-百度云-CDN-不按照规范来，还很硬气，说“这是符合预期的”，百度啊百度。。。。](https://www.v2ex.com/t/707459) ![](assets/new.png)  
+- [2020-09-16-Apple-One-美區-105CNY-/-3mo](https://www.v2ex.com/t/707458) ![](assets/new.png)  
+- [2020-09-16-大家小区都有电动自行车充电桩么？](https://www.v2ex.com/t/707457) ![](assets/new.png)  
+- [2020-09-16-杭州乌鸫科技诚招-iOS\Andorid-高级研发工程师](https://www.v2ex.com/t/707456) ![](assets/new.png)  
+- [2020-09-16-ios14-推送正式版了，-macos11-什么时候推送？](https://www.v2ex.com/t/707455) ![](assets/new.png)  
 - [2020-09-16-国内有高端品牌的话，国外高端手机品牌定价相对也不会太高吧。](https://www.v2ex.com/t/707453) ![](assets/new.png)  
 - [2020-09-16-杭州，找工作也太难了](https://www.v2ex.com/t/707452) ![](assets/new.png)  
 - [2020-09-16-我想知道什么时候-iPhone-能上-typec-接口，明年有戏吗？](https://www.v2ex.com/t/707451) ![](assets/new.png)  
@@ -1090,13 +1077,6 @@
 - [2020-09-16-想要买-AW6-的小伙伴建议新出就入手-AW-是真保值！](https://www.v2ex.com/t/707442) ![](assets/new.png)  
 - [2020-09-16-假如失去了一些认为理所当然的东西](https://www.v2ex.com/t/707441) ![](assets/new.png)  
 - [2020-09-16-从-Neo4j-导入-Nebula-Graph-实践见-SPark-数据导入原理](https://www.v2ex.com/t/707439) ![](assets/new.png)  
-- [2020-09-16-建议-V2EX-改名为品葱备用站](https://www.v2ex.com/t/707438) ![](assets/new.png)  
-- [2020-09-16-b-站是不是只能直接下载-flv，要-mp4-得自己转？](https://www.v2ex.com/t/707437) ![](assets/new.png)  
-- [2020-09-16-鸿蒙系统的意义在哪？](https://www.v2ex.com/t/707436) ![](assets/new.png)  
-- [2020-09-16-纯干货-自学编程的网站/书籍推荐](https://www.v2ex.com/t/707435) ![](assets/new.png)  
-- [2020-09-16-有没有东北的-V-友，迫于-10.8-号要去东北调兵山市，请教一二：](https://www.v2ex.com/t/707434) ![](assets/new.png)  
-- [2020-09-16-深圳15k-30k依瞳科技/后端开发工程师，明星创业团队，持续招人](https://www.v2ex.com/t/707433) ![](assets/new.png)  
-- [2020-09-16-有人换过-apple-watch-电池吗？](https://www.v2ex.com/t/707432) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1154,11 +1134,11 @@
 - [2020-09-16-无栈协程：Rust-学习笔记](https://toutiao.io/k/b7shlzb) ![](assets/new.png)  
 - [2020-09-16-如何进行重构？](https://toutiao.io/k/iezhfup) ![](assets/new.png)  
 - [2020-09-16-译-Kubernetes：移除-CPU-限制，服务运行更快](https://toutiao.io/k/qy6jqm2) ![](assets/new.png)  
-- [2020-09-16-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-16-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-16-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
+- [2020-09-16-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
 - [2020-09-16-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
-- [2020-09-16-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-16-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-16-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
+- [2020-09-16-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 15:47:26，:rocket: 更新条数: +3410， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 16:04:07，:rocket: 更新条数: +3613， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,26 +1139,22 @@
 </summary>
 
 
-- [2020-09-16-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
-- [2020-09-16-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-16-Spring-Boot-2-集成日志，复杂业务下的自定义实现](https://toutiao.io/k/p5r1xgu) ![](assets/new.png)  
-- [2020-09-16-烦人的-Null，你可以滚了](https://toutiao.io/k/o15uuox) ![](assets/new.png)  
-- [2020-09-16-深度剖析-Kafka-Producer-的缓冲池机制（图解-+-源码分析）](https://toutiao.io/k/n37jb6g) ![](assets/new.png)  
-- [2020-09-16-无栈协程：Rust-学习笔记](https://toutiao.io/k/b7shlzb) ![](assets/new.png)  
-- [2020-09-16-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
-- [2020-09-16-自动化回归问题的一二三](https://toutiao.io/k/8g29shf) ![](assets/new.png)  
-- [2020-09-16-Spring-事务是如何应用到你的业务场景中的？](https://toutiao.io/k/a2zzp9y) ![](assets/new.png)  
-- [2020-09-16-浅谈如何搭建知识体系](https://toutiao.io/k/2mquhr4) ![](assets/new.png)  
-- [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
-- [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
-- [2020-09-16-详解增强算术赋值：“-=”-操作是怎么实现的？](https://toutiao.io/k/iuyl9j7) ![](assets/new.png)  
-- [2020-09-16-聚焦-Android-11：开发语言](https://toutiao.io/k/9w4z4m2) ![](assets/new.png)  
-- [2020-09-16-如何进行重构？](https://toutiao.io/k/iezhfup) ![](assets/new.png)  
-- [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) ![](assets/new.png)  
-- [2020-09-16-译-Kubernetes：移除-CPU-限制，服务运行更快](https://toutiao.io/k/qy6jqm2) ![](assets/new.png)  
-- [2020-09-16-大数据项目中的-QA-需要迎接新的挑战](https://toutiao.io/k/ief3uj7) ![](assets/new.png)  
-- [2020-09-16-《花木兰》得分太低？如何预测一部电影的-IMDb-评分？（Mixlab-跨学科课程）](https://toutiao.io/k/xmh1f28) ![](assets/new.png)  
-- [2020-09-16-译-智能合约间权限控制的协作模式](https://toutiao.io/k/3kombly) ![](assets/new.png)  
+- [2020-09-16-太厉害了！“他”-到底是如何渡过-“中年危机”-入职阿里-P7，成就年薪百万！](https://toutiao.io/k/dbpbc1k) ![](assets/new.png)  
+- [2020-09-16-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-16-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
+- [2020-09-16-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-16-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
+- [2020-09-16-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-16-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-16-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-16-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-16-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-16-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-16-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-16-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-16-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-16-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-16-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

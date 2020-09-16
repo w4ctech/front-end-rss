@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 03:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 03:24:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -66,5 +66,7 @@
 - [2020-09-11-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/c17632c9138f5cb25baa775890519b34) 
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) 
+- [2020-09-15-VueRouter源码解析一：插件安装，几个类型，几个方法](https://juejin.im/post/6872733826012217351) 
+- [2020-09-15-vue父子组件状态同步的最佳方式续章v-model篇](https://juejin.im/post/6872725933263552525) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-09-16-北京-字节跳动-广告变现·部门直招-HC-20+-Golang/-Python-后台开发工程师-、Vue-前端开发工程师](https://www.v2ex.com/t/707477) 

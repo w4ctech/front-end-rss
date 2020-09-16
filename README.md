@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 03:12:09，:rocket: 更新条数: +3407， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 03:24:04，:rocket: 更新条数: +3413， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -949,9 +949,9 @@
 
 - [2020-09-15-硬核看房利器——Web-全景的实现](https://juejin.im/post/6872914961996185608) ![](assets/new.png)  
 - [2020-09-15-react基础知识总结（持续更新ing...）](https://juejin.im/post/6872905077493858312) ![](assets/new.png)  
-- [2020-09-15-蒲公英-·-JELLY技术周刊-Vol.22:-npm-i-react-router@6.0.0-beta.0](https://juejin.im/post/6872896296307392519) ![](assets/new.png)  
-- [2020-09-15-通过Node和Redis进行API速率限制](https://juejin.im/post/6872711612533473293) ![](assets/new.png)  
-- [2020-09-14-如何搭建异常捕获平台｜数据统计](https://juejin.im/post/6872557582662238222) ![](assets/new.png)  
+- [2020-09-15-关于-JavaScript-错误处理的最完整指南](https://juejin.im/post/6872867757407338509) ![](assets/new.png)  
+- [2020-09-15-VueRouter源码解析一：插件安装，几个类型，几个方法](https://juejin.im/post/6872733826012217351) ![](assets/new.png)  
+- [2020-09-15-vue父子组件状态同步的最佳方式续章v-model篇](https://juejin.im/post/6872725933263552525) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-16-新发现了一个-Quasar-的-QQ-群](https://www.v2ex.com/t/707483) ![](assets/new.png)  
+- [2020-09-16-快手招人了！-16-薪+-北京-杭州-上海-深圳-HC-充足，](https://www.v2ex.com/t/707482) ![](assets/new.png)  
+- [2020-09-16-egghead.io-合租，最近优惠-$150-每年](https://www.v2ex.com/t/707480) ![](assets/new.png)  
+- [2020-09-16-图文直播有未来吗](https://www.v2ex.com/t/707479) ![](assets/new.png)  
 - [2020-09-16-北京-字节跳动-广告变现·部门直招-HC-20+-Golang/-Python-后台开发工程师-、Vue-前端开发工程师](https://www.v2ex.com/t/707477) ![](assets/new.png)  
 - [2020-09-16-是否记得第一天进新公司时的情景](https://www.v2ex.com/t/707476) ![](assets/new.png)  
 - [2020-09-16-看了一下新-iPad-,-没有购买的欲望,-Android-目前还有哪些厂商有出平板?](https://www.v2ex.com/t/707475) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-16-apple-care+服务升级](https://www.v2ex.com/t/707460) ![](assets/new.png)  
 - [2020-09-16-百度云-CDN-不按照规范来，还很硬气，说“这是符合预期的”，百度啊百度。。。。](https://www.v2ex.com/t/707459) ![](assets/new.png)  
 - [2020-09-16-Apple-One-美區-105CNY-/-3mo](https://www.v2ex.com/t/707458) ![](assets/new.png)  
-- [2020-09-16-大家小区都有电动自行车充电桩么？](https://www.v2ex.com/t/707457) ![](assets/new.png)  
-- [2020-09-16-杭州乌鸫科技诚招-iOS\Andorid-高级研发工程师](https://www.v2ex.com/t/707456) ![](assets/new.png)  
-- [2020-09-16-ios14-推送正式版了，-macos11-什么时候推送？](https://www.v2ex.com/t/707455) ![](assets/new.png)  
-- [2020-09-16-国内有高端品牌的话，国外高端手机品牌定价相对也不会太高吧。](https://www.v2ex.com/t/707453) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,11 +1134,11 @@
 - [2020-09-16-无栈协程：Rust-学习笔记](https://toutiao.io/k/b7shlzb) ![](assets/new.png)  
 - [2020-09-16-如何进行重构？](https://toutiao.io/k/iezhfup) ![](assets/new.png)  
 - [2020-09-16-译-Kubernetes：移除-CPU-限制，服务运行更快](https://toutiao.io/k/qy6jqm2) ![](assets/new.png)  
-- [2020-09-16-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-16-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-16-推荐-程序员进阶系列：多图教你掌握-JVM](https://toutiao.io/k/pz73jc0) ![](assets/new.png)  
-- [2020-09-16-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-16-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-16-自动化回归问题的一二三](https://toutiao.io/k/8g29shf) ![](assets/new.png)  
+- [2020-09-16-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
+- [2020-09-16-《花木兰》得分太低？如何预测一部电影的-IMDb-评分？（Mixlab-跨学科课程）](https://toutiao.io/k/xmh1f28) ![](assets/new.png)  
+- [2020-09-16-译-智能合约间权限控制的协作模式](https://toutiao.io/k/3kombly) ![](assets/new.png)  
+- [2020-09-16-大数据项目中的-QA-需要迎接新的挑战](https://toutiao.io/k/ief3uj7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 05:47:30，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 06:03:45，:rocket: 更新条数: +3412， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-09-16-18-款的-mac-book-air-发热超级严重？](https://www.v2ex.com/t/707545) ![](assets/new.png)  
+- [2020-09-16-快速实现数据处理小应用，可以试试-SeaTable-最新推出的脚本功能！](https://www.v2ex.com/t/707544) ![](assets/new.png)  
+- [2020-09-16-平安科技招聘-前端+测试内勤-965-16-薪+-上海-崂山路](https://www.v2ex.com/t/707543) ![](assets/new.png)  
+- [2020-09-16-有谁创建-A-股基金、股票交流的-Telegram-群组吗](https://www.v2ex.com/t/707542) ![](assets/new.png)  
+- [2020-09-16-wordpress-是怎么被发现登录用户名的？](https://www.v2ex.com/t/707541) ![](assets/new.png)  
 - [2020-09-16-小小的调查下游戏开发的大家对于托管服务的功能需求](https://www.v2ex.com/t/707540) ![](assets/new.png)  
 - [2020-09-16-没看发布会.-请问-Watch-SE-比-6-差哪儿?-比-4/5-呢?](https://www.v2ex.com/t/707537) ![](assets/new.png)  
 - [2020-09-16-北京/上海电商外企,WLB-的-1075-公司欢迎各位加入-Java-/QA/客户端](https://www.v2ex.com/t/707536) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-09-16-抖音工具线核心开发工程师招聘，流程快，帮查进度](https://www.v2ex.com/t/707525) ![](assets/new.png)  
 - [2020-09-16-Apple-Watch-S3-能不能给小孩做电话手表用?](https://www.v2ex.com/t/707523) ![](assets/new.png)  
 - [2020-09-16-深圳联通拨号忽然就有了公网-ip-v4-了](https://www.v2ex.com/t/707522) ![](assets/new.png)  
-- [2020-09-16-Big-Sur-什么时候发布啊](https://www.v2ex.com/t/707521) ![](assets/new.png)  
-- [2020-09-16-最近北京联通-4g-卡经常断网吗？](https://www.v2ex.com/t/707518) ![](assets/new.png)  
-- [2020-09-16-大佬们-airpods-都哪买的啊？](https://www.v2ex.com/t/707517) ![](assets/new.png)  
-- [2020-09-16-既然-996-违反劳动法，你为什么不带着你签的合同去劳动局？](https://www.v2ex.com/t/707516) ![](assets/new.png)  
-- [2020-09-16-当门被关上，我又忘了带卡](https://www.v2ex.com/t/707515) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,17 +1128,17 @@
 - [2020-09-16-Spring-事务是如何应用到你的业务场景中的？](https://toutiao.io/k/a2zzp9y) ![](assets/new.png)  
 - [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
 - [2020-09-16-详解增强算术赋值：“-=”-操作是怎么实现的？](https://toutiao.io/k/iuyl9j7) ![](assets/new.png)  
-- [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) ![](assets/new.png)  
 - [2020-09-16-浅谈如何搭建知识体系](https://toutiao.io/k/2mquhr4) ![](assets/new.png)  
-- [2020-09-16-聚焦-Android-11：开发语言](https://toutiao.io/k/9w4z4m2) ![](assets/new.png)  
+- [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) ![](assets/new.png)  
 - [2020-09-16-无栈协程：Rust-学习笔记](https://toutiao.io/k/b7shlzb) ![](assets/new.png)  
+- [2020-09-16-聚焦-Android-11：开发语言](https://toutiao.io/k/9w4z4m2) ![](assets/new.png)  
 - [2020-09-16-如何进行重构？](https://toutiao.io/k/iezhfup) ![](assets/new.png)  
 - [2020-09-16-自动化回归问题的一二三](https://toutiao.io/k/8g29shf) ![](assets/new.png)  
 - [2020-09-16-译-Kubernetes：移除-CPU-限制，服务运行更快](https://toutiao.io/k/qy6jqm2) ![](assets/new.png)  
 - [2020-09-16-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
 - [2020-09-16-大数据项目中的-QA-需要迎接新的挑战](https://toutiao.io/k/ief3uj7) ![](assets/new.png)  
-- [2020-09-16-《花木兰》得分太低？如何预测一部电影的-IMDb-评分？（Mixlab-跨学科课程）](https://toutiao.io/k/xmh1f28) ![](assets/new.png)  
 - [2020-09-16-译-智能合约间权限控制的协作模式](https://toutiao.io/k/3kombly) ![](assets/new.png)  
+- [2020-09-16-《花木兰》得分太低？如何预测一部电影的-IMDb-评分？（Mixlab-跨学科课程）](https://toutiao.io/k/xmh1f28) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

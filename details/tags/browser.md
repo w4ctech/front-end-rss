@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 12:38:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 12:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,6 +36,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-16-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) 
+- [2020-09-16-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-16-招聘-|-金山云诚聘安全开发工程师](https://sec.thief.one/article_content?a_id=e2d4c6708d277fbcbc24968f6883e105) 
 - [2020-09-16-百度世界大会2020:首揭三大维度,百度AI安全护航百度大脑](https://sec.thief.one/article_content?a_id=1d5cd004fd8d96095d94ea8926c98011) 
 - [2020-09-16-OPPO开发者大会-安全论坛了解一下](https://sec.thief.one/article_content?a_id=dbbc0e350142294fc62605efc28af1b6) 

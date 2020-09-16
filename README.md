@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 04:34:27，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 04:47:18，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-09-16-最近北京联通-4g-卡经常断网吗？](https://www.v2ex.com/t/707518) ![](assets/new.png)  
+- [2020-09-16-大佬们-airpods-都哪买的啊？](https://www.v2ex.com/t/707517) ![](assets/new.png)  
+- [2020-09-16-既然-996-违反劳动法，你为什么不带着你签的合同去劳动局？](https://www.v2ex.com/t/707516) ![](assets/new.png)  
+- [2020-09-16-当门被关上，我又忘了带卡](https://www.v2ex.com/t/707515) ![](assets/new.png)  
+- [2020-09-16-请小伙伴兼职解决几个-Linux-kernel-里关于-USB-的问题](https://www.v2ex.com/t/707514) ![](assets/new.png)  
 - [2020-09-16-正式/实习-Hillinsight--Java-工程师](https://www.v2ex.com/t/707512) ![](assets/new.png)  
 - [2020-09-16-新的-iPad-Air-插卡版是-5G-的吗?](https://www.v2ex.com/t/707510) ![](assets/new.png)  
 - [2020-09-16-要-Air-的指纹触控和-A14-还是-Pro-的-faceID-和用不上的好镜头？](https://www.v2ex.com/t/707509) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-09-16-新出的-iPad-8-值得买吗](https://www.v2ex.com/t/707496) ![](assets/new.png)  
 - [2020-09-16-继续套路云还是换腾讯云？](https://www.v2ex.com/t/707495) ![](assets/new.png)  
 - [2020-09-16-驾照审验在线学习-3-小时有突破的方法没？](https://www.v2ex.com/t/707493) ![](assets/new.png)  
-- [2020-09-16-有大哥知道-Windows-LDAP-客户端在哪里设置证书吗？](https://www.v2ex.com/t/707492) ![](assets/new.png)  
-- [2020-09-16-下一代的-iPhone-（旗舰-orSE）可能将指纹集成在电源键上（类似-iPad-Air），舍弃-Face-ID-投身全面屏吗？](https://www.v2ex.com/t/707491) ![](assets/new.png)  
-- [2020-09-16-做了一个-i18n-工具，自动添加翻译调用+提取文本（JS/TS/React）](https://www.v2ex.com/t/707490) ![](assets/new.png)  
-- [2020-09-16-PHP-混淆](https://www.v2ex.com/t/707489) ![](assets/new.png)  
-- [2020-09-16-迫于想用-Watch-又不想放弃-Android，有没有-API-能够直接把通知推到-Watch-上呢？](https://www.v2ex.com/t/707488) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

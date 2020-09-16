@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 02:25:55，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 02:32:20，:rocket: 更新条数: +3631， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -967,10 +967,10 @@
 </summary>
 
 
+- [2020-09-15-react基础知识总结（持续更新ing...）](https://juejin.im/post/6872905077493858312) ![](assets/new.png)  
 - [2020-09-15-蒲公英-·-JELLY技术周刊-Vol.22:-npm-i-react-router@6.0.0-beta.0](https://juejin.im/post/6872896296307392519) ![](assets/new.png)  
 - [2020-09-15-通过Node和Redis进行API速率限制](https://juejin.im/post/6872711612533473293) ![](assets/new.png)  
 - [2020-09-15-ES6（五）——-函数](https://juejin.im/post/6872690286879997959) ![](assets/new.png)  
-- [2020-09-15-面试官：你了解数据安全传输吗？](https://juejin.im/post/6872669413981159438) ![](assets/new.png)  
 - [2020-09-14-如何搭建异常捕获平台｜数据统计](https://juejin.im/post/6872557582662238222) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1154,11 +1154,11 @@
 - [2020-09-16-无栈协程：Rust-学习笔记](https://toutiao.io/k/b7shlzb) ![](assets/new.png)  
 - [2020-09-16-如何进行重构？](https://toutiao.io/k/iezhfup) ![](assets/new.png)  
 - [2020-09-16-译-Kubernetes：移除-CPU-限制，服务运行更快](https://toutiao.io/k/qy6jqm2) ![](assets/new.png)  
-- [2020-09-16-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) ![](assets/new.png)  
-- [2020-09-16-推荐-程序员进阶系列：多图教你掌握-JVM](https://toutiao.io/k/pz73jc0) ![](assets/new.png)  
-- [2020-09-16-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
+- [2020-09-16-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-16-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [2020-09-16-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-16-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-16-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-16-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

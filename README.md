@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 13:32:37，:rocket: 更新条数: +3413， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 13:34:42，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -95,11 +95,6 @@
 </summary>
 
 
-- [2020-09-16-孟加拉国航运国务部长卡利德新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireRaX0836KJAsNNIjuz4200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-德国新增1901例确诊病例-累计确诊263663例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBLd4awqvv090fHrgit8l200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-陕西15日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizCFI85eWGQb1yINfWbts200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-俄罗斯新增5670例新冠肺炎确诊病例-累计确诊1079519例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbCGkFJm9QS0NqvW5tq2200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-菲律宾新增3550例新冠肺炎确诊病例-累计超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDXdHSxr7BgRsbYDyvMH1200916&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

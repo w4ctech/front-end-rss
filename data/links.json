@@ -13170,33 +13170,7 @@
     "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "孟加拉国航运国务部长卡利德新冠病毒检测呈阳性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireRaX0836KJAsNNIjuz4200916&isfromapp=1",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "德国新增1901例确诊病例 累计确诊263663例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBLd4awqvv090fHrgit8l200916&isfromapp=1",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "陕西15日新增1例境外输入确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizCFI85eWGQb1yINfWbts200916&isfromapp=1",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "俄罗斯新增5670例新冠肺炎确诊病例 累计确诊1079519例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbCGkFJm9QS0NqvW5tq2200916&isfromapp=1",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "菲律宾新增3550例新冠肺炎确诊病例 累计超27万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDXdHSxr7BgRsbYDyvMH1200916&isfromapp=1",
-        "date": "2020-09-16"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",

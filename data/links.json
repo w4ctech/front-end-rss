@@ -13167,6 +13167,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "香港16日新增新冠肺炎确诊病例9例 累计确诊4985例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis06OvSk090hJYE4ufoxF200916&isfromapp=1",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "受疫情影响 墨西哥独立210周年庆祝活动转为线上直播",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ZDmWWB8WtdlvqGBWNw4200916&isfromapp=1",
+        "date": "2020-09-16"
+      },
+      {
         "title": "详情公布！山东青岛新增1例菲律宾输入无症状感染者",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE7bc5A0S4K7kQwvOGsgj200916&isfromapp=1",
         "date": "2020-09-16"
@@ -13179,16 +13189,6 @@
       {
         "title": "2020年9月16日浙江省新型冠状病毒肺炎疫情情况",
         "link": "http://wsjkw.zj.gov.cn/art/2020/9/16/art_1202101_57648993.html",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "9月15日全区新冠肺炎疫情情况",
-        "link": "http://wsjkw.nx.gov.cn/info/1262/19423.htm",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "截至9月15日24时新型冠状病毒肺炎疫情最新情况",
-        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/415292.jhtml",
         "date": "2020-09-16"
       }
     ]
@@ -16345,6 +16345,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "预算 4K 封顶买二手笔记本偶尔出远门轻度使用，能整 MacBook 么？还是 Win 本？",
+        "link": "https://www.v2ex.com/t/707570",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "期待年底的 A14？的 MacBook ? 应该不会跳票了吧？",
+        "link": "https://www.v2ex.com/t/707569",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "如何写出好 Java 代码呢 ?",
+        "link": "https://www.v2ex.com/t/707568",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "github 教育宝里面提供了 heroku 的 hobby dyno 这个是否用来假设小型论坛，请各位指点一下",
+        "link": "https://www.v2ex.com/t/707567",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "关于文件、照片、视频等资料的多维度分类问题？",
+        "link": "https://www.v2ex.com/t/707564",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "真诚求建议，对目前业务失去兴趣了",
+        "link": "https://www.v2ex.com/t/707562",
+        "date": "2020-09-16"
+      },
+      {
         "title": "用 iPad 远程桌面到 Windows 搭配妙控键盘是否能达到笔记本的体验？",
         "link": "https://www.v2ex.com/t/707561",
         "date": "2020-09-16"
@@ -16425,11 +16455,6 @@
         "date": "2020-09-16"
       },
       {
-        "title": "小小的调查下游戏开发的大家对于托管服务的功能需求",
-        "link": "https://www.v2ex.com/t/707540",
-        "date": "2020-09-16"
-      },
-      {
         "title": "没看发布会. 请问 Watch SE 比 6 差哪儿? 比 4/5 呢?",
         "link": "https://www.v2ex.com/t/707537",
         "date": "2020-09-16"
@@ -16502,36 +16527,6 @@
       {
         "title": "Big Sur 什么时候发布啊",
         "link": "https://www.v2ex.com/t/707521",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "最近北京联通 4g 卡经常断网吗？",
-        "link": "https://www.v2ex.com/t/707518",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "大佬们 airpods 都哪买的啊？",
-        "link": "https://www.v2ex.com/t/707517",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "既然 996 违反劳动法，你为什么不带着你签的合同去劳动局？",
-        "link": "https://www.v2ex.com/t/707516",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "当门被关上，我又忘了带卡",
-        "link": "https://www.v2ex.com/t/707515",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "请小伙伴兼职解决几个 Linux kernel 里关于 USB 的问题",
-        "link": "https://www.v2ex.com/t/707514",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[正式/实习] Hillinsight- Java 工程师",
-        "link": "https://www.v2ex.com/t/707512",
         "date": "2020-09-16"
       }
     ]
@@ -16684,13 +16679,13 @@
         "date": "2020-09-16"
       },
       {
-        "title": "Android 端代码染色原理及技术实践",
-        "link": "https://toutiao.io/k/985a7a9",
+        "title": "详解增强算术赋值：“-=” 操作是怎么实现的？",
+        "link": "https://toutiao.io/k/iuyl9j7",
         "date": "2020-09-16"
       },
       {
-        "title": "详解增强算术赋值：“-=” 操作是怎么实现的？",
-        "link": "https://toutiao.io/k/iuyl9j7",
+        "title": "Android 端代码染色原理及技术实践",
+        "link": "https://toutiao.io/k/985a7a9",
         "date": "2020-09-16"
       },
       {
@@ -16739,78 +16734,18 @@
         "date": "2020-09-16"
       },
       {
-        "title": "《花木兰》得分太低？如何预测一部电影的 IMDb 评分？（Mixlab 跨学科课程）",
-        "link": "https://toutiao.io/k/xmh1f28",
-        "date": "2020-09-16"
-      },
-      {
         "title": "[译] 智能合约间权限控制的协作模式",
         "link": "https://toutiao.io/k/3kombly",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
+        "title": "《花木兰》得分太低？如何预测一部电影的 IMDb 评分？（Mixlab 跨学科课程）",
+        "link": "https://toutiao.io/k/xmh1f28",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
+        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
+        "link": "https://toutiao.io/k/pz73jc0",
         "date": "2020-09-16"
       },
       {
@@ -16819,8 +16754,68 @@
         "date": "2020-09-16"
       },
       {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-16"
+      },
+      {
         "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
         "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-16"
       }
     ]

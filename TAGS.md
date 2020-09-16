@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-16 06:36:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 06:47:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -250,7 +250,6 @@
 
 
 - [【前端早读课】【招聘】字节跳动杭州游戏平台招前端开发实习+社招](https://www.ershicimi.com/p/08b5c48d6117cf5fd86562c555815603)
-- [【V2EX】小小的调查下游戏开发的大家对于托管服务的功能需求](https://www.v2ex.com/t/707540)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -514,6 +513,8 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】github-教育宝里面提供了-heroku-的-hobby-dyno-这个是否用来假设小型论坛，请各位指点一下](https://www.v2ex.com/t/707567)
+- [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

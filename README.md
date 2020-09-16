@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 06:36:40，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 06:47:25，:rocket: 更新条数: +3410， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-16-香港16日新增新冠肺炎确诊病例9例-累计确诊4985例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis06OvSk090hJYE4ufoxF200916&isfromapp=1) ![](assets/new.png)  
+- [2020-09-16-受疫情影响-墨西哥独立210周年庆祝活动转为线上直播](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ZDmWWB8WtdlvqGBWNw4200916&isfromapp=1) ![](assets/new.png)  
 - [2020-09-16-详情公布！山东青岛新增1例菲律宾输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE7bc5A0S4K7kQwvOGsgj200916&isfromapp=1) ![](assets/new.png)  
 - [2020-09-16-福建15日新增境外输入确诊病例2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyW3MfdEslk2NBFjCvV7o200916&isfromapp=1) ![](assets/new.png)  
 - [2020-09-16-2020年9月16日浙江省新型冠状病毒肺炎疫情情况](http://wsjkw.zj.gov.cn/art/2020/9/16/art_1202101_57648993.html) ![](assets/new.png)  
-- [2020-09-16-9月15日全区新冠肺炎疫情情况](http://wsjkw.nx.gov.cn/info/1262/19423.htm) ![](assets/new.png)  
-- [2020-09-16-截至9月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/415292.jhtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,12 @@
 </summary>
 
 
+- [2020-09-16-预算-4K-封顶买二手笔记本偶尔出远门轻度使用，能整-MacBook-么？还是-Win-本？](https://www.v2ex.com/t/707570) ![](assets/new.png)  
+- [2020-09-16-期待年底的-A14？的-MacBook-?-应该不会跳票了吧？](https://www.v2ex.com/t/707569) ![](assets/new.png)  
+- [2020-09-16-如何写出好-Java-代码呢-?](https://www.v2ex.com/t/707568) ![](assets/new.png)  
+- [2020-09-16-github-教育宝里面提供了-heroku-的-hobby-dyno-这个是否用来假设小型论坛，请各位指点一下](https://www.v2ex.com/t/707567) ![](assets/new.png)  
+- [2020-09-16-关于文件、照片、视频等资料的多维度分类问题？](https://www.v2ex.com/t/707564) ![](assets/new.png)  
+- [2020-09-16-真诚求建议，对目前业务失去兴趣了](https://www.v2ex.com/t/707562) ![](assets/new.png)  
 - [2020-09-16-用-iPad-远程桌面到-Windows-搭配妙控键盘是否能达到笔记本的体验？](https://www.v2ex.com/t/707561) ![](assets/new.png)  
 - [2020-09-16-关于-Apple-Watch-的续航讨论，欢迎各抒己见，抬杠的就免了](https://www.v2ex.com/t/707560) ![](assets/new.png)  
 - [2020-09-16-跑数据看一下，黄金价格和原油价格正相关吗？](https://www.v2ex.com/t/707559) ![](assets/new.png)  
@@ -1071,12 +1077,6 @@
 - [2020-09-16-18-款的-mac-book-air-发热超级严重？](https://www.v2ex.com/t/707545) ![](assets/new.png)  
 - [2020-09-16-快速实现数据处理小应用，可以试试-SeaTable-最新推出的脚本功能！](https://www.v2ex.com/t/707544) ![](assets/new.png)  
 - [2020-09-16-平安科技招聘-前端+测试内勤-965-16-薪+-上海-崂山路](https://www.v2ex.com/t/707543) ![](assets/new.png)  
-- [2020-09-16-有谁创建-A-股基金、股票交流的-Telegram-群组吗](https://www.v2ex.com/t/707542) ![](assets/new.png)  
-- [2020-09-16-wordpress-是怎么被发现登录用户名的？](https://www.v2ex.com/t/707541) ![](assets/new.png)  
-- [2020-09-16-小小的调查下游戏开发的大家对于托管服务的功能需求](https://www.v2ex.com/t/707540) ![](assets/new.png)  
-- [2020-09-16-没看发布会.-请问-Watch-SE-比-6-差哪儿?-比-4/5-呢?](https://www.v2ex.com/t/707537) ![](assets/new.png)  
-- [2020-09-16-北京/上海电商外企,WLB-的-1075-公司欢迎各位加入-Java-/QA/客户端](https://www.v2ex.com/t/707536) ![](assets/new.png)  
-- [2020-09-16-不懂苹果为啥把天气中定位到区县又取消了...](https://www.v2ex.com/t/707535) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,8 +1126,8 @@
 - [2020-09-16-深度剖析-Kafka-Producer-的缓冲池机制（图解-+-源码分析）](https://toutiao.io/k/n37jb6g) ![](assets/new.png)  
 - [2020-09-16-Spring-事务是如何应用到你的业务场景中的？](https://toutiao.io/k/a2zzp9y) ![](assets/new.png)  
 - [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
-- [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
 - [2020-09-16-详解增强算术赋值：“-=”-操作是怎么实现的？](https://toutiao.io/k/iuyl9j7) ![](assets/new.png)  
+- [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
 - [2020-09-16-无栈协程：Rust-学习笔记](https://toutiao.io/k/b7shlzb) ![](assets/new.png)  
 - [2020-09-16-浅谈如何搭建知识体系](https://toutiao.io/k/2mquhr4) ![](assets/new.png)  
 - [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) ![](assets/new.png)  
@@ -1137,8 +1137,8 @@
 - [2020-09-16-译-Kubernetes：移除-CPU-限制，服务运行更快](https://toutiao.io/k/qy6jqm2) ![](assets/new.png)  
 - [2020-09-16-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
 - [2020-09-16-大数据项目中的-QA-需要迎接新的挑战](https://toutiao.io/k/ief3uj7) ![](assets/new.png)  
-- [2020-09-16-《花木兰》得分太低？如何预测一部电影的-IMDb-评分？（Mixlab-跨学科课程）](https://toutiao.io/k/xmh1f28) ![](assets/new.png)  
 - [2020-09-16-译-智能合约间权限控制的协作模式](https://toutiao.io/k/3kombly) ![](assets/new.png)  
+- [2020-09-16-《花木兰》得分太低？如何预测一部电影的-IMDb-评分？（Mixlab-跨学科课程）](https://toutiao.io/k/xmh1f28) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

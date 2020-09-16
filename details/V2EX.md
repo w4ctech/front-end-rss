@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-09-16 03:49:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 04:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-16-新的-iPad-Air-插卡版是-5G-的吗?](https://www.v2ex.com/t/707510) 
+- [2020-09-16-要-Air-的指纹触控和-A14-还是-Pro-的-faceID-和用不上的好镜头？](https://www.v2ex.com/t/707509) 
+- [2020-09-16-微信不能在-Linux-/Ubuntu-下使用？？](https://www.v2ex.com/t/707507) 
+- [2020-09-16-VMware-Fusion-12-个人许可证可以免费领，大家平时-Windows-选择什么系统和版本啊？](https://www.v2ex.com/t/707505) 
+- [2020-09-16-关于备用站续](https://www.v2ex.com/t/707504) 
 - [2020-09-16-想去上海看-s10-总决赛开幕式，怎么才能买到票？价格大概多少？](https://www.v2ex.com/t/707503) 
 - [2020-09-16-这个是-IDEA-的-什么问题](https://www.v2ex.com/t/707502) 
 - [2020-09-16-DuckPhp-1.2.6-发布（Service-=>Business](https://www.v2ex.com/t/707500) 
@@ -39,9 +44,3 @@
 - [2020-09-16-求教：操作系统时间定格软件的原理是什么？是不是定时器每毫秒级-set-系统时间到固定值？](https://www.v2ex.com/t/707465) 
 - [2020-09-16-有木有机器学习从无到深的教程~~](https://www.v2ex.com/t/707462) 
 - [2020-09-16-cloudflare-能缓存-webdav-或者需要-http-auth-的资源吗](https://www.v2ex.com/t/707461) 
-- [2020-09-16-apple-care+服务升级](https://www.v2ex.com/t/707460) 
-- [2020-09-16-百度云-CDN-不按照规范来，还很硬气，说“这是符合预期的”，百度啊百度。。。。](https://www.v2ex.com/t/707459) 
-- [2020-09-16-Apple-One-美區-105CNY-/-3mo](https://www.v2ex.com/t/707458) 
-- [2020-09-16-大家小区都有电动自行车充电桩么？](https://www.v2ex.com/t/707457) 
-- [2020-09-16-杭州乌鸫科技诚招-iOS\Andorid-高级研发工程师](https://www.v2ex.com/t/707456) 
-- [2020-09-16-ios14-推送正式版了，-macos11-什么时候推送？](https://www.v2ex.com/t/707455) 

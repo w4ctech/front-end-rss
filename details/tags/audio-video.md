@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 10:48:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 11:03:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,9 +88,9 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-09-16-是时候上车-Jetpack-了，内含音乐播放器实例-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13760&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FawtTAUx47pjTcQVJxkMydA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-16-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) 
+- [2020-09-16-【视频分享】虚拟机逃逸漏洞的利用思路与方法](https://sec.thief.one/article_content?a_id=00f4da1e74030a20c3d1d47845559b7a) 
 - [2020-09-15-2020国家网安周|齐向东演讲全文视频](https://sec.thief.one/article_content?a_id=40faef71006ed115875e10825b6fdb15) 
 - [2020-09-15-【视频】|-Python:逻辑运算符](https://sec.thief.one/article_content?a_id=6c5f82c5ca33a779fcba1eb9e418b2f6) 
 - [2020-09-14-活动-|-APP不下架的内容合规秘诀,参与直播,立刻拥有!](https://sec.thief.one/article_content?a_id=55919235dd4c64cbe03d318a1125bc04) 
 - [2020-09-14-【视频】|-2020年国家网络安全宣传周:网络安全为人民,网络安全靠...](https://sec.thief.one/article_content?a_id=b9be403f6e904adf6180e5f8aa417d79) 
-- [2020-09-13-【视频】|-Python:关系运算符](https://sec.thief.one/article_content?a_id=9f9d6a3d441365749d098b27bb3794af) 
-- [2020-09-12-疯狂直播间涉嫌万人聚赌,日流水几百万](https://sec.thief.one/article_content?a_id=3a93ee5340ffd1a84a8c9d41a97f0a00) 

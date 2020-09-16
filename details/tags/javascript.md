@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 10:48:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 11:03:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -127,5 +127,4 @@
 - [2020-09-16-请教碰到的一道算法题，最大和的连续子数组](https://www.v2ex.com/t/707622) 
 - [2020-09-16-官方不在维护-moment.js-了](https://www.v2ex.com/t/707615) 
 - [2020-09-16-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
-- [2020-09-16-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
-- [2020-09-13-BUF大事件丨1780个流行安卓APP违反加密规则;工信部通报101款违...](https://sec.thief.one/article_content?a_id=885824c80b2d0c2441dba6b444c9484e) 
+- [2020-09-16-解读伊朗黑客利用VPN漏洞入侵全球企业内网事件](https://sec.thief.one/article_content?a_id=23a2f38d30635577acd4bc3a2fc4b97c) 

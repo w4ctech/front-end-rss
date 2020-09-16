@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 10:48:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 11:03:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -31,3 +31,4 @@
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-09-11-点赞模块设计：Redis缓存-+-定时写入数据库实现高性能点赞功能](https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-09-16-三种-MySQL-大表优化方案](https://sec.thief.one/article_content?a_id=f9a26bb89913152dbdc9db6753aee3e3) 

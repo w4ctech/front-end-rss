@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-09-16 06:13:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 06:27:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-16-跑数据看一下，黄金价格和原油价格正相关吗？](https://www.v2ex.com/t/707559) 
+- [2020-09-16-有哪个大拿知道这个网站用的是什么开源程序吗？](https://www.v2ex.com/t/707556) 
+- [2020-09-16-Base-深圳阿里中心支付宝香港团队-2020-招聘前端岗位-可加钉钉/微信聊-0916](https://www.v2ex.com/t/707555) 
+- [2020-09-16-深圳天威视讯的同轴宽带现在是否已经支持-docsis-3.1？？](https://www.v2ex.com/t/707554) 
+- [2020-09-16-实习-微软亚洲研究院-基于-FPGA-的云加速技术开发实习生](https://www.v2ex.com/t/707551) 
+- [2020-09-16-这种文件传输服务，什么场景会应用？](https://www.v2ex.com/t/707550) 
 - [2020-09-16-AirPods-2-更新-3A283-固件之后，每次点亮手机屏幕都会弹出-AirPods-已连接的提示](https://www.v2ex.com/t/707549) 
 - [2020-09-16-SpringCloud-系列之分布式配置中心](https://www.v2ex.com/t/707548) 
 - [2020-09-16-重置密码的邮件发不到邮箱，试了很多次，还是不行。google-邮箱](https://www.v2ex.com/t/707546) 
@@ -36,10 +42,3 @@
 - [2020-09-16-请小伙伴兼职解决几个-Linux-kernel-里关于-USB-的问题](https://www.v2ex.com/t/707514) 
 - [2020-09-16-正式/实习-Hillinsight--Java-工程师](https://www.v2ex.com/t/707512) 
 - [2020-09-16-新的-iPad-Air-插卡版是-5G-的吗?](https://www.v2ex.com/t/707510) 
-- [2020-09-16-要-Air-的指纹触控和-A14-还是-Pro-的-faceID-和用不上的好镜头？](https://www.v2ex.com/t/707509) 
-- [2020-09-16-微信不能在-Linux-/Ubuntu-下使用？？](https://www.v2ex.com/t/707507) 
-- [2020-09-16-VMware-Fusion-12-个人许可证可以免费领，大家平时-Windows-选择什么系统和版本啊？](https://www.v2ex.com/t/707505) 
-- [2020-09-16-关于备用站续](https://www.v2ex.com/t/707504) 
-- [2020-09-16-想去上海看-s10-总决赛开幕式，怎么才能买到票？价格大概多少？](https://www.v2ex.com/t/707503) 
-- [2020-09-16-这个是-IDEA-的-什么问题](https://www.v2ex.com/t/707502) 
-- [2020-09-16-DuckPhp-1.2.6-发布（Service-=>Business](https://www.v2ex.com/t/707500) 

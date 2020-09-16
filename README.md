@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 22:22:56，:rocket: 更新条数: +3615， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 22:32:24，:rocket: 更新条数: +3615， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -781,6 +781,16 @@
 </summary>
 
 
+- [2020-09-16-聊聊前端监控—错误监控篇](https://www.ershicimi.com/p/37785245e0f7630bc4ceed905036bdd1) ![](assets/new.png)  
+- [2020-09-16-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/26b9dcc8dd9ca440f80e501919d81479) ![](assets/new.png)  
+- [2020-09-16-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa27200ef9381bbe00ec6dae8182934c) ![](assets/new.png)  
+- [2020-09-15-网站图标开发指南](https://www.ershicimi.com/p/3d61780def49dcbce0f685fed5e8f7c6) ![](assets/new.png)  
+- [2020-09-15-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/a48d8a1b941f2229b244877853d80c32) ![](assets/new.png)  
+- [2020-09-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6fb589a59ea7047ec9b0cc99150c51c3) ![](assets/new.png)  
+- [2020-09-14-谈谈-MySQL-的-JSON-数据类型操作](https://www.ershicimi.com/p/7beecef0113be070b25eaf2ec4284dcb) ![](assets/new.png)  
+- [2020-09-14-唐朝人更懂React](https://www.ershicimi.com/p/7b13190cbe7b136d132c1382aac8ebd0) ![](assets/new.png)  
+- [2020-09-14-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/7923a0711a8ad6112503405dd8f8d143) ![](assets/new.png)  
+- [2020-09-14-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/ad11959d57eba49b0f3718ad178a3ecf) ![](assets/new.png)  
 - [2020-09-12-细数-TS-中那些奇怪的符号](https://www.ershicimi.com/p/8ace23134c49a44faf09750aea6837d5) ![](assets/new.png)  
 - [2020-09-12-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/1b421a06d757916689066dfef120e504) ![](assets/new.png)  
 - [2020-09-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa2fd47cc4bf6b6e2e72e01c29ef831d) ![](assets/new.png)  
@@ -791,16 +801,6 @@
 - [2020-09-09-关于ref的一切](https://www.ershicimi.com/p/4b3333ce70b41bd7c23d9629fcccc039) ![](assets/new.png)  
 - [2020-09-09-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/dbc437e0d03b75fe2f4725e6f7cca96e) ![](assets/new.png)  
 - [2020-09-09-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1032c8bf0060f4ebc29f82195c98bdf6) ![](assets/new.png)  
-- [2020-09-08-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/62a4cdbef7fd9dfddaabaf02ea4a0aac) ![](assets/new.png)  
-- [2020-09-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6687b9b7b05a486dbcc532302ca328f4) ![](assets/new.png)  
-- [2020-09-07-是谁动了我的-DOM？](https://www.ershicimi.com/p/919bd1ae01862df1ac098dd627d16e0c) ![](assets/new.png)  
-- [2020-09-07-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/2269c870d3af5610827f53d27408970b) ![](assets/new.png)  
-- [2020-09-07-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/7b3df6f71aeaa732b990f2fd912e0e5a) ![](assets/new.png)  
-- [2020-09-05-TypeScript-4.1-新特性：字符串模板类型，Vuex-终于有救了？](https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80) ![](assets/new.png)  
-- [2020-09-05-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/8cd5e6453faec928130dc88f18779d56) ![](assets/new.png)  
-- [2020-09-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/240512a48a84d034c760e135be50380d) ![](assets/new.png)  
-- [2020-09-04-奇舞周刊第-362-期:-细说-SOLID-原则](https://www.ershicimi.com/p/f99bac47ded23aca5812579168de9c7e) ![](assets/new.png)  
-- [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,21 +1140,21 @@
 
 
 - [2020-09-16-太厉害了！“他”-到底是如何渡过-“中年危机”-入职阿里-P7，成就年薪百万！](https://toutiao.io/k/dbpbc1k) ![](assets/new.png)  
+- [2020-09-16-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
 - [2020-09-16-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-16-推荐-你还在手撕微服务？快试试-go-zero-的微服务自动生成](https://toutiao.io/k/xwcsap9) ![](assets/new.png)  
-- [2020-09-16-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-16-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
 - [2020-09-16-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
 - [2020-09-16-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-16-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-16-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-16-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-16-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
 - [2020-09-16-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
-- [2020-09-16-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
+- [2020-09-16-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
 - [2020-09-16-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [2020-09-16-推荐-程序员进阶系列：多图教你掌握-JVM](https://toutiao.io/k/pz73jc0) ![](assets/new.png)  
-- [2020-09-16-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
-- [2020-09-16-推荐-开发者效率神器，工作-=-干半天-+-玩半天，香](https://toutiao.io/k/lsclo7b) ![](assets/new.png)  
-- [2020-09-16-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-16-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-16-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-16-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-16-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-16-推荐-一文带你深扒-ClassLoader-内核，揭开它的神秘面纱](https://toutiao.io/k/r7q7tum) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

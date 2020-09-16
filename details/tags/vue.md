@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 14:32:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 14:34:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -45,6 +45,9 @@
 - [2020-09-15-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/2705e60331f36544f4b5b290082a6bfb) 
 - [2020-09-09-为什么总有人觉得Vue简单？](https://www.ershicimi.com/p/4cd03e491d8fff6fc4fdf7e5f0aff1d8) 
 - [2020-08-31-今天来聊聊，我是如何把Vue学到顶尖水平？](https://www.ershicimi.com/p/52d95b50014398dade79b7255263cdf3) 
+- [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
+- [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) 
+- [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
 - [2020-09-01-厉害了！！前端最火的-Vue-框架，你用对了么？！](https://www.ershicimi.com/p/d0adcc41f5e8fb311119c89147ff430c) 
 - [2020-08-29-10+个很酷的VueJS组件，模板和实验示例](https://www.ershicimi.com/p/f04663071e252f48137db709798c168e) 
 - [2020-08-28-搞懂-Vue-，这一篇文章就够了！](https://www.ershicimi.com/p/444f4613aecd2e0ab48a588378e0bbb1) 

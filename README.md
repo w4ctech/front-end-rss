@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 05:03:51，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 05:12:12，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-16-docker-pull-太慢了太慢了太慢了。请问大佬有什么解决方法吗？](https://www.v2ex.com/t/707527) ![](assets/new.png)  
+- [2020-09-16-IOS-14-正式版什么时候推送。](https://www.v2ex.com/t/707526) ![](assets/new.png)  
 - [2020-09-16-抖音工具线核心开发工程师招聘，流程快，帮查进度](https://www.v2ex.com/t/707525) ![](assets/new.png)  
 - [2020-09-16-Apple-Watch-S3-能不能给小孩做电话手表用?](https://www.v2ex.com/t/707523) ![](assets/new.png)  
 - [2020-09-16-深圳联通拨号忽然就有了公网-ip-v4-了](https://www.v2ex.com/t/707522) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-16-想去上海看-s10-总决赛开幕式，怎么才能买到票？价格大概多少？](https://www.v2ex.com/t/707503) ![](assets/new.png)  
 - [2020-09-16-这个是-IDEA-的-什么问题](https://www.v2ex.com/t/707502) ![](assets/new.png)  
 - [2020-09-16-DuckPhp-1.2.6-发布（Service-=>Business](https://www.v2ex.com/t/707500) ![](assets/new.png)  
-- [2020-09-16-我看大家都在讨论手机号和姓名暴漏的问题，就算是暴漏了，有啥用啊？我觉得无所谓啊。。。](https://www.v2ex.com/t/707499) ![](assets/new.png)  
-- [2020-09-16-Ubuntu20.04-外接显示器不亮，-N-卡驱动已安装-460，有踩过坑的朋友解答一下嘛！](https://www.v2ex.com/t/707498) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

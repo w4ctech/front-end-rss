@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 13:34:42，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 13:47:20，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-09-16-孟加拉国航运国务部长卡利德新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireRaX0836KJAsNNIjuz4200916&isfromapp=1) ![](assets/new.png)  
+- [2020-09-16-德国新增1901例确诊病例-累计确诊263663例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBLd4awqvv090fHrgit8l200916&isfromapp=1) ![](assets/new.png)  
+- [2020-09-16-陕西15日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizCFI85eWGQb1yINfWbts200916&isfromapp=1) ![](assets/new.png)  
+- [2020-09-16-俄罗斯新增5670例新冠肺炎确诊病例-累计确诊1079519例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbCGkFJm9QS0NqvW5tq2200916&isfromapp=1) ![](assets/new.png)  
+- [2020-09-16-菲律宾新增3550例新冠肺炎确诊病例-累计超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDXdHSxr7BgRsbYDyvMH1200916&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-16-2020-年了，梦想真的能当饭吃嘛](https://www.v2ex.com/t/707697) ![](assets/new.png)  
+- [2020-09-16-你最爱的专辑，不限国家和年代，但只能选-5-张，你选哪-5-张？](https://www.v2ex.com/t/707696) ![](assets/new.png)  
+- [2020-09-16-假设洗澡时候脱掉-Apple-Watch-充电，然后不小心摔了，那这摔倒监测还有意义吗？](https://www.v2ex.com/t/707695) ![](assets/new.png)  
+- [2020-09-16-为何微信小游戏欢乐斗地主这么烧手机？](https://www.v2ex.com/t/707694) ![](assets/new.png)  
 - [2020-09-16-当字符串首位是空格时，使用-str.find的返回值与普通字符串不一致。](https://www.v2ex.com/t/707692) ![](assets/new.png)  
 - [2020-09-16-收藏贴-Java-有哪些项目的源码值得一看？](https://www.v2ex.com/t/707690) ![](assets/new.png)  
 - [2020-09-16-无法访问在-github-托管的网站](https://www.v2ex.com/t/707689) ![](assets/new.png)  
@@ -1068,10 +1077,6 @@
 - [2020-09-16-帝都电动车载人触犯交通条例被罚-20-元](https://www.v2ex.com/t/707672) ![](assets/new.png)  
 - [2020-09-16-轻松筹-北京-招高级-Java-、Go-后端开发](https://www.v2ex.com/t/707671) ![](assets/new.png)  
 - [2020-09-16-你们公司现在在用-Java-什么版本呢？](https://www.v2ex.com/t/707670) ![](assets/new.png)  
-- [2020-09-16-给你-2000-块钱，要求估算出-v-站每天的活跃会员](https://www.v2ex.com/t/707669) ![](assets/new.png)  
-- [2020-09-16-国内有类似于-Vercel-Zeit-/-Netlify-的平台吗？](https://www.v2ex.com/t/707668) ![](assets/new.png)  
-- [2020-09-16-北京、成都-+高薪-高级数据库内核/引擎开发工程师（高速发展企业）](https://www.v2ex.com/t/707667) ![](assets/new.png)  
-- [2020-09-16-热招岗位--北京职位（跟谁学、汉迪移动）](https://www.v2ex.com/t/707666) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,8 +1133,8 @@
 - [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
 - [2020-09-16-详解增强算术赋值：“-=”-操作是怎么实现的？](https://toutiao.io/k/iuyl9j7) ![](assets/new.png)  
 - [2020-09-16-聚焦-Android-11：开发语言](https://toutiao.io/k/9w4z4m2) ![](assets/new.png)  
-- [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) ![](assets/new.png)  
 - [2020-09-16-如何进行重构？](https://toutiao.io/k/iezhfup) ![](assets/new.png)  
+- [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) ![](assets/new.png)  
 - [2020-09-16-译-Kubernetes：移除-CPU-限制，服务运行更快](https://toutiao.io/k/qy6jqm2) ![](assets/new.png)  
 - [2020-09-16-大数据项目中的-QA-需要迎接新的挑战](https://toutiao.io/k/ief3uj7) ![](assets/new.png)  
 - [2020-09-16-《花木兰》得分太低？如何预测一部电影的-IMDb-评分？（Mixlab-跨学科课程）](https://toutiao.io/k/xmh1f28) ![](assets/new.png)  

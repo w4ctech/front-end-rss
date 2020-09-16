@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 05:34:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 05:47:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -31,6 +31,4 @@
 - [2020-09-15-轻松学会-React-钩子：以-useEffect-为例](http://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 
-- [2020-09-15-不看看react-router源码？真的懂路由咩](https://juejin.im/post/6872752069766283271) 
 - [2020-09-15-React高阶组件详解](https://juejin.im/post/6872701669642076168) 
-- [2020-09-16-做了一个-i18n-工具，自动添加翻译调用+提取文本（JS/TS/React）](https://www.v2ex.com/t/707490) 

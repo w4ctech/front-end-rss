@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 01:29:16，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 01:32:35，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-16-9月15日全区新冠肺炎疫情情况](http://wsjkw.nx.gov.cn/info/1262/19423.htm) ![](assets/new.png)  
+- [2020-09-16-截至9月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/415292.jhtml) ![](assets/new.png)  
 - [2020-09-15-美国疾控中心：新冠疫情对少数族裔年轻人造成更大冲击](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimW2j5ci5kf3IBaIQVgAO200916&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-云南15日新增境外航空输入确诊病例1例-新增境外航空输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV37lsjWTbSKBLNIcHbBP200916&isfromapp=1) ![](assets/new.png)  
 - [2020-09-15-疫情下安哥拉中企复工复产-保障“一带一路”项目平稳运行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNgOTtt4ctbV5ZVoOKSNt200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-15-马来西亚总理：国家仍未切断新冠病毒传播链，近期疫情状况令人担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwsMKZpfzPCzZ4wCp7atG200915&isfromapp=1) ![](assets/new.png)  
-- [2020-09-15-泰国旅游签证出新政，外国游客隔离-14-天后可获至少-90-天签证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikpbEKL42xlFI7lK9jAhZ200915&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-09-16-为什么总喜欢将已-B-挂嘴上](https://www.v2ex.com/t/707423) ![](assets/new.png)  
+- [2020-09-16-国内有支持第三方登录访问的云盘么？](https://www.v2ex.com/t/707422) ![](assets/new.png)  
+- [2020-09-16-使用-lombok-时，两个字段（testName、testname）只生成了一组-getter/setter](https://www.v2ex.com/t/707421) ![](assets/new.png)  
+- [2020-09-16-OpenSUSE-这个-Linux-版本怎么样，各位用过的说一下使用体验？](https://www.v2ex.com/t/707420) ![](assets/new.png)  
+- [2020-09-16-搭建实验室使用的深度学习服务器](https://www.v2ex.com/t/707419) ![](assets/new.png)  
 - [2020-09-16-leetcode/lintcode-题解-N-皇后问题](https://www.v2ex.com/t/707418) ![](assets/new.png)  
 - [2020-09-16-求推荐一个轻量的-webdav-服务端程序](https://www.v2ex.com/t/707417) ![](assets/new.png)  
 - [2020-09-16-抠图能手---修图界的绝技](https://www.v2ex.com/t/707413) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-09-16-国行手表可以在主力机不登出-iCloud-下激活-ecg-嘛](https://www.v2ex.com/t/707401) ![](assets/new.png)  
 - [2020-09-16-旧的-air3-刚上路，新的-air4-来了，超级纠结](https://www.v2ex.com/t/707400) ![](assets/new.png)  
 - [2020-09-16-pycharm-怎么避免包更新扫描？](https://www.v2ex.com/t/707399) ![](assets/new.png)  
-- [2020-09-16-预算-200-到-2000-求推荐降噪耳机或者隔音耳罩，以及求对比](https://www.v2ex.com/t/707398) ![](assets/new.png)  
-- [2020-09-16-大胆猜测，这一代很多人会换华为](https://www.v2ex.com/t/707397) ![](assets/new.png)  
-- [2020-09-15-纠结：返校优惠的-iPad-Pro-和新发的-iPad-Air-哪个香？](https://www.v2ex.com/t/707395) ![](assets/new.png)  
-- [2020-09-15-新的-vmware-fusion-12-出来了，说对个人用户免费使用](https://www.v2ex.com/t/707394) ![](assets/new.png)  
-- [2020-09-15-纠结-做了一个小程序刚刚起色，有人出钱想买下来，该不该卖掉?](https://www.v2ex.com/t/707393) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,22 +1142,22 @@
 - [2020-09-16-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
 - [2020-09-16-Spring-Boot-2-集成日志，复杂业务下的自定义实现](https://toutiao.io/k/p5r1xgu) ![](assets/new.png)  
 - [2020-09-16-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
 - [2020-09-16-Spring-事务是如何应用到你的业务场景中的？](https://toutiao.io/k/a2zzp9y) ![](assets/new.png)  
 - [2020-09-16-烦人的-Null，你可以滚了](https://toutiao.io/k/o15uuox) ![](assets/new.png)  
-- [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
+- [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
 - [2020-09-16-深度剖析-Kafka-Producer-的缓冲池机制（图解-+-源码分析）](https://toutiao.io/k/n37jb6g) ![](assets/new.png)  
+- [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
 - [2020-09-16-详解增强算术赋值：“-=”-操作是怎么实现的？](https://toutiao.io/k/iuyl9j7) ![](assets/new.png)  
 - [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) ![](assets/new.png)  
+- [2020-09-16-聚焦-Android-11:-开发语言](https://toutiao.io/k/9w4z4m2) ![](assets/new.png)  
 - [2020-09-16-无栈协程：Rust-学习笔记](https://toutiao.io/k/b7shlzb) ![](assets/new.png)  
 - [2020-09-16-浅谈如何搭建知识体系](https://toutiao.io/k/2mquhr4) ![](assets/new.png)  
-- [2020-09-16-聚焦-Android-11:-开发语言](https://toutiao.io/k/9w4z4m2) ![](assets/new.png)  
 - [2020-09-16-如何进行重构？](https://toutiao.io/k/iezhfup) ![](assets/new.png)  
-- [2020-09-16-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
-- [2020-09-16-推荐-30-个网站产品落地页免费模板](https://toutiao.io/k/qrs55xl) ![](assets/new.png)  
-- [2020-09-16-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-16-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-16-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-16-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) ![](assets/new.png)  
+- [2020-09-16-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-16-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
+- [2020-09-16-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-16-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
 - [2020-09-16-推荐-进击的-Spring-Cloud-Alibaba：框架与服务](https://toutiao.io/k/tscuwq8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

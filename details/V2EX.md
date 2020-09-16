@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-16 18:49:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 19:03:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-16-小年糕-远程办公不打卡，-go-语言开发算法测试内推](https://www.v2ex.com/t/707730) 
+- [2020-09-16-sage-求泰勒级数展开，结果是从右往左排列的。请问有什么办法更改排列方向么？](https://www.v2ex.com/t/707729) 
 - [2020-09-16-iCloud-用国区，-Apple-Music-用美区有什么弊端吗？](https://www.v2ex.com/t/707728) 
 - [2020-09-16-这个笔记本能装-win7-吗-AMD-Ryzen-7-4800H-+-1660Ti-+-NvmSSD](https://www.v2ex.com/t/707727) 
 - [2020-09-16-20200917-午夜俱乐部](https://www.v2ex.com/t/707726) 

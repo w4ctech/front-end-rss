@@ -14764,6 +14764,16 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "你不知道的浏览器渲染原理",
+        "link": "https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "7 个进大厂的必备的技能",
+        "link": "https://www.ershicimi.com/p/2a00b424cb08c110f66024e9a62621d2",
+        "date": "2020-09-15"
+      },
+      {
         "title": "【适合收藏】为了多点时间陪女朋友，我向BAT大佬跪求了这15条JS技巧",
         "link": "https://www.ershicimi.com/p/377a93f8f8487721b0841aef9d394740",
         "date": "2020-09-13"
@@ -14852,16 +14862,6 @@
         "title": "想去字节面试，TypeScript 要掌握到什么程度？",
         "link": "https://www.ershicimi.com/p/a648c89135efeb37049568816a00fc98",
         "date": "2020-08-28"
-      },
-      {
-        "title": "从 10 多秒到 1.05 秒！前端性能优化实践",
-        "link": "https://www.ershicimi.com/p/40104f0698599d721f2fd833ca8a0558",
-        "date": "2020-08-28"
-      },
-      {
-        "title": "H5 秒开方案大全",
-        "link": "https://www.ershicimi.com/p/c2c283afe566a9e224000ca0d7844e60",
-        "date": "2020-08-26"
       }
     ]
   },
@@ -17449,7 +17449,213 @@
     "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "pycharm 怎么避免包更新扫描？",
+        "link": "https://www.v2ex.com/t/707399",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "预算 200 到 2000 求推荐降噪耳机或者隔音耳罩，以及求对比",
+        "link": "https://www.v2ex.com/t/707398",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "大胆猜测，这一代很多人会换华为",
+        "link": "https://www.v2ex.com/t/707397",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "纠结：返校优惠的 iPad Pro 和新发的 iPad Air 哪个香？",
+        "link": "https://www.v2ex.com/t/707395",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "新的 vmware fusion 12 出来了，说对个人用户免费使用",
+        "link": "https://www.v2ex.com/t/707394",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[纠结] 做了一个小程序刚刚起色，有人出钱想买下来，该不该卖掉?",
+        "link": "https://www.v2ex.com/t/707393",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "感觉 apple watch4 都不需要升级了，米兰尼斯系列",
+        "link": "https://www.v2ex.com/t/707392",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "后端开发用得到 scala 吗，有没有必要学习？",
+        "link": "https://www.v2ex.com/t/707391",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "业务方向会影响未来个人的发展吗？",
+        "link": "https://www.v2ex.com/t/707390",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "这个 iOS 14 更新是 GM 吗？",
+        "link": "https://www.v2ex.com/t/707389",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "熬夜看了苹果发布会，这是发布了个寂寞？",
+        "link": "https://www.v2ex.com/t/707388",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "A14 CPU 提升 16.7%， GPU 提升 8.3%，提升历代最小？",
+        "link": "https://www.v2ex.com/t/707387",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "SteelSeries Arctis 9",
+        "link": "https://www.v2ex.com/t/707386",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "这次居然还是没有推出 AirTags",
+        "link": "https://www.v2ex.com/t/707385",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "20200916 午夜俱乐部",
+        "link": "https://www.v2ex.com/t/707384",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "Apple One 很香",
+        "link": "https://www.v2ex.com/t/707383",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "国内 Watch 是否有必要买蜂窝版",
+        "link": "https://www.v2ex.com/t/707382",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "除了 macOS 所有系统更新明天推送",
+        "link": "https://www.v2ex.com/t/707381",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "apple watch s6 新表带感觉好神奇。。。",
+        "link": "https://www.v2ex.com/t/707380",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "新 Apple Watch S6 不锈钢不闪亮了？",
+        "link": "https://www.v2ex.com/t/707379",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "所以 iPad Air 4 和 iPad Pro 2020 该怎么选呢？",
+        "link": "https://www.v2ex.com/t/707378",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "B 站账号封禁处理",
+        "link": "https://www.v2ex.com/t/707377",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[深夜提问] 诸位 phper 的 composer 部署流程是怎么样的",
+        "link": "https://www.v2ex.com/t/707376",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "所以 12 还要专门再来一场？",
+        "link": "https://www.v2ex.com/t/707375",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "apple 特别活动结束，确定没有新 iPhone",
+        "link": "https://www.v2ex.com/t/707373",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "所以国行手表是不是又会阉割血氧啊？",
+        "link": "https://www.v2ex.com/t/707372",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "新 iPad Air 发布了， 599 刀起",
+        "link": "https://www.v2ex.com/t/707371",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "请问在火币网工作有什么风险吗",
+        "link": "https://www.v2ex.com/t/707370",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "10400 黑苹果核显驱动求助",
+        "link": "https://www.v2ex.com/t/707369",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "今晚的苹果发布会第三方无法观看，同时只介绍了手表和平板",
+        "link": "https://www.v2ex.com/t/707368",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "AMD Ryzen 系列 CPU 对虚拟化的支持怎样了？",
+        "link": "https://www.v2ex.com/t/707367",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "在京东自营买的海德划船机，使用中受伤了，我该如何维权！",
+        "link": "https://www.v2ex.com/t/707366",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "iPhone 8 升级到 13.7 空间清理了 20G+",
+        "link": "https://www.v2ex.com/t/707361",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "做了一个聚合 Instagram 照片的网站 - Insroll.com",
+        "link": "https://www.v2ex.com/t/707360",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[西安] 翼辉信息西安研发中心秋季招聘",
+        "link": "https://www.v2ex.com/t/707359",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "怪事：香港服务器 http reset",
+        "link": "https://www.v2ex.com/t/707355",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "有见过多劳多得，每月工作量搞排名公示，垫底的人奖金就减半的吗",
+        "link": "https://www.v2ex.com/t/707354",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "这个是哪里有问题，加密出来结果不对～",
+        "link": "https://www.v2ex.com/t/707353",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "2020 MBP 13 用 pd 跑 Windows 风扇声巨大",
+        "link": "https://www.v2ex.com/t/707352",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "如果今晚发布了新 iPad Air，还可以用教育优惠吗",
+        "link": "https://www.v2ex.com/t/707351",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "[成都] [内推] [美菜网] 后台开发/前端/测试/产品，欢迎投递简历",
+        "link": "https://www.v2ex.com/t/707350",
+        "date": "2020-09-15"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -17564,8 +17770,23 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
+        "date": "2020-09-16"
+      },
+      {
         "title": "面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
         "link": "https://toutiao.io/k/pcsh3lu",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "Spring 事务是如何应用到你的业务场景中的？",
+        "link": "https://toutiao.io/k/a2zzp9y",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "Spring Boot 2 集成日志，复杂业务下的自定义实现",
+        "link": "https://toutiao.io/k/p5r1xgu",
         "date": "2020-09-16"
       },
       {
@@ -17574,8 +17795,33 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
+        "title": "Android 端代码染色原理及技术实践",
+        "link": "https://toutiao.io/k/985a7a9",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "深度剖析 Kafka Producer 的缓冲池机制（图解 + 源码分析）",
+        "link": "https://toutiao.io/k/n37jb6g",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "烦人的 Null，你可以滚了",
+        "link": "https://toutiao.io/k/o15uuox",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "详解增强算术赋值：“-=” 操作是怎么实现的？",
+        "link": "https://toutiao.io/k/iuyl9j7",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "ASP.NET Core Cookie SameSite",
+        "link": "https://toutiao.io/k/42yb327",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-16"
       },
       {
@@ -17589,33 +17835,18 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
         "date": "2020-09-16"
       },
       {
@@ -17624,18 +17855,28 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 30 个网站产品落地页免费模板",
-        "link": "https://toutiao.io/k/qrs55xl",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
         "date": "2020-09-16"
       },
       {
@@ -17644,8 +17885,13 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-16"
       }
     ]

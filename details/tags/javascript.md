@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 00:07:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 00:32:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -65,7 +65,6 @@
 - [2020-09-13-【适合收藏】为了多点时间陪女朋友，我向BAT大佬跪求了这15条JS技巧](https://www.ershicimi.com/p/377a93f8f8487721b0841aef9d394740) 
 - [2020-09-03-22+-高频实用的-JavaScript-片段-（2020年）](https://www.ershicimi.com/p/ee09a441d4f3a019165848d06d13eeb2) 
 - [2020-08-30-JavaScript-经典「红宝书」，几代前端人的入门选择](https://www.ershicimi.com/p/a300a8874b1decab5e5b81361a25288c) 
-- [2020-08-26-H5-秒开方案大全](https://www.ershicimi.com/p/c2c283afe566a9e224000ca0d7844e60) 
 - [2020-09-09-大型-web-应用公共组件架构思考](https://www.ershicimi.com/p/458c0b367c1e5a43f88a1a33d99a2c78) 
 - [2020-09-07-XSS攻防实战（附JS源码）](https://www.ershicimi.com/p/fba0b87ae87b1ab532db066a5e22bcbc) 
 - [2020-09-15-应该在JavaScript中使用Class吗？](https://www.ershicimi.com/p/3d40203a356fcda1a1c9b2016316678e) 
@@ -124,4 +123,6 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-09-16-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
+- [2020-09-16-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-13-BUF大事件丨1780个流行安卓APP违反加密规则;工信部通报101款违...](https://sec.thief.one/article_content?a_id=885824c80b2d0c2441dba6b444c9484e) 

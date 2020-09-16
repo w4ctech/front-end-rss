@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 07:34:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 07:47:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,4 +40,5 @@
 - [2020-09-16-Base-深圳阿里中心支付宝香港团队-2020-招聘前端岗位-可加钉钉/微信聊-0916](https://www.v2ex.com/t/707555) 
 - [2020-09-16-平安科技招聘-前端+测试内勤-965-16-薪+-上海-崂山路](https://www.v2ex.com/t/707543) 
 - [2020-09-16-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
+- [2020-09-16-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-14-日赚1万5!暴利黑客行业“无需面试”~](https://sec.thief.one/article_content?a_id=f71799c45649c086991b5929b36fbee5) 

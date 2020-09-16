@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 13:49:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 14:04:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -69,4 +69,3 @@
 - [2020-09-15-TS-4.1-新特性实现-Vuex-无限层级命名空间的-dispatch-类型推断。](https://juejin.im/post/6872967325637836808) 
 - [2020-09-15-uni-app（vue）基于InnerAudioContext封装一个基本的音频组件](https://juejin.im/post/6872954664044740621) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-09-16-element-组件是不是不支持-vue3.0？](https://www.v2ex.com/t/707649) 

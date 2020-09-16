@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 13:49:03，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 14:04:03，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-16-寻前端兼职,-最好在上海本地](https://www.v2ex.com/t/707700) ![](assets/new.png)  
+- [2020-09-16-飞书质量保障团队急聘测试开发工程师！北京深圳杭州上海都有需求！团队搭建关键时期，-HC-多多，空间大！](https://www.v2ex.com/t/707699) ![](assets/new.png)  
+- [2020-09-16-国庆系统上线，-0-休息。](https://www.v2ex.com/t/707698) ![](assets/new.png)  
 - [2020-09-16-2020-年了，梦想真的能当饭吃嘛](https://www.v2ex.com/t/707697) ![](assets/new.png)  
 - [2020-09-16-你最爱的专辑，不限国家和年代，但只能选-5-张，你选哪-5-张？](https://www.v2ex.com/t/707696) ![](assets/new.png)  
 - [2020-09-16-假设洗澡时候脱掉-Apple-Watch-充电，然后不小心摔了，那这摔倒监测还有意义吗？](https://www.v2ex.com/t/707695) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-16-就阿里“犀牛智造平台”一论](https://www.v2ex.com/t/707677) ![](assets/new.png)  
 - [2020-09-16-杭州-蚂蚁金服-Java-开发/数据开发-商家增长团队又又又又在期待你的加入！机会多多，等你来挑战！](https://www.v2ex.com/t/707676) ![](assets/new.png)  
 - [2020-09-16-什么渠道能买到便宜的苹果表-5](https://www.v2ex.com/t/707675) ![](assets/new.png)  
-- [2020-09-16-帝都电动车载人触犯交通条例被罚-20-元](https://www.v2ex.com/t/707672) ![](assets/new.png)  
-- [2020-09-16-轻松筹-北京-招高级-Java-、Go-后端开发](https://www.v2ex.com/t/707671) ![](assets/new.png)  
-- [2020-09-16-你们公司现在在用-Java-什么版本呢？](https://www.v2ex.com/t/707670) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1119,8 @@
 </summary>
 
 
-- [2020-09-16-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
 - [2020-09-16-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
+- [2020-09-16-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
 - [2020-09-16-Spring-Boot-2-集成日志，复杂业务下的自定义实现](https://toutiao.io/k/p5r1xgu) ![](assets/new.png)  
 - [2020-09-16-烦人的-Null，你可以滚了](https://toutiao.io/k/o15uuox) ![](assets/new.png)  
 - [2020-09-16-深度剖析-Kafka-Producer-的缓冲池机制（图解-+-源码分析）](https://toutiao.io/k/n37jb6g) ![](assets/new.png)  
@@ -1128,8 +1128,8 @@
 - [2020-09-16-自动化回归问题的一二三](https://toutiao.io/k/8g29shf) ![](assets/new.png)  
 - [2020-09-16-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
 - [2020-09-16-Spring-事务是如何应用到你的业务场景中的？](https://toutiao.io/k/a2zzp9y) ![](assets/new.png)  
-- [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
 - [2020-09-16-浅谈如何搭建知识体系](https://toutiao.io/k/2mquhr4) ![](assets/new.png)  
+- [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
 - [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
 - [2020-09-16-详解增强算术赋值：“-=”-操作是怎么实现的？](https://toutiao.io/k/iuyl9j7) ![](assets/new.png)  
 - [2020-09-16-聚焦-Android-11：开发语言](https://toutiao.io/k/9w4z4m2) ![](assets/new.png)  

@@ -16350,6 +16350,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "寻前端兼职, 最好在上海本地",
+        "link": "https://www.v2ex.com/t/707700",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "飞书质量保障团队急聘测试开发工程师！北京深圳杭州上海都有需求！团队搭建关键时期， HC 多多，空间大！",
+        "link": "https://www.v2ex.com/t/707699",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "国庆系统上线， 0 休息。",
+        "link": "https://www.v2ex.com/t/707698",
+        "date": "2020-09-16"
+      },
+      {
         "title": "2020 年了，梦想真的能当饭吃嘛",
         "link": "https://www.v2ex.com/t/707697",
         "date": "2020-09-16"
@@ -16538,21 +16553,6 @@
         "title": "一下子就快三个月了..",
         "link": "https://www.v2ex.com/t/707651",
         "date": "2020-09-16"
-      },
-      {
-        "title": "话说现在国庆还能往云南跑吗？",
-        "link": "https://www.v2ex.com/t/707650",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "element 组件是不是不支持 vue3.0？",
-        "link": "https://www.v2ex.com/t/707649",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "SKG 按摩器和 tb 上几十元的电子理疗仪好像差不多吧？",
-        "link": "https://www.v2ex.com/t/707648",
-        "date": "2020-09-16"
       }
     ]
   },
@@ -16669,13 +16669,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
+        "title": "面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
         "date": "2020-09-16"
       },
       {
-        "title": "面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
+        "title": "谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
         "date": "2020-09-16"
       },
       {
@@ -16714,13 +16714,13 @@
         "date": "2020-09-16"
       },
       {
-        "title": "每个 Spark 工程师都应该知道的五种 Join 策略",
-        "link": "https://toutiao.io/k/hg9q63k",
+        "title": "浅谈如何搭建知识体系",
+        "link": "https://toutiao.io/k/2mquhr4",
         "date": "2020-09-16"
       },
       {
-        "title": "浅谈如何搭建知识体系",
-        "link": "https://toutiao.io/k/2mquhr4",
+        "title": "每个 Spark 工程师都应该知道的五种 Join 策略",
+        "link": "https://toutiao.io/k/hg9q63k",
         "date": "2020-09-16"
       },
       {
@@ -16769,63 +16769,8 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
-        "link": "https://toutiao.io/k/ukczk89",
-        "date": "2020-09-16"
-      },
-      {
         "title": "[推荐] Golang 汇编入门知识总结",
         "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
-        "link": "https://toutiao.io/k/pz73jc0",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-16"
       },
       {
@@ -16834,13 +16779,68 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
+        "title": "[推荐] 视频面试传输协议到底是 TCP 还是 UDP",
+        "link": "https://toutiao.io/k/ukczk89",
         "date": "2020-09-16"
       },
       {
         "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
         "link": "https://toutiao.io/k/kps56d6",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
+        "link": "https://toutiao.io/k/pz73jc0",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 30 个网站产品落地页免费模板",
+        "link": "https://toutiao.io/k/qrs55xl",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
         "date": "2020-09-16"
       }
     ]

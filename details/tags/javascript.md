@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 13:22:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 13:32:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -99,5 +99,4 @@
 - [2020-09-16-不懂就问，-Blob-类型，怎么通过-fileBinary-属性转化成-ArrayBuffer-的？](https://www.v2ex.com/t/707656) 
 - [2020-09-16-如何快速从设计稿智能生成-H5-应用？神笔已备好，等码良！](https://www.v2ex.com/t/707645) 
 - [2020-09-16-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
-- [2020-09-16-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-16-解读伊朗黑客利用VPN漏洞入侵全球企业内网事件](https://sec.thief.one/article_content?a_id=23a2f38d30635577acd4bc3a2fc4b97c) 

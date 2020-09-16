@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 09:24:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 09:32:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,5 +41,4 @@
 - [2020-09-16-#杭州，北京，上海#-字节跳动电商业务研发团队招聘！](https://www.v2ex.com/t/707605) 
 - [2020-09-16-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
 - [2020-09-16-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
-- [2020-09-16-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-14-日赚1万5!暴利黑客行业“无需面试”~](https://sec.thief.one/article_content?a_id=f71799c45649c086991b5929b36fbee5) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-16 12:15:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 12:30:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -217,8 +217,6 @@
 
 
 - [【Vue中文社区】强烈推介的几个微信小程序开发小技巧，简单又实用](https://www.ershicimi.com/p/97e7e0477177276e1869de66fe09a902)
-- [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
-- [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【凹凸实验室】Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/)
 - [【凹凸实验室】京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/)
 - [【凹凸实验室】京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/)
@@ -236,6 +234,8 @@
 - [【凹凸实验室】Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)
 - [【凹凸实验室】小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)
 - [【凹凸实验室】决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)
+- [【凹凸实验室】Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)
+- [【凹凸实验室】Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -344,7 +344,6 @@
 
 - [【Vue中文社区】只用-div-和-css-能玩出什么花来？请扶好下巴！](https://www.ershicimi.com/p/cc1383441b45b9661b015516014a28fc)
 - [【前端大全】Serverless-For-Frontend-前世今生](https://www.ershicimi.com/p/4b6540a4a0c84f56a36fb33ada8bf7e9)
-- [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
 - [【前端开发博客】阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497)
 - [【前端大学】CSS-8种让人眼前一亮的hover效果](https://www.ershicimi.com/p/5c4b9882738d384f3e6b3a83264cd49f)
 - [【前端外刊评论】Serverless-背景下的前端困境与解决方案](https://www.ershicimi.com/p/ec1908283d9c4dac9fa716b21292ccd5)
@@ -362,6 +361,7 @@
 - [【凹凸实验室】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
 - [【凹凸实验室】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
 - [【凹凸实验室】一个例子上手SVG动画](https://aotu.io/notes/2017/05/04/example-for-svg-animation/)
+- [【凹凸实验室】使用-Snap.svg-制作动画](https://aotu.io/notes/2017/01/22/snapsvg/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 12:15:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 12:30:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -43,8 +43,6 @@
 - [2020-09-11-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/74bd803fe62c842c03de6bf050297dd8) 
 - [2020-09-09-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/9a5263bb72a424b82d761fd9e82a5152) 
 - [2020-09-06-包邮送8本《JavaScript编程精解》老鹰书](https://www.ershicimi.com/p/25c40b36c19ea0c48376bf45324e53f9) 
-- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
-- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
 - [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
@@ -113,6 +111,7 @@
 - [2020-09-05-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/6df8ec8f180d99efe64faf4d4c8dc6d3) 
 - [2020-09-04-玩转-CSS-变量](https://www.ershicimi.com/p/bdd8b63bd0d792fe265f3f929077dda8) 
 - [2020-09-01-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/ff3c43131acc2b4f5aa34bc2a1af2152) 
+- [2020-09-15-逐行分析鸿蒙系统的-JavaScript-框架](https://juejin.im/post/6872639403102208014) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -125,5 +124,4 @@
 - [2020-09-16-不懂就问，-Blob-类型，怎么通过-fileBinary-属性转化成-ArrayBuffer-的？](https://www.v2ex.com/t/707656) 
 - [2020-09-16-如何快速从设计稿智能生成-H5-应用？神笔已备好，等码良！](https://www.v2ex.com/t/707645) 
 - [2020-09-16-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
-- [2020-09-16-推荐-译-如何设计一个-JavaScript-插件系统，编程思维比死磕-API-更重要](https://toutiao.io/k/kps56d6) 
 - [2020-09-16-解读伊朗黑客利用VPN漏洞入侵全球企业内网事件](https://sec.thief.one/article_content?a_id=23a2f38d30635577acd4bc3a2fc4b97c) 

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-09-16 01:32:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 01:38:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-16-Macbook-pro-2018-15-寸-黑屏无法开机-刷-T2-后起死回生](https://www.v2ex.com/t/707427) 
+- [2020-09-16-弄了个去各种短视频水印的小程序，几乎不限次数，免费用](https://www.v2ex.com/t/707426) 
+- [2020-09-16-迫于-vercel.app-被微信封掉了，求推荐类似服务](https://www.v2ex.com/t/707425) 
+- [2020-09-16-今年的运势很差，求破解之法](https://www.v2ex.com/t/707424) 
 - [2020-09-16-为什么总喜欢将已-B-挂嘴上](https://www.v2ex.com/t/707423) 
 - [2020-09-16-国内有支持第三方登录访问的云盘么？](https://www.v2ex.com/t/707422) 
 - [2020-09-16-使用-lombok-时，两个字段（testName、testname）只生成了一组-getter/setter](https://www.v2ex.com/t/707421) 
@@ -45,6 +49,3 @@
 - [2020-09-15-apple-watch-s6-新表带感觉好神奇。。。](https://www.v2ex.com/t/707380) 
 - [2020-09-15-新-Apple-Watch-S6-不锈钢不闪亮了？](https://www.v2ex.com/t/707379) 
 - [2020-09-15-所以-iPad-Air-4-和-iPad-Pro-2020-该怎么选呢？](https://www.v2ex.com/t/707378) 
-- [2020-09-15-B-站账号封禁处理](https://www.v2ex.com/t/707377) 
-- [2020-09-15-深夜提问-诸位-phper-的-composer-部署流程是怎么样的](https://www.v2ex.com/t/707376) 
-- [2020-09-15-所以-12-还要专门再来一场？](https://www.v2ex.com/t/707375) 

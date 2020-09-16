@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-16 00:32:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 01:00:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -531,8 +531,6 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】分享400多道算法题，来挑战吧](https://www.ershicimi.com/p/4e88bfd1eb96ea5426860ad1aa28700b)
 - [【InfoQ】快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b)
-- [【V2EX】A14-CPU-提升-16.7%，-GPU-提升-8.3%，提升历代最小？](https://www.v2ex.com/t/707387)
-- [【V2EX】怪事：香港服务器-http-reset](https://www.v2ex.com/t/707355)
 - [【技术头条】主宰这个世界的-10-大算法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13768&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlIeT6xeYWx0bYiIDgiJHpQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】中科院博士整理的机器学习算法知识手册-|-附PDF下载](https://sec.thief.one/article_content?a_id=5fff48d65aa1f5a391f61b570dc3f675)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -580,6 +578,7 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -684,7 +683,8 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊85202例-新增境外输入8例](http://m.china.caixin.com/m/2020-09-15/101605616.html)
+- [【武汉肺炎防疫全纪录(财新网)】9月15日全国新增境外输入新冠12例](https://m.caixin.com/m/2020-09-16/101605765.html)
+- [【武汉肺炎防疫全纪录(财新网)】新冠抗体可维持至少4个月？-研究引发疫苗保护期乐观推测](https://m.caixin.com/m/2020-09-16/101605753.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港本地新增病例归零-港府全民检测支出约5.3亿港元](http://m.china.caixin.com/m/2020-09-15/101605633.html)
 - [【武汉肺炎防疫全纪录(财新网)】云南瑞丽因新冠疫情“封城”-已开展全市核酸筛查](http://m.china.caixin.com/m/2020-09-15/101605625.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染近2915万-累计死亡超92万](http://m.international.caixin.com/m/2020-09-15/101605618.html)
@@ -695,15 +695,14 @@
 - [【武汉肺炎防疫全纪录(财新网)】【图集】云南瑞丽开展全员核酸检测-中小学停课店铺关门](http://m.photos.caixin.com/m/2020-09-15/101605461.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增10例境外输入病例（9月13日）](http://m.database.caixin.com/m/2020-09-14/101604870.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|9月13日：疫情遍布全美50州大学-法国日增创纪录破万](https://m.caixin.com/m/2020-09-14/101604773.html)
-- [【武汉肺炎防疫全纪录(财新网)】舟山一外籍轮7名船员核检阳性-已隔离观察](http://m.china.caixin.com/m/2020-09-13/101604668.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增70例无症状感染者（9月12日）](http://m.database.caixin.com/m/2020-09-13/101604644.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|9月12日：法国疫情明显恶化-阿斯利康重启新冠疫苗试验](https://m.caixin.com/m/2020-09-13/101604607.html)
+- [【武汉肺炎防疫全纪录(财新网)】舟山一外籍轮7名船员核检阳性-已隔离观察](http://m.china.caixin.com/m/2020-09-13/101604668.html)
 - [【武汉肺炎防疫全纪录(财新网)】云南瑞丽市一小区发现1例疑似病例，实施隔离封闭管理](http://m.china.caixin.com/m/2020-09-13/101604642.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国连续150日无新增死亡病例（9月11日）](http://m.database.caixin.com/m/2020-09-12/101604544.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|9月11日：美国超50万名儿童确诊-欧洲多国疫情反弹迅速](https://m.caixin.com/m/2020-09-12/101604428.html)
 - [【武汉肺炎防疫全纪录(财新网)】全球首个鼻喷新冠疫苗启动临床试验-具流感新冠双重免疫](https://m.caixin.com/m/2020-09-12/101604535.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增15例境外输入病例（9月10日）](http://m.database.caixin.com/m/2020-09-11/101604061.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|9月10日：阿斯利康称疫苗仍有望年底面市-美国料难大选前接种](https://m.caixin.com/m/2020-09-11/101603864.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

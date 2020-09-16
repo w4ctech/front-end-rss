@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 15:12:09，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 15:24:17，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-16-大厂一般是怎么面试产品经理的呢？](https://www.v2ex.com/t/707714) ![](assets/new.png)  
 - [2020-09-16-从交通视频中提取车辆轨迹的项目正式发布啦-代码-+-文档](https://www.v2ex.com/t/707713) ![](assets/new.png)  
 - [2020-09-16-聊聊那些年你购买的苹果产品](https://www.v2ex.com/t/707712) ![](assets/new.png)  
 - [2020-09-16-我有一个梦想](https://www.v2ex.com/t/707711) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-16-收藏贴-Java-有哪些项目的源码值得一看？](https://www.v2ex.com/t/707690) ![](assets/new.png)  
 - [2020-09-16-无法访问在-github-托管的网站](https://www.v2ex.com/t/707689) ![](assets/new.png)  
 - [2020-09-16-30-块钱买了个-HDMI-采集卡](https://www.v2ex.com/t/707688) ![](assets/new.png)  
-- [2020-09-16-问个-git-ignore-问题](https://www.v2ex.com/t/707686) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

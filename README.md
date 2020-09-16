@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 03:24:04，:rocket: 更新条数: +3413， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 03:32:20，:rocket: 更新条数: +3412， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -663,6 +663,16 @@
 </summary>
 
 
+- [2020-09-15-通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/b99babdfb00269bc556a772fde985927) ![](assets/new.png)  
+- [2020-09-14-大数据时代下的“火眼金睛”？如何高效精准快速地学习目标检测？](https://www.ershicimi.com/p/259e2b8f596a3f17fe919d33e994ee73) ![](assets/new.png)  
+- [2020-09-14-Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/9cf9e1540ea437410112acba7e8eecd0) ![](assets/new.png)  
+- [2020-09-13-CNodejs每日新闻周刊｜第-5-期](https://www.ershicimi.com/p/908eef7d8507a4b756fbe0fdee8d5eca) ![](assets/new.png)  
+- [2020-09-10-轻量级-Node.js-Web-框架-Daruk2.0-正式版发布了！](https://www.ershicimi.com/p/fb984d766163b35797bd7da5651e9683) ![](assets/new.png)  
+- [2020-09-09-详解-JS-压缩图片](https://www.ershicimi.com/p/cc76a353eeff86a9c5f8546606f1ac9e) ![](assets/new.png)  
+- [2020-09-06-CNodejs每日新闻周刊｜第-4-期](https://www.ershicimi.com/p/ef4b7dbf19444c283e9a2babb975502c) ![](assets/new.png)  
+- [2020-09-05-“Hello-Node.js”-这一次是你没见过的写法](https://www.ershicimi.com/p/afafa768f314ee3c006a6297a65ccfdd) ![](assets/new.png)  
+- [2020-09-04-Vivo-商城前端架构升级-总览篇](https://www.ershicimi.com/p/bac62407af4f89133d25b05986316fe6) ![](assets/new.png)  
+- [2020-09-03-Node.js-脚本遭遇异常时如何安全退出](https://www.ershicimi.com/p/325ce3cc3a989db3e2237ed4fdcce687) ![](assets/new.png)  
 - [2020-08-27-什么？华为开始对Node&Vue下手了？](https://www.ershicimi.com/p/fa7c430e5710d6664aaf2ebf5b132816) ![](assets/new.png)  
 - [2020-08-26-一篇文章构建你的-Node.js-知识体系](https://www.ershicimi.com/p/f1fb1a33a8919fc776903a2c25cf09d2) ![](assets/new.png)  
 - [2020-08-24-如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/f492d329ae09069db4024ed25a7531ee) ![](assets/new.png)  
@@ -673,16 +683,6 @@
 - [2020-08-21-一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/4fd54e82ba5cd37e48a5a8095178bbb9) ![](assets/new.png)  
 - [2020-08-20-Node.js-异步延续模型](https://www.ershicimi.com/p/49850a57b1261230fb6486dece7bb273) ![](assets/new.png)  
 - [2020-08-19-如何定制企业级-Node.js-代码检查规范](https://www.ershicimi.com/p/46117eecd705963a4217bd64bbc467df) ![](assets/new.png)  
-- [2020-08-18-前端模块化：CommonJS,AMD,CMD,ES6](https://www.ershicimi.com/p/d2379722a4ae1383e39ba0c43731c031) ![](assets/new.png)  
-- [2020-08-17-Mongoose-实现关联查询和踩坑记录](https://www.ershicimi.com/p/422174403b1db1de6805793a1c5a2af6) ![](assets/new.png)  
-- [2020-08-16-推荐一位-Github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/ed297c30ed030e57e29c4b4dfdfec211) ![](assets/new.png)  
-- [2020-08-14-13个-NPM-快速使用开发技巧](https://www.ershicimi.com/p/d5b8b3f057763a44977a71d17c9ae1c0) ![](assets/new.png)  
-- [2020-08-13-推荐一位优秀的阿里前端小姐姐](https://www.ershicimi.com/p/0848864d299a95f9317ae4f6cf7ca211) ![](assets/new.png)  
-- [2020-08-13-一杯茶的时间，上手-Koa2-+-MySQL-开发](https://www.ershicimi.com/p/c7db98ad78904e16b74e417ea79c2233) ![](assets/new.png)  
-- [2020-08-12-语雀的技术架构演进之路](https://www.ershicimi.com/p/e1b307d08b39421d4a384d316bff5979) ![](assets/new.png)  
-- [2020-08-11-全面、系统的前端工程化精讲](https://www.ershicimi.com/p/472f1e0365de8327c57f9aab14f8117d) ![](assets/new.png)  
-- [2020-08-10-跨域（CORS）产生原因分析与解决方案，这一次彻底搞懂它](https://www.ershicimi.com/p/5ee627cd3c24fe8fb88f7f9d401cc34d) ![](assets/new.png)  
-- [2020-08-09-CNodejs每日新闻周刊｜第-1-期](https://www.ershicimi.com/p/86890ac21f629e26402d838ab526197b) ![](assets/new.png)  
 - [......【查看更多】......](./details/Nodejs技术栈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -948,8 +948,8 @@
 
 
 - [2020-09-15-硬核看房利器——Web-全景的实现](https://juejin.im/post/6872914961996185608) ![](assets/new.png)  
-- [2020-09-15-react基础知识总结（持续更新ing...）](https://juejin.im/post/6872905077493858312) ![](assets/new.png)  
 - [2020-09-15-关于-JavaScript-错误处理的最完整指南](https://juejin.im/post/6872867757407338509) ![](assets/new.png)  
+- [2020-09-15-JS-浅拷贝与深拷贝问题](https://juejin.im/post/6872765382898221064) ![](assets/new.png)  
 - [2020-09-15-VueRouter源码解析一：插件安装，几个类型，几个方法](https://juejin.im/post/6872733826012217351) ![](assets/new.png)  
 - [2020-09-15-vue父子组件状态同步的最佳方式续章v-model篇](https://juejin.im/post/6872725933263552525) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-16-晋升不涨薪](https://www.v2ex.com/t/707487) ![](assets/new.png)  
+- [2020-09-16-帮朋友问下：怎么禁用-chrome/edge-的系统音量控件还是啥的。](https://www.v2ex.com/t/707486) ![](assets/new.png)  
+- [2020-09-16-杭州-阿里云-AI.Lab-组内直招，-NodeJS、Serverless、WebGL、深度学习大佬看过来](https://www.v2ex.com/t/707485) ![](assets/new.png)  
 - [2020-09-16-新发现了一个-Quasar-的-QQ-群](https://www.v2ex.com/t/707483) ![](assets/new.png)  
 - [2020-09-16-快手招人了！-16-薪+-北京-杭州-上海-深圳-HC-充足，](https://www.v2ex.com/t/707482) ![](assets/new.png)  
 - [2020-09-16-egghead.io-合租，最近优惠-$150-每年](https://www.v2ex.com/t/707480) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-16-求教：操作系统时间定格软件的原理是什么？是不是定时器每毫秒级-set-系统时间到固定值？](https://www.v2ex.com/t/707465) ![](assets/new.png)  
 - [2020-09-16-有木有机器学习从无到深的教程~~](https://www.v2ex.com/t/707462) ![](assets/new.png)  
 - [2020-09-16-cloudflare-能缓存-webdav-或者需要-http-auth-的资源吗](https://www.v2ex.com/t/707461) ![](assets/new.png)  
-- [2020-09-16-apple-care+服务升级](https://www.v2ex.com/t/707460) ![](assets/new.png)  
-- [2020-09-16-百度云-CDN-不按照规范来，还很硬气，说“这是符合预期的”，百度啊百度。。。。](https://www.v2ex.com/t/707459) ![](assets/new.png)  
-- [2020-09-16-Apple-One-美區-105CNY-/-3mo](https://www.v2ex.com/t/707458) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,9 +1136,9 @@
 - [2020-09-16-译-Kubernetes：移除-CPU-限制，服务运行更快](https://toutiao.io/k/qy6jqm2) ![](assets/new.png)  
 - [2020-09-16-自动化回归问题的一二三](https://toutiao.io/k/8g29shf) ![](assets/new.png)  
 - [2020-09-16-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
-- [2020-09-16-《花木兰》得分太低？如何预测一部电影的-IMDb-评分？（Mixlab-跨学科课程）](https://toutiao.io/k/xmh1f28) ![](assets/new.png)  
 - [2020-09-16-译-智能合约间权限控制的协作模式](https://toutiao.io/k/3kombly) ![](assets/new.png)  
 - [2020-09-16-大数据项目中的-QA-需要迎接新的挑战](https://toutiao.io/k/ief3uj7) ![](assets/new.png)  
+- [2020-09-16-《花木兰》得分太低？如何预测一部电影的-IMDb-评分？（Mixlab-跨学科课程）](https://toutiao.io/k/xmh1f28) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

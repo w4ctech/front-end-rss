@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 10:34:32，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 10:47:18，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-09-16-香港16日新增新冠肺炎确诊病例9例-累计确诊4985例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis06OvSk090hJYE4ufoxF200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-受疫情影响-墨西哥独立210周年庆祝活动转为线上直播](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ZDmWWB8WtdlvqGBWNw4200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-详情公布！山东青岛新增1例菲律宾输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE7bc5A0S4K7kQwvOGsgj200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-福建15日新增境外输入确诊病例2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyW3MfdEslk2NBFjCvV7o200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-2020年9月16日浙江省新型冠状病毒肺炎疫情情况](http://wsjkw.zj.gov.cn/art/2020/9/16/art_1202101_57648993.html) ![](assets/new.png)  
+- [2020-09-16-孟加拉国航运国务部长卡利德新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireRaX0836KJAsNNIjuz4200916&isfromapp=1) ![](assets/new.png)  
+- [2020-09-16-德国新增1901例确诊病例-累计确诊263663例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBLd4awqvv090fHrgit8l200916&isfromapp=1) ![](assets/new.png)  
+- [2020-09-16-陕西15日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizCFI85eWGQb1yINfWbts200916&isfromapp=1) ![](assets/new.png)  
+- [2020-09-16-俄罗斯新增5670例新冠肺炎确诊病例-累计确诊1079519例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbCGkFJm9QS0NqvW5tq2200916&isfromapp=1) ![](assets/new.png)  
+- [2020-09-16-菲律宾新增3550例新冠肺炎确诊病例-累计超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDXdHSxr7BgRsbYDyvMH1200916&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-16-免费讲座-Facebook-面试官揭秘算法面试速成技，帮你一个月内突击算法面试](https://www.v2ex.com/t/707660) ![](assets/new.png)  
 - [2020-09-16-做了一个-S10-职业选手峡谷之巅国服-ID-最强汇总的小程序](https://www.v2ex.com/t/707659) ![](assets/new.png)  
 - [2020-09-16-学院给了一千块钱报销的权利，买点啥好](https://www.v2ex.com/t/707658) ![](assets/new.png)  
 - [2020-09-16-openwrt-上开启了-ipsec-vpn-服务器。win10-用什么客户端比较好？](https://www.v2ex.com/t/707657) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-16-CMS-系统的图片外链换地址了怎么办？](https://www.v2ex.com/t/707641) ![](assets/new.png)  
 - [2020-09-16-9-月-22-日，-CODING-DevOps-深度解析系列第一课线上开讲！](https://www.v2ex.com/t/707640) ![](assets/new.png)  
 - [2020-09-16-今天阿里云服务器上出现了很多起-UnknownHostException](https://www.v2ex.com/t/707639) ![](assets/new.png)  
-- [2020-09-16-django-导出-excel-问题-求助](https://www.v2ex.com/t/707638) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,10 +1127,10 @@
 - [2020-09-16-无栈协程：Rust-学习笔记](https://toutiao.io/k/b7shlzb) ![](assets/new.png)  
 - [2020-09-16-自动化回归问题的一二三](https://toutiao.io/k/8g29shf) ![](assets/new.png)  
 - [2020-09-16-Spring-事务是如何应用到你的业务场景中的？](https://toutiao.io/k/a2zzp9y) ![](assets/new.png)  
-- [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
 - [2020-09-16-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
-- [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
+- [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
 - [2020-09-16-详解增强算术赋值：“-=”-操作是怎么实现的？](https://toutiao.io/k/iuyl9j7) ![](assets/new.png)  
+- [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
 - [2020-09-16-浅谈如何搭建知识体系](https://toutiao.io/k/2mquhr4) ![](assets/new.png)  
 - [2020-09-16-聚焦-Android-11：开发语言](https://toutiao.io/k/9w4z4m2) ![](assets/new.png)  
 - [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 10:34:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 10:47:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -74,7 +74,6 @@
 - [2020-01-21-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-21-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-19-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
-- [2020-09-16-受疫情影响-墨西哥独立210周年庆祝活动转为线上直播](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ZDmWWB8WtdlvqGBWNw4200916&isfromapp=1) 
 - [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
 - [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) 
 - [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) 
@@ -84,7 +83,6 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-09-16-是时候上车-Jetpack-了，内含音乐播放器实例-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13760&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FawtTAUx47pjTcQVJxkMydA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-16-推荐-视频面试传输协议到底是-TCP-还是-UDP](https://toutiao.io/k/ukczk89) 
 - [2020-09-15-2020国家网安周|齐向东演讲全文视频](https://sec.thief.one/article_content?a_id=40faef71006ed115875e10825b6fdb15) 
 - [2020-09-15-【视频】|-Python:逻辑运算符](https://sec.thief.one/article_content?a_id=6c5f82c5ca33a779fcba1eb9e418b2f6) 
 - [2020-09-14-活动-|-APP不下架的内容合规秘诀,参与直播,立刻拥有!](https://sec.thief.one/article_content?a_id=55919235dd4c64cbe03d318a1125bc04) 

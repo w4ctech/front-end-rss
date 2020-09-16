@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 07:12:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 07:23:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -67,5 +67,5 @@
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) 
 - [2020-09-15-TS-4.1-新特性实现-Vuex-无限层级命名空间的-dispatch-类型推断。](https://juejin.im/post/6872967325637836808) 
-- [2020-09-15-Vue-数据绑定解析](https://juejin.im/post/6872908917970567175) 
+- [2020-09-15-uni-app（vue）基于InnerAudioContext封装一个基本的音频组件](https://juejin.im/post/6872954664044740621) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

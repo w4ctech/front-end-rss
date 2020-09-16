@@ -15996,6 +15996,11 @@
         "date": "2020-09-15"
       },
       {
+        "title": "uni-app（vue）基于InnerAudioContext封装一个基本的音频组件",
+        "link": "https://juejin.im/post/6872954664044740621",
+        "date": "2020-09-15"
+      },
+      {
         "title": "微前端从理论到实践",
         "link": "https://juejin.im/post/6872945093993562120",
         "date": "2020-09-15"
@@ -16008,11 +16013,6 @@
       {
         "title": "前端一键自动部署工具🛠",
         "link": "https://juejin.im/post/6872914108979609614",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "Vue 数据绑定解析",
-        "link": "https://juejin.im/post/6872908917970567175",
         "date": "2020-09-15"
       }
     ]
@@ -16350,6 +16350,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "深圳违停要 1000?",
+        "link": "https://www.v2ex.com/t/707581",
+        "date": "2020-09-16"
+      },
+      {
         "title": "v2ex 现在是国内的童鞋不能注册了吗？",
         "link": "https://www.v2ex.com/t/707580",
         "date": "2020-09-16"
@@ -16533,11 +16538,6 @@
         "title": "京东送错货了，处理速度过慢，该找谁投诉？",
         "link": "https://www.v2ex.com/t/707532",
         "date": "2020-09-16"
-      },
-      {
-        "title": "微信公众号会限流？",
-        "link": "https://www.v2ex.com/t/707531",
-        "date": "2020-09-16"
       }
     ]
   },
@@ -16546,6 +16546,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Let’s Encrypt实践指北 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13776&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flets-encryp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-16"
+      },
       {
         "title": "一页纸手把手教你怎么做敏捷项目管理 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13775&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -16640,11 +16645,6 @@
         "title": "图说敏捷项目管理中的价值 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13757&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management-value%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-09-16"
-      },
-      {
-        "title": "如何制作出让女朋友满意的大片 (zhuanlan.zhihu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13756&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F231068497%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-09-16"
       }
     ]
   },
@@ -16704,13 +16704,13 @@
         "date": "2020-09-16"
       },
       {
-        "title": "ASP.NET Core Cookie SameSite",
-        "link": "https://toutiao.io/k/42yb327",
+        "title": "浅谈如何搭建知识体系",
+        "link": "https://toutiao.io/k/2mquhr4",
         "date": "2020-09-16"
       },
       {
-        "title": "浅谈如何搭建知识体系",
-        "link": "https://toutiao.io/k/2mquhr4",
+        "title": "ASP.NET Core Cookie SameSite",
+        "link": "https://toutiao.io/k/42yb327",
         "date": "2020-09-16"
       },
       {
@@ -16729,13 +16729,13 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[译] Kubernetes：移除 CPU 限制，服务运行更快",
-        "link": "https://toutiao.io/k/qy6jqm2",
+        "title": "同城双活与异地多活架构分析",
+        "link": "https://toutiao.io/k/e1eh64z",
         "date": "2020-09-16"
       },
       {
-        "title": "同城双活与异地多活架构分析",
-        "link": "https://toutiao.io/k/e1eh64z",
+        "title": "[译] Kubernetes：移除 CPU 限制，服务运行更快",
+        "link": "https://toutiao.io/k/qy6jqm2",
         "date": "2020-09-16"
       },
       {
@@ -16754,28 +16754,48 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
+        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
+        "link": "https://toutiao.io/k/kps56d6",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 30 个网站产品落地页免费模板",
+        "link": "https://toutiao.io/k/qrs55xl",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-16"
       },
       {
@@ -16789,43 +16809,23 @@
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
-        "date": "2020-09-16"
-      },
-      {
         "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
         "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
+        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
+        "link": "https://toutiao.io/k/pz73jc0",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-16"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] [译] 如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要",
-        "link": "https://toutiao.io/k/kps56d6",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 30 个网站产品落地页免费模板",
-        "link": "https://toutiao.io/k/qrs55xl",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
         "date": "2020-09-16"
       }
     ]

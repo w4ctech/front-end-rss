@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 08:13:17，:rocket: 更新条数: +3414， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-16 08:25:22，:rocket: 更新条数: +3413， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-16-#杭州，北京，上海#-字节跳动电商业务研发团队招聘！](https://www.v2ex.com/t/707605) ![](assets/new.png)  
+- [2020-09-16-Java-process.waitFor-返回--1-是哪里出问题了？](https://www.v2ex.com/t/707602) ![](assets/new.png)  
 - [2020-09-16-#杭州，北京，上海#-字节跳动电商业务研发团队招聘，即刻“下单”，加入我们！](https://www.v2ex.com/t/707601) ![](assets/new.png)  
 - [2020-09-16-发现个好玩儿的：-Siri-会使-MacBook-Pro-风扇立即停转！](https://www.v2ex.com/t/707600) ![](assets/new.png)  
 - [2020-09-16-有无实现-windows-客户端程序表单自动填写的工具！](https://www.v2ex.com/t/707599) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-16-PHP-json_encode-问题](https://www.v2ex.com/t/707584) ![](assets/new.png)  
 - [2020-09-16-AirPods-Pro-的空间音频开关的效果？](https://www.v2ex.com/t/707583) ![](assets/new.png)  
 - [2020-09-16-上海-迷鹿音乐-人工智能算法-15-30K-寻找热爱音乐的小伙伴的加入](https://www.v2ex.com/t/707582) ![](assets/new.png)  
-- [2020-09-16-深圳违停要-1000?](https://www.v2ex.com/t/707581) ![](assets/new.png)  
-- [2020-09-16-v2ex-现在是国内的童鞋不能注册了吗？](https://www.v2ex.com/t/707580) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,8 +1128,8 @@
 - [2020-09-16-Spring-事务是如何应用到你的业务场景中的？](https://toutiao.io/k/a2zzp9y) ![](assets/new.png)  
 - [2020-09-16-每个-Spark-工程师都应该知道的五种-Join-策略](https://toutiao.io/k/hg9q63k) ![](assets/new.png)  
 - [2020-09-16-自动化回归问题的一二三](https://toutiao.io/k/8g29shf) ![](assets/new.png)  
-- [2020-09-16-详解增强算术赋值：“-=”-操作是怎么实现的？](https://toutiao.io/k/iuyl9j7) ![](assets/new.png)  
 - [2020-09-16-Android-端代码染色原理及技术实践](https://toutiao.io/k/985a7a9) ![](assets/new.png)  
+- [2020-09-16-详解增强算术赋值：“-=”-操作是怎么实现的？](https://toutiao.io/k/iuyl9j7) ![](assets/new.png)  
 - [2020-09-16-浅谈如何搭建知识体系](https://toutiao.io/k/2mquhr4) ![](assets/new.png)  
 - [2020-09-16-ASP.NET-Core-Cookie-SameSite](https://toutiao.io/k/42yb327) ![](assets/new.png)  
 - [2020-09-16-聚焦-Android-11：开发语言](https://toutiao.io/k/9w4z4m2) ![](assets/new.png)  

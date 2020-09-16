@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-16 06:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-16 07:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -39,7 +39,6 @@
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
 - [2020-09-16-Base-深圳阿里中心支付宝香港团队-2020-招聘前端岗位-可加钉钉/微信聊-0916](https://www.v2ex.com/t/707555) 
 - [2020-09-16-平安科技招聘-前端+测试内勤-965-16-薪+-上海-崂山路](https://www.v2ex.com/t/707543) 
-- [2020-09-16-抖音工具线核心开发工程师招聘，流程快，帮查进度](https://www.v2ex.com/t/707525) 
 - [2020-09-16-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
 - [2020-09-16-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
 - [2020-09-14-日赚1万5!暴利黑客行业“无需面试”~](https://sec.thief.one/article_content?a_id=f71799c45649c086991b5929b36fbee5) 

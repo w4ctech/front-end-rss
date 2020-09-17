@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 12:48:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 13:03:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,14 +29,6 @@
 - [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
 - [2020-09-08-你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e) 
 - [2020-09-16-15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/6132906ae7deb3d51731b82fc93b3f87) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
@@ -45,7 +37,7 @@
 - [2020-09-17-iOS-14,-Safari-打开百度,-今天卡死-3-次了](https://www.v2ex.com/t/708039) 
 - [2020-09-17-请求有并发的时候，该怎么处理数据](https://www.v2ex.com/t/708022) 
 - [2020-09-17-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-17-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
+- [2020-09-17-绿盟科技:用可信计算3.0筑牢网络安全防线](https://sec.thief.one/article_content?a_id=e2a7f4c1eec4cd205a66dbb32a8badc4) 
 - [2020-09-17-【京东招聘】BZBS!我说一个数,京东安全招聘N²人](https://sec.thief.one/article_content?a_id=fb3709e9d1aeb92f8f5b3af1fee43dbd) 
 - [2020-09-17-移动安全三|一道CTF题的apk逆向实战](https://sec.thief.one/article_content?a_id=ad23001c524bb6ccc392ee057f3165df) 
 - [2020-09-17-仿冒、钓鱼、黑客入侵……警惕邮件安全这些“坑”](https://sec.thief.one/article_content?a_id=c565ff80de3f662fd6f8a931dd67f2eb) 
@@ -83,5 +75,3 @@
 - [2020-09-15-先声夺人|《2020年数据安全典型实践案例》云鼎获荐](https://sec.thief.one/article_content?a_id=b61a397f5b2547c8c1f0c68deae5a65a) 
 - [2020-09-15-字节跳动“安全范儿”-高校挑战赛全面启动!](https://sec.thief.one/article_content?a_id=f9b6e208225aece48db3740a56f9b552) 
 - [2020-09-15-签约合作-|-国舜股份助力湖南某银行Web应用安全防护升级](https://sec.thief.one/article_content?a_id=9cc021795dc041c4b7c8932f1832a351) 
-- [2020-09-15-安恒安全运营中心威胁情报总结-DAY4](https://sec.thief.one/article_content?a_id=0ffeea06e94bf982bfe7d217a9794b27) 
-- [2020-09-15-2020年中国网络安全成长之星&潜力之星榜单发布](https://sec.thief.one/article_content?a_id=56e10fcc8596a2037828191e87591ad8) 

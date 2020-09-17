@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 12:48:55，:rocket: 更新条数: +3642， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 13:03:43，:rocket: 更新条数: +3418， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,11 @@
 </summary>
 
 
+- [2020-09-17-微软提交补丁，用-Linux-替代-Hyper-V-根分区的-Windows](https://www.v2ex.com/t/708071) ![](assets/new.png)  
+- [2020-09-17-真是见不得人取个千位下整还非要用-math-包。](https://www.v2ex.com/t/708070) ![](assets/new.png)  
+- [2020-09-17-ios14--1-屏的系统小组件和自定义组件隔得有点宽啊，而且还不支持自定义组件在顶上。感觉没有了以前那种一体感](https://www.v2ex.com/t/708069) ![](assets/new.png)  
+- [2020-09-17-才发现，原来-iOS14-的只允许访问选中照片权限功能，是一个很恶心的设计。库克为了既要当婊～子又要立牌坊也是想尽了办法。](https://www.v2ex.com/t/708068) ![](assets/new.png)  
+- [2020-09-17-哪些邮箱客户端可以设置只接收-30-天内的邮件](https://www.v2ex.com/t/708066) ![](assets/new.png)  
 - [2020-09-17-血的教训-WIN10-绑定微软账户的锅](https://www.v2ex.com/t/708065) ![](assets/new.png)  
 - [2020-09-17-2020-年-9-月了，因为工作需要买了台二手-thinkpad-t460，希望大家帮我鉴定一下值不值](https://www.v2ex.com/t/708064) ![](assets/new.png)  
 - [2020-09-17-你喜欢扔东西吗？](https://www.v2ex.com/t/708063) ![](assets/new.png)  
@@ -1092,11 +1077,6 @@
 - [2020-09-17-请问各位大佬，-2500-以下最好的-27-寸-4K-显示器是哪一款？](https://www.v2ex.com/t/708051) ![](assets/new.png)  
 - [2020-09-17-为什么无线路由器会时不时限速](https://www.v2ex.com/t/708050) ![](assets/new.png)  
 - [2020-09-17-有没有模板关于写工作成绩的要英文](https://www.v2ex.com/t/708049) ![](assets/new.png)  
-- [2020-09-17-iPhone-12-Pro-Max-跑分泄露](https://www.v2ex.com/t/708048) ![](assets/new.png)  
-- [2020-09-17-显示器怎么播放多台硬盘录像机里面的监控画面](https://www.v2ex.com/t/708047) ![](assets/new.png)  
-- [2020-09-17-在线教育还有机会么？](https://www.v2ex.com/t/708042) ![](assets/new.png)  
-- [2020-09-17-上海蚂蚁金服-前端开发p6-p7---芝麻信用](https://www.v2ex.com/t/708041) ![](assets/new.png)  
-- [2020-09-17-坐标北京，年龄-28.5，六年研发月入-31K，什么水平？长时间没跳槽，已经不知道行情了。知乎及阴阳怪气吹逼用户请绕道。](https://www.v2ex.com/t/708040) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1170,6 +1150,10 @@
 </summary>
 
 
+- [2020-09-17-总第009期-|-攻防对抗,情报先行!](https://sec.thief.one/article_content?a_id=78a98a6f975e9b796a7fa3e766d404cb) ![](assets/new.png)  
+- [2020-09-17-【相约2020网安周】32支队伍3天“争霸”-今年首场国家级线下网络安...](https://sec.thief.one/article_content?a_id=d246c8ecad50f559f0a999a1385d8105) ![](assets/new.png)  
+- [2020-09-17-郑州市委书记徐立毅会见奇安信齐向东一行](https://sec.thief.one/article_content?a_id=7ef20d91443a76247f4802c94a6ab211) ![](assets/new.png)  
+- [2020-09-17-绿盟科技:用可信计算3.0筑牢网络安全防线](https://sec.thief.one/article_content?a_id=e2a7f4c1eec4cd205a66dbb32a8badc4) ![](assets/new.png)  
 - [2020-09-17-我的名片能运行Linux和Python,还能玩2048小游戏,成本只要20元](https://sec.thief.one/article_content?a_id=fd0ceee3c4d2092f5666f7b5f13f6533) ![](assets/new.png)  
 - [2020-09-17-【京东招聘】BZBS!我说一个数,京东安全招聘N²人](https://sec.thief.one/article_content?a_id=fb3709e9d1aeb92f8f5b3af1fee43dbd) ![](assets/new.png)  
 - [2020-09-17-澳大利亚前总理Tony-Abbott个人隐私数据泄露](https://sec.thief.one/article_content?a_id=9232f01a78557e758e06cc31e3ba244b) ![](assets/new.png)  
@@ -1186,10 +1170,6 @@
 - [2020-09-17-“隐身衣”挑战通关Tips-|自动驾驶CTF之AI感知攻防赛题介绍](https://sec.thief.one/article_content?a_id=1118f9765493144dd6c2becfc18b93ba) ![](assets/new.png)  
 - [2020-09-17-韩国政府计划向群众推出针对住房管理的区块链投票](https://sec.thief.one/article_content?a_id=8ec6ed56ffc07cb8c6c13c22bc1d55a3) ![](assets/new.png)  
 - [2020-09-17-【辟谣】关于近期各大厂商安全漏洞的声明合集](https://sec.thief.one/article_content?a_id=171aa30a4da7607d96aba9941f001640) ![](assets/new.png)  
-- [2020-09-17-K神手札:比特币重回11000美金,推土式上涨重现](https://sec.thief.one/article_content?a_id=449aad84d68c2b01ef44736d11746320) ![](assets/new.png)  
-- [2020-09-17-PWN小白入门](https://sec.thief.one/article_content?a_id=5a104da88fbb4adb5b49b82f42c26fd7) ![](assets/new.png)  
-- [2020-09-17-使用越来越普遍的二维码潜藏不少安全风险](https://sec.thief.one/article_content?a_id=58dce7a7082abbbe8ca7b23946570e13) ![](assets/new.png)  
-- [2020-09-17-BLESA蓝牙攻击影响数十亿设备](https://sec.thief.one/article_content?a_id=e8cc6efec9b79db2f4768e28a2f2604b) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

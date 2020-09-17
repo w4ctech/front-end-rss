@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-17 01:39:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 01:46:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-17-iOS-14-发布了，-macOS-11-却没发布？-iOS-14-和-macOS-10.15-之间可以同步-iCloud-Safari-Tab-吗？可以用-Hands-off-吗](https://www.v2ex.com/t/707790) 
+- [2020-09-17-我有一个大胆的预言：-iPad-Air4-会步后尘-Mini3-的后尘](https://www.v2ex.com/t/707789) 
 - [2020-09-17-在-OpenJDK-15，腾讯解决的-issue-比阿里多](https://www.v2ex.com/t/707788) 
 - [2020-09-17-IOS14-可以看到是否有运营商锁了](https://www.v2ex.com/t/707787) 
 - [2020-09-17-为什么国外有些软件，如-VMware，-alfred-是用激活码激活，而不是登录账号云激活呢？](https://www.v2ex.com/t/707786) 
@@ -46,5 +48,3 @@
 - [2020-09-16-提示-Safari-14-升级，升级完成后-Edge-浏览器挂了？](https://www.v2ex.com/t/707747) 
 - [2020-09-16-天津这些年有什么变化吗？](https://www.v2ex.com/t/707746) 
 - [2020-09-16-Apple-新品-Apple-Store-今天有新品真机体验嘛？-Apple-Watch-Series-6](https://www.v2ex.com/t/707745) 
-- [2020-09-16-中国电信也全国-ESIM-一号双终端了！](https://www.v2ex.com/t/707740) 
-- [2020-09-16-iOS-14-切换商店账号的办法](https://www.v2ex.com/t/707739) 

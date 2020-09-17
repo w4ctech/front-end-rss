@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 12:33:36，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 12:39:36，:rocket: 更新条数: +3642， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,10 @@
 </summary>
 
 
+- [2020-09-17-血的教训-WIN10-绑定微软账户的锅](https://www.v2ex.com/t/708065) ![](assets/new.png)  
+- [2020-09-17-2020-年-9-月了，因为工作需要买了台二手-thinkpad-t460，希望大家帮我鉴定一下值不值](https://www.v2ex.com/t/708064) ![](assets/new.png)  
+- [2020-09-17-你喜欢扔东西吗？](https://www.v2ex.com/t/708063) ![](assets/new.png)  
+- [2020-09-17-吐槽下，队员太坑，逻辑能力差，没有宏观思维，经常要返工，当个组长很累](https://www.v2ex.com/t/708062) ![](assets/new.png)  
 - [2020-09-17-杭州-蚂蚁金服-Java-开发/数据开发-商家增长团队持续招人中，流程快，速来！](https://www.v2ex.com/t/708061) ![](assets/new.png)  
 - [2020-09-17-毕业一年多了，竟然还能用教育优惠。。。](https://www.v2ex.com/t/708060) ![](assets/new.png)  
 - [2020-09-17-更新完-iOS14-后-safari-里老是自动添加移动的一些书签-删了过会还有](https://www.v2ex.com/t/708059) ![](assets/new.png)  
@@ -1073,10 +1097,6 @@
 - [2020-09-17-在线教育还有机会么？](https://www.v2ex.com/t/708042) ![](assets/new.png)  
 - [2020-09-17-上海蚂蚁金服-前端开发p6-p7---芝麻信用](https://www.v2ex.com/t/708041) ![](assets/new.png)  
 - [2020-09-17-坐标北京，年龄-28.5，六年研发月入-31K，什么水平？长时间没跳槽，已经不知道行情了。知乎及阴阳怪气吹逼用户请绕道。](https://www.v2ex.com/t/708040) ![](assets/new.png)  
-- [2020-09-17-iOS-14,-Safari-打开百度,-今天卡死-3-次了](https://www.v2ex.com/t/708039) ![](assets/new.png)  
-- [2020-09-17-windows10-2004-老是死机](https://www.v2ex.com/t/708038) ![](assets/new.png)  
-- [2020-09-17-我又来啦！再次更新个人主页](https://www.v2ex.com/t/708036) ![](assets/new.png)  
-- [2020-09-17-Python-,-Nodejs,-Latex-为什么所有的脚本语言在-Windows-上执行起来都比在-Linux-上慢很多](https://www.v2ex.com/t/708035) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

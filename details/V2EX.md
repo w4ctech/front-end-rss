@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-17 01:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 01:06:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-17-ios14-显示设备充电状态小部件怎样把-iPad-和-pencil-都给放进去](https://www.v2ex.com/t/707769) 
 - [2020-09-17-所有的自动付费订阅都是耍流氓](https://www.v2ex.com/t/707768) 
 - [2020-09-17-iPhone-8-有必要升级-ios14-吗](https://www.v2ex.com/t/707767) 
 - [2020-09-17-微软账号莫名被封，一个好习惯救我于水火](https://www.v2ex.com/t/707766) 

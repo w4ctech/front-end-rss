@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-09-17 07:34:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 07:47:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-17-有没有可以备份-sd-卡内容的设备，不需要电脑](https://www.v2ex.com/t/707952) 
+- [2020-09-17-go-sword-一键生成-MySQL-的-CRUD-管理后台界面-福利](https://www.v2ex.com/t/707951) 
+- [2020-09-17-快一个月了用户不到-2000，好心累呀](https://www.v2ex.com/t/707950) 
+- [2020-09-17-怎么对接老是“提问题”的客户端开发者？](https://www.v2ex.com/t/707949) 
 - [2020-09-17-突然发现-deno-是个好东西](https://www.v2ex.com/t/707948) 
 - [2020-09-17-ios14-照片权限只允许访问选中的照片](https://www.v2ex.com/t/707946) 
 - [2020-09-17-go-sword-一键生成-MySQL-的-CRUD-管理后台界面-福利](https://www.v2ex.com/t/707945) 
@@ -41,7 +45,3 @@
 - [2020-09-17-不是说-iPad-os14-和-iOS14-支持-Google-的-vp9-了](https://www.v2ex.com/t/707906) 
 - [2020-09-17-如何克服恐惧感](https://www.v2ex.com/t/707905) 
 - [2020-09-17-有没有-PGP-desktop-的安装包？](https://www.v2ex.com/t/707903) 
-- [2020-09-17-《TENET-天能》不要尝试理解，而是感受它](https://www.v2ex.com/t/707902) 
-- [2020-09-17-IOS14-资源库好难用，能不能关闭！小插件-APP-目前支持和适配太少了！欢迎讨论](https://www.v2ex.com/t/707901) 
-- [2020-09-17-iOS14-的-Safari-浏览器怎么打开网页翻译？](https://www.v2ex.com/t/707900) 
-- [2020-09-17-Apple-One-怎么订阅？](https://www.v2ex.com/t/707899) 

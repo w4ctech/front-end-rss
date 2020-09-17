@@ -16796,6 +16796,36 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "GitHub上最励志的计算机自学教程，绝对牛B",
+        "link": "https://www.ershicimi.com/p/a3a31e96c60c3e1e44882f7edc1b12a2",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "整理了15个好用的API接口管理免费神器，随便挑...",
+        "link": "https://www.ershicimi.com/p/fcefa7098b8a3dc8f7957faa7d48631f",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "熬了一个通宵，终于把Reids的7千万个Key删完了，今天脑子都嗡嗡响！",
+        "link": "https://www.ershicimi.com/p/fa2b93757b73c3ba06aa39cdf6de13a1",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "面试中关于JVM和Redis的问题，看这些就够了",
+        "link": "https://www.ershicimi.com/p/2cc5440f815a47312e3ab207348beb91",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "卧槽：这款 SQL自动检查神器，吊炸天的功能，真TMD多！！",
+        "link": "https://www.ershicimi.com/p/8b7f8607d0db98fbc95b2b173d7c6543",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "Spring Boot 中的 RestTemplate不好用？试试 Retrofit ！",
+        "link": "https://www.ershicimi.com/p/616474b2dfa6d4ccff9b1e12bcebe965",
+        "date": "2020-09-15"
+      },
+      {
         "title": "API 选型非得 Gateway？",
         "link": "https://www.ershicimi.com/p/cc5a2566631a0fbf38bcf012938a0ac5",
         "date": "2020-09-15"
@@ -16864,36 +16894,6 @@
         "title": "为什么 Redis 要比 Memcached 更火？",
         "link": "https://www.ershicimi.com/p/86f6bf89758f8ce02795855682497ad6",
         "date": "2020-09-11"
-      },
-      {
-        "title": "点赞模块设计：Redis缓存 + 定时写入数据库实现高性能点赞功能",
-        "link": "https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "分享400多道算法题，来挑战吧",
-        "link": "https://www.ershicimi.com/p/4e88bfd1eb96ea5426860ad1aa28700b",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "写这么骚的代码，真不怕被同事揍么？",
-        "link": "https://www.ershicimi.com/p/4bcaaa6722516d9bd6e47236490031d2",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "你的登录接口真的安全吗？",
-        "link": "https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "支付宝二面：Mybatis接口Mapper内的方法为啥不能重载吗？我直接懵逼了...",
-        "link": "https://www.ershicimi.com/p/99f6a7a94269be4d747af02899618524",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "为什么程序员都不喜欢使用 switch ，而是大量的 if……else if ？",
-        "link": "https://www.ershicimi.com/p/88eb308e4bf0cff894702cd7cb62615c",
-        "date": "2020-09-09"
       }
     ]
   },
@@ -17476,6 +17476,71 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "贝壳找房内推移动端, Java ,FE 各种岗位",
+        "link": "https://www.v2ex.com/t/707823",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "iPhone 8 充电的时候，侧面边框摸起来带电~",
+        "link": "https://www.v2ex.com/t/707822",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "2020 年了，有什么和 K3 大致相等带机量的路由吗，性价比可以低一些，",
+        "link": "https://www.v2ex.com/t/707821",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "怎么查看手机上已经安装的 APP 应用的 SDK 版本",
+        "link": "https://www.v2ex.com/t/707820",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "家里 WiFi 12 点准时断一波 不断 WiFi 连接 就是卡一下 重连就好了",
+        "link": "https://www.v2ex.com/t/707819",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[深圳南山] SAAS 公司秦丝科技 15K-25K+期权诚招高级前端开发",
+        "link": "https://www.v2ex.com/t/707818",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "自用套路云票，低价抛售，需要的联系",
+        "link": "https://www.v2ex.com/t/707816",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "macOS 上居然推送了 Safari 14 的更新，你更了吗？",
+        "link": "https://www.v2ex.com/t/707815",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "做了个 Pad 专用的原型图设计的 demo",
+        "link": "https://www.v2ex.com/t/707814",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "你上次蹲厕所没看手机是什么时候以前的事了？",
+        "link": "https://www.v2ex.com/t/707813",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "国庆带女友回家，对女友回家的表现没有信心怎么办。。",
+        "link": "https://www.v2ex.com/t/707812",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "目前 iOS 想学后台从哪个语言，什么资料开始入手比较好",
+        "link": "https://www.v2ex.com/t/707811",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "人民币持续升值，对国内股市的影响",
+        "link": "https://www.v2ex.com/t/707810",
+        "date": "2020-09-17"
+      },
+      {
         "title": "看到 VGA 公母转接头感觉鸡肋，问客服无果，来这里也问下使用场景",
         "link": "https://www.v2ex.com/t/707809",
         "date": "2020-09-17"
@@ -17634,76 +17699,6 @@
         "title": "有关校园网多拨的一个问题",
         "link": "https://www.v2ex.com/t/707774",
         "date": "2020-09-17"
-      },
-      {
-        "title": "Apple Watch 6 在 9 月 17 日的几点开始订购",
-        "link": "https://www.v2ex.com/t/707773",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "两数之和 III-数据结构设计",
-        "link": "https://www.v2ex.com/t/707772",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "iphone8 更新了 ios 14 了，传说中的占用剪贴板提醒在哪里？",
-        "link": "https://www.v2ex.com/t/707771",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "你们有没有遇到过 iOS 的 APP 图标大小不一致的情况",
-        "link": "https://www.v2ex.com/t/707770",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "ios14 显示设备充电状态小部件怎样把 iPad 和 pencil 都给放进去",
-        "link": "https://www.v2ex.com/t/707769",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "所有的自动付费订阅都是耍流氓",
-        "link": "https://www.v2ex.com/t/707768",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "iPhone 8 有必要升级 ios14 吗",
-        "link": "https://www.v2ex.com/t/707767",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "微软账号莫名被封，一个好习惯救我于水火",
-        "link": "https://www.v2ex.com/t/707766",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "独立开发者沙龙·周报：都有光明的前途(第 2 期)",
-        "link": "https://www.v2ex.com/t/707765",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "ios 14 的轻点背面，我息屏后怎么轻点不了了？\r\n必须亮屏状态才可以轻点吗？",
-        "link": "https://www.v2ex.com/t/707764",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "双非软件工程-数据挖掘专硕研一新生关于方向问题的疑问",
-        "link": "https://www.v2ex.com/t/707763",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "你是怎么处理日常收集的网络信息的？",
-        "link": "https://www.v2ex.com/t/707762",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "有没有算经纬度坐标的直线距离的工具或网站？",
-        "link": "https://www.v2ex.com/t/707761",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "有没有谁了解，青云主机怎么样呢？",
-        "link": "https://www.v2ex.com/t/707760",
-        "date": "2020-09-17"
       }
     ]
   },
@@ -17850,13 +17845,13 @@
         "date": "2020-09-17"
       },
       {
-        "title": "浅谈 Flink 的 checkPoint 机制",
-        "link": "https://toutiao.io/k/26uquvb",
+        "title": "Oh! Binlog 还能这样用之 Canal 篇",
+        "link": "https://toutiao.io/k/09a5edg",
         "date": "2020-09-17"
       },
       {
-        "title": "Oh! Binlog 还能这样用之 Canal 篇",
-        "link": "https://toutiao.io/k/09a5edg",
+        "title": "浅谈 Flink 的 checkPoint 机制",
+        "link": "https://toutiao.io/k/26uquvb",
         "date": "2020-09-17"
       },
       {
@@ -17900,43 +17895,13 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
-        "link": "https://toutiao.io/k/pz73jc0",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
         "date": "2020-09-17"
       },
       {
@@ -17945,13 +17910,33 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
+        "link": "https://toutiao.io/k/pz73jc0",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
         "date": "2020-09-17"
       },
       {
@@ -17960,18 +17945,28 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-17"
-      },
-      {
         "title": "[推荐] 有赞零售移动 CI/CD 实践",
         "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-17"
       },
       {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-17"
+      },
+      {
         "title": "[推荐] Golang 汇编入门知识总结",
         "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-17"
       }
     ]

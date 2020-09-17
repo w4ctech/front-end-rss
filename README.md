@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 02:13:22，:rocket: 更新条数: +3418， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 02:26:14，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-17-软件架构原则注记](https://www.v2ex.com/t/707805) ![](assets/new.png)  
+- [2020-09-17-话说为什么建地铁是在晚上？](https://www.v2ex.com/t/707804) ![](assets/new.png)  
+- [2020-09-17-前端实习一定要有项目吗？](https://www.v2ex.com/t/707803) ![](assets/new.png)  
 - [2020-09-17-白捡了一个淘汰下来的商用无线路由，大约是错觉？居然比家里新-wifi6-路由还流畅](https://www.v2ex.com/t/707802) ![](assets/new.png)  
 - [2020-09-17-30-岁的混子程序员，这个月终于-2-万收入了。](https://www.v2ex.com/t/707801) ![](assets/new.png)  
 - [2020-09-17-腾讯云十周年活动，最后一天。新拓用户可再打-8-折，存量用户可再打-9-折。](https://www.v2ex.com/t/707800) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-17-为什么国外有些软件，如-VMware，-alfred-是用激活码激活，而不是登录账号云激活呢？](https://www.v2ex.com/t/707786) ![](assets/new.png)  
 - [2020-09-17-想咨询下交通事故处理方面的法律法规，去哪里找律师靠谱，只是咨询下](https://www.v2ex.com/t/707785) ![](assets/new.png)  
 - [2020-09-17-来来来娱乐下，说一下你最讨厌什么样的人或者遇到过最“极品”的人](https://www.v2ex.com/t/707784) ![](assets/new.png)  
-- [2020-09-17-迫于-iphone6s-终于坏了,关于手机有几个选择帮忙给个参考](https://www.v2ex.com/t/707783) ![](assets/new.png)  
-- [2020-09-17-请问微信小程序可不可以只套一个壳,里面全部用-h5-来写,能通过审核吗?](https://www.v2ex.com/t/707782) ![](assets/new.png)  
-- [2020-09-17-在学一个计算机语言学什么好。](https://www.v2ex.com/t/707780) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,20 +1125,20 @@
 - [2020-09-17-CPU-中的程序是怎么运行起来的](https://toutiao.io/k/o53zxbu) ![](assets/new.png)  
 - [2020-09-17-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
 - [2020-09-17-从一段-Dubbo-源码到-CPU-分支预测的一次探险之旅](https://toutiao.io/k/em49ebn) ![](assets/new.png)  
-- [2020-09-17-浅谈-Flink-的-checkPoint-机制](https://toutiao.io/k/26uquvb) ![](assets/new.png)  
 - [2020-09-17-Oh!-Binlog-还能这样用之-Canal-篇](https://toutiao.io/k/09a5edg) ![](assets/new.png)  
+- [2020-09-17-浅谈-Flink-的-checkPoint-机制](https://toutiao.io/k/26uquvb) ![](assets/new.png)  
 - [2020-09-17-软件架构原则注记](https://toutiao.io/k/356u2n6) ![](assets/new.png)  
 - [2020-09-17-华为鸿蒙-2.0，让我遇见未来-|-码农周刊第-318-期](https://toutiao.io/k/6rprzrd) ![](assets/new.png)  
 - [2020-09-17-实测分享：当-jvm-遇到-mesos，究竟能不能隔离](https://toutiao.io/k/xcrnbu5) ![](assets/new.png)  
 - [2020-09-17-译-做一个全栈开发者是很难的，你需要知道这-9-件事](https://toutiao.io/k/1dbixz8) ![](assets/new.png)  
-- [2020-09-17-正确使用-wait/notify/notify-方法以及源码解析](https://toutiao.io/k/jgmofsp) ![](assets/new.png)  
 - [2020-09-17-如何使用-Kubernetes-管理中国高速公路上的-10-万边缘节点？](https://toutiao.io/k/1y2w2ix) ![](assets/new.png)  
+- [2020-09-17-正确使用-wait/notify/notify-方法以及源码解析](https://toutiao.io/k/jgmofsp) ![](assets/new.png)  
 - [2020-09-17-4-种激活函数详解，学到即赚到](https://toutiao.io/k/rm7r2sx) ![](assets/new.png)  
 - [2020-09-17-Gorm-V2-读操作](https://toutiao.io/k/3l0qjzb) ![](assets/new.png)  
-- [2020-09-17-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-17-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
+- [2020-09-17-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
 - [2020-09-17-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
-- [2020-09-17-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-17-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-17-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

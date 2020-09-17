@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-17 22:23:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 22:32:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-17-iOS14-正式版把-4K-视频播放砍掉了？](https://www.v2ex.com/t/708137) 
 - [2020-09-17-Vue-UI-框架选择:-Vuetify-vs.-BootstrapVue](https://www.v2ex.com/t/708136) 
 - [2020-09-17-有人买到-3080-了么](https://www.v2ex.com/t/708135) 
 - [2020-09-17-safari14-普及了是不是意味着-webp-也普及了](https://www.v2ex.com/t/708134) 
@@ -43,4 +44,3 @@
 - [2020-09-17-感觉-AWS-的轻量+CDN-很香，想长期用有没有充值办法？](https://www.v2ex.com/t/708090) 
 - [2020-09-17-iPhone-8-Plus-OTA-白苹果了](https://www.v2ex.com/t/708089) 
 - [2020-09-17-谁能推荐几个神价格爆料群啊？](https://www.v2ex.com/t/708088) 
-- [2020-09-17-求助替换脚本](https://www.v2ex.com/t/708087) 

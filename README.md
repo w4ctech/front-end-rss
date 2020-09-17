@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 16:03:51，:rocket: 更新条数: +3418， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 16:12:36，:rocket: 更新条数: +3418， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-17-iPad-无法-OTA](https://www.v2ex.com/t/708118) ![](assets/new.png)  
+- [2020-09-17-Powerbeats-Pro-也更新了固件-->-3A283](https://www.v2ex.com/t/708117) ![](assets/new.png)  
+- [2020-09-17-到底什么时候才能把-iPhone-上屏蔽过滤掉的信息不在手表上再震动提醒一遍？](https://www.v2ex.com/t/708116) ![](assets/new.png)  
 - [2020-09-17-我想做一个地球上最好用的在线工具网站，有人支持一下吗？](https://www.v2ex.com/t/708115) ![](assets/new.png)  
 - [2020-09-17-分享下我用-AirPods-2-代开启无缝连接的方法/经验分享](https://www.v2ex.com/t/708114) ![](assets/new.png)  
 - [2020-09-17-我的邮件验证一直没法通过，可以帮我解决一下么，我有回过邮件](https://www.v2ex.com/t/708113) ![](assets/new.png)  
@@ -1065,7 +1068,6 @@
 - [2020-09-17-IOS-14-说好的垃圾短信关键字过滤呢？](https://www.v2ex.com/t/708109) ![](assets/new.png)  
 - [2020-09-17-淘宝领了隐藏优惠券,再走自己的返利.那最终是谁得了钱呢?](https://www.v2ex.com/t/708108) ![](assets/new.png)  
 - [2020-09-17-震惊，-iPad-Pro10.5-竟然不支持-AirPods-Pro-的空间音频](https://www.v2ex.com/t/708106) ![](assets/new.png)  
-- [2020-09-17-Spotify-美区家庭订阅，稳定上车](https://www.v2ex.com/t/708104) ![](assets/new.png)  
 - [2020-09-17-同时支持小米和华为手机-NFC-的门锁有没有？](https://www.v2ex.com/t/708103) ![](assets/new.png)  
 - [2020-09-17-试用期困惑，求前辈们解答](https://www.v2ex.com/t/708102) ![](assets/new.png)  
 - [2020-09-17-你们觉得这个-ios14-小组件-widget-如果能放到锁屏上,-如何?](https://www.v2ex.com/t/708101) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-17-深圳高新南地铁站附近上班，深圳租房问题](https://www.v2ex.com/t/708096) ![](assets/new.png)  
 - [2020-09-17-今晚-GitHub-pages-突然无法访问](https://www.v2ex.com/t/708095) ![](assets/new.png)  
 - [2020-09-17-一起来探讨下-flaskrestful-和-djangorestframework-哪个用的多，这两个的选型哪个用的多呢？](https://www.v2ex.com/t/708093) ![](assets/new.png)  
-- [2020-09-17-找一个全栈技术员，网站二开。价格美丽。加-qq2531300636-V-型-18272157845](https://www.v2ex.com/t/708092) ![](assets/new.png)  
-- [2020-09-17-感觉-AWS-的轻量+CDN-很香，想长期用有没有充值办法？](https://www.v2ex.com/t/708090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

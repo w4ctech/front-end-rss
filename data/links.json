@@ -16355,6 +16355,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "看到 VGA 公母转接头感觉鸡肋，问客服无果，来这里也问下使用场景",
+        "link": "https://www.v2ex.com/t/707809",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "Watch Series 6 美国都开卖了，中国咋还没开始",
+        "link": "https://www.v2ex.com/t/707808",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "截止 9.17 ， ios 14 里各位有下载到第三方的好玩的 app 的桌面小组件吗",
+        "link": "https://www.v2ex.com/t/707807",
+        "date": "2020-09-17"
+      },
+      {
         "title": "软件架构原则注记",
         "link": "https://www.v2ex.com/t/707805",
         "date": "2020-09-17"
@@ -16568,21 +16583,6 @@
         "title": "有没有谁了解，青云主机怎么样呢？",
         "link": "https://www.v2ex.com/t/707760",
         "date": "2020-09-17"
-      },
-      {
-        "title": "关于：大数据杀熟行为 10 月 1 日起明令禁止",
-        "link": "https://www.v2ex.com/t/707759",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "996 真的高效吗？",
-        "link": "https://www.v2ex.com/t/707758",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "应届 Offer 选择，求各位前辈给个意见",
-        "link": "https://www.v2ex.com/t/707757",
-        "date": "2020-09-17"
       }
     ]
   },
@@ -16729,13 +16729,13 @@
         "date": "2020-09-17"
       },
       {
-        "title": "Oh! Binlog 还能这样用之 Canal 篇",
-        "link": "https://toutiao.io/k/09a5edg",
+        "title": "浅谈 Flink 的 checkPoint 机制",
+        "link": "https://toutiao.io/k/26uquvb",
         "date": "2020-09-17"
       },
       {
-        "title": "浅谈 Flink 的 checkPoint 机制",
-        "link": "https://toutiao.io/k/26uquvb",
+        "title": "Oh! Binlog 还能这样用之 Canal 篇",
+        "link": "https://toutiao.io/k/09a5edg",
         "date": "2020-09-17"
       },
       {
@@ -16779,8 +16779,18 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
         "date": "2020-09-17"
       },
       {
@@ -16789,33 +16799,8 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
         "date": "2020-09-17"
       },
       {
@@ -16824,8 +16809,8 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
+        "link": "https://toutiao.io/k/pz73jc0",
         "date": "2020-09-17"
       },
       {
@@ -16839,18 +16824,33 @@
         "date": "2020-09-17"
       },
       {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-17"
+      },
+      {
         "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
         "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-17"
       }
     ]

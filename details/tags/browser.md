@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 02:26:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 02:32:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,6 +33,7 @@
 - [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-17-Watch-Series-6-美国都开卖了，中国咋还没开始](https://www.v2ex.com/t/707808) 
 - [2020-09-17-PostgreSQL-with-Gorm-区分大小写的问题](https://www.v2ex.com/t/707799) 
 - [2020-09-17-Safari-升级到-14-版本以后有办法让个人收藏分多行排列吗？](https://www.v2ex.com/t/707794) 
 - [2020-09-17-iOS-14-发布了，-macOS-11-却没发布？-iOS-14-和-macOS-10.15-之间可以同步-iCloud-Safari-Tab-吗？可以用-Hands-off-吗](https://www.v2ex.com/t/707790) 

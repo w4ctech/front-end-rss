@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 21:12:10，:rocket: 更新条数: +3640， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 21:24:02，:rocket: 更新条数: +3639， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1081,7 +1081,6 @@
 - [2020-09-17-有人买到-3080-了么](https://www.v2ex.com/t/708135) ![](assets/new.png)  
 - [2020-09-17-safari14-普及了是不是意味着-webp-也普及了](https://www.v2ex.com/t/708134) ![](assets/new.png)  
 - [2020-09-17-病毒怎么破](https://www.v2ex.com/t/708133) ![](assets/new.png)  
-- [2020-09-17-求一个美区-apple-music+200g-icloud-车](https://www.v2ex.com/t/708132) ![](assets/new.png)  
 - [2020-09-17-炒饭近期进展----推荐系统实现、GIF-转-H.264、Flutter-App](https://www.v2ex.com/t/708131) ![](assets/new.png)  
 - [2020-09-17-偶尔通宵加班/还是常年-996](https://www.v2ex.com/t/708130) ![](assets/new.png)  
 - [2020-09-17-创业团队寻上海虹桥世界中心附近的办公空间，-30-平米左右，精装简装都可，无注册需求。](https://www.v2ex.com/t/708129) ![](assets/new.png)  
@@ -1097,6 +1096,7 @@
 - [2020-09-17-Powerbeats-Pro-也更新了固件-->-3A283](https://www.v2ex.com/t/708117) ![](assets/new.png)  
 - [2020-09-17-到底什么时候才能把-iPhone-上屏蔽过滤掉的信息不在手表上再震动提醒一遍？](https://www.v2ex.com/t/708116) ![](assets/new.png)  
 - [2020-09-17-我想做一个地球上最好用的在线工具网站，有人支持一下吗？](https://www.v2ex.com/t/708115) ![](assets/new.png)  
+- [2020-09-17-分享下我用-AirPods-2-代开启无缝连接的方法/经验分享](https://www.v2ex.com/t/708114) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-17 23:11:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 23:22:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-17-支付宝支持关闭剪贴板功能。](https://www.v2ex.com/t/708141) 
+- [2020-09-17-我现在的身体状况真可怕。。](https://www.v2ex.com/t/708140) 
 - [2020-09-17--iPhone-遇到同样的问题了：清除越狱后升级了-IOS14，但是提示无法检测更新。](https://www.v2ex.com/t/708139) 
 - [2020-09-17-上架抽专业版-Anchor：好用的-Mac-任务栏和通知中心](https://www.v2ex.com/t/708138) 
 - [2020-09-17-iOS14-正式版把-4K-视频播放砍掉了？](https://www.v2ex.com/t/708137) 
@@ -43,4 +45,3 @@
 - [2020-09-17-深圳高新南地铁站附近上班，深圳租房问题](https://www.v2ex.com/t/708096) 
 - [2020-09-17-今晚-GitHub-pages-突然无法访问](https://www.v2ex.com/t/708095) 
 - [2020-09-17-一起来探讨下-flaskrestful-和-djangorestframework-哪个用的多，这两个的选型哪个用的多呢？](https://www.v2ex.com/t/708093) 
-- [2020-09-17-感觉-AWS-的轻量+CDN-很香，想长期用有没有充值办法？](https://www.v2ex.com/t/708090) 

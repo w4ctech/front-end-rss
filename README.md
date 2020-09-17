@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 23:11:32，:rocket: 更新条数: +3639， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 23:22:04，:rocket: 更新条数: +3640， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-17-支付宝支持关闭剪贴板功能。](https://www.v2ex.com/t/708141) ![](assets/new.png)  
+- [2020-09-17-我现在的身体状况真可怕。。](https://www.v2ex.com/t/708140) ![](assets/new.png)  
 - [2020-09-17--iPhone-遇到同样的问题了：清除越狱后升级了-IOS14，但是提示无法检测更新。](https://www.v2ex.com/t/708139) ![](assets/new.png)  
 - [2020-09-17-上架抽专业版-Anchor：好用的-Mac-任务栏和通知中心](https://www.v2ex.com/t/708138) ![](assets/new.png)  
 - [2020-09-17-iOS14-正式版把-4K-视频播放砍掉了？](https://www.v2ex.com/t/708137) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-17-分享个寄超快快递的经验~](https://www.v2ex.com/t/708122) ![](assets/new.png)  
 - [2020-09-17-Bitwarden-的-Websocket-是用来做什么的，关闭了也不影响使用啊](https://www.v2ex.com/t/708121) ![](assets/new.png)  
 - [2020-09-17-有人在-iOS-14-里用上新版-NextDNS-了吗？](https://www.v2ex.com/t/708119) ![](assets/new.png)  
-- [2020-09-17-iPad-无法-OTA](https://www.v2ex.com/t/708118) ![](assets/new.png)  
-- [2020-09-17-Powerbeats-Pro-也更新了固件-->-3A283](https://www.v2ex.com/t/708117) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1155,9 +1155,9 @@
 - [2020-09-17-实测分享：当-jvm-遇到-mesos，究竟能不能隔离](https://toutiao.io/k/xcrnbu5) ![](assets/new.png)  
 - [2020-09-17-4-种激活函数详解，学到即赚到](https://toutiao.io/k/rm7r2sx) ![](assets/new.png)  
 - [2020-09-17-论程序的健壮性：就看-Redis](https://toutiao.io/k/xcymg80) ![](assets/new.png)  
+- [2020-09-17-今日头条品质优化：图文详情页秒开实践](https://toutiao.io/k/ifwgeuh) ![](assets/new.png)  
 - [2020-09-17-Gorm-V2-读操作](https://toutiao.io/k/3l0qjzb) ![](assets/new.png)  
 - [2020-09-17-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
-- [2020-09-17-今日头条品质优化：图文详情页秒开实践](https://toutiao.io/k/ifwgeuh) ![](assets/new.png)  
 - [2020-09-17-译-Linux-desktop-环境下的资源管理](https://toutiao.io/k/v10iayi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

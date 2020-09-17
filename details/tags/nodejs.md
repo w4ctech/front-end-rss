@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 13:34:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 13:47:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -10,8 +10,6 @@
 - [2020-07-13-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
 - [2020-09-09-实战Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/135231f1360380a7aed3e813e8f18695) 
 - [2020-08-02-如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082) 
-- [2020-09-15-【译】深入了解V8](https://www.ershicimi.com/p/f146696392d62087be2f1c565ba505c6) 
-- [2020-09-05-包邮免费送本啦（Node.js-初学者进）](https://www.ershicimi.com/p/c1b72640d1da178d7bddf666100818c5) 
 - [2020-09-12-2020年，你应该知道-23-个非常有用的-NodeJs-库](https://www.ershicimi.com/p/798661a5bcfcfb22e65df66de8d51a51) 
 - [2020-09-09-Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/b3cac8cd587b06157d6b9b1d146fea5a) 
 - [2020-09-15-通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/b99babdfb00269bc556a772fde985927) 

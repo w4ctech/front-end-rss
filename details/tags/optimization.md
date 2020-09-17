@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 11:34:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 11:47:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -31,4 +31,3 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-09-17-如何有效向苹果提交系统输入法优化建议？](https://www.v2ex.com/t/708024) 
 - [2020-09-17-今日头条品质优化：图文详情页秒开实践](https://toutiao.io/k/ifwgeuh) 
-- [2020-09-16-三种-MySQL-大表优化方案](https://sec.thief.one/article_content?a_id=f9a26bb89913152dbdc9db6753aee3e3) 

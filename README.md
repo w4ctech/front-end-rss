@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 07:12:33，:rocket: 更新条数: +3414， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 07:23:26，:rocket: 更新条数: +3416， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,13 @@
 </summary>
 
 
+- [2020-09-17-MSYS2-和-Windows-Terminal-联合工作应该怎样配置？](https://www.v2ex.com/t/707942) ![](assets/new.png)  
+- [2020-09-17-试试-👀](https://www.v2ex.com/t/707941) ![](assets/new.png)  
+- [2020-09-17-同事有狐臭真难办呀。。。。](https://www.v2ex.com/t/707940) ![](assets/new.png)  
+- [2020-09-17-iPhone-换-android-手机，播客、music、iCloud-上的数据不知道是否能支持迁移？](https://www.v2ex.com/t/707939) ![](assets/new.png)  
+- [2020-09-17-友情提醒：更新-iOS14-以后，请检查一下设置里面的铃声音量。今天早上不知为何闹钟没响，起床一看闹铃音量被重置为-0-了。](https://www.v2ex.com/t/707938) ![](assets/new.png)  
+- [2020-09-17-ios-最新版的"想要连接到本地网络上的设备"-这个应用是什么意思啊](https://www.v2ex.com/t/707937) ![](assets/new.png)  
+- [2020-09-17-窗口焦点经常丢失，怎么查原因](https://www.v2ex.com/t/707936) ![](assets/new.png)  
 - [2020-09-17-如何正确的搭建反代](https://www.v2ex.com/t/707934) ![](assets/new.png)  
 - [2020-09-17-这个节点话题有点少啊？](https://www.v2ex.com/t/707933) ![](assets/new.png)  
 - [2020-09-17-帮助帖子脚本测试被封-ip-403-了](https://www.v2ex.com/t/707931) ![](assets/new.png)  
@@ -1070,13 +1077,6 @@
 - [2020-09-17-吐槽：升完-ios14，-siri-好像更智障了？](https://www.v2ex.com/t/707919) ![](assets/new.png)  
 - [2020-09-17-请问大家是如何处理家里的鸡肋物件？](https://www.v2ex.com/t/707917) ![](assets/new.png)  
 - [2020-09-17-北京社招-字节跳动---移动-OS-教育，高级前端工程师-等热招职位，福利多多，快来加入我们吧](https://www.v2ex.com/t/707916) ![](assets/new.png)  
-- [2020-09-17-Karabiner-Elements-已支持-Big-Sur？](https://www.v2ex.com/t/707915) ![](assets/new.png)  
-- [2020-09-17-中行-APP-充话费立减-5-20，最低充值-30。](https://www.v2ex.com/t/707914) ![](assets/new.png)  
-- [2020-09-17-React-Native-上架-Apple-Store-被拒](https://www.v2ex.com/t/707913) ![](assets/new.png)  
-- [2020-09-17-Airpods-pro-不能长按切换降噪模式了？](https://www.v2ex.com/t/707912) ![](assets/new.png)  
-- [2020-09-17-老哥们，-watch-买-apple-care-值得吗？](https://www.v2ex.com/t/707911) ![](assets/new.png)  
-- [2020-09-17-前端实时检测一些异常访问-IP，然后通过-nginx-来阻止这些-ip-访问，-blocked_IPs-通过什么方式存储比较好？](https://www.v2ex.com/t/707910) ![](assets/new.png)  
-- [2020-09-17-除了-apple-music-还有那些音乐-app-支持空间音频？](https://www.v2ex.com/t/707909) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,6 +1088,7 @@
 </summary>
 
 
+- [2020-09-17-荔枝微课基础架构的演进与实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13778&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F250271369%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-17-更好的开卡，来聊聊非功能性需求-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13777&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthe-non-functional-requirements%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-17-Let’s-Encrypt实践指北-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13776&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flets-encryp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-17-一页纸手把手教你怎么做敏捷项目管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13775&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1107,7 +1108,6 @@
 - [2020-09-17-Google-推荐在-MVVM-架构中使用-Kotlin-Flow-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13761&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWknyggP5F8mjRiUcOStn3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-17-是时候上车-Jetpack-了，内含音乐播放器实例-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13760&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FawtTAUx47pjTcQVJxkMydA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-17-海外开发者账号上架总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13759&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2m91yKmgDJ3B7E-ZnpiFlw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-17-如何做好一场线上培训-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13758&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fa-good-online-training%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,8 +1128,8 @@
 - [2020-09-17-如何使用-Kubernetes-管理中国高速公路上的-10-万边缘节点？](https://toutiao.io/k/1y2w2ix) ![](assets/new.png)  
 - [2020-09-17-Oh!-Binlog-还能这样用之-Canal-篇](https://toutiao.io/k/09a5edg) ![](assets/new.png)  
 - [2020-09-17-软件架构原则注记](https://toutiao.io/k/356u2n6) ![](assets/new.png)  
-- [2020-09-17-从一段-Dubbo-源码到-CPU-分支预测的一次探险之旅](https://toutiao.io/k/em49ebn) ![](assets/new.png)  
 - [2020-09-17-译-做一个全栈开发者是很难的，你需要知道这-9-件事](https://toutiao.io/k/1dbixz8) ![](assets/new.png)  
+- [2020-09-17-从一段-Dubbo-源码到-CPU-分支预测的一次探险之旅](https://toutiao.io/k/em49ebn) ![](assets/new.png)  
 - [2020-09-17-浅谈-Flink-的-checkPoint-机制](https://toutiao.io/k/26uquvb) ![](assets/new.png)  
 - [2020-09-17-实测分享：当-jvm-遇到-mesos，究竟能不能隔离](https://toutiao.io/k/xcrnbu5) ![](assets/new.png)  
 - [2020-09-17-正确使用-wait/notify/notify-方法以及源码解析](https://toutiao.io/k/jgmofsp) ![](assets/new.png)  

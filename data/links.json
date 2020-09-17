@@ -16360,6 +16360,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MSYS2 和 Windows Terminal 联合工作应该怎样配置？",
+        "link": "https://www.v2ex.com/t/707942",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "试试 👀",
+        "link": "https://www.v2ex.com/t/707941",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "同事有狐臭真难办呀。。。。",
+        "link": "https://www.v2ex.com/t/707940",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "iPhone 换 android 手机，播客、music、iCloud 上的数据不知道是否能支持迁移？",
+        "link": "https://www.v2ex.com/t/707939",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "友情提醒：更新 iOS14 以后，请检查一下设置里面的铃声音量。今天早上不知为何闹钟没响，起床一看闹铃音量被重置为 0 了。",
+        "link": "https://www.v2ex.com/t/707938",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "ios 最新版的\"想要连接到本地网络上的设备\" 这个应用是什么意思啊",
+        "link": "https://www.v2ex.com/t/707937",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "窗口焦点经常丢失，怎么查原因",
+        "link": "https://www.v2ex.com/t/707936",
+        "date": "2020-09-17"
+      },
+      {
         "title": "如何正确的搭建反代",
         "link": "https://www.v2ex.com/t/707934",
         "date": "2020-09-17"
@@ -16523,31 +16558,6 @@
         "title": "前端萌新， offer 选择，请大佬指教",
         "link": "https://www.v2ex.com/t/707893",
         "date": "2020-09-17"
-      },
-      {
-        "title": "[实习] [微软亚洲研究院] 基于机器学习的爬虫检测实习生",
-        "link": "https://www.v2ex.com/t/707892",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "百度网盘下载进度条停止更新进度问题",
-        "link": "https://www.v2ex.com/t/707891",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "在海淀牡丹园附近工作，一个人，可接受租金上限 2000，越近越好，交通时间 30 分钟以内，请各位不吝推荐！",
-        "link": "https://www.v2ex.com/t/707890",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "aw 这个新的艺术家表盘就很有意思。",
-        "link": "https://www.v2ex.com/t/707888",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "各位工作电脑能上 BIg Sur 吗？",
-        "link": "https://www.v2ex.com/t/707887",
-        "date": "2020-09-17"
       }
     ]
   },
@@ -16556,6 +16566,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "荔枝微课基础架构的演进与实践 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13778&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F250271369%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-17"
+      },
       {
         "title": "更好的开卡，来聊聊非功能性需求 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13777&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthe-non-functional-requirements%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -16650,11 +16665,6 @@
         "title": "海外开发者账号上架总结 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13759&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2m91yKmgDJ3B7E-ZnpiFlw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-09-17"
-      },
-      {
-        "title": "如何做好一场线上培训 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13758&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fa-good-online-training%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-09-17"
       }
     ]
   },
@@ -16709,13 +16719,13 @@
         "date": "2020-09-17"
       },
       {
-        "title": "从一段 Dubbo 源码到 CPU 分支预测的一次探险之旅",
-        "link": "https://toutiao.io/k/em49ebn",
+        "title": "[译] 做一个全栈开发者是很难的，你需要知道这 9 件事",
+        "link": "https://toutiao.io/k/1dbixz8",
         "date": "2020-09-17"
       },
       {
-        "title": "[译] 做一个全栈开发者是很难的，你需要知道这 9 件事",
-        "link": "https://toutiao.io/k/1dbixz8",
+        "title": "从一段 Dubbo 源码到 CPU 分支预测的一次探险之旅",
+        "link": "https://toutiao.io/k/em49ebn",
         "date": "2020-09-17"
       },
       {
@@ -16764,58 +16774,13 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
-        "link": "https://toutiao.io/k/lsclo7b",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
-        "link": "https://toutiao.io/k/tscuwq8",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-17"
       },
       {
@@ -16824,8 +16789,48 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
         "date": "2020-09-17"
       },
       {
@@ -16834,8 +16839,13 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
         "date": "2020-09-17"
       }
     ]

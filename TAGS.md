@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-17 15:34:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 15:47:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -75,6 +75,15 @@
 
 
 
+- [【Vue社区】Vue优雅设计一个组件](https://www.ershicimi.com/p/7230f837307dccbce835587cc0c65dfe)
+- [【Vue社区】带你彻底搞懂Vue3的响应式原理！TypeScript从零实现基于Proxy的响应式库](https://www.ershicimi.com/p/8b10f42113d0085423d395070e24d72d)
+- [【Vue社区】字节跳动面试官：请你用Vue实现一个大文件上传和断点续传](https://www.ershicimi.com/p/a670d609b3ad6fb9a360fa50ff63b537)
+- [【Vue社区】vue移动端开发总结](https://www.ershicimi.com/p/16d6d5f6fa8b66524349cd93f51dbbe5)
+- [【Vue社区】面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89)
+- [【Vue社区】Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008)
+- [【Vue社区】打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2)
+- [【Vue社区】从零开发一套完整的vue项目开发环境](https://www.ershicimi.com/p/cab0fde7933f77481f19d7a7ccf21319)
+- [【Vue社区】Vue-CLI-4-发布：自动化升级过程，支持自定义包管理器](https://www.ershicimi.com/p/f3854cabca198728fee0c97ec0f825bf)
 - [【Vue中文社区】Vue-数据更新但页面没有更新的-7-种情况，你遇到过几种](https://www.ershicimi.com/p/6b1b9c2b05ec3dbc675946f6a996be5a)
 - [【Vue中文社区】为你的-Vue.js-单页应用提速](https://www.ershicimi.com/p/b6f590585c22757c51a05a5787b9cc0a)
 - [【Vue中文社区】仅20%的前端开发才能理解-Vue-，有没有你？](https://www.ershicimi.com/p/7341d52936c1fd95e500e44863c4b0a3)
@@ -86,15 +95,6 @@
 - [【前端大全】Vue.js-作者尤雨溪：TypeScript-与-JavaScript-并行才切合实际！](https://www.ershicimi.com/p/e700b7cc69cc885fdac4730fb4d1a5bf)
 - [【前端大全】你可以不精通-Vue，但一定要精通-JS！](https://www.ershicimi.com/p/8d2426265ef67bd44bb929cdfaab3f33)
 - [【前端大全】VUE+ElementUI构建管理后台项目经验与技巧，金九银十跳槽必看！](https://www.ershicimi.com/p/c7f22039876a029d99d715e7bcbae5c0)
-- [【前端开发】淘心窝分享VUE+ElementUI后台管理项目经验与技巧，金九银十跳槽必看！](https://www.ershicimi.com/p/e787e222900b6bd019b1a1af273654ca)
-- [【前端开发】一步步从头搭建-Vue-开发环境](https://www.ershicimi.com/p/2dc711e2189f749eecdad3b8fe4d9d71)
-- [【前端开发】2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/88f43dd714f8230fa1990c43875ccaaa)
-- [【前端开发】10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/f760bf4660bc70afed5083b15fa800e7)
-- [【前端圈】视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0)
-- [【前端圈】视频Vue-开发-ECharts-踩坑指南@袁源](https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff)
-- [【前端圈】VueConf-2019上海精彩视频花絮](https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479)
-- [【前端圈】VuePress-1.0发布与介绍的视频版@真山_VueConf-2019上海](https://www.ershicimi.com/p/df891224b8145e46f487100cd9aba181)
-- [【前端圈】蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -518,7 +518,6 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】今晚-GitHub-pages-突然无法访问](https://www.v2ex.com/t/708095)
-- [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -536,6 +535,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【Vue社区】前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e)
@@ -554,7 +554,6 @@
 - [【前端之巅】面试-100-多位软件工程师后的建议](https://www.ershicimi.com/p/e4068a4851c1fc23414277c8dec4b64c)
 - [【前端迷】头条面试题：计算目录树的深度](https://www.ershicimi.com/p/df9ddee4650f0c9ab3dd7df235232dab)
 - [【前端迷】setTimeout与循环闭包经典面试题详解](https://www.ershicimi.com/p/9c0968d3886878d5c30870beb680eae0)
-- [【前端迷】看到一个不错的前端面试题开源项目](https://www.ershicimi.com/p/819f6bdf8183b8ba49fd282a9b2e307a)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

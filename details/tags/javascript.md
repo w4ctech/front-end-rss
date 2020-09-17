@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 03:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 03:24:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -98,6 +98,5 @@
 - [2020-09-17-2020-年了，有什么和-K3-大致相等带机量的路由吗，性价比可以低一些，](https://www.v2ex.com/t/707821) 
 - [2020-09-17-截止-9.17-，-ios-14-里各位有下载到第三方的好玩的-app-的桌面小组件吗](https://www.v2ex.com/t/707807) 
 - [2020-09-17-白捡了一个淘汰下来的商用无线路由，大约是错觉？居然比家里新-wifi6-路由还流畅](https://www.v2ex.com/t/707802) 
-- [2020-09-17-⏰-Moment.js-宣布停止开发，现在该用什么？](https://www.v2ex.com/t/707798) 
 - [2020-09-17-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-16-解读伊朗黑客利用VPN漏洞入侵全球企业内网事件](https://sec.thief.one/article_content?a_id=23a2f38d30635577acd4bc3a2fc4b97c) 

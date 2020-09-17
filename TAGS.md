@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-17 01:49:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 02:03:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -533,6 +533,7 @@
 - [【InfoQ】快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b)
 - [【技术头条】主宰这个世界的-10-大算法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13768&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlIeT6xeYWx0bYiIDgiJHpQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】字节跳动的算法面试题是什么难度？（第二弹）](https://toutiao.io/k/81dw35x)
+- [【开发者头条】译-做一个全栈开发者是很难的，你需要知道这-9-件事](https://toutiao.io/k/1dbixz8)
 - [【安全热点】中科院博士整理的机器学习算法知识手册-|-附PDF下载](https://sec.thief.one/article_content?a_id=5fff48d65aa1f5a391f61b570dc3f675)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -579,7 +580,6 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -685,7 +685,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】9月16日全国新增境外输入新冠9例-累计确诊85223例](https://m.caixin.com/m/2020-09-17/101606207.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|9月16日：年轻人聚会推升欧洲疫情-辉瑞坦诚疫苗受试者出现副作用](https://m.caixin.com/m/2020-09-17/101606221.html)
+- [【武汉肺炎防疫全纪录(财新网)】大流行手记|9月16日：年轻人聚会推升欧洲疫情-辉瑞坦承疫苗受试者出现副作用](https://m.caixin.com/m/2020-09-17/101606221.html)
 - [【武汉肺炎防疫全纪录(财新网)】新冠抗体可维持至少4个月？-研究引发疫苗保护期乐观推测](https://m.caixin.com/m/2020-09-16/101605753.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超2944万-累计死亡超93万](http://m.international.caixin.com/m/2020-09-16/101606021.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】云南瑞丽已完成核酸采样超过6万人（9月15日）](http://m.database.caixin.com/m/2020-09-16/101605913.html)

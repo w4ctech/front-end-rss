@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 16:32:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 16:34:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2414,6 +2414,12 @@
 - [2020-09-06-文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/) 
 - [2020-09-11-科技爱好者周刊（第-124-期）：华为如何考核员工](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html) 
 - [2020-09-04-科技爱好者周刊（第-123-期）：互联网公司与湘军的军制](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html) 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [2020-09-16-聊聊前端监控—错误监控篇](https://www.ershicimi.com/p/37785245e0f7630bc4ceed905036bdd1) 
 - [2020-09-16-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/26b9dcc8dd9ca440f80e501919d81479) 
 - [2020-09-16-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa27200ef9381bbe00ec6dae8182934c) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 07:47:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 08:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -25,7 +25,6 @@
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
 - [2019-10-21-招聘-|-字节跳动-上海-前端工程师社招-&-校招-&-实习生](https://www.ershicimi.com/p/dff761693416bd940e698627c37a14d9) 
 - [2020-09-14-面试-100-多位软件工程师后的建议](https://www.ershicimi.com/p/e4068a4851c1fc23414277c8dec4b64c) 
-- [2020-09-07-我在近期求职中遇到的前端面试问题及其解法](https://www.ershicimi.com/p/101cfd8ee46ea065ea458331d4ee3033) 
 - [2020-09-10-头条面试题：计算目录树的深度](https://www.ershicimi.com/p/df9ddee4650f0c9ab3dd7df235232dab) 
 - [2020-08-28-setTimeout与循环闭包经典面试题详解](https://www.ershicimi.com/p/9c0968d3886878d5c30870beb680eae0) 
 - [2020-08-23-看到一个不错的前端面试题开源项目](https://www.ershicimi.com/p/819f6bdf8183b8ba49fd282a9b2e307a) 
@@ -39,5 +38,4 @@
 - [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) 
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
 - [2020-09-17-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
-- [2020-09-17-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
 - [2020-09-16-目标国防行业:Lazarus使用招聘诱饵结合持续更新的网络武器](https://sec.thief.one/article_content?a_id=0f773122c25ef18daca6e3f4ec8e6a90) 

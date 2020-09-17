@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 22:48:45，:rocket: 更新条数: +3639， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 23:03:31，:rocket: 更新条数: +3639， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-17--iPhone-遇到同样的问题了：清除越狱后升级了-IOS14，但是提示无法检测更新。](https://www.v2ex.com/t/708139) ![](assets/new.png)  
+- [2020-09-17-上架抽专业版-Anchor：好用的-Mac-任务栏和通知中心](https://www.v2ex.com/t/708138) ![](assets/new.png)  
 - [2020-09-17-iOS14-正式版把-4K-视频播放砍掉了？](https://www.v2ex.com/t/708137) ![](assets/new.png)  
 - [2020-09-17-Vue-UI-框架选择:-Vuetify-vs.-BootstrapVue](https://www.v2ex.com/t/708136) ![](assets/new.png)  
 - [2020-09-17-有人买到-3080-了么](https://www.v2ex.com/t/708135) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-17-有人在-iOS-14-里用上新版-NextDNS-了吗？](https://www.v2ex.com/t/708119) ![](assets/new.png)  
 - [2020-09-17-iPad-无法-OTA](https://www.v2ex.com/t/708118) ![](assets/new.png)  
 - [2020-09-17-Powerbeats-Pro-也更新了固件-->-3A283](https://www.v2ex.com/t/708117) ![](assets/new.png)  
-- [2020-09-17-到底什么时候才能把-iPhone-上屏蔽过滤掉的信息不在手表上再震动提醒一遍？](https://www.v2ex.com/t/708116) ![](assets/new.png)  
-- [2020-09-17-我想做一个地球上最好用的在线工具网站，有人支持一下吗？](https://www.v2ex.com/t/708115) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

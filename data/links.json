@@ -15293,58 +15293,7 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [
-      {
-        "title": "NutUI CLI源码解析",
-        "link": "https://jdc.jd.com/archives/213013",
-        "date": "2020-03-24"
-      },
-      {
-        "title": "NutUI 3.0 中单元测试的探索和实践",
-        "link": "https://jdc.jd.com/archives/213007",
-        "date": "2020-03-10"
-      },
-      {
-        "title": "用户说的都是真的吗？这些陷阱要避开",
-        "link": "https://jdc.jd.com/archives/212987",
-        "date": "2019-06-28"
-      },
-      {
-        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
-        "link": "https://jdc.jd.com/archives/212979",
-        "date": "2019-03-15"
-      },
-      {
-        "title": "京东PLUS会员项目前端性能优化实践",
-        "link": "https://jdc.jd.com/archives/212962",
-        "date": "2019-02-15"
-      },
-      {
-        "title": "8个常见的研究者认知偏误陷阱",
-        "link": "https://jdc.jd.com/archives/212946",
-        "date": "2019-01-28"
-      },
-      {
-        "title": "用户访谈——哪些原则简单却有效",
-        "link": "https://jdc.jd.com/archives/212927",
-        "date": "2019-01-24"
-      },
-      {
-        "title": "体现工匠精神的Resource Hints",
-        "link": "https://jdc.jd.com/archives/212917",
-        "date": "2018-12-29"
-      },
-      {
-        "title": "HTML5 Audio的兼容性问题和优化",
-        "link": "https://jdc.jd.com/archives/212874",
-        "date": "2018-12-26"
-      },
-      {
-        "title": "一个表情引发的思考",
-        "link": "https://jdc.jd.com/archives/212870",
-        "date": "2018-12-26"
-      }
-    ],
+    "items": [],
     "link": "https://jdc.jd.com"
   },
   {
@@ -16355,221 +16304,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
+    "rss": "https://rss.shab.fun/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": [
-      {
-        "title": "微软提交补丁，用 Linux 替代 Hyper-V 根分区的 Windows",
-        "link": "https://www.v2ex.com/t/708071",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "真是见不得人取个千位下整还非要用 math 包。",
-        "link": "https://www.v2ex.com/t/708070",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "ios14 -1 屏的系统小组件和自定义组件隔得有点宽啊，而且还不支持自定义组件在顶上。感觉没有了以前那种一体感",
-        "link": "https://www.v2ex.com/t/708069",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "才发现，原来 iOS14 的只允许访问选中照片权限功能，是一个很恶心的设计。库克为了既要当婊～子又要立牌坊也是想尽了办法。",
-        "link": "https://www.v2ex.com/t/708068",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "哪些邮箱客户端可以设置只接收 30 天内的邮件",
-        "link": "https://www.v2ex.com/t/708066",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[血的教训] WIN10 绑定微软账户的锅",
-        "link": "https://www.v2ex.com/t/708065",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "2020 年 9 月了，因为工作需要买了台二手 thinkpad t460，希望大家帮我鉴定一下值不值",
-        "link": "https://www.v2ex.com/t/708064",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "你喜欢扔东西吗？",
-        "link": "https://www.v2ex.com/t/708063",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "吐槽下，队员太坑，逻辑能力差，没有宏观思维，经常要返工，当个组长很累",
-        "link": "https://www.v2ex.com/t/708062",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[杭州] [蚂蚁金服] [ Java 开发/数据开发] 商家增长团队持续招人中，流程快，速来！",
-        "link": "https://www.v2ex.com/t/708061",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "毕业一年多了，竟然还能用教育优惠。。。",
-        "link": "https://www.v2ex.com/t/708060",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "更新完 iOS14 后 safari 里老是自动添加移动的一些书签 删了过会还有",
-        "link": "https://www.v2ex.com/t/708059",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "两种情况那种更安全",
-        "link": "https://www.v2ex.com/t/708056",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "升 iOS14 之后，感觉切换动画变慢了",
-        "link": "https://www.v2ex.com/t/708055",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "rxjs 你们拿这个做什么",
-        "link": "https://www.v2ex.com/t/708054",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "watch 用 AirPods Pro 播放存的音乐，然后 iPhone 播放视频，不会自动切换..",
-        "link": "https://www.v2ex.com/t/708053",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "IOS14 小组件，编辑叠放怎么增加组件？",
-        "link": "https://www.v2ex.com/t/708052",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "请问各位大佬， 2500 以下最好的 27 寸 4K 显示器是哪一款？",
-        "link": "https://www.v2ex.com/t/708051",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "为什么无线路由器会时不时限速",
-        "link": "https://www.v2ex.com/t/708050",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "有没有模板关于写工作成绩的要英文",
-        "link": "https://www.v2ex.com/t/708049",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "iPhone 12 Pro Max 跑分泄露",
-        "link": "https://www.v2ex.com/t/708048",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "显示器怎么播放多台硬盘录像机里面的监控画面",
-        "link": "https://www.v2ex.com/t/708047",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "在线教育还有机会么？",
-        "link": "https://www.v2ex.com/t/708042",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[上海]蚂蚁金服-前端开发(p6-p7) - 芝麻信用",
-        "link": "https://www.v2ex.com/t/708041",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "坐标北京，年龄 28.5，六年研发月入 31K，什么水平？长时间没跳槽，已经不知道行情了。知乎及阴阳怪气吹逼用户请绕道。",
-        "link": "https://www.v2ex.com/t/708040",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "iOS 14, Safari 打开百度, 今天卡死 3 次了",
-        "link": "https://www.v2ex.com/t/708039",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "windows10 2004 老是死机",
-        "link": "https://www.v2ex.com/t/708038",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "我又来啦！再次更新个人主页",
-        "link": "https://www.v2ex.com/t/708036",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "Python , Nodejs, Latex 为什么所有的脚本语言在 Windows 上执行起来都比在 Linux 上慢很多",
-        "link": "https://www.v2ex.com/t/708035",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "求助一条 MYSQL 查询语句，以甲表字段内容，查出乙表的另外一个字段内容，合并输出。。。",
-        "link": "https://www.v2ex.com/t/708034",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "等了一天了，为什么还没有收到更新 xsmax",
-        "link": "https://www.v2ex.com/t/708033",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "5 元米粉卡的 holder 们，你们最近有没有一直接到联通电话让改套餐？",
-        "link": "https://www.v2ex.com/t/708032",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "求 Roguelike 游戏推荐，好玩、经典~",
-        "link": "https://www.v2ex.com/t/708031",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "被迫回国还能顺利上岸 Facebook?",
-        "link": "https://www.v2ex.com/t/708030",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "在同一个网站有多个账号密码， macos 的钥匙串如何更好的管理多个密码？",
-        "link": "https://www.v2ex.com/t/708029",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "同样是 DP1.4 的线，为什么开博尔便宜一半？",
-        "link": "https://www.v2ex.com/t/708028",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "不懂就问，具备哪些基础知识才能很顺畅的看着技术文档做项目呢？",
-        "link": "https://www.v2ex.com/t/708027",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[社招][阿里云][杭州] Java 开发技术专家",
-        "link": "https://www.v2ex.com/t/708026",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "大家说的薪资都是综合薪资吗？",
-        "link": "https://www.v2ex.com/t/708025",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "如何有效向苹果提交系统输入法优化建议？",
-        "link": "https://www.v2ex.com/t/708024",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "求深圳龙岗区附近哪里可以泡温泉？",
-        "link": "https://www.v2ex.com/t/708023",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "请求有并发的时候，该怎么处理数据",
-        "link": "https://www.v2ex.com/t/708022",
-        "date": "2020-09-17"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -16784,53 +16522,13 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
-        "link": "https://toutiao.io/k/r7q7tum",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
-        "link": "https://toutiao.io/k/pz73jc0",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
         "date": "2020-09-17"
       },
       {
@@ -16839,13 +16537,48 @@
         "date": "2020-09-17"
       },
       {
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
+        "link": "https://toutiao.io/k/pz73jc0",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
+        "date": "2020-09-17"
+      },
+      {
         "title": "[推荐] 接口调度者：API 网关",
         "link": "https://toutiao.io/k/qec4gvf",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 一文带你深扒 ClassLoader 内核，揭开它的神秘面纱",
+        "link": "https://toutiao.io/k/r7q7tum",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-17"
       },
       {
@@ -16854,8 +16587,13 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-17"
       }
     ]

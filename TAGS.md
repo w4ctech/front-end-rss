@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-17 10:48:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 11:03:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -127,7 +127,6 @@
 - [【Nodejs技术栈】Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/9cf9e1540ea437410112acba7e8eecd0)
 - [【InfoQ】尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/d95588bb2dfefaac5fb01927aca21dad)
 - [【JavaScript】【软件更新】TypeScript-4.0正式发布！](https://www.ershicimi.com/p/8a2344e4dbdfdd6502c56441d6475911)
-- [【掘金前端】TypeScript-实践与技巧](https://juejin.im/post/6873080212675166215)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -534,7 +533,6 @@
 - [【技术头条】主宰这个世界的-10-大算法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13768&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlIeT6xeYWx0bYiIDgiJHpQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】字节跳动的算法面试题是什么难度？（第二弹）](https://toutiao.io/k/81dw35x)
 - [【开发者头条】译-做一个全栈开发者是很难的，你需要知道这-9-件事](https://toutiao.io/k/1dbixz8)
-- [【安全热点】中科院博士整理的机器学习算法知识手册-|-附PDF下载](https://sec.thief.one/article_content?a_id=5fff48d65aa1f5a391f61b570dc3f675)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -583,7 +581,6 @@
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】码云-Gitee-从-github-导入代码的时候，居然要这么多权限？？](https://www.v2ex.com/t/708009)
-- [【开发者头条】推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

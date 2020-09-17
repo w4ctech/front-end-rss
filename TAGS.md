@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-17 08:48:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 09:03:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -117,7 +117,6 @@
 - [【前端之巅】尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/7859ef90ce3ea34ab85fd27051242012)
 - [【前端迷】TypeScript重难点：泛型](https://www.ershicimi.com/p/e09833369c7f5ff6dbe7d2a85b7d6263)
 - [【全栈前端精选】《TypeScript-项目开发实战》送！！！](https://www.ershicimi.com/p/50f1c291a5460b5970bb2483827e6eae)
-- [【全栈前端精选】你不知道的-TypeScript-高级技巧](https://www.ershicimi.com/p/3600b9930214c547bb019511d95d007b)
 - [【前端宇宙】TypeScript高级类型备忘录（附示例）](https://www.ershicimi.com/p/b309cb48342fdcd112a1bd62674c8d90)
 - [【前端宇宙】TypeScript凭什么成为前端圈新宠？](https://www.ershicimi.com/p/98f10c9c3255b7a2c607027a504807cc)
 - [【前端宇宙】Typescript-使用日志干货](https://www.ershicimi.com/p/f1dd64e534ebe4864a4eba54809473a4)
@@ -464,6 +463,7 @@
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
 - [【前端之巅】二面阿里惨败，全是算法基本功的问题···-|-极客大学](https://www.ershicimi.com/p/1161efd6eef0d1853a266e2fc1919888)
 - [【前端之巅】快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/885d228f79a93b4366a04cd233851b4c)
+- [【全栈前端精选】一张脑图带你看动态划算法之美](https://www.ershicimi.com/p/8f74e5601e34a04f9f8c88cc87fdaf9f)
 - [【程序员成长指北】面字节跳动，居然遇到了算法原题..](https://www.ershicimi.com/p/06b8645755d2d30aa30d81c2542f3db6)
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
@@ -506,7 +506,6 @@
 
 
 - [【前端早读课】【第2053期】这才是真正的Git——Git实用技巧](https://www.ershicimi.com/p/7d7385718b77d4f2a7253594e7f9c83a)
-- [【全栈前端精选】Gitlab-ci:从零开始的前端自动化部署](https://www.ershicimi.com/p/934717cb9aa4c27d76f4942db0d4410f)
 - [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
 - [【程序员成长指北】Gitlab-ci:-从零开始的前端自动化部署](https://www.ershicimi.com/p/be9a408da24f9033e68b83c11bbe5173)
 - [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 05:34:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 05:47:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -57,7 +57,6 @@
 - [2020-09-11-基于lerna和single-spa,-sysyem.js搭建-vue-的微前端框架](https://www.ershicimi.com/p/ee443c8795ef063618b79f0da684a765) 
 - [2020-09-10-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/a1657e4b898792311cb2e13810de7e7a) 
 - [2020-09-04-2020最新-最火Vue面试题大合集](https://www.ershicimi.com/p/2fd4eb43266d8e705b45cf56fdfad352) 
-- [2020-09-12-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/54a3b7294b6d2a017f06de24f1b42b3b) 
 - [2020-08-27-什么？华为开始对Node&Vue下手了？](https://www.ershicimi.com/p/fa7c430e5710d6664aaf2ebf5b132816) 
 - [2020-08-21-从零实现-Vuex-掌握其执行流程和执行机制](https://www.ershicimi.com/p/7cf670e6bdff4a0d4c0dea875d51ae1c) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 

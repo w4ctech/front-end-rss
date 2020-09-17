@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 15:32:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 15:34:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2282,12 +2282,6 @@
 - [2020-09-17-又有分歧！关于新冠疫苗和口罩-美疾控中心和白宫各执一词](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZhVxrWfujVF9uZpC0Gc200917&isfromapp=1) 
 - [2020-09-17-云南瑞丽抵边封控点增加至458个-对边境线24小时封控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidxsUE333acILY2OGNHud200917&isfromapp=1) 
 - [2020-09-17-云南瑞丽18日24时前将完成核酸检测清零-确保“不落一户、不漏一人”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKGwEFlDxK0RhoUFEILdk200917&isfromapp=1) 
-- [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
-- [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
-- [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
-- [2020-01-06-推荐几个前端领域的优质公众号](https://www.ershicimi.com/p/2ecc19eb701a08ec7dc1ffbcc07b4487) 
-- [2020-01-04-【搞笑漫画】程序员鄙视链](https://www.ershicimi.com/p/99356f25157eaf693a3a9aa592666dbb) 
-- [2019-12-25-给开发人员的时间管理建议](https://www.ershicimi.com/p/fe451d9ed185297ab9a70fc9109d41fe) 
 - [2020-09-11-前端现状：80%-的人陷入这个误区一直出不来！](https://www.ershicimi.com/p/a18626fdce7983c1651a0d15e4d92279) 
 - [2020-09-10-老师，您还记得那个长期被你VIP的同学吗](https://www.ershicimi.com/p/4138c143e6c337f6c14cd357aad11191) 
 - [2020-09-08-25-个实用前端网站工具推荐](https://www.ershicimi.com/p/2ad1f5e0a6023ebd692335139c0d953c) 

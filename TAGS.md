@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-17 16:12:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 16:25:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -537,16 +537,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【Vue社区】前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1)
-- [【VUE全家桶】【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1)
-- [【VUE全家桶】【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62)
-- [【VUE全家桶】【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e)
-- [【VUE全家桶】【面试题】2019开年跳槽系列-35](https://www.ershicimi.com/p/13693c22440fcc75bcb7816cbd38d87a)
-- [【VUE全家桶】【面试题】2019开年跳槽系列-34](https://www.ershicimi.com/p/55cfb22f6deb40706c18677e12a05d7d)
-- [【VUE全家桶】【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2)
-- [【VUE全家桶】【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da)
-- [【VUE全家桶】【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378)
-- [【VUE全家桶】【面试题】2019开年跳槽系列-30](https://www.ershicimi.com/p/c953e0c5b4aaccbe729309f61ee8574b)
-- [【VUE全家桶】【面试题】2019开年跳槽系列-29](https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10)
 - [【前端早读课】【招聘】阿里云-GTS-金融业务交付（北/上/广/深/杭/西安/成都）金融交付专家（Android、](https://www.ershicimi.com/p/da6c36b95adca2b5ed98f1473beedcbf)
 - [【前端早读课】【招聘】阿里云GTS交付技术部在西安、成都等地的产品研发测试等岗位招聘啦](https://www.ershicimi.com/p/f79d3baa7325ace1d4b71047702a8095)
 - [【前端外刊评论】字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4)
@@ -555,6 +545,16 @@
 - [【前端之巅】面试-100-多位软件工程师后的建议](https://www.ershicimi.com/p/e4068a4851c1fc23414277c8dec4b64c)
 - [【前端迷】头条面试题：计算目录树的深度](https://www.ershicimi.com/p/df9ddee4650f0c9ab3dd7df235232dab)
 - [【前端迷】setTimeout与循环闭包经典面试题详解](https://www.ershicimi.com/p/9c0968d3886878d5c30870beb680eae0)
+- [【前端迷】看到一个不错的前端面试题开源项目](https://www.ershicimi.com/p/819f6bdf8183b8ba49fd282a9b2e307a)
+- [【前端迷】聊一聊面试中经常被问到的Tree-Shaking](https://www.ershicimi.com/p/74dedec32e1ff055e5e7aca8273817fe)
+- [【政采云前端团队】政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194)
+- [【政采云前端团队】政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c)
+- [【政采云前端团队】万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a)
+- [【前端日刊】面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb)
+- [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
+- [【互联网架构师】面试中关于JVM和Redis的问题，看这些就够了](https://www.ershicimi.com/p/2cc5440f815a47312e3ab207348beb91)
+- [【InfoQ】生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81)
+- [【InfoQ】面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

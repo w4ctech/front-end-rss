@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 16:34:53，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 16:46:57，:rocket: 更新条数: +3416， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-17-115-目前有没有办法提取直链](https://www.v2ex.com/t/708126) ![](assets/new.png)  
+- [2020-09-17-求求求求推荐安卓模拟器](https://www.v2ex.com/t/708125) ![](assets/new.png)  
 - [2020-09-17-关于微信数据迁移的问题](https://www.v2ex.com/t/708124) ![](assets/new.png)  
 - [2020-09-17-iOS14-更新之后怎么快速更换-app-store-账号](https://www.v2ex.com/t/708123) ![](assets/new.png)  
 - [2020-09-17-分享个寄超快快递的经验~](https://www.v2ex.com/t/708122) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-17-震惊，-iPad-Pro10.5-竟然不支持-AirPods-Pro-的空间音频](https://www.v2ex.com/t/708106) ![](assets/new.png)  
 - [2020-09-17-同时支持小米和华为手机-NFC-的门锁有没有？](https://www.v2ex.com/t/708103) ![](assets/new.png)  
 - [2020-09-17-试用期困惑，求前辈们解答](https://www.v2ex.com/t/708102) ![](assets/new.png)  
-- [2020-09-17-你们觉得这个-ios14-小组件-widget-如果能放到锁屏上,-如何?](https://www.v2ex.com/t/708101) ![](assets/new.png)  
-- [2020-09-17-Xcode-12-版本。下载下来后，一直卡在-启动台-正在安装](https://www.v2ex.com/t/708099) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

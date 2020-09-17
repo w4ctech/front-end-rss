@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 06:36:25，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 06:47:09，:rocket: 更新条数: +3416， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-09-16-9月16日全国新增境外输入新冠9例-累计确诊85223例](https://m.caixin.com/m/2020-09-17/101606207.html) ![](assets/new.png)  
+- [2020-09-16-【境内疫情观察】全国新增9例境外输入病例（9月16日）](http://m.database.caixin.com/m/2020-09-17/101606363.html) ![](assets/new.png)  
 - [2020-09-16-大流行手记|9月16日：年轻人聚会推升欧洲疫情-辉瑞坦承疫苗受试者出现副作用](https://m.caixin.com/m/2020-09-17/101606221.html) ![](assets/new.png)  
 - [2020-09-15-新冠抗体可维持至少4个月？-研究引发疫苗保护期乐观推测](https://m.caixin.com/m/2020-09-16/101605753.html) ![](assets/new.png)  
 - [2020-09-15-最新海外疫情：新冠感染超2944万-累计死亡超93万](http://m.international.caixin.com/m/2020-09-16/101606021.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-09-12-大流行手记|9月12日：法国疫情明显恶化-阿斯利康重启新冠疫苗试验](https://m.caixin.com/m/2020-09-13/101604607.html) ![](assets/new.png)  
 - [2020-09-12-舟山一外籍轮7名船员核检阳性-已隔离观察](http://m.china.caixin.com/m/2020-09-13/101604668.html) ![](assets/new.png)  
 - [2020-09-12-云南瑞丽市一小区发现1例疑似病例，实施隔离封闭管理](http://m.china.caixin.com/m/2020-09-13/101604642.html) ![](assets/new.png)  
-- [2020-09-11-【境内疫情观察】全国连续150日无新增死亡病例（9月11日）](http://m.database.caixin.com/m/2020-09-12/101604544.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-17-受新冠疫情影响-泰国汽车销量连续15个月下降-8月同比下降12.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artitt7KasEbXrl9xtKuacnJ200917&isfromapp=1) ![](assets/new.png)  
+- [2020-09-17-哈萨克斯坦首任总统：做好应对第二拨疫情的准备](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibFbV9FMSgTCKmhldkfpr200917&isfromapp=1) ![](assets/new.png)  
+- [2020-09-17-印度新增97984例新冠肺炎确诊病例-累计确诊超511万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXxBOejx0sF6pIXU9AplA200917&isfromapp=1) ![](assets/new.png)  
 - [2020-09-16-孟加拉国航运国务部长卡利德新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireRaX0836KJAsNNIjuz4200916&isfromapp=1) ![](assets/new.png)  
 - [2020-09-16-德国新增1901例确诊病例-累计确诊263663例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBLd4awqvv090fHrgit8l200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-陕西15日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizCFI85eWGQb1yINfWbts200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-俄罗斯新增5670例新冠肺炎确诊病例-累计确诊1079519例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbCGkFJm9QS0NqvW5tq2200916&isfromapp=1) ![](assets/new.png)  
-- [2020-09-16-菲律宾新增3550例新冠肺炎确诊病例-累计超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDXdHSxr7BgRsbYDyvMH1200916&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,8 +1057,12 @@
 </summary>
 
 
+- [2020-09-17-搞开发在小城市真的没出路吗坐标温州](https://www.v2ex.com/t/707926) ![](assets/new.png)  
+- [2020-09-17-国内双币信用卡可以认证没去-apple-ID-吗？](https://www.v2ex.com/t/707925) ![](assets/new.png)  
+- [2020-09-17-苹果新的-Fitness+服务有可能在中国大陆推出吗？](https://www.v2ex.com/t/707923) ![](assets/new.png)  
+- [2020-09-17-AirPods-2-更新最新固件后感觉底噪有点大](https://www.v2ex.com/t/707922) ![](assets/new.png)  
 - [2020-09-17-netty-chunked-file-下载失败](https://www.v2ex.com/t/707920) ![](assets/new.png)  
-- [2020-09-17-升完-ios14，-siri-好像更智障了？](https://www.v2ex.com/t/707919) ![](assets/new.png)  
+- [2020-09-17-吐槽：升完-ios14，-siri-好像更智障了？](https://www.v2ex.com/t/707919) ![](assets/new.png)  
 - [2020-09-17-请问大家是如何处理家里的鸡肋物件？](https://www.v2ex.com/t/707917) ![](assets/new.png)  
 - [2020-09-17-北京社招-字节跳动---移动-OS-教育，高级前端工程师-等热招职位，福利多多，快来加入我们吧](https://www.v2ex.com/t/707916) ![](assets/new.png)  
 - [2020-09-17-Karabiner-Elements-已支持-Big-Sur？](https://www.v2ex.com/t/707915) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-17-不是说-iPad-os14-和-iOS14-支持-Google-的-vp9-了](https://www.v2ex.com/t/707906) ![](assets/new.png)  
 - [2020-09-17-如何克服恐惧感](https://www.v2ex.com/t/707905) ![](assets/new.png)  
 - [2020-09-17-有没有-PGP-desktop-的安装包？](https://www.v2ex.com/t/707903) ![](assets/new.png)  
-- [2020-09-17-《TENET-天能》不要尝试理解，而是感受它](https://www.v2ex.com/t/707902) ![](assets/new.png)  
-- [2020-09-17-IOS14-资源库好难用，能不能关闭！小插件-APP-目前支持和适配太少了！欢迎讨论](https://www.v2ex.com/t/707901) ![](assets/new.png)  
-- [2020-09-17-iOS14-的-Safari-浏览器怎么打开网页翻译？](https://www.v2ex.com/t/707900) ![](assets/new.png)  
-- [2020-09-17-Apple-One-怎么订阅？](https://www.v2ex.com/t/707899) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1125,8 @@
 - [2020-09-17-CPU-中的程序是怎么运行起来的](https://toutiao.io/k/o53zxbu) ![](assets/new.png)  
 - [2020-09-17-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
 - [2020-09-17-华为鸿蒙-2.0，让我遇见未来-|-码农周刊第-318-期](https://toutiao.io/k/6rprzrd) ![](assets/new.png)  
-- [2020-09-17-Oh!-Binlog-还能这样用之-Canal-篇](https://toutiao.io/k/09a5edg) ![](assets/new.png)  
 - [2020-09-17-如何使用-Kubernetes-管理中国高速公路上的-10-万边缘节点？](https://toutiao.io/k/1y2w2ix) ![](assets/new.png)  
+- [2020-09-17-Oh!-Binlog-还能这样用之-Canal-篇](https://toutiao.io/k/09a5edg) ![](assets/new.png)  
 - [2020-09-17-软件架构原则注记](https://toutiao.io/k/356u2n6) ![](assets/new.png)  
 - [2020-09-17-从一段-Dubbo-源码到-CPU-分支预测的一次探险之旅](https://toutiao.io/k/em49ebn) ![](assets/new.png)  
 - [2020-09-17-浅谈-Flink-的-checkPoint-机制](https://toutiao.io/k/26uquvb) ![](assets/new.png)  
@@ -1135,8 +1135,8 @@
 - [2020-09-17-正确使用-wait/notify/notify-方法以及源码解析](https://toutiao.io/k/jgmofsp) ![](assets/new.png)  
 - [2020-09-17-4-种激活函数详解，学到即赚到](https://toutiao.io/k/rm7r2sx) ![](assets/new.png)  
 - [2020-09-17-Gorm-V2-读操作](https://toutiao.io/k/3l0qjzb) ![](assets/new.png)  
-- [2020-09-17-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
 - [2020-09-17-论程序的健壮性：就看-Redis](https://toutiao.io/k/xcymg80) ![](assets/new.png)  
+- [2020-09-17-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
 - [2020-09-17-今日头条品质优化：图文详情页秒开实践](https://toutiao.io/k/ifwgeuh) ![](assets/new.png)  
 - [2020-09-17-译-Linux-desktop-环境下的资源管理](https://toutiao.io/k/v10iayi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

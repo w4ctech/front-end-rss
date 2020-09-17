@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 20:34:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 20:47:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -71,3 +71,4 @@
 - [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) 
 - [2020-09-17-TypeScript：vue全家桶中如何使用TypeScript语法合集](https://juejin.im/post/6873388654803288071) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-09-17-Vue-UI-框架选择:-Vuetify-vs.-BootstrapVue](https://www.v2ex.com/t/708136) 

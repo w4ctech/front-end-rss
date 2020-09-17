@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 14:34:39，:rocket: 更新条数: +3420， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 14:46:54，:rocket: 更新条数: +3420， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-17-美国上周首次申请失业救济人数为-86-万人-经济复苏正在放缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEtX2TW2bB3JsUf4GMYyV200917&isfromapp=1) ![](assets/new.png)  
+- [2020-09-17-又有分歧！关于新冠疫苗和口罩-美疾控中心和白宫各执一词](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZhVxrWfujVF9uZpC0Gc200917&isfromapp=1) ![](assets/new.png)  
 - [2020-09-17-云南瑞丽抵边封控点增加至458个-对边境线24小时封控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidxsUE333acILY2OGNHud200917&isfromapp=1) ![](assets/new.png)  
 - [2020-09-17-云南瑞丽18日24时前将完成核酸检测清零-确保“不落一户、不漏一人”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKGwEFlDxK0RhoUFEILdk200917&isfromapp=1) ![](assets/new.png)  
 - [2020-09-17-调查初步显示：印度新德里33%的人口有新冠肺炎抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3XcJO2YExWzNm4ArLwog200917&isfromapp=1) ![](assets/new.png)  
-- [2020-09-17-意大利国内航班试行乘客全员新冠检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij7nHGfz8h36a6WZvYUR9200917&isfromapp=1) ![](assets/new.png)  
-- [2020-09-17-受新冠疫情影响-泰国汽车销量连续15个月下降-8月同比下降12.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artitt7KasEbXrl9xtKuacnJ200917&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-17-Xcode-12-版本。下载下来后，一直卡在-启动台-正在安装](https://www.v2ex.com/t/708099) ![](assets/new.png)  
+- [2020-09-17-职场小白的困惑，希望大佬们能给予回答和建议，谢谢大佬们。](https://www.v2ex.com/t/708098) ![](assets/new.png)  
+- [2020-09-17-电脑摄像头的价格涨得太离谱了](https://www.v2ex.com/t/708097) ![](assets/new.png)  
 - [2020-09-17-深圳高新南地铁站附近上班，深圳租房问题](https://www.v2ex.com/t/708096) ![](assets/new.png)  
 - [2020-09-17-今晚-GitHub-pages-突然无法访问](https://www.v2ex.com/t/708095) ![](assets/new.png)  
 - [2020-09-17-一起来探讨下-flaskrestful-和-djangorestframework-哪个用的多，这两个的选型哪个用的多呢？](https://www.v2ex.com/t/708093) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-17-请教一下各位大佬](https://www.v2ex.com/t/708079) ![](assets/new.png)  
 - [2020-09-17-除了-offgamers-还有什么点卡平台吗？](https://www.v2ex.com/t/708078) ![](assets/new.png)  
 - [2020-09-17-更新-iOS14.0-以后微信公众号切换-APP-后不能停留在原来的观看位置](https://www.v2ex.com/t/708077) ![](assets/new.png)  
-- [2020-09-17-V2-得糖尿病的兄弟多吗？想拉个健康交流群](https://www.v2ex.com/t/708076) ![](assets/new.png)  
-- [2020-09-17-iPhone-的翻译没让我失望](https://www.v2ex.com/t/708075) ![](assets/new.png)  
-- [2020-09-17-是否建议升级-iOS-14-的个人感受。](https://www.v2ex.com/t/708074) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1125,8 @@
 - [2020-09-17-CPU-中的程序是怎么运行起来的](https://toutiao.io/k/o53zxbu) ![](assets/new.png)  
 - [2020-09-17-如何使用-Kubernetes-管理中国高速公路上的-10-万边缘节点？](https://toutiao.io/k/1y2w2ix) ![](assets/new.png)  
 - [2020-09-17-译-做一个全栈开发者是很难的，你需要知道这-9-件事](https://toutiao.io/k/1dbixz8) ![](assets/new.png)  
-- [2020-09-17-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
 - [2020-09-17-Oh!-Binlog-还能这样用之-Canal-篇](https://toutiao.io/k/09a5edg) ![](assets/new.png)  
+- [2020-09-17-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
 - [2020-09-17-华为鸿蒙-2.0，让我遇见未来-|-码农周刊第-318-期](https://toutiao.io/k/6rprzrd) ![](assets/new.png)  
 - [2020-09-17-从一段-Dubbo-源码到-CPU-分支预测的一次探险之旅](https://toutiao.io/k/em49ebn) ![](assets/new.png)  
 - [2020-09-17-软件架构原则注记](https://toutiao.io/k/356u2n6) ![](assets/new.png)  
@@ -1136,8 +1136,8 @@
 - [2020-09-17-4-种激活函数详解，学到即赚到](https://toutiao.io/k/rm7r2sx) ![](assets/new.png)  
 - [2020-09-17-Gorm-V2-读操作](https://toutiao.io/k/3l0qjzb) ![](assets/new.png)  
 - [2020-09-17-论程序的健壮性：就看-Redis](https://toutiao.io/k/xcymg80) ![](assets/new.png)  
-- [2020-09-17-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
 - [2020-09-17-今日头条品质优化：图文详情页秒开实践](https://toutiao.io/k/ifwgeuh) ![](assets/new.png)  
+- [2020-09-17-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
 - [2020-09-17-译-Linux-desktop-环境下的资源管理](https://toutiao.io/k/v10iayi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

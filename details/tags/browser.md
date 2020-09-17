@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 00:07:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 00:32:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,10 +41,10 @@
 - [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-17-Mac-上的-Safari14-没有翻译功能？](https://www.v2ex.com/t/707755) 
 - [2020-09-16-提示-Safari-14-升级，升级完成后-Edge-浏览器挂了？](https://www.v2ex.com/t/707747) 
 - [2020-09-16-Apple-新品-Apple-Store-今天有新品真机体验嘛？-Apple-Watch-Series-6](https://www.v2ex.com/t/707745) 
 - [2020-09-17-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-17-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-16-2020福建网安周,与您相约“疫”考之下数据安全管理](https://sec.thief.one/article_content?a_id=717ecf0455488918b2488d8d84493607) 
 - [2020-09-16-招聘-|-金山云诚聘安全开发工程师](https://sec.thief.one/article_content?a_id=e2d4c6708d277fbcbc24968f6883e105) 
 - [2020-09-16-百度世界大会2020:首揭三大维度,百度AI安全护航百度大脑](https://sec.thief.one/article_content?a_id=1d5cd004fd8d96095d94ea8926c98011) 

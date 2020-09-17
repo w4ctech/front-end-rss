@@ -17471,6 +17471,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "996 真的高效吗？",
+        "link": "https://www.v2ex.com/t/707758",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "应届 Offer 选择，求各位前辈给个意见",
+        "link": "https://www.v2ex.com/t/707757",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "iOS 14 - App Clips · 轻应用来了",
+        "link": "https://www.v2ex.com/t/707756",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "Mac 上的 Safari14 没有翻译功能？",
+        "link": "https://www.v2ex.com/t/707755",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "一起看电影的功能原理是怎样的呢？",
+        "link": "https://www.v2ex.com/t/707754",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "关于工作精力问题",
+        "link": "https://www.v2ex.com/t/707753",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "ff16 预告片公布， PS5 登录，制作人吉田直树！",
+        "link": "https://www.v2ex.com/t/707751",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "iOS 14 如何关闭两步验证",
+        "link": "https://www.v2ex.com/t/707750",
+        "date": "2020-09-17"
+      },
+      {
         "title": "现在有没有讲技术的传统纸媒?",
         "link": "https://www.v2ex.com/t/707749",
         "date": "2020-09-17"
@@ -17604,41 +17644,6 @@
         "title": "我有一个梦想",
         "link": "https://www.v2ex.com/t/707711",
         "date": "2020-09-16"
-      },
-      {
-        "title": "[成都] 咪咕公司(国企) 招聘 iOS, Android, 音视频 C++",
-        "link": "https://www.v2ex.com/t/707708",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "[上海/北京] C 轮 NLP 方向公司，重金求 Java 、Web、BI、Electron、测试、以及 Techleader 类型的大佬",
-        "link": "https://www.v2ex.com/t/707707",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "玩了 5 分钟腾 X 手游， 5 个月后接到了自称“游戏好友”的电话...",
-        "link": "https://www.v2ex.com/t/707704",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "凌晨 1 点更新 ios 14 正式版，进来聊聊怎么样。",
-        "link": "https://www.v2ex.com/t/707703",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "出昨天刚买断的终身 Enpass",
-        "link": "https://www.v2ex.com/t/707702",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "游戏的一些牌局日志，各种用户信息放 es 还是 mongo",
-        "link": "https://www.v2ex.com/t/707701",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "寻前端兼职, 最好在上海本地",
-        "link": "https://www.v2ex.com/t/707700",
-        "date": "2020-09-16"
       }
     ]
   },
@@ -17760,23 +17765,43 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
+        "title": "浅谈 Flink 的 checkPoint 机制",
+        "link": "https://toutiao.io/k/26uquvb",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
+        "title": "字节跳动的算法面试题是什么难度？（第二弹）",
+        "link": "https://toutiao.io/k/81dw35x",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
+        "title": "CPU 中的程序是怎么运行起来的",
+        "link": "https://toutiao.io/k/o53zxbu",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
+        "title": "Oh! Binlog 还能这样用之 Canal 篇",
+        "link": "https://toutiao.io/k/09a5edg",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 进击的 Spring Cloud Alibaba：框架与服务",
+        "link": "https://toutiao.io/k/tscuwq8",
         "date": "2020-09-17"
       },
       {
@@ -17790,23 +17815,28 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
-        "date": "2020-09-17"
-      },
-      {
         "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
         "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-17"
       },
       {
@@ -17815,23 +17845,18 @@
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
+        "title": "[推荐] 开发者效率神器，工作 = 干半天 + 玩半天，香",
+        "link": "https://toutiao.io/k/lsclo7b",
         "date": "2020-09-17"
       },
       {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
         "date": "2020-09-17"
       }
     ]

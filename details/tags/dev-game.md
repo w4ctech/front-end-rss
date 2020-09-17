@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 00:07:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 00:32:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,5 +28,3 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
-- [2020-09-16-玩了-5-分钟腾-X-手游，-5-个月后接到了自称“游戏好友”的电话...](https://www.v2ex.com/t/707704) 
-- [2020-09-16-游戏的一些牌局日志，各种用户信息放-es-还是-mongo](https://www.v2ex.com/t/707701) 

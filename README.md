@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 15:24:21，:rocket: 更新条数: +3376， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 15:32:10，:rocket: 更新条数: +3418， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1057,6 +1057,26 @@
 </summary>
 
 
+- [2020-09-17-震惊，-iPad-Pro10.5-竟然不支持-AirPods-Pro-的空间音频](https://www.v2ex.com/t/708106) ![](assets/new.png)  
+- [2020-09-17-Spotify-美区家庭订阅，稳定上车](https://www.v2ex.com/t/708104) ![](assets/new.png)  
+- [2020-09-17-同时支持小米和华为手机-NFC-的门锁有没有？](https://www.v2ex.com/t/708103) ![](assets/new.png)  
+- [2020-09-17-试用期困惑，求前辈们解答](https://www.v2ex.com/t/708102) ![](assets/new.png)  
+- [2020-09-17-你们觉得这个-ios14-小组件-widget-如果能放到锁屏上,-如何?](https://www.v2ex.com/t/708101) ![](assets/new.png)  
+- [2020-09-17-Xcode-12-版本。下载下来后，一直卡在-启动台-正在安装](https://www.v2ex.com/t/708099) ![](assets/new.png)  
+- [2020-09-17-职场小白的困惑，希望大佬们能给予回答和建议，谢谢大佬们。](https://www.v2ex.com/t/708098) ![](assets/new.png)  
+- [2020-09-17-电脑摄像头的价格涨得太离谱了](https://www.v2ex.com/t/708097) ![](assets/new.png)  
+- [2020-09-17-深圳高新南地铁站附近上班，深圳租房问题](https://www.v2ex.com/t/708096) ![](assets/new.png)  
+- [2020-09-17-今晚-GitHub-pages-突然无法访问](https://www.v2ex.com/t/708095) ![](assets/new.png)  
+- [2020-09-17-一起来探讨下-flaskrestful-和-djangorestframework-哪个用的多，这两个的选型哪个用的多呢？](https://www.v2ex.com/t/708093) ![](assets/new.png)  
+- [2020-09-17-找一个全栈技术员，网站二开。价格美丽。加-qq2531300636-V-型-18272157845](https://www.v2ex.com/t/708092) ![](assets/new.png)  
+- [2020-09-17-感觉-AWS-的轻量+CDN-很香，想长期用有没有充值办法？](https://www.v2ex.com/t/708090) ![](assets/new.png)  
+- [2020-09-17-iPhone-8-Plus-OTA-白苹果了](https://www.v2ex.com/t/708089) ![](assets/new.png)  
+- [2020-09-17-谁能推荐几个神价格爆料群啊？](https://www.v2ex.com/t/708088) ![](assets/new.png)  
+- [2020-09-17-求助替换脚本](https://www.v2ex.com/t/708087) ![](assets/new.png)  
+- [2020-09-17-分享一波产地一线收蟹贩子发出来的大闸蟹的价格，仅供参考！](https://www.v2ex.com/t/708086) ![](assets/new.png)  
+- [2020-09-17-华为-OD-软件开发工程师（Android/-Java-/C++/C）（25k-50k·14-薪）](https://www.v2ex.com/t/708085) ![](assets/new.png)  
+- [2020-09-17-深圳-2-年大数据开发的岗位好少啊（求帮看简历）](https://www.v2ex.com/t/708084) ![](assets/new.png)  
+- [2020-09-17-我写了一条-powershell-命令，希望-shift+右键打开-powershell-新窗口不要保存历史记录。](https://www.v2ex.com/t/708083) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,10 +1134,10 @@
 - [2020-09-17-实测分享：当-jvm-遇到-mesos，究竟能不能隔离](https://toutiao.io/k/xcrnbu5) ![](assets/new.png)  
 - [2020-09-17-正确使用-wait/notify/notify-方法以及源码解析](https://toutiao.io/k/jgmofsp) ![](assets/new.png)  
 - [2020-09-17-4-种激活函数详解，学到即赚到](https://toutiao.io/k/rm7r2sx) ![](assets/new.png)  
-- [2020-09-17-Gorm-V2-读操作](https://toutiao.io/k/3l0qjzb) ![](assets/new.png)  
 - [2020-09-17-论程序的健壮性：就看-Redis](https://toutiao.io/k/xcymg80) ![](assets/new.png)  
-- [2020-09-17-今日头条品质优化：图文详情页秒开实践](https://toutiao.io/k/ifwgeuh) ![](assets/new.png)  
+- [2020-09-17-Gorm-V2-读操作](https://toutiao.io/k/3l0qjzb) ![](assets/new.png)  
 - [2020-09-17-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
+- [2020-09-17-今日头条品质优化：图文详情页秒开实践](https://toutiao.io/k/ifwgeuh) ![](assets/new.png)  
 - [2020-09-17-译-Linux-desktop-环境下的资源管理](https://toutiao.io/k/v10iayi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

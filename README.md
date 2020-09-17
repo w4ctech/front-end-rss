@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-17 22:03:27，:rocket: 更新条数: +3639， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 22:12:03，:rocket: 更新条数: +3629， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,8 +1141,8 @@
 - [2020-09-17-华为鸿蒙-2.0，让我遇见未来-|-码农周刊第-318-期](https://toutiao.io/k/6rprzrd) ![](assets/new.png)  
 - [2020-09-17-软件架构原则注记](https://toutiao.io/k/356u2n6) ![](assets/new.png)  
 - [2020-09-17-浅谈-Flink-的-checkPoint-机制](https://toutiao.io/k/26uquvb) ![](assets/new.png)  
-- [2020-09-17-正确使用-wait/notify/notify-方法以及源码解析](https://toutiao.io/k/jgmofsp) ![](assets/new.png)  
 - [2020-09-17-实测分享：当-jvm-遇到-mesos，究竟能不能隔离](https://toutiao.io/k/xcrnbu5) ![](assets/new.png)  
+- [2020-09-17-正确使用-wait/notify/notify-方法以及源码解析](https://toutiao.io/k/jgmofsp) ![](assets/new.png)  
 - [2020-09-17-4-种激活函数详解，学到即赚到](https://toutiao.io/k/rm7r2sx) ![](assets/new.png)  
 - [2020-09-17-论程序的健壮性：就看-Redis](https://toutiao.io/k/xcymg80) ![](assets/new.png)  
 - [2020-09-17-Gorm-V2-读操作](https://toutiao.io/k/3l0qjzb) ![](assets/new.png)  

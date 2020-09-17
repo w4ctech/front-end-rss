@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 15:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 15:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -86,6 +86,7 @@
 - [2020-09-05-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/6df8ec8f180d99efe64faf4d4c8dc6d3) 
 - [2020-09-04-玩转-CSS-变量](https://www.ershicimi.com/p/bdd8b63bd0d792fe265f3f929077dda8) 
 - [2020-09-01-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/ff3c43131acc2b4f5aa34bc2a1af2152) 
+- [2020-09-17-别再用JSON配置文件了](https://juejin.im/post/6873470783977914376) 
 - [2020-09-17-一次搞懂-JS事件循环之宏任务和微任务](https://juejin.im/post/6873424205791100942) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
@@ -98,5 +99,4 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-17-你们觉得这个-ios14-小组件-widget-如果能放到锁屏上,-如何?](https://www.v2ex.com/t/708101) 
 - [2020-09-17-ios14--1-屏的系统小组件和自定义组件隔得有点宽啊，而且还不支持自定义组件在顶上。感觉没有了以前那种一体感](https://www.v2ex.com/t/708069) 
-- [2020-09-17-rxjs-你们拿这个做什么](https://www.v2ex.com/t/708054) 
 - [2020-09-16-解读伊朗黑客利用VPN漏洞入侵全球企业内网事件](https://sec.thief.one/article_content?a_id=23a2f38d30635577acd4bc3a2fc4b97c) 

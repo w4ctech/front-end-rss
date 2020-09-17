@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 06:49:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 07:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,7 +42,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-17-iOS14-的-Safari-浏览器怎么打开网页翻译？](https://www.v2ex.com/t/707900) 
 - [2020-09-17-golang-使用-websocket-发送数据给前端，总是会有丢包的情况发生](https://www.v2ex.com/t/707885) 
-- [2020-09-17-IOS-更新正式版后怎么没看到更改默认浏览器的设置？](https://www.v2ex.com/t/707880) 
 - [2020-09-17-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-17-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-16-2020福建网安周,与您相约“疫”考之下数据安全管理](https://sec.thief.one/article_content?a_id=717ecf0455488918b2488d8d84493607) 

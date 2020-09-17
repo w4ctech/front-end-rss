@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 14:25:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 14:32:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,7 @@
 - [2020-09-17-更新完-iOS14-后-safari-里老是自动添加移动的一些书签-删了过会还有](https://www.v2ex.com/t/708059) 
 - [2020-09-17-两种情况那种更安全](https://www.v2ex.com/t/708056) 
 - [2020-09-17-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-17-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-17-绿盟科技:用可信计算3.0筑牢网络安全防线](https://sec.thief.one/article_content?a_id=e2a7f4c1eec4cd205a66dbb32a8badc4) 
 - [2020-09-17-【京东招聘】BZBS!我说一个数,京东安全招聘N²人](https://sec.thief.one/article_content?a_id=fb3709e9d1aeb92f8f5b3af1fee43dbd) 
 - [2020-09-17-移动安全三|一道CTF题的apk逆向实战](https://sec.thief.one/article_content?a_id=ad23001c524bb6ccc392ee057f3165df) 

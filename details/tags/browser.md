@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 10:24:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 10:32:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,7 +35,6 @@
 - [2020-09-17-请求有并发的时候，该怎么处理数据](https://www.v2ex.com/t/708022) 
 - [2020-09-17-浏览器的发展趋势](https://www.v2ex.com/t/707991) 
 - [2020-09-17-Safari-升级了-14.0-，-然后-Edge-打不开了](https://www.v2ex.com/t/707988) 
-- [2020-09-17-上古时期的-Firefox（on-rhel5.1）](https://www.v2ex.com/t/707984) 
 - [2020-09-17-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-17-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-16-2020福建网安周,与您相约“疫”考之下数据安全管理](https://sec.thief.one/article_content?a_id=717ecf0455488918b2488d8d84493607) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 10:23:58，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 10:32:14，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-18-伊朗新增新冠肺炎确诊病例3049例，累计确诊416198例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigjb5xti4ux8fkKSXWtFW200918&isfromapp=1) ![](assets/new.png)  
+- [2020-09-18-德国啤酒业面临“内忧外患”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZlZSuEzWjVoKhIMNLUyq200918&isfromapp=1) ![](assets/new.png)  
 - [2020-09-18-巴西开始对贫民区居民进行病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiosU1xDetOD1qfZOEnvv2200918&isfromapp=1) ![](assets/new.png)  
 - [2020-09-18-陕西9月17日新增13例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZE7cuebyIxW7gnHSOUGh200918&isfromapp=1) ![](assets/new.png)  
 - [2020-09-18-乌克兰新增3228例新冠肺炎确诊病例，累计确诊169472例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyaA262EKdQIk30jIFaRT200918&isfromapp=1) ![](assets/new.png)  
-- [2020-09-18-10月1日起外籍游客可入境泰国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX0YpxoEae4VgJx7hRk7g200918&isfromapp=1) ![](assets/new.png)  
-- [2020-09-18-印度新增新冠肺炎确诊病例96424例，累计确诊超521万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid79qVolvt40kB4p5Ef84200918&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,12 @@
 </summary>
 
 
+- [2020-09-18-iPad-上读-GitHub-的代码有什么最佳实践么](https://www.v2ex.com/t/708397) ![](assets/new.png)  
+- [2020-09-18-安卓开发一般要上架多少个应用市场？](https://www.v2ex.com/t/708396) ![](assets/new.png)  
+- [2020-09-18-iPhone-的地图如何在待机下使用？](https://www.v2ex.com/t/708395) ![](assets/new.png)  
+- [2020-09-18-上海-Java-招聘（上市企业直招，福利多：免费三餐+下午茶，年度旅游团建）](https://www.v2ex.com/t/708394) ![](assets/new.png)  
+- [2020-09-18-网络世界险恶，暴露在-9022-端口、九位纯数字密码的派，-ssh-登不上了](https://www.v2ex.com/t/708393) ![](assets/new.png)  
+- [2020-09-18-上海-静安-求靠谱-QA-Developer/React-Developer/WeChat-Developer,-快来啊~](https://www.v2ex.com/t/708392) ![](assets/new.png)  
 - [2020-09-18-無依之地，肉體的流放，靈魂的眷念](https://www.v2ex.com/t/708390) ![](assets/new.png)  
 - [2020-09-18-求助，台湾的-doh-有吗？](https://www.v2ex.com/t/708389) ![](assets/new.png)  
 - [2020-09-18-求救！-vagrant-里面安装了-docker-之后，没办法-reload-了。提示登录超时](https://www.v2ex.com/t/708385) ![](assets/new.png)  
@@ -1071,12 +1077,6 @@
 - [2020-09-18-WEY-坦克-300-值得买吗？](https://www.v2ex.com/t/708374) ![](assets/new.png)  
 - [2020-09-18-这种可视化效果有啥网页的方案没啊](https://www.v2ex.com/t/708373) ![](assets/new.png)  
 - [2020-09-18-北京社招-逍遥一下-高级前端工程师-20k-30k*14-薪](https://www.v2ex.com/t/708372) ![](assets/new.png)  
-- [2020-09-18-万科四季花城-顺义石门-次卧-15-号线地铁近-2400-元/月](https://www.v2ex.com/t/708371) ![](assets/new.png)  
-- [2020-09-18-如何看待-Baidu-Cloud-CDN-回源-TTFB-高达-2.1-秒？](https://www.v2ex.com/t/708370) ![](assets/new.png)  
-- [2020-09-18-VMware-Workstation-16-居然不支持共享虚拟机](https://www.v2ex.com/t/708368) ![](assets/new.png)  
-- [2020-09-18-大佬们，咨询下-ssh-免密登录的问题](https://www.v2ex.com/t/708367) ![](assets/new.png)  
-- [2020-09-18-升级-iOS14-以后，刚刚收了个验证码，然后震动不停了……](https://www.v2ex.com/t/708366) ![](assets/new.png)  
-- [2020-09-18-500-预算有没有不延迟的蓝牙鼠标推荐？-macOS-&-iPadOS](https://www.v2ex.com/t/708364) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

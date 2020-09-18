@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-18 01:33:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 01:39:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-18-Laravel-8-中文文档已翻译校对完毕](https://www.v2ex.com/t/708167) 
+- [2020-09-18-不要-5800，不要-4600，索尼次世代-PS5-只要-3500RMB](https://www.v2ex.com/t/708166) 
 - [2020-09-18-挺喜欢-ios14-的小组件的，有种以前用的-windows-手机的感觉，可就是可用的小组件太少了。要是自定义就好了。。。。](https://www.v2ex.com/t/708164) 
 - [2020-09-18-leetcode/lintcode-题解-算法模板：二分查找](https://www.v2ex.com/t/708162) 
 - [2020-09-18-Xcode12-编译速度慢](https://www.v2ex.com/t/708161) 
@@ -41,5 +43,3 @@
 - [2020-09-17-Bitwarden-的-Websocket-是用来做什么的，关闭了也不影响使用啊](https://www.v2ex.com/t/708121) 
 - [2020-09-17-有人在-iOS-14-里用上新版-NextDNS-了吗？](https://www.v2ex.com/t/708119) 
 - [2020-09-17-iPad-无法-OTA](https://www.v2ex.com/t/708118) 
-- [2020-09-17-Powerbeats-Pro-也更新了固件-->-3A283](https://www.v2ex.com/t/708117) 
-- [2020-09-17-到底什么时候才能把-iPhone-上屏蔽过滤掉的信息不在手表上再震动提醒一遍？](https://www.v2ex.com/t/708116) 

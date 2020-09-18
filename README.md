@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 01:33:36，:rocket: 更新条数: +3631， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 01:39:15，:rocket: 更新条数: +3631， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-18-Laravel-8-中文文档已翻译校对完毕](https://www.v2ex.com/t/708167) ![](assets/new.png)  
+- [2020-09-18-不要-5800，不要-4600，索尼次世代-PS5-只要-3500RMB](https://www.v2ex.com/t/708166) ![](assets/new.png)  
 - [2020-09-18-挺喜欢-ios14-的小组件的，有种以前用的-windows-手机的感觉，可就是可用的小组件太少了。要是自定义就好了。。。。](https://www.v2ex.com/t/708164) ![](assets/new.png)  
 - [2020-09-18-leetcode/lintcode-题解-算法模板：二分查找](https://www.v2ex.com/t/708162) ![](assets/new.png)  
 - [2020-09-18-Xcode12-编译速度慢](https://www.v2ex.com/t/708161) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-17-支付宝支持关闭剪贴板功能。](https://www.v2ex.com/t/708141) ![](assets/new.png)  
 - [2020-09-17-我现在的身体状况真可怕。。](https://www.v2ex.com/t/708140) ![](assets/new.png)  
 - [2020-09-17--iPhone-遇到同样的问题了：清除越狱后升级了-IOS14，但是提示无法检测更新。](https://www.v2ex.com/t/708139) ![](assets/new.png)  
-- [2020-09-17-上架抽专业版-Anchor：好用的-Mac-任务栏和通知中心](https://www.v2ex.com/t/708138) ![](assets/new.png)  
-- [2020-09-17-iOS14-正式版把-4K-视频播放砍掉了？](https://www.v2ex.com/t/708137) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1148,16 +1148,16 @@
 - [2020-09-18-测试-APP-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
 - [2020-09-18-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) ![](assets/new.png)  
-- [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
 - [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
+- [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
 - [2020-09-18-Hystrix-线程池隔离的原理与验证](https://toutiao.io/k/wlo2s4g) ![](assets/new.png)  
 - [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
-- [2020-09-18-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-18-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-18-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
-- [2020-09-18-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-18-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-18-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-18-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
 - [2020-09-18-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-18-推荐-程序员进阶系列：多图教你掌握-JVM](https://toutiao.io/k/pz73jc0) ![](assets/new.png)  
+- [2020-09-18-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-18-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
 - [2020-09-18-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

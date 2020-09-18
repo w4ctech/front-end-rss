@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-18 16:35:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 16:47:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -249,6 +249,7 @@
 
 
 - [【前端早读课】【招聘】字节跳动杭州游戏平台招前端开发实习+社招](https://www.ershicimi.com/p/08b5c48d6117cf5fd86562c555815603)
+- [【V2EX】腾讯-深圳-社招腾讯广告招聘游戏行业产品运营，欢迎有产品/技术/数据分析/游戏-or-广告行业背景的同学来聊](https://www.v2ex.com/t/708446)
 - [【安全热点】外交部回应美国司法部起诉5名中国公民入侵五角大楼、游戏公司](https://sec.thief.one/article_content?a_id=728a265989074f269b42ffc0292a79a7)
 - [【安全热点】我的名片能运行Linux和Python,还能玩2048小游戏,成本只要20元](https://sec.thief.one/article_content?a_id=fd0ceee3c4d2092f5666f7b5f13f6533)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -404,6 +405,8 @@
 - [【程序员成长指北】大规格文件的上传优化实用篇](https://www.ershicimi.com/p/1250d17c61d70da781c7585205c595cd)
 - [【程序员成长指北】QQ音乐客户端Web页面通用性能优化实践](https://www.ershicimi.com/p/2a26ee43140af3078bb280fa857918ae)
 - [【程序员成长指北】面试官：说一说递归如何优化-尾递归优化](https://www.ershicimi.com/p/6c29ac8722c5e7ee12e306e95c38cd96)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4)
 - [......【查看更多】......](./details/tags/optimization.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 16:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 16:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,6 +31,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-18-macOS-Big-Sur-Beta-7-所有-app-中打开/保存对话框卡死，以及简繁转换在-Safari-中无法正常使用](https://www.v2ex.com/t/708445) 
 - [2020-09-18-直接访问公网-ip-的机器来做-frp-内网穿透是否安全？](https://www.v2ex.com/t/708408) 
 - [2020-09-18-Firefox-Send-正式关闭](https://www.v2ex.com/t/708399) 
 - [2020-09-18-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 01:47:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 02:04:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -48,6 +48,7 @@
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) 
 - [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
+- [2020-09-14-“精通Vue”的求职者有多吃香？](https://www.ershicimi.com/p/2ed6df4501336028253424b4a8cbcaf1) 
 - [2020-09-14-为你的-Vue.js-单页应用提速](https://www.ershicimi.com/p/f370ad3eb269f466bb55d7b08c567605) 
 - [2020-09-01-厉害了！！前端最火的-Vue-框架，你用对了么？！](https://www.ershicimi.com/p/d0adcc41f5e8fb311119c89147ff430c) 
 - [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
@@ -65,4 +66,3 @@
 - [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) 
 - [2020-09-17-TypeScript：vue全家桶中如何使用TypeScript语法合集](https://juejin.im/post/6873388654803288071) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-09-17-Vue-UI-框架选择:-Vuetify-vs.-BootstrapVue](https://www.v2ex.com/t/708136) 

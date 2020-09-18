@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 01:47:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 02:04:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -28,8 +28,6 @@
 - [2020-09-14-面试-100-多位软件工程师后的建议](https://www.ershicimi.com/p/e4068a4851c1fc23414277c8dec4b64c) 
 - [2020-09-10-头条面试题：计算目录树的深度](https://www.ershicimi.com/p/df9ddee4650f0c9ab3dd7df235232dab) 
 - [2020-08-28-setTimeout与循环闭包经典面试题详解](https://www.ershicimi.com/p/9c0968d3886878d5c30870beb680eae0) 
-- [2020-08-23-看到一个不错的前端面试题开源项目](https://www.ershicimi.com/p/819f6bdf8183b8ba49fd282a9b2e307a) 
-- [2020-08-22-聊一聊面试中经常被问到的Tree-Shaking](https://www.ershicimi.com/p/74dedec32e1ff055e5e7aca8273817fe) 
 - [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) 
 - [2020-06-18-政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c) 
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
@@ -40,6 +38,6 @@
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
 - [2020-09-17-面试官：你知道垃圾回收吗？](https://juejin.im/post/6873383627800412173) 
 - [2020-09-18-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) 
-- [2020-09-18-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-18-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
+- [2020-09-18-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-16-目标国防行业:Lazarus使用招聘诱饵结合持续更新的网络武器](https://sec.thief.one/article_content?a_id=0f773122c25ef18daca6e3f4ec8e6a90) 

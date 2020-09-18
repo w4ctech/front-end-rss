@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 17:03:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 17:11:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -39,4 +39,5 @@
 - [2020-09-18-腾讯-上海-AI-工程化后台实习生招聘](https://www.v2ex.com/t/708417) 
 - [2020-09-18-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) 
 - [2020-09-18-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
+- [2020-09-18-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-17-西安电子科技大学密码研究中心人才招聘](https://sec.thief.one/article_content?a_id=3a97f9483d195802129160af1ceb6438) 

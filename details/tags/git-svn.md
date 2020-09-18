@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 14:24:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 14:32:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -14,6 +14,8 @@
 - [2020-08-13-GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24) 
 - [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) 
 - [2020-09-17-GitHub上最励志的计算机自学教程，绝对牛B](https://www.ershicimi.com/p/a3a31e96c60c3e1e44882f7edc1b12a2) 
+- [2020-09-17-Git-Flow二三事](https://juejin.im/post/6873713285141626888) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-09-18-iPad-上读-GitHub-的代码有什么最佳实践么](https://www.v2ex.com/t/708397) 
 - [2020-09-18-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) 

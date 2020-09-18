@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 13:03:26，:rocket: 更新条数: +3419， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 13:11:37，:rocket: 更新条数: +3388， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -142,26 +142,6 @@
 </summary>
 
 
-- [2020-09-17-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/a41334d8bc46815bd43f086cd46bd808) ![](assets/new.png)  
-- [2020-09-17-H5-移动端调试全攻略](https://www.ershicimi.com/p/3e88cd813e1df74350df4807b3098838) ![](assets/new.png)  
-- [2020-09-16-基于-vue-3.0.0-beta.x-写的第一个组件](https://www.ershicimi.com/p/38d7aeaa17c17116b4a685e13e925a54) ![](assets/new.png)  
-- [2020-09-16-腾讯招大前端工程师50k-80k？大前端现在也太火了！](https://www.ershicimi.com/p/c2f5fe97ad54eb2d7d5c2b79b0791863) ![](assets/new.png)  
-- [2020-09-15-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/c9e490aaa91bd75fb52b8507e6777fcf) ![](assets/new.png)  
-- [2020-09-15-淘宝是如何缩短首屏时间、降低服务器压力的？](https://www.ershicimi.com/p/6e8e481d56a519fe51cec02630ea605f) ![](assets/new.png)  
-- [2020-09-14-Gitlab-ci:-从零开始的前端自动化部署](https://www.ershicimi.com/p/50d732e7e1183a6cee94a0bf85cee8e8) ![](assets/new.png)  
-- [2020-09-13-他写出了-Vue，却做不对这十道-Vue-笔试题](https://www.ershicimi.com/p/f10f49d6dee5855e4ec59b4363d52047) ![](assets/new.png)  
-- [2020-09-11-前端现状：80%-的人陷入这个误区一直出不来！](https://www.ershicimi.com/p/a18626fdce7983c1651a0d15e4d92279) ![](assets/new.png)  
-- [2020-09-11-npm-install-执行后的“秘密”](https://www.ershicimi.com/p/d42f1bc6464039961f01731afa743882) ![](assets/new.png)  
-- [2020-09-10-Vue-数据更新但页面没有更新的-7-种情况，你遇到过几种](https://www.ershicimi.com/p/6b1b9c2b05ec3dbc675946f6a996be5a) ![](assets/new.png)  
-- [2020-09-10-老师，您还记得那个长期被你VIP的同学吗](https://www.ershicimi.com/p/4138c143e6c337f6c14cd357aad11191) ![](assets/new.png)  
-- [2020-09-09-为你的-Vue.js-单页应用提速](https://www.ershicimi.com/p/b6f590585c22757c51a05a5787b9cc0a) ![](assets/new.png)  
-- [2020-09-09-15个必须知道的JavaScript数组方法](https://www.ershicimi.com/p/d9d012994024de7ac82b03eb146c7466) ![](assets/new.png)  
-- [2020-09-08-网站优化，这些神级工具你一定用得上](https://www.ershicimi.com/p/4de6b89e9e8327c7691ac085046ba869) ![](assets/new.png)  
-- [2020-09-08-25-个实用前端网站工具推荐](https://www.ershicimi.com/p/2ad1f5e0a6023ebd692335139c0d953c) ![](assets/new.png)  
-- [2020-09-07-仅20%的前端开发才能理解-Vue-，有没有你？](https://www.ershicimi.com/p/7341d52936c1fd95e500e44863c4b0a3) ![](assets/new.png)  
-- [2020-09-07-只用-div-和-css-能玩出什么花来？请扶好下巴！](https://www.ershicimi.com/p/cc1383441b45b9661b015516014a28fc) ![](assets/new.png)  
-- [2020-09-06-TypeScript项目开发实战-|-撸起来](https://www.ershicimi.com/p/6ef9380daa13fa7ee7b26553974efa11) ![](assets/new.png)  
-- [2020-09-05-为什么采用Proxy重构响应系统-|-Vue3源码系列](https://www.ershicimi.com/p/7bf909df2b2c18c1146d6cde30cf49bf) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -729,16 +709,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1027,8 @@
 </summary>
 
 
+- [2020-09-18-腾讯-上海-AI-工程化后台实习生招聘](https://www.v2ex.com/t/708417) ![](assets/new.png)  
+- [2020-09-18-iPhone-在-iOS14-下能用蓝牙鼠标吗？](https://www.v2ex.com/t/708416) ![](assets/new.png)  
 - [2020-09-18-主站在香港域名为-A，-B-域名备案使用百度云-cdn，加速-A-网站访问](https://www.v2ex.com/t/708415) ![](assets/new.png)  
 - [2020-09-18-iOS-App-资源库](https://www.v2ex.com/t/708414) ![](assets/new.png)  
 - [2020-09-18-请问有京东商城的程序员或产品经理或者别的吗？你们网站报错了！](https://www.v2ex.com/t/708413) ![](assets/new.png)  
@@ -1075,8 +1047,6 @@
 - [2020-09-18-Firefox-Send-正式关闭](https://www.v2ex.com/t/708399) ![](assets/new.png)  
 - [2020-09-18-学生怎么写代码挣点儿外快呢？](https://www.v2ex.com/t/708398) ![](assets/new.png)  
 - [2020-09-18-iPad-上读-GitHub-的代码有什么最佳实践么](https://www.v2ex.com/t/708397) ![](assets/new.png)  
-- [2020-09-18-安卓开发一般要上架多少个应用市场？](https://www.v2ex.com/t/708396) ![](assets/new.png)  
-- [2020-09-18-iPhone-的地图如何在待机下使用？](https://www.v2ex.com/t/708395) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,8 +1101,8 @@
 - [2020-09-18-深入理解-Web-协议（二）：DNS、WebSocket](https://toutiao.io/k/1q915wi) ![](assets/new.png)  
 - [2020-09-18-测试-App-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
-- [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
 - [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
+- [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
 - [2020-09-18-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-18-伸手党的容器镜像加固流程](https://toutiao.io/k/k6fncdr) ![](assets/new.png)  
 - [2020-09-18-Apache-Pulsar-在腾讯-Angel-PowerFL-联邦学习平台上的实践](https://toutiao.io/k/95tn0ri) ![](assets/new.png)  

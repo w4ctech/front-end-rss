@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 14:13:11，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 14:24:49，:rocket: 更新条数: +3372， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -947,11 +947,6 @@
 </summary>
 
 
-- [2020-09-18-傻瓜式教程：使用Vue和Electron构建Markdown预览器](https://juejin.im/post/6873817361632198664) ![](assets/new.png)  
-- [2020-09-18-lodash源码解析：reject、remove、repeat、replace、result、round](https://juejin.im/post/6873776068055007245) ![](assets/new.png)  
-- [2020-09-18-TiDB-HTAP-深度解读](https://juejin.im/post/6873775440755064846) ![](assets/new.png)  
-- [2020-09-17-Git-Flow二三事](https://juejin.im/post/6873713285141626888) ![](assets/new.png)  
-- [2020-09-17-《深入解析CSS》—模块化CSS](https://juejin.im/post/6873709255507148813) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,26 +1052,6 @@
 </summary>
 
 
-- [2020-09-18-打算送老人平板电脑，需求如下，求推荐](https://www.v2ex.com/t/708426) ![](assets/new.png)  
-- [2020-09-18-升级到-ios14-后应用商店无法更新订阅页面无法显示](https://www.v2ex.com/t/708425) ![](assets/new.png)  
-- [2020-09-18-新租的房间里电场强度很高是怎么回事？](https://www.v2ex.com/t/708423) ![](assets/new.png)  
-- [2020-09-18-Touch-Bar-正常会漏光吗](https://www.v2ex.com/t/708422) ![](assets/new.png)  
-- [2020-09-18-申请了电信公网-IP，几天后突然上不了网了](https://www.v2ex.com/t/708421) ![](assets/new.png)  
-- [2020-09-18-关于-SD-卡，来大佬](https://www.v2ex.com/t/708419) ![](assets/new.png)  
-- [2020-09-18-腾讯-上海-AI-工程化后台实习生招聘](https://www.v2ex.com/t/708417) ![](assets/new.png)  
-- [2020-09-18-iPhone-在-iOS14-下能用蓝牙鼠标吗？](https://www.v2ex.com/t/708416) ![](assets/new.png)  
-- [2020-09-18-主站在香港域名为-A，-B-域名备案使用百度云-cdn，加速-A-网站访问](https://www.v2ex.com/t/708415) ![](assets/new.png)  
-- [2020-09-18-iOS-App-资源库](https://www.v2ex.com/t/708414) ![](assets/new.png)  
-- [2020-09-18-请问有京东商城的程序员或产品经理或者别的吗？你们网站报错了！](https://www.v2ex.com/t/708413) ![](assets/new.png)  
-- [2020-09-18-首都机场附近找个保姆，多少钱？](https://www.v2ex.com/t/708412) ![](assets/new.png)  
-- [2020-09-18-export-function-里面只能有一个-return-吗？](https://www.v2ex.com/t/708411) ![](assets/new.png)  
-- [2020-09-18-来电话的同时顶部收到应用通知，点通知进入应用后，无论如何都找不到接听电话的界面了](https://www.v2ex.com/t/708410) ![](assets/new.png)  
-- [2020-09-18-难道百度良心发现了？现在搜索-PHP-、-Java-、nginx-等技术性关键字，官网置顶，广告数量减少了](https://www.v2ex.com/t/708409) ![](assets/new.png)  
-- [2020-09-18-直接访问公网-ip-的机器来做-frp-内网穿透是否安全？](https://www.v2ex.com/t/708408) ![](assets/new.png)  
-- [2020-09-18-问一个显示器-TYPE-C-连接的问题](https://www.v2ex.com/t/708407) ![](assets/new.png)  
-- [2020-09-18-中秋节你们公司发啥了](https://www.v2ex.com/t/708406) ![](assets/new.png)  
-- [2020-09-18-共享笔记](https://www.v2ex.com/t/708405) ![](assets/new.png)  
-- [2020-09-18-ios14-大图标把所有归类好的文件夹冲出来了。。怎么办。。。](https://www.v2ex.com/t/708404) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,11 +1104,11 @@
 - [2020-09-18-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
 - [2020-09-18-深入理解-Web-协议（二）：DNS、WebSocket](https://toutiao.io/k/1q915wi) ![](assets/new.png)  
 - [2020-09-18-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
+- [2020-09-18-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
 - [2020-09-18-测试-App-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
 - [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
-- [2020-09-18-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-18-伸手党的容器镜像加固流程](https://toutiao.io/k/k6fncdr) ![](assets/new.png)  
 - [2020-09-18-Apache-Pulsar-在腾讯-Angel-PowerFL-联邦学习平台上的实践](https://toutiao.io/k/95tn0ri) ![](assets/new.png)  
 - [2020-09-18-译-通过-Node-和-Redis-进行-API-速率限制](https://toutiao.io/k/1ry3q0p) ![](assets/new.png)  

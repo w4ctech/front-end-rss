@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 13:11:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 13:22:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -31,6 +31,9 @@
 - [2020-01-01-倏忽一年：回顾点评前端-2019-重大事件、趋势](https://www.ershicimi.com/p/88b10c5e55ecef0583393efa7d466665) 
 - [2019-12-30-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/8afb29a5864bf11ab6723cdc66a0c6ab) 
 - [2019-12-26-如何答一道惊艳面试官的数组去重问题？](https://www.ershicimi.com/p/65b6fbfea2975868732525463c062fdf) 
+- [2020-09-17-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/a41334d8bc46815bd43f086cd46bd808) 
+- [2020-09-17-H5-移动端调试全攻略](https://www.ershicimi.com/p/3e88cd813e1df74350df4807b3098838) 
+- [2020-09-09-15个必须知道的JavaScript数组方法](https://www.ershicimi.com/p/d9d012994024de7ac82b03eb146c7466) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-09-12-【第2063期】如何进行表单体验优化-中台系统](https://www.ershicimi.com/p/cbfdb8df7884184d75e415555dbbee81) 
@@ -71,6 +74,7 @@
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-09-14-谈谈-MySQL-的-JSON-数据类型操作](https://www.ershicimi.com/p/7beecef0113be070b25eaf2ec4284dcb) 
 - [2020-09-11-奇舞周刊第-363-期：鸿蒙系统中的-JS-开发框架](https://www.ershicimi.com/p/e8ce14becc6330a7a2ade8ab6b9329b9) 
 - [2020-09-10-『极限版』不掺水，用纯-CSS-来实现超飒的表单验证功能](https://www.ershicimi.com/p/b1db44ad9abcc9adfd41248d850bfeab) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 02:04:08，:rocket: 更新条数: +3412， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 02:13:29，:rocket: 更新条数: +3410， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,9 +947,9 @@
 </summary>
 
 
+- [2020-09-17-简单聊下rem与em的区别并如何做移动端适配](https://juejin.im/post/6873492198550142983) ![](assets/new.png)  
 - [2020-09-17-别再用JSON配置文件了](https://juejin.im/post/6873470783977914376) ![](assets/new.png)  
 - [2020-09-17-一次搞懂-JS事件循环之宏任务和微任务](https://juejin.im/post/6873424205791100942) ![](assets/new.png)  
-- [2020-09-17-TypeScript：vue全家桶中如何使用TypeScript语法合集](https://juejin.im/post/6873388654803288071) ![](assets/new.png)  
 - [2020-09-17-面试官：你知道垃圾回收吗？](https://juejin.im/post/6873383627800412173) ![](assets/new.png)  
 - [2020-09-17-一不小心就写了一个webpack-plugin](https://juejin.im/post/6873376942486192135) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-18-WatchOS-6-可以和-iOS-14-兼容吗？](https://www.v2ex.com/t/708194) ![](assets/new.png)  
+- [2020-09-18-急，-shell-脚本通过-curl-调用接口，接口没有结束，-shell-脚本却结束返回了！-shell-新手，请问是什么问题？谢谢大家！](https://www.v2ex.com/t/708193) ![](assets/new.png)  
+- [2020-09-18-同事打喷嚏都没捂鼻子的意识怎么破？](https://www.v2ex.com/t/708192) ![](assets/new.png)  
+- [2020-09-18-你们也是这样吗？在淘宝搜商品，出的全是天猫。](https://www.v2ex.com/t/708190) ![](assets/new.png)  
 - [2020-09-18-关于阿里云邮箱的钓鱼](https://www.v2ex.com/t/708188) ![](assets/new.png)  
 - [2020-09-18-三指取词在-Chrome-里无法使用，需要怎么设置？](https://www.v2ex.com/t/708187) ![](assets/new.png)  
 - [2020-09-18-macOS-Big-Sur-beta-7-今天推送，终于支持-AirPods-自动音频切换了！](https://www.v2ex.com/t/708186) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-18-江苏常州人，想去上海找份-PHP-相关工作，不知道我这样能力的可以找什么价位的？](https://www.v2ex.com/t/708175) ![](assets/new.png)  
 - [2020-09-18-现在想给父母买个平板，有什么可以推荐的](https://www.v2ex.com/t/708174) ![](assets/new.png)  
 - [2020-09-18-英伟达砸-400-亿收购-ARM？各位有什么看法](https://www.v2ex.com/t/708173) ![](assets/new.png)  
-- [2020-09-18-小组件需要重启才能更新出现？](https://www.v2ex.com/t/708172) ![](assets/new.png)  
-- [2020-09-18-国庆打算去武汉旅游，被武汉扫码坐地铁的-app-恶心到了，求问其它方便坐地铁的方式](https://www.v2ex.com/t/708171) ![](assets/new.png)  
-- [2020-09-18-Airpods2-&-iPad-&-iPhone-&-iMac-可三设备无缝切换吗？](https://www.v2ex.com/t/708170) ![](assets/new.png)  
-- [2020-09-18-没有感谢回复的按钮,是被站长安排了,还是怎么回事?](https://www.v2ex.com/t/708169) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1135,9 +1135,9 @@
 - [2020-09-18-深入理解-web-协议（二）：DNS、WebSocket](https://toutiao.io/k/1q915wi) ![](assets/new.png)  
 - [2020-09-18-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-18-伸手党的容器镜像加固流程](https://toutiao.io/k/k6fncdr) ![](assets/new.png)  
-- [2020-09-18-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-18-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-18-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
 - [2020-09-18-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
-- [2020-09-18-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
 - [2020-09-18-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

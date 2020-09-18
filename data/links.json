@@ -5,6 +5,11 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "9月17日全国新增境外输入新冠32例 累计确诊85255例",
+        "link": "https://m.caixin.com/m/2020-09-18/101606649.html",
+        "date": "2020-09-17"
+      },
+      {
         "title": "最新海外疫情：新冠感染超2973万 累计死亡超93.5万",
         "link": "http://m.international.caixin.com/m/2020-09-17/101606467.html",
         "date": "2020-09-16"
@@ -13177,6 +13182,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "国家卫健委：昨日新增确诊病例32例 均为境外输入病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zaSknVSh6Gl2X2ALIKc200918&isfromapp=1",
+        "date": "2020-09-18"
+      },
+      {
         "title": "巴西新冠肺炎确诊病例累计达445.5万",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9A8LsAnOSVpGxB9z3OSI200918&isfromapp=1",
         "date": "2020-09-17"
@@ -13194,11 +13204,6 @@
       {
         "title": "又有分歧！关于新冠疫苗和口罩 美疾控中心和白宫各执一词",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZhVxrWfujVF9uZpC0Gc200917&isfromapp=1",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "云南瑞丽抵边封控点增加至458个 对边境线24小时封控",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidxsUE333acILY2OGNHud200917&isfromapp=1",
         "date": "2020-09-17"
       }
     ]
@@ -17476,6 +17481,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[leetcode/lintcode 题解] 算法模板：二分查找",
+        "link": "https://www.v2ex.com/t/708162",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "Xcode12 编译速度慢",
+        "link": "https://www.v2ex.com/t/708161",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "云服务器 10 月底就期了，有啥好的推荐，个人用",
+        "link": "https://www.v2ex.com/t/708160",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "阿里小号部分验证码收不到",
+        "link": "https://www.v2ex.com/t/708158",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "升级 iOS14 后 Wi-Fi 无法联网问题的解决方法（之一）",
+        "link": "https://www.v2ex.com/t/708157",
+        "date": "2020-09-18"
+      },
+      {
         "title": "远程，还是双语邦的云 Team----再求 Flutter 程序员",
         "link": "https://www.v2ex.com/t/708153",
         "date": "2020-09-18"
@@ -17644,36 +17674,6 @@
         "title": "分享下我用 AirPods 2 代开启无缝连接的方法/经验分享",
         "link": "https://www.v2ex.com/t/708114",
         "date": "2020-09-17"
-      },
-      {
-        "title": "我的邮件验证一直没法通过，可以帮我解决一下么，我有回过邮件",
-        "link": "https://www.v2ex.com/t/708113",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "Java 程序员现在在国内不值钱了吗？",
-        "link": "https://www.v2ex.com/t/708112",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "大家职业生涯中有过封闭攻关技术难题的高光时刻吗？",
-        "link": "https://www.v2ex.com/t/708111",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "IOS 14 说好的垃圾短信关键字过滤呢？",
-        "link": "https://www.v2ex.com/t/708109",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "淘宝领了隐藏优惠券,再走自己的返利.那最终是谁得了钱呢?",
-        "link": "https://www.v2ex.com/t/708108",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "震惊， iPad Pro10.5 竟然不支持 AirPods Pro 的空间音频",
-        "link": "https://www.v2ex.com/t/708106",
-        "date": "2020-09-17"
       }
     ]
   },
@@ -17815,13 +17815,13 @@
         "date": "2020-09-18"
       },
       {
-        "title": "测试 APP 抓不到数据包该怎么办",
-        "link": "https://toutiao.io/k/kxbc9k1",
+        "title": "用户画像实践：神策标签生产引擎架构",
+        "link": "https://toutiao.io/k/9oso7iw",
         "date": "2020-09-18"
       },
       {
-        "title": "用户画像实践：神策标签生产引擎架构",
-        "link": "https://toutiao.io/k/9oso7iw",
+        "title": "测试 APP 抓不到数据包该怎么办",
+        "link": "https://toutiao.io/k/kxbc9k1",
         "date": "2020-09-18"
       },
       {
@@ -17835,33 +17835,28 @@
         "date": "2020-09-18"
       },
       {
-        "title": "交叉熵损失函数到底是什么原理?",
-        "link": "https://toutiao.io/k/52z1pds",
-        "date": "2020-09-18"
-      },
-      {
         "title": "面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（二）",
         "link": "https://toutiao.io/k/o3yc3dw",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "交叉熵损失函数到底是什么原理?",
+        "link": "https://toutiao.io/k/52z1pds",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
+        "title": "Hystrix 线程池隔离的原理与验证",
+        "link": "https://toutiao.io/k/wlo2s4g",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "“手撕算法” 锁定大厂看这就可",
+        "link": "https://toutiao.io/k/rp4d1v7",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-18"
       },
       {
@@ -17870,23 +17865,18 @@
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-18"
       },
       {
@@ -17900,13 +17890,28 @@
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
+        "link": "https://toutiao.io/k/cix73fs",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
         "date": "2020-09-18"
       },
       {
@@ -17915,8 +17920,13 @@
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-18"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 01:07:14，:rocket: 更新条数: +3630， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 01:26:55，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-09-17-9月17日全国新增境外输入新冠32例-累计确诊85255例](https://m.caixin.com/m/2020-09-18/101606649.html) ![](assets/new.png)  
 - [2020-09-16-最新海外疫情：新冠感染超2973万-累计死亡超93.5万](http://m.international.caixin.com/m/2020-09-17/101606467.html) ![](assets/new.png)  
 - [2020-09-16-【境内疫情观察】全国新增9例境外输入病例（9月16日）](http://m.database.caixin.com/m/2020-09-17/101606363.html) ![](assets/new.png)  
 - [2020-09-16-大流行手记|9月16日：年轻人聚会推升欧洲疫情-辉瑞坦承疫苗受试者出现副作用](https://m.caixin.com/m/2020-09-17/101606221.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-09-12-大流行手记|9月12日：法国疫情明显恶化-阿斯利康重启新冠疫苗试验](https://m.caixin.com/m/2020-09-13/101604607.html) ![](assets/new.png)  
 - [2020-09-12-舟山一外籍轮7名船员核检阳性-已隔离观察](http://m.china.caixin.com/m/2020-09-13/101604668.html) ![](assets/new.png)  
 - [2020-09-12-云南瑞丽市一小区发现1例疑似病例，实施隔离封闭管理](http://m.china.caixin.com/m/2020-09-13/101604642.html) ![](assets/new.png)  
-- [2020-09-11-【境内疫情观察】全国连续150日无新增死亡病例（9月11日）](http://m.database.caixin.com/m/2020-09-12/101604544.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-18-国家卫健委：昨日新增确诊病例32例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zaSknVSh6Gl2X2ALIKc200918&isfromapp=1) ![](assets/new.png)  
 - [2020-09-17-巴西新冠肺炎确诊病例累计达445.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9A8LsAnOSVpGxB9z3OSI200918&isfromapp=1) ![](assets/new.png)  
 - [2020-09-17-世卫组织欧洲办事处：欧洲新冠病毒的感染传播令人震惊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimIGDkqXVuyLbQ69rmiN0200918&isfromapp=1) ![](assets/new.png)  
 - [2020-09-17-美国上周首次申请失业救济人数为-86-万人-经济复苏正在放缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEtX2TW2bB3JsUf4GMYyV200917&isfromapp=1) ![](assets/new.png)  
 - [2020-09-17-又有分歧！关于新冠疫苗和口罩-美疾控中心和白宫各执一词](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZhVxrWfujVF9uZpC0Gc200917&isfromapp=1) ![](assets/new.png)  
-- [2020-09-17-云南瑞丽抵边封控点增加至458个-对边境线24小时封控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidxsUE333acILY2OGNHud200917&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-09-18-leetcode/lintcode-题解-算法模板：二分查找](https://www.v2ex.com/t/708162) ![](assets/new.png)  
+- [2020-09-18-Xcode12-编译速度慢](https://www.v2ex.com/t/708161) ![](assets/new.png)  
+- [2020-09-18-云服务器-10-月底就期了，有啥好的推荐，个人用](https://www.v2ex.com/t/708160) ![](assets/new.png)  
+- [2020-09-18-阿里小号部分验证码收不到](https://www.v2ex.com/t/708158) ![](assets/new.png)  
+- [2020-09-18-升级-iOS14-后-Wi-Fi-无法联网问题的解决方法（之一）](https://www.v2ex.com/t/708157) ![](assets/new.png)  
 - [2020-09-18-远程，还是双语邦的云-Team----再求-Flutter-程序员](https://www.v2ex.com/t/708153) ![](assets/new.png)  
 - [2020-09-18-土木搬砖狗转行前端开发二：切图仔之路](https://www.v2ex.com/t/708152) ![](assets/new.png)  
 - [2020-09-18-纯色-T-恤哪家强？](https://www.v2ex.com/t/708151) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-09-17-上架抽专业版-Anchor：好用的-Mac-任务栏和通知中心](https://www.v2ex.com/t/708138) ![](assets/new.png)  
 - [2020-09-17-iOS14-正式版把-4K-视频播放砍掉了？](https://www.v2ex.com/t/708137) ![](assets/new.png)  
 - [2020-09-17-Vue-UI-框架选择:-Vuetify-vs.-BootstrapVue](https://www.v2ex.com/t/708136) ![](assets/new.png)  
-- [2020-09-17-有人买到-3080-了么](https://www.v2ex.com/t/708135) ![](assets/new.png)  
-- [2020-09-17-safari14-普及了是不是意味着-webp-也普及了](https://www.v2ex.com/t/708134) ![](assets/new.png)  
-- [2020-09-17-病毒怎么破](https://www.v2ex.com/t/708133) ![](assets/new.png)  
-- [2020-09-17-炒饭近期进展----推荐系统实现、GIF-转-H.264、Flutter-App](https://www.v2ex.com/t/708131) ![](assets/new.png)  
-- [2020-09-17-偶尔通宵加班/还是常年-996](https://www.v2ex.com/t/708130) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,21 +1144,21 @@
 - [2020-09-18-Java-15-的新特性](https://toutiao.io/k/1zo4ozy) ![](assets/new.png)  
 - [2020-09-18-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
 - [2020-09-18-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
-- [2020-09-18-测试-APP-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
+- [2020-09-18-测试-APP-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
 - [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
-- [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
 - [2020-09-18-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) ![](assets/new.png)  
-- [2020-09-18-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-18-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-18-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-18-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
+- [2020-09-18-Hystrix-线程池隔离的原理与验证](https://toutiao.io/k/wlo2s4g) ![](assets/new.png)  
+- [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
+- [2020-09-18-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
 - [2020-09-18-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-18-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
-- [2020-09-18-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
-- [2020-09-18-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-18-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-18-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-18-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-18-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-18-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-18-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

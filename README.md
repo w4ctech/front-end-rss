@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 08:04:14，:rocket: 更新条数: +3416， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 08:13:41，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-18-教程-如何领取-Epic​的游戏《看门狗-2》](https://www.v2ex.com/t/708330) ![](assets/new.png)  
+- [2020-09-18-XR-手机的网易云音乐-APP-图标变空白图](https://www.v2ex.com/t/708328) ![](assets/new.png)  
 - [2020-09-18-知乎，网易新闻，微博，账号注销了，卸载了。该关注的更多是自己。](https://www.v2ex.com/t/708327) ![](assets/new.png)  
 - [2020-09-18-中国银行，-5-元充-10-100-元话费](https://www.v2ex.com/t/708325) ![](assets/new.png)  
 - [2020-09-18-iOS14-里面那个区域网络权限是干什么的](https://www.v2ex.com/t/708324) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-18-为什么我还是没办法回复主题](https://www.v2ex.com/t/708310) ![](assets/new.png)  
 - [2020-09-18-实在无法适应公司的-convention-怎么搞](https://www.v2ex.com/t/708309) ![](assets/new.png)  
 - [2020-09-18-迫于-SecureCrt-不支持-ubuntu-20.04，-xshell-又没-Linux-版本，自己开发了一个替代品](https://www.v2ex.com/t/708307) ![](assets/new.png)  
-- [2020-09-18-迫于贫穷-最近想买一台-sony-降噪头戴耳机，但是发现价格几百几百地波动很激烈，为啥？](https://www.v2ex.com/t/708306) ![](assets/new.png)  
-- [2020-09-18-远程全职-React-高级前端工程师（月薪-24k-起）/-软件测试工程师（月薪-12k-起），不加班/不打卡/时间地点自由](https://www.v2ex.com/t/708305) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1122,8 @@
 - [2020-09-18-华为鸿蒙-2.0，让我遇见未来-|-码农周刊第-318-期](https://toutiao.io/k/6rprzrd) ![](assets/new.png)  
 - [2020-09-18-JDK-15-正式发布，划时代的-ZGC-同时宣布转正](https://toutiao.io/k/ipkoven) ![](assets/new.png)  
 - [2020-09-18-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) ![](assets/new.png)  
-- [2020-09-18-Java-15-的新特性](https://toutiao.io/k/1zo4ozy) ![](assets/new.png)  
 - [2020-09-18-Hystrix-线程池隔离的原理与验证](https://toutiao.io/k/wlo2s4g) ![](assets/new.png)  
+- [2020-09-18-Java-15-的新特性](https://toutiao.io/k/1zo4ozy) ![](assets/new.png)  
 - [2020-09-18-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
 - [2020-09-18-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
 - [2020-09-18-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  

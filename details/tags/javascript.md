@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 08:35:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 08:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -98,6 +98,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-18-狗东白嫖路由器，终于来了！](https://www.v2ex.com/t/708318) 
 - [2020-09-18-倡议大家一起抵制用-json-写配置文件，不能写注释，真的是服了。](https://www.v2ex.com/t/708312) 
-- [2020-09-18-jsdelivr-凉了，-cdn-正常](https://www.v2ex.com/t/708294) 
 - [2020-09-18-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-16-解读伊朗黑客利用VPN漏洞入侵全球企业内网事件](https://sec.thief.one/article_content?a_id=23a2f38d30635577acd4bc3a2fc4b97c) 

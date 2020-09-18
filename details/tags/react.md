@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 07:12:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 07:23:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -35,4 +35,4 @@
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 
-- [2020-09-18-远程全职-React-高级前端工程师（月薪-24k-起）/-QA-工程师（月薪-12k-起），不加班/不打卡/时间地点自由](https://www.v2ex.com/t/708305) 
+- [2020-09-18-远程全职-React-高级前端工程师（月薪-24k-起）/-软件测试工程师（月薪-12k-起），不加班/不打卡/时间地点自由](https://www.v2ex.com/t/708305) 

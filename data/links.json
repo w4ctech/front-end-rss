@@ -16365,12 +16365,37 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "倡议大家一起抵制用 json 写配置文件，不能写注释，真的是服了。",
+        "link": "https://www.v2ex.com/t/708312",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "给面试者的四点建议",
+        "link": "https://www.v2ex.com/t/708311",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "为什么我还是没办法回复主题",
+        "link": "https://www.v2ex.com/t/708310",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "实在无法适应公司的 convention 怎么搞",
+        "link": "https://www.v2ex.com/t/708309",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "迫于 SecureCrt 不支持 ubuntu 20.04， xshell 又没 Linux 版本，自己开发了一个替代品",
+        "link": "https://www.v2ex.com/t/708307",
+        "date": "2020-09-18"
+      },
+      {
         "title": "[迫于贫穷] 最近想买一台 sony 降噪头戴耳机，但是发现价格几百几百地波动很激烈，为啥？",
         "link": "https://www.v2ex.com/t/708306",
         "date": "2020-09-18"
       },
       {
-        "title": "[远程全职] React 高级前端工程师（月薪 24k 起）/ QA 工程师（月薪 12k 起），不加班/不打卡/时间地点自由",
+        "title": "[远程全职] React 高级前端工程师（月薪 24k 起）/ 软件测试工程师（月薪 12k 起），不加班/不打卡/时间地点自由",
         "link": "https://www.v2ex.com/t/708305",
         "date": "2020-09-18"
       },
@@ -16538,31 +16563,6 @@
         "title": "[招聘] 前端 FE 研发工程师",
         "link": "https://www.v2ex.com/t/708263",
         "date": "2020-09-18"
-      },
-      {
-        "title": "[上海] 哈啰出行跪求 Android/iOS 开发，感兴趣进来聊下",
-        "link": "https://www.v2ex.com/t/708262",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "突然觉得，我是否应该确定自己的行业方向了？",
-        "link": "https://www.v2ex.com/t/708261",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "更新 xcode12 和 safari 14 后 mac 出现破音的问题",
-        "link": "https://www.v2ex.com/t/708259",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "现在微信的语音识别技术是用的自家的技术吗？",
-        "link": "https://www.v2ex.com/t/708258",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "大家是怎么处理旧电脑的？",
-        "link": "https://www.v2ex.com/t/708257",
-        "date": "2020-09-18"
       }
     ]
   },
@@ -16714,13 +16714,13 @@
         "date": "2020-09-18"
       },
       {
-        "title": "用户画像实践：神策标签生产引擎架构",
-        "link": "https://toutiao.io/k/9oso7iw",
+        "title": "记一次线上性能调优：火焰图是利器",
+        "link": "https://toutiao.io/k/rbvgji4",
         "date": "2020-09-18"
       },
       {
-        "title": "记一次线上性能调优：火焰图是利器",
-        "link": "https://toutiao.io/k/rbvgji4",
+        "title": "用户画像实践：神策标签生产引擎架构",
+        "link": "https://toutiao.io/k/9oso7iw",
         "date": "2020-09-18"
       },
       {
@@ -16779,33 +16779,13 @@
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-18"
-      },
-      {
         "title": "[推荐] Go 如何实现热重启",
         "link": "https://toutiao.io/k/cxttrqv",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-18"
       },
       {
@@ -16814,23 +16794,13 @@
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
-        "link": "https://toutiao.io/k/xwcsap9",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
-        "link": "https://toutiao.io/k/pz73jc0",
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-18"
       },
       {
@@ -16839,18 +16809,48 @@
         "date": "2020-09-18"
       },
       {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-18"
+      },
+      {
         "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
         "link": "https://toutiao.io/k/5xvc683",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
         "date": "2020-09-18"
       }
     ]

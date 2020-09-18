@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 07:12:21，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 07:23:03，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,8 +1057,13 @@
 </summary>
 
 
+- [2020-09-18-倡议大家一起抵制用-json-写配置文件，不能写注释，真的是服了。](https://www.v2ex.com/t/708312) ![](assets/new.png)  
+- [2020-09-18-给面试者的四点建议](https://www.v2ex.com/t/708311) ![](assets/new.png)  
+- [2020-09-18-为什么我还是没办法回复主题](https://www.v2ex.com/t/708310) ![](assets/new.png)  
+- [2020-09-18-实在无法适应公司的-convention-怎么搞](https://www.v2ex.com/t/708309) ![](assets/new.png)  
+- [2020-09-18-迫于-SecureCrt-不支持-ubuntu-20.04，-xshell-又没-Linux-版本，自己开发了一个替代品](https://www.v2ex.com/t/708307) ![](assets/new.png)  
 - [2020-09-18-迫于贫穷-最近想买一台-sony-降噪头戴耳机，但是发现价格几百几百地波动很激烈，为啥？](https://www.v2ex.com/t/708306) ![](assets/new.png)  
-- [2020-09-18-远程全职-React-高级前端工程师（月薪-24k-起）/-QA-工程师（月薪-12k-起），不加班/不打卡/时间地点自由](https://www.v2ex.com/t/708305) ![](assets/new.png)  
+- [2020-09-18-远程全职-React-高级前端工程师（月薪-24k-起）/-软件测试工程师（月薪-12k-起），不加班/不打卡/时间地点自由](https://www.v2ex.com/t/708305) ![](assets/new.png)  
 - [2020-09-18-中秋节还在吃月饼吗？](https://www.v2ex.com/t/708302) ![](assets/new.png)  
 - [2020-09-18-当你在网络上去买一个你从来没用过的东西时,-有什么挑选技巧吗?](https://www.v2ex.com/t/708299) ![](assets/new.png)  
 - [2020-09-18-Picsee-尝试构建开放式的素材管理方法，欢迎免费下载使用（macOS）](https://www.v2ex.com/t/708297) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-09-18-求教-pandas-相关，最快找到某列中与上一行不同正负号的行，不用-for-应该怎么写？](https://www.v2ex.com/t/708288) ![](assets/new.png)  
 - [2020-09-18-网页在线截屏工具](https://www.v2ex.com/t/708287) ![](assets/new.png)  
 - [2020-09-18-云闪付-app-话费-100-10三网皆可](https://www.v2ex.com/t/708286) ![](assets/new.png)  
-- [2020-09-18-ios14-尿崩阿，咋办](https://www.v2ex.com/t/708285) ![](assets/new.png)  
-- [2020-09-18-被-gomodule-折磨的死去活来](https://www.v2ex.com/t/708284) ![](assets/new.png)  
-- [2020-09-18-关于失眠，怎么入睡](https://www.v2ex.com/t/708281) ![](assets/new.png)  
-- [2020-09-18-iOS-14-顶部下拉的-widget-页变得难退出了](https://www.v2ex.com/t/708280) ![](assets/new.png)  
-- [2020-09-18-ios-14，触摸-3-次背面截图，经常性的往桌子上一放就触发了](https://www.v2ex.com/t/708279) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,8 +1126,8 @@
 - [2020-09-18-Hystrix-线程池隔离的原理与验证](https://toutiao.io/k/wlo2s4g) ![](assets/new.png)  
 - [2020-09-18-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
 - [2020-09-18-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
-- [2020-09-18-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
 - [2020-09-18-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
+- [2020-09-18-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
 - [2020-09-18-测试-App-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
 - [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  

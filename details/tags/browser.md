@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 05:49:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 06:04:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,8 +31,8 @@
 - [2020-09-16-15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/6132906ae7deb3d51731b82fc93b3f87) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
-- [2020-09-17-你的Web系统真的安全吗？](https://juejin.im/post/6873697088652181518) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-18-iOS-14-顶部下拉的-widget-页变得难退出了](https://www.v2ex.com/t/708280) 
 - [2020-09-18-更新-xcode12-和-safari-14-后-mac-出现破音的问题](https://www.v2ex.com/t/708259) 
 - [2020-09-18-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-18-深入理解-web-协议（二）：DNS、WebSocket](https://toutiao.io/k/1q915wi) 

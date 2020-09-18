@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 05:49:19，:rocket: 更新条数: +3414， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 06:04:06，:rocket: 更新条数: +3416， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-09-17-你的Web系统真的安全吗？](https://juejin.im/post/6873697088652181518) ![](assets/new.png)  
+- [2020-09-17-使用NodeJS实现JWT原理](https://juejin.im/post/6873700061000237069) ![](assets/new.png)  
 - [2020-09-17-转转FE工程体系之——模块开发工具已开源](https://juejin.im/post/6873696140441681927) ![](assets/new.png)  
 - [2020-09-17-Blazor-VS-JavaScript：Blazor-能否取代-JavaScript-成为-Web-开发的首选框架](https://juejin.im/post/6873695385358073864) ![](assets/new.png)  
 - [2020-09-17-告别硬编码，让你的前端表格自动计算](https://juejin.im/post/6873694006736322573) ![](assets/new.png)  
-- [2020-09-17-前端架构探索与实践](https://juejin.im/post/6873671679080398855) ![](assets/new.png)  
+- [2020-09-17-CSS-选择器-—-重学前端](https://juejin.im/post/6873672592947937294) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-09-18-被-gomodule-折磨的死去活来](https://www.v2ex.com/t/708284) ![](assets/new.png)  
+- [2020-09-18-关于失眠，怎么入睡](https://www.v2ex.com/t/708281) ![](assets/new.png)  
+- [2020-09-18-iOS-14-顶部下拉的-widget-页变得难退出了](https://www.v2ex.com/t/708280) ![](assets/new.png)  
+- [2020-09-18-ios-14，触摸-3-次背面截图，经常性的往桌子上一放就触发了](https://www.v2ex.com/t/708279) ![](assets/new.png)  
+- [2020-09-18-快手持续招人中...](https://www.v2ex.com/t/708278) ![](assets/new.png)  
 - [2020-09-18-更新到-watchOS-7.1-新出的艺术家表盘还有一个数字表盘没了](https://www.v2ex.com/t/708277) ![](assets/new.png)  
 - [2020-09-18-中秋回馈——这些正版软件超低价购买~](https://www.v2ex.com/t/708276) ![](assets/new.png)  
 - [2020-09-18-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/708275) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-09-18-哔哩哔哩-iOS-版画中画不支持循环](https://www.v2ex.com/t/708264) ![](assets/new.png)  
 - [2020-09-18-招聘-前端-FE-研发工程师](https://www.v2ex.com/t/708263) ![](assets/new.png)  
 - [2020-09-18-上海-哈啰出行跪求-Android/iOS-开发，感兴趣进来聊下](https://www.v2ex.com/t/708262) ![](assets/new.png)  
-- [2020-09-18-突然觉得，我是否应该确定自己的行业方向了？](https://www.v2ex.com/t/708261) ![](assets/new.png)  
-- [2020-09-18-更新-xcode12-和-safari-14-后-mac-出现破音的问题](https://www.v2ex.com/t/708259) ![](assets/new.png)  
-- [2020-09-18-现在微信的语音识别技术是用的自家的技术吗？](https://www.v2ex.com/t/708258) ![](assets/new.png)  
-- [2020-09-18-大家是怎么处理旧电脑的？](https://www.v2ex.com/t/708257) ![](assets/new.png)  
-- [2020-09-18-git-主分支回退后无法-merge-问题](https://www.v2ex.com/t/708256) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

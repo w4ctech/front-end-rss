@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 01:30:25，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 01:33:36，:rocket: 更新条数: +3631， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -384,6 +384,11 @@
 </summary>
 
 
+- [2020-09-18-成为了Python全栈之后，我打开了高薪的大门……](https://www.ershicimi.com/p/0ec5885f45be0af38781d1018dc043b1) ![](assets/new.png)  
+- [2020-09-18-保持页脚在底部:Flexbox-vs-Grid](https://www.ershicimi.com/p/1473c3e588d8f9967d71001139453df3) ![](assets/new.png)  
+- [2020-09-17-还在靠死工资续命的程序员，请一个字一个字看完！](https://www.ershicimi.com/p/541f188fa39aa002584a502ba8c90583) ![](assets/new.png)  
+- [2020-09-17-做B端后台产品很复杂？一份完整的设计流程和规范！](https://www.ershicimi.com/p/f553ac3a3817aa720904ff23166422f0) ![](assets/new.png)  
+- [2020-09-16-华为云居然招聘“幕后推手”！太会玩了吧……](https://www.ershicimi.com/p/d7942153f96941969d3b44671df16fd1) ![](assets/new.png)  
 - [2020-09-15-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/2705e60331f36544f4b5b290082a6bfb) ![](assets/new.png)  
 - [2020-09-12-「划线高亮」和「插入笔记」--不止是前端知识点](https://www.ershicimi.com/p/7e861f95a64f85da3c20eca5a4424033) ![](assets/new.png)  
 - [2020-09-12-随机数的故事](https://www.ershicimi.com/p/a2eb73056c0b5949395834e226ebe0cc) ![](assets/new.png)  
@@ -399,11 +404,6 @@
 - [2020-09-05-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/bfd6bfdccdc7449e2cdf02fbba249c51) ![](assets/new.png)  
 - [2020-09-04-Python入门并不不难，但想要成就高薪岗位你还需要……](https://www.ershicimi.com/p/0a25b8f451fbef286ddff4f8af3caa71) ![](assets/new.png)  
 - [2020-09-04-基于react的组件库主题设计方案](https://www.ershicimi.com/p/1f365d8a2e50f79b062be641e0709173) ![](assets/new.png)  
-- [2020-09-03-我就想招React，为啥遍地都是Vue？](https://www.ershicimi.com/p/299460acfec31040fd207e56db5cd342) ![](assets/new.png)  
-- [2020-09-01-CSS-8种让人眼前一亮的hover效果](https://www.ershicimi.com/p/5c4b9882738d384f3e6b3a83264cd49f) ![](assets/new.png)  
-- [2020-08-31-今天来聊聊，我是如何把Vue学到顶尖水平？](https://www.ershicimi.com/p/52d95b50014398dade79b7255263cdf3) ![](assets/new.png)  
-- [2020-08-31-谷歌发布-Chrome-85-稳定版，引入-PGO，页面加载速度提升-10%](https://www.ershicimi.com/p/975990ee48bfa33c48d7f050015bdbe5) ![](assets/new.png)  
-- [2020-08-29-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/51d0c0cd051627d75fc8b9b08453cc70) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-18-挺喜欢-ios14-的小组件的，有种以前用的-windows-手机的感觉，可就是可用的小组件太少了。要是自定义就好了。。。。](https://www.v2ex.com/t/708164) ![](assets/new.png)  
 - [2020-09-18-leetcode/lintcode-题解-算法模板：二分查找](https://www.v2ex.com/t/708162) ![](assets/new.png)  
 - [2020-09-18-Xcode12-编译速度慢](https://www.v2ex.com/t/708161) ![](assets/new.png)  
 - [2020-09-18-云服务器-10-月底就期了，有啥好的推荐，个人用](https://www.v2ex.com/t/708160) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-17--iPhone-遇到同样的问题了：清除越狱后升级了-IOS14，但是提示无法检测更新。](https://www.v2ex.com/t/708139) ![](assets/new.png)  
 - [2020-09-17-上架抽专业版-Anchor：好用的-Mac-任务栏和通知中心](https://www.v2ex.com/t/708138) ![](assets/new.png)  
 - [2020-09-17-iOS14-正式版把-4K-视频播放砍掉了？](https://www.v2ex.com/t/708137) ![](assets/new.png)  
-- [2020-09-17-Vue-UI-框架选择:-Vuetify-vs.-BootstrapVue](https://www.v2ex.com/t/708136) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1147,18 +1147,18 @@
 - [2020-09-18-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
 - [2020-09-18-测试-APP-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
-- [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
 - [2020-09-18-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) ![](assets/new.png)  
 - [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
+- [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
 - [2020-09-18-Hystrix-线程池隔离的原理与验证](https://toutiao.io/k/wlo2s4g) ![](assets/new.png)  
 - [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
-- [2020-09-18-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-18-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
+- [2020-09-18-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-18-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
 - [2020-09-18-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
-- [2020-09-18-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-18-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-18-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-18-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-18-推荐-程序员进阶系列：多图教你掌握-JVM](https://toutiao.io/k/pz73jc0) ![](assets/new.png)  
 - [2020-09-18-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-18-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

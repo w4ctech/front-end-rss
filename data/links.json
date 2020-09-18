@@ -14146,6 +14146,31 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "成为了Python全栈之后，我打开了高薪的大门……",
+        "link": "https://www.ershicimi.com/p/0ec5885f45be0af38781d1018dc043b1",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "保持页脚在底部:Flexbox vs Grid",
+        "link": "https://www.ershicimi.com/p/1473c3e588d8f9967d71001139453df3",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "还在靠死工资续命的程序员，请一个字一个字看完！",
+        "link": "https://www.ershicimi.com/p/541f188fa39aa002584a502ba8c90583",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "做B端后台产品很复杂？一份完整的设计流程和规范！",
+        "link": "https://www.ershicimi.com/p/f553ac3a3817aa720904ff23166422f0",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "华为云居然招聘“幕后推手”！太会玩了吧……",
+        "link": "https://www.ershicimi.com/p/d7942153f96941969d3b44671df16fd1",
+        "date": "2020-09-16"
+      },
+      {
         "title": "你可以不精通Vue，但一定要精通JS！",
         "link": "https://www.ershicimi.com/p/2705e60331f36544f4b5b290082a6bfb",
         "date": "2020-09-15"
@@ -14219,31 +14244,6 @@
         "title": "基于react的组件库主题设计方案",
         "link": "https://www.ershicimi.com/p/1f365d8a2e50f79b062be641e0709173",
         "date": "2020-09-04"
-      },
-      {
-        "title": "我就想招React，为啥遍地都是Vue？",
-        "link": "https://www.ershicimi.com/p/299460acfec31040fd207e56db5cd342",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "CSS 8种让人眼前一亮的hover效果",
-        "link": "https://www.ershicimi.com/p/5c4b9882738d384f3e6b3a83264cd49f",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "今天来聊聊，我是如何把Vue学到顶尖水平？",
-        "link": "https://www.ershicimi.com/p/52d95b50014398dade79b7255263cdf3",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "谷歌发布 Chrome 85 稳定版，引入 PGO，页面加载速度提升 10%",
-        "link": "https://www.ershicimi.com/p/975990ee48bfa33c48d7f050015bdbe5",
-        "date": "2020-08-31"
-      },
-      {
-        "title": "1000+个项目的10大JavaScript错误",
-        "link": "https://www.ershicimi.com/p/51d0c0cd051627d75fc8b9b08453cc70",
-        "date": "2020-08-29"
       }
     ],
     "link": "https://www.ershicimi.com/a/892"
@@ -17481,6 +17481,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "挺喜欢 ios14 的小组件的，有种以前用的 windows 手机的感觉，可就是可用的小组件太少了。要是自定义就好了。。。。",
+        "link": "https://www.v2ex.com/t/708164",
+        "date": "2020-09-18"
+      },
+      {
         "title": "[leetcode/lintcode 题解] 算法模板：二分查找",
         "link": "https://www.v2ex.com/t/708162",
         "date": "2020-09-18"
@@ -17664,16 +17669,6 @@
         "title": "到底什么时候才能把 iPhone 上屏蔽过滤掉的信息不在手表上再震动提醒一遍？",
         "link": "https://www.v2ex.com/t/708116",
         "date": "2020-09-17"
-      },
-      {
-        "title": "我想做一个地球上最好用的在线工具网站，有人支持一下吗？",
-        "link": "https://www.v2ex.com/t/708115",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "分享下我用 AirPods 2 代开启无缝连接的方法/经验分享",
-        "link": "https://www.v2ex.com/t/708114",
-        "date": "2020-09-17"
       }
     ]
   },
@@ -17830,11 +17825,6 @@
         "date": "2020-09-18"
       },
       {
-        "title": "发生 SLAB 内存泄漏该怎么办",
-        "link": "https://toutiao.io/k/tlsi892",
-        "date": "2020-09-18"
-      },
-      {
         "title": "面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（二）",
         "link": "https://toutiao.io/k/o3yc3dw",
         "date": "2020-09-18"
@@ -17842,6 +17832,11 @@
       {
         "title": "交叉熵损失函数到底是什么原理?",
         "link": "https://toutiao.io/k/52z1pds",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "发生 SLAB 内存泄漏该怎么办",
+        "link": "https://toutiao.io/k/tlsi892",
         "date": "2020-09-18"
       },
       {
@@ -17855,18 +17850,58 @@
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
         "date": "2020-09-18"
       },
       {
         "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
         "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
+        "link": "https://toutiao.io/k/pz73jc0",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 你还在手撕微服务？快试试 go-zero 的微服务自动生成",
+        "link": "https://toutiao.io/k/xwcsap9",
         "date": "2020-09-18"
       },
       {
@@ -17880,53 +17915,13 @@
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] [译] 10 个最有用的 git log 技巧",
-        "link": "https://toutiao.io/k/cix73fs",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] Golang 汇编入门知识总结",
-        "link": "https://toutiao.io/k/hol28ow",
-        "date": "2020-09-18"
-      },
-      {
         "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
         "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 程序员进阶系列：多图教你掌握 JVM",
-        "link": "https://toutiao.io/k/pz73jc0",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
         "date": "2020-09-18"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 01:30:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 01:33:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -45,7 +45,6 @@
 - [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
 - [2020-09-15-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/2705e60331f36544f4b5b290082a6bfb) 
 - [2020-09-09-为什么总有人觉得Vue简单？](https://www.ershicimi.com/p/4cd03e491d8fff6fc4fdf7e5f0aff1d8) 
-- [2020-08-31-今天来聊聊，我是如何把Vue学到顶尖水平？](https://www.ershicimi.com/p/52d95b50014398dade79b7255263cdf3) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) 
 - [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 02:49:10，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 03:03:27，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -948,7 +948,7 @@
 
 
 - [2020-09-17-我在项目中对前端接口请求管理的总结](https://juejin.im/post/6873605885868916744) ![](assets/new.png)  
-- [2020-09-17-手写一个-Promise](https://juejin.im/post/6873525222671122440) ![](assets/new.png)  
+- [2020-09-17-从0开始微操搞定antd+ts+react-app-rewired+react-router+mobx](https://juejin.im/post/6873528992780648462) ![](assets/new.png)  
 - [2020-09-17-【高并发】面试官：性能优化有哪些衡量指标？需要注意什么？](https://juejin.im/post/6873518886021496840) ![](assets/new.png)  
 - [2020-09-17-前端面试常见的手写功能](https://juejin.im/post/6873513007037546510) ![](assets/new.png)  
 - [2020-09-17-ES6-变量的结构赋值](https://juejin.im/post/6873482248625225741) ![](assets/new.png)  
@@ -1057,6 +1057,13 @@
 </summary>
 
 
+- [2020-09-18-求问为什么-Tesseract-OCR-同样条件和-tesseract.js-识别出的结果不一致](https://www.v2ex.com/t/708216) ![](assets/new.png)  
+- [2020-09-18-mac-maven-打包卡主求助](https://www.v2ex.com/t/708215) ![](assets/new.png)  
+- [2020-09-18-GPL3.0-协议，允许删除原作者的-logo-和软件名称吗](https://www.v2ex.com/t/708214) ![](assets/new.png)  
+- [2020-09-18-Windows10-下如何优雅的使用-IE8-内核](https://www.v2ex.com/t/708213) ![](assets/new.png)  
+- [2020-09-18-木兰重生：交互环境复现，新添新手入门](https://www.v2ex.com/t/708212) ![](assets/new.png)  
+- [2020-09-18-上海TapTap-招聘服务端开发（-Java-/-PHP-）](https://www.v2ex.com/t/708211) ![](assets/new.png)  
+- [2020-09-18-v-友们！有没有简单易懂的回溯算法例子，让小弟学习一下。](https://www.v2ex.com/t/708210) ![](assets/new.png)  
 - [2020-09-18-同学借钱不还，已起诉调解还不按期还款，怎么申请强制执行？](https://www.v2ex.com/t/708209) ![](assets/new.png)  
 - [2020-09-18-iOS-Safari-广告屏蔽现在用啥?](https://www.v2ex.com/t/708208) ![](assets/new.png)  
 - [2020-09-18-ios14-的电话-app-把好用的功能改没了](https://www.v2ex.com/t/708207) ![](assets/new.png)  
@@ -1070,13 +1077,6 @@
 - [2020-09-18-非统招本科，简历上直接写本科可以吗？](https://www.v2ex.com/t/708198) ![](assets/new.png)  
 - [2020-09-18-DO-字段命名的规范](https://www.v2ex.com/t/708197) ![](assets/new.png)  
 - [2020-09-18-个人独立开发屏幕取色工具---Pixeur，-MAC-App-，附赠-3-枚兑换码，欢迎下载体验](https://www.v2ex.com/t/708195) ![](assets/new.png)  
-- [2020-09-18-WatchOS-6-可以和-iOS-14-兼容吗？](https://www.v2ex.com/t/708194) ![](assets/new.png)  
-- [2020-09-18-急，-shell-脚本通过-curl-调用接口，接口没有结束，-shell-脚本却结束返回了！-shell-新手，请问是什么问题？谢谢大家！](https://www.v2ex.com/t/708193) ![](assets/new.png)  
-- [2020-09-18-同事打喷嚏都没捂鼻子的意识怎么破？](https://www.v2ex.com/t/708192) ![](assets/new.png)  
-- [2020-09-18-你们也是这样吗？在淘宝搜商品，出的全是天猫。](https://www.v2ex.com/t/708190) ![](assets/new.png)  
-- [2020-09-18-关于阿里云邮箱的钓鱼](https://www.v2ex.com/t/708188) ![](assets/new.png)  
-- [2020-09-18-三指取词在-Chrome-里无法使用，需要怎么设置？](https://www.v2ex.com/t/708187) ![](assets/new.png)  
-- [2020-09-18-macOS-Big-Sur-beta-7-今天推送，终于支持-AirPods-自动音频切换了！](https://www.v2ex.com/t/708186) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,21 +1124,21 @@
 - [2020-09-18-Java-15-的新特性](https://toutiao.io/k/1zo4ozy) ![](assets/new.png)  
 - [2020-09-18-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
 - [2020-09-18-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) ![](assets/new.png)  
-- [2020-09-18-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
 - [2020-09-18-Hystrix-线程池隔离的原理与验证](https://toutiao.io/k/wlo2s4g) ![](assets/new.png)  
+- [2020-09-18-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
 - [2020-09-18-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
-- [2020-09-18-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
 - [2020-09-18-测试-APP-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
+- [2020-09-18-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
 - [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
 - [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
 - [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
 - [2020-09-18-深入理解-web-协议（二）：DNS、WebSocket](https://toutiao.io/k/1q915wi) ![](assets/new.png)  
 - [2020-09-18-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-18-伸手党的容器镜像加固流程](https://toutiao.io/k/k6fncdr) ![](assets/new.png)  
-- [2020-09-18-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-18-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
-- [2020-09-18-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-18-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-18-推荐-译-10-个最有用的-git-log-技巧](https://toutiao.io/k/cix73fs) ![](assets/new.png)  
+- [2020-09-18-推荐-程序员进阶系列：多图教你掌握-JVM](https://toutiao.io/k/pz73jc0) ![](assets/new.png)  
+- [2020-09-18-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
+- [2020-09-18-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 02:49:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 03:03:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,6 +33,7 @@
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2020-09-17-我在项目中对前端接口请求管理的总结](https://juejin.im/post/6873605885868916744) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-18-Windows10-下如何优雅的使用-IE8-内核](https://www.v2ex.com/t/708213) 
 - [2020-09-18-iOS-Safari-广告屏蔽现在用啥?](https://www.v2ex.com/t/708208) 
 - [2020-09-18-急，-shell-脚本通过-curl-调用接口，接口没有结束，-shell-脚本却结束返回了！-shell-新手，请问是什么问题？谢谢大家！](https://www.v2ex.com/t/708193) 
 - [2020-09-18-三指取词在-Chrome-里无法使用，需要怎么设置？](https://www.v2ex.com/t/708187) 

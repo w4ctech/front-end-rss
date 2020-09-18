@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-09-18 02:49:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 03:03:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-18-求问为什么-Tesseract-OCR-同样条件和-tesseract.js-识别出的结果不一致](https://www.v2ex.com/t/708216) 
+- [2020-09-18-mac-maven-打包卡主求助](https://www.v2ex.com/t/708215) 
+- [2020-09-18-GPL3.0-协议，允许删除原作者的-logo-和软件名称吗](https://www.v2ex.com/t/708214) 
+- [2020-09-18-Windows10-下如何优雅的使用-IE8-内核](https://www.v2ex.com/t/708213) 
+- [2020-09-18-木兰重生：交互环境复现，新添新手入门](https://www.v2ex.com/t/708212) 
+- [2020-09-18-上海TapTap-招聘服务端开发（-Java-/-PHP-）](https://www.v2ex.com/t/708211) 
+- [2020-09-18-v-友们！有没有简单易懂的回溯算法例子，让小弟学习一下。](https://www.v2ex.com/t/708210) 
 - [2020-09-18-同学借钱不还，已起诉调解还不按期还款，怎么申请强制执行？](https://www.v2ex.com/t/708209) 
 - [2020-09-18-iOS-Safari-广告屏蔽现在用啥?](https://www.v2ex.com/t/708208) 
 - [2020-09-18-ios14-的电话-app-把好用的功能改没了](https://www.v2ex.com/t/708207) 
@@ -43,8 +50,3 @@
 - [2020-09-18-Airpods2-&-iPad-&-iPhone-&-iMac-可三设备无缝切换吗？](https://www.v2ex.com/t/708170) 
 - [2020-09-18-开心，体检发现-6mm-的结石没了](https://www.v2ex.com/t/708168) 
 - [2020-09-18-Laravel-8-中文文档已翻译校对完毕](https://www.v2ex.com/t/708167) 
-- [2020-09-18-不要-5800，不要-4600，索尼次世代-PS5-只要-3500RMB](https://www.v2ex.com/t/708166) 
-- [2020-09-18-挺喜欢-ios14-的小组件的，有种以前用的-windows-手机的感觉，可就是可用的小组件太少了。要是自定义就好了。。。。](https://www.v2ex.com/t/708164) 
-- [2020-09-18-leetcode/lintcode-题解-算法模板：二分查找](https://www.v2ex.com/t/708162) 
-- [2020-09-18-Xcode12-编译速度慢](https://www.v2ex.com/t/708161) 
-- [2020-09-18-云服务器-10-月底就期了，有啥好的推荐，个人用](https://www.v2ex.com/t/708160) 

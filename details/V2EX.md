@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-09-18 03:03:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 03:12:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-18-求助帖：营业执照内容识别](https://www.v2ex.com/t/708219) 
+- [2020-09-18-招行积分换消费金,刷卡套现最佳伴侣](https://www.v2ex.com/t/708218) 
+- [2020-09-18-小组件有点傻](https://www.v2ex.com/t/708217) 
 - [2020-09-18-求问为什么-Tesseract-OCR-同样条件和-tesseract.js-识别出的结果不一致](https://www.v2ex.com/t/708216) 
 - [2020-09-18-mac-maven-打包卡主求助](https://www.v2ex.com/t/708215) 
 - [2020-09-18-GPL3.0-协议，允许删除原作者的-logo-和软件名称吗](https://www.v2ex.com/t/708214) 
@@ -48,5 +51,3 @@
 - [2020-09-18-小组件需要重启才能更新出现？](https://www.v2ex.com/t/708172) 
 - [2020-09-18-国庆打算去武汉旅游，被武汉扫码坐地铁的-app-恶心到了，求问其它方便坐地铁的方式](https://www.v2ex.com/t/708171) 
 - [2020-09-18-Airpods2-&-iPad-&-iPhone-&-iMac-可三设备无缝切换吗？](https://www.v2ex.com/t/708170) 
-- [2020-09-18-开心，体检发现-6mm-的结石没了](https://www.v2ex.com/t/708168) 
-- [2020-09-18-Laravel-8-中文文档已翻译校对完毕](https://www.v2ex.com/t/708167) 

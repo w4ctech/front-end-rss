@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 12:52:02，:rocket: 更新条数: +3643， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 13:03:26，:rocket: 更新条数: +3419， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,8 +1121,8 @@
 
 - [2020-09-18-华为鸿蒙-2.0，让我遇见未来-|-码农周刊第-318-期](https://toutiao.io/k/6rprzrd) ![](assets/new.png)  
 - [2020-09-18-JDK-15-正式发布，划时代的-ZGC-同时宣布转正](https://toutiao.io/k/ipkoven) ![](assets/new.png)  
-- [2020-09-18-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) ![](assets/new.png)  
 - [2020-09-18-Hystrix-线程池隔离的原理与验证](https://toutiao.io/k/wlo2s4g) ![](assets/new.png)  
+- [2020-09-18-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) ![](assets/new.png)  
 - [2020-09-18-Java-15-的新特性](https://toutiao.io/k/1zo4ozy) ![](assets/new.png)  
 - [2020-09-18-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
 - [2020-09-18-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
@@ -1151,8 +1131,8 @@
 - [2020-09-18-深入理解-Web-协议（二）：DNS、WebSocket](https://toutiao.io/k/1q915wi) ![](assets/new.png)  
 - [2020-09-18-测试-App-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
-- [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
 - [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
+- [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
 - [2020-09-18-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-18-伸手党的容器镜像加固流程](https://toutiao.io/k/k6fncdr) ![](assets/new.png)  
 - [2020-09-18-Apache-Pulsar-在腾讯-Angel-PowerFL-联邦学习平台上的实践](https://toutiao.io/k/95tn0ri) ![](assets/new.png)  
@@ -1170,6 +1150,8 @@
 </summary>
 
 
+- [2020-09-18-【相约2020网安周】2020年国家网络安全宣传周电信日主题论坛在郑...](https://sec.thief.one/article_content?a_id=b9ab72fd5e3da92c9ab8f7aa53e98b51) ![](assets/new.png)  
+- [2020-09-18-RASP攻防-——-RASP安全应用与局限性浅析](https://sec.thief.one/article_content?a_id=7a806510197199e1236e179bbf8e1ab9) ![](assets/new.png)  
 - [2020-09-18-公开课精选系列之莎士比亚的阴谋](https://sec.thief.one/article_content?a_id=a0b9f3996b993ede7a82e79d1caf7a1e) ![](assets/new.png)  
 - [2020-09-18-瓜子安全推荐:求职成功率提高80%-|-安全客人才【招聘栏】](https://sec.thief.one/article_content?a_id=b110cfa582e31e488d08aa4942a5a96c) ![](assets/new.png)  
 - [2020-09-18-【安全热点周报】第160期:SK海力士和LG电子两家公司遭勒索组织...](https://sec.thief.one/article_content?a_id=97766cba57d0dc31bb4dc2dc5d98bb3f) ![](assets/new.png)  
@@ -1188,8 +1170,6 @@
 - [2020-09-18-勒索软件攻击了一家德国医院,并导致患者死亡](https://sec.thief.one/article_content?a_id=116c8046ea880082be774506a7e76d45) ![](assets/new.png)  
 - [2020-09-18-9月18日早内参:Yam-Finance-9月19日迁移](https://sec.thief.one/article_content?a_id=009b6aa0b193bea6a012ef1ae24f311a) ![](assets/new.png)  
 - [2020-09-18-美国内政部的无线网络有多脆弱?花200美元就能打穿!](https://sec.thief.one/article_content?a_id=636f45ebc4c5b0e39427758952f2803f) ![](assets/new.png)  
-- [2020-09-18-MySQL分页,求求你别再用offset和limit了!](https://sec.thief.one/article_content?a_id=7b5acb78fbe71f9731f8791122b5cdd1) ![](assets/new.png)  
-- [2020-09-18-网络空间安全专业被劝退了吗?|-知道](https://sec.thief.one/article_content?a_id=3216ca1b5f99c612e127fb03d67699ac) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

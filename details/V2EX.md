@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-18 04:25:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 04:32:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-18-现在微信的语音识别技术是用的自家的技术吗？](https://www.v2ex.com/t/708258) 
 - [2020-09-18-大家是怎么处理旧电脑的？](https://www.v2ex.com/t/708257) 
 - [2020-09-18-git-主分支回退后无法-merge-问题](https://www.v2ex.com/t/708256) 
 - [2020-09-18-都说-Parallels-Desktop-比-VMware-Fusion-好](https://www.v2ex.com/t/708255) 
@@ -42,4 +43,3 @@
 - [2020-09-18-上海TapTap-招聘服务端开发（-Java-/-PHP-）](https://www.v2ex.com/t/708211) 
 - [2020-09-18-v-友们！有没有简单易懂的回溯算法例子，让小弟学习一下。](https://www.v2ex.com/t/708210) 
 - [2020-09-18-同学借钱不还，已起诉调解还不按期还款，怎么申请强制执行？](https://www.v2ex.com/t/708209) 
-- [2020-09-18-iOS-Safari-广告屏蔽现在用啥?](https://www.v2ex.com/t/708208) 

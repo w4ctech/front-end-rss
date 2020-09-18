@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 02:13:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 02:26:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -21,6 +21,7 @@
 - [2020-09-07-面试官：说一说递归如何优化-尾递归优化](https://www.ershicimi.com/p/6c29ac8722c5e7ee12e306e95c38cd96) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
+- [2020-09-17-【高并发】面试官：性能优化有哪些衡量指标？需要注意什么？](https://juejin.im/post/6873518886021496840) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-09-18-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) 
 - [2020-09-16-三种-MySQL-大表优化方案](https://sec.thief.one/article_content?a_id=f9a26bb89913152dbdc9db6753aee3e3) 

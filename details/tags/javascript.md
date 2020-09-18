@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 04:34:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 04:47:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -131,4 +131,5 @@
 - [2020-09-18-手机端-滚动截屏-的有什么好的软件推荐-非常感谢](https://www.v2ex.com/t/708221) 
 - [2020-09-18-小组件有点傻](https://www.v2ex.com/t/708217) 
 - [2020-09-18-求问为什么-Tesseract-OCR-同样条件和-tesseract.js-识别出的结果不一致](https://www.v2ex.com/t/708216) 
+- [2020-09-18-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-16-解读伊朗黑客利用VPN漏洞入侵全球企业内网事件](https://sec.thief.one/article_content?a_id=23a2f38d30635577acd4bc3a2fc4b97c) 

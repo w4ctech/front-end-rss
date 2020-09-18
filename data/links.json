@@ -17481,6 +17481,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[招聘] 前端 FE 研发工程师",
+        "link": "https://www.v2ex.com/t/708263",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[上海] 哈啰出行跪求 Android/iOS 开发，感兴趣进来聊下",
+        "link": "https://www.v2ex.com/t/708262",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "突然觉得，我是否应该确定自己的行业方向了？",
+        "link": "https://www.v2ex.com/t/708261",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "更新 xcode12 和 safari 14 后 mac 出现破音的问题",
+        "link": "https://www.v2ex.com/t/708259",
+        "date": "2020-09-18"
+      },
+      {
         "title": "现在微信的语音识别技术是用的自家的技术吗？",
         "link": "https://www.v2ex.com/t/708258",
         "date": "2020-09-18"
@@ -17643,31 +17663,6 @@
       {
         "title": "GPL3.0 协议，允许删除原作者的 logo 和软件名称吗",
         "link": "https://www.v2ex.com/t/708214",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "Windows10 下如何优雅的使用 IE8 内核",
-        "link": "https://www.v2ex.com/t/708213",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "木兰重生：交互环境复现，新添新手入门",
-        "link": "https://www.v2ex.com/t/708212",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[上海]TapTap 招聘服务端开发（ Java / PHP ）",
-        "link": "https://www.v2ex.com/t/708211",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "v 友们！有没有简单易懂的回溯算法例子，让小弟学习一下。",
-        "link": "https://www.v2ex.com/t/708210",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "同学借钱不还，已起诉调解还不按期还款，怎么申请强制执行？",
-        "link": "https://www.v2ex.com/t/708209",
         "date": "2020-09-18"
       }
     ]
@@ -17885,63 +17880,13 @@
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
         "date": "2020-09-18"
       },
       {
@@ -17950,13 +17895,63 @@
         "date": "2020-09-18"
       },
       {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-18"
+      },
+      {
         "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
         "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-18"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
         "date": "2020-09-18"
       }
     ]

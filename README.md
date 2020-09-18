@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 11:34:39，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 11:47:27，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-18-共享笔记](https://www.v2ex.com/t/708405) ![](assets/new.png)  
+- [2020-09-18-ios14-大图标把所有归类好的文件夹冲出来了。。怎么办。。。](https://www.v2ex.com/t/708404) ![](assets/new.png)  
 - [2020-09-18-为什么在-ubuntu-下-vim-下复制-emoji-变成从<e2312>这种形式?](https://www.v2ex.com/t/708403) ![](assets/new.png)  
 - [2020-09-18-求：能导出漂亮-PDF-简历的网站](https://www.v2ex.com/t/708401) ![](assets/new.png)  
 - [2020-09-18-各-APP-的人脸识别数据是否已经被广告营销平台用于定向推送植发、牙齿矫正，护肤等相关广告？](https://www.v2ex.com/t/708400) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-18-2-号线-淞虹路附近求租房](https://www.v2ex.com/t/708383) ![](assets/new.png)  
 - [2020-09-18-移动一号双终端要开始收费了](https://www.v2ex.com/t/708381) ![](assets/new.png)  
 - [2020-09-18-现在手机信号很差，换-5G-了信号会好点吗](https://www.v2ex.com/t/708380) ![](assets/new.png)  
-- [2020-09-18-学习-Python-有什么书籍推荐？](https://www.v2ex.com/t/708379) ![](assets/new.png)  
-- [2020-09-18-缺一个-android-程序员系列](https://www.v2ex.com/t/708378) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,9 +1130,9 @@
 - [2020-09-18-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
 - [2020-09-18-测试-App-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
-- [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
-- [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
 - [2020-09-18-深入理解-Web-协议（二）：DNS、WebSocket](https://toutiao.io/k/1q915wi) ![](assets/new.png)  
+- [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
+- [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
 - [2020-09-18-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-18-伸手党的容器镜像加固流程](https://toutiao.io/k/k6fncdr) ![](assets/new.png)  
 - [2020-09-18-Apache-Pulsar-在腾讯-Angel-PowerFL-联邦学习平台上的实践](https://toutiao.io/k/95tn0ri) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 22:03:36，:rocket: 更新条数: +3640， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 22:12:25，:rocket: 更新条数: +3640， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-18-手机厂商（Android-UI）安卓大版本升级一次-Android-11，适配工作量有多大？](https://www.v2ex.com/t/708454) ![](assets/new.png)  
 - [2020-09-18-凌晨四五点，大雨过后，空气中弥漫着青草和泥土混合着淡淡的农药的气味，让人感觉好放松。](https://www.v2ex.com/t/708453) ![](assets/new.png)  
 - [2020-09-18-北京社招-字节跳动---移动-OS-教育，高级前端工程师-等热招职位，福利多多，快来加入我们吧](https://www.v2ex.com/t/708452) ![](assets/new.png)  
 - [2020-09-18-Vue-3.0-正式版来啦！](https://www.v2ex.com/t/708450) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-18-新手打算试一下-Macbook-pro-13-请问一下大家的意见](https://www.v2ex.com/t/708431) ![](assets/new.png)  
 - [2020-09-18-求助大佬们一个阿里云如何架设-HTTP-或者-SOCK5-代理的问题？](https://www.v2ex.com/t/708429) ![](assets/new.png)  
 - [2020-09-18-最近在一件小事上和老婆有了点小分歧，如果是你会怎么选择？](https://www.v2ex.com/t/708427) ![](assets/new.png)  
-- [2020-09-18-打算送老人平板电脑，需求如下，求推荐](https://www.v2ex.com/t/708426) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,13 +1146,13 @@
 - [2020-09-18-Java-15-的新特性](https://toutiao.io/k/1zo4ozy) ![](assets/new.png)  
 - [2020-09-18-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
 - [2020-09-18-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
-- [2020-09-18-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
 - [2020-09-18-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-18-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
 - [2020-09-18-深入理解-Web-协议（二）：DNS、WebSocket](https://toutiao.io/k/1q915wi) ![](assets/new.png)  
 - [2020-09-18-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
 - [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
-- [2020-09-18-测试-App-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
+- [2020-09-18-测试-App-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
 - [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
 - [2020-09-18-Apache-Pulsar-在腾讯-Angel-PowerFL-联邦学习平台上的实践](https://toutiao.io/k/95tn0ri) ![](assets/new.png)  
 - [2020-09-18-伸手党的容器镜像加固流程](https://toutiao.io/k/k6fncdr) ![](assets/new.png)  

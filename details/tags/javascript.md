@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 05:22:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 05:32:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -101,5 +101,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-18-慕课网-PHP-/-Python-/JS-等等，-500G-压缩包转！](https://www.v2ex.com/t/708251) 
 - [2020-09-18-golang-如何转换包含-json-字段的结构体为-string](https://www.v2ex.com/t/708241) 
-- [2020-09-18-手机端-滚动截屏-的有什么好的软件推荐-非常感谢](https://www.v2ex.com/t/708221) 
+- [2020-09-18-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-16-解读伊朗黑客利用VPN漏洞入侵全球企业内网事件](https://sec.thief.one/article_content?a_id=23a2f38d30635577acd4bc3a2fc4b97c) 

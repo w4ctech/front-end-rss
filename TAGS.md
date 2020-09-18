@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-18 02:26:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 02:32:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -213,6 +213,7 @@
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】Oculus-Quest-2-发布了，可在亚马逊海外购微信小程序直接购买](https://www.v2ex.com/t/708200)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -230,7 +231,6 @@
 
 
 - [【前端大学】Flutter-在阿里淘系的体系化建设和业务实践](https://www.ershicimi.com/p/514c34189a93cb0127c602640da37056)
-- [【V2EX】远程，还是双语邦的云-Team----再求-Flutter-程序员](https://www.v2ex.com/t/708153)
 - [【技术头条】滴滴开源-移动开发-方面的-4-个项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fcwf-DSFx4T0AsR2AuEH0zA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 17:49:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-18 18:06:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -71,4 +71,5 @@
 - [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) 
 - [2020-09-18-傻瓜式教程：使用Vue和Electron构建Markdown预览器](https://juejin.im/post/6873817361632198664) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-09-18-Vue-3.0-正式版来啦！](https://www.v2ex.com/t/708450) 
 - [2020-09-18-10-分钟之前-Vuejs3.0-发布-Release-了](https://www.v2ex.com/t/708441) 

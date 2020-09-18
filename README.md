@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 05:12:18，:rocket: 更新条数: +3409， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-18 05:22:45，:rocket: 更新条数: +3413， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
@@ -715,6 +715,9 @@
 </summary>
 
 
+- [2020-09-18-科技爱好者周刊（第-125-期）：数字人民币要取代谁](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html) ![](assets/new.png)  
+- [2020-09-15-轻松学会-React-钩子：以-useEffect-为例](http://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html) ![](assets/new.png)  
+- [2020-09-11-科技爱好者周刊（第-124-期）：华为如何考核员工](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-18-关于同一套键鼠标控制多台电脑,-有何成熟方案?](https://www.v2ex.com/t/708270) ![](assets/new.png)  
 - [2020-09-18-Macbook-Pro-16‘开机等待时间长](https://www.v2ex.com/t/708269) ![](assets/new.png)  
 - [2020-09-18-苦-1Password-久矣，故搞一个计算-2FA（二次验证密码）的-iOS-Shortcut](https://www.v2ex.com/t/708268) ![](assets/new.png)  
 - [2020-09-18-出一个-ipad2017，-128g-国行](https://www.v2ex.com/t/708267) ![](assets/new.png)  
@@ -1073,7 +1077,6 @@
 - [2020-09-18-慕课网-PHP-/-Python-/JS-等等，-500G-压缩包转！](https://www.v2ex.com/t/708251) ![](assets/new.png)  
 - [2020-09-18-感觉好多经典电影没看过，有没有推荐的，动漫也行](https://www.v2ex.com/t/708247) ![](assets/new.png)  
 - [2020-09-18-「百度」「北京」云原生岗位-社招-部门直招！](https://www.v2ex.com/t/708246) ![](assets/new.png)  
-- [2020-09-18-深圳内推-明源云客-地产生态链双休-单周下午茶等优秀福利等你！](https://www.v2ex.com/t/708245) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

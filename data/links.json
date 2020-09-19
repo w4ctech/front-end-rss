@@ -5,9 +5,9 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "最新疫情：全国新冠累计确诊85255例 新增境外输入32例",
-        "link": "http://m.china.caixin.com/m/2020-09-18/101606976.html",
-        "date": "2020-09-17"
+        "title": "9月18日全国新增境外输入新冠14例 累计确诊85269例",
+        "link": "https://m.caixin.com/m/2020-09-19/101607143.html",
+        "date": "2020-09-18"
       },
       {
         "title": "最新海外疫情：新冠感染近3004万 累计死亡超94万",
@@ -17669,11 +17669,6 @@
         "title": "iPhone 在 iOS14 下能用蓝牙鼠标吗？",
         "link": "https://www.v2ex.com/t/708416",
         "date": "2020-09-18"
-      },
-      {
-        "title": "主站在香港域名为 A， B 域名备案使用百度云 cdn，加速 A 网站访问",
-        "link": "https://www.v2ex.com/t/708415",
-        "date": "2020-09-18"
       }
     ]
   },
@@ -17790,18 +17785,23 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "华为鸿蒙 2.0，让我遇见未来 | 码农周刊第 318 期",
+        "link": "https://toutiao.io/k/6rprzrd",
+        "date": "2020-09-19"
+      },
+      {
         "title": "解密 Go 协程的栈内存管理",
         "link": "https://toutiao.io/k/fkrobd3",
         "date": "2020-09-19"
       },
       {
-        "title": "伪造图像的对抗攻击，从天池大赛说起",
-        "link": "https://toutiao.io/k/zsqz9o0",
+        "title": "使用 Docker 快速上手鸿蒙",
+        "link": "https://toutiao.io/k/4enrvyp",
         "date": "2020-09-19"
       },
       {
-        "title": "使用 Docker 快速上手鸿蒙",
-        "link": "https://toutiao.io/k/4enrvyp",
+        "title": "伪造图像的对抗攻击，从天池大赛说起",
+        "link": "https://toutiao.io/k/zsqz9o0",
         "date": "2020-09-19"
       },
       {
@@ -17840,33 +17840,8 @@
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 有赞零售移动 CI/CD 实践",
-        "link": "https://toutiao.io/k/w7nj4wa",
-        "date": "2020-09-19"
-      },
-      {
         "title": "[推荐] Go 如何实现热重启",
         "link": "https://toutiao.io/k/cxttrqv",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
         "date": "2020-09-19"
       },
       {
@@ -17875,23 +17850,33 @@
         "date": "2020-09-19"
       },
       {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-19"
+      },
+      {
         "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
         "link": "https://toutiao.io/k/0dtlx6f",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
+        "title": "[推荐] 有赞零售移动 CI/CD 实践",
+        "link": "https://toutiao.io/k/w7nj4wa",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
         "date": "2020-09-19"
       },
       {
@@ -17900,18 +17885,33 @@
         "date": "2020-09-19"
       },
       {
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-19"
+      },
+      {
         "title": "[推荐] 硬核看房利器：Web 全景的实现",
         "link": "https://toutiao.io/k/ihkuhms",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-19"
       }
     ]

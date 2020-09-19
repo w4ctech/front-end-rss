@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-09-19 14:49:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 15:03:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-19-Mac-安装-Wineskin-中间闪退](https://www.v2ex.com/t/708654) 
+- [2020-09-19-chrome-安卓版首页的文章推荐怎么没了？](https://www.v2ex.com/t/708653) 
+- [2020-09-19-无剧透看《Tenet》像-debug-程序](https://www.v2ex.com/t/708652) 
+- [2020-09-19-平台领导要求产品经理写-API-接口名称](https://www.v2ex.com/t/708651) 
+- [2020-09-19-你们会给你们的-Watch-贴膜吗？](https://www.v2ex.com/t/708650) 
 - [2020-09-19-专注模式插件](https://www.v2ex.com/t/708649) 
 - [2020-09-19-有无-iCloud-家庭版的车？](https://www.v2ex.com/t/708648) 
 - [2020-09-19-opera-浏览器不能登录同步了](https://www.v2ex.com/t/708646) 
@@ -40,6 +45,3 @@
 - [2020-09-19-Concent-速成-1-定义和共享模块状态](https://www.v2ex.com/t/708607) 
 - [2020-09-19-Java-15-都出了，而我却还在用-Java-8……](https://www.v2ex.com/t/708606) 
 - [2020-09-19-m.youtube.com-是通过怎样的方式禁止-iOS-14-PiP-的](https://www.v2ex.com/t/708605) 
-- [2020-09-19-一起因硬盘-APM-设定值被不停地重置为-128-而最终发现的，-SATA-供电线接触不良（非常轻微）的故障](https://www.v2ex.com/t/708604) 
-- [2020-09-19-查单词太麻烦，做了个自动翻译插件，不知大家是否也有这个需求](https://www.v2ex.com/t/708601) 
-- [2020-09-19-airpods-的无缝切换可以在-Big-Sur-上运行么？](https://www.v2ex.com/t/708600) 

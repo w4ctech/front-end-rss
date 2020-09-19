@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 09:12:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 09:23:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,6 +40,9 @@
 - [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-19-求解答，-safari14-如何开启内置翻译](https://www.v2ex.com/t/708573) 
+- [2020-09-19-大家调试前端网络请求用-Chrome-还是-Firefox](https://www.v2ex.com/t/708562) 
+- [2020-09-19-新版-chrome-右上角扩展栏只能显示-9-个图标？是否不能拉长？如何显示更多？](https://www.v2ex.com/t/708538) 
 - [2020-09-19-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-19-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-18-【相约2020网安周】2020年国家网络安全宣传周电信日主题论坛在郑...](https://sec.thief.one/article_content?a_id=b9ab72fd5e3da92c9ab8f7aa53e98b51) 

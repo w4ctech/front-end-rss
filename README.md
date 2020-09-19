@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-19 09:12:12，:rocket: 更新条数: +3594， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-19 09:23:50，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -936,6 +936,7 @@
 </summary>
 
 
+- [2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e) ![](assets/new.png)  
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) ![](assets/new.png)  
 - [2020-09-16-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/9431ce093426b3035ca4473ef83c6e9a) ![](assets/new.png)  
 - [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) ![](assets/new.png)  
@@ -955,7 +956,6 @@
 - [2020-08-31-为什么大家都在吹捧Python，大厂高薪敲门砖了解一下](https://www.ershicimi.com/p/25ecfff8e0bfd6d8520f074924adc40f) ![](assets/new.png)  
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) ![](assets/new.png)  
 - [2020-08-27-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/fd765fbe942d3cae8b7315b7a2f1e843) ![](assets/new.png)  
-- [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,26 @@
 </summary>
 
 
+- [2020-09-19-网上那些耳机玄学啊，有些假，是不是大部分商家找的枪手](https://www.v2ex.com/t/708585) ![](assets/new.png)  
+- [2020-09-19-各位-V-友，做哪个工作居多。留言做个调查呗！](https://www.v2ex.com/t/708584) ![](assets/new.png)  
+- [2020-09-19-公司福利报销考试费用，有什么证值得考一考吗](https://www.v2ex.com/t/708583) ![](assets/new.png)  
+- [2020-09-19-请教一个-SQL-问题](https://www.v2ex.com/t/708582) ![](assets/new.png)  
+- [2020-09-19-微信这种等级的软件是如何实现全球用户在统一的数据库里，并且用户在不同的大陆能隔着老远发消息的？](https://www.v2ex.com/t/708581) ![](assets/new.png)  
+- [2020-09-19-话说微信授权可以租用么。。](https://www.v2ex.com/t/708580) ![](assets/new.png)  
+- [2020-09-19-求教-macOS-下有类似-windows-下-start-命令的吗](https://www.v2ex.com/t/708578) ![](assets/new.png)  
+- [2020-09-19-博客封面选取？](https://www.v2ex.com/t/708577) ![](assets/new.png)  
+- [2020-09-19-买了个-3d-打印机，有木有大佬告诉我有啥可以玩的](https://www.v2ex.com/t/708576) ![](assets/new.png)  
+- [2020-09-19-京东网页版订单轨迹快递员的定位显示错误,-这个问题已经好长时间了](https://www.v2ex.com/t/708575) ![](assets/new.png)  
+- [2020-09-19-寻求服务](https://www.v2ex.com/t/708574) ![](assets/new.png)  
+- [2020-09-19-求解答，-safari14-如何开启内置翻译](https://www.v2ex.com/t/708573) ![](assets/new.png)  
+- [2020-09-19-请问下大家-前端怎么把调用-sdk-返回的媒体流转为声音播放出来。。](https://www.v2ex.com/t/708571) ![](assets/new.png)  
+- [2020-09-19-问下关于微信聊天记录合并问题?-两台手机不同时段使用同一微信](https://www.v2ex.com/t/708570) ![](assets/new.png)  
+- [2020-09-19-看一本书，要不要扩展引申，思考辨析，还是把上面讲的内容过一遍就好](https://www.v2ex.com/t/708569) ![](assets/new.png)  
+- [2020-09-19-捷径为什么有的软件不能显示捷径功能出来？](https://www.v2ex.com/t/708568) ![](assets/new.png)  
+- [2020-09-19-网站被降权还有恢复的可能吗](https://www.v2ex.com/t/708566) ![](assets/new.png)  
+- [2020-09-19-滴滴出行-北京、杭州、成都、深圳内推-Java-/前端/iOS/Android/Go/算法/-PHP-/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/708565) ![](assets/new.png)  
+- [2020-09-19-如何给微信报-BUG？](https://www.v2ex.com/t/708564) ![](assets/new.png)  
+- [2020-09-19-大家调试前端网络请求用-Chrome-还是-Firefox](https://www.v2ex.com/t/708562) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1150,15 @@
 - [2020-09-19-打破云和端的那堵墙，​Midway-Serverless-带你感受云端一体应用研发](https://toutiao.io/k/htulmal) ![](assets/new.png)  
 - [2020-09-19-初识-Spring-Cloud](https://toutiao.io/k/t129jxc) ![](assets/new.png)  
 - [2020-09-19-Redis-源码阅读：链表](https://toutiao.io/k/u2etz1s) ![](assets/new.png)  
-- [2020-09-19-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
-- [2020-09-19-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-19-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-19-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-19-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
 - [2020-09-19-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-19-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-19-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-19-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-19-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-19-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-19-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-19-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
 - [2020-09-19-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
-- [2020-09-19-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
-- [2020-09-19-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

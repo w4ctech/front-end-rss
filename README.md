@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-19 07:47:20，:rocket: 更新条数: +3409， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-19 08:03:44，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-19-QQ-微信通知栏回复](https://www.v2ex.com/t/708561) ![](assets/new.png)  
+- [2020-09-19-v2ex-搜索功能故障？](https://www.v2ex.com/t/708559) ![](assets/new.png)  
+- [2020-09-19-索尼-A6500-和-iPhone-拍照效果哪个更好？](https://www.v2ex.com/t/708557) ![](assets/new.png)  
 - [2020-09-19-空档-5-年，简历真实填写，三线城市-0-面试机会](https://www.v2ex.com/t/708556) ![](assets/new.png)  
 - [2020-09-19-直呼-Linux-太坑，手动安装-Grub2-BootHole-漏洞的缓解-“补丁”](https://www.v2ex.com/t/708555) ![](assets/new.png)  
 - [2020-09-19-杭州蒋村西溪花园转租两室一厅，-2300/月](https://www.v2ex.com/t/708554) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-19-新版-chrome-右上角扩展栏只能显示-9-个图标？是否不能拉长？如何显示更多？](https://www.v2ex.com/t/708538) ![](assets/new.png)  
 - [2020-09-19-有哪位大神有类似-V2EX-的程序，有偿要一套。](https://www.v2ex.com/t/708535) ![](assets/new.png)  
 - [2020-09-19-IOS14-下自带输入法卡顿严重](https://www.v2ex.com/t/708534) ![](assets/new.png)  
-- [2020-09-19-局域网内多个-dhcp-服务器分发-dns-的问题](https://www.v2ex.com/t/708533) ![](assets/new.png)  
-- [2020-09-19-mysql-Ver-15.1-Distrib-10.1.38-MariaDB,-for-Win32-AMD64](https://www.v2ex.com/t/708532) ![](assets/new.png)  
-- [2020-09-19-植发-emm...想植发，广深有发友吗？](https://www.v2ex.com/t/708531) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,14 +1130,14 @@
 - [2020-09-19-打破云和端的那堵墙，​Midway-Serverless-带你感受云端一体应用研发](https://toutiao.io/k/htulmal) ![](assets/new.png)  
 - [2020-09-19-初识-Spring-Cloud](https://toutiao.io/k/t129jxc) ![](assets/new.png)  
 - [2020-09-19-Redis-源码阅读：链表](https://toutiao.io/k/u2etz1s) ![](assets/new.png)  
-- [2020-09-19-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-19-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-19-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-19-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
 - [2020-09-19-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
-- [2020-09-19-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-19-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-19-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-19-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-19-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-19-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-19-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [2020-09-19-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-19-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
 - [2020-09-19-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

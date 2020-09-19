@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 14:34:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 14:47:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,13 +28,21 @@
 - [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
 - [2020-09-08-你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e) 
 - [2020-09-16-15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/6132906ae7deb3d51731b82fc93b3f87) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-19-opera-浏览器不能登录同步了](https://www.v2ex.com/t/708646) 
 - [2020-09-19-防止缓存击穿之进程内共享调用](https://www.v2ex.com/t/708644) 
 - [2020-09-19-关于-ssh-客户端的安全性疑问](https://www.v2ex.com/t/708639) 
-- [2020-09-19-遇到个奇怪的问题，-Mac-下某个域名-Chrome-访问不了，但是-Safari-就能访问](https://www.v2ex.com/t/708597) 
 - [2020-09-19-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-19-安恒信息安全运营中心威胁情报总结-DAY8](https://sec.thief.one/article_content?a_id=3b50dc55f3ac6e2bb7a33bdf43604558) 
 - [2020-09-19-一种对PostgreSQL数据库实现-RCE-的方法介绍](https://sec.thief.one/article_content?a_id=8d804c3a31ec9f5fe2cebc94b497d1aa) 

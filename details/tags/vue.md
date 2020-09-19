@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 01:07:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 01:26:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -68,3 +68,4 @@
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-09-18-Vue-3.0-正式版来啦！](https://www.v2ex.com/t/708450) 
 - [2020-09-18-10-分钟之前-Vuejs3.0-发布-Release-了](https://www.v2ex.com/t/708441) 
+- [2020-09-19-译-Vue-3.0-发布](https://toutiao.io/k/lxr8qxr) 

@@ -13202,6 +13202,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "智利新冠肺炎累计确诊近45万 国庆期间警方加大巡逻执法力度",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKtDiBUqbh0IPcJTrFjna200920&isfromapp=1",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "世卫组织：全球新冠肺炎新增312043例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivj5sTyq52wRYhG5ofmrx200920&isfromapp=1",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "以色列新增4531例新冠肺炎确诊病例 累计超过18万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiehS7faOmMqHnscsWMmt8200920&isfromapp=1",
+        "date": "2020-09-19"
+      },
+      {
         "title": "美国疾控中心前官员：美政府抗击科学而非病毒",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixCuXF771QZDzR5Di8HPh200919&isfromapp=1",
         "date": "2020-09-19"
@@ -13209,21 +13224,6 @@
       {
         "title": "波兰新增1002例新冠肺炎确诊病例，单日新增病例首次破千",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0kkS7Wjasy9sghjRjCzE200919&isfromapp=1",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "后疫情时期新潮流，马来西亚“最大汽车影院”今开业",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZJtiDCZLQVYYU4qsMNIz200919&isfromapp=1",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "香港19日新增13例新冠肺炎确诊病例，累计确诊5009例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCAaBPVj8ZJ4ptUoGQJjs200919&isfromapp=1",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "暂不考虑新增航班在北京落地，每日限定直航入境人数",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPd9BlV2ACLiL7H0yG8Ki200919&isfromapp=1",
         "date": "2020-09-19"
       }
     ]
@@ -17501,6 +17501,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "安卓模拟器未来会不会支持 vulkan 渲染？",
+        "link": "https://www.v2ex.com/t/708682",
+        "date": "2020-09-19"
+      },
+      {
         "title": "解析短文本的需求和现有工具",
         "link": "https://www.v2ex.com/t/708681",
         "date": "2020-09-19"
@@ -17704,11 +17709,6 @@
         "title": "求购一个苹果企业号",
         "link": "https://www.v2ex.com/t/708633",
         "date": "2020-09-19"
-      },
-      {
-        "title": "找一个微信小程序开发 实现一个微小的小程序",
-        "link": "https://www.v2ex.com/t/708632",
-        "date": "2020-09-19"
       }
     ]
   },
@@ -17880,33 +17880,13 @@
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-19"
-      },
-      {
         "title": "[推荐] Go 如何实现热重启",
         "link": "https://toutiao.io/k/cxttrqv",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
         "date": "2020-09-19"
       },
       {
@@ -17915,18 +17895,38 @@
         "date": "2020-09-19"
       },
       {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-19"
+      },
+      {
         "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
         "link": "https://toutiao.io/k/jvghjpf",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
         "date": "2020-09-19"
       },
       {
@@ -17935,23 +17935,23 @@
         "date": "2020-09-19"
       },
       {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
+        "link": "https://toutiao.io/k/0dtlx6f",
+        "date": "2020-09-19"
+      },
+      {
         "title": "[推荐] 接口调度者：API 网关",
         "link": "https://toutiao.io/k/qec4gvf",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-19"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 23:21:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 23:32:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,6 +40,7 @@
 - [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-19-安卓模拟器未来会不会支持-vulkan-渲染？](https://www.v2ex.com/t/708682) 
 - [2020-09-19-chrome-安卓版首页的文章推荐怎么没了？](https://www.v2ex.com/t/708653) 
 - [2020-09-19-opera-浏览器不能登录同步了](https://www.v2ex.com/t/708646) 
 - [2020-09-19-防止缓存击穿之进程内共享调用](https://www.v2ex.com/t/708644) 

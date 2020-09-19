@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-18 23:49:03，:rocket: 更新条数: +3416， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-19 00:07:28，:rocket: 更新条数: +3416， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-19-8-年了-typescript-能直接用了吗？](https://www.v2ex.com/t/708458) ![](assets/new.png)  
 - [2020-09-18-test202009](https://www.v2ex.com/t/708457) ![](assets/new.png)  
 - [2020-09-18-v2ex-访客立场站队自愿检测民意调查🤓🧐](https://www.v2ex.com/t/708456) ![](assets/new.png)  
 - [2020-09-18-v2ex-公共立场站队自愿检测民意调查](https://www.v2ex.com/t/708455) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-18-大家有什么可以充分利用带宽的-BT-下载方案吗？](https://www.v2ex.com/t/708439) ![](assets/new.png)  
 - [2020-09-18-华为-HN8145V-补全-Shell-失败-多版本工具尝试无果](https://www.v2ex.com/t/708438) ![](assets/new.png)  
 - [2020-09-18-各位，有没有碰到-ios14-应用商店不能更新，不能下载的情况？](https://www.v2ex.com/t/708437) ![](assets/new.png)  
-- [2020-09-18-公猫尿闭不定期发作，有什么好办法吗？谢谢各位](https://www.v2ex.com/t/708435) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,26 +1088,26 @@
 </summary>
 
 
-- [2020-09-18-Installing-Apache,-PHP,-and-MySQL-on-macOS-Catalina-jasonmccreary.me](https://blogread.cn/news/go.php?idItem=13779&url=https%3A%2F%2Fjasonmccreary.me%2Farticles%2Finstall-apache-php-mysql-mac-os-x-catalina%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-荔枝微课基础架构的演进与实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13778&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F250271369%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-更好的开卡，来聊聊非功能性需求-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13777&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthe-non-functional-requirements%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-Let’s-Encrypt实践指北-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13776&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flets-encryp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-一页纸手把手教你怎么做敏捷项目管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13775&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-一个输入框你要做一周？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13774&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fan-input-box%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-大数据项目中的QA需要迎接新的挑战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13773&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fqa-in-big-data-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-成熟度模型罪与罚-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13772&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fapability-maturity-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-用完-Gradle-之后，有点嫌弃-Maven了。真的-贼好用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13771&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP6FN-62Em4THdQK_jEGf6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-下载！《Linux-命令行大全》pdf-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13770&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp8v5mX9Wxuyh__aUKomiLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-怼你没商量！Linux之父手删AWS-工程师提交的补丁，表示这是愚蠢的行为，网友：我的快乐又回来了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13769&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ-PJ5ajfxHcLYEJWlszR5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-主宰这个世界的-10-大算法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13768&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlIeT6xeYWx0bYiIDgiJHpQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-重磅！阿里推出国产开源的-jdk-！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13767&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyvSp2eRV201wsEoJ0xxinA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-同事向我展示他的代码是怎么工作的-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13766&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fke9U-FQywihhe0ALo2q7IQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-Android-DEPPLINK、APPLink-原理简析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13764&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1Kkt6zoqa670f-Dez8XBLw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-滴滴开源-移动开发-方面的-4-个项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fcwf-DSFx4T0AsR2AuEH0zA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-新手不用愁了，谷歌推出了免费的-Kotlin-和-Android-开发课程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13762&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWcMkQp8DP_PO2rgA_Oe0pA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-Google-推荐在-MVVM-架构中使用-Kotlin-Flow-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13761&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWknyggP5F8mjRiUcOStn3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-18-是时候上车-Jetpack-了，内含音乐播放器实例-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13760&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FawtTAUx47pjTcQVJxkMydA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-Installing-Apache,-PHP,-and-MySQL-on-macOS-Catalina-jasonmccreary.me](https://blogread.cn/news/go.php?idItem=13779&url=https%3A%2F%2Fjasonmccreary.me%2Farticles%2Finstall-apache-php-mysql-mac-os-x-catalina%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-荔枝微课基础架构的演进与实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13778&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F250271369%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-更好的开卡，来聊聊非功能性需求-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13777&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthe-non-functional-requirements%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-Let’s-Encrypt实践指北-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13776&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flets-encryp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-一页纸手把手教你怎么做敏捷项目管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13775&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-一个输入框你要做一周？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13774&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fan-input-box%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-大数据项目中的QA需要迎接新的挑战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13773&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fqa-in-big-data-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-成熟度模型罪与罚-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13772&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fapability-maturity-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-用完-Gradle-之后，有点嫌弃-Maven了。真的-贼好用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13771&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP6FN-62Em4THdQK_jEGf6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-下载！《Linux-命令行大全》pdf-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13770&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp8v5mX9Wxuyh__aUKomiLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-怼你没商量！Linux之父手删AWS-工程师提交的补丁，表示这是愚蠢的行为，网友：我的快乐又回来了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13769&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ-PJ5ajfxHcLYEJWlszR5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-主宰这个世界的-10-大算法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13768&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlIeT6xeYWx0bYiIDgiJHpQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-重磅！阿里推出国产开源的-jdk-！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13767&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyvSp2eRV201wsEoJ0xxinA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-同事向我展示他的代码是怎么工作的-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13766&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fke9U-FQywihhe0ALo2q7IQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-Android-DEPPLINK、APPLink-原理简析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13764&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1Kkt6zoqa670f-Dez8XBLw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-滴滴开源-移动开发-方面的-4-个项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fcwf-DSFx4T0AsR2AuEH0zA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-新手不用愁了，谷歌推出了免费的-Kotlin-和-Android-开发课程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13762&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWcMkQp8DP_PO2rgA_Oe0pA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-Google-推荐在-MVVM-架构中使用-Kotlin-Flow-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13761&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWknyggP5F8mjRiUcOStn3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-09-19-是时候上车-Jetpack-了，内含音乐播放器实例-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13760&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FawtTAUx47pjTcQVJxkMydA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,26 +1119,26 @@
 </summary>
 
 
-- [2020-09-18-华为鸿蒙-2.0，让我遇见未来-|-码农周刊第-318-期](https://toutiao.io/k/6rprzrd) ![](assets/new.png)  
-- [2020-09-18-JDK-15-正式发布，划时代的-ZGC-同时宣布转正](https://toutiao.io/k/ipkoven) ![](assets/new.png)  
-- [2020-09-18-Hystrix-线程池隔离的原理与验证](https://toutiao.io/k/wlo2s4g) ![](assets/new.png)  
-- [2020-09-18-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) ![](assets/new.png)  
-- [2020-09-18-Java-15-的新特性](https://toutiao.io/k/1zo4ozy) ![](assets/new.png)  
-- [2020-09-18-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
-- [2020-09-18-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
-- [2020-09-18-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
-- [2020-09-18-深入理解-Web-协议（二）：DNS、WebSocket](https://toutiao.io/k/1q915wi) ![](assets/new.png)  
-- [2020-09-18-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
-- [2020-09-18-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
-- [2020-09-18-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
-- [2020-09-18-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
-- [2020-09-18-测试-App-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
-- [2020-09-18-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
-- [2020-09-18-Apache-Pulsar-在腾讯-Angel-PowerFL-联邦学习平台上的实践](https://toutiao.io/k/95tn0ri) ![](assets/new.png)  
-- [2020-09-18-伸手党的容器镜像加固流程](https://toutiao.io/k/k6fncdr) ![](assets/new.png)  
-- [2020-09-18-译-通过-Node-和-Redis-进行-API-速率限制](https://toutiao.io/k/1ry3q0p) ![](assets/new.png)  
-- [2020-09-18-为什么-DISTINCT-返回错误的结果](https://toutiao.io/k/30d4ue4) ![](assets/new.png)  
-- [2020-09-18-Sentinel-流控日志与索引](https://toutiao.io/k/ife7uk6) ![](assets/new.png)  
+- [2020-09-19-华为鸿蒙-2.0，让我遇见未来-|-码农周刊第-318-期](https://toutiao.io/k/6rprzrd) ![](assets/new.png)  
+- [2020-09-19-JDK-15-正式发布，划时代的-ZGC-同时宣布转正](https://toutiao.io/k/ipkoven) ![](assets/new.png)  
+- [2020-09-19-Hystrix-线程池隔离的原理与验证](https://toutiao.io/k/wlo2s4g) ![](assets/new.png)  
+- [2020-09-19-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（二）](https://toutiao.io/k/o3yc3dw) ![](assets/new.png)  
+- [2020-09-19-Java-15-的新特性](https://toutiao.io/k/1zo4ozy) ![](assets/new.png)  
+- [2020-09-19-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
+- [2020-09-19-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
+- [2020-09-19-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-19-一份不可多得的-TS-学习指南](https://toutiao.io/k/9ntbcds) ![](assets/new.png)  
+- [2020-09-19-深入理解-Web-协议（二）：DNS、WebSocket](https://toutiao.io/k/1q915wi) ![](assets/new.png)  
+- [2020-09-19-用户画像实践：神策标签生产引擎架构](https://toutiao.io/k/9oso7iw) ![](assets/new.png)  
+- [2020-09-19-发生-SLAB-内存泄漏该怎么办](https://toutiao.io/k/tlsi892) ![](assets/new.png)  
+- [2020-09-19-“手撕算法”-锁定大厂看这就可](https://toutiao.io/k/rp4d1v7) ![](assets/new.png)  
+- [2020-09-19-测试-App-抓不到数据包该怎么办](https://toutiao.io/k/kxbc9k1) ![](assets/new.png)  
+- [2020-09-19-交叉熵损失函数到底是什么原理?](https://toutiao.io/k/52z1pds) ![](assets/new.png)  
+- [2020-09-19-Apache-Pulsar-在腾讯-Angel-PowerFL-联邦学习平台上的实践](https://toutiao.io/k/95tn0ri) ![](assets/new.png)  
+- [2020-09-19-伸手党的容器镜像加固流程](https://toutiao.io/k/k6fncdr) ![](assets/new.png)  
+- [2020-09-19-译-通过-Node-和-Redis-进行-API-速率限制](https://toutiao.io/k/1ry3q0p) ![](assets/new.png)  
+- [2020-09-19-为什么-DISTINCT-返回错误的结果](https://toutiao.io/k/30d4ue4) ![](assets/new.png)  
+- [2020-09-19-Sentinel-流控日志与索引](https://toutiao.io/k/ife7uk6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

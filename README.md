@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-19 09:47:23，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-19 10:03:47，:rocket: 更新条数: +3409， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-19-2017-年-MBP-13-寸电池循环才-108-次，状态已是建议维修，什么原因？有没有什么办法？](https://www.v2ex.com/t/708596) ![](assets/new.png)  
+- [2020-09-19-对于一个网上信息很少的公司，该怎么决定是否入职呢?](https://www.v2ex.com/t/708595) ![](assets/new.png)  
+- [2020-09-19-不懂就问-<向前一小步,文明一大步>-为什么小便池底部不做的长一点,直接兜底裆部,-这样就算像我这样短的人也不会撒到外面了,-除非反向...](https://www.v2ex.com/t/708594) ![](assets/new.png)  
 - [2020-09-19-求教！-iPhone-/MAC-设备获取不到正确-IP-地址](https://www.v2ex.com/t/708592) ![](assets/new.png)  
 - [2020-09-19-carplay-下的导航定位飘移，有解决方案吗](https://www.v2ex.com/t/708591) ![](assets/new.png)  
 - [2020-09-19-部落格交換一下友情連結](https://www.v2ex.com/t/708588) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-19-寻求服务](https://www.v2ex.com/t/708574) ![](assets/new.png)  
 - [2020-09-19-求解答，-safari14-如何开启内置翻译](https://www.v2ex.com/t/708573) ![](assets/new.png)  
 - [2020-09-19-请问下大家-前端怎么把调用-sdk-返回的媒体流转为声音播放出来。。](https://www.v2ex.com/t/708571) ![](assets/new.png)  
-- [2020-09-19-问下关于微信聊天记录合并问题?-两台手机不同时段使用同一微信](https://www.v2ex.com/t/708570) ![](assets/new.png)  
-- [2020-09-19-看一本书，要不要扩展引申，思考辨析，还是把上面讲的内容过一遍就好](https://www.v2ex.com/t/708569) ![](assets/new.png)  
-- [2020-09-19-捷径为什么有的软件不能显示捷径功能出来？](https://www.v2ex.com/t/708568) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,19 +1126,19 @@
 - [2020-09-19-伪造图像的对抗攻击，从天池大赛说起](https://toutiao.io/k/zsqz9o0) ![](assets/new.png)  
 - [2020-09-19-译-ASP.NET-Core-性能优化最佳实践](https://toutiao.io/k/zg5jilb) ![](assets/new.png)  
 - [2020-09-19-使用-Docker-快速上手鸿蒙](https://toutiao.io/k/4enrvyp) ![](assets/new.png)  
-- [2020-09-19-打破云和端的那堵墙，​Midway-Serverless-带你感受云端一体应用研发](https://toutiao.io/k/htulmal) ![](assets/new.png)  
 - [2020-09-19-聚焦-Android-11：Android-开发者工具](https://toutiao.io/k/oh9nb3c) ![](assets/new.png)  
+- [2020-09-19-打破云和端的那堵墙，​Midway-Serverless-带你感受云端一体应用研发](https://toutiao.io/k/htulmal) ![](assets/new.png)  
 - [2020-09-19-初识-Spring-Cloud](https://toutiao.io/k/t129jxc) ![](assets/new.png)  
 - [2020-09-19-Redis-源码阅读：链表](https://toutiao.io/k/u2etz1s) ![](assets/new.png)  
+- [2020-09-19-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-19-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
 - [2020-09-19-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
-- [2020-09-19-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-19-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-19-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-19-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-19-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [2020-09-19-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
 - [2020-09-19-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-19-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
-- [2020-09-19-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-19-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-19-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-19-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

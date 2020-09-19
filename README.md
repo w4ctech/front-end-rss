@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-19 11:11:14，:rocket: 更新条数: +3409， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-19 11:21:58，:rocket: 更新条数: +3390， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
@@ -64,10 +64,11 @@
 </summary>
 
 
-- [2020-09-18-9月18日全国新增境外输入新冠14例-累计确诊85269例](https://m.caixin.com/m/2020-09-19/101607143.html) ![](assets/new.png)  
+- [2020-09-18-最新疫情：全国新冠累计确诊85269例-新增境外输入14例](https://m.caixin.com/m/2020-09-19/101607313.html) ![](assets/new.png)  
+- [2020-09-18-北京新增1例无症状感染者-为甘肃籍巴基斯坦留学生](https://m.caixin.com/m/2020-09-19/101607298.html) ![](assets/new.png)  
+- [2020-09-18-最新海外疫情：新冠感染近3037万-累计死亡近95万](http://m.international.caixin.com/m/2020-09-19/101607308.html) ![](assets/new.png)  
 - [2020-09-18-【境内疫情观察】云南瑞丽已完成核酸检测逾22万人，全部阴性（9月18日）](http://m.database.caixin.com/m/2020-09-19/101607207.html) ![](assets/new.png)  
 - [2020-09-18-大流行手记|9月18日：全球感染人数破3000万-以色列全国“封城”三周](https://m.caixin.com/m/2020-09-19/101607161.html) ![](assets/new.png)  
-- [2020-09-17-最新海外疫情：新冠感染近3004万-累计死亡超94万](http://m.international.caixin.com/m/2020-09-18/101606977.html) ![](assets/new.png)  
 - [2020-09-17-【境内疫情观察】全国新增32例境外输入病例（9月17日）](http://m.database.caixin.com/m/2020-09-18/101606786.html) ![](assets/new.png)  
 - [2020-09-16-【境内疫情观察】全国新增9例境外输入病例（9月16日）](http://m.database.caixin.com/m/2020-09-17/101606363.html) ![](assets/new.png)  
 - [2020-09-16-大流行手记|9月16日：年轻人聚会推升欧洲疫情-辉瑞坦承疫苗受试者出现副作用](https://m.caixin.com/m/2020-09-17/101606221.html) ![](assets/new.png)  
@@ -75,15 +76,14 @@
 - [2020-09-15-【境内疫情观察】云南瑞丽已完成核酸采样超过6万人（9月15日）](http://m.database.caixin.com/m/2020-09-16/101605913.html) ![](assets/new.png)  
 - [2020-09-15-大流行手记|9月15日：印度连续40日疫情增速居首-全球发展指标大倒退](https://m.caixin.com/m/2020-09-16/101605781.html) ![](assets/new.png)  
 - [2020-09-14-香港本地新增病例归零-港府全民检测支出约5.3亿港元](http://m.china.caixin.com/m/2020-09-15/101605633.html) ![](assets/new.png)  
-- [2020-09-14-云南瑞丽因新冠疫情“封城”-已开展全市核酸筛查](http://m.china.caixin.com/m/2020-09-15/101605625.html) ![](assets/new.png)  
 - [2020-09-14-【境内疫情观察】云南瑞丽开展全员核酸检测（9月14日）](http://m.database.caixin.com/m/2020-09-15/101605390.html) ![](assets/new.png)  
 - [2020-09-14-大流行手记|9月14日：中缅边境防疫升级-全球日增30.79万感染者创新高](https://m.caixin.com/m/2020-09-15/101605256.html) ![](assets/new.png)  
+- [2020-09-14-云南瑞丽因新冠疫情“封城”-已开展全市核酸筛查](http://m.china.caixin.com/m/2020-09-15/101605625.html) ![](assets/new.png)  
 - [2020-09-14-云南瑞丽9月13日确诊两例新冠-十天前从缅甸偷渡入境](https://m.caixin.com/m/2020-09-15/101605215.html) ![](assets/new.png)  
 - [2020-09-14-云南瑞丽全员核酸检测城区人员居家隔离-严打偷渡者](https://m.caixin.com/m/2020-09-15/101605206.html) ![](assets/new.png)  
 - [2020-09-14-【图集】云南瑞丽开展全员核酸检测-中小学停课店铺关门](http://m.photos.caixin.com/m/2020-09-15/101605461.html) ![](assets/new.png)  
 - [2020-09-13-【境内疫情观察】全国新增10例境外输入病例（9月13日）](http://m.database.caixin.com/m/2020-09-14/101604870.html) ![](assets/new.png)  
 - [2020-09-13-大流行手记|9月13日：疫情遍布全美50州大学-法国日增创纪录破万](https://m.caixin.com/m/2020-09-14/101604773.html) ![](assets/new.png)  
-- [2020-09-12-【境内疫情观察】全国新增70例无症状感染者（9月12日）](http://m.database.caixin.com/m/2020-09-13/101604644.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -854,26 +854,6 @@
 </summary>
 
 
-- [2020-09-19-开放-API-接口签名验证，让你的接口从此不再裸奔-！](https://www.ershicimi.com/p/3c361ba137c3cd0db76413aae3f145ba) ![](assets/new.png)  
-- [2020-09-19-ZooKeeper-这么牛逼，基本原理你懂吗？](https://www.ershicimi.com/p/1e41f7a747f7ea8e4433e57328ecda89) ![](assets/new.png)  
-- [2020-09-19-这么多牛逼的Java常用Json库，万万没想到它的性能最好！](https://www.ershicimi.com/p/2143db4de99ac09c766b522045d4bc7d) ![](assets/new.png)  
-- [2020-09-18-刚刚用鸿蒙跑了个“hello-world”！跑通后，我特么开始怀疑人生....](https://www.ershicimi.com/p/e93008d852cb134422e39e2b0314e628) ![](assets/new.png)  
-- [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) ![](assets/new.png)  
-- [2020-09-18-Redis-面试一定要知道的-3-个-问题！](https://www.ershicimi.com/p/36665f091858624caa211e5c7986ef6c) ![](assets/new.png)  
-- [2020-09-17-GitHub上最励志的计算机自学教程，绝对牛B](https://www.ershicimi.com/p/a3a31e96c60c3e1e44882f7edc1b12a2) ![](assets/new.png)  
-- [2020-09-17-整理了15个好用的API接口管理免费神器，随便挑...](https://www.ershicimi.com/p/fcefa7098b8a3dc8f7957faa7d48631f) ![](assets/new.png)  
-- [2020-09-17-熬了一个通宵，终于把Reids的7千万个Key删完了，今天脑子都嗡嗡响！](https://www.ershicimi.com/p/fa2b93757b73c3ba06aa39cdf6de13a1) ![](assets/new.png)  
-- [2020-09-15-面试中关于JVM和Redis的问题，看这些就够了](https://www.ershicimi.com/p/2cc5440f815a47312e3ab207348beb91) ![](assets/new.png)  
-- [2020-09-15-卧槽：这款-SQL自动检查神器，吊炸天的功能，真TMD多！！](https://www.ershicimi.com/p/8b7f8607d0db98fbc95b2b173d7c6543) ![](assets/new.png)  
-- [2020-09-15-Spring-Boot-中的-RestTemplate不好用？试试-Retrofit-！](https://www.ershicimi.com/p/616474b2dfa6d4ccff9b1e12bcebe965) ![](assets/new.png)  
-- [2020-09-15-API-选型非得-Gateway？](https://www.ershicimi.com/p/cc5a2566631a0fbf38bcf012938a0ac5) ![](assets/new.png)  
-- [2020-09-15-辣鸡，你怎么天天就会-try...catch-？试试这个](https://www.ershicimi.com/p/67b17e3c659a1ba9ab6fb6dd809b2b2e) ![](assets/new.png)  
-- [2020-09-15-Netty是个啥？简单来说就这!](https://www.ershicimi.com/p/1dd24af1ec38f8a65a93251aa05ad21e) ![](assets/new.png)  
-- [2020-09-14-卧槽！PanDownload复活了！速度60MB/s！](https://www.ershicimi.com/p/564fa4a12996d0e0286c9fcd6b84ed20) ![](assets/new.png)  
-- [2020-09-14-图解-SQL，这也太形象了吧！](https://www.ershicimi.com/p/24605d4dc06dbf2be101e8f157fec864) ![](assets/new.png)  
-- [2020-09-14-牛逼哄哄的-RabbitMQ-到底有啥用？](https://www.ershicimi.com/p/317a7ed2041c9611bbbb6e182f3c1046) ![](assets/new.png)  
-- [2020-09-13-牛逼！它比传统数据库快-100-1000，真不相信？](https://www.ershicimi.com/p/79d8a3057d32ad665bc974943ed2e536) ![](assets/new.png)  
-- [2020-09-13-抗住百万高并发的-6-个关键技术！](https://www.ershicimi.com/p/9def853c9a8ca4bf71d9c6a8e52ce53b) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1037,9 @@
 </summary>
 
 
+- [2020-09-19-Java-15-都出了，而我却还在用-Java-8……](https://www.v2ex.com/t/708606) ![](assets/new.png)  
+- [2020-09-19-m.youtube.com-是通过怎样的方式禁止-iOS-14-PiP-的](https://www.v2ex.com/t/708605) ![](assets/new.png)  
+- [2020-09-19-一起因硬盘-APM-设定值被不停地重置为-128-而最终发现的，-SATA-供电线接触不良（非常轻微）的故障](https://www.v2ex.com/t/708604) ![](assets/new.png)  
 - [2020-09-19-JDK-15-都发布了，但是我现在用的还是-Java-8……](https://www.v2ex.com/t/708603) ![](assets/new.png)  
 - [2020-09-19-查单词太麻烦，做了个自动翻译插件，不知大家是否也有这个需求](https://www.v2ex.com/t/708601) ![](assets/new.png)  
 - [2020-09-19-airpods-的无缝切换可以在-Big-Sur-上运行么？](https://www.v2ex.com/t/708600) ![](assets/new.png)  
@@ -1074,9 +1057,6 @@
 - [2020-09-19-各位-V-友，做哪个工作居多。留言做个调查呗！](https://www.v2ex.com/t/708584) ![](assets/new.png)  
 - [2020-09-19-公司福利报销考试费用，有什么证值得考一考吗](https://www.v2ex.com/t/708583) ![](assets/new.png)  
 - [2020-09-19-请教一个-SQL-问题](https://www.v2ex.com/t/708582) ![](assets/new.png)  
-- [2020-09-19-微信这种等级的软件是如何实现全球用户在统一的数据库里，并且用户在不同的大陆能隔着老远发消息的？](https://www.v2ex.com/t/708581) ![](assets/new.png)  
-- [2020-09-19-话说微信授权可以租用么。。](https://www.v2ex.com/t/708580) ![](assets/new.png)  
-- [2020-09-19-求教-macOS-下有类似-windows-下-start-命令的吗](https://www.v2ex.com/t/708578) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,17 +1108,17 @@
 - [2020-09-19-使用-Docker-快速上手鸿蒙](https://toutiao.io/k/4enrvyp) ![](assets/new.png)  
 - [2020-09-19-打破云和端的那堵墙，​Midway-Serverless-带你感受云端一体应用研发](https://toutiao.io/k/htulmal) ![](assets/new.png)  
 - [2020-09-19-聚焦-Android-11：Android-开发者工具](https://toutiao.io/k/oh9nb3c) ![](assets/new.png)  
-- [2020-09-19-Redis-源码阅读：链表](https://toutiao.io/k/u2etz1s) ![](assets/new.png)  
 - [2020-09-19-初识-Spring-Cloud](https://toutiao.io/k/t129jxc) ![](assets/new.png)  
-- [2020-09-19-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-19-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-19-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-19-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
-- [2020-09-19-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-19-Redis-源码阅读：链表](https://toutiao.io/k/u2etz1s) ![](assets/new.png)  
+- [2020-09-19-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [2020-09-19-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
-- [2020-09-19-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-19-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-19-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
 - [2020-09-19-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-19-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-19-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-19-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
+- [2020-09-19-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
+- [2020-09-19-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

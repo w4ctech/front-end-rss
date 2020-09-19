@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-19 02:03:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 02:13:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-19-Airdrop-走的是-WiFi-还是蓝牙？](https://www.v2ex.com/t/708470) 
+- [2020-09-19-帮转/内推-语音社交类-app，诚邀-Golang、IOS、Android-高级开发，-base-宝安](https://www.v2ex.com/t/708469) 
 - [2020-09-19-给大家推荐一个网赚神器，-ZennoPoster-软件](https://www.v2ex.com/t/708468) 
 - [2020-09-19-网赚神器，-ZennoPoster-周年促销大特价](https://www.v2ex.com/t/708467) 
 - [2020-09-19-搬家发现实体书太多，所以想买个能够看电子书的设备，不知道应该选-kindle-还是-iPad](https://www.v2ex.com/t/708466) 
@@ -41,4 +43,3 @@
 - [2020-09-18-新租的房间里电场强度很高是怎么回事？](https://www.v2ex.com/t/708423) 
 - [2020-09-18-Touch-Bar-正常会漏光吗](https://www.v2ex.com/t/708422) 
 - [2020-09-18-申请了电信公网-IP，几天后突然上不了网了](https://www.v2ex.com/t/708421) 
-- [2020-09-18-关于-SD-卡，来大佬](https://www.v2ex.com/t/708419) 

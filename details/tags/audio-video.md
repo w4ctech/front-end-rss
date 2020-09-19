@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 15:23:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 15:32:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -84,4 +84,5 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-09-19-如何解决视频-app-启动强制弹窗「青少年模式」？](https://www.v2ex.com/t/708626) 
 - [2020-09-19-是时候上车-Jetpack-了，内含音乐播放器实例-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13760&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FawtTAUx47pjTcQVJxkMydA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-19-伪造图像的对抗攻击，从天池大赛说起](https://toutiao.io/k/zsqz9o0) 
 - [2020-09-19-【视频】|-Python:位运算一](https://sec.thief.one/article_content?a_id=06f4c7e3f3ac9a10981e92551162764b) 

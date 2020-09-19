@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 15:23:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 15:32:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -22,6 +22,9 @@
 - [2020-09-17-【招聘】广州网易邮件事业部前端技术组招高级、资深前端工程师](https://www.ershicimi.com/p/a272f2753c6fb766a592fed81e1a71c0) 
 - [2020-09-10-【招聘】阿里云-GTS-金融业务交付（北/上/广/深/杭/西安/成都）金融交付专家（Android、](https://www.ershicimi.com/p/da6c36b95adca2b5ed98f1473beedcbf) 
 - [2020-09-16-华为云居然招聘“幕后推手”！太会玩了吧……](https://www.ershicimi.com/p/d7942153f96941969d3b44671df16fd1) 
+- [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
+- [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
+- [2019-10-21-招聘-|-字节跳动-上海-前端工程师社招-&-校招-&-实习生](https://www.ershicimi.com/p/dff761693416bd940e698627c37a14d9) 
 - [2020-09-14-面试-100-多位软件工程师后的建议](https://www.ershicimi.com/p/e4068a4851c1fc23414277c8dec4b64c) 
 - [2020-09-10-头条面试题：计算目录树的深度](https://www.ershicimi.com/p/df9ddee4650f0c9ab3dd7df235232dab) 
 - [2020-08-28-setTimeout与循环闭包经典面试题详解](https://www.ershicimi.com/p/9c0968d3886878d5c30870beb680eae0) 
@@ -34,4 +37,5 @@
 - [2020-09-15-面试中关于JVM和Redis的问题，看这些就够了](https://www.ershicimi.com/p/2cc5440f815a47312e3ab207348beb91) 
 - [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) 
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
+- [2020-09-19-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
 - [2020-09-17-西安电子科技大学密码研究中心人才招聘](https://sec.thief.one/article_content?a_id=3a97f9483d195802129160af1ceb6438) 

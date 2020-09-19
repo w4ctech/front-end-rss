@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 15:23:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 15:32:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -55,6 +55,9 @@
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
 - [2020-09-07-11个JavaScript-精简技巧](https://www.ershicimi.com/p/33caeb00a9fba2f2025fa93c5d09fda2) 
+- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
+- [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
+- [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
 - [2020-09-17-JavaScript错误处理完全指南](https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c) 
 - [2020-09-07-JS原型相关知识点](https://www.ershicimi.com/p/615ac57abc1d69cc60d1f97b775d75b1) 
 - [2020-09-12-函数式编程，“香”吗？](https://www.ershicimi.com/p/05a99c22bd5981bc13bce77ea1e8cf65) 
@@ -99,5 +102,6 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-19-济南社招-大厂济南分舵内推，-Java-/C++/Javascript](https://www.v2ex.com/t/708631) 
+- [2020-09-19-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-18-【公告】JSRC-八月月度英雄榜](https://sec.thief.one/article_content?a_id=864272e57ceafa07e01cb7ef3b9298cc) 
 - [2020-09-18-【视频分享】路由器逻辑漏洞:如何从零开始攻破一台明星IoT设备](https://sec.thief.one/article_content?a_id=f7cda17b90c0e6427552090b93051d7e) 

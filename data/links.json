@@ -16214,7 +16214,58 @@
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10647",
     "title": "编程之上",
     "link": "https://www.ershicimi.com/a/10647",
-    "items": []
+    "items": [
+      {
+        "title": "2019 年终总结",
+        "link": "https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2",
+        "date": "2019-12-31"
+      },
+      {
+        "title": "git 入门",
+        "link": "https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0",
+        "date": "2019-10-28"
+      },
+      {
+        "title": "谨以此文祝福和致敬每一位前端开发工程师",
+        "link": "https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9",
+        "date": "2019-10-24"
+      },
+      {
+        "title": "Git 工作流",
+        "link": "https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e",
+        "date": "2019-10-20"
+      },
+      {
+        "title": "前端初级",
+        "link": "https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4",
+        "date": "2019-10-17"
+      },
+      {
+        "title": "Javascript 内存空间管理",
+        "link": "https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6",
+        "date": "2019-10-16"
+      },
+      {
+        "title": "我对前端架构师的定义",
+        "link": "https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f",
+        "date": "2019-10-15"
+      },
+      {
+        "title": "《大教堂和集市》读后感",
+        "link": "https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54",
+        "date": "2019-10-13"
+      },
+      {
+        "title": "8年前端开发的知识点沉淀",
+        "link": "https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d",
+        "date": "2019-10-12"
+      },
+      {
+        "title": "如何有效学习",
+        "link": "https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a",
+        "date": "2019-10-12"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/198",
@@ -16708,38 +16759,13 @@
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 《一年顶十年》干货读书笔记",
-        "link": "https://toutiao.io/k/okqtla6",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "[推荐] 硬核看房利器：Web 全景的实现",
-        "link": "https://toutiao.io/k/ihkuhms",
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-19"
       },
       {
@@ -16748,28 +16774,33 @@
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
-        "date": "2020-09-19"
-      },
-      {
         "title": "[推荐] Golang 汇编入门知识总结",
         "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
         "date": "2020-09-19"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-19"
       },
       {
@@ -16778,8 +16809,28 @@
         "date": "2020-09-19"
       },
       {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
+        "date": "2020-09-19"
+      },
+      {
         "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
         "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-19"
       }
     ]

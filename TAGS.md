@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-19 08:34:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 08:47:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -340,6 +340,7 @@
 
 
 - [【程序员成长指北】【不可思议的CANVAS】画一只会跟着鼠标走的小狗](https://www.ershicimi.com/p/ffa58cf66cdbb13763e59a9e56abb48b)
+- [【V2EX】买了个-3d-打印机，有木有大佬告诉我有啥可以玩的](https://www.v2ex.com/t/708576)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -468,7 +469,6 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【InfoQ】快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b)
 - [【V2EX】滴滴出行-北京、杭州、成都、深圳内推-Java-/前端/iOS/Android/Go/算法/-PHP-/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/708565)
-- [【V2EX】长毛象（Mastodon）服务器搭建详解，可能是目前最详细的中文长毛象建站教程](https://www.v2ex.com/t/708524)
 - [【技术头条】主宰这个世界的-10-大算法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13768&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlIeT6xeYWx0bYiIDgiJHpQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】Wireshark解密HTTPS流量](https://sec.thief.one/article_content?a_id=dd4b11e9af4d578252a95ccef540556e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

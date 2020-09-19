@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-19 08:34:43，:rocket: 更新条数: +3407， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-19 08:47:07，:rocket: 更新条数: +3407， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,12 @@
 </summary>
 
 
+- [2020-09-19-买了个-3d-打印机，有木有大佬告诉我有啥可以玩的](https://www.v2ex.com/t/708576) ![](assets/new.png)  
+- [2020-09-19-京东网页版订单轨迹快递员的定位显示错误,-这个问题已经好长时间了](https://www.v2ex.com/t/708575) ![](assets/new.png)  
+- [2020-09-19-寻求服务](https://www.v2ex.com/t/708574) ![](assets/new.png)  
+- [2020-09-19-求解答，-safari14-如何开启内置翻译](https://www.v2ex.com/t/708573) ![](assets/new.png)  
+- [2020-09-19-请问下大家-前端怎么把调用-sdk-返回的媒体流转为声音播放出来。。](https://www.v2ex.com/t/708571) ![](assets/new.png)  
+- [2020-09-19-问下关于微信聊天记录合并问题?-两台手机不同时段使用同一微信](https://www.v2ex.com/t/708570) ![](assets/new.png)  
 - [2020-09-19-看一本书，要不要扩展引申，思考辨析，还是把上面讲的内容过一遍就好](https://www.v2ex.com/t/708569) ![](assets/new.png)  
 - [2020-09-19-捷径为什么有的软件不能显示捷径功能出来？](https://www.v2ex.com/t/708568) ![](assets/new.png)  
 - [2020-09-19-网站被降权还有恢复的可能吗](https://www.v2ex.com/t/708566) ![](assets/new.png)  
@@ -1071,12 +1077,6 @@
 - [2020-09-19-杭州蒋村西溪花园转租两室一厅，-2300/月](https://www.v2ex.com/t/708554) ![](assets/new.png)  
 - [2020-09-19-iOS-14-把原来负一屏小组件中的下个日程砍掉了吗？](https://www.v2ex.com/t/708553) ![](assets/new.png)  
 - [2020-09-19-AirPodsPro-换新后-AC+怎么办](https://www.v2ex.com/t/708551) ![](assets/new.png)  
-- [2020-09-19-看来貌似现在的三大运营商都在通过电销外呼形式让消费者迁移至-5G-网络？](https://www.v2ex.com/t/708550) ![](assets/new.png)  
-- [2020-09-19-iPad-升级-ios14-后-qq-后台耗电-100%](https://www.v2ex.com/t/708549) ![](assets/new.png)  
-- [2020-09-19-iOS-全文检索的方案是什么？](https://www.v2ex.com/t/708548) ![](assets/new.png)  
-- [2020-09-19-求个-office-365-的车位，或凑-6-人发个新车](https://www.v2ex.com/t/708547) ![](assets/new.png)  
-- [2020-09-19-解构-Dubbo-go-的核心注册引擎-Nacos](https://www.v2ex.com/t/708546) ![](assets/new.png)  
-- [2020-09-19-国庆节去哪玩-?-推荐推荐](https://www.v2ex.com/t/708543) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-09-19-打破云和端的那堵墙，​Midway-Serverless-带你感受云端一体应用研发](https://toutiao.io/k/htulmal) ![](assets/new.png)  
 - [2020-09-19-初识-Spring-Cloud](https://toutiao.io/k/t129jxc) ![](assets/new.png)  
 - [2020-09-19-Redis-源码阅读：链表](https://toutiao.io/k/u2etz1s) ![](assets/new.png)  
-- [2020-09-19-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-19-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-19-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
 - [2020-09-19-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
-- [2020-09-19-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [2020-09-19-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-19-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-19-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-19-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
 - [2020-09-19-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
+- [2020-09-19-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
 - [2020-09-19-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
-- [2020-09-19-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-19-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

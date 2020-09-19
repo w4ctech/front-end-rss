@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 16:47:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 16:48:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2424,6 +2424,21 @@
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 - [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
+- [2020-09-16-聊聊前端监控—错误监控篇](https://www.ershicimi.com/p/37785245e0f7630bc4ceed905036bdd1) 
+- [2020-09-16-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/26b9dcc8dd9ca440f80e501919d81479) 
+- [2020-09-16-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa27200ef9381bbe00ec6dae8182934c) 
+- [2020-09-15-网站图标开发指南](https://www.ershicimi.com/p/3d61780def49dcbce0f685fed5e8f7c6) 
+- [2020-09-15-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/a48d8a1b941f2229b244877853d80c32) 
+- [2020-09-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6fb589a59ea7047ec9b0cc99150c51c3) 
+- [2020-09-14-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/7923a0711a8ad6112503405dd8f8d143) 
+- [2020-09-14-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/ad11959d57eba49b0f3718ad178a3ecf) 
+- [2020-09-12-细数-TS-中那些奇怪的符号](https://www.ershicimi.com/p/8ace23134c49a44faf09750aea6837d5) 
+- [2020-09-12-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/1b421a06d757916689066dfef120e504) 
+- [2020-09-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa2fd47cc4bf6b6e2e72e01c29ef831d) 
+- [2020-09-10-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/06388e002c5994ed0bbb81a2b331f15f) 
+- [2020-09-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/469138dd0c9eda97fea49af99b2963ee) 
+- [2020-09-09-关于ref的一切](https://www.ershicimi.com/p/4b3333ce70b41bd7c23d9629fcccc039) 
+- [2020-09-09-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/dbc437e0d03b75fe2f4725e6f7cca96e) 
 - [2020-09-08-Deno-1.3.3-发布](https://www.ershicimi.com/p/9f9c0e885889c4d20a4dc2d8d42bc54f) 
 - [2020-09-02-下一家跳槽该去哪里？](https://www.ershicimi.com/p/327e128f083f265bc4f110ecd1e0241f) 
 - [2020-09-01-九年程序人生-工作总结](https://www.ershicimi.com/p/382cb8ecc4f355c2293ae65b9c093674) 

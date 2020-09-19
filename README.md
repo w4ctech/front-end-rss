@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-19 12:49:13，:rocket: 更新条数: +3410， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-19 13:03:24，:rocket: 更新条数: +3407， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-19-新加坡Shopee直招-求资深-SRE-和-Linux-内核专家!](https://www.v2ex.com/t/708624) ![](assets/new.png)  
+- [2020-09-19-楼上邻居在卧室位置偷偷加小厕所怎么办？](https://www.v2ex.com/t/708622) ![](assets/new.png)  
+- [2020-09-19-二次元与程小东](https://www.v2ex.com/t/708621) ![](assets/new.png)  
 - [2020-09-19-ios14-不显示来电归属](https://www.v2ex.com/t/708619) ![](assets/new.png)  
 - [2020-09-19-macOS-10.14-上的-Virtual-Box-6.1.4-无法关闭硬件虚拟化，无论选择“空、默认、最少等”都无法点击确定？](https://www.v2ex.com/t/708618) ![](assets/new.png)  
 - [2020-09-19-写了一个-zsh-插件，用-tmux-快速捕获内容。](https://www.v2ex.com/t/708617) ![](assets/new.png)  
@@ -1069,14 +1072,11 @@
 - [2020-09-19-Java-15-都出了，而我却还在用-Java-8……](https://www.v2ex.com/t/708606) ![](assets/new.png)  
 - [2020-09-19-m.youtube.com-是通过怎样的方式禁止-iOS-14-PiP-的](https://www.v2ex.com/t/708605) ![](assets/new.png)  
 - [2020-09-19-一起因硬盘-APM-设定值被不停地重置为-128-而最终发现的，-SATA-供电线接触不良（非常轻微）的故障](https://www.v2ex.com/t/708604) ![](assets/new.png)  
-- [2020-09-19-JDK-15-都发布了，但是我现在用的还是-Java-8……](https://www.v2ex.com/t/708603) ![](assets/new.png)  
 - [2020-09-19-查单词太麻烦，做了个自动翻译插件，不知大家是否也有这个需求](https://www.v2ex.com/t/708601) ![](assets/new.png)  
 - [2020-09-19-airpods-的无缝切换可以在-Big-Sur-上运行么？](https://www.v2ex.com/t/708600) ![](assets/new.png)  
 - [2020-09-19-试着开放一个免费的微信公众号的-RSS-服务](https://www.v2ex.com/t/708599) ![](assets/new.png)  
 - [2020-09-19-stacksocial-年度折扣](https://www.v2ex.com/t/708598) ![](assets/new.png)  
 - [2020-09-19-遇到个奇怪的问题，-Mac-下某个域名-Chrome-访问不了，但是-Safari-就能访问](https://www.v2ex.com/t/708597) ![](assets/new.png)  
-- [2020-09-19-2017-年-MBP-13-寸电池循环才-108-次，状态已是建议维修，什么原因？有没有什么办法？](https://www.v2ex.com/t/708596) ![](assets/new.png)  
-- [2020-09-19-对于一个网上信息很少的公司，该怎么决定是否入职呢?](https://www.v2ex.com/t/708595) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-09-19-聚焦-Android-11：Android-开发者工具](https://toutiao.io/k/oh9nb3c) ![](assets/new.png)  
 - [2020-09-19-初识-Spring-Cloud](https://toutiao.io/k/t129jxc) ![](assets/new.png)  
 - [2020-09-19-Redis-源码阅读：链表](https://toutiao.io/k/u2etz1s) ![](assets/new.png)  
-- [2020-09-19-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-19-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-19-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-19-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-19-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-19-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-19-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-19-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
+- [2020-09-19-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-19-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
 - [2020-09-19-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
-- [2020-09-19-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
+- [2020-09-19-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-19-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-19-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-19-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-19-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,6 +1150,8 @@
 </summary>
 
 
+- [2020-09-19-为什么技术保障是建立欧盟加密监管的必备条件?下篇](https://sec.thief.one/article_content?a_id=1b5852288a46f7b33ce0d9b38ec2bfbb) ![](assets/new.png)  
+- [2020-09-19-【中国梦·黄河情】“黄河故事”唱响新时代“民族精神”](https://sec.thief.one/article_content?a_id=26de93353995c755ab277115dddb6235) ![](assets/new.png)  
 - [2020-09-19-360独家发布NetLogon漏洞热补丁,全面拦截武器化漏洞攻击!](https://sec.thief.one/article_content?a_id=a4f5084ab350a81aaf852ae9fe0f20e1) ![](assets/new.png)  
 - [2020-09-19-零基础,如何成为一名黑客?](https://sec.thief.one/article_content?a_id=7b16e08e952252128fc5ae02f7b3d58b) ![](assets/new.png)  
 - [2020-09-19-勒索团伙追踪:Avaddon的发展历程](https://sec.thief.one/article_content?a_id=56fc5d1a9a4043a1763ed3c814e55ea0) ![](assets/new.png)  
@@ -1168,8 +1170,6 @@
 - [2020-09-19-HW防守|应急溯源分析手册汇总篇](https://sec.thief.one/article_content?a_id=fea07b97d0a487c256780c91f52844f1) ![](assets/new.png)  
 - [2020-09-19-美商务部宣布封禁微信、TikTok:全美下架,禁止交易支付](https://sec.thief.one/article_content?a_id=47546ba17adf84c67329ef596e9b1cab) ![](assets/new.png)  
 - [2020-09-19-300-页图解网络.pdf-附下载](https://sec.thief.one/article_content?a_id=ad246f37ad299ad16808b171085ae118) ![](assets/new.png)  
-- [2020-09-19-安恒信息安全运营中心威胁情报总结-DAY7](https://sec.thief.one/article_content?a_id=ea929dc747479751e720f25b3c53681f) ![](assets/new.png)  
-- [2020-09-19-央行发布5号令-金融消费者权益保护实施办法11月实施附全文](https://sec.thief.one/article_content?a_id=9950a3198ec067e2e585510dd54ef79e) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

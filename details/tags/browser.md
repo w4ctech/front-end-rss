@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 12:49:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 13:03:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,7 +34,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-19-遇到个奇怪的问题，-Mac-下某个域名-Chrome-访问不了，但是-Safari-就能访问](https://www.v2ex.com/t/708597) 
 - [2020-09-19-招募一名兼职网络安全顾问](https://www.v2ex.com/t/708587) 
-- [2020-09-19-求解答，-safari14-如何开启内置翻译](https://www.v2ex.com/t/708573) 
 - [2020-09-19-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-19-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-19-安恒信息安全运营中心威胁情报总结-DAY8](https://sec.thief.one/article_content?a_id=3b50dc55f3ac6e2bb7a33bdf43604558) 
@@ -67,4 +66,3 @@
 - [2020-09-17-2020国家网络安全宣传周:安卓用户注意了!常年不关手机蓝牙或成为...](https://sec.thief.one/article_content?a_id=998ea111d9bb44f9d38a7238a3448a3e) 
 - [2020-09-17-网络安全等级保护2.0标准解读](https://sec.thief.one/article_content?a_id=c61a26faee86123ebb7f00fd40299fd2) 
 - [2020-09-17-网络安全世界の迷惑认知图鉴](https://sec.thief.one/article_content?a_id=de90e67193baabb812d888ef71aed11b) 
-- [2020-09-16-重磅!360与珠海达成战略合作,共谋智慧城市安全大未来!](https://sec.thief.one/article_content?a_id=80b66dbe82b8e5c0ce392153a0f12861) 

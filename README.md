@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-19 09:03:31，:rocket: 更新条数: +3632， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-19 09:12:12，:rocket: 更新条数: +3594， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-19-暂不考虑新增航班在北京落地，每日限定直航入境人数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPd9BlV2ACLiL7H0yG8Ki200919&isfromapp=1) ![](assets/new.png)  
+- [2020-09-19-拉美新冠肺炎确诊病例超860万，部分国家持续严防政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid7hvLWRtwbLzn4PZ3inU200919&isfromapp=1) ![](assets/new.png)  
 - [2020-09-19-联合国秘书长：呼吁各国提供资金支持、缓解疫情、树立信心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMeCzSkdcvQWsUR93kn35200919&isfromapp=1) ![](assets/new.png)  
 - [2020-09-19-​印度新增93337例新冠肺炎确诊病例，累计确诊超530万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitT5JbnRU3xVv0Xd9D73k200919&isfromapp=1) ![](assets/new.png)  
 - [2020-09-19-危地马拉总统新冠肺炎病毒检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY25m1btNRCKGwilV6gNH200919&isfromapp=1) ![](assets/new.png)  
-- [2020-09-19-北美观察丨疫情下的美国：养老院危机至今无解，老人遭身心、财务连环打击](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti95KnOVWbxGjN8S89K0up200919&isfromapp=1) ![](assets/new.png)  
-- [2020-09-19-截至9月18日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/415509.jhtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,26 +1077,6 @@
 </summary>
 
 
-- [2020-09-19-微信这种等级的软件是如何实现全球用户在统一的数据库里，并且用户在不同的大陆能隔着老远发消息的？](https://www.v2ex.com/t/708581) ![](assets/new.png)  
-- [2020-09-19-话说微信授权可以租用么。。](https://www.v2ex.com/t/708580) ![](assets/new.png)  
-- [2020-09-19-求教-macOS-下有类似-windows-下-start-命令的吗](https://www.v2ex.com/t/708578) ![](assets/new.png)  
-- [2020-09-19-博客封面选取？](https://www.v2ex.com/t/708577) ![](assets/new.png)  
-- [2020-09-19-买了个-3d-打印机，有木有大佬告诉我有啥可以玩的](https://www.v2ex.com/t/708576) ![](assets/new.png)  
-- [2020-09-19-京东网页版订单轨迹快递员的定位显示错误,-这个问题已经好长时间了](https://www.v2ex.com/t/708575) ![](assets/new.png)  
-- [2020-09-19-寻求服务](https://www.v2ex.com/t/708574) ![](assets/new.png)  
-- [2020-09-19-求解答，-safari14-如何开启内置翻译](https://www.v2ex.com/t/708573) ![](assets/new.png)  
-- [2020-09-19-请问下大家-前端怎么把调用-sdk-返回的媒体流转为声音播放出来。。](https://www.v2ex.com/t/708571) ![](assets/new.png)  
-- [2020-09-19-问下关于微信聊天记录合并问题?-两台手机不同时段使用同一微信](https://www.v2ex.com/t/708570) ![](assets/new.png)  
-- [2020-09-19-看一本书，要不要扩展引申，思考辨析，还是把上面讲的内容过一遍就好](https://www.v2ex.com/t/708569) ![](assets/new.png)  
-- [2020-09-19-捷径为什么有的软件不能显示捷径功能出来？](https://www.v2ex.com/t/708568) ![](assets/new.png)  
-- [2020-09-19-网站被降权还有恢复的可能吗](https://www.v2ex.com/t/708566) ![](assets/new.png)  
-- [2020-09-19-滴滴出行-北京、杭州、成都、深圳内推-Java-/前端/iOS/Android/Go/算法/-PHP-/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/708565) ![](assets/new.png)  
-- [2020-09-19-如何给微信报-BUG？](https://www.v2ex.com/t/708564) ![](assets/new.png)  
-- [2020-09-19-大家调试前端网络请求用-Chrome-还是-Firefox](https://www.v2ex.com/t/708562) ![](assets/new.png)  
-- [2020-09-19-QQ-微信通知栏回复](https://www.v2ex.com/t/708561) ![](assets/new.png)  
-- [2020-09-19-v2ex-搜索功能故障？](https://www.v2ex.com/t/708559) ![](assets/new.png)  
-- [2020-09-19-索尼-A6500-和-iPhone-拍照效果哪个更好？](https://www.v2ex.com/t/708557) ![](assets/new.png)  
-- [2020-09-19-空档-5-年，简历真实填写，三线城市-0-面试机会](https://www.v2ex.com/t/708556) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,15 +1130,15 @@
 - [2020-09-19-打破云和端的那堵墙，​Midway-Serverless-带你感受云端一体应用研发](https://toutiao.io/k/htulmal) ![](assets/new.png)  
 - [2020-09-19-初识-Spring-Cloud](https://toutiao.io/k/t129jxc) ![](assets/new.png)  
 - [2020-09-19-Redis-源码阅读：链表](https://toutiao.io/k/u2etz1s) ![](assets/new.png)  
-- [2020-09-19-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-19-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
-- [2020-09-19-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
-- [2020-09-19-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-19-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-19-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-19-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-19-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-19-推荐-有赞零售移动-CI/CD-实践](https://toutiao.io/k/w7nj4wa) ![](assets/new.png)  
 - [2020-09-19-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-19-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-19-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-19-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-19-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-19-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
+- [2020-09-19-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-19-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

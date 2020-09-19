@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-19 11:34:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 11:47:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-19-升级了-iOS14-的小伙伴，-QQ-邮箱通知有延迟吗？](https://www.v2ex.com/t/708612) 
+- [2020-09-19-macbook19-13-寸-耳机孔露电](https://www.v2ex.com/t/708610) 
 - [2020-09-19-Concent-速成-1-定义和共享模块状态](https://www.v2ex.com/t/708607) 
 - [2020-09-19-Java-15-都出了，而我却还在用-Java-8……](https://www.v2ex.com/t/708606) 
 - [2020-09-19-m.youtube.com-是通过怎样的方式禁止-iOS-14-PiP-的](https://www.v2ex.com/t/708605) 
@@ -41,6 +43,3 @@
 - [2020-09-19-网站被降权还有恢复的可能吗](https://www.v2ex.com/t/708566) 
 - [2020-09-19-滴滴出行-北京、杭州、成都、深圳内推-Java-/前端/iOS/Android/Go/算法/-PHP-/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/708565) 
 - [2020-09-19-如何给微信报-BUG？](https://www.v2ex.com/t/708564) 
-- [2020-09-19-大家调试前端网络请求用-Chrome-还是-Firefox](https://www.v2ex.com/t/708562) 
-- [2020-09-19-QQ-微信通知栏回复](https://www.v2ex.com/t/708561) 
-- [2020-09-19-v2ex-搜索功能故障？](https://www.v2ex.com/t/708559) 

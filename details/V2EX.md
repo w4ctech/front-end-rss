@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-19 10:34:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 10:47:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-19-查单词太麻烦，做了个自动翻译插件，不知大家是否也有这个需求](https://www.v2ex.com/t/708601) 
 - [2020-09-19-airpods-的无缝切换可以在-Big-Sur-上运行么？](https://www.v2ex.com/t/708600) 
 - [2020-09-19-试着开放一个免费的微信公众号的-RSS-服务](https://www.v2ex.com/t/708599) 
 - [2020-09-19-stacksocial-年度折扣](https://www.v2ex.com/t/708598) 
@@ -43,4 +44,3 @@
 - [2020-09-19-直呼-Linux-太坑，手动安装-Grub2-BootHole-漏洞的缓解-“补丁”](https://www.v2ex.com/t/708555) 
 - [2020-09-19-杭州蒋村西溪花园转租两室一厅，-2300/月](https://www.v2ex.com/t/708554) 
 - [2020-09-19-iOS-14-把原来负一屏小组件中的下个日程砍掉了吗？](https://www.v2ex.com/t/708553) 
-- [2020-09-19-AirPodsPro-换新后-AC+怎么办](https://www.v2ex.com/t/708551) 

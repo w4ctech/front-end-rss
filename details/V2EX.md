@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 05:12:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 05:22:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -47,4 +47,3 @@
 - [2020-09-19-wordPress-主题-|-这就是我一直追求的极简主题，它简单、优雅、纯粹](https://www.v2ex.com/t/708471) 
 - [2020-09-19-Airdrop-走的是-WiFi-还是蓝牙？](https://www.v2ex.com/t/708470) 
 - [2020-09-19-帮转/内推-语音社交类-app，诚邀-Golang、IOS、Android-高级开发，-base-宝安](https://www.v2ex.com/t/708469) 
-- [2020-09-19-搬家发现实体书太多，所以想买个能够看电子书的设备，不知道应该选-kindle-还是-iPad](https://www.v2ex.com/t/708466) 

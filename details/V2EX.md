@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-19 11:21:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-19 11:32:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-19-Concent-速成-1-定义和共享模块状态](https://www.v2ex.com/t/708607) 
 - [2020-09-19-Java-15-都出了，而我却还在用-Java-8……](https://www.v2ex.com/t/708606) 
 - [2020-09-19-m.youtube.com-是通过怎样的方式禁止-iOS-14-PiP-的](https://www.v2ex.com/t/708605) 
 - [2020-09-19-一起因硬盘-APM-设定值被不停地重置为-128-而最终发现的，-SATA-供电线接触不良（非常轻微）的故障](https://www.v2ex.com/t/708604) 
@@ -43,4 +44,3 @@
 - [2020-09-19-大家调试前端网络请求用-Chrome-还是-Firefox](https://www.v2ex.com/t/708562) 
 - [2020-09-19-QQ-微信通知栏回复](https://www.v2ex.com/t/708561) 
 - [2020-09-19-v2ex-搜索功能故障？](https://www.v2ex.com/t/708559) 
-- [2020-09-19-索尼-A6500-和-iPhone-拍照效果哪个更好？](https://www.v2ex.com/t/708557) 

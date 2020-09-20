@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-20 16:03:45，:rocket: 更新条数: +3373， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-20 16:13:16，:rocket: 更新条数: +3413， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1057,6 +1057,26 @@
 </summary>
 
 
+- [2020-09-20-B-站视频分享-世纪大辩论-上帝是否存在-罗素-VS-科普尔斯顿神父-中英字幕](https://www.v2ex.com/t/708865) ![](assets/new.png)  
+- [2020-09-20-关于房贷，大家每月占到工资的百分之几？](https://www.v2ex.com/t/708864) ![](assets/new.png)  
+- [2020-09-20-想脱离-apple-生态了，有没有想法一样的朋友](https://www.v2ex.com/t/708863) ![](assets/new.png)  
+- [2020-09-20-想提一个老生常谈的问题，-Python-基础学完后我应该干啥？](https://www.v2ex.com/t/708862) ![](assets/new.png)  
+- [2020-09-20-有没有什么你们墙裂推荐的书](https://www.v2ex.com/t/708861) ![](assets/new.png)  
+- [2020-09-20-西铁城-CC9015-54E-入手图赏](https://www.v2ex.com/t/708860) ![](assets/new.png)  
+- [2020-09-20-hdparm-让硬盘休眠后，重启系统会系统启动了，但是硬盘没启动](https://www.v2ex.com/t/708858) ![](assets/new.png)  
+- [2020-09-20-我开发了一款-macOs-的软件：-G-dis---Gui-client-for-Redis](https://www.v2ex.com/t/708857) ![](assets/new.png)  
+- [2020-09-20-网易云音乐的普通会员和黑胶会员竟然不是互斥的？](https://www.v2ex.com/t/708856) ![](assets/new.png)  
+- [2020-09-20-急，我撤销了复制的操作但是原盘已经被我格式化了。。有办法找回文件吗？](https://www.v2ex.com/t/708855) ![](assets/new.png)  
+- [2020-09-20-mbp-键盘失灵卡死怎么办](https://www.v2ex.com/t/708854) ![](assets/new.png)  
+- [2020-09-20-第一代-11-寸-iPad-Pro-在更新-iPadOS-14.2-Beta-以后出现了无法充电的软件-bug](https://www.v2ex.com/t/708853) ![](assets/new.png)  
+- [2020-09-20-同学的华为-P40-手机丢了，有办法找回吗](https://www.v2ex.com/t/708851) ![](assets/new.png)  
+- [2020-09-20-Apple-Watch-series-6-感受，给有兴趣的人一点参考](https://www.v2ex.com/t/708850) ![](assets/new.png)  
+- [2020-09-20-为什么我的家宽上传速度这么诡异的快？](https://www.v2ex.com/t/708847) ![](assets/new.png)  
+- [2020-09-20-ios14-的-bug-之一：下拉-spotlight-无法弹出-siri-建议。](https://www.v2ex.com/t/708845) ![](assets/new.png)  
+- [2020-09-20-上海-漕河泾开发区比心陪练-招聘前端、后端～](https://www.v2ex.com/t/708844) ![](assets/new.png)  
+- [2020-09-20-请问-gorm-如何获取到更新后的值](https://www.v2ex.com/t/708843) ![](assets/new.png)  
+- [2020-09-20-电信宽带又被限速-1Mbps,附带投诉文案](https://www.v2ex.com/t/708842) ![](assets/new.png)  
+- [2020-09-20-大家觉得，在公司升职后，有必要学习管理学吗？](https://www.v2ex.com/t/708840) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,16 +1129,16 @@
 - [2020-09-20-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://toutiao.io/k/loxu86g) ![](assets/new.png)  
 - [2020-09-20-腾讯信息流热点挖掘技术实践](https://toutiao.io/k/dyujvta) ![](assets/new.png)  
 - [2020-09-20-clickhouse-数据模型之有序漏斗分析](https://toutiao.io/k/q7vto9f) ![](assets/new.png)  
-- [2020-09-20-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-20-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-20-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-20-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-20-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
-- [2020-09-20-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
-- [2020-09-20-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-20-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
 - [2020-09-20-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-20-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-20-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-20-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
+- [2020-09-20-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-09-20-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-20-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-20-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
 - [2020-09-20-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
-- [2020-09-20-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

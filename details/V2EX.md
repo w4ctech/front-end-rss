@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-20 15:11:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 15:23:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-20-hdparm-让硬盘休眠后，重启系统会系统启动了，但是硬盘没启动](https://www.v2ex.com/t/708858) 
+- [2020-09-20-我开发了一款-macOs-的软件：-G-dis---Gui-client-for-Redis](https://www.v2ex.com/t/708857) 
 - [2020-09-20-网易云音乐的普通会员和黑胶会员竟然不是互斥的？](https://www.v2ex.com/t/708856) 
 - [2020-09-20-急，我撤销了复制的操作但是原盘已经被我格式化了。。有办法找回文件吗？](https://www.v2ex.com/t/708855) 
 - [2020-09-20-mbp-键盘失灵卡死怎么办](https://www.v2ex.com/t/708854) 
@@ -43,4 +45,3 @@
 - [2020-09-20-Apple-Store-官网-4K-5K-LG-显示器都无货了](https://www.v2ex.com/t/708812) 
 - [2020-09-20-doh.pub-和-dns.pub-ping-不通了？](https://www.v2ex.com/t/708811) 
 - [2020-09-20-DevonThink-3-Pro-教育优惠便宜-40%，就今天](https://www.v2ex.com/t/708809) 
-- [2020-09-20-还有几个月就要过年了...](https://www.v2ex.com/t/708807) 

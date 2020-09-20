@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-20 15:11:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 15:23:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -339,6 +339,7 @@
 
 
 - [【程序员成长指北】【不可思议的CANVAS】画一只会跟着鼠标走的小狗](https://www.ershicimi.com/p/ffa58cf66cdbb13763e59a9e56abb48b)
+- [【V2EX】我开发了一款-macOs-的软件：-G-dis---Gui-client-for-Redis](https://www.v2ex.com/t/708857)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

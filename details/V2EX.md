@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-20 23:34:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 23:47:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-20-要是-Apple-Watch-的静音能跟随手机就好了。](https://www.v2ex.com/t/708885) 
 - [2020-09-20-周一早上格外堵车，都有哪些主要原因？](https://www.v2ex.com/t/708884) 
 - [2020-09-20-请教-watchOS-7-的-GMT-表盘怎么用](https://www.v2ex.com/t/708883) 
 - [2020-09-20-cron-没有配置文件？](https://www.v2ex.com/t/708882) 
@@ -47,4 +48,3 @@
 - [2020-09-20-现在-8-位的-qq-号还有人买吗？大概什么价](https://www.v2ex.com/t/708838) 
 - [2020-09-20-公告-保利威（POLYV）教师节活动中奖通知](https://www.v2ex.com/t/708837) 
 - [2020-09-20-用了这么久的-ubuntu-才发现它读乌邦吐](https://www.v2ex.com/t/708836) 
-- [2020-09-20-如何避免-pg-插入数据报-id-已存在的问题](https://www.v2ex.com/t/708835) 

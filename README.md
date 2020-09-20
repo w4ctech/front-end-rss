@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-20 03:24:26，:rocket: 更新条数: +3640， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-20 03:32:30，:rocket: 更新条数: +3638， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -969,9 +969,9 @@
 
 - [2020-09-19-【如果不想读文档的话】傻瓜式入门vue3](https://juejin.im/post/6874314855281590280) ![](assets/new.png)  
 - [2020-09-19-【Vue原理】从实例到源码分析数据双向绑定](https://juejin.im/post/6874224542902910990) ![](assets/new.png)  
-- [2020-09-18-深入浅出，前端团队的自动化部署指南---实战篇-四种项目的实战化部署教程](https://juejin.im/post/6874034933505998855) ![](assets/new.png)  
-- [2020-09-18-微信小程序里长按识别二维码](https://juejin.im/post/6873819320494948360) ![](assets/new.png)  
+- [2020-09-18-Vue3.0-前瞻---新版本有哪些改动？](https://juejin.im/post/6874098841289752590) ![](assets/new.png)  
 - [2020-09-18-如何用-JavaScript-实现一个链表（译文）](https://juejin.im/post/6873804248417566734) ![](assets/new.png)  
+- [2020-09-18-Vue-性能优化实践指北](https://juejin.im/post/6873803103016386568) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1149,16 @@
 - [2020-09-20-工具-|-京东自研的联邦学习平台](https://toutiao.io/k/gihcfzr) ![](assets/new.png)  
 - [2020-09-20-Ribbon-讲解与应用](https://toutiao.io/k/etwq1yw) ![](assets/new.png)  
 - [2020-09-20-clickhouse-数据模型之有序漏斗分析](https://toutiao.io/k/q7vto9f) ![](assets/new.png)  
+- [2020-09-20-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
 - [2020-09-20-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
 - [2020-09-20-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-20-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-20-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-20-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-20-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-20-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
-- [2020-09-20-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [2020-09-20-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
 - [2020-09-20-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-20-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-20-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-20-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-20-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
+- [2020-09-20-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-20 07:23:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 07:32:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2020-09-20-MacBook-Pro-16-刚买一个多月电池健康度就掉到了百分之-95，这个正常吗？](https://www.v2ex.com/t/708711) 
 - [2020-09-20-公司的内网-l2tp-设置连接后，需要添加永久路由，但是-route-print-找不到我的连接](https://www.v2ex.com/t/708710) 
 - [2020-09-20-求个好用的-mac-app-下载渠道](https://www.v2ex.com/t/708709) 
-- [2020-09-20-iWatch-更新后变砖?](https://www.v2ex.com/t/708707) 

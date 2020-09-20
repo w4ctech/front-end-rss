@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-20 05:22:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 05:32:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-20-学校宿舍即将强制使用人脸识别门禁，有无反抗的可能](https://www.v2ex.com/t/708741) 
 - [2020-09-20-问个-iOS14-的小问题](https://www.v2ex.com/t/708740) 
 - [2020-09-20-Apple-Pay-交行借记卡可以取消输入取款密码吗？](https://www.v2ex.com/t/708739) 
 - [2020-09-20-offer-选择，-国企和互联网](https://www.v2ex.com/t/708737) 
@@ -43,5 +44,3 @@
 - [2020-09-20-google-photo-真香，备份向](https://www.v2ex.com/t/708695) 
 - [2020-09-20-IOS14-为什么会对有的-wifi-弹出隐私警告？](https://www.v2ex.com/t/708694) 
 - [2020-09-20-新入尼康-D780，单反最后的倔强](https://www.v2ex.com/t/708693) 
-- [2020-09-20-有没有-ubuntu-便宜台式机推荐？](https://www.v2ex.com/t/708692) 
-- [2020-09-20-这个恢复密钥是随着-iOS14-出的吗？](https://www.v2ex.com/t/708691) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-20 06:36:22，:rocket: 更新条数: +3410， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-20 06:47:08，:rocket: 更新条数: +3410， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -949,8 +949,8 @@
 
 - [2020-09-19-从编译过程，理解-Vue3-静态节点提升过程（源码分析）](https://juejin.im/post/6874419253865365511) ![](assets/new.png)  
 - [2020-09-19-尤大-3-天前发在-GitHub-上的-vue-lit-是啥？](https://juejin.im/post/6874383765070675976) ![](assets/new.png)  
+- [2020-09-19-基于-vue-自定义指令实现图片懒加载](https://juejin.im/post/6874131616344588302) ![](assets/new.png)  
 - [2020-09-19-macroTask-和-microTask-理解](https://juejin.im/post/6874109558365618184) ![](assets/new.png)  
-- [2020-09-18-vue+node.js手把手教你搭建一个直播平台（四）-接入直播接口](https://juejin.im/post/6874012730597212173) ![](assets/new.png)  
 - [2020-09-18-var-let-const-声明变量的不同](https://juejin.im/post/6873875975583563790) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-20-求助：学校计算机实验室招新题目怎么出？](https://www.v2ex.com/t/708750) ![](assets/new.png)  
 - [2020-09-20-phpMyAdmin-登录不了-无任何提示-怎么办](https://www.v2ex.com/t/708748) ![](assets/new.png)  
 - [2020-09-20-三年工作经验，想跳槽去北京，想知道现在北京三年经验工资一般在多少-K](https://www.v2ex.com/t/708747) ![](assets/new.png)  
 - [2020-09-20-一直使用-ios-美区微信，如果下架了如何将聊天记录及数据保留转为其他区的微信。](https://www.v2ex.com/t/708746) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-20-服务器貌似被入侵了，跑了个-ectcn-的程序，求指教](https://www.v2ex.com/t/708726) ![](assets/new.png)  
 - [2020-09-20-百度搜索结果是其它公司竞价排名，怎么办？](https://www.v2ex.com/t/708724) ![](assets/new.png)  
 - [2020-09-20-大家能下载-macOS-版的-GoogleEarth-吗？](https://www.v2ex.com/t/708723) ![](assets/new.png)  
-- [2020-09-20-MySQL-的-SELECT，如何让分钟或者秒数来做-WHERE-条件呢？](https://www.v2ex.com/t/708722) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,8 +1120,8 @@
 
 
 - [2020-09-20-华为鸿蒙-2.0，让我遇见未来-|-码农周刊第-318-期](https://toutiao.io/k/6rprzrd) ![](assets/new.png)  
-- [2020-09-20-如何建立测试自动化策略？](https://toutiao.io/k/xtwnfoo) ![](assets/new.png)  
 - [2020-09-20-5-分钟学会雪花算法-Golang](https://toutiao.io/k/8o2lqjo) ![](assets/new.png)  
+- [2020-09-20-如何建立测试自动化策略？](https://toutiao.io/k/xtwnfoo) ![](assets/new.png)  
 - [2020-09-20-腾讯云-API-3.0-网关的探索与思考](https://toutiao.io/k/78grbpd) ![](assets/new.png)  
 - [2020-09-20-工具-|-京东自研的联邦学习平台](https://toutiao.io/k/gihcfzr) ![](assets/new.png)  
 - [2020-09-20-Kubeflow：连接云计算和机器学习的-“桥梁”](https://toutiao.io/k/j38xynd) ![](assets/new.png)  
@@ -1129,16 +1129,16 @@
 - [2020-09-20-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://toutiao.io/k/loxu86g) ![](assets/new.png)  
 - [2020-09-20-Ribbon-讲解与应用](https://toutiao.io/k/etwq1yw) ![](assets/new.png)  
 - [2020-09-20-clickhouse-数据模型之有序漏斗分析](https://toutiao.io/k/q7vto9f) ![](assets/new.png)  
-- [2020-09-20-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-20-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-20-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-20-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
-- [2020-09-20-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-20-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
-- [2020-09-20-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
+- [2020-09-20-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-20-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [2020-09-20-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-20-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-20-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-20-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
+- [2020-09-20-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-20-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-20-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-20-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
+- [2020-09-20-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
+- [2020-09-20-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

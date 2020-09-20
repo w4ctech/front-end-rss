@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-20 06:03:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 06:13:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -127,7 +127,6 @@
 - [【Nodejs技术栈】Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/9cf9e1540ea437410112acba7e8eecd0)
 - [【InfoQ】尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/d95588bb2dfefaac5fb01927aca21dad)
 - [【JavaScript】【软件更新】TypeScript-4.0正式发布！](https://www.ershicimi.com/p/8a2344e4dbdfdd6502c56441d6475911)
-- [【掘金前端】TypeScript-入门指南](https://juejin.im/post/6864714103382867976)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -163,7 +162,6 @@
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【前端日刊】webpack-这么牛X，你还不会用？](https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1)
-- [【掘金前端】webpack快速实践教程](https://juejin.im/post/6874123325912645645)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [......【查看更多】......](./details/tags/pack-build.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-20 12:48:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 13:03:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,6 +36,8 @@
 - [2020-09-20-opera-浏览器不能登录，也就不能同步了](https://www.v2ex.com/t/708779) 
 - [2020-09-20-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-20-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
+- [2020-09-20-转载|事后补救VS事前防控-2500年前先贤已揭示了网络安全的新哲学](https://sec.thief.one/article_content?a_id=b2918d388465b8281a589fee6d33e49e) 
+- [2020-09-20-中国网络安全厂商、安全培训机构大全2020年9月20日](https://sec.thief.one/article_content?a_id=352857c92572c4cb27875a091226a021) 
 - [2020-09-20-安恒信息安全运营中心威胁情报总结-DAY9](https://sec.thief.one/article_content?a_id=657d381f2928d9c9359b26376dce8bc4) 
 - [2020-09-20-【安全圈】美国土安全部发出罕见紧急警告:Windows存在“严重”...](https://sec.thief.one/article_content?a_id=13153fa1ee264a919c4703a1969bbaa0) 
 - [2020-09-20-《中国网络安全产业白皮书2020年》全文](https://sec.thief.one/article_content?a_id=49841bacdfa1aafdc0caacccff0acb95) 
@@ -59,5 +61,3 @@
 - [2020-09-18-常见-Web-安全漏洞实战攻防演练](https://sec.thief.one/article_content?a_id=904a3f249eca3547f9c616f298ef4593) 
 - [2020-09-17-绿盟科技:用可信计算3.0筑牢网络安全防线](https://sec.thief.one/article_content?a_id=e2a7f4c1eec4cd205a66dbb32a8badc4) 
 - [2020-09-17-【京东招聘】BZBS!我说一个数,京东安全招聘N²人](https://sec.thief.one/article_content?a_id=fb3709e9d1aeb92f8f5b3af1fee43dbd) 
-- [2020-09-17-移动安全三|一道CTF题的apk逆向实战](https://sec.thief.one/article_content?a_id=ad23001c524bb6ccc392ee057f3165df) 
-- [2020-09-17-仿冒、钓鱼、黑客入侵……警惕邮件安全这些“坑”](https://sec.thief.one/article_content?a_id=c565ff80de3f662fd6f8a931dd67f2eb) 

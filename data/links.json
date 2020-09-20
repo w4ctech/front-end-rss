@@ -16395,6 +16395,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "dubox 感受一下印度人口的威力吧",
+        "link": "https://www.v2ex.com/t/708869",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "近 5 年你所在的行业或技术栈最大的改变有哪些",
+        "link": "https://www.v2ex.com/t/708868",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[Thief 摸鱼神器] 上班玩游戏，摸鱼它不香吗？",
+        "link": "https://www.v2ex.com/t/708867",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "iOS 14 还能降级到 ios13.7 吗 XS MAX 试了几次都不成功 提示错误 3194",
+        "link": "https://www.v2ex.com/t/708866",
+        "date": "2020-09-20"
+      },
+      {
         "title": "[B 站视频分享] 世纪大辩论 上帝是否存在 罗素 VS 科普尔斯顿神父 中英字幕",
         "link": "https://www.v2ex.com/t/708865",
         "date": "2020-09-20"
@@ -16578,21 +16598,6 @@
         "title": "网站服务的 MVC 框架含有 OOP 思想吗？",
         "link": "https://www.v2ex.com/t/708820",
         "date": "2020-09-20"
-      },
-      {
-        "title": "因学业繁忙而请求支援的魔法少女小圆 Unity 移植项目，求 star 或他人继续开发",
-        "link": "https://www.v2ex.com/t/708819",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "watch 6 没有蓝宝石屏幕了",
-        "link": "https://www.v2ex.com/t/708818",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "广州字节 ee 效率线招人，很多 hc，就这 2 月，福利待遇不错，上班时间 10-12， 2-7， 8-9.30，大小周，主要语言是 go 和 Python ，支持转语言。",
-        "link": "https://www.v2ex.com/t/708816",
-        "date": "2020-09-20"
       }
     ]
   },
@@ -16759,33 +16764,23 @@
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 《一年顶十年》干货读书笔记",
-        "link": "https://toutiao.io/k/okqtla6",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-20"
-      },
-      {
         "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
         "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
         "date": "2020-09-20"
       },
       {
@@ -16794,18 +16789,28 @@
         "date": "2020-09-20"
       },
       {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-20"
+      },
+      {
         "title": "[推荐] 分享一个作为面试官的面试思路",
         "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-20"
       },
       {
@@ -16819,18 +16824,18 @@
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
         "date": "2020-09-20"
       }
     ]

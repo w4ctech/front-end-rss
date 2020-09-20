@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-19 23:48:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 00:07:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -74,4 +74,3 @@
 - [2020-09-18-喜大普奔:-Vue-3.0-正式版发布](https://juejin.im/post/6873962565626494983) 
 - [2020-09-18-Vue3-Composition-API](https://juejin.im/post/6873811764506296334) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-09-19-译-Vue-3.0-发布](https://toutiao.io/k/lxr8qxr) 

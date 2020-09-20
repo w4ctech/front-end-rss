@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-20 17:49:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 18:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,5 +40,4 @@
 - [2020-09-20-上海-漕河泾开发区比心陪练-招聘前端、后端～](https://www.v2ex.com/t/708844) 
 - [2020-09-20-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-20-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
-- [2020-09-20-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
 - [2020-09-17-西安电子科技大学密码研究中心人才招聘](https://sec.thief.one/article_content?a_id=3a97f9483d195802129160af1ceb6438) 

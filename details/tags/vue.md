@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-20 07:12:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 07:23:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -50,6 +50,7 @@
 - [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) 
 - [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
 - [2020-09-14-“精通Vue”的求职者有多吃香？](https://www.ershicimi.com/p/2ed6df4501336028253424b4a8cbcaf1) 
+- [2020-09-14-为你的-Vue.js-单页应用提速](https://www.ershicimi.com/p/f370ad3eb269f466bb55d7b08c567605) 
 - [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
 - [2020-09-10-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/e5142f7f4daf63bcaedc86a976e9312d) 
 - [2020-08-31-今天来聊聊，我是如何把Vue学到顶尖水平？](https://www.ershicimi.com/p/d66c711e69f68286fcf0a465dc5cf9cd) 
@@ -65,6 +66,6 @@
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2020-09-19-从编译过程，理解-Vue3-静态节点提升过程（源码分析）](https://juejin.im/post/6874419253865365511) 
 - [2020-09-19-尤大-3-天前发在-GitHub-上的-vue-lit-是啥？](https://juejin.im/post/6874383765070675976) 
-- [2020-09-18-vue+node.js手把手教你搭建一个直播平台（四）-接入直播接口](https://juejin.im/post/6874012730597212173) 
+- [2020-09-19-基于-vue-自定义指令实现图片懒加载](https://juejin.im/post/6874131616344588302) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-09-20-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://toutiao.io/k/loxu86g) 

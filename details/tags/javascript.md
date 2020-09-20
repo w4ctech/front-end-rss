@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-20 07:12:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 07:23:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -60,6 +60,8 @@
 - [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
 - [2020-09-17-JavaScript错误处理完全指南](https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c) 
 - [2020-09-07-JS原型相关知识点](https://www.ershicimi.com/p/615ac57abc1d69cc60d1f97b775d75b1) 
+- [2020-09-12-函数式编程，“香”吗？](https://www.ershicimi.com/p/05a99c22bd5981bc13bce77ea1e8cf65) 
+- [2020-09-06-JavaScript红宝书第4版，送！！！](https://www.ershicimi.com/p/a4f6302fb39e9a27999c12cd5f220fb0) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
 - [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
@@ -101,8 +103,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-20-公司的内网-l2tp-设置连接后，需要添加永久路由，但是-route-print-找不到我的连接](https://www.v2ex.com/t/708710) 
-- [2020-09-20-刚开始学-Rust，这是一段创建一个原始数组的代码，有更“官方”的实现吗？](https://www.v2ex.com/t/708705) 
-- [2020-09-20-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
 - [2020-09-20-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
+- [2020-09-20-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
 - [2020-09-18-【公告】JSRC-八月月度英雄榜](https://sec.thief.one/article_content?a_id=864272e57ceafa07e01cb7ef3b9298cc) 
 - [2020-09-18-【视频分享】路由器逻辑漏洞:如何从零开始攻破一台明星IoT设备](https://sec.thief.one/article_content?a_id=f7cda17b90c0e6427552090b93051d7e) 

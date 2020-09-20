@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-20 11:49:25，:rocket: 更新条数: +3410， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-20 12:04:32，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-20-国内那些用别人的开源项目，碰到问题就贬低讽刺作者的人是什么心态？](https://www.v2ex.com/t/708815) ![](assets/new.png)  
+- [2020-09-20-Apple-Watch-升级系统后，“健身”进不去了](https://www.v2ex.com/t/708814) ![](assets/new.png)  
+- [2020-09-20-mbp-16-寸感觉不便携，打算换-13-寸-2020-款-Pro+-雷蛇雷电-3-显卡坞-加-5700XT](https://www.v2ex.com/t/708813) ![](assets/new.png)  
 - [2020-09-20-Apple-Store-官网-4K-5K-LG-显示器都无货了](https://www.v2ex.com/t/708812) ![](assets/new.png)  
 - [2020-09-20-doh.pub-和-dns.pub-ping-不通了？](https://www.v2ex.com/t/708811) ![](assets/new.png)  
 - [2020-09-20-DevonThink-3-Pro-教育优惠便宜-40%，就今天](https://www.v2ex.com/t/708809) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-20-交换机的好坏主要体现在哪呀？](https://www.v2ex.com/t/708791) ![](assets/new.png)  
 - [2020-09-20-求问-ap-面板在电视柜后面的话信号影响大么？](https://www.v2ex.com/t/708790) ![](assets/new.png)  
 - [2020-09-20-在南京-如何多拉一条宽带](https://www.v2ex.com/t/708789) ![](assets/new.png)  
-- [2020-09-20-线下，线上都买不到华擎-b460m-itx-ac-主板了，求再推荐一个把](https://www.v2ex.com/t/708788) ![](assets/new.png)  
-- [2020-09-20-watch-series6-和-se，-5-电池使用上有什么区别？](https://www.v2ex.com/t/708787) ![](assets/new.png)  
-- [2020-09-20-日本-🇯🇵-2-4-1](https://www.v2ex.com/t/708786) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-09-20-腾讯信息流热点挖掘技术实践](https://toutiao.io/k/dyujvta) ![](assets/new.png)  
 - [2020-09-20-Ribbon-讲解与应用](https://toutiao.io/k/etwq1yw) ![](assets/new.png)  
 - [2020-09-20-clickhouse-数据模型之有序漏斗分析](https://toutiao.io/k/q7vto9f) ![](assets/new.png)  
-- [2020-09-20-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-20-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-20-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
+- [2020-09-20-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-20-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
 - [2020-09-20-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
 - [2020-09-20-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [2020-09-20-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-20-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
-- [2020-09-20-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-20-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
-- [2020-09-20-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-20-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-20-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-20-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-20-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-20-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

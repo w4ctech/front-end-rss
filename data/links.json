@@ -16395,6 +16395,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "国内那些用别人的开源项目，碰到问题就贬低讽刺作者的人是什么心态？",
+        "link": "https://www.v2ex.com/t/708815",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "Apple Watch 升级系统后，“健身”进不去了",
+        "link": "https://www.v2ex.com/t/708814",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "mbp 16 寸感觉不便携，打算换 13 寸 2020 款 Pro+ 雷蛇雷电 3 显卡坞 加 5700XT",
+        "link": "https://www.v2ex.com/t/708813",
+        "date": "2020-09-20"
+      },
+      {
         "title": "Apple Store 官网 4K 5K LG 显示器都无货了",
         "link": "https://www.v2ex.com/t/708812",
         "date": "2020-09-20"
@@ -16568,16 +16583,6 @@
         "title": "一个现代化的前端小组应该具备什么？",
         "link": "https://www.v2ex.com/t/708766",
         "date": "2020-09-20"
-      },
-      {
-        "title": "Wox 豆瓣图书、豆瓣电影插件修复 (2020.09)",
-        "link": "https://www.v2ex.com/t/708765",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "请问如何验证微信公众号后台的事件推送来自微信服务器？",
-        "link": "https://www.v2ex.com/t/708764",
-        "date": "2020-09-20"
       }
     ]
   },
@@ -16744,8 +16749,23 @@
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-20"
       },
       {
@@ -16764,13 +16784,23 @@
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
         "date": "2020-09-20"
       },
       {
@@ -16784,33 +16814,8 @@
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
         "date": "2020-09-20"
       },
       {

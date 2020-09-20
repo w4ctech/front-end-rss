@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-20 01:49:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 02:03:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,8 +42,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-19-安卓模拟器未来会不会支持-vulkan-渲染？](https://www.v2ex.com/t/708682) 
 - [2020-09-19-chrome-安卓版首页的文章推荐怎么没了？](https://www.v2ex.com/t/708653) 
-- [2020-09-19-opera-浏览器不能登录同步了](https://www.v2ex.com/t/708646) 
-- [2020-09-19-防止缓存击穿之进程内共享调用](https://www.v2ex.com/t/708644) 
 - [2020-09-20-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-20-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-19-安恒信息安全运营中心威胁情报总结-DAY8](https://sec.thief.one/article_content?a_id=3b50dc55f3ac6e2bb7a33bdf43604558) 

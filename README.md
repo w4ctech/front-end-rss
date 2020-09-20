@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-20 03:34:59，:rocket: 更新条数: +3638， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-20 03:47:14，:rocket: 更新条数: +3639， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,12 @@
 </summary>
 
 
+- [2020-09-20-为什么升级了-tvOS，油管还是没有-4K-选项](https://www.v2ex.com/t/708719) ![](assets/new.png)  
+- [2020-09-20-Chrome-插件，外链自由跳转](https://www.v2ex.com/t/708718) ![](assets/new.png)  
+- [2020-09-20-iPhone-x-更新-ios14-电池耗电好快，不知道这个-“健康”应用干了啥](https://www.v2ex.com/t/708717) ![](assets/new.png)  
+- [2020-09-20-14-个月-Java-开发想跳槽，大家有建议吗](https://www.v2ex.com/t/708716) ![](assets/new.png)  
+- [2020-09-20-两个-offer-选哪个，纠结啊](https://www.v2ex.com/t/708715) ![](assets/new.png)  
+- [2020-09-20-想问下美团收购摩拜的意义是什么](https://www.v2ex.com/t/708714) ![](assets/new.png)  
 - [2020-09-20-MacBook-Pro-16-刚买一个多月电池健康度就掉到了百分之-95，这个正常吗？](https://www.v2ex.com/t/708711) ![](assets/new.png)  
 - [2020-09-20-公司的内网-l2tp-设置连接后，需要添加永久路由，但是-route-print-找不到我的连接](https://www.v2ex.com/t/708710) ![](assets/new.png)  
 - [2020-09-20-求个好用的-mac-app-下载渠道](https://www.v2ex.com/t/708709) ![](assets/new.png)  
@@ -1091,12 +1097,6 @@
 - [2020-09-20-中国移动的官网-10086.cn-是不是在墙外已经无法访问了？](https://www.v2ex.com/t/708699) ![](assets/new.png)  
 - [2020-09-20-Coding-团队-BUG](https://www.v2ex.com/t/708697) ![](assets/new.png)  
 - [2020-09-20-发现一个做黑产的人非法获利高达上-10-万，我该如何检举他？](https://www.v2ex.com/t/708696) ![](assets/new.png)  
-- [2020-09-20-google-photo-真香，备份向](https://www.v2ex.com/t/708695) ![](assets/new.png)  
-- [2020-09-20-IOS14-为什么会对有的-wifi-弹出隐私警告？](https://www.v2ex.com/t/708694) ![](assets/new.png)  
-- [2020-09-20-新入尼康-D780，单反最后的倔强](https://www.v2ex.com/t/708693) ![](assets/new.png)  
-- [2020-09-20-有没有-ubuntu-便宜台式机推荐？](https://www.v2ex.com/t/708692) ![](assets/new.png)  
-- [2020-09-20-这个恢复密钥是随着-iOS14-出的吗？](https://www.v2ex.com/t/708691) ![](assets/new.png)  
-- [2020-09-20-广西-5-层外包杀人案-5-位案犯获得-2020-搞笑诺贝尔-管理学奖](https://www.v2ex.com/t/708690) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,19 +1146,19 @@
 - [2020-09-20-Kubeflow：连接云计算和机器学习的-“桥梁”](https://toutiao.io/k/j38xynd) ![](assets/new.png)  
 - [2020-09-20-腾讯信息流热点挖掘技术实践](https://toutiao.io/k/dyujvta) ![](assets/new.png)  
 - [2020-09-20-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://toutiao.io/k/loxu86g) ![](assets/new.png)  
-- [2020-09-20-工具-|-京东自研的联邦学习平台](https://toutiao.io/k/gihcfzr) ![](assets/new.png)  
 - [2020-09-20-Ribbon-讲解与应用](https://toutiao.io/k/etwq1yw) ![](assets/new.png)  
+- [2020-09-20-工具-|-京东自研的联邦学习平台](https://toutiao.io/k/gihcfzr) ![](assets/new.png)  
 - [2020-09-20-clickhouse-数据模型之有序漏斗分析](https://toutiao.io/k/q7vto9f) ![](assets/new.png)  
-- [2020-09-20-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-20-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-20-推荐-DDD-as-Code：如何用代码诠释领域驱动设计？](https://toutiao.io/k/0dtlx6f) ![](assets/new.png)  
 - [2020-09-20-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
-- [2020-09-20-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
-- [2020-09-20-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-20-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-20-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
+- [2020-09-20-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-20-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
 - [2020-09-20-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-20-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
-- [2020-09-20-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-20-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-20-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-20-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-20-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-20-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

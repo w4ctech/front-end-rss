@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-20 05:11:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 05:22:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-20-问个-iOS14-的小问题](https://www.v2ex.com/t/708740) 
 - [2020-09-20-Apple-Pay-交行借记卡可以取消输入取款密码吗？](https://www.v2ex.com/t/708739) 
 - [2020-09-20-offer-选择，-国企和互联网](https://www.v2ex.com/t/708737) 
 - [2020-09-20-有没有购买了最新-iMac20,1-或者-20,2-的兄弟，咨询你们一下](https://www.v2ex.com/t/708736) 

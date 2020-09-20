@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-20 17:03:36，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-20 17:11:47，:rocket: 更新条数: +3415， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-20-微信每日健康打卡回答问题有没有什么自动处理方法啊](https://www.v2ex.com/t/708875) ![](assets/new.png)  
 - [2020-09-20-请教上班摸鱼的技巧～](https://www.v2ex.com/t/708874) ![](assets/new.png)  
 - [2020-09-20-适用于-MacBook、MacBook-Air-和-MacBook-Pro-的键盘服务计划，会帮你把电池也换新！走过路过不要错过。](https://www.v2ex.com/t/708873) ![](assets/new.png)  
 - [2020-09-20-请问一下，网页模仿手机界面，可以修改-运营商、信号、电量等，怎么做到的。](https://www.v2ex.com/t/708872) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-20-网易云音乐的普通会员和黑胶会员竟然不是互斥的？](https://www.v2ex.com/t/708856) ![](assets/new.png)  
 - [2020-09-20-急，我撤销了复制的操作但是原盘已经被我格式化了。。有办法找回文件吗？](https://www.v2ex.com/t/708855) ![](assets/new.png)  
 - [2020-09-20-mbp-键盘失灵卡死怎么办](https://www.v2ex.com/t/708854) ![](assets/new.png)  
-- [2020-09-20-第一代-11-寸-iPad-Pro-在更新-iPadOS-14.2-Beta-以后出现了无法充电的软件-bug](https://www.v2ex.com/t/708853) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,23 +1122,23 @@
 - [2020-09-20-华为鸿蒙-2.0，让我遇见未来-|-码农周刊第-318-期](https://toutiao.io/k/6rprzrd) ![](assets/new.png)  
 - [2020-09-20-5-分钟学会雪花算法-Golang](https://toutiao.io/k/8o2lqjo) ![](assets/new.png)  
 - [2020-09-20-如何建立测试自动化策略？](https://toutiao.io/k/xtwnfoo) ![](assets/new.png)  
-- [2020-09-20-腾讯云-API-3.0-网关的探索与思考](https://toutiao.io/k/78grbpd) ![](assets/new.png)  
 - [2020-09-20-Ribbon-讲解与应用](https://toutiao.io/k/etwq1yw) ![](assets/new.png)  
+- [2020-09-20-腾讯云-API-3.0-网关的探索与思考](https://toutiao.io/k/78grbpd) ![](assets/new.png)  
 - [2020-09-20-工具-|-京东自研的联邦学习平台](https://toutiao.io/k/gihcfzr) ![](assets/new.png)  
 - [2020-09-20-Kubeflow：连接云计算和机器学习的-“桥梁”](https://toutiao.io/k/j38xynd) ![](assets/new.png)  
 - [2020-09-20-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://toutiao.io/k/loxu86g) ![](assets/new.png)  
 - [2020-09-20-腾讯信息流热点挖掘技术实践](https://toutiao.io/k/dyujvta) ![](assets/new.png)  
 - [2020-09-20-clickhouse-数据模型之有序漏斗分析](https://toutiao.io/k/q7vto9f) ![](assets/new.png)  
-- [2020-09-20-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-20-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-20-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-20-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
 - [2020-09-20-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-20-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-20-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-20-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
-- [2020-09-20-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-20-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-20-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-20-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
 - [2020-09-20-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-20-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-20-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-20-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-20-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-20-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-20 04:47:23，:rocket: 更新条数: +3411， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-20 05:03:51，:rocket: 更新条数: +3410， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-20-offer-选择，-国企和互联网](https://www.v2ex.com/t/708737) ![](assets/new.png)  
+- [2020-09-20-有没有购买了最新-iMac20,1-或者-20,2-的兄弟，咨询你们一下](https://www.v2ex.com/t/708736) ![](assets/new.png)  
+- [2020-09-20-虹梅路地铁站附近-或者-合川路附近-求房-求合租](https://www.v2ex.com/t/708735) ![](assets/new.png)  
 - [2020-09-20-沉默的真相观后感](https://www.v2ex.com/t/708731) ![](assets/new.png)  
 - [2020-09-20-教育优惠审核通过后可以修改收件人信息吗？](https://www.v2ex.com/t/708730) ![](assets/new.png)  
 - [2020-09-20-上海运营商及套餐推荐？](https://www.v2ex.com/t/708729) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-20-两个-offer-选哪个，纠结啊](https://www.v2ex.com/t/708715) ![](assets/new.png)  
 - [2020-09-20-想问下美团收购摩拜的意义是什么](https://www.v2ex.com/t/708714) ![](assets/new.png)  
 - [2020-09-20-MacBook-Pro-16-刚买一个多月电池健康度就掉到了百分之-95，这个正常吗？](https://www.v2ex.com/t/708711) ![](assets/new.png)  
-- [2020-09-20-公司的内网-l2tp-设置连接后，需要添加永久路由，但是-route-print-找不到我的连接](https://www.v2ex.com/t/708710) ![](assets/new.png)  
-- [2020-09-20-求个好用的-mac-app-下载渠道](https://www.v2ex.com/t/708709) ![](assets/new.png)  
-- [2020-09-20-照现在各行各业人才涌向-IT-行业的趋势，预计哪一年-IT-行业的泡沫开始破裂，-IT-行业大量降薪失业，行业重新整合并且趋于正常？](https://www.v2ex.com/t/708708) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-09-20-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://toutiao.io/k/loxu86g) ![](assets/new.png)  
 - [2020-09-20-Ribbon-讲解与应用](https://toutiao.io/k/etwq1yw) ![](assets/new.png)  
 - [2020-09-20-clickhouse-数据模型之有序漏斗分析](https://toutiao.io/k/q7vto9f) ![](assets/new.png)  
-- [2020-09-20-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-20-推荐-架构设计：基于电商交易流程，图解-TCC-事务分段提交](https://toutiao.io/k/x0ijapt) ![](assets/new.png)  
-- [2020-09-20-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
-- [2020-09-20-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-20-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
 - [2020-09-20-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-20-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
-- [2020-09-20-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
 - [2020-09-20-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
+- [2020-09-20-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-20-推荐-一个-@Transaction-哪里来这么多坑？](https://toutiao.io/k/cxzkwbd) ![](assets/new.png)  
+- [2020-09-20-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
 - [2020-09-20-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-20-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
+- [2020-09-20-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-20-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-20-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

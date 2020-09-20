@@ -16385,6 +16385,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "offer 选择， 国企和互联网",
+        "link": "https://www.v2ex.com/t/708737",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "有没有购买了最新 iMac20,1 或者 20,2 的兄弟，咨询你们一下",
+        "link": "https://www.v2ex.com/t/708736",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "虹梅路地铁站附近 或者 合川路附近 求房 求合租",
+        "link": "https://www.v2ex.com/t/708735",
+        "date": "2020-09-20"
+      },
+      {
         "title": "沉默的真相观后感",
         "link": "https://www.v2ex.com/t/708731",
         "date": "2020-09-20"
@@ -16563,26 +16578,6 @@
         "title": "有什么办法可以查看华为 push 日志么？就像*#*#426#*#*一样？",
         "link": "https://www.v2ex.com/t/708688",
         "date": "2020-09-20"
-      },
-      {
-        "title": "小米 10 的拍摄效果和 GoPro 相比差距如何？",
-        "link": "https://www.v2ex.com/t/708687",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "（新手向）现在学习 android 晚吗？",
-        "link": "https://www.v2ex.com/t/708686",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "眼镜度数涨了 50 度，激光好使吗？",
-        "link": "https://www.v2ex.com/t/708685",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "看完 the little schemer 最大的感受",
-        "link": "https://www.v2ex.com/t/708684",
-        "date": "2020-09-20"
       }
     ]
   },
@@ -16749,23 +16744,8 @@
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
-        "link": "https://toutiao.io/k/x0ijapt",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
         "date": "2020-09-20"
       },
       {
@@ -16774,43 +16754,18 @@
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
-        "link": "https://toutiao.io/k/cxzkwbd",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-20"
-      },
-      {
         "title": "[推荐] Golang 汇编入门知识总结",
         "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
         "date": "2020-09-20"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] DDD as Code：如何用代码诠释领域驱动设计？",
-        "link": "https://toutiao.io/k/0dtlx6f",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] 一个 @Transaction 哪里来这么多坑？",
+        "link": "https://toutiao.io/k/cxzkwbd",
         "date": "2020-09-20"
       },
       {
@@ -16819,8 +16774,48 @@
         "date": "2020-09-20"
       },
       {
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
+        "date": "2020-09-20"
+      },
+      {
         "title": "[推荐] 硬核看房利器：Web 全景的实现",
         "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 架构设计：基于电商交易流程，图解 TCC 事务分段提交",
+        "link": "https://toutiao.io/k/x0ijapt",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
         "date": "2020-09-20"
       }
     ]

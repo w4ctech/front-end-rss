@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-20 23:11:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 23:21:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -76,7 +76,6 @@
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) 
 - [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) 
 - [2018-10-22-单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/) 
@@ -128,8 +127,7 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-20-学校开了一门-jsp-课程](https://www.v2ex.com/t/708878) 
 - [2020-09-20-前端类似-easyui，-extjs-这样的可以多个区域控制列表的框架给推荐几个！](https://www.v2ex.com/t/708877) 
-- [2020-09-20-真的不错-ios14-好玩的-翻译以及滚动截屏](https://www.v2ex.com/t/708832) 
-- [2020-09-20-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-20-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
+- [2020-09-20-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-18-【公告】JSRC-八月月度英雄榜](https://sec.thief.one/article_content?a_id=864272e57ceafa07e01cb7ef3b9298cc) 
 - [2020-09-18-【视频分享】路由器逻辑漏洞:如何从零开始攻破一台明星IoT设备](https://sec.thief.one/article_content?a_id=f7cda17b90c0e6427552090b93051d7e) 

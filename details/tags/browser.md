@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-20 10:23:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 10:32:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,6 +26,7 @@
 - [2020-09-07-【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327) 
 - [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
 - [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
+- [2020-09-08-你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e) 
 - [2020-09-16-15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/6132906ae7deb3d51731b82fc93b3f87) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -41,7 +42,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-20-opera-浏览器不能登录，也就不能同步了](https://www.v2ex.com/t/708779) 
 - [2020-09-20-一个-HTTP-请求的曲折经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13765&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBulxIXxuHYkEbBhitJ-ibQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-20-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-19-安恒信息安全运营中心威胁情报总结-DAY8](https://sec.thief.one/article_content?a_id=3b50dc55f3ac6e2bb7a33bdf43604558) 
 - [2020-09-19-一种对PostgreSQL数据库实现-RCE-的方法介绍](https://sec.thief.one/article_content?a_id=8d804c3a31ec9f5fe2cebc94b497d1aa) 
 - [2020-09-19-安恒信息安全运营中心威胁情报总结-DAY7](https://sec.thief.one/article_content?a_id=ea929dc747479751e720f25b3c53681f) 

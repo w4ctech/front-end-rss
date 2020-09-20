@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-20 10:23:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-20 10:32:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,6 +183,8 @@
 - [【前端之巅】Node.js开发人员都应该知道的12个有用的包](https://www.ershicimi.com/p/d0547fa0a40cf921b2419cc8322d1e6b)
 - [【全栈前端精选】实战Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/135231f1360380a7aed3e813e8f18695)
 - [【政采云前端团队】如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082)
+- [【前端瓶子君】【译】深入了解V8](https://www.ershicimi.com/p/f146696392d62087be2f1c565ba505c6)
+- [【前端瓶子君】包邮免费送本啦（Node.js-初学者进）](https://www.ershicimi.com/p/c1b72640d1da178d7bddf666100818c5)
 - [【程序员成长指北】通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/03cc8f1f2c37636bdfe1084a7579e71d)
 - [【程序员成长指北】2020年，你应该知道-23-个非常有用的-NodeJs-库](https://www.ershicimi.com/p/798661a5bcfcfb22e65df66de8d51a51)
 - [【程序员成长指北】Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/b3cac8cd587b06157d6b9b1d146fea5a)
@@ -197,8 +199,6 @@
 - [【Nodejs技术栈】CNodejs每日新闻周刊｜第-3-期](https://www.ershicimi.com/p/aa8ce2fb495c2ce2e13fe5d917ab5741)
 - [【Nodejs技术栈】CNodejs每日新闻周刊｜第-2-期](https://www.ershicimi.com/p/b770e0e896eaae7a0368cd15b5b8a48a)
 - [【Nodejs技术栈】推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806)
-- [【Nodejs技术栈】一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/4fd54e82ba5cd37e48a5a8095178bbb9)
-- [【凹凸实验室】一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,6 +350,7 @@
 - [【前端外刊评论】赠书-|-张鑫旭新书《CSS选择器世界》章节试读](https://www.ershicimi.com/p/1be4d882970f60785dec795871ae4c89)
 - [【前端之巅】Serverless：我还是一个大孩子](https://www.ershicimi.com/p/9fdab7e1908c34c0f6af750611276467)
 - [【前端宇宙】一个可能让你的页面渲染速度提升数倍的CSS属性](https://www.ershicimi.com/p/e50f0acf35c61187f22209a1e76cc671)
+- [【前端瓶子君】这五个有用的-CSS-属性完全被我忽视了](https://www.ershicimi.com/p/20e6d410efcc58cb1c8e47502b41d772)
 - [【程序员成长指北】CSS八种让人眼前一亮的HOVER效果](https://www.ershicimi.com/p/758221ce47b62753a1ef428836c74805)
 - [【张鑫旭-鑫空间-鑫生活】研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/)
 - [【张鑫旭-鑫空间-鑫生活】颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/)
@@ -360,7 +361,6 @@
 - [【凹凸实验室】2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)
 - [【凹凸实验室】serverless](https://aotu.io/notes/2019/08/05/serverless/)
 - [【凹凸实验室】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
-- [【凹凸实验室】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -450,6 +450,7 @@
 - [【前端迷】老生常谈的性能优化再来讲一遍给大家](https://www.ershicimi.com/p/61efe0503f15be9bf6c891fdd624c07e)
 - [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
+- [【前端瓶子君】腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/0dc883c40b3a91eda21efc54ba4b23f9)
 - [【程序员成长指北】大规格文件的上传优化实用篇](https://www.ershicimi.com/p/1250d17c61d70da781c7585205c595cd)
 - [【程序员成长指北】QQ音乐客户端Web页面通用性能优化实践](https://www.ershicimi.com/p/2a26ee43140af3078bb280fa857918ae)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
@@ -496,7 +497,7 @@
 - [【前端早读课】【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327)
 - [【前端迷】复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2)
 - [【前端宇宙】你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d)
-- [【程序员成长指北】15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/6132906ae7deb3d51731b82fc93b3f87)
+- [【前端瓶子君】你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

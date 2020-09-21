@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 16:49:02，:rocket: 更新条数: +3405， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 17:03:38，:rocket: 更新条数: +3404， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-21-watch-S3-有必要升级到-OS-7-吗](https://www.v2ex.com/t/709215) ![](assets/new.png)  
+- [2020-09-21-ios14-的地点相关捷径还是用不了吗](https://www.v2ex.com/t/709213) ![](assets/new.png)  
+- [2020-09-21-列举一下迅雷「子公司」玩物科技的一二事](https://www.v2ex.com/t/709212) ![](assets/new.png)  
 - [2020-09-21-safari14-谨慎更新](https://www.v2ex.com/t/709211) ![](assets/new.png)  
 - [2020-09-21-想问下大家现在都用-spring-boot-的哪个版本呢](https://www.v2ex.com/t/709210) ![](assets/new.png)  
 - [2020-09-21-美团点评-2021-校招成功率极高内推，今年校招大量扩招，状态可查，快来试试！](https://www.v2ex.com/t/709208) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-21-用-Django-写-web-写的无比痛苦，是我的问题吗？](https://www.v2ex.com/t/709193) ![](assets/new.png)  
 - [2020-09-21-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/709192) ![](assets/new.png)  
 - [2020-09-21-airpodspro-今年会出第二代-pro-吗？去年-3-月买的-airpods2-今天充电盒坏了](https://www.v2ex.com/t/709189) ![](assets/new.png)  
-- [2020-09-21-现在做内容型社区-在备案方面会不会很麻烦？需要很多资质吗?](https://www.v2ex.com/t/709188) ![](assets/new.png)  
-- [2020-09-21-git---version-在命令行中可以用，但是在-git-bash-中却不能用](https://www.v2ex.com/t/709187) ![](assets/new.png)  
-- [2020-09-21-北京-微软广告招聘前端工程师](https://www.v2ex.com/t/709186) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,21 +1119,21 @@
 </summary>
 
 
-- [2020-09-21-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-21-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-21-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-21-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
-- [2020-09-21-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-21-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
-- [2020-09-21-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-21-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
-- [2020-09-21-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
-- [2020-09-21-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
-- [2020-09-21-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-21-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-21-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-21-推荐-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
+- [2020-09-21-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
 - [2020-09-21-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
+- [2020-09-21-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-21-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-21-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
+- [2020-09-21-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-21-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-21-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
 - [2020-09-21-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
-- [2020-09-21-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-21-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-21-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
+- [2020-09-21-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

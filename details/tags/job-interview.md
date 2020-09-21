@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 02:35:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 02:47:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -26,8 +26,8 @@
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
 - [2019-10-21-招聘-|-字节跳动-上海-前端工程师社招-&-校招-&-实习生](https://www.ershicimi.com/p/dff761693416bd940e698627c37a14d9) 
 - [2020-09-14-面试-100-多位软件工程师后的建议](https://www.ershicimi.com/p/e4068a4851c1fc23414277c8dec4b64c) 
+- [2020-09-19-关于面试的一点心得](https://www.ershicimi.com/p/26518953e3cc30c299b44999f33c71c3) 
 - [2020-09-10-头条面试题：计算目录树的深度](https://www.ershicimi.com/p/df9ddee4650f0c9ab3dd7df235232dab) 
-- [2020-08-28-setTimeout与循环闭包经典面试题详解](https://www.ershicimi.com/p/9c0968d3886878d5c30870beb680eae0) 
 - [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) 
 - [2020-06-18-政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c) 
 - [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
@@ -37,7 +37,9 @@
 - [2020-09-15-面试中关于JVM和Redis的问题，看这些就够了](https://www.ershicimi.com/p/2cc5440f815a47312e3ab207348beb91) 
 - [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) 
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
+- [2020-09-21-Facebook-面试题：子集-II](https://www.v2ex.com/t/708955) 
 - [2020-09-21-面试官：这个经典的并发问题用-Go-语言如何实现？](https://toutiao.io/k/q3k5tg4) 
 - [2020-09-21-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
 - [2020-09-21-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
+- [2020-09-21-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-17-西安电子科技大学密码研究中心人才招聘](https://sec.thief.one/article_content?a_id=3a97f9483d195802129160af1ceb6438) 

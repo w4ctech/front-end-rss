@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 12:48:55，:rocket: 更新条数: +3650， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 13:03:35，:rocket: 更新条数: +3426， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,8 +947,8 @@
 </summary>
 
 
+- [2020-09-21-今年阅文秋季校园招聘有3个前端岗位（含内推码）](https://juejin.im/post/6874900695313547278) ![](assets/new.png)  
 - [2020-09-20-使用-SVG-制作加载动画](https://juejin.im/post/6874846460261695502) ![](assets/new.png)  
-- [2020-09-20-掌握JavaScript面试：什么是闭包？](https://juejin.im/post/6874829017006997511) ![](assets/new.png)  
 - [2020-09-20-Vue-3.0-来了，我们该做些什么？](https://juejin.im/post/6874604408030789640) ![](assets/new.png)  
 - [2020-09-18-深入浅出，前端团队的自动化部署指南---实战篇-四种项目的实战化部署教程](https://juejin.im/post/6874034933505998855) ![](assets/new.png)  
 - [2020-09-10-来！试试这个让你少加班的表单方案-FormRender](https://juejin.im/post/6871121209396822029) ![](assets/new.png)  
@@ -1077,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-21-骑驴找马的情况下视频、电话面试时间](https://www.v2ex.com/t/709172) ![](assets/new.png)  
+- [2020-09-21-字节跳动北京直播中台团队急招研发工程师，校招-&-社招均有](https://www.v2ex.com/t/709171) ![](assets/new.png)  
 - [2020-09-21-Linux-下如何调整-LG-显示器的刷新率到-60HZ](https://www.v2ex.com/t/709170) ![](assets/new.png)  
 - [2020-09-21-得物25~50K-海外业务线-Android、ios-海量-HC-各-5-个以上](https://www.v2ex.com/t/709168) ![](assets/new.png)  
 - [2020-09-21-redis-如何做类似关系数据库的条件查询](https://www.v2ex.com/t/709167) ![](assets/new.png)  
@@ -1095,8 +1077,6 @@
 - [2020-09-21-江苏移动月消费-110+白嫖-15-元话费和任意视频会员](https://www.v2ex.com/t/709153) ![](assets/new.png)  
 - [2020-09-21-杭州-蚂蚁金服-Java-开发/数据开发-商家增长团队大力招人中，流程快，速来！](https://www.v2ex.com/t/709152) ![](assets/new.png)  
 - [2020-09-21-五年-Python-后端，面大厂屡屡惨败，是不是基本没啥希望了？？](https://www.v2ex.com/t/709150) ![](assets/new.png)  
-- [2020-09-21-招聘招聘！腾讯看点，小组直招，前后端都要](https://www.v2ex.com/t/709148) ![](assets/new.png)  
-- [2020-09-21-当前商户存在异常行为，本次交易暂无法完成？](https://www.v2ex.com/t/709147) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1170,6 +1150,8 @@
 </summary>
 
 
+- [2020-09-21-用以太坊承载的比特币,还只是起步阶段](https://sec.thief.one/article_content?a_id=2f1a6402f45b863a5db17d42d5840a7e) ![](assets/new.png)  
+- [2020-09-21-我的编程能力从什么时候开始突飞猛进](https://sec.thief.one/article_content?a_id=36e959320b1706f8e3e5da72003fed55) ![](assets/new.png)  
 - [2020-09-21-一份关于网站的国庆重保指南,请查收](https://sec.thief.one/article_content?a_id=b788565c30a1a8f5db977f913b649d24) ![](assets/new.png)  
 - [2020-09-21-OSRC请你吃梨](https://sec.thief.one/article_content?a_id=2811bb570c976f741cb29f04bb57bb26) ![](assets/new.png)  
 - [2020-09-21-【高级持续性威胁追踪】Tor2Mine挂马境外消防网,利用最新漏洞传播...](https://sec.thief.one/article_content?a_id=d07a15d4e27f3b96dcefb2dcfca7869d) ![](assets/new.png)  
@@ -1188,8 +1170,6 @@
 - [2020-09-21-Facebook旗下Libra迎来新成员Blockchain-Capital](https://sec.thief.one/article_content?a_id=770726658555a9853e6c6670088f37c3) ![](assets/new.png)  
 - [2020-09-21-9月21日币种早内参-比特币和黄金的关联性达到一年高点](https://sec.thief.one/article_content?a_id=d928f9460d7f2dbeddc9895ffc113ae5) ![](assets/new.png)  
 - [2020-09-21-美土安全部发出罕见紧急警告:Windows存在“严重”漏洞](https://sec.thief.one/article_content?a_id=210c608f11f8deb43ceb6e486e8510bb) ![](assets/new.png)  
-- [2020-09-21-一文了解安卓最新版本Android-11安全和隐私新特征](https://sec.thief.one/article_content?a_id=be58e80075e1d3e2f8eeca45f7874e3d) ![](assets/new.png)  
-- [2020-09-21-以攻为守:黑产攻防的反制之道](https://sec.thief.one/article_content?a_id=a5a93a6673778df8ab205ed0dddc160a) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

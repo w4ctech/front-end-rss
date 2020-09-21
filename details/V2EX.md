@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-21 09:25:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 09:32:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-09-21-求问如何翻译这句情话？感觉只能意会。。](https://www.v2ex.com/t/709115) 
+- [2020-09-21-求问如何翻译这句程序员式的情话？感觉只能意会。。](https://www.v2ex.com/t/709115) 
 - [2020-09-21-有人还记得支付宝接入-iOS-的钱包的新闻吗](https://www.v2ex.com/t/709114) 
 - [2020-09-21-升级了-iOS-14，好多-APP-打不开，各种卡，-APPStore-更新不了](https://www.v2ex.com/t/709113) 
 - [2020-09-21-Xcode-点击-Developer-Documentation-后闪退](https://www.v2ex.com/t/709112) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 08:13:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 08:25:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,8 +37,10 @@
 - [2020-09-15-面试中关于JVM和Redis的问题，看这些就够了](https://www.ershicimi.com/p/2cc5440f815a47312e3ab207348beb91) 
 - [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) 
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
+- [2020-09-21-base-上海相关技术职位招聘需求](https://www.v2ex.com/t/709076) 
+- [2020-09-21-Facebook-程序媛分享面试真题（手写版题解噢）](https://www.v2ex.com/t/709074) 
 - [2020-09-21-杭州-智云健康-中后台-资深-Java-开发工程师-招聘](https://www.v2ex.com/t/709047) 
 - [2020-09-21-面试官：这个经典的并发问题用-Go-语言如何实现？](https://toutiao.io/k/q3k5tg4) 
 - [2020-09-21-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) 
-- [2020-09-21-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
+- [2020-09-21-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-17-西安电子科技大学密码研究中心人才招聘](https://sec.thief.one/article_content?a_id=3a97f9483d195802129160af1ceb6438) 

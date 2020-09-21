@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 03:24:57，:rocket: 更新条数: +3424， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 03:32:17，:rocket: 更新条数: +3648， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-21-国家邮政局：邮政行业已基本摆脱疫情影响-日均2亿多件已成常态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqC7TS5rtfte8e09IARAX200921&isfromapp=1) ![](assets/new.png)  
+- [2020-09-21-菲律宾惩教署署长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWVrFX9IQnQyVXb5LOX8P200921&isfromapp=1) ![](assets/new.png)  
 - [2020-09-21-圭亚那新冠肺炎疫情形势堪忧-监狱暴乱已致两人死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid83eUXemLqfrErRsvHhv200921&isfromapp=1) ![](assets/new.png)  
 - [2020-09-21-智利新增新冠肺炎确诊病例1600例-首都6万余名警务人员配合防疫执法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtithBOaihIZO2QQHldTZGl200921&isfromapp=1) ![](assets/new.png)  
 - [2020-09-21-阿根廷新增8431例新冠肺炎确诊病例-首都将进一步放宽隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticvtPuOLDqnzwHZtx6k9U200921&isfromapp=1) ![](assets/new.png)  
-- [2020-09-20-波兰一养老院暴发聚集性疫情-超百人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisx79bEEmvMevAHscrslh200921&isfromapp=1) ![](assets/new.png)  
-- [2020-09-20-法国单日新增新冠肺炎确诊病例10569例-累计确诊45.3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidccspTlngrT7wQChSPGN200921&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-21-单表千万级数据库,-并发同一查询时速度慢,-有解决的方法吗?](https://www.v2ex.com/t/708978) ![](assets/new.png)  
+- [2020-09-21-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/708976) ![](assets/new.png)  
 - [2020-09-21-关于技术方向和天花板的提问](https://www.v2ex.com/t/708975) ![](assets/new.png)  
 - [2020-09-21-App-Center-在国内最近无法访问，有了解的同学知道什么时间恢复吗](https://www.v2ex.com/t/708974) ![](assets/new.png)  
 - [2020-09-21-都说蒙牛和伊利不行，不好喝，为啥我感觉不出来啊？因为我没喝过真正的纯牛奶？你们都喝啥牌子的牛奶啊？](https://www.v2ex.com/t/708973) ![](assets/new.png)  
@@ -1075,8 +1097,6 @@
 - [2020-09-21-毕业一年，工作清闲，只会-crud，我该怎么办](https://www.v2ex.com/t/708953) ![](assets/new.png)  
 - [2020-09-21-百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推,实时反馈~~~](https://www.v2ex.com/t/708952) ![](assets/new.png)  
 - [2020-09-21-MacBook-如何安装双-macOS-系统？](https://www.v2ex.com/t/708951) ![](assets/new.png)  
-- [2020-09-21-送铜币，征集几个保持正确坐姿的要领，准备贴在显示器上](https://www.v2ex.com/t/708950) ![](assets/new.png)  
-- [2020-09-21-关于外卖平台的削峰平谷策略的一点想法](https://www.v2ex.com/t/708948) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,8 +1144,8 @@
 - [2020-09-21-一次压缩引发堆外内存过高的教训](https://toutiao.io/k/ltpa1w9) ![](assets/new.png)  
 - [2020-09-21-Kubernetes-新玩法：在-yaml-中编程](https://toutiao.io/k/ah5q8e6) ![](assets/new.png)  
 - [2020-09-21-想追女神？先学-Synchronized-吧](https://toutiao.io/k/1pfvayp) ![](assets/new.png)  
-- [2020-09-21-PHP-接入微信-H5-支付](https://toutiao.io/k/8pal00z) ![](assets/new.png)  
 - [2020-09-21-你附近的人都有谁，这个功能是怎么实现的？](https://toutiao.io/k/zgm2yd8) ![](assets/new.png)  
+- [2020-09-21-PHP-接入微信-H5-支付](https://toutiao.io/k/8pal00z) ![](assets/new.png)  
 - [2020-09-21-面试官：这个经典的并发问题用-Go-语言如何实现？](https://toutiao.io/k/q3k5tg4) ![](assets/new.png)  
 - [2020-09-21-告别硬编码，让你的前端表格自动计算](https://toutiao.io/k/ah7cee6) ![](assets/new.png)  
 - [2020-09-21-译-如何将-Pulsar-用作消息队列](https://toutiao.io/k/ec3upwf) ![](assets/new.png)  

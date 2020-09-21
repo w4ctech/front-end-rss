@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-21 08:47:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 09:03:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -403,6 +403,7 @@
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】骚操作：不重启-JVM，如何替换掉已经加载的类？](https://www.ershicimi.com/p/58c7fa2d4632516c5c4438c5fcc93c70)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】Spring-相关-总结从多个-xml-文件中加载-bean-的几种方法](https://www.v2ex.com/t/709100)
 - [【V2EX】SEO-和域名关系大吗](https://www.v2ex.com/t/709082)
 - [【技术头条】Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】水坑攻击-|-Flash钓鱼弹窗优化版](https://sec.thief.one/article_content?a_id=84d98345a8a0532aa61f6535b59619f1)
@@ -510,6 +511,7 @@
 - [【互联网架构师】GitHub上最励志的计算机自学教程，绝对牛B](https://www.ershicimi.com/p/a3a31e96c60c3e1e44882f7edc1b12a2)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】svn-给文件改名，新名字包含/字符，如何转义，不让-svn-识别为一个路径](https://www.v2ex.com/t/709099)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

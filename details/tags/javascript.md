@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 08:47:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 09:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -103,6 +103,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-21-很多业务用-Redis-做了缓存，假如客户端命中的缓存，那还需要先从-Redis-中读取的数据反序列化成对象再序列化成-JSON-给前端吗？](https://www.v2ex.com/t/709054) 
 - [2020-09-21-PHP-接入微信-H5-支付](https://toutiao.io/k/8pal00z) 
-- [2020-09-21-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-18-【公告】JSRC-八月月度英雄榜](https://sec.thief.one/article_content?a_id=864272e57ceafa07e01cb7ef3b9298cc) 
 - [2020-09-18-【视频分享】路由器逻辑漏洞:如何从零开始攻破一台明星IoT设备](https://sec.thief.one/article_content?a_id=f7cda17b90c0e6427552090b93051d7e) 

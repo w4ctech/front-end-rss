@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 08:03:49，:rocket: 更新条数: +3423， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 08:13:15，:rocket: 更新条数: +3422， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,11 +1057,12 @@
 </summary>
 
 
+- [2020-09-21-贴个简历，有招人的吗。web-后端（-Python-，可全栈）](https://www.v2ex.com/t/709071) ![](assets/new.png)  
+- [2020-09-21-杭州哪里适合情侣玩的](https://www.v2ex.com/t/709070) ![](assets/new.png)  
 - [2020-09-21-java15-初体验，就这？](https://www.v2ex.com/t/709067) ![](assets/new.png)  
 - [2020-09-21-airpods-pro-同时连接-iPhone-和-win10-电脑的方案](https://www.v2ex.com/t/709066) ![](assets/new.png)  
 - [2020-09-21-亏了几十万，做了一个关于程序员的漫画公众号](https://www.v2ex.com/t/709063) ![](assets/new.png)  
 - [2020-09-21-转让印象笔记专业账户](https://www.v2ex.com/t/709062) ![](assets/new.png)  
-- [2020-09-21-找个后端兼职，后面直接从前端转成后端。](https://www.v2ex.com/t/709061) ![](assets/new.png)  
 - [2020-09-21-各位，你们都是怎么为自己的开源项目编写文档的？](https://www.v2ex.com/t/709059) ![](assets/new.png)  
 - [2020-09-21-关于理想，我的一个理想就是做出一个很多人使用的产品](https://www.v2ex.com/t/709058) ![](assets/new.png)  
 - [2020-09-21-iOS-微信的字体大小问题](https://www.v2ex.com/t/709057) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-21-打算入-Giffgaff-电话卡，有没有什么坑？](https://www.v2ex.com/t/709046) ![](assets/new.png)  
 - [2020-09-21-世纪大道地铁站附近求合租女生](https://www.v2ex.com/t/709045) ![](assets/new.png)  
 - [2020-09-21-有什么好用的支持异步的-log-库推荐吗](https://www.v2ex.com/t/709044) ![](assets/new.png)  
-- [2020-09-21-自研-CNI-插件固定-IP-带来的问题，求助一下各位](https://www.v2ex.com/t/709043) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 06:47:23，:rocket: 更新条数: +3421， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 07:04:21，:rocket: 更新条数: +3649， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,13 @@
 </summary>
 
 
+- [2020-09-21-杭州-智云健康-中后台-资深-Java-开发工程师-招聘](https://www.v2ex.com/t/709047) ![](assets/new.png)  
+- [2020-09-21-打算入-Giffgaff-电话卡，有没有什么坑？](https://www.v2ex.com/t/709046) ![](assets/new.png)  
+- [2020-09-21-世纪大道地铁站附近求合租女生](https://www.v2ex.com/t/709045) ![](assets/new.png)  
+- [2020-09-21-有什么好用的支持异步的-log-库推荐吗](https://www.v2ex.com/t/709044) ![](assets/new.png)  
+- [2020-09-21-自研-CNI-插件固定-IP-带来的问题，求助一下各位](https://www.v2ex.com/t/709043) ![](assets/new.png)  
+- [2020-09-21-聊一聊问一问写小说-还有在“努力坚持写完第一部小说”的老哥吗,不为热度，自娱自乐的那种能合自己眼、符合自己-idea-初心?](https://www.v2ex.com/t/709042) ![](assets/new.png)  
+- [2020-09-21-最近摸鱼时间多了，想了一下-30-以后的生活有点绝望，想真诚的请教一下大佬们我该怎么办？](https://www.v2ex.com/t/709041) ![](assets/new.png)  
 - [2020-09-21-89-元爱奇艺+百度文库双年卡-69.9-元芒果-TV+百度文库双年卡](https://www.v2ex.com/t/709039) ![](assets/new.png)  
 - [2020-09-21-office365-家庭版拼团，-50-一位](https://www.v2ex.com/t/709036) ![](assets/new.png)  
 - [2020-09-21-🔥-字节跳动-部门内推-🔥海量-hc-火热内推中,包进度反馈！前后端研发/算法/产品/运营/设计通通有!🔥](https://www.v2ex.com/t/709035) ![](assets/new.png)  
@@ -1070,13 +1097,6 @@
 - [2020-09-21-字节跳动北京-⚡️商业变现平台-前端🔥社招🍁秋季校招](https://www.v2ex.com/t/709025) ![](assets/new.png)  
 - [2020-09-21-收到一个比较奇怪的-offer，我迷茫了](https://www.v2ex.com/t/709024) ![](assets/new.png)  
 - [2020-09-21-国庆回馈——这些正版软件超低价购买！](https://www.v2ex.com/t/709023) ![](assets/new.png)  
-- [2020-09-21-iOS14，健康-APP-不知在干啥，-iPhone-XS-Max-掉电如尿崩，难道就我一个人吗？](https://www.v2ex.com/t/709020) ![](assets/new.png)  
-- [2020-09-21-不懂就问：北京租房，自如蛋壳什么的有什么坑要注意么？](https://www.v2ex.com/t/709019) ![](assets/new.png)  
-- [2020-09-21-迫于穷，想出一台-15-寸-mbp，问问大伙值多少](https://www.v2ex.com/t/709018) ![](assets/new.png)  
-- [2020-09-21-🔥🔥🔥-官方授权正版特价-Bandizip-专业版-5PCs-授权-文件压缩/解压缩工具软件-丨正版软件商城---软购商城](https://www.v2ex.com/t/709017) ![](assets/new.png)  
-- [2020-09-21-1.5W-字纯干货-聊一聊云电脑、云游戏以及阿里云的“无影”](https://www.v2ex.com/t/709016) ![](assets/new.png)  
-- [2020-09-21-👏-复杂的数学公式、方程式一键-OCR-识别！-LaTeX-公式软件--极度公式](https://www.v2ex.com/t/709015) ![](assets/new.png)  
-- [2020-09-21-20-45K-PingCAP---工程效率研发工程师-北京，上海，广州，深圳，杭州，成都](https://www.v2ex.com/t/709014) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,6 +1108,7 @@
 </summary>
 
 
+- [2020-09-21-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-21-Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-21-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-21-Android-记一次解决问题的过程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13788&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjY3qmLgW0iWa8HYAjjpJyw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1107,7 +1128,6 @@
 - [2020-09-21-一个输入框你要做一周？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13774&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fan-input-box%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-21-大数据项目中的QA需要迎接新的挑战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13773&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fqa-in-big-data-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-21-成熟度模型罪与罚-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13772&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fapability-maturity-model%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-21-用完-Gradle-之后，有点嫌弃-Maven了。真的-贼好用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13771&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP6FN-62Em4THdQK_jEGf6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

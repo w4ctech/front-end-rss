@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2020-09-21 00:34:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 01:02:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-21-ios14-短信过滤功能的一个进步](https://www.v2ex.com/t/708896) 
+- [2020-09-21-sync-player：使用-websocket-实现同步播放视频可用于异地同步观影、观剧，支持本地文件，支持外挂字幕](https://www.v2ex.com/t/708895) 
+- [2020-09-21-关于磁力链接下载的问题](https://www.v2ex.com/t/708894) 
+- [2020-09-21-从-V2-来看，明明对笔记本电池寿命都焦虑的群体，竟然还有一堆人相信纯电汽车是未来。我个人觉得-EE-真的比-CS-专业的人看这个世界客观的多。但是-EE-都是清贫穷...](https://www.v2ex.com/t/708893) 
+- [2020-09-21-现在学-Unity3D-和-Unreal-引擎，哪个比较有前途？](https://www.v2ex.com/t/708892) 
+- [2020-09-21-周末想在家学习，看看书，但是效率不高](https://www.v2ex.com/t/708891) 
+- [2020-09-21-Apple-Watch-Series-6-上怎么查看自己当前海拔高度？](https://www.v2ex.com/t/708889) 
+- [2020-09-21-一个关于前端-word-生成的问题](https://www.v2ex.com/t/708887) 
+- [2020-09-21-Win10-蓝屏，蓝屏代码-DPC_WATCHDOG_VIOLATION](https://www.v2ex.com/t/708886) 
 - [2020-09-20-要是-Apple-Watch-的静音能跟随手机就好了。](https://www.v2ex.com/t/708885) 
 - [2020-09-20-周一早上格外堵车，都有哪些主要原因？](https://www.v2ex.com/t/708884) 
 - [2020-09-20-请教-watchOS-7-的-GMT-表盘怎么用](https://www.v2ex.com/t/708883) 
@@ -39,12 +48,3 @@
 - [2020-09-20-同学的华为-P40-手机丢了，有办法找回吗](https://www.v2ex.com/t/708851) 
 - [2020-09-20-Apple-Watch-series-6-感受，给有兴趣的人一点参考](https://www.v2ex.com/t/708850) 
 - [2020-09-20-为什么我的家宽上传速度这么诡异的快？](https://www.v2ex.com/t/708847) 
-- [2020-09-20-ios14-的-bug-之一：下拉-spotlight-无法弹出-siri-建议。](https://www.v2ex.com/t/708845) 
-- [2020-09-20-上海-漕河泾开发区比心陪练-招聘前端、后端～](https://www.v2ex.com/t/708844) 
-- [2020-09-20-请问-gorm-如何获取到更新后的值](https://www.v2ex.com/t/708843) 
-- [2020-09-20-电信宽带又被限速-1Mbps,附带投诉文案](https://www.v2ex.com/t/708842) 
-- [2020-09-20-大家觉得，在公司升职后，有必要学习管理学吗？](https://www.v2ex.com/t/708840) 
-- [2020-09-20-去-Apple-王府井把-iPhone8-的电池换了，真香！](https://www.v2ex.com/t/708839) 
-- [2020-09-20-现在-8-位的-qq-号还有人买吗？大概什么价](https://www.v2ex.com/t/708838) 
-- [2020-09-20-公告-保利威（POLYV）教师节活动中奖通知](https://www.v2ex.com/t/708837) 
-- [2020-09-20-用了这么久的-ubuntu-才发现它读乌邦吐](https://www.v2ex.com/t/708836) 

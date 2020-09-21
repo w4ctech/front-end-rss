@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 12:04:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 12:16:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -42,4 +42,5 @@
 - [2020-09-21-FinTech-社区-秋招-|-10-家对冲基金秋季招聘](https://www.v2ex.com/t/709125) 
 - [2020-09-21-第四期德国-IT-岗位招聘之-Application-consultant,-Microsoft-Bare-Metal-Deployment-Specialist,-Business-Intelligence-Analyst](https://www.v2ex.com/t/709121) 
 - [2020-09-21-面试官：这个经典的并发问题用-Go-语言如何实现？](https://toutiao.io/k/q3k5tg4) 
+- [2020-09-21-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-21-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 

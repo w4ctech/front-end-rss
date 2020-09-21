@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 13:12:08，:rocket: 更新条数: +3426， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 13:23:08，:rocket: 更新条数: +3426， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-21-mac-下的谷歌备份终于支持-big-sur-了。](https://www.v2ex.com/t/709177) ![](assets/new.png)  
 - [2020-09-21-用了这么久微信依然觉得不如-qq-好用，却仍然被迫用着微信](https://www.v2ex.com/t/709176) ![](assets/new.png)  
 - [2020-09-21-如何让-win10-主动连接蓝牙设备](https://www.v2ex.com/t/709175) ![](assets/new.png)  
 - [2020-09-21-公司网络是专线，是不是意味着用纸飞机的话会容易被抓到？](https://www.v2ex.com/t/709174) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-21-考个软考能减多少税，有必要考一个吗？](https://www.v2ex.com/t/709158) ![](assets/new.png)  
 - [2020-09-21-offer-求建议](https://www.v2ex.com/t/709157) ![](assets/new.png)  
 - [2020-09-21-请问-Chrome-是改动了什么-feature-导致了列表展开行为的变化？](https://www.v2ex.com/t/709156) ![](assets/new.png)  
-- [2020-09-21-700-1200，有什么适合老人使用的手机吗？就用微信和抖音。](https://www.v2ex.com/t/709155) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

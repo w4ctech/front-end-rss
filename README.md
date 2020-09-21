@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 09:12:45，:rocket: 更新条数: +3417， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 09:25:04，:rocket: 更新条数: +3421， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -916,6 +916,8 @@
 </summary>
 
 
+- [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) ![](assets/new.png)  
+- [2020-09-21-【软件更新】Vue-3.0正式发布！](https://www.ershicimi.com/p/ff3ab6acc82fef8cf1b194ee18e1b6fd) ![](assets/new.png)  
 - [2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e) ![](assets/new.png)  
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) ![](assets/new.png)  
 - [2020-09-16-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/9431ce093426b3035ca4473ef83c6e9a) ![](assets/new.png)  
@@ -934,8 +936,6 @@
 - [2020-09-04-【软件更新】Angular-10.1.0-发布](https://www.ershicimi.com/p/7f437d9518bea0e4fbb6719faacd1927) ![](assets/new.png)  
 - [2020-09-01-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/ff3c43131acc2b4f5aa34bc2a1af2152) ![](assets/new.png)  
 - [2020-08-31-为什么大家都在吹捧Python，大厂高薪敲门砖了解一下](https://www.ershicimi.com/p/25ecfff8e0bfd6d8520f074924adc40f) ![](assets/new.png)  
-- [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) ![](assets/new.png)  
-- [2020-08-27-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/fd765fbe942d3cae8b7315b7a2f1e843) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,14 @@
 </summary>
 
 
+- [2020-09-21-求问如何翻译这句情话？感觉只能意会。。](https://www.v2ex.com/t/709115) ![](assets/new.png)  
+- [2020-09-21-有人还记得支付宝接入-iOS-的钱包的新闻吗](https://www.v2ex.com/t/709114) ![](assets/new.png)  
+- [2020-09-21-升级了-iOS-14，好多-APP-打不开，各种卡，-APPStore-更新不了](https://www.v2ex.com/t/709113) ![](assets/new.png)  
+- [2020-09-21-Xcode-点击-Developer-Documentation-后闪退](https://www.v2ex.com/t/709112) ![](assets/new.png)  
+- [2020-09-21-500-元京东卡有人诚心要不](https://www.v2ex.com/t/709111) ![](assets/new.png)  
+- [2020-09-21-杭州前端-求推荐一些靠谱的公司当今后的跳槽目标](https://www.v2ex.com/t/709110) ![](assets/new.png)  
+- [2020-09-21-江苏镇江多线服务器租用-托管-机柜-带宽业务，了解一下。](https://www.v2ex.com/t/709109) ![](assets/new.png)  
+- [2020-09-21-请教，如何管理项目中的-sql-语句](https://www.v2ex.com/t/709108) ![](assets/new.png)  
 - [2020-09-21-求助大佬呀](https://www.v2ex.com/t/709107) ![](assets/new.png)  
 - [2020-09-21-上海哪里配眼镜比较经济实惠？](https://www.v2ex.com/t/709106) ![](assets/new.png)  
 - [2020-09-21-今年的立下的-flag-你完成了多少](https://www.v2ex.com/t/709104) ![](assets/new.png)  
@@ -1069,14 +1077,6 @@
 - [2020-09-21-关于搜狗-ai-录音笔](https://www.v2ex.com/t/709095) ![](assets/new.png)  
 - [2020-09-21-chrome-浏览器在地址栏输入搜索条件总是会自动跳到百度首页，并且附加-tn=xxxx？](https://www.v2ex.com/t/709094) ![](assets/new.png)  
 - [2020-09-21-大佬们，-ats-hbase-是什么啊，安装完了就存在了](https://www.v2ex.com/t/709093) ![](assets/new.png)  
-- [2020-09-21-不相干程序员了，打算回老家种菜种花养鸡养猪去](https://www.v2ex.com/t/709092) ![](assets/new.png)  
-- [2020-09-21-想给老妈买个小米手环-请问有什么要注意的吗？](https://www.v2ex.com/t/709091) ![](assets/new.png)  
-- [2020-09-21-今年-88VIP-的淘气值冲刺活动啥时候来啊](https://www.v2ex.com/t/709090) ![](assets/new.png)  
-- [2020-09-21-为啥产品都感觉比开发高一级](https://www.v2ex.com/t/709088) ![](assets/new.png)  
-- [2020-09-21-geekhub-ui-比-v2-好看多了，-v2-不考虑更新一下吗](https://www.v2ex.com/t/709086) ![](assets/new.png)  
-- [2020-09-21-MacBook-Pro-屏幕白色背光下蓝斑问题](https://www.v2ex.com/t/709085) ![](assets/new.png)  
-- [2020-09-21-上海-c#求内推机会，诺大的节点都没-c#](https://www.v2ex.com/t/709083) ![](assets/new.png)  
-- [2020-09-21-SEO-和域名关系大吗](https://www.v2ex.com/t/709082) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

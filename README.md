@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 10:03:55，:rocket: 更新条数: +3428， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 10:12:43，:rocket: 更新条数: +3651， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -65,10 +65,10 @@
 
 
 - [2020-09-20-最新疫情：全国新冠累计确诊85291例-新增境外输入12例](https://m.caixin.com/m/2020-09-21/101607735.html) ![](assets/new.png)  
+- [2020-09-20-最新海外疫情：新冠感染近3092万-累计死亡超95.5万](http://m.international.caixin.com/m/2020-09-21/101607738.html) ![](assets/new.png)  
 - [2020-09-20-【境内疫情观察】全国新增12例境外输入病例（9月20日）](http://m.database.caixin.com/m/2020-09-21/101607590.html) ![](assets/new.png)  
 - [2020-09-20-大流行手记|9月20日：全球新冠死亡率仍高达3%-拉美确诊病例近870万](https://m.caixin.com/m/2020-09-21/101607469.html) ![](assets/new.png)  
 - [2020-09-20-【图集】乌鲁木齐恢复多条出疆航线-地铁正常运营](http://m.photos.caixin.com/m/2020-09-21/101607475.html) ![](assets/new.png)  
-- [2020-09-19-最新海外疫情：新冠感染超3066万-累计死亡超95万](http://m.international.caixin.com/m/2020-09-20/101607391.html) ![](assets/new.png)  
 - [2020-09-19-【境内疫情观察】山西现有确诊病例清零（9月19日）](http://m.database.caixin.com/m/2020-09-20/101607358.html) ![](assets/new.png)  
 - [2020-09-19-大流行手记|9月19日：欧洲二次疫情浪潮涌动-马德里重启限制措施](https://m.caixin.com/m/2020-09-20/101607345.html) ![](assets/new.png)  
 - [2020-09-18-北京新增1例无症状感染者-为甘肃籍巴基斯坦留学生](https://m.caixin.com/m/2020-09-19/101607298.html) ![](assets/new.png)  
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-21-围棋与社会](https://www.v2ex.com/t/709131) ![](assets/new.png)  
+- [2020-09-21-自用账户美区首次发车发车，-5-人，仅半年（120）和一年（220），电报：-jaychou66](https://www.v2ex.com/t/709130) ![](assets/new.png)  
 - [2020-09-21-大家对于-github-有这些需求么？](https://www.v2ex.com/t/709128) ![](assets/new.png)  
 - [2020-09-21-我的天-上海连合租都要两千起步的？这在成都已经可以合租独占一个挺大的房间了](https://www.v2ex.com/t/709127) ![](assets/new.png)  
 - [2020-09-21-你们现在看体育赛事直播是用什么-APP？](https://www.v2ex.com/t/709126) ![](assets/new.png)  
@@ -1075,8 +1097,6 @@
 - [2020-09-21-Xcode-点击-Developer-Documentation-后闪退](https://www.v2ex.com/t/709112) ![](assets/new.png)  
 - [2020-09-21-500-元京东卡有人诚心要不](https://www.v2ex.com/t/709111) ![](assets/new.png)  
 - [2020-09-21-杭州前端-求推荐一些靠谱的公司当今后的跳槽目标](https://www.v2ex.com/t/709110) ![](assets/new.png)  
-- [2020-09-21-江苏镇江多线服务器租用-托管-机柜-带宽业务，了解一下。](https://www.v2ex.com/t/709109) ![](assets/new.png)  
-- [2020-09-21-请教，如何管理项目中的-sql-语句](https://www.v2ex.com/t/709108) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 01:31:36，:rocket: 更新条数: +3646， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 01:47:13，:rocket: 更新条数: +3420， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,12 @@
 </summary>
 
 
+- [2020-09-21-字节跳动成都大量岗位社招招人~](https://www.v2ex.com/t/708918) ![](assets/new.png)  
+- [2020-09-21-国庆自驾出游泸沽湖问题~](https://www.v2ex.com/t/708916) ![](assets/new.png)  
+- [2020-09-21-上海甜新科技急招一位前端](https://www.v2ex.com/t/708915) ![](assets/new.png)  
+- [2020-09-21-macbook-pro-a-面-b-面-不贴合的问题](https://www.v2ex.com/t/708914) ![](assets/new.png)  
+- [2020-09-21-WIN-内网远程工具，大家有什么工具好推荐的](https://www.v2ex.com/t/708913) ![](assets/new.png)  
+- [2020-09-21-在不动原开关的情况下，怎么实现定时自动开关灯？](https://www.v2ex.com/t/708912) ![](assets/new.png)  
 - [2020-09-21-给-2020-款-macbook-air-改了散热……](https://www.v2ex.com/t/708910) ![](assets/new.png)  
 - [2020-09-21-雅思写作怎么才能考到-8-分](https://www.v2ex.com/t/708909) ![](assets/new.png)  
 - [2020-09-21-萌新请教一个图片操作的问题](https://www.v2ex.com/t/708908) ![](assets/new.png)  
@@ -1091,12 +1077,6 @@
 - [2020-09-21-ios14-短信过滤功能的一个进步](https://www.v2ex.com/t/708896) ![](assets/new.png)  
 - [2020-09-21-sync-player：使用-websocket-实现同步播放视频可用于异地同步观影、观剧，支持本地文件，支持外挂字幕](https://www.v2ex.com/t/708895) ![](assets/new.png)  
 - [2020-09-21-关于磁力链接下载的问题](https://www.v2ex.com/t/708894) ![](assets/new.png)  
-- [2020-09-21-现在学-Unity3D-和-Unreal-引擎，哪个比较有前途？](https://www.v2ex.com/t/708892) ![](assets/new.png)  
-- [2020-09-21-周末想在家学习，看看书，但是效率不高](https://www.v2ex.com/t/708891) ![](assets/new.png)  
-- [2020-09-21-Apple-Watch-Series-6-上怎么查看自己当前海拔高度？](https://www.v2ex.com/t/708889) ![](assets/new.png)  
-- [2020-09-21-一个关于前端-word-生成的问题](https://www.v2ex.com/t/708887) ![](assets/new.png)  
-- [2020-09-21-Win10-蓝屏，蓝屏代码-DPC_WATCHDOG_VIOLATION](https://www.v2ex.com/t/708886) ![](assets/new.png)  
-- [2020-09-20-要是-Apple-Watch-的静音能跟随手机就好了。](https://www.v2ex.com/t/708885) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,14 +1131,14 @@
 - [2020-09-21-译-如何将-Pulsar-用作消息队列](https://toutiao.io/k/ec3upwf) ![](assets/new.png)  
 - [2020-09-21-hashMap-的循环姿势你真的使用对了吗？](https://toutiao.io/k/f2n8dz9) ![](assets/new.png)  
 - [2020-09-21-荔枝微课基础架构的演进与实践](https://toutiao.io/k/0epkzuh) ![](assets/new.png)  
-- [2020-09-21-Docker-容器内-volume-mount-实时更新](https://toutiao.io/k/mo20zbw) ![](assets/new.png)  
 - [2020-09-21-5-分钟了解-Mesos-和-Marathon](https://toutiao.io/k/v87edfj) ![](assets/new.png)  
 - [2020-09-21-你附近的人都有谁，这个功能是怎么实现的？](https://toutiao.io/k/zgm2yd8) ![](assets/new.png)  
+- [2020-09-21-Docker-容器内-volume-mount-实时更新](https://toutiao.io/k/mo20zbw) ![](assets/new.png)  
 - [2020-09-21-数据分析杂谈](https://toutiao.io/k/ov4tnzi) ![](assets/new.png)  
-- [2020-09-21-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-21-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-21-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
 - [2020-09-21-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
-- [2020-09-21-推荐-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
+- [2020-09-21-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-21-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

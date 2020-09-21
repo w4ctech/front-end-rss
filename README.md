@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 04:04:05，:rocket: 更新条数: +3645， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 04:13:25，:rocket: 更新条数: +3646， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 - [2020-09-20-9月20日全国新增境外输入新冠12例-累计确诊85291例](http://m.china.caixin.com/m/2020-09-21/101607437.html) ![](assets/new.png)  
 - [2020-09-20-大流行手记|9月20日：全球新冠死亡率仍高达3%-拉美确诊病例近870万](https://m.caixin.com/m/2020-09-21/101607469.html) ![](assets/new.png)  
+- [2020-09-20-【图集】乌鲁木齐恢复多条出疆航线-地铁正常运营](http://m.photos.caixin.com/m/2020-09-21/101607475.html) ![](assets/new.png)  
 - [2020-09-19-最新海外疫情：新冠感染超3066万-累计死亡超95万](http://m.international.caixin.com/m/2020-09-20/101607391.html) ![](assets/new.png)  
 - [2020-09-19-【境内疫情观察】山西现有确诊病例清零（9月19日）](http://m.database.caixin.com/m/2020-09-20/101607358.html) ![](assets/new.png)  
 - [2020-09-19-大流行手记|9月19日：欧洲二次疫情浪潮涌动-马德里重启限制措施](https://m.caixin.com/m/2020-09-20/101607345.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-09-14-【境内疫情观察】云南瑞丽开展全员核酸检测（9月14日）](http://m.database.caixin.com/m/2020-09-15/101605390.html) ![](assets/new.png)  
 - [2020-09-14-大流行手记|9月14日：中缅边境防疫升级-全球日增30.79万感染者创新高](https://m.caixin.com/m/2020-09-15/101605256.html) ![](assets/new.png)  
 - [2020-09-14-云南瑞丽因新冠疫情“封城”-已开展全市核酸筛查](http://m.china.caixin.com/m/2020-09-15/101605625.html) ![](assets/new.png)  
-- [2020-09-14-云南瑞丽9月13日确诊两例新冠-十天前从缅甸偷渡入境](https://m.caixin.com/m/2020-09-15/101605215.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-21-mac-os-升级到-11.0-Beta7.0-遇到的问题](https://www.v2ex.com/t/708998) ![](assets/new.png)  
 - [2020-09-21-这周小周，-8-天假期前要连上-10-天](https://www.v2ex.com/t/708997) ![](assets/new.png)  
 - [2020-09-21-微盟“删库跑路”主角贺某被判-6-年有期徒刑](https://www.v2ex.com/t/708996) ![](assets/new.png)  
 - [2020-09-21-有没有什么地图能比较全面的支持地区区域或者线路搜索的。。。](https://www.v2ex.com/t/708995) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-21-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/708976) ![](assets/new.png)  
 - [2020-09-21-关于技术方向和天花板的提问](https://www.v2ex.com/t/708975) ![](assets/new.png)  
 - [2020-09-21-App-Center-在国内最近无法访问，有了解的同学知道什么时间恢复吗](https://www.v2ex.com/t/708974) ![](assets/new.png)  
-- [2020-09-21-都说蒙牛和伊利不行，不好喝，为啥我感觉不出来啊？因为我没喝过真正的纯牛奶？你们都喝啥牌子的牛奶啊？](https://www.v2ex.com/t/708973) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 13:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 14:03:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -103,4 +103,3 @@
 - [2020-09-21-正则里为什么^可以表示包括换行在内的所有字符](https://www.v2ex.com/t/709184) 
 - [2020-09-21-v-友们，-50-元-120-元的路由器，什么系列比较稳定一点呢](https://www.v2ex.com/t/709180) 
 - [2020-09-21-PHP-接入微信-H5-支付](https://toutiao.io/k/8pal00z) 
-- [2020-09-21-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 

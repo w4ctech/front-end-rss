@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 05:22:56，:rocket: 更新条数: +3416， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 05:32:13，:rocket: 更新条数: +3408， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1047,9 @@
 </summary>
 
 
+- [2020-09-21-20-45K-PingCAP---工程效率研发工程师-北京，上海，广州，深圳，杭州，成都](https://www.v2ex.com/t/709014) ![](assets/new.png)  
+- [2020-09-21-花小猪打车，好友扫码注册领-3-块](https://www.v2ex.com/t/709013) ![](assets/new.png)  
+- [2020-09-21-在线等，急-批量压缩-PPT-里面的-GIF-，各位老哥有什么好方法吗](https://www.v2ex.com/t/709012) ![](assets/new.png)  
 - [2020-09-21-watchOS-7-简直是电量如尿崩](https://www.v2ex.com/t/709011) ![](assets/new.png)  
 - [2020-09-21-请教一个拼单业务实现思路](https://www.v2ex.com/t/709010) ![](assets/new.png)  
 - [2020-09-21-对于多字段的组合搜索条件，-mysql-应该怎么设置索引](https://www.v2ex.com/t/709009) ![](assets/new.png)  
@@ -1074,9 +1067,6 @@
 - [2020-09-21-github-上-commit-的时间时区是什么，-vuepress-写的文档提交到-github-后-lastUpdated-默认时间不是-UTC+8](https://www.v2ex.com/t/708994) ![](assets/new.png)  
 - [2020-09-21-国际金融产品交易平台大量技术岗位招聘中，欢迎私聊~](https://www.v2ex.com/t/708989) ![](assets/new.png)  
 - [2020-09-21-对于-elasticsearch，需要类似于防-sql-注入那一套代码吗？](https://www.v2ex.com/t/708988) ![](assets/new.png)  
-- [2020-09-21-阿里云日志服务招聘研发](https://www.v2ex.com/t/708986) ![](assets/new.png)  
-- [2020-09-21-深圳LAZADA阿里双休社招-Java-开发工程师-Technology-Data-Engineering](https://www.v2ex.com/t/708984) ![](assets/new.png)  
-- [2020-09-21-立刻拥有无数个邮箱地址](https://www.v2ex.com/t/708982) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

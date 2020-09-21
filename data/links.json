@@ -13222,6 +13222,16 @@
         "date": "2020-09-21"
       },
       {
+        "title": "智利新增新冠肺炎确诊病例1600例 首都6万余名警务人员配合防疫执法",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtithBOaihIZO2QQHldTZGl200921&isfromapp=1",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "阿根廷新增8431例新冠肺炎确诊病例 首都将进一步放宽隔离措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticvtPuOLDqnzwHZtx6k9U200921&isfromapp=1",
+        "date": "2020-09-21"
+      },
+      {
         "title": "波兰一养老院暴发聚集性疫情 超百人感染新冠病毒",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisx79bEEmvMevAHscrslh200921&isfromapp=1",
         "date": "2020-09-20"
@@ -13229,16 +13239,6 @@
       {
         "title": "法国单日新增新冠肺炎确诊病例10569例 累计确诊45.3万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidccspTlngrT7wQChSPGN200921&isfromapp=1",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "​意大利新增1587例新冠肺炎确诊病例 一投票站因验票员感染而关闭",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXNWm9tEAD1mJLZI6Y7mW200920&isfromapp=1",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "长春通报进口冻品外包装样本阳性：珲春某公司从俄罗斯进口，已封存全市涉疫产品",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipC3hIjSA7zi7TPmfQLpG200920&isfromapp=1",
         "date": "2020-09-20"
       }
     ]
@@ -13356,6 +13356,26 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "你想过30岁以后的前端路怎么走吗？",
+        "link": "https://www.ershicimi.com/p/6b63da1eb17eea75d626872625237afc",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "尤雨溪：Vue3全球发布会",
+        "link": "https://www.ershicimi.com/p/b3b6bd16207fdc98eb1b16b0489e3788",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "重磅 | Vue3.0 正式版发布了!",
+        "link": "https://www.ershicimi.com/p/fd2f184440e296ac20cca7f74677b66d",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "你可能不知道的console调试方法",
+        "link": "https://www.ershicimi.com/p/97fc71bab0754c50ab2415c298fcb870",
+        "date": "2020-09-18"
+      },
+      {
         "title": "ES2020 中 Javascript 10 个你应该知道的新功能",
         "link": "https://www.ershicimi.com/p/a41334d8bc46815bd43f086cd46bd808",
         "date": "2020-09-17"
@@ -13434,26 +13454,6 @@
         "title": "25 个实用前端网站工具推荐",
         "link": "https://www.ershicimi.com/p/2ad1f5e0a6023ebd692335139c0d953c",
         "date": "2020-09-08"
-      },
-      {
-        "title": "仅20%的前端开发才能理解 Vue ，有没有你？",
-        "link": "https://www.ershicimi.com/p/7341d52936c1fd95e500e44863c4b0a3",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "只用 div 和 css 能玩出什么花来？请扶好下巴！",
-        "link": "https://www.ershicimi.com/p/cc1383441b45b9661b015516014a28fc",
-        "date": "2020-09-07"
-      },
-      {
-        "title": "TypeScript项目开发实战 | 撸起来",
-        "link": "https://www.ershicimi.com/p/6ef9380daa13fa7ee7b26553974efa11",
-        "date": "2020-09-06"
-      },
-      {
-        "title": "为什么采用Proxy重构响应系统 | Vue3源码系列",
-        "link": "https://www.ershicimi.com/p/7bf909df2b2c18c1146d6cde30cf49bf",
-        "date": "2020-09-05"
       }
     ]
   },
@@ -15038,6 +15038,26 @@
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
       {
+        "title": "腾讯招大前端工程师50k-80k？大前端现在也太火了！",
+        "link": "https://www.ershicimi.com/p/bc3d024876051ce3a2e66ea3e97a4f3f",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "从一个需求说起，H5实现万能返回",
+        "link": "https://www.ershicimi.com/p/ff4ca3b47d082d83ed6121fab2a377e1",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "CNodejs每日新闻周刊｜第 6 期",
+        "link": "https://www.ershicimi.com/p/86cd30d089b03704047fb64340fed325",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "Vuejs 3.0 正式版发布！One Piece. 代号：海贼王",
+        "link": "https://www.ershicimi.com/p/3a363805b31c6ed7343f7b6cd940879a",
+        "date": "2020-09-19"
+      },
+      {
         "title": "通过 Node.js 小示例学习浏览器缓存策略",
         "link": "https://www.ershicimi.com/p/03cc8f1f2c37636bdfe1084a7579e71d",
         "date": "2020-09-18"
@@ -15116,26 +15136,6 @@
         "title": "从零手写实现React Hooks！",
         "link": "https://www.ershicimi.com/p/6680d662cc773c847ef42cc1aa7206b2",
         "date": "2020-09-10"
-      },
-      {
-        "title": "【不可思议的CANVAS】画一只会跟着鼠标走的小狗",
-        "link": "https://www.ershicimi.com/p/ffa58cf66cdbb13763e59a9e56abb48b",
-        "date": "2020-09-10"
-      },
-      {
-        "title": "Node.js 中的 require 是如何工作的？",
-        "link": "https://www.ershicimi.com/p/b3cac8cd587b06157d6b9b1d146fea5a",
-        "date": "2020-09-09"
-      },
-      {
-        "title": "QQ音乐客户端Web页面通用性能优化实践",
-        "link": "https://www.ershicimi.com/p/2a26ee43140af3078bb280fa857918ae",
-        "date": "2020-09-08"
-      },
-      {
-        "title": "回馈粉丝第二期 开奖～",
-        "link": "https://www.ershicimi.com/p/612f195aba2d854a809730b0a290b182",
-        "date": "2020-09-08"
       }
     ]
   },
@@ -17157,6 +17157,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "浅谈 React 中的 XSS 攻击",
+        "link": "https://juejin.im/post/6874743455776505870",
+        "date": "2020-09-20"
+      },
+      {
         "title": "前端如何优雅处理类数组对象？",
         "link": "https://juejin.im/post/6874730791134642184",
         "date": "2020-09-20"
@@ -17175,11 +17180,6 @@
         "title": "Vue 3.0 来了，我们该做些什么？",
         "link": "https://juejin.im/post/6874604408030789640",
         "date": "2020-09-20"
-      },
-      {
-        "title": "「图文详解」完整的git操作手册~开发者必备",
-        "link": "https://juejin.im/post/6874209597595975694",
-        "date": "2020-09-19"
       }
     ]
   },
@@ -17516,6 +17516,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "给 2020 款 macbook air 改了散热……",
+        "link": "https://www.v2ex.com/t/708910",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "雅思写作怎么才能考到 8 分",
+        "link": "https://www.v2ex.com/t/708909",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "萌新请教一个图片操作的问题",
+        "link": "https://www.v2ex.com/t/708908",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "北漂 8 年了，飘飘飘够了。。。。",
+        "link": "https://www.v2ex.com/t/708907",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "分享一个用于自动化和爬虫的库",
+        "link": "https://www.v2ex.com/t/708906",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "vscode 最近添加的 settings sync 功能好使么？有没有兄弟姐妹使用过？",
+        "link": "https://www.v2ex.com/t/708903",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "打开终端或者新 tab 就会显示这个 warning，不知道什么问题。",
+        "link": "https://www.v2ex.com/t/708901",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "树莓派 3B+ 安装 elasticsearch kibana 成功 但 kibana 运行暴毙",
+        "link": "https://www.v2ex.com/t/708900",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "深圳有面向成人的围棋、油画、乌克丽丽之类的兴趣班吗",
+        "link": "https://www.v2ex.com/t/708899",
+        "date": "2020-09-21"
+      },
+      {
         "title": "VueJS 源码涉及到的哪些常见算法？",
         "link": "https://www.v2ex.com/t/708898",
         "date": "2020-09-21"
@@ -17538,11 +17583,6 @@
       {
         "title": "关于磁力链接下载的问题",
         "link": "https://www.v2ex.com/t/708894",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "从 V2 来看，明明对笔记本电池寿命都焦虑的群体，竟然还有一堆人相信纯电汽车是未来。我个人觉得 EE 真的比 CS 专业的人看这个世界客观的多。但是 EE 都是清贫穷...",
-        "link": "https://www.v2ex.com/t/708893",
         "date": "2020-09-21"
       },
       {
@@ -17689,51 +17729,6 @@
         "title": "有没有什么你们墙裂推荐的书",
         "link": "https://www.v2ex.com/t/708861",
         "date": "2020-09-20"
-      },
-      {
-        "title": "[西铁城 CC9015-54E] 入手图赏",
-        "link": "https://www.v2ex.com/t/708860",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "hdparm 让硬盘休眠后，重启系统会系统启动了，但是硬盘没启动",
-        "link": "https://www.v2ex.com/t/708858",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "我开发了一款 macOs 的软件： G-dis - Gui client for Redis",
-        "link": "https://www.v2ex.com/t/708857",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "网易云音乐的普通会员和黑胶会员竟然不是互斥的？",
-        "link": "https://www.v2ex.com/t/708856",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "急，我撤销了复制的操作但是原盘已经被我格式化了。。有办法找回文件吗？",
-        "link": "https://www.v2ex.com/t/708855",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "mbp 键盘失灵卡死怎么办",
-        "link": "https://www.v2ex.com/t/708854",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "第一代 11 寸 iPad Pro 在更新 iPadOS 14.2 Beta 以后出现了无法充电的软件 bug",
-        "link": "https://www.v2ex.com/t/708853",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "同学的华为 P40 手机丢了，有办法找回吗",
-        "link": "https://www.v2ex.com/t/708851",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "Apple Watch series 6 感受，给有兴趣的人一点参考",
-        "link": "https://www.v2ex.com/t/708850",
-        "date": "2020-09-20"
       }
     ]
   },
@@ -17850,6 +17845,11 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "华为鸿蒙 2.0，让我遇见未来 | 码农周刊第 318 期",
+        "link": "https://toutiao.io/k/6rprzrd",
+        "date": "2020-09-21"
+      },
+      {
         "title": "就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
         "link": "https://toutiao.io/k/ejwph4b",
         "date": "2020-09-21"
@@ -17885,13 +17885,13 @@
         "date": "2020-09-21"
       },
       {
-        "title": "[译] 如何将 Pulsar 用作消息队列",
-        "link": "https://toutiao.io/k/ec3upwf",
+        "title": "Graphic：基于图形语法的 Flutter 可视化库",
+        "link": "https://toutiao.io/k/r30sllm",
         "date": "2020-09-21"
       },
       {
-        "title": "Graphic：基于图形语法的 Flutter 可视化库",
-        "link": "https://toutiao.io/k/r30sllm",
+        "title": "[译] 如何将 Pulsar 用作消息队列",
+        "link": "https://toutiao.io/k/ec3upwf",
         "date": "2020-09-21"
       },
       {
@@ -17910,68 +17910,18 @@
         "date": "2020-09-21"
       },
       {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
+        "title": "5 分钟了解 Mesos 和 Marathon",
+        "link": "https://toutiao.io/k/v87edfj",
         "date": "2020-09-21"
       },
       {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
+        "title": "你附近的人都有谁，这个功能是怎么实现的？",
+        "link": "https://toutiao.io/k/zgm2yd8",
         "date": "2020-09-21"
       },
       {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 《一年顶十年》干货读书笔记",
-        "link": "https://toutiao.io/k/okqtla6",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
+        "title": "数据分析杂谈",
+        "link": "https://toutiao.io/k/ov4tnzi",
         "date": "2020-09-21"
       },
       {
@@ -17980,8 +17930,73 @@
         "date": "2020-09-21"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 接口调度者：API 网关",
+        "link": "https://toutiao.io/k/qec4gvf",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
         "date": "2020-09-21"
       }
     ]

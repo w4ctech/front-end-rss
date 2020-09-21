@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 01:09:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 01:31:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-09-10-【不可思议的CANVAS】画一只会跟着鼠标走的小狗](https://www.ershicimi.com/p/ffa58cf66cdbb13763e59a9e56abb48b) 
 - [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) 
 - [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) 
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) 
@@ -22,4 +21,3 @@
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2020-09-21-现在学-Unity3D-和-Unreal-引擎，哪个比较有前途？](https://www.v2ex.com/t/708892) 
-- [2020-09-20-我开发了一款-macOs-的软件：-G-dis---Gui-client-for-Redis](https://www.v2ex.com/t/708857) 

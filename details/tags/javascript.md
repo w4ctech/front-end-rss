@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 01:09:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 01:31:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -31,6 +31,7 @@
 - [2020-01-01-倏忽一年：回顾点评前端-2019-重大事件、趋势](https://www.ershicimi.com/p/88b10c5e55ecef0583393efa7d466665) 
 - [2019-12-30-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/8afb29a5864bf11ab6723cdc66a0c6ab) 
 - [2019-12-26-如何答一道惊艳面试官的数组去重问题？](https://www.ershicimi.com/p/65b6fbfea2975868732525463c062fdf) 
+- [2020-09-18-你可能不知道的console调试方法](https://www.ershicimi.com/p/97fc71bab0754c50ab2415c298fcb870) 
 - [2020-09-17-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/a41334d8bc46815bd43f086cd46bd808) 
 - [2020-09-17-H5-移动端调试全攻略](https://www.ershicimi.com/p/3e88cd813e1df74350df4807b3098838) 
 - [2020-09-09-15个必须知道的JavaScript数组方法](https://www.ershicimi.com/p/d9d012994024de7ac82b03eb146c7466) 
@@ -69,6 +70,7 @@
 - [2020-09-19-【重磅】javascript红宝书第4版上市啦！](https://www.ershicimi.com/p/0e1e5f3a47af1021d1bb01a3a589e7e7) 
 - [2020-09-16-JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/3488f93eaeea9d7092b311e1ed120aa8) 
 - [2020-09-09-大型-web-应用公共组件架构思考](https://www.ershicimi.com/p/458c0b367c1e5a43f88a1a33d99a2c78) 
+- [2020-09-21-从一个需求说起，H5实现万能返回](https://www.ershicimi.com/p/ff4ca3b47d082d83ed6121fab2a377e1) 
 - [2020-09-18-15个非常实用的JavaScript表单验证库](https://www.ershicimi.com/p/0562191d3d2c1597a80b8ed1988aeca8) 
 - [2020-09-15-应该在JavaScript中使用Class吗？](https://www.ershicimi.com/p/3d40203a356fcda1a1c9b2016316678e) 
 - [2020-09-09-详解-JS-压缩图片](https://www.ershicimi.com/p/cc76a353eeff86a9c5f8546606f1ac9e) 
@@ -130,6 +132,7 @@
 - [2020-09-20-学校开了一门-jsp-课程](https://www.v2ex.com/t/708878) 
 - [2020-09-20-前端类似-easyui，-extjs-这样的可以多个区域控制列表的框架给推荐几个！](https://www.v2ex.com/t/708877) 
 - [2020-09-21-PHP-接入微信-H5-支付](https://toutiao.io/k/8pal00z) 
+- [2020-09-21-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
 - [2020-09-21-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-18-【公告】JSRC-八月月度英雄榜](https://sec.thief.one/article_content?a_id=864272e57ceafa07e01cb7ef3b9298cc) 
 - [2020-09-18-【视频分享】路由器逻辑漏洞:如何从零开始攻破一台明星IoT设备](https://sec.thief.one/article_content?a_id=f7cda17b90c0e6427552090b93051d7e) 

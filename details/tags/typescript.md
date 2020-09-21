@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 01:09:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 01:31:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -8,7 +8,6 @@
 
 
 - [2020-09-15-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/c9e490aaa91bd75fb52b8507e6777fcf) 
-- [2020-09-06-TypeScript项目开发实战-|-撸起来](https://www.ershicimi.com/p/6ef9380daa13fa7ee7b26553974efa11) 
 - [2020-09-05-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/bfd6bfdccdc7449e2cdf02fbba249c51) 
 - [2020-09-11-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/7859ef90ce3ea34ab85fd27051242012) 
 - [2020-09-16-Typescript初学者入门指南](https://www.ershicimi.com/p/7cb6373e9529c45ce8f335118a336d7a) 

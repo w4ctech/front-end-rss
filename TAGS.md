@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-21 07:47:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 08:03:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -249,7 +249,6 @@
 
 
 
-- [【V2EX】1.5W-字纯干货-聊一聊云电脑、云游戏以及阿里云的“无影”](https://www.v2ex.com/t/709016)
 - [【安全热点】外交部回应美国司法部起诉5名中国公民入侵五角大楼、游戏公司](https://sec.thief.one/article_content?a_id=728a265989074f269b42ffc0292a79a7)
 - [【安全热点】我的名片能运行Linux和Python,还能玩2048小游戏,成本只要20元](https://sec.thief.one/article_content?a_id=fd0ceee3c4d2092f5666f7b5f13f6533)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -322,8 +321,8 @@
 - [【前端日刊】CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325)
 - [【JavaScript】5个很常用的CSS3网页小实例](https://www.ershicimi.com/p/cc31a0415cd6949432efb37fa6d0bf27)
 - [【JavaScript】CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/fd765fbe942d3cae8b7315b7a2f1e843)
+- [【掘金前端】使用-SVG-制作加载动画](https://juejin.im/post/6874846460261695502)
 - [【掘金前端】Serverless初探](https://juejin.im/post/6874832805352701966)
-- [【前端艺术家&&飞冰早报】【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

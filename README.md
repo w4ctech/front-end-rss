@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 10:24:27，:rocket: 更新条数: +783， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 10:32:08，:rocket: 更新条数: +3427， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-09-20-最新疫情：全国新冠累计确诊85291例-新增境外输入12例](https://m.caixin.com/m/2020-09-21/101607735.html) ![](assets/new.png)  
+- [2020-09-20-最新海外疫情：新冠感染近3092万-累计死亡超95.5万](http://m.international.caixin.com/m/2020-09-21/101607738.html) ![](assets/new.png)  
+- [2020-09-20-【境内疫情观察】全国新增12例境外输入病例（9月20日）](http://m.database.caixin.com/m/2020-09-21/101607590.html) ![](assets/new.png)  
+- [2020-09-20-大流行手记|9月20日：全球新冠死亡率仍高达3%-拉美确诊病例近870万](https://m.caixin.com/m/2020-09-21/101607469.html) ![](assets/new.png)  
+- [2020-09-20-【图集】乌鲁木齐恢复多条出疆航线-地铁正常运营](http://m.photos.caixin.com/m/2020-09-21/101607475.html) ![](assets/new.png)  
+- [2020-09-19-【境内疫情观察】山西现有确诊病例清零（9月19日）](http://m.database.caixin.com/m/2020-09-20/101607358.html) ![](assets/new.png)  
+- [2020-09-19-大流行手记|9月19日：欧洲二次疫情浪潮涌动-马德里重启限制措施](https://m.caixin.com/m/2020-09-20/101607345.html) ![](assets/new.png)  
+- [2020-09-18-北京新增1例无症状感染者-为甘肃籍巴基斯坦留学生](https://m.caixin.com/m/2020-09-19/101607298.html) ![](assets/new.png)  
+- [2020-09-18-【境内疫情观察】云南瑞丽已完成核酸检测逾22万人，全部阴性（9月18日）](http://m.database.caixin.com/m/2020-09-19/101607207.html) ![](assets/new.png)  
+- [2020-09-18-大流行手记|9月18日：全球感染人数破3000万-以色列全国“封城”三周](https://m.caixin.com/m/2020-09-19/101607161.html) ![](assets/new.png)  
+- [2020-09-17-【境内疫情观察】全国新增32例境外输入病例（9月17日）](http://m.database.caixin.com/m/2020-09-18/101606786.html) ![](assets/new.png)  
+- [2020-09-17-大流行手记|9月17日：英国曝检测不足-全球1/7感染者为卫生工作者](https://m.caixin.com/m/2020-09-18/101606665.html) ![](assets/new.png)  
+- [2020-09-16-【境内疫情观察】全国新增9例境外输入病例（9月16日）](http://m.database.caixin.com/m/2020-09-17/101606363.html) ![](assets/new.png)  
+- [2020-09-16-大流行手记|9月16日：年轻人聚会推升欧洲疫情-辉瑞坦承疫苗受试者出现副作用](https://m.caixin.com/m/2020-09-17/101606221.html) ![](assets/new.png)  
+- [2020-09-15-新冠抗体可维持至少4个月？-研究引发疫苗保护期乐观推测](https://m.caixin.com/m/2020-09-16/101605753.html) ![](assets/new.png)  
+- [2020-09-15-【境内疫情观察】云南瑞丽已完成核酸采样超过6万人（9月15日）](http://m.database.caixin.com/m/2020-09-16/101605913.html) ![](assets/new.png)  
+- [2020-09-15-大流行手记|9月15日：印度连续40日疫情增速居首-全球发展指标大倒退](https://m.caixin.com/m/2020-09-16/101605781.html) ![](assets/new.png)  
+- [2020-09-14-香港本地新增病例归零-港府全民检测支出约5.3亿港元](http://m.china.caixin.com/m/2020-09-15/101605633.html) ![](assets/new.png)  
+- [2020-09-14-【境内疫情观察】云南瑞丽开展全员核酸检测（9月14日）](http://m.database.caixin.com/m/2020-09-15/101605390.html) ![](assets/new.png)  
+- [2020-09-14-大流行手记|9月14日：中缅边境防疫升级-全球日增30.79万感染者创新高](https://m.caixin.com/m/2020-09-15/101605256.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-21-E-链云镜-是个神奇的东西](https://www.v2ex.com/t/709133) ![](assets/new.png)  
 - [2020-09-21-围棋与社会](https://www.v2ex.com/t/709131) ![](assets/new.png)  
 - [2020-09-21-自用账户美区首次发车发车，-5-人，仅半年（120）和一年（220），电报：-jaychou66](https://www.v2ex.com/t/709130) ![](assets/new.png)  
 - [2020-09-21-大家对于-github-有这些需求么？](https://www.v2ex.com/t/709128) ![](assets/new.png)  
@@ -1056,7 +1077,6 @@
 - [2020-09-21-升级了-iOS-14，好多-APP-打不开，各种卡，-APPStore-更新不了](https://www.v2ex.com/t/709113) ![](assets/new.png)  
 - [2020-09-21-Xcode-点击-Developer-Documentation-后闪退](https://www.v2ex.com/t/709112) ![](assets/new.png)  
 - [2020-09-21-500-元京东卡有人诚心要不](https://www.v2ex.com/t/709111) ![](assets/new.png)  
-- [2020-09-21-杭州前端-求推荐一些靠谱的公司当今后的跳槽目标](https://www.v2ex.com/t/709110) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1108,8 +1128,8 @@
 - [2020-09-21-想追女神？先学-Synchronized-吧](https://toutiao.io/k/1pfvayp) ![](assets/new.png)  
 - [2020-09-21-面试官：这个经典的并发问题用-Go-语言如何实现？](https://toutiao.io/k/q3k5tg4) ![](assets/new.png)  
 - [2020-09-21-PHP-接入微信-H5-支付](https://toutiao.io/k/8pal00z) ![](assets/new.png)  
-- [2020-09-21-Graphic：基于图形语法的-Flutter-可视化库](https://toutiao.io/k/r30sllm) ![](assets/new.png)  
 - [2020-09-21-译-如何将-Pulsar-用作消息队列](https://toutiao.io/k/ec3upwf) ![](assets/new.png)  
+- [2020-09-21-Graphic：基于图形语法的-Flutter-可视化库](https://toutiao.io/k/r30sllm) ![](assets/new.png)  
 - [2020-09-21-hashMap-的循环姿势你真的使用对了吗？](https://toutiao.io/k/f2n8dz9) ![](assets/new.png)  
 - [2020-09-21-荔枝微课基础架构的演进与实践](https://toutiao.io/k/0epkzuh) ![](assets/new.png)  
 - [2020-09-21-数据分析杂谈](https://toutiao.io/k/ov4tnzi) ![](assets/new.png)  

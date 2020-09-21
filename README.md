@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 01:02:52，:rocket: 更新条数: +3640， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 01:09:27，:rocket: 更新条数: +3643， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-21-圭亚那新冠肺炎疫情形势堪忧-监狱暴乱已致两人死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid83eUXemLqfrErRsvHhv200921&isfromapp=1) ![](assets/new.png)  
 - [2020-09-20-波兰一养老院暴发聚集性疫情-超百人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisx79bEEmvMevAHscrslh200921&isfromapp=1) ![](assets/new.png)  
 - [2020-09-20-法国单日新增新冠肺炎确诊病例10569例-累计确诊45.3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidccspTlngrT7wQChSPGN200921&isfromapp=1) ![](assets/new.png)  
 - [2020-09-20-​意大利新增1587例新冠肺炎确诊病例-一投票站因验票员感染而关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXNWm9tEAD1mJLZI6Y7mW200920&isfromapp=1) ![](assets/new.png)  
 - [2020-09-20-长春通报进口冻品外包装样本阳性：珲春某公司从俄罗斯进口，已封存全市涉疫产品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipC3hIjSA7zi7TPmfQLpG200920&isfromapp=1) ![](assets/new.png)  
-- [2020-09-20-新冠肺炎确诊病例激增-英国伦敦面临「封城」措施讨论](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizjvWjAFpuV5bG6QvagBY200920&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-21-VueJS-源码涉及到的哪些常见算法？](https://www.v2ex.com/t/708898) ![](assets/new.png)  
+- [2020-09-21-关于-chrome-添加网页至桌面，图标右下角有-chrome-的-logo](https://www.v2ex.com/t/708897) ![](assets/new.png)  
 - [2020-09-21-ios14-短信过滤功能的一个进步](https://www.v2ex.com/t/708896) ![](assets/new.png)  
 - [2020-09-21-sync-player：使用-websocket-实现同步播放视频可用于异地同步观影、观剧，支持本地文件，支持外挂字幕](https://www.v2ex.com/t/708895) ![](assets/new.png)  
 - [2020-09-21-关于磁力链接下载的问题](https://www.v2ex.com/t/708894) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-20-视频网站接口](https://www.v2ex.com/t/708879) ![](assets/new.png)  
 - [2020-09-20-学校开了一门-jsp-课程](https://www.v2ex.com/t/708878) ![](assets/new.png)  
 - [2020-09-20-前端类似-easyui，-extjs-这样的可以多个区域控制列表的框架给推荐几个！](https://www.v2ex.com/t/708877) ![](assets/new.png)  
-- [2020-09-20-真实算法-优化-求助](https://www.v2ex.com/t/708876) ![](assets/new.png)  
-- [2020-09-20-微信每日健康打卡回答问题有没有什么自动处理方法啊](https://www.v2ex.com/t/708875) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1149,16 @@
 - [2020-09-21-译-如何将-Pulsar-用作消息队列](https://toutiao.io/k/ec3upwf) ![](assets/new.png)  
 - [2020-09-21-Graphic：基于图形语法的-Flutter-可视化库](https://toutiao.io/k/r30sllm) ![](assets/new.png)  
 - [2020-09-21-hashMap-的循环姿势你真的使用对了吗？](https://toutiao.io/k/f2n8dz9) ![](assets/new.png)  
-- [2020-09-21-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-21-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
-- [2020-09-21-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
-- [2020-09-21-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-09-21-荔枝微课基础架构的演进与实践](https://toutiao.io/k/0epkzuh) ![](assets/new.png)  
+- [2020-09-21-Docker-容器内-volume-mount-实时更新](https://toutiao.io/k/mo20zbw) ![](assets/new.png)  
+- [2020-09-21-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
 - [2020-09-21-推荐-接口调度者：API-网关](https://toutiao.io/k/qec4gvf) ![](assets/new.png)  
-- [2020-09-21-推荐-面试：为了进阿里，重新翻阅了-Volatile-与-Synchronized](https://toutiao.io/k/mk7xzsn) ![](assets/new.png)  
+- [2020-09-21-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-21-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-21-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-21-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
 - [2020-09-21-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-21-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
-- [2020-09-21-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-21-推荐-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
+- [2020-09-21-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

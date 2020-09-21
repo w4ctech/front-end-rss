@@ -13232,6 +13232,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "联合国儿童基金会向埃塞俄比亚移交380台制氧机",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC8R3hcfwiwPrXDiJ944I200921&isfromapp=1",
+        "date": "2020-09-21"
+      },
+      {
         "title": "民航局对马尼拉至上海MU212航班发布“熔断”指令",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYKM4NLrlLQ5o8qUAGLUP200921&isfromapp=1",
         "date": "2020-09-21"
@@ -13249,11 +13254,6 @@
       {
         "title": "菲律宾惩教署署长确诊感染新冠肺炎",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWVrFX9IQnQyVXb5LOX8P200921&isfromapp=1",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "广东9月20日新增3例境外输入确诊病例 新增17例境外输入无症状感染者",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidhDUWgIuKa1ruQeW9bwT200921&isfromapp=1",
         "date": "2020-09-21"
       }
     ]
@@ -17187,14 +17187,14 @@
         "date": "2020-09-20"
       },
       {
-        "title": "【写个工作用的脚手架cli】用脚手架整合模板和配置",
-        "link": "https://juejin.im/post/6874815221174075405",
-        "date": "2020-09-20"
-      },
-      {
         "title": "深入浅出，前端团队的自动化部署指南 - 实战篇 (四种项目的实战化部署教程)",
         "link": "https://juejin.im/post/6874034933505998855",
         "date": "2020-09-18"
+      },
+      {
+        "title": "来！试试这个让你少加班的表单方案 FormRender",
+        "link": "https://juejin.im/post/6871121209396822029",
+        "date": "2020-09-10"
       }
     ]
   },
@@ -17531,6 +17531,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Android 10 如何获取唯一值?",
+        "link": "https://www.v2ex.com/t/709123",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "分享一个表情包小程序",
+        "link": "https://www.v2ex.com/t/709122",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "第四期德国 IT 岗位招聘之 Application consultant, Microsoft Bare Metal Deployment Specialist, Business Intelligence Analyst",
+        "link": "https://www.v2ex.com/t/709121",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "关于合同时间 3 年",
+        "link": "https://www.v2ex.com/t/709120",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "必应词典 Bing Dictionary 反馈邮箱失效 + 反馈 + 建议",
+        "link": "https://www.v2ex.com/t/709118",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "各位怎么看待电竞酒店",
+        "link": "https://www.v2ex.com/t/709117",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "Restful 接口，给某个对象的单个字段赋值，如何设计",
+        "link": "https://www.v2ex.com/t/709116",
+        "date": "2020-09-21"
+      },
+      {
         "title": "求问如何翻译这句程序员式的情话？感觉只能意会。。",
         "link": "https://www.v2ex.com/t/709115",
         "date": "2020-09-21"
@@ -17688,21 +17723,6 @@
       {
         "title": "Facebook 程序媛分享面试真题（手写版题解噢）",
         "link": "https://www.v2ex.com/t/709074",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "贴个简历，有招人的吗。web 后端（ Python ，可全栈）",
-        "link": "https://www.v2ex.com/t/709071",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "杭州哪里适合情侣玩的",
-        "link": "https://www.v2ex.com/t/709070",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "airpods pro 同时连接 iPhone 和 win10 电脑的方案",
-        "link": "https://www.v2ex.com/t/709066",
         "date": "2020-09-21"
       }
     ]
@@ -17920,48 +17940,18 @@
         "date": "2020-09-21"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
-        "link": "https://toutiao.io/k/mk7xzsn",
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
         "date": "2020-09-21"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
         "date": "2020-09-21"
       },
       {
-        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
-        "link": "https://toutiao.io/k/xzcx65d",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 《一年顶十年》干货读书笔记",
-        "link": "https://toutiao.io/k/okqtla6",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] 接口调度者：API 网关",
-        "link": "https://toutiao.io/k/qec4gvf",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-21"
       },
       {
@@ -17970,8 +17960,23 @@
         "date": "2020-09-21"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
         "date": "2020-09-21"
       },
       {
@@ -17990,8 +17995,23 @@
         "date": "2020-09-21"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，重新翻阅了 Volatile 与 Synchronized",
+        "link": "https://toutiao.io/k/mk7xzsn",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
         "date": "2020-09-21"
       }
     ]

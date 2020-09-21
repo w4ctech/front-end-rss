@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-21 09:34:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 09:47:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -530,7 +530,6 @@
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【InfoQ】快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b)
-- [【V2EX】贴个简历，有招人的吗。web-后端（-Python-，可全栈）](https://www.v2ex.com/t/709071)
 - [【开发者头条】就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b)
 - [【安全热点】Wireshark解密HTTPS流量](https://sec.thief.one/article_content?a_id=dd4b11e9af4d578252a95ccef540556e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -553,6 +552,7 @@
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【互联网架构师】Spring-Boot-中的-RestTemplate不好用？试试-Retrofit-！](https://www.ershicimi.com/p/616474b2dfa6d4ccff9b1e12bcebe965)
 - [【JavaScript】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)
+- [【V2EX】Restful-接口，给某个对象的单个字段赋值，如何设计](https://www.v2ex.com/t/709116)
 - [【开发者头条】Docker-容器内-volume-mount-实时更新](https://toutiao.io/k/mo20zbw)
 - [......【查看更多】......](./details/tags/server.md)
 

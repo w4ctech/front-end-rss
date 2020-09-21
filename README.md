@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 09:34:49，:rocket: 更新条数: +3645， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 09:47:03，:rocket: 更新条数: +3649， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-21-联合国儿童基金会向埃塞俄比亚移交380台制氧机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC8R3hcfwiwPrXDiJ944I200921&isfromapp=1) ![](assets/new.png)  
 - [2020-09-21-民航局对马尼拉至上海MU212航班发布“熔断”指令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYKM4NLrlLQ5o8qUAGLUP200921&isfromapp=1) ![](assets/new.png)  
 - [2020-09-21-国家邮政局：邮政行业已基本摆脱疫情影响-日均2亿多件已成常态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqC7TS5rtfte8e09IARAX200921&isfromapp=1) ![](assets/new.png)  
 - [2020-09-21-福建20日新增境外输入新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ4LkfM9KaHdHLchRERv0200921&isfromapp=1) ![](assets/new.png)  
 - [2020-09-21-菲律宾惩教署署长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWVrFX9IQnQyVXb5LOX8P200921&isfromapp=1) ![](assets/new.png)  
-- [2020-09-21-广东9月20日新增3例境外输入确诊病例-新增17例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidhDUWgIuKa1ruQeW9bwT200921&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -970,8 +970,8 @@
 - [2020-09-20-使用-SVG-制作加载动画](https://juejin.im/post/6874846460261695502) ![](assets/new.png)  
 - [2020-09-20-Serverless初探](https://juejin.im/post/6874832805352701966) ![](assets/new.png)  
 - [2020-09-20-掌握JavaScript面试：什么是闭包？](https://juejin.im/post/6874829017006997511) ![](assets/new.png)  
-- [2020-09-20-【写个工作用的脚手架cli】用脚手架整合模板和配置](https://juejin.im/post/6874815221174075405) ![](assets/new.png)  
 - [2020-09-18-深入浅出，前端团队的自动化部署指南---实战篇-四种项目的实战化部署教程](https://juejin.im/post/6874034933505998855) ![](assets/new.png)  
+- [2020-09-10-来！试试这个让你少加班的表单方案-FormRender](https://juejin.im/post/6871121209396822029) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,13 @@
 </summary>
 
 
+- [2020-09-21-Android-10-如何获取唯一值?](https://www.v2ex.com/t/709123) ![](assets/new.png)  
+- [2020-09-21-分享一个表情包小程序](https://www.v2ex.com/t/709122) ![](assets/new.png)  
+- [2020-09-21-第四期德国-IT-岗位招聘之-Application-consultant,-Microsoft-Bare-Metal-Deployment-Specialist,-Business-Intelligence-Analyst](https://www.v2ex.com/t/709121) ![](assets/new.png)  
+- [2020-09-21-关于合同时间-3-年](https://www.v2ex.com/t/709120) ![](assets/new.png)  
+- [2020-09-21-必应词典-Bing-Dictionary-反馈邮箱失效-+-反馈-+-建议](https://www.v2ex.com/t/709118) ![](assets/new.png)  
+- [2020-09-21-各位怎么看待电竞酒店](https://www.v2ex.com/t/709117) ![](assets/new.png)  
+- [2020-09-21-Restful-接口，给某个对象的单个字段赋值，如何设计](https://www.v2ex.com/t/709116) ![](assets/new.png)  
 - [2020-09-21-求问如何翻译这句程序员式的情话？感觉只能意会。。](https://www.v2ex.com/t/709115) ![](assets/new.png)  
 - [2020-09-21-有人还记得支付宝接入-iOS-的钱包的新闻吗](https://www.v2ex.com/t/709114) ![](assets/new.png)  
 - [2020-09-21-升级了-iOS-14，好多-APP-打不开，各种卡，-APPStore-更新不了](https://www.v2ex.com/t/709113) ![](assets/new.png)  
@@ -1090,13 +1097,6 @@
 - [2020-09-21-今年的立下的-flag-你完成了多少](https://www.v2ex.com/t/709104) ![](assets/new.png)  
 - [2020-09-21-iPad-Pro-的-LiDAR-目前有什么应用可以玩么？](https://www.v2ex.com/t/709103) ![](assets/new.png)  
 - [2020-09-21-公积金提取问题](https://www.v2ex.com/t/709102) ![](assets/new.png)  
-- [2020-09-21-Spring-相关-总结从多个-xml-文件中加载-bean-的几种方法](https://www.v2ex.com/t/709100) ![](assets/new.png)  
-- [2020-09-21-svn-给文件改名，新名字包含/字符，如何转义，不让-svn-识别为一个路径](https://www.v2ex.com/t/709099) ![](assets/new.png)  
-- [2020-09-21-wechat.com/en-下载的微信和国内的微信一样吗？求大佬指点](https://www.v2ex.com/t/709098) ![](assets/new.png)  
-- [2020-09-21-旧笔记本有什么作用？](https://www.v2ex.com/t/709097) ![](assets/new.png)  
-- [2020-09-21-关于搜狗-ai-录音笔](https://www.v2ex.com/t/709095) ![](assets/new.png)  
-- [2020-09-21-chrome-浏览器在地址栏输入搜索条件总是会自动跳到百度首页，并且附加-tn=xxxx？](https://www.v2ex.com/t/709094) ![](assets/new.png)  
-- [2020-09-21-大佬们，-ats-hbase-是什么啊，安装完了就存在了](https://www.v2ex.com/t/709093) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

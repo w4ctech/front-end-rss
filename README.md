@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 13:34:36，:rocket: 更新条数: +3427， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 13:47:15，:rocket: 更新条数: +3600， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,8 +38,8 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [京东设计中心](#京东设计中心)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -260,6 +260,11 @@
 </summary>
 
 
+- [2020-09-21-如果程序员送外卖，会选择“红黄蓝”谁家？](https://www.ershicimi.com/p/8b87649f3d8e20d973a6c6cbcc8b7584) ![](assets/new.png)  
+- [2020-09-21-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://www.ershicimi.com/p/67dfb5569ef4740003c94712c9a63e3c) ![](assets/new.png)  
+- [2020-09-20-Vue-3.0-正式发布，尤雨溪回应大家关切的问题](https://www.ershicimi.com/p/d09f246fb52cbd2dd5322860a960379a) ![](assets/new.png)  
+- [2020-09-19-TypeScript之父：JS不是竞争对手](https://www.ershicimi.com/p/976c7799431e66fc0c808a55d9768170) ![](assets/new.png)  
+- [2020-09-19-程序员脱单记：领证回来的路上，我们约好写下这篇](https://www.ershicimi.com/p/8b2ee17053890f045cbaba2b67b3cfe1) ![](assets/new.png)  
 - [2020-09-18-只会用-Vue-不够！还要知其所以然](https://www.ershicimi.com/p/8e778a8a866896a76395b0ddec4b7968) ![](assets/new.png)  
 - [2020-09-18-如何搭建一个完美的组件库？](https://www.ershicimi.com/p/246a23c4b08fe3f14711bcdf0f3ee70f) ![](assets/new.png)  
 - [2020-09-17-“对不起，因为本国法律要求，我不能合并你的代码”](https://www.ershicimi.com/p/82e154dc9823edffaa4bc082e4f285d4) ![](assets/new.png)  
@@ -275,11 +280,6 @@
 - [2020-09-11-谈谈哪种人在裁员中最危险，给大家提提醒](https://www.ershicimi.com/p/54bc92636f70a36ac9d0c9c4f2a4e3a7) ![](assets/new.png)  
 - [2020-09-11-Serverless-For-Frontend-前世今生](https://www.ershicimi.com/p/4b6540a4a0c84f56a36fb33ada8bf7e9) ![](assets/new.png)  
 - [2020-09-10-关于-useState-的一切](https://www.ershicimi.com/p/fa486900e540761144d3c0405536d28f) ![](assets/new.png)  
-- [2020-09-09-VUE+ElementUI构建管理后台项目经验与技巧，金九银十跳槽必看！](https://www.ershicimi.com/p/c7f22039876a029d99d715e7bcbae5c0) ![](assets/new.png)  
-- [2020-09-09-JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/84b3f04fb31d9be0836936577de6b023) ![](assets/new.png)  
-- [2020-09-08-从外包到-React-核心团队成员](https://www.ershicimi.com/p/83a31cd3cc5ae4c47aa0cdae71c1fb7b) ![](assets/new.png)  
-- [2020-09-07-原来-React-是为这些人量身定制](https://www.ershicimi.com/p/8185ce0198ae71897b1d9c435d4f5258) ![](assets/new.png)  
-- [2020-09-07-关于-ref-的一切](https://www.ershicimi.com/p/c2c22ae06a423a86bede40a9d24c1482) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +740,26 @@
 </summary>
 
 
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,26 +1067,6 @@
 </summary>
 
 
-- [2020-09-21-v-友们，-50-元-120-元的路由器，什么系列比较稳定一点呢](https://www.v2ex.com/t/709180) ![](assets/new.png)  
-- [2020-09-21-推一下自己的微信公众号语雀也可以](https://www.v2ex.com/t/709179) ![](assets/new.png)  
-- [2020-09-21-iPhone-11-普通版升级-ios-14-耗电如何，运行卡不卡？](https://www.v2ex.com/t/709178) ![](assets/new.png)  
-- [2020-09-21-mac-下的谷歌备份终于支持-big-sur-了。](https://www.v2ex.com/t/709177) ![](assets/new.png)  
-- [2020-09-21-用了这么久微信依然觉得不如-qq-好用，却仍然被迫用着微信](https://www.v2ex.com/t/709176) ![](assets/new.png)  
-- [2020-09-21-如何让-win10-主动连接蓝牙设备](https://www.v2ex.com/t/709175) ![](assets/new.png)  
-- [2020-09-21-公司网络是专线，是不是意味着用纸飞机的话会容易被抓到？](https://www.v2ex.com/t/709174) ![](assets/new.png)  
-- [2020-09-21-平台赋能，内容新生--腾讯-PCG-等您加入！](https://www.v2ex.com/t/709173) ![](assets/new.png)  
-- [2020-09-21-骑驴找马的情况下视频、电话面试时间](https://www.v2ex.com/t/709172) ![](assets/new.png)  
-- [2020-09-21-字节跳动北京直播中台团队急招研发工程师，校招-&-社招均有](https://www.v2ex.com/t/709171) ![](assets/new.png)  
-- [2020-09-21-Linux-下如何调整-LG-显示器的刷新率到-60HZ](https://www.v2ex.com/t/709170) ![](assets/new.png)  
-- [2020-09-21-得物25~50K-海外业务线-Android、ios-海量-HC-各-5-个以上](https://www.v2ex.com/t/709168) ![](assets/new.png)  
-- [2020-09-21-redis-如何做类似关系数据库的条件查询](https://www.v2ex.com/t/709167) ![](assets/new.png)  
-- [2020-09-21-关于-github-action-的用法的一个疑问，如何获取当前-tag-的版本号？](https://www.v2ex.com/t/709166) ![](assets/new.png)  
-- [2020-09-21-iphone11-的-wifi6-貌似对延迟没有改善](https://www.v2ex.com/t/709165) ![](assets/new.png)  
-- [2020-09-21-iOS-如何取消每天的弹窗升级提醒?](https://www.v2ex.com/t/709164) ![](assets/new.png)  
-- [2020-09-21-自制一个树莓派电源管理](https://www.v2ex.com/t/709163) ![](assets/new.png)  
-- [2020-09-21-迫于不了解：现在海淘的东西能邮寄到国内吗？](https://www.v2ex.com/t/709162) ![](assets/new.png)  
-- [2020-09-21-两个车十一成都出发走康定到冷嘎措，风险大吗?](https://www.v2ex.com/t/709160) ![](assets/new.png)  
-- [2020-09-21-iOS14-来电只显示中国大陆](https://www.v2ex.com/t/709159) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

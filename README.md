@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 12:16:11，:rocket: 更新条数: +3650， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 12:31:23，:rocket: 更新条数: +3650， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -967,8 +967,8 @@
 </summary>
 
 
+- [2020-09-21-今年阅文秋季校园招聘有3个前端岗位（含内推码）](https://juejin.im/post/6874900695313547278) ![](assets/new.png)  
 - [2020-09-20-使用-SVG-制作加载动画](https://juejin.im/post/6874846460261695502) ![](assets/new.png)  
-- [2020-09-20-掌握JavaScript面试：什么是闭包？](https://juejin.im/post/6874829017006997511) ![](assets/new.png)  
 - [2020-09-20-Vue-3.0-来了，我们该做些什么？](https://juejin.im/post/6874604408030789640) ![](assets/new.png)  
 - [2020-09-18-深入浅出，前端团队的自动化部署指南---实战篇-四种项目的实战化部署教程](https://juejin.im/post/6874034933505998855) ![](assets/new.png)  
 - [2020-09-10-来！试试这个让你少加班的表单方案-FormRender](https://juejin.im/post/6871121209396822029) ![](assets/new.png)  
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-21-iOS-如何取消每天的弹窗升级提醒?](https://www.v2ex.com/t/709164) ![](assets/new.png)  
+- [2020-09-21-自制一个树莓派电源管理](https://www.v2ex.com/t/709163) ![](assets/new.png)  
 - [2020-09-21-迫于不了解：现在海淘的东西能邮寄到国内吗？](https://www.v2ex.com/t/709162) ![](assets/new.png)  
 - [2020-09-21-两个车十一成都出发走康定到冷嘎措，风险大吗?](https://www.v2ex.com/t/709160) ![](assets/new.png)  
 - [2020-09-21-iOS14-来电只显示中国大陆](https://www.v2ex.com/t/709159) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-21-ts-格式，-mpeg-2-transport-格式的视频无法快进，无法识别长度](https://www.v2ex.com/t/709142) ![](assets/new.png)  
 - [2020-09-21-滴滴自动驾驶招聘-infra-和-control-工程师](https://www.v2ex.com/t/709141) ![](assets/new.png)  
 - [2020-09-21-在数据库中怎么设计可能存在也可能不存在的值和状态值](https://www.v2ex.com/t/709140) ![](assets/new.png)  
-- [2020-09-21-有没有文章采集源推荐](https://www.v2ex.com/t/709139) ![](assets/new.png)  
-- [2020-09-21-电信营业厅是只给电子单据了吗](https://www.v2ex.com/t/709138) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

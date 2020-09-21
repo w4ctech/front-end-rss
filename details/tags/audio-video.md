@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 15:12:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 15:24:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,6 +85,7 @@
 - [2020-09-21-骑驴找马的情况下视频、电话面试时间](https://www.v2ex.com/t/709172) 
 - [2020-09-21-字节跳动北京直播中台团队急招研发工程师，校招-&-社招均有](https://www.v2ex.com/t/709171) 
 - [2020-09-21-江苏移动月消费-110+白嫖-15-元话费和任意视频会员](https://www.v2ex.com/t/709153) 
+- [2020-09-21-字节跳动的-8-轮视频面试流程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13784&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9XHrv6DAb6kb7w4k-c4ctg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-20-周报|量子通信安全、京麒沙龙直播、POC征文、灰色创业等引热议:9....](https://sec.thief.one/article_content?a_id=ba0ae62e9c67bb9e2547121def43cc76) 
 - [2020-09-20-【原创视频】网络安全科技馆都有什么黑科技?](https://sec.thief.one/article_content?a_id=a2c4d24a02ac78736d909ae90c7217d5) 
 - [2020-09-19-【视频】|-Python:位运算一](https://sec.thief.one/article_content?a_id=06f4c7e3f3ac9a10981e92551162764b) 

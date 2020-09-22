@@ -17875,113 +17875,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "面试：为了进阿里，必须掌握 HashMap 源码原理和面试题（图解版一）",
-        "link": "https://toutiao.io/k/vl7rvfr",
+        "title": "工具 | 一款功能强大，开源免费的 H5 可视化页面配置解决方案",
+        "link": "https://toutiao.io/k/6phg7i3",
         "date": "2020-09-22"
       },
       {
-        "title": "[译] 仅用 18 行 JavaScript 构建一个倒数计时器",
-        "link": "https://toutiao.io/k/qijww23",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "多图，一文了解 8 种常见的数据结构",
-        "link": "https://toutiao.io/k/d392rnj",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "谈谈我所认识的分布式锁",
-        "link": "https://toutiao.io/k/oqnmp3h",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "老生常谈 Spring Aop 日志收集与处理做的工具包",
-        "link": "https://toutiao.io/k/b79camp",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "前端插件化架构的探索和实践",
-        "link": "https://toutiao.io/k/nul54or",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "Python 之父为什么嫌弃 lambda 匿名函数？",
-        "link": "https://toutiao.io/k/tvchzyj",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "MySQL 蜜罐获取攻击者微信 ID",
-        "link": "https://toutiao.io/k/zuvjolr",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "如何评估机器学习模型的性能",
-        "link": "https://toutiao.io/k/ukuiwga",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "Kotlin 协程和 Android SQLite API 中的线程模型",
-        "link": "https://toutiao.io/k/44j29de",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "爱奇艺全链路压测探索与实践",
-        "link": "https://toutiao.io/k/kzyyyik",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "在 Go 语言中，我为什么使用接口",
-        "link": "https://toutiao.io/k/4m37thx",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "上市公司 CTO 邀请你加入「码农周刊 VIP 会员」",
-        "link": "https://toutiao.io/k/2j3oyu6",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "读者说我的代码有内存泄漏的风险",
-        "link": "https://toutiao.io/k/ho5xcgm",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[译] 揭开数字身份的神秘面纱",
-        "link": "https://toutiao.io/k/mfkyhey",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "20 张图搞懂 “分布式事务”",
-        "link": "https://toutiao.io/k/keefsst",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "王菲 k 歌又上微博热搜，Python 分析下微博网友评论",
-        "link": "https://toutiao.io/k/zy75w0r",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "Elasticsearch， 你值得拥有：云栖大会 Elasticsearch 场景化应用全景回顾",
-        "link": "https://toutiao.io/k/ohuypgf",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "Vue 打包体积优化神器 Gzip 你还不会吗？",
-        "link": "https://toutiao.io/k/l85s1u2",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "程序员修神之路：谈了千百遍的缓存数据的一致性问题",
-        "link": "https://toutiao.io/k/c0jgtqv",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
         "date": "2020-09-22"
       },
       {
@@ -17990,13 +17890,13 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
-        "link": "https://toutiao.io/k/xzcx65d",
+        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
+        "link": "https://toutiao.io/k/tyygn3e",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
         "date": "2020-09-22"
       },
       {
@@ -18005,18 +17905,13 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-22"
       },
       {
@@ -18030,23 +17925,33 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
+        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
+        "link": "https://toutiao.io/k/zu9e79n",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
         "date": "2020-09-22"
       },
       {
         "title": "[推荐] 《一年顶十年》干货读书笔记",
         "link": "https://toutiao.io/k/okqtla6",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
         "date": "2020-09-22"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 06:28:21，:rocket: 更新条数: +3427， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 06:34:30，:rocket: 更新条数: +3649， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,10 @@
 </summary>
 
 
+- [2020-09-22-快捷指令越来越差了-？](https://www.v2ex.com/t/709413) ![](assets/new.png)  
+- [2020-09-22-<p>包不住<div>是强制的-w3c-标准？还是约定成俗的规范？](https://www.v2ex.com/t/709412) ![](assets/new.png)  
+- [2020-09-22-坐标北京-请注意！硅谷-AI-外企来抓人啦！](https://www.v2ex.com/t/709411) ![](assets/new.png)  
+- [2020-09-22-深圳-上海-相比-感觉-上海日语学习机构更多-环境更好-日本人好像在上海的也挺多的](https://www.v2ex.com/t/709408) ![](assets/new.png)  
 - [2020-09-22-是该买-MacBookAir20-款还是等等苹果爸爸画饼的年底的新款-MacBookPro?](https://www.v2ex.com/t/709407) ![](assets/new.png)  
 - [2020-09-22-移动号码来短信提醒充值-0.1-元](https://www.v2ex.com/t/709406) ![](assets/new.png)  
 - [2020-09-22-为什么我觉得蜂窝版好像没啥用](https://www.v2ex.com/t/709404) ![](assets/new.png)  
@@ -1073,10 +1097,6 @@
 - [2020-09-22-js-的变量提升方面的问题求解](https://www.v2ex.com/t/709387) ![](assets/new.png)  
 - [2020-09-22-AppleWatch-洗手检测无法触发](https://www.v2ex.com/t/709385) ![](assets/new.png)  
 - [2020-09-22-新入职的员工工位离厕所很近](https://www.v2ex.com/t/709384) ![](assets/new.png)  
-- [2020-09-22-分享公司内部公开课《产品思维培养之感知力》](https://www.v2ex.com/t/709383) ![](assets/new.png)  
-- [2020-09-22-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/709382) ![](assets/new.png)  
-- [2020-09-22-开源的生产环境实时日志打印的服务都有哪些呢？](https://www.v2ex.com/t/709381) ![](assets/new.png)  
-- [2020-09-22-FFI-真是个好东西，现在-PHP-官方内置了这个扩展后，想调用什么库就能调用什么库，爽！](https://www.v2ex.com/t/709380) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

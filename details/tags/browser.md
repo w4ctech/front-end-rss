@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-22 15:26:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 15:32:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,7 +26,6 @@
 - [2020-09-07-【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327) 
 - [2020-09-01-复习一下：从URL输入到页面展现到底发生什么？](https://www.ershicimi.com/p/10fac1ce315de03ec03c0646f49c66e2) 
 - [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
-- [2020-09-08-你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e) 
 - [2020-09-16-15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/6132906ae7deb3d51731b82fc93b3f87) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) 

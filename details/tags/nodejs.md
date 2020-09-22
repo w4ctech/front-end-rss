@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-22 09:34:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 09:47:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -31,4 +31,3 @@
 - [2020-08-22-推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [2020-09-21-借助Node实现博客素材自动上传](https://juejin.im/post/6875192087705288718) 
-- [2020-09-22-上海/北京-C+轮-NLP-方向公司，重金求-Java-、Web、BI、Electron、测试、以及-Techleader-类型的巨佬](https://www.v2ex.com/t/709452) 

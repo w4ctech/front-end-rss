@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-09-22 09:34:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 09:47:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-22-8p-IOS-14-自带输入法卡](https://www.v2ex.com/t/709504) 
+- [2020-09-22-Notepad++-7.8.9:-Stand-with-Hong-Kong???](https://www.v2ex.com/t/709503) 
+- [2020-09-22-架构师到底应该具备什么技能？](https://www.v2ex.com/t/709502) 
+- [2020-09-22-pandas-索引相关，请问如何快速实现在每个索引元素后面额外顺序增加索引元素](https://www.v2ex.com/t/709501) 
+- [2020-09-22-请教如何用-curl-下载验证码图片](https://www.v2ex.com/t/709500) 
 - [2020-09-22-黑苹果切-Win10H，对于面向-WSL2-+-Docker-开发，各位有什么见解？](https://www.v2ex.com/t/709499) 
 - [2020-09-22-Commit-message-该遵循哪些规范？](https://www.v2ex.com/t/709498) 
 - [2020-09-22-趁热水一波，分享个国庆中秋头像小程序](https://www.v2ex.com/t/709497) 
@@ -44,9 +49,3 @@
 - [2020-09-22-有没有老哥有类似经历，使用某建站系统被告知侵权。](https://www.v2ex.com/t/709458) 
 - [2020-09-22-不懂就问，-mac-命令行有一个功能：按住-ctrl+鼠标左键到文件路径可以跳转到指定文件。对应-ubuntu-有相似的功能吗？](https://www.v2ex.com/t/709457) 
 - [2020-09-22-内测来袭-PerfDogService-一键搭建您的性能测试平台](https://www.v2ex.com/t/709456) 
-- [2020-09-22-数据库的主键字段名叫`ID`不香么，为什么非要`table-名+ID`、`table-名缩写+ID`？](https://www.v2ex.com/t/709455) 
-- [2020-09-22-phpstorm-有没有像-IDEA-一样的韭菜盒子插件（摸鱼盒子）](https://www.v2ex.com/t/709454) 
-- [2020-09-22-有个想法，想以产品的思维去买老家的眉县徐香猕猴桃，求各位-V-友支支招哈](https://www.v2ex.com/t/709453) 
-- [2020-09-22-上海/北京-C+轮-NLP-方向公司，重金求-Java-、Web、BI、Electron、测试、以及-Techleader-类型的巨佬](https://www.v2ex.com/t/709452) 
-- [2020-09-22-今年双-11，-Redmi-30-pro-与-Redmi-至尊纪念版该怎么选？](https://www.v2ex.com/t/709451) 
-- [2020-09-22-JWT-管理用户登录时，都需要把-token-存数据库里，判断用户登出时删除吗？](https://www.v2ex.com/t/709450) 

@@ -13498,10 +13498,81 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10646",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10646",
     "title": "VUE全家桶",
     "link": "https://www.ershicimi.com/a/10646",
-    "items": []
+    "items": [
+      {
+        "title": "【面试题】2019开年跳槽系列-38",
+        "link": "https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1",
+        "date": "2019-12-24"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-37",
+        "link": "https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62",
+        "date": "2019-12-23"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-36",
+        "link": "https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e",
+        "date": "2019-12-19"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-35",
+        "link": "https://www.ershicimi.com/p/13693c22440fcc75bcb7816cbd38d87a",
+        "date": "2019-12-18"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-34",
+        "link": "https://www.ershicimi.com/p/55cfb22f6deb40706c18677e12a05d7d",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-33",
+        "link": "https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2",
+        "date": "2019-12-12"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-32",
+        "link": "https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da",
+        "date": "2019-12-09"
+      },
+      {
+        "title": "【程序员必看】女生必买口红TOP 10",
+        "link": "https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d",
+        "date": "2019-12-09"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-31",
+        "link": "https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "【程序员必看】女生必买口红TOP 10",
+        "link": "https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-30",
+        "link": "https://www.ershicimi.com/p/c953e0c5b4aaccbe729309f61ee8574b",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "【程序员必看】女生必买口红TOP 10",
+        "link": "https://www.ershicimi.com/p/c000cfc00b1de7d595f4c51820cc7630",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-29",
+        "link": "https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10",
+        "date": "2019-12-04"
+      },
+      {
+        "title": "【程序员必看】女生必买口红TOP 10",
+        "link": "https://www.ershicimi.com/p/38b599052a6c0772985ffdbfad6875d6",
+        "date": "2019-12-04"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10445",
@@ -16364,6 +16435,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "笔试要求开摄像头 是把考试过程完整录下来上传吗",
+        "link": "https://www.v2ex.com/t/709592",
+        "date": "2020-09-22"
+      },
+      {
         "title": "如果你在你的公司是阿里云或腾讯云管理者或者在这些服务商采购者，进来看看",
         "link": "https://www.v2ex.com/t/709590",
         "date": "2020-09-22"
@@ -16556,11 +16632,6 @@
       {
         "title": "nginx 如何屏蔽禁止屏幕分辨率： 800x600 的访问呢？",
         "link": "https://www.v2ex.com/t/709543",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "Let's Encrypt 的证书被 Chrome 提示为不安全是什么原因？",
-        "link": "https://www.v2ex.com/t/709542",
         "date": "2020-09-22"
       }
     ]
@@ -16778,33 +16849,8 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-22"
       },
       {
@@ -16813,8 +16859,8 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
         "date": "2020-09-22"
       },
       {
@@ -16823,8 +16869,28 @@
         "date": "2020-09-22"
       },
       {
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-22"
+      },
+      {
         "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
         "link": "https://toutiao.io/k/q5x323b",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
         "date": "2020-09-22"
       },
       {
@@ -16833,23 +16899,28 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
         "date": "2020-09-22"
       }
     ]

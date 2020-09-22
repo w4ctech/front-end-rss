@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 10:49:06，:rocket: 更新条数: +3432， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 11:03:26，:rocket: 更新条数: +3432， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-22-深圳，汽车服务行业](https://www.v2ex.com/t/709521) ![](assets/new.png)  
 - [2020-09-22-iOS-设置全局阿里-DoH-的描述文件来了](https://www.v2ex.com/t/709520) ![](assets/new.png)  
 - [2020-09-22-三星-galaxy-fold-貌似卖的不出啊，同样反响的华为-mate-x-好像就发布会火了一下就不见踪迹了，丁解啊？](https://www.v2ex.com/t/709519) ![](assets/new.png)  
 - [2020-09-22-go-语言-有很多位小数的-big.Float-转换成-string-类型如何不使用科学计数法。](https://www.v2ex.com/t/709516) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-22-pandas-索引相关，请问如何快速实现在每个索引元素后面额外顺序增加索引元素](https://www.v2ex.com/t/709501) ![](assets/new.png)  
 - [2020-09-22-请教如何用-curl-下载验证码图片](https://www.v2ex.com/t/709500) ![](assets/new.png)  
 - [2020-09-22-黑苹果切-Win10H，对于面向-WSL2-+-Docker-开发，各位有什么见解？](https://www.v2ex.com/t/709499) ![](assets/new.png)  
-- [2020-09-22-Commit-message-该遵循哪些规范？](https://www.v2ex.com/t/709498) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,26 +1150,26 @@
 </summary>
 
 
-- [2020-09-21-用以太坊承载的比特币,还只是起步阶段](https://sec.thief.one/article_content?a_id=2f1a6402f45b863a5db17d42d5840a7e) ![](assets/new.png)  
-- [2020-09-21-我的编程能力从什么时候开始突飞猛进](https://sec.thief.one/article_content?a_id=36e959320b1706f8e3e5da72003fed55) ![](assets/new.png)  
-- [2020-09-21-一份关于网站的国庆重保指南,请查收](https://sec.thief.one/article_content?a_id=b788565c30a1a8f5db977f913b649d24) ![](assets/new.png)  
-- [2020-09-21-OSRC请你吃梨](https://sec.thief.one/article_content?a_id=2811bb570c976f741cb29f04bb57bb26) ![](assets/new.png)  
-- [2020-09-21-【高级持续性威胁追踪】Tor2Mine挂马境外消防网,利用最新漏洞传播...](https://sec.thief.one/article_content?a_id=d07a15d4e27f3b96dcefb2dcfca7869d) ![](assets/new.png)  
-- [2020-09-21-超前看!汇聚全球顶尖白帽黑客的TCTF-2020终终终终于来了!](https://sec.thief.one/article_content?a_id=b35f34437d8411d340f4c73b9a4d1ab5) ![](assets/new.png)  
-- [2020-09-21-关键基础设施中基于AI的入侵检测技术的比较研究二](https://sec.thief.one/article_content?a_id=c81d09137076fc110fab9258e4eff63d) ![](assets/new.png)  
-- [2020-09-21-红蓝对抗中的近源渗透](https://sec.thief.one/article_content?a_id=4b05becb5886085a890905ff3641dd81) ![](assets/new.png)  
-- [2020-09-21-求职成功率提高80%-|-安全客人才【招聘栏】内测名额限时发放](https://sec.thief.one/article_content?a_id=aebcf2c652d3afc74c584c97ffeb6fa1) ![](assets/new.png)  
-- [2020-09-21-合规审计平台-Bombus-开源首发](https://sec.thief.one/article_content?a_id=9a06937ef987b66965c830fd66c32839) ![](assets/new.png)  
-- [2020-09-21-9月25日字节跳动安全范儿沙龙等你!](https://sec.thief.one/article_content?a_id=8611eaf18696760f67c2c5154e2e39d8) ![](assets/new.png)  
-- [2020-09-21-原创图解|数字中国建设最新进展公布-一图读懂这份重磅报告!](https://sec.thief.one/article_content?a_id=47923f4409fd664f45a3459792c95d6f) ![](assets/new.png)  
-- [2020-09-21-人物-|-绿盟科技李晨:坚守二十年,只为更专业](https://sec.thief.one/article_content?a_id=3feb1880c60e316abbf6db42a2984637) ![](assets/new.png)  
-- [2020-09-21-沈昌祥:用科学网络安全观加快网络空间安全学科建设与人才培养](https://sec.thief.one/article_content?a_id=c30e9fa09ef5dbadb41ac7b04b0f318b) ![](assets/new.png)  
-- [2020-09-21-【周一福利】HVV威胁情报总结-DAY10+漏洞全家桶](https://sec.thief.one/article_content?a_id=71801ab2046df9835dc4261d2c57b597) ![](assets/new.png)  
-- [2020-09-21-2020年Gartner八大安全与风险管理趋势发布](https://sec.thief.one/article_content?a_id=35c355d284c6f97d9725be1497dbb00c) ![](assets/new.png)  
-- [2020-09-21-SecWiki周刊第342期](https://sec.thief.one/article_content?a_id=8e3b54a8ba6788d8e2732cf6528d812a) ![](assets/new.png)  
-- [2020-09-21-Facebook旗下Libra迎来新成员Blockchain-Capital](https://sec.thief.one/article_content?a_id=770726658555a9853e6c6670088f37c3) ![](assets/new.png)  
-- [2020-09-21-9月21日币种早内参-比特币和黄金的关联性达到一年高点](https://sec.thief.one/article_content?a_id=d928f9460d7f2dbeddc9895ffc113ae5) ![](assets/new.png)  
-- [2020-09-21-美土安全部发出罕见紧急警告:Windows存在“严重”漏洞](https://sec.thief.one/article_content?a_id=210c608f11f8deb43ceb6e486e8510bb) ![](assets/new.png)  
+- [2020-09-22-【幸福东北】幸福在哪里,秘诀就“藏”在这个小城里](https://sec.thief.one/article_content?a_id=fb3bf9234a1d96b5ec31889ca14638ce) ![](assets/new.png)  
+- [2020-09-22-IBM-Spectrum-Protect-Plus目录遍历与任意代码执行漏洞](https://sec.thief.one/article_content?a_id=51a5e5617f461c5f6cbbcd10caf0c999) ![](assets/new.png)  
+- [2020-09-22-2000元海底捞卡&乐高钢铁侠头盔,安全范儿沙龙!有范儿!](https://sec.thief.one/article_content?a_id=e135f5e896787ada579dd8324790fe35) ![](assets/new.png)  
+- [2020-09-22-IO-FILE中的stdin介绍](https://sec.thief.one/article_content?a_id=a64ef1436353249f4c1c0886ed585830) ![](assets/new.png)  
+- [2020-09-22-漏洞问题频发,你还敢开你的蓝牙吗?](https://sec.thief.one/article_content?a_id=514e394a7f164281930bf43f3ae91f20) ![](assets/new.png)  
+- [2020-09-22-隐私窃贼病毒分析报告](https://sec.thief.one/article_content?a_id=df028baa27dabdb21efbfa6d1a1f782e) ![](assets/new.png)  
+- [2020-09-22-“疯狂赛车”-挑战通关Tips|自动驾驶CTF之驾驶游戏赛题说明](https://sec.thief.one/article_content?a_id=3bab8ead2cd9d535e939ab3d61c8302a) ![](assets/new.png)  
+- [2020-09-22-5G安全建设怎么搞?绿盟-MagicFlow-来帮忙](https://sec.thief.one/article_content?a_id=989c4913a55e6c42b74473e5127128d2) ![](assets/new.png)  
+- [2020-09-22-SSRF学习之路丨漏洞利用与防御](https://sec.thief.one/article_content?a_id=0e737a0079488e6e7ad4819e2cf512c6) ![](assets/new.png)  
+- [2020-09-22-培训班交费之前还要面试?就是这么硬核质量](https://sec.thief.one/article_content?a_id=48c6eadc962b919e370de85f38a7e66d) ![](assets/new.png)  
+- [2020-09-22-2020国家网安周:主会场“黑科技”和各地精彩活动](https://sec.thief.one/article_content?a_id=71ef1e7aac708cbebd729384e637dbce) ![](assets/new.png)  
+- [2020-09-22-【安全风险通告】WebSphere-Application-Server-XXE漏洞安全风险通告](https://sec.thief.one/article_content?a_id=fda924f319c4276b91102149a12149b0) ![](assets/new.png)  
+- [2020-09-22-信息安全漏洞周报2020年第37期](https://sec.thief.one/article_content?a_id=20474154cc52170355fd36e1bfc5962e) ![](assets/new.png)  
+- [2020-09-22-安恒信息安全运营中心威胁情报总结-DAY11](https://sec.thief.one/article_content?a_id=a19a1ba4e16ffc83b07f38f841d4ce80) ![](assets/new.png)  
+- [2020-09-22-国舜股份当选“网络安全能力图谱”业务安全、安全开发、安全服务领...](https://sec.thief.one/article_content?a_id=a3ce09322084acb5e5f934652eaf5b16) ![](assets/new.png)  
+- [2020-09-22-年薪50万工程师众筹的背后,为什么保险是最后的尊严?](https://sec.thief.one/article_content?a_id=b985a466501ec1c3d6e69333d2d975f6) ![](assets/new.png)  
+- [2020-09-22-9月22日币种早内参](https://sec.thief.one/article_content?a_id=84bea75b55c2fa9857d9a261637ce0a3) ![](assets/new.png)  
+- [2020-09-22-报名开启!12家SRC邀你加入双11安全保卫战](https://sec.thief.one/article_content?a_id=8753c08b689d3c1bf700b793c4140a89) ![](assets/new.png)  
+- [2020-09-22-CISA:美国政府机构的漏洞修复速度远超行业平均水平](https://sec.thief.one/article_content?a_id=0b55d3cdbe9e5ab8ed29e900f0fb8a7e) ![](assets/new.png)  
+- [2020-09-22-针对iOS平台取证研究的iPhone设置下](https://sec.thief.one/article_content?a_id=7213c63ef63a33bf1f8c4bbcc299c4f5) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

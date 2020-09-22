@@ -16430,6 +16430,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "深圳，汽车服务行业",
+        "link": "https://www.v2ex.com/t/709521",
+        "date": "2020-09-22"
+      },
+      {
         "title": "iOS 设置全局阿里 DoH 的描述文件来了",
         "link": "https://www.v2ex.com/t/709520",
         "date": "2020-09-22"
@@ -16632,11 +16637,6 @@
       {
         "title": "对于不同字段的 or 查询怎样建立所以查询速度快?",
         "link": "https://www.v2ex.com/t/709472",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "xml 文件中的布局不起作用",
-        "link": "https://www.v2ex.com/t/709471",
         "date": "2020-09-22"
       }
     ]
@@ -16854,68 +16854,8 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 如何提高代码质量",
-        "link": "https://toutiao.io/k/b5x6wql",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 硬核看房利器：Web 全景的实现",
-        "link": "https://toutiao.io/k/ihkuhms",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
         "date": "2020-09-22"
       },
       {
@@ -16924,8 +16864,68 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
+        "link": "https://toutiao.io/k/ywhve25",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 如何提高代码质量",
+        "link": "https://toutiao.io/k/b5x6wql",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] Golang 汇编入门知识总结",
+        "link": "https://toutiao.io/k/hol28ow",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
+        "link": "https://toutiao.io/k/dcmvw72",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
         "date": "2020-09-22"
       }
     ]
@@ -16935,6 +16935,181 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "【幸福东北】幸福在哪里,秘诀就“藏”在这个小城里",
+        "link": "https://sec.thief.one/article_content?a_id=fb3bf9234a1d96b5ec31889ca14638ce",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "IBM Spectrum Protect Plus目录遍历与任意代码执行漏洞",
+        "link": "https://sec.thief.one/article_content?a_id=51a5e5617f461c5f6cbbcd10caf0c999",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "2000元海底捞卡&乐高钢铁侠头盔,安全范儿沙龙!有范儿!",
+        "link": "https://sec.thief.one/article_content?a_id=e135f5e896787ada579dd8324790fe35",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "IO-FILE中的stdin介绍",
+        "link": "https://sec.thief.one/article_content?a_id=a64ef1436353249f4c1c0886ed585830",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "漏洞问题频发,你还敢开你的蓝牙吗?",
+        "link": "https://sec.thief.one/article_content?a_id=514e394a7f164281930bf43f3ae91f20",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "隐私窃贼病毒分析报告",
+        "link": "https://sec.thief.one/article_content?a_id=df028baa27dabdb21efbfa6d1a1f782e",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "“疯狂赛车” 挑战通关Tips|自动驾驶CTF之驾驶游戏赛题说明",
+        "link": "https://sec.thief.one/article_content?a_id=3bab8ead2cd9d535e939ab3d61c8302a",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "5G安全建设怎么搞?绿盟 MagicFlow 来帮忙",
+        "link": "https://sec.thief.one/article_content?a_id=989c4913a55e6c42b74473e5127128d2",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "SSRF学习之路丨漏洞利用与防御",
+        "link": "https://sec.thief.one/article_content?a_id=0e737a0079488e6e7ad4819e2cf512c6",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "培训班交费之前还要面试?就是这么硬核质量",
+        "link": "https://sec.thief.one/article_content?a_id=48c6eadc962b919e370de85f38a7e66d",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "2020国家网安周:主会场“黑科技”和各地精彩活动",
+        "link": "https://sec.thief.one/article_content?a_id=71ef1e7aac708cbebd729384e637dbce",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "【安全风险通告】WebSphere Application Server XXE漏洞安全风险通告",
+        "link": "https://sec.thief.one/article_content?a_id=fda924f319c4276b91102149a12149b0",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "信息安全漏洞周报(2020年第37期)",
+        "link": "https://sec.thief.one/article_content?a_id=20474154cc52170355fd36e1bfc5962e",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "安恒信息安全运营中心威胁情报总结 DAY11",
+        "link": "https://sec.thief.one/article_content?a_id=a19a1ba4e16ffc83b07f38f841d4ce80",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "国舜股份当选“网络安全能力图谱”业务安全、安全开发、安全服务领...",
+        "link": "https://sec.thief.one/article_content?a_id=a3ce09322084acb5e5f934652eaf5b16",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "年薪50万工程师众筹的背后,为什么保险是最后的尊严?",
+        "link": "https://sec.thief.one/article_content?a_id=b985a466501ec1c3d6e69333d2d975f6",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "9月22日币种早内参",
+        "link": "https://sec.thief.one/article_content?a_id=84bea75b55c2fa9857d9a261637ce0a3",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "报名开启!12家SRC邀你加入双11安全保卫战",
+        "link": "https://sec.thief.one/article_content?a_id=8753c08b689d3c1bf700b793c4140a89",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "CISA:美国政府机构的漏洞修复速度远超行业平均水平",
+        "link": "https://sec.thief.one/article_content?a_id=0b55d3cdbe9e5ab8ed29e900f0fb8a7e",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "针对iOS平台取证研究的iPhone设置(下)",
+        "link": "https://sec.thief.one/article_content?a_id=7213c63ef63a33bf1f8c4bbcc299c4f5",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "秋分,什么都是刚刚好",
+        "link": "https://sec.thief.one/article_content?a_id=7c165f3159dc316fbf1e6da79e8ce66d",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "每日安全动态推送(09-22)",
+        "link": "https://sec.thief.one/article_content?a_id=0ed7344b58aea5ec7e2e737278d822ab",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "PHP安全:会话攻击安全防御",
+        "link": "https://sec.thief.one/article_content?a_id=e1a7b5af99af30ce93308263990dd140",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "由支付逻辑漏洞引发的一系列操作 | 今晚开课",
+        "link": "https://sec.thief.one/article_content?a_id=e79b3303bc883e470daaa0383ea7078e",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "蓝牙欺骗漏洞影响数十亿物联网设备",
+        "link": "https://sec.thief.one/article_content?a_id=97add5407d9ca63380e1c46e75784e16",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "华盟原创文章征稿奖励计划",
+        "link": "https://sec.thief.one/article_content?a_id=3d34b90940122a8ac9abb5fdb2d4fb69",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "求职成功率提高80% | 安全客人才【招聘栏】内测名额限时发放",
+        "link": "https://sec.thief.one/article_content?a_id=77937232c309a536e8ffcf7f6630b626",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "美国领先的激光开发商IPG Photonics受勒索软件打击",
+        "link": "https://sec.thief.one/article_content?a_id=41effec795cea2fb9360217c39217695",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "糟糕!原来你的电脑就是这样被木马远控了",
+        "link": "https://sec.thief.one/article_content?a_id=cdd4cdf8640d7149b7c7f99fdd0731ef",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "姓名、出生日期、职务头衔……黑客泄露了1000名白俄罗斯高级警察的...",
+        "link": "https://sec.thief.one/article_content?a_id=4f5a50c3f614c050144138d08c4f1ae4",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "吴恩达新书《Machine Learning Yearning》附完整中文版 PDF 下载!",
+        "link": "https://sec.thief.one/article_content?a_id=a7cb84b9dd367f738cc00c408878147c",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "85后北大高材生年薪百万,开发微信清粉软件牟利获刑…",
+        "link": "https://sec.thief.one/article_content?a_id=1a66e24b90eeed25cf2c273edfab5587",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "人民币升值又创新高!",
+        "link": "https://sec.thief.one/article_content?a_id=3d21ee71ee4f8f73d43010ad964f9587",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "Fastjson历史漏洞研究(二)",
+        "link": "https://sec.thief.one/article_content?a_id=e131422d73295bffd3f545b648d038b3",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "奇安信工业互联网网络安全西部中心总部落户重庆两江新区",
+        "link": "https://sec.thief.one/article_content?a_id=db6624eeb076c6b38db6d8c6a67dbe0e",
+        "date": "2020-09-21"
+      },
       {
         "title": "用以太坊承载的比特币,还只是起步阶段",
         "link": "https://sec.thief.one/article_content?a_id=2f1a6402f45b863a5db17d42d5840a7e",
@@ -17259,181 +17434,6 @@
         "title": "羊城杯-WriteUp",
         "link": "https://sec.thief.one/article_content?a_id=a572ca7897feed7eaf215090e8051454",
         "date": "2020-09-20"
-      },
-      {
-        "title": "商务部发布《不可靠实体清单规定》全文",
-        "link": "https://sec.thief.one/article_content?a_id=3f197052775d85778c588b7d969e428d",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "央视:数字贸易前景大,新业态服务百姓更便捷!",
-        "link": "https://sec.thief.one/article_content?a_id=f30bf084ed1f5371461c4a49e2562379",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "流动性挖矿高风险性凸显,比特币陷入无序震荡",
-        "link": "https://sec.thief.one/article_content?a_id=4ebb328df050efe2ed8a8027e8b8bbd5",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "为什么技术保障是建立欧盟加密监管的必备条件?(下篇)",
-        "link": "https://sec.thief.one/article_content?a_id=1b5852288a46f7b33ce0d9b38ec2bfbb",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "【中国梦·黄河情】“黄河故事”唱响新时代“民族精神”",
-        "link": "https://sec.thief.one/article_content?a_id=26de93353995c755ab277115dddb6235",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "360独家发布NetLogon漏洞热补丁,全面拦截武器化漏洞攻击!",
-        "link": "https://sec.thief.one/article_content?a_id=a4f5084ab350a81aaf852ae9fe0f20e1",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "零基础,如何成为一名黑客?",
-        "link": "https://sec.thief.one/article_content?a_id=7b16e08e952252128fc5ae02f7b3d58b",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "勒索团伙追踪:Avaddon的发展历程",
-        "link": "https://sec.thief.one/article_content?a_id=56fc5d1a9a4043a1763ed3c814e55ea0",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "【2020看雪训练营】对抗安卓恶意App的必备技能,你掌握了吗?",
-        "link": "https://sec.thief.one/article_content?a_id=b235a45d4688dfc26ce0c7bc6681e8e6",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "电信诈骗套路多,绿盟君手把手教你如何见招拆招",
-        "link": "https://sec.thief.one/article_content?a_id=56cf08ced132eefbbd21586d730e8c18",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "推荐个Python leader岗位,30~38K",
-        "link": "https://sec.thief.one/article_content?a_id=bce0bef3fadb7a7ebccad5146e518112",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "windows时间规则实验3文件跨卷移动",
-        "link": "https://sec.thief.one/article_content?a_id=8e6675b2f3f2c9871e27b982283c6af0",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "面向对象:愿未来可期,有你相伴",
-        "link": "https://sec.thief.one/article_content?a_id=0ab6bcb9d2d9cb257d5680e195e29f85",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "在看 | 一周网安回顾 2020.9.12~9.18",
-        "link": "https://sec.thief.one/article_content?a_id=94b0ccbf5e65a0772d8baf14bea93e4e",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "【视频】|  Python:位运算(一)",
-        "link": "https://sec.thief.one/article_content?a_id=06f4c7e3f3ac9a10981e92551162764b",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "安恒信息安全运营中心威胁情报总结 DAY8",
-        "link": "https://sec.thief.one/article_content?a_id=3b50dc55f3ac6e2bb7a33bdf43604558",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "一种对PostgreSQL数据库实现 RCE 的方法介绍",
-        "link": "https://sec.thief.one/article_content?a_id=8d804c3a31ec9f5fe2cebc94b497d1aa",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "南京网安周:奇安信荣获“网安2020南京行动有功单位”称号",
-        "link": "https://sec.thief.one/article_content?a_id=5b0230030613ac7033d8869b526e1cfa",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "Microsoft SQL Server 报表服务远程代码执行漏洞CVE-2020-0618",
-        "link": "https://sec.thief.one/article_content?a_id=2a014c9de0e1e658906f4e41a9404518",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "专家警告称:“针对教育机构的DDoS攻击呈激增趋势”",
-        "link": "https://sec.thief.one/article_content?a_id=b1ca19ffa3656e93eba2d1d6617bd9d6",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "HW防守|应急溯源分析手册汇总篇",
-        "link": "https://sec.thief.one/article_content?a_id=fea07b97d0a487c256780c91f52844f1",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "美商务部宣布封禁微信、TikTok:全美下架,禁止交易支付",
-        "link": "https://sec.thief.one/article_content?a_id=47546ba17adf84c67329ef596e9b1cab",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "300 页图解网络.pdf (附下载)",
-        "link": "https://sec.thief.one/article_content?a_id=ad246f37ad299ad16808b171085ae118",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "安恒信息安全运营中心威胁情报总结 DAY7",
-        "link": "https://sec.thief.one/article_content?a_id=ea929dc747479751e720f25b3c53681f",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "央行发布5号令 金融消费者权益保护实施办法11月实施附全文",
-        "link": "https://sec.thief.one/article_content?a_id=9950a3198ec067e2e585510dd54ef79e",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "数字货币—区块链技术带来的商机",
-        "link": "https://sec.thief.one/article_content?a_id=d45dc7fe8abfe4a8f25e427119fa3fa2",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "裸辞1天 vs 裸辞10天 vs 裸辞一个月",
-        "link": "https://sec.thief.one/article_content?a_id=66e65fd9c0fa179dc6c54b61c157200d",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "被拉入炒股群让安装App被骗几十万",
-        "link": "https://sec.thief.one/article_content?a_id=9671d57dc6302b8136e8a71d18e31e8f",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "天融信针对9月18日“NGFW设备存在命令执行漏洞情况通报”的修复...",
-        "link": "https://sec.thief.one/article_content?a_id=719aa8b534d90c9de182ee95b1e14bbb",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "【相约2020网安周】2020年国家网络安全宣传周电信日主题论坛在郑...",
-        "link": "https://sec.thief.one/article_content?a_id=b9ab72fd5e3da92c9ab8f7aa53e98b51",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "RASP攻防 —— RASP安全应用与局限性浅析",
-        "link": "https://sec.thief.one/article_content?a_id=7a806510197199e1236e179bbf8e1ab9",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "公开课精选系列之莎士比亚的阴谋",
-        "link": "https://sec.thief.one/article_content?a_id=a0b9f3996b993ede7a82e79d1caf7a1e",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "瓜子安全推荐:求职成功率提高80% | 安全客人才【招聘栏】",
-        "link": "https://sec.thief.one/article_content?a_id=b110cfa582e31e488d08aa4942a5a96c",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "【安全热点周报】第160期:SK海力士和LG电子两家公司遭勒索组织...",
-        "link": "https://sec.thief.one/article_content?a_id=97766cba57d0dc31bb4dc2dc5d98bb3f",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "招聘 | 58安全团队高薪招人,等你加入!",
-        "link": "https://sec.thief.one/article_content?a_id=251212e5bde5f98597651dc1c8a952dc",
-        "date": "2020-09-18"
       }
     ]
   }

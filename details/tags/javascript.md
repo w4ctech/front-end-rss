@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-22 10:49:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 11:03:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -103,5 +103,5 @@
 - [2020-09-22-小米路由器-3-Pro-一个奇怪的现象](https://www.v2ex.com/t/709495) 
 - [2020-09-22-Mac-如何通过终端查看电源适配器接入时间？](https://www.v2ex.com/t/709486) 
 - [2020-09-22-Gin-启动之后,-路由后面的-Handlers-数量是什么意思](https://www.v2ex.com/t/709473) 
-- [2020-09-22-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-22-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
+- [2020-09-21-Fastjson历史漏洞研究二](https://sec.thief.one/article_content?a_id=e131422d73295bffd3f545b648d038b3) 

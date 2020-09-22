@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 00:33:29，:rocket: 更新条数: +3635， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 01:02:16，:rocket: 更新条数: +3636， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,8 +64,8 @@
 </summary>
 
 
+- [2020-09-21-9月21日全国新增境外输入新冠6例-累计确诊85297例](http://m.china.caixin.com/m/2020-09-22/101607917.html) ![](assets/new.png)  
 - [2020-09-21-云南瑞丽“解封”-中缅边境管控压力仍大](https://m.caixin.com/m/2020-09-22/101607895.html) ![](assets/new.png)  
-- [2020-09-20-最新疫情：全国新冠累计确诊85291例-新增境外输入12例](https://m.caixin.com/m/2020-09-21/101607735.html) ![](assets/new.png)  
 - [2020-09-20-最新海外疫情：新冠感染近3092万-累计死亡超95.5万](http://m.international.caixin.com/m/2020-09-21/101607738.html) ![](assets/new.png)  
 - [2020-09-20-【境内疫情观察】全国新增12例境外输入病例（9月20日）](http://m.database.caixin.com/m/2020-09-21/101607590.html) ![](assets/new.png)  
 - [2020-09-20-大流行手记|9月20日：全球新冠死亡率仍高达3%-拉美确诊病例近870万](https://m.caixin.com/m/2020-09-21/101607469.html) ![](assets/new.png)  
@@ -1077,6 +1077,10 @@
 </summary>
 
 
+- [2020-09-22-各位在实际开发过程中，有用到构件相关的技术么?](https://www.v2ex.com/t/709244) ![](assets/new.png)  
+- [2020-09-22-Macbook-pro-2018-合盖使用-wifi-性能极度下降](https://www.v2ex.com/t/709242) ![](assets/new.png)  
+- [2020-09-22-自己写的-windows-程序如何独占扬声器（播放音乐时其他程序正在播放的音乐自动暂时无声）？](https://www.v2ex.com/t/709241) ![](assets/new.png)  
+- [2020-09-22-一早看到微软-75-亿刀收购-b-社，之前收购-github-差不多也是这个价，为什么会跟-tiktok-的估值差距这么大呢？](https://www.v2ex.com/t/709240) ![](assets/new.png)  
 - [2020-09-22-小白问下-svn-的的问题](https://www.v2ex.com/t/709239) ![](assets/new.png)  
 - [2020-09-22-木兰重生：-150-行木兰代码为木兰自身实现高亮效果](https://www.v2ex.com/t/709238) ![](assets/new.png)  
 - [2020-09-22-上架安卓应用，-APP-有功能点击去提示功能正在研发中，上架小米和华为被拒绝，这种有功能正在研发中的应用如何上架](https://www.v2ex.com/t/709235) ![](assets/new.png)  
@@ -1093,10 +1097,6 @@
 - [2020-09-21-如何预防痴呆](https://www.v2ex.com/t/709221) ![](assets/new.png)  
 - [2020-09-21-mongoose-聚合管道查询，-list-中的子对象如何关联？](https://www.v2ex.com/t/709220) ![](assets/new.png)  
 - [2020-09-21-20200922-午夜俱乐部](https://www.v2ex.com/t/709219) ![](assets/new.png)  
-- [2020-09-21-AirPods-维修-购买凭证](https://www.v2ex.com/t/709217) ![](assets/new.png)  
-- [2020-09-21-社招-校招-字节跳动前端后端测试客户端内推](https://www.v2ex.com/t/709216) ![](assets/new.png)  
-- [2020-09-21-watch-S3-有必要升级到-OS-7-吗](https://www.v2ex.com/t/709215) ![](assets/new.png)  
-- [2020-09-21-ios14-的地点相关捷径还是用不了吗](https://www.v2ex.com/t/709213) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,25 +1140,25 @@
 
 
 - [2020-09-22-面试：为了进阿里，必须掌握-HashMap-源码原理和面试题（图解版一）](https://toutiao.io/k/vl7rvfr) ![](assets/new.png)  
-- [2020-09-22-译-仅用-18-行-JavaScript-构建一个倒数计时器](https://toutiao.io/k/qijww23) ![](assets/new.png)  
 - [2020-09-22-老生常谈-Spring-Aop-日志收集与处理做的工具包](https://toutiao.io/k/b79camp) ![](assets/new.png)  
+- [2020-09-22-译-仅用-18-行-JavaScript-构建一个倒数计时器](https://toutiao.io/k/qijww23) ![](assets/new.png)  
 - [2020-09-22-多图，一文了解-8-种常见的数据结构](https://toutiao.io/k/d392rnj) ![](assets/new.png)  
 - [2020-09-22-Python-之父为什么嫌弃-lambda-匿名函数？](https://toutiao.io/k/tvchzyj) ![](assets/new.png)  
+- [2020-09-22-MySQL-蜜罐获取攻击者微信-ID](https://toutiao.io/k/zuvjolr) ![](assets/new.png)  
 - [2020-09-22-上市公司-CTO-邀请你加入「码农周刊-VIP-会员」](https://toutiao.io/k/2j3oyu6) ![](assets/new.png)  
 - [2020-09-22-Kotlin-协程和-Android-SQLite-API-中的线程模型](https://toutiao.io/k/44j29de) ![](assets/new.png)  
-- [2020-09-22-如何评估机器学习模型的性能](https://toutiao.io/k/ukuiwga) ![](assets/new.png)  
 - [2020-09-22-前端插件化架构的探索和实践](https://toutiao.io/k/nul54or) ![](assets/new.png)  
-- [2020-09-22-MySQL-蜜罐获取攻击者微信-ID](https://toutiao.io/k/zuvjolr) ![](assets/new.png)  
-- [2020-09-22-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-22-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-22-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
-- [2020-09-22-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-22-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-22-如何评估机器学习模型的性能](https://toutiao.io/k/ukuiwga) ![](assets/new.png)  
 - [2020-09-22-推荐-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
+- [2020-09-22-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
+- [2020-09-22-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-22-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [2020-09-22-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-22-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-22-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
 - [2020-09-22-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-22-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-22-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
+- [2020-09-22-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
+- [2020-09-22-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

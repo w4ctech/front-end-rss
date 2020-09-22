@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-22 14:36:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 14:47:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -16,6 +16,7 @@
 - [2020-09-16-Serverless：我还是一个大孩子](https://www.ershicimi.com/p/9fdab7e1908c34c0f6af750611276467) 
 - [2020-09-08-一个可能让你的页面渲染速度提升数倍的CSS属性](https://www.ershicimi.com/p/e50f0acf35c61187f22209a1e76cc671) 
 - [2020-09-11-这五个有用的-CSS-属性完全被我忽视了](https://www.ershicimi.com/p/20e6d410efcc58cb1c8e47502b41d772) 
+- [2020-09-16-CSS八种让人眼前一亮的HOVER效果](https://www.ershicimi.com/p/758221ce47b62753a1ef428836c74805) 
 - [2020-09-13-研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/) 
 - [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) 
 - [2020-07-21-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) 

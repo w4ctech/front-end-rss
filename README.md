@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 22:34:49，:rocket: 更新条数: +3431， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 22:47:06，:rocket: 更新条数: +3431， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-22-使用-USB-C-连接显示器时，自动息屏后点亮屏幕会黑屏仅剩光标](https://www.v2ex.com/t/709599) ![](assets/new.png)  
 - [2020-09-22-谷歌云-使用魔改-rclone-无法使用世纪互联！-tls-通不过](https://www.v2ex.com/t/709598) ![](assets/new.png)  
 - [2020-09-22-微软将为-Big-Sur-重新设计-Outlook-for-Mac-界面](https://www.v2ex.com/t/709596) ![](assets/new.png)  
 - [2020-09-22-微信小程序商城批量预约下单的脚本，有人做过吗？](https://www.v2ex.com/t/709595) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-22-nvim/vim-使用技巧--系列-7](https://www.v2ex.com/t/709578) ![](assets/new.png)  
 - [2020-09-22-新建小博客长期邀请互换友情链接](https://www.v2ex.com/t/709577) ![](assets/new.png)  
 - [2020-09-22-karabiner-elements-官网访问失败，是我个人的原因么？](https://www.v2ex.com/t/709575) ![](assets/new.png)  
-- [2020-09-22-CalDigit-TS3-Plus-扩展坞功率问题](https://www.v2ex.com/t/709573) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

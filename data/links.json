@@ -13237,6 +13237,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "截至9月21日24时新型冠状病毒肺炎疫情最新情况",
+        "link": "http://www.nhc.gov.cn/xcs/yqtb/202009/2de52736b3c6447d89b07890c2b78fc3.shtml",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "北美观察丨疫情下的美国校园：学生性命成政治筹码，强制开学只为争夺选票",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirAC1EKiQz9tezW84gotO200922&isfromapp=1",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "美媒：报告显示新冠疫情加剧美国贫富差距",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti45XSX65FFmyv6cB2PqFw200922&isfromapp=1",
+        "date": "2020-09-22"
+      },
+      {
         "title": "智利新增新冠肺炎确诊病例数量降至5月初以来最低水平",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAqoVcmYrNvf3g0NJ411e200922&isfromapp=1",
         "date": "2020-09-21"
@@ -13244,21 +13259,6 @@
       {
         "title": "​美国疫情再度恶化 上周新增确诊和死亡病例均上涨",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikValcMISS5aBXgXkboET200922&isfromapp=1",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "美国疾控中心撤回“新冠病毒通过空气传播”信息 称其为错误发布",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpV210xwXa8A0gzgV8v200922&isfromapp=1",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "流感疫苗运输中出现违规操作，韩国紧急叫停免费接种工作",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGKPojKh2MPB24xC4ZvZO200922&isfromapp=1",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "英国新冠疫情警戒级别提高至四级",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHfptuMutvGtfRtqIVsW8200922&isfromapp=1",
         "date": "2020-09-21"
       }
     ]
@@ -16415,6 +16415,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "3,4 个月没工作了，现在找工作简历上应该怎么写。",
+        "link": "https://www.v2ex.com/t/709266",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "请教关于 web 端支持多端登录的方案",
+        "link": "https://www.v2ex.com/t/709265",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "毕业一年，工作紧凑，只会 get 和 post 拿数据展示数据，我该怎么办",
+        "link": "https://www.v2ex.com/t/709264",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "beta7 怎么样了， beta6 你们都说不能用",
+        "link": "https://www.v2ex.com/t/709263",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "互联网链接的腐烂率估算",
+        "link": "https://www.v2ex.com/t/709262",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "CRUD 通用方法改进",
+        "link": "https://www.v2ex.com/t/709260",
+        "date": "2020-09-22"
+      },
+      {
         "title": "最近想研究一下可视化数据，想买一个不间断推送数据的传感器，找了好久没找到",
         "link": "https://www.v2ex.com/t/709259",
         "date": "2020-09-22"
@@ -16573,36 +16603,6 @@
         "title": "AirPods 维修 购买凭证",
         "link": "https://www.v2ex.com/t/709217",
         "date": "2020-09-21"
-      },
-      {
-        "title": "[社招] [校招] 字节跳动前端后端测试客户端内推",
-        "link": "https://www.v2ex.com/t/709216",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "watch S3 有必要升级到 OS 7 吗",
-        "link": "https://www.v2ex.com/t/709215",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "ios14 的地点相关捷径还是用不了吗",
-        "link": "https://www.v2ex.com/t/709213",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "列举一下迅雷「子公司」玩物科技的一二事",
-        "link": "https://www.v2ex.com/t/709212",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "safari14 谨慎更新",
-        "link": "https://www.v2ex.com/t/709211",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "想问下大家现在都用 spring boot 的哪个版本呢",
-        "link": "https://www.v2ex.com/t/709210",
-        "date": "2020-09-21"
       }
     ]
   },
@@ -16759,28 +16759,13 @@
         "date": "2020-09-22"
       },
       {
-        "title": "Kotlin 协程和 Android SQLite API 中的线程模型",
-        "link": "https://toutiao.io/k/44j29de",
-        "date": "2020-09-22"
-      },
-      {
         "title": "前端插件化架构的探索和实践",
         "link": "https://toutiao.io/k/nul54or",
         "date": "2020-09-22"
       },
       {
-        "title": "爱奇艺全链路压测探索与实践",
-        "link": "https://toutiao.io/k/kzyyyik",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "在 Go 语言中，我为什么使用接口",
-        "link": "https://toutiao.io/k/4m37thx",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[译] 揭开数字身份的神秘面纱",
-        "link": "https://toutiao.io/k/mfkyhey",
+        "title": "Kotlin 协程和 Android SQLite API 中的线程模型",
+        "link": "https://toutiao.io/k/44j29de",
         "date": "2020-09-22"
       },
       {
@@ -16789,43 +16774,38 @@
         "date": "2020-09-22"
       },
       {
+        "title": "在 Go 语言中，我为什么使用接口",
+        "link": "https://toutiao.io/k/4m37thx",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "爱奇艺全链路压测探索与实践",
+        "link": "https://toutiao.io/k/kzyyyik",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[译] 揭开数字身份的神秘面纱",
+        "link": "https://toutiao.io/k/mfkyhey",
+        "date": "2020-09-22"
+      },
+      {
         "title": "读者说我的代码有内存泄漏的风险",
         "link": "https://toutiao.io/k/ho5xcgm",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
-        "link": "https://toutiao.io/k/1yhz4eh",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
-        "link": "https://toutiao.io/k/xzcx65d",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 史诗级 Java 低时延调优案例（一）",
-        "link": "https://toutiao.io/k/ywhve25",
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
         "date": "2020-09-22"
       },
       {
         "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
         "link": "https://toutiao.io/k/dcmvw72",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
         "date": "2020-09-22"
       },
       {
@@ -16839,13 +16819,38 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
+        "link": "https://toutiao.io/k/tyygn3e",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
         "date": "2020-09-22"
       },
       {
@@ -16854,18 +16859,13 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
         "date": "2020-09-22"
       }
     ]

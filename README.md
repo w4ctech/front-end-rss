@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 01:31:18，:rocket: 更新条数: +3420， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 01:39:51，:rocket: 更新条数: +3420， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-22-截至9月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202009/2de52736b3c6447d89b07890c2b78fc3.shtml) ![](assets/new.png)  
+- [2020-09-22-北美观察丨疫情下的美国校园：学生性命成政治筹码，强制开学只为争夺选票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirAC1EKiQz9tezW84gotO200922&isfromapp=1) ![](assets/new.png)  
+- [2020-09-22-美媒：报告显示新冠疫情加剧美国贫富差距](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti45XSX65FFmyv6cB2PqFw200922&isfromapp=1) ![](assets/new.png)  
 - [2020-09-21-智利新增新冠肺炎确诊病例数量降至5月初以来最低水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAqoVcmYrNvf3g0NJ411e200922&isfromapp=1) ![](assets/new.png)  
 - [2020-09-21-​美国疫情再度恶化-上周新增确诊和死亡病例均上涨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikValcMISS5aBXgXkboET200922&isfromapp=1) ![](assets/new.png)  
-- [2020-09-21-美国疾控中心撤回“新冠病毒通过空气传播”信息-称其为错误发布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpV210xwXa8A0gzgV8v200922&isfromapp=1) ![](assets/new.png)  
-- [2020-09-21-流感疫苗运输中出现违规操作，韩国紧急叫停免费接种工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGKPojKh2MPB24xC4ZvZO200922&isfromapp=1) ![](assets/new.png)  
-- [2020-09-21-英国新冠疫情警戒级别提高至四级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHfptuMutvGtfRtqIVsW8200922&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,12 @@
 </summary>
 
 
+- [2020-09-22-3,4-个月没工作了，现在找工作简历上应该怎么写。](https://www.v2ex.com/t/709266) ![](assets/new.png)  
+- [2020-09-22-请教关于-web-端支持多端登录的方案](https://www.v2ex.com/t/709265) ![](assets/new.png)  
+- [2020-09-22-毕业一年，工作紧凑，只会-get-和-post-拿数据展示数据，我该怎么办](https://www.v2ex.com/t/709264) ![](assets/new.png)  
+- [2020-09-22-beta7-怎么样了，-beta6-你们都说不能用](https://www.v2ex.com/t/709263) ![](assets/new.png)  
+- [2020-09-22-互联网链接的腐烂率估算](https://www.v2ex.com/t/709262) ![](assets/new.png)  
+- [2020-09-22-CRUD-通用方法改进](https://www.v2ex.com/t/709260) ![](assets/new.png)  
 - [2020-09-22-最近想研究一下可视化数据，想买一个不间断推送数据的传感器，找了好久没找到](https://www.v2ex.com/t/709259) ![](assets/new.png)  
 - [2020-09-22-联通家宽-IPv6-无法接受入站-TCP-请求？](https://www.v2ex.com/t/709257) ![](assets/new.png)  
 - [2020-09-22-终于可以开通电信的蜂窝数据了](https://www.v2ex.com/t/709256) ![](assets/new.png)  
@@ -1071,12 +1077,6 @@
 - [2020-09-22-各位在实际开发过程中，有用到构件相关的技术么?](https://www.v2ex.com/t/709244) ![](assets/new.png)  
 - [2020-09-22-Macbook-pro-2018-合盖使用-wifi-性能极度下降](https://www.v2ex.com/t/709242) ![](assets/new.png)  
 - [2020-09-22-自己写的-windows-程序如何独占扬声器（播放音乐时其他程序正在播放的音乐自动暂时无声）？](https://www.v2ex.com/t/709241) ![](assets/new.png)  
-- [2020-09-22-一早看到微软-75-亿刀收购-b-社，之前收购-github-差不多也是这个价，为什么会跟-tiktok-的估值差距这么大呢？](https://www.v2ex.com/t/709240) ![](assets/new.png)  
-- [2020-09-22-小白问下-svn-的的问题](https://www.v2ex.com/t/709239) ![](assets/new.png)  
-- [2020-09-22-木兰重生：-150-行木兰代码为木兰自身实现高亮效果](https://www.v2ex.com/t/709238) ![](assets/new.png)  
-- [2020-09-22-上架安卓应用，-APP-有功能点击去提示功能正在研发中，上架小米和华为被拒绝，这种有功能正在研发中的应用如何上架](https://www.v2ex.com/t/709235) ![](assets/new.png)  
-- [2020-09-22-Safari-窗口优化插件:-Tab-Suspender-2.0-更新送码](https://www.v2ex.com/t/709234) ![](assets/new.png)  
-- [2020-09-21-iPhone-8-Plus-iOS-14-续航崩](https://www.v2ex.com/t/709232) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,18 +1127,18 @@
 - [2020-09-22-MySQL-蜜罐获取攻击者微信-ID](https://toutiao.io/k/zuvjolr) ![](assets/new.png)  
 - [2020-09-22-如何评估机器学习模型的性能](https://toutiao.io/k/ukuiwga) ![](assets/new.png)  
 - [2020-09-22-上市公司-CTO-邀请你加入「码农周刊-VIP-会员」](https://toutiao.io/k/2j3oyu6) ![](assets/new.png)  
-- [2020-09-22-Kotlin-协程和-Android-SQLite-API-中的线程模型](https://toutiao.io/k/44j29de) ![](assets/new.png)  
 - [2020-09-22-前端插件化架构的探索和实践](https://toutiao.io/k/nul54or) ![](assets/new.png)  
-- [2020-09-22-爱奇艺全链路压测探索与实践](https://toutiao.io/k/kzyyyik) ![](assets/new.png)  
-- [2020-09-22-在-Go-语言中，我为什么使用接口](https://toutiao.io/k/4m37thx) ![](assets/new.png)  
-- [2020-09-22-译-揭开数字身份的神秘面纱](https://toutiao.io/k/mfkyhey) ![](assets/new.png)  
+- [2020-09-22-Kotlin-协程和-Android-SQLite-API-中的线程模型](https://toutiao.io/k/44j29de) ![](assets/new.png)  
 - [2020-09-22-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
+- [2020-09-22-在-Go-语言中，我为什么使用接口](https://toutiao.io/k/4m37thx) ![](assets/new.png)  
+- [2020-09-22-爱奇艺全链路压测探索与实践](https://toutiao.io/k/kzyyyik) ![](assets/new.png)  
+- [2020-09-22-译-揭开数字身份的神秘面纱](https://toutiao.io/k/mfkyhey) ![](assets/new.png)  
 - [2020-09-22-读者说我的代码有内存泄漏的风险](https://toutiao.io/k/ho5xcgm) ![](assets/new.png)  
-- [2020-09-22-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-22-推荐-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
-- [2020-09-22-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
-- [2020-09-22-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
-- [2020-09-22-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
+- [2020-09-22-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-22-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
+- [2020-09-22-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
+- [2020-09-22-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-22-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

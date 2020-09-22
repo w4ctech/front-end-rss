@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-22 12:04:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 12:16:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -103,4 +103,5 @@
 - [2020-09-22-js-全局变量,F5-刷新页面依旧保持上次值的?](https://www.v2ex.com/t/709513) 
 - [2020-09-22-小米路由器-3-Pro-一个奇怪的现象](https://www.v2ex.com/t/709495) 
 - [2020-09-22-Mac-如何通过终端查看电源适配器接入时间？](https://www.v2ex.com/t/709486) 
+- [2020-09-22-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
 - [2020-09-21-Fastjson历史漏洞研究二](https://sec.thief.one/article_content?a_id=e131422d73295bffd3f545b648d038b3) 

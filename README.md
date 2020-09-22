@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 12:39:50，:rocket: 更新条数: +3431， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 12:47:10，:rocket: 更新条数: +3429， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-22-国外程序员是异类吗，看工作时间的话](https://www.v2ex.com/t/709545) ![](assets/new.png)  
 - [2020-09-22-nginx-如何屏蔽禁止屏幕分辨率：-800x600-的访问呢？](https://www.v2ex.com/t/709543) ![](assets/new.png)  
 - [2020-09-22-Let's-Encrypt-的证书被-Chrome-提示为不安全是什么原因？](https://www.v2ex.com/t/709542) ![](assets/new.png)  
 - [2020-09-22-#首发-现在可以在微信公众号关注-Github-Trending-了](https://www.v2ex.com/t/709540) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-22-深圳，汽车服务行业](https://www.v2ex.com/t/709521) ![](assets/new.png)  
 - [2020-09-22-iOS-设置全局阿里-DoH-的描述文件来了](https://www.v2ex.com/t/709520) ![](assets/new.png)  
 - [2020-09-22-三星-galaxy-fold-貌似卖的不出啊，同样反响的华为-mate-x-好像就发布会火了一下就不见踪迹了，丁解啊？](https://www.v2ex.com/t/709519) ![](assets/new.png)  
-- [2020-09-22-go-语言-有很多位小数的-big.Float-转换成-string-类型如何不使用科学计数法。](https://www.v2ex.com/t/709516) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

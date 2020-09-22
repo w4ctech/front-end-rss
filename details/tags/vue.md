@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-22 04:04:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 04:13:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -79,6 +79,5 @@
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2020-09-21-通过一个demo学习Vue-3-Composition-API](https://juejin.im/post/6874876597984296974) 
 - [2020-09-21-Vue生命周期详解-📌](https://juejin.im/post/6874855535234170887) 
-- [2020-09-21-Vue+js鼠标拖动图片-滚轮缩放图片](https://juejin.im/post/6874854990079328269) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-09-22-Vue-打包体积优化神器-Gzip-你还不会吗？](https://toutiao.io/k/l85s1u2) 

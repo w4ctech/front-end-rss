@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-22 16:13:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 16:26:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-22-如果你在你的公司是阿里云或腾讯云管理者或者在这些服务商采购者，进来看看](https://www.v2ex.com/t/709590) 
 - [2020-09-22-想做浴室和厨房的翻新，线上怎么推广](https://www.v2ex.com/t/709589) 
 - [2020-09-22-有人看《沉默的真相》吗？](https://www.v2ex.com/t/709588) 
 - [2020-09-22-如果你用-Safari-浏览器，强烈安利一款插件-Tab-Suspender-for-Safari](https://www.v2ex.com/t/709587) 
@@ -44,4 +45,3 @@
 - [2020-09-22-国外程序员是异类吗，看工作时间的话](https://www.v2ex.com/t/709545) 
 - [2020-09-22-nginx-如何屏蔽禁止屏幕分辨率：-800x600-的访问呢？](https://www.v2ex.com/t/709543) 
 - [2020-09-22-Let's-Encrypt-的证书被-Chrome-提示为不安全是什么原因？](https://www.v2ex.com/t/709542) 
-- [2020-09-22-#首发-现在可以在微信公众号关注-Github-Trending-了](https://www.v2ex.com/t/709540) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 23:22:25，:rocket: 更新条数: +3637， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 23:32:19，:rocket: 更新条数: +3637， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-22-哥伦比亚疫情持续扩散，首都波哥大进一步放松防疫管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00cV8IUayKcfK3nSTYwy200923&isfromapp=1) ![](assets/new.png)  
+- [2020-09-22-中国赴南苏丹维和工兵完成瓦乌机场升级改造任务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEF435oM0uHpNxVRuGGSF200923&isfromapp=1) ![](assets/new.png)  
+- [2020-09-22-今年前七个月摩洛哥旅游业因新冠疫情损失达140亿元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articdn0E0V3MnH00Yfr97g4200923&isfromapp=1) ![](assets/new.png)  
 - [2020-09-22-意大利新增新冠肺炎确诊病例-1392-例-累计确诊突破-30-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBLnIpxP5ZH4KMLSicyq200922&isfromapp=1) ![](assets/new.png)  
 - [2020-09-22-香港迪士尼乐园将于-9-月-25-日恢复运营，初期每周运营五天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNantV8p9oq84t0hLKyGQ200922&isfromapp=1) ![](assets/new.png)  
-- [2020-09-22-西班牙将减少新冠肺炎密切接触者隔离检疫时长至-10-天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY71sDtcBDD2LErhTRtdG200922&isfromapp=1) ![](assets/new.png)  
-- [2020-09-22-英国高校组团包机迎接中国留学生，澳大利亚「急」了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKv8UEcJPg5gheyU1S59z200922&isfromapp=1) ![](assets/new.png)  
-- [2020-09-22-捷克新增新冠肺炎确诊病例-1476-例-累计超过-5-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixBf1Ik2QWAfzKSFBKDFD200922&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,21 +1140,21 @@
 
 
 - [2020-09-22-工具-|-一款功能强大，开源免费的-H5-可视化页面配置解决方案](https://toutiao.io/k/6phg7i3) ![](assets/new.png)  
-- [2020-09-22-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
-- [2020-09-22-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-22-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
+- [2020-09-22-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
 - [2020-09-22-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
-- [2020-09-22-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
-- [2020-09-22-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-22-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
-- [2020-09-22-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
-- [2020-09-22-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
-- [2020-09-22-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
-- [2020-09-22-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
 - [2020-09-22-推荐-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
+- [2020-09-22-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-22-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-22-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-22-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-22-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
+- [2020-09-22-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
+- [2020-09-22-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
 - [2020-09-22-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
+- [2020-09-22-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-22-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
 - [2020-09-22-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-22-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
+- [2020-09-22-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,16 +1,18 @@
-:alarm_clock: 更新时间: 2020-09-22 15:48:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 16:04:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-22-吐槽：技术于教育一线](https://www.v2ex.com/t/709585) 
+- [2020-09-22-clash-config-manager-clashX-配置管理.](https://www.v2ex.com/t/709583) 
+- [2020-09-22-字典表的值列该用什么数据类型呢？](https://www.v2ex.com/t/709582) 
 - [2020-09-22-iPhone-11-pro-更新-14-后动画卡顿](https://www.v2ex.com/t/709581) 
 - [2020-09-22-券商还有能开免五的吗？想低一点的手续费](https://www.v2ex.com/t/709580) 
 - [2020-09-22-为什么-iPhone-来电话时-Mac-上不同步显示了？](https://www.v2ex.com/t/709579) 
 - [2020-09-22-nvim/vim-使用技巧--系列-7](https://www.v2ex.com/t/709578) 
 - [2020-09-22-新建小博客长期邀请互换友情链接](https://www.v2ex.com/t/709577) 
-- [2020-09-22-北京，收个-iPad-给小朋友上网课](https://www.v2ex.com/t/709576) 
 - [2020-09-22-karabiner-elements-官网访问失败，是我个人的原因么？](https://www.v2ex.com/t/709575) 
 - [2020-09-22-CalDigit-TS3-Plus-扩展坞功率问题](https://www.v2ex.com/t/709573) 
 - [2020-09-22-请教关于-Python-多线程下载器问题](https://www.v2ex.com/t/709571) 
@@ -41,6 +43,3 @@
 - [2020-09-22-#首发-现在可以在微信公众号关注-Github-Trending-了](https://www.v2ex.com/t/709540) 
 - [2020-09-22-请问-Java-中的“编译期可知，运行期不变”的父类方法是什么？](https://www.v2ex.com/t/709539) 
 - [2020-09-22-急招-深圳腾讯-PCG-Android-开发工程师](https://www.v2ex.com/t/709538) 
-- [2020-09-22-奈飞门槛又高了?win10-下客户端和浏览器都不能打开](https://www.v2ex.com/t/709535) 
-- [2020-09-22-Coding-Pages-自定义域名不能任性使用了](https://www.v2ex.com/t/709533) 
-- [2020-09-22-需要给-Windows-XP-SP3-里面的-IE6-增加直接在浏览器预览-PDF-的-OCX-或-ActiveX-控件/软件，有什么推荐的？](https://www.v2ex.com/t/709532) 

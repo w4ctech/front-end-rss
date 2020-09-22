@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-09-22 04:49:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 05:03:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-22-请教这道算法题的思路：一串数字，一次只能将一个任意位置的数字放到最左或最右的位置，求需要几次能将这串数字改为升序的？](https://www.v2ex.com/t/709372) 
+- [2020-09-22-这种登录方式，如何获取登录态？或者用-js-模拟登录```http://admin:admin@127.0.0.1/```](https://www.v2ex.com/t/709371) 
+- [2020-09-22-这样一个-user-表是该怎么做索引呢](https://www.v2ex.com/t/709370) 
+- [2020-09-22-Safari-14.0-+-EasyConnect-7_6_7_3-异常](https://www.v2ex.com/t/709369) 
+- [2020-09-22-iPhone-7P-，-iOS-14，相机不能用，麦克风不能用，有同样故障的吗？](https://www.v2ex.com/t/709368) 
 - [2020-09-22-Mac-上-shift-+-command-+-option-+-w-这几个快捷键一起按屏幕会闪一下](https://www.v2ex.com/t/709367) 
 - [2020-09-22-想补补正则表达式有什么推荐的吗？](https://www.v2ex.com/t/709366) 
 - [2020-09-22-阿里巴巴-Daraz-招聘](https://www.v2ex.com/t/709364) 
@@ -45,7 +50,3 @@
 - [2020-09-22-VBox-运行-Linux-虚拟机是不是不如-Vmware-性能高？](https://www.v2ex.com/t/709326) 
 - [2020-09-22-未来技术赛道-阿里达摩院诚征前端](https://www.v2ex.com/t/709325) 
 - [2020-09-22-wsl2-如果实现-Linux-访问-windows-下的-localhost-端口](https://www.v2ex.com/t/709324) 
-- [2020-09-22-升级到-iOS14-后，-macos-10.15-隔空投送用不了](https://www.v2ex.com/t/709321) 
-- [2020-09-22-MacOS-的电池健康管理功能](https://www.v2ex.com/t/709320) 
-- [2020-09-22-Gsuite-免费版扩容问题](https://www.v2ex.com/t/709319) 
-- [2020-09-22-0922-macos-的公共测试版现在是什么版本号](https://www.v2ex.com/t/709318) 

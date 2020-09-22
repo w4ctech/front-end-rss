@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 19:03:27，:rocket: 更新条数: +3656， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 19:11:50，:rocket: 更新条数: +3656， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1148,16 +1148,16 @@
 - [2020-09-22-Python-之父为什么嫌弃-lambda-匿名函数？](https://toutiao.io/k/tvchzyj) ![](assets/new.png)  
 - [2020-09-22-MySQL-蜜罐获取攻击者微信-ID](https://toutiao.io/k/zuvjolr) ![](assets/new.png)  
 - [2020-09-22-如何评估机器学习模型的性能](https://toutiao.io/k/ukuiwga) ![](assets/new.png)  
-- [2020-09-22-上市公司-CTO-邀请你加入「码农周刊-VIP-会员」](https://toutiao.io/k/2j3oyu6) ![](assets/new.png)  
 - [2020-09-22-Kotlin-协程和-Android-SQLite-API-中的线程模型](https://toutiao.io/k/44j29de) ![](assets/new.png)  
+- [2020-09-22-上市公司-CTO-邀请你加入「码农周刊-VIP-会员」](https://toutiao.io/k/2j3oyu6) ![](assets/new.png)  
 - [2020-09-22-在-Go-语言中，我为什么使用接口](https://toutiao.io/k/4m37thx) ![](assets/new.png)  
 - [2020-09-22-爱奇艺全链路压测探索与实践](https://toutiao.io/k/kzyyyik) ![](assets/new.png)  
 - [2020-09-22-读者说我的代码有内存泄漏的风险](https://toutiao.io/k/ho5xcgm) ![](assets/new.png)  
 - [2020-09-22-译-揭开数字身份的神秘面纱](https://toutiao.io/k/mfkyhey) ![](assets/new.png)  
 - [2020-09-22-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) ![](assets/new.png)  
 - [2020-09-22-Vue-打包体积优化神器-Gzip-你还不会吗？](https://toutiao.io/k/l85s1u2) ![](assets/new.png)  
-- [2020-09-22-Elasticsearch，-你值得拥有：云栖大会-Elasticsearch-场景化应用全景回顾](https://toutiao.io/k/ohuypgf) ![](assets/new.png)  
 - [2020-09-22-王菲-k-歌又上微博热搜，Python-分析下微博网友评论](https://toutiao.io/k/zy75w0r) ![](assets/new.png)  
+- [2020-09-22-Elasticsearch，-你值得拥有：云栖大会-Elasticsearch-场景化应用全景回顾](https://toutiao.io/k/ohuypgf) ![](assets/new.png)  
 - [2020-09-22-程序员修神之路：谈了千百遍的缓存数据的一致性问题](https://toutiao.io/k/c0jgtqv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

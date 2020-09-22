@@ -17920,13 +17920,13 @@
         "date": "2020-09-22"
       },
       {
-        "title": "上市公司 CTO 邀请你加入「码农周刊 VIP 会员」",
-        "link": "https://toutiao.io/k/2j3oyu6",
+        "title": "Kotlin 协程和 Android SQLite API 中的线程模型",
+        "link": "https://toutiao.io/k/44j29de",
         "date": "2020-09-22"
       },
       {
-        "title": "Kotlin 协程和 Android SQLite API 中的线程模型",
-        "link": "https://toutiao.io/k/44j29de",
+        "title": "上市公司 CTO 邀请你加入「码农周刊 VIP 会员」",
+        "link": "https://toutiao.io/k/2j3oyu6",
         "date": "2020-09-22"
       },
       {
@@ -17960,13 +17960,13 @@
         "date": "2020-09-22"
       },
       {
-        "title": "Elasticsearch， 你值得拥有：云栖大会 Elasticsearch 场景化应用全景回顾",
-        "link": "https://toutiao.io/k/ohuypgf",
+        "title": "王菲 k 歌又上微博热搜，Python 分析下微博网友评论",
+        "link": "https://toutiao.io/k/zy75w0r",
         "date": "2020-09-22"
       },
       {
-        "title": "王菲 k 歌又上微博热搜，Python 分析下微博网友评论",
-        "link": "https://toutiao.io/k/zy75w0r",
+        "title": "Elasticsearch， 你值得拥有：云栖大会 Elasticsearch 场景化应用全景回顾",
+        "link": "https://toutiao.io/k/ohuypgf",
         "date": "2020-09-22"
       },
       {
@@ -17975,53 +17975,18 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 硬核看房利器：Web 全景的实现",
-        "link": "https://toutiao.io/k/ihkuhms",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-22"
       },
       {
@@ -18030,13 +17995,8 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
         "date": "2020-09-22"
       },
       {
@@ -18045,8 +18005,48 @@
         "date": "2020-09-22"
       },
       {
-        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
-        "link": "https://toutiao.io/k/xzcx65d",
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
+        "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
+        "link": "https://toutiao.io/k/tyygn3e",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
+        "link": "https://toutiao.io/k/dcmvw72",
         "date": "2020-09-22"
       }
     ]

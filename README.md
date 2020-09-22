@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 01:02:16，:rocket: 更新条数: +3636， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 01:08:53，:rocket: 更新条数: +3638， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,10 @@
 </summary>
 
 
+- [2020-09-22-玩个文明-6-开最低画面竟然把屏幕给烧了。。。](https://www.v2ex.com/t/709248) ![](assets/new.png)  
+- [2020-09-22-小米音箱是不是在偷偷把我家里的录音传到小米的服务器里？](https://www.v2ex.com/t/709247) ![](assets/new.png)  
+- [2020-09-22-挨着高铁轨道-200m-的房子，噪音和震动感大吗？](https://www.v2ex.com/t/709246) ![](assets/new.png)  
+- [2020-09-22-阿里做到了阿里云的系统层/应用层-技术独立吗?](https://www.v2ex.com/t/709245) ![](assets/new.png)  
 - [2020-09-22-各位在实际开发过程中，有用到构件相关的技术么?](https://www.v2ex.com/t/709244) ![](assets/new.png)  
 - [2020-09-22-Macbook-pro-2018-合盖使用-wifi-性能极度下降](https://www.v2ex.com/t/709242) ![](assets/new.png)  
 - [2020-09-22-自己写的-windows-程序如何独占扬声器（播放音乐时其他程序正在播放的音乐自动暂时无声）？](https://www.v2ex.com/t/709241) ![](assets/new.png)  
@@ -1093,10 +1097,6 @@
 - [2020-09-21-QQ-远程给朋友电脑改了下分辨率然后无限黑屏](https://www.v2ex.com/t/709226) ![](assets/new.png)  
 - [2020-09-21-大家来分享一下程序员间的笑话吧](https://www.v2ex.com/t/709225) ![](assets/new.png)  
 - [2020-09-21-免费应用如何挣钱？](https://www.v2ex.com/t/709224) ![](assets/new.png)  
-- [2020-09-21-吐槽一下-Y9000X](https://www.v2ex.com/t/709223) ![](assets/new.png)  
-- [2020-09-21-如何预防痴呆](https://www.v2ex.com/t/709221) ![](assets/new.png)  
-- [2020-09-21-mongoose-聚合管道查询，-list-中的子对象如何关联？](https://www.v2ex.com/t/709220) ![](assets/new.png)  
-- [2020-09-21-20200922-午夜俱乐部](https://www.v2ex.com/t/709219) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1147,18 +1147,18 @@
 - [2020-09-22-MySQL-蜜罐获取攻击者微信-ID](https://toutiao.io/k/zuvjolr) ![](assets/new.png)  
 - [2020-09-22-上市公司-CTO-邀请你加入「码农周刊-VIP-会员」](https://toutiao.io/k/2j3oyu6) ![](assets/new.png)  
 - [2020-09-22-Kotlin-协程和-Android-SQLite-API-中的线程模型](https://toutiao.io/k/44j29de) ![](assets/new.png)  
-- [2020-09-22-前端插件化架构的探索和实践](https://toutiao.io/k/nul54or) ![](assets/new.png)  
 - [2020-09-22-如何评估机器学习模型的性能](https://toutiao.io/k/ukuiwga) ![](assets/new.png)  
-- [2020-09-22-推荐-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
-- [2020-09-22-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-22-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
-- [2020-09-22-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
-- [2020-09-22-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-22-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-22-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-22-前端插件化架构的探索和实践](https://toutiao.io/k/nul54or) ![](assets/new.png)  
 - [2020-09-22-推荐-试用了-2000-多个拓展，最后只留下了这-50-个](https://toutiao.io/k/1yhz4eh) ![](assets/new.png)  
-- [2020-09-22-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
+- [2020-09-22-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-22-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-22-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
+- [2020-09-22-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
+- [2020-09-22-推荐-史诗级-Java-低时延调优案例（一）](https://toutiao.io/k/ywhve25) ![](assets/new.png)  
+- [2020-09-22-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
 - [2020-09-22-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-22-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
+- [2020-09-22-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

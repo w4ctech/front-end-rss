@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 16:36:47，:rocket: 更新条数: +3656， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 16:47:17，:rocket: 更新条数: +3656， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-22-是否有子进/线程对主线程队列进行操作的方法？以及回调函数范围的问题。。。](https://www.v2ex.com/t/709593) ![](assets/new.png)  
 - [2020-09-22-笔试要求开摄像头-是把考试过程完整录下来上传吗](https://www.v2ex.com/t/709592) ![](assets/new.png)  
 - [2020-09-22-如果你在你的公司是阿里云或腾讯云管理者或者在这些服务商采购者，进来看看](https://www.v2ex.com/t/709590) ![](assets/new.png)  
 - [2020-09-22-想做浴室和厨房的翻新，线上怎么推广](https://www.v2ex.com/t/709589) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-22-请教关于-Python-多线程下载器问题](https://www.v2ex.com/t/709571) ![](assets/new.png)  
 - [2020-09-22-开个帖子，专门写（-Python-）bug-代码。仅供娱-mai-乐-lei（参考）；应该会不定期更新在评论区](https://www.v2ex.com/t/709570) ![](assets/new.png)  
 - [2020-09-22-2020-年不知不觉度过这么多了，大家-2020-年上半年过得如何？](https://www.v2ex.com/t/709569) ![](assets/new.png)  
-- [2020-09-22-无聊写了一个小米网盘服务的命令行终端](https://www.v2ex.com/t/709568) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

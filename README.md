@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-22 02:03:54，:rocket: 更新条数: +3420， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-22 02:13:50，:rocket: 更新条数: +3420， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-22-请问-mac-端有类似微软的-WhiteBoard-软件吗？](https://www.v2ex.com/t/709278) ![](assets/new.png)  
+- [2020-09-22-颈椎腰椎都不太好，有没有每隔一小时提醒站立的-PC-应用？](https://www.v2ex.com/t/709277) ![](assets/new.png)  
 - [2020-09-22-看了一个帖子，有一些想法，或许也是最近的心理矛盾吧](https://www.v2ex.com/t/709275) ![](assets/new.png)  
 - [2020-09-22-怎么感觉突然没有-iPhone-12-的消息了，等的人好忧愁啊](https://www.v2ex.com/t/709274) ![](assets/new.png)  
 - [2020-09-22-小明小红是同学，小红老张是父女，则判断小明老张有关联，要如何实现这种数据结构](https://www.v2ex.com/t/709273) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-22-终于可以开通电信的蜂窝数据了](https://www.v2ex.com/t/709256) ![](assets/new.png)  
 - [2020-09-22-700+天断签了…](https://www.v2ex.com/t/709255) ![](assets/new.png)  
 - [2020-09-22-Google-面试题：数据流中位数（力扣没找到）](https://www.v2ex.com/t/709254) ![](assets/new.png)  
-- [2020-09-22-前几天把-mbp16-重启了一下，现在打开任何程序都奇慢无比](https://www.v2ex.com/t/709252) ![](assets/new.png)  
-- [2020-09-22-各位用-7/7P/8/8P-的小伙伴们，你们有想换-12-的打算吗](https://www.v2ex.com/t/709250) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,19 +1126,19 @@
 - [2020-09-22-译-仅用-18-行-JavaScript-构建一个倒数计时器](https://toutiao.io/k/qijww23) ![](assets/new.png)  
 - [2020-09-22-MySQL-蜜罐获取攻击者微信-ID](https://toutiao.io/k/zuvjolr) ![](assets/new.png)  
 - [2020-09-22-如何评估机器学习模型的性能](https://toutiao.io/k/ukuiwga) ![](assets/new.png)  
+- [2020-09-22-前端插件化架构的探索和实践](https://toutiao.io/k/nul54or) ![](assets/new.png)  
 - [2020-09-22-Kotlin-协程和-Android-SQLite-API-中的线程模型](https://toutiao.io/k/44j29de) ![](assets/new.png)  
 - [2020-09-22-上市公司-CTO-邀请你加入「码农周刊-VIP-会员」](https://toutiao.io/k/2j3oyu6) ![](assets/new.png)  
-- [2020-09-22-前端插件化架构的探索和实践](https://toutiao.io/k/nul54or) ![](assets/new.png)  
-- [2020-09-22-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
 - [2020-09-22-在-Go-语言中，我为什么使用接口](https://toutiao.io/k/4m37thx) ![](assets/new.png)  
+- [2020-09-22-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
 - [2020-09-22-译-揭开数字身份的神秘面纱](https://toutiao.io/k/mfkyhey) ![](assets/new.png)  
 - [2020-09-22-爱奇艺全链路压测探索与实践](https://toutiao.io/k/kzyyyik) ![](assets/new.png)  
 - [2020-09-22-读者说我的代码有内存泄漏的风险](https://toutiao.io/k/ho5xcgm) ![](assets/new.png)  
-- [2020-09-22-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-22-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-22-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-22-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-22-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
 - [2020-09-22-推荐-Golang-汇编入门知识总结](https://toutiao.io/k/hol28ow) ![](assets/new.png)  
-- [2020-09-22-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
-- [2020-09-22-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
+- [2020-09-22-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

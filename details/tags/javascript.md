@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-22 06:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-22 06:28:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -103,5 +103,3 @@
 - [2020-09-22-js-的变量提升方面的问题求解](https://www.v2ex.com/t/709387) 
 - [2020-09-22-这种登录方式，如何获取登录态？或者用-js-模拟登录```http://admin:admin@127.0.0.1/```](https://www.v2ex.com/t/709371) 
 - [2020-09-22-想补补正则表达式有什么推荐的吗？](https://www.v2ex.com/t/709366) 
-- [2020-09-22-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
-- [2020-09-22-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

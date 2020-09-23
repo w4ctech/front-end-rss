@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-23 15:34:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 15:47:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-23-迅雷不能免登录下载-jdk-了？？](https://www.v2ex.com/t/709937) 
+- [2020-09-23-使用-Apple-Configurator2-安装的-App-提示要登陆-Apple-ID](https://www.v2ex.com/t/709936) 
 - [2020-09-23-ES2020-引入的“链判断运算符”?.-是借鉴-Angular-的安全导航运算符-吗](https://www.v2ex.com/t/709935) 
 - [2020-09-23-被第三方修过的-Macbook-还能到天才吧免费换电池吗？](https://www.v2ex.com/t/709934) 
 - [2020-09-23-出个闲置总是报-403-是什么情况？？](https://www.v2ex.com/t/709933) 
@@ -46,5 +48,3 @@
 - [2020-09-23-杭州-WebGL-开发/产品经理/C++/Unity-开发/WebGL-开发](https://www.v2ex.com/t/709892) 
 - [2020-09-23-与其抵制加班，不如想办法解决问题](https://www.v2ex.com/t/709890) 
 - [2020-09-23-华为要推商用笔记本和-ITX-商用主机了](https://www.v2ex.com/t/709888) 
-- [2020-09-23-请问现在-stacksocial-还有邀请链接吗？](https://www.v2ex.com/t/709887) 
-- [2020-09-23-GDB-Android-ADB-Shell-远程调试-C++程序问题](https://www.v2ex.com/t/709886) 

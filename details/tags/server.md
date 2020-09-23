@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 15:34:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 15:47:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -8,6 +8,5 @@
 
 
 - [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) 
-- [2020-09-23-Richardson成熟度模型-–-RESTful-层级](https://juejin.im/post/6875700132621484046) 
 - [2020-09-23-技术分享之-gRPC-的那些事儿（上）](https://toutiao.io/k/kyt7d86) 
 - [2020-09-23-Presto-系列：Presto-基本介绍](https://toutiao.io/k/b1zj0l3) 

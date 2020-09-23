@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 17:22:45，:rocket: 更新条数: +3435， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 17:32:17，:rocket: 更新条数: +3435， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-23-肯尼亚召回教师-关闭数月后学校即将重开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiunlAfSjSIZr1bR5htkWC200923&isfromapp=1) ![](assets/new.png)  
+- [2020-09-23-巴西马瑙斯可能已经群体免疫？科学家提醒人们仍要保持警惕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZptduzDhMrusntX6Hv6w200923&isfromapp=1) ![](assets/new.png)  
+- [2020-09-23-​国际劳工组织：新冠肺炎疫情导致全球劳动力收入大幅下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHKIjessUBkP3voz8Ub8g200923&isfromapp=1) ![](assets/new.png)  
 - [2020-09-23-外交部、国家移民局：9月28日起允许持三类有效居留许可外国人入境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXwpdvOSpo5PoaTRTXvti200923&isfromapp=1) ![](assets/new.png)  
 - [2020-09-23-香港新增新冠肺炎确诊病例3例，累计确诊5050例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQU1FqrQlbtLsu6Gwavex200923&isfromapp=1) ![](assets/new.png)  
-- [2020-09-23-德国新冠肺炎确诊病例累计达275927例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioHBIdIQIp1JkSvEaT1Hz200923&isfromapp=1) ![](assets/new.png)  
-- [2020-09-23-希腊73所学校因发现疫情而停课，首都雅典成“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirOQMUkLq7IV1RXvRM8u5200923&isfromapp=1) ![](assets/new.png)  
-- [2020-09-23-世卫科学家：中国新冠疫苗已被证明有效](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti23LmwNJc53ZR3xWi0zMu200923&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-23-困扰已久的问题，-QQ-音乐下载的-flac-格式音乐的专辑封面在哪里？](https://www.v2ex.com/t/709946) ![](assets/new.png)  
 - [2020-09-23-iPad-连接之前钥匙串中的-wifi-提示密码错误](https://www.v2ex.com/t/709945) ![](assets/new.png)  
 - [2020-09-23-续-家中电场强度很高的调查结果](https://www.v2ex.com/t/709944) ![](assets/new.png)  
 - [2020-09-23-出了在-mac-端打开钥匙串-还有没有别的方法可以看到钥匙串中的-wifi-密码](https://www.v2ex.com/t/709943) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-23-黑苹果-macos-10.12.6-过时了吗，需要倒腾-10.14-或者-10.15-吗。自己用的是大佬的-efi。](https://www.v2ex.com/t/709927) ![](assets/new.png)  
 - [2020-09-23-已经回三线城市，还想再去一线城市，有必要吗？](https://www.v2ex.com/t/709926) ![](assets/new.png)  
 - [2020-09-23-更新-beta-版后，在外接键盘上切换大写后，内置键盘大小写指示灯不亮](https://www.v2ex.com/t/709925) ![](assets/new.png)  
-- [2020-09-23-iOS-上的闲鱼-App-为什么这么卡？](https://www.v2ex.com/t/709923) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

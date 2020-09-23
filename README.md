@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 18:36:01，:rocket: 更新条数: +3435， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 18:47:25，:rocket: 更新条数: +3435， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-23-半夜拨号不小心拨错了电话-次日发短信致歉有无必要](https://www.v2ex.com/t/709949) ![](assets/new.png)  
 - [2020-09-23-如何能让-VMware-Fusion-像-ESXi-或者-VPS-一样无显示器运行-Windows-虚拟机？](https://www.v2ex.com/t/709948) ![](assets/new.png)  
 - [2020-09-23-请教各位大佬-如何设置-nginx-可使不存在的二级地址跳转到存在的二级地址上](https://www.v2ex.com/t/709947) ![](assets/new.png)  
 - [2020-09-23-困扰已久的问题，-QQ-音乐下载的-flac-格式音乐的专辑封面在哪里？](https://www.v2ex.com/t/709946) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-23-有啥免费好用的自媒体平台同步软件推荐呢？](https://www.v2ex.com/t/709930) ![](assets/new.png)  
 - [2020-09-23-朋友入职一家小外企代表处被骗兼裁员了怎么办？](https://www.v2ex.com/t/709929) ![](assets/new.png)  
 - [2020-09-23-杭州便宜的办公工位推荐](https://www.v2ex.com/t/709928) ![](assets/new.png)  
-- [2020-09-23-黑苹果-macos-10.12.6-过时了吗，需要倒腾-10.14-或者-10.15-吗。自己用的是大佬的-efi。](https://www.v2ex.com/t/709927) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

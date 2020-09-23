@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 00:07:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 00:33:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,7 @@
 - [2020-09-23-kotlin-如何解决-java-开发痛点，让程序员-happier-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-23-Angular-10-正式发布，不再支持-IE9/10！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13782&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9Bs3jZMOQxKfLPq2PWw6gw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-23-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) 
+- [2020-09-23-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-22-2000元海底捞卡&乐高钢铁侠头盔,安全范儿沙龙!有范儿!](https://sec.thief.one/article_content?a_id=e135f5e896787ada579dd8324790fe35) 
 - [2020-09-22-5G安全建设怎么搞?绿盟-MagicFlow-来帮忙](https://sec.thief.one/article_content?a_id=989c4913a55e6c42b74473e5127128d2) 
 - [2020-09-22-【安全风险通告】WebSphere-Application-Server-XXE漏洞安全风险通告](https://sec.thief.one/article_content?a_id=fda924f319c4276b91102149a12149b0) 

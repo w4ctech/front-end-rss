@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 14:03:49，:rocket: 更新条数: +3435， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 14:13:56，:rocket: 更新条数: +3435， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-23-更新-beta-版后，在外接键盘上切换大写后，内置键盘大小写指示灯不亮](https://www.v2ex.com/t/709925) ![](assets/new.png)  
 - [2020-09-23-iOS-上的闲鱼-App-为什么这么卡？](https://www.v2ex.com/t/709923) ![](assets/new.png)  
 - [2020-09-23-校招-offer，求比较](https://www.v2ex.com/t/709922) ![](assets/new.png)  
 - [2020-09-23-想问一个各位大牛技术问题，这个操作用-java8-分组怎么做？](https://www.v2ex.com/t/709921) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-23-发现一个挺好的网站](https://www.v2ex.com/t/709905) ![](assets/new.png)  
 - [2020-09-23-你觉得做程序员是个重复造轮子的工作吗？](https://www.v2ex.com/t/709904) ![](assets/new.png)  
 - [2020-09-23-服务端响应-Cache-Control-主机头的值为-no-cache-时，缓存机制是怎么样的？](https://www.v2ex.com/t/709903) ![](assets/new.png)  
-- [2020-09-23-谷歌网盘-elasticsearch-搜索引擎-前端源码](https://www.v2ex.com/t/709902) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

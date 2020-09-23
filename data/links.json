@@ -13255,33 +13255,7 @@
     "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "德国新冠肺炎确诊病例累计达275927例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioHBIdIQIp1JkSvEaT1Hz200923&isfromapp=1",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "希腊73所学校因发现疫情而停课，首都雅典成“重灾区”",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirOQMUkLq7IV1RXvRM8u5200923&isfromapp=1",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "世卫科学家：中国新冠疫苗已被证明有效",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti23LmwNJc53ZR3xWi0zMu200923&isfromapp=1",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "福建省新型冠状病毒肺炎疫情情况",
-        "link": "http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202009/t20200923_5394927.htm",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "截至9月22日24时新型冠状病毒肺炎疫情最新情况",
-        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/415760.jhtml",
-        "date": "2020-09-23"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",

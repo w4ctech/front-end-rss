@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-23 16:03:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 16:13:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -335,7 +335,6 @@
 
 - [【V2EX】想要搭建个论坛？-Guide-哥调研了-100-来个-Java-开源论坛系统，发现这-5-个最好用！](https://www.v2ex.com/t/709899)
 - [【V2EX】杭州-招聘-WebGL-开发/产品经理/C++/Unity-开发](https://www.v2ex.com/t/709895)
-- [【V2EX】杭州-WebGL-开发/产品经理/C++/Unity-开发/WebGL-开发](https://www.v2ex.com/t/709892)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -502,6 +501,7 @@
 - [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【互联网架构师】GitHub上最励志的计算机自学教程，绝对牛B](https://www.ershicimi.com/p/a3a31e96c60c3e1e44882f7edc1b12a2)
+- [【掘金前端】Gridea+GithubPages+godaddy+gitalk个人博客配置](https://juejin.im/post/6875674355452346381)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [......【查看更多】......](./details/tags/git-svn.md)

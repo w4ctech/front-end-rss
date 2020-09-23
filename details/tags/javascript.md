@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 13:23:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 13:32:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -130,6 +130,7 @@
 - [2020-09-23-各位大佬，-axios-异步请求，回调函数获取全局变量为空，怎么解决这个问题啊？](https://www.v2ex.com/t/709907) 
 - [2020-09-23-工具-|-一款功能强大，开源免费的-H5-可视化页面配置解决方案](https://toutiao.io/k/6phg7i3) 
 - [2020-09-23-踩坑记：Flink-事件时间语义下数据乱序丢数](https://toutiao.io/k/onar5z2) 
+- [2020-09-23-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-23-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
 - [2020-09-23-信创适配率先破百-奇安信可信浏览器成政企办公“枢纽”](https://sec.thief.one/article_content?a_id=c6e0f42f63047f0977c3e434456a64e8) 
 - [2020-09-21-Fastjson历史漏洞研究二](https://sec.thief.one/article_content?a_id=e131422d73295bffd3f545b648d038b3) 

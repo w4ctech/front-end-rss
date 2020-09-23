@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 04:13:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 04:25:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -78,3 +78,4 @@
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2020-09-22-一文看懂Vue中的computed和watch](https://juejin.im/post/6875329646485831688) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-07-25-vue-router-能分割网址中#之后的部分吗？](https://www.v2ex.com/t/693079) 

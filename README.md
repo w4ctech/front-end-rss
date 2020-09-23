@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 06:27:44，:rocket: 更新条数: +3653， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 06:33:55，:rocket: 更新条数: +3429， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-23-德国新冠肺炎确诊病例累计达275927例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioHBIdIQIp1JkSvEaT1Hz200923&isfromapp=1) ![](assets/new.png)  
 - [2020-09-23-希腊73所学校因发现疫情而停课，首都雅典成“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirOQMUkLq7IV1RXvRM8u5200923&isfromapp=1) ![](assets/new.png)  
 - [2020-09-23-世卫科学家：中国新冠疫苗已被证明有效](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti23LmwNJc53ZR3xWi0zMu200923&isfromapp=1) ![](assets/new.png)  
 - [2020-09-23-福建省新型冠状病毒肺炎疫情情况](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202009/t20200923_5394927.htm) ![](assets/new.png)  
 - [2020-09-23-截至9月22日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/415760.jhtml) ![](assets/new.png)  
-- [2020-09-22-哥伦比亚疫情持续扩散，首都波哥大进一步放松防疫管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00cV8IUayKcfK3nSTYwy200923&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,7 +947,7 @@
 </summary>
 
 
-- [2020-09-22-Webpack系列-提取公共资源](https://juejin.im/post/6875512935662551047) ![](assets/new.png)  
+- [2020-09-22-TS与国际化文件的一些实践与思考](https://juejin.im/post/6875525519019491341) ![](assets/new.png)  
 - [2020-09-22-umi中后台项目实践](https://juejin.im/post/6875511961312821255) ![](assets/new.png)  
 - [2020-09-22-整理：实例，构造函数，原型对象，原型链，js指针，prototype和__proto__需要反复记忆的公式](https://juejin.im/post/6875506816759889927) ![](assets/new.png)  
 - [2020-09-22-使用verdaccio搭建npm私服](https://juejin.im/post/6875502804618706952) ![](assets/new.png)  
@@ -1077,6 +1057,11 @@
 </summary>
 
 
+- [2020-09-23-分享一个情侣头像小程序，欢迎体验、拍砖](https://www.v2ex.com/t/709766) ![](assets/new.png)  
+- [2020-09-23-在-PowerShell-中如何快速回到上次命令输入的位置？](https://www.v2ex.com/t/709765) ![](assets/new.png)  
+- [2020-09-23-前端操作数据库的思考](https://www.v2ex.com/t/709764) ![](assets/new.png)  
+- [2020-09-23-请教大家一个关于-golang-channel-的问题，一个有缓存的-channel-,当里面的数据被接收完了之后，又没有其他线程往里面写数据，那么这时候是否会发生阻塞呢？](https://www.v2ex.com/t/709763) ![](assets/new.png)  
+- [2020-09-23-macos-catalina-10.15.6-上-qq-和微信无法使用搜狗拼音输入法](https://www.v2ex.com/t/709762) ![](assets/new.png)  
 - [2020-09-23-有没有使用-visual-studio-2017/2019-的兄弟姐妹，插件的设置能够保存么？](https://www.v2ex.com/t/709761) ![](assets/new.png)  
 - [2020-09-23-Apple-Watch-6-今天收到了，但是-Apple-宣传片里的全天候高度计表盘我没有？](https://www.v2ex.com/t/709760) ![](assets/new.png)  
 - [2020-09-23-手机充电口沾水，就会提示检测到水，充电暂停。是怎么检测到水，又是怎么暂停充电的？](https://www.v2ex.com/t/709759) ![](assets/new.png)  
@@ -1092,11 +1077,6 @@
 - [2020-09-23-求类似石墨、腾讯文档这种能在线编辑的-web-开源项目](https://www.v2ex.com/t/709747) ![](assets/new.png)  
 - [2020-09-23-刚买了一个-4T*4-的-NAS，求一个-PT-邀请。](https://www.v2ex.com/t/709746) ![](assets/new.png)  
 - [2020-09-23-mysql-的老问题-字符集设置](https://www.v2ex.com/t/709745) ![](assets/new.png)  
-- [2020-09-23-当你们失意的时候，是如何安慰自己的？](https://www.v2ex.com/t/709743) ![](assets/new.png)  
-- [2020-09-23-Java-字段监控执行事件](https://www.v2ex.com/t/709741) ![](assets/new.png)  
-- [2020-09-23-如何查看-mbp-的重装系统安装时间](https://www.v2ex.com/t/709740) ![](assets/new.png)  
-- [2020-09-23-华为校招资源池这个操作太迷了...](https://www.v2ex.com/t/709738) ![](assets/new.png)  
-- [2020-09-23-RTX3080-抢购脚本](https://www.v2ex.com/t/709737) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

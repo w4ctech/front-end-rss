@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 03:24:50，:rocket: 更新条数: +3437， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 03:32:32，:rocket: 更新条数: +3662， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +967,11 @@
 </summary>
 
 
+- [2020-09-22-浅析-vue-router-源码和动态路由权限分配](https://juejin.im/post/6875293176668782606) ![](assets/new.png)  
+- [2020-09-22-Javascript异步与同步详解](https://juejin.im/post/6875290811823554568) ![](assets/new.png)  
 - [2020-09-22-npm-超详细教程](https://juejin.im/post/6875271902269538312) ![](assets/new.png)  
 - [2020-09-22-构建前端代码预提交检查Husky、Lint-staged](https://juejin.im/post/6875267044678303757) ![](assets/new.png)  
 - [2020-09-22-如何用CSS实现一个带尖角的框？](https://juejin.im/post/6875262717717020685) ![](assets/new.png)  
-- [2020-09-22-原生html实现一个mini-react-router](https://juejin.im/post/6875262564209524749) ![](assets/new.png)  
-- [2020-09-22-js-数值精度损耗之-IEEE-754-浮点数](https://juejin.im/post/6875257293257048078) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,12 @@
 </summary>
 
 
+- [2020-09-23-貌似我使用热水器的方式一直是错的。](https://www.v2ex.com/t/709704) ![](assets/new.png)  
+- [2020-09-23-11-代-NUC，-PCIE4.0-+-雷电-4-+-双-2.5G-网口](https://www.v2ex.com/t/709703) ![](assets/new.png)  
+- [2020-09-23-急等大佬回复！服务器-CPU-和内存被小偷抠了，硬盘还在，是-RAID5，可以有办法先把数据恢复出来吗？？](https://www.v2ex.com/t/709702) ![](assets/new.png)  
+- [2020-09-23-多设备呼叫-siri-冲突](https://www.v2ex.com/t/709700) ![](assets/new.png)  
+- [2020-09-23-怎么样从-apk-中还原出打包时用到的-keystore-文件](https://www.v2ex.com/t/709699) ![](assets/new.png)  
+- [2020-09-23-微博网页版改版了](https://www.v2ex.com/t/709698) ![](assets/new.png)  
 - [2020-09-23-QQ-安全中心绑定的两个-QQ-遭遇被清空情况](https://www.v2ex.com/t/709697) ![](assets/new.png)  
 - [2020-09-23-朋友问的前后端分离问题，你们怎么看？](https://www.v2ex.com/t/709696) ![](assets/new.png)  
 - [2020-09-23-大佬们怎么用正则定位到-这样的内容-XXXXXX-:-8](https://www.v2ex.com/t/709695) ![](assets/new.png)  
@@ -1071,12 +1097,6 @@
 - [2020-09-23-11-pro-max-升级-iOS14-电池健康大幅降低](https://www.v2ex.com/t/709686) ![](assets/new.png)  
 - [2020-09-23-nginx-proxy_pass-upstream-长连接-动态变量](https://www.v2ex.com/t/709685) ![](assets/new.png)  
 - [2020-09-23-iOS14-升级后，“无线局域网助理”这个功能会重新打开，没有大流量无限套餐的你们赶紧关了！](https://www.v2ex.com/t/709683) ![](assets/new.png)  
-- [2020-09-23-有没有人给科普下-bras-到光猫一路下来所经过的设备？](https://www.v2ex.com/t/709682) ![](assets/new.png)  
-- [2020-09-23-TPlink-商用路由器，有一个云管理平台。家庭-POE-AC+AP-时值得用吗？](https://www.v2ex.com/t/709681) ![](assets/new.png)  
-- [2020-09-23-求推荐有线耳机](https://www.v2ex.com/t/709680) ![](assets/new.png)  
-- [2020-09-23-额，又造了一个二次认证的轮子，看能否解决你的痛点，欢迎试用拍砖](https://www.v2ex.com/t/709679) ![](assets/new.png)  
-- [2020-09-23-下班回家闲下来就全身乏力，坐一会连起身都觉得累，几年了，于是我现在把自己安排得一刻也没停下来.....](https://www.v2ex.com/t/709678) ![](assets/new.png)  
-- [2020-09-23-北京有什么物业比较好？](https://www.v2ex.com/t/709677) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,6 +1108,7 @@
 </summary>
 
 
+- [2020-09-23-如何选择适合自己网站的防盗链-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13793&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F258380316%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-23-如何知道我们的E2E测试覆盖率？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13792&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-know-e2e-coverage%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-23-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-23-Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1107,7 +1128,6 @@
 - [2020-09-23-Let’s-Encrypt实践指北-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13776&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flets-encryp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-23-一页纸手把手教你怎么做敏捷项目管理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13775&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-23-一个输入框你要做一周？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13774&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fan-input-box%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-23-大数据项目中的QA需要迎接新的挑战-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13773&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fqa-in-big-data-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1137,8 +1157,8 @@
 - [2020-09-23-近万服务实例稳定运行-0-故障，携程微服务框架实践及思考](https://toutiao.io/k/lx80lt5) ![](assets/new.png)  
 - [2020-09-23-MySQL-同步监控不能光看延迟指标](https://toutiao.io/k/z58ljq9) ![](assets/new.png)  
 - [2020-09-23-Redis-核心原理和实践](https://toutiao.io/k/x7kg7sr) ![](assets/new.png)  
-- [2020-09-23-树莓派小车：轮子转起来](https://toutiao.io/k/nu6o5s6) ![](assets/new.png)  
 - [2020-09-23-踩坑记：Flink-事件时间语义下数据乱序丢数](https://toutiao.io/k/onar5z2) ![](assets/new.png)  
+- [2020-09-23-树莓派小车：轮子转起来](https://toutiao.io/k/nu6o5s6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

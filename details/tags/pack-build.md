@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 06:04:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 06:13:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -21,6 +21,5 @@
 - [2020-08-26-一篇文章构建你的-Node.js-知识体系](https://www.ershicimi.com/p/f1fb1a33a8919fc776903a2c25cf09d2) 
 - [2020-09-03-webpack-这么牛X，你还不会用？](https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1) 
 - [2020-09-22-Webpack系列-提取公共资源](https://juejin.im/post/6875512935662551047) 
-- [2020-09-22-静态网站自定义与构建（一——静态网站生成器对比](https://juejin.im/post/6875363703881990157) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-09-23-有用-ambari-的大佬吗，-yarn-时区在哪配置？](https://www.v2ex.com/t/709708) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-23 06:04:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 06:13:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 - [【Nodejs技术栈】一篇文章构建你的-Node.js-知识体系](https://www.ershicimi.com/p/f1fb1a33a8919fc776903a2c25cf09d2)
 - [【前端日刊】webpack-这么牛X，你还不会用？](https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1)
 - [【掘金前端】Webpack系列-提取公共资源](https://juejin.im/post/6875512935662551047)
-- [【掘金前端】静态网站自定义与构建（一——静态网站生成器对比](https://juejin.im/post/6875363703881990157)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【V2EX】有用-ambari-的大佬吗，-yarn-时区在哪配置？](https://www.v2ex.com/t/709708)
 - [......【查看更多】......](./details/tags/pack-build.md)
@@ -215,6 +214,7 @@
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【奇舞周刊】奇舞周刊第-364-期：小程序视角下同构方案思考](https://www.ershicimi.com/p/d9f7bae52064d258394b7f01ad3a7a36)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】小程序和-APP-的优劣势？](https://www.v2ex.com/t/709751)
 - [【V2EX】Python-小程序：看图猜谜语，打一个人物](https://www.v2ex.com/t/709718)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -398,6 +398,8 @@
 - [【前端迷】腾讯音乐移动端页面通用性能优化实践](https://www.ershicimi.com/p/951c47621be39d733c40f8453c62418b)
 - [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
 - [【前端瓶子君】腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/0dc883c40b3a91eda21efc54ba4b23f9)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】骚操作：不重启-JVM，如何替换掉已经加载的类？](https://www.ershicimi.com/p/58c7fa2d4632516c5c4438c5fcc93c70)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】有多少验证码系统针对无障碍进行有优化过](https://www.v2ex.com/t/709736)

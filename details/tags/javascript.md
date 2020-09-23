@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 06:04:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 06:13:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -78,6 +78,7 @@
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-09-20-Promise-你可能真的还没用明白（续集进阶版）](https://www.ershicimi.com/p/b657a0734cea645bdf7aa5e47b4eaf7f) 
 - [2020-09-14-谈谈-MySQL-的-JSON-数据类型操作](https://www.ershicimi.com/p/7beecef0113be070b25eaf2ec4284dcb) 
 - [2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b) 
@@ -89,6 +90,8 @@
 - [2020-09-05-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/6df8ec8f180d99efe64faf4d4c8dc6d3) 
 - [2020-09-04-玩转-CSS-变量](https://www.ershicimi.com/p/bdd8b63bd0d792fe265f3f929077dda8) 
 - [2020-09-01-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/ff3c43131acc2b4f5aa34bc2a1af2152) 
+- [2020-09-22-整理：实例，构造函数，原型对象，原型链，js指针，prototype和__proto__需要反复记忆的公式](https://juejin.im/post/6875506816759889927) 
+- [2020-09-22-还没查阅过-ECMAScript-规范？那就让我们一起来开始吧！](https://juejin.im/post/6875495659701534734) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -101,5 +104,5 @@
 - [2020-09-23-Java-字段监控执行事件](https://www.v2ex.com/t/709741) 
 - [2020-09-23-工具-|-一款功能强大，开源免费的-H5-可视化页面配置解决方案](https://toutiao.io/k/6phg7i3) 
 - [2020-09-23-踩坑记：Flink-事件时间语义下数据乱序丢数](https://toutiao.io/k/onar5z2) 
-- [2020-09-23-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
+- [2020-09-23-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-21-Fastjson历史漏洞研究二](https://sec.thief.one/article_content?a_id=e131422d73295bffd3f545b648d038b3) 

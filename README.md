@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 23:11:50，:rocket: 更新条数: +3432， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 23:23:06，:rocket: 更新条数: +3432， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-23-在座的各位，有是自由程序员的吗？](https://www.v2ex.com/t/709955) ![](assets/new.png)  
 - [2020-09-23-严重便秘-开塞露不怎么管用怎麽办？？](https://www.v2ex.com/t/709954) ![](assets/new.png)  
 - [2020-09-23-365-拼车差-5-人](https://www.v2ex.com/t/709952) ![](assets/new.png)  
 - [2020-09-23-什么情况，占用内存-2-个-G！-springboot-这么耗资源嘛](https://www.v2ex.com/t/709950) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-23-出个闲置总是报-403-是什么情况？？](https://www.v2ex.com/t/709933) ![](assets/new.png)  
 - [2020-09-23-问问看大伙们有持有虚拟币资产的吗](https://www.v2ex.com/t/709932) ![](assets/new.png)  
 - [2020-09-23-不懂就问，如何正确“改造”手上的旧手机，玩出-Geek-Style](https://www.v2ex.com/t/709931) ![](assets/new.png)  
-- [2020-09-23-有啥免费好用的自媒体平台同步软件推荐呢？](https://www.v2ex.com/t/709930) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

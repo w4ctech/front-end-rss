@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 07:04:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 07:12:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,13 +31,13 @@
 - [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-23-index.html-放在服务器上，浏览器输入地址链接是下载而不是打开](https://www.v2ex.com/t/709781) 
 - [2020-09-23-请教大家一个关于-golang-channel-的问题，一个有缓存的-channel-,当里面的数据被接收完了之后，又没有其他线程往里面写数据，那么这时候是否会发生阻塞呢？](https://www.v2ex.com/t/709763) 
 - [2020-09-23-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-23-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-23-kotlin-如何解决-java-开发痛点，让程序员-happier-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-23-Angular-10-正式发布，不再支持-IE9/10！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13782&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9Bs3jZMOQxKfLPq2PWw6gw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-23-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) 
-- [2020-09-23-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-22-2000元海底捞卡&乐高钢铁侠头盔,安全范儿沙龙!有范儿!](https://sec.thief.one/article_content?a_id=e135f5e896787ada579dd8324790fe35) 
 - [2020-09-22-5G安全建设怎么搞?绿盟-MagicFlow-来帮忙](https://sec.thief.one/article_content?a_id=989c4913a55e6c42b74473e5127128d2) 
 - [2020-09-22-【安全风险通告】WebSphere-Application-Server-XXE漏洞安全风险通告](https://sec.thief.one/article_content?a_id=fda924f319c4276b91102149a12149b0) 

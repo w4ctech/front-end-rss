@@ -16435,6 +16435,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "麻烦京东安卓应用的产品或程序小伙伴看一下，别乱学别人的垃圾行为，口碑建立不容易",
+        "link": "https://www.v2ex.com/t/709665",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "快手招人了！ [16 薪+] [北京 杭州 上海 深圳] HC 充足",
+        "link": "https://www.v2ex.com/t/709664",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[杭州] [内推直招] [分布式数据库] 蚂蚁集团旗下世界领先的分布式数据库 OceanBase 刚成立新公司，急聘多名前端工程师 P6~P8",
+        "link": "https://www.v2ex.com/t/709663",
+        "date": "2020-09-23"
+      },
+      {
         "title": "Winget 开始支持部分 Microsoft store 应用",
         "link": "https://www.v2ex.com/t/709661",
         "date": "2020-09-23"
@@ -16623,16 +16638,6 @@
         "title": "请求管理者删除此账号",
         "link": "https://www.v2ex.com/t/709616",
         "date": "2020-09-23"
-      },
-      {
-        "title": "有没有一种只显示一行文本的编辑器",
-        "link": "https://www.v2ex.com/t/709614",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "有没有什么 js 包，可以实现一个，自定义的 3d 人体模型？",
-        "link": "https://www.v2ex.com/t/709613",
-        "date": "2020-09-23"
       }
     ]
   },
@@ -16804,13 +16809,13 @@
         "date": "2020-09-23"
       },
       {
-        "title": "Presto 系列：Presto 基本介绍",
-        "link": "https://toutiao.io/k/b1zj0l3",
+        "title": "分库分表中间件的高可用实践",
+        "link": "https://toutiao.io/k/3m3ovcd",
         "date": "2020-09-23"
       },
       {
-        "title": "分库分表中间件的高可用实践",
-        "link": "https://toutiao.io/k/3m3ovcd",
+        "title": "Presto 系列：Presto 基本介绍",
+        "link": "https://toutiao.io/k/b1zj0l3",
         "date": "2020-09-23"
       },
       {
@@ -16829,23 +16834,28 @@
         "date": "2020-09-23"
       },
       {
-        "title": "MySQL 同步监控不能光看延迟指标",
-        "link": "https://toutiao.io/k/z58ljq9",
-        "date": "2020-09-23"
-      },
-      {
         "title": "Redis 核心原理和实践",
         "link": "https://toutiao.io/k/x7kg7sr",
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
+        "title": "MySQL 同步监控不能光看延迟指标",
+        "link": "https://toutiao.io/k/z58ljq9",
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
+        "link": "https://toutiao.io/k/dcmvw72",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
         "date": "2020-09-23"
       },
       {
@@ -16854,8 +16864,13 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
+        "link": "https://toutiao.io/k/tyygn3e",
         "date": "2020-09-23"
       },
       {
@@ -16869,6 +16884,16 @@
         "date": "2020-09-23"
       },
       {
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-23"
+      },
+      {
         "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
         "link": "https://toutiao.io/k/pcsh3lu",
         "date": "2020-09-23"
@@ -16879,8 +16904,8 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
         "date": "2020-09-23"
       },
       {
@@ -16889,28 +16914,8 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 《一年顶十年》干货读书笔记",
-        "link": "https://toutiao.io/k/okqtla6",
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
         "date": "2020-09-23"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 10:34:47，:rocket: 更新条数: +3395， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 10:47:36，:rocket: 更新条数: +3433， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)![](assets/dot.png)   
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
@@ -508,6 +508,26 @@
 </summary>
 
 
+- [2020-09-23-用TypeScript装饰器实现一个简单的依赖注入](https://www.ershicimi.com/p/5e9f34eb51f9d7b3f0151ac70a4c8dde) ![](assets/new.png)  
+- [2020-09-23-javascript红宝书第4版，抽奖！！！](https://www.ershicimi.com/p/d29c88b1cfb223bbc578049b050b2f64) ![](assets/new.png)  
+- [2020-09-22-祖传技术栈改造，从照抄大公司作业开始](https://www.ershicimi.com/p/471c0eab356723990798abcd149b8ff0) ![](assets/new.png)  
+- [2020-09-21-他写出了-Vue，却做不对这十道-Vue-笔试题](https://www.ershicimi.com/p/a1f445912be33a73f2c358e0767a8530) ![](assets/new.png)  
+- [2020-09-19-月入5W卖肉阿姨-VS-月薪1W程序员，谁才是人生赢家？](https://www.ershicimi.com/p/3aa908e82ee8d7d230761b120914a1ea) ![](assets/new.png)  
+- [2020-09-18-前端架构探索与实践](https://www.ershicimi.com/p/ccf9b9611ce4e18bf664c3655d5e7d13) ![](assets/new.png)  
+- [2020-09-17-阿里拍卖急需前端，20-个！！！](https://www.ershicimi.com/p/33f2b3383b6a10d7c0a27cbede4dcca7) ![](assets/new.png)  
+- [2020-09-16-下一家跳槽该去哪里？](https://www.ershicimi.com/p/78fe1afebd1f26afd22bb2baa84bbba8) ![](assets/new.png)  
+- [2020-09-16-一张脑图带你看动态划算法之美](https://www.ershicimi.com/p/8f74e5601e34a04f9f8c88cc87fdaf9f) ![](assets/new.png)  
+- [2020-09-15-手写React-Router源码，深入理解其原理](https://www.ershicimi.com/p/5182725b81b008108842615c025ce045) ![](assets/new.png)  
+- [2020-09-14-为你的-Vue.js-单页应用提速](https://www.ershicimi.com/p/f370ad3eb269f466bb55d7b08c567605) ![](assets/new.png)  
+- [2020-09-14-使用-DevTools-新增的-Issues-选项卡发现网页问题](https://www.ershicimi.com/p/22b3fe338bac5eeae780e62f2154f4cd) ![](assets/new.png)  
+- [2020-09-13-唐朝人更懂React](https://www.ershicimi.com/p/45961f41bf945a98790e7a5fab23b85b) ![](assets/new.png)  
+- [2020-09-12-函数式编程，“香”吗？](https://www.ershicimi.com/p/05a99c22bd5981bc13bce77ea1e8cf65) ![](assets/new.png)  
+- [2020-09-11-经验分享：写给入职2~3年同学的一封信](https://www.ershicimi.com/p/300fac98c10724e79ea9a0b02b162b57) ![](assets/new.png)  
+- [2020-09-10-没错，华为开始对前端下手了！](https://www.ershicimi.com/p/88059a810d7f9eaae028f76a870bd276) ![](assets/new.png)  
+- [2020-09-10-假如有人把支付宝的服务器炸了,-存在支付宝里的钱是不是没了？](https://www.ershicimi.com/p/308be03f9f42ed34ed808e4ca779bb1d) ![](assets/new.png)  
+- [2020-09-09-实战Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/135231f1360380a7aed3e813e8f18695) ![](assets/new.png)  
+- [2020-09-08-SourceMap知多少：介绍与实践](https://www.ershicimi.com/p/ef6328d74d9a8d4d0c098684e3292d87) ![](assets/new.png)  
+- [2020-09-07-想要学习人工智能？推荐你一条完整的学习路径！](https://www.ershicimi.com/p/a75c929ceebd3c41432f6c3f925ec5ab) ![](assets/new.png)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -741,6 +761,26 @@
 </summary>
 
 
+- [2020-09-21-使用-SVG-制作加载动画](https://www.ershicimi.com/p/f00b40332f1901383e44f2e989ae61cf) ![](assets/new.png)  
+- [2020-09-21-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/8bf0de88c657bee9cc9eeeade41bb10c) ![](assets/new.png)  
+- [2020-09-21-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1c6f42f9af07e8dca6a88a8a33aa0c80) ![](assets/new.png)  
+- [2020-09-20-Promise-你可能真的还没用明白（续集进阶版）](https://www.ershicimi.com/p/b657a0734cea645bdf7aa5e47b4eaf7f) ![](assets/new.png)  
+- [2020-09-20-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/4a5432b5b75673a0887fdbc73f856dbf) ![](assets/new.png)  
+- [2020-09-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/290e109ce089916338c408876f6fee3a) ![](assets/new.png)  
+- [2020-09-18-奇舞周刊第-364-期：小程序视角下同构方案思考](https://www.ershicimi.com/p/d9f7bae52064d258394b7f01ad3a7a36) ![](assets/new.png)  
+- [2020-09-16-聊聊前端监控—错误监控篇](https://www.ershicimi.com/p/37785245e0f7630bc4ceed905036bdd1) ![](assets/new.png)  
+- [2020-09-16-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/26b9dcc8dd9ca440f80e501919d81479) ![](assets/new.png)  
+- [2020-09-16-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa27200ef9381bbe00ec6dae8182934c) ![](assets/new.png)  
+- [2020-09-15-网站图标开发指南](https://www.ershicimi.com/p/3d61780def49dcbce0f685fed5e8f7c6) ![](assets/new.png)  
+- [2020-09-15-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/a48d8a1b941f2229b244877853d80c32) ![](assets/new.png)  
+- [2020-09-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6fb589a59ea7047ec9b0cc99150c51c3) ![](assets/new.png)  
+- [2020-09-14-谈谈-MySQL-的-JSON-数据类型操作](https://www.ershicimi.com/p/7beecef0113be070b25eaf2ec4284dcb) ![](assets/new.png)  
+- [2020-09-14-唐朝人更懂React](https://www.ershicimi.com/p/7b13190cbe7b136d132c1382aac8ebd0) ![](assets/new.png)  
+- [2020-09-14-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/7923a0711a8ad6112503405dd8f8d143) ![](assets/new.png)  
+- [2020-09-14-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/ad11959d57eba49b0f3718ad178a3ecf) ![](assets/new.png)  
+- [2020-09-12-细数-TS-中那些奇怪的符号](https://www.ershicimi.com/p/8ace23134c49a44faf09750aea6837d5) ![](assets/new.png)  
+- [2020-09-12-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/1b421a06d757916689066dfef120e504) ![](assets/new.png)  
+- [2020-09-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa2fd47cc4bf6b6e2e72e01c29ef831d) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1017,6 +1057,11 @@
 </summary>
 
 
+- [2020-09-23-发现今年的校园卡套餐涨价了，-300-打一年了](https://www.v2ex.com/t/709878) ![](assets/new.png)  
+- [2020-09-23-本周四，-CODING-DevOps-深度解析系列最后一课等你来](https://www.v2ex.com/t/709877) ![](assets/new.png)  
+- [2020-09-23-如果希望-redis-哨兵监控的主从，对客户端是一个地址或者-IP。-当发生主从切换之后，是使用-VIP-漂移，还是使用-DNS-切换方式好一些？-哪种方式好一些？](https://www.v2ex.com/t/709876) ![](assets/new.png)  
+- [2020-09-23-ios13-原生天气的-url-schemes-是什么](https://www.v2ex.com/t/709875) ![](assets/new.png)  
+- [2020-09-23-刚刚想到了一个好的创业-idea，大家帮忙参谋参谋](https://www.v2ex.com/t/709873) ![](assets/new.png)  
 - [2020-09-23-如何对服务依赖进行排序？（多服务，-多依赖）](https://www.v2ex.com/t/709871) ![](assets/new.png)  
 - [2020-09-23-坐标深圳，-boss-直聘上大数据开发一排下来全是外包？](https://www.v2ex.com/t/709870) ![](assets/new.png)  
 - [2020-09-23-EmacsVim-高效写作环境-|-像写代码一样优雅的写作](https://www.v2ex.com/t/709869) ![](assets/new.png)  
@@ -1032,11 +1077,6 @@
 - [2020-09-23-Java-项目学习的网址推荐下](https://www.v2ex.com/t/709859) ![](assets/new.png)  
 - [2020-09-23-函数外有分配内存的-char-*outside，函数内有分配内存的-char-*inside，如果先将-outside-所指的内存释放掉，然后将-inside-指针赋值给-outside，可行吗？函数结...](https://www.v2ex.com/t/709858) ![](assets/new.png)  
 - [2020-09-23-在大公司，天天都是一些办公室政治，真心烦了](https://www.v2ex.com/t/709857) ![](assets/new.png)  
-- [2020-09-23-学习-golang-的人都是怎么解决第三方包被墙或者访问慢的问题的](https://www.v2ex.com/t/709856) ![](assets/new.png)  
-- [2020-09-23-开发-mac-app-objective-c-一个懵逼的-NSData-内存泄露疑问](https://www.v2ex.com/t/709854) ![](assets/new.png)  
-- [2020-09-23-上海户口对全国应届生继续放宽](https://www.v2ex.com/t/709853) ![](assets/new.png)  
-- [2020-09-23-人才经纪人靠谱吗？](https://www.v2ex.com/t/709852) ![](assets/new.png)  
-- [2020-09-23-9-月开始各-app-隐私政策就一个个更新-是发生什么了吗？](https://www.v2ex.com/t/709851) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,8 +1128,8 @@
 - [2020-09-23-如果重走职场，这-8-条良心建议请收好](https://toutiao.io/k/jd7b53f) ![](assets/new.png)  
 - [2020-09-23-C语言发展史的点点滴滴](https://toutiao.io/k/hyico27) ![](assets/new.png)  
 - [2020-09-23-技术分享之-gRPC-的那些事儿（上）](https://toutiao.io/k/kyt7d86) ![](assets/new.png)  
-- [2020-09-23-VS-Code-的-Kubernetes-扩展：实用的-Kubernetes-工具](https://toutiao.io/k/k5uam9i) ![](assets/new.png)  
 - [2020-09-23-Loki-和-Fluentd-的那点事儿](https://toutiao.io/k/b18s8aq) ![](assets/new.png)  
+- [2020-09-23-VS-Code-的-Kubernetes-扩展：实用的-Kubernetes-工具](https://toutiao.io/k/k5uam9i) ![](assets/new.png)  
 - [2020-09-23-我在暴躁同事小张的胁迫下学会了-Go-的交叉编译和条件编译](https://toutiao.io/k/ynorwke) ![](assets/new.png)  
 - [2020-09-23-手把手教姐姐写消息队列](https://toutiao.io/k/r5459hj) ![](assets/new.png)  
 - [2020-09-23-Presto-系列：Presto-基本介绍](https://toutiao.io/k/b1zj0l3) ![](assets/new.png)  

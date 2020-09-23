@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 12:33:55，:rocket: 更新条数: +3659， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 12:47:04，:rocket: 更新条数: +3650， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -49,7 +49,7 @@
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)![](assets/dot.png)   
+- [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
@@ -1025,16 +1025,6 @@
 </summary>
 
 
-- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
-- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
-- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
-- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
-- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
-- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
-- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
-- [2019-10-13-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
-- [2019-10-12-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
-- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1067,13 @@
 </summary>
 
 
+- [2020-09-23-你觉得做程序员是个重复造轮子的工作吗？](https://www.v2ex.com/t/709904) ![](assets/new.png)  
+- [2020-09-23-服务端响应-Cache-Control-主机头的值为-no-cache-时，缓存机制是怎么样的？](https://www.v2ex.com/t/709903) ![](assets/new.png)  
+- [2020-09-23-谷歌网盘-elasticsearch-搜索引擎-前端源码](https://www.v2ex.com/t/709902) ![](assets/new.png)  
+- [2020-09-23-需要爬取的网页对提交的密码加密后再提交，如何得到网页的加密方式](https://www.v2ex.com/t/709901) ![](assets/new.png)  
+- [2020-09-23-gin-web-框架的监控指标](https://www.v2ex.com/t/709900) ![](assets/new.png)  
+- [2020-09-23-想要搭建个论坛？-Guide-哥调研了-100-来个-Java-开源论坛系统，发现这-5-个最好用！](https://www.v2ex.com/t/709899) ![](assets/new.png)  
+- [2020-09-23-现在可以在微信公众号追踪-#ProductHunt-当日产品排行榜了](https://www.v2ex.com/t/709898) ![](assets/new.png)  
 - [2020-09-23-求教-v-友们，桌面上总出现一个-debug.log-是什么鬼？](https://www.v2ex.com/t/709897) ![](assets/new.png)  
 - [2020-09-23-这种-3080-无货下单靠谱吗](https://www.v2ex.com/t/709896) ![](assets/new.png)  
 - [2020-09-23-杭州-招聘-WebGL-开发/产品经理/C++/Unity-开发](https://www.v2ex.com/t/709895) ![](assets/new.png)  
@@ -1090,13 +1087,6 @@
 - [2020-09-23-为啥这个节点没啥动态哩](https://www.v2ex.com/t/709884) ![](assets/new.png)  
 - [2020-09-23-简书是不是要黄呀，怎么都是“文章正在审核中”](https://www.v2ex.com/t/709883) ![](assets/new.png)  
 - [2020-09-23-android-launcher-快速切换的功能](https://www.v2ex.com/t/709882) ![](assets/new.png)  
-- [2020-09-23-有什么办法恢复-local-storage-的值吗？](https://www.v2ex.com/t/709881) ![](assets/new.png)  
-- [2020-09-23-当使用-ip-addr-增加一个虚拟-IP-之后，-ifconfig-不显示该-IP，-ip-addr-显示，-ifconfig-为什么不显示呢？](https://www.v2ex.com/t/709880) ![](assets/new.png)  
-- [2020-09-23-意识到底从哪来的？](https://www.v2ex.com/t/709879) ![](assets/new.png)  
-- [2020-09-23-发现今年的校园卡套餐涨价了，-300-打一年了](https://www.v2ex.com/t/709878) ![](assets/new.png)  
-- [2020-09-23-本周四，-CODING-DevOps-深度解析系列最后一课等你来](https://www.v2ex.com/t/709877) ![](assets/new.png)  
-- [2020-09-23-如果希望-redis-哨兵监控的主从，对客户端是一个地址或者-IP。-当发生主从切换之后，是使用-VIP-漂移，还是使用-DNS-切换方式好一些？-哪种方式好一些？](https://www.v2ex.com/t/709876) ![](assets/new.png)  
-- [2020-09-23-ios13-原生天气的-url-schemes-是什么](https://www.v2ex.com/t/709875) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,8 +1140,8 @@
 - [2020-09-23-技术分享之-gRPC-的那些事儿（上）](https://toutiao.io/k/kyt7d86) ![](assets/new.png)  
 - [2020-09-23-Loki-和-Fluentd-的那点事儿](https://toutiao.io/k/b18s8aq) ![](assets/new.png)  
 - [2020-09-23-VS-Code-的-Kubernetes-扩展：实用的-Kubernetes-工具](https://toutiao.io/k/k5uam9i) ![](assets/new.png)  
-- [2020-09-23-手把手教姐姐写消息队列](https://toutiao.io/k/r5459hj) ![](assets/new.png)  
 - [2020-09-23-我在暴躁同事小张的胁迫下学会了-Go-的交叉编译和条件编译](https://toutiao.io/k/ynorwke) ![](assets/new.png)  
+- [2020-09-23-手把手教姐姐写消息队列](https://toutiao.io/k/r5459hj) ![](assets/new.png)  
 - [2020-09-23-Presto-系列：Presto-基本介绍](https://toutiao.io/k/b1zj0l3) ![](assets/new.png)  
 - [2020-09-23-浅谈关于二维码的钓鱼思路](https://toutiao.io/k/6mxxlhp) ![](assets/new.png)  
 - [2020-09-23-Redis-核心原理和实践](https://toutiao.io/k/x7kg7sr) ![](assets/new.png)  

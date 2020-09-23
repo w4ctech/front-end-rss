@@ -17395,58 +17395,7 @@
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10647",
     "title": "编程之上",
     "link": "https://www.ershicimi.com/a/10647",
-    "items": [
-      {
-        "title": "2019 年终总结",
-        "link": "https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2",
-        "date": "2019-12-31"
-      },
-      {
-        "title": "git 入门",
-        "link": "https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0",
-        "date": "2019-10-28"
-      },
-      {
-        "title": "谨以此文祝福和致敬每一位前端开发工程师",
-        "link": "https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9",
-        "date": "2019-10-24"
-      },
-      {
-        "title": "Git 工作流",
-        "link": "https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e",
-        "date": "2019-10-20"
-      },
-      {
-        "title": "前端初级",
-        "link": "https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4",
-        "date": "2019-10-17"
-      },
-      {
-        "title": "Javascript 内存空间管理",
-        "link": "https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6",
-        "date": "2019-10-16"
-      },
-      {
-        "title": "我对前端架构师的定义",
-        "link": "https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f",
-        "date": "2019-10-15"
-      },
-      {
-        "title": "《大教堂和集市》读后感",
-        "link": "https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54",
-        "date": "2019-10-13"
-      },
-      {
-        "title": "8年前端开发的知识点沉淀",
-        "link": "https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d",
-        "date": "2019-10-12"
-      },
-      {
-        "title": "如何有效学习",
-        "link": "https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a",
-        "date": "2019-10-12"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/198",
@@ -17560,6 +17509,41 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "你觉得做程序员是个重复造轮子的工作吗？",
+        "link": "https://www.v2ex.com/t/709904",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "服务端响应 Cache-Control 主机头的值为 no-cache 时，缓存机制是怎么样的？",
+        "link": "https://www.v2ex.com/t/709903",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "谷歌网盘 elasticsearch 搜索引擎-前端源码",
+        "link": "https://www.v2ex.com/t/709902",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "需要爬取的网页对提交的密码加密后再提交，如何得到网页的加密方式",
+        "link": "https://www.v2ex.com/t/709901",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "gin web 框架的监控指标",
+        "link": "https://www.v2ex.com/t/709900",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "想要搭建个论坛？ Guide 哥调研了 100 来个 Java 开源论坛系统，发现这 5 个最好用！",
+        "link": "https://www.v2ex.com/t/709899",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "现在可以在微信公众号追踪 #ProductHunt 当日产品排行榜了",
+        "link": "https://www.v2ex.com/t/709898",
+        "date": "2020-09-23"
+      },
       {
         "title": "求教 v 友们，桌面上总出现一个 debug.log 是什么鬼？",
         "link": "https://www.v2ex.com/t/709897",
@@ -17744,36 +17728,6 @@
         "title": "学习 golang 的人都是怎么解决第三方包被墙(或者访问慢)的问题的",
         "link": "https://www.v2ex.com/t/709856",
         "date": "2020-09-23"
-      },
-      {
-        "title": "开发 mac app objective c 一个懵逼的 NSData 内存泄露疑问",
-        "link": "https://www.v2ex.com/t/709854",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "上海户口对全国应届生继续放宽",
-        "link": "https://www.v2ex.com/t/709853",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "人才经纪人靠谱吗？",
-        "link": "https://www.v2ex.com/t/709852",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "9 月开始各 app 隐私政策就一个个更新 是发生什么了吗？",
-        "link": "https://www.v2ex.com/t/709851",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "买 iPhone 11，如何领 1 年的 Apple TV",
-        "link": "https://www.v2ex.com/t/709850",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "Google 验证器出现的数字是预先有的？",
-        "link": "https://www.v2ex.com/t/709849",
-        "date": "2020-09-23"
       }
     ]
   },
@@ -17945,13 +17899,13 @@
         "date": "2020-09-23"
       },
       {
-        "title": "手把手教姐姐写消息队列",
-        "link": "https://toutiao.io/k/r5459hj",
+        "title": "我在暴躁同事小张的胁迫下学会了 Go 的交叉编译和条件编译",
+        "link": "https://toutiao.io/k/ynorwke",
         "date": "2020-09-23"
       },
       {
-        "title": "我在暴躁同事小张的胁迫下学会了 Go 的交叉编译和条件编译",
-        "link": "https://toutiao.io/k/ynorwke",
+        "title": "手把手教姐姐写消息队列",
+        "link": "https://toutiao.io/k/r5459hj",
         "date": "2020-09-23"
       },
       {
@@ -17990,43 +17944,13 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 硬核看房利器：Web 全景的实现",
-        "link": "https://toutiao.io/k/ihkuhms",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
-        "date": "2020-09-23"
-      },
-      {
         "title": "[推荐] 解密 Go 协程的栈内存管理",
         "link": "https://toutiao.io/k/fkrobd3",
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
         "date": "2020-09-23"
       },
       {
@@ -18035,8 +17959,8 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
         "date": "2020-09-23"
       },
       {
@@ -18045,13 +17969,33 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 分享一个作为面试官的面试思路",
-        "link": "https://toutiao.io/k/dvtlxd4",
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
         "date": "2020-09-23"
       },
       {
@@ -18060,8 +18004,18 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
+        "link": "https://toutiao.io/k/zu9e79n",
         "date": "2020-09-23"
       }
     ]

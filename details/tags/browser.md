@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 12:33:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 12:47:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,7 @@
 - [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-23-服务端响应-Cache-Control-主机头的值为-no-cache-时，缓存机制是怎么样的？](https://www.v2ex.com/t/709903) 
 - [2020-09-23-GDB-Android-ADB-Shell-远程调试-C++程序问题](https://www.v2ex.com/t/709886) 
 - [2020-09-23-ios13-原生天气的-url-schemes-是什么](https://www.v2ex.com/t/709875) 
 - [2020-09-23-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

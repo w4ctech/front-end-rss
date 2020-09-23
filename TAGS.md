@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-23 08:49:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 09:04:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,9 +56,9 @@
 - [【前端开发博客】阿里-ice.work-探秘系列-useState、useEffect](https://www.ershicimi.com/p/23159dcf23f0f8f92efd0a91c7a316f2)
 - [【前端之巅】React-从入门到放弃，一个关于网页速度的故事](https://www.ershicimi.com/p/c3ec2a57dccdd8ec1df746b959d63cfb)
 - [【前端之巅】唐朝就已经有人懂-React-了？](https://www.ershicimi.com/p/3437452f60f8321bd1864083d64bba70)
-- [【前端之巅】来呀，一起造一个简易React！-|-极客大学](https://www.ershicimi.com/p/950e9acf0a06cddf9b8dfb3ae76389ee)
 - [【全栈前端精选】手写React-Router源码，深入理解其原理](https://www.ershicimi.com/p/5182725b81b008108842615c025ce045)
 - [【全栈前端精选】唐朝人更懂React](https://www.ershicimi.com/p/45961f41bf945a98790e7a5fab23b85b)
+- [【政采云前端团队】浅谈-React-中的-XSS-攻击](https://www.ershicimi.com/p/cf465a8944c2bbb107812b217cc74f63)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -114,9 +114,9 @@
 - [【Vue中文社区】尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/c9e490aaa91bd75fb52b8507e6777fcf)
 - [【前端大全】TypeScript之父：JS不是竞争对手](https://www.ershicimi.com/p/976c7799431e66fc0c808a55d9768170)
 - [【前端大学】TypeScript之父：JS不是竞争对手](https://www.ershicimi.com/p/b427791b842bf861fb65711bb42df6f8)
-- [【前端之巅】尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/7859ef90ce3ea34ab85fd27051242012)
+- [【前端之巅】TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/12f40e59f24eef811a0183612d6e683b)
 - [【前端迷】Typescript初学者入门指南](https://www.ershicimi.com/p/7cb6373e9529c45ce8f335118a336d7a)
-- [【全栈前端精选】《TypeScript-项目开发实战》送！！！](https://www.ershicimi.com/p/50f1c291a5460b5970bb2483827e6eae)
+- [【全栈前端精选】用TypeScript装饰器实现一个简单的依赖注入](https://www.ershicimi.com/p/5e9f34eb51f9d7b3f0151ac70a4c8dde)
 - [【前端宇宙】TypeScript高级类型备忘录（附示例）](https://www.ershicimi.com/p/b309cb48342fdcd112a1bd62674c8d90)
 - [【前端宇宙】TypeScript凭什么成为前端圈新宠？](https://www.ershicimi.com/p/98f10c9c3255b7a2c607027a504807cc)
 - [【前端宇宙】Typescript-使用日志干货](https://www.ershicimi.com/p/f1dd64e534ebe4864a4eba54809473a4)
@@ -146,8 +146,6 @@
 - [【React中文社区】一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
 - [【前端迷】面试官:请手写一个简易的Webpack](https://www.ershicimi.com/p/b99c6ee7c391d8edf34b867fb1e02fb3)
-- [【全栈前端精选】13-个-你不得不知道的-npm-快速开发技巧](https://www.ershicimi.com/p/aeb1125cea08e55df813496be609fd0f)
-- [【全栈前端精选】Babel是如何读懂JS代码的](https://www.ershicimi.com/p/faad2dc6631b33a4e757150901996f4b)
 - [【政采云前端团队】npm-依赖管理中被忽略的那些细节](https://www.ershicimi.com/p/dbc75e14c0a00bf3a7a748722c7077b2)
 - [【政采云前端团队】自定义-ESLint-规则，让代码持续美丽](https://www.ershicimi.com/p/78a02d35ff153be695c61fdaa2e891a2)
 - [【政采云前端团队】分分钟教会你搭建企业级的-npm-私有仓库](https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1)
@@ -541,8 +539,8 @@
 - [【前端外刊评论】字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4)
 - [【前端外刊评论】招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93)
 - [【前端外刊评论】招聘-|-字节跳动-上海-前端工程师社招-&-校招-&-实习生](https://www.ershicimi.com/p/dff761693416bd940e698627c37a14d9)
-- [【前端之巅】面试-100-多位软件工程师后的建议](https://www.ershicimi.com/p/e4068a4851c1fc23414277c8dec4b64c)
 - [【前端迷】关于面试的一点心得](https://www.ershicimi.com/p/26518953e3cc30c299b44999f33c71c3)
+- [【前端迷】头条面试题：计算目录树的深度](https://www.ershicimi.com/p/df9ddee4650f0c9ab3dd7df235232dab)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

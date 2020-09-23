@@ -5,11 +5,6 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "9月22日全国新增境外输入新冠10例 累计确诊85307例",
-        "link": "http://m.china.caixin.com/m/2020-09-23/101608492.html",
-        "date": "2020-09-22"
-      },
-      {
         "title": "香港新冠超级传播事件启示：19%病例或成防疫关键",
         "link": "https://m.caixin.com/m/2020-09-22/101608361.html",
         "date": "2020-09-21"
@@ -16435,6 +16430,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "广州有没有加班给钱的公司",
+        "link": "https://www.v2ex.com/t/709846",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "请教一个关于录音的技术问题",
+        "link": "https://www.v2ex.com/t/709845",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "做了一个记录 APP 签到的网页",
+        "link": "https://www.v2ex.com/t/709844",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "为什么 kvm HDMI 切换器没有 4 进 2 出",
+        "link": "https://www.v2ex.com/t/709843",
+        "date": "2020-09-23"
+      },
+      {
         "title": "迫于入职新公司需要自己带电脑，求大佬们推荐一下笔记本电脑",
         "link": "https://www.v2ex.com/t/709842",
         "date": "2020-09-23"
@@ -16442,11 +16457,6 @@
       {
         "title": "django 用 pyinstaller 打包之后运行产生僵尸进程",
         "link": "https://www.v2ex.com/t/709841",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "还有哪里可以摸鱼？",
-        "link": "https://www.v2ex.com/t/709840",
         "date": "2020-09-23"
       },
       {
@@ -16622,26 +16632,6 @@
       {
         "title": "大佬们都是怎么提升自己的？看书还是看网页？",
         "link": "https://www.v2ex.com/t/709798",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "出手 8 + 256 2019 Macbook Pro",
-        "link": "https://www.v2ex.com/t/709797",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "是否有必要因为公司只用 IDEA 社区版且不允许自行破解，将自己电脑上的旗舰版换为社区版以避免不知不觉依赖了一些高级功能？",
-        "link": "https://www.v2ex.com/t/709796",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "GaN 充电器的 USB TypeC2 和 USB-A 口总是坏，会是什么原因？",
-        "link": "https://www.v2ex.com/t/709795",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "黑苹果 M920x + TitanRidge 行得通吗 讨论一下",
-        "link": "https://www.v2ex.com/t/709793",
         "date": "2020-09-23"
       }
     ]
@@ -16859,48 +16849,8 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 《一年顶十年》干货读书笔记",
-        "link": "https://toutiao.io/k/okqtla6",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
         "date": "2020-09-23"
       },
       {
@@ -16909,18 +16859,38 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
-        "link": "https://toutiao.io/k/xzcx65d",
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
+        "link": "https://toutiao.io/k/tyygn3e",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
         "date": "2020-09-23"
       },
       {
@@ -16929,8 +16899,28 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
-        "link": "https://toutiao.io/k/5xvc683",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
+        "link": "https://toutiao.io/k/dcmvw72",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
         "date": "2020-09-23"
       }
     ]

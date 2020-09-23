@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 04:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 04:13:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,12 +43,12 @@
 - [2020-09-23-11-代-NUC，-PCIE4.0-+-雷电-4-+-双-2.5G-网口](https://www.v2ex.com/t/709703) 
 - [2020-09-23-QQ-安全中心绑定的两个-QQ-遭遇被清空情况](https://www.v2ex.com/t/709697) 
 - [2020-09-23-部分-iPhone-手机-App-支持在-Mac-接力-Safari-阅读](https://www.v2ex.com/t/709689) 
-- [2020-09-23-升级-Big-Sur-后-Proxifier-不能用了，有什么替代品？](https://www.v2ex.com/t/709673) 
 - [2020-09-23-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-23-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-23-kotlin-如何解决-java-开发痛点，让程序员-happier-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-23-Angular-10-正式发布，不再支持-IE9/10！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13782&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9Bs3jZMOQxKfLPq2PWw6gw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-23-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) 
+- [2020-09-23-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-22-2000元海底捞卡&乐高钢铁侠头盔,安全范儿沙龙!有范儿!](https://sec.thief.one/article_content?a_id=e135f5e896787ada579dd8324790fe35) 
 - [2020-09-22-5G安全建设怎么搞?绿盟-MagicFlow-来帮忙](https://sec.thief.one/article_content?a_id=989c4913a55e6c42b74473e5127128d2) 
 - [2020-09-22-【安全风险通告】WebSphere-Application-Server-XXE漏洞安全风险通告](https://sec.thief.one/article_content?a_id=fda924f319c4276b91102149a12149b0) 

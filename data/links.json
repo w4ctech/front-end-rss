@@ -13257,6 +13257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "希腊73所学校因发现疫情而停课，首都雅典成“重灾区”",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirOQMUkLq7IV1RXvRM8u5200923&isfromapp=1",
+        "date": "2020-09-23"
+      },
+      {
         "title": "世卫科学家：中国新冠疫苗已被证明有效",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti23LmwNJc53ZR3xWi0zMu200923&isfromapp=1",
         "date": "2020-09-23"
@@ -13274,11 +13279,6 @@
       {
         "title": "哥伦比亚疫情持续扩散，首都波哥大进一步放松防疫管控",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00cV8IUayKcfK3nSTYwy200923&isfromapp=1",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "中国赴南苏丹维和工兵完成瓦乌机场升级改造任务",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEF435oM0uHpNxVRuGGSF200923&isfromapp=1",
         "date": "2020-09-22"
       }
     ]
@@ -17202,6 +17202,16 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "Vuex 状态管理初级知识",
+        "link": "https://juejin.im/post/6875374710503243790",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "静态网站自定义与构建（一)——静态网站生成器对比",
+        "link": "https://juejin.im/post/6875363703881990157",
+        "date": "2020-09-22"
+      },
+      {
         "title": "VueRouter与expres/koa中间件的关联",
         "link": "https://juejin.im/post/6875344142944665607",
         "date": "2020-09-22"
@@ -17214,16 +17224,6 @@
       {
         "title": "一文看懂Vue中的computed和watch",
         "link": "https://juejin.im/post/6875329646485831688",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "JavaScript你必须了解的知识---prototype和__proto__",
-        "link": "https://juejin.im/post/6875323958778920974",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "Array对象的负索引提案以及缘由",
-        "link": "https://juejin.im/post/6875310447424176141",
         "date": "2020-09-22"
       }
     ]
@@ -17561,6 +17561,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "mysql 的老问题 字符集设置",
+        "link": "https://www.v2ex.com/t/709745",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "特斯拉中国区禁止说韭菜一词 一次罚 10 元",
+        "link": "https://www.v2ex.com/t/709744",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "当你们失意的时候，是如何安慰自己的？",
+        "link": "https://www.v2ex.com/t/709743",
+        "date": "2020-09-23"
+      },
+      {
         "title": "Java 字段监控执行事件",
         "link": "https://www.v2ex.com/t/709741",
         "date": "2020-09-23"
@@ -17734,21 +17749,6 @@
         "title": "朋友问的前后端分离问题，你们怎么看？",
         "link": "https://www.v2ex.com/t/709696",
         "date": "2020-09-23"
-      },
-      {
-        "title": "大佬们怎么用正则定位到 这样的内容 XXXXXX : 8",
-        "link": "https://www.v2ex.com/t/709695",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "ip8 升级 iOS14 后使用用小程序跳电",
-        "link": "https://www.v2ex.com/t/709694",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "iPhone 电池健康到多少才应该换电池？",
-        "link": "https://www.v2ex.com/t/709693",
-        "date": "2020-09-23"
       }
     ]
   },
@@ -17875,13 +17875,13 @@
         "date": "2020-09-23"
       },
       {
-        "title": "你还在用 Swagger？试试这个神器",
-        "link": "https://toutiao.io/k/k9tsk1j",
+        "title": "如何产出规范、安全、高质量的代码？",
+        "link": "https://toutiao.io/k/rd2k0cu",
         "date": "2020-09-23"
       },
       {
-        "title": "如何产出规范、安全、高质量的代码？",
-        "link": "https://toutiao.io/k/rd2k0cu",
+        "title": "你还在用 Swagger？试试这个神器",
+        "link": "https://toutiao.io/k/k9tsk1j",
         "date": "2020-09-23"
       },
       {
@@ -17910,13 +17910,13 @@
         "date": "2020-09-23"
       },
       {
-        "title": "Loki 和 Fluentd 的那点事儿",
-        "link": "https://toutiao.io/k/b18s8aq",
+        "title": "分库分表中间件的高可用实践",
+        "link": "https://toutiao.io/k/3m3ovcd",
         "date": "2020-09-23"
       },
       {
-        "title": "分库分表中间件的高可用实践",
-        "link": "https://toutiao.io/k/3m3ovcd",
+        "title": "Loki 和 Fluentd 的那点事儿",
+        "link": "https://toutiao.io/k/b18s8aq",
         "date": "2020-09-23"
       },
       {
@@ -17965,18 +17965,33 @@
         "date": "2020-09-23"
       },
       {
+        "title": "[推荐] 分享一个作为面试官的面试思路",
+        "link": "https://toutiao.io/k/dvtlxd4",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-23"
+      },
+      {
         "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
         "link": "https://toutiao.io/k/tyygn3e",
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
+        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
+        "link": "https://toutiao.io/k/jvghjpf",
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
         "date": "2020-09-23"
       },
       {
@@ -17990,13 +18005,13 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-23"
       },
       {
@@ -18005,18 +18020,13 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
-        "link": "https://toutiao.io/k/xzcx65d",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
         "date": "2020-09-23"
       },
       {
@@ -18025,18 +18035,8 @@
         "date": "2020-09-23"
       },
       {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
+        "title": "[推荐] 试用了 2000 多个拓展，最后只留下了这 50 个",
+        "link": "https://toutiao.io/k/1yhz4eh",
         "date": "2020-09-23"
       }
     ]

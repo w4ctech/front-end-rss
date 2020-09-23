@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 21:03:57，:rocket: 更新条数: +3660， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 21:12:22，:rocket: 更新条数: +3660， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1154,8 +1154,8 @@
 - [2020-09-23-VS-Code-的-Kubernetes-扩展：实用的-Kubernetes-工具](https://toutiao.io/k/k5uam9i) ![](assets/new.png)  
 - [2020-09-23-Presto-系列：Presto-基本介绍](https://toutiao.io/k/b1zj0l3) ![](assets/new.png)  
 - [2020-09-23-浅谈关于二维码的钓鱼思路](https://toutiao.io/k/6mxxlhp) ![](assets/new.png)  
-- [2020-09-23-MySQL-同步监控不能光看延迟指标](https://toutiao.io/k/z58ljq9) ![](assets/new.png)  
 - [2020-09-23-近万服务实例稳定运行-0-故障，携程微服务框架实践及思考](https://toutiao.io/k/lx80lt5) ![](assets/new.png)  
+- [2020-09-23-MySQL-同步监控不能光看延迟指标](https://toutiao.io/k/z58ljq9) ![](assets/new.png)  
 - [2020-09-23-Redis-核心原理和实践](https://toutiao.io/k/x7kg7sr) ![](assets/new.png)  
 - [2020-09-23-树莓派小车：轮子转起来](https://toutiao.io/k/nu6o5s6) ![](assets/new.png)  
 - [2020-09-23-踩坑记：Flink-事件时间语义下数据乱序丢数](https://toutiao.io/k/onar5z2) ![](assets/new.png)  

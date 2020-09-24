@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 03:49:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 04:03:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -81,7 +81,6 @@
 - [2020-09-11-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/c17632c9138f5cb25baa775890519b34) 
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2020-09-23-Vue3拥抱TypeScript的正确姿势](https://juejin.im/post/6875713523968802829) 
-- [2020-09-22-Vue3.0全球发布会干货总结](https://juejin.im/post/6875236411349008398) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-09-24-iOS-开发转前端,-公司前端使用-vue+elementUi.-大佬推荐一下学习路线啊.-感觉前端东西好多,-有点不习惯啊](https://www.v2ex.com/t/710039) 
 - [2020-09-24-译-VueJS-中更好的组件组合方式](https://toutiao.io/k/algd8ut) 

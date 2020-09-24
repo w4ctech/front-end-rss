@@ -25,6 +25,11 @@
         "date": "2020-09-23"
       },
       {
+        "title": "美国疫情反弹22州病例持续上升 FDA拟收紧疫苗审批标准",
+        "link": "http://m.international.caixin.com/m/2020-09-24/101609295.html",
+        "date": "2020-09-23"
+      },
+      {
         "title": "香港新冠超级传播事件启示：19%病例或成防疫关键",
         "link": "https://m.caixin.com/m/2020-09-22/101608361.html",
         "date": "2020-09-21"
@@ -14879,6 +14884,36 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "什么是架构师的必备技能？",
+        "link": "https://www.ershicimi.com/p/389248df6844e601db707f1b8f89c5b3",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "React 17.0.0-rc.2  版本发布，引入全新的 JSX 转换",
+        "link": "https://www.ershicimi.com/p/959d75c0d983c8d19dcb1a71ae409e93",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "10个不那么知名但很实用的Web API",
+        "link": "https://www.ershicimi.com/p/15706385a21ea4468f4255f2b5fb5efb",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "尤大 4 天前发在 GitHub 上的 vue-lit 是啥？",
+        "link": "https://www.ershicimi.com/p/b91773fa4e33434018123b80880df8a5",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "竟然还用“土方法”学前端，怪不得你写不出来！ ？",
+        "link": "https://www.ershicimi.com/p/04ef2172b65d298e386a86c308a2e8cd",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "可能是你见过最好的 React Hooks 库",
+        "link": "https://www.ershicimi.com/p/873db08affcdb5d0bcfd4599fad63342",
+        "date": "2020-09-21"
+      },
+      {
         "title": "【官宣】Vue 3.0 发布！",
         "link": "https://www.ershicimi.com/p/d7601950f4eec8df0ada2f62fe534acd",
         "date": "2020-09-19"
@@ -14947,36 +14982,6 @@
         "title": "TypeScript凭什么成为前端圈新宠？",
         "link": "https://www.ershicimi.com/p/98f10c9c3255b7a2c607027a504807cc",
         "date": "2020-09-07"
-      },
-      {
-        "title": "VSCode 的这些黑科技 99% 的人都不知道",
-        "link": "https://www.ershicimi.com/p/c07866b480b6e81a735f2072b531c6f7",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "（前端）史无前例，160买400的硬核书，当当这波羊毛别忘薅",
-        "link": "https://www.ershicimi.com/p/512d5cf0526b32630f7ab55d780b0850",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "20k以上面试必问，Webpack原理和优化",
-        "link": "https://www.ershicimi.com/p/dd519ff53605dc6a78a5bad2fde1c8fd",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "22+ 高频实用的 JavaScript 片段 （2020年）",
-        "link": "https://www.ershicimi.com/p/ee09a441d4f3a019165848d06d13eeb2",
-        "date": "2020-09-03"
-      },
-      {
-        "title": "Typescript 使用日志(干货)",
-        "link": "https://www.ershicimi.com/p/f1dd64e534ebe4864a4eba54809473a4",
-        "date": "2020-09-01"
-      },
-      {
-        "title": "TypeScript 4.0正式发布！现在是开始使用它的最佳时机",
-        "link": "https://www.ershicimi.com/p/1e6610b883aed73746a7bb3c3d8e7373",
-        "date": "2020-08-31"
       }
     ]
   },
@@ -17576,6 +17581,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何实现浏览器内多个标签页之间的通信，是什么意思？",
+        "link": "https://www.v2ex.com/t/710227",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "关于字体授权的一个疑问",
+        "link": "https://www.v2ex.com/t/710226",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "请问 Mojave 的 Xcode 有办法支持 iOS 14 么？",
+        "link": "https://www.v2ex.com/t/710225",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "怎么谈 offer?",
+        "link": "https://www.v2ex.com/t/710224",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "iPhone 中文输入法标点符号变成了乱码。",
+        "link": "https://www.v2ex.com/t/710223",
+        "date": "2020-09-24"
+      },
+      {
         "title": "Neovim 悬浮滚动条，长篇文档再也不怕了。",
         "link": "https://www.v2ex.com/t/710222",
         "date": "2020-09-24"
@@ -17779,21 +17809,6 @@
         "title": "Gorm 使用的问题",
         "link": "https://www.v2ex.com/t/710178",
         "date": "2020-09-24"
-      },
-      {
-        "title": "有掘金的开发在吗？主页一片空白",
-        "link": "https://www.v2ex.com/t/710177",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "全网公认的最易入门的深度学习书籍《深度学习入门》免费视频讲解教程",
-        "link": "https://www.v2ex.com/t/710175",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "炫酷的 CSS 图像处理",
-        "link": "https://www.v2ex.com/t/710174",
-        "date": "2020-09-24"
       }
     ]
   },
@@ -17970,13 +17985,13 @@
         "date": "2020-09-24"
       },
       {
-        "title": "[译] 使用 EndpointSlice 扩展 Kubernetes 网络",
-        "link": "https://toutiao.io/k/4rxs0s5",
+        "title": "只要我跑的够快，内卷它就卷不到我",
+        "link": "https://toutiao.io/k/n27u282",
         "date": "2020-09-24"
       },
       {
-        "title": "只要我跑的够快，内卷它就卷不到我",
-        "link": "https://toutiao.io/k/n27u282",
+        "title": "[译] 使用 EndpointSlice 扩展 Kubernetes 网络",
+        "link": "https://toutiao.io/k/4rxs0s5",
         "date": "2020-09-24"
       },
       {
@@ -18015,23 +18030,33 @@
         "date": "2020-09-24"
       },
       {
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
+        "date": "2020-09-24"
+      },
+      {
         "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
         "link": "https://toutiao.io/k/dcmvw72",
         "date": "2020-09-24"
       },
       {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
         "date": "2020-09-24"
       },
       {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-24"
       },
       {
-        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
-        "link": "https://toutiao.io/k/xzcx65d",
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
         "date": "2020-09-24"
       },
       {
@@ -18040,8 +18065,8 @@
         "date": "2020-09-24"
       },
       {
-        "title": "[推荐] 《一年顶十年》干货读书笔记",
-        "link": "https://toutiao.io/k/okqtla6",
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
         "date": "2020-09-24"
       },
       {
@@ -18050,33 +18075,8 @@
         "date": "2020-09-24"
       },
       {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
-        "link": "https://toutiao.io/k/ok2i1z8",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 硬核看房利器：Web 全景的实现",
-        "link": "https://toutiao.io/k/ihkuhms",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
-        "link": "https://toutiao.io/k/h9nal21",
+        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
+        "link": "https://toutiao.io/k/zu9e79n",
         "date": "2020-09-24"
       },
       {
@@ -18085,8 +18085,23 @@
         "date": "2020-09-24"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
         "date": "2020-09-24"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 06:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 06:27:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -82,4 +82,5 @@
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2020-09-23-Vue3拥抱TypeScript的正确姿势](https://juejin.im/post/6875713523968802829) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-09-24-Vuex-管理状态时，需要在用户登出时清空所有-state-吗？](https://www.v2ex.com/t/710112) 
 - [2020-09-24-译-VueJS-中更好的组件组合方式](https://toutiao.io/k/algd8ut) 

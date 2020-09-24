@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 12:34:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 12:47:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -8,3 +8,4 @@
 
 
 - [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) 
+- [2020-09-24-docker-怎样才能读取配置文件到镜像中？](https://www.v2ex.com/t/710231) 

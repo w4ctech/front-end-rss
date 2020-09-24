@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 12:34:16，:rocket: 更新条数: +3422， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 12:47:09，:rocket: 更新条数: +3440， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -32,7 +32,7 @@
 - [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
-- [前端宇宙](#前端宇宙)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
@@ -570,6 +570,26 @@
 </summary>
 
 
+- [2020-09-24-什么是架构师的必备技能？](https://www.ershicimi.com/p/389248df6844e601db707f1b8f89c5b3) ![](assets/new.png)  
+- [2020-09-24-React-17.0.0-rc.2-版本发布，引入全新的-JSX-转换](https://www.ershicimi.com/p/959d75c0d983c8d19dcb1a71ae409e93) ![](assets/new.png)  
+- [2020-09-22-10个不那么知名但很实用的Web-API](https://www.ershicimi.com/p/15706385a21ea4468f4255f2b5fb5efb) ![](assets/new.png)  
+- [2020-09-21-尤大-4-天前发在-GitHub-上的-vue-lit-是啥？](https://www.ershicimi.com/p/b91773fa4e33434018123b80880df8a5) ![](assets/new.png)  
+- [2020-09-21-竟然还用“土方法”学前端，怪不得你写不出来！-？](https://www.ershicimi.com/p/04ef2172b65d298e386a86c308a2e8cd) ![](assets/new.png)  
+- [2020-09-21-可能是你见过最好的-React-Hooks-库](https://www.ershicimi.com/p/873db08affcdb5d0bcfd4599fad63342) ![](assets/new.png)  
+- [2020-09-19-【官宣】Vue-3.0-发布！](https://www.ershicimi.com/p/d7601950f4eec8df0ada2f62fe534acd) ![](assets/new.png)  
+- [2020-09-18-揭秘阿里、华为、字节跳动等大厂技术实践案例，学习超强避坑指南！](https://www.ershicimi.com/p/ac256244974f2035b6c4e0ee1641b887) ![](assets/new.png)  
+- [2020-09-18-国外那些富有创意的-404-页面](https://www.ershicimi.com/p/59adf442beb89f9f47e0962e7d80ddb6) ![](assets/new.png)  
+- [2020-09-16-2020年9月程序员工资统计](https://www.ershicimi.com/p/322f9313471b7ac17e8ceb2655053e1f) ![](assets/new.png)  
+- [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) ![](assets/new.png)  
+- [2020-09-15-7-个进大厂的必备的技能](https://www.ershicimi.com/p/2a00b424cb08c110f66024e9a62621d2) ![](assets/new.png)  
+- [2020-09-13-【适合收藏】为了多点时间陪女朋友，我向BAT大佬跪求了这15条JS技巧](https://www.ershicimi.com/p/377a93f8f8487721b0841aef9d394740) ![](assets/new.png)  
+- [2020-09-12-推荐几个涨姿势的公众号](https://www.ershicimi.com/p/0b2316c694f5edcdc48d49bca57a6c5d) ![](assets/new.png)  
+- [2020-09-10-TypeScript高级类型备忘录（附示例）](https://www.ershicimi.com/p/b309cb48342fdcd112a1bd62674c8d90) ![](assets/new.png)  
+- [2020-09-10-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/e5142f7f4daf63bcaedc86a976e9312d) ![](assets/new.png)  
+- [2020-09-10-2020-年-9-月编程语言排行榜](https://www.ershicimi.com/p/c00e6398ea9834c304110424f5c461dd) ![](assets/new.png)  
+- [2020-09-08-一个可能让你的页面渲染速度提升数倍的CSS属性](https://www.ershicimi.com/p/e50f0acf35c61187f22209a1e76cc671) ![](assets/new.png)  
+- [2020-09-07-6种展示代码的绝佳方式](https://www.ershicimi.com/p/e84652f11e5cbb34d8b2fdb53abb3e82) ![](assets/new.png)  
+- [2020-09-07-TypeScript凭什么成为前端圈新宠？](https://www.ershicimi.com/p/98f10c9c3255b7a2c607027a504807cc) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-24-杭州/成都-支付宝前端技术部招前端-P5-P8](https://www.v2ex.com/t/710232) ![](assets/new.png)  
+- [2020-09-24-docker-怎样才能读取配置文件到镜像中？](https://www.v2ex.com/t/710231) ![](assets/new.png)  
+- [2020-09-24-阿里云注册账户选择地区，为什么只有港澳台三个选项？](https://www.v2ex.com/t/710230) ![](assets/new.png)  
 - [2020-09-24-如何实现浏览器内多个标签页之间的通信，是什么意思？](https://www.v2ex.com/t/710227) ![](assets/new.png)  
 - [2020-09-24-关于字体授权的一个疑问](https://www.v2ex.com/t/710226) ![](assets/new.png)  
 - [2020-09-24-请问-Mojave-的-Xcode-有办法支持-iOS-14-么？](https://www.v2ex.com/t/710225) ![](assets/new.png)  
@@ -1054,9 +1077,6 @@
 - [2020-09-24-big-sur-正式版啥时候能来？](https://www.v2ex.com/t/710212) ![](assets/new.png)  
 - [2020-09-24-官网-aw-的钢圈太贵了…](https://www.v2ex.com/t/710211) ![](assets/new.png)  
 - [2020-09-24-EPIC-领取的看门狗被-EPIC-强制退款了，你们也是吗](https://www.v2ex.com/t/710210) ![](assets/new.png)  
-- [2020-09-24-恒大微博热搜了](https://www.v2ex.com/t/710209) ![](assets/new.png)  
-- [2020-09-24-Surface-Laptop-4-今年能发布么？好期待呀](https://www.v2ex.com/t/710208) ![](assets/new.png)  
-- [2020-09-24-如何在-SDWebImage-下载图片前先获取包含图片链接的数据](https://www.v2ex.com/t/710207) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1111,8 +1131,8 @@
 - [2020-09-24-译-Apache-Pulsar-的分层存储](https://toutiao.io/k/xxfwe9y) ![](assets/new.png)  
 - [2020-09-24-译-2020-年-Spring-状态报告](https://toutiao.io/k/axegdfu) ![](assets/new.png)  
 - [2020-09-24-还在担心服务挂掉？Sentinel-Go-让服务稳如磐石](https://toutiao.io/k/sx4z39h) ![](assets/new.png)  
-- [2020-09-24-只要我跑的够快，内卷它就卷不到我](https://toutiao.io/k/n27u282) ![](assets/new.png)  
 - [2020-09-24-译-使用-EndpointSlice-扩展-Kubernetes-网络](https://toutiao.io/k/4rxs0s5) ![](assets/new.png)  
+- [2020-09-24-只要我跑的够快，内卷它就卷不到我](https://toutiao.io/k/n27u282) ![](assets/new.png)  
 - [2020-09-24-字节跳动-Flink-单点恢复功能实践](https://toutiao.io/k/usiqxue) ![](assets/new.png)  
 - [2020-09-24-彻底搞懂-Etcd-系列文章（八）：Etcd-事务-API](https://toutiao.io/k/jhqz11t) ![](assets/new.png)  
 - [2020-09-24-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  

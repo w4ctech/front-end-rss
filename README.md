@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 01:03:28，:rocket: 更新条数: +3648， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 01:10:50，:rocket: 更新条数: +3647， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-24-杭州程序员联盟，程序员的归属感](https://www.v2ex.com/t/709971) ![](assets/new.png)  
+- [2020-09-24-为什么现在男女对立情绪这么严重？](https://www.v2ex.com/t/709970) ![](assets/new.png)  
 - [2020-09-24-秋天的第一杯奶茶到底什么梗？](https://www.v2ex.com/t/709968) ![](assets/new.png)  
 - [2020-09-24-求助大佬，-mbp-16-蓝牙和-wifi-突然不可用，怎么都打不开，蓝牙中间有条波浪线](https://www.v2ex.com/t/709967) ![](assets/new.png)  
 - [2020-09-24-迫于穷，代拍沪牌，个人非营业额度](https://www.v2ex.com/t/709966) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-23-半夜拨号不小心拨错了电话-次日发短信致歉有无必要](https://www.v2ex.com/t/709949) ![](assets/new.png)  
 - [2020-09-23-如何能让-VMware-Fusion-像-ESXi-或者-VPS-一样无显示器运行-Windows-虚拟机？](https://www.v2ex.com/t/709948) ![](assets/new.png)  
 - [2020-09-23-请教各位大佬-如何设置-nginx-可使不存在的二级地址跳转到存在的二级地址上](https://www.v2ex.com/t/709947) ![](assets/new.png)  
-- [2020-09-23-困扰已久的问题，-QQ-音乐下载的-flac-格式音乐的专辑封面在哪里？](https://www.v2ex.com/t/709946) ![](assets/new.png)  
-- [2020-09-23-iPad-连接之前钥匙串中的-wifi-提示密码错误](https://www.v2ex.com/t/709945) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1149,16 @@
 - [2020-09-24-计算广告与推荐系统有哪些区别？使用的主流模型有哪些？](https://toutiao.io/k/p3df6c4) ![](assets/new.png)  
 - [2020-09-24-Java-如何支持函数式编程？](https://toutiao.io/k/fchd7b2) ![](assets/new.png)  
 - [2020-09-24-译-使用-EndpointSlice-扩展-Kubernetes-网络](https://toutiao.io/k/4rxs0s5) ![](assets/new.png)  
-- [2020-09-24-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-24-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
-- [2020-09-24-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-24-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
-- [2020-09-24-推荐-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
-- [2020-09-24-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
-- [2020-09-24-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
-- [2020-09-24-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
 - [2020-09-24-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-24-推荐-架构设计：基于消息中间件，图解柔性事务一致性](https://toutiao.io/k/ok2i1z8) ![](assets/new.png)  
+- [2020-09-24-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) ![](assets/new.png)  
+- [2020-09-24-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
+- [2020-09-24-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
+- [2020-09-24-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-24-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
 - [2020-09-24-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-24-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-24-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

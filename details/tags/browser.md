@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 15:04:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 15:12:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,6 +37,7 @@
 - [2020-09-24-kotlin-如何解决-java-开发痛点，让程序员-happier-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-Angular-10-正式发布，不再支持-IE9/10！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13782&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9Bs3jZMOQxKfLPq2PWw6gw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) 
+- [2020-09-24-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-24-新华三给网络安全“武器”装上了“瞄准镜”](https://sec.thief.one/article_content?a_id=74ae77143a99f138c897bd0da7591d9b) 
 - [2020-09-24-中国网络空间安全协会理事长办公会审议安排重点工作](https://sec.thief.one/article_content?a_id=e633ab5e000acbbc34c758286af902bf) 
 - [2020-09-24-53个细分品类-奇安信成《中国网络安全能力图谱》上榜最多的厂商](https://sec.thief.one/article_content?a_id=985ea6cf786b6eaf439e261b48ae3117) 

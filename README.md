@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 01:48:48，:rocket: 更新条数: +3423， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 02:04:09，:rocket: 更新条数: +3423， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,12 @@
 </summary>
 
 
+- [2020-09-24-关于项目的交付前，测试的问题，各位大佬有什么建议？](https://www.v2ex.com/t/709996) ![](assets/new.png)  
+- [2020-09-24-杭州萧山滨江这边有没有打篮球比较规律的，或者公司同事组队打篮球的，可以带我吗](https://www.v2ex.com/t/709995) ![](assets/new.png)  
+- [2020-09-24-请问-opera-的浏览器-不能更改主页的搜索引擎吗？](https://www.v2ex.com/t/709994) ![](assets/new.png)  
+- [2020-09-24-寒假实习值得去吗](https://www.v2ex.com/t/709993) ![](assets/new.png)  
+- [2020-09-24-华为-2000-元代金券来了](https://www.v2ex.com/t/709991) ![](assets/new.png)  
+- [2020-09-24-maven3.6.1-应该配套使用哪个-idea-版本？](https://www.v2ex.com/t/709989) ![](assets/new.png)  
 - [2020-09-24-中秋节快到了，月饼送什么样的好呢？](https://www.v2ex.com/t/709988) ![](assets/new.png)  
 - [2020-09-24-各位一线城市工作的程序员大佬们，你们有尝试过下班尝试滴滴代驾吗？](https://www.v2ex.com/t/709987) ![](assets/new.png)  
 - [2020-09-24-菜鸟驿站是不是在强奸用户体验](https://www.v2ex.com/t/709986) ![](assets/new.png)  
@@ -1071,12 +1077,6 @@
 - [2020-09-24-杭州程序员联盟，程序员的归属感](https://www.v2ex.com/t/709971) ![](assets/new.png)  
 - [2020-09-24-为什么现在男女对立情绪这么严重？](https://www.v2ex.com/t/709970) ![](assets/new.png)  
 - [2020-09-24-秋天的第一杯奶茶到底什么梗？](https://www.v2ex.com/t/709968) ![](assets/new.png)  
-- [2020-09-24-求助大佬，-mbp-16-蓝牙和-wifi-突然不可用，怎么都打不开，蓝牙中间有条波浪线](https://www.v2ex.com/t/709967) ![](assets/new.png)  
-- [2020-09-24-迫于穷，代拍沪牌，个人非营业额度](https://www.v2ex.com/t/709966) ![](assets/new.png)  
-- [2020-09-24-唉，心累](https://www.v2ex.com/t/709965) ![](assets/new.png)  
-- [2020-09-24-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/709964) ![](assets/new.png)  
-- [2020-09-24-Python-如何显示倒计时（同一行自动更新）？](https://www.v2ex.com/t/709963) ![](assets/new.png)  
-- [2020-09-24-威联通-QNAS-的-download-stations-连-PT-没有速度？](https://www.v2ex.com/t/709962) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,8 +1120,8 @@
 
 
 - [2020-09-24-WICC-2020-重磅来袭！你关心的通信前沿技术都在这里！](https://toutiao.io/k/fwudviq) ![](assets/new.png)  
-- [2020-09-24-Rocket-API：快速开发-API-接口](https://toutiao.io/k/2fawv0b) ![](assets/new.png)  
 - [2020-09-24-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
+- [2020-09-24-Rocket-API：快速开发-API-接口](https://toutiao.io/k/2fawv0b) ![](assets/new.png)  
 - [2020-09-24-Go-使用标准库-net/http-包构建服务器](https://toutiao.io/k/ah8srmt) ![](assets/new.png)  
 - [2020-09-24-译-VueJS-中更好的组件组合方式](https://toutiao.io/k/algd8ut) ![](assets/new.png)  
 - [2020-09-24-计算广告与推荐系统有哪些区别？使用的主流模型有哪些？](https://toutiao.io/k/p3df6c4) ![](assets/new.png)  
@@ -1131,14 +1131,14 @@
 - [2020-09-24-译-使用-EndpointSlice-扩展-Kubernetes-网络](https://toutiao.io/k/4rxs0s5) ![](assets/new.png)  
 - [2020-09-24-架构设计：基于-Seata-中间件，微服务模式下事务管理](https://toutiao.io/k/dud78g9) ![](assets/new.png)  
 - [2020-09-24-还在担心服务挂掉？Sentinel-Go-让服务稳如磐石](https://toutiao.io/k/sx4z39h) ![](assets/new.png)  
-- [2020-09-24-只要我跑的够快，内卷它就卷不到我](https://toutiao.io/k/n27u282) ![](assets/new.png)  
 - [2020-09-24-字节跳动-Flink-单点恢复功能实践](https://toutiao.io/k/usiqxue) ![](assets/new.png)  
+- [2020-09-24-只要我跑的够快，内卷它就卷不到我](https://toutiao.io/k/n27u282) ![](assets/new.png)  
 - [2020-09-24-彻底搞懂-Etcd-系列文章（八）：Etcd-事务-API](https://toutiao.io/k/jhqz11t) ![](assets/new.png)  
+- [2020-09-24-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
 - [2020-09-24-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
-- [2020-09-24-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-24-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-24-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
-- [2020-09-24-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
+- [2020-09-24-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
+- [2020-09-24-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 10:49:11，:rocket: 更新条数: +3434， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 11:03:24，:rocket: 更新条数: +3434， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-24-天津连续18周未抽检出流感样病毒阳性标本](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqcwQipT94cmJfZocMyN0200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-24-西班牙成为单日报告新冠肺炎死亡病例最多欧洲国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96eZn8lmLoeICJ1HzNa0200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-24-文旅部：假期出游注意疫情防控-厉行节俭-保护古迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDCE8gqkxsYfeZLy6AaL7200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-24-墨西哥新增4786例新冠肺炎确诊病例-累计超71万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv1B8DkYFt2C1XGrUooNb200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-24-上海9月23日无新增本地新冠肺炎确诊病例-新增境外输入2例-治愈出院3例](http://wsjkw.sh.gov.cn/xwfb/20200924/7b8fdaec60bb492c8041fa4647cffc10.html) ![](assets/new.png)  
-- [2020-09-23-巴西新冠肺炎确诊病例累计超462万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DQeJNZ9GybVftqvc0GD200924&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-24-往美国寄药片这样的小包裹，不考虑时效，最经济的方案是？](https://www.v2ex.com/t/710202) ![](assets/new.png)  
+- [2020-09-24-十一乌镇加西塘，有啥要注意的吗？](https://www.v2ex.com/t/710201) ![](assets/new.png)  
+- [2020-09-24-很奇怪，-Apple-watch-series-6-无法使用血氧测量](https://www.v2ex.com/t/710200) ![](assets/new.png)  
+- [2020-09-24-Facebook-面试题：第一个错误的代码版本](https://www.v2ex.com/t/710199) ![](assets/new.png)  
 - [2020-09-24-迫于表妹上学预算-5000，入二手-mbp13-合适还是二手-mba13-，还是-MacBook-合适？](https://www.v2ex.com/t/710198) ![](assets/new.png)  
 - [2020-09-24-国庆去西安,-第一次去,-求推荐下有没有什么不能错过的美食啊!-特别是不错的小店那种](https://www.v2ex.com/t/710197) ![](assets/new.png)  
 - [2020-09-24-掌上生活-APP，秒领-6-元还款金~](https://www.v2ex.com/t/710196) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-24-上海电信-IPv6-终于开通](https://www.v2ex.com/t/710182) ![](assets/new.png)  
 - [2020-09-24-Android-手机如何接收二进制短信](https://www.v2ex.com/t/710181) ![](assets/new.png)  
 - [2020-09-24-吐槽-Google-Photos-的搜索像谜一样，搞不懂。。](https://www.v2ex.com/t/710180) ![](assets/new.png)  
-- [2020-09-24-发布良心盒子一枚.300-多,软件+硬件+网站源码.](https://www.v2ex.com/t/710179) ![](assets/new.png)  
-- [2020-09-24-Gorm-使用的问题](https://www.v2ex.com/t/710178) ![](assets/new.png)  
-- [2020-09-24-有掘金的开发在吗？主页一片空白](https://www.v2ex.com/t/710177) ![](assets/new.png)  
-- [2020-09-24-全网公认的最易入门的深度学习书籍《深度学习入门》免费视频讲解教程](https://www.v2ex.com/t/710175) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,26 +1150,26 @@
 </summary>
 
 
-- [2020-09-23-【幸福东北】三代养鹿人,走出致富“鹿”](https://sec.thief.one/article_content?a_id=2a0673294c767722cebfe114ed7d4236) ![](assets/new.png)  
-- [2020-09-23-信创适配率先破百-奇安信可信浏览器成政企办公“枢纽”](https://sec.thief.one/article_content?a_id=c6e0f42f63047f0977c3e434456a64e8) ![](assets/new.png)  
-- [2020-09-23-前方两万字高能预警!SMBGhost-&&-SMBleed-漏洞深入研究](https://sec.thief.one/article_content?a_id=72291dbf7149201b4a3ad850a71fc78a) ![](assets/new.png)  
-- [2020-09-23-IBM-WebSphere-Application-Server-XXE-漏洞CVE-2020-4643](https://sec.thief.one/article_content?a_id=4e935ae13657df92c3fe6ac6bbe526e2) ![](assets/new.png)  
-- [2020-09-23-守护云安全,绿盟科技助力推动我国-“互联网+医疗健康”发展](https://sec.thief.one/article_content?a_id=8a05c4674a90ec32dfc65f12452bf9ef) ![](assets/new.png)  
-- [2020-09-23-欧洲央行行长称,数字欧元不会成为现金的替代品](https://sec.thief.one/article_content?a_id=59fc1b4a903cececc4910933702b6bd4) ![](assets/new.png)  
-- [2020-09-23-诸子星球-|-微话题:有单位在用阿里“专属钉钉”的吗?](https://sec.thief.one/article_content?a_id=50962790ad95de72bd07efe2f9a7f969) ![](assets/new.png)  
-- [2020-09-23-报名开启!12家SRC邀你加入双11安全保卫战](https://sec.thief.one/article_content?a_id=dc45f59f355f889e2303a241175f1836) ![](assets/new.png)  
-- [2020-09-23-金九银十招聘季,安全客全新招聘栏正式上线!!!](https://sec.thief.one/article_content?a_id=1b1d2249c37563a7586665ea9c35202d) ![](assets/new.png)  
-- [2020-09-23-特权账号管理那些事](https://sec.thief.one/article_content?a_id=5444e096fe1c7f6dbaf207eaa843f217) ![](assets/new.png)  
-- [2020-09-23-HW防守|应急溯源分析手册汇总篇](https://sec.thief.one/article_content?a_id=f2fe67cba47b294cc01ac30c1b748f7c) ![](assets/new.png)  
-- [2020-09-23-红蓝对抗之近源渗透](https://sec.thief.one/article_content?a_id=b2c823e1e810c0f16531fae55745b1f2) ![](assets/new.png)  
-- [2020-09-23-区块链+生鲜:杜绝“偷梁换柱”和“以次充好”](https://sec.thief.one/article_content?a_id=b6aeef2c57601ca3d7c5c9adf8a078a3) ![](assets/new.png)  
-- [2020-09-23-【CTF】记一次MIPS题目的逆向分析](https://sec.thief.one/article_content?a_id=cae418bcfdcc8762751dca5602c5842a) ![](assets/new.png)  
-- [2020-09-23-因信贷风控不到位,某银行被银保监会处罚](https://sec.thief.one/article_content?a_id=fb045d7baf23e5e4937e2bf13e48778c) ![](assets/new.png)  
-- [2020-09-23-CIA-vault7穹窿7-泄露文件解析](https://sec.thief.one/article_content?a_id=e8e41669d02b2acc16842c5b0f625eb8) ![](assets/new.png)  
-- [2020-09-23-【中国人的故事】构筑网络安全屏障,有我守护](https://sec.thief.one/article_content?a_id=95cf0383c7e7ba5f8d0053022b722e37) ![](assets/new.png)  
-- [2020-09-23-安恒信息安全运营中心威胁情报总结-DAY12](https://sec.thief.one/article_content?a_id=62bbcf8514f1107244229085b567b14c) ![](assets/new.png)  
-- [2020-09-23-快乐了|知识进阶+奶茶自由,沙龙讲师天团请你喝奶茶](https://sec.thief.one/article_content?a_id=d0bd6cd36bc7ccb68afce9a57e63e7f3) ![](assets/new.png)  
-- [2020-09-23-9月23日币种早内参-超46万张以太坊期权将于9月25日到期](https://sec.thief.one/article_content?a_id=5ea0e9596a46ea60909ccf6a0cef3c04) ![](assets/new.png)  
+- [2020-09-24-内存Fuzz与WINAFL实战](https://sec.thief.one/article_content?a_id=01dd4aff6717b023139a247c94a39187) ![](assets/new.png)  
+- [2020-09-24-特斯拉全球性网络中断;美连锁健身馆泄露60万用户数据;视频号黑产...](https://sec.thief.one/article_content?a_id=0b3aac8e796e97ba3828c67c52f9ddd3) ![](assets/new.png)  
+- [2020-09-24-案例丨堡垒机如何让医疗机构运维更安全?](https://sec.thief.one/article_content?a_id=9de2a0029a9459387a1c296f75795026) ![](assets/new.png)  
+- [2020-09-24-第二届”圈子社区”官方线下沙龙暨“豫剑2020“网络安全红队峰会在...](https://sec.thief.one/article_content?a_id=4f061d49d0663c9358b0e6b67815c0af) ![](assets/new.png)  
+- [2020-09-24-CrawlPhish:网络钓鱼中客户端伪装技术的大规模分析](https://sec.thief.one/article_content?a_id=11a9d461dcd44fe8fe18d7b1992222c7) ![](assets/new.png)  
+- [2020-09-24-Windows操作系统基线核查](https://sec.thief.one/article_content?a_id=63bcab21c3e6fe2303af79affe0ae8b4) ![](assets/new.png)  
+- [2020-09-24-【网络安全专家谈】移动App在个人信息保护上需重点解决哪些问题](https://sec.thief.one/article_content?a_id=504b14e5fd79f2ff54e863e3cfb6ec07) ![](assets/new.png)  
+- [2020-09-24-SSRF学习之路丨FastCGI的利用与防御](https://sec.thief.one/article_content?a_id=f75333656e86ae2d846eec2f29e11178) ![](assets/new.png)  
+- [2020-09-24-“我,34岁,底薪2000,月入10万”:懂得理财,赚钱真的一点都不...](https://sec.thief.one/article_content?a_id=98ca8033e2d6bf47967eb579aa06aab1) ![](assets/new.png)  
+- [2020-09-24-Thinkadmin-v6任意文件读取漏洞CVE-2020-25540复现](https://sec.thief.one/article_content?a_id=f94d369e119780eb4e0e40f01ff66ed9) ![](assets/new.png)  
+- [2020-09-24-均涉及信息安全与网络安全:央行近期重要监管要求一览](https://sec.thief.one/article_content?a_id=4644bd07bde7be840bde493a64c7a25d) ![](assets/new.png)  
+- [2020-09-24-【漏洞通告】WebSphere-XML外部实体注入XXE漏洞CVE-...](https://sec.thief.one/article_content?a_id=01427a3aea8585980066ee09d7c00c66) ![](assets/new.png)  
+- [2020-09-24-Parity对波卡底层技术进行升级,简化自定义区块链开发](https://sec.thief.one/article_content?a_id=113beb783ce43b6919a278d1f140d834) ![](assets/new.png)  
+- [2020-09-24-安恒信息安全运营中心威胁情报总结-DAY13](https://sec.thief.one/article_content?a_id=b3790358493662b4872cf00115a5f6b8) ![](assets/new.png)  
+- [2020-09-24-如何快速拥有一辆兰博基尼?安全范儿沙龙,明日揭晓](https://sec.thief.one/article_content?a_id=34743631ca2ef162192fb2bf86e862be) ![](assets/new.png)  
+- [2020-09-24-某菠菜网站渗透实战](https://sec.thief.one/article_content?a_id=1864f2f745667aa5e7e1dd198f4888b6) ![](assets/new.png)  
+- [2020-09-24-9月24日币种早内参-Visa正在研究离线数字货币支付技术](https://sec.thief.one/article_content?a_id=647ea397b1943fc9bd4da947704182ea) ![](assets/new.png)  
+- [2020-09-24-利用-Frida-和-QBDI-动态分析-Android-Native-的各项函数](https://sec.thief.one/article_content?a_id=18482b6885032b4f1b37704bbd4b7b2a) ![](assets/new.png)  
+- [2020-09-24-活动推荐-|-华山论剑•2020网络安全大会](https://sec.thief.one/article_content?a_id=2fc3fff11e5c5e980a5f89af4f1850c3) ![](assets/new.png)  
+- [2020-09-24-小白成长计划第二期](https://sec.thief.one/article_content?a_id=00a0d1421c8b47e9b389742510851f00) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

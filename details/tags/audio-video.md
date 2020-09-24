@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 10:49:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 11:03:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,3 +85,5 @@
 - [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff) 
 - [2020-09-24-全网公认的最易入门的深度学习书籍《深度学习入门》免费视频讲解教程](https://www.v2ex.com/t/710175) 
 - [2020-09-24-字节跳动的-8-轮视频面试流程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13784&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9XHrv6DAb6kb7w4k-c4ctg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-24-特斯拉全球性网络中断;美连锁健身馆泄露60万用户数据;视频号黑产...](https://sec.thief.one/article_content?a_id=0b3aac8e796e97ba3828c67c52f9ddd3) 
+- [2020-09-24-【视频】|-温柔骗局](https://sec.thief.one/article_content?a_id=c7de06c5af52906905e8e188a9928a09) 

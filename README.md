@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 12:04:28，:rocket: 更新条数: +3438， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 12:16:13，:rocket: 更新条数: +3664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,10 @@
 </summary>
 
 
+- [2020-09-24-Neovim-悬浮滚动条，长篇文档再也不怕了。](https://www.v2ex.com/t/710222) ![](assets/new.png)  
+- [2020-09-24-15-40K-PingCAP---不一样的数据库测试工程师-北京，上海，广州，深圳，杭州，成都](https://www.v2ex.com/t/710220) ![](assets/new.png)  
+- [2020-09-24-AppleID-美区，如果无法绑定信用卡的话，用充值卡可以付费吗？](https://www.v2ex.com/t/710219) ![](assets/new.png)  
+- [2020-09-24-为什么有的手机号注册-QQ-需要好友辅助验证-有的则不需要？](https://www.v2ex.com/t/710218) ![](assets/new.png)  
 - [2020-09-24-忽然发现自己有公网-IP、有教育网，能不能折腾点啥](https://www.v2ex.com/t/710217) ![](assets/new.png)  
 - [2020-09-24-MBP2020-13-8-代和-10-代-U-有多大性能提升？](https://www.v2ex.com/t/710216) ![](assets/new.png)  
 - [2020-09-24-动态网页怎么爬取？我想爬-goindex](https://www.v2ex.com/t/710215) ![](assets/new.png)  
@@ -1073,10 +1097,6 @@
 - [2020-09-24-旁边部门工位开生日会，果断来一首-giligili-爱屏蔽噪音。](https://www.v2ex.com/t/710204) ![](assets/new.png)  
 - [2020-09-24-为什么很多人强调接受有意义加班不接受无意义加班？](https://www.v2ex.com/t/710203) ![](assets/new.png)  
 - [2020-09-24-往美国寄药片这样的小包裹，不考虑时效，最经济的方案是？](https://www.v2ex.com/t/710202) ![](assets/new.png)  
-- [2020-09-24-十一乌镇加西塘，有啥要注意的吗？](https://www.v2ex.com/t/710201) ![](assets/new.png)  
-- [2020-09-24-很奇怪，-Apple-watch-series-6-无法使用血氧测量](https://www.v2ex.com/t/710200) ![](assets/new.png)  
-- [2020-09-24-Facebook-面试题：第一个错误的代码版本](https://www.v2ex.com/t/710199) ![](assets/new.png)  
-- [2020-09-24-迫于表妹上学预算-5000，入二手-mbp13-合适还是二手-mba13-，还是-MacBook-合适？](https://www.v2ex.com/t/710198) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,8 +1147,8 @@
 - [2020-09-24-Rocket-API：快速开发-API-接口](https://toutiao.io/k/2fawv0b) ![](assets/new.png)  
 - [2020-09-24-Go-使用标准库-net/http-包构建服务器](https://toutiao.io/k/ah8srmt) ![](assets/new.png)  
 - [2020-09-24-译-VueJS-中更好的组件组合方式](https://toutiao.io/k/algd8ut) ![](assets/new.png)  
-- [2020-09-24-译-Apache-Pulsar-的分层存储](https://toutiao.io/k/xxfwe9y) ![](assets/new.png)  
 - [2020-09-24-Java-如何支持函数式编程？](https://toutiao.io/k/fchd7b2) ![](assets/new.png)  
+- [2020-09-24-译-Apache-Pulsar-的分层存储](https://toutiao.io/k/xxfwe9y) ![](assets/new.png)  
 - [2020-09-24-译-2020-年-Spring-状态报告](https://toutiao.io/k/axegdfu) ![](assets/new.png)  
 - [2020-09-24-还在担心服务挂掉？Sentinel-Go-让服务稳如磐石](https://toutiao.io/k/sx4z39h) ![](assets/new.png)  
 - [2020-09-24-译-使用-EndpointSlice-扩展-Kubernetes-网络](https://toutiao.io/k/4rxs0s5) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 09:04:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 09:12:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -34,6 +34,5 @@
 - [2020-09-15-轻松学会-React-钩子：以-useEffect-为例](http://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
-- [2020-09-23-react列表中的key属性](https://juejin.im/post/6875862700811878407) 
 - [2020-09-24-上海或武汉全职可远程,-15k-至-35k-继续招募优质-Node.js/iOS/React/QA-狂魔们！](https://www.v2ex.com/t/710161) 
 - [2020-09-24-译-React-Hooks-的丑陋一面](https://toutiao.io/k/eja38bo) 

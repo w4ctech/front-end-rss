@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 07:12:59，:rocket: 更新条数: +3665， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 07:24:23，:rocket: 更新条数: +3438， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-24-看到好几处-说-IT-从业者出轨率最高](https://www.v2ex.com/t/710129) ![](assets/new.png)  
+- [2020-09-24-求介绍安装黑果需要啥配置](https://www.v2ex.com/t/710128) ![](assets/new.png)  
+- [2020-09-24-迫于没理由，出-3500-元京东-E-卡](https://www.v2ex.com/t/710126) ![](assets/new.png)  
 - [2020-09-24-有没有懂眼镜的-V-友，请教下镜片中间薄边缘厚导致边缘看出去有明显弯曲变形是正常情况么？](https://www.v2ex.com/t/710125) ![](assets/new.png)  
 - [2020-09-24-买房信息获取](https://www.v2ex.com/t/710124) ![](assets/new.png)  
 - [2020-09-24-急急急：招个爱玩的安卓开发做同事-13-18k13-薪-base-广州越秀](https://www.v2ex.com/t/710123) ![](assets/new.png)  
@@ -1094,9 +1077,6 @@
 - [2020-09-24-关于-flask-sqlachemy-数据库回滚的问题](https://www.v2ex.com/t/710110) ![](assets/new.png)  
 - [2020-09-24-求-K2P-好用的-openWRT-固件](https://www.v2ex.com/t/710109) ![](assets/new.png)  
 - [2020-09-24-落魄程序员，在线预约国庆副业：上门喂猫](https://www.v2ex.com/t/710108) ![](assets/new.png)  
-- [2020-09-24-求透漏。。。](https://www.v2ex.com/t/710107) ![](assets/new.png)  
-- [2020-09-24-两个-E5-2609-V4，两个-CPU-散热片，两根-16G-不清楚频率的内存，花了-7000，，呵呵](https://www.v2ex.com/t/710106) ![](assets/new.png)  
-- [2020-09-24-请问-ios-app-使用后台位置更新的方法常驻后台如何能绕过-apple-审核？](https://www.v2ex.com/t/710104) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

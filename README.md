@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 14:25:30，:rocket: 更新条数: +3440， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 14:32:29，:rocket: 更新条数: +3440， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-24-求推荐支持-wifi6-的纯-ap](https://www.v2ex.com/t/710248) ![](assets/new.png)  
 - [2020-09-24-居然有人说博客不好看，好气哦～](https://www.v2ex.com/t/710247) ![](assets/new.png)  
 - [2020-09-24-使用区块链给图片建立信任](https://www.v2ex.com/t/710244) ![](assets/new.png)  
 - [2020-09-24-Safari-合并窗口问题](https://www.v2ex.com/t/710243) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-24-关于字体授权的一个疑问](https://www.v2ex.com/t/710226) ![](assets/new.png)  
 - [2020-09-24-请问-Mojave-的-Xcode-有办法支持-iOS-14-么？](https://www.v2ex.com/t/710225) ![](assets/new.png)  
 - [2020-09-24-怎么谈-offer?](https://www.v2ex.com/t/710224) ![](assets/new.png)  
-- [2020-09-24-iPhone-中文输入法标点符号变成了乱码。](https://www.v2ex.com/t/710223) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

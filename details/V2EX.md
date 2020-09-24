@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-24 14:25:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 14:32:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-24-求推荐支持-wifi6-的纯-ap](https://www.v2ex.com/t/710248) 
 - [2020-09-24-居然有人说博客不好看，好气哦～](https://www.v2ex.com/t/710247) 
 - [2020-09-24-使用区块链给图片建立信任](https://www.v2ex.com/t/710244) 
 - [2020-09-24-Safari-合并窗口问题](https://www.v2ex.com/t/710243) 
@@ -48,4 +49,3 @@
 - [2020-09-24-十一乌镇加西塘，有啥要注意的吗？](https://www.v2ex.com/t/710201) 
 - [2020-09-24-很奇怪，-Apple-watch-series-6-无法使用血氧测量](https://www.v2ex.com/t/710200) 
 - [2020-09-24-Facebook-面试题：第一个错误的代码版本](https://www.v2ex.com/t/710199) 
-- [2020-09-24-迫于表妹上学预算-5000，入二手-mbp13-合适还是二手-mba13-，还是-MacBook-合适？](https://www.v2ex.com/t/710198) 

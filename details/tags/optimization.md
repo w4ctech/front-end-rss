@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 14:25:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 14:32:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -20,4 +20,3 @@
 - [2020-09-24-阿里的-dns-over-tls-好卡，微博微信的某些图片加载一万年](https://www.v2ex.com/t/710240) 
 - [2020-09-24-MBP2020-13-8-代和-10-代-U-有多大性能提升？](https://www.v2ex.com/t/710216) 
 - [2020-09-24-Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-24-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) 

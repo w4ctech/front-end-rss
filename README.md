@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 03:24:56，:rocket: 更新条数: +3435， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 03:32:13，:rocket: 更新条数: +3436， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-24-墨西哥新增4786例新冠肺炎确诊病例-累计超71万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv1B8DkYFt2C1XGrUooNb200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-24-上海9月23日无新增本地新冠肺炎确诊病例-新增境外输入2例-治愈出院3例](http://wsjkw.sh.gov.cn/xwfb/20200924/7b8fdaec60bb492c8041fa4647cffc10.html) ![](assets/new.png)  
 - [2020-09-23-巴西新冠肺炎确诊病例累计超462万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DQeJNZ9GybVftqvc0GD200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-23-美国新冠肺炎确诊病例累计超692万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRQXDzz3jFVPlzJk8tJpW200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-23-世卫组织：全球新冠肺炎确诊病例超过3142万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW3hJJxJGu1sHbIMrnIj7200924&isfromapp=1) ![](assets/new.png)  
-- [2020-09-23-肯尼亚召回教师，关闭数月后学校即将重开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiunlAfSjSIZr1bR5htkWC200923&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-24-打算买保险，我快要疯了，大家是怎么挑选的？](https://www.v2ex.com/t/710045) ![](assets/new.png)  
+- [2020-09-24-阿里云-you-惠返现金，-zhao-代理](https://www.v2ex.com/t/710044) ![](assets/new.png)  
 - [2020-09-24-阿里巴巴杭州本地生活前端欢迎来撩](https://www.v2ex.com/t/710042) ![](assets/new.png)  
 - [2020-09-24-远程引用文件的时候，不写-http，直接用//www.baidu.com/-这种方式为什么不适用于-iframe-标签？](https://www.v2ex.com/t/710041) ![](assets/new.png)  
 - [2020-09-24-一个完美的算法，生成完美的迷宫](https://www.v2ex.com/t/710040) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-24-Gboard-2.3.13-更新后遇到的问题](https://www.v2ex.com/t/710025) ![](assets/new.png)  
 - [2020-09-24-工作三年，只想在舒适圈待着了](https://www.v2ex.com/t/710024) ![](assets/new.png)  
 - [2020-09-24-同志们，大家在北京都选择用什么宽带啊。](https://www.v2ex.com/t/710023) ![](assets/new.png)  
-- [2020-09-24-房屋转租-转租上海青浦重固朝南主卧一间-1150-元/月](https://www.v2ex.com/t/710022) ![](assets/new.png)  
-- [2020-09-24-微信中投诉某些公众号时卡在空白的“验证”页面无法继续投诉](https://www.v2ex.com/t/710021) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

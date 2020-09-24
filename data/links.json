@@ -13257,6 +13257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "墨西哥新增4786例新冠肺炎确诊病例 累计超71万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv1B8DkYFt2C1XGrUooNb200924&isfromapp=1",
+        "date": "2020-09-24"
+      },
+      {
         "title": "上海9月23日无新增本地新冠肺炎确诊病例 新增境外输入2例 治愈出院3例",
         "link": "http://wsjkw.sh.gov.cn/xwfb/20200924/7b8fdaec60bb492c8041fa4647cffc10.html",
         "date": "2020-09-24"
@@ -13274,11 +13279,6 @@
       {
         "title": "世卫组织：全球新冠肺炎确诊病例超过3142万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW3hJJxJGu1sHbIMrnIj7200924&isfromapp=1",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "肯尼亚召回教师，关闭数月后学校即将重开",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiunlAfSjSIZr1bR5htkWC200923&isfromapp=1",
         "date": "2020-09-23"
       }
     ]
@@ -16435,6 +16435,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "打算买保险，我快要疯了，大家是怎么挑选的？",
+        "link": "https://www.v2ex.com/t/710045",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "阿里云 you 惠返现金， zhao 代理",
+        "link": "https://www.v2ex.com/t/710044",
+        "date": "2020-09-24"
+      },
+      {
         "title": "[阿里巴巴][杭州]本地生活前端欢迎来撩",
         "link": "https://www.v2ex.com/t/710042",
         "date": "2020-09-24"
@@ -16642,16 +16652,6 @@
       {
         "title": "关于项目的交付前，测试的问题，各位大佬有什么建议？",
         "link": "https://www.v2ex.com/t/709996",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "杭州萧山滨江这边有没有打篮球比较规律的，或者公司同事组队打篮球的，可以带我吗",
-        "link": "https://www.v2ex.com/t/709995",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "请问 opera 的浏览器 不能更改主页的搜索引擎吗？",
-        "link": "https://www.v2ex.com/t/709994",
         "date": "2020-09-24"
       }
     ]
@@ -16869,6 +16869,46 @@
         "date": "2020-09-24"
       },
       {
+        "title": "浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 解密 Go 协程的栈内存管理",
+        "link": "https://toutiao.io/k/fkrobd3",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
+        "link": "https://toutiao.io/k/o0417c6",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
+        "link": "https://toutiao.io/k/dcmvw72",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
+        "date": "2020-09-24"
+      },
+      {
         "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
         "link": "https://toutiao.io/k/tyygn3e",
         "date": "2020-09-24"
@@ -16879,13 +16919,18 @@
         "date": "2020-09-24"
       },
       {
-        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
-        "link": "https://toutiao.io/k/xzcx65d",
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
         "date": "2020-09-24"
       },
       {
         "title": "[推荐] 架构设计：基于消息中间件，图解柔性事务一致性",
         "link": "https://toutiao.io/k/ok2i1z8",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "[推荐] 新一代缓存 Caffeine，速度确实比 Guava 的 Cache 快",
+        "link": "https://toutiao.io/k/5xvc683",
         "date": "2020-09-24"
       },
       {
@@ -16899,48 +16944,8 @@
         "date": "2020-09-24"
       },
       {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
-        "date": "2020-09-24"
-      },
-      {
         "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
         "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 解密 Go 协程的栈内存管理",
-        "link": "https://toutiao.io/k/fkrobd3",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "[推荐] 《一年顶十年》干货读书笔记",
-        "link": "https://toutiao.io/k/okqtla6",
         "date": "2020-09-24"
       }
     ]

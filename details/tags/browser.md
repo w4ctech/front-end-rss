@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 00:34:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 01:03:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,13 +25,20 @@
 - [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
 - [2020-09-08-你需要了解的六种渲染模式](https://www.ershicimi.com/p/1e54d44ece85130d8ad409921335e91e) 
 - [2020-09-16-15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/6132906ae7deb3d51731b82fc93b3f87) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-23-有手表的建议不要把电池-widget-放在负一屏](https://www.v2ex.com/t/709956) 
 - [2020-09-23-ES2020-引入的“链判断运算符”?.-是借鉴-Angular-的安全导航运算符-吗](https://www.v2ex.com/t/709935) 
-- [2020-09-23-招行信用卡羊毛，加起来可以领-12-元-複質口令打开掌上生活*l4p8ried*帮我领还款金、话费券](https://www.v2ex.com/t/709914) 
 - [2020-09-24-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-kotlin-如何解决-java-开发痛点，让程序员-happier-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

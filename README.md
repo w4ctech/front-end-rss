@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 01:33:18，:rocket: 更新条数: +3648， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 01:47:07，:rocket: 更新条数: +3648， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-24-上海9月23日无新增本地新冠肺炎确诊病例-新增境外输入2例-治愈出院3例](http://wsjkw.sh.gov.cn/xwfb/20200924/7b8fdaec60bb492c8041fa4647cffc10.html) ![](assets/new.png)  
 - [2020-09-23-巴西新冠肺炎确诊病例累计超462万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DQeJNZ9GybVftqvc0GD200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-23-美国新冠肺炎确诊病例累计超692万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRQXDzz3jFVPlzJk8tJpW200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-23-世卫组织：全球新冠肺炎确诊病例超过3142万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW3hJJxJGu1sHbIMrnIj7200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-23-肯尼亚召回教师，关闭数月后学校即将重开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiunlAfSjSIZr1bR5htkWC200923&isfromapp=1) ![](assets/new.png)  
-- [2020-09-23-巴西马瑙斯可能已经群体免疫？科学家提醒人们仍要保持警惕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZptduzDhMrusntX6Hv6w200923&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-24-中秋节快到了，月饼送什么样的好呢？](https://www.v2ex.com/t/709988) ![](assets/new.png)  
+- [2020-09-24-各位一线城市工作的程序员大佬们，你们有尝试过下班尝试滴滴代驾吗？](https://www.v2ex.com/t/709987) ![](assets/new.png)  
+- [2020-09-24-菜鸟驿站是不是在强奸用户体验](https://www.v2ex.com/t/709986) ![](assets/new.png)  
 - [2020-09-24-从善如流，到-apple-美区商店买-gift-card，发现账单信息要填美区电话怎么办？](https://www.v2ex.com/t/709984) ![](assets/new.png)  
 - [2020-09-24-程序员副业是想太多吗？](https://www.v2ex.com/t/709982) ![](assets/new.png)  
 - [2020-09-24-为啥-iPhone-音乐-app，歌已经是下载到本地了，点击播放之后，经常需要等一段时间才能正常开始播放，这是什么原因？](https://www.v2ex.com/t/709980) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-09-24-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/709964) ![](assets/new.png)  
 - [2020-09-24-Python-如何显示倒计时（同一行自动更新）？](https://www.v2ex.com/t/709963) ![](assets/new.png)  
 - [2020-09-24-威联通-QNAS-的-download-stations-连-PT-没有速度？](https://www.v2ex.com/t/709962) ![](assets/new.png)  
-- [2020-09-24-华为-HUAWEI-FreeBuds-Pro-主动降噪真无线蓝牙入耳式耳机，怎么样？](https://www.v2ex.com/t/709961) ![](assets/new.png)  
-- [2020-09-24-TGPPL-开源协议，是否有利于开源项目商业化？](https://www.v2ex.com/t/709960) ![](assets/new.png)  
-- [2020-09-23-Android-开发技术周报-Issue#296](https://www.v2ex.com/t/709957) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,20 +1144,20 @@
 - [2020-09-24-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
 - [2020-09-24-Go-使用标准库-net/http-包构建服务器](https://toutiao.io/k/ah8srmt) ![](assets/new.png)  
 - [2020-09-24-译-VueJS-中更好的组件组合方式](https://toutiao.io/k/algd8ut) ![](assets/new.png)  
+- [2020-09-24-计算广告与推荐系统有哪些区别？使用的主流模型有哪些？](https://toutiao.io/k/p3df6c4) ![](assets/new.png)  
 - [2020-09-24-译-Apache-Pulsar-的分层存储](https://toutiao.io/k/xxfwe9y) ![](assets/new.png)  
 - [2020-09-24-译-2020-年-Spring-状态报告](https://toutiao.io/k/axegdfu) ![](assets/new.png)  
-- [2020-09-24-计算广告与推荐系统有哪些区别？使用的主流模型有哪些？](https://toutiao.io/k/p3df6c4) ![](assets/new.png)  
 - [2020-09-24-Java-如何支持函数式编程？](https://toutiao.io/k/fchd7b2) ![](assets/new.png)  
 - [2020-09-24-译-使用-EndpointSlice-扩展-Kubernetes-网络](https://toutiao.io/k/4rxs0s5) ![](assets/new.png)  
 - [2020-09-24-架构设计：基于-Seata-中间件，微服务模式下事务管理](https://toutiao.io/k/dud78g9) ![](assets/new.png)  
-- [2020-09-24-字节跳动-Flink-单点恢复功能实践](https://toutiao.io/k/usiqxue) ![](assets/new.png)  
 - [2020-09-24-还在担心服务挂掉？Sentinel-Go-让服务稳如磐石](https://toutiao.io/k/sx4z39h) ![](assets/new.png)  
 - [2020-09-24-只要我跑的够快，内卷它就卷不到我](https://toutiao.io/k/n27u282) ![](assets/new.png)  
+- [2020-09-24-字节跳动-Flink-单点恢复功能实践](https://toutiao.io/k/usiqxue) ![](assets/new.png)  
 - [2020-09-24-彻底搞懂-Etcd-系列文章（八）：Etcd-事务-API](https://toutiao.io/k/jhqz11t) ![](assets/new.png)  
-- [2020-09-24-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-24-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-24-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-24-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
+- [2020-09-24-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-24-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-24-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-24-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
 - [2020-09-24-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

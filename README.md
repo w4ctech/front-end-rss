@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 07:34:44，:rocket: 更新条数: +3437， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 07:47:32，:rocket: 更新条数: +3428， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -663,6 +663,9 @@
 </summary>
 
 
+- [2020-09-24-Node.js-定时器详解](https://www.ershicimi.com/p/5f7301ddf1080f76b099a5be3ba69ccd) ![](assets/new.png)  
+- [2020-09-23-Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/29fa0a1bf73f5284b1a0b04a5c6bf2e5) ![](assets/new.png)  
+- [2020-09-22-运维的报表之路，用-Node.js-轻松发送-grafana-报表](https://www.ershicimi.com/p/23027332cbc0022f3ad9e9fac1ded4c6) ![](assets/new.png)  
 - [2020-09-21-7-个进阶大厂的必备技能](https://www.ershicimi.com/p/7182303353ea6f263bccc2774f21cac6) ![](assets/new.png)  
 - [2020-09-20-CNodejs每日新闻周刊｜第-6-期](https://www.ershicimi.com/p/d497726d3508bc612d33b1bf38c2c7f1) ![](assets/new.png)  
 - [2020-09-18-基于-Unix-Socket-的可靠-Node.js-HTTP-代理实现（支持-WebSocket](https://www.ershicimi.com/p/a34f963ae8b809e34df37404d03c8821) ![](assets/new.png)  
@@ -680,9 +683,6 @@
 - [2020-08-27-什么？华为开始对Node&Vue下手了？](https://www.ershicimi.com/p/fa7c430e5710d6664aaf2ebf5b132816) ![](assets/new.png)  
 - [2020-08-26-一篇文章构建你的-Node.js-知识体系](https://www.ershicimi.com/p/f1fb1a33a8919fc776903a2c25cf09d2) ![](assets/new.png)  
 - [2020-08-24-如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/f492d329ae09069db4024ed25a7531ee) ![](assets/new.png)  
-- [2020-08-23-CNodejs每日新闻周刊｜第-3-期](https://www.ershicimi.com/p/aa8ce2fb495c2ce2e13fe5d917ab5741) ![](assets/new.png)  
-- [2020-08-23-CNodejs每日新闻周刊｜第-2-期](https://www.ershicimi.com/p/b770e0e896eaae7a0368cd15b5b8a48a) ![](assets/new.png)  
-- [2020-08-22-推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806) ![](assets/new.png)  
 - [......【查看更多】......](./details/Nodejs技术栈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1047,7 @@
 </summary>
 
 
+- [2020-09-24-国庆有珠海到江门的顺风车吗，求](https://www.v2ex.com/t/710135) ![](assets/new.png)  
 - [2020-09-24-分享一个更新-ddns-ipv6-的脚本！](https://www.v2ex.com/t/710134) ![](assets/new.png)  
 - [2020-09-24-有最近在找工作的吗？这里有一个模拟面试的机会](https://www.v2ex.com/t/710133) ![](assets/new.png)  
 - [2020-09-24-SpringSecurity-Oauth2-认证流程在-Docker-容器的跳转的问题](https://www.v2ex.com/t/710132) ![](assets/new.png)  
@@ -1076,7 +1067,6 @@
 - [2020-09-24-分享几款-Mac-端超好用的免费开源软件](https://www.v2ex.com/t/710115) ![](assets/new.png)  
 - [2020-09-24-使用-Google-Analytics-的-gtag.js-部署，是否会存在墙的问题](https://www.v2ex.com/t/710113) ![](assets/new.png)  
 - [2020-09-24-Vuex-管理状态时，需要在用户登出时清空所有-state-吗？](https://www.v2ex.com/t/710112) ![](assets/new.png)  
-- [2020-09-24-国庆回家，想送外甥女一些文具，求推荐](https://www.v2ex.com/t/710111) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,19 +1116,19 @@
 - [2020-09-24-Rocket-API：快速开发-API-接口](https://toutiao.io/k/2fawv0b) ![](assets/new.png)  
 - [2020-09-24-Go-使用标准库-net/http-包构建服务器](https://toutiao.io/k/ah8srmt) ![](assets/new.png)  
 - [2020-09-24-译-VueJS-中更好的组件组合方式](https://toutiao.io/k/algd8ut) ![](assets/new.png)  
-- [2020-09-24-译-Apache-Pulsar-的分层存储](https://toutiao.io/k/xxfwe9y) ![](assets/new.png)  
-- [2020-09-24-Java-如何支持函数式编程？](https://toutiao.io/k/fchd7b2) ![](assets/new.png)  
-- [2020-09-24-译-2020-年-Spring-状态报告](https://toutiao.io/k/axegdfu) ![](assets/new.png)  
 - [2020-09-24-译-React-Hooks-的丑陋一面](https://toutiao.io/k/eja38bo) ![](assets/new.png)  
-- [2020-09-24-还在担心服务挂掉？Sentinel-Go-让服务稳如磐石](https://toutiao.io/k/sx4z39h) ![](assets/new.png)  
+- [2020-09-24-译-Apache-Pulsar-的分层存储](https://toutiao.io/k/xxfwe9y) ![](assets/new.png)  
+- [2020-09-24-译-2020-年-Spring-状态报告](https://toutiao.io/k/axegdfu) ![](assets/new.png)  
+- [2020-09-24-Java-如何支持函数式编程？](https://toutiao.io/k/fchd7b2) ![](assets/new.png)  
 - [2020-09-24-译-使用-EndpointSlice-扩展-Kubernetes-网络](https://toutiao.io/k/4rxs0s5) ![](assets/new.png)  
+- [2020-09-24-还在担心服务挂掉？Sentinel-Go-让服务稳如磐石](https://toutiao.io/k/sx4z39h) ![](assets/new.png)  
 - [2020-09-24-只要我跑的够快，内卷它就卷不到我](https://toutiao.io/k/n27u282) ![](assets/new.png)  
 - [2020-09-24-字节跳动-Flink-单点恢复功能实践](https://toutiao.io/k/usiqxue) ![](assets/new.png)  
 - [2020-09-24-彻底搞懂-Etcd-系列文章（八）：Etcd-事务-API](https://toutiao.io/k/jhqz11t) ![](assets/new.png)  
 - [2020-09-24-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
 - [2020-09-24-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
-- [2020-09-24-探索更完整的前端测试策略](https://toutiao.io/k/0k91aa0) ![](assets/new.png)  
 - [2020-09-24-大数据下的质量体系建设](https://toutiao.io/k/kizcvts) ![](assets/new.png)  
+- [2020-09-24-探索更完整的前端测试策略](https://toutiao.io/k/0k91aa0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

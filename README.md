@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 07:24:23，:rocket: 更新条数: +3438， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 07:32:32，:rocket: 更新条数: +3437， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,9 +1057,12 @@
 </summary>
 
 
+- [2020-09-24-分享一个更新-ddns-ipv6-的脚本！](https://www.v2ex.com/t/710134) ![](assets/new.png)  
+- [2020-09-24-有最近在找工作的吗？这里有一个模拟面试的机会](https://www.v2ex.com/t/710133) ![](assets/new.png)  
+- [2020-09-24-SpringSecurity-Oauth2-认证流程在-Docker-容器的跳转的问题](https://www.v2ex.com/t/710132) ![](assets/new.png)  
+- [2020-09-24-xdm-重构太有意思了](https://www.v2ex.com/t/710131) ![](assets/new.png)  
 - [2020-09-24-看到好几处-说-IT-从业者出轨率最高](https://www.v2ex.com/t/710129) ![](assets/new.png)  
 - [2020-09-24-求介绍安装黑果需要啥配置](https://www.v2ex.com/t/710128) ![](assets/new.png)  
-- [2020-09-24-迫于没理由，出-3500-元京东-E-卡](https://www.v2ex.com/t/710126) ![](assets/new.png)  
 - [2020-09-24-有没有懂眼镜的-V-友，请教下镜片中间薄边缘厚导致边缘看出去有明显弯曲变形是正常情况么？](https://www.v2ex.com/t/710125) ![](assets/new.png)  
 - [2020-09-24-买房信息获取](https://www.v2ex.com/t/710124) ![](assets/new.png)  
 - [2020-09-24-急急急：招个爱玩的安卓开发做同事-13-18k13-薪-base-广州越秀](https://www.v2ex.com/t/710123) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-24-使用-Google-Analytics-的-gtag.js-部署，是否会存在墙的问题](https://www.v2ex.com/t/710113) ![](assets/new.png)  
 - [2020-09-24-Vuex-管理状态时，需要在用户登出时清空所有-state-吗？](https://www.v2ex.com/t/710112) ![](assets/new.png)  
 - [2020-09-24-国庆回家，想送外甥女一些文具，求推荐](https://www.v2ex.com/t/710111) ![](assets/new.png)  
-- [2020-09-24-关于-flask-sqlachemy-数据库回滚的问题](https://www.v2ex.com/t/710110) ![](assets/new.png)  
-- [2020-09-24-求-K2P-好用的-openWRT-固件](https://www.v2ex.com/t/710109) ![](assets/new.png)  
-- [2020-09-24-落魄程序员，在线预约国庆副业：上门喂猫](https://www.v2ex.com/t/710108) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,15 +1130,15 @@
 - [2020-09-24-Java-如何支持函数式编程？](https://toutiao.io/k/fchd7b2) ![](assets/new.png)  
 - [2020-09-24-译-2020-年-Spring-状态报告](https://toutiao.io/k/axegdfu) ![](assets/new.png)  
 - [2020-09-24-译-React-Hooks-的丑陋一面](https://toutiao.io/k/eja38bo) ![](assets/new.png)  
-- [2020-09-24-译-使用-EndpointSlice-扩展-Kubernetes-网络](https://toutiao.io/k/4rxs0s5) ![](assets/new.png)  
 - [2020-09-24-还在担心服务挂掉？Sentinel-Go-让服务稳如磐石](https://toutiao.io/k/sx4z39h) ![](assets/new.png)  
+- [2020-09-24-译-使用-EndpointSlice-扩展-Kubernetes-网络](https://toutiao.io/k/4rxs0s5) ![](assets/new.png)  
 - [2020-09-24-只要我跑的够快，内卷它就卷不到我](https://toutiao.io/k/n27u282) ![](assets/new.png)  
-- [2020-09-24-彻底搞懂-Etcd-系列文章（八）：Etcd-事务-API](https://toutiao.io/k/jhqz11t) ![](assets/new.png)  
 - [2020-09-24-字节跳动-Flink-单点恢复功能实践](https://toutiao.io/k/usiqxue) ![](assets/new.png)  
+- [2020-09-24-彻底搞懂-Etcd-系列文章（八）：Etcd-事务-API](https://toutiao.io/k/jhqz11t) ![](assets/new.png)  
 - [2020-09-24-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
 - [2020-09-24-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
-- [2020-09-24-大数据下的质量体系建设](https://toutiao.io/k/kizcvts) ![](assets/new.png)  
 - [2020-09-24-探索更完整的前端测试策略](https://toutiao.io/k/0k91aa0) ![](assets/new.png)  
+- [2020-09-24-大数据下的质量体系建设](https://toutiao.io/k/kizcvts) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

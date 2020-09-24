@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 14:49:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 15:04:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-19-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-09-14-前端性能优化【进阶篇】](https://www.ershicimi.com/p/0d38ecc5f39a0d3787e70d0dab1347fa) 
 - [2020-09-09-腾讯音乐移动端页面通用性能优化实践](https://www.ershicimi.com/p/951c47621be39d733c40f8453c62418b) 
 - [2020-08-09-编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab) 
@@ -19,3 +20,4 @@
 - [2020-09-24-阿里的-dns-over-tls-好卡，微博微信的某些图片加载一万年](https://www.v2ex.com/t/710240) 
 - [2020-09-24-MBP2020-13-8-代和-10-代-U-有多大性能提升？](https://www.v2ex.com/t/710216) 
 - [2020-09-24-Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-24-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) 

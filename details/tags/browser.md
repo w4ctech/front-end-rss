@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 11:34:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 11:46:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,7 @@
 - [2020-09-24-kotlin-如何解决-java-开发痛点，让程序员-happier-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-Angular-10-正式发布，不再支持-IE9/10！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13782&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9Bs3jZMOQxKfLPq2PWw6gw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) 
+- [2020-09-24-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-24-案例丨堡垒机如何让医疗机构运维更安全?](https://sec.thief.one/article_content?a_id=9de2a0029a9459387a1c296f75795026) 
 - [2020-09-24-第二届”圈子社区”官方线下沙龙暨“豫剑2020“网络安全红队峰会在...](https://sec.thief.one/article_content?a_id=4f061d49d0663c9358b0e6b67815c0af) 
 - [2020-09-24-【网络安全专家谈】移动App在个人信息保护上需重点解决哪些问题](https://sec.thief.one/article_content?a_id=504b14e5fd79f2ff54e863e3cfb6ec07) 

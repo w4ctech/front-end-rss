@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 04:13:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 04:25:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -30,5 +30,4 @@
 - [2020-08-23-CNodejs每日新闻周刊｜第-2-期](https://www.ershicimi.com/p/b770e0e896eaae7a0368cd15b5b8a48a) 
 - [2020-08-22-推荐几个前端、Node.js-方向优质公众号](https://www.ershicimi.com/p/22ae84f340ad0e14072776b690169806) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
-- [2020-09-23-「经典升华」V8引擎的垃圾内存回收机制](https://juejin.im/post/6875714523332870157) 
 - [2020-09-24-付费咨询Electron-直接套网页可以做到登录页和内页不同的显示方式吗？](https://www.v2ex.com/t/710058) 

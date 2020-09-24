@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 23:34:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 23:46:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2020-09-24-如何实现浏览器内多个标签页之间的通信，是什么意思？](https://www.v2ex.com/t/710227) 
 - [2020-09-24-关于字体授权的一个疑问](https://www.v2ex.com/t/710226) 
 - [2020-09-24-请问-Mojave-的-Xcode-有办法支持-iOS-14-么？](https://www.v2ex.com/t/710225) 
-- [2020-09-24-怎么谈-offer?](https://www.v2ex.com/t/710224) 

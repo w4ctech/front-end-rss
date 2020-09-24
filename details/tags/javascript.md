@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 04:49:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 05:03:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -132,6 +132,6 @@
 - [2020-09-24-celery-worker-启动后自动退出-无任何报错信息](https://www.v2ex.com/t/710056) 
 - [2020-09-24-下载-f.txt.js?](https://www.v2ex.com/t/710049) 
 - [2020-09-24-Java-如何支持函数式编程？](https://toutiao.io/k/fchd7b2) 
-- [2020-09-24-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
+- [2020-09-24-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
 - [2020-09-23-信创适配率先破百-奇安信可信浏览器成政企办公“枢纽”](https://sec.thief.one/article_content?a_id=c6e0f42f63047f0977c3e434456a64e8) 
 - [2020-09-21-Fastjson历史漏洞研究二](https://sec.thief.one/article_content?a_id=e131422d73295bffd3f545b648d038b3) 

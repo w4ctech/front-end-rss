@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 05:23:18，:rocket: 更新条数: +3433， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 05:32:16，:rocket: 更新条数: +3649， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,8 +38,8 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [京东设计中心](#京东设计中心)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +740,26 @@
 </summary>
 
 
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1067,9 @@
 </summary>
 
 
+- [2020-09-24-iPad-无法访问-debian-上的-smb](https://www.v2ex.com/t/710089) ![](assets/new.png)  
+- [2020-09-24-兄弟们，-telegram-里看到-60-多一个的无限容量的-google-网盘，稳不稳？好像是教育版](https://www.v2ex.com/t/710088) ![](assets/new.png)  
+- [2020-09-24-折腾组装-ESXi-平台的问题，是否需要升级机器，还是换机器？](https://www.v2ex.com/t/710087) ![](assets/new.png)  
 - [2020-09-24-Hiretual-北京-扛过疫情，打过-B-轮，收支平衡的-AI-+-SaaS-+-硅谷外企，-急招工程师！急急急急急急！](https://www.v2ex.com/t/710086) ![](assets/new.png)  
 - [2020-09-24-想见证国民小说-APP-的诞生吗？字节跳动-番茄小说期待你的加入！](https://www.v2ex.com/t/710084) ![](assets/new.png)  
 - [2020-09-24-FFmpeg-对视频进行分段倍速处理再输出的问题](https://www.v2ex.com/t/710083) ![](assets/new.png)  
@@ -1074,9 +1087,6 @@
 - [2020-09-24-开个帖子-聊聊「数据工程师」的「世界」！求“灌水”。。。](https://www.v2ex.com/t/710068) ![](assets/new.png)  
 - [2020-09-24-秋天的第一本奶茶到底是什么梗？](https://www.v2ex.com/t/710065) ![](assets/new.png)  
 - [2020-09-24-独立开发者沙龙·第-3-周周报](https://www.v2ex.com/t/710064) ![](assets/new.png)  
-- [2020-09-24-字节跳动-抖音商业化-杭州-急招前端岗位](https://www.v2ex.com/t/710062) ![](assets/new.png)  
-- [2020-09-24-社招-RingCentral-研发中心逆势扩招](https://www.v2ex.com/t/710061) ![](assets/new.png)  
-- [2020-09-24-🔥🔥🔥-Epic-Pen-电子教鞭屏幕标记注释辅助工具软件-丨正版软件商城---软购商城](https://www.v2ex.com/t/710060) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,8 +1142,8 @@
 - [2020-09-24-译-使用-EndpointSlice-扩展-Kubernetes-网络](https://toutiao.io/k/4rxs0s5) ![](assets/new.png)  
 - [2020-09-24-还在担心服务挂掉？Sentinel-Go-让服务稳如磐石](https://toutiao.io/k/sx4z39h) ![](assets/new.png)  
 - [2020-09-24-只要我跑的够快，内卷它就卷不到我](https://toutiao.io/k/n27u282) ![](assets/new.png)  
-- [2020-09-24-彻底搞懂-Etcd-系列文章（八）：Etcd-事务-API](https://toutiao.io/k/jhqz11t) ![](assets/new.png)  
 - [2020-09-24-字节跳动-Flink-单点恢复功能实践](https://toutiao.io/k/usiqxue) ![](assets/new.png)  
+- [2020-09-24-彻底搞懂-Etcd-系列文章（八）：Etcd-事务-API](https://toutiao.io/k/jhqz11t) ![](assets/new.png)  
 - [2020-09-24-译-React-Hooks-的丑陋一面](https://toutiao.io/k/eja38bo) ![](assets/new.png)  
 - [2020-09-24-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
 - [2020-09-24-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 15:12:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 15:24:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,6 +83,7 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff) 
+- [2020-09-24-我想做一个网页视频提取的-app，会有人用吗？](https://www.v2ex.com/t/710254) 
 - [2020-09-24-字节跳动的-8-轮视频面试流程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13784&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9XHrv6DAb6kb7w4k-c4ctg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-牛逼了!100份Python爬虫实战源码+视频,开放获取](https://sec.thief.one/article_content?a_id=8922c61b3d9768a78f3ff4c568481bda) 
 - [2020-09-24-特斯拉全球性网络中断;美连锁健身馆泄露60万用户数据;视频号黑产...](https://sec.thief.one/article_content?a_id=0b3aac8e796e97ba3828c67c52f9ddd3) 

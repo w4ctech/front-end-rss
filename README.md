@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-24 10:12:56，:rocket: 更新条数: +3657， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 10:24:32，:rocket: 更新条数: +3658， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-24-西班牙成为单日报告新冠肺炎死亡病例最多欧洲国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96eZn8lmLoeICJ1HzNa0200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-24-文旅部：假期出游注意疫情防控-厉行节俭-保护古迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDCE8gqkxsYfeZLy6AaL7200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-24-墨西哥新增4786例新冠肺炎确诊病例-累计超71万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv1B8DkYFt2C1XGrUooNb200924&isfromapp=1) ![](assets/new.png)  
 - [2020-09-24-上海9月23日无新增本地新冠肺炎确诊病例-新增境外输入2例-治愈出院3例](http://wsjkw.sh.gov.cn/xwfb/20200924/7b8fdaec60bb492c8041fa4647cffc10.html) ![](assets/new.png)  
 - [2020-09-23-巴西新冠肺炎确诊病例累计超462万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DQeJNZ9GybVftqvc0GD200924&isfromapp=1) ![](assets/new.png)  
-- [2020-09-23-美国新冠肺炎确诊病例累计超692万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRQXDzz3jFVPlzJk8tJpW200924&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-24-原机配的系统是不是最稳定的？如果是最稳定为什么还要升级它呢？目前看升级系统后总是会出现这哪的不正常情况。](https://www.v2ex.com/t/710193) ![](assets/new.png)  
+- [2020-09-24-Goolge-voice-号码还可以这么玩-牛掰啊~](https://www.v2ex.com/t/710192) ![](assets/new.png)  
+- [2020-09-24-国内轻量，选腾讯云，还是阿里云？](https://www.v2ex.com/t/710191) ![](assets/new.png)  
 - [2020-09-24-分享一个淘宝优惠券微信公众号搜索查优惠券机器人系统](https://www.v2ex.com/t/710190) ![](assets/new.png)  
 - [2020-09-24-听人讲座，无力吐槽](https://www.v2ex.com/t/710189) ![](assets/new.png)  
 - [2020-09-24-用-electron-肝了个跨平台客户端：中英文台词找影片素材](https://www.v2ex.com/t/710186) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-09-24-杭州/北京蚂蚁集团风险智能团队---Java-高级开发工程师/技术专家](https://www.v2ex.com/t/710170) ![](assets/new.png)  
 - [2020-09-24-有办法直接在-Android-设备上进行深度学习模型的训练吗？](https://www.v2ex.com/t/710169) ![](assets/new.png)  
 - [2020-09-24-联想京东上架刃-9000K，抢购价-13999，微星提供的-oem-3080-方案。](https://www.v2ex.com/t/710168) ![](assets/new.png)  
-- [2020-09-24-北京/上海-内推又来了外企电商,WLB-的-1075-公司欢迎各位加入-Java-/QA/客户端](https://www.v2ex.com/t/710167) ![](assets/new.png)  
-- [2020-09-24-北京好车多多科技有限公司-这家公司有-V-友了解吗，靠谱嘛](https://www.v2ex.com/t/710166) ![](assets/new.png)  
-- [2020-09-24-越来越反感淘宝的商品列表，永远都是配个价格最高的图，价格写标个配置最低的](https://www.v2ex.com/t/710165) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1148,8 +1148,8 @@
 - [2020-09-24-Go-使用标准库-net/http-包构建服务器](https://toutiao.io/k/ah8srmt) ![](assets/new.png)  
 - [2020-09-24-译-Apache-Pulsar-的分层存储](https://toutiao.io/k/xxfwe9y) ![](assets/new.png)  
 - [2020-09-24-译-VueJS-中更好的组件组合方式](https://toutiao.io/k/algd8ut) ![](assets/new.png)  
-- [2020-09-24-Java-如何支持函数式编程？](https://toutiao.io/k/fchd7b2) ![](assets/new.png)  
 - [2020-09-24-译-2020-年-Spring-状态报告](https://toutiao.io/k/axegdfu) ![](assets/new.png)  
+- [2020-09-24-Java-如何支持函数式编程？](https://toutiao.io/k/fchd7b2) ![](assets/new.png)  
 - [2020-09-24-还在担心服务挂掉？Sentinel-Go-让服务稳如磐石](https://toutiao.io/k/sx4z39h) ![](assets/new.png)  
 - [2020-09-24-译-使用-EndpointSlice-扩展-Kubernetes-网络](https://toutiao.io/k/4rxs0s5) ![](assets/new.png)  
 - [2020-09-24-只要我跑的够快，内卷它就卷不到我](https://toutiao.io/k/n27u282) ![](assets/new.png)  

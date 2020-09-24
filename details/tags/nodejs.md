@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 14:34:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 14:47:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -9,7 +9,6 @@
 
 - [2020-07-13-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
 - [2020-09-21-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/a8f23202f8f5bedddb75f0dc36476dc3) 
-- [2020-09-18-Node.js开发人员都应该知道的12个有用的包](https://www.ershicimi.com/p/d0547fa0a40cf921b2419cc8322d1e6b) 
 - [2020-09-23-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/28f8d4bd4d47d685d681761926738613) 
 - [2020-09-09-实战Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/135231f1360380a7aed3e813e8f18695) 
 - [2020-08-02-如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082) 
@@ -29,5 +28,3 @@
 - [2020-09-05-“Hello-Node.js”-这一次是你没见过的写法](https://www.ershicimi.com/p/afafa768f314ee3c006a6297a65ccfdd) 
 - [2020-09-03-Node.js-脚本遭遇异常时如何安全退出](https://www.ershicimi.com/p/325ce3cc3a989db3e2237ed4fdcce687) 
 - [2020-08-24-如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/f492d329ae09069db4024ed25a7531ee) 
-- [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
-- [2020-09-24-Node.js-比如-Nest-有-django-这种简单易用的框架么](https://www.v2ex.com/t/710205) 

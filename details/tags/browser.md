@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 14:34:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 14:47:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,15 +29,12 @@
 - [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-09-24-Safari-合并窗口问题](https://www.v2ex.com/t/710243) 
-- [2020-09-24-简历求-review，被大厂全挂了](https://www.v2ex.com/t/710239) 
-- [2020-09-24-如何实现浏览器内多个标签页之间的通信，是什么意思？](https://www.v2ex.com/t/710227) 
-- [2020-09-24-很奇怪，-Apple-watch-series-6-无法使用血氧测量](https://www.v2ex.com/t/710200) 
 - [2020-09-24-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-kotlin-如何解决-java-开发痛点，让程序员-happier-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-Angular-10-正式发布，不再支持-IE9/10！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13782&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9Bs3jZMOQxKfLPq2PWw6gw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) 
+- [2020-09-24-推荐-新一代缓存-Caffeine，速度确实比-Guava-的-Cache-快](https://toutiao.io/k/5xvc683) 
 - [2020-09-24-新华三给网络安全“武器”装上了“瞄准镜”](https://sec.thief.one/article_content?a_id=74ae77143a99f138c897bd0da7591d9b) 
 - [2020-09-24-中国网络空间安全协会理事长办公会审议安排重点工作](https://sec.thief.one/article_content?a_id=e633ab5e000acbbc34c758286af902bf) 
 - [2020-09-24-53个细分品类-奇安信成《中国网络安全能力图谱》上榜最多的厂商](https://sec.thief.one/article_content?a_id=985ea6cf786b6eaf439e261b48ae3117) 

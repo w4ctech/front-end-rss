@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 14:34:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 14:47:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -57,9 +57,6 @@
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
 - [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
-- [2020-09-23-怎样解决JavaScript生态中第三方安全性问题？](https://www.ershicimi.com/p/9f36b7564c977e9a1c13870f2fe372c3) 
-- [2020-09-22-Moment.js-进入维护状态：周下载量超-1200-万的-JS-库已经完成了它的使命](https://www.ershicimi.com/p/795d3321367981401154cc1f3942cf6d) 
-- [2020-09-17-JavaScript错误处理完全指南](https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c) 
 - [2020-09-07-JS原型相关知识点](https://www.ershicimi.com/p/615ac57abc1d69cc60d1f97b775d75b1) 
 - [2020-09-23-javascript红宝书第4版，抽奖！！！](https://www.ershicimi.com/p/d29c88b1cfb223bbc578049b050b2f64) 
 - [2020-09-12-函数式编程，“香”吗？](https://www.ershicimi.com/p/05a99c22bd5981bc13bce77ea1e8cf65) 
@@ -83,9 +80,6 @@
 - [2020-09-23-或许这就是下一代组件库](https://www.ershicimi.com/p/a9b5dc5e27bd8a18f96e336df9f1d876) 
 - [2020-09-20-Promise-你可能真的还没用明白（续集进阶版）](https://www.ershicimi.com/p/b657a0734cea645bdf7aa5e47b4eaf7f) 
 - [2020-09-14-谈谈-MySQL-的-JSON-数据类型操作](https://www.ershicimi.com/p/7beecef0113be070b25eaf2ec4284dcb) 
-- [2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b) 
-- [2020-09-07-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d) 
-- [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4) 
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-09-19-这么多牛逼的Java常用Json库，万万没想到它的性能最好！](https://www.ershicimi.com/p/2143db4de99ac09c766b522045d4bc7d) 
 - [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
@@ -99,7 +93,5 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
-- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-09-24-Neovim-悬浮滚动条，长篇文档再也不怕了。](https://www.v2ex.com/t/710222) 
 - [2020-09-24-Java-如何支持函数式编程？](https://toutiao.io/k/fchd7b2) 
 - [2020-09-23-信创适配率先破百-奇安信可信浏览器成政企办公“枢纽”](https://sec.thief.one/article_content?a_id=c6e0f42f63047f0977c3e434456a64e8) 

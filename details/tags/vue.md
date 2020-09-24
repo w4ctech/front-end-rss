@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 14:34:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 14:47:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -54,7 +54,6 @@
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) 
 - [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
-- [2020-09-20-前端周报：Vue-3.0正式发布，代号One-Piece；JS库-Moment.js-进入维护状态；](https://www.ershicimi.com/p/035ed01d8d34e601ec55b38d9650954f) 
 - [2020-09-20-尤雨溪：Vue3.0全球发布会](https://www.ershicimi.com/p/9e3a4866c22cf43c4c846e5dd0dccbb1) 
 - [2020-09-14-“精通Vue”的求职者有多吃香？](https://www.ershicimi.com/p/2ed6df4501336028253424b4a8cbcaf1) 
 - [2020-09-21-他写出了-Vue，却做不对这十道-Vue-笔试题](https://www.ershicimi.com/p/a1f445912be33a73f2c358e0767a8530) 
@@ -70,7 +69,6 @@
 - [2020-09-12-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/54a3b7294b6d2a017f06de24f1b42b3b) 
 - [2020-08-27-什么？华为开始对Node&Vue下手了？](https://www.ershicimi.com/p/fa7c430e5710d6664aaf2ebf5b132816) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
-- [2020-09-17-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/ddf67c92911c4ff28123c7ce2c89a519) 
 - [2020-09-23-只会-Vue-的那些人，现在怎么样了？](https://www.ershicimi.com/p/536b210708036dd48250c8efbf73fa4f) 
 - [2020-09-21-【软件更新】Vue-3.0正式发布！](https://www.ershicimi.com/p/ff3ab6acc82fef8cf1b194ee18e1b6fd) 
 - [2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e) 

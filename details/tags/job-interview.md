@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-24 08:13:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 08:25:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -36,4 +36,6 @@
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
 - [2020-09-24-有最近在找工作的吗？这里有一个模拟面试的机会](https://www.v2ex.com/t/710133) 
 - [2020-09-24-裸辞面试怎么样？](https://www.v2ex.com/t/710120) 
+- [2020-09-24-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
+- [2020-09-24-推荐-分享一个作为面试官的面试思路](https://toutiao.io/k/dvtlxd4) 
 - [2020-09-22-培训班交费之前还要面试?就是这么硬核质量](https://sec.thief.one/article_content?a_id=48c6eadc962b919e370de85f38a7e66d) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 23:22:51，:rocket: 更新条数: +3665， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 23:32:23，:rocket: 更新条数: +3665， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-25-新冠疫苗研发传来最新消息，康辉有一个提醒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3WfVk4sFdxtrbCkUkIh200925&isfromapp=1) ![](assets/new.png)  
+- [2020-09-25-中国驻英国大使馆提醒在英中国公民关注英国新冠疫情形势-加强防范措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMShTz5G76TQmVFcRc6nG200925&isfromapp=1) ![](assets/new.png)  
 - [2020-09-25-阿根廷社会发展部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibueOj8FEe3VhUqWfzcJH200925&isfromapp=1) ![](assets/new.png)  
 - [2020-09-25-世卫组织：全球新冠肺炎确诊病例超过3202万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJSb1ipgjmjSqj8dzwekH200925&isfromapp=1) ![](assets/new.png)  
 - [2020-09-25-郑忠伟：新冠病毒疫苗在中国的定价-一定在大众可接受的范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia7q1oHO2QwgKDc7YpPEG200925&isfromapp=1) ![](assets/new.png)  
-- [2020-09-25-科技部：我国已有11个疫苗进入临床试验-4个疫苗进入三期临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJdgoFIyC5usvNPGtyd5q200925&isfromapp=1) ![](assets/new.png)  
-- [2020-09-25-美国累计新冠肺炎确诊病例超697万-死亡病例超20万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizDvpDQfRLJK5Dne3LNEH200925&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1147,15 +1147,15 @@
 - [2020-09-25-谈谈前后端分离及认证选择](https://toutiao.io/k/xza2iwi) ![](assets/new.png)  
 - [2020-09-25-还不懂-Redis？看完这个故事就明白了](https://toutiao.io/k/i4mdkia) ![](assets/new.png)  
 - [2020-09-25-被产品经理怼了，线上出-Bug-为啥你不知道](https://toutiao.io/k/jnimse0) ![](assets/new.png)  
-- [2020-09-25-Snowpack-全攻略：从入门体验到源码解析](https://toutiao.io/k/9t19zsv) ![](assets/new.png)  
 - [2020-09-25-Spark-SQL-分桶表在字节跳动的优化](https://toutiao.io/k/3xtjztr) ![](assets/new.png)  
+- [2020-09-25-Snowpack-全攻略：从入门体验到源码解析](https://toutiao.io/k/9t19zsv) ![](assets/new.png)  
 - [2020-09-25-kafka-的工作原理](https://toutiao.io/k/4s8lzp3) ![](assets/new.png)  
-- [2020-09-25-Rust-学习笔记：async/await-如何工作](https://toutiao.io/k/c9rmsws) ![](assets/new.png)  
 - [2020-09-25-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
+- [2020-09-25-Rust-学习笔记：async/await-如何工作](https://toutiao.io/k/c9rmsws) ![](assets/new.png)  
 - [2020-09-25-人人都能看懂的鸿蒙-“JS-小程序”-数据绑定原理](https://toutiao.io/k/0k3v1io) ![](assets/new.png)  
 - [2020-09-25-面试：你知道-MyBatis-执行过程初始化如何执行的吗？](https://toutiao.io/k/jvmo61z) ![](assets/new.png)  
-- [2020-09-25-MySQL-基本操作命令汇总](https://toutiao.io/k/3w8kava) ![](assets/new.png)  
 - [2020-09-25-Java-ConcurrentHashMap-高并发安全实现原理解析](https://toutiao.io/k/eb74t9t) ![](assets/new.png)  
+- [2020-09-25-MySQL-基本操作命令汇总](https://toutiao.io/k/3w8kava) ![](assets/new.png)  
 - [2020-09-25-译-Go：跨团队协作时如何共享对象](https://toutiao.io/k/bvxk5xt) ![](assets/new.png)  
 - [2020-09-25-why哥这里有一道-Dubbo-高频面试题，请查收](https://toutiao.io/k/8g7pp36) ![](assets/new.png)  
 - [2020-09-25-京喜小程序首页无障碍优化实践](https://toutiao.io/k/3dzkd7u) ![](assets/new.png)  

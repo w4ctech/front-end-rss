@@ -13533,10 +13533,81 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10646",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10646",
     "title": "VUE全家桶",
     "link": "https://www.ershicimi.com/a/10646",
-    "items": []
+    "items": [
+      {
+        "title": "【面试题】2019开年跳槽系列-38",
+        "link": "https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1",
+        "date": "2019-12-24"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-37",
+        "link": "https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62",
+        "date": "2019-12-23"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-36",
+        "link": "https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e",
+        "date": "2019-12-19"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-35",
+        "link": "https://www.ershicimi.com/p/13693c22440fcc75bcb7816cbd38d87a",
+        "date": "2019-12-18"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-34",
+        "link": "https://www.ershicimi.com/p/55cfb22f6deb40706c18677e12a05d7d",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-33",
+        "link": "https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2",
+        "date": "2019-12-12"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-32",
+        "link": "https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da",
+        "date": "2019-12-09"
+      },
+      {
+        "title": "【程序员必看】女生必买口红TOP 10",
+        "link": "https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d",
+        "date": "2019-12-09"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-31",
+        "link": "https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "【程序员必看】女生必买口红TOP 10",
+        "link": "https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-30",
+        "link": "https://www.ershicimi.com/p/c953e0c5b4aaccbe729309f61ee8574b",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "【程序员必看】女生必买口红TOP 10",
+        "link": "https://www.ershicimi.com/p/c000cfc00b1de7d595f4c51820cc7630",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "【面试题】2019开年跳槽系列-29",
+        "link": "https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10",
+        "date": "2019-12-04"
+      },
+      {
+        "title": "【程序员必看】女生必买口红TOP 10",
+        "link": "https://www.ershicimi.com/p/38b599052a6c0772985ffdbfad6875d6",
+        "date": "2019-12-04"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10445",
@@ -16399,6 +16470,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "激活 iPhone se 遇到的问题",
+        "link": "https://www.v2ex.com/t/710557",
+        "date": "2020-09-25"
+      },
+      {
         "title": "请问国外还有什么其他的类似 Cloudflare 的 CDN 服务？想买个性价比高的收费 CDN",
         "link": "https://www.v2ex.com/t/710556",
         "date": "2020-09-25"
@@ -16602,11 +16678,6 @@
         "title": "如何解决 macOS-Catalina-10.15.7 文件图标错乱的问题",
         "link": "https://www.v2ex.com/t/710508",
         "date": "2020-09-25"
-      },
-      {
-        "title": "蜂窝 watch 会修改手机对应 app 的联网权限",
-        "link": "https://www.v2ex.com/t/710507",
-        "date": "2020-09-25"
       }
     ]
   },
@@ -16778,13 +16849,13 @@
         "date": "2020-09-25"
       },
       {
-        "title": "10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
-        "link": "https://toutiao.io/k/23m4ly1",
+        "title": "kafka 的工作原理",
+        "link": "https://toutiao.io/k/4s8lzp3",
         "date": "2020-09-25"
       },
       {
-        "title": "kafka 的工作原理",
-        "link": "https://toutiao.io/k/4s8lzp3",
+        "title": "10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
+        "link": "https://toutiao.io/k/23m4ly1",
         "date": "2020-09-25"
       },
       {
@@ -16823,53 +16894,8 @@
         "date": "2020-09-25"
       },
       {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 硬核看房利器：Web 全景的实现",
-        "link": "https://toutiao.io/k/ihkuhms",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
-        "link": "https://toutiao.io/k/ejwph4b",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
-        "link": "https://toutiao.io/k/xzcx65d",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
-        "link": "https://toutiao.io/k/h9nal21",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
         "date": "2020-09-25"
       },
       {
@@ -16878,23 +16904,68 @@
         "date": "2020-09-25"
       },
       {
+        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
+        "link": "https://toutiao.io/k/h9nal21",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
+        "link": "https://toutiao.io/k/xzcx65d",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
+        "link": "https://toutiao.io/k/rbvgji4",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
+        "link": "https://toutiao.io/k/dcmvw72",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-25"
+      },
+      {
         "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
         "link": "https://toutiao.io/k/jvghjpf",
         "date": "2020-09-25"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
+        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
+        "link": "https://toutiao.io/k/ejwph4b",
         "date": "2020-09-25"
       },
       {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
         "date": "2020-09-25"
       }
     ]

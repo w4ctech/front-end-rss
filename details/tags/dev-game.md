@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-25 01:47:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-25 02:03:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,4 +27,5 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2020-09-25-上海游戏公司招广告平台开发工程师（Golang）](https://www.v2ex.com/t/710300) 
 - [2020-09-22-“疯狂赛车”-挑战通关Tips|自动驾驶CTF之驾驶游戏赛题说明](https://sec.thief.one/article_content?a_id=3bab8ead2cd9d535e939ab3d61c8302a) 

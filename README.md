@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 12:52:50，:rocket: 更新条数: +3414， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 13:03:30，:rocket: 更新条数: +3665， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -39,10 +39,10 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
-- [前端e进阶](#前端e进阶)  
+- [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-09-25-郑忠伟：新冠病毒疫苗在中国的定价-一定在大众可接受的范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia7q1oHO2QwgKDc7YpPEG200925&isfromapp=1) ![](assets/new.png)  
+- [2020-09-25-科技部：我国已有11个疫苗进入临床试验-4个疫苗进入三期临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJdgoFIyC5usvNPGtyd5q200925&isfromapp=1) ![](assets/new.png)  
+- [2020-09-25-美国累计新冠肺炎确诊病例超697万-死亡病例超20万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizDvpDQfRLJK5Dne3LNEH200925&isfromapp=1) ![](assets/new.png)  
+- [2020-09-25-防范新冠疫情-加快场馆建设-北京冬奥会明确下一阶段工作任务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaeIMSXeSTz5To7JlSoLY200925&isfromapp=1) ![](assets/new.png)  
+- [2020-09-25-​河南省新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKnKTcaAryZbWjiWaM7fJ200925&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -745,6 +750,26 @@
 </summary>
 
 
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -818,6 +843,26 @@
 </summary>
 
 
+- [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) ![](assets/new.png)  
+- [2020-03-05-2020.03.03-互联网大厂入职薪资更新表](https://www.ershicimi.com/p/7758b0618c2076417db69702ed3bc49d) ![](assets/new.png)  
+- [2020-03-04-大厂薪资揭秘2020年初版-数据可信度比较高，-大家可以自行参考。](https://www.ershicimi.com/p/039430d577e04cceec7189892fdca5f0) ![](assets/new.png)  
+- [2020-03-03-​Ant-Disign-4.0-升级实践扑街指南-一](https://www.ershicimi.com/p/9d5a595678f0794369df0922f74275cc) ![](assets/new.png)  
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) ![](assets/new.png)  
+- [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) ![](assets/new.png)  
+- [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) ![](assets/new.png)  
+- [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) ![](assets/new.png)  
+- [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) ![](assets/new.png)  
+- [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) ![](assets/new.png)  
+- [2020-01-18-送本书](https://www.ershicimi.com/p/fc85b54cd1493e38d679fcfcf525e81c) ![](assets/new.png)  
+- [2020-01-09-数据结构快速盘点---非线性结构](https://www.ershicimi.com/p/f7a5ba42a60821d218cf7ef18b662ddc) ![](assets/new.png)  
+- [2020-01-07-数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4) ![](assets/new.png)  
+- [2020-01-06-推荐4位我关注的的前端大佬](https://www.ershicimi.com/p/f7c2664f5c0716b78eac7f1e095ec90a) ![](assets/new.png)  
+- [2020-01-03-第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf) ![](assets/new.png)  
+- [2020-01-01-2020-新年Flag-走起～](https://www.ershicimi.com/p/62f48318c8c93ebd262dfa3cf67e4de3) ![](assets/new.png)  
+- [2019-12-31-第35期-掌握树的四种遍历方式，以及BFS,-DFS](https://www.ershicimi.com/p/64dd6ef1b1b773b56e00263f37e6a9f3) ![](assets/new.png)  
+- [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) ![](assets/new.png)  
+- [2019-12-27-第33期-树，二叉树，-二叉搜索树](https://www.ershicimi.com/p/89374f0929cd781ecbaed1b84ee3519f) ![](assets/new.png)  
+- [2019-12-25-第32期-Set-和-Map-的简单运用](https://www.ershicimi.com/p/56b110b211e2b54a8020fc2ac0d4648d) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端e进阶.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -922,11 +967,11 @@
 </summary>
 
 
-- [2020-09-24-微信小程序学习笔记（三）---首页及详情页开发](https://juejin.im/post/6876315143119044616) ![](assets/new.png)  
 - [2020-09-24-手写一个DOM库](https://juejin.im/post/6876281687148331022) ![](assets/new.png)  
-- [2020-09-24-为什么会精度丢失？教你看懂-IEEE-754！](https://juejin.im/post/6876220553473196045) ![](assets/new.png)  
-- [2020-09-24-在市值破万亿美元的公司工作，是一种怎样的体验？](https://juejin.im/post/6876216057070092301) ![](assets/new.png)  
-- [2020-09-24-前端系统化学习【JS篇】:（十）VAR、LET、CONST的区别、块级作用域](https://juejin.im/post/6876085274791804942) ![](assets/new.png)  
+- [2020-09-24-基于React-hook实现的简易前端国际化方案](https://juejin.im/post/6876242244265836552) ![](assets/new.png)  
+- [2020-09-24-极简-Node.js-入门系列教程-——-4.2-初识-stream](https://juejin.im/post/6876229013589737480) ![](assets/new.png)  
+- [2020-09-24-chocolate-ui](https://juejin.im/post/6876206438998343693) ![](assets/new.png)  
+- [2020-09-24-基于keep-alive实现的一个可以缓存复用页面的vue组件](https://juejin.im/post/6876100071826391054) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-25-Setapp-个人版-支持-2-台电脑登录使用吗？谢谢老铁们了~](https://www.v2ex.com/t/710543) ![](assets/new.png)  
+- [2020-09-25-在知乎打开了一个新浪新闻的链接，然后就被唤醒了一大批应用](https://www.v2ex.com/t/710542) ![](assets/new.png)  
+- [2020-09-25-遇到一个-iPad-Pro-充电的问题，请教一下各位](https://www.v2ex.com/t/710541) ![](assets/new.png)  
 - [2020-09-25-Apple-Watch-无法安装微信](https://www.v2ex.com/t/710540) ![](assets/new.png)  
 - [2020-09-25-关于无证经营电信增值业务的疑问](https://www.v2ex.com/t/710539) ![](assets/new.png)  
 - [2020-09-25-Compressor-压缩-4K-60fps-YouTube-视频求压缩预设，我的压缩出来还是特别大。](https://www.v2ex.com/t/710538) ![](assets/new.png)  
@@ -1049,9 +1097,6 @@
 - [2020-09-25-总是要被迫吃不少高升糖指数（GI）的食物，啥时候大家才能有选择权？](https://www.v2ex.com/t/710524) ![](assets/new.png)  
 - [2020-09-25-哥咱家有钱啦是什么梗？](https://www.v2ex.com/t/710523) ![](assets/new.png)  
 - [2020-09-25-4G-手机使-5G-的卡网速会有提升吗？](https://www.v2ex.com/t/710522) ![](assets/new.png)  
-- [2020-09-25-今天去宝马-4s-店询价](https://www.v2ex.com/t/710521) ![](assets/new.png)  
-- [2020-09-25-各位知道有哪些软件源码交易的平台？](https://www.v2ex.com/t/710520) ![](assets/new.png)  
-- [2020-09-25-开源黑白照片上色小程序](https://www.v2ex.com/t/710519) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,6 +1170,10 @@
 </summary>
 
 
+- [2020-09-25-UNI市值在加密市场总体下跌期间反弹至1.2亿美元](https://sec.thief.one/article_content?a_id=c2404434de45f8802df82fbc64cb1c3a) ![](assets/new.png)  
+- [2020-09-25-中国网络空间安全协会2020年数据安全典型实践案例发布](https://sec.thief.one/article_content?a_id=68aa05347dc5ac7502079a78e58da59a) ![](assets/new.png)  
+- [2020-09-25-超级CSO研修班:开营了!](https://sec.thief.one/article_content?a_id=42c5661034ec7bbfc075435cf1eabd3d) ![](assets/new.png)  
+- [2020-09-25-每个程序员都必须知道的8种数据结构](https://sec.thief.one/article_content?a_id=13083fa643bd733e4b9f0186e767a2d5) ![](assets/new.png)  
 - [2020-09-25-奇安信联合华为云推出政企移动安全办公解决方案](https://sec.thief.one/article_content?a_id=301853c53b45b9a59039ff16f4b3fdfd) ![](assets/new.png)  
 - [2020-09-25-秋天的第一杯奶茶喝完了,该准备CISSP证书考试了!](https://sec.thief.one/article_content?a_id=83425626c3892529cc6b701b29820cf0) ![](assets/new.png)  
 - [2020-09-25-重磅解读丨一图读懂2020-OPPO开发者大会](https://sec.thief.one/article_content?a_id=2dc39ad0426a3876b3ec8c065203cbaf) ![](assets/new.png)  
@@ -1141,10 +1190,6 @@
 - [2020-09-25-美军开展港口城市网络安全演习:混合威胁打击下能否应对?](https://sec.thief.one/article_content?a_id=83eb17a0338d229e5402c76118f20f68) ![](assets/new.png)  
 - [2020-09-25-Springboot-内存shell](https://sec.thief.one/article_content?a_id=9a5aad8bcd821530da97154b933d3447) ![](assets/new.png)  
 - [2020-09-25-新币挖矿,defi及ieo概念,今天新老热点齐上阵](https://sec.thief.one/article_content?a_id=ff135f19ca445bc90657be43a6477df5) ![](assets/new.png)  
-- [2020-09-25-加密货币的未来走向](https://sec.thief.one/article_content?a_id=8185a9cfb4994a3805dcdb3a04879b69) ![](assets/new.png)  
-- [2020-09-25-实战-|-BC杀猪盘渗透一条龙](https://sec.thief.one/article_content?a_id=c6bfab9a2e45a44469d8cfa4401212f5) ![](assets/new.png)  
-- [2020-09-25-Firefox漏洞可通过WiFi网络劫持其他安卓设备](https://sec.thief.one/article_content?a_id=ed27d49f44ab9c2719973f2c7efe7aeb) ![](assets/new.png)  
-- [2020-09-25-手机信息安全有多重要?|-知道](https://sec.thief.one/article_content?a_id=d0295d6eec58aad5018b14bee4a9a93f) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

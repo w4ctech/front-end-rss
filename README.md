@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 11:03:25，:rocket: 更新条数: +3663， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 11:11:36，:rocket: 更新条数: +3662， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-25-开源黑白照片上色小程序](https://www.v2ex.com/t/710519) ![](assets/new.png)  
 - [2020-09-25-有什么软件可以让-WIN10-桌面图标像-MAC-系统那样靠右？](https://www.v2ex.com/t/710516) ![](assets/new.png)  
 - [2020-09-25-JDK-里面的自带的线程池为啥都不改一下实现?](https://www.v2ex.com/t/710515) ![](assets/new.png)  
 - [2020-09-25-几个-GTD/行事历/日历/todolist-的痛点](https://www.v2ex.com/t/710513) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-25-上海-张江-坚果云-招——前端、安卓、ios、后端-！!](https://www.v2ex.com/t/710496) ![](assets/new.png)  
 - [2020-09-25-mac-状态栏上有个竖着的箭头是什么-点了几下也没反应](https://www.v2ex.com/t/710495) ![](assets/new.png)  
 - [2020-09-25-macOS-上哪款截图软件比较好用?](https://www.v2ex.com/t/710494) ![](assets/new.png)  
-- [2020-09-25-广州-壹心理-高薪急聘-iOS-开发工程师~](https://www.v2ex.com/t/710493) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

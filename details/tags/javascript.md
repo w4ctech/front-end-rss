@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-25 08:13:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-25 08:26:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -105,5 +105,4 @@
 - [2020-09-25-资料-|《JavaScript-20-年》](https://toutiao.io/k/fgeg3yt) 
 - [2020-09-25-Rust-学习笔记：async/await-如何工作](https://toutiao.io/k/c9rmsws) 
 - [2020-09-25-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) 
-- [2020-09-25-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
 - [2020-09-23-信创适配率先破百-奇安信可信浏览器成政企办公“枢纽”](https://sec.thief.one/article_content?a_id=c6e0f42f63047f0977c3e434456a64e8) 

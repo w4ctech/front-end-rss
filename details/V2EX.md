@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-25 17:12:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-25 17:22:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-25-（坐标北美）求升降桌推荐](https://www.v2ex.com/t/710577) 
 - [2020-09-25-Xcode-12.0.1-修复看文档-crash-的-bug](https://www.v2ex.com/t/710574) 
 - [2020-09-25-在杭州找一个终极理想伴侣得多难](https://www.v2ex.com/t/710573) 
 - [2020-09-25-请教一个-golang-使用-exec-调用-windwos-cmd-命令的问题](https://www.v2ex.com/t/710571) 
@@ -47,4 +48,3 @@
 - [2020-09-25-#MakeThings-把微信变成-RSS-阅读器是一种怎样的体验？](https://www.v2ex.com/t/710530) 
 - [2020-09-25-学校宿舍宽带怎么才能解除限制账户](https://www.v2ex.com/t/710529) 
 - [2020-09-25-Authing-2.0，来了！](https://www.v2ex.com/t/710528) 
-- [2020-09-25-二线城市，华为-OD-岗位怎么样？](https://www.v2ex.com/t/710527) 

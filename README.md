@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 00:34:30，:rocket: 更新条数: +3646， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 01:03:08，:rocket: 更新条数: +3647， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-25-你会给你的孩子（或亲戚孩子）买什么儿童读物？](https://www.v2ex.com/t/710281) ![](assets/new.png)  
+- [2020-09-25-支付宝的-SDK-就这么坑人的吗](https://www.v2ex.com/t/710280) ![](assets/new.png)  
+- [2020-09-25-10.15.7-发布了](https://www.v2ex.com/t/710278) ![](assets/new.png)  
 - [2020-09-25-关于-XPS17-9700-的-Clover-文件](https://www.v2ex.com/t/710277) ![](assets/new.png)  
 - [2020-09-25-有办法修改-Apple-Watch-对存储的限制吗？](https://www.v2ex.com/t/710276) ![](assets/new.png)  
 - [2020-09-25-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/710275) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-09-24-@一个未来可能会存在的-id-会怎么样？](https://www.v2ex.com/t/710256) ![](assets/new.png)  
 - [2020-09-24-个人工作室取名](https://www.v2ex.com/t/710255) ![](assets/new.png)  
 - [2020-09-24-我想做一个网页视频提取的-app，会有人用吗？](https://www.v2ex.com/t/710254) ![](assets/new.png)  
-- [2020-09-24-关于-apple-trade-in](https://www.v2ex.com/t/710253) ![](assets/new.png)  
-- [2020-09-24-小猫无偿送养](https://www.v2ex.com/t/710251) ![](assets/new.png)  
-- [2020-09-24-求租：成都---世纪城---东方希望天祥广场](https://www.v2ex.com/t/710250) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,21 +1144,21 @@
 - [2020-09-25-轻松玩转函数式编程](https://toutiao.io/k/zmm264v) ![](assets/new.png)  
 - [2020-09-25-资料-|《JavaScript-20-年》](https://toutiao.io/k/fgeg3yt) ![](assets/new.png)  
 - [2020-09-25-谈谈前后端分离及认证选择](https://toutiao.io/k/xza2iwi) ![](assets/new.png)  
-- [2020-09-25-还不懂-Redis？看完这个故事就明白了](https://toutiao.io/k/i4mdkia) ![](assets/new.png)  
 - [2020-09-25-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
-- [2020-09-25-Spark-SQL-分桶表在字节跳动的优化](https://toutiao.io/k/3xtjztr) ![](assets/new.png)  
+- [2020-09-25-还不懂-Redis？看完这个故事就明白了](https://toutiao.io/k/i4mdkia) ![](assets/new.png)  
 - [2020-09-25-被产品经理怼了，线上出-Bug-为啥你不知道](https://toutiao.io/k/jnimse0) ![](assets/new.png)  
+- [2020-09-25-Spark-SQL-分桶表在字节跳动的优化](https://toutiao.io/k/3xtjztr) ![](assets/new.png)  
 - [2020-09-25-Snowpack-全攻略：从入门体验到源码解析](https://toutiao.io/k/9t19zsv) ![](assets/new.png)  
-- [2020-09-25-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
-- [2020-09-25-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-25-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-25-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
-- [2020-09-25-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
+- [2020-09-25-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-25-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-09-25-推荐-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
 - [2020-09-25-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
-- [2020-09-25-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-25-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-25-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
-- [2020-09-25-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
+- [2020-09-25-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
+- [2020-09-25-推荐-24-张图带你彻底理解-Java-中的-21-种锁](https://toutiao.io/k/o0417c6) ![](assets/new.png)  
+- [2020-09-25-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
+- [2020-09-25-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
+- [2020-09-25-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-25-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-25 05:03:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-25 05:12:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-25-大家有用-pyenv-win-的吗？用这个如何实现-pyenv-virtualenv-的功能呢？](https://www.v2ex.com/t/710396) 
+- [2020-09-25-WatchOS-7.0.1-正式版-bug-一枚](https://www.v2ex.com/t/710395) 
 - [2020-09-25-极端网络环境下，有什么浏览器靠谱？](https://www.v2ex.com/t/710394) 
 - [2020-09-25-我的-side-project-成为昨日-Hackernews-Top-10](https://www.v2ex.com/t/710393) 
 - [2020-09-25-MySql-干货分享之索引](https://www.v2ex.com/t/710391) 
@@ -41,5 +43,3 @@
 - [2020-09-25-阿里云网关产品招人，-6-8-都有！诚心招人](https://www.v2ex.com/t/710351) 
 - [2020-09-25-B-站会员购的糟糕体验，没爱了。](https://www.v2ex.com/t/710348) 
 - [2020-09-25-windows7-的防火墙对于局域网的特定端口的允许入站处理有毒啊](https://www.v2ex.com/t/710347) 
-- [2020-09-25-一文了解-Nebula-Graph-DBaaS-服务——Nebula-Graph-Cloud-Service](https://www.v2ex.com/t/710346) 
-- [2020-09-25-这里有免费的-Java-模拟面试机会](https://www.v2ex.com/t/710345) 

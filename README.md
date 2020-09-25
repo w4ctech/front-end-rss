@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 06:37:35，:rocket: 更新条数: +3438， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 06:47:29，:rocket: 更新条数: +3439， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 - [2020-09-24-9月24日全国新增境外输入新冠8例-累计确诊85322例](http://m.china.caixin.com/m/2020-09-25/101609373.html) ![](assets/new.png)  
 - [2020-09-24-青岛2名装卸工人感染新冠肺炎-属无症状感染者](http://m.china.caixin.com/m/2020-09-25/101609353.html) ![](assets/new.png)  
+- [2020-09-24-【境内疫情观察】青岛新增2例本土无症状感染者（9月24日）](http://m.database.caixin.com/m/2020-09-25/101609513.html) ![](assets/new.png)  
 - [2020-09-24-大流行手记|9月24日：英国多所高校现新冠疫情-强生疫苗启动三期临床试验](https://m.caixin.com/m/2020-09-25/101609385.html) ![](assets/new.png)  
 - [2020-09-23-最新海外疫情：新冠感染超3178万-累计死亡超97万](http://m.international.caixin.com/m/2020-09-24/101609143.html) ![](assets/new.png)  
 - [2020-09-23-【境内疫情观察】全国新增7例境外输入病例（9月23日）](http://m.database.caixin.com/m/2020-09-24/101609038.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-09-19-大流行手记|9月19日：欧洲二次疫情浪潮涌动-马德里重启限制措施](https://m.caixin.com/m/2020-09-20/101607345.html) ![](assets/new.png)  
 - [2020-09-18-【境内疫情观察】云南瑞丽已完成核酸检测逾22万人，全部阴性（9月18日）](http://m.database.caixin.com/m/2020-09-19/101607207.html) ![](assets/new.png)  
 - [2020-09-18-大流行手记|9月18日：全球感染人数破3000万-以色列全国“封城”三周](https://m.caixin.com/m/2020-09-19/101607161.html) ![](assets/new.png)  
-- [2020-09-18-北京新增1例无症状感染者-为甘肃籍巴基斯坦留学生](https://m.caixin.com/m/2020-09-19/101607298.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-25-美国累计新冠肺炎确诊病例超697万-死亡病例超20万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizDvpDQfRLJK5Dne3LNEH200925&isfromapp=1) ![](assets/new.png)  
 - [2020-09-25-防范新冠疫情-加快场馆建设-北京冬奥会明确下一阶段工作任务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaeIMSXeSTz5To7JlSoLY200925&isfromapp=1) ![](assets/new.png)  
 - [2020-09-25-​河南省新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKnKTcaAryZbWjiWaM7fJ200925&isfromapp=1) ![](assets/new.png)  
 - [2020-09-25-截至9月24日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/415868.jhtml) ![](assets/new.png)  
 - [2020-09-25-黑龙江省哈尔滨市1例已经解除隔离观察无症状感染者核酸检测复阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib6WZPxQZ93CJr28UoxoX200925&isfromapp=1) ![](assets/new.png)  
-- [2020-09-24-全球抗疫24小时丨法国聚集性疫情持续恶化-意甲球星伊布确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGlVZ5EvZCKd6SehKlAls200925&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-25-android-怎么进行声音直播？](https://www.v2ex.com/t/710422) ![](assets/new.png)  
 - [2020-09-25-有平安好医生的-v-友吗](https://www.v2ex.com/t/710421) ![](assets/new.png)  
 - [2020-09-25-社招-爱奇艺-爱奇艺号-Java-研发工程师](https://www.v2ex.com/t/710420) ![](assets/new.png)  
 - [2020-09-25-mac-mini-的使用体验如何？](https://www.v2ex.com/t/710419) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-25-官方-Go-Team-leader-Russ-Cox-和-Go-作者之一-Robert-来-GopherChina-大会了](https://www.v2ex.com/t/710402) ![](assets/new.png)  
 - [2020-09-25-实习-微软亚洲研究院-基于-FPGA-的云加速技术开发实习生](https://www.v2ex.com/t/710401) ![](assets/new.png)  
 - [2020-09-25-大医院口腔收费如何算？](https://www.v2ex.com/t/710400) ![](assets/new.png)  
-- [2020-09-25-Introducing-Swift-on-Windows](https://www.v2ex.com/t/710398) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

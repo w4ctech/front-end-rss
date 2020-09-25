@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 06:30:01，:rocket: 更新条数: +3437， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 06:34:55，:rocket: 更新条数: +3438， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -949,7 +949,7 @@
 
 - [2020-09-24-零距离接触websocket🚀](https://juejin.im/post/6876301731966713869) ![](assets/new.png)  
 - [2020-09-24-鉴权原理之-Session-/-Jwt](https://juejin.im/post/6876038058190307335) ![](assets/new.png)  
-- [2020-09-24-“在H5移动端的弹窗中滚动内容，带动body滚动”的滚动穿透问题](https://juejin.im/post/6876015395795369998) ![](assets/new.png)  
+- [2020-09-24-移动端弹窗的滚动穿透问题-H5](https://juejin.im/post/6876015395795369998) ![](assets/new.png)  
 - [2020-09-24-graphql在react中的新手入门指南](https://juejin.im/post/6876013041062772749) ![](assets/new.png)  
 - [2020-09-24-canvas-g6在项目中的心的体会](https://juejin.im/post/6876012006491553805) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-25-有平安好医生的-v-友吗](https://www.v2ex.com/t/710421) ![](assets/new.png)  
+- [2020-09-25-社招-爱奇艺-爱奇艺号-Java-研发工程师](https://www.v2ex.com/t/710420) ![](assets/new.png)  
 - [2020-09-25-mac-mini-的使用体验如何？](https://www.v2ex.com/t/710419) ![](assets/new.png)  
 - [2020-09-25-面试时候你会如何平衡好项目经历亮点和保密？](https://www.v2ex.com/t/710418) ![](assets/new.png)  
 - [2020-09-25-AI-快剪-视频全自动批量剪辑软件支持-mac-和-windows](https://www.v2ex.com/t/710417) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-25-实习-微软亚洲研究院-基于-FPGA-的云加速技术开发实习生](https://www.v2ex.com/t/710401) ![](assets/new.png)  
 - [2020-09-25-大医院口腔收费如何算？](https://www.v2ex.com/t/710400) ![](assets/new.png)  
 - [2020-09-25-Introducing-Swift-on-Windows](https://www.v2ex.com/t/710398) ![](assets/new.png)  
-- [2020-09-25-大家有用-pyenv-win-的吗？用这个如何实现-pyenv-virtualenv-的功能呢？](https://www.v2ex.com/t/710396) ![](assets/new.png)  
-- [2020-09-25-WatchOS-7.0.1-正式版-bug-一枚](https://www.v2ex.com/t/710395) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1130,8 @@
 - [2020-09-25-Spark-SQL-分桶表在字节跳动的优化](https://toutiao.io/k/3xtjztr) ![](assets/new.png)  
 - [2020-09-25-Snowpack-全攻略：从入门体验到源码解析](https://toutiao.io/k/9t19zsv) ![](assets/new.png)  
 - [2020-09-25-Rust-学习笔记：async/await-如何工作](https://toutiao.io/k/c9rmsws) ![](assets/new.png)  
-- [2020-09-25-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
 - [2020-09-25-面试：你知道-MyBatis-执行过程初始化如何执行的吗？](https://toutiao.io/k/jvmo61z) ![](assets/new.png)  
+- [2020-09-25-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
 - [2020-09-25-kafka-的工作原理](https://toutiao.io/k/4s8lzp3) ![](assets/new.png)  
 - [2020-09-25-人人都能看懂的鸿蒙-“JS-小程序”-数据绑定原理](https://toutiao.io/k/0k3v1io) ![](assets/new.png)  
 - [2020-09-25-Java-ConcurrentHashMap-高并发安全实现原理解析](https://toutiao.io/k/eb74t9t) ![](assets/new.png)  

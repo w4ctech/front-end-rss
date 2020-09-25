@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-25 17:49:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-25 18:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-25-全院第三拿不到推免名额](https://www.v2ex.com/t/710580) 
+- [2020-09-25-写了一个可以在线下载-Github-仓库子文件夹的用户脚本](https://www.v2ex.com/t/710579) 
 - [2020-09-25-SNX-币空投薅羊毛，大概有-700-元，只需-1-个-ETH-地址](https://www.v2ex.com/t/710578) 
 - [2020-09-25-（坐标北美）求升降桌推荐](https://www.v2ex.com/t/710577) 
 - [2020-09-25-Xcode-12.0.1-修复看文档-crash-的-bug](https://www.v2ex.com/t/710574) 
@@ -46,5 +48,3 @@
 - [2020-09-25-犯错误的-HR-难受了一天，终于释怀](https://www.v2ex.com/t/710534) 
 - [2020-09-25-自家的-k8s-k3s-cluster，怎样管理-PersistentVolume-比较方便?](https://www.v2ex.com/t/710532) 
 - [2020-09-25-Chaos-Mesh®-1.0-GA,-让混沌工程变得简单！](https://www.v2ex.com/t/710531) 
-- [2020-09-25-#MakeThings-把微信变成-RSS-阅读器是一种怎样的体验？](https://www.v2ex.com/t/710530) 
-- [2020-09-25-学校宿舍宽带怎么才能解除限制账户](https://www.v2ex.com/t/710529) 

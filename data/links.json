@@ -14038,111 +14038,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/166",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/166",
     "title": "前端圈",
     "link": "https://www.ershicimi.com/a/166",
-    "items": [
-      {
-        "title": "用JS重塑复古计算机艺术 @JSConf2019",
-        "link": "https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f",
-        "date": "2019-11-06"
-      },
-      {
-        "title": "玉伯：我的前端成长之路",
-        "link": "https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e",
-        "date": "2019-11-05"
-      },
-      {
-        "title": "[视频]刘帅带来《巨型小程序的分布式开发与自动化管理》！",
-        "link": "https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5",
-        "date": "2019-10-13"
-      },
-      {
-        "title": "[更新视频]围观王泽在第五届FEDAY的演讲视频！",
-        "link": "https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d",
-        "date": "2019-10-13"
-      },
-      {
-        "title": "[视频]贵重带来《钉钉前端团队演进之路》！",
-        "link": "https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b",
-        "date": "2019-10-12"
-      },
-      {
-        "title": "[视频]崔红保带来《基于weex实现的小程序引擎》！",
-        "link": "https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b",
-        "date": "2019-10-11"
-      },
-      {
-        "title": "[视频]围观Unbug Lee在第五届FEDAY的演讲！",
-        "link": "https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a",
-        "date": "2019-10-10"
-      },
-      {
-        "title": "[视频]围观周俊鹏《依托云的Serverless落地实践》！",
-        "link": "https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0",
-        "date": "2019-10-09"
-      },
-      {
-        "title": "[视频]围观王泽在第五届FEDAY的演讲视频！",
-        "link": "https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed",
-        "date": "2019-10-08"
-      },
-      {
-        "title": "[视频]Chris Fritz在第五届FEDAY的演讲视频来啦！",
-        "link": "https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138",
-        "date": "2019-09-30"
-      },
-      {
-        "title": "[视频]一起围观月影在第五届FEDAY的演讲！",
-        "link": "https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a",
-        "date": "2019-09-29"
-      },
-      {
-        "title": "JavaScript性能开销之2019",
-        "link": "https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d",
-        "date": "2019-07-09"
-      },
-      {
-        "title": "[视频]探索Web编程的另一种形态@天翔",
-        "link": "https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d",
-        "date": "2019-07-02"
-      },
-      {
-        "title": "[视频]Vue开发小程序之性能优化@崔红保",
-        "link": "https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0",
-        "date": "2019-06-21"
-      },
-      {
-        "title": "[视频]Vue 开发 ECharts 踩坑指南@袁源",
-        "link": "https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff",
-        "date": "2019-06-20"
-      },
-      {
-        "title": "VueConf 2019上海精彩视频花絮",
-        "link": "https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479",
-        "date": "2019-06-20"
-      },
-      {
-        "title": "VuePress 1.0发布与介绍的视频版@真山_VueConf 2019上海",
-        "link": "https://www.ershicimi.com/p/df891224b8145e46f487100cd9aba181",
-        "date": "2019-06-15"
-      },
-      {
-        "title": "蒋豪群在VueConf 上海的演讲视频来啦！",
-        "link": "https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0",
-        "date": "2019-06-13"
-      },
-      {
-        "title": "[视频]Vue.js作者在VueConf现场发布RFC",
-        "link": "https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde",
-        "date": "2019-06-12"
-      },
-      {
-        "title": "真山在 VueConf 2019 上海 现场发布 VuePress 1.0",
-        "link": "https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624",
-        "date": "2019-06-11"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/169",
@@ -14466,10 +14365,111 @@
     "link": "https://www.ershicimi.com/a/895"
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/154",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/154",
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
-    "items": []
+    "items": [
+      {
+        "title": "从初级工程师发展到高级工程师，需要跨越的鸿沟",
+        "link": "https://www.ershicimi.com/p/68e867198d1e74ebeea9a70f9dda7288",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "接手了严重过时的软件，到底是该逐步重构还是摧毁重写呢？",
+        "link": "https://www.ershicimi.com/p/d373fe5953594fa8970649ccfdca144f",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "字节跳动 2-2 级别的 Go 工程师究竟有多强？ | 极客大学",
+        "link": "https://www.ershicimi.com/p/ddca157dc2a532cfceb39c7dc8021225",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "Flutter 完成全平台制霸：实现 Windows 应用支持",
+        "link": "https://www.ershicimi.com/p/4109c764b6c6a0e000a40a078161a9d5",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "程序员最害怕的五种语言",
+        "link": "https://www.ershicimi.com/p/465e84cf58b6cc1bcdfdf1ad9675dddf",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "Swift正式登录Windows：苹果跨平台语言值几钱？",
+        "link": "https://www.ershicimi.com/p/abfbe6cc2509687972d967bdb975b24a",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "怎样解决JavaScript生态中第三方安全性问题？",
+        "link": "https://www.ershicimi.com/p/9f36b7564c977e9a1c13870f2fe372c3",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了 | 活动推荐",
+        "link": "https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生",
+        "link": "https://www.ershicimi.com/p/12f40e59f24eef811a0183612d6e683b",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "Moment.js 进入维护状态：周下载量超 1200 万的 JS 库已经完成了它的使命",
+        "link": "https://www.ershicimi.com/p/795d3321367981401154cc1f3942cf6d",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "不写文档你就输了",
+        "link": "https://www.ershicimi.com/p/57becbd5e457c97b13e79e97ed3b9f36",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "那些害死Haskell的，也会害死Rust",
+        "link": "https://www.ershicimi.com/p/e2986f21620a7d5989a8e18c84b160e6",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "「有奖调研」你的服务器操作系统和数据库要升级/迁移吗？｜ 活动推荐",
+        "link": "https://www.ershicimi.com/p/15a9a30e6a75ea9948037817fc22fe1a",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "前端周报：Vue 3.0正式发布，代号One Piece；JS库 Moment.js 进入维护状态；",
+        "link": "https://www.ershicimi.com/p/035ed01d8d34e601ec55b38d9650954f",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "云开发引领腾讯前后端创新技术实践 | InfoQ 公开课",
+        "link": "https://www.ershicimi.com/p/56d304a16948ac3cfed7f52f06764306",
+        "date": "2020-09-20"
+      },
+      {
+        "title": "React 从入门到放弃，一个关于网页速度的故事",
+        "link": "https://www.ershicimi.com/p/c3ec2a57dccdd8ec1df746b959d63cfb",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "Node.js开发人员都应该知道的12个有用的包",
+        "link": "https://www.ershicimi.com/p/d0547fa0a40cf921b2419cc8322d1e6b",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "华为前端开发课来啦，7节课带你入门前端 | 活动推荐",
+        "link": "https://www.ershicimi.com/p/0cf4d465b4e03ded153ee962567c2dfd",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "JavaScript错误处理完全指南",
+        "link": "https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "报告下载 | 数字化转型中的人才紧缺问题，有救吗？",
+        "link": "https://www.ershicimi.com/p/fe77a140054ce64796390c0fe20ec154",
+        "date": "2020-09-17"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9457",
@@ -16200,10 +16200,61 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10647",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10647",
     "title": "编程之上",
     "link": "https://www.ershicimi.com/a/10647",
-    "items": []
+    "items": [
+      {
+        "title": "2019 年终总结",
+        "link": "https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2",
+        "date": "2019-12-31"
+      },
+      {
+        "title": "git 入门",
+        "link": "https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0",
+        "date": "2019-10-28"
+      },
+      {
+        "title": "谨以此文祝福和致敬每一位前端开发工程师",
+        "link": "https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9",
+        "date": "2019-10-24"
+      },
+      {
+        "title": "Git 工作流",
+        "link": "https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e",
+        "date": "2019-10-20"
+      },
+      {
+        "title": "前端初级",
+        "link": "https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4",
+        "date": "2019-10-17"
+      },
+      {
+        "title": "Javascript 内存空间管理",
+        "link": "https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6",
+        "date": "2019-10-16"
+      },
+      {
+        "title": "我对前端架构师的定义",
+        "link": "https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f",
+        "date": "2019-10-15"
+      },
+      {
+        "title": "《大教堂和集市》读后感",
+        "link": "https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54",
+        "date": "2019-10-13"
+      },
+      {
+        "title": "8年前端开发的知识点沉淀",
+        "link": "https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d",
+        "date": "2019-10-12"
+      },
+      {
+        "title": "如何有效学习",
+        "link": "https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a",
+        "date": "2019-10-12"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/198",
@@ -16313,211 +16364,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
+    "rss": "https://rss.shab.fun/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": [
-      {
-        "title": "二线城市，华为 OD 岗位怎么样？",
-        "link": "https://www.v2ex.com/t/710527",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "现在哪个网盘比较靠谱?",
-        "link": "https://www.v2ex.com/t/710526",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "为什么 LeetCode 中文站的题目都变成了英文？",
-        "link": "https://www.v2ex.com/t/710525",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "总是要被迫吃不少高升糖指数（GI）的食物，啥时候大家才能有选择权？",
-        "link": "https://www.v2ex.com/t/710524",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "哥咱家有钱啦是什么梗？",
-        "link": "https://www.v2ex.com/t/710523",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "4G 手机使 5G 的卡网速会有提升吗？",
-        "link": "https://www.v2ex.com/t/710522",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "今天去宝马 4s 店询价",
-        "link": "https://www.v2ex.com/t/710521",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "各位知道有哪些软件源码交易的平台？",
-        "link": "https://www.v2ex.com/t/710520",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "开源黑白照片上色小程序",
-        "link": "https://www.v2ex.com/t/710519",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "有什么软件可以让 WIN10 桌面图标像 MAC 系统那样靠右？",
-        "link": "https://www.v2ex.com/t/710516",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "JDK 里面的自带的线程池为啥都不改一下实现?",
-        "link": "https://www.v2ex.com/t/710515",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "几个 GTD/行事历/日历/todolist 的痛点",
-        "link": "https://www.v2ex.com/t/710513",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "淘宝客工具箱开源，一键转链，淘口令解析 淘宝客中间页生成",
-        "link": "https://www.v2ex.com/t/710512",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "请问哪里有购买自己想要并且已经线上运行 APP 的地方，想从别人手里购买 APP 尝试自己运营，考虑到从头开发成本太大了。",
-        "link": "https://www.v2ex.com/t/710511",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "有听 永恒沉睡 的吗？",
-        "link": "https://www.v2ex.com/t/710509",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "如何解决 macOS-Catalina-10.15.7 文件图标错乱的问题",
-        "link": "https://www.v2ex.com/t/710508",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "蜂窝 watch 会修改手机对应 app 的联网权限",
-        "link": "https://www.v2ex.com/t/710507",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "Java enum 数据库存储问题（大家都是存字符串还是数值）",
-        "link": "https://www.v2ex.com/t/710506",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "道生一，一生二",
-        "link": "https://www.v2ex.com/t/710505",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "腾讯云，欠费一万六怎么办？。。",
-        "link": "https://www.v2ex.com/t/710504",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "支付宝的蚂蚁战配基金大家都买了吗？",
-        "link": "https://www.v2ex.com/t/710503",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "京东音箱 0 元购-需 30 天打卡",
-        "link": "https://www.v2ex.com/t/710501",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[周日讲座] 给出算法最优解，甩掉 90%的对手",
-        "link": "https://www.v2ex.com/t/710500",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "上传视频超时问题",
-        "link": "https://www.v2ex.com/t/710498",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "想不明白小米 MIUI 12 日历新功能的设计思路",
-        "link": "https://www.v2ex.com/t/710497",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[上海-张江] [坚果云] 招——前端、安卓、ios、后端 ！!",
-        "link": "https://www.v2ex.com/t/710496",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "mac 状态栏上有个竖着的箭头是什么 点了几下也没反应",
-        "link": "https://www.v2ex.com/t/710495",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "macOS 上哪款截图软件比较好用?",
-        "link": "https://www.v2ex.com/t/710494",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "广州 [壹心理] 高薪急聘 iOS 开发工程师~",
-        "link": "https://www.v2ex.com/t/710493",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "iOS 14.2 beta 如何保留数据降到 14.0.1 正式版",
-        "link": "https://www.v2ex.com/t/710492",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "504 Gateway Time-out",
-        "link": "https://www.v2ex.com/t/710490",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "explosmentertainment 下班回家脱光衣服打游戏是哪一集？",
-        "link": "https://www.v2ex.com/t/710489",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "视频处理服务器选购建议",
-        "link": "https://www.v2ex.com/t/710488",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "我还是买了卡罗拉",
-        "link": "https://www.v2ex.com/t/710487",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "菜鸟驿站现在都这么恶心了？",
-        "link": "https://www.v2ex.com/t/710485",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "有感于隔壁想买保险但是深陷迷茫的老哥，拉一个保险交流群",
-        "link": "https://www.v2ex.com/t/710484",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "用 golang 重写了 Hyuga，分享下",
-        "link": "https://www.v2ex.com/t/710483",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "有「白山云」的小伙伴么，想问问你们的中秋月饼在哪买的！",
-        "link": "https://www.v2ex.com/t/710482",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "中秋佳节，公司一毛不拔，什么东西都不发，有前途吗？",
-        "link": "https://www.v2ex.com/t/710481",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "高强度思考、码完代码后，如何放松大脑？",
-        "link": "https://www.v2ex.com/t/710478",
-        "date": "2020-09-25"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",

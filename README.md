@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 15:03:55，:rocket: 更新条数: +3441， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 15:12:38，:rocket: 更新条数: +3441， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-25-有没有同款苹果电脑，想看下大家升级了最新系统咋样。](https://www.v2ex.com/t/710563) ![](assets/new.png)  
 - [2020-09-25-Macbook-Pro-15.6-2018-款.升级-10.15.6-咋样。](https://www.v2ex.com/t/710562) ![](assets/new.png)  
 - [2020-09-25-IOS-14.0.1-来电显示中国大陆的问题还是没有解决，是系统问题？还是设置问题？](https://www.v2ex.com/t/710561) ![](assets/new.png)  
 - [2020-09-25-前端-offer-选择-某东-or-某银科技](https://www.v2ex.com/t/710560) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-25-能否把阿里云-ECS-硬盘挂载到腾讯云-ECS-上面？](https://www.v2ex.com/t/710545) ![](assets/new.png)  
 - [2020-09-25-付费定制一个小的功能，一键排版](https://www.v2ex.com/t/710544) ![](assets/new.png)  
 - [2020-09-25-Setapp-个人版-支持-2-台电脑登录使用吗？谢谢老铁们了~](https://www.v2ex.com/t/710543) ![](assets/new.png)  
-- [2020-09-25-在知乎打开了一个新浪新闻的链接，然后就被唤醒了一大批应用](https://www.v2ex.com/t/710542) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

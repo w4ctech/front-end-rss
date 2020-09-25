@@ -16470,6 +16470,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有同款苹果电脑，想看下大家升级了最新系统咋样。",
+        "link": "https://www.v2ex.com/t/710563",
+        "date": "2020-09-25"
+      },
+      {
         "title": "Macbook Pro 15.6 2018 款.升级 10.15.6 咋样。",
         "link": "https://www.v2ex.com/t/710562",
         "date": "2020-09-25"
@@ -16677,11 +16682,6 @@
       {
         "title": "JDK 里面的自带的线程池为啥都不改一下实现?",
         "link": "https://www.v2ex.com/t/710515",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "几个 GTD/行事历/日历/todolist 的痛点",
-        "link": "https://www.v2ex.com/t/710513",
         "date": "2020-09-25"
       }
     ]
@@ -16899,18 +16899,13 @@
         "date": "2020-09-25"
       },
       {
-        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
-        "link": "https://toutiao.io/k/ejwph4b",
+        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
+        "link": "https://toutiao.io/k/tyygn3e",
         "date": "2020-09-25"
       },
       {
-        "title": "[推荐] 用好 VSCode 这 13 款插件和 8 个快捷键，工作效率提升 10 倍",
-        "link": "https://toutiao.io/k/xzcx65d",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 24 张图带你彻底理解 Java 中的 21 种锁",
-        "link": "https://toutiao.io/k/o0417c6",
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
         "date": "2020-09-25"
       },
       {
@@ -16919,18 +16914,8 @@
         "date": "2020-09-25"
       },
       {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 写一个通用的幂等组件，我觉得很有必要",
-        "link": "https://toutiao.io/k/jvghjpf",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
         "date": "2020-09-25"
       },
       {
@@ -16939,18 +16924,8 @@
         "date": "2020-09-25"
       },
       {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-25"
-      },
-      {
         "title": "[推荐] 硬核看房利器：Web 全景的实现",
         "link": "https://toutiao.io/k/ihkuhms",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
         "date": "2020-09-25"
       },
       {
@@ -16959,8 +16934,13 @@
         "date": "2020-09-25"
       },
       {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
         "date": "2020-09-25"
       },
       {
@@ -16969,8 +16949,28 @@
         "date": "2020-09-25"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
+        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
+        "link": "https://toutiao.io/k/h9nal21",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
+        "link": "https://toutiao.io/k/ejwph4b",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
+        "link": "https://toutiao.io/k/rbvgji4",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-25"
       }
     ]

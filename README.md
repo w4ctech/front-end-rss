@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 08:48:56，:rocket: 更新条数: +3666， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 09:04:01，:rocket: 更新条数: +3664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-25-中秋佳节，公司一毛不拔，什么东西都不发，有前途吗？](https://www.v2ex.com/t/710481) ![](assets/new.png)  
 - [2020-09-25-高强度思考、码完代码后，如何放松大脑？](https://www.v2ex.com/t/710478) ![](assets/new.png)  
 - [2020-09-25-Apple-Watch-硅胶单圈表带使用报告](https://www.v2ex.com/t/710477) ![](assets/new.png)  
 - [2020-09-25-中秋佳节之际，得知我司不发礼包。](https://www.v2ex.com/t/710476) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-25-托管-1U-1IP-20M-独享-500-元/月-江苏镇江三线-BGP](https://www.v2ex.com/t/710461) ![](assets/new.png)  
 - [2020-09-25-国庆前连上-10-天班，国庆后又是连着-8-天，这顶不住啊](https://www.v2ex.com/t/710460) ![](assets/new.png)  
 - [2020-09-25-目前（2020.9.25）最适合买的手机是什么？](https://www.v2ex.com/t/710459) ![](assets/new.png)  
-- [2020-09-25-新入职，我感觉我不适合这行](https://www.v2ex.com/t/710458) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-25 12:48:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-25 12:52:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-25-Apple-Watch-无法安装微信](https://www.v2ex.com/t/710540) 
 - [2020-09-25-关于无证经营电信增值业务的疑问](https://www.v2ex.com/t/710539) 
 - [2020-09-25-Compressor-压缩-4K-60fps-YouTube-视频求压缩预设，我的压缩出来还是特别大。](https://www.v2ex.com/t/710538) 
 - [2020-09-25-iOS-能否借助辅助触控回到-app-的前一页](https://www.v2ex.com/t/710536) 
@@ -45,4 +46,3 @@
 - [2020-09-25-macOS-上哪款截图软件比较好用?](https://www.v2ex.com/t/710494) 
 - [2020-09-25-广州-壹心理-高薪急聘-iOS-开发工程师~](https://www.v2ex.com/t/710493) 
 - [2020-09-25-iOS-14.2-beta-如何保留数据降到-14.0.1-正式版](https://www.v2ex.com/t/710492) 
-- [2020-09-25-504-Gateway-Time-out](https://www.v2ex.com/t/710490) 

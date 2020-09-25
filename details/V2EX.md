@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-09-25 06:14:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-25 06:28:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-25-mac-mini-的使用体验如何？](https://www.v2ex.com/t/710419) 
+- [2020-09-25-面试时候你会如何平衡好项目经历亮点和保密？](https://www.v2ex.com/t/710418) 
+- [2020-09-25-AI-快剪-视频全自动批量剪辑软件支持-mac-和-windows](https://www.v2ex.com/t/710417) 
+- [2020-09-25-程序员真的有必要买车吗？](https://www.v2ex.com/t/710416) 
 - [2020-09-25-real-vnc-总是弹出管理窗口](https://www.v2ex.com/t/710415) 
 - [2020-09-25-改了这个变量名](https://www.v2ex.com/t/710414) 
 - [2020-09-25-又折腾了一遍把博客从-wordpress-迁移到了-halo](https://www.v2ex.com/t/710413) 
@@ -41,5 +45,3 @@
 - [2020-09-25-科大讯飞-AI-智能录音笔，录音和转文字效果怎么样？](https://www.v2ex.com/t/710374) 
 - [2020-09-25-为啥-iPad-协议的微信机器人都要钱呀？](https://www.v2ex.com/t/710372) 
 - [2020-09-25-昨晚做了个很奇怪的梦.](https://www.v2ex.com/t/710371) 
-- [2020-09-25-怎么锻炼/恢复手腕？](https://www.v2ex.com/t/710369) 
-- [2020-09-25-求教如何分辨-iPhone-的-app-是用哪个-apple-ID-下载的？](https://www.v2ex.com/t/710366) 

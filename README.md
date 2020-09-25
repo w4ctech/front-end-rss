@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 01:10:06，:rocket: 更新条数: +3421， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 01:32:24，:rocket: 更新条数: +3425， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -384,6 +384,10 @@
 </summary>
 
 
+- [2020-09-25-3年前端也被裁？你的技术欠缺这2点](https://www.ershicimi.com/p/3cbf65a87acc9a21925607b34e95e62c) ![](assets/new.png)  
+- [2020-09-25-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/54e33fa9972d09466745caea15b0057e) ![](assets/new.png)  
+- [2020-09-24-VUE+ElementUI后台管理项目经验与技巧分享，金九银十跳槽必看！](https://www.ershicimi.com/p/16527cca93bfecd468a24f696ad0361c) ![](assets/new.png)  
+- [2020-09-24-前端面试常见的手写功能（常用代码）](https://www.ershicimi.com/p/341f27b85dabee96c83330aecd0a3458) ![](assets/new.png)  
 - [2020-09-23-从阿里,华为等大厂开发实战，看清大前端趋势](https://www.ershicimi.com/p/406c9b19309b89074f2058a28aac2b98) ![](assets/new.png)  
 - [2020-09-22-别再被前端“洗脑”了！！](https://www.ershicimi.com/p/335ca1f511eb7c4532d1fdd7bde51eb2) ![](assets/new.png)  
 - [2020-09-22-JavaScript-交换值的奇思妙想](https://www.ershicimi.com/p/5c4e76536d8822a71334167df303255f) ![](assets/new.png)  
@@ -400,10 +404,6 @@
 - [2020-09-12-随机数的故事](https://www.ershicimi.com/p/a2eb73056c0b5949395834e226ebe0cc) ![](assets/new.png)  
 - [2020-09-11-90%的初级前端工程师都会陷入这个思维误区](https://www.ershicimi.com/p/1c27dc0493a25c90b239525be0ec1671) ![](assets/new.png)  
 - [2020-09-10-Flutter-在阿里淘系的体系化建设和业务实践](https://www.ershicimi.com/p/514c34189a93cb0127c602640da37056) ![](assets/new.png)  
-- [2020-09-09-为什么总有人觉得Vue简单？](https://www.ershicimi.com/p/4cd03e491d8fff6fc4fdf7e5f0aff1d8) ![](assets/new.png)  
-- [2020-09-09-Deno-1.3.3-发布](https://www.ershicimi.com/p/14804945342ca157b11b039e48b9d9e6) ![](assets/new.png)  
-- [2020-09-08-炸了！看了28岁华为员工的工资表才知道：牛逼的人注定会牛逼](https://www.ershicimi.com/p/83bb227721f0ba72c643b42722e55329) ![](assets/new.png)  
-- [2020-09-08-SourceMap知多少：介绍与实践](https://www.ershicimi.com/p/f3849a3d76b6295638736a7cb0b75051) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,12 @@
 </summary>
 
 
+- [2020-09-25-iOS-14-导致-iPhone-SE（2020）相机异响？](https://www.v2ex.com/t/710293) ![](assets/new.png)  
+- [2020-09-25-oppo-findx2pro-和小米-10-至尊版选谁](https://www.v2ex.com/t/710292) ![](assets/new.png)  
+- [2020-09-25-那些能手写各种排序的人能手写数的补码吗？比如--1.234-的补码。](https://www.v2ex.com/t/710290) ![](assets/new.png)  
+- [2020-09-25-轻芒正式版发布了，各位怎么看](https://www.v2ex.com/t/710289) ![](assets/new.png)  
+- [2020-09-25-SpringBoot-接口怎么传数据库中的-BLOB-图片给前端](https://www.v2ex.com/t/710288) ![](assets/new.png)  
+- [2020-09-25-有公司找我做恰饭视频，该不该接？用什么形式比较好？](https://www.v2ex.com/t/710286) ![](assets/new.png)  
 - [2020-09-25-分享我的负一屏，全部由-iOS14-的小组件构成](https://www.v2ex.com/t/710285) ![](assets/new.png)  
 - [2020-09-25-请问阿里云-Linux-ECS-的-agent-无法-kill-也无法删除是怎么做到的](https://www.v2ex.com/t/710284) ![](assets/new.png)  
 - [2020-09-25-“Coalition-For-App-Fairness”-是否会对苹果生态产生影响？](https://www.v2ex.com/t/710282) ![](assets/new.png)  
@@ -1071,12 +1077,6 @@
 - [2020-09-24-吐槽为了贪小便宜做的一件蠢事-用-2-小时睡眠时间换了-4-块钱](https://www.v2ex.com/t/710270) ![](assets/new.png)  
 - [2020-09-24-iOS-14-微信跟支付宝扫码音量好大，有没有什么办法调低一些](https://www.v2ex.com/t/710269) ![](assets/new.png)  
 - [2020-09-24-社招-货拉拉-D-轮融资-300-亿估值独角兽，项目组直招/内推-Java-工程师/架构师](https://www.v2ex.com/t/710267) ![](assets/new.png)  
-- [2020-09-24-吐槽一下轻量云服务器的安全组不支持-IP-策略](https://www.v2ex.com/t/710265) ![](assets/new.png)  
-- [2020-09-24-计算机专业本科大四，找不到计算类实习，面临无法毕业，怎么办才好？](https://www.v2ex.com/t/710264) ![](assets/new.png)  
-- [2020-09-24-20200925-NUC-黑果套餐-报价](https://www.v2ex.com/t/710262) ![](assets/new.png)  
-- [2020-09-24-鉴于内卷现状，讨论餐饮创业](https://www.v2ex.com/t/710261) ![](assets/new.png)  
-- [2020-09-24-Apple-Watch-6-现在是不是不能绑定支付宝离线支付啊](https://www.v2ex.com/t/710260) ![](assets/new.png)  
-- [2020-09-24-有没有人觉得-2018-款-iPad-Pro-配妙控键盘，摄像头看着很不舒服](https://www.v2ex.com/t/710258) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-09-25-被产品经理怼了，线上出-Bug-为啥你不知道](https://toutiao.io/k/jnimse0) ![](assets/new.png)  
 - [2020-09-25-Spark-SQL-分桶表在字节跳动的优化](https://toutiao.io/k/3xtjztr) ![](assets/new.png)  
 - [2020-09-25-Snowpack-全攻略：从入门体验到源码解析](https://toutiao.io/k/9t19zsv) ![](assets/new.png)  
-- [2020-09-25-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
-- [2020-09-25-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
-- [2020-09-25-推荐-写一个通用的幂等组件，我觉得很有必要](https://toutiao.io/k/jvghjpf) ![](assets/new.png)  
-- [2020-09-25-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
-- [2020-09-25-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-25-面试：你知道-MyBatis-执行过程初始化如何执行的吗？](https://toutiao.io/k/jvmo61z) ![](assets/new.png)  
+- [2020-09-25-Rust-学习笔记：async/await-如何工作](https://toutiao.io/k/c9rmsws) ![](assets/new.png)  
+- [2020-09-25-人人都能看懂的鸿蒙-“JS-小程序”-数据绑定原理](https://toutiao.io/k/0k3v1io) ![](assets/new.png)  
+- [2020-09-25-kafka-的工作原理](https://toutiao.io/k/4s8lzp3) ![](assets/new.png)  
+- [2020-09-25-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
+- [2020-09-25-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
 - [2020-09-25-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
-- [2020-09-25-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
-- [2020-09-25-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
-- [2020-09-25-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
-- [2020-09-25-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-25-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
+- [2020-09-25-推荐-用好-VSCode-这-13-款插件和-8-个快捷键，工作效率提升-10-倍](https://toutiao.io/k/xzcx65d) ![](assets/new.png)  
+- [2020-09-25-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

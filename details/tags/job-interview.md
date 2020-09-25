@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-25 03:34:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-25 03:47:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -36,8 +36,10 @@
 - [2020-09-20-字节一面，面试官拿System.out.println考了我半个小时？我懵逼了...](https://www.ershicimi.com/p/a60c0807fe95f9e2aa01df028f0b6bbc) 
 - [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) 
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
+- [2020-09-25-求职-Java-后端工作从没收到过面试邀请，求指导](https://www.v2ex.com/t/710360) 
 - [2020-09-25-「美团金服招聘」---生态金融前端持续招人中---北京上海都有职位](https://www.v2ex.com/t/710356) 
 - [2020-09-25-这里有免费的-Java-模拟面试机会](https://www.v2ex.com/t/710345) 
 - [2020-09-25-面试：你知道-MyBatis-执行过程初始化如何执行的吗？](https://toutiao.io/k/jvmo61z) 
 - [2020-09-25-why哥这里有一道-Dubbo-高频面试题，请查收](https://toutiao.io/k/8g7pp36) 
+- [2020-09-25-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
 - [2020-09-22-培训班交费之前还要面试?就是这么硬核质量](https://sec.thief.one/article_content?a_id=48c6eadc962b919e370de85f38a7e66d) 

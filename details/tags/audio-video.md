@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-25 08:36:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-25 08:47:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,8 +83,12 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff) 
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) 
+- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
+- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
+- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
+- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-09-25-微信发不了大视频怎么办？](https://www.v2ex.com/t/710438) 
-- [2020-09-25-android-怎么进行声音直播？](https://www.v2ex.com/t/710422) 
 - [2020-09-25-字节跳动的-8-轮视频面试流程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13784&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9XHrv6DAb6kb7w4k-c4ctg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-24-牛逼了!100份Python爬虫实战源码+视频,开放获取](https://sec.thief.one/article_content?a_id=8922c61b3d9768a78f3ff4c568481bda) 
 - [2020-09-24-特斯拉全球性网络中断;美连锁健身馆泄露60万用户数据;视频号黑产...](https://sec.thief.one/article_content?a_id=0b3aac8e796e97ba3828c67c52f9ddd3) 

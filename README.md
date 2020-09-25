@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 09:47:18，:rocket: 更新条数: +3439， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 10:03:42，:rocket: 更新条数: +3440， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,7 +947,7 @@
 </summary>
 
 
-- [2020-09-25-ZooTeam-前端周刊｜第-101-期](https://juejin.im/post/6876349272649007111) ![](assets/new.png)  
+- [2020-09-24-惊天秘密！如何在-Flutter-项目中实现操作引导](https://juejin.im/post/6875983145745776654) ![](assets/new.png)  
 - [2020-09-24-手摸手，一起整理前端小小小知识](https://juejin.im/post/6875979671188717581) ![](assets/new.png)  
 - [2020-09-24-vue微信支付小测试](https://juejin.im/post/6875978144499793927) ![](assets/new.png)  
 - [2020-09-24-前端监控（1）——-性能监控（附实战代码）](https://juejin.im/post/6875973595005190151) ![](assets/new.png)  
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-25-京东音箱-0-元购-需-30-天打卡](https://www.v2ex.com/t/710501) ![](assets/new.png)  
+- [2020-09-25-周日讲座-给出算法最优解，甩掉-90%的对手](https://www.v2ex.com/t/710500) ![](assets/new.png)  
 - [2020-09-25-上传视频超时问题](https://www.v2ex.com/t/710498) ![](assets/new.png)  
 - [2020-09-25-想不明白小米-MIUI-12-日历新功能的设计思路](https://www.v2ex.com/t/710497) ![](assets/new.png)  
 - [2020-09-25-上海-张江-坚果云-招——前端、安卓、ios、后端-！!](https://www.v2ex.com/t/710496) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-25-中秋佳节，公司一毛不拔，什么东西都不发，有前途吗？](https://www.v2ex.com/t/710481) ![](assets/new.png)  
 - [2020-09-25-高强度思考、码完代码后，如何放松大脑？](https://www.v2ex.com/t/710478) ![](assets/new.png)  
 - [2020-09-25-Apple-Watch-硅胶单圈表带使用报告](https://www.v2ex.com/t/710477) ![](assets/new.png)  
-- [2020-09-25-中秋佳节之际，得知我司不发礼包。](https://www.v2ex.com/t/710476) ![](assets/new.png)  
-- [2020-09-25-国庆期间广州以及周边有哪些好玩的地方？](https://www.v2ex.com/t/710475) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,6 +1088,7 @@
 </summary>
 
 
+- [2020-09-25-微软、亚马逊、IBM主动禁售人脸识别，为什么？-www.huxiu.com](https://blogread.cn/news/go.php?idItem=13796&url=https%3A%2F%2Fwww.huxiu.com%2Farticle%2F380148.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-25-OKR是新时代的KPI吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13795&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fokr-vs-kpi%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-25-职场常备的-TOP-20-AI-产品工具-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13794&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F09%2F23%2F170-list-of-top-20-ai-product-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-25-如何选择适合自己网站的防盗链-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13793&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F258380316%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1107,7 +1108,6 @@
 - [2020-09-25-Installing-Apache,-PHP,-and-MySQL-on-macOS-Catalina-jasonmccreary.me](https://blogread.cn/news/go.php?idItem=13779&url=https%3A%2F%2Fjasonmccreary.me%2Farticles%2Finstall-apache-php-mysql-mac-os-x-catalina%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-25-荔枝微课基础架构的演进与实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13778&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F250271369%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-25-更好的开卡，来聊聊非功能性需求-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13777&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthe-non-functional-requirements%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-25-Let’s-Encrypt实践指北-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13776&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flets-encryp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 10:24:30，:rocket: 更新条数: +3665， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-25 10:32:24，:rocket: 更新条数: +3440， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-25-郑忠伟：新冠病毒疫苗在中国的定价-一定在大众可接受的范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia7q1oHO2QwgKDc7YpPEG200925&isfromapp=1) ![](assets/new.png)  
+- [2020-09-25-科技部：我国已有11个疫苗进入临床试验-4个疫苗进入三期临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJdgoFIyC5usvNPGtyd5q200925&isfromapp=1) ![](assets/new.png)  
 - [2020-09-25-美国累计新冠肺炎确诊病例超697万-死亡病例超20万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizDvpDQfRLJK5Dne3LNEH200925&isfromapp=1) ![](assets/new.png)  
 - [2020-09-25-防范新冠疫情-加快场馆建设-北京冬奥会明确下一阶段工作任务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaeIMSXeSTz5To7JlSoLY200925&isfromapp=1) ![](assets/new.png)  
 - [2020-09-25-​河南省新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKnKTcaAryZbWjiWaM7fJ200925&isfromapp=1) ![](assets/new.png)  
-- [2020-09-25-截至9月24日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/415868.jhtml) ![](assets/new.png)  
-- [2020-09-25-黑龙江省哈尔滨市1例已经解除隔离观察无症状感染者核酸检测复阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib6WZPxQZ93CJr28UoxoX200925&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,11 +947,11 @@
 </summary>
 
 
+- [2020-09-24-几种跨浏览器标签页完成数据同步的方法](https://juejin.im/post/6876047477452046349) ![](assets/new.png)  
+- [2020-09-24-this指向问题](https://juejin.im/post/6876007819670355976) ![](assets/new.png)  
 - [2020-09-24-给elementui的table组件加上虚拟列表](https://juejin.im/post/6875987872886259719) ![](assets/new.png)  
 - [2020-09-24-VUE计算属性和侦听器](https://juejin.im/post/6875984478158716942) ![](assets/new.png)  
 - [2020-09-24-惊天秘密！如何在-Flutter-项目中实现操作引导](https://juejin.im/post/6875983145745776654) ![](assets/new.png)  
-- [2020-09-24-手摸手，一起整理前端小小小知识](https://juejin.im/post/6875979671188717581) ![](assets/new.png)  
-- [2020-09-24-前端监控（1）——-性能监控（附实战代码）](https://juejin.im/post/6875973595005190151) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-25-有听-永恒沉睡-的吗？](https://www.v2ex.com/t/710509) ![](assets/new.png)  
 - [2020-09-25-如何解决-macOS-Catalina-10.15.7-文件图标错乱的问题](https://www.v2ex.com/t/710508) ![](assets/new.png)  
 - [2020-09-25-蜂窝-watch-会修改手机对应-app-的联网权限](https://www.v2ex.com/t/710507) ![](assets/new.png)  
 - [2020-09-25-Java-enum-数据库存储问题（大家都是存字符串还是数值）](https://www.v2ex.com/t/710506) ![](assets/new.png)  
@@ -1096,7 +1077,6 @@
 - [2020-09-25-explosmentertainment-下班回家脱光衣服打游戏是哪一集？](https://www.v2ex.com/t/710489) ![](assets/new.png)  
 - [2020-09-25-视频处理服务器选购建议](https://www.v2ex.com/t/710488) ![](assets/new.png)  
 - [2020-09-25-我还是买了卡罗拉](https://www.v2ex.com/t/710487) ![](assets/new.png)  
-- [2020-09-25-菜鸟驿站现在都这么恶心了？](https://www.v2ex.com/t/710485) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

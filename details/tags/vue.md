@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-26 01:31:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 01:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -24,7 +24,6 @@
 - [2020-09-19-重磅-|-Vue3.0-正式版发布了!](https://www.ershicimi.com/p/fd2f184440e296ac20cca7f74677b66d) 
 - [2020-09-16-基于-vue-3.0.0-beta.x-写的第一个组件](https://www.ershicimi.com/p/38d7aeaa17c17116b4a685e13e925a54) 
 - [2020-09-13-他写出了-Vue，却做不对这十道-Vue-笔试题](https://www.ershicimi.com/p/f10f49d6dee5855e4ec59b4363d52047) 
-- [2020-09-10-Vue-数据更新但页面没有更新的-7-种情况，你遇到过几种](https://www.ershicimi.com/p/6b1b9c2b05ec3dbc675946f6a996be5a) 
 - [2020-09-20-【第2071期】尤雨溪：Vue3.0全球发布会](https://www.ershicimi.com/p/1ac307a88c7a465b67aea4dd13061bed) 
 - [2020-09-19-【第2070期】Vue.js-3.0-"One-Piece"-发布](https://www.ershicimi.com/p/0f314ec9f744c5742dc8dfcb3169443b) 
 - [2020-09-13-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/f6b658f55451af6d8763c8998c296af3) 
@@ -70,11 +69,6 @@
 - [2020-09-19-Vuejs-3.0-正式版发布！One-Piece.-代号：海贼王](https://www.ershicimi.com/p/3a363805b31c6ed7343f7b6cd940879a) 
 - [2020-08-27-什么？华为开始对Node&Vue下手了？](https://www.ershicimi.com/p/fa7c430e5710d6664aaf2ebf5b132816) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
-- [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 
-- [2016-12-28-一个栗子实践vue2.0与1.0的区别](https://aotu.io/notes/2016/12/28/vue-clock/) 
-- [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
-- [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
-- [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2020-09-17-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/ddf67c92911c4ff28123c7ce2c89a519) 
 - [2020-09-23-只会-Vue-的那些人，现在怎么样了？](https://www.ershicimi.com/p/536b210708036dd48250c8efbf73fa4f) 
 - [2020-09-21-【软件更新】Vue-3.0正式发布！](https://www.ershicimi.com/p/ff3ab6acc82fef8cf1b194ee18e1b6fd) 

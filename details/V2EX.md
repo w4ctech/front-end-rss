@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-26 13:11:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 13:22:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-26-公司整天强调价值观，同一个目标](https://www.v2ex.com/t/710728) 
 - [2020-09-26-MacBook-Pro-15in-2017-现在版本是-High-Sierra，不能升级到-Catelina](https://www.v2ex.com/t/710727) 
 - [2020-09-26-接下来一两个月会有新-MBP16-寸发布吗？](https://www.v2ex.com/t/710726) 
 - [2020-09-26-有没有专业收集下载品牌机-BIOS-的网站？](https://www.v2ex.com/t/710725) 
@@ -49,4 +50,3 @@
 - [2020-09-26-关于-“强者互衬，弱者互踩”-我的独家理解](https://www.v2ex.com/t/710681) 
 - [2020-09-26-整理了一些-GitHub-的开源书籍、项目，通过小程序方便阅读，平时自己用的比较多](https://www.v2ex.com/t/710680) 
 - [2020-09-26-🎉-#十一专享#国庆美丽惠-正版软件大促销！](https://www.v2ex.com/t/710679) 
-- [2020-09-26-Active-Backup-for-Business-如何进行备份前预览？](https://www.v2ex.com/t/710678) 

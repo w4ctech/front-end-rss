@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-26 21:03:52，:rocket: 更新条数: +3611， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-26 21:12:33，:rocket: 更新条数: +3656， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)![](assets/dot.png)   
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-09-26-纽约3个月以来新冠病毒感染病例首次单日破千](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuztaWG8vme9NmlrOQwlb200927&isfromapp=1) ![](assets/new.png)  
+- [2020-09-26-印度医用氧气紧缺，政府对氧气限价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti60i8DNx5XGreXBCs0wRD200926&isfromapp=1) ![](assets/new.png)  
+- [2020-09-26-突尼斯实施防疫新举措，或实施宵禁以应对疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSVTVy3nkYJVxxBgPtbTd200926&isfromapp=1) ![](assets/new.png)  
+- [2020-09-26-青岛已累计检测重点人群-57-万人次，2-名无症状感染者无不适症状](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti27VB1Yam20sJg6ioCAaj200926&isfromapp=1) ![](assets/new.png)  
+- [2020-09-26-俄罗斯新增7523例新冠肺炎确诊病例-累计确诊超过114万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimtjOCNUtqAnloYyZC9pi200926&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -472,6 +477,26 @@
 </summary>
 
 
+- [2020-09-25-一年前端的面试分享](https://www.ershicimi.com/p/f948eeee3503d62d806ac211a35a8817) ![](assets/new.png)  
+- [2020-09-24-@vue/composition-api速成课（通俗易懂版）](https://www.ershicimi.com/p/cd58b8fe5a6fb052d8e8e8ec0e7d82e6) ![](assets/new.png)  
+- [2020-09-23-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/28f8d4bd4d47d685d681761926738613) ![](assets/new.png)  
+- [2020-09-22-腾讯CSIG上海企点招高级Web前端开发工程师](https://www.ershicimi.com/p/a4ccd226a1a1fff4ab81728f93d1623c) ![](assets/new.png)  
+- [2020-09-21-解码报告：数字化转型中的人才紧缺问题，有救吗？](https://www.ershicimi.com/p/7839e0787cb7250fa98fd91c5f8ce3c6) ![](assets/new.png)  
+- [2020-09-20-尤雨溪：Vue3.0全球发布会](https://www.ershicimi.com/p/9e3a4866c22cf43c4c846e5dd0dccbb1) ![](assets/new.png)  
+- [2020-09-19-关于面试的一点心得](https://www.ershicimi.com/p/26518953e3cc30c299b44999f33c71c3) ![](assets/new.png)  
+- [2020-09-18-阅读大型开源软件的四个技巧](https://www.ershicimi.com/p/a361ca639175ceb9c7083c7e9a4458d3) ![](assets/new.png)  
+- [2020-09-17-祖传技术栈改造，从照抄大公司作业开始](https://www.ershicimi.com/p/272ec3c79ed1f9ccfb7128c566c51a53) ![](assets/new.png)  
+- [2020-09-16-Typescript初学者入门指南](https://www.ershicimi.com/p/7cb6373e9529c45ce8f335118a336d7a) ![](assets/new.png)  
+- [2020-09-15-BI数据分析技能拆解，一文搭建全流程知识树](https://www.ershicimi.com/p/ef0eaeb491848112a68cfa15c7c9ce3c) ![](assets/new.png)  
+- [2020-09-14-“精通Vue”的求职者有多吃香？](https://www.ershicimi.com/p/2ed6df4501336028253424b4a8cbcaf1) ![](assets/new.png)  
+- [2020-09-13-推荐几个涨姿势公众号](https://www.ershicimi.com/p/9a6db20a723402a97000cbd62f10dd14) ![](assets/new.png)  
+- [2020-09-10-头条面试题：计算目录树的深度](https://www.ershicimi.com/p/df9ddee4650f0c9ab3dd7df235232dab) ![](assets/new.png)  
+- [2020-09-09-腾讯音乐移动端页面通用性能优化实践](https://www.ershicimi.com/p/951c47621be39d733c40f8453c62418b) ![](assets/new.png)  
+- [2020-09-08-面试官:请手写一个简易的Webpack](https://www.ershicimi.com/p/b99c6ee7c391d8edf34b867fb1e02fb3) ![](assets/new.png)  
+- [2020-09-07-JS原型相关知识点](https://www.ershicimi.com/p/615ac57abc1d69cc60d1f97b775d75b1) ![](assets/new.png)  
+- [2020-09-05-决定给粉丝们拉个前端群，促进前端技术交流](https://www.ershicimi.com/p/138e912a372d189a25d5ddd49a39c786) ![](assets/new.png)  
+- [2020-09-04-如何实现文件下载](https://www.ershicimi.com/p/9576020470405d81bba938a2f5cd3a90) ![](assets/new.png)  
+- [2020-09-03-BI数据分析师，请把这8个商业项目写进简历！](https://www.ershicimi.com/p/a8abd0ef73548f7e307040886c9bb059) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -880,6 +905,26 @@
 </summary>
 
 
+- [2020-09-14-Zoom你学不会！](https://www.ershicimi.com/p/1779f2be908fa16c8263ee11896cb680) ![](assets/new.png)  
+- [2020-09-14-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/d95588bb2dfefaac5fb01927aca21dad) ![](assets/new.png)  
+- [2020-09-14-揭秘阿里、华为、字节跳动等大厂技术实践案例，免费学超强避坑指南！｜-QCon+](https://www.ershicimi.com/p/1337928a69615e88db5fbe66282bb2f7) ![](assets/new.png)  
+- [2020-09-14-微软高分课来了，教你从“小白”进阶为“专家”，共建数字化企业-｜-Q推荐](https://www.ershicimi.com/p/d369ed8ceb2648e5f432ac23673457b4) ![](assets/new.png)  
+- [2020-09-14-区块链是一个不知道要解决什么问题的解决方案](https://www.ershicimi.com/p/cdff74ce774272f3f914ee634a4be2cb) ![](assets/new.png)  
+- [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) ![](assets/new.png)  
+- [2020-09-13-重写的六大风险](https://www.ershicimi.com/p/8f96baec7d339b3b709b9f3055f15792) ![](assets/new.png)  
+- [2020-09-13-快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b) ![](assets/new.png)  
+- [2020-09-13-最受欢迎的10大Angular技巧](https://www.ershicimi.com/p/681cb2c04c4565733cb3417d01562815) ![](assets/new.png)  
+- [2020-09-12-传华为将包机从台湾运回所有芯片；16岁少年为逃课策划8次DDoS攻击；马云称再创业不会选互联网丨Q资](https://www.ershicimi.com/p/e0bbeb3bbdf3571840f57fa5924d4bf8) ![](assets/new.png)  
+- [2020-09-12-Istio进入1.7版本，Service-Mesh-落地还有什么障碍？](https://www.ershicimi.com/p/feb18dde6f784d0f0610c59947bceba6) ![](assets/new.png)  
+- [2020-09-12-30分钟搭建属于自己的口罩AI检测模型-｜-Q推荐](https://www.ershicimi.com/p/fe8b4f64793f190d7d57205e4c689937) ![](assets/new.png)  
+- [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) ![](assets/new.png)  
+- [2020-09-11-亏损7年，找对CTO，VIPKID终于赚钱了](https://www.ershicimi.com/p/c206a84a311821d5231cf209488b20f0) ![](assets/new.png)  
+- [2020-09-11-东方证券企业架构之技术架构转型实践](https://www.ershicimi.com/p/e597b88aeb173c34a5a4749cb389e668) ![](assets/new.png)  
+- [2020-09-11-看看你的领域普及机器学习了吗？](https://www.ershicimi.com/p/97d740e3616731a280a7f24342d5dd12) ![](assets/new.png)  
+- [2020-09-11-从实践出发，如何正确应用微服务架构？｜-Q推荐](https://www.ershicimi.com/p/ae5388256c76bfb041264141711d901a) ![](assets/new.png)  
+- [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) ![](assets/new.png)  
+- [2020-09-10-刚刚，华为鸿蒙OS-2.0-发布，18点18分开放源代码](https://www.ershicimi.com/p/642ae1e369fa2eab72992b1b87631aff) ![](assets/new.png)  
+- [2020-09-10-大公司、新技术、真问题！QCon+案例研习社正式上线](https://www.ershicimi.com/p/3c34589dbe7424b36c87a8c9a00b22df) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1104,16 +1149,16 @@
 - [2020-09-26-RASP-攻防：RASP-安全应用与局限性浅析](https://toutiao.io/k/o36jl8q) ![](assets/new.png)  
 - [2020-09-26-.NET-Core-+-Kubernetes：StatefulSet](https://toutiao.io/k/whv5awc) ![](assets/new.png)  
 - [2020-09-26-MyBatis-Generator-yml-Maven-Plugin](https://toutiao.io/k/duf9gst) ![](assets/new.png)  
-- [2020-09-26-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-26-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
-- [2020-09-26-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
-- [2020-09-26-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
-- [2020-09-26-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-26-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
-- [2020-09-26-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
-- [2020-09-26-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
-- [2020-09-26-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-26-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
 - [2020-09-26-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
+- [2020-09-26-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-26-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-26-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
+- [2020-09-26-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
+- [2020-09-26-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
+- [2020-09-26-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-09-26-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

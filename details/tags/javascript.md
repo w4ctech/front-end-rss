@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-25 23:48:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 00:07:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -28,6 +28,10 @@
 - [2020-01-22-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](https://m.caixin.com/m/2020-01-23/101507521.html) 
 - [2020-01-21-如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html) 
 - [2020-01-21-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
+- [2020-01-02-回顾2019-年-JavaScript-现状调查报告](https://www.ershicimi.com/p/9adf10f5eda0e047609c758df13436b0) 
+- [2020-01-01-倏忽一年：回顾点评前端-2019-重大事件、趋势](https://www.ershicimi.com/p/88b10c5e55ecef0583393efa7d466665) 
+- [2019-12-30-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/8afb29a5864bf11ab6723cdc66a0c6ab) 
+- [2019-12-26-如何答一道惊艳面试官的数组去重问题？](https://www.ershicimi.com/p/65b6fbfea2975868732525463c062fdf) 
 - [2020-09-18-你可能不知道的console调试方法](https://www.ershicimi.com/p/97fc71bab0754c50ab2415c298fcb870) 
 - [2020-09-17-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/a41334d8bc46815bd43f086cd46bd808) 
 - [2020-09-17-H5-移动端调试全攻略](https://www.ershicimi.com/p/3e88cd813e1df74350df4807b3098838) 
@@ -36,7 +40,6 @@
 - [2020-09-21-【第2072期】-或许这就是下一代组件库](https://www.ershicimi.com/p/876dde13179380f6a7730b2c5910df61) 
 - [2020-09-17-【第2068期】高级程序4：异步函数](https://www.ershicimi.com/p/ce7f61d3280b9ae7289161c168751d47) 
 - [2020-09-16-WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/4c3860218d67f28e8f9b083be2848aaa) 
-- [2020-09-12-【第2063期】如何进行表单体验优化-中台系统](https://www.ershicimi.com/p/cbfdb8df7884184d75e415555dbbee81) 
 - [2020-09-18-如何搭建一个完美的组件库？](https://www.ershicimi.com/p/246a23c4b08fe3f14711bcdf0f3ee70f) 
 - [2020-09-24-浅析鸿蒙-JavaScript-GUI-技术栈](https://www.ershicimi.com/p/c062cc7d7443259f5091b096df5edb1d) 
 - [2020-09-15-2020年8月Github上最热门的JavaScript开源项目排行](https://www.ershicimi.com/p/5be35f333ef5c3d9b4115629921c4fef) 
@@ -125,10 +128,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-25-关于群晖链路聚合和华硕路由器的问题，开启后测速依然不变。](https://www.v2ex.com/t/710581) 
-- [2020-09-25-轻松玩转函数式编程](https://toutiao.io/k/zmm264v) 
-- [2020-09-25-资料-|《JavaScript-20-年》](https://toutiao.io/k/fgeg3yt) 
-- [2020-09-25-Rust-学习笔记：async/await-如何工作](https://toutiao.io/k/c9rmsws) 
-- [2020-09-25-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
+- [2020-09-26-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
 - [2020-09-25-Java环境下通过时间竞争实现DNS-Rebinding-绕过SSRF-防御限制](https://sec.thief.one/article_content?a_id=c22073e6f7057bd64c3bda40cd57dd3f) 
 - [2020-09-25-动视发生严重个人资料泄漏事件:超50万账号被曝光](https://sec.thief.one/article_content?a_id=f4b64dd75ea63c6ffdc2a46e3dd97b5a) 
 - [2020-09-23-信创适配率先破百-奇安信可信浏览器成政企办公“枢纽”](https://sec.thief.one/article_content?a_id=c6e0f42f63047f0977c3e434456a64e8) 

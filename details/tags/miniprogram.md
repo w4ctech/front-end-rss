@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-25 23:48:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 00:07:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -42,5 +42,3 @@
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
 - [2020-09-18-奇舞周刊第-364-期：小程序视角下同构方案思考](https://www.ershicimi.com/p/d9f7bae52064d258394b7f01ad3a7a36) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
-- [2020-09-25-人人都能看懂的鸿蒙-“JS-小程序”-数据绑定原理](https://toutiao.io/k/0k3v1io) 
-- [2020-09-25-京喜小程序首页无障碍优化实践](https://toutiao.io/k/3dzkd7u) 

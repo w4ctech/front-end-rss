@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-26 13:47:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 13:49:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -19,3 +19,4 @@
 - [2020-09-05-【软件更新】TypeScript-4.0正式发布！](https://www.ershicimi.com/p/8a2344e4dbdfdd6502c56441d6475911) 
 - [2020-09-25-Typescript-类型进阶](https://juejin.im/post/6876698583426007053) 
 - [2020-09-25-前端常量维护：TypeScript-项目中维护常量引发的思考](https://juejin.im/post/6876624667533115400) 
+- [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 

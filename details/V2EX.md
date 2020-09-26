@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-26 13:22:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 13:32:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-26-Spring-中的日志大家通常会记在哪里呢？](https://www.v2ex.com/t/710730) 
+- [2020-09-26-升级到-macOS-10.15.7，-VMWare-Fusion-悲剧了](https://www.v2ex.com/t/710729) 
 - [2020-09-26-公司整天强调价值观，同一个目标](https://www.v2ex.com/t/710728) 
 - [2020-09-26-MacBook-Pro-15in-2017-现在版本是-High-Sierra，不能升级到-Catelina](https://www.v2ex.com/t/710727) 
 - [2020-09-26-接下来一两个月会有新-MBP16-寸发布吗？](https://www.v2ex.com/t/710726) 
@@ -48,5 +50,3 @@
 - [2020-09-26-几百万图片-url-转云存储，有什么好办法](https://www.v2ex.com/t/710683) 
 - [2020-09-26-Mybatis-的-collection-标签可以起到-group-by-的作用？](https://www.v2ex.com/t/710682) 
 - [2020-09-26-关于-“强者互衬，弱者互踩”-我的独家理解](https://www.v2ex.com/t/710681) 
-- [2020-09-26-整理了一些-GitHub-的开源书籍、项目，通过小程序方便阅读，平时自己用的比较多](https://www.v2ex.com/t/710680) 
-- [2020-09-26-🎉-#十一专享#国庆美丽惠-正版软件大促销！](https://www.v2ex.com/t/710679) 

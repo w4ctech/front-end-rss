@@ -13829,117 +13829,117 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/65",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/65",
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
-    "items": []
-  },
-  {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/29",
-    "title": "前端开发",
-    "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
-        "title": "JavaScrpit AST 实战",
-        "link": "https://www.ershicimi.com/p/02b700b0f8fefb3cde41bb90ac252632",
+        "title": "面试最后一题是 CSS，答错后薪资降了 2k…",
+        "link": "https://www.ershicimi.com/p/ce497699375d6ed71ea7210d64559b6a",
         "date": "2020-09-25"
       },
       {
-        "title": "从0到1用Node完成一个CLI工具",
-        "link": "https://www.ershicimi.com/p/a9a603eab29a5625f2c33aed1dd59c5a",
+        "title": "全面分析toString与valueOf，并随手解决掉几道大厂必备面试题",
+        "link": "https://www.ershicimi.com/p/cd99b749e50e46c5294522bb3c13c101",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "一位摸金校尉决定转行前端",
+        "link": "https://www.ershicimi.com/p/80945f9ab6b747f2999986d2de06f7af",
         "date": "2020-09-24"
       },
       {
-        "title": "浅析鸿蒙 JavaScript GUI 技术栈",
-        "link": "https://www.ershicimi.com/p/c062cc7d7443259f5091b096df5edb1d",
+        "title": "面向对象：一屋，二人，三餐，四季～ 简单质朴即可",
+        "link": "https://www.ershicimi.com/p/9a2770c2b51e4568d98dc3de1dca3152",
         "date": "2020-09-24"
       },
       {
-        "title": "Vue 3.0 正式发布了！",
-        "link": "https://www.ershicimi.com/p/259de51160f57a07999645d773a65496",
+        "title": "学多少返多少 |“ Web全栈架构师”0门槛就业涨薪计划",
+        "link": "https://www.ershicimi.com/p/24802fd9209abb6bfa98c789b7d53d12",
         "date": "2020-09-23"
       },
       {
-        "title": "今年薪资普涨不可能了，做 8 年前端咋办？",
-        "link": "https://www.ershicimi.com/p/8e9a55edb69173767e7658dba6934929",
+        "title": "搞懂 JWT 这个知识点",
+        "link": "https://www.ershicimi.com/p/81fd3a93bea88dca984c62204cbe581e",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "移动端 1px 问题解决方案",
+        "link": "https://www.ershicimi.com/p/5f24af2b1f782c82828c8c40aaf1a5d9",
         "date": "2020-09-22"
       },
       {
-        "title": "从 React Hooks 看 React 的本质",
-        "link": "https://www.ershicimi.com/p/37710cd20a08a443ecdec0c5ecd49f42",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）",
-        "link": "https://www.ershicimi.com/p/39e8f17af9960da11d35e5ec64167df1",
+        "title": "如果程序员送外卖，会选择“红黄蓝”谁家？",
+        "link": "https://www.ershicimi.com/p/8b87649f3d8e20d973a6c6cbcc8b7584",
         "date": "2020-09-21"
       },
       {
-        "title": "响应式布局新方案",
-        "link": "https://www.ershicimi.com/p/ff0f1d6ad673dacaa575de6e88cd5070",
+        "title": "Vue 进阶面试必问，异步更新机制和 nextTick 原理",
+        "link": "https://www.ershicimi.com/p/67dfb5569ef4740003c94712c9a63e3c",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "Vue 3.0 正式发布，尤雨溪回应大家关切的问题",
+        "link": "https://www.ershicimi.com/p/d09f246fb52cbd2dd5322860a960379a",
         "date": "2020-09-20"
       },
       {
-        "title": "2020 年你应该知道的 React 库",
-        "link": "https://www.ershicimi.com/p/25cf713190cbd09a6e2fe451424cf5cb",
+        "title": "TypeScript之父：JS不是竞争对手",
+        "link": "https://www.ershicimi.com/p/976c7799431e66fc0c808a55d9768170",
         "date": "2020-09-19"
       },
       {
-        "title": "“数智未来 全速重构” 云栖大会邀请你体验云上实验室",
-        "link": "https://www.ershicimi.com/p/215e73f6c0e15b1c55bfe5db9cc06814",
+        "title": "程序员脱单记：领证回来的路上，我们约好写下这篇",
+        "link": "https://www.ershicimi.com/p/8b2ee17053890f045cbaba2b67b3cfe1",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "只会用 Vue 不够！还要知其所以然",
+        "link": "https://www.ershicimi.com/p/8e778a8a866896a76395b0ddec4b7968",
         "date": "2020-09-18"
       },
       {
-        "title": "React Hooks 原理与最佳实践",
-        "link": "https://www.ershicimi.com/p/4e3a8b6c0f93debe4390686273455505",
+        "title": "如何搭建一个完美的组件库？",
+        "link": "https://www.ershicimi.com/p/246a23c4b08fe3f14711bcdf0f3ee70f",
         "date": "2020-09-18"
       },
       {
-        "title": "前端圈的贫富差距正在拉大？",
-        "link": "https://www.ershicimi.com/p/4da7d04631cd3fe63900ce906709679d",
+        "title": "“对不起，因为本国法律要求，我不能合并你的代码”",
+        "link": "https://www.ershicimi.com/p/82e154dc9823edffaa4bc082e4f285d4",
         "date": "2020-09-17"
       },
       {
-        "title": "用TypeScript编写React的最佳实践",
-        "link": "https://www.ershicimi.com/p/429483c9b278e11128d54833257ac593",
+        "title": "React 谁都会，你的优势在哪里？",
+        "link": "https://www.ershicimi.com/p/9f10b739e85242e5606d425eb5fc6684",
         "date": "2020-09-17"
       },
       {
-        "title": "面试五年前端，基础却很差，满口都是Vue，React之类的实现？",
-        "link": "https://www.ershicimi.com/p/be03c34c2805f1ad3144632afaf7f732",
+        "title": "WebAssembly 被誉为第 4 种 web 语言？",
+        "link": "https://www.ershicimi.com/p/a334f331a63cc515858ec73209193651",
         "date": "2020-09-16"
       },
       {
-        "title": "阿里前端面试归来，简易 React 框架怎么造？？",
-        "link": "https://www.ershicimi.com/p/ffc2d703b67547974c5502691d5de5ff",
+        "title": "重新认识Typescript | Vue3源码系列",
+        "link": "https://www.ershicimi.com/p/a95717f5d9c5526228edc04b1772651a",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "Vue.js 作者尤雨溪：TypeScript 与 JavaScript 并行才切合实际！",
+        "link": "https://www.ershicimi.com/p/e700b7cc69cc885fdac4730fb4d1a5bf",
         "date": "2020-09-15"
       },
       {
-        "title": "2020年8月Github上最热门的JavaScript开源项目排行",
-        "link": "https://www.ershicimi.com/p/5be35f333ef5c3d9b4115629921c4fef",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "图片处理不用愁，给你十个小帮手",
-        "link": "https://www.ershicimi.com/p/51a666ba78d4919dd66a25cf60cca83c",
+        "title": "你可以不精通 Vue，但一定要精通 JS！",
+        "link": "https://www.ershicimi.com/p/8d2426265ef67bd44bb929cdfaab3f33",
         "date": "2020-09-14"
-      },
-      {
-        "title": "H5 秒开方案大全",
-        "link": "https://www.ershicimi.com/p/75d29fd40c2aff8f2bb28cd44438223f",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "淘心窝分享VUE+ElementUI后台管理项目经验与技巧，金九银十跳槽必看！",
-        "link": "https://www.ershicimi.com/p/e787e222900b6bd019b1a1af273654ca",
-        "date": "2020-09-11"
-      },
-      {
-        "title": "原生JS封装拖动验证滑块你会吗？",
-        "link": "https://www.ershicimi.com/p/74bd803fe62c842c03de6bf050297dd8",
-        "date": "2020-09-11"
       }
     ]
+  },
+  {
+    "rss": "https://rss.shab.fun/wechat/ershicimi/29",
+    "title": "前端开发",
+    "link": "https://www.ershicimi.com/a/29",
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/166",
@@ -17388,10 +17388,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/198",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/198",
     "title": "知乎日报",
     "link": "https://www.ershicimi.com/a/198",
-    "items": []
+    "items": [
+      {
+        "title": "知乎好问题：家长要在孩子面前表露出「赚钱辛苦、我们家不富裕」这样的态度吗？",
+        "link": "https://www.ershicimi.com/p/0a6a080bfa7689c9ab484797d24f33fa",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "我打赌，这些题你一定输给小学生",
+        "link": "https://www.ershicimi.com/p/19ab1c3d32a1a32ea4949cce323b92a7",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "知乎故事 | 你最刻骨铭心的感情是什么样的？",
+        "link": "https://www.ershicimi.com/p/38dc5265c710941fea9abd6044056b85",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "本周知乎热榜 | 《花木兰》热映，外卖骑士困境，华为鸿蒙 OS 2.0 系统发布",
+        "link": "https://www.ershicimi.com/p/acbfd6e7b35ed43ab01ec20907a3d76d",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "千元奖金等你来！知乎圈子管理员招募令",
+        "link": "https://www.ershicimi.com/p/e5dfbd0f8cf66f941371cd3af4d67362",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "知乎故事 | 女友的哪个细节让你觉得特别暖心？",
+        "link": "https://www.ershicimi.com/p/35b16d33a6d5ad89a0e6191e6ec405d1",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "知乎神吐槽 | 哪些明星偶像可以被称为神一样的颜值？",
+        "link": "https://www.ershicimi.com/p/06d9f574be31c2f8fde7173256cb6e18",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "寻科技达人「盐」究一下：美好音源",
+        "link": "https://www.ershicimi.com/p/fd7499bd172d26466d6cd721a5289709",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "知乎故事 | 你在哪个瞬间感觉到孩子很爱很爱你？",
+        "link": "https://www.ershicimi.com/p/a13264db532d0de7fb97cfe1a90634ca",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "​你的老师做过最「奇葩」的事是什么？",
+        "link": "https://www.ershicimi.com/p/632e675669c579d7151c6f9220ecdd82",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "21 天城市环游记 | 揭秘中国各地都有哪些一定不能错过的特色菜和好地方",
+        "link": "https://www.ershicimi.com/p/4b9462fa3d2738e7991d113d7851adbe",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "手机里超受欢迎的 8 个公众号，你关注了吗？",
+        "link": "https://www.ershicimi.com/p/eb4452e6213f488651ec8588b9429e85",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "知乎故事 | 你在老师办公室见过哪些令人窒息的操作？",
+        "link": "https://www.ershicimi.com/p/b802ce3620c2f61cf43a9b324fcf8ee0",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "第一次去空间站的话，怎么样装作经常去的样子？",
+        "link": "https://www.ershicimi.com/p/79303adebbf13de1327bf1c8bed349a0",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "身材和长相普通的女生如何穿得时髦又好看？",
+        "link": "https://www.ershicimi.com/p/b9ca889bb80d9c36ddaa667c66890a07",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "知乎故事 | 被校园霸凌过的人后来都怎么样了？",
+        "link": "https://www.ershicimi.com/p/a3ea857e8960ebe3dc298adb306f576b",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "87 版《红楼梦》的化妆师到底有多厉害？",
+        "link": "https://www.ershicimi.com/p/b3feb6aadc0950c4c60fdf2e073e9f79",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "数学界再出变态神人，竟用一个比基尼方程，吊打各国数学家......",
+        "link": "https://www.ershicimi.com/p/20ca5e2820c67058564cd74894e03d6b",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "知乎故事 | 你什么时候突然意识到自己该存钱了？",
+        "link": "https://www.ershicimi.com/p/df3d482f9a09130cdb723a63fd893549",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "知乎高赞：国家为什么要拿钱去帮助外国?",
+        "link": "https://www.ershicimi.com/p/1a9562191f67aaa4289f4b5a25f8d5da",
+        "date": "2020-09-07"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/v2ex/topics/latest",

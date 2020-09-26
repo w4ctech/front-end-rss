@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-26 21:49:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 22:03:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -66,6 +66,7 @@
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
 - [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
+- [2020-09-13-【适合收藏】为了多点时间陪女朋友，我向BAT大佬跪求了这15条JS技巧](https://www.ershicimi.com/p/377a93f8f8487721b0841aef9d394740) 
 - [2020-09-24-Moment.js官方推荐使用其它时间处理库代替](https://www.ershicimi.com/p/20ae61e2678644375975f6e0a5241d0b) 
 - [2020-09-19-【重磅】javascript红宝书第4版上市啦！](https://www.ershicimi.com/p/0e1e5f3a47af1021d1bb01a3a589e7e7) 
 - [2020-09-16-JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/3488f93eaeea9d7092b311e1ed120aa8) 

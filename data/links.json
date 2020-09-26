@@ -13302,6 +13302,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "俄罗斯新增7523例新冠肺炎确诊病例 累计确诊超过114万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimtjOCNUtqAnloYyZC9pi200926&isfromapp=1",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "印尼新增4494例新冠肺炎确诊病例 累计确诊病例271339例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8h4zKpxsfqFxwdni5hwb200926&isfromapp=1",
+        "date": "2020-09-26"
+      },
+      {
         "title": "北美观察丨疫情下的美国经济：美股上涨难阻连跌势头，纾困谈判拨弄投资者神经",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivvbQDTdos54Sn52OlNBE200926&isfromapp=1",
         "date": "2020-09-26"
@@ -13314,16 +13324,6 @@
       {
         "title": "东京奥运倒计时300天临近 第一阶段简化方案公布",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWMCdYptozHUoWZM802ZC200926&isfromapp=1",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "四川25日新增确诊病例9例 无症状感染者12人 为境外输入",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirqBIJW0OXbx6iPqSX9La200926&isfromapp=1",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "韩国单日新增新冠肺炎确诊病例61例 下周进入特别防疫期",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihzm6rvnR5IE69zQf8rZa200926&isfromapp=1",
         "date": "2020-09-26"
       }
     ]
@@ -17606,6 +17606,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "视频 App 青少年守护模式如何关闭？",
+        "link": "https://www.v2ex.com/t/710699",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "请大家帮我看看简历存在的问题，感觉自己写的很烂，谢谢",
+        "link": "https://www.v2ex.com/t/710698",
+        "date": "2020-09-26"
+      },
+      {
         "title": "10.15.5 之后电池健康开启为什么反而电池寿命掉的这么快， 2020 款的 pro 电池已经 90%的容量了",
         "link": "https://www.v2ex.com/t/710697",
         "date": "2020-09-26"
@@ -17794,16 +17804,6 @@
         "title": "vue seo 优化",
         "link": "https://www.v2ex.com/t/710650",
         "date": "2020-09-26"
-      },
-      {
-        "title": "xk-time Java 时间工具包",
-        "link": "https://www.v2ex.com/t/710649",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "淦! 现诚邀大家一起来卖屁股!",
-        "link": "https://www.v2ex.com/t/710648",
-        "date": "2020-09-26"
       }
     ]
   },
@@ -17970,53 +17970,8 @@
         "date": "2020-09-26"
       },
       {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
-        "link": "https://toutiao.io/k/h9nal21",
-        "date": "2020-09-26"
-      },
-      {
         "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
         "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
-        "link": "https://toutiao.io/k/rbvgji4",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
-        "link": "https://toutiao.io/k/ejwph4b",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] 《一年顶十年》干货读书笔记",
-        "link": "https://toutiao.io/k/okqtla6",
         "date": "2020-09-26"
       },
       {
@@ -18025,13 +17980,33 @@
         "date": "2020-09-26"
       },
       {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
         "date": "2020-09-26"
       },
       {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
+        "link": "https://toutiao.io/k/h9nal21",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
         "date": "2020-09-26"
       },
       {
@@ -18040,8 +18015,33 @@
         "date": "2020-09-26"
       },
       {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
+        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
+        "link": "https://toutiao.io/k/tyygn3e",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
+        "link": "https://toutiao.io/k/ejwph4b",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
+        "link": "https://toutiao.io/k/rbvgji4",
         "date": "2020-09-26"
       }
     ]

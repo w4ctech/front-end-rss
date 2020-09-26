@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-26 09:34:43，:rocket: 更新条数: +3655， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-26 09:47:01，:rocket: 更新条数: +3655， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-26-俄罗斯新增7523例新冠肺炎确诊病例-累计确诊超过114万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimtjOCNUtqAnloYyZC9pi200926&isfromapp=1) ![](assets/new.png)  
+- [2020-09-26-印尼新增4494例新冠肺炎确诊病例-累计确诊病例271339例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8h4zKpxsfqFxwdni5hwb200926&isfromapp=1) ![](assets/new.png)  
 - [2020-09-26-北美观察丨疫情下的美国经济：美股上涨难阻连跌势头，纾困谈判拨弄投资者神经](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivvbQDTdos54Sn52OlNBE200926&isfromapp=1) ![](assets/new.png)  
 - [2020-09-26-青岛最新检测情况通报：已采样178475份检测-未发现新增阳性病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAQTx4JIWTj2iIRKTJ417200926&isfromapp=1) ![](assets/new.png)  
 - [2020-09-26-东京奥运倒计时300天临近-第一阶段简化方案公布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWMCdYptozHUoWZM802ZC200926&isfromapp=1) ![](assets/new.png)  
-- [2020-09-26-四川25日新增确诊病例9例-无症状感染者12人-为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirqBIJW0OXbx6iPqSX9La200926&isfromapp=1) ![](assets/new.png)  
-- [2020-09-26-韩国单日新增新冠肺炎确诊病例61例-下周进入特别防疫期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihzm6rvnR5IE69zQf8rZa200926&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-26-视频-App-青少年守护模式如何关闭？](https://www.v2ex.com/t/710699) ![](assets/new.png)  
+- [2020-09-26-请大家帮我看看简历存在的问题，感觉自己写的很烂，谢谢](https://www.v2ex.com/t/710698) ![](assets/new.png)  
 - [2020-09-26-10.15.5-之后电池健康开启为什么反而电池寿命掉的这么快，-2020-款的-pro-电池已经-90%的容量了](https://www.v2ex.com/t/710697) ![](assets/new.png)  
 - [2020-09-26-机械键盘-K2-手感问题](https://www.v2ex.com/t/710696) ![](assets/new.png)  
 - [2020-09-26-北京氦图科技有限公司-诚招-前端，后端，全栈开发工程师-酷的项目，酷的团队，酷的公司，来就对了](https://www.v2ex.com/t/710694) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-26-Active-Backup-for-Business-如何进行备份前预览？](https://www.v2ex.com/t/710678) ![](assets/new.png)  
 - [2020-09-26-申请解封-IP-，有人让推荐-水洗-剃须刀，我就推荐了个-小米剃须刀的-链接，然后就被封了-IP。](https://www.v2ex.com/t/710677) ![](assets/new.png)  
 - [2020-09-26-🎉-#双节同庆#艾维商城--正版软件大促销！](https://www.v2ex.com/t/710676) ![](assets/new.png)  
-- [2020-09-26-有没有推荐的懒人食谱](https://www.v2ex.com/t/710675) ![](assets/new.png)  
-- [2020-09-26-Only-my-railgun-交响乐版](https://www.v2ex.com/t/710674) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1149,16 @@
 - [2020-09-26-RASP-攻防：RASP-安全应用与局限性浅析](https://toutiao.io/k/o36jl8q) ![](assets/new.png)  
 - [2020-09-26-.NET-Core-+-Kubernetes：StatefulSet](https://toutiao.io/k/whv5awc) ![](assets/new.png)  
 - [2020-09-26-MyBatis-Generator-yml-Maven-Plugin](https://toutiao.io/k/duf9gst) ![](assets/new.png)  
-- [2020-09-26-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
-- [2020-09-26-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
-- [2020-09-26-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
-- [2020-09-26-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
 - [2020-09-26-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-26-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
+- [2020-09-26-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-26-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
 - [2020-09-26-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
+- [2020-09-26-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
+- [2020-09-26-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-26-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
 - [2020-09-26-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
-- [2020-09-26-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
-- [2020-09-26-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-26-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
+- [2020-09-26-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

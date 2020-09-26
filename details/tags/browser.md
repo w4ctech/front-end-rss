@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-26 08:48:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 09:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,6 +30,8 @@
 - [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-26-chrome-访问网页总会显示-Resovling-host，-Waiting-for-****，特别慢，换了-edge-没有问题。这是什么原因呢？](https://www.v2ex.com/t/710691) 
+- [2020-09-26-Chrome-是不是会自动删除很久之前的历史记录？](https://www.v2ex.com/t/710688) 
 - [2020-09-26-几百万图片-url-转云存储，有什么好办法](https://www.v2ex.com/t/710683) 
 - [2020-09-26-C-远程调试的问题](https://www.v2ex.com/t/710668) 
 - [2020-09-26-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

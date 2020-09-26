@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-26 16:36:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 16:47:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -7,7 +7,6 @@
 
 
 
-- [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) 
 - [2020-09-23-【第2074期】React-17.0.0-rc.2-版本发布，引入全新的-JSX-转换](https://www.ershicimi.com/p/a95295177c829ec7f74e3fceb030add5) 
 - [2020-09-17-React-谁都会，你的优势在哪里？](https://www.ershicimi.com/p/9f10b739e85242e5606d425eb5fc6684) 
 - [2020-09-22-从-React-Hooks-看-React-的本质](https://www.ershicimi.com/p/37710cd20a08a443ecdec0c5ecd49f42) 
@@ -21,7 +20,6 @@
 - [2020-02-11-工具控babel-react-optimize](https://www.ershicimi.com/p/87be70d3d4719eedb42df24f6303ca69) 
 - [2020-02-06-阿里-ice.work-探秘系列-react-materials-之Label](https://www.ershicimi.com/p/41048b591220c58f73c8e9945b1514c1) 
 - [2020-01-15-阿里-ice.work-探秘系列-useState、useEffect](https://www.ershicimi.com/p/23159dcf23f0f8f92efd0a91c7a316f2) 
-- [2020-09-18-React-从入门到放弃，一个关于网页速度的故事](https://www.ershicimi.com/p/c3ec2a57dccdd8ec1df746b959d63cfb) 
 - [2020-09-15-手写React-Router源码，深入理解其原理](https://www.ershicimi.com/p/5182725b81b008108842615c025ce045) 
 - [2020-09-13-唐朝人更懂React](https://www.ershicimi.com/p/45961f41bf945a98790e7a5fab23b85b) 
 - [2020-09-20-浅谈-React-中的-XSS-攻击](https://www.ershicimi.com/p/cf465a8944c2bbb107812b217cc74f63) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-26 08:03:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 08:13:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -103,7 +103,6 @@
 - [2020-09-26-有没有实现-canvas-图片的拖拽、旋转、缩放的组件](https://www.v2ex.com/t/710652) 
 - [2020-09-26-mysql-的-sql-语句中有办法获取系统的环境变量吗以及如何初始化-mysql-的时候创建用户?](https://www.v2ex.com/t/710646) 
 - [2020-09-26-请教能否设置路由器使某-Lan-口与-Wan-口处于局域网](https://www.v2ex.com/t/710642) 
-- [2020-09-26-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
 - [2020-09-25-Java环境下通过时间竞争实现DNS-Rebinding-绕过SSRF-防御限制](https://sec.thief.one/article_content?a_id=c22073e6f7057bd64c3bda40cd57dd3f) 
 - [2020-09-25-动视发生严重个人资料泄漏事件:超50万账号被曝光](https://sec.thief.one/article_content?a_id=f4b64dd75ea63c6ffdc2a46e3dd97b5a) 
 - [2020-09-23-信创适配率先破百-奇安信可信浏览器成政企办公“枢纽”](https://sec.thief.one/article_content?a_id=c6e0f42f63047f0977c3e434456a64e8) 

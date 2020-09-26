@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-26 07:34:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 07:47:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -21,6 +21,7 @@
 - [2020-09-25-一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/921228937c95cf4885d9edb75b47fd93) 
 - [2020-09-20-CNodejs每日新闻周刊｜第-6-期](https://www.ershicimi.com/p/86cd30d089b03704047fb64340fed325) 
 - [2020-09-18-通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/03cc8f1f2c37636bdfe1084a7579e71d) 
+- [2020-09-25-Node.js-案发现场揭秘-——-文件句柄泄露导致进程假死](https://www.ershicimi.com/p/6dae4d4a8faac3ff4a499e3be7c55dbc) 
 - [2020-09-24-Node.js-定时器详解](https://www.ershicimi.com/p/5f7301ddf1080f76b099a5be3ba69ccd) 
 - [2020-09-23-Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/29fa0a1bf73f5284b1a0b04a5c6bf2e5) 
 - [2020-09-22-运维的报表之路，用-Node.js-轻松发送-grafana-报表](https://www.ershicimi.com/p/23027332cbc0022f3ad9e9fac1ded4c6) 
@@ -32,7 +33,6 @@
 - [2020-09-06-CNodejs每日新闻周刊｜第-4-期](https://www.ershicimi.com/p/ef4b7dbf19444c283e9a2babb975502c) 
 - [2020-09-05-“Hello-Node.js”-这一次是你没见过的写法](https://www.ershicimi.com/p/afafa768f314ee3c006a6297a65ccfdd) 
 - [2020-09-03-Node.js-脚本遭遇异常时如何安全退出](https://www.ershicimi.com/p/325ce3cc3a989db3e2237ed4fdcce687) 
-- [2020-08-24-如何在-Node.js-中判断一个文件是否存在？](https://www.ershicimi.com/p/f492d329ae09069db4024ed25a7531ee) 
 - [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) 
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
 - [2017-04-22-【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/) 

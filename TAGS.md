@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-26 07:34:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 07:47:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -185,12 +185,12 @@
 - [【程序员成长指北】一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/921228937c95cf4885d9edb75b47fd93)
 - [【程序员成长指北】CNodejs每日新闻周刊｜第-6-期](https://www.ershicimi.com/p/86cd30d089b03704047fb64340fed325)
 - [【程序员成长指北】通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/03cc8f1f2c37636bdfe1084a7579e71d)
+- [【Nodejs技术栈】Node.js-案发现场揭秘-——-文件句柄泄露导致进程假死](https://www.ershicimi.com/p/6dae4d4a8faac3ff4a499e3be7c55dbc)
 - [【Nodejs技术栈】Node.js-定时器详解](https://www.ershicimi.com/p/5f7301ddf1080f76b099a5be3ba69ccd)
 - [【Nodejs技术栈】Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/29fa0a1bf73f5284b1a0b04a5c6bf2e5)
 - [【Nodejs技术栈】运维的报表之路，用-Node.js-轻松发送-grafana-报表](https://www.ershicimi.com/p/23027332cbc0022f3ad9e9fac1ded4c6)
 - [【Nodejs技术栈】CNodejs每日新闻周刊｜第-6-期](https://www.ershicimi.com/p/d497726d3508bc612d33b1bf38c2c7f1)
 - [【Nodejs技术栈】基于-Unix-Socket-的可靠-Node.js-HTTP-代理实现（支持-WebSocket](https://www.ershicimi.com/p/a34f963ae8b809e34df37404d03c8821)
-- [【Nodejs技术栈】通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/b99babdfb00269bc556a772fde985927)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -453,7 +453,6 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】话说-ThunderBolt-3-的硬盘盒-20G-带宽的也够了吧。主控达不到-40G-的性能](https://www.v2ex.com/t/710654)
 - [【技术头条】Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

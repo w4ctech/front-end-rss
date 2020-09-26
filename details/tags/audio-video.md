@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-26 02:32:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 02:35:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,7 +88,6 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-09-26-现在的-Big-Sur-测试版是否支持空间音频？](https://www.v2ex.com/t/710597) 
 - [2020-09-26-字节跳动的-8-轮视频面试流程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13784&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9XHrv6DAb6kb7w4k-c4ctg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-25-【视频】|-Python:if语句](https://sec.thief.one/article_content?a_id=58d516a5d6184ad53da4730cf55e15e5) 
 - [2020-09-24-牛逼了!100份Python爬虫实战源码+视频,开放获取](https://sec.thief.one/article_content?a_id=8922c61b3d9768a78f3ff4c568481bda) 

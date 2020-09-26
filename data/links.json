@@ -13727,111 +13727,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/5760",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
-    "items": [
-      {
-        "title": "【第2076期】阿里@风月：中医药大学毕业的业务女前端修炼之路",
-        "link": "https://www.ershicimi.com/p/6054fa798c50686ff6967cd55270ec79",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "【第2075期】多端研发体系：可渐进迁移的提效之路",
-        "link": "https://www.ershicimi.com/p/43d705078787a07898196fbbcc3b6da5",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "【活动】第二届「缤纷·滨江前端技术沙龙」",
-        "link": "https://www.ershicimi.com/p/9fadff08ef74f9fa1dfd35abe7a9098f",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "什么是架构师的必备技能？",
-        "link": "https://www.ershicimi.com/p/2e8561a3db5894b24adaa073a0581784",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "【第2074期】React 17.0.0-rc.2 版本发布，引入全新的 JSX 转换",
-        "link": "https://www.ershicimi.com/p/a95295177c829ec7f74e3fceb030add5",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "【第2073期】content-visibility: 一个可以提高渲染性能的css属性",
-        "link": "https://www.ershicimi.com/p/76746dc2d9d8603d46fd866857261573",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "【活动】迎中秋国庆，2020前端早读课赠书第二次活动",
-        "link": "https://www.ershicimi.com/p/ee0d2b713811412d4794df130ba1e41e",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "【第2072期】 或许这就是下一代组件库",
-        "link": "https://www.ershicimi.com/p/876dde13179380f6a7730b2c5910df61",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "【活动】迎中秋国庆，2020前端早读课赠书第一次活动",
-        "link": "https://www.ershicimi.com/p/e0ea6c9508f54681c3a8e59a1b51f93c",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "【第2071期】尤雨溪：Vue3.0全球发布会",
-        "link": "https://www.ershicimi.com/p/1ac307a88c7a465b67aea4dd13061bed",
-        "date": "2020-09-20"
-      },
-      {
-        "title": "【第2070期】Vue.js 3.0 \"One Piece\" 发布",
-        "link": "https://www.ershicimi.com/p/0f314ec9f744c5742dc8dfcb3169443b",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "【第2069期】蚂蚁金服@双扬：一个非典型前端的成长之路",
-        "link": "https://www.ershicimi.com/p/bf0c07134366cad0e14eecc8c56d6f4a",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "【第2068期】高级程序4：异步函数",
-        "link": "https://www.ershicimi.com/p/ce7f61d3280b9ae7289161c168751d47",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "【招聘】广州网易邮件事业部前端技术组招高级、资深前端工程师",
-        "link": "https://www.ershicimi.com/p/a272f2753c6fb766a592fed81e1a71c0",
-        "date": "2020-09-17"
-      },
-      {
-        "title": "WebAssembly 如何提升 JavaScript 的性能？",
-        "link": "https://www.ershicimi.com/p/4c3860218d67f28e8f9b083be2848aaa",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "【第2067期】10 个你可能还不知道 VS Code 使用技巧",
-        "link": "https://www.ershicimi.com/p/fe39c520ff5601e7c4da598a6d4bd952",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "【第2066期】转转Hybrid体系建设",
-        "link": "https://www.ershicimi.com/p/2fbc15f2454c8e008a276bf38a6e1563",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "【第2065期】做B端后台产品很复杂？一份完整的设计流程和规范！",
-        "link": "https://www.ershicimi.com/p/7b3aabc43a6a1b86dc4f4dff7c7f5fb3",
-        "date": "2020-09-14"
-      },
-      {
-        "title": "你可以不精通Vue，但一定要精通JS！",
-        "link": "https://www.ershicimi.com/p/f6b658f55451af6d8763c8998c296af3",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "【第2064期】现代浏览器内部揭秘之三",
-        "link": "https://www.ershicimi.com/p/3244c9910c9004e0c7456a5f693c14cf",
-        "date": "2020-09-13"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/65",
@@ -16480,6 +16379,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "10-12 月进场抄底国航",
+        "link": "https://www.v2ex.com/t/710746",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "Martin-Cloud 发布 3.0.25",
+        "link": "https://www.v2ex.com/t/710745",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "超火爆的 vue 前端 admin 框架推荐",
+        "link": "https://www.v2ex.com/t/710744",
+        "date": "2020-09-26"
+      },
+      {
         "title": "有被 CSDN 冒犯到，谢谢",
         "link": "https://www.v2ex.com/t/710743",
         "date": "2020-09-26"
@@ -16688,24 +16602,115 @@
         "title": "10.15.5 之后电池健康开启为什么反而电池寿命掉的这么快， 2020 款的 pro 电池已经 90%的容量了",
         "link": "https://www.v2ex.com/t/710697",
         "date": "2020-09-26"
-      },
-      {
-        "title": "机械键盘 K2 手感问题",
-        "link": "https://www.v2ex.com/t/710696",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[北京氦图科技有限公司] 诚招 [前端，后端，全栈开发工程师]\r\n酷的项目，酷的团队，酷的公司，来就对了",
-        "link": "https://www.v2ex.com/t/710694",
-        "date": "2020-09-26"
       }
     ]
   },
   {
-    "rss": "https://rss.shab.fun/blogread/newest",
+    "rss": "https://rss.itggg.cn/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "微软、亚马逊、IBM主动禁售人脸识别，为什么？ (www.huxiu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13796&url=https%3A%2F%2Fwww.huxiu.com%2Farticle%2F380148.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "OKR是新时代的KPI吗？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13795&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fokr-vs-kpi%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "职场常备的 TOP 20 AI 产品工具 (www.jeffjade.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13794&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F09%2F23%2F170-list-of-top-20-ai-product-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "如何选择适合自己网站的防盗链 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13793&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F258380316%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "如何知道我们的E2E测试覆盖率？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13792&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-know-e2e-coverage%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "如何产出规范、安全、高质量的代码？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "Glide 加载 Gif 的卡顿优化思路分析 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "是时候提高你撸 RecycleView 的效率了 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "Android 记一次解决问题的过程 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13788&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjY3qmLgW0iWa8HYAjjpJyw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "kotlin 如何解决 java 开发痛点，让程序员 happier (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "Android Flutter 混合开发高仿大厂 App (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13786&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8oWCsNgjTXazyI9unOs6-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "百度网盘终于不限速了！? (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13785&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXQ20QUJBVK1NUZJnjxkmvg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "字节跳动的 8 轮视频面试流程 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13784&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9XHrv6DAb6kb7w4k-c4ctg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "Win10 全新“开始”菜单即将发布，一条命令，立即尝鲜！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13783&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXvpZnPbWbDfGPMHBkzTOsQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "Angular 10 正式发布，不再支持 IE9/10！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13782&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9Bs3jZMOQxKfLPq2PWw6gw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "C 语言为什么不会过时？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13781&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGVhIvRWfuDTzHG7SfAn1Mw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "Redis 创始人宣布退居二线，不再进行项目的日常代码维护 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13780&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS18kwMDotE6mtoptC0lpbw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "Installing Apache, PHP, and MySQL on macOS Catalina (jasonmccreary.me)",
+        "link": "https://blogread.cn/news/go.php?idItem=13779&url=https%3A%2F%2Fjasonmccreary.me%2Farticles%2Finstall-apache-php-mysql-mac-os-x-catalina%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "荔枝微课基础架构的演进与实践 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13778&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F250271369%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "更好的开卡，来聊聊非功能性需求 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13777&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthe-non-functional-requirements%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-26"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/toutiao/today",
@@ -16763,18 +16768,23 @@
         "date": "2020-09-26"
       },
       {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
         "date": "2020-09-26"
       },
       {
-        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
-        "link": "https://toutiao.io/k/q5x323b",
+        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
+        "link": "https://toutiao.io/k/zu9e79n",
         "date": "2020-09-26"
       },
       {
-        "title": "[推荐] 解密 Go 协程的栈内存管理",
-        "link": "https://toutiao.io/k/fkrobd3",
+        "title": "[推荐] vivo 商城前端架构升级：总览篇",
+        "link": "https://toutiao.io/k/8vxp0ok",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
         "date": "2020-09-26"
       },
       {
@@ -16783,13 +16793,8 @@
         "date": "2020-09-26"
       },
       {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
         "date": "2020-09-26"
       },
       {
@@ -16803,28 +16808,13 @@
         "date": "2020-09-26"
       },
       {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "[推荐] vivo 商城前端架构升级：总览篇",
-        "link": "https://toutiao.io/k/8vxp0ok",
-        "date": "2020-09-26"
-      },
-      {
         "title": "[推荐] 大写的服，看完这篇你还不懂 RocketMQ 算我输",
         "link": "https://toutiao.io/k/rhwgf1q",
         "date": "2020-09-26"
       },
       {
-        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
-        "link": "https://toutiao.io/k/h9nal21",
+        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
+        "link": "https://toutiao.io/k/rbvgji4",
         "date": "2020-09-26"
       },
       {
@@ -16833,8 +16823,23 @@
         "date": "2020-09-26"
       },
       {
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-26"
+      },
+      {
         "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
         "link": "https://toutiao.io/k/ejwph4b",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "[推荐] Redis 6.0 解密（一）：Thread/IO 多线程",
+        "link": "https://toutiao.io/k/q5x323b",
         "date": "2020-09-26"
       }
     ]

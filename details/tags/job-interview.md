@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-26 13:32:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 13:34:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,7 +8,6 @@
 
 
 - [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
-- [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
 - [2019-12-19-【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e) 
@@ -31,7 +30,6 @@
 - [2020-09-10-头条面试题：计算目录树的深度](https://www.ershicimi.com/p/df9ddee4650f0c9ab3dd7df235232dab) 
 - [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) 
 - [2020-06-18-政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c) 
-- [2020-09-24-从一道面试题谈谈对-EventLoop-的理解](https://www.ershicimi.com/p/9973b3884e5b9b38f52b6736701be973) 
 - [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-09-20-字节一面，面试官拿System.out.println考了我半个小时？我懵逼了...](https://www.ershicimi.com/p/a60c0807fe95f9e2aa01df028f0b6bbc) 

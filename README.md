@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-26 10:34:51，:rocket: 更新条数: +3656， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-26 10:47:08，:rocket: 更新条数: +3658， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-26-弄了个-MM2，也装了赛睿的工具，平滑是没啥问题，但是点击很不稳定](https://www.v2ex.com/t/710710) ![](assets/new.png)  
+- [2020-09-26-整站下载软件或方法?](https://www.v2ex.com/t/710709) ![](assets/new.png)  
 - [2020-09-26-电脑重启一直显示“正在准备-windows-请不要关机“，有什么解决方法吗？](https://www.v2ex.com/t/710708) ![](assets/new.png)  
 - [2020-09-26-黑苹果不定时重启问题？](https://www.v2ex.com/t/710707) ![](assets/new.png)  
 - [2020-09-26-京东金融-app-泄露了我的银行卡号给诈骗犯](https://www.v2ex.com/t/710706) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-26-chrome-访问网页总会显示-Resovling-host，-Waiting-for-****，特别慢，换了-edge-没有问题。这是什么原因呢？](https://www.v2ex.com/t/710691) ![](assets/new.png)  
 - [2020-09-26-大佬们，帮忙看看投了和多家公司，没有回应，我感觉自己的简历写的太烂了，该怎么修改-用的冷熊简历模板，排版没有问题，粘贴过来大佬们凑合看看](https://www.v2ex.com/t/710689) ![](assets/new.png)  
 - [2020-09-26-Chrome-是不是会自动删除很久之前的历史记录？](https://www.v2ex.com/t/710688) ![](assets/new.png)  
-- [2020-09-26-为什么游戏修改器能修改其它程序的内存？](https://www.v2ex.com/t/710687) ![](assets/new.png)  
-- [2020-09-26-为什么-iPhone-会缺货？](https://www.v2ex.com/t/710686) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1149,16 @@
 - [2020-09-26-RASP-攻防：RASP-安全应用与局限性浅析](https://toutiao.io/k/o36jl8q) ![](assets/new.png)  
 - [2020-09-26-.NET-Core-+-Kubernetes：StatefulSet](https://toutiao.io/k/whv5awc) ![](assets/new.png)  
 - [2020-09-26-MyBatis-Generator-yml-Maven-Plugin](https://toutiao.io/k/duf9gst) ![](assets/new.png)  
-- [2020-09-26-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-26-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
-- [2020-09-26-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-26-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
-- [2020-09-26-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
-- [2020-09-26-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
-- [2020-09-26-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
 - [2020-09-26-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-26-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
-- [2020-09-26-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
+- [2020-09-26-推荐-Redis-6.0-解密（一）：Thread/IO-多线程](https://toutiao.io/k/q5x323b) ![](assets/new.png)  
+- [2020-09-26-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-26-推荐-vivo-商城前端架构升级：总览篇](https://toutiao.io/k/8vxp0ok) ![](assets/new.png)  
+- [2020-09-26-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
+- [2020-09-26-推荐-Go-如何实现热重启](https://toutiao.io/k/cxttrqv) ![](assets/new.png)  
+- [2020-09-26-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-26-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
+- [2020-09-26-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

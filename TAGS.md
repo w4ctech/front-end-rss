@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-26 15:24:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 15:32:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -205,6 +205,7 @@
 - [【Vue中文社区】小程序云开发支持公众号网页开发了](https://www.ershicimi.com/p/a3afa9c8b45b440216e391aeb9ff6d1d)
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
+- [【奇舞周刊】奇舞周刊第-364-期：小程序视角下同构方案思考](https://www.ershicimi.com/p/d9f7bae52064d258394b7f01ad3a7a36)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -310,11 +311,11 @@
 - [【张鑫旭-鑫空间-鑫生活】深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/)
 - [【张鑫旭-鑫空间-鑫生活】巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/)
 - [【张鑫旭-鑫空间-鑫生活】使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/)
+- [【奇舞周刊】使用-SVG-制作加载动画](https://www.ershicimi.com/p/f00b40332f1901383e44f2e989ae61cf)
 - [【前端日刊】CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325)
 - [【JavaScript】5个很常用的CSS3网页小实例](https://www.ershicimi.com/p/cc31a0415cd6949432efb37fa6d0bf27)
 - [【前端艺术家&&飞冰早报】【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0)
 - [【前端艺术家&&飞冰早报】b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882)
-- [【前端艺术家&&飞冰早报】Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -388,8 +389,7 @@
 - [【前端迷】腾讯音乐移动端页面通用性能优化实践](https://www.ershicimi.com/p/951c47621be39d733c40f8453c62418b)
 - [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
 - [【前端瓶子君】腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/0dc883c40b3a91eda21efc54ba4b23f9)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
+- [【互联网架构师】骚操作：不重启-JVM，如何替换掉已经加载的类？](https://www.ershicimi.com/p/58c7fa2d4632516c5c4438c5fcc93c70)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【技术头条】Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4)
@@ -427,8 +427,8 @@
 - [【前端宇宙】你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d)
 - [【程序员成长指北】从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6)
 - [【程序员成长指北】15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/6132906ae7deb3d51731b82fc93b3f87)
+- [【奇舞周刊】摸金校尉聊浏览器渲染](https://www.ershicimi.com/p/9339cf52f601bafc74e228301225ac2c)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
-- [【InfoQ】阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -457,7 +457,6 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【InfoQ】快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b)
 - [【开发者头条】漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby)
-- [【开发者头条】推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n)
 - [【开发者头条】推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b)
 - [【安全热点】SSRF学习之路丨FastCGI的利用与防御](https://sec.thief.one/article_content?a_id=f75333656e86ae2d846eec2f29e11178)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

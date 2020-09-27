@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 04:25:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 04:32:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -45,4 +45,3 @@
 - [2020-09-27-发现自己不会写简历了](https://www.v2ex.com/t/710847) 
 - [2020-09-27-北京联通，光猫不桥接的话是不是没法外网访问？有公网-IP](https://www.v2ex.com/t/710846) 
 - [2020-09-27-现在引流好像很难](https://www.v2ex.com/t/710845) 
-- [2020-09-27-2017-Mac-book-pro-touch-bar-变白，大家有遇到过这种情况吗？](https://www.v2ex.com/t/710844) 

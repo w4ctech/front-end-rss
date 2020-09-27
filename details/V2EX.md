@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-27 10:24:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 10:32:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-27-macos-time-machine-恢复系统，有过两次都不成功。](https://www.v2ex.com/t/711025) 
 - [2020-09-27-如果公司不发月饼，你会自己买吗？](https://www.v2ex.com/t/711024) 
 - [2020-09-27-系统设计常挂面试题](https://www.v2ex.com/t/711023) 
 - [2020-09-27-简洁优雅-pythonic-的代码风格和更容易阅读的代码风格你更倾向哪一种?](https://www.v2ex.com/t/711022) 

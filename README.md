@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 13:34:53，:rocket: 更新条数: +3443， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 13:47:25，:rocket: 更新条数: +3443， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -260,6 +260,8 @@
 </summary>
 
 
+- [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/716bed77e920b2a9724460dcd55a2dcd) ![](assets/new.png)  
+- [2020-09-26-Vue-项目中各种痛点问题及方案](https://www.ershicimi.com/p/36bbda5d7a06170cc64a072482759efa) ![](assets/new.png)  
 - [2020-09-25-面试最后一题是-CSS，答错后薪资降了-2k…](https://www.ershicimi.com/p/ce497699375d6ed71ea7210d64559b6a) ![](assets/new.png)  
 - [2020-09-25-全面分析toString与valueOf，并随手解决掉几道大厂必备面试题](https://www.ershicimi.com/p/cd99b749e50e46c5294522bb3c13c101) ![](assets/new.png)  
 - [2020-09-24-一位摸金校尉决定转行前端](https://www.ershicimi.com/p/80945f9ab6b747f2999986d2de06f7af) ![](assets/new.png)  
@@ -278,8 +280,6 @@
 - [2020-09-17-React-谁都会，你的优势在哪里？](https://www.ershicimi.com/p/9f10b739e85242e5606d425eb5fc6684) ![](assets/new.png)  
 - [2020-09-16-WebAssembly-被誉为第-4-种-web-语言？](https://www.ershicimi.com/p/a334f331a63cc515858ec73209193651) ![](assets/new.png)  
 - [2020-09-16-重新认识Typescript-|-Vue3源码系列](https://www.ershicimi.com/p/a95717f5d9c5526228edc04b1772651a) ![](assets/new.png)  
-- [2020-09-15-Vue.js-作者尤雨溪：TypeScript-与-JavaScript-并行才切合实际！](https://www.ershicimi.com/p/e700b7cc69cc885fdac4730fb4d1a5bf) ![](assets/new.png)  
-- [2020-09-14-你可以不精通-Vue，但一定要精通-JS！](https://www.ershicimi.com/p/8d2426265ef67bd44bb929cdfaab3f33) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,7 +1057,8 @@
 </summary>
 
 
-- [2020-09-27-美资韩企-Coupang-直播招聘-Java-后端/Android/iOS/测试-，-965-不加班，内部人性化](https://www.v2ex.com/t/711067) ![](assets/new.png)  
+- [2020-09-27-自如转租：绝对好地方！](https://www.v2ex.com/t/711068) ![](assets/new.png)  
+- [2020-09-27-美资韩企-Coupang-直播上海招聘-Java-后端/Android/iOS/测试-，-内部人性化-965-不加班](https://www.v2ex.com/t/711067) ![](assets/new.png)  
 - [2020-09-27-掘金上一个技术博主发了一遍关于学习-PHP-的文章，然后，，，，](https://www.v2ex.com/t/711066) ![](assets/new.png)  
 - [2020-09-27-设计一个多用户企业-ERP-系统，非常纠结用那种数据库结构：是多用户+多数据库？还是单一客户单一数据库？还是多租户+单一数据库](https://www.v2ex.com/t/711065) ![](assets/new.png)  
 - [2020-09-27-一些细枝末节的-Java-题-也许你也会被考到呢。。](https://www.v2ex.com/t/711064) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-27-上海小红书招聘社区中台高级工程师25-50k](https://www.v2ex.com/t/711049) ![](assets/new.png)  
 - [2020-09-27-请教下苹果的广告怎么关掉啊](https://www.v2ex.com/t/711047) ![](assets/new.png)  
 - [2020-09-27-有什么方法可以提高英语的表达能力，书面和口头](https://www.v2ex.com/t/711046) ![](assets/new.png)  
-- [2020-09-27-校招生多久跳槽比较好？](https://www.v2ex.com/t/711044) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

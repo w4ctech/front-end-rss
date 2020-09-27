@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 13:34:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 13:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,7 +83,7 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff) 
-- [2020-09-27-美资韩企-Coupang-直播招聘-Java-后端/Android/iOS/测试-，-965-不加班，内部人性化](https://www.v2ex.com/t/711067) 
+- [2020-09-27-美资韩企-Coupang-直播上海招聘-Java-后端/Android/iOS/测试-，-内部人性化-965-不加班](https://www.v2ex.com/t/711067) 
 - [2020-09-27-如何“高效地”录制网页里的“在线直播”视频？](https://www.v2ex.com/t/711042) 
 - [2020-09-27-【视频】|-Python:if+else的使用](https://sec.thief.one/article_content?a_id=200e15a0b174fa098f513e1ea89e6191) 
 - [2020-09-26-【视频】|-黑客入侵美军事系统,美俄火力交战](https://sec.thief.one/article_content?a_id=69cdd30fa690d0c7a12cadf7191e56cb) 

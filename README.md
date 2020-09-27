@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 14:49:01，:rocket: 更新条数: +3441， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 15:03:32，:rocket: 更新条数: +3442， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-27-关于蓝光眼镜](https://www.v2ex.com/t/711082) ![](assets/new.png)  
 - [2020-09-27-初学-Android，有什么推荐的教程?](https://www.v2ex.com/t/711081) ![](assets/new.png)  
 - [2020-09-27-时隔一年，我又来了，帝都年薪-55-还是省会-xx-厅公务员](https://www.v2ex.com/t/711079) ![](assets/new.png)  
 - [2020-09-27-成都哪家信号和-4g-速度最好呀？](https://www.v2ex.com/t/711078) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-27-IOS-如何投屏但不投声至-Mac](https://www.v2ex.com/t/711061) ![](assets/new.png)  
 - [2020-09-27-蚂蚁金服技术风险部支付宝-SRE-团队招聘](https://www.v2ex.com/t/711060) ![](assets/new.png)  
 - [2020-09-27-上海视觉算法工程师](https://www.v2ex.com/t/711059) ![](assets/new.png)  
-- [2020-09-27-自用美区-Spotify,-差三人,-长期车,-季付-55,-TG-@leonp38](https://www.v2ex.com/t/711058) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,8 +1126,8 @@
 - [2020-09-27-Android-3-分钟带你入门开发测试](https://toutiao.io/k/6881zrq) ![](assets/new.png)  
 - [2020-09-27-Redis-|-Redis-Pub/Sub-相关命令](https://toutiao.io/k/gldpc3t) ![](assets/new.png)  
 - [2020-09-27-译-原来-9-张图就可以弄懂-Go-内存管理](https://toutiao.io/k/47eqfyx) ![](assets/new.png)  
-- [2020-09-27-特征工程：文本特征处理的四大类主流方法](https://toutiao.io/k/9r2l4u8) ![](assets/new.png)  
 - [2020-09-27-一文读懂-Golang-channel](https://toutiao.io/k/bpwbzqf) ![](assets/new.png)  
+- [2020-09-27-特征工程：文本特征处理的四大类主流方法](https://toutiao.io/k/9r2l4u8) ![](assets/new.png)  
 - [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
 - [2020-09-27-Android-开发技术周报-Issue#296](https://toutiao.io/k/hn3x3ql) ![](assets/new.png)  
 - [2020-09-27-Pod-垂直自动伸缩的使用](https://toutiao.io/k/zz7wa8m) ![](assets/new.png)  

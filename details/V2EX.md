@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-09-27 05:49:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 06:05:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-27-看到好多人说微信和支付宝的文档烂，如果有一个付费的梳理好的文档给你看你愿意看，你愿意吗？](https://www.v2ex.com/t/710921) 
+- [2020-09-27-请问各位，公司有规范表设计的列最多个数吗？](https://www.v2ex.com/t/710920) 
+- [2020-09-27-Linux-怎么给文件夹添加备注](https://www.v2ex.com/t/710919) 
 - [2020-09-27-写了一个同步-Github-项目到-Coding-的-action](https://www.v2ex.com/t/710917) 
 - [2020-09-27-IOS/React-Native-Developer---open-job](https://www.v2ex.com/t/710916) 
 - [2020-09-27-QQ-邮箱无法识别伪造发件人的垃圾邮件](https://www.v2ex.com/t/710912) 
@@ -37,6 +40,3 @@
 - [2020-09-27-南京什么东西那么香，这几天户外感觉泡在香薰里](https://www.v2ex.com/t/710874) 
 - [2020-09-27-深圳-字节跳动-前端-效率平台-招人啦~](https://www.v2ex.com/t/710873) 
 - [2020-09-27-替代逝去的亲人，和你通话/聊天等等的服务，以后会出现么？](https://www.v2ex.com/t/710872) 
-- [2020-09-27-有大神愿意分享-Mikrotik-ros-一个功能吗](https://www.v2ex.com/t/710871) 
-- [2020-09-27-怎么在-4chan-上发帖？](https://www.v2ex.com/t/710870) 
-- [2020-09-27-双肩背求推荐](https://www.v2ex.com/t/710868) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 02:13:53，:rocket: 更新条数: +3660， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 02:26:42，:rocket: 更新条数: +3652， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1067,14 @@
 </summary>
 
 
+- [2020-09-27-问下现在-Linux-监控海量文件+两端同步的正确姿势是什么？](https://www.v2ex.com/t/710826) ![](assets/new.png)  
+- [2020-09-27-GV-可以打滴滴或者收蜂巢吗](https://www.v2ex.com/t/710825) ![](assets/new.png)  
+- [2020-09-27-大伙们十一有什么活动没，感觉好没意思啊。](https://www.v2ex.com/t/710822) ![](assets/new.png)  
+- [2020-09-27-移动运营商-2000-条家庭闲置宽带，可以做什么？](https://www.v2ex.com/t/710821) ![](assets/new.png)  
+- [2020-09-27-iPhone-的原装配件在哪里购买便宜？](https://www.v2ex.com/t/710820) ![](assets/new.png)  
+- [2020-09-27-招聘-资深流媒体工程师](https://www.v2ex.com/t/710819) ![](assets/new.png)  
+- [2020-09-27-i2ex-实锤！](https://www.v2ex.com/t/710818) ![](assets/new.png)  
+- [2020-09-27-不在老家的你，如果有一天你的最后一位父/母离开人世，怎么办？](https://www.v2ex.com/t/710817) ![](assets/new.png)  
 - [2020-09-27-如果卖了车，那承载的回忆怎么办?](https://www.v2ex.com/t/710815) ![](assets/new.png)  
 - [2020-09-27-身在国外的程序员们，你们眼中的国外是怎么样的？](https://www.v2ex.com/t/710814) ![](assets/new.png)  
 - [2020-09-27-时隔一年，我又有来送苹果了！](https://www.v2ex.com/t/710813) ![](assets/new.png)  
@@ -1089,14 +1087,6 @@
 - [2020-09-27-有在用-ambari-的吗](https://www.v2ex.com/t/710802) ![](assets/new.png)  
 - [2020-09-27-有没有必要给-iPad-去配一个-Apple-Pencil-二代？](https://www.v2ex.com/t/710801) ![](assets/new.png)  
 - [2020-09-27-3d-模型集成到网页该怎么做](https://www.v2ex.com/t/710800) ![](assets/new.png)  
-- [2020-09-27-企业管理-ERP-系统用哪种语言开发比较好](https://www.v2ex.com/t/710799) ![](assets/new.png)  
-- [2020-09-27-接上一个话题，如果有的选你是选择到点下班还是选择有意义的加班](https://www.v2ex.com/t/710798) ![](assets/new.png)  
-- [2020-09-27-上海|直招急招一位配置管理工程师](https://www.v2ex.com/t/710797) ![](assets/new.png)  
-- [2020-09-27-gitlab-没有-LTS-，你们会经常更新升级吗](https://www.v2ex.com/t/710796) ![](assets/new.png)  
-- [2020-09-27-只要联网-accountsd-进程就会导致-cpu-就瞬间飙满……](https://www.v2ex.com/t/710795) ![](assets/new.png)  
-- [2020-09-27-老家红富士待售](https://www.v2ex.com/t/710794) ![](assets/new.png)  
-- [2020-09-27-Analytics-如何同时查看所有网站的用户增长图？](https://www.v2ex.com/t/710790) ![](assets/new.png)  
-- [2020-09-27-小鹏的飞行汽车会是未来的方向吗](https://www.v2ex.com/t/710789) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,6 +1129,7 @@
 </summary>
 
 
+- [2020-09-27-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
 - [2020-09-27-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
 - [2020-09-27-Hadoop-框架：单服务下伪分布式集群搭建](https://toutiao.io/k/6lznddm) ![](assets/new.png)  
 - [2020-09-27-深夜，我偷听到程序员要对-session-下手](https://toutiao.io/k/ohe587s) ![](assets/new.png)  
@@ -1153,12 +1144,11 @@
 - [2020-09-27-还在为多张-Excel-汇总统计发愁？Python-秒处理真香](https://toutiao.io/k/otwnf5d) ![](assets/new.png)  
 - [2020-09-27-Go-设计模式（十三）：观察者模式（实现简单的-EventBus）](https://toutiao.io/k/ppo7168) ![](assets/new.png)  
 - [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
-- [2020-09-27-如何知道我们的-E2E-测试覆盖率？](https://toutiao.io/k/2qdibbs) ![](assets/new.png)  
 - [2020-09-27-ECCV-2020-论文大盘点：人脸技术篇](https://toutiao.io/k/6dpgk3o) ![](assets/new.png)  
-- [2020-09-27-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
-- [2020-09-27-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
-- [2020-09-27-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
-- [2020-09-27-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
+- [2020-09-27-如何知道我们的-E2E-测试覆盖率？](https://toutiao.io/k/2qdibbs) ![](assets/new.png)  
+- [2020-09-27-KDD-Cup-2020-多模态召回比赛季军方案与广告业务应用](https://toutiao.io/k/wekbu5f) ![](assets/new.png)  
+- [2020-09-27-Elasticsearch-集群搭建的详细步骤](https://toutiao.io/k/ks5ievk) ![](assets/new.png)  
+- [2020-09-27-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

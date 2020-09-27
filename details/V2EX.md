@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-09-27 09:03:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 09:12:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-27-给-switch-买了绿联的蓝牙适配器,-但同时连接-airpods2-和-AirPods-pro-的时候,-2-的声音明显小于-pro,-求推荐其他的产品](https://www.v2ex.com/t/710999) 
+- [2020-09-27-什么是-AIOps-？](https://www.v2ex.com/t/710998) 
+- [2020-09-27-有人撸过-antV-L7-吗](https://www.v2ex.com/t/710997) 
+- [2020-09-27-启动台第-2-页的图标怎么移动到第-1-页](https://www.v2ex.com/t/710996) 
+- [2020-09-27-大家有没有感觉听人问你问题要听两遍？](https://www.v2ex.com/t/710995) 
+- [2020-09-27-最近-JetBrains-的教育授权这么难申请了？](https://www.v2ex.com/t/710994) 
 - [2020-09-27-pandas-计算某列滚动百分比-有高效方式吗？-pct_change-太慢了](https://www.v2ex.com/t/710993) 
 - [2020-09-27-promise-存到变量中为什么可以防止阻塞?](https://www.v2ex.com/t/710992) 
 - [2020-09-27-Mac-的硬盘容量不够的时候大家怎么做？](https://www.v2ex.com/t/710991) 
@@ -41,6 +47,3 @@
 - [2020-09-27-有没有偏僻的寺庙/道观可以出家？](https://www.v2ex.com/t/710952) 
 - [2020-09-27-爱奇艺连个片库排序筛选都做不好吗？](https://www.v2ex.com/t/710951) 
 - [2020-09-27-深圳-|-腾讯-腾讯游戏技术运营部-PaaS-平台招聘-Python-/Go-开发工程师](https://www.v2ex.com/t/710950) 
-- [2020-09-27-编辑了](https://www.v2ex.com/t/710948) 
-- [2020-09-27-v2ex-咱这个网站日访问两有多大呀？](https://www.v2ex.com/t/710945) 
-- [2020-09-27-深圳15K-25K自由时间-Android-and-iOS-虚空科技正在寻找优秀的你](https://www.v2ex.com/t/710944) 

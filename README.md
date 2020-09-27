@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 06:14:31，:rocket: 更新条数: +3436， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 06:28:25，:rocket: 更新条数: +3660， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +967,11 @@
 </summary>
 
 
+- [2020-09-26-Node学习笔记---Koa2-简易服务搭建](https://juejin.im/post/6876988999068549128) ![](assets/new.png)  
+- [2020-09-26-十七张图玩转Node进程——榨干它](https://juejin.im/post/6876792120322195464) ![](assets/new.png)  
 - [2020-09-25-Content-Disposition-控制静态资源下载](https://juejin.im/post/6876658096505421831) ![](assets/new.png)  
 - [2020-09-25-js--精准判断上传文件类型](https://juejin.im/post/6876645554416271368) ![](assets/new.png)  
 - [2020-09-25-「jQuery封装DOM」-设计思想+手动写-jQuery](https://juejin.im/post/6876635449474383886) ![](assets/new.png)  
-- [2020-09-25-Canvas简易画板](https://juejin.im/post/6876444281884819470) ![](assets/new.png)  
-- [2020-09-25-手撸基于ES6-的PromiseA+-规范实现-Promise](https://juejin.im/post/6876440397460013069) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-27-有没有大佬给点人生建议，最近很迷茫](https://www.v2ex.com/t/710925) ![](assets/new.png)  
+- [2020-09-27-超火爆的-go-微服务框架推荐](https://www.v2ex.com/t/710924) ![](assets/new.png)  
+- [2020-09-27-百度内推-🔥🔥🔥算法/工程/产品/设计/运营各类岗位急速内推,实时反馈~](https://www.v2ex.com/t/710923) ![](assets/new.png)  
 - [2020-09-27-看到好多人说微信和支付宝的文档烂，如果有一个付费的梳理好的文档给你看你愿意看，你愿意吗？](https://www.v2ex.com/t/710921) ![](assets/new.png)  
 - [2020-09-27-请问各位，公司有规范表设计的列最多个数吗？](https://www.v2ex.com/t/710920) ![](assets/new.png)  
 - [2020-09-27-Linux-怎么给文件夹添加备注](https://www.v2ex.com/t/710919) ![](assets/new.png)  
@@ -1074,9 +1097,6 @@
 - [2020-09-27-是有人和我一样守着第-509999-号会员的位置吗](https://www.v2ex.com/t/710900) ![](assets/new.png)  
 - [2020-09-27-macbook-pro-13-2018，-16G-512G-，-9.5-成新，能卖多少钱？](https://www.v2ex.com/t/710897) ![](assets/new.png)  
 - [2020-09-27-升级了-macOS-10.15.7-之后外接的显示器不亮了。。。](https://www.v2ex.com/t/710896) ![](assets/new.png)  
-- [2020-09-27-分享一个油管视频下载工具（欢迎试用）](https://www.v2ex.com/t/710892) ![](assets/new.png)  
-- [2020-09-27-上海的-3G、2G-服务是不是都要停了？](https://www.v2ex.com/t/710891) ![](assets/new.png)  
-- [2020-09-27-parallel-desktop-16-问题！](https://www.v2ex.com/t/710888) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,10 +1146,10 @@
 - [2020-09-27-译-原来-9-张图就可以弄懂-Go-内存管理](https://toutiao.io/k/47eqfyx) ![](assets/new.png)  
 - [2020-09-27-特征工程：文本特征处理的四大类主流方法](https://toutiao.io/k/9r2l4u8) ![](assets/new.png)  
 - [2020-09-27-Android-3-分钟带你入门开发测试](https://toutiao.io/k/6881zrq) ![](assets/new.png)  
-- [2020-09-27-Android-开发技术周报-Issue#296](https://toutiao.io/k/hn3x3ql) ![](assets/new.png)  
 - [2020-09-27-一文读懂-Golang-channel](https://toutiao.io/k/bpwbzqf) ![](assets/new.png)  
-- [2020-09-27-译-LPC-2020-上安卓内核相关讨论](https://toutiao.io/k/86q9gy2) ![](assets/new.png)  
+- [2020-09-27-Android-开发技术周报-Issue#296](https://toutiao.io/k/hn3x3ql) ![](assets/new.png)  
 - [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
+- [2020-09-27-译-LPC-2020-上安卓内核相关讨论](https://toutiao.io/k/86q9gy2) ![](assets/new.png)  
 - [2020-09-27-Redis-|-Redis-Pub/Sub-相关命令](https://toutiao.io/k/gldpc3t) ![](assets/new.png)  
 - [2020-09-27-Pod-垂直自动伸缩的使用](https://toutiao.io/k/zz7wa8m) ![](assets/new.png)  
 - [2020-09-27-还在为多张-Excel-汇总统计发愁？Python-秒处理真香](https://toutiao.io/k/otwnf5d) ![](assets/new.png)  

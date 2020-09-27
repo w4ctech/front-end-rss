@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 03:04:01，:rocket: 更新条数: +3664， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 03:12:49，:rocket: 更新条数: +3663， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-27-浙江26日新增2例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEP73kGR3OCa8d3lkle5k200927&isfromapp=1) ![](assets/new.png)  
+- [2020-09-27-国家卫健委：新增确诊病例14例，均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiffR5tcuVEmZLwvRqUIMe200927&isfromapp=1) ![](assets/new.png)  
 - [2020-09-26-菅义伟：日本决心在明年举办奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCZ4dbkHV7lyM3ppc7W8k200927&isfromapp=1) ![](assets/new.png)  
 - [2020-09-26-世卫组织：全球新增316884例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiINXOl1XUvfTZtb4Kqni0200927&isfromapp=1) ![](assets/new.png)  
 - [2020-09-26-纽约3个月以来新冠病毒感染病例首次单日破千](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuztaWG8vme9NmlrOQwlb200927&isfromapp=1) ![](assets/new.png)  
-- [2020-09-26-印度医用氧气紧缺，政府对氧气限价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti60i8DNx5XGreXBCs0wRD200926&isfromapp=1) ![](assets/new.png)  
-- [2020-09-26-突尼斯实施防疫新举措，或实施宵禁以应对疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSVTVy3nkYJVxxBgPtbTd200926&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,10 +967,10 @@
 </summary>
 
 
-- [2020-09-26-结合实例学习-Typescript（2.6w字）](https://juejin.im/post/6876981358346895368) ![](assets/new.png)  
-- [2020-09-26-深入理解谷歌最强V8垃圾回收机制](https://juejin.im/post/6876707929282740237) ![](assets/new.png)  
-- [2020-09-26-华为松山湖“火了”，我的鸿蒙HelloWorld没事吧](https://juejin.im/post/6876706536337440775) ![](assets/new.png)  
-- [2020-09-25-面试系列之JavaScript手写代码篇](https://juejin.im/post/6876332844667371527) ![](assets/new.png)  
+- [2020-09-26-基于uniapp的掘金app](https://juejin.im/post/6876988236472778765) ![](assets/new.png)  
+- [2020-09-26-作为前端，我对业务的一点理解](https://juejin.im/post/6876977166051966984) ![](assets/new.png)  
+- [2020-09-26-浅尝云游戏音视频小程序](https://juejin.im/post/6876707647664422926) ![](assets/new.png)  
+- [2020-09-25-小程序-云开发-实现生成小程序码](https://juejin.im/post/6876679281779408903) ![](assets/new.png)  
 - [2020-09-19-要把URL变网页，一共分几步？](https://juejin.im/post/6874114366023663623) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1077,13 +1077,17 @@
 </summary>
 
 
+- [2020-09-27-微博的图床服务器-ipv6-有问题？](https://www.v2ex.com/t/710855) ![](assets/new.png)  
+- [2020-09-27-今天，你睡过头了吗？](https://www.v2ex.com/t/710853) ![](assets/new.png)  
+- [2020-09-27-平安谈薪资-月薪最多只能比现在月薪多-2.5k-该考虑吗？](https://www.v2ex.com/t/710851) ![](assets/new.png)  
+- [2020-09-27-网页嵌入-word、excel、ppt，有无免费的插件（-PHP-）？](https://www.v2ex.com/t/710848) ![](assets/new.png)  
 - [2020-09-27-发现自己不会写简历了](https://www.v2ex.com/t/710847) ![](assets/new.png)  
 - [2020-09-27-北京联通，光猫不桥接的话是不是没法外网访问？有公网-IP](https://www.v2ex.com/t/710846) ![](assets/new.png)  
 - [2020-09-27-现在引流好像很难](https://www.v2ex.com/t/710845) ![](assets/new.png)  
 - [2020-09-27-2017-Mac-book-pro-touch-bar-变白，大家有遇到过这种情况吗？](https://www.v2ex.com/t/710844) ![](assets/new.png)  
 - [2020-09-27-求性价高的联通流量包](https://www.v2ex.com/t/710843) ![](assets/new.png)  
 - [2020-09-27-社招-新浪集团平台架构部高级-DBA-招聘，待遇-25-50k](https://www.v2ex.com/t/710842) ![](assets/new.png)  
-- [2020-09-27-求推荐中文搜索引擎网站](https://www.v2ex.com/t/710841) ![](assets/new.png)  
+- [2020-09-27-求推荐结果质量高的中文搜索引擎网站](https://www.v2ex.com/t/710841) ![](assets/new.png)  
 - [2020-09-27-zookeeper-follower-是如何知道-leader-节点挂了的？](https://www.v2ex.com/t/710840) ![](assets/new.png)  
 - [2020-09-27-免费咨询保险问题，不加好友谢谢](https://www.v2ex.com/t/710838) ![](assets/new.png)  
 - [2020-09-27-亚马逊面试题：安排课程](https://www.v2ex.com/t/710837) ![](assets/new.png)  
@@ -1093,10 +1097,6 @@
 - [2020-09-27-有没有办法嗅探下载这个网站的流媒体视频？](https://www.v2ex.com/t/710830) ![](assets/new.png)  
 - [2020-09-27-小米-10-至尊版有两块电池，我今天发现它们竟然是串联的](https://www.v2ex.com/t/710829) ![](assets/new.png)  
 - [2020-09-27-你们公司有用到哪些开源的产品？比如-IM、工单系统、管理平台等等](https://www.v2ex.com/t/710828) ![](assets/new.png)  
-- [2020-09-27-问下现在-Linux-监控海量文件+两端同步的正确姿势是什么？](https://www.v2ex.com/t/710826) ![](assets/new.png)  
-- [2020-09-27-GV-可以打滴滴或者收蜂巢吗](https://www.v2ex.com/t/710825) ![](assets/new.png)  
-- [2020-09-27-大伙们十一有什么活动没，感觉好没意思啊。](https://www.v2ex.com/t/710822) ![](assets/new.png)  
-- [2020-09-27-移动运营商-2000-条家庭闲置宽带，可以做什么？](https://www.v2ex.com/t/710821) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

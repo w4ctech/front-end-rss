@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 03:12:49，:rocket: 更新条数: +3663， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 03:25:11，:rocket: 更新条数: +3664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-27-陕西省开展2020年秋冬季新冠肺炎疫情防控应急演练](http://sxwjw.shaanxi.gov.cn/art/2020/9/27/art_9_73434.html) ![](assets/new.png)  
 - [2020-09-27-浙江26日新增2例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEP73kGR3OCa8d3lkle5k200927&isfromapp=1) ![](assets/new.png)  
 - [2020-09-27-国家卫健委：新增确诊病例14例，均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiffR5tcuVEmZLwvRqUIMe200927&isfromapp=1) ![](assets/new.png)  
 - [2020-09-26-菅义伟：日本决心在明年举办奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCZ4dbkHV7lyM3ppc7W8k200927&isfromapp=1) ![](assets/new.png)  
 - [2020-09-26-世卫组织：全球新增316884例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiINXOl1XUvfTZtb4Kqni0200927&isfromapp=1) ![](assets/new.png)  
-- [2020-09-26-纽约3个月以来新冠病毒感染病例首次单日破千](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuztaWG8vme9NmlrOQwlb200927&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,11 +967,11 @@
 </summary>
 
 
-- [2020-09-26-基于uniapp的掘金app](https://juejin.im/post/6876988236472778765) ![](assets/new.png)  
-- [2020-09-26-作为前端，我对业务的一点理解](https://juejin.im/post/6876977166051966984) ![](assets/new.png)  
-- [2020-09-26-浅尝云游戏音视频小程序](https://juejin.im/post/6876707647664422926) ![](assets/new.png)  
-- [2020-09-25-小程序-云开发-实现生成小程序码](https://juejin.im/post/6876679281779408903) ![](assets/new.png)  
-- [2020-09-19-要把URL变网页，一共分几步？](https://juejin.im/post/6874114366023663623) ![](assets/new.png)  
+- [2020-09-26-如何编写一个-Vite-插件](https://juejin.im/post/6876812524338216973) ![](assets/new.png)  
+- [2020-09-26-【第1期】20道推荐给FE-Engineer不易注意到的点](https://juejin.im/post/6876812542455316487) ![](assets/new.png)  
+- [2020-09-25-基于blazeface的小程序人脸识别实例，使用超简单](https://juejin.im/post/6876699618663628814) ![](assets/new.png)  
+- [2020-09-25-ES6（十四）——-Generator](https://juejin.im/post/6876697109202993165) ![](assets/new.png)  
+- [2020-09-25-不用try-catch，如何机智的捕获错误](https://juejin.im/post/6876685201674600462) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,17 @@
 </summary>
 
 
+- [2020-09-27-北京-创新工场-组内直招-工程院机器人组-web-前端](https://www.v2ex.com/t/710867) ![](assets/new.png)  
+- [2020-09-27-美团支付-诚招高级/资深工程师（30-45k）](https://www.v2ex.com/t/710866) ![](assets/new.png)  
+- [2020-09-27-村里要统计外地工作人员工作单位和地址，他们要这个有什么用？](https://www.v2ex.com/t/710865) ![](assets/new.png)  
+- [2020-09-27-社招-新浪集团数据分析平台招聘大数据运维工程师&AIOps-开发工程师，待遇-20-40k](https://www.v2ex.com/t/710864) ![](assets/new.png)  
+- [2020-09-27-部分免费看电影-免费领取姜子牙电影院电影票](https://www.v2ex.com/t/710863) ![](assets/new.png)  
+- [2020-09-27-晚辈工作沉迷摸鱼怎么办？](https://www.v2ex.com/t/710862) ![](assets/new.png)  
+- [2020-09-27-watch6-开通-ecg-心率好简单啊。。。当然我在深圳。。。](https://www.v2ex.com/t/710861) ![](assets/new.png)  
+- [2020-09-27-想开-B-级车的穷小子求推荐，预算-15-20w-之间，目前看中了君威-19-精英版、迈腾、雅阁等。](https://www.v2ex.com/t/710860) ![](assets/new.png)  
+- [2020-09-27-老生常谈的问题，手机你们会用充电宝来充电吗？](https://www.v2ex.com/t/710859) ![](assets/new.png)  
+- [2020-09-27-明晚腾讯微博关服，快去备份你的非主流青春，别怪我没提醒你😂😂](https://www.v2ex.com/t/710857) ![](assets/new.png)  
+- [2020-09-27-NAS-硬盘热插拔是不是有损硬盘](https://www.v2ex.com/t/710856) ![](assets/new.png)  
 - [2020-09-27-微博的图床服务器-ipv6-有问题？](https://www.v2ex.com/t/710855) ![](assets/new.png)  
 - [2020-09-27-今天，你睡过头了吗？](https://www.v2ex.com/t/710853) ![](assets/new.png)  
 - [2020-09-27-平安谈薪资-月薪最多只能比现在月薪多-2.5k-该考虑吗？](https://www.v2ex.com/t/710851) ![](assets/new.png)  
@@ -1086,17 +1097,6 @@
 - [2020-09-27-现在引流好像很难](https://www.v2ex.com/t/710845) ![](assets/new.png)  
 - [2020-09-27-2017-Mac-book-pro-touch-bar-变白，大家有遇到过这种情况吗？](https://www.v2ex.com/t/710844) ![](assets/new.png)  
 - [2020-09-27-求性价高的联通流量包](https://www.v2ex.com/t/710843) ![](assets/new.png)  
-- [2020-09-27-社招-新浪集团平台架构部高级-DBA-招聘，待遇-25-50k](https://www.v2ex.com/t/710842) ![](assets/new.png)  
-- [2020-09-27-求推荐结果质量高的中文搜索引擎网站](https://www.v2ex.com/t/710841) ![](assets/new.png)  
-- [2020-09-27-zookeeper-follower-是如何知道-leader-节点挂了的？](https://www.v2ex.com/t/710840) ![](assets/new.png)  
-- [2020-09-27-免费咨询保险问题，不加好友谢谢](https://www.v2ex.com/t/710838) ![](assets/new.png)  
-- [2020-09-27-亚马逊面试题：安排课程](https://www.v2ex.com/t/710837) ![](assets/new.png)  
-- [2020-09-27-项目外包-视频监控服务器外包](https://www.v2ex.com/t/710834) ![](assets/new.png)  
-- [2020-09-27-Microsoft365-家庭版拼车，随时发车](https://www.v2ex.com/t/710832) ![](assets/new.png)  
-- [2020-09-27-TiDB-现在发展到什么程度了，相比-sharding-的方案有什么劣势呢](https://www.v2ex.com/t/710831) ![](assets/new.png)  
-- [2020-09-27-有没有办法嗅探下载这个网站的流媒体视频？](https://www.v2ex.com/t/710830) ![](assets/new.png)  
-- [2020-09-27-小米-10-至尊版有两块电池，我今天发现它们竟然是串联的](https://www.v2ex.com/t/710829) ![](assets/new.png)  
-- [2020-09-27-你们公司有用到哪些开源的产品？比如-IM、工单系统、管理平台等等](https://www.v2ex.com/t/710828) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1148,12 +1148,12 @@
 - [2020-09-27-Android-开发技术周报-Issue#296](https://toutiao.io/k/hn3x3ql) ![](assets/new.png)  
 - [2020-09-27-Android-3-分钟带你入门开发测试](https://toutiao.io/k/6881zrq) ![](assets/new.png)  
 - [2020-09-27-译-LPC-2020-上安卓内核相关讨论](https://toutiao.io/k/86q9gy2) ![](assets/new.png)  
-- [2020-09-27-Redis-|-Redis-Pub/Sub-相关命令](https://toutiao.io/k/gldpc3t) ![](assets/new.png)  
-- [2020-09-27-Pod-垂直自动伸缩的使用](https://toutiao.io/k/zz7wa8m) ![](assets/new.png)  
 - [2020-09-27-一文读懂-golang-channel](https://toutiao.io/k/bpwbzqf) ![](assets/new.png)  
+- [2020-09-27-Pod-垂直自动伸缩的使用](https://toutiao.io/k/zz7wa8m) ![](assets/new.png)  
+- [2020-09-27-Redis-|-Redis-Pub/Sub-相关命令](https://toutiao.io/k/gldpc3t) ![](assets/new.png)  
+- [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
 - [2020-09-27-Go-设计模式（十三）：观察者模式（实现简单的-EventBus）](https://toutiao.io/k/ppo7168) ![](assets/new.png)  
 - [2020-09-27-还在为多张-Excel-汇总统计发愁？Python-秒处理真香](https://toutiao.io/k/otwnf5d) ![](assets/new.png)  
-- [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
 - [2020-09-27-ECCV-2020-论文大盘点：人脸技术篇](https://toutiao.io/k/6dpgk3o) ![](assets/new.png)  
 - [2020-09-27-如何知道我们的-E2E-测试覆盖率？](https://toutiao.io/k/2qdibbs) ![](assets/new.png)  
 - [2020-09-27-KDD-Cup-2020-多模态召回比赛季军方案与广告业务应用](https://toutiao.io/k/wekbu5f) ![](assets/new.png)  

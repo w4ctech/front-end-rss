@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 14:25:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 14:32:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -87,6 +87,9 @@
 - [2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b) 
 - [2020-09-07-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d) 
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
+- [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
+- [2020-09-05-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/6df8ec8f180d99efe64faf4d4c8dc6d3) 
+- [2020-09-04-玩转-CSS-变量](https://www.ershicimi.com/p/bdd8b63bd0d792fe265f3f929077dda8) 
 - [2020-09-27-js中将多维数组转换成一维数组的方法](https://juejin.im/post/6877133021384802312) 
 - [2020-09-27-深挖前端-JavaScript-知识点-——-史上最全面、最详细的-Cookie-总结](https://juejin.im/post/6877133657228869639) 
 - [2020-09-27-【译】Promises/A+-规范](https://juejin.im/post/6877127647017566215) 
@@ -100,6 +103,5 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-27-求推荐电信千兆/万兆光猫，送的只有一个千兆-LAN-口，而且弱电箱空间不够再加一个路由器](https://www.v2ex.com/t/711051) 
-- [2020-09-27-前端小白突然想到个问题，想请教一下各位-dalao，-JavaScript-中的-Math.random是如何实现随机数的？用了这么久，好像只知其然，而不知其所以然](https://www.v2ex.com/t/711030) 
 - [2020-09-25-Java环境下通过时间竞争实现DNS-Rebinding-绕过SSRF-防御限制](https://sec.thief.one/article_content?a_id=c22073e6f7057bd64c3bda40cd57dd3f) 
 - [2020-09-25-动视发生严重个人资料泄漏事件:超50万账号被曝光](https://sec.thief.one/article_content?a_id=f4b64dd75ea63c6ffdc2a46e3dd97b5a) 

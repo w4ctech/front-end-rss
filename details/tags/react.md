@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 14:25:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 14:32:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -31,4 +31,5 @@
 - [2020-09-15-Angular、React、Vue三大框架逻辑复用横评](https://www.ershicimi.com/p/cf03861ea29d8902d2a3453b49c91b62) 
 - [2020-09-15-轻松学会-React-钩子：以-useEffect-为例](http://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
+- [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
 - [2020-08-15-如何利用-Typescript-的类型编程自动推断-Redux-reducer-的类型](https://juejin.im/post/6861185929426223118) 

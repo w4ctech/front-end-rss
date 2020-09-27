@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 09:12:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 09:24:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -76,5 +76,4 @@
 - [2020-09-11-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/c17632c9138f5cb25baa775890519b34) 
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2020-09-26-Vue源码探索之知识小储备-——01.Object.defineProperty-VS-proxy](https://juejin.im/post/6876953766831063048) 
-- [2020-09-26-深度解读-Vue3-源码-|-内置组件-teleport-是什么“来头”？](https://juejin.im/post/6876858941280616461) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

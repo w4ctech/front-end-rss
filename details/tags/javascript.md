@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 09:12:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 09:24:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -103,6 +103,5 @@
 - [2020-09-27-给-switch-买了绿联的蓝牙适配器,-但同时连接-airpods2-和-AirPods-pro-的时候,-2-的声音明显小于-pro,-求推荐其他的产品](https://www.v2ex.com/t/710999) 
 - [2020-09-27-pandas-计算某列滚动百分比-有高效方式吗？-pct_change-太慢了](https://www.v2ex.com/t/710993) 
 - [2020-09-27-promise-存到变量中为什么可以防止阻塞?](https://www.v2ex.com/t/710992) 
-- [2020-09-27-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
 - [2020-09-25-Java环境下通过时间竞争实现DNS-Rebinding-绕过SSRF-防御限制](https://sec.thief.one/article_content?a_id=c22073e6f7057bd64c3bda40cd57dd3f) 
 - [2020-09-25-动视发生严重个人资料泄漏事件:超50万账号被曝光](https://sec.thief.one/article_content?a_id=f4b64dd75ea63c6ffdc2a46e3dd97b5a) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 07:03:48，:rocket: 更新条数: +3439， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 07:12:48，:rocket: 更新条数: +3439， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,7 +1057,10 @@
 </summary>
 
 
-- [2020-09-27-请教大佬们一个问题](https://www.v2ex.com/t/710948) ![](assets/new.png)  
+- [2020-09-27-有没有偏僻的寺庙/道观可以出家？](https://www.v2ex.com/t/710952) ![](assets/new.png)  
+- [2020-09-27-爱奇艺连个片库排序筛选都做不好吗？](https://www.v2ex.com/t/710951) ![](assets/new.png)  
+- [2020-09-27-深圳-|-腾讯-腾讯游戏技术运营部-PaaS-平台招聘-Python-/Go-开发工程师](https://www.v2ex.com/t/710950) ![](assets/new.png)  
+- [2020-09-27-编辑了](https://www.v2ex.com/t/710948) ![](assets/new.png)  
 - [2020-09-27-v2ex-咱这个网站日访问两有多大呀？](https://www.v2ex.com/t/710945) ![](assets/new.png)  
 - [2020-09-27-深圳15K-25K自由时间-Android-and-iOS-虚空科技正在寻找优秀的你](https://www.v2ex.com/t/710944) ![](assets/new.png)  
 - [2020-09-27-在公司总是来回换部门什么鬼](https://www.v2ex.com/t/710943) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-27-招聘招聘！腾讯看点，小组直招，收前端简历](https://www.v2ex.com/t/710931) ![](assets/new.png)  
 - [2020-09-27-.NET-Developer---middle-&-senior-level---open-job](https://www.v2ex.com/t/710929) ![](assets/new.png)  
 - [2020-09-27-Mergeek-新活动又来了，记账应用-Moneyboard-永久高级版](https://www.v2ex.com/t/710928) ![](assets/new.png)  
-- [2020-09-27-我想问下，一般大型的数据库，你们公司都有文档吗？](https://www.v2ex.com/t/710927) ![](assets/new.png)  
-- [2020-09-27-Apple-Watch-开启蜂窝数据的话续航大概多久?](https://www.v2ex.com/t/710926) ![](assets/new.png)  
-- [2020-09-27-有没有大佬给点人生建议，最近很迷茫](https://www.v2ex.com/t/710925) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,8 +1126,8 @@
 - [2020-09-27-译-原来-9-张图就可以弄懂-Go-内存管理](https://toutiao.io/k/47eqfyx) ![](assets/new.png)  
 - [2020-09-27-特征工程：文本特征处理的四大类主流方法](https://toutiao.io/k/9r2l4u8) ![](assets/new.png)  
 - [2020-09-27-Android-3-分钟带你入门开发测试](https://toutiao.io/k/6881zrq) ![](assets/new.png)  
-- [2020-09-27-一文读懂-Golang-channel](https://toutiao.io/k/bpwbzqf) ![](assets/new.png)  
 - [2020-09-27-Redis-|-Redis-Pub/Sub-相关命令](https://toutiao.io/k/gldpc3t) ![](assets/new.png)  
+- [2020-09-27-一文读懂-Golang-channel](https://toutiao.io/k/bpwbzqf) ![](assets/new.png)  
 - [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
 - [2020-09-27-Android-开发技术周报-Issue#296](https://toutiao.io/k/hn3x3ql) ![](assets/new.png)  
 - [2020-09-27-译-LPC-2020-上安卓内核相关讨论](https://toutiao.io/k/86q9gy2) ![](assets/new.png)  
@@ -1136,8 +1136,8 @@
 - [2020-09-27-Go-设计模式（十三）：观察者模式（实现简单的-EventBus）](https://toutiao.io/k/ppo7168) ![](assets/new.png)  
 - [2020-09-27-ECCV-2020-论文大盘点：人脸技术篇](https://toutiao.io/k/6dpgk3o) ![](assets/new.png)  
 - [2020-09-27-如何知道我们的-E2E-测试覆盖率？](https://toutiao.io/k/2qdibbs) ![](assets/new.png)  
-- [2020-09-27-这个-MySQL-优化原理剖析，比照-X-光还清楚](https://toutiao.io/k/u7wqj68) ![](assets/new.png)  
 - [2020-09-27-KDD-Cup-2020-多模态召回比赛季军方案与广告业务应用](https://toutiao.io/k/wekbu5f) ![](assets/new.png)  
+- [2020-09-27-这个-MySQL-优化原理剖析，比照-X-光还清楚](https://toutiao.io/k/u7wqj68) ![](assets/new.png)  
 - [2020-09-27-Elasticsearch-集群搭建的详细步骤](https://toutiao.io/k/ks5ievk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

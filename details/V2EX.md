@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-09-27 04:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 04:13:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-27-上海的-3G、2G-服务是不是都要停了？](https://www.v2ex.com/t/710891) 
+- [2020-09-27-出自用的-Mantiz-显卡坞+RX580-卡](https://www.v2ex.com/t/710890) 
+- [2020-09-27-parallel-desktop-16-问题！](https://www.v2ex.com/t/710888) 
 - [2020-09-27-5G-基站和-4G、3G、2G-基站不同？](https://www.v2ex.com/t/710887) 
 - [2020-09-27-龙岗中心城有推荐的客家菜饭店吗？](https://www.v2ex.com/t/710886) 
 - [2020-09-27-Apple-Music-的小组件经常显示莫名其妙的封面](https://www.v2ex.com/t/710885) 
@@ -44,6 +47,3 @@
 - [2020-09-27-2017-Mac-book-pro-touch-bar-变白，大家有遇到过这种情况吗？](https://www.v2ex.com/t/710844) 
 - [2020-09-27-求性价高的联通流量包](https://www.v2ex.com/t/710843) 
 - [2020-09-27-社招-新浪集团平台架构部高级-DBA-招聘，待遇-25-50k](https://www.v2ex.com/t/710842) 
-- [2020-09-27-求推荐结果质量高的中文搜索引擎网站](https://www.v2ex.com/t/710841) 
-- [2020-09-27-zookeeper-follower-是如何知道-leader-节点挂了的？](https://www.v2ex.com/t/710840) 
-- [2020-09-27-免费咨询保险问题，不加好友谢谢](https://www.v2ex.com/t/710838) 

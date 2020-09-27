@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 02:35:56，:rocket: 更新条数: +3439， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 02:47:17，:rocket: 更新条数: +3440， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-27-Microsoft365-家庭版拼车，随时发车](https://www.v2ex.com/t/710832) ![](assets/new.png)  
+- [2020-09-27-TiDB-现在发展到什么程度了，相比-sharding-的方案有什么劣势呢](https://www.v2ex.com/t/710831) ![](assets/new.png)  
+- [2020-09-27-有没有办法嗅探下载这个网站的流媒体视频？](https://www.v2ex.com/t/710830) ![](assets/new.png)  
 - [2020-09-27-小米-10-至尊版有两块电池，我今天发现它们竟然是串联的](https://www.v2ex.com/t/710829) ![](assets/new.png)  
 - [2020-09-27-你们公司有用到哪些开源的产品？比如-IM、工单系统、管理平台等等](https://www.v2ex.com/t/710828) ![](assets/new.png)  
 - [2020-09-27-问下现在-Linux-监控海量文件+两端同步的正确姿势是什么？](https://www.v2ex.com/t/710826) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-27-拼多多砍价套路是什么？](https://www.v2ex.com/t/710811) ![](assets/new.png)  
 - [2020-09-27-有共享健身记录的小伙伴吗~](https://www.v2ex.com/t/710810) ![](assets/new.png)  
 - [2020-09-27-新-iPhone-有比较明确的发布时间没有哇？](https://www.v2ex.com/t/710809) ![](assets/new.png)  
-- [2020-09-27-一个工作了-6-年的同事写的代码，不看-git-记录我还以为是实习生写的](https://www.v2ex.com/t/710808) ![](assets/new.png)  
-- [2020-09-27-管道的本质是什么，文件吗？同主机上的进程能否使用-socket-通信？此时还会牵涉到传输层和网卡（驱动）吗？](https://www.v2ex.com/t/710806) ![](assets/new.png)  
-- [2020-09-27-有在用-ambari-的吗](https://www.v2ex.com/t/710802) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,9 +1131,9 @@
 - [2020-09-27-Redis-|-Redis-Pub/Sub-相关命令](https://toutiao.io/k/gldpc3t) ![](assets/new.png)  
 - [2020-09-27-Pod-垂直自动伸缩的使用](https://toutiao.io/k/zz7wa8m) ![](assets/new.png)  
 - [2020-09-27-一文读懂-golang-channel](https://toutiao.io/k/bpwbzqf) ![](assets/new.png)  
-- [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
 - [2020-09-27-还在为多张-Excel-汇总统计发愁？Python-秒处理真香](https://toutiao.io/k/otwnf5d) ![](assets/new.png)  
 - [2020-09-27-Go-设计模式（十三）：观察者模式（实现简单的-EventBus）](https://toutiao.io/k/ppo7168) ![](assets/new.png)  
+- [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
 - [2020-09-27-ECCV-2020-论文大盘点：人脸技术篇](https://toutiao.io/k/6dpgk3o) ![](assets/new.png)  
 - [2020-09-27-如何知道我们的-E2E-测试覆盖率？](https://toutiao.io/k/2qdibbs) ![](assets/new.png)  
 - [2020-09-27-KDD-Cup-2020-多模态召回比赛季军方案与广告业务应用](https://toutiao.io/k/wekbu5f) ![](assets/new.png)  

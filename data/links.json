@@ -13334,10 +13334,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",
     "title": "Vue社区",
     "link": "https://www.ershicimi.com/a/9891",
-    "items": []
+    "items": [
+      {
+        "title": "分享几个前端大佬的公众号",
+        "link": "https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1",
+        "date": "2020-02-04"
+      },
+      {
+        "title": "Vue优雅设计一个组件",
+        "link": "https://www.ershicimi.com/p/7230f837307dccbce835587cc0c65dfe",
+        "date": "2020-01-22"
+      },
+      {
+        "title": "带你彻底搞懂Vue3的响应式原理！TypeScript从零实现基于Proxy的响应式库",
+        "link": "https://www.ershicimi.com/p/8b10f42113d0085423d395070e24d72d",
+        "date": "2020-01-20"
+      },
+      {
+        "title": "手把手教你编写一个axios这样的库",
+        "link": "https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8",
+        "date": "2020-01-19"
+      },
+      {
+        "title": "前端面试基础篇，凛冬将至！道友快来一起闭关修炼！",
+        "link": "https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "字节跳动面试官：请你用Vue实现一个大文件上传和断点续传",
+        "link": "https://www.ershicimi.com/p/a670d609b3ad6fb9a360fa50ff63b537",
+        "date": "2020-01-14"
+      },
+      {
+        "title": "vue移动端开发总结",
+        "link": "https://www.ershicimi.com/p/16d6d5f6fa8b66524349cd93f51dbbe5",
+        "date": "2020-01-13"
+      },
+      {
+        "title": "面向未来编程 - vue-function-api究竟是干什么的？",
+        "link": "https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89",
+        "date": "2020-01-10"
+      },
+      {
+        "title": "Vue3 尝鲜",
+        "link": "https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008",
+        "date": "2020-01-09"
+      },
+      {
+        "title": "打造 Vue 技术栈中的“时间宝石“",
+        "link": "https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2",
+        "date": "2020-01-08"
+      },
+      {
+        "title": "本想用Python爬遍知乎，却险些被知乎反杀是什么体验？",
+        "link": "https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d",
+        "date": "2020-01-07"
+      },
+      {
+        "title": "推荐几个前端领域的优质公众号",
+        "link": "https://www.ershicimi.com/p/2ecc19eb701a08ec7dc1ffbcc07b4487",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "【搞笑漫画】程序员鄙视链",
+        "link": "https://www.ershicimi.com/p/99356f25157eaf693a3a9aa592666dbb",
+        "date": "2020-01-04"
+      },
+      {
+        "title": "从零开发一套完整的vue项目开发环境",
+        "link": "https://www.ershicimi.com/p/cab0fde7933f77481f19d7a7ccf21319",
+        "date": "2020-01-03"
+      },
+      {
+        "title": "回顾2019 年 JavaScript 现状调查报告",
+        "link": "https://www.ershicimi.com/p/9adf10f5eda0e047609c758df13436b0",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "倏忽一年：回顾点评前端 2019 重大事件、趋势",
+        "link": "https://www.ershicimi.com/p/88b10c5e55ecef0583393efa7d466665",
+        "date": "2020-01-01"
+      },
+      {
+        "title": "Vue CLI 4 发布：自动化升级过程，支持自定义包管理器",
+        "link": "https://www.ershicimi.com/p/f3854cabca198728fee0c97ec0f825bf",
+        "date": "2019-12-31"
+      },
+      {
+        "title": "JavaScript 那些写出来会被同事揍的骚操作",
+        "link": "https://www.ershicimi.com/p/8afb29a5864bf11ab6723cdc66a0c6ab",
+        "date": "2019-12-30"
+      },
+      {
+        "title": "如何答一道惊艳面试官的数组去重问题？",
+        "link": "https://www.ershicimi.com/p/65b6fbfea2975868732525463c062fdf",
+        "date": "2019-12-26"
+      },
+      {
+        "title": "给开发人员的时间管理建议",
+        "link": "https://www.ershicimi.com/p/fe451d9ed185297ab9a70fc9109d41fe",
+        "date": "2019-12-25"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10315",
@@ -14594,10 +14695,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/9323",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/9323",
     "title": "全栈前端精选",
     "link": "https://www.ershicimi.com/a/9323",
-    "items": []
+    "items": [
+      {
+        "title": "“恐怖”的阿里一面，我究竟想问什么",
+        "link": "https://www.ershicimi.com/p/85cb29d3c95e0bf82f96882adb028176",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "Node.js 中的 require 是如何工作的？",
+        "link": "https://www.ershicimi.com/p/be9bc07a97a414327aaf3708b93efa6e",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "10月1日之后，你新建的GitHub库默认分支不叫「master」了",
+        "link": "https://www.ershicimi.com/p/0d057f12aea198c594ed8d2cbd392e26",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "用TypeScript装饰器实现一个简单的依赖注入",
+        "link": "https://www.ershicimi.com/p/5e9f34eb51f9d7b3f0151ac70a4c8dde",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "javascript红宝书第4版，抽奖！！！",
+        "link": "https://www.ershicimi.com/p/d29c88b1cfb223bbc578049b050b2f64",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "祖传技术栈改造，从照抄大公司作业开始",
+        "link": "https://www.ershicimi.com/p/471c0eab356723990798abcd149b8ff0",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "他写出了 Vue，却做不对这十道 Vue 笔试题",
+        "link": "https://www.ershicimi.com/p/a1f445912be33a73f2c358e0767a8530",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "月入5W卖肉阿姨 VS 月薪1W程序员，谁才是人生赢家？",
+        "link": "https://www.ershicimi.com/p/3aa908e82ee8d7d230761b120914a1ea",
+        "date": "2020-09-19"
+      },
+      {
+        "title": "前端架构探索与实践",
+        "link": "https://www.ershicimi.com/p/ccf9b9611ce4e18bf664c3655d5e7d13",
+        "date": "2020-09-18"
+      },
+      {
+        "title": "阿里拍卖急需前端，20 个！！！",
+        "link": "https://www.ershicimi.com/p/33f2b3383b6a10d7c0a27cbede4dcca7",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "下一家跳槽该去哪里？",
+        "link": "https://www.ershicimi.com/p/78fe1afebd1f26afd22bb2baa84bbba8",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "一张脑图带你看动态划算法之美",
+        "link": "https://www.ershicimi.com/p/8f74e5601e34a04f9f8c88cc87fdaf9f",
+        "date": "2020-09-16"
+      },
+      {
+        "title": "手写React-Router源码，深入理解其原理",
+        "link": "https://www.ershicimi.com/p/5182725b81b008108842615c025ce045",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "为你的 Vue.js 单页应用提速",
+        "link": "https://www.ershicimi.com/p/f370ad3eb269f466bb55d7b08c567605",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "使用 DevTools 新增的 Issues 选项卡发现网页问题",
+        "link": "https://www.ershicimi.com/p/22b3fe338bac5eeae780e62f2154f4cd",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "唐朝人更懂React",
+        "link": "https://www.ershicimi.com/p/45961f41bf945a98790e7a5fab23b85b",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "函数式编程，“香”吗？",
+        "link": "https://www.ershicimi.com/p/05a99c22bd5981bc13bce77ea1e8cf65",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "经验分享：写给入职2~3年同学的一封信",
+        "link": "https://www.ershicimi.com/p/300fac98c10724e79ea9a0b02b162b57",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "没错，华为开始对前端下手了！",
+        "link": "https://www.ershicimi.com/p/88059a810d7f9eaae028f76a870bd276",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "假如有人把支付宝的服务器炸了, 存在支付宝里的钱是不是没了？",
+        "link": "https://www.ershicimi.com/p/308be03f9f42ed34ed808e4ca779bb1d",
+        "date": "2020-09-10"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10195",
@@ -14926,6 +15128,26 @@
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
       {
+        "title": "前端赋能业务 - Node实现自动化部署平台",
+        "link": "https://www.ershicimi.com/p/b51534a5fcb534f73c718f29b4aad1a3",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "大型 web 应用公共组件架构思考",
+        "link": "https://www.ershicimi.com/p/565d0b3bb5d2359fa7ee8b6f818f1727",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "揭秘几个强得不得了的公众号",
+        "link": "https://www.ershicimi.com/p/f38cec38603b8351a1a3220269ffdfba",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "前端需知的CDN加速原理",
+        "link": "https://www.ershicimi.com/p/e02fe38cd5d9b095db51e90c0f1f6d23",
+        "date": "2020-09-26"
+      },
+      {
         "title": "一杯茶的时间，上手 Express 框架开发",
         "link": "https://www.ershicimi.com/p/921228937c95cf4885d9edb75b47fd93",
         "date": "2020-09-25"
@@ -15004,26 +15226,6 @@
         "title": "15 张精美动图全面讲解 CORS",
         "link": "https://www.ershicimi.com/p/6132906ae7deb3d51731b82fc93b3f87",
         "date": "2020-09-16"
-      },
-      {
-        "title": "CSS八种让人眼前一亮的HOVER效果",
-        "link": "https://www.ershicimi.com/p/758221ce47b62753a1ef428836c74805",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "应该在JavaScript中使用Class吗？",
-        "link": "https://www.ershicimi.com/p/3d40203a356fcda1a1c9b2016316678e",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "Gitlab-ci: 从零开始的前端自动化部署",
-        "link": "https://www.ershicimi.com/p/be9a408da24f9033e68b83c11bbe5173",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "来呀，一起造一个简易React！",
-        "link": "https://www.ershicimi.com/p/2693c1565e0eed4bb363bf8ef1d47357",
-        "date": "2020-09-14"
       }
     ]
   },
@@ -16510,10 +16712,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/5762",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/5762",
     "title": "前端日刊",
     "link": "https://www.ershicimi.com/a/5762",
-    "items": []
+    "items": [
+      {
+        "title": "从0到1用Node完成一个CLI工具",
+        "link": "https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "ES2020 中 Javascript 10 个你应该知道的新功能",
+        "link": "https://www.ershicimi.com/p/5dec6d20ee78a818f19d8e2aeb310632",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "怎么才算是“精通”Vue?",
+        "link": "https://www.ershicimi.com/p/ddf67c92911c4ff28123c7ce2c89a519",
+        "date": "2020-09-17"
+      },
+      {
+        "title": "前端开发，不用 JavaScript 行不行？！",
+        "link": "https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "Deno 1.3.3 发布",
+        "link": "https://www.ershicimi.com/p/9f9c0e885889c4d20a4dc2d8d42bc54f",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "1000+个项目的10大JavaScript错误",
+        "link": "https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "webpack 这么牛X，你还不会用？",
+        "link": "https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1",
+        "date": "2020-09-03"
+      },
+      {
+        "title": "下一家跳槽该去哪里？",
+        "link": "https://www.ershicimi.com/p/327e128f083f265bc4f110ecd1e0241f",
+        "date": "2020-09-02"
+      },
+      {
+        "title": "九年程序人生 工作总结",
+        "link": "https://www.ershicimi.com/p/382cb8ecc4f355c2293ae65b9c093674",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "CSS 8种让人眼前一亮的hover效果眼前一亮的HOVER效果",
+        "link": "https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "面试字节27K岗，3道题就被干掉",
+        "link": "https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb",
+        "date": "2020-08-28"
+      },
+      {
+        "title": "为什么阿里P6+前端这么值钱?",
+        "link": "https://www.ershicimi.com/p/d511f2ae3591d2f8c141251a38ea29fd",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "程序员的崩溃，是从“你薪资比我高”开始的！",
+        "link": "https://www.ershicimi.com/p/11844956143091a3f5f4e75b947343e6",
+        "date": "2020-08-24"
+      },
+      {
+        "title": "前端的核心竞争力在哪里？",
+        "link": "https://www.ershicimi.com/p/e4649c2d813951cb3234f4dfa6d99e5a",
+        "date": "2020-08-21"
+      },
+      {
+        "title": "没错，华为要对前端下手了！",
+        "link": "https://www.ershicimi.com/p/cc9b4f026caec49075b4f9675946f2e3",
+        "date": "2020-08-18"
+      },
+      {
+        "title": "面了个 4 年的前端，简历看着像实战派，实际上……",
+        "link": "https://www.ershicimi.com/p/6ed0f363369b893e3f05f3d3dbd57ff2",
+        "date": "2020-08-17"
+      },
+      {
+        "title": "前端圈的贫富差距正在拉大？",
+        "link": "https://www.ershicimi.com/p/4c942683e6bca89c942ba0b335f1becc",
+        "date": "2020-08-14"
+      },
+      {
+        "title": "GitHub宣布已将所有代码永久封存于北极地底1000年！",
+        "link": "https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "这 2 个坏习惯，让你离大厂越来越远",
+        "link": "https://www.ershicimi.com/p/275ad2fd95cd8464f6628b9bf93a9595",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "node_modules 困境",
+        "link": "https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2",
+        "date": "2020-08-08"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10548",
@@ -17133,7 +17436,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -17308,6 +17611,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "0202 年了？ macOS 上有什么好用的邮件客户端？",
+        "link": "https://www.v2ex.com/t/710780",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "求推荐专业靠谱点的健康检测手表手环",
+        "link": "https://www.v2ex.com/t/710779",
+        "date": "2020-09-27"
+      },
+      {
         "title": "竹内 結子 貌似 自杀了",
         "link": "https://www.v2ex.com/t/710777",
         "date": "2020-09-27"
@@ -17476,16 +17789,6 @@
         "title": "银联支付的网站有啥能够绕过 IE 的操作？",
         "link": "https://www.v2ex.com/t/710731",
         "date": "2020-09-26"
-      },
-      {
-        "title": "Spring 中的日志大家通常会记在哪里呢？",
-        "link": "https://www.v2ex.com/t/710730",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "升级到 macOS 10.15.7， VMWare Fusion 悲剧了",
-        "link": "https://www.v2ex.com/t/710729",
-        "date": "2020-09-26"
       }
     ]
   },
@@ -17597,151 +17900,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/toutiao/today",
+    "rss": "https://rss.shab.fun/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": [
-      {
-        "title": "Hadoop 框架：单服务下伪分布式集群搭建",
-        "link": "https://toutiao.io/k/6lznddm",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "这三年被分布式坑惨了，曝光十大坑",
-        "link": "https://toutiao.io/k/yabo548",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "深夜，我偷听到程序员要对 session 下手",
-        "link": "https://toutiao.io/k/ohe587s",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "Android 开发技术周报 Issue#296",
-        "link": "https://toutiao.io/k/hn3x3ql",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "特征工程：文本特征处理的四大类主流方法",
-        "link": "https://toutiao.io/k/9r2l4u8",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[译] 原来 9 张图就可以弄懂 Go 内存管理",
-        "link": "https://toutiao.io/k/47eqfyx",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "Android 3 分钟带你入门开发测试",
-        "link": "https://toutiao.io/k/6881zrq",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[译] LPC 2020 上安卓内核相关讨论",
-        "link": "https://toutiao.io/k/86q9gy2",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "Redis | Redis Pub/Sub 相关命令",
-        "link": "https://toutiao.io/k/gldpc3t",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "Pod 垂直自动伸缩的使用",
-        "link": "https://toutiao.io/k/zz7wa8m",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "一文读懂 golang channel",
-        "link": "https://toutiao.io/k/bpwbzqf",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "Go 设计模式（十三）：观察者模式（实现简单的 EventBus）",
-        "link": "https://toutiao.io/k/ppo7168",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "还在为多张 Excel 汇总统计发愁？Python 秒处理真香",
-        "link": "https://toutiao.io/k/otwnf5d",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
-        "link": "https://toutiao.io/k/rbvgji4",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
-        "link": "https://toutiao.io/k/h9nal21",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 谈谈我所认识的分布式锁",
-        "link": "https://toutiao.io/k/oqnmp3h",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 同城双活与异地多活架构分析",
-        "link": "https://toutiao.io/k/e1eh64z",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 硬核看房利器：Web 全景的实现",
-        "link": "https://toutiao.io/k/ihkuhms",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
-        "link": "https://toutiao.io/k/ejwph4b",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
-        "date": "2020-09-27"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

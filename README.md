@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 11:03:31，:rocket: 更新条数: +3669， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 11:12:06，:rocket: 更新条数: +3669， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-27-找一个能写抢购程序的，具体需求详聊](https://www.v2ex.com/t/711032) ![](assets/new.png)  
 - [2020-09-27-今年雨下的这么多，会产生什么影响？](https://www.v2ex.com/t/711031) ![](assets/new.png)  
 - [2020-09-27-前端小白突然想到个问题，想请教一下各位-dalao，-JavaScript-中的-Math.random是如何实现随机数的？用了这么久，好像只知其然，而不知其所以然](https://www.v2ex.com/t/711030) ![](assets/new.png)  
 - [2020-09-27-好奇网上的-CPU-显卡天梯图数据怎么得来的？](https://www.v2ex.com/t/711029) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-27-含内推码-金山-WPS-2021-校招武汉/珠海/北京/广州](https://www.v2ex.com/t/711012) ![](assets/new.png)  
 - [2020-09-27-像我这样的程序员现在应该做什么？](https://www.v2ex.com/t/711010) ![](assets/new.png)  
 - [2020-09-27-登陆-mac-端后-iPhone-微信收不到消息](https://www.v2ex.com/t/711009) ![](assets/new.png)  
-- [2020-09-27-一台-Linux-有公网-IP，怎么方便的访问局域网的-windows-服务器？](https://www.v2ex.com/t/711008) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

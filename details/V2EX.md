@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-09-27 06:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 06:35:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-27-.NET-Developer---middle-&-senior-level---open-job](https://www.v2ex.com/t/710929) 
+- [2020-09-27-Mergeek-新活动又来了，记账应用-Moneyboard-永久高级版](https://www.v2ex.com/t/710928) 
+- [2020-09-27-我想问下，一般大型的数据库，你们公司都有文档吗？](https://www.v2ex.com/t/710927) 
+- [2020-09-27-Apple-Watch-开启蜂窝数据的话续航大概多久?](https://www.v2ex.com/t/710926) 
 - [2020-09-27-有没有大佬给点人生建议，最近很迷茫](https://www.v2ex.com/t/710925) 
 - [2020-09-27-超火爆的-go-微服务框架推荐](https://www.v2ex.com/t/710924) 
 - [2020-09-27-百度内推-🔥🔥🔥算法/工程/产品/设计/运营各类岗位急速内推,实时反馈~](https://www.v2ex.com/t/710923) 
@@ -35,7 +39,3 @@
 - [2020-09-27-对某些公开版面的个别帖子-是否也有限制注册满-90-天才能浏览呢](https://www.v2ex.com/t/710883) 
 - [2020-09-27-武汉金山-金山软件招前端啦](https://www.v2ex.com/t/710882) 
 - [2020-09-27-有在北京、上海、深圳想回成都工作的吗？](https://www.v2ex.com/t/710881) 
-- [2020-09-27-当前版本-Windows10-2004-还不支持-P3-色域吗](https://www.v2ex.com/t/710879) 
-- [2020-09-27-通过腾讯云轻量+对象存储-cos，搭建-nextcloud-私有云盘](https://www.v2ex.com/t/710878) 
-- [2020-09-27-不确定消息真实性，明年上半年可能有-iPhone-SE-plus](https://www.v2ex.com/t/710877) 
-- [2020-09-27-阿里云-DTS，迁移速度超级慢](https://www.v2ex.com/t/710876) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 06:30:19，:rocket: 更新条数: +3660， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 06:35:07，:rocket: 更新条数: +3435， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-27-.NET-Developer---middle-&-senior-level---open-job](https://www.v2ex.com/t/710929) ![](assets/new.png)  
+- [2020-09-27-Mergeek-新活动又来了，记账应用-Moneyboard-永久高级版](https://www.v2ex.com/t/710928) ![](assets/new.png)  
+- [2020-09-27-我想问下，一般大型的数据库，你们公司都有文档吗？](https://www.v2ex.com/t/710927) ![](assets/new.png)  
+- [2020-09-27-Apple-Watch-开启蜂窝数据的话续航大概多久?](https://www.v2ex.com/t/710926) ![](assets/new.png)  
 - [2020-09-27-有没有大佬给点人生建议，最近很迷茫](https://www.v2ex.com/t/710925) ![](assets/new.png)  
 - [2020-09-27-超火爆的-go-微服务框架推荐](https://www.v2ex.com/t/710924) ![](assets/new.png)  
 - [2020-09-27-百度内推-🔥🔥🔥算法/工程/产品/设计/运营各类岗位急速内推,实时反馈~](https://www.v2ex.com/t/710923) ![](assets/new.png)  
@@ -1093,10 +1077,6 @@
 - [2020-09-27-Apple-Watch-三代升级六代体验及使用经验分享](https://www.v2ex.com/t/710905) ![](assets/new.png)  
 - [2020-09-27-单表千万级,-要根据各种查询得到-ID-集合;-已经建立了各种索引,-速度还是慢](https://www.v2ex.com/t/710903) ![](assets/new.png)  
 - [2020-09-27-上海-5G-覆盖和速度咋样？](https://www.v2ex.com/t/710902) ![](assets/new.png)  
-- [2020-09-27-iCloud-文件丢失](https://www.v2ex.com/t/710901) ![](assets/new.png)  
-- [2020-09-27-是有人和我一样守着第-509999-号会员的位置吗](https://www.v2ex.com/t/710900) ![](assets/new.png)  
-- [2020-09-27-macbook-pro-13-2018，-16G-512G-，-9.5-成新，能卖多少钱？](https://www.v2ex.com/t/710897) ![](assets/new.png)  
-- [2020-09-27-升级了-macOS-10.15.7-之后外接的显示器不亮了。。。](https://www.v2ex.com/t/710896) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

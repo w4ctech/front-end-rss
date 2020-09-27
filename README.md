@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 04:35:38，:rocket: 更新条数: +3431， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 04:47:25，:rocket: 更新条数: +3438， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,6 +729,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,9 +1057,10 @@
 </summary>
 
 
+- [2020-09-27-macbook-pro-13-2018，-16G-512G-，-9.5-成新，能卖多少钱？](https://www.v2ex.com/t/710897) ![](assets/new.png)  
+- [2020-09-27-升级了-macOS-10.15.7-之后外接的显示器不亮了。。。](https://www.v2ex.com/t/710896) ![](assets/new.png)  
 - [2020-09-27-分享一个油管视频下载工具（欢迎试用）](https://www.v2ex.com/t/710892) ![](assets/new.png)  
 - [2020-09-27-上海的-3G、2G-服务是不是都要停了？](https://www.v2ex.com/t/710891) ![](assets/new.png)  
-- [2020-09-27-出自用的-Mantiz-显卡坞+RX580-卡](https://www.v2ex.com/t/710890) ![](assets/new.png)  
 - [2020-09-27-parallel-desktop-16-问题！](https://www.v2ex.com/t/710888) ![](assets/new.png)  
 - [2020-09-27-5G-基站和-4G、3G、2G-基站不同？](https://www.v2ex.com/t/710887) ![](assets/new.png)  
 - [2020-09-27-龙岗中心城有推荐的客家菜饭店吗？](https://www.v2ex.com/t/710886) ![](assets/new.png)  
@@ -1066,7 +1077,6 @@
 - [2020-09-27-南京什么东西那么香，这几天户外感觉泡在香薰里](https://www.v2ex.com/t/710874) ![](assets/new.png)  
 - [2020-09-27-深圳-字节跳动-前端-效率平台-招人啦~](https://www.v2ex.com/t/710873) ![](assets/new.png)  
 - [2020-09-27-替代逝去的亲人，和你通话/聊天等等的服务，以后会出现么？](https://www.v2ex.com/t/710872) ![](assets/new.png)  
-- [2020-09-27-有大神愿意分享-Mikrotik-ros-一个功能吗](https://www.v2ex.com/t/710871) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,11 +1127,11 @@
 - [2020-09-27-特征工程：文本特征处理的四大类主流方法](https://toutiao.io/k/9r2l4u8) ![](assets/new.png)  
 - [2020-09-27-Android-开发技术周报-Issue#296](https://toutiao.io/k/hn3x3ql) ![](assets/new.png)  
 - [2020-09-27-Android-3-分钟带你入门开发测试](https://toutiao.io/k/6881zrq) ![](assets/new.png)  
-- [2020-09-27-译-LPC-2020-上安卓内核相关讨论](https://toutiao.io/k/86q9gy2) ![](assets/new.png)  
 - [2020-09-27-一文读懂-golang-channel](https://toutiao.io/k/bpwbzqf) ![](assets/new.png)  
+- [2020-09-27-译-LPC-2020-上安卓内核相关讨论](https://toutiao.io/k/86q9gy2) ![](assets/new.png)  
+- [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
 - [2020-09-27-Pod-垂直自动伸缩的使用](https://toutiao.io/k/zz7wa8m) ![](assets/new.png)  
 - [2020-09-27-Redis-|-Redis-Pub/Sub-相关命令](https://toutiao.io/k/gldpc3t) ![](assets/new.png)  
-- [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
 - [2020-09-27-还在为多张-Excel-汇总统计发愁？Python-秒处理真香](https://toutiao.io/k/otwnf5d) ![](assets/new.png)  
 - [2020-09-27-Go-设计模式（十三）：观察者模式（实现简单的-EventBus）](https://toutiao.io/k/ppo7168) ![](assets/new.png)  
 - [2020-09-27-如何知道我们的-E2E-测试覆盖率？](https://toutiao.io/k/2qdibbs) ![](assets/new.png)  

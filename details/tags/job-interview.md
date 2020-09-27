@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 12:40:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 12:47:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,4 +41,5 @@
 - [2020-09-27-上海小红书招聘社区中台高级工程师25-50k](https://www.v2ex.com/t/711049) 
 - [2020-09-27-北京杭州-|-阿里钉钉-阿里巴巴钉钉文档团队招聘-前端/-Java-开发工程师-产品设计运营](https://www.v2ex.com/t/711038) 
 - [2020-09-27-系统设计常挂面试题](https://www.v2ex.com/t/711023) 
+- [2020-09-27-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
 - [2020-09-27-美团招聘丨等,-秋天第一个有缘人](https://sec.thief.one/article_content?a_id=54991d445d5c7756a80e017f60469123) 

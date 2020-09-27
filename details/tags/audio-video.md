@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 16:13:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 16:26:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,7 +85,6 @@
 - [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff) 
 - [2020-09-27-有点意思，虎牙直播的弹幕-在指定内容上时会自动透明](https://www.v2ex.com/t/711075) 
 - [2020-09-27-美资韩企-Coupang-直播上海招聘-Java-后端/Android/iOS/测试-，-内部人性化-965-不加班](https://www.v2ex.com/t/711067) 
-- [2020-09-27-如何“高效地”录制网页里的“在线直播”视频？](https://www.v2ex.com/t/711042) 
 - [2020-09-27-【视频】|-Python:if+else的使用](https://sec.thief.one/article_content?a_id=200e15a0b174fa098f513e1ea89e6191) 
 - [2020-09-26-【视频】|-黑客入侵美军事系统,美俄火力交战](https://sec.thief.one/article_content?a_id=69cdd30fa690d0c7a12cadf7191e56cb) 
 - [2020-09-26-MiSRC送车了-|-上传小视频即可赢取智能赛车、尤克里里、电动牙刷!](https://sec.thief.one/article_content?a_id=a808ef95051ff19302966ac79e3b146e) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 08:13:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 08:25:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -89,8 +89,7 @@
 - [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
 - [2020-09-05-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/6df8ec8f180d99efe64faf4d4c8dc6d3) 
 - [2020-09-04-玩转-CSS-变量](https://www.ershicimi.com/p/bdd8b63bd0d792fe265f3f929077dda8) 
-- [2020-09-26-从JSON中提取属性的姿势](https://juejin.im/post/6876789237753708551) 
-- [2020-09-26-手写call,apply,bind方法](https://juejin.im/post/6876786220878266382) 
+- [2020-09-26-理解浏览器中的Event-Loop（事件循环）](https://juejin.im/post/6876801167902474254) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -100,6 +99,5 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-09-27-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 
 - [2020-09-25-Java环境下通过时间竞争实现DNS-Rebinding-绕过SSRF-防御限制](https://sec.thief.one/article_content?a_id=c22073e6f7057bd64c3bda40cd57dd3f) 
 - [2020-09-25-动视发生严重个人资料泄漏事件:超50万账号被曝光](https://sec.thief.one/article_content?a_id=f4b64dd75ea63c6ffdc2a46e3dd97b5a) 

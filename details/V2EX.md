@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-27 18:36:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 18:47:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-27-iPhone-倒计时-bug,-看似小,但是可以造成大问题](https://www.v2ex.com/t/711097) 
 - [2020-09-27-macOS-10.15.7-中-Airdrop-接收文件速度特别慢](https://www.v2ex.com/t/711095) 
 - [2020-09-27-请问-SpringBoot-中是让哪个类去处理-@EnableConfigurationProperties-的类的（实例）的？](https://www.v2ex.com/t/711094) 
 - [2020-09-27-想学习，却不知道学什么](https://www.v2ex.com/t/711093) 
@@ -45,4 +46,3 @@
 - [2020-09-27-求推荐电信千兆/万兆光猫，送的只有一个千兆-LAN-口，而且弱电箱空间不够再加一个路由器](https://www.v2ex.com/t/711051) 
 - [2020-09-27-关于虚拟内存的问题](https://www.v2ex.com/t/711050) 
 - [2020-09-27-上海小红书招聘社区中台高级工程师25-50k](https://www.v2ex.com/t/711049) 
-- [2020-09-27-请教下苹果的广告怎么关掉啊](https://www.v2ex.com/t/711047) 

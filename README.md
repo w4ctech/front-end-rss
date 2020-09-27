@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 15:49:11，:rocket: 更新条数: +3444， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 16:04:12，:rocket: 更新条数: +3424， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-27-如何从字符串中提取-ip-地址不用正则](https://www.v2ex.com/t/711091) ![](assets/new.png)  
 - [2020-09-27-微信自带的浏览器能不能在其他客户端被作为第三方浏览器的一个选项？](https://www.v2ex.com/t/711090) ![](assets/new.png)  
 - [2020-09-27-国庆前一周提离职，结果被公司告知可以提前离职](https://www.v2ex.com/t/711089) ![](assets/new.png)  
 - [2020-09-27-Japan-0-0](https://www.v2ex.com/t/711087) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-27-新买一个月的-Macbook-Air-电池健康掉到-97%正常吗？](https://www.v2ex.com/t/711072) ![](assets/new.png)  
 - [2020-09-27-想问下旧金山有没有靠谱的回国快递](https://www.v2ex.com/t/711070) ![](assets/new.png)  
 - [2020-09-27-自如转租：绝对好地方！](https://www.v2ex.com/t/711068) ![](assets/new.png)  
-- [2020-09-27-美资韩企-Coupang-直播上海招聘-Java-后端/Android/iOS/测试-，-内部人性化-965-不加班](https://www.v2ex.com/t/711067) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,26 +1119,21 @@
 </summary>
 
 
-- [2020-09-27-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-09-27-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
-- [2020-09-27-Hadoop-框架：单服务下伪分布式集群搭建](https://toutiao.io/k/6lznddm) ![](assets/new.png)  
-- [2020-09-27-深夜，我偷听到程序员要对-session-下手](https://toutiao.io/k/ohe587s) ![](assets/new.png)  
-- [2020-09-27-Android-3-分钟带你入门开发测试](https://toutiao.io/k/6881zrq) ![](assets/new.png)  
-- [2020-09-27-Redis-|-Redis-Pub/Sub-相关命令](https://toutiao.io/k/gldpc3t) ![](assets/new.png)  
-- [2020-09-27-译-原来-9-张图就可以弄懂-Go-内存管理](https://toutiao.io/k/47eqfyx) ![](assets/new.png)  
-- [2020-09-27-一文读懂-Golang-channel](https://toutiao.io/k/bpwbzqf) ![](assets/new.png)  
-- [2020-09-27-特征工程：文本特征处理的四大类主流方法](https://toutiao.io/k/9r2l4u8) ![](assets/new.png)  
-- [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
-- [2020-09-27-Android-开发技术周报-Issue#296](https://toutiao.io/k/hn3x3ql) ![](assets/new.png)  
-- [2020-09-27-Pod-垂直自动伸缩的使用](https://toutiao.io/k/zz7wa8m) ![](assets/new.png)  
-- [2020-09-27-译-LPC-2020-上安卓内核相关讨论](https://toutiao.io/k/86q9gy2) ![](assets/new.png)  
-- [2020-09-27-还在为多张-Excel-汇总统计发愁？Python-秒处理真香](https://toutiao.io/k/otwnf5d) ![](assets/new.png)  
-- [2020-09-27-Go-设计模式（十三）：观察者模式（实现简单的-EventBus）](https://toutiao.io/k/ppo7168) ![](assets/new.png)  
-- [2020-09-27-ECCV-2020-论文大盘点：人脸技术篇](https://toutiao.io/k/6dpgk3o) ![](assets/new.png)  
-- [2020-09-27-如何知道我们的-E2E-测试覆盖率？](https://toutiao.io/k/2qdibbs) ![](assets/new.png)  
-- [2020-09-27-这个-MySQL-优化原理剖析，比照-X-光还清楚](https://toutiao.io/k/u7wqj68) ![](assets/new.png)  
-- [2020-09-27-Elasticsearch-集群搭建的详细步骤](https://toutiao.io/k/ks5ievk) ![](assets/new.png)  
-- [2020-09-27-KDD-Cup-2020-多模态召回比赛季军方案与广告业务应用](https://toutiao.io/k/wekbu5f) ![](assets/new.png)  
+- [2020-09-27-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-27-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
+- [2020-09-27-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
+- [2020-09-27-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
+- [2020-09-27-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
+- [2020-09-27-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-27-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
+- [2020-09-27-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
+- [2020-09-27-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
+- [2020-09-27-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
+- [2020-09-27-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
+- [2020-09-27-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-09-27-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
+- [2020-09-27-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
+- [2020-09-27-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

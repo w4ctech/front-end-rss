@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 18:13:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 18:26:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,5 +40,6 @@
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
 - [2020-09-27-蚂蚁金服技术风险部支付宝-SRE-团队招聘](https://www.v2ex.com/t/711060) 
 - [2020-09-27-上海小红书招聘社区中台高级工程师25-50k](https://www.v2ex.com/t/711049) 
+- [2020-09-27-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
 - [2020-09-27-卧槽,史上超全面Python面试题和详解10个高清PDF,开放下载!](https://sec.thief.one/article_content?a_id=a2e3a3f9312f3dff2301615aa6a1d7a5) 
 - [2020-09-27-美团招聘丨等,-秋天第一个有缘人](https://sec.thief.one/article_content?a_id=54991d445d5c7756a80e017f60469123) 

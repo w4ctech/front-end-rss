@@ -13312,6 +13312,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "以色列新冠肺炎确诊病例超22万 病毒测试结果阳性比率接近15％",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQsAzpY1hZxesHOoqlssI200927&isfromapp=1",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "商务部：克服疫情影响 中国与东盟国家今年前8月经贸合作逆势增长",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLmL0l6rRbONE9LieT2q6200927&isfromapp=1",
+        "date": "2020-09-27"
+      },
+      {
         "title": "澳大利亚维多利亚州防疫措松绑 明日墨尔本取消宵禁",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtincsZataoCTyAheQrAAab200927&isfromapp=1",
         "date": "2020-09-27"
@@ -13325,16 +13335,6 @@
         "title": "浙江26日新增2例境外输入无症状感染者",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEP73kGR3OCa8d3lkle5k200927&isfromapp=1",
         "date": "2020-09-27"
-      },
-      {
-        "title": "国家卫健委：新增确诊病例14例，均为境外输入病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiffR5tcuVEmZLwvRqUIMe200927&isfromapp=1",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "菅义伟：日本决心在明年举办奥运会",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCZ4dbkHV7lyM3ppc7W8k200927&isfromapp=1",
-        "date": "2020-09-26"
       }
     ]
   },
@@ -17257,28 +17257,28 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "面试官：说说Vue组件间通信有哪些方式（总结了6种）",
-        "link": "https://juejin.im/post/6877101934600273934",
+        "title": "企业面试题解（一）- 极光推送",
+        "link": "https://juejin.im/post/6877084918220849159",
         "date": "2020-09-27"
       },
       {
-        "title": "前端异常监控--fundebug",
-        "link": "https://juejin.im/post/6877076249865355277",
+        "title": "前端与客户端通信 -- DSbridge 源码解读",
+        "link": "https://juejin.im/post/6877075960991219720",
         "date": "2020-09-27"
       },
       {
-        "title": "带你快速了解React Hooks",
-        "link": "https://juejin.im/post/6877012518183632910",
+        "title": "「DOM」DOM 事件机制和事件委托",
+        "link": "https://juejin.im/post/6877016876952125453",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "前端ningx常用知识",
+        "link": "https://juejin.im/post/6877012872120303630",
         "date": "2020-09-26"
       },
       {
         "title": "对react hook的一般理解",
         "link": "https://juejin.im/post/6877011192469979144",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "vue动态加载模块require.context",
-        "link": "https://juejin.im/post/6876998292052541447",
         "date": "2020-09-26"
       }
     ]
@@ -17615,6 +17615,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "如果公司不发月饼，你会自己买吗？",
+        "link": "https://www.v2ex.com/t/711024",
+        "date": "2020-09-27"
+      },
       {
         "title": "系统设计常挂面试题",
         "link": "https://www.v2ex.com/t/711023",
@@ -18000,13 +18005,13 @@
         "date": "2020-09-27"
       },
       {
-        "title": "如何知道我们的 E2E 测试覆盖率？",
-        "link": "https://toutiao.io/k/2qdibbs",
+        "title": "ECCV 2020 论文大盘点：人脸技术篇",
+        "link": "https://toutiao.io/k/6dpgk3o",
         "date": "2020-09-27"
       },
       {
-        "title": "ECCV 2020 论文大盘点：人脸技术篇",
-        "link": "https://toutiao.io/k/6dpgk3o",
+        "title": "如何知道我们的 E2E 测试覆盖率？",
+        "link": "https://toutiao.io/k/2qdibbs",
         "date": "2020-09-27"
       },
       {
@@ -18025,53 +18030,8 @@
         "date": "2020-09-27"
       },
       {
-        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
-        "link": "https://toutiao.io/k/rbvgji4",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 硬核看房利器：Web 全景的实现",
-        "link": "https://toutiao.io/k/ihkuhms",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 大写的服，看完这篇你还不懂 RocketMQ 算我输",
-        "link": "https://toutiao.io/k/rhwgf1q",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
-        "link": "https://toutiao.io/k/rd2k0cu",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 谈谈我所认识的分布式锁",
-        "link": "https://toutiao.io/k/oqnmp3h",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
         "date": "2020-09-27"
       },
       {
@@ -18080,8 +18040,33 @@
         "date": "2020-09-27"
       },
       {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
+        "link": "https://toutiao.io/k/h9nal21",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
         "date": "2020-09-27"
       },
       {
@@ -18090,13 +18075,33 @@
         "date": "2020-09-27"
       },
       {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
+        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
+        "link": "https://toutiao.io/k/rbvgji4",
         "date": "2020-09-27"
       },
       {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
+        "title": "[推荐] 谈谈我所认识的分布式锁",
+        "link": "https://toutiao.io/k/oqnmp3h",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
         "date": "2020-09-27"
       }
     ]

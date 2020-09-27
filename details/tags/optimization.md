@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 10:49:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 11:03:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -20,7 +20,6 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-09-21-骚操作：不重启-JVM，如何替换掉已经加载的类？](https://www.ershicimi.com/p/58c7fa2d4632516c5c4438c5fcc93c70) 
-- [2020-09-26-网站极致优化指南-｜与“慢”告别](https://juejin.im/post/6877068601154371592) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-09-27-Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-27-这个-MySQL-优化原理剖析，比照-X-光还清楚](https://toutiao.io/k/u7wqj68) 

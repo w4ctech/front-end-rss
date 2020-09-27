@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 10:49:21，:rocket: 更新条数: +3668， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 11:03:31，:rocket: 更新条数: +3669， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -967,11 +967,11 @@
 </summary>
 
 
-- [2020-09-26-网站极致优化指南-｜与“慢”告别](https://juejin.im/post/6877068601154371592) ![](assets/new.png)  
-- [2020-09-26-浅析vuex的实现原理](https://juejin.im/post/6877067579672756237) ![](assets/new.png)  
-- [2020-09-26-🚩Vue源码——组件是如何注册的](https://juejin.im/post/6877065281097695246) ![](assets/new.png)  
-- [2020-09-26-如何优雅的在react-hook中进行网络请求](https://juejin.im/post/6877062985471229966) ![](assets/new.png)  
-- [2020-09-26-CDN+Vue-Cli优化打包体积引起的对环境变量的迷思](https://juejin.im/post/6877044310798254088) ![](assets/new.png)  
+- [2020-09-27-屏蔽某某网址弹出框](https://juejin.im/post/6877114659023880206) ![](assets/new.png)  
+- [2020-09-27-月底冲业绩，分享一波代理和反射！](https://juejin.im/post/6877109386641162248) ![](assets/new.png)  
+- [2020-09-27-JavaScript中的substring、substr、slice到底有啥区别](https://juejin.im/post/6877074324453982222) ![](assets/new.png)  
+- [2020-09-27-数据可视化之自定义图表插件-饼图，雷达+画像](https://juejin.im/post/6877074203758690317) ![](assets/new.png)  
+- [2020-09-26-怎么给文件生成MD5](https://juejin.im/post/6877072128135561223) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-09-27-今年雨下的这么多，会产生什么影响？](https://www.v2ex.com/t/711031) ![](assets/new.png)  
+- [2020-09-27-前端小白突然想到个问题，想请教一下各位-dalao，-JavaScript-中的-Math.random是如何实现随机数的？用了这么久，好像只知其然，而不知其所以然](https://www.v2ex.com/t/711030) ![](assets/new.png)  
+- [2020-09-27-好奇网上的-CPU-显卡天梯图数据怎么得来的？](https://www.v2ex.com/t/711029) ![](assets/new.png)  
+- [2020-09-27-虾米音乐+网易云音乐-收藏歌单合并+导出](https://www.v2ex.com/t/711028) ![](assets/new.png)  
+- [2020-09-27-微博更新了-发现-iOS-14-是提供了新版照片隐私-选图片的-api-的](https://www.v2ex.com/t/711027) ![](assets/new.png)  
 - [2020-09-27-快捷指令如何衔接上](https://www.v2ex.com/t/711026) ![](assets/new.png)  
 - [2020-09-27-macos-time-machine-恢复系统，有过两次都不成功。](https://www.v2ex.com/t/711025) ![](assets/new.png)  
 - [2020-09-27-如果公司不发月饼，你会自己买吗？](https://www.v2ex.com/t/711024) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-09-27-像我这样的程序员现在应该做什么？](https://www.v2ex.com/t/711010) ![](assets/new.png)  
 - [2020-09-27-登陆-mac-端后-iPhone-微信收不到消息](https://www.v2ex.com/t/711009) ![](assets/new.png)  
 - [2020-09-27-一台-Linux-有公网-IP，怎么方便的访问局域网的-windows-服务器？](https://www.v2ex.com/t/711008) ![](assets/new.png)  
-- [2020-09-27-在-clash-的记录里面经常看到*.blob.core.windows.net-这样的域名无法访问，这个是什么来的](https://www.v2ex.com/t/711005) ![](assets/new.png)  
-- [2020-09-27-为啥这个-iOS-app-可以虚拟物品不走内购？](https://www.v2ex.com/t/711004) ![](assets/new.png)  
-- [2020-09-27-鉴于目前豆瓣的情况，写了个小脚本把读书记录都爬下来先。](https://www.v2ex.com/t/711003) ![](assets/new.png)  
-- [2020-09-27-小白提问：-Git-在实际多人合作中是如何使用的？](https://www.v2ex.com/t/711002) ![](assets/new.png)  
-- [2020-09-27-为什么-goole-的界面看起来这么不简洁？](https://www.v2ex.com/t/711001) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1170,26 +1170,26 @@
 </summary>
 
 
-- [2020-09-26-供应链贪腐案频发,涉大疆等多家行业巨头](https://sec.thief.one/article_content?a_id=31e27601fe69e64e648b0064682a8071) ![](assets/new.png)  
-- [2020-09-26-就在今日!2020-TCTF总决赛云端开战,《脱口秀大会3》冠亚军来助阵](https://sec.thief.one/article_content?a_id=186ad77809a2951c32120d12084a8850) ![](assets/new.png)  
-- [2020-09-26-黑客出手库币被盗,比特币企稳山寨币反弹](https://sec.thief.one/article_content?a_id=33647f9d2581de3228859c759886a8c4) ![](assets/new.png)  
-- [2020-09-26-如何用Python优雅的登录校园网?](https://sec.thief.one/article_content?a_id=e298c055b5c71d31f33a76a2d6811499) ![](assets/new.png)  
-- [2020-09-26-京麒沙龙-|-京东安全博士林元晟:京东智能风险监测实战](https://sec.thief.one/article_content?a_id=e6e3387dbde2f83435d1147f2fa917ef) ![](assets/new.png)  
-- [2020-09-26-Mística:一款支持任意协议的应用程序通信工具](https://sec.thief.one/article_content?a_id=5a1ca2d94d1c5facb7e70b0b5fc7d80b) ![](assets/new.png)  
-- [2020-09-26-【训练营】大师带你使用DCI调试技术,进军软件世界的高寒地带](https://sec.thief.one/article_content?a_id=465a18e54ee5ad7c0cfe0f1214b49c9a) ![](assets/new.png)  
-- [2020-09-26-ICICS-2020-论文录用列表](https://sec.thief.one/article_content?a_id=e332e883b54f8943903a78ad3c201e71) ![](assets/new.png)  
-- [2020-09-26-当打之年!吹响“西湖论剑·2020中国杭州网络安全技能大赛”集结号...](https://sec.thief.one/article_content?a_id=ffcfd4e7adba27b856d7103a5d0ce52e) ![](assets/new.png)  
-- [2020-09-26-欧盟委员会采用针对加密和区块链的数字金融方案](https://sec.thief.one/article_content?a_id=f254bd5b888eadc069795f0d02ecc551) ![](assets/new.png)  
-- [2020-09-26-那些入门级CTF中文件包含考点](https://sec.thief.one/article_content?a_id=fe7036a0962f68f97ce6e7bd8371e69d) ![](assets/new.png)  
-- [2020-09-26-【视频】|-黑客入侵美军事系统,美俄火力交战](https://sec.thief.one/article_content?a_id=69cdd30fa690d0c7a12cadf7191e56cb) ![](assets/new.png)  
-- [2020-09-26-如何根据云服务中提取的数据来推断出用户的位置?](https://sec.thief.one/article_content?a_id=ba7246a7ec3aad73aa8f02410f6620d7) ![](assets/new.png)  
-- [2020-09-26-MiSRC送车了-|-上传小视频即可赢取智能赛车、尤克里里、电动牙刷!](https://sec.thief.one/article_content?a_id=a808ef95051ff19302966ac79e3b146e) ![](assets/new.png)  
-- [2020-09-26-威胁情报专栏|Windows-XP系统和Windows-Server-2003系统源代码遭...](https://sec.thief.one/article_content?a_id=c5bf63d5a86c4d947c8c61e48ad7a5cd) ![](assets/new.png)  
-- [2020-09-26-Windows-XP源代码被曝泄露](https://sec.thief.one/article_content?a_id=0e3e18bfa9cc81fbc2bb570d9a0088a2) ![](assets/new.png)  
-- [2020-09-26-网络安全这条路,怎么走?](https://sec.thief.one/article_content?a_id=458e7a3c0029596104d6b01c63232605) ![](assets/new.png)  
-- [2020-09-26-特别奖励发布!ByteSRC邀你加入双11安全保卫战](https://sec.thief.one/article_content?a_id=bc87a957821f4e6542357bb9267446ad) ![](assets/new.png)  
-- [2020-09-26-区块链作恶](https://sec.thief.one/article_content?a_id=c96a2d659fbde79b2809ef2ba0c220d8) ![](assets/new.png)  
-- [2020-09-26-德国调查人员将致命的医院袭击归咎于俄罗斯DoppelPaymer团伙](https://sec.thief.one/article_content?a_id=f29877fd317157bb76d64ee5579a60b3) ![](assets/new.png)  
+- [2020-09-27-【训练营】对抗安卓恶意App的必备技能,你掌握了吗?](https://sec.thief.one/article_content?a_id=cdc3b3c7c77c43b61d961675d05bea59) ![](assets/new.png)  
+- [2020-09-27-绿盟科技网络安全学院首期CISA认证培训班开授](https://sec.thief.one/article_content?a_id=bc1a64d60bf2c4fdddce7bad00501564) ![](assets/new.png)  
+- [2020-09-27-移动安全五|NDK开发教程_普通和静态字段调用](https://sec.thief.one/article_content?a_id=fbd44ad984b5883f0fc669d040944905) ![](assets/new.png)  
+- [2020-09-27-Cnitch:一款Docker引擎运行进程权限检测工具](https://sec.thief.one/article_content?a_id=6f02fc99e8e71a41d46decf253793828) ![](assets/new.png)  
+- [2020-09-27-光大银行牟健君:威胁情报在银行业的建设方案与实践-|-2020-情报大会...](https://sec.thief.one/article_content?a_id=ab50fd98a62d43854355e5c8013c4227) ![](assets/new.png)  
+- [2020-09-27-CrossC2的2.0版本](https://sec.thief.one/article_content?a_id=7a29e44d536a0eb471c5cc77461b5328) ![](assets/new.png)  
+- [2020-09-27-在看-|-一周网安回顾-2020.9.19~9.26](https://sec.thief.one/article_content?a_id=033d6f2c39e5d260573a96cb167145fa) ![](assets/new.png)  
+- [2020-09-27-庄荣文在2020中国网络媒体论坛开幕式上的致辞全文](https://sec.thief.one/article_content?a_id=7548c1b098f5d15cda91851dec5eab96) ![](assets/new.png)  
+- [2020-09-27-推荐几个优质原创的安全公众号](https://sec.thief.one/article_content?a_id=5aabaa73697c907010b4fff50ac6a5c8) ![](assets/new.png)  
+- [2020-09-27-bitcoiner的集体回忆OpenBazaar或将关闭,10万美元能“救它一命”](https://sec.thief.one/article_content?a_id=4d96be6611bb98ee716b7fb8603359cb) ![](assets/new.png)  
+- [2020-09-27-剑桥研究表明,全球1亿人口正在使用基于加密的资产](https://sec.thief.one/article_content?a_id=252be316c95bfb8fba58b608d4921cac) ![](assets/new.png)  
+- [2020-09-27-CNCERT:上半年我国约7.4万个网站遭篡改,网站安全防护须高度重视](https://sec.thief.one/article_content?a_id=db065a6ba44a2f5efcade07f438a882f) ![](assets/new.png)  
+- [2020-09-27-美团招聘丨等,-秋天第一个有缘人](https://sec.thief.one/article_content?a_id=54991d445d5c7756a80e017f60469123) ![](assets/new.png)  
+- [2020-09-27-疫情下美国人陷入“失业焦虑”,储蓄、投资比特币成新流行](https://sec.thief.one/article_content?a_id=6d0911e387f2a845aaf7037127b40197) ![](assets/new.png)  
+- [2020-09-27-【视频】|-Python:if+else的使用](https://sec.thief.one/article_content?a_id=200e15a0b174fa098f513e1ea89e6191) ![](assets/new.png)  
+- [2020-09-27-面对危机,如何实现削减预算的同时确保安全性?](https://sec.thief.one/article_content?a_id=bbf9c4d134ec12b9500b0c078c3e5b27) ![](assets/new.png)  
+- [2020-09-27-“拔网线”,解决不了安全产品0Day问题](https://sec.thief.one/article_content?a_id=1e331abd32ada26255eaaa701fce7438) ![](assets/new.png)  
+- [2020-09-27-安全众测第三期--单个漏洞奖励高达20w](https://sec.thief.one/article_content?a_id=d9b137ea7ec0e3e996170051915e72d9) ![](assets/new.png)  
+- [2020-09-27-我想成为一名“专业黑客”,有这么难吗?|限时福利,最后一天](https://sec.thief.one/article_content?a_id=14f5c41f528ccd2c65006a1e05ceaa73) ![](assets/new.png)  
+- [2020-09-27-美国网络安全与基础设施安全局CISA网站遭黑客入侵](https://sec.thief.one/article_content?a_id=44c0a6300e529a3b5b6e49570e256497) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 13:12:01，:rocket: 更新条数: +3441， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 13:23:05，:rocket: 更新条数: +3441， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,7 +947,7 @@
 </summary>
 
 
-- [2020-09-27-var-a-=-2-发生了啥？](https://juejin.im/post/6877137705051176974) ![](assets/new.png)  
+- [2020-09-27-编写高质量可维护的代码：一目了然的注释](https://juejin.im/post/6877155538430328845) ![](assets/new.png)  
 - [2020-09-27-js中将多维数组转换成一维数组的方法](https://juejin.im/post/6877133021384802312) ![](assets/new.png)  
 - [2020-09-27-深挖前端-JavaScript-知识点-——-史上最全面、最详细的-Cookie-总结](https://juejin.im/post/6877133657228869639) ![](assets/new.png)  
 - [2020-09-27-【译】Promises/A+-规范](https://juejin.im/post/6877127647017566215) ![](assets/new.png)  
@@ -1057,7 +1057,11 @@
 </summary>
 
 
-- [2020-09-27-自用美区-Spotify，差三人，长期车](https://www.v2ex.com/t/711058) ![](assets/new.png)  
+- [2020-09-27-MIUI-11-开发者选项里，用户自己设置的“最小宽度”数值，是保存在-userdata-分区的哪个文件里的？](https://www.v2ex.com/t/711063) ![](assets/new.png)  
+- [2020-09-27-IOS-如何投屏但不投声至-Mac](https://www.v2ex.com/t/711061) ![](assets/new.png)  
+- [2020-09-27-蚂蚁金服技术风险部支付宝-SRE-团队招聘](https://www.v2ex.com/t/711060) ![](assets/new.png)  
+- [2020-09-27-上海视觉算法工程师](https://www.v2ex.com/t/711059) ![](assets/new.png)  
+- [2020-09-27-自用美区-Spotify,-差三人,-长期车,-季付-55,-TG-@leonp38](https://www.v2ex.com/t/711058) ![](assets/new.png)  
 - [2020-09-27-计算机视觉学习路径是怎么样的？](https://www.v2ex.com/t/711056) ![](assets/new.png)  
 - [2020-09-27-请问-iSCSI-挂载的磁盘可以实现休眠吗？](https://www.v2ex.com/t/711055) ![](assets/new.png)  
 - [2020-09-27-有自动打电话的接口吗？](https://www.v2ex.com/t/711054) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-27-如何“高效地”录制网页里的“在线直播”视频？](https://www.v2ex.com/t/711042) ![](assets/new.png)  
 - [2020-09-27-已经-10-天了,小程序开发者工具-p1-级-bug-还没修复.](https://www.v2ex.com/t/711041) ![](assets/new.png)  
 - [2020-09-27-通过腾讯云轻量+对象存储-cos，搭建-nextcloud-私有云盘。](https://www.v2ex.com/t/711039) ![](assets/new.png)  
-- [2020-09-27-北京杭州-|-阿里钉钉-阿里巴巴钉钉文档团队招聘-前端/-Java-开发工程师-产品设计运营](https://www.v2ex.com/t/711038) ![](assets/new.png)  
-- [2020-09-27-是否能用微信小程序快速搭建交流社区？](https://www.v2ex.com/t/711035) ![](assets/new.png)  
-- [2020-09-27-✨✨✨标星开挂的-admin-框架推荐](https://www.v2ex.com/t/711034) ![](assets/new.png)  
-- [2020-09-27-请教大佬们一个问题~](https://www.v2ex.com/t/711033) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 13:12:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 13:23:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -38,6 +38,7 @@
 - [2020-09-20-字节一面，面试官拿System.out.println考了我半个小时？我懵逼了...](https://www.ershicimi.com/p/a60c0807fe95f9e2aa01df028f0b6bbc) 
 - [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) 
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
+- [2020-09-27-蚂蚁金服技术风险部支付宝-SRE-团队招聘](https://www.v2ex.com/t/711060) 
 - [2020-09-27-上海小红书招聘社区中台高级工程师25-50k](https://www.v2ex.com/t/711049) 
 - [2020-09-27-北京杭州-|-阿里钉钉-阿里巴巴钉钉文档团队招聘-前端/-Java-开发工程师-产品设计运营](https://www.v2ex.com/t/711038) 
 - [2020-09-27-系统设计常挂面试题](https://www.v2ex.com/t/711023) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 23:22:35，:rocket: 更新条数: +3649， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 23:32:31，:rocket: 更新条数: +3650， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-27-世卫组织：全球新冠肺炎新增298773例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0nqwj8RUv26PGLpYBEWe200928&isfromapp=1) ![](assets/new.png)  
+- [2020-09-27-英国至少32所高校出现疫情，超过4000名学生在宿舍隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQb0bZlkEik6hsMsNRvTD200928&isfromapp=1) ![](assets/new.png)  
+- [2020-09-27-罗马尼亚新增新冠肺炎确诊病例1438例，爆发多起群体性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEEYqCSUbdYNqSx3d7xwm200928&isfromapp=1) ![](assets/new.png)  
 - [2020-09-27-出行不必再扫码！亮健康码即可畅行天津](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaBSLY3n3QzH4zVk3iAIW200927&isfromapp=1) ![](assets/new.png)  
 - [2020-09-27-英国《观察家报》民调显示，因抗疫不力英首相约翰逊支持率大跌](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifI7RWre1jHzI4yKMZ7SF200927&isfromapp=1) ![](assets/new.png)  
-- [2020-09-27-圣保罗州住院人数连续下降，巴西圣保罗关闭最后一家方舱医院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEePHMRXADH3hw2copj8Y200927&isfromapp=1) ![](assets/new.png)  
-- [2020-09-27-20-人获刑！云南德宏集中宣判一批中缅边境偷越国境案](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih3Qalhy8BjPBugAljWA4200927&isfromapp=1) ![](assets/new.png)  
-- [2020-09-27-以色列新冠肺炎确诊病例超22万-病毒测试结果阳性比率接近15％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQsAzpY1hZxesHOoqlssI200927&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,21 +1139,22 @@
 </summary>
 
 
-- [2020-09-27-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
-- [2020-09-27-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
-- [2020-09-27-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
-- [2020-09-27-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-27-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
-- [2020-09-27-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
-- [2020-09-27-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
-- [2020-09-27-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
-- [2020-09-27-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
-- [2020-09-27-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
-- [2020-09-27-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-27-华为-18-级工程师十年之作，整整-3625-页互联网大厂面试题合集](https://toutiao.io/k/quakzn8) ![](assets/new.png)  
+- [2020-09-27-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
 - [2020-09-27-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
-- [2020-09-27-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
-- [2020-09-27-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
+- [2020-09-27-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
+- [2020-09-27-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
+- [2020-09-27-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-27-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
 - [2020-09-27-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
+- [2020-09-27-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
+- [2020-09-27-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
+- [2020-09-27-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
+- [2020-09-27-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
+- [2020-09-27-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
+- [2020-09-27-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
+- [2020-09-27-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-09-27-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 03:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 04:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,4 +40,4 @@
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
 - [2020-09-27-社招-新浪集团数据分析平台招聘大数据运维工程师&AIOps-开发工程师，待遇-20-40k](https://www.v2ex.com/t/710864) 
 - [2020-09-27-社招-新浪集团平台架构部高级-DBA-招聘，待遇-25-50k](https://www.v2ex.com/t/710842) 
-- [2020-09-27-亚马逊面试题：安排课程](https://www.v2ex.com/t/710837) 
+- [2020-09-27-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 

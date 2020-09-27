@@ -16131,8 +16131,18 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "再谈ServerPush，Push or Not Push",
-        "link": "https://juejin.im/post/6877063824861167623",
+        "title": "简单聊聊React17-RC.2 新的 JSX 转换逻辑",
+        "link": "https://juejin.im/post/6877068521184952328",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "前端开发中关于金额保留小数的问题",
+        "link": "https://juejin.im/post/6876754864786014215",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "啃下ES6的硬骨头-异步执行的那些事儿",
+        "link": "https://juejin.im/post/6876751240278376455",
         "date": "2020-09-26"
       },
       {
@@ -16143,16 +16153,6 @@
       {
         "title": "小程序无痕埋点",
         "link": "https://juejin.im/post/6876724727327490062",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "虚拟DOM和dom diff",
-        "link": "https://juejin.im/post/6876711874050818061",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "不一样的国际化方案",
-        "link": "https://juejin.im/post/6876710857825484814",
         "date": "2020-09-26"
       }
     ]
@@ -16490,6 +16490,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "UnionPay 的乘车码北京地区有特惠活动",
+        "link": "https://www.v2ex.com/t/710966",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[深圳][15-25k]宝能汽车智能网联研究院招聘中高级前端开发",
+        "link": "https://www.v2ex.com/t/710965",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "京东上架了华硕 TUF3080 + ROG 猛禽 850w 电源的套餐",
+        "link": "https://www.v2ex.com/t/710964",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "分享一个微软 SRE 的面经和 Timeline",
+        "link": "https://www.v2ex.com/t/710962",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "请问有没有一键压缩手机相册里的视频的 APP？",
+        "link": "https://www.v2ex.com/t/710961",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "开放给合作方的网站，如何验证用户身份？",
+        "link": "https://www.v2ex.com/t/710959",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "关于这里的 Tab，节点，如何组织和结构的",
+        "link": "https://www.v2ex.com/t/710958",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "Chrome for Android 搜索栏历史记录",
+        "link": "https://www.v2ex.com/t/710957",
+        "date": "2020-09-27"
+      },
+      {
         "title": "[深圳][宝能汽车集团][智能研究院]Web 前端-15-25k·14 薪",
         "link": "https://www.v2ex.com/t/710956",
         "date": "2020-09-27"
@@ -16648,44 +16688,115 @@
         "title": "Linux 怎么给文件夹添加备注",
         "link": "https://www.v2ex.com/t/710919",
         "date": "2020-09-27"
-      },
-      {
-        "title": "写了一个同步 Github 项目到 Coding 的 action",
-        "link": "https://www.v2ex.com/t/710917",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "IOS/React Native Developer - open job",
-        "link": "https://www.v2ex.com/t/710916",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "QQ 邮箱无法识别伪造发件人的垃圾邮件",
-        "link": "https://www.v2ex.com/t/710912",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "上海、南京、杭州， Java 薪资差距？",
-        "link": "https://www.v2ex.com/t/710910",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "难上难·······",
-        "link": "https://www.v2ex.com/t/710909",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "国庆公测首发 | 支持 API 的连接型智能表格:「vika 维格表 vika.cn」",
-        "link": "https://www.v2ex.com/t/710908",
-        "date": "2020-09-27"
       }
     ]
   },
   {
-    "rss": "https://rss.shab.fun/blogread/newest",
+    "rss": "https://rss.itggg.cn/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "Android 敏感数据泄露引发的思考 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "最全解密微信红包随机算法(含代码实现) (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "Kotlin 正在变得越来越好 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13804&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4JCNz0KJiJiuiABVfpCIzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "Koin in Android: 更简单的依赖注入 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13803&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJmpP3HbyZvebbrTWhGiPVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "19 个接私活平台汇总，你有技术就有钱 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13802&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuSxfEP1cVRpaNwtF2gmtfw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "开发者日常 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13801&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6fD5AFnULw-utmhDbX-WkA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "Linus：我们都老了，但 Linux 维护后继无人 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13800&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhKZnVytfARTqh0ix33R-wg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "一款 GitHub 代码泄露监控系统，为企业安全保驾护航！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "计算机网络基础知识总结 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13798&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fc2glZ6ouef0aDAdHB1yBFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "IntelliJ IDEA 2020.2 EAP 5 发布：完美支持Java 15 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13797&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLBYpAXK7lr60ZCoM2cgnNQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "微软、亚马逊、IBM主动禁售人脸识别，为什么？ (www.huxiu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13796&url=https%3A%2F%2Fwww.huxiu.com%2Farticle%2F380148.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "OKR是新时代的KPI吗？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13795&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fokr-vs-kpi%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "职场常备的 TOP 20 AI 产品工具 (www.jeffjade.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13794&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F09%2F23%2F170-list-of-top-20-ai-product-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "如何选择适合自己网站的防盗链 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13793&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F258380316%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "如何知道我们的E2E测试覆盖率？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13792&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-know-e2e-coverage%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "如何产出规范、安全、高质量的代码？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "Glide 加载 Gif 的卡顿优化思路分析 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "是时候提高你撸 RecycleView 的效率了 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "Android 记一次解决问题的过程 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13788&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjY3qmLgW0iWa8HYAjjpJyw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "kotlin 如何解决 java 开发痛点，让程序员 happier (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-09-27"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/toutiao/today",
@@ -16723,13 +16834,13 @@
         "date": "2020-09-27"
       },
       {
-        "title": "特征工程：文本特征处理的四大类主流方法",
-        "link": "https://toutiao.io/k/9r2l4u8",
+        "title": "Redis | Redis Pub/Sub 相关命令",
+        "link": "https://toutiao.io/k/gldpc3t",
         "date": "2020-09-27"
       },
       {
-        "title": "Redis | Redis Pub/Sub 相关命令",
-        "link": "https://toutiao.io/k/gldpc3t",
+        "title": "特征工程：文本特征处理的四大类主流方法",
+        "link": "https://toutiao.io/k/9r2l4u8",
         "date": "2020-09-27"
       },
       {
@@ -16778,8 +16889,8 @@
         "date": "2020-09-27"
       },
       {
-        "title": "KDD Cup 2020 多模态召回比赛季军方案与广告业务应用",
-        "link": "https://toutiao.io/k/wekbu5f",
+        "title": "Elasticsearch 集群搭建的详细步骤",
+        "link": "https://toutiao.io/k/ks5ievk",
         "date": "2020-09-27"
       },
       {
@@ -16788,23 +16899,8 @@
         "date": "2020-09-27"
       },
       {
-        "title": "Elasticsearch 集群搭建的详细步骤",
-        "link": "https://toutiao.io/k/ks5ievk",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 大写的服，看完这篇你还不懂 RocketMQ 算我输",
-        "link": "https://toutiao.io/k/rhwgf1q",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
+        "title": "KDD Cup 2020 多模态召回比赛季军方案与广告业务应用",
+        "link": "https://toutiao.io/k/wekbu5f",
         "date": "2020-09-27"
       },
       {
@@ -16813,33 +16909,13 @@
         "date": "2020-09-27"
       },
       {
+        "title": "[推荐] 大写的服，看完这篇你还不懂 RocketMQ 算我输",
+        "link": "https://toutiao.io/k/rhwgf1q",
+        "date": "2020-09-27"
+      },
+      {
         "title": "[推荐] 项目管理标准模板",
         "link": "https://toutiao.io/k/aud21gw",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] Go 如何实现热重启",
-        "link": "https://toutiao.io/k/cxttrqv",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 解密 Go 协程的栈内存管理",
-        "link": "https://toutiao.io/k/fkrobd3",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "[推荐] 同城双活与异地多活架构分析",
-        "link": "https://toutiao.io/k/e1eh64z",
         "date": "2020-09-27"
       },
       {
@@ -16848,8 +16924,13 @@
         "date": "2020-09-27"
       },
       {
-        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
-        "link": "https://toutiao.io/k/h9nal21",
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
         "date": "2020-09-27"
       },
       {
@@ -16858,13 +16939,43 @@
         "date": "2020-09-27"
       },
       {
+        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
+        "link": "https://toutiao.io/k/zu9e79n",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
+        "link": "https://toutiao.io/k/h9nal21",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
+        "link": "https://toutiao.io/k/rd2k0cu",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] 同城双活与异地多活架构分析",
+        "link": "https://toutiao.io/k/e1eh64z",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "[推荐] Go 如何实现热重启",
+        "link": "https://toutiao.io/k/cxttrqv",
+        "date": "2020-09-27"
+      },
+      {
         "title": "[推荐] 谈谈我所认识的分布式锁",
         "link": "https://toutiao.io/k/oqnmp3h",
         "date": "2020-09-27"
       },
       {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
         "date": "2020-09-27"
       }
     ]

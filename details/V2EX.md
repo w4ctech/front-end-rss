@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-27 19:22:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 19:32:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-27-求助：-MacbookPro17-显示颜色泛白，重启多次，-reset-NVRAM-多次，没有效果。](https://www.v2ex.com/t/711098) 
 - [2020-09-27-iPhone-倒计时-bug,-看似小,但是可以造成大问题](https://www.v2ex.com/t/711097) 
 - [2020-09-27-macOS-10.15.7-中-Airdrop-接收文件速度特别慢](https://www.v2ex.com/t/711095) 
 - [2020-09-27-请问-SpringBoot-中是让哪个类去处理-@EnableConfigurationProperties-的类的（实例）的？](https://www.v2ex.com/t/711094) 

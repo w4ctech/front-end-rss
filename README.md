@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 14:03:47，:rocket: 更新条数: +3667， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 14:13:07，:rocket: 更新条数: +3667， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-27-小遮罩---两行代码让网页内容付费可见](https://www.v2ex.com/t/711076) ![](assets/new.png)  
+- [2020-09-27-有点意思，虎牙直播的弹幕-在指定内容上时会自动透明](https://www.v2ex.com/t/711075) ![](assets/new.png)  
+- [2020-09-27-招了-10-个人，我负责其中两个人，只能留一个，怎么决定去留？](https://www.v2ex.com/t/711074) ![](assets/new.png)  
 - [2020-09-27-有没有懂电脑的同学？-win10-系统无法正常关机](https://www.v2ex.com/t/711073) ![](assets/new.png)  
 - [2020-09-27-新买一个月的-Macbook-Air-电池健康掉到-97%正常吗？](https://www.v2ex.com/t/711072) ![](assets/new.png)  
 - [2020-09-27-想问下旧金山有没有靠谱的回国快递](https://www.v2ex.com/t/711070) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-09-27-请问-iSCSI-挂载的磁盘可以实现休眠吗？](https://www.v2ex.com/t/711055) ![](assets/new.png)  
 - [2020-09-27-有自动打电话的接口吗？](https://www.v2ex.com/t/711054) ![](assets/new.png)  
 - [2020-09-27-苹果耳机通过京东售后维修后，给换了设备，但保修期少了一个月](https://www.v2ex.com/t/711053) ![](assets/new.png)  
-- [2020-09-27-澳门的-Xperia-手机和港版是一样的吗？](https://www.v2ex.com/t/711052) ![](assets/new.png)  
-- [2020-09-27-求推荐电信千兆/万兆光猫，送的只有一个千兆-LAN-口，而且弱电箱空间不够再加一个路由器](https://www.v2ex.com/t/711051) ![](assets/new.png)  
-- [2020-09-27-关于虚拟内存的问题](https://www.v2ex.com/t/711050) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

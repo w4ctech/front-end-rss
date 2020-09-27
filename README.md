@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 04:49:16，:rocket: 更新条数: +3438， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 05:03:41，:rocket: 更新条数: +3440， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-27-单表千万级,-要根据各种查询得到-ID-集合;-已经建立了各种索引,-速度还是慢](https://www.v2ex.com/t/710903) ![](assets/new.png)  
+- [2020-09-27-上海-5G-覆盖和速度咋样？](https://www.v2ex.com/t/710902) ![](assets/new.png)  
+- [2020-09-27-iCloud-文件丢失](https://www.v2ex.com/t/710901) ![](assets/new.png)  
+- [2020-09-27-是有人和我一样守着第-509999-号会员的位置吗](https://www.v2ex.com/t/710900) ![](assets/new.png)  
 - [2020-09-27-macbook-pro-13-2018，-16G-512G-，-9.5-成新，能卖多少钱？](https://www.v2ex.com/t/710897) ![](assets/new.png)  
 - [2020-09-27-升级了-macOS-10.15.7-之后外接的显示器不亮了。。。](https://www.v2ex.com/t/710896) ![](assets/new.png)  
 - [2020-09-27-分享一个油管视频下载工具（欢迎试用）](https://www.v2ex.com/t/710892) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-27-通过腾讯云轻量+对象存储-cos，搭建-nextcloud-私有云盘](https://www.v2ex.com/t/710878) ![](assets/new.png)  
 - [2020-09-27-不确定消息真实性，明年上半年可能有-iPhone-SE-plus](https://www.v2ex.com/t/710877) ![](assets/new.png)  
 - [2020-09-27-阿里云-DTS，迁移速度超级慢](https://www.v2ex.com/t/710876) ![](assets/new.png)  
-- [2020-09-27-A-页面打开-B-博客-URL,如何判断-B-博客是否登录](https://www.v2ex.com/t/710875) ![](assets/new.png)  
-- [2020-09-27-南京什么东西那么香，这几天户外感觉泡在香薰里](https://www.v2ex.com/t/710874) ![](assets/new.png)  
-- [2020-09-27-深圳-字节跳动-前端-效率平台-招人啦~](https://www.v2ex.com/t/710873) ![](assets/new.png)  
-- [2020-09-27-替代逝去的亲人，和你通话/聊天等等的服务，以后会出现么？](https://www.v2ex.com/t/710872) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,13 +1125,13 @@
 - [2020-09-27-深夜，我偷听到程序员要对-session-下手](https://toutiao.io/k/ohe587s) ![](assets/new.png)  
 - [2020-09-27-译-原来-9-张图就可以弄懂-Go-内存管理](https://toutiao.io/k/47eqfyx) ![](assets/new.png)  
 - [2020-09-27-特征工程：文本特征处理的四大类主流方法](https://toutiao.io/k/9r2l4u8) ![](assets/new.png)  
-- [2020-09-27-Android-开发技术周报-Issue#296](https://toutiao.io/k/hn3x3ql) ![](assets/new.png)  
 - [2020-09-27-Android-3-分钟带你入门开发测试](https://toutiao.io/k/6881zrq) ![](assets/new.png)  
+- [2020-09-27-Android-开发技术周报-Issue#296](https://toutiao.io/k/hn3x3ql) ![](assets/new.png)  
 - [2020-09-27-一文读懂-golang-channel](https://toutiao.io/k/bpwbzqf) ![](assets/new.png)  
 - [2020-09-27-译-LPC-2020-上安卓内核相关讨论](https://toutiao.io/k/86q9gy2) ![](assets/new.png)  
-- [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
 - [2020-09-27-Pod-垂直自动伸缩的使用](https://toutiao.io/k/zz7wa8m) ![](assets/new.png)  
 - [2020-09-27-Redis-|-Redis-Pub/Sub-相关命令](https://toutiao.io/k/gldpc3t) ![](assets/new.png)  
+- [2020-09-27-给-JDK-报了一个-P4-的-Bug，结果居然……](https://toutiao.io/k/1azgj8y) ![](assets/new.png)  
 - [2020-09-27-还在为多张-Excel-汇总统计发愁？Python-秒处理真香](https://toutiao.io/k/otwnf5d) ![](assets/new.png)  
 - [2020-09-27-Go-设计模式（十三）：观察者模式（实现简单的-EventBus）](https://toutiao.io/k/ppo7168) ![](assets/new.png)  
 - [2020-09-27-如何知道我们的-E2E-测试覆盖率？](https://toutiao.io/k/2qdibbs) ![](assets/new.png)  

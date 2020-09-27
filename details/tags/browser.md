@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 12:47:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 13:03:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,14 +28,13 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-25-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/4813363bd7395275267f50297dbd08d6) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
-- [2020-09-27-深入了解-rc-field-form](https://juejin.im/post/6877137890968535054) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-09-27-字节跳动安全与风控大量岗位内推](https://www.v2ex.com/t/711016) 
 - [2020-09-27-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-27-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-27-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-27-kotlin-如何解决-java-开发痛点，让程序员-happier-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-09-27-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) 
+- [2020-09-27-奇安信代码安全实验室协助RedHat修复漏洞-获官方致谢](https://sec.thief.one/article_content?a_id=34fb16cafb757a18ffecbe71efc385ce) 
 - [2020-09-27-绿盟科技网络安全学院首期CISA认证培训班开授](https://sec.thief.one/article_content?a_id=bc1a64d60bf2c4fdddce7bad00501564) 
 - [2020-09-27-移动安全五|NDK开发教程_普通和静态字段调用](https://sec.thief.one/article_content?a_id=fbd44ad984b5883f0fc669d040944905) 
 - [2020-09-27-推荐几个优质原创的安全公众号](https://sec.thief.one/article_content?a_id=5aabaa73697c907010b4fff50ac6a5c8) 
@@ -60,7 +59,3 @@
 - [2020-09-25-手机信息安全有多重要?|-知道](https://sec.thief.one/article_content?a_id=d0295d6eec58aad5018b14bee4a9a93f) 
 - [2020-09-25-正式发布!12家SRC邀你加入双11安全保卫战](https://sec.thief.one/article_content?a_id=06d6c337bf57d4282fc28a4ad8e513b4) 
 - [2020-09-25-美国网络安全与基础设施安全局CISA网站遭黑客入侵](https://sec.thief.one/article_content?a_id=1666bc2ccd8381a36f0146f168de4f56) 
-- [2020-09-25-浏览器指纹:原来我们一直被互联网巨头监视,隐私在网上裸奔、无处...](https://sec.thief.one/article_content?a_id=6c7e603d7e9df9d42a0bcc9073cab677) 
-- [2020-09-25-安恒信息安全运营中心威胁情报总结-DAY13](https://sec.thief.one/article_content?a_id=2718e326bb6730dd7f6b53759c0408af) 
-- [2020-09-24-WebSphere-Application-Server高危安全漏洞风险提示](https://sec.thief.one/article_content?a_id=6e535c0f72749795d0313b0ff52a283c) 
-- [2020-09-24-新华三给网络安全“武器”装上了“瞄准镜”](https://sec.thief.one/article_content?a_id=74ae77143a99f138c897bd0da7591d9b) 

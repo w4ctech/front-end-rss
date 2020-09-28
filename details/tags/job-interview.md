@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 04:03:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 04:13:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -38,6 +38,7 @@
 - [2020-09-20-字节一面，面试官拿System.out.println考了我半个小时？我懵逼了...](https://www.ershicimi.com/p/a60c0807fe95f9e2aa01df028f0b6bbc) 
 - [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) 
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
+- [2020-09-28-灵均投资-招聘|初级量化研究员（股票）](https://www.v2ex.com/t/711210) 
 - [2020-09-28-华为-18-级工程师十年之作，整整-3625-页互联网大厂面试题合集](https://toutiao.io/k/quakzn8) 
 - [2020-09-28-面试官：兄弟，说说-ArrayList-和-LinkedList-有什么区别](https://toutiao.io/k/0xofen5) 
 - [2020-09-28-面试：谈谈你对-MyBatis-执行过程之-SQL-执行过程理解](https://toutiao.io/k/e9hzrqq) 

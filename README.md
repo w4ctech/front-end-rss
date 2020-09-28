@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 04:03:57，:rocket: 更新条数: +3666， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 04:13:47，:rocket: 更新条数: +3655， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,11 +957,11 @@
 </summary>
 
 
-- [2020-09-27-小程序性能优化三板斧](https://juejin.im/post/6877362619628388365) ![](assets/new.png)  
-- [2020-09-27-一篇搞定前端高频手撕算法题（36道）](https://juejin.im/post/6877179322759643150) ![](assets/new.png)  
-- [2020-09-27-vue源码解析之props原理](https://juejin.im/post/6877143195840544776) ![](assets/new.png)  
-- [2020-09-27-【源码篇：总结与思考】虚拟节点与DOM-Diff算法源码实现](https://juejin.im/post/6877142396967223304) ![](assets/new.png)  
-- [2020-09-27-是-jsv-而不是-jsx：这可能是尤雨溪更想要的vue代码编写方式](https://juejin.im/post/6877137483067637773) ![](assets/new.png)  
+- [2020-09-27-聊一聊Chrome下V8引擎的垃圾回收机制](https://juejin.im/post/6877164913286971405) ![](assets/new.png)  
+- [2020-09-27-从0开始canvas系列二-----文本和图像](https://juejin.im/post/6877164274817597447) ![](assets/new.png)  
+- [2020-09-27-vue源码解析之data原理](https://juejin.im/post/6877157758169448461) ![](assets/new.png)  
+- [2020-09-27-VueX](https://juejin.im/post/6877157511716143117) ![](assets/new.png)  
+- [2020-09-27-简单重叠实心多边形的交集/并集计算](https://juejin.im/post/6877157317880741902) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1067,7 @@
 </summary>
 
 
+- [2020-09-28-灵均投资-招聘|初级量化研究员（股票）](https://www.v2ex.com/t/711210) ![](assets/new.png)  
 - [2020-09-28-pythonic-语法请教](https://www.v2ex.com/t/711205) ![](assets/new.png)  
 - [2020-09-28-小弟开发的在线网课系统，码云和-github-都已发布，欢迎吐槽评论](https://www.v2ex.com/t/711204) ![](assets/new.png)  
 - [2020-09-28-mysql-表设计/慢查询求解，详细场景见正文](https://www.v2ex.com/t/711203) ![](assets/new.png)  
@@ -1096,7 +1087,6 @@
 - [2020-09-28-100w-现金买地盖学生公寓-or-提前还房贷](https://www.v2ex.com/t/711184) ![](assets/new.png)  
 - [2020-09-28-广州地区有小猫转送或售卖的小伙伴吗？](https://www.v2ex.com/t/711181) ![](assets/new.png)  
 - [2020-09-28-深圳-|-腾讯-高级前端工程师（TypeScript-/-React-/-Node.js）](https://www.v2ex.com/t/711180) ![](assets/new.png)  
-- [2020-09-28-刚买了阿里云服务器，如果要部署爬虫，需要装哪些？-服务器小白一枚-](https://www.v2ex.com/t/711179) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,9 +1131,9 @@
 
 - [2020-09-28-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
 - [2020-09-28-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) ![](assets/new.png)  
+- [2020-09-28-2020-开发人员生态系统现状](https://toutiao.io/k/2nei5pd) ![](assets/new.png)  
 - [2020-09-28-一文领略-HTTP-的前世今生](https://toutiao.io/k/x8q4huu) ![](assets/new.png)  
 - [2020-09-28-华为-18-级工程师十年之作，整整-3625-页互联网大厂面试题合集](https://toutiao.io/k/quakzn8) ![](assets/new.png)  
-- [2020-09-28-2020-开发人员生态系统现状](https://toutiao.io/k/2nei5pd) ![](assets/new.png)  
 - [2020-09-28-手写一个-Flutter-State-Widget，来让你彻底理解-State-的来龙去脉](https://toutiao.io/k/9e26wxn) ![](assets/new.png)  
 - [2020-09-28-面试官：兄弟，说说-ArrayList-和-LinkedList-有什么区别](https://toutiao.io/k/0xofen5) ![](assets/new.png)  
 - [2020-09-28-Kubernetes-Ingress-入门指南和实践练习](https://toutiao.io/k/8dpctvj) ![](assets/new.png)  

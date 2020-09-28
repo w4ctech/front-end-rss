@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 04:49:20，:rocket: 更新条数: +3665， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 05:03:52，:rocket: 更新条数: +3664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-09-28-两年经验找工作好难啊，唉](https://www.v2ex.com/t/711222) ![](assets/new.png)  
+- [2020-09-28-打算了解下代码，求建议-16-年毕业，机械专业，转行跨境电商](https://www.v2ex.com/t/711220) ![](assets/new.png)  
+- [2020-09-28-指定视频画面马赛克](https://www.v2ex.com/t/711219) ![](assets/new.png)  
 - [2020-09-28-windows-下一个很奇怪的现象](https://www.v2ex.com/t/711217) ![](assets/new.png)  
 - [2020-09-28-正在做的一个-V2EX-插件，看看有需要的没](https://www.v2ex.com/t/711216) ![](assets/new.png)  
 - [2020-09-28-开源分享-一个跨平台的网络媒体聚合应用](https://www.v2ex.com/t/711215) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-09-28-万事俱备只欠内网穿透，有好用的内网穿透软件吗？-win+mac-都好用那种](https://www.v2ex.com/t/711196) ![](assets/new.png)  
 - [2020-09-28-头真的都挠秃了，向各位大佬求个思路-。](https://www.v2ex.com/t/711195) ![](assets/new.png)  
 - [2020-09-28-Mybatis-整合-PgSQL-时使用‘@>’运算符的问题](https://www.v2ex.com/t/711194) ![](assets/new.png)  
-- [2020-09-28-公司网络设置为一段时间不用就自动注销，避免断网如何操作？](https://www.v2ex.com/t/711193) ![](assets/new.png)  
-- [2020-09-28-急招深圳-腾讯总部-高级-Android-开发工程师-25-50k*16（免笔试）](https://www.v2ex.com/t/711192) ![](assets/new.png)  
-- [2020-09-28-求助-iOS-相机大佬：如何高效低耗获取后置镜头两路不同分辨率的视频流输出？](https://www.v2ex.com/t/711191) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,8 +1143,8 @@
 - [2020-09-28-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) ![](assets/new.png)  
 - [2020-09-28-2020-开发人员生态系统现状](https://toutiao.io/k/2nei5pd) ![](assets/new.png)  
 - [2020-09-28-一文领略-HTTP-的前世今生](https://toutiao.io/k/x8q4huu) ![](assets/new.png)  
-- [2020-09-28-华为-18-级工程师十年之作，整整-3625-页互联网大厂面试题合集](https://toutiao.io/k/quakzn8) ![](assets/new.png)  
 - [2020-09-28-手写一个-Flutter-State-Widget，来让你彻底理解-State-的来龙去脉](https://toutiao.io/k/9e26wxn) ![](assets/new.png)  
+- [2020-09-28-华为-18-级工程师十年之作，整整-3625-页互联网大厂面试题合集](https://toutiao.io/k/quakzn8) ![](assets/new.png)  
 - [2020-09-28-面试官：兄弟，说说-ArrayList-和-LinkedList-有什么区别](https://toutiao.io/k/0xofen5) ![](assets/new.png)  
 - [2020-09-28-Kubernetes-Ingress-入门指南和实践练习](https://toutiao.io/k/8dpctvj) ![](assets/new.png)  
 - [2020-09-28-OKR-是新时代的-KPI-吗？](https://toutiao.io/k/hzy4fxu) ![](assets/new.png)  
@@ -1156,8 +1156,8 @@
 - [2020-09-28-Cilium:-CNI-create-network-图文详解-2020](https://toutiao.io/k/k8uahrc) ![](assets/new.png)  
 - [2020-09-28-面试：谈谈你对-MyBatis-执行过程之-SQL-执行过程理解](https://toutiao.io/k/e9hzrqq) ![](assets/new.png)  
 - [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) ![](assets/new.png)  
-- [2020-09-28-前端需要掌握的设计模式](https://toutiao.io/k/6l8m339) ![](assets/new.png)  
 - [2020-09-28-敏捷项目中的项目管理如何做？](https://toutiao.io/k/2xxfs2s) ![](assets/new.png)  
+- [2020-09-28-前端需要掌握的设计模式](https://toutiao.io/k/6l8m339) ![](assets/new.png)  
 - [2020-09-28-LeetCode-66：加一](https://toutiao.io/k/whwkl7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

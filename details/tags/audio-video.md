@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 04:49:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 05:03:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,6 +88,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-09-28-指定视频画面马赛克](https://www.v2ex.com/t/711219) 
 - [2020-09-28-求助-iOS-相机大佬：如何高效低耗获取后置镜头两路不同分辨率的视频流输出？](https://www.v2ex.com/t/711191) 
 - [2020-09-27-【视频】|-Python:if+else的使用](https://sec.thief.one/article_content?a_id=200e15a0b174fa098f513e1ea89e6191) 
 - [2020-09-26-【视频】|-黑客入侵美军事系统,美俄火力交战](https://sec.thief.one/article_content?a_id=69cdd30fa690d0c7a12cadf7191e56cb) 

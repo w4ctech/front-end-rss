@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 14:25:49，:rocket: 更新条数: +3444， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 14:32:41，:rocket: 更新条数: +3443， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-28-苹果官方-Swift-和-SwiftUI-的使用率统计](https://www.v2ex.com/t/711392) ![](assets/new.png)  
 - [2020-09-28-求推荐云端的-saas-笔记软件](https://www.v2ex.com/t/711391) ![](assets/new.png)  
 - [2020-09-28-第四期德国-IT-岗位招聘之-Salesforce-Administrator,-ERP-computer-scientist,-iOS/Android-software-developer](https://www.v2ex.com/t/711389) ![](assets/new.png)  
 - [2020-09-28-iOS14-更新了，我觉得苹果这个翻译-APP-不是很好用](https://www.v2ex.com/t/711388) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-28-上海有哪些地方适合周末抱着电脑去写代码，大佬们周末休息时间一般去哪写代码呢](https://www.v2ex.com/t/711372) ![](assets/new.png)  
 - [2020-09-28-gormt-mysql-数据库转换工具-支持-grom-v2-版本了](https://www.v2ex.com/t/711370) ![](assets/new.png)  
 - [2020-09-28-还有哪些抓包工具可以像-Fiddle-一样解包-TLS-数据啊](https://www.v2ex.com/t/711368) ![](assets/new.png)  
-- [2020-09-28-加拿大/美国的-V2ER-们，坚果云速度如何？](https://www.v2ex.com/t/711367) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

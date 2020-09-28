@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-28 13:12:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 13:23:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-28-macOS-BigSur-下黑苹果-Karabiner-不可用的代替方案](https://www.v2ex.com/t/711381) 
+- [2020-09-28-Thoughts-Bookmarklet-不限期内测开启，代号-Debug！](https://www.v2ex.com/t/711380) 
 - [2020-09-28-SEO-还有机会吗？](https://www.v2ex.com/t/711379) 
 - [2020-09-28-Google-Play-购买游戏安装后卸载会触发自动退款？](https://www.v2ex.com/t/711378) 
 - [2020-09-28-椎间盘突出](https://www.v2ex.com/t/711377) 
@@ -44,5 +46,3 @@
 - [2020-09-28-求推荐：前端有哪些小而美的轮子](https://www.v2ex.com/t/711334) 
 - [2020-09-28-10-月-24-日一起玩云原生应用架构最佳实践-杭州站正在报名中，到场礼品+好吃的茶歇](https://www.v2ex.com/t/711333) 
 - [2020-09-28-越狱过的-iphonex-无法通过-ota-更新系统](https://www.v2ex.com/t/711332) 
-- [2020-09-28-在官网注册-apple-id-邮箱接收不到验证码是什么情况？](https://www.v2ex.com/t/711331) 
-- [2020-09-28-不知道大家的-MBP-18-款有没有遇到显示屏发蓝的问题](https://www.v2ex.com/t/711330) 

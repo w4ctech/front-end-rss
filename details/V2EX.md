@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-09-28 14:35:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 14:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-28-写字不好看怎么破？](https://www.v2ex.com/t/711402) 
+- [2020-09-28-ventory（https://www.ventoy.net/cn/index.html）无法启动-PE，为什么？](https://www.v2ex.com/t/711401) 
+- [2020-09-28-不懂就问：大家知道深圳的公积金可以线上办理月提吗？](https://www.v2ex.com/t/711399) 
+- [2020-09-28-tornado-异步非阻塞求解救](https://www.v2ex.com/t/711398) 
+- [2020-09-28-现在哪里可以线上申请个体户呢?](https://www.v2ex.com/t/711396) 
 - [2020-09-28-苹果官方-Swift-和-SwiftUI-的使用率统计](https://www.v2ex.com/t/711392) 
 - [2020-09-28-求推荐云端的-saas-笔记软件](https://www.v2ex.com/t/711391) 
 - [2020-09-28-第四期德国-IT-岗位招聘之-Salesforce-Administrator,-ERP-computer-scientist,-iOS/Android-software-developer](https://www.v2ex.com/t/711389) 
@@ -36,11 +41,3 @@
 - [2020-09-28-有没有自建类似-Raindrop\pinbox-的稍后阅读服务的方案推荐？](https://www.v2ex.com/t/711355) 
 - [2020-09-28-“天际线，群星这类多核优化不好的游戏，同价位选-intel-别选-amd”这个说法现在还成立吗？](https://www.v2ex.com/t/711354) 
 - [2020-09-28-Safari-安装了一个看-Json-的插件，然后-Teambition-就炸了](https://www.v2ex.com/t/711353) 
-- [2020-09-28-现在的公众号还能爬到信息吗](https://www.v2ex.com/t/711351) 
-- [2020-09-28-PDD-二血也送出了](https://www.v2ex.com/t/711350) 
-- [2020-09-28-系统设计公开课-国内一线大厂架构师详解秒杀系统&订票系统](https://www.v2ex.com/t/711349) 
-- [2020-09-28-b-站大会员优惠终于来了](https://www.v2ex.com/t/711348) 
-- [2020-09-28-国内有类似-Vercel-的平台吗？](https://www.v2ex.com/t/711347) 
-- [2020-09-28-音乐播放器的悬浮插件](https://www.v2ex.com/t/711346) 
-- [2020-09-28-在苹果官网注册-apple-id-时，邮箱接收不到验证码是什么情况？](https://www.v2ex.com/t/711345) 
-- [2020-09-28-有哪些关于软件-UI-设计的入门书籍](https://www.v2ex.com/t/711344) 

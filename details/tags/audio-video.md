@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 14:35:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 14:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,7 +88,6 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-09-28-音乐播放器的悬浮插件](https://www.v2ex.com/t/711346) 
 - [2020-09-28-黑客从KuCoin交易所窃取了超过1.5亿美元的加密货币附视频](https://sec.thief.one/article_content?a_id=cf3fe10c31b6939f1cac497671e9ce0d) 
 - [2020-09-27-【视频】|-Python:if+else的使用](https://sec.thief.one/article_content?a_id=200e15a0b174fa098f513e1ea89e6191) 
 - [2020-09-26-【视频】|-黑客入侵美军事系统,美俄火力交战](https://sec.thief.one/article_content?a_id=69cdd30fa690d0c7a12cadf7191e56cb) 

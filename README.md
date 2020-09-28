@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 14:35:32，:rocket: 更新条数: +3669， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 14:47:12，:rocket: 更新条数: +3666， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-09-28-写字不好看怎么破？](https://www.v2ex.com/t/711402) ![](assets/new.png)  
+- [2020-09-28-ventory（https://www.ventoy.net/cn/index.html）无法启动-PE，为什么？](https://www.v2ex.com/t/711401) ![](assets/new.png)  
+- [2020-09-28-不懂就问：大家知道深圳的公积金可以线上办理月提吗？](https://www.v2ex.com/t/711399) ![](assets/new.png)  
+- [2020-09-28-tornado-异步非阻塞求解救](https://www.v2ex.com/t/711398) ![](assets/new.png)  
+- [2020-09-28-现在哪里可以线上申请个体户呢?](https://www.v2ex.com/t/711396) ![](assets/new.png)  
 - [2020-09-28-苹果官方-Swift-和-SwiftUI-的使用率统计](https://www.v2ex.com/t/711392) ![](assets/new.png)  
 - [2020-09-28-求推荐云端的-saas-笔记软件](https://www.v2ex.com/t/711391) ![](assets/new.png)  
 - [2020-09-28-第四期德国-IT-岗位招聘之-Salesforce-Administrator,-ERP-computer-scientist,-iOS/Android-software-developer](https://www.v2ex.com/t/711389) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-09-28-Google-Play-购买游戏安装后卸载会触发自动退款？](https://www.v2ex.com/t/711378) ![](assets/new.png)  
 - [2020-09-28-椎间盘突出](https://www.v2ex.com/t/711377) ![](assets/new.png)  
 - [2020-09-28-有没有人做一个发福的应用](https://www.v2ex.com/t/711376) ![](assets/new.png)  
-- [2020-09-28-国外服务器和域名哪家强](https://www.v2ex.com/t/711374) ![](assets/new.png)  
-- [2020-09-28-macos-修改-hosts-后，浏览器不会立刻生效的问题](https://www.v2ex.com/t/711373) ![](assets/new.png)  
-- [2020-09-28-上海有哪些地方适合周末抱着电脑去写代码，大佬们周末休息时间一般去哪写代码呢](https://www.v2ex.com/t/711372) ![](assets/new.png)  
-- [2020-09-28-gormt-mysql-数据库转换工具-支持-grom-v2-版本了](https://www.v2ex.com/t/711370) ![](assets/new.png)  
-- [2020-09-28-还有哪些抓包工具可以像-Fiddle-一样解包-TLS-数据啊](https://www.v2ex.com/t/711368) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1153,8 +1153,8 @@
 - [2020-09-28-Istio-Pilot-源码分析（二）](https://toutiao.io/k/6jpr0e8) ![](assets/new.png)  
 - [2020-09-28-Gin-学习之自定义服务器配置信息](https://toutiao.io/k/pf8uwpx) ![](assets/new.png)  
 - [2020-09-28-译-Prettier-插件开发文档](https://toutiao.io/k/yc240tb) ![](assets/new.png)  
-- [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) ![](assets/new.png)  
 - [2020-09-28-面试：谈谈你对-MyBatis-执行过程之-SQL-执行过程理解](https://toutiao.io/k/e9hzrqq) ![](assets/new.png)  
+- [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) ![](assets/new.png)  
 - [2020-09-28-前端需要掌握的设计模式](https://toutiao.io/k/6l8m339) ![](assets/new.png)  
 - [2020-09-28-Cilium:-CNI-create-network-图文详解-2020](https://toutiao.io/k/k8uahrc) ![](assets/new.png)  
 - [2020-09-28-敏捷项目中的项目管理如何做？](https://toutiao.io/k/2xxfs2s) ![](assets/new.png)  

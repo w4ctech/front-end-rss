@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 02:14:04，:rocket: 更新条数: +3662， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 02:26:54，:rocket: 更新条数: +3664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,7 +1077,10 @@
 </summary>
 
 
-- [2020-09-28-北京海淀量化私募-c++开发，-40-100-万+快到碗里来~](https://www.v2ex.com/t/711154) ![](assets/new.png)  
+- [2020-09-28-看电影学英语-一个你做得到的口语入门方法](https://www.v2ex.com/t/711157) ![](assets/new.png)  
+- [2020-09-28-switch-国行和日行有啥区别啊，只知道国行不能玩联网游戏动森](https://www.v2ex.com/t/711156) ![](assets/new.png)  
+- [2020-09-28-我有一个问题,地图软件共享开车路径实现拥堵信息展示是否是隐私?](https://www.v2ex.com/t/711155) ![](assets/new.png)  
+- [2020-09-28-北京海淀量化私募-c++开发，-40-100-万+，快到碗里来~](https://www.v2ex.com/t/711154) ![](assets/new.png)  
 - [2020-09-28-北京休息日去哪里学习比较好？有大佬有经验么？](https://www.v2ex.com/t/711151) ![](assets/new.png)  
 - [2020-09-28-求推荐沈阳好玩的地方](https://www.v2ex.com/t/711150) ![](assets/new.png)  
 - [2020-09-28-小白提问：实际开发中对于敏感信息，例如数据库链接-密码如何配置？](https://www.v2ex.com/t/711148) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-09-28-有喜欢布偶猫的吗](https://www.v2ex.com/t/711134) ![](assets/new.png)  
 - [2020-09-28-有没有类似-typora-的可以用-markdown-语言编辑,然后实时预览的-vue-开源工具](https://www.v2ex.com/t/711133) ![](assets/new.png)  
 - [2020-09-28-有婚礼纪的老哥吗](https://www.v2ex.com/t/711132) ![](assets/new.png)  
-- [2020-09-28-明源云客这家公司有巨佬有了解吗](https://www.v2ex.com/t/711130) ![](assets/new.png)  
-- [2020-09-28-分享十几个免费商用无版权素材库](https://www.v2ex.com/t/711129) ![](assets/new.png)  
-- [2020-09-28-苹果-Apple-Pay-新增长沙潇湘卡，限时免费开卡](https://www.v2ex.com/t/711127) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1148,17 +1148,17 @@
 - [2020-09-28-Kubernetes-Ingress-入门指南和实践练习](https://toutiao.io/k/8dpctvj) ![](assets/new.png)  
 - [2020-09-28-OKR-是新时代的-KPI-吗？](https://toutiao.io/k/hzy4fxu) ![](assets/new.png)  
 - [2020-09-28-手写一个-Flutter-State-Widget，来让你彻底理解-State-的来龙去脉](https://toutiao.io/k/9e26wxn) ![](assets/new.png)  
-- [2020-09-28-Istio-Pilot-源码分析（二）](https://toutiao.io/k/6jpr0e8) ![](assets/new.png)  
 - [2020-09-28-Gin-学习之自定义服务器配置信息](https://toutiao.io/k/pf8uwpx) ![](assets/new.png)  
-- [2020-09-28-Cilium:-CNI-create-network-图文详解-2020](https://toutiao.io/k/k8uahrc) ![](assets/new.png)  
+- [2020-09-28-Istio-Pilot-源码分析（二）](https://toutiao.io/k/6jpr0e8) ![](assets/new.png)  
 - [2020-09-28-NCDP-会让程序员失业？多虑了](https://toutiao.io/k/fps33tf) ![](assets/new.png)  
+- [2020-09-28-Cilium:-CNI-create-network-图文详解-2020](https://toutiao.io/k/k8uahrc) ![](assets/new.png)  
 - [2020-09-28-译-Prettier-插件开发文档](https://toutiao.io/k/yc240tb) ![](assets/new.png)  
 - [2020-09-28-高效备份神器-Restic-推荐](https://toutiao.io/k/59ismjb) ![](assets/new.png)  
-- [2020-09-28-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
-- [2020-09-28-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
-- [2020-09-28-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
-- [2020-09-28-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
+- [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) ![](assets/new.png)  
+- [2020-09-28-敏捷项目中的项目管理如何做？](https://toutiao.io/k/2xxfs2s) ![](assets/new.png)  
+- [2020-09-28-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
 - [2020-09-28-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-28-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 15:13:36，:rocket: 更新条数: +3432， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 15:25:51，:rocket: 更新条数: +3431， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1047,6 +1047,8 @@
 </summary>
 
 
+- [2020-09-28-在生活中为什么一张身份证不能替代其他卡片？](https://www.v2ex.com/t/711411) ![](assets/new.png)  
+- [2020-09-28-rss-转-pdf-有啥工具推荐吗](https://www.v2ex.com/t/711409) ![](assets/new.png)  
 - [2020-09-28-多年-PHPer，最近想开发一个微信小游戏，请教一下大家哪个工具更适合自己一点？](https://www.v2ex.com/t/711408) ![](assets/new.png)  
 - [2020-09-28-iOS14.0.1-的系统键盘卡得离谱](https://www.v2ex.com/t/711407) ![](assets/new.png)  
 - [2020-09-28-阿里云腾讯云代理优惠欢迎咨询.](https://www.v2ex.com/t/711406) ![](assets/new.png)  
@@ -1065,8 +1067,6 @@
 - [2020-09-28-请各位大哥给个配置单](https://www.v2ex.com/t/711387) ![](assets/new.png)  
 - [2020-09-28-MacBook-Pro-16"-使用-Fusion-12-安装-Windows-10，我的妈呀，发热太严重了。](https://www.v2ex.com/t/711385) ![](assets/new.png)  
 - [2020-09-28-AWS-国际版对国内账号注册封锁比较厉害，有解决方案么？](https://www.v2ex.com/t/711384) ![](assets/new.png)  
-- [2020-09-28-一个应用要用一个邮箱来注册，腾讯谁搞的这个狗屎设计？](https://www.v2ex.com/t/711383) ![](assets/new.png)  
-- [2020-09-28-求助：两条专线出口，到一台上海华为云的-Tengine-代理服务器，一个可访问一个不可访问。](https://www.v2ex.com/t/711382) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1122,8 @@
 - [2020-09-28-高效备份神器-Restic-推荐](https://toutiao.io/k/59ismjb) ![](assets/new.png)  
 - [2020-09-28-Istio-Pilot-源码分析（二）](https://toutiao.io/k/6jpr0e8) ![](assets/new.png)  
 - [2020-09-28-Gin-学习之自定义服务器配置信息](https://toutiao.io/k/pf8uwpx) ![](assets/new.png)  
-- [2020-09-28-译-Prettier-插件开发文档](https://toutiao.io/k/yc240tb) ![](assets/new.png)  
 - [2020-09-28-面试：谈谈你对-MyBatis-执行过程之-SQL-执行过程理解](https://toutiao.io/k/e9hzrqq) ![](assets/new.png)  
+- [2020-09-28-译-Prettier-插件开发文档](https://toutiao.io/k/yc240tb) ![](assets/new.png)  
 - [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) ![](assets/new.png)  
 - [2020-09-28-前端需要掌握的设计模式](https://toutiao.io/k/6l8m339) ![](assets/new.png)  
 - [2020-09-28-Cilium:-CNI-create-network-图文详解-2020](https://toutiao.io/k/k8uahrc) ![](assets/new.png)  

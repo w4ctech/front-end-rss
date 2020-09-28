@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 11:03:36，:rocket: 更新条数: +3448， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 11:12:04，:rocket: 更新条数: +3447， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-28-“天际线，群星这类多核优化不好的游戏，同价位选-intel-别选-amd”这个说法现在还成立吗？](https://www.v2ex.com/t/711354) ![](assets/new.png)  
+- [2020-09-28-Safari-安装了一个看-Json-的插件，然后-Teambition-就炸了](https://www.v2ex.com/t/711353) ![](assets/new.png)  
 - [2020-09-28-现在的公众号还能爬到信息吗](https://www.v2ex.com/t/711351) ![](assets/new.png)  
 - [2020-09-28-PDD-二血也送出了](https://www.v2ex.com/t/711350) ![](assets/new.png)  
 - [2020-09-28-系统设计公开课-国内一线大厂架构师详解秒杀系统&订票系统](https://www.v2ex.com/t/711349) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-28-想听一下各位关于北京生存的意见](https://www.v2ex.com/t/711336) ![](assets/new.png)  
 - [2020-09-28-求推荐：前端有哪些小而美的轮子](https://www.v2ex.com/t/711334) ![](assets/new.png)  
 - [2020-09-28-10-月-24-日一起玩云原生应用架构最佳实践-杭州站正在报名中，到场礼品+好吃的茶歇](https://www.v2ex.com/t/711333) ![](assets/new.png)  
-- [2020-09-28-越狱过的-iphonex-无法通过-ota-更新系统](https://www.v2ex.com/t/711332) ![](assets/new.png)  
-- [2020-09-28-在官网注册-apple-id-邮箱接收不到验证码是什么情况？](https://www.v2ex.com/t/711331) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

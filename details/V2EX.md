@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 19:49:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 20:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -45,4 +45,3 @@
 - [2020-09-28-macOS-BigSur-下黑苹果-Karabiner-不可用的代替方案](https://www.v2ex.com/t/711381) 
 - [2020-09-28-Thoughts-Bookmarklet-不限期内测开启，代号-Debug！](https://www.v2ex.com/t/711380) 
 - [2020-09-28-SEO-还有机会吗？](https://www.v2ex.com/t/711379) 
-- [2020-09-28-Google-Play-购买游戏安装后卸载会触发自动退款？](https://www.v2ex.com/t/711378) 

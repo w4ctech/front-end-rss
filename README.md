@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 16:14:20，:rocket: 更新条数: +3442， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 16:27:48，:rocket: 更新条数: +3442， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-28-员工内推-安全与风控-字节跳动-北上杭深](https://www.v2ex.com/t/711417) ![](assets/new.png)  
+- [2020-09-28-Hyper-出品的全新-3A1C+双头插口充电头](https://www.v2ex.com/t/711416) ![](assets/new.png)  
 - [2020-09-28-又上线了一个冷门网站：-吾爱哲学-，有稀饭的吗～](https://www.v2ex.com/t/711415) ![](assets/new.png)  
 - [2020-09-28-大学生组队交友-互相学习-Web-开发](https://www.v2ex.com/t/711413) ![](assets/new.png)  
 - [2020-09-28-请教联通-F627Za-光猫咋改桥接呀？](https://www.v2ex.com/t/711412) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-28-现在哪里可以线上申请个体户呢?](https://www.v2ex.com/t/711396) ![](assets/new.png)  
 - [2020-09-28-苹果官方-Swift-和-SwiftUI-的使用率统计](https://www.v2ex.com/t/711392) ![](assets/new.png)  
 - [2020-09-28-求推荐云端的-saas-笔记软件](https://www.v2ex.com/t/711391) ![](assets/new.png)  
-- [2020-09-28-第四期德国-IT-岗位招聘之-Salesforce-Administrator,-ERP-computer-scientist,-iOS/Android-software-developer](https://www.v2ex.com/t/711389) ![](assets/new.png)  
-- [2020-09-28-iOS14-更新了，我觉得苹果这个翻译-APP-不是很好用](https://www.v2ex.com/t/711388) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

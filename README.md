@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 11:22:54，:rocket: 更新条数: +3674， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 11:32:37，:rocket: 更新条数: +3672， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-28-有感于「QQ-全部解封」帖的严谨，个人希望将论坛的严谨程度带上一个新的台阶；](https://www.v2ex.com/t/711360) ![](assets/new.png)  
+- [2020-09-28-14.0.1-的主题自己会变黑色吗？](https://www.v2ex.com/t/711359) ![](assets/new.png)  
 - [2020-09-28-100-500-价位的路由器有什么推荐的吗?](https://www.v2ex.com/t/711356) ![](assets/new.png)  
 - [2020-09-28-有没有自建类似-Raindrop\pinbox-的稍后阅读服务的方案推荐？](https://www.v2ex.com/t/711355) ![](assets/new.png)  
 - [2020-09-28-“天际线，群星这类多核优化不好的游戏，同价位选-intel-别选-amd”这个说法现在还成立吗？](https://www.v2ex.com/t/711354) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-28-ios14.0.1-来电铃声音量总是被设置成-0](https://www.v2ex.com/t/711340) ![](assets/new.png)  
 - [2020-09-28-电子竞技比赛，是怎么保证数据安全的](https://www.v2ex.com/t/711339) ![](assets/new.png)  
 - [2020-09-28-感觉自己越来越坏了。](https://www.v2ex.com/t/711338) ![](assets/new.png)  
-- [2020-09-28-apache-伪静态如何转乘-nginx-伪静态-重写-URL](https://www.v2ex.com/t/711337) ![](assets/new.png)  
-- [2020-09-28-想听一下各位关于北京生存的意见](https://www.v2ex.com/t/711336) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

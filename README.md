@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 08:13:44，:rocket: 更新条数: +3404， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 08:26:51，:rocket: 更新条数: +3448， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-28-香港28日新增10例新冠肺炎确诊病例-累计5075例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticmQa5M3XS6eHgJhj3D8G200928&isfromapp=1) ![](assets/new.png)  
 - [2020-09-28-印度新冠肺炎累计确诊病例超600万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigzQeo9LQwu97HrURozeC200928&isfromapp=1) ![](assets/new.png)  
 - [2020-09-28-北京市要求企业主动规避从疫情严重地区进口冷链食品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4bCtEbtKdL4diTDFuNP1200928&isfromapp=1) ![](assets/new.png)  
 - [2020-09-28-阿根廷新冠肺炎病例超过71万，疫情形势愈加复杂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSRjUtvC2vjTAurGhBlr1200928&isfromapp=1) ![](assets/new.png)  
 - [2020-09-28-上海27日新增10例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3X8mWseCD55UYMtUqTvo200928&isfromapp=1) ![](assets/new.png)  
-- [2020-09-27-世卫组织：全球新冠肺炎新增298773例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0nqwj8RUv26PGLpYBEWe200928&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,8 +947,8 @@
 </summary>
 
 
-- [2020-09-27-将原型对象设置成Proxy后的一系列迷惑行为](https://juejin.im/post/6877430232987467789) ![](assets/new.png)  
-- [2020-09-27-then,-catch,-finally如何影响返回的Promise实例状态](https://juejin.im/post/6877413454945189901) ![](assets/new.png)  
+- [2020-09-27-结合TypeScript，来讲前端人用的设计模式Design-pattern](https://juejin.im/post/6877438343764770829) ![](assets/new.png)  
+- [2020-09-27-（下）vue-+-axios-快速构建多页面应用H5移动端电商项目](https://juejin.im/post/6877409657925681159) ![](assets/new.png)  
 - [2020-09-27-手把手教你使用-Vue3-中的-Composition-API-来封装一个商品列表组件](https://juejin.im/post/6877406785636925447) ![](assets/new.png)  
 - [2020-09-27-（上）vue-+-axios-快速构建多页面应用H5移动端电商项目](https://juejin.im/post/6877395873362690061) ![](assets/new.png)  
 - [2020-09-27-可视化页面编辑器的架构设计](https://juejin.im/post/6877372444613722119) ![](assets/new.png)  
@@ -1057,6 +1057,26 @@
 </summary>
 
 
+- [2020-09-28-开源分享-旨在提供易于使用且性能优越的-mqtt-broker](https://www.v2ex.com/t/711310) ![](assets/new.png)  
+- [2020-09-28-PayPal-上海内推全球顶级风控团队众多前端/全栈/IT/-Java-/大数据以及中国业务团队职位等职位热招中！](https://www.v2ex.com/t/711309) ![](assets/new.png)  
+- [2020-09-28-人菜难跳槽，开始怀疑自我了。。。](https://www.v2ex.com/t/711308) ![](assets/new.png)  
+- [2020-09-28-明天打算骑行回老家，第一次长途骑行，需要注意什么？](https://www.v2ex.com/t/711307) ![](assets/new.png)  
+- [2020-09-28-NUC-黑果套餐-国庆车-福利帖](https://www.v2ex.com/t/711305) ![](assets/new.png)  
+- [2020-09-28-有没有比-pandas,-numpy-轻量的二维数组模块](https://www.v2ex.com/t/711304) ![](assets/new.png)  
+- [2020-09-28-养的黑色小金鱼开始褪色了，有什么解决办法？](https://www.v2ex.com/t/711303) ![](assets/new.png)  
+- [2020-09-28-小白求问机械键盘这个状态是正常的吗？](https://www.v2ex.com/t/711302) ![](assets/new.png)  
+- [2020-09-28-上海-初创公司招几个前端（原生-+-ReactNative），福报含量低](https://www.v2ex.com/t/711301) ![](assets/new.png)  
+- [2020-09-28-一个劳动纠纷案（纯讨论）](https://www.v2ex.com/t/711300) ![](assets/new.png)  
+- [2020-09-28-升级-ios14-后，微信语音听筒播放经常无声](https://www.v2ex.com/t/711299) ![](assets/new.png)  
+- [2020-09-28-我在考虑到底什么是架构师，架构师到底解决了什么问题？](https://www.v2ex.com/t/711298) ![](assets/new.png)  
+- [2020-09-28-三星系-内存/硬盘/移动硬盘-清仓-福利帖](https://www.v2ex.com/t/711297) ![](assets/new.png)  
+- [2020-09-28-大家有没有遇到过-cron-定时执行-pg_dump-和-mysqldump-出现-cannot-be-found-的问题呢](https://www.v2ex.com/t/711294) ![](assets/new.png)  
+- [2020-09-28-Airpods-Pro-在手机上切换降噪好麻烦需要操作-3-步](https://www.v2ex.com/t/711293) ![](assets/new.png)  
+- [2020-09-28-资深-Android-研发工程师-—-字节跳动飞书小程序](https://www.v2ex.com/t/711292) ![](assets/new.png)  
+- [2020-09-28-AirPods-Pro-在-iPad-和手机之间老是抢信号📶](https://www.v2ex.com/t/711291) ![](assets/new.png)  
+- [2020-09-28-Linux-服务器管理多窗口](https://www.v2ex.com/t/711290) ![](assets/new.png)  
+- [2020-09-28-若你想要为你所向往的城市/你的心系的家乡/你退休的乐园-做个网站来-介绍它](https://www.v2ex.com/t/711289) ![](assets/new.png)  
+- [2020-09-28-腾讯深圳-天美工作室-急聘-web-前端开发工程师](https://www.v2ex.com/t/711288) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,9 +1129,9 @@
 - [2020-09-28-Kubernetes-Ingress-入门指南和实践练习](https://toutiao.io/k/8dpctvj) ![](assets/new.png)  
 - [2020-09-28-OKR-是新时代的-KPI-吗？](https://toutiao.io/k/hzy4fxu) ![](assets/new.png)  
 - [2020-09-28-Istio-Pilot-源码分析（二）](https://toutiao.io/k/6jpr0e8) ![](assets/new.png)  
+- [2020-09-28-高效备份神器-Restic-推荐](https://toutiao.io/k/59ismjb) ![](assets/new.png)  
 - [2020-09-28-NCDP-会让程序员失业？多虑了](https://toutiao.io/k/fps33tf) ![](assets/new.png)  
 - [2020-09-28-Gin-学习之自定义服务器配置信息](https://toutiao.io/k/pf8uwpx) ![](assets/new.png)  
-- [2020-09-28-高效备份神器-Restic-推荐](https://toutiao.io/k/59ismjb) ![](assets/new.png)  
 - [2020-09-28-译-Prettier-插件开发文档](https://toutiao.io/k/yc240tb) ![](assets/new.png)  
 - [2020-09-28-Cilium:-CNI-create-network-图文详解-2020](https://toutiao.io/k/k8uahrc) ![](assets/new.png)  
 - [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) ![](assets/new.png)  

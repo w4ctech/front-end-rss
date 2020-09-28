@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 13:34:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 13:47:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -100,16 +100,6 @@
 - [2020-09-28-手写实现Tree组件](https://juejin.im/post/6877517697383563272) 
 - [2020-09-28-JavaScript中常用的方法汇总](https://juejin.im/post/6877510254553858062) 
 - [2020-09-28-全面掌握ECMAScript新特性——ES6声明与数据类型（一）](https://juejin.im/post/6877489920299466759) 
-- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
-- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
-- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
-- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) 
-- [2019-12-04-EHTML:-HTML-Framework-that-allows-you-write-no-JavaScript-code-at-all.](https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173) 
-- [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
-- [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
-- [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-09-28-100-500-价位的路由器有什么推荐的吗?](https://www.v2ex.com/t/711356) 
-- [2020-09-28-Safari-安装了一个看-Json-的插件，然后-Teambition-就炸了](https://www.v2ex.com/t/711353) 
 - [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) 
 - [2020-09-28-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

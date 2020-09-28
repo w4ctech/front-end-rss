@@ -17631,6 +17631,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[海外远程] Jerry.ai 数据开发工程师/资深前端开发工程师岗位直推",
+        "link": "https://www.v2ex.com/t/711431",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "又到月底，之前买了 99 元电信 PLUS 会员的记得领券（附领取路径）",
+        "link": "https://www.v2ex.com/t/711430",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "需要买多个 Apple Watch Series 6, 麻烦有经验的进来帮我解答一下相关的几个问题",
+        "link": "https://www.v2ex.com/t/711429",
+        "date": "2020-09-28"
+      },
+      {
         "title": "用 cookie 来自动签到，怎么保持有效时间",
         "link": "https://www.v2ex.com/t/711427",
         "date": "2020-09-28"
@@ -17813,21 +17828,6 @@
       {
         "title": "求助：两条专线出口，到一台上海华为云的 Tengine 代理服务器，一个可访问一个不可访问。",
         "link": "https://www.v2ex.com/t/711382",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "macOS BigSur 下黑苹果 Karabiner 不可用的代替方案",
-        "link": "https://www.v2ex.com/t/711381",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "Thoughts Bookmarklet 不限期内测开启，代号 Debug！",
-        "link": "https://www.v2ex.com/t/711380",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "SEO 还有机会吗？",
-        "link": "https://www.v2ex.com/t/711379",
         "date": "2020-09-28"
       }
     ]
@@ -18045,8 +18045,8 @@
         "date": "2020-09-28"
       },
       {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
+        "title": "[推荐] 谈谈我所认识的分布式锁",
+        "link": "https://toutiao.io/k/oqnmp3h",
         "date": "2020-09-28"
       },
       {
@@ -18055,38 +18055,8 @@
         "date": "2020-09-28"
       },
       {
-        "title": "[推荐] 解密 Go 协程的栈内存管理",
-        "link": "https://toutiao.io/k/fkrobd3",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
-        "link": "https://toutiao.io/k/rbvgji4",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
-        "link": "https://toutiao.io/k/xdryz90",
+        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
+        "link": "https://toutiao.io/k/ejwph4b",
         "date": "2020-09-28"
       },
       {
@@ -18100,13 +18070,8 @@
         "date": "2020-09-28"
       },
       {
-        "title": "[推荐] 如何设计一个牛逼的 API 接口",
-        "link": "https://toutiao.io/k/j1aredh",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
-        "link": "https://toutiao.io/k/h9nal21",
+        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
+        "link": "https://toutiao.io/k/rbvgji4",
         "date": "2020-09-28"
       },
       {
@@ -18115,8 +18080,43 @@
         "date": "2020-09-28"
       },
       {
-        "title": "[推荐] 同城双活与异地多活架构分析",
-        "link": "https://toutiao.io/k/e1eh64z",
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 大写的服，看完这篇你还不懂 RocketMQ 算我输",
+        "link": "https://toutiao.io/k/rhwgf1q",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
+        "link": "https://toutiao.io/k/rd2k0cu",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
+        "link": "https://toutiao.io/k/s2yudly",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 解密 Go 协程的栈内存管理",
+        "link": "https://toutiao.io/k/fkrobd3",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
+        "link": "https://toutiao.io/k/h9nal21",
         "date": "2020-09-28"
       }
     ]

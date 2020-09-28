@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 00:34:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 01:04:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,7 +89,6 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-09-27-有点意思，虎牙直播的弹幕-在指定内容上时会自动透明](https://www.v2ex.com/t/711075) 
-- [2020-09-27-美资韩企-Coupang-直播上海招聘-Java-后端/Android/iOS/测试-，-内部人性化-965-不加班](https://www.v2ex.com/t/711067) 
 - [2020-09-27-【视频】|-Python:if+else的使用](https://sec.thief.one/article_content?a_id=200e15a0b174fa098f513e1ea89e6191) 
 - [2020-09-26-【视频】|-黑客入侵美军事系统,美俄火力交战](https://sec.thief.one/article_content?a_id=69cdd30fa690d0c7a12cadf7191e56cb) 
 - [2020-09-26-MiSRC送车了-|-上传小视频即可赢取智能赛车、尤克里里、电动牙刷!](https://sec.thief.one/article_content?a_id=a808ef95051ff19302966ac79e3b146e) 

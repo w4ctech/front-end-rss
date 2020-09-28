@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 00:34:54，:rocket: 更新条数: +3658， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 01:04:31，:rocket: 更新条数: +3662， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,8 @@
 </summary>
 
 
+- [2020-09-27-9月27日全国新增境外输入新冠21例-累计确诊85372例](http://m.china.caixin.com/m/2020-09-28/101610360.html) ![](assets/new.png)  
+- [2020-09-27-大流行手记|9月27日：莫迪力撑印度疫苗-英国23所高校现疫情](https://m.caixin.com/m/2020-09-28/101610347.html) ![](assets/new.png)  
 - [2020-09-26-最新海外疫情：新冠感染超3272万-累计死亡近99万](http://m.international.caixin.com/m/2020-09-27/101610306.html) ![](assets/new.png)  
 - [2020-09-26-【境内疫情观察】全国新增14例境外输入病例（9月26日）](http://m.database.caixin.com/m/2020-09-27/101610202.html) ![](assets/new.png)  
 - [2020-09-26-大流行手记|9月26日：WHO预计全球新冠病亡人数或超200万-俄罗斯疫情反弹](https://m.caixin.com/m/2020-09-27/101610108.html) ![](assets/new.png)  
@@ -82,8 +84,6 @@
 - [2020-09-21-欧洲多地疫情反弹-为避免悲剧重演各国加紧防控步伐](http://m.international.caixin.com/m/2020-09-22/101608317.html) ![](assets/new.png)  
 - [2020-09-20-【境内疫情观察】全国新增12例境外输入病例（9月20日）](http://m.database.caixin.com/m/2020-09-21/101607590.html) ![](assets/new.png)  
 - [2020-09-20-大流行手记|9月20日：全球新冠死亡率仍高达3%-拉美确诊病例近870万](https://m.caixin.com/m/2020-09-21/101607469.html) ![](assets/new.png)  
-- [2020-09-20-【图集】乌鲁木齐恢复多条出疆航线-地铁正常运营](http://m.photos.caixin.com/m/2020-09-21/101607475.html) ![](assets/new.png)  
-- [2020-09-19-【境内疫情观察】山西现有确诊病例清零（9月19日）](http://m.database.caixin.com/m/2020-09-20/101607358.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,17 @@
 </summary>
 
 
+- [2020-09-28-leetcode/lintcode-题解-目标最后位置](https://www.v2ex.com/t/711118) ![](assets/new.png)  
+- [2020-09-28-apple-pay-终于支持潇湘卡了](https://www.v2ex.com/t/711117) ![](assets/new.png)  
+- [2020-09-28-更新了-Safari-14-后添加到常用站点的功能没有了](https://www.v2ex.com/t/711116) ![](assets/new.png)  
+- [2020-09-28-大家有什么好的博客模板推荐吗？](https://www.v2ex.com/t/711115) ![](assets/new.png)  
+- [2020-09-28-工业园区要实行人脸识别才能进](https://www.v2ex.com/t/711114) ![](assets/new.png)  
+- [2020-09-28-房间怀疑有老鼠了，有什么招式可以驱赶老鼠](https://www.v2ex.com/t/711113) ![](assets/new.png)  
+- [2020-09-28-求助-230-平米办公室全无线组网方案](https://www.v2ex.com/t/711112) ![](assets/new.png)  
+- [2020-09-28-五条-people](https://www.v2ex.com/t/711111) ![](assets/new.png)  
+- [2020-09-28-Apple-TV+-以色列剧《德黑兰（Tehran）》很精彩，有点老电影《逃离德黑兰》的味道了](https://www.v2ex.com/t/711110) ![](assets/new.png)  
+- [2020-09-28-准备转去写前端了，写官网比较流行什么布局？](https://www.v2ex.com/t/711109) ![](assets/new.png)  
+- [2020-09-28-有哪些类似《星际-2》和《魔兽-3》的有自定义游戏功能的游戏？](https://www.v2ex.com/t/711108) ![](assets/new.png)  
 - [2020-09-28-有哪些笔记本适合做-Linux-系统的桌面开发，以及-Linux-服务器系统？](https://www.v2ex.com/t/711106) ![](assets/new.png)  
 - [2020-09-28-mbp-最近老是出现异响，类似于敲击屏幕背面的声音](https://www.v2ex.com/t/711105) ![](assets/new.png)  
 - [2020-09-28-Windows-下有没有能将文件内的繁体转简体软件？](https://www.v2ex.com/t/711104) ![](assets/new.png)  
@@ -1086,17 +1097,6 @@
 - [2020-09-27-面试时问薪水，面试官不给答复反问我自己觉得能要多少](https://www.v2ex.com/t/711100) ![](assets/new.png)  
 - [2020-09-27-深圳有-965-公司吗](https://www.v2ex.com/t/711099) ![](assets/new.png)  
 - [2020-09-27-求助：-MacbookPro17-显示颜色泛白，重启多次，-reset-NVRAM-多次，没有效果。](https://www.v2ex.com/t/711098) ![](assets/new.png)  
-- [2020-09-27-iPhone-倒计时-bug,-看似小,但是可以造成大问题](https://www.v2ex.com/t/711097) ![](assets/new.png)  
-- [2020-09-27-macOS-10.15.7-中-Airdrop-接收文件速度特别慢](https://www.v2ex.com/t/711095) ![](assets/new.png)  
-- [2020-09-27-请问-SpringBoot-中是让哪个类去处理-@EnableConfigurationProperties-的类的（实例）的？](https://www.v2ex.com/t/711094) ![](assets/new.png)  
-- [2020-09-27-想学习，却不知道学什么](https://www.v2ex.com/t/711093) ![](assets/new.png)  
-- [2020-09-27-本科应届生，九月末了，还是-0-Offer，对比了周围其他人，太失落了。](https://www.v2ex.com/t/711092) ![](assets/new.png)  
-- [2020-09-27-如何从字符串中提取-ip-地址不用正则](https://www.v2ex.com/t/711091) ![](assets/new.png)  
-- [2020-09-27-微信自带的浏览器能不能在其他客户端被作为第三方浏览器的一个选项？](https://www.v2ex.com/t/711090) ![](assets/new.png)  
-- [2020-09-27-国庆前一周提离职，结果被公司告知可以提前离职](https://www.v2ex.com/t/711089) ![](assets/new.png)  
-- [2020-09-27-Japan-0-0](https://www.v2ex.com/t/711087) ![](assets/new.png)  
-- [2020-09-27-这两个显示器哪个好？](https://www.v2ex.com/t/711086) ![](assets/new.png)  
-- [2020-09-27-#chrome#你们手机用什么浏览器？](https://www.v2ex.com/t/711085) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,19 +1146,19 @@
 - [2020-09-28-Kubernetes-Ingress-入门指南和实践练习](https://toutiao.io/k/8dpctvj) ![](assets/new.png)  
 - [2020-09-28-面试官：兄弟，说说-ArrayList-和-LinkedList-有什么区别](https://toutiao.io/k/0xofen5) ![](assets/new.png)  
 - [2020-09-28-2020-开发人员生态系统现状](https://toutiao.io/k/2nei5pd) ![](assets/new.png)  
-- [2020-09-28-Gin-学习之自定义服务器配置信息](https://toutiao.io/k/pf8uwpx) ![](assets/new.png)  
 - [2020-09-28-OKR-是新时代的-KPI-吗？](https://toutiao.io/k/hzy4fxu) ![](assets/new.png)  
 - [2020-09-28-Istio-Pilot-源码分析（二）](https://toutiao.io/k/6jpr0e8) ![](assets/new.png)  
+- [2020-09-28-Gin-学习之自定义服务器配置信息](https://toutiao.io/k/pf8uwpx) ![](assets/new.png)  
+- [2020-09-28-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
+- [2020-09-28-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
+- [2020-09-28-推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n) ![](assets/new.png)  
+- [2020-09-28-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
 - [2020-09-28-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
-- [2020-09-28-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
-- [2020-09-28-推荐-23-个问题-TCP-疑难杂症全解析](https://toutiao.io/k/yktjpks) ![](assets/new.png)  
 - [2020-09-28-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
-- [2020-09-28-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-28-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
-- [2020-09-28-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
+- [2020-09-28-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
 - [2020-09-28-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
-- [2020-09-28-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
-- [2020-09-28-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-09-28-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
+- [2020-09-28-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 08:47:19，:rocket: 更新条数: +3674， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 09:03:41，:rocket: 更新条数: +3674， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,10 @@
 </summary>
 
 
+- [2020-09-28-第一次和父母去见女朋友父母，应该带什么呢？](https://www.v2ex.com/t/711323) ![](assets/new.png)  
+- [2020-09-28-JVM---记面试](https://www.v2ex.com/t/711322) ![](assets/new.png)  
+- [2020-09-28-安卓的屏幕触控采样率是不是无法查询的？](https://www.v2ex.com/t/711321) ![](assets/new.png)  
+- [2020-09-28-坑……gitlab-上把主分支合并到其他分支，解决冲突后居然把其他分支给合并回主分支了。。。](https://www.v2ex.com/t/711320) ![](assets/new.png)  
 - [2020-09-28-前几天看到热搜，找岳云鹏借钱要填一个申请表，当然我知道是玩笑。](https://www.v2ex.com/t/711318) ![](assets/new.png)  
 - [2020-09-28-转让-Hopper-授权一份](https://www.v2ex.com/t/711317) ![](assets/new.png)  
 - [2020-09-28-气死了，阿里云国际版偷偷涨价](https://www.v2ex.com/t/711316) ![](assets/new.png)  
@@ -1093,10 +1097,6 @@
 - [2020-09-28-有没有比-pandas,-numpy-轻量的二维数组模块](https://www.v2ex.com/t/711304) ![](assets/new.png)  
 - [2020-09-28-养的黑色小金鱼开始褪色了，有什么解决办法？](https://www.v2ex.com/t/711303) ![](assets/new.png)  
 - [2020-09-28-小白求问机械键盘这个状态是正常的吗？](https://www.v2ex.com/t/711302) ![](assets/new.png)  
-- [2020-09-28-上海-初创公司招几个前端（原生-+-ReactNative），福报含量低](https://www.v2ex.com/t/711301) ![](assets/new.png)  
-- [2020-09-28-一个劳动纠纷案（纯讨论）](https://www.v2ex.com/t/711300) ![](assets/new.png)  
-- [2020-09-28-升级-ios14-后，微信语音听筒播放经常无声](https://www.v2ex.com/t/711299) ![](assets/new.png)  
-- [2020-09-28-我在考虑到底什么是架构师，架构师到底解决了什么问题？](https://www.v2ex.com/t/711298) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1155,8 +1155,8 @@
 - [2020-09-28-译-Prettier-插件开发文档](https://toutiao.io/k/yc240tb) ![](assets/new.png)  
 - [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) ![](assets/new.png)  
 - [2020-09-28-Cilium:-CNI-create-network-图文详解-2020](https://toutiao.io/k/k8uahrc) ![](assets/new.png)  
-- [2020-09-28-前端需要掌握的设计模式](https://toutiao.io/k/6l8m339) ![](assets/new.png)  
 - [2020-09-28-面试：谈谈你对-MyBatis-执行过程之-SQL-执行过程理解](https://toutiao.io/k/e9hzrqq) ![](assets/new.png)  
+- [2020-09-28-前端需要掌握的设计模式](https://toutiao.io/k/6l8m339) ![](assets/new.png)  
 - [2020-09-28-敏捷项目中的项目管理如何做？](https://toutiao.io/k/2xxfs2s) ![](assets/new.png)  
 - [2020-09-28-LeetCode-66：加一](https://toutiao.io/k/whwkl7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

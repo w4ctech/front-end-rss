@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-28 19:22:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 19:32:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-28-用-cookie-来自动签到，怎么保持有效时间](https://www.v2ex.com/t/711427) 
 - [2020-09-28-阿里云活动奖励：保温杯，-T-恤，背包，-30-万人民币](https://www.v2ex.com/t/711426) 
 - [2020-09-28-前海时代-ceo-公馆转租一主卧，总共-3-房间（蛋壳）](https://www.v2ex.com/t/711425) 
 - [2020-09-28-纠结于-Macbook-pro-13-寸-17-款-16g-256-还是-18-或-19-款-256😭](https://www.v2ex.com/t/711424) 
@@ -45,4 +46,3 @@
 - [2020-09-28-Thoughts-Bookmarklet-不限期内测开启，代号-Debug！](https://www.v2ex.com/t/711380) 
 - [2020-09-28-SEO-还有机会吗？](https://www.v2ex.com/t/711379) 
 - [2020-09-28-Google-Play-购买游戏安装后卸载会触发自动退款？](https://www.v2ex.com/t/711378) 
-- [2020-09-28-椎间盘突出](https://www.v2ex.com/t/711377) 

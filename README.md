@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 14:03:48，:rocket: 更新条数: +3445， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 14:13:23，:rocket: 更新条数: +3445， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-28-第四期德国-IT-岗位招聘之-Salesforce-Administrator,-ERP-computer-scientist,-iOS/Android-software-developer](https://www.v2ex.com/t/711389) ![](assets/new.png)  
+- [2020-09-28-iOS14-更新了，我觉得苹果这个翻译-APP-不是很好用](https://www.v2ex.com/t/711388) ![](assets/new.png)  
 - [2020-09-28-请各位大哥给个配置单](https://www.v2ex.com/t/711387) ![](assets/new.png)  
 - [2020-09-28-MacBook-Pro-16"-使用-Fusion-12-安装-Windows-10，我的妈呀，发热太严重了。](https://www.v2ex.com/t/711385) ![](assets/new.png)  
 - [2020-09-28-AWS-国际版对国内账号注册封锁比较厉害，有解决方案么？](https://www.v2ex.com/t/711384) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-28-还有哪些抓包工具可以像-Fiddle-一样解包-TLS-数据啊](https://www.v2ex.com/t/711368) ![](assets/new.png)  
 - [2020-09-28-加拿大/美国的-V2ER-们，坚果云速度如何？](https://www.v2ex.com/t/711367) ![](assets/new.png)  
 - [2020-09-28-行走江湖的第-23-个年头](https://www.v2ex.com/t/711366) ![](assets/new.png)  
-- [2020-09-28-活动定时开启是如何实现的？](https://www.v2ex.com/t/711364) ![](assets/new.png)  
-- [2020-09-28-现在还有在用-MacBook-Pro-Early-2011-的朋友吗？](https://www.v2ex.com/t/711362) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

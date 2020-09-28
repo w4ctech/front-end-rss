@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-28 14:13:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 14:25:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-28-求推荐云端的-saas-笔记软件](https://www.v2ex.com/t/711391) 
 - [2020-09-28-第四期德国-IT-岗位招聘之-Salesforce-Administrator,-ERP-computer-scientist,-iOS/Android-software-developer](https://www.v2ex.com/t/711389) 
 - [2020-09-28-iOS14-更新了，我觉得苹果这个翻译-APP-不是很好用](https://www.v2ex.com/t/711388) 
 - [2020-09-28-请各位大哥给个配置单](https://www.v2ex.com/t/711387) 
@@ -44,5 +45,3 @@
 - [2020-09-28-有哪些关于软件-UI-设计的入门书籍](https://www.v2ex.com/t/711344) 
 - [2020-09-28-做个了-Java-枚举自动生成字典接口的-SpringBoot-插件，来骗几个-star](https://www.v2ex.com/t/711343) 
 - [2020-09-28-趁着空闲时间做了一个前端配色公具小站，用用试试吧！](https://www.v2ex.com/t/711342) 
-- [2020-09-28-火星小助手又来了~，一个日常工具类小程序，来造吗](https://www.v2ex.com/t/711341) 
-- [2020-09-28-ios14.0.1-来电铃声音量总是被设置成-0](https://www.v2ex.com/t/711340) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 07:35:06，:rocket: 更新条数: +3446， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 07:47:22，:rocket: 更新条数: +3672， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,15 @@
 </summary>
 
 
+- [2020-09-28-资深-Android-研发工程师-—-字节跳动飞书小程序](https://www.v2ex.com/t/711292) ![](assets/new.png)  
+- [2020-09-28-AirPods-Pro-在-iPad-和手机之间老是抢信号📶](https://www.v2ex.com/t/711291) ![](assets/new.png)  
+- [2020-09-28-Linux-服务器管理多窗口](https://www.v2ex.com/t/711290) ![](assets/new.png)  
+- [2020-09-28-若你想要为你所向往的城市/你的心系的家乡/你退休的乐园-做个网站来-介绍它](https://www.v2ex.com/t/711289) ![](assets/new.png)  
+- [2020-09-28-腾讯深圳-天美工作室-急聘-web-前端开发工程师](https://www.v2ex.com/t/711288) ![](assets/new.png)  
+- [2020-09-28-有计算机、服务器、网络设备的-icon-前端库吗？](https://www.v2ex.com/t/711287) ![](assets/new.png)  
+- [2020-09-28-跳槽月薪只涨-20%有点低](https://www.v2ex.com/t/711286) ![](assets/new.png)  
+- [2020-09-28-Linux-下编程，如何用-C-语言搜索指定目录下所有文件，包括子目录，并带路径存起来？](https://www.v2ex.com/t/711284) ![](assets/new.png)  
+- [2020-09-28-写了个-V2EX-看帖增强插件](https://www.v2ex.com/t/711283) ![](assets/new.png)  
 - [2020-09-28-分享一个-iOS-14-的“轻点背面”-的快捷指令](https://www.v2ex.com/t/711282) ![](assets/new.png)  
 - [2020-09-28-redis-monitor-命令后？是否有退出命令？](https://www.v2ex.com/t/711281) ![](assets/new.png)  
 - [2020-09-28-纯吐槽。2020-年了，咱们-PM-还是那么高端](https://www.v2ex.com/t/711280) ![](assets/new.png)  
@@ -1068,15 +1097,6 @@
 - [2020-09-28-准备在搞一个程序员相亲的活动，大家有什么好的建议？](https://www.v2ex.com/t/711273) ![](assets/new.png)  
 - [2020-09-28-GooglePlay-上买的视频怎么下载下来？](https://www.v2ex.com/t/711272) ![](assets/new.png)  
 - [2020-09-28-有用-github-desktop-的吗？](https://www.v2ex.com/t/711270) ![](assets/new.png)  
-- [2020-09-28-容器权限问题](https://www.v2ex.com/t/711269) ![](assets/new.png)  
-- [2020-09-28-Apple-watch-只能监测晚上的睡眠吗？怎么记录白天的睡眠？](https://www.v2ex.com/t/711268) ![](assets/new.png)  
-- [2020-09-28-有没有开源的-c/c++库，用于-windows-下取证的？](https://www.v2ex.com/t/711267) ![](assets/new.png)  
-- [2020-09-28-10.1-北京开车回武汉](https://www.v2ex.com/t/711266) ![](assets/new.png)  
-- [2020-09-28-弱弱问下，试用期一个月，国庆后离职会有薪资么](https://www.v2ex.com/t/711265) ![](assets/new.png)  
-- [2020-09-28-分享-10-个-iOS-14-上好用的桌面小组件](https://www.v2ex.com/t/711264) ![](assets/new.png)  
-- [2020-09-28-普通-iPad-的非全贴合屏会带来使用不便吗？](https://www.v2ex.com/t/711263) ![](assets/new.png)  
-- [2020-09-28-Firebase-国内学习资源太有限了](https://www.v2ex.com/t/711262) ![](assets/new.png)  
-- [2020-09-28-golang-如何优雅的-sql-查询，我想要实现一个基础-struct-给数据类型继承使用类似于-users-:=-User.list](https://www.v2ex.com/t/711261) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,8 +1146,8 @@
 - [2020-09-28-一文领略-HTTP-的前世今生](https://toutiao.io/k/x8q4huu) ![](assets/new.png)  
 - [2020-09-28-手写一个-Flutter-State-Widget，来让你彻底理解-State-的来龙去脉](https://toutiao.io/k/9e26wxn) ![](assets/new.png)  
 - [2020-09-28-面试官：兄弟，说说-ArrayList-和-LinkedList-有什么区别](https://toutiao.io/k/0xofen5) ![](assets/new.png)  
-- [2020-09-28-Kubernetes-Ingress-入门指南和实践练习](https://toutiao.io/k/8dpctvj) ![](assets/new.png)  
 - [2020-09-28-OKR-是新时代的-KPI-吗？](https://toutiao.io/k/hzy4fxu) ![](assets/new.png)  
+- [2020-09-28-Kubernetes-Ingress-入门指南和实践练习](https://toutiao.io/k/8dpctvj) ![](assets/new.png)  
 - [2020-09-28-Istio-Pilot-源码分析（二）](https://toutiao.io/k/6jpr0e8) ![](assets/new.png)  
 - [2020-09-28-Gin-学习之自定义服务器配置信息](https://toutiao.io/k/pf8uwpx) ![](assets/new.png)  
 - [2020-09-28-高效备份神器-Restic-推荐](https://toutiao.io/k/59ismjb) ![](assets/new.png)  

@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-09-28 07:49:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 08:04:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-28-升级-ios14-后，微信语音听筒播放经常无声](https://www.v2ex.com/t/711299) 
+- [2020-09-28-我在考虑到底什么是架构师，架构师到底解决了什么问题？](https://www.v2ex.com/t/711298) 
+- [2020-09-28-三星系-内存/硬盘/移动硬盘-清仓-福利帖](https://www.v2ex.com/t/711297) 
+- [2020-09-28-大家有没有遇到过-cron-定时执行-pg_dump-和-mysqldump-出现-cannot-be-found-的问题呢](https://www.v2ex.com/t/711294) 
+- [2020-09-28-Airpods-Pro-在手机上切换降噪好麻烦需要操作-3-步](https://www.v2ex.com/t/711293) 
 - [2020-09-28-资深-Android-研发工程师-—-字节跳动飞书小程序](https://www.v2ex.com/t/711292) 
 - [2020-09-28-AirPods-Pro-在-iPad-和手机之间老是抢信号📶](https://www.v2ex.com/t/711291) 
 - [2020-09-28-Linux-服务器管理多窗口](https://www.v2ex.com/t/711290) 
@@ -42,9 +47,3 @@
 - [2020-09-28-为什么-Nextcloud-需要生成那么多略缩图呢？](https://www.v2ex.com/t/711252) 
 - [2020-09-28-面试有感](https://www.v2ex.com/t/711251) 
 - [2020-09-28-iPad-使用随航当做屏幕,-会有烧屏的风险吗?](https://www.v2ex.com/t/711250) 
-- [2020-09-28-国内有没有什么可以个人免费发表-CSSCI,SCI-的网站不？](https://www.v2ex.com/t/711249) 
-- [2020-09-28-优惠售自家苹果和猕猴桃，抽奖送苹果](https://www.v2ex.com/t/711247) 
-- [2020-09-28-有没有有网络资源和服务器资源的朋友啊？](https://www.v2ex.com/t/711246) 
-- [2020-09-28-国庆从深圳回长沙](https://www.v2ex.com/t/711245) 
-- [2020-09-28-第一次使用-apple-pay，居然会改变锁屏密码...](https://www.v2ex.com/t/711244) 
-- [2020-09-28-domain-event-开源项目](https://www.v2ex.com/t/711243) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-09-28 07:49:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 08:04:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Nodejs技术栈
 
 
 
 
+- [2020-09-28-深度解读《新版-JavaScript-红宝书高程第四版》](https://www.ershicimi.com/p/2bc90de1c9eeca332a6db945fea20956) 
+- [2020-09-28-CNodejs每日新闻周刊｜第-7-期](https://www.ershicimi.com/p/3f7061fd1d18b6916af923609e24a196) 
+- [2020-09-26-震惊！这个代码片段竟然会让-V8-内存无法回收？！](https://www.ershicimi.com/p/975ee862c41b1852efcca27a4ab66a25) 
 - [2020-09-25-Node.js-案发现场揭秘-——-文件句柄泄露导致进程假死](https://www.ershicimi.com/p/6dae4d4a8faac3ff4a499e3be7c55dbc) 
 - [2020-09-24-Node.js-定时器详解](https://www.ershicimi.com/p/5f7301ddf1080f76b099a5be3ba69ccd) 
 - [2020-09-23-Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/29fa0a1bf73f5284b1a0b04a5c6bf2e5) 
@@ -22,6 +25,3 @@
 - [2020-09-06-CNodejs每日新闻周刊｜第-4-期](https://www.ershicimi.com/p/ef4b7dbf19444c283e9a2babb975502c) 
 - [2020-09-05-“Hello-Node.js”-这一次是你没见过的写法](https://www.ershicimi.com/p/afafa768f314ee3c006a6297a65ccfdd) 
 - [2020-09-04-Vivo-商城前端架构升级-总览篇](https://www.ershicimi.com/p/bac62407af4f89133d25b05986316fe6) 
-- [2020-09-03-Node.js-脚本遭遇异常时如何安全退出](https://www.ershicimi.com/p/325ce3cc3a989db3e2237ed4fdcce687) 
-- [2020-08-27-什么？华为开始对Node&Vue下手了？](https://www.ershicimi.com/p/fa7c430e5710d6664aaf2ebf5b132816) 
-- [2020-08-26-一篇文章构建你的-Node.js-知识体系](https://www.ershicimi.com/p/f1fb1a33a8919fc776903a2c25cf09d2) 

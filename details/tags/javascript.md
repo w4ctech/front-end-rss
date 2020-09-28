@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 12:16:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 12:32:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -68,6 +68,7 @@
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
 - [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
+- [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/ef8836a398c98f900987145946f1002a) 
 - [2020-09-13-【适合收藏】为了多点时间陪女朋友，我向BAT大佬跪求了这15条JS技巧](https://www.ershicimi.com/p/377a93f8f8487721b0841aef9d394740) 
 - [2020-09-28-「译」更快的-async-函数和-promises](https://www.ershicimi.com/p/82bbbb940fb24f6065c0af79ab916fbe) 
 - [2020-09-26-javascript红宝书第4版中奖名单！](https://www.ershicimi.com/p/c2b140a6eba648c1cc193b5b78df5019) 
@@ -107,5 +108,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-28-100-500-价位的路由器有什么推荐的吗?](https://www.v2ex.com/t/711356) 
 - [2020-09-28-Safari-安装了一个看-Json-的插件，然后-Teambition-就炸了](https://www.v2ex.com/t/711353) 
-- [2020-09-28-家宽软路由开虚拟机作为国内跳板并且国内外分流](https://www.v2ex.com/t/711324) 
 - [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) 
+- [2020-09-28-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

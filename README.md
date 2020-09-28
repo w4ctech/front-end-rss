@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 12:16:29，:rocket: 更新条数: +3443， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 12:32:16，:rocket: 更新条数: +3443， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -570,6 +570,8 @@
 </summary>
 
 
+- [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/ef8836a398c98f900987145946f1002a) ![](assets/new.png)  
+- [2020-09-27-一位用动画自学前端的小伙子！](https://www.ershicimi.com/p/a4781951b30e04f2f6ba3770045ce0b1) ![](assets/new.png)  
 - [2020-09-24-Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/f95d56e6e84c38133b2b0edaa76e00c1) ![](assets/new.png)  
 - [2020-09-24-什么是架构师的必备技能？](https://www.ershicimi.com/p/389248df6844e601db707f1b8f89c5b3) ![](assets/new.png)  
 - [2020-09-24-React-17.0.0-rc.2-版本发布，引入全新的-JSX-转换](https://www.ershicimi.com/p/959d75c0d983c8d19dcb1a71ae409e93) ![](assets/new.png)  
@@ -588,8 +590,6 @@
 - [2020-09-10-TypeScript高级类型备忘录（附示例）](https://www.ershicimi.com/p/b309cb48342fdcd112a1bd62674c8d90) ![](assets/new.png)  
 - [2020-09-10-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/e5142f7f4daf63bcaedc86a976e9312d) ![](assets/new.png)  
 - [2020-09-10-2020-年-9-月编程语言排行榜](https://www.ershicimi.com/p/c00e6398ea9834c304110424f5c461dd) ![](assets/new.png)  
-- [2020-09-08-一个可能让你的页面渲染速度提升数倍的CSS属性](https://www.ershicimi.com/p/e50f0acf35c61187f22209a1e76cc671) ![](assets/new.png)  
-- [2020-09-07-6种展示代码的绝佳方式](https://www.ershicimi.com/p/e84652f11e5cbb34d8b2fdb53abb3e82) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -948,10 +948,10 @@
 
 
 - [2020-09-28-前端：道阻且长，行则将至](https://juejin.im/post/6877510221661962254) ![](assets/new.png)  
-- [2020-09-28-前端工程化：环境篇](https://juejin.im/post/6877454596038459406) ![](assets/new.png)  
+- [2020-09-28-Electron-快速入门及最新安装教程](https://juejin.im/post/6877473370699808781) ![](assets/new.png)  
+- [2020-09-28-前端工程规范](https://juejin.im/post/6877460289713864712) ![](assets/new.png)  
 - [2020-09-28-vue源码解析之computed原理](https://juejin.im/post/6877451301618352141) ![](assets/new.png)  
 - [2020-09-28-box-shadow的妙用](https://juejin.im/post/6877448842749575182) ![](assets/new.png)  
-- [2020-09-27-鸿蒙OS应用开发：双向数据绑定](https://juejin.im/post/6877415665817354254) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-28-国外服务器和域名哪家强](https://www.v2ex.com/t/711374) ![](assets/new.png)  
 - [2020-09-28-macos-修改-hosts-后，浏览器不会立刻生效的问题](https://www.v2ex.com/t/711373) ![](assets/new.png)  
 - [2020-09-28-上海有哪些地方适合周末抱着电脑去写代码，大佬们周末休息时间一般去哪写代码呢](https://www.v2ex.com/t/711372) ![](assets/new.png)  
 - [2020-09-28-gormt-mysql-数据库转换工具-支持-grom-v2-版本了](https://www.v2ex.com/t/711370) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-28-PDD-二血也送出了](https://www.v2ex.com/t/711350) ![](assets/new.png)  
 - [2020-09-28-系统设计公开课-国内一线大厂架构师详解秒杀系统&订票系统](https://www.v2ex.com/t/711349) ![](assets/new.png)  
 - [2020-09-28-b-站大会员优惠终于来了](https://www.v2ex.com/t/711348) ![](assets/new.png)  
-- [2020-09-28-国内有类似-Vercel-的平台吗？](https://www.v2ex.com/t/711347) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,16 +1126,16 @@
 - [2020-09-28-一文领略-HTTP-的前世今生](https://toutiao.io/k/x8q4huu) ![](assets/new.png)  
 - [2020-09-28-手写一个-Flutter-State-Widget，来让你彻底理解-State-的来龙去脉](https://toutiao.io/k/9e26wxn) ![](assets/new.png)  
 - [2020-09-28-NCDP-会让程序员失业？多虑了](https://toutiao.io/k/fps33tf) ![](assets/new.png)  
-- [2020-09-28-面试官：兄弟，说说-ArrayList-和-LinkedList-有什么区别](https://toutiao.io/k/0xofen5) ![](assets/new.png)  
 - [2020-09-28-Kubernetes-Ingress-入门指南和实践练习](https://toutiao.io/k/8dpctvj) ![](assets/new.png)  
+- [2020-09-28-面试官：兄弟，说说-ArrayList-和-LinkedList-有什么区别](https://toutiao.io/k/0xofen5) ![](assets/new.png)  
 - [2020-09-28-OKR-是新时代的-KPI-吗？](https://toutiao.io/k/hzy4fxu) ![](assets/new.png)  
 - [2020-09-28-Istio-Pilot-源码分析（二）](https://toutiao.io/k/6jpr0e8) ![](assets/new.png)  
 - [2020-09-28-高效备份神器-Restic-推荐](https://toutiao.io/k/59ismjb) ![](assets/new.png)  
 - [2020-09-28-Gin-学习之自定义服务器配置信息](https://toutiao.io/k/pf8uwpx) ![](assets/new.png)  
 - [2020-09-28-译-Prettier-插件开发文档](https://toutiao.io/k/yc240tb) ![](assets/new.png)  
 - [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) ![](assets/new.png)  
-- [2020-09-28-前端需要掌握的设计模式](https://toutiao.io/k/6l8m339) ![](assets/new.png)  
 - [2020-09-28-面试：谈谈你对-MyBatis-执行过程之-SQL-执行过程理解](https://toutiao.io/k/e9hzrqq) ![](assets/new.png)  
+- [2020-09-28-前端需要掌握的设计模式](https://toutiao.io/k/6l8m339) ![](assets/new.png)  
 - [2020-09-28-Cilium:-CNI-create-network-图文详解-2020](https://toutiao.io/k/k8uahrc) ![](assets/new.png)  
 - [2020-09-28-敏捷项目中的项目管理如何做？](https://toutiao.io/k/2xxfs2s) ![](assets/new.png)  
 - [2020-09-28-LeetCode-66：加一](https://toutiao.io/k/whwkl7r) ![](assets/new.png)  

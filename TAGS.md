@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-28 12:16:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 12:32:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -302,7 +302,7 @@
 - [【前端大学】保持页脚在底部:Flexbox-vs-Grid](https://www.ershicimi.com/p/1473c3e588d8f9967d71001139453df3)
 - [【前端外刊评论】Serverless-背景下的前端困境与解决方案](https://www.ershicimi.com/p/ec1908283d9c4dac9fa716b21292ccd5)
 - [【前端外刊评论】赠书-|-张鑫旭新书《CSS选择器世界》章节试读](https://www.ershicimi.com/p/1be4d882970f60785dec795871ae4c89)
-- [【前端宇宙】一个可能让你的页面渲染速度提升数倍的CSS属性](https://www.ershicimi.com/p/e50f0acf35c61187f22209a1e76cc671)
+- [【前端宇宙】一位用动画自学前端的小伙子！](https://www.ershicimi.com/p/a4781951b30e04f2f6ba3770045ce0b1)
 - [【张鑫旭-鑫空间-鑫生活】研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/)
 - [【张鑫旭-鑫空间-鑫生活】颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/)
 - [【张鑫旭-鑫空间-鑫生活】深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/)
@@ -457,7 +457,6 @@
 - [【InfoQ】快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b)
 - [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】一文领略-HTTP-的前世今生](https://toutiao.io/k/x8q4huu)
-- [【开发者头条】推荐-大厂面试爱问的-“调度算法”，20-张图一举拿下](https://toutiao.io/k/zu9e79n)
 - [【开发者头条】推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

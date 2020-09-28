@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 16:49:00，:rocket: 更新条数: +742， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 17:03:41，:rocket: 更新条数: +3670， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-09-27-最新疫情：全国新冠累计确诊85372例-新增境外输入21例](http://m.china.caixin.com/m/2020-09-28/101610457.html) ![](assets/new.png)  
+- [2020-09-27-最新海外疫情：新冠感染超3297万-累计死亡超99万](http://m.international.caixin.com/m/2020-09-28/101610609.html) ![](assets/new.png)  
+- [2020-09-27-【境内疫情观察】全国新增21例境外输入病例（9月27日）](http://m.database.caixin.com/m/2020-09-28/101610505.html) ![](assets/new.png)  
+- [2020-09-27-大流行手记|9月27日：莫迪力撑印度疫苗-英国23所高校现疫情](https://m.caixin.com/m/2020-09-28/101610347.html) ![](assets/new.png)  
+- [2020-09-26-【境内疫情观察】全国新增14例境外输入病例（9月26日）](http://m.database.caixin.com/m/2020-09-27/101610202.html) ![](assets/new.png)  
+- [2020-09-26-大流行手记|9月26日：WHO预计全球新冠病亡人数或超200万-俄罗斯疫情反弹](https://m.caixin.com/m/2020-09-27/101610108.html) ![](assets/new.png)  
+- [2020-09-25-【境内疫情观察】全国新增15例境外输入病例（9月25日）](http://m.database.caixin.com/m/2020-09-26/101609993.html) ![](assets/new.png)  
+- [2020-09-25-大流行手记|9月25日：特朗普强推新冠疫苗上市引争议-部分国家流感疫苗不足](https://m.caixin.com/m/2020-09-26/101609872.html) ![](assets/new.png)  
+- [2020-09-24-青岛2名装卸工人感染新冠肺炎-属无症状感染者](http://m.china.caixin.com/m/2020-09-25/101609353.html) ![](assets/new.png)  
+- [2020-09-24-【境内疫情观察】青岛新增2例本土无症状感染者（9月24日）](http://m.database.caixin.com/m/2020-09-25/101609513.html) ![](assets/new.png)  
+- [2020-09-24-大流行手记|9月24日：英国多所高校现新冠疫情-强生疫苗启动三期临床试验](https://m.caixin.com/m/2020-09-25/101609385.html) ![](assets/new.png)  
+- [2020-09-23-【境内疫情观察】全国新增7例境外输入病例（9月23日）](http://m.database.caixin.com/m/2020-09-24/101609038.html) ![](assets/new.png)  
+- [2020-09-23-大流行手记|9月23日：全球累计死亡近百万人-美国疫情现抬头趋势](https://m.caixin.com/m/2020-09-24/101608948.html) ![](assets/new.png)  
+- [2020-09-23-美国疫情反弹22州病例持续上升-仅半数美国人愿打疫苗](http://m.international.caixin.com/m/2020-09-24/101609295.html) ![](assets/new.png)  
+- [2020-09-21-香港新冠超级传播事件启示：19%病例或成防疫关键](https://m.caixin.com/m/2020-09-22/101608361.html) ![](assets/new.png)  
+- [2020-09-21-云南瑞丽“解封”-中缅边境管控压力仍大](https://m.caixin.com/m/2020-09-22/101607895.html) ![](assets/new.png)  
+- [2020-09-21-【境内疫情观察】全国新增6例境外输入病例（9月21日）](http://m.database.caixin.com/m/2020-09-22/101608147.html) ![](assets/new.png)  
+- [2020-09-21-大流行手记|9月21日：权威学者建议英国尽快“封城”-英美均曝检测不足](https://m.caixin.com/m/2020-09-22/101607933.html) ![](assets/new.png)  
+- [2020-09-21-欧洲多地疫情反弹-为避免悲剧重演各国加紧防控步伐](http://m.international.caixin.com/m/2020-09-22/101608317.html) ![](assets/new.png)  
+- [2020-09-20-【境内疫情观察】全国新增12例境外输入病例（9月20日）](http://m.database.caixin.com/m/2020-09-21/101607590.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -730,6 +750,26 @@
 </summary>
 
 
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1077,26 @@
 </summary>
 
 
+- [2020-09-28-中国邮政快递的网站被劫持了？???为啥我的打开是会跳转其它网页、*情网页、](https://www.v2ex.com/t/711421) ![](assets/new.png)  
+- [2020-09-28-有必要和同事搞好关系吗？](https://www.v2ex.com/t/711420) ![](assets/new.png)  
+- [2020-09-28-mac-big-sur-自带的-Python-是啥版本？有-python2-吗？](https://www.v2ex.com/t/711419) ![](assets/new.png)  
+- [2020-09-28-安卓-app-打包，程序已经部署好了。只需要获取设备信息最好-allndroid-id-imei-及-mac-都取出来。可以加微信-jxbf888888-价格美丽！](https://www.v2ex.com/t/711418) ![](assets/new.png)  
+- [2020-09-28-员工内推-安全与风控-字节跳动-北上杭深](https://www.v2ex.com/t/711417) ![](assets/new.png)  
+- [2020-09-28-Hyper-出品的全新-3A1C+双头插口充电头](https://www.v2ex.com/t/711416) ![](assets/new.png)  
+- [2020-09-28-又上线了一个冷门网站：-吾爱哲学-，有稀饭的吗～](https://www.v2ex.com/t/711415) ![](assets/new.png)  
+- [2020-09-28-大学生组队交友-互相学习-Web-开发](https://www.v2ex.com/t/711413) ![](assets/new.png)  
+- [2020-09-28-请教联通-F627Za-光猫咋改桥接呀？](https://www.v2ex.com/t/711412) ![](assets/new.png)  
+- [2020-09-28-在生活中为什么一张身份证不能替代其他卡片？](https://www.v2ex.com/t/711411) ![](assets/new.png)  
+- [2020-09-28-rss-转-pdf-有啥工具推荐吗](https://www.v2ex.com/t/711409) ![](assets/new.png)  
+- [2020-09-28-多年-PHPer，最近想开发一个微信小游戏，请教一下大家哪个工具更适合自己一点？](https://www.v2ex.com/t/711408) ![](assets/new.png)  
+- [2020-09-28-iOS14.0.1-的系统键盘卡得离谱](https://www.v2ex.com/t/711407) ![](assets/new.png)  
+- [2020-09-28-阿里云腾讯云代理优惠欢迎咨询.](https://www.v2ex.com/t/711406) ![](assets/new.png)  
+- [2020-09-28-大家平时一天的日程表大概是什么样的?](https://www.v2ex.com/t/711405) ![](assets/new.png)  
+- [2020-09-28-求助：如何恢复-iPhone-里的-WhatsApp-记录以及文档](https://www.v2ex.com/t/711404) ![](assets/new.png)  
+- [2020-09-28-相机传照片太慢](https://www.v2ex.com/t/711403) ![](assets/new.png)  
+- [2020-09-28-写字不好看怎么破？](https://www.v2ex.com/t/711402) ![](assets/new.png)  
+- [2020-09-28-ventory（https://www.ventoy.net/cn/index.html）无法启动-PE，为什么？](https://www.v2ex.com/t/711401) ![](assets/new.png)  
+- [2020-09-28-不懂就问：大家知道深圳的公积金可以线上办理月提吗？](https://www.v2ex.com/t/711399) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 02:49:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 03:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,6 +37,7 @@
 - [2020-09-25-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/4813363bd7395275267f50297dbd08d6) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-28-安全与风控-字节跳动-北上杭深-内推](https://www.v2ex.com/t/711176) 
 - [2020-09-28-浏览器崩溃后恢复造成轻量-“DDoS”-该如何解决？](https://www.v2ex.com/t/711165) 
 - [2020-09-28-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-28-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

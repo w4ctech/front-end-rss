@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 05:03:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 05:12:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,7 +43,6 @@
 - [2020-09-28-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-28-kotlin-如何解决-java-开发痛点，让程序员-happier-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-28-译-Prettier-插件开发文档](https://toutiao.io/k/yc240tb) 
-- [2020-09-28-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) 
 - [2020-09-28-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) 
 - [2020-09-27-奇安信代码安全实验室协助RedHat修复漏洞-获官方致谢](https://sec.thief.one/article_content?a_id=34fb16cafb757a18ffecbe71efc385ce) 
 - [2020-09-27-绿盟科技网络安全学院首期CISA认证培训班开授](https://sec.thief.one/article_content?a_id=bc1a64d60bf2c4fdddce7bad00501564) 

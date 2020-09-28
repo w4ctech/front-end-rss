@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 06:47:12，:rocket: 更新条数: +3671， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 06:49:15，:rocket: 更新条数: +3571， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)![](assets/dot.png)   
+- [安全热点](#安全热点)  
 
 ## 文章链接
 
@@ -1170,26 +1170,6 @@
 </summary>
 
 
-- [2020-09-27-Lazarus屡酿全球金融灾难,360刘嘉磊独家披露数字货币的觊觎者](https://sec.thief.one/article_content?a_id=97dc7cac0201ddbf846d62e37b619df2) ![](assets/new.png)  
-- [2020-09-27-自动驾驶CTF大赛圆满落幕-|-冠军花落加州大学asguard战队](https://sec.thief.one/article_content?a_id=f52f555b4191c9de941e6f2fc958246e) ![](assets/new.png)  
-- [2020-09-27-奇安信代码安全实验室协助RedHat修复漏洞-获官方致谢](https://sec.thief.one/article_content?a_id=34fb16cafb757a18ffecbe71efc385ce) ![](assets/new.png)  
-- [2020-09-27-卧槽,史上超全面Python面试题和详解10个高清PDF,开放下载!](https://sec.thief.one/article_content?a_id=a2e3a3f9312f3dff2301615aa6a1d7a5) ![](assets/new.png)  
-- [2020-09-27-冠军诞生!24-小时云上对决,2020TCTF总决赛成绩出炉](https://sec.thief.one/article_content?a_id=132a357a57cc0892b623bc53d3b3def1) ![](assets/new.png)  
-- [2020-09-27-【训练营】对抗安卓恶意App的必备技能,你掌握了吗?](https://sec.thief.one/article_content?a_id=cdc3b3c7c77c43b61d961675d05bea59) ![](assets/new.png)  
-- [2020-09-27-绿盟科技网络安全学院首期CISA认证培训班开授](https://sec.thief.one/article_content?a_id=bc1a64d60bf2c4fdddce7bad00501564) ![](assets/new.png)  
-- [2020-09-27-移动安全五|NDK开发教程_普通和静态字段调用](https://sec.thief.one/article_content?a_id=fbd44ad984b5883f0fc669d040944905) ![](assets/new.png)  
-- [2020-09-27-Cnitch:一款Docker引擎运行进程权限检测工具](https://sec.thief.one/article_content?a_id=6f02fc99e8e71a41d46decf253793828) ![](assets/new.png)  
-- [2020-09-27-光大银行牟健君:威胁情报在银行业的建设方案与实践-|-2020-情报大会...](https://sec.thief.one/article_content?a_id=ab50fd98a62d43854355e5c8013c4227) ![](assets/new.png)  
-- [2020-09-27-CrossC2的2.0版本](https://sec.thief.one/article_content?a_id=7a29e44d536a0eb471c5cc77461b5328) ![](assets/new.png)  
-- [2020-09-27-在看-|-一周网安回顾-2020.9.19~9.26](https://sec.thief.one/article_content?a_id=033d6f2c39e5d260573a96cb167145fa) ![](assets/new.png)  
-- [2020-09-27-庄荣文在2020中国网络媒体论坛开幕式上的致辞全文](https://sec.thief.one/article_content?a_id=7548c1b098f5d15cda91851dec5eab96) ![](assets/new.png)  
-- [2020-09-27-推荐几个优质原创的安全公众号](https://sec.thief.one/article_content?a_id=5aabaa73697c907010b4fff50ac6a5c8) ![](assets/new.png)  
-- [2020-09-27-bitcoiner的集体回忆OpenBazaar或将关闭,10万美元能“救它一命”](https://sec.thief.one/article_content?a_id=4d96be6611bb98ee716b7fb8603359cb) ![](assets/new.png)  
-- [2020-09-27-剑桥研究表明,全球1亿人口正在使用基于加密的资产](https://sec.thief.one/article_content?a_id=252be316c95bfb8fba58b608d4921cac) ![](assets/new.png)  
-- [2020-09-27-CNCERT:上半年我国约7.4万个网站遭篡改,网站安全防护须高度重视](https://sec.thief.one/article_content?a_id=db065a6ba44a2f5efcade07f438a882f) ![](assets/new.png)  
-- [2020-09-27-美团招聘丨等,-秋天第一个有缘人](https://sec.thief.one/article_content?a_id=54991d445d5c7756a80e017f60469123) ![](assets/new.png)  
-- [2020-09-27-疫情下美国人陷入“失业焦虑”,储蓄、投资比特币成新流行](https://sec.thief.one/article_content?a_id=6d0911e387f2a845aaf7037127b40197) ![](assets/new.png)  
-- [2020-09-27-【视频】|-Python:if+else的使用](https://sec.thief.one/article_content?a_id=200e15a0b174fa098f513e1ea89e6191) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

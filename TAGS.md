@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-28 06:47:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 06:49:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -545,8 +545,6 @@
 - [【互联网架构师】干掉RESTful：GraphQL真香！](https://www.ershicimi.com/p/edd9f7448cd2ffcc470e598f57f231ae)
 - [【JavaScript】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)
 - [【开发者头条】高效备份神器-Restic-推荐](https://toutiao.io/k/59ismjb)
-- [【安全热点】Cnitch:一款Docker引擎运行进程权限检测工具](https://sec.thief.one/article_content?a_id=6f02fc99e8e71a41d46decf253793828)
-- [【安全热点】如何在Django-REST框架中使用Swagger-API](https://sec.thief.one/article_content?a_id=79b9b64b1a9b1f1ca16d73b149bee850)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

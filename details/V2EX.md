@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-09-28 01:47:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 02:03:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-28-3*x^2+8*x*y+2*y^2-3=0-对-x-求导。如果用-sympy-或-sage-求导函数？](https://www.v2ex.com/t/711145) 
+- [2020-09-28-有没有什么体重秤可以自动把数据同步到-iOS-健康-app-的？](https://www.v2ex.com/t/711144) 
+- [2020-09-28-关于-PHP-的一个**运算问题](https://www.v2ex.com/t/711141) 
+- [2020-09-28-60TB-容量的云端存储机，如何有效控制成本？做-Raid5-可靠吗？](https://www.v2ex.com/t/711140) 
+- [2020-09-28-送码-GeText-&-JSON2Model-for-macOS.](https://www.v2ex.com/t/711138) 
+- [2020-09-28-深圳-宝安中心-天健时尚空间出租](https://www.v2ex.com/t/711137) 
+- [2020-09-28-反兴趣推荐-app？](https://www.v2ex.com/t/711136) 
+- [2020-09-28-10-号线华为站附近单身公寓转租](https://www.v2ex.com/t/711135) 
+- [2020-09-28-有喜欢布偶猫的吗](https://www.v2ex.com/t/711134) 
+- [2020-09-28-有没有类似-typora-的可以用-markdown-语言编辑,然后实时预览的-vue-开源工具](https://www.v2ex.com/t/711133) 
 - [2020-09-28-有婚礼纪的老哥吗](https://www.v2ex.com/t/711132) 
 - [2020-09-28-明源云客这家公司有巨佬有了解吗](https://www.v2ex.com/t/711130) 
 - [2020-09-28-分享十几个免费商用无版权素材库](https://www.v2ex.com/t/711129) 
@@ -36,15 +46,3 @@
 - [2020-09-27-深圳有-965-公司吗](https://www.v2ex.com/t/711099) 
 - [2020-09-27-求助：-MacbookPro17-显示颜色泛白，重启多次，-reset-NVRAM-多次，没有效果。](https://www.v2ex.com/t/711098) 
 - [2020-09-27-iPhone-倒计时-bug,-看似小,但是可以造成大问题](https://www.v2ex.com/t/711097) 
-- [2020-09-27-macOS-10.15.7-中-Airdrop-接收文件速度特别慢](https://www.v2ex.com/t/711095) 
-- [2020-09-27-请问-SpringBoot-中是让哪个类去处理-@EnableConfigurationProperties-的类的（实例）的？](https://www.v2ex.com/t/711094) 
-- [2020-09-27-想学习，却不知道学什么](https://www.v2ex.com/t/711093) 
-- [2020-09-27-本科应届生，九月末了，还是-0-Offer，对比了周围其他人，太失落了。](https://www.v2ex.com/t/711092) 
-- [2020-09-27-如何从字符串中提取-ip-地址不用正则](https://www.v2ex.com/t/711091) 
-- [2020-09-27-微信自带的浏览器能不能在其他客户端被作为第三方浏览器的一个选项？](https://www.v2ex.com/t/711090) 
-- [2020-09-27-国庆前一周提离职，结果被公司告知可以提前离职](https://www.v2ex.com/t/711089) 
-- [2020-09-27-Japan-0-0](https://www.v2ex.com/t/711087) 
-- [2020-09-27-这两个显示器哪个好？](https://www.v2ex.com/t/711086) 
-- [2020-09-27-#chrome#你们手机用什么浏览器？](https://www.v2ex.com/t/711085) 
-- [2020-09-27-深圳哪里能收到香港信号呢？想自行开通-AW6-的-ECG](https://www.v2ex.com/t/711084) 
-- [2020-09-27-K8S-管理-MySQL-的最佳实践是啥？](https://www.v2ex.com/t/711083) 

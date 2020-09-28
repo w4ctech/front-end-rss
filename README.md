@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-28 06:14:10，:rocket: 更新条数: +3443， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-28 06:28:26，:rocket: 更新条数: +3443， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-28-印度新冠肺炎累计确诊病例超600万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigzQeo9LQwu97HrURozeC200928&isfromapp=1) ![](assets/new.png)  
 - [2020-09-28-北京市要求企业主动规避从疫情严重地区进口冷链食品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4bCtEbtKdL4diTDFuNP1200928&isfromapp=1) ![](assets/new.png)  
 - [2020-09-28-阿根廷新冠肺炎病例超过71万，疫情形势愈加复杂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSRjUtvC2vjTAurGhBlr1200928&isfromapp=1) ![](assets/new.png)  
 - [2020-09-28-上海27日新增10例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3X8mWseCD55UYMtUqTvo200928&isfromapp=1) ![](assets/new.png)  
 - [2020-09-27-世卫组织：全球新冠肺炎新增298773例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0nqwj8RUv26PGLpYBEWe200928&isfromapp=1) ![](assets/new.png)  
-- [2020-09-27-英国至少32所高校出现疫情，超过4000名学生在宿舍隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQb0bZlkEik6hsMsNRvTD200928&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-09-27-深入理解v-model之自定义组件用法](https://juejin.im/post/6877383634349719565) ![](assets/new.png)  
+- [2020-09-27-学好-css伪类-==-秋天的第一杯奶茶-🥤](https://juejin.im/post/6877300587843551245) ![](assets/new.png)  
+- [2020-09-27-【图表开发小案例】快来码一个性感妖娆的高逼格-“圆环”](https://juejin.im/post/6877232852598489101) ![](assets/new.png)  
+- [2020-09-27-HTTPS-简析](https://juejin.im/post/6877229867214045198) ![](assets/new.png)  
 - [2020-09-27-VueX实现原理之ModuleCollection原理和作用](https://juejin.im/post/6877219784954806285) ![](assets/new.png)  
 - [2020-09-27-Object.defineproperty和proxy在项目中的妙用](https://juejin.im/post/6877202931973079053) ![](assets/new.png)  
-- [2020-09-27-Vue源码解析之Keep-alive](https://juejin.im/post/6877191933983358983) ![](assets/new.png)  
-- [2020-09-27-不得不说的-Undefined-、Undeclared-与-Null](https://juejin.im/post/6877183222199910408) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-28-后端想学点前端-ant-design-pro，前端东西太多，如何快速学习？](https://www.v2ex.com/t/711257) ![](assets/new.png)  
+- [2020-09-28-请教几个关于教育优惠的问题](https://www.v2ex.com/t/711256) ![](assets/new.png)  
+- [2020-09-28-灵均投资-招聘-|-高级-C++算法工程师](https://www.v2ex.com/t/711253) ![](assets/new.png)  
 - [2020-09-28-为什么-Nextcloud-需要生成那么多略缩图呢？](https://www.v2ex.com/t/711252) ![](assets/new.png)  
 - [2020-09-28-面试有感](https://www.v2ex.com/t/711251) ![](assets/new.png)  
 - [2020-09-28-iPad-使用随航当做屏幕,-会有烧屏的风险吗?](https://www.v2ex.com/t/711250) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-28-急招北京美团-Java-美团优选-社区团购业务供应链团队-Java-高级工程师/技术专家20K~60K/15.5-薪](https://www.v2ex.com/t/711236) ![](assets/new.png)  
 - [2020-09-28-集锦分享](https://www.v2ex.com/t/711235) ![](assets/new.png)  
 - [2020-09-28-开源分享-一个跨平台的网络媒体聚合应用，桌面端采用-Python](https://www.v2ex.com/t/711234) ![](assets/new.png)  
-- [2020-09-28-发现办公软件最近出了点问题](https://www.v2ex.com/t/711232) ![](assets/new.png)  
-- [2020-09-28-今天办公室已经没有上班氛围了](https://www.v2ex.com/t/711231) ![](assets/new.png)  
-- [2020-09-28-sqlite-读数据的时候会加锁么，有锁的话能否改造为完全无锁状态](https://www.v2ex.com/t/711230) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,8 +1136,8 @@
 - [2020-09-28-Cilium:-CNI-create-network-图文详解-2020](https://toutiao.io/k/k8uahrc) ![](assets/new.png)  
 - [2020-09-28-面试：谈谈你对-MyBatis-执行过程之-SQL-执行过程理解](https://toutiao.io/k/e9hzrqq) ![](assets/new.png)  
 - [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) ![](assets/new.png)  
-- [2020-09-28-敏捷项目中的项目管理如何做？](https://toutiao.io/k/2xxfs2s) ![](assets/new.png)  
 - [2020-09-28-前端需要掌握的设计模式](https://toutiao.io/k/6l8m339) ![](assets/new.png)  
+- [2020-09-28-敏捷项目中的项目管理如何做？](https://toutiao.io/k/2xxfs2s) ![](assets/new.png)  
 - [2020-09-28-LeetCode-66：加一](https://toutiao.io/k/whwkl7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

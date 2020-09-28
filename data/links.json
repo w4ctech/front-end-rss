@@ -13317,6 +13317,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "印度新冠肺炎累计确诊病例超600万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigzQeo9LQwu97HrURozeC200928&isfromapp=1",
+        "date": "2020-09-28"
+      },
+      {
         "title": "北京市要求企业主动规避从疫情严重地区进口冷链食品",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4bCtEbtKdL4diTDFuNP1200928&isfromapp=1",
         "date": "2020-09-28"
@@ -13334,11 +13339,6 @@
       {
         "title": "世卫组织：全球新冠肺炎新增298773例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0nqwj8RUv26PGLpYBEWe200928&isfromapp=1",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "英国至少32所高校出现疫情，超过4000名学生在宿舍隔离",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQb0bZlkEik6hsMsNRvTD200928&isfromapp=1",
         "date": "2020-09-27"
       }
     ]
@@ -16136,8 +16136,18 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "深入理解v-model之自定义组件用法",
-        "link": "https://juejin.im/post/6877383634349719565",
+        "title": "学好 css伪类 == 秋天的第一杯奶茶 🥤",
+        "link": "https://juejin.im/post/6877300587843551245",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "【图表开发小案例】快来码一个性感妖娆的高逼格 “圆环”",
+        "link": "https://juejin.im/post/6877232852598489101",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "HTTPS 简析",
+        "link": "https://juejin.im/post/6877229867214045198",
         "date": "2020-09-27"
       },
       {
@@ -16148,16 +16158,6 @@
       {
         "title": "Object.defineproperty和proxy在项目中的妙用",
         "link": "https://juejin.im/post/6877202931973079053",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "Vue源码解析之Keep-alive",
-        "link": "https://juejin.im/post/6877191933983358983",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "不得不说的 Undefined 、Undeclared 与 Null",
-        "link": "https://juejin.im/post/6877183222199910408",
         "date": "2020-09-27"
       }
     ]
@@ -16495,6 +16495,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "后端想学点前端 ant design pro，前端东西太多，如何快速学习？",
+        "link": "https://www.v2ex.com/t/711257",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "请教几个关于教育优惠的问题",
+        "link": "https://www.v2ex.com/t/711256",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[灵均投资] 招聘 | 高级 C++算法工程师",
+        "link": "https://www.v2ex.com/t/711253",
+        "date": "2020-09-28"
+      },
+      {
         "title": "为什么 Nextcloud 需要生成那么多略缩图呢？",
         "link": "https://www.v2ex.com/t/711252",
         "date": "2020-09-28"
@@ -16677,21 +16692,6 @@
       {
         "title": "[灵均投资] 招聘|初级量化研究员（股票）",
         "link": "https://www.v2ex.com/t/711210",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "pythonic 语法请教",
-        "link": "https://www.v2ex.com/t/711205",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "小弟开发的在线网课系统，码云和 github 都已发布，欢迎吐槽评论",
-        "link": "https://www.v2ex.com/t/711204",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "mysql 表设计/慢查询求解，详细场景见正文",
-        "link": "https://www.v2ex.com/t/711203",
         "date": "2020-09-28"
       }
     ]
@@ -16894,13 +16894,13 @@
         "date": "2020-09-28"
       },
       {
-        "title": "敏捷项目中的项目管理如何做？",
-        "link": "https://toutiao.io/k/2xxfs2s",
+        "title": "前端需要掌握的设计模式",
+        "link": "https://toutiao.io/k/6l8m339",
         "date": "2020-09-28"
       },
       {
-        "title": "前端需要掌握的设计模式",
-        "link": "https://toutiao.io/k/6l8m339",
+        "title": "敏捷项目中的项目管理如何做？",
+        "link": "https://toutiao.io/k/2xxfs2s",
         "date": "2020-09-28"
       },
       {
@@ -16909,53 +16909,8 @@
         "date": "2020-09-28"
       },
       {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
-        "link": "https://toutiao.io/k/xdryz90",
-        "date": "2020-09-28"
-      },
-      {
         "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
         "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 解密 Go 协程的栈内存管理",
-        "link": "https://toutiao.io/k/fkrobd3",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
-        "link": "https://toutiao.io/k/h9nal21",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
-        "link": "https://toutiao.io/k/yktjpks",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 大写的服，看完这篇你还不懂 RocketMQ 算我输",
-        "link": "https://toutiao.io/k/rhwgf1q",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
-        "link": "https://toutiao.io/k/rd2k0cu",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
         "date": "2020-09-28"
       },
       {
@@ -16964,23 +16919,68 @@
         "date": "2020-09-28"
       },
       {
+        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
+        "link": "https://toutiao.io/k/rd2k0cu",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
+        "link": "https://toutiao.io/k/pcsh3lu",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 23 个问题 TCP 疑难杂症全解析",
+        "link": "https://toutiao.io/k/yktjpks",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 谈谈我所认识的分布式锁",
+        "link": "https://toutiao.io/k/oqnmp3h",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 解密 Go 协程的栈内存管理",
+        "link": "https://toutiao.io/k/fkrobd3",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
+        "date": "2020-09-28"
+      },
+      {
         "title": "[推荐] 同城双活与异地多活架构分析",
         "link": "https://toutiao.io/k/e1eh64z",
         "date": "2020-09-28"
       },
       {
-        "title": "[推荐] 大厂面试爱问的 “调度算法”，20 张图一举拿下",
-        "link": "https://toutiao.io/k/zu9e79n",
+        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
+        "link": "https://toutiao.io/k/xdryz90",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 项目管理标准模板",
+        "link": "https://toutiao.io/k/aud21gw",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
+        "link": "https://toutiao.io/k/tyygn3e",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
+        "link": "https://toutiao.io/k/ejwph4b",
         "date": "2020-09-28"
       },
       {
         "title": "[推荐] 记一次线上性能调优：火焰图是利器",
         "link": "https://toutiao.io/k/rbvgji4",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
-        "link": "https://toutiao.io/k/s2yudly",
         "date": "2020-09-28"
       }
     ]

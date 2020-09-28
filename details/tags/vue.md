@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 06:14:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 06:28:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -75,7 +75,6 @@
 - [2020-09-11-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/c17632c9138f5cb25baa775890519b34) 
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2020-09-27-VueX实现原理之ModuleCollection原理和作用](https://juejin.im/post/6877219784954806285) 
-- [2020-09-27-Vue源码解析之Keep-alive](https://juejin.im/post/6877191933983358983) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-09-28-大佬们，你们有没有遇到-vscode-里面-vue-智能提示失效的情况？](https://www.v2ex.com/t/711238) 
 - [2020-09-28-求助大佬，-Vue-的官网的主题在哪下载？](https://www.v2ex.com/t/711212) 

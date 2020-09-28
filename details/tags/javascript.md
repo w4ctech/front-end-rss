@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 12:04:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 12:16:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -109,4 +109,3 @@
 - [2020-09-28-Safari-安装了一个看-Json-的插件，然后-Teambition-就炸了](https://www.v2ex.com/t/711353) 
 - [2020-09-28-家宽软路由开虚拟机作为国内跳板并且国内外分流](https://www.v2ex.com/t/711324) 
 - [2020-09-28-H5-应用加固防破解：js-虚拟机保护方案浅谈](https://toutiao.io/k/9m0fg26) 
-- [2020-09-28-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

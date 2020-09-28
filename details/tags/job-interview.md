@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-28 12:04:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-28 12:16:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -38,10 +38,8 @@
 - [2020-09-20-字节一面，面试官拿System.out.println考了我半个小时？我懵逼了...](https://www.ershicimi.com/p/a60c0807fe95f9e2aa01df028f0b6bbc) 
 - [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) 
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
-- [2020-09-28-JVM---记面试](https://www.v2ex.com/t/711322) 
 - [2020-09-28-华为-18-级工程师十年之作，整整-3625-页互联网大厂面试题合集](https://toutiao.io/k/quakzn8) 
 - [2020-09-28-面试官：兄弟，说说-ArrayList-和-LinkedList-有什么区别](https://toutiao.io/k/0xofen5) 
 - [2020-09-28-面试：谈谈你对-MyBatis-执行过程之-SQL-执行过程理解](https://toutiao.io/k/e9hzrqq) 
-- [2020-09-28-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
 - [2020-09-27-卧槽,史上超全面Python面试题和详解10个高清PDF,开放下载!](https://sec.thief.one/article_content?a_id=a2e3a3f9312f3dff2301615aa6a1d7a5) 
 - [2020-09-27-美团招聘丨等,-秋天第一个有缘人](https://sec.thief.one/article_content?a_id=54991d445d5c7756a80e017f60469123) 

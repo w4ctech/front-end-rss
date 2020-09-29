@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-29 11:11:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 11:23:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-29-Win10-的-NVIDIA-控制面板似乎不能修改程序使用的显卡？](https://www.v2ex.com/t/711662) 
+- [2020-09-29-深圳:广州如何选](https://www.v2ex.com/t/711661) 
 - [2020-09-29-catalina-10.15.6-修改苹果蓝牙键盘名称，中坑了](https://www.v2ex.com/t/711660) 
 - [2020-09-29-这个用-Warcraft-III:-Reforged-重制的-Warcraft-II-战役似乎使用了新的自制模型？](https://www.v2ex.com/t/711659) 
 - [2020-09-29-macOS-更新-10.15.7-卡住](https://www.v2ex.com/t/711656) 
@@ -40,4 +42,3 @@
 - [2020-09-29-百爪挠心，电信-app-让人抓狂](https://www.v2ex.com/t/711616) 
 - [2020-09-29-请问有大佬可以帮我解决一个-javaScript-问题吗,有偿!](https://www.v2ex.com/t/711615) 
 - [2020-09-29-推广-Spring-源码分析](https://www.v2ex.com/t/711614) 
-- [2020-09-29-WeTest-五周年-|“领航者”的破浪之路：诞生](https://www.v2ex.com/t/711613) 

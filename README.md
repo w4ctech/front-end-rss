@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 16:04:09，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 16:14:46，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-29-研究了一下关于程序员实现财务自由的方法总结](https://www.v2ex.com/t/711715) ![](assets/new.png)  
 - [2020-09-29-讨论-信息公示时公布完整身份-号码等是否构成个人隐私泄露?](https://www.v2ex.com/t/711714) ![](assets/new.png)  
 - [2020-09-29-观摩一段简单粗暴的-vue-代码](https://www.v2ex.com/t/711713) ![](assets/new.png)  
 - [2020-09-29-字节跳动-北上杭深-岗位很多-HC-很多-员工内推](https://www.v2ex.com/t/711712) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-29-请教下-硬盘坏道的修复](https://www.v2ex.com/t/711695) ![](assets/new.png)  
 - [2020-09-29-写的乱，今天经理联系希望多留个两周](https://www.v2ex.com/t/711694) ![](assets/new.png)  
 - [2020-09-29-Parallels-Desktop-16-双节优惠码-7.5-折-PDGW75](https://www.v2ex.com/t/711692) ![](assets/new.png)  
-- [2020-09-29-求助，-Win10LTSC-2018（1809）可以直升-LTSC2019-吗？](https://www.v2ex.com/t/711691) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

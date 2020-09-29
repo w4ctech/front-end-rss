@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 16:04:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 16:14:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -109,4 +109,3 @@
 - [2020-09-29-laravel-auth-组件-$request->expectsJson一直返回-false](https://www.v2ex.com/t/711711) 
 - [2020-09-29-在容器里-Parse-大体积的-JSON-文件到-Postgres-有什么好办法吗？主要是内存占用还有效率问题。](https://www.v2ex.com/t/711684) 
 - [2020-09-29-chrome-扩展-JSON-Viewer-Awesome-用不了了。](https://www.v2ex.com/t/711679) 
-- [2020-09-29-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

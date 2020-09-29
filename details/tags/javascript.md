@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 14:49:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 15:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -83,6 +83,7 @@
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-09-28-如何使用-ThinkJS-优雅的编写-RESTful-API](https://www.ershicimi.com/p/26bcf5edb448dade0c074aafa59abbf8) 
 - [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/b7a32305e5d39c0e063edd94467a2b24) 
 - [2020-09-23-或许这就是下一代组件库](https://www.ershicimi.com/p/a9b5dc5e27bd8a18f96e336df9f1d876) 

@@ -16166,7 +16166,7 @@
         "date": "2020-09-28"
       },
       {
-        "title": "蒲公英 · JELLY技术周刊 Vol.24",
+        "title": "JELLY技术周刊 Vol.24 -- 技术周刊 · 实现 Recoil 只需百行代码？",
         "link": "https://juejin.im/post/6877808285462822919",
         "date": "2020-09-28"
       },
@@ -16515,6 +16515,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于分库分表的分歧",
+        "link": "https://www.v2ex.com/t/711620",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "深圳市专属医疗险，无年龄限制，不限制医保用药",
+        "link": "https://www.v2ex.com/t/711619",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "腾讯视频在 iOS14 打开闪退，节前不打算修复了？",
+        "link": "https://www.v2ex.com/t/711618",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "比较好用的 Chrome 扩展程序都有什么？",
+        "link": "https://www.v2ex.com/t/711617",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "百爪挠心，电信 app 让人抓狂",
+        "link": "https://www.v2ex.com/t/711616",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "请问有大佬可以帮我解决一个 javaScript 问题吗,有偿!",
+        "link": "https://www.v2ex.com/t/711615",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推广] Spring 源码分析",
+        "link": "https://www.v2ex.com/t/711614",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "WeTest 五周年 |“领航者”的破浪之路：诞生",
+        "link": "https://www.v2ex.com/t/711613",
+        "date": "2020-09-29"
+      },
+      {
         "title": "你们记代码笔记用的什么软件我用的 cherrytree",
         "link": "https://www.v2ex.com/t/711608",
         "date": "2020-09-29"
@@ -16693,56 +16733,6 @@
         "title": "Apple Watch5 代 升级 watchos7 以后找不到以前那个噪声 app 了",
         "link": "https://www.v2ex.com/t/711571",
         "date": "2020-09-29"
-      },
-      {
-        "title": "iPhone 12 好久才能开售？",
-        "link": "https://www.v2ex.com/t/711570",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "美团“强制”用户开通“极速支付”服务，这合法吗？",
-        "link": "https://www.v2ex.com/t/711569",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "macOS 复制 iPhone 粘贴失效了, 有解决方法吗?",
-        "link": "https://www.v2ex.com/t/711568",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[北京/上海-内推又双来了]外企电商,WLB 的 1075 公司欢迎各位加入( Java /QA/客户端)",
-        "link": "https://www.v2ex.com/t/711567",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "2020 年， MP3 文件， iPhone 播放有什么推荐方案吗？",
-        "link": "https://www.v2ex.com/t/711566",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "有做安卓 APP 自动发帖辅助工具的成熟方案吗？",
-        "link": "https://www.v2ex.com/t/711565",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "分享个人独立开发的一款 iOS14 小组件 App [最美小组件] ，欢迎提意见！",
-        "link": "https://www.v2ex.com/t/711564",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "有什么靠谱的转农历算法推荐吗？",
-        "link": "https://www.v2ex.com/t/711563",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "关于模拟图数据库集群中某台机磁盘损坏？求助 ing",
-        "link": "https://www.v2ex.com/t/711562",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "如何选择，想要 iOS 给的稳定，又想要 Android 给的爽快",
-        "link": "https://www.v2ex.com/t/711561",
-        "date": "2020-09-29"
       }
     ]
   },
@@ -16894,13 +16884,13 @@
         "date": "2020-09-29"
       },
       {
-        "title": "从 12.9K 的前端开源项目我学到了啥？",
-        "link": "https://toutiao.io/k/4nhsi51",
+        "title": "架构制图：工具与方法论",
+        "link": "https://toutiao.io/k/pzy6sbw",
         "date": "2020-09-29"
       },
       {
-        "title": "架构制图：工具与方法论",
-        "link": "https://toutiao.io/k/pzy6sbw",
+        "title": "从 12.9K 的前端开源项目我学到了啥？",
+        "link": "https://toutiao.io/k/4nhsi51",
         "date": "2020-09-29"
       },
       {
@@ -16934,13 +16924,13 @@
         "date": "2020-09-29"
       },
       {
-        "title": "[译] unsafe 真就 unsafe 吗？",
-        "link": "https://toutiao.io/k/xs392pd",
+        "title": "KDD Cup 2020 多模态召回比赛亚军方案与搜索业务应用",
+        "link": "https://toutiao.io/k/9la12de",
         "date": "2020-09-29"
       },
       {
-        "title": "KDD Cup 2020 多模态召回比赛亚军方案与搜索业务应用",
-        "link": "https://toutiao.io/k/9la12de",
+        "title": "[译] unsafe 真就 unsafe 吗？",
+        "link": "https://toutiao.io/k/xs392pd",
         "date": "2020-09-29"
       },
       {
@@ -16964,13 +16954,8 @@
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
-        "link": "https://toutiao.io/k/s2yudly",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
-        "link": "https://toutiao.io/k/x2h0z37",
+        "title": "[推荐] 如何设计一个牛逼的 API 接口",
+        "link": "https://toutiao.io/k/j1aredh",
         "date": "2020-09-29"
       },
       {
@@ -16979,33 +16964,8 @@
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] 项目管理标准模板",
-        "link": "https://toutiao.io/k/aud21gw",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
-        "link": "https://toutiao.io/k/ejwph4b",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
-        "link": "https://toutiao.io/k/xdryz90",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
-        "link": "https://toutiao.io/k/rbvgji4",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 谈谈我所认识的分布式锁",
-        "link": "https://toutiao.io/k/oqnmp3h",
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
         "date": "2020-09-29"
       },
       {
@@ -17014,18 +16974,23 @@
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
-        "link": "https://toutiao.io/k/rd2k0cu",
-        "date": "2020-09-29"
-      },
-      {
         "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
         "link": "https://toutiao.io/k/pcsh3lu",
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
+        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
+        "link": "https://toutiao.io/k/h9nal21",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
+        "link": "https://toutiao.io/k/xdryz90",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
+        "link": "https://toutiao.io/k/ejwph4b",
         "date": "2020-09-29"
       },
       {
@@ -17034,8 +16999,33 @@
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] 20 张图搞懂 “分布式事务”",
-        "link": "https://toutiao.io/k/keefsst",
+        "title": "[推荐] 谈谈我所认识的分布式锁",
+        "link": "https://toutiao.io/k/oqnmp3h",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
+        "link": "https://toutiao.io/k/dcmvw72",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
+        "link": "https://toutiao.io/k/s2yudly",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 硬核看房利器：Web 全景的实现",
+        "link": "https://toutiao.io/k/ihkuhms",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
+        "link": "https://toutiao.io/k/tyygn3e",
         "date": "2020-09-29"
       }
     ]

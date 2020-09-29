@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 08:14:24，:rocket: 更新条数: +3454， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 08:27:32，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -949,7 +949,7 @@
 
 - [2020-09-28-Vue3-DOM-Diff-核心算法解析](https://juejin.im/post/6877814455968350215) ![](assets/new.png)  
 - [2020-09-28-使用-Vue3-开发小程序](https://juejin.im/post/6877808914847498247) ![](assets/new.png)  
-- [2020-09-28-蒲公英-·-JELLY技术周刊-Vol.24](https://juejin.im/post/6877808285462822919) ![](assets/new.png)  
+- [2020-09-28-JELLY技术周刊-Vol.24----技术周刊-·-实现-Recoil-只需百行代码？](https://juejin.im/post/6877808285462822919) ![](assets/new.png)  
 - [2020-09-28-如何拆解React巨石应用？qiankun-|-🏆-技术专题第四期征文](https://juejin.im/post/6877794770387730445) ![](assets/new.png)  
 - [2020-09-28-聊聊前端-UI-组件：组件特征](https://juejin.im/post/6877742002893488135) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1057,6 +1057,14 @@
 </summary>
 
 
+- [2020-09-29-关于分库分表的分歧](https://www.v2ex.com/t/711620) ![](assets/new.png)  
+- [2020-09-29-深圳市专属医疗险，无年龄限制，不限制医保用药](https://www.v2ex.com/t/711619) ![](assets/new.png)  
+- [2020-09-29-腾讯视频在-iOS14-打开闪退，节前不打算修复了？](https://www.v2ex.com/t/711618) ![](assets/new.png)  
+- [2020-09-29-比较好用的-Chrome-扩展程序都有什么？](https://www.v2ex.com/t/711617) ![](assets/new.png)  
+- [2020-09-29-百爪挠心，电信-app-让人抓狂](https://www.v2ex.com/t/711616) ![](assets/new.png)  
+- [2020-09-29-请问有大佬可以帮我解决一个-javaScript-问题吗,有偿!](https://www.v2ex.com/t/711615) ![](assets/new.png)  
+- [2020-09-29-推广-Spring-源码分析](https://www.v2ex.com/t/711614) ![](assets/new.png)  
+- [2020-09-29-WeTest-五周年-|“领航者”的破浪之路：诞生](https://www.v2ex.com/t/711613) ![](assets/new.png)  
 - [2020-09-29-你们记代码笔记用的什么软件我用的-cherrytree](https://www.v2ex.com/t/711608) ![](assets/new.png)  
 - [2020-09-29-问下淘宝有什么办法-自动下单呢](https://www.v2ex.com/t/711607) ![](assets/new.png)  
 - [2020-09-29-快国庆放假了，大家有什么安排的。](https://www.v2ex.com/t/711606) ![](assets/new.png)  
@@ -1069,14 +1077,6 @@
 - [2020-09-29-2019-款-MacBookPro-16-寸为什么还有启动音？](https://www.v2ex.com/t/711598) ![](assets/new.png)  
 - [2020-09-29-请教一个-iplc-中转的问题](https://www.v2ex.com/t/711597) ![](assets/new.png)  
 - [2020-09-29-composer-狂占内存，各位大佬有没有遇到过](https://www.v2ex.com/t/711596) ![](assets/new.png)  
-- [2020-09-29-南京/北京-小米社招急速内推-Android-开发工程师！实时反馈！](https://www.v2ex.com/t/711595) ![](assets/new.png)  
-- [2020-09-29-有熟悉-ios-开发的么，想找个老铁一起写个轻社交应用。](https://www.v2ex.com/t/711594) ![](assets/new.png)  
-- [2020-09-29-关于“-Java---Why-are-only-final-variables-accessible-in-anonymous-class?---Stack-Overflow”的疑惑](https://www.v2ex.com/t/711593) ![](assets/new.png)  
-- [2020-09-29-配置了-Windows-SNMP-服务，我想禁止某些-OID-被读取到怎么做了。](https://www.v2ex.com/t/711592) ![](assets/new.png)  
-- [2020-09-29-秋天的第一款神器：维格表-9-月公测版功能更新清单，请查收～](https://www.v2ex.com/t/711591) ![](assets/new.png)  
-- [2020-09-29-新加坡Shopee直招-招资深-SRE-和-Linux-内核专家!](https://www.v2ex.com/t/711590) ![](assets/new.png)  
-- [2020-09-29-开发团队自运维是否可行？](https://www.v2ex.com/t/711589) ![](assets/new.png)  
-- [2020-09-29-自习室笔记本续航不够](https://www.v2ex.com/t/711588) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,16 +1126,16 @@
 - [2020-09-29-互联网大厂内推求职的正确姿势？](https://toutiao.io/k/qqf3ofu) ![](assets/new.png)  
 - [2020-09-29-大数据系统云原生渐进式演进最佳实践](https://toutiao.io/k/rzbct9h) ![](assets/new.png)  
 - [2020-09-29-Dubbo-日志链路追踪-TraceId-选型](https://toutiao.io/k/b0y1ksy) ![](assets/new.png)  
-- [2020-09-29-从-12.9K-的前端开源项目我学到了啥？](https://toutiao.io/k/4nhsi51) ![](assets/new.png)  
 - [2020-09-29-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-09-29-从-12.9K-的前端开源项目我学到了啥？](https://toutiao.io/k/4nhsi51) ![](assets/new.png)  
 - [2020-09-29-基于-prometheus-的微服务指标监控](https://toutiao.io/k/4gm2ud1) ![](assets/new.png)  
 - [2020-09-29-产品经理眼中不那么性感的缓存机制](https://toutiao.io/k/4bucw5y) ![](assets/new.png)  
 - [2020-09-29-带你快速了解-React-Hooks](https://toutiao.io/k/2io1jus) ![](assets/new.png)  
 - [2020-09-29-有了-vite，还需要-webpack-么？](https://toutiao.io/k/pbglq74) ![](assets/new.png)  
 - [2020-09-29-力扣每日一题打卡：构建二叉树专题](https://toutiao.io/k/z4y2zo0) ![](assets/new.png)  
 - [2020-09-29-译-两条命令，轻松备份和恢复-Etcd](https://toutiao.io/k/179ruc8) ![](assets/new.png)  
-- [2020-09-29-译-unsafe-真就-unsafe-吗？](https://toutiao.io/k/xs392pd) ![](assets/new.png)  
 - [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
+- [2020-09-29-译-unsafe-真就-unsafe-吗？](https://toutiao.io/k/xs392pd) ![](assets/new.png)  
 - [2020-09-29-学练结合，快速掌握-Kubernetes-Service](https://toutiao.io/k/hxinzqf) ![](assets/new.png)  
 - [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) ![](assets/new.png)  
 - [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) ![](assets/new.png)  

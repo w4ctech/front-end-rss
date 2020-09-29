@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-09-29 01:33:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 01:47:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-29-不懂就问，非-lenovo-的笔记本有什么好的电源管理方案](https://www.v2ex.com/t/711453) 
+- [2020-09-29-连续登陆天数有问题，我最近这得半年没上线了，居然还是连续-69-天签到](https://www.v2ex.com/t/711452) 
+- [2020-09-29-搞一个程序员在线辩论（sibi如何？有人愿意报名吗？](https://www.v2ex.com/t/711451) 
+- [2020-09-29-有-b-站的人在吗，哔哩哔哩-app-就不能取消青少年模式的弹窗吗](https://www.v2ex.com/t/711450) 
+- [2020-09-29-ThinkPHP-V6.0.4-版本发布——双节快乐！](https://www.v2ex.com/t/711449) 
 - [2020-09-29-VS-code-代码格式化怎么具体设置成自己喜欢的格式？](https://www.v2ex.com/t/711448) 
 - [2020-09-29-数据字典：多数据库定义、注释管理](https://www.v2ex.com/t/711446) 
 - [2020-09-29-Spring-Security-官方文档学习](https://www.v2ex.com/t/711445) 
@@ -44,7 +49,3 @@
 - [2020-09-28-阿里云腾讯云代理优惠欢迎咨询.](https://www.v2ex.com/t/711406) 
 - [2020-09-28-大家平时一天的日程表大概是什么样的?](https://www.v2ex.com/t/711405) 
 - [2020-09-28-求助：如何恢复-iPhone-里的-WhatsApp-记录以及文档](https://www.v2ex.com/t/711404) 
-- [2020-09-28-相机传照片太慢](https://www.v2ex.com/t/711403) 
-- [2020-09-28-写字不好看怎么破？](https://www.v2ex.com/t/711402) 
-- [2020-09-28-ventory（https://www.ventoy.net/cn/index.html）无法启动-PE，为什么？](https://www.v2ex.com/t/711401) 
-- [2020-09-28-不懂就问：大家知道深圳的公积金可以线上办理月提吗？](https://www.v2ex.com/t/711399) 

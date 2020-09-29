@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 01:33:43，:rocket: 更新条数: +3669， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 01:47:19，:rocket: 更新条数: +3670， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-09-29-不懂就问，非-lenovo-的笔记本有什么好的电源管理方案](https://www.v2ex.com/t/711453) ![](assets/new.png)  
+- [2020-09-29-连续登陆天数有问题，我最近这得半年没上线了，居然还是连续-69-天签到](https://www.v2ex.com/t/711452) ![](assets/new.png)  
+- [2020-09-29-搞一个程序员在线辩论（sibi如何？有人愿意报名吗？](https://www.v2ex.com/t/711451) ![](assets/new.png)  
+- [2020-09-29-有-b-站的人在吗，哔哩哔哩-app-就不能取消青少年模式的弹窗吗](https://www.v2ex.com/t/711450) ![](assets/new.png)  
+- [2020-09-29-ThinkPHP-V6.0.4-版本发布——双节快乐！](https://www.v2ex.com/t/711449) ![](assets/new.png)  
 - [2020-09-29-VS-code-代码格式化怎么具体设置成自己喜欢的格式？](https://www.v2ex.com/t/711448) ![](assets/new.png)  
 - [2020-09-29-数据字典：多数据库定义、注释管理](https://www.v2ex.com/t/711446) ![](assets/new.png)  
 - [2020-09-29-Spring-Security-官方文档学习](https://www.v2ex.com/t/711445) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-09-28-小白提问：-SpringBoot-多模块如何打包部署](https://www.v2ex.com/t/711433) ![](assets/new.png)  
 - [2020-09-28-iOS-复制短信好像不是那么方便](https://www.v2ex.com/t/711432) ![](assets/new.png)  
 - [2020-09-28-海外远程-Jerry.ai-数据开发工程师/资深前端开发工程师岗位直推](https://www.v2ex.com/t/711431) ![](assets/new.png)  
-- [2020-09-28-又到月底，之前买了-99-元电信-PLUS-会员的记得领券（附领取路径）](https://www.v2ex.com/t/711430) ![](assets/new.png)  
-- [2020-09-28-需要买多个-Apple-Watch-Series-6,-麻烦有经验的进来帮我解答一下相关的几个问题](https://www.v2ex.com/t/711429) ![](assets/new.png)  
-- [2020-09-28-用-cookie-来自动签到，怎么保持有效时间](https://www.v2ex.com/t/711427) ![](assets/new.png)  
-- [2020-09-28-阿里云活动奖励：保温杯，-T-恤，背包，-30-万人民币](https://www.v2ex.com/t/711426) ![](assets/new.png)  
-- [2020-09-28-前海时代-ceo-公馆转租一主卧，总共-3-房间（蛋壳）](https://www.v2ex.com/t/711425) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1149,16 @@
 - [2020-09-29-产品经理眼中不那么性感的缓存机制](https://toutiao.io/k/4bucw5y) ![](assets/new.png)  
 - [2020-09-29-基于-prometheus-的微服务指标监控](https://toutiao.io/k/4gm2ud1) ![](assets/new.png)  
 - [2020-09-29-带你快速了解-React-Hooks](https://toutiao.io/k/2io1jus) ![](assets/new.png)  
-- [2020-09-29-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
 - [2020-09-29-大数据系统云原生渐进式演进最佳实践](https://toutiao.io/k/rzbct9h) ![](assets/new.png)  
-- [2020-09-29-力扣每日一题打卡：构建二叉树专题](https://toutiao.io/k/z4y2zo0) ![](assets/new.png)  
-- [2020-09-29-译-两条命令，轻松备份和恢复-Etcd](https://toutiao.io/k/179ruc8) ![](assets/new.png)  
+- [2020-09-29-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
 - [2020-09-29-有了-vite，还需要-webpack-么？](https://toutiao.io/k/pbglq74) ![](assets/new.png)  
-- [2020-09-29-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-29-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
-- [2020-09-29-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
-- [2020-09-29-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
-- [2020-09-29-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
+- [2020-09-29-译-两条命令，轻松备份和恢复-Etcd](https://toutiao.io/k/179ruc8) ![](assets/new.png)  
+- [2020-09-29-力扣每日一题打卡：构建二叉树专题](https://toutiao.io/k/z4y2zo0) ![](assets/new.png)  
+- [2020-09-29-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
+- [2020-09-29-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
+- [2020-09-29-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
+- [2020-09-29-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-09-29-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

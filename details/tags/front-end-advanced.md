@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 02:49:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 03:03:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -21,6 +21,7 @@
 - [2020-09-29-老板说“把系统升级到https”，我用一个脚本实现了，而且永久免费！](https://www.ershicimi.com/p/ab6f20dc7b484f4ac0493dbc5864d84f) 
 - [2020-09-26-干货-|-978页BAT等大厂大数据、算法落地经验pdf下载！](https://www.ershicimi.com/p/8763f12e65d1c8027c86d8114b51bf6f) 
 - [2020-09-13-快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b) 
+- [2020-09-29-内推-NLP-算法工程师-上海携程](https://www.v2ex.com/t/711485) 
 - [2020-09-29-有用-Python-的-fastapi-做东西的吗，感觉还不错呀](https://www.v2ex.com/t/711479) 
 - [2020-09-29-使用国内搭建-FRP-服务在不允许-http/s-的情况下有没有可能要喝茶](https://www.v2ex.com/t/711440) 
 - [2020-09-29-最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

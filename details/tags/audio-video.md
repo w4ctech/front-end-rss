@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 02:49:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 03:03:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,7 +83,6 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff) 
-- [2020-09-29-淘宝直播-App-社招前端-P6-P7-北京杭州均可](https://www.v2ex.com/t/711435) 
 - [2020-09-28-黑客从KuCoin交易所窃取了超过1.5亿美元的加密货币附视频](https://sec.thief.one/article_content?a_id=cf3fe10c31b6939f1cac497671e9ce0d) 
 - [2020-09-27-【视频】|-Python:if+else的使用](https://sec.thief.one/article_content?a_id=200e15a0b174fa098f513e1ea89e6191) 
 - [2020-09-26-【视频】|-黑客入侵美军事系统,美俄火力交战](https://sec.thief.one/article_content?a_id=69cdd30fa690d0c7a12cadf7191e56cb) 

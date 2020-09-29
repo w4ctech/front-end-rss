@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 07:24:50，:rocket: 更新条数: +3451， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 07:32:39，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-29-关于“-Java---Why-are-only-final-variables-accessible-in-anonymous-class?---Stack-Overflow”的疑惑](https://www.v2ex.com/t/711593) ![](assets/new.png)  
+- [2020-09-29-配置了-Windows-SNMP-服务，我想禁止某些-OID-被读取到怎么做了。](https://www.v2ex.com/t/711592) ![](assets/new.png)  
+- [2020-09-29-秋天的第一款神器：维格表-9-月公测版功能更新清单，请查收～](https://www.v2ex.com/t/711591) ![](assets/new.png)  
+- [2020-09-29-新加坡Shopee直招-招资深-SRE-和-Linux-内核专家!](https://www.v2ex.com/t/711590) ![](assets/new.png)  
 - [2020-09-29-开发团队自运维是否可行？](https://www.v2ex.com/t/711589) ![](assets/new.png)  
 - [2020-09-29-自习室笔记本续航不够](https://www.v2ex.com/t/711588) ![](assets/new.png)  
 - [2020-09-29-求推荐手机给妈妈](https://www.v2ex.com/t/711587) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-09-29-Parallels-Desktop-也太龌龊了](https://www.v2ex.com/t/711576) ![](assets/new.png)  
 - [2020-09-29-求一个-sql-语句或解决办法](https://www.v2ex.com/t/711575) ![](assets/new.png)  
 - [2020-09-29--Java-NIO-Java-NIO-学习](https://www.v2ex.com/t/711574) ![](assets/new.png)  
-- [2020-09-29-程序员小漫画第三弹](https://www.v2ex.com/t/711573) ![](assets/new.png)  
-- [2020-09-29-Apple-Watch5-代-升级-watchos7-以后找不到以前那个噪声-app-了](https://www.v2ex.com/t/711571) ![](assets/new.png)  
-- [2020-09-29-iPhone-12-好久才能开售？](https://www.v2ex.com/t/711570) ![](assets/new.png)  
-- [2020-09-29-美团“强制”用户开通“极速支付”服务，这合法吗？](https://www.v2ex.com/t/711569) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

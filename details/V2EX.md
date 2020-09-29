@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-09-29 07:24:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 07:32:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-29-关于“-Java---Why-are-only-final-variables-accessible-in-anonymous-class?---Stack-Overflow”的疑惑](https://www.v2ex.com/t/711593) 
+- [2020-09-29-配置了-Windows-SNMP-服务，我想禁止某些-OID-被读取到怎么做了。](https://www.v2ex.com/t/711592) 
+- [2020-09-29-秋天的第一款神器：维格表-9-月公测版功能更新清单，请查收～](https://www.v2ex.com/t/711591) 
+- [2020-09-29-新加坡Shopee直招-招资深-SRE-和-Linux-内核专家!](https://www.v2ex.com/t/711590) 
 - [2020-09-29-开发团队自运维是否可行？](https://www.v2ex.com/t/711589) 
 - [2020-09-29-自习室笔记本续航不够](https://www.v2ex.com/t/711588) 
 - [2020-09-29-求推荐手机给妈妈](https://www.v2ex.com/t/711587) 
@@ -46,6 +50,3 @@
 - [2020-09-29-🚀🚀🚀vue-admin-beautiful-V1.2-版本发布](https://www.v2ex.com/t/711548) 
 - [2020-09-29-2020-年-9-月，求推荐电动升降桌](https://www.v2ex.com/t/711546) 
 - [2020-09-29-we-script-v1.0-让微信小程序支持加载远程-js](https://www.v2ex.com/t/711544) 
-- [2020-09-29-请问-DuckDuckGo-用英文关键词搜索结果几乎全为中文网页，可能是什么原因？](https://www.v2ex.com/t/711543) 
-- [2020-09-29-iOS-14.0.1-地图.app-行车路线无法载入](https://www.v2ex.com/t/711542) 
-- [2020-09-29-遭-DDoS-攻击，前来报告](https://www.v2ex.com/t/711541) 

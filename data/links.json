@@ -16171,8 +16171,8 @@
         "date": "2020-09-28"
       },
       {
-        "title": "记一次使用next.js开发官网经历",
-        "link": "https://juejin.im/post/6877746183259815949",
+        "title": "JELLY技术周刊 Vol.24 -- 技术周刊 · 实现 Recoil 只需百行代码？",
+        "link": "https://juejin.im/post/6877808285462822919",
         "date": "2020-09-28"
       },
       {
@@ -16515,6 +16515,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "RE:12306 为什么不能请一个好的产品重新设计一下？",
+        "link": "https://www.v2ex.com/t/711639",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "2020 年 apple 还有什么大会吗",
+        "link": "https://www.v2ex.com/t/711637",
+        "date": "2020-09-29"
+      },
+      {
         "title": "开始准备面试，大家来谈谈面试大厂的准备和经历呢？",
         "link": "https://www.v2ex.com/t/711636",
         "date": "2020-09-29"
@@ -16697,21 +16707,6 @@
       {
         "title": "[新加坡][Shopee][直招] 招资深 SRE 和 Linux 内核专家!",
         "link": "https://www.v2ex.com/t/711590",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "开发团队自运维是否可行？",
-        "link": "https://www.v2ex.com/t/711589",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "自习室笔记本续航不够",
-        "link": "https://www.v2ex.com/t/711588",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "求推荐手机给妈妈",
-        "link": "https://www.v2ex.com/t/711587",
         "date": "2020-09-29"
       }
     ]
@@ -16934,38 +16929,8 @@
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
-        "link": "https://toutiao.io/k/h9nal21",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
-        "link": "https://toutiao.io/k/dcmvw72",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 硬核看房利器：Web 全景的实现",
-        "link": "https://toutiao.io/k/ihkuhms",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 解密 Go 协程的栈内存管理",
-        "link": "https://toutiao.io/k/fkrobd3",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 如何设计一个牛逼的 API 接口",
-        "link": "https://toutiao.io/k/j1aredh",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
-        "link": "https://toutiao.io/k/ejwph4b",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
-        "link": "https://toutiao.io/k/s2yudly",
+        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
+        "link": "https://toutiao.io/k/rbvgji4",
         "date": "2020-09-29"
       },
       {
@@ -16974,13 +16939,38 @@
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
+        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
+        "link": "https://toutiao.io/k/x25pdur",
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] 大写的服，看完这篇你还不懂 RocketMQ 算我输",
-        "link": "https://toutiao.io/k/rhwgf1q",
+        "title": "[推荐] 如何设计一个牛逼的 API 接口",
+        "link": "https://toutiao.io/k/j1aredh",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 《一年顶十年》干货读书笔记",
+        "link": "https://toutiao.io/k/okqtla6",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 20 张图搞懂 “分布式事务”",
+        "link": "https://toutiao.io/k/keefsst",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
+        "link": "https://toutiao.io/k/ejwph4b",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
+        "link": "https://toutiao.io/k/h9nal21",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
         "date": "2020-09-29"
       },
       {
@@ -16989,23 +16979,28 @@
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，死磕了 ConcurrentHashMap 源码和面试题（一）",
-        "link": "https://toutiao.io/k/pcsh3lu",
+        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
+        "link": "https://toutiao.io/k/s2yudly",
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] HDFS + Clickhouse + Spark：从 0 到 1 实现一款轻量级大数据分析系统",
-        "link": "https://toutiao.io/k/tyygn3e",
+        "title": "[推荐] 解密 Go 协程的栈内存管理",
+        "link": "https://toutiao.io/k/fkrobd3",
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
-        "link": "https://toutiao.io/k/rbvgji4",
+        "title": "[推荐] 广告系统架构解密",
+        "link": "https://toutiao.io/k/47r3fu1",
         "date": "2020-09-29"
       },
       {
-        "title": "[推荐] 谈谈 MySQL 的 JSON 数据类型",
-        "link": "https://toutiao.io/k/x25pdur",
+        "title": "[推荐] 资料 | 各大互联网公司容易考察的高频 LeetCode 题",
+        "link": "https://toutiao.io/k/dcmvw72",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "[推荐] 同城双活与异地多活架构分析",
+        "link": "https://toutiao.io/k/e1eh64z",
         "date": "2020-09-29"
       }
     ]

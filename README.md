@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 17:48:54，:rocket: 更新条数: +3678， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 18:04:08，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-29-英国新冠病毒感染病例创历史新高-新增7143例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGvq49rJuJcKy97pyYfnm200929&isfromapp=1) ![](assets/new.png)  
+- [2020-09-29-​意大利新冠肺炎新增1648例-体育部长认为目前不应暂停意甲联赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6IcvyByvL1l5brw3B7dT200929&isfromapp=1) ![](assets/new.png)  
+- [2020-09-29-印度医学理事会：6.6%的人口（10岁及以上）有新冠病毒接触史](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7ZkjFsrHyiUTPExRPP3G200929&isfromapp=1) ![](assets/new.png)  
 - [2020-09-29-国务院联防联控机制督察组开展秋季新冠肺炎防控专项督查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPnBiAvI1Et7gwuvzODX2200929&isfromapp=1) ![](assets/new.png)  
 - [2020-09-29-公开撕！美疾控中心主任质疑白宫疫情顾问：他的话没一句是对的！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJULyFQLGB9ir9kcV988I200929&isfromapp=1) ![](assets/new.png)  
-- [2020-09-29-新冠肺炎疫情下-马来西亚电子商务量猛增-网络社交媒体平台受到追捧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7VA0rmNyDxWqrYaOteC0200929&isfromapp=1) ![](assets/new.png)  
-- [2020-09-29-“今天是你的生日，我的中国”​德国高中生用乐曲献上祝福](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5wPSVSCT8b2FdzpzeD1P200929&isfromapp=1) ![](assets/new.png)  
-- [2020-09-29-希腊出现首例难民因新冠肺炎死亡病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1f17x2rXO6YkF6hgQMrX200929&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-29-Japan-0-1](https://www.v2ex.com/t/711729) ![](assets/new.png)  
 - [2020-09-29-有人在-big-sur-里用-turbo-boots-吗](https://www.v2ex.com/t/711728) ![](assets/new.png)  
 - [2020-09-29-懂-thinkphp-程序-开发的来，最好是全栈技术，懂-APP-之类优先-加-V-型-jxbf888888](https://www.v2ex.com/t/711727) ![](assets/new.png)  
 - [2020-09-29-我是一个新的文章标题](https://www.v2ex.com/t/711725) ![](assets/new.png)  
@@ -1096,7 +1077,6 @@
 - [2020-09-29-有厦门的吗？](https://www.v2ex.com/t/711707) ![](assets/new.png)  
 - [2020-09-29-今年大闸蟹的车去哪了？](https://www.v2ex.com/t/711706) ![](assets/new.png)  
 - [2020-09-29-掌握系统设计三大技巧，跳槽上岸咫尺之遥](https://www.v2ex.com/t/711705) ![](assets/new.png)  
-- [2020-09-29-移动的宽带客户都突破-2-亿了，为什么-ICP-的优化还是这么差](https://www.v2ex.com/t/711704) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1155,8 +1135,8 @@
 - [2020-09-29-力扣每日一题打卡：构建二叉树专题](https://toutiao.io/k/z4y2zo0) ![](assets/new.png)  
 - [2020-09-29-译-两条命令，轻松备份和恢复-Etcd](https://toutiao.io/k/179ruc8) ![](assets/new.png)  
 - [2020-09-29-译-unsafe-真就-unsafe-吗？](https://toutiao.io/k/xs392pd) ![](assets/new.png)  
-- [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
 - [2020-09-29-学练结合，快速掌握-Kubernetes-Service](https://toutiao.io/k/hxinzqf) ![](assets/new.png)  
+- [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
 - [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) ![](assets/new.png)  
 - [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 10:25:23，:rocket: 更新条数: +3442， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 10:32:24，:rocket: 更新条数: +3442， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-29-在密码输入界面，调用包含数字的全键盘到底有多难？](https://www.v2ex.com/t/711654) ![](assets/new.png)  
 - [2020-09-29-今天晚上还加班吗？](https://www.v2ex.com/t/711653) ![](assets/new.png)  
 - [2020-09-29-macOS-邮箱.app-默认下载所有邮件?](https://www.v2ex.com/t/711652) ![](assets/new.png)  
 - [2020-09-29-第十人理论](https://www.v2ex.com/t/711651) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-29-新开发一个工具合集软件，大佬帮忙看一下怎么样](https://www.v2ex.com/t/711633) ![](assets/new.png)  
 - [2020-09-29-求问下-restfultoolkit-在新版的-idea-上面还能用吗-几个月前好像还是白屏-后来我-idea-降到了旧版本才可以用](https://www.v2ex.com/t/711630) ![](assets/new.png)  
 - [2020-09-29-分享一个-json-在线转思维导图（freemind-xmind）小工具](https://www.v2ex.com/t/711629) ![](assets/new.png)  
-- [2020-09-29-4K-显示器-24-寸还是-27-寸？](https://www.v2ex.com/t/711628) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1137,8 +1137,8 @@
 - [2020-09-29-译-unsafe-真就-unsafe-吗？](https://toutiao.io/k/xs392pd) ![](assets/new.png)  
 - [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
 - [2020-09-29-学练结合，快速掌握-Kubernetes-Service](https://toutiao.io/k/hxinzqf) ![](assets/new.png)  
-- [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) ![](assets/new.png)  
 - [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) ![](assets/new.png)  
+- [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

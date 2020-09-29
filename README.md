@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 13:24:14，:rocket: 更新条数: +3448， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 13:32:22，:rocket: 更新条数: +3448， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-29-offer-求比较选择，坐标成都](https://www.v2ex.com/t/711685) ![](assets/new.png)  
 - [2020-09-29-在容器里-Parse-大体积的-JSON-文件到-Postgres-有什么好办法吗？主要是内存占用还有效率问题。](https://www.v2ex.com/t/711684) ![](assets/new.png)  
 - [2020-09-29-身份证没丢，但因某些原因暂时拿不到了，现在又需要用证，可以去办个临时身份证吗](https://www.v2ex.com/t/711682) ![](assets/new.png)  
 - [2020-09-29-域名到期未续费，被直接续费抢注是否合理？？](https://www.v2ex.com/t/711681) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-29-迫于不知道吃啥，北京有什么好吃的馆子推荐吗？](https://www.v2ex.com/t/711664) ![](assets/new.png)  
 - [2020-09-29-Win10-的-NVIDIA-控制面板似乎不能修改程序使用的显卡？](https://www.v2ex.com/t/711662) ![](assets/new.png)  
 - [2020-09-29-深圳:广州如何选](https://www.v2ex.com/t/711661) ![](assets/new.png)  
-- [2020-09-29-catalina-10.15.6-修改苹果蓝牙键盘名称，中坑了](https://www.v2ex.com/t/711660) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

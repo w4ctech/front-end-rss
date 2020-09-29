@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 10:13:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 10:25:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -108,3 +108,4 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-29-分享一个-json-在线转思维导图（freemind-xmind）小工具](https://www.v2ex.com/t/711629) 
 - [2020-09-29-请问有大佬可以帮我解决一个-javaScript-问题吗,有偿!](https://www.v2ex.com/t/711615) 
+- [2020-09-29-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

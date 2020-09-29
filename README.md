@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 10:13:12，:rocket: 更新条数: +3444， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 10:25:23，:rocket: 更新条数: +3442， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,11 +64,9 @@
 </summary>
 
 
-- [2020-09-28-9月28日全国新增境外输入新冠12例-累计确诊85384例](https://m.caixin.com/m/2020-09-29/101610771.html) ![](assets/new.png)  
 - [2020-09-28-【境内疫情观察】全国新增12例境外输入病例（9月28日）](http://m.database.caixin.com/m/2020-09-29/101610935.html) ![](assets/new.png)  
 - [2020-09-28-大流行手记|9月28日：印度医用氧气短缺-G20峰会将线上召开](https://m.caixin.com/m/2020-09-29/101610758.html) ![](assets/new.png)  
 - [2020-09-28-【图集】英国约40所大学出现疫情-数千名学生宿舍隔离](http://m.photos.caixin.com/m/2020-09-29/101611037.html) ![](assets/new.png)  
-- [2020-09-27-最新海外疫情：新冠感染超3297万-累计死亡超99万](http://m.international.caixin.com/m/2020-09-28/101610609.html) ![](assets/new.png)  
 - [2020-09-27-【境内疫情观察】全国新增21例境外输入病例（9月27日）](http://m.database.caixin.com/m/2020-09-28/101610505.html) ![](assets/new.png)  
 - [2020-09-27-大流行手记|9月27日：莫迪力撑印度疫苗-英国23所高校现疫情](https://m.caixin.com/m/2020-09-28/101610347.html) ![](assets/new.png)  
 - [2020-09-26-【境内疫情观察】全国新增14例境外输入病例（9月26日）](http://m.database.caixin.com/m/2020-09-27/101610202.html) ![](assets/new.png)  
@@ -84,6 +82,8 @@
 - [2020-09-21-香港新冠超级传播事件启示：19%病例或成防疫关键](https://m.caixin.com/m/2020-09-22/101608361.html) ![](assets/new.png)  
 - [2020-09-21-云南瑞丽“解封”-中缅边境管控压力仍大](https://m.caixin.com/m/2020-09-22/101607895.html) ![](assets/new.png)  
 - [2020-09-21-【境内疫情观察】全国新增6例境外输入病例（9月21日）](http://m.database.caixin.com/m/2020-09-22/101608147.html) ![](assets/new.png)  
+- [2020-09-21-大流行手记|9月21日：权威学者建议英国尽快“封城”-英美均曝检测不足](https://m.caixin.com/m/2020-09-22/101607933.html) ![](assets/new.png)  
+- [2020-09-21-欧洲多地疫情反弹-为避免悲剧重演各国加紧防控步伐](http://m.international.caixin.com/m/2020-09-22/101608317.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-09-29-今天晚上还加班吗？](https://www.v2ex.com/t/711653) ![](assets/new.png)  
+- [2020-09-29-macOS-邮箱.app-默认下载所有邮件?](https://www.v2ex.com/t/711652) ![](assets/new.png)  
+- [2020-09-29-第十人理论](https://www.v2ex.com/t/711651) ![](assets/new.png)  
 - [2020-09-29-大家一般什么时候会浏览技术性网站?](https://www.v2ex.com/t/711650) ![](assets/new.png)  
 - [2020-09-29-关于事务的问题~](https://www.v2ex.com/t/711648) ![](assets/new.png)  
 - [2020-09-29-招聘高级前端开发工程师腾讯新闻](https://www.v2ex.com/t/711647) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-09-29-求问下-restfultoolkit-在新版的-idea-上面还能用吗-几个月前好像还是白屏-后来我-idea-降到了旧版本才可以用](https://www.v2ex.com/t/711630) ![](assets/new.png)  
 - [2020-09-29-分享一个-json-在线转思维导图（freemind-xmind）小工具](https://www.v2ex.com/t/711629) ![](assets/new.png)  
 - [2020-09-29-4K-显示器-24-寸还是-27-寸？](https://www.v2ex.com/t/711628) ![](assets/new.png)  
-- [2020-09-29-Offer-比较-大疆-or-华为](https://www.v2ex.com/t/711627) ![](assets/new.png)  
-- [2020-09-29-现在拉钩和-boss-哪个好一点](https://www.v2ex.com/t/711626) ![](assets/new.png)  
-- [2020-09-29-看-B-站每日车祸集锦有感](https://www.v2ex.com/t/711625) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1137,8 +1137,8 @@
 - [2020-09-29-译-unsafe-真就-unsafe-吗？](https://toutiao.io/k/xs392pd) ![](assets/new.png)  
 - [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
 - [2020-09-29-学练结合，快速掌握-Kubernetes-Service](https://toutiao.io/k/hxinzqf) ![](assets/new.png)  
-- [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) ![](assets/new.png)  
 - [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) ![](assets/new.png)  
+- [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

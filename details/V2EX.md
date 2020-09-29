@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-29 21:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 21:12:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-29-想搞一个新坑-后端选型无比纠结](https://www.v2ex.com/t/711734) 
+- [2020-09-29-2020-0930-对于-ArtiPub-进行维护](https://www.v2ex.com/t/711733) 
 - [2020-09-29-项目废标了，我会被辞退吗](https://www.v2ex.com/t/711732) 
 - [2020-09-29-20200930-午夜俱乐部](https://www.v2ex.com/t/711731) 
 - [2020-09-29-国内安卓如何使用-Google-暴露通知](https://www.v2ex.com/t/711730) 
@@ -45,4 +47,3 @@
 - [2020-09-29-Japan-Docomo-手机卡用-JA-版-iPhone-，如何在国内使用？](https://www.v2ex.com/t/711687) 
 - [2020-09-29-关于候选人的问题，你们会如何选择？](https://www.v2ex.com/t/711686) 
 - [2020-09-29-offer-求比较选择，坐标成都](https://www.v2ex.com/t/711685) 
-- [2020-09-29-在容器里-Parse-大体积的-JSON-文件到-Postgres-有什么好办法吗？主要是内存占用还有效率问题。](https://www.v2ex.com/t/711684) 

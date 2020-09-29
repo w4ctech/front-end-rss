@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 11:03:20，:rocket: 更新条数: +3669， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 11:11:49，:rocket: 更新条数: +3444， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-29-国务院联防联控机制督察组开展秋季新冠肺炎防控专项督查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPnBiAvI1Et7gwuvzODX2200929&isfromapp=1) ![](assets/new.png)  
+- [2020-09-29-公开撕！美疾控中心主任质疑白宫疫情顾问：他的话没一句是对的！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJULyFQLGB9ir9kcV988I200929&isfromapp=1) ![](assets/new.png)  
+- [2020-09-29-新冠肺炎疫情下-马来西亚电子商务量猛增-网络社交媒体平台受到追捧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7VA0rmNyDxWqrYaOteC0200929&isfromapp=1) ![](assets/new.png)  
 - [2020-09-29-“今天是你的生日，我的中国”​德国高中生用乐曲献上祝福](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5wPSVSCT8b2FdzpzeD1P200929&isfromapp=1) ![](assets/new.png)  
 - [2020-09-29-希腊出现首例难民因新冠肺炎死亡病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1f17x2rXO6YkF6hgQMrX200929&isfromapp=1) ![](assets/new.png)  
-- [2020-09-29-云南瑞丽发布《外籍人员管理责任告知书》-不履行管理责任的将严肃查处](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJQ3zY7dH1NDn5FfL0ism200929&isfromapp=1) ![](assets/new.png)  
-- [2020-09-29-严防疫情传播风险-马来西亚吉隆坡国际机场加强疫情检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3STtaQKcvuDquyNDezZV200929&isfromapp=1) ![](assets/new.png)  
-- [2020-09-29-国庆中秋“双节”临近-假日旅游市场升温-出游需做好防护](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik0V68rkroIFnKFEvXRCZ200929&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-29-catalina-10.15.6-修改苹果蓝牙键盘名称，中坑了](https://www.v2ex.com/t/711660) ![](assets/new.png)  
 - [2020-09-29-这个用-Warcraft-III:-Reforged-重制的-Warcraft-II-战役似乎使用了新的自制模型？](https://www.v2ex.com/t/711659) ![](assets/new.png)  
 - [2020-09-29-macOS-更新-10.15.7-卡住](https://www.v2ex.com/t/711656) ![](assets/new.png)  
 - [2020-09-29-在密码输入界面，调用包含数字的全键盘到底有多难？](https://www.v2ex.com/t/711654) ![](assets/new.png)  
@@ -1096,7 +1077,6 @@
 - [2020-09-29-开始准备面试，大家来谈谈面试大厂的准备和经历呢？](https://www.v2ex.com/t/711636) ![](assets/new.png)  
 - [2020-09-29-桃源村招合租-第二次](https://www.v2ex.com/t/711635) ![](assets/new.png)  
 - [2020-09-29-水一贴，看看图床能不能在-v-站使用](https://www.v2ex.com/t/711634) ![](assets/new.png)  
-- [2020-09-29-新开发一个工具合集软件，大佬帮忙看一下怎么样](https://www.v2ex.com/t/711633) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

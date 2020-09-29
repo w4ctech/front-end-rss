@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-29 11:03:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 11:11:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-29-catalina-10.15.6-修改苹果蓝牙键盘名称，中坑了](https://www.v2ex.com/t/711660) 
 - [2020-09-29-这个用-Warcraft-III:-Reforged-重制的-Warcraft-II-战役似乎使用了新的自制模型？](https://www.v2ex.com/t/711659) 
 - [2020-09-29-macOS-更新-10.15.7-卡住](https://www.v2ex.com/t/711656) 
 - [2020-09-29-在密码输入界面，调用包含数字的全键盘到底有多难？](https://www.v2ex.com/t/711654) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 06:49:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 07:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
@@ -37,5 +38,7 @@
 - [2020-09-29-还不会回答Spring-Boot和Spring-MVC的关系？大厂Java高级面试官告诉你答案！](https://www.ershicimi.com/p/4efd122c679009700ede88d4220de926) 
 - [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) 
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
+- [2020-09-29-硅谷-star-up-公司北京研发中心-机器学习-其他技术岗位同步招聘](https://www.v2ex.com/t/711577) 
+- [2020-09-29-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
 - [2020-09-27-卧槽,史上超全面Python面试题和详解10个高清PDF,开放下载!](https://sec.thief.one/article_content?a_id=a2e3a3f9312f3dff2301615aa6a1d7a5) 
 - [2020-09-27-美团招聘丨等,-秋天第一个有缘人](https://sec.thief.one/article_content?a_id=54991d445d5c7756a80e017f60469123) 

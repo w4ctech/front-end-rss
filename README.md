@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 19:49:18，:rocket: 更新条数: +3678， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 20:04:14，:rocket: 更新条数: +3677， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,12 +1077,12 @@
 </summary>
 
 
+- [2020-09-29-项目废标了，我会被辞退吗](https://www.v2ex.com/t/711732) ![](assets/new.png)  
 - [2020-09-29-20200930-午夜俱乐部](https://www.v2ex.com/t/711731) ![](assets/new.png)  
 - [2020-09-29-国内安卓如何使用-Google-暴露通知](https://www.v2ex.com/t/711730) ![](assets/new.png)  
 - [2020-09-29-Japan-0-1](https://www.v2ex.com/t/711729) ![](assets/new.png)  
 - [2020-09-29-有人在-big-sur-里用-turbo-boots-吗](https://www.v2ex.com/t/711728) ![](assets/new.png)  
 - [2020-09-29-懂-thinkphp-程序-开发的来，最好是全栈技术，懂-APP-之类优先-加-V-型-jxbf888888](https://www.v2ex.com/t/711727) ![](assets/new.png)  
-- [2020-09-29-我是一个新的文章标题](https://www.v2ex.com/t/711725) ![](assets/new.png)  
 - [2020-09-29-仍在用-High-Sierra-的我又少了一个更新系统的理由](https://www.v2ex.com/t/711724) ![](assets/new.png)  
 - [2020-09-29-求本站编辑器实现原理](https://www.v2ex.com/t/711723) ![](assets/new.png)  
 - [2020-09-29-讨论一下自由职业的金钱观（简单来说：该怎么向客户要钱？）](https://www.v2ex.com/t/711721) ![](assets/new.png)  

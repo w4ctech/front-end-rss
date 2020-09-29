@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 01:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 01:11:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -78,7 +78,6 @@
 - [2020-09-27-大型-web-应用公共组件架构思考](https://www.ershicimi.com/p/565d0b3bb5d2359fa7ee8b6f818f1727) 
 - [2020-09-23-写好-JS-条件语句的-5-条守则](https://www.ershicimi.com/p/441c1078081ce1941105510ee6904490) 
 - [2020-09-21-从一个需求说起，H5实现万能返回](https://www.ershicimi.com/p/ff4ca3b47d082d83ed6121fab2a377e1) 
-- [2020-09-18-15个非常实用的JavaScript表单验证库](https://www.ershicimi.com/p/0562191d3d2c1597a80b8ed1988aeca8) 
 - [2020-09-28-深度解读《新版-JavaScript-红宝书高程第四版》](https://www.ershicimi.com/p/2bc90de1c9eeca332a6db945fea20956) 
 - [2020-09-09-详解-JS-压缩图片](https://www.ershicimi.com/p/cc76a353eeff86a9c5f8546606f1ac9e) 
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 
@@ -109,4 +108,3 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-28-tornado-异步非阻塞求解救](https://www.v2ex.com/t/711398) 
-- [2020-09-29-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

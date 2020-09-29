@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 01:04:11，:rocket: 更新条数: +3433， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 01:11:11，:rocket: 更新条数: +3437， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -632,6 +632,10 @@
 </summary>
 
 
+- [2020-09-29-Vue3+TypeScript-完整项目上手教程](https://www.ershicimi.com/p/ae75eca510f83b07000b4a9d70a66173) ![](assets/new.png)  
+- [2020-09-29-用TypeScript装饰器实现一个简单的依赖注入](https://www.ershicimi.com/p/65349519ed828ae1ae8efbc13b7b23c1) ![](assets/new.png)  
+- [2020-09-28-能读React源码的人，很吃香！](https://www.ershicimi.com/p/2a9e313f96cf7ad52cbd559da8801389) ![](assets/new.png)  
+- [2020-09-28-腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/fd031a7c201d4d2d94d0750bedf5df48) ![](assets/new.png)  
 - [2020-09-27-前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/b51534a5fcb534f73c718f29b4aad1a3) ![](assets/new.png)  
 - [2020-09-27-大型-web-应用公共组件架构思考](https://www.ershicimi.com/p/565d0b3bb5d2359fa7ee8b6f818f1727) ![](assets/new.png)  
 - [2020-09-26-揭秘几个强得不得了的公众号](https://www.ershicimi.com/p/f38cec38603b8351a1a3220269ffdfba) ![](assets/new.png)  
@@ -648,10 +652,6 @@
 - [2020-09-20-CNodejs每日新闻周刊｜第-6-期](https://www.ershicimi.com/p/86cd30d089b03704047fb64340fed325) ![](assets/new.png)  
 - [2020-09-19-Vuejs-3.0-正式版发布！One-Piece.-代号：海贼王](https://www.ershicimi.com/p/3a363805b31c6ed7343f7b6cd940879a) ![](assets/new.png)  
 - [2020-09-18-通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/03cc8f1f2c37636bdfe1084a7579e71d) ![](assets/new.png)  
-- [2020-09-18-15个非常实用的JavaScript表单验证库](https://www.ershicimi.com/p/0562191d3d2c1597a80b8ed1988aeca8) ![](assets/new.png)  
-- [2020-09-17-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/0c14344316593df8d6c81280917441be) ![](assets/new.png)  
-- [2020-09-17-给大伙儿盘几个提效/创意的-vscode-插件](https://www.ershicimi.com/p/416fa6eb1390a053b06ed25ef581f013) ![](assets/new.png)  
-- [2020-09-16-15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/6132906ae7deb3d51731b82fc93b3f87) ![](assets/new.png)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1123,22 +1123,22 @@
 - [2020-09-29-Dubbo-日志链路追踪-TraceId-选型](https://toutiao.io/k/b0y1ksy) ![](assets/new.png)  
 - [2020-09-29-揭秘-Apache-Pulsar-如何挑战-Kafka](https://toutiao.io/k/ao9ceoz) ![](assets/new.png)  
 - [2020-09-29-技术人员发展四阶段](https://toutiao.io/k/lfucbgj) ![](assets/new.png)  
-- [2020-09-29-从-12.9K-的前端开源项目我学到了啥？](https://toutiao.io/k/4nhsi51) ![](assets/new.png)  
 - [2020-09-29-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
+- [2020-09-29-从-12.9K-的前端开源项目我学到了啥？](https://toutiao.io/k/4nhsi51) ![](assets/new.png)  
 - [2020-09-29-互联网大厂内推求职的正确姿势？](https://toutiao.io/k/qqf3ofu) ![](assets/new.png)  
 - [2020-09-29-产品经理眼中不那么性感的缓存机制](https://toutiao.io/k/4bucw5y) ![](assets/new.png)  
 - [2020-09-29-基于-prometheus-的微服务指标监控](https://toutiao.io/k/4gm2ud1) ![](assets/new.png)  
 - [2020-09-29-带你快速了解-React-Hooks](https://toutiao.io/k/2io1jus) ![](assets/new.png)  
-- [2020-09-29-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
-- [2020-09-29-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
-- [2020-09-29-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
+- [2020-09-29-大数据系统云原生渐进式演进最佳实践](https://toutiao.io/k/rzbct9h) ![](assets/new.png)  
+- [2020-09-29-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-09-29-力扣每日一题打卡：构建二叉树专题](https://toutiao.io/k/z4y2zo0) ![](assets/new.png)  
+- [2020-09-29-有了-vite，还需要-webpack-么？](https://toutiao.io/k/pbglq74) ![](assets/new.png)  
 - [2020-09-29-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
-- [2020-09-29-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
-- [2020-09-29-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-29-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-29-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
-- [2020-09-29-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
 - [2020-09-29-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
+- [2020-09-29-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-09-29-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-29-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
+- [2020-09-29-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 01:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 01:11:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -63,6 +63,7 @@
 - [2020-09-10-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/e5142f7f4daf63bcaedc86a976e9312d) 
 - [2020-09-22-Vue-项目里戳中你痛点的问题及解决办法（更新）](https://www.ershicimi.com/p/a58cd51e7944c3d9d40d1b0437881c3e) 
 - [2020-09-20-【官宣】Vue-3.0-发布！](https://www.ershicimi.com/p/c1adffa170a5e30e863e6cf76cf6753d) 
+- [2020-09-29-Vue3+TypeScript-完整项目上手教程](https://www.ershicimi.com/p/ae75eca510f83b07000b4a9d70a66173) 
 - [2020-09-19-Vuejs-3.0-正式版发布！One-Piece.-代号：海贼王](https://www.ershicimi.com/p/3a363805b31c6ed7343f7b6cd940879a) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-09-25-奇舞周刊第-365-期：Vue-3.0-正式版本发布](https://www.ershicimi.com/p/72f17b5d2701f79e098732a3b6211682) 

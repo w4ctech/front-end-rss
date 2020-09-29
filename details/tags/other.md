@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 20:27:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 20:32:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2679,16 +2679,16 @@
 - [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) 
 - [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) 
 - [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) 
-- [2020-09-29-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) 
+- [2020-09-29-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) 
 - [2020-09-29-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) 
-- [2020-09-29-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) 
+- [2020-09-29-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) 
 - [2020-09-29-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) 
-- [2020-09-29-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) 
-- [2020-09-29-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) 
 - [2020-09-29-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) 
-- [2020-09-29-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) 
-- [2020-09-29-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) 
 - [2020-09-29-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) 
+- [2020-09-29-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) 
+- [2020-09-29-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) 
+- [2020-09-29-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) 
+- [2020-09-29-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) 
 - [2020-09-29-太绝了!300-图解-PyCharm,『最强教程』当之无愧](https://sec.thief.one/article_content?a_id=058b7c80cd70999435863340cf0ff2f1) 
 - [2020-09-29-我为“十四五”国家信息化规划建言献策](https://sec.thief.one/article_content?a_id=319797aa632ff010012f81a6b1b1f15f) 
 - [2020-09-29-挖洞经验-|-Google-Play-Core-Library中的代码执行漏洞](https://sec.thief.one/article_content?a_id=7e3585f0fc7fac12a0bf11c0f7c194f3) 

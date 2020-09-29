@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 16:28:21，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 16:34:43，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-29-有什么适合边写代码边听的音视频节目？](https://www.v2ex.com/t/711719) ![](assets/new.png)  
 - [2020-09-29-熟練了-C，被-C++把世界觀搞崩壞了](https://www.v2ex.com/t/711717) ![](assets/new.png)  
 - [2020-09-29-我觉得-vue-并不适合做大项目。大佬们怎么看呢。我觉得-event-驱动性能还是比较好的。不觉得-vue-很有优势。。](https://www.v2ex.com/t/711716) ![](assets/new.png)  
 - [2020-09-29-研究了一下关于程序员实现财务自由的方法总结](https://www.v2ex.com/t/711715) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-29-苏宁国际-1399-airpods-pro-稳不稳](https://www.v2ex.com/t/711698) ![](assets/new.png)  
 - [2020-09-29-工资很低，有一定股份，该不该去？](https://www.v2ex.com/t/711697) ![](assets/new.png)  
 - [2020-09-29-裸辞之后的面试感想](https://www.v2ex.com/t/711696) ![](assets/new.png)  
-- [2020-09-29-请教下-硬盘坏道的修复](https://www.v2ex.com/t/711695) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

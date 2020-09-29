@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-29 14:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 14:14:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-29-Parallels-Desktop-16-双节优惠码-7.5-折-PDGW75](https://www.v2ex.com/t/711692) 
 - [2020-09-29-求助，-Win10LTSC-2018（1809）可以直升-LTSC2019-吗？](https://www.v2ex.com/t/711691) 
 - [2020-09-29-腾讯云从业者证书、腾讯云-TCA-证书、腾讯云-TCP-证书优惠](https://www.v2ex.com/t/711690) 
 - [2020-09-29-写小说当副业怎么样？](https://www.v2ex.com/t/711689) 
@@ -43,5 +44,3 @@
 - [2020-09-29-招聘高级前端开发工程师腾讯新闻](https://www.v2ex.com/t/711647) 
 - [2020-09-29-关于会员去广告问题](https://www.v2ex.com/t/711646) 
 - [2020-09-29-写一个“丑团”的小程序会有人用么](https://www.v2ex.com/t/711644) 
-- [2020-09-29-显示器不进入休眠问题解决的各种折腾](https://www.v2ex.com/t/711643) 
-- [2020-09-29-各位-MacBook-Pro-applecare-有必要买吗？](https://www.v2ex.com/t/711642) 

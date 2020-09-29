@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 16:14:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 16:28:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -73,4 +73,5 @@
 - [2020-09-11-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/c17632c9138f5cb25baa775890519b34) 
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-09-29-我觉得-vue-并不适合做大项目。大佬们怎么看呢。我觉得-event-驱动性能还是比较好的。不觉得-vue-很有优势。。](https://www.v2ex.com/t/711716) 
 - [2020-09-29-观摩一段简单粗暴的-vue-代码](https://www.v2ex.com/t/711713) 

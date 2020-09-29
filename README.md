@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 22:47:40，:rocket: 更新条数: +3678， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 23:03:41，:rocket: 更新条数: +3678， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1155,8 +1155,8 @@
 - [2020-09-29-译-两条命令，轻松备份和恢复-Etcd](https://toutiao.io/k/179ruc8) ![](assets/new.png)  
 - [2020-09-29-力扣每日一题打卡：构建二叉树专题](https://toutiao.io/k/z4y2zo0) ![](assets/new.png)  
 - [2020-09-29-译-unsafe-真就-unsafe-吗？](https://toutiao.io/k/xs392pd) ![](assets/new.png)  
-- [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
 - [2020-09-29-学练结合，快速掌握-Kubernetes-Service](https://toutiao.io/k/hxinzqf) ![](assets/new.png)  
+- [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
 - [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) ![](assets/new.png)  
 - [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

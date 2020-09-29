@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 13:47:29，:rocket: 更新条数: +3428， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 14:03:58，:rocket: 更新条数: +3450， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -27,7 +27,7 @@
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
-- [前端外刊评论](#前端外刊评论)  
+- [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
@@ -415,6 +415,26 @@
 </summary>
 
 
+- [2020-02-17-Sigi-Framework-介绍](https://www.ershicimi.com/p/f51055685393a0ab66a73470183ce1e2) ![](assets/new.png)  
+- [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) ![](assets/new.png)  
+- [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) ![](assets/new.png)  
+- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) ![](assets/new.png)  
+- [2020-01-02-云凤蝶自由画布之道：分层模型](https://www.ershicimi.com/p/6f2ab75cf5c42cacddea1cab8ac43504) ![](assets/new.png)  
+- [2019-12-18-从-VSCode-看大型-IDE-技术架构](https://www.ershicimi.com/p/191a6a52cf1d7cda4efe2f86817393c5) ![](assets/new.png)  
+- [2019-12-18-SEE-Conf-大会邀请函-|-体验美好，玩转数据](https://www.ershicimi.com/p/67d19ca247e5a4fe5268764036a43486) ![](assets/new.png)  
+- [2019-12-16-准备好，力扣官方-App-来了！](https://www.ershicimi.com/p/c6a048c75bad1f9f7f8356f5f7cf08ab) ![](assets/new.png)  
+- [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) ![](assets/new.png)  
+- [2019-12-10-使用-Angular-打造微前端架构的-ToB-企业级应用](https://www.ershicimi.com/p/4457e74cb516bb4d315e375ce34a45c0) ![](assets/new.png)  
+- [2019-11-25-Serverless-背景下的前端困境与解决方案](https://www.ershicimi.com/p/ec1908283d9c4dac9fa716b21292ccd5) ![](assets/new.png)  
+- [2019-11-19-到底是用-Ajax-还是-Socket.IO?-用测试数据说话！](https://www.ershicimi.com/p/9177da10e32729b5bc0d282c8408e10b) ![](assets/new.png)  
+- [2019-11-18-赠书-|-张鑫旭新书《CSS选择器世界》章节试读](https://www.ershicimi.com/p/1be4d882970f60785dec795871ae4c89) ![](assets/new.png)  
+- [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) ![](assets/new.png)  
+- [2019-10-29-赠票-|-大咖云集！TWeb-Conf-2019-前端技术大会重磅来袭！就等你来~](https://www.ershicimi.com/p/68b2180dde22f07cdfe13f5d1363a8ec) ![](assets/new.png)  
+- [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) ![](assets/new.png)  
+- [2019-10-21-Hello-World-图可视化](https://www.ershicimi.com/p/1cb30f6cce60ed03a4c8ff3bc45d43dc) ![](assets/new.png)  
+- [2019-10-21-招聘-|-字节跳动-上海-前端工程师社招-&-校招-&-实习生](https://www.ershicimi.com/p/dff761693416bd940e698627c37a14d9) ![](assets/new.png)  
+- [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) ![](assets/new.png)  
+- [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端外刊评论.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-29-求助，-Win10LTSC-2018（1809）可以直升-LTSC2019-吗？](https://www.v2ex.com/t/711691) ![](assets/new.png)  
+- [2020-09-29-腾讯云从业者证书、腾讯云-TCA-证书、腾讯云-TCP-证书优惠](https://www.v2ex.com/t/711690) ![](assets/new.png)  
+- [2020-09-29-写小说当副业怎么样？](https://www.v2ex.com/t/711689) ![](assets/new.png)  
+- [2020-09-29-请教大家遇到过-win10-某个程序中无法输入中文（输入拼音后没有候选可用的单词）的情况吗？我是在魔兽争霸-3-里遇到的](https://www.v2ex.com/t/711688) ![](assets/new.png)  
 - [2020-09-29-Japan-Docomo-手机卡用-JA-版-iPhone-，如何在国内使用？](https://www.v2ex.com/t/711687) ![](assets/new.png)  
 - [2020-09-29-关于候选人的问题，你们会如何选择？](https://www.v2ex.com/t/711686) ![](assets/new.png)  
 - [2020-09-29-offer-求比较选择，坐标成都](https://www.v2ex.com/t/711685) ![](assets/new.png)  
@@ -1053,10 +1077,6 @@
 - [2020-09-29-程序员的归属感，杭州程序员联盟](https://www.v2ex.com/t/711672) ![](assets/new.png)  
 - [2020-09-29-现在（2020-年秋）市面上未停产的-SATA-固态硬盘还可以克隆-XP-系统么？（只能-XP）](https://www.v2ex.com/t/711671) ![](assets/new.png)  
 - [2020-09-29-微信里发的链接有没有办法直接跳到手机默认浏览器打开](https://www.v2ex.com/t/711669) ![](assets/new.png)  
-- [2020-09-29-十几分钟一次。“无-Internet，安全”。原地爆炸。](https://www.v2ex.com/t/711667) ![](assets/new.png)  
-- [2020-09-29-阿里云竟然隐藏了提工单入口，真是服了](https://www.v2ex.com/t/711666) ![](assets/new.png)  
-- [2020-09-29-字节跳动---抖音-内推-20-60K-上海-杭州](https://www.v2ex.com/t/711665) ![](assets/new.png)  
-- [2020-09-29-迫于不知道吃啥，北京有什么好吃的馆子推荐吗？](https://www.v2ex.com/t/711664) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

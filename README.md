@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 08:36:58，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 08:47:06，:rocket: 更新条数: +3451， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -446,6 +446,9 @@
 </summary>
 
 
+- [2020-09-28-React-Hooks-还不如类？](https://www.ershicimi.com/p/c2ce523cd476365d7dac90540eac42c3) ![](assets/new.png)  
+- [2020-09-28-因为忽视技术债，我们差点造成几十亿美元的损失](https://www.ershicimi.com/p/13d0049dd469315b191ffce9c91e8e2f) ![](assets/new.png)  
+- [2020-09-28-winter自述：打造Toy-React背后的故事-|-极客大学](https://www.ershicimi.com/p/132602690a3b300ba5b2f0b639edf58b) ![](assets/new.png)  
 - [2020-09-27-前端周报：Flutter实现Windows支持；Windows-XP源代码泄露，微软：正在调查；苹果](https://www.ershicimi.com/p/8256320f1913e57c662b5461a900d811) ![](assets/new.png)  
 - [2020-09-25-从初级工程师发展到高级工程师，需要跨越的鸿沟](https://www.ershicimi.com/p/68e867198d1e74ebeea9a70f9dda7288) ![](assets/new.png)  
 - [2020-09-25-接手了严重过时的软件，到底是该逐步重构还是摧毁重写呢？](https://www.ershicimi.com/p/d373fe5953594fa8970649ccfdca144f) ![](assets/new.png)  
@@ -463,9 +466,6 @@
 - [2020-09-20-前端周报：Vue-3.0正式发布，代号One-Piece；JS库-Moment.js-进入维护状态；](https://www.ershicimi.com/p/035ed01d8d34e601ec55b38d9650954f) ![](assets/new.png)  
 - [2020-09-20-云开发引领腾讯前后端创新技术实践-|-InfoQ-公开课](https://www.ershicimi.com/p/56d304a16948ac3cfed7f52f06764306) ![](assets/new.png)  
 - [2020-09-18-React-从入门到放弃，一个关于网页速度的故事](https://www.ershicimi.com/p/c3ec2a57dccdd8ec1df746b959d63cfb) ![](assets/new.png)  
-- [2020-09-18-Node.js开发人员都应该知道的12个有用的包](https://www.ershicimi.com/p/d0547fa0a40cf921b2419cc8322d1e6b) ![](assets/new.png)  
-- [2020-09-18-华为前端开发课来啦，7节课带你入门前端-|-活动推荐](https://www.ershicimi.com/p/0cf4d465b4e03ded153ee962567c2dfd) ![](assets/new.png)  
-- [2020-09-17-JavaScript错误处理完全指南](https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-29-这是系统设置的哪里啊，早前的截图忘记是哪里了](https://www.v2ex.com/t/711623) ![](assets/new.png)  
+- [2020-09-29-ITX-和相似性能的笔记本之间的差价真的很大吗](https://www.v2ex.com/t/711622) ![](assets/new.png)  
 - [2020-09-29-关于分库分表的分歧](https://www.v2ex.com/t/711620) ![](assets/new.png)  
 - [2020-09-29-深圳市专属医疗险，无年龄限制，不限制医保用药](https://www.v2ex.com/t/711619) ![](assets/new.png)  
 - [2020-09-29-腾讯视频在-iOS14-打开闪退，节前不打算修复了？](https://www.v2ex.com/t/711618) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-29-如何才能接触到更优秀的人？](https://www.v2ex.com/t/711600) ![](assets/new.png)  
 - [2020-09-29-安卓的-NFC-功能那么方便，有无类似的仅有-NFC-功能的便携设备？](https://www.v2ex.com/t/711599) ![](assets/new.png)  
 - [2020-09-29-2019-款-MacBookPro-16-寸为什么还有启动音？](https://www.v2ex.com/t/711598) ![](assets/new.png)  
-- [2020-09-29-请教一个-iplc-中转的问题](https://www.v2ex.com/t/711597) ![](assets/new.png)  
-- [2020-09-29-composer-狂占内存，各位大佬有没有遇到过](https://www.v2ex.com/t/711596) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,8 +1134,8 @@
 - [2020-09-29-有了-vite，还需要-webpack-么？](https://toutiao.io/k/pbglq74) ![](assets/new.png)  
 - [2020-09-29-力扣每日一题打卡：构建二叉树专题](https://toutiao.io/k/z4y2zo0) ![](assets/new.png)  
 - [2020-09-29-译-两条命令，轻松备份和恢复-Etcd](https://toutiao.io/k/179ruc8) ![](assets/new.png)  
-- [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
 - [2020-09-29-译-unsafe-真就-unsafe-吗？](https://toutiao.io/k/xs392pd) ![](assets/new.png)  
+- [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
 - [2020-09-29-学练结合，快速掌握-Kubernetes-Service](https://toutiao.io/k/hxinzqf) ![](assets/new.png)  
 - [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) ![](assets/new.png)  
 - [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) ![](assets/new.png)  

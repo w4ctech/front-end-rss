@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 08:36:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 08:47:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -60,7 +60,6 @@
 - [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
 - [2020-09-23-怎样解决JavaScript生态中第三方安全性问题？](https://www.ershicimi.com/p/9f36b7564c977e9a1c13870f2fe372c3) 
 - [2020-09-22-Moment.js-进入维护状态：周下载量超-1200-万的-JS-库已经完成了它的使命](https://www.ershicimi.com/p/795d3321367981401154cc1f3942cf6d) 
-- [2020-09-17-JavaScript错误处理完全指南](https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c) 
 - [2020-09-27-30道高频JS手撕面试题](https://www.ershicimi.com/p/7a2b0ecf8eea81638b986e4638b348f6) 
 - [2020-09-07-JS原型相关知识点](https://www.ershicimi.com/p/615ac57abc1d69cc60d1f97b775d75b1) 
 - [2020-09-23-javascript红宝书第4版，抽奖！！！](https://www.ershicimi.com/p/d29c88b1cfb223bbc578049b050b2f64) 
@@ -108,5 +107,3 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-09-29-请问有大佬可以帮我解决一个-javaScript-问题吗,有偿!](https://www.v2ex.com/t/711615) 
 - [2020-09-29-关于-pgsql-中-jsonb-类型数据的更新问题](https://www.v2ex.com/t/711580) 
-- [2020-09-29-Apple-Watch5-代-升级-watchos7-以后找不到以前那个噪声-app-了](https://www.v2ex.com/t/711571) 
-- [2020-09-29-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-29 08:36:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 08:47:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-29-这是系统设置的哪里啊，早前的截图忘记是哪里了](https://www.v2ex.com/t/711623) 
+- [2020-09-29-ITX-和相似性能的笔记本之间的差价真的很大吗](https://www.v2ex.com/t/711622) 
 - [2020-09-29-关于分库分表的分歧](https://www.v2ex.com/t/711620) 
 - [2020-09-29-深圳市专属医疗险，无年龄限制，不限制医保用药](https://www.v2ex.com/t/711619) 
 - [2020-09-29-腾讯视频在-iOS14-打开闪退，节前不打算修复了？](https://www.v2ex.com/t/711618) 
@@ -46,6 +48,3 @@
 - [2020-09-29-硅谷-star-up-公司北京研发中心-机器学习-其他技术岗位同步招聘](https://www.v2ex.com/t/711577) 
 - [2020-09-29-Parallels-Desktop-也太龌龊了](https://www.v2ex.com/t/711576) 
 - [2020-09-29-求一个-sql-语句或解决办法](https://www.v2ex.com/t/711575) 
-- [2020-09-29--Java-NIO-Java-NIO-学习](https://www.v2ex.com/t/711574) 
-- [2020-09-29-程序员小漫画第三弹](https://www.v2ex.com/t/711573) 
-- [2020-09-29-Apple-Watch5-代-升级-watchos7-以后找不到以前那个噪声-app-了](https://www.v2ex.com/t/711571) 

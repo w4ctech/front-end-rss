@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 20:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 20:14:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -23,3 +23,4 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-09-29-移动的宽带客户都突破-2-亿了，为什么-ICP-的优化还是这么差](https://www.v2ex.com/t/711704) 
 - [2020-09-29-Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-09-29-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) 

@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-09-29 03:49:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 04:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-29-Apple-Pay-未完成付款](https://www.v2ex.com/t/711516) 
+- [2020-09-29-网页程序选择-x86-还是-arm？](https://www.v2ex.com/t/711515) 
+- [2020-09-29-套路云的几个活动](https://www.v2ex.com/t/711513) 
+- [2020-09-29-使用-docker-封印-EasyConnect](https://www.v2ex.com/t/711512) 
+- [2020-09-29-XPS13-更新了，话说这款被很多人说有很多问题，真诚问一下，这本子真的有那么不堪吗？？](https://www.v2ex.com/t/711511) 
+- [2020-09-29-求助-Mac-mini-更新-Big-Sur-Beta8-无法开机](https://www.v2ex.com/t/711510) 
 - [2020-09-29-Vultr-主机的问题，移动-4G-和其他运营商都能出国，唯独移动宽带不行](https://www.v2ex.com/t/711509) 
 - [2020-09-29-到底是工作需要人,-还是人需要工作?](https://www.v2ex.com/t/711508) 
 - [2020-09-29-想请问一下在-windows-上面如何监控-Python-项目的运行](https://www.v2ex.com/t/711507) 
@@ -40,9 +46,3 @@
 - [2020-09-29-来-V-站问问升级的策略](https://www.v2ex.com/t/711469) 
 - [2020-09-29-中超奇葩的规则](https://www.v2ex.com/t/711468) 
 - [2020-09-29-有没有人做第三方账号认证平台？](https://www.v2ex.com/t/711467) 
-- [2020-09-29-由一刀切所有运动员需要通过所谓体能测试通过才能进决赛想起](https://www.v2ex.com/t/711466) 
-- [2020-09-29-想问下，我把爬虫脚本放到-github，别人使用了，我会受到连带责任么？](https://www.v2ex.com/t/711465) 
-- [2020-09-29-SQL-本体查询不慢-mybatis-plus-的分页功能-Count-总数巨慢](https://www.v2ex.com/t/711464) 
-- [2020-09-29-sql-优化求指导](https://www.v2ex.com/t/711463) 
-- [2020-09-29-中秋佳节，送六盒好吃的港版月饼！](https://www.v2ex.com/t/711461) 
-- [2020-09-29-MacBook-Pro-重启后设置全部还原的原因可能是?](https://www.v2ex.com/t/711460) 

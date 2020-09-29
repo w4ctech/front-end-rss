@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 15:13:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 15:25:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,5 +46,3 @@
 - [2020-09-29-迫于不知道吃啥，北京有什么好吃的馆子推荐吗？](https://www.v2ex.com/t/711664) 
 - [2020-09-29-Win10-的-NVIDIA-控制面板似乎不能修改程序使用的显卡？](https://www.v2ex.com/t/711662) 
 - [2020-09-29-深圳:广州如何选](https://www.v2ex.com/t/711661) 
-- [2020-09-29-catalina-10.15.6-修改苹果蓝牙键盘名称，中坑了](https://www.v2ex.com/t/711660) 
-- [2020-09-29-这个用-Warcraft-III:-Reforged-重制的-Warcraft-II-战役似乎使用了新的自制模型？](https://www.v2ex.com/t/711659) 

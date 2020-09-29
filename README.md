@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 10:47:26，:rocket: 更新条数: +3670， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 11:03:20，:rocket: 更新条数: +3669， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-09-29-这个用-Warcraft-III:-Reforged-重制的-Warcraft-II-战役似乎使用了新的自制模型？](https://www.v2ex.com/t/711659) ![](assets/new.png)  
+- [2020-09-29-macOS-更新-10.15.7-卡住](https://www.v2ex.com/t/711656) ![](assets/new.png)  
 - [2020-09-29-在密码输入界面，调用包含数字的全键盘到底有多难？](https://www.v2ex.com/t/711654) ![](assets/new.png)  
 - [2020-09-29-今天晚上还加班吗？](https://www.v2ex.com/t/711653) ![](assets/new.png)  
 - [2020-09-29-macOS-邮箱.app-默认下载所有邮件?](https://www.v2ex.com/t/711652) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-09-29-桃源村招合租-第二次](https://www.v2ex.com/t/711635) ![](assets/new.png)  
 - [2020-09-29-水一贴，看看图床能不能在-v-站使用](https://www.v2ex.com/t/711634) ![](assets/new.png)  
 - [2020-09-29-新开发一个工具合集软件，大佬帮忙看一下怎么样](https://www.v2ex.com/t/711633) ![](assets/new.png)  
-- [2020-09-29-求问下-restfultoolkit-在新版的-idea-上面还能用吗-几个月前好像还是白屏-后来我-idea-降到了旧版本才可以用](https://www.v2ex.com/t/711630) ![](assets/new.png)  
-- [2020-09-29-分享一个-json-在线转思维导图（freemind-xmind）小工具](https://www.v2ex.com/t/711629) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1157,8 +1157,8 @@
 - [2020-09-29-译-unsafe-真就-unsafe-吗？](https://toutiao.io/k/xs392pd) ![](assets/new.png)  
 - [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
 - [2020-09-29-学练结合，快速掌握-Kubernetes-Service](https://toutiao.io/k/hxinzqf) ![](assets/new.png)  
-- [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) ![](assets/new.png)  
 - [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) ![](assets/new.png)  
+- [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1170,26 +1170,26 @@
 </summary>
 
 
-- [2020-09-28-【中国梦·黄河情】小浪底、大淘沙,护佑黄河岁岁安澜](https://sec.thief.one/article_content?a_id=060c3e8f11eb8c5d54325fbc6e635ff8) ![](assets/new.png)  
-- [2020-09-28-【更新】Apache-Superset-远程代码执行漏洞CVE-2020-13948](https://sec.thief.one/article_content?a_id=5d1ac935afeec7ce910e0e5f65a5635e) ![](assets/new.png)  
-- [2020-09-28-5个酷毙的Python工具](https://sec.thief.one/article_content?a_id=169f52bd69a3d6a32b9aa991b69be064) ![](assets/new.png)  
-- [2020-09-28-每日攻防资讯简报Sept.28th](https://sec.thief.one/article_content?a_id=7b756e14999fb41bf69b7f059e1cc1d2) ![](assets/new.png)  
-- [2020-09-28-30-个Python代码实现的常用功能,精心整理版](https://sec.thief.one/article_content?a_id=0c4d47bd894e95d653bfeeba05508d22) ![](assets/new.png)  
-- [2020-09-28-雷神众测近期漏洞总结9.12-9.28](https://sec.thief.one/article_content?a_id=72725f644357d499ffeba904e0137d5e) ![](assets/new.png)  
-- [2020-09-28-工具推荐:效率源科技—数据恢复取证专家](https://sec.thief.one/article_content?a_id=75a7764faf51d31567415717452ed82e) ![](assets/new.png)  
-- [2020-09-28-奇安信集团总裁吴云坤提出保障信创安全的两个路径](https://sec.thief.one/article_content?a_id=a7969f938e32cb0b9425b141a8ce0499) ![](assets/new.png)  
-- [2020-09-28-美团SRC邀你填写调研问卷,赢取限定款SRC联合大礼包](https://sec.thief.one/article_content?a_id=5a146a4e2be1f8584e45b990609388df) ![](assets/new.png)  
-- [2020-09-28-DeFi深陷大规模“走出去”困境?Wing祭出三大杀手锏](https://sec.thief.one/article_content?a_id=e4b73fee9a5092972c010b22c7f5470a) ![](assets/new.png)  
-- [2020-09-28-1分钟快速打卡,赢取限定款SRC联合大礼包](https://sec.thief.one/article_content?a_id=bd5575838ea129b09b7529484c7a4c70) ![](assets/new.png)  
-- [2020-09-28-起底数字货币的觊觎者LazarusAPT-C-26,长达十三年“环环相扣”...](https://sec.thief.one/article_content?a_id=b5fddb6447272da8763b3f5b94c0adab) ![](assets/new.png)  
-- [2020-09-28-TCTF2020收官:全球顶尖极客战队云上24小时巅峰对决](https://sec.thief.one/article_content?a_id=417aff7b3ca410e5ae7915bd65d5e4b2) ![](assets/new.png)  
-- [2020-09-28-聚力黄埔-共谋发展|绿盟科技与广州市黄埔人民政府签订合作协议](https://sec.thief.one/article_content?a_id=741310a5bac43e6deac99979a7b2842a) ![](assets/new.png)  
-- [2020-09-28-chrome-sandbox-escape-case-study](https://sec.thief.one/article_content?a_id=cd965dd7a27a746658e82b33e989920d) ![](assets/new.png)  
-- [2020-09-28-​“无限可能,成就有你”,超级CSO研修班揭幕开营!](https://sec.thief.one/article_content?a_id=22d695356afbbdc33c903b0d33f9eccd) ![](assets/new.png)  
-- [2020-09-28-2020中国NTA/NDR类产品能力测试结果公布:5大能力及应用组](https://sec.thief.one/article_content?a_id=a19e7e525cc59ef8b69772e12c09a385) ![](assets/new.png)  
-- [2020-09-28-沙龙回放|安全工程师从0到1,圆满收官!](https://sec.thief.one/article_content?a_id=1479cce2be63de8bf42719a3846e141b) ![](assets/new.png)  
-- [2020-09-28-1分钟快速打卡,赢取限定款SRC联合大礼包](https://sec.thief.one/article_content?a_id=304274b254bfe5dcdd5774851dabbf21) ![](assets/new.png)  
-- [2020-09-28-Visa正推进数字货币支付技术研究,助力央行探索CBDC开发](https://sec.thief.one/article_content?a_id=e42a95c18f065e72fbed85807eba082e) ![](assets/new.png)  
+- [2020-09-29-看一看,这几个安全必加的公众号你认得几个?](https://sec.thief.one/article_content?a_id=bc30c9f2441a1da523db17df31e092be) ![](assets/new.png)  
+- [2020-09-29-​【安全圈】微软更新造成Office-365等多个在线服务中断!](https://sec.thief.one/article_content?a_id=6db0bed5358d9f7cfde8790ada0e2835) ![](assets/new.png)  
+- [2020-09-29-信息安全专业真的很香吗?](https://sec.thief.one/article_content?a_id=597f153ba162e124bd72b4cdad0bf2f7) ![](assets/new.png)  
+- [2020-09-29-挖洞经验-|-Google-Play-Core-Library中的代码执行漏洞](https://sec.thief.one/article_content?a_id=7e3585f0fc7fac12a0bf11c0f7c194f3) ![](assets/new.png)  
+- [2020-09-29-国庆节安全防护指南:政企用户网络安全七大常见风险盘点](https://sec.thief.one/article_content?a_id=f2249ca6536042ef6ac2d0cd3e8cdd84) ![](assets/new.png)  
+- [2020-09-29-“黄金眼”行动---针对国内金融行业的历史定向攻击活动技术分析](https://sec.thief.one/article_content?a_id=1d0282f7bb320c2297e1c31a79b5e181) ![](assets/new.png)  
+- [2020-09-29-AFL-QBDI与AFL-Unicorn实战](https://sec.thief.one/article_content?a_id=4e8b4236c57042aca681ee27a08bd4f0) ![](assets/new.png)  
+- [2020-09-29-【更新】IBM-WebSphere-Application-Server-XXE-漏洞CVE-2020-4643](https://sec.thief.one/article_content?a_id=9f6e0824ac52b728b9797ad9287bdfa0) ![](assets/new.png)  
+- [2020-09-29-公开课丨这些二维码“有毒”,超过80%的人都中过招!](https://sec.thief.one/article_content?a_id=e4ef584707ac4f54e7f2e6c6519131f8) ![](assets/new.png)  
+- [2020-09-29-SecWiki安全招聘第39期](https://sec.thief.one/article_content?a_id=498026e9faab177ddf659ba8af01aeb5) ![](assets/new.png)  
+- [2020-09-29-BanID:zxj397298976【发布软件捆绑Cobalt-Strike远控木马】](https://sec.thief.one/article_content?a_id=1b6bcb00bd8a0a174ec15a092f9bf650) ![](assets/new.png)  
+- [2020-09-29-通过Metasploit-Loader绕过杀软](https://sec.thief.one/article_content?a_id=9d888703b0f8716bf3a9713d3a7fabd0) ![](assets/new.png)  
+- [2020-09-29-CNNIC发布第46次《中国互联网络发展状况统计报告》](https://sec.thief.one/article_content?a_id=31f10b86d63b0e9da702ba829210b3af) ![](assets/new.png)  
+- [2020-09-29-信息安全漏洞周报2020年第38期](https://sec.thief.one/article_content?a_id=1a92940fc05f67597aa434bea6ec2421) ![](assets/new.png)  
+- [2020-09-29-只有250万枚BTC可供挖矿](https://sec.thief.one/article_content?a_id=6219f26559d803d9127890519b2cd74e) ![](assets/new.png)  
+- [2020-09-29-9月29日币种早内参-Cardano创始人:Goguen更新将分三个阶段进行](https://sec.thief.one/article_content?a_id=b5484d69ee12529b4695a664e1801a46) ![](assets/new.png)  
+- [2020-09-29-滴滴秦波:滴滴安全运营实践-|-2020-情报大会“剧透”](https://sec.thief.one/article_content?a_id=72e9efe5431081412e6a07b0f500157b) ![](assets/new.png)  
+- [2020-09-29-【视频】|-Python:if语句之猜大小和多层条](https://sec.thief.one/article_content?a_id=5c8ba2b71483548c6f709875770e0728) ![](assets/new.png)  
+- [2020-09-29-破解iPhone-5和5c密码系列:通过iOS-Forensic-Toolkit破解](https://sec.thief.one/article_content?a_id=b9039ab46fea795e832a2b9582c0793b) ![](assets/new.png)  
+- [2020-09-29-填写调研问卷,赢取各SRC限定款联合大礼包](https://sec.thief.one/article_content?a_id=d2a4774a52b918103cd161678f3d327c) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

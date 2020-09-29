@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 05:03:43，:rocket: 更新条数: +3672， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 05:12:59，:rocket: 更新条数: +3447， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,10 @@
 </summary>
 
 
+- [2020-09-29-迫于腰椎间盘突出。问下-V-友们有什么有效缓解的椅子，预算-1000-以下，-50-以上](https://www.v2ex.com/t/711537) ![](assets/new.png)  
+- [2020-09-29-openvpn-聚合-iperf3-测速正常，但是-speedtest-cli-依旧很慢](https://www.v2ex.com/t/711536) ![](assets/new.png)  
+- [2020-09-29-客户端开发要往底层学习的话需要看-Unix-系统实现吗？](https://www.v2ex.com/t/711535) ![](assets/new.png)  
+- [2020-09-29-国旗头像生成器,国庆节快乐！](https://www.v2ex.com/t/711534) ![](assets/new.png)  
 - [2020-09-29-升级-iOS-14-后大家是怎么布置主屏的？](https://www.v2ex.com/t/711533) ![](assets/new.png)  
 - [2020-09-29-联想天逸-510s-用来做开发如何](https://www.v2ex.com/t/711532) ![](assets/new.png)  
 - [2020-09-29-微信，呵](https://www.v2ex.com/t/711531) ![](assets/new.png)  
@@ -1093,10 +1077,6 @@
 - [2020-09-29-现在有什么好用的冷门-BASE64-加密方式么](https://www.v2ex.com/t/711518) ![](assets/new.png)  
 - [2020-09-29-程序员的前半生](https://www.v2ex.com/t/711517) ![](assets/new.png)  
 - [2020-09-29-Apple-Pay-未完成付款](https://www.v2ex.com/t/711516) ![](assets/new.png)  
-- [2020-09-29-网页程序选择-x86-还是-arm？](https://www.v2ex.com/t/711515) ![](assets/new.png)  
-- [2020-09-29-套路云的几个活动](https://www.v2ex.com/t/711513) ![](assets/new.png)  
-- [2020-09-29-使用-docker-封印-EasyConnect](https://www.v2ex.com/t/711512) ![](assets/new.png)  
-- [2020-09-29-XPS13-更新了，话说这款被很多人说有很多问题，真诚问一下，这本子真的有那么不堪吗？？](https://www.v2ex.com/t/711511) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

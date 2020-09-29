@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-29 10:34:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 10:47:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-09-28-最新疫情：全国新冠累计确诊85384例-新增境外输入12例](http://m.china.caixin.com/m/2020-09-29/101611174.html) 
+- [2020-09-28-最新海外疫情：新冠感染近3323万-累计死亡超99.6万](http://m.international.caixin.com/m/2020-09-29/101611175.html) 
 - [2020-09-28-【境内疫情观察】全国新增12例境外输入病例（9月28日）](http://m.database.caixin.com/m/2020-09-29/101610935.html) 
 - [2020-09-28-大流行手记|9月28日：印度医用氧气短缺-G20峰会将线上召开](https://m.caixin.com/m/2020-09-29/101610758.html) 
 - [2020-09-28-【图集】英国约40所大学出现疫情-数千名学生宿舍隔离](http://m.photos.caixin.com/m/2020-09-29/101611037.html) 
@@ -2668,17 +2670,18 @@
 - [2020-09-29-学练结合，快速掌握-Kubernetes-Service](https://toutiao.io/k/hxinzqf) 
 - [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) 
 - [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) 
-- [2020-09-29-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) 
+- [2020-09-29-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) 
+- [2020-09-29-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) 
+- [2020-09-29-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) 
+- [2020-09-29-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) 
 - [2020-09-29-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) 
+- [2020-09-29-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) 
+- [2020-09-29-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) 
 - [2020-09-29-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) 
+- [2020-09-29-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) 
 - [2020-09-29-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) 
 - [2020-09-29-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) 
-- [2020-09-29-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) 
-- [2020-09-29-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) 
-- [2020-09-29-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) 
-- [2020-09-29-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) 
 - [2020-09-29-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) 
-- [2020-09-29-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) 
 - [2020-09-28-【中国梦·黄河情】小浪底、大淘沙,护佑黄河岁岁安澜](https://sec.thief.one/article_content?a_id=060c3e8f11eb8c5d54325fbc6e635ff8) 
 - [2020-09-28-【更新】Apache-Superset-远程代码执行漏洞CVE-2020-13948](https://sec.thief.one/article_content?a_id=5d1ac935afeec7ce910e0e5f65a5635e) 
 - [2020-09-28-5个酷毙的Python工具](https://sec.thief.one/article_content?a_id=169f52bd69a3d6a32b9aa991b69be064) 

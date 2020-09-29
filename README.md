@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 13:32:22，:rocket: 更新条数: +3448， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 13:35:04，:rocket: 更新条数: +3412， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -1119,26 +1119,6 @@
 </summary>
 
 
-- [2020-09-29-懂了！国际算法体系对称算法-DES-原理](https://toutiao.io/k/hgpzrix) ![](assets/new.png)  
-- [2020-09-29-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
-- [2020-09-29-技术人员发展四阶段](https://toutiao.io/k/lfucbgj) ![](assets/new.png)  
-- [2020-09-29-揭秘-Apache-Pulsar-如何挑战-Kafka](https://toutiao.io/k/ao9ceoz) ![](assets/new.png)  
-- [2020-09-29-互联网大厂内推求职的正确姿势？](https://toutiao.io/k/qqf3ofu) ![](assets/new.png)  
-- [2020-09-29-大数据系统云原生渐进式演进最佳实践](https://toutiao.io/k/rzbct9h) ![](assets/new.png)  
-- [2020-09-29-Dubbo-日志链路追踪-TraceId-选型](https://toutiao.io/k/b0y1ksy) ![](assets/new.png)  
-- [2020-09-29-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
-- [2020-09-29-从-12.9K-的前端开源项目我学到了啥？](https://toutiao.io/k/4nhsi51) ![](assets/new.png)  
-- [2020-09-29-基于-prometheus-的微服务指标监控](https://toutiao.io/k/4gm2ud1) ![](assets/new.png)  
-- [2020-09-29-产品经理眼中不那么性感的缓存机制](https://toutiao.io/k/4bucw5y) ![](assets/new.png)  
-- [2020-09-29-带你快速了解-React-Hooks](https://toutiao.io/k/2io1jus) ![](assets/new.png)  
-- [2020-09-29-有了-vite，还需要-webpack-么？](https://toutiao.io/k/pbglq74) ![](assets/new.png)  
-- [2020-09-29-力扣每日一题打卡：构建二叉树专题](https://toutiao.io/k/z4y2zo0) ![](assets/new.png)  
-- [2020-09-29-译-两条命令，轻松备份和恢复-Etcd](https://toutiao.io/k/179ruc8) ![](assets/new.png)  
-- [2020-09-29-译-unsafe-真就-unsafe-吗？](https://toutiao.io/k/xs392pd) ![](assets/new.png)  
-- [2020-09-29-学练结合，快速掌握-Kubernetes-Service](https://toutiao.io/k/hxinzqf) ![](assets/new.png)  
-- [2020-09-29-KDD-Cup-2020-多模态召回比赛亚军方案与搜索业务应用](https://toutiao.io/k/9la12de) ![](assets/new.png)  
-- [2020-09-29-WorkManager-在-Kotlin-中的实践](https://toutiao.io/k/5s6b1nw) ![](assets/new.png)  
-- [2020-09-29-ECCV-2020-论文大盘点：显著目标检测篇](https://toutiao.io/k/w2l471w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

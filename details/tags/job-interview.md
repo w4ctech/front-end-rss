@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 16:38:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 16:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -38,6 +38,5 @@
 - [2020-09-29-还不会回答Spring-Boot和Spring-MVC的关系？大厂Java高级面试官告诉你答案！](https://www.ershicimi.com/p/4efd122c679009700ede88d4220de926) 
 - [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81) 
 - [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d) 
-- [2020-09-29-裸辞之后的面试感想](https://www.v2ex.com/t/711696) 
 - [2020-09-29-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) 
 - [2020-09-27-卧槽,史上超全面Python面试题和详解10个高清PDF,开放下载!](https://sec.thief.one/article_content?a_id=a2e3a3f9312f3dff2301615aa6a1d7a5) 

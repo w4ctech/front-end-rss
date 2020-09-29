@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-29 00:34:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 01:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-29-求流量需求实惠方案](https://www.v2ex.com/t/711438) 
 - [2020-09-29-第一次接触会觉得比较有意思的编程技术](https://www.v2ex.com/t/711436) 
 - [2020-09-29-淘宝直播-App-社招前端-P6-P7-北京杭州均可](https://www.v2ex.com/t/711435) 
 - [2020-09-28-有在-freelancer-接过单的兄弟吗，地址验证怎么过的](https://www.v2ex.com/t/711434) 
@@ -43,6 +44,3 @@
 - [2020-09-28-现在哪里可以线上申请个体户呢?](https://www.v2ex.com/t/711396) 
 - [2020-09-28-苹果官方-Swift-和-SwiftUI-的使用率统计](https://www.v2ex.com/t/711392) 
 - [2020-09-28-求推荐云端的-saas-笔记软件](https://www.v2ex.com/t/711391) 
-- [2020-09-28-第四期德国-IT-岗位招聘之-Salesforce-Administrator,-ERP-computer-scientist,-iOS/Android-software-developer](https://www.v2ex.com/t/711389) 
-- [2020-09-28-iOS14-更新了，我觉得苹果这个翻译-APP-不是很好用](https://www.v2ex.com/t/711388) 
-- [2020-09-28-请各位大哥给个配置单](https://www.v2ex.com/t/711387) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 00:34:55，:rocket: 更新条数: +3434， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-29 01:04:11，:rocket: 更新条数: +3433， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-09-28-9月28日全国新增境外输入新冠12例-累计确诊85384例](https://m.caixin.com/m/2020-09-29/101610771.html) ![](assets/new.png)  
 - [2020-09-27-最新海外疫情：新冠感染超3297万-累计死亡超99万](http://m.international.caixin.com/m/2020-09-28/101610609.html) ![](assets/new.png)  
 - [2020-09-27-【境内疫情观察】全国新增21例境外输入病例（9月27日）](http://m.database.caixin.com/m/2020-09-28/101610505.html) ![](assets/new.png)  
 - [2020-09-27-大流行手记|9月27日：莫迪力撑印度疫苗-英国23所高校现疫情](https://m.caixin.com/m/2020-09-28/101610347.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-09-21-大流行手记|9月21日：权威学者建议英国尽快“封城”-英美均曝检测不足](https://m.caixin.com/m/2020-09-22/101607933.html) ![](assets/new.png)  
 - [2020-09-21-欧洲多地疫情反弹-为避免悲剧重演各国加紧防控步伐](http://m.international.caixin.com/m/2020-09-22/101608317.html) ![](assets/new.png)  
 - [2020-09-20-【境内疫情观察】全国新增12例境外输入病例（9月20日）](http://m.database.caixin.com/m/2020-09-21/101607590.html) ![](assets/new.png)  
-- [2020-09-20-大流行手记|9月20日：全球新冠死亡率仍高达3%-拉美确诊病例近870万](https://m.caixin.com/m/2020-09-21/101607469.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-09-29-求流量需求实惠方案](https://www.v2ex.com/t/711438) ![](assets/new.png)  
 - [2020-09-29-第一次接触会觉得比较有意思的编程技术](https://www.v2ex.com/t/711436) ![](assets/new.png)  
 - [2020-09-29-淘宝直播-App-社招前端-P6-P7-北京杭州均可](https://www.v2ex.com/t/711435) ![](assets/new.png)  
 - [2020-09-28-有在-freelancer-接过单的兄弟吗，地址验证怎么过的](https://www.v2ex.com/t/711434) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-09-28-mac-big-sur-自带的-Python-是啥版本？有-python2-吗？](https://www.v2ex.com/t/711419) ![](assets/new.png)  
 - [2020-09-28-安卓-app-打包，程序已经部署好了。只需要获取设备信息最好-allndroid-id-imei-及-mac-都取出来。可以加微信-jxbf888888-价格美丽！](https://www.v2ex.com/t/711418) ![](assets/new.png)  
 - [2020-09-28-员工内推-安全与风控-字节跳动-北上杭深](https://www.v2ex.com/t/711417) ![](assets/new.png)  
-- [2020-09-28-Hyper-出品的全新-3A1C+双头插口充电头](https://www.v2ex.com/t/711416) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,25 +1120,25 @@
 
 
 - [2020-09-29-懂了！国际算法体系对称算法-DES-原理](https://toutiao.io/k/hgpzrix) ![](assets/new.png)  
-- [2020-09-29-揭秘-Apache-Pulsar-如何挑战-Kafka](https://toutiao.io/k/ao9ceoz) ![](assets/new.png)  
 - [2020-09-29-Dubbo-日志链路追踪-TraceId-选型](https://toutiao.io/k/b0y1ksy) ![](assets/new.png)  
+- [2020-09-29-揭秘-Apache-Pulsar-如何挑战-Kafka](https://toutiao.io/k/ao9ceoz) ![](assets/new.png)  
 - [2020-09-29-技术人员发展四阶段](https://toutiao.io/k/lfucbgj) ![](assets/new.png)  
 - [2020-09-29-从-12.9K-的前端开源项目我学到了啥？](https://toutiao.io/k/4nhsi51) ![](assets/new.png)  
 - [2020-09-29-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
-- [2020-09-29-产品经理眼中不那么性感的缓存机制](https://toutiao.io/k/4bucw5y) ![](assets/new.png)  
 - [2020-09-29-互联网大厂内推求职的正确姿势？](https://toutiao.io/k/qqf3ofu) ![](assets/new.png)  
-- [2020-09-29-带你快速了解-React-Hooks](https://toutiao.io/k/2io1jus) ![](assets/new.png)  
+- [2020-09-29-产品经理眼中不那么性感的缓存机制](https://toutiao.io/k/4bucw5y) ![](assets/new.png)  
 - [2020-09-29-基于-prometheus-的微服务指标监控](https://toutiao.io/k/4gm2ud1) ![](assets/new.png)  
-- [2020-09-29-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
-- [2020-09-29-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
-- [2020-09-29-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
-- [2020-09-29-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
-- [2020-09-29-推荐-HDFS-+-Clickhouse-+-Spark：从-0-到-1-实现一款轻量级大数据分析系统](https://toutiao.io/k/tyygn3e) ![](assets/new.png)  
+- [2020-09-29-带你快速了解-React-Hooks](https://toutiao.io/k/2io1jus) ![](assets/new.png)  
+- [2020-09-29-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
 - [2020-09-29-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
+- [2020-09-29-推荐-资料-|-各大互联网公司容易考察的高频-LeetCode-题](https://toutiao.io/k/dcmvw72) ![](assets/new.png)  
+- [2020-09-29-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-09-29-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
 - [2020-09-29-推荐-《一年顶十年》干货读书笔记](https://toutiao.io/k/okqtla6) ![](assets/new.png)  
-- [2020-09-29-推荐-硬核看房利器：Web-全景的实现](https://toutiao.io/k/ihkuhms) ![](assets/new.png)  
-- [2020-09-29-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
-- [2020-09-29-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
+- [2020-09-29-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
+- [2020-09-29-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
+- [2020-09-29-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
+- [2020-09-29-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

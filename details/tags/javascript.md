@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 08:27:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 08:33:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -109,3 +109,4 @@
 - [2020-09-29-请问有大佬可以帮我解决一个-javaScript-问题吗,有偿!](https://www.v2ex.com/t/711615) 
 - [2020-09-29-关于-pgsql-中-jsonb-类型数据的更新问题](https://www.v2ex.com/t/711580) 
 - [2020-09-29-Apple-Watch5-代-升级-watchos7-以后找不到以前那个噪声-app-了](https://www.v2ex.com/t/711571) 
+- [2020-09-29-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

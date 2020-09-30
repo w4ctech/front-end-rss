@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-30 03:25:31，:rocket: 更新条数: +3678， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-30 03:32:10，:rocket: 更新条数: +3677， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-30-龙岗中心城附近有啥好吃的地方吗](https://www.v2ex.com/t/711838) ![](assets/new.png)  
 - [2020-09-30-更新-macOS-至-10.15.7-卡在这了...](https://www.v2ex.com/t/711836) ![](assets/new.png)  
 - [2020-09-30-都会迷茫；不同阶段会有不同的迷茫](https://www.v2ex.com/t/711834) ![](assets/new.png)  
 - [2020-09-30-公司三无女喷香水，气味活跃在周身直径五米范围，有点呛。](https://www.v2ex.com/t/711833) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-30-字节跳动员工内推-北上杭深-岗位很多-HC-很多](https://www.v2ex.com/t/711818) ![](assets/new.png)  
 - [2020-09-30-想在农村老家开个小店，做什么比较合适？](https://www.v2ex.com/t/711817) ![](assets/new.png)  
 - [2020-09-30-性感程序员，在线摸鱼](https://www.v2ex.com/t/711816) ![](assets/new.png)  
-- [2020-09-30-Parallels-Desktop-16-官网-75-折哟](https://www.v2ex.com/t/711815) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1108,6 +1108,7 @@
 </summary>
 
 
+- [2020-09-30-一文讲懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZYFdJ0FRNhcbWP3Ddng1lA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-30-Android-敏感数据泄露引发的思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-30-最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-30-Kotlin-正在变得越来越好-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13804&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4JCNz0KJiJiuiABVfpCIzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1127,7 +1128,6 @@
 - [2020-09-30-Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-30-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-09-30-Android-记一次解决问题的过程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13788&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjY3qmLgW0iWa8HYAjjpJyw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-09-30-kotlin-如何解决-java-开发痛点，让程序员-happier-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13787&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrGMtMxJ2Z8IvYcR3i5G5_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1154,9 +1154,9 @@
 - [2020-09-30-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
 - [2020-09-30-有赞-DB-连接池性能优化](https://toutiao.io/k/x3uxu9s) ![](assets/new.png)  
 - [2020-09-30-在-Kubernetes-集群中-gRPC-的负载均衡](https://toutiao.io/k/eaj15do) ![](assets/new.png)  
+- [2020-09-30-30-岁的程序员出路在哪里？](https://toutiao.io/k/0dcsosz) ![](assets/new.png)  
 - [2020-09-30-安利一个-Python-大数据分析神器](https://toutiao.io/k/qzexdcr) ![](assets/new.png)  
 - [2020-09-30-Flink-sink-schema-字段设计小技巧](https://toutiao.io/k/g50x15j) ![](assets/new.png)  
-- [2020-09-30-30-岁的程序员出路在哪里？](https://toutiao.io/k/0dcsosz) ![](assets/new.png)  
 - [2020-09-30-http.client-源码刨析](https://toutiao.io/k/j0qltc3) ![](assets/new.png)  
 - [2020-09-30-TypeScript-练习题](https://toutiao.io/k/coxpfcu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -4145,7 +4145,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4734,13 +4734,38 @@
         "date": "2020-09-30"
       },
       {
-        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
-        "link": "https://toutiao.io/k/23m4ly1",
+        "title": "[推荐] 研发效能杂谈",
+        "link": "https://toutiao.io/k/zacmqw3",
         "date": "2020-09-30"
       },
       {
-        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
-        "link": "https://toutiao.io/k/rd2k0cu",
+        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
+        "link": "https://toutiao.io/k/yabo548",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "[推荐] 20 张图搞懂 “分布式事务”",
+        "link": "https://toutiao.io/k/keefsst",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
+        "link": "https://toutiao.io/k/rbvgji4",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "[推荐] 辨析数仓、大数据、数据中台的实质（内附 21 张架构图）",
+        "link": "https://toutiao.io/k/x2h0z37",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
+        "link": "https://toutiao.io/k/h9nal21",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "[推荐] 如何设计一个牛逼的 API 接口",
+        "link": "https://toutiao.io/k/j1aredh",
         "date": "2020-09-30"
       },
       {
@@ -4749,13 +4774,8 @@
         "date": "2020-09-30"
       },
       {
-        "title": "[推荐] 研发效能杂谈",
-        "link": "https://toutiao.io/k/zacmqw3",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
-        "link": "https://toutiao.io/k/s2yudly",
+        "title": "[推荐] Spring Boot 启动原理",
+        "link": "https://toutiao.io/k/itvkvui",
         "date": "2020-09-30"
       },
       {
@@ -4769,43 +4789,23 @@
         "date": "2020-09-30"
       },
       {
-        "title": "[推荐] 20 张图搞懂 “分布式事务”",
-        "link": "https://toutiao.io/k/keefsst",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "[推荐] 如何设计一个牛逼的 API 接口",
-        "link": "https://toutiao.io/k/j1aredh",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "[推荐] 分布式事务解决方案常见误区与实用建议",
-        "link": "https://toutiao.io/k/h9nal21",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
-        "link": "https://toutiao.io/k/ur64xby",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "[推荐] Spring Boot 启动原理",
-        "link": "https://toutiao.io/k/itvkvui",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "[推荐] 广告系统架构解密",
-        "link": "https://toutiao.io/k/47r3fu1",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "[推荐] 记一次线上性能调优：火焰图是利器",
-        "link": "https://toutiao.io/k/rbvgji4",
+        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
+        "link": "https://toutiao.io/k/23m4ly1",
         "date": "2020-09-30"
       },
       {
         "title": "[推荐] 大写的服，看完这篇你还不懂 RocketMQ 算我输",
         "link": "https://toutiao.io/k/rhwgf1q",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
+        "link": "https://toutiao.io/k/s2yudly",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
+        "link": "https://toutiao.io/k/ur64xby",
         "date": "2020-09-30"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-30 05:24:07，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-30 05:32:27，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-09-30-关于-nuc-11-上市时间大家有啥准确信息吗？作为开发机来使用如何？](https://www.v2ex.com/t/711867) ![](assets/new.png)  
+- [2020-09-30-十一去长春玩，-2-天，求推荐必吃的餐馆](https://www.v2ex.com/t/711866) ![](assets/new.png)  
 - [2020-09-30-分享一款将-LeetCode-中-AC-的题目转化为-MarkDown-表格的插件](https://www.v2ex.com/t/711865) ![](assets/new.png)  
 - [2020-09-30-safari14-发热研究发现](https://www.v2ex.com/t/711864) ![](assets/new.png)  
 - [2020-09-30-base-杭州-阿里云数据库管控团队招-大量-Java-/-Python-高级工程师/技术专家/高级技术专家](https://www.v2ex.com/t/711863) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-30-十几年工作经验的老码农，连-git-都不会用。](https://www.v2ex.com/t/711847) ![](assets/new.png)  
 - [2020-09-30-virtual-box-在电脑更新到-macOS10.15.7-后不能正常运行任何虚拟机。各位有遇到类似情况吗？](https://www.v2ex.com/t/711845) ![](assets/new.png)  
 - [2020-09-30-engine-和-engien-有什么区别?](https://www.v2ex.com/t/711844) ![](assets/new.png)  
-- [2020-09-30-关于“MIT-6.006-Introduction-to-Algorithms---Lecture-2:-Models-of-Computation,-Document-Distance”的疑问](https://www.v2ex.com/t/711843) ![](assets/new.png)  
-- [2020-09-30-真-·-无良-·-黑心的自如又双来了](https://www.v2ex.com/t/711842) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,14 +1120,14 @@
 
 
 - [2020-09-30-秋天的第一份-IT-技术周刊-|-码农周刊第-320-期](https://toutiao.io/k/9ew44gv) ![](assets/new.png)  
-- [2020-09-30-缓存击穿导致-golang-组件死锁的问题分享](https://toutiao.io/k/f2baq90) ![](assets/new.png)  
+- [2020-09-30-缓存击穿导致-Golang-组件死锁的问题分享](https://toutiao.io/k/f2baq90) ![](assets/new.png)  
 - [2020-09-30-译-使用-Paging-3-实现分页加载](https://toutiao.io/k/xbgx43m) ![](assets/new.png)  
 - [2020-09-30-快速搭建-HTTP-静态服务的-10-种方法](https://toutiao.io/k/re4fx9c) ![](assets/new.png)  
 - [2020-09-30-如何从-0-到-1-搭建用户标签体系](https://toutiao.io/k/78gg94x) ![](assets/new.png)  
 - [2020-09-30-从提高-Elasticsearch-搜索体验说开去](https://toutiao.io/k/wdj0okk) ![](assets/new.png)  
 - [2020-09-30-初识-Linux-网络栈及常用优化方法](https://toutiao.io/k/xb2yc4g) ![](assets/new.png)  
-- [2020-09-30-收款神器！解读聚合收款码背后的原理](https://toutiao.io/k/prawxxn) ![](assets/new.png)  
 - [2020-09-30-30-岁的程序员出路在哪里？](https://toutiao.io/k/0dcsosz) ![](assets/new.png)  
+- [2020-09-30-收款神器！解读聚合收款码背后的原理](https://toutiao.io/k/prawxxn) ![](assets/new.png)  
 - [2020-09-30-记录一次生产环境中-Redis-内存增长异常排查全流程](https://toutiao.io/k/tqqqluo) ![](assets/new.png)  
 - [2020-09-30-Object-对象你真理解了吗？](https://toutiao.io/k/2thx9qn) ![](assets/new.png)  
 - [2020-09-30-Node-案发现场揭秘：文件句柄泄露导致进程假死](https://toutiao.io/k/hbnymyg) ![](assets/new.png)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-30 13:03:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 13:12:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -383,6 +383,7 @@
 - [【InfoQ】中间件业务在网易轻舟容器平台的性能调优实践](https://www.ershicimi.com/p/3ce8a4164f290e9423a8931c495bee71)
 - [【掘金前端】优化思考，我们是否需要axios，自己封装实现ajax，ts书写方式](https://juejin.im/post/6878140095901138951)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【技术头条】Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】译-使用-Paging-3-实现分页加载](https://toutiao.io/k/xbgx43m)
 - [【开发者头条】初识-Linux-网络栈及常用优化方法](https://toutiao.io/k/xb2yc4g)
 - [【开发者头条】有赞-DB-连接池性能优化](https://toutiao.io/k/x3uxu9s)
@@ -408,8 +409,13 @@
 - [【程序员成长指北】从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6)
 - [【奇舞周刊】摸金校尉聊浏览器渲染](https://www.ershicimi.com/p/9339cf52f601bafc74e228301225ac2c)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
+- [【互联网架构师】抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/ad5ba4bf1e6e0344f52baf557474017b)
+- [【互联网架构师】架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/4813363bd7395275267f50297dbd08d6)
 - [【InfoQ】英特尔与Science联袂推出“架构师成长计划”，顶级架构师的修炼手册｜-Q推荐](https://www.ershicimi.com/p/72ee0cab22df0112d581baeadd02816e)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【技术头条】一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】http.client-源码刨析](https://toutiao.io/k/j0qltc3)
 - [【开发者头条】推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu)
 - [【安全热点】保障医共体业务系统安全,绿盟科技在行动](https://sec.thief.one/article_content?a_id=ebb84f911f04699d65307ebe576949c2)
@@ -418,11 +424,6 @@
 - [【安全热点】PHP安全:数字摘要](https://sec.thief.one/article_content?a_id=7bf84950749be88129cd2c0fc6478d83)
 - [【安全热点】【安全圈】苹果服务器全球宕机:iCloud、Apple-Music-等服务中断](https://sec.thief.one/article_content?a_id=1d5f9c80afe9664f85cc6735b0fe3703)
 - [【安全热点】网络安全创业融资的“尤里卡时刻”](https://sec.thief.one/article_content?a_id=870456e5fa1d826e2412e9d1409d091c)
-- [【安全热点】国务院:不符合网络安全要求的政务信息系统未来将不给经费](https://sec.thief.one/article_content?a_id=36115bfd3ca0dcd0c33f510258206dd7)
-- [【安全热点】中国人民银行印发《金融数据安全数据安全分级指南》JR/T-0197—...](https://sec.thief.one/article_content?a_id=c93091dbc7365f087e9daa21d7d9f9f5)
-- [【安全热点】安全通告特制版​即将发布](https://sec.thief.one/article_content?a_id=ec0c957b78dd14c3caa047ee8e90e57e)
-- [【安全热点】绿盟科技成为中国互联网协会网络数据安全合规性评估服务工作组首批...](https://sec.thief.one/article_content?a_id=b6d0e79eab9636a13498bfeb2ee115e4)
-- [【安全热点】看一看,这几个安全必加的公众号你认得几个?](https://sec.thief.one/article_content?a_id=bc30c9f2441a1da523db17df31e092be)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -449,6 +450,9 @@
 - [【前端瓶子君】现在连前端工程师面试的算法题都这么难了么](https://www.ershicimi.com/p/127135631898d1cffd28ee7b4cad2181)
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
+- [【互联网架构师】老板说“把系统升级到https”，我用一个脚本实现了，而且永久免费！](https://www.ershicimi.com/p/ab6f20dc7b484f4ac0493dbc5864d84f)
+- [【互联网架构师】干货-|-978页BAT等大厂大数据、算法落地经验pdf下载！](https://www.ershicimi.com/p/8763f12e65d1c8027c86d8114b51bf6f)
+- [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】快速搭建-HTTP-静态服务的-10-种方法](https://toutiao.io/k/re4fx9c)
 - [【开发者头条】从提高-Elasticsearch-搜索体验说开去](https://toutiao.io/k/wdj0okk)
 - [【开发者头条】推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b)
@@ -470,6 +474,7 @@
 
 
 - [【前端大学】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/54e33fa9972d09466745caea15b0057e)
+- [【互联网架构师】干掉RESTful：GraphQL真香！](https://www.ershicimi.com/p/edd9f7448cd2ffcc470e598f57f231ae)
 - [【JavaScript】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)
 - [【开发者头条】在-Kubernetes-集群中-gRPC-的负载均衡](https://toutiao.io/k/eaj15do)
 - [......【查看更多】......](./details/tags/server.md)

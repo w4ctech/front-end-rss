@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-30 03:13:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 03:25:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,8 +42,6 @@
 - [2020-09-30-360-安全浏览器进行域名劫持](https://www.v2ex.com/t/711823) 
 - [2020-09-30-pc-上软件里点击后浏览器打开对应站点并自动登录。](https://www.v2ex.com/t/711820) 
 - [2020-09-30-有人注意过-Series-6-的全天候高度计吗](https://www.v2ex.com/t/711808) 
-- [2020-09-30-防火墙是如何区分数据我是请求返回的,-还是从服务器主动向我发送的?](https://www.v2ex.com/t/711786) 
-- [2020-09-30-Red-Hat-Sr-Software-Quality-Engineer---Edge/IOT](https://www.v2ex.com/t/711779) 
 - [2020-09-30-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-30-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-30-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

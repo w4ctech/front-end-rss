@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-30 03:35:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 03:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -133,5 +133,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-09-30-关于“MIT-6.006-Introduction-to-Algorithms---Lecture-2:-Models-of-Computation,-Document-Distance”的疑问](https://www.v2ex.com/t/711843) 
 - [2020-09-30-缓存击穿导致-golang-组件死锁的问题分享](https://toutiao.io/k/f2baq90) 
 - [2020-09-30-译-黑魔法：Go-有-GC-还能延长变量的生命周期？](https://toutiao.io/k/5k7vpa3) 
+- [2020-09-30-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

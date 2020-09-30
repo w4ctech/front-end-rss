@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-30 10:47:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 11:03:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,7 +28,14 @@
 - [2020-09-30-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-30-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-09-30-http.client-源码刨析](https://toutiao.io/k/j0qltc3) 
-- [2020-09-30-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) 
+- [2020-09-30-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) 
+- [2020-09-30-网络安全人必看!8天长假-8大锦囊为你解忧](https://sec.thief.one/article_content?a_id=a64ef553da66770fef67bb4698478e09) 
+- [2020-09-30-双因素认证如何保证你的帐户安全](https://sec.thief.one/article_content?a_id=d2d66539916ad6897c0069317c3c466b) 
+- [2020-09-30-PHP安全:数字摘要](https://sec.thief.one/article_content?a_id=7bf84950749be88129cd2c0fc6478d83) 
+- [2020-09-30-【安全圈】苹果服务器全球宕机:iCloud、Apple-Music-等服务中断](https://sec.thief.one/article_content?a_id=1d5f9c80afe9664f85cc6735b0fe3703) 
+- [2020-09-30-网络安全创业融资的“尤里卡时刻”](https://sec.thief.one/article_content?a_id=870456e5fa1d826e2412e9d1409d091c) 
+- [2020-09-30-国务院:不符合网络安全要求的政务信息系统未来将不给经费](https://sec.thief.one/article_content?a_id=36115bfd3ca0dcd0c33f510258206dd7) 
+- [2020-09-30-中国人民银行印发《金融数据安全数据安全分级指南》JR/T-0197—...](https://sec.thief.one/article_content?a_id=c93091dbc7365f087e9daa21d7d9f9f5) 
 - [2020-09-29-安全通告特制版​即将发布](https://sec.thief.one/article_content?a_id=ec0c957b78dd14c3caa047ee8e90e57e) 
 - [2020-09-29-绿盟科技成为中国互联网协会网络数据安全合规性评估服务工作组首批...](https://sec.thief.one/article_content?a_id=b6d0e79eab9636a13498bfeb2ee115e4) 
 - [2020-09-29-看一看,这几个安全必加的公众号你认得几个?](https://sec.thief.one/article_content?a_id=bc30c9f2441a1da523db17df31e092be) 
@@ -52,8 +59,3 @@
 - [2020-09-28-万物安全完成数千万战略融资](https://sec.thief.one/article_content?a_id=40e0999580ddff3ed22a009d35690217) 
 - [2020-09-28-每日安全动态推送09-28](https://sec.thief.one/article_content?a_id=0652aebe98047f0755ae9dd5045e0abb) 
 - [2020-09-28-调查:航旅业是网络安全的重灾区](https://sec.thief.one/article_content?a_id=b4d96fc58a65efe841bcb2b1d3977eb4) 
-- [2020-09-27-奇安信代码安全实验室协助RedHat修复漏洞-获官方致谢](https://sec.thief.one/article_content?a_id=34fb16cafb757a18ffecbe71efc385ce) 
-- [2020-09-27-绿盟科技网络安全学院首期CISA认证培训班开授](https://sec.thief.one/article_content?a_id=bc1a64d60bf2c4fdddce7bad00501564) 
-- [2020-09-27-移动安全五|NDK开发教程_普通和静态字段调用](https://sec.thief.one/article_content?a_id=fbd44ad984b5883f0fc669d040944905) 
-- [2020-09-27-推荐几个优质原创的安全公众号](https://sec.thief.one/article_content?a_id=5aabaa73697c907010b4fff50ac6a5c8) 
-- [2020-09-27-CNCERT:上半年我国约7.4万个网站遭篡改,网站安全防护须高度重视](https://sec.thief.one/article_content?a_id=db065a6ba44a2f5efcade07f438a882f) 

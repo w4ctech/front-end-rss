@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-30 13:34:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 13:47:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -21,4 +21,3 @@
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2020-09-29-你的浏览器支持webp吗](https://juejin.im/post/6878101688159305736) 
-- [2020-09-30-用-Unity3d-来做跨平台开发是不是很好？](https://www.v2ex.com/t/711988) 

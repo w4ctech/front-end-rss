@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-30 18:37:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 18:47:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-19-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2020-09-09-腾讯音乐移动端页面通用性能优化实践](https://www.ershicimi.com/p/951c47621be39d733c40f8453c62418b) 
 - [2020-08-09-编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab) 
 - [2020-09-28-腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/fd031a7c201d4d2d94d0750bedf5df48) 
@@ -26,3 +25,4 @@
 - [2020-09-30-译-使用-Paging-3-实现分页加载](https://toutiao.io/k/xbgx43m) 
 - [2020-09-30-有赞-DB-连接池性能优化](https://toutiao.io/k/x3uxu9s) 
 - [2020-09-30-初识-Linux-网络栈及常用优化方法](https://toutiao.io/k/xb2yc4g) 
+- [2020-09-30-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) 

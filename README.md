@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-30 03:04:02，:rocket: 更新条数: +3454， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-30 03:13:01，:rocket: 更新条数: +3680， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-09-30-​墨西哥新冠肺炎确诊病例累计达738163例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticYgxjVux25VOTZyiWEY3200930&isfromapp=1) ![](assets/new.png)  
 - [2020-09-30-秘鲁新冠肺炎确诊病例累计逾81万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOOi1fVQlNbYvztYp7Y8C200930&isfromapp=1) ![](assets/new.png)  
 - [2020-09-29-德国新冠峰会推出新防疫限制措施-避免第二次全国性封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3VYiU8XcshABjhNiu0bF200930&isfromapp=1) ![](assets/new.png)  
 - [2020-09-29-世卫组织：全球新冠肺炎确诊病例新增222748例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticBAFwiVWmAU8t8ZT5Njz200930&isfromapp=1) ![](assets/new.png)  
 - [2020-09-29-印度副总统奈杜确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5A3MIsMHszlzBug8FyQ200930&isfromapp=1) ![](assets/new.png)  
-- [2020-09-29-英国新冠病毒感染病例创历史新高，新增-7143-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGvq49rJuJcKy97pyYfnm200929&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,10 @@
 </summary>
 
 
+- [2020-09-30-有啥技术可以模拟点击其他软件的按钮或者单选框？](https://www.v2ex.com/t/711828) ![](assets/new.png)  
+- [2020-09-30-用黑苹果电脑来测试-macOS-的外设配件好使吗？](https://www.v2ex.com/t/711826) ![](assets/new.png)  
+- [2020-09-30-Reeder、Fiery-Feeds-下架国区-App-Store](https://www.v2ex.com/t/711825) ![](assets/new.png)  
+- [2020-09-30-首场辩论，直播看下来，我要是英语足够好认知够丰富该多好。](https://www.v2ex.com/t/711824) ![](assets/new.png)  
 - [2020-09-30-360-安全浏览器进行域名劫持](https://www.v2ex.com/t/711823) ![](assets/new.png)  
 - [2020-09-30-nice-系列---niceadmin-vue-后台管理系统](https://www.v2ex.com/t/711822) ![](assets/new.png)  
 - [2020-09-30-最近用赛娜辅助快乐上分，有克制赛娜的英雄-or-组合吗](https://www.v2ex.com/t/711821) ![](assets/new.png)  
@@ -1073,10 +1097,6 @@
 - [2020-09-30-有人注意过-Series-6-的全天候高度计吗](https://www.v2ex.com/t/711808) ![](assets/new.png)  
 - [2020-09-30-不懂就问：个人独资企业可以做论坛类网站、APP-吗？](https://www.v2ex.com/t/711807) ![](assets/new.png)  
 - [2020-09-30-微软的-App-Center-被墙了？](https://www.v2ex.com/t/711806) ![](assets/new.png)  
-- [2020-09-30-啥也不迫，也不知道需要啥，大家把想出的东西留个言，看到合适的我就收。](https://www.v2ex.com/t/711804) ![](assets/new.png)  
-- [2020-09-30-搭建一个属于自己的在线-IDE](https://www.v2ex.com/t/711803) ![](assets/new.png)  
-- [2020-09-30-国庆留在深圳，深圳那些地方好玩的，求推荐！](https://www.v2ex.com/t/711802) ![](assets/new.png)  
-- [2020-09-30-统计一下-V-友的手机品牌和版本](https://www.v2ex.com/t/711801) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,8 +1154,8 @@
 - [2020-09-30-有赞-DB-连接池性能优化](https://toutiao.io/k/x3uxu9s) ![](assets/new.png)  
 - [2020-09-30-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
 - [2020-09-30-在-Kubernetes-集群中-gRPC-的负载均衡](https://toutiao.io/k/eaj15do) ![](assets/new.png)  
-- [2020-09-30-Flink-sink-schema-字段设计小技巧](https://toutiao.io/k/g50x15j) ![](assets/new.png)  
 - [2020-09-30-安利一个-Python-大数据分析神器](https://toutiao.io/k/qzexdcr) ![](assets/new.png)  
+- [2020-09-30-Flink-sink-schema-字段设计小技巧](https://toutiao.io/k/g50x15j) ![](assets/new.png)  
 - [2020-09-30-30-岁的程序员出路在哪里？](https://toutiao.io/k/0dcsosz) ![](assets/new.png)  
 - [2020-09-30-http.client-源码刨析](https://toutiao.io/k/j0qltc3) ![](assets/new.png)  
 - [2020-09-30-TypeScript-练习题](https://toutiao.io/k/coxpfcu) ![](assets/new.png)  

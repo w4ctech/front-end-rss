@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-09-30 03:04:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 03:13:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-30-有啥技术可以模拟点击其他软件的按钮或者单选框？](https://www.v2ex.com/t/711828) 
+- [2020-09-30-用黑苹果电脑来测试-macOS-的外设配件好使吗？](https://www.v2ex.com/t/711826) 
+- [2020-09-30-Reeder、Fiery-Feeds-下架国区-App-Store](https://www.v2ex.com/t/711825) 
+- [2020-09-30-首场辩论，直播看下来，我要是英语足够好认知够丰富该多好。](https://www.v2ex.com/t/711824) 
 - [2020-09-30-360-安全浏览器进行域名劫持](https://www.v2ex.com/t/711823) 
 - [2020-09-30-nice-系列---niceadmin-vue-后台管理系统](https://www.v2ex.com/t/711822) 
 - [2020-09-30-最近用赛娜辅助快乐上分，有克制赛娜的英雄-or-组合吗](https://www.v2ex.com/t/711821) 
@@ -44,7 +48,3 @@
 - [2020-09-30-这个网站秒开“0”跳转感是什么技术开发的？](https://www.v2ex.com/t/711781) 
 - [2020-09-30-大型吃瓜现场，这届总统辩论不是一般的热闹，有空一定要看看。](https://www.v2ex.com/t/711780) 
 - [2020-09-30-Red-Hat-Sr-Software-Quality-Engineer---Edge/IOT](https://www.v2ex.com/t/711779) 
-- [2020-09-30-下雨天，路面稍有积水，应该如何反击-从你旁边加速飞奔过去的轿车？](https://www.v2ex.com/t/711778) 
-- [2020-09-30-有没有熟悉-VP9-编码的同志，想要定制优化，希望合作](https://www.v2ex.com/t/711777) 
-- [2020-09-30-讯飞-A1-录音笔塞口袋里能录清楚吗？](https://www.v2ex.com/t/711776) 
-- [2020-09-30-Firefox-81-后的多行-tab-的-css](https://www.v2ex.com/t/711775) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-09-30 05:03:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 05:12:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-09-30-阿里云数据库管控团队招-大量-Java-/-Python-高级工程师/技术专家/高级技术专家](https://www.v2ex.com/t/711863) 
 - [2020-09-30-Jetbrains-怎么样](https://www.v2ex.com/t/711861) 
 - [2020-09-30-中国大陆的-apple-id-必须使用中国的电话号码？](https://www.v2ex.com/t/711860) 
 - [2020-09-30-记一次投诉去哪儿网的经历](https://www.v2ex.com/t/711859) 
@@ -45,5 +46,3 @@
 - [2020-09-30-性感程序员，在线摸鱼](https://www.v2ex.com/t/711816) 
 - [2020-09-30-Parallels-Desktop-16-官网-75-折哟](https://www.v2ex.com/t/711815) 
 - [2020-09-30-找一个-IOS+Android（或者-Flutter）+-运营一起做一款社交类-APP](https://www.v2ex.com/t/711814) 
-- [2020-09-30-微服务划分后每个服务都需要冗余字段是正常的吗？](https://www.v2ex.com/t/711813) 
-- [2020-09-30-谷歌-pixel-5-的天梯分比-pixel-4-还要低一些](https://www.v2ex.com/t/711812) 

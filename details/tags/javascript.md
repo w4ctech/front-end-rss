@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-30 00:34:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 01:04:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -137,3 +137,4 @@
 - [2020-09-29-laravel-auth-组件-$request->expectsJson一直返回-false](https://www.v2ex.com/t/711711) 
 - [2020-09-30-缓存击穿导致-golang-组件死锁的问题分享](https://toutiao.io/k/f2baq90) 
 - [2020-09-30-译-黑魔法：Go-有-GC-还能延长变量的生命周期？](https://toutiao.io/k/5k7vpa3) 
+- [2020-09-30-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) 

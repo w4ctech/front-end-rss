@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-30 00:34:41，:rocket: 更新条数: +3664， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-30 01:04:19，:rocket: 更新条数: +3669， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-09-29-全球百万新冠死亡病例分布何处-世卫警示死亡数恐翻倍](http://m.international.caixin.com/m/2020-09-30/101611310.html) ![](assets/new.png)  
 - [2020-09-28-最新疫情：全国新冠累计确诊85384例-新增境外输入12例](http://m.china.caixin.com/m/2020-09-29/101611174.html) ![](assets/new.png)  
 - [2020-09-28-香港本地新增病例再次归零-内地港人回港有望豁免隔离](https://m.caixin.com/m/2020-09-29/101611214.html) ![](assets/new.png)  
 - [2020-09-28-最新海外疫情：新冠感染近3323万-累计死亡超99.6万](http://m.international.caixin.com/m/2020-09-29/101611175.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-09-23-【境内疫情观察】全国新增7例境外输入病例（9月23日）](http://m.database.caixin.com/m/2020-09-24/101609038.html) ![](assets/new.png)  
 - [2020-09-23-大流行手记|9月23日：全球累计死亡近百万人-美国疫情现抬头趋势](https://m.caixin.com/m/2020-09-24/101608948.html) ![](assets/new.png)  
 - [2020-09-23-美国疫情反弹22州病例持续上升-仅半数美国人愿打疫苗](http://m.international.caixin.com/m/2020-09-24/101609295.html) ![](assets/new.png)  
-- [2020-09-21-香港新冠超级传播事件启示：19%病例或成防疫关键](https://m.caixin.com/m/2020-09-22/101608361.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -715,9 +715,9 @@
 </summary>
 
 
+- [2020-09-30-科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html) ![](assets/new.png)  
 - [2020-09-25-科技爱好者周刊（第-126-期）：内卷化是什么？](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html) ![](assets/new.png)  
 - [2020-09-18-科技爱好者周刊（第-125-期）：数字人民币要取代谁](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html) ![](assets/new.png)  
-- [2020-09-15-轻松学会-React-钩子：以-useEffect-为例](http://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,17 @@
 </summary>
 
 
+- [2020-09-30-最近有在酷安上架-app-的-v-友么？](https://www.v2ex.com/t/711753) ![](assets/new.png)  
+- [2020-09-30-Google-面试题：带最小值操作的栈](https://www.v2ex.com/t/711752) ![](assets/new.png)  
+- [2020-09-30-pyppeteer-异常导致程序无法退出](https://www.v2ex.com/t/711750) ![](assets/new.png)  
+- [2020-09-30-桂林去阳朔有什么交通方式推荐？](https://www.v2ex.com/t/711749) ![](assets/new.png)  
+- [2020-09-30-杂牌固态硬盘坏了,数据还有救吗](https://www.v2ex.com/t/711748) ![](assets/new.png)  
+- [2020-09-30-不懂就问，浙江联通-4G-信号如何？选什么套餐？](https://www.v2ex.com/t/711747) ![](assets/new.png)  
+- [2020-09-30-分布式系统共识算法：理解-Paxos（含伪代码）](https://www.v2ex.com/t/711746) ![](assets/new.png)  
+- [2020-09-30-马上就要放假了，今天准备怎么过，大家来吹吹水啊~](https://www.v2ex.com/t/711745) ![](assets/new.png)  
+- [2020-09-30-是-iCloud-服务器崩了嘛？早上起来一直连不上，无法登陆-apple-music-和-App-Store](https://www.v2ex.com/t/711744) ![](assets/new.png)  
+- [2020-09-30-求推荐一款键盘-for-Mac](https://www.v2ex.com/t/711743) ![](assets/new.png)  
+- [2020-09-30-国内哪家数据服务商，提供类似-snowflake-的业务？](https://www.v2ex.com/t/711742) ![](assets/new.png)  
 - [2020-09-30-各位平时喝的口粮茶或者咖啡或者饮料是哪种？](https://www.v2ex.com/t/711741) ![](assets/new.png)  
 - [2020-09-30-不要更新-14.2-beta2](https://www.v2ex.com/t/711739) ![](assets/new.png)  
 - [2020-09-29-在线等-macOS-Big-Sur-beta-9-BUG-报告](https://www.v2ex.com/t/711738) ![](assets/new.png)  
@@ -1086,17 +1097,6 @@
 - [2020-09-29-想搞一个新坑-后端选型无比纠结](https://www.v2ex.com/t/711734) ![](assets/new.png)  
 - [2020-09-29-2020-0930-对于-ArtiPub-进行维护](https://www.v2ex.com/t/711733) ![](assets/new.png)  
 - [2020-09-29-项目废标了，我会被辞退吗](https://www.v2ex.com/t/711732) ![](assets/new.png)  
-- [2020-09-29-20200930-午夜俱乐部](https://www.v2ex.com/t/711731) ![](assets/new.png)  
-- [2020-09-29-国内安卓如何使用-Google-暴露通知](https://www.v2ex.com/t/711730) ![](assets/new.png)  
-- [2020-09-29-Japan-0-1](https://www.v2ex.com/t/711729) ![](assets/new.png)  
-- [2020-09-29-有人在-big-sur-里用-turbo-boots-吗](https://www.v2ex.com/t/711728) ![](assets/new.png)  
-- [2020-09-29-懂-thinkphp-程序-开发的来，最好是全栈技术，懂-APP-之类优先-加-V-型-jxbf888888](https://www.v2ex.com/t/711727) ![](assets/new.png)  
-- [2020-09-29-仍在用-High-Sierra-的我又少了一个更新系统的理由](https://www.v2ex.com/t/711724) ![](assets/new.png)  
-- [2020-09-29-求本站编辑器实现原理](https://www.v2ex.com/t/711723) ![](assets/new.png)  
-- [2020-09-29-讨论一下自由职业的金钱观（简单来说：该怎么向客户要钱？）](https://www.v2ex.com/t/711721) ![](assets/new.png)  
-- [2020-09-29-大家好，准备入-Apple-全家桶了，求讲讲-Apple-Watch-的体验](https://www.v2ex.com/t/711720) ![](assets/new.png)  
-- [2020-09-29-有什么适合边写代码边听的音视频节目？](https://www.v2ex.com/t/711719) ![](assets/new.png)  
-- [2020-09-29-熟練了-C，被-C++把世界觀搞崩壞了](https://www.v2ex.com/t/711717) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,25 +1140,25 @@
 
 
 - [2020-09-30-秋天的第一份-IT-技术周刊-|-码农周刊第-320-期](https://toutiao.io/k/9ew44gv) ![](assets/new.png)  
+- [2020-09-30-缓存击穿导致-golang-组件死锁的问题分享](https://toutiao.io/k/f2baq90) ![](assets/new.png)  
 - [2020-09-30-译-使用-Paging-3-实现分页加载](https://toutiao.io/k/xbgx43m) ![](assets/new.png)  
 - [2020-09-30-初识-Linux-网络栈及常用优化方法](https://toutiao.io/k/xb2yc4g) ![](assets/new.png)  
-- [2020-09-30-缓存击穿导致-golang-组件死锁的问题分享](https://toutiao.io/k/f2baq90) ![](assets/new.png)  
 - [2020-09-30-从提高-Elasticsearch-搜索体验说开去](https://toutiao.io/k/wdj0okk) ![](assets/new.png)  
 - [2020-09-30-Object-对象你真理解了吗？](https://toutiao.io/k/2thx9qn) ![](assets/new.png)  
 - [2020-09-30-Node-案发现场揭秘：文件句柄泄露导致进程假死](https://toutiao.io/k/hbnymyg) ![](assets/new.png)  
+- [2020-09-30-如何从-0-到-1-搭建用户标签体系](https://toutiao.io/k/78gg94x) ![](assets/new.png)  
+- [2020-09-30-记录一次生产环境中-Redis-内存增长异常排查全流程](https://toutiao.io/k/tqqqluo) ![](assets/new.png)  
+- [2020-09-30-收款神器！解读聚合收款码背后的原理](https://toutiao.io/k/prawxxn) ![](assets/new.png)  
 - [2020-09-30-译-黑魔法：Go-有-GC-还能延长变量的生命周期？](https://toutiao.io/k/5k7vpa3) ![](assets/new.png)  
-- [2020-09-30-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) ![](assets/new.png)  
-- [2020-09-30-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
-- [2020-09-30-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-30-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-30-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
 - [2020-09-30-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
-- [2020-09-30-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
 - [2020-09-30-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-09-30-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
-- [2020-09-30-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
-- [2020-09-30-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
+- [2020-09-30-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-09-30-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
 - [2020-09-30-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
-- [2020-09-30-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
 - [2020-09-30-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
+- [2020-09-30-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

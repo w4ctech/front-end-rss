@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-30 00:08:26，:rocket: 更新条数: +3658， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-30 00:34:41，:rocket: 更新条数: +3664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-09-30-各位平时喝的口粮茶或者咖啡或者饮料是哪种？](https://www.v2ex.com/t/711741) ![](assets/new.png)  
 - [2020-09-30-不要更新-14.2-beta2](https://www.v2ex.com/t/711739) ![](assets/new.png)  
 - [2020-09-29-在线等-macOS-Big-Sur-beta-9-BUG-报告](https://www.v2ex.com/t/711738) ![](assets/new.png)  
 - [2020-09-29-今天走路上发现有一些施工地在建地基，不知道他们要建什么。有没有什么方法可以知道？](https://www.v2ex.com/t/711737) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-09-29-大家好，准备入-Apple-全家桶了，求讲讲-Apple-Watch-的体验](https://www.v2ex.com/t/711720) ![](assets/new.png)  
 - [2020-09-29-有什么适合边写代码边听的音视频节目？](https://www.v2ex.com/t/711719) ![](assets/new.png)  
 - [2020-09-29-熟練了-C，被-C++把世界觀搞崩壞了](https://www.v2ex.com/t/711717) ![](assets/new.png)  
-- [2020-09-29-我觉得-vue-并不适合做大项目。大佬们怎么看呢。我觉得-event-驱动性能还是比较好的。不觉得-vue-很有优势。。](https://www.v2ex.com/t/711716) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,21 +1140,25 @@
 
 
 - [2020-09-30-秋天的第一份-IT-技术周刊-|-码农周刊第-320-期](https://toutiao.io/k/9ew44gv) ![](assets/new.png)  
-- [2020-09-30-推荐-记一次线上性能调优：火焰图是利器](https://toutiao.io/k/rbvgji4) ![](assets/new.png)  
-- [2020-09-30-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-09-30-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
-- [2020-09-30-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
-- [2020-09-30-推荐-谈谈-MySQL-的-JSON-数据类型](https://toutiao.io/k/x25pdur) ![](assets/new.png)  
+- [2020-09-30-译-使用-Paging-3-实现分页加载](https://toutiao.io/k/xbgx43m) ![](assets/new.png)  
+- [2020-09-30-初识-Linux-网络栈及常用优化方法](https://toutiao.io/k/xb2yc4g) ![](assets/new.png)  
+- [2020-09-30-缓存击穿导致-golang-组件死锁的问题分享](https://toutiao.io/k/f2baq90) ![](assets/new.png)  
+- [2020-09-30-从提高-Elasticsearch-搜索体验说开去](https://toutiao.io/k/wdj0okk) ![](assets/new.png)  
+- [2020-09-30-Object-对象你真理解了吗？](https://toutiao.io/k/2thx9qn) ![](assets/new.png)  
+- [2020-09-30-Node-案发现场揭秘：文件句柄泄露导致进程假死](https://toutiao.io/k/hbnymyg) ![](assets/new.png)  
+- [2020-09-30-译-黑魔法：Go-有-GC-还能延长变量的生命周期？](https://toutiao.io/k/5k7vpa3) ![](assets/new.png)  
 - [2020-09-30-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) ![](assets/new.png)  
-- [2020-09-30-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
-- [2020-09-30-推荐-面试：为了进阿里，死磕了-ConcurrentHashMap-源码和面试题（一）](https://toutiao.io/k/pcsh3lu) ![](assets/new.png)  
-- [2020-09-30-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
-- [2020-09-30-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
-- [2020-09-30-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
 - [2020-09-30-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
-- [2020-09-30-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
-- [2020-09-30-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-09-30-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-09-30-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
+- [2020-09-30-推荐-同城双活与异地多活架构分析](https://toutiao.io/k/e1eh64z) ![](assets/new.png)  
+- [2020-09-30-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-09-30-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
+- [2020-09-30-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
 - [2020-09-30-推荐-大写的服，看完这篇你还不懂-RocketMQ-算我输](https://toutiao.io/k/rhwgf1q) ![](assets/new.png)  
+- [2020-09-30-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
+- [2020-09-30-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-09-30-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

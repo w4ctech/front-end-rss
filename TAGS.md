@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-30 06:14:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 06:28:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -380,9 +380,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】​墨西哥新冠肺炎确诊病例累计达738163例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticYgxjVux25VOTZyiWEY3200930&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】福建29日新增境外输入新冠肺炎确诊病例5例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis7q2bYnw0PKPO60Na75I200930&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】秘鲁新冠肺炎确诊病例累计逾81万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOOi1fVQlNbYvztYp7Y8C200930&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -397,8 +394,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】上海9月29日新增境外输入2例-治愈出院3例](http://wsjkw.sh.gov.cn/xwfb/20200930/b346836470a449359e6999ff7244f8ce.html)
-- [【全国新型肺炎疫情实时动态(丁香园)】德国新冠峰会推出新防疫限制措施-避免第二次全国性封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3VYiU8XcshABjhNiu0bF200930&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-126-期）：内卷化是什么？](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)
@@ -417,6 +412,8 @@
 - [【安全热点】【更新】IBM-WebSphere-Application-Server-XXE-漏洞CVE-2020-4643](https://sec.thief.one/article_content?a_id=9f6e0824ac52b728b9797ad9287bdfa0)
 - [【安全热点】公开课丨这些二维码“有毒”,超过80%的人都中过招!](https://sec.thief.one/article_content?a_id=e4ef584707ac4f54e7f2e6c6519131f8)
 - [【安全热点】BanID:zxj397298976【发布软件捆绑Cobalt-Strike远控木马】](https://sec.thief.one/article_content?a_id=1b6bcb00bd8a0a174ec15a092f9bf650)
+- [【安全热点】通过Metasploit-Loader绕过杀软](https://sec.thief.one/article_content?a_id=9d888703b0f8716bf3a9713d3a7fabd0)
+- [【安全热点】CNNIC发布第46次《中国互联网络发展状况统计报告》](https://sec.thief.one/article_content?a_id=31f10b86d63b0e9da702ba829210b3af)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,41 +1,15 @@
 [
   {
-    "rss": "https://rss.shab.fun/coronavirus/caixin",
+    "rss": "https://rss.itggg.cn/coronavirus/caixin",
     "title": "武汉肺炎防疫全纪录(财新网)",
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/coronavirus/dxy",
+    "rss": "https://rss.shab.fun/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "上海9月29日新增境外输入2例  治愈出院3例",
-        "link": "http://wsjkw.sh.gov.cn/xwfb/20200930/b346836470a449359e6999ff7244f8ce.html",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "​墨西哥新冠肺炎确诊病例累计达738163例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticYgxjVux25VOTZyiWEY3200930&isfromapp=1",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "福建29日新增境外输入新冠肺炎确诊病例5例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis7q2bYnw0PKPO60Na75I200930&isfromapp=1",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "秘鲁新冠肺炎确诊病例累计逾81万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOOi1fVQlNbYvztYp7Y8C200930&isfromapp=1",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "德国新冠峰会推出新防疫限制措施 避免第二次全国性封锁",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3VYiU8XcshABjhNiu0bF200930&isfromapp=1",
-        "date": "2020-09-29"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -62,7 +36,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/5760",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
     "items": []
@@ -98,19 +72,19 @@
     "link": "https://www.ershicimi.com/a/892"
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/895",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/895",
     "title": "前端外刊评论",
     "items": [],
     "link": "https://www.ershicimi.com/a/895"
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/154",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/154",
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/9457",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/9457",
     "title": "前端迷",
     "link": "https://www.ershicimi.com/a/9457",
     "items": []
@@ -134,19 +108,19 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10641",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10641",
     "title": "前端瓶子君",
     "items": [],
     "link": "https://www.ershicimi.com/a/10641"
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10108",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10108",
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10545",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10545",
     "title": "Nodejs技术栈",
     "link": "https://www.ershicimi.com/a/10545",
     "items": []
@@ -306,13 +280,13 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10548",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10548",
     "title": "前端e进阶",
     "link": "https://www.ershicimi.com/a/10548",
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/6304",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/6304",
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": []
@@ -342,13 +316,13 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10647",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10647",
     "title": "编程之上",
     "link": "https://www.ershicimi.com/a/10647",
     "items": []
@@ -360,7 +334,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": []

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-30 15:47:12，:rocket: 更新条数: +763， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-30 15:49:09，:rocket: 更新条数: +3454， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-09-29-最新疫情：全国新冠累计确诊85403例-新增境外输入19例](https://m.caixin.com/m/2020-09-30/101611737.html) ![](assets/new.png)  
+- [2020-09-29-中国5波新冠疫情基因序列各不同-高福称今冬最大挑战是合并感染](https://m.caixin.com/m/2020-09-30/101611645.html) ![](assets/new.png)  
+- [2020-09-29-全球百万新冠死亡病例分布何处-世卫警示死亡数恐翻倍](http://m.international.caixin.com/m/2020-09-30/101611310.html) ![](assets/new.png)  
+- [2020-09-29-最新海外疫情：新冠感染超3351万-累计死亡超100万](http://m.international.caixin.com/m/2020-09-30/101611743.html) ![](assets/new.png)  
+- [2020-09-29-【境内疫情观察】全国新增19例境外输入病例（9月29日）](http://m.database.caixin.com/m/2020-09-30/101611537.html) ![](assets/new.png)  
+- [2020-09-29-大流行手记|9月29日：新冠死亡病例破百万-世卫疫苗计划还缺350亿美元](https://m.caixin.com/m/2020-09-30/101611388.html) ![](assets/new.png)  
+- [2020-09-28-香港本地新增病例再次归零-内地港人回港有望豁免隔离](https://m.caixin.com/m/2020-09-29/101611214.html) ![](assets/new.png)  
+- [2020-09-28-【境内疫情观察】全国新增12例境外输入病例（9月28日）](http://m.database.caixin.com/m/2020-09-29/101610935.html) ![](assets/new.png)  
+- [2020-09-28-大流行手记|9月28日：印度医用氧气短缺-G20峰会将线上召开](https://m.caixin.com/m/2020-09-29/101610758.html) ![](assets/new.png)  
+- [2020-09-28-全球新冠大流行仍在高峰，疫情暴发后第一个秋冬季如何防控？](https://m.caixin.com/m/2020-09-29/101611219.html) ![](assets/new.png)  
+- [2020-09-28-【图集】英国约40所大学出现疫情-数千名学生宿舍隔离](http://m.photos.caixin.com/m/2020-09-29/101611037.html) ![](assets/new.png)  
+- [2020-09-27-【境内疫情观察】全国新增21例境外输入病例（9月27日）](http://m.database.caixin.com/m/2020-09-28/101610505.html) ![](assets/new.png)  
+- [2020-09-27-大流行手记|9月27日：莫迪力撑印度疫苗-英国23所高校现疫情](https://m.caixin.com/m/2020-09-28/101610347.html) ![](assets/new.png)  
+- [2020-09-26-【境内疫情观察】全国新增14例境外输入病例（9月26日）](http://m.database.caixin.com/m/2020-09-27/101610202.html) ![](assets/new.png)  
+- [2020-09-26-大流行手记|9月26日：WHO预计全球新冠病亡人数或超200万-俄罗斯疫情反弹](https://m.caixin.com/m/2020-09-27/101610108.html) ![](assets/new.png)  
+- [2020-09-25-【境内疫情观察】全国新增15例境外输入病例（9月25日）](http://m.database.caixin.com/m/2020-09-26/101609993.html) ![](assets/new.png)  
+- [2020-09-25-大流行手记|9月25日：特朗普强推新冠疫苗上市引争议-部分国家流感疫苗不足](https://m.caixin.com/m/2020-09-26/101609872.html) ![](assets/new.png)  
+- [2020-09-24-青岛2名装卸工人感染新冠肺炎-属无症状感染者](http://m.china.caixin.com/m/2020-09-25/101609353.html) ![](assets/new.png)  
+- [2020-09-24-【境内疫情观察】青岛新增2例本土无症状感染者（9月24日）](http://m.database.caixin.com/m/2020-09-25/101609513.html) ![](assets/new.png)  
+- [2020-09-24-大流行手记|9月24日：英国多所高校现新冠疫情-强生疫苗启动三期临床试验](https://m.caixin.com/m/2020-09-25/101609385.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -834,6 +854,26 @@
 </summary>
 
 
+- [2020-09-29-还不会回答Spring-Boot和Spring-MVC的关系？大厂Java高级面试官告诉你答案！](https://www.ershicimi.com/p/4efd122c679009700ede88d4220de926) ![](assets/new.png)  
+- [2020-09-29-老板说“把系统升级到https”，我用一个脚本实现了，而且永久免费！](https://www.ershicimi.com/p/ab6f20dc7b484f4ac0493dbc5864d84f) ![](assets/new.png)  
+- [2020-09-29-MySQL-事务的实现原理，写得太好了！](https://www.ershicimi.com/p/aaf2c721f1b650aa2ca1447c5795cc3f) ![](assets/new.png)  
+- [2020-09-28-三天两夜肝完这篇万字长文，终于拿下了-TCP/IP](https://www.ershicimi.com/p/14a094d73da6a384018d9f187dedf7a0) ![](assets/new.png)  
+- [2020-09-28-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/ad5ba4bf1e6e0344f52baf557474017b) ![](assets/new.png)  
+- [2020-09-28-Spring-Boot-如何使用拦截器、过滤器、监听器？](https://www.ershicimi.com/p/895fe8eed817fa84432d7db1cf0b5a6e) ![](assets/new.png)  
+- [2020-09-27-为什么在做微服务设计的时候需要DDD？](https://www.ershicimi.com/p/fa6825aa74840a679176543f1007af40) ![](assets/new.png)  
+- [2020-09-27-昨天还在for循环里写加号拼接字符串的那个同事，今天已经不在了](https://www.ershicimi.com/p/5d37b678d5e98a34ae38159c43e24af1) ![](assets/new.png)  
+- [2020-09-27-12个非常适合做外包项目的开源后台管理系统](https://www.ershicimi.com/p/47529d29e24eaf27f06e83e1f5615004) ![](assets/new.png)  
+- [2020-09-26-实战：上亿数据如何秒查](https://www.ershicimi.com/p/2ccf8fe38009582d9a407523040ef6ab) ![](assets/new.png)  
+- [2020-09-26-干货-|-978页BAT等大厂大数据、算法落地经验pdf下载！](https://www.ershicimi.com/p/8763f12e65d1c8027c86d8114b51bf6f) ![](assets/new.png)  
+- [2020-09-26-CTO-写的代码，真是绝了](https://www.ershicimi.com/p/ad06ab744343a60ef9d400f91b7d9da0) ![](assets/new.png)  
+- [2020-09-25-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/4813363bd7395275267f50297dbd08d6) ![](assets/new.png)  
+- [2020-09-25-干掉RESTful：GraphQL真香！](https://www.ershicimi.com/p/edd9f7448cd2ffcc470e598f57f231ae) ![](assets/new.png)  
+- [2020-09-25-为什么谷歌要执行严格的代码编写规范？](https://www.ershicimi.com/p/941e7ebec55bd0bc521eef90d2f3098f) ![](assets/new.png)  
+- [2020-09-24-推荐：一款Java开源的Springboot-即时通讯-IM-聊天系统](https://www.ershicimi.com/p/72c4b5edfdea72c615542caf3b357270) ![](assets/new.png)  
+- [2020-09-24-后端服务慢成狗？试试这-7-招！](https://www.ershicimi.com/p/4b18d42730fe1056ca2d8cf559995f10) ![](assets/new.png)  
+- [2020-09-24-又一款程序员摸鱼神器来了？上班也可以在VSCode看股票-&-基金实时数据](https://www.ershicimi.com/p/64c920d3b1e6c00408633b71ab8bfe17) ![](assets/new.png)  
+- [2020-09-23-2020-年-9-月程序员工资统计，新出炉！](https://www.ershicimi.com/p/9ecd63993cb285df30bb5c294960f2a4) ![](assets/new.png)  
+- [2020-09-23-我脸都问绿了！二面竟然被问到MySQL时间类型datetime、bigint及timestamp的查](https://www.ershicimi.com/p/cdfc27d31ed35f7ad9db0d7375946a34) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

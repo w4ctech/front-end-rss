@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-01 06:49:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-01 07:04:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -7,7 +7,6 @@
 
 - [2020-10-01-国庆不回家，闲来无事，出一个-android10-禁用-SELINUX-的教程。](https://www.v2ex.com/t/712081) 
 - [2020-10-01-分享一个微服务交付工具https://www.giterver.cn/](https://www.v2ex.com/t/712080) 
-- [2020-10-01-苏宁-super-会员-10-月可领-5-张-20-无敌券](https://www.v2ex.com/t/712079) 
 - [2020-10-01-Go-的测试踩坑](https://www.v2ex.com/t/712078) 
 - [2020-10-01-Xcode-有办法用快捷键把光标向下移动多行吗？](https://www.v2ex.com/t/712076) 
 - [2020-10-01-怀疑自己智力有问题](https://www.v2ex.com/t/712075) 

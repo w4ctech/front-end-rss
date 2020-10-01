@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-01 00:36:02，:rocket: 更新条数: +1001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-01 01:06:36，:rocket: 更新条数: +1000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -550,6 +550,8 @@
 </summary>
 
 
+- [2020-09-29-当一个程序员飞速敲键盘时，他在干嘛？](https://www.ershicimi.com/p/9088ae54fbb2414d7061e89586dc79f7) ![](assets/new.png)  
+- [2020-09-29-7-个进大厂的必备的技能](https://www.ershicimi.com/p/950c1d0510ca68621a41eea368caa3d1) ![](assets/new.png)  
 - [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/ef8836a398c98f900987145946f1002a) ![](assets/new.png)  
 - [2020-09-27-一位用动画自学前端的小伙子！](https://www.ershicimi.com/p/a4781951b30e04f2f6ba3770045ce0b1) ![](assets/new.png)  
 - [2020-09-24-Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/f95d56e6e84c38133b2b0edaa76e00c1) ![](assets/new.png)  
@@ -568,8 +570,6 @@
 - [2020-09-13-【适合收藏】为了多点时间陪女朋友，我向BAT大佬跪求了这15条JS技巧](https://www.ershicimi.com/p/377a93f8f8487721b0841aef9d394740) ![](assets/new.png)  
 - [2020-09-12-推荐几个涨姿势的公众号](https://www.ershicimi.com/p/0b2316c694f5edcdc48d49bca57a6c5d) ![](assets/new.png)  
 - [2020-09-10-TypeScript高级类型备忘录（附示例）](https://www.ershicimi.com/p/b309cb48342fdcd112a1bd62674c8d90) ![](assets/new.png)  
-- [2020-09-10-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/e5142f7f4daf63bcaedc86a976e9312d) ![](assets/new.png)  
-- [2020-09-10-2020-年-9-月编程语言排行榜](https://www.ershicimi.com/p/c00e6398ea9834c304110424f5c461dd) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-10-01-国庆新人第一帖，刚刚找到的福利，免费电影票两张。。速撸](https://www.v2ex.com/t/712035) ![](assets/new.png)  
+- [2020-10-01-tg-有那一些无聊可以打发时间的群或者-channel-呢](https://www.v2ex.com/t/712034) ![](assets/new.png)  
 - [2020-10-01-Python-或-sage-有没有哪个函数可以求指定向量的模？进行点乘运算，叉乘运算。](https://www.v2ex.com/t/712031) ![](assets/new.png)  
 - [2020-10-01-UltraFine-4K-和-U2720Q-选择](https://www.v2ex.com/t/712030) ![](assets/new.png)  
 - [2020-10-01-中秋节快乐](https://www.v2ex.com/t/712029) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-09-30-Apple-Music-如何删除自定义的歌词](https://www.v2ex.com/t/712016) ![](assets/new.png)  
 - [2020-09-30-技术栈一把梭，真的好吗](https://www.v2ex.com/t/712015) ![](assets/new.png)  
 - [2020-09-30-假期组队刷题？](https://www.v2ex.com/t/712013) ![](assets/new.png)  
-- [2020-09-30-20201001-午夜俱乐部](https://www.v2ex.com/t/712012) ![](assets/new.png)  
-- [2020-09-30-不懂就问，-PDA-设备扫码设备，扫条形码-通过-web-方式怎么获取扫描的条形码](https://www.v2ex.com/t/712011) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,21 +1124,21 @@
 - [2020-10-01-OLAP-数仓入门：进阶篇](https://toutiao.io/k/okyzi9t) ![](assets/new.png)  
 - [2020-10-01-如何使用-ThinkJS-优雅的编写-RESTful-API](https://toutiao.io/k/41notx2) ![](assets/new.png)  
 - [2020-10-01-你的-GoLand-是不是过期了？试试这个版本](https://toutiao.io/k/4nsoxbh) ![](assets/new.png)  
-- [2020-10-01-刚刚，给学妹普及了登录的两大绝学](https://toutiao.io/k/6k2etkh) ![](assets/new.png)  
 - [2020-10-01-腾讯技术大咖推荐书单](https://toutiao.io/k/hpicuqe) ![](assets/new.png)  
+- [2020-10-01-刚刚，给学妹普及了登录的两大绝学](https://toutiao.io/k/6k2etkh) ![](assets/new.png)  
 - [2020-10-01-StreamNative-宣布开源-MoP](https://toutiao.io/k/0ckwvy2) ![](assets/new.png)  
-- [2020-10-01-复杂性应对之道：维度思维](https://toutiao.io/k/kuk0cyq) ![](assets/new.png)  
 - [2020-10-01-重新夺回对-/etc/resolv.conf-的控制权](https://toutiao.io/k/7dzrkp2) ![](assets/new.png)  
+- [2020-10-01-复杂性应对之道：维度思维](https://toutiao.io/k/kuk0cyq) ![](assets/new.png)  
 - [2020-10-01-Swift-环境及编译优化调研](https://toutiao.io/k/q8yxnnt) ![](assets/new.png)  
-- [2020-10-01-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
-- [2020-10-01-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
-- [2020-10-01-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
-- [2020-10-01-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
-- [2020-10-01-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-10-01-推荐-研发效能杂谈](https://toutiao.io/k/zacmqw3) ![](assets/new.png)  
+- [2020-10-01-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
+- [2020-10-01-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
 - [2020-10-01-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
-- [2020-10-01-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
-- [2020-10-01-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
-- [2020-10-01-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) ![](assets/new.png)  
+- [2020-10-01-推荐-广告系统架构解密](https://toutiao.io/k/47r3fu1) ![](assets/new.png)  
+- [2020-10-01-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
+- [2020-10-01-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-10-01-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
+- [2020-10-01-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

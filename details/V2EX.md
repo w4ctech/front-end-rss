@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-01 13:35:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-01 13:47:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-01-B-站-4K-HDR](https://www.v2ex.com/t/712128) 
+- [2020-10-01-感觉越来越脱离社交媒体和推荐系资讯了，有什么较有效的获取高信噪比信息的途径？](https://www.v2ex.com/t/712127) 
 - [2020-10-01-react-开发的一个-Chrome-浏览器插件-:😘Mediumx，主要是增强-Medium-的阅读体验](https://www.v2ex.com/t/712126) 
 - [2020-10-01-Terminal.app-实现远程-pbcopy](https://www.v2ex.com/t/712125) 
 - [2020-10-01-如何提升唱歌水平？](https://www.v2ex.com/t/712123) 
@@ -41,4 +43,3 @@
 - [2020-10-01-自由职业大联盟，招募新成员！](https://www.v2ex.com/t/712084) 
 - [2020-10-01-国庆不回家，闲来无事，出一个-android10-禁用-SELINUX-的教程。](https://www.v2ex.com/t/712081) 
 - [2020-10-01-分享一个微服务交付工具https://www.giterver.cn/](https://www.v2ex.com/t/712080) 
-- [2020-10-01-Go-的测试踩坑](https://www.v2ex.com/t/712078) 

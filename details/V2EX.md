@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-01 23:34:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-01 23:47:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-01-xps-这个价格可以吗](https://www.v2ex.com/t/712167) 
 - [2020-10-01-为了满足大家国庆期间下游戏/看片的需求-出百度网盘-svip-6-元/月](https://www.v2ex.com/t/712165) 
 - [2020-10-01-昨天升级了-Mojave-Security-Update-2020-005，今天看新闻就发现更新被撤回了](https://www.v2ex.com/t/712164) 
 - [2020-10-01-Windows10-上-切换窗口回-chrome-时，焦点经常在工具栏上（地址栏那一行）](https://www.v2ex.com/t/712163) 
@@ -43,4 +44,3 @@
 - [2020-10-01-vp9-没有类似-hevc-的-scc（Screen-Content-Coding-Extension）扩展吗？](https://www.v2ex.com/t/712120) 
 - [2020-10-01-锐捷和深信服设备使用经验分享](https://www.v2ex.com/t/712119) 
 - [2020-10-01-Windows10-2004-Mail-&-Outlook-无法接收新浪邮箱的邮件（QQ,-Hotmail,-Gmail-正常）](https://www.v2ex.com/t/712118) 
-- [2020-10-01-MySql-单表查询，只需查出所有主键，建立冗余表是否能提升性能。（SELECT-A.id-FROM-A）](https://www.v2ex.com/t/712117) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-01 21:47:26，:rocket: 更新条数: +998， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-01 22:03:52，:rocket: 更新条数: +998， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-01-昨天升级了-Mojave-Security-Update-2020-005，今天看新闻就发现更新被撤回了](https://www.v2ex.com/t/712164) ![](assets/new.png)  
 - [2020-10-01-Windows10-上-切换窗口回-chrome-时，焦点经常在工具栏上（地址栏那一行）](https://www.v2ex.com/t/712163) ![](assets/new.png)  
 - [2020-10-01-请帮分析下公司是不是要开始裁员了](https://www.v2ex.com/t/712162) ![](assets/new.png)  
 - [2020-10-01-迫于刷开卡消费，代购一波](https://www.v2ex.com/t/712161) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-01-为什么谷歌地图把美国台湾等境外用户自己在中国大陆的城市里添加新地点的功能都禁止了？](https://www.v2ex.com/t/712144) ![](assets/new.png)  
 - [2020-10-01-找工作，地点限上海。期望薪资底线-20K](https://www.v2ex.com/t/712143) ![](assets/new.png)  
 - [2020-10-01-有旅行党来推荐装备吗](https://www.v2ex.com/t/712142) ![](assets/new.png)  
-- [2020-10-01-想问下推特被异地登录了代表什么？](https://www.v2ex.com/t/712141) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,14 +1131,14 @@
 - [2020-10-01-StreamNative-宣布开源-MoP](https://toutiao.io/k/0ckwvy2) ![](assets/new.png)  
 - [2020-10-01-Swift-环境及编译优化调研](https://toutiao.io/k/q8yxnnt) ![](assets/new.png)  
 - [2020-10-01-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
-- [2020-10-01-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
-- [2020-10-01-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
-- [2020-10-01-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-01-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
-- [2020-10-01-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
-- [2020-10-01-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-10-01-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) ![](assets/new.png)  
+- [2020-10-01-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) ![](assets/new.png)  
 - [2020-10-01-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
+- [2020-10-01-推荐-项目管理标准模板](https://toutiao.io/k/aud21gw) ![](assets/new.png)  
+- [2020-10-01-推荐-分布式事务解决方案常见误区与实用建议](https://toutiao.io/k/h9nal21) ![](assets/new.png)  
+- [2020-10-01-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
+- [2020-10-01-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) ![](assets/new.png)  
+- [2020-10-01-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-10-01-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-01 14:32:49，:rocket: 更新条数: +746， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-01 14:37:24，:rocket: 更新条数: +3424， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -24,7 +24,7 @@
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
-- [前端圈](#前端圈)![](assets/dot.png)   
+- [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
@@ -44,9 +44,9 @@
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-09-30-最新疫情：全国新冠累计确诊85414例-新增境外输入11例](http://m.china.caixin.com/m/2020-10-01/101611956.html) ![](assets/new.png)  
+- [2020-09-30-最新海外疫情：新冠感染近3384万-累计死亡近101万](http://m.international.caixin.com/m/2020-10-01/101611948.html) ![](assets/new.png)  
+- [2020-09-30-【境内疫情观察】全国新增11例境外输入病例（9月30日）](http://m.database.caixin.com/m/2020-10-01/101611897.html) ![](assets/new.png)  
+- [2020-09-30-大流行手记|9月30日：英国单日新增病例创新高-Moderna疫苗进展乐观](https://m.caixin.com/m/2020-10-01/101611870.html) ![](assets/new.png)  
+- [2020-09-29-中国5波新冠疫情基因序列各不同-高福称今冬最大挑战是合并感染](https://m.caixin.com/m/2020-09-30/101611645.html) ![](assets/new.png)  
+- [2020-09-29-全球百万新冠死亡病例分布何处-世卫警示死亡数恐翻倍](http://m.international.caixin.com/m/2020-09-30/101611310.html) ![](assets/new.png)  
+- [2020-09-29-【境内疫情观察】全国新增19例境外输入病例（9月29日）](http://m.database.caixin.com/m/2020-09-30/101611537.html) ![](assets/new.png)  
+- [2020-09-29-大流行手记|9月29日：新冠死亡病例破百万-世卫疫苗计划还缺350亿美元](https://m.caixin.com/m/2020-09-30/101611388.html) ![](assets/new.png)  
+- [2020-09-28-香港本地新增病例再次归零-内地港人回港有望豁免隔离](https://m.caixin.com/m/2020-09-29/101611214.html) ![](assets/new.png)  
+- [2020-09-28-【境内疫情观察】全国新增12例境外输入病例（9月28日）](http://m.database.caixin.com/m/2020-09-29/101610935.html) ![](assets/new.png)  
+- [2020-09-28-大流行手记|9月28日：印度医用氧气短缺-G20峰会将线上召开](https://m.caixin.com/m/2020-09-29/101610758.html) ![](assets/new.png)  
+- [2020-09-28-全球新冠大流行仍在高峰，疫情暴发后第一个秋冬季如何防控？](https://m.caixin.com/m/2020-09-29/101611219.html) ![](assets/new.png)  
+- [2020-09-28-【图集】英国约40所大学出现疫情-数千名学生宿舍隔离](http://m.photos.caixin.com/m/2020-09-29/101611037.html) ![](assets/new.png)  
+- [2020-09-27-【境内疫情观察】全国新增21例境外输入病例（9月27日）](http://m.database.caixin.com/m/2020-09-28/101610505.html) ![](assets/new.png)  
+- [2020-09-27-大流行手记|9月27日：莫迪力撑印度疫苗-英国23所高校现疫情](https://m.caixin.com/m/2020-09-28/101610347.html) ![](assets/new.png)  
+- [2020-09-26-【境内疫情观察】全国新增14例境外输入病例（9月26日）](http://m.database.caixin.com/m/2020-09-27/101610202.html) ![](assets/new.png)  
+- [2020-09-26-大流行手记|9月26日：WHO预计全球新冠病亡人数或超200万-俄罗斯疫情反弹](https://m.caixin.com/m/2020-09-27/101610108.html) ![](assets/new.png)  
+- [2020-09-25-【境内疫情观察】全国新增15例境外输入病例（9月25日）](http://m.database.caixin.com/m/2020-09-26/101609993.html) ![](assets/new.png)  
+- [2020-09-25-大流行手记|9月25日：特朗普强推新冠疫苗上市引争议-部分国家流感疫苗不足](https://m.caixin.com/m/2020-09-26/101609872.html) ![](assets/new.png)  
+- [2020-09-24-青岛2名装卸工人感染新冠肺炎-属无症状感染者](http://m.china.caixin.com/m/2020-09-25/101609353.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -302,26 +322,6 @@
 </summary>
 
 
-- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) ![](assets/new.png)  
-- [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) ![](assets/new.png)  
-- [2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) ![](assets/new.png)  
-- [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) ![](assets/new.png)  
-- [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) ![](assets/new.png)  
-- [2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) ![](assets/new.png)  
-- [2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) ![](assets/new.png)  
-- [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) ![](assets/new.png)  
-- [2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) ![](assets/new.png)  
-- [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) ![](assets/new.png)  
-- [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) ![](assets/new.png)  
-- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) ![](assets/new.png)  
-- [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) ![](assets/new.png)  
-- [2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) ![](assets/new.png)  
-- [2019-06-20-视频Vue-开发-ECharts-踩坑指南@袁源](https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff) ![](assets/new.png)  
-- [2019-06-20-VueConf-2019上海精彩视频花絮](https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479) ![](assets/new.png)  
-- [2019-06-15-VuePress-1.0发布与介绍的视频版@真山_VueConf-2019上海](https://www.ershicimi.com/p/df891224b8145e46f487100cd9aba181) ![](assets/new.png)  
-- [2019-06-13-蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0) ![](assets/new.png)  
-- [2019-06-12-视频Vue.js作者在VueConf现场发布RFC](https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde) ![](assets/new.png)  
-- [2019-06-11-真山在-VueConf-2019-上海-现场发布-VuePress-1.0](https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端圈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -865,6 +865,26 @@
 </summary>
 
 
+- [2020-09-29-跑步总伤到膝盖？来试试明星教练的方法-｜-极客时间](https://www.ershicimi.com/p/fa20b1fff3bffb650f6c2b46207a160e) ![](assets/new.png)  
+- [2020-09-29-那些害死Haskell的，也会害死Rust](https://www.ershicimi.com/p/c3d6e71a5a3d9ac819227b1348cb6026) ![](assets/new.png)  
+- [2020-09-29-保险新基建，科技新生代，看众安极客黑马超强Battle](https://www.ershicimi.com/p/09b6adef274e9a5e6588edda08b97477) ![](assets/new.png)  
+- [2020-09-29-破浪而来：与华为同行的开发者们](https://www.ershicimi.com/p/87ce0d1925f9b63db190aa90597840fe) ![](assets/new.png)  
+- [2020-09-29-Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/f29cf83e4d8ef0441df5077c6e07f74c) ![](assets/new.png)  
+- [2020-09-29-同步与异步Python有何不同？](https://www.ershicimi.com/p/288551f07b1e6a39912ff279e7bb4a3c) ![](assets/new.png)  
+- [2020-09-28-程序员技术选型：写Go还是Java？](https://www.ershicimi.com/p/1fe85941a4de92570ce47a97075331bd) ![](assets/new.png)  
+- [2020-09-28-华为开源，为何能成？](https://www.ershicimi.com/p/83bdd399da2b9756a94c470a1929267c) ![](assets/new.png)  
+- [2020-09-28-面对企业变革，终是中台扛下了所有-｜-QCon+](https://www.ershicimi.com/p/30117e8678cf91b06a922bd47a4c4f5c) ![](assets/new.png)  
+- [2020-09-28-英特尔与Science联袂推出“架构师成长计划”，顶级架构师的修炼手册｜-Q推荐](https://www.ershicimi.com/p/72ee0cab22df0112d581baeadd02816e) ![](assets/new.png)  
+- [2020-09-28-中间件业务在网易轻舟容器平台的性能调优实践](https://www.ershicimi.com/p/3ce8a4164f290e9423a8931c495bee71) ![](assets/new.png)  
+- [2020-09-28-对开发者而言，GitHub-Profile可能是比简历更好的求职利器](https://www.ershicimi.com/p/8eaff225f99f2efb27e06277c75d47e7) ![](assets/new.png)  
+- [2020-09-27-绩效不及格被劝退，50岁IT技术主管删除公司全部存储信息后被判入狱](https://www.ershicimi.com/p/3ae123069db98dbe376ede0c78cc9f82) ![](assets/new.png)  
+- [2020-09-27-百度开源进行时](https://www.ershicimi.com/p/7fa9f14b51373f42bcb72c14ce384e6a) ![](assets/new.png)  
+- [2020-09-27-来自D2iQ的拷问：你真的需要K8s？｜-Q推荐](https://www.ershicimi.com/p/ea2977d8b345344e91d6f13b27f860a1) ![](assets/new.png)  
+- [2020-09-27-Swift正式登录Windows：苹果跨平台语言值几钱？](https://www.ershicimi.com/p/ddb30728f74a13b5fd7226f4e5fa9594) ![](assets/new.png)  
+- [2020-09-27-特斯拉又“翻车”？测试假人当场撞飞，官方称：断章取义](https://www.ershicimi.com/p/8cdade7884d9ee4cd46e3a639ee5eaf3) ![](assets/new.png)  
+- [2020-09-26-华为松山湖在建项目发生火灾；清北毕业生争抢网易严选“养生体验员”岗位；雪佛龙要求6万名员工卸载微信](https://www.ershicimi.com/p/a88ff597754fc6cef86a4ecc4f242566) ![](assets/new.png)  
+- [2020-09-26-闲鱼服务端架构演进历程](https://www.ershicimi.com/p/01e2d51ef075343d9b4a4fdff085de2f) ![](assets/new.png)  
+- [2020-09-26-亿级数据库毫秒级查询？看完这一篇，海量数据赋能你也行](https://www.ershicimi.com/p/e1a95933013d7123f4083d2c5509664a) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -907,6 +927,11 @@
 </summary>
 
 
+- [2020-10-01-React组件化设计下篇](https://juejin.im/post/6878652168577122311) ![](assets/new.png)  
+- [2020-10-01-Re:从零开始的仿网易云webApp](https://juejin.im/post/6878648701078896647) ![](assets/new.png)  
+- [2020-10-01-WebSocket原理实现](https://juejin.im/post/6878621395761397773) ![](assets/new.png)  
+- [2020-10-01-深拷贝-Vs-Immutable-不可变数据](https://juejin.im/post/6878584121510232071) ![](assets/new.png)  
+- [2020-09-30-单点登录SSO,前端需要考虑些什么？](https://juejin.im/post/6878296863381356551) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

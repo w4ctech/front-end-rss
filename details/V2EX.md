@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-01 14:27:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-01 14:32:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2020-10-01-新加坡-Shopee-直招-招资深云原生平台开发工程师，包含-Kubernetes、SDN、服务网关等不同方向](https://www.v2ex.com/t/712088) 
 - [2020-10-01-高德地图这是要疯么？！](https://www.v2ex.com/t/712087) 
 - [2020-10-01-我也发一个-TeamViewer-替代品，个人产品](https://www.v2ex.com/t/712086) 
-- [2020-10-01-有哪个国外公司的地图-app-里头的中国城市的地图数据比较新比较完整的？](https://www.v2ex.com/t/712085) 

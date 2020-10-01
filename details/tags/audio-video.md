@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-01 19:47:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-01 20:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -21,4 +21,5 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-10-01-快速将-9.6GB-视频分割为-8Gb+1.6GB-的软件方便推荐吗？](https://www.v2ex.com/t/712157) 
 - [2020-09-29-【视频】|-Python:if语句之猜大小和多层条](https://sec.thief.one/article_content?a_id=5c8ba2b71483548c6f709875770e0728) 

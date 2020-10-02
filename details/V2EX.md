@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-02 10:26:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-02 10:32:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-02-awk-的-match-pattern-有-cheat-sheet-么](https://www.v2ex.com/t/712256) 
 - [2020-10-02-有上海的朋友介绍靠谱的中医或西医吗？朋友的抑郁症比较严重](https://www.v2ex.com/t/712255) 
 - [2020-10-02-2020-MBP13-CPU-占用高时，播放音乐，喇叭颤音非常严重....](https://www.v2ex.com/t/712251) 
 - [2020-10-02-写了一个「书法拼贴生成器」---字间浮生](https://www.v2ex.com/t/712249) 
@@ -37,4 +38,3 @@
 - [2020-10-02-Manjaro-KDE-Plasma-高分屏下窗口动画失效](https://www.v2ex.com/t/712214) 
 - [2020-10-02-英语不好要硬啃英文原版书吗](https://www.v2ex.com/t/712213) 
 - [2020-10-02-滴滴出行-北京、杭州、成都、深圳内推-前端/-Java-/Android/iOS/Go/算法/-PHP-/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/712207) 
-- [2020-10-02-求助-miui12，用什么样的姿势-charles-能抓到-https](https://www.v2ex.com/t/712206) 

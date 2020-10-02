@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-02 09:04:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-02 09:13:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-02-dell-显示器维修](https://www.v2ex.com/t/712242) 
+- [2020-10-02-第一次赶国庆人潮](https://www.v2ex.com/t/712241) 
 - [2020-10-02-steam-如何只在其中-1-台电脑上隐藏部分游戏？](https://www.v2ex.com/t/712240) 
 - [2020-10-02-感觉-JetBrains-家的-IDE-代码补全速度比-VSCode-慢很多很多，是不是正常现象？](https://www.v2ex.com/t/712239) 
 - [2020-10-02-职场-PUA-已经从面试开始了吗？](https://www.v2ex.com/t/712237) 
@@ -34,4 +36,3 @@
 - [2020-10-02-职业咨询-35-岁应该转管理还是转运维](https://www.v2ex.com/t/712196) 
 - [2020-10-02-内网穿透这种一般公司查不查的](https://www.v2ex.com/t/712194) 
 - [2020-10-02-远程-招-全栈工程师-产品经理-10-~-20-USDT/h-Beancount.io,-硅谷-io,-Touchbase.AI,-etc](https://www.v2ex.com/t/712193) 
-- [2020-10-02-有感-焦虑症患者-，科学认识后-这个不可怕-，](https://www.v2ex.com/t/712191) 

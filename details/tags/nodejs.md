@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-02 16:04:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-02 16:14:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -9,10 +9,7 @@
 
 - [2020-09-27-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/35e68066c5fdc7da00fa6578cd44e004) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/a9a603eab29a5625f2c33aed1dd59c5a) 
-- [2020-09-27-前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/b51534a5fcb534f73c718f29b4aad1a3) 
-- [2020-09-25-一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/921228937c95cf4885d9edb75b47fd93) 
-- [2020-09-20-CNodejs每日新闻周刊｜第-6-期](https://www.ershicimi.com/p/86cd30d089b03704047fb64340fed325) 
-- [2020-09-18-通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/03cc8f1f2c37636bdfe1084a7579e71d) 
+- [2020-08-02-如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082) 
 - [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) 
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
 - [2017-04-22-【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/) 

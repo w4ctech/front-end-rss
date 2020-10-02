@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-02 02:14:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-02 02:28:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -43,5 +43,3 @@
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
-- [2020-10-01-【框架对比】React和Vue的hook函数](https://juejin.im/post/6878679053541310478) 
-- [2020-10-01-react-开发的一个-Chrome-浏览器插件-:😘Mediumx，主要是增强-Medium-的阅读体验](https://www.v2ex.com/t/712126) 

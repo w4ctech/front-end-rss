@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-02 07:47:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-02 08:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,7 +7,8 @@
 
 
 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-09-28-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24) 
+- [2020-09-25-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6) 
 - [2020-10-01-【安全圈】Microsoft-Exchange服务器仍然打开以积极利用漏洞](https://sec.thief.one/article_content?a_id=8f69c4880de04cefa6d6b339e4abee67) 
 - [2020-10-01-小白入门安全这三点很重要](https://sec.thief.one/article_content?a_id=58c5d9355852e6d4a3de65576ebe75ad) 
 - [2020-10-01-【文末赠书】工控安全之Modbus协议实现和安全性分析上](https://sec.thief.one/article_content?a_id=424cf0fef84cab9b4889c87bfcd63c49) 

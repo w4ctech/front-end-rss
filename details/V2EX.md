@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-02 01:12:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-02 01:34:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-02-纠结于-Macbook-pro-13-寸-20-款-16G-512G-还是-19-款-15.4-寸](https://www.v2ex.com/t/712170) 
 - [2020-10-02-955.WLB-不加班公司名单新增-6-家公司，移出-1-家公司](https://www.v2ex.com/t/712169) 
 - [2020-10-02-木兰重生：更多-$-的妙用，-self-的拓展语义](https://www.v2ex.com/t/712168) 
 - [2020-10-01-xps-这个价格可以吗](https://www.v2ex.com/t/712167) 
@@ -43,4 +44,3 @@
 - [2020-10-01-Terminal.app-实现远程-pbcopy](https://www.v2ex.com/t/712125) 
 - [2020-10-01-如何提升唱歌水平？](https://www.v2ex.com/t/712123) 
 - [2020-10-01-东京证券交易系统出系统问题，挂了一天](https://www.v2ex.com/t/712121) 
-- [2020-10-01-vp9-没有类似-hevc-的-scc（Screen-Content-Coding-Extension）扩展吗？](https://www.v2ex.com/t/712120) 

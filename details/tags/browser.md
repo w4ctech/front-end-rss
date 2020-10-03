@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-03 01:48:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-03 02:03:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,7 +8,6 @@
 
 
 - [2020-09-28-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24) 
-- [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
 - [2020-09-25-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -23,8 +22,6 @@
 - [2020-09-28-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/ad5ba4bf1e6e0344f52baf557474017b) 
 - [2020-09-25-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/4813363bd7395275267f50297dbd08d6) 
 - [2020-09-28-英特尔与Science联袂推出“架构师成长计划”，顶级架构师的修炼手册｜-Q推荐](https://www.ershicimi.com/p/72ee0cab22df0112d581baeadd02816e) 
-- [2020-10-02-谷歌浏览器开发调试的九个技巧-|-掘金技术征文-双节特别篇](https://juejin.im/post/6878993315555966983) 
-- [2020-10-02-一起学重绘和回流-|-掘金技术征文-双节特别篇](https://juejin.im/post/6878982139111702536) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-02-XBox-Series-X-马上发售了，-XGPU-已经定了三年，有没有欧洲的小伙伴圣诞一起嗨？](https://www.v2ex.com/t/712279) 
 - [2020-10-02-字节跳动员工内推-北上杭深-岗位很多-HC-很多-安全与风控](https://www.v2ex.com/t/712267) 

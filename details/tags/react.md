@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-03 18:38:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-03 18:47:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -29,7 +29,6 @@
 - [2020-09-21-可能是你见过最好的-React-Hooks-库](https://www.ershicimi.com/p/873db08affcdb5d0bcfd4599fad63342) 
 - [2020-09-29-winter自述：打造Toy-React背后的故事](https://www.ershicimi.com/p/2ec9160c02abafdd0e47778a22ac85df) 
 - [2020-09-21-React-hooks中swr的原理和源码解析](https://www.ershicimi.com/p/8bf19033c2f958beb11512f6a68164f8) 
-- [2020-09-28-能读React源码的人，很吃香！](https://www.ershicimi.com/p/2a9e313f96cf7ad52cbd559da8801389) 
 - [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) 
 - [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) 
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/) 

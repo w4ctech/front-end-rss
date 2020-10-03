@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-02 23:47:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-03 00:08:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2020-10-02-深圳-腾讯广告-社招前端&后台开发～](https://www.v2ex.com/t/712262) 
 - [2020-10-02-有没有在用-mac-原生输入法的同学，这种情况是不是一直存在的-bug？](https://www.v2ex.com/t/712261) 
 - [2020-10-02-Python3-正则表达式问题](https://www.v2ex.com/t/712259) 
-- [2020-10-02-awk-的-match-pattern-有-cheat-sheet-么](https://www.v2ex.com/t/712256) 

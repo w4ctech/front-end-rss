@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-03 05:12:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-03 05:24:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -16,4 +16,5 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff) 
+- [2020-10-03-安卓模拟器的相册如何应设为宿主机文件夹用于视频上传？附：腾讯/优酷/Bilibili/爱奇艺/搜狐等网站上传视频的限制对比汇总](https://www.v2ex.com/t/712318) 
 - [2020-09-29-【视频】|-Python:if语句之猜大小和多层条](https://sec.thief.one/article_content?a_id=5c8ba2b71483548c6f709875770e0728) 

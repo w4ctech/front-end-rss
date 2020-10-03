@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-03 21:03:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-03 21:12:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -18,18 +18,6 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-09-22-摸金校尉聊浏览器渲染](https://www.ershicimi.com/p/9339cf52f601bafc74e228301225ac2c) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2020-09-28-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/ad5ba4bf1e6e0344f52baf557474017b) 
-- [2020-09-25-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/4813363bd7395275267f50297dbd08d6) 
-- [2020-09-28-英特尔与Science联袂推出“架构师成长计划”，顶级架构师的修炼手册｜-Q推荐](https://www.ershicimi.com/p/72ee0cab22df0112d581baeadd02816e) 
-- [2020-10-03-前端跨域系列（4）--CORS-详解](https://juejin.im/post/6879397846840246279) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-10-03-splash-只能-GET-和-POST-吗，有没有-delete-和-put-之类的请问方法啊？](https://www.v2ex.com/t/712424) 
-- [2020-10-03-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-03-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-03-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-03-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) 
 - [2020-10-03-把网络安全意识带回家第一话:让家长远离“恶意链接”](https://sec.thief.one/article_content?a_id=093db6dbf793c17009dc86ce588f11e8) 
 - [2020-10-02-【安全圈】苹果、特斯拉接连上演全球宕机!微软更是一周两次](https://sec.thief.one/article_content?a_id=9f238027f019eaa29b7752d818e9f9bf) 
 - [2020-10-02-叮~萌小鹰请您查收→假期安全出游攻略](https://sec.thief.one/article_content?a_id=9fb0deb076e90cd31b7b8db7ba74b551) 

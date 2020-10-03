@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-03 00:08:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-03 00:35:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2020-10-02-航班停飞超8个月-阿根廷将在10月12日或15日恢复商业航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE7T16r1VfLFSHeXqfrWk201003&isfromapp=1) 
+- [2020-10-02-美国第一夫人梅拉尼娅发文：虽有轻微症状-但目前感觉良好](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY1s4zuGKJ68O5jaqqdls201003&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
 - [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
@@ -315,6 +316,7 @@
 - [2020-09-08-数学界再出变态神人，竟用一个比基尼方程，吊打各国数学家......](https://www.ershicimi.com/p/20ca5e2820c67058564cd74894e03d6b) 
 - [2020-09-08-知乎故事-|-你什么时候突然意识到自己该存钱了？](https://www.ershicimi.com/p/df3d482f9a09130cdb723a63fd893549) 
 - [2020-09-07-知乎高赞：国家为什么要拿钱去帮助外国?](https://www.ershicimi.com/p/1a9562191f67aaa4289f4b5a25f8d5da) 
+- [2020-10-03-分享个-CTF-小工具-bruteHASH](https://www.v2ex.com/t/712307) 
 - [2020-10-02-iPhone-SB.-softbank-可以免费解锁了，至此日版全系列均可免费解锁了](https://www.v2ex.com/t/712305) 
 - [2020-10-02-关于美区-Apple-Music-最近的一些问题！](https://www.v2ex.com/t/712304) 
 - [2020-10-02-20201003-午夜俱乐部](https://www.v2ex.com/t/712303) 
@@ -367,15 +369,15 @@
 - [2020-10-03-可视化测试策略](https://toutiao.io/k/e5rjr8o) 
 - [2020-10-03-伊藤穰一论文翻译系列（二）：指数增长真的存在吗？](https://toutiao.io/k/oxe8w7r) 
 - [2020-10-03-Go-实现自定义语言的基础：goyacc-简易入门](https://toutiao.io/k/v5hz72l) 
-- [2020-10-03-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) 
-- [2020-10-03-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) 
+- [2020-10-03-推荐-辨析数仓、大数据、数据中台的实质（内附-21-张架构图）](https://toutiao.io/k/x2h0z37) 
 - [2020-10-03-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) 
-- [2020-10-03-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) 
 - [2020-10-03-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) 
+- [2020-10-03-推荐-解密-Go-协程的栈内存管理](https://toutiao.io/k/fkrobd3) 
+- [2020-10-03-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) 
+- [2020-10-03-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) 
+- [2020-10-03-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) 
 - [2020-10-03-推荐-分库分表中间件的高可用实践](https://toutiao.io/k/3m3ovcd) 
-- [2020-10-03-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) 
 - [2020-10-03-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) 
-- [2020-10-03-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) 
 - [2020-10-03-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) 
 - [2020-10-02-工具推荐:南京拓界-电子数据取证快取专家](https://sec.thief.one/article_content?a_id=00d09b0504131c90414ca2cd6c64bbc6) 
 - [2020-10-02-【倒计时21天】三大技术训练营,引爆你的学习力!](https://sec.thief.one/article_content?a_id=f551edd67e908278b635cef9c9af2837) 

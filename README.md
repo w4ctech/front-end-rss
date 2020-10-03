@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-03 22:24:52，:rocket: 更新条数: +1000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-03 22:32:43，:rocket: 更新条数: +1000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1123,22 +1123,22 @@
 - [2020-10-03-Go-设计模式（十五）：策略模式](https://toutiao.io/k/0nevhvz) ![](assets/new.png)  
 - [2020-10-03-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [2020-10-03-可视化测试策略](https://toutiao.io/k/e5rjr8o) ![](assets/new.png)  
-- [2020-10-03-伊藤穰一论文翻译系列（二）：指数增长真的存在吗？](https://toutiao.io/k/oxe8w7r) ![](assets/new.png)  
 - [2020-10-03-Rust-学习笔记：异步代码的几种写法](https://toutiao.io/k/vco1y0p) ![](assets/new.png)  
+- [2020-10-03-伊藤穰一论文翻译系列（二）：指数增长真的存在吗？](https://toutiao.io/k/oxe8w7r) ![](assets/new.png)  
 - [2020-10-03-Go-实现自定义语言的基础：goyacc-简易入门](https://toutiao.io/k/v5hz72l) ![](assets/new.png)  
 - [2020-10-03-TypeScript-高级用法之-infer-的理解与使用](https://toutiao.io/k/au2l1gh) ![](assets/new.png)  
 - [2020-10-03-现代化-PHP：生产环境下优化-Composer-加载的原理](https://toutiao.io/k/8y0gjg6) ![](assets/new.png)  
 - [2020-10-03-突破测试的墨菲定律：有感于一次-UAT-组织](https://toutiao.io/k/9wqg6c7) ![](assets/new.png)  
 - [2020-10-03-推荐-分库分表中间件的高可用实践](https://toutiao.io/k/3m3ovcd) ![](assets/new.png)  
+- [2020-10-03-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) ![](assets/new.png)  
 - [2020-10-03-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
-- [2020-10-03-推荐-面试：为了进阿里，必须掌握-HashMap-源码原理和面试题（图解版一）](https://toutiao.io/k/vl7rvfr) ![](assets/new.png)  
-- [2020-10-03-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-10-03-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
-- [2020-10-03-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-03-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
 - [2020-10-03-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
-- [2020-10-03-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
+- [2020-10-03-推荐-面试：为了进阿里，必须掌握-HashMap-源码原理和面试题（图解版一）](https://toutiao.io/k/vl7rvfr) ![](assets/new.png)  
+- [2020-10-03-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
 - [2020-10-03-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
-- [2020-10-03-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
+- [2020-10-03-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-10-03-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

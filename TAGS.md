@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-04 22:47:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-04 23:03:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -119,6 +119,7 @@
 - [【前端宇宙】TypeScript高级类型备忘录（附示例）](https://www.ershicimi.com/p/b309cb48342fdcd112a1bd62674c8d90)
 - [【程序员成长指北】用TypeScript装饰器实现一个简单的依赖注入](https://www.ershicimi.com/p/65349519ed828ae1ae8efbc13b7b23c1)
 - [【Nodejs技术栈】Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/9cf9e1540ea437410112acba7e8eecd0)
+- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -148,6 +149,7 @@
 - [【凹凸实验室】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
+- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -435,6 +437,7 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
+- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【安全热点】网结同心-e路同行|广东:强化统筹-突出重点-优化品牌-广泛宣传——探...](https://sec.thief.one/article_content?a_id=a9a9defbc3ad8bc3f03bc903c08a9b9c)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -463,6 +466,7 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【安全热点】对-Chamberlain-MyQ-车库门智能开关的安全性分析](https://sec.thief.one/article_content?a_id=08f36a588e16d345f8dc4b555a15b5a9)
 - [【安全热点】把网络安全意识带回家第二话:使用Wi-Fi的正确“姿势”](https://sec.thief.one/article_content?a_id=6cc9c7c8c62ed87b039529a96552b2a7)
 - [【安全热点】【安全圈】微软指称俄罗斯是国家支持的黑客攻击的主要源头](https://sec.thief.one/article_content?a_id=a59643979054d05b5a46f84617602954)
@@ -471,7 +475,6 @@
 - [【安全热点】叮~萌小鹰请您查收→假期安全出游攻略](https://sec.thief.one/article_content?a_id=9fb0deb076e90cd31b7b8db7ba74b551)
 - [【安全热点】【安全圈】Microsoft-Exchange服务器仍然打开以积极利用漏洞](https://sec.thief.one/article_content?a_id=8f69c4880de04cefa6d6b339e4abee67)
 - [【安全热点】小白入门安全这三点很重要](https://sec.thief.one/article_content?a_id=58c5d9355852e6d4a3de65576ebe75ad)
-- [【安全热点】【文末赠书】工控安全之Modbus协议实现和安全性分析上](https://sec.thief.one/article_content?a_id=424cf0fef84cab9b4889c87bfcd63c49)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

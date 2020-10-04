@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-04 13:35:23，:rocket: 更新条数: +3443， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-04 13:47:22，:rocket: 更新条数: +734， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -49,10 +49,10 @@
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)![](assets/dot.png)   
+- [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-10-03-最新疫情：全国新冠累计确诊85450例-新增境外输入16例](https://m.caixin.com/m/2020-10-04/101612246.html) ![](assets/new.png)  
-- [2020-10-03-最新海外疫情：新冠感染近3479万-累计死亡近103万](http://m.international.caixin.com/m/2020-10-04/101612249.html) ![](assets/new.png)  
-- [2020-10-03-【境内疫情观察】全国新增16例境外输入病例（10月3日）](http://m.database.caixin.com/m/2020-10-04/101612230.html) ![](assets/new.png)  
-- [2020-10-03-大流行手记|10月3日：特朗普“密接”数人感染-英国疫苗有望年底上市](https://m.caixin.com/m/2020-10-04/101612223.html) ![](assets/new.png)  
-- [2020-10-02-【境内疫情观察】全国新增10例境外输入病例（10月2日）](http://m.database.caixin.com/m/2020-10-03/101612160.html) ![](assets/new.png)  
-- [2020-10-02-大流行手记|10月2日：特朗普确诊后现轻微症状-亚马逊近2万员工感染](https://m.caixin.com/m/2020-10-03/101612150.html) ![](assets/new.png)  
-- [2020-10-01-【境内疫情观察】全国新增10例境外输入病例（10月1日）](http://m.database.caixin.com/m/2020-10-02/101612037.html) ![](assets/new.png)  
-- [2020-10-01-大流行手记|10月1日：马德里将封城-WHO拟援助1.2亿个抗原快检试剂盒](https://m.caixin.com/m/2020-10-02/101612010.html) ![](assets/new.png)  
-- [2020-09-30-【境内疫情观察】全国新增11例境外输入病例（9月30日）](http://m.database.caixin.com/m/2020-10-01/101611897.html) ![](assets/new.png)  
-- [2020-09-30-大流行手记|9月30日：英国单日新增病例创新高-Moderna疫苗进展乐观](https://m.caixin.com/m/2020-10-01/101611870.html) ![](assets/new.png)  
-- [2020-09-29-中国5波新冠疫情基因序列各不同-高福称今冬最大挑战是合并感染](https://m.caixin.com/m/2020-09-30/101611645.html) ![](assets/new.png)  
-- [2020-09-29-全球百万新冠死亡病例分布何处-世卫警示死亡数恐翻倍](http://m.international.caixin.com/m/2020-09-30/101611310.html) ![](assets/new.png)  
-- [2020-09-29-【境内疫情观察】全国新增19例境外输入病例（9月29日）](http://m.database.caixin.com/m/2020-09-30/101611537.html) ![](assets/new.png)  
-- [2020-09-29-大流行手记|9月29日：新冠死亡病例破百万-世卫疫苗计划还缺350亿美元](https://m.caixin.com/m/2020-09-30/101611388.html) ![](assets/new.png)  
-- [2020-09-28-香港本地新增病例再次归零-内地港人回港有望豁免隔离](https://m.caixin.com/m/2020-09-29/101611214.html) ![](assets/new.png)  
-- [2020-09-28-【境内疫情观察】全国新增12例境外输入病例（9月28日）](http://m.database.caixin.com/m/2020-09-29/101610935.html) ![](assets/new.png)  
-- [2020-09-28-大流行手记|9月28日：印度医用氧气短缺-G20峰会将线上召开](https://m.caixin.com/m/2020-09-29/101610758.html) ![](assets/new.png)  
-- [2020-09-28-全球新冠大流行仍在高峰，疫情暴发后第一个秋冬季如何防控？](https://m.caixin.com/m/2020-09-29/101611219.html) ![](assets/new.png)  
-- [2020-09-28-【图集】英国约40所大学出现疫情-数千名学生宿舍隔离](http://m.photos.caixin.com/m/2020-09-29/101611037.html) ![](assets/new.png)  
-- [2020-09-27-【境内疫情观察】全国新增21例境外输入病例（9月27日）](http://m.database.caixin.com/m/2020-09-28/101610505.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,10 +927,10 @@
 </summary>
 
 
-- [2020-10-04-TypeScript-4.1-类型模板字符串实现Vuex的store.commit和store.dispatch类型判断](https://juejin.im/post/6879739215869935624) ![](assets/new.png)  
+- [2020-10-04-如何实现一个-Webpack-的-Bundler-打包机制-？|-掘金技术征文-双节特别篇](https://juejin.im/post/6879748260848730120) ![](assets/new.png)  
+- [2020-10-04-TypeScript-4.1-类型模板字符串实现Vuex的commit和dispatch类型判断](https://juejin.im/post/6879739215869935624) ![](assets/new.png)  
 - [2020-10-04-Webpack-详解create-react-app](https://juejin.im/post/6879733359283699719) ![](assets/new.png)  
 - [2020-10-04-国庆八天教你怎么写出一个钢琴🎹-|-掘金技术征文-双节特别篇](https://juejin.im/post/6879708939190009869) ![](assets/new.png)  
-- [2020-10-04-我看了都会的MVVM原理，你看必须也会（vue-MVVM）](https://juejin.im/post/6879706027302846478) ![](assets/new.png)  
 - [2020-10-04-Koa系列-基础功能实现-|-掘金技术征文-双节特别篇](https://juejin.im/post/6879701331410419725) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1005,16 +985,6 @@
 </summary>
 
 
-- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
-- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
-- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
-- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
-- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
-- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
-- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
-- [2019-10-13-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
-- [2019-10-12-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
-- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,26 +1058,6 @@
 </summary>
 
 
-- [2020-10-04-一文讲懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZYFdJ0FRNhcbWP3Ddng1lA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-Android-敏感数据泄露引发的思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-Kotlin-正在变得越来越好-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13804&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4JCNz0KJiJiuiABVfpCIzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-Koin-in-Android:-更简单的依赖注入-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13803&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJmpP3HbyZvebbrTWhGiPVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-19-个接私活平台汇总，你有技术就有钱-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13802&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuSxfEP1cVRpaNwtF2gmtfw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-开发者日常-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13801&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6fD5AFnULw-utmhDbX-WkA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-Linus：我们都老了，但-Linux-维护后继无人-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13800&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhKZnVytfARTqh0ix33R-wg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-计算机网络基础知识总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13798&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fc2glZ6ouef0aDAdHB1yBFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-IntelliJ-IDEA-2020.2-EAP-5-发布：完美支持Java-15-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13797&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLBYpAXK7lr60ZCoM2cgnNQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-微软、亚马逊、IBM主动禁售人脸识别，为什么？-www.huxiu.com](https://blogread.cn/news/go.php?idItem=13796&url=https%3A%2F%2Fwww.huxiu.com%2Farticle%2F380148.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-OKR是新时代的KPI吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13795&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fokr-vs-kpi%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-职场常备的-TOP-20-AI-产品工具-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13794&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F09%2F23%2F170-list-of-top-20-ai-product-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-如何选择适合自己网站的防盗链-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13793&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F258380316%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-如何知道我们的E2E测试覆盖率？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13792&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-know-e2e-coverage%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-04-Android-记一次解决问题的过程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13788&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjY3qmLgW0iWa8HYAjjpJyw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1079,16 @@
 - [2020-10-04-从零起步做一个拦截蜜罐-XSSI-的-Chrome-扩展](https://toutiao.io/k/2iqq66x) ![](assets/new.png)  
 - [2020-10-04-手机中的-LPDDR-为什么不能替代电脑里的-DDR？谁速度更快？](https://toutiao.io/k/0pw7zot) ![](assets/new.png)  
 - [2020-10-04-Dotnet-Core-IHttpClientFactory-深度研究](https://toutiao.io/k/obrm77q) ![](assets/new.png)  
-- [2020-10-04-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-04-推荐-分库分表中间件的高可用实践](https://toutiao.io/k/3m3ovcd) ![](assets/new.png)  
+- [2020-10-04-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
+- [2020-10-04-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-10-04-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
 - [2020-10-04-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) ![](assets/new.png)  
 - [2020-10-04-推荐-面试：为了进阿里，必须掌握-HashMap-源码原理和面试题（图解版一）](https://toutiao.io/k/vl7rvfr) ![](assets/new.png)  
-- [2020-10-04-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-10-04-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-04-推荐-就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透](https://toutiao.io/k/ejwph4b) ![](assets/new.png)  
-- [2020-10-04-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-10-04-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
 - [2020-10-04-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
+- [2020-10-04-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
 - [2020-10-04-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
-- [2020-10-04-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

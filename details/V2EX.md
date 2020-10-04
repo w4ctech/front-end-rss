@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-04 00:08:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-04 00:37:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-04-升级-IOS14.0.1-后输入法卡顿严重](https://www.v2ex.com/t/712433) 
+- [2020-10-04-那些应用区块链的机构，都是谁在给它们算题？](https://www.v2ex.com/t/712432) 
 - [2020-10-03-A14-相比-A13-CPU-单核提升-19%，多核-27%,-GPU-计算分提升-72%超过-A12Z](https://www.v2ex.com/t/712431) 
 - [2020-10-03-esxi6.7-win10-安装-vmwaretools-后死机](https://www.v2ex.com/t/712430) 
 - [2020-10-03-即使分手单身了，也逃不过爸妈逼婚](https://www.v2ex.com/t/712428) 
@@ -45,5 +47,3 @@
 - [2020-10-03-现在在职研究生的认可度怎么样呢？](https://www.v2ex.com/t/712389) 
 - [2020-10-03-YouTube-没有-premium-没法画中画？](https://www.v2ex.com/t/712388) 
 - [2020-10-03-请问哪里可以找到完整的-samba-配置项说明文档呢？](https://www.v2ex.com/t/712385) 
-- [2020-10-03-请问安卓-WX-有模拟共享定位的工具吗？](https://www.v2ex.com/t/712383) 
-- [2020-10-03-在-Github-actions-中支持-FreeBSD](https://www.v2ex.com/t/712382) 

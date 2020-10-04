@@ -4145,7 +4145,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4319,6 +4319,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[教育优惠拼车] 我买 iPad pro，需要 air pods 的我们一起来拼车吧",
+        "link": "https://www.v2ex.com/t/712559",
+        "date": "2020-10-04"
+      },
       {
         "title": "找个 web ui/前端 合作",
         "link": "https://www.v2ex.com/t/712558",
@@ -4649,13 +4654,18 @@
         "date": "2020-10-04"
       },
       {
-        "title": "[推荐] 架构制图：工具与方法论",
-        "link": "https://toutiao.io/k/pzy6sbw",
+        "title": "[推荐] 分库分表中间件的高可用实践",
+        "link": "https://toutiao.io/k/3m3ovcd",
         "date": "2020-10-04"
       },
       {
-        "title": "[推荐] 谈谈我所认识的分布式锁",
-        "link": "https://toutiao.io/k/oqnmp3h",
+        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
+        "link": "https://toutiao.io/k/ur64xby",
+        "date": "2020-10-04"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，必须掌握 HashMap 源码原理和面试题（图解版一）",
+        "link": "https://toutiao.io/k/vl7rvfr",
         "date": "2020-10-04"
       },
       {
@@ -4664,8 +4674,43 @@
         "date": "2020-10-04"
       },
       {
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
+        "date": "2020-10-04"
+      },
+      {
+        "title": "[推荐] 20 张图搞懂 “分布式事务”",
+        "link": "https://toutiao.io/k/keefsst",
+        "date": "2020-10-04"
+      },
+      {
+        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
+        "link": "https://toutiao.io/k/23m4ly1",
+        "date": "2020-10-04"
+      },
+      {
         "title": "[推荐] 就这一次：TCP/IP/IO/NIO/操作系统、计算机底层、Netty、算法一次性给你讲透",
         "link": "https://toutiao.io/k/ejwph4b",
+        "date": "2020-10-04"
+      },
+      {
+        "title": "[推荐] 架构制图：工具与方法论",
+        "link": "https://toutiao.io/k/pzy6sbw",
+        "date": "2020-10-04"
+      },
+      {
+        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
+        "link": "https://toutiao.io/k/xdryz90",
+        "date": "2020-10-04"
+      },
+      {
+        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
+        "link": "https://toutiao.io/k/rd2k0cu",
+        "date": "2020-10-04"
+      },
+      {
+        "title": "[推荐] 谈谈我所认识的分布式锁",
+        "link": "https://toutiao.io/k/oqnmp3h",
         "date": "2020-10-04"
       },
       {
@@ -4679,48 +4724,8 @@
         "date": "2020-10-04"
       },
       {
-        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
-        "link": "https://toutiao.io/k/23m4ly1",
-        "date": "2020-10-04"
-      },
-      {
-        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
-        "link": "https://toutiao.io/k/s2yudly",
-        "date": "2020-10-04"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，必须掌握 HashMap 源码原理和面试题（图解版一）",
-        "link": "https://toutiao.io/k/vl7rvfr",
-        "date": "2020-10-04"
-      },
-      {
-        "title": "[推荐] 20 张图搞懂 “分布式事务”",
-        "link": "https://toutiao.io/k/keefsst",
-        "date": "2020-10-04"
-      },
-      {
         "title": "[推荐] Spring Boot 启动原理",
         "link": "https://toutiao.io/k/itvkvui",
-        "date": "2020-10-04"
-      },
-      {
-        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
-        "link": "https://toutiao.io/k/ur64xby",
-        "date": "2020-10-04"
-      },
-      {
-        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
-        "link": "https://toutiao.io/k/rd2k0cu",
-        "date": "2020-10-04"
-      },
-      {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
-        "date": "2020-10-04"
-      },
-      {
-        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
-        "link": "https://toutiao.io/k/xdryz90",
         "date": "2020-10-04"
       }
     ]

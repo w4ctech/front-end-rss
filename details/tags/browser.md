@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-05 23:03:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-05 23:12:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,8 +32,8 @@
 - [2020-10-05-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-05-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-05-信息物理系统中的安全控制算法](https://toutiao.io/k/sgo0jvm) 
-- [2020-10-05-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) 
 - [2020-10-05-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) 
+- [2020-10-05-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) 
 - [2020-10-05-MatRiCT:抗量子安全和隐私的高效区块链协议](https://sec.thief.one/article_content?a_id=d6fce127d19f32e2144ebff29c7b280f) 
 - [2020-10-05-把网络安全意识带回家第三话:-给家长设个安全的密码](https://sec.thief.one/article_content?a_id=1ea61c188f3e1c5375abf8cf3e68fb34) 
 - [2020-10-04-对-Chamberlain-MyQ-车库门智能开关的安全性分析](https://sec.thief.one/article_content?a_id=08f36a588e16d345f8dc4b555a15b5a9) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-05 23:12:36，:rocket: 更新条数: +990， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-05 23:24:05，:rocket: 更新条数: +990， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -75,11 +75,11 @@
 </summary>
 
 
-- [2020-10-05-乌兹别克斯坦专家：新冠肺炎疫情将导致本国新增45万贫困人口](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWpjN9m2iHn9xKzxi4LM3201005&isfromapp=1) ![](assets/new.png)  
-- [2020-10-05-捷克新增1841例新冠肺炎确诊病例-再次宣布进入国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2YCMQzY2Ie23hVCtLE3201005&isfromapp=1) ![](assets/new.png)  
-- [2020-10-05-俄罗斯新增10888例新冠肺炎确诊病例-累计达1225889例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiisSITtnUZ9m9gH7Rez96201005&isfromapp=1) ![](assets/new.png)  
-- [2020-10-05-新西兰奥克兰将于7日午夜降低防疫响应等级-民众生活基本恢复正常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirEbbBWtciS1AKrWPWdG2201005&isfromapp=1) ![](assets/new.png)  
-- [2020-10-05-韩国陆军发生群聚性感染-已有36名官兵确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwQIOKyKOB10TdFEH7G6S201005&isfromapp=1) ![](assets/new.png)  
+- [2020-10-05-全球抗疫24小时丨世卫组织：全球10%的人口或已感染新冠病毒。](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz7jJSWUKeYDAtRj5byyv201006&isfromapp=1) ![](assets/new.png)  
+- [2020-10-05-联合国难民署探讨疫情下的人道救援-联合国难民高专呼吁：团结应对！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioWVAKCyG96L5cw2Rawx3201006&isfromapp=1) ![](assets/new.png)  
+- [2020-10-05-意大利众议长：两名众议员感染新冠病毒-众议院将继续工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHhrqL2Lcgo05e9qXX5rc201006&isfromapp=1) ![](assets/new.png)  
+- [2020-10-05-美媒：全美多地新冠疫情出现明显反弹趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLyjNwQmZvgKtkbfyBFqu201006&isfromapp=1) ![](assets/new.png)  
+- [2020-10-05-意大利新增新冠肺炎确诊病例2257例-累计确诊327586例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti26WR4Kw1KlxURGf0w6Ws201006&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,21 +1124,21 @@
 - [2020-10-05-信息物理系统中的安全控制算法](https://toutiao.io/k/sgo0jvm) ![](assets/new.png)  
 - [2020-10-05-微保的-Serverless-云函数实践之路](https://toutiao.io/k/weh95rw) ![](assets/new.png)  
 - [2020-10-05-交互式数据平台新思路：Livy](https://toutiao.io/k/rxfq4mj) ![](assets/new.png)  
-- [2020-10-05-COW-奶牛！Copy-On-Write-机制了解一下](https://toutiao.io/k/0o00zy6) ![](assets/new.png)  
 - [2020-10-05-VSCode-多进程架构和插件加载原理](https://toutiao.io/k/4mlkrsi) ![](assets/new.png)  
+- [2020-10-05-COW-奶牛！Copy-On-Write-机制了解一下](https://toutiao.io/k/0o00zy6) ![](assets/new.png)  
 - [2020-10-05-用-XGBoost-入门可解释机器学习](https://toutiao.io/k/dng2b1y) ![](assets/new.png)  
-- [2020-10-05-推荐-分库分表中间件的高可用实践](https://toutiao.io/k/3m3ovcd) ![](assets/new.png)  
-- [2020-10-05-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-05-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
-- [2020-10-05-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
+- [2020-10-05-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
 - [2020-10-05-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) ![](assets/new.png)  
-- [2020-10-05-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
-- [2020-10-05-推荐-面试：为了进阿里，必须掌握-HashMap-源码原理和面试题（图解版一）](https://toutiao.io/k/vl7rvfr) ![](assets/new.png)  
-- [2020-10-05-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
-- [2020-10-05-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
-- [2020-10-05-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
-- [2020-10-05-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
 - [2020-10-05-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-10-05-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) ![](assets/new.png)  
+- [2020-10-05-推荐-面试：为了进阿里，必须掌握-HashMap-源码原理和面试题（图解版一）](https://toutiao.io/k/vl7rvfr) ![](assets/new.png)  
+- [2020-10-05-推荐-分库分表中间件的高可用实践](https://toutiao.io/k/3m3ovcd) ![](assets/new.png)  
+- [2020-10-05-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
+- [2020-10-05-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
+- [2020-10-05-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-05-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
+- [2020-10-05-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
+- [2020-10-05-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

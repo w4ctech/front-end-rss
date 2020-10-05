@@ -1,12 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-05 23:12:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-05 23:24:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2020-10-05-新西兰奥克兰将于7日午夜降低防疫响应等级-民众生活基本恢复正常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirEbbBWtciS1AKrWPWdG2201005&isfromapp=1) 
-- [2020-10-05-韩国陆军发生群聚性感染-已有36名官兵确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwQIOKyKOB10TdFEH7G6S201005&isfromapp=1) 
+- [2020-10-05-全球抗疫24小时丨世卫组织：全球10%的人口或已感染新冠病毒。](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz7jJSWUKeYDAtRj5byyv201006&isfromapp=1) 
+- [2020-10-05-联合国难民署探讨疫情下的人道救援-联合国难民高专呼吁：团结应对！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioWVAKCyG96L5cw2Rawx3201006&isfromapp=1) 
+- [2020-10-05-意大利众议长：两名众议员感染新冠病毒-众议院将继续工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHhrqL2Lcgo05e9qXX5rc201006&isfromapp=1) 
+- [2020-10-05-美媒：全美多地新冠疫情出现明显反弹趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLyjNwQmZvgKtkbfyBFqu201006&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
 - [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
@@ -363,17 +365,17 @@
 - [2020-10-05-交互式数据平台新思路：Livy](https://toutiao.io/k/rxfq4mj) 
 - [2020-10-05-COW-奶牛！Copy-On-Write-机制了解一下](https://toutiao.io/k/0o00zy6) 
 - [2020-10-05-用-XGBoost-入门可解释机器学习](https://toutiao.io/k/dng2b1y) 
-- [2020-10-05-推荐-分库分表中间件的高可用实践](https://toutiao.io/k/3m3ovcd) 
-- [2020-10-05-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) 
-- [2020-10-05-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) 
+- [2020-10-05-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) 
 - [2020-10-05-推荐-20-张图搞懂-“分布式事务”](https://toutiao.io/k/keefsst) 
+- [2020-10-05-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) 
+- [2020-10-05-推荐-谈谈我所认识的分布式锁](https://toutiao.io/k/oqnmp3h) 
+- [2020-10-05-推荐-分库分表中间件的高可用实践](https://toutiao.io/k/3m3ovcd) 
+- [2020-10-05-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) 
+- [2020-10-05-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) 
+- [2020-10-05-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) 
+- [2020-10-05-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) 
 - [2020-10-05-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) 
 - [2020-10-05-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) 
-- [2020-10-05-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) 
-- [2020-10-05-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) 
-- [2020-10-05-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) 
-- [2020-10-05-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) 
-- [2020-10-05-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) 
 - [2020-10-05-【倒计时18天】三大技术训练营,引爆你的学习力!](https://sec.thief.one/article_content?a_id=e073323dd62c6c08cca80e59708ac3d1) 
 - [2020-10-05-共同维护网络清朗空间|重庆:“五强化五提升”全力贯彻落实《网络信...](https://sec.thief.one/article_content?a_id=7e178bb1afddf5e5b03be339a6d8806a) 
 - [2020-10-05-记一次实战xxe及弱口令爆破学习](https://sec.thief.one/article_content?a_id=8f0576498705f360cd86a39bc5795da2) 

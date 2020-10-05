@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-05 12:48:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-05 13:03:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -45,4 +45,3 @@
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
 - [2020-10-04-一文总结redux、react-redux、redux-thunk、redux-sage-|-掘金技术征文-双节特别篇](https://juejin.im/post/6880011662926364679) 
 - [2020-10-04-基于-React,-如何实现全局提示？](https://juejin.im/post/6879796850438717453) 
-- [2020-10-05-draftjs-和-react-quill-怎么选](https://www.v2ex.com/t/712620) 

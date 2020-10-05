@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-05 10:49:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-05 11:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-05-使用美区-icloud-预约天才吧失败](https://www.v2ex.com/t/712653) 
+- [2020-10-05-深圳南山-全职-直招-20-40K-Covariant.AI-深圳团队招聘全栈工程师](https://www.v2ex.com/t/712651) 
 - [2020-10-05-云原生公私混合企业网](https://www.v2ex.com/t/712649) 
 - [2020-10-05-清仓大处理，请联系老板！](https://www.v2ex.com/t/712647) 
 - [2020-10-05-Adobe-creative-cloud-1-年兑换码](https://www.v2ex.com/t/712645) 
@@ -36,6 +38,3 @@
 - [2020-10-05-深圳-哪家星巴克是-2-层的-？-楼下一层-楼上一层](https://www.v2ex.com/t/712606) 
 - [2020-10-05-Hacktoberfest-by-DigitalOcean-带来大量无意义的-PR](https://www.v2ex.com/t/712605) 
 - [2020-10-05-最新版微信相册新增了最近照片权限](https://www.v2ex.com/t/712604) 
-- [2020-10-05-为了方便添加公钥到各个机器,-公布公钥有风险吗](https://www.v2ex.com/t/712603) 
-- [2020-10-05-淘宝上的国行-iphone6,7-可以买吗？](https://www.v2ex.com/t/712602) 
-- [2020-10-05-请帮忙推荐一款-4G-上网设备](https://www.v2ex.com/t/712601) 

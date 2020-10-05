@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-05 08:38:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-05 08:47:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-05-undefined-reference-to-'__imp_CreateBitmap'](https://www.v2ex.com/t/712629) 
 - [2020-10-05-问老铁们一个关于搭建服务治理的问题](https://www.v2ex.com/t/712628) 
 - [2020-10-05-庆祝双节，腾讯云-云产品更优惠](https://www.v2ex.com/t/712627) 
 - [2020-10-05-苹果商店在售应用-FaceMagi-项目转让或源码出售](https://www.v2ex.com/t/712625) 
@@ -42,5 +43,3 @@
 - [2020-10-05-未来会不会有比-WebJavaScript系更好的跨平台方案？](https://www.v2ex.com/t/712584) 
 - [2020-10-05-值得买的优惠信息推送-意见收集](https://www.v2ex.com/t/712583) 
 - [2020-10-05-想低成本弄一个局域网-NAS-用来放文件和备份照片，最佳方案是什么](https://www.v2ex.com/t/712582) 
-- [2020-10-05-🔥新加坡-技术移民机会纽交所上市互联网公司，寻找后台技术-leader/高级专家，数据基础架构-leader/高级专家，移动端安全技术专家，云平台数据库-RDS-开发...](https://www.v2ex.com/t/712581) 
-- [2020-10-05-Laravel-作者-taylor-因为-Jetstream-招致不少批评](https://www.v2ex.com/t/712579) 

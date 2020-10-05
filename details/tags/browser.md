@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-05 11:12:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-05 11:24:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -18,6 +18,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-05-MatRiCT:抗量子安全和隐私的高效区块链协议](https://sec.thief.one/article_content?a_id=d6fce127d19f32e2144ebff29c7b280f) 
 - [2020-10-05-把网络安全意识带回家第三话:-给家长设个安全的密码](https://sec.thief.one/article_content?a_id=1ea61c188f3e1c5375abf8cf3e68fb34) 
 - [2020-10-04-对-Chamberlain-MyQ-车库门智能开关的安全性分析](https://sec.thief.one/article_content?a_id=08f36a588e16d345f8dc4b555a15b5a9) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-05 10:36:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-05 10:47:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-05-云原生公私混合企业网](https://www.v2ex.com/t/712649) 
 - [2020-10-05-清仓大处理，请联系老板！](https://www.v2ex.com/t/712647) 
 - [2020-10-05-Adobe-creative-cloud-1-年兑换码](https://www.v2ex.com/t/712645) 
 - [2020-10-05-Apple-Watch「广播」用不了？](https://www.v2ex.com/t/712644) 
@@ -38,6 +39,3 @@
 - [2020-10-05-为了方便添加公钥到各个机器,-公布公钥有风险吗](https://www.v2ex.com/t/712603) 
 - [2020-10-05-淘宝上的国行-iphone6,7-可以买吗？](https://www.v2ex.com/t/712602) 
 - [2020-10-05-请帮忙推荐一款-4G-上网设备](https://www.v2ex.com/t/712601) 
-- [2020-10-05-5GHz-WiFI-搜索慢-甚至搜不到](https://www.v2ex.com/t/712600) 
-- [2020-10-05-国庆想陪父母看场电影，有-V-友能推荐国庆档的电影吗？](https://www.v2ex.com/t/712599) 
-- [2020-10-05-tar-备份总是提示-file-changed-as-we-read-it](https://www.v2ex.com/t/712598) 

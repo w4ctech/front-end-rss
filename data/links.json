@@ -4145,7 +4145,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4320,6 +4320,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "问个 Gatling 的问题",
+        "link": "https://www.v2ex.com/t/712713",
+        "date": "2020-10-05"
+      },
+      {
         "title": "[深圳大学城]招聘开发(初创公司)",
         "link": "https://www.v2ex.com/t/712712",
         "date": "2020-10-05"
@@ -4483,11 +4488,6 @@
         "title": "第四期德国 IT 岗位招聘之 ERP-Programmer, DevOps Engineer, C# / VisualBasic.Net developer",
         "link": "https://www.v2ex.com/t/712664",
         "date": "2020-10-05"
-      },
-      {
-        "title": "等 matepad pro2 还是现在购入 iPad pro？",
-        "link": "https://www.v2ex.com/t/712663",
-        "date": "2020-10-05"
       }
     ]
   },
@@ -4644,28 +4644,8 @@
         "date": "2020-10-05"
       },
       {
-        "title": "[推荐] Spring Boot 启动原理",
-        "link": "https://toutiao.io/k/itvkvui",
-        "date": "2020-10-05"
-      },
-      {
-        "title": "[推荐] 20 张图搞懂 “分布式事务”",
-        "link": "https://toutiao.io/k/keefsst",
-        "date": "2020-10-05"
-      },
-      {
-        "title": "[推荐] 如何设计一个牛逼的 API 接口",
-        "link": "https://toutiao.io/k/j1aredh",
-        "date": "2020-10-05"
-      },
-      {
         "title": "[推荐] 谈谈我所认识的分布式锁",
         "link": "https://toutiao.io/k/oqnmp3h",
-        "date": "2020-10-05"
-      },
-      {
-        "title": "[推荐] 面试：为了进阿里，必须掌握 HashMap 源码原理和面试题（图解版一）",
-        "link": "https://toutiao.io/k/vl7rvfr",
         "date": "2020-10-05"
       },
       {
@@ -4674,8 +4654,8 @@
         "date": "2020-10-05"
       },
       {
-        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
-        "link": "https://toutiao.io/k/yabo548",
+        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
+        "link": "https://toutiao.io/k/rd2k0cu",
         "date": "2020-10-05"
       },
       {
@@ -4684,28 +4664,13 @@
         "date": "2020-10-05"
       },
       {
-        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
-        "link": "https://toutiao.io/k/ur64xby",
-        "date": "2020-10-05"
-      },
-      {
-        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
-        "link": "https://toutiao.io/k/xdryz90",
-        "date": "2020-10-05"
-      },
-      {
-        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
-        "link": "https://toutiao.io/k/rd2k0cu",
-        "date": "2020-10-05"
-      },
-      {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
-        "date": "2020-10-05"
-      },
-      {
         "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
         "link": "https://toutiao.io/k/dufazik",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "[推荐] 如何设计一个牛逼的 API 接口",
+        "link": "https://toutiao.io/k/j1aredh",
         "date": "2020-10-05"
       },
       {
@@ -4714,8 +4679,43 @@
         "date": "2020-10-05"
       },
       {
+        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
+        "link": "https://toutiao.io/k/ur64xby",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
+        "link": "https://toutiao.io/k/xdryz90",
+        "date": "2020-10-05"
+      },
+      {
         "title": "[推荐] 架构制图：工具与方法论",
         "link": "https://toutiao.io/k/pzy6sbw",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "[推荐] Spring Boot 启动原理",
+        "link": "https://toutiao.io/k/itvkvui",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
+        "link": "https://toutiao.io/k/yabo548",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，必须掌握 HashMap 源码原理和面试题（图解版一）",
+        "link": "https://toutiao.io/k/vl7rvfr",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "[推荐] 20 张图搞懂 “分布式事务”",
+        "link": "https://toutiao.io/k/keefsst",
         "date": "2020-10-05"
       }
     ]

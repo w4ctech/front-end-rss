@@ -1613,111 +1613,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/8801",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/8801",
     "title": "前端宇宙",
     "link": "https://www.ershicimi.com/a/8801",
-    "items": [
-      {
-        "title": "当一个程序员飞速敲键盘时，他在干嘛？",
-        "link": "https://www.ershicimi.com/p/9088ae54fbb2414d7061e89586dc79f7",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "7 个进大厂的必备的技能",
-        "link": "https://www.ershicimi.com/p/950c1d0510ca68621a41eea368caa3d1",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "不用try catch，如何机智的捕获错误",
-        "link": "https://www.ershicimi.com/p/ef8836a398c98f900987145946f1002a",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "一位用动画自学前端的小伙子！",
-        "link": "https://www.ershicimi.com/p/a4781951b30e04f2f6ba3770045ce0b1",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "Flutter 完成全平台制霸：实现 Windows 应用支持",
-        "link": "https://www.ershicimi.com/p/f95d56e6e84c38133b2b0edaa76e00c1",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "什么是架构师的必备技能？",
-        "link": "https://www.ershicimi.com/p/389248df6844e601db707f1b8f89c5b3",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "React 17.0.0-rc.2  版本发布，引入全新的 JSX 转换",
-        "link": "https://www.ershicimi.com/p/959d75c0d983c8d19dcb1a71ae409e93",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "10个不那么知名但很实用的Web API",
-        "link": "https://www.ershicimi.com/p/15706385a21ea4468f4255f2b5fb5efb",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "尤大 4 天前发在 GitHub 上的 vue-lit 是啥？",
-        "link": "https://www.ershicimi.com/p/b91773fa4e33434018123b80880df8a5",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "竟然还用“土方法”学前端，怪不得你写不出来！ ？",
-        "link": "https://www.ershicimi.com/p/04ef2172b65d298e386a86c308a2e8cd",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "可能是你见过最好的 React Hooks 库",
-        "link": "https://www.ershicimi.com/p/873db08affcdb5d0bcfd4599fad63342",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "【官宣】Vue 3.0 发布！",
-        "link": "https://www.ershicimi.com/p/d7601950f4eec8df0ada2f62fe534acd",
-        "date": "2020-09-19"
-      },
-      {
-        "title": "揭秘阿里、华为、字节跳动等大厂技术实践案例，学习超强避坑指南！",
-        "link": "https://www.ershicimi.com/p/ac256244974f2035b6c4e0ee1641b887",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "国外那些富有创意的 404 页面",
-        "link": "https://www.ershicimi.com/p/59adf442beb89f9f47e0962e7d80ddb6",
-        "date": "2020-09-18"
-      },
-      {
-        "title": "2020年9月程序员工资统计",
-        "link": "https://www.ershicimi.com/p/322f9313471b7ac17e8ceb2655053e1f",
-        "date": "2020-09-16"
-      },
-      {
-        "title": "你不知道的浏览器渲染原理",
-        "link": "https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "7 个进大厂的必备的技能",
-        "link": "https://www.ershicimi.com/p/2a00b424cb08c110f66024e9a62621d2",
-        "date": "2020-09-15"
-      },
-      {
-        "title": "【适合收藏】为了多点时间陪女朋友，我向BAT大佬跪求了这15条JS技巧",
-        "link": "https://www.ershicimi.com/p/377a93f8f8487721b0841aef9d394740",
-        "date": "2020-09-13"
-      },
-      {
-        "title": "推荐几个涨姿势的公众号",
-        "link": "https://www.ershicimi.com/p/0b2316c694f5edcdc48d49bca57a6c5d",
-        "date": "2020-09-12"
-      },
-      {
-        "title": "TypeScript高级类型备忘录（附示例）",
-        "link": "https://www.ershicimi.com/p/b309cb48342fdcd112a1bd62674c8d90",
-        "date": "2020-09-10"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10641",
@@ -4145,7 +4044,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4319,6 +4218,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "Intellij idea class 文件反编译的一个问题",
+        "link": "https://www.v2ex.com/t/712800",
+        "date": "2020-10-06"
+      },
       {
         "title": "spring security oauth2 过时",
         "link": "https://www.v2ex.com/t/712798",
@@ -4649,38 +4553,23 @@
         "date": "2020-10-06"
       },
       {
-        "title": "[推荐] 面试：为了进阿里，必须掌握 HashMap 源码原理和面试题（图解版一）",
-        "link": "https://toutiao.io/k/vl7rvfr",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
-        "link": "https://toutiao.io/k/23m4ly1",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
-        "link": "https://toutiao.io/k/s2yudly",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
-        "link": "https://toutiao.io/k/ur64xby",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "[推荐] 谈谈我所认识的分布式锁",
-        "link": "https://toutiao.io/k/oqnmp3h",
-        "date": "2020-10-06"
-      },
-      {
         "title": "[推荐] 如何设计一个牛逼的 API 接口",
         "link": "https://toutiao.io/k/j1aredh",
         "date": "2020-10-06"
       },
       {
-        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
-        "link": "https://toutiao.io/k/rd2k0cu",
+        "title": "[推荐] 20 张图搞懂 “分布式事务”",
+        "link": "https://toutiao.io/k/keefsst",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "[推荐] 面试：为了进阿里，必须掌握 HashMap 源码原理和面试题（图解版一）",
+        "link": "https://toutiao.io/k/vl7rvfr",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "[推荐] 分库分表中间件的高可用实践",
+        "link": "https://toutiao.io/k/3m3ovcd",
         "date": "2020-10-06"
       },
       {
@@ -4689,13 +4578,28 @@
         "date": "2020-10-06"
       },
       {
+        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
+        "link": "https://toutiao.io/k/s2yudly",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "[推荐] 谈谈我所认识的分布式锁",
+        "link": "https://toutiao.io/k/oqnmp3h",
+        "date": "2020-10-06"
+      },
+      {
         "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
         "link": "https://toutiao.io/k/xdryz90",
         "date": "2020-10-06"
       },
       {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
+        "link": "https://toutiao.io/k/rd2k0cu",
         "date": "2020-10-06"
       },
       {
@@ -4709,18 +4613,18 @@
         "date": "2020-10-06"
       },
       {
-        "title": "[推荐] 20 张图搞懂 “分布式事务”",
-        "link": "https://toutiao.io/k/keefsst",
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
         "date": "2020-10-06"
       },
       {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
+        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
+        "link": "https://toutiao.io/k/ur64xby",
         "date": "2020-10-06"
       },
       {
-        "title": "[推荐] 分库分表中间件的高可用实践",
-        "link": "https://toutiao.io/k/3m3ovcd",
+        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
+        "link": "https://toutiao.io/k/23m4ly1",
         "date": "2020-10-06"
       }
     ]

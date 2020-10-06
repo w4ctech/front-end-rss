@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-06 02:28:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-06 02:34:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,9 +7,9 @@
 
 
 
+- [2020-09-28-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24) 
 - [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
 - [2020-09-25-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-05-MatRiCT:抗量子安全和隐私的高效区块链协议](https://sec.thief.one/article_content?a_id=d6fce127d19f32e2144ebff29c7b280f) 
 - [2020-10-05-把网络安全意识带回家第三话:-给家长设个安全的密码](https://sec.thief.one/article_content?a_id=1ea61c188f3e1c5375abf8cf3e68fb34) 
 - [2020-10-04-对-Chamberlain-MyQ-车库门智能开关的安全性分析](https://sec.thief.one/article_content?a_id=08f36a588e16d345f8dc4b555a15b5a9) 

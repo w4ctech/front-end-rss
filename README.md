@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-06 18:29:07，:rocket: 更新条数: +989， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-06 18:36:42，:rocket: 更新条数: +990， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-06-关于-macOS-虚拟机](https://www.v2ex.com/t/712856) ![](assets/new.png)  
 - [2020-10-06-杭州驻场岗位-Java-技术专家](https://www.v2ex.com/t/712855) ![](assets/new.png)  
 - [2020-10-06-关于咸鱼的短链接](https://www.v2ex.com/t/712854) ![](assets/new.png)  
 - [2020-10-06-13-号发布会会有-ARM-Mac-吗](https://www.v2ex.com/t/712853) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-06-这种暖色美颜蛮好看，是滤镜还是摄像头实现的？](https://www.v2ex.com/t/712833) ![](assets/new.png)  
 - [2020-10-06-日本交通卡-PASMO（支持中国银联卡-Apple-Pay）](https://www.v2ex.com/t/712832) ![](assets/new.png)  
 - [2020-10-06-Java-培训即将结束](https://www.v2ex.com/t/712831) ![](assets/new.png)  
-- [2020-10-06-不懂就要问，请教-CLion-下如何切换调试的进程？](https://www.v2ex.com/t/712829) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,18 +1127,18 @@
 - [2020-10-06-信息物理系统中的安全控制算法](https://toutiao.io/k/sgo0jvm) ![](assets/new.png)  
 - [2020-10-06-用-XGBoost-入门可解释机器学习](https://toutiao.io/k/dng2b1y) ![](assets/new.png)  
 - [2020-10-06-交互式数据平台新思路：Livy](https://toutiao.io/k/rxfq4mj) ![](assets/new.png)  
-- [2020-10-06-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-06-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
-- [2020-10-06-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
-- [2020-10-06-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-06-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
-- [2020-10-06-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
 - [2020-10-06-推荐-分库分表中间件的高可用实践](https://toutiao.io/k/3m3ovcd) ![](assets/new.png)  
-- [2020-10-06-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
+- [2020-10-06-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
 - [2020-10-06-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-10-06-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) ![](assets/new.png)  
 - [2020-10-06-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
 - [2020-10-06-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-06-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
+- [2020-10-06-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-06-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-10-06-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
 - [2020-10-06-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
+- [2020-10-06-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -4145,7 +4145,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4319,6 +4319,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "关于 macOS 虚拟机",
+        "link": "https://www.v2ex.com/t/712856",
+        "date": "2020-10-06"
+      },
       {
         "title": "[杭州驻场岗位] Java 技术专家",
         "link": "https://www.v2ex.com/t/712855",
@@ -4649,28 +4654,8 @@
         "date": "2020-10-06"
       },
       {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
-        "link": "https://toutiao.io/k/xdryz90",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
-        "link": "https://toutiao.io/k/yabo548",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
-        "link": "https://toutiao.io/k/rd2k0cu",
+        "title": "[推荐] 分库分表中间件的高可用实践",
+        "link": "https://toutiao.io/k/3m3ovcd",
         "date": "2020-10-06"
       },
       {
@@ -4679,18 +4664,13 @@
         "date": "2020-10-06"
       },
       {
-        "title": "[推荐] 分库分表中间件的高可用实践",
-        "link": "https://toutiao.io/k/3m3ovcd",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
-        "link": "https://toutiao.io/k/23m4ly1",
-        "date": "2020-10-06"
-      },
-      {
         "title": "[推荐] 架构制图：工具与方法论",
         "link": "https://toutiao.io/k/pzy6sbw",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "[推荐] 如何产出规范、安全、高质量的代码？",
+        "link": "https://toutiao.io/k/rd2k0cu",
         "date": "2020-10-06"
       },
       {
@@ -4704,13 +4684,38 @@
         "date": "2020-10-06"
       },
       {
-        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
-        "link": "https://toutiao.io/k/s2yudly",
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
         "date": "2020-10-06"
       },
       {
         "title": "[推荐] 如何设计一个牛逼的 API 接口",
         "link": "https://toutiao.io/k/j1aredh",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
+        "link": "https://toutiao.io/k/23m4ly1",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
+        "link": "https://toutiao.io/k/s2yudly",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
+        "link": "https://toutiao.io/k/xdryz90",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
+        "link": "https://toutiao.io/k/yabo548",
         "date": "2020-10-06"
       }
     ]

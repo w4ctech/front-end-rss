@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-06 19:48:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-06 20:14:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2020-10-06-怎么提升编程内功呢](https://www.v2ex.com/t/712812) 
 - [2020-10-06-这个图片是什么-app-的](https://www.v2ex.com/t/712811) 
 - [2020-10-06-杭州-浙江单创-商城线，核心业务线，有大量-Java-开发岗位。](https://www.v2ex.com/t/712810) 
-- [2020-10-06-一个-spring-boot-starter-nobug-——-佛祖保佑，程序永无-bug](https://www.v2ex.com/t/712809) 

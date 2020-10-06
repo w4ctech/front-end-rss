@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-06 04:04:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-06 04:15:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -19,7 +19,6 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-09-22-摸金校尉聊浏览器渲染](https://www.ershicimi.com/p/9339cf52f601bafc74e228301225ac2c) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-28-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/ad5ba4bf1e6e0344f52baf557474017b) 
 - [2020-09-25-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/4813363bd7395275267f50297dbd08d6) 
 - [2020-09-28-英特尔与Science联袂推出“架构师成长计划”，顶级架构师的修炼手册｜-Q推荐](https://www.ershicimi.com/p/72ee0cab22df0112d581baeadd02816e) 

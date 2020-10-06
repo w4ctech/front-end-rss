@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-06 04:04:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-06 04:15:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -57,8 +57,6 @@
 - [2020-09-27-大型-web-应用公共组件架构思考](https://www.ershicimi.com/p/565d0b3bb5d2359fa7ee8b6f818f1727) 
 - [2020-09-23-写好-JS-条件语句的-5-条守则](https://www.ershicimi.com/p/441c1078081ce1941105510ee6904490) 
 - [2020-09-21-从一个需求说起，H5实现万能返回](https://www.ershicimi.com/p/ff4ca3b47d082d83ed6121fab2a377e1) 
-- [2020-09-28-深度解读《新版-JavaScript-红宝书高程第四版》](https://www.ershicimi.com/p/2bc90de1c9eeca332a6db945fea20956) 
-- [2020-09-09-详解-JS-压缩图片](https://www.ershicimi.com/p/cc76a353eeff86a9c5f8546606f1ac9e) 
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
@@ -97,11 +95,11 @@
 - [2020-09-21-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/5dec6d20ee78a818f19d8e2aeb310632) 
 - [2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b) 
 - [2020-09-07-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d) 
-- [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-09-29-同步与异步Python有何不同？](https://www.ershicimi.com/p/288551f07b1e6a39912ff279e7bb4a3c) 
 - [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
 - [2020-09-05-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/6df8ec8f180d99efe64faf4d4c8dc6d3) 
 - [2020-09-04-玩转-CSS-变量](https://www.ershicimi.com/p/bdd8b63bd0d792fe265f3f929077dda8) 
+- [2020-10-05-「JavaScript基础」手把手教你理解作用域链作用域,作用域链,数据存取性能优化,闭包](https://juejin.im/post/6880335767839703053) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

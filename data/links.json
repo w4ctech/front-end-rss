@@ -11,28 +11,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
-        "title": "林郑月娥：特区政府会继续揪出教育界害群之马",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWtyLA4oHF5ep1hHh4bu201006&isfromapp=1",
+        "title": "国家卫健委：6日新增新冠肺炎确诊病例7例 均为境外输入病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik8BxmgASQvd4qMvOMaxn201007&isfromapp=1",
+        "date": "2020-10-07"
+      },
+      {
+        "title": "上海6日新增1例境外输入新冠肺炎确诊病例 新增治愈出院2例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid816dneFPMS4C57PqpST201007&isfromapp=1",
         "date": "2020-10-06"
       },
       {
-        "title": "林郑月娥：正研究让身处内地香港居民豁免返港后的强制检疫",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZvC7aBvbwLVQqmi8q54B201006&isfromapp=1",
+        "title": "全球抗疫24小时丨美军最高将领与确诊患者密接正隔离 希腊一移民船上25人新冠病毒测试呈阳性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPg9SMpuV1uH69juncQj5201007&isfromapp=1",
         "date": "2020-10-06"
       },
       {
-        "title": "香港新增8例新冠肺炎确诊病例 5例为本土病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYMVQFldqq7GBcWFg1hox201006&isfromapp=1",
+        "title": "捷克新增3119例新冠肺炎确诊病例 5日起进入紧急状态",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8YklBHfRxGPhi3S46aDl201006&isfromapp=1",
         "date": "2020-10-06"
       },
       {
-        "title": "我的中国故事丨萨拉：我的家人在武汉",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI7U2Su4tqo4YwK1MEhek201006&isfromapp=1",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "美国民众在白宫外摆2万把椅子悼念病亡者",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivq1WXyOQ9KHzEnBVnynB201006&isfromapp=1",
+        "title": "尼泊尔首都圈疫情严峻 卫生专家建议民众避免前往加德满都谷地",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidiwCIa022Vh8u04Tzejj201006&isfromapp=1",
         "date": "2020-10-06"
       }
     ]
@@ -1827,10 +1827,111 @@
     "link": "https://www.ershicimi.com/a/10641"
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10108",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10108",
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
-    "items": []
+    "items": [
+      {
+        "title": "手把手教你搭建一个灰度发布环境",
+        "link": "https://www.ershicimi.com/p/84a31fea80e30eedd0ba0d3354f4cd6a",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "SourceMap知多少：介绍与实践",
+        "link": "https://www.ershicimi.com/p/e0dc4be6491a99a016b5e524976168c6",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "Vue3+TypeScript 完整项目上手教程",
+        "link": "https://www.ershicimi.com/p/ae75eca510f83b07000b4a9d70a66173",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "用TypeScript装饰器实现一个简单的依赖注入",
+        "link": "https://www.ershicimi.com/p/65349519ed828ae1ae8efbc13b7b23c1",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "能读React源码的人，很吃香！",
+        "link": "https://www.ershicimi.com/p/2a9e313f96cf7ad52cbd559da8801389",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "腾讯新闻前端团队：深入理解前端性能监控",
+        "link": "https://www.ershicimi.com/p/fd031a7c201d4d2d94d0750bedf5df48",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "前端赋能业务 - Node实现自动化部署平台",
+        "link": "https://www.ershicimi.com/p/b51534a5fcb534f73c718f29b4aad1a3",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "大型 web 应用公共组件架构思考",
+        "link": "https://www.ershicimi.com/p/565d0b3bb5d2359fa7ee8b6f818f1727",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "揭秘几个强得不得了的公众号",
+        "link": "https://www.ershicimi.com/p/f38cec38603b8351a1a3220269ffdfba",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "前端需知的CDN加速原理",
+        "link": "https://www.ershicimi.com/p/e02fe38cd5d9b095db51e90c0f1f6d23",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "一杯茶的时间，上手 Express 框架开发",
+        "link": "https://www.ershicimi.com/p/921228937c95cf4885d9edb75b47fd93",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "从 4 个面试题了解「浏览器的垃圾回收」",
+        "link": "https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "从一道面试题谈谈对 EventLoop 的理解",
+        "link": "https://www.ershicimi.com/p/9973b3884e5b9b38f52b6736701be973",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "祖传技术栈改造，从照抄大公司作业开始",
+        "link": "https://www.ershicimi.com/p/7f00451346be210b276df862a8192153",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "写好 JS 条件语句的 5 条守则",
+        "link": "https://www.ershicimi.com/p/441c1078081ce1941105510ee6904490",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "划线高亮和插入笔记的技术实现",
+        "link": "https://www.ershicimi.com/p/b738a93f725c023805a150d615ab5bc0",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "搞懂 JWT 这个知识点",
+        "link": "https://www.ershicimi.com/p/4411c9e4fbf6914b8a38b8c14e037e29",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "腾讯招大前端工程师50k-80k？大前端现在也太火了！",
+        "link": "https://www.ershicimi.com/p/bc3d024876051ce3a2e66ea3e97a4f3f",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "从一个需求说起，H5实现万能返回",
+        "link": "https://www.ershicimi.com/p/ff4ca3b47d082d83ed6121fab2a377e1",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "CNodejs每日新闻周刊｜第 6 期",
+        "link": "https://www.ershicimi.com/p/86cd30d089b03704047fb64340fed325",
+        "date": "2020-09-20"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10545",
@@ -3255,161 +3356,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/jskou/0",
+    "rss": "https://rss.shab.fun/jskou/0",
     "title": "前端艺术家&&飞冰早报",
     "link": "http://fe.jskou.com/",
-    "items": [
-      {
-        "title": "【canvas】动画原理の万有引力定律",
-        "link": "https://juejin.im/post/5e213c83f265da3e006b3fc0",
-        "date": "2020-01-18"
-      },
-      {
-        "title": "JavaScript️可视化：事件循环",
-        "link": "https://juejin.im/post/5e218b8af265da3e121824eb",
-        "date": "2020-01-18"
-      },
-      {
-        "title": "JavaScript的强语言之路—另类的JSON序列化与反序列化",
-        "link": "https://juejin.im/post/5e1f23d76fb9a02fec664828",
-        "date": "2020-01-18"
-      },
-      {
-        "title": "自动化部署的一小步，前端搬砖的一大步",
-        "link": "https://juejin.im/post/5e206168f265da3e2b2d7560",
-        "date": "2020-01-18"
-      },
-      {
-        "title": "让App热更多个RN项目的解决方案",
-        "link": "https://juejin.im/post/5df6ecec51882512533a876b",
-        "date": "2019-12-18"
-      },
-      {
-        "title": "Vue Testing Crash Course",
-        "link": "https://dev.to/blacksonic/vue-testing-crash-course-59kl",
-        "date": "2019-12-18"
-      },
-      {
-        "title": "淘宝技术架构演进",
-        "link": "https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ",
-        "date": "2019-12-16"
-      },
-      {
-        "title": "Webpack打包改造--插入自定义内容",
-        "link": "https://juejin.im/post/5df4a220f265da33de3a74b0",
-        "date": "2019-12-16"
-      },
-      {
-        "title": "b站全灰，但我一下把它弄回来了——css 滤镜",
-        "link": "https://juejin.im/post/5df3a049f265da33f8652882",
-        "date": "2019-12-16"
-      },
-      {
-        "title": "以中国传统的孔子和老子的思想来分析忍者代码",
-        "link": "https://juejin.im/post/5df06050e51d4557f26e52e3",
-        "date": "2019-12-16"
-      },
-      {
-        "title": "「从模板消息改版订阅消息」小程序推送",
-        "link": "https://juejin.im/post/5df03c3551882512243f9292",
-        "date": "2019-12-12"
-      },
-      {
-        "title": "Flexbox：使用 Auto Margin 对齐",
-        "link": "https://juejin.im/post/5dedb2fd6fb9a016323d7202",
-        "date": "2019-12-12"
-      },
-      {
-        "title": "9102 年，蚂蚁金服前端是怎么写图表的?",
-        "link": "https://zhuanlan.zhihu.com/p/93963320",
-        "date": "2019-12-09"
-      },
-      {
-        "title": "图表制作可以很简单 - 图表魔方 ChartCube",
-        "link": "https://zhuanlan.zhihu.com/p/94269648",
-        "date": "2019-12-09"
-      },
-      {
-        "title": "微前端的核心价值",
-        "link": "https://zhuanlan.zhihu.com/p/95085796",
-        "date": "2019-12-06"
-      },
-      {
-        "title": "解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）",
-        "link": "https://juejin.im/post/5de6474bf265da33af512598",
-        "date": "2019-12-06"
-      },
-      {
-        "title": "你可能不知道的 JavaScript 代码 Chrome 调试方法",
-        "link": "https://zh.javascript.info/debugging-chrome",
-        "date": "2019-12-06"
-      },
-      {
-        "title": "crypto 前后端加解密简单了解",
-        "link": "https://juejin.im/post/5de70298f265da33b12e8221",
-        "date": "2019-12-05"
-      },
-      {
-        "title": "How to choose a JavaScript code editor",
-        "link": "https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/",
-        "date": "2019-12-05"
-      },
-      {
-        "title": "京喜首页（微信购物入口）跨端开发与优化实践",
-        "link": "https://juejin.im/post/5de66e916fb9a015fd699b46",
-        "date": "2019-12-05"
-      },
-      {
-        "title": "Node.js项目TypeScript改造指南",
-        "link": "https://juejin.im/post/5de4867f51882573135415dd",
-        "date": "2019-12-04"
-      },
-      {
-        "title": "EHTML: HTML Framework that allows you write no JavaScript code at all.",
-        "link": "https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173",
-        "date": "2019-12-04"
-      },
-      {
-        "title": "一起console.log()引发的血案",
-        "link": "https://juejin.im/post/5de3ed6e6fb9a0717f5af175",
-        "date": "2019-12-03"
-      },
-      {
-        "title": "从3 个方面增加代码可读性和可维护性",
-        "link": "https://juejin.im/post/5de3b7c4e51d45777714f34f",
-        "date": "2019-12-03"
-      },
-      {
-        "title": "api请求时长与请求数据类型的设计",
-        "link": "https://juejin.im/post/5de28460e51d4532f87096e2",
-        "date": "2019-12-02"
-      },
-      {
-        "title": "（译）JavaScript的工作原理：事件循环和异步编程的兴起 + 5 种 async/await 更好的编码方式",
-        "link": "https://juejin.im/post/5ddf3dce6fb9a071a254721b",
-        "date": "2019-12-02"
-      },
-      {
-        "title": "JavaScript 是怎么工作的：内存管理及怎么处理四种常见的内存泄露",
-        "link": "https://juejin.im/post/5de08bd26fb9a071bb7cab56",
-        "date": "2019-12-02"
-      },
-      {
-        "title": "没有用过这些插件，别说你在用vscode",
-        "link": "https://juejin.im/post/5dc97976e51d45066f3a7b6b",
-        "date": "2019-11-13"
-      },
-      {
-        "title": "云凤蝶可视化搭建的推导与实现",
-        "link": "https://zhuanlan.zhihu.com/p/90746742",
-        "date": "2019-11-13"
-      },
-      {
-        "title": "动画：面试官问我如何在 1 亿数据中快速查找某一整数？",
-        "link": "https://juejin.im/post/5dc786026fb9a04a7847f56a",
-        "date": "2019-11-13"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/docschina/jsweekly",

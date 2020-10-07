@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-07 16:30:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-07 16:33:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -12,3 +12,4 @@
 - [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) 
 - [2020-10-07-Docker小试牛刀：前端应用容器化](https://juejin.im/post/6880835449305661454) 
 - [2020-10-07-Docker简单上手01](https://juejin.im/post/6880815747900440590) 
+- [2020-10-07-請問-Kubernetes-有機制刪除-exited-container-嗎，如果重啟了-Docker-服務](https://www.v2ex.com/t/712947) 

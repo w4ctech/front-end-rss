@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-07 09:47:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-07 10:04:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -15,7 +15,6 @@
 - [2020-09-28-中间件业务在网易轻舟容器平台的性能调优实践](https://www.ershicimi.com/p/3ce8a4164f290e9423a8931c495bee71) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-10-07-最近-v-站打开超级慢，有时候十多秒了还在加载中](https://www.v2ex.com/t/712894) 
-- [2020-10-07-Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-07-Apache-Pulsar-与-Kafka-在金融场景下的性能对比分析](https://toutiao.io/k/3bktoh2) 
 - [2020-10-07-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) 
 - [2020-10-02-网结同心-e路同行|广东:强化统筹-突出重点-优化品牌-广泛宣传——探...](https://sec.thief.one/article_content?a_id=a9a9defbc3ad8bc3f03bc903c08a9b9c) 

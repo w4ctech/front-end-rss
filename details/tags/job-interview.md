@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-07 09:47:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-07 10:04:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -36,5 +36,6 @@
 - [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-09-29-还不会回答Spring-Boot和Spring-MVC的关系？大厂Java高级面试官告诉你答案！](https://www.ershicimi.com/p/4efd122c679009700ede88d4220de926) 
+- [2020-10-07-🔥🔥🔥新加坡-技术移民机会新加坡知名互联网公司，招聘高级前端，-DevOps-工程师，-QA-工程师，-DBA-工程师，-iOS,安卓开发等方向，另寻高级架构专家...](https://www.v2ex.com/t/712932) 
 - [2020-10-07-请大牛们帮忙指导下简历，一年-Java-经验，节后想面大厂，怎么改一下简历才能更容易获得面试机会？](https://www.v2ex.com/t/712919) 
 - [2020-10-07-B站面试之旅](https://toutiao.io/k/sf65rqv) 

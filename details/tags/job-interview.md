@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-07 11:12:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-07 11:24:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2020-09-30-前端面试绕不开的三大难关，这次有攻略了！](https://www.ershicimi.com/p/5b8175b6750e9a66966fccf5827086c4) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
@@ -30,7 +29,11 @@
 - [2020-09-25-一年前端的面试分享](https://www.ershicimi.com/p/f948eeee3503d62d806ac211a35a8817) 
 - [2020-09-19-关于面试的一点心得](https://www.ershicimi.com/p/26518953e3cc30c299b44999f33c71c3) 
 - [2020-09-10-头条面试题：计算目录树的深度](https://www.ershicimi.com/p/df9ddee4650f0c9ab3dd7df235232dab) 
+- [2020-08-19-政采云前端团队-2021-届校园招聘正式启动！](https://www.ershicimi.com/p/e6224e602ea6f5b1c150bb9593b65194) 
+- [2020-06-18-政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c) 
+- [2020-09-24-从一道面试题谈谈对-EventLoop-的理解](https://www.ershicimi.com/p/9973b3884e5b9b38f52b6736701be973) 
 - [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
-- [2020-09-29-还不会回答Spring-Boot和Spring-MVC的关系？大厂Java高级面试官告诉你答案！](https://www.ershicimi.com/p/4efd122c679009700ede88d4220de926) 
+- [2020-10-07-🔥🔥🔥新加坡-技术移民机会新加坡知名互联网公司，招聘高级前端，-DevOps-工程师，-QA-工程师，-DBA-工程师，-iOS,安卓开发等方向，另寻高级架构专家...](https://www.v2ex.com/t/712932) 
+- [2020-10-07-请大牛们帮忙指导下简历，一年-Java-经验，节后想面大厂，怎么改一下简历才能更容易获得面试机会？](https://www.v2ex.com/t/712919) 
 - [2020-10-07-B站面试之旅](https://toutiao.io/k/sf65rqv) 

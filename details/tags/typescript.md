@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-07 10:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-07 10:27:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -8,4 +8,3 @@
 
 
 - [2020-09-19-TypeScript之父：JS不是竞争对手](https://www.ershicimi.com/p/976c7799431e66fc0c808a55d9768170) 
-- [2020-09-16-Typescript初学者入门指南](https://www.ershicimi.com/p/7cb6373e9529c45ce8f335118a336d7a) 

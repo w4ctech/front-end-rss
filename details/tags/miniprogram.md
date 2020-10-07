@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-07 10:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-07 10:27:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-09-24-小程序云开发支持公众号网页开发了](https://www.ershicimi.com/p/a3afa9c8b45b440216e391aeb9ff6d1d) 
 - [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) 
 - [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) 
 - [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) 

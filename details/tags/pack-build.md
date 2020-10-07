@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-07 10:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-07 10:27:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -8,7 +8,7 @@
 
 
 - [2019-11-25-一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6) 
-- [2020-09-08-面试官:请手写一个简易的Webpack](https://www.ershicimi.com/p/b99c6ee7c391d8edf34b867fb1e02fb3) 
+- [2020-09-29-你应该知道的-NPM-知识都在这！](https://www.ershicimi.com/p/bbab7cb8c8aa6ecb2d7be925072eae3e) 
 - [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) 
 - [2017-01-17-ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/) 
 - [2016-11-14-Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-07 05:25:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-07 05:32:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,13 +7,8 @@
 
 
 
-- [2020-09-28-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24) 
-- [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
-- [2020-09-25-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6) 
+- [2020-09-22-摸金校尉聊浏览器渲染](https://www.ershicimi.com/p/9339cf52f601bafc74e228301225ac2c) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-10-07-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-07-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-07-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-07-推荐-如何产出规范、安全、高质量的代码？](https://toutiao.io/k/rd2k0cu) 
 - [2020-10-07-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) 
 - [2020-10-06-把网络安全意识带回家第四话:家长外出住酒店,这个问题别大意](https://sec.thief.one/article_content?a_id=328164b4deb3b3f0f0f08438dd44ad01) 

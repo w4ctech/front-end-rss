@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-08 09:49:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-08 10:04:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-08-一起听歌吧-docker-镜像一键部署，从此拥有自己的永久听歌房](https://www.v2ex.com/t/713095) 
 - [2020-10-08-CSDN-这波操作没看懂](https://www.v2ex.com/t/713094) 
 - [2020-10-08-重装-MacOS-iCloud-只有-Desktop-和-Document-文件夹，而且还不同步了，有遇到过的吗？](https://www.v2ex.com/t/713093) 
 - [2020-10-08-The-State-of-Developer-Ecosystem-2020](https://www.v2ex.com/t/713092) 
@@ -40,6 +41,3 @@
 - [2020-10-08-UC-浏览器在手机端篡改-HTML-内容，插入热词搜索链接的行为，大家怎么看？](https://www.v2ex.com/t/713053) 
 - [2020-10-08-想听听大家对于菜鸟驿站的看法](https://www.v2ex.com/t/713051) 
 - [2020-10-08-手上有一些旧硬件，求推荐一个主板+机箱废物利用](https://www.v2ex.com/t/713048) 
-- [2020-10-08-印度-YouTube-Premium-家庭车发车了](https://www.v2ex.com/t/713047) 
-- [2020-10-08-天津车牌出租，好租么？有租的么？怎么处理比较好？想留牌，虽然知道也没啥用](https://www.v2ex.com/t/713046) 
-- [2020-10-08-全新包邮-espduino-开发书籍-50-本](https://www.v2ex.com/t/713045) 

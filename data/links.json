@@ -3014,7 +3014,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -3189,6 +3189,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "offer 选择求大佬指点",
+        "link": "https://www.v2ex.com/t/713104",
+        "date": "2020-10-08"
+      },
+      {
         "title": "[7 天用 Go 从零实现系列] 第四期 RPC 框架 GeeRPC 已经完结~",
         "link": "https://www.v2ex.com/t/713101",
         "date": "2020-10-08"
@@ -3362,11 +3367,6 @@
         "title": "FFmpeg 幻灯片",
         "link": "https://www.v2ex.com/t/713055",
         "date": "2020-10-08"
-      },
-      {
-        "title": "UC 浏览器在手机端篡改 HTML 内容，插入热词搜索链接的行为，大家怎么看？",
-        "link": "https://www.v2ex.com/t/713053",
-        "date": "2020-10-08"
       }
     ]
   },
@@ -3523,8 +3523,8 @@
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
-        "link": "https://toutiao.io/k/s2yudly",
+        "title": "[推荐] 架构制图：工具与方法论",
+        "link": "https://toutiao.io/k/pzy6sbw",
         "date": "2020-10-08"
       },
       {
@@ -3533,13 +3533,13 @@
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
+        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
+        "link": "https://toutiao.io/k/ur64xby",
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
-        "link": "https://toutiao.io/k/xdryz90",
+        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
+        "link": "https://toutiao.io/k/s2yudly",
         "date": "2020-10-08"
       },
       {
@@ -3548,23 +3548,13 @@
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
+        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
+        "link": "https://toutiao.io/k/xdryz90",
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
-        "link": "https://toutiao.io/k/ur64xby",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "[推荐] Spring Boot 启动原理",
-        "link": "https://toutiao.io/k/itvkvui",
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
         "date": "2020-10-08"
       },
       {
@@ -3573,13 +3563,23 @@
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 架构制图：工具与方法论",
-        "link": "https://toutiao.io/k/pzy6sbw",
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
         "date": "2020-10-08"
       },
       {
         "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
         "link": "https://toutiao.io/k/yabo548",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "[推荐] Spring Boot 启动原理",
+        "link": "https://toutiao.io/k/itvkvui",
         "date": "2020-10-08"
       }
     ]

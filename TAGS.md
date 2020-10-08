@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-08 10:27:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-08 10:33:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -407,7 +407,6 @@
 - [【V2EX】什么是：面向未来编程（Future-Oriented-Programming）](https://www.v2ex.com/t/713074)
 - [【V2EX】一个-chrome-插件，在新标签页中展示书签和近期经常访问。](https://www.v2ex.com/t/713072)
 - [【V2EX】第三方消息推送安全吗？](https://www.v2ex.com/t/713060)
-- [【V2EX】UC-浏览器在手机端篡改-HTML-内容，插入热词搜索链接的行为，大家怎么看？](https://www.v2ex.com/t/713053)
 - [【技术头条】一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -416,6 +415,7 @@
 - [【安全热点】【安全圈】苹果T2芯片曝严重漏洞,可为攻击者提供Root访问权限](https://sec.thief.one/article_content?a_id=3309518174b0bbe61ac40e84d6b42c7e)
 - [【安全热点】把网络安全意识带回家第四话:家长外出住酒店,这个问题别大意](https://sec.thief.one/article_content?a_id=328164b4deb3b3f0f0f08438dd44ad01)
 - [【安全热点】【安全圈】青城山都江堰景区呼吁别用高德地图!目前问题已修复](https://sec.thief.one/article_content?a_id=0401616eca9f914367dc79255742c5cc)
+- [【安全热点】MatRiCT:抗量子安全和隐私的高效区块链协议](https://sec.thief.one/article_content?a_id=d6fce127d19f32e2144ebff29c7b280f)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

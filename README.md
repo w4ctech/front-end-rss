@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-08 01:09:20，:rocket: 更新条数: +742， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-08 01:28:03，:rocket: 更新条数: +762， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -1037,6 +1037,8 @@
 </summary>
 
 
+- [2020-10-08-上个月开通-100M-联通宽带，后来充-了-50，永久升级为-300M，-1-号的时候还是-100m，我问了客服，他说联通-1-5-号收账期，我就想算了，-可是现在-8-号了，还是...](https://www.v2ex.com/t/713014) ![](assets/new.png)  
+- [2020-10-08-请问一下哪个版本的-nginx-自带-tls-1.3?](https://www.v2ex.com/t/713013) ![](assets/new.png)  
 - [2020-10-08-YouTube-premium-香港家庭版发车](https://www.v2ex.com/t/713012) ![](assets/new.png)  
 - [2020-10-08-想弄个公平抽奖的程序，想问问有什么类似彩票这种不太容易操纵的随机数吗](https://www.v2ex.com/t/713011) ![](assets/new.png)  
 - [2020-10-08-AWS-Lightsail-无法登陆，-悲剧了](https://www.v2ex.com/t/713010) ![](assets/new.png)  
@@ -1055,8 +1057,6 @@
 - [2020-10-07-iPadOS-14-下的-Steamlink-是不是鼠标支持出问题了？](https://www.v2ex.com/t/712987) ![](assets/new.png)  
 - [2020-10-07-有哪些使用的-google-seo-的方法？请分享你做-google-排名的亲身经历](https://www.v2ex.com/t/712984) ![](assets/new.png)  
 - [2020-10-07-paypal-限制，说是技术错误抢修-，修了一个月了-有同遭吗？](https://www.v2ex.com/t/712983) ![](assets/new.png)  
-- [2020-10-07-国定假日苹果发货快递的报关还能进行吗？](https://www.v2ex.com/t/712982) ![](assets/new.png)  
-- [2020-10-07-今天晚上-B-站的-hdslb-服务器出问题了吗?](https://www.v2ex.com/t/712981) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1099,6 +1099,26 @@
 </summary>
 
 
+- [2020-10-08-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-08-如果你有一台-Mac，建议试试这款效率神器：Alfred](https://toutiao.io/k/yg1fs4r) ![](assets/new.png)  
+- [2020-10-08-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-08-Hugo-搭建静态博客与服务器部署](https://toutiao.io/k/4d8ur4w) ![](assets/new.png)  
+- [2020-10-08-如何提升职业工作效率](https://toutiao.io/k/girc10b) ![](assets/new.png)  
+- [2020-10-08-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-08-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-08-Vue-3.0-composition-api-特性学习](https://toutiao.io/k/w7rapee) ![](assets/new.png)  
+- [2020-10-08-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
+- [2020-10-08-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-10-08-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-10-08-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-08-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
+- [2020-10-08-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
+- [2020-10-08-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-08-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-10-08-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
+- [2020-10-08-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
+- [2020-10-08-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
+- [2020-10-08-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

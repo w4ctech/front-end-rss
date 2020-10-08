@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-08 01:02:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-08 01:09:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -10,14 +10,6 @@
 - [2020-09-28-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24) 
 - [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
 - [2020-09-25-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-09-22-摸金校尉聊浏览器渲染](https://www.ershicimi.com/p/9339cf52f601bafc74e228301225ac2c) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-09-28-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/ad5ba4bf1e6e0344f52baf557474017b) 
@@ -29,7 +21,6 @@
 - [2020-10-08-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-08-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-08-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-08-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) 
 - [2020-10-07-把网络安全意识带回家第五话:教会家长安全下载软件](https://sec.thief.one/article_content?a_id=08ec252bd03be2e4c481e97fc9bf1dc2) 
 - [2020-10-06-【安全圈】苹果T2芯片曝严重漏洞,可为攻击者提供Root访问权限](https://sec.thief.one/article_content?a_id=3309518174b0bbe61ac40e84d6b42c7e) 
 - [2020-10-06-把网络安全意识带回家第四话:家长外出住酒店,这个问题别大意](https://sec.thief.one/article_content?a_id=328164b4deb3b3f0f0f08438dd44ad01) 

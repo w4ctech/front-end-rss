@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-08 08:12:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-08 08:26:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,5 +27,4 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
-- [2020-10-08-Python-植物大战僵尸游戏教程作者新作《-Python-零基础入门视频教程》,100-余集近-60-小时，案例丰富，主次分明。](https://www.v2ex.com/t/713075) 
 - [2020-10-04-【安全圈】游戏盗版组织Team-Xecuter主要成员被捕](https://sec.thief.one/article_content?a_id=0e51dc47180e868b8798f3e1832aa132) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-08 11:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-08 11:13:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,10 +25,10 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-08-什么是：面向未来编程（Future-Oriented-Programming）](https://www.v2ex.com/t/713074) 
 - [2020-10-08-一个-chrome-插件，在新标签页中展示书签和近期经常访问。](https://www.v2ex.com/t/713072) 
-- [2020-10-08-第三方消息推送安全吗？](https://www.v2ex.com/t/713060) 
 - [2020-10-08-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-08-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-08-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-10-08-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) 
 - [2020-10-08-黑客宣称可以越狱苹果T2安全芯片](https://sec.thief.one/article_content?a_id=51c0391c3c9d0ef2a05538e51a20e58c) 
 - [2020-10-08-NVIDIA显卡用户请尽快安装安全更新](https://sec.thief.one/article_content?a_id=b69d144e7f8559df7b7d494fd83719d7) 
 - [2020-10-08-工具推荐:天懋信息-专网安全专家](https://sec.thief.one/article_content?a_id=d7f2e9884aa4d24671e132b13a827cb7) 

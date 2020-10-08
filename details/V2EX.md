@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-08 09:27:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-08 09:34:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-08-The-State-of-Developer-Ecosystem-2020](https://www.v2ex.com/t/713092) 
 - [2020-10-08-freenom-网站太烂了](https://www.v2ex.com/t/713091) 
 - [2020-10-08-国庆花了-7-天在家整理的。](https://www.v2ex.com/t/713090) 
 - [2020-10-08-人在深圳，以前没出过境，怎么去香港？](https://www.v2ex.com/t/713089) 
@@ -42,4 +43,3 @@
 - [2020-10-08-全新包邮-espduino-开发书籍-50-本](https://www.v2ex.com/t/713045) 
 - [2020-10-08-那么多网赚培训的？能挣钱为什么还要培训呢？](https://www.v2ex.com/t/713044) 
 - [2020-10-08-木兰重生：与-Python-生态的兼容问题；字符串插值](https://www.v2ex.com/t/713043) 
-- [2020-10-08-客户端开发，一条长下坡道](https://www.v2ex.com/t/713042) 

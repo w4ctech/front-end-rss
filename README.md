@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-08 12:17:52，:rocket: 更新条数: +968， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-08 12:35:14，:rocket: 更新条数: +988， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -885,6 +885,26 @@
 </summary>
 
 
+- [2020-09-29-跑步总伤到膝盖？来试试明星教练的方法-｜-极客时间](https://www.ershicimi.com/p/fa20b1fff3bffb650f6c2b46207a160e) ![](assets/new.png)  
+- [2020-09-29-那些害死Haskell的，也会害死Rust](https://www.ershicimi.com/p/c3d6e71a5a3d9ac819227b1348cb6026) ![](assets/new.png)  
+- [2020-09-29-保险新基建，科技新生代，看众安极客黑马超强Battle](https://www.ershicimi.com/p/09b6adef274e9a5e6588edda08b97477) ![](assets/new.png)  
+- [2020-09-29-破浪而来：与华为同行的开发者们](https://www.ershicimi.com/p/87ce0d1925f9b63db190aa90597840fe) ![](assets/new.png)  
+- [2020-09-29-Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/f29cf83e4d8ef0441df5077c6e07f74c) ![](assets/new.png)  
+- [2020-09-29-同步与异步Python有何不同？](https://www.ershicimi.com/p/288551f07b1e6a39912ff279e7bb4a3c) ![](assets/new.png)  
+- [2020-09-28-程序员技术选型：写Go还是Java？](https://www.ershicimi.com/p/1fe85941a4de92570ce47a97075331bd) ![](assets/new.png)  
+- [2020-09-28-华为开源，为何能成？](https://www.ershicimi.com/p/83bdd399da2b9756a94c470a1929267c) ![](assets/new.png)  
+- [2020-09-28-面对企业变革，终是中台扛下了所有-｜-QCon+](https://www.ershicimi.com/p/30117e8678cf91b06a922bd47a4c4f5c) ![](assets/new.png)  
+- [2020-09-28-英特尔与Science联袂推出“架构师成长计划”，顶级架构师的修炼手册｜-Q推荐](https://www.ershicimi.com/p/72ee0cab22df0112d581baeadd02816e) ![](assets/new.png)  
+- [2020-09-28-中间件业务在网易轻舟容器平台的性能调优实践](https://www.ershicimi.com/p/3ce8a4164f290e9423a8931c495bee71) ![](assets/new.png)  
+- [2020-09-28-对开发者而言，GitHub-Profile可能是比简历更好的求职利器](https://www.ershicimi.com/p/8eaff225f99f2efb27e06277c75d47e7) ![](assets/new.png)  
+- [2020-09-27-绩效不及格被劝退，50岁IT技术主管删除公司全部存储信息后被判入狱](https://www.ershicimi.com/p/3ae123069db98dbe376ede0c78cc9f82) ![](assets/new.png)  
+- [2020-09-27-百度开源进行时](https://www.ershicimi.com/p/7fa9f14b51373f42bcb72c14ce384e6a) ![](assets/new.png)  
+- [2020-09-27-来自D2iQ的拷问：你真的需要K8s？｜-Q推荐](https://www.ershicimi.com/p/ea2977d8b345344e91d6f13b27f860a1) ![](assets/new.png)  
+- [2020-09-27-Swift正式登录Windows：苹果跨平台语言值几钱？](https://www.ershicimi.com/p/ddb30728f74a13b5fd7226f4e5fa9594) ![](assets/new.png)  
+- [2020-09-27-特斯拉又“翻车”？测试假人当场撞飞，官方称：断章取义](https://www.ershicimi.com/p/8cdade7884d9ee4cd46e3a639ee5eaf3) ![](assets/new.png)  
+- [2020-09-26-华为松山湖在建项目发生火灾；清北毕业生争抢网易严选“养生体验员”岗位；雪佛龙要求6万名员工卸载微信](https://www.ershicimi.com/p/a88ff597754fc6cef86a4ecc4f242566) ![](assets/new.png)  
+- [2020-09-26-闲鱼服务端架构演进历程](https://www.ershicimi.com/p/01e2d51ef075343d9b4a4fdff085de2f) ![](assets/new.png)  
+- [2020-09-26-亿级数据库毫秒级查询？看完这一篇，海量数据赋能你也行](https://www.ershicimi.com/p/e1a95933013d7123f4083d2c5509664a) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-08-哪里买-iPhone-11-合算？](https://www.v2ex.com/t/713120) ![](assets/new.png)  
 - [2020-10-08-这个月芝麻分下降了](https://www.v2ex.com/t/713119) ![](assets/new.png)  
 - [2020-10-08-android-开发工具求推荐](https://www.v2ex.com/t/713118) ![](assets/new.png)  
 - [2020-10-08-v-友们，申请软件著作权有什么要注意的吗？](https://www.v2ex.com/t/713117) ![](assets/new.png)  
@@ -1056,7 +1077,6 @@
 - [2020-10-08-CSDN-这波操作没看懂](https://www.v2ex.com/t/713094) ![](assets/new.png)  
 - [2020-10-08-重装-MacOS-iCloud-只有-Desktop-和-Document-文件夹，而且还不同步了，有遇到过的吗？](https://www.v2ex.com/t/713093) ![](assets/new.png)  
 - [2020-10-08-The-State-of-Developer-Ecosystem-2020](https://www.v2ex.com/t/713092) ![](assets/new.png)  
-- [2020-10-08-freenom-网站太烂了](https://www.v2ex.com/t/713091) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,18 +1127,18 @@
 - [2020-10-08-如果你有一台-Mac，建议试试这款效率神器：Alfred](https://toutiao.io/k/yg1fs4r) ![](assets/new.png)  
 - [2020-10-08-如何提升职业工作效率](https://toutiao.io/k/girc10b) ![](assets/new.png)  
 - [2020-10-08-Vue-3.0-composition-api-特性学习](https://toutiao.io/k/w7rapee) ![](assets/new.png)  
+- [2020-10-08-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-10-08-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
+- [2020-10-08-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-10-08-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
+- [2020-10-08-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-08-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-08-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
+- [2020-10-08-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
 - [2020-10-08-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
 - [2020-10-08-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-08-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
-- [2020-10-08-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
 - [2020-10-08-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
-- [2020-10-08-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
 - [2020-10-08-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
-- [2020-10-08-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-08-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-10-08-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
-- [2020-10-08-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-08-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

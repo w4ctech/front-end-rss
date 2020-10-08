@@ -11,28 +11,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "越南暂停国际航班以重新调整隔离标准",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0x0omnLjnf8s6UZmJB0O201008&isfromapp=1",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "新加坡将从下月起恢复游轮不靠岸出游",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC123FWGaTOduFsLjVF4i201008&isfromapp=1",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "上海10月7日无新增本地新冠肺炎确诊病例 新增境外输入5例  治愈出院6例",
+        "link": "http://wsjkw.sh.gov.cn/xwfb/20201008/5a55424e78ed4251a74c0c9e8b550ae5.html",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "福建10月7日新增1例境外输入确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLvSR8nvtgdzGtmVELPu201008&isfromapp=1",
+        "date": "2020-10-08"
+      },
+      {
         "title": "中国政府抗疫医疗专家组抵达安哥拉",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2uZeCKcNO410X1gN51zL201008&isfromapp=1",
-        "date": "2020-10-07"
-      },
-      {
-        "title": "10月7日浙江新增无症状感染者1例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQtWW9KGEZs3XgHRy4Z7S201008&isfromapp=1",
-        "date": "2020-10-07"
-      },
-      {
-        "title": "意大利总理：新冠疫情呈反弹趋势 强烈建议亲友聚会戴口罩",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVT9g4C5j1YngOsd2QGV201008&isfromapp=1",
-        "date": "2020-10-07"
-      },
-      {
-        "title": "巴西疫情“重灾区”圣保罗州部分学校复课",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCAJ5uWAzK0CMpZgHEArP201008&isfromapp=1",
-        "date": "2020-10-07"
-      },
-      {
-        "title": "白宫医生：特朗普已经超过24小时无新冠肺炎症状",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdAmekXe9Zj6u1lfsZTj201008&isfromapp=1",
         "date": "2020-10-07"
       }
     ]
@@ -1190,6 +1190,16 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": ".NET Core vs Node.js：你应该选择哪个？",
+        "link": "https://www.ershicimi.com/p/b8db56cd39ed4b9876e48a55cb7cbdb7",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "反 996 有理：催程序员交代码，写不出好软件",
+        "link": "https://www.ershicimi.com/p/7a3ade6c9a0f7793f5d5276a0a57b0ca",
+        "date": "2020-10-07"
+      },
+      {
         "title": "一行代码实现黑暗模式",
         "link": "https://www.ershicimi.com/p/95249e6cf46dfeeb1f7c2d834b987e2b",
         "date": "2020-10-06"
@@ -1277,16 +1287,6 @@
       {
         "title": "Swift正式登录Windows：苹果跨平台语言值几钱？",
         "link": "https://www.ershicimi.com/p/abfbe6cc2509687972d967bdb975b24a",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "怎样解决JavaScript生态中第三方安全性问题？",
-        "link": "https://www.ershicimi.com/p/9f36b7564c977e9a1c13870f2fe372c3",
-        "date": "2020-09-23"
-      },
-      {
-        "title": "从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了 | 活动推荐",
-        "link": "https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff",
         "date": "2020-09-23"
       }
     ]
@@ -3956,10 +3956,36 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "前端之路：平凡中的小事 🏆 掘金技术征文|双节特别篇",
+        "link": "https://juejin.im/post/6881151844874190861",
+        "date": "2020-10-07"
+      },
+      {
+        "title": "Javascript高级程序设计第四版详细测评| 🏆 掘金技术征文-双节特别篇",
+        "link": "https://juejin.im/post/6880994683867103240",
+        "date": "2020-10-07"
+      },
+      {
+        "title": "一个与以往不同的国庆假期 | 掘金技术征文-双节特别篇",
+        "link": "https://juejin.im/post/6880949460130594823",
+        "date": "2020-10-07"
+      },
+      {
+        "title": "Flex知识点梳理",
+        "link": "https://juejin.im/post/6880838699731386382",
+        "date": "2020-10-07"
+      },
+      {
+        "title": "Docker简单上手01",
+        "link": "https://juejin.im/post/6880815747900440590",
+        "date": "2020-10-07"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -4119,7 +4145,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4182,16 +4208,303 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/198",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/198",
     "title": "知乎日报",
     "link": "https://www.ershicimi.com/a/198",
-    "items": []
+    "items": [
+      {
+        "title": "知乎好问题：家长要在孩子面前表露出「赚钱辛苦、我们家不富裕」这样的态度吗？",
+        "link": "https://www.ershicimi.com/p/0a6a080bfa7689c9ab484797d24f33fa",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "我打赌，这些题你一定输给小学生",
+        "link": "https://www.ershicimi.com/p/19ab1c3d32a1a32ea4949cce323b92a7",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "知乎故事 | 你最刻骨铭心的感情是什么样的？",
+        "link": "https://www.ershicimi.com/p/38dc5265c710941fea9abd6044056b85",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "本周知乎热榜 | 《花木兰》热映，外卖骑士困境，华为鸿蒙 OS 2.0 系统发布",
+        "link": "https://www.ershicimi.com/p/acbfd6e7b35ed43ab01ec20907a3d76d",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "千元奖金等你来！知乎圈子管理员招募令",
+        "link": "https://www.ershicimi.com/p/e5dfbd0f8cf66f941371cd3af4d67362",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "知乎故事 | 女友的哪个细节让你觉得特别暖心？",
+        "link": "https://www.ershicimi.com/p/35b16d33a6d5ad89a0e6191e6ec405d1",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "知乎神吐槽 | 哪些明星偶像可以被称为神一样的颜值？",
+        "link": "https://www.ershicimi.com/p/06d9f574be31c2f8fde7173256cb6e18",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "寻科技达人「盐」究一下：美好音源",
+        "link": "https://www.ershicimi.com/p/fd7499bd172d26466d6cd721a5289709",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "知乎故事 | 你在哪个瞬间感觉到孩子很爱很爱你？",
+        "link": "https://www.ershicimi.com/p/a13264db532d0de7fb97cfe1a90634ca",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "​你的老师做过最「奇葩」的事是什么？",
+        "link": "https://www.ershicimi.com/p/632e675669c579d7151c6f9220ecdd82",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "21 天城市环游记 | 揭秘中国各地都有哪些一定不能错过的特色菜和好地方",
+        "link": "https://www.ershicimi.com/p/4b9462fa3d2738e7991d113d7851adbe",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "手机里超受欢迎的 8 个公众号，你关注了吗？",
+        "link": "https://www.ershicimi.com/p/eb4452e6213f488651ec8588b9429e85",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "知乎故事 | 你在老师办公室见过哪些令人窒息的操作？",
+        "link": "https://www.ershicimi.com/p/b802ce3620c2f61cf43a9b324fcf8ee0",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "第一次去空间站的话，怎么样装作经常去的样子？",
+        "link": "https://www.ershicimi.com/p/79303adebbf13de1327bf1c8bed349a0",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "身材和长相普通的女生如何穿得时髦又好看？",
+        "link": "https://www.ershicimi.com/p/b9ca889bb80d9c36ddaa667c66890a07",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "知乎故事 | 被校园霸凌过的人后来都怎么样了？",
+        "link": "https://www.ershicimi.com/p/a3ea857e8960ebe3dc298adb306f576b",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "87 版《红楼梦》的化妆师到底有多厉害？",
+        "link": "https://www.ershicimi.com/p/b3feb6aadc0950c4c60fdf2e073e9f79",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "数学界再出变态神人，竟用一个比基尼方程，吊打各国数学家......",
+        "link": "https://www.ershicimi.com/p/20ca5e2820c67058564cd74894e03d6b",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "知乎故事 | 你什么时候突然意识到自己该存钱了？",
+        "link": "https://www.ershicimi.com/p/df3d482f9a09130cdb723a63fd893549",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "知乎高赞：国家为什么要拿钱去帮助外国?",
+        "link": "https://www.ershicimi.com/p/1a9562191f67aaa4289f4b5a25f8d5da",
+        "date": "2020-09-07"
+      }
+    ]
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "对于项目开发初期时设计以及后续发现设计出现问题的补救方法一些疑惑",
+        "link": "https://www.v2ex.com/t/713080",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "Kubernetes 应用部署方案",
+        "link": "https://www.v2ex.com/t/713078",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "想问问现在收一台 2015 的 15 寸 mbp 要多少钱？",
+        "link": "https://www.v2ex.com/t/713076",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "Python 植物大战僵尸游戏教程作者新作《 Python 零基础入门视频教程》,100 余集近 60 小时，案例丰富，主次分明。",
+        "link": "https://www.v2ex.com/t/713075",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "什么是：面向未来编程（Future-Oriented Programming）",
+        "link": "https://www.v2ex.com/t/713074",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "iPhone XR 12.2 这两天突然无法连接到 App Store appleid 重新登录也没反应 有遇到的吗",
+        "link": "https://www.v2ex.com/t/713073",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "一个 chrome 插件，在新标签页中展示书签和近期经常访问。",
+        "link": "https://www.v2ex.com/t/713072",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "有没有铁子用过 https://coding.net/？",
+        "link": "https://www.v2ex.com/t/713070",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "这种是钓鱼网站吗？",
+        "link": "https://www.v2ex.com/t/713069",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "电信的 4G 网现在简直是一坨屎、",
+        "link": "https://www.v2ex.com/t/713068",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "iPad Pro 用什么壳/键盘，求推荐，另出教育优惠 AirPods",
+        "link": "https://www.v2ex.com/t/713067",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "想用 nuc 做个自建 nas。 关于系统和网卡的疑惑求解答",
+        "link": "https://www.v2ex.com/t/713066",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "二级域名非 80 端口问题咨询。",
+        "link": "https://www.v2ex.com/t/713064",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "Thinkpad x390, 打算彻底换成 Ubuntu，有没有什么硬件上的坑？",
+        "link": "https://www.v2ex.com/t/713063",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "按设备封禁账号的 App 是怎么实现的？",
+        "link": "https://www.v2ex.com/t/713062",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "Discuz! X 重构，愿意贡献你的代码吗？",
+        "link": "https://www.v2ex.com/t/713061",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "第三方消息推送安全吗？",
+        "link": "https://www.v2ex.com/t/713060",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "良心云丢了良心！我和我的数据是如何被鹅厂拖入被删库跑路的深渊的。",
+        "link": "https://www.v2ex.com/t/713058",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "[滴滴出行-北京、杭州、成都、深圳内推] Java /前端/Android/iOS/ PHP /Go/算法/C++/数据等各类职位大量招聘，月 20k-80k，优秀另有期权",
+        "link": "https://www.v2ex.com/t/713056",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "FFmpeg 幻灯片",
+        "link": "https://www.v2ex.com/t/713055",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "UC 浏览器在手机端篡改 HTML 内容，插入热词搜索链接的行为，大家怎么看？",
+        "link": "https://www.v2ex.com/t/713053",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "想听听大家对于菜鸟驿站的看法",
+        "link": "https://www.v2ex.com/t/713051",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "手上有一些旧硬件，求推荐一个主板+机箱废物利用",
+        "link": "https://www.v2ex.com/t/713048",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "印度 YouTube Premium 家庭车发车了",
+        "link": "https://www.v2ex.com/t/713047",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "天津车牌出租，好租么？有租的么？怎么处理比较好？想留牌，虽然知道也没啥用",
+        "link": "https://www.v2ex.com/t/713046",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "全新包邮 espduino 开发书籍 50 本",
+        "link": "https://www.v2ex.com/t/713045",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "那么多网赚培训的？能挣钱为什么还要培训呢？",
+        "link": "https://www.v2ex.com/t/713044",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "木兰重生：与 Python 生态的兼容问题；字符串插值",
+        "link": "https://www.v2ex.com/t/713043",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "客户端开发，一条长下坡道",
+        "link": "https://www.v2ex.com/t/713042",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "36 氪 10 月 8 日曝光相亲网站黑操作，看的什么感想？",
+        "link": "https://www.v2ex.com/t/713040",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "重庆的小伙伴怎么攒够的公交小票",
+        "link": "https://www.v2ex.com/t/713039",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "B&O，索尼降噪耳机和 airpods pro 的降噪效果哪个比较好",
+        "link": "https://www.v2ex.com/t/713038",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "电话卡放在 iPad Pro 上，有没有办法收短信？",
+        "link": "https://www.v2ex.com/t/713037",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "Netflix 主动向我发起了退款",
+        "link": "https://www.v2ex.com/t/713036",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "看到孙玲姑娘人生奋斗历程感觉很励志很了不起",
+        "link": "https://www.v2ex.com/t/713035",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "[代发] 一个人,半年时间开发三端完成的记账软件",
+        "link": "https://www.v2ex.com/t/713032",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "腾讯云虚拟机如何发邮件？",
+        "link": "https://www.v2ex.com/t/713031",
+        "date": "2020-10-08"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -4351,18 +4664,28 @@
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
+        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
+        "link": "https://toutiao.io/k/xdryz90",
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
-        "link": "https://toutiao.io/k/s2yudly",
+        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
+        "link": "https://toutiao.io/k/ur64xby",
         "date": "2020-10-08"
       },
       {
         "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
         "link": "https://toutiao.io/k/yabo548",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
         "date": "2020-10-08"
       },
       {
@@ -4381,8 +4704,8 @@
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
+        "title": "[推荐] 架构制图：工具与方法论",
+        "link": "https://toutiao.io/k/pzy6sbw",
         "date": "2020-10-08"
       },
       {
@@ -4391,18 +4714,8 @@
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 架构制图：工具与方法论",
-        "link": "https://toutiao.io/k/pzy6sbw",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
-        "link": "https://toutiao.io/k/xdryz90",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
-        "link": "https://toutiao.io/k/ur64xby",
+        "title": "[推荐] 一个每秒超过 3 万请求的微服务开发经历",
+        "link": "https://toutiao.io/k/s2yudly",
         "date": "2020-10-08"
       }
     ]

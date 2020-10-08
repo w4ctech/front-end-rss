@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-08 08:03:47，:rocket: 更新条数: +928， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-08 08:12:45，:rocket: 更新条数: +990， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -75,11 +75,11 @@
 </summary>
 
 
+- [2020-10-08-越南暂停国际航班以重新调整隔离标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0x0omnLjnf8s6UZmJB0O201008&isfromapp=1) ![](assets/new.png)  
+- [2020-10-08-新加坡将从下月起恢复游轮不靠岸出游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC123FWGaTOduFsLjVF4i201008&isfromapp=1) ![](assets/new.png)  
+- [2020-10-08-上海10月7日无新增本地新冠肺炎确诊病例-新增境外输入5例-治愈出院6例](http://wsjkw.sh.gov.cn/xwfb/20201008/5a55424e78ed4251a74c0c9e8b550ae5.html) ![](assets/new.png)  
+- [2020-10-08-福建10月7日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLvSR8nvtgdzGtmVELPu201008&isfromapp=1) ![](assets/new.png)  
 - [2020-10-07-中国政府抗疫医疗专家组抵达安哥拉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2uZeCKcNO410X1gN51zL201008&isfromapp=1) ![](assets/new.png)  
-- [2020-10-07-10月7日浙江新增无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQtWW9KGEZs3XgHRy4Z7S201008&isfromapp=1) ![](assets/new.png)  
-- [2020-10-07-意大利总理：新冠疫情呈反弹趋势-强烈建议亲友聚会戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVT9g4C5j1YngOsd2QGV201008&isfromapp=1) ![](assets/new.png)  
-- [2020-10-07-巴西疫情“重灾区”圣保罗州部分学校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCAJ5uWAzK0CMpZgHEArP201008&isfromapp=1) ![](assets/new.png)  
-- [2020-10-07-白宫医生：特朗普已经超过24小时无新冠肺炎症状](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdAmekXe9Zj6u1lfsZTj201008&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -426,6 +426,8 @@
 </summary>
 
 
+- [2020-10-08-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/b8db56cd39ed4b9876e48a55cb7cbdb7) ![](assets/new.png)  
+- [2020-10-07-反-996-有理：催程序员交代码，写不出好软件](https://www.ershicimi.com/p/7a3ade6c9a0f7793f5d5276a0a57b0ca) ![](assets/new.png)  
 - [2020-10-06-一行代码实现黑暗模式](https://www.ershicimi.com/p/95249e6cf46dfeeb1f7c2d834b987e2b) ![](assets/new.png)  
 - [2020-10-04-前端周报：Vue.js-3官方中文文档上线；腾讯奖励万名员工每人一台华为折叠屏手机；多款Chrome](https://www.ershicimi.com/p/10ded176def12aba5c5da03e531f16e6) ![](assets/new.png)  
 - [2020-10-02-成为最差前端开发的10个建议](https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758) ![](assets/new.png)  
@@ -444,8 +446,6 @@
 - [2020-09-24-Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/4109c764b6c6a0e000a40a078161a9d5) ![](assets/new.png)  
 - [2020-09-24-程序员最害怕的五种语言](https://www.ershicimi.com/p/465e84cf58b6cc1bcdfdf1ad9675dddf) ![](assets/new.png)  
 - [2020-09-23-Swift正式登录Windows：苹果跨平台语言值几钱？](https://www.ershicimi.com/p/abfbe6cc2509687972d967bdb975b24a) ![](assets/new.png)  
-- [2020-09-23-怎样解决JavaScript生态中第三方安全性问题？](https://www.ershicimi.com/p/9f36b7564c977e9a1c13870f2fe372c3) ![](assets/new.png)  
-- [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,6 +947,11 @@
 </summary>
 
 
+- [2020-10-07-前端之路：平凡中的小事-🏆-掘金技术征文|双节特别篇](https://juejin.im/post/6881151844874190861) ![](assets/new.png)  
+- [2020-10-07-Javascript高级程序设计第四版详细测评|-🏆-掘金技术征文-双节特别篇](https://juejin.im/post/6880994683867103240) ![](assets/new.png)  
+- [2020-10-07-一个与以往不同的国庆假期-|-掘金技术征文-双节特别篇](https://juejin.im/post/6880949460130594823) ![](assets/new.png)  
+- [2020-10-07-Flex知识点梳理](https://juejin.im/post/6880838699731386382) ![](assets/new.png)  
+- [2020-10-07-Docker简单上手01](https://juejin.im/post/6880815747900440590) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1021,6 +1026,26 @@
 </summary>
 
 
+- [2020-09-14-知乎好问题：家长要在孩子面前表露出「赚钱辛苦、我们家不富裕」这样的态度吗？](https://www.ershicimi.com/p/0a6a080bfa7689c9ab484797d24f33fa) ![](assets/new.png)  
+- [2020-09-14-我打赌，这些题你一定输给小学生](https://www.ershicimi.com/p/19ab1c3d32a1a32ea4949cce323b92a7) ![](assets/new.png)  
+- [2020-09-14-知乎故事-|-你最刻骨铭心的感情是什么样的？](https://www.ershicimi.com/p/38dc5265c710941fea9abd6044056b85) ![](assets/new.png)  
+- [2020-09-13-本周知乎热榜-|-《花木兰》热映，外卖骑士困境，华为鸿蒙-OS-2.0-系统发布](https://www.ershicimi.com/p/acbfd6e7b35ed43ab01ec20907a3d76d) ![](assets/new.png)  
+- [2020-09-13-千元奖金等你来！知乎圈子管理员招募令](https://www.ershicimi.com/p/e5dfbd0f8cf66f941371cd3af4d67362) ![](assets/new.png)  
+- [2020-09-13-知乎故事-|-女友的哪个细节让你觉得特别暖心？](https://www.ershicimi.com/p/35b16d33a6d5ad89a0e6191e6ec405d1) ![](assets/new.png)  
+- [2020-09-11-知乎神吐槽-|-哪些明星偶像可以被称为神一样的颜值？](https://www.ershicimi.com/p/06d9f574be31c2f8fde7173256cb6e18) ![](assets/new.png)  
+- [2020-09-11-寻科技达人「盐」究一下：美好音源](https://www.ershicimi.com/p/fd7499bd172d26466d6cd721a5289709) ![](assets/new.png)  
+- [2020-09-11-知乎故事-|-你在哪个瞬间感觉到孩子很爱很爱你？](https://www.ershicimi.com/p/a13264db532d0de7fb97cfe1a90634ca) ![](assets/new.png)  
+- [2020-09-10-​你的老师做过最「奇葩」的事是什么？](https://www.ershicimi.com/p/632e675669c579d7151c6f9220ecdd82) ![](assets/new.png)  
+- [2020-09-10-21-天城市环游记-|-揭秘中国各地都有哪些一定不能错过的特色菜和好地方](https://www.ershicimi.com/p/4b9462fa3d2738e7991d113d7851adbe) ![](assets/new.png)  
+- [2020-09-10-手机里超受欢迎的-8-个公众号，你关注了吗？](https://www.ershicimi.com/p/eb4452e6213f488651ec8588b9429e85) ![](assets/new.png)  
+- [2020-09-10-知乎故事-|-你在老师办公室见过哪些令人窒息的操作？](https://www.ershicimi.com/p/b802ce3620c2f61cf43a9b324fcf8ee0) ![](assets/new.png)  
+- [2020-09-09-第一次去空间站的话，怎么样装作经常去的样子？](https://www.ershicimi.com/p/79303adebbf13de1327bf1c8bed349a0) ![](assets/new.png)  
+- [2020-09-09-身材和长相普通的女生如何穿得时髦又好看？](https://www.ershicimi.com/p/b9ca889bb80d9c36ddaa667c66890a07) ![](assets/new.png)  
+- [2020-09-09-知乎故事-|-被校园霸凌过的人后来都怎么样了？](https://www.ershicimi.com/p/a3ea857e8960ebe3dc298adb306f576b) ![](assets/new.png)  
+- [2020-09-08-87-版《红楼梦》的化妆师到底有多厉害？](https://www.ershicimi.com/p/b3feb6aadc0950c4c60fdf2e073e9f79) ![](assets/new.png)  
+- [2020-09-08-数学界再出变态神人，竟用一个比基尼方程，吊打各国数学家......](https://www.ershicimi.com/p/20ca5e2820c67058564cd74894e03d6b) ![](assets/new.png)  
+- [2020-09-08-知乎故事-|-你什么时候突然意识到自己该存钱了？](https://www.ershicimi.com/p/df3d482f9a09130cdb723a63fd893549) ![](assets/new.png)  
+- [2020-09-07-知乎高赞：国家为什么要拿钱去帮助外国?](https://www.ershicimi.com/p/1a9562191f67aaa4289f4b5a25f8d5da) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1057,26 @@
 </summary>
 
 
+- [2020-10-08-对于项目开发初期时设计以及后续发现设计出现问题的补救方法一些疑惑](https://www.v2ex.com/t/713080) ![](assets/new.png)  
+- [2020-10-08-Kubernetes-应用部署方案](https://www.v2ex.com/t/713078) ![](assets/new.png)  
+- [2020-10-08-想问问现在收一台-2015-的-15-寸-mbp-要多少钱？](https://www.v2ex.com/t/713076) ![](assets/new.png)  
+- [2020-10-08-Python-植物大战僵尸游戏教程作者新作《-Python-零基础入门视频教程》,100-余集近-60-小时，案例丰富，主次分明。](https://www.v2ex.com/t/713075) ![](assets/new.png)  
+- [2020-10-08-什么是：面向未来编程（Future-Oriented-Programming）](https://www.v2ex.com/t/713074) ![](assets/new.png)  
+- [2020-10-08-iPhone-XR-12.2-这两天突然无法连接到-App-Store-appleid-重新登录也没反应-有遇到的吗](https://www.v2ex.com/t/713073) ![](assets/new.png)  
+- [2020-10-08-一个-chrome-插件，在新标签页中展示书签和近期经常访问。](https://www.v2ex.com/t/713072) ![](assets/new.png)  
+- [2020-10-08-有没有铁子用过-https://coding.net/？](https://www.v2ex.com/t/713070) ![](assets/new.png)  
+- [2020-10-08-这种是钓鱼网站吗？](https://www.v2ex.com/t/713069) ![](assets/new.png)  
+- [2020-10-08-电信的-4G-网现在简直是一坨屎、](https://www.v2ex.com/t/713068) ![](assets/new.png)  
+- [2020-10-08-iPad-Pro-用什么壳/键盘，求推荐，另出教育优惠-AirPods](https://www.v2ex.com/t/713067) ![](assets/new.png)  
+- [2020-10-08-想用-nuc-做个自建-nas。-关于系统和网卡的疑惑求解答](https://www.v2ex.com/t/713066) ![](assets/new.png)  
+- [2020-10-08-二级域名非-80-端口问题咨询。](https://www.v2ex.com/t/713064) ![](assets/new.png)  
+- [2020-10-08-Thinkpad-x390,-打算彻底换成-Ubuntu，有没有什么硬件上的坑？](https://www.v2ex.com/t/713063) ![](assets/new.png)  
+- [2020-10-08-按设备封禁账号的-App-是怎么实现的？](https://www.v2ex.com/t/713062) ![](assets/new.png)  
+- [2020-10-08-Discuz!-X-重构，愿意贡献你的代码吗？](https://www.v2ex.com/t/713061) ![](assets/new.png)  
+- [2020-10-08-第三方消息推送安全吗？](https://www.v2ex.com/t/713060) ![](assets/new.png)  
+- [2020-10-08-良心云丢了良心！我和我的数据是如何被鹅厂拖入被删库跑路的深渊的。](https://www.v2ex.com/t/713058) ![](assets/new.png)  
+- [2020-10-08-滴滴出行-北京、杭州、成都、深圳内推-Java-/前端/Android/iOS/-PHP-/Go/算法/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/713056) ![](assets/new.png)  
+- [2020-10-08-FFmpeg-幻灯片](https://www.v2ex.com/t/713055) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,17 +1128,17 @@
 - [2020-10-08-如何提升职业工作效率](https://toutiao.io/k/girc10b) ![](assets/new.png)  
 - [2020-10-08-Vue-3.0-composition-api-特性学习](https://toutiao.io/k/w7rapee) ![](assets/new.png)  
 - [2020-10-08-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-08-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
-- [2020-10-08-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
+- [2020-10-08-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
+- [2020-10-08-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
 - [2020-10-08-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
+- [2020-10-08-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
+- [2020-10-08-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
 - [2020-10-08-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
 - [2020-10-08-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
 - [2020-10-08-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-10-08-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-08-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [2020-10-08-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
-- [2020-10-08-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
-- [2020-10-08-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-08-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-08-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-08 08:03:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-08 08:12:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -172,6 +172,7 @@
 - [【前端开发】Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/35e68066c5fdc7da00fa6578cd44e004)
 - [【前端开发】从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/a9a603eab29a5625f2c33aed1dd59c5a)
 - [【前端大学】从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/a8f23202f8f5bedddb75f0dc36476dc3)
+- [【前端之巅】.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/b8db56cd39ed4b9876e48a55cb7cbdb7)
 - [【前端迷】从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/28f8d4bd4d47d685d681761926738613)
 - [【全栈前端精选】从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/3602a06d73c55a6a2a7443ab4ae5f27d)
 - [【全栈前端精选】Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/be9bc07a97a414327aaf3708b93efa6e)
@@ -186,7 +187,6 @@
 - [【Nodejs技术栈】震惊！这个代码片段竟然会让-V8-内存无法回收？！](https://www.ershicimi.com/p/975ee862c41b1852efcca27a4ab66a25)
 - [【Nodejs技术栈】Node.js-案发现场揭秘-——-文件句柄泄露导致进程假死](https://www.ershicimi.com/p/6dae4d4a8faac3ff4a499e3be7c55dbc)
 - [【Nodejs技术栈】Node.js-定时器详解](https://www.ershicimi.com/p/5f7301ddf1080f76b099a5be3ba69ccd)
-- [【Nodejs技术栈】Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/29fa0a1bf73f5284b1a0b04a5c6bf2e5)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -405,7 +405,6 @@
 - [【前端圈】视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138)
 - [【前端圈】视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a)
 - [【前端圈】视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d)
-- [【前端之巅】从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff)
 - [【凹凸实验室】羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/)
 - [【凹凸实验室】直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
@@ -476,10 +475,10 @@
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【InfoQ】英特尔与Science联袂推出“架构师成长计划”，顶级架构师的修炼手册｜-Q推荐](https://www.ershicimi.com/p/72ee0cab22df0112d581baeadd02816e)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【技术头条】一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly)
+- [【V2EX】什么是：面向未来编程（Future-Oriented-Programming）](https://www.v2ex.com/t/713074)
+- [【V2EX】一个-chrome-插件，在新标签页中展示书签和近期经常访问。](https://www.v2ex.com/t/713072)
+- [【V2EX】第三方消息推送安全吗？](https://www.v2ex.com/t/713060)
+- [【V2EX】UC-浏览器在手机端篡改-HTML-内容，插入热词搜索链接的行为，大家怎么看？](https://www.v2ex.com/t/713053)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -514,8 +513,8 @@
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】老板说“把系统升级到https”，我用一个脚本实现了，而且永久免费！](https://www.ershicimi.com/p/34456a649b238caa1dd9327833fcd3ff)
-- [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby)
+- [【V2EX】有没有铁子用过-https://coding.net/？](https://www.v2ex.com/t/713070)
+- [【V2EX】滴滴出行-北京、杭州、成都、深圳内推-Java-/前端/Android/iOS/-PHP-/Go/算法/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/713056)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -536,6 +535,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【JavaScript】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)
+- [【掘金前端】Docker简单上手01](https://juejin.im/post/6880815747900440590)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -629,7 +629,7 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】白宫医生：特朗普已经超过24小时无新冠肺炎症状](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdAmekXe9Zj6u1lfsZTj201008&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】上海10月7日无新增本地新冠肺炎确诊病例-新增境外输入5例-治愈出院6例](http://wsjkw.sh.gov.cn/xwfb/20201008/5a55424e78ed4251a74c0c9e8b550ae5.html)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -644,10 +644,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】越南暂停国际航班以重新调整隔离标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0x0omnLjnf8s6UZmJB0O201008&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】新加坡将从下月起恢复游轮不靠岸出游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC123FWGaTOduFsLjVF4i201008&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】福建10月7日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLvSR8nvtgdzGtmVELPu201008&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】中国政府抗疫医疗专家组抵达安哥拉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2uZeCKcNO410X1gN51zL201008&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】10月7日浙江新增无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQtWW9KGEZs3XgHRy4Z7S201008&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】意大利总理：新冠疫情呈反弹趋势-强烈建议亲友聚会戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVT9g4C5j1YngOsd2QGV201008&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】巴西疫情“重灾区”圣保罗州部分学校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCAJ5uWAzK0CMpZgHEArP201008&isfromapp=1)
 - [【Vue社区】分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1)
 - [【Vue社区】手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8)
 - [【Vue社区】本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d)

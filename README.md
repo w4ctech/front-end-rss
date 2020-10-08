@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-08 00:07:23，:rocket: 更新条数: +990， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-08 00:30:29，:rocket: 更新条数: +981， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -75,11 +75,11 @@
 </summary>
 
 
+- [2020-10-07-中国政府抗疫医疗专家组抵达安哥拉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2uZeCKcNO410X1gN51zL201008&isfromapp=1) ![](assets/new.png)  
 - [2020-10-07-10月7日浙江新增无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQtWW9KGEZs3XgHRy4Z7S201008&isfromapp=1) ![](assets/new.png)  
 - [2020-10-07-意大利总理：新冠疫情呈反弹趋势-强烈建议亲友聚会戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVT9g4C5j1YngOsd2QGV201008&isfromapp=1) ![](assets/new.png)  
 - [2020-10-07-巴西疫情“重灾区”圣保罗州部分学校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCAJ5uWAzK0CMpZgHEArP201008&isfromapp=1) ![](assets/new.png)  
 - [2020-10-07-白宫医生：特朗普已经超过24小时无新冠肺炎症状](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdAmekXe9Zj6u1lfsZTj201008&isfromapp=1) ![](assets/new.png)  
-- [2020-10-07-马来西亚又有4地将升级防疫管控-总理及多名内阁部长居家隔离办公](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikNnLnJZZZsZnThqAVUyE201007&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-08-Javascript-高级程序设计第四版详细测评+视频版](https://www.v2ex.com/t/713006) ![](assets/new.png)  
 - [2020-10-07-掘金这个社区为什么感觉偏前端?](https://www.v2ex.com/t/713004) ![](assets/new.png)  
 - [2020-10-07-macbookpro2019-款-i9-处理器-16g-内存可以玩冒险岛不](https://www.v2ex.com/t/713003) ![](assets/new.png)  
 - [2020-10-07-B-站频道，添加视频，如果恰好有-1-个视频没有添加到频道里，会找不到](https://www.v2ex.com/t/713002) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-07-弱弱问一下，并发加锁后是不是成单线程啦？](https://www.v2ex.com/t/712978) ![](assets/new.png)  
 - [2020-10-07-G-Suite-要凉了？](https://www.v2ex.com/t/712977) ![](assets/new.png)  
 - [2020-10-07-想请教一下这个三维效果如何渲染实现的](https://www.v2ex.com/t/712975) ![](assets/new.png)  
-- [2020-10-07-请问下目前主流的密码管理软件在安全性上有高下之分吗？](https://www.v2ex.com/t/712974) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,26 +1119,18 @@
 </summary>
 
 
-- [2020-10-08-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-08-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-08-Apache-Pulsar-与-Kafka-在金融场景下的性能对比分析](https://toutiao.io/k/3bktoh2) ![](assets/new.png)  
-- [2020-10-08-关于前端框架的另类思考](https://toutiao.io/k/3723ww9) ![](assets/new.png)  
-- [2020-10-08-漫谈《信号与系统》](https://toutiao.io/k/i52vwi2) ![](assets/new.png)  
-- [2020-10-08-MySQL-logstash-同步数据到-es-的几种方案对比以及每种方案数据丢失原因分析](https://toutiao.io/k/nmw60lh) ![](assets/new.png)  
-- [2020-10-08-机器学习模型评估指标总结](https://toutiao.io/k/sf9ww1c) ![](assets/new.png)  
-- [2020-10-08-WordPress-防-CC-攻击设置教程](https://toutiao.io/k/e8xv454) ![](assets/new.png)  
-- [2020-10-08-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
+- [2020-10-08-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-10-08-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
+- [2020-10-08-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-08-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-08-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
 - [2020-10-08-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
 - [2020-10-08-推荐-一个每秒超过-3-万请求的微服务开发经历](https://toutiao.io/k/s2yudly) ![](assets/new.png)  
 - [2020-10-08-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-10-08-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-08-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-08-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-08-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
-- [2020-10-08-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
 - [2020-10-08-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
-- [2020-10-08-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
-- [2020-10-08-推荐-分布式事务精华总结篇，实打实的干货](https://toutiao.io/k/xdryz90) ![](assets/new.png)  
+- [2020-10-08-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-08-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
+- [2020-10-08-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

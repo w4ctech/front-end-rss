@@ -11,6 +11,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "中国政府抗疫医疗专家组抵达安哥拉",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2uZeCKcNO410X1gN51zL201008&isfromapp=1",
+        "date": "2020-10-07"
+      },
+      {
         "title": "10月7日浙江新增无症状感染者1例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQtWW9KGEZs3XgHRy4Z7S201008&isfromapp=1",
         "date": "2020-10-07"
@@ -28,11 +33,6 @@
       {
         "title": "白宫医生：特朗普已经超过24小时无新冠肺炎症状",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdAmekXe9Zj6u1lfsZTj201008&isfromapp=1",
-        "date": "2020-10-07"
-      },
-      {
-        "title": "马来西亚又有4地将升级防疫管控 总理及多名内阁部长居家隔离办公",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikNnLnJZZZsZnThqAVUyE201007&isfromapp=1",
         "date": "2020-10-07"
       }
     ]
@@ -4320,6 +4320,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Javascript 高级程序设计第四版详细测评+视频版",
+        "link": "https://www.v2ex.com/t/713006",
+        "date": "2020-10-08"
+      },
+      {
         "title": "掘金这个社区为什么感觉偏前端?",
         "link": "https://www.v2ex.com/t/713004",
         "date": "2020-10-07"
@@ -4493,16 +4498,6 @@
         "title": "web 应用如何限制访问地点？",
         "link": "https://www.v2ex.com/t/712957",
         "date": "2020-10-07"
-      },
-      {
-        "title": "Linux 如何显示文件夹拷贝或者移动的进度条",
-        "link": "https://www.v2ex.com/t/712956",
-        "date": "2020-10-07"
-      },
-      {
-        "title": "自己国庆没啥事，写了一个爬虫，利用接口抓取数据，可是响应很慢，有啥解决办法？",
-        "link": "https://www.v2ex.com/t/712955",
-        "date": "2020-10-07"
       }
     ]
   },
@@ -4619,48 +4614,28 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
+        "title": "[推荐] 如何设计一个牛逼的 API 接口",
+        "link": "https://toutiao.io/k/j1aredh",
         "date": "2020-10-08"
       },
       {
-        "title": "B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
+        "link": "https://toutiao.io/k/xdryz90",
         "date": "2020-10-08"
       },
       {
-        "title": "Apache Pulsar 与 Kafka 在金融场景下的性能对比分析",
-        "link": "https://toutiao.io/k/3bktoh2",
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
         "date": "2020-10-08"
       },
       {
-        "title": "关于前端框架的另类思考",
-        "link": "https://toutiao.io/k/3723ww9",
+        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
+        "link": "https://toutiao.io/k/ur64xby",
         "date": "2020-10-08"
       },
       {
-        "title": "漫谈《信号与系统》",
-        "link": "https://toutiao.io/k/i52vwi2",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "MySQL logstash 同步数据到 es 的几种方案对比以及每种方案数据丢失原因分析",
-        "link": "https://toutiao.io/k/nmw60lh",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "机器学习模型评估指标总结",
-        "link": "https://toutiao.io/k/sf9ww1c",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "WordPress 防 CC 攻击设置教程",
-        "link": "https://toutiao.io/k/e8xv454",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
-        "link": "https://toutiao.io/k/23m4ly1",
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
         "date": "2020-10-08"
       },
       {
@@ -4679,13 +4654,8 @@
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
+        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
+        "link": "https://toutiao.io/k/yabo548",
         "date": "2020-10-08"
       },
       {
@@ -4694,28 +4664,13 @@
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 如何设计一个牛逼的 API 接口",
-        "link": "https://toutiao.io/k/j1aredh",
+        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
+        "link": "https://toutiao.io/k/23m4ly1",
         "date": "2020-10-08"
       },
       {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
-        "link": "https://toutiao.io/k/yabo548",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
-        "link": "https://toutiao.io/k/ur64xby",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "[推荐] 分布式事务精华总结篇，实打实的干货",
-        "link": "https://toutiao.io/k/xdryz90",
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
         "date": "2020-10-08"
       }
     ]

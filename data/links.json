@@ -4145,16 +4145,67 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10647",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10647",
     "title": "编程之上",
     "link": "https://www.ershicimi.com/a/10647",
-    "items": []
+    "items": [
+      {
+        "title": "2019 年终总结",
+        "link": "https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2",
+        "date": "2019-12-31"
+      },
+      {
+        "title": "git 入门",
+        "link": "https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0",
+        "date": "2019-10-28"
+      },
+      {
+        "title": "谨以此文祝福和致敬每一位前端开发工程师",
+        "link": "https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9",
+        "date": "2019-10-24"
+      },
+      {
+        "title": "Git 工作流",
+        "link": "https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e",
+        "date": "2019-10-20"
+      },
+      {
+        "title": "前端初级",
+        "link": "https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4",
+        "date": "2019-10-17"
+      },
+      {
+        "title": "Javascript 内存空间管理",
+        "link": "https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6",
+        "date": "2019-10-16"
+      },
+      {
+        "title": "我对前端架构师的定义",
+        "link": "https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f",
+        "date": "2019-10-15"
+      },
+      {
+        "title": "《大教堂和集市》读后感",
+        "link": "https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54",
+        "date": "2019-10-13"
+      },
+      {
+        "title": "8年前端开发的知识点沉淀",
+        "link": "https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d",
+        "date": "2019-10-12"
+      },
+      {
+        "title": "如何有效学习",
+        "link": "https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a",
+        "date": "2019-10-12"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/198",
@@ -4269,7 +4320,17 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "如何学习新技术",
+        "title": "求租套一或者带卫大主卧",
+        "link": "https://www.v2ex.com/t/713413",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "火星小助手又来了~，一个日常工具类小程序(推荐)",
+        "link": "https://www.v2ex.com/t/713411",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "如何更好的学习新技术",
         "link": "https://www.v2ex.com/t/713409",
         "date": "2020-10-09"
       },
@@ -4446,21 +4507,6 @@
       {
         "title": "喜欢或开旅行车（汽车）的各位老铁，说说你们觉得还不错的车。",
         "link": "https://www.v2ex.com/t/713364",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "iPhone 有哪些第三方计算器推荐？",
-        "link": "https://www.v2ex.com/t/713363",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "win10 升级后出现",
-        "link": "https://www.v2ex.com/t/713362",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "wifi6 的路由器有推荐吗？能刷梅林固件看 YouTube",
-        "link": "https://www.v2ex.com/t/713361",
         "date": "2020-10-09"
       }
     ]
@@ -4653,13 +4699,8 @@
         "date": "2020-10-09"
       },
       {
-        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
-        "link": "https://toutiao.io/k/23m4ly1",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
+        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
+        "link": "https://toutiao.io/k/ur64xby",
         "date": "2020-10-09"
       },
       {
@@ -4668,28 +4709,18 @@
         "date": "2020-10-09"
       },
       {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] 架构制图：工具与方法论",
-        "link": "https://toutiao.io/k/pzy6sbw",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
-        "link": "https://toutiao.io/k/ur64xby",
-        "date": "2020-10-09"
-      },
-      {
         "title": "[推荐] 如何设计一个牛逼的 API 接口",
         "link": "https://toutiao.io/k/j1aredh",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
+        "link": "https://toutiao.io/k/yabo548",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
+        "link": "https://toutiao.io/k/23m4ly1",
         "date": "2020-10-09"
       },
       {
@@ -4698,8 +4729,23 @@
         "date": "2020-10-09"
       },
       {
-        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
-        "link": "https://toutiao.io/k/yabo548",
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[推荐] 架构制图：工具与方法论",
+        "link": "https://toutiao.io/k/pzy6sbw",
         "date": "2020-10-09"
       }
     ]

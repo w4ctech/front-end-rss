@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-09 10:04:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-09 10:14:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -196,7 +196,9 @@
 - [【知乎日报】2020-10-04-知乎故事-|-我买了个让人笑到合不拢嘴的东西](https://www.ershicimi.com/p/97dc254aa02f9fecf130743b3387da4a) 
 - [【知乎日报】2020-10-02-特朗普夫妇新冠病毒检测呈阳性](https://www.ershicimi.com/p/99f8011e5862667fada9fcdd5a34b860) 
 - [【知乎日报】2020-10-02-6-万现金奖励，生活视频一起「盐究一下」](https://www.ershicimi.com/p/2d80eb8dd9a0b3471e59c8eb7fd308bb) 
-- [【V2EX】2020-10-09-如何学习新技术](https://www.v2ex.com/t/713409) 
+- [【V2EX】2020-10-09-求租套一或者带卫大主卧](https://www.v2ex.com/t/713413) 
+- [【V2EX】2020-10-09-火星小助手又来了~，一个日常工具类小程序推荐](https://www.v2ex.com/t/713411) 
+- [【V2EX】2020-10-09-如何更好的学习新技术](https://www.v2ex.com/t/713409) 
 - [【V2EX】2020-10-09-低价转让一个上海科技类公司](https://www.v2ex.com/t/713408) 
 - [【V2EX】2020-10-09-上海-米哈游内推---Java-（OA-方向）-/Golang/Web-前端/移动客户端](https://www.v2ex.com/t/713406) 
 - [【V2EX】2020-10-09-成都公积金这个-app-今天崩了](https://www.v2ex.com/t/713405) 
@@ -232,9 +234,6 @@
 - [【V2EX】2020-10-09-telegram-是怎么做到安卓-10-后台来电话就弹出接听页面的？](https://www.v2ex.com/t/713366) 
 - [【V2EX】2020-10-09-明年-2🈷️-5-月毕业旅行环游中国-召集-1-3-个志同道合有趣的的小伙伴结伴而行（可以随时随地加入离开！](https://www.v2ex.com/t/713365) 
 - [【V2EX】2020-10-09-喜欢或开旅行车（汽车）的各位老铁，说说你们觉得还不错的车。](https://www.v2ex.com/t/713364) 
-- [【V2EX】2020-10-09-iPhone-有哪些第三方计算器推荐？](https://www.v2ex.com/t/713363) 
-- [【V2EX】2020-10-09-win10-升级后出现](https://www.v2ex.com/t/713362) 
-- [【V2EX】2020-10-09-wifi6-的路由器有推荐吗？能刷梅林固件看-YouTube](https://www.v2ex.com/t/713361) 
 - [【技术头条】2020-10-09-Referer-防盗链，为什么少了个字母-R？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13808&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F263425663%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-09-一文讲懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZYFdJ0FRNhcbWP3Ddng1lA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-09-Android-敏感数据泄露引发的思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -270,16 +269,16 @@
 - [【开发者头条】2020-10-09-条分缕析分布式：浅析强弱一致性](https://toutiao.io/k/tow5b53) 
 - [【开发者头条】2020-10-09-Druid-的整合](https://toutiao.io/k/rp679uj) 
 - [【开发者头条】2020-10-09-没了核心精神，引入的敏捷实践就是徒有其表](https://toutiao.io/k/val3g32) 
-- [【开发者头条】2020-10-09-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) 
-- [【开发者头条】2020-10-09-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) 
-- [【开发者头条】2020-10-09-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) 
-- [【开发者头条】2020-10-09-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) 
-- [【开发者头条】2020-10-09-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) 
-- [【开发者头条】2020-10-09-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) 
 - [【开发者头条】2020-10-09-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) 
+- [【开发者头条】2020-10-09-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) 
 - [【开发者头条】2020-10-09-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) 
-- [【开发者头条】2020-10-09-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) 
 - [【开发者头条】2020-10-09-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) 
+- [【开发者头条】2020-10-09-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) 
+- [【开发者头条】2020-10-09-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) 
+- [【开发者头条】2020-10-09-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) 
+- [【开发者头条】2020-10-09-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) 
+- [【开发者头条】2020-10-09-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) 
+- [【开发者头条】2020-10-09-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) 
 - [【安全热点】2020-10-08-“E路护航·E路平安”——网络素养进课堂第四期:预防网瘾,戒除...](https://sec.thief.one/article_content?a_id=1baaebbb742878973d3cb8b926d0c3b8) 
 - [【安全热点】2020-10-08-【倒计时15天】来峰会现场,揭开高通移动基带内部系统的秘密!](https://sec.thief.one/article_content?a_id=588bd9c21dbf9d08d8e129e3b2498659) 
 - [【安全热点】2020-10-08-mssqlproxy实现](https://sec.thief.one/article_content?a_id=8a9bc1eb477e9adef92432e9ea02dc64) 
@@ -976,6 +975,7 @@
 - [【前端艺术家&&飞冰早报】2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [【前端艺术家&&飞冰早报】2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [【前端艺术家&&飞冰早报】2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [【编程之上】2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -1030,6 +1030,15 @@
 - [【凹凸实验室】2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/) 
 - [【凹凸实验室】2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [【凹凸实验室】2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/) 
+- [【编程之上】2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
+- [【编程之上】2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) 
+- [【编程之上】2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [【编程之上】2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) 
+- [【编程之上】2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [【编程之上】2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) 
+- [【编程之上】2019-10-13-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
+- [【编程之上】2019-10-12-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
+- [【编程之上】2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

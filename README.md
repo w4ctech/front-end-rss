@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-09 10:04:01，:rocket: 更新条数: +987， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-09 10:14:28，:rocket: 更新条数: +996， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -49,7 +49,7 @@
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)  
+- [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
@@ -1005,6 +1005,16 @@
 </summary>
 
 
+- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
+- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
+- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
+- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
+- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
+- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
+- [2019-10-13-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
+- [2019-10-12-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
+- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,7 +1057,9 @@
 </summary>
 
 
-- [2020-10-09-如何学习新技术](https://www.v2ex.com/t/713409) ![](assets/new.png)  
+- [2020-10-09-求租套一或者带卫大主卧](https://www.v2ex.com/t/713413) ![](assets/new.png)  
+- [2020-10-09-火星小助手又来了~，一个日常工具类小程序推荐](https://www.v2ex.com/t/713411) ![](assets/new.png)  
+- [2020-10-09-如何更好的学习新技术](https://www.v2ex.com/t/713409) ![](assets/new.png)  
 - [2020-10-09-低价转让一个上海科技类公司](https://www.v2ex.com/t/713408) ![](assets/new.png)  
 - [2020-10-09-上海-米哈游内推---Java-（OA-方向）-/Golang/Web-前端/移动客户端](https://www.v2ex.com/t/713406) ![](assets/new.png)  
 - [2020-10-09-成都公积金这个-app-今天崩了](https://www.v2ex.com/t/713405) ![](assets/new.png)  
@@ -1065,8 +1077,6 @@
 - [2020-10-09-微软：我们做的软件商店垃圾，干脆不管了，爱咋咋地——微软宣布应用商店十大原则](https://www.v2ex.com/t/713388) ![](assets/new.png)  
 - [2020-10-09-黑苹果-暗影-3-蓝牙-wifi-不可用,听说换网卡能解决问题?](https://www.v2ex.com/t/713387) ![](assets/new.png)  
 - [2020-10-09-关于数据清洗，求德华，朝伟等等大佬求解](https://www.v2ex.com/t/713386) ![](assets/new.png)  
-- [2020-10-09-「DevOps-转型与实践」沙龙回顾第二讲](https://www.v2ex.com/t/713382) ![](assets/new.png)  
-- [2020-10-09-macair-电池充到-88%,就不充电了。](https://www.v2ex.com/t/713380) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,11 +1134,11 @@
 - [2020-10-09-条分缕析分布式：浅析强弱一致性](https://toutiao.io/k/tow5b53) ![](assets/new.png)  
 - [2020-10-09-Druid-的整合](https://toutiao.io/k/rp679uj) ![](assets/new.png)  
 - [2020-10-09-没了核心精神，引入的敏捷实践就是徒有其表](https://toutiao.io/k/val3g32) ![](assets/new.png)  
-- [2020-10-09-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
-- [2020-10-09-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-09-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
 - [2020-10-09-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-10-09-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
-- [2020-10-09-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-10-09-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-10-09-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
+- [2020-10-09-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

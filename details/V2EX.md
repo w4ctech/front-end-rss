@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-09 22:38:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-09 22:47:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-09-批量重命名](https://www.v2ex.com/t/713493) 
 - [2020-10-09-彭博社：首款-Apple-Silicon-Mac-将于-11-月发布](https://www.v2ex.com/t/713492) 
 - [2020-10-09-Baldur's-Gate-3-Early-Access-的-DPI-问题](https://www.v2ex.com/t/713489) 
 - [2020-10-09-怎么分辨-SSD-黑白片缩水主控和清零盘？](https://www.v2ex.com/t/713488) 
@@ -35,4 +36,3 @@
 - [2020-10-09-支付宝后台挂了么？](https://www.v2ex.com/t/713448) 
 - [2020-10-09-立个-flag，这学期把-cmu-的数据库课程看完](https://www.v2ex.com/t/713446) 
 - [2020-10-09-航旅纵横-1*1-国旗-+-航司-logo-替换素材](https://www.v2ex.com/t/713445) 
-- [2020-10-09-请问一下该如何选择呢?](https://www.v2ex.com/t/713443) 

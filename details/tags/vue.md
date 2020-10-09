@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-09 04:47:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-09 05:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -61,3 +61,5 @@
 - [2020-09-20-【官宣】Vue-3.0-发布！](https://www.ershicimi.com/p/c1adffa170a5e30e863e6cf76cf6753d) 
 - [2020-09-29-Vue3+TypeScript-完整项目上手教程](https://www.ershicimi.com/p/ae75eca510f83b07000b4a9d70a66173) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-10-09-在-Vue-Vite-应用程序中实现暗/亮模式](https://toutiao.io/k/7jeyx5j) 

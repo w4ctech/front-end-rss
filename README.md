@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-09 18:14:29，:rocket: 更新条数: +958， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-09 18:29:27，:rocket: 更新条数: +991， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1057,6 +1057,26 @@
 </summary>
 
 
+- [2020-10-09-AMD-正在和-Xilinx-商讨收购事宜](https://www.v2ex.com/t/713486) ![](assets/new.png)  
+- [2020-10-09-腾讯云轻量能用的代金券，满-199-减-100](https://www.v2ex.com/t/713485) ![](assets/new.png)  
+- [2020-10-09-笔记本外接移动硬盘会掉盘](https://www.v2ex.com/t/713484) ![](assets/new.png)  
+- [2020-10-09-腾讯云轻量服务器代金券（满-199-减-100），领取方法。](https://www.v2ex.com/t/713483) ![](assets/new.png)  
+- [2020-10-09-后端开发进阶资料](https://www.v2ex.com/t/713482) ![](assets/new.png)  
+- [2020-10-09-css-辅助工具-KakaCss---快速生成-Css-样式](https://www.v2ex.com/t/713481) ![](assets/new.png)  
+- [2020-10-09-记一次将某主机系统盘备份为-wim-文件后在-Hyper-V-中运行的实践](https://www.v2ex.com/t/713480) ![](assets/new.png)  
+- [2020-10-09-老弟兴奋的说：哥，我发现了-Linus-Torvalds-git-代码里的-bug](https://www.v2ex.com/t/713479) ![](assets/new.png)  
+- [2020-10-09-20201010-午夜俱乐部](https://www.v2ex.com/t/713477) ![](assets/new.png)  
+- [2020-10-09-现在国内安卓机怎么样？](https://www.v2ex.com/t/713471) ![](assets/new.png)  
+- [2020-10-09-请问-macOS-从哪个版本开始，-Apple-默认隐藏安全性与隐私-通用-允许从以下位置下载的应用-任何来源？](https://www.v2ex.com/t/713470) ![](assets/new.png)  
+- [2020-10-09-什么显卡支持-5120×1440@240Hz-输出？](https://www.v2ex.com/t/713469) ![](assets/new.png)  
+- [2020-10-09-有没有人了解未来酒店的，怎么样？](https://www.v2ex.com/t/713468) ![](assets/new.png)  
+- [2020-10-09-做了个视频帮助大家理解-Git-原理，干货满满，希望大家喜欢！](https://www.v2ex.com/t/713467) ![](assets/new.png)  
+- [2020-10-09-有关-bash-的问题请问一下](https://www.v2ex.com/t/713466) ![](assets/new.png)  
+- [2020-10-09-想要考虑所有情况而焦虑该怎么办？](https://www.v2ex.com/t/713465) ![](assets/new.png)  
+- [2020-10-09-各位大佬请支招](https://www.v2ex.com/t/713463) ![](assets/new.png)  
+- [2020-10-09-十一长途骑行回家的尝试](https://www.v2ex.com/t/713458) ![](assets/new.png)  
+- [2020-10-09-cnode-社区没了吗，-http://cnodejs.org/-找不到-ip-地址](https://www.v2ex.com/t/713457) ![](assets/new.png)  
+- [2020-10-09-求助，-Macbook-Pro-16"-2019-是否还存在-Thermal-Throttling-的问题？](https://www.v2ex.com/t/713454) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,11 +1134,11 @@
 - [2020-10-09-条分缕析分布式：浅析强弱一致性](https://toutiao.io/k/tow5b53) ![](assets/new.png)  
 - [2020-10-09-Druid-的整合](https://toutiao.io/k/rp679uj) ![](assets/new.png)  
 - [2020-10-09-没了核心精神，引入的敏捷实践就是徒有其表](https://toutiao.io/k/val3g32) ![](assets/new.png)  
-- [2020-10-09-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
-- [2020-10-09-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
-- [2020-10-09-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
+- [2020-10-09-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
 - [2020-10-09-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
-- [2020-10-09-推荐-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) ![](assets/new.png)  
+- [2020-10-09-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-10-09-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-09-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

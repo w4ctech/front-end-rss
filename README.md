@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-09 10:47:05，:rocket: 更新条数: +732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-09 10:49:01，:rocket: 更新条数: +3458， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-08-10月8日全国新增境外输入新冠21例-累计确诊85521例](http://m.china.caixin.com/m/2020-10-09/101612730.html) ![](assets/new.png)  
+- [2020-10-08-【境内疫情观察】陕西新增10例境外输入病例（10月8日）](http://m.database.caixin.com/m/2020-10-09/101612841.html) ![](assets/new.png)  
+- [2020-10-08-大流行手记|10月8日：欧盟与强生达成疫苗供应协议-特朗普拒绝远程辩论](https://m.caixin.com/m/2020-10-09/101612770.html) ![](assets/new.png)  
+- [2020-10-07-最新海外疫情：新冠感染超3602万-累计死亡超105万](http://m.international.caixin.com/m/2020-10-08/101612663.html) ![](assets/new.png)  
+- [2020-10-07-【境内疫情观察】全国新增11例境外输入病例（10月7日）](http://m.database.caixin.com/m/2020-10-08/101612644.html) ![](assets/new.png)  
+- [2020-10-07-大流行手记|10月7日：WHO呼吁加大精神卫生投资-英国将新建40座医院](https://m.caixin.com/m/2020-10-08/101612616.html) ![](assets/new.png)  
+- [2020-10-06-【境内疫情观察】全国新增7例境外输入病例（10月6日）](http://m.database.caixin.com/m/2020-10-07/101612540.html) ![](assets/new.png)  
+- [2020-10-06-大流行手记|10月6日：英国漏报1.6万新冠患者-白宫试图提早疫苗审批](https://m.caixin.com/m/2020-10-07/101612511.html) ![](assets/new.png)  
+- [2020-10-05-【境内疫情观察】全国新增12例境外输入病例（10月5日）](http://m.database.caixin.com/m/2020-10-06/101612429.html) ![](assets/new.png)  
+- [2020-10-05-大流行手记|10月5日：特朗普是否重症引关注-印度发明低价快检新方法](https://m.caixin.com/m/2020-10-06/101612409.html) ![](assets/new.png)  
+- [2020-10-04-【境内疫情观察】上海新增10例境外输入病例（10月4日）](http://m.database.caixin.com/m/2020-10-05/101612322.html) ![](assets/new.png)  
+- [2020-10-04-大流行手记|10月4日：特朗普乘专车现身人群-日本拟明春开放游客入境](https://m.caixin.com/m/2020-10-05/101612309.html) ![](assets/new.png)  
+- [2020-10-03-【境内疫情观察】全国新增16例境外输入病例（10月3日）](http://m.database.caixin.com/m/2020-10-04/101612230.html) ![](assets/new.png)  
+- [2020-10-03-大流行手记|10月3日：特朗普“密接”数人感染-英国疫苗有望年底上市](https://m.caixin.com/m/2020-10-04/101612223.html) ![](assets/new.png)  
+- [2020-10-02-【境内疫情观察】全国新增10例境外输入病例（10月2日）](http://m.database.caixin.com/m/2020-10-03/101612160.html) ![](assets/new.png)  
+- [2020-10-02-大流行手记|10月2日：特朗普确诊后现轻微症状-亚马逊近2万员工感染](https://m.caixin.com/m/2020-10-03/101612150.html) ![](assets/new.png)  
+- [2020-10-01-【境内疫情观察】全国新增10例境外输入病例（10月1日）](http://m.database.caixin.com/m/2020-10-02/101612037.html) ![](assets/new.png)  
+- [2020-10-01-大流行手记|10月1日：马德里将封城-WHO拟援助1.2亿个抗原快检试剂盒](https://m.caixin.com/m/2020-10-02/101612010.html) ![](assets/new.png)  
+- [2020-09-30-【境内疫情观察】全国新增11例境外输入病例（9月30日）](http://m.database.caixin.com/m/2020-10-01/101611897.html) ![](assets/new.png)  
+- [2020-09-30-大流行手记|9月30日：英国单日新增病例创新高-Moderna疫苗进展乐观](https://m.caixin.com/m/2020-10-01/101611870.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1057,26 @@
 </summary>
 
 
+- [2020-10-09-周纪海：从-DevOps-到-DevSecOps-的落地实践](https://www.v2ex.com/t/713419) ![](assets/new.png)  
+- [2020-10-09-nuc8-黑苹果如何三屏显示?](https://www.v2ex.com/t/713418) ![](assets/new.png)  
+- [2020-10-09-这种分布式文件下载方案有现成的工具解决吗？](https://www.v2ex.com/t/713417) ![](assets/new.png)  
+- [2020-10-09-LOL-手游β测试资格获得](https://www.v2ex.com/t/713416) ![](assets/new.png)  
+- [2020-10-09-求各位大佬推荐几本有关-Java-的书，我是入门小白](https://www.v2ex.com/t/713414) ![](assets/new.png)  
+- [2020-10-09-求租套一或者带卫大主卧](https://www.v2ex.com/t/713413) ![](assets/new.png)  
+- [2020-10-09-火星小助手又来了~，一个日常工具类小程序推荐](https://www.v2ex.com/t/713411) ![](assets/new.png)  
+- [2020-10-09-如何更好的学习新技术](https://www.v2ex.com/t/713409) ![](assets/new.png)  
+- [2020-10-09-低价转让一个上海科技类公司](https://www.v2ex.com/t/713408) ![](assets/new.png)  
+- [2020-10-09-上海-米哈游内推---Java-（OA-方向）-/Golang/Web-前端/移动客户端](https://www.v2ex.com/t/713406) ![](assets/new.png)  
+- [2020-10-09-成都公积金这个-app-今天崩了](https://www.v2ex.com/t/713405) ![](assets/new.png)  
+- [2020-10-09-Aes-加密-CBC-模式的-Nopadding-填充在-GO-里怎么实现啊](https://www.v2ex.com/t/713404) ![](assets/new.png)  
+- [2020-10-09-ffmpeg-怎么使用滤镜增加文字水印-？](https://www.v2ex.com/t/713403) ![](assets/new.png)  
+- [2020-10-09-微信小程序圈子：欢迎加圈建圈交流沟通](https://www.v2ex.com/t/713402) ![](assets/new.png)  
+- [2020-10-09-有一个-idea,随着孤独的人越来越多，做一个拼饭的应用还是很有必要的](https://www.v2ex.com/t/713398) ![](assets/new.png)  
+- [2020-10-09-springboot+graphql-的项目，如何整合-jwt-使用](https://www.v2ex.com/t/713396) ![](assets/new.png)  
+- [2020-10-09-室外-19-度，但是感觉很冷](https://www.v2ex.com/t/713395) ![](assets/new.png)  
+- [2020-10-09-有没有-17-年毕业的小伙伴呀，现在工资多少了呀](https://www.v2ex.com/t/713393) ![](assets/new.png)  
+- [2020-10-09-国庆旅游有感,一个聚合博物馆预约平台想法](https://www.v2ex.com/t/713392) ![](assets/new.png)  
+- [2020-10-09-mongoexport-命令能不能不导出标题行。。](https://www.v2ex.com/t/713391) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

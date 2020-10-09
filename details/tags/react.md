@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-09 10:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-09 10:49:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -34,3 +34,5 @@
 - [2020-09-28-能读React源码的人，很吃香！](https://www.ershicimi.com/p/2a9e313f96cf7ad52cbd559da8801389) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
+- [2020-10-09-大家来聊聊-React-和-Vue3-在-2020-年-10-月这个时间点的选择](https://www.v2ex.com/t/713379) 
+- [2020-10-09-武汉-|-成都青云-QingCloud-前端工程师（React）](https://www.v2ex.com/t/713371) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-09 10:49:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-09 11:04:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-09-DD-命令如何在后台运行?](https://www.v2ex.com/t/713421) 
 - [2020-10-09-周纪海：从-DevOps-到-DevSecOps-的落地实践](https://www.v2ex.com/t/713419) 
 - [2020-10-09-nuc8-黑苹果如何三屏显示?](https://www.v2ex.com/t/713418) 
 - [2020-10-09-这种分布式文件下载方案有现成的工具解决吗？](https://www.v2ex.com/t/713417) 
@@ -40,5 +41,3 @@
 - [2020-10-09-求一款轻量级的-Bootstrap-开源后台模板（允许商用）](https://www.v2ex.com/t/713374) 
 - [2020-10-09-今年招聘这么严峻吗？非本科学历没有人权了呗](https://www.v2ex.com/t/713373) 
 - [2020-10-09-字节跳动-直播前端团队招聘，职级不限](https://www.v2ex.com/t/713372) 
-- [2020-10-09-武汉-|-成都青云-QingCloud-前端工程师（React）](https://www.v2ex.com/t/713371) 
-- [2020-10-09-10-月份的发布会不会有-Apple-TV？](https://www.v2ex.com/t/713370) 

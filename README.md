@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-09 22:15:21，:rocket: 更新条数: +758， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-09 22:21:32，:rocket: 更新条数: +783， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -924,6 +924,26 @@
 </summary>
 
 
+- [2020-10-09-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-09-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-09-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-09-使用-jsDelivr-免费加速-GitHub-Pages-博客的静态资源（二）](https://toutiao.io/k/mnyfc4d) ![](assets/new.png)  
+- [2020-10-09-面试官：祖玛游戏玩过么？我来拷拷你](https://toutiao.io/k/k7iseh7) ![](assets/new.png)  
+- [2020-10-09-姐姐问我什么是变基操作-git-rebase](https://toutiao.io/k/fra0mkp) ![](assets/new.png)  
+- [2020-10-09-译-在-iOS-和-Android-上运行-Go-代码](https://toutiao.io/k/ii0jfuq) ![](assets/new.png)  
+- [2020-10-09-在-Vue-Vite-应用程序中实现暗/亮模式](https://toutiao.io/k/7jeyx5j) ![](assets/new.png)  
+- [2020-10-09-如何让你的-Express-飞起来](https://toutiao.io/k/auvbrrv) ![](assets/new.png)  
+- [2020-10-09-详解函数式编程之-Monad](https://toutiao.io/k/h33lcjc) ![](assets/new.png)  
+- [2020-10-09-基于-Pulsar-Functions-的事件处理设计模式](https://toutiao.io/k/fsx3ife) ![](assets/new.png)  
+- [2020-10-09-女程序员在互联网界到底有没有被歧视？](https://toutiao.io/k/wtbvam9) ![](assets/new.png)  
+- [2020-10-09-条分缕析分布式：浅析强弱一致性](https://toutiao.io/k/tow5b53) ![](assets/new.png)  
+- [2020-10-09-没了核心精神，引入的敏捷实践就是徒有其表](https://toutiao.io/k/val3g32) ![](assets/new.png)  
+- [2020-10-09-Druid-的整合](https://toutiao.io/k/rp679uj) ![](assets/new.png)  
+- [2020-10-09-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-10-09-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
+- [2020-10-09-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-09-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-09-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

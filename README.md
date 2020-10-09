@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-09 03:49:04，:rocket: 更新条数: +3459， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-09 04:04:20，:rocket: 更新条数: +771， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-10-08-10月8日全国新增境外输入新冠21例-累计确诊85521例](http://m.china.caixin.com/m/2020-10-09/101612730.html) ![](assets/new.png)  
-- [2020-10-08-大流行手记|10月8日：欧盟与强生达成疫苗供应协议-特朗普拒绝远程辩论](https://m.caixin.com/m/2020-10-09/101612770.html) ![](assets/new.png)  
-- [2020-10-07-最新海外疫情：新冠感染超3602万-累计死亡超105万](http://m.international.caixin.com/m/2020-10-08/101612663.html) ![](assets/new.png)  
-- [2020-10-07-【境内疫情观察】全国新增11例境外输入病例（10月7日）](http://m.database.caixin.com/m/2020-10-08/101612644.html) ![](assets/new.png)  
-- [2020-10-07-大流行手记|10月7日：WHO呼吁加大精神卫生投资-英国将新建40座医院](https://m.caixin.com/m/2020-10-08/101612616.html) ![](assets/new.png)  
-- [2020-10-06-【境内疫情观察】全国新增7例境外输入病例（10月6日）](http://m.database.caixin.com/m/2020-10-07/101612540.html) ![](assets/new.png)  
-- [2020-10-06-大流行手记|10月6日：英国漏报1.6万新冠患者-白宫试图提早疫苗审批](https://m.caixin.com/m/2020-10-07/101612511.html) ![](assets/new.png)  
-- [2020-10-05-【境内疫情观察】全国新增12例境外输入病例（10月5日）](http://m.database.caixin.com/m/2020-10-06/101612429.html) ![](assets/new.png)  
-- [2020-10-05-大流行手记|10月5日：特朗普是否重症引关注-印度发明低价快检新方法](https://m.caixin.com/m/2020-10-06/101612409.html) ![](assets/new.png)  
-- [2020-10-04-【境内疫情观察】上海新增10例境外输入病例（10月4日）](http://m.database.caixin.com/m/2020-10-05/101612322.html) ![](assets/new.png)  
-- [2020-10-04-大流行手记|10月4日：特朗普乘专车现身人群-日本拟明春开放游客入境](https://m.caixin.com/m/2020-10-05/101612309.html) ![](assets/new.png)  
-- [2020-10-03-【境内疫情观察】全国新增16例境外输入病例（10月3日）](http://m.database.caixin.com/m/2020-10-04/101612230.html) ![](assets/new.png)  
-- [2020-10-03-大流行手记|10月3日：特朗普“密接”数人感染-英国疫苗有望年底上市](https://m.caixin.com/m/2020-10-04/101612223.html) ![](assets/new.png)  
-- [2020-10-02-【境内疫情观察】全国新增10例境外输入病例（10月2日）](http://m.database.caixin.com/m/2020-10-03/101612160.html) ![](assets/new.png)  
-- [2020-10-02-大流行手记|10月2日：特朗普确诊后现轻微症状-亚马逊近2万员工感染](https://m.caixin.com/m/2020-10-03/101612150.html) ![](assets/new.png)  
-- [2020-10-01-【境内疫情观察】全国新增10例境外输入病例（10月1日）](http://m.database.caixin.com/m/2020-10-02/101612037.html) ![](assets/new.png)  
-- [2020-10-01-大流行手记|10月1日：马德里将封城-WHO拟援助1.2亿个抗原快检试剂盒](https://m.caixin.com/m/2020-10-02/101612010.html) ![](assets/new.png)  
-- [2020-09-30-【境内疫情观察】全国新增11例境外输入病例（9月30日）](http://m.database.caixin.com/m/2020-10-01/101611897.html) ![](assets/new.png)  
-- [2020-09-30-大流行手记|9月30日：英国单日新增病例创新高-Moderna疫苗进展乐观](https://m.caixin.com/m/2020-10-01/101611870.html) ![](assets/new.png)  
-- [2020-09-29-中国5波新冠疫情基因序列各不同-高福称今冬最大挑战是合并感染](https://m.caixin.com/m/2020-09-30/101611645.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1026,26 +1006,26 @@
 </summary>
 
 
-- [2020-09-14-知乎好问题：家长要在孩子面前表露出「赚钱辛苦、我们家不富裕」这样的态度吗？](https://www.ershicimi.com/p/0a6a080bfa7689c9ab484797d24f33fa) ![](assets/new.png)  
-- [2020-09-14-我打赌，这些题你一定输给小学生](https://www.ershicimi.com/p/19ab1c3d32a1a32ea4949cce323b92a7) ![](assets/new.png)  
-- [2020-09-14-知乎故事-|-你最刻骨铭心的感情是什么样的？](https://www.ershicimi.com/p/38dc5265c710941fea9abd6044056b85) ![](assets/new.png)  
-- [2020-09-13-本周知乎热榜-|-《花木兰》热映，外卖骑士困境，华为鸿蒙-OS-2.0-系统发布](https://www.ershicimi.com/p/acbfd6e7b35ed43ab01ec20907a3d76d) ![](assets/new.png)  
-- [2020-09-13-千元奖金等你来！知乎圈子管理员招募令](https://www.ershicimi.com/p/e5dfbd0f8cf66f941371cd3af4d67362) ![](assets/new.png)  
-- [2020-09-13-知乎故事-|-女友的哪个细节让你觉得特别暖心？](https://www.ershicimi.com/p/35b16d33a6d5ad89a0e6191e6ec405d1) ![](assets/new.png)  
-- [2020-09-11-知乎神吐槽-|-哪些明星偶像可以被称为神一样的颜值？](https://www.ershicimi.com/p/06d9f574be31c2f8fde7173256cb6e18) ![](assets/new.png)  
-- [2020-09-11-寻科技达人「盐」究一下：美好音源](https://www.ershicimi.com/p/fd7499bd172d26466d6cd721a5289709) ![](assets/new.png)  
-- [2020-09-11-知乎故事-|-你在哪个瞬间感觉到孩子很爱很爱你？](https://www.ershicimi.com/p/a13264db532d0de7fb97cfe1a90634ca) ![](assets/new.png)  
-- [2020-09-10-​你的老师做过最「奇葩」的事是什么？](https://www.ershicimi.com/p/632e675669c579d7151c6f9220ecdd82) ![](assets/new.png)  
-- [2020-09-10-21-天城市环游记-|-揭秘中国各地都有哪些一定不能错过的特色菜和好地方](https://www.ershicimi.com/p/4b9462fa3d2738e7991d113d7851adbe) ![](assets/new.png)  
-- [2020-09-10-手机里超受欢迎的-8-个公众号，你关注了吗？](https://www.ershicimi.com/p/eb4452e6213f488651ec8588b9429e85) ![](assets/new.png)  
-- [2020-09-10-知乎故事-|-你在老师办公室见过哪些令人窒息的操作？](https://www.ershicimi.com/p/b802ce3620c2f61cf43a9b324fcf8ee0) ![](assets/new.png)  
-- [2020-09-09-第一次去空间站的话，怎么样装作经常去的样子？](https://www.ershicimi.com/p/79303adebbf13de1327bf1c8bed349a0) ![](assets/new.png)  
-- [2020-09-09-身材和长相普通的女生如何穿得时髦又好看？](https://www.ershicimi.com/p/b9ca889bb80d9c36ddaa667c66890a07) ![](assets/new.png)  
-- [2020-09-09-知乎故事-|-被校园霸凌过的人后来都怎么样了？](https://www.ershicimi.com/p/a3ea857e8960ebe3dc298adb306f576b) ![](assets/new.png)  
-- [2020-09-08-87-版《红楼梦》的化妆师到底有多厉害？](https://www.ershicimi.com/p/b3feb6aadc0950c4c60fdf2e073e9f79) ![](assets/new.png)  
-- [2020-09-08-数学界再出变态神人，竟用一个比基尼方程，吊打各国数学家......](https://www.ershicimi.com/p/20ca5e2820c67058564cd74894e03d6b) ![](assets/new.png)  
-- [2020-09-08-知乎故事-|-你什么时候突然意识到自己该存钱了？](https://www.ershicimi.com/p/df3d482f9a09130cdb723a63fd893549) ![](assets/new.png)  
-- [2020-09-07-知乎高赞：国家为什么要拿钱去帮助外国?](https://www.ershicimi.com/p/1a9562191f67aaa4289f4b5a25f8d5da) ![](assets/new.png)  
+- [2020-10-08-中国有哪些「无心插柳柳成荫」的事情？](https://www.ershicimi.com/p/7a8522b198dfa3b2c06ace34d66e4ae3) ![](assets/new.png)  
+- [2020-10-08-2020-诺贝尔奖-|-文学奖授予美国诗人路易斯·格丽克，阅读她的诗歌如同在检视一场人生](https://www.ershicimi.com/p/85e58affa8d3925319819bcf9e6a736c) ![](assets/new.png)  
+- [2020-10-08-知乎故事-|-你因为头像有过什么故事？](https://www.ershicimi.com/p/ffc4d47d0fd59179fe9d261817af688b) ![](assets/new.png)  
+- [2020-10-07-知乎高赞：你有哪些特别的「生存法则」？](https://www.ershicimi.com/p/bdfccb971e9fe1939f64314557ac0561) ![](assets/new.png)  
+- [2020-10-07-国产仙侠剧，你们的套路又烂又俗](https://www.ershicimi.com/p/76cba4af349308c38210ccb328e9c3b3) ![](assets/new.png)  
+- [2020-10-07-2020-诺贝尔奖-|-化学奖授予-CRISPR-基因编辑，这项技术对我们有哪些意义？](https://www.ershicimi.com/p/86fdbbf326d7a666024e2b33be7df418) ![](assets/new.png)  
+- [2020-10-07-知乎故事-|-你买过最便宜的快乐是什么？](https://www.ershicimi.com/p/865ae97e72b2ab6b21a5f14a66eb31c4) ![](assets/new.png)  
+- [2020-10-06-康熙的九个儿子为什么要争皇位，当个王爷无忧无虑不好吗？](https://www.ershicimi.com/p/c8ab8379861c241b475d7a59a682ba3b) ![](assets/new.png)  
+- [2020-10-06-2020-诺贝尔奖-|-宇宙中心就是黑洞吗？](https://www.ershicimi.com/p/2d0a3e3a709ca67f623d438c48bbd91a) ![](assets/new.png)  
+- [2020-10-06-口碑绝口碑绝佳的-9-个公众号，越早知道越好](https://www.ershicimi.com/p/404cf021046a337b2ba7bc9dff21a506) ![](assets/new.png)  
+- [2020-10-06-知乎故事-|-你让别人感到最尴尬的经历是什么？](https://www.ershicimi.com/p/95553da52d3c8de3014ed5c81e4cb108) ![](assets/new.png)  
+- [2020-10-05-知乎神吐槽-|-女生涂口红能表示出已经不是单身了吗？](https://www.ershicimi.com/p/c19da0be970f348db73ba6cec458670e) ![](assets/new.png)  
+- [2020-10-05-2020-诺贝尔奖-|-如何通俗地理解今年的诺贝尔生理学或医学奖？](https://www.ershicimi.com/p/0dfb22877813f71b3c0a34d15db895c5) ![](assets/new.png)  
+- [2020-10-05-十一长假，除了出门看人山人海，还能在家做些什么？](https://www.ershicimi.com/p/4f2d44150af9e23da7c1d210f94a1a5a) ![](assets/new.png)  
+- [2020-10-05-知乎故事-|-「大人做错事也要打屁股」](https://www.ershicimi.com/p/e24894a2e9e1dfad861398995bc4ec3e) ![](assets/new.png)  
+- [2020-10-04-本周知乎热榜-|-《我和我的家乡》再创佳绩，石原里美宣布结婚，成都成功申办世园会](https://www.ershicimi.com/p/85e87b0f23bc57f73328f134b74fb55f) ![](assets/new.png)  
+- [2020-10-04-S10·峡谷带盐人：最强泉水指挥官虚位以待](https://www.ershicimi.com/p/212a36dbef2c0635724da331dd65d068) ![](assets/new.png)  
+- [2020-10-04-知乎故事-|-我买了个让人笑到合不拢嘴的东西](https://www.ershicimi.com/p/97dc254aa02f9fecf130743b3387da4a) ![](assets/new.png)  
+- [2020-10-02-特朗普夫妇新冠病毒检测呈阳性](https://www.ershicimi.com/p/99f8011e5862667fada9fcdd5a34b860) ![](assets/new.png)  
+- [2020-10-02-6-万现金奖励，生活视频一起「盐究一下」](https://www.ershicimi.com/p/2d80eb8dd9a0b3471e59c8eb7fd308bb) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1037,12 @@
 </summary>
 
 
+- [2020-10-09-召唤混迹在-V2EX-的产品经理，字节跳动的机会来了](https://www.v2ex.com/t/713278) ![](assets/new.png)  
+- [2020-10-09-我这水平去深圳能找到一份前端工作吗](https://www.v2ex.com/t/713277) ![](assets/new.png)  
+- [2020-10-09-请教大佬们-datax-从-mongo-同步到-hdfs-速度慢的问题](https://www.v2ex.com/t/713276) ![](assets/new.png)  
+- [2020-10-09-竟然还没有-AMD-YES-的帖子](https://www.v2ex.com/t/713275) ![](assets/new.png)  
+- [2020-10-09-pc-端的设计稿给的是-1920*1080，满屏显示](https://www.v2ex.com/t/713274) ![](assets/new.png)  
+- [2020-10-09-北京-腾讯-广告计费后台开发工程师](https://www.v2ex.com/t/713273) ![](assets/new.png)  
 - [2020-10-09-深圳-一年-Java-求职](https://www.v2ex.com/t/713268) ![](assets/new.png)  
 - [2020-10-09-聚脂纤维的衣服掉毛怎么办？](https://www.v2ex.com/t/713267) ![](assets/new.png)  
 - [2020-10-09-iPhone-11-会降价吗](https://www.v2ex.com/t/713266) ![](assets/new.png)  
@@ -1071,12 +1057,6 @@
 - [2020-10-09-做产品经理有-pmp-证书还需要考-npdp-嘛？](https://www.v2ex.com/t/713252) ![](assets/new.png)  
 - [2020-10-09-各位大哥有木有好的杀毒软件推荐？](https://www.v2ex.com/t/713251) ![](assets/new.png)  
 - [2020-10-09-bilibili-会员活动-没开过的-hxd-帮忙扫扫](https://www.v2ex.com/t/713250) ![](assets/new.png)  
-- [2020-10-09-在线商城招聘前端开发者，-Vue-熟练掌握者优先（可远程）](https://www.v2ex.com/t/713249) ![](assets/new.png)  
-- [2020-10-09-3-年前撸的阿里香港-3-年-800-的-1C1G-实例马上要到期了，还有类似的么？](https://www.v2ex.com/t/713248) ![](assets/new.png)  
-- [2020-10-09-一千二左右的预算，买哪款手机比较好？](https://www.v2ex.com/t/713247) ![](assets/new.png)  
-- [2020-10-09-在规则模式下，如何使用终端代理？](https://www.v2ex.com/t/713246) ![](assets/new.png)  
-- [2020-10-09-LearnFk-教程网历时一年，终于上线，请大佬们多多指点。](https://www.v2ex.com/t/713245) ![](assets/new.png)  
-- [2020-10-09-恒创科技_香港/美国-CN2-云服务器-318-元/年，物理服务器-480-元限时秒杀](https://www.v2ex.com/t/713243) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,14 +1111,14 @@
 - [2020-10-09-基于-Pulsar-Functions-的事件处理设计模式](https://toutiao.io/k/fsx3ife) ![](assets/new.png)  
 - [2020-10-09-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
 - [2020-10-09-条分缕析分布式：浅析强弱一致性](https://toutiao.io/k/tow5b53) ![](assets/new.png)  
-- [2020-10-09-Druid-的整合](https://toutiao.io/k/rp679uj) ![](assets/new.png)  
 - [2020-10-09-女程序员在互联网界到底有没有被歧视？](https://toutiao.io/k/wtbvam9) ![](assets/new.png)  
+- [2020-10-09-Druid-的整合](https://toutiao.io/k/rp679uj) ![](assets/new.png)  
 - [2020-10-09-没了核心精神，引入的敏捷实践就是徒有其表](https://toutiao.io/k/val3g32) ![](assets/new.png)  
-- [2020-10-09-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-09-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-10-09-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
 - [2020-10-09-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
+- [2020-10-09-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
 - [2020-10-09-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
+- [2020-10-09-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-09-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

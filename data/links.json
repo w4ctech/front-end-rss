@@ -2103,6 +2103,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 128 期）：这个社会是否正在变成\"赛博朋克\"？",
+        "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html",
+        "date": "2020-10-09"
+      },
+      {
         "title": "科技爱好者周刊（第 127 期）：未来人人开发软件，几乎没人编码",
         "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html",
         "date": "2020-09-30"
@@ -2111,11 +2116,6 @@
         "title": "科技爱好者周刊（第 126 期）：内卷化是什么？",
         "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html",
         "date": "2020-09-25"
-      },
-      {
-        "title": "科技爱好者周刊（第 125 期）：数字人民币要取代谁",
-        "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html",
-        "date": "2020-09-18"
       }
     ]
   },
@@ -3956,10 +3956,36 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "这九种常用的设计模式你掌握了吗",
+        "link": "https://juejin.im/post/6881384600758091784",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "适合Vue用户的React教程，你值得拥有",
+        "link": "https://juejin.im/post/6881395120617291783",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "你不知道的iview校验的坑",
+        "link": "https://juejin.im/post/6881253319944339470",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "深入剖析Object.create()，为与之相关的理解形成闭环",
+        "link": "https://juejin.im/post/6881245501170122759",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "掘金技术征文|双节特别篇来啦！",
+        "link": "https://juejin.im/post/6878211126371287053",
+        "date": "2020-09-30"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -4119,7 +4145,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4294,9 +4320,19 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "看到很多人在较劲菜鸟驿站，我想说“对劳动人民的血腥压榨带来的红利快到极限了，柴薪的不传火后，菜鸟驿站或者快递欧美化将会是日常”",
-        "link": "https://www.v2ex.com/t/713173",
-        "date": "2020-10-08"
+        "title": "有没有做外包或者在外包公司工作的站友？",
+        "link": "https://www.v2ex.com/t/713176",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "不用框架的情况下 如何实现类似 Django 的 login_required 装饰器验证登陆功能",
+        "link": "https://www.v2ex.com/t/713175",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "不知道是不是澳大利亚特有制度--实体店价格挑战制度（你在 A 大零商看到的价格可以去和 B 的大零商进行挑战，用 A 的价格购买），这也导致澳大利亚的网购在疫情...",
+        "link": "https://www.v2ex.com/t/713174",
+        "date": "2020-10-09"
       },
       {
         "title": "Win10 默认图标",
@@ -4472,16 +4508,6 @@
         "title": "用 CMake 交叉编译时如何处理第三方库文件里的绝对路径？",
         "link": "https://www.v2ex.com/t/713127",
         "date": "2020-10-08"
-      },
-      {
-        "title": "大专生面试新公司被问及学历问题时怎么回答比较合适？",
-        "link": "https://www.v2ex.com/t/713126",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "现在装宽带都要初装费了吗？",
-        "link": "https://www.v2ex.com/t/713125",
-        "date": "2020-10-08"
       }
     ]
   },
@@ -4598,73 +4624,53 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
+        "title": "我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-09"
       },
       {
-        "title": "秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "在 Vue Vite 应用程序中实现暗/亮模式",
+        "link": "https://toutiao.io/k/7jeyx5j",
         "date": "2020-10-09"
       },
       {
-        "title": "Hugo 搭建静态博客与服务器部署",
-        "link": "https://toutiao.io/k/4d8ur4w",
+        "title": "面试官：祖玛游戏玩过么？我来拷拷你",
+        "link": "https://toutiao.io/k/k7iseh7",
         "date": "2020-10-09"
       },
       {
-        "title": "Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "如何让你的 Express 飞起来",
+        "link": "https://toutiao.io/k/auvbrrv",
         "date": "2020-10-09"
       },
       {
-        "title": "Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[译] 在 iOS 和 Android 上运行 Go 代码",
+        "link": "https://toutiao.io/k/ii0jfuq",
         "date": "2020-10-09"
       },
       {
-        "title": "如果你有一台 Mac，建议试试这款效率神器：Alfred",
-        "link": "https://toutiao.io/k/yg1fs4r",
+        "title": "高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-09"
       },
       {
-        "title": "如何提升职业工作效率",
-        "link": "https://toutiao.io/k/girc10b",
+        "title": "详解函数式编程之 Monad",
+        "link": "https://toutiao.io/k/h33lcjc",
         "date": "2020-10-09"
       },
       {
-        "title": "Vue 3.0 composition api 特性学习",
-        "link": "https://toutiao.io/k/w7rapee",
+        "title": "使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源（二）",
+        "link": "https://toutiao.io/k/mnyfc4d",
         "date": "2020-10-09"
       },
       {
-        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
-        "link": "https://toutiao.io/k/23m4ly1",
+        "title": "基于 Pulsar Functions 的事件处理设计模式",
+        "link": "https://toutiao.io/k/fsx3ife",
         "date": "2020-10-09"
       },
       {
-        "title": "[推荐] Spring Boot 启动原理",
-        "link": "https://toutiao.io/k/itvkvui",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] 架构制图：工具与方法论",
-        "link": "https://toutiao.io/k/pzy6sbw",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
-        "link": "https://toutiao.io/k/ur64xby",
+        "title": "姐姐问我什么是变基操作 (git-rebase)",
+        "link": "https://toutiao.io/k/fra0mkp",
         "date": "2020-10-09"
       },
       {
@@ -4678,13 +4684,43 @@
         "date": "2020-10-09"
       },
       {
+        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
+        "link": "https://toutiao.io/k/yabo548",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[推荐] 架构制图：工具与方法论",
+        "link": "https://toutiao.io/k/pzy6sbw",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[推荐] Spring Boot 启动原理",
+        "link": "https://toutiao.io/k/itvkvui",
+        "date": "2020-10-09"
+      },
+      {
         "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
         "link": "https://toutiao.io/k/h1mu8e9",
         "date": "2020-10-09"
       },
       {
-        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
-        "link": "https://toutiao.io/k/yabo548",
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
+        "link": "https://toutiao.io/k/ur64xby",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[推荐] 10 分钟带你搞懂代理模式、静态代理、JDK + CGLIB 动态代理",
+        "link": "https://toutiao.io/k/23m4ly1",
         "date": "2020-10-09"
       }
     ]

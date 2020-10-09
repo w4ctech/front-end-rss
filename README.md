@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-09 00:07:50，:rocket: 更新条数: +984， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-09 00:36:42，:rocket: 更新条数: +991， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -695,9 +695,9 @@
 </summary>
 
 
+- [2020-10-09-科技爱好者周刊（第-128-期）：这个社会是否正在变成"赛博朋克"？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html) ![](assets/new.png)  
 - [2020-09-30-科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html) ![](assets/new.png)  
 - [2020-09-25-科技爱好者周刊（第-126-期）：内卷化是什么？](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html) ![](assets/new.png)  
-- [2020-09-18-科技爱好者周刊（第-125-期）：数字人民币要取代谁](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,6 +947,11 @@
 </summary>
 
 
+- [2020-10-08-这九种常用的设计模式你掌握了吗](https://juejin.im/post/6881384600758091784) ![](assets/new.png)  
+- [2020-10-08-适合Vue用户的React教程，你值得拥有](https://juejin.im/post/6881395120617291783) ![](assets/new.png)  
+- [2020-10-08-你不知道的iview校验的坑](https://juejin.im/post/6881253319944339470) ![](assets/new.png)  
+- [2020-10-08-深入剖析Object.create，为与之相关的理解形成闭环](https://juejin.im/post/6881245501170122759) ![](assets/new.png)  
+- [2020-09-30-掘金技术征文|双节特别篇来啦！](https://juejin.im/post/6878211126371287053) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1057,9 @@
 </summary>
 
 
-- [2020-10-08-看到很多人在较劲菜鸟驿站，我想说“对劳动人民的血腥压榨带来的红利快到极限了，柴薪的不传火后，菜鸟驿站或者快递欧美化将会是日常”](https://www.v2ex.com/t/713173) ![](assets/new.png)  
+- [2020-10-09-有没有做外包或者在外包公司工作的站友？](https://www.v2ex.com/t/713176) ![](assets/new.png)  
+- [2020-10-09-不用框架的情况下-如何实现类似-Django-的-login_required-装饰器验证登陆功能](https://www.v2ex.com/t/713175) ![](assets/new.png)  
+- [2020-10-09-不知道是不是澳大利亚特有制度--实体店价格挑战制度（你在-A-大零商看到的价格可以去和-B-的大零商进行挑战，用-A-的价格购买），这也导致澳大利亚的网购在疫情...](https://www.v2ex.com/t/713174) ![](assets/new.png)  
 - [2020-10-08-Win10-默认图标](https://www.v2ex.com/t/713171) ![](assets/new.png)  
 - [2020-10-08-从-youtube-和-B-站-下载视频的必要性](https://www.v2ex.com/t/713170) ![](assets/new.png)  
 - [2020-10-08-省市区乡镇-4-级联动数据+四级坐标和边界范围数据](https://www.v2ex.com/t/713168) ![](assets/new.png)  
@@ -1070,8 +1077,6 @@
 - [2020-10-08-一个基于-UNIAPP-的间隔计时器](https://www.v2ex.com/t/713153) ![](assets/new.png)  
 - [2020-10-08-求个爬虫兼职](https://www.v2ex.com/t/713152) ![](assets/new.png)  
 - [2020-10-08-全球-idc-服务商论坛](https://www.v2ex.com/t/713150) ![](assets/new.png)  
-- [2020-10-08-如何入门和参与业余无线电？我根据亲身经历写了一篇教程，希望能够帮到感兴趣的同学](https://www.v2ex.com/t/713149) ![](assets/new.png)  
-- [2020-10-08-go-admin-仓库地址变更-github.com/go-admin-team/go-admin](https://www.v2ex.com/t/713146) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,24 +1119,26 @@
 </summary>
 
 
-- [2020-10-09-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-09-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-09-Hugo-搭建静态博客与服务器部署](https://toutiao.io/k/4d8ur4w) ![](assets/new.png)  
-- [2020-10-09-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-09-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-09-如果你有一台-Mac，建议试试这款效率神器：Alfred](https://toutiao.io/k/yg1fs4r) ![](assets/new.png)  
-- [2020-10-09-如何提升职业工作效率](https://toutiao.io/k/girc10b) ![](assets/new.png)  
-- [2020-10-09-Vue-3.0-composition-api-特性学习](https://toutiao.io/k/w7rapee) ![](assets/new.png)  
-- [2020-10-09-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
-- [2020-10-09-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-10-09-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
-- [2020-10-09-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
-- [2020-10-09-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-09-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-09-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-09-在-Vue-Vite-应用程序中实现暗/亮模式](https://toutiao.io/k/7jeyx5j) ![](assets/new.png)  
+- [2020-10-09-面试官：祖玛游戏玩过么？我来拷拷你](https://toutiao.io/k/k7iseh7) ![](assets/new.png)  
+- [2020-10-09-如何让你的-Express-飞起来](https://toutiao.io/k/auvbrrv) ![](assets/new.png)  
+- [2020-10-09-译-在-iOS-和-Android-上运行-Go-代码](https://toutiao.io/k/ii0jfuq) ![](assets/new.png)  
+- [2020-10-09-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-09-详解函数式编程之-Monad](https://toutiao.io/k/h33lcjc) ![](assets/new.png)  
+- [2020-10-09-使用-jsDelivr-免费加速-GitHub-Pages-博客的静态资源（二）](https://toutiao.io/k/mnyfc4d) ![](assets/new.png)  
+- [2020-10-09-基于-Pulsar-Functions-的事件处理设计模式](https://toutiao.io/k/fsx3ife) ![](assets/new.png)  
+- [2020-10-09-姐姐问我什么是变基操作-git-rebase](https://toutiao.io/k/fra0mkp) ![](assets/new.png)  
 - [2020-10-09-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
 - [2020-10-09-推荐-如何设计一个牛逼的-API-接口](https://toutiao.io/k/j1aredh) ![](assets/new.png)  
-- [2020-10-09-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [2020-10-09-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
+- [2020-10-09-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-10-09-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
+- [2020-10-09-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-10-09-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-09-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
+- [2020-10-09-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-09-推荐-10-分钟带你搞懂代理模式、静态代理、JDK-+-CGLIB-动态代理](https://toutiao.io/k/23m4ly1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

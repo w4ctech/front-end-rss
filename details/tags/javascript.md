@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-09 00:07:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-09 00:36:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -110,3 +110,6 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-10-08-这个国庆几乎无假期，写了-9-篇-Jackson-和-4-篇-Fastjson-基础教程](https://www.v2ex.com/t/713128) 
+- [2020-10-09-详解函数式编程之-Monad](https://toutiao.io/k/h33lcjc) 
+- [2020-10-09-使用-jsDelivr-免费加速-GitHub-Pages-博客的静态资源（二）](https://toutiao.io/k/mnyfc4d) 
+- [2020-10-09-基于-Pulsar-Functions-的事件处理设计模式](https://toutiao.io/k/fsx3ife) 

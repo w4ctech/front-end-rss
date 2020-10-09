@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-09 06:15:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-09 06:30:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-08-黑客宣称可以越狱苹果T2安全芯片](https://sec.thief.one/article_content?a_id=51c0391c3c9d0ef2a05538e51a20e58c) 
 - [2020-10-08-NVIDIA显卡用户请尽快安装安全更新](https://sec.thief.one/article_content?a_id=b69d144e7f8559df7b7d494fd83719d7) 
 - [2020-10-08-工具推荐:天懋信息-专网安全专家](https://sec.thief.one/article_content?a_id=d7f2e9884aa4d24671e132b13a827cb7) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-09 00:36:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-09 01:08:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -20,5 +20,3 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-10-08-从-youtube-和-B-站-下载视频的必要性](https://www.v2ex.com/t/713170) 
-- [2020-10-08-腾讯视频需要-VIP-才能看的电影发现-MP4-吧的水印](https://www.v2ex.com/t/713130) 

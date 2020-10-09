@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-09 17:47:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-09 17:49:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -58,6 +58,8 @@
 - [2020-10-08-一篇文章上手Vue3中新增API](https://www.ershicimi.com/p/262a00d4189799e0d9d0cd986b0c63c2) 
 - [2020-09-21-尤大-4-天前发在-GitHub-上的-vue-lit-是啥？](https://www.ershicimi.com/p/b91773fa4e33434018123b80880df8a5) 
 - [2020-09-19-【官宣】Vue-3.0-发布！](https://www.ershicimi.com/p/d7601950f4eec8df0ada2f62fe534acd) 
+- [2020-10-09-vue中Axios的封装和API接口的管理](https://www.ershicimi.com/p/55cc54ba901b917e120a00f1151823a2) 
+- [2020-10-05-Vue3+TypeScript-完整项目上手教程](https://www.ershicimi.com/p/895c57af1e24976354eb1c0146fdeb27) 
 - [2020-09-29-Vue3+TypeScript-完整项目上手教程](https://www.ershicimi.com/p/ae75eca510f83b07000b4a9d70a66173) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-09-25-奇舞周刊第-365-期：Vue-3.0-正式版本发布](https://www.ershicimi.com/p/72f17b5d2701f79e098732a3b6211682) 

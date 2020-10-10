@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-09 23:47:32，:rocket: 更新条数: +769， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-10 00:08:30，:rocket: 更新条数: +803， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -75,11 +75,11 @@
 </summary>
 
 
+- [2020-10-09-​美国疾控中心前主任：美国政府对新冠疫情作出了最差的反应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv2zu3mbpAmxzomYwqBCX201010&isfromapp=1) ![](assets/new.png)  
+- [2020-10-09-巴西新增27444例新冠肺炎确诊病例-累计5055888例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieKhjb1dJKqzpA0XjxWQ9201010&isfromapp=1) ![](assets/new.png)  
+- [2020-10-09-美国新冠肺炎确诊病例超765万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ4loCzEHXVDfRn6m0EMm201010&isfromapp=1) ![](assets/new.png)  
 - [2020-10-09-感染新冠病毒后谎报信息致40多人感染-韩国一教师获刑6个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkenK0SAoFJESoF4BcaZ201009&isfromapp=1) ![](assets/new.png)  
 - [2020-10-09-检测结果全部为阴性-山东青岛涉大港疫情234名密切接触者解除集中隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NLDpaxvvdb5PH77tcLn201009&isfromapp=1) ![](assets/new.png)  
-- [2020-10-09-巴勒斯坦首席谈判代表埃雷卡特新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikHlEKxcDz0sU6lHQLuDT201009&isfromapp=1) ![](assets/new.png)  
-- [2020-10-09-协助应对新冠疫情-国际货币基金组织第二次减免卢旺达债务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkTDUct7pgRKqvzye5l2201009&isfromapp=1) ![](assets/new.png)  
-- [2020-10-09-拉美地区病例近千万-多国努力恢复经济活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiexK679ajequLy7l335R4201009&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -902,6 +902,26 @@
 </summary>
 
 
+- [2020-10-09-ESXi-ARM64-预览发布了](https://www.v2ex.com/t/713494) ![](assets/new.png)  
+- [2020-10-09-批量重命名](https://www.v2ex.com/t/713493) ![](assets/new.png)  
+- [2020-10-09-彭博社：首款-Apple-Silicon-Mac-将于-11-月发布](https://www.v2ex.com/t/713492) ![](assets/new.png)  
+- [2020-10-09-Baldur's-Gate-3-Early-Access-的-DPI-问题](https://www.v2ex.com/t/713489) ![](assets/new.png)  
+- [2020-10-09-怎么分辨-SSD-黑白片缩水主控和清零盘？](https://www.v2ex.com/t/713488) ![](assets/new.png)  
+- [2020-10-09-极限压缩讲-ppt-为主的网络会议录像有什么免费的方案吗？](https://www.v2ex.com/t/713487) ![](assets/new.png)  
+- [2020-10-09-AMD-正在和-Xilinx-商讨收购事宜](https://www.v2ex.com/t/713486) ![](assets/new.png)  
+- [2020-10-09-笔记本外接移动硬盘会掉盘](https://www.v2ex.com/t/713484) ![](assets/new.png)  
+- [2020-10-09-腾讯云轻量服务器代金券（满-199-减-100），领取方法。](https://www.v2ex.com/t/713483) ![](assets/new.png)  
+- [2020-10-09-后端开发进阶资料](https://www.v2ex.com/t/713482) ![](assets/new.png)  
+- [2020-10-09-css-辅助工具-KakaCss---快速生成-Css-样式](https://www.v2ex.com/t/713481) ![](assets/new.png)  
+- [2020-10-09-记一次将某主机系统盘备份为-wim-文件后在-Hyper-V-中运行的实践](https://www.v2ex.com/t/713480) ![](assets/new.png)  
+- [2020-10-09-老弟兴奋的说：哥，我发现了-Linus-Torvalds-git-代码里的-bug](https://www.v2ex.com/t/713479) ![](assets/new.png)  
+- [2020-10-09-20201010-午夜俱乐部](https://www.v2ex.com/t/713477) ![](assets/new.png)  
+- [2020-10-09-现在国内安卓机怎么样？](https://www.v2ex.com/t/713471) ![](assets/new.png)  
+- [2020-10-09-请问-macOS-从哪个版本开始，-Apple-默认隐藏安全性与隐私-通用-允许从以下位置下载的应用-任何来源？](https://www.v2ex.com/t/713470) ![](assets/new.png)  
+- [2020-10-09-什么显卡支持-5120×1440@240Hz-输出？](https://www.v2ex.com/t/713469) ![](assets/new.png)  
+- [2020-10-09-有没有人了解未来酒店的，怎么样？](https://www.v2ex.com/t/713468) ![](assets/new.png)  
+- [2020-10-09-做了个视频帮助大家理解-Git-原理，干货满满，希望大家喜欢！](https://www.v2ex.com/t/713467) ![](assets/new.png)  
+- [2020-10-09-有关-bash-的问题请问一下](https://www.v2ex.com/t/713466) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -924,17 +944,21 @@
 </summary>
 
 
-- [2020-10-09-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-09-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-09-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-09-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-09-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
-- [2020-10-09-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
-- [2020-10-09-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
-- [2020-10-09-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
-- [2020-10-09-推荐-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) ![](assets/new.png)  
-- [2020-10-09-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
-- [2020-10-09-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-10-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-10-虚拟机系列：JVM-运行时数据区](https://toutiao.io/k/otkcgzi) ![](assets/new.png)  
+- [2020-10-10-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-10-RocketMQ-进阶：事务消息](https://toutiao.io/k/ada62ci) ![](assets/new.png)  
+- [2020-10-10-Python-为什么不支持-switch-语句？](https://toutiao.io/k/78k43sd) ![](assets/new.png)  
+- [2020-10-10-推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby) ![](assets/new.png)  
+- [2020-10-10-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-10-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-10-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
+- [2020-10-10-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-10-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
+- [2020-10-10-推荐-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) ![](assets/new.png)  
+- [2020-10-10-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
+- [2020-10-10-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-10-10-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

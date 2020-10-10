@@ -11,6 +11,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "​美国疾控中心前主任：美国政府对新冠疫情作出了最差的反应",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv2zu3mbpAmxzomYwqBCX201010&isfromapp=1",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "巴西新增27444例新冠肺炎确诊病例 累计5055888例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieKhjb1dJKqzpA0XjxWQ9201010&isfromapp=1",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "美国新冠肺炎确诊病例超765万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ4loCzEHXVDfRn6m0EMm201010&isfromapp=1",
+        "date": "2020-10-09"
+      },
+      {
         "title": "感染新冠病毒后谎报信息致40多人感染 韩国一教师获刑6个月",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkenK0SAoFJESoF4BcaZ201009&isfromapp=1",
         "date": "2020-10-09"
@@ -18,21 +33,6 @@
       {
         "title": "检测结果全部为阴性 山东青岛涉大港疫情234名密切接触者解除集中隔离",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NLDpaxvvdb5PH77tcLn201009&isfromapp=1",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "巴勒斯坦首席谈判代表埃雷卡特新冠病毒检测呈阳性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikHlEKxcDz0sU6lHQLuDT201009&isfromapp=1",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "协助应对新冠疫情 国际货币基金组织第二次减免卢旺达债务",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkTDUct7pgRKqvzye5l2201009&isfromapp=1",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "拉美地区病例近千万 多国努力恢复经济活动",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiexK679ajequLy7l335R4201009&isfromapp=1",
         "date": "2020-10-09"
       }
     ]
@@ -3531,10 +3531,161 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "ESXi ARM64 预览发布了",
+        "link": "https://www.v2ex.com/t/713494",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "批量重命名",
+        "link": "https://www.v2ex.com/t/713493",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "彭博社：首款 Apple Silicon Mac 将于 11 月发布",
+        "link": "https://www.v2ex.com/t/713492",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "Baldur's Gate 3 Early Access 的 DPI 问题",
+        "link": "https://www.v2ex.com/t/713489",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "怎么分辨 SSD 黑白片缩水主控和清零盘？",
+        "link": "https://www.v2ex.com/t/713488",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "极限压缩讲 ppt 为主的网络会议录像有什么免费的方案吗？",
+        "link": "https://www.v2ex.com/t/713487",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "AMD 正在和 Xilinx 商讨收购事宜",
+        "link": "https://www.v2ex.com/t/713486",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "笔记本外接移动硬盘会掉盘",
+        "link": "https://www.v2ex.com/t/713484",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "腾讯云轻量服务器代金券（满 199 减 100），领取方法。",
+        "link": "https://www.v2ex.com/t/713483",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "后端开发进阶资料",
+        "link": "https://www.v2ex.com/t/713482",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "[css 辅助工具] KakaCss - 快速生成 Css 样式",
+        "link": "https://www.v2ex.com/t/713481",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "记一次将某主机系统盘备份为 wim 文件后在 Hyper-V 中运行的实践",
+        "link": "https://www.v2ex.com/t/713480",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "老弟兴奋的说：哥，我发现了 Linus Torvalds git 代码里的 bug",
+        "link": "https://www.v2ex.com/t/713479",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "20201010 午夜俱乐部",
+        "link": "https://www.v2ex.com/t/713477",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "现在国内安卓机怎么样？",
+        "link": "https://www.v2ex.com/t/713471",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "请问 macOS 从哪个版本开始， Apple 默认隐藏安全性与隐私-通用-允许从以下位置下载的应用-任何来源？",
+        "link": "https://www.v2ex.com/t/713470",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "什么显卡支持 5120×1440@240Hz 输出？",
+        "link": "https://www.v2ex.com/t/713469",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "有没有人了解未来酒店的，怎么样？",
+        "link": "https://www.v2ex.com/t/713468",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "做了个视频帮助大家理解 Git 原理，干货满满，希望大家喜欢！",
+        "link": "https://www.v2ex.com/t/713467",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "有关 bash 的问题请问一下",
+        "link": "https://www.v2ex.com/t/713466",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "想要考虑所有情况而焦虑该怎么办？",
+        "link": "https://www.v2ex.com/t/713465",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "各位大佬请支招",
+        "link": "https://www.v2ex.com/t/713463",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "十一长途骑行回家的尝试",
+        "link": "https://www.v2ex.com/t/713458",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "cnode 社区没了吗， http://cnodejs.org/ 找不到 ip 地址",
+        "link": "https://www.v2ex.com/t/713457",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "求助， Macbook Pro 16\" 2019 是否还存在 Thermal Throttling 的问题？",
+        "link": "https://www.v2ex.com/t/713454",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "编了一个 SynthWave 风格的小曲子，大家品品",
+        "link": "https://www.v2ex.com/t/713453",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "Macbook Pro 散热口进去了只蟑螂，有没有影响？",
+        "link": "https://www.v2ex.com/t/713452",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "麻瓜编程记第二",
+        "link": "https://www.v2ex.com/t/713451",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "秋招进入倒计时，你的算法都过关了吗?",
+        "link": "https://www.v2ex.com/t/713450",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "支付宝后台挂了么？",
+        "link": "https://www.v2ex.com/t/713448",
+        "date": "2020-10-09"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/blogread/newest",
@@ -3550,57 +3701,77 @@
       {
         "title": "腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
         "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-09"
+        "date": "2020-10-10"
       },
       {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-09"
+        "title": "虚拟机系列：JVM 运行时数据区",
+        "link": "https://toutiao.io/k/otkcgzi",
+        "date": "2020-10-10"
       },
       {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
-        "date": "2020-10-09"
+        "title": "想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-10"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-09"
+        "title": "RocketMQ 进阶：事务消息",
+        "link": "https://toutiao.io/k/ada62ci",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "Python 为什么不支持 switch 语句？",
+        "link": "https://toutiao.io/k/78k43sd",
+        "date": "2020-10-10"
       },
       {
         "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
         "link": "https://toutiao.io/k/ur64xby",
-        "date": "2020-10-09"
+        "date": "2020-10-10"
       },
       {
-        "title": "[推荐] 架构制图：工具与方法论",
-        "link": "https://toutiao.io/k/pzy6sbw",
-        "date": "2020-10-09"
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-10"
       },
       {
         "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
         "link": "https://toutiao.io/k/yabo548",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] Spring Boot 启动原理",
-        "link": "https://toutiao.io/k/itvkvui",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] 大数据时代的用户画像基础介绍和构建流程",
-        "link": "https://toutiao.io/k/sjw8ku8",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
-        "date": "2020-10-09"
+        "date": "2020-10-10"
       },
       {
         "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
         "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-09"
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 大数据时代的用户画像基础介绍和构建流程",
+        "link": "https://toutiao.io/k/sjw8ku8",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] Spring Boot 启动原理",
+        "link": "https://toutiao.io/k/itvkvui",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 架构制图：工具与方法论",
+        "link": "https://toutiao.io/k/pzy6sbw",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
+        "date": "2020-10-10"
       }
     ]
   },

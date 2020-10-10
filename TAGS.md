@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-09 23:47:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-10 00:08:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -408,6 +408,7 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【V2EX】做了个视频帮助大家理解-Git-原理，干货满满，希望大家喜欢！](https://www.v2ex.com/t/713467)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -469,11 +470,11 @@
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】请问-macOS-从哪个版本开始，-Apple-默认隐藏安全性与隐私-通用-允许从以下位置下载的应用-任何来源？](https://www.v2ex.com/t/713470)
 - [【安全热点】【安全圈】黑客入侵乌干达移动支付系统-涉及多家银行、运营商](https://sec.thief.one/article_content?a_id=4c1c06752633886e523e2ec903ef4f03)
 - [【安全热点】中国网络安全厂商、安全培训机构大全-2020-10-9](https://sec.thief.one/article_content?a_id=99e09a3a28d0bd7b3d45e40616fc5076)
 - [【安全热点】网络安全合规动向-|-央行正式印发《金融数据安全-数据安全分级指南》](https://sec.thief.one/article_content?a_id=57a36b57796f676786d8de5e0d89cf80)
 - [【安全热点】Microsoft-Azure安全漏洞分析](https://sec.thief.one/article_content?a_id=23a802959aa73a44fef6169672c5fd4f)
-- [【安全热点】風雲安全路](https://sec.thief.one/article_content?a_id=f3bbc2fff8bc1294ea1a90860c201654)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -504,6 +505,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】秋招进入倒计时，你的算法都过关了吗?](https://www.v2ex.com/t/713450)
 - [【开发者头条】推荐-漏桶、令牌桶限流算法的-Go-语言实现](https://toutiao.io/k/ur64xby)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -543,6 +545,7 @@
 - [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【V2EX】老弟兴奋的说：哥，我发现了-Linus-Torvalds-git-代码里的-bug](https://www.v2ex.com/t/713479)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -612,6 +615,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】巴西新增27444例新冠肺炎确诊病例-累计5055888例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieKhjb1dJKqzpA0XjxWQ9201010&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国新冠肺炎确诊病例超765万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ4loCzEHXVDfRn6m0EMm201010&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -626,11 +631,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】​美国疾控中心前主任：美国政府对新冠疫情作出了最差的反应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv2zu3mbpAmxzomYwqBCX201010&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】感染新冠病毒后谎报信息致40多人感染-韩国一教师获刑6个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkenK0SAoFJESoF4BcaZ201009&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】检测结果全部为阴性-山东青岛涉大港疫情234名密切接触者解除集中隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NLDpaxvvdb5PH77tcLn201009&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】巴勒斯坦首席谈判代表埃雷卡特新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikHlEKxcDz0sU6lHQLuDT201009&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】协助应对新冠疫情-国际货币基金组织第二次减免卢旺达债务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkTDUct7pgRKqvzye5l2201009&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】拉美地区病例近千万-多国努力恢复经济活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiexK679ajequLy7l335R4201009&isfromapp=1)
 - [【Vue社区】分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1)
 - [【Vue社区】手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8)
 - [【Vue社区】本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d)
@@ -646,6 +649,8 @@
 - [【VUE全家桶】【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3)
 - [【VUE全家桶】【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/c000cfc00b1de7d595f4c51820cc7630)
 - [【VUE全家桶】【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/38b599052a6c0772985ffdbfad6875d6)
+- [【React中文社区】招个数据分析工程师，我给25k](https://www.ershicimi.com/p/003c2b9ee98c0992b36c5258e82747d3)
+- [【React中文社区】一文掌握GO语言实战技能三](https://www.ershicimi.com/p/46cac625ac351e226dc4486f2397cb50)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

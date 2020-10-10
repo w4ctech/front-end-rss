@@ -11,6 +11,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "阿根廷新冠肺炎确诊病例累计超88万 商业航班或再次暂缓恢复",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiymE2eMJqDFmQb8s8dqIo201011&isfromapp=1",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "巴西里约州7万只新冠病毒检测盒存在质量问题",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigk2SR1dZpCMxemLcApJG201011&isfromapp=1",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "欧盟委员加布里埃尔新冠病毒检测呈阳性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2XoNq81CBXbT2zf3EuBt201011&isfromapp=1",
+        "date": "2020-10-10"
+      },
+      {
         "title": "德国新增新冠肺炎确诊病例4721例 累计确诊319381例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisefcgiUS8cP5ClXx33E6201010&isfromapp=1",
         "date": "2020-10-10"
@@ -18,21 +33,6 @@
       {
         "title": "菲律宾新增2249例新冠肺炎确诊病例 累计确诊336926例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9LsJ1dGS2IQdZpMpaCzN201010&isfromapp=1",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "俄罗斯新增12846例新冠肺炎确诊病例 累计确诊1285084例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifAuG8kxIOIOy2E8hE4Ei201010&isfromapp=1",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "香港新增6例新冠肺炎确诊病例 累计5175例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiftyEMgshdJlgvTwsjKnA201010&isfromapp=1",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "乌克兰新增5728例新冠肺炎确诊病例 累计256266例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisjLbImqjHtbyTySeMWUq201010&isfromapp=1",
         "date": "2020-10-10"
       }
     ]
@@ -4145,7 +4145,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4319,6 +4319,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "投资余利宝的同学升级到 尊享版了么",
+        "link": "https://www.v2ex.com/t/713842",
+        "date": "2020-10-10"
+      },
       {
         "title": "阿里云正式推出相册和网盘",
         "link": "https://www.v2ex.com/t/713841",
@@ -4507,11 +4512,6 @@
       {
         "title": "关于学校网络改造招标的价格问题",
         "link": "https://www.v2ex.com/t/713793",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "感觉学了编程之后学 Stata 和 Matlab 的软件有点蛋疼",
-        "link": "https://www.v2ex.com/t/713792",
         "date": "2020-10-10"
       }
     ]
@@ -4709,13 +4709,8 @@
         "date": "2020-10-10"
       },
       {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
+        "title": "[推荐] 大数据时代的用户画像基础介绍和构建流程",
+        "link": "https://toutiao.io/k/sjw8ku8",
         "date": "2020-10-10"
       },
       {
@@ -4724,18 +4719,13 @@
         "date": "2020-10-10"
       },
       {
-        "title": "[推荐] 大数据时代的用户画像基础介绍和构建流程",
-        "link": "https://toutiao.io/k/sjw8ku8",
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
         "date": "2020-10-10"
       },
       {
-        "title": "[推荐] 架构师之路：服务器硬件扫盲",
-        "link": "https://toutiao.io/k/dsqwkye",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
-        "link": "https://toutiao.io/k/yabo548",
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-10"
       },
       {
@@ -4744,13 +4734,8 @@
         "date": "2020-10-10"
       },
       {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
+        "title": "[推荐] 架构师之路：服务器硬件扫盲",
+        "link": "https://toutiao.io/k/dsqwkye",
         "date": "2020-10-10"
       },
       {
@@ -4759,8 +4744,23 @@
         "date": "2020-10-10"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
+        "link": "https://toutiao.io/k/yabo548",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-10"
       }
     ]

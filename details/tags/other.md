@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-10 23:25:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-10 23:32:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-10-巴西里约州7万只新冠病毒检测盒存在质量问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigk2SR1dZpCMxemLcApJG201011&isfromapp=1) 
+- [2020-10-10-欧盟委员加布里埃尔新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2XoNq81CBXbT2zf3EuBt201011&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
 - [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
@@ -318,6 +320,7 @@
 - [2020-10-05-十一长假，除了出门看人山人海，还能在家做些什么？](https://www.ershicimi.com/p/4f2d44150af9e23da7c1d210f94a1a5a) 
 - [2020-10-05-知乎故事-|-「大人做错事也要打屁股」](https://www.ershicimi.com/p/e24894a2e9e1dfad861398995bc4ec3e) 
 - [2020-10-04-本周知乎热榜-|-《我和我的家乡》再创佳绩，石原里美宣布结婚，成都成功申办世园会](https://www.ershicimi.com/p/85e87b0f23bc57f73328f134b74fb55f) 
+- [2020-10-10-投资余利宝的同学升级到-尊享版了么](https://www.v2ex.com/t/713842) 
 - [2020-10-10-阿里云正式推出相册和网盘](https://www.v2ex.com/t/713841) 
 - [2020-10-10-有-v-友用-MacBooster-8-吗？杀软报毒是怎么回事？](https://www.v2ex.com/t/713839) 
 - [2020-10-10-MacOS-APP-可能是-Mac-上颜值最高的接口文档生成工具](https://www.v2ex.com/t/713838) 
@@ -350,7 +353,6 @@
 - [2020-10-10-双十一快到了.有没有某宝抢购软件啊](https://www.v2ex.com/t/713796) 
 - [2020-10-10-室友总带女朋友回家怎么办？](https://www.v2ex.com/t/713795) 
 - [2020-10-10-关于学校网络改造招标的价格问题](https://www.v2ex.com/t/713793) 
-- [2020-10-10-感觉学了编程之后学-Stata-和-Matlab-的软件有点蛋疼](https://www.v2ex.com/t/713792) 
 - [2020-10-10-Referer-防盗链，为什么少了个字母-R？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13808&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F263425663%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-10-一文讲懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZYFdJ0FRNhcbWP3Ddng1lA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-10-Android-敏感数据泄露引发的思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -378,14 +380,14 @@
 - [2020-10-10-严选埋点质量保障体系建设](https://toutiao.io/k/22nj7l6) 
 - [2020-10-10-“网络-IO-套路”-当时就靠它追到女友](https://toutiao.io/k/l1tr5i6) 
 - [2020-10-10-LeetCode-94：二叉树的中序遍历](https://toutiao.io/k/ir6rtrn) 
-- [2020-10-10-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) 
-- [2020-10-10-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) 
 - [2020-10-10-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) 
+- [2020-10-10-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) 
+- [2020-10-10-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) 
+- [2020-10-10-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) 
 - [2020-10-10-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) 
 - [2020-10-10-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) 
-- [2020-10-10-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) 
 - [2020-10-10-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) 
-- [2020-10-10-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) 
+- [2020-10-10-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) 
 - [2020-10-10-工具推荐:无糖-向网络犯罪开炮](https://sec.thief.one/article_content?a_id=e791304125f574b38117fd2c87c5c809) 
 - [2020-10-10-习近平在中央党校国家行政学院中青年干部培训班开班式上发表重...](https://sec.thief.one/article_content?a_id=b525a3c8594163a6c660847310e29ee5) 
 - [2020-10-10-当艺术邂逅技术|2020TechWorld技术嘉年华邀您解锁新玩法](https://sec.thief.one/article_content?a_id=1a3fce7259a63b847d48c429dfb3e4a9) 

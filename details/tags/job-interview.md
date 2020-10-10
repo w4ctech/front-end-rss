@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-10 06:15:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-10 06:30:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,5 +37,3 @@
 - [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-10-07-Redis-面试-8-连问，你能顶住几道？](https://www.ershicimi.com/p/d100b68da538455fb72721a4b87084f9) 
-- [2020-10-10-智联招聘我没注册过，发邮件给我说说-xxx，-zz-地区的-HR-想了解你？](https://www.v2ex.com/t/713601) 
-- [2020-10-10-西安-移动研究院-云计算开发-招聘若干](https://www.v2ex.com/t/713597) 

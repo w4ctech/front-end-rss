@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-10 06:15:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-10 06:30:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,8 +15,6 @@
 - [2020-09-29-Map-和-Set-两种数据结构在ES6的作用](https://www.ershicimi.com/p/b18ca7571084ca38530d5148962706a4) 
 - [2020-09-28-安利几个JS开发小技巧](https://www.ershicimi.com/p/d6bfc393c35af20a4421345c71c03b91) 
 - [2020-09-25-11个JavaScript代码重构最佳实践](https://www.ershicimi.com/p/f96c57122ba235926b80039b53cf61fc) 
-- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
-- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-09-28-【第2079期】理解ECMAScript规范（二）](https://www.ershicimi.com/p/abbc0eba9a15dc0d04591db13d412038) 
 - [2020-09-21-【第2072期】-或许这就是下一代组件库](https://www.ershicimi.com/p/876dde13179380f6a7730b2c5910df61) 
 - [2020-09-17-【第2068期】高级程序4：异步函数](https://www.ershicimi.com/p/ce7f61d3280b9ae7289161c168751d47) 
@@ -46,12 +44,6 @@
 - [2020-10-08-组件库主题设计方案](https://www.ershicimi.com/p/9a2fc5896ce33b74d37e90713a69793e) 
 - [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/ef8836a398c98f900987145946f1002a) 
 - [2020-09-13-【适合收藏】为了多点时间陪女朋友，我向BAT大佬跪求了这15条JS技巧](https://www.ershicimi.com/p/377a93f8f8487721b0841aef9d394740) 
-- [2020-10-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/d9cfd050a06b59cdc298976e5379fb90) 
-- [2020-09-30-写好JavaScript条件语句的5条守则](https://www.ershicimi.com/p/f90725c5daad5d1fc00ceab296894fe0) 
-- [2020-09-29-由浅入深，66条JavaScript面试知识点](https://www.ershicimi.com/p/6a7398591a2c246eb340a371e2bef4ab) 
-- [2020-09-28-「译」更快的-async-函数和-promises](https://www.ershicimi.com/p/82bbbb940fb24f6065c0af79ab916fbe) 
-- [2020-09-26-javascript红宝书第4版中奖名单！](https://www.ershicimi.com/p/c2b140a6eba648c1cc193b5b78df5019) 
-- [2020-09-24-Moment.js官方推荐使用其它时间处理库代替](https://www.ershicimi.com/p/20ae61e2678644375975f6e0a5241d0b) 
 - [2020-10-08-前端组件设计原则](https://www.ershicimi.com/p/a6ace26783373f356fc765a97af4a6de) 
 - [2020-09-27-大型-web-应用公共组件架构思考](https://www.ershicimi.com/p/565d0b3bb5d2359fa7ee8b6f818f1727) 
 - [2020-09-23-写好-JS-条件语句的-5-条守则](https://www.ershicimi.com/p/441c1078081ce1941105510ee6904490) 
@@ -80,4 +72,3 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-10-10-关于-JS-脚本的问题](https://www.v2ex.com/t/713608) 

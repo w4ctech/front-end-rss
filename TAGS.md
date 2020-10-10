@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-10 09:13:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-10 09:27:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -403,6 +403,7 @@
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【掘金前端】发送Ajax请求的4种方式](https://juejin.im/post/6881874329642991623)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】这是什么奇葩问题呀，为什么我的接口请求会时不时报跨域错误，有大神遇到过吗？](https://www.v2ex.com/t/713702)
 - [【技术头条】一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -413,7 +414,6 @@
 - [【安全热点】Microsoft-Azure安全漏洞分析](https://sec.thief.one/article_content?a_id=23a802959aa73a44fef6169672c5fd4f)
 - [【安全热点】風雲安全路](https://sec.thief.one/article_content?a_id=f3bbc2fff8bc1294ea1a90860c201654)
 - [【安全热点】黑客宣称可以越狱苹果T2安全芯片](https://sec.thief.one/article_content?a_id=51c0391c3c9d0ef2a05538e51a20e58c)
-- [【安全热点】NVIDIA显卡用户请尽快安装安全更新](https://sec.thief.one/article_content?a_id=b69d144e7f8559df7b7d494fd83719d7)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -482,6 +482,7 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】Git-第一版源代码](https://www.v2ex.com/t/713730)
 - [【开发者头条】深入浅出图解-Git，入门到精通（三）](https://toutiao.io/k/sbh563p)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

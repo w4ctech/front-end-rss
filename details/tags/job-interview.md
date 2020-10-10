@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-10 09:13:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-10 09:27:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -38,3 +38,5 @@
 - [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-10-07-Redis-面试-8-连问，你能顶住几道？](https://www.ershicimi.com/p/d100b68da538455fb72721a4b87084f9) 
+- [2020-10-10-招聘贴-高级-Java-工程师-偏架构](https://www.v2ex.com/t/713706) 
+- [2020-10-10-招聘招聘！腾讯看点商业化前端](https://www.v2ex.com/t/713695) 

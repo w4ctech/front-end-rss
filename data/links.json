@@ -3014,7 +3014,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -3184,10 +3184,226 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "发一个已经挂掉的项目大家看看怎么样",
+        "link": "https://www.v2ex.com/t/713738",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "万能 v 站有酷家乐的老哥吗",
+        "link": "https://www.v2ex.com/t/713737",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "2020 换工作总结",
+        "link": "https://www.v2ex.com/t/713736",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "我自己开发了一个可能大家都不会用的 APP，好想知道大家的反应啊！",
+        "link": "https://www.v2ex.com/t/713735",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "跳槽问题求教",
+        "link": "https://www.v2ex.com/t/713734",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "日本人口顶点是 2007 年，安倍新劳动法是 2017 年",
+        "link": "https://www.v2ex.com/t/713732",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "有真的过上租鸡青一生活的老哥么，展开谈谈？",
+        "link": "https://www.v2ex.com/t/713731",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "Git 第一版源代码",
+        "link": "https://www.v2ex.com/t/713730",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "求助, 修改了 PHP .ini, 执行 PHP -reload 报错",
+        "link": "https://www.v2ex.com/t/713729",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "求推荐一款 mac 端双向同步命令行工具",
+        "link": "https://www.v2ex.com/t/713727",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "最近面了一个前端，感觉很满意，分享给大家",
+        "link": "https://www.v2ex.com/t/713726",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "推荐一款新的编程字体 Julia Mono",
+        "link": "https://www.v2ex.com/t/713725",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "找一部科幻电影，脑波控制仿生人/机器人这样子",
+        "link": "https://www.v2ex.com/t/713724",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "怎么把手机屏幕和声音投影到电脑， win10 自带的投影经常连接失败",
+        "link": "https://www.v2ex.com/t/713723",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "如何使用淘宝账号获取手机号？",
+        "link": "https://www.v2ex.com/t/713722",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "你国庆参加了机场婚礼？",
+        "link": "https://www.v2ex.com/t/713721",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "关于语文这门课",
+        "link": "https://www.v2ex.com/t/713720",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "请问深圳企业固定 ip 有啥好选择吗？",
+        "link": "https://www.v2ex.com/t/713719",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "程序员刷题群",
+        "link": "https://www.v2ex.com/t/713718",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[美团上海] [Leader 直招] 测试开发工程师（其他岗位也可内推）",
+        "link": "https://www.v2ex.com/t/713717",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "国产之光，完全自主开源的在线电子表格，类似 google sheet 和 excel",
+        "link": "https://www.v2ex.com/t/713716",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "联调为了推销所谓 5G 流量包也是挺拼的。",
+        "link": "https://www.v2ex.com/t/713715",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "iPad 和 iPhone 的微信如何才能像 macOS 那样登录后只有一端提醒？",
+        "link": "https://www.v2ex.com/t/713714",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "最新买了一台苹果 mbp 有点疑惑，这价格国行的，比官翻差不多价格，比原价便宜 2K",
+        "link": "https://www.v2ex.com/t/713713",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "3000 帧定格动画告诉你什么是 DevOps",
+        "link": "https://www.v2ex.com/t/713712",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "哪些反爬技术大家没能爬过去？来来来，我先说",
+        "link": "https://www.v2ex.com/t/713711",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "自家果园—突尼斯软籽石榴 [皮薄汁多，甘甜鲜美]",
+        "link": "https://www.v2ex.com/t/713708",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[深圳南山] 出 18 款 15 寸 mbp 32g 内存",
+        "link": "https://www.v2ex.com/t/713707",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[招聘贴] 高级 Java 工程师 (偏架构)",
+        "link": "https://www.v2ex.com/t/713706",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "今天我们讨论的是大小周，距离讨论大小月还要多久？",
+        "link": "https://www.v2ex.com/t/713705",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "博客问题终于解决了 通过 coding 搭建免费博客 快得飞起！",
+        "link": "https://www.v2ex.com/t/713704",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "你家窗帘洗吗？还是用几年直接换掉",
+        "link": "https://www.v2ex.com/t/713703",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "这是什么奇葩问题呀，为什么我的接口请求会时不时报跨域错误，有大神遇到过吗？",
+        "link": "https://www.v2ex.com/t/713702",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[分享] 给孩子买东西时候，不用电子支付而尽量用现金是培养孩子金钱观时，一个值得参考的做法",
+        "link": "https://www.v2ex.com/t/713701",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "安卓和苹果开发， C# Java ,选哪个，求解惑！",
+        "link": "https://www.v2ex.com/t/713700",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "分享一个 Mac 上的 Gmail 客户端",
+        "link": "https://www.v2ex.com/t/713699",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[硅谷 AI 外企] [Hiretual 北京研发中心] [DevOps、QA 等技术岗]",
+        "link": "https://www.v2ex.com/t/713698",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "阿里旺旺买家版的聊天记录为什么换电脑就无法使用了？",
+        "link": "https://www.v2ex.com/t/713696",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "招聘招聘！腾讯看点商业化前端",
+        "link": "https://www.v2ex.com/t/713695",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "为什么 appstore 有些 app 会自动更新，有些不会",
+        "link": "https://www.v2ex.com/t/713694",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "联想小新 Pro13 的 Type-C 接口可以实现“一线通”吗？",
+        "link": "https://www.v2ex.com/t/713693",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "有人研究过本站的后台表结构么",
+        "link": "https://www.v2ex.com/t/713692",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "由“给够钱就可以 996 吗？”的帖子联想到哈定悲剧",
+        "link": "https://www.v2ex.com/t/713689",
+        "date": "2020-10-10"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -3342,13 +3558,13 @@
         "date": "2020-10-10"
       },
       {
-        "title": "LeetCode (94)：二叉树的中序遍历",
-        "link": "https://toutiao.io/k/ir6rtrn",
+        "title": "Vim 配置入门",
+        "link": "https://toutiao.io/k/buivt12",
         "date": "2020-10-10"
       },
       {
-        "title": "Vim 配置入门",
-        "link": "https://toutiao.io/k/buivt12",
+        "title": "LeetCode (94)：二叉树的中序遍历",
+        "link": "https://toutiao.io/k/ir6rtrn",
         "date": "2020-10-10"
       },
       {
@@ -3382,43 +3598,8 @@
         "date": "2020-10-10"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "[推荐] Spring Boot 启动原理",
-        "link": "https://toutiao.io/k/itvkvui",
-        "date": "2020-10-10"
-      },
-      {
         "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
         "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "[推荐] 架构制图：工具与方法论",
-        "link": "https://toutiao.io/k/pzy6sbw",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
-        "link": "https://toutiao.io/k/ur64xby",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "[推荐] 大数据时代的用户画像基础介绍和构建流程",
-        "link": "https://toutiao.io/k/sjw8ku8",
         "date": "2020-10-10"
       },
       {
@@ -3427,8 +3608,43 @@
         "date": "2020-10-10"
       },
       {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-10"
+      },
+      {
         "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
         "link": "https://toutiao.io/k/dufazik",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] Spring Boot 启动原理",
+        "link": "https://toutiao.io/k/itvkvui",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 架构制图：工具与方法论",
+        "link": "https://toutiao.io/k/pzy6sbw",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 大数据时代的用户画像基础介绍和构建流程",
+        "link": "https://toutiao.io/k/sjw8ku8",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 漏桶、令牌桶限流算法的 Go 语言实现",
+        "link": "https://toutiao.io/k/ur64xby",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-10"
       }
     ]

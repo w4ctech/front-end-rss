@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-10 13:25:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-10 13:32:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -8,3 +8,4 @@
 
 
 - [2020-09-24-Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/f95d56e6e84c38133b2b0edaa76e00c1) 
+- [2020-10-03-Flutter-最佳实践](https://www.ershicimi.com/p/b5797a821ecc81f075f99908a2def375) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-10 13:49:22，:rocket: 更新条数: +3462， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-10 14:04:08，:rocket: 更新条数: +734， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-10-09-最新疫情：全国新冠累计确诊85536例-新增境外输入15例](http://m.china.caixin.com/m/2020-10-10/101613379.html) ![](assets/new.png)  
-- [2020-10-09-中国加入全球新冠疫苗实施计划-将向全球供应](https://m.caixin.com/m/2020-10-10/101613363.html) ![](assets/new.png)  
-- [2020-10-09-最新海外疫情：新冠感染近3668万-累计死亡超106万](http://m.international.caixin.com/m/2020-10-10/101613399.html) ![](assets/new.png)  
-- [2020-10-09-【境内疫情观察】全国新增39例无症状感染者（10月9日）](http://m.database.caixin.com/m/2020-10-10/101613339.html) ![](assets/new.png)  
-- [2020-10-09-大流行手记|10月9日：中国加入世卫疫苗计划-新冠或令婴儿死产率上升](https://m.caixin.com/m/2020-10-10/101613209.html) ![](assets/new.png)  
-- [2020-10-08-【境内疫情观察】陕西新增10例境外输入病例（10月8日）](http://m.database.caixin.com/m/2020-10-09/101612841.html) ![](assets/new.png)  
-- [2020-10-08-大流行手记|10月8日：欧盟与强生达成疫苗供应协议-特朗普拒绝远程辩论](https://m.caixin.com/m/2020-10-09/101612770.html) ![](assets/new.png)  
-- [2020-10-07-【境内疫情观察】全国新增11例境外输入病例（10月7日）](http://m.database.caixin.com/m/2020-10-08/101612644.html) ![](assets/new.png)  
-- [2020-10-07-大流行手记|10月7日：WHO呼吁加大精神卫生投资-英国将新建40座医院](https://m.caixin.com/m/2020-10-08/101612616.html) ![](assets/new.png)  
-- [2020-10-06-【境内疫情观察】全国新增7例境外输入病例（10月6日）](http://m.database.caixin.com/m/2020-10-07/101612540.html) ![](assets/new.png)  
-- [2020-10-06-大流行手记|10月6日：英国漏报1.6万新冠患者-白宫试图提早疫苗审批](https://m.caixin.com/m/2020-10-07/101612511.html) ![](assets/new.png)  
-- [2020-10-05-【境内疫情观察】全国新增12例境外输入病例（10月5日）](http://m.database.caixin.com/m/2020-10-06/101612429.html) ![](assets/new.png)  
-- [2020-10-05-大流行手记|10月5日：特朗普是否重症引关注-印度发明低价快检新方法](https://m.caixin.com/m/2020-10-06/101612409.html) ![](assets/new.png)  
-- [2020-10-04-【境内疫情观察】上海新增10例境外输入病例（10月4日）](http://m.database.caixin.com/m/2020-10-05/101612322.html) ![](assets/new.png)  
-- [2020-10-04-大流行手记|10月4日：特朗普乘专车现身人群-日本拟明春开放游客入境](https://m.caixin.com/m/2020-10-05/101612309.html) ![](assets/new.png)  
-- [2020-10-03-【境内疫情观察】全国新增16例境外输入病例（10月3日）](http://m.database.caixin.com/m/2020-10-04/101612230.html) ![](assets/new.png)  
-- [2020-10-03-大流行手记|10月3日：特朗普“密接”数人感染-英国疫苗有望年底上市](https://m.caixin.com/m/2020-10-04/101612223.html) ![](assets/new.png)  
-- [2020-10-02-【境内疫情观察】全国新增10例境外输入病例（10月2日）](http://m.database.caixin.com/m/2020-10-03/101612160.html) ![](assets/new.png)  
-- [2020-10-02-大流行手记|10月2日：特朗普确诊后现轻微症状-亚马逊近2万员工感染](https://m.caixin.com/m/2020-10-03/101612150.html) ![](assets/new.png)  
-- [2020-10-01-【境内疫情观察】全国新增10例境外输入病例（10月1日）](http://m.database.caixin.com/m/2020-10-02/101612037.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,26 +1037,6 @@
 </summary>
 
 
-- [2020-10-10-室友总带女朋友回家怎么办？](https://www.v2ex.com/t/713795) ![](assets/new.png)  
-- [2020-10-10-关于学校网络改造招标的价格问题](https://www.v2ex.com/t/713793) ![](assets/new.png)  
-- [2020-10-10-感觉学了编程之后学-Stata-和-Matlab-的软件有点蛋疼](https://www.v2ex.com/t/713792) ![](assets/new.png)  
-- [2020-10-10-敲了一天的代码，闲来无事，录了一个吉他弹唱的视频，放松一下，有同好吗？](https://www.v2ex.com/t/713791) ![](assets/new.png)  
-- [2020-10-10-帮忙看看简历，谢谢啦](https://www.v2ex.com/t/713790) ![](assets/new.png)  
-- [2020-10-10-如何向-word-里面插入一个分页符？](https://www.v2ex.com/t/713789) ![](assets/new.png)  
-- [2020-10-10-请教开发环境-k8s-与-feign-使用之间的问题](https://www.v2ex.com/t/713788) ![](assets/new.png)  
-- [2020-10-10-android-版微信-7.0.15，不-root-导出聊天记录有什么可行的办法吗](https://www.v2ex.com/t/713786) ![](assets/new.png)  
-- [2020-10-10-晒晒你为-iPad-添置的配件们](https://www.v2ex.com/t/713785) ![](assets/new.png)  
-- [2020-10-10-请问有无了解-盒马共享员工-的大佬？](https://www.v2ex.com/t/713784) ![](assets/new.png)  
-- [2020-10-10-“场信”应用的基本雏形已经完成，希望大家给我点赞，提供意见，欢迎加入](https://www.v2ex.com/t/713783) ![](assets/new.png)  
-- [2020-10-10-请教上海哪个健身房有支持-Apple-watch-的健身设备？](https://www.v2ex.com/t/713782) ![](assets/new.png)  
-- [2020-10-10-Linux-系统从-Intel-平台迁移到-AMD-需要注意什么吗？](https://www.v2ex.com/t/713781) ![](assets/new.png)  
-- [2020-10-10-我自己写了一个标志网站收录有-16W](https://www.v2ex.com/t/713778) ![](assets/new.png)  
-- [2020-10-10-我的网络-fq-看视频浏览网页都没问题，速度也可以，但很多国内网站打不开，感觉解析有问题，但换-dns-无效，有人知道吗？](https://www.v2ex.com/t/713776) ![](assets/new.png)  
-- [2020-10-10-如何最方便的给别人发微信视频？](https://www.v2ex.com/t/713774) ![](assets/new.png)  
-- [2020-10-10-Apple-Music-不开启同步资料库，就无法将-Apple-Music-曲库里的音乐添加到列表？](https://www.v2ex.com/t/713773) ![](assets/new.png)  
-- [2020-10-10-有没有-iCloud-家庭共享的车](https://www.v2ex.com/t/713772) ![](assets/new.png)  
-- [2020-10-10-求推荐上海联通好用的美国-VPS](https://www.v2ex.com/t/713771) ![](assets/new.png)  
-- [2020-10-10-大家怎么在-service-处理验证失败的信息？](https://www.v2ex.com/t/713770) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1135,10 +1095,10 @@
 - [2020-10-10-浅谈-URL-协议](https://toutiao.io/k/kuvr3yy) ![](assets/new.png)  
 - [2020-10-10-深入浅出图解-Git，入门到精通（三）](https://toutiao.io/k/sbh563p) ![](assets/new.png)  
 - [2020-10-10-如何无缝迁移-Spring-Cloud/Dubbo-应用到-Serverless-架构](https://toutiao.io/k/79jwvwr) ![](assets/new.png)  
-- [2020-10-10-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
-- [2020-10-10-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-10-推荐-Spring-Boot-启动原理](https://toutiao.io/k/itvkvui) ![](assets/new.png)  
 - [2020-10-10-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
+- [2020-10-10-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
+- [2020-10-10-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-10-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

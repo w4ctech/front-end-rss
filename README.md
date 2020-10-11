@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-11 22:14:05，:rocket: 更新条数: +781， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-11 22:26:18，:rocket: 更新条数: +781， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -934,16 +934,16 @@
 - [2020-10-11-谈谈数据库的事务-ACID](https://toutiao.io/k/zxgx6z2) ![](assets/new.png)  
 - [2020-10-11-mPaaS-RPC-拦截器各种场景下的使用指南](https://toutiao.io/k/g7i1g7y) ![](assets/new.png)  
 - [2020-10-11-三种方式让你轻松监控-EntityFramework-中的-SQL-流转](https://toutiao.io/k/fgwgvay) ![](assets/new.png)  
-- [2020-10-11-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
 - [2020-10-11-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-11-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-11-推荐-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) ![](assets/new.png)  
-- [2020-10-11-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-10-11-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [2020-10-11-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [2020-10-11-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
+- [2020-10-11-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-11-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-10-11-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
 - [2020-10-11-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-11-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [2020-10-11-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
+- [2020-10-11-推荐-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

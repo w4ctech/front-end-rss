@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-11 03:35:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-11 03:39:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,4 +7,5 @@
 
 
 
+- [2020-10-11-想入一个曲面显示器打游戏，工作编码/切图之类的，曲面会失真吗？](https://www.v2ex.com/t/713845) 
 - [2020-10-04-【安全圈】游戏盗版组织Team-Xecuter主要成员被捕](https://sec.thief.one/article_content?a_id=0e51dc47180e868b8798f3e1832aa132) 

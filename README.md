@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-11 23:24:59，:rocket: 更新条数: +983， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-11 23:32:30，:rocket: 更新条数: +983， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -75,11 +75,11 @@
 </summary>
 
 
+- [2020-10-11-美媒：新冠肺炎疫情加剧美国社会经济不平等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQ7qNMoR18kBACCBoAEz201012&isfromapp=1) ![](assets/new.png)  
+- [2020-10-11-巴西新增12342例新冠肺炎确诊病例-累计确诊近510万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9vrsffbg6bkx2Ub1ItS201012&isfromapp=1) ![](assets/new.png)  
 - [2020-10-11-香港新增7例新冠肺炎确诊病例-累计5182例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJokxggiO2wuaH5jTRWTN201011&isfromapp=1) ![](assets/new.png)  
 - [2020-10-11-俄罗斯新增13634例新冠肺炎确诊病例-累计近130万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZcJ70EWGzALBysCiwovT201011&isfromapp=1) ![](assets/new.png)  
 - [2020-10-11-香港财政司司长：应借鉴内地经验-既控制疫情也恢复生活生产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF41Z8YdZy3r030dNSErX201011&isfromapp=1) ![](assets/new.png)  
-- [2020-10-11-拉美地区累计确诊新冠肺炎人数破千万-多国迫于经济压力“带疫开放”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW9LaoVg2ReFGsKXTeObg201011&isfromapp=1) ![](assets/new.png)  
-- [2020-10-11-国家卫健委：10日新增新冠肺炎确诊病例21例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipu57qhQ28RZqun9O9j4A201011&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,19 +1120,19 @@
 
 
 - [2020-10-11-到了-2020-年，顶级的-P8-架构师的技术水平到底需要达到怎样的程度？](https://toutiao.io/k/0vi58e0) ![](assets/new.png)  
-- [2020-10-11-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-11-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-11-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
 - [2020-10-11-推荐-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) ![](assets/new.png)  
-- [2020-10-11-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-11-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
+- [2020-10-11-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [2020-10-11-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-10-11-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-11-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-11-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
 - [2020-10-11-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-11-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-11-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
 - [2020-10-11-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [2020-10-11-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-11-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-11-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-11-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-11-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
+- [2020-10-11-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

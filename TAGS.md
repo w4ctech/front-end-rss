@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-11 23:24:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-11 23:32:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -628,10 +628,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】美媒：新冠肺炎疫情加剧美国社会经济不平等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQ7qNMoR18kBACCBoAEz201012&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】巴西新增12342例新冠肺炎确诊病例-累计确诊近510万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9vrsffbg6bkx2Ub1ItS201012&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】香港新增7例新冠肺炎确诊病例-累计5182例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJokxggiO2wuaH5jTRWTN201011&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】俄罗斯新增13634例新冠肺炎确诊病例-累计近130万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZcJ70EWGzALBysCiwovT201011&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】拉美地区累计确诊新冠肺炎人数破千万-多国迫于经济压力“带疫开放”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW9LaoVg2ReFGsKXTeObg201011&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：10日新增新冠肺炎确诊病例21例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipu57qhQ28RZqun9O9j4A201011&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

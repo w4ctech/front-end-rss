@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-11 23:24:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-11 23:32:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,11 +122,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-11-美媒：新冠肺炎疫情加剧美国社会经济不平等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQ7qNMoR18kBACCBoAEz201012&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-11-巴西新增12342例新冠肺炎确诊病例-累计确诊近510万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9vrsffbg6bkx2Ub1ItS201012&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-10-11-香港新增7例新冠肺炎确诊病例-累计5182例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJokxggiO2wuaH5jTRWTN201011&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-10-11-俄罗斯新增13634例新冠肺炎确诊病例-累计近130万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZcJ70EWGzALBysCiwovT201011&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-10-11-香港财政司司长：应借鉴内地经验-既控制疫情也恢复生活生产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF41Z8YdZy3r030dNSErX201011&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-11-拉美地区累计确诊新冠肺炎人数破千万-多国迫于经济压力“带疫开放”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW9LaoVg2ReFGsKXTeObg201011&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-11-国家卫健委：10日新增新冠肺炎确诊病例21例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipu57qhQ28RZqun9O9j4A201011&isfromapp=1) 
 - [【Vue中文社区】2020-10-09-朋友公司工作3年的前端被裁-领导：这样的员工应当放弃~](https://www.ershicimi.com/p/ea7746ce9edc3d60582dfe3ac03e557e) 
 - [【Vue中文社区】2020-10-09-JavaScript-里的奇葩知识](https://www.ershicimi.com/p/b72adb785bac7c9c63ea5ec58cdf34eb) 
 - [【前端大全】2020-10-10-谁说前端不用懂，手摸手-Docker-从入门到实践](https://www.ershicimi.com/p/84d7e2d4188c596461ae05729bfc2970) 
@@ -321,19 +321,19 @@
 - [【技术头条】2020-10-11-职场常备的-TOP-20-AI-产品工具-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13794&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F09%2F23%2F170-list-of-top-20-ai-product-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-11-如何选择适合自己网站的防盗链-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13793&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F258380316%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2020-10-11-到了-2020-年，顶级的-P8-架构师的技术水平到底需要达到怎样的程度？](https://toutiao.io/k/0vi58e0) 
-- [【开发者头条】2020-10-11-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) 
-- [【开发者头条】2020-10-11-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) 
-- [【开发者头条】2020-10-11-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) 
 - [【开发者头条】2020-10-11-推荐-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) 
-- [【开发者头条】2020-10-11-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) 
+- [【开发者头条】2020-10-11-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) 
+- [【开发者头条】2020-10-11-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) 
 - [【开发者头条】2020-10-11-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) 
+- [【开发者头条】2020-10-11-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) 
+- [【开发者头条】2020-10-11-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
+- [【开发者头条】2020-10-11-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) 
 - [【开发者头条】2020-10-11-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) 
+- [【开发者头条】2020-10-11-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) 
+- [【开发者头条】2020-10-11-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) 
 - [【开发者头条】2020-10-11-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) 
 - [【开发者头条】2020-10-11-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) 
-- [【开发者头条】2020-10-11-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) 
-- [【开发者头条】2020-10-11-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
-- [【开发者头条】2020-10-11-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) 
-- [【开发者头条】2020-10-11-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) 
+- [【开发者头条】2020-10-11-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) 
 - [【安全热点】2020-10-11-【安全圈】川普,危!家人及竞选团队邮件被黑客锁定!](https://sec.thief.one/article_content?a_id=f674d00c3dcec67c8d6724cb02ec7661) 
 - [【安全热点】2020-10-11-那些与辟谣有关的日子](https://sec.thief.one/article_content?a_id=ee23f51099f76557fb867a37f288734f) 
 - [【安全热点】2020-10-11-OSRC携手共建2020第四届看雪安全开发者峰会,筑梦未来!](https://sec.thief.one/article_content?a_id=b0ae1ce46351d811b21fb1294f1d5ea4) 

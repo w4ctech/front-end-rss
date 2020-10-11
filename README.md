@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-11 01:12:09，:rocket: 更新条数: +975， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-11 01:20:24，:rocket: 更新条数: +994， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -885,6 +885,26 @@
 </summary>
 
 
+- [2020-10-10-美国酝酿制裁支付宝和微信支付；传台积电获供应华为许可证；微软允许员工永久在家办公-丨-Q资讯](https://www.ershicimi.com/p/8c3c72d7eda6760af1133221ac2ff4e1) ![](assets/new.png)  
+- [2020-10-10-TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/cd57b7a665702a5a6f1ac178869303df) ![](assets/new.png)  
+- [2020-10-10-【金秋十月】赢千元数码大奖，竟然如此简单](https://www.ershicimi.com/p/887555a1091a1c518246ac4ff3b91a5d) ![](assets/new.png)  
+- [2020-10-10-一个反对“平台团队”的案例](https://www.ershicimi.com/p/0ead39c577f8ccf2fa169df7a245041a) ![](assets/new.png)  
+- [2020-10-10-DevOps工程师的必备技能清单](https://www.ershicimi.com/p/6432b7f63c31bbf4ff70aa471a2ad4b7) ![](assets/new.png)  
+- [2020-10-09-一个IT时代的终结：109岁的IBM将分拆为两家公司](https://www.ershicimi.com/p/78fc3af2a9aabb02e470af3a25b786a2) ![](assets/new.png)  
+- [2020-10-09-TiDB-on-Kubernetes-最佳实践](https://www.ershicimi.com/p/254d2e42ad229f8dcfd1493160bd073c) ![](assets/new.png)  
+- [2020-10-09-人工智能势如破竹，开创机器人对话时代-｜-Q推荐](https://www.ershicimi.com/p/3b323da84fe757537bb6b948592ba69c) ![](assets/new.png)  
+- [2020-10-09-PHP与.NET统治Web开发世界的八个理由](https://www.ershicimi.com/p/359a3c3a3a39f25f2bebb8bbf278dcc8) ![](assets/new.png)  
+- [2020-10-08-芯片断供，华为软件艰难补洞](https://www.ershicimi.com/p/6abda60d210c57c6cd5d3d91c1dc1a0b) ![](assets/new.png)  
+- [2020-10-08-十万-IT-人都关注的技术发展白皮书，到底讲了什么？](https://www.ershicimi.com/p/0b8e988e643e52111d3987b16ab30809) ![](assets/new.png)  
+- [2020-10-08-人工智能时代：打造AI基础平台是关键-｜-QCon+](https://www.ershicimi.com/p/de72ae570fc46a00adf1cb8310540525) ![](assets/new.png)  
+- [2020-10-08-我如何解决一个基于GraphQL网站的扩展性问题？](https://www.ershicimi.com/p/8b8eeda5ce1924e25316afa2fb240d40) ![](assets/new.png)  
+- [2020-10-07-我是一位40岁的“老程序员”，我有一些想法](https://www.ershicimi.com/p/f02c7349d2a2fc484ea5869ce088b340) ![](assets/new.png)  
+- [2020-10-07-不写文档你就输了](https://www.ershicimi.com/p/5246bd51bcb07d0107360032fc9e03a5) ![](assets/new.png)  
+- [2020-10-06-一份来自清华的「数据分析」笔记，手快有手慢无！｜-极客时间](https://www.ershicimi.com/p/5a99257e6c080a068a445054c79e7605) ![](assets/new.png)  
+- [2020-10-06-用了3年Kubernetes，我们得到的5个教训](https://www.ershicimi.com/p/a4e4ea4fdcd20f5edc357ca6cc28947d) ![](assets/new.png)  
+- [2020-10-06-Uber三代API-生命周期管理平台实现](https://www.ershicimi.com/p/2b51209c5bf4d46435bb5b1ce7385c8a) ![](assets/new.png)  
+- [2020-10-05-高德、百度的下半场地图战，你要被抛弃了吗？](https://www.ershicimi.com/p/1ed2c5dea99086698ce595415540bdbd) ![](assets/new.png)  
+- [2020-10-05-一些建议：给当年刚做程序员的我](https://www.ershicimi.com/p/8964f96e5d70287b15e36738055cb9b7) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,9 +1057,9 @@
 </summary>
 
 
+- [2020-10-11-现在使用苹果-8p-的更新了-ios14-怎么样？](https://www.v2ex.com/t/713850) ![](assets/new.png)  
 - [2020-10-11-我想做一个小程序，小程序中罗列各种公众号的文章合集，可以实现吗](https://www.v2ex.com/t/713849) ![](assets/new.png)  
 - [2020-10-11-大家对网盘的需求是怎么样的呢？](https://www.v2ex.com/t/713848) ![](assets/new.png)  
-- [2020-10-11-如何评价-Twitter-上的反差婊以及媚黑女？](https://www.v2ex.com/t/713847) ![](assets/new.png)  
 - [2020-10-11-请问这段-fscanf-的代码为什么没有达到预期的效果？](https://www.v2ex.com/t/713846) ![](assets/new.png)  
 - [2020-10-11-想入一个曲面显示器打游戏，工作编码/切图之类的，曲面会失真吗？](https://www.v2ex.com/t/713845) ![](assets/new.png)  
 - [2020-10-11-改造免费-wordpress-主题-Neve](https://www.v2ex.com/t/713844) ![](assets/new.png)  
@@ -1100,25 +1120,25 @@
 
 
 - [2020-10-11-工具-|-英伟达开源的一个新的-PyTorch-库](https://toutiao.io/k/5wg0hgp) ![](assets/new.png)  
-- [2020-10-11-Go-设计模式（十六）：职责链模式之-Gin-的中间件实现](https://toutiao.io/k/a6x2m4g) ![](assets/new.png)  
 - [2020-10-11-引入适用于双屏和可折叠设备的-Web-API](https://toutiao.io/k/lr9hl1w) ![](assets/new.png)  
+- [2020-10-11-Go-设计模式（十六）：职责链模式之-Gin-的中间件实现](https://toutiao.io/k/a6x2m4g) ![](assets/new.png)  
 - [2020-10-11-译-用-tc-qdisc-管理-Linux-网络带宽](https://toutiao.io/k/vssa6c4) ![](assets/new.png)  
 - [2020-10-11-严选数仓规范和评价体系](https://toutiao.io/k/jnnb24f) ![](assets/new.png)  
-- [2020-10-11-mPaaS-RPC-拦截器各种场景下的使用指南](https://toutiao.io/k/g7i1g7y) ![](assets/new.png)  
 - [2020-10-11-困在内卷里的软件测试工程师](https://toutiao.io/k/5w3mqsq) ![](assets/new.png)  
-- [2020-10-11-谈谈数据库的事务-ACID](https://toutiao.io/k/zxgx6z2) ![](assets/new.png)  
+- [2020-10-11-mPaaS-RPC-拦截器各种场景下的使用指南](https://toutiao.io/k/g7i1g7y) ![](assets/new.png)  
 - [2020-10-11-数学基础学习笔记：线性代数](https://toutiao.io/k/20u1svz) ![](assets/new.png)  
+- [2020-10-11-谈谈数据库的事务-ACID](https://toutiao.io/k/zxgx6z2) ![](assets/new.png)  
 - [2020-10-11-三种方式让你轻松监控-EntityFramework-中的-SQL-流转](https://toutiao.io/k/fgwgvay) ![](assets/new.png)  
-- [2020-10-11-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-11-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-11-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
-- [2020-10-11-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
-- [2020-10-11-推荐-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) ![](assets/new.png)  
-- [2020-10-11-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
 - [2020-10-11-推荐-浅谈如何搭建知识体系-|-码农周刊第-319-期](https://toutiao.io/k/dufazik) ![](assets/new.png)  
-- [2020-10-11-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-11-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-11-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-11-推荐-架构制图：工具与方法论](https://toutiao.io/k/pzy6sbw) ![](assets/new.png)  
+- [2020-10-11-推荐-这三年被分布式坑惨了，曝光十大坑](https://toutiao.io/k/yabo548) ![](assets/new.png)  
 - [2020-10-11-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-11-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
+- [2020-10-11-推荐-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8) ![](assets/new.png)  
+- [2020-10-11-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-11-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-11-推荐-23-张图，带你入门推荐系统](https://toutiao.io/k/ivzzn8a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

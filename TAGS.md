@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-11 01:12:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-11 01:20:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -116,6 +116,7 @@
 - [【全栈前端精选】用TypeScript装饰器实现一个简单的依赖注入](https://www.ershicimi.com/p/5e9f34eb51f9d7b3f0151ac70a4c8dde)
 - [【程序员成长指北】用TypeScript装饰器实现一个简单的依赖注入](https://www.ershicimi.com/p/65349519ed828ae1ae8efbc13b7b23c1)
 - [【Nodejs技术栈】Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/9cf9e1540ea437410112acba7e8eecd0)
+- [【InfoQ】TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/cd57b7a665702a5a6f1ac178869303df)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -532,6 +533,7 @@
 - [【前端大学】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/54e33fa9972d09466745caea15b0057e)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【InfoQ】我如何解决一个基于GraphQL网站的扩展性问题？](https://www.ershicimi.com/p/8b8eeda5ce1924e25316afa2fb240d40)
 - [【JavaScript】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)
 - [......【查看更多】......](./details/tags/server.md)
 

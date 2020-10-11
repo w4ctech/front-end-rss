@@ -3742,10 +3742,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/89",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/89",
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
-    "items": []
+    "items": [
+      {
+        "title": "美国酝酿制裁支付宝和微信支付；传台积电获供应华为许可证；微软允许员工永久在家办公 丨 Q资讯",
+        "link": "https://www.ershicimi.com/p/8c3c72d7eda6760af1133221ac2ff4e1",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生",
+        "link": "https://www.ershicimi.com/p/cd57b7a665702a5a6f1ac178869303df",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "【金秋十月】赢千元数码大奖，竟然如此简单",
+        "link": "https://www.ershicimi.com/p/887555a1091a1c518246ac4ff3b91a5d",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "一个反对“平台团队”的案例",
+        "link": "https://www.ershicimi.com/p/0ead39c577f8ccf2fa169df7a245041a",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "DevOps工程师的必备技能清单",
+        "link": "https://www.ershicimi.com/p/6432b7f63c31bbf4ff70aa471a2ad4b7",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "一个IT时代的终结：109岁的IBM将分拆为两家公司",
+        "link": "https://www.ershicimi.com/p/78fc3af2a9aabb02e470af3a25b786a2",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "TiDB on Kubernetes 最佳实践",
+        "link": "https://www.ershicimi.com/p/254d2e42ad229f8dcfd1493160bd073c",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "人工智能势如破竹，开创机器人对话时代 ｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/3b323da84fe757537bb6b948592ba69c",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "PHP与.NET统治Web开发世界的八个理由",
+        "link": "https://www.ershicimi.com/p/359a3c3a3a39f25f2bebb8bbf278dcc8",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "芯片断供，华为软件艰难补洞",
+        "link": "https://www.ershicimi.com/p/6abda60d210c57c6cd5d3d91c1dc1a0b",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "十万 IT 人都关注的技术发展白皮书，到底讲了什么？",
+        "link": "https://www.ershicimi.com/p/0b8e988e643e52111d3987b16ab30809",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "人工智能时代：打造AI基础平台是关键 ｜ QCon+",
+        "link": "https://www.ershicimi.com/p/de72ae570fc46a00adf1cb8310540525",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "我如何解决一个基于GraphQL网站的扩展性问题？",
+        "link": "https://www.ershicimi.com/p/8b8eeda5ce1924e25316afa2fb240d40",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "我是一位40岁的“老程序员”，我有一些想法",
+        "link": "https://www.ershicimi.com/p/f02c7349d2a2fc484ea5869ce088b340",
+        "date": "2020-10-07"
+      },
+      {
+        "title": "不写文档你就输了",
+        "link": "https://www.ershicimi.com/p/5246bd51bcb07d0107360032fc9e03a5",
+        "date": "2020-10-07"
+      },
+      {
+        "title": "一份来自清华的「数据分析」笔记，手快有手慢无！｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/5a99257e6c080a068a445054c79e7605",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "用了3年Kubernetes，我们得到的5个教训",
+        "link": "https://www.ershicimi.com/p/a4e4ea4fdcd20f5edc357ca6cc28947d",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "Uber三代API 生命周期管理平台实现",
+        "link": "https://www.ershicimi.com/p/2b51209c5bf4d46435bb5b1ce7385c8a",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "高德、百度的下半场地图战，你要被抛弃了吗？",
+        "link": "https://www.ershicimi.com/p/1ed2c5dea99086698ce595415540bdbd",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "一些建议：给当年刚做程序员的我",
+        "link": "https://www.ershicimi.com/p/8964f96e5d70287b15e36738055cb9b7",
+        "date": "2020-10-05"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/893",
@@ -4219,6 +4320,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "现在使用苹果 8p 的更新了 ios14 怎么样？",
+        "link": "https://www.v2ex.com/t/713850",
+        "date": "2020-10-11"
+      },
+      {
         "title": "我想做一个小程序，小程序中罗列各种公众号的文章合集，可以实现吗",
         "link": "https://www.v2ex.com/t/713849",
         "date": "2020-10-11"
@@ -4226,11 +4332,6 @@
       {
         "title": "大家对网盘的需求是怎么样的呢？",
         "link": "https://www.v2ex.com/t/713848",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "如何评价 Twitter 上的反差婊以及媚黑女？",
-        "link": "https://www.v2ex.com/t/713847",
         "date": "2020-10-11"
       },
       {
@@ -4417,11 +4518,6 @@
         "title": "有哪些打发时间用的休闲单机安卓手游？",
         "link": "https://www.v2ex.com/t/713802",
         "date": "2020-10-10"
-      },
-      {
-        "title": "求助一下，这段乱码怎么变正常！",
-        "link": "https://www.v2ex.com/t/713801",
-        "date": "2020-10-10"
       }
     ]
   },
@@ -4543,13 +4639,13 @@
         "date": "2020-10-11"
       },
       {
-        "title": "Go 设计模式（十六）：职责链模式之 Gin 的中间件实现",
-        "link": "https://toutiao.io/k/a6x2m4g",
+        "title": "引入适用于双屏和可折叠设备的 Web API",
+        "link": "https://toutiao.io/k/lr9hl1w",
         "date": "2020-10-11"
       },
       {
-        "title": "引入适用于双屏和可折叠设备的 Web API",
-        "link": "https://toutiao.io/k/lr9hl1w",
+        "title": "Go 设计模式（十六）：职责链模式之 Gin 的中间件实现",
+        "link": "https://toutiao.io/k/a6x2m4g",
         "date": "2020-10-11"
       },
       {
@@ -4563,18 +4659,13 @@
         "date": "2020-10-11"
       },
       {
-        "title": "mPaaS-RPC 拦截器各种场景下的使用指南",
-        "link": "https://toutiao.io/k/g7i1g7y",
-        "date": "2020-10-11"
-      },
-      {
         "title": "困在内卷里的软件测试工程师",
         "link": "https://toutiao.io/k/5w3mqsq",
         "date": "2020-10-11"
       },
       {
-        "title": "谈谈数据库的事务 ACID",
-        "link": "https://toutiao.io/k/zxgx6z2",
+        "title": "mPaaS-RPC 拦截器各种场景下的使用指南",
+        "link": "https://toutiao.io/k/g7i1g7y",
         "date": "2020-10-11"
       },
       {
@@ -4583,38 +4674,13 @@
         "date": "2020-10-11"
       },
       {
+        "title": "谈谈数据库的事务 ACID",
+        "link": "https://toutiao.io/k/zxgx6z2",
+        "date": "2020-10-11"
+      },
+      {
         "title": "三种方式让你轻松监控 EntityFramework 中的 SQL 流转",
         "link": "https://toutiao.io/k/fgwgvay",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "[推荐] 架构制图：工具与方法论",
-        "link": "https://toutiao.io/k/pzy6sbw",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "[推荐] 大数据时代的用户画像基础介绍和构建流程",
-        "link": "https://toutiao.io/k/sjw8ku8",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-11"
       },
       {
@@ -4623,8 +4689,23 @@
         "date": "2020-10-11"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "[推荐] 架构制图：工具与方法论",
+        "link": "https://toutiao.io/k/pzy6sbw",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
+        "link": "https://toutiao.io/k/yabo548",
         "date": "2020-10-11"
       },
       {
@@ -4633,13 +4714,28 @@
         "date": "2020-10-11"
       },
       {
-        "title": "[推荐] 架构师之路：服务器硬件扫盲",
-        "link": "https://toutiao.io/k/dsqwkye",
+        "title": "[推荐] 大数据时代的用户画像基础介绍和构建流程",
+        "link": "https://toutiao.io/k/sjw8ku8",
         "date": "2020-10-11"
       },
       {
-        "title": "[推荐] 这三年被分布式坑惨了，曝光十大坑",
-        "link": "https://toutiao.io/k/yabo548",
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "[推荐] 架构师之路：服务器硬件扫盲",
+        "link": "https://toutiao.io/k/dsqwkye",
         "date": "2020-10-11"
       }
     ]

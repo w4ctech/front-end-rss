@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-11 14:27:21，:rocket: 更新条数: +674， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-11 14:29:22，:rocket: 更新条数: +3464， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
-- [VUE全家桶](#vue全家桶)  
+- [VUE全家桶](#vue全家桶)![](assets/dot.png)   
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-10-最新疫情：全国新冠累计确诊85557例-新增境外输入21例](http://m.china.caixin.com/m/2020-10-11/101613482.html) ![](assets/new.png)  
+- [2020-10-10-美国万只水貂染新冠死亡-未发现水貂传人病例](http://m.science.caixin.com/m/2020-10-11/101613536.html) ![](assets/new.png)  
+- [2020-10-10-青岛新增3例无症状感染者-初步判断与市胸科医院相关联](http://m.china.caixin.com/m/2020-10-11/101613457.html) ![](assets/new.png)  
+- [2020-10-10-最新海外疫情：新冠感染近3708万-累计死亡近107万](https://m.caixin.com/m/2020-10-11/101613518.html) ![](assets/new.png)  
+- [2020-10-10-【境内疫情观察】青岛新增3例本土无症状感染者（10月10日）](http://m.database.caixin.com/m/2020-10-11/101613487.html) ![](assets/new.png)  
+- [2020-10-10-大流行手记|10月10日：多家学术期刊痛批美政府抗疫不力-马德里再次封锁](https://m.caixin.com/m/2020-10-11/101613470.html) ![](assets/new.png)  
+- [2020-10-10-数字说|特朗普身边都有谁感染了新冠？](http://m.datanews.caixin.com/m/2020-10-11/101613528.html) ![](assets/new.png)  
+- [2020-10-09-欧洲疫情反弹增速达全球最快-六成民众出现防控倦怠心态](http://m.international.caixin.com/m/2020-10-10/101613442.html) ![](assets/new.png)  
+- [2020-10-09-【境内疫情观察】全国新增39例无症状感染者（10月9日）](http://m.database.caixin.com/m/2020-10-10/101613339.html) ![](assets/new.png)  
+- [2020-10-09-大流行手记|10月9日：中国加入世卫疫苗计划-新冠或令婴儿死产率上升](https://m.caixin.com/m/2020-10-10/101613209.html) ![](assets/new.png)  
+- [2020-10-09-中国加入全球新冠疫苗实施计划-将向全球供应](https://m.caixin.com/m/2020-10-10/101613363.html) ![](assets/new.png)  
+- [2020-10-08-【境内疫情观察】陕西新增10例境外输入病例（10月8日）](http://m.database.caixin.com/m/2020-10-09/101612841.html) ![](assets/new.png)  
+- [2020-10-08-大流行手记|10月8日：欧盟与强生达成疫苗供应协议-特朗普拒绝远程辩论](https://m.caixin.com/m/2020-10-09/101612770.html) ![](assets/new.png)  
+- [2020-10-07-【境内疫情观察】全国新增11例境外输入病例（10月7日）](http://m.database.caixin.com/m/2020-10-08/101612644.html) ![](assets/new.png)  
+- [2020-10-07-大流行手记|10月7日：WHO呼吁加大精神卫生投资-英国将新建40座医院](https://m.caixin.com/m/2020-10-08/101612616.html) ![](assets/new.png)  
+- [2020-10-06-【境内疫情观察】全国新增7例境外输入病例（10月6日）](http://m.database.caixin.com/m/2020-10-07/101612540.html) ![](assets/new.png)  
+- [2020-10-06-大流行手记|10月6日：英国漏报1.6万新冠患者-白宫试图提早疫苗审批](https://m.caixin.com/m/2020-10-07/101612511.html) ![](assets/new.png)  
+- [2020-10-05-【境内疫情观察】全国新增12例境外输入病例（10月5日）](http://m.database.caixin.com/m/2020-10-06/101612429.html) ![](assets/new.png)  
+- [2020-10-05-大流行手记|10月5日：特朗普是否重症引关注-印度发明低价快检新方法](https://m.caixin.com/m/2020-10-06/101612409.html) ![](assets/new.png)  
+- [2020-10-04-【境内疫情观察】上海新增10例境外输入病例（10月4日）](http://m.database.caixin.com/m/2020-10-05/101612322.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -153,6 +173,20 @@
 </summary>
 
 
+- [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) ![](assets/new.png)  
+- [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) ![](assets/new.png)  
+- [2019-12-19-【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e) ![](assets/new.png)  
+- [2019-12-18-【面试题】2019开年跳槽系列-35](https://www.ershicimi.com/p/13693c22440fcc75bcb7816cbd38d87a) ![](assets/new.png)  
+- [2019-12-16-【面试题】2019开年跳槽系列-34](https://www.ershicimi.com/p/55cfb22f6deb40706c18677e12a05d7d) ![](assets/new.png)  
+- [2019-12-12-【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2) ![](assets/new.png)  
+- [2019-12-09-【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da) ![](assets/new.png)  
+- [2019-12-09-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d) ![](assets/new.png)  
+- [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) ![](assets/new.png)  
+- [2019-12-06-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3) ![](assets/new.png)  
+- [2019-12-05-【面试题】2019开年跳槽系列-30](https://www.ershicimi.com/p/c953e0c5b4aaccbe729309f61ee8574b) ![](assets/new.png)  
+- [2019-12-05-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/c000cfc00b1de7d595f4c51820cc7630) ![](assets/new.png)  
+- [2019-12-04-【面试题】2019开年跳槽系列-29](https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10) ![](assets/new.png)  
+- [2019-12-04-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/38b599052a6c0772985ffdbfad6875d6) ![](assets/new.png)  
 - [......【查看更多】......](./details/VUE全家桶.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -226,6 +260,26 @@
 </summary>
 
 
+- [2020-10-10-谁说前端不用懂，手摸手-Docker-从入门到实践](https://www.ershicimi.com/p/84d7e2d4188c596461ae05729bfc2970) ![](assets/new.png)  
+- [2020-10-09-做了-8-年前端，看透了裁人的套路](https://www.ershicimi.com/p/8079378715a547442a61c88db5a8c6a0) ![](assets/new.png)  
+- [2020-10-09-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/002211e101217aa0a657e6c2fcc88a41) ![](assets/new.png)  
+- [2020-10-08-Facebook-新一代-React-状态管理库-Recoil](https://www.ershicimi.com/p/26add611063d221ffcb13dc2b0ec08b6) ![](assets/new.png)  
+- [2020-10-07-搞不懂为啥都要去字节跳动...](https://www.ershicimi.com/p/28a4720c9b18914466fea8f56f865dbc) ![](assets/new.png)  
+- [2020-10-07-Firefox-18周岁](https://www.ershicimi.com/p/519bf664dd83858b7d5f35339011ffc9) ![](assets/new.png)  
+- [2020-10-06-由浅入深，66条JavaScript面试知识点](https://www.ershicimi.com/p/a4bd310df5a3f3ef95bf8ea89713eb85) ![](assets/new.png)  
+- [2020-10-05-你不知道的-React](https://www.ershicimi.com/p/41def994403787a96be741872141868d) ![](assets/new.png)  
+- [2020-10-05-Vue3-DOM-Diff-核心算法解析](https://www.ershicimi.com/p/6a3310742d28a1aa2b7772c919d71123) ![](assets/new.png)  
+- [2020-10-04-代数效应与-React](https://www.ershicimi.com/p/54e853d1bad4f6efb55ab24ade58953b) ![](assets/new.png)  
+- [2020-10-03-尤雨溪全职做开源年薪百万，网友：不愧是前端尤大神](https://www.ershicimi.com/p/16516e26d52339a78cc64fff251a932e) ![](assets/new.png)  
+- [2020-10-02-海贼王-One-Piece，一起康康-Vue-版本号中的彩蛋](https://www.ershicimi.com/p/6dcfe30a3b83c339a2dc6ad6d8497d0a) ![](assets/new.png)  
+- [2020-09-30-美团-2021-届校园招聘前端岗位热招](https://www.ershicimi.com/p/7cf564a56423efefc97f721b5988aff6) ![](assets/new.png)  
+- [2020-09-30-如何让你的-Express-飞起来？](https://www.ershicimi.com/p/37a8dbe73beffa79d283e9658452d5fb) ![](assets/new.png)  
+- [2020-09-29-iframe-接班人-微前端框架-qiankun-在中后台系统实践](https://www.ershicimi.com/p/3bf6162476cc938e30ae86321cd46b57) ![](assets/new.png)  
+- [2020-09-28-与后端分手，做独立自强的前端人！](https://www.ershicimi.com/p/6903a2861ee8d090378a6d11f8dfd482) ![](assets/new.png)  
+- [2020-09-28-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24) ![](assets/new.png)  
+- [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/716bed77e920b2a9724460dcd55a2dcd) ![](assets/new.png)  
+- [2020-09-26-Vue-项目中各种痛点问题及方案](https://www.ershicimi.com/p/36bbda5d7a06170cc64a072482759efa) ![](assets/new.png)  
+- [2020-09-25-面试最后一题是-CSS，答错后薪资降了-2k…](https://www.ershicimi.com/p/ce497699375d6ed71ea7210d64559b6a) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1003,6 +1057,26 @@
 </summary>
 
 
+- [2020-10-11-!想换手机的老哥们冲-11-还是-12？](https://www.v2ex.com/t/713994) ![](assets/new.png)  
+- [2020-10-11-求问：有没有开源的基于-Python-或-Go-的-CRUD-代码生成工具？](https://www.v2ex.com/t/713993) ![](assets/new.png)  
+- [2020-10-11-今天被-jc-抓了。。分享下心理活动](https://www.v2ex.com/t/713992) ![](assets/new.png)  
+- [2020-10-11-移动-app-如何计算用户每天的使用时长？](https://www.v2ex.com/t/713991) ![](assets/new.png)  
+- [2020-10-11-阿里☁️-服务器,git-clone-很慢,有什么办法吗](https://www.v2ex.com/t/713990) ![](assets/new.png)  
+- [2020-10-11-4-节课带你光速入门小程序！](https://www.v2ex.com/t/713989) ![](assets/new.png)  
+- [2020-10-11-这次我熬了一碗鸡汤](https://www.v2ex.com/t/713988) ![](assets/new.png)  
+- [2020-10-11-求点击墨墨背单词推广链接，只为增加单词上限](https://www.v2ex.com/t/713987) ![](assets/new.png)  
+- [2020-10-11-请问有没有搞硬件/机器人的大佬，有没有那种物理的可以替代手操作的东东？](https://www.v2ex.com/t/713986) ![](assets/new.png)  
+- [2020-10-11-大家注意过自己的余额宝没有，有部分钱是冻结的？](https://www.v2ex.com/t/713985) ![](assets/new.png)  
+- [2020-10-11-你觉得现在最强的拍照手机是哪款？](https://www.v2ex.com/t/713984) ![](assets/new.png)  
+- [2020-10-11-关于实时获取微博/twitter-等社交平台用户发帖的疑问](https://www.v2ex.com/t/713983) ![](assets/new.png)  
+- [2020-10-11-android-on-mainline-kernel？](https://www.v2ex.com/t/713982) ![](assets/new.png)  
+- [2020-10-11-这里有行者骑行的人吗，来领-bug](https://www.v2ex.com/t/713981) ![](assets/new.png)  
+- [2020-10-11-千万别买-iPhone-12](https://www.v2ex.com/t/713980) ![](assets/new.png)  
+- [2020-10-11-自家种植的正宗洛川苹果成熟了，-v-站朋友下单后可以优惠一元](https://www.v2ex.com/t/713979) ![](assets/new.png)  
+- [2020-10-11-直接从-10.15.7-升级到-beta9-以后，电池变成了建议维修，这个正常么？](https://www.v2ex.com/t/713977) ![](assets/new.png)  
+- [2020-10-11-笔记本熄屏一段时间后无法亮屏](https://www.v2ex.com/t/713976) ![](assets/new.png)  
+- [2020-10-11-出全新-AirPods2-有线版本](https://www.v2ex.com/t/713972) ![](assets/new.png)  
+- [2020-10-11-请问-app-开发者，公司不提供开发机正常吗？](https://www.v2ex.com/t/713970) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1014,6 +1088,26 @@
 </summary>
 
 
+- [2020-10-11-Referer-防盗链，为什么少了个字母-R？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13808&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F263425663%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-一文讲懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZYFdJ0FRNhcbWP3Ddng1lA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-Android-敏感数据泄露引发的思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-Kotlin-正在变得越来越好-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13804&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4JCNz0KJiJiuiABVfpCIzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-Koin-in-Android:-更简单的依赖注入-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13803&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJmpP3HbyZvebbrTWhGiPVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-19-个接私活平台汇总，你有技术就有钱-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13802&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuSxfEP1cVRpaNwtF2gmtfw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-开发者日常-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13801&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6fD5AFnULw-utmhDbX-WkA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-Linus：我们都老了，但-Linux-维护后继无人-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13800&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhKZnVytfARTqh0ix33R-wg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-计算机网络基础知识总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13798&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fc2glZ6ouef0aDAdHB1yBFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-IntelliJ-IDEA-2020.2-EAP-5-发布：完美支持Java-15-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13797&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLBYpAXK7lr60ZCoM2cgnNQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-微软、亚马逊、IBM主动禁售人脸识别，为什么？-www.huxiu.com](https://blogread.cn/news/go.php?idItem=13796&url=https%3A%2F%2Fwww.huxiu.com%2Farticle%2F380148.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-OKR是新时代的KPI吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13795&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fokr-vs-kpi%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-职场常备的-TOP-20-AI-产品工具-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13794&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F09%2F23%2F170-list-of-top-20-ai-product-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-如何选择适合自己网站的防盗链-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13793&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F258380316%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-如何知道我们的E2E测试覆盖率？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13792&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-know-e2e-coverage%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-Glide-加载-Gif-的卡顿优化思路分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13790&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAoYuYtIFTy3b2NvyXIoP7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-11-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

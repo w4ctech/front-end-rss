@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-11 08:15:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-11 08:28:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,6 +22,9 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-11-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-10-11-如何产出规范、安全、高质量的代码？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13791&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsecurity-high-quality-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-10-11-是时候提高你撸-RecycleView-的效率了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13789&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaA8tpCZLreWIA5gqQIlsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-10-​【安全圈】支付宝还能救你几次?](https://sec.thief.one/article_content?a_id=c1697e813692903cf571bae6fd3c9359) 
 - [2020-10-10-处理公告丨2020年9月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=76958d3e11f2da09638c87179886efeb) 
 - [2020-10-10-二维码:一种隐秘的安全威胁](https://sec.thief.one/article_content?a_id=8ba02fef69f8cb58c88051521b56a6e6) 

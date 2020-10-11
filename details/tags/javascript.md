@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-11 09:03:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-11 09:13:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,6 +21,8 @@
 - [2020-09-21-【第2072期】-或许这就是下一代组件库](https://www.ershicimi.com/p/876dde13179380f6a7730b2c5910df61) 
 - [2020-09-17-【第2068期】高级程序4：异步函数](https://www.ershicimi.com/p/ce7f61d3280b9ae7289161c168751d47) 
 - [2020-09-16-WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/4c3860218d67f28e8f9b083be2848aaa) 
+- [2020-10-06-由浅入深，66条JavaScript面试知识点](https://www.ershicimi.com/p/a4bd310df5a3f3ef95bf8ea89713eb85) 
+- [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/716bed77e920b2a9724460dcd55a2dcd) 
 - [2020-09-28-不定宽溢出文本适配滚动](https://www.ershicimi.com/p/82facd4a65470af20eed04cecbb01f5b) 
 - [2020-09-24-浅析鸿蒙-JavaScript-GUI-技术栈](https://www.ershicimi.com/p/c062cc7d7443259f5091b096df5edb1d) 
 - [2020-09-15-2020年8月Github上最热门的JavaScript开源项目排行](https://www.ershicimi.com/p/5be35f333ef5c3d9b4115629921c4fef) 
@@ -31,7 +33,6 @@
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
-- [2020-09-22-JavaScript-交换值的奇思妙想](https://www.ershicimi.com/p/5c4e76536d8822a71334167df303255f) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
 - [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
@@ -64,10 +65,12 @@
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [2020-09-28-如何使用-ThinkJS-优雅的编写-RESTful-API](https://www.ershicimi.com/p/26bcf5edb448dade0c074aafa59abbf8) 
+- [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/b7a32305e5d39c0e063edd94467a2b24) 
+- [2020-09-23-或许这就是下一代组件库](https://www.ershicimi.com/p/a9b5dc5e27bd8a18f96e336df9f1d876) 
 - [2020-09-21-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/5dec6d20ee78a818f19d8e2aeb310632) 
 - [2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b) 
 - [2020-09-07-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d) 
-- [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
 - [2020-10-10-async-validator源码解析（三）：validator](https://juejin.im/post/6882203023725395976) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 

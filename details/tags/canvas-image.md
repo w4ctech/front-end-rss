@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-11 11:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-11 11:13:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -20,3 +20,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2020-10-11-不懂就问：-png-格式图片转成-jpeg，到底算什么类型的图片](https://www.v2ex.com/t/713957) 
+- [2020-10-11-oneinstack-怎样使-iMagick-支持-WebP？](https://www.v2ex.com/t/713931) 

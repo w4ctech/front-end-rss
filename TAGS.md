@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-12 08:04:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 08:16:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -142,6 +142,7 @@
 - [【政采云前端团队】分分钟教会你搭建企业级的-npm-私有仓库](https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1)
 - [【程序员成长指北】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/5f0d1747177b8dd94a29c48b05ec3511)
 - [【Nodejs技术栈】亿级-ELK-日志平台构建实践](https://www.ershicimi.com/p/8d5bc25bccee8a0f3e161d2256883f52)
+- [【前端日刊】webpack-这么牛X，你还不会用？](https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【开发者头条】推荐-大数据时代的用户画像基础介绍和构建流程](https://toutiao.io/k/sjw8ku8)
 - [......【查看更多】......](./details/tags/pack-build.md)
@@ -307,10 +308,10 @@
 - [【张鑫旭-鑫空间-鑫生活】flex:0-flex:1-flex:none-flex:auto应该在什么场景下使用？](https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/)
 - [【张鑫旭-鑫空间-鑫生活】研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/)
 - [【张鑫旭-鑫空间-鑫生活】颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/)
+- [【前端日刊】CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325)
 - [【JavaScript】工作四年的前端不服：面试竟在CSS上跪了-究其原因……](https://www.ershicimi.com/p/6d7caaa510e08cf5b511383c19096d0c)
 - [【JavaScript】5个很常用的CSS3网页小实例](https://www.ershicimi.com/p/cc31a0415cd6949432efb37fa6d0bf27)
 - [【掘金前端】你的垂直居中有问题？我竞无法反驳-🤦🏻‍♂️](https://juejin.im/post/6882275388920332302)
-- [【前端艺术家&&飞冰早报】【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -377,8 +378,8 @@
 - [【互联网架构师】一款被大家低估的微服务场景下性能问题排查神器！](https://www.ershicimi.com/p/15da6d82c5f2a839f3a61cd256c39ac3)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】MongoDB-特定场景性能数十倍提升优化实践（记一次-MongoDB-核心集群雪崩故障）](https://toutiao.io/k/qnenrsh)
-- [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
 - [【开发者头条】推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9)
+- [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -404,17 +405,17 @@
 - [【Nodejs技术栈】5000字！带你零距离接触websocket！](https://www.ershicimi.com/p/e87e80ed7a3e9ca8ea3daf97074c90ab)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】国内有没有-IPv6-的-checkip/getip/myip-API？](https://www.v2ex.com/t/714204)
-- [【V2EX】Google-Chrome-您的连接不是私密连接](https://www.v2ex.com/t/714199)
-- [【V2EX】Safari14-浏览器的问题还是百度文库的问题？](https://www.v2ex.com/t/714197)
-- [【V2EX】服务在-Eureka-上保持注册，-Java-进程还在，但是请求直接-502-超时了。](https://www.v2ex.com/t/714175)
-- [【V2EX】手机-QQ-突然提示身份验证失败，但是安全中心中本机仍然保持在线，是被盗号了吗](https://www.v2ex.com/t/714165)
+- [【技术头条】一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】【安全圈】川普,危!家人及竞选团队邮件被黑客锁定!](https://sec.thief.one/article_content?a_id=f674d00c3dcec67c8d6724cb02ec7661)
 - [【安全热点】OSRC携手共建2020第四届看雪安全开发者峰会,筑梦未来!](https://sec.thief.one/article_content?a_id=b0ae1ce46351d811b21fb1294f1d5ea4)
 - [【安全热点】我们的20年-|-讲述云安全背后的故事](https://sec.thief.one/article_content?a_id=621a2e7b2267bb3b7f1c04802a55c8de)
 - [【安全热点】中国学界首次被Science撤稿,团队称因疫情沟通不畅导致数据误用](https://sec.thief.one/article_content?a_id=c151e62914b54bcbcd8265cc36903ff3)
 - [【安全热点】​【安全圈】支付宝还能救你几次?](https://sec.thief.one/article_content?a_id=c1697e813692903cf571bae6fd3c9359)
 - [【安全热点】处理公告丨2020年9月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=76958d3e11f2da09638c87179886efeb)
+- [【安全热点】二维码:一种隐秘的安全威胁](https://sec.thief.one/article_content?a_id=8ba02fef69f8cb58c88051521b56a6e6)
+- [【安全热点】新加坡推出智能家居网络安全标签,将全球推广](https://sec.thief.one/article_content?a_id=82139e81c19130c5025480cc98b5ecc0)
+- [【安全热点】【安全圈】黑客入侵乌干达移动支付系统-涉及多家银行、运营商](https://sec.thief.one/article_content?a_id=4c1c06752633886e523e2ec903ef4f03)
+- [【安全热点】招聘-|-腾讯安全专家咨询中心招聘高级web渗透工程师](https://sec.thief.one/article_content?a_id=5ce251ebd38d8f0126b978ba1fac4ce8)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -440,9 +441,8 @@
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】老板说“把系统升级到https”，我用一个脚本实现了，而且永久免费！](https://www.ershicimi.com/p/34456a649b238caa1dd9327833fcd3ff)
-- [【V2EX】英国-招全职全栈程序员，全远程工作](https://www.v2ex.com/t/714194)
-- [【V2EX】兼职-北京某教育招聘-c++算法老师](https://www.v2ex.com/t/714193)
-- [【V2EX】关于-nginx-反向代理，-HTTP-正常，-HTTPS-访问报-403-错误](https://www.v2ex.com/t/714187)
+- [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】数据结构与算法：快速排序](https://toutiao.io/k/u2ggnk8)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -481,7 +481,11 @@
 
 
 
+- [【前端日刊】GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
+- [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
+- [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【技术头条】硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

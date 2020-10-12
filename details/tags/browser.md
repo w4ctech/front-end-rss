@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-12 14:04:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 14:14:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -9,12 +9,6 @@
 
 - [2020-10-07-Firefox-18周岁](https://www.ershicimi.com/p/519bf664dd83858b7d5f35339011ffc9) 
 - [2020-09-28-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24) 
-- [2020-10-10-你不知道的-WebSocket](https://www.ershicimi.com/p/e0f12cf3fdca4a6902a6be2dd576d972) 
-- [2020-09-15-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/6991ac98da1c9162eb291ba3c966f25d) 
-- [2020-10-06-5000字！带你零距离接触websocket！](https://www.ershicimi.com/p/02c83d96a2d0912591988ef5f3c27220) 
-- [2020-09-25-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6) 
-- [2020-10-09-5000字！带你零距离接触websocket！](https://www.ershicimi.com/p/e87e80ed7a3e9ca8ea3daf97074c90ab) 
-- [2020-10-12-Gitlab-Robot-Jenkins-自研Chrome插件](https://juejin.im/post/6882644808176205837) 
 - [2020-10-12-为付出收获精彩成果-|-2020网络安全“金帽子”年度评选正式开启](https://sec.thief.one/article_content?a_id=5b190b176c8257d8d3cd501d8ec61b65) 
 - [2020-10-12-每日安全动态推送10-12](https://sec.thief.one/article_content?a_id=b2637f66aaf496804369c574dd00e562) 
 - [2020-10-12-工具推荐:奇安信盘古石-安全赋能取证](https://sec.thief.one/article_content?a_id=8b1508983c84f367b56c07b9aa113ec5) 

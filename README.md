@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-12 03:14:01，:rocket: 更新条数: +777， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-12 03:27:50，:rocket: 更新条数: +775， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -75,11 +75,11 @@
 </summary>
 
 
+- [2020-10-12-北京2021年城乡居民医保门（急）诊封顶线提高至4500元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirkr9Vx3ct5p5out8GH76201012&isfromapp=1) ![](assets/new.png)  
+- [2020-10-12-上海10月11日无新增本地新冠肺炎确诊病例-新增境外输入5例-治愈出院1例](http://wsjkw.sh.gov.cn/xwfb/20201012/bfeece0296284f58973dd78d03e22584.html) ![](assets/new.png)  
 - [2020-10-12-山东济南：对青岛入济返济人员全面排查并进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibN1sCk458sFL8HON0R6S201012&isfromapp=1) ![](assets/new.png)  
 - [2020-10-12-第35届布达佩斯马拉松在疫情中举行-2位匈牙利选手夺得冠军](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaTE8SMSIlTiFHQRMVfqK201012&isfromapp=1) ![](assets/new.png)  
 - [2020-10-11-美媒：新冠肺炎疫情加剧美国社会经济不平等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQ7qNMoR18kBACCBoAEz201012&isfromapp=1) ![](assets/new.png)  
-- [2020-10-11-巴西新增12342例新冠肺炎确诊病例-累计确诊近510万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9vrsffbg6bkx2Ub1ItS201012&isfromapp=1) ![](assets/new.png)  
-- [2020-10-11-青岛新增核酸检测结果阳性9人-目前共6例确诊病例和6例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizfAGannxMDvR4NCWM5fa201012&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -927,11 +927,6 @@
 </summary>
 
 
-- [2020-10-11-精读《设计模式---Builder-生成器》](https://juejin.im/post/6882566012915433485) ![](assets/new.png)  
-- [2020-10-11-【JS】防抖节流，Promise，几类动画](https://juejin.im/post/6882375603304005640) ![](assets/new.png)  
-- [2020-10-11-系统性学习Node.js（6）——-手写文件流](https://juejin.im/post/6882368773228068878) ![](assets/new.png)  
-- [2020-10-11-小程序开发第一弹:-微信基础开发](https://juejin.im/post/6882362933796405255) ![](assets/new.png)  
-- [2020-10-11-PWA的业务价值](https://juejin.im/post/6882359742841225230) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1032,13 @@
 </summary>
 
 
+- [2020-10-12-teamviewer-在-Mac-os-10.15.6-上只有画面无法控制-鼠标键盘都没反应，相关权限已开，大家有碰到过么？](https://www.v2ex.com/t/714108) ![](assets/new.png)  
+- [2020-10-12-极客返利|网课返现|极客时间-3-周年-，课程全部-5-折](https://www.v2ex.com/t/714106) ![](assets/new.png)  
+- [2020-10-12-用友政务表格技术应用开发实践：预算一体化产品核心功能搭建](https://www.v2ex.com/t/714105) ![](assets/new.png)  
+- [2020-10-12-有做过“齐鲁云采“的哥们吗？有点问题付费咨询。](https://www.v2ex.com/t/714104) ![](assets/new.png)  
+- [2020-10-12-（有偿）从-A-网站拿到-signal-然后发到-B-网站机器人执行操作，属于-crypto-currency-自动化交易范畴，有老哥感兴趣或者报个价嘛？](https://www.v2ex.com/t/714103) ![](assets/new.png)  
+- [2020-10-12-有没有免费的-A-股历史数据库？](https://www.v2ex.com/t/714102) ![](assets/new.png)  
+- [2020-10-12-大家分享一下自己好玩的钉钉/企业微信工作状态？](https://www.v2ex.com/t/714101) ![](assets/new.png)  
 - [2020-10-12-有-pmp-证书可以学习一些产品经理的课程做产品经理吗？](https://www.v2ex.com/t/714100) ![](assets/new.png)  
 - [2020-10-12-10/8-10/11-桂林阳朔](https://www.v2ex.com/t/714099) ![](assets/new.png)  
 - [2020-10-12-给家里的老电视配个盒子，用哪种好？](https://www.v2ex.com/t/714097) ![](assets/new.png)  
@@ -1050,13 +1052,6 @@
 - [2020-10-12-不懂就问：有人用过华为出的移动端-APM-服务吗](https://www.v2ex.com/t/714088) ![](assets/new.png)  
 - [2020-10-12-裸辞后，进行脱产学习，然后到家乡省会找工作](https://www.v2ex.com/t/714087) ![](assets/new.png)  
 - [2020-10-12-sick-of-hCAPTCHA](https://www.v2ex.com/t/714086) ![](assets/new.png)  
-- [2020-10-12-使用阿里-ant.design-的-select-组件操作时感觉进入慢动作的世界](https://www.v2ex.com/t/714084) ![](assets/new.png)  
-- [2020-10-12-发了一篇-3-年-13-18k-招安卓的帖子，被-v-友们骂的不敢回复评论](https://www.v2ex.com/t/714083) ![](assets/new.png)  
-- [2020-10-12-深圳宝安国际机场接人怎么接？停在停车场再进去找他，还是他下飞机后在路边等我，我开过去他上车立刻开走？](https://www.v2ex.com/t/714082) ![](assets/new.png)  
-- [2020-10-12-准备做一个固定资产盘点的-App，有这方面需求的童鞋，提提需求](https://www.v2ex.com/t/714081) ![](assets/new.png)  
-- [2020-10-12-想学点厨艺，琐碎时间能学的有啥途径吗？](https://www.v2ex.com/t/714080) ![](assets/new.png)  
-- [2020-10-12-deepin-无法启动：-failed-to-create-kernel-channel-,--22](https://www.v2ex.com/t/714079) ![](assets/new.png)  
-- [2020-10-12-上海-米哈游内推-原神专场--程序技术、平台开发](https://www.v2ex.com/t/714078) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1101,8 +1096,8 @@
 
 - [2020-10-12-到了-2020-年，顶级的-P8-架构师的技术水平到底需要达到怎样的程度？](https://toutiao.io/k/0vi58e0) ![](assets/new.png)  
 - [2020-10-12-一个爬虫的故事：这是人干的事儿？](https://toutiao.io/k/dd8nj1i) ![](assets/new.png)  
-- [2020-10-12-还不了解-ETL？看看这篇文章吧](https://toutiao.io/k/62zhr2v) ![](assets/new.png)  
 - [2020-10-12-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-12-还不了解-ETL？看看这篇文章吧](https://toutiao.io/k/62zhr2v) ![](assets/new.png)  
 - [2020-10-12-什么是-HBase？它是怎样工作的？终于有人讲明白了](https://toutiao.io/k/37gs7tk) ![](assets/new.png)  
 - [2020-10-12-服务发现技术选型那点事儿](https://toutiao.io/k/6kpm4u5) ![](assets/new.png)  
 - [2020-10-12-如何在-Rust-中使用-MQTT](https://toutiao.io/k/y0kuxpi) ![](assets/new.png)  
@@ -1118,7 +1113,7 @@
 - [2020-10-12-MongoDB-特定场景性能数十倍提升优化实践（记一次-MongoDB-核心集群雪崩故障）](https://toutiao.io/k/qnenrsh) ![](assets/new.png)  
 - [2020-10-12-使用-Docker-进行交叉编译](https://toutiao.io/k/5dbr7ou) ![](assets/new.png)  
 - [2020-10-12-微服务架构下单元测试落地实践（下）](https://toutiao.io/k/rqokeyk) ![](assets/new.png)  
-- [2020-10-12-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-12-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

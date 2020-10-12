@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-12 10:14:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 10:28:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
 - [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) 
 - [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) 
 - [2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) 
@@ -21,6 +20,3 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-10-12-淘宝直播-招前端-P6-P7](https://www.v2ex.com/t/714228) 
-- [2020-10-12-与实时音视频技术大牛面对面，RTE-2020-实时互联网大会线下站开放预约](https://toutiao.io/k/qx2g0ex) 
-- [2020-10-12-前端音视频之-WebRTC-初探](https://toutiao.io/k/ut59eub) 

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-12 14:39:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 14:47:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-12-出-Office-小型企业版-2016-for-Mac=零售许可=密钥一个](https://www.v2ex.com/t/714322) 
+- [2020-10-12-有-MS-的人在吗？-Outlook-Web-版便笺有-bug，会打断中文输入法的输入](https://www.v2ex.com/t/714320) 
+- [2020-10-12-关于-synchronized-关键字的疑问](https://www.v2ex.com/t/714319) 
+- [2020-10-12-技术贴:-请大佬指导一下无人机通信原理以及如何阻断它](https://www.v2ex.com/t/714318) 
 - [2020-10-12-iPhone-下最好的运动耳机是啥？](https://www.v2ex.com/t/714317) 
 - [2020-10-12-一个新的玩具，在-js-里套娃-c-编译器](https://www.v2ex.com/t/714316) 
 - [2020-10-12-Android，随机分布相关](https://www.v2ex.com/t/714315) 
@@ -40,7 +44,3 @@
 - [2020-10-12-有一个小需求](https://www.v2ex.com/t/714275) 
 - [2020-10-12-Python-flask-怎么向客户端下发配置文件？](https://www.v2ex.com/t/714274) 
 - [2020-10-12-北京-英雄互娱游戏招聘-UE4-客户端、UE4-引擎渲染、-Java-服务器端、游戏引擎系统开发、TA-技术美术！-坐标北京酒仙桥](https://www.v2ex.com/t/714273) 
-- [2020-10-12-刚刚上海电信-DNS-出现问题了](https://www.v2ex.com/t/714272) 
-- [2020-10-12-我也来送苹果了！](https://www.v2ex.com/t/714271) 
-- [2020-10-12-成都电信宽带新装、升级领福利](https://www.v2ex.com/t/714270) 
-- [2020-10-12-Xcode-上传包到-App-Store-就断网卡死，-然后系统崩溃重启](https://www.v2ex.com/t/714268) 

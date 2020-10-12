@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-12 06:32:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 06:34:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-13-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
 - [2020-10-09-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/002211e101217aa0a657e6c2fcc88a41) 
 - [2020-09-30-如何让你的-Express-飞起来？](https://www.ershicimi.com/p/37a8dbe73beffa79d283e9658452d5fb) 
 - [2020-09-27-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/35e68066c5fdc7da00fa6578cd44e004) 
@@ -36,3 +37,4 @@
 - [2020-10-09-奇舞周刊第-367-期：Node.js-v14.13.0-发布](https://www.ershicimi.com/p/8eb2591d8810e87087bf76fd5d6edf3e) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
+- [2020-10-12-nodejs-有没有好用的解决粘包问题的库？](https://www.v2ex.com/t/714154) 

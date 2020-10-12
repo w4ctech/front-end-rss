@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-12 18:15:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 18:30:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-12-Risk-Developer-领先对冲基金-北京/上海](https://www.v2ex.com/t/714342) 
 - [2020-10-12-大家常用的-app-都适配-Big-Sur-了吗？](https://www.v2ex.com/t/714341) 
 - [2020-10-12-股票系统开发工程师-上海/北京](https://www.v2ex.com/t/714340) 
 - [2020-10-12-synology-chat-无法登录求助](https://www.v2ex.com/t/714339) 

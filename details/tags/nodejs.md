@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-12 07:33:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 07:37:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -44,3 +44,6 @@
 - [2020-10-09-奇舞周刊第-367-期：Node.js-v14.13.0-发布](https://www.ershicimi.com/p/8eb2591d8810e87087bf76fd5d6edf3e) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
+- [2020-10-12-上海-Node.js-后端招人啦](https://www.v2ex.com/t/714171) 
+- [2020-10-12-egg-script-默认写死-NODE_ENV=production](https://www.v2ex.com/t/714166) 
+- [2020-10-12-nodejs-有没有好用的解决粘包问题的库？](https://www.v2ex.com/t/714154) 

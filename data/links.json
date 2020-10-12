@@ -548,6 +548,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "20k 以上面试必问，Webpack 原理和优化",
+        "link": "https://www.ershicimi.com/p/192577e419537de3c829a2d083d33cf3",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "浏览器是如何调度进程和线程的？",
+        "link": "https://www.ershicimi.com/p/bd20128029c1894104d710b9f12269f2",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "前端装饰器模式快闪",
+        "link": "https://www.ershicimi.com/p/49e6aef8b5ce898e9b9317c467a20682",
+        "date": "2020-10-11"
+      },
+      {
         "title": "谁说前端不用懂，手摸手 Docker 从入门到实践",
         "link": "https://www.ershicimi.com/p/84d7e2d4188c596461ae05729bfc2970",
         "date": "2020-10-10"
@@ -631,21 +646,6 @@
         "title": "从 4 个面试题了解「浏览器的垃圾回收」",
         "link": "https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24",
         "date": "2020-09-28"
-      },
-      {
-        "title": "不用try catch，如何机智的捕获错误",
-        "link": "https://www.ershicimi.com/p/716bed77e920b2a9724460dcd55a2dcd",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "Vue 项目中各种痛点问题及方案",
-        "link": "https://www.ershicimi.com/p/36bbda5d7a06170cc64a072482759efa",
-        "date": "2020-09-26"
-      },
-      {
-        "title": "面试最后一题是 CSS，答错后薪资降了 2k…",
-        "link": "https://www.ershicimi.com/p/ce497699375d6ed71ea7210d64559b6a",
-        "date": "2020-09-25"
       }
     ]
   },
@@ -3640,6 +3640,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "真难！通过源码告诉你阿里的数据库连接池Druid为啥如此牛逼！",
+        "link": "https://www.ershicimi.com/p/ddc6e562403de9e2818ad584cd5cbf74",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "Redis 怎么防止数据丢失？面试必问！",
+        "link": "https://www.ershicimi.com/p/e33e27614c53b77e9c42986cd3f93352",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "Java 8 Stream 闪亮登场！",
+        "link": "https://www.ershicimi.com/p/057768aa2ddb7fb46a24b641f54f53fb",
+        "date": "2020-10-12"
+      },
+      {
         "title": "那些还在外包公司干的程序员们，快醒醒吧！",
         "link": "https://www.ershicimi.com/p/dfaa78d417312f1717fd90ea6994cb76",
         "date": "2020-10-11"
@@ -3723,21 +3738,6 @@
         "title": "老板说“把系统升级到https”，我用一个脚本实现了，而且永久免费！",
         "link": "https://www.ershicimi.com/p/34456a649b238caa1dd9327833fcd3ff",
         "date": "2020-10-06"
-      },
-      {
-        "title": "JAVA 线上故障排查完整套路，从 CPU、磁盘、内存、网络、GC 一条龙！",
-        "link": "https://www.ershicimi.com/p/c11f5664eadc575712e6b160629fc8b0",
-        "date": "2020-10-06"
-      },
-      {
-        "title": "真强啊！建议每一位Java程序员都读读Dubbo心跳设计的源码...",
-        "link": "https://www.ershicimi.com/p/8aefcbb84fb676f9c6a7e4d8d3d617a9",
-        "date": "2020-10-05"
-      },
-      {
-        "title": "百度开源超级链技术方案！",
-        "link": "https://www.ershicimi.com/p/3d71b2bf9da17705eb93e1b3dde6c4ce",
-        "date": "2020-10-05"
       }
     ]
   },
@@ -4145,7 +4145,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -4319,6 +4319,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "Gear 浏览器里程碑升级到 v3.0，带来全新的自适应黑暗模式算法",
+        "link": "https://www.v2ex.com/t/714346",
+        "date": "2020-10-12"
+      },
       {
         "title": "QQ 群不能群发了，还有什么其它渠道好推广的呢？",
         "link": "https://www.v2ex.com/t/714345",
@@ -4527,11 +4532,6 @@
       {
         "title": "有没有人正在做安卓手表的桌面 for kids?",
         "link": "https://www.v2ex.com/t/714297",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "第四期德国 IT 岗位招聘之 IT specialist for system integration, Network administrator, DevOps Engineer",
-        "link": "https://www.v2ex.com/t/714296",
         "date": "2020-10-12"
       }
     ]
@@ -4749,58 +4749,8 @@
         "date": "2020-10-12"
       },
       {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-12"
-      },
-      {
         "title": "[推荐] 架构制图：工具与方法论",
         "link": "https://toutiao.io/k/pzy6sbw",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] 23 张图，带你入门推荐系统",
-        "link": "https://toutiao.io/k/ivzzn8a",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] 架构师之路：服务器硬件扫盲",
-        "link": "https://toutiao.io/k/dsqwkye",
         "date": "2020-10-12"
       },
       {
@@ -4809,13 +4759,63 @@
         "date": "2020-10-12"
       },
       {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-12"
+      },
+      {
         "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
         "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-12"
       },
       {
+        "title": "[推荐] 23 张图，带你入门推荐系统",
+        "link": "https://toutiao.io/k/ivzzn8a",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] 架构师之路：服务器硬件扫盲",
+        "link": "https://toutiao.io/k/dsqwkye",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-12"
+      },
+      {
         "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
         "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-12"
       }
     ]

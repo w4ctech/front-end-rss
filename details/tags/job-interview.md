@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-12 11:25:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 11:32:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -38,4 +38,5 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-10-07-Redis-面试-8-连问，你能顶住几道？](https://www.ershicimi.com/p/d100b68da538455fb72721a4b87084f9) 
 - [2020-10-12-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/7b5d3d44dc2558958e73ac7eaad5ed4e) 
+- [2020-10-12-北京/上海-头部量化私募急招数据清算开发工程师，薪资-open，一天可完成所有面试流程](https://www.v2ex.com/t/714227) 
 - [2020-10-12-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 

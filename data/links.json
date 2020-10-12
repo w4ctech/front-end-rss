@@ -2825,10 +2825,36 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "阔别两年，webpack 5 正式发布了！",
+        "link": "https://juejin.im/post/6882663278712094727",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "基于CASL的前端应用权限管理方案",
+        "link": "https://juejin.im/post/6882645988293640200",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "Gitlab-Robot-Jenkins 自研Chrome插件",
+        "link": "https://juejin.im/post/6882644808176205837",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "Flutter开发实战总结(插件篇)",
+        "link": "https://juejin.im/post/6882638010526105608",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "React 状态——Redux（上）",
+        "link": "https://juejin.im/post/6882627345518166024",
+        "date": "2020-10-11"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -2988,7 +3014,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -3158,10 +3184,206 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "今晚 10 月 12 号上海电信 dns 有问题么？",
+        "link": "https://www.v2ex.com/t/714276",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "有一个小需求",
+        "link": "https://www.v2ex.com/t/714275",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "Python flask 怎么向客户端下发配置文件？",
+        "link": "https://www.v2ex.com/t/714274",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[北京] 英雄互娱游戏招聘-UE4 客户端、UE4 引擎渲染、 Java 服务器端、游戏引擎系统开发、TA 技术美术！-坐标北京酒仙桥",
+        "link": "https://www.v2ex.com/t/714273",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "刚刚上海电信 DNS 出现问题了",
+        "link": "https://www.v2ex.com/t/714272",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "我也来送苹果了！",
+        "link": "https://www.v2ex.com/t/714271",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "成都电信宽带新装、升级领福利",
+        "link": "https://www.v2ex.com/t/714270",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "Xcode 上传包到 App Store 就断网卡死， 然后系统崩溃重启",
+        "link": "https://www.v2ex.com/t/714268",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "愁啊，队友的格式化代码插件和我的不一样，我们俩每次提交代码，报告里面都是大篇幅的修改。",
+        "link": "https://www.v2ex.com/t/714267",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "为啥图雀好久都不更新了呢",
+        "link": "https://www.v2ex.com/t/714266",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "技术移民欧洲，移民瑞典好机会 / 肉翻出国工作岗位 / 雇主担保移民北欧",
+        "link": "https://www.v2ex.com/t/714265",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[上海/北京]急招 Java 后端开发，前端，测试",
+        "link": "https://www.v2ex.com/t/714264",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[北京][雍和宫附近]招 C++研发工程师",
+        "link": "https://www.v2ex.com/t/714261",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[9 元秒杀] <美团&字节&快手&网易&Blibli>10 月算法真题详解",
+        "link": "https://www.v2ex.com/t/714260",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "请问 iPhone 的后台模式有什么用啊？",
+        "link": "https://www.v2ex.com/t/714258",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "贝壳找房内推各种开发岗位， Java ,FE,iOS,Android",
+        "link": "https://www.v2ex.com/t/714256",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "不懂就问， macbook pro2015 屏幕日常维护",
+        "link": "https://www.v2ex.com/t/714255",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "疯狂填字小程序公测，欢迎大家意见，留下微信名字，送 3000 金币",
+        "link": "https://www.v2ex.com/t/714253",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "这个题有迷惑性",
+        "link": "https://www.v2ex.com/t/714252",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "后端开发入职的，现在各种在写前端的页面。",
+        "link": "https://www.v2ex.com/t/714251",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "gormt 数据库转换工具 支持 grom v2 版本",
+        "link": "https://www.v2ex.com/t/714250",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "程序员专享外卖互点 Group",
+        "link": "https://www.v2ex.com/t/714249",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "不懂就问， macbook pro 外接显示器推荐",
+        "link": "https://www.v2ex.com/t/714248",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "戴上眼镜后精神恍惚",
+        "link": "https://www.v2ex.com/t/714246",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "有感于大家都在晒研究生推免录取通知，因此写了个相关的生成器",
+        "link": "https://www.v2ex.com/t/714245",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "iOS 打包服务器",
+        "link": "https://www.v2ex.com/t/714244",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "人口普查会影响居住证的地址吗",
+        "link": "https://www.v2ex.com/t/714242",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[北京 - 望京] 猿辅导 - 基础架构工程师 / Tech Leader",
+        "link": "https://www.v2ex.com/t/714241",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "深圳南山程序员在哪里租房最合适，最舒适？",
+        "link": "https://www.v2ex.com/t/714240",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "写了一个生成服务器所有被占用端口及其进程报告的 shell，复制运行即可",
+        "link": "https://www.v2ex.com/t/714239",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "我目前在北京，准备离职，大家讨论一下北京、上海、深圳哪个更适合程序员 [生活] 和 [工作] 呢？",
+        "link": "https://www.v2ex.com/t/714238",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "如何让新 edge 新标签页是 Google.com",
+        "link": "https://www.v2ex.com/t/714237",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "国内储蓄卡有能月付 OnlyFans 的方法吗？",
+        "link": "https://www.v2ex.com/t/714235",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "这是 v2 镜像站还是什么鬼",
+        "link": "https://www.v2ex.com/t/714234",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "第一次摔坏 iPhone 的我应该怎么办",
+        "link": "https://www.v2ex.com/t/714233",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "字节跳动--内推",
+        "link": "https://www.v2ex.com/t/714230",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "美团之前裁应届生的比例是多少？",
+        "link": "https://www.v2ex.com/t/714229",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[淘宝直播] 招前端 P6 P7",
+        "link": "https://www.v2ex.com/t/714228",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[北京/上海] 头部量化私募急招数据清算开发工程师，薪资 open，一天可完成所有面试流程",
+        "link": "https://www.v2ex.com/t/714227",
+        "date": "2020-10-12"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -3376,8 +3598,8 @@
         "date": "2020-10-12"
       },
       {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-12"
       },
       {
@@ -3386,8 +3608,8 @@
         "date": "2020-10-12"
       },
       {
-        "title": "[推荐] 架构制图：工具与方法论",
-        "link": "https://toutiao.io/k/pzy6sbw",
+        "title": "[推荐] 架构师之路：服务器硬件扫盲",
+        "link": "https://toutiao.io/k/dsqwkye",
         "date": "2020-10-12"
       },
       {
@@ -3396,18 +3618,8 @@
         "date": "2020-10-12"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
+        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
+        "link": "https://toutiao.io/k/dufazik",
         "date": "2020-10-12"
       },
       {
@@ -3421,23 +3633,33 @@
         "date": "2020-10-12"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
         "date": "2020-10-12"
       },
       {
-        "title": "[推荐] 架构师之路：服务器硬件扫盲",
-        "link": "https://toutiao.io/k/dsqwkye",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "[推荐] 浅谈如何搭建知识体系 | 码农周刊第 319 期",
-        "link": "https://toutiao.io/k/dufazik",
+        "title": "[推荐] 架构制图：工具与方法论",
+        "link": "https://toutiao.io/k/pzy6sbw",
         "date": "2020-10-12"
       },
       {
         "title": "[推荐] 23 张图，带你入门推荐系统",
         "link": "https://toutiao.io/k/ivzzn8a",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-12"
       }
     ]

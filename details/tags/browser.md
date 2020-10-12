@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-12 11:25:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 11:32:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,7 +15,9 @@
 - [2020-09-25-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6) 
 - [2020-10-09-5000字！带你零距离接触websocket！](https://www.ershicimi.com/p/e87e80ed7a3e9ca8ea3daf97074c90ab) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2020-10-12-Gitlab-Robot-Jenkins-自研Chrome插件](https://juejin.im/post/6882644808176205837) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-12-如何让新-edge-新标签页是-Google.com](https://www.v2ex.com/t/714237) 
 - [2020-10-12-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-12-为付出收获精彩成果-|-2020网络安全“金帽子”年度评选正式开启](https://sec.thief.one/article_content?a_id=5b190b176c8257d8d3cd501d8ec61b65) 
 - [2020-10-12-每日安全动态推送10-12](https://sec.thief.one/article_content?a_id=b2637f66aaf496804369c574dd00e562) 

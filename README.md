@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-12 16:47:04，:rocket: 更新条数: +778， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-12 16:49:07，:rocket: 更新条数: +3470， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-11-最新疫情：全国新冠累计确诊85578例-新增境外输入21例](http://m.china.caixin.com/m/2020-10-12/101613660.html) ![](assets/new.png)  
+- [2020-10-11-青岛新冠阳性患者增至12人-5日内完成全市900多万人核酸检测](https://m.caixin.com/m/2020-10-12/101613800.html) ![](assets/new.png)  
+- [2020-10-11-聚焦|张文宏：青岛局部疫情可通过扩大检测“动态清零”](http://m.opinion.caixin.com/m/2020-10-12/101613656.html) ![](assets/new.png)  
+- [2020-10-11-最新海外疫情：新冠感染近3732万-累计死亡超107万](http://m.international.caixin.com/m/2020-10-12/101613851.html) ![](assets/new.png)  
+- [2020-10-11-青岛新增核酸检测阳性9人-其中4例为确诊病例](https://m.caixin.com/m/2020-10-12/101613557.html) ![](assets/new.png)  
+- [2020-10-11-【境内疫情观察】青岛新增6例本土确诊病例（10月11日）](http://m.database.caixin.com/m/2020-10-12/101613711.html) ![](assets/new.png)  
+- [2020-10-10-美国万只水貂染新冠死亡-未发现水貂传人病例](http://m.science.caixin.com/m/2020-10-11/101613536.html) ![](assets/new.png)  
+- [2020-10-10-青岛新增3例无症状感染者-初步判断与市胸科医院相关联](http://m.china.caixin.com/m/2020-10-11/101613457.html) ![](assets/new.png)  
+- [2020-10-10-【境内疫情观察】青岛新增3例本土无症状感染者（10月10日）](http://m.database.caixin.com/m/2020-10-11/101613487.html) ![](assets/new.png)  
+- [2020-10-10-大流行手记|10月10日：多家学术期刊痛批美政府抗疫不力-马德里再次封锁](https://m.caixin.com/m/2020-10-11/101613470.html) ![](assets/new.png)  
+- [2020-10-10-数字说|特朗普身边都有谁感染了新冠？](http://m.datanews.caixin.com/m/2020-10-11/101613528.html) ![](assets/new.png)  
+- [2020-10-09-【境内疫情观察】全国新增39例无症状感染者（10月9日）](http://m.database.caixin.com/m/2020-10-10/101613339.html) ![](assets/new.png)  
+- [2020-10-09-大流行手记|10月9日：中国加入世卫疫苗计划-新冠或令婴儿死产率上升](https://m.caixin.com/m/2020-10-10/101613209.html) ![](assets/new.png)  
+- [2020-10-09-欧洲疫情反弹增速达全球最快-六成民众出现防控倦怠心态](http://m.international.caixin.com/m/2020-10-10/101613442.html) ![](assets/new.png)  
+- [2020-10-09-中国加入全球新冠疫苗实施计划-将向全球供应](https://m.caixin.com/m/2020-10-10/101613363.html) ![](assets/new.png)  
+- [2020-10-08-【境内疫情观察】陕西新增10例境外输入病例（10月8日）](http://m.database.caixin.com/m/2020-10-09/101612841.html) ![](assets/new.png)  
+- [2020-10-08-大流行手记|10月8日：欧盟与强生达成疫苗供应协议-特朗普拒绝远程辩论](https://m.caixin.com/m/2020-10-09/101612770.html) ![](assets/new.png)  
+- [2020-10-07-【境内疫情观察】全国新增11例境外输入病例（10月7日）](http://m.database.caixin.com/m/2020-10-08/101612644.html) ![](assets/new.png)  
+- [2020-10-07-大流行手记|10月7日：WHO呼吁加大精神卫生投资-英国将新建40座医院](https://m.caixin.com/m/2020-10-08/101612616.html) ![](assets/new.png)  
+- [2020-10-06-【境内疫情观察】全国新增7例境外输入病例（10月6日）](http://m.database.caixin.com/m/2020-10-07/101612540.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -709,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

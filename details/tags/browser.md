@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-12 22:14:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 22:27:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,15 +23,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2020-10-12-Gitlab-Robot-Jenkins-自研Chrome插件](https://juejin.im/post/6882644808176205837) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-10-12-Gear-浏览器里程碑升级到-v3.0，带来全新的自适应黑暗模式算法](https://www.v2ex.com/t/714346) 
-- [2020-10-12-求一个能做二级代理转发的工具,-因为-Chrome-命令行挂不上带认证的代理](https://www.v2ex.com/t/714327) 
-- [2020-10-12-我都无力吐槽-Chrome-了,一个版本引入一个-BUG.](https://www.v2ex.com/t/714314) 
-- [2020-10-12-C/C++-Search-Extension---一款可以快速在地址栏搜索-C/C++-文档的浏览器插件](https://www.v2ex.com/t/714307) 
-- [2020-10-12-chrome-可以查看明文密码有解决方案吗？](https://www.v2ex.com/t/714298) 
-- [2020-10-12-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-12-为付出收获精彩成果-|-2020网络安全“金帽子”年度评选正式开启](https://sec.thief.one/article_content?a_id=5b190b176c8257d8d3cd501d8ec61b65) 
 - [2020-10-12-每日安全动态推送10-12](https://sec.thief.one/article_content?a_id=b2637f66aaf496804369c574dd00e562) 
 - [2020-10-12-工具推荐:奇安信盘古石-安全赋能取证](https://sec.thief.one/article_content?a_id=8b1508983c84f367b56c07b9aa113ec5) 

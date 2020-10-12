@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-12 05:47:19，:rocket: 更新条数: +777， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-12 06:05:56，:rocket: 更新条数: +776， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -865,6 +865,17 @@
 </summary>
 
 
+- [2020-10-12-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/7b5d3d44dc2558958e73ac7eaad5ed4e) ![](assets/new.png)  
+- [2020-10-12-没有CTO的Netflix：为什么我们愿意高薪雇佣程序员？](https://www.ershicimi.com/p/378ff4ea789b03fa41ea6fc8a512fd4d) ![](assets/new.png)  
+- [2020-10-12-QCon三站同启！跨越等待，荣耀归来](https://www.ershicimi.com/p/2f263a5c1305c6a9269c33260b3ffe9f) ![](assets/new.png)  
+- [2020-10-12-对微前端的11个错误认识](https://www.ershicimi.com/p/5ebad48e87247141e58f95bd5255d723) ![](assets/new.png)  
+- [2020-10-12-3个月挖到55个漏洞，这伙白帽获苹果超330万元的赏金](https://www.ershicimi.com/p/7cb9253fad26c77741b5b2137c736325) ![](assets/new.png)  
+- [2020-10-11-史上最大服务中断事故：全球互联网流量下降3.5%只因一次配置错误？](https://www.ershicimi.com/p/9bf405c85a1b1a0a7423b49fb5292f2e) ![](assets/new.png)  
+- [2020-10-11-TikTok-的应用程序日志都记录了什么内容？](https://www.ershicimi.com/p/30038ef3d67911593af72fbd5ae91874) ![](assets/new.png)  
+- [2020-10-11-有奖调研｜平台百花齐放，你究竟“链”上谁？](https://www.ershicimi.com/p/c3ad1f100ebc7d994244a24775417b28) ![](assets/new.png)  
+- [2020-10-11-我们不是瓦力，但人工智能会带来专属的伊娃-｜-Q推荐](https://www.ershicimi.com/p/1bc5969514127948c52ebb9c3fce7b1b) ![](assets/new.png)  
+- [2020-10-11-React-Hooks-还不如类？](https://www.ershicimi.com/p/9dfed6ed459a3ce9d266be23f0a84875) ![](assets/new.png)  
+- [2020-10-11-CI/CD-最佳实践的基本原则](https://www.ershicimi.com/p/995a7fa20a58f45471ea2a4e2093dc51) ![](assets/new.png)  
 - [2020-10-10-美国酝酿制裁支付宝和微信支付；传台积电获供应华为许可证；微软允许员工永久在家办公-丨-Q资讯](https://www.ershicimi.com/p/8c3c72d7eda6760af1133221ac2ff4e1) ![](assets/new.png)  
 - [2020-10-10-TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/cd57b7a665702a5a6f1ac178869303df) ![](assets/new.png)  
 - [2020-10-10-【金秋十月】赢千元数码大奖，竟然如此简单](https://www.ershicimi.com/p/887555a1091a1c518246ac4ff3b91a5d) ![](assets/new.png)  
@@ -874,17 +885,6 @@
 - [2020-10-09-TiDB-on-Kubernetes-最佳实践](https://www.ershicimi.com/p/254d2e42ad229f8dcfd1493160bd073c) ![](assets/new.png)  
 - [2020-10-09-人工智能势如破竹，开创机器人对话时代-｜-Q推荐](https://www.ershicimi.com/p/3b323da84fe757537bb6b948592ba69c) ![](assets/new.png)  
 - [2020-10-09-PHP与.NET统治Web开发世界的八个理由](https://www.ershicimi.com/p/359a3c3a3a39f25f2bebb8bbf278dcc8) ![](assets/new.png)  
-- [2020-10-08-芯片断供，华为软件艰难补洞](https://www.ershicimi.com/p/6abda60d210c57c6cd5d3d91c1dc1a0b) ![](assets/new.png)  
-- [2020-10-08-十万-IT-人都关注的技术发展白皮书，到底讲了什么？](https://www.ershicimi.com/p/0b8e988e643e52111d3987b16ab30809) ![](assets/new.png)  
-- [2020-10-08-人工智能时代：打造AI基础平台是关键-｜-QCon+](https://www.ershicimi.com/p/de72ae570fc46a00adf1cb8310540525) ![](assets/new.png)  
-- [2020-10-08-我如何解决一个基于GraphQL网站的扩展性问题？](https://www.ershicimi.com/p/8b8eeda5ce1924e25316afa2fb240d40) ![](assets/new.png)  
-- [2020-10-07-我是一位40岁的“老程序员”，我有一些想法](https://www.ershicimi.com/p/f02c7349d2a2fc484ea5869ce088b340) ![](assets/new.png)  
-- [2020-10-07-不写文档你就输了](https://www.ershicimi.com/p/5246bd51bcb07d0107360032fc9e03a5) ![](assets/new.png)  
-- [2020-10-06-一份来自清华的「数据分析」笔记，手快有手慢无！｜-极客时间](https://www.ershicimi.com/p/5a99257e6c080a068a445054c79e7605) ![](assets/new.png)  
-- [2020-10-06-用了3年Kubernetes，我们得到的5个教训](https://www.ershicimi.com/p/a4e4ea4fdcd20f5edc357ca6cc28947d) ![](assets/new.png)  
-- [2020-10-06-Uber三代API-生命周期管理平台实现](https://www.ershicimi.com/p/2b51209c5bf4d46435bb5b1ce7385c8a) ![](assets/new.png)  
-- [2020-10-05-高德、百度的下半场地图战，你要被抛弃了吗？](https://www.ershicimi.com/p/1ed2c5dea99086698ce595415540bdbd) ![](assets/new.png)  
-- [2020-10-05-一些建议：给当年刚做程序员的我](https://www.ershicimi.com/p/8964f96e5d70287b15e36738055cb9b7) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -927,11 +927,11 @@
 </summary>
 
 
+- [2020-10-11-【一天一大-lee】二叉搜索树的最小绝对差-难度:简单---Day20201012](https://juejin.im/post/6882599287889330189) ![](assets/new.png)  
+- [2020-10-11-学习JavaScript数据结构与算法之队列2](https://juejin.im/post/6882588628187349000) ![](assets/new.png)  
 - [2020-10-11-async-validator源码解析（四）：Schema类](https://juejin.im/post/6882587879949172744) ![](assets/new.png)  
 - [2020-10-11-【Vue组件】从零开始实现一个支持插入自定义表情的评论组件](https://juejin.im/post/6882577678692515847) ![](assets/new.png)  
 - [2020-10-11-1分钟将vscode撸成小霸王](https://juejin.im/post/6882576431503638536) ![](assets/new.png)  
-- [2020-10-11-图片自适应容器大小](https://juejin.im/post/6882574726099632136) ![](assets/new.png)  
-- [2020-10-11-Vue3.0系列——「vue3.0性能是如何变快的？」](https://juejin.im/post/6882566603762843655) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1037,6 +1037,10 @@
 </summary>
 
 
+- [2020-10-12-nodejs-有没有好用的解决粘包问题的库？](https://www.v2ex.com/t/714154) ![](assets/new.png)  
+- [2020-10-12-Excel-有几千个手机号，如何高效的转化为微信好友](https://www.v2ex.com/t/714153) ![](assets/new.png)  
+- [2020-10-12-有喜欢白酒的吗？品质好酒仅剩最后三箱，低价处理](https://www.v2ex.com/t/714152) ![](assets/new.png)  
+- [2020-10-12-阿里云.xyz-域名免费领取，附免备案上线攻略](https://www.v2ex.com/t/714150) ![](assets/new.png)  
 - [2020-10-12-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/714148) ![](assets/new.png)  
 - [2020-10-12-国内第四大运营商](https://www.v2ex.com/t/714147) ![](assets/new.png)  
 - [2020-10-12-刚看到有个老哥说薪酬改成时薪制](https://www.v2ex.com/t/714146) ![](assets/new.png)  
@@ -1053,10 +1057,6 @@
 - [2020-10-12-各位老哥，选择开源项目还是继续用公司框架。。](https://www.v2ex.com/t/714128) ![](assets/new.png)  
 - [2020-10-12-offer-求助](https://www.v2ex.com/t/714127) ![](assets/new.png)  
 - [2020-10-12-geogebra-中画出的参数方程图形，如果用参数滑动条来绘制动态图形？](https://www.v2ex.com/t/714126) ![](assets/new.png)  
-- [2020-10-12-求助：简单的模型-app-能上架市场吗](https://www.v2ex.com/t/714124) ![](assets/new.png)  
-- [2020-10-12-招人招人美团外卖急招“高级交互设计师”，核心团队核心业务](https://www.v2ex.com/t/714122) ![](assets/new.png)  
-- [2020-10-12-顶配-Macbook-升级满配-iMac-体验分享~](https://www.v2ex.com/t/714121) ![](assets/new.png)  
-- [2020-10-12-求-V-友们给点意见,最近有点摇摆不定](https://www.v2ex.com/t/714120) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1108,8 +1108,8 @@
 - [2020-10-12-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
 - [2020-10-12-Presto-在滴滴的探索与实践](https://toutiao.io/k/xm0mup0) ![](assets/new.png)  
 - [2020-10-12-如何在-Rust-中使用-MQTT](https://toutiao.io/k/y0kuxpi) ![](assets/new.png)  
-- [2020-10-12-数据结构与算法：快速排序](https://toutiao.io/k/u2ggnk8) ![](assets/new.png)  
 - [2020-10-12-与实时音视频技术大牛面对面，RTE-2020-实时互联网大会线下站开放预约](https://toutiao.io/k/qx2g0ex) ![](assets/new.png)  
+- [2020-10-12-数据结构与算法：快速排序](https://toutiao.io/k/u2ggnk8) ![](assets/new.png)  
 - [2020-10-12-Kubernetes-网络插件工作原理剖析](https://toutiao.io/k/94lzvig) ![](assets/new.png)  
 - [2020-10-12-前端音视频之-WebRTC-初探](https://toutiao.io/k/ut59eub) ![](assets/new.png)  
 - [2020-10-12-一个让中台落地的开发框架](https://toutiao.io/k/ejpt6ae) ![](assets/new.png)  
@@ -1118,7 +1118,7 @@
 - [2020-10-12-MongoDB-特定场景性能数十倍提升优化实践（记一次-MongoDB-核心集群雪崩故障）](https://toutiao.io/k/qnenrsh) ![](assets/new.png)  
 - [2020-10-12-使用-Docker-进行交叉编译](https://toutiao.io/k/5dbr7ou) ![](assets/new.png)  
 - [2020-10-12-微服务架构下单元测试落地实践（下）](https://toutiao.io/k/rqokeyk) ![](assets/new.png)  
-- [2020-10-12-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-12-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

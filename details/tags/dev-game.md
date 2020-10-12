@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-12 02:32:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-12 02:38:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,5 +7,4 @@
 
 
 
-- [2020-10-12-本打算是戒掉游戏装的黑苹果,你们有类似操作么？](https://www.v2ex.com/t/714045) 
 - [2020-10-04-【安全圈】游戏盗版组织Team-Xecuter主要成员被捕](https://sec.thief.one/article_content?a_id=0e51dc47180e868b8798f3e1832aa132) 

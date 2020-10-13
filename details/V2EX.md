@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-13 05:37:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 05:47:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-13-发布基于-ARM-的-OpenJDK-for-Windows-10](https://www.v2ex.com/t/714484) 
+- [2020-10-13-Android/Kotlin:-webview-自己制作视频字幕叠加在视频上,-如何实现?](https://www.v2ex.com/t/714483) 
+- [2020-10-13-基于-Markdown-的个人笔记产品](https://www.v2ex.com/t/714482) 
+- [2020-10-13-教育优惠的-AirpodsPro-有销售凭证什么的吗](https://www.v2ex.com/t/714481) 
+- [2020-10-13-你们贷款买房后会考虑去别的城市吗？](https://www.v2ex.com/t/714480) 
 - [2020-10-13-iPhone-视频压缩-App-求推荐](https://www.v2ex.com/t/714479) 
 - [2020-10-13-ios/-Swift-:-求可以播放本地-m3u8+ts-hls视频的播放器或方法](https://www.v2ex.com/t/714478) 
 - [2020-10-13-跑了一趟居委完成普查](https://www.v2ex.com/t/714477) 
@@ -36,8 +41,3 @@
 - [2020-10-13-Android-问题](https://www.v2ex.com/t/714441) 
 - [2020-10-13-0202-年了-iOS-微信还是不能「点亮屏幕---点击微信消息通知---直接跳到具体对话页面」？](https://www.v2ex.com/t/714439) 
 - [2020-10-13-杭州-证监会项目：招聘前端工程师](https://www.v2ex.com/t/714437) 
-- [2020-10-13-格瓦拉太坑了,明明订票后都是猫眼的票,中间赚了十块钱](https://www.v2ex.com/t/714436) 
-- [2020-10-13-上海电信连续大半年了一直在升级什么东西？](https://www.v2ex.com/t/714435) 
-- [2020-10-13-大件的家具比如沙发、床怎么处理？](https://www.v2ex.com/t/714434) 
-- [2020-10-13-有没有酷喵-tv-的车](https://www.v2ex.com/t/714431) 
-- [2020-10-13-有什么开源或免费的即时通讯软件吗？支持本地部署的](https://www.v2ex.com/t/714430) 

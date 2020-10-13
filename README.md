@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-13 18:39:43，:rocket: 更新条数: +3717， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-13 18:47:04，:rocket: 更新条数: +3716， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1096,7 +1096,7 @@
 - [2020-10-13-windows-有没有什么通用的数据传输方案](https://www.v2ex.com/t/714652) ![](assets/new.png)  
 - [2020-10-13-大佬们给个建议，-IT-培训机构要去吗](https://www.v2ex.com/t/714651) ![](assets/new.png)  
 - [2020-10-13-老码农在喜马拉雅上读-原百代-的书](https://www.v2ex.com/t/714649) ![](assets/new.png)  
-- [2020-10-13-王守义说了-十三香！](https://www.v2ex.com/t/714648) ![](assets/new.png)  
+- [2020-10-13-SpringCloud-系列之分布式配置中心极速入门与实践](https://www.v2ex.com/t/714647) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

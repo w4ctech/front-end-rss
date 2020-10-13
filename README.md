@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-13 23:25:47，:rocket: 更新条数: +3715， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-13 23:32:31，:rocket: 更新条数: +3715， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-13-乌克兰政府宣布将适应性隔离措施延长实施至年底](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4QZFXRHgfRjubldMy7V201014&isfromapp=1) ![](assets/new.png)  
 - [2020-10-13-印尼新增新冠肺炎确诊病例3906例-累计确诊340622例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtircyzReHc0pKh0llw6KkA201013&isfromapp=1) ![](assets/new.png)  
 - [2020-10-13-香港13日新增新冠肺炎确诊病例8例-累计确诊5202例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCcH9AS20NgUr09eO3Dnm201013&isfromapp=1) ![](assets/new.png)  
 - [2020-10-13-以色列新增1484例新冠肺炎确诊病例-累计确诊295037例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLeLFHpi6TSdxde58lkOc201013&isfromapp=1) ![](assets/new.png)  
 - [2020-10-13-菲律宾新增1990例新冠肺炎确诊病例-累计确诊344713例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticVhSfGl9H3xmTGzbC4E1201013&isfromapp=1) ![](assets/new.png)  
-- [2020-10-13-俄罗斯新增13868例新冠肺炎确诊病例-累计确诊1326178例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiipHUsHOU3Hkiy6vDmQpL201013&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

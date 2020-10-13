@@ -517,10 +517,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/65",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/65",
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
-    "items": []
+    "items": [
+      {
+        "title": "20k 以上面试必问，Webpack 原理和优化",
+        "link": "https://www.ershicimi.com/p/192577e419537de3c829a2d083d33cf3",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "浏览器是如何调度进程和线程的？",
+        "link": "https://www.ershicimi.com/p/bd20128029c1894104d710b9f12269f2",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "前端装饰器模式快闪",
+        "link": "https://www.ershicimi.com/p/49e6aef8b5ce898e9b9317c467a20682",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "谁说前端不用懂，手摸手 Docker 从入门到实践",
+        "link": "https://www.ershicimi.com/p/84d7e2d4188c596461ae05729bfc2970",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "做了 8 年前端，看透了裁人的套路",
+        "link": "https://www.ershicimi.com/p/8079378715a547442a61c88db5a8c6a0",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "前端赋能业务：Node实现自动化部署平台",
+        "link": "https://www.ershicimi.com/p/002211e101217aa0a657e6c2fcc88a41",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "Facebook 新一代 React 状态管理库 Recoil",
+        "link": "https://www.ershicimi.com/p/26add611063d221ffcb13dc2b0ec08b6",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "搞不懂为啥都要去字节跳动...",
+        "link": "https://www.ershicimi.com/p/28a4720c9b18914466fea8f56f865dbc",
+        "date": "2020-10-07"
+      },
+      {
+        "title": "Firefox 18周岁",
+        "link": "https://www.ershicimi.com/p/519bf664dd83858b7d5f35339011ffc9",
+        "date": "2020-10-07"
+      },
+      {
+        "title": "由浅入深，66条JavaScript面试知识点",
+        "link": "https://www.ershicimi.com/p/a4bd310df5a3f3ef95bf8ea89713eb85",
+        "date": "2020-10-06"
+      },
+      {
+        "title": "你不知道的 React",
+        "link": "https://www.ershicimi.com/p/41def994403787a96be741872141868d",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "Vue3 DOM Diff 核心算法解析",
+        "link": "https://www.ershicimi.com/p/6a3310742d28a1aa2b7772c919d71123",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "代数效应与 React",
+        "link": "https://www.ershicimi.com/p/54e853d1bad4f6efb55ab24ade58953b",
+        "date": "2020-10-04"
+      },
+      {
+        "title": "尤雨溪全职做开源年薪百万，网友：不愧是前端尤大神",
+        "link": "https://www.ershicimi.com/p/16516e26d52339a78cc64fff251a932e",
+        "date": "2020-10-03"
+      },
+      {
+        "title": "海贼王 One Piece，一起康康 Vue 版本号中的彩蛋",
+        "link": "https://www.ershicimi.com/p/6dcfe30a3b83c339a2dc6ad6d8497d0a",
+        "date": "2020-10-02"
+      },
+      {
+        "title": "美团 2021 届校园招聘前端岗位热招",
+        "link": "https://www.ershicimi.com/p/7cf564a56423efefc97f721b5988aff6",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "如何让你的 Express 飞起来？",
+        "link": "https://www.ershicimi.com/p/37a8dbe73beffa79d283e9658452d5fb",
+        "date": "2020-09-30"
+      },
+      {
+        "title": "iframe 接班人-微前端框架 qiankun 在中后台系统实践",
+        "link": "https://www.ershicimi.com/p/3bf6162476cc938e30ae86321cd46b57",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "与后端分手，做独立自强的前端人！",
+        "link": "https://www.ershicimi.com/p/6903a2861ee8d090378a6d11f8dfd482",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "从 4 个面试题了解「浏览器的垃圾回收」",
+        "link": "https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24",
+        "date": "2020-09-28"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/29",
@@ -844,9 +945,110 @@
     "link": "https://www.ershicimi.com/a/169"
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/892",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/892",
     "title": "前端大学",
-    "items": [],
+    "items": [
+      {
+        "title": "webpack如何快速入门？",
+        "link": "https://www.ershicimi.com/p/72cb35fa3d75999fdb846a6f1ad79636",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "前端赋能业务：Node实现自动化部署平台",
+        "link": "https://www.ershicimi.com/p/bb121b910148c883d3d1c8243fa7abdf",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "Vue3+TypeScript完整项目上手教程",
+        "link": "https://www.ershicimi.com/p/a1f58e05342565128a63f7116db38e2a",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "四年前端，竟在这道CSS面试题上跪了",
+        "link": "https://www.ershicimi.com/p/77b12c47a3599719d7add23051b45375",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "张一鸣：给产品技术人才的建议",
+        "link": "https://www.ershicimi.com/p/0186fc2099f91f55f16742b8e47e4b67",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "Python之父：JS不是竞争对手",
+        "link": "https://www.ershicimi.com/p/062db78e78423e7cbc7060635ad185f8",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "大部分人都会做错的经典 JS 闭包面试题",
+        "link": "https://www.ershicimi.com/p/e4916ac661cae6cc50e27b2a0403c6ef",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "记录下入职中软一个月（外包华为），就离职了！",
+        "link": "https://www.ershicimi.com/p/b70ca359ccd3ca843fb5219bacd97115",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "32个手撕JS，彻底摆脱初级前端（面试高频）",
+        "link": "https://www.ershicimi.com/p/44b1a720095cf182b60ca705dc167ae9",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "前端：写在 30 岁之前",
+        "link": "https://www.ershicimi.com/p/d70a746668b2a01dddbdfcbca4439741",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "全面分析toString与valueOf，并随手解决掉几道大厂必备面试题",
+        "link": "https://www.ershicimi.com/p/46732a0e26399e87a94fef1d37b39bba",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "3年前端也被裁？你的技术欠缺这2点",
+        "link": "https://www.ershicimi.com/p/3cbf65a87acc9a21925607b34e95e62c",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "就是要让你搞懂Nginx，这篇就够了！",
+        "link": "https://www.ershicimi.com/p/54e33fa9972d09466745caea15b0057e",
+        "date": "2020-09-25"
+      },
+      {
+        "title": "VUE+ElementUI后台管理项目经验与技巧分享，金九银十跳槽必看！",
+        "link": "https://www.ershicimi.com/p/16527cca93bfecd468a24f696ad0361c",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "前端面试常见的手写功能（常用代码）",
+        "link": "https://www.ershicimi.com/p/341f27b85dabee96c83330aecd0a3458",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "从阿里,华为等大厂开发实战，看清大前端趋势",
+        "link": "https://www.ershicimi.com/p/406c9b19309b89074f2058a28aac2b98",
+        "date": "2020-09-23"
+      },
+      {
+        "title": "别再被前端“洗脑”了！！",
+        "link": "https://www.ershicimi.com/p/335ca1f511eb7c4532d1fdd7bde51eb2",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "JavaScript 交换值的奇思妙想",
+        "link": "https://www.ershicimi.com/p/5c4e76536d8822a71334167df303255f",
+        "date": "2020-09-22"
+      },
+      {
+        "title": "从0到1用Node完成一个CLI工具",
+        "link": "https://www.ershicimi.com/p/a8f23202f8f5bedddb75f0dc36476dc3",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "TypeScript之父：JS不是竞争对手",
+        "link": "https://www.ershicimi.com/p/b427791b842bf861fb65711bb42df6f8",
+        "date": "2020-09-20"
+      }
+    ],
     "link": "https://www.ershicimi.com/a/892"
   },
   {
@@ -1997,10 +2199,161 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/jskou/0",
+    "rss": "https://rss.itggg.cn/jskou/0",
     "title": "前端艺术家&&飞冰早报",
     "link": "http://fe.jskou.com/",
-    "items": []
+    "items": [
+      {
+        "title": "【canvas】动画原理の万有引力定律",
+        "link": "https://juejin.im/post/5e213c83f265da3e006b3fc0",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "JavaScript️可视化：事件循环",
+        "link": "https://juejin.im/post/5e218b8af265da3e121824eb",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "JavaScript的强语言之路—另类的JSON序列化与反序列化",
+        "link": "https://juejin.im/post/5e1f23d76fb9a02fec664828",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "自动化部署的一小步，前端搬砖的一大步",
+        "link": "https://juejin.im/post/5e206168f265da3e2b2d7560",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "让App热更多个RN项目的解决方案",
+        "link": "https://juejin.im/post/5df6ecec51882512533a876b",
+        "date": "2019-12-18"
+      },
+      {
+        "title": "Vue Testing Crash Course",
+        "link": "https://dev.to/blacksonic/vue-testing-crash-course-59kl",
+        "date": "2019-12-18"
+      },
+      {
+        "title": "淘宝技术架构演进",
+        "link": "https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "Webpack打包改造--插入自定义内容",
+        "link": "https://juejin.im/post/5df4a220f265da33de3a74b0",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "b站全灰，但我一下把它弄回来了——css 滤镜",
+        "link": "https://juejin.im/post/5df3a049f265da33f8652882",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "以中国传统的孔子和老子的思想来分析忍者代码",
+        "link": "https://juejin.im/post/5df06050e51d4557f26e52e3",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "「从模板消息改版订阅消息」小程序推送",
+        "link": "https://juejin.im/post/5df03c3551882512243f9292",
+        "date": "2019-12-12"
+      },
+      {
+        "title": "Flexbox：使用 Auto Margin 对齐",
+        "link": "https://juejin.im/post/5dedb2fd6fb9a016323d7202",
+        "date": "2019-12-12"
+      },
+      {
+        "title": "9102 年，蚂蚁金服前端是怎么写图表的?",
+        "link": "https://zhuanlan.zhihu.com/p/93963320",
+        "date": "2019-12-09"
+      },
+      {
+        "title": "图表制作可以很简单 - 图表魔方 ChartCube",
+        "link": "https://zhuanlan.zhihu.com/p/94269648",
+        "date": "2019-12-09"
+      },
+      {
+        "title": "微前端的核心价值",
+        "link": "https://zhuanlan.zhihu.com/p/95085796",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）",
+        "link": "https://juejin.im/post/5de6474bf265da33af512598",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "你可能不知道的 JavaScript 代码 Chrome 调试方法",
+        "link": "https://zh.javascript.info/debugging-chrome",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "crypto 前后端加解密简单了解",
+        "link": "https://juejin.im/post/5de70298f265da33b12e8221",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "How to choose a JavaScript code editor",
+        "link": "https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "京喜首页（微信购物入口）跨端开发与优化实践",
+        "link": "https://juejin.im/post/5de66e916fb9a015fd699b46",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "Node.js项目TypeScript改造指南",
+        "link": "https://juejin.im/post/5de4867f51882573135415dd",
+        "date": "2019-12-04"
+      },
+      {
+        "title": "EHTML: HTML Framework that allows you write no JavaScript code at all.",
+        "link": "https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173",
+        "date": "2019-12-04"
+      },
+      {
+        "title": "一起console.log()引发的血案",
+        "link": "https://juejin.im/post/5de3ed6e6fb9a0717f5af175",
+        "date": "2019-12-03"
+      },
+      {
+        "title": "从3 个方面增加代码可读性和可维护性",
+        "link": "https://juejin.im/post/5de3b7c4e51d45777714f34f",
+        "date": "2019-12-03"
+      },
+      {
+        "title": "api请求时长与请求数据类型的设计",
+        "link": "https://juejin.im/post/5de28460e51d4532f87096e2",
+        "date": "2019-12-02"
+      },
+      {
+        "title": "（译）JavaScript的工作原理：事件循环和异步编程的兴起 + 5 种 async/await 更好的编码方式",
+        "link": "https://juejin.im/post/5ddf3dce6fb9a071a254721b",
+        "date": "2019-12-02"
+      },
+      {
+        "title": "JavaScript 是怎么工作的：内存管理及怎么处理四种常见的内存泄露",
+        "link": "https://juejin.im/post/5de08bd26fb9a071bb7cab56",
+        "date": "2019-12-02"
+      },
+      {
+        "title": "没有用过这些插件，别说你在用vscode",
+        "link": "https://juejin.im/post/5dc97976e51d45066f3a7b6b",
+        "date": "2019-11-13"
+      },
+      {
+        "title": "云凤蝶可视化搭建的推导与实现",
+        "link": "https://zhuanlan.zhihu.com/p/90746742",
+        "date": "2019-11-13"
+      },
+      {
+        "title": "动画：面试官问我如何在 1 亿数据中快速查找某一整数？",
+        "link": "https://juejin.im/post/5dc786026fb9a04a7847f56a",
+        "date": "2019-11-13"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/docschina/jsweekly",

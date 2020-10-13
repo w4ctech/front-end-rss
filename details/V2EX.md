@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-13 19:35:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 19:47:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-13-iOS14.1-的更新大家都收到了吗？](https://www.v2ex.com/t/714675) 
 - [2020-10-13-iPhone-12-Mini-不错](https://www.v2ex.com/t/714674) 
 - [2020-10-13-所以…Big-Sur-正式版啥时候发呢](https://www.v2ex.com/t/714673) 
 - [2020-10-13-iPhone12-mini-沒有雙卡](https://www.v2ex.com/t/714672) 
@@ -43,4 +44,3 @@
 - [2020-10-13-windows-SMB-server-的正确使用方法是什么？](https://www.v2ex.com/t/714628) 
 - [2020-10-13-有个把-JS-代码翻译成使用-！-+-等的网站哪个朋友有？](https://www.v2ex.com/t/714627) 
 - [2020-10-13-oauth2.0-授权码登录后，是如何和应用进行交互的？](https://www.v2ex.com/t/714626) 
-- [2020-10-13-关于电脑装机的硬件](https://www.v2ex.com/t/714625) 

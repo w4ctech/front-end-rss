@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-13 19:35:26，:rocket: 更新条数: +3716， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-13 19:47:34，:rocket: 更新条数: +3716， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-10-13-iOS14.1-的更新大家都收到了吗？](https://www.v2ex.com/t/714675) ![](assets/new.png)  
 - [2020-10-13-iPhone-12-Mini-不错](https://www.v2ex.com/t/714674) ![](assets/new.png)  
 - [2020-10-13-所以…Big-Sur-正式版啥时候发呢](https://www.v2ex.com/t/714673) ![](assets/new.png)  
 - [2020-10-13-iPhone12-mini-沒有雙卡](https://www.v2ex.com/t/714672) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-10-13-windows-有没有什么通用的数据传输方案](https://www.v2ex.com/t/714652) ![](assets/new.png)  
 - [2020-10-13-大佬们给个建议，-IT-培训机构要去吗](https://www.v2ex.com/t/714651) ![](assets/new.png)  
 - [2020-10-13-老码农在喜马拉雅上读-原百代-的书](https://www.v2ex.com/t/714649) ![](assets/new.png)  
-- [2020-10-13-SpringCloud-系列之分布式配置中心极速入门与实践](https://www.v2ex.com/t/714647) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "印度经济持续恶化 儿童遭遇拐卖等事件增多",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigKsbvTZE5yHjunSu19AC201013&isfromapp=1",
+        "date": "2020-10-13"
+      },
+      {
+        "title": "北美观察丨“奴隶工厂”疫情肆虐仍不停工 美国监狱生存状况险恶",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHuGaLdMoqBPfm2FT1myX201013&isfromapp=1",
+        "date": "2020-10-13"
+      },
+      {
+        "title": "疫情形势持续恶化 捷克自14日起关闭餐厅和学校",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTb9IFjE00PkIYyeuDJ5C201013&isfromapp=1",
+        "date": "2020-10-13"
+      },
+      {
+        "title": "巴西新冠肺炎确诊病例累计达5103408例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYUpzCESOpvxopCbtisQd201013&isfromapp=1",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "巴西国家卫生监督局警告地下渠道销售的“新冠肺炎疫苗”均为假冒产品",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwwutHO6SPujk76RGjr9201013&isfromapp=1",
+        "date": "2020-10-12"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",

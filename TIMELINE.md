@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-13 03:14:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-13 03:28:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-13-印度经济持续恶化-儿童遭遇拐卖等事件增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigKsbvTZE5yHjunSu19AC201013&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-13-北美观察丨“奴隶工厂”疫情肆虐仍不停工-美国监狱生存状况险恶](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHuGaLdMoqBPfm2FT1myX201013&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-13-疫情形势持续恶化-捷克自14日起关闭餐厅和学校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTb9IFjE00PkIYyeuDJ5C201013&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-12-巴西新冠肺炎确诊病例累计达5103408例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYUpzCESOpvxopCbtisQd201013&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-12-巴西国家卫生监督局警告地下渠道销售的“新冠肺炎疫苗”均为假冒产品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwwutHO6SPujk76RGjr9201013&isfromapp=1) 
 - [【Vue中文社区】2020-10-09-朋友公司工作3年的前端被裁-领导：这样的员工应当放弃~](https://www.ershicimi.com/p/ea7746ce9edc3d60582dfe3ac03e557e) 
 - [【Vue中文社区】2020-10-09-JavaScript-里的奇葩知识](https://www.ershicimi.com/p/b72adb785bac7c9c63ea5ec58cdf34eb) 
 - [【前端大全】2020-10-12-20k-以上面试必问，Webpack-原理和优化](https://www.ershicimi.com/p/192577e419537de3c829a2d083d33cf3) 

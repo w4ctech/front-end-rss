@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-13 03:14:13，:rocket: 更新条数: +527， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-13 03:28:08，:rocket: 更新条数: +532， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-10-13-印度经济持续恶化-儿童遭遇拐卖等事件增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigKsbvTZE5yHjunSu19AC201013&isfromapp=1) ![](assets/new.png)  
+- [2020-10-13-北美观察丨“奴隶工厂”疫情肆虐仍不停工-美国监狱生存状况险恶](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHuGaLdMoqBPfm2FT1myX201013&isfromapp=1) ![](assets/new.png)  
+- [2020-10-13-疫情形势持续恶化-捷克自14日起关闭餐厅和学校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTb9IFjE00PkIYyeuDJ5C201013&isfromapp=1) ![](assets/new.png)  
+- [2020-10-12-巴西新冠肺炎确诊病例累计达5103408例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYUpzCESOpvxopCbtisQd201013&isfromapp=1) ![](assets/new.png)  
+- [2020-10-12-巴西国家卫生监督局警告地下渠道销售的“新冠肺炎疫苗”均为假冒产品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwwutHO6SPujk76RGjr9201013&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

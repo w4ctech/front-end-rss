@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-13 03:14:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 03:28:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-13-北美观察丨“奴隶工厂”疫情肆虐仍不停工-美国监狱生存状况险恶](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHuGaLdMoqBPfm2FT1myX201013&isfromapp=1) 
+- [2020-10-13-疫情形势持续恶化-捷克自14日起关闭餐厅和学校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTb9IFjE00PkIYyeuDJ5C201013&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
 - [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 

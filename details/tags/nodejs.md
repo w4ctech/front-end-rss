@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-13 14:49:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 15:03:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -37,5 +37,4 @@
 - [2020-09-06-CNodejs每日新闻周刊｜第-4-期](https://www.ershicimi.com/p/ef4b7dbf19444c283e9a2babb975502c) 
 - [2020-10-09-奇舞周刊第-367-期：Node.js-v14.13.0-发布](https://www.ershicimi.com/p/8eb2591d8810e87087bf76fd5d6edf3e) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
-- [2020-10-13-上海一年-Nodejs-全栈开发经验,想往纯后端方向发展,寻求全职后端开发岗位~](https://www.v2ex.com/t/714602) 
 - [2020-10-13-如何从零开始开发一个-Node.js-命令行-cli-工具](https://toutiao.io/k/cng6hbm) 

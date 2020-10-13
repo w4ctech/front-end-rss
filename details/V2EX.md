@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-13 04:49:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 05:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-13-传统行业码农想跳槽互联网需要熟知哪些技能](https://www.v2ex.com/t/714471) 
+- [2020-10-13-watchOS-7.0.2-修改备份可以免费启用-ECG-了](https://www.v2ex.com/t/714470) 
+- [2020-10-13-我是真受不了-iPhone-这辣鸡信号了，已经影响到正常使用了。](https://www.v2ex.com/t/714469) 
+- [2020-10-13-IntelliJ-IDEA-、PyCharm、GoLang、WebStorm、PhpStorm-等通用-JetBrains-公司软件-2020-最新激活码亲测有效](https://www.v2ex.com/t/714467) 
 - [2020-10-13-疯狂的-10016](https://www.v2ex.com/t/714465) 
 - [2020-10-13-（自言自语）在深圳企鹅的围剿下，终于知道云上加州的重要性、必然性。。。](https://www.v2ex.com/t/714464) 
 - [2020-10-13-武汉人骂人](https://www.v2ex.com/t/714463) 
@@ -37,8 +41,3 @@
 - [2020-10-13-字节跳动内推安全与风控](https://www.v2ex.com/t/714426) 
 - [2020-10-13-LG-ultra-fine-4K-显示器售后到那里？](https://www.v2ex.com/t/714423) 
 - [2020-10-13-4k-屏-AOC-u27u2d，-ips-面板体验却是-TN-的感觉](https://www.v2ex.com/t/714422) 
-- [2020-10-13-你们自己的-CLI-都有哪些功能？](https://www.v2ex.com/t/714421) 
-- [2020-10-13-大家是如何看待上班-以及创业的呢](https://www.v2ex.com/t/714420) 
-- [2020-10-13-求推荐一款手机，在深圳地铁能上网的那种](https://www.v2ex.com/t/714419) 
-- [2020-10-13-谁能不能教我设置一下路由转发](https://www.v2ex.com/t/714418) 
-- [2020-10-13-如何让-Safari-初始页里的书签-logo-正确显示？](https://www.v2ex.com/t/714417) 

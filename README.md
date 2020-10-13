@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-13 15:28:52，:rocket: 更新条数: +736， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-13 15:30:33，:rocket: 更新条数: +3479， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)![](assets/dot.png)   
+- [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-12-最新疫情：全国新冠累计确诊85591例-本土山东新增6例](http://m.china.caixin.com/m/2020-10-13/101614109.html) ![](assets/new.png)  
+- [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
+- [2020-10-12-最新海外疫情：新冠感染近3768万-累计死亡超107万](http://m.international.caixin.com/m/2020-10-13/101614226.html) ![](assets/new.png)  
+- [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
+- [2020-10-12-大流行手记|10月12日：英国实施三级封锁机制-法总理称第二波疫情已至](https://m.caixin.com/m/2020-10-13/101614027.html) ![](assets/new.png)  
+- [2020-10-11-青岛新冠阳性患者增至12人-5日内完成全市900多万人核酸检测](https://m.caixin.com/m/2020-10-12/101613800.html) ![](assets/new.png)  
+- [2020-10-11-聚焦|张文宏：青岛局部疫情可通过扩大检测“动态清零”](http://m.opinion.caixin.com/m/2020-10-12/101613656.html) ![](assets/new.png)  
+- [2020-10-11-青岛新增核酸检测阳性9人-其中4例为确诊病例](https://m.caixin.com/m/2020-10-12/101613557.html) ![](assets/new.png)  
+- [2020-10-11-【境内疫情观察】青岛新增6例本土确诊病例（10月11日）](http://m.database.caixin.com/m/2020-10-12/101613711.html) ![](assets/new.png)  
+- [2020-10-11-大流行手记|10月11日：全球单日增速连续3日创新高-白宫或阻挠美公共交通“口罩令”](https://m.caixin.com/m/2020-10-12/101613574.html) ![](assets/new.png)  
+- [2020-10-11-【图集】青岛新增核酸检测阳性9人-全市开展核酸检测](http://m.photos.caixin.com/m/2020-10-12/101613745.html) ![](assets/new.png)  
+- [2020-10-10-青岛新增3例无症状感染者-初步判断与市胸科医院相关联](http://m.china.caixin.com/m/2020-10-11/101613457.html) ![](assets/new.png)  
+- [2020-10-10-【境内疫情观察】青岛新增3例本土无症状感染者（10月10日）](http://m.database.caixin.com/m/2020-10-11/101613487.html) ![](assets/new.png)  
+- [2020-10-10-大流行手记|10月10日：多家学术期刊痛批美政府抗疫不力-马德里再次封锁](https://m.caixin.com/m/2020-10-11/101613470.html) ![](assets/new.png)  
+- [2020-10-10-美国万只水貂染新冠死亡-未发现水貂传人病例](http://m.science.caixin.com/m/2020-10-11/101613536.html) ![](assets/new.png)  
+- [2020-10-10-数字说|特朗普身边都有谁感染了新冠？](http://m.datanews.caixin.com/m/2020-10-11/101613528.html) ![](assets/new.png)  
+- [2020-10-09-【境内疫情观察】全国新增39例无症状感染者（10月9日）](http://m.database.caixin.com/m/2020-10-10/101613339.html) ![](assets/new.png)  
+- [2020-10-09-大流行手记|10月9日：中国加入世卫疫苗计划-新冠或令婴儿死产率上升](https://m.caixin.com/m/2020-10-10/101613209.html) ![](assets/new.png)  
+- [2020-10-09-欧洲疫情反弹增速达全球最快-六成民众出现防控倦怠心态](http://m.international.caixin.com/m/2020-10-10/101613442.html) ![](assets/new.png)  
+- [2020-10-09-中国加入全球新冠疫苗实施计划-将向全球供应](https://m.caixin.com/m/2020-10-10/101613363.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -927,6 +947,11 @@
 </summary>
 
 
+- [2020-10-13-STUDY-响应式](https://juejin.im/post/6883121347074424839) ![](assets/new.png)  
+- [2020-10-13-React-从〇开始-入坑](https://juejin.im/post/6883034808855822343) ![](assets/new.png)  
+- [2020-10-13-Vuex-通俗版教程](https://juejin.im/post/6883029603883958280) ![](assets/new.png)  
+- [2020-10-13-合并数组的几种方法](https://juejin.im/post/6883029421201031176) ![](assets/new.png)  
+- [2020-10-12-如何debugger-vue源码](https://juejin.im/post/6883002751769378829) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -980,16 +1005,6 @@
 </summary>
 
 
-- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
-- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
-- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
-- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
-- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
-- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
-- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
-- [2019-10-13-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
-- [2019-10-12-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
-- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1047,26 @@
 </summary>
 
 
+- [2020-10-13-大佬们给个建议，-IT-培训机构要去吗](https://www.v2ex.com/t/714651) ![](assets/new.png)  
+- [2020-10-13-老码农在喜马拉雅上读-原百代-的书](https://www.v2ex.com/t/714649) ![](assets/new.png)  
+- [2020-10-13-王守义说了-十三香！](https://www.v2ex.com/t/714648) ![](assets/new.png)  
+- [2020-10-13-SpringCloud-系列之分布式配置中心极速入门与实践](https://www.v2ex.com/t/714647) ![](assets/new.png)  
+- [2020-10-13-咨询用-Dropbox-的朋友，图片里的按钮选择什么意思？](https://www.v2ex.com/t/714646) ![](assets/new.png)  
+- [2020-10-13-被华为手机开黑，系统级针对我，就是系统故意更新一份针对的可操作有后门的给我，这样的玩法如何取证](https://www.v2ex.com/t/714645) ![](assets/new.png)  
+- [2020-10-13-今晚又不给官网外直播发布会了？](https://www.v2ex.com/t/714644) ![](assets/new.png)  
+- [2020-10-13-请教一下-WSL2-使用-git-的体验](https://www.v2ex.com/t/714643) ![](assets/new.png)  
+- [2020-10-13-请问哪里有抖音-DOU+优惠券？可付费兑换](https://www.v2ex.com/t/714642) ![](assets/new.png)  
+- [2020-10-13-tensorflow-首页多了个平权提示](https://www.v2ex.com/t/714641) ![](assets/new.png)  
+- [2020-10-13-有雇人一起吃饭，出去逛的服务吗？](https://www.v2ex.com/t/714640) ![](assets/new.png)  
+- [2020-10-13-DOS-联网后通过访问微软服务器升级至-Windows10？](https://www.v2ex.com/t/714639) ![](assets/new.png)  
+- [2020-10-13-限流算法简单总结](https://www.v2ex.com/t/714638) ![](assets/new.png)  
+- [2020-10-13-通过图床分发文件，是否可以直接游览器里实现下载合并。](https://www.v2ex.com/t/714637) ![](assets/new.png)  
+- [2020-10-13-问个关于-golang-web-开发的问题](https://www.v2ex.com/t/714635) ![](assets/new.png)  
+- [2020-10-13-小旭讲解-基础算法系列-归并排序-EP7](https://www.v2ex.com/t/714634) ![](assets/new.png)  
+- [2020-10-13-又来问-git-使用问题了](https://www.v2ex.com/t/714632) ![](assets/new.png)  
+- [2020-10-13-mbp-转换器接硬盘可以使用-接鼠标没反应-但是鼠标在别的电脑上可以直接-求解](https://www.v2ex.com/t/714631) ![](assets/new.png)  
+- [2020-10-13-有把-UniFi®-Switch-8-当路由器用的吗？想用来当家里的主路由，不知道有没有坑](https://www.v2ex.com/t/714630) ![](assets/new.png)  
+- [2020-10-13-大家来讨论下，程序员如何成为杭州市-E-类人才](https://www.v2ex.com/t/714629) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

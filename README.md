@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-13 09:30:32，:rocket: 更新条数: +3480， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-13 09:37:02，:rocket: 更新条数: +777， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-10-12-最新疫情：全国新冠累计确诊85591例-本土山东新增6例](http://m.china.caixin.com/m/2020-10-13/101614109.html) ![](assets/new.png)  
-- [2020-10-12-最新海外疫情：新冠感染近3768万-累计死亡超107万](http://m.international.caixin.com/m/2020-10-13/101614226.html) ![](assets/new.png)  
-- [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
-- [2020-10-12-大流行手记|10月12日：英国实施三级封锁机制-法总理称第二波疫情已至](https://m.caixin.com/m/2020-10-13/101614027.html) ![](assets/new.png)  
-- [2020-10-11-青岛新冠阳性患者增至12人-5日内完成全市900多万人核酸检测](https://m.caixin.com/m/2020-10-12/101613800.html) ![](assets/new.png)  
-- [2020-10-11-聚焦|张文宏：青岛局部疫情可通过扩大检测“动态清零”](http://m.opinion.caixin.com/m/2020-10-12/101613656.html) ![](assets/new.png)  
-- [2020-10-11-青岛新增核酸检测阳性9人-其中4例为确诊病例](https://m.caixin.com/m/2020-10-12/101613557.html) ![](assets/new.png)  
-- [2020-10-11-【境内疫情观察】青岛新增6例本土确诊病例（10月11日）](http://m.database.caixin.com/m/2020-10-12/101613711.html) ![](assets/new.png)  
-- [2020-10-11-大流行手记|10月11日：全球单日增速连续3日创新高-白宫或阻挠美公共交通“口罩令”](https://m.caixin.com/m/2020-10-12/101613574.html) ![](assets/new.png)  
-- [2020-10-11-【图集】青岛新增核酸检测阳性9人-全市开展核酸检测](http://m.photos.caixin.com/m/2020-10-12/101613745.html) ![](assets/new.png)  
-- [2020-10-10-美国万只水貂染新冠死亡-未发现水貂传人病例](http://m.science.caixin.com/m/2020-10-11/101613536.html) ![](assets/new.png)  
-- [2020-10-10-青岛新增3例无症状感染者-初步判断与市胸科医院相关联](http://m.china.caixin.com/m/2020-10-11/101613457.html) ![](assets/new.png)  
-- [2020-10-10-【境内疫情观察】青岛新增3例本土无症状感染者（10月10日）](http://m.database.caixin.com/m/2020-10-11/101613487.html) ![](assets/new.png)  
-- [2020-10-10-大流行手记|10月10日：多家学术期刊痛批美政府抗疫不力-马德里再次封锁](https://m.caixin.com/m/2020-10-11/101613470.html) ![](assets/new.png)  
-- [2020-10-10-数字说|特朗普身边都有谁感染了新冠？](http://m.datanews.caixin.com/m/2020-10-11/101613528.html) ![](assets/new.png)  
-- [2020-10-09-【境内疫情观察】全国新增39例无症状感染者（10月9日）](http://m.database.caixin.com/m/2020-10-10/101613339.html) ![](assets/new.png)  
-- [2020-10-09-大流行手记|10月9日：中国加入世卫疫苗计划-新冠或令婴儿死产率上升](https://m.caixin.com/m/2020-10-10/101613209.html) ![](assets/new.png)  
-- [2020-10-09-欧洲疫情反弹增速达全球最快-六成民众出现防控倦怠心态](http://m.international.caixin.com/m/2020-10-10/101613442.html) ![](assets/new.png)  
-- [2020-10-09-中国加入全球新冠疫苗实施计划-将向全球供应](https://m.caixin.com/m/2020-10-10/101613363.html) ![](assets/new.png)  
-- [2020-10-08-【境内疫情观察】陕西新增10例境外输入病例（10月8日）](http://m.database.caixin.com/m/2020-10-09/101612841.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1037,9 @@
 </summary>
 
 
+- [2020-10-13-一键同步，紧跟潮流——CODING-现已支持导入-GitHub-仓库](https://www.v2ex.com/t/714584) ![](assets/new.png)  
+- [2020-10-13-iPhone-转-Android-的最大阻力是什么？](https://www.v2ex.com/t/714583) ![](assets/new.png)  
+- [2020-10-13-纯公积金贷款的-V-友，现在是什么生活状态？有什么生活感悟吗](https://www.v2ex.com/t/714582) ![](assets/new.png)  
 - [2020-10-13-我的网站上还有房价走势图呢-http://www.yeshiwei.com/fangjia/-我感觉自己搞了挺多不是白费的事。](https://www.v2ex.com/t/714581) ![](assets/new.png)  
 - [2020-10-13-跟同龄人越来越没话题了](https://www.v2ex.com/t/714579) ![](assets/new.png)  
 - [2020-10-13-Vue.js|Nuxt-模仿探探叠加滑动|vue-仿-Tinder-卡片效果](https://www.v2ex.com/t/714576) ![](assets/new.png)  
@@ -1074,9 +1057,6 @@
 - [2020-10-13-不懂就问，多年前的锤子手机忘记密码](https://www.v2ex.com/t/714561) ![](assets/new.png)  
 - [2020-10-13-macbook-pro-15-寸-2014mid-电池拿了开机使用吗](https://www.v2ex.com/t/714560) ![](assets/new.png)  
 - [2020-10-13-杭州买房说](https://www.v2ex.com/t/714559) ![](assets/new.png)  
-- [2020-10-13-如果自己简历上写的预期薪资稍低于招聘岗位的薪资](https://www.v2ex.com/t/714558) ![](assets/new.png)  
-- [2020-10-13-大厂程序员转产品经理容易吗？](https://www.v2ex.com/t/714557) ![](assets/new.png)  
-- [2020-10-13-macbook-pro-的蓝牙模块不可用](https://www.v2ex.com/t/714556) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

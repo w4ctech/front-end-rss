@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-13 10:39:53，:rocket: 更新条数: +3485， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-13 10:47:12，:rocket: 更新条数: +1006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-10-12-最新疫情：全国新冠累计确诊85591例-本土山东新增6例](http://m.china.caixin.com/m/2020-10-13/101614109.html) ![](assets/new.png)  
-- [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
-- [2020-10-12-最新海外疫情：新冠感染近3768万-累计死亡超107万](http://m.international.caixin.com/m/2020-10-13/101614226.html) ![](assets/new.png)  
-- [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
-- [2020-10-12-大流行手记|10月12日：英国实施三级封锁机制-法总理称第二波疫情已至](https://m.caixin.com/m/2020-10-13/101614027.html) ![](assets/new.png)  
-- [2020-10-11-青岛新冠阳性患者增至12人-5日内完成全市900多万人核酸检测](https://m.caixin.com/m/2020-10-12/101613800.html) ![](assets/new.png)  
-- [2020-10-11-聚焦|张文宏：青岛局部疫情可通过扩大检测“动态清零”](http://m.opinion.caixin.com/m/2020-10-12/101613656.html) ![](assets/new.png)  
-- [2020-10-11-青岛新增核酸检测阳性9人-其中4例为确诊病例](https://m.caixin.com/m/2020-10-12/101613557.html) ![](assets/new.png)  
-- [2020-10-11-【境内疫情观察】青岛新增6例本土确诊病例（10月11日）](http://m.database.caixin.com/m/2020-10-12/101613711.html) ![](assets/new.png)  
-- [2020-10-11-大流行手记|10月11日：全球单日增速连续3日创新高-白宫或阻挠美公共交通“口罩令”](https://m.caixin.com/m/2020-10-12/101613574.html) ![](assets/new.png)  
-- [2020-10-11-【图集】青岛新增核酸检测阳性9人-全市开展核酸检测](http://m.photos.caixin.com/m/2020-10-12/101613745.html) ![](assets/new.png)  
-- [2020-10-10-青岛新增3例无症状感染者-初步判断与市胸科医院相关联](http://m.china.caixin.com/m/2020-10-11/101613457.html) ![](assets/new.png)  
-- [2020-10-10-【境内疫情观察】青岛新增3例本土无症状感染者（10月10日）](http://m.database.caixin.com/m/2020-10-11/101613487.html) ![](assets/new.png)  
-- [2020-10-10-大流行手记|10月10日：多家学术期刊痛批美政府抗疫不力-马德里再次封锁](https://m.caixin.com/m/2020-10-11/101613470.html) ![](assets/new.png)  
-- [2020-10-10-美国万只水貂染新冠死亡-未发现水貂传人病例](http://m.science.caixin.com/m/2020-10-11/101613536.html) ![](assets/new.png)  
-- [2020-10-10-数字说|特朗普身边都有谁感染了新冠？](http://m.datanews.caixin.com/m/2020-10-11/101613528.html) ![](assets/new.png)  
-- [2020-10-09-【境内疫情观察】全国新增39例无症状感染者（10月9日）](http://m.database.caixin.com/m/2020-10-10/101613339.html) ![](assets/new.png)  
-- [2020-10-09-大流行手记|10月9日：中国加入世卫疫苗计划-新冠或令婴儿死产率上升](https://m.caixin.com/m/2020-10-10/101613209.html) ![](assets/new.png)  
-- [2020-10-09-欧洲疫情反弹增速达全球最快-六成民众出现防控倦怠心态](http://m.international.caixin.com/m/2020-10-10/101613442.html) ![](assets/new.png)  
-- [2020-10-09-中国加入全球新冠疫苗实施计划-将向全球供应](https://m.caixin.com/m/2020-10-10/101613363.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +730,26 @@
 </summary>
 
 
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-10-13-上海一年-Nodejs-全栈开发经验,想往纯后端方向发展,寻求全职后端开发岗位~](https://www.v2ex.com/t/714602) ![](assets/new.png)  
+- [2020-10-13-北京早高峰-10-号线外环（东向西）人多吗？](https://www.v2ex.com/t/714601) ![](assets/new.png)  
+- [2020-10-13-招聘前端开发，-Java-开发，银行项目](https://www.v2ex.com/t/714600) ![](assets/new.png)  
 - [2020-10-13-整了个小游戏，大家帮看看，欢迎拍砖](https://www.v2ex.com/t/714598) ![](assets/new.png)  
 - [2020-10-13-工厂设计模式有什么用？](https://www.v2ex.com/t/714597) ![](assets/new.png)  
 - [2020-10-13-升级了-idea2020.2-之后,-有点强迫症,-救救孩子吧](https://www.v2ex.com/t/714596) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-10-13-纯公积金贷款的-V-友，现在是什么生活状态？有什么生活感悟吗](https://www.v2ex.com/t/714582) ![](assets/new.png)  
 - [2020-10-13-我的网站上还有房价走势图呢-http://www.yeshiwei.com/fangjia/-我感觉自己搞了挺多不是白费的事。](https://www.v2ex.com/t/714581) ![](assets/new.png)  
 - [2020-10-13-跟同龄人越来越没话题了](https://www.v2ex.com/t/714579) ![](assets/new.png)  
-- [2020-10-13-Vue.js|Nuxt-模仿探探叠加滑动|vue-仿-Tinder-卡片效果](https://www.v2ex.com/t/714576) ![](assets/new.png)  
-- [2020-10-13-关于上亿数据的统计问题](https://www.v2ex.com/t/714575) ![](assets/new.png)  
-- [2020-10-13-误打误撞搞了这个玩意，-和一堆券商合作开户。。。-http://www.yeshiwei.com/exchange.html](https://www.v2ex.com/t/714574) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,8 +1128,8 @@
 - [2020-10-13-如何破解一个-Python-虚拟机壳并拿走-12300-元-ETH](https://toutiao.io/k/m163p1y) ![](assets/new.png)  
 - [2020-10-13-草率了，又一个-Maven-打包的问题](https://toutiao.io/k/xvasfzf) ![](assets/new.png)  
 - [2020-10-13-Golang-是如何操作-Excel-的？](https://toutiao.io/k/x9jgpwh) ![](assets/new.png)  
-- [2020-10-13-浅谈-Flink-的-checkPoint-机制](https://toutiao.io/k/rxuqgeb) ![](assets/new.png)  
 - [2020-10-13-数据结构与算法：堆排序](https://toutiao.io/k/wnvmzj7) ![](assets/new.png)  
+- [2020-10-13-浅谈-Flink-的-checkPoint-机制](https://toutiao.io/k/rxuqgeb) ![](assets/new.png)  
 - [2020-10-13-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
 - [2020-10-13-什么是辛普森悖论？](https://toutiao.io/k/g5fbiiz) ![](assets/new.png)  
 - [2020-10-13-微软解析新-Edge-浏览器的多进程体系结构](https://toutiao.io/k/v271s46) ![](assets/new.png)  

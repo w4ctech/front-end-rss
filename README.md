@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-13 21:38:26，:rocket: 更新条数: +3716， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-13 21:47:19，:rocket: 更新条数: +1009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-10-12-最新疫情：全国新冠累计确诊85591例-本土山东新增6例](http://m.china.caixin.com/m/2020-10-13/101614109.html) ![](assets/new.png)  
-- [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
-- [2020-10-12-最新海外疫情：新冠感染近3768万-累计死亡超107万](http://m.international.caixin.com/m/2020-10-13/101614226.html) ![](assets/new.png)  
-- [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
-- [2020-10-12-大流行手记|10月12日：英国实施三级封锁机制-法总理称第二波疫情已至](https://m.caixin.com/m/2020-10-13/101614027.html) ![](assets/new.png)  
-- [2020-10-11-青岛新冠阳性患者增至12人-5日内完成全市900多万人核酸检测](https://m.caixin.com/m/2020-10-12/101613800.html) ![](assets/new.png)  
-- [2020-10-11-聚焦|张文宏：青岛局部疫情可通过扩大检测“动态清零”](http://m.opinion.caixin.com/m/2020-10-12/101613656.html) ![](assets/new.png)  
-- [2020-10-11-青岛新增核酸检测阳性9人-其中4例为确诊病例](https://m.caixin.com/m/2020-10-12/101613557.html) ![](assets/new.png)  
-- [2020-10-11-【境内疫情观察】青岛新增6例本土确诊病例（10月11日）](http://m.database.caixin.com/m/2020-10-12/101613711.html) ![](assets/new.png)  
-- [2020-10-11-大流行手记|10月11日：全球单日增速连续3日创新高-白宫或阻挠美公共交通“口罩令”](https://m.caixin.com/m/2020-10-12/101613574.html) ![](assets/new.png)  
-- [2020-10-11-【图集】青岛新增核酸检测阳性9人-全市开展核酸检测](http://m.photos.caixin.com/m/2020-10-12/101613745.html) ![](assets/new.png)  
-- [2020-10-10-青岛新增3例无症状感染者-初步判断与市胸科医院相关联](http://m.china.caixin.com/m/2020-10-11/101613457.html) ![](assets/new.png)  
-- [2020-10-10-【境内疫情观察】青岛新增3例本土无症状感染者（10月10日）](http://m.database.caixin.com/m/2020-10-11/101613487.html) ![](assets/new.png)  
-- [2020-10-10-大流行手记|10月10日：多家学术期刊痛批美政府抗疫不力-马德里再次封锁](https://m.caixin.com/m/2020-10-11/101613470.html) ![](assets/new.png)  
-- [2020-10-10-美国万只水貂染新冠死亡-未发现水貂传人病例](http://m.science.caixin.com/m/2020-10-11/101613536.html) ![](assets/new.png)  
-- [2020-10-10-数字说|特朗普身边都有谁感染了新冠？](http://m.datanews.caixin.com/m/2020-10-11/101613528.html) ![](assets/new.png)  
-- [2020-10-09-【境内疫情观察】全国新增39例无症状感染者（10月9日）](http://m.database.caixin.com/m/2020-10-10/101613339.html) ![](assets/new.png)  
-- [2020-10-09-大流行手记|10月9日：中国加入世卫疫苗计划-新冠或令婴儿死产率上升](https://m.caixin.com/m/2020-10-10/101613209.html) ![](assets/new.png)  
-- [2020-10-09-欧洲疫情反弹增速达全球最快-六成民众出现防控倦怠心态](http://m.international.caixin.com/m/2020-10-10/101613442.html) ![](assets/new.png)  
-- [2020-10-09-中国加入全球新冠疫苗实施计划-将向全球供应](https://m.caixin.com/m/2020-10-10/101613363.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,6 +1026,18 @@
 </summary>
 
 
+- [2020-10-13-iPhone-12-来了！我已经帮你把重点都总结好了](https://www.ershicimi.com/p/128cc37dce1d48fe8fcea92517074f07) ![](assets/new.png)  
+- [2020-10-13-知乎故事-|-屁股被烤了是一种什么体验？](https://www.ershicimi.com/p/569f028709a761c066c7dfa2703e5408) ![](assets/new.png)  
+- [2020-10-13-为什么我们感到疼痛的时候总是下意识用手捂？](https://www.ershicimi.com/p/3079421edcf6a01a98ec595409259628) ![](assets/new.png)  
+- [2020-10-13-自然生长的头发有多少种颜色？](https://www.ershicimi.com/p/91d2e356544279f1210b4301032e3659) ![](assets/new.png)  
+- [2020-10-13-知乎故事-|-陪产「教科书」应该是什么样的？](https://www.ershicimi.com/p/659963c19de2356950601b4b4f5b972a) ![](assets/new.png)  
+- [2020-10-12-如果有人跟你说「这里是两千万，离开我儿子」，要拿到钱应该走哪些程序？](https://www.ershicimi.com/p/3d5be1ad639611cd393cb7175ec54a1b) ![](assets/new.png)  
+- [2020-10-12-2020-诺贝尔奖-|-经济学奖授予拍卖理论，什么是拍卖理论？](https://www.ershicimi.com/p/93392c721bb59bfa1e89943b2aea8ea5) ![](assets/new.png)  
+- [2020-10-12-这几种大火的产品，营养师劝你千万别买](https://www.ershicimi.com/p/6dd82246cbc59a600c5b87c5774d3fca) ![](assets/new.png)  
+- [2020-10-12-知乎故事-|-我终于追到了那个代课女老师](https://www.ershicimi.com/p/fa4e14743cd0744e25f00a2c9d71df8e) ![](assets/new.png)  
+- [2020-10-11-本周知乎热榜-|-2020-诺贝尔奖陆续揭晓，王一博赛车时摔倒，假期综合症频发，科学家疑似发现更宜居](https://www.ershicimi.com/p/3b1d0609ecb57592241dab99520bb952) ![](assets/new.png)  
+- [2020-10-11-一部-3-刷的剧：全程流着口水看完，太馋了……](https://www.ershicimi.com/p/60e0d198c5ae627d1550cc7e4d020c8b) ![](assets/new.png)  
+- [2020-10-11-知乎故事-|-你吃过哪些直击灵魂的食物？](https://www.ershicimi.com/p/65bf0c3088fbcc5396156be420aaa7c4) ![](assets/new.png)  
 - [2020-10-09-知乎神吐槽-|-有哪些必须会两种语言才能听懂的笑话？](https://www.ershicimi.com/p/bba8967516d1ee4d559c7f8ee07951fd) ![](assets/new.png)  
 - [2020-10-09-街边-18-块一只的便宜烤鸭，真的能吃吗](https://www.ershicimi.com/p/133c21c015cde9429c35821a3a6fae86) ![](assets/new.png)  
 - [2020-10-09-2020-诺贝尔奖-|-和平奖授予世界粮食计划署](https://www.ershicimi.com/p/d48994391ef69a9312a765444f5b1dd8) ![](assets/new.png)  
@@ -1054,18 +1046,6 @@
 - [2020-10-08-2020-诺贝尔奖-|-文学奖授予美国诗人路易斯·格丽克，阅读她的诗歌如同在检视一场人生](https://www.ershicimi.com/p/85e58affa8d3925319819bcf9e6a736c) ![](assets/new.png)  
 - [2020-10-08-知乎故事-|-你因为头像有过什么故事？](https://www.ershicimi.com/p/ffc4d47d0fd59179fe9d261817af688b) ![](assets/new.png)  
 - [2020-10-07-知乎高赞：你有哪些特别的「生存法则」？](https://www.ershicimi.com/p/bdfccb971e9fe1939f64314557ac0561) ![](assets/new.png)  
-- [2020-10-07-国产仙侠剧，你们的套路又烂又俗](https://www.ershicimi.com/p/76cba4af349308c38210ccb328e9c3b3) ![](assets/new.png)  
-- [2020-10-07-2020-诺贝尔奖-|-化学奖授予-CRISPR-基因编辑，这项技术对我们有哪些意义？](https://www.ershicimi.com/p/86fdbbf326d7a666024e2b33be7df418) ![](assets/new.png)  
-- [2020-10-07-知乎故事-|-你买过最便宜的快乐是什么？](https://www.ershicimi.com/p/865ae97e72b2ab6b21a5f14a66eb31c4) ![](assets/new.png)  
-- [2020-10-06-康熙的九个儿子为什么要争皇位，当个王爷无忧无虑不好吗？](https://www.ershicimi.com/p/c8ab8379861c241b475d7a59a682ba3b) ![](assets/new.png)  
-- [2020-10-06-2020-诺贝尔奖-|-宇宙中心就是黑洞吗？](https://www.ershicimi.com/p/2d0a3e3a709ca67f623d438c48bbd91a) ![](assets/new.png)  
-- [2020-10-06-口碑绝口碑绝佳的-9-个公众号，越早知道越好](https://www.ershicimi.com/p/404cf021046a337b2ba7bc9dff21a506) ![](assets/new.png)  
-- [2020-10-06-知乎故事-|-你让别人感到最尴尬的经历是什么？](https://www.ershicimi.com/p/95553da52d3c8de3014ed5c81e4cb108) ![](assets/new.png)  
-- [2020-10-05-知乎神吐槽-|-女生涂口红能表示出已经不是单身了吗？](https://www.ershicimi.com/p/c19da0be970f348db73ba6cec458670e) ![](assets/new.png)  
-- [2020-10-05-2020-诺贝尔奖-|-如何通俗地理解今年的诺贝尔生理学或医学奖？](https://www.ershicimi.com/p/0dfb22877813f71b3c0a34d15db895c5) ![](assets/new.png)  
-- [2020-10-05-十一长假，除了出门看人山人海，还能在家做些什么？](https://www.ershicimi.com/p/4f2d44150af9e23da7c1d210f94a1a5a) ![](assets/new.png)  
-- [2020-10-05-知乎故事-|-「大人做错事也要打屁股」](https://www.ershicimi.com/p/e24894a2e9e1dfad861398995bc4ec3e) ![](assets/new.png)  
-- [2020-10-04-本周知乎热榜-|-《我和我的家乡》再创佳绩，石原里美宣布结婚，成都成功申办世园会](https://www.ershicimi.com/p/85e87b0f23bc57f73328f134b74fb55f) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-13-iPhone12-全系国行售价-5499-起，感觉苹果又飘了。](https://www.v2ex.com/t/714680) ![](assets/new.png)  
 - [2020-10-13-股票系统开发工程师-上海/北京-40-100-万](https://www.v2ex.com/t/714679) ![](assets/new.png)  
 - [2020-10-13-杭州有数据砖-Databricks-的开发中心吗？](https://www.v2ex.com/t/714678) ![](assets/new.png)  
 - [2020-10-13-Risk-Developer-领先对冲基金-北京/上海-40-100-万](https://www.v2ex.com/t/714677) ![](assets/new.png)  
@@ -1096,7 +1077,6 @@
 - [2020-10-13-如何解决-vue-多个-ui-框架-css-冲突?](https://www.v2ex.com/t/714660) ![](assets/new.png)  
 - [2020-10-13-抖音上海急招-服务端，-ios，安卓开发。](https://www.v2ex.com/t/714659) ![](assets/new.png)  
 - [2020-10-13-做了个工具集合的小程序，看看是否卖点钱](https://www.v2ex.com/t/714656) ![](assets/new.png)  
-- [2020-10-13-openSUSE-迁移到-AMD-坑了](https://www.v2ex.com/t/714654) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

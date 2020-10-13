@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-13 17:14:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 17:26:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-13-HomePod-Mini](https://www.v2ex.com/t/714669) 
 - [2020-10-13-安全与风控字节跳动内推](https://www.v2ex.com/t/714666) 
 - [2020-10-13-主机推荐（限京东）](https://www.v2ex.com/t/714664) 
 - [2020-10-13-做了一年半的「好内容月报」，每月分享我看的书、电影听的播客以及值得阅读的各种信息，现在多了一个-Telegram-频道](https://www.v2ex.com/t/714663) 
@@ -44,5 +45,3 @@
 - [2020-10-13-公司不当人了，求助](https://www.v2ex.com/t/714624) 
 - [2020-10-13-北京/上海急招-Java-后端开发，前端，测试](https://www.v2ex.com/t/714623) 
 - [2020-10-13-哔哩哔哩双击播放器全屏的-js-代码问题](https://www.v2ex.com/t/714622) 
-- [2020-10-13-第三届数字中国建设峰会召开](https://www.v2ex.com/t/714619) 
-- [2020-10-13-win10-上用-pip-install-pycrypto，是要我安装一个几十个-G-的-visio-studio-才行吗？-/狗子](https://www.v2ex.com/t/714618) 

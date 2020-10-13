@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-13 15:49:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 16:04:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-13-做了个工具集合的小程序，看看是否卖点钱](https://www.v2ex.com/t/714656) 
+- [2020-10-13-What-do-you-think-about-the-Shenzhen-residents-embrace-digital-currency?](https://www.v2ex.com/t/714655) 
+- [2020-10-13-openSUSE-迁移到-AMD-坑了](https://www.v2ex.com/t/714654) 
 - [2020-10-13-想问问这图片地址为啥读取不出来](https://www.v2ex.com/t/714653) 
 - [2020-10-13-windows-有没有什么通用的数据传输方案](https://www.v2ex.com/t/714652) 
 - [2020-10-13-大佬们给个建议，-IT-培训机构要去吗](https://www.v2ex.com/t/714651) 
@@ -43,6 +46,3 @@
 - [2020-10-13-2020-iPhone12-发布会讨论](https://www.v2ex.com/t/714611) 
 - [2020-10-13-Time-Machine-问题一个请教？](https://www.v2ex.com/t/714609) 
 - [2020-10-13-🔥新加坡-纽交所上市互联网公司，寻找平台开发（包括技术平台开发，云平台基础架构开发，云平台-Kubernetes-开发，云平台产品开发，云平台数据库产品-RDS-开...](https://www.v2ex.com/t/714608) 
-- [2020-10-13-吐槽一下-iCloud-的收费价格段位](https://www.v2ex.com/t/714607) 
-- [2020-10-13-身边的人都是多少岁结婚的，-30-结婚晚么？](https://www.v2ex.com/t/714605) 
-- [2020-10-13-网易内推，-hc-多多，有想法的大佬欢迎来撩](https://www.v2ex.com/t/714604) 

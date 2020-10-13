@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-13 02:39:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 02:47:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -14,6 +14,7 @@
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/a9a603eab29a5625f2c33aed1dd59c5a) 
 - [2020-10-12-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bb121b910148c883d3d1c8243fa7abdf) 
 - [2020-09-21-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/a8f23202f8f5bedddb75f0dc36476dc3) 
+- [2020-10-08-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/b8db56cd39ed4b9876e48a55cb7cbdb7) 
 - [2020-09-23-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/28f8d4bd4d47d685d681761926738613) 
 - [2020-09-27-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/3602a06d73c55a6a2a7443ab4ae5f27d) 
 - [2020-09-24-Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/be9bc07a97a414327aaf3708b93efa6e) 
@@ -41,3 +42,7 @@
 - [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
+- [2020-10-09-奇舞周刊第-367-期：Node.js-v14.13.0-发布](https://www.ershicimi.com/p/8eb2591d8810e87087bf76fd5d6edf3e) 
+- [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
+- [2020-10-13-Node.js-开发工程师](https://www.v2ex.com/t/714414) 
+- [2020-10-13-如何从零开始开发一个-Node.js-命令行-cli-工具](https://toutiao.io/k/cng6hbm) 

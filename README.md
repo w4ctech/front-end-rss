@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-13 16:04:32，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-13 16:17:29，:rocket: 更新条数: +3469， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
 - [React中文社区](#react中文社区)![](assets/dot.png)   
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
@@ -229,26 +229,6 @@
 </summary>
 
 
-- [2020-09-29-【第2080期】阿里-ChatUI-开源：让对话美而简单](https://www.ershicimi.com/p/e22ddec723c66e758c4e46cfb94741e7) ![](assets/new.png)  
-- [2020-09-28-【第2079期】理解ECMAScript规范（二）](https://www.ershicimi.com/p/abbc0eba9a15dc0d04591db13d412038) ![](assets/new.png)  
-- [2020-09-27-【第2078期】iframe-接班人-微前端框架-qiankun-在中后台系统实践](https://www.ershicimi.com/p/d59f74641ce594cc2db9705e67953997) ![](assets/new.png)  
-- [2020-09-26-【第2077期】过去的未来：成为用户体验设计师](https://www.ershicimi.com/p/3bdbdadf57657507091ba27bd8dd6f96) ![](assets/new.png)  
-- [2020-09-26-【活动】2020前端早读课锦鲤，独宠你一人](https://www.ershicimi.com/p/0472851c9b81b18fcfac43bfe60f9d71) ![](assets/new.png)  
-- [2020-09-25-【第2076期】阿里@风月：中医药大学毕业的业务女前端修炼之路](https://www.ershicimi.com/p/6054fa798c50686ff6967cd55270ec79) ![](assets/new.png)  
-- [2020-09-24-【第2075期】多端研发体系：可渐进迁移的提效之路](https://www.ershicimi.com/p/43d705078787a07898196fbbcc3b6da5) ![](assets/new.png)  
-- [2020-09-24-【活动】第二届「缤纷·滨江前端技术沙龙」](https://www.ershicimi.com/p/9fadff08ef74f9fa1dfd35abe7a9098f) ![](assets/new.png)  
-- [2020-09-23-什么是架构师的必备技能？](https://www.ershicimi.com/p/2e8561a3db5894b24adaa073a0581784) ![](assets/new.png)  
-- [2020-09-23-【第2074期】React-17.0.0-rc.2-版本发布，引入全新的-JSX-转换](https://www.ershicimi.com/p/a95295177c829ec7f74e3fceb030add5) ![](assets/new.png)  
-- [2020-09-22-【第2073期】content-visibility:-一个可以提高渲染性能的css属性](https://www.ershicimi.com/p/76746dc2d9d8603d46fd866857261573) ![](assets/new.png)  
-- [2020-09-22-【活动】迎中秋国庆，2020前端早读课赠书第二次活动](https://www.ershicimi.com/p/ee0d2b713811412d4794df130ba1e41e) ![](assets/new.png)  
-- [2020-09-21-【第2072期】-或许这就是下一代组件库](https://www.ershicimi.com/p/876dde13179380f6a7730b2c5910df61) ![](assets/new.png)  
-- [2020-09-21-【活动】迎中秋国庆，2020前端早读课赠书第一次活动](https://www.ershicimi.com/p/e0ea6c9508f54681c3a8e59a1b51f93c) ![](assets/new.png)  
-- [2020-09-20-【第2071期】尤雨溪：Vue3.0全球发布会](https://www.ershicimi.com/p/1ac307a88c7a465b67aea4dd13061bed) ![](assets/new.png)  
-- [2020-09-19-【第2070期】Vue.js-3.0-"One-Piece"-发布](https://www.ershicimi.com/p/0f314ec9f744c5742dc8dfcb3169443b) ![](assets/new.png)  
-- [2020-09-18-【第2069期】蚂蚁金服@双扬：一个非典型前端的成长之路](https://www.ershicimi.com/p/bf0c07134366cad0e14eecc8c56d6f4a) ![](assets/new.png)  
-- [2020-09-17-【第2068期】高级程序4：异步函数](https://www.ershicimi.com/p/ce7f61d3280b9ae7289161c168751d47) ![](assets/new.png)  
-- [2020-09-17-【招聘】广州网易邮件事业部前端技术组招高级、资深前端工程师](https://www.ershicimi.com/p/a272f2753c6fb766a592fed81e1a71c0) ![](assets/new.png)  
-- [2020-09-16-WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/4c3860218d67f28e8f9b083be2848aaa) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -885,6 +865,12 @@
 </summary>
 
 
+- [2020-10-13-Go-并发编程这么难，到底应该怎么学？｜-极客时间](https://www.ershicimi.com/p/5d528c48d3769b5701f39aab083a5e84) ![](assets/new.png)  
+- [2020-10-13-2020年Java语言发展现状](https://www.ershicimi.com/p/3e231a88761cb41b19aabd842b6374d1) ![](assets/new.png)  
+- [2020-10-13-德甲、NFL、F1-赛车的游戏规则正在改变，AWS-如何解锁数据潜能](https://www.ershicimi.com/p/46404117114c6f7bbacae7e23358772f) ![](assets/new.png)  
+- [2020-10-13-开源社区的空前盛事！“有你有我开源节”（开源技术研讨会）即将重磅揭幕-｜-Q推荐](https://www.ershicimi.com/p/2e5039047848ce5f6be6119d7fb921ea) ![](assets/new.png)  
+- [2020-10-13-Linux主要发行版目前面临的问题：钱足够但很缺人！](https://www.ershicimi.com/p/1794cda7125c8099e56fa5696ef7a0dd) ![](assets/new.png)  
+- [2020-10-13-一行代码实现黑暗模式](https://www.ershicimi.com/p/0b994dc0dfae578759d2ab91bf263c94) ![](assets/new.png)  
 - [2020-10-12-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/7b5d3d44dc2558958e73ac7eaad5ed4e) ![](assets/new.png)  
 - [2020-10-12-没有CTO的Netflix：为什么我们愿意高薪雇佣程序员？](https://www.ershicimi.com/p/378ff4ea789b03fa41ea6fc8a512fd4d) ![](assets/new.png)  
 - [2020-10-12-QCon三站同启！跨越等待，荣耀归来](https://www.ershicimi.com/p/2f263a5c1305c6a9269c33260b3ffe9f) ![](assets/new.png)  
@@ -899,12 +885,6 @@
 - [2020-10-10-美国酝酿制裁支付宝和微信支付；传台积电获供应华为许可证；微软允许员工永久在家办公-丨-Q资讯](https://www.ershicimi.com/p/8c3c72d7eda6760af1133221ac2ff4e1) ![](assets/new.png)  
 - [2020-10-10-TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/cd57b7a665702a5a6f1ac178869303df) ![](assets/new.png)  
 - [2020-10-10-【金秋十月】赢千元数码大奖，竟然如此简单](https://www.ershicimi.com/p/887555a1091a1c518246ac4ff3b91a5d) ![](assets/new.png)  
-- [2020-10-10-一个反对“平台团队”的案例](https://www.ershicimi.com/p/0ead39c577f8ccf2fa169df7a245041a) ![](assets/new.png)  
-- [2020-10-10-DevOps工程师的必备技能清单](https://www.ershicimi.com/p/6432b7f63c31bbf4ff70aa471a2ad4b7) ![](assets/new.png)  
-- [2020-10-09-一个IT时代的终结：109岁的IBM将分拆为两家公司](https://www.ershicimi.com/p/78fc3af2a9aabb02e470af3a25b786a2) ![](assets/new.png)  
-- [2020-10-09-TiDB-on-Kubernetes-最佳实践](https://www.ershicimi.com/p/254d2e42ad229f8dcfd1493160bd073c) ![](assets/new.png)  
-- [2020-10-09-人工智能势如破竹，开创机器人对话时代-｜-Q推荐](https://www.ershicimi.com/p/3b323da84fe757537bb6b948592ba69c) ![](assets/new.png)  
-- [2020-10-09-PHP与.NET统治Web开发世界的八个理由](https://www.ershicimi.com/p/359a3c3a3a39f25f2bebb8bbf278dcc8) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1037,8 @@
 </summary>
 
 
+- [2020-10-13-如何解决-vue-多个-ui-框架-css-冲突?](https://www.v2ex.com/t/714660) ![](assets/new.png)  
+- [2020-10-13-抖音上海急招-服务端，-ios，安卓开发。](https://www.v2ex.com/t/714659) ![](assets/new.png)  
 - [2020-10-13-做了个工具集合的小程序，看看是否卖点钱](https://www.v2ex.com/t/714656) ![](assets/new.png)  
 - [2020-10-13-What-do-you-think-about-the-Shenzhen-residents-embrace-digital-currency?](https://www.v2ex.com/t/714655) ![](assets/new.png)  
 - [2020-10-13-openSUSE-迁移到-AMD-坑了](https://www.v2ex.com/t/714654) ![](assets/new.png)  
@@ -1075,8 +1057,6 @@
 - [2020-10-13-有雇人一起吃饭，出去逛的服务吗？](https://www.v2ex.com/t/714640) ![](assets/new.png)  
 - [2020-10-13-DOS-联网后通过访问微软服务器升级至-Windows10？](https://www.v2ex.com/t/714639) ![](assets/new.png)  
 - [2020-10-13-限流算法简单总结](https://www.v2ex.com/t/714638) ![](assets/new.png)  
-- [2020-10-13-通过图床分发文件，是否可以直接游览器里实现下载合并。](https://www.v2ex.com/t/714637) ![](assets/new.png)  
-- [2020-10-13-问个关于-golang-web-开发的问题](https://www.v2ex.com/t/714635) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

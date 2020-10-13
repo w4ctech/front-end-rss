@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-13 13:33:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 13:38:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -42,6 +42,8 @@
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
 - [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
 - [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
+- [2020-10-10-Vue3+TypeScript完整项目上手教程](https://www.ershicimi.com/p/a1f58e05342565128a63f7116db38e2a) 
+- [2020-09-24-VUE+ElementUI后台管理项目经验与技巧分享，金九银十跳槽必看！](https://www.ershicimi.com/p/16527cca93bfecd468a24f696ad0361c) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) 
 - [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
@@ -52,6 +54,7 @@
 - [2020-10-10-10个实用技巧让你的-Vue-代码更优雅](https://www.ershicimi.com/p/10b2afc512eee3f3a232dd6a6d97dbf3) 
 - [2020-10-05-尤大-3-天前发在-GitHub-上的-vue-lit-是啥？](https://www.ershicimi.com/p/7efec0fdd979f37680b40a7a55c8245d) 
 - [2020-10-04-一篇文章上手Vue3中新增的API](https://www.ershicimi.com/p/6ca256fffb64d4403364944af3cdb55f) 
+- [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
 - [2020-10-08-一篇文章上手Vue3中新增API](https://www.ershicimi.com/p/262a00d4189799e0d9d0cd986b0c63c2) 
 - [2020-09-21-尤大-4-天前发在-GitHub-上的-vue-lit-是啥？](https://www.ershicimi.com/p/b91773fa4e33434018123b80880df8a5) 
 - [2020-09-19-【官宣】Vue-3.0-发布！](https://www.ershicimi.com/p/d7601950f4eec8df0ada2f62fe534acd) 

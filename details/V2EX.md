@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-13 21:04:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 21:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-13-Risk-Developer-领先对冲基金-北京/上海-40-100-万](https://www.v2ex.com/t/714677) 
 - [2020-10-13-对于苹果砍掉标配充电器有什么看法吗？](https://www.v2ex.com/t/714676) 
 - [2020-10-13-iOS14.1-的更新大家都收到了吗？](https://www.v2ex.com/t/714675) 
 - [2020-10-13-iPhone-12-Mini-不错](https://www.v2ex.com/t/714674) 
@@ -43,4 +44,3 @@
 - [2020-10-13-有把-UniFi®-Switch-8-当路由器用的吗？想用来当家里的主路由，不知道有没有坑](https://www.v2ex.com/t/714630) 
 - [2020-10-13-大家来讨论下，程序员如何成为杭州市-E-类人才](https://www.v2ex.com/t/714629) 
 - [2020-10-13-windows-SMB-server-的正确使用方法是什么？](https://www.v2ex.com/t/714628) 
-- [2020-10-13-有个把-JS-代码翻译成使用-！-+-等的网站哪个朋友有？](https://www.v2ex.com/t/714627) 

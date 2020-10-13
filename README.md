@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-13 18:15:05，:rocket: 更新条数: +3718， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-13 18:30:06，:rocket: 更新条数: +3718， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-10-13-iPhone12-mini-沒有雙卡](https://www.v2ex.com/t/714672) ![](assets/new.png)  
+- [2020-10-13-MagSafe-充电器](https://www.v2ex.com/t/714671) ![](assets/new.png)  
 - [2020-10-13-iPhone-12](https://www.v2ex.com/t/714670) ![](assets/new.png)  
 - [2020-10-13-HomePod-Mini](https://www.v2ex.com/t/714669) ![](assets/new.png)  
 - [2020-10-13-安全与风控字节跳动内推](https://www.v2ex.com/t/714666) ![](assets/new.png)  
@@ -1087,7 +1089,6 @@
 - [2020-10-13-如何解决-vue-多个-ui-框架-css-冲突?](https://www.v2ex.com/t/714660) ![](assets/new.png)  
 - [2020-10-13-抖音上海急招-服务端，-ios，安卓开发。](https://www.v2ex.com/t/714659) ![](assets/new.png)  
 - [2020-10-13-做了个工具集合的小程序，看看是否卖点钱](https://www.v2ex.com/t/714656) ![](assets/new.png)  
-- [2020-10-13-What-do-you-think-about-the-Shenzhen-residents-embrace-digital-currency?](https://www.v2ex.com/t/714655) ![](assets/new.png)  
 - [2020-10-13-openSUSE-迁移到-AMD-坑了](https://www.v2ex.com/t/714654) ![](assets/new.png)  
 - [2020-10-13-想问问这图片地址为啥读取不出来](https://www.v2ex.com/t/714653) ![](assets/new.png)  
 - [2020-10-13-windows-有没有什么通用的数据传输方案](https://www.v2ex.com/t/714652) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-10-13-王守义说了-十三香！](https://www.v2ex.com/t/714648) ![](assets/new.png)  
 - [2020-10-13-SpringCloud-系列之分布式配置中心极速入门与实践](https://www.v2ex.com/t/714647) ![](assets/new.png)  
 - [2020-10-13-咨询用-Dropbox-的朋友，图片里的按钮选择什么意思？](https://www.v2ex.com/t/714646) ![](assets/new.png)  
-- [2020-10-13-被华为手机开黑，系统级针对我，就是系统故意更新一份针对的可操作有后门的给我，这样的玩法如何取证](https://www.v2ex.com/t/714645) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1157,8 +1157,8 @@
 - [2020-10-13-Kotlin-高阶扩展函数：理解-let、with、run、apply、also-函数](https://toutiao.io/k/hacm1bm) ![](assets/new.png)  
 - [2020-10-13-Spring-boot-route（十二）：整合-Redis-做为缓存](https://toutiao.io/k/dmacslg) ![](assets/new.png)  
 - [2020-10-13-iOS-性能优化：优化-App-启动速度](https://toutiao.io/k/3nt4ziv) ![](assets/new.png)  
-- [2020-10-13-微软的云战略（一）：移动优先折戟沉沙](https://toutiao.io/k/p41yj63) ![](assets/new.png)  
 - [2020-10-13-利用社交账号精准溯源的蜜罐技术](https://toutiao.io/k/njwedlr) ![](assets/new.png)  
+- [2020-10-13-微软的云战略（一）：移动优先折戟沉沙](https://toutiao.io/k/p41yj63) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

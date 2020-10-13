@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-13 18:15:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 18:30:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-13-iPhone12-mini-沒有雙卡](https://www.v2ex.com/t/714672) 
+- [2020-10-13-MagSafe-充电器](https://www.v2ex.com/t/714671) 
 - [2020-10-13-iPhone-12](https://www.v2ex.com/t/714670) 
 - [2020-10-13-HomePod-Mini](https://www.v2ex.com/t/714669) 
 - [2020-10-13-安全与风控字节跳动内推](https://www.v2ex.com/t/714666) 
@@ -15,7 +17,6 @@
 - [2020-10-13-如何解决-vue-多个-ui-框架-css-冲突?](https://www.v2ex.com/t/714660) 
 - [2020-10-13-抖音上海急招-服务端，-ios，安卓开发。](https://www.v2ex.com/t/714659) 
 - [2020-10-13-做了个工具集合的小程序，看看是否卖点钱](https://www.v2ex.com/t/714656) 
-- [2020-10-13-What-do-you-think-about-the-Shenzhen-residents-embrace-digital-currency?](https://www.v2ex.com/t/714655) 
 - [2020-10-13-openSUSE-迁移到-AMD-坑了](https://www.v2ex.com/t/714654) 
 - [2020-10-13-想问问这图片地址为啥读取不出来](https://www.v2ex.com/t/714653) 
 - [2020-10-13-windows-有没有什么通用的数据传输方案](https://www.v2ex.com/t/714652) 
@@ -45,4 +46,3 @@
 - [2020-10-13-关于电脑装机的硬件](https://www.v2ex.com/t/714625) 
 - [2020-10-13-公司不当人了，求助](https://www.v2ex.com/t/714624) 
 - [2020-10-13-北京/上海急招-Java-后端开发，前端，测试](https://www.v2ex.com/t/714623) 
-- [2020-10-13-哔哩哔哩双击播放器全屏的-js-代码问题](https://www.v2ex.com/t/714622) 

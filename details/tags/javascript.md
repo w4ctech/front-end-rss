@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-13 18:15:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-13 18:30:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -135,5 +135,4 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-10-13-有把-UniFi®-Switch-8-当路由器用的吗？想用来当家里的主路由，不知道有没有坑](https://www.v2ex.com/t/714630) 
 - [2020-10-13-有个把-JS-代码翻译成使用-！-+-等的网站哪个朋友有？](https://www.v2ex.com/t/714627) 
-- [2020-10-13-哔哩哔哩双击播放器全屏的-js-代码问题](https://www.v2ex.com/t/714622) 
 - [2020-10-13-JavaScript死期将至?](https://sec.thief.one/article_content?a_id=14fd394fa01ed96bcf1a3db4ac0c6572) 

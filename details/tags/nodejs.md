@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 12:18:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 12:36:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -35,4 +35,5 @@
 - [2020-10-09-奇舞周刊第-367-期：Node.js-v14.13.0-发布](https://www.ershicimi.com/p/8eb2591d8810e87087bf76fd5d6edf3e) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
 - [2020-10-14-Node-使用express-http-proxy-做api网关](https://juejin.im/post/6883405172748320775) 
+- [2020-10-14-前端中台化，把格局做大——NodeJS-和测试服务探索](https://juejin.im/post/6883397368155373576) 
 - [2020-10-14-express-框架一些渗透技巧](https://toutiao.io/k/g69z6ga) 

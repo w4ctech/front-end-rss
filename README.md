@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 12:18:25，:rocket: 更新条数: +3453， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 12:36:36，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -947,8 +947,8 @@
 </summary>
 
 
-- [2020-10-14-Web-Performance-Metrics-与-Core-Web-Vitals-简介-——-现代前端性能各个指标的具体含义和设计理念](https://juejin.im/post/6883444297614983175) ![](assets/new.png)  
 - [2020-10-14-Node-使用express-http-proxy-做api网关](https://juejin.im/post/6883405172748320775) ![](assets/new.png)  
+- [2020-10-14-前端中台化，把格局做大——NodeJS-和测试服务探索](https://juejin.im/post/6883397368155373576) ![](assets/new.png)  
 - [2020-10-13-Proxy与Object.defineProperty](https://juejin.im/post/6883359747286761479) ![](assets/new.png)  
 - [2020-10-13-clientX/screenX/offsetX/pageX等属性一览](https://juejin.im/post/6883353218319908871) ![](assets/new.png)  
 - [2020-10-13-精准容量、秒级弹性，压测工具-+-SAE-方案如何成功突破传统大促难关？](https://juejin.im/post/6883351441658871822) ![](assets/new.png)  
@@ -1057,6 +1057,26 @@
 </summary>
 
 
+- [2020-10-14-屎山，排列好了](https://www.v2ex.com/t/714989) ![](assets/new.png)  
+- [2020-10-14-问个问题，如何在单页应用中使用-npm-包？如何在手机应用中引用-npm-包？](https://www.v2ex.com/t/714988) ![](assets/new.png)  
+- [2020-10-14-向-V-征集短片口号，快来快来！](https://www.v2ex.com/t/714985) ![](assets/new.png)  
+- [2020-10-14-请问有人遇到过微软日历多终端时区不一样，日历同步出问题的情况吗？](https://www.v2ex.com/t/714984) ![](assets/new.png)  
+- [2020-10-14-为啥我眼睛看手机比看显示器舒服](https://www.v2ex.com/t/714983) ![](assets/new.png)  
+- [2020-10-14-想看看有多少成功拔掉拔阻生智齿的？](https://www.v2ex.com/t/714982) ![](assets/new.png)  
+- [2020-10-14-杭州求职,二本计科往届无经验求-Java-后端岗-麻烦-dalao-们指导一下简历或求捞](https://www.v2ex.com/t/714981) ![](assets/new.png)  
+- [2020-10-14-上海名媛-1-群招人](https://www.v2ex.com/t/714979) ![](assets/new.png)  
+- [2020-10-14-极度无法忍受某些声音](https://www.v2ex.com/t/714977) ![](assets/new.png)  
+- [2020-10-14-作为求职者，-boss-直聘刷着提示账号被锁定了。](https://www.v2ex.com/t/714976) ![](assets/new.png)  
+- [2020-10-14-IDA-v7.5-版本众筹中···](https://www.v2ex.com/t/714975) ![](assets/new.png)  
+- [2020-10-14-亚马逊-pixel4a-美国发货和英国发货，网络制式有什么不一样？](https://www.v2ex.com/t/714974) ![](assets/new.png)  
+- [2020-10-14-有人想体验胡同小屋吗？免费体验胡同工作室一居室～～](https://www.v2ex.com/t/714971) ![](assets/new.png)  
+- [2020-10-14-谷歌老是收到归档要求](https://www.v2ex.com/t/714970) ![](assets/new.png)  
+- [2020-10-14-下个月会有发布会吗？-ARM-MACBOOK-黄了？](https://www.v2ex.com/t/714966) ![](assets/new.png)  
+- [2020-10-14-如何调试-Erlang-NIF-C-层代码？](https://www.v2ex.com/t/714965) ![](assets/new.png)  
+- [2020-10-14-怎样才能胜任好开发工作](https://www.v2ex.com/t/714963) ![](assets/new.png)  
+- [2020-10-14-上海求职-帮老婆找个轻松的行政-or-前台工作，地点最好在上海市区，薪资没有要求](https://www.v2ex.com/t/714962) ![](assets/new.png)  
+- [2020-10-14-地铁望京站信号](https://www.v2ex.com/t/714961) ![](assets/new.png)  
+- [2020-10-14-opencv-Python-内存泄漏](https://www.v2ex.com/t/714960) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,8 +1127,8 @@
 - [2020-10-14-图文结合，白话-Go-的垃圾回收原理](https://toutiao.io/k/51hfsz6) ![](assets/new.png)  
 - [2020-10-14-Spring-Cache，从入门到真香](https://toutiao.io/k/d6px22i) ![](assets/new.png)  
 - [2020-10-14-如何提升微服务的幸福感？](https://toutiao.io/k/p8owj4t) ![](assets/new.png)  
-- [2020-10-14-CPU-执行程序的秘密，藏在了这-15-张图里](https://toutiao.io/k/rsqwh4k) ![](assets/new.png)  
 - [2020-10-14-Go-设计模式-（十七）：状态模式](https://toutiao.io/k/w4bj8bx) ![](assets/new.png)  
+- [2020-10-14-CPU-执行程序的秘密，藏在了这-15-张图里](https://toutiao.io/k/rsqwh4k) ![](assets/new.png)  
 - [2020-10-14-express-框架一些渗透技巧](https://toutiao.io/k/g69z6ga) ![](assets/new.png)  
 - [2020-10-14-聊一聊-Redis-官方置顶推荐的-Java-客户端-Redisson](https://toutiao.io/k/zfhki4y) ![](assets/new.png)  
 - [2020-10-14-图解一致性哈希算法，全网（小区局域网）最通俗易懂](https://toutiao.io/k/zhbx7g2) ![](assets/new.png)  

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 12:50:34，:rocket: 更新条数: +3486， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 13:03:53，:rocket: 更新条数: +3719， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-10-14-北美观察丨确诊新冠肺炎的议员发言竟不戴口罩-美高层疫情扩散难收场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin7t0U1sctTxFnOYYsZWQ201014&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-北美观察丨疫情下的美国经济：持续低迷，近半经济学家认为2023年才会等来复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQTk9DZJZKkTFU9pLF3vf201014&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-青岛13日新冠肺炎确诊病例情况公布-均为无症状转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti72kY58daNxK4rp7b6QpN201014&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-山东13日新增新冠肺炎本地确诊病例6例-均由无症状感染者转归](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiDLfHqMORZGCxjb5em23201014&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-哥伦比亚新冠肺炎确诊病例累计超92万-政府担心原住民游行加速疫情扩散](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLI9vOIBvSeW5Vll8V1r7201014&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -745,6 +750,26 @@
 </summary>
 
 
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -943,10 +968,10 @@
 
 
 - [2020-10-14-Web-Performance-Metrics-与-Core-Web-Vitals-简介-——-现代前端性能各个指标的具体含义和设计理念](https://juejin.im/post/6883444297614983175) ![](assets/new.png)  
-- [2020-10-14-Node-使用express-http-proxy-做api网关](https://juejin.im/post/6883405172748320775) ![](assets/new.png)  
+- [2020-10-14-中移物联网在车联网场景的-TiDB-探索和实现](https://juejin.im/post/6883418959010660360) ![](assets/new.png)  
 - [2020-10-13-Proxy与Object.defineProperty](https://juejin.im/post/6883359747286761479) ![](assets/new.png)  
-- [2020-10-13-clientX/screenX/offsetX/pageX等属性一览](https://juejin.im/post/6883353218319908871) ![](assets/new.png)  
-- [2020-10-13-精准容量、秒级弹性，压测工具-+-SAE-方案如何成功突破传统大促难关？](https://juejin.im/post/6883351441658871822) ![](assets/new.png)  
+- [2020-10-13-基于react的九宫格抽奖组件](https://juejin.im/post/6883352163620388878) ![](assets/new.png)  
+- [2020-08-09-一步步说明git](https://juejin.im/post/6858985430969384973) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1077,9 @@
 </summary>
 
 
+- [2020-10-14-今天收到群晖的邮件，关于国区群晖账号的验证（手机号）。](https://www.v2ex.com/t/714998) ![](assets/new.png)  
+- [2020-10-14-国内镜像源与本地连接状况](https://www.v2ex.com/t/714996) ![](assets/new.png)  
+- [2020-10-14-合租找室友，健翔桥附近中科院华严北里小区，距-10-号线健德门站-1-公里](https://www.v2ex.com/t/714995) ![](assets/new.png)  
 - [2020-10-14-大家评判下京东第三方商家售后](https://www.v2ex.com/t/714994) ![](assets/new.png)  
 - [2020-10-14-找朋友，“运动控制”“机器视觉”“上位机开发”的可以交流下](https://www.v2ex.com/t/714992) ![](assets/new.png)  
 - [2020-10-14-自行开发-APP，怎么样调用打印机](https://www.v2ex.com/t/714991) ![](assets/new.png)  
@@ -1069,9 +1097,6 @@
 - [2020-10-14-IDA-v7.5-版本众筹中···](https://www.v2ex.com/t/714975) ![](assets/new.png)  
 - [2020-10-14-亚马逊-pixel4a-美国发货和英国发货，网络制式有什么不一样？](https://www.v2ex.com/t/714974) ![](assets/new.png)  
 - [2020-10-14-有人想体验胡同小屋吗？免费体验胡同工作室一居室～～](https://www.v2ex.com/t/714971) ![](assets/new.png)  
-- [2020-10-14-谷歌老是收到归档要求](https://www.v2ex.com/t/714970) ![](assets/new.png)  
-- [2020-10-14-下个月会有发布会吗？-ARM-MACBOOK-黄了？](https://www.v2ex.com/t/714966) ![](assets/new.png)  
-- [2020-10-14-如何调试-Erlang-NIF-C-层代码？](https://www.v2ex.com/t/714965) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,6 +1170,12 @@
 </summary>
 
 
+- [2020-10-14-邀您参与-|-“推进等级保护2.0制度,筑牢网络安全防线”联盟系列活动...](https://sec.thief.one/article_content?a_id=8c4f4353597c6ca5579913f265b73118) ![](assets/new.png)  
+- [2020-10-14-DC沙龙拍了拍你,说活动马上开始了!!](https://sec.thief.one/article_content?a_id=eee464ba9294382f1375b9859d0edec7) ![](assets/new.png)  
+- [2020-10-14-明晚七点半,极客高手邀你“云上喝茶”!](https://sec.thief.one/article_content?a_id=1bab43d2b590398914dc625a4455cc22) ![](assets/new.png)  
+- [2020-10-14-一个爬虫的故事:这是人干的事儿?](https://sec.thief.one/article_content?a_id=e25770994d2db9def2bf618bd60ac721) ![](assets/new.png)  
+- [2020-10-14-“助力决战脱贫攻坚——网络名人看重庆”活动启动](https://sec.thief.one/article_content?a_id=86c794964053033278068f0b535d9280) ![](assets/new.png)  
+- [2020-10-14-诸子星球-|-微话题:哪个产品可以识别非结构化数据?](https://sec.thief.one/article_content?a_id=f0a25b8a22caf5e3945ff9295269574b) ![](assets/new.png)  
 - [2020-10-14-15日晚七点半,GeekPwn云安全挑战赛赛前大揭秘!](https://sec.thief.one/article_content?a_id=dc1cb1828601e144623ae6b1e9425b16) ![](assets/new.png)  
 - [2020-10-14-【漏洞通告】Apache-Solr-ConfigSet-API-文件上传漏洞-CVE-2020-...](https://sec.thief.one/article_content?a_id=edb894a2ce426401cc3094b32f5d1f68) ![](assets/new.png)  
 - [2020-10-14-滴滴安全专家刘潇锋:安全运营之自动编排的探索](https://sec.thief.one/article_content?a_id=de5c92577076d8809f95daaffeed3c6f) ![](assets/new.png)  
@@ -1159,12 +1190,6 @@
 - [2020-10-14-SRC联合调研问卷的奖品开始发放啦!](https://sec.thief.one/article_content?a_id=2b07551ed7ddfa48c4f92196ec0627a9) ![](assets/new.png)  
 - [2020-10-14-Apache-POI-与-OOB-XXE-组合实战](https://sec.thief.one/article_content?a_id=fd15a41453c05adcb8a35f9d983a0f59) ![](assets/new.png)  
 - [2020-10-14-军衔情况更新|双11安全保卫战](https://sec.thief.one/article_content?a_id=60b9c52761cee2ec9c05ecae4dc624a8) ![](assets/new.png)  
-- [2020-10-14-约100家意大利银行已正式加入一个区块链](https://sec.thief.one/article_content?a_id=dc844d29191308f982166111a34d30e4) ![](assets/new.png)  
-- [2020-10-14-Mybatis反序列化高危漏洞风险提示](https://sec.thief.one/article_content?a_id=669773fd5724800ae180b1f223d3fe6d) ![](assets/new.png)  
-- [2020-10-14-【风险提示】天融信关于微软10月补丁日多个产品高危漏洞风险提示](https://sec.thief.one/article_content?a_id=25070201e8cbce352d2f6a56125f915b) ![](assets/new.png)  
-- [2020-10-14-春江水暖鸭先知,交易所已经开始默默上NFT概念代币了](https://sec.thief.one/article_content?a_id=a916e3c98e1fb13cdc3bd36633a92b41) ![](assets/new.png)  
-- [2020-10-14-【视频】|-你被APP非法定位了吗?](https://sec.thief.one/article_content?a_id=8e48bc6ae62080cc1f79bc5346c70884) ![](assets/new.png)  
-- [2020-10-14-打脸!特朗普宣布自己已对新冠免疫-推特立马警告:“传播误导信息”](https://sec.thief.one/article_content?a_id=f28c720d4dc0e7f984d3d51c010f4d81) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

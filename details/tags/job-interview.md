@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 10:49:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 11:04:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -20,7 +20,9 @@
 - [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) 
 - [2019-12-05-【面试题】2019开年跳槽系列-30](https://www.ershicimi.com/p/c953e0c5b4aaccbe729309f61ee8574b) 
 - [2019-12-04-【面试题】2019开年跳槽系列-29](https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10) 
-- [2020-09-17-【招聘】广州网易邮件事业部前端技术组招高级、资深前端工程师](https://www.ershicimi.com/p/a272f2753c6fb766a592fed81e1a71c0) 
+- [2020-10-13-【招聘】有赞深圳研发中心招聘高级前端工程师](https://www.ershicimi.com/p/4866f119b5044a23a7225185b4edc9c8) 
+- [2020-10-11-【校招】美团2021届校园招聘前端岗位热招](https://www.ershicimi.com/p/4e164768a96b0daf1832abbc99ba9ffe) 
+- [2020-10-10-【招聘】腾讯云服务平台部招聘web前端开发](https://www.ershicimi.com/p/e6882ce8eef5fa26680e7def0e160f02) 
 - [2020-09-30-美团-2021-届校园招聘前端岗位热招](https://www.ershicimi.com/p/7cf564a56423efefc97f721b5988aff6) 
 - [2020-09-27-全面分析toString与valueOf，并随手解决掉几道大厂必备面试题](https://www.ershicimi.com/p/46732a0e26399e87a94fef1d37b39bba) 
 - [2020-09-24-前端面试常见的手写功能（常用代码）](https://www.ershicimi.com/p/341f27b85dabee96c83330aecd0a3458) 
@@ -42,3 +44,4 @@
 - [2020-10-14-免费讲座-进阶阿里-web-岗，面试必备技能指导](https://www.v2ex.com/t/714950) 
 - [2020-10-14-北京-望京-高德前端研发团队招聘-高级前端开发~](https://www.v2ex.com/t/714920) 
 - [2020-10-14-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
+- [2020-10-14-招聘-|-章和技术招贤纳士](https://sec.thief.one/article_content?a_id=9548e6964194d793828d0125f121b645) 

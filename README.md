@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 10:30:55，:rocket: 更新条数: +3496， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 10:36:15，:rocket: 更新条数: +3497， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-10-13-最新疫情：全国新冠累计确诊85611例-山东本土6例](http://m.china.caixin.com/m/2020-10-14/101614470.html) ![](assets/new.png)  
+- [2020-10-13-独家|青岛疫情或源于早前码头工人感染-专家称暂未发现社区传播](https://m.caixin.com/m/2020-10-14/101614662.html) ![](assets/new.png)  
 - [2020-10-13-国台办回应台防疫部门称新增1例大陆输入病例](http://m.china.caixin.com/m/2020-10-14/101614573.html) ![](assets/new.png)  
 - [2020-10-13-最新海外疫情：新冠感染超3793万-累计死亡超108万](http://m.international.caixin.com/m/2020-10-14/101614641.html) ![](assets/new.png)  
 - [2020-10-13-【境内疫情观察】山东新增6例本土确诊病例（10月13日）](http://m.database.caixin.com/m/2020-10-14/101614534.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-10-10-【境内疫情观察】青岛新增3例本土无症状感染者（10月10日）](http://m.database.caixin.com/m/2020-10-11/101613487.html) ![](assets/new.png)  
 - [2020-10-10-大流行手记|10月10日：多家学术期刊痛批美政府抗疫不力-马德里再次封锁](https://m.caixin.com/m/2020-10-11/101613470.html) ![](assets/new.png)  
 - [2020-10-10-美国万只水貂染新冠死亡-未发现水貂传人病例](http://m.science.caixin.com/m/2020-10-11/101613536.html) ![](assets/new.png)  
-- [2020-10-10-数字说|特朗普身边都有谁感染了新冠？](http://m.datanews.caixin.com/m/2020-10-11/101613528.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-14-怎样才能胜任好开发工作](https://www.v2ex.com/t/714963) ![](assets/new.png)  
 - [2020-10-14-上海求职-帮老婆找个轻松的行政-or-前台工作，地点最好在上海市区，薪资没有要求](https://www.v2ex.com/t/714962) ![](assets/new.png)  
 - [2020-10-14-地铁望京站信号](https://www.v2ex.com/t/714961) ![](assets/new.png)  
 - [2020-10-14-opencv-Python-内存泄漏](https://www.v2ex.com/t/714960) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-14-支付宝收到陌生人（大概率是骗子）转账，这是什么操作？](https://www.v2ex.com/t/714945) ![](assets/new.png)  
 - [2020-10-14-有没有用-Xcode-的大佬，看看-iPhone-12-Pro-/-Max-是否有-6GB-运行内存](https://www.v2ex.com/t/714944) ![](assets/new.png)  
 - [2020-10-14-银行发布的纪念卡卡面可以在手机-Pay-里面正常显示吗？](https://www.v2ex.com/t/714943) ![](assets/new.png)  
-- [2020-10-14-3-年码农倾心推荐一些好玩有趣有用的网站，不好玩你打我](https://www.v2ex.com/t/714941) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

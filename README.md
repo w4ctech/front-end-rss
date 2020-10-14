@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 04:49:38，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 05:04:06，:rocket: 更新条数: +3486， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -663,6 +663,11 @@
 </summary>
 
 
+- [2020-10-14-贫民窟程序员-“岳岳”-的故事](https://www.ershicimi.com/p/366fddb062a25326e27eb208a6c3e8d7) ![](assets/new.png)  
+- [2020-10-14-Vue.js-作者尤雨溪：TypeScript-与-JavaScript-并行才切合实际！](https://www.ershicimi.com/p/65f8261d5a8e6be4d73ab7529202d452) ![](assets/new.png)  
+- [2020-10-13-最受大厂宠爱的-React，厉害在哪？](https://www.ershicimi.com/p/1a8ed17bef43f9bb4797cbba6efdb9b0) ![](assets/new.png)  
+- [2020-10-12-Node.js-搭建-HTTPS-服务器](https://www.ershicimi.com/p/443b0f079dc05caa1ccecabfd0000cce) ![](assets/new.png)  
+- [2020-10-10-排查守候在零点两分的-bug](https://www.ershicimi.com/p/91d6a5ec88c2d31d167c23173c9d3694) ![](assets/new.png)  
 - [2020-10-09-人工智能从入门到精通系列教学视频免费送](https://www.ershicimi.com/p/4cec892c264b2a104a924d687161940a) ![](assets/new.png)  
 - [2020-10-09-5000字！带你零距离接触websocket！](https://www.ershicimi.com/p/e87e80ed7a3e9ca8ea3daf97074c90ab) ![](assets/new.png)  
 - [2020-09-28-深度解读《新版-JavaScript-红宝书高程第四版》](https://www.ershicimi.com/p/2bc90de1c9eeca332a6db945fea20956) ![](assets/new.png)  
@@ -678,11 +683,6 @@
 - [2020-09-17-亿级-ELK-日志平台构建实践](https://www.ershicimi.com/p/8d5bc25bccee8a0f3e161d2256883f52) ![](assets/new.png)  
 - [2020-09-15-通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/b99babdfb00269bc556a772fde985927) ![](assets/new.png)  
 - [2020-09-14-大数据时代下的“火眼金睛”？如何高效精准快速地学习目标检测？](https://www.ershicimi.com/p/259e2b8f596a3f17fe919d33e994ee73) ![](assets/new.png)  
-- [2020-09-14-Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/9cf9e1540ea437410112acba7e8eecd0) ![](assets/new.png)  
-- [2020-09-13-CNodejs每日新闻周刊｜第-5-期](https://www.ershicimi.com/p/908eef7d8507a4b756fbe0fdee8d5eca) ![](assets/new.png)  
-- [2020-09-10-轻量级-Node.js-Web-框架-Daruk2.0-正式版发布了！](https://www.ershicimi.com/p/fb984d766163b35797bd7da5651e9683) ![](assets/new.png)  
-- [2020-09-09-详解-JS-压缩图片](https://www.ershicimi.com/p/cc76a353eeff86a9c5f8546606f1ac9e) ![](assets/new.png)  
-- [2020-09-06-CNodejs每日新闻周刊｜第-4-期](https://www.ershicimi.com/p/ef4b7dbf19444c283e9a2babb975502c) ![](assets/new.png)  
 - [......【查看更多】......](./details/Nodejs技术栈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,13 @@
 </summary>
 
 
+- [2020-10-14-想在双十一入手一台-4K-电视机，谁给推荐下](https://www.v2ex.com/t/714818) ![](assets/new.png)  
+- [2020-10-14-iPhone-11-在哪个平台卖比较好？](https://www.v2ex.com/t/714817) ![](assets/new.png)  
+- [2020-10-14-没怎么在咸鱼卖过电子产品，想问一下我的-iPad-Pro-大概能卖多少钱](https://www.v2ex.com/t/714816) ![](assets/new.png)  
+- [2020-10-14-上海17k-30k实习/应届/社招DevOpsFormal-Verification-EDA](https://www.v2ex.com/t/714815) ![](assets/new.png)  
+- [2020-10-14-SJTUG-的-OCaml-OPAM-镜像上线了](https://www.v2ex.com/t/714814) ![](assets/new.png)  
+- [2020-10-14-iPhone-12-的-5G「自动转用」是怎么判断的？](https://www.v2ex.com/t/714813) ![](assets/new.png)  
+- [2020-10-14-日本互联网公司-zeals-招-go-开发-----10-几个-hc国内远程工作/之后也可赴日工作](https://www.v2ex.com/t/714812) ![](assets/new.png)  
 - [2020-10-14-苹果电脑中下载的第三方软件、客户端会获取电脑中的设备信息吗](https://www.v2ex.com/t/714811) ![](assets/new.png)  
 - [2020-10-14-用-6S-的朋友们打算换-12-么。。](https://www.v2ex.com/t/714810) ![](assets/new.png)  
 - [2020-10-14-拍卖相关的理论和方法，获得了-2020-年诺贝尔经济学奖。。](https://www.v2ex.com/t/714809) ![](assets/new.png)  
@@ -1070,13 +1077,6 @@
 - [2020-10-14-感觉现在的手机对极少拍照的人很不友好](https://www.v2ex.com/t/714799) ![](assets/new.png)  
 - [2020-10-14-iPhone11-估价](https://www.v2ex.com/t/714798) ![](assets/new.png)  
 - [2020-10-14-Python-in-a-nutshell](https://www.v2ex.com/t/714797) ![](assets/new.png)  
-- [2020-10-14-微信信息管理](https://www.v2ex.com/t/714796) ![](assets/new.png)  
-- [2020-10-14-现在的安卓手机用来打游戏，相比-PC-和游戏机，是不是在逐渐丧失其成本优势？](https://www.v2ex.com/t/714795) ![](assets/new.png)  
-- [2020-10-14-大家为什么需要-5G-手机，到底是手机上的什么应用场景需要-5G？](https://www.v2ex.com/t/714793) ![](assets/new.png)  
-- [2020-10-14-使用-Flutter-快速实现聊天应用](https://www.v2ex.com/t/714792) ![](assets/new.png)  
-- [2020-10-14-问个微服务调用问题。](https://www.v2ex.com/t/714791) ![](assets/new.png)  
-- [2020-10-14-无线充电转换效率比有线差多少?](https://www.v2ex.com/t/714790) ![](assets/new.png)  
-- [2020-10-14-出-Apple-TrackPad-和-Apple-妙控键盘-都为银色，-2020-07-18-买于京东，不单出](https://www.v2ex.com/t/714789) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,21 +1124,21 @@
 - [2020-10-14-图文结合，白话-Go-的垃圾回收原理](https://toutiao.io/k/51hfsz6) ![](assets/new.png)  
 - [2020-10-14-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [2020-10-14-如何提升微服务的幸福感？](https://toutiao.io/k/p8owj4t) ![](assets/new.png)  
-- [2020-10-14-Spring-Cache，从入门到真香](https://toutiao.io/k/d6px22i) ![](assets/new.png)  
 - [2020-10-14-如何制作-Sketch-插件](https://toutiao.io/k/xjsgd30) ![](assets/new.png)  
+- [2020-10-14-Spring-Cache，从入门到真香](https://toutiao.io/k/d6px22i) ![](assets/new.png)  
 - [2020-10-14-如何一步步-get-大厂前端-offer，或许你可以参考这份成长经历](https://toutiao.io/k/ekbitqq) ![](assets/new.png)  
 - [2020-10-14-CPU-执行程序的秘密，藏在了这-15-张图里](https://toutiao.io/k/rsqwh4k) ![](assets/new.png)  
 - [2020-10-14-express-框架一些渗透技巧](https://toutiao.io/k/g69z6ga) ![](assets/new.png)  
 - [2020-10-14-图解一致性哈希算法，全网（小区局域网）最通俗易懂](https://toutiao.io/k/zhbx7g2) ![](assets/new.png)  
 - [2020-10-14-端到端测试的-4-种处理测试数据的方法](https://toutiao.io/k/kmw0t3y) ![](assets/new.png)  
 - [2020-10-14-聊一聊-Redis-官方置顶推荐的-Java-客户端-Redisson](https://toutiao.io/k/zfhki4y) ![](assets/new.png)  
+- [2020-10-14-安卓-so-文件解析详解](https://toutiao.io/k/hf1nfns) ![](assets/new.png)  
 - [2020-10-14-Prometheus-监控-MongoDB-真的太方便了](https://toutiao.io/k/gmr7160) ![](assets/new.png)  
 - [2020-10-14-硬核：华为鸿蒙系统尖刀武器之分布式软总线技术](https://toutiao.io/k/kp14unp) ![](assets/new.png)  
-- [2020-10-14-安卓-so-文件解析详解](https://toutiao.io/k/hf1nfns) ![](assets/new.png)  
 - [2020-10-14-谈谈云厂商和开源软件间的紧张关系](https://toutiao.io/k/e3z8dl9) ![](assets/new.png)  
 - [2020-10-14-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-14-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-14-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
+- [2020-10-14-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

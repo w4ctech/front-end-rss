@@ -17701,7 +17701,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -17876,6 +17876,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[赴日 IT 软件工作] 驻日 Python 工程师/赴日 Python 工程师",
+        "link": "https://www.v2ex.com/t/714753",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "大家 WSL2 的时候有没有遇到过端口转发不生效的问题？",
+        "link": "https://www.v2ex.com/t/714751",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "有问过苹果客服的老哥么？几号可以在直营店见到 iPhone12 真机？",
+        "link": "https://www.v2ex.com/t/714749",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "腾讯没客服，其实是一种支配市场地位的行为。",
+        "link": "https://www.v2ex.com/t/714748",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[Figma 资源] 快速预览 Logo/分享图/品宣图 在微信场景的效果",
+        "link": "https://www.v2ex.com/t/714747",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "我没有前端经验，但 1 天就搞定了开源项目主页",
+        "link": "https://www.v2ex.com/t/714746",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "iPhone 12 到底值不值得买？一张图带你看懂 iPhone 12 系列新品",
+        "link": "https://www.v2ex.com/t/714744",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "迫于不换 12，求一个 AirPods Pro 比较靠谱的渠道",
+        "link": "https://www.v2ex.com/t/714743",
+        "date": "2020-10-14"
+      },
+      {
         "title": "Windows 10 时间错乱",
         "link": "https://www.v2ex.com/t/714742",
         "date": "2020-10-14"
@@ -18034,51 +18074,6 @@
         "title": "新 iPhone 讨论了这么多我还是更关心信号",
         "link": "https://www.v2ex.com/t/714704",
         "date": "2020-10-14"
-      },
-      {
-        "title": "eureka nacos consul 各位道友推荐用谁",
-        "link": "https://www.v2ex.com/t/714703",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "Google 面试题：搜索二维矩阵 II",
-        "link": "https://www.v2ex.com/t/714702",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "Iphone12 最良心的就是 mini 版屏幕升级到 1080p",
-        "link": "https://www.v2ex.com/t/714701",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "iPhone 5G 手机终于来了！市场却不买账？",
-        "link": "https://www.v2ex.com/t/714700",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "如果 iPhone12 改名叫 iPhone4 Retro 2020 版 估计更会吸引人购买吧",
-        "link": "https://www.v2ex.com/t/714699",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "北斗支持是需要硬件支持吗？",
-        "link": "https://www.v2ex.com/t/714698",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "iPhone12 电源键下面的那个长条是什么",
-        "link": "https://www.v2ex.com/t/714695",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "iphone12 和 pro 的外观应该完全一样吧？",
-        "link": "https://www.v2ex.com/t/714694",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "现代化 Java 关键词排行",
-        "link": "https://www.v2ex.com/t/714693",
-        "date": "2020-10-14"
       }
     ]
   },
@@ -18210,13 +18205,13 @@
         "date": "2020-10-14"
       },
       {
-        "title": "浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
+        "title": "如何提升微服务的幸福感？",
+        "link": "https://toutiao.io/k/p8owj4t",
         "date": "2020-10-14"
       },
       {
-        "title": "如何提升微服务的幸福感？",
-        "link": "https://toutiao.io/k/p8owj4t",
+        "title": "浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-14"
       },
       {
@@ -18260,11 +18255,6 @@
         "date": "2020-10-14"
       },
       {
-        "title": "安卓 so 文件解析详解",
-        "link": "https://toutiao.io/k/hf1nfns",
-        "date": "2020-10-14"
-      },
-      {
         "title": "硬核：华为鸿蒙系统尖刀武器之分布式软总线技术",
         "link": "https://toutiao.io/k/kp14unp",
         "date": "2020-10-14"
@@ -18275,28 +18265,18 @@
         "date": "2020-10-14"
       },
       {
+        "title": "安卓 so 文件解析详解",
+        "link": "https://toutiao.io/k/hf1nfns",
+        "date": "2020-10-14"
+      },
+      {
         "title": "谈谈云厂商和开源软件间的紧张关系",
         "link": "https://toutiao.io/k/e3z8dl9",
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-14"
-      },
-      {
         "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
         "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-14"
       },
       {
@@ -18310,8 +18290,13 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-14"
       },
       {
@@ -18320,8 +18305,23 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 架构师之路：服务器硬件扫盲",
+        "link": "https://toutiao.io/k/dsqwkye",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-14"
       },
       {
@@ -18330,8 +18330,8 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 架构师之路：服务器硬件扫盲",
-        "link": "https://toutiao.io/k/dsqwkye",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-14"
       },
       {
@@ -18342,11 +18342,6 @@
       {
         "title": "[推荐] B站面试之旅",
         "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
         "date": "2020-10-14"
       }
     ]

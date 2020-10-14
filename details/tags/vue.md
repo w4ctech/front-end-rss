@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 04:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 04:15:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -16,14 +16,11 @@
 - [2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
 - [2020-01-03-从零开发一套完整的vue项目开发环境](https://www.ershicimi.com/p/cab0fde7933f77481f19d7a7ccf21319) 
 - [2019-12-31-Vue-CLI-4-发布：自动化升级过程，支持自定义包管理器](https://www.ershicimi.com/p/f3854cabca198728fee0c97ec0f825bf) 
+- [2020-10-14-Taro-支持使用-Vue3-开发小程序](https://www.ershicimi.com/p/e6caac2ff77bd19f2c9fc5fbdf0b28fc) 
+- [2020-10-12-Vite-如何做到让-Vue-本地开发更快速？](https://www.ershicimi.com/p/de71faa983fb67ad2c77c1d9389b6f28) 
+- [2020-10-11-研究Vue源码时发现的一些好玩函数](https://www.ershicimi.com/p/499feedbf1f251371f47346a1c2cc635) 
 - [2020-09-30-Vue项目从2.5M优化到200kb的全过程](https://www.ershicimi.com/p/f3001c219a42e611b06014a5470c86ba) 
 - [2020-09-27-一篇文章上手Vue3中新增的API](https://www.ershicimi.com/p/cd6e30eb8bb113c861a403461070435c) 
-- [2020-09-24-Vue2和Vue3开发组件有什么区别](https://www.ershicimi.com/p/fdb7a6cfe5358d130de17b86bfa8ba04) 
-- [2020-09-23-Vue3开源组件库，今天“它们”来了](https://www.ershicimi.com/p/ef584c4dfb55f7710f2601037046af6f) 
-- [2020-09-22-Vue-项目中各种痛点问题及方案](https://www.ershicimi.com/p/2275ce7f5c35b14cb260755d7a93e033) 
-- [2020-09-22-学习-Vue3.0，先从搭建环境开始](https://www.ershicimi.com/p/2db3ab9d92df0f9aed11a3ea7afc8f6f) 
-- [2020-09-21-尤雨溪：Vue3全球发布会](https://www.ershicimi.com/p/b3b6bd16207fdc98eb1b16b0489e3788) 
-- [2020-09-19-重磅-|-Vue3.0-正式版发布了!](https://www.ershicimi.com/p/fd2f184440e296ac20cca7f74677b66d) 
 - [2020-09-20-【第2071期】尤雨溪：Vue3.0全球发布会](https://www.ershicimi.com/p/1ac307a88c7a465b67aea4dd13061bed) 
 - [2020-09-19-【第2070期】Vue.js-3.0-"One-Piece"-发布](https://www.ershicimi.com/p/0f314ec9f744c5742dc8dfcb3169443b) 
 - [2020-10-13-让-Vue3-Composition-API-存在于你-Vue-以外的项目中](https://www.ershicimi.com/p/97b383dd077f6f17b0e038fec301ab8c) 

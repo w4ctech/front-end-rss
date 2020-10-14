@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 15:04:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 15:16:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -34,4 +34,5 @@
 - [2020-09-15-通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/b99babdfb00269bc556a772fde985927) 
 - [2020-10-09-奇舞周刊第-367-期：Node.js-v14.13.0-发布](https://www.ershicimi.com/p/8eb2591d8810e87087bf76fd5d6edf3e) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
+- [2020-10-14-求助,离线项目,项目中的-node_modules,有一份老的依赖和一份新的依赖现在想用新的依赖如何操作](https://www.v2ex.com/t/715024) 
 - [2020-10-14-express-框架一些渗透技巧](https://toutiao.io/k/g69z6ga) 

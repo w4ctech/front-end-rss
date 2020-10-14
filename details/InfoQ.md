@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-14 16:04:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 16:18:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-10-14-iPhone-12-made-in印度，苹果会选择印度取代中国制造吗？](https://www.ershicimi.com/p/092281a8ad6b51f54efde92365df6aaa) 
+- [2020-10-14-经纬中国熊飞：开源赛道投资，如何找到下一个-PingCAP？](https://www.ershicimi.com/p/0c78d5103147a36c2d1bcf0da118cea3) 
+- [2020-10-14-13.9k-Star,-3.6k-Fork-——-技术人如何从0到1打造成功的开源软件？｜-Q推荐](https://www.ershicimi.com/p/e034b92b078a7d401ade22467a03695e) 
+- [2020-10-14-一份重磅“xx秋季技术课堂”独家剧透-｜-Q推荐](https://www.ershicimi.com/p/3ab42eab9c6ebe37c2d8ff841da628fe) 
+- [2020-10-14-12种Flutter开发工具推荐](https://www.ershicimi.com/p/ac256cd0dd9e9029ff1e33bfe50a244c) 
 - [2020-10-13-Go-并发编程这么难，到底应该怎么学？｜-极客时间](https://www.ershicimi.com/p/5d528c48d3769b5701f39aab083a5e84) 
 - [2020-10-13-2020年Java语言发展现状](https://www.ershicimi.com/p/3e231a88761cb41b19aabd842b6374d1) 
 - [2020-10-13-德甲、NFL、F1-赛车的游戏规则正在改变，AWS-如何解锁数据潜能](https://www.ershicimi.com/p/46404117114c6f7bbacae7e23358772f) 
@@ -20,8 +25,3 @@
 - [2020-10-11-TikTok-的应用程序日志都记录了什么内容？](https://www.ershicimi.com/p/30038ef3d67911593af72fbd5ae91874) 
 - [2020-10-11-有奖调研｜平台百花齐放，你究竟“链”上谁？](https://www.ershicimi.com/p/c3ad1f100ebc7d994244a24775417b28) 
 - [2020-10-11-我们不是瓦力，但人工智能会带来专属的伊娃-｜-Q推荐](https://www.ershicimi.com/p/1bc5969514127948c52ebb9c3fce7b1b) 
-- [2020-10-11-React-Hooks-还不如类？](https://www.ershicimi.com/p/9dfed6ed459a3ce9d266be23f0a84875) 
-- [2020-10-11-CI/CD-最佳实践的基本原则](https://www.ershicimi.com/p/995a7fa20a58f45471ea2a4e2093dc51) 
-- [2020-10-10-美国酝酿制裁支付宝和微信支付；传台积电获供应华为许可证；微软允许员工永久在家办公-丨-Q资讯](https://www.ershicimi.com/p/8c3c72d7eda6760af1133221ac2ff4e1) 
-- [2020-10-10-TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/cd57b7a665702a5a6f1ac178869303df) 
-- [2020-10-10-【金秋十月】赢千元数码大奖，竟然如此简单](https://www.ershicimi.com/p/887555a1091a1c518246ac4ff3b91a5d) 

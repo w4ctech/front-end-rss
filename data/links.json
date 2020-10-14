@@ -13567,14 +13567,14 @@
         "date": "2020-10-14"
       },
       {
-        "title": "乌克兰政府宣布将适应性隔离措施延长实施至年底",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4QZFXRHgfRjubldMy7V201014&isfromapp=1",
-        "date": "2020-10-13"
+        "title": "山东13日新增新冠肺炎本地确诊病例6例 均由无症状感染者转归",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiDLfHqMORZGCxjb5em23201014&isfromapp=1",
+        "date": "2020-10-14"
       },
       {
-        "title": "瑞典成为北欧第一个新冠肺炎确诊病例达10万例的国家",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu4yksRkGluWAqbFfAdQX201014&isfromapp=1",
-        "date": "2020-10-13"
+        "title": "哥伦比亚新冠肺炎确诊病例累计超92万 政府担心原住民游行加速疫情扩散",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLI9vOIBvSeW5Vll8V1r7201014&isfromapp=1",
+        "date": "2020-10-14"
       }
     ]
   },
@@ -17517,28 +17517,28 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "Git 看这一篇就够了",
-        "link": "https://juejin.im/post/6883287394675032077",
+        "title": "看懂Vue.js 3.0 的优化",
+        "link": "https://juejin.im/post/6883304258255470600",
         "date": "2020-10-13"
       },
       {
-        "title": "宏任务和微任务的一个小事",
-        "link": "https://juejin.im/post/6883282239182864397",
+        "title": "Vue3 文档阅读 —— reactivity 响应式基础",
+        "link": "https://juejin.im/post/6883122206214193159",
         "date": "2020-10-13"
       },
       {
-        "title": "ThreeJS 源码剖析之 Renderer（二）",
-        "link": "https://juejin.im/post/6883279461521817608",
+        "title": "Promise.then是如何实现链式调用的",
+        "link": "https://juejin.im/post/6883121706123132936",
         "date": "2020-10-13"
       },
       {
-        "title": "小程序-实现怎么跳转打开 H5 网页链接(或跳转至公众号文章)",
-        "link": "https://juejin.im/post/6883257102173749256",
+        "title": "前端Vue+后端Node.js，手撕一个文件上传功能",
+        "link": "https://juejin.im/post/6883113959394639885",
         "date": "2020-10-13"
       },
       {
-        "title": "Javascript -- 浅析箭头函数与普通函数的区别",
-        "link": "https://juejin.im/post/6883107074792767496",
+        "title": "浅析 useCallback 和 useMemo",
+        "link": "https://juejin.im/post/6883108068398202893",
         "date": "2020-10-13"
       }
     ]
@@ -17876,6 +17876,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "安全与风控---字节跳动内推",
+        "link": "https://www.v2ex.com/t/714783",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "手持 XR 准备再观望一年",
+        "link": "https://www.v2ex.com/t/714781",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "微信旅游小程序，找开发产品经理、前端和设计合伙人",
+        "link": "https://www.v2ex.com/t/714779",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "不要急着选，先看看 12 的内存是多少",
+        "link": "https://www.v2ex.com/t/714778",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "用 Docker swarm 快速部署分布式图数据库 Nebula Graph 集群",
+        "link": "https://www.v2ex.com/t/714777",
+        "date": "2020-10-14"
+      },
+      {
         "title": "10 月 16 日预售的几号发货?",
         "link": "https://www.v2ex.com/t/714772",
         "date": "2020-10-14"
@@ -18019,46 +18044,6 @@
         "title": "如何在新版本的 go 中 import 旧版本的标准库？",
         "link": "https://www.v2ex.com/t/714735",
         "date": "2020-10-14"
-      },
-      {
-        "title": "那个 MagSafe 无线充必须配合 MagSafe 保护壳吗，不能直接吸在裸的 iPhone 12 上吗？",
-        "link": "https://www.v2ex.com/t/714733",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "勤劳致富？",
-        "link": "https://www.v2ex.com/t/714730",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "果然还是 C2L",
-        "link": "https://www.v2ex.com/t/714729",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "mini 最大的进步还是屏幕的分辨率吧",
-        "link": "https://www.v2ex.com/t/714728",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "手持 iPhone 11 Pro Max 256G，年年焕新，换 12 应该怎么选？",
-        "link": "https://www.v2ex.com/t/714727",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "今年的 iPhone 怎么去香港买?",
-        "link": "https://www.v2ex.com/t/714726",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "「墨刀秋招」所有职位重新开放，前后端初中高级，实习/校招全都有「10-50k」「北京」",
-        "link": "https://www.v2ex.com/t/714725",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "求助： Air Pods Pro 充电仓丢失",
-        "link": "https://www.v2ex.com/t/714724",
-        "date": "2020-10-14"
       }
     ]
   },
@@ -18200,13 +18185,13 @@
         "date": "2020-10-14"
       },
       {
-        "title": "如何一步步 get 大厂前端 offer，或许你可以参考这份成长经历",
-        "link": "https://toutiao.io/k/ekbitqq",
+        "title": "Spring Cache，从入门到真香",
+        "link": "https://toutiao.io/k/d6px22i",
         "date": "2020-10-14"
       },
       {
-        "title": "Spring Cache，从入门到真香",
-        "link": "https://toutiao.io/k/d6px22i",
+        "title": "如何一步步 get 大厂前端 offer，或许你可以参考这份成长经历",
+        "link": "https://toutiao.io/k/ekbitqq",
         "date": "2020-10-14"
       },
       {
@@ -18265,58 +18250,8 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 架构师之路：服务器硬件扫盲",
-        "link": "https://toutiao.io/k/dsqwkye",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-14"
       },
       {
@@ -18325,8 +18260,58 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 架构师之路：服务器硬件扫盲",
+        "link": "https://toutiao.io/k/dsqwkye",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
         "date": "2020-10-14"
       }
     ]

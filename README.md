@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 03:14:05，:rocket: 更新条数: +3712， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 03:28:14，:rocket: 更新条数: +3709， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -98,8 +98,8 @@
 - [2020-10-14-北美观察丨确诊新冠肺炎的议员发言竟不戴口罩-美高层疫情扩散难收场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin7t0U1sctTxFnOYYsZWQ201014&isfromapp=1) ![](assets/new.png)  
 - [2020-10-14-北美观察丨疫情下的美国经济：持续低迷，近半经济学家认为2023年才会等来复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQTk9DZJZKkTFU9pLF3vf201014&isfromapp=1) ![](assets/new.png)  
 - [2020-10-14-青岛13日新冠肺炎确诊病例情况公布-均为无症状转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti72kY58daNxK4rp7b6QpN201014&isfromapp=1) ![](assets/new.png)  
-- [2020-10-13-乌克兰政府宣布将适应性隔离措施延长实施至年底](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4QZFXRHgfRjubldMy7V201014&isfromapp=1) ![](assets/new.png)  
-- [2020-10-13-瑞典成为北欧第一个新冠肺炎确诊病例达10万例的国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu4yksRkGluWAqbFfAdQX201014&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-山东13日新增新冠肺炎本地确诊病例6例-均由无症状感染者转归](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiDLfHqMORZGCxjb5em23201014&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-哥伦比亚新冠肺炎确诊病例累计超92万-政府担心原住民游行加速疫情扩散](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLI9vOIBvSeW5Vll8V1r7201014&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,11 +967,11 @@
 </summary>
 
 
-- [2020-10-13-Git-看这一篇就够了](https://juejin.im/post/6883287394675032077) ![](assets/new.png)  
-- [2020-10-13-宏任务和微任务的一个小事](https://juejin.im/post/6883282239182864397) ![](assets/new.png)  
-- [2020-10-13-ThreeJS-源码剖析之-Renderer（二）](https://juejin.im/post/6883279461521817608) ![](assets/new.png)  
-- [2020-10-13-小程序-实现怎么跳转打开-H5-网页链接或跳转至公众号文章](https://juejin.im/post/6883257102173749256) ![](assets/new.png)  
-- [2020-10-13-Javascript----浅析箭头函数与普通函数的区别](https://juejin.im/post/6883107074792767496) ![](assets/new.png)  
+- [2020-10-13-看懂Vue.js-3.0-的优化](https://juejin.im/post/6883304258255470600) ![](assets/new.png)  
+- [2020-10-13-Vue3-文档阅读-——-reactivity-响应式基础](https://juejin.im/post/6883122206214193159) ![](assets/new.png)  
+- [2020-10-13-Promise.then是如何实现链式调用的](https://juejin.im/post/6883121706123132936) ![](assets/new.png)  
+- [2020-10-13-前端Vue+后端Node.js，手撕一个文件上传功能](https://juejin.im/post/6883113959394639885) ![](assets/new.png)  
+- [2020-10-13-浅析-useCallback-和-useMemo](https://juejin.im/post/6883108068398202893) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-10-14-安全与风控---字节跳动内推](https://www.v2ex.com/t/714783) ![](assets/new.png)  
+- [2020-10-14-手持-XR-准备再观望一年](https://www.v2ex.com/t/714781) ![](assets/new.png)  
+- [2020-10-14-微信旅游小程序，找开发产品经理、前端和设计合伙人](https://www.v2ex.com/t/714779) ![](assets/new.png)  
+- [2020-10-14-不要急着选，先看看-12-的内存是多少](https://www.v2ex.com/t/714778) ![](assets/new.png)  
+- [2020-10-14-用-Docker-swarm-快速部署分布式图数据库-Nebula-Graph-集群](https://www.v2ex.com/t/714777) ![](assets/new.png)  
 - [2020-10-14-10-月-16-日预售的几号发货?](https://www.v2ex.com/t/714772) ![](assets/new.png)  
 - [2020-10-14-想知道大家对国产开源的-MATLAB-怎么看？](https://www.v2ex.com/t/714771) ![](assets/new.png)  
 - [2020-10-14-用资本战胜资本](https://www.v2ex.com/t/714770) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-10-14-上海杨浦-有没有-驾校可以推荐？？](https://www.v2ex.com/t/714756) ![](assets/new.png)  
 - [2020-10-14-我在苏宁买的东西收到了拼多多的派送短信](https://www.v2ex.com/t/714755) ![](assets/new.png)  
 - [2020-10-14-赴日-IT-软件工作-驻日-Python-工程师/赴日-Python-工程师](https://www.v2ex.com/t/714753) ![](assets/new.png)  
-- [2020-10-14-大家-WSL2-的时候有没有遇到过端口转发不生效的问题？](https://www.v2ex.com/t/714751) ![](assets/new.png)  
-- [2020-10-14-有问过苹果客服的老哥么？几号可以在直营店见到-iPhone12-真机？](https://www.v2ex.com/t/714749) ![](assets/new.png)  
-- [2020-10-14-腾讯没客服，其实是一种支配市场地位的行为。](https://www.v2ex.com/t/714748) ![](assets/new.png)  
-- [2020-10-14-Figma-资源-快速预览-Logo/分享图/品宣图-在微信场景的效果](https://www.v2ex.com/t/714747) ![](assets/new.png)  
-- [2020-10-14-我没有前端经验，但-1-天就搞定了开源项目主页](https://www.v2ex.com/t/714746) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,8 +1144,8 @@
 - [2020-10-14-图文结合，白话-Go-的垃圾回收原理](https://toutiao.io/k/51hfsz6) ![](assets/new.png)  
 - [2020-10-14-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [2020-10-14-如何提升微服务的幸福感？](https://toutiao.io/k/p8owj4t) ![](assets/new.png)  
-- [2020-10-14-如何一步步-get-大厂前端-offer，或许你可以参考这份成长经历](https://toutiao.io/k/ekbitqq) ![](assets/new.png)  
 - [2020-10-14-Spring-Cache，从入门到真香](https://toutiao.io/k/d6px22i) ![](assets/new.png)  
+- [2020-10-14-如何一步步-get-大厂前端-offer，或许你可以参考这份成长经历](https://toutiao.io/k/ekbitqq) ![](assets/new.png)  
 - [2020-10-14-CPU-执行程序的秘密，藏在了这-15-张图里](https://toutiao.io/k/rsqwh4k) ![](assets/new.png)  
 - [2020-10-14-如何制作-Sketch-插件](https://toutiao.io/k/xjsgd30) ![](assets/new.png)  
 - [2020-10-14-express-框架一些渗透技巧](https://toutiao.io/k/g69z6ga) ![](assets/new.png)  
@@ -1157,8 +1157,8 @@
 - [2020-10-14-Prometheus-监控-MongoDB-真的太方便了](https://toutiao.io/k/gmr7160) ![](assets/new.png)  
 - [2020-10-14-谈谈云厂商和开源软件间的紧张关系](https://toutiao.io/k/e3z8dl9) ![](assets/new.png)  
 - [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-14-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-14-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-14-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-14-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

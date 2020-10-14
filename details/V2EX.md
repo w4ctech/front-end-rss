@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-14 01:53:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 02:04:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-14-最近会陆续完善“基础算法系列”的视频教程，如果大家感兴趣，可以加入一起学习交流](https://www.v2ex.com/t/714720) 
+- [2020-10-14-再一次，由于运营商问题，国行-mini-不支持-esim-双卡](https://www.v2ex.com/t/714719) 
+- [2020-10-14-macbook-装-windows，有什么需要注意的地方么？](https://www.v2ex.com/t/714718) 
 - [2020-10-14-iPhone12-的宣传词我觉得可以这样写：唯一的亮点是毫无亮点](https://www.v2ex.com/t/714717) 
 - [2020-10-14-我讨厌与买家博弈，所以我选择官方年年焕新，你呢？](https://www.v2ex.com/t/714716) 
 - [2020-10-14-MBP2020-13-寸的-求推荐扩展坞](https://www.v2ex.com/t/714714) 
@@ -45,6 +48,3 @@
 - [2020-10-13-iPhone-12-Mini-不错](https://www.v2ex.com/t/714674) 
 - [2020-10-13-所以…Big-Sur-正式版啥时候发呢](https://www.v2ex.com/t/714673) 
 - [2020-10-13-iPhone12-mini-沒有雙卡](https://www.v2ex.com/t/714672) 
-- [2020-10-13-MagSafe-充电器](https://www.v2ex.com/t/714671) 
-- [2020-10-13-iPhone-12](https://www.v2ex.com/t/714670) 
-- [2020-10-13-HomePod-Mini](https://www.v2ex.com/t/714669) 

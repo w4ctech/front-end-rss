@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 01:53:43，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 02:04:22，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-10-14-最近会陆续完善“基础算法系列”的视频教程，如果大家感兴趣，可以加入一起学习交流](https://www.v2ex.com/t/714720) ![](assets/new.png)  
+- [2020-10-14-再一次，由于运营商问题，国行-mini-不支持-esim-双卡](https://www.v2ex.com/t/714719) ![](assets/new.png)  
+- [2020-10-14-macbook-装-windows，有什么需要注意的地方么？](https://www.v2ex.com/t/714718) ![](assets/new.png)  
 - [2020-10-14-iPhone12-的宣传词我觉得可以这样写：唯一的亮点是毫无亮点](https://www.v2ex.com/t/714717) ![](assets/new.png)  
 - [2020-10-14-我讨厌与买家博弈，所以我选择官方年年焕新，你呢？](https://www.v2ex.com/t/714716) ![](assets/new.png)  
 - [2020-10-14-MBP2020-13-寸的-求推荐扩展坞](https://www.v2ex.com/t/714714) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-10-14-Iphone12-最良心的就是-mini-版屏幕升级到-1080p](https://www.v2ex.com/t/714701) ![](assets/new.png)  
 - [2020-10-14-iPhone-5G-手机终于来了！市场却不买账？](https://www.v2ex.com/t/714700) ![](assets/new.png)  
 - [2020-10-14-如果-iPhone12-改名叫-iPhone4-Retro-2020-版-估计更会吸引人购买吧](https://www.v2ex.com/t/714699) ![](assets/new.png)  
-- [2020-10-14-北斗支持是需要硬件支持吗？](https://www.v2ex.com/t/714698) ![](assets/new.png)  
-- [2020-10-14-iPhone12-电源键下面的那个长条是什么](https://www.v2ex.com/t/714695) ![](assets/new.png)  
-- [2020-10-14-iphone12-和-pro-的外观应该完全一样吧？](https://www.v2ex.com/t/714694) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,13 +1132,13 @@
 - [2020-10-14-图解一致性哈希算法，全网（小区局域网）最通俗易懂](https://toutiao.io/k/zhbx7g2) ![](assets/new.png)  
 - [2020-10-14-端到端测试的-4-种处理测试数据的方法](https://toutiao.io/k/kmw0t3y) ![](assets/new.png)  
 - [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-14-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-14-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-14-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-14-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-14-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-14-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [2020-10-14-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-14-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
+- [2020-10-14-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-14-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-14-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-14-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-14-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

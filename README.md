@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 02:04:22，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 02:15:55，:rocket: 更新条数: +3484， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-10-13-10月13日全国新增新冠20例-山东本土6例](http://m.china.caixin.com/m/2020-10-14/101614397.html) ![](assets/new.png)  
+- [2020-10-13-大流行手记|10月13日：全球新冠病亡率下降-世卫官员反对群体免疫策略](https://m.caixin.com/m/2020-10-14/101614424.html) ![](assets/new.png)  
 - [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
 - [2020-10-12-最新海外疫情：新冠感染近3768万-累计死亡超107万](http://m.international.caixin.com/m/2020-10-13/101614226.html) ![](assets/new.png)  
 - [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-10-09-【境内疫情观察】全国新增39例无症状感染者（10月9日）](http://m.database.caixin.com/m/2020-10-10/101613339.html) ![](assets/new.png)  
 - [2020-10-09-大流行手记|10月9日：中国加入世卫疫苗计划-新冠或令婴儿死产率上升](https://m.caixin.com/m/2020-10-10/101613209.html) ![](assets/new.png)  
 - [2020-10-09-欧洲疫情反弹增速达全球最快-六成民众出现防控倦怠心态](http://m.international.caixin.com/m/2020-10-10/101613442.html) ![](assets/new.png)  
-- [2020-10-09-中国加入全球新冠疫苗实施计划-将向全球供应](https://m.caixin.com/m/2020-10-10/101613363.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +947,11 @@
 </summary>
 
 
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://juejin.im/post/6883291361206861831) ![](assets/new.png)  
 - [2020-10-13-蒲公英-·-JELLY技术周刊-Vol.25-·-Webpack-5-正式发布，你学废了么](https://juejin.im/post/6883285521137680397) ![](assets/new.png)  
 - [2020-10-13-《面试必备算法》系列-滑动窗口入门](https://juejin.im/post/6883259053108264974) ![](assets/new.png)  
 - [2020-10-13-Vue实现鼠标经过文字显示悬浮框效果](https://juejin.im/post/6883012479484428302) ![](assets/new.png)  
 - [2020-10-12-使用Vue搭建项目](https://juejin.im/post/6883010462011621390) ![](assets/new.png)  
-- [2020-10-12-前端架构之babel一之基础认识](https://juejin.im/post/6883007440531488775) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,15 @@
 </summary>
 
 
+- [2020-10-14-勤劳致富？](https://www.v2ex.com/t/714730) ![](assets/new.png)  
+- [2020-10-14-果然还是-C2L](https://www.v2ex.com/t/714729) ![](assets/new.png)  
+- [2020-10-14-mini-最大的进步还是屏幕的分辨率吧](https://www.v2ex.com/t/714728) ![](assets/new.png)  
+- [2020-10-14-手持-iPhone-11-Pro-Max-256G，年年焕新，换-12-应该怎么选？](https://www.v2ex.com/t/714727) ![](assets/new.png)  
+- [2020-10-14-今年的-iPhone-怎么去香港买?](https://www.v2ex.com/t/714726) ![](assets/new.png)  
+- [2020-10-14-「墨刀秋招」所有职位重新开放，前后端初中高级，实习/校招全都有「10-50k」「北京」](https://www.v2ex.com/t/714725) ![](assets/new.png)  
+- [2020-10-14-求助：-Air-Pods-Pro-充电仓丢失](https://www.v2ex.com/t/714724) ![](assets/new.png)  
+- [2020-10-14-有人知道-liuboping.com-吗？访问不到了](https://www.v2ex.com/t/714723) ![](assets/new.png)  
+- [2020-10-14-求推荐易上手的含数学符号笔记方案](https://www.v2ex.com/t/714722) ![](assets/new.png)  
 - [2020-10-14-最近会陆续完善“基础算法系列”的视频教程，如果大家感兴趣，可以加入一起学习交流](https://www.v2ex.com/t/714720) ![](assets/new.png)  
 - [2020-10-14-再一次，由于运营商问题，国行-mini-不支持-esim-双卡](https://www.v2ex.com/t/714719) ![](assets/new.png)  
 - [2020-10-14-macbook-装-windows，有什么需要注意的地方么？](https://www.v2ex.com/t/714718) ![](assets/new.png)  
@@ -1068,15 +1077,6 @@
 - [2020-10-14-ip12-的-oled,lcd-什么区别？全系列性能都一样吗？](https://www.v2ex.com/t/714711) ![](assets/new.png)  
 - [2020-10-14-各位老哥，请问你们的-ElasticSearch-在项目中是怎么应用的](https://www.v2ex.com/t/714710) ![](assets/new.png)  
 - [2020-10-14-一些软件（Win-系统）是如何做的不被-OBS-等录屏软件录制的？](https://www.v2ex.com/t/714708) ![](assets/new.png)  
-- [2020-10-14-PDD-的「硬核奋斗模式」？](https://www.v2ex.com/t/714707) ![](assets/new.png)  
-- [2020-10-14-学习计算机编程，如何更深入？](https://www.v2ex.com/t/714706) ![](assets/new.png)  
-- [2020-10-14-有解读-typescript-的-api-相关文章吗？](https://www.v2ex.com/t/714705) ![](assets/new.png)  
-- [2020-10-14-新-iPhone-讨论了这么多我还是更关心信号](https://www.v2ex.com/t/714704) ![](assets/new.png)  
-- [2020-10-14-eureka-nacos-consul-各位道友推荐用谁](https://www.v2ex.com/t/714703) ![](assets/new.png)  
-- [2020-10-14-Google-面试题：搜索二维矩阵-II](https://www.v2ex.com/t/714702) ![](assets/new.png)  
-- [2020-10-14-Iphone12-最良心的就是-mini-版屏幕升级到-1080p](https://www.v2ex.com/t/714701) ![](assets/new.png)  
-- [2020-10-14-iPhone-5G-手机终于来了！市场却不买账？](https://www.v2ex.com/t/714700) ![](assets/new.png)  
-- [2020-10-14-如果-iPhone12-改名叫-iPhone4-Retro-2020-版-估计更会吸引人购买吧](https://www.v2ex.com/t/714699) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,14 +1131,14 @@
 - [2020-10-14-express-框架一些渗透技巧](https://toutiao.io/k/g69z6ga) ![](assets/new.png)  
 - [2020-10-14-图解一致性哈希算法，全网（小区局域网）最通俗易懂](https://toutiao.io/k/zhbx7g2) ![](assets/new.png)  
 - [2020-10-14-端到端测试的-4-种处理测试数据的方法](https://toutiao.io/k/kmw0t3y) ![](assets/new.png)  
-- [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-14-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-14-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
-- [2020-10-14-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-14-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-14-聊一聊-Redis-官方置顶推荐的-Java-客户端-Redisson](https://toutiao.io/k/zfhki4y) ![](assets/new.png)  
 - [2020-10-14-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-14-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-14-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
 - [2020-10-14-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-14-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-14-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-14-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

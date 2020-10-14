@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-14 01:42:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 01:50:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -151,6 +151,7 @@
 - [【奇舞周刊】NPM-组件你应该知道的事](https://www.ershicimi.com/p/3c9627d8481776f3379c97830564c488)
 - [【前端日刊】webpack-这么牛X，你还不会用？](https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1)
 - [【JavaScript】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/d8422d39a04292c8f6028cf324761115)
+- [【掘金前端】蒲公英-·-JELLY技术周刊-Vol.25-·-Webpack-5-正式发布，你学废了么](https://juejin.im/post/6883285521137680397)
 - [【掘金前端】前端架构之babel一之基础认识](https://juejin.im/post/6883007440531488775)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [......【查看更多】......](./details/tags/pack-build.md)
@@ -390,8 +391,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html)
 - [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
 - [【程序员成长指北】腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/fd031a7c201d4d2d94d0750bedf5df48)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】一款被大家低估的微服务场景下性能问题排查神器！](https://www.ershicimi.com/p/15da6d82c5f2a839f3a61cd256c39ac3)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】ip12-的-oled,lcd-什么区别？全系列性能都一样吗？](https://www.v2ex.com/t/714711)
 - [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
 - [【开发者头条】推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9)
 - [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
@@ -459,6 +463,7 @@
 - [【V2EX】各位老哥，请问你们的-ElasticSearch-在项目中是怎么应用的](https://www.v2ex.com/t/714710)
 - [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】图解一致性哈希算法，全网（小区局域网）最通俗易懂](https://toutiao.io/k/zhbx7g2)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

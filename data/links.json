@@ -15658,7 +15658,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -16315,6 +16366,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "蒲公英 · JELLY技术周刊 Vol.25 · Webpack 5 正式发布，你学废了么",
+        "link": "https://juejin.im/post/6883285521137680397",
+        "date": "2020-10-13"
+      },
+      {
         "title": "《面试必备算法》系列 滑动窗口入门",
         "link": "https://juejin.im/post/6883259053108264974",
         "date": "2020-10-13"
@@ -16332,11 +16388,6 @@
       {
         "title": "前端架构之babel(一)之基础认识",
         "link": "https://juejin.im/post/6883007440531488775",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "JS高程之对象与创建对象的几种方法",
-        "link": "https://juejin.im/post/6883007160884674573",
         "date": "2020-10-12"
       }
     ]
@@ -16674,6 +16725,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iPhone12 的宣传词我觉得可以这样写：唯一的亮点是毫无亮点",
+        "link": "https://www.v2ex.com/t/714717",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "我讨厌与买家博弈，所以我选择官方年年焕新，你呢？",
+        "link": "https://www.v2ex.com/t/714716",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "MBP2020 13 寸的 求推荐扩展坞",
+        "link": "https://www.v2ex.com/t/714714",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "双十一 PDD 一定会有补贴价？",
+        "link": "https://www.v2ex.com/t/714713",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "上海联通国际连接今天突然变慢",
+        "link": "https://www.v2ex.com/t/714712",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "ip12 的 oled,lcd 什么区别？全系列性能都一样吗？",
+        "link": "https://www.v2ex.com/t/714711",
+        "date": "2020-10-14"
+      },
+      {
         "title": "各位老哥，请问你们的 ElasticSearch 在项目中是怎么应用的",
         "link": "https://www.v2ex.com/t/714710",
         "date": "2020-10-14"
@@ -16857,31 +16938,6 @@
         "title": "HomePod Mini",
         "link": "https://www.v2ex.com/t/714669",
         "date": "2020-10-13"
-      },
-      {
-        "title": "安全与风控字节跳动内推",
-        "link": "https://www.v2ex.com/t/714666",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "主机推荐（限京东）",
-        "link": "https://www.v2ex.com/t/714664",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "做了一年半的「好内容月报」，每月分享我看的书、电影听的播客以及值得阅读的各种信息，现在多了一个 Telegram 频道",
-        "link": "https://www.v2ex.com/t/714663",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "Mac 地址在日常上网时，会直接发送到网站服务器吗？",
-        "link": "https://www.v2ex.com/t/714662",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "话说大学是如何禁用 p2p 下载的，有什么办法能突破吗？",
-        "link": "https://www.v2ex.com/t/714661",
-        "date": "2020-10-13"
       }
     ]
   },
@@ -16890,6 +16946,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "敏捷项目管理需要知道的五类图表 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13813&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchats-for-agile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-14"
+      },
       {
         "title": "硬核！IDEA 中使用 Git 完整入门教程！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -16984,11 +17045,6 @@
         "title": "职场常备的 TOP 20 AI 产品工具 (www.jeffjade.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13794&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F09%2F23%2F170-list-of-top-20-ai-product-tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-10-14"
-      },
-      {
-        "title": "如何选择适合自己网站的防盗链 (zhuanlan.zhihu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13793&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F258380316%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-14"
       }
     ]
   },
@@ -17048,18 +17104,13 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "图解一致性哈希算法，全网（小区局域网）最通俗易懂",
+        "link": "https://toutiao.io/k/zhbx7g2",
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
+        "title": "端到端测试的 4 种处理测试数据的方法",
+        "link": "https://toutiao.io/k/kmw0t3y",
         "date": "2020-10-14"
       },
       {
@@ -17068,13 +17119,13 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
         "date": "2020-10-14"
       },
       {
@@ -17083,8 +17134,23 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-14"
       },
       {
@@ -17098,23 +17164,23 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-14"
       },
       {
         "title": "[推荐] 架构师之路：服务器硬件扫盲",
         "link": "https://toutiao.io/k/dsqwkye",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-14"
       }
     ]

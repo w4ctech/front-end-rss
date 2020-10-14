@@ -8920,7 +8920,7 @@
         "date": "2020-02-26"
       },
       {
-        "title": "地图|最新海外疫情：新冠感染近3732万 美国累计感染超776万",
+        "title": "地图|最新海外疫情：新冠感染超3793万 美国累计感染超785万",
         "link": "http://m.datanews.caixin.com/m/interactive/2020/pneumonia-h5/global.html",
         "date": "2020-02-26"
       },
@@ -16745,6 +16745,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "受一篇文章启发，写了个抖音去水印的小程序，方便分享视频",
+        "link": "https://www.v2ex.com/t/714936",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "iPhone 12 屏幕是 10 亿色（10 bit）的吗？",
+        "link": "https://www.v2ex.com/t/714933",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "大家都在用什么手机浏览器？",
+        "link": "https://www.v2ex.com/t/714932",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "1 块钱一瓶的水和 2 块钱一瓶的水你们买哪个？",
+        "link": "https://www.v2ex.com/t/714931",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "使用人工智能优化 Golang 编译器",
+        "link": "https://www.v2ex.com/t/714930",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "新 APP 上市，怎么样活跃用户气氛，是不是自己找员工冲水军",
+        "link": "https://www.v2ex.com/t/714929",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "iOS14 打开第三方键盘非常慢，打开自带的键盘就很快，这是通病吗？有没有解决办法？",
+        "link": "https://www.v2ex.com/t/714928",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "各位大佬，估个价",
+        "link": "https://www.v2ex.com/t/714927",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "苹果官网员工优惠能不能参与‘预定’，还是只能买官网‘有货’的产品？",
+        "link": "https://www.v2ex.com/t/714926",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[华为社招/C C++ Java 前端] 中国区明星产品 IdeaHub 办公宝",
+        "link": "https://www.v2ex.com/t/714925",
+        "date": "2020-10-14"
+      },
+      {
         "title": "用 FastStone Capture 截屏软件抠图做表情包，草率了！",
         "link": "https://www.v2ex.com/t/714924",
         "date": "2020-10-14"
@@ -16898,56 +16948,6 @@
         "title": "大胆猜测一下，明年各大安卓旗舰手机会不会支持环保事业呢？ 手动狗头 0.0",
         "link": "https://www.v2ex.com/t/714887",
         "date": "2020-10-14"
-      },
-      {
-        "title": "戴 Apple Watch 皮肤起油",
-        "link": "https://www.v2ex.com/t/714885",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[招聘帖] 内推 Java 开发工程师（望京某厂）",
-        "link": "https://www.v2ex.com/t/714884",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "混盾钓鱼",
-        "link": "https://www.v2ex.com/t/714883",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "弱弱的请教一个 Loki 的配置问题",
-        "link": "https://www.v2ex.com/t/714882",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "极客时间的骚扰电话最近有人接到了吗",
-        "link": "https://www.v2ex.com/t/714881",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "请问用 iPhone 11 的盆友平时杀后台严重吗？打开相机呐？",
-        "link": "https://www.v2ex.com/t/714880",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "思来想去还是打算自己装机，求帮忙看看配置有问题没",
-        "link": "https://www.v2ex.com/t/714879",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "如何给某个号码每个月自动交话费？",
-        "link": "https://www.v2ex.com/t/714878",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "请问“发布这个内容需要你已经注册满 270 天”是什么意思？",
-        "link": "https://www.v2ex.com/t/714877",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[上海] 智能楼宇自动化创业公司招后端/嵌入式软件/嵌入式硬件",
-        "link": "https://www.v2ex.com/t/714876",
-        "date": "2020-10-14"
       }
     ]
   },
@@ -17074,13 +17074,13 @@
         "date": "2020-10-14"
       },
       {
-        "title": "如何制作 Sketch 插件",
-        "link": "https://toutiao.io/k/xjsgd30",
+        "title": "如何一步步 get 大厂前端 offer，或许你可以参考这份成长经历",
+        "link": "https://toutiao.io/k/ekbitqq",
         "date": "2020-10-14"
       },
       {
-        "title": "如何一步步 get 大厂前端 offer，或许你可以参考这份成长经历",
-        "link": "https://toutiao.io/k/ekbitqq",
+        "title": "如何制作 Sketch 插件",
+        "link": "https://toutiao.io/k/xjsgd30",
         "date": "2020-10-14"
       },
       {
@@ -17124,13 +17124,13 @@
         "date": "2020-10-14"
       },
       {
-        "title": "端到端测试的 4 种处理测试数据的方法",
-        "link": "https://toutiao.io/k/kmw0t3y",
+        "title": "Go 设计模式 （十七）：状态模式",
+        "link": "https://toutiao.io/k/w4bj8bx",
         "date": "2020-10-14"
       },
       {
-        "title": "Go 设计模式 （十七）：状态模式",
-        "link": "https://toutiao.io/k/w4bj8bx",
+        "title": "端到端测试的 4 种处理测试数据的方法",
+        "link": "https://toutiao.io/k/kmw0t3y",
         "date": "2020-10-14"
       },
       {
@@ -17164,33 +17164,13 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-14"
       },
       {
@@ -17199,8 +17179,8 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-14"
       },
       {
@@ -17209,8 +17189,18 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
         "date": "2020-10-14"
       },
       {
@@ -17224,13 +17214,23 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-14"
       }
     ]

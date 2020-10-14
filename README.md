@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 23:27:30，:rocket: 更新条数: +3717， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 23:32:48，:rocket: 更新条数: +3717， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-10-14-北美观察丨确诊新冠肺炎的议员发言竟不戴口罩-美高层疫情扩散难收场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin7t0U1sctTxFnOYYsZWQ201014&isfromapp=1) ![](assets/new.png)  
-- [2020-10-14-北美观察丨疫情下的美国经济：持续低迷，近半经济学家认为2023年才会等来复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQTk9DZJZKkTFU9pLF3vf201014&isfromapp=1) ![](assets/new.png)  
-- [2020-10-14-青岛13日新冠肺炎确诊病例情况公布-均为无症状转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti72kY58daNxK4rp7b6QpN201014&isfromapp=1) ![](assets/new.png)  
-- [2020-10-14-山东13日新增新冠肺炎本地确诊病例6例-均由无症状感染者转归](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiDLfHqMORZGCxjb5em23201014&isfromapp=1) ![](assets/new.png)  
-- [2020-10-14-哥伦比亚新冠肺炎确诊病例累计超92万-政府担心原住民游行加速疫情扩散](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLI9vOIBvSeW5Vll8V1r7201014&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-哥伦比亚累计新冠肺炎确诊病例逾93万-首都部分私立学校恢复面授课程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifPMbf0doOjixstxHfcqp201015&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-美国第一夫人梅拉尼娅透露：其子巴伦·特朗普曾确诊感染新冠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFopE0ibcEHr2CivVhxGr201015&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-法国疫情形势严峻-巴黎等多地将实施宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ey6O8AxDg3gHBMTIBeW201015&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-美劳工部长宣布居家隔离-其妻新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZzoH3FaoTHr2EBz7SKDB201015&isfromapp=1) ![](assets/new.png)  
+- [2020-10-14-意大利新冠肺炎新增7332例-教育部长表示学校不会停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIOV0dYSghgCF8fYZslZD201014&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-10-14-臻财资产-招聘汇总-|-量化研究/技术岗---上海](https://www.v2ex.com/t/715063) ![](assets/new.png)  
 - [2020-10-14-大家忘了一个重要的点](https://www.v2ex.com/t/715062) ![](assets/new.png)  
 - [2020-10-14-长焦镜头什么时候会被调用？](https://www.v2ex.com/t/715061) ![](assets/new.png)  
 - [2020-10-14-有没有正在刷-LeetCode-的小伙伴们？](https://www.v2ex.com/t/715059) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-10-14-雅思-g-类](https://www.v2ex.com/t/715039) ![](assets/new.png)  
 - [2020-10-14-微信支付的身份证你们都传了吗](https://www.v2ex.com/t/715037) ![](assets/new.png)  
 - [2020-10-14-对同一-viewset-的不同-action-方法不同的-authenticaltion-是否可行？](https://www.v2ex.com/t/715036) ![](assets/new.png)  
-- [2020-10-14-。。。。](https://www.v2ex.com/t/715035) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

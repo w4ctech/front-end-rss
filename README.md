@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 18:33:45，:rocket: 更新条数: +3719， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 18:41:50，:rocket: 更新条数: +3719， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-10-14-非专业程序员请教学习强国题库获取思路](https://www.v2ex.com/t/715057) ![](assets/new.png)  
+- [2020-10-14-有老哥了解软件测试的吗，求科普行业现状](https://www.v2ex.com/t/715056) ![](assets/new.png)  
 - [2020-10-14-招聘技术牛人-c++-坐标:迪拜-月薪-100k-起-联系方式-qq957479245-telegram:+63-9614042063](https://www.v2ex.com/t/715055) ![](assets/new.png)  
 - [2020-10-14-不懂就问，-Git-的中文名字是什么？](https://www.v2ex.com/t/715054) ![](assets/new.png)  
 - [2020-10-14-20201015-午夜俱乐部](https://www.v2ex.com/t/715051) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-10-14-。。。。](https://www.v2ex.com/t/715035) ![](assets/new.png)  
 - [2020-10-14-鹏博士集团产业互联网事业部-诚招-Python-,前端,基础架构（可居家办公武汉/北京](https://www.v2ex.com/t/715033) ![](assets/new.png)  
 - [2020-10-14-一个专注热榜的-RSS-服务](https://www.v2ex.com/t/715032) ![](assets/new.png)  
-- [2020-10-14-成都-蚂蚁成都前端招聘-20-40K-16-薪-工作经验-1-3-年](https://www.v2ex.com/t/715030) ![](assets/new.png)  
-- [2020-10-14-我真的好好奇同龄异性都在想啥](https://www.v2ex.com/t/715029) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 12:04:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 12:18:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,8 +31,6 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-10-13-clientX/screenX/offsetX/pageX等属性一览](https://juejin.im/post/6883353218319908871) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-10-14-如何调试-Erlang-NIF-C-层代码？](https://www.v2ex.com/t/714965) 
-- [2020-10-14-大家都在用什么手机浏览器？](https://www.v2ex.com/t/714932) 
 - [2020-10-14-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-14-如何一步步-get-大厂前端-offer，或许你可以参考这份成长经历](https://toutiao.io/k/ekbitqq) 
 - [2020-10-14-15日晚七点半,GeekPwn云安全挑战赛赛前大揭秘!](https://sec.thief.one/article_content?a_id=dc1cb1828601e144623ae6b1e9425b16) 

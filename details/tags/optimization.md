@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 12:04:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 12:18:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -15,8 +15,7 @@
 - [2020-10-11-一款被大家低估的微服务场景下性能问题排查神器！](https://www.ershicimi.com/p/15da6d82c5f2a839f3a61cd256c39ac3) 
 - [2020-10-14-Web-Performance-Metrics-与-Core-Web-Vitals-简介-——-现代前端性能各个指标的具体含义和设计理念](https://juejin.im/post/6883444297614983175) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2020-10-14-使用人工智能优化-Golang-编译器](https://www.v2ex.com/t/714930) 
-- [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) 
-- [2020-10-14-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) 
 - [2020-10-14-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) 
+- [2020-10-14-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) 
+- [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) 
 - [2020-10-14-如何优雅地给妹子优化电脑Windows?](https://sec.thief.one/article_content?a_id=98e852af35513445e007a9634199781b) 

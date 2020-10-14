@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 00:08:31，:rocket: 更新条数: +3468， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 00:38:05，:rocket: 更新条数: +3477， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-10-14-win7-如何设置资源管理器界面的颜色主题为暗黑风格？](https://www.v2ex.com/t/714692) ![](assets/new.png)  
+- [2020-10-14-iphone11-贴-3600-换-12mini-值不值](https://www.v2ex.com/t/714691) ![](assets/new.png)  
+- [2020-10-14-请问这个时间点买哪款-iPhone](https://www.v2ex.com/t/714690) ![](assets/new.png)  
+- [2020-10-14-有没有一次性杯子品牌推荐？](https://www.v2ex.com/t/714689) ![](assets/new.png)  
+- [2020-10-14-iphone12-值得购买吗？](https://www.v2ex.com/t/714688) ![](assets/new.png)  
 - [2020-10-14-C++开发职位汇总](https://www.v2ex.com/t/714687) ![](assets/new.png)  
 - [2020-10-13-年年焕新第十三个月没有新机器预售怎么办？](https://www.v2ex.com/t/714686) ![](assets/new.png)  
 - [2020-10-13-这次发布会，我最期待的不是手机，是-ARM-版笔记本，竟然没有](https://www.v2ex.com/t/714684) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-10-13-所以…Big-Sur-正式版啥时候发呢](https://www.v2ex.com/t/714673) ![](assets/new.png)  
 - [2020-10-13-iPhone12-mini-沒有雙卡](https://www.v2ex.com/t/714672) ![](assets/new.png)  
 - [2020-10-13-MagSafe-充电器](https://www.v2ex.com/t/714671) ![](assets/new.png)  
-- [2020-10-13-iPhone-12](https://www.v2ex.com/t/714670) ![](assets/new.png)  
-- [2020-10-13-HomePod-Mini](https://www.v2ex.com/t/714669) ![](assets/new.png)  
-- [2020-10-13-安全与风控字节跳动内推](https://www.v2ex.com/t/714666) ![](assets/new.png)  
-- [2020-10-13-主机推荐（限京东）](https://www.v2ex.com/t/714664) ![](assets/new.png)  
-- [2020-10-13-做了一年半的「好内容月报」，每月分享我看的书、电影听的播客以及值得阅读的各种信息，现在多了一个-Telegram-频道](https://www.v2ex.com/t/714663) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,20 +1120,25 @@
 
 
 - [2020-10-14-图文结合，白话-Go-的垃圾回收原理](https://toutiao.io/k/51hfsz6) ![](assets/new.png)  
-- [2020-10-14-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-14-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-14-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-14-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-14-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-14-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-14-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-14-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-14-推荐-架构师之路：服务器硬件扫盲](https://toutiao.io/k/dsqwkye) ![](assets/new.png)  
+- [2020-10-14-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-14-如何提升微服务的幸福感？](https://toutiao.io/k/p8owj4t) ![](assets/new.png)  
+- [2020-10-14-如何一步步-get-大厂前端-offer，或许你可以参考这份成长经历](https://toutiao.io/k/ekbitqq) ![](assets/new.png)  
+- [2020-10-14-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-14-虚拟机系列：JVM-执行引擎和垃圾回收](https://toutiao.io/k/hvkhrg3) ![](assets/new.png)  
+- [2020-10-14-如何制作-Sketch-插件](https://toutiao.io/k/xjsgd30) ![](assets/new.png)  
+- [2020-10-14-Spring-Cache，从入门到真香](https://toutiao.io/k/d6px22i) ![](assets/new.png)  
+- [2020-10-14-CPU-执行程序的秘密，藏在了这-15-张图里](https://toutiao.io/k/rsqwh4k) ![](assets/new.png)  
+- [2020-10-14-express-框架一些渗透技巧](https://toutiao.io/k/g69z6ga) ![](assets/new.png)  
 - [2020-10-14-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-14-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-14-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-14-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-14-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
 - [2020-10-14-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-14-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
 - [2020-10-14-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-14-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-14-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

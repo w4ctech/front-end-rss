@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-14 15:49:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 16:04:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-14-雅思-g-类](https://www.v2ex.com/t/715039) 
 - [2020-10-14-微信支付的身份证你们都传了吗](https://www.v2ex.com/t/715037) 
 - [2020-10-14-对同一-viewset-的不同-action-方法不同的-authenticaltion-是否可行？](https://www.v2ex.com/t/715036) 
 - [2020-10-14-。。。。](https://www.v2ex.com/t/715035) 
@@ -44,4 +45,3 @@
 - [2020-10-14-找朋友，“运动控制”“机器视觉”“上位机开发”的可以交流下](https://www.v2ex.com/t/714992) 
 - [2020-10-14-自行开发-APP，怎么样调用打印机](https://www.v2ex.com/t/714991) 
 - [2020-10-14-如何评价-go-zero-微服务框架？](https://www.v2ex.com/t/714990) 
-- [2020-10-14-问个问题，如何在单页应用中使用-npm-包？如何在手机应用中引用-npm-包？](https://www.v2ex.com/t/714988) 

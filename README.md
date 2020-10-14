@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 19:25:55，:rocket: 更新条数: +3719， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 19:32:45，:rocket: 更新条数: +3719， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-10-14-我突然产生一个邪恶的营销模式](https://www.v2ex.com/t/715058) ![](assets/new.png)  
 - [2020-10-14-非专业程序员请教学习强国题库获取思路](https://www.v2ex.com/t/715057) ![](assets/new.png)  
 - [2020-10-14-有老哥了解软件测试的吗，求科普行业现状](https://www.v2ex.com/t/715056) ![](assets/new.png)  
 - [2020-10-14-招聘技术牛人-c++-坐标:迪拜-月薪-100k-起-联系方式-qq957479245-telegram:+63-9614042063](https://www.v2ex.com/t/715055) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-10-14-对同一-viewset-的不同-action-方法不同的-authenticaltion-是否可行？](https://www.v2ex.com/t/715036) ![](assets/new.png)  
 - [2020-10-14-。。。。](https://www.v2ex.com/t/715035) ![](assets/new.png)  
 - [2020-10-14-鹏博士集团产业互联网事业部-诚招-Python-,前端,基础架构（可居家办公武汉/北京](https://www.v2ex.com/t/715033) ![](assets/new.png)  
-- [2020-10-14-一个专注热榜的-RSS-服务](https://www.v2ex.com/t/715032) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

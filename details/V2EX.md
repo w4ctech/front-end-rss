@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2020-10-14 07:14:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 07:28:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-14-Mini-Calendar-v1.0---iOS14-日历小组件](https://www.v2ex.com/t/714873) 
+- [2020-10-14-MySQL-体系架构原理学习笔记](https://www.v2ex.com/t/714872) 
+- [2020-10-14-移动积分免费换话费，亲测有效！](https://www.v2ex.com/t/714871) 
+- [2020-10-14--Java-求教-V-友-Java-大神-Java-.sql.Timestamp-类型获取时间结果偏差](https://www.v2ex.com/t/714870) 
+- [2020-10-14-推荐一款-steam-或者其他平台上的适合双人玩的游戏](https://www.v2ex.com/t/714868) 
+- [2020-10-14-想自学-Python-求各位大佬指点](https://www.v2ex.com/t/714867) 
+- [2020-10-14-吃东西后一直有哽咽感，嗳不出气，偶尔烧心，终于去看医生了。](https://www.v2ex.com/t/714865) 
+- [2020-10-14-多多记账凉了吗？国庆回来就突然不能用了。](https://www.v2ex.com/t/714864) 
+- [2020-10-14-很划算，亚马逊做活动，有需要可以看下](https://www.v2ex.com/t/714863) 
 - [2020-10-14-武汉（Android/iOS-钐秾科技](https://www.v2ex.com/t/714862) 
 - [2020-10-14-Android-studio-的图标改的太迷惑了](https://www.v2ex.com/t/714861) 
 - [2020-10-14-被一个叫-LinkedIn-的网站短信骚扰怎么投诉？](https://www.v2ex.com/t/714860) 
@@ -35,13 +44,3 @@
 - [2020-10-14-不懂就问：出租屋内放摄像头，有什么推荐么？如何保护隐私？](https://www.v2ex.com/t/714827) 
 - [2020-10-14-Codespaces-可以使用了~-收到测试邮件了~](https://www.v2ex.com/t/714825) 
 - [2020-10-14-iPhone12-环保？我呸！](https://www.v2ex.com/t/714824) 
-- [2020-10-14-可不可以自制基站，自己下发-sim-卡？](https://www.v2ex.com/t/714823) 
-- [2020-10-14-推荐一下鼠标吧](https://www.v2ex.com/t/714822) 
-- [2020-10-14-这种同事和部门应该怎么适应和应对](https://www.v2ex.com/t/714821) 
-- [2020-10-14-看-Hacker-News-的-V-友多吗？](https://www.v2ex.com/t/714820) 
-- [2020-10-14-想在双十一入手一台-4K-电视机，谁给推荐下](https://www.v2ex.com/t/714818) 
-- [2020-10-14-iPhone-11-在哪个平台卖比较好？](https://www.v2ex.com/t/714817) 
-- [2020-10-14-没怎么在咸鱼卖过电子产品，想问一下我的-iPad-Pro-大概能卖多少钱](https://www.v2ex.com/t/714816) 
-- [2020-10-14-上海17k-30k实习/应届/社招DevOpsFormal-Verification-EDA](https://www.v2ex.com/t/714815) 
-- [2020-10-14-SJTUG-的-OCaml-OPAM-镜像上线了](https://www.v2ex.com/t/714814) 
-- [2020-10-14-iPhone-12-的-5G「自动转用」是怎么判断的？](https://www.v2ex.com/t/714813) 

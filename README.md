@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 13:49:21，:rocket: 更新条数: +3488， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 14:04:25，:rocket: 更新条数: +3487， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,8 +1057,9 @@
 </summary>
 
 
+- [2020-10-14-有没有-12-寸以上用来看剧的平板推荐？性价比越高越好](https://www.v2ex.com/t/715013) ![](assets/new.png)  
+- [2020-10-14-喜欢单手握持-出了-iPhone-11-搞个-12-mini-值不值](https://www.v2ex.com/t/715012) ![](assets/new.png)  
 - [2020-10-14-v2ex-怎么删帖？](https://www.v2ex.com/t/715011) ![](assets/new.png)  
-- [2020-10-14-果然是-iV2x](https://www.v2ex.com/t/715010) ![](assets/new.png)  
 - [2020-10-14-下班闲的无聊，记一个-27-岁“大龄”单身女找对象历程](https://www.v2ex.com/t/715009) ![](assets/new.png)  
 - [2020-10-14-各位大佬，有了解过拍拍贷的技术架构的吗？知道的，能说下吗？](https://www.v2ex.com/t/715008) ![](assets/new.png)  
 - [2020-10-14-如何继续我的算法秋招？](https://www.v2ex.com/t/715007) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-14-找朋友，“运动控制”“机器视觉”“上位机开发”的可以交流下](https://www.v2ex.com/t/714992) ![](assets/new.png)  
 - [2020-10-14-自行开发-APP，怎么样调用打印机](https://www.v2ex.com/t/714991) ![](assets/new.png)  
 - [2020-10-14-如何评价-go-zero-微服务框架？](https://www.v2ex.com/t/714990) ![](assets/new.png)  
-- [2020-10-14-问个问题，如何在单页应用中使用-npm-包？如何在手机应用中引用-npm-包？](https://www.v2ex.com/t/714988) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

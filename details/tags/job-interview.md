@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 09:49:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 10:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -39,6 +39,6 @@
 - [2020-10-12-Redis-怎么防止数据丢失？面试必问！](https://www.ershicimi.com/p/e33e27614c53b77e9c42986cd3f93352) 
 - [2020-10-07-Redis-面试-8-连问，你能顶住几道？](https://www.ershicimi.com/p/d100b68da538455fb72721a4b87084f9) 
 - [2020-10-12-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/7b5d3d44dc2558958e73ac7eaad5ed4e) 
+- [2020-10-14-免费讲座-进阶阿里-web-岗，面试必备技能指导](https://www.v2ex.com/t/714950) 
 - [2020-10-14-北京-望京-高德前端研发团队招聘-高级前端开发~](https://www.v2ex.com/t/714920) 
-- [2020-10-14-免费公开课-大厂面试评分标准+行为类问题大分享](https://www.v2ex.com/t/714898) 
 - [2020-10-14-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 

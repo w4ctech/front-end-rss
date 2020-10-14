@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-14 14:47:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 14:49:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -460,6 +460,7 @@
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】老板说“把系统升级到https”，我用一个脚本实现了，而且永久免费！](https://www.ershicimi.com/p/34456a649b238caa1dd9327833fcd3ff)
+- [【V2EX】如何继续我的算法秋招？](https://www.v2ex.com/t/715007)
 - [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】图解一致性哈希算法，全网（小区局域网）最通俗易懂](https://toutiao.io/k/zhbx7g2)
@@ -502,6 +503,7 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】Windows-最好的-Git-命令行使用姿势是什么？](https://www.v2ex.com/t/715021)
 - [【技术头条】硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-14 17:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 17:13:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-14-macOS-Big-Sur-beta10-发布](https://www.v2ex.com/t/715048) 
 - [2020-10-14-go-后端面经来一点推荐-xdm](https://www.v2ex.com/t/715045) 
 - [2020-10-14-WASMan:-基于纯-Go-的-WebAssembly-引擎](https://www.v2ex.com/t/715044) 
 - [2020-10-14-Mac-的-app-会像-win-一样，随意收集信息吗](https://www.v2ex.com/t/715043) 
@@ -42,4 +43,3 @@
 - [2020-10-14-双十一主板降价幅度大吗？](https://www.v2ex.com/t/715002) 
 - [2020-10-14-请教一个-gin-绑定-json-时忽略为空字段的问题](https://www.v2ex.com/t/715001) 
 - [2020-10-14-Pv、Pvc-，实际使用量如何查看？](https://www.v2ex.com/t/714999) 
-- [2020-10-14-今天收到群晖的邮件，关于国区群晖账号的验证（手机号）。](https://www.v2ex.com/t/714998) 

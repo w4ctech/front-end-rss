@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 03:47:21，:rocket: 更新条数: +3710， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 04:04:11，:rocket: 更新条数: +3712， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,15 @@
 </summary>
 
 
+- [2020-10-14-MacBook-中下载的第三方软件、客户端会获取电脑中的设备信息吗](https://www.v2ex.com/t/714802) ![](assets/new.png)  
+- [2020-10-14-荔枝微课-后端开发工程师，直招，投简历面试都有回复](https://www.v2ex.com/t/714801) ![](assets/new.png)  
+- [2020-10-14-阿里的无影，现在真的无影了吗？](https://www.v2ex.com/t/714800) ![](assets/new.png)  
+- [2020-10-14-感觉现在的手机对极少拍照的人很不友好](https://www.v2ex.com/t/714799) ![](assets/new.png)  
+- [2020-10-14-iPhone11-估价](https://www.v2ex.com/t/714798) ![](assets/new.png)  
+- [2020-10-14-Python-in-a-nutshell](https://www.v2ex.com/t/714797) ![](assets/new.png)  
+- [2020-10-14-微信信息管理](https://www.v2ex.com/t/714796) ![](assets/new.png)  
+- [2020-10-14-现在的安卓手机用来打游戏，相比-PC-和游戏机，是不是在逐渐丧失其成本优势？](https://www.v2ex.com/t/714795) ![](assets/new.png)  
+- [2020-10-14-大家为什么需要-5G-手机，到底是手机上的什么应用场景需要-5G？](https://www.v2ex.com/t/714793) ![](assets/new.png)  
 - [2020-10-14-使用-Flutter-快速实现聊天应用](https://www.v2ex.com/t/714792) ![](assets/new.png)  
 - [2020-10-14-问个微服务调用问题。](https://www.v2ex.com/t/714791) ![](assets/new.png)  
 - [2020-10-14-无线充电转换效率比有线差多少?](https://www.v2ex.com/t/714790) ![](assets/new.png)  
@@ -1088,15 +1097,6 @@
 - [2020-10-14-安全与风控---字节跳动内推](https://www.v2ex.com/t/714783) ![](assets/new.png)  
 - [2020-10-14-手持-XR-准备再观望一年](https://www.v2ex.com/t/714781) ![](assets/new.png)  
 - [2020-10-14-做旅游小程序，找开发产品经理、前端和设计合伙人](https://www.v2ex.com/t/714779) ![](assets/new.png)  
-- [2020-10-14-不要急着选，先看看-12-的内存是多少](https://www.v2ex.com/t/714778) ![](assets/new.png)  
-- [2020-10-14-用-Docker-swarm-快速部署分布式图数据库-Nebula-Graph-集群](https://www.v2ex.com/t/714777) ![](assets/new.png)  
-- [2020-10-14-10-月-16-日预售的几号发货?](https://www.v2ex.com/t/714772) ![](assets/new.png)  
-- [2020-10-14-想知道大家对国产开源的-MATLAB-怎么看？](https://www.v2ex.com/t/714771) ![](assets/new.png)  
-- [2020-10-14-用资本战胜资本](https://www.v2ex.com/t/714770) ![](assets/new.png)  
-- [2020-10-14-坐久了会觉得屁股麻吗](https://www.v2ex.com/t/714769) ![](assets/new.png)  
-- [2020-10-14-GitHub-公共-OKR-池，欢迎大家使用和贡献](https://www.v2ex.com/t/714768) ![](assets/new.png)  
-- [2020-10-14-有老哥关注没有-LCD-屏幕吗](https://www.v2ex.com/t/714764) ![](assets/new.png)  
-- [2020-10-14-iPhone-5s-还有必要用吗？](https://www.v2ex.com/t/714763) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1156,9 +1156,9 @@
 - [2020-10-14-硬核：华为鸿蒙系统尖刀武器之分布式软总线技术](https://toutiao.io/k/kp14unp) ![](assets/new.png)  
 - [2020-10-14-安卓-so-文件解析详解](https://toutiao.io/k/hf1nfns) ![](assets/new.png)  
 - [2020-10-14-谈谈云厂商和开源软件间的紧张关系](https://toutiao.io/k/e3z8dl9) ![](assets/new.png)  
+- [2020-10-14-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-14-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-14-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-14-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

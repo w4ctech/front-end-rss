@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 00:38:05，:rocket: 更新条数: +3477， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 01:10:42，:rocket: 更新条数: +3478， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-10-12-最新疫情：全国新冠累计确诊85591例-本土山东新增6例](http://m.china.caixin.com/m/2020-10-13/101614109.html) ![](assets/new.png)  
+- [2020-10-13-10月13日全国新增新冠20例-山东本土6例](http://m.china.caixin.com/m/2020-10-14/101614397.html) ![](assets/new.png)  
 - [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
 - [2020-10-12-最新海外疫情：新冠感染近3768万-累计死亡超107万](http://m.international.caixin.com/m/2020-10-13/101614226.html) ![](assets/new.png)  
 - [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
@@ -1057,6 +1057,14 @@
 </summary>
 
 
+- [2020-10-14-Google-面试题：搜索二维矩阵-II](https://www.v2ex.com/t/714702) ![](assets/new.png)  
+- [2020-10-14-Iphone12-最良心的就是-mini-版屏幕升级到-1080p](https://www.v2ex.com/t/714701) ![](assets/new.png)  
+- [2020-10-14-iPhone-5G-手机终于来了！市场却不买账？](https://www.v2ex.com/t/714700) ![](assets/new.png)  
+- [2020-10-14-如果-iPhone12-改名叫-iPhone4-Retro-2020-版-估计更会吸引人购买吧](https://www.v2ex.com/t/714699) ![](assets/new.png)  
+- [2020-10-14-北斗支持是需要硬件支持吗？](https://www.v2ex.com/t/714698) ![](assets/new.png)  
+- [2020-10-14-iPhone12-电源键下面的那个长条是什么](https://www.v2ex.com/t/714695) ![](assets/new.png)  
+- [2020-10-14-iphone12-和-pro-的外观应该完全一样吧？](https://www.v2ex.com/t/714694) ![](assets/new.png)  
+- [2020-10-14-现代化-Java-关键词排行](https://www.v2ex.com/t/714693) ![](assets/new.png)  
 - [2020-10-14-win7-如何设置资源管理器界面的颜色主题为暗黑风格？](https://www.v2ex.com/t/714692) ![](assets/new.png)  
 - [2020-10-14-iphone11-贴-3600-换-12mini-值不值](https://www.v2ex.com/t/714691) ![](assets/new.png)  
 - [2020-10-14-请问这个时间点买哪款-iPhone](https://www.v2ex.com/t/714690) ![](assets/new.png)  
@@ -1069,14 +1077,6 @@
 - [2020-10-13-只有一根线](https://www.v2ex.com/t/714681) ![](assets/new.png)  
 - [2020-10-13-iPhone12-全系国行售价-5499-起，感觉苹果又飘了。](https://www.v2ex.com/t/714680) ![](assets/new.png)  
 - [2020-10-13-股票系统开发工程师-上海/北京-40-100-万](https://www.v2ex.com/t/714679) ![](assets/new.png)  
-- [2020-10-13-杭州有数据砖-Databricks-的开发中心吗？](https://www.v2ex.com/t/714678) ![](assets/new.png)  
-- [2020-10-13-Risk-Developer-领先对冲基金-北京/上海-40-100-万](https://www.v2ex.com/t/714677) ![](assets/new.png)  
-- [2020-10-13-对于苹果砍掉标配充电器有什么看法吗？](https://www.v2ex.com/t/714676) ![](assets/new.png)  
-- [2020-10-13-iOS14.1-的更新大家都收到了吗？](https://www.v2ex.com/t/714675) ![](assets/new.png)  
-- [2020-10-13-iPhone-12-Mini-不错](https://www.v2ex.com/t/714674) ![](assets/new.png)  
-- [2020-10-13-所以…Big-Sur-正式版啥时候发呢](https://www.v2ex.com/t/714673) ![](assets/new.png)  
-- [2020-10-13-iPhone12-mini-沒有雙卡](https://www.v2ex.com/t/714672) ![](assets/new.png)  
-- [2020-10-13-MagSafe-充电器](https://www.v2ex.com/t/714671) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,26 +1119,26 @@
 </summary>
 
 
-- [2020-10-14-图文结合，白话-Go-的垃圾回收原理](https://toutiao.io/k/51hfsz6) ![](assets/new.png)  
 - [2020-10-14-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-14-图文结合，白话-Go-的垃圾回收原理](https://toutiao.io/k/51hfsz6) ![](assets/new.png)  
 - [2020-10-14-如何提升微服务的幸福感？](https://toutiao.io/k/p8owj4t) ![](assets/new.png)  
+- [2020-10-14-虚拟机系列：JVM-执行引擎和垃圾回收](https://toutiao.io/k/hvkhrg3) ![](assets/new.png)  
 - [2020-10-14-如何一步步-get-大厂前端-offer，或许你可以参考这份成长经历](https://toutiao.io/k/ekbitqq) ![](assets/new.png)  
 - [2020-10-14-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-14-虚拟机系列：JVM-执行引擎和垃圾回收](https://toutiao.io/k/hvkhrg3) ![](assets/new.png)  
-- [2020-10-14-如何制作-Sketch-插件](https://toutiao.io/k/xjsgd30) ![](assets/new.png)  
 - [2020-10-14-Spring-Cache，从入门到真香](https://toutiao.io/k/d6px22i) ![](assets/new.png)  
+- [2020-10-14-如何制作-Sketch-插件](https://toutiao.io/k/xjsgd30) ![](assets/new.png)  
 - [2020-10-14-CPU-执行程序的秘密，藏在了这-15-张图里](https://toutiao.io/k/rsqwh4k) ![](assets/new.png)  
 - [2020-10-14-express-框架一些渗透技巧](https://toutiao.io/k/g69z6ga) ![](assets/new.png)  
-- [2020-10-14-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-14-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-14-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-14-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-14-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [2020-10-14-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-14-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-14-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-14-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-14-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
 - [2020-10-14-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
 - [2020-10-14-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-14-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-14-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-14-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-14-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

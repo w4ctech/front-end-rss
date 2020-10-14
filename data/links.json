@@ -5,9 +5,9 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "最新疫情：全国新冠累计确诊85591例 本土山东新增6例",
-        "link": "http://m.china.caixin.com/m/2020-10-13/101614109.html",
-        "date": "2020-10-12"
+        "title": "10月13日全国新增新冠20例 山东本土6例",
+        "link": "http://m.china.caixin.com/m/2020-10-14/101614397.html",
+        "date": "2020-10-13"
       },
       {
         "title": "青岛机场因疫情航班取消过半 多地排查青岛来返人员",
@@ -16725,6 +16725,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Google 面试题：搜索二维矩阵 II",
+        "link": "https://www.v2ex.com/t/714702",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "Iphone12 最良心的就是 mini 版屏幕升级到 1080p",
+        "link": "https://www.v2ex.com/t/714701",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "iPhone 5G 手机终于来了！市场却不买账？",
+        "link": "https://www.v2ex.com/t/714700",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "如果 iPhone12 改名叫 iPhone4 Retro 2020 版 估计更会吸引人购买吧",
+        "link": "https://www.v2ex.com/t/714699",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "北斗支持是需要硬件支持吗？",
+        "link": "https://www.v2ex.com/t/714698",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "iPhone12 电源键下面的那个长条是什么",
+        "link": "https://www.v2ex.com/t/714695",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "iphone12 和 pro 的外观应该完全一样吧？",
+        "link": "https://www.v2ex.com/t/714694",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "现代化 Java 关键词排行",
+        "link": "https://www.v2ex.com/t/714693",
+        "date": "2020-10-14"
+      },
+      {
         "title": "win7 如何设置资源管理器界面的颜色主题为暗黑风格？",
         "link": "https://www.v2ex.com/t/714692",
         "date": "2020-10-14"
@@ -16883,41 +16923,6 @@
         "title": "想问问这图片地址为啥读取不出来",
         "link": "https://www.v2ex.com/t/714653",
         "date": "2020-10-13"
-      },
-      {
-        "title": "windows 有没有什么通用的数据传输方案",
-        "link": "https://www.v2ex.com/t/714652",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "大佬们给个建议， IT 培训机构要去吗",
-        "link": "https://www.v2ex.com/t/714651",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "老码农在喜马拉雅上读 原百代 的书",
-        "link": "https://www.v2ex.com/t/714649",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "SpringCloud 系列之分布式配置中心极速入门与实践",
-        "link": "https://www.v2ex.com/t/714647",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "咨询用 Dropbox 的朋友，图片里的按钮选择什么意思？",
-        "link": "https://www.v2ex.com/t/714646",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "今晚又不给官网外直播发布会了？",
-        "link": "https://www.v2ex.com/t/714644",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "请教一下 WSL2 使用 git 的体验",
-        "link": "https://www.v2ex.com/t/714643",
-        "date": "2020-10-13"
       }
     ]
   },
@@ -17034,18 +17039,23 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "图文结合，白话 Go 的垃圾回收原理",
-        "link": "https://toutiao.io/k/51hfsz6",
-        "date": "2020-10-14"
-      },
-      {
         "title": "时间轮在 Kafka 的实践",
         "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-14"
       },
       {
+        "title": "图文结合，白话 Go 的垃圾回收原理",
+        "link": "https://toutiao.io/k/51hfsz6",
+        "date": "2020-10-14"
+      },
+      {
         "title": "如何提升微服务的幸福感？",
         "link": "https://toutiao.io/k/p8owj4t",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "虚拟机系列：JVM 执行引擎和垃圾回收",
+        "link": "https://toutiao.io/k/hvkhrg3",
         "date": "2020-10-14"
       },
       {
@@ -17059,18 +17069,13 @@
         "date": "2020-10-14"
       },
       {
-        "title": "虚拟机系列：JVM 执行引擎和垃圾回收",
-        "link": "https://toutiao.io/k/hvkhrg3",
+        "title": "Spring Cache，从入门到真香",
+        "link": "https://toutiao.io/k/d6px22i",
         "date": "2020-10-14"
       },
       {
         "title": "如何制作 Sketch 插件",
         "link": "https://toutiao.io/k/xjsgd30",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "Spring Cache，从入门到真香",
-        "link": "https://toutiao.io/k/d6px22i",
         "date": "2020-10-14"
       },
       {
@@ -17084,43 +17089,23 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-14"
-      },
-      {
         "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
         "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
         "date": "2020-10-14"
       },
       {
@@ -17134,8 +17119,28 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-14"
       },
       {
@@ -17144,13 +17149,13 @@
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-14"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-14"
       }
     ]

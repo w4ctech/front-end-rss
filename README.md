@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 03:39:44，:rocket: 更新条数: +3481， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 03:47:21，:rocket: 更新条数: +3710， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +967,11 @@
 </summary>
 
 
+- [2020-10-13-浅析-HTML5-中的-download-属性](https://juejin.im/post/6883307101737713678) ![](assets/new.png)  
 - [2020-10-13-http中的缓存机制](https://juejin.im/post/6883283439114518536) ![](assets/new.png)  
 - [2020-10-13-你知道JSON.stringify有三个参数吗](https://juejin.im/post/6883133573331681294) ![](assets/new.png)  
 - [2020-10-13-Vue3-文档阅读-——-reactivity-响应式基础](https://juejin.im/post/6883122206214193159) ![](assets/new.png)  
 - [2020-10-13-Promise.then是如何实现链式调用的](https://juejin.im/post/6883121706123132936) ![](assets/new.png)  
-- [2020-10-13-前端Vue+后端Node.js，手撕一个文件上传功能](https://juejin.im/post/6883113959394639885) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,9 @@
 </summary>
 
 
+- [2020-10-14-使用-Flutter-快速实现聊天应用](https://www.v2ex.com/t/714792) ![](assets/new.png)  
+- [2020-10-14-问个微服务调用问题。](https://www.v2ex.com/t/714791) ![](assets/new.png)  
+- [2020-10-14-无线充电转换效率比有线差多少?](https://www.v2ex.com/t/714790) ![](assets/new.png)  
 - [2020-10-14-出-Apple-TrackPad-和-Apple-妙控键盘-都为银色，-2020-07-18-买于京东，不单出](https://www.v2ex.com/t/714789) ![](assets/new.png)  
 - [2020-10-14-iPhone12-系的-ram-和电池参数都有了吗？](https://www.v2ex.com/t/714787) ![](assets/new.png)  
 - [2020-10-14-公司数据库这样设计是为了什么。](https://www.v2ex.com/t/714786) ![](assets/new.png)  
@@ -1074,9 +1097,6 @@
 - [2020-10-14-GitHub-公共-OKR-池，欢迎大家使用和贡献](https://www.v2ex.com/t/714768) ![](assets/new.png)  
 - [2020-10-14-有老哥关注没有-LCD-屏幕吗](https://www.v2ex.com/t/714764) ![](assets/new.png)  
 - [2020-10-14-iPhone-5s-还有必要用吗？](https://www.v2ex.com/t/714763) ![](assets/new.png)  
-- [2020-10-14-周三分享日-百度-AI-语音识别应用与场景案例分享](https://www.v2ex.com/t/714762) ![](assets/new.png)  
-- [2020-10-14-中国移动给老年人不识字给开通了军情观察/咪咕音乐等套餐](https://www.v2ex.com/t/714761) ![](assets/new.png)  
-- [2020-10-14-极客时间推销电话真烦](https://www.v2ex.com/t/714759) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,12 +1152,12 @@
 - [2020-10-14-图解一致性哈希算法，全网（小区局域网）最通俗易懂](https://toutiao.io/k/zhbx7g2) ![](assets/new.png)  
 - [2020-10-14-端到端测试的-4-种处理测试数据的方法](https://toutiao.io/k/kmw0t3y) ![](assets/new.png)  
 - [2020-10-14-聊一聊-Redis-官方置顶推荐的-Java-客户端-Redisson](https://toutiao.io/k/zfhki4y) ![](assets/new.png)  
-- [2020-10-14-硬核：华为鸿蒙系统尖刀武器之分布式软总线技术](https://toutiao.io/k/kp14unp) ![](assets/new.png)  
 - [2020-10-14-Prometheus-监控-MongoDB-真的太方便了](https://toutiao.io/k/gmr7160) ![](assets/new.png)  
+- [2020-10-14-硬核：华为鸿蒙系统尖刀武器之分布式软总线技术](https://toutiao.io/k/kp14unp) ![](assets/new.png)  
 - [2020-10-14-安卓-so-文件解析详解](https://toutiao.io/k/hf1nfns) ![](assets/new.png)  
 - [2020-10-14-谈谈云厂商和开源软件间的紧张关系](https://toutiao.io/k/e3z8dl9) ![](assets/new.png)  
-- [2020-10-14-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-14-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-14-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
 - [2020-10-14-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

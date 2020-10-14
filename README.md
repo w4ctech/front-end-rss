@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 08:16:06，:rocket: 更新条数: +3492， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 08:31:12，:rocket: 更新条数: +3496， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,25 +65,25 @@
 
 
 - [2020-10-13-最新疫情：全国新冠累计确诊85611例-山东本土6例](http://m.china.caixin.com/m/2020-10-14/101614470.html) ![](assets/new.png)  
+- [2020-10-13-国台办回应台防疫部门称新增1例大陆输入病例](http://m.china.caixin.com/m/2020-10-14/101614573.html) ![](assets/new.png)  
 - [2020-10-13-【境内疫情观察】山东新增6例本土确诊病例（10月13日）](http://m.database.caixin.com/m/2020-10-14/101614534.html) ![](assets/new.png)  
 - [2020-10-13-大流行手记|10月13日：全球新冠病亡率下降-世卫官员反对群体免疫策略](https://m.caixin.com/m/2020-10-14/101614424.html) ![](assets/new.png)  
+- [2020-10-13-【图集】欧洲疫情反弹加剧-多国重新加强疫情防控举措](http://m.photos.caixin.com/m/2020-10-14/101614566.html) ![](assets/new.png)  
 - [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
 - [2020-10-12-最新海外疫情：新冠感染近3768万-累计死亡超107万](http://m.international.caixin.com/m/2020-10-13/101614226.html) ![](assets/new.png)  
 - [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
 - [2020-10-12-大流行手记|10月12日：英国实施三级封锁机制-法总理称第二波疫情已至](https://m.caixin.com/m/2020-10-13/101614027.html) ![](assets/new.png)  
 - [2020-10-11-青岛新冠阳性患者增至12人-5日内完成全市900多万人核酸检测](https://m.caixin.com/m/2020-10-12/101613800.html) ![](assets/new.png)  
-- [2020-10-11-聚焦|张文宏：青岛局部疫情可通过扩大检测“动态清零”](http://m.opinion.caixin.com/m/2020-10-12/101613656.html) ![](assets/new.png)  
 - [2020-10-11-青岛新增核酸检测阳性9人-其中4例为确诊病例](https://m.caixin.com/m/2020-10-12/101613557.html) ![](assets/new.png)  
 - [2020-10-11-【境内疫情观察】青岛新增6例本土确诊病例（10月11日）](http://m.database.caixin.com/m/2020-10-12/101613711.html) ![](assets/new.png)  
 - [2020-10-11-大流行手记|10月11日：全球单日增速连续3日创新高-白宫或阻挠美公共交通“口罩令”](https://m.caixin.com/m/2020-10-12/101613574.html) ![](assets/new.png)  
+- [2020-10-11-聚焦|张文宏：青岛局部疫情可通过扩大检测“动态清零”](http://m.opinion.caixin.com/m/2020-10-12/101613656.html) ![](assets/new.png)  
 - [2020-10-11-【图集】青岛新增核酸检测阳性9人-全市开展核酸检测](http://m.photos.caixin.com/m/2020-10-12/101613745.html) ![](assets/new.png)  
 - [2020-10-10-青岛新增3例无症状感染者-初步判断与市胸科医院相关联](http://m.china.caixin.com/m/2020-10-11/101613457.html) ![](assets/new.png)  
 - [2020-10-10-【境内疫情观察】青岛新增3例本土无症状感染者（10月10日）](http://m.database.caixin.com/m/2020-10-11/101613487.html) ![](assets/new.png)  
 - [2020-10-10-大流行手记|10月10日：多家学术期刊痛批美政府抗疫不力-马德里再次封锁](https://m.caixin.com/m/2020-10-11/101613470.html) ![](assets/new.png)  
 - [2020-10-10-美国万只水貂染新冠死亡-未发现水貂传人病例](http://m.science.caixin.com/m/2020-10-11/101613536.html) ![](assets/new.png)  
 - [2020-10-10-数字说|特朗普身边都有谁感染了新冠？](http://m.datanews.caixin.com/m/2020-10-11/101613528.html) ![](assets/new.png)  
-- [2020-10-09-【境内疫情观察】全国新增39例无症状感染者（10月9日）](http://m.database.caixin.com/m/2020-10-10/101613339.html) ![](assets/new.png)  
-- [2020-10-09-大流行手记|10月9日：中国加入世卫疫苗计划-新冠或令婴儿死产率上升](https://m.caixin.com/m/2020-10-10/101613209.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,13 @@
 </summary>
 
 
+- [2020-10-14-macOS-平台有没有类似-Space-Sniffer-这种存储空间分析工具呢？](https://www.v2ex.com/t/714901) ![](assets/new.png)  
+- [2020-10-14-在台港澳-或者东南亚，有没有类似-国内什么值得买这种导购返利站，](https://www.v2ex.com/t/714900) ![](assets/new.png)  
+- [2020-10-14-关于个性化需求的-git-分支管理](https://www.v2ex.com/t/714899) ![](assets/new.png)  
+- [2020-10-14-免费公开课-大厂面试评分标准+行为类问题大分享](https://www.v2ex.com/t/714898) ![](assets/new.png)  
+- [2020-10-14-木兰重生：-PyPI-发布版本-0.0.14.1.](https://www.v2ex.com/t/714897) ![](assets/new.png)  
+- [2020-10-14-最近一年很多网站更新协议，它们都更新了什么？](https://www.v2ex.com/t/714896) ![](assets/new.png)  
+- [2020-10-14-想学习游戏辅助脚本开放，怎么入门](https://www.v2ex.com/t/714895) ![](assets/new.png)  
 - [2020-10-14-坐标-成都-，招聘前端开发工程师-4-名（10-20k）内推坑位速来联系，待遇优](https://www.v2ex.com/t/714894) ![](assets/new.png)  
 - [2020-10-14-最近刚离职，今天开始找工作，坐标武汉，前端开发，先来-v-站看看](https://www.v2ex.com/t/714893) ![](assets/new.png)  
 - [2020-10-14-「成都」万物理想招聘产品经理，-15-20K，-13-15-薪](https://www.v2ex.com/t/714892) ![](assets/new.png)  
@@ -1070,13 +1077,6 @@
 - [2020-10-14-混盾钓鱼](https://www.v2ex.com/t/714883) ![](assets/new.png)  
 - [2020-10-14-弱弱的请教一个-Loki-的配置问题](https://www.v2ex.com/t/714882) ![](assets/new.png)  
 - [2020-10-14-极客时间的骚扰电话最近有人接到了吗](https://www.v2ex.com/t/714881) ![](assets/new.png)  
-- [2020-10-14-请问用-iPhone-11-的盆友平时杀后台严重吗？打开相机呐？](https://www.v2ex.com/t/714880) ![](assets/new.png)  
-- [2020-10-14-思来想去还是打算自己装机，求帮忙看看配置有问题没](https://www.v2ex.com/t/714879) ![](assets/new.png)  
-- [2020-10-14-如何给某个号码每个月自动交话费？](https://www.v2ex.com/t/714878) ![](assets/new.png)  
-- [2020-10-14-请问“发布这个内容需要你已经注册满-270-天”是什么意思？](https://www.v2ex.com/t/714877) ![](assets/new.png)  
-- [2020-10-14-上海-智能楼宇自动化创业公司招后端/嵌入式软件/嵌入式硬件](https://www.v2ex.com/t/714876) ![](assets/new.png)  
-- [2020-10-14-iOS-App-内拍照时能否获取用户位置？](https://www.v2ex.com/t/714874) ![](assets/new.png)  
-- [2020-10-14-Mini-Calendar-v1.0---iOS14-日历小组件](https://www.v2ex.com/t/714873) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

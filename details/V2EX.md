@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 08:39:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 08:47:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -45,5 +45,3 @@
 - [2020-10-14-Android-studio-的图标改的太迷惑了](https://www.v2ex.com/t/714861) 
 - [2020-10-14-被一个叫-LinkedIn-的网站短信骚扰怎么投诉？](https://www.v2ex.com/t/714860) 
 - [2020-10-14-iPhone12-哪里好](https://www.v2ex.com/t/714859) 
-- [2020-10-14-杭州-涂鸦智能-Saas-组热招各岗位，大量-HC](https://www.v2ex.com/t/714857) 
-- [2020-10-14-ios14.2-beta3-终于修复-Safari-浏览器占用缓存很大，无法删除-bug](https://www.v2ex.com/t/714856) 

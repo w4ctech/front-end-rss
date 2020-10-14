@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 03:29:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 03:36:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -94,6 +94,7 @@
 - [2020-09-07-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d) 
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
+- [2020-10-13-你知道JSON.stringify有三个参数吗](https://juejin.im/post/6883133573331681294) 
 - [2020-10-13-Promise.then是如何实现链式调用的](https://juejin.im/post/6883121706123132936) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
@@ -105,5 +106,4 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-10-14-如何判断一个-dom-节点是否是-SVG-节点？](https://www.v2ex.com/t/714758) 
-- [2020-10-14-如何在新版本的-go-中-import-旧版本的标准库？](https://www.v2ex.com/t/714735) 
 - [2020-10-13-JavaScript死期将至?](https://sec.thief.one/article_content?a_id=14fd394fa01ed96bcf1a3db4ac0c6572) 

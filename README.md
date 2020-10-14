@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 03:29:55，:rocket: 更新条数: +3480， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 03:36:01，:rocket: 更新条数: +3481， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-10-13-10月13日全国新增新冠20例-山东本土6例](http://m.china.caixin.com/m/2020-10-14/101614397.html) ![](assets/new.png)  
+- [2020-10-13-最新疫情：全国新冠累计确诊85611例-山东本土6例](http://m.china.caixin.com/m/2020-10-14/101614470.html) ![](assets/new.png)  
 - [2020-10-13-大流行手记|10月13日：全球新冠病亡率下降-世卫官员反对群体免疫策略](https://m.caixin.com/m/2020-10-14/101614424.html) ![](assets/new.png)  
 - [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
 - [2020-10-12-最新海外疫情：新冠感染近3768万-累计死亡超107万](http://m.international.caixin.com/m/2020-10-13/101614226.html) ![](assets/new.png)  
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-10-13-看懂Vue.js-3.0-的优化](https://juejin.im/post/6883304258255470600) ![](assets/new.png)  
+- [2020-10-13-http中的缓存机制](https://juejin.im/post/6883283439114518536) ![](assets/new.png)  
+- [2020-10-13-你知道JSON.stringify有三个参数吗](https://juejin.im/post/6883133573331681294) ![](assets/new.png)  
 - [2020-10-13-Vue3-文档阅读-——-reactivity-响应式基础](https://juejin.im/post/6883122206214193159) ![](assets/new.png)  
 - [2020-10-13-Promise.then是如何实现链式调用的](https://juejin.im/post/6883121706123132936) ![](assets/new.png)  
 - [2020-10-13-前端Vue+后端Node.js，手撕一个文件上传功能](https://juejin.im/post/6883113959394639885) ![](assets/new.png)  
-- [2020-10-13-浅析-useCallback-和-useMemo](https://juejin.im/post/6883108068398202893) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,9 +1057,14 @@
 </summary>
 
 
+- [2020-10-14-出-Apple-TrackPad-和-Apple-妙控键盘-都为银色，-2020-07-18-买于京东，不单出](https://www.v2ex.com/t/714789) ![](assets/new.png)  
+- [2020-10-14-iPhone12-系的-ram-和电池参数都有了吗？](https://www.v2ex.com/t/714787) ![](assets/new.png)  
+- [2020-10-14-公司数据库这样设计是为了什么。](https://www.v2ex.com/t/714786) ![](assets/new.png)  
+- [2020-10-14-现在的-Wechat-是不是，不再支持-Facebook-注册登录了](https://www.v2ex.com/t/714785) ![](assets/new.png)  
+- [2020-10-14-被隔离的日记](https://www.v2ex.com/t/714784) ![](assets/new.png)  
 - [2020-10-14-安全与风控---字节跳动内推](https://www.v2ex.com/t/714783) ![](assets/new.png)  
 - [2020-10-14-手持-XR-准备再观望一年](https://www.v2ex.com/t/714781) ![](assets/new.png)  
-- [2020-10-14-微信旅游小程序，找开发产品经理、前端和设计合伙人](https://www.v2ex.com/t/714779) ![](assets/new.png)  
+- [2020-10-14-做旅游小程序，找开发产品经理、前端和设计合伙人](https://www.v2ex.com/t/714779) ![](assets/new.png)  
 - [2020-10-14-不要急着选，先看看-12-的内存是多少](https://www.v2ex.com/t/714778) ![](assets/new.png)  
 - [2020-10-14-用-Docker-swarm-快速部署分布式图数据库-Nebula-Graph-集群](https://www.v2ex.com/t/714777) ![](assets/new.png)  
 - [2020-10-14-10-月-16-日预售的几号发货?](https://www.v2ex.com/t/714772) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-10-14-周三分享日-百度-AI-语音识别应用与场景案例分享](https://www.v2ex.com/t/714762) ![](assets/new.png)  
 - [2020-10-14-中国移动给老年人不识字给开通了军情观察/咪咕音乐等套餐](https://www.v2ex.com/t/714761) ![](assets/new.png)  
 - [2020-10-14-极客时间推销电话真烦](https://www.v2ex.com/t/714759) ![](assets/new.png)  
-- [2020-10-14-如何判断一个-dom-节点是否是-SVG-节点？](https://www.v2ex.com/t/714758) ![](assets/new.png)  
-- [2020-10-14-发个招聘帖子](https://www.v2ex.com/t/714757) ![](assets/new.png)  
-- [2020-10-14-上海杨浦-有没有-驾校可以推荐？？](https://www.v2ex.com/t/714756) ![](assets/new.png)  
-- [2020-10-14-我在苏宁买的东西收到了拼多多的派送短信](https://www.v2ex.com/t/714755) ![](assets/new.png)  
-- [2020-10-14-赴日-IT-软件工作-驻日-Python-工程师/赴日-Python-工程师](https://www.v2ex.com/t/714753) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1133,11 +1133,11 @@
 - [2020-10-14-端到端测试的-4-种处理测试数据的方法](https://toutiao.io/k/kmw0t3y) ![](assets/new.png)  
 - [2020-10-14-聊一聊-Redis-官方置顶推荐的-Java-客户端-Redisson](https://toutiao.io/k/zfhki4y) ![](assets/new.png)  
 - [2020-10-14-硬核：华为鸿蒙系统尖刀武器之分布式软总线技术](https://toutiao.io/k/kp14unp) ![](assets/new.png)  
-- [2020-10-14-安卓-so-文件解析详解](https://toutiao.io/k/hf1nfns) ![](assets/new.png)  
 - [2020-10-14-Prometheus-监控-MongoDB-真的太方便了](https://toutiao.io/k/gmr7160) ![](assets/new.png)  
+- [2020-10-14-安卓-so-文件解析详解](https://toutiao.io/k/hf1nfns) ![](assets/new.png)  
 - [2020-10-14-谈谈云厂商和开源软件间的紧张关系](https://toutiao.io/k/e3z8dl9) ![](assets/new.png)  
-- [2020-10-14-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-14-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-14-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-14-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [2020-10-14-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

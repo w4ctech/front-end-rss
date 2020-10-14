@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 14:49:08，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 15:04:55，:rocket: 更新条数: +3454， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -70,6 +70,7 @@
 - [2020-10-13-最新海外疫情：新冠感染超3793万-累计死亡超108万](http://m.international.caixin.com/m/2020-10-14/101614641.html) ![](assets/new.png)  
 - [2020-10-13-【境内疫情观察】山东新增6例本土确诊病例（10月13日）](http://m.database.caixin.com/m/2020-10-14/101614534.html) ![](assets/new.png)  
 - [2020-10-13-大流行手记|10月13日：全球新冠病亡率下降-世卫官员反对群体免疫策略](https://m.caixin.com/m/2020-10-14/101614424.html) ![](assets/new.png)  
+- [2020-10-13-欧洲入冬第二波疫情汹涌-病例新增速度已超过美国印度](http://m.international.caixin.com/m/2020-10-14/101614765.html) ![](assets/new.png)  
 - [2020-10-13-【图集】欧洲疫情反弹加剧-多国重新加强疫情防控举措](http://m.photos.caixin.com/m/2020-10-14/101614566.html) ![](assets/new.png)  
 - [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
 - [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-10-10-青岛新增3例无症状感染者-初步判断与市胸科医院相关联](http://m.china.caixin.com/m/2020-10-11/101613457.html) ![](assets/new.png)  
 - [2020-10-10-【境内疫情观察】青岛新增3例本土无症状感染者（10月10日）](http://m.database.caixin.com/m/2020-10-11/101613487.html) ![](assets/new.png)  
 - [2020-10-10-大流行手记|10月10日：多家学术期刊痛批美政府抗疫不力-马德里再次封锁](https://m.caixin.com/m/2020-10-11/101613470.html) ![](assets/new.png)  
-- [2020-10-10-美国万只水貂染新冠死亡-未发现水貂传人病例](http://m.science.caixin.com/m/2020-10-11/101613536.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,26 +1057,6 @@
 </summary>
 
 
-- [2020-10-14-Windows-最好的-Git-命令行使用姿势是什么？](https://www.v2ex.com/t/715021) ![](assets/new.png)  
-- [2020-10-14-阿根廷区还有车位吗？没有的话有愿意组个新车的么？](https://www.v2ex.com/t/715020) ![](assets/new.png)  
-- [2020-10-14-某宝上的优衣库代购价格便宜，她们是有会员卡吗？](https://www.v2ex.com/t/715019) ![](assets/new.png)  
-- [2020-10-14-iPhone-11-在双-11-会不会-4000-以内啊！](https://www.v2ex.com/t/715018) ![](assets/new.png)  
-- [2020-10-14-有点想搞一台黑苹果...](https://www.v2ex.com/t/715017) ![](assets/new.png)  
-- [2020-10-14-简单分析：为什么-比-list-快？](https://www.v2ex.com/t/715016) ![](assets/new.png)  
-- [2020-10-14-今年双十一京东会有-iPhone-12-白条免息分期么？](https://www.v2ex.com/t/715015) ![](assets/new.png)  
-- [2020-10-14-有没有-12-寸以上用来看剧的平板推荐？性价比越高越好](https://www.v2ex.com/t/715013) ![](assets/new.png)  
-- [2020-10-14-喜欢单手握持-出了-iPhone-11-搞个-12-mini-值不值](https://www.v2ex.com/t/715012) ![](assets/new.png)  
-- [2020-10-14-下班闲的无聊，记一个-27-岁“大龄”单身女找对象历程](https://www.v2ex.com/t/715009) ![](assets/new.png)  
-- [2020-10-14-各位大佬，有了解过拍拍贷的技术架构的吗？知道的，能说下吗？](https://www.v2ex.com/t/715008) ![](assets/new.png)  
-- [2020-10-14-如何继续我的算法秋招？](https://www.v2ex.com/t/715007) ![](assets/new.png)  
-- [2020-10-14-有没有搜索软件-Lookeen-的替代品](https://www.v2ex.com/t/715006) ![](assets/new.png)  
-- [2020-10-14-用-Python-写开源的-MATLAB-技术方面有没有问题?](https://www.v2ex.com/t/715005) ![](assets/new.png)  
-- [2020-10-14-聚合-Ingress-全部域名，统计入口总带宽和出口带宽？](https://www.v2ex.com/t/715004) ![](assets/new.png)  
-- [2020-10-14-记一次-HN8055Q-万兆光猫升级宽带经历](https://www.v2ex.com/t/715003) ![](assets/new.png)  
-- [2020-10-14-双十一主板降价幅度大吗？](https://www.v2ex.com/t/715002) ![](assets/new.png)  
-- [2020-10-14-请教一个-gin-绑定-json-时忽略为空字段的问题](https://www.v2ex.com/t/715001) ![](assets/new.png)  
-- [2020-10-14-Pv、Pvc-，实际使用量如何查看？](https://www.v2ex.com/t/714999) ![](assets/new.png)  
-- [2020-10-14-今天收到群晖的邮件，关于国区群晖账号的验证（手机号）。](https://www.v2ex.com/t/714998) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

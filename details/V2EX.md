@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 17:48:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 18:04:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -6,7 +6,6 @@
 
 
 - [2020-10-14-不懂就问，-Git-的中文名字是什么？](https://www.v2ex.com/t/715054) 
-- [2020-10-14-公司想高价收一个苹果企业号](https://www.v2ex.com/t/715052) 
 - [2020-10-14-20201015-午夜俱乐部](https://www.v2ex.com/t/715051) 
 - [2020-10-14-kotlin-打包问题](https://www.v2ex.com/t/715050) 
 - [2020-10-14-qnap-太坑了大哭，此生再也不入-nas-坑](https://www.v2ex.com/t/715049) 

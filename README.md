@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 17:48:55，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 18:04:32，:rocket: 更新条数: +3490， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1058,7 +1058,6 @@
 
 
 - [2020-10-14-不懂就问，-Git-的中文名字是什么？](https://www.v2ex.com/t/715054) ![](assets/new.png)  
-- [2020-10-14-公司想高价收一个苹果企业号](https://www.v2ex.com/t/715052) ![](assets/new.png)  
 - [2020-10-14-20201015-午夜俱乐部](https://www.v2ex.com/t/715051) ![](assets/new.png)  
 - [2020-10-14-kotlin-打包问题](https://www.v2ex.com/t/715050) ![](assets/new.png)  
 - [2020-10-14-qnap-太坑了大哭，此生再也不入-nas-坑](https://www.v2ex.com/t/715049) ![](assets/new.png)  
@@ -1077,6 +1076,7 @@
 - [2020-10-14-一个专注热榜的-RSS-服务](https://www.v2ex.com/t/715032) ![](assets/new.png)  
 - [2020-10-14-成都-蚂蚁成都前端招聘-20-40K-16-薪-工作经验-1-3-年](https://www.v2ex.com/t/715030) ![](assets/new.png)  
 - [2020-10-14-我真的好好奇同龄异性都在想啥](https://www.v2ex.com/t/715029) ![](assets/new.png)  
+- [2020-10-14-Intel-实习申请平台-为什么总是“该类型的投递数量已达上限。”](https://www.v2ex.com/t/715028) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

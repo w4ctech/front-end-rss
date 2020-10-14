@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 12:42:32，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 12:50:34，:rocket: 更新条数: +3486， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -95,11 +95,6 @@
 </summary>
 
 
-- [2020-10-14-北美观察丨确诊新冠肺炎的议员发言竟不戴口罩-美高层疫情扩散难收场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin7t0U1sctTxFnOYYsZWQ201014&isfromapp=1) ![](assets/new.png)  
-- [2020-10-14-北美观察丨疫情下的美国经济：持续低迷，近半经济学家认为2023年才会等来复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQTk9DZJZKkTFU9pLF3vf201014&isfromapp=1) ![](assets/new.png)  
-- [2020-10-14-青岛13日新冠肺炎确诊病例情况公布-均为无症状转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti72kY58daNxK4rp7b6QpN201014&isfromapp=1) ![](assets/new.png)  
-- [2020-10-14-山东13日新增新冠肺炎本地确诊病例6例-均由无症状感染者转归](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiDLfHqMORZGCxjb5em23201014&isfromapp=1) ![](assets/new.png)  
-- [2020-10-14-哥伦比亚新冠肺炎确诊病例累计超92万-政府担心原住民游行加速疫情扩散](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLI9vOIBvSeW5Vll8V1r7201014&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1052,9 @@
 </summary>
 
 
+- [2020-10-14-大家评判下京东第三方商家售后](https://www.v2ex.com/t/714994) ![](assets/new.png)  
+- [2020-10-14-找朋友，“运动控制”“机器视觉”“上位机开发”的可以交流下](https://www.v2ex.com/t/714992) ![](assets/new.png)  
+- [2020-10-14-自行开发-APP，怎么样调用打印机](https://www.v2ex.com/t/714991) ![](assets/new.png)  
 - [2020-10-14-如何评价-go-zero-微服务框架？](https://www.v2ex.com/t/714990) ![](assets/new.png)  
 - [2020-10-14-屎山，排列好了](https://www.v2ex.com/t/714989) ![](assets/new.png)  
 - [2020-10-14-问个问题，如何在单页应用中使用-npm-包？如何在手机应用中引用-npm-包？](https://www.v2ex.com/t/714988) ![](assets/new.png)  
@@ -1074,9 +1072,6 @@
 - [2020-10-14-谷歌老是收到归档要求](https://www.v2ex.com/t/714970) ![](assets/new.png)  
 - [2020-10-14-下个月会有发布会吗？-ARM-MACBOOK-黄了？](https://www.v2ex.com/t/714966) ![](assets/new.png)  
 - [2020-10-14-如何调试-Erlang-NIF-C-层代码？](https://www.v2ex.com/t/714965) ![](assets/new.png)  
-- [2020-10-14-怎样才能胜任好开发工作](https://www.v2ex.com/t/714963) ![](assets/new.png)  
-- [2020-10-14-上海求职-帮老婆找个轻松的行政-or-前台工作，地点最好在上海市区，薪资没有要求](https://www.v2ex.com/t/714962) ![](assets/new.png)  
-- [2020-10-14-地铁望京站信号](https://www.v2ex.com/t/714961) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 14:47:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-15 14:49:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,9 +32,9 @@
 <td>04月</td>
 <td>05月</td>
 <td><a href="#2019-06">06月</a></td>
-<td>07月</td>
+<td><a href="#2019-07">07月</a></td>
 <td>08月</td>
-<td>09月</td>
+<td><a href="#2019-09">09月</a></td>
 <td><a href="#2019-10">10月</a></td>
 <td><a href="#2019-11">11月</a></td>
 <td><a href="#2019-12">12月</a></td>
@@ -338,42 +338,6 @@
 - [【知乎日报】2020-10-08-2020-诺贝尔奖-|-文学奖授予美国诗人路易斯·格丽克，阅读她的诗歌如同在检视一场人生](https://www.ershicimi.com/p/85e58affa8d3925319819bcf9e6a736c) 
 - [【知乎日报】2020-10-08-知乎故事-|-你因为头像有过什么故事？](https://www.ershicimi.com/p/ffc4d47d0fd59179fe9d261817af688b) 
 - [【知乎日报】2020-10-07-知乎高赞：你有哪些特别的「生存法则」？](https://www.ershicimi.com/p/bdfccb971e9fe1939f64314557ac0561) 
-- [【V2EX】2020-10-15-农村出来的大学生都混得怎么样](https://www.v2ex.com/t/715403) 
-- [【V2EX】2020-10-15-利用捷径在-💻Windows-和-📱iOS-之间分享剪切板](https://www.v2ex.com/t/715400) 
-- [【V2EX】2020-10-15-win10-系统,某一个硬盘会突然消失可能是什么原因](https://www.v2ex.com/t/715399) 
-- [【V2EX】2020-10-15-Youtube-Preimum-印度区家庭版发车](https://www.v2ex.com/t/715397) 
-- [【V2EX】2020-10-15-15-摄氏度的室温超导，上一次还是零下-35-度](https://www.v2ex.com/t/715396) 
-- [【V2EX】2020-10-15-请教一个前端-css-问题](https://www.v2ex.com/t/715395) 
-- [【V2EX】2020-10-15-iPhone-充电口潮湿的时候可以无线充电吗](https://www.v2ex.com/t/715394) 
-- [【V2EX】2020-10-15-这个世界会好吗？](https://www.v2ex.com/t/715392) 
-- [【V2EX】2020-10-15-有没有淘宝做分销防狼报警器的没有？店铺有新品求分销](https://www.v2ex.com/t/715391) 
-- [【V2EX】2020-10-15-鉴于自己用国产的-android-系统体验很不好，想问问-iPhone-se2-值得买么？](https://www.v2ex.com/t/715389) 
-- [【V2EX】2020-10-15-macos-10.15.6-更改的-hidpi-文件-RDM-切换分辨率无法生效呢？大佬帮忙](https://www.v2ex.com/t/715388) 
-- [【V2EX】2020-10-15-再送-Cloudflare-Pro-计划三域以上](https://www.v2ex.com/t/715386) 
-- [【V2EX】2020-10-15-现在官方直营店里有-12-展示机了吗？](https://www.v2ex.com/t/715385) 
-- [【V2EX】2020-10-15-虚拟机里显示宿主机的挂载文件夹路径：-admin:///media/sf_vshare-导致虚拟机内的程序报-OSError](https://www.v2ex.com/t/715384) 
-- [【V2EX】2020-10-15-颜文字，你不了解的另一种文字。](https://www.v2ex.com/t/715383) 
-- [【V2EX】2020-10-15-联想小新-pro-笔记本-看视频异响](https://www.v2ex.com/t/715382) 
-- [【V2EX】2020-10-15-北京&&上海急招-Java-后端开发，前端，测试](https://www.v2ex.com/t/715380) 
-- [【V2EX】2020-10-15-Jetbrains-今年-1024-有买一送一（年）吗？](https://www.v2ex.com/t/715379) 
-- [【V2EX】2020-10-15-邓特艾克漱口水，我公司的产品。有优惠，有惊喜。](https://www.v2ex.com/t/715377) 
-- [【V2EX】2020-10-15-只有在苹果官网和天猫旗舰店购买的才能支持激活后退货吗](https://www.v2ex.com/t/715376) 
-- [【V2EX】2020-10-15-运维和大数据岗开发招聘，居家远程办公。](https://www.v2ex.com/t/715375) 
-- [【V2EX】2020-10-15-腾讯云双-11-活动来了](https://www.v2ex.com/t/715374) 
-- [【V2EX】2020-10-15-求个-mac-软件](https://www.v2ex.com/t/715373) 
-- [【V2EX】2020-10-15-像有订单中心、产商品中心、客户中心这种多个单一系统组成的架构应该叫什么架构](https://www.v2ex.com/t/715372) 
-- [【V2EX】2020-10-15-有没有办法在-PD-运行虚拟机的时候，不让-MBP-进入睡眠？](https://www.v2ex.com/t/715370) 
-- [【V2EX】2020-10-15-如何爬取网站背景图片](https://www.v2ex.com/t/715369) 
-- [【V2EX】2020-10-15-2020-求推荐非智能音箱](https://www.v2ex.com/t/715368) 
-- [【V2EX】2020-10-15-testflight-上的-app-会泄漏隐私吗](https://www.v2ex.com/t/715367) 
-- [【V2EX】2020-10-15-大脑很沉重的感觉，求推荐一些放松类型/纯音乐的歌单或网站](https://www.v2ex.com/t/715365) 
-- [【V2EX】2020-10-15-问一下各位开发-react-项目都用什么脚手架呢-create-react-app，-nextjs，还是-umijs。或者自己-npm-init--y-从零搞起？](https://www.v2ex.com/t/715364) 
-- [【V2EX】2020-10-15-K8S-使用-nodePort-方式暴露服务，发现没有负载均衡的效果，都请求到了一个-pod-里，-求教问题出在哪里？](https://www.v2ex.com/t/715363) 
-- [【V2EX】2020-10-15-#开源首发-fastwego/wxopen-微信开放平台-Go-sdk](https://www.v2ex.com/t/715362) 
-- [【V2EX】2020-10-15-老哥们-可以分享下-字节上研的后端面经么？](https://www.v2ex.com/t/715359) 
-- [【V2EX】2020-10-15-北京社招-美团优选---推荐系统---高级研发工程师---25~50k---15-薪](https://www.v2ex.com/t/715357) 
-- [【V2EX】2020-10-15-有没有一款能在线使用的课题组文献分享标注管理软件？](https://www.v2ex.com/t/715355) 
-- [【V2EX】2020-10-15-打开某个网站字体特别大，在其他电脑都正常](https://www.v2ex.com/t/715354) 
 - [【技术头条】2020-10-15-OKR-工作法，带你聚焦目标，高效工作-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13814&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F10%2F12%2F172-okr-working-method-let-you-more-efficiently%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-15-敏捷项目管理需要知道的五类图表-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13813&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchats-for-agile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-15-硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -3617,6 +3581,8 @@
 - [【React中文社区】2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [【React中文社区】2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) 
 - [【React中文社区】2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
+- [【前端圈】2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
+- [【前端圈】2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [【前端外刊评论】2019-11-25-Serverless-背景下的前端困境与解决方案](https://www.ershicimi.com/p/ec1908283d9c4dac9fa716b21292ccd5) 
 - [【前端外刊评论】2019-11-19-到底是用-Ajax-还是-Socket.IO?-用测试数据说话！](https://www.ershicimi.com/p/9177da10e32729b5bc0d282c8408e10b) 
 - [【前端外刊评论】2019-11-18-赠书-|-张鑫旭新书《CSS选择器世界》章节试读](https://www.ershicimi.com/p/1be4d882970f60785dec795871ae4c89) 
@@ -3635,6 +3601,13 @@
 
 
 - [【React中文社区】2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
+- [【前端圈】2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) 
+- [【前端圈】2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) 
+- [【前端圈】2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) 
+- [【前端圈】2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) 
+- [【前端圈】2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) 
+- [【前端圈】2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 
+- [【前端圈】2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) 
 - [【前端外刊评论】2019-10-29-赠票-|-大咖云集！TWeb-Conf-2019-前端技术大会重磅来袭！就等你来~](https://www.ershicimi.com/p/68b2180dde22f07cdfe13f5d1363a8ec) 
 - [【前端外刊评论】2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
 - [【前端外刊评论】2019-10-21-Hello-World-图可视化](https://www.ershicimi.com/p/1cb30f6cce60ed03a4c8ff3bc45d43dc) 
@@ -3655,11 +3628,42 @@
 </details>
 
 <details open>
+<summary id="2019-09">
+ 2019-09
+</summary>
+
+
+- [【前端圈】2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
+- [【前端圈】2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-07">
+ 2019-07
+</summary>
+
+
+- [【前端圈】2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
+- [【前端圈】2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
 <summary id="2019-06">
  2019-06
 </summary>
 
 
+- [【前端圈】2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) 
+- [【前端圈】2019-06-20-视频Vue-开发-ECharts-踩坑指南@袁源](https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff) 
+- [【前端圈】2019-06-20-VueConf-2019上海精彩视频花絮](https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479) 
+- [【前端圈】2019-06-15-VuePress-1.0发布与介绍的视频版@真山_VueConf-2019上海](https://www.ershicimi.com/p/df891224b8145e46f487100cd9aba181) 
+- [【前端圈】2019-06-13-蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0) 
+- [【前端圈】2019-06-12-视频Vue.js作者在VueConf现场发布RFC](https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde) 
+- [【前端圈】2019-06-11-真山在-VueConf-2019-上海-现场发布-VuePress-1.0](https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624) 
 - [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

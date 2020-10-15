@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 16:40:59，:rocket: 更新条数: +3492， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 16:47:13，:rocket: 更新条数: +3492， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-10-15-谷歌账号用来两步验证的手机号不用了，有办法登录吗？](https://www.v2ex.com/t/715423) ![](assets/new.png)  
+- [2020-10-15-租房电信宽带被限速至-512KB/s](https://www.v2ex.com/t/715422) ![](assets/new.png)  
 - [2020-10-15-关于模型-embedding-层尺寸的问题？](https://www.v2ex.com/t/715421) ![](assets/new.png)  
 - [2020-10-15-Serverless-安装-Laravel,flask,gin-等-web-框架，是否违背了它的使用场景？](https://www.v2ex.com/t/715420) ![](assets/new.png)  
 - [2020-10-15-头像-normal-的-width-height-好像不对](https://www.v2ex.com/t/715419) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-10-15-利用捷径在-💻Windows-和-📱iOS-之间分享剪切板](https://www.v2ex.com/t/715400) ![](assets/new.png)  
 - [2020-10-15-win10-系统,某一个硬盘会突然消失可能是什么原因](https://www.v2ex.com/t/715399) ![](assets/new.png)  
 - [2020-10-15-15-摄氏度的室温超导，上一次还是零下-35-度](https://www.v2ex.com/t/715396) ![](assets/new.png)  
-- [2020-10-15-请教一个前端-css-问题](https://www.v2ex.com/t/715395) ![](assets/new.png)  
-- [2020-10-15-iPhone-充电口潮湿的时候可以无线充电吗](https://www.v2ex.com/t/715394) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1125,8 @@
 - [2020-10-15-研发团队如何使用-OKR](https://toutiao.io/k/8nymt6s) ![](assets/new.png)  
 - [2020-10-15-Go-1.15-中值得关注的几个变化](https://toutiao.io/k/lipeqlg) ![](assets/new.png)  
 - [2020-10-15-美团外卖实时数仓建设实践](https://toutiao.io/k/44pxclt) ![](assets/new.png)  
-- [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
 - [2020-10-15-译-Google-搜索的-10-个小技巧，部分适用于百度](https://toutiao.io/k/v6w1o2e) ![](assets/new.png)  
+- [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
 - [2020-10-15-陌陌-SAST-IDEA-插件开源](https://toutiao.io/k/jpv5pck) ![](assets/new.png)  
 - [2020-10-15-设计模式之代理模式](https://toutiao.io/k/w594q3h) ![](assets/new.png)  
 - [2020-10-15-参照网易云音乐云村做的一个小程序社区](https://toutiao.io/k/7fenfky) ![](assets/new.png)  

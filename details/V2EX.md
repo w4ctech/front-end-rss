@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-15 16:17:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 16:35:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-15-Serverless-安装-Laravel,flask,gin-等-web-框架，是否违背了它的使用场景？](https://www.v2ex.com/t/715420) 
 - [2020-10-15-头像-normal-的-width-height-好像不对](https://www.v2ex.com/t/715419) 
 - [2020-10-15-16-寸的-mbp-今年还会有更新吗，现在入个二手还是再等等](https://www.v2ex.com/t/715418) 
 - [2020-10-15-888-元低价出一个微信小游戏源码](https://www.v2ex.com/t/715416) 
@@ -40,4 +41,3 @@
 - [2020-10-15-腾讯云双-11-活动来了](https://www.v2ex.com/t/715374) 
 - [2020-10-15-求个-mac-软件](https://www.v2ex.com/t/715373) 
 - [2020-10-15-像有订单中心、产商品中心、客户中心这种多个单一系统组成的架构应该叫什么架构](https://www.v2ex.com/t/715372) 
-- [2020-10-15-有没有办法在-PD-运行虚拟机的时候，不让-MBP-进入睡眠？](https://www.v2ex.com/t/715370) 

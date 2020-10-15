@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 16:17:38，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 16:35:28，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -885,6 +885,11 @@
 </summary>
 
 
+- [2020-10-15-无服务器已死？这项技术为什么变得人人嫌弃](https://www.ershicimi.com/p/0695d341e87d1dd6ed786617ec7000d7) ![](assets/new.png)  
+- [2020-10-15-万亿数据-|-腾讯看点多维实时分析系统技术架构](https://www.ershicimi.com/p/41ba0ed5300fea774cb20d1c4e2ad015) ![](assets/new.png)  
+- [2020-10-15-收购云原生鼻祖Pivotal的大厂，如何定义云原生？](https://www.ershicimi.com/p/ce55d7700099abeffcd8a1d2274e4f0c) ![](assets/new.png)  
+- [2020-10-15-踏入开放AI生态就是这么简单：AWS为你打开新世界大门-｜-Q推荐](https://www.ershicimi.com/p/a9a22255146b8c2eacc2378be217d1ba) ![](assets/new.png)  
+- [2020-10-15-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/f040ab39db4122b8da2440d178270309) ![](assets/new.png)  
 - [2020-10-14-iPhone-12-made-in印度，苹果会选择印度取代中国制造吗？](https://www.ershicimi.com/p/092281a8ad6b51f54efde92365df6aaa) ![](assets/new.png)  
 - [2020-10-14-经纬中国熊飞：开源赛道投资，如何找到下一个-PingCAP？](https://www.ershicimi.com/p/0c78d5103147a36c2d1bcf0da118cea3) ![](assets/new.png)  
 - [2020-10-14-13.9k-Star,-3.6k-Fork-——-技术人如何从0到1打造成功的开源软件？｜-Q推荐](https://www.ershicimi.com/p/e034b92b078a7d401ade22467a03695e) ![](assets/new.png)  
@@ -900,11 +905,6 @@
 - [2020-10-12-没有CTO的Netflix：为什么我们愿意高薪雇佣程序员？](https://www.ershicimi.com/p/378ff4ea789b03fa41ea6fc8a512fd4d) ![](assets/new.png)  
 - [2020-10-12-QCon三站同启！跨越等待，荣耀归来](https://www.ershicimi.com/p/2f263a5c1305c6a9269c33260b3ffe9f) ![](assets/new.png)  
 - [2020-10-12-对微前端的11个错误认识](https://www.ershicimi.com/p/5ebad48e87247141e58f95bd5255d723) ![](assets/new.png)  
-- [2020-10-12-3个月挖到55个漏洞，这伙白帽获苹果超330万元的赏金](https://www.ershicimi.com/p/7cb9253fad26c77741b5b2137c736325) ![](assets/new.png)  
-- [2020-10-11-史上最大服务中断事故：全球互联网流量下降3.5%只因一次配置错误？](https://www.ershicimi.com/p/9bf405c85a1b1a0a7423b49fb5292f2e) ![](assets/new.png)  
-- [2020-10-11-TikTok-的应用程序日志都记录了什么内容？](https://www.ershicimi.com/p/30038ef3d67911593af72fbd5ae91874) ![](assets/new.png)  
-- [2020-10-11-有奖调研｜平台百花齐放，你究竟“链”上谁？](https://www.ershicimi.com/p/c3ad1f100ebc7d994244a24775417b28) ![](assets/new.png)  
-- [2020-10-11-我们不是瓦力，但人工智能会带来专属的伊娃-｜-Q推荐](https://www.ershicimi.com/p/1bc5969514127948c52ebb9c3fce7b1b) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-15-Serverless-安装-Laravel,flask,gin-等-web-框架，是否违背了它的使用场景？](https://www.v2ex.com/t/715420) ![](assets/new.png)  
 - [2020-10-15-头像-normal-的-width-height-好像不对](https://www.v2ex.com/t/715419) ![](assets/new.png)  
 - [2020-10-15-16-寸的-mbp-今年还会有更新吗，现在入个二手还是再等等](https://www.v2ex.com/t/715418) ![](assets/new.png)  
 - [2020-10-15-888-元低价出一个微信小游戏源码](https://www.v2ex.com/t/715416) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-15-请教一个前端-css-问题](https://www.v2ex.com/t/715395) ![](assets/new.png)  
 - [2020-10-15-iPhone-充电口潮湿的时候可以无线充电吗](https://www.v2ex.com/t/715394) ![](assets/new.png)  
 - [2020-10-15-这个世界会好吗？](https://www.v2ex.com/t/715392) ![](assets/new.png)  
-- [2020-10-15-有没有淘宝做分销防狼报警器的没有？店铺有新品求分销](https://www.v2ex.com/t/715391) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1125,8 @@
 - [2020-10-15-研发团队如何使用-OKR](https://toutiao.io/k/8nymt6s) ![](assets/new.png)  
 - [2020-10-15-Go-1.15-中值得关注的几个变化](https://toutiao.io/k/lipeqlg) ![](assets/new.png)  
 - [2020-10-15-美团外卖实时数仓建设实践](https://toutiao.io/k/44pxclt) ![](assets/new.png)  
-- [2020-10-15-译-Google-搜索的-10-个小技巧，部分适用于百度](https://toutiao.io/k/v6w1o2e) ![](assets/new.png)  
 - [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
+- [2020-10-15-译-Google-搜索的-10-个小技巧，部分适用于百度](https://toutiao.io/k/v6w1o2e) ![](assets/new.png)  
 - [2020-10-15-陌陌-SAST-IDEA-插件开源](https://toutiao.io/k/jpv5pck) ![](assets/new.png)  
 - [2020-10-15-设计模式之代理模式](https://toutiao.io/k/w594q3h) ![](assets/new.png)  
 - [2020-10-15-参照网易云音乐云村做的一个小程序社区](https://toutiao.io/k/7fenfky) ![](assets/new.png)  

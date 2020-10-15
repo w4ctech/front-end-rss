@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 11:37:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 11:47:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -35,5 +35,6 @@
 - [2020-10-13-困扰前端工程师的-React-问题，答案都在这了！](https://www.ershicimi.com/p/d053641b8e46ee2805ad1bf1692c69b7) 
 - [2020-10-09-只会-React-的那些人，现在怎么样了？](https://www.ershicimi.com/p/32266a9785744889df60e11625383ba1) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
+- [2020-10-15-问一下各位开发-react-项目都用什么脚手架呢-create-react-app，-nextjs，还是-umijs。或者自己-npm-init--y-从零搞起？](https://www.v2ex.com/t/715364) 
 - [2020-10-15-突然发现的关于-create-react-app-的奇怪问题](https://www.v2ex.com/t/715320) 
 - [2020-10-15-谈谈-React-5-种最流行的状态管理库](https://toutiao.io/k/gju00sr) 

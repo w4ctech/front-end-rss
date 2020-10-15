@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 11:37:12，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 11:47:06，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-10-15-大脑很沉重的感觉，求推荐一些放松类型/纯音乐的歌单或网站](https://www.v2ex.com/t/715365) ![](assets/new.png)  
+- [2020-10-15-问一下各位开发-react-项目都用什么脚手架呢-create-react-app，-nextjs，还是-umijs。或者自己-npm-init--y-从零搞起？](https://www.v2ex.com/t/715364) ![](assets/new.png)  
+- [2020-10-15-K8S-使用-nodePort-方式暴露服务，发现没有负载均衡的效果，都请求到了一个-pod-里，-求教问题出在哪里？](https://www.v2ex.com/t/715363) ![](assets/new.png)  
 - [2020-10-15-#开源首发-fastwego/wxopen-微信开放平台-Go-sdk](https://www.v2ex.com/t/715362) ![](assets/new.png)  
 - [2020-10-15-老哥们-可以分享下-字节上研的后端面经么？](https://www.v2ex.com/t/715359) ![](assets/new.png)  
 - [2020-10-15-北京社招-美团优选---推荐系统---高级研发工程师---25~50k---15-薪](https://www.v2ex.com/t/715357) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-10-15-杭州-阿里巴巴-菜鸟网络---Java-高级研发工程师/-Java-技术专家-20k---50k-*-16-薪](https://www.v2ex.com/t/715340) ![](assets/new.png)  
 - [2020-10-15-如何对接顺丰官方获取物流轨迹信息](https://www.v2ex.com/t/715338) ![](assets/new.png)  
 - [2020-10-15-Google-翻译的英译中是不是在劣化？](https://www.v2ex.com/t/715336) ![](assets/new.png)  
-- [2020-10-15-4G-网络/物联卡内网-IP-有隔离吗？](https://www.v2ex.com/t/715335) ![](assets/new.png)  
-- [2020-10-15-有没有检测-KMS-的东西啊？](https://www.v2ex.com/t/715333) ![](assets/new.png)  
-- [2020-10-15-想基于音乐主题开发一个社交-APP-大家讨论讨论](https://www.v2ex.com/t/715331) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

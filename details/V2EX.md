@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 19:48:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 20:04:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,5 +41,3 @@
 - [2020-10-15-macos-10.15.6-更改的-hidpi-文件-RDM-切换分辨率无法生效呢？大佬帮忙](https://www.v2ex.com/t/715388) 
 - [2020-10-15-再送-Cloudflare-Pro-计划三域以上](https://www.v2ex.com/t/715386) 
 - [2020-10-15-现在官方直营店里有-12-展示机了吗？](https://www.v2ex.com/t/715385) 
-- [2020-10-15-虚拟机里显示宿主机的挂载文件夹路径：-admin:///media/sf_vshare-导致虚拟机内的程序报-OSError](https://www.v2ex.com/t/715384) 
-- [2020-10-15-颜文字，你不了解的另一种文字。](https://www.v2ex.com/t/715383) 

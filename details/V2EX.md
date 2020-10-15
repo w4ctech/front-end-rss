@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-15 21:48:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 22:04:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-15-iOS14-少了「健康」Widget-缺点意思啊](https://www.v2ex.com/t/715435) 
 - [2020-10-15-iOS14-与-macOS10.15-不能同步-keychain？](https://www.v2ex.com/t/715432) 
 - [2020-10-15-豆瓣那个井号﹟不能用了！为什么啊？！卧槽？！](https://www.v2ex.com/t/715431) 
 - [2020-10-15-一段有意思的-serverless-Rap-视频](https://www.v2ex.com/t/715430) 
@@ -40,4 +41,3 @@
 - [2020-10-15-鉴于自己用国产的-android-系统体验很不好，想问问-iPhone-se2-值得买么？](https://www.v2ex.com/t/715389) 
 - [2020-10-15-macos-10.15.6-更改的-hidpi-文件-RDM-切换分辨率无法生效呢？大佬帮忙](https://www.v2ex.com/t/715388) 
 - [2020-10-15-再送-Cloudflare-Pro-计划三域以上](https://www.v2ex.com/t/715386) 
-- [2020-10-15-现在官方直营店里有-12-展示机了吗？](https://www.v2ex.com/t/715385) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 03:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 03:14:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -46,4 +46,5 @@
 - [2020-10-13-困扰前端工程师的-React-问题，答案都在这了！](https://www.ershicimi.com/p/d053641b8e46ee2805ad1bf1692c69b7) 
 - [2020-10-09-只会-React-的那些人，现在怎么样了？](https://www.ershicimi.com/p/32266a9785744889df60e11625383ba1) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
+- [2020-10-13-如何通过控制台生成React组件代码](https://juejin.im/post/6883348909797130253) 
 - [2020-10-15-谈谈-React-5-种最流行的状态管理库](https://toutiao.io/k/gju00sr) 

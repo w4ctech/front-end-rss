@@ -13582,29 +13582,29 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
-        "title": "国家卫健委：14日新增新冠肺炎确诊病例11例 其中本土病例1例在青岛",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieV5XCgZAMr2ez7MsAfyH201015&isfromapp=1",
+        "title": "我区首家藏医医院核酸检测（PCR）实验室完成建设并投入使用",
+        "link": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202010/t20201015_179182.html",
         "date": "2020-10-15"
       },
       {
-        "title": "阿根廷新冠肺炎累计病例超93万 首都地区购物中心恢复营业",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCzWoRmbybXoHqLCi9B7M201015&isfromapp=1",
-        "date": "2020-10-14"
+        "title": "特朗普小儿子曾感染新冠病毒",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivlHTGkwYYONvZSy3CBUR201015&isfromapp=1",
+        "date": "2020-10-15"
       },
       {
-        "title": "哥伦比亚累计新冠肺炎确诊病例逾93万 首都部分私立学校恢复面授课程",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifPMbf0doOjixstxHfcqp201015&isfromapp=1",
-        "date": "2020-10-14"
+        "title": "韩国釜山暴发集体感染 首都圈将检测16万人",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fWzeF8l7y8u8ga9W8t1201015&isfromapp=1",
+        "date": "2020-10-15"
       },
       {
-        "title": "美国第一夫人梅拉尼娅透露：其子巴伦·特朗普曾确诊感染新冠",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFopE0ibcEHr2CivVhxGr201015&isfromapp=1",
-        "date": "2020-10-14"
+        "title": "又一家药企叫停临床试验 “科研政治化”令美国公众信心每况愈下",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKoSb4MqU2i4AOlexh6C201015&isfromapp=1",
+        "date": "2020-10-15"
       },
       {
-        "title": "法国疫情形势严峻 巴黎等多地将实施宵禁",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ey6O8AxDg3gHBMTIBeW201015&isfromapp=1",
-        "date": "2020-10-14"
+        "title": "美一患者48天两次感染新冠 专家：证明所谓“群体免疫”不可行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4KXxicw0feHP08SVbKDj201015&isfromapp=1",
+        "date": "2020-10-15"
       }
     ]
   },
@@ -17547,14 +17547,14 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "Java 集合看这一篇就够了",
-        "link": "https://juejin.im/post/6883665806942142472",
-        "date": "2020-10-14"
-      },
-      {
         "title": "Vue3都用ts重构了，TypeScript咱也不能掉队(第一篇)",
         "link": "https://juejin.im/post/6883446877422010382",
         "date": "2020-10-14"
+      },
+      {
+        "title": "如何通过控制台生成React组件代码",
+        "link": "https://juejin.im/post/6883348909797130253",
+        "date": "2020-10-13"
       },
       {
         "title": "js实现jQuery的简单方法和链式操作",
@@ -17906,6 +17906,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "前台多角色该如何设计数据库呢？",
+        "link": "https://www.v2ex.com/t/715139",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "最近写前端交互老是心态爆炸",
+        "link": "https://www.v2ex.com/t/715138",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "字节跳动内推安全与风控部门",
+        "link": "https://www.v2ex.com/t/715136",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[北京] 猿辅导 - 基础架构工程师 / Tech Leader（Server、前端、客户端）",
+        "link": "https://www.v2ex.com/t/715135",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "想入手 mbp,主要做开发，求推荐。",
+        "link": "https://www.v2ex.com/t/715134",
+        "date": "2020-10-15"
+      },
+      {
         "title": "西数 12T 机械硬盘中亚 Prime 会员到手 1295.9",
         "link": "https://www.v2ex.com/t/715133",
         "date": "2020-10-15"
@@ -18064,26 +18089,6 @@
         "title": "想跟各位请教一下 AirPods 怎么清洁",
         "link": "https://www.v2ex.com/t/715090",
         "date": "2020-10-15"
-      },
-      {
-        "title": "见微知著，从这个细节就可以看出百度高层对自家小程序的重视程度",
-        "link": "https://www.v2ex.com/t/715089",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "双 11PDD 可以把 iPhone12 和 iPad Air4 的价格降到多少？",
-        "link": "https://www.v2ex.com/t/715086",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "不好意思，搞错了",
-        "link": "https://www.v2ex.com/t/715085",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "有没有目标追踪方面的优秀论文推荐",
-        "link": "https://www.v2ex.com/t/715084",
-        "date": "2020-10-15"
       }
     ]
   },
@@ -18240,11 +18245,6 @@
         "date": "2020-10-15"
       },
       {
-        "title": "设计模式之代理模式",
-        "link": "https://toutiao.io/k/w594q3h",
-        "date": "2020-10-15"
-      },
-      {
         "title": "陌陌 SAST IDEA 插件开源",
         "link": "https://toutiao.io/k/jpv5pck",
         "date": "2020-10-15"
@@ -18252,6 +18252,11 @@
       {
         "title": "参照网易云音乐云村做的一个小程序社区",
         "link": "https://toutiao.io/k/7fenfky",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "设计模式之代理模式",
+        "link": "https://toutiao.io/k/w594q3h",
         "date": "2020-10-15"
       },
       {
@@ -18270,13 +18275,13 @@
         "date": "2020-10-15"
       },
       {
-        "title": "数学基础学习笔记：概率论",
-        "link": "https://toutiao.io/k/q809gcs",
+        "title": "谈谈 React 5 种最流行的状态管理库",
+        "link": "https://toutiao.io/k/gju00sr",
         "date": "2020-10-15"
       },
       {
-        "title": "谈谈 React 5 种最流行的状态管理库",
-        "link": "https://toutiao.io/k/gju00sr",
+        "title": "数学基础学习笔记：概率论",
+        "link": "https://toutiao.io/k/q809gcs",
         "date": "2020-10-15"
       },
       {
@@ -18290,28 +18295,13 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[译] Flutter 性能优化系列之打造高性能 widget",
+        "link": "https://toutiao.io/k/88nqwv0",
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "Python 疑难问题：[] 与 list() 哪个快？为什么快？快多少呢？",
+        "link": "https://toutiao.io/k/iqa5hbo",
         "date": "2020-10-15"
       },
       {
@@ -18330,6 +18320,11 @@
         "date": "2020-10-15"
       },
       {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-15"
+      },
+      {
         "title": "[推荐] 我是如何阅读 JDK 源码的？",
         "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-15"
@@ -18340,8 +18335,8 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-15"
       },
       {
@@ -18350,13 +18345,33 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-15"
       }
     ]

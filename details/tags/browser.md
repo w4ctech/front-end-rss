@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 03:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 03:14:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,7 @@
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-15-字节跳动内推安全与风控部门](https://www.v2ex.com/t/715136) 
 - [2020-10-15-求推荐免费/试用版的部署在公司宽带出口上的缓存加速服务器软件/OS](https://www.v2ex.com/t/715104) 
 - [2020-10-15-DNSEC-中-DNSKEY-记录的-Flags-字段中-BIT15-安全入口点的使用场景？](https://www.v2ex.com/t/715100) 
 - [2020-10-15-falcon-框架如何开启调试？](https://www.v2ex.com/t/715099) 

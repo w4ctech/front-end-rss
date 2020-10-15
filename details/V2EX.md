@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-15 13:28:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 13:34:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-15-虚拟机里显示宿主机的挂载文件夹路径：-admin:///media/sf_vshare-导致虚拟机内的程序报-OSError](https://www.v2ex.com/t/715384) 
+- [2020-10-15-颜文字，你不了解的另一种文字。](https://www.v2ex.com/t/715383) 
 - [2020-10-15-联想小新-pro-笔记本-看视频异响](https://www.v2ex.com/t/715382) 
 - [2020-10-15-北京&&上海急招-Java-后端开发，前端，测试](https://www.v2ex.com/t/715380) 
 - [2020-10-15-Jetbrains-今年-1024-有买一送一（年）吗？](https://www.v2ex.com/t/715379) 
@@ -39,4 +41,3 @@
 - [2020-10-15-如何对接顺丰官方获取物流轨迹信息](https://www.v2ex.com/t/715338) 
 - [2020-10-15-Google-翻译的英译中是不是在劣化？](https://www.v2ex.com/t/715336) 
 - [2020-10-15-4G-网络/物联卡内网-IP-有隔离吗？](https://www.v2ex.com/t/715335) 
-- [2020-10-15-有没有检测-KMS-的东西啊？](https://www.v2ex.com/t/715333) 

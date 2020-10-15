@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 13:38:34，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 13:47:12，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-10-15-macos-10.15.6-更改的-hidpi-文件-RDM-切换分辨率无法生效呢？大佬帮忙](https://www.v2ex.com/t/715388) ![](assets/new.png)  
+- [2020-10-15-再送-Cloudflare-Pro-计划三域以上](https://www.v2ex.com/t/715386) ![](assets/new.png)  
+- [2020-10-15-现在官方直营店里有-12-展示机了吗？](https://www.v2ex.com/t/715385) ![](assets/new.png)  
 - [2020-10-15-虚拟机里显示宿主机的挂载文件夹路径：-admin:///media/sf_vshare-导致虚拟机内的程序报-OSError](https://www.v2ex.com/t/715384) ![](assets/new.png)  
 - [2020-10-15-颜文字，你不了解的另一种文字。](https://www.v2ex.com/t/715383) ![](assets/new.png)  
 - [2020-10-15-联想小新-pro-笔记本-看视频异响](https://www.v2ex.com/t/715382) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-10-15-testflight-上的-app-会泄漏隐私吗](https://www.v2ex.com/t/715367) ![](assets/new.png)  
 - [2020-10-15-大脑很沉重的感觉，求推荐一些放松类型/纯音乐的歌单或网站](https://www.v2ex.com/t/715365) ![](assets/new.png)  
 - [2020-10-15-问一下各位开发-react-项目都用什么脚手架呢-create-react-app，-nextjs，还是-umijs。或者自己-npm-init--y-从零搞起？](https://www.v2ex.com/t/715364) ![](assets/new.png)  
-- [2020-10-15-K8S-使用-nodePort-方式暴露服务，发现没有负载均衡的效果，都请求到了一个-pod-里，-求教问题出在哪里？](https://www.v2ex.com/t/715363) ![](assets/new.png)  
-- [2020-10-15-#开源首发-fastwego/wxopen-微信开放平台-Go-sdk](https://www.v2ex.com/t/715362) ![](assets/new.png)  
-- [2020-10-15-老哥们-可以分享下-字节上研的后端面经么？](https://www.v2ex.com/t/715359) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

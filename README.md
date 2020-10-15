@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 15:34:18，:rocket: 更新条数: +3480， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 15:42:14，:rocket: 更新条数: +3481， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,9 +36,9 @@
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -694,6 +694,16 @@
 </summary>
 
 
+- [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) ![](assets/new.png)  
+- [2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/) ![](assets/new.png)  
+- [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) ![](assets/new.png)  
+- [2020-10-10-Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/) ![](assets/new.png)  
+- [2020-10-06-flex:0-flex:1-flex:none-flex:auto应该在什么场景下使用？](https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/) ![](assets/new.png)  
+- [2020-09-13-研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/) ![](assets/new.png)  
+- [2020-09-06-文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/) ![](assets/new.png)  
+- [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) ![](assets/new.png)  
+- [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) ![](assets/new.png)  
+- [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -719,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1047,8 @@
 </summary>
 
 
+- [2020-10-15-ZPan-v1.4-版本发布，全新-UI-欢迎体验~](https://www.v2ex.com/t/715411) ![](assets/new.png)  
+- [2020-10-15-请问有没有比较好的办法在插入-mysql-的时候，把自动生成-id-同时加到另一个字段](https://www.v2ex.com/t/715410) ![](assets/new.png)  
 - [2020-10-15-感觉大家是不是都不知道-anywhere3-其实已经上市了，双口-typeC。](https://www.v2ex.com/t/715408) ![](assets/new.png)  
 - [2020-10-15-有老铁知道啥情况么？-上海字节后端在疯狂的招人-啥情况啊？](https://www.v2ex.com/t/715407) ![](assets/new.png)  
 - [2020-10-15-说说日本最近开始流行的一周工作-3-4-天](https://www.v2ex.com/t/715406) ![](assets/new.png)  
@@ -1065,8 +1067,6 @@
 - [2020-10-15-再送-Cloudflare-Pro-计划三域以上](https://www.v2ex.com/t/715386) ![](assets/new.png)  
 - [2020-10-15-现在官方直营店里有-12-展示机了吗？](https://www.v2ex.com/t/715385) ![](assets/new.png)  
 - [2020-10-15-虚拟机里显示宿主机的挂载文件夹路径：-admin:///media/sf_vshare-导致虚拟机内的程序报-OSError](https://www.v2ex.com/t/715384) ![](assets/new.png)  
-- [2020-10-15-颜文字，你不了解的另一种文字。](https://www.v2ex.com/t/715383) ![](assets/new.png)  
-- [2020-10-15-联想小新-pro-笔记本-看视频异响](https://www.v2ex.com/t/715382) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

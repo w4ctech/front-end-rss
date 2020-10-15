@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-15 15:34:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 15:42:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-15-ZPan-v1.4-版本发布，全新-UI-欢迎体验~](https://www.v2ex.com/t/715411) 
+- [2020-10-15-请问有没有比较好的办法在插入-mysql-的时候，把自动生成-id-同时加到另一个字段](https://www.v2ex.com/t/715410) 
 - [2020-10-15-感觉大家是不是都不知道-anywhere3-其实已经上市了，双口-typeC。](https://www.v2ex.com/t/715408) 
 - [2020-10-15-有老铁知道啥情况么？-上海字节后端在疯狂的招人-啥情况啊？](https://www.v2ex.com/t/715407) 
 - [2020-10-15-说说日本最近开始流行的一周工作-3-4-天](https://www.v2ex.com/t/715406) 
@@ -40,4 +42,3 @@
 - [2020-10-15-大脑很沉重的感觉，求推荐一些放松类型/纯音乐的歌单或网站](https://www.v2ex.com/t/715365) 
 - [2020-10-15-问一下各位开发-react-项目都用什么脚手架呢-create-react-app，-nextjs，还是-umijs。或者自己-npm-init--y-从零搞起？](https://www.v2ex.com/t/715364) 
 - [2020-10-15-K8S-使用-nodePort-方式暴露服务，发现没有负载均衡的效果，都请求到了一个-pod-里，-求教问题出在哪里？](https://www.v2ex.com/t/715363) 
-- [2020-10-15-#开源首发-fastwego/wxopen-微信开放平台-Go-sdk](https://www.v2ex.com/t/715362) 

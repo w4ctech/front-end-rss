@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 04:16:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 04:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -34,7 +34,6 @@
 - [2020-02-22-【音频】疫情前线日志｜从临近崩溃到恢复秩序，武汉红会医院经历了什么？](http://fm.caixin.com/m/2020-02-23/101519226.html) 
 - [2020-02-21-【视频】华中科技大学党委书记：通过“空中招聘会”为学生提供就业帮助](http://m.video.caixin.com/m/2020-02-22/101519137.html) 
 - [2020-02-21-【视频】中国疾控中心应急中心研究员：如何减少家庭聚集性传染](http://m.video.caixin.com/m/2020-02-22/101519133.html) 
-- [2020-02-19-【视频】中国工程院副院长王辰：新冠病毒可能长期存在]() 
 - [2020-02-18-【视频】国家卫健委医政医管局副局长分析：为何武汉重症比例依旧高](http://m.video.caixin.com/m/2020-02-19/101517352.html) 
 - [2020-02-16-财新FM音频故事|被困在湖北的外地人](http://fm.caixin.com/m/2020-02-17/101516700.html) 
 - [2020-02-14-【视频】武汉金银潭医院院长：康复者血浆疗法收益大于风险](http://m.video.caixin.com/m/2020-02-15/101515801.html) 
@@ -84,11 +83,6 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-10-14-我在众多AI学习的分享中，找到了最强教学系列视频！](https://www.ershicimi.com/p/eba5bb49df092314f8ce374e745cca90) 
 - [2020-10-09-人工智能从入门到精通系列教学视频免费送](https://www.ershicimi.com/p/4cec892c264b2a104a924d687161940a) 
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) 
-- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
-- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
-- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
-- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-10-14-这视频,信息量也太大了吧](https://sec.thief.one/article_content?a_id=1679c9ce3f4c09347781e6996006d84c) 
 - [2020-10-14-【视频】|-你被APP非法定位了吗?](https://sec.thief.one/article_content?a_id=8e48bc6ae62080cc1f79bc5346c70884) 
 - [2020-10-14-黑客入侵家庭摄像机,发布3TB敏感剪辑视频](https://sec.thief.one/article_content?a_id=01786512fd01cf89d946d0501f185899) 

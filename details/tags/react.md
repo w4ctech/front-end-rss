@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 00:08:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 00:38:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -47,3 +47,4 @@
 - [2020-10-09-只会-React-的那些人，现在怎么样了？](https://www.ershicimi.com/p/32266a9785744889df60e11625383ba1) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
 - [2020-10-13-React监听事件执行的方法中如何获取最新的state](https://juejin.im/post/6883375052692291598) 
+- [2020-10-15-两年-React-开发，打算今天离职，想找份远程工作，求个机会～](https://www.v2ex.com/t/715071) 

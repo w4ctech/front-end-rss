@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 00:08:35，:rocket: 更新条数: +3718， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 00:38:29，:rocket: 更新条数: +3703， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-10-15-求一款比较完美的-git-合并软件](https://www.v2ex.com/t/715072) ![](assets/new.png)  
+- [2020-10-15-两年-React-开发，打算今天离职，想找份远程工作，求个机会～](https://www.v2ex.com/t/715071) ![](assets/new.png)  
+- [2020-10-15-arm-版本-macos-出来之后希望有人能刷到树莓派上耍耍](https://www.v2ex.com/t/715070) ![](assets/new.png)  
+- [2020-10-15-dnspod-不支持添加-DKIM-记录吗？](https://www.v2ex.com/t/715069) ![](assets/new.png)  
+- [2020-10-15-华硕-RT-AC2200-路由器，局域网内-Lan-口-FreeNAS-数据通过-WIFI-5GHz-传输到局域网-PC，网速慢的问题。](https://www.v2ex.com/t/715068) ![](assets/new.png)  
 - [2020-10-14-电信晚上出国的网络完全中断](https://www.v2ex.com/t/715066) ![](assets/new.png)  
 - [2020-10-14-FinTech-社区-招聘-|-Recruiter---上海---有竞争力的薪资。](https://www.v2ex.com/t/715065) ![](assets/new.png)  
 - [2020-10-14-FinTech-社区-招聘-|-机器学习教学/教研---兼职-远程](https://www.v2ex.com/t/715064) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-10-14-qnap-太坑了大哭，此生再也不入-nas-坑](https://www.v2ex.com/t/715049) ![](assets/new.png)  
 - [2020-10-14-macOS-Big-Sur-beta10-发布](https://www.v2ex.com/t/715048) ![](assets/new.png)  
 - [2020-10-14-go-后端面经来一点推荐-xdm](https://www.v2ex.com/t/715045) ![](assets/new.png)  
-- [2020-10-14-WASMan:-基于纯-Go-的-WebAssembly-引擎](https://www.v2ex.com/t/715044) ![](assets/new.png)  
-- [2020-10-14-Mac-的-app-会像-win-一样，随意收集信息吗](https://www.v2ex.com/t/715043) ![](assets/new.png)  
-- [2020-10-14-免代理爬取并下载-Pixiv-图片](https://www.v2ex.com/t/715042) ![](assets/new.png)  
-- [2020-10-14-大家的-GCP-速度怎么样？最近好像慢了？](https://www.v2ex.com/t/715041) ![](assets/new.png)  
-- [2020-10-14-手贱提前还款，京东金条不给额度了，大家有这方面的补救经验吗？](https://www.v2ex.com/t/715040) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,26 +1139,24 @@
 </summary>
 
 
-- [2020-10-15-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-15-虚拟机系列：JVM-执行引擎和垃圾回收](https://toutiao.io/k/hvkhrg3) ![](assets/new.png)  
-- [2020-10-15-如何一步步-get-大厂前端-offer，或许你可以参考这份成长经历](https://toutiao.io/k/ekbitqq) ![](assets/new.png)  
-- [2020-10-15-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-15-如何制作-Sketch-插件](https://toutiao.io/k/xjsgd30) ![](assets/new.png)  
-- [2020-10-15-Go-设计模式-（十七）：状态模式](https://toutiao.io/k/w4bj8bx) ![](assets/new.png)  
-- [2020-10-15-图文结合，白话-Go-的垃圾回收原理](https://toutiao.io/k/51hfsz6) ![](assets/new.png)  
-- [2020-10-15-聊一聊-Redis-官方置顶推荐的-Java-客户端-Redisson](https://toutiao.io/k/zfhki4y) ![](assets/new.png)  
-- [2020-10-15-Spring-Cache，从入门到真香](https://toutiao.io/k/d6px22i) ![](assets/new.png)  
-- [2020-10-15-如何提升微服务的幸福感？](https://toutiao.io/k/p8owj4t) ![](assets/new.png)  
-- [2020-10-15-CPU-执行程序的秘密，藏在了这-15-张图里](https://toutiao.io/k/rsqwh4k) ![](assets/new.png)  
-- [2020-10-15-图解一致性哈希算法，全网（小区局域网）最通俗易懂](https://toutiao.io/k/zhbx7g2) ![](assets/new.png)  
-- [2020-10-15-端到端测试的-4-种处理测试数据的方法](https://toutiao.io/k/kmw0t3y) ![](assets/new.png)  
-- [2020-10-15-express-框架一些渗透技巧](https://toutiao.io/k/g69z6ga) ![](assets/new.png)  
-- [2020-10-15-硬核：华为鸿蒙系统尖刀武器之分布式软总线技术](https://toutiao.io/k/kp14unp) ![](assets/new.png)  
-- [2020-10-15-谈谈云厂商和开源软件间的紧张关系](https://toutiao.io/k/e3z8dl9) ![](assets/new.png)  
-- [2020-10-15-安卓-so-文件解析详解](https://toutiao.io/k/hf1nfns) ![](assets/new.png)  
-- [2020-10-15-Prometheus-监控-MongoDB-真的太方便了](https://toutiao.io/k/gmr7160) ![](assets/new.png)  
-- [2020-10-15-一个-App-如何适配多个-Android-终端？](https://toutiao.io/k/o9znuof) ![](assets/new.png)  
-- [2020-10-15-译-聚焦-Android-11：Google-Play-应用分发与盈利](https://toutiao.io/k/3mduipx) ![](assets/new.png)  
+- [2020-10-15-Go-1.15-中值得关注的几个变化](https://toutiao.io/k/lipeqlg) ![](assets/new.png)  
+- [2020-10-15-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-15-美团外卖实时数仓建设实践](https://toutiao.io/k/44pxclt) ![](assets/new.png)  
+- [2020-10-15-Go-Zero-如何应对海量定时/延迟任务](https://toutiao.io/k/g1xuphe) ![](assets/new.png)  
+- [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
+- [2020-10-15-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-15-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-15-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-15-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-15-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-15-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-15-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-15-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-15-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-15-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-15-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-15-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-15-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

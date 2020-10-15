@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 07:49:09，:rocket: 更新条数: +3482， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 08:04:25，:rocket: 更新条数: +3492， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,6 +729,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,10 +1057,18 @@
 </summary>
 
 
+- [2020-10-15-请教大佬，-Win10-有没有办法快速的把一个窗口移动到下一个虚拟桌面上？](https://www.v2ex.com/t/715287) ![](assets/new.png)  
+- [2020-10-15-请教一下关于-docker-squid-的问题](https://www.v2ex.com/t/715286) ![](assets/new.png)  
+- [2020-10-15-国内如何使用-twitch-开放直播](https://www.v2ex.com/t/715285) ![](assets/new.png)  
+- [2020-10-15-刚开始研究了下鸿蒙-HAP，然后~](https://www.v2ex.com/t/715284) ![](assets/new.png)  
+- [2020-10-15-远程全职-月薪-2.4w-起/招高级前端/Typescript-+-React/Tech-leader-也欢迎！](https://www.v2ex.com/t/715281) ![](assets/new.png)  
+- [2020-10-15-http-api-有-swagger-生成文档-websocket-有工具生成文档吗](https://www.v2ex.com/t/715279) ![](assets/new.png)  
+- [2020-10-15-有没有好用的聚合搜索引擎？](https://www.v2ex.com/t/715278) ![](assets/new.png)  
+- [2020-10-15-开-iCloud-优化存储空间后，能不能设置近期的照片保留原件，之前的上传-iCloud？](https://www.v2ex.com/t/715277) ![](assets/new.png)  
 - [2020-10-15-Beats-Flex-这个有人点评一下么，刚下单，下周三到，看着不错](https://www.v2ex.com/t/715276) ![](assets/new.png)  
 - [2020-10-15-一加-8T-怎么这么便宜？刚预订了一台](https://www.v2ex.com/t/715275) ![](assets/new.png)  
 - [2020-10-15-迫于一场暴雨-AirPods2-左耳丢了，收一只左耳，人在杭州，国行](https://www.v2ex.com/t/715274) ![](assets/new.png)  
-- [2020-10-15-出-27GL850B，京东直营全新](https://www.v2ex.com/t/715273) ![](assets/new.png)  
+- [2020-10-15-出-LG-27GL850B，京东直营全新](https://www.v2ex.com/t/715273) ![](assets/new.png)  
 - [2020-10-15-如何减小-iPhone-拍摄的视频体积大小?](https://www.v2ex.com/t/715272) ![](assets/new.png)  
 - [2020-10-15-适合团队的小零食小吃，求推荐！](https://www.v2ex.com/t/715271) ![](assets/new.png)  
 - [2020-10-15-腾讯的-HR-已经这么飘了吗？](https://www.v2ex.com/t/715270) ![](assets/new.png)  
@@ -1059,14 +1077,6 @@
 - [2020-10-15-大佬们都用的是哪款牙膏刷牙的？](https://www.v2ex.com/t/715267) ![](assets/new.png)  
 - [2020-10-15-看到大家说了对-12-那么多的不满但没看到提手感，只有我觉得直角边框硌手吗？](https://www.v2ex.com/t/715266) ![](assets/new.png)  
 - [2020-10-15-Python-跨平台和设备-模块管理有什么好方法吗？](https://www.v2ex.com/t/715264) ![](assets/new.png)  
-- [2020-10-15-一加-8T-价格出来啦！](https://www.v2ex.com/t/715262) ![](assets/new.png)  
-- [2020-10-15-杭州-有赞科技-社招-运维工程师-15K-30K，年底双薪+年终奖](https://www.v2ex.com/t/715261) ![](assets/new.png)  
-- [2020-10-15-看到之前的-v-友合租了-epubee，打算依葫芦画瓢](https://www.v2ex.com/t/715258) ![](assets/new.png)  
-- [2020-10-15-大家付款时喜欢用什么？](https://www.v2ex.com/t/715256) ![](assets/new.png)  
-- [2020-10-15-腾讯云活动折扣服务器，昨天误操作不小心点了退还，钱没了，机子也没了](https://www.v2ex.com/t/715255) ![](assets/new.png)  
-- [2020-10-15-请教大佬们，目前直播架构是什么样的啊](https://www.v2ex.com/t/715254) ![](assets/new.png)  
-- [2020-10-15-迫于迷茫，请问想进苏州微软需要怎样的技术能力？](https://www.v2ex.com/t/715251) ![](assets/new.png)  
-- [2020-10-15-那种反映历史变化的动画图表术语叫什么？](https://www.v2ex.com/t/715250) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1112,8 +1122,8 @@
 - [2020-10-15-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [2020-10-15-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
 - [2020-10-15-Go-Zero-如何应对海量定时/延迟任务](https://toutiao.io/k/g1xuphe) ![](assets/new.png)  
-- [2020-10-15-Go-1.15-中值得关注的几个变化](https://toutiao.io/k/lipeqlg) ![](assets/new.png)  
 - [2020-10-15-研发团队如何使用-OKR](https://toutiao.io/k/8nymt6s) ![](assets/new.png)  
+- [2020-10-15-Go-1.15-中值得关注的几个变化](https://toutiao.io/k/lipeqlg) ![](assets/new.png)  
 - [2020-10-15-美团外卖实时数仓建设实践](https://toutiao.io/k/44pxclt) ![](assets/new.png)  
 - [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
 - [2020-10-15-译-Google-搜索的-10-个小技巧，部分适用于百度](https://toutiao.io/k/v6w1o2e) ![](assets/new.png)  

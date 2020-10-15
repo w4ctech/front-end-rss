@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-15 11:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 12:05:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-15-2020-求推荐非智能音箱](https://www.v2ex.com/t/715368) 
+- [2020-10-15-testflight-上的-app-会泄漏隐私吗](https://www.v2ex.com/t/715367) 
 - [2020-10-15-大脑很沉重的感觉，求推荐一些放松类型/纯音乐的歌单或网站](https://www.v2ex.com/t/715365) 
 - [2020-10-15-问一下各位开发-react-项目都用什么脚手架呢-create-react-app，-nextjs，还是-umijs。或者自己-npm-init--y-从零搞起？](https://www.v2ex.com/t/715364) 
 - [2020-10-15-K8S-使用-nodePort-方式暴露服务，发现没有负载均衡的效果，都请求到了一个-pod-里，-求教问题出在哪里？](https://www.v2ex.com/t/715363) 
@@ -38,6 +40,3 @@
 - [2020-10-15-字节近期是不是在疯狂招人？](https://www.v2ex.com/t/715321) 
 - [2020-10-15-突然发现的关于-create-react-app-的奇怪问题](https://www.v2ex.com/t/715320) 
 - [2020-10-15-今天面试沟通的时候遇到了一个超级甜的-hr](https://www.v2ex.com/t/715319) 
-- [2020-10-15-谁说前端水的？出来！](https://www.v2ex.com/t/715318) 
-- [2020-10-15-老板让我优化网页，求各位建议](https://www.v2ex.com/t/715317) 
-- [2020-10-15-解放一年几十-G-的微信空间占用-|-CleanMyWechat-2.0-版本：全新界面，更强功能](https://www.v2ex.com/t/715316) 

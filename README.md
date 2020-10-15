@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 23:13:53，:rocket: 更新条数: +3701， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 23:25:54，:rocket: 更新条数: +3701， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-15-巴西科技创新及通信部长感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN1i4pL4iQiCLNNkjWoYL201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-15-意大利高等卫生研究院：疫情已进入急剧恶化阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQlPrp0A8l4fN3QrRUmS2201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-15-世卫组织欧洲办事处呼吁各国认真应对秋冬季新冠肺炎疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivC7YGo7QJ53xOqBvFPam201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-15-新冠疫情造成南非人民收入减少11.3%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihEwBUSuAAJa0BpZxGN0w201016&isfromapp=1) ![](assets/new.png)  
 - [2020-10-15-香港15日新增新冠肺炎确诊病例12例-累计确诊5212例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuBxzgvc9mxuA9CKJFxCl201015&isfromapp=1) ![](assets/new.png)  
-- [2020-10-15-印尼新增新冠肺炎确诊病例4411例-累计确诊349160例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiZXjM4beGQmZyXnog36f201015&isfromapp=1) ![](assets/new.png)  
-- [2020-10-15-捷克单日新增近万新冠肺炎确诊病例-本月第七次刷新纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti982wMIVuyiqJRTxZD9uU201015&isfromapp=1) ![](assets/new.png)  
-- [2020-10-15-菲律宾新增2261例新冠肺炎确诊病例-累计达348698例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij4XoU1P9SFJbZSsyQQiO201015&isfromapp=1) ![](assets/new.png)  
-- [2020-10-15-德国新增新冠肺炎确诊病例6638例-累计确诊341223例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTfw9CLwTAd0NYWXduXtO201015&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,20 +1140,20 @@
 
 
 - [2020-10-15-30-岁的程序员出路在哪里？|-码农周刊第-321-期](https://toutiao.io/k/qdeuemt) ![](assets/new.png)  
-- [2020-10-15-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-15-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-15-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
 - [2020-10-15-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-15-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-15-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-15-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-15-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-15-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-15-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-15-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-15-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
 - [2020-10-15-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-15-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
 - [2020-10-15-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-15-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-15-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-15-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-15-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-15-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-15-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-15-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-15-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-15-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-15-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
 - [2020-10-15-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

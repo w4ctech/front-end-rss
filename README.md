@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 10:48:53，:rocket: 更新条数: +3722， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 11:03:54，:rocket: 更新条数: +3723， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-10-15-手持小七，是否以旧换新](https://www.v2ex.com/t/715352) ![](assets/new.png)  
+- [2020-10-15-发布系统-drone-被收购后阉割的差不多了](https://www.v2ex.com/t/715351) ![](assets/new.png)  
+- [2020-10-15-数据库回滚-谁做过人民币扣款回滚](https://www.v2ex.com/t/715350) ![](assets/new.png)  
+- [2020-10-15-这个真是忍不了！-”没有不能揭的黑，没有不敢碰的恶“](https://www.v2ex.com/t/715349) ![](assets/new.png)  
+- [2020-10-15-搭了一个-json-编辑的网站，大家看看是不是有点用，个人感觉这个编辑器还挺好用的](https://www.v2ex.com/t/715348) ![](assets/new.png)  
 - [2020-10-15-有人用过-Qtitan-吗](https://www.v2ex.com/t/715346) ![](assets/new.png)  
 - [2020-10-15-最近高德地图景区问题后，你们都转到百度地图了吗？](https://www.v2ex.com/t/715344) ![](assets/new.png)  
 - [2020-10-15-迫于生活压力,收台式机箱](https://www.v2ex.com/t/715342) ![](assets/new.png)  
@@ -1092,11 +1097,6 @@
 - [2020-10-15-坐姿对脊柱压力的影响](https://www.v2ex.com/t/715328) ![](assets/new.png)  
 - [2020-10-15-南京小牛-niu-车友有群吗？](https://www.v2ex.com/t/715327) ![](assets/new.png)  
 - [2020-10-15-北京积分落户-2020-公示-excel](https://www.v2ex.com/t/715326) ![](assets/new.png)  
-- [2020-10-15-深圳内推小满科技寻初中级前端开发工程师，福利好🎁、双休不打卡🌴、通勤便利🚌🚇-多图](https://www.v2ex.com/t/715323) ![](assets/new.png)  
-- [2020-10-15-科技的发展加速人类的毁灭还是延缓人类的毁灭，怎么证明？](https://www.v2ex.com/t/715322) ![](assets/new.png)  
-- [2020-10-15-字节近期是不是在疯狂招人？](https://www.v2ex.com/t/715321) ![](assets/new.png)  
-- [2020-10-15-突然发现的关于-create-react-app-的奇怪问题](https://www.v2ex.com/t/715320) ![](assets/new.png)  
-- [2020-10-15-今天面试沟通的时候遇到了一个超级甜的-hr](https://www.v2ex.com/t/715319) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1170,26 +1170,26 @@
 </summary>
 
 
-- [2020-10-14-邀您参与-|-“推进等级保护2.0制度,筑牢网络安全防线”联盟系列活动...](https://sec.thief.one/article_content?a_id=8c4f4353597c6ca5579913f265b73118) ![](assets/new.png)  
-- [2020-10-14-DC沙龙拍了拍你,说活动马上开始了!!](https://sec.thief.one/article_content?a_id=eee464ba9294382f1375b9859d0edec7) ![](assets/new.png)  
-- [2020-10-14-明晚七点半,极客高手邀你“云上喝茶”!](https://sec.thief.one/article_content?a_id=1bab43d2b590398914dc625a4455cc22) ![](assets/new.png)  
-- [2020-10-14-一个爬虫的故事:这是人干的事儿?](https://sec.thief.one/article_content?a_id=e25770994d2db9def2bf618bd60ac721) ![](assets/new.png)  
-- [2020-10-14-“助力决战脱贫攻坚——网络名人看重庆”活动启动](https://sec.thief.one/article_content?a_id=86c794964053033278068f0b535d9280) ![](assets/new.png)  
-- [2020-10-14-诸子星球-|-微话题:哪个产品可以识别非结构化数据?](https://sec.thief.one/article_content?a_id=f0a25b8a22caf5e3945ff9295269574b) ![](assets/new.png)  
-- [2020-10-14-15日晚七点半,GeekPwn云安全挑战赛赛前大揭秘!](https://sec.thief.one/article_content?a_id=dc1cb1828601e144623ae6b1e9425b16) ![](assets/new.png)  
-- [2020-10-14-【漏洞通告】Apache-Solr-ConfigSet-API-文件上传漏洞-CVE-2020-...](https://sec.thief.one/article_content?a_id=edb894a2ce426401cc3094b32f5d1f68) ![](assets/new.png)  
-- [2020-10-14-滴滴安全专家刘潇锋:安全运营之自动编排的探索](https://sec.thief.one/article_content?a_id=de5c92577076d8809f95daaffeed3c6f) ![](assets/new.png)  
-- [2020-10-14-信息安全漏洞周报2020年第39期](https://sec.thief.one/article_content?a_id=b7a4f9ba684d01352d112fc45af777cb) ![](assets/new.png)  
-- [2020-10-14-招聘-|-章和技术招贤纳士](https://sec.thief.one/article_content?a_id=9548e6964194d793828d0125f121b645) ![](assets/new.png)  
-- [2020-10-14-这视频,信息量也太大了吧](https://sec.thief.one/article_content?a_id=1679c9ce3f4c09347781e6996006d84c) ![](assets/new.png)  
-- [2020-10-14-SharpHose:一款基于C#开发的Windows异步密码喷射工具](https://sec.thief.one/article_content?a_id=ad6dd0e447528627eb913fa05a9a7626) ![](assets/new.png)  
-- [2020-10-14-苹果发布会iPhone12系列发布;黑客利用漏洞入侵美国选举支持系统...](https://sec.thief.one/article_content?a_id=eda5fe451f13478e79daea65537c7110) ![](assets/new.png)  
-- [2020-10-14-雾帜智能-CTO-傅奎:基于威胁情报+SOAR的实战应用分享-|-2020-情报...](https://sec.thief.one/article_content?a_id=2e93b856bac170e8efbe090e413fe7f3) ![](assets/new.png)  
-- [2020-10-14-去伪存真,更多区块链落地应用即将涌现](https://sec.thief.one/article_content?a_id=b79fe5ca9306f2434d522fc91ec799c4) ![](assets/new.png)  
-- [2020-10-14-漏洞风险提示-|-Windows-TCP/IP-远程代码执行漏洞CVE-2020-...](https://sec.thief.one/article_content?a_id=e3a7d9cefc82621f47383f739fb54cf7) ![](assets/new.png)  
-- [2020-10-14-SRC联合调研问卷的奖品开始发放啦!](https://sec.thief.one/article_content?a_id=2b07551ed7ddfa48c4f92196ec0627a9) ![](assets/new.png)  
-- [2020-10-14-Apache-POI-与-OOB-XXE-组合实战](https://sec.thief.one/article_content?a_id=fd15a41453c05adcb8a35f9d983a0f59) ![](assets/new.png)  
-- [2020-10-14-军衔情况更新|双11安全保卫战](https://sec.thief.one/article_content?a_id=60b9c52761cee2ec9c05ecae4dc624a8) ![](assets/new.png)  
+- [2020-10-15-今晚7点半直播,GeekPwn云安全挑战赛亮点大揭秘](https://sec.thief.one/article_content?a_id=536072982ca7ee95c325bd81411dbf21) ![](assets/new.png)  
+- [2020-10-15-2020-看雪SDC-议题预告-|-世界知名工控厂商密码保护机制突破之旅](https://sec.thief.one/article_content?a_id=fbf5fba57d20fc40fb74945913efc616) ![](assets/new.png)  
+- [2020-10-15-Linux内核曝严重蓝牙漏洞,影响多个版本](https://sec.thief.one/article_content?a_id=a917799c7e57e12a6473a70477237ea2) ![](assets/new.png)  
+- [2020-10-15-极客巅峰2020-部分WriteUp](https://sec.thief.one/article_content?a_id=4b062739551722672b6e194839852dfb) ![](assets/new.png)  
+- [2020-10-15-【Android-原创】MIUI-12稳定版系统中的开发者选项限制解除](https://sec.thief.one/article_content?a_id=4d230e02f8005819563407032848758b) ![](assets/new.png)  
+- [2020-10-15-京东-胡兆丰:情报驱动的主动防御-|-2020-情报大会“剧透”](https://sec.thief.one/article_content?a_id=7beabcc0159328fce6a65cee8cdbbd54) ![](assets/new.png)  
+- [2020-10-15-大家好,今天有一场校园渗透赛,你参加不?](https://sec.thief.one/article_content?a_id=ff4f85f0929d088bbabf27b271e8a29e) ![](assets/new.png)  
+- [2020-10-15-甲乙方视角的安全预警体系建设丨咖面112期](https://sec.thief.one/article_content?a_id=568a0d6bd217de9f28f2d846e0af67c3) ![](assets/new.png)  
+- [2020-10-15-【漏洞预警】CNNVD关于微软多个安全漏洞的通报](https://sec.thief.one/article_content?a_id=b2c34464b97294066a68ec0538ed98ad) ![](assets/new.png)  
+- [2020-10-15-最新监管法规、10月标准实施、地方政策-|-近期重磅网络安全资讯](https://sec.thief.one/article_content?a_id=d701b90afddd3fc52e22c9ce0ddb3f4a) ![](assets/new.png)  
+- [2020-10-15-红蓝对抗系列之浅谈蓝队反制红队的手法一二](https://sec.thief.one/article_content?a_id=2862c02749696e115d71978d84c053ad) ![](assets/new.png)  
+- [2020-10-15-微软10月安全更新补丁和TCP/IP高危漏洞风险提示](https://sec.thief.one/article_content?a_id=390a52a1955aeb1076b8aeec2f5c31b1) ![](assets/new.png)  
+- [2020-10-15-美国网络司令部联合网安技术公司围剿僵尸网络](https://sec.thief.one/article_content?a_id=b4ad7b37ac606f0dc5055e6524537b27) ![](assets/new.png)  
+- [2020-10-15-富达称,散户投资者“毋庸置疑”将转向比特币](https://sec.thief.one/article_content?a_id=a80848cc5734a259f062a70caf1c05c4) ![](assets/new.png)  
+- [2020-10-15-Filecoin主网今晚要启动,但存储概念今天却蔫儿得一塌糊涂](https://sec.thief.one/article_content?a_id=3e1513243f22f82aa15d8fd5da4dddea) ![](assets/new.png)  
+- [2020-10-15-让渗透从黑盒变为“灰盒”](https://sec.thief.one/article_content?a_id=9ac51b2efc5e772b3d5ae4767f9782d4) ![](assets/new.png)  
+- [2020-10-15-G7集团对勒索软件攻击浪潮带来的相关加密威胁表示担忧](https://sec.thief.one/article_content?a_id=1c097414ee370230e4cb1d5fbf4625b3) ![](assets/new.png)  
+- [2020-10-15-新一代Notebook神器出现,Jupyter危险了!](https://sec.thief.one/article_content?a_id=ece467e6833ab3523921f9561936635f) ![](assets/new.png)  
+- [2020-10-15-Windows-IPv6-协议栈中的安全漏洞](https://sec.thief.one/article_content?a_id=50e7cf631bf4c53dfba3816d90e115ae) ![](assets/new.png)  
+- [2020-10-15-记一次微信小程序渗透测试](https://sec.thief.one/article_content?a_id=3e1252b13a678659d10b4e19c6f87dcd) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

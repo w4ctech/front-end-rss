@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 01:43:36，:rocket: 更新条数: +3484， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 01:50:55，:rocket: 更新条数: +3484， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-10-15-DNSEC-中-DNSKEY-记录的-Flags-字段中-BIT15-安全入口点的使用场景？](https://www.v2ex.com/t/715100) ![](assets/new.png)  
+- [2020-10-15-falcon-框架如何开启调试？](https://www.v2ex.com/t/715099) ![](assets/new.png)  
+- [2020-10-15-请问这样的工作合同有什么坑吗](https://www.v2ex.com/t/715098) ![](assets/new.png)  
+- [2020-10-15-go-get-安装-github-库时怎么指定特定-ldflags-cflags](https://www.v2ex.com/t/715097) ![](assets/new.png)  
 - [2020-10-15-小白个人-BLOG，来一波关注豪不豪？](https://www.v2ex.com/t/715094) ![](assets/new.png)  
 - [2020-10-15-Win10-有没有类似-Linux-中，数据盘整体镜像备份的功能？](https://www.v2ex.com/t/715093) ![](assets/new.png)  
 - [2020-10-15-为什么老是有一些百度爬虫的-ip-访问公司的网站，但是没有-referer-请求头](https://www.v2ex.com/t/715092) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-10-15-深圳南山TCL-社招内推-Java-/Android/测试/测开/k8s-运维/运维开发](https://www.v2ex.com/t/715077) ![](assets/new.png)  
 - [2020-10-15-想问一下北京哪里验光/配镜比较好](https://www.v2ex.com/t/715076) ![](assets/new.png)  
 - [2020-10-15-有没有开源的-http-文件共享系统推荐](https://www.v2ex.com/t/715075) ![](assets/new.png)  
-- [2020-10-15-Pixel-C-Netflix-无法播放-HD](https://www.v2ex.com/t/715074) ![](assets/new.png)  
-- [2020-10-15-Arm-MacBook-11-月还会跳票吗](https://www.v2ex.com/t/715073) ![](assets/new.png)  
-- [2020-10-15-求一款比较完美的-git-合并软件](https://www.v2ex.com/t/715072) ![](assets/new.png)  
-- [2020-10-15-两年-React-开发，打算今天离职，想找份远程工作，求个机会～](https://www.v2ex.com/t/715071) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1123,22 +1123,22 @@
 - [2020-10-15-美团外卖实时数仓建设实践](https://toutiao.io/k/44pxclt) ![](assets/new.png)  
 - [2020-10-15-Go-1.15-中值得关注的几个变化](https://toutiao.io/k/lipeqlg) ![](assets/new.png)  
 - [2020-10-15-Go-Zero-如何应对海量定时/延迟任务](https://toutiao.io/k/g1xuphe) ![](assets/new.png)  
-- [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
 - [2020-10-15-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
+- [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
 - [2020-10-15-研发团队如何使用-OKR](https://toutiao.io/k/8nymt6s) ![](assets/new.png)  
 - [2020-10-15-译-Google-搜索的-10-个小技巧，部分适用于百度](https://toutiao.io/k/v6w1o2e) ![](assets/new.png)  
 - [2020-10-15-陌陌-SAST-IDEA-插件开源](https://toutiao.io/k/jpv5pck) ![](assets/new.png)  
 - [2020-10-15-参照网易云音乐云村做的一个小程序社区](https://toutiao.io/k/7fenfky) ![](assets/new.png)  
 - [2020-10-15-设计模式之代理模式](https://toutiao.io/k/w594q3h) ![](assets/new.png)  
-- [2020-10-15-算法：经典排序算法的-Go-实现](https://toutiao.io/k/i3bfwv0) ![](assets/new.png)  
 - [2020-10-15-译-波兰在线购物网站-Allegro.pl-迁移到服务网格经验分享](https://toutiao.io/k/qppy6if) ![](assets/new.png)  
-- [2020-10-15-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-15-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-15-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-15-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-15-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-15-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-15-算法：经典排序算法的-Go-实现](https://toutiao.io/k/i3bfwv0) ![](assets/new.png)  
 - [2020-10-15-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-15-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-15-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-15-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-15-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-15-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-15-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

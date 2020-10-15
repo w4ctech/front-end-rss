@@ -13572,6 +13572,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "香港15日新增新冠肺炎确诊病例12例 累计确诊5212例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuBxzgvc9mxuA9CKJFxCl201015&isfromapp=1",
+        "date": "2020-10-15"
+      },
+      {
         "title": "捷克单日新增近万新冠肺炎确诊病例 本月第七次刷新纪录",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti982wMIVuyiqJRTxZD9uU201015&isfromapp=1",
         "date": "2020-10-15"
@@ -13589,11 +13594,6 @@
       {
         "title": "印度新增新冠肺炎确诊病例67708例 累计确诊7307097例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY146PebYPpGBQbztL7zH201015&isfromapp=1",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "我区首家藏医医院核酸检测（PCR）实验室完成建设并投入使用",
-        "link": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202010/t20201015_179182.html",
         "date": "2020-10-15"
       }
     ]
@@ -16401,11 +16401,6 @@
         "date": "2020-10-15"
       },
       {
-        "title": "前端搞报表|数据分析提效全链路解决方案",
-        "link": "https://juejin.im/post/6883738257276960776",
-        "date": "2020-10-14"
-      },
-      {
         "title": "Ngnix代理前后端服务",
         "link": "https://juejin.im/post/6883683359155978254",
         "date": "2020-10-14"
@@ -16413,6 +16408,11 @@
       {
         "title": "零基础小白前端学习之HTML（七）",
         "link": "https://juejin.im/post/6883681614275018759",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "vue+node.js手把手教你搭建一个直播平台（五） 接入用户相关接口",
+        "link": "https://juejin.im/post/6883646523834548232",
         "date": "2020-10-14"
       }
     ]
@@ -16750,6 +16750,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "突然发现的关于 create-react-app 的奇怪问题",
+        "link": "https://www.v2ex.com/t/715320",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "今天面试沟通的时候遇到了一个超级甜的 hr",
+        "link": "https://www.v2ex.com/t/715319",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "谁说前端水的？出来！",
+        "link": "https://www.v2ex.com/t/715318",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "老板让我优化网页，求各位建议",
+        "link": "https://www.v2ex.com/t/715317",
+        "date": "2020-10-15"
+      },
+      {
         "title": "解放一年几十 G 的微信空间占用 | CleanMyWechat 2.0 版本：全新界面，更强功能",
         "link": "https://www.v2ex.com/t/715316",
         "date": "2020-10-15"
@@ -16947,26 +16967,6 @@
       {
         "title": "适合团队的小零食小吃，求推荐！",
         "link": "https://www.v2ex.com/t/715271",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "腾讯的 HR 已经这么飘了吗？",
-        "link": "https://www.v2ex.com/t/715270",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "如何把 Paypal 里美元取出买点美股",
-        "link": "https://www.v2ex.com/t/715269",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "老前端们平时 mock 数据都是用的什么工具？",
-        "link": "https://www.v2ex.com/t/715268",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "大佬们都用的是哪款牙膏刷牙的？",
-        "link": "https://www.v2ex.com/t/715267",
         "date": "2020-10-15"
       }
     ]
@@ -17184,23 +17184,28 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-15"
       },
       {
@@ -17214,23 +17219,18 @@
         "date": "2020-10-15"
       },
       {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-15"
+      },
+      {
         "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
         "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-15"
       },
       {
@@ -17239,18 +17239,18 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-15"
       },
       {
         "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
         "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
         "date": "2020-10-15"
       }
     ]

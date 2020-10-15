@@ -13572,6 +13572,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "捷克单日新增近万新冠肺炎确诊病例 本月第七次刷新纪录",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti982wMIVuyiqJRTxZD9uU201015&isfromapp=1",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "菲律宾新增2261例新冠肺炎确诊病例 累计达348698例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij4XoU1P9SFJbZSsyQQiO201015&isfromapp=1",
+        "date": "2020-10-15"
+      },
+      {
         "title": "德国新增新冠肺炎确诊病例6638例 累计确诊341223例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTfw9CLwTAd0NYWXduXtO201015&isfromapp=1",
         "date": "2020-10-15"
@@ -13584,16 +13594,6 @@
       {
         "title": "我区首家藏医医院核酸检测（PCR）实验室完成建设并投入使用",
         "link": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202010/t20201015_179182.html",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "特朗普小儿子曾感染新冠病毒",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivlHTGkwYYONvZSy3CBUR201015&isfromapp=1",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "韩国釜山暴发集体感染 首都圈将检测16万人",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fWzeF8l7y8u8ga9W8t1201015&isfromapp=1",
         "date": "2020-10-15"
       }
     ]
@@ -16391,6 +16391,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "Modern模式引发qiankun的一场“命案”",
+        "link": "https://juejin.im/post/6883759057530781710",
+        "date": "2020-10-15"
+      },
+      {
         "title": "前端搞报表|数据分析提效全链路解决方案",
         "link": "https://juejin.im/post/6883738257276960776",
         "date": "2020-10-14"
@@ -16408,11 +16413,6 @@
       {
         "title": "高效地调试npm包总结",
         "link": "https://juejin.im/post/6883482837262008328",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "如何在vue2.x中体验vue3.0",
-        "link": "https://juejin.im/post/6883465337984008200",
         "date": "2020-10-14"
       }
     ]
@@ -16750,6 +16750,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "分享下整理的一套基于 react + antd + typescript + less 的组件库",
+        "link": "https://www.v2ex.com/t/715298",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "罗技 MX Master 3 对手小的人来说真是噩梦",
+        "link": "https://www.v2ex.com/t/715297",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "请问有能实现这种聚合效果的 chrome/edge 插件吗？",
+        "link": "https://www.v2ex.com/t/715296",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "access_log 日志中存在大量 AHC/1.0",
+        "link": "https://www.v2ex.com/t/715295",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "各大厂商路由器系统更新支持时间？",
+        "link": "https://www.v2ex.com/t/715294",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "腾讯云 11·11 续费活动低至 2 折操作",
+        "link": "https://www.v2ex.com/t/715293",
+        "date": "2020-10-15"
+      },
+      {
         "title": "[日经求推荐手机] 原生（至少流畅使用 google 服务）| 双卡 | 128G 或以上",
         "link": "https://www.v2ex.com/t/715292",
         "date": "2020-10-15"
@@ -16907,36 +16937,6 @@
       {
         "title": "那种反映历史变化的动画图表术语叫什么？",
         "link": "https://www.v2ex.com/t/715250",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "有人做过播放器开发吗？有偿求支持",
-        "link": "https://www.v2ex.com/t/715249",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "考上大学的妹妹买个平板，，求推荐",
-        "link": "https://www.v2ex.com/t/715248",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "iPhone 12 上 128 还是 256",
-        "link": "https://www.v2ex.com/t/715247",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "一次查询优化...",
-        "link": "https://www.v2ex.com/t/715246",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "iPhone 12 的 MagSafe 可以被配件厂商玩出什么花样",
-        "link": "https://www.v2ex.com/t/715244",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "电信打电话来推销升级 5G 套餐",
-        "link": "https://www.v2ex.com/t/715243",
         "date": "2020-10-15"
       }
     ]
@@ -17144,58 +17144,13 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[译] Flutter 性能优化系列之打造高性能 widget",
-        "link": "https://toutiao.io/k/88nqwv0",
-        "date": "2020-10-15"
-      },
-      {
         "title": "Python 疑难问题：[] 与 list() 哪个快？为什么快？快多少呢？",
         "link": "https://toutiao.io/k/iqa5hbo",
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
+        "title": "[译] Flutter 性能优化系列之打造高性能 widget",
+        "link": "https://toutiao.io/k/88nqwv0",
         "date": "2020-10-15"
       },
       {
@@ -17204,8 +17159,8 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-15"
       },
       {
@@ -17214,13 +17169,58 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-15"
       }
     ]

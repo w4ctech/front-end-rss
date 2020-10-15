@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 08:16:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 08:31:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,7 +86,6 @@
 - [2020-10-15-国内如何使用-twitch-开放直播](https://www.v2ex.com/t/715285) 
 - [2020-10-15-如何减小-iPhone-拍摄的视频体积大小?](https://www.v2ex.com/t/715272) 
 - [2020-10-15-请教大佬们，目前直播架构是什么样的啊](https://www.v2ex.com/t/715254) 
-- [2020-10-15-有人做过播放器开发吗？有偿求支持](https://www.v2ex.com/t/715249) 
 - [2020-10-14-这视频,信息量也太大了吧](https://sec.thief.one/article_content?a_id=1679c9ce3f4c09347781e6996006d84c) 
 - [2020-10-14-【视频】|-你被APP非法定位了吗?](https://sec.thief.one/article_content?a_id=8e48bc6ae62080cc1f79bc5346c70884) 
 - [2020-10-14-黑客入侵家庭摄像机,发布3TB敏感剪辑视频](https://sec.thief.one/article_content?a_id=01786512fd01cf89d946d0501f185899) 

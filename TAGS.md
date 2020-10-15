@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-15 01:11:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 01:20:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -396,9 +396,9 @@
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】一款被大家低估的微服务场景下性能问题排查神器！](https://www.ershicimi.com/p/15da6d82c5f2a839f3a61cd256c39ac3)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
 - [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
 - [【开发者头条】推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9)
-- [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
 - [【安全热点】如何优雅地给妹子优化电脑Windows?](https://sec.thief.one/article_content?a_id=98e852af35513445e007a9634199781b)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -610,7 +610,7 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】10月14日全国新增新冠11例-本土山东1例](http://m.china.caixin.com/m/2020-10-15/101614818.html)
+- [【武汉肺炎防疫全纪录(财新网)】10月14日全国新增新冠11例-山东本土1例](http://m.china.caixin.com/m/2020-10-15/101614818.html)
 - [【武汉肺炎防疫全纪录(财新网)】独家|青岛疫情或源于早前码头工人感染-专家称暂未发现社区传播](https://m.caixin.com/m/2020-10-14/101614662.html)
 - [【武汉肺炎防疫全纪录(财新网)】国台办回应台防疫部门称新增1例大陆输入病例](http://m.china.caixin.com/m/2020-10-14/101614573.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3793万-累计死亡超108万](http://m.international.caixin.com/m/2020-10-14/101614641.html)

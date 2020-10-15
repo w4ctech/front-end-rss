@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-15 03:47:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 04:04:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-15-买一个-Magsafe-无线充是不是就不用买充电器了？](https://www.v2ex.com/t/715182) 
+- [2020-10-15-能不能自己动手把手机的后盖做成磨砂的呢](https://www.v2ex.com/t/715181) 
+- [2020-10-15-请教！-前端有没有办法将图片（PNG、JPG、SVG）转成-AI-格式（EPS）。](https://www.v2ex.com/t/715180) 
+- [2020-10-15-阿里云-PTS-性能测试服务和-JMeter-这些压力测试有什么区别吗](https://www.v2ex.com/t/715179) 
 - [2020-10-15-mac-打字有些字母会出现两次问题](https://www.v2ex.com/t/715177) 
 - [2020-10-15-想给老妈换个手机，-iPhone-11-&-12-如何选择？](https://www.v2ex.com/t/715176) 
 - [2020-10-15-iphone12-的-RAM-是-4GB-还是-6GB？-4GB-还能撑几代？](https://www.v2ex.com/t/715175) 
@@ -44,5 +48,3 @@
 - [2020-10-15-北京-猿辅导---基础架构工程师-/-Tech-Leader（Server、前端、客户端）](https://www.v2ex.com/t/715135) 
 - [2020-10-15-想入手-mbp,主要做开发，求推荐。](https://www.v2ex.com/t/715134) 
 - [2020-10-15-西数-12T-机械硬盘中亚-Prime-会员到手-1295.9](https://www.v2ex.com/t/715133) 
-- [2020-10-15-V2EXer-们，你们每天上午上班必看的网站有哪些？](https://www.v2ex.com/t/715132) 
-- [2020-10-15-7-年工作经验，-OTA-行业产品经理求职，-base-上海](https://www.v2ex.com/t/715131) 

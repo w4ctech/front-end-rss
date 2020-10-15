@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 03:47:20，:rocket: 更新条数: +3726， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 04:04:42，:rocket: 更新条数: +3728， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -384,6 +384,9 @@
 </summary>
 
 
+- [2020-10-14-我在众多AI学习的分享中，找到了最强教学系列视频！](https://www.ershicimi.com/p/eba5bb49df092314f8ce374e745cca90) ![](assets/new.png)  
+- [2020-10-14-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/b8ec5bada8e183c1aba78aa6176b6279) ![](assets/new.png)  
+- [2020-10-13-如何在从事前端两年，得到20K+的offer](https://www.ershicimi.com/p/fa0312da26731d7547946d88b01be50d) ![](assets/new.png)  
 - [2020-10-12-webpack如何快速入门？](https://www.ershicimi.com/p/72cb35fa3d75999fdb846a6f1ad79636) ![](assets/new.png)  
 - [2020-10-12-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bb121b910148c883d3d1c8243fa7abdf) ![](assets/new.png)  
 - [2020-10-10-Vue3+TypeScript完整项目上手教程](https://www.ershicimi.com/p/a1f58e05342565128a63f7116db38e2a) ![](assets/new.png)  
@@ -401,9 +404,6 @@
 - [2020-09-24-前端面试常见的手写功能（常用代码）](https://www.ershicimi.com/p/341f27b85dabee96c83330aecd0a3458) ![](assets/new.png)  
 - [2020-09-23-从阿里,华为等大厂开发实战，看清大前端趋势](https://www.ershicimi.com/p/406c9b19309b89074f2058a28aac2b98) ![](assets/new.png)  
 - [2020-09-22-别再被前端“洗脑”了！！](https://www.ershicimi.com/p/335ca1f511eb7c4532d1fdd7bde51eb2) ![](assets/new.png)  
-- [2020-09-22-JavaScript-交换值的奇思妙想](https://www.ershicimi.com/p/5c4e76536d8822a71334167df303255f) ![](assets/new.png)  
-- [2020-09-21-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/a8f23202f8f5bedddb75f0dc36476dc3) ![](assets/new.png)  
-- [2020-09-20-TypeScript之父：JS不是竞争对手](https://www.ershicimi.com/p/b427791b842bf861fb65711bb42df6f8) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,11 +967,11 @@
 </summary>
 
 
+- [2020-10-14-Express+MongoDB搭建图片分享社区二](https://juejin.im/post/6883386739654656007) ![](assets/new.png)  
 - [2020-10-13-微信小程序wx.onAppShow的一个使用场景（微信小程序实名认证）](https://juejin.im/post/6883370905460965390) ![](assets/new.png)  
 - [2020-10-13-链式调用sum12,34,5,6](https://juejin.im/post/6883366522996129799) ![](assets/new.png)  
 - [2020-10-13-初探vue3响应性基础-API](https://juejin.im/post/6883363601730502663) ![](assets/new.png)  
 - [2020-10-13-Fullscreen-API与DOM监听API](https://juejin.im/post/6883363601168957448) ![](assets/new.png)  
-- [2020-10-13-翻译|immutability-helper使用文档](https://juejin.im/post/6883363083314528270) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,10 @@
 </summary>
 
 
+- [2020-10-15-买一个-Magsafe-无线充是不是就不用买充电器了？](https://www.v2ex.com/t/715182) ![](assets/new.png)  
+- [2020-10-15-能不能自己动手把手机的后盖做成磨砂的呢](https://www.v2ex.com/t/715181) ![](assets/new.png)  
+- [2020-10-15-请教！-前端有没有办法将图片（PNG、JPG、SVG）转成-AI-格式（EPS）。](https://www.v2ex.com/t/715180) ![](assets/new.png)  
+- [2020-10-15-阿里云-PTS-性能测试服务和-JMeter-这些压力测试有什么区别吗](https://www.v2ex.com/t/715179) ![](assets/new.png)  
 - [2020-10-15-mac-打字有些字母会出现两次问题](https://www.v2ex.com/t/715177) ![](assets/new.png)  
 - [2020-10-15-想给老妈换个手机，-iPhone-11-&-12-如何选择？](https://www.v2ex.com/t/715176) ![](assets/new.png)  
 - [2020-10-15-iphone12-的-RAM-是-4GB-还是-6GB？-4GB-还能撑几代？](https://www.v2ex.com/t/715175) ![](assets/new.png)  
@@ -1093,10 +1097,6 @@
 - [2020-10-15-手持-iPhone-5S，是时候更新换代了，是明天直接预定好呢还是等双-11-好呢？](https://www.v2ex.com/t/715163) ![](assets/new.png)  
 - [2020-10-15-你们买-Apple-Pencil-了吗？](https://www.v2ex.com/t/715161) ![](assets/new.png)  
 - [2020-10-15-想问下大家这个房该不该买](https://www.v2ex.com/t/715160) ![](assets/new.png)  
-- [2020-10-15-大家写业务代码有什么心得吗？](https://www.v2ex.com/t/715159) ![](assets/new.png)  
-- [2020-10-15-如果你们回西安，是想找个大厂，还是尽量-WLB？](https://www.v2ex.com/t/715158) ![](assets/new.png)  
-- [2020-10-15-深圳国企招人了](https://www.v2ex.com/t/715157) ![](assets/new.png)  
-- [2020-10-15-帮平面设计师找份工作，我觉得设计能力很不错,学习能力不错，学历是专科可能投大公司会被歧视有点可惜，坐标杭州，如果有需要平面设计师的可以联系一下，作品...](https://www.v2ex.com/t/715156) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,8 +1144,8 @@
 - [2020-10-15-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
 - [2020-10-15-美团外卖实时数仓建设实践](https://toutiao.io/k/44pxclt) ![](assets/new.png)  
 - [2020-10-15-Go-1.15-中值得关注的几个变化](https://toutiao.io/k/lipeqlg) ![](assets/new.png)  
-- [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
 - [2020-10-15-研发团队如何使用-OKR](https://toutiao.io/k/8nymt6s) ![](assets/new.png)  
+- [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
 - [2020-10-15-译-Google-搜索的-10-个小技巧，部分适用于百度](https://toutiao.io/k/v6w1o2e) ![](assets/new.png)  
 - [2020-10-15-参照网易云音乐云村做的一个小程序社区](https://toutiao.io/k/7fenfky) ![](assets/new.png)  
 - [2020-10-15-设计模式之代理模式](https://toutiao.io/k/w594q3h) ![](assets/new.png)  
@@ -1157,8 +1157,8 @@
 - [2020-10-15-谈谈-React-5-种最流行的状态管理库](https://toutiao.io/k/gju00sr) ![](assets/new.png)  
 - [2020-10-15-前端中台化，把格局做大：NodeJS-和测试服务探索](https://toutiao.io/k/tfzntlq) ![](assets/new.png)  
 - [2020-10-15-简单了解-Uniswap-是如何运作的](https://toutiao.io/k/bnfyg59) ![](assets/new.png)  
-- [2020-10-15-Python-疑难问题：-与-list-哪个快？为什么快？快多少呢？](https://toutiao.io/k/iqa5hbo) ![](assets/new.png)  
 - [2020-10-15-译-Flutter-性能优化系列之打造高性能-widget](https://toutiao.io/k/88nqwv0) ![](assets/new.png)  
+- [2020-10-15-Python-疑难问题：-与-list-哪个快？为什么快？快多少呢？](https://toutiao.io/k/iqa5hbo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

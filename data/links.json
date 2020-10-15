@@ -14551,6 +14551,21 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "我在众多AI学习的分享中，找到了最强教学系列视频！",
+        "link": "https://www.ershicimi.com/p/eba5bb49df092314f8ce374e745cca90",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "有赞美业前端： 持续标准化 Code Review",
+        "link": "https://www.ershicimi.com/p/b8ec5bada8e183c1aba78aa6176b6279",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "如何在从事前端两年，得到20K+的offer",
+        "link": "https://www.ershicimi.com/p/fa0312da26731d7547946d88b01be50d",
+        "date": "2020-10-13"
+      },
+      {
         "title": "webpack如何快速入门？",
         "link": "https://www.ershicimi.com/p/72cb35fa3d75999fdb846a6f1ad79636",
         "date": "2020-10-12"
@@ -14634,21 +14649,6 @@
         "title": "别再被前端“洗脑”了！！",
         "link": "https://www.ershicimi.com/p/335ca1f511eb7c4532d1fdd7bde51eb2",
         "date": "2020-09-22"
-      },
-      {
-        "title": "JavaScript 交换值的奇思妙想",
-        "link": "https://www.ershicimi.com/p/5c4e76536d8822a71334167df303255f",
-        "date": "2020-09-22"
-      },
-      {
-        "title": "从0到1用Node完成一个CLI工具",
-        "link": "https://www.ershicimi.com/p/a8f23202f8f5bedddb75f0dc36476dc3",
-        "date": "2020-09-21"
-      },
-      {
-        "title": "TypeScript之父：JS不是竞争对手",
-        "link": "https://www.ershicimi.com/p/b427791b842bf861fb65711bb42df6f8",
-        "date": "2020-09-20"
       }
     ],
     "link": "https://www.ershicimi.com/a/892"
@@ -17552,6 +17552,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "Express+MongoDB搭建图片分享社区二",
+        "link": "https://juejin.im/post/6883386739654656007",
+        "date": "2020-10-14"
+      },
+      {
         "title": "微信小程序wx.onAppShow的一个使用场景（微信小程序实名认证）",
         "link": "https://juejin.im/post/6883370905460965390",
         "date": "2020-10-13"
@@ -17569,11 +17574,6 @@
       {
         "title": "Fullscreen API与DOM监听API",
         "link": "https://juejin.im/post/6883363601168957448",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "翻译|immutability-helper使用文档",
-        "link": "https://juejin.im/post/6883363083314528270",
         "date": "2020-10-13"
       }
     ]
@@ -17911,6 +17911,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "买一个 Magsafe 无线充是不是就不用买充电器了？",
+        "link": "https://www.v2ex.com/t/715182",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "能不能自己动手把手机的后盖做成磨砂的呢",
+        "link": "https://www.v2ex.com/t/715181",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "请教！ 前端有没有办法将图片（PNG、JPG、SVG）转成 AI 格式（EPS）。",
+        "link": "https://www.v2ex.com/t/715180",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "阿里云 PTS 性能测试服务和 JMeter 这些压力测试有什么区别吗",
+        "link": "https://www.v2ex.com/t/715179",
+        "date": "2020-10-15"
+      },
+      {
         "title": "mac 打字有些字母会出现两次问题",
         "link": "https://www.v2ex.com/t/715177",
         "date": "2020-10-15"
@@ -18104,16 +18124,6 @@
         "title": "西数 12T 机械硬盘中亚 Prime 会员到手 1295.9",
         "link": "https://www.v2ex.com/t/715133",
         "date": "2020-10-15"
-      },
-      {
-        "title": "V2EXer 们，你们每天上午上班必看的网站有哪些？",
-        "link": "https://www.v2ex.com/t/715132",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "7 年工作经验， OTA 行业产品经理求职， base 上海",
-        "link": "https://www.v2ex.com/t/715131",
-        "date": "2020-10-15"
       }
     ]
   },
@@ -18255,13 +18265,13 @@
         "date": "2020-10-15"
       },
       {
-        "title": "重新信仰 PoW，今天我们有了 EPoW",
-        "link": "https://toutiao.io/k/53b5ikg",
+        "title": "研发团队如何使用 OKR",
+        "link": "https://toutiao.io/k/8nymt6s",
         "date": "2020-10-15"
       },
       {
-        "title": "研发团队如何使用 OKR",
-        "link": "https://toutiao.io/k/8nymt6s",
+        "title": "重新信仰 PoW，今天我们有了 EPoW",
+        "link": "https://toutiao.io/k/53b5ikg",
         "date": "2020-10-15"
       },
       {
@@ -18320,13 +18330,18 @@
         "date": "2020-10-15"
       },
       {
+        "title": "[译] Flutter 性能优化系列之打造高性能 widget",
+        "link": "https://toutiao.io/k/88nqwv0",
+        "date": "2020-10-15"
+      },
+      {
         "title": "Python 疑难问题：[] 与 list() 哪个快？为什么快？快多少呢？",
         "link": "https://toutiao.io/k/iqa5hbo",
         "date": "2020-10-15"
       },
       {
-        "title": "[译] Flutter 性能优化系列之打造高性能 widget",
-        "link": "https://toutiao.io/k/88nqwv0",
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-15"
       },
       {
@@ -18340,48 +18355,8 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-15"
-      },
-      {
         "title": "[推荐] 我是如何阅读 JDK 源码的？",
         "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-15"
       },
       {
@@ -18390,13 +18365,48 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
         "date": "2020-10-15"
       },
       {
         "title": "[推荐] 高性能网关设计实践",
         "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-15"
       }
     ]

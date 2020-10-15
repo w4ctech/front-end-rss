@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 23:04:00，:rocket: 更新条数: +3720， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 23:13:53，:rocket: 更新条数: +3701， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-10-15-抽激活码-AnchorWidget---快捷启动和常用-Widget-合集](https://www.v2ex.com/t/715438) ![](assets/new.png)  
 - [2020-10-15-怎么接入微信或者支付宝的收款码？](https://www.v2ex.com/t/715437) ![](assets/new.png)  
 - [2020-10-15-iOS14-少了「健康」Widget-缺点意思啊](https://www.v2ex.com/t/715435) ![](assets/new.png)  
 - [2020-10-15-iOS14-与-macOS10.15-不能同步-keychain？](https://www.v2ex.com/t/715432) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-10-15-16-寸的-mbp-今年还会有更新吗，现在入个二手还是再等等](https://www.v2ex.com/t/715418) ![](assets/new.png)  
 - [2020-10-15-888-元低价出一个微信小游戏源码](https://www.v2ex.com/t/715416) ![](assets/new.png)  
 - [2020-10-15-为什么-airpods-pro-放着不用盒子也耗电](https://www.v2ex.com/t/715413) ![](assets/new.png)  
-- [2020-10-15-ZPan-v1.4-版本发布，全新-UI-欢迎体验~](https://www.v2ex.com/t/715411) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,26 +1139,22 @@
 </summary>
 
 
-- [2020-10-15-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-15-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-15-Go-Zero-如何应对海量定时/延迟任务](https://toutiao.io/k/g1xuphe) ![](assets/new.png)  
-- [2020-10-15-研发团队如何使用-OKR](https://toutiao.io/k/8nymt6s) ![](assets/new.png)  
-- [2020-10-15-Go-1.15-中值得关注的几个变化](https://toutiao.io/k/lipeqlg) ![](assets/new.png)  
-- [2020-10-15-美团外卖实时数仓建设实践](https://toutiao.io/k/44pxclt) ![](assets/new.png)  
-- [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
-- [2020-10-15-译-Google-搜索的-10-个小技巧，部分适用于百度](https://toutiao.io/k/v6w1o2e) ![](assets/new.png)  
-- [2020-10-15-陌陌-SAST-IDEA-插件开源](https://toutiao.io/k/jpv5pck) ![](assets/new.png)  
-- [2020-10-15-设计模式之代理模式](https://toutiao.io/k/w594q3h) ![](assets/new.png)  
-- [2020-10-15-译-波兰在线购物网站-Allegro.pl-迁移到服务网格经验分享](https://toutiao.io/k/qppy6if) ![](assets/new.png)  
-- [2020-10-15-参照网易云音乐云村做的一个小程序社区](https://toutiao.io/k/7fenfky) ![](assets/new.png)  
-- [2020-10-15-算法：经典排序算法的-Go-实现](https://toutiao.io/k/i3bfwv0) ![](assets/new.png)  
-- [2020-10-15-敏捷项目管理需要知道的五类图表](https://toutiao.io/k/yszw8e7) ![](assets/new.png)  
-- [2020-10-15-数学基础学习笔记：概率论](https://toutiao.io/k/q809gcs) ![](assets/new.png)  
-- [2020-10-15-前端中台化，把格局做大：NodeJS-和测试服务探索](https://toutiao.io/k/tfzntlq) ![](assets/new.png)  
-- [2020-10-15-谈谈-React-5-种最流行的状态管理库](https://toutiao.io/k/gju00sr) ![](assets/new.png)  
-- [2020-10-15-Python-疑难问题：-与-list-哪个快？为什么快？快多少呢？](https://toutiao.io/k/iqa5hbo) ![](assets/new.png)  
-- [2020-10-15-译-Flutter-性能优化系列之打造高性能-widget](https://toutiao.io/k/88nqwv0) ![](assets/new.png)  
-- [2020-10-15-简单了解-Uniswap-是如何运作的](https://toutiao.io/k/bnfyg59) ![](assets/new.png)  
+- [2020-10-15-30-岁的程序员出路在哪里？|-码农周刊第-321-期](https://toutiao.io/k/qdeuemt) ![](assets/new.png)  
+- [2020-10-15-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-15-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-15-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-15-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-15-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-15-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-15-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-15-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-15-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-15-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-15-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-15-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-15-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-15-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-15-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

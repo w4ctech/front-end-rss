@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 06:16:30，:rocket: 更新条数: +3494， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 06:32:10，:rocket: 更新条数: +3494， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-10-14-uni-app网络请求的封装](https://juejin.im/post/6883432960125566989) ![](assets/new.png)  
-- [2020-10-14-15分钟入门Typescript](https://juejin.im/post/6883432548970545160) ![](assets/new.png)  
-- [2020-10-14-webpack-萌新研究入门全过程（1）](https://juejin.im/post/6883414561194508295) ![](assets/new.png)  
-- [2020-10-14-微前端实现共享方式之---git-submodule-使用说明](https://juejin.im/post/6883413266291720199) ![](assets/new.png)  
-- [2020-10-14-JS拷贝问题理解和方法大全](https://juejin.im/post/6883408951921098759) ![](assets/new.png)  
+- [2020-10-14-高效地调试npm包总结](https://juejin.im/post/6883482837262008328) ![](assets/new.png)  
+- [2020-10-14-如何在vue2.x中体验vue3.0](https://juejin.im/post/6883465337984008200) ![](assets/new.png)  
+- [2020-10-14-Enzyme-中-dive-和-shallow-的区别](https://juejin.im/post/6883464051326713864) ![](assets/new.png)  
+- [2020-10-14-【JavaScript】有趣的作用域和提升](https://juejin.im/post/6883462967082516487) ![](assets/new.png)  
+- [2020-10-14-多包依赖管理--Lerna](https://juejin.im/post/6883450694586597383) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-10-15-Google-Drive-搜素引擎-重大升级](https://www.v2ex.com/t/715222) ![](assets/new.png)  
+- [2020-10-15-团购-iStat-Menus-Family-Pack-有上车的吗？](https://www.v2ex.com/t/715220) ![](assets/new.png)  
+- [2020-10-15-硅谷-AI-外企-Hiretual-北京研发中心-自动化测试工程师招聘-ing](https://www.v2ex.com/t/715219) ![](assets/new.png)  
 - [2020-10-15-背了公积金贷款后，还能提现吗？](https://www.v2ex.com/t/715218) ![](assets/new.png)  
 - [2020-10-15-某重点大学对本科生开展芯片敏捷设计课程](https://www.v2ex.com/t/715217) ![](assets/new.png)  
 - [2020-10-15-有什么库可以实现-LeetCode-的提交记录图表吗？](https://www.v2ex.com/t/715216) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-10-15-北京-C++坑位一个，可以发简历来撩，总部在杭州，恒生电子子公司](https://www.v2ex.com/t/715201) ![](assets/new.png)  
 - [2020-10-15-苹果设备的新功能-Intercom-对讲机应用前景会如何？](https://www.v2ex.com/t/715200) ![](assets/new.png)  
 - [2020-10-15-请问-ios-平台有没有安卓上的类似-阅读-这样的小说阅读软件，可以自定义源的](https://www.v2ex.com/t/715198) ![](assets/new.png)  
-- [2020-10-15-今年双十一，貌似商家们还很蛋定啊，京东淘宝都没看到保价双十一的标语出现。](https://www.v2ex.com/t/715196) ![](assets/new.png)  
-- [2020-10-15-想知道各位目前-4g-测速下可以达到多少兆？](https://www.v2ex.com/t/715194) ![](assets/new.png)  
-- [2020-10-15-nlp-求教，例如这段文字，如何通过机器学习做到是新冠相关的新闻？](https://www.v2ex.com/t/715193) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

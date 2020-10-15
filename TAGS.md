@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-15 06:35:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 06:48:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -248,7 +248,6 @@
 
 
 - [【InfoQ】德甲、NFL、F1-赛车的游戏规则正在改变，AWS-如何解锁数据潜能](https://www.ershicimi.com/p/46404117114c6f7bbacae7e23358772f)
-- [【V2EX】推荐自己刚上线的微信小游戏：疯狂填字，超多题停不下来](https://www.v2ex.com/t/715173)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -337,7 +336,6 @@
 
 
 
-- [【V2EX】请教！-前端有没有办法将图片（PNG、JPG、SVG）转成-AI-格式（EPS）。](https://www.v2ex.com/t/715180)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -393,12 +391,13 @@
 - [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html)
 - [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
 - [【程序员成长指北】腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/fd031a7c201d4d2d94d0750bedf5df48)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】一款被大家低估的微服务场景下性能问题排查神器！](https://www.ershicimi.com/p/15da6d82c5f2a839f3a61cd256c39ac3)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】阿里云-PTS-性能测试服务和-JMeter-这些压力测试有什么区别吗](https://www.v2ex.com/t/715179)
-- [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
-- [【开发者头条】推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9)
 - [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
+- [【开发者头条】推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9)
+- [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
 - [【安全热点】如何优雅地给妹子优化电脑Windows?](https://sec.thief.one/article_content?a_id=98e852af35513445e007a9634199781b)
 - [......【查看更多】......](./details/tags/optimization.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 06:35:11，:rocket: 更新条数: +3484， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 06:48:06，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,6 +729,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1057,14 @@
 </summary>
 
 
+- [2020-10-15-工作内容都是在"改"代码，很少"写"代码，这是大家常态吗，还是我在坑里？](https://www.v2ex.com/t/715233) ![](assets/new.png)  
+- [2020-10-15-北京社招-逍遥一下-高级-Windows-开发工程师-25k-40k*14-薪](https://www.v2ex.com/t/715230) ![](assets/new.png)  
+- [2020-10-15-热一热博客、热一热开源项目，顺便求捐赠，求工作](https://www.v2ex.com/t/715229) ![](assets/new.png)  
+- [2020-10-15-买了-homepod-的各位，现在除了在吃灰的，还能干啥？](https://www.v2ex.com/t/715228) ![](assets/new.png)  
+- [2020-10-15-北京-13-号线-5-号线换乘站立水桥合立方小区转租](https://www.v2ex.com/t/715227) ![](assets/new.png)  
+- [2020-10-15-1000-左右求推荐适合黑苹果的二手笔记本](https://www.v2ex.com/t/715226) ![](assets/new.png)  
+- [2020-10-15-准备买-iPhone-12-128GB-你们怎么买？](https://www.v2ex.com/t/715225) ![](assets/new.png)  
+- [2020-10-15-AOC-27-寸-4K-显示器这个价格算不算好价呢？](https://www.v2ex.com/t/715223) ![](assets/new.png)  
 - [2020-10-15-Google-Drive-搜素引擎-重大升级](https://www.v2ex.com/t/715222) ![](assets/new.png)  
 - [2020-10-15-团购-iStat-Menus-Family-Pack-有上车的吗？](https://www.v2ex.com/t/715220) ![](assets/new.png)  
 - [2020-10-15-硅谷-AI-外企-Hiretual-北京研发中心-自动化测试工程师招聘-ing](https://www.v2ex.com/t/715219) ![](assets/new.png)  
@@ -1054,19 +1072,11 @@
 - [2020-10-15-某重点大学对本科生开展芯片敏捷设计课程](https://www.v2ex.com/t/715217) ![](assets/new.png)  
 - [2020-10-15-有什么库可以实现-LeetCode-的提交记录图表吗？](https://www.v2ex.com/t/715216) ![](assets/new.png)  
 - [2020-10-15-上海-3-年前端，寻求全职前端开发岗位~](https://www.v2ex.com/t/715215) ![](assets/new.png)  
-- [2020-10-15-江苏镇江联通服务器托管-1U-1IP-20M-独享-300-元/月](https://www.v2ex.com/t/715214) ![](assets/new.png)  
 - [2020-10-15-我们组准备招人，试探问下，-V2er-对远程全职工作的兴趣如何](https://www.v2ex.com/t/715213) ![](assets/new.png)  
 - [2020-10-15-MBP-Type-C-口太容易出问题了吧](https://www.v2ex.com/t/715212) ![](assets/new.png)  
 - [2020-10-15-MIUI-国际版，安装-google-play-里有的第三方来源应用（比如微信）安装失败。有什么办法可以安装吗？](https://www.v2ex.com/t/715211) ![](assets/new.png)  
 - [2020-10-15-各位大佬上班时候，耳机里面放的是什么？](https://www.v2ex.com/t/715209) ![](assets/new.png)  
 - [2020-10-15-AoE-3:-DE-的画质对比](https://www.v2ex.com/t/715208) ![](assets/new.png)  
-- [2020-10-15-不懂就问类似起点这种网站时怎么存储大量用户的订阅记录的](https://www.v2ex.com/t/715207) ![](assets/new.png)  
-- [2020-10-15-docker-运行的-postgresql-如何将数据库表格导出-csv](https://www.v2ex.com/t/715206) ![](assets/new.png)  
-- [2020-10-15-前端开发-4000-价位笔记本电脑推荐？](https://www.v2ex.com/t/715205) ![](assets/new.png)  
-- [2020-10-15-北京私募公司职位汇总（IT/市场/量化策略研究员/机器学习）](https://www.v2ex.com/t/715204) ![](assets/new.png)  
-- [2020-10-15-北京-C++坑位一个，可以发简历来撩，总部在杭州，恒生电子子公司](https://www.v2ex.com/t/715201) ![](assets/new.png)  
-- [2020-10-15-苹果设备的新功能-Intercom-对讲机应用前景会如何？](https://www.v2ex.com/t/715200) ![](assets/new.png)  
-- [2020-10-15-请问-ios-平台有没有安卓上的类似-阅读-这样的小说阅读软件，可以自定义源的](https://www.v2ex.com/t/715198) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

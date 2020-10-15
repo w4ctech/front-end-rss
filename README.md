@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 04:40:04，:rocket: 更新条数: +3496， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 04:47:10，:rocket: 更新条数: +3497， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,7 +1057,9 @@
 </summary>
 
 
-- [2020-10-15-有没有“页面提交留言自动转发到我的邮箱”这样的在线服务？](https://www.v2ex.com/t/715191) ![](assets/new.png)  
+- [2020-10-15-nlp-求教，例如这段文字，如何通过机器学习做到是新冠相关的新闻？](https://www.v2ex.com/t/715193) ![](assets/new.png)  
+- [2020-10-15-微软-EDGE-的“集锦”功能，是保存了网页的完整内容（类似剪藏）？还是只抓了一个网页的摘要？](https://www.v2ex.com/t/715192) ![](assets/new.png)  
+- [2020-10-15-有没有提供“页面提交留言自动转发到我的邮箱”这样功能的在线服务？](https://www.v2ex.com/t/715191) ![](assets/new.png)  
 - [2020-10-15-三七互娱内推-社招-初/中/高产品经理（数据中台方向）](https://www.v2ex.com/t/715190) ![](assets/new.png)  
 - [2020-10-15-北京社招-逍遥一下-高级前端工程师-20k-30k*14-薪](https://www.v2ex.com/t/715189) ![](assets/new.png)  
 - [2020-10-15-iPhone-12-系列继续使用闪电接口，难道继续龟速备份和传输数据？](https://www.v2ex.com/t/715188) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-10-15-iphone12-的-RAM-是-4GB-还是-6GB？-4GB-还能撑几代？](https://www.v2ex.com/t/715175) ![](assets/new.png)  
 - [2020-10-15-深圳如何增加摩托车驾照？](https://www.v2ex.com/t/715174) ![](assets/new.png)  
 - [2020-10-15-推荐自己刚上线的微信小游戏：疯狂填字，超多题停不下来](https://www.v2ex.com/t/715173) ![](assets/new.png)  
-- [2020-10-15-PY-在-Windows-下-Fork-之后在子进程执行一些操作要怎么做？](https://www.v2ex.com/t/715172) ![](assets/new.png)  
-- [2020-10-15-大家有没有觉得在开源领域，百度的文档是独一档的存在！](https://www.v2ex.com/t/715170) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -13572,6 +13572,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "德国新增新冠肺炎确诊病例6638例 累计确诊341223例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTfw9CLwTAd0NYWXduXtO201015&isfromapp=1",
+        "date": "2020-10-15"
+      },
+      {
         "title": "印度新增新冠肺炎确诊病例67708例 累计确诊7307097例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY146PebYPpGBQbztL7zH201015&isfromapp=1",
         "date": "2020-10-15"
@@ -13589,11 +13594,6 @@
       {
         "title": "韩国釜山暴发集体感染 首都圈将检测16万人",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fWzeF8l7y8u8ga9W8t1201015&isfromapp=1",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "又一家药企叫停临床试验 “科研政治化”令美国公众信心每况愈下",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKoSb4MqU2i4AOlexh6C201015&isfromapp=1",
         "date": "2020-10-15"
       }
     ]
@@ -14751,6 +14751,16 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "用了VS Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质",
+        "link": "https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "Android Studio 4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF",
+        "link": "https://www.ershicimi.com/p/c76fd68ab86dc37cd9c25ff7185ff393",
+        "date": "2020-10-15"
+      },
+      {
         "title": "如何使用 WebAssembly 和 JS 构建高性能应用程序",
         "link": "https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6",
         "date": "2020-10-14"
@@ -14838,16 +14848,6 @@
       {
         "title": "人工智能势如破竹，开创机器人对话时代 | 活动推荐",
         "link": "https://www.ershicimi.com/p/4afb29d20a6d6d227c4362229bd8c44c",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "12种Flutter开发工具推荐",
-        "link": "https://www.ershicimi.com/p/88202d3d78e334e8098e7da3a930d357",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "程序员如何挣外快？",
-        "link": "https://www.ershicimi.com/p/24f803d7b52ae1cac392f267a8a3e530",
         "date": "2020-09-30"
       }
     ]
@@ -16391,6 +16391,21 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "前端搞报表|数据分析提效全链路解决方案",
+        "link": "https://juejin.im/post/6883738257276960776",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "Ngnix代理前后端服务",
+        "link": "https://juejin.im/post/6883683359155978254",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "零基础小白前端学习之HTML（七）",
+        "link": "https://juejin.im/post/6883681614275018759",
+        "date": "2020-10-14"
+      },
+      {
         "title": "高效地调试npm包总结",
         "link": "https://juejin.im/post/6883482837262008328",
         "date": "2020-10-14"
@@ -16398,21 +16413,6 @@
       {
         "title": "如何在vue2.x中体验vue3.0",
         "link": "https://juejin.im/post/6883465337984008200",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "Enzyme 中 dive() 和 shallow() 的区别",
-        "link": "https://juejin.im/post/6883464051326713864",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "【JavaScript】有趣的作用域和提升",
-        "link": "https://juejin.im/post/6883462967082516487",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "多包依赖管理--Lerna",
-        "link": "https://juejin.im/post/6883450694586597383",
         "date": "2020-10-14"
       }
     ]
@@ -16750,6 +16750,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[日经求推荐手机] 原生（至少流畅使用 google 服务）| 双卡 | 128G 或以上",
+        "link": "https://www.v2ex.com/t/715292",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "哪里有 Golang 的 websocket 框架对比",
+        "link": "https://www.v2ex.com/t/715291",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "iperf 内网测速不理想，求支招",
+        "link": "https://www.v2ex.com/t/715290",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "良心云又开始瞎搞活动了，双 11 提前上线， s4 的 2-4-3 配置 3 年打完折 500 多块，企业用户特殊活动数据库高防证书等产品白送",
+        "link": "https://www.v2ex.com/t/715289",
+        "date": "2020-10-15"
+      },
+      {
         "title": "请教大佬， Win10 有没有办法快速的把一个窗口移动到下一个虚拟桌面上？",
         "link": "https://www.v2ex.com/t/715287",
         "date": "2020-10-15"
@@ -16917,31 +16937,6 @@
       {
         "title": "电信打电话来推销升级 5G 套餐",
         "link": "https://www.v2ex.com/t/715243",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[成都] 前端开发/ Java 开发",
-        "link": "https://www.v2ex.com/t/715242",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "大家选 pro 还是 pro max？",
-        "link": "https://www.v2ex.com/t/715241",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "公司老板因为劳动仲裁拒付工资赔偿金上了失信执行人名单，这家公司是不是基本完了？",
-        "link": "https://www.v2ex.com/t/715240",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "5GiPhone 来了，请问哪家运营商的 5G 速度快？",
-        "link": "https://www.v2ex.com/t/715239",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "如何透过现象看本质，真正理解“类”这个概念？",
-        "link": "https://www.v2ex.com/t/715238",
         "date": "2020-10-15"
       }
     ]
@@ -17159,26 +17154,6 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-15"
-      },
-      {
         "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
         "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-15"
@@ -17189,33 +17164,13 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-15"
-      },
-      {
         "title": "[推荐] Paxos 分布式必问的内容，没有之一",
         "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-15"
       },
       {
@@ -17224,8 +17179,48 @@
         "date": "2020-10-15"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-15"
       }
     ]

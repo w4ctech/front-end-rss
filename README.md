@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 08:04:25，:rocket: 更新条数: +3492， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 08:16:17，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-15-德国新增新冠肺炎确诊病例6638例-累计确诊341223例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTfw9CLwTAd0NYWXduXtO201015&isfromapp=1) ![](assets/new.png)  
 - [2020-10-15-印度新增新冠肺炎确诊病例67708例-累计确诊7307097例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY146PebYPpGBQbztL7zH201015&isfromapp=1) ![](assets/new.png)  
 - [2020-10-15-我区首家藏医医院核酸检测（PCR）实验室完成建设并投入使用](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202010/t20201015_179182.html) ![](assets/new.png)  
 - [2020-10-15-特朗普小儿子曾感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivlHTGkwYYONvZSy3CBUR201015&isfromapp=1) ![](assets/new.png)  
 - [2020-10-15-韩国釜山暴发集体感染-首都圈将检测16万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fWzeF8l7y8u8ga9W8t1201015&isfromapp=1) ![](assets/new.png)  
-- [2020-10-15-又一家药企叫停临床试验-“科研政治化”令美国公众信心每况愈下](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKoSb4MqU2i4AOlexh6C201015&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -446,6 +446,8 @@
 </summary>
 
 
+- [2020-10-15-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409) ![](assets/new.png)  
+- [2020-10-15-Android-Studio-4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF](https://www.ershicimi.com/p/c76fd68ab86dc37cd9c25ff7185ff393) ![](assets/new.png)  
 - [2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6) ![](assets/new.png)  
 - [2020-10-14-对微前端的11个错误认识](https://www.ershicimi.com/p/3aba955c6b41e1cdebb47e3b7d3c5b75) ![](assets/new.png)  
 - [2020-10-14-一套代码、多端运行，Flutter是如何实现的？-|-极客时间](https://www.ershicimi.com/p/6a48dbd8726ee675678cac3fefad5811) ![](assets/new.png)  
@@ -464,8 +466,6 @@
 - [2020-10-04-前端周报：Vue.js-3官方中文文档上线；腾讯奖励万名员工每人一台华为折叠屏手机；多款Chrome](https://www.ershicimi.com/p/10ded176def12aba5c5da03e531f16e6) ![](assets/new.png)  
 - [2020-10-02-成为最差前端开发的10个建议](https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758) ![](assets/new.png)  
 - [2020-09-30-人工智能势如破竹，开创机器人对话时代-|-活动推荐](https://www.ershicimi.com/p/4afb29d20a6d6d227c4362229bd8c44c) ![](assets/new.png)  
-- [2020-09-30-12种Flutter开发工具推荐](https://www.ershicimi.com/p/88202d3d78e334e8098e7da3a930d357) ![](assets/new.png)  
-- [2020-09-30-程序员如何挣外快？](https://www.ershicimi.com/p/24f803d7b52ae1cac392f267a8a3e530) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +947,11 @@
 </summary>
 
 
+- [2020-10-14-前端搞报表|数据分析提效全链路解决方案](https://juejin.im/post/6883738257276960776) ![](assets/new.png)  
+- [2020-10-14-Ngnix代理前后端服务](https://juejin.im/post/6883683359155978254) ![](assets/new.png)  
+- [2020-10-14-零基础小白前端学习之HTML（七）](https://juejin.im/post/6883681614275018759) ![](assets/new.png)  
 - [2020-10-14-高效地调试npm包总结](https://juejin.im/post/6883482837262008328) ![](assets/new.png)  
 - [2020-10-14-如何在vue2.x中体验vue3.0](https://juejin.im/post/6883465337984008200) ![](assets/new.png)  
-- [2020-10-14-Enzyme-中-dive-和-shallow-的区别](https://juejin.im/post/6883464051326713864) ![](assets/new.png)  
-- [2020-10-14-【JavaScript】有趣的作用域和提升](https://juejin.im/post/6883462967082516487) ![](assets/new.png)  
-- [2020-10-14-多包依赖管理--Lerna](https://juejin.im/post/6883450694586597383) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-10-15-日经求推荐手机-原生（至少流畅使用-google-服务）|-双卡-|-128G-或以上](https://www.v2ex.com/t/715292) ![](assets/new.png)  
+- [2020-10-15-哪里有-Golang-的-websocket-框架对比](https://www.v2ex.com/t/715291) ![](assets/new.png)  
+- [2020-10-15-iperf-内网测速不理想，求支招](https://www.v2ex.com/t/715290) ![](assets/new.png)  
+- [2020-10-15-良心云又开始瞎搞活动了，双-11-提前上线，-s4-的-2-4-3-配置-3-年打完折-500-多块，企业用户特殊活动数据库高防证书等产品白送](https://www.v2ex.com/t/715289) ![](assets/new.png)  
 - [2020-10-15-请教大佬，-Win10-有没有办法快速的把一个窗口移动到下一个虚拟桌面上？](https://www.v2ex.com/t/715287) ![](assets/new.png)  
 - [2020-10-15-请教一下关于-docker-squid-的问题](https://www.v2ex.com/t/715286) ![](assets/new.png)  
 - [2020-10-15-国内如何使用-twitch-开放直播](https://www.v2ex.com/t/715285) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-10-15-适合团队的小零食小吃，求推荐！](https://www.v2ex.com/t/715271) ![](assets/new.png)  
 - [2020-10-15-腾讯的-HR-已经这么飘了吗？](https://www.v2ex.com/t/715270) ![](assets/new.png)  
 - [2020-10-15-如何把-Paypal-里美元取出买点美股](https://www.v2ex.com/t/715269) ![](assets/new.png)  
-- [2020-10-15-老前端们平时-mock-数据都是用的什么工具？](https://www.v2ex.com/t/715268) ![](assets/new.png)  
-- [2020-10-15-大佬们都用的是哪款牙膏刷牙的？](https://www.v2ex.com/t/715267) ![](assets/new.png)  
-- [2020-10-15-看到大家说了对-12-那么多的不满但没看到提手感，只有我觉得直角边框硌手吗？](https://www.v2ex.com/t/715266) ![](assets/new.png)  
-- [2020-10-15-Python-跨平台和设备-模块管理有什么好方法吗？](https://www.v2ex.com/t/715264) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

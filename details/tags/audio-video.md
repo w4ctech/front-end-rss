@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 19:36:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 19:47:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,7 +89,6 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-10-15-制造业建筑业做了一共-7-年，，趁年轻现在想转行，目前正在-B-站视频自学-C-语言入门编程，请教一下初学者应该注意些什么，另外求教下-VisC++6.0-在哪里可以下载...](https://www.v2ex.com/t/715429) 
-- [2020-10-15-联想小新-pro-笔记本-看视频异响](https://www.v2ex.com/t/715382) 
 - [2020-10-15-今晚7点半直播,GeekPwn云安全挑战赛亮点大揭秘](https://sec.thief.one/article_content?a_id=536072982ca7ee95c325bd81411dbf21) 
 - [2020-10-15-【视频】|-Python:打印三角形嵌套循环](https://sec.thief.one/article_content?a_id=98104c52b283b2fc465b63c690bca3ab) 
 - [2020-10-14-这视频,信息量也太大了吧](https://sec.thief.one/article_content?a_id=1679c9ce3f4c09347781e6996006d84c) 

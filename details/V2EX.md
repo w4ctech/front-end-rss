@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-15 22:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 23:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-15-怎么接入微信或者支付宝的收款码？](https://www.v2ex.com/t/715437) 
 - [2020-10-15-iOS14-少了「健康」Widget-缺点意思啊](https://www.v2ex.com/t/715435) 
 - [2020-10-15-iOS14-与-macOS10.15-不能同步-keychain？](https://www.v2ex.com/t/715432) 
 - [2020-10-15-豆瓣那个井号﹟不能用了！为什么啊？！卧槽？！](https://www.v2ex.com/t/715431) 

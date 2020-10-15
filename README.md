@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 22:49:05，:rocket: 更新条数: +3719， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 23:04:00，:rocket: 更新条数: +3720， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-10-15-怎么接入微信或者支付宝的收款码？](https://www.v2ex.com/t/715437) ![](assets/new.png)  
 - [2020-10-15-iOS14-少了「健康」Widget-缺点意思啊](https://www.v2ex.com/t/715435) ![](assets/new.png)  
 - [2020-10-15-iOS14-与-macOS10.15-不能同步-keychain？](https://www.v2ex.com/t/715432) ![](assets/new.png)  
 - [2020-10-15-豆瓣那个井号﹟不能用了！为什么啊？！卧槽？！](https://www.v2ex.com/t/715431) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-10-15-888-元低价出一个微信小游戏源码](https://www.v2ex.com/t/715416) ![](assets/new.png)  
 - [2020-10-15-为什么-airpods-pro-放着不用盒子也耗电](https://www.v2ex.com/t/715413) ![](assets/new.png)  
 - [2020-10-15-ZPan-v1.4-版本发布，全新-UI-欢迎体验~](https://www.v2ex.com/t/715411) ![](assets/new.png)  
-- [2020-10-15-请问有没有比较好的办法在插入-mysql-的时候，把自动生成-id-同时加到另一个字段](https://www.v2ex.com/t/715410) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

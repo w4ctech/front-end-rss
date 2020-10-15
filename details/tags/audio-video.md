@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 07:04:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 07:14:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,6 +83,8 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-10-14-我在众多AI学习的分享中，找到了最强教学系列视频！](https://www.ershicimi.com/p/eba5bb49df092314f8ce374e745cca90) 
 - [2020-10-09-人工智能从入门到精通系列教学视频免费送](https://www.ershicimi.com/p/4cec892c264b2a104a924d687161940a) 
+- [2020-10-15-请教大佬们，目前直播架构是什么样的啊](https://www.v2ex.com/t/715254) 
+- [2020-10-15-有人做过播放器开发吗？有偿求支持](https://www.v2ex.com/t/715249) 
 - [2020-10-14-这视频,信息量也太大了吧](https://sec.thief.one/article_content?a_id=1679c9ce3f4c09347781e6996006d84c) 
 - [2020-10-14-【视频】|-你被APP非法定位了吗?](https://sec.thief.one/article_content?a_id=8e48bc6ae62080cc1f79bc5346c70884) 
 - [2020-10-14-黑客入侵家庭摄像机,发布3TB敏感剪辑视频](https://sec.thief.one/article_content?a_id=01786512fd01cf89d946d0501f185899) 

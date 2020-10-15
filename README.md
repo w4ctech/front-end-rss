@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 07:04:17，:rocket: 更新条数: +3490， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 07:14:18，:rocket: 更新条数: +3493， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 - [2020-10-14-最新疫情：全国新冠累计确诊85622例-山东本土新增1例](http://m.china.caixin.com/m/2020-10-15/101614944.html) ![](assets/new.png)  
 - [2020-10-14-青岛疫情追责启动-市卫健委主任隋振华被停职](https://m.caixin.com/m/2020-10-15/101614928.html) ![](assets/new.png)  
+- [2020-10-14-【境内疫情观察】山东新增1例本土确诊病例（10月14日）](http://m.database.caixin.com/m/2020-10-15/101614997.html) ![](assets/new.png)  
 - [2020-10-14-大流行手记|10月14日：欧洲秋冬疫情加剧医疗资源紧张-礼来抗体药试验遇阻](https://m.caixin.com/m/2020-10-15/101614837.html) ![](assets/new.png)  
 - [2020-10-13-独家|青岛疫情或源于早前码头工人感染-专家称暂未发现社区传播](https://m.caixin.com/m/2020-10-14/101614662.html) ![](assets/new.png)  
 - [2020-10-13-国台办回应台防疫部门称新增1例大陆输入病例](http://m.china.caixin.com/m/2020-10-14/101614573.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-10-11-大流行手记|10月11日：全球单日增速连续3日创新高-白宫或阻挠美公共交通“口罩令”](https://m.caixin.com/m/2020-10-12/101613574.html) ![](assets/new.png)  
 - [2020-10-11-聚焦|张文宏：青岛局部疫情可通过扩大检测“动态清零”](http://m.opinion.caixin.com/m/2020-10-12/101613656.html) ![](assets/new.png)  
 - [2020-10-11-【图集】青岛新增核酸检测阳性9人-全市开展核酸检测](http://m.photos.caixin.com/m/2020-10-12/101613745.html) ![](assets/new.png)  
-- [2020-10-10-青岛新增3例无症状感染者-初步判断与市胸科医院相关联](http://m.china.caixin.com/m/2020-10-11/101613457.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -949,9 +949,9 @@
 
 - [2020-10-14-高效地调试npm包总结](https://juejin.im/post/6883482837262008328) ![](assets/new.png)  
 - [2020-10-14-如何在vue2.x中体验vue3.0](https://juejin.im/post/6883465337984008200) ![](assets/new.png)  
+- [2020-10-14-Enzyme-中-dive-和-shallow-的区别](https://juejin.im/post/6883464051326713864) ![](assets/new.png)  
 - [2020-10-14-【JavaScript】有趣的作用域和提升](https://juejin.im/post/6883462967082516487) ![](assets/new.png)  
 - [2020-10-14-多包依赖管理--Lerna](https://juejin.im/post/6883450694586597383) ![](assets/new.png)  
-- [2020-10-14-uni-app网络请求的封装](https://juejin.im/post/6883432960125566989) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,14 @@
 </summary>
 
 
+- [2020-10-15-腾讯云活动折扣服务器，昨天误操作不小心点了退还，钱没了，机子也没了](https://www.v2ex.com/t/715255) ![](assets/new.png)  
+- [2020-10-15-请教大佬们，目前直播架构是什么样的啊](https://www.v2ex.com/t/715254) ![](assets/new.png)  
+- [2020-10-15-迫于迷茫，请问想进苏州微软需要怎样的技术能力？](https://www.v2ex.com/t/715251) ![](assets/new.png)  
+- [2020-10-15-那种反映历史变化的动画图表术语叫什么？](https://www.v2ex.com/t/715250) ![](assets/new.png)  
+- [2020-10-15-有人做过播放器开发吗？有偿求支持](https://www.v2ex.com/t/715249) ![](assets/new.png)  
+- [2020-10-15-考上大学的妹妹买个平板，，求推荐](https://www.v2ex.com/t/715248) ![](assets/new.png)  
+- [2020-10-15-iPhone-12-上-128-还是-256](https://www.v2ex.com/t/715247) ![](assets/new.png)  
+- [2020-10-15-一次查询优化...](https://www.v2ex.com/t/715246) ![](assets/new.png)  
 - [2020-10-15-iPhone-12-的-MagSafe-可以被配件厂商玩出什么花样](https://www.v2ex.com/t/715244) ![](assets/new.png)  
 - [2020-10-15-电信打电话来推销升级-5G-套餐](https://www.v2ex.com/t/715243) ![](assets/new.png)  
 - [2020-10-15-成都-前端开发/-Java-开发](https://www.v2ex.com/t/715242) ![](assets/new.png)  
@@ -1069,14 +1077,6 @@
 - [2020-10-15-豆瓣-403-了？](https://www.v2ex.com/t/715235) ![](assets/new.png)  
 - [2020-10-15-工作内容都是在"改"代码，很少"写"代码，这是大家常态吗，还是我在坑里？](https://www.v2ex.com/t/715233) ![](assets/new.png)  
 - [2020-10-15-北京社招-逍遥一下-高级-Windows-开发工程师-25k-40k*14-薪](https://www.v2ex.com/t/715230) ![](assets/new.png)  
-- [2020-10-15-热一热博客、热一热开源项目，顺便求捐赠，求工作](https://www.v2ex.com/t/715229) ![](assets/new.png)  
-- [2020-10-15-买了-homepod-的各位，现在除了在吃灰的，还能干啥？](https://www.v2ex.com/t/715228) ![](assets/new.png)  
-- [2020-10-15-北京-13-号线-5-号线换乘站立水桥合立方小区转租](https://www.v2ex.com/t/715227) ![](assets/new.png)  
-- [2020-10-15-1000-左右求推荐适合黑苹果的二手笔记本](https://www.v2ex.com/t/715226) ![](assets/new.png)  
-- [2020-10-15-准备买-iPhone-12-128GB-你们怎么买？](https://www.v2ex.com/t/715225) ![](assets/new.png)  
-- [2020-10-15-AOC-27-寸-4K-显示器这个价格算不算好价呢？](https://www.v2ex.com/t/715223) ![](assets/new.png)  
-- [2020-10-15-Google-Drive-搜素引擎-重大升级](https://www.v2ex.com/t/715222) ![](assets/new.png)  
-- [2020-10-15-团购-iStat-Menus-Family-Pack-有上车的吗？](https://www.v2ex.com/t/715220) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 05:47:36，:rocket: 更新条数: +3494， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 06:04:30，:rocket: 更新条数: +3494， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-15-印度新增新冠肺炎确诊病例67708例-累计确诊7307097例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY146PebYPpGBQbztL7zH201015&isfromapp=1) ![](assets/new.png)  
 - [2020-10-15-我区首家藏医医院核酸检测（PCR）实验室完成建设并投入使用](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202010/t20201015_179182.html) ![](assets/new.png)  
 - [2020-10-15-特朗普小儿子曾感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivlHTGkwYYONvZSy3CBUR201015&isfromapp=1) ![](assets/new.png)  
 - [2020-10-15-韩国釜山暴发集体感染-首都圈将检测16万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fWzeF8l7y8u8ga9W8t1201015&isfromapp=1) ![](assets/new.png)  
 - [2020-10-15-又一家药企叫停临床试验-“科研政治化”令美国公众信心每况愈下](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKoSb4MqU2i4AOlexh6C201015&isfromapp=1) ![](assets/new.png)  
-- [2020-10-15-美一患者48天两次感染新冠-专家：证明所谓“群体免疫”不可行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4KXxicw0feHP08SVbKDj201015&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,15 @@
 </summary>
 
 
+- [2020-10-15-有什么库可以实现-LeetCode-的提交记录图表吗？](https://www.v2ex.com/t/715216) ![](assets/new.png)  
+- [2020-10-15-上海-3-年前端，寻求全职前端开发岗位~](https://www.v2ex.com/t/715215) ![](assets/new.png)  
+- [2020-10-15-江苏镇江联通服务器托管-1U-1IP-20M-独享-300-元/月](https://www.v2ex.com/t/715214) ![](assets/new.png)  
+- [2020-10-15-我们组准备招人，试探问下，-V2er-对远程全职工作的兴趣如何](https://www.v2ex.com/t/715213) ![](assets/new.png)  
+- [2020-10-15-MBP-Type-C-口太容易出问题了吧](https://www.v2ex.com/t/715212) ![](assets/new.png)  
+- [2020-10-15-MIUI-国际版，安装-google-play-里有的第三方来源应用（比如微信）安装失败。有什么办法可以安装吗？](https://www.v2ex.com/t/715211) ![](assets/new.png)  
+- [2020-10-15-各位大佬上班时候，耳机里面放的是什么？](https://www.v2ex.com/t/715209) ![](assets/new.png)  
+- [2020-10-15-AoE-3:-DE-的画质对比](https://www.v2ex.com/t/715208) ![](assets/new.png)  
+- [2020-10-15-不懂就问类似起点这种网站时怎么存储大量用户的订阅记录的](https://www.v2ex.com/t/715207) ![](assets/new.png)  
 - [2020-10-15-docker-运行的-postgresql-如何将数据库表格导出-csv](https://www.v2ex.com/t/715206) ![](assets/new.png)  
 - [2020-10-15-前端开发-4000-价位笔记本电脑推荐？](https://www.v2ex.com/t/715205) ![](assets/new.png)  
 - [2020-10-15-北京私募公司职位汇总（IT/市场/量化策略研究员/机器学习）](https://www.v2ex.com/t/715204) ![](assets/new.png)  
@@ -1068,15 +1077,6 @@
 - [2020-10-15-nlp-求教，例如这段文字，如何通过机器学习做到是新冠相关的新闻？](https://www.v2ex.com/t/715193) ![](assets/new.png)  
 - [2020-10-15-微软-EDGE-的“集锦”功能，是保存了网页的完整内容（类似剪藏）？还是只抓了一个网页的摘要？](https://www.v2ex.com/t/715192) ![](assets/new.png)  
 - [2020-10-15-有没有提供“页面提交留言自动转发到我的邮箱”这样功能的在线服务？](https://www.v2ex.com/t/715191) ![](assets/new.png)  
-- [2020-10-15-三七互娱内推-社招-初/中/高产品经理（数据中台方向）](https://www.v2ex.com/t/715190) ![](assets/new.png)  
-- [2020-10-15-北京社招-逍遥一下-高级前端工程师-20k-30k*14-薪](https://www.v2ex.com/t/715189) ![](assets/new.png)  
-- [2020-10-15-iPhone-12-系列继续使用闪电接口，难道继续龟速备份和传输数据？](https://www.v2ex.com/t/715188) ![](assets/new.png)  
-- [2020-10-15-本科毕设选题，想做点真正有用的，目前有几个想法](https://www.v2ex.com/t/715187) ![](assets/new.png)  
-- [2020-10-15-Java-GC-日志如何按天切割呢？](https://www.v2ex.com/t/715186) ![](assets/new.png)  
-- [2020-10-15-请问在-ios-环境下怎么抓-tb-的包](https://www.v2ex.com/t/715185) ![](assets/new.png)  
-- [2020-10-15-Apple-watch-6-的艺术家表盘-抬腕不会变](https://www.v2ex.com/t/715184) ![](assets/new.png)  
-- [2020-10-15-北京社招-逍遥一下-高级服务端开发工程师-20k-30k*14-薪](https://www.v2ex.com/t/715183) ![](assets/new.png)  
-- [2020-10-15-买一个-Magsafe-无线充是不是就不用买充电器了？](https://www.v2ex.com/t/715182) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,18 +1120,18 @@
 
 
 - [2020-10-15-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-15-Go-Zero-如何应对海量定时/延迟任务](https://toutiao.io/k/g1xuphe) ![](assets/new.png)  
 - [2020-10-15-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
+- [2020-10-15-Go-Zero-如何应对海量定时/延迟任务](https://toutiao.io/k/g1xuphe) ![](assets/new.png)  
 - [2020-10-15-Go-1.15-中值得关注的几个变化](https://toutiao.io/k/lipeqlg) ![](assets/new.png)  
 - [2020-10-15-美团外卖实时数仓建设实践](https://toutiao.io/k/44pxclt) ![](assets/new.png)  
 - [2020-10-15-研发团队如何使用-OKR](https://toutiao.io/k/8nymt6s) ![](assets/new.png)  
 - [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
 - [2020-10-15-译-Google-搜索的-10-个小技巧，部分适用于百度](https://toutiao.io/k/v6w1o2e) ![](assets/new.png)  
-- [2020-10-15-设计模式之代理模式](https://toutiao.io/k/w594q3h) ![](assets/new.png)  
 - [2020-10-15-陌陌-SAST-IDEA-插件开源](https://toutiao.io/k/jpv5pck) ![](assets/new.png)  
+- [2020-10-15-设计模式之代理模式](https://toutiao.io/k/w594q3h) ![](assets/new.png)  
 - [2020-10-15-参照网易云音乐云村做的一个小程序社区](https://toutiao.io/k/7fenfky) ![](assets/new.png)  
-- [2020-10-15-译-波兰在线购物网站-Allegro.pl-迁移到服务网格经验分享](https://toutiao.io/k/qppy6if) ![](assets/new.png)  
 - [2020-10-15-算法：经典排序算法的-Go-实现](https://toutiao.io/k/i3bfwv0) ![](assets/new.png)  
+- [2020-10-15-译-波兰在线购物网站-Allegro.pl-迁移到服务网格经验分享](https://toutiao.io/k/qppy6if) ![](assets/new.png)  
 - [2020-10-15-敏捷项目管理需要知道的五类图表](https://toutiao.io/k/yszw8e7) ![](assets/new.png)  
 - [2020-10-15-数学基础学习笔记：概率论](https://toutiao.io/k/q809gcs) ![](assets/new.png)  
 - [2020-10-15-谈谈-React-5-种最流行的状态管理库](https://toutiao.io/k/gju00sr) ![](assets/new.png)  

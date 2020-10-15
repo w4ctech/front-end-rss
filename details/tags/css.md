@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 08:34:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 08:40:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -30,4 +30,3 @@
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
 - [2020-10-15-Beats-Flex-这个有人点评一下么，刚下单，下周三到，看着不错](https://www.v2ex.com/t/715276) 
-- [2020-10-15-那种反映历史变化的动画图表术语叫什么？](https://www.v2ex.com/t/715250) 

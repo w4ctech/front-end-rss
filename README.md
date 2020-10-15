@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 16:35:28，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 16:40:59，:rocket: 更新条数: +3492， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-15-关于模型-embedding-层尺寸的问题？](https://www.v2ex.com/t/715421) ![](assets/new.png)  
 - [2020-10-15-Serverless-安装-Laravel,flask,gin-等-web-框架，是否违背了它的使用场景？](https://www.v2ex.com/t/715420) ![](assets/new.png)  
 - [2020-10-15-头像-normal-的-width-height-好像不对](https://www.v2ex.com/t/715419) ![](assets/new.png)  
 - [2020-10-15-16-寸的-mbp-今年还会有更新吗，现在入个二手还是再等等](https://www.v2ex.com/t/715418) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-15-15-摄氏度的室温超导，上一次还是零下-35-度](https://www.v2ex.com/t/715396) ![](assets/new.png)  
 - [2020-10-15-请教一个前端-css-问题](https://www.v2ex.com/t/715395) ![](assets/new.png)  
 - [2020-10-15-iPhone-充电口潮湿的时候可以无线充电吗](https://www.v2ex.com/t/715394) ![](assets/new.png)  
-- [2020-10-15-这个世界会好吗？](https://www.v2ex.com/t/715392) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

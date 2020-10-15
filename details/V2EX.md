@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-15 16:35:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 16:40:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-15-关于模型-embedding-层尺寸的问题？](https://www.v2ex.com/t/715421) 
 - [2020-10-15-Serverless-安装-Laravel,flask,gin-等-web-框架，是否违背了它的使用场景？](https://www.v2ex.com/t/715420) 
 - [2020-10-15-头像-normal-的-width-height-好像不对](https://www.v2ex.com/t/715419) 
 - [2020-10-15-16-寸的-mbp-今年还会有更新吗，现在入个二手还是再等等](https://www.v2ex.com/t/715418) 

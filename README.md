@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 07:29:42，:rocket: 更新条数: +3490， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 07:34:47，:rocket: 更新条数: +3490， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-15-Python-跨平台和设备-模块管理有什么好方法吗？](https://www.v2ex.com/t/715264) ![](assets/new.png)  
 - [2020-10-15-一加-8T-价格出来啦！](https://www.v2ex.com/t/715262) ![](assets/new.png)  
 - [2020-10-15-杭州-有赞科技-社招-运维工程师-15K-30K，年底双薪+年终奖](https://www.v2ex.com/t/715261) ![](assets/new.png)  
 - [2020-10-15-看到之前的-v-友合租了-epubee，打算依葫芦画瓢](https://www.v2ex.com/t/715258) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-15-公司老板因为劳动仲裁拒付工资赔偿金上了失信执行人名单，这家公司是不是基本完了？](https://www.v2ex.com/t/715240) ![](assets/new.png)  
 - [2020-10-15-5GiPhone-来了，请问哪家运营商的-5G-速度快？](https://www.v2ex.com/t/715239) ![](assets/new.png)  
 - [2020-10-15-如何透过现象看本质，真正理解“类”这个概念？](https://www.v2ex.com/t/715238) ![](assets/new.png)  
-- [2020-10-15-macOS-回收站没有办法清空，不知道是不是-big-sur-的问题。](https://www.v2ex.com/t/715237) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,8 +1127,8 @@
 - [2020-10-15-美团外卖实时数仓建设实践](https://toutiao.io/k/44pxclt) ![](assets/new.png)  
 - [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
 - [2020-10-15-译-Google-搜索的-10-个小技巧，部分适用于百度](https://toutiao.io/k/v6w1o2e) ![](assets/new.png)  
-- [2020-10-15-设计模式之代理模式](https://toutiao.io/k/w594q3h) ![](assets/new.png)  
 - [2020-10-15-陌陌-SAST-IDEA-插件开源](https://toutiao.io/k/jpv5pck) ![](assets/new.png)  
+- [2020-10-15-设计模式之代理模式](https://toutiao.io/k/w594q3h) ![](assets/new.png)  
 - [2020-10-15-参照网易云音乐云村做的一个小程序社区](https://toutiao.io/k/7fenfky) ![](assets/new.png)  
 - [2020-10-15-译-波兰在线购物网站-Allegro.pl-迁移到服务网格经验分享](https://toutiao.io/k/qppy6if) ![](assets/new.png)  
 - [2020-10-15-算法：经典排序算法的-Go-实现](https://toutiao.io/k/i3bfwv0) ![](assets/new.png)  

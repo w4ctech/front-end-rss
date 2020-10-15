@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 12:37:04，:rocket: 更新条数: +3718， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 12:43:24，:rocket: 更新条数: +3718， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,11 +66,11 @@
 
 - [2020-10-14-最新疫情：全国新冠累计确诊85622例-山东本土新增1例](http://m.china.caixin.com/m/2020-10-15/101614944.html) ![](assets/new.png)  
 - [2020-10-14-青岛疫情追责启动-市卫健委主任隋振华被停职](https://m.caixin.com/m/2020-10-15/101614928.html) ![](assets/new.png)  
+- [2020-10-14-最新海外疫情：新冠感染超3830万-累计死亡超108万](http://m.international.caixin.com/m/2020-10-15/101615160.html) ![](assets/new.png)  
 - [2020-10-14-【境内疫情观察】山东新增1例本土确诊病例（10月14日）](http://m.database.caixin.com/m/2020-10-15/101614997.html) ![](assets/new.png)  
 - [2020-10-14-大流行手记|10月14日：欧洲秋冬疫情加剧医疗资源紧张-礼来抗体药试验遇阻](https://m.caixin.com/m/2020-10-15/101614837.html) ![](assets/new.png)  
 - [2020-10-13-独家|青岛疫情或源于早前码头工人感染-专家称暂未发现社区传播](https://m.caixin.com/m/2020-10-14/101614662.html) ![](assets/new.png)  
 - [2020-10-13-国台办回应台防疫部门称新增1例大陆输入病例](http://m.china.caixin.com/m/2020-10-14/101614573.html) ![](assets/new.png)  
-- [2020-10-13-最新海外疫情：新冠感染超3793万-累计死亡超108万](http://m.international.caixin.com/m/2020-10-14/101614641.html) ![](assets/new.png)  
 - [2020-10-13-【境内疫情观察】山东新增6例本土确诊病例（10月13日）](http://m.database.caixin.com/m/2020-10-14/101614534.html) ![](assets/new.png)  
 - [2020-10-13-大流行手记|10月13日：全球新冠病亡率下降-世卫官员反对群体免疫策略](https://m.caixin.com/m/2020-10-14/101614424.html) ![](assets/new.png)  
 - [2020-10-13-欧洲入冬第二波疫情汹涌-病例新增速度已超过美国印度](http://m.international.caixin.com/m/2020-10-14/101614765.html) ![](assets/new.png)  
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-10-15-邓特艾克漱口水，我公司的产品。有优惠，有惊喜。](https://www.v2ex.com/t/715377) ![](assets/new.png)  
+- [2020-10-15-只有在苹果官网和天猫旗舰店购买的才能支持激活后退货吗](https://www.v2ex.com/t/715376) ![](assets/new.png)  
 - [2020-10-15-运维和大数据岗开发招聘，居家远程办公。](https://www.v2ex.com/t/715375) ![](assets/new.png)  
 - [2020-10-15-腾讯云双-11-活动来了](https://www.v2ex.com/t/715374) ![](assets/new.png)  
 - [2020-10-15-求个-mac-软件](https://www.v2ex.com/t/715373) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-10-15-打开某个网站字体特别大，在其他电脑都正常](https://www.v2ex.com/t/715354) ![](assets/new.png)  
 - [2020-10-15-ios-系统静音，华为-welink-会议居然还有声音，这是什么情况](https://www.v2ex.com/t/715353) ![](assets/new.png)  
 - [2020-10-15-手持小七，是否以旧换新](https://www.v2ex.com/t/715352) ![](assets/new.png)  
-- [2020-10-15-发布系统-drone-被收购后阉割的差不多了](https://www.v2ex.com/t/715351) ![](assets/new.png)  
-- [2020-10-15-数据库回滚-谁做过人民币扣款回滚](https://www.v2ex.com/t/715350) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

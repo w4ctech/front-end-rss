@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 04:49:07，:rocket: 更新条数: +3497， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 05:03:28，:rocket: 更新条数: +3496， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-10-15-今年双十一，貌似商家们还很蛋定啊，京东淘宝都没看到保价双十一的标语出现。](https://www.v2ex.com/t/715196) ![](assets/new.png)  
+- [2020-10-15-想知道各位目前-4g-测速下可以达到多少兆？](https://www.v2ex.com/t/715194) ![](assets/new.png)  
 - [2020-10-15-nlp-求教，例如这段文字，如何通过机器学习做到是新冠相关的新闻？](https://www.v2ex.com/t/715193) ![](assets/new.png)  
 - [2020-10-15-微软-EDGE-的“集锦”功能，是保存了网页的完整内容（类似剪藏）？还是只抓了一个网页的摘要？](https://www.v2ex.com/t/715192) ![](assets/new.png)  
 - [2020-10-15-有没有提供“页面提交留言自动转发到我的邮箱”这样功能的在线服务？](https://www.v2ex.com/t/715191) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-10-15-mac-打字有些字母会出现两次问题](https://www.v2ex.com/t/715177) ![](assets/new.png)  
 - [2020-10-15-想给老妈换个手机，-iPhone-11-&-12-如何选择？](https://www.v2ex.com/t/715176) ![](assets/new.png)  
 - [2020-10-15-iphone12-的-RAM-是-4GB-还是-6GB？-4GB-还能撑几代？](https://www.v2ex.com/t/715175) ![](assets/new.png)  
-- [2020-10-15-深圳如何增加摩托车驾照？](https://www.v2ex.com/t/715174) ![](assets/new.png)  
-- [2020-10-15-推荐自己刚上线的微信小游戏：疯狂填字，超多题停不下来](https://www.v2ex.com/t/715173) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,16 +1120,16 @@
 
 
 - [2020-10-15-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-15-Go-Zero-如何应对海量定时/延迟任务](https://toutiao.io/k/g1xuphe) ![](assets/new.png)  
 - [2020-10-15-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
+- [2020-10-15-Go-Zero-如何应对海量定时/延迟任务](https://toutiao.io/k/g1xuphe) ![](assets/new.png)  
 - [2020-10-15-Go-1.15-中值得关注的几个变化](https://toutiao.io/k/lipeqlg) ![](assets/new.png)  
 - [2020-10-15-美团外卖实时数仓建设实践](https://toutiao.io/k/44pxclt) ![](assets/new.png)  
 - [2020-10-15-研发团队如何使用-OKR](https://toutiao.io/k/8nymt6s) ![](assets/new.png)  
 - [2020-10-15-重新信仰-PoW，今天我们有了-EPoW](https://toutiao.io/k/53b5ikg) ![](assets/new.png)  
 - [2020-10-15-译-Google-搜索的-10-个小技巧，部分适用于百度](https://toutiao.io/k/v6w1o2e) ![](assets/new.png)  
 - [2020-10-15-设计模式之代理模式](https://toutiao.io/k/w594q3h) ![](assets/new.png)  
-- [2020-10-15-参照网易云音乐云村做的一个小程序社区](https://toutiao.io/k/7fenfky) ![](assets/new.png)  
 - [2020-10-15-陌陌-SAST-IDEA-插件开源](https://toutiao.io/k/jpv5pck) ![](assets/new.png)  
+- [2020-10-15-参照网易云音乐云村做的一个小程序社区](https://toutiao.io/k/7fenfky) ![](assets/new.png)  
 - [2020-10-15-译-波兰在线购物网站-Allegro.pl-迁移到服务网格经验分享](https://toutiao.io/k/qppy6if) ![](assets/new.png)  
 - [2020-10-15-算法：经典排序算法的-Go-实现](https://toutiao.io/k/i3bfwv0) ![](assets/new.png)  
 - [2020-10-15-敏捷项目管理需要知道的五类图表](https://toutiao.io/k/yszw8e7) ![](assets/new.png)  

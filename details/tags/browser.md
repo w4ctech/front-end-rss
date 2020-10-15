@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 06:48:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 07:04:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,9 +30,9 @@
 - [2020-09-25-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6) 
 - [2020-10-09-5000字！带你零距离接触websocket！](https://www.ershicimi.com/p/e87e80ed7a3e9ca8ea3daf97074c90ab) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2020-10-14-uni-app网络请求的封装](https://juejin.im/post/6883432960125566989) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-15-docker-运行的-postgresql-如何将数据库表格导出-csv](https://www.v2ex.com/t/715206) 
-- [2020-10-15-微软-EDGE-的“集锦”功能，是保存了网页的完整内容（类似剪藏）？还是只抓了一个网页的摘要？](https://www.v2ex.com/t/715192) 
 - [2020-10-15-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-14-邀您参与-|-“推进等级保护2.0制度,筑牢网络安全防线”联盟系列活动...](https://sec.thief.one/article_content?a_id=8c4f4353597c6ca5579913f265b73118) 
 - [2020-10-14-15日晚七点半,GeekPwn云安全挑战赛赛前大揭秘!](https://sec.thief.one/article_content?a_id=dc1cb1828601e144623ae6b1e9425b16) 

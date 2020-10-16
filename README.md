@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 10:15:07，:rocket: 更新条数: +3728， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 10:28:35，:rocket: 更新条数: +3728， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,8 @@
 </summary>
 
 
+- [2020-10-16-秒杀系统要能承受多少-TPS-才可以算是一个合格的秒杀呢?](https://www.v2ex.com/t/715736) ![](assets/new.png)  
+- [2020-10-16-pandas-和-sql-数据库的定位有哪些差别？](https://www.v2ex.com/t/715734) ![](assets/new.png)  
 - [2020-10-16-HHKB-蓝牙连接-mac-就-crash](https://www.v2ex.com/t/715733) ![](assets/new.png)  
 - [2020-10-16-V-站有患强迫症OCD的人吗](https://www.v2ex.com/t/715732) ![](assets/new.png)  
 - [2020-10-16-请问个-K8S-的问题:-pod-收到-SIGTERM](https://www.v2ex.com/t/715731) ![](assets/new.png)  
@@ -1095,8 +1097,6 @@
 - [2020-10-16-南山桃园站房间出租，球球球球室友](https://www.v2ex.com/t/715715) ![](assets/new.png)  
 - [2020-10-16-好像有点明白为什么都要考公了](https://www.v2ex.com/t/715714) ![](assets/new.png)  
 - [2020-10-16-银行的信用卡借款会影响房贷的审批吗？](https://www.v2ex.com/t/715713) ![](assets/new.png)  
-- [2020-10-16-iPhone-官方换电池也太贵了吧，有渠道便宜吗？](https://www.v2ex.com/t/715712) ![](assets/new.png)  
-- [2020-10-16-苹果官网崩了？还是在维护？](https://www.v2ex.com/t/715710) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,8 +1150,8 @@
 - [2020-10-16-程序员版《我和我的家乡》，拼搏奋斗的-IT-人是家乡的骄傲](https://toutiao.io/k/seqt1ei) ![](assets/new.png)  
 - [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
 - [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
-- [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
 - [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
+- [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
 - [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
 - [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
 - [2020-10-16-译-什么是真正的程序员](https://toutiao.io/k/zhspu3w) ![](assets/new.png)  

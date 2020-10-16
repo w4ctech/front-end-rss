@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-16 10:15:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 10:28:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-秒杀系统要能承受多少-TPS-才可以算是一个合格的秒杀呢?](https://www.v2ex.com/t/715736) 
+- [2020-10-16-pandas-和-sql-数据库的定位有哪些差别？](https://www.v2ex.com/t/715734) 
 - [2020-10-16-HHKB-蓝牙连接-mac-就-crash](https://www.v2ex.com/t/715733) 
 - [2020-10-16-V-站有患强迫症OCD的人吗](https://www.v2ex.com/t/715732) 
 - [2020-10-16-请问个-K8S-的问题:-pod-收到-SIGTERM](https://www.v2ex.com/t/715731) 
@@ -43,5 +45,3 @@
 - [2020-10-16-分享一个可以切换-AirPods-Pro-降噪/通透模式的快捷指令](https://www.v2ex.com/t/715689) 
 - [2020-10-16-要去厦门找工作了，看论坛感觉是要失业的节奏啊](https://www.v2ex.com/t/715688) 
 - [2020-10-16-蛋壳公寓是不是要跑路了](https://www.v2ex.com/t/715687) 
-- [2020-10-16-阿里巴巴-eWTP-业务线招聘，部门直招，简历直推主管](https://www.v2ex.com/t/715686) 
-- [2020-10-16-Kafka-Producer-重试不生效](https://www.v2ex.com/t/715685) 

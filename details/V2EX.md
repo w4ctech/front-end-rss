@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 23:13:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 23:25:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -7,7 +7,6 @@
 
 - [2020-10-16-请问有人考过-AWS-Developer-Associate-么？](https://www.v2ex.com/t/715825) 
 - [2020-10-16-国行-iPad-Pro-带-Apple-Care，无发票被直营店拒保](https://www.v2ex.com/t/715824) 
-- [2020-10-16-有人对-1995-1997-年间空中不明物体神秘爆炸有印象吗](https://www.v2ex.com/t/715822) 
 - [2020-10-16-Reeder-5-发布了](https://www.v2ex.com/t/715821) 
 - [2020-10-16-iPhone-12-Pro-和-Pro-Max-选哪个呢](https://www.v2ex.com/t/715820) 
 - [2020-10-16-用代码计算杭州市-50-年以后的平均工资，竟然高达-30-万每月](https://www.v2ex.com/t/715819) 

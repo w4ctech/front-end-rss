@@ -17931,11 +17931,6 @@
         "date": "2020-10-16"
       },
       {
-        "title": "有人对 1995-1997 年间空中不明物体神秘爆炸有印象吗",
-        "link": "https://www.v2ex.com/t/715822",
-        "date": "2020-10-16"
-      },
-      {
         "title": "Reeder 5 发布了",
         "link": "https://www.v2ex.com/t/715821",
         "date": "2020-10-16"
@@ -18245,13 +18240,38 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "30 岁的程序员出路在哪里？| 码农周刊第 321 期",
+        "link": "https://toutiao.io/k/qdeuemt",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "Java 8 函数式接口和 Lambda 表达式你真的会了吗？",
+        "link": "https://toutiao.io/k/432c4c0",
+        "date": "2020-10-16"
+      },
+      {
         "title": "Golang 使用 Chromedp 绕过反爬抓取微信公众号文章",
         "link": "https://toutiao.io/k/03bgw3v",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "迈向第三代人工智能",
+        "link": "https://toutiao.io/k/vezgv9j",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "网易数据湖探索与实践",
+        "link": "https://toutiao.io/k/j8jgeiv",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅",
+        "link": "https://toutiao.io/k/lebwpyv",
         "date": "2020-10-16"
       },
       {
@@ -18260,48 +18280,8 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-16"
-      },
-      {
         "title": "[推荐] B站面试之旅",
         "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-16"
       },
       {
@@ -18310,8 +18290,13 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-16"
       },
       {
@@ -18320,8 +18305,48 @@
         "date": "2020-10-16"
       },
       {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-16"
+      },
+      {
         "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
         "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-16"
       }
     ]

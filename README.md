@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 23:13:32，:rocket: 更新条数: +3711， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 23:25:30，:rocket: 更新条数: +3716， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1079,7 +1079,6 @@
 
 - [2020-10-16-请问有人考过-AWS-Developer-Associate-么？](https://www.v2ex.com/t/715825) ![](assets/new.png)  
 - [2020-10-16-国行-iPad-Pro-带-Apple-Care，无发票被直营店拒保](https://www.v2ex.com/t/715824) ![](assets/new.png)  
-- [2020-10-16-有人对-1995-1997-年间空中不明物体神秘爆炸有印象吗](https://www.v2ex.com/t/715822) ![](assets/new.png)  
 - [2020-10-16-Reeder-5-发布了](https://www.v2ex.com/t/715821) ![](assets/new.png)  
 - [2020-10-16-iPhone-12-Pro-和-Pro-Max-选哪个呢](https://www.v2ex.com/t/715820) ![](assets/new.png)  
 - [2020-10-16-用代码计算杭州市-50-年以后的平均工资，竟然高达-30-万每月](https://www.v2ex.com/t/715819) ![](assets/new.png)  
@@ -1097,6 +1096,7 @@
 - [2020-10-16-应届生-offer-比较](https://www.v2ex.com/t/715805) ![](assets/new.png)  
 - [2020-10-16-熬夜到凌晨的人-真的都不饿吗](https://www.v2ex.com/t/715803) ![](assets/new.png)  
 - [2020-10-16-半年前疫情影响，一大批-v-友立-flag-做全职视频上传者，现在怎么样了？](https://www.v2ex.com/t/715802) ![](assets/new.png)  
+- [2020-10-16-微信储存空间显示方式作恶](https://www.v2ex.com/t/715801) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,22 +1139,26 @@
 </summary>
 
 
+- [2020-10-16-30-岁的程序员出路在哪里？|-码农周刊第-321-期](https://toutiao.io/k/qdeuemt) ![](assets/new.png)  
+- [2020-10-16-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) ![](assets/new.png)  
 - [2020-10-16-Golang-使用-Chromedp-绕过反爬抓取微信公众号文章](https://toutiao.io/k/03bgw3v) ![](assets/new.png)  
-- [2020-10-16-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-16-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
+- [2020-10-16-网易数据湖探索与实践](https://toutiao.io/k/j8jgeiv) ![](assets/new.png)  
+- [2020-10-16-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-16-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
 - [2020-10-16-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-16-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-16-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-16-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-16-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-16-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-16-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-16-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-16-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-16-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [2020-10-16-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-16-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-16-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-16-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
 - [2020-10-16-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-16-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-16-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-16-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-16-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-16-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
 - [2020-10-16-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-16-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

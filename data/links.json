@@ -16421,11 +16421,6 @@
         "date": "2020-10-16"
       },
       {
-        "title": "react基础教程之hook，redux（vue&react本就可学其一会其一）",
-        "link": "https://juejin.im/post/6884139364956241927",
-        "date": "2020-10-16"
-      },
-      {
         "title": "微信小程序登录功能的设计与实现",
         "link": "https://juejin.im/post/6884133191972552717",
         "date": "2020-10-16"
@@ -16438,6 +16433,11 @@
       {
         "title": "[译]哪个跨平台框架才是最好的选择？React Native、Flutter 还是 Ionic。",
         "link": "https://juejin.im/post/6884099570435883022",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "Serverless 架构下的服务优雅下线实践",
+        "link": "https://juejin.im/post/6884099312595238920",
         "date": "2020-10-15"
       }
     ]
@@ -16774,6 +16774,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "使用 Authing + AWS JWT Authorizer 替换 Cognito",
+        "link": "https://www.v2ex.com/t/715747",
+        "date": "2020-10-16"
+      },
       {
         "title": "ansible tower 中的 workflow 适合什么场景？",
         "link": "https://www.v2ex.com/t/715746",
@@ -17159,13 +17164,13 @@
         "date": "2020-10-16"
       },
       {
-        "title": "宏任务和微任务的一个小事",
-        "link": "https://toutiao.io/k/xembmol",
+        "title": "[译] 什么是真正的程序员",
+        "link": "https://toutiao.io/k/zhspu3w",
         "date": "2020-10-16"
       },
       {
-        "title": "[译] 什么是真正的程序员",
-        "link": "https://toutiao.io/k/zhspu3w",
+        "title": "宏任务和微任务的一个小事",
+        "link": "https://toutiao.io/k/xembmol",
         "date": "2020-10-16"
       },
       {
@@ -17189,53 +17194,8 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-16"
       },
       {
@@ -17249,18 +17209,63 @@
         "date": "2020-10-16"
       },
       {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-16"
+      },
+      {
         "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
         "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-16"
       },
       {
         "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
         "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-16"
       }
     ]

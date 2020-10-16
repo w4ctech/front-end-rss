@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 11:28:19，:rocket: 更新条数: +3499， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 11:32:58，:rocket: 更新条数: +3500， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -948,10 +948,10 @@
 
 
 - [2020-10-16-ZooTeam-前端周刊｜第-104-期](https://juejin.im/post/6884144481424113678) ![](assets/new.png)  
-- [2020-10-16-react基础教程之hook，redux（vue&react本就可学其一会其一）](https://juejin.im/post/6884139364956241927) ![](assets/new.png)  
 - [2020-10-16-微信小程序登录功能的设计与实现](https://juejin.im/post/6884133191972552717) ![](assets/new.png)  
 - [2020-10-15-📝记录：近期面试JS的提问](https://juejin.im/post/6884111226209599502) ![](assets/new.png)  
 - [2020-10-15-译哪个跨平台框架才是最好的选择？React-Native、Flutter-还是-Ionic。](https://juejin.im/post/6884099570435883022) ![](assets/new.png)  
+- [2020-10-15-Serverless-架构下的服务优雅下线实践](https://juejin.im/post/6884099312595238920) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-16-使用-Authing-+-AWS-JWT-Authorizer-替换-Cognito](https://www.v2ex.com/t/715747) ![](assets/new.png)  
 - [2020-10-16-ansible-tower-中的-workflow-适合什么场景？](https://www.v2ex.com/t/715746) ![](assets/new.png)  
 - [2020-10-16-有偿招募，有面试程序员经验的面试官来](https://www.v2ex.com/t/715745) ![](assets/new.png)  
 - [2020-10-16-edge-访问-ssl-证书不正确的网站](https://www.v2ex.com/t/715744) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-16-go2-会影响-go-之前的架构嘛](https://www.v2ex.com/t/715726) ![](assets/new.png)  
 - [2020-10-16-这手机啥型号啊，阿里云登录界面看到的](https://www.v2ex.com/t/715725) ![](assets/new.png)  
 - [2020-10-16-求推荐-golang-适合小白学习的最佳视频/文档/书籍](https://www.v2ex.com/t/715724) ![](assets/new.png)  
-- [2020-10-16-iPhone12-今晚开始预售，会大卖还是破发？](https://www.v2ex.com/t/715722) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1133,8 +1133,8 @@
 - [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
 - [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
-- [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
 - [2020-10-16-译-什么是真正的程序员](https://toutiao.io/k/zhspu3w) ![](assets/new.png)  
+- [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
 - [2020-10-16-中年架构师，悲催的一天](https://toutiao.io/k/6hkm4g6) ![](assets/new.png)  
 - [2020-10-16-AIOps-在美团的探索与实践：故障发现篇](https://toutiao.io/k/lryznhi) ![](assets/new.png)  
 - [2020-10-16-译-8-个-JavaScript-库可更好地处理本地存储](https://toutiao.io/k/3bs5pmx) ![](assets/new.png)  

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-16 11:28:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 11:32:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-使用-Authing-+-AWS-JWT-Authorizer-替换-Cognito](https://www.v2ex.com/t/715747) 
 - [2020-10-16-ansible-tower-中的-workflow-适合什么场景？](https://www.v2ex.com/t/715746) 
 - [2020-10-16-有偿招募，有面试程序员经验的面试官来](https://www.v2ex.com/t/715745) 
 - [2020-10-16-edge-访问-ssl-证书不正确的网站](https://www.v2ex.com/t/715744) 

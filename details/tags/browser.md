@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 06:04:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 06:15:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,10 +7,9 @@
 
 
 
-- [2020-10-10-你不知道的-WebSocket](https://www.ershicimi.com/p/e0f12cf3fdca4a6902a6be2dd576d972) 
+- [2020-10-15-不要再问我跨域的问题了-|-原理剖析](https://www.ershicimi.com/p/a6e36e5bc362a24c8ee1ac36662cde63) 
 - [2020-10-14-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/b8ec5bada8e183c1aba78aa6176b6279) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-09-5000字！带你零距离接触websocket！](https://www.ershicimi.com/p/e87e80ed7a3e9ca8ea3daf97074c90ab) 
 - [2020-10-15-绿盟科技加入中国网络信息安全科技创新发展联盟](https://sec.thief.one/article_content?a_id=aadecbb29b914f79c88e9a390f093921) 
 - [2020-10-15-工业互联网安全榜单奇安信夺冠](https://sec.thief.one/article_content?a_id=905be3793584d174996f4f24c4159240) 
 - [2020-10-15-聚体系之力,护航大终端安全丨360终端安全产品体系重磅发布](https://sec.thief.one/article_content?a_id=4278b9c55601321934b0b80455e2c684) 

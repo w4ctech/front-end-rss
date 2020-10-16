@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 08:16:48，:rocket: 更新条数: +3500， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 08:31:42，:rocket: 更新条数: +3729， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,15 @@
 </summary>
 
 
+- [2020-10-16-如何使用-Python-或-matlab-实现一个简单根据年份预测年龄的模型](https://www.v2ex.com/t/715692) ![](assets/new.png)  
+- [2020-10-16-V2EX-的付费图床有人买过吗？速度如何](https://www.v2ex.com/t/715691) ![](assets/new.png)  
+- [2020-10-16-算法-4-中并查集的算法效率分析](https://www.v2ex.com/t/715690) ![](assets/new.png)  
+- [2020-10-16-分享一个可以切换-AirPods-Pro-降噪/通透模式的快捷指令](https://www.v2ex.com/t/715689) ![](assets/new.png)  
+- [2020-10-16-要去厦门找工作了，看论坛感觉是要失业的节奏啊](https://www.v2ex.com/t/715688) ![](assets/new.png)  
+- [2020-10-16-蛋壳公寓是不是要跑路了](https://www.v2ex.com/t/715687) ![](assets/new.png)  
+- [2020-10-16-阿里巴巴-eWTP-业务线招聘，部门直招，简历直推主管](https://www.v2ex.com/t/715686) ![](assets/new.png)  
+- [2020-10-16-Kafka-Producer-重试不生效](https://www.v2ex.com/t/715685) ![](assets/new.png)  
+- [2020-10-16-看到川普每天发推，忽然想到，我们国家领导人用不用微信和-QQ-这种社交软件呢？](https://www.v2ex.com/t/715684) ![](assets/new.png)  
 - [2020-10-16-话说-jetpack-组件的普及率怎么样了？](https://www.v2ex.com/t/715681) ![](assets/new.png)  
 - [2020-10-16-被放到<水>节点的标准是什么](https://www.v2ex.com/t/715680) ![](assets/new.png)  
 - [2020-10-16-icloud-drive-win10-是否有非同步的客户端](https://www.v2ex.com/t/715679) ![](assets/new.png)  
@@ -1068,15 +1097,6 @@
 - [2020-10-16-更新-big-sur-beta-10-之后-idea-闪退](https://www.v2ex.com/t/715672) ![](assets/new.png)  
 - [2020-10-16-V-友们，请问有能订阅关键词的新闻客户端或网站吗？](https://www.v2ex.com/t/715671) ![](assets/new.png)  
 - [2020-10-16-香港油管车队，发车，车满既走！](https://www.v2ex.com/t/715669) ![](assets/new.png)  
-- [2020-10-16-node.js-有什么开源的商城项目吗？](https://www.v2ex.com/t/715668) ![](assets/new.png)  
-- [2020-10-16-关于-Windows2019-的几个疑问❓](https://www.v2ex.com/t/715666) ![](assets/new.png)  
-- [2020-10-16-分享几个中文播客-podcast，但是最近想听点新鲜的，抛砖引玉](https://www.v2ex.com/t/715665) ![](assets/new.png)  
-- [2020-10-16-求教,-国际化通用方案,-是需要后端还是前端处理?](https://www.v2ex.com/t/715664) ![](assets/new.png)  
-- [2020-10-16-iPad-可以通过送的线变成-USB-hub-主设备吗？](https://www.v2ex.com/t/715663) ![](assets/new.png)  
-- [2020-10-16-迫于搞中台](https://www.v2ex.com/t/715662) ![](assets/new.png)  
-- [2020-10-16-有想法尝遍国内所有香型白酒](https://www.v2ex.com/t/715661) ![](assets/new.png)  
-- [2020-10-16-消息队列部署在-docker-中合适吗？](https://www.v2ex.com/t/715659) ![](assets/new.png)  
-- [2020-10-16-来试试这个开源的高颜值👉网易云播放器👈吧](https://www.v2ex.com/t/715658) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1145,8 @@
 - [2020-10-16-记一次对端机器宕机后的-TCP-行为](https://toutiao.io/k/2abl3q4) ![](assets/new.png)  
 - [2020-10-16-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
 - [2020-10-16-HTTP-keep-alive-和-TCP-keepalive-的区别，你了解吗？](https://toutiao.io/k/630ifsg) ![](assets/new.png)  
-- [2020-10-16-如何优化多表查询的查询性能问题](https://toutiao.io/k/pax8qcm) ![](assets/new.png)  
 - [2020-10-16-Linux-机器-CPU-毛刺问题排查](https://toutiao.io/k/v3b4fgl) ![](assets/new.png)  
+- [2020-10-16-如何优化多表查询的查询性能问题](https://toutiao.io/k/pax8qcm) ![](assets/new.png)  
 - [2020-10-16-程序员版《我和我的家乡》，拼搏奋斗的-IT-人是家乡的骄傲](https://toutiao.io/k/seqt1ei) ![](assets/new.png)  
 - [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
 - [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  

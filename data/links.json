@@ -15669,6 +15669,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 129 期）：创业的凸函数和凹函数",
+        "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html",
+        "date": "2020-10-16"
+      },
+      {
         "title": "科技爱好者周刊（第 128 期）：这个社会是否正在变成\"赛博朋克\"？",
         "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html",
         "date": "2020-10-09"
@@ -15677,11 +15682,6 @@
         "title": "科技爱好者周刊（第 127 期）：未来人人开发软件，几乎没人编码",
         "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html",
         "date": "2020-09-30"
-      },
-      {
-        "title": "科技爱好者周刊（第 126 期）：内卷化是什么？",
-        "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html",
-        "date": "2020-09-25"
       }
     ]
   },
@@ -17901,6 +17901,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "暴雪宣布暂停《星际争霸 2》付费项目更新，星际 2 正式进入养老模式。",
+        "link": "https://www.v2ex.com/t/715446",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "怎么看待你可以不喜欢你不喜欢的东西，但还是请允许他的存在！",
+        "link": "https://www.v2ex.com/t/715445",
+        "date": "2020-10-16"
+      },
+      {
         "title": "15000 个保留域名要释放啦.....",
         "link": "https://www.v2ex.com/t/715444",
         "date": "2020-10-16"
@@ -18074,16 +18084,6 @@
         "title": "win10 系统,某一个硬盘会突然消失可能是什么原因",
         "link": "https://www.v2ex.com/t/715399",
         "date": "2020-10-15"
-      },
-      {
-        "title": "15 摄氏度的室温超导，上一次还是零下 35 度",
-        "link": "https://www.v2ex.com/t/715396",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "请教一个前端 css 问题",
-        "link": "https://www.v2ex.com/t/715395",
-        "date": "2020-10-15"
       }
     ]
   },
@@ -18205,48 +18205,28 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "大家用过 API 网关吗?",
+        "link": "https://toutiao.io/k/rwvdh2x",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "记一次对端机器宕机后的 TCP 行为",
+        "link": "https://toutiao.io/k/2abl3q4",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "程序员版《我和我的家乡》，拼搏奋斗的 IT 人是家乡的骄傲",
+        "link": "https://toutiao.io/k/seqt1ei",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "Linux 机器 CPU 毛刺问题排查",
+        "link": "https://toutiao.io/k/v3b4fgl",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "LeetCode (25)：合并两个排序的链表",
+        "link": "https://toutiao.io/k/gtj1qum",
         "date": "2020-10-16"
       },
       {
@@ -18255,8 +18235,43 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-16"
       },
       {
@@ -18270,13 +18285,23 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-16"
       }
     ]

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-16 09:42:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 09:47:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-来公司十个月了，还是不会写-c++怎么办](https://www.v2ex.com/t/715727) 
+- [2020-10-16-go2-会影响-go-之前的架构嘛](https://www.v2ex.com/t/715726) 
+- [2020-10-16-这手机啥型号啊，阿里云登录界面看到的](https://www.v2ex.com/t/715725) 
 - [2020-10-16-求推荐-golang-适合小白学习的最佳视频/文档/书籍](https://www.v2ex.com/t/715724) 
 - [2020-10-16-iPhone12-今晚开始预售，会大卖还是破发？](https://www.v2ex.com/t/715722) 
 - [2020-10-16-有近期去-海南/香港/澳门-的朋友吗？-求代购啊](https://www.v2ex.com/t/715721) 
@@ -40,7 +43,3 @@
 - [2020-10-16-Kafka-Producer-重试不生效](https://www.v2ex.com/t/715685) 
 - [2020-10-16-话说-jetpack-组件的普及率怎么样了？](https://www.v2ex.com/t/715681) 
 - [2020-10-16-icloud-drive-win10-是否有非同步的客户端](https://www.v2ex.com/t/715679) 
-- [2020-10-16-windows-不能命名文件为-con](https://www.v2ex.com/t/715678) 
-- [2020-10-16-阿里云的域名-ex.com，-DNS-刚刚换成-cloudflare-的。第二天发现子域名-tm.ex.com-无法访问，如何添加-NS-到-cloudflare，还是根本就不支持子域名使用？](https://www.v2ex.com/t/715677) 
-- [2020-10-16-求指点如何能买到摩托罗拉手机](https://www.v2ex.com/t/715676) 
-- [2020-10-16-关于-MBP-在-Big-Sur-beta-10-下电池问题](https://www.v2ex.com/t/715675) 

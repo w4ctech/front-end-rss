@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-16 13:26:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 13:33:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-12-256-白-24-期-不犹豫](https://www.v2ex.com/t/715781) 
 - [2020-10-16-电信-200M-和-300M-晚上上网网速区别大吗？](https://www.v2ex.com/t/715779) 
 - [2020-10-16-你们都会买官方套吗？](https://www.v2ex.com/t/715778) 
 - [2020-10-16-feedly.com-打不开了？挂梯子了，别的网站都正常。](https://www.v2ex.com/t/715777) 
@@ -47,4 +48,3 @@
 - [2020-10-16-pandas-和-sql-数据库的定位有哪些差别？](https://www.v2ex.com/t/715734) 
 - [2020-10-16-HHKB-蓝牙连接-mac-就-crash](https://www.v2ex.com/t/715733) 
 - [2020-10-16-V-站有患强迫症OCD的人吗](https://www.v2ex.com/t/715732) 
-- [2020-10-16-请问个-K8S-的问题:-pod-收到-SIGTERM](https://www.v2ex.com/t/715731) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 23:49:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 00:08:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,7 +42,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-15-抽激活码-AnchorWidget---快捷启动和常用-Widget-合集](https://www.v2ex.com/t/715438) 
 - [2020-10-15-iOS14-少了「健康」Widget-缺点意思啊](https://www.v2ex.com/t/715435) 
-- [2020-10-15-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-10-16-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-15-绿盟科技加入中国网络信息安全科技创新发展联盟](https://sec.thief.one/article_content?a_id=aadecbb29b914f79c88e9a390f093921) 
 - [2020-10-15-工业互联网安全榜单奇安信夺冠](https://sec.thief.one/article_content?a_id=905be3793584d174996f4f24c4159240) 
 - [2020-10-15-聚体系之力,护航大终端安全丨360终端安全产品体系重磅发布](https://sec.thief.one/article_content?a_id=4278b9c55601321934b0b80455e2c684) 

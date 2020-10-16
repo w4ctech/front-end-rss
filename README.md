@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 05:34:14，:rocket: 更新条数: +775， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 05:38:03，:rocket: 更新条数: +3500， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-15-10月15日全国新增境外输入新冠24例-上海11例](http://m.china.caixin.com/m/2020-10-16/101615244.html) ![](assets/new.png)  
+- [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) ![](assets/new.png)  
+- [2020-10-15-大流行手记|10月15日：伦敦调高封锁级别-印度感染者或超美国](https://m.caixin.com/m/2020-10-16/101615246.html) ![](assets/new.png)  
+- [2020-10-14-青岛疫情追责启动-市卫健委主任隋振华被停职](https://m.caixin.com/m/2020-10-15/101614928.html) ![](assets/new.png)  
+- [2020-10-14-最新海外疫情：新冠感染超3830万-累计死亡超108万](http://m.international.caixin.com/m/2020-10-15/101615160.html) ![](assets/new.png)  
+- [2020-10-14-【境内疫情观察】山东新增1例本土确诊病例（10月14日）](http://m.database.caixin.com/m/2020-10-15/101614997.html) ![](assets/new.png)  
+- [2020-10-14-大流行手记|10月14日：欧洲秋冬疫情加剧医疗资源紧张-礼来抗体药试验遇阻](https://m.caixin.com/m/2020-10-15/101614837.html) ![](assets/new.png)  
+- [2020-10-14-伊朗又迎疫情高峰-单日确诊和死亡病例屡破纪录](http://m.international.caixin.com/m/2020-10-15/101615189.html) ![](assets/new.png)  
+- [2020-10-13-独家|青岛疫情或源于早前码头工人感染-专家称暂未发现社区传播](https://m.caixin.com/m/2020-10-14/101614662.html) ![](assets/new.png)  
+- [2020-10-13-【境内疫情观察】山东新增6例本土确诊病例（10月13日）](http://m.database.caixin.com/m/2020-10-14/101614534.html) ![](assets/new.png)  
+- [2020-10-13-大流行手记|10月13日：全球新冠病亡率下降-世卫官员反对群体免疫策略](https://m.caixin.com/m/2020-10-14/101614424.html) ![](assets/new.png)  
+- [2020-10-13-欧洲入冬第二波疫情汹涌-病例新增速度已超过美国印度](http://m.international.caixin.com/m/2020-10-14/101614765.html) ![](assets/new.png)  
+- [2020-10-13-国台办回应台防疫部门称新增1例大陆输入病例](http://m.china.caixin.com/m/2020-10-14/101614573.html) ![](assets/new.png)  
+- [2020-10-13-【图集】欧洲疫情反弹加剧-多国重新加强疫情防控举措](http://m.photos.caixin.com/m/2020-10-14/101614566.html) ![](assets/new.png)  
+- [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
+- [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
+- [2020-10-12-大流行手记|10月12日：英国实施三级封锁机制-法总理称第二波疫情已至](https://m.caixin.com/m/2020-10-13/101614027.html) ![](assets/new.png)  
+- [2020-10-11-青岛新冠阳性患者增至12人-5日内完成全市900多万人核酸检测](https://m.caixin.com/m/2020-10-12/101613800.html) ![](assets/new.png)  
+- [2020-10-11-青岛新增核酸检测阳性9人-其中4例为确诊病例](https://m.caixin.com/m/2020-10-12/101613557.html) ![](assets/new.png)  
+- [2020-10-11-【境内疫情观察】青岛新增6例本土确诊病例（10月11日）](http://m.database.caixin.com/m/2020-10-12/101613711.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -75,6 +95,11 @@
 </summary>
 
 
+- [2020-10-16-青岛已采样10746645份开展新冠病毒核酸检测-未发现新增阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixLpSIbhkbxfO0rrGF8Qz201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-16-阿根廷新冠肺炎确诊病例单日新增达最高-首都部分学校恢复现场教学](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkWy7dtYvK3mlwJo8oii201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-16-苏里南多名内阁部长确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6sn396d8w6F3cGsaLhz201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-16-国家卫健委：15日新增新冠肺炎确诊病例24例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLsNzZufZdSDH2g2xxilC201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-15-世卫组织：瑞德西韦等药物对改善新冠肺炎住院患者病亡率影响不大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivPtjyH6m3uCf6DdxPCGF201016&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -922,6 +947,11 @@
 </summary>
 
 
+- [2020-10-15-用大白话轻松搞定正则下）](https://juejin.im/post/6883793762045296648) ![](assets/new.png)  
+- [2020-10-15-Vue3都用ts重构了，TypeScript咱也不能掉队第二篇](https://juejin.im/post/6883767565772914702) ![](assets/new.png)  
+- [2020-10-15-JS运算符](https://juejin.im/post/6883767572773388295) ![](assets/new.png)  
+- [2020-10-15-Angular-Router-详解，-navigate-和navigateByUrl-用法区别](https://juejin.im/post/6883760273639866375) ![](assets/new.png)  
+- [2020-10-15-3D图形学线代基础](https://juejin.im/post/6883760405991784456) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

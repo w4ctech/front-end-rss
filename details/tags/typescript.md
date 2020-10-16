@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 07:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 07:14:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,5 +7,4 @@
 
 
 
-- [2020-10-14-Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/a4add2a32f35e47b9bda2fec84bc56ac) 
-- [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
+- [2020-09-16-Typescript初学者入门指南](https://www.ershicimi.com/p/7cb6373e9529c45ce8f335118a336d7a) 

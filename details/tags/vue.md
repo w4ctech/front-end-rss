@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 02:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 03:04:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -78,6 +78,5 @@
 - [2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e) 
 - [2020-09-11-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/c17632c9138f5cb25baa775890519b34) 
 - [2020-09-10-Vue超好玩的新特性：在CSS中使用JS变量](https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994) 
-- [2020-10-15-完全开源的-Vue.js-入门级教程：HelloVue，发车啦！](https://juejin.im/post/6884042453758771207) 
-- [2020-10-15-Vue-多入口配置-——Webpake3.6](https://juejin.im/post/6883777814508601351) 
+- [2020-10-14-你必读的vue生命周期知识](https://juejin.im/post/6883691745570357256) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

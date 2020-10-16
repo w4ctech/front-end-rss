@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2020-10-16 02:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 03:04:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-上海地区哪里验光配眼镜可？](https://www.v2ex.com/t/715525) 
+- [2020-10-16-Python-做一个闹钟，用-while-循环等待时间是否是一个好办法](https://www.v2ex.com/t/715524) 
+- [2020-10-16-转一个人物今天的文章：《底层程序员，出局》](https://www.v2ex.com/t/715523) 
+- [2020-10-16-gitlab-怎么定时自动-merge-分支？](https://www.v2ex.com/t/715522) 
+- [2020-10-16-talend-在业内（数据分析、ETL、BI）是什么情况？好用？-Java-的实质性标准？成为坑了，被嗤之以鼻？-etc...???](https://www.v2ex.com/t/715520) 
+- [2020-10-16-字跳内推](https://www.v2ex.com/t/715519) 
+- [2020-10-16-如何在-Neovim-和-Vim-中快速插入-Unicode-字符](https://www.v2ex.com/t/715517) 
+- [2020-10-16-简历上与意向公司不相关的语言或技术有必要写上吗？](https://www.v2ex.com/t/715516) 
 - [2020-10-16-aripods-pro-问题](https://www.v2ex.com/t/715515) 
 - [2020-10-16-招聘-全职远程-加拿大游戏公司，-Unreal-Engine-4-开发](https://www.v2ex.com/t/715514) 
 - [2020-10-16-Python-中有类似-maven-的库或者开发工具吗](https://www.v2ex.com/t/715513) 
@@ -37,13 +45,3 @@
 - [2020-10-16-NET-5.0-RC2-发布，正式版即将在-11-月-.NET-Conf-大会上发布](https://www.v2ex.com/t/715479) 
 - [2020-10-16-今晚（16-号）8-点就要开始预售了，求问官网抢首发有什么窍门吗？](https://www.v2ex.com/t/715478) 
 - [2020-10-16-一个配合-mitmproxy-的-iOS-和-Android-端-HTTP&HTTPS-抓包-APP非设置系统代理方式](https://www.v2ex.com/t/715477) 
-- [2020-10-16-六年-Java-一句-JS-代码都不会写，正常吗？](https://www.v2ex.com/t/715476) 
-- [2020-10-16-快手内推进行时](https://www.v2ex.com/t/715474) 
-- [2020-10-16-想给妈妈换个-iPhone-，求推荐靠谱的购买-iPhone-的渠道](https://www.v2ex.com/t/715473) 
-- [2020-10-16-v-佬们我来问个-js-唤醒手机-APP-的问题](https://www.v2ex.com/t/715472) 
-- [2020-10-16-招行-app-小羊毛，速来薅](https://www.v2ex.com/t/715471) 
-- [2020-10-16-黑苹果卡顿是不是-nvidia-造成的](https://www.v2ex.com/t/715470) 
-- [2020-10-16-这些年-iPhone-“引领”了哪些手机“潮流方向”？](https://www.v2ex.com/t/715469) 
-- [2020-10-16-苹果的这个-icon-是有什么魔力吗？莫非只有在-apple-设备上才能看到](https://www.v2ex.com/t/715468) 
-- [2020-10-16-GitHub-风格随机头像-API](https://www.v2ex.com/t/715467) 
-- [2020-10-16-iPhone-12-比-S20-还小-还轻，太心动了](https://www.v2ex.com/t/715466) 

@@ -16202,6 +16202,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "当程序员变身为黑客，现役程序员表示：我太难了！",
+        "link": "https://www.ershicimi.com/p/9f523a3754f1ce2bcc0e77ef68da3165",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "成为最差前端开发的10个建议",
+        "link": "https://www.ershicimi.com/p/7f283d3e5b471faababf0f5a3b9d161a",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "微软给技术人打造的“秋季限定”，这像极了爱情……｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/6e130ea05d3414fadb44b420d4c83663",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "深度赋能，共享共赢！“有你有我开源节”开源技术研讨会暨深圳·国际开源谷揭牌仪式热烈召开",
+        "link": "https://www.ershicimi.com/p/db5afe075c9fb98346520e6f5ce4b71a",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "Android Studio 4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF",
+        "link": "https://www.ershicimi.com/p/adf2d9d9df53a842ac7baf3ecbfac2a0",
+        "date": "2020-10-16"
+      },
+      {
         "title": "无服务器已死？这项技术为什么变得人人嫌弃",
         "link": "https://www.ershicimi.com/p/0695d341e87d1dd6ed786617ec7000d7",
         "date": "2020-10-15"
@@ -16275,31 +16300,6 @@
         "title": "Linux主要发行版目前面临的问题：钱足够但很缺人！",
         "link": "https://www.ershicimi.com/p/1794cda7125c8099e56fa5696ef7a0dd",
         "date": "2020-10-13"
-      },
-      {
-        "title": "一行代码实现黑暗模式",
-        "link": "https://www.ershicimi.com/p/0b994dc0dfae578759d2ab91bf263c94",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "面试造核弹：细数那些有毒的开发岗位描述",
-        "link": "https://www.ershicimi.com/p/7b5d3d44dc2558958e73ac7eaad5ed4e",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "没有CTO的Netflix：为什么我们愿意高薪雇佣程序员？",
-        "link": "https://www.ershicimi.com/p/378ff4ea789b03fa41ea6fc8a512fd4d",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "QCon三站同启！跨越等待，荣耀归来",
-        "link": "https://www.ershicimi.com/p/2f263a5c1305c6a9269c33260b3ffe9f",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "对微前端的11个错误认识",
-        "link": "https://www.ershicimi.com/p/5ebad48e87247141e58f95bd5255d723",
-        "date": "2020-10-12"
       }
     ]
   },
@@ -16600,7 +16600,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -16774,6 +16774,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "咨询一个 windows 防火墙优先级问题。",
+        "link": "https://www.v2ex.com/t/715813",
+        "date": "2020-10-16"
+      },
       {
         "title": "在 pycharm 中安装 pytorch 失败",
         "link": "https://www.v2ex.com/t/715811",
@@ -16967,16 +16972,6 @@
       {
         "title": "去面试后每周上班 6 天怎么办",
         "link": "https://www.v2ex.com/t/715764",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "有没有博客/书/视频等资料能比较详细的讲一下 etcd 的架构、思想和代码？",
-        "link": "https://www.v2ex.com/t/715763",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "腾讯 IMWeb 团队 应届生招骋",
-        "link": "https://www.v2ex.com/t/715762",
         "date": "2020-10-16"
       }
     ]
@@ -17194,63 +17189,13 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-16"
       },
       {
@@ -17259,13 +17204,63 @@
         "date": "2020-10-16"
       },
       {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-16"
+      },
+      {
         "title": "[推荐] 技术方案设计的方法",
         "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-16"
       }
     ]

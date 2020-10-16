@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-16 03:40:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 03:46:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-为啥-APP-客户端开发不用-thrift-链接后端服务，而使用-http？](https://www.v2ex.com/t/715560) 
+- [2020-10-16-3-个月孵化的开源项目终于成为了-Gitee-的-GVP](https://www.v2ex.com/t/715559) 
+- [2020-10-16-SVG-图标可以用在生产环境吗？有没浏览器不支持？](https://www.v2ex.com/t/715558) 
+- [2020-10-16-Android-studio-版本更新导致类丢失](https://www.v2ex.com/t/715557) 
 - [2020-10-16-又有人自杀了。。](https://www.v2ex.com/t/715556) 
 - [2020-10-16-你觉得本次-2020-英雄联盟全球总决赛现场观赛资格摇号是公平公正的吗？](https://www.v2ex.com/t/715555) 
 - [2020-10-16-鉴于-iPhone-12-的价格-求推荐靠谱的-iPhoneX-扩容店家](https://www.v2ex.com/t/715554) 
@@ -40,7 +44,3 @@
 - [2020-10-16-aripods-pro-问题](https://www.v2ex.com/t/715515) 
 - [2020-10-16-招聘-全职远程-加拿大游戏公司，-Unreal-Engine-4-开发](https://www.v2ex.com/t/715514) 
 - [2020-10-16-Python-中有类似-maven-的库或者开发工具吗](https://www.v2ex.com/t/715513) 
-- [2020-10-16-写论文必备，在线代码高亮工具，无缝粘贴到-Word-等编辑工具中](https://www.v2ex.com/t/715511) 
-- [2020-10-16-各位非-PHP-程序员搭建博客时会选择-WordPress-等-PHP-博客吗？](https://www.v2ex.com/t/715510) 
-- [2020-10-16-「投票」购买哪一款-ip12？](https://www.v2ex.com/t/715509) 
-- [2020-10-16-Jon-Prosser-爆料-ARM-Mac-发布会将于-11-月-17-日举行](https://www.v2ex.com/t/715508) 

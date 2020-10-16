@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-16 11:37:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 11:47:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-感觉校招客户端要求很高。](https://www.v2ex.com/t/715750) 
+- [2020-10-16-杭州地铁红色-LED-滚动问题](https://www.v2ex.com/t/715749) 
+- [2020-10-16-新包装-11-也不送充电器耳机](https://www.v2ex.com/t/715748) 
 - [2020-10-16-使用-Authing-+-AWS-JWT-Authorizer-替换-Cognito](https://www.v2ex.com/t/715747) 
 - [2020-10-16-ansible-tower-中的-workflow-适合什么场景？](https://www.v2ex.com/t/715746) 
 - [2020-10-16-有偿招募，有面试程序员经验的面试官来](https://www.v2ex.com/t/715745) 
@@ -43,6 +46,3 @@
 - [2020-10-16-请问上海有比较靠谱的拳击/散打的学习场所吗？](https://www.v2ex.com/t/715704) 
 - [2020-10-16-安达与岛村-真香。。](https://www.v2ex.com/t/715703) 
 - [2020-10-16-请问谁试过-ios-应用多开？](https://www.v2ex.com/t/715702) 
-- [2020-10-16-使用-quanX-的菜鸟问题](https://www.v2ex.com/t/715700) 
-- [2020-10-16-想买个二手笔记本电脑给学生用，上狗东靠谱吗？-V-友可有推荐？](https://www.v2ex.com/t/715699) 
-- [2020-10-16-建一个职业交流群，欢迎大家来](https://www.v2ex.com/t/715698) 

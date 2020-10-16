@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 11:37:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 11:47:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -44,4 +44,5 @@
 - [2020-10-13-困扰前端工程师的-React-问题，答案都在这了！](https://www.ershicimi.com/p/d053641b8e46ee2805ad1bf1692c69b7) 
 - [2020-10-09-只会-React-的那些人，现在怎么样了？](https://www.ershicimi.com/p/32266a9785744889df60e11625383ba1) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
+- [2020-10-16-react基础教程之hook，redux（vue&react本就可学其一会其一）](https://juejin.im/post/6884139364956241927) 
 - [2020-10-15-译哪个跨平台框架才是最好的选择？React-Native、Flutter-还是-Ionic。](https://juejin.im/post/6884099570435883022) 

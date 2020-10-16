@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 05:27:17，:rocket: 更新条数: +3500， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 05:34:14，:rocket: 更新条数: +775， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-10-15-10月15日全国新增境外输入新冠24例-上海11例](http://m.china.caixin.com/m/2020-10-16/101615244.html) ![](assets/new.png)  
-- [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) ![](assets/new.png)  
-- [2020-10-15-大流行手记|10月15日：伦敦调高封锁级别-印度感染者或超美国](https://m.caixin.com/m/2020-10-16/101615246.html) ![](assets/new.png)  
-- [2020-10-14-青岛疫情追责启动-市卫健委主任隋振华被停职](https://m.caixin.com/m/2020-10-15/101614928.html) ![](assets/new.png)  
-- [2020-10-14-最新海外疫情：新冠感染超3830万-累计死亡超108万](http://m.international.caixin.com/m/2020-10-15/101615160.html) ![](assets/new.png)  
-- [2020-10-14-【境内疫情观察】山东新增1例本土确诊病例（10月14日）](http://m.database.caixin.com/m/2020-10-15/101614997.html) ![](assets/new.png)  
-- [2020-10-14-大流行手记|10月14日：欧洲秋冬疫情加剧医疗资源紧张-礼来抗体药试验遇阻](https://m.caixin.com/m/2020-10-15/101614837.html) ![](assets/new.png)  
-- [2020-10-14-伊朗又迎疫情高峰-单日确诊和死亡病例屡破纪录](http://m.international.caixin.com/m/2020-10-15/101615189.html) ![](assets/new.png)  
-- [2020-10-13-独家|青岛疫情或源于早前码头工人感染-专家称暂未发现社区传播](https://m.caixin.com/m/2020-10-14/101614662.html) ![](assets/new.png)  
-- [2020-10-13-【境内疫情观察】山东新增6例本土确诊病例（10月13日）](http://m.database.caixin.com/m/2020-10-14/101614534.html) ![](assets/new.png)  
-- [2020-10-13-大流行手记|10月13日：全球新冠病亡率下降-世卫官员反对群体免疫策略](https://m.caixin.com/m/2020-10-14/101614424.html) ![](assets/new.png)  
-- [2020-10-13-欧洲入冬第二波疫情汹涌-病例新增速度已超过美国印度](http://m.international.caixin.com/m/2020-10-14/101614765.html) ![](assets/new.png)  
-- [2020-10-13-国台办回应台防疫部门称新增1例大陆输入病例](http://m.china.caixin.com/m/2020-10-14/101614573.html) ![](assets/new.png)  
-- [2020-10-13-【图集】欧洲疫情反弹加剧-多国重新加强疫情防控举措](http://m.photos.caixin.com/m/2020-10-14/101614566.html) ![](assets/new.png)  
-- [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
-- [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
-- [2020-10-12-大流行手记|10月12日：英国实施三级封锁机制-法总理称第二波疫情已至](https://m.caixin.com/m/2020-10-13/101614027.html) ![](assets/new.png)  
-- [2020-10-11-青岛新冠阳性患者增至12人-5日内完成全市900多万人核酸检测](https://m.caixin.com/m/2020-10-12/101613800.html) ![](assets/new.png)  
-- [2020-10-11-青岛新增核酸检测阳性9人-其中4例为确诊病例](https://m.caixin.com/m/2020-10-12/101613557.html) ![](assets/new.png)  
-- [2020-10-11-【境内疫情观察】青岛新增6例本土确诊病例（10月11日）](http://m.database.caixin.com/m/2020-10-12/101613711.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +75,6 @@
 </summary>
 
 
-- [2020-10-16-青岛已采样10746645份开展新冠病毒核酸检测-未发现新增阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixLpSIbhkbxfO0rrGF8Qz201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-阿根廷新冠肺炎确诊病例单日新增达最高-首都部分学校恢复现场教学](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkWy7dtYvK3mlwJo8oii201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-苏里南多名内阁部长确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6sn396d8w6F3cGsaLhz201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-国家卫健委：15日新增新冠肺炎确诊病例24例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLsNzZufZdSDH2g2xxilC201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-15-世卫组织：瑞德西韦等药物对改善新冠肺炎住院患者病亡率影响不大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivPtjyH6m3uCf6DdxPCGF201016&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +922,6 @@
 </summary>
 
 
-- [2020-10-15-JavaScript中内存管理](https://juejin.im/post/6883867616713605127) ![](assets/new.png)  
-- [2020-10-15-Angular-Router-详解，-navigate-和navigateByUrl-用法区别](https://juejin.im/post/6883760273639866375) ![](assets/new.png)  
-- [2020-10-15-3D图形学线代基础](https://juejin.im/post/6883760405991784456) ![](assets/new.png)  
-- [2020-10-15-CSS-全局变量的使用](https://juejin.im/post/6883759797338898439) ![](assets/new.png)  
-- [2020-10-14-Vue-router源码剖析](https://juejin.im/post/6883741292455526414) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1027,8 @@
 </summary>
 
 
+- [2020-10-16-分享一个最近写的工具：使用-kainstall-工具一键部署-kubernetes-高可用集群](https://www.v2ex.com/t/715599) ![](assets/new.png)  
+- [2020-10-16-杭州-阿里巴巴-菜鸟网络---Java-高级研发工程师-18k---30k-*-16-薪](https://www.v2ex.com/t/715598) ![](assets/new.png)  
 - [2020-10-16-遇到一个-md5-文件校验失败的问题](https://www.v2ex.com/t/715595) ![](assets/new.png)  
 - [2020-10-16-新版-Outlook-挺好看的](https://www.v2ex.com/t/715594) ![](assets/new.png)  
 - [2020-10-16-如果绝对不会在上海买房，那我在上海公司工作，工资中公积金比例越大是不是越亏？](https://www.v2ex.com/t/715593) ![](assets/new.png)  
@@ -1075,8 +1047,6 @@
 - [2020-10-16-有老哥在深圳数联天下智能科技有限公司（和而泰）吗？](https://www.v2ex.com/t/715579) ![](assets/new.png)  
 - [2020-10-16-EXSi-硬盘直通跑-Windows-黑苹果和-NAS-总共要多少个硬盘？](https://www.v2ex.com/t/715578) ![](assets/new.png)  
 - [2020-10-16-nuxt.js-高仿微信-App-聊天实例|nuxt/vue-聊天室](https://www.v2ex.com/t/715577) ![](assets/new.png)  
-- [2020-10-16-无水印下载抖音和-TikTok（国际版抖音）视频的方法（喜欢的收藏）](https://www.v2ex.com/t/715576) ![](assets/new.png)  
-- [2020-10-16-求职-之前一直在武汉,-想往上海去,1-年数据开发的经验](https://www.v2ex.com/t/715575) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,8 +1091,8 @@
 
 - [2020-10-16-30-岁的程序员出路在哪里？|-码农周刊第-321-期](https://toutiao.io/k/qdeuemt) ![](assets/new.png)  
 - [2020-10-16-大家用过-API-网关吗?](https://toutiao.io/k/rwvdh2x) ![](assets/new.png)  
-- [2020-10-16-记一次对端机器宕机后的-TCP-行为](https://toutiao.io/k/2abl3q4) ![](assets/new.png)  
 - [2020-10-16-基于-Flink-实时计算商品订单流失量](https://toutiao.io/k/ta8nmrj) ![](assets/new.png)  
+- [2020-10-16-记一次对端机器宕机后的-TCP-行为](https://toutiao.io/k/2abl3q4) ![](assets/new.png)  
 - [2020-10-16-HTTP-keep-alive-和-TCP-keepalive-的区别，你了解吗？](https://toutiao.io/k/630ifsg) ![](assets/new.png)  
 - [2020-10-16-Linux-机器-CPU-毛刺问题排查](https://toutiao.io/k/v3b4fgl) ![](assets/new.png)  
 - [2020-10-16-如何优化多表查询的查询性能问题](https://toutiao.io/k/pax8qcm) ![](assets/new.png)  
@@ -1130,8 +1100,8 @@
 - [2020-10-16-程序员版《我和我的家乡》，拼搏奋斗的-IT-人是家乡的骄傲](https://toutiao.io/k/seqt1ei) ![](assets/new.png)  
 - [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
 - [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
-- [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
+- [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
 - [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
 - [2020-10-16-译-什么是真正的程序员](https://toutiao.io/k/zhspu3w) ![](assets/new.png)  

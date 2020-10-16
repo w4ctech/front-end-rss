@@ -13597,6 +13597,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "葡萄牙新冠肺炎确诊病例累计达95902例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQob59yYe2hAL4lSGBaGX201017&isfromapp=1",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "比利时疫情警戒提升至最高级 全国将实施宵禁",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MkQlngWl3XqHDAsLl2n201017&isfromapp=1",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "世卫组织：南半球流感季病例数量少于往常",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJlE3F5Zyx4WiUtMmMxTv201017&isfromapp=1",
+        "date": "2020-10-16"
+      },
+      {
         "title": "菲律宾新增3139例新冠肺炎确诊病例 累计超35万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticzhYd5bPoJuio3CLQYvy201016&isfromapp=1",
         "date": "2020-10-16"
@@ -13604,21 +13619,6 @@
       {
         "title": "以色列国家安全机构前副局长死于新冠肺炎",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZDYE62uGeEL3lSpubVGx201016&isfromapp=1",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "​俄罗斯新增15150例新冠肺炎确诊病例 累计达1369313例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVCLnO9aKMO7cbHEw9py201016&isfromapp=1",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "广州市花都区发现1例境外输入关联无症状感染者",
-        "link": "http://wsjkw.gd.gov.cn/xxgzbdfk/yqtb/content/post_3103971.html",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "青岛已采样10746645份开展新冠病毒核酸检测 未发现新增阳性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixLpSIbhkbxfO0rrGF8Qz201016&isfromapp=1",
         "date": "2020-10-16"
       }
     ]
@@ -18245,6 +18245,11 @@
         "date": "2020-10-16"
       },
       {
+        "title": "网易数据湖探索与实践",
+        "link": "https://toutiao.io/k/j8jgeiv",
+        "date": "2020-10-16"
+      },
+      {
         "title": "Java 8 函数式接口和 Lambda 表达式你真的会了吗？",
         "link": "https://toutiao.io/k/432c4c0",
         "date": "2020-10-16"
@@ -18260,8 +18265,13 @@
         "date": "2020-10-16"
       },
       {
-        "title": "网易数据湖探索与实践",
-        "link": "https://toutiao.io/k/j8jgeiv",
+        "title": "乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅",
+        "link": "https://toutiao.io/k/lebwpyv",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "Python 检验数据是否正态分布",
+        "link": "https://toutiao.io/k/nxd1wcb",
         "date": "2020-10-16"
       },
       {
@@ -18270,33 +18280,8 @@
         "date": "2020-10-16"
       },
       {
-        "title": "乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅",
-        "link": "https://toutiao.io/k/lebwpyv",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
+        "title": "[译] Go 运行时调度器处理系统调用的巧妙方式",
+        "link": "https://toutiao.io/k/xlv9j2n",
         "date": "2020-10-16"
       },
       {
@@ -18305,33 +18290,28 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-16"
-      },
-      {
         "title": "[推荐] Paxos 分布式必问的内容，没有之一",
         "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-16"
       },
       {
@@ -18340,13 +18320,43 @@
         "date": "2020-10-16"
       },
       {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-16"
+      },
+      {
         "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
         "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
         "date": "2020-10-16"
       }
     ]

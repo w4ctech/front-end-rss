@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 23:27:29，:rocket: 更新条数: +3716， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 23:33:22，:rocket: 更新条数: +3718， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-16-葡萄牙新冠肺炎确诊病例累计达95902例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQob59yYe2hAL4lSGBaGX201017&isfromapp=1) ![](assets/new.png)  
+- [2020-10-16-比利时疫情警戒提升至最高级-全国将实施宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MkQlngWl3XqHDAsLl2n201017&isfromapp=1) ![](assets/new.png)  
+- [2020-10-16-世卫组织：南半球流感季病例数量少于往常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJlE3F5Zyx4WiUtMmMxTv201017&isfromapp=1) ![](assets/new.png)  
 - [2020-10-16-菲律宾新增3139例新冠肺炎确诊病例-累计超35万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticzhYd5bPoJuio3CLQYvy201016&isfromapp=1) ![](assets/new.png)  
 - [2020-10-16-以色列国家安全机构前副局长死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZDYE62uGeEL3lSpubVGx201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-​俄罗斯新增15150例新冠肺炎确诊病例-累计达1369313例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVCLnO9aKMO7cbHEw9py201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-广州市花都区发现1例境外输入关联无症状感染者](http://wsjkw.gd.gov.cn/xxgzbdfk/yqtb/content/post_3103971.html) ![](assets/new.png)  
-- [2020-10-16-青岛已采样10746645份开展新冠病毒核酸检测-未发现新增阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixLpSIbhkbxfO0rrGF8Qz201016&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,25 +1140,25 @@
 
 
 - [2020-10-16-30-岁的程序员出路在哪里？|-码农周刊第-321-期](https://toutiao.io/k/qdeuemt) ![](assets/new.png)  
+- [2020-10-16-网易数据湖探索与实践](https://toutiao.io/k/j8jgeiv) ![](assets/new.png)  
 - [2020-10-16-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) ![](assets/new.png)  
 - [2020-10-16-Golang-使用-Chromedp-绕过反爬抓取微信公众号文章](https://toutiao.io/k/03bgw3v) ![](assets/new.png)  
 - [2020-10-16-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
-- [2020-10-16-网易数据湖探索与实践](https://toutiao.io/k/j8jgeiv) ![](assets/new.png)  
-- [2020-10-16-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
 - [2020-10-16-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
-- [2020-10-16-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-16-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-16-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-16-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-16-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-16-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
+- [2020-10-16-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-16-译-Go-运行时调度器处理系统调用的巧妙方式](https://toutiao.io/k/xlv9j2n) ![](assets/new.png)  
 - [2020-10-16-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-16-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-16-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-16-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
 - [2020-10-16-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-16-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-16-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-16-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-16-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-16-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-16-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
 - [2020-10-16-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-16-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-16-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-16-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-16-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

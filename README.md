@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 11:03:54，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 11:13:38，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-10-16-edge-访问-ssl-证书不正确的网站](https://www.v2ex.com/t/715744) ![](assets/new.png)  
+- [2020-10-16-Android-view-的属性默认值怎么能知道？](https://www.v2ex.com/t/715743) ![](assets/new.png)  
 - [2020-10-16-迫于京东买的-se2-保值换新发短信了，请问是买-12-还是-12pro-呢？](https://www.v2ex.com/t/715742) ![](assets/new.png)  
 - [2020-10-16-公司要实行大小周，像吃了屎](https://www.v2ex.com/t/715741) ![](assets/new.png)  
 - [2020-10-16-求-Java-UT-自动生成工具](https://www.v2ex.com/t/715740) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-10-16-iPhone12-今晚开始预售，会大卖还是破发？](https://www.v2ex.com/t/715722) ![](assets/new.png)  
 - [2020-10-16-有近期去-海南/香港/澳门-的朋友吗？-求代购啊](https://www.v2ex.com/t/715721) ![](assets/new.png)  
 - [2020-10-16-求助-有没有了解-Calcite-或者-Sql-或者写过见过奇怪-Sql-语句的大佬们指导一下](https://www.v2ex.com/t/715720) ![](assets/new.png)  
-- [2020-10-16-调研-因为某个课题（工作需求），想调研下有过人力外包的开发朋友们：](https://www.v2ex.com/t/715719) ![](assets/new.png)  
-- [2020-10-16-关于写项目时遇到的玄学问题](https://www.v2ex.com/t/715718) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

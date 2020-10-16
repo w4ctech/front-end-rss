@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 15:29:31，:rocket: 更新条数: +776， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 15:31:54，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
-- [React中文社区](#react中文社区)![](assets/dot.png)   
+- [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-15-10月15日全国新增境外输入新冠24例-上海11例](http://m.china.caixin.com/m/2020-10-16/101615244.html) ![](assets/new.png)  
+- [2020-10-15-青岛疫情源头查明-被感染码头工人与普通病区患者共用CT所致](https://m.caixin.com/m/2020-10-16/101615349.html) ![](assets/new.png)  
+- [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) ![](assets/new.png)  
+- [2020-10-15-【境内疫情观察】青岛疫情由患者共用CT室引发（10月15日）](http://m.database.caixin.com/m/2020-10-16/101615364.html) ![](assets/new.png)  
+- [2020-10-15-大流行手记|10月15日：伦敦调高封锁级别-印度感染者或超美国](https://m.caixin.com/m/2020-10-16/101615246.html) ![](assets/new.png)  
+- [2020-10-14-青岛疫情追责启动-市卫健委主任隋振华被停职](https://m.caixin.com/m/2020-10-15/101614928.html) ![](assets/new.png)  
+- [2020-10-14-最新海外疫情：新冠感染超3830万-累计死亡超108万](http://m.international.caixin.com/m/2020-10-15/101615160.html) ![](assets/new.png)  
+- [2020-10-14-【境内疫情观察】山东新增1例本土确诊病例（10月14日）](http://m.database.caixin.com/m/2020-10-15/101614997.html) ![](assets/new.png)  
+- [2020-10-14-大流行手记|10月14日：欧洲秋冬疫情加剧医疗资源紧张-礼来抗体药试验遇阻](https://m.caixin.com/m/2020-10-15/101614837.html) ![](assets/new.png)  
+- [2020-10-14-伊朗又迎疫情高峰-单日确诊和死亡病例屡破纪录](http://m.international.caixin.com/m/2020-10-15/101615189.html) ![](assets/new.png)  
+- [2020-10-13-独家|青岛疫情或源于早前码头工人感染-专家称暂未发现社区传播](https://m.caixin.com/m/2020-10-14/101614662.html) ![](assets/new.png)  
+- [2020-10-13-【境内疫情观察】山东新增6例本土确诊病例（10月13日）](http://m.database.caixin.com/m/2020-10-14/101614534.html) ![](assets/new.png)  
+- [2020-10-13-大流行手记|10月13日：全球新冠病亡率下降-世卫官员反对群体免疫策略](https://m.caixin.com/m/2020-10-14/101614424.html) ![](assets/new.png)  
+- [2020-10-13-欧洲入冬第二波疫情汹涌-病例新增速度已超过美国印度](http://m.international.caixin.com/m/2020-10-14/101614765.html) ![](assets/new.png)  
+- [2020-10-13-国台办回应台防疫部门称新增1例大陆输入病例](http://m.china.caixin.com/m/2020-10-14/101614573.html) ![](assets/new.png)  
+- [2020-10-13-【图集】欧洲疫情反弹加剧-多国重新加强疫情防控举措](http://m.photos.caixin.com/m/2020-10-14/101614566.html) ![](assets/new.png)  
+- [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
+- [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
+- [2020-10-12-大流行手记|10月12日：英国实施三级封锁机制-法总理称第二波疫情已至](https://m.caixin.com/m/2020-10-13/101614027.html) ![](assets/new.png)  
+- [2020-10-11-青岛新冠阳性患者增至12人-5日内完成全市900多万人核酸检测](https://m.caixin.com/m/2020-10-12/101613800.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -178,26 +198,6 @@
 </summary>
 
 
-- [2020-08-19-招个数据分析工程师，我给25k](https://www.ershicimi.com/p/003c2b9ee98c0992b36c5258e82747d3) ![](assets/new.png)  
-- [2020-07-13-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) ![](assets/new.png)  
-- [2020-05-17-一文掌握GO语言实战技能三](https://www.ershicimi.com/p/46cac625ac351e226dc4486f2397cb50) ![](assets/new.png)  
-- [2020-05-17-一文掌握GO语言实战技能二](https://www.ershicimi.com/p/0efd18d6a0774aa88db09fc12989a6ab) ![](assets/new.png)  
-- [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) ![](assets/new.png)  
-- [2020-05-14-一文掌握GO语言实战技能一---万字长文](https://www.ershicimi.com/p/b4aa653a71762c4ac0d8fb3a4d4d1c63) ![](assets/new.png)  
-- [2020-05-14-一文达到Mysql实战水平-习题答案](https://www.ershicimi.com/p/541e3bf6cc03ebd608c403da8cd4f8d3) ![](assets/new.png)  
-- [2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) ![](assets/new.png)  
-- [2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) ![](assets/new.png)  
-- [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) ![](assets/new.png)  
-- [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88) ![](assets/new.png)  
-- [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a) ![](assets/new.png)  
-- [2019-11-28-来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c) ![](assets/new.png)  
-- [2019-11-25-一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6) ![](assets/new.png)  
-- [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) ![](assets/new.png)  
-- [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) ![](assets/new.png)  
-- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) ![](assets/new.png)  
-- [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) ![](assets/new.png)  
-- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) ![](assets/new.png)  
-- [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) ![](assets/new.png)  
 - [......【查看更多】......](./details/React中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -709,6 +709,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

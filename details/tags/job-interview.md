@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 04:40:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 04:47:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -42,4 +42,5 @@
 - [2020-10-12-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/7b5d3d44dc2558958e73ac7eaad5ed4e) 
 - [2020-10-16-贵州智媒科技有限公司招聘-iOS-研发工程师](https://www.v2ex.com/t/715581) 
 - [2020-10-16-干货分享-大厂的前端职级和招聘要求](https://www.v2ex.com/t/715547) 
+- [2020-10-16-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
 - [2020-10-14-招聘-|-章和技术招贤纳士](https://sec.thief.one/article_content?a_id=9548e6964194d793828d0125f121b645) 

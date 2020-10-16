@@ -14776,6 +14776,21 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "你必须知道的11个微前端框架",
+        "link": "https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "Linux 开发过程那么麻烦，是否值得？",
+        "link": "https://www.ershicimi.com/p/46165449dd2ae6935105657412ea71ad",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "前端渣渣的我再也不敢说我会写React了 | 极客大学",
+        "link": "https://www.ershicimi.com/p/98f4a3ae33489b4d3367e56f6471a911",
+        "date": "2020-10-16"
+      },
+      {
         "title": "用了VS Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质",
         "link": "https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409",
         "date": "2020-10-15"
@@ -14859,21 +14874,6 @@
         "title": "一行代码实现黑暗模式",
         "link": "https://www.ershicimi.com/p/95249e6cf46dfeeb1f7c2d834b987e2b",
         "date": "2020-10-06"
-      },
-      {
-        "title": "前端周报：Vue.js 3官方中文文档上线；腾讯奖励万名员工每人一台华为折叠屏手机；多款Chrome",
-        "link": "https://www.ershicimi.com/p/10ded176def12aba5c5da03e531f16e6",
-        "date": "2020-10-04"
-      },
-      {
-        "title": "成为最差前端开发的10个建议",
-        "link": "https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758",
-        "date": "2020-10-02"
-      },
-      {
-        "title": "人工智能势如破竹，开创机器人对话时代 | 活动推荐",
-        "link": "https://www.ershicimi.com/p/4afb29d20a6d6d227c4362229bd8c44c",
-        "date": "2020-09-30"
       }
     ]
   },
@@ -16775,6 +16775,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "话说 jetpack 组件的普及率怎么样了？",
+        "link": "https://www.v2ex.com/t/715681",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "被放到<水>节点的标准是什么",
+        "link": "https://www.v2ex.com/t/715680",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "icloud drive win10 是否有非同步的客户端",
+        "link": "https://www.v2ex.com/t/715679",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "windows 不能命名文件为 con",
+        "link": "https://www.v2ex.com/t/715678",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "阿里云的域名 ex.com， DNS 刚刚换成 cloudflare 的。第二天发现子域名 tm.ex.com 无法访问，如何添加 NS 到 cloudflare，还是根本就不支持子域名使用？",
+        "link": "https://www.v2ex.com/t/715677",
+        "date": "2020-10-16"
+      },
+      {
         "title": "求指点如何能买到摩托罗拉手机",
         "link": "https://www.v2ex.com/t/715676",
         "date": "2020-10-16"
@@ -16952,26 +16977,6 @@
       {
         "title": "小米盒子 3 增强版卡得不能自理，怎么办？",
         "link": "https://www.v2ex.com/t/715632",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "友情提示 iPhone 12 的蓝色 可能是个雷",
-        "link": "https://www.v2ex.com/t/715631",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "又到周五啦！^_^ 聊聊大家心中期望的办公环境吧",
-        "link": "https://www.v2ex.com/t/715630",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "邂逅 CODING ，墨刀测试团队实现「质」的飞跃",
-        "link": "https://www.v2ex.com/t/715629",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "iPad 支持 Youtube 4K 了",
-        "link": "https://www.v2ex.com/t/715627",
         "date": "2020-10-16"
       }
     ]
@@ -17189,23 +17194,18 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-16"
       },
       {
@@ -17219,28 +17219,8 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
         "date": "2020-10-16"
       },
       {
@@ -17249,8 +17229,28 @@
         "date": "2020-10-16"
       },
       {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-16"
+      },
+      {
         "title": "[推荐] 建设微服务 API 网关的一些实践",
         "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-16"
       },
       {
@@ -17259,8 +17259,13 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
         "date": "2020-10-16"
       }
     ]

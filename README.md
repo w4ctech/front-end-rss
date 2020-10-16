@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 08:06:00，:rocket: 更新条数: +3499， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 08:16:48，:rocket: 更新条数: +3500， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -446,6 +446,9 @@
 </summary>
 
 
+- [2020-10-16-你必须知道的11个微前端框架](https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853) ![](assets/new.png)  
+- [2020-10-16-Linux-开发过程那么麻烦，是否值得？](https://www.ershicimi.com/p/46165449dd2ae6935105657412ea71ad) ![](assets/new.png)  
+- [2020-10-16-前端渣渣的我再也不敢说我会写React了-|-极客大学](https://www.ershicimi.com/p/98f4a3ae33489b4d3367e56f6471a911) ![](assets/new.png)  
 - [2020-10-15-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409) ![](assets/new.png)  
 - [2020-10-15-Android-Studio-4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF](https://www.ershicimi.com/p/c76fd68ab86dc37cd9c25ff7185ff393) ![](assets/new.png)  
 - [2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6) ![](assets/new.png)  
@@ -463,9 +466,6 @@
 - [2020-10-08-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/b8db56cd39ed4b9876e48a55cb7cbdb7) ![](assets/new.png)  
 - [2020-10-07-反-996-有理：催程序员交代码，写不出好软件](https://www.ershicimi.com/p/7a3ade6c9a0f7793f5d5276a0a57b0ca) ![](assets/new.png)  
 - [2020-10-06-一行代码实现黑暗模式](https://www.ershicimi.com/p/95249e6cf46dfeeb1f7c2d834b987e2b) ![](assets/new.png)  
-- [2020-10-04-前端周报：Vue.js-3官方中文文档上线；腾讯奖励万名员工每人一台华为折叠屏手机；多款Chrome](https://www.ershicimi.com/p/10ded176def12aba5c5da03e531f16e6) ![](assets/new.png)  
-- [2020-10-02-成为最差前端开发的10个建议](https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758) ![](assets/new.png)  
-- [2020-09-30-人工智能势如破竹，开创机器人对话时代-|-活动推荐](https://www.ershicimi.com/p/4afb29d20a6d6d227c4362229bd8c44c) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-10-16-话说-jetpack-组件的普及率怎么样了？](https://www.v2ex.com/t/715681) ![](assets/new.png)  
+- [2020-10-16-被放到<水>节点的标准是什么](https://www.v2ex.com/t/715680) ![](assets/new.png)  
+- [2020-10-16-icloud-drive-win10-是否有非同步的客户端](https://www.v2ex.com/t/715679) ![](assets/new.png)  
+- [2020-10-16-windows-不能命名文件为-con](https://www.v2ex.com/t/715678) ![](assets/new.png)  
+- [2020-10-16-阿里云的域名-ex.com，-DNS-刚刚换成-cloudflare-的。第二天发现子域名-tm.ex.com-无法访问，如何添加-NS-到-cloudflare，还是根本就不支持子域名使用？](https://www.v2ex.com/t/715677) ![](assets/new.png)  
 - [2020-10-16-求指点如何能买到摩托罗拉手机](https://www.v2ex.com/t/715676) ![](assets/new.png)  
 - [2020-10-16-关于-MBP-在-Big-Sur-beta-10-下电池问题](https://www.v2ex.com/t/715675) ![](assets/new.png)  
 - [2020-10-16-更改地区后，-Apple-Developer-个人开发账号用不了](https://www.v2ex.com/t/715674) ![](assets/new.png)  
@@ -1072,11 +1077,6 @@
 - [2020-10-16-有想法尝遍国内所有香型白酒](https://www.v2ex.com/t/715661) ![](assets/new.png)  
 - [2020-10-16-消息队列部署在-docker-中合适吗？](https://www.v2ex.com/t/715659) ![](assets/new.png)  
 - [2020-10-16-来试试这个开源的高颜值👉网易云播放器👈吧](https://www.v2ex.com/t/715658) ![](assets/new.png)  
-- [2020-10-16-前端菜鸡想要在闲时做一些小项目，有推荐的吗？](https://www.v2ex.com/t/715657) ![](assets/new.png)  
-- [2020-10-16-当初免费送的-Apple-TV+-的订阅被延长了,虽然并没什么用](https://www.v2ex.com/t/715656) ![](assets/new.png)  
-- [2020-10-16-宝能汽车广州研究院招聘-Android-高级开发工程师](https://www.v2ex.com/t/715655) ![](assets/new.png)  
-- [2020-10-16-有没有屏蔽-google-搜索结果中-csdn-的-chrome-插件？](https://www.v2ex.com/t/715654) ![](assets/new.png)  
-- [2020-10-16-腾讯云-cos-静态网页在微信被提醒“非微信官方网页-请确认是否继续访问”](https://www.v2ex.com/t/715653) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

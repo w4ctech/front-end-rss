@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-16 08:06:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 08:16:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-话说-jetpack-组件的普及率怎么样了？](https://www.v2ex.com/t/715681) 
+- [2020-10-16-被放到<水>节点的标准是什么](https://www.v2ex.com/t/715680) 
+- [2020-10-16-icloud-drive-win10-是否有非同步的客户端](https://www.v2ex.com/t/715679) 
+- [2020-10-16-windows-不能命名文件为-con](https://www.v2ex.com/t/715678) 
+- [2020-10-16-阿里云的域名-ex.com，-DNS-刚刚换成-cloudflare-的。第二天发现子域名-tm.ex.com-无法访问，如何添加-NS-到-cloudflare，还是根本就不支持子域名使用？](https://www.v2ex.com/t/715677) 
 - [2020-10-16-求指点如何能买到摩托罗拉手机](https://www.v2ex.com/t/715676) 
 - [2020-10-16-关于-MBP-在-Big-Sur-beta-10-下电池问题](https://www.v2ex.com/t/715675) 
 - [2020-10-16-更改地区后，-Apple-Developer-个人开发账号用不了](https://www.v2ex.com/t/715674) 
@@ -41,7 +46,3 @@
 - [2020-10-16-想问问-iPad-摔成这样了，-AC+还能保修不](https://www.v2ex.com/t/715635) 
 - [2020-10-16-Youtube-日区被-check-了，怎么回复？](https://www.v2ex.com/t/715633) 
 - [2020-10-16-小米盒子-3-增强版卡得不能自理，怎么办？](https://www.v2ex.com/t/715632) 
-- [2020-10-16-友情提示-iPhone-12-的蓝色-可能是个雷](https://www.v2ex.com/t/715631) 
-- [2020-10-16-又到周五啦！^_^-聊聊大家心中期望的办公环境吧](https://www.v2ex.com/t/715630) 
-- [2020-10-16-邂逅-CODING-，墨刀测试团队实现「质」的飞跃](https://www.v2ex.com/t/715629) 
-- [2020-10-16-iPad-支持-Youtube-4K-了](https://www.v2ex.com/t/715627) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 09:49:12，:rocket: 更新条数: +3497， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 10:03:59，:rocket: 更新条数: +3497， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-10-16-请问个-K8S-的问题:-pod-收到-SIGTERM](https://www.v2ex.com/t/715731) ![](assets/new.png)  
+- [2020-10-16--投票-大家喜欢什么颜色的-iphone12](https://www.v2ex.com/t/715729) ![](assets/new.png)  
 - [2020-10-16-来公司十个月了，还是不会写-c++怎么办](https://www.v2ex.com/t/715727) ![](assets/new.png)  
 - [2020-10-16-go2-会影响-go-之前的架构嘛](https://www.v2ex.com/t/715726) ![](assets/new.png)  
 - [2020-10-16-这手机啥型号啊，阿里云登录界面看到的](https://www.v2ex.com/t/715725) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-10-16-苹果官网崩了？还是在维护？](https://www.v2ex.com/t/715710) ![](assets/new.png)  
 - [2020-10-16-😂edge-访问-Google-推荐使用-Chrome。](https://www.v2ex.com/t/715708) ![](assets/new.png)  
 - [2020-10-16-快-2021-年了，-Java-server-端业务代码的“正确”风格写法是啥？](https://www.v2ex.com/t/715707) ![](assets/new.png)  
-- [2020-10-16-MacBook-Pro-屏幕问题](https://www.v2ex.com/t/715705) ![](assets/new.png)  
-- [2020-10-16-请问上海有比较靠谱的拳击/散打的学习场所吗？](https://www.v2ex.com/t/715704) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1130,8 @@
 - [2020-10-16-程序员版《我和我的家乡》，拼搏奋斗的-IT-人是家乡的骄傲](https://toutiao.io/k/seqt1ei) ![](assets/new.png)  
 - [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
 - [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
-- [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
+- [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
 - [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
 - [2020-10-16-译-什么是真正的程序员](https://toutiao.io/k/zhspu3w) ![](assets/new.png)  

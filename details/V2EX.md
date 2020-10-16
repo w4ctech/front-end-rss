@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-16 09:49:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 10:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-请问个-K8S-的问题:-pod-收到-SIGTERM](https://www.v2ex.com/t/715731) 
+- [2020-10-16--投票-大家喜欢什么颜色的-iphone12](https://www.v2ex.com/t/715729) 
 - [2020-10-16-来公司十个月了，还是不会写-c++怎么办](https://www.v2ex.com/t/715727) 
 - [2020-10-16-go2-会影响-go-之前的架构嘛](https://www.v2ex.com/t/715726) 
 - [2020-10-16-这手机啥型号啊，阿里云登录界面看到的](https://www.v2ex.com/t/715725) 
@@ -41,5 +43,3 @@
 - [2020-10-16-蛋壳公寓是不是要跑路了](https://www.v2ex.com/t/715687) 
 - [2020-10-16-阿里巴巴-eWTP-业务线招聘，部门直招，简历直推主管](https://www.v2ex.com/t/715686) 
 - [2020-10-16-Kafka-Producer-重试不生效](https://www.v2ex.com/t/715685) 
-- [2020-10-16-话说-jetpack-组件的普及率怎么样了？](https://www.v2ex.com/t/715681) 
-- [2020-10-16-icloud-drive-win10-是否有非同步的客户端](https://www.v2ex.com/t/715679) 

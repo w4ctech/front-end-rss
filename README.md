@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 04:16:26，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 04:31:04，:rocket: 更新条数: +3499， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-10-16-有老哥在深圳数联天下智能科技有限公司（和而泰）吗？](https://www.v2ex.com/t/715579) ![](assets/new.png)  
+- [2020-10-16-EXSi-硬盘直通跑-Windows-黑苹果和-NAS-总共要多少个硬盘？](https://www.v2ex.com/t/715578) ![](assets/new.png)  
+- [2020-10-16-nuxt.js-高仿微信-App-聊天实例|nuxt/vue-聊天室](https://www.v2ex.com/t/715577) ![](assets/new.png)  
 - [2020-10-16-无水印下载抖音和-TikTok（国际版抖音）视频的方法（喜欢的收藏）](https://www.v2ex.com/t/715576) ![](assets/new.png)  
 - [2020-10-16-求职-之前一直在武汉,-想往上海去,1-年数据开发的经验](https://www.v2ex.com/t/715575) ![](assets/new.png)  
 - [2020-10-16-关于没有设置代理却可以访问谷歌的问题](https://www.v2ex.com/t/715574) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-10-16-为啥-APP-客户端开发不用-thrift-链接后端服务，而使用-http？](https://www.v2ex.com/t/715560) ![](assets/new.png)  
 - [2020-10-16-3-个月孵化的开源项目终于成为了-Gitee-的-GVP](https://www.v2ex.com/t/715559) ![](assets/new.png)  
 - [2020-10-16-SVG-图标可以用在生产环境吗？有没浏览器不支持？](https://www.v2ex.com/t/715558) ![](assets/new.png)  
-- [2020-10-16-Android-studio-版本更新导致类丢失](https://www.v2ex.com/t/715557) ![](assets/new.png)  
-- [2020-10-16-又有人自杀了。。](https://www.v2ex.com/t/715556) ![](assets/new.png)  
-- [2020-10-16-你觉得本次-2020-英雄联盟全球总决赛现场观赛资格摇号是公平公正的吗？](https://www.v2ex.com/t/715555) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1130,8 @@
 - [2020-10-16-程序员版《我和我的家乡》，拼搏奋斗的-IT-人是家乡的骄傲](https://toutiao.io/k/seqt1ei) ![](assets/new.png)  
 - [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
 - [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
-- [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
 - [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
+- [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
 - [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
 - [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
 - [2020-10-16-译-什么是真正的程序员](https://toutiao.io/k/zhspu3w) ![](assets/new.png)  

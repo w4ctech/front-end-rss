@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 10:48:54，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 11:03:54，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-16-迫于京东买的-se2-保值换新发短信了，请问是买-12-还是-12pro-呢？](https://www.v2ex.com/t/715742) ![](assets/new.png)  
 - [2020-10-16-公司要实行大小周，像吃了屎](https://www.v2ex.com/t/715741) ![](assets/new.png)  
 - [2020-10-16-求-Java-UT-自动生成工具](https://www.v2ex.com/t/715740) ![](assets/new.png)  
 - [2020-10-16-有人使用雷电-3-+-nvme-m.2-+-显卡组过外界显卡没？](https://www.v2ex.com/t/715739) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-16-求助-有没有了解-Calcite-或者-Sql-或者写过见过奇怪-Sql-语句的大佬们指导一下](https://www.v2ex.com/t/715720) ![](assets/new.png)  
 - [2020-10-16-调研-因为某个课题（工作需求），想调研下有过人力外包的开发朋友们：](https://www.v2ex.com/t/715719) ![](assets/new.png)  
 - [2020-10-16-关于写项目时遇到的玄学问题](https://www.v2ex.com/t/715718) ![](assets/new.png)  
-- [2020-10-16-上海-寻找靠谱的前端工程师](https://www.v2ex.com/t/715717) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,14 +1130,14 @@
 - [2020-10-16-程序员版《我和我的家乡》，拼搏奋斗的-IT-人是家乡的骄傲](https://toutiao.io/k/seqt1ei) ![](assets/new.png)  
 - [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
 - [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
-- [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
+- [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
 - [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
 - [2020-10-16-译-什么是真正的程序员](https://toutiao.io/k/zhspu3w) ![](assets/new.png)  
 - [2020-10-16-中年架构师，悲催的一天](https://toutiao.io/k/6hkm4g6) ![](assets/new.png)  
-- [2020-10-16-译-8-个-JavaScript-库可更好地处理本地存储](https://toutiao.io/k/3bs5pmx) ![](assets/new.png)  
 - [2020-10-16-AIOps-在美团的探索与实践：故障发现篇](https://toutiao.io/k/lryznhi) ![](assets/new.png)  
+- [2020-10-16-译-8-个-JavaScript-库可更好地处理本地存储](https://toutiao.io/k/3bs5pmx) ![](assets/new.png)  
 - [2020-10-16-数学基础学习笔记：数值计算](https://toutiao.io/k/2fk75w2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
@@ -1150,26 +1150,26 @@
 </summary>
 
 
-- [2020-10-15-绿盟科技加入中国网络信息安全科技创新发展联盟](https://sec.thief.one/article_content?a_id=aadecbb29b914f79c88e9a390f093921) ![](assets/new.png)  
-- [2020-10-15-工业互联网安全榜单奇安信夺冠](https://sec.thief.one/article_content?a_id=905be3793584d174996f4f24c4159240) ![](assets/new.png)  
-- [2020-10-15-聚体系之力,护航大终端安全丨360终端安全产品体系重磅发布](https://sec.thief.one/article_content?a_id=4278b9c55601321934b0b80455e2c684) ![](assets/new.png)  
-- [2020-10-15-国家互联网信息办公室关于《互联网用户公众账号信息服务管理规定...](https://sec.thief.one/article_content?a_id=e979992c77bc857d343f39d32d957eb7) ![](assets/new.png)  
-- [2020-10-15-今晚7点半直播,GeekPwn云安全挑战赛亮点大揭秘](https://sec.thief.one/article_content?a_id=536072982ca7ee95c325bd81411dbf21) ![](assets/new.png)  
-- [2020-10-15-2020-看雪SDC-议题预告-|-世界知名工控厂商密码保护机制突破之旅](https://sec.thief.one/article_content?a_id=fbf5fba57d20fc40fb74945913efc616) ![](assets/new.png)  
-- [2020-10-15-Linux内核曝严重蓝牙漏洞,影响多个版本](https://sec.thief.one/article_content?a_id=a917799c7e57e12a6473a70477237ea2) ![](assets/new.png)  
-- [2020-10-15-极客巅峰2020-部分WriteUp](https://sec.thief.one/article_content?a_id=4b062739551722672b6e194839852dfb) ![](assets/new.png)  
-- [2020-10-15-【Android-原创】MIUI-12稳定版系统中的开发者选项限制解除](https://sec.thief.one/article_content?a_id=4d230e02f8005819563407032848758b) ![](assets/new.png)  
-- [2020-10-15-京东-胡兆丰:情报驱动的主动防御-|-2020-情报大会“剧透”](https://sec.thief.one/article_content?a_id=7beabcc0159328fce6a65cee8cdbbd54) ![](assets/new.png)  
-- [2020-10-15-大家好,今天有一场校园渗透赛,你参加不?](https://sec.thief.one/article_content?a_id=ff4f85f0929d088bbabf27b271e8a29e) ![](assets/new.png)  
-- [2020-10-15-甲乙方视角的安全预警体系建设丨咖面112期](https://sec.thief.one/article_content?a_id=568a0d6bd217de9f28f2d846e0af67c3) ![](assets/new.png)  
-- [2020-10-15-【漏洞预警】CNNVD关于微软多个安全漏洞的通报](https://sec.thief.one/article_content?a_id=b2c34464b97294066a68ec0538ed98ad) ![](assets/new.png)  
-- [2020-10-15-最新监管法规、10月标准实施、地方政策-|-近期重磅网络安全资讯](https://sec.thief.one/article_content?a_id=d701b90afddd3fc52e22c9ce0ddb3f4a) ![](assets/new.png)  
-- [2020-10-15-红蓝对抗系列之浅谈蓝队反制红队的手法一二](https://sec.thief.one/article_content?a_id=2862c02749696e115d71978d84c053ad) ![](assets/new.png)  
-- [2020-10-15-微软10月安全更新补丁和TCP/IP高危漏洞风险提示](https://sec.thief.one/article_content?a_id=390a52a1955aeb1076b8aeec2f5c31b1) ![](assets/new.png)  
-- [2020-10-15-美国网络司令部联合网安技术公司围剿僵尸网络](https://sec.thief.one/article_content?a_id=b4ad7b37ac606f0dc5055e6524537b27) ![](assets/new.png)  
-- [2020-10-15-富达称,散户投资者“毋庸置疑”将转向比特币](https://sec.thief.one/article_content?a_id=a80848cc5734a259f062a70caf1c05c4) ![](assets/new.png)  
-- [2020-10-15-Filecoin主网今晚要启动,但存储概念今天却蔫儿得一塌糊涂](https://sec.thief.one/article_content?a_id=3e1513243f22f82aa15d8fd5da4dddea) ![](assets/new.png)  
-- [2020-10-15-让渗透从黑盒变为“灰盒”](https://sec.thief.one/article_content?a_id=9ac51b2efc5e772b3d5ae4767f9782d4) ![](assets/new.png)  
+- [2020-10-16-rConfig中的远程代码执行漏洞分析](https://sec.thief.one/article_content?a_id=1c4467bc9607d861fb8f98bf71f07fa7) ![](assets/new.png)  
+- [2020-10-16-招聘-|-爱奇艺招聘安全运营](https://sec.thief.one/article_content?a_id=b34018d92b15ce4cfbf0c9ea0882efad) ![](assets/new.png)  
+- [2020-10-16-Linux中存在高危蓝牙安全漏洞;B&N遭网络攻击用户数据泄露;北斗...](https://sec.thief.one/article_content?a_id=580de7533dd96eed091ebb254d8e8a3d) ![](assets/new.png)  
+- [2020-10-16-10.19白帽极客节|字节跳动安全专家分享「白帽兵法」!](https://sec.thief.one/article_content?a_id=6635fd5260c08d4f6354ea8e8c111308) ![](assets/new.png)  
+- [2020-10-16-【安全监测报告】奇安信-CERT-2020年9月安全监测报告](https://sec.thief.one/article_content?a_id=40563a9cc7230a0956388a2dd55721e7) ![](assets/new.png)  
+- [2020-10-16-Microsoft-SharePoint远程代码执行漏洞CVE-2020-16952](https://sec.thief.one/article_content?a_id=646dd832a27ca0c9d90aad8d0904602d) ![](assets/new.png)  
+- [2020-10-16-信息安全漏洞月报2020年9月](https://sec.thief.one/article_content?a_id=9b536a0e5567df61d87bd5b5c4f617d2) ![](assets/new.png)  
+- [2020-10-16-华山论剑·2020网络安全大会之旅结束](https://sec.thief.one/article_content?a_id=140fa0ad5c0212667220e1f5f886f2ca) ![](assets/new.png)  
+- [2020-10-16-今晚直播预告丨渗透测试神器福利专场](https://sec.thief.one/article_content?a_id=b0fc6d315b562e45a363c8e0671420dd) ![](assets/new.png)  
+- [2020-10-16-征文-|蒋琼:从雾里看花到揭开面纱,新兴领域安全产品POC之我见](https://sec.thief.one/article_content?a_id=16bc1d270041a70279aef650cbc46255) ![](assets/new.png)  
+- [2020-10-16-「Dibrary-第二季-」好书推荐-|-DSRC2019年度第一-IT小丑](https://sec.thief.one/article_content?a_id=bfa68818727fd8e3c327f112390ceb6c) ![](assets/new.png)  
+- [2020-10-16-二十年,感谢每一个你](https://sec.thief.one/article_content?a_id=89e2d86a1e0e2edfd14d11bceff49d7d) ![](assets/new.png)  
+- [2020-10-16-巴哈马央行希望使其数字“沙币”全球化](https://sec.thief.one/article_content?a_id=c3e582de31854976a377c3ebb361d270) ![](assets/new.png)  
+- [2020-10-16-共合作,铸安全-|-国舜股份助力浙江某城商行网络安全综合能力升级](https://sec.thief.one/article_content?a_id=c3e129acdfbd89cf2704a0012e6bcd1b) ![](assets/new.png)  
+- [2020-10-16-从HTTP协议层面探讨Bypass](https://sec.thief.one/article_content?a_id=a91e0dc9523f07e7c8895f97e4e2afea) ![](assets/new.png)  
+- [2020-10-16-PWN从入门到放弃一:PWNTOOLS](https://sec.thief.one/article_content?a_id=83e4461c672cd3e0b5e4062fb46c4f00) ![](assets/new.png)  
+- [2020-10-16-内容版权这种边缘题材吃药了?两个币突然涨起来](https://sec.thief.one/article_content?a_id=9a17138297431875dd611cba268dd2e8) ![](assets/new.png)  
+- [2020-10-16-勒索软件荣登2020年威胁排行榜榜首](https://sec.thief.one/article_content?a_id=30dc966c914ce63481167d568d10925d) ![](assets/new.png)  
+- [2020-10-16-实验室成立以来第一次对外的招聘文末抽奖](https://sec.thief.one/article_content?a_id=bb504949cdf6af2320146aa7908ea30c) ![](assets/new.png)  
+- [2020-10-16-用Domato通过Fuzzing对php进行漏洞挖掘研究](https://sec.thief.one/article_content?a_id=64766fb65403e5f3cc242bd1391a804d) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

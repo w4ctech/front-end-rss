@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 20:47:32，:rocket: 更新条数: +3730， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 21:04:05，:rocket: 更新条数: +3730， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1152,8 +1152,8 @@
 - [2020-10-16-AIOps-在美团的探索与实践：故障发现篇](https://toutiao.io/k/lryznhi) ![](assets/new.png)  
 - [2020-10-16-程序员版《我和我的家乡》，拼搏奋斗的-IT-人是家乡的骄傲](https://toutiao.io/k/seqt1ei) ![](assets/new.png)  
 - [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
-- [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
 - [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
+- [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
 - [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
 - [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-中年架构师，悲催的一天](https://toutiao.io/k/6hkm4g6) ![](assets/new.png)  

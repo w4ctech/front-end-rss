@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 03:49:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 04:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,4 +28,3 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-10-13-德甲、NFL、F1-赛车的游戏规则正在改变，AWS-如何解锁数据潜能](https://www.ershicimi.com/p/46404117114c6f7bbacae7e23358772f) 
-- [2020-10-16-招聘-全职远程-加拿大游戏公司，-Unreal-Engine-4-开发](https://www.v2ex.com/t/715514) 

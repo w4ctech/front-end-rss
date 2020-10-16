@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 23:03:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 23:13:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -39,6 +39,7 @@
 - [2020-10-10-【第2083期】理解ECMAScript规范（四）](https://www.ershicimi.com/p/50fc7dc101fdaff3adb7483b87326139) 
 - [2020-10-08-【第2081期】理解ECMAScript规范（三）](https://www.ershicimi.com/p/4d21600e1f652edfd01e993e17f27f0f) 
 - [2020-09-28-【第2079期】理解ECMAScript规范（二）](https://www.ershicimi.com/p/abbc0eba9a15dc0d04591db13d412038) 
+- [2020-10-16-前端如何优雅的处理类数组对象？](https://www.ershicimi.com/p/ff68d432c6aa930c231ca20ef17d903a) 
 - [2020-10-14-你需要了解的几种-JavaScript-异常类型](https://www.ershicimi.com/p/06dd75a065cf099f98747e8317f18ae5) 
 - [2020-10-06-由浅入深，66条JavaScript面试知识点](https://www.ershicimi.com/p/a4bd310df5a3f3ef95bf8ea89713eb85) 
 - [2020-10-15-JS双等号比较符（“==”）作用细节](https://www.ershicimi.com/p/a210134db5fda43f542248ec3b7bc00e) 
@@ -129,6 +130,5 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-10-16-求教，请问前端方面怎么在一个老-jsp-项目中组件化？不想用-requirejs](https://www.v2ex.com/t/715810) 
 - [2020-10-16-用-Android-Studio-打包移动-H5-网页作-Web-app，有没有比较完善的源码、或教程可以参考？](https://www.v2ex.com/t/715790) 
-- [2020-10-16-译-8-个-JavaScript-库可更好地处理本地存储](https://toutiao.io/k/3bs5pmx) 
 - [2020-10-16-用Domato通过Fuzzing对php进行漏洞挖掘研究](https://sec.thief.one/article_content?a_id=64766fb65403e5f3cc242bd1391a804d) 
 - [2020-10-14-SharpHose:一款基于C#开发的Windows异步密码喷射工具](https://sec.thief.one/article_content?a_id=ad6dd0e447528627eb913fa05a9a7626) 

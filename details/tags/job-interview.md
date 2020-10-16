@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 10:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 10:15:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,4 +41,5 @@
 - [2020-10-07-Redis-面试-8-连问，你能顶住几道？](https://www.ershicimi.com/p/d100b68da538455fb72721a4b87084f9) 
 - [2020-10-12-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/7b5d3d44dc2558958e73ac7eaad5ed4e) 
 - [2020-10-16-阿里巴巴-eWTP-业务线招聘，部门直招，简历直推主管](https://www.v2ex.com/t/715686) 
+- [2020-10-16-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
 - [2020-10-14-招聘-|-章和技术招贤纳士](https://sec.thief.one/article_content?a_id=9548e6964194d793828d0125f121b645) 

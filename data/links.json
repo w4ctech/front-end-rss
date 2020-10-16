@@ -13582,8 +13582,18 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "青岛已采样10746645份开展新冠病毒核酸检测 未发现新增阳性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixLpSIbhkbxfO0rrGF8Qz201016&isfromapp=1",
+        "date": "2020-10-16"
+      },
+      {
         "title": "阿根廷新冠肺炎确诊病例单日新增达最高 首都部分学校恢复现场教学",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkWy7dtYvK3mlwJo8oii201016&isfromapp=1",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "苏里南多名内阁部长确诊新冠肺炎",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6sn396d8w6F3cGsaLhz201016&isfromapp=1",
         "date": "2020-10-16"
       },
       {
@@ -13594,16 +13604,6 @@
       {
         "title": "意大利高等卫生研究院：疫情已进入急剧恶化阶段",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQlPrp0A8l4fN3QrRUmS2201016&isfromapp=1",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "世卫组织欧洲办事处呼吁各国认真应对秋冬季新冠肺炎疫情反弹",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivC7YGo7QJ53xOqBvFPam201016&isfromapp=1",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "新冠疫情造成南非人民收入减少11.3%",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihEwBUSuAAJa0BpZxGN0w201016&isfromapp=1",
         "date": "2020-10-15"
       }
     ]
@@ -17547,28 +17547,28 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "ES2020 系列：空值合并运算符 '??'",
-        "link": "https://juejin.im/post/6884019851942166536",
+        "title": "如何手撸一个最轻量的轮播图",
+        "link": "https://juejin.im/post/6883766180201365512",
         "date": "2020-10-15"
       },
       {
-        "title": "Node+Gitee WebHook实现小程序CI",
-        "link": "https://juejin.im/post/6883673550209679367",
+        "title": "vue  cli2.0+ 和 vue cli3.0 用户无感发布版本配置部署",
+        "link": "https://juejin.im/post/6883756330180575240",
+        "date": "2020-10-15"
+      },
+      {
+        "title": "加入wangEditor开发小组2个月，我的感受",
+        "link": "https://juejin.im/post/6883747691218599943",
         "date": "2020-10-14"
       },
       {
-        "title": "React Ref 其实是这样的",
-        "link": "https://juejin.im/post/6883671829395800072",
+        "title": "js实现jQuery的简单方法和链式操作及动画",
+        "link": "https://juejin.im/post/6883687008686997511",
         "date": "2020-10-14"
       },
       {
-        "title": "echarts图表自适应屏幕大小",
-        "link": "https://juejin.im/post/6883664461564117005",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "Vue封装的组件全局注册并引用",
-        "link": "https://juejin.im/post/6883660225555988493",
+        "title": "Flutter 征服 富文本编辑器zefyr",
+        "link": "https://juejin.im/post/6883682688784564231",
         "date": "2020-10-14"
       }
     ]
@@ -17906,6 +17906,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "维护一个开源项目真的太难了，演示 demo 不是被恶意删除所有数据，就是恶意的频繁发送请求，恶心。",
+        "link": "https://www.v2ex.com/t/715490",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "延迟队列落地方案",
+        "link": "https://www.v2ex.com/t/715487",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "在线答题小程序",
+        "link": "https://www.v2ex.com/t/715486",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[信息安全] 开放几个课程 🚀",
+        "link": "https://www.v2ex.com/t/715485",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "macOS 下实现 4K 144Hz 10Bit",
+        "link": "https://www.v2ex.com/t/715483",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "美区 Spotify 6 人车失联 1 人，长期的上",
+        "link": "https://www.v2ex.com/t/715482",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "iPhone8p 突然没有震动反馈、没有声音、手机卡顿",
+        "link": "https://www.v2ex.com/t/715481",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "前端（react）内推----[小步网络/SZ 宝安坪洲]",
+        "link": "https://www.v2ex.com/t/715480",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "NET 5.0 RC2 发布，正式版即将在 11 月 .NET Conf 大会上发布",
+        "link": "https://www.v2ex.com/t/715479",
+        "date": "2020-10-16"
+      },
+      {
         "title": "今晚（16 号）8 点就要开始预售了，求问官网抢首发有什么窍门吗？",
         "link": "https://www.v2ex.com/t/715478",
         "date": "2020-10-16"
@@ -18069,51 +18114,6 @@
         "title": "怎么能快速的将支付宝大众会员升级，升成黄金会员",
         "link": "https://www.v2ex.com/t/715441",
         "date": "2020-10-15"
-      },
-      {
-        "title": "我的群晖照片同步到 Google Photo 的方案",
-        "link": "https://www.v2ex.com/t/715440",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "AirPods 早上起来右耳朵无声音",
-        "link": "https://www.v2ex.com/t/715439",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "[抽激活码] AnchorWidget - 快捷启动和常用 Widget 合集",
-        "link": "https://www.v2ex.com/t/715438",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "怎么接入微信或者支付宝的收款码？",
-        "link": "https://www.v2ex.com/t/715437",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "iOS14 少了「健康」Widget 缺点意思啊",
-        "link": "https://www.v2ex.com/t/715435",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "iOS14 与 macOS10.15 不能同步 keychain？",
-        "link": "https://www.v2ex.com/t/715432",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "豆瓣那个井号﹟不能用了！为什么啊？！卧槽？！",
-        "link": "https://www.v2ex.com/t/715431",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "一段有意思的 serverless Rap 视频",
-        "link": "https://www.v2ex.com/t/715430",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "制造业建筑业做了一共 7 年，，趁年轻现在想转行，目前正在 B 站视频自学 C 语言入门编程，请教一下初学者应该注意些什么，另外求教下 VisC++6.0 在哪里可以下载...",
-        "link": "https://www.v2ex.com/t/715429",
-        "date": "2020-10-15"
       }
     ]
   },
@@ -18255,13 +18255,13 @@
         "date": "2020-10-16"
       },
       {
-        "title": "基于 Flink 实时计算商品订单流失量",
-        "link": "https://toutiao.io/k/ta8nmrj",
+        "title": "如何优化多表查询的查询性能问题",
+        "link": "https://toutiao.io/k/pax8qcm",
         "date": "2020-10-16"
       },
       {
-        "title": "如何优化多表查询的查询性能问题",
-        "link": "https://toutiao.io/k/pax8qcm",
+        "title": "基于 Flink 实时计算商品订单流失量",
+        "link": "https://toutiao.io/k/ta8nmrj",
         "date": "2020-10-16"
       },
       {
@@ -18275,6 +18275,11 @@
         "date": "2020-10-16"
       },
       {
+        "title": "国产之光，完全自主开源的在线电子表格，类似 Google Sheet 和 Excel",
+        "link": "https://toutiao.io/k/dd6jlfm",
+        "date": "2020-10-16"
+      },
+      {
         "title": "LeetCode (25)：合并两个排序的链表",
         "link": "https://toutiao.io/k/gtj1qum",
         "date": "2020-10-16"
@@ -18285,18 +18290,13 @@
         "date": "2020-10-16"
       },
       {
-        "title": "国产之光，完全自主开源的在线电子表格，类似 Google Sheet 和 Excel",
-        "link": "https://toutiao.io/k/dd6jlfm",
+        "title": "5G 给边缘计算带来了什么？",
+        "link": "https://toutiao.io/k/rhtbe05",
         "date": "2020-10-16"
       },
       {
         "title": "非科班学弟如何转行斩获 ATM 大厂的 Offer ？",
         "link": "https://toutiao.io/k/m9kt326",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "5G 给边缘计算带来了什么？",
-        "link": "https://toutiao.io/k/rhtbe05",
         "date": "2020-10-16"
       },
       {
@@ -18310,8 +18310,18 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-16"
       },
       {
@@ -18320,18 +18330,18 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-16"
       },
       {
@@ -18340,8 +18350,8 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-16"
       },
       {
@@ -18355,28 +18365,18 @@
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-16"
-      },
-      {
         "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
         "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-16"
       },
       {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-16"
       },
       {

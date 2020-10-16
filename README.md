@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 02:04:15，:rocket: 更新条数: +3723， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 02:15:43，:rocket: 更新条数: +3723， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-16-青岛已采样10746645份开展新冠病毒核酸检测-未发现新增阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixLpSIbhkbxfO0rrGF8Qz201016&isfromapp=1) ![](assets/new.png)  
 - [2020-10-16-阿根廷新冠肺炎确诊病例单日新增达最高-首都部分学校恢复现场教学](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkWy7dtYvK3mlwJo8oii201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-16-苏里南多名内阁部长确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6sn396d8w6F3cGsaLhz201016&isfromapp=1) ![](assets/new.png)  
 - [2020-10-15-巴西科技创新及通信部长感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN1i4pL4iQiCLNNkjWoYL201016&isfromapp=1) ![](assets/new.png)  
 - [2020-10-15-意大利高等卫生研究院：疫情已进入急剧恶化阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQlPrp0A8l4fN3QrRUmS2201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-15-世卫组织欧洲办事处呼吁各国认真应对秋冬季新冠肺炎疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivC7YGo7QJ53xOqBvFPam201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-15-新冠疫情造成南非人民收入减少11.3%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihEwBUSuAAJa0BpZxGN0w201016&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,11 +967,11 @@
 </summary>
 
 
-- [2020-10-15-ES2020-系列：空值合并运算符-'??'](https://juejin.im/post/6884019851942166536) ![](assets/new.png)  
-- [2020-10-14-Node+Gitee-WebHook实现小程序CI](https://juejin.im/post/6883673550209679367) ![](assets/new.png)  
-- [2020-10-14-React-Ref-其实是这样的](https://juejin.im/post/6883671829395800072) ![](assets/new.png)  
-- [2020-10-14-echarts图表自适应屏幕大小](https://juejin.im/post/6883664461564117005) ![](assets/new.png)  
-- [2020-10-14-Vue封装的组件全局注册并引用](https://juejin.im/post/6883660225555988493) ![](assets/new.png)  
+- [2020-10-15-如何手撸一个最轻量的轮播图](https://juejin.im/post/6883766180201365512) ![](assets/new.png)  
+- [2020-10-15-vue-cli2.0+-和-vue-cli3.0-用户无感发布版本配置部署](https://juejin.im/post/6883756330180575240) ![](assets/new.png)  
+- [2020-10-14-加入wangEditor开发小组2个月，我的感受](https://juejin.im/post/6883747691218599943) ![](assets/new.png)  
+- [2020-10-14-js实现jQuery的简单方法和链式操作及动画](https://juejin.im/post/6883687008686997511) ![](assets/new.png)  
+- [2020-10-14-Flutter-征服-富文本编辑器zefyr](https://juejin.im/post/6883682688784564231) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,15 @@
 </summary>
 
 
+- [2020-10-16-维护一个开源项目真的太难了，演示-demo-不是被恶意删除所有数据，就是恶意的频繁发送请求，恶心。](https://www.v2ex.com/t/715490) ![](assets/new.png)  
+- [2020-10-16-延迟队列落地方案](https://www.v2ex.com/t/715487) ![](assets/new.png)  
+- [2020-10-16-在线答题小程序](https://www.v2ex.com/t/715486) ![](assets/new.png)  
+- [2020-10-16-信息安全-开放几个课程-🚀](https://www.v2ex.com/t/715485) ![](assets/new.png)  
+- [2020-10-16-macOS-下实现-4K-144Hz-10Bit](https://www.v2ex.com/t/715483) ![](assets/new.png)  
+- [2020-10-16-美区-Spotify-6-人车失联-1-人，长期的上](https://www.v2ex.com/t/715482) ![](assets/new.png)  
+- [2020-10-16-iPhone8p-突然没有震动反馈、没有声音、手机卡顿](https://www.v2ex.com/t/715481) ![](assets/new.png)  
+- [2020-10-16-前端（react）内推----小步网络/SZ-宝安坪洲](https://www.v2ex.com/t/715480) ![](assets/new.png)  
+- [2020-10-16-NET-5.0-RC2-发布，正式版即将在-11-月-.NET-Conf-大会上发布](https://www.v2ex.com/t/715479) ![](assets/new.png)  
 - [2020-10-16-今晚（16-号）8-点就要开始预售了，求问官网抢首发有什么窍门吗？](https://www.v2ex.com/t/715478) ![](assets/new.png)  
 - [2020-10-16-一个配合-mitmproxy-的-iOS-和-Android-端-HTTP&HTTPS-抓包-APP非设置系统代理方式](https://www.v2ex.com/t/715477) ![](assets/new.png)  
 - [2020-10-16-六年-Java-一句-JS-代码都不会写，正常吗？](https://www.v2ex.com/t/715476) ![](assets/new.png)  
@@ -1088,15 +1097,6 @@
 - [2020-10-16-这些年-iPhone-“引领”了哪些手机“潮流方向”？](https://www.v2ex.com/t/715469) ![](assets/new.png)  
 - [2020-10-16-苹果的这个-icon-是有什么魔力吗？莫非只有在-apple-设备上才能看到](https://www.v2ex.com/t/715468) ![](assets/new.png)  
 - [2020-10-16-GitHub-风格随机头像-API](https://www.v2ex.com/t/715467) ![](assets/new.png)  
-- [2020-10-16-iPhone-12-比-S20-还小-还轻，太心动了](https://www.v2ex.com/t/715466) ![](assets/new.png)  
-- [2020-10-16-有没有-smart-battery-case-佛-12mini-的消息](https://www.v2ex.com/t/715465) ![](assets/new.png)  
-- [2020-10-16-Windows-Terminal-貌似没法更改每个选项卡命名？](https://www.v2ex.com/t/715464) ![](assets/new.png)  
-- [2020-10-16-误格式化的数据恢复](https://www.v2ex.com/t/715463) ![](assets/new.png)  
-- [2020-10-16-想向各位朋友咨询下旅行拍照（婚照）的相关建议](https://www.v2ex.com/t/715462) ![](assets/new.png)  
-- [2020-10-16-iPad-Air-内置于顶部按钮的触控-ID，什么时候能出现在-iPhone-上](https://www.v2ex.com/t/715461) ![](assets/new.png)  
-- [2020-10-16-局域网-dnsmasq-服务器的求助](https://www.v2ex.com/t/715460) ![](assets/new.png)  
-- [2020-10-16-iPhone-12-pro-大家会选啥颜色？这次这个金色，好像有点闪](https://www.v2ex.com/t/715459) ![](assets/new.png)  
-- [2020-10-16-香港服务器全场-5-折-#100M-独享-#三网直连+国际带宽](https://www.v2ex.com/t/715458) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,21 +1144,21 @@
 - [2020-10-16-大家用过-API-网关吗?](https://toutiao.io/k/rwvdh2x) ![](assets/new.png)  
 - [2020-10-16-Linux-机器-CPU-毛刺问题排查](https://toutiao.io/k/v3b4fgl) ![](assets/new.png)  
 - [2020-10-16-HTTP-keep-alive-和-TCP-keepalive-的区别，你了解吗？](https://toutiao.io/k/630ifsg) ![](assets/new.png)  
-- [2020-10-16-基于-Flink-实时计算商品订单流失量](https://toutiao.io/k/ta8nmrj) ![](assets/new.png)  
 - [2020-10-16-如何优化多表查询的查询性能问题](https://toutiao.io/k/pax8qcm) ![](assets/new.png)  
+- [2020-10-16-基于-Flink-实时计算商品订单流失量](https://toutiao.io/k/ta8nmrj) ![](assets/new.png)  
 - [2020-10-16-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
 - [2020-10-16-程序员版《我和我的家乡》，拼搏奋斗的-IT-人是家乡的骄傲](https://toutiao.io/k/seqt1ei) ![](assets/new.png)  
+- [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
 - [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
-- [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
-- [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
 - [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
+- [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
 - [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
 - [2020-10-16-译-什么是真正的程序员](https://toutiao.io/k/zhspu3w) ![](assets/new.png)  
-- [2020-10-16-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-16-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [2020-10-16-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-16-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-16-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-16-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-16-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

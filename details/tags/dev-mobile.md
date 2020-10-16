@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 02:04:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 02:15:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -16,3 +16,4 @@
 - [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) 
 - [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) 
 - [2020-10-14-12种Flutter开发工具推荐](https://www.ershicimi.com/p/ac256cd0dd9e9029ff1e33bfe50a244c) 
+- [2020-10-14-Flutter-征服-富文本编辑器zefyr](https://juejin.im/post/6883682688784564231) 

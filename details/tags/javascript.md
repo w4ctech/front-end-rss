@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 15:31:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 15:39:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -34,6 +34,8 @@
 - [2020-10-09-JavaScript-里的奇葩知识](https://www.ershicimi.com/p/b72adb785bac7c9c63ea5ec58cdf34eb) 
 - [2020-09-29-Map-和-Set-两种数据结构在ES6的作用](https://www.ershicimi.com/p/b18ca7571084ca38530d5148962706a4) 
 - [2020-09-28-安利几个JS开发小技巧](https://www.ershicimi.com/p/d6bfc393c35af20a4421345c71c03b91) 
+- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
+- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-10-10-【第2083期】理解ECMAScript规范（四）](https://www.ershicimi.com/p/50fc7dc101fdaff3adb7483b87326139) 
 - [2020-10-08-【第2081期】理解ECMAScript规范（三）](https://www.ershicimi.com/p/4d21600e1f652edfd01e993e17f27f0f) 
 - [2020-09-28-【第2079期】理解ECMAScript规范（二）](https://www.ershicimi.com/p/abbc0eba9a15dc0d04591db13d412038) 
@@ -83,7 +85,6 @@
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-09-21-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/5dec6d20ee78a818f19d8e2aeb310632) 
 - [2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b) 
 - [2020-09-07-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 22:03:49，:rocket: 更新条数: +3730， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 22:14:21，:rocket: 更新条数: +3730， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1141,8 +1141,8 @@
 
 - [2020-10-16-30-岁的程序员出路在哪里？|-码农周刊第-321-期](https://toutiao.io/k/qdeuemt) ![](assets/new.png)  
 - [2020-10-16-基于-Flink-实时计算商品订单流失量](https://toutiao.io/k/ta8nmrj) ![](assets/new.png)  
-- [2020-10-16-大家用过-API-网关吗?](https://toutiao.io/k/rwvdh2x) ![](assets/new.png)  
 - [2020-10-16-记一次对端机器宕机后的-TCP-行为](https://toutiao.io/k/2abl3q4) ![](assets/new.png)  
+- [2020-10-16-大家用过-API-网关吗?](https://toutiao.io/k/rwvdh2x) ![](assets/new.png)  
 - [2020-10-16-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
 - [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
 - [2020-10-16-如何优化多表查询的查询性能问题](https://toutiao.io/k/pax8qcm) ![](assets/new.png)  
@@ -1155,8 +1155,8 @@
 - [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
 - [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
 - [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
-- [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-中年架构师，悲催的一天](https://toutiao.io/k/6hkm4g6) ![](assets/new.png)  
+- [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-译-8-个-JavaScript-库可更好地处理本地存储](https://toutiao.io/k/3bs5pmx) ![](assets/new.png)  
 - [2020-10-16-数学基础学习笔记：数值计算](https://toutiao.io/k/2fk75w2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 09:31:29，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 09:38:09，:rocket: 更新条数: +3727， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-16-菲律宾新增3139例新冠肺炎确诊病例-累计超35万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticzhYd5bPoJuio3CLQYvy201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-16-以色列国家安全机构前副局长死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZDYE62uGeEL3lSpubVGx201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-16-​俄罗斯新增15150例新冠肺炎确诊病例-累计达1369313例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVCLnO9aKMO7cbHEw9py201016&isfromapp=1) ![](assets/new.png)  
+- [2020-10-16-广州市花都区发现1例境外输入关联无症状感染者](http://wsjkw.gd.gov.cn/xxgzbdfk/yqtb/content/post_3103971.html) ![](assets/new.png)  
 - [2020-10-16-青岛已采样10746645份开展新冠病毒核酸检测-未发现新增阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixLpSIbhkbxfO0rrGF8Qz201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-阿根廷新冠肺炎确诊病例单日新增达最高-首都部分学校恢复现场教学](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkWy7dtYvK3mlwJo8oii201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-苏里南多名内阁部长确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6sn396d8w6F3cGsaLhz201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-国家卫健委：15日新增新冠肺炎确诊病例24例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLsNzZufZdSDH2g2xxilC201016&isfromapp=1) ![](assets/new.png)  
-- [2020-10-15-世卫组织：瑞德西韦等药物对改善新冠肺炎住院患者病亡率影响不大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivPtjyH6m3uCf6DdxPCGF201016&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1077,7 @@
 </summary>
 
 
+- [2020-10-16-求推荐-golang-适合小白学习的最佳视频/文档/书籍](https://www.v2ex.com/t/715724) ![](assets/new.png)  
 - [2020-10-16-iPhone12-今晚开始预售，会大卖还是破发？](https://www.v2ex.com/t/715722) ![](assets/new.png)  
 - [2020-10-16-有近期去-海南/香港/澳门-的朋友吗？-求代购啊](https://www.v2ex.com/t/715721) ![](assets/new.png)  
 - [2020-10-16-求助-有没有了解-Calcite-或者-Sql-或者写过见过奇怪-Sql-语句的大佬们指导一下](https://www.v2ex.com/t/715720) ![](assets/new.png)  
@@ -1076,7 +1097,6 @@
 - [2020-10-16-安达与岛村-真香。。](https://www.v2ex.com/t/715703) ![](assets/new.png)  
 - [2020-10-16-请问谁试过-ios-应用多开？](https://www.v2ex.com/t/715702) ![](assets/new.png)  
 - [2020-10-16-使用-quanX-的菜鸟问题](https://www.v2ex.com/t/715700) ![](assets/new.png)  
-- [2020-10-16-想买个二手笔记本电脑给学生用，上狗东靠谱吗？-V-友可有推荐？](https://www.v2ex.com/t/715699) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1150,8 @@
 - [2020-10-16-程序员版《我和我的家乡》，拼搏奋斗的-IT-人是家乡的骄傲](https://toutiao.io/k/seqt1ei) ![](assets/new.png)  
 - [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
 - [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
-- [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
 - [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
+- [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
 - [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  
 - [2020-10-16-宏任务和微任务的一个小事](https://toutiao.io/k/xembmol) ![](assets/new.png)  
 - [2020-10-16-译-什么是真正的程序员](https://toutiao.io/k/zhspu3w) ![](assets/new.png)  

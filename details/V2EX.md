@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-16 09:31:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 09:38:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-求推荐-golang-适合小白学习的最佳视频/文档/书籍](https://www.v2ex.com/t/715724) 
 - [2020-10-16-iPhone12-今晚开始预售，会大卖还是破发？](https://www.v2ex.com/t/715722) 
 - [2020-10-16-有近期去-海南/香港/澳门-的朋友吗？-求代购啊](https://www.v2ex.com/t/715721) 
 - [2020-10-16-求助-有没有了解-Calcite-或者-Sql-或者写过见过奇怪-Sql-语句的大佬们指导一下](https://www.v2ex.com/t/715720) 
@@ -43,4 +44,3 @@
 - [2020-10-16-阿里云的域名-ex.com，-DNS-刚刚换成-cloudflare-的。第二天发现子域名-tm.ex.com-无法访问，如何添加-NS-到-cloudflare，还是根本就不支持子域名使用？](https://www.v2ex.com/t/715677) 
 - [2020-10-16-求指点如何能买到摩托罗拉手机](https://www.v2ex.com/t/715676) 
 - [2020-10-16-关于-MBP-在-Big-Sur-beta-10-下电池问题](https://www.v2ex.com/t/715675) 
-- [2020-10-16-更改地区后，-Apple-Developer-个人开发账号用不了](https://www.v2ex.com/t/715674) 

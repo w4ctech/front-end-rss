@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 14:47:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 15:04:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -42,7 +42,6 @@
 - [2020-10-12-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/7b5d3d44dc2558958e73ac7eaad5ed4e) 
 - [2020-10-16-面试不倒水干聊-2-个小时的同仁有没有？](https://www.v2ex.com/t/715772) 
 - [2020-10-16-去面试后每周上班-6-天怎么办](https://www.v2ex.com/t/715764) 
-- [2020-10-16-有偿招募，有面试程序员经验的面试官来](https://www.v2ex.com/t/715745) 
 - [2020-10-16-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
 - [2020-10-16-实验室成立以来第一次对外的招聘文末抽奖](https://sec.thief.one/article_content?a_id=bb504949cdf6af2320146aa7908ea30c) 
 - [2020-10-14-招聘-|-章和技术招贤纳士](https://sec.thief.one/article_content?a_id=9548e6964194d793828d0125f121b645) 

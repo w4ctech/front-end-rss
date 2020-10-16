@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 01:21:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 01:44:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -33,5 +33,4 @@
 - [2020-10-13-困扰前端工程师的-React-问题，答案都在这了！](https://www.ershicimi.com/p/d053641b8e46ee2805ad1bf1692c69b7) 
 - [2020-10-09-只会-React-的那些人，现在怎么样了？](https://www.ershicimi.com/p/32266a9785744889df60e11625383ba1) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
-- [2020-10-15-【重构】使用-Hooks-让代码更易于变更](https://juejin.im/post/6883811396274880526) 
-- [2020-10-15-React要重写文档了](https://juejin.im/post/6883769015458594823) 
+- [2020-10-14-前端造轮子【5】--简易-redux](https://juejin.im/post/6883736391181107214) 

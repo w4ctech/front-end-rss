@@ -1,10 +1,25 @@
-:alarm_clock: 更新时间: 2020-10-16 01:21:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 01:45:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-这些年-iPhone-“引领”了哪些手机“潮流方向”？](https://www.v2ex.com/t/715469) 
+- [2020-10-16-苹果的这个-icon-是有什么魔力吗？莫非只有在-apple-设备上才能看到](https://www.v2ex.com/t/715468) 
+- [2020-10-16-GitHub-风格随机头像-API](https://www.v2ex.com/t/715467) 
+- [2020-10-16-iPhone-12-比-S20-还小-还轻，太心动了](https://www.v2ex.com/t/715466) 
+- [2020-10-16-有没有-smart-battery-case-佛-12mini-的消息](https://www.v2ex.com/t/715465) 
+- [2020-10-16-Windows-Terminal-貌似没法更改每个选项卡命名？](https://www.v2ex.com/t/715464) 
+- [2020-10-16-误格式化的数据恢复](https://www.v2ex.com/t/715463) 
+- [2020-10-16-想向各位朋友咨询下旅行拍照（婚照）的相关建议](https://www.v2ex.com/t/715462) 
+- [2020-10-16-iPad-Air-内置于顶部按钮的触控-ID，什么时候能出现在-iPhone-上](https://www.v2ex.com/t/715461) 
+- [2020-10-16-局域网-dnsmasq-服务器的求助](https://www.v2ex.com/t/715460) 
+- [2020-10-16-iPhone-12-pro-大家会选啥颜色？这次这个金色，好像有点闪](https://www.v2ex.com/t/715459) 
+- [2020-10-16-香港服务器全场-5-折-#100M-独享-#三网直连+国际带宽](https://www.v2ex.com/t/715458) 
+- [2020-10-16-vue3.0-组件互相嵌套不能渲染，有解吗？](https://www.v2ex.com/t/715457) 
+- [2020-10-16-把整个硬盘目录-commit-成-git-然后系统出问题就-check-回去-可行么？](https://www.v2ex.com/t/715456) 
+- [2020-10-16-广州有非-996-的公司吗](https://www.v2ex.com/t/715455) 
 - [2020-10-16-微信朋友圈有新照片如何收到通知？](https://www.v2ex.com/t/715453) 
 - [2020-10-16-恳请用过微力同步或者-Resilio-Sync-或者-syncthing-的站友们说说自己的使用感受](https://www.v2ex.com/t/715452) 
 - [2020-10-16-如何将新建-txt-的默认编码从-UTF-8-改为-ANSI](https://www.v2ex.com/t/715451) 
@@ -33,13 +48,3 @@
 - [2020-10-15-租房电信宽带被限速至-512KB/s](https://www.v2ex.com/t/715422) 
 - [2020-10-15-关于模型-embedding-层尺寸的问题？](https://www.v2ex.com/t/715421) 
 - [2020-10-15-Serverless-安装-Laravel,flask,gin-等-web-框架，是否违背了它的使用场景？](https://www.v2ex.com/t/715420) 
-- [2020-10-15-头像-normal-的-width-height-好像不对](https://www.v2ex.com/t/715419) 
-- [2020-10-15-16-寸的-mbp-今年还会有更新吗，现在入个二手还是再等等](https://www.v2ex.com/t/715418) 
-- [2020-10-15-888-元低价出一个微信小游戏源码](https://www.v2ex.com/t/715416) 
-- [2020-10-15-为什么-airpods-pro-放着不用盒子也耗电](https://www.v2ex.com/t/715413) 
-- [2020-10-15-ZPan-v1.4-版本发布，全新-UI-欢迎体验~](https://www.v2ex.com/t/715411) 
-- [2020-10-15-请问有没有比较好的办法在插入-mysql-的时候，把自动生成-id-同时加到另一个字段](https://www.v2ex.com/t/715410) 
-- [2020-10-15-感觉大家是不是都不知道-anywhere3-其实已经上市了，双口-typeC。](https://www.v2ex.com/t/715408) 
-- [2020-10-15-有老铁知道啥情况么？-上海字节后端在疯狂的招人-啥情况啊？](https://www.v2ex.com/t/715407) 
-- [2020-10-15-说说日本最近开始流行的一周工作-3-4-天](https://www.v2ex.com/t/715406) 
-- [2020-10-15-如何下载网页上在线阅读的-PDF-呢？](https://www.v2ex.com/t/715405) 

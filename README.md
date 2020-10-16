@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 21:49:06，:rocket: 更新条数: +3730， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 22:03:49，:rocket: 更新条数: +3730， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-10-16-请问有人考过-AWS-Developer-Associate-么？](https://www.v2ex.com/t/715825) ![](assets/new.png)  
 - [2020-10-16-国行-iPad-Pro-带-Apple-Care，无发票被直营店拒保](https://www.v2ex.com/t/715824) ![](assets/new.png)  
 - [2020-10-16-有人对-1995-1997-年间空中不明物体神秘爆炸有印象吗](https://www.v2ex.com/t/715822) ![](assets/new.png)  
 - [2020-10-16-Reeder-5-发布了](https://www.v2ex.com/t/715821) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-10-16-应届生-offer-比较](https://www.v2ex.com/t/715805) ![](assets/new.png)  
 - [2020-10-16-熬夜到凌晨的人-真的都不饿吗](https://www.v2ex.com/t/715803) ![](assets/new.png)  
 - [2020-10-16-半年前疫情影响，一大批-v-友立-flag-做全职视频上传者，现在怎么样了？](https://www.v2ex.com/t/715802) ![](assets/new.png)  
-- [2020-10-16-微信储存空间显示方式作恶](https://www.v2ex.com/t/715801) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

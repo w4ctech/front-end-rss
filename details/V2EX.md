@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-16 21:49:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-16 22:03:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-16-请问有人考过-AWS-Developer-Associate-么？](https://www.v2ex.com/t/715825) 
 - [2020-10-16-国行-iPad-Pro-带-Apple-Care，无发票被直营店拒保](https://www.v2ex.com/t/715824) 
 - [2020-10-16-有人对-1995-1997-年间空中不明物体神秘爆炸有印象吗](https://www.v2ex.com/t/715822) 
 - [2020-10-16-Reeder-5-发布了](https://www.v2ex.com/t/715821) 
@@ -46,4 +47,3 @@
 - [2020-10-16-你们都会买官方套吗？](https://www.v2ex.com/t/715778) 
 - [2020-10-16-feedly.com-打不开了？挂梯子了，别的网站都正常。](https://www.v2ex.com/t/715777) 
 - [2020-10-16-来吐槽下京东的换新无忧](https://www.v2ex.com/t/715776) 
-- [2020-10-16-蜂窝版-Apple-Watch-真是没用](https://www.v2ex.com/t/715775) 

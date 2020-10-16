@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 14:15:23，:rocket: 更新条数: +3504， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 14:29:14，:rocket: 更新条数: +3504， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-10-16-用-Android-Studio-打包移动-H5-网页作-Web-app，有没有比较完善的源码、或教程可以参考？](https://www.v2ex.com/t/715790) ![](assets/new.png)  
+- [2020-10-16-Android-9-用支付宝-uc-内核闪退有遇到过的吗？](https://www.v2ex.com/t/715789) ![](assets/new.png)  
 - [2020-10-16-迫于-ip12，发车一个月-icloud-家庭版](https://www.v2ex.com/t/715788) ![](assets/new.png)  
 - [2020-10-16-对自己的另一半很讨厌怎么办](https://www.v2ex.com/t/715787) ![](assets/new.png)  
 - [2020-10-16-使微信通过-FCM-接收消息](https://www.v2ex.com/t/715786) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-10-16-面试不倒水干聊-2-个小时的同仁有没有？](https://www.v2ex.com/t/715772) ![](assets/new.png)  
 - [2020-10-16-福布斯发布-2020-全球最佳雇主榜：三星第一、华为第-14（中国第一）](https://www.v2ex.com/t/715771) ![](assets/new.png)  
 - [2020-10-16-Apple-回收是显示多少钱就给多少嘛？](https://www.v2ex.com/t/715770) ![](assets/new.png)  
-- [2020-10-16-iPad-air4-也开卖了-23-号到](https://www.v2ex.com/t/715769) ![](assets/new.png)  
-- [2020-10-16-20-届毕业生转行求助](https://www.v2ex.com/t/715767) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,12 +1126,12 @@
 - [2020-10-16-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
 - [2020-10-16-如何优化多表查询的查询性能问题](https://toutiao.io/k/pax8qcm) ![](assets/new.png)  
 - [2020-10-16-国产之光，完全自主开源的在线电子表格，类似-Google-Sheet-和-Excel](https://toutiao.io/k/dd6jlfm) ![](assets/new.png)  
-- [2020-10-16-HTTP-keep-alive-和-TCP-keepalive-的区别，你了解吗？](https://toutiao.io/k/630ifsg) ![](assets/new.png)  
 - [2020-10-16-译-什么是真正的程序员](https://toutiao.io/k/zhspu3w) ![](assets/new.png)  
+- [2020-10-16-HTTP-keep-alive-和-TCP-keepalive-的区别，你了解吗？](https://toutiao.io/k/630ifsg) ![](assets/new.png)  
 - [2020-10-16-Linux-机器-CPU-毛刺问题排查](https://toutiao.io/k/v3b4fgl) ![](assets/new.png)  
 - [2020-10-16-程序员版《我和我的家乡》，拼搏奋斗的-IT-人是家乡的骄傲](https://toutiao.io/k/seqt1ei) ![](assets/new.png)  
-- [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
 - [2020-10-16-AIOps-在美团的探索与实践：故障发现篇](https://toutiao.io/k/lryznhi) ![](assets/new.png)  
+- [2020-10-16-WorkManager：周期性任务](https://toutiao.io/k/usvyg7f) ![](assets/new.png)  
 - [2020-10-16-5G-给边缘计算带来了什么？](https://toutiao.io/k/rhtbe05) ![](assets/new.png)  
 - [2020-10-16-LeetCode-25：合并两个排序的链表](https://toutiao.io/k/gtj1qum) ![](assets/new.png)  
 - [2020-10-16-非科班学弟如何转行斩获-ATM-大厂的-Offer-？](https://toutiao.io/k/m9kt326) ![](assets/new.png)  

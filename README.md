@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-17 22:14:27，:rocket: 更新条数: +3716， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-17 22:27:03，:rocket: 更新条数: +3716， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -508,6 +508,7 @@
 </summary>
 
 
+- [2020-10-17-是谁动了我的-DOM？](https://www.ershicimi.com/p/e451ff6c216b94d1ccd901ded0c20352) ![](assets/new.png)  
 - [2020-10-16-如何精确统计页面停留时长](https://www.ershicimi.com/p/81ea33328f877115dcd7812c8fa69487) ![](assets/new.png)  
 - [2020-10-15-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/f1fe08222b532571c61730678e3bc2bc) ![](assets/new.png)  
 - [2020-10-15-三年，我从语文老师到支付宝技术前端的蜕变](https://www.ershicimi.com/p/c604a3e00c06ee9954871f638cbc34f9) ![](assets/new.png)  
@@ -527,7 +528,6 @@
 - [2020-10-04-一篇文章上手Vue3中新增的API](https://www.ershicimi.com/p/6ca256fffb64d4403364944af3cdb55f) ![](assets/new.png)  
 - [2020-10-03-收藏！40-个-CSS-布局技巧](https://www.ershicimi.com/p/8cad40756928dc16101f81b5f648e6b3) ![](assets/new.png)  
 - [2020-10-01-JavaScript传奇绿皮书登场！文末送~](https://www.ershicimi.com/p/0b8fb51f033c674312d5451e4be73232) ![](assets/new.png)  
-- [2020-09-30-前端必备javascript书籍测评【含红宝书和绿皮书】](https://www.ershicimi.com/p/867017dcb23b0e72f647b0b253439382) ![](assets/new.png)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-10-17-阿里旺旺买家被莫名其妙禁言](https://www.v2ex.com/t/716036) ![](assets/new.png)  
 - [2020-10-17-京东-Plus-会员-20-元立减券](https://www.v2ex.com/t/716035) ![](assets/new.png)  
 - [2020-10-17-B-站看到了一个扫描二维码以后直接被黑入手机的视频，是不是危言耸听？](https://www.v2ex.com/t/716034) ![](assets/new.png)  
 - [2020-10-17-深圳比较方便去东莞常平镇的地方](https://www.v2ex.com/t/716033) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-10-17-想调查下，大家有自己写-userscript-来简化自己工作的吗？](https://www.v2ex.com/t/716012) ![](assets/new.png)  
 - [2020-10-17-自如小盒子里送的/打扫阿姨每次用的那种毛巾叫什么呀？](https://www.v2ex.com/t/716011) ![](assets/new.png)  
 - [2020-10-17-不会吧不会吧,-现在网易云创建歌单都要绑定手机了???](https://www.v2ex.com/t/716010) ![](assets/new.png)  
-- [2020-10-17-MacBook-Pro-电池的曲线救国](https://www.v2ex.com/t/716009) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,16 +1149,16 @@
 - [2020-10-17-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) ![](assets/new.png)  
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
-- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-17-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-17-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-17-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-17-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-17-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-17-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
 - [2020-10-17-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-17-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-17-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
 - [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-17-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-17 09:40:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 09:47:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2020-10-16-10月16日全国新增境外输入新冠13例-累计确诊85659例](https://m.caixin.com/m/2020-10-17/101615690.html) 
+- [2020-10-16-【境内疫情观察】广州花都新增1例境外输入关联的无症状感染者（10月16日）](http://m.database.caixin.com/m/2020-10-17/101615832.html) 
 - [2020-10-16-大流行手记|10月16日：美国病例超800万《自然》谴责特朗普践踏科学](https://m.caixin.com/m/2020-10-17/101615725.html) 
 - [2020-10-15-青岛疫情源头查明-被感染码头工人与普通病区患者共用CT所致](https://m.caixin.com/m/2020-10-16/101615349.html) 
 - [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) 
@@ -2668,19 +2669,18 @@
 - [2020-10-17-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) 
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) 
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) 
-- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) 
 - [2020-10-17-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) 
-- [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) 
+- [2020-10-17-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) 
 - [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) 
+- [2020-10-17-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) 
+- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) 
 - [2020-10-17-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) 
+- [2020-10-17-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) 
+- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) 
+- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) 
+- [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) 
 - [2020-10-17-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) 
 - [2020-10-17-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) 
-- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) 
-- [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) 
-- [2020-10-17-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) 
-- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) 
-- [2020-10-17-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) 
-- [2020-10-17-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) 
 - [2020-10-16-第二届北邮网络空间文化节开幕-王秀军出席并致辞](https://sec.thief.one/article_content?a_id=b95442c2bb82ac771c88124d7a3cd538) 
 - [2020-10-16-奇安信澳门品牌推广会成功举办](https://sec.thief.one/article_content?a_id=e6e5aae662af92103b7016f0895567ee) 
 - [2020-10-16-确认!-Python夺冠,80%的程序员:痛快!你怎么看?](https://sec.thief.one/article_content?a_id=cb99637902daedc8313e510bfa241f15) 

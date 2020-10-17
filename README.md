@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-17 04:16:10，:rocket: 更新条数: +3487， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-17 04:30:39，:rocket: 更新条数: +3488， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-10-17-你们连续每天签到坚持最久的平台是哪个？有比我更久的吗？](https://www.v2ex.com/t/715882) ![](assets/new.png)  
+- [2020-10-17-企业突然大力搞公益慈善，其中有没有洗黑钱的操作空间？](https://www.v2ex.com/t/715881) ![](assets/new.png)  
+- [2020-10-17-一直很好奇占用非机动车道右转结果被堵住的车主心理变化是怎样的](https://www.v2ex.com/t/715880) ![](assets/new.png)  
+- [2020-10-17-大家是如何设置学习的进度条的？](https://www.v2ex.com/t/715879) ![](assets/new.png)  
 - [2020-10-17-坐标上海，水龙头坏了一直滴水，怎么找靠谱的维修？](https://www.v2ex.com/t/715877) ![](assets/new.png)  
 - [2020-10-17-苏州某房屋中介跑路求怎么维权](https://www.v2ex.com/t/715876) ![](assets/new.png)  
 - [2020-10-17-咨询下，最简单/安全的开放订阅地址的方法是什么？](https://www.v2ex.com/t/715875) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-10-17-发现-mysql-定义的数据类型不管用，定义的整数-1-位，也可以插入多位数字](https://www.v2ex.com/t/715858) ![](assets/new.png)  
 - [2020-10-17-求教：如何导出黑屏手机里的文件](https://www.v2ex.com/t/715856) ![](assets/new.png)  
 - [2020-10-17-Big-Sur-微信使用-command-+-w-关掉窗口之后，切不回来有人遇到吗](https://www.v2ex.com/t/715855) ![](assets/new.png)  
-- [2020-10-17-打算换手机，现在入-iphone12-是好的选择吗](https://www.v2ex.com/t/715853) ![](assets/new.png)  
-- [2020-10-17-明星项目-Oasis-Lab-的首次黑客松，奖励总共有-31500-ROSE](https://www.v2ex.com/t/715852) ![](assets/new.png)  
-- [2020-10-17-分享个自己写的工具-抖音，火山，西瓜，头条，快手，微视，皮皮虾，批量无水印下载](https://www.v2ex.com/t/715851) ![](assets/new.png)  
-- [2020-10-17-iOS-下体验比较好的手环有推荐吗？](https://www.v2ex.com/t/715850) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-10-17-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) ![](assets/new.png)  
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
-- [2020-10-17-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-17-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-17-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-17-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-17-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
 - [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-17-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-17-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-17-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [2020-10-17-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-17-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-17-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

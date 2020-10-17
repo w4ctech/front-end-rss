@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-17 05:04:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 05:13:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -30,5 +30,6 @@
 - [2020-09-29-NPM-组件你应该知道的事](https://www.ershicimi.com/p/3c9627d8481776f3379c97830564c488) 
 - [2020-09-03-webpack-这么牛X，你还不会用？](https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1) 
 - [2020-10-12-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/d8422d39a04292c8f6028cf324761115) 
+- [2020-10-16-「译」Babel-7.12.0-released，快来瞧瞧有哪些亮点](https://juejin.im/post/6884428140727238670) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-10-17-开始使用-Flutter-构建-Windows-桌面应用吧](https://toutiao.io/k/d0x7t26) 

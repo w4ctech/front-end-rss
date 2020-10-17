@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-17 05:04:02，:rocket: 更新条数: +3490， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-17 05:13:53，:rocket: 更新条数: +3490， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -948,7 +948,7 @@
 
 
 - [2020-10-16-跨平台文件在线预览解决方案（四）-Android和IOS原生插件](https://juejin.im/post/6884440823082647560) ![](assets/new.png)  
-- [2020-10-16-JavaScript异步编程核心概念-Promise](https://juejin.im/post/6884220362289070094) ![](assets/new.png)  
+- [2020-10-16-「译」Babel-7.12.0-released，快来瞧瞧有哪些亮点](https://juejin.im/post/6884428140727238670) ![](assets/new.png)  
 - [2020-10-16-微信小程序-h5下载xlsx-文件](https://juejin.im/post/6884144956169158670) ![](assets/new.png)  
 - [2020-10-16-基于-mapbox-离线地图解决方案](https://juejin.im/post/6884144929098956813) ![](assets/new.png)  
 - [2020-10-16-React-with-TypeScript-最佳实践](https://juejin.im/post/6884144754993397767) ![](assets/new.png)  
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-10-17-记一次坑爹的京东延保与混乱的小米售后（小米厨下式净水器）](https://www.v2ex.com/t/715892) ![](assets/new.png)  
+- [2020-10-17-iPhone-投屏到红米电视，延迟和画质怎么样？](https://www.v2ex.com/t/715891) ![](assets/new.png)  
 - [2020-10-17-偶然发现-iPhone-12-里不给配的充电头，-homepod-mini-却有](https://www.v2ex.com/t/715890) ![](assets/new.png)  
 - [2020-10-17-内推](https://www.v2ex.com/t/715889) ![](assets/new.png)  
 - [2020-10-17-最近科技城周边房价涨势挺猛的？](https://www.v2ex.com/t/715888) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-10-17-请教下视频面试](https://www.v2ex.com/t/715873) ![](assets/new.png)  
 - [2020-10-17-Python-项目部署,-uwsgi-还是-gunicorn-?-或者其他选择](https://www.v2ex.com/t/715872) ![](assets/new.png)  
 - [2020-10-17-把-VS-Code-变成小霸王游戏机~](https://www.v2ex.com/t/715871) ![](assets/new.png)  
-- [2020-10-17-无](https://www.v2ex.com/t/715870) ![](assets/new.png)  
-- [2020-10-17-一个创意：被骗子骗走了公司的花名册，请问下有什么解决办法吗？](https://www.v2ex.com/t/715869) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-10-17-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
-- [2020-10-17-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-17-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-17-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [2020-10-17-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
 - [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-17-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
 - [2020-10-17-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-17-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

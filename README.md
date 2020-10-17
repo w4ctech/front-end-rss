@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-17 03:03:50，:rocket: 更新条数: +3486， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-17 03:14:22，:rocket: 更新条数: +3485， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,10 +96,10 @@
 
 
 - [2020-10-17-古巴大部分地区将对国际游客恢复开放-旅游业将重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDtK4s4RCVJAMocSVFE0201017&isfromapp=1) ![](assets/new.png)  
+- [2020-10-17-北美观察丨确诊突破800万！美前高官死里逃生-称后悔不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZfDWS26E5xKrWgMFTmQD201017&isfromapp=1) ![](assets/new.png)  
 - [2020-10-16-葡萄牙新冠肺炎确诊病例累计达95902例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQob59yYe2hAL4lSGBaGX201017&isfromapp=1) ![](assets/new.png)  
 - [2020-10-16-比利时疫情警戒提升至最高级-全国将实施宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MkQlngWl3XqHDAsLl2n201017&isfromapp=1) ![](assets/new.png)  
 - [2020-10-16-世卫组织：南半球流感季病例数量少于往常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJlE3F5Zyx4WiUtMmMxTv201017&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-世卫组织：欧洲上周新增病例数量比三月份疫情高峰时高出近三倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivqrSAuWXTaDmp35KMwfG201017&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,8 @@
 </summary>
 
 
+- [2020-10-17-大家会想着看面试官和候选人互相吐槽嘛？](https://www.v2ex.com/t/715865) ![](assets/new.png)  
+- [2020-10-17-如何用-Python-判断一段股票-K-线是双底，-也就是-W-形态](https://www.v2ex.com/t/715864) ![](assets/new.png)  
 - [2020-10-17-毕业-4-年，存款快-100-万了，想买房可以吗？](https://www.v2ex.com/t/715861) ![](assets/new.png)  
 - [2020-10-17-发现-mysql-定义的数据类型不管用，定义的整数-1-位，也可以插入多位数字](https://www.v2ex.com/t/715858) ![](assets/new.png)  
 - [2020-10-17-求教：如何导出黑屏手机里的文件](https://www.v2ex.com/t/715856) ![](assets/new.png)  
@@ -1075,8 +1077,6 @@
 - [2020-10-17-宁波的运维狗请进](https://www.v2ex.com/t/715842) ![](assets/new.png)  
 - [2020-10-17-回收宝-4899-预约-iPhone12-靠谱吗？](https://www.v2ex.com/t/715841) ![](assets/new.png)  
 - [2020-10-17-iCloud-居然可以同时备份多个-iPhone-？](https://www.v2ex.com/t/715840) ![](assets/new.png)  
-- [2020-10-17-微信为什么调不出青少年模式？](https://www.v2ex.com/t/715839) ![](assets/new.png)  
-- [2020-10-17-大家今年参加过线下沙龙吗？](https://www.v2ex.com/t/715837) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
 - [2020-10-17-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) ![](assets/new.png)  
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
+- [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-17-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-17-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
 - [2020-10-17-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
 - [2020-10-17-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-17-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-17-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [2020-10-17-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-17-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-17-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-17-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

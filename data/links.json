@@ -13607,6 +13607,11 @@
         "date": "2020-10-17"
       },
       {
+        "title": "北美观察丨确诊突破800万！美前高官死里逃生 称后悔不戴口罩",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZfDWS26E5xKrWgMFTmQD201017&isfromapp=1",
+        "date": "2020-10-17"
+      },
+      {
         "title": "葡萄牙新冠肺炎确诊病例累计达95902例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQob59yYe2hAL4lSGBaGX201017&isfromapp=1",
         "date": "2020-10-16"
@@ -13619,11 +13624,6 @@
       {
         "title": "世卫组织：南半球流感季病例数量少于往常",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJlE3F5Zyx4WiUtMmMxTv201017&isfromapp=1",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "世卫组织：欧洲上周新增病例数量比三月份疫情高峰时高出近三倍",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivqrSAuWXTaDmp35KMwfG201017&isfromapp=1",
         "date": "2020-10-16"
       }
     ]
@@ -16780,6 +16780,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大家会想着看面试官和候选人互相吐槽嘛？",
+        "link": "https://www.v2ex.com/t/715865",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "如何用 Python 判断一段股票 K 线是双底， 也就是 W 形态",
+        "link": "https://www.v2ex.com/t/715864",
+        "date": "2020-10-17"
+      },
+      {
         "title": "毕业 4 年，存款快 100 万了，想买房可以吗？",
         "link": "https://www.v2ex.com/t/715861",
         "date": "2020-10-17"
@@ -16942,21 +16952,6 @@
       {
         "title": "有没有数学老师讲的数据挖掘或数据分析的书籍或视频推荐？",
         "link": "https://www.v2ex.com/t/715816",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "抽奖结果，送美团饿了么外卖会员年卡/月卡/红包共 30 份！",
-        "link": "https://www.v2ex.com/t/715815",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "Reeder5 来了",
-        "link": "https://www.v2ex.com/t/715814",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "咨询一个 windows 防火墙优先级问题。",
-        "link": "https://www.v2ex.com/t/715813",
         "date": "2020-10-16"
       }
     ]
@@ -17124,6 +17119,26 @@
         "date": "2020-10-17"
       },
       {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-17"
+      },
+      {
         "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
         "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-17"
@@ -17134,33 +17149,8 @@
         "date": "2020-10-17"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-17"
-      },
-      {
         "title": "[推荐] 高性能网关设计实践",
         "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-17"
       },
       {
@@ -17169,23 +17159,13 @@
         "date": "2020-10-17"
       },
       {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-17"
       },
       {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-17"
       },
       {
@@ -17194,8 +17174,23 @@
         "date": "2020-10-17"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-17"
       }
     ]

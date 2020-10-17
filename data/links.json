@@ -14888,6 +14888,11 @@
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
       {
+        "title": "干前端两年薪资 11.5k， 我决定辞职了，对吗？",
+        "link": "https://www.ershicimi.com/p/c54f4c0b087a6ed1404c5e96411658fb",
+        "date": "2020-10-16"
+      },
+      {
         "title": "工作5年了，斗胆谈谈我认为技术人做到哪些才能进阿里！",
         "link": "https://www.ershicimi.com/p/1298f7da4cbdb89641c0c3d5c4284ef5",
         "date": "2020-10-15"
@@ -14981,11 +14986,6 @@
         "title": "祖传技术栈改造，从照抄大公司作业开始",
         "link": "https://www.ershicimi.com/p/272ec3c79ed1f9ccfb7128c566c51a53",
         "date": "2020-09-17"
-      },
-      {
-        "title": "Typescript初学者入门指南",
-        "link": "https://www.ershicimi.com/p/7cb6373e9529c45ce8f335118a336d7a",
-        "date": "2020-09-16"
       }
     ]
   },
@@ -16421,29 +16421,29 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "跨平台文件在线预览解决方案（四）-Android和IOS原生插件",
-        "link": "https://juejin.im/post/6884440823082647560",
+        "title": "聊聊前端 UI 组件：组件体系",
+        "link": "https://juejin.im/post/6884393574557810702",
         "date": "2020-10-16"
       },
       {
-        "title": "「译」Babel 7.12.0 released，快来瞧瞧有哪些亮点",
-        "link": "https://juejin.im/post/6884428140727238670",
+        "title": "vue-------形成父子组件及常见问题",
+        "link": "https://juejin.im/post/6884229642752884749",
         "date": "2020-10-16"
       },
       {
-        "title": "微信小程序 h5下载xlsx 文件",
-        "link": "https://juejin.im/post/6884144956169158670",
+        "title": "我的js算法爬坑之旅-有序数组的平方",
+        "link": "https://juejin.im/post/6884214358860120077",
         "date": "2020-10-16"
       },
       {
-        "title": "基于 mapbox 离线地图解决方案",
-        "link": "https://juejin.im/post/6884144929098956813",
+        "title": "JS基础面试高频（三）：浅拷贝和深拷贝",
+        "link": "https://juejin.im/post/6884207513768558606",
         "date": "2020-10-16"
       },
       {
-        "title": "React with TypeScript 最佳实践",
-        "link": "https://juejin.im/post/6884144754993397767",
-        "date": "2020-10-16"
+        "title": "自己实现一个自定义React项目脚手架「ReactCli」",
+        "link": "https://juejin.im/post/6871875867346698247",
+        "date": "2020-09-12"
       }
     ]
   },
@@ -16780,6 +16780,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "房东直租静安区大宁音乐广场二房无中介费和物业管理费",
+        "link": "https://www.v2ex.com/t/715894",
+        "date": "2020-10-17"
+      },
+      {
         "title": "记一次坑爹的京东延保与混乱的小米售后（小米厨下式净水器）",
         "link": "https://www.v2ex.com/t/715892",
         "date": "2020-10-17"
@@ -16792,11 +16797,6 @@
       {
         "title": "偶然发现 iPhone 12 里不给配的充电头， homepod mini 却有",
         "link": "https://www.v2ex.com/t/715890",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "内推",
-        "link": "https://www.v2ex.com/t/715889",
         "date": "2020-10-17"
       },
       {
@@ -16968,16 +16968,6 @@
         "title": "预算 3500 左右，求手机推荐？",
         "link": "https://www.v2ex.com/t/715845",
         "date": "2020-10-17"
-      },
-      {
-        "title": "菜鸟的公众号终于认证成功了！",
-        "link": "https://www.v2ex.com/t/715844",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "骑电动车的注意了，走机动车道会被罚 200！",
-        "link": "https://www.v2ex.com/t/715843",
-        "date": "2020-10-17"
       }
     ]
   },
@@ -17124,13 +17114,13 @@
         "date": "2020-10-17"
       },
       {
-        "title": "网易数据湖探索与实践",
-        "link": "https://toutiao.io/k/j8jgeiv",
+        "title": "迈向第三代人工智能",
+        "link": "https://toutiao.io/k/vezgv9j",
         "date": "2020-10-17"
       },
       {
-        "title": "迈向第三代人工智能",
-        "link": "https://toutiao.io/k/vezgv9j",
+        "title": "网易数据湖探索与实践",
+        "link": "https://toutiao.io/k/j8jgeiv",
         "date": "2020-10-17"
       },
       {
@@ -17144,63 +17134,8 @@
         "date": "2020-10-17"
       },
       {
-        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
-        "link": "https://toutiao.io/k/h1mu8e9",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-17"
-      },
-      {
         "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
         "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-17"
       },
       {
@@ -17209,13 +17144,68 @@
         "date": "2020-10-17"
       },
       {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-17"
       },
       {
         "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
         "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] CPU 飙高，系统性能问题如何排查？",
+        "link": "https://toutiao.io/k/h1mu8e9",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-17"
       }
     ]

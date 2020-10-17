@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-17 05:13:53，:rocket: 更新条数: +3490， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-17 05:26:49，:rocket: 更新条数: +3488， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -477,6 +477,7 @@
 </summary>
 
 
+- [2020-10-16-干前端两年薪资-11.5k，-我决定辞职了，对吗？](https://www.ershicimi.com/p/c54f4c0b087a6ed1404c5e96411658fb) ![](assets/new.png)  
 - [2020-10-15-工作5年了，斗胆谈谈我认为技术人做到哪些才能进阿里！](https://www.ershicimi.com/p/1298f7da4cbdb89641c0c3d5c4284ef5) ![](assets/new.png)  
 - [2020-10-14-2020，前端好找工作吗？](https://www.ershicimi.com/p/193c6d1f0f8e999587c9c3b70cbd753f) ![](assets/new.png)  
 - [2020-10-13-软技能提升：转转中后台规范落地实践](https://www.ershicimi.com/p/d789133815863e1e19d584230652bd9c) ![](assets/new.png)  
@@ -496,7 +497,6 @@
 - [2020-09-19-关于面试的一点心得](https://www.ershicimi.com/p/26518953e3cc30c299b44999f33c71c3) ![](assets/new.png)  
 - [2020-09-18-阅读大型开源软件的四个技巧](https://www.ershicimi.com/p/a361ca639175ceb9c7083c7e9a4458d3) ![](assets/new.png)  
 - [2020-09-17-祖传技术栈改造，从照抄大公司作业开始](https://www.ershicimi.com/p/272ec3c79ed1f9ccfb7128c566c51a53) ![](assets/new.png)  
-- [2020-09-16-Typescript初学者入门指南](https://www.ershicimi.com/p/7cb6373e9529c45ce8f335118a336d7a) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-10-16-跨平台文件在线预览解决方案（四）-Android和IOS原生插件](https://juejin.im/post/6884440823082647560) ![](assets/new.png)  
-- [2020-10-16-「译」Babel-7.12.0-released，快来瞧瞧有哪些亮点](https://juejin.im/post/6884428140727238670) ![](assets/new.png)  
-- [2020-10-16-微信小程序-h5下载xlsx-文件](https://juejin.im/post/6884144956169158670) ![](assets/new.png)  
-- [2020-10-16-基于-mapbox-离线地图解决方案](https://juejin.im/post/6884144929098956813) ![](assets/new.png)  
-- [2020-10-16-React-with-TypeScript-最佳实践](https://juejin.im/post/6884144754993397767) ![](assets/new.png)  
+- [2020-10-16-聊聊前端-UI-组件：组件体系](https://juejin.im/post/6884393574557810702) ![](assets/new.png)  
+- [2020-10-16-vue-------形成父子组件及常见问题](https://juejin.im/post/6884229642752884749) ![](assets/new.png)  
+- [2020-10-16-我的js算法爬坑之旅-有序数组的平方](https://juejin.im/post/6884214358860120077) ![](assets/new.png)  
+- [2020-10-16-JS基础面试高频（三）：浅拷贝和深拷贝](https://juejin.im/post/6884207513768558606) ![](assets/new.png)  
+- [2020-09-12-自己实现一个自定义React项目脚手架「ReactCli」](https://juejin.im/post/6871875867346698247) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,10 +1057,10 @@
 </summary>
 
 
+- [2020-10-17-房东直租静安区大宁音乐广场二房无中介费和物业管理费](https://www.v2ex.com/t/715894) ![](assets/new.png)  
 - [2020-10-17-记一次坑爹的京东延保与混乱的小米售后（小米厨下式净水器）](https://www.v2ex.com/t/715892) ![](assets/new.png)  
 - [2020-10-17-iPhone-投屏到红米电视，延迟和画质怎么样？](https://www.v2ex.com/t/715891) ![](assets/new.png)  
 - [2020-10-17-偶然发现-iPhone-12-里不给配的充电头，-homepod-mini-却有](https://www.v2ex.com/t/715890) ![](assets/new.png)  
-- [2020-10-17-内推](https://www.v2ex.com/t/715889) ![](assets/new.png)  
 - [2020-10-17-最近科技城周边房价涨势挺猛的？](https://www.v2ex.com/t/715888) ![](assets/new.png)  
 - [2020-10-17-vscode-mac-上拼音输入法提示框消失](https://www.v2ex.com/t/715887) ![](assets/new.png)  
 - [2020-10-17-请教大家一个-sql-语句的写法](https://www.v2ex.com/t/715886) ![](assets/new.png)  
@@ -1125,20 +1125,20 @@
 - [2020-10-17-Golang-使用-Chromedp-绕过反爬抓取微信公众号文章](https://toutiao.io/k/03bgw3v) ![](assets/new.png)  
 - [2020-10-17-开始使用-Flutter-构建-Windows-桌面应用吧](https://toutiao.io/k/d0x7t26) ![](assets/new.png)  
 - [2020-10-17-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) ![](assets/new.png)  
-- [2020-10-17-网易数据湖探索与实践](https://toutiao.io/k/j8jgeiv) ![](assets/new.png)  
 - [2020-10-17-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
+- [2020-10-17-网易数据湖探索与实践](https://toutiao.io/k/j8jgeiv) ![](assets/new.png)  
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
-- [2020-10-17-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-17-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-17-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-17-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-17-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
 - [2020-10-17-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-17-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-17-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-17-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-17-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-17 11:27:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 11:32:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -104,7 +104,6 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-10-17-异步社区，你家的会员信息暴露啦](https://www.v2ex.com/t/715970) 
 - [2020-10-17-第三方包-import-找不到，求教](https://www.v2ex.com/t/715959) 
-- [2020-10-17-有个问题：-iOS14-Apple-Music-的桌面小组件歌曲封面怎么没有变化？](https://www.v2ex.com/t/715924) 
 - [2020-10-17-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) 
 - [2020-10-17-BUF大事件丨个人信息保护法草案首亮相;杀毒软件McAfee创始人被捕](https://sec.thief.one/article_content?a_id=82687f2e3ea8904cb2e0c21adb17cf10) 
 - [2020-10-17-OKEX暂停提币事件发酵,比特币市场整体下滑](https://sec.thief.one/article_content?a_id=13929997885ab98fdb55da69adddef7d) 

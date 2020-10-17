@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-17 11:27:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 11:32:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-17-iPhone-12-mini-纯技术实现双卡双待的解决方案，无需拆机！](https://www.v2ex.com/t/715974) 
 - [2020-10-17-工位网口扩展](https://www.v2ex.com/t/715973) 
 - [2020-10-17-滴滴出行-北京、杭州、成都、深圳内推-前端/-Java-/Android/iOS/-PHP-/Go/算法/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/715972) 
 - [2020-10-17-异步社区，你家的会员信息暴露啦](https://www.v2ex.com/t/715970) 
@@ -39,4 +40,3 @@
 - [2020-10-17-Windows-上的苹果-mac-Time-Machine-时间机器免费替代品-FreeFileSync-操作指南](https://www.v2ex.com/t/715928) 
 - [2020-10-17-闲鱼上那些没屏幕的-macbook-靠谱吗](https://www.v2ex.com/t/715927) 
 - [2020-10-17-Vo-LTE](https://www.v2ex.com/t/715926) 
-- [2020-10-17-有个问题：-iOS14-Apple-Music-的桌面小组件歌曲封面怎么没有变化？](https://www.v2ex.com/t/715924) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-17 00:38:53，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-17 01:12:10，:rocket: 更新条数: +3488， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-10-15-10月15日全国新增境外输入新冠24例-上海11例](http://m.china.caixin.com/m/2020-10-16/101615244.html) ![](assets/new.png)  
+- [2020-10-16-10月16日全国新增境外输入新冠13例-累计确诊85659例](https://m.caixin.com/m/2020-10-17/101615690.html) ![](assets/new.png)  
 - [2020-10-15-青岛疫情源头查明-被感染码头工人与普通病区患者共用CT所致](https://m.caixin.com/m/2020-10-16/101615349.html) ![](assets/new.png)  
 - [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) ![](assets/new.png)  
 - [2020-10-15-【境内疫情观察】青岛疫情由患者共用CT室引发（10月15日）](http://m.database.caixin.com/m/2020-10-16/101615364.html) ![](assets/new.png)  
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-17-掌上生活-iPhone-现金补贴活动](https://www.v2ex.com/t/715832) ![](assets/new.png)  
 - [2020-10-17-社交](https://www.v2ex.com/t/715831) ![](assets/new.png)  
 - [2020-10-17-今天-iphone12-线下有样机了吗](https://www.v2ex.com/t/715830) ![](assets/new.png)  
 - [2020-10-17-揭露美国抗疫失败的纪录片《完全可控》全片已上线](https://www.v2ex.com/t/715828) ![](assets/new.png)  
@@ -1066,7 +1067,6 @@
 - [2020-10-16-Reeder-5-发布了](https://www.v2ex.com/t/715821) ![](assets/new.png)  
 - [2020-10-16-iPhone-12-Pro-和-Pro-Max-选哪个呢](https://www.v2ex.com/t/715820) ![](assets/new.png)  
 - [2020-10-16-用代码计算杭州市-50-年以后的平均工资，竟然高达-30-万每月](https://www.v2ex.com/t/715819) ![](assets/new.png)  
-- [2020-10-16-为什么我的铜币就剩三十个了啊？](https://www.v2ex.com/t/715818) ![](assets/new.png)  
 - [2020-10-16-请教一条-SQL-语句，根据条件-SELECT-有还是没有，做执行其它的语句。。。](https://www.v2ex.com/t/715817) ![](assets/new.png)  
 - [2020-10-16-有没有数学老师讲的数据挖掘或数据分析的书籍或视频推荐？](https://www.v2ex.com/t/715816) ![](assets/new.png)  
 - [2020-10-16-抽奖结果，送美团饿了么外卖会员年卡/月卡/红包共-30-份！](https://www.v2ex.com/t/715815) ![](assets/new.png)  
@@ -1124,21 +1124,21 @@
 - [2020-10-17-Golang-使用-Chromedp-绕过反爬抓取微信公众号文章](https://toutiao.io/k/03bgw3v) ![](assets/new.png)  
 - [2020-10-17-译-Go-运行时调度器处理系统调用的巧妙方式](https://toutiao.io/k/xlv9j2n) ![](assets/new.png)  
 - [2020-10-17-开始使用-Flutter-构建-Windows-桌面应用吧](https://toutiao.io/k/d0x7t26) ![](assets/new.png)  
-- [2020-10-17-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
-- [2020-10-17-网易数据湖探索与实践](https://toutiao.io/k/j8jgeiv) ![](assets/new.png)  
-- [2020-10-17-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) ![](assets/new.png)  
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
-- [2020-10-17-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-17-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-17-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
+- [2020-10-17-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) ![](assets/new.png)  
+- [2020-10-17-网易数据湖探索与实践](https://toutiao.io/k/j8jgeiv) ![](assets/new.png)  
 - [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-17-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-17-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
 - [2020-10-17-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-17-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-17-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

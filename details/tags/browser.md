@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-17 12:50:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 13:03:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,8 @@
 - [2020-10-17-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-17-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-17-Golang-使用-Chromedp-绕过反爬抓取微信公众号文章](https://toutiao.io/k/03bgw3v) 
+- [2020-10-17-XX音乐缓存加密算法分析](https://sec.thief.one/article_content?a_id=d2a99a2bfc635ba663ba2f0a7acbb6c6) 
+- [2020-10-17-360安全大脑连续发现Windows系统15枚高危漏洞-,再获微软官方致谢...](https://sec.thief.one/article_content?a_id=3dc5150dcb78ec40b14a697d455ea352) 
 - [2020-10-17-通过云计算服务安全评估的云平台](https://sec.thief.one/article_content?a_id=e852334c677f59eaf019571b95395b73) 
 - [2020-10-17-《2019年智能音箱安全白皮书》解读-附下载](https://sec.thief.one/article_content?a_id=4a51bfa53e9253457944cc93f342b01b) 
 - [2020-10-16-【安全圈】Python爬虫要违法了吗?守住法律道德,技术无罪!](https://sec.thief.one/article_content?a_id=d7bfa2bc3da6aae53b8bbd8c7d74f8a9) 
@@ -68,7 +70,3 @@
 - [2020-10-15-微软10月安全更新补丁和TCP/IP高危漏洞风险提示](https://sec.thief.one/article_content?a_id=390a52a1955aeb1076b8aeec2f5c31b1) 
 - [2020-10-15-Windows-IPv6-协议栈中的安全漏洞](https://sec.thief.one/article_content?a_id=50e7cf631bf4c53dfba3816d90e115ae) 
 - [2020-10-15-网络安全主题诱饵,配合新型后门WinClouds肆虐南亚地区](https://sec.thief.one/article_content?a_id=389962aa1aad62b1a3cea9e4693d5270) 
-- [2020-10-15-安全攻击溯源思路及案例](https://sec.thief.one/article_content?a_id=fe3d7c125673e256be3892e58ea02ad6) 
-- [2020-10-15-【安全风险通告】VMware-vCenter任意文件读取漏洞安全风险通告](https://sec.thief.one/article_content?a_id=b18fab8ae72198863dc34f326562ba3f) 
-- [2020-10-14-【安全圈】Windows-Update-被发现可滥用于执行恶意程序](https://sec.thief.one/article_content?a_id=ccfe8557c05eb964eadb26c750a3f597) 
-- [2020-10-14-国际权威咨询机构最新报告:奇安信领跑国内安全托管服务市场](https://sec.thief.one/article_content?a_id=e23e7adc17e74ab48b0eb3cb3a0c3223) 

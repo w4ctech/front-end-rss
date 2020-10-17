@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-17 04:33:42，:rocket: 更新条数: +3488， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-17 04:40:48，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,11 +947,11 @@
 </summary>
 
 
+- [2020-10-16-跨平台文件在线预览解决方案（四）-Android和IOS原生插件](https://juejin.im/post/6884440823082647560) ![](assets/new.png)  
 - [2020-10-16-JavaScript异步编程核心概念-Promise](https://juejin.im/post/6884220362289070094) ![](assets/new.png)  
 - [2020-10-16-微信小程序-h5下载xlsx-文件](https://juejin.im/post/6884144956169158670) ![](assets/new.png)  
 - [2020-10-16-基于-mapbox-离线地图解决方案](https://juejin.im/post/6884144929098956813) ![](assets/new.png)  
 - [2020-10-16-React-with-TypeScript-最佳实践](https://juejin.im/post/6884144754993397767) ![](assets/new.png)  
-- [2020-10-16-vue-router实现页面状态与url同步](https://juejin.im/post/6884139784797683726) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-17-有没有-iPhone-轻量级图片编辑软件-求美图的替代品-广告太多了还不能买断](https://www.v2ex.com/t/715883) ![](assets/new.png)  
 - [2020-10-17-你们连续每天签到坚持最久的平台是哪个？有比我更久的吗？](https://www.v2ex.com/t/715882) ![](assets/new.png)  
 - [2020-10-17-企业突然大力搞公益慈善，其中有没有洗黑钱的操作空间？](https://www.v2ex.com/t/715881) ![](assets/new.png)  
 - [2020-10-17-一直很好奇占用非机动车道右转结果被堵住的车主心理变化是怎样的](https://www.v2ex.com/t/715880) ![](assets/new.png)  
@@ -1076,7 +1077,6 @@
 - [2020-10-17-毕业-4-年，存款快-100-万了，想买房可以吗？](https://www.v2ex.com/t/715861) ![](assets/new.png)  
 - [2020-10-17-发现-mysql-定义的数据类型不管用，定义的整数-1-位，也可以插入多位数字](https://www.v2ex.com/t/715858) ![](assets/new.png)  
 - [2020-10-17-求教：如何导出黑屏手机里的文件](https://www.v2ex.com/t/715856) ![](assets/new.png)  
-- [2020-10-17-Big-Sur-微信使用-command-+-w-关掉窗口之后，切不回来有人遇到吗](https://www.v2ex.com/t/715855) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,20 +1125,20 @@
 - [2020-10-17-Golang-使用-Chromedp-绕过反爬抓取微信公众号文章](https://toutiao.io/k/03bgw3v) ![](assets/new.png)  
 - [2020-10-17-开始使用-Flutter-构建-Windows-桌面应用吧](https://toutiao.io/k/d0x7t26) ![](assets/new.png)  
 - [2020-10-17-网易数据湖探索与实践](https://toutiao.io/k/j8jgeiv) ![](assets/new.png)  
-- [2020-10-17-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
 - [2020-10-17-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) ![](assets/new.png)  
+- [2020-10-17-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
+- [2020-10-17-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-17-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
 - [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-17-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-17-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [2020-10-17-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-17-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
 - [2020-10-17-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-17-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-17-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-17-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

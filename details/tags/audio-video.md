@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-17 19:35:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 19:47:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,6 +88,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-10-17-B-站看到了一个扫描二维码以后直接被黑入手机的视频，是不是危言耸听？](https://www.v2ex.com/t/716034) 
 - [2020-10-17-微信复制-PC-端浏览器打开-视频不显示?](https://www.v2ex.com/t/716002) 
 - [2020-10-16-今晚直播预告丨渗透测试神器福利专场](https://sec.thief.one/article_content?a_id=b0fc6d315b562e45a363c8e0671420dd) 
 - [2020-10-16-无处安放的个人安全:3TB家庭摄像机视频,被黑客在线发布!](https://sec.thief.one/article_content?a_id=ec72393a102cb12af92b6a4f2efe9f6d) 

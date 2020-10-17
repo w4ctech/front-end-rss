@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-17 19:35:49，:rocket: 更新条数: +3715， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-17 19:47:21，:rocket: 更新条数: +3715， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1077,6 +1077,7 @@
 </summary>
 
 
+- [2020-10-17-B-站看到了一个扫描二维码以后直接被黑入手机的视频，是不是危言耸听？](https://www.v2ex.com/t/716034) ![](assets/new.png)  
 - [2020-10-17-深圳比较方便去东莞常平镇的地方](https://www.v2ex.com/t/716033) ![](assets/new.png)  
 - [2020-10-17-收到一封邮件。荣枯咫尺异-惆怅难再述-花有重开日-人无再少年](https://www.v2ex.com/t/716031) ![](assets/new.png)  
 - [2020-10-17-Windows10.19041-基于-VirtualBox6.1.14-成功安装-macOS-Catalina-10.15.7，如何使用-VirtualBox-的远程桌面功能，能把虚拟机上传到-Oracle-云上运行吗？](https://www.v2ex.com/t/716029) ![](assets/new.png)  
@@ -1096,7 +1097,6 @@
 - [2020-10-17-不会吧不会吧,-现在网易云创建歌单都要绑定手机了???](https://www.v2ex.com/t/716010) ![](assets/new.png)  
 - [2020-10-17-MacBook-Pro-电池的曲线救国](https://www.v2ex.com/t/716009) ![](assets/new.png)  
 - [2020-10-17-steam-古风游戏](https://www.v2ex.com/t/716008) ![](assets/new.png)  
-- [2020-10-17-请教一个访问内网的问题。](https://www.v2ex.com/t/716006) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,15 +1150,15 @@
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
 - [2020-10-17-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-17-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-17-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-17-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [2020-10-17-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-17-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-17-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-17-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

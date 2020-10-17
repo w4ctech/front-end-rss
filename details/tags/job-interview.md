@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-17 18:49:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 19:04:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -39,5 +39,4 @@
 - [2020-10-12-Redis-怎么防止数据丢失？面试必问！](https://www.ershicimi.com/p/e33e27614c53b77e9c42986cd3f93352) 
 - [2020-10-07-Redis-面试-8-连问，你能顶住几道？](https://www.ershicimi.com/p/d100b68da538455fb72721a4b87084f9) 
 - [2020-10-17-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
-- [2020-10-17-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
 - [2020-10-16-实验室成立以来第一次对外的招聘文末抽奖](https://sec.thief.one/article_content?a_id=bb504949cdf6af2320146aa7908ea30c) 

@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-17 16:17:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 16:34:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-10-17-报告：北京80后平均月薪最高，达21411元；iPhone12首批货已售罄；淘宝台湾年底将结束运营｜](https://www.ershicimi.com/p/f6000a8d29d3ea8a82b62811c21504da) 
+- [2020-10-17-CEO首次分享：极客邦13年成长复盘-｜-极客时间](https://www.ershicimi.com/p/2f7620559fb58a4f9ff36e9cbb8fb074) 
+- [2020-10-17-Google-Cloud-对话-PingCAP，探索-TiDB-核心数据库的上云秘籍-｜-Q推荐](https://www.ershicimi.com/p/3184a678527315f00834b710140877c7) 
+- [2020-10-17-一次近乎完美的PostgreSQL版本大升级实践](https://www.ershicimi.com/p/bdbd6ab5d3046f4bc8eedbbc123225f1) 
+- [2020-10-17-如何将你的Python项目全面自动化？](https://www.ershicimi.com/p/89dfa29aad96730afeaab2edfa86ee05) 
 - [2020-10-16-当程序员变身为黑客，现役程序员表示：我太难了！](https://www.ershicimi.com/p/9f523a3754f1ce2bcc0e77ef68da3165) 
 - [2020-10-16-成为最差前端开发的10个建议](https://www.ershicimi.com/p/7f283d3e5b471faababf0f5a3b9d161a) 
 - [2020-10-16-微软给技术人打造的“秋季限定”，这像极了爱情……｜-Q推荐](https://www.ershicimi.com/p/6e130ea05d3414fadb44b420d4c83663) 
@@ -20,8 +25,3 @@
 - [2020-10-14-13.9k-Star,-3.6k-Fork-——-技术人如何从0到1打造成功的开源软件？｜-Q推荐](https://www.ershicimi.com/p/e034b92b078a7d401ade22467a03695e) 
 - [2020-10-14-一份重磅“xx秋季技术课堂”独家剧透-｜-Q推荐](https://www.ershicimi.com/p/3ab42eab9c6ebe37c2d8ff841da628fe) 
 - [2020-10-14-12种Flutter开发工具推荐](https://www.ershicimi.com/p/ac256cd0dd9e9029ff1e33bfe50a244c) 
-- [2020-10-13-Go-并发编程这么难，到底应该怎么学？｜-极客时间](https://www.ershicimi.com/p/5d528c48d3769b5701f39aab083a5e84) 
-- [2020-10-13-2020年Java语言发展现状](https://www.ershicimi.com/p/3e231a88761cb41b19aabd842b6374d1) 
-- [2020-10-13-德甲、NFL、F1-赛车的游戏规则正在改变，AWS-如何解锁数据潜能](https://www.ershicimi.com/p/46404117114c6f7bbacae7e23358772f) 
-- [2020-10-13-开源社区的空前盛事！“有你有我开源节”（开源技术研讨会）即将重磅揭幕-｜-Q推荐](https://www.ershicimi.com/p/2e5039047848ce5f6be6119d7fb921ea) 
-- [2020-10-13-Linux主要发行版目前面临的问题：钱足够但很缺人！](https://www.ershicimi.com/p/1794cda7125c8099e56fa5696ef7a0dd) 

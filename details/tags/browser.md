@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-17 16:17:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 16:34:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,7 +33,7 @@
 - [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
 - [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2020-10-17-用Algeb这个新轮子管理前端数据请求资源](https://juejin.im/post/6884600819690242056) 
+- [2020-10-17-一次近乎完美的PostgreSQL版本大升级实践](https://www.ershicimi.com/p/bdbd6ab5d3046f4bc8eedbbc123225f1) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-17-在-Chrome-里使用哪种代理最快？](https://www.v2ex.com/t/716003) 
 - [2020-10-17-安卓版-chrome-加入安全-dns](https://www.v2ex.com/t/715995) 

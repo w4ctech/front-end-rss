@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-17 04:48:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 05:04:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Nodejs技术栈
 
 
 
 
+- [2020-10-17-超魔性神曲《Serverless-之歌》，酷炫洗脑！](https://www.ershicimi.com/p/f989950b952885d7b8eb3f1bc58e7273) 
+- [2020-10-16-高薪的AI行业，想上车一定要有规划](https://www.ershicimi.com/p/d66ce2a3f9eb5d26b8a50b92d571ac02) 
+- [2020-10-16-前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/99b484a81d88ceedb095488767352245) 
+- [2020-10-15-排查-Node.js-服务内存泄漏，没想到竟是它？](https://www.ershicimi.com/p/daecb693cd78ffa928d74d4047f89cba) 
 - [2020-10-14-贫民窟程序员-“岳岳”-的故事](https://www.ershicimi.com/p/366fddb062a25326e27eb208a6c3e8d7) 
 - [2020-10-14-Vue.js-作者尤雨溪：TypeScript-与-JavaScript-并行才切合实际！](https://www.ershicimi.com/p/65f8261d5a8e6be4d73ab7529202d452) 
 - [2020-10-13-最受大厂宠爱的-React，厉害在哪？](https://www.ershicimi.com/p/1a8ed17bef43f9bb4797cbba6efdb9b0) 
@@ -21,7 +25,3 @@
 - [2020-09-22-运维的报表之路，用-Node.js-轻松发送-grafana-报表](https://www.ershicimi.com/p/23027332cbc0022f3ad9e9fac1ded4c6) 
 - [2020-09-21-7-个进阶大厂的必备技能](https://www.ershicimi.com/p/7182303353ea6f263bccc2774f21cac6) 
 - [2020-09-20-CNodejs每日新闻周刊｜第-6-期](https://www.ershicimi.com/p/d497726d3508bc612d33b1bf38c2c7f1) 
-- [2020-09-18-基于-Unix-Socket-的可靠-Node.js-HTTP-代理实现（支持-WebSocket](https://www.ershicimi.com/p/a34f963ae8b809e34df37404d03c8821) 
-- [2020-09-17-亿级-ELK-日志平台构建实践](https://www.ershicimi.com/p/8d5bc25bccee8a0f3e161d2256883f52) 
-- [2020-09-15-通过-Node.js-小示例学习浏览器缓存策略](https://www.ershicimi.com/p/b99babdfb00269bc556a772fde985927) 
-- [2020-09-14-大数据时代下的“火眼金睛”？如何高效精准快速地学习目标检测？](https://www.ershicimi.com/p/259e2b8f596a3f17fe919d33e994ee73) 

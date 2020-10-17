@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-17 04:48:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 05:04:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -178,6 +178,8 @@
 - [【前端瓶子君】前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/0bdf01163c2ebc502fa5a9cb0d9a3ab7)
 - [【程序员成长指北】前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/b51534a5fcb534f73c718f29b4aad1a3)
 - [【程序员成长指北】一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/921228937c95cf4885d9edb75b47fd93)
+- [【Nodejs技术栈】前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/99b484a81d88ceedb095488767352245)
+- [【Nodejs技术栈】排查-Node.js-服务内存泄漏，没想到竟是它？](https://www.ershicimi.com/p/daecb693cd78ffa928d74d4047f89cba)
 - [【Nodejs技术栈】Node.js-搭建-HTTPS-服务器](https://www.ershicimi.com/p/443b0f079dc05caa1ccecabfd0000cce)
 - [【Nodejs技术栈】CNodejs每日新闻周刊｜第-7-期](https://www.ershicimi.com/p/3f7061fd1d18b6916af923609e24a196)
 - [【Nodejs技术栈】震惊！这个代码片段竟然会让-V8-内存无法回收？！](https://www.ershicimi.com/p/975ee862c41b1852efcca27a4ab66a25)
@@ -185,8 +187,6 @@
 - [【Nodejs技术栈】Node.js-定时器详解](https://www.ershicimi.com/p/5f7301ddf1080f76b099a5be3ba69ccd)
 - [【Nodejs技术栈】Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/29fa0a1bf73f5284b1a0b04a5c6bf2e5)
 - [【Nodejs技术栈】运维的报表之路，用-Node.js-轻松发送-grafana-报表](https://www.ershicimi.com/p/23027332cbc0022f3ad9e9fac1ded4c6)
-- [【Nodejs技术栈】CNodejs每日新闻周刊｜第-6-期](https://www.ershicimi.com/p/d497726d3508bc612d33b1bf38c2c7f1)
-- [【Nodejs技术栈】基于-Unix-Socket-的可靠-Node.js-HTTP-代理实现（支持-WebSocket](https://www.ershicimi.com/p/a34f963ae8b809e34df37404d03c8821)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -310,6 +310,7 @@
 - [【全栈前端精选】收藏！40-个-CSS-布局技巧](https://www.ershicimi.com/p/8cad40756928dc16101f81b5f648e6b3)
 - [【前端宇宙】一位用动画自学前端的小伙子！](https://www.ershicimi.com/p/a4781951b30e04f2f6ba3770045ce0b1)
 - [【程序员成长指北】CSS垂直居中的七个方法](https://www.ershicimi.com/p/70ff853747a186b90229532092dd4606)
+- [【Nodejs技术栈】超魔性神曲《Serverless-之歌》，酷炫洗脑！](https://www.ershicimi.com/p/f989950b952885d7b8eb3f1bc58e7273)
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
 - [【张鑫旭-鑫空间-鑫生活】flex:0-flex:1-flex:none-flex:auto应该在什么场景下使用？](https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/)
@@ -319,7 +320,6 @@
 - [【前端日刊】CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325)
 - [【JavaScript】工作四年的前端不服：面试竟在CSS上跪了-究其原因……](https://www.ershicimi.com/p/6d7caaa510e08cf5b511383c19096d0c)
 - [【JavaScript】5个很常用的CSS3网页小实例](https://www.ershicimi.com/p/cc31a0415cd6949432efb37fa6d0bf27)
-- [【前端艺术家&&飞冰早报】【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -396,8 +396,8 @@
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】一款被大家低估的微服务场景下性能问题排查神器！](https://www.ershicimi.com/p/15da6d82c5f2a839f3a61cd256c39ac3)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9)
 - [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
+- [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

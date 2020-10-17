@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-17 20:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 21:04:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -42,6 +42,7 @@
 - [2020-10-16-前端如何优雅的处理类数组对象？](https://www.ershicimi.com/p/ff68d432c6aa930c231ca20ef17d903a) 
 - [2020-10-14-你需要了解的几种-JavaScript-异常类型](https://www.ershicimi.com/p/06dd75a065cf099f98747e8317f18ae5) 
 - [2020-10-06-由浅入深，66条JavaScript面试知识点](https://www.ershicimi.com/p/a4bd310df5a3f3ef95bf8ea89713eb85) 
+- [2020-10-17-送-6-本-JavaScript-“红宝书”《JavaScript-高级程序设计（第4版）》](https://www.ershicimi.com/p/8c3c9dc4817e3596c6c481c4c36468e6) 
 - [2020-10-15-JS双等号比较符（“==”）作用细节](https://www.ershicimi.com/p/a210134db5fda43f542248ec3b7bc00e) 
 - [2020-10-14-收藏-|-JS开发必须知道的41个技巧](https://www.ershicimi.com/p/559dea8cf6972b528ee3fae25a9f5b06) 
 - [2020-09-28-不定宽溢出文本适配滚动](https://www.ershicimi.com/p/82facd4a65470af20eed04cecbb01f5b) 

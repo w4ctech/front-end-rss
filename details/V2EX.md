@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-17 09:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 10:04:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2020-10-17-iPhone-XR-11-SE-官方技术规格界面，显示支持北斗了](https://www.v2ex.com/t/715909) 
 - [2020-10-17-咨询：-B-站/哔哩哔哩-基础技术部工作氛围、技术能力怎么样？](https://www.v2ex.com/t/715908) 
 - [2020-10-17-Idea-配了一个本地的-tomcat-启动时提示-Unable-to-connect-to-the-localhost:1099](https://www.v2ex.com/t/715907) 
-- [2020-10-17-老生常谈的话题，周末深圳有什么户外活动去处](https://www.v2ex.com/t/715906) 

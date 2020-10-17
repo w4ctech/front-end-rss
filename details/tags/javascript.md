@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-17 02:48:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 03:03:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -101,7 +101,6 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-10-16-求教，请问前端方面怎么在一个老-jsp-项目中组件化？不想用-requirejs](https://www.v2ex.com/t/715810) 
 - [2020-10-17-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) 
 - [2020-10-16-用Domato通过Fuzzing对php进行漏洞挖掘研究](https://sec.thief.one/article_content?a_id=64766fb65403e5f3cc242bd1391a804d) 
 - [2020-10-14-SharpHose:一款基于C#开发的Windows异步密码喷射工具](https://sec.thief.one/article_content?a_id=ad6dd0e447528627eb913fa05a9a7626) 

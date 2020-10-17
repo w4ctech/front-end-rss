@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-17 17:36:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-17 17:47:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-17-成都大学的事，有没有相关人士了解的？](https://www.v2ex.com/t/716032) 
 - [2020-10-17-收到一封邮件。荣枯咫尺异-惆怅难再述-花有重开日-人无再少年](https://www.v2ex.com/t/716031) 
 - [2020-10-17-Windows10.19041-基于-VirtualBox6.1.14-成功安装-macOS-Catalina-10.15.7，如何使用-VirtualBox-的远程桌面功能，能把虚拟机上传到-Oracle-云上运行吗？](https://www.v2ex.com/t/716029) 
 - [2020-10-17-上海电信这几天线路是不是有问题](https://www.v2ex.com/t/716028) 

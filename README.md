@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-17 13:13:33，:rocket: 更新条数: +3486， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-17 13:26:11，:rocket: 更新条数: +3486， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-10-16-10月16日全国新增境外输入新冠13例-累计确诊85659例](https://m.caixin.com/m/2020-10-17/101615690.html) ![](assets/new.png)  
+- [2020-10-16-最新疫情：全国新冠累计确诊85659例-新增境外输入13例](http://m.china.caixin.com/m/2020-10-17/101615851.html) ![](assets/new.png)  
 - [2020-10-16-【境内疫情观察】广州花都新增1例境外输入关联的无症状感染者（10月16日）](http://m.database.caixin.com/m/2020-10-17/101615832.html) ![](assets/new.png)  
 - [2020-10-16-大流行手记|10月16日：美国病例超800万《自然》谴责特朗普践踏科学](https://m.caixin.com/m/2020-10-17/101615725.html) ![](assets/new.png)  
 - [2020-10-15-青岛疫情源头查明-被感染码头工人与普通病区患者共用CT所致](https://m.caixin.com/m/2020-10-16/101615349.html) ![](assets/new.png)  
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-10-17-2020-年了，你们的宽带速度是?](https://www.v2ex.com/t/715996) ![](assets/new.png)  
+- [2020-10-17-安卓版-chrome-加入安全-dns](https://www.v2ex.com/t/715995) ![](assets/new.png)  
+- [2020-10-17-想要招-Affman](https://www.v2ex.com/t/715994) ![](assets/new.png)  
 - [2020-10-17-送电动牙刷了，简单粗暴，先到先得，一共-18-个位置](https://www.v2ex.com/t/715993) ![](assets/new.png)  
 - [2020-10-17-onedrive-的家庭版（micsoft365-family）的数据中心位置是由支付币种决定的还是由账号注册时选的位置决定的？香港机房的速度也低的要命怎么办](https://www.v2ex.com/t/715991) ![](assets/new.png)  
 - [2020-10-17-求助:-这个-SQL-查询如何写?-谢谢](https://www.v2ex.com/t/715990) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-10-17-iPhone-12-mini-纯技术实现双卡双待的解决方案，无需拆机！](https://www.v2ex.com/t/715974) ![](assets/new.png)  
 - [2020-10-17-工位网口扩展](https://www.v2ex.com/t/715973) ![](assets/new.png)  
 - [2020-10-17-滴滴出行-北京、杭州、成都、深圳内推-前端/-Java-/Android/iOS/-PHP-/Go/算法/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/715972) ![](assets/new.png)  
-- [2020-10-17-异步社区，你家的会员信息暴露啦](https://www.v2ex.com/t/715970) ![](assets/new.png)  
-- [2020-10-17-求推荐-AirPods-Pro-耳塞](https://www.v2ex.com/t/715968) ![](assets/new.png)  
-- [2020-10-17-你们非常气愤的时候，做什么？](https://www.v2ex.com/t/715967) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-10-17-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
-- [2020-10-17-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-17-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
 - [2020-10-17-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-17-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-17-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
-- [2020-10-17-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-17-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [2020-10-17-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
 - [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-17-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-17-推荐-CPU-飙高，系统性能问题如何排查？](https://toutiao.io/k/h1mu8e9) ![](assets/new.png)  
+- [2020-10-17-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-17-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-17 03:47:17，:rocket: 更新条数: +3715， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-17 04:04:34，:rocket: 更新条数: +3716， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-17-微信、支付宝“健康宝”绑定手机号不同-返京均需行程申报核验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWxP9zE9DKzPlYKqBPeqw201017&isfromapp=1) ![](assets/new.png)  
 - [2020-10-17-古巴大部分地区将对国际游客恢复开放-旅游业将重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDtK4s4RCVJAMocSVFE0201017&isfromapp=1) ![](assets/new.png)  
 - [2020-10-17-北美观察丨确诊突破800万！美前高官死里逃生-称后悔不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZfDWS26E5xKrWgMFTmQD201017&isfromapp=1) ![](assets/new.png)  
 - [2020-10-16-葡萄牙新冠肺炎确诊病例累计达95902例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQob59yYe2hAL4lSGBaGX201017&isfromapp=1) ![](assets/new.png)  
 - [2020-10-16-比利时疫情警戒提升至最高级-全国将实施宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MkQlngWl3XqHDAsLl2n201017&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-世卫组织：南半球流感季病例数量少于往常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJlE3F5Zyx4WiUtMmMxTv201017&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,10 @@
 </summary>
 
 
+- [2020-10-17-坐标上海，水龙头坏了一直滴水，怎么找靠谱的维修？](https://www.v2ex.com/t/715877) ![](assets/new.png)  
+- [2020-10-17-苏州某房屋中介跑路求怎么维权](https://www.v2ex.com/t/715876) ![](assets/new.png)  
+- [2020-10-17-咨询下，最简单/安全的开放订阅地址的方法是什么？](https://www.v2ex.com/t/715875) ![](assets/new.png)  
+- [2020-10-17-HomePod-这种产品是不是不适合在灰大的地方使用](https://www.v2ex.com/t/715874) ![](assets/new.png)  
 - [2020-10-17-请教下视频面试](https://www.v2ex.com/t/715873) ![](assets/new.png)  
 - [2020-10-17-Python-项目部署,-uwsgi-还是-gunicorn-?-或者其他选择](https://www.v2ex.com/t/715872) ![](assets/new.png)  
 - [2020-10-17-把-VS-Code-变成小霸王游戏机~](https://www.v2ex.com/t/715871) ![](assets/new.png)  
@@ -1093,10 +1097,6 @@
 - [2020-10-17-明星项目-Oasis-Lab-的首次黑客松，奖励总共有-31500-ROSE](https://www.v2ex.com/t/715852) ![](assets/new.png)  
 - [2020-10-17-分享个自己写的工具-抖音，火山，西瓜，头条，快手，微视，皮皮虾，批量无水印下载](https://www.v2ex.com/t/715851) ![](assets/new.png)  
 - [2020-10-17-iOS-下体验比较好的手环有推荐吗？](https://www.v2ex.com/t/715850) ![](assets/new.png)  
-- [2020-10-17-等不急-iMac-的小白准备入坑黑果的一系列问题](https://www.v2ex.com/t/715849) ![](assets/new.png)  
-- [2020-10-17-求助用-shell-循环输出一段内容](https://www.v2ex.com/t/715848) ![](assets/new.png)  
-- [2020-10-17-果然年年焕新的订货渠道不同，充钱解决？](https://www.v2ex.com/t/715847) ![](assets/new.png)  
-- [2020-10-17-2001-年左右的国产武侠电视剧，忘记了名字，求大佬指点一下](https://www.v2ex.com/t/715846) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,21 +1144,21 @@
 - [2020-10-17-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
 - [2020-10-17-Golang-使用-Chromedp-绕过反爬抓取微信公众号文章](https://toutiao.io/k/03bgw3v) ![](assets/new.png)  
 - [2020-10-17-开始使用-Flutter-构建-Windows-桌面应用吧](https://toutiao.io/k/d0x7t26) ![](assets/new.png)  
-- [2020-10-17-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
 - [2020-10-17-网易数据湖探索与实践](https://toutiao.io/k/j8jgeiv) ![](assets/new.png)  
+- [2020-10-17-迈向第三代人工智能](https://toutiao.io/k/vezgv9j) ![](assets/new.png)  
 - [2020-10-17-Java-8-函数式接口和-Lambda-表达式你真的会了吗？](https://toutiao.io/k/432c4c0) ![](assets/new.png)  
 - [2020-10-17-乔新亮：从死战冲锋陷阵的猛将，到掌兵多多益善的元帅](https://toutiao.io/k/lebwpyv) ![](assets/new.png)  
 - [2020-10-17-Python-检验数据是否正态分布](https://toutiao.io/k/nxd1wcb) ![](assets/new.png)  
-- [2020-10-17-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-17-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
 - [2020-10-17-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-17-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-17-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-17-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-17-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-17-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-17-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
 - [2020-10-17-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
 - [2020-10-17-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-17-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-17-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-17-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-17-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-17-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

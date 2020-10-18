@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 11:37:11，:rocket: 更新条数: +3502， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 11:47:30，:rocket: 更新条数: +3503， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -761,6 +761,16 @@
 </summary>
 
 
+- [2020-10-18-【重构】使用Hooks让代码更易于变更](https://www.ershicimi.com/p/c33d198602af6bad3ac24041395f44d0) ![](assets/new.png)  
+- [2020-10-18-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/e7403e1f1cc352db31c0afb246f24c8f) ![](assets/new.png)  
+- [2020-10-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/62272e05a059d259a90efa55b65fe220) ![](assets/new.png)  
+- [2020-10-17-细数九种常见的设计模式](https://www.ershicimi.com/p/989c4eaed429eacf82112f355612177d) ![](assets/new.png)  
+- [2020-10-17-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/e2e970a3329be2b6d3e440575f82bf25) ![](assets/new.png)  
+- [2020-10-17-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/7842b102ad5925c35150a473cbe8d083) ![](assets/new.png)  
+- [2020-10-16-奇舞周刊第-368-期：Chrome-启用缓存分区机制](https://www.ershicimi.com/p/ad04cb4de9fb9045352dbc23bf5e34e8) ![](assets/new.png)  
+- [2020-10-15-深入揭秘前端路由本质，手写-mini-router](https://www.ershicimi.com/p/c6d986949159ab90f4bf5fdf9b5758f6) ![](assets/new.png)  
+- [2020-10-15-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/2420ddacdb53e2124cc6f59b18690e7c) ![](assets/new.png)  
+- [2020-10-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/85fd9ba4a3c03e19dbe8946e5381d397) ![](assets/new.png)  
 - [2020-10-14-聊聊-ESM、Bundle-、Bundleless-、Vite-、Snowpack](https://www.ershicimi.com/p/71038eac49ce77666fd434e124afc8f6) ![](assets/new.png)  
 - [2020-10-14-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/4093a3fd6aade826980b22909f296b9b) ![](assets/new.png)  
 - [2020-10-14-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/9e700ed178f818168ee969282e8b46c5) ![](assets/new.png)  
@@ -771,16 +781,6 @@
 - [2020-10-12-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/ebe59e96466e5c43b9953fea70994c22) ![](assets/new.png)  
 - [2020-10-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/bc00bc600cf641e06220cc450b1c9027) ![](assets/new.png)  
 - [2020-10-10-React官方状态管理库——-Recoil](https://www.ershicimi.com/p/d69ae8d4fbf38e3d051de13609b1436d) ![](assets/new.png)  
-- [2020-10-10-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/2e71e6fffa81004a8df02e75b187292e) ![](assets/new.png)  
-- [2020-10-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1ebe6ffcb22557dcd354d8499de55402) ![](assets/new.png)  
-- [2020-10-09-奇舞周刊第-367-期：Node.js-v14.13.0-发布](https://www.ershicimi.com/p/8eb2591d8810e87087bf76fd5d6edf3e) ![](assets/new.png)  
-- [2020-10-03-奇舞周刊第-366-期：前端女生职业路](https://www.ershicimi.com/p/546a53966791d24b5e6c039b4fca0103) ![](assets/new.png)  
-- [2020-09-30-你的Tree-Shaking真的起作用了吗](https://www.ershicimi.com/p/c8c8813e5f3ea171d99274392d0ab5d3) ![](assets/new.png)  
-- [2020-09-30-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/a3a347ad7b78545e9335eeddb10b395e) ![](assets/new.png)  
-- [2020-09-30-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/391480b5633bead86d5e39238db757b8) ![](assets/new.png)  
-- [2020-09-29-NPM-组件你应该知道的事](https://www.ershicimi.com/p/3c9627d8481776f3379c97830564c488) ![](assets/new.png)  
-- [2020-09-29-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/63df90cc742effd49df3e631c50cd75a) ![](assets/new.png)  
-- [2020-09-29-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4892a1f75626ea4f0ef38e11c5b027cc) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,8 @@
 </summary>
 
 
+- [2020-10-18-裸辞了两个月，感觉快抑郁了，当树洞诉诉苦](https://www.v2ex.com/t/716161) ![](assets/new.png)  
+- [2020-10-18-近一年做的一堆项目等同于-toy-program。](https://www.v2ex.com/t/716160) ![](assets/new.png)  
 - [2020-10-18-帖子被降权-现在连-V-站都不能吐露心声了吗？](https://www.v2ex.com/t/716159) ![](assets/new.png)  
 - [2020-10-18-我找到了朝鲜-VPS。](https://www.v2ex.com/t/716158) ![](assets/new.png)  
 - [2020-10-18-2020-年了，你们的运营商套餐是？](https://www.v2ex.com/t/716157) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-18-实习-微软亚洲研究院-机器学习系统网络优化实习生](https://www.v2ex.com/t/716141) ![](assets/new.png)  
 - [2020-10-18-三星-pm981a-为什么速度那么慢？](https://www.v2ex.com/t/716140) ![](assets/new.png)  
 - [2020-10-18-成都有一-23-号周五-Apple-Store-提货名额](https://www.v2ex.com/t/716139) ![](assets/new.png)  
-- [2020-10-18-如何利用-OLED-纯黑色关闭像素的特性制作壁纸](https://www.v2ex.com/t/716138) ![](assets/new.png)  
-- [2020-10-18-淘宝现在在混吃等死吗？](https://www.v2ex.com/t/716137) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,16 +1139,16 @@
 - [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
-- [2020-10-18-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-18-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-18-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-18-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-18-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-18-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-18-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-18-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-18-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-18-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-18-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-18-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-18-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

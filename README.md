@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 12:50:48，:rocket: 更新条数: +3503， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 13:03:48，:rocket: 更新条数: +3504， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,9 @@
 </summary>
 
 
+- [2020-10-18-求个文件目录生成工具](https://www.v2ex.com/t/716175) ![](assets/new.png)  
+- [2020-10-18-一个-potplqyer-问题的解决，但搞不清状况（原因）](https://www.v2ex.com/t/716174) ![](assets/new.png)  
+- [2020-10-18-两个-offer-求-XDM-指点](https://www.v2ex.com/t/716173) ![](assets/new.png)  
 - [2020-10-18-V2EX-有那些敏感词？](https://www.v2ex.com/t/716171) ![](assets/new.png)  
 - [2020-10-18-求-win-服务器上-Mysql-数据库某个触发器生效后，调用局域网内另一台-win-服务器上-MS-SQL-Server-数据库上的存储过程的方案](https://www.v2ex.com/t/716170) ![](assets/new.png)  
 - [2020-10-18-大三，靠写留学生外包月入上万，分享给你](https://www.v2ex.com/t/716168) ![](assets/new.png)  
@@ -1084,9 +1087,6 @@
 - [2020-10-18-深圳南山TCL-电子社招-Java-/安卓/测试/运维](https://www.v2ex.com/t/716153) ![](assets/new.png)  
 - [2020-10-18-求教各位上班时听歌忍不住想跟着律动晃怎么办](https://www.v2ex.com/t/716152) ![](assets/new.png)  
 - [2020-10-18-叉积的定义到底是一个人为假设的模型？还是有现实依据的结论？（再次碰碰运气）](https://www.v2ex.com/t/716148) ![](assets/new.png)  
-- [2020-10-18-请永久删除我的账户,-Please-erase-my-account-permanently](https://www.v2ex.com/t/716147) ![](assets/new.png)  
-- [2020-10-18-translate.google.cn-被墙了？](https://www.v2ex.com/t/716146) ![](assets/new.png)  
-- [2020-10-18-包子记账-联合推荐邀请贴](https://www.v2ex.com/t/716145) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1133,22 +1133,22 @@
 - [2020-10-18-如何优雅地配置快应用的代码片段](https://toutiao.io/k/35tydue) ![](assets/new.png)  
 - [2020-10-18-使用人工智能优化-Golang-编译器](https://toutiao.io/k/4tvze1x) ![](assets/new.png)  
 - [2020-10-18-太牛皮了！拯救了千千万万程序员必备的-Java-神器，你值得拥有！](https://toutiao.io/k/kvnybds) ![](assets/new.png)  
-- [2020-10-18-什么是计算机图形学？](https://toutiao.io/k/rapdyc4) ![](assets/new.png)  
 - [2020-10-18-协程中的取消和异常：驻留任务详解](https://toutiao.io/k/k36er6n) ![](assets/new.png)  
+- [2020-10-18-什么是计算机图形学？](https://toutiao.io/k/rapdyc4) ![](assets/new.png)  
 - [2020-10-18-Doug-Lea-在-J.U.C-包里面写的-Bug-又被网友发现了](https://toutiao.io/k/zcma2bb) ![](assets/new.png)  
 - [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
-- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-18-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
 - [2020-10-18-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-18-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [2020-10-18-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-18-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-18-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-18-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-18-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-18-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [2020-10-18-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-18-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1160,6 +1160,8 @@
 </summary>
 
 
+- [2020-10-18-一组数据看中国脱贫成绩单](https://sec.thief.one/article_content?a_id=ffea3d406ee9fa8125b0ed0a704bc250) ![](assets/new.png)  
+- [2020-10-18-精彩回顾:奇安信第三届数字中国建设峰会之旅亮点多多](https://sec.thief.one/article_content?a_id=2178d76ce8b0e70913900fc9912625c4) ![](assets/new.png)  
 - [2020-10-18-比特币能否重回12000美金,还得看这一关键支撑!](https://sec.thief.one/article_content?a_id=c9da6d1c61efda9a673a0c214e4ac622) ![](assets/new.png)  
 - [2020-10-18-“校园谍战”,Silent-Librarian-黑客组织瞄准全球各地高校](https://sec.thief.one/article_content?a_id=9e5df9092c72cc467c7f13e30c66346e) ![](assets/new.png)  
 - [2020-10-18-【倒计时5天】10月23日,看雪2020-SDC携十大干货议题来了!](https://sec.thief.one/article_content?a_id=8f91b5c1ed3364381706cf2dd93f2e83) ![](assets/new.png)  
@@ -1178,8 +1180,6 @@
 - [2020-10-17-【安全圈】数据泄露!新冠疫情下全球70%企业渴望“零信任架构”](https://sec.thief.one/article_content?a_id=ee0a3b5004f2718511ed368ac9ca5c22) ![](assets/new.png)  
 - [2020-10-17-日本银行称,“没有任何一种单一加密货币能够主导全球-”](https://sec.thief.one/article_content?a_id=3e36cb0da2f39e91183f89b1c986d142) ![](assets/new.png)  
 - [2020-10-17-XX音乐缓存加密算法分析](https://sec.thief.one/article_content?a_id=d2a99a2bfc635ba663ba2f0a7acbb6c6) ![](assets/new.png)  
-- [2020-10-17-360安全大脑连续发现Windows系统15枚高危漏洞-,再获微软官方致谢...](https://sec.thief.one/article_content?a_id=3dc5150dcb78ec40b14a697d455ea352) ![](assets/new.png)  
-- [2020-10-17-【地评线】脱贫有“数”-底气更足](https://sec.thief.one/article_content?a_id=97e32622ed141250eb7734d04f1c0b5f) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

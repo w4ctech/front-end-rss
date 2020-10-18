@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-18 02:32:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 02:39:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-iPhone12-送-usb-c-线，充电头怎么选-？？](https://www.v2ex.com/t/716059) 
 - [2020-10-18-关于古代神话传说的想法](https://www.v2ex.com/t/716058) 
 - [2020-10-18-突然发现-AppleTV-上-Youtube-有-4K-视频品质可以选择了](https://www.v2ex.com/t/716057) 
 - [2020-10-18-想用-Python-系统信息显示，窗口如何固定在任务栏？](https://www.v2ex.com/t/716056) 
@@ -44,4 +45,3 @@
 - [2020-10-17-想调查下，大家有自己写-userscript-来简化自己工作的吗？](https://www.v2ex.com/t/716012) 
 - [2020-10-17-自如小盒子里送的/打扫阿姨每次用的那种毛巾叫什么呀？](https://www.v2ex.com/t/716011) 
 - [2020-10-17-不会吧不会吧,-现在网易云创建歌单都要绑定手机了???](https://www.v2ex.com/t/716010) 
-- [2020-10-17-MacBook-Pro-电池的曲线救国](https://www.v2ex.com/t/716009) 

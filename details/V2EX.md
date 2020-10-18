@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-18 07:49:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 08:04:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-Parallels-Desktop-提升升级，升级会有什么后果？](https://www.v2ex.com/t/716120) 
+- [2020-10-18-能否为-IDEA-设置“使用-kotlin-编程时必需使用分号否则不允许编译“的强制规则？](https://www.v2ex.com/t/716119) 
 - [2020-10-18-厌倦了写网关的无聊胶水代码，我们造了一个动态热更新的聚合网关的轮子](https://www.v2ex.com/t/716118) 
 - [2020-10-18-停不下来的闪烁，-Chrome-光标浏览模式](https://www.v2ex.com/t/716117) 
 - [2020-10-18-200G-容量已满，-icloud-2T-拼车走起~](https://www.v2ex.com/t/716115) 
@@ -46,4 +48,3 @@
 - [2020-10-18-iOS-版的腾讯手机管家会自动上传-Wi-Fi-密码吗？](https://www.v2ex.com/t/716073) 
 - [2020-10-18-我服了，使用-Java-和-Python-运行-ffmpeg-命令，-Java-运行了大半天不出结果，-Python-秒出](https://www.v2ex.com/t/716072) 
 - [2020-10-18-做了个图床，打算长期运营下去，真诚地希望大家多提建议](https://www.v2ex.com/t/716071) 
-- [2020-10-18-mac-上有什么可以免费听音乐的软件吗？](https://www.v2ex.com/t/716069) 

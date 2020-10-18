@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-18 05:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 06:04:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-DocRun-算力笔记-更新-双栏编辑，双向链接，块级引用，文档网络，不要试一下吗](https://www.v2ex.com/t/716094) 
+- [2020-10-18-急招-后端开发高级工程师-字节跳动-懂车帝-团队直推-HC-很充足](https://www.v2ex.com/t/716093) 
+- [2020-10-18-实习-微软亚洲研究院-基于-FPGA-的云加速技术开发实习生](https://www.v2ex.com/t/716092) 
+- [2020-10-18-官网买的激活了还能退吗](https://www.v2ex.com/t/716091) 
 - [2020-10-18-offer-求大佬指导](https://www.v2ex.com/t/716090) 
 - [2020-10-18-iPhone-会在-23-号跌破发售价吗？以及今年的供货充分不充分？-v-友们怎么看](https://www.v2ex.com/t/716089) 
 - [2020-10-18-大水冲了龙王庙，-iOS-总是自动把-Apple-Store-App-的网络权限关闭](https://www.v2ex.com/t/716088) 
@@ -48,6 +52,3 @@
 - [2020-10-18-请教，域名-www.defenselink.mil-在香港无法正常解析，在别的国家正常，是什么原因？](https://www.v2ex.com/t/716048) 
 - [2020-10-18-DJI-mobile-4-稳定器会不会出-MagSafe-配件？](https://www.v2ex.com/t/716047) 
 - [2020-10-18-非-iPhone-12-手机壳加个-MagSafe-环是不是也能磁吸使用-MagSafe-无线充](https://www.v2ex.com/t/716045) 
-- [2020-10-18-xmake-v2.3.8-发布,-新增-Intel-C++/Fortran-编译器支持](https://www.v2ex.com/t/716044) 
-- [2020-10-18-如何提取-PDF-文档中的文字-（备注：文字被转曲线了）](https://www.v2ex.com/t/716043) 
-- [2020-10-18-你们的台式机编程，风噪怎么样？](https://www.v2ex.com/t/716042) 

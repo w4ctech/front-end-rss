@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-18 02:15:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 02:30:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-关于古代神话传说的想法](https://www.v2ex.com/t/716058) 
 - [2020-10-18-突然发现-AppleTV-上-Youtube-有-4K-视频品质可以选择了](https://www.v2ex.com/t/716057) 
 - [2020-10-18-想用-Python-系统信息显示，窗口如何固定在任务栏？](https://www.v2ex.com/t/716056) 
 - [2020-10-18-apple-watch-4-有-ID-锁，怎么处理？](https://www.v2ex.com/t/716055) 
@@ -44,4 +45,3 @@
 - [2020-10-17-自如小盒子里送的/打扫阿姨每次用的那种毛巾叫什么呀？](https://www.v2ex.com/t/716011) 
 - [2020-10-17-不会吧不会吧,-现在网易云创建歌单都要绑定手机了???](https://www.v2ex.com/t/716010) 
 - [2020-10-17-MacBook-Pro-电池的曲线救国](https://www.v2ex.com/t/716009) 
-- [2020-10-17-steam-古风游戏](https://www.v2ex.com/t/716008) 

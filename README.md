@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 02:49:12，:rocket: 更新条数: +3493， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 03:06:46，:rocket: 更新条数: +3493， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-10-18-手机数据网络能修改-dns-吗](https://www.v2ex.com/t/716064) ![](assets/new.png)  
+- [2020-10-18-最近可以去泰国吗?](https://www.v2ex.com/t/716063) ![](assets/new.png)  
+- [2020-10-18-一加-8T-上手体验及-Pop-up-活动总结](https://www.v2ex.com/t/716062) ![](assets/new.png)  
+- [2020-10-18-今天更新软件才发现-好多国内应用在美区全下架了](https://www.v2ex.com/t/716061) ![](assets/new.png)  
 - [2020-10-18-我不认为-iphone12-系列屏幕素质一样](https://www.v2ex.com/t/716060) ![](assets/new.png)  
 - [2020-10-18-iPhone12-送-usb-c-线，充电头怎么选-？？](https://www.v2ex.com/t/716059) ![](assets/new.png)  
 - [2020-10-18-关于古代神话传说的想法](https://www.v2ex.com/t/716058) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-10-18-DJI-mobile-4-稳定器会不会出-MagSafe-配件？](https://www.v2ex.com/t/716047) ![](assets/new.png)  
 - [2020-10-18-非-iPhone-12-手机壳加个-MagSafe-环是不是也能磁吸使用-MagSafe-无线充](https://www.v2ex.com/t/716045) ![](assets/new.png)  
 - [2020-10-18-xmake-v2.3.8-发布,-新增-Intel-C++/Fortran-编译器支持](https://www.v2ex.com/t/716044) ![](assets/new.png)  
-- [2020-10-18-如何提取-PDF-文档中的文字-（备注：文字被转曲线了）](https://www.v2ex.com/t/716043) ![](assets/new.png)  
-- [2020-10-18-你们的台式机编程，风噪怎么样？](https://www.v2ex.com/t/716042) ![](assets/new.png)  
-- [2020-10-17-看日志痛苦——可能是你方法不对:推荐一款通用日志分析工具](https://www.v2ex.com/t/716040) ![](assets/new.png)  
-- [2020-10-17-成都电信移动联通-4G-5G-网络选择](https://www.v2ex.com/t/716038) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
+- [2020-10-18-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [2020-10-18-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-18-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-18-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-18-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-18-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [2020-10-18-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-18-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-18-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

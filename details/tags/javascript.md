@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-18 13:49:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 14:04:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -71,12 +71,12 @@
 - [2020-10-14-H5-移动端调试全攻略](https://www.ershicimi.com/p/fd12bd5c9dd665205b81a9b41c19671f) 
 - [2020-10-08-组件库主题设计方案](https://www.ershicimi.com/p/9a2fc5896ce33b74d37e90713a69793e) 
 - [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/ef8836a398c98f900987145946f1002a) 
+- [2020-10-18-JavaScript-里的奇葩知识](https://www.ershicimi.com/p/6104afdd6e348a7d5bd16d6ef30398f8) 
 - [2020-10-16-蚂蚁金服网红技术团队分享，用-JavaScript-全栈打造商业级应用](https://www.ershicimi.com/p/df52500bf4295ef3738f7c9569ee26b2) 
 - [2020-10-16-我要怎么才能实现：移动端的适配操作？](https://www.ershicimi.com/p/6a660ef1072bc61a5fe2ddced1d5e648) 
 - [2020-10-13-JavaScript工程项目的一系列最佳实践策略](https://www.ershicimi.com/p/53b9eec40283eded8ce9eadb29c7ec82) 
 - [2020-10-11-H5-移动端调试全攻略](https://www.ershicimi.com/p/1c2f1b57e72c48dbfa6e1a7a03c43786) 
 - [2020-10-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/d9cfd050a06b59cdc298976e5379fb90) 
-- [2020-09-30-写好JavaScript条件语句的5条守则](https://www.ershicimi.com/p/f90725c5daad5d1fc00ceab296894fe0) 
 - [2020-10-10-11个JavaScript代码重构最佳实践](https://www.ershicimi.com/p/2ca7692a90a820749d43269749496e4f) 
 - [2020-10-09-「译」更快的-async-函数和-promises](https://www.ershicimi.com/p/0d99c4058ec482c0ae28ea5d1bb24c61) 
 - [2020-10-08-前端组件设计原则](https://www.ershicimi.com/p/a6ace26783373f356fc765a97af4a6de) 

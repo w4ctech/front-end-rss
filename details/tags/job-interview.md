@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-18 13:49:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 14:04:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,5 +41,4 @@
 - [2020-10-12-Redis-怎么防止数据丢失？面试必问！](https://www.ershicimi.com/p/e33e27614c53b77e9c42986cd3f93352) 
 - [2020-10-18-面试官为啥不太问技术细节，而是问项目、个人软实力方面的问题？](https://www.v2ex.com/t/716188) 
 - [2020-10-18-招聘-智云健康（杭州）](https://www.v2ex.com/t/716144) 
-- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
 - [2020-10-16-实验室成立以来第一次对外的招聘文末抽奖](https://sec.thief.one/article_content?a_id=bb504949cdf6af2320146aa7908ea30c) 

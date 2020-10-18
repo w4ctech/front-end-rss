@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-18 00:08:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 00:40:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,7 +47,7 @@
 - [2020-10-17-安卓版-chrome-加入安全-dns](https://www.v2ex.com/t/715995) 
 - [2020-10-18-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-18-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-18-Golang-使用-Chromedp-绕过反爬抓取微信公众号文章](https://toutiao.io/k/03bgw3v) 
+- [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) 
 - [2020-10-17-XX音乐缓存加密算法分析](https://sec.thief.one/article_content?a_id=d2a99a2bfc635ba663ba2f0a7acbb6c6) 
 - [2020-10-17-360安全大脑连续发现Windows系统15枚高危漏洞-,再获微软官方致谢...](https://sec.thief.one/article_content?a_id=3dc5150dcb78ec40b14a697d455ea352) 
 - [2020-10-17-通过云计算服务安全评估的云平台](https://sec.thief.one/article_content?a_id=e852334c677f59eaf019571b95395b73) 

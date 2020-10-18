@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 14:47:29，:rocket: 更新条数: +3499， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 15:03:53，:rocket: 更新条数: +3500， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,9 +947,9 @@
 </summary>
 
 
+- [2020-10-18-移动端布局面试题-全面考察你的CSS功底居中篇](https://juejin.im/post/6884971597498613768) ![](assets/new.png)  
 - [2020-10-18-敏感数据加密方案及实现](https://juejin.im/post/6884947933150576653) ![](assets/new.png)  
 - [2020-10-18-webPack从零搭建react脚手架](https://juejin.im/post/6884912991859867662) ![](assets/new.png)  
-- [2020-10-18-在vue中使用FullCalendar（vue2.0的日历插件）](https://juejin.im/post/6884875189130100744) ![](assets/new.png)  
 - [2020-10-17-Vue响应式原理（二）Observer、Dep、Watcher](https://juejin.im/post/6884864961223327751) ![](assets/new.png)  
 - [2020-10-17-Preact源码阅读（三）--更新机制](https://juejin.im/post/6884862792923840526) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1067,6 +1067,11 @@
 </summary>
 
 
+- [2020-10-18-群晖有没有类似-FTP-客户端的软件？可以支持断点续传](https://www.v2ex.com/t/716205) ![](assets/new.png)  
+- [2020-10-18-迫于目前工资不满足需求,-请大家帮我看看这份-.NET-开发的简历](https://www.v2ex.com/t/716204) ![](assets/new.png)  
+- [2020-10-18-求推荐一款适合睡觉戴的耳机](https://www.v2ex.com/t/716203) ![](assets/new.png)  
+- [2020-10-18-有一个关于服务异常硬件报警的想法](https://www.v2ex.com/t/716202) ![](assets/new.png)  
+- [2020-10-18-在-iPad-上使用鼠标/触控板的同学注意了，不要更新到-iOS-14.2-Beta-版本](https://www.v2ex.com/t/716201) ![](assets/new.png)  
 - [2020-10-18-iCloud-照片如何备份至-NAS？](https://www.v2ex.com/t/716199) ![](assets/new.png)  
 - [2020-10-18-CentOS7-安装-docker-配置好镜像加速之后为什么拉取地址指向没有变化？](https://www.v2ex.com/t/716198) ![](assets/new.png)  
 - [2020-10-18-问一个-Macbook-Pro-16"-egpu-外接显卡的问题](https://www.v2ex.com/t/716197) ![](assets/new.png)  
@@ -1082,11 +1087,6 @@
 - [2020-10-18-上海哪里有线下的机械键盘实体体验店？](https://www.v2ex.com/t/716186) ![](assets/new.png)  
 - [2020-10-18-自家产正宗洛川苹果免费送了～](https://www.v2ex.com/t/716184) ![](assets/new.png)  
 - [2020-10-18-big-sur-beta10，-usr/lib-里面的-dylib-替身都提示找不到其原身了，该怎么处理啊…](https://www.v2ex.com/t/716183) ![](assets/new.png)  
-- [2020-10-18-大佬们那种拼图的验证码应该是后台生成的吧？](https://www.v2ex.com/t/716182) ![](assets/new.png)  
-- [2020-10-18-如果你是你现在开发的产品的忠实用户，你会不会在工作甚至加班时更有热情](https://www.v2ex.com/t/716180) ![](assets/new.png)  
-- [2020-10-18-29-岁程序员的感慨](https://www.v2ex.com/t/716179) ![](assets/new.png)  
-- [2020-10-18-袋鼠数据库工具官网通过-DNS-实现国内国外两个服务器自动切换支持](https://www.v2ex.com/t/716177) ![](assets/new.png)  
-- [2020-10-18-求个文件目录生成工具](https://www.v2ex.com/t/716175) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,16 +1139,16 @@
 - [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
-- [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-18-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-18-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-18-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-18-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-18-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [2020-10-18-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-18-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [2020-10-18-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-18-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-18-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-18-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

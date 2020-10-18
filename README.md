@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 13:03:48，:rocket: 更新条数: +3504， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 13:13:44，:rocket: 更新条数: +3502， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,10 +1067,11 @@
 </summary>
 
 
+- [2020-10-18-我觉的-V-站快成吐槽根据地了](https://www.v2ex.com/t/716178) ![](assets/new.png)  
+- [2020-10-18-袋鼠数据库工具官网通过-DNS-实现国内国外两个服务器自动切换支持](https://www.v2ex.com/t/716177) ![](assets/new.png)  
 - [2020-10-18-求个文件目录生成工具](https://www.v2ex.com/t/716175) ![](assets/new.png)  
 - [2020-10-18-一个-potplqyer-问题的解决，但搞不清状况（原因）](https://www.v2ex.com/t/716174) ![](assets/new.png)  
 - [2020-10-18-两个-offer-求-XDM-指点](https://www.v2ex.com/t/716173) ![](assets/new.png)  
-- [2020-10-18-V2EX-有那些敏感词？](https://www.v2ex.com/t/716171) ![](assets/new.png)  
 - [2020-10-18-求-win-服务器上-Mysql-数据库某个触发器生效后，调用局域网内另一台-win-服务器上-MS-SQL-Server-数据库上的存储过程的方案](https://www.v2ex.com/t/716170) ![](assets/new.png)  
 - [2020-10-18-大三，靠写留学生外包月入上万，分享给你](https://www.v2ex.com/t/716168) ![](assets/new.png)  
 - [2020-10-18-iPhone12-存储选-128G-还是-256G？打算用-3-、4-年](https://www.v2ex.com/t/716167) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-18-通过自媒体获得的第一笔收入☝️-分享下这个时刻](https://www.v2ex.com/t/716154) ![](assets/new.png)  
 - [2020-10-18-深圳南山TCL-电子社招-Java-/安卓/测试/运维](https://www.v2ex.com/t/716153) ![](assets/new.png)  
 - [2020-10-18-求教各位上班时听歌忍不住想跟着律动晃怎么办](https://www.v2ex.com/t/716152) ![](assets/new.png)  
-- [2020-10-18-叉积的定义到底是一个人为假设的模型？还是有现实依据的结论？（再次碰碰运气）](https://www.v2ex.com/t/716148) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1133,22 +1133,22 @@
 - [2020-10-18-如何优雅地配置快应用的代码片段](https://toutiao.io/k/35tydue) ![](assets/new.png)  
 - [2020-10-18-使用人工智能优化-Golang-编译器](https://toutiao.io/k/4tvze1x) ![](assets/new.png)  
 - [2020-10-18-太牛皮了！拯救了千千万万程序员必备的-Java-神器，你值得拥有！](https://toutiao.io/k/kvnybds) ![](assets/new.png)  
-- [2020-10-18-协程中的取消和异常：驻留任务详解](https://toutiao.io/k/k36er6n) ![](assets/new.png)  
 - [2020-10-18-什么是计算机图形学？](https://toutiao.io/k/rapdyc4) ![](assets/new.png)  
+- [2020-10-18-协程中的取消和异常：驻留任务详解](https://toutiao.io/k/k36er6n) ![](assets/new.png)  
 - [2020-10-18-Doug-Lea-在-J.U.C-包里面写的-Bug-又被网友发现了](https://toutiao.io/k/zcma2bb) ![](assets/new.png)  
 - [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
-- [2020-10-18-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-18-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-18-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
 - [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-18-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
 - [2020-10-18-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-18-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
 - [2020-10-18-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-18-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-18-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

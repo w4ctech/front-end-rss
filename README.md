@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 15:28:12，:rocket: 更新条数: +3464， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 15:30:19，:rocket: 更新条数: +3500， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1067,6 +1067,26 @@
 </summary>
 
 
+- [2020-10-18-mac-上有什么软件，可以记录我在哪个-app-上-花了多少时间，并生成报表？我想知道我的时间去哪儿了](https://www.v2ex.com/t/716213) ![](assets/new.png)  
+- [2020-10-18-还有没有人在使用-XP-系统](https://www.v2ex.com/t/716212) ![](assets/new.png)  
+- [2020-10-18-19-年发生的事，现在才知道。杭州不愧是资本-zf-先锋](https://www.v2ex.com/t/716210) ![](assets/new.png)  
+- [2020-10-18-收-iPhone-11-256g-颜色随意-成色-8-新以上](https://www.v2ex.com/t/716209) ![](assets/new.png)  
+- [2020-10-18-一台老款-macbook-没有-typec-接口，一台-win-台式机。怎么共用一块屏幕，一套键鼠。菜鸟求教育，求终身回忆。](https://www.v2ex.com/t/716206) ![](assets/new.png)  
+- [2020-10-18-群晖有没有类似-FTP-客户端的软件？可以支持断点续传](https://www.v2ex.com/t/716205) ![](assets/new.png)  
+- [2020-10-18-迫于目前工资不满足需求,-请大家帮我看看这份-.NET-开发的简历](https://www.v2ex.com/t/716204) ![](assets/new.png)  
+- [2020-10-18-求推荐一款适合睡觉戴的耳机](https://www.v2ex.com/t/716203) ![](assets/new.png)  
+- [2020-10-18-有一个关于服务异常硬件报警的想法](https://www.v2ex.com/t/716202) ![](assets/new.png)  
+- [2020-10-18-在-iPad-上使用鼠标/触控板的同学注意了，不要更新到-iOS-14.2-Beta-版本](https://www.v2ex.com/t/716201) ![](assets/new.png)  
+- [2020-10-18-iCloud-照片如何备份至-NAS？](https://www.v2ex.com/t/716199) ![](assets/new.png)  
+- [2020-10-18-CentOS7-安装-docker-配置好镜像加速之后为什么拉取地址指向没有变化？](https://www.v2ex.com/t/716198) ![](assets/new.png)  
+- [2020-10-18-问一个-Macbook-Pro-16"-egpu-外接显卡的问题](https://www.v2ex.com/t/716197) ![](assets/new.png)  
+- [2020-10-18-如何让多块硬盘内的文件一起显示](https://www.v2ex.com/t/716196) ![](assets/new.png)  
+- [2020-10-18-微信聊天记录-12G，却只能清理-3G，文字消息居然占用-9G……](https://www.v2ex.com/t/716195) ![](assets/new.png)  
+- [2020-10-18-Google-大陆节点访问似乎出问题了](https://www.v2ex.com/t/716194) ![](assets/new.png)  
+- [2020-10-18-力扣-回文链表，我写的递归怎么是错的](https://www.v2ex.com/t/716192) ![](assets/new.png)  
+- [2020-10-18-一直墙内可以用的-g.cn/generate_204-终于挂了](https://www.v2ex.com/t/716191) ![](assets/new.png)  
+- [2020-10-18-字节跳动内推-北京上海深圳厦门！火力全开的西瓜视频喊你加入啦！](https://www.v2ex.com/t/716190) ![](assets/new.png)  
+- [2020-10-18-Chamber-里总有些…](https://www.v2ex.com/t/716189) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

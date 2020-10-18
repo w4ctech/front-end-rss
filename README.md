@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 01:24:42，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 01:46:53，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-10-18-Bilibili-在-Safari-的弹幕字体](https://www.v2ex.com/t/716053) ![](assets/new.png)  
+- [2020-10-18-微服务的权限验证](https://www.v2ex.com/t/716052) ![](assets/new.png)  
+- [2020-10-18-Apple-Store-旧机抵扣有谁试过吗-有几个问题想咨询下](https://www.v2ex.com/t/716051) ![](assets/new.png)  
+- [2020-10-18-早餐突然想吃肯德基，有没有大神卡能收？](https://www.v2ex.com/t/716050) ![](assets/new.png)  
 - [2020-10-18-ffmpeg-合并-2-个视频文件时-太慢的问题怎么解决？](https://www.v2ex.com/t/716049) ![](assets/new.png)  
 - [2020-10-18-请教，域名-www.defenselink.mil-在香港无法正常解析，在别的国家正常，是什么原因？](https://www.v2ex.com/t/716048) ![](assets/new.png)  
 - [2020-10-18-DJI-mobile-4-稳定器会不会出-MagSafe-配件？](https://www.v2ex.com/t/716047) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-10-17-深圳比较方便去东莞常平镇的地方](https://www.v2ex.com/t/716033) ![](assets/new.png)  
 - [2020-10-17-收到一封邮件。荣枯咫尺异-惆怅难再述-花有重开日-人无再少年](https://www.v2ex.com/t/716031) ![](assets/new.png)  
 - [2020-10-17-Windows10.19041-基于-VirtualBox6.1.14-成功安装-macOS-Catalina-10.15.7，如何使用-VirtualBox-的远程桌面功能，能把虚拟机上传到-Oracle-云上运行吗？](https://www.v2ex.com/t/716029) ![](assets/new.png)  
-- [2020-10-17-上海电信这几天线路是不是有问题](https://www.v2ex.com/t/716028) ![](assets/new.png)  
-- [2020-10-17-询问一下，快要结婚了准备买房，-IT-工作，首付预算-50w,-武汉哪里买房比较合适？](https://www.v2ex.com/t/716026) ![](assets/new.png)  
-- [2020-10-17-20201018-午夜俱乐部](https://www.v2ex.com/t/716025) ![](assets/new.png)  
-- [2020-10-17-每次-lol-比赛-都感觉自己和同龄人有代沟](https://www.v2ex.com/t/716024) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,22 +1122,22 @@
 - [2020-10-18-30-岁的程序员出路在哪里？|-码农周刊第-321-期](https://toutiao.io/k/qdeuemt) ![](assets/new.png)  
 - [2020-10-18-如何优雅地配置快应用的代码片段](https://toutiao.io/k/35tydue) ![](assets/new.png)  
 - [2020-10-18-太牛皮了！拯救了千千万万程序员必备的-Java-神器，你值得拥有！](https://toutiao.io/k/kvnybds) ![](assets/new.png)  
-- [2020-10-18-协程中的取消和异常：驻留任务详解](https://toutiao.io/k/k36er6n) ![](assets/new.png)  
 - [2020-10-18-使用人工智能优化-Golang-编译器](https://toutiao.io/k/4tvze1x) ![](assets/new.png)  
 - [2020-10-18-什么是计算机图形学？](https://toutiao.io/k/rapdyc4) ![](assets/new.png)  
-- [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
+- [2020-10-18-协程中的取消和异常：驻留任务详解](https://toutiao.io/k/k36er6n) ![](assets/new.png)  
 - [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-Doug-Lea-在-J.U.C-包里面写的-Bug-又被网友发现了](https://toutiao.io/k/zcma2bb) ![](assets/new.png)  
+- [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
-- [2020-10-18-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-18-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
 - [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-18-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-18-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-18-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-18-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
 - [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-18-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-18-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-18-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-18-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
 - [2020-10-18-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

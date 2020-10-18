@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-18 01:24:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 01:46:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-Bilibili-在-Safari-的弹幕字体](https://www.v2ex.com/t/716053) 
+- [2020-10-18-微服务的权限验证](https://www.v2ex.com/t/716052) 
+- [2020-10-18-Apple-Store-旧机抵扣有谁试过吗-有几个问题想咨询下](https://www.v2ex.com/t/716051) 
+- [2020-10-18-早餐突然想吃肯德基，有没有大神卡能收？](https://www.v2ex.com/t/716050) 
 - [2020-10-18-ffmpeg-合并-2-个视频文件时-太慢的问题怎么解决？](https://www.v2ex.com/t/716049) 
 - [2020-10-18-请教，域名-www.defenselink.mil-在香港无法正常解析，在别的国家正常，是什么原因？](https://www.v2ex.com/t/716048) 
 - [2020-10-18-DJI-mobile-4-稳定器会不会出-MagSafe-配件？](https://www.v2ex.com/t/716047) 
@@ -39,7 +43,3 @@
 - [2020-10-17-steam-古风游戏](https://www.v2ex.com/t/716008) 
 - [2020-10-17-请教一个访问内网的问题。](https://www.v2ex.com/t/716006) 
 - [2020-10-17-迫于搬家无法拉网线需要无线中继，求推荐可刷-padavan-的无线路由](https://www.v2ex.com/t/716004) 
-- [2020-10-17-在-Chrome-里使用哪种代理最快？](https://www.v2ex.com/t/716003) 
-- [2020-10-17-微信复制-PC-端浏览器打开-视频不显示?](https://www.v2ex.com/t/716002) 
-- [2020-10-17-分享下个人业余时间的开源项目：一个-Focus-在技术领域的微博----“极客微博”](https://www.v2ex.com/t/716001) 
-- [2020-10-17-纯-IPv6-地址能否使用-IPv4-的-DNS](https://www.v2ex.com/t/716000) 

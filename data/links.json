@@ -16785,6 +16785,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Bilibili 在 Safari 的弹幕字体",
+        "link": "https://www.v2ex.com/t/716053",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "微服务的权限验证",
+        "link": "https://www.v2ex.com/t/716052",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "Apple Store 旧机抵扣有谁试过吗 有几个问题想咨询下",
+        "link": "https://www.v2ex.com/t/716051",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "早餐突然想吃肯德基，有没有大神卡能收？",
+        "link": "https://www.v2ex.com/t/716050",
+        "date": "2020-10-18"
+      },
+      {
         "title": "ffmpeg 合并 2 个视频文件时 太慢的问题怎么解决？",
         "link": "https://www.v2ex.com/t/716049",
         "date": "2020-10-18"
@@ -16953,26 +16973,6 @@
         "title": "迫于搬家无法拉网线需要无线中继，求推荐可刷 padavan 的无线路由",
         "link": "https://www.v2ex.com/t/716004",
         "date": "2020-10-17"
-      },
-      {
-        "title": "在 Chrome 里使用哪种代理最快？",
-        "link": "https://www.v2ex.com/t/716003",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "微信复制 PC 端浏览器打开 视频不显示?",
-        "link": "https://www.v2ex.com/t/716002",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "分享下个人业余时间的开源项目：一个 Focus 在技术领域的微博 -- “极客微博”",
-        "link": "https://www.v2ex.com/t/716001",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "纯 IPv6 地址能否使用 IPv4 的 DNS",
-        "link": "https://www.v2ex.com/t/716000",
-        "date": "2020-10-17"
       }
     ]
   },
@@ -17104,11 +17104,6 @@
         "date": "2020-10-18"
       },
       {
-        "title": "协程中的取消和异常：驻留任务详解",
-        "link": "https://toutiao.io/k/k36er6n",
-        "date": "2020-10-18"
-      },
-      {
         "title": "使用人工智能优化 Golang 编译器",
         "link": "https://toutiao.io/k/4tvze1x",
         "date": "2020-10-18"
@@ -17119,8 +17114,8 @@
         "date": "2020-10-18"
       },
       {
-        "title": "ECCV 2020 论文大盘点：图像视频修复篇",
-        "link": "https://toutiao.io/k/dbioycz",
+        "title": "协程中的取消和异常：驻留任务详解",
+        "link": "https://toutiao.io/k/k36er6n",
         "date": "2020-10-18"
       },
       {
@@ -17134,58 +17129,13 @@
         "date": "2020-10-18"
       },
       {
+        "title": "ECCV 2020 论文大盘点：图像视频修复篇",
+        "link": "https://toutiao.io/k/dbioycz",
+        "date": "2020-10-18"
+      },
+      {
         "title": "IAST 安全测试如何防止数据污染",
         "link": "https://toutiao.io/k/62ne0j7",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-18"
       },
       {
@@ -17194,23 +17144,73 @@
         "date": "2020-10-18"
       },
       {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-18"
+      },
+      {
         "title": "[推荐] 我是如何阅读 JDK 源码的？",
         "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
-        "link": "https://toutiao.io/k/kps7o16",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-18"
-      },
-      {
         "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
         "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-18"
       }
     ]

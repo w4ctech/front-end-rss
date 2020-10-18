@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-18 14:14:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 14:28:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -397,7 +397,6 @@
 - [【互联网架构师】一款被大家低估的微服务场景下性能问题排查神器！](https://www.ershicimi.com/p/15da6d82c5f2a839f3a61cd256c39ac3)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】使用人工智能优化-Golang-编译器](https://toutiao.io/k/4tvze1x)
-- [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
 - [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -458,6 +457,7 @@
 - [【全栈前端精选】全栈前端技术交流吐槽⑤群](https://www.ershicimi.com/p/82fb1cc16d4b8abd68ec1e5c14734489)
 - [【全栈前端精选】全栈前端技术交流吐槽⑤群](https://www.ershicimi.com/p/cacfb5cea4f82b73f1ece03f8aa3b69e)
 - [【前端瓶子君】GitHub：再见，master！](https://www.ershicimi.com/p/f03837ba3ed7d53fd8b785002973f87a)
+- [【V2EX】问一个-Macbook-Pro-16"-egpu-外接显卡的问题](https://www.v2ex.com/t/716197)
 - [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】算法刷题宝典.pdf](https://sec.thief.one/article_content?a_id=83004a4c2c4013151db522660c05bddf)
@@ -482,6 +482,7 @@
 - [【前端大学】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/54e33fa9972d09466745caea15b0057e)
 - [【前端日刊】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b)
 - [【JavaScript】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)
+- [【V2EX】CentOS7-安装-docker-配置好镜像加速之后为什么拉取地址指向没有变化？](https://www.v2ex.com/t/716198)
 - [【安全热点】记一次逃逸Docker的渗透测试](https://sec.thief.one/article_content?a_id=005651818434847618b7fc3d91a345a8)
 - [......【查看更多】......](./details/tags/server.md)
 

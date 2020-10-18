@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-18 14:14:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 14:28:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -14,6 +14,7 @@
 - [2020-10-11-全栈前端技术交流吐槽⑤群](https://www.ershicimi.com/p/82fb1cc16d4b8abd68ec1e5c14734489) 
 - [2020-10-10-全栈前端技术交流吐槽⑤群](https://www.ershicimi.com/p/cacfb5cea4f82b73f1ece03f8aa3b69e) 
 - [2020-10-14-GitHub：再见，master！](https://www.ershicimi.com/p/f03837ba3ed7d53fd8b785002973f87a) 
+- [2020-10-18-问一个-Macbook-Pro-16"-egpu-外接显卡的问题](https://www.v2ex.com/t/716197) 
 - [2020-10-18-提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-18-最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-18-算法刷题宝典.pdf](https://sec.thief.one/article_content?a_id=83004a4c2c4013151db522660c05bddf) 

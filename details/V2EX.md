@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-18 07:04:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 07:15:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-三星-Galaxy-Note-20-大家觉得如何](https://www.v2ex.com/t/716109) 
 - [2020-10-18-推荐两部-2020-最新纪录片](https://www.v2ex.com/t/716108) 
 - [2020-10-18-设置路由器-WIFI-为无密码，连接后经常提示不安全](https://www.v2ex.com/t/716107) 
 - [2020-10-18-有人把-Google-photos-照片下载下来传到-iCloud-吗？](https://www.v2ex.com/t/716104) 
@@ -48,4 +49,3 @@
 - [2020-10-18-一加-8T-上手体验及-Pop-up-活动总结](https://www.v2ex.com/t/716062) 
 - [2020-10-18-今天更新软件才发现-好多国内应用在美区全下架了](https://www.v2ex.com/t/716061) 
 - [2020-10-18-我不认为-iphone12-系列屏幕素质一样](https://www.v2ex.com/t/716060) 
-- [2020-10-18-iPhone12-送-usb-c-线，充电头怎么选-？？](https://www.v2ex.com/t/716059) 

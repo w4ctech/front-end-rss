@@ -16441,28 +16441,28 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "前端音视频WebRTC实时通讯的核心",
-        "link": "https://juejin.im/post/6884851075887661070",
+        "title": "优雅实现防抖与节流函数",
+        "link": "https://juejin.im/post/6884920571386134535",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "让你的Mac自动同步代码",
+        "link": "https://juejin.im/post/6884913497377898504",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "Vue3.0 尝鲜",
+        "link": "https://juejin.im/post/6884903713966981127",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "前端工程化概述",
+        "link": "https://juejin.im/post/6884850799688548366",
         "date": "2020-10-17"
       },
       {
-        "title": "Redux源码分析",
-        "link": "https://juejin.im/post/6884825873422221326",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "Vue 数据响应式",
-        "link": "https://juejin.im/post/6884816877785186317",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "JavaScript 数据类型及判断",
-        "link": "https://juejin.im/post/6884813759290966029",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "redux源码以及中间件剖析",
-        "link": "https://juejin.im/post/6884795019141038088",
+        "title": "LeetCode题解：22. 括号生成，递归生成同时过滤，JavaScript，详细注释",
+        "link": "https://juejin.im/post/6884830686369611790",
         "date": "2020-10-17"
       }
     ]
@@ -16850,6 +16850,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "带专还能找到软件测试的工作吗",
+        "link": "https://www.v2ex.com/t/716163",
+        "date": "2020-10-18"
+      },
+      {
         "title": "裸辞了两个月，感觉快抑郁了，当树洞诉诉苦",
         "link": "https://www.v2ex.com/t/716161",
         "date": "2020-10-18"
@@ -17154,136 +17159,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/toutiao/today",
+    "rss": "https://rss.shab.fun/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": [
-      {
-        "title": "30 岁的程序员出路在哪里？| 码农周刊第 321 期",
-        "link": "https://toutiao.io/k/qdeuemt",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "如何优雅地配置快应用的代码片段",
-        "link": "https://toutiao.io/k/35tydue",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "使用人工智能优化 Golang 编译器",
-        "link": "https://toutiao.io/k/4tvze1x",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "太牛皮了！拯救了千千万万程序员必备的 Java 神器，你值得拥有！",
-        "link": "https://toutiao.io/k/kvnybds",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "什么是计算机图形学？",
-        "link": "https://toutiao.io/k/rapdyc4",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "Doug Lea 在 J.U.C 包里面写的 Bug 又被网友发现了",
-        "link": "https://toutiao.io/k/zcma2bb",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "协程中的取消和异常：驻留任务详解",
-        "link": "https://toutiao.io/k/k36er6n",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "PingCAP 黄东旭：想告诉图灵这个世界现在的样子",
-        "link": "https://toutiao.io/k/tl1ql5h",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "ECCV 2020 论文大盘点：图像视频修复篇",
-        "link": "https://toutiao.io/k/dbioycz",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "IAST 安全测试如何防止数据污染",
-        "link": "https://toutiao.io/k/62ne0j7",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-18"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

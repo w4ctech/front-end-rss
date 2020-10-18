@@ -16227,6 +16227,26 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "池建强：过去三年很短，只有极客时间",
+        "link": "https://www.ershicimi.com/p/01423c3b43b5809e4d0ba7d44a784682",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "小心“移植税”：Kubernetes不能使应用程序具有可移植性",
+        "link": "https://www.ershicimi.com/p/3d8cc25e5804aa87910d64601b618884",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "73个强无敌的NPM软件包",
+        "link": "https://www.ershicimi.com/p/8157184ce0103a1fa715462a981eca1d",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "跨越重重“障碍”，我从 PyTorch 转换为了 TensorFlow Lite",
+        "link": "https://www.ershicimi.com/p/cedd79a4f44de5ab79311adc5ee33ef7",
+        "date": "2020-10-18"
+      },
+      {
         "title": "报告：北京80后平均月薪最高，达21411元；iPhone12首批货已售罄；淘宝台湾年底将结束运营｜",
         "link": "https://www.ershicimi.com/p/f6000a8d29d3ea8a82b62811c21504da",
         "date": "2020-10-17"
@@ -16304,26 +16324,6 @@
       {
         "title": "iPhone 12 made in印度，苹果会选择印度取代中国制造吗？",
         "link": "https://www.ershicimi.com/p/092281a8ad6b51f54efde92365df6aaa",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "经纬中国熊飞：开源赛道投资，如何找到下一个 PingCAP？",
-        "link": "https://www.ershicimi.com/p/0c78d5103147a36c2d1bcf0da118cea3",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "13.9k Star, 3.6k Fork —— 技术人如何从0到1打造成功的开源软件？｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/e034b92b078a7d401ade22467a03695e",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "一份重磅“xx秋季技术课堂”独家剧透 ｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/3ab42eab9c6ebe37c2d8ff841da628fe",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "12种Flutter开发工具推荐",
-        "link": "https://www.ershicimi.com/p/ac256cd0dd9e9029ff1e33bfe50a244c",
         "date": "2020-10-14"
       }
     ]
@@ -16850,6 +16850,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "用 iPad pro 做轻量级的编程学习是否可行？",
+        "link": "https://www.v2ex.com/t/716226",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "试用期 满脑子问号",
+        "link": "https://www.v2ex.com/t/716225",
+        "date": "2020-10-18"
+      },
+      {
         "title": "现在苹果售后全线都需要发票了呀",
         "link": "https://www.v2ex.com/t/716224",
         "date": "2020-10-18"
@@ -17023,11 +17033,6 @@
         "title": "袋鼠数据库工具官网通过 DNS 实现国内国外两个服务器自动切换支持",
         "link": "https://www.v2ex.com/t/716177",
         "date": "2020-10-18"
-      },
-      {
-        "title": "求个文件目录生成工具",
-        "link": "https://www.v2ex.com/t/716175",
-        "date": "2020-10-18"
       }
     ]
   },
@@ -17194,28 +17199,8 @@
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-18"
       },
       {
@@ -17229,33 +17214,33 @@
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-18"
       },
       {
@@ -17264,8 +17249,28 @@
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-18"
       }
     ]

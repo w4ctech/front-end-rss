@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-18 06:48:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 07:04:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-推荐两部-2020-最新纪录片](https://www.v2ex.com/t/716108) 
+- [2020-10-18-设置路由器-WIFI-为无密码，连接后经常提示不安全](https://www.v2ex.com/t/716107) 
 - [2020-10-18-有人把-Google-photos-照片下载下来传到-iCloud-吗？](https://www.v2ex.com/t/716104) 
 - [2020-10-18-新加坡Shopee直招-继续招资深-SRE-和-Linux-内核专家!](https://www.v2ex.com/t/716103) 
 - [2020-10-18-大家有什么办法可以把数据增量备份到-115-网盘吗？](https://www.v2ex.com/t/716101) 
@@ -47,6 +49,3 @@
 - [2020-10-18-今天更新软件才发现-好多国内应用在美区全下架了](https://www.v2ex.com/t/716061) 
 - [2020-10-18-我不认为-iphone12-系列屏幕素质一样](https://www.v2ex.com/t/716060) 
 - [2020-10-18-iPhone12-送-usb-c-线，充电头怎么选-？？](https://www.v2ex.com/t/716059) 
-- [2020-10-18-关于古代神话传说的想法](https://www.v2ex.com/t/716058) 
-- [2020-10-18-突然发现-AppleTV-上-Youtube-有-4K-视频品质可以选择了](https://www.v2ex.com/t/716057) 
-- [2020-10-18-想用-Python-系统信息显示，窗口如何固定在任务栏？](https://www.v2ex.com/t/716056) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-18 06:48:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 07:04:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -83,9 +83,9 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-10-14-我在众多AI学习的分享中，找到了最强教学系列视频！](https://www.ershicimi.com/p/eba5bb49df092314f8ce374e745cca90) 
 - [2020-10-09-人工智能从入门到精通系列教学视频免费送](https://www.ershicimi.com/p/4cec892c264b2a104a924d687161940a) 
+- [2020-10-17-前端音视频WebRTC实时通讯的核心](https://juejin.im/post/6884851075887661070) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-10-18-求教，-ffmpeg-合并-2-个视频文件时-太慢的问题怎么解决？](https://www.v2ex.com/t/716065) 
-- [2020-10-18-突然发现-AppleTV-上-Youtube-有-4K-视频品质可以选择了](https://www.v2ex.com/t/716057) 
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) 
 - [2020-10-16-今晚直播预告丨渗透测试神器福利专场](https://sec.thief.one/article_content?a_id=b0fc6d315b562e45a363c8e0671420dd) 
 - [2020-10-16-无处安放的个人安全:3TB家庭摄像机视频,被黑客在线发布!](https://sec.thief.one/article_content?a_id=ec72393a102cb12af92b6a4f2efe9f6d) 

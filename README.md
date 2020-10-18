@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 03:31:02，:rocket: 更新条数: +3494， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 03:37:22，:rocket: 更新条数: +3495， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,10 @@
 </summary>
 
 
+- [2020-10-18-要签中兴吗](https://www.v2ex.com/t/716075) ![](assets/new.png)  
+- [2020-10-18-Mac-上的信息-app-如何批量将未读信息标为已读？](https://www.v2ex.com/t/716074) ![](assets/new.png)  
+- [2020-10-18-iOS-版的腾讯手机管家会自动上传-Wi-Fi-密码吗？](https://www.v2ex.com/t/716073) ![](assets/new.png)  
+- [2020-10-18-我服了，使用-Java-和-Python-运行-ffmpeg-命令，-Java-运行了大半天不出结果，-Python-秒出](https://www.v2ex.com/t/716072) ![](assets/new.png)  
 - [2020-10-18-做了个图床，打算长期运营下去，真诚地希望大家多提建议](https://www.v2ex.com/t/716071) ![](assets/new.png)  
 - [2020-10-18-mac-上有什么可以免费听音乐的软件吗？](https://www.v2ex.com/t/716069) ![](assets/new.png)  
 - [2020-10-18-fq-使用运营商自带的-dns-行吗](https://www.v2ex.com/t/716068) ![](assets/new.png)  
@@ -1073,10 +1077,6 @@
 - [2020-10-18-想用-Python-系统信息显示，窗口如何固定在任务栏？](https://www.v2ex.com/t/716056) ![](assets/new.png)  
 - [2020-10-18-apple-watch-4-有-ID-锁，怎么处理？](https://www.v2ex.com/t/716055) ![](assets/new.png)  
 - [2020-10-18-允许用户上传自定义图片或视频的场景，如何防止被上传恶意代码？](https://www.v2ex.com/t/716054) ![](assets/new.png)  
-- [2020-10-18-Bilibili-在-Safari-的弹幕字体](https://www.v2ex.com/t/716053) ![](assets/new.png)  
-- [2020-10-18-微服务的权限验证](https://www.v2ex.com/t/716052) ![](assets/new.png)  
-- [2020-10-18-Apple-Store-旧机抵扣有谁试过吗-有几个问题想咨询下](https://www.v2ex.com/t/716051) ![](assets/new.png)  
-- [2020-10-18-早餐突然想吃肯德基，有没有大神卡能收？](https://www.v2ex.com/t/716050) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,16 +1129,16 @@
 - [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
-- [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-18-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
 - [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-18-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-18-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-18-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-18-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-18-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-18-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-18-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-18-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
 - [2020-10-18-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-18-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-18-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

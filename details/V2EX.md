@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-18 10:14:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 10:28:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-叉积的定义到底是一个人为假设的模型？还是有现实依据的结论？（再次碰碰运气）](https://www.v2ex.com/t/716148) 
+- [2020-10-18-请永久删除我的账户,-Please-erase-my-account-permanently](https://www.v2ex.com/t/716147) 
 - [2020-10-18-translate.google.cn-被墙了？](https://www.v2ex.com/t/716146) 
 - [2020-10-18-包子记账-联合推荐邀请贴](https://www.v2ex.com/t/716145) 
 - [2020-10-18-招聘-智云健康（杭州）](https://www.v2ex.com/t/716144) 
@@ -41,5 +43,3 @@
 - [2020-10-18-新加坡Shopee直招-继续招资深-SRE-和-Linux-内核专家!](https://www.v2ex.com/t/716103) 
 - [2020-10-18-大家有什么办法可以把数据增量备份到-115-网盘吗？](https://www.v2ex.com/t/716101) 
 - [2020-10-18-Vue-中-TSX-没法和模板一样做到部分组件更新吗？](https://www.v2ex.com/t/716100) 
-- [2020-10-18-实习-微软亚洲研究院-基于资源池化的硬件虚拟化技术研究实习生](https://www.v2ex.com/t/716098) 
-- [2020-10-18-腾讯-PCQQ-存在大量无法被自带文件清理工具识别的图片](https://www.v2ex.com/t/716097) 

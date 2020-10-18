@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-18 02:03:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 02:15:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-突然发现-AppleTV-上-Youtube-有-4K-视频品质可以选择了](https://www.v2ex.com/t/716057) 
 - [2020-10-18-想用-Python-系统信息显示，窗口如何固定在任务栏？](https://www.v2ex.com/t/716056) 
 - [2020-10-18-apple-watch-4-有-ID-锁，怎么处理？](https://www.v2ex.com/t/716055) 
 - [2020-10-18-允许用户上传自定义图片或视频的场景，如何防止被上传恶意代码？](https://www.v2ex.com/t/716054) 

@@ -13622,6 +13622,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "巴西新冠肺炎确诊病例累计破523万 民众对面对面工作仍有担忧",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujFQ5fW6ac76eO4u7nEZ201019&isfromapp=1",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "捷克首位内阁部长新冠病毒检测结果为阳性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2WA90XyrXIS5JGcy5LTf201019&isfromapp=1",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "南非卫生部长新冠病毒检测呈阳性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivrcoR7DheoqkF6f5DN4K201019&isfromapp=1",
+        "date": "2020-10-18"
+      },
+      {
         "title": "4844名第三届进博会志愿者宣誓上岗  制定防疫专项方案",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artishz6PYijCVyNF5W9PZWP201018&isfromapp=1",
         "date": "2020-10-18"
@@ -13629,21 +13644,6 @@
       {
         "title": "青岛疫情防控，这3个“5天纪录”，让人心安！",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNCPa3XiegqfmUJ33eLQQ201018&isfromapp=1",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "美国多州日增病例数急剧反弹 第三拨疫情要来了？",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6G1vordzwXpRyzfHr6MH201018&isfromapp=1",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "世卫组织：全球累计新冠肺炎确诊病例超过3944万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiseWvKxQbGEznuxOn9fNM201018&isfromapp=1",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "设置床位1000张 青岛将建设“平战结合”医院",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiqoo1OvyfwuCgSB6cdYq201018&isfromapp=1",
         "date": "2020-10-18"
       }
     ]
@@ -17996,6 +17996,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iPhone12mini 套一个 Smart Battery Case 怎么样？",
+        "link": "https://www.v2ex.com/t/716233",
+        "date": "2020-10-18"
+      },
+      {
         "title": "每分钟允许尝试密码最大次数，的最佳实践是什么？",
         "link": "https://www.v2ex.com/t/716232",
         "date": "2020-10-18"
@@ -18179,11 +18184,6 @@
         "title": "自家产正宗洛川苹果免费送了～",
         "link": "https://www.v2ex.com/t/716184",
         "date": "2020-10-18"
-      },
-      {
-        "title": "big sur beta10， usr/lib 里面的 dylib 替身都提示找不到其原身了，该怎么处理啊…",
-        "link": "https://www.v2ex.com/t/716183",
-        "date": "2020-10-18"
       }
     ]
   },
@@ -18305,23 +18305,13 @@
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-18"
       },
       {
@@ -18330,8 +18320,13 @@
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-18"
       },
       {
@@ -18340,28 +18335,23 @@
         "date": "2020-10-18"
       },
       {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-18"
+      },
+      {
         "title": "[推荐] B站面试之旅",
         "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-18"
       },
       {
@@ -18370,13 +18360,23 @@
         "date": "2020-10-18"
       },
       {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-18"
+      },
+      {
         "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
         "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-18"
       }
     ]

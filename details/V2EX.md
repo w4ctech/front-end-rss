@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-18 23:38:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 23:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-iPhone12mini-套一个-Smart-Battery-Case-怎么样？](https://www.v2ex.com/t/716233) 
 - [2020-10-18-每分钟允许尝试密码最大次数，的最佳实践是什么？](https://www.v2ex.com/t/716232) 
 - [2020-10-18-4gb-内存的手机在-2020-年够用吗？](https://www.v2ex.com/t/716231) 
 - [2020-10-18-公司太-cheap,-现在一个-8G-i5-的-macBook-2017，把-parceljs-换成-webpack5，结果风扇都-TM-开始震动了](https://www.v2ex.com/t/716230) 
@@ -42,4 +43,3 @@
 - [2020-10-18-Paxos-的变种（一）：-Multi-Paxos-是如何劝退大家去选择-Raft-的](https://www.v2ex.com/t/716187) 
 - [2020-10-18-上海哪里有线下的机械键盘实体体验店？](https://www.v2ex.com/t/716186) 
 - [2020-10-18-自家产正宗洛川苹果免费送了～](https://www.v2ex.com/t/716184) 
-- [2020-10-18-big-sur-beta10，-usr/lib-里面的-dylib-替身都提示找不到其原身了，该怎么处理啊…](https://www.v2ex.com/t/716183) 

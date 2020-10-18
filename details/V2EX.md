@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-18 11:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 11:13:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,5 +41,3 @@
 - [2020-10-18-不想做程序员了，有没有其他的好职业推荐的？](https://www.v2ex.com/t/716106) 
 - [2020-10-18-有人把-Google-photos-照片下载下来传到-iCloud-吗？](https://www.v2ex.com/t/716104) 
 - [2020-10-18-新加坡Shopee直招-继续招资深-SRE-和-Linux-内核专家!](https://www.v2ex.com/t/716103) 
-- [2020-10-18-大家有什么办法可以把数据增量备份到-115-网盘吗？](https://www.v2ex.com/t/716101) 
-- [2020-10-18-Vue-中-TSX-没法和模板一样做到部分组件更新吗？](https://www.v2ex.com/t/716100) 

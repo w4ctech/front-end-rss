@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-18 01:53:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 02:03:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,6 +88,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-10-18-允许用户上传自定义图片或视频的场景，如何防止被上传恶意代码？](https://www.v2ex.com/t/716054) 
 - [2020-10-18-ffmpeg-合并-2-个视频文件时-太慢的问题怎么解决？](https://www.v2ex.com/t/716049) 
 - [2020-10-17-B-站看到了一个扫描二维码以后直接被黑入手机的视频，是不是危言耸听？](https://www.v2ex.com/t/716034) 
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) 

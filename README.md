@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 01:53:44，:rocket: 更新条数: +3718， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 02:03:57，:rocket: 更新条数: +3720， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,14 +65,15 @@
 
 
 - [2020-10-17-10月17日全国新增境外输入新冠13例-累计确诊85672例](http://m.china.caixin.com/m/2020-10-18/101615897.html) ![](assets/new.png)  
+- [2020-10-17-青岛冷链食品外包装首次分离新冠活病毒-中疾控提示风险](https://m.caixin.com/m/2020-10-18/101615901.html) ![](assets/new.png)  
 - [2020-10-16-【境内疫情观察】广州花都新增1例境外输入关联的无症状感染者（10月16日）](http://m.database.caixin.com/m/2020-10-17/101615832.html) ![](assets/new.png)  
 - [2020-10-16-大流行手记|10月16日：美国病例超800万《自然》谴责特朗普践踏科学](https://m.caixin.com/m/2020-10-17/101615725.html) ![](assets/new.png)  
 - [2020-10-15-青岛疫情源头查明-被感染码头工人与普通病区患者共用CT所致](https://m.caixin.com/m/2020-10-16/101615349.html) ![](assets/new.png)  
 - [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) ![](assets/new.png)  
 - [2020-10-15-【境内疫情观察】青岛疫情由患者共用CT室引发（10月15日）](http://m.database.caixin.com/m/2020-10-16/101615364.html) ![](assets/new.png)  
 - [2020-10-15-大流行手记|10月15日：伦敦调高封锁级别-印度感染者或超美国](https://m.caixin.com/m/2020-10-16/101615246.html) ![](assets/new.png)  
-- [2020-10-14-青岛疫情追责启动-市卫健委主任隋振华被停职](https://m.caixin.com/m/2020-10-15/101614928.html) ![](assets/new.png)  
 - [2020-10-14-最新海外疫情：新冠感染超3830万-累计死亡超108万](http://m.international.caixin.com/m/2020-10-15/101615160.html) ![](assets/new.png)  
+- [2020-10-14-青岛疫情追责启动-市卫健委主任隋振华被停职](https://m.caixin.com/m/2020-10-15/101614928.html) ![](assets/new.png)  
 - [2020-10-14-【境内疫情观察】山东新增1例本土确诊病例（10月14日）](http://m.database.caixin.com/m/2020-10-15/101614997.html) ![](assets/new.png)  
 - [2020-10-14-大流行手记|10月14日：欧洲秋冬疫情加剧医疗资源紧张-礼来抗体药试验遇阻](https://m.caixin.com/m/2020-10-15/101614837.html) ![](assets/new.png)  
 - [2020-10-14-伊朗又迎疫情高峰-单日确诊和死亡病例屡破纪录](http://m.international.caixin.com/m/2020-10-15/101615189.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-10-13-国台办回应台防疫部门称新增1例大陆输入病例](http://m.china.caixin.com/m/2020-10-14/101614573.html) ![](assets/new.png)  
 - [2020-10-13-【图集】欧洲疫情反弹加剧-多国重新加强疫情防控举措](http://m.photos.caixin.com/m/2020-10-14/101614566.html) ![](assets/new.png)  
 - [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
-- [2020-10-12-【境内疫情观察】全国新增13例确诊病例（10月12日）](http://m.database.caixin.com/m/2020-10-13/101614090.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-10-17-微信、支付宝“健康宝”绑定手机号不同-返京均需行程申报核验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWxP9zE9DKzPlYKqBPeqw201017&isfromapp=1) ![](assets/new.png)  
-- [2020-10-17-古巴大部分地区将对国际游客恢复开放-旅游业将重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDtK4s4RCVJAMocSVFE0201017&isfromapp=1) ![](assets/new.png)  
-- [2020-10-17-北美观察丨确诊突破800万！美前高官死里逃生-称后悔不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZfDWS26E5xKrWgMFTmQD201017&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-葡萄牙新冠肺炎确诊病例累计达95902例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQob59yYe2hAL4lSGBaGX201017&isfromapp=1) ![](assets/new.png)  
-- [2020-10-16-比利时疫情警戒提升至最高级-全国将实施宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MkQlngWl3XqHDAsLl2n201017&isfromapp=1) ![](assets/new.png)  
+- [2020-10-18-国家卫健委：17日新增新冠肺炎确诊病例13例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCoQQop8ddDCrXHm448zh201018&isfromapp=1) ![](assets/new.png)  
+- [2020-10-17-智利新冠肺炎累计确诊超49万例-检测率为拉美国家中最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaFIz73DUpr7xQ6AxLMWC201018&isfromapp=1) ![](assets/new.png)  
+- [2020-10-17-受新冠肺炎疫情冲击巴西失业率猛增-民众排长队领取食物](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNeWQ35QizlPhfoF6uasN201018&isfromapp=1) ![](assets/new.png)  
+- [2020-10-17-比利时外交大臣维尔梅斯新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSsdh2dqrPxtdOjl1pvrS201018&isfromapp=1) ![](assets/new.png)  
+- [2020-10-17-德国新冠肺炎确诊病例新增7830例-默克尔呼吁民众尽量宅家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuWappNDBE33nlRsXlABe201017&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,8 +967,8 @@
 </summary>
 
 
+- [2020-10-17-用Nodejs实现在终端中炒股](https://juejin.im/post/6884772550921715719) ![](assets/new.png)  
 - [2020-10-17-如何使用React-Hooks请求数据并渲染](https://juejin.im/post/6884772230170050574) ![](assets/new.png)  
-- [2020-10-17-三步法解析Express源码](https://juejin.im/post/6884575671721394189) ![](assets/new.png)  
 - [2020-10-17-koa2中间件的错误捕捉与async/await本质](https://juejin.im/post/6884569526675963912) ![](assets/new.png)  
 - [2020-10-17-高程4中模拟事件触发](https://juejin.im/post/6884569949050781704) ![](assets/new.png)  
 - [2020-10-17-一篇Axios入门教程（for小白）](https://juejin.im/post/6884561821127491597) ![](assets/new.png)  
@@ -1077,6 +1077,9 @@
 </summary>
 
 
+- [2020-10-18-想用-Python-系统信息显示，窗口如何固定在任务栏？](https://www.v2ex.com/t/716056) ![](assets/new.png)  
+- [2020-10-18-apple-watch-4-有-ID-锁，怎么处理？](https://www.v2ex.com/t/716055) ![](assets/new.png)  
+- [2020-10-18-允许用户上传自定义图片或视频的场景，如何防止被上传恶意代码？](https://www.v2ex.com/t/716054) ![](assets/new.png)  
 - [2020-10-18-Bilibili-在-Safari-的弹幕字体](https://www.v2ex.com/t/716053) ![](assets/new.png)  
 - [2020-10-18-微服务的权限验证](https://www.v2ex.com/t/716052) ![](assets/new.png)  
 - [2020-10-18-Apple-Store-旧机抵扣有谁试过吗-有几个问题想咨询下](https://www.v2ex.com/t/716051) ![](assets/new.png)  
@@ -1094,9 +1097,6 @@
 - [2020-10-17-阿里旺旺买家被莫名其妙禁言](https://www.v2ex.com/t/716036) ![](assets/new.png)  
 - [2020-10-17-京东-Plus-会员-20-元立减券](https://www.v2ex.com/t/716035) ![](assets/new.png)  
 - [2020-10-17-B-站看到了一个扫描二维码以后直接被黑入手机的视频，是不是危言耸听？](https://www.v2ex.com/t/716034) ![](assets/new.png)  
-- [2020-10-17-深圳比较方便去东莞常平镇的地方](https://www.v2ex.com/t/716033) ![](assets/new.png)  
-- [2020-10-17-收到一封邮件。荣枯咫尺异-惆怅难再述-花有重开日-人无再少年](https://www.v2ex.com/t/716031) ![](assets/new.png)  
-- [2020-10-17-Windows10.19041-基于-VirtualBox6.1.14-成功安装-macOS-Catalina-10.15.7，如何使用-VirtualBox-的远程桌面功能，能把虚拟机上传到-Oracle-云上运行吗？](https://www.v2ex.com/t/716029) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,23 +1142,23 @@
 - [2020-10-18-30-岁的程序员出路在哪里？|-码农周刊第-321-期](https://toutiao.io/k/qdeuemt) ![](assets/new.png)  
 - [2020-10-18-如何优雅地配置快应用的代码片段](https://toutiao.io/k/35tydue) ![](assets/new.png)  
 - [2020-10-18-太牛皮了！拯救了千千万万程序员必备的-Java-神器，你值得拥有！](https://toutiao.io/k/kvnybds) ![](assets/new.png)  
-- [2020-10-18-使用人工智能优化-Golang-编译器](https://toutiao.io/k/4tvze1x) ![](assets/new.png)  
 - [2020-10-18-什么是计算机图形学？](https://toutiao.io/k/rapdyc4) ![](assets/new.png)  
+- [2020-10-18-使用人工智能优化-Golang-编译器](https://toutiao.io/k/4tvze1x) ![](assets/new.png)  
 - [2020-10-18-协程中的取消和异常：驻留任务详解](https://toutiao.io/k/k36er6n) ![](assets/new.png)  
-- [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-Doug-Lea-在-J.U.C-包里面写的-Bug-又被网友发现了](https://toutiao.io/k/zcma2bb) ![](assets/new.png)  
+- [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
-- [2020-10-18-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-18-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
 - [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-18-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-18-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
+- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
 - [2020-10-18-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-18-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
 - [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-18-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-18-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-18-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-18-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-18-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

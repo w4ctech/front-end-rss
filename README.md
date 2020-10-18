@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 05:04:00，:rocket: 更新条数: +3727， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 05:14:00，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,9 +947,9 @@
 </summary>
 
 
+- [2020-10-17-antd-popover定位不准闪跳解决+自己实现popover库](https://juejin.im/post/6884821462189146119) ![](assets/new.png)  
 - [2020-10-17-用Nodejs实现在终端中炒股](https://juejin.im/post/6884772550921715719) ![](assets/new.png)  
 - [2020-10-17-如何使用React-Hooks请求数据并渲染](https://juejin.im/post/6884772230170050574) ![](assets/new.png)  
-- [2020-10-17-koa2中间件的错误捕捉与async/await本质](https://juejin.im/post/6884569526675963912) ![](assets/new.png)  
 - [2020-10-17-高程4中模拟事件触发](https://juejin.im/post/6884569949050781704) ![](assets/new.png)  
 - [2020-10-17-一篇Axios入门教程（for小白）](https://juejin.im/post/6884561821127491597) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1025,6 +1005,16 @@
 </summary>
 
 
+- [2020-04-15-第四期|前端的规划如何落地](https://www.ershicimi.com/p/4233bce2181a7f01d79d8f80ef35e244) ![](assets/new.png)  
+- [2020-04-13-我和前端早早聊的小故事](https://www.ershicimi.com/p/288c74cf24f39a4866f6b9626741452d) ![](assets/new.png)  
+- [2020-03-31-第三期-|-前端搞搭建一些思考](https://www.ershicimi.com/p/390c83d5208473b69e0d9125c49e95a9) ![](assets/new.png)  
+- [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) ![](assets/new.png)  
+- [2020-03-12-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019) ![](assets/new.png)  
+- [2020-03-11-4W字长文带你深度解锁Webpack系列上](https://www.ershicimi.com/p/13d5f7aa90b75c9a63efce45140f4db4) ![](assets/new.png)  
+- [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) ![](assets/new.png)  
+- [2020-03-01-前端如何搞基建](https://www.ershicimi.com/p/fc1af1d9cfaca3f5d7cb41470add1ace) ![](assets/new.png)  
+- [2020-02-29-旧书常读出新意：从-React-和-Vue-选择猜一猜性格](https://www.ershicimi.com/p/7460ce785b9a139a3e3d8ac5541cd029) ![](assets/new.png)  
+- [2020-02-28-vue-先导章节：纪录片（油管自备梯子）](https://www.ershicimi.com/p/48b35d2f4b2b315a4899517fc094b822) ![](assets/new.png)  
 - [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
 - [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
@@ -1144,21 +1134,21 @@
 - [2020-10-18-使用人工智能优化-Golang-编译器](https://toutiao.io/k/4tvze1x) ![](assets/new.png)  
 - [2020-10-18-太牛皮了！拯救了千千万万程序员必备的-Java-神器，你值得拥有！](https://toutiao.io/k/kvnybds) ![](assets/new.png)  
 - [2020-10-18-什么是计算机图形学？](https://toutiao.io/k/rapdyc4) ![](assets/new.png)  
-- [2020-10-18-Doug-Lea-在-J.U.C-包里面写的-Bug-又被网友发现了](https://toutiao.io/k/zcma2bb) ![](assets/new.png)  
 - [2020-10-18-协程中的取消和异常：驻留任务详解](https://toutiao.io/k/k36er6n) ![](assets/new.png)  
+- [2020-10-18-Doug-Lea-在-J.U.C-包里面写的-Bug-又被网友发现了](https://toutiao.io/k/zcma2bb) ![](assets/new.png)  
 - [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
-- [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-18-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-18-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-18-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-18-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-18-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [2020-10-18-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-18-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
 - [2020-10-18-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
-- [2020-10-18-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

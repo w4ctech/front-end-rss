@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 10:48:51，:rocket: 更新条数: +3502， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 11:03:56，:rocket: 更新条数: +3502， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,8 +64,9 @@
 </summary>
 
 
-- [2020-10-17-10月17日全国新增境外输入新冠13例-累计确诊85672例](http://m.china.caixin.com/m/2020-10-18/101615897.html) ![](assets/new.png)  
+- [2020-10-17-最新疫情：全国新冠累计确诊85672例-新增境外输入13例](https://m.caixin.com/m/2020-10-18/101615972.html) ![](assets/new.png)  
 - [2020-10-17-青岛冷链食品外包装首次分离新冠活病毒-中疾控提示风险](https://m.caixin.com/m/2020-10-18/101615901.html) ![](assets/new.png)  
+- [2020-10-17-最新海外疫情：新冠感染超3948万-累计死亡近110万](http://m.international.caixin.com/m/2020-10-18/101615977.html) ![](assets/new.png)  
 - [2020-10-17-【境内疫情观察】全国新增13例境外输入病例（10月17日）](http://m.database.caixin.com/m/2020-10-18/101615934.html) ![](assets/new.png)  
 - [2020-10-17-大流行手记|10月17日：世卫称瑞德西韦等药物疗效甚微-中东疫情高位增长](https://m.caixin.com/m/2020-10-18/101615905.html) ![](assets/new.png)  
 - [2020-10-16-【境内疫情观察】广州花都新增1例境外输入关联的无症状感染者（10月16日）](http://m.database.caixin.com/m/2020-10-17/101615832.html) ![](assets/new.png)  
@@ -74,7 +75,6 @@
 - [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) ![](assets/new.png)  
 - [2020-10-15-【境内疫情观察】青岛疫情由患者共用CT室引发（10月15日）](http://m.database.caixin.com/m/2020-10-16/101615364.html) ![](assets/new.png)  
 - [2020-10-15-大流行手记|10月15日：伦敦调高封锁级别-印度感染者或超美国](https://m.caixin.com/m/2020-10-16/101615246.html) ![](assets/new.png)  
-- [2020-10-14-最新海外疫情：新冠感染超3830万-累计死亡超108万](http://m.international.caixin.com/m/2020-10-15/101615160.html) ![](assets/new.png)  
 - [2020-10-14-青岛疫情追责启动-市卫健委主任隋振华被停职](https://m.caixin.com/m/2020-10-15/101614928.html) ![](assets/new.png)  
 - [2020-10-14-【境内疫情观察】山东新增1例本土确诊病例（10月14日）](http://m.database.caixin.com/m/2020-10-15/101614997.html) ![](assets/new.png)  
 - [2020-10-14-大流行手记|10月14日：欧洲秋冬疫情加剧医疗资源紧张-礼来抗体药试验遇阻](https://m.caixin.com/m/2020-10-15/101614837.html) ![](assets/new.png)  
@@ -1134,21 +1134,21 @@
 - [2020-10-18-使用人工智能优化-Golang-编译器](https://toutiao.io/k/4tvze1x) ![](assets/new.png)  
 - [2020-10-18-太牛皮了！拯救了千千万万程序员必备的-Java-神器，你值得拥有！](https://toutiao.io/k/kvnybds) ![](assets/new.png)  
 - [2020-10-18-什么是计算机图形学？](https://toutiao.io/k/rapdyc4) ![](assets/new.png)  
-- [2020-10-18-协程中的取消和异常：驻留任务详解](https://toutiao.io/k/k36er6n) ![](assets/new.png)  
 - [2020-10-18-Doug-Lea-在-J.U.C-包里面写的-Bug-又被网友发现了](https://toutiao.io/k/zcma2bb) ![](assets/new.png)  
+- [2020-10-18-协程中的取消和异常：驻留任务详解](https://toutiao.io/k/k36er6n) ![](assets/new.png)  
 - [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
-- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-18-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [2020-10-18-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
 - [2020-10-18-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-18-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-18-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-18-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-18-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-18-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-18-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-18-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1160,26 +1160,26 @@
 </summary>
 
 
+- [2020-10-18-比特币能否重回12000美金,还得看这一关键支撑!](https://sec.thief.one/article_content?a_id=c9da6d1c61efda9a673a0c214e4ac622) ![](assets/new.png)  
+- [2020-10-18-“校园谍战”,Silent-Librarian-黑客组织瞄准全球各地高校](https://sec.thief.one/article_content?a_id=9e5df9092c72cc467c7f13e30c66346e) ![](assets/new.png)  
+- [2020-10-18-【倒计时5天】10月23日,看雪2020-SDC携十大干货议题来了!](https://sec.thief.one/article_content?a_id=8f91b5c1ed3364381706cf2dd93f2e83) ![](assets/new.png)  
+- [2020-10-18-windows令牌窃取几种方式](https://sec.thief.one/article_content?a_id=070579a3249057e0e7746f261606f454) ![](assets/new.png)  
+- [2020-10-18-【视频】|-个人信息保护法:捍卫信息安全](https://sec.thief.one/article_content?a_id=45426dfc7b240b97e788b6617232337b) ![](assets/new.png)  
+- [2020-10-18-周报|谭晓生CSO班授课、网安高光、蒋琼与POC、个信保护法草案等...](https://sec.thief.one/article_content?a_id=4a4db91943490f57221be22ae38cd749) ![](assets/new.png)  
+- [2020-10-18-受感染后的“网络访问权”在黑客论坛上出售-估价高达50万美元](https://sec.thief.one/article_content?a_id=bc1762cfb24e2b5bc946236f85c16eb8) ![](assets/new.png)  
+- [2020-10-18-亚太经合组织电信工作组第61次会议网络安全与繁荣指导组召开线上会...](https://sec.thief.one/article_content?a_id=9b2ed427638ae2997ef68413b9b26d62) ![](assets/new.png)  
+- [2020-10-18-盘点RUNDLL32.EXE的多种滥用方式及检测特征](https://sec.thief.one/article_content?a_id=5cfc23a4582cb08015dd63b4acf81966) ![](assets/new.png)  
+- [2020-10-18-代码审计-.NET下的序列化与反序列化BinaryFormatter](https://sec.thief.one/article_content?a_id=4872c505a9c5153df8ae14f680db81a4) ![](assets/new.png)  
+- [2020-10-18-Egregor勒索软件背后的攻击者泄露了据称来自于Ubisoft-公司的数据](https://sec.thief.one/article_content?a_id=3de67d5bc5c1d07b6a8ec37d898ebebc) ![](assets/new.png)  
+- [2020-10-18-算法刷题宝典.pdf](https://sec.thief.one/article_content?a_id=83004a4c2c4013151db522660c05bddf) ![](assets/new.png)  
+- [2020-10-18-详解零信任架构中的安全网关](https://sec.thief.one/article_content?a_id=16782800915cf60d15206ee06bfeecb5) ![](assets/new.png)  
+- [2020-10-18-木马隐藏技巧](https://sec.thief.one/article_content?a_id=9cecde26809096f05fc8da4e43b28394) ![](assets/new.png)  
+- [2020-10-17-Numpy高级操作大全!!!](https://sec.thief.one/article_content?a_id=0a6f365708251fad9ca689a6dbeaf65f) ![](assets/new.png)  
+- [2020-10-17-【安全圈】数据泄露!新冠疫情下全球70%企业渴望“零信任架构”](https://sec.thief.one/article_content?a_id=ee0a3b5004f2718511ed368ac9ca5c22) ![](assets/new.png)  
 - [2020-10-17-日本银行称,“没有任何一种单一加密货币能够主导全球-”](https://sec.thief.one/article_content?a_id=3e36cb0da2f39e91183f89b1c986d142) ![](assets/new.png)  
 - [2020-10-17-XX音乐缓存加密算法分析](https://sec.thief.one/article_content?a_id=d2a99a2bfc635ba663ba2f0a7acbb6c6) ![](assets/new.png)  
 - [2020-10-17-360安全大脑连续发现Windows系统15枚高危漏洞-,再获微软官方致谢...](https://sec.thief.one/article_content?a_id=3dc5150dcb78ec40b14a697d455ea352) ![](assets/new.png)  
 - [2020-10-17-【地评线】脱贫有“数”-底气更足](https://sec.thief.one/article_content?a_id=97e32622ed141250eb7734d04f1c0b5f) ![](assets/new.png)  
-- [2020-10-17-BUF大事件丨个人信息保护法草案首亮相;杀毒软件McAfee创始人被捕](https://sec.thief.one/article_content?a_id=82687f2e3ea8904cb2e0c21adb17cf10) ![](assets/new.png)  
-- [2020-10-17-【倒计时6天】大牛带来低成本且高效的芯片内存加固方案,千万别错...](https://sec.thief.one/article_content?a_id=6d4f889d184c491f50f0d03333800b2a) ![](assets/new.png)  
-- [2020-10-17-爆火《优雅的Python》进阶电子书,终于开放下载了!](https://sec.thief.one/article_content?a_id=dddf4eeb480a74020940bb405955462f) ![](assets/new.png)  
-- [2020-10-17-OKEX暂停提币事件发酵,比特币市场整体下滑](https://sec.thief.one/article_content?a_id=13929997885ab98fdb55da69adddef7d) ![](assets/new.png)  
-- [2020-10-17-使用ssh隧道做三层流量代理](https://sec.thief.one/article_content?a_id=ceedc5e843a102dc2d3bd0c91d6dda34) ![](assets/new.png)  
-- [2020-10-17-安恒信息2020年金融行业攻防演习再获佳绩!](https://sec.thief.one/article_content?a_id=478d1425a81542f02c20bc5cfd9a24c8) ![](assets/new.png)  
-- [2020-10-17-感染Windows最常见的恶意电子邮件附件](https://sec.thief.one/article_content?a_id=22b7a958f601fb083b8620ae0f1c32ae) ![](assets/new.png)  
-- [2020-10-17-通过云计算服务安全评估的云平台](https://sec.thief.one/article_content?a_id=e852334c677f59eaf019571b95395b73) ![](assets/new.png)  
-- [2020-10-17-在看-|-一周网安回顾-2020.10.10~10.16](https://sec.thief.one/article_content?a_id=3ed48e7c2e00151a167385e0a69b5640) ![](assets/new.png)  
-- [2020-10-17-Sonatype-Nexus-Repository-Manager权限绕过漏洞](https://sec.thief.one/article_content?a_id=de41a2d04ba0caf02b1c0adba1435a77) ![](assets/new.png)  
-- [2020-10-17-某平台后存在弱口令可直接爆破登录后台](https://sec.thief.one/article_content?a_id=2e856bbebe0cc35fc68459e44c3664c5) ![](assets/new.png)  
-- [2020-10-17-小程序渗透-|-对酒店房间自助售货机的支付漏洞挖掘](https://sec.thief.one/article_content?a_id=9bc654e16d043dae8b0161870d334a3e) ![](assets/new.png)  
-- [2020-10-17-《-2020年抖音用户画像报告-》](https://sec.thief.one/article_content?a_id=576dbb6ba9868acb6f4e69ea0ff04942) ![](assets/new.png)  
-- [2020-10-17-2020软科中国最好学科排名发布,各专业到底哪家强?](https://sec.thief.one/article_content?a_id=35183e00672141dbe18c584d67b801ba) ![](assets/new.png)  
-- [2020-10-17-慕尼黑警方突袭FinFisher监视软件公司办公室,指控后者向专制政权销...](https://sec.thief.one/article_content?a_id=41be78a68bd3f1458c1c41a543f85de7) ![](assets/new.png)  
-- [2020-10-17-《2019年智能音箱安全白皮书》解读-附下载](https://sec.thief.one/article_content?a_id=4a51bfa53e9253457944cc93f342b01b) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

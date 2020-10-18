@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-18 10:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 11:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,7 +86,7 @@
 - [2020-10-17-前端音视频WebRTC实时通讯的核心](https://juejin.im/post/6884851075887661070) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) 
+- [2020-10-18-【视频】|-个人信息保护法:捍卫信息安全](https://sec.thief.one/article_content?a_id=45426dfc7b240b97e788b6617232337b) 
 - [2020-10-16-今晚直播预告丨渗透测试神器福利专场](https://sec.thief.one/article_content?a_id=b0fc6d315b562e45a363c8e0671420dd) 
 - [2020-10-16-无处安放的个人安全:3TB家庭摄像机视频,被黑客在线发布!](https://sec.thief.one/article_content?a_id=ec72393a102cb12af92b6a4f2efe9f6d) 
 - [2020-10-15-今晚7点半直播,GeekPwn云安全挑战赛亮点大揭秘](https://sec.thief.one/article_content?a_id=536072982ca7ee95c325bd81411dbf21) 
-- [2020-10-15-【视频】|-Python:打印三角形嵌套循环](https://sec.thief.one/article_content?a_id=98104c52b283b2fc465b63c690bca3ab) 

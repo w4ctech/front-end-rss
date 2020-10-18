@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-18 10:48:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 11:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,6 +40,9 @@
 - [2020-10-18-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-18-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) 
+- [2020-10-18-亚太经合组织电信工作组第61次会议网络安全与繁荣指导组召开线上会...](https://sec.thief.one/article_content?a_id=9b2ed427638ae2997ef68413b9b26d62) 
+- [2020-10-18-详解零信任架构中的安全网关](https://sec.thief.one/article_content?a_id=16782800915cf60d15206ee06bfeecb5) 
+- [2020-10-17-【安全圈】数据泄露!新冠疫情下全球70%企业渴望“零信任架构”](https://sec.thief.one/article_content?a_id=ee0a3b5004f2718511ed368ac9ca5c22) 
 - [2020-10-17-XX音乐缓存加密算法分析](https://sec.thief.one/article_content?a_id=d2a99a2bfc635ba663ba2f0a7acbb6c6) 
 - [2020-10-17-360安全大脑连续发现Windows系统15枚高危漏洞-,再获微软官方致谢...](https://sec.thief.one/article_content?a_id=3dc5150dcb78ec40b14a697d455ea352) 
 - [2020-10-17-通过云计算服务安全评估的云平台](https://sec.thief.one/article_content?a_id=e852334c677f59eaf019571b95395b73) 
@@ -63,5 +66,3 @@
 - [2020-10-15-【漏洞预警】CNNVD关于微软多个安全漏洞的通报](https://sec.thief.one/article_content?a_id=b2c34464b97294066a68ec0538ed98ad) 
 - [2020-10-15-最新监管法规、10月标准实施、地方政策-|-近期重磅网络安全资讯](https://sec.thief.one/article_content?a_id=d701b90afddd3fc52e22c9ce0ddb3f4a) 
 - [2020-10-15-微软10月安全更新补丁和TCP/IP高危漏洞风险提示](https://sec.thief.one/article_content?a_id=390a52a1955aeb1076b8aeec2f5c31b1) 
-- [2020-10-15-Windows-IPv6-协议栈中的安全漏洞](https://sec.thief.one/article_content?a_id=50e7cf631bf4c53dfba3816d90e115ae) 
-- [2020-10-15-网络安全主题诱饵,配合新型后门WinClouds肆虐南亚地区](https://sec.thief.one/article_content?a_id=389962aa1aad62b1a3cea9e4693d5270) 

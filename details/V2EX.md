@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-18 22:14:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 22:27:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-4gb-内存的手机在-2020-年够用吗？](https://www.v2ex.com/t/716231) 
 - [2020-10-18-公司太-cheap,-现在一个-8G-i5-的-macBook-2017，把-parceljs-换成-webpack5，结果风扇都-TM-开始震动了](https://www.v2ex.com/t/716230) 
 - [2020-10-18-基于-Airplay/Miracast-Server-协议的视频下载工具](https://www.v2ex.com/t/716228) 
 - [2020-10-18-请问-MacBook-Pro-用上那种塑料的保护壳，对整机散热影响有多大？](https://www.v2ex.com/t/716227) 

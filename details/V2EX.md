@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-18 00:40:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 01:15:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-18-非-iPhone-12-手机壳加个-MagSafe-环是不是也能磁吸使用-MagSafe-无线充](https://www.v2ex.com/t/716045) 
+- [2020-10-18-xmake-v2.3.8-发布,-新增-Intel-C++/Fortran-编译器支持](https://www.v2ex.com/t/716044) 
+- [2020-10-18-如何提取-PDF-文档中的文字-（备注：文字被转曲线了）](https://www.v2ex.com/t/716043) 
+- [2020-10-18-你们的台式机编程，风噪怎么样？](https://www.v2ex.com/t/716042) 
 - [2020-10-17-看日志痛苦——可能是你方法不对:推荐一款通用日志分析工具](https://www.v2ex.com/t/716040) 
 - [2020-10-17-成都电信移动联通-4G-5G-网络选择](https://www.v2ex.com/t/716038) 
 - [2020-10-17-macbook-pro-night-shift-只能用在一个屏幕](https://www.v2ex.com/t/716037) 
@@ -38,6 +42,3 @@
 - [2020-10-17-纯-IPv6-地址能否使用-IPv4-的-DNS](https://www.v2ex.com/t/716000) 
 - [2020-10-17-发现一个出售-lol-手游内测的淘宝商品](https://www.v2ex.com/t/715999) 
 - [2020-10-17-Python-内存问题求教](https://www.v2ex.com/t/715997) 
-- [2020-10-17-2020-年了，你们的宽带速度是?](https://www.v2ex.com/t/715996) 
-- [2020-10-17-安卓版-chrome-加入安全-dns](https://www.v2ex.com/t/715995) 
-- [2020-10-17-送电动牙刷了，简单粗暴，先到先得，一共-18-个位置](https://www.v2ex.com/t/715993) 

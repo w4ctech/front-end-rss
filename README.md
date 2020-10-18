@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 13:13:44，:rocket: 更新条数: +3502， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 13:26:16，:rocket: 更新条数: +3502， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,11 +947,11 @@
 </summary>
 
 
+- [2020-10-18-敏感数据加密方案及实现](https://juejin.im/post/6884947933150576653) ![](assets/new.png)  
 - [2020-10-18-webPack从零搭建react脚手架](https://juejin.im/post/6884912991859867662) ![](assets/new.png)  
 - [2020-10-18-在vue中使用FullCalendar（vue2.0的日历插件）](https://juejin.im/post/6884875189130100744) ![](assets/new.png)  
 - [2020-10-17-Vue响应式原理（二）Observer、Dep、Watcher](https://juejin.im/post/6884864961223327751) ![](assets/new.png)  
 - [2020-10-17-Preact源码阅读（三）--更新机制](https://juejin.im/post/6884862792923840526) ![](assets/new.png)  
-- [2020-10-17-vue任意关系组件通信与跨组件监听状态-vue-communication](https://juejin.im/post/6884848673981726733) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,10 @@
 </summary>
 
 
+- [2020-10-18-big-sur-beta10，-usr/lib-里面的-dylib-替身都提示找不到其原身了，该怎么处理啊…](https://www.v2ex.com/t/716183) ![](assets/new.png)  
+- [2020-10-18-大佬们那种拼图的验证码应该是后台生成的吧？](https://www.v2ex.com/t/716182) ![](assets/new.png)  
+- [2020-10-18-如果你是你现在开发的产品的忠实用户，你会不会在工作甚至加班时更有热情](https://www.v2ex.com/t/716180) ![](assets/new.png)  
+- [2020-10-18-29-岁程序员的感慨](https://www.v2ex.com/t/716179) ![](assets/new.png)  
 - [2020-10-18-我觉的-V-站快成吐槽根据地了](https://www.v2ex.com/t/716178) ![](assets/new.png)  
 - [2020-10-18-袋鼠数据库工具官网通过-DNS-实现国内国外两个服务器自动切换支持](https://www.v2ex.com/t/716177) ![](assets/new.png)  
 - [2020-10-18-求个文件目录生成工具](https://www.v2ex.com/t/716175) ![](assets/new.png)  
@@ -1083,10 +1087,6 @@
 - [2020-10-18-帖子被降权-现在连-V-站都不能吐露心声了吗？](https://www.v2ex.com/t/716159) ![](assets/new.png)  
 - [2020-10-18-2020-年了，你们的运营商套餐是？](https://www.v2ex.com/t/716157) ![](assets/new.png)  
 - [2020-10-18-xiuno-BBS-使用-jsdelivr-加速](https://www.v2ex.com/t/716156) ![](assets/new.png)  
-- [2020-10-18-字节跳动的-data-部门是核心部门吗](https://www.v2ex.com/t/716155) ![](assets/new.png)  
-- [2020-10-18-通过自媒体获得的第一笔收入☝️-分享下这个时刻](https://www.v2ex.com/t/716154) ![](assets/new.png)  
-- [2020-10-18-深圳南山TCL-电子社招-Java-/安卓/测试/运维](https://www.v2ex.com/t/716153) ![](assets/new.png)  
-- [2020-10-18-求教各位上班时听歌忍不住想跟着律动晃怎么办](https://www.v2ex.com/t/716152) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,15 +1139,15 @@
 - [2020-10-18-PingCAP-黄东旭：想告诉图灵这个世界现在的样子](https://toutiao.io/k/tl1ql5h) ![](assets/new.png)  
 - [2020-10-18-ECCV-2020-论文大盘点：图像视频修复篇](https://toutiao.io/k/dbioycz) ![](assets/new.png)  
 - [2020-10-18-IAST-安全测试如何防止数据污染](https://toutiao.io/k/62ne0j7) ![](assets/new.png)  
-- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-18-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-18-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-18-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-18-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
 - [2020-10-18-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-18-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-18-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-18-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-18-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-18-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-18-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-18-推荐-30-个-Go-语言常用文件操作汇总，总有一个你会用的到](https://toutiao.io/k/kps7o16) ![](assets/new.png)  
 - [2020-10-18-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-18-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [2020-10-18-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

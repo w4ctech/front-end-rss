@@ -16441,6 +16441,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "敏感数据加密方案及实现",
+        "link": "https://juejin.im/post/6884947933150576653",
+        "date": "2020-10-18"
+      },
+      {
         "title": "webPack从零搭建react脚手架",
         "link": "https://juejin.im/post/6884912991859867662",
         "date": "2020-10-18"
@@ -16458,11 +16463,6 @@
       {
         "title": "Preact源码阅读（三）- 更新机制",
         "link": "https://juejin.im/post/6884862792923840526",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "vue任意关系组件通信与跨组件监听状态 vue-communication",
-        "link": "https://juejin.im/post/6884848673981726733",
         "date": "2020-10-17"
       }
     ]
@@ -16850,6 +16850,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "big sur beta10， usr/lib 里面的 dylib 替身都提示找不到其原身了，该怎么处理啊…",
+        "link": "https://www.v2ex.com/t/716183",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "大佬们那种拼图的验证码应该是后台生成的吧？",
+        "link": "https://www.v2ex.com/t/716182",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "如果你是你现在开发的产品的忠实用户，你会不会在工作(甚至加班)时更有热情",
+        "link": "https://www.v2ex.com/t/716180",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "29 岁程序员的感慨",
+        "link": "https://www.v2ex.com/t/716179",
+        "date": "2020-10-18"
+      },
+      {
         "title": "我觉的 V 站快成吐槽根据地了",
         "link": "https://www.v2ex.com/t/716178",
         "date": "2020-10-18"
@@ -17018,26 +17038,6 @@
         "title": "这两个服务器选哪个好？",
         "link": "https://www.v2ex.com/t/716134",
         "date": "2020-10-18"
-      },
-      {
-        "title": "siri 资料，重按触控板查询出现的 siri 资料已经变残废",
-        "link": "https://www.v2ex.com/t/716133",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "字条网络-内推",
-        "link": "https://www.v2ex.com/t/716132",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "苹果 CMS 怎么加 G adsense 代码呢",
-        "link": "https://www.v2ex.com/t/716130",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "求个给小孩起名的软件工具",
-        "link": "https://www.v2ex.com/t/716129",
-        "date": "2020-10-18"
       }
     ]
   },
@@ -17204,13 +17204,8 @@
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-18"
       },
       {
@@ -17219,43 +17214,13 @@
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-18"
       },
       {
@@ -17264,13 +17229,48 @@
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-18"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 30 个 Go 语言常用文件操作汇总，总有一个你会用的到",
+        "link": "https://toutiao.io/k/kps7o16",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-18"
       },
       {

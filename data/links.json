@@ -10,8 +10,18 @@
         "date": "2020-10-18"
       },
       {
+        "title": "特写|新冠疫苗紧急使用人群继续扩大",
+        "link": "https://m.caixin.com/m/2020-10-19/101616151.html",
+        "date": "2020-10-18"
+      },
+      {
         "title": "高福：青岛冷链食品外包装首次分离新冠活病毒意义何在",
         "link": "https://m.caixin.com/m/2020-10-19/101615998.html",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "【境内疫情观察】全国新增13例境外输入病例（10月18日）",
+        "link": "http://m.database.caixin.com/m/2020-10-19/101616154.html",
         "date": "2020-10-18"
       },
       {
@@ -20,13 +30,13 @@
         "date": "2020-10-18"
       },
       {
-        "title": "青岛冷链食品外包装首次分离新冠活病毒 中疾控提示风险",
-        "link": "https://m.caixin.com/m/2020-10-18/101615901.html",
+        "title": "最新海外疫情：新冠感染超3948万 累计死亡近110万",
+        "link": "http://m.international.caixin.com/m/2020-10-18/101615977.html",
         "date": "2020-10-17"
       },
       {
-        "title": "最新海外疫情：新冠感染超3948万 累计死亡近110万",
-        "link": "http://m.international.caixin.com/m/2020-10-18/101615977.html",
+        "title": "青岛冷链食品外包装首次分离新冠活病毒 中疾控提示风险",
+        "link": "https://m.caixin.com/m/2020-10-18/101615901.html",
         "date": "2020-10-17"
       },
       {
@@ -13632,6 +13642,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "乌克兰新增4766例新冠肺炎确诊病例 累计确诊303638例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilDFYw47wBJPFmTZnJ78e201019&isfromapp=1",
+        "date": "2020-10-19"
+      },
+      {
         "title": "由负转正！国家统计局：中国经济复苏走在全球前列",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii6SN8emUzb9GDhHHxHNF201019&isfromapp=1",
         "date": "2020-10-19"
@@ -13649,11 +13664,6 @@
       {
         "title": "巴西新冠肺炎确诊病例累计破523万 民众对面对面工作仍有担忧",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujFQ5fW6ac76eO4u7nEZ201019&isfromapp=1",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "捷克首位内阁部长新冠病毒检测结果为阳性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2WA90XyrXIS5JGcy5LTf201019&isfromapp=1",
         "date": "2020-10-18"
       }
     ]
@@ -17597,6 +17607,16 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "qiankun 2.x 运行时沙箱 源码分析",
+        "link": "https://juejin.im/post/6885214342552223757",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "HTML Entry 源码分析",
+        "link": "https://juejin.im/post/6885212507837825038",
+        "date": "2020-10-18"
+      },
+      {
         "title": "微信H5 React + Umi 开发实践总结",
         "link": "https://juejin.im/post/6885207101052813319",
         "date": "2020-10-18"
@@ -17609,16 +17629,6 @@
       {
         "title": "Svelte 初探",
         "link": "https://juejin.im/post/6885163732146585607",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "React 中的虚拟 DOM 和 diff 算法",
-        "link": "https://juejin.im/post/6885163621358403597",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "React 函数式组件的性能优化",
-        "link": "https://juejin.im/post/6885162791632633870",
         "date": "2020-10-18"
       }
     ]
@@ -18006,6 +18016,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[杭州/北京]蚂蚁集团技术风险数据智能平台 - Java 高级开发工程师/技术专家",
+        "link": "https://www.v2ex.com/t/716386",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "有什么适合 5 万元半年左右的理财方案？",
+        "link": "https://www.v2ex.com/t/716385",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "饿了么工作人员麻烦进来挨打",
+        "link": "https://www.v2ex.com/t/716384",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[北京社招] [开黑啦] 高级 Windows 开发工程师 25k-40k*14 薪",
+        "link": "https://www.v2ex.com/t/716383",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "「前端/ Java 」「北京/上海/武汉/成都/合肥」「良心公司」「楼主亲测」",
+        "link": "https://www.v2ex.com/t/716380",
+        "date": "2020-10-19"
+      },
+      {
         "title": "macOS 看英文视频在线翻译的软件？",
         "link": "https://www.v2ex.com/t/716378",
         "date": "2020-10-19"
@@ -18148,46 +18183,6 @@
       {
         "title": "微信小程序和其内 webview 单页面的体验区别？",
         "link": "https://www.v2ex.com/t/716339",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "之前 5 月被裁，算是变相裸辞了近 2 个月，分享下我的经历",
-        "link": "https://www.v2ex.com/t/716337",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "请教如何快速删除大文件的第一行？除了 sed-i",
-        "link": "https://www.v2ex.com/t/716336",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "官网 iPhone 全线在售机型都已加入“环保计划”",
-        "link": "https://www.v2ex.com/t/716335",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "为什么 Office Word 没有进化出“格式模板”之类的机制？",
-        "link": "https://www.v2ex.com/t/716334",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "上海租房问题",
-        "link": "https://www.v2ex.com/t/716333",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[南京] .net 开发工程师",
-        "link": "https://www.v2ex.com/t/716332",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "Offer 比较 求兄弟姐妹们指导",
-        "link": "https://www.v2ex.com/t/716331",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "急招 [团队直推] [阿里-盒马产品技术部] 招聘 Java 高级开发工程师-大量 HC， P6 及以上",
-        "link": "https://www.v2ex.com/t/716330",
         "date": "2020-10-19"
       }
     ]
@@ -18380,18 +18375,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "Kafka 监控工具之 CMAK",
-        "link": "https://toutiao.io/k/fzzch9i",
-        "date": "2020-10-19"
-      },
-      {
         "title": "产品设计方法论：Amazon 逆向工作法",
         "link": "https://toutiao.io/k/o5hhx9b",
         "date": "2020-10-19"
       },
       {
-        "title": "Kotlin Collection VS Kotlin Sequence VS Java Stream",
-        "link": "https://toutiao.io/k/9lzdibp",
+        "title": "Kafka 监控工具之 CMAK",
+        "link": "https://toutiao.io/k/fzzch9i",
         "date": "2020-10-19"
       },
       {
@@ -18400,58 +18390,18 @@
         "date": "2020-10-19"
       },
       {
+        "title": "Kotlin Collection VS Kotlin Sequence VS Java Stream",
+        "link": "https://toutiao.io/k/9lzdibp",
+        "date": "2020-10-19"
+      },
+      {
         "title": "从 HTTP 协议层面探讨 Bypass",
         "link": "https://toutiao.io/k/ta14m5w",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-19"
       },
       {
@@ -18460,8 +18410,33 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-19"
       },
       {
@@ -18470,13 +18445,33 @@
         "date": "2020-10-19"
       },
       {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-19"
+      },
+      {
         "title": "[推荐] 时间轮在 Kafka 的实践",
         "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-19"
       }
     ]

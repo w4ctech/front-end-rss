@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 19:49:02，:rocket: 更新条数: +3746， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 20:04:23，:rocket: 更新条数: +3746， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,7 @@
 </summary>
 
 
+- [2020-10-19-macOS-上不小心按了-rm--rf-还能恢复吗？-或者能不能查看下被删除了哪些文件](https://www.v2ex.com/t/716542) ![](assets/new.png)  
 - [2020-10-19-2020-年了，安卓为什么还这么糟心啊，是我使用的姿势不对吗？](https://www.v2ex.com/t/716541) ![](assets/new.png)  
 - [2020-10-19-同一根光纤分出-2-个的电信宽带能一根故障一根不故障吗？](https://www.v2ex.com/t/716539) ![](assets/new.png)  
 - [2020-10-19-nPlayer-播放视频如何加载外部音轨？](https://www.v2ex.com/t/716536) ![](assets/new.png)  
@@ -1106,7 +1107,6 @@
 - [2020-10-19-有没有方便快捷的方式排查分类网易云音乐本地文件？](https://www.v2ex.com/t/716521) ![](assets/new.png)  
 - [2020-10-19-奇怪的电脑故障](https://www.v2ex.com/t/716519) ![](assets/new.png)  
 - [2020-10-19-Solidot-的-WoTrus-证书不被信任](https://www.v2ex.com/t/716517) ![](assets/new.png)  
-- [2020-10-19-有一个过时的-ipadmini2-和-ipad1,-能做点什么用呢](https://www.v2ex.com/t/716516) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

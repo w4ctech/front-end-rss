@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 11:49:16，:rocket: 更新条数: +3748， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 12:05:05，:rocket: 更新条数: +3745， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,12 +64,10 @@
 </summary>
 
 
-- [2020-10-18-10月18日全国新增境外输入新冠13例-累计确诊85685例](https://m.caixin.com/m/2020-10-19/101616012.html) ![](assets/new.png)  
 - [2020-10-18-特写|新冠疫苗紧急使用人群继续扩大](https://m.caixin.com/m/2020-10-19/101616151.html) ![](assets/new.png)  
 - [2020-10-18-高福：青岛冷链食品外包装首次分离新冠活病毒意义何在](https://m.caixin.com/m/2020-10-19/101615998.html) ![](assets/new.png)  
 - [2020-10-18-【境内疫情观察】全国新增13例境外输入病例（10月18日）](http://m.database.caixin.com/m/2020-10-19/101616154.html) ![](assets/new.png)  
 - [2020-10-18-大流行手记|10月18日：全球单日新增病例连创新高-法国巴黎等地再宵禁](https://m.caixin.com/m/2020-10-19/101616004.html) ![](assets/new.png)  
-- [2020-10-17-最新海外疫情：新冠感染超3948万-累计死亡近110万](http://m.international.caixin.com/m/2020-10-18/101615977.html) ![](assets/new.png)  
 - [2020-10-17-青岛冷链食品外包装首次分离新冠活病毒-中疾控提示风险](https://m.caixin.com/m/2020-10-18/101615901.html) ![](assets/new.png)  
 - [2020-10-17-【境内疫情观察】全国新增13例境外输入病例（10月17日）](http://m.database.caixin.com/m/2020-10-18/101615934.html) ![](assets/new.png)  
 - [2020-10-17-大流行手记|10月17日：世卫称瑞德西韦等药物疗效甚微-中东疫情高位增长](https://m.caixin.com/m/2020-10-18/101615905.html) ![](assets/new.png)  
@@ -84,6 +82,8 @@
 - [2020-10-14-大流行手记|10月14日：欧洲秋冬疫情加剧医疗资源紧张-礼来抗体药试验遇阻](https://m.caixin.com/m/2020-10-15/101614837.html) ![](assets/new.png)  
 - [2020-10-14-伊朗又迎疫情高峰-单日确诊和死亡病例屡破纪录](http://m.international.caixin.com/m/2020-10-15/101615189.html) ![](assets/new.png)  
 - [2020-10-13-独家|青岛疫情或源于早前码头工人感染-专家称暂未发现社区传播](https://m.caixin.com/m/2020-10-14/101614662.html) ![](assets/new.png)  
+- [2020-10-13-【境内疫情观察】山东新增6例本土确诊病例（10月13日）](http://m.database.caixin.com/m/2020-10-14/101614534.html) ![](assets/new.png)  
+- [2020-10-13-大流行手记|10月13日：全球新冠病亡率下降-世卫官员反对群体免疫策略](https://m.caixin.com/m/2020-10-14/101614424.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -970,8 +970,8 @@
 - [2020-10-19-【数据结构与算法】详解什么是队列，并用代码手动实现一个队列结构](https://juejin.im/post/6885289729060536327) ![](assets/new.png)  
 - [2020-10-19-因直播了解webRTC](https://juejin.im/post/6885266397295804429) ![](assets/new.png)  
 - [2020-10-19-【真香系列】Vue-Next-源码第五章](https://juejin.im/post/6885252127934349320) ![](assets/new.png)  
+- [2020-10-19-坚持造轮子第二天---防抖与节流](https://juejin.im/post/6885250789825052679) ![](assets/new.png)  
 - [2020-10-18-我踩过的坑之：canvas图像模糊、有锯齿](https://juejin.im/post/6885226710623764488) ![](assets/new.png)  
-- [2020-10-18-微前端框架-之-qiankun-从入门到精通](https://juejin.im/post/6885211340999229454) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,10 @@
 </summary>
 
 
+- [2020-10-19-公益活动：-为中国的夏尔巴人群体献爱心](https://www.v2ex.com/t/716481) ![](assets/new.png)  
+- [2020-10-19-像-Github-Action-这样的平台，是如何存储命令输出的呢](https://www.v2ex.com/t/716480) ![](assets/new.png)  
+- [2020-10-19-这个腾讯王卡怎么回事？免费配种？](https://www.v2ex.com/t/716479) ![](assets/new.png)  
+- [2020-10-19-南京工作日-拼酒店](https://www.v2ex.com/t/716477) ![](assets/new.png)  
 - [2020-10-19-怎么向领导展现自己的能力呢？](https://www.v2ex.com/t/716476) ![](assets/new.png)  
 - [2020-10-19-高德地图-web-页面为何如此臃肿缓慢](https://www.v2ex.com/t/716475) ![](assets/new.png)  
 - [2020-10-19-macOS-10.15.7-偶发性重启，有知道原因的大神吗？](https://www.v2ex.com/t/716472) ![](assets/new.png)  
@@ -1103,10 +1107,6 @@
 - [2020-10-19-在-Titan-RTX-上的深度学习模型还没有-CPU-和-1650-快](https://www.v2ex.com/t/716457) ![](assets/new.png)  
 - [2020-10-19-前端简历各位大侠看看我的简历有什么问题吗？](https://www.v2ex.com/t/716455) ![](assets/new.png)  
 - [2020-10-19-求问，今天如果下单-12，大概什么时间段能收到？这个月还是下个月](https://www.v2ex.com/t/716454) ![](assets/new.png)  
-- [2020-10-19-请教一下-GmailBot-的问题](https://www.v2ex.com/t/716453) ![](assets/new.png)  
-- [2020-10-19-双卡-iPhone12-不能跑-5G](https://www.v2ex.com/t/716451) ![](assets/new.png)  
-- [2020-10-19-329-元的-MagSafe-充电器才-5W](https://www.v2ex.com/t/716450) ![](assets/new.png)  
-- [2020-10-19-如何学习设计模式？](https://www.v2ex.com/t/716449) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1154,8 +1154,8 @@
 - [2020-10-19-Spring-Boot-开发秘籍：事件异步处理](https://toutiao.io/k/y424dbu) ![](assets/new.png)  
 - [2020-10-19-星星之火，可否燎原：关于深度学习和大数据系统融合现状的认识](https://toutiao.io/k/sdb9eoy) ![](assets/new.png)  
 - [2020-10-19-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
-- [2020-10-19-Service-Mesh-的关键：边车模式-sidecar；又要开车了](https://toutiao.io/k/vys6n4c) ![](assets/new.png)  
 - [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
+- [2020-10-19-Service-Mesh-的关键：边车模式-sidecar；又要开车了](https://toutiao.io/k/vys6n4c) ![](assets/new.png)  
 - [2020-10-19-带你快速了解：限流中的漏桶和令牌桶算法](https://toutiao.io/k/okvzhvz) ![](assets/new.png)  
 - [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
 - [2020-10-19-用-Python-绘制地理图](https://toutiao.io/k/f1d73bn) ![](assets/new.png)  

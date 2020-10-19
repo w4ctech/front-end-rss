@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 12:54:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 13:04:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,7 @@
 - [2020-10-19-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-19-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) 
+- [2020-10-19-安全小飞侠-王任飞:云上攻防的实践与思考-|-2020-情报大会“剧透”](https://sec.thief.one/article_content?a_id=db04fb5b5d65a19b2afab422a435fb5e) 
 - [2020-10-19-binaryedge脆弱目标提取工具](https://sec.thief.one/article_content?a_id=66cb35e5a969a142bbaaaafb096d6edc) 
 - [2020-10-19-Urlbuster:一款支持爆破的可变异Web目录模糊测试工具](https://sec.thief.one/article_content?a_id=1c8a0742f813cc602638bbd35d0162b6) 
 - [2020-10-19-中国样本|绿盟云安全解决方案荣获ICT中国创新奖](https://sec.thief.one/article_content?a_id=b6f393c1e61b8b2c6d1a29d664a091b4) 
@@ -65,4 +66,3 @@
 - [2020-10-16-信息安全漏洞月报2020年9月](https://sec.thief.one/article_content?a_id=9b536a0e5567df61d87bd5b5c4f617d2) 
 - [2020-10-16-华山论剑·2020网络安全大会之旅结束](https://sec.thief.one/article_content?a_id=140fa0ad5c0212667220e1f5f886f2ca) 
 - [2020-10-16-征文-|蒋琼:从雾里看花到揭开面纱,新兴领域安全产品POC之我见](https://sec.thief.one/article_content?a_id=16bc1d270041a70279aef650cbc46255) 
-- [2020-10-16-共合作,铸安全-|-国舜股份助力浙江某城商行网络安全综合能力升级](https://sec.thief.one/article_content?a_id=c3e129acdfbd89cf2704a0012e6bcd1b) 

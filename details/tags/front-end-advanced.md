@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 12:54:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 13:04:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -20,4 +20,3 @@
 - [2020-10-19-带你快速了解：限流中的漏桶和令牌桶算法](https://toutiao.io/k/okvzhvz) 
 - [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) 
 - [2020-10-18-算法刷题宝典.pdf](https://sec.thief.one/article_content?a_id=83004a4c2c4013151db522660c05bddf) 
-- [2020-10-16-从HTTP协议层面探讨Bypass](https://sec.thief.one/article_content?a_id=a91e0dc9523f07e7c8895f97e4e2afea) 

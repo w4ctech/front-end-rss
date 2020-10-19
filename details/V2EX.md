@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-19 09:48:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 10:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-19-前端简历各位大侠看看我的简历有什么问题吗？](https://www.v2ex.com/t/716455) 
+- [2020-10-19-求问，今天如果下单-12，大概什么时间段能收到？这个月还是下个月](https://www.v2ex.com/t/716454) 
+- [2020-10-19-请教一下-GmailBot-的问题](https://www.v2ex.com/t/716453) 
 - [2020-10-19-双卡-iPhone12-不能跑-5G](https://www.v2ex.com/t/716451) 
 - [2020-10-19-329-元的-MagSafe-充电器才-5W](https://www.v2ex.com/t/716450) 
 - [2020-10-19-如何学习设计模式？](https://www.v2ex.com/t/716449) 
@@ -46,7 +49,3 @@
 - [2020-10-19-Big-Sur-下-intellij-idea-崩溃](https://www.v2ex.com/t/716409) 
 - [2020-10-19-这个全网号码收集器，能精准收集一个小区的号码？](https://www.v2ex.com/t/716408) 
 - [2020-10-19-有使用-iPad-上的虚拟机-iSH-的小伙伴吗？](https://www.v2ex.com/t/716407) 
-- [2020-10-19-在-Windows-Terminal-中按下-CTRL-+-SHIFT-+-P](https://www.v2ex.com/t/716406) 
-- [2020-10-19-你们觉得公司福利怎么样，一般有什么？](https://www.v2ex.com/t/716405) 
-- [2020-10-19-VoLTE-免流？](https://www.v2ex.com/t/716404) 
-- [2020-10-19-想给主机再外接一台显示器，有什么推荐的吗，最好带触控的。](https://www.v2ex.com/t/716403) 

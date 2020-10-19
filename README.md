@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 06:04:28，:rocket: 更新条数: +3514， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 06:16:26，:rocket: 更新条数: +3512， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-10-18-微信H5-React-+-Umi-开发实践总结](https://juejin.im/post/6885207101052813319) ![](assets/new.png)  
 - [2020-10-18-Svelte-初探](https://juejin.im/post/6885163732146585607) ![](assets/new.png)  
 - [2020-10-18-React-中的虚拟-DOM-和-diff-算法](https://juejin.im/post/6885163621358403597) ![](assets/new.png)  
 - [2020-10-18-React-函数式组件的性能优化](https://juejin.im/post/6885162791632633870) ![](assets/new.png)  
 - [2020-10-18-从零开始开发基于electron的switchHost应用](https://juejin.im/post/6885154595498033166) ![](assets/new.png)  
+- [2020-10-18-kbone-高级---使用小程序内置组件（一）](https://juejin.im/post/6885153540969660429) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,11 +1067,11 @@
 </summary>
 
 
+- [2020-10-19-蚂蚁金服，上海，双休，少出差，-Java-/大数据/实时计算，-P6~P8](https://www.v2ex.com/t/716369) ![](assets/new.png)  
 - [2020-10-19-坐标北京有最近自由的安卓开发者吗,驻场开发一个月-22-天,薪资是-1.8w](https://www.v2ex.com/t/716367) ![](assets/new.png)  
 - [2020-10-19-log4j-可以在后期统一在每条日志添加字段吗](https://www.v2ex.com/t/716365) ![](assets/new.png)  
 - [2020-10-19-昨天看推荐微博有很多人推荐-后谷-咖啡](https://www.v2ex.com/t/716362) ![](assets/new.png)  
 - [2020-10-19-有没有一款游戏中植入广告的最佳实践？](https://www.v2ex.com/t/716361) ![](assets/new.png)  
-- [2020-10-19-当年非典肺炎最后是怎么消失的，为什么新冠还有第二波？](https://www.v2ex.com/t/716359) ![](assets/new.png)  
 - [2020-10-19-10-月新鲜-AWSL-高能场面出炉，喜欢二次元的小伙伴可以来挑战下~](https://www.v2ex.com/t/716358) ![](assets/new.png)  
 - [2020-10-19-杭州-内推-大数据-&-分布式数据库-蚂蚁集团旗下世界领先的分布式数据库-OceanBase，急聘多名前端工程师-P6~P8](https://www.v2ex.com/t/716357) ![](assets/new.png)  
 - [2020-10-19-国内阿里云被电信墙了？](https://www.v2ex.com/t/716356) ![](assets/new.png)  
@@ -1146,8 +1146,8 @@
 - [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
 - [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
 - [2020-10-19-产品设计方法论：Amazon-逆向工作法](https://toutiao.io/k/o5hhx9b) ![](assets/new.png)  
-- [2020-10-19-Kotlin-Collection-VS-Kotlin-Sequence-VS-Java-Stream](https://toutiao.io/k/9lzdibp) ![](assets/new.png)  
 - [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  
+- [2020-10-19-Kotlin-Collection-VS-Kotlin-Sequence-VS-Java-Stream](https://toutiao.io/k/9lzdibp) ![](assets/new.png)  
 - [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

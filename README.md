@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 04:34:12，:rocket: 更新条数: +3744， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 04:41:32，:rocket: 更新条数: +3744， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,9 @@
 </summary>
 
 
+- [2020-10-19-北京社招-开黑啦-高级前端工程师-20k-30k*14-薪](https://www.v2ex.com/t/716347) ![](assets/new.png)  
+- [2020-10-19-拼多多百亿补贴某些品类是有假货的，请谨慎](https://www.v2ex.com/t/716346) ![](assets/new.png)  
+- [2020-10-19-Jetbrains-系软件在-Big-Sur-Beta-10-中出现崩溃的一个解决方案](https://www.v2ex.com/t/716345) ![](assets/new.png)  
 - [2020-10-19-我发现北京超市里极少见到国产奶酪，感觉是一块市场空白…](https://www.v2ex.com/t/716342) ![](assets/new.png)  
 - [2020-10-19-dnsmasq-支持动态上游-DNS-服务器吗？](https://www.v2ex.com/t/716341) ![](assets/new.png)  
 - [2020-10-19-.htaccess-如何匹配#这个字符？](https://www.v2ex.com/t/716340) ![](assets/new.png)  
@@ -1104,9 +1107,6 @@
 - [2020-10-19-求教-imazing-问题](https://www.v2ex.com/t/716326) ![](assets/new.png)  
 - [2020-10-19-阿里云会把同-IP-注册的账号判定为同人账户？](https://www.v2ex.com/t/716322) ![](assets/new.png)  
 - [2020-10-19-关于华强北-AirPods-Pro-的使用体验。](https://www.v2ex.com/t/716321) ![](assets/new.png)  
-- [2020-10-19-各位的公司在提交-git-时的记录说明一般会要求遵循什么格式吗](https://www.v2ex.com/t/716320) ![](assets/new.png)  
-- [2020-10-19-用-Prometheus-碰到个奇怪的问题，百思不得其解](https://www.v2ex.com/t/716319) ![](assets/new.png)  
-- [2020-10-19-摩托别人都说鼓刹是自带-ABS,-我的鼓刹是自带-RBSRandom-lock-Brake-System](https://www.v2ex.com/t/716317) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1158,14 +1158,14 @@
 - [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
 - [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
 - [2020-10-19-用-Python-绘制地理图](https://toutiao.io/k/f1d73bn) ![](assets/new.png)  
-- [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
 - [2020-10-19-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
 - [2020-10-19-详解-C++-11-中的智能指针](https://toutiao.io/k/prgwyy1) ![](assets/new.png)  
 - [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
 - [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
-- [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
 - [2020-10-19-产品设计方法论：Amazon-逆向工作法](https://toutiao.io/k/o5hhx9b) ![](assets/new.png)  
+- [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
 - [2020-10-19-Kotlin-Collection-VS-Kotlin-Sequence-VS-Java-Stream](https://toutiao.io/k/9lzdibp) ![](assets/new.png)  
 - [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  
 - [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) ![](assets/new.png)  

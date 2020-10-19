@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 23:28:17，:rocket: 更新条数: +3747， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 23:33:53，:rocket: 更新条数: +3747， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -99,7 +99,7 @@
 - [2020-10-19-感染人数激增-波兰将建多座方舱医院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtishcihNLCxPH5r8ZQLcpH201020&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-巴西联邦审计法院院长确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSfERLrOnGGzCoFD6004M201020&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-美国纽约新冠病毒测试阳性率超过2％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibc6JR6v9E7sGJDjvPsUF201020&isfromapp=1) ![](assets/new.png)  
-- [2020-10-19-印尼新增3373例新冠肺炎确诊病例-累计确诊365240例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii2RJ6jZo65nyfnVqegpO201019&isfromapp=1) ![](assets/new.png)  
+- [2020-10-19-法国第一夫人因密切接触新冠病毒感染者采取自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHZEVSqudCT3gbwuQZAqW201020&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,11 +967,11 @@
 </summary>
 
 
+- [2020-10-19-77.9K-Star-的-Axios-项目有哪些值得借鉴的地方](https://juejin.im/post/6885471967714115597) ![](assets/new.png)  
 - [2020-10-19-Vue-3-的组合-API-如何请求数据？](https://juejin.im/post/6885364720056926221) ![](assets/new.png)  
 - [2020-10-19-摸鱼时，发现的一些有意思的代码](https://juejin.im/post/6885353022449254407) ![](assets/new.png)  
-- [2020-10-19-Promise、async、await](https://juejin.im/post/6885342757129617422) ![](assets/new.png)  
+- [2020-10-19-LeetCode-热题-HOT-100-3.-无重复字符的最长子串](https://juejin.im/post/6885336217030754317) ![](assets/new.png)  
 - [2020-10-19-表单事件](https://juejin.im/post/6885312187275935752) ![](assets/new.png)  
-- [2020-10-19-PixiJS核心概念及简单上手](https://juejin.im/post/6885305909455618056) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

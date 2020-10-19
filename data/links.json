@@ -18006,6 +18006,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[杭州] [涂鸦智能] Saas 组直招",
+        "link": "https://www.v2ex.com/t/716264",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "想请教下各位目前有没有比较实用的机场推荐？",
+        "link": "https://www.v2ex.com/t/716263",
+        "date": "2020-10-19"
+      },
+      {
         "title": "iPhone 12 的媒体评测解禁是哪一天？这都马上要发售了",
         "link": "https://www.v2ex.com/t/716261",
         "date": "2020-10-19"
@@ -18179,11 +18189,6 @@
         "title": "chrome 插件模拟请求 bilibli api 错误问题",
         "link": "https://www.v2ex.com/t/716216",
         "date": "2020-10-18"
-      },
-      {
-        "title": "mac 上有什么软件，可以记录我在哪个 app 上 花了多少时间，并生成报表？我想知道我的时间去哪儿了",
-        "link": "https://www.v2ex.com/t/716213",
-        "date": "2020-10-18"
       }
     ]
   },
@@ -18350,38 +18355,33 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "编程体系结构：Java IO 流文件管理",
+        "link": "https://toutiao.io/k/f3xqehn",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "详解 C++ 11 中的智能指针",
+        "link": "https://toutiao.io/k/prgwyy1",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[译] 用 Notary 和 OPA 在 Kubernetes 上使用内容签名",
+        "link": "https://toutiao.io/k/mebgv58",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "Kafka 监控工具之 CMAK",
+        "link": "https://toutiao.io/k/fzzch9i",
         "date": "2020-10-19"
       },
       {
         "title": "[推荐] 我是如何阅读 JDK 源码的？",
         "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-19"
       },
       {
@@ -18395,6 +18395,11 @@
         "date": "2020-10-19"
       },
       {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-19"
+      },
+      {
         "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
         "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-19"
@@ -18405,13 +18410,38 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-19"
       },
       {
@@ -18420,8 +18450,8 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-19"
       }
     ]

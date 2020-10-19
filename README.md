@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 01:47:11，:rocket: 更新条数: +3731， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 01:54:24，:rocket: 更新条数: +3737， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,8 @@
 </summary>
 
 
+- [2020-10-19-杭州-涂鸦智能-Saas-组直招](https://www.v2ex.com/t/716264) ![](assets/new.png)  
+- [2020-10-19-想请教下各位目前有没有比较实用的机场推荐？](https://www.v2ex.com/t/716263) ![](assets/new.png)  
 - [2020-10-19-iPhone-12-的媒体评测解禁是哪一天？这都马上要发售了](https://www.v2ex.com/t/716261) ![](assets/new.png)  
 - [2020-10-19-再搞个什么语言好呢！](https://www.v2ex.com/t/716260) ![](assets/new.png)  
 - [2020-10-19-用了快两年的-g304-坏了，-jd-给我换新了](https://www.v2ex.com/t/716258) ![](assets/new.png)  
@@ -1105,8 +1107,6 @@
 - [2020-10-19-快手-北、上、杭、深-内推进行时....](https://www.v2ex.com/t/716241) ![](assets/new.png)  
 - [2020-10-19-Qt-显示柱状图，-X-轴名称太长，代码如何写-倾斜显示？-求教](https://www.v2ex.com/t/716239) ![](assets/new.png)  
 - [2020-10-19-iPhone-12-想要支持实体双卡是不是只能国行？](https://www.v2ex.com/t/716238) ![](assets/new.png)  
-- [2020-10-19-Magsafe-会有些什么应用](https://www.v2ex.com/t/716237) ![](assets/new.png)  
-- [2020-10-19-关于二清求教:-有什么后果?-有哪些可供选择的解决方案?](https://www.v2ex.com/t/716236) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1159,15 +1159,15 @@
 - [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
 - [2020-10-19-Spring-Boot-开发秘籍：事件异步处理](https://toutiao.io/k/y424dbu) ![](assets/new.png)  
 - [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
-- [2020-10-19-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
+- [2020-10-19-详解-C++-11-中的智能指针](https://toutiao.io/k/prgwyy1) ![](assets/new.png)  
+- [2020-10-19-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
+- [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
 - [2020-10-19-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-19-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-19-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-19-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-19-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-19-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
 - [2020-10-19-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [2020-10-19-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-19-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [2020-10-19-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 12:19:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 12:37:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -19,6 +19,7 @@
 - [2020-04-16-ali-react-table：高性能-React-表格组件](https://www.ershicimi.com/p/4aeff96a51a674d7a02add3f8bd49c11) 
 - [2020-10-19-从-Angular-转到-React，网易严选的前端工程化实践](https://www.ershicimi.com/p/21db946587cffaa9189b0166e8a9c329) 
 - [2020-10-16-前端渣渣的我再也不敢说我会写React了-|-极客大学](https://www.ershicimi.com/p/98f4a3ae33489b4d3367e56f6471a911) 
+- [2020-10-19-私藏！React-硬核涨薪指南](https://www.ershicimi.com/p/466a8d9062a97ab40da82b3b8730373d) 
 - [2020-10-13-深入学习-React-合成事件](https://www.ershicimi.com/p/ee60b9bbdaa46b1ded704e5dd71855c3) 
 - [2020-09-20-浅谈-React-中的-XSS-攻击](https://www.ershicimi.com/p/cf465a8944c2bbb107812b217cc74f63) 
 - [2020-10-16-前端渣渣的我再也不敢说我会写React了](https://www.ershicimi.com/p/7071477487465bbb32abea4b727db265) 

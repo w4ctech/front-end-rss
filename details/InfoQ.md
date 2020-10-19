@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-19 16:18:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 16:36:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-10-19-守旧的互联网企业VS创新的传统企业：微软站哪端？](https://www.ershicimi.com/p/27e76ead2c47bfa890bfe54e054403a7) 
+- [2020-10-19-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/f73f26d00cd8eb4f513bd4e287551a48) 
+- [2020-10-19-架构演进与性能优化之路-｜-QCon+](https://www.ershicimi.com/p/bf599586ba6a37b0114f952b56dbb4c2) 
+- [2020-10-19-易观A10大会震撼来袭，四场活动教你玩转「留量」思维-｜-Q推荐](https://www.ershicimi.com/p/5f0588d77cc14e365da64f41f92b0b7f) 
+- [2020-10-19-Linux-开发过程那么麻烦，是否值得？](https://www.ershicimi.com/p/fc445cbf83932a492b5358841ea1454d) 
 - [2020-10-18-池建强：过去三年很短，只有极客时间](https://www.ershicimi.com/p/01423c3b43b5809e4d0ba7d44a784682) 
 - [2020-10-18-小心“移植税”：Kubernetes不能使应用程序具有可移植性](https://www.ershicimi.com/p/3d8cc25e5804aa87910d64601b618884) 
 - [2020-10-18-73个强无敌的NPM软件包](https://www.ershicimi.com/p/8157184ce0103a1fa715462a981eca1d) 
@@ -20,8 +25,3 @@
 - [2020-10-16-深度赋能，共享共赢！“有你有我开源节”开源技术研讨会暨深圳·国际开源谷揭牌仪式热烈召开](https://www.ershicimi.com/p/db5afe075c9fb98346520e6f5ce4b71a) 
 - [2020-10-16-Android-Studio-4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF](https://www.ershicimi.com/p/adf2d9d9df53a842ac7baf3ecbfac2a0) 
 - [2020-10-15-无服务器已死？这项技术为什么变得人人嫌弃](https://www.ershicimi.com/p/0695d341e87d1dd6ed786617ec7000d7) 
-- [2020-10-15-万亿数据-|-腾讯看点多维实时分析系统技术架构](https://www.ershicimi.com/p/41ba0ed5300fea774cb20d1c4e2ad015) 
-- [2020-10-15-收购云原生鼻祖Pivotal的大厂，如何定义云原生？](https://www.ershicimi.com/p/ce55d7700099abeffcd8a1d2274e4f0c) 
-- [2020-10-15-踏入开放AI生态就是这么简单：AWS为你打开新世界大门-｜-Q推荐](https://www.ershicimi.com/p/a9a22255146b8c2eacc2378be217d1ba) 
-- [2020-10-15-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/f040ab39db4122b8da2440d178270309) 
-- [2020-10-14-iPhone-12-made-in印度，苹果会选择印度取代中国制造吗？](https://www.ershicimi.com/p/092281a8ad6b51f54efde92365df6aaa) 

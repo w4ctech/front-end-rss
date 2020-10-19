@@ -16247,6 +16247,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "守旧的互联网企业VS创新的传统企业：微软站哪端？",
+        "link": "https://www.ershicimi.com/p/27e76ead2c47bfa890bfe54e054403a7",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "用了VS Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质",
+        "link": "https://www.ershicimi.com/p/f73f26d00cd8eb4f513bd4e287551a48",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "架构演进与性能优化之路 ｜ QCon+",
+        "link": "https://www.ershicimi.com/p/bf599586ba6a37b0114f952b56dbb4c2",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "易观A10大会震撼来袭，四场活动教你玩转「留量」思维 ｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/5f0588d77cc14e365da64f41f92b0b7f",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "Linux 开发过程那么麻烦，是否值得？",
+        "link": "https://www.ershicimi.com/p/fc445cbf83932a492b5358841ea1454d",
+        "date": "2020-10-19"
+      },
+      {
         "title": "池建强：过去三年很短，只有极客时间",
         "link": "https://www.ershicimi.com/p/01423c3b43b5809e4d0ba7d44a784682",
         "date": "2020-10-18"
@@ -16320,31 +16345,6 @@
         "title": "无服务器已死？这项技术为什么变得人人嫌弃",
         "link": "https://www.ershicimi.com/p/0695d341e87d1dd6ed786617ec7000d7",
         "date": "2020-10-15"
-      },
-      {
-        "title": "万亿数据 | 腾讯看点多维实时分析系统技术架构",
-        "link": "https://www.ershicimi.com/p/41ba0ed5300fea774cb20d1c4e2ad015",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "收购云原生鼻祖Pivotal的大厂，如何定义云原生？",
-        "link": "https://www.ershicimi.com/p/ce55d7700099abeffcd8a1d2274e4f0c",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "踏入开放AI生态就是这么简单：AWS为你打开新世界大门 ｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/a9a22255146b8c2eacc2378be217d1ba",
-        "date": "2020-10-15"
-      },
-      {
-        "title": ".NET Core vs Node.js：你应该选择哪个？",
-        "link": "https://www.ershicimi.com/p/f040ab39db4122b8da2440d178270309",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "iPhone 12 made in印度，苹果会选择印度取代中国制造吗？",
-        "link": "https://www.ershicimi.com/p/092281a8ad6b51f54efde92365df6aaa",
-        "date": "2020-10-14"
       }
     ]
   },
@@ -16870,6 +16870,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教一个 Java 反射与动态代理的问题:动态代理生成的对象通过反射设置报错",
+        "link": "https://www.v2ex.com/t/716534",
+        "date": "2020-10-19"
+      },
+      {
         "title": "『迫于焦虑』30 了还是一个 PHP 码农，一无所有，夜里翻来覆去睡不着，该怎么办？",
         "link": "https://www.v2ex.com/t/716533",
         "date": "2020-10-19"
@@ -17068,16 +17073,6 @@
         "title": "OCR 把表格图片转为 excel，有什么现成的工具吗？",
         "link": "https://www.v2ex.com/t/716486",
         "date": "2020-10-19"
-      },
-      {
-        "title": "除了 Mx Master 系列外，还有哪些鼠标支持 Mac 下横向滚动？",
-        "link": "https://www.v2ex.com/t/716485",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "字节社招校招海量 HC（包括服务端前段客户端测试）",
-        "link": "https://www.v2ex.com/t/716484",
-        "date": "2020-10-19"
       }
     ]
   },
@@ -17269,13 +17264,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "如何有效的维权，这些投诉平台你可能用得上",
-        "link": "https://toutiao.io/k/e3zsppo",
+        "title": "从 HTTP 协议层面探讨 Bypass",
+        "link": "https://toutiao.io/k/ta14m5w",
         "date": "2020-10-19"
       },
       {
-        "title": "从 HTTP 协议层面探讨 Bypass",
-        "link": "https://toutiao.io/k/ta14m5w",
+        "title": "如何有效的维权，这些投诉平台你可能用得上",
+        "link": "https://toutiao.io/k/e3zsppo",
         "date": "2020-10-19"
       },
       {
@@ -17294,8 +17289,23 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-19"
       },
       {
@@ -17304,28 +17314,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-19"
       },
       {
@@ -17339,18 +17334,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-19"
       },
       {
@@ -17359,13 +17349,18 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-19"
       }
     ]

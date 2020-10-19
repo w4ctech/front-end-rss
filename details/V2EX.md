@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-19 02:39:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 02:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-19-不懂就问-iPhone-换电池](https://www.v2ex.com/t/716298) 
+- [2020-10-19-无意间发现-Tim-支持自动远程桌面,-是不是意味着可以用-Tim-来替代-TeamView-了](https://www.v2ex.com/t/716297) 
+- [2020-10-19-MagSafe-卡包能放-NFC-卡吗？](https://www.v2ex.com/t/716296) 
 - [2020-10-19-20-天年假、周末不加班、远程办公、每周来两天办公室聚餐的泼辣修图深圳招前端后端。](https://www.v2ex.com/t/716294) 
 - [2020-10-19-基于-React、Mobx、Webpack-和-React-Router-的项目模板。](https://www.v2ex.com/t/716292) 
 - [2020-10-19-mgj，公司的远程机中病毒了](https://www.v2ex.com/t/716291) 
@@ -39,5 +42,3 @@
 - [2020-10-19-se2-和-mini-的-esim-是硬件阉割么？](https://www.v2ex.com/t/716251) 
 - [2020-10-19-AirPods-Pro-听歌耳机里突然出现炸裂声](https://www.v2ex.com/t/716250) 
 - [2020-10-19-朴朴超市内推-🔥🔥🔥-前端/-Java-/算法/运维/客户端/产品各类岗位内推跟进](https://www.v2ex.com/t/716249) 
-- [2020-10-19-单圈回环表带戴了-2、3-天就有异味](https://www.v2ex.com/t/716247) 
-- [2020-10-19-MacBook-pro-2020-touch-bar-每次都要点第二次才反应](https://www.v2ex.com/t/716246) 

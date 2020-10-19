@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-19 04:41:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 04:47:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-19-MBP-外接显示器-盒盖-or-亮度最低？](https://www.v2ex.com/t/716349) 
+- [2020-10-19-AirPods-Pro-保内非人为-西安授权点被拒保](https://www.v2ex.com/t/716348) 
 - [2020-10-19-北京社招-开黑啦-高级前端工程师-20k-30k*14-薪](https://www.v2ex.com/t/716347) 
 - [2020-10-19-拼多多百亿补贴某些品类是有假货的，请谨慎](https://www.v2ex.com/t/716346) 
 - [2020-10-19-Jetbrains-系软件在-Big-Sur-Beta-10-中出现崩溃的一个解决方案](https://www.v2ex.com/t/716345) 
@@ -43,4 +45,3 @@
 - [2020-10-19-关于驾照扣满-12-分不满-24-分的问题](https://www.v2ex.com/t/716303) 
 - [2020-10-19-为什么女性开发这么少](https://www.v2ex.com/t/716302) 
 - [2020-10-19-Facebook-面试题：会议室](https://www.v2ex.com/t/716300) 
-- [2020-10-19-不懂就问-iPhone-换电池](https://www.v2ex.com/t/716298) 

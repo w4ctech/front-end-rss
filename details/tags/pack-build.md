@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 14:49:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 15:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -15,6 +15,7 @@
 - [2020-10-12-20k-以上面试必问，Webpack-原理和优化](https://www.ershicimi.com/p/192577e419537de3c829a2d083d33cf3) 
 - [2020-09-29-你应该知道的-NPM-知识都在这！](https://www.ershicimi.com/p/bbab7cb8c8aa6ecb2d7be925072eae3e) 
 - [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
+- [2020-10-12-webpack如何快速入门？](https://www.ershicimi.com/p/72cb35fa3d75999fdb846a6f1ad79636) 
 - [2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6) 
 - [2020-10-13-Webpack-5.0正式发布：更好的持久化缓存算法、提高Web平台的兼容性、带来Node生态新功能](https://www.ershicimi.com/p/4fce59604241cf9e3d11195033539895) 
 - [2020-10-12-73个强无敌的NPM软件包](https://www.ershicimi.com/p/bf889a259a6b587c3c7d197565d25f40) 

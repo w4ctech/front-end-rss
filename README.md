@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 03:41:53，:rocket: 更新条数: +3514， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 03:47:32，:rocket: 更新条数: +3514， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-19-由负转正！国家统计局：中国经济复苏走在全球前列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii6SN8emUzb9GDhHHxHNF201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-墨西哥新增4119例新冠肺炎确诊病例-累计确诊851227例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQlefuvU4czCKtv7KVmpc201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-秘鲁累计新冠肺炎确诊病例868675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti702qjd0OasHg50zh8HCH201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-18-巴西新冠肺炎确诊病例累计破523万-民众对面对面工作仍有担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujFQ5fW6ac76eO4u7nEZ201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-18-捷克首位内阁部长新冠病毒检测结果为阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2WA90XyrXIS5JGcy5LTf201019&isfromapp=1) ![](assets/new.png)  
-- [2020-10-18-南非卫生部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivrcoR7DheoqkF6f5DN4K201019&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,13 @@
 </summary>
 
 
+- [2020-10-19-上海租房问题](https://www.v2ex.com/t/716333) ![](assets/new.png)  
+- [2020-10-19-南京-.net-开发工程师](https://www.v2ex.com/t/716332) ![](assets/new.png)  
+- [2020-10-19-Offer-比较-求兄弟姐妹们指导](https://www.v2ex.com/t/716331) ![](assets/new.png)  
+- [2020-10-19-急招-团队直推-阿里-盒马产品技术部-招聘-Java-高级开发工程师-大量-HC，-P6-及以上](https://www.v2ex.com/t/716330) ![](assets/new.png)  
+- [2020-10-19-家距离公司-10KM，上下班来回-20KM，骑行通勤是否合适](https://www.v2ex.com/t/716328) ![](assets/new.png)  
+- [2020-10-19-百度内推---每晚统一筛选简历---次日录入内推系统](https://www.v2ex.com/t/716327) ![](assets/new.png)  
+- [2020-10-19-求教-imazing-问题](https://www.v2ex.com/t/716326) ![](assets/new.png)  
 - [2020-10-19-阿里云会把同-IP-注册的账号判定为同人账户？](https://www.v2ex.com/t/716322) ![](assets/new.png)  
 - [2020-10-19-关于华强北-AirPods-Pro-的使用体验。](https://www.v2ex.com/t/716321) ![](assets/new.png)  
 - [2020-10-19-各位的公司在提交-git-时的记录说明一般会要求遵循什么格式吗](https://www.v2ex.com/t/716320) ![](assets/new.png)  
@@ -1080,13 +1087,6 @@
 - [2020-10-19-写-DB-和发送下游消息要放到一个事务里面吗](https://www.v2ex.com/t/716311) ![](assets/new.png)  
 - [2020-10-19-广州招-GO-开发工程师（可转语言）](https://www.v2ex.com/t/716310) ![](assets/new.png)  
 - [2020-10-19-苏宁海外购-airpods-pro-1399-值得入手吗](https://www.v2ex.com/t/716309) ![](assets/new.png)  
-- [2020-10-19-绿联-mfi-pd-的数据线保修-18-个月居然是从下单瞬间开始算的-京东服务越来越烂了](https://www.v2ex.com/t/716308) ![](assets/new.png)  
-- [2020-10-19-安全内推---字节跳动](https://www.v2ex.com/t/716307) ![](assets/new.png)  
-- [2020-10-19-磁盘修复问题](https://www.v2ex.com/t/716305) ![](assets/new.png)  
-- [2020-10-19-新加坡-Shopee-直招-招资深云原生平台开发工程师啦啦啦！](https://www.v2ex.com/t/716304) ![](assets/new.png)  
-- [2020-10-19-关于驾照扣满-12-分不满-24-分的问题](https://www.v2ex.com/t/716303) ![](assets/new.png)  
-- [2020-10-19-为什么女性开发这么少](https://www.v2ex.com/t/716302) ![](assets/new.png)  
-- [2020-10-19-Facebook-面试题：会议室](https://www.v2ex.com/t/716300) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,8 +1134,8 @@
 - [2020-10-19-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
 - [2020-10-19-Service-Mesh-的关键：边车模式-sidecar；又要开车了](https://toutiao.io/k/vys6n4c) ![](assets/new.png)  
 - [2020-10-19-带你快速了解：限流中的漏桶和令牌桶算法](https://toutiao.io/k/okvzhvz) ![](assets/new.png)  
-- [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
 - [2020-10-19-Spring-Boot-开发秘籍：事件异步处理](https://toutiao.io/k/y424dbu) ![](assets/new.png)  
+- [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
 - [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
 - [2020-10-19-用-Python-绘制地理图](https://toutiao.io/k/f1d73bn) ![](assets/new.png)  
 - [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
@@ -1144,8 +1144,8 @@
 - [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
 - [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
-- [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
 - [2020-10-19-产品设计方法论：Amazon-逆向工作法](https://toutiao.io/k/o5hhx9b) ![](assets/new.png)  
+- [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
 - [2020-10-19-Kotlin-Collection-VS-Kotlin-Sequence-VS-Java-Stream](https://toutiao.io/k/9lzdibp) ![](assets/new.png)  
 - [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  
 - [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) ![](assets/new.png)  

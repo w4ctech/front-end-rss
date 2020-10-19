@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 19:03:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 19:13:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -9,6 +9,7 @@
 
 - [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
+- [2020-10-18-高频前端开发面试问题及答案整理](https://www.ershicimi.com/p/748ca4c39f72c409524de673342b50f9) 
 - [2020-09-30-前端面试绕不开的三大难关，这次有攻略了！](https://www.ershicimi.com/p/5b8175b6750e9a66966fccf5827086c4) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
@@ -42,3 +43,4 @@
 - [2020-10-15-滴滴CTO五轮面试真是太刺激了，Java高级工程师一二三四五面面经已拿到offer](https://www.ershicimi.com/p/3094204bbe95af3a1045d7789f1e4255) 
 - [2020-10-19-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
 - [2020-10-19-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
+- [2020-10-19-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 

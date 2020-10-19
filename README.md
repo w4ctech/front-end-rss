@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 13:04:06，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 13:14:48，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,8 @@
 </summary>
 
 
+- [2020-10-19-.net-被歧视](https://www.v2ex.com/t/716495) ![](assets/new.png)  
+- [2020-10-19-觅道文档-0.6.0-发布，开源在线文档系统](https://www.v2ex.com/t/716494) ![](assets/new.png)  
 - [2020-10-19-有没有最近打算去香山玩的啊，一起去。](https://www.v2ex.com/t/716492) ![](assets/new.png)  
 - [2020-10-19-big-sur-cmd+r-进入恢复模式白屏？有碰到的-v-友吗](https://www.v2ex.com/t/716491) ![](assets/new.png)  
 - [2020-10-19-急单-两天做一个-web-演示-demo](https://www.v2ex.com/t/716490) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-19-高德地图-web-页面为何如此臃肿缓慢](https://www.v2ex.com/t/716475) ![](assets/new.png)  
 - [2020-10-19-macOS-10.15.7-偶发性重启，有知道原因的大神吗？](https://www.v2ex.com/t/716472) ![](assets/new.png)  
 - [2020-10-19-Html-仅限行内样式能玩出什么花样？](https://www.v2ex.com/t/716470) ![](assets/new.png)  
-- [2020-10-19-「-10·24-程序员节」Authing-开发者沙龙等你来！](https://www.v2ex.com/t/716469) ![](assets/new.png)  
-- [2020-10-19-明年就该体育中考了，现在还是只能拿保底分咋办](https://www.v2ex.com/t/716468) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 15:15:07，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 15:30:06，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,10 @@
 </summary>
 
 
+- [2020-10-19-如何优雅的关闭车联网？](https://www.v2ex.com/t/716526) ![](assets/new.png)  
+- [2020-10-19-最近怎么那么多劝退客户端建议后端](https://www.v2ex.com/t/716525) ![](assets/new.png)  
+- [2020-10-19-不懂就问，为什么-B-站下掉了网页端投稿分-P-功能](https://www.v2ex.com/t/716524) ![](assets/new.png)  
+- [2020-10-19-今年新-rmbp-啥时候上啊](https://www.v2ex.com/t/716523) ![](assets/new.png)  
 - [2020-10-19-大家最近-github-有没有-push-不上去的情况？](https://www.v2ex.com/t/716522) ![](assets/new.png)  
 - [2020-10-19-有没有方便快捷的方式排查分类网易云音乐本地文件？](https://www.v2ex.com/t/716521) ![](assets/new.png)  
 - [2020-10-19-奇怪的电脑故障](https://www.v2ex.com/t/716519) ![](assets/new.png)  
@@ -1074,7 +1078,6 @@
 - [2020-10-19-有一个过时的-ipadmini2-和-ipad1,-能做点什么用呢](https://www.v2ex.com/t/716516) ![](assets/new.png)  
 - [2020-10-19-你们都是怎么管理浏览器上日渐增多的标签页？](https://www.v2ex.com/t/716515) ![](assets/new.png)  
 - [2020-10-19-各位有记录小宝宝成长图文日志的方案吗？](https://www.v2ex.com/t/716514) ![](assets/new.png)  
-- [2020-10-19-setapp-老车队，-179-美刀一年-6-人均摊，-6-差-1，有上车的吗？](https://www.v2ex.com/t/716513) ![](assets/new.png)  
 - [2020-10-19-有精神方面疾病能结婚生孩子吗](https://www.v2ex.com/t/716511) ![](assets/new.png)  
 - [2020-10-19-iPhone-11-Pro-Max,-有没有人高强度多-APP-使用一段时间后,-微信的输入法会间歇性卡顿?-重启之后可以解决问题.](https://www.v2ex.com/t/716510) ![](assets/new.png)  
 - [2020-10-19-一千到三千的手机求推荐](https://www.v2ex.com/t/716509) ![](assets/new.png)  
@@ -1084,9 +1087,6 @@
 - [2020-10-19-zerotier-凉了？](https://www.v2ex.com/t/716503) ![](assets/new.png)  
 - [2020-10-19-macOS-下的开源状态栏监控-app-无需打开活动监视器即可查看高占用率进程](https://www.v2ex.com/t/716502) ![](assets/new.png)  
 - [2020-10-19-老码农准备换方向，那个可以做的更久一点？](https://www.v2ex.com/t/716501) ![](assets/new.png)  
-- [2020-10-19-有在瓜子二手车工作的朋友的吗？-怎么联系瓜子二手车廉政部](https://www.v2ex.com/t/716500) ![](assets/new.png)  
-- [2020-10-19-字节跳动互娱核心中台组诚招后端-RD](https://www.v2ex.com/t/716499) ![](assets/new.png)  
-- [2020-10-19-广东电信-1000M-宽带-699-元/月，算不算全国最高的？](https://www.v2ex.com/t/716498) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

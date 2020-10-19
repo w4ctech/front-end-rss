@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 19:13:10，:rocket: 更新条数: +3746， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 19:25:39，:rocket: 更新条数: +3746， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -781,6 +781,9 @@
 </summary>
 
 
+- [2020-10-19-Sketch-插件导出切片](https://www.ershicimi.com/p/12fafdc6d9cbefc52566456c170b7e4a) ![](assets/new.png)  
+- [2020-10-19-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/65e4591800ef16d0bafc5e31aea2ce08) ![](assets/new.png)  
+- [2020-10-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/7c13a3414429f47726dadba05791b311) ![](assets/new.png)  
 - [2020-10-18-【重构】使用Hooks让代码更易于变更](https://www.ershicimi.com/p/c33d198602af6bad3ac24041395f44d0) ![](assets/new.png)  
 - [2020-10-18-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/e7403e1f1cc352db31c0afb246f24c8f) ![](assets/new.png)  
 - [2020-10-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/62272e05a059d259a90efa55b65fe220) ![](assets/new.png)  
@@ -798,9 +801,6 @@
 - [2020-10-13-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/9e4aa107f92bb08995647267be47ad5b) ![](assets/new.png)  
 - [2020-10-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/2b56639fda573573deeaa608fa332d89) ![](assets/new.png)  
 - [2020-10-12-如何制作-Sketch-插件](https://www.ershicimi.com/p/341f45c550a6316f28c080d6b7ec38e4) ![](assets/new.png)  
-- [2020-10-12-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/ebe59e96466e5c43b9953fea70994c22) ![](assets/new.png)  
-- [2020-10-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/bc00bc600cf641e06220cc450b1c9027) ![](assets/new.png)  
-- [2020-10-10-React官方状态管理库——-Recoil](https://www.ershicimi.com/p/d69ae8d4fbf38e3d051de13609b1436d) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1162,11 +1162,11 @@
 - [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
 - [2020-10-19-详解-C++-11-中的智能指针](https://toutiao.io/k/prgwyy1) ![](assets/new.png)  
 - [2020-10-19-产品设计方法论：Amazon-逆向工作法](https://toutiao.io/k/o5hhx9b) ![](assets/new.png)  
-- [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  
 - [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
+- [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  
 - [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
-- [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) ![](assets/new.png)  
+- [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
 - [2020-10-19-Kotlin-Collection-VS-Kotlin-Sequence-VS-Java-Stream](https://toutiao.io/k/9lzdibp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

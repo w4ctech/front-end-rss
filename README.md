@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 09:14:40，:rocket: 更新条数: +3744， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 09:29:38，:rocket: 更新条数: +3746， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-19-菲律宾新增2638例新冠肺炎确诊病例-累计确诊359169例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaPtkeP5G7NK8oL5PSP1x201019&isfromapp=1) ![](assets/new.png)  
+- [2020-10-19-香港18日新增15例新冠肺炎确诊病例-累计确诊5256例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyC3YY5aKDeqtJR7m5exd201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-乌克兰新增4766例新冠肺炎确诊病例-累计确诊303638例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilDFYw47wBJPFmTZnJ78e201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-由负转正！国家统计局：中国经济复苏走在全球前列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii6SN8emUzb9GDhHHxHNF201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-墨西哥新增4119例新冠肺炎确诊病例-累计确诊851227例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQlefuvU4czCKtv7KVmpc201019&isfromapp=1) ![](assets/new.png)  
-- [2020-10-19-秘鲁累计新冠肺炎确诊病例868675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti702qjd0OasHg50zh8HCH201019&isfromapp=1) ![](assets/new.png)  
-- [2020-10-18-巴西新冠肺炎确诊病例累计破523万-民众对面对面工作仍有担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujFQ5fW6ac76eO4u7nEZ201019&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,12 @@
 </summary>
 
 
+- [2020-10-19-提升一下最近不要升级微博，不然草稿箱要被清空了。](https://www.v2ex.com/t/716445) ![](assets/new.png)  
+- [2020-10-19-大家-iPhone-存储空间都被什么-app-占用了？](https://www.v2ex.com/t/716444) ![](assets/new.png)  
+- [2020-10-19-发展方向有点迷茫，请各位老哥给个意见](https://www.v2ex.com/t/716443) ![](assets/new.png)  
+- [2020-10-19-有没有多平台客户端的账单管理软件推荐，或者有小程序也行](https://www.v2ex.com/t/716442) ![](assets/new.png)  
+- [2020-10-19-大家-Springcloud-中有用分布式事务吗，用的是什么？](https://www.v2ex.com/t/716441) ![](assets/new.png)  
+- [2020-10-19-两道面试题](https://www.v2ex.com/t/716440) ![](assets/new.png)  
 - [2020-10-19-灵均投资-招聘-|-量化研究/技术开发](https://www.v2ex.com/t/716439) ![](assets/new.png)  
 - [2020-10-19-咸鱼上大件面交有什么套路或者坑么？](https://www.v2ex.com/t/716438) ![](assets/new.png)  
 - [2020-10-19-远程招聘-clojurescript-或者-Javascript-程序员](https://www.v2ex.com/t/716436) ![](assets/new.png)  
@@ -1101,12 +1107,6 @@
 - [2020-10-19-rollup-打包不支持-async-语法吗？](https://www.v2ex.com/t/716427) ![](assets/new.png)  
 - [2020-10-19-职场-softskill、困扰分析解答](https://www.v2ex.com/t/716426) ![](assets/new.png)  
 - [2020-10-19-计划周末去广州玩两天，有什么一个人吃的地方？](https://www.v2ex.com/t/716425) ![](assets/new.png)  
-- [2020-10-19-杭州-内推-哈啰出行-速招，前端服务端全都一锅端](https://www.v2ex.com/t/716424) ![](assets/new.png)  
-- [2020-10-19-iphone12-的评测视频啥时候网上能有啊](https://www.v2ex.com/t/716423) ![](assets/new.png)  
-- [2020-10-19-北京社招美团-iOS-高级开发工程师](https://www.v2ex.com/t/716422) ![](assets/new.png)  
-- [2020-10-19-佛系设计师寻合作机会](https://www.v2ex.com/t/716421) ![](assets/new.png)  
-- [2020-10-19-面试的时候，如何应对-Solution-Design/设计解决方案-问题](https://www.v2ex.com/t/716419) ![](assets/new.png)  
-- [2020-10-19-你在-windows-或-mac-下用到特别多的快捷键是什么](https://www.v2ex.com/t/716418) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1162,8 +1162,8 @@
 - [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
 - [2020-10-19-详解-C++-11-中的智能指针](https://toutiao.io/k/prgwyy1) ![](assets/new.png)  
 - [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
-- [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
 - [2020-10-19-产品设计方法论：Amazon-逆向工作法](https://toutiao.io/k/o5hhx9b) ![](assets/new.png)  
+- [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
 - [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
 - [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
 - [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  

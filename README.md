@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 10:15:19，:rocket: 更新条数: +3750， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 10:29:29，:rocket: 更新条数: +3750， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-19-孟加拉国新增1637例新冠肺炎确诊病例-累计确诊390206例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqYZVXTI6PFcuNgJUDDjS201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-菲律宾新增2638例新冠肺炎确诊病例-累计确诊359169例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaPtkeP5G7NK8oL5PSP1x201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-香港18日新增15例新冠肺炎确诊病例-累计确诊5256例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyC3YY5aKDeqtJR7m5exd201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-乌克兰新增4766例新冠肺炎确诊病例-累计确诊303638例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilDFYw47wBJPFmTZnJ78e201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-由负转正！国家统计局：中国经济复苏走在全球前列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii6SN8emUzb9GDhHHxHNF201019&isfromapp=1) ![](assets/new.png)  
-- [2020-10-19-墨西哥新增4119例新冠肺炎确诊病例-累计确诊851227例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQlefuvU4czCKtv7KVmpc201019&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -968,10 +968,10 @@
 
 
 - [2020-10-19-因直播了解webRTC](https://juejin.im/post/6885266397295804429) ![](assets/new.png)  
+- [2020-10-19-【真香系列】Vue-Next-源码第五章](https://juejin.im/post/6885252127934349320) ![](assets/new.png)  
 - [2020-10-19-坚持造轮子第二天---防抖与节流](https://juejin.im/post/6885250789825052679) ![](assets/new.png)  
 - [2020-10-18-我踩过的坑之：canvas图像模糊、有锯齿](https://juejin.im/post/6885226710623764488) ![](assets/new.png)  
 - [2020-10-18-微前端框架-之-qiankun-从入门到精通](https://juejin.im/post/6885211340999229454) ![](assets/new.png)  
-- [2020-10-17-一个小故事带你了解网关路由——读《图解TCP/IP》](https://juejin.im/post/6884513024137232392) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,7 @@
 </summary>
 
 
+- [2020-10-19-电梯停了之后——996、内卷化、佛系](https://www.v2ex.com/t/716460) ![](assets/new.png)  
 - [2020-10-19-为了开发方便，自己写了一个工具库](https://www.v2ex.com/t/716458) ![](assets/new.png)  
 - [2020-10-19-在-Titan-RTX-上的深度学习模型还没有-CPU-和-1650-快](https://www.v2ex.com/t/716457) ![](assets/new.png)  
 - [2020-10-19-前端简历各位大侠看看我的简历有什么问题吗？](https://www.v2ex.com/t/716455) ![](assets/new.png)  
@@ -1106,7 +1107,6 @@
 - [2020-10-19-两道面试题](https://www.v2ex.com/t/716440) ![](assets/new.png)  
 - [2020-10-19-灵均投资-招聘-|-量化研究/技术开发](https://www.v2ex.com/t/716439) ![](assets/new.png)  
 - [2020-10-19-咸鱼上大件面交有什么套路或者坑么？](https://www.v2ex.com/t/716438) ![](assets/new.png)  
-- [2020-10-19-远程招聘-clojurescript-或者-Javascript-程序员](https://www.v2ex.com/t/716436) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1156,18 +1156,18 @@
 - [2020-10-19-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-19-Service-Mesh-的关键：边车模式-sidecar；又要开车了](https://toutiao.io/k/vys6n4c) ![](assets/new.png)  
 - [2020-10-19-带你快速了解：限流中的漏桶和令牌桶算法](https://toutiao.io/k/okvzhvz) ![](assets/new.png)  
-- [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
 - [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
+- [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
 - [2020-10-19-用-Python-绘制地理图](https://toutiao.io/k/f1d73bn) ![](assets/new.png)  
 - [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
 - [2020-10-19-详解-C++-11-中的智能指针](https://toutiao.io/k/prgwyy1) ![](assets/new.png)  
 - [2020-10-19-产品设计方法论：Amazon-逆向工作法](https://toutiao.io/k/o5hhx9b) ![](assets/new.png)  
-- [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
+- [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
 - [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
-- [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  
 - [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) ![](assets/new.png)  
+- [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  
 - [2020-10-19-Kotlin-Collection-VS-Kotlin-Sequence-VS-Java-Stream](https://toutiao.io/k/9lzdibp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

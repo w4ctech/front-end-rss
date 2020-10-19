@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 13:49:27，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 14:04:22，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,9 @@
 </summary>
 
 
+- [2020-10-19-zerotier-凉了？](https://www.v2ex.com/t/716503) ![](assets/new.png)  
+- [2020-10-19-macOS-下的开源状态栏监控-app-无需打开活动监视器即可查看高占用率进程](https://www.v2ex.com/t/716502) ![](assets/new.png)  
+- [2020-10-19-老码农准备换方向，那个可以做的更久一点？](https://www.v2ex.com/t/716501) ![](assets/new.png)  
 - [2020-10-19-有在瓜子二手车工作的朋友的吗？-怎么联系瓜子二手车廉政部](https://www.v2ex.com/t/716500) ![](assets/new.png)  
 - [2020-10-19-字节跳动互娱核心中台组诚招后端-RD](https://www.v2ex.com/t/716499) ![](assets/new.png)  
 - [2020-10-19-广东电信-1000M-宽带-699-元/月，算不算全国最高的？](https://www.v2ex.com/t/716498) ![](assets/new.png)  
@@ -1076,7 +1079,6 @@
 - [2020-10-19-觅道文档-0.6.0-发布，开源在线文档系统](https://www.v2ex.com/t/716494) ![](assets/new.png)  
 - [2020-10-19-有没有最近打算去香山玩的啊，一起去。](https://www.v2ex.com/t/716492) ![](assets/new.png)  
 - [2020-10-19-big-sur-cmd+r-进入恢复模式白屏？有碰到的-v-友吗](https://www.v2ex.com/t/716491) ![](assets/new.png)  
-- [2020-10-19-急单-两天做一个-web-演示-demo](https://www.v2ex.com/t/716490) ![](assets/new.png)  
 - [2020-10-19-搬到新办公地点后出现的神奇定位现象](https://www.v2ex.com/t/716489) ![](assets/new.png)  
 - [2020-10-19-腾讯-深圳、西安-直达面试官-招聘-web-前端高级研发工程师](https://www.v2ex.com/t/716488) ![](assets/new.png)  
 - [2020-10-19-做面向海外用户的共享软件，有什么好向海外个人用户收费的渠道？](https://www.v2ex.com/t/716487) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-19-字节社招校招海量-HC（包括服务端前段客户端测试）](https://www.v2ex.com/t/716484) ![](assets/new.png)  
 - [2020-10-19-怎么预防感冒传染](https://www.v2ex.com/t/716482) ![](assets/new.png)  
 - [2020-10-19-公益活动：-为中国的夏尔巴人群体献爱心](https://www.v2ex.com/t/716481) ![](assets/new.png)  
-- [2020-10-19-像-Github-Action-这样的平台，是如何存储命令输出的呢](https://www.v2ex.com/t/716480) ![](assets/new.png)  
-- [2020-10-19-这个腾讯王卡怎么回事？免费配种？](https://www.v2ex.com/t/716479) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,10 +1143,10 @@
 - [2020-10-19-详解-C++-11-中的智能指针](https://toutiao.io/k/prgwyy1) ![](assets/new.png)  
 - [2020-10-19-产品设计方法论：Amazon-逆向工作法](https://toutiao.io/k/o5hhx9b) ![](assets/new.png)  
 - [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
-- [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
-- [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) ![](assets/new.png)  
+- [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
+- [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) ![](assets/new.png)  
 - [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  
 - [2020-10-19-Kotlin-Collection-VS-Kotlin-Sequence-VS-Java-Stream](https://toutiao.io/k/9lzdibp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

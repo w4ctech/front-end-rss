@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 00:09:16，:rocket: 更新条数: +3724， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 00:40:00，:rocket: 更新条数: +3733， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,9 @@
 </summary>
 
 
-- [2020-10-17-最新疫情：全国新冠累计确诊85672例-新增境外输入13例](https://m.caixin.com/m/2020-10-18/101615972.html) ![](assets/new.png)  
+- [2020-10-18-10月18日全国新增境外输入新冠13例-累计确诊85685例](https://m.caixin.com/m/2020-10-19/101616012.html) ![](assets/new.png)  
+- [2020-10-18-高福：青岛冷链食品外包装首次分离新冠活病毒意义何在](https://m.caixin.com/m/2020-10-19/101615998.html) ![](assets/new.png)  
+- [2020-10-18-大流行手记|10月18日：全球单日新增病例连创新高-法国巴黎等地再宵禁](https://m.caixin.com/m/2020-10-19/101616004.html) ![](assets/new.png)  
 - [2020-10-17-青岛冷链食品外包装首次分离新冠活病毒-中疾控提示风险](https://m.caixin.com/m/2020-10-18/101615901.html) ![](assets/new.png)  
 - [2020-10-17-最新海外疫情：新冠感染超3948万-累计死亡近110万](http://m.international.caixin.com/m/2020-10-18/101615977.html) ![](assets/new.png)  
 - [2020-10-17-【境内疫情观察】全国新增13例境外输入病例（10月17日）](http://m.database.caixin.com/m/2020-10-18/101615934.html) ![](assets/new.png)  
@@ -82,8 +84,6 @@
 - [2020-10-13-独家|青岛疫情或源于早前码头工人感染-专家称暂未发现社区传播](https://m.caixin.com/m/2020-10-14/101614662.html) ![](assets/new.png)  
 - [2020-10-13-【境内疫情观察】山东新增6例本土确诊病例（10月13日）](http://m.database.caixin.com/m/2020-10-14/101614534.html) ![](assets/new.png)  
 - [2020-10-13-大流行手记|10月13日：全球新冠病亡率下降-世卫官员反对群体免疫策略](https://m.caixin.com/m/2020-10-14/101614424.html) ![](assets/new.png)  
-- [2020-10-13-欧洲入冬第二波疫情汹涌-病例新增速度已超过美国印度](http://m.international.caixin.com/m/2020-10-14/101614765.html) ![](assets/new.png)  
-- [2020-10-13-国台办回应台防疫部门称新增1例大陆输入病例](http://m.china.caixin.com/m/2020-10-14/101614573.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,10 @@
 </summary>
 
 
+- [2020-10-19-iPhone-12-想要支持实体双卡是不是只能国行？](https://www.v2ex.com/t/716238) ![](assets/new.png)  
+- [2020-10-19-Magsafe-会有些什么应用](https://www.v2ex.com/t/716237) ![](assets/new.png)  
+- [2020-10-19-关于二清求教:-有什么后果?-有哪些可供选择的解决方案?](https://www.v2ex.com/t/716236) ![](assets/new.png)  
+- [2020-10-19-2020-北京联通有什么合适的融合套餐吗？宽带➕手机➕固话](https://www.v2ex.com/t/716235) ![](assets/new.png)  
 - [2020-10-18-iPhone12mini-套一个-Smart-Battery-Case-怎么样？](https://www.v2ex.com/t/716233) ![](assets/new.png)  
 - [2020-10-18-每分钟允许尝试密码最大次数，的最佳实践是什么？](https://www.v2ex.com/t/716232) ![](assets/new.png)  
 - [2020-10-18-4gb-内存的手机在-2020-年够用吗？](https://www.v2ex.com/t/716231) ![](assets/new.png)  
@@ -1103,10 +1107,6 @@
 - [2020-10-18-chrome-插件模拟请求-bilibli-api-错误问题](https://www.v2ex.com/t/716216) ![](assets/new.png)  
 - [2020-10-18-mac-上有什么软件，可以记录我在哪个-app-上-花了多少时间，并生成报表？我想知道我的时间去哪儿了](https://www.v2ex.com/t/716213) ![](assets/new.png)  
 - [2020-10-18-还有没有人在使用-XP-系统](https://www.v2ex.com/t/716212) ![](assets/new.png)  
-- [2020-10-18-19-年发生的事，现在才知道。杭州不愧是资本-zf-先锋](https://www.v2ex.com/t/716210) ![](assets/new.png)  
-- [2020-10-18-收-iPhone-11-256g-颜色随意-成色-8-新以上](https://www.v2ex.com/t/716209) ![](assets/new.png)  
-- [2020-10-18-一台老款-macbook-没有-typec-接口，一台-win-台式机。怎么共用一块屏幕，一套键鼠。菜鸟求教育，求终身回忆。](https://www.v2ex.com/t/716206) ![](assets/new.png)  
-- [2020-10-18-群晖有没有类似-FTP-客户端的软件？可以支持断点续传](https://www.v2ex.com/t/716205) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1150,23 +1150,25 @@
 
 
 - [2020-10-19-30-岁的程序员出路在哪里？|-码农周刊第-321-期](https://toutiao.io/k/qdeuemt) ![](assets/new.png)  
-- [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
 - [2020-10-19-带你快速了解：限流中的漏桶和令牌桶算法](https://toutiao.io/k/okvzhvz) ![](assets/new.png)  
-- [2020-10-19-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
-- [2020-10-19-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-19-Service-Mesh-的关键：边车模式-sidecar；又要开车了](https://toutiao.io/k/vys6n4c) ![](assets/new.png)  
+- [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
+- [2020-10-19-用-Python-绘制地理图](https://toutiao.io/k/f1d73bn) ![](assets/new.png)  
+- [2020-10-19-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
+- [2020-10-19-Spring-Boot-开发秘籍：事件异步处理](https://toutiao.io/k/y424dbu) ![](assets/new.png)  
+- [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
+- [2020-10-19-星星之火，可否燎原：关于深度学习和大数据系统融合现状的认识](https://toutiao.io/k/sdb9eoy) ![](assets/new.png)  
+- [2020-10-19-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [2020-10-19-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
-- [2020-10-19-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-19-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-19-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-19-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-19-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-19-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-19-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-19-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-19-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-19-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-19-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-19-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
 - [2020-10-19-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-19-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-19-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-19-推荐-45-张图庖丁解牛-18-种-Queue，你知道几种？](https://toutiao.io/k/fvryjlb) ![](assets/new.png)  
+- [2020-10-19-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-19-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-19-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

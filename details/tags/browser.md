@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 00:09:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 00:40:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,6 +49,7 @@
 - [2020-10-18-chrome-插件模拟请求-bilibli-api-错误问题](https://www.v2ex.com/t/716216) 
 - [2020-10-19-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-19-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) 
 - [2020-10-18-亚太经合组织电信工作组第61次会议网络安全与繁荣指导组召开线上会...](https://sec.thief.one/article_content?a_id=9b2ed427638ae2997ef68413b9b26d62) 
 - [2020-10-18-详解零信任架构中的安全网关](https://sec.thief.one/article_content?a_id=16782800915cf60d15206ee06bfeecb5) 
 - [2020-10-17-【安全圈】数据泄露!新冠疫情下全球70%企业渴望“零信任架构”](https://sec.thief.one/article_content?a_id=ee0a3b5004f2718511ed368ac9ca5c22) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 06:16:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 06:33:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -35,6 +35,7 @@
 - [2020-10-13-困扰前端工程师的-React-问题，答案都在这了！](https://www.ershicimi.com/p/d053641b8e46ee2805ad1bf1692c69b7) 
 - [2020-10-09-只会-React-的那些人，现在怎么样了？](https://www.ershicimi.com/p/32266a9785744889df60e11625383ba1) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
+- [2020-10-18-微信H5-React-+-Umi-开发实践总结](https://juejin.im/post/6885207101052813319) 
 - [2020-10-18-React-中的虚拟-DOM-和-diff-算法](https://juejin.im/post/6885163621358403597) 
 - [2020-10-18-React-函数式组件的性能优化](https://juejin.im/post/6885162791632633870) 
 - [2020-03-03-Dumi-嘟米，开始打造自己的-React-组件开发和文档编写利器吧](https://www.ershicimi.com/p/f9e77bc189dd80c841305d9b8d441e8d) 

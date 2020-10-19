@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 06:16:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 06:33:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -32,4 +32,3 @@
 - [2020-10-13-排查-Node.js-服务内存泄漏，没想到竟是它？](https://www.ershicimi.com/p/935df501ec98dc8764906f49f4c49f97) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
 - [2020-10-15-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/f040ab39db4122b8da2440d178270309) 
-- [2020-10-18-从零开始开发基于electron的switchHost应用](https://juejin.im/post/6885154595498033166) 

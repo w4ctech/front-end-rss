@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 12:44:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 12:52:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,8 +40,8 @@
 - [2020-10-15-面试遭遇-SparkSQL，慌了！](https://www.ershicimi.com/p/b25fcbef6eee387a64fc9bebb1b1e0c8) 
 - [2020-10-15-滴滴CTO五轮面试真是太刺激了，Java高级工程师一二三四五面面经已拿到offer](https://www.ershicimi.com/p/3094204bbe95af3a1045d7789f1e4255) 
 - [2020-10-12-Redis-怎么防止数据丢失？面试必问！](https://www.ershicimi.com/p/e33e27614c53b77e9c42986cd3f93352) 
+- [2020-10-19-腾讯-深圳、西安-直达面试官-招聘-web-前端高级研发工程师](https://www.v2ex.com/t/716488) 
 - [2020-10-19-两道面试题](https://www.v2ex.com/t/716440) 
-- [2020-10-19-灵均投资-招聘-|-量化研究/技术开发](https://www.v2ex.com/t/716439) 
 - [2020-10-19-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
 - [2020-10-19-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
 - [2020-10-19-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 

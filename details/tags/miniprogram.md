@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 00:40:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 01:14:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -40,4 +40,5 @@
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://aotu.io/notes/2017/01/06/wxapp-img-loader/) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [2020-10-19-个人小程序成功上线，欢迎大家体验、提建议-失忆记事本](https://www.v2ex.com/t/716243) 
 - [2020-10-17-小程序渗透-|-对酒店房间自助售货机的支付漏洞挖掘](https://sec.thief.one/article_content?a_id=9bc654e16d043dae8b0161870d334a3e) 

@@ -17286,6 +17286,36 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "为什么说图形数据库是大数据时代的利器？",
+        "link": "https://www.ershicimi.com/p/68a3e897aaaf45966d3a01b72166e13d",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "Java 中的 AQS 到底是什么？高级面试必问！",
+        "link": "https://www.ershicimi.com/p/333df1b52c7a8072743c190abefd56e7",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安",
+        "link": "https://www.ershicimi.com/p/e3ee1b93362990a169a0ea0f52f36e54",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "我的IntelliJ IDEA一直都是这么设置的，效果很棒！",
+        "link": "https://www.ershicimi.com/p/ff886072242909d85b99176e85f01fc6",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "MySQL 8.0 新特性：引人注目的哈希连接（Hash Join）",
+        "link": "https://www.ershicimi.com/p/22935a3c98ce596bfe7f13c42d9759ff",
+        "date": "2020-10-18"
+      },
+      {
+        "title": "分库分表就能无限扩容吗？",
+        "link": "https://www.ershicimi.com/p/66d844930dcc2581082f3bfd7272d2eb",
+        "date": "2020-10-18"
+      },
+      {
         "title": "那个「最牛删库跑路事件」的程序员，被判了....",
         "link": "https://www.ershicimi.com/p/b77c15fb99463067ca79fe4444c72b46",
         "date": "2020-10-17"
@@ -17354,36 +17384,6 @@
         "title": "10亿数据量只需要100MB内存，redis的位存储为什么这么牛？",
         "link": "https://www.ershicimi.com/p/d4bad6d04add1b76e657e6dce6f3312e",
         "date": "2020-10-13"
-      },
-      {
-        "title": "真难！通过源码告诉你阿里的数据库连接池Druid为啥如此牛逼！",
-        "link": "https://www.ershicimi.com/p/ddc6e562403de9e2818ad584cd5cbf74",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "Redis 怎么防止数据丢失？面试必问！",
-        "link": "https://www.ershicimi.com/p/e33e27614c53b77e9c42986cd3f93352",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "Java 8 Stream 闪亮登场！",
-        "link": "https://www.ershicimi.com/p/057768aa2ddb7fb46a24b641f54f53fb",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "那些还在外包公司干的程序员们，快醒醒吧！",
-        "link": "https://www.ershicimi.com/p/dfaa78d417312f1717fd90ea6994cb76",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "全国最大直男论坛的性感女神翻车了，网友：乔碧萝第二",
-        "link": "https://www.ershicimi.com/p/2ab719bb3fbc3db73302ab9586929a83",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "一款被大家低估的微服务场景下性能问题排查神器！",
-        "link": "https://www.ershicimi.com/p/15da6d82c5f2a839f3a61cd256c39ac3",
-        "date": "2020-10-11"
       }
     ]
   },
@@ -18400,13 +18400,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[译] 用 Notary 和 OPA 在 Kubernetes 上使用内容签名",
-        "link": "https://toutiao.io/k/mebgv58",
+        "title": "如何有效的维权，这些投诉平台你可能用得上",
+        "link": "https://toutiao.io/k/e3zsppo",
         "date": "2020-10-19"
       },
       {
-        "title": "如何有效的维权，这些投诉平台你可能用得上",
-        "link": "https://toutiao.io/k/e3zsppo",
+        "title": "[译] 用 Notary 和 OPA 在 Kubernetes 上使用内容签名",
+        "link": "https://toutiao.io/k/mebgv58",
         "date": "2020-10-19"
       },
       {
@@ -18430,68 +18430,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-19"
-      },
-      {
         "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
         "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-19"
       },
       {
@@ -18500,8 +18445,63 @@
         "date": "2020-10-19"
       },
       {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-19"
+      },
+      {
         "title": "[推荐] 我是如何阅读 JDK 源码的？",
         "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-19"
       }
     ]

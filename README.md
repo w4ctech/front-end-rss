@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 18:15:28，:rocket: 更新条数: +3747， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 18:31:37，:rocket: 更新条数: +3747， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -874,6 +874,12 @@
 </summary>
 
 
+- [2020-10-19-为什么说图形数据库是大数据时代的利器？](https://www.ershicimi.com/p/68a3e897aaaf45966d3a01b72166e13d) ![](assets/new.png)  
+- [2020-10-19-Java-中的-AQS-到底是什么？高级面试必问！](https://www.ershicimi.com/p/333df1b52c7a8072743c190abefd56e7) ![](assets/new.png)  
+- [2020-10-19-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/e3ee1b93362990a169a0ea0f52f36e54) ![](assets/new.png)  
+- [2020-10-18-我的IntelliJ-IDEA一直都是这么设置的，效果很棒！](https://www.ershicimi.com/p/ff886072242909d85b99176e85f01fc6) ![](assets/new.png)  
+- [2020-10-18-MySQL-8.0-新特性：引人注目的哈希连接（Hash-Join）](https://www.ershicimi.com/p/22935a3c98ce596bfe7f13c42d9759ff) ![](assets/new.png)  
+- [2020-10-18-分库分表就能无限扩容吗？](https://www.ershicimi.com/p/66d844930dcc2581082f3bfd7272d2eb) ![](assets/new.png)  
 - [2020-10-17-那个「最牛删库跑路事件」的程序员，被判了....](https://www.ershicimi.com/p/b77c15fb99463067ca79fe4444c72b46) ![](assets/new.png)  
 - [2020-10-17-Spring-Boot-无侵入式-实现API接口统一JSON格式返回](https://www.ershicimi.com/p/c13b7a5c22f5b4146cc652ebd59d1863) ![](assets/new.png)  
 - [2020-10-17-假如你是架构师，你要做些什么](https://www.ershicimi.com/p/5362d64704b5bcd432c16d16d38635ed) ![](assets/new.png)  
@@ -888,12 +894,6 @@
 - [2020-10-14-如何确保分布式场景下的并发幂等性？](https://www.ershicimi.com/p/bcee6f7a15332c0c2c3cf207b3fcff95) ![](assets/new.png)  
 - [2020-10-13-看看人家那后端API接口写得，那叫一个牛逼，再看看我的，像坨屎！](https://www.ershicimi.com/p/27b5c743d077e99ba347e7ff4b226a71) ![](assets/new.png)  
 - [2020-10-13-10亿数据量只需要100MB内存，redis的位存储为什么这么牛？](https://www.ershicimi.com/p/d4bad6d04add1b76e657e6dce6f3312e) ![](assets/new.png)  
-- [2020-10-12-真难！通过源码告诉你阿里的数据库连接池Druid为啥如此牛逼！](https://www.ershicimi.com/p/ddc6e562403de9e2818ad584cd5cbf74) ![](assets/new.png)  
-- [2020-10-12-Redis-怎么防止数据丢失？面试必问！](https://www.ershicimi.com/p/e33e27614c53b77e9c42986cd3f93352) ![](assets/new.png)  
-- [2020-10-12-Java-8-Stream-闪亮登场！](https://www.ershicimi.com/p/057768aa2ddb7fb46a24b641f54f53fb) ![](assets/new.png)  
-- [2020-10-11-那些还在外包公司干的程序员们，快醒醒吧！](https://www.ershicimi.com/p/dfaa78d417312f1717fd90ea6994cb76) ![](assets/new.png)  
-- [2020-10-11-全国最大直男论坛的性感女神翻车了，网友：乔碧萝第二](https://www.ershicimi.com/p/2ab719bb3fbc3db73302ab9586929a83) ![](assets/new.png)  
-- [2020-10-11-一款被大家低估的微服务场景下性能问题排查神器！](https://www.ershicimi.com/p/15da6d82c5f2a839f3a61cd256c39ac3) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1163,8 +1163,8 @@
 - [2020-10-19-详解-C++-11-中的智能指针](https://toutiao.io/k/prgwyy1) ![](assets/new.png)  
 - [2020-10-19-产品设计方法论：Amazon-逆向工作法](https://toutiao.io/k/o5hhx9b) ![](assets/new.png)  
 - [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
-- [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
 - [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  
+- [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
 - [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) ![](assets/new.png)  
 - [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  

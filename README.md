@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 02:04:03，:rocket: 更新条数: +3741， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 02:15:23，:rocket: 更新条数: +3740， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,10 @@
 </summary>
 
 
+- [2020-10-19-LTUI-v2.2-发布,-一个基于-lua-的跨平台字符终端-UI-界面库](https://www.v2ex.com/t/716275) ![](assets/new.png)  
+- [2020-10-19-Gitter-被-Element-收购了？](https://www.v2ex.com/t/716274) ![](assets/new.png)  
+- [2020-10-19-win10-安装的时候不能登录账户，只能创建离线账号是什么情况](https://www.v2ex.com/t/716273) ![](assets/new.png)  
+- [2020-10-19-中医粉-紫薯布丁](https://www.v2ex.com/t/716271) ![](assets/new.png)  
 - [2020-10-19-周末来北京转转，求问-V-友有什么推荐的地方吗？](https://www.v2ex.com/t/716269) ![](assets/new.png)  
 - [2020-10-19-求助方案企业微信自助服务机器人的实现](https://www.v2ex.com/t/716268) ![](assets/new.png)  
 - [2020-10-19-域名备案了可以解析到香港服务器吗？](https://www.v2ex.com/t/716267) ![](assets/new.png)  
@@ -1103,10 +1107,6 @@
 - [2020-10-19-图书馆是不是个鸡肋？](https://www.v2ex.com/t/716252) ![](assets/new.png)  
 - [2020-10-19-se2-和-mini-的-esim-是硬件阉割么？](https://www.v2ex.com/t/716251) ![](assets/new.png)  
 - [2020-10-19-AirPods-Pro-听歌耳机里突然出现炸裂声](https://www.v2ex.com/t/716250) ![](assets/new.png)  
-- [2020-10-19-朴朴超市内推-🔥🔥🔥-前端/-Java-/算法/运维/客户端/产品各类岗位内推跟进](https://www.v2ex.com/t/716249) ![](assets/new.png)  
-- [2020-10-19-单圈回环表带戴了-2、3-天就有异味](https://www.v2ex.com/t/716247) ![](assets/new.png)  
-- [2020-10-19-MacBook-pro-2020-touch-bar-每次都要点第二次才反应](https://www.v2ex.com/t/716246) ![](assets/new.png)  
-- [2020-10-19-双-11-快到了-求一套家用电器选择方案](https://www.v2ex.com/t/716245) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1153,22 +1153,22 @@
 - [2020-10-19-Service-Mesh-的关键：边车模式-sidecar；又要开车了](https://toutiao.io/k/vys6n4c) ![](assets/new.png)  
 - [2020-10-19-带你快速了解：限流中的漏桶和令牌桶算法](https://toutiao.io/k/okvzhvz) ![](assets/new.png)  
 - [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
-- [2020-10-19-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
 - [2020-10-19-星星之火，可否燎原：关于深度学习和大数据系统融合现状的认识](https://toutiao.io/k/sdb9eoy) ![](assets/new.png)  
+- [2020-10-19-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
 - [2020-10-19-用-Python-绘制地理图](https://toutiao.io/k/f1d73bn) ![](assets/new.png)  
-- [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
 - [2020-10-19-Spring-Boot-开发秘籍：事件异步处理](https://toutiao.io/k/y424dbu) ![](assets/new.png)  
+- [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
 - [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
 - [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-详解-C++-11-中的智能指针](https://toutiao.io/k/prgwyy1) ![](assets/new.png)  
 - [2020-10-19-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
-- [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
 - [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
-- [2020-10-19-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-19-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-19-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
 - [2020-10-19-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-19-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-19-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-19-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

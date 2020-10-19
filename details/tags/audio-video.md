@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 02:04:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 02:15:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,7 +90,6 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-10-18-基于-Airplay/Miracast-Server-协议的视频下载工具](https://www.v2ex.com/t/716228) 
-- [2020-10-18-代发都说做公众号，码字已经没有前途，上视频才有希望！](https://www.v2ex.com/t/716220) 
 - [2020-10-18-【视频】|-个人信息保护法:捍卫信息安全](https://sec.thief.one/article_content?a_id=45426dfc7b240b97e788b6617232337b) 
 - [2020-10-16-今晚直播预告丨渗透测试神器福利专场](https://sec.thief.one/article_content?a_id=b0fc6d315b562e45a363c8e0671420dd) 
 - [2020-10-16-无处安放的个人安全:3TB家庭摄像机视频,被黑客在线发布!](https://sec.thief.one/article_content?a_id=ec72393a102cb12af92b6a4f2efe9f6d) 

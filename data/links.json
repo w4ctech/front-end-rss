@@ -18006,6 +18006,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "LTUI v2.2 发布, 一个基于 lua 的跨平台字符终端 UI 界面库",
+        "link": "https://www.v2ex.com/t/716275",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "Gitter 被 Element 收购了？",
+        "link": "https://www.v2ex.com/t/716274",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "win10 安装的时候不能登录账户，只能创建离线账号是什么情况",
+        "link": "https://www.v2ex.com/t/716273",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "中医粉 紫薯布丁",
+        "link": "https://www.v2ex.com/t/716271",
+        "date": "2020-10-19"
+      },
+      {
         "title": "周末来北京转转，求问 V 友有什么推荐的地方吗？",
         "link": "https://www.v2ex.com/t/716269",
         "date": "2020-10-19"
@@ -18179,31 +18199,6 @@
         "title": "用 iPad pro 做轻量级的编程学习是否可行？",
         "link": "https://www.v2ex.com/t/716226",
         "date": "2020-10-18"
-      },
-      {
-        "title": "试用期 满脑子问号",
-        "link": "https://www.v2ex.com/t/716225",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "现在苹果售后全线都需要发票了呀",
-        "link": "https://www.v2ex.com/t/716224",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "学海无涯少入坑之---------------学习数据分析或数据挖掘需要涉及多重线性代数和张量之类的知识么？",
-        "link": "https://www.v2ex.com/t/716222",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "某些假冒和第三方的电源适配器及电池可能设计不当，有可能会导致安全问题。",
-        "link": "https://www.v2ex.com/t/716221",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "[代发]都说做公众号，码字已经没有前途，上视频才有希望！",
-        "link": "https://www.v2ex.com/t/716220",
-        "date": "2020-10-18"
       }
     ]
   },
@@ -18340,13 +18335,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
+        "title": "星星之火，可否燎原：关于深度学习和大数据系统融合现状的认识",
+        "link": "https://toutiao.io/k/sdb9eoy",
         "date": "2020-10-19"
       },
       {
-        "title": "星星之火，可否燎原：关于深度学习和大数据系统融合现状的认识",
-        "link": "https://toutiao.io/k/sdb9eoy",
+        "title": "理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-19"
       },
       {
@@ -18355,13 +18350,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "这个缓存更新的套路你都知道吗？",
-        "link": "https://toutiao.io/k/zq6ysw5",
+        "title": "Spring Boot 开发秘籍：事件异步处理",
+        "link": "https://toutiao.io/k/y424dbu",
         "date": "2020-10-19"
       },
       {
-        "title": "Spring Boot 开发秘籍：事件异步处理",
-        "link": "https://toutiao.io/k/y424dbu",
+        "title": "这个缓存更新的套路你都知道吗？",
+        "link": "https://toutiao.io/k/zq6ysw5",
         "date": "2020-10-19"
       },
       {
@@ -18390,28 +18385,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "谷歌 pQRNN：轻量级文本分类模型",
-        "link": "https://toutiao.io/k/2yzycwd",
-        "date": "2020-10-19"
-      },
-      {
         "title": "[译] 用 Notary 和 OPA 在 Kubernetes 上使用内容签名",
         "link": "https://toutiao.io/k/mebgv58",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
+        "title": "谷歌 pQRNN：轻量级文本分类模型",
+        "link": "https://toutiao.io/k/2yzycwd",
         "date": "2020-10-19"
       },
       {
@@ -18420,18 +18400,23 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-19"
       },
       {
@@ -18445,8 +18430,8 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-19"
       },
       {
@@ -18455,23 +18440,33 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-19"
       },
       {
         "title": "[推荐] B站面试之旅",
         "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-19"
       }
     ]

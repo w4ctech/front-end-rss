@@ -14281,111 +14281,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/29",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/29",
     "title": "前端开发",
     "link": "https://www.ershicimi.com/a/29",
-    "items": [
-      {
-        "title": "送 6 本 JavaScript  “红宝书”《JavaScript 高级程序设计（第4版）》",
-        "link": "https://www.ershicimi.com/p/8c3c9dc4817e3596c6c481c4c36468e6",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "大家都在关注 Vue 3，其实尤大还搞了个这玩意",
-        "link": "https://www.ershicimi.com/p/2a8753084634bda0952fffc0f8fd47cf",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "从Vue SSR原理讲起，教你从零搭建Vue SSR",
-        "link": "https://www.ershicimi.com/p/02d0230104fa7aa75d19789cc242669d",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "JS双等号比较符（“==”）作用细节",
-        "link": "https://www.ershicimi.com/p/a210134db5fda43f542248ec3b7bc00e",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "收藏 | JS开发必须知道的41个技巧",
-        "link": "https://www.ershicimi.com/p/559dea8cf6972b528ee3fae25a9f5b06",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "小伙刚入职，一句话暴露了 2 个坏习惯，竟被踢出公司群聊...",
-        "link": "https://www.ershicimi.com/p/8b3c18a8ce14a0751d9ef5d029675963",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "Vue 第一次 commit 原来是这个样子",
-        "link": "https://www.ershicimi.com/p/80264d3035f30f101b4ca738bec5ce9a",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "不会吧！不会吧！2020年还有人认为前端就是切图仔？",
-        "link": "https://www.ershicimi.com/p/a9a25f7a26eb296ee5265209546cafac",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "Vue 项目中各种痛点问题及方案",
-        "link": "https://www.ershicimi.com/p/fa433b76efe757af442c5e635cee8716",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "你不知道的 WebSocket",
-        "link": "https://www.ershicimi.com/p/e0f12cf3fdca4a6902a6be2dd576d972",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "不懂源码，白做前端！",
-        "link": "https://www.ershicimi.com/p/bb5a715d21e6306d52c6c73902655a7b",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "Flutter开始支持Windows",
-        "link": "https://www.ershicimi.com/p/6616d09fee90095bd1b03454e054f6d3",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "尤雨溪：全职做开源年薪百万，网友：不愧是前端尤大神",
-        "link": "https://www.ershicimi.com/p/4c141c4dbb5812adeb26a6e2b86a7fec",
-        "date": "2020-09-30"
-      },
-      {
-        "title": "你应该知道的 NPM 知识都在这！",
-        "link": "https://www.ershicimi.com/p/bbab7cb8c8aa6ecb2d7be925072eae3e",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "不定宽溢出文本适配滚动",
-        "link": "https://www.ershicimi.com/p/82facd4a65470af20eed04cecbb01f5b",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "Node.js 在大前端领域的应用分析",
-        "link": "https://www.ershicimi.com/p/35e68066c5fdc7da00fa6578cd44e004",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "JavaScrpit AST 实战",
-        "link": "https://www.ershicimi.com/p/02b700b0f8fefb3cde41bb90ac252632",
-        "date": "2020-09-25"
-      },
-      {
-        "title": "从0到1用Node完成一个CLI工具",
-        "link": "https://www.ershicimi.com/p/a9a603eab29a5625f2c33aed1dd59c5a",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "浅析鸿蒙 JavaScript GUI 技术栈",
-        "link": "https://www.ershicimi.com/p/c062cc7d7443259f5091b096df5edb1d",
-        "date": "2020-09-24"
-      },
-      {
-        "title": "Vue 3.0 正式发布了！",
-        "link": "https://www.ershicimi.com/p/259de51160f57a07999645d773a65496",
-        "date": "2020-09-23"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/166",
@@ -16870,6 +16769,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[字节跳动]互娱核心中台组诚招后端 RD",
+        "link": "https://www.v2ex.com/t/716499",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "广东电信 1000M 宽带 699 元/月，算不算全国最高的？",
+        "link": "https://www.v2ex.com/t/716498",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "前端都这样的吗？不能更新升级的吗？",
+        "link": "https://www.v2ex.com/t/716497",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "不懂就问！大家觉得，有严重的精神疾病应该告知伴侣吗？应该生孩子吗？",
+        "link": "https://www.v2ex.com/t/716496",
+        "date": "2020-10-19"
+      },
+      {
         "title": ".net 被歧视",
         "link": "https://www.v2ex.com/t/716495",
         "date": "2020-10-19"
@@ -17042,26 +16961,6 @@
       {
         "title": "329 元的 MagSafe 充电器才 5W",
         "link": "https://www.v2ex.com/t/716450",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "如何学习设计模式？",
-        "link": "https://www.v2ex.com/t/716449",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "问下各位，“北京京惠保”这个合适买吗？",
-        "link": "https://www.v2ex.com/t/716448",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "一直都觉得自己是个技术渣渣",
-        "link": "https://www.v2ex.com/t/716447",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "好像没以前关心空气质量了，是习惯了么，顺便在哪里查比较权威",
-        "link": "https://www.v2ex.com/t/716446",
         "date": "2020-10-19"
       }
     ]
@@ -17264,13 +17163,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "如何有效的维权，这些投诉平台你可能用得上",
-        "link": "https://toutiao.io/k/e3zsppo",
+        "title": "从 HTTP 协议层面探讨 Bypass",
+        "link": "https://toutiao.io/k/ta14m5w",
         "date": "2020-10-19"
       },
       {
-        "title": "从 HTTP 协议层面探讨 Bypass",
-        "link": "https://toutiao.io/k/ta14m5w",
+        "title": "如何有效的维权，这些投诉平台你可能用得上",
+        "link": "https://toutiao.io/k/e3zsppo",
         "date": "2020-10-19"
       },
       {
@@ -17284,48 +17183,8 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-19"
       },
       {
@@ -17334,8 +17193,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-19"
       },
       {
@@ -17344,13 +17208,48 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-19"
       },
       {
         "title": "[推荐] 我是如何阅读 JDK 源码的？",
         "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-19"
       }
     ]

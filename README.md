@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 09:39:34，:rocket: 更新条数: +3749， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 09:48:03，:rocket: 更新条数: +3752， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,9 @@
 </summary>
 
 
+- [2020-10-19-双卡-iPhone12-不能跑-5G](https://www.v2ex.com/t/716451) ![](assets/new.png)  
+- [2020-10-19-329-元的-MagSafe-充电器才-5W](https://www.v2ex.com/t/716450) ![](assets/new.png)  
+- [2020-10-19-如何学习设计模式？](https://www.v2ex.com/t/716449) ![](assets/new.png)  
 - [2020-10-19-问下各位，“北京京惠保”这个合适买吗？](https://www.v2ex.com/t/716448) ![](assets/new.png)  
 - [2020-10-19-一直都觉得自己是个技术渣渣](https://www.v2ex.com/t/716447) ![](assets/new.png)  
 - [2020-10-19-好像没以前关心空气质量了，是习惯了么，顺便在哪里查比较权威](https://www.v2ex.com/t/716446) ![](assets/new.png)  
@@ -1104,9 +1107,6 @@
 - [2020-10-19-想咨询下阿里、京东等公司内部关于图片压缩的系统是怎么搭建的？](https://www.v2ex.com/t/716433) ![](assets/new.png)  
 - [2020-10-19-有个奇怪的-MatchPhrase-和-MatchPhrasePrefix-的问题，求大佬帮忙分析](https://www.v2ex.com/t/716432) ![](assets/new.png)  
 - [2020-10-19-这一次我们做了个不一样的导航网站，全是优质资源](https://www.v2ex.com/t/716431) ![](assets/new.png)  
-- [2020-10-19-感慨一下，电车通勤是真的省钱。](https://www.v2ex.com/t/716430) ![](assets/new.png)  
-- [2020-10-19-自家种山西翼城红富士-开店特促-顺丰包邮！](https://www.v2ex.com/t/716429) ![](assets/new.png)  
-- [2020-10-19-刚需-350w-左右买在哪里好坐标南京](https://www.v2ex.com/t/716428) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1156,14 +1156,14 @@
 - [2020-10-19-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-19-Service-Mesh-的关键：边车模式-sidecar；又要开车了](https://toutiao.io/k/vys6n4c) ![](assets/new.png)  
 - [2020-10-19-带你快速了解：限流中的漏桶和令牌桶算法](https://toutiao.io/k/okvzhvz) ![](assets/new.png)  
-- [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
 - [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
+- [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
 - [2020-10-19-用-Python-绘制地理图](https://toutiao.io/k/f1d73bn) ![](assets/new.png)  
 - [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
 - [2020-10-19-详解-C++-11-中的智能指针](https://toutiao.io/k/prgwyy1) ![](assets/new.png)  
 - [2020-10-19-产品设计方法论：Amazon-逆向工作法](https://toutiao.io/k/o5hhx9b) ![](assets/new.png)  
-- [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-谷歌-pQRNN：轻量级文本分类模型](https://toutiao.io/k/2yzycwd) ![](assets/new.png)  
+- [2020-10-19-编程体系结构：Java-IO-流文件管理](https://toutiao.io/k/f3xqehn) ![](assets/new.png)  
 - [2020-10-19-译-用-Notary-和-OPA-在-Kubernetes-上使用内容签名](https://toutiao.io/k/mebgv58) ![](assets/new.png)  
 - [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
 - [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  

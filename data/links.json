@@ -18016,6 +18016,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "双卡 iPhone12 不能跑 5G",
+        "link": "https://www.v2ex.com/t/716451",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "329 元的 MagSafe 充电器才 5W",
+        "link": "https://www.v2ex.com/t/716450",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "如何学习设计模式？",
+        "link": "https://www.v2ex.com/t/716449",
+        "date": "2020-10-19"
+      },
+      {
         "title": "问下各位，“北京京惠保”这个合适买吗？",
         "link": "https://www.v2ex.com/t/716448",
         "date": "2020-10-19"
@@ -18375,13 +18390,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "这个缓存更新的套路你都知道吗？",
-        "link": "https://toutiao.io/k/zq6ysw5",
+        "title": "如何优化前端性能？",
+        "link": "https://toutiao.io/k/fagglng",
         "date": "2020-10-19"
       },
       {
-        "title": "如何优化前端性能？",
-        "link": "https://toutiao.io/k/fagglng",
+        "title": "这个缓存更新的套路你都知道吗？",
+        "link": "https://toutiao.io/k/zq6ysw5",
         "date": "2020-10-19"
       },
       {
@@ -18405,13 +18420,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "编程体系结构：Java IO 流文件管理",
-        "link": "https://toutiao.io/k/f3xqehn",
+        "title": "谷歌 pQRNN：轻量级文本分类模型",
+        "link": "https://toutiao.io/k/2yzycwd",
         "date": "2020-10-19"
       },
       {
-        "title": "谷歌 pQRNN：轻量级文本分类模型",
-        "link": "https://toutiao.io/k/2yzycwd",
+        "title": "编程体系结构：Java IO 流文件管理",
+        "link": "https://toutiao.io/k/f3xqehn",
         "date": "2020-10-19"
       },
       {
@@ -18440,53 +18455,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-19"
-      },
-      {
         "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
         "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-19"
-      },
-      {
         "title": "[推荐] 技术方案设计的方法",
         "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-19"
       },
       {
@@ -18500,18 +18475,58 @@
         "date": "2020-10-19"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-19"
-      },
-      {
         "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
         "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-19"
       },
       {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-19"
+      },
+      {
         "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
         "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-19"
       }
     ]

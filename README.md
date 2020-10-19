@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 14:47:06，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 14:49:12，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)![](assets/dot.png)   
@@ -384,26 +384,6 @@
 </summary>
 
 
-- [2020-10-17-ES2020中JavaScript-10个你应该知道的新功能](https://www.ershicimi.com/p/465789059fe1d5cfee3df476216eb59a) ![](assets/new.png)  
-- [2020-10-16-前端程序员现状：不突破瓶颈很难生存！](https://www.ershicimi.com/p/277137682ea8a40c93434375e174bb34) ![](assets/new.png)  
-- [2020-10-14-我在众多AI学习的分享中，找到了最强教学系列视频！](https://www.ershicimi.com/p/eba5bb49df092314f8ce374e745cca90) ![](assets/new.png)  
-- [2020-10-14-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/b8ec5bada8e183c1aba78aa6176b6279) ![](assets/new.png)  
-- [2020-10-13-如何在从事前端两年，得到20K+的offer](https://www.ershicimi.com/p/fa0312da26731d7547946d88b01be50d) ![](assets/new.png)  
-- [2020-10-12-webpack如何快速入门？](https://www.ershicimi.com/p/72cb35fa3d75999fdb846a6f1ad79636) ![](assets/new.png)  
-- [2020-10-12-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bb121b910148c883d3d1c8243fa7abdf) ![](assets/new.png)  
-- [2020-10-10-Vue3+TypeScript完整项目上手教程](https://www.ershicimi.com/p/a1f58e05342565128a63f7116db38e2a) ![](assets/new.png)  
-- [2020-10-09-四年前端，竟在这道CSS面试题上跪了](https://www.ershicimi.com/p/77b12c47a3599719d7add23051b45375) ![](assets/new.png)  
-- [2020-10-09-张一鸣：给产品技术人才的建议](https://www.ershicimi.com/p/0186fc2099f91f55f16742b8e47e4b67) ![](assets/new.png)  
-- [2020-10-08-Python之父：JS不是竞争对手](https://www.ershicimi.com/p/062db78e78423e7cbc7060635ad185f8) ![](assets/new.png)  
-- [2020-10-08-大部分人都会做错的经典-JS-闭包面试题](https://www.ershicimi.com/p/e4916ac661cae6cc50e27b2a0403c6ef) ![](assets/new.png)  
-- [2020-10-05-记录下入职中软一个月（外包华为），就离职了！](https://www.ershicimi.com/p/b70ca359ccd3ca843fb5219bacd97115) ![](assets/new.png)  
-- [2020-09-29-32个手撕JS，彻底摆脱初级前端（面试高频）](https://www.ershicimi.com/p/44b1a720095cf182b60ca705dc167ae9) ![](assets/new.png)  
-- [2020-09-27-前端：写在-30-岁之前](https://www.ershicimi.com/p/d70a746668b2a01dddbdfcbca4439741) ![](assets/new.png)  
-- [2020-09-27-全面分析toString与valueOf，并随手解决掉几道大厂必备面试题](https://www.ershicimi.com/p/46732a0e26399e87a94fef1d37b39bba) ![](assets/new.png)  
-- [2020-09-25-3年前端也被裁？你的技术欠缺这2点](https://www.ershicimi.com/p/3cbf65a87acc9a21925607b34e95e62c) ![](assets/new.png)  
-- [2020-09-25-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/54e33fa9972d09466745caea15b0057e) ![](assets/new.png)  
-- [2020-09-24-VUE+ElementUI后台管理项目经验与技巧分享，金九银十跳槽必看！](https://www.ershicimi.com/p/16527cca93bfecd468a24f696ad0361c) ![](assets/new.png)  
-- [2020-09-24-前端面试常见的手写功能（常用代码）](https://www.ershicimi.com/p/341f27b85dabee96c83330aecd0a3458) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

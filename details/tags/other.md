@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 14:47:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 14:49:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2421,12 +2421,6 @@
 - [2020-02-07-工具控来看看代码高亮必备](https://www.ershicimi.com/p/56debedff7f9d3c357f3621de7a64aa2) 
 - [2020-02-03-阿里-ice.work-探秘系列-disabled-reload](https://www.ershicimi.com/p/51eed11abceaabb3dd7f2ceed864d182) 
 - [2020-01-16-阿里-ice.work-探秘系列-withRouter-的使用](https://www.ershicimi.com/p/29c023dd30374ab258ceef6aeaddb1e2) 
-- [2020-10-16-前端程序员现状：不突破瓶颈很难生存！](https://www.ershicimi.com/p/277137682ea8a40c93434375e174bb34) 
-- [2020-10-13-如何在从事前端两年，得到20K+的offer](https://www.ershicimi.com/p/fa0312da26731d7547946d88b01be50d) 
-- [2020-10-09-张一鸣：给产品技术人才的建议](https://www.ershicimi.com/p/0186fc2099f91f55f16742b8e47e4b67) 
-- [2020-10-05-记录下入职中软一个月（外包华为），就离职了！](https://www.ershicimi.com/p/b70ca359ccd3ca843fb5219bacd97115) 
-- [2020-09-27-前端：写在-30-岁之前](https://www.ershicimi.com/p/d70a746668b2a01dddbdfcbca4439741) 
-- [2020-09-25-3年前端也被裁？你的技术欠缺这2点](https://www.ershicimi.com/p/3cbf65a87acc9a21925607b34e95e62c) 
 - [2020-09-02-字节跳动-广告研发-|-2021秋季校园人才召集令！](https://www.ershicimi.com/p/2358db3b947642bb5adffd571bca1614) 
 - [2020-09-01-前端智能化实践——从图片识别UI样式](https://www.ershicimi.com/p/d6b4d4f61c3d7f036776be1b0668374b) 
 - [2020-08-27-前阿里手淘前端负责人@winter：前端人如何保持竞争力？](https://www.ershicimi.com/p/9ee51370746c067d707a2937c53e3a5d) 

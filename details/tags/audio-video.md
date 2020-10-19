@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 08:16:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 08:32:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,8 +85,8 @@
 - [2020-10-14-我在众多AI学习的分享中，找到了最强教学系列视频！](https://www.ershicimi.com/p/eba5bb49df092314f8ce374e745cca90) 
 - [2020-10-09-人工智能从入门到精通系列教学视频免费送](https://www.ershicimi.com/p/4cec892c264b2a104a924d687161940a) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-10-19-iphone12-的评测视频啥时候网上能有啊](https://www.v2ex.com/t/716423) 
 - [2020-10-19-美资韩企-Coupang-直播上海招聘-Java-后端/移动端/测试-，-13-15-薪，-965-不加班，良心亲测保真](https://www.v2ex.com/t/716412) 
-- [2020-10-19-macOS-看英文视频在线翻译的软件？](https://www.v2ex.com/t/716378) 
 - [2020-10-18-【视频】|-个人信息保护法:捍卫信息安全](https://sec.thief.one/article_content?a_id=45426dfc7b240b97e788b6617232337b) 
 - [2020-10-16-今晚直播预告丨渗透测试神器福利专场](https://sec.thief.one/article_content?a_id=b0fc6d315b562e45a363c8e0671420dd) 
 - [2020-10-16-无处安放的个人安全:3TB家庭摄像机视频,被黑客在线发布!](https://sec.thief.one/article_content?a_id=ec72393a102cb12af92b6a4f2efe9f6d) 

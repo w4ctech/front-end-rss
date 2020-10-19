@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 03:14:31，:rocket: 更新条数: +3513， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 03:29:07，:rocket: 更新条数: +3513， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-19-墨西哥新增4119例新冠肺炎确诊病例-累计确诊851227例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQlefuvU4czCKtv7KVmpc201019&isfromapp=1) ![](assets/new.png)  
+- [2020-10-19-秘鲁累计新冠肺炎确诊病例868675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti702qjd0OasHg50zh8HCH201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-18-巴西新冠肺炎确诊病例累计破523万-民众对面对面工作仍有担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujFQ5fW6ac76eO4u7nEZ201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-18-捷克首位内阁部长新冠病毒检测结果为阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2WA90XyrXIS5JGcy5LTf201019&isfromapp=1) ![](assets/new.png)  
 - [2020-10-18-南非卫生部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivrcoR7DheoqkF6f5DN4K201019&isfromapp=1) ![](assets/new.png)  
-- [2020-10-18-4844名第三届进博会志愿者宣誓上岗-制定防疫专项方案](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artishz6PYijCVyNF5W9PZWP201018&isfromapp=1) ![](assets/new.png)  
-- [2020-10-18-青岛疫情防控，这3个“5天纪录”，让人心安！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNCPa3XiegqfmUJ33eLQQ201018&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,11 +947,11 @@
 </summary>
 
 
-- [2020-10-18-教你如何5分钟快速生成前端API接口代码](https://juejin.im/post/6885162604252102669) ![](assets/new.png)  
-- [2020-10-18-现在开始为你的Angular应用编写测试](https://juejin.im/post/6885134113964523528) ![](assets/new.png)  
-- [2020-10-18-【译】build-your-own-react---知识搬运工](https://juejin.im/post/6884968140892176397) ![](assets/new.png)  
-- [2020-10-18-webpack5上手初体验！](https://juejin.im/post/6884954719798689800) ![](assets/new.png)  
-- [2020-10-18-所以-JavaScript-到底是什么？我居然懵了😮💫](https://juejin.im/post/6884952741165481992) ![](assets/new.png)  
+- [2020-10-18-【一天一大-lee】比较含退格的字符串-难度:简单---Day20201019](https://juejin.im/post/6885159149764608008) ![](assets/new.png)  
+- [2020-10-18-从零开始开发基于electron的switchHost应用](https://juejin.im/post/6885154595498033166) ![](assets/new.png)  
+- [2020-10-18-kbone-高级---使用小程序内置组件（一）](https://juejin.im/post/6885153540969660429) ![](assets/new.png)  
+- [2020-10-18-React这些知识点，都学会了吗](https://juejin.im/post/6885146584364318733) ![](assets/new.png)  
+- [2020-10-18-【图文并茂，点赞收藏哦！】重学巩固你的Vuejs知识体系（下）](https://juejin.im/post/6885134945929412615) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,13 @@
 </summary>
 
 
+- [2020-10-19-摩托别人都说鼓刹是自带-ABS,-我的鼓刹是自带-RBSRandom-lock-Brake-System](https://www.v2ex.com/t/716317) ![](assets/new.png)  
+- [2020-10-19-搭建了一个数学论坛，来-v2-推广一下](https://www.v2ex.com/t/716316) ![](assets/new.png)  
+- [2020-10-19-转租地铁-5-号线永福站,-西溪北苑新区房子个人转租，可免费入住到-10-月底](https://www.v2ex.com/t/716315) ![](assets/new.png)  
+- [2020-10-19-android-上有没有什么-语音助手-能定制控制任意-app-控件？](https://www.v2ex.com/t/716314) ![](assets/new.png)  
+- [2020-10-19-12mini-续航介于-xs-和-xr-之间](https://www.v2ex.com/t/716313) ![](assets/new.png)  
+- [2020-10-19-请问有什么好用的漫画/图片服务器软件吗?](https://www.v2ex.com/t/716312) ![](assets/new.png)  
+- [2020-10-19-写-DB-和发送下游消息要放到一个事务里面吗](https://www.v2ex.com/t/716311) ![](assets/new.png)  
 - [2020-10-19-广州招-GO-开发工程师（可转语言）](https://www.v2ex.com/t/716310) ![](assets/new.png)  
 - [2020-10-19-苏宁海外购-airpods-pro-1399-值得入手吗](https://www.v2ex.com/t/716309) ![](assets/new.png)  
 - [2020-10-19-绿联-mfi-pd-的数据线保修-18-个月居然是从下单瞬间开始算的-京东服务越来越烂了](https://www.v2ex.com/t/716308) ![](assets/new.png)  
@@ -1080,13 +1087,6 @@
 - [2020-10-19-无意间发现-Tim-支持自动远程桌面,-是不是意味着可以用-Tim-来替代-TeamView-了](https://www.v2ex.com/t/716297) ![](assets/new.png)  
 - [2020-10-19-MagSafe-卡包能放-NFC-卡吗？](https://www.v2ex.com/t/716296) ![](assets/new.png)  
 - [2020-10-19-20-天年假、周末不加班、远程办公、每周来两天办公室聚餐的泼辣修图深圳招前端后端。](https://www.v2ex.com/t/716294) ![](assets/new.png)  
-- [2020-10-19-基于-React、Mobx、Webpack-和-React-Router-的项目模板。](https://www.v2ex.com/t/716292) ![](assets/new.png)  
-- [2020-10-19-mgj，公司的远程机中病毒了](https://www.v2ex.com/t/716291) ![](assets/new.png)  
-- [2020-10-19-Wifi6-路由器-2.5Gbps-的-5Ghz，但是网络接口只有千兆这不是操蛋么？](https://www.v2ex.com/t/716290) ![](assets/new.png)  
-- [2020-10-19-求个树形文件目录生成工具或软件](https://www.v2ex.com/t/716289) ![](assets/new.png)  
-- [2020-10-19-设置多个-global-变量有没有方便的操作？](https://www.v2ex.com/t/716288) ![](assets/new.png)  
-- [2020-10-19-北京/上海-内推又双叒来了外企电商,WLB-的-1075-公司欢迎各位加入-Java-/QA/客户端](https://www.v2ex.com/t/716287) ![](assets/new.png)  
-- [2020-10-19-北京-猿辅导基础架构---真的要造火箭（Server、前端、客户端）](https://www.v2ex.com/t/716286) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1135,9 +1135,9 @@
 - [2020-10-19-Service-Mesh-的关键：边车模式-sidecar；又要开车了](https://toutiao.io/k/vys6n4c) ![](assets/new.png)  
 - [2020-10-19-带你快速了解：限流中的漏桶和令牌桶算法](https://toutiao.io/k/okvzhvz) ![](assets/new.png)  
 - [2020-10-19-如何优化前端性能？](https://toutiao.io/k/fagglng) ![](assets/new.png)  
+- [2020-10-19-Spring-Boot-开发秘籍：事件异步处理](https://toutiao.io/k/y424dbu) ![](assets/new.png)  
 - [2020-10-19-这个缓存更新的套路你都知道吗？](https://toutiao.io/k/zq6ysw5) ![](assets/new.png)  
 - [2020-10-19-用-Python-绘制地理图](https://toutiao.io/k/f1d73bn) ![](assets/new.png)  
-- [2020-10-19-Spring-Boot-开发秘籍：事件异步处理](https://toutiao.io/k/y424dbu) ![](assets/new.png)  
 - [2020-10-19-软件如何优雅地向前兼容？](https://toutiao.io/k/4xyo2p5) ![](assets/new.png)  
 - [2020-10-19-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-19-详解-C++-11-中的智能指针](https://toutiao.io/k/prgwyy1) ![](assets/new.png)  
@@ -1147,8 +1147,8 @@
 - [2020-10-19-Kafka-监控工具之-CMAK](https://toutiao.io/k/fzzch9i) ![](assets/new.png)  
 - [2020-10-19-产品设计方法论：Amazon-逆向工作法](https://toutiao.io/k/o5hhx9b) ![](assets/new.png)  
 - [2020-10-19-Kotlin-Collection-VS-Kotlin-Sequence-VS-Java-Stream](https://toutiao.io/k/9lzdibp) ![](assets/new.png)  
-- [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) ![](assets/new.png)  
 - [2020-10-19-如何有效的维权，这些投诉平台你可能用得上](https://toutiao.io/k/e3zsppo) ![](assets/new.png)  
+- [2020-10-19-从-HTTP-协议层面探讨-Bypass](https://toutiao.io/k/ta14m5w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

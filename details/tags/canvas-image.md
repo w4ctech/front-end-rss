@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 07:31:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 07:36:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -8,3 +8,4 @@
 
 
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 
+- [2020-10-18-我踩过的坑之：canvas图像模糊、有锯齿](https://juejin.im/post/6885226710623764488) 

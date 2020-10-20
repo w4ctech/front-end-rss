@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 10:38:43，:rocket: 更新条数: +3744， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 10:47:14，:rocket: 更新条数: +3744， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,7 @@
 </summary>
 
 
+- [2020-10-20-都-0202-年了，还是被安卓和-ipados-下文件互传恶心到了](https://www.v2ex.com/t/716818) ![](assets/new.png)  
 - [2020-10-20-现公司好像要转给另一个公司了，-V2-的老铁有谁经历过！](https://www.v2ex.com/t/716816) ![](assets/new.png)  
 - [2020-10-20-Evernote-的客户端突然升级了](https://www.v2ex.com/t/716815) ![](assets/new.png)  
 - [2020-10-20-程序员们怎么用区块链赚钱？](https://www.v2ex.com/t/716813) ![](assets/new.png)  
@@ -1106,7 +1107,6 @@
 - [2020-10-20-Captura-区域录制-，但是-ffmpeg-Downloader-下载不了。-哪位同学有-类似-电脑区域录制的软件-介绍下呢？-需要能高清录制的。谢谢](https://www.v2ex.com/t/716791) ![](assets/new.png)  
 - [2020-10-20-都-2020-年了，为什么-FaceTime-视频通话一接通就自动断开-wifi，自动强制使用运营商的数据流量通话，这是为什么？](https://www.v2ex.com/t/716789) ![](assets/new.png)  
 - [2020-10-20-看到有问智能锁的。。。我也想问问指纹锁的问题。。。。](https://www.v2ex.com/t/716788) ![](assets/new.png)  
-- [2020-10-20-征集一下-Web-API-接口不规范的地方](https://www.v2ex.com/t/716787) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1158,8 +1158,8 @@
 - [2020-10-20-Paxos-是如何劝退大家去选择-Raft-的](https://toutiao.io/k/v937b74) ![](assets/new.png)  
 - [2020-10-20-为什么说-Python-内置函数并不是万能的？](https://toutiao.io/k/5840gfp) ![](assets/new.png)  
 - [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
-- [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
 - [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
+- [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
 - [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
 - [2020-10-20-iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu) ![](assets/new.png)  

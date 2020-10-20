@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 18:15:13，:rocket: 更新条数: +3743， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 18:41:34，:rocket: 更新条数: +3743， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -874,6 +874,9 @@
 </summary>
 
 
+- [2020-10-20-为什么要搞懂服务化？](https://www.ershicimi.com/p/8c8f65cfb3a4f5f96a7136a82a3a5262) ![](assets/new.png)  
+- [2020-10-20-完美：Docker遇到Intellij-IDEA这个插件，再次解放生产力~](https://www.ershicimi.com/p/1e6599289ddc9d9befc2543bc1adc497) ![](assets/new.png)  
+- [2020-10-20-为什么有些大公司技术弱爆了？](https://www.ershicimi.com/p/91bdd86050bcee176335c0a84e552cb0) ![](assets/new.png)  
 - [2020-10-19-为什么说图形数据库是大数据时代的利器？](https://www.ershicimi.com/p/68a3e897aaaf45966d3a01b72166e13d) ![](assets/new.png)  
 - [2020-10-19-Java-中的-AQS-到底是什么？高级面试必问！](https://www.ershicimi.com/p/333df1b52c7a8072743c190abefd56e7) ![](assets/new.png)  
 - [2020-10-19-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/e3ee1b93362990a169a0ea0f52f36e54) ![](assets/new.png)  
@@ -891,9 +894,6 @@
 - [2020-10-15-Java-反射到底慢在哪？](https://www.ershicimi.com/p/6b020978fb7fadfe031c76c1b16a056e) ![](assets/new.png)  
 - [2020-10-14-再见了SpringMVC！这个框架有点厉害，甚至干掉了Servlet！](https://www.ershicimi.com/p/6f5a415774c0f9b396a4953c003ad7b2) ![](assets/new.png)  
 - [2020-10-14-2.5-亿！华为成立新公司！](https://www.ershicimi.com/p/28680622e63c8a69962af71bf6d1a273) ![](assets/new.png)  
-- [2020-10-14-如何确保分布式场景下的并发幂等性？](https://www.ershicimi.com/p/bcee6f7a15332c0c2c3cf207b3fcff95) ![](assets/new.png)  
-- [2020-10-13-看看人家那后端API接口写得，那叫一个牛逼，再看看我的，像坨屎！](https://www.ershicimi.com/p/27b5c743d077e99ba347e7ff4b226a71) ![](assets/new.png)  
-- [2020-10-13-10亿数据量只需要100MB内存，redis的位存储为什么这么牛？](https://www.ershicimi.com/p/d4bad6d04add1b76e657e6dce6f3312e) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1157,10 +1157,10 @@
 - [2020-10-20-Docker-安装-RocketMQ-并结合-Spring-Boot-使用实例](https://toutiao.io/k/t7olcqd) ![](assets/new.png)  
 - [2020-10-20-Paxos-是如何劝退大家去选择-Raft-的](https://toutiao.io/k/v937b74) ![](assets/new.png)  
 - [2020-10-20-为什么说-Python-内置函数并不是万能的？](https://toutiao.io/k/5840gfp) ![](assets/new.png)  
-- [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
 - [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
-- [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
+- [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
 - [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
+- [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
 - [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
 - [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  

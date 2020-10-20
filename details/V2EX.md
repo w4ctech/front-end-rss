@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-20 07:30:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 07:36:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-20-上海招一个-QT-开发](https://www.v2ex.com/t/716756) 
+- [2020-10-20-有没有发现写了好几年代码，如果离开公司连生产环境如何部署都不会？](https://www.v2ex.com/t/716755) 
+- [2020-10-20-在天翼云嫖了台服务器，发现，-80,443-需要备案才能用，看了下接入备案，就是把备案的流程重新走一下啊](https://www.v2ex.com/t/716754) 
+- [2020-10-20-请问-macbook-pro-2020-8G+256-够了吗](https://www.v2ex.com/t/716752) 
 - [2020-10-20-Macbook-Pro-屏幕蓝斑问题](https://www.v2ex.com/t/716751) 
 - [2020-10-20-不同的硬件或系统环境是否可能导致程序计算结果不同？](https://www.v2ex.com/t/716750) 
 - [2020-10-20-才发现-win-远程桌面程序能直接复制粘贴到服务器](https://www.v2ex.com/t/716749) 
@@ -37,9 +41,3 @@
 - [2020-10-20-远程-招-全栈工程师-10-~-20-USDT/h-Beancount.io,-硅谷-io,-Touchbase.AI,-stargately.com,-etc](https://www.v2ex.com/t/716712) 
 - [2020-10-20-大佬们来讨论讨论有没有什么副业可以搞一搞](https://www.v2ex.com/t/716710) 
 - [2020-10-20-可否使用-IPFS-系统来存储业务系统的文件](https://www.v2ex.com/t/716708) 
-- [2020-10-20-1](https://www.v2ex.com/t/716707) 
-- [2020-10-20-iCloud-邮箱无法登录](https://www.v2ex.com/t/716706) 
-- [2020-10-20-android-版本-twitter-里的照片不能直接分享给微信](https://www.v2ex.com/t/716705) 
-- [2020-10-20-Telegram-为什么没有在-AppStore-国区下架？](https://www.v2ex.com/t/716704) 
-- [2020-10-20-后端转前端的理由？](https://www.v2ex.com/t/716703) 
-- [2020-10-20-iPhone-AppleID-问题](https://www.v2ex.com/t/716702) 

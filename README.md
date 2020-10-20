@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 18:41:34，:rocket: 更新条数: +3743， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 18:49:00，:rocket: 更新条数: +3744， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,7 @@
 </summary>
 
 
+- [2020-10-20-iPhone-12-mini-主要地区版本的硬件区别](https://www.v2ex.com/t/716905) ![](assets/new.png)  
 - [2020-10-20-广州-cn2-炸了？](https://www.v2ex.com/t/716902) ![](assets/new.png)  
 - [2020-10-20-腾讯云服务器连-wp-主题商店都连不上该怎么办？](https://www.v2ex.com/t/716899) ![](assets/new.png)  
 - [2020-10-20-学生打算双十一换一块-SSD，希望有经验的老哥指导一下](https://www.v2ex.com/t/716898) ![](assets/new.png)  
@@ -1106,7 +1107,6 @@
 - [2020-10-20-Mac-air-2020-插着电源-电量显示不断下降](https://www.v2ex.com/t/716879) ![](assets/new.png)  
 - [2020-10-20-macOS-Big-Sur-Beta-10-smb-服务连不上](https://www.v2ex.com/t/716878) ![](assets/new.png)  
 - [2020-10-20-5G-is-not-available-when-in-Dual-SIM-mode.](https://www.v2ex.com/t/716877) ![](assets/new.png)  
-- [2020-10-20-Resurrection-Remix-OS-跟-LineageOS-比，哪个更好用？](https://www.v2ex.com/t/716876) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

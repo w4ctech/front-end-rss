@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-20 18:41:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 18:49:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-20-iPhone-12-mini-主要地区版本的硬件区别](https://www.v2ex.com/t/716905) 
 - [2020-10-20-广州-cn2-炸了？](https://www.v2ex.com/t/716902) 
 - [2020-10-20-腾讯云服务器连-wp-主题商店都连不上该怎么办？](https://www.v2ex.com/t/716899) 
 - [2020-10-20-学生打算双十一换一块-SSD，希望有经验的老哥指导一下](https://www.v2ex.com/t/716898) 

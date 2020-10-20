@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 05:29:16，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 05:35:16，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-20-当当图书优惠，折上折](https://www.v2ex.com/t/716697) ![](assets/new.png)  
 - [2020-10-20-Python-格式化时间问题](https://www.v2ex.com/t/716696) ![](assets/new.png)  
 - [2020-10-20-Python-的微信支付调用例子](https://www.v2ex.com/t/716695) ![](assets/new.png)  
 - [2020-10-20-求推荐笔记本电脑，主要用-SolidWorks-和-Rhinoceros-建模渲染](https://www.v2ex.com/t/716693) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-20-推荐-做了个-ios14-桌面格言句子小组件-Bright](https://www.v2ex.com/t/716675) ![](assets/new.png)  
 - [2020-10-20-老哥们，机器学习和深度学习有什么有趣好玩的项目吗？](https://www.v2ex.com/t/716673) ![](assets/new.png)  
 - [2020-10-20-由苹果取消耳机和充电头的“环保行为”所引发的一点思考](https://www.v2ex.com/t/716672) ![](assets/new.png)  
-- [2020-10-20-从零开始玩转-PerfDogService---------初探篇](https://www.v2ex.com/t/716671) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,10 +1145,10 @@
 - [2020-10-20-iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu) ![](assets/new.png)  
 - [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
 - [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
-- [2020-10-20-spring-boot-route（十六）：使用-logback-生产日志文件](https://toutiao.io/k/58pd9ui) ![](assets/new.png)  
 - [2020-10-20-算法萌新如何学好动态规划（一）](https://toutiao.io/k/y1rsa4z) ![](assets/new.png)  
-- [2020-10-20-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-20-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-20-spring-boot-route（十六）：使用-logback-生产日志文件](https://toutiao.io/k/58pd9ui) ![](assets/new.png)  
+- [2020-10-20-Go-设计模式-19：访问者模式](https://toutiao.io/k/bc4lm50) ![](assets/new.png)  
+- [2020-10-20-全量、增量、流水、拉链、快照、代理键、缓慢变化维](https://toutiao.io/k/v1bdaw4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

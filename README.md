@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 23:28:42，:rocket: 更新条数: +3743， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 23:34:12，:rocket: 更新条数: +3743， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-20-巴西新冠肺炎确诊病例累计破527万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAUtvSSOqVs7MUeogcnUz201021&isfromapp=1) ![](assets/new.png)  
+- [2020-10-20-美国NFL宣布又添8名球员测试新冠阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwPVB7Pns1dLVqDntUcqZ201021&isfromapp=1) ![](assets/new.png)  
+- [2020-10-20-克罗地亚新冠肺炎新增确诊病例居高不下-1600余名医务人员感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEF8rY3YrCEYNoRmjQZIA201021&isfromapp=1) ![](assets/new.png)  
 - [2020-10-20-国家统计局：9月份商品住宅销售价格涨幅略有回落](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDqWSmrSRa8e3VrZnV50201020&isfromapp=1) ![](assets/new.png)  
 - [2020-10-20-摩洛哥决定延长在卡萨布兰卡实施的封闭措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7la5GoIxR9PuwtZDpV7r201020&isfromapp=1) ![](assets/new.png)  
-- [2020-10-20-国家统计局新闻发言人：常态化防控下四季度消费走势会强过前三季度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisafECrmRF54zvBI96yqi201019&isfromapp=1) ![](assets/new.png)  
-- [2020-10-20-国家卫健委：19日新增新冠肺炎确诊病例19例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijaWx31XSwbUVEYnUxa5B201020&isfromapp=1) ![](assets/new.png)  
-- [2020-10-19-联合国儿基会到年底将预备超5亿个注射器-为新冠疫苗接种做准备](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5zjsrinItXGDKpBSQlZ3201020&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1159,8 +1159,8 @@
 - [2020-10-20-为什么说-Python-内置函数并不是万能的？](https://toutiao.io/k/5840gfp) ![](assets/new.png)  
 - [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
 - [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
-- [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
 - [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
+- [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
 - [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
 - [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  

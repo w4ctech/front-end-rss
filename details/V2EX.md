@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-20 22:28:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 22:33:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-20-iOS-14.1-已推送](https://www.v2ex.com/t/716909) 
 - [2020-10-20-动员全网兄弟，寻找此视频出处，在此先感谢大家了](https://www.v2ex.com/t/716908) 
 - [2020-10-20-远程15k---25k-IoTeX-招聘-|-Golang-后端-|-全天优先](https://www.v2ex.com/t/716907) 
 - [2020-10-20-iPhone-12-mini-主要地区版本的硬件区别](https://www.v2ex.com/t/716905) 
@@ -39,4 +40,3 @@
 - [2020-10-20-北京招聘-美团外卖-交易系统平台-高级-Java-工程师/资深-Java-工程师/-Java-技术专家](https://www.v2ex.com/t/716863) 
 - [2020-10-20-#开源首发-头条/抖音-字节小程序-Go-sdk](https://www.v2ex.com/t/716862) 
 - [2020-10-20-SMZDM-首发上手-苹果没告诉你的-iPhone-12-细节：-https://post.smzdm.com/p/a99w84e7/](https://www.v2ex.com/t/716860) 
-- [2020-10-20-git-如何以最少的下载量，直接下载指定-hash](https://www.v2ex.com/t/716859) 

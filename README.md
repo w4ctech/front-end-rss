@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 22:28:37，:rocket: 更新条数: +3744， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 22:33:16，:rocket: 更新条数: +3744， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,7 @@
 </summary>
 
 
+- [2020-10-20-iOS-14.1-已推送](https://www.v2ex.com/t/716909) ![](assets/new.png)  
 - [2020-10-20-动员全网兄弟，寻找此视频出处，在此先感谢大家了](https://www.v2ex.com/t/716908) ![](assets/new.png)  
 - [2020-10-20-远程15k---25k-IoTeX-招聘-|-Golang-后端-|-全天优先](https://www.v2ex.com/t/716907) ![](assets/new.png)  
 - [2020-10-20-iPhone-12-mini-主要地区版本的硬件区别](https://www.v2ex.com/t/716905) ![](assets/new.png)  
@@ -1106,7 +1107,6 @@
 - [2020-10-20-广州-画梦人-诚聘-前端工程师-/-Java-工程师-/-android-工程师-/-ios-实习生-/-各端实习生](https://www.v2ex.com/t/716882) ![](assets/new.png)  
 - [2020-10-20-谷歌插件开发，如何控制-content_script-的执行？](https://www.v2ex.com/t/716881) ![](assets/new.png)  
 - [2020-10-20-来赏玩下这个网站？](https://www.v2ex.com/t/716880) ![](assets/new.png)  
-- [2020-10-20-Mac-air-2020-插着电源-电量显示不断下降](https://www.v2ex.com/t/716879) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1162,8 +1162,8 @@
 - [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
 - [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
 - [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
-- [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
+- [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu) ![](assets/new.png)  
 - [2020-10-20-算法萌新如何学好动态规划（一）](https://toutiao.io/k/y1rsa4z) ![](assets/new.png)  
 - [2020-10-20-spring-boot-route（十六）：使用-logback-生产日志文件](https://toutiao.io/k/58pd9ui) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 14:15:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 14:30:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,7 +37,6 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-10-19-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/e3ee1b93362990a169a0ea0f52f36e54) 
 - [2020-10-17-一次近乎完美的PostgreSQL版本大升级实践](https://www.ershicimi.com/p/bdbd6ab5d3046f4bc8eedbbc123225f1) 
-- [2020-10-19-浅谈谷歌浏览器是如何工作的？](https://juejin.im/post/6885575451507933198) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-20-SMZDM-首发上手-苹果没告诉你的-iPhone-12-细节：-https://post.smzdm.com/p/a99w84e7/](https://www.v2ex.com/t/716860) 
 - [2020-10-20-关于网易云浏览器歌单显示限制有没有解决方案](https://www.v2ex.com/t/716857) 

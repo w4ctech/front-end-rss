@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-20 14:15:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 14:30:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-20-Mac-air-2020-插着电源-电量显示不断下降](https://www.v2ex.com/t/716879) 
+- [2020-10-20-macOS-Big-Sur-Beta-10-smb-服务连不上](https://www.v2ex.com/t/716878) 
+- [2020-10-20-5G-is-not-available-when-in-Dual-SIM-mode.](https://www.v2ex.com/t/716877) 
+- [2020-10-20-Resurrection-Remix-OS-跟-LineageOS-比，哪个更好用？](https://www.v2ex.com/t/716876) 
+- [2020-10-20-求解-MacBook-Pro-启动屏幕出现灰色区域](https://www.v2ex.com/t/716875) 
 - [2020-10-20-iPhone12-白色开箱视频-真好看](https://www.v2ex.com/t/716874) 
 - [2020-10-20-卖房以周转生活，但是-3-个月了买方房贷款还是没放下来，房子已经过户，怎么办？](https://www.v2ex.com/t/716873) 
 - [2020-10-20-有没有一台三星的硬件+Google-原生系统的手机](https://www.v2ex.com/t/716872) 
@@ -37,6 +42,3 @@
 - [2020-10-20-请教两个-datetime.datetime-要计算小时差，怎么做会比较好？-要先转成-datetime.timedelta-再做吗？](https://www.v2ex.com/t/716832) 
 - [2020-10-20-深圳有靠谱的猫舍推荐嘛](https://www.v2ex.com/t/716831) 
 - [2020-10-20-求推荐一款单人电饭煲](https://www.v2ex.com/t/716830) 
-- [2020-10-20-医渡云（北京）招聘-高级前端开发工程师](https://www.v2ex.com/t/716829) 
-- [2020-10-20-群晖-NAS-需要绑定手机号了，不然给你-断网-！](https://www.v2ex.com/t/716828) 
-- [2020-10-20-关于-V2EX-设置里的偏好正文英文字体，能否加入-SF-Pro-Text](https://www.v2ex.com/t/716826) 

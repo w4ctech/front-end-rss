@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 02:39:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 02:47:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,5 +41,6 @@
 - [2020-10-19-Java-中的-AQS-到底是什么？高级面试必问！](https://www.ershicimi.com/p/333df1b52c7a8072743c190abefd56e7) 
 - [2020-10-15-面试遭遇-SparkSQL，慌了！](https://www.ershicimi.com/p/b25fcbef6eee387a64fc9bebb1b1e0c8) 
 - [2020-10-15-滴滴CTO五轮面试真是太刺激了，Java高级工程师一二三四五面面经已拿到offer](https://www.ershicimi.com/p/3094204bbe95af3a1045d7789f1e4255) 
+- [2020-10-20-成都-武侯区上市公司招聘-Python-爬虫工程师一枚，要求对主流电商平台数据抓取有一定经验，熟悉-app-逆向。薪酬好谈+V：-bWFyY3VzcGF5bmU=](https://www.v2ex.com/t/716621) 
 - [2020-10-20-杭州-vivo-金融前端团队招聘啦～，-25k-50k，年终奖超丰厚，可选择固定薪资。职级对标-ali-的-P6/P7，可私聊或邮件-yidi.liu@vivo.com](https://www.v2ex.com/t/716600) 
 - [2020-10-20-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 

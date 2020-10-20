@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 14:41:12，:rocket: 更新条数: +3746， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 14:47:07，:rocket: 更新条数: +3745， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,7 @@
 </summary>
 
 
+- [2020-10-20-Gstreamer-尝试-rtmp-推流一直报错-rtmpsink0：无法打开资源写入](https://www.v2ex.com/t/716883) ![](assets/new.png)  
 - [2020-10-20-广州-画梦人-诚聘-前端工程师-/-Java-工程师-/-android-工程师-/-ios-实习生-/-各端实习生](https://www.v2ex.com/t/716882) ![](assets/new.png)  
 - [2020-10-20-谷歌插件开发，如何控制-content_script-的执行？](https://www.v2ex.com/t/716881) ![](assets/new.png)  
 - [2020-10-20-来赏玩下这个网站？](https://www.v2ex.com/t/716880) ![](assets/new.png)  
@@ -1106,7 +1107,6 @@
 - [2020-10-20-#开源首发-头条/抖音-字节小程序-Go-sdk](https://www.v2ex.com/t/716862) ![](assets/new.png)  
 - [2020-10-20-SMZDM-首发上手-苹果没告诉你的-iPhone-12-细节：-https://post.smzdm.com/p/a99w84e7/](https://www.v2ex.com/t/716860) ![](assets/new.png)  
 - [2020-10-20-git-如何以最少的下载量，直接下载指定-hash](https://www.v2ex.com/t/716859) ![](assets/new.png)  
-- [2020-10-20-第四期德国-IT-岗位招聘之-Senior-Penetration-Tester,Frontend-developer,-Backend-Engineer](https://www.v2ex.com/t/716858) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

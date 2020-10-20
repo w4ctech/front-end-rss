@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 15:15:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 15:30:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,6 +86,7 @@
 - [2020-10-09-人工智能从入门到精通系列教学视频免费送](https://www.ershicimi.com/p/4cec892c264b2a104a924d687161940a) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-10-15-拍好物视频，赢购物回血基金|「理想生活计划·种草狂欢季」强势来袭](https://www.ershicimi.com/p/eb7342df6c08280a8f20b3417bd6e7ec) 
+- [2020-10-20-求此视频出处，求助全网兄弟](https://www.v2ex.com/t/716889) 
 - [2020-10-20-求推荐，特别能放空心灵的音频视频文件](https://www.v2ex.com/t/716887) 
 - [2020-10-20-iPhone12-白色开箱视频-真好看](https://www.v2ex.com/t/716874) 
 - [2020-10-20-Windows图像解析Fuzzing一:颜色配置文件](https://sec.thief.one/article_content?a_id=ad03dd8d6d07909205c4b4a46c906e64) 

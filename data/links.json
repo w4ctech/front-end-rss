@@ -5,8 +5,8 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "10月19日全国新增境外输入新冠19例 累计确诊85704例",
-        "link": "https://m.caixin.com/m/2020-10-20/101616490.html",
+        "title": "【境内疫情观察】全国新增19例境外输入病例（10月19日）",
+        "link": "http://m.database.caixin.com/m/2020-10-20/101616600.html",
         "date": "2020-10-19"
       },
       {
@@ -16875,6 +16875,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[红帽 Red Hat] 招聘 Linux 开发工程师 地点可考虑北京/上海/深圳/西安",
+        "link": "https://www.v2ex.com/t/716685",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "大龄程序员为了教小孩写字搞了个小程序查笔顺",
+        "link": "https://www.v2ex.com/t/716683",
+        "date": "2020-10-20"
+      },
+      {
         "title": "关于装修 求有经验的大佬指点",
         "link": "https://www.v2ex.com/t/716682",
         "date": "2020-10-20"
@@ -17053,16 +17063,6 @@
         "title": "卖个惨，找 V 友们诉诉苦",
         "link": "https://www.v2ex.com/t/716637",
         "date": "2020-10-20"
-      },
-      {
-        "title": "还在为算法面试捉急么？正好！我正在录制基础算法系列视频",
-        "link": "https://www.v2ex.com/t/716635",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "关于手机账号的讨论",
-        "link": "https://www.v2ex.com/t/716633",
-        "date": "2020-10-20"
       }
     ]
   },
@@ -17194,13 +17194,13 @@
         "date": "2020-10-20"
       },
       {
-        "title": "Docker 安装 RocketMQ 并结合 Spring Boot 使用实例",
-        "link": "https://toutiao.io/k/t7olcqd",
+        "title": "为何不推荐使用 Sass 作为 css 预处理器",
+        "link": "https://toutiao.io/k/6t740h7",
         "date": "2020-10-20"
       },
       {
-        "title": "为何不推荐使用 Sass 作为 css 预处理器",
-        "link": "https://toutiao.io/k/6t740h7",
+        "title": "Docker 安装 RocketMQ 并结合 Spring Boot 使用实例",
+        "link": "https://toutiao.io/k/t7olcqd",
         "date": "2020-10-20"
       },
       {
@@ -17209,23 +17209,23 @@
         "date": "2020-10-20"
       },
       {
-        "title": "为什么说 Python 内置函数并不是万能的？",
-        "link": "https://toutiao.io/k/5840gfp",
-        "date": "2020-10-20"
-      },
-      {
         "title": "搞定客户端证书错误，看这篇就够了",
         "link": "https://toutiao.io/k/7wb56dd",
         "date": "2020-10-20"
       },
       {
-        "title": "sealos + rook 部署 kubeSphere + TiDB",
-        "link": "https://toutiao.io/k/gd9ggg3",
+        "title": "为什么说 Python 内置函数并不是万能的？",
+        "link": "https://toutiao.io/k/5840gfp",
         "date": "2020-10-20"
       },
       {
         "title": "Go 使用标准库 net/rpc 包",
         "link": "https://toutiao.io/k/scmprwh",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "sealos + rook 部署 kubeSphere + TiDB",
+        "link": "https://toutiao.io/k/gd9ggg3",
         "date": "2020-10-20"
       },
       {
@@ -17269,33 +17269,8 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-20"
       },
       {
@@ -17304,23 +17279,8 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-20"
       },
       {
@@ -17329,18 +17289,58 @@
         "date": "2020-10-20"
       },
       {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-20"
+      },
+      {
         "title": "[推荐] 时间轮在 Kafka 的实践",
         "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-20"
       },
       {
         "title": "[推荐] 技术方案设计的方法",
         "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-20"
       }
     ]

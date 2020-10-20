@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 04:48:10，:rocket: 更新条数: +3515， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 05:03:53，:rocket: 更新条数: +3515， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-10-19-10月19日全国新增境外输入新冠19例-累计确诊85704例](https://m.caixin.com/m/2020-10-20/101616490.html) ![](assets/new.png)  
+- [2020-10-19-【境内疫情观察】全国新增19例境外输入病例（10月19日）](http://m.database.caixin.com/m/2020-10-20/101616600.html) ![](assets/new.png)  
 - [2020-10-19-大流行手记|10月19日：全球感染突破4000万-印度3亿人获疫苗优先接种机会](https://m.caixin.com/m/2020-10-20/101616494.html) ![](assets/new.png)  
 - [2020-10-18-特写|新冠疫苗紧急使用人群继续扩大](https://m.caixin.com/m/2020-10-19/101616151.html) ![](assets/new.png)  
 - [2020-10-18-高福：青岛冷链食品外包装首次分离新冠活病毒意义何在](https://m.caixin.com/m/2020-10-19/101615998.html) ![](assets/new.png)  
@@ -1067,6 +1067,8 @@
 </summary>
 
 
+- [2020-10-20-红帽-Red-Hat-招聘-Linux-开发工程师-地点可考虑北京/上海/深圳/西安](https://www.v2ex.com/t/716685) ![](assets/new.png)  
+- [2020-10-20-大龄程序员为了教小孩写字搞了个小程序查笔顺](https://www.v2ex.com/t/716683) ![](assets/new.png)  
 - [2020-10-20-关于装修-求有经验的大佬指点](https://www.v2ex.com/t/716682) ![](assets/new.png)  
 - [2020-10-20-上次要的录屏视频做好了哦，优惠券在正文领取](https://www.v2ex.com/t/716681) ![](assets/new.png)  
 - [2020-10-20-没人讨论-iPhone12-蓝色的开箱图吗？](https://www.v2ex.com/t/716680) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-20-iPhone-11-现在香吗，](https://www.v2ex.com/t/716661) ![](assets/new.png)  
 - [2020-10-20-对于-arm-Mac-有一事不明……老的-x86-软件](https://www.v2ex.com/t/716660) ![](assets/new.png)  
 - [2020-10-20-OOM-面试到底怎么回答？](https://www.v2ex.com/t/716659) ![](assets/new.png)  
-- [2020-10-20-sync-player：使用-websocket-实现异地同步播放视频](https://www.v2ex.com/t/716658) ![](assets/new.png)  
-- [2020-10-20-深圳/北京-Wisers-慧科-外资，大数据+AI，可经常远程办公，薪资有竞争力，招聘-React-前端开发-/-大数据开发-/-spark-算法开发-/-爬虫&逆向](https://www.v2ex.com/t/716657) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,13 +1132,13 @@
 - [2020-10-20-30-岁的程序员出路在哪里？|-码农周刊第-321-期](https://toutiao.io/k/qdeuemt) ![](assets/new.png)  
 - [2020-10-20-译-50+-有用的-DevOps-工具（一）](https://toutiao.io/k/lo4v773) ![](assets/new.png)  
 - [2020-10-20-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-20-Docker-安装-RocketMQ-并结合-Spring-Boot-使用实例](https://toutiao.io/k/t7olcqd) ![](assets/new.png)  
 - [2020-10-20-为何不推荐使用-Sass-作为-css-预处理器](https://toutiao.io/k/6t740h7) ![](assets/new.png)  
+- [2020-10-20-Docker-安装-RocketMQ-并结合-Spring-Boot-使用实例](https://toutiao.io/k/t7olcqd) ![](assets/new.png)  
 - [2020-10-20-Paxos-是如何劝退大家去选择-Raft-的](https://toutiao.io/k/v937b74) ![](assets/new.png)  
-- [2020-10-20-为什么说-Python-内置函数并不是万能的？](https://toutiao.io/k/5840gfp) ![](assets/new.png)  
 - [2020-10-20-搞定客户端证书错误，看这篇就够了](https://toutiao.io/k/7wb56dd) ![](assets/new.png)  
-- [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
+- [2020-10-20-为什么说-Python-内置函数并不是万能的？](https://toutiao.io/k/5840gfp) ![](assets/new.png)  
 - [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
+- [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
 - [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
 - [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
@@ -1147,8 +1147,8 @@
 - [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
 - [2020-10-20-spring-boot-route（十六）：使用-logback-生产日志文件](https://toutiao.io/k/58pd9ui) ![](assets/new.png)  
 - [2020-10-20-算法萌新如何学好动态规划（一）](https://toutiao.io/k/y1rsa4z) ![](assets/new.png)  
-- [2020-10-20-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-20-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-20-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-20-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

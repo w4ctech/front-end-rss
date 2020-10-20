@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 06:36:29，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 06:49:09，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,14 @@
 </summary>
 
 
+- [2020-10-20-关于-oauth2-第三方登录认证的问题](https://www.v2ex.com/t/716727) ![](assets/new.png)  
+- [2020-10-20-百度绝佳的工作机会-社招---每晚统一筛选简历---次日录入内推系统](https://www.v2ex.com/t/716726) ![](assets/new.png)  
+- [2020-10-20-恐怖黎明双人联机总连不上](https://www.v2ex.com/t/716725) ![](assets/new.png)  
+- [2020-10-20-天猫精灵对接-ASR-同音字怎么处理](https://www.v2ex.com/t/716724) ![](assets/new.png)  
+- [2020-10-20-盒马物流、海量中的海量-HC（不是-3-个、是-27-个、27-个、27-个）、只要能力-OK、薪资，-Base-都可以谈、有意向的同学可以直接看评论加我微信-or-直接发送到-xi...](https://www.v2ex.com/t/716723) ![](assets/new.png)  
+- [2020-10-20-Windows7-版-Edge-登陆得先把-IE8-更新到-IE11](https://www.v2ex.com/t/716722) ![](assets/new.png)  
+- [2020-10-20-这一次，我用-Faststone-录屏了](https://www.v2ex.com/t/716721) ![](assets/new.png)  
+- [2020-10-20-房租到期，西北旺，求租单间](https://www.v2ex.com/t/716720) ![](assets/new.png)  
 - [2020-10-20-男生-16.2cm-腕围戴-40mm-apple-watch-会不会显小？](https://www.v2ex.com/t/716718) ![](assets/new.png)  
 - [2020-10-20-杭州-vivo-金融前端团队招聘，-25k-50k，职级对标-ali-的-P6/P7，坐标未来科技城。可私聊或邮件-xinglan.yu@vivo.com](https://www.v2ex.com/t/716717) ![](assets/new.png)  
 - [2020-10-20-Mac-版的-OneDrive-体验太差了，有什么好用的替代品吗？](https://www.v2ex.com/t/716716) ![](assets/new.png)  
@@ -1079,14 +1087,6 @@
 - [2020-10-20-iCloud-邮箱无法登录](https://www.v2ex.com/t/716706) ![](assets/new.png)  
 - [2020-10-20-android-版本-twitter-里的照片不能直接分享给微信](https://www.v2ex.com/t/716705) ![](assets/new.png)  
 - [2020-10-20-Telegram-为什么没有在-AppStore-国区下架？](https://www.v2ex.com/t/716704) ![](assets/new.png)  
-- [2020-10-20-后端转前端的理由？](https://www.v2ex.com/t/716703) ![](assets/new.png)  
-- [2020-10-20-iPhone-AppleID-问题](https://www.v2ex.com/t/716702) ![](assets/new.png)  
-- [2020-10-20-感谢各位-V-友-研究后附上装机单供参考](https://www.v2ex.com/t/716701) ![](assets/new.png)  
-- [2020-10-20-mbp16inch-外接-4k-显示器-某些应用会花屏](https://www.v2ex.com/t/716700) ![](assets/new.png)  
-- [2020-10-20-当当图书优惠，折上折](https://www.v2ex.com/t/716697) ![](assets/new.png)  
-- [2020-10-20-Python-格式化时间问题](https://www.v2ex.com/t/716696) ![](assets/new.png)  
-- [2020-10-20-Python-的微信支付调用例子](https://www.v2ex.com/t/716695) ![](assets/new.png)  
-- [2020-10-20-求推荐笔记本电脑，主要用-SolidWorks-和-Rhinoceros-建模渲染](https://www.v2ex.com/t/716693) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

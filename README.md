@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 13:40:32，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 13:47:11，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-20-中央部委明确，城镇户口可继承农村‘宅基地’了！](https://www.v2ex.com/t/716866) ![](assets/new.png)  
 - [2020-10-20-（北京海淀）无偿送猫，纯种小蓝猫，房东不让养](https://www.v2ex.com/t/716864) ![](assets/new.png)  
 - [2020-10-20-北京招聘-美团外卖-交易系统平台-高级-Java-工程师/资深-Java-工程师/-Java-技术专家](https://www.v2ex.com/t/716863) ![](assets/new.png)  
 - [2020-10-20-#开源首发-头条/抖音-字节小程序-Go-sdk](https://www.v2ex.com/t/716862) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-20-有没有-iPad-Pro-3-个金属触点的延长线或者连接线？](https://www.v2ex.com/t/716840) ![](assets/new.png)  
 - [2020-10-20-总是提示：你访问之前页面的频率不太正常](https://www.v2ex.com/t/716839) ![](assets/new.png)  
 - [2020-10-20-极简黑白主色调-UI-的-whois-查询网站](https://www.v2ex.com/t/716837) ![](assets/new.png)  
-- [2020-10-20-公司开放了几个全职的远程-HC-->-前端、测试、-PHP](https://www.v2ex.com/t/716836) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

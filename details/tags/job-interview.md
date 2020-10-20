@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 21:40:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 21:47:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -45,5 +45,4 @@
 - [2020-10-20-远程15k---25k-IoTeX-招聘-|-Golang-后端-|-全天优先](https://www.v2ex.com/t/716907) 
 - [2020-10-20-北京招聘-美团外卖-交易系统平台-高级-Java-工程师/资深-Java-工程师/-Java-技术专家](https://www.v2ex.com/t/716863) 
 - [2020-10-20-第四期德国-IT-岗位招聘之-Senior-Penetration-Tester,Frontend-developer,-Backend-Engineer](https://www.v2ex.com/t/716858) 
-- [2020-10-20-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
 - [2020-10-20-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 

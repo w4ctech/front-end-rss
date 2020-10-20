@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 13:36:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 13:40:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2384,6 +2384,10 @@
 - [2020-10-16-干前端2年，还不如刚毕业的薪资高，该辞职吗？](https://www.ershicimi.com/p/5c63d236fcd5bd55c3f648360d8a10bd) 
 - [2020-10-14-“对不起，您的经验与我司前端高级工程师岗位不匹配-”](https://www.ershicimi.com/p/d740dad4d917262c298c3906471c7050) 
 - [2020-10-09-朋友公司工作3年的前端被裁-领导：这样的员工应当放弃~](https://www.ershicimi.com/p/ea7746ce9edc3d60582dfe3ac03e557e) 
+- [2019-12-09-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d) 
+- [2019-12-06-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3) 
+- [2019-12-05-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/c000cfc00b1de7d595f4c51820cc7630) 
+- [2019-12-04-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/38b599052a6c0772985ffdbfad6875d6) 
 - [2020-08-19-招个数据分析工程师，我给25k](https://www.ershicimi.com/p/003c2b9ee98c0992b36c5258e82747d3) 
 - [2020-05-17-一文掌握GO语言实战技能三](https://www.ershicimi.com/p/46cac625ac351e226dc4486f2397cb50) 
 - [2020-05-17-一文掌握GO语言实战技能二](https://www.ershicimi.com/p/0efd18d6a0774aa88db09fc12989a6ab) 
@@ -2411,6 +2415,10 @@
 - [2020-10-11-前端装饰器模式快闪](https://www.ershicimi.com/p/49e6aef8b5ce898e9b9317c467a20682) 
 - [2020-10-09-做了-8-年前端，看透了裁人的套路](https://www.ershicimi.com/p/8079378715a547442a61c88db5a8c6a0) 
 - [2020-10-07-搞不懂为啥都要去字节跳动...](https://www.ershicimi.com/p/28a4720c9b18914466fea8f56f865dbc) 
+- [2020-10-13-小伙刚入职，一句话暴露了-2-个坏习惯，竟被踢出公司群聊...](https://www.ershicimi.com/p/8b3c18a8ce14a0751d9ef5d029675963) 
+- [2020-10-12-不会吧！不会吧！2020年还有人认为前端就是切图仔？](https://www.ershicimi.com/p/a9a25f7a26eb296ee5265209546cafac) 
+- [2020-10-09-不懂源码，白做前端！](https://www.ershicimi.com/p/bb5a715d21e6306d52c6c73902655a7b) 
+- [2020-09-30-尤雨溪：全职做开源年薪百万，网友：不愧是前端尤大神](https://www.ershicimi.com/p/4c141c4dbb5812adeb26a6e2b86a7fec) 
 - [2020-05-09-约吗？-Winter-问你](https://www.ershicimi.com/p/56070921db6716af5615b24f68ab643b) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 

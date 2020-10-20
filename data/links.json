@@ -18016,6 +18016,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大佬们好，问下 Python 获取电脑硬件信息，类似鲁大师那种。",
+        "link": "https://www.v2ex.com/t/716547",
+        "date": "2020-10-20"
+      },
+      {
         "title": "万能的 v 友。求推荐好用而不花哨的游戏鼠标？",
         "link": "https://www.v2ex.com/t/716545",
         "date": "2020-10-19"
@@ -18204,11 +18209,6 @@
         "title": "广东电信 1000M 宽带 699 元/月，算不算全国最高的？",
         "link": "https://www.v2ex.com/t/716498",
         "date": "2020-10-19"
-      },
-      {
-        "title": "前端都这样的吗？不能更新升级的吗？",
-        "link": "https://www.v2ex.com/t/716497",
-        "date": "2020-10-19"
       }
     ]
   },
@@ -18220,102 +18220,102 @@
       {
         "title": "“网页内容无法访问”可能是跨域错误！ (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "社会创新的三个误区 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13816&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthree-mistakes-of-social-innovation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "为何不推荐使用 Sass 作为 css 预处理器 (quickapp.lovejade.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13815&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fwhy-sass-is-not-recommended-as-a-css-preprocessor%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "OKR 工作法，带你聚焦目标，高效工作 (www.jeffjade.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13814&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F10%2F12%2F172-okr-working-method-let-you-more-efficiently%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "敏捷项目管理需要知道的五类图表 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13813&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchats-for-agile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "硬核！IDEA 中使用 Git 完整入门教程！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "微软发布新版 Python 教程，这次更高级！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13811&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKXm5FJn52NAhBsaMf6d9Lw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "Spring Boot 最流行的 16 条实践解读！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13810&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn4_duiwydvTzwulxUWvlwA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "提高工作效率的 7 个 Vim 使用技巧！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "Referer 防盗链，为什么少了个字母 R？ (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13808&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F263425663%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "一文讲懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZYFdJ0FRNhcbWP3Ddng1lA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "Android 敏感数据泄露引发的思考 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "最全解密微信红包随机算法(含代码实现) (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "Kotlin 正在变得越来越好 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13804&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4JCNz0KJiJiuiABVfpCIzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "Koin in Android: 更简单的依赖注入 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13803&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJmpP3HbyZvebbrTWhGiPVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "19 个接私活平台汇总，你有技术就有钱 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13802&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuSxfEP1cVRpaNwtF2gmtfw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "开发者日常 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13801&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6fD5AFnULw-utmhDbX-WkA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "Linus：我们都老了，但 Linux 维护后继无人 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13800&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhKZnVytfARTqh0ix33R-wg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "一款 GitHub 代码泄露监控系统，为企业安全保驾护航！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       },
       {
         "title": "计算机网络基础知识总结 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13798&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fc2glZ6ouef0aDAdHB1yBFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
       }
     ]
   },
@@ -18325,179 +18325,99 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "30 岁的程序员出路在哪里？| 码农周刊第 321 期",
-        "link": "https://toutiao.io/k/qdeuemt",
-        "date": "2020-10-19"
+        "title": "[译] 50+ 有用的 DevOps 工具（一）",
+        "link": "https://toutiao.io/k/lo4v773",
+        "date": "2020-10-20"
       },
       {
-        "title": "Spring Boot 开发秘籍：事件异步处理",
-        "link": "https://toutiao.io/k/y424dbu",
-        "date": "2020-10-19"
+        "title": "Docker 安装 RocketMQ 并结合 Spring Boot 使用实例",
+        "link": "https://toutiao.io/k/t7olcqd",
+        "date": "2020-10-20"
       },
       {
-        "title": "理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-19"
+        "title": "Paxos 是如何劝退大家去选择 Raft 的",
+        "link": "https://toutiao.io/k/v937b74",
+        "date": "2020-10-20"
       },
       {
-        "title": "面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "星星之火，可否燎原：关于深度学习和大数据系统融合现状的认识",
-        "link": "https://toutiao.io/k/sdb9eoy",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "这个缓存更新的套路你都知道吗？",
-        "link": "https://toutiao.io/k/zq6ysw5",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "Service Mesh 的关键：边车模式 (sidecar)；又要开车了",
-        "link": "https://toutiao.io/k/vys6n4c",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "带你快速了解：限流中的漏桶和令牌桶算法",
-        "link": "https://toutiao.io/k/okvzhvz",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "如何优化前端性能？",
-        "link": "https://toutiao.io/k/fagglng",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "用 Python 绘制地理图",
-        "link": "https://toutiao.io/k/f1d73bn",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "软件如何优雅地向前兼容？",
-        "link": "https://toutiao.io/k/4xyo2p5",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "详解 C++ 11 中的智能指针",
-        "link": "https://toutiao.io/k/prgwyy1",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "产品设计方法论：Amazon 逆向工作法",
-        "link": "https://toutiao.io/k/o5hhx9b",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "从 HTTP 协议层面探讨 Bypass",
-        "link": "https://toutiao.io/k/ta14m5w",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "如何有效的维权，这些投诉平台你可能用得上",
-        "link": "https://toutiao.io/k/e3zsppo",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "谷歌 pQRNN：轻量级文本分类模型",
-        "link": "https://toutiao.io/k/2yzycwd",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[译] 用 Notary 和 OPA 在 Kubernetes 上使用内容签名",
-        "link": "https://toutiao.io/k/mebgv58",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "编程体系结构：Java IO 流文件管理",
-        "link": "https://toutiao.io/k/f3xqehn",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "Kafka 监控工具之 CMAK",
-        "link": "https://toutiao.io/k/fzzch9i",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "Kotlin Collection VS Kotlin Sequence VS Java Stream",
-        "link": "https://toutiao.io/k/9lzdibp",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-19"
+        "title": "为什么说 Python 内置函数并不是万能的？",
+        "link": "https://toutiao.io/k/5840gfp",
+        "date": "2020-10-20"
       },
       {
         "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
         "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-19"
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-20"
       }
     ]
   },

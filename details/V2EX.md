@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-20 10:15:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 10:29:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-20-现公司好像要转给另一个公司了，-V2-的老铁有谁经历过！](https://www.v2ex.com/t/716816) 
+- [2020-10-20-Evernote-的客户端突然升级了](https://www.v2ex.com/t/716815) 
 - [2020-10-20-程序员们怎么用区块链赚钱？](https://www.v2ex.com/t/716813) 
 - [2020-10-20-一个手机号可以同时开两个-watch-的-esim-吗](https://www.v2ex.com/t/716812) 
 - [2020-10-20-关于海外市场调研，如何精准投放相关问卷（加密货币领域）](https://www.v2ex.com/t/716811) 
@@ -38,6 +40,3 @@
 - [2020-10-20-为什么这两个看似相同的命令运行，结果截然不同?PowerShell](https://www.v2ex.com/t/716771) 
 - [2020-10-20-老哥们帮我看看这个项目的完成度咋样](https://www.v2ex.com/t/716770) 
 - [2020-10-20-车机支不支持-CarPlay，实际体验有什么差别？（我是-iPhone-用户）](https://www.v2ex.com/t/716768) 
-- [2020-10-20-Java-.io.IOException:-Function-not-implemented](https://www.v2ex.com/t/716766) 
-- [2020-10-20-2020-年了，-paypal-提现到国内银行卡有什么好的方法吗](https://www.v2ex.com/t/716765) 
-- [2020-10-20-如何屏蔽-QQ-音乐的-DJ-版和-Live-版？](https://www.v2ex.com/t/716764) 

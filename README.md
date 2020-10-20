@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 16:04:54，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 16:18:57，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-20-MIUI-开了勿扰模式，还是有振动？](https://www.v2ex.com/t/716894) ![](assets/new.png)  
 - [2020-10-20-MagSafe-这么强的吸力，每次都是从手机上拽下来的话，线多久会断？](https://www.v2ex.com/t/716892) ![](assets/new.png)  
 - [2020-10-20-nginx-的-cache-file-has-too-long-header-问题](https://www.v2ex.com/t/716891) ![](assets/new.png)  
 - [2020-10-20-预购了-iPhone12-蓝色的各位现在打算怎么办？](https://www.v2ex.com/t/716890) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-20-iPhone12-白色开箱视频-真好看](https://www.v2ex.com/t/716874) ![](assets/new.png)  
 - [2020-10-20-卖房以周转生活，但是-3-个月了买方房贷款还是没放下来，房子已经过户，怎么办？](https://www.v2ex.com/t/716873) ![](assets/new.png)  
 - [2020-10-20-有没有一台三星的硬件+Google-原生系统的手机](https://www.v2ex.com/t/716872) ![](assets/new.png)  
-- [2020-10-20-iPhone12-的首发评测来了，蓝色真机亮眼](https://www.v2ex.com/t/716869) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

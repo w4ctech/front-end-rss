@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 23:13:47，:rocket: 更新条数: +3743， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 23:26:42，:rocket: 更新条数: +3743， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -508,6 +508,8 @@
 </summary>
 
 
+- [2020-10-20-都说前端需求大，为啥我找工作还这么难？](https://www.ershicimi.com/p/484c68623574e53c6a157af238dfd953) ![](assets/new.png)  
+- [2020-10-20-手动实现一个-JavaScript-模块执行器](https://www.ershicimi.com/p/a27a61a3faed0c5daf5ad937972d5b1e) ![](assets/new.png)  
 - [2020-10-19-10分钟快速过一遍PM2核心知识点](https://www.ershicimi.com/p/99438953239fc3d6acc5f33412ee34fc) ![](assets/new.png)  
 - [2020-10-19-最嘈的前端交流](https://www.ershicimi.com/p/f5a5878349a1ffb864f7dbfc575c8a3d) ![](assets/new.png)  
 - [2020-10-18-Vue源码解析，keep-alive是如何实现缓存的？](https://www.ershicimi.com/p/c81f3dab9f625b222096f480633b3883) ![](assets/new.png)  
@@ -526,8 +528,6 @@
 - [2020-10-09-JavaScript死期将至？](https://www.ershicimi.com/p/1df0f4a780285bb74f4b1570a892c1d5) ![](assets/new.png)  
 - [2020-10-09-2020年9月程序员工资统计](https://www.ershicimi.com/p/1effda722a200f5a89f3db6eb4f22718) ![](assets/new.png)  
 - [2020-10-08-成为最差前端开发的10个建议](https://www.ershicimi.com/p/51b4206373a052614d16dc9c85bef198) ![](assets/new.png)  
-- [2020-10-06-浅析鸿蒙-JavaScript-GUI-技术栈](https://www.ershicimi.com/p/e2d5a7660e50a575e53009cf83249e0c) ![](assets/new.png)  
-- [2020-10-05-尤大-3-天前发在-GitHub-上的-vue-lit-是啥？](https://www.ershicimi.com/p/7efec0fdd979f37680b40a7a55c8245d) ![](assets/new.png)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1157,13 +1157,13 @@
 - [2020-10-20-Docker-安装-RocketMQ-并结合-Spring-Boot-使用实例](https://toutiao.io/k/t7olcqd) ![](assets/new.png)  
 - [2020-10-20-Paxos-是如何劝退大家去选择-Raft-的](https://toutiao.io/k/v937b74) ![](assets/new.png)  
 - [2020-10-20-为什么说-Python-内置函数并不是万能的？](https://toutiao.io/k/5840gfp) ![](assets/new.png)  
-- [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
 - [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
-- [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
+- [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
 - [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
+- [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
 - [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
-- [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
 - [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
+- [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
 - [2020-10-20-iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu) ![](assets/new.png)  
 - [2020-10-20-算法萌新如何学好动态规划（一）](https://toutiao.io/k/y1rsa4z) ![](assets/new.png)  
 - [2020-10-20-spring-boot-route（十六）：使用-logback-生产日志文件](https://toutiao.io/k/58pd9ui) ![](assets/new.png)  

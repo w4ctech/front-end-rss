@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 23:13:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 23:26:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -48,7 +48,6 @@
 - [2020-10-18-Vue源码解析，keep-alive是如何实现缓存的？](https://www.ershicimi.com/p/c81f3dab9f625b222096f480633b3883) 
 - [2020-10-15-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/f1fe08222b532571c61730678e3bc2bc) 
 - [2020-10-10-10个实用技巧让你的-Vue-代码更优雅](https://www.ershicimi.com/p/10b2afc512eee3f3a232dd6a6d97dbf3) 
-- [2020-10-05-尤大-3-天前发在-GitHub-上的-vue-lit-是啥？](https://www.ershicimi.com/p/7efec0fdd979f37680b40a7a55c8245d) 
 - [2020-10-11-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/0590b6964c9fcfc3e48286bd7d353627) 
 - [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
 - [2020-10-13-如何从0到1构建Vue-SSR项目？](https://www.ershicimi.com/p/a54b7a62c54d520c7c9260315cf86da6) 

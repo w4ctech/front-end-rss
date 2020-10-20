@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 23:13:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 23:26:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -59,9 +59,9 @@
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2020-10-11-图解JavaScript——代码实现【2】（重点是Promise、Async、发布/订阅原理实现）](https://www.ershicimi.com/p/687e7993cf28fb1da8aab990e85806c8) 
 - [2020-09-27-30道高频JS手撕面试题](https://www.ershicimi.com/p/7a2b0ecf8eea81638b986e4638b348f6) 
+- [2020-10-20-手动实现一个-JavaScript-模块执行器](https://www.ershicimi.com/p/a27a61a3faed0c5daf5ad937972d5b1e) 
 - [2020-10-17-是谁动了我的-DOM？](https://www.ershicimi.com/p/e451ff6c216b94d1ccd901ded0c20352) 
 - [2020-10-09-JavaScript死期将至？](https://www.ershicimi.com/p/1df0f4a780285bb74f4b1570a892c1d5) 
-- [2020-10-06-浅析鸿蒙-JavaScript-GUI-技术栈](https://www.ershicimi.com/p/e2d5a7660e50a575e53009cf83249e0c) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 
 - [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 

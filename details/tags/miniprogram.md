@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 06:49:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 07:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -10,5 +10,4 @@
 - [2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) 
 - [2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
-- [2020-10-20-大龄程序员为了教小孩写字搞了个小程序查笔顺](https://www.v2ex.com/t/716683) 
 - [2020-10-17-小程序渗透-|-对酒店房间自助售货机的支付漏洞挖掘](https://sec.thief.one/article_content?a_id=9bc654e16d043dae8b0161870d334a3e) 

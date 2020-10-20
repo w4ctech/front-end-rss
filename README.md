@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 06:49:09，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 07:04:28，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,11 +65,11 @@
 
 
 - [2020-10-19-最新疫情：全国新冠累计确诊85704例-新增境外输入19例](https://m.caixin.com/m/2020-10-20/101616616.html) ![](assets/new.png)  
+- [2020-10-19-最新海外疫情：新冠感染超4021万-累计死亡超111万](http://m.international.caixin.com/m/2020-10-20/101616648.html) ![](assets/new.png)  
 - [2020-10-19-【境内疫情观察】全国新增19例境外输入病例（10月19日）](http://m.database.caixin.com/m/2020-10-20/101616600.html) ![](assets/new.png)  
 - [2020-10-19-大流行手记|10月19日：全球感染突破4000万-印度3亿人获疫苗优先接种机会](https://m.caixin.com/m/2020-10-20/101616494.html) ![](assets/new.png)  
 - [2020-10-18-特写|新冠疫苗紧急使用人群继续扩大](https://m.caixin.com/m/2020-10-19/101616151.html) ![](assets/new.png)  
 - [2020-10-18-高福：青岛冷链食品外包装首次分离新冠活病毒意义何在](https://m.caixin.com/m/2020-10-19/101615998.html) ![](assets/new.png)  
-- [2020-10-18-最新海外疫情：新冠感染近3983万-累计死亡近111万](http://m.international.caixin.com/m/2020-10-19/101616397.html) ![](assets/new.png)  
 - [2020-10-18-【境内疫情观察】全国新增13例境外输入病例（10月18日）](http://m.database.caixin.com/m/2020-10-19/101616154.html) ![](assets/new.png)  
 - [2020-10-18-大流行手记|10月18日：全球单日新增病例连创新高-法国巴黎等地再宵禁](https://m.caixin.com/m/2020-10-19/101616004.html) ![](assets/new.png)  
 - [2020-10-17-青岛冷链食品外包装首次分离新冠活病毒-中疾控提示风险](https://m.caixin.com/m/2020-10-18/101615901.html) ![](assets/new.png)  
@@ -947,11 +947,11 @@
 </summary>
 
 
+- [2020-10-19-在Vue-Vite应用程序中实现暗/亮模式](https://juejin.im/post/6885591608088559623) ![](assets/new.png)  
 - [2020-10-19-JavaScript-中数据类型的判断与转换](https://juejin.im/post/6885535412656275464) ![](assets/new.png)  
 - [2020-10-19-骨架屏page-skeleton-webpack-plugin初探](https://juejin.im/post/6885535026184716295) ![](assets/new.png)  
 - [2020-10-19-CSS的继承性、层叠性、特殊性](https://juejin.im/post/6885533542156238855) ![](assets/new.png)  
 - [2020-10-19-如何使用-lerna-做前端模块管理](https://juejin.im/post/6885531982743207949) ![](assets/new.png)  
-- [2020-10-19-Protocol-Buffers-浅析](https://juejin.im/post/6885527946367336461) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,11 @@
 </summary>
 
 
+- [2020-10-20-Chrome-能否分别设置-笔记本内置屏-和-外接屏-的缩放比例，而不是统一缩放比例](https://www.v2ex.com/t/716734) ![](assets/new.png)  
+- [2020-10-20-刚才看到有关-Windows-下广告弹窗的问题，有个想法](https://www.v2ex.com/t/716731) ![](assets/new.png)  
+- [2020-10-20-apple-music-再度发车。之前由于买了-QQ-下车了。现在再发车一次。缺-4-个人](https://www.v2ex.com/t/716730) ![](assets/new.png)  
+- [2020-10-20-各位-V2-大大，想买个移动硬盘，用来备份数据，-1T-左右，有性价比高的移动硬盘推荐吗？](https://www.v2ex.com/t/716729) ![](assets/new.png)  
+- [2020-10-20-老哥们求教，-6-年-Javaer-技术一般般-一直想发展点其他方向的东西-对机器学习比较感兴趣-求教下这个怎么上车](https://www.v2ex.com/t/716728) ![](assets/new.png)  
 - [2020-10-20-关于-oauth2-第三方登录认证的问题](https://www.v2ex.com/t/716727) ![](assets/new.png)  
 - [2020-10-20-百度绝佳的工作机会-社招---每晚统一筛选简历---次日录入内推系统](https://www.v2ex.com/t/716726) ![](assets/new.png)  
 - [2020-10-20-恐怖黎明双人联机总连不上](https://www.v2ex.com/t/716725) ![](assets/new.png)  
@@ -1082,11 +1087,6 @@
 - [2020-10-20-win10-中的$LogFile（NTFS-卷日志）文件怎么查看呀？](https://www.v2ex.com/t/716714) ![](assets/new.png)  
 - [2020-10-20-远程-招-全栈工程师-10-~-20-USDT/h-Beancount.io,-硅谷-io,-Touchbase.AI,-stargately.com,-etc](https://www.v2ex.com/t/716712) ![](assets/new.png)  
 - [2020-10-20-大佬们来讨论讨论有没有什么副业可以搞一搞](https://www.v2ex.com/t/716710) ![](assets/new.png)  
-- [2020-10-20-可否使用-IPFS-系统来存储业务系统的文件](https://www.v2ex.com/t/716708) ![](assets/new.png)  
-- [2020-10-20-1](https://www.v2ex.com/t/716707) ![](assets/new.png)  
-- [2020-10-20-iCloud-邮箱无法登录](https://www.v2ex.com/t/716706) ![](assets/new.png)  
-- [2020-10-20-android-版本-twitter-里的照片不能直接分享给微信](https://www.v2ex.com/t/716705) ![](assets/new.png)  
-- [2020-10-20-Telegram-为什么没有在-AppStore-国区下架？](https://www.v2ex.com/t/716704) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1137,8 +1137,8 @@
 - [2020-10-20-Docker-安装-RocketMQ-并结合-Spring-Boot-使用实例](https://toutiao.io/k/t7olcqd) ![](assets/new.png)  
 - [2020-10-20-Paxos-是如何劝退大家去选择-Raft-的](https://toutiao.io/k/v937b74) ![](assets/new.png)  
 - [2020-10-20-为什么说-Python-内置函数并不是万能的？](https://toutiao.io/k/5840gfp) ![](assets/new.png)  
-- [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
 - [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
+- [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
 - [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
 - [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  

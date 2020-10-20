@@ -10,6 +10,11 @@
         "date": "2020-10-19"
       },
       {
+        "title": "最新海外疫情：新冠感染超4021万 累计死亡超111万",
+        "link": "http://m.international.caixin.com/m/2020-10-20/101616648.html",
+        "date": "2020-10-19"
+      },
+      {
         "title": "【境内疫情观察】全国新增19例境外输入病例（10月19日）",
         "link": "http://m.database.caixin.com/m/2020-10-20/101616600.html",
         "date": "2020-10-19"
@@ -27,11 +32,6 @@
       {
         "title": "高福：青岛冷链食品外包装首次分离新冠活病毒意义何在",
         "link": "https://m.caixin.com/m/2020-10-19/101615998.html",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "最新海外疫情：新冠感染近3983万 累计死亡近111万",
-        "link": "http://m.international.caixin.com/m/2020-10-19/101616397.html",
         "date": "2020-10-18"
       },
       {
@@ -16471,6 +16471,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "在Vue Vite应用程序中实现暗/亮模式",
+        "link": "https://juejin.im/post/6885591608088559623",
+        "date": "2020-10-19"
+      },
+      {
         "title": "JavaScript 中数据类型的判断与转换",
         "link": "https://juejin.im/post/6885535412656275464",
         "date": "2020-10-19"
@@ -16488,11 +16493,6 @@
       {
         "title": "如何使用 lerna 做前端模块管理",
         "link": "https://juejin.im/post/6885531982743207949",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "Protocol Buffers 浅析",
-        "link": "https://juejin.im/post/6885527946367336461",
         "date": "2020-10-19"
       }
     ]
@@ -16880,6 +16880,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Chrome 能否分别设置 [笔记本内置屏] 和 [外接屏] 的缩放比例，而不是统一缩放比例",
+        "link": "https://www.v2ex.com/t/716734",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "刚才看到有关 Windows 下广告弹窗的问题，有个想法",
+        "link": "https://www.v2ex.com/t/716731",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "apple music 再度发车。之前由于买了 QQ 下车了。现在再发车一次。缺 4 个人",
+        "link": "https://www.v2ex.com/t/716730",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "各位 V2 大大，想买个移动硬盘，用来备份数据， 1T 左右，有性价比高的移动硬盘推荐吗？",
+        "link": "https://www.v2ex.com/t/716729",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "老哥们求教， 6 年 Javaer 技术一般般 一直想发展点其他方向的东西 对机器学习比较感兴趣 求教下这个怎么上车",
+        "link": "https://www.v2ex.com/t/716728",
+        "date": "2020-10-20"
+      },
+      {
         "title": "关于 oauth2 第三方登录认证的问题",
         "link": "https://www.v2ex.com/t/716727",
         "date": "2020-10-20"
@@ -17048,31 +17073,6 @@
         "title": "[红帽 Red Hat] 招聘 Linux 开发工程师 地点可考虑北京/上海/深圳/西安",
         "link": "https://www.v2ex.com/t/716685",
         "date": "2020-10-20"
-      },
-      {
-        "title": "大龄程序员为了教小孩写字搞了个小程序查笔顺",
-        "link": "https://www.v2ex.com/t/716683",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "关于装修 求有经验的大佬指点",
-        "link": "https://www.v2ex.com/t/716682",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "上次要的录屏视频做好了哦，优惠券在正文领取",
-        "link": "https://www.v2ex.com/t/716681",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "没人讨论 iPhone12 蓝色的开箱图吗？",
-        "link": "https://www.v2ex.com/t/716680",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "自建 bitwarden 在 ios 客户端下无法使用，提示 SSL 错误",
-        "link": "https://www.v2ex.com/t/716678",
-        "date": "2020-10-20"
       }
     ]
   },
@@ -17229,13 +17229,13 @@
         "date": "2020-10-20"
       },
       {
-        "title": "Go 使用标准库 net/rpc 包",
-        "link": "https://toutiao.io/k/scmprwh",
+        "title": "sealos + rook 部署 kubeSphere + TiDB",
+        "link": "https://toutiao.io/k/gd9ggg3",
         "date": "2020-10-20"
       },
       {
-        "title": "sealos + rook 部署 kubeSphere + TiDB",
-        "link": "https://toutiao.io/k/gd9ggg3",
+        "title": "Go 使用标准库 net/rpc 包",
+        "link": "https://toutiao.io/k/scmprwh",
         "date": "2020-10-20"
       },
       {
@@ -17289,38 +17289,8 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-20"
       },
       {
@@ -17329,8 +17299,13 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-20"
       },
       {
@@ -17344,13 +17319,8 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-20"
       },
       {
@@ -17359,8 +17329,38 @@
         "date": "2020-10-20"
       },
       {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-20"
+      },
+      {
         "title": "[推荐] 建设微服务 API 网关的一些实践",
         "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-20"
       }
     ]

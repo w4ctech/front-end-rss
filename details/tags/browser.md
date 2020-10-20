@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 06:49:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 07:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,7 @@
 - [2020-10-19-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/e3ee1b93362990a169a0ea0f52f36e54) 
 - [2020-10-17-一次近乎完美的PostgreSQL版本大升级实践](https://www.ershicimi.com/p/bdbd6ab5d3046f4bc8eedbbc123225f1) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-20-Chrome-能否分别设置-笔记本内置屏-和-外接屏-的缩放比例，而不是统一缩放比例](https://www.v2ex.com/t/716734) 
 - [2020-10-20-Windows7-版-Edge-登陆得先把-IE8-更新到-IE11](https://www.v2ex.com/t/716722) 
 - [2020-10-20-大哥们，绕过-ieSnare-检测还有什么值得注意的呢？](https://www.v2ex.com/t/716715) 
 - [2020-10-20-求推荐笔记本电脑，主要用-SolidWorks-和-Rhinoceros-建模渲染](https://www.v2ex.com/t/716693) 

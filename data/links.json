@@ -16486,13 +16486,13 @@
         "date": "2020-10-19"
       },
       {
-        "title": "骨架屏(page-skeleton-webpack-plugin)初探",
-        "link": "https://juejin.im/post/6885535026184716295",
+        "title": "CSS的继承性、层叠性、特殊性",
+        "link": "https://juejin.im/post/6885533542156238855",
         "date": "2020-10-19"
       },
       {
-        "title": "CSS的继承性、层叠性、特殊性",
-        "link": "https://juejin.im/post/6885533542156238855",
+        "title": "如何使用 lerna 做前端模块管理",
+        "link": "https://juejin.im/post/6885531982743207949",
         "date": "2020-10-19"
       }
     ]
@@ -16880,6 +16880,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Macbook Pro 屏幕蓝斑问题",
+        "link": "https://www.v2ex.com/t/716751",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "不同的硬件或系统环境是否可能导致程序计算结果不同？",
+        "link": "https://www.v2ex.com/t/716750",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "才发现 win 远程桌面程序能直接复制粘贴到服务器",
+        "link": "https://www.v2ex.com/t/716749",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "当一台新设备接入无线热点时，都会交换哪些数据？",
+        "link": "https://www.v2ex.com/t/716747",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "京东买了个锅",
+        "link": "https://www.v2ex.com/t/716746",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "求一个算法的名称",
+        "link": "https://www.v2ex.com/t/716745",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "钉钉文档招聘前端~",
+        "link": "https://www.v2ex.com/t/716744",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "SETAPP 发车了",
+        "link": "https://www.v2ex.com/t/716743",
+        "date": "2020-10-20"
+      },
+      {
         "title": "之前学了 coursera 上的吴恩达机器学习+深度学习两门课，现在想学习 pytorch，但是不知道学了之后干点什么？",
         "link": "https://www.v2ex.com/t/716742",
         "date": "2020-10-20"
@@ -17027,36 +17067,6 @@
       {
         "title": "iPhone AppleID 问题",
         "link": "https://www.v2ex.com/t/716702",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "感谢各位 V 友 研究后附上装机单供参考",
-        "link": "https://www.v2ex.com/t/716701",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "mbp16inch 外接 4k 显示器 某些应用会花屏",
-        "link": "https://www.v2ex.com/t/716700",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "当当图书优惠，折上折",
-        "link": "https://www.v2ex.com/t/716697",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "Python 格式化时间问题",
-        "link": "https://www.v2ex.com/t/716696",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "Python 的微信支付调用例子",
-        "link": "https://www.v2ex.com/t/716695",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "求推荐笔记本电脑，主要用 SolidWorks 和 Rhinoceros 建模渲染",
-        "link": "https://www.v2ex.com/t/716693",
         "date": "2020-10-20"
       }
     ]
@@ -17254,13 +17264,13 @@
         "date": "2020-10-20"
       },
       {
-        "title": "spring-boot-route（十六）：使用 logback 生产日志文件",
-        "link": "https://toutiao.io/k/58pd9ui",
+        "title": "算法萌新如何学好动态规划（一）",
+        "link": "https://toutiao.io/k/y1rsa4z",
         "date": "2020-10-20"
       },
       {
-        "title": "算法萌新如何学好动态规划（一）",
-        "link": "https://toutiao.io/k/y1rsa4z",
+        "title": "spring-boot-route（十六）：使用 logback 生产日志文件",
+        "link": "https://toutiao.io/k/58pd9ui",
         "date": "2020-10-20"
       },
       {
@@ -17274,23 +17284,38 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-20"
-      },
-      {
         "title": "[推荐] 时间轮在 Kafka 的实践",
         "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-20"
       },
       {
@@ -17299,8 +17324,28 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-20"
       },
       {
@@ -17311,41 +17356,6 @@
       {
         "title": "[推荐] 高性能网关设计实践",
         "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-20"
       }
     ]

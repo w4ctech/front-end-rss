@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 09:32:06，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 09:39:43，:rocket: 更新条数: +3516， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,8 @@
 </summary>
 
 
+- [2020-10-20-MacBook-Pro-16-外接-Caldigit-扩展坞双显示器排列问题咨询](https://www.v2ex.com/t/716798) ![](assets/new.png)  
+- [2020-10-20-刚下载完-500-彩票也没登陆，立马就删了，几分钟后就收到云闪付发来的通知](https://www.v2ex.com/t/716797) ![](assets/new.png)  
 - [2020-10-20-3090-用于深度学习怎么样，要不要等-A6000](https://www.v2ex.com/t/716795) ![](assets/new.png)  
 - [2020-10-20-仅限-5-个名额，速领火火火火](https://www.v2ex.com/t/716792) ![](assets/new.png)  
 - [2020-10-20-Captura-区域录制-，但是-ffmpeg-Downloader-下载不了。-哪位同学有-类似-电脑区域录制的软件-介绍下呢？-需要能高清录制的。谢谢](https://www.v2ex.com/t/716791) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-20-dubbo-的实体类一定要实现-serializable-吗？](https://www.v2ex.com/t/716774) ![](assets/new.png)  
 - [2020-10-20-深圳-Python-开发12K-25K有品国际弹性不加班+福利后端团队招聘-Python-开发工程师啦](https://www.v2ex.com/t/716773) ![](assets/new.png)  
 - [2020-10-20-JD-网页端，付款的时候选择微信支付，支付的二维码是-60s-自动失效的，这个是出于什么考虑的？](https://www.v2ex.com/t/716772) ![](assets/new.png)  
-- [2020-10-20-为什么这两个看似相同的命令运行，结果截然不同?PowerShell](https://www.v2ex.com/t/716771) ![](assets/new.png)  
-- [2020-10-20-老哥们帮我看看这个项目的完成度咋样](https://www.v2ex.com/t/716770) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1138,8 +1138,8 @@
 - [2020-10-20-Paxos-是如何劝退大家去选择-Raft-的](https://toutiao.io/k/v937b74) ![](assets/new.png)  
 - [2020-10-20-为什么说-Python-内置函数并不是万能的？](https://toutiao.io/k/5840gfp) ![](assets/new.png)  
 - [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
-- [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
 - [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
+- [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
 - [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
 - [2020-10-20-iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu) ![](assets/new.png)  

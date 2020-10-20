@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 07:40:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 07:47:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -16,7 +16,6 @@
 - [2020-10-14-GitHub：再见，master！](https://www.ershicimi.com/p/f03837ba3ed7d53fd8b785002973f87a) 
 - [2020-10-20-求一个算法的名称](https://www.v2ex.com/t/716745) 
 - [2020-10-20-这一次，我用-Faststone-录屏了](https://www.v2ex.com/t/716721) 
-- [2020-10-20-远程-招-全栈工程师-10-~-20-USDT/h-Beancount.io,-硅谷-io,-Touchbase.AI,-stargately.com,-etc](https://www.v2ex.com/t/716712) 
 - [2020-10-20-提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-20-最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-20-算法萌新如何学好动态规划（一）](https://toutiao.io/k/y1rsa4z) 

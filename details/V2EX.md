@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 18:04:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 18:15:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,4 +39,3 @@
 - [2020-10-20-git-如何以最少的下载量，直接下载指定-hash](https://www.v2ex.com/t/716859) 
 - [2020-10-20-第四期德国-IT-岗位招聘之-Senior-Penetration-Tester,Frontend-developer,-Backend-Engineer](https://www.v2ex.com/t/716858) 
 - [2020-10-20-关于网易云浏览器歌单显示限制有没有解决方案](https://www.v2ex.com/t/716857) 
-- [2020-10-20-京东自营笔记本电脑优惠代下单](https://www.v2ex.com/t/716853) 

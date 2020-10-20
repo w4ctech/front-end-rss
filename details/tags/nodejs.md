@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 14:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 14:15:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -11,6 +11,7 @@
 - [2020-10-09-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/002211e101217aa0a657e6c2fcc88a41) 
 - [2020-09-27-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/35e68066c5fdc7da00fa6578cd44e004) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/a9a603eab29a5625f2c33aed1dd59c5a) 
+- [2020-10-12-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bb121b910148c883d3d1c8243fa7abdf) 
 - [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
 - [2020-10-18-三步法解析Express源码](https://www.ershicimi.com/p/fab88d726c407f28c89a1ac4a5d7f159) 
 - [2020-09-23-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/28f8d4bd4d47d685d681761926738613) 
@@ -29,3 +30,4 @@
 - [2020-09-22-运维的报表之路，用-Node.js-轻松发送-grafana-报表](https://www.ershicimi.com/p/23027332cbc0022f3ad9e9fac1ded4c6) 
 - [2020-09-20-CNodejs每日新闻周刊｜第-6-期](https://www.ershicimi.com/p/d497726d3508bc612d33b1bf38c2c7f1) 
 - [2020-10-13-排查-Node.js-服务内存泄漏，没想到竟是它？](https://www.ershicimi.com/p/935df501ec98dc8764906f49f4c49f97) 
+- [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 

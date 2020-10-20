@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 14:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 14:15:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -39,6 +39,8 @@
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
 - [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
 - [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
+- [2020-10-10-Vue3+TypeScript完整项目上手教程](https://www.ershicimi.com/p/a1f58e05342565128a63f7116db38e2a) 
+- [2020-09-24-VUE+ElementUI后台管理项目经验与技巧分享，金九银十跳槽必看！](https://www.ershicimi.com/p/16527cca93bfecd468a24f696ad0361c) 
 - [2020-07-07-1元福利-|-深度剖析Vue-.js-3.0底层逻辑，带你向高级前端进阶！](https://www.ershicimi.com/p/b7eeaaa6276d65ebe0a5252368725728) 
 - [2020-04-19-2020年-4-月-21日-星期二-晚上-9:30-Vue.js-作者尤雨溪与你相约前端圈的-B-站](https://www.ershicimi.com/p/69d20f9c5bb2de3da1dad85699594815) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
@@ -59,6 +61,9 @@
 - [2020-10-05-Vue3+TypeScript-完整项目上手教程](https://www.ershicimi.com/p/895c57af1e24976354eb1c0146fdeb27) 
 - [2020-09-29-Vue3+TypeScript-完整项目上手教程](https://www.ershicimi.com/p/ae75eca510f83b07000b4a9d70a66173) 
 - [2020-10-14-Vue.js-作者尤雨溪：TypeScript-与-JavaScript-并行才切合实际！](https://www.ershicimi.com/p/65f8261d5a8e6be4d73ab7529202d452) 
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
+- [2020-10-15-从Vue-SSR原理讲起，教你从零搭建Vue-SSR](https://www.ershicimi.com/p/3533c8a0ba1e77273ce26b55c4f1a2dc) 
+- [2020-09-17-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/ddf67c92911c4ff28123c7ce2c89a519) 
 - [2020-10-15-人人都会Vue，你的优势在哪里？](https://www.ershicimi.com/p/5a864ee6e4a2f2bf14d12c90d6f19e55) 
 - [2020-09-28-Vue-项目中各种痛点问题及方案](https://www.ershicimi.com/p/f39a7d74d6d5457b98a88ceb1d1be6af) 
 - [2020-09-24-Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/b65d310f9584aa86046042c85b9af0aa) 

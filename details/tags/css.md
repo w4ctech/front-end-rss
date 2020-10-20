@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 14:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 14:15:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -10,6 +10,7 @@
 - [2020-10-16-收藏！40-个-CSS-布局技巧](https://www.ershicimi.com/p/659f79ce1de4e0fa4c4738a535a33f35) 
 - [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 
 - [2020-02-04-阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497) 
+- [2020-10-09-四年前端，竟在这道CSS面试题上跪了](https://www.ershicimi.com/p/77b12c47a3599719d7add23051b45375) 
 - [2020-10-11-我写炫酷-CSS-效果的常用套路](https://www.ershicimi.com/p/0053fd159f04d291314d4b16d6c11654) 
 - [2020-09-27-一位用动画自学前端的小伙子！](https://www.ershicimi.com/p/a4781951b30e04f2f6ba3770045ce0b1) 
 - [2020-10-09-CSS垂直居中的七个方法](https://www.ershicimi.com/p/70ff853747a186b90229532092dd4606) 
@@ -20,6 +21,7 @@
 - [2020-10-06-flex:0-flex:1-flex:none-flex:auto应该在什么场景下使用？](https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/) 
 - [2020-09-13-研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/) 
 - [2020-10-14-聊聊-ESM、Bundle-、Bundleless-、Vite-、Snowpack](https://www.ershicimi.com/p/71038eac49ce77666fd434e124afc8f6) 
+- [2020-08-31-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325) 
 - [2020-05-03-对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887) 
 - [2020-10-07-工作四年的前端不服：面试竟在CSS上跪了-究其原因……](https://www.ershicimi.com/p/6d7caaa510e08cf5b511383c19096d0c) 
 - [2020-09-12-5个很常用的CSS3网页小实例](https://www.ershicimi.com/p/cc31a0415cd6949432efb37fa6d0bf27) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 14:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 14:15:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -53,6 +53,10 @@
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
+- [2020-10-17-ES2020中JavaScript-10个你应该知道的新功能](https://www.ershicimi.com/p/465789059fe1d5cfee3df476216eb59a) 
+- [2020-10-08-Python之父：JS不是竞争对手](https://www.ershicimi.com/p/062db78e78423e7cbc7060635ad185f8) 
+- [2020-10-08-大部分人都会做错的经典-JS-闭包面试题](https://www.ershicimi.com/p/e4916ac661cae6cc50e27b2a0403c6ef) 
+- [2020-09-29-32个手撕JS，彻底摆脱初级前端（面试高频）](https://www.ershicimi.com/p/44b1a720095cf182b60ca705dc167ae9) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2020-10-11-图解JavaScript——代码实现【2】（重点是Promise、Async、发布/订阅原理实现）](https://www.ershicimi.com/p/687e7993cf28fb1da8aab990e85806c8) 
 - [2020-09-27-30道高频JS手撕面试题](https://www.ershicimi.com/p/7a2b0ecf8eea81638b986e4638b348f6) 
@@ -78,7 +82,11 @@
 - [2020-09-28-深度解读《新版-JavaScript-红宝书高程第四版》](https://www.ershicimi.com/p/2bc90de1c9eeca332a6db945fea20956) 
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-10-15-深入揭秘前端路由本质，手写-mini-router](https://www.ershicimi.com/p/c6d986949159ab90f4bf5fdf9b5758f6) 
+- [2020-09-21-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/5dec6d20ee78a818f19d8e2aeb310632) 
+- [2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b) 
+- [2020-09-07-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d) 
 - [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-10-17-那个「最牛删库跑路事件」的程序员，被判了....](https://www.ershicimi.com/p/b77c15fb99463067ca79fe4444c72b46) 
 - [2020-10-17-Spring-Boot-无侵入式-实现API接口统一JSON格式返回](https://www.ershicimi.com/p/c13b7a5c22f5b4146cc652ebd59d1863) 

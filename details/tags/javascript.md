@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 14:49:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 15:04:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -75,6 +75,10 @@
 - [2020-10-13-JavaScript工程项目的一系列最佳实践策略](https://www.ershicimi.com/p/53b9eec40283eded8ce9eadb29c7ec82) 
 - [2020-10-11-H5-移动端调试全攻略](https://www.ershicimi.com/p/1c2f1b57e72c48dbfa6e1a7a03c43786) 
 - [2020-10-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/d9cfd050a06b59cdc298976e5379fb90) 
+- [2020-10-10-11个JavaScript代码重构最佳实践](https://www.ershicimi.com/p/2ca7692a90a820749d43269749496e4f) 
+- [2020-10-09-「译」更快的-async-函数和-promises](https://www.ershicimi.com/p/0d99c4058ec482c0ae28ea5d1bb24c61) 
+- [2020-10-08-前端组件设计原则](https://www.ershicimi.com/p/a6ace26783373f356fc765a97af4a6de) 
+- [2020-09-27-大型-web-应用公共组件架构思考](https://www.ershicimi.com/p/565d0b3bb5d2359fa7ee8b6f818f1727) 
 - [2020-09-28-深度解读《新版-JavaScript-红宝书高程第四版》](https://www.ershicimi.com/p/2bc90de1c9eeca332a6db945fea20956) 
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 

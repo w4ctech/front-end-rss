@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 13:14:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 13:28:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,6 +41,7 @@
 - [2020-10-19-Java-中的-AQS-到底是什么？高级面试必问！](https://www.ershicimi.com/p/333df1b52c7a8072743c190abefd56e7) 
 - [2020-10-15-面试遭遇-SparkSQL，慌了！](https://www.ershicimi.com/p/b25fcbef6eee387a64fc9bebb1b1e0c8) 
 - [2020-10-15-滴滴CTO五轮面试真是太刺激了，Java高级工程师一二三四五面面经已拿到offer](https://www.ershicimi.com/p/3094204bbe95af3a1045d7789f1e4255) 
+- [2020-10-20-北京招聘-美团外卖-交易系统平台-高级-Java-工程师/资深-Java-工程师/-Java-技术专家](https://www.v2ex.com/t/716863) 
 - [2020-10-20-第四期德国-IT-岗位招聘之-Senior-Penetration-Tester,Frontend-developer,-Backend-Engineer](https://www.v2ex.com/t/716858) 
 - [2020-10-20-医渡云（北京）招聘-高级前端开发工程师](https://www.v2ex.com/t/716829) 
 - [2020-10-20-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 

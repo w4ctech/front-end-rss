@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 15:50:03，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 16:04:54，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-20-MagSafe-这么强的吸力，每次都是从手机上拽下来的话，线多久会断？](https://www.v2ex.com/t/716892) ![](assets/new.png)  
 - [2020-10-20-nginx-的-cache-file-has-too-long-header-问题](https://www.v2ex.com/t/716891) ![](assets/new.png)  
 - [2020-10-20-预购了-iPhone12-蓝色的各位现在打算怎么办？](https://www.v2ex.com/t/716890) ![](assets/new.png)  
 - [2020-10-20-求此视频出处，求助全网兄弟](https://www.v2ex.com/t/716889) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-20-卖房以周转生活，但是-3-个月了买方房贷款还是没放下来，房子已经过户，怎么办？](https://www.v2ex.com/t/716873) ![](assets/new.png)  
 - [2020-10-20-有没有一台三星的硬件+Google-原生系统的手机](https://www.v2ex.com/t/716872) ![](assets/new.png)  
 - [2020-10-20-iPhone12-的首发评测来了，蓝色真机亮眼](https://www.v2ex.com/t/716869) ![](assets/new.png)  
-- [2020-10-20-有没有带对战模式的背单词软件](https://www.v2ex.com/t/716868) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,11 +1139,11 @@
 - [2020-10-20-为什么说-Python-内置函数并不是万能的？](https://toutiao.io/k/5840gfp) ![](assets/new.png)  
 - [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
 - [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
-- [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
 - [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
+- [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
-- [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
+- [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu) ![](assets/new.png)  
 - [2020-10-20-算法萌新如何学好动态规划（一）](https://toutiao.io/k/y1rsa4z) ![](assets/new.png)  
 - [2020-10-20-spring-boot-route（十六）：使用-logback-生产日志文件](https://toutiao.io/k/58pd9ui) ![](assets/new.png)  

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-20 15:50:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 16:04:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-20-MagSafe-这么强的吸力，每次都是从手机上拽下来的话，线多久会断？](https://www.v2ex.com/t/716892) 
 - [2020-10-20-nginx-的-cache-file-has-too-long-header-问题](https://www.v2ex.com/t/716891) 
 - [2020-10-20-预购了-iPhone12-蓝色的各位现在打算怎么办？](https://www.v2ex.com/t/716890) 
 - [2020-10-20-求此视频出处，求助全网兄弟](https://www.v2ex.com/t/716889) 

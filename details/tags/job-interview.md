@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 15:50:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 16:04:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -43,4 +43,4 @@
 - [2020-10-15-滴滴CTO五轮面试真是太刺激了，Java高级工程师一二三四五面面经已拿到offer](https://www.ershicimi.com/p/3094204bbe95af3a1045d7789f1e4255) 
 - [2020-10-20-北京招聘-美团外卖-交易系统平台-高级-Java-工程师/资深-Java-工程师/-Java-技术专家](https://www.v2ex.com/t/716863) 
 - [2020-10-20-第四期德国-IT-岗位招聘之-Senior-Penetration-Tester,Frontend-developer,-Backend-Engineer](https://www.v2ex.com/t/716858) 
-- [2020-10-20-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
+- [2020-10-20-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 15:42:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 15:50:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -11,4 +11,5 @@
 - [2020-09-25-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/54e33fa9972d09466745caea15b0057e) 
 - [2020-09-29-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b) 
 - [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) 
+- [2020-10-20-nginx-的-cache-file-has-too-long-header-问题](https://www.v2ex.com/t/716891) 
 - [2020-10-20-Docker-安装-RocketMQ-并结合-Spring-Boot-使用实例](https://toutiao.io/k/t7olcqd) 

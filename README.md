@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 15:42:21，:rocket: 更新条数: +3516， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 15:50:03，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-20-nginx-的-cache-file-has-too-long-header-问题](https://www.v2ex.com/t/716891) ![](assets/new.png)  
 - [2020-10-20-预购了-iPhone12-蓝色的各位现在打算怎么办？](https://www.v2ex.com/t/716890) ![](assets/new.png)  
 - [2020-10-20-求此视频出处，求助全网兄弟](https://www.v2ex.com/t/716889) ![](assets/new.png)  
 - [2020-10-20-12-pro-和-pro-max-怎么选？](https://www.v2ex.com/t/716888) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-20-有没有一台三星的硬件+Google-原生系统的手机](https://www.v2ex.com/t/716872) ![](assets/new.png)  
 - [2020-10-20-iPhone12-的首发评测来了，蓝色真机亮眼](https://www.v2ex.com/t/716869) ![](assets/new.png)  
 - [2020-10-20-有没有带对战模式的背单词软件](https://www.v2ex.com/t/716868) ![](assets/new.png)  
-- [2020-10-20-中央部委明确，城镇户口可继承农村‘宅基地’了！](https://www.v2ex.com/t/716866) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,8 +1140,8 @@
 - [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
 - [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
 - [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
-- [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
 - [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
+- [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
 - [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
 - [2020-10-20-iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu) ![](assets/new.png)  

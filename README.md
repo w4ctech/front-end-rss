@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 09:39:43，:rocket: 更新条数: +3516， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 09:47:54，:rocket: 更新条数: +3516， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,8 @@
 </summary>
 
 
+- [2020-10-20-请问一下关于一个-oracle-的语法问题](https://www.v2ex.com/t/716802) ![](assets/new.png)  
+- [2020-10-20-哪有开源的导航网站？](https://www.v2ex.com/t/716801) ![](assets/new.png)  
 - [2020-10-20-MacBook-Pro-16-外接-Caldigit-扩展坞双显示器排列问题咨询](https://www.v2ex.com/t/716798) ![](assets/new.png)  
 - [2020-10-20-刚下载完-500-彩票也没登陆，立马就删了，几分钟后就收到云闪付发来的通知](https://www.v2ex.com/t/716797) ![](assets/new.png)  
 - [2020-10-20-3090-用于深度学习怎么样，要不要等-A6000](https://www.v2ex.com/t/716795) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-20-vscode+wsl2-remote-开发-golang-自动补全提示很慢如何破？](https://www.v2ex.com/t/716776) ![](assets/new.png)  
 - [2020-10-20-想了解下你们是怎么在前端使用-graphql-的](https://www.v2ex.com/t/716775) ![](assets/new.png)  
 - [2020-10-20-dubbo-的实体类一定要实现-serializable-吗？](https://www.v2ex.com/t/716774) ![](assets/new.png)  
-- [2020-10-20-深圳-Python-开发12K-25K有品国际弹性不加班+福利后端团队招聘-Python-开发工程师啦](https://www.v2ex.com/t/716773) ![](assets/new.png)  
-- [2020-10-20-JD-网页端，付款的时候选择微信支付，支付的二维码是-60s-自动失效的，这个是出于什么考虑的？](https://www.v2ex.com/t/716772) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

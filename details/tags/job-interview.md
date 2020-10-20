@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 10:04:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 10:15:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -42,4 +42,3 @@
 - [2020-10-15-面试遭遇-SparkSQL，慌了！](https://www.ershicimi.com/p/b25fcbef6eee387a64fc9bebb1b1e0c8) 
 - [2020-10-15-滴滴CTO五轮面试真是太刺激了，Java高级工程师一二三四五面面经已拿到offer](https://www.ershicimi.com/p/3094204bbe95af3a1045d7789f1e4255) 
 - [2020-10-20-深圳-Python-开发12K-25K有品国际弹性不加班+福利后端团队招聘-Python-开发工程师啦](https://www.v2ex.com/t/716773) 
-- [2020-10-20-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 

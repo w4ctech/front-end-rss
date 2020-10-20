@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 03:39:09，:rocket: 更新条数: +3742， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 03:47:48，:rocket: 更新条数: +3742， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,10 @@
 </summary>
 
 
+- [2020-10-20-请教-apple-id-里的钱能转给其他人吗](https://www.v2ex.com/t/716653) ![](assets/new.png)  
+- [2020-10-20-NGINX-配置跨域支持的正确方式](https://www.v2ex.com/t/716652) ![](assets/new.png)  
+- [2020-10-20-iPhone-12-23-日到货的订单已经变成准备发货状态，订单取消按钮已经消失](https://www.v2ex.com/t/716651) ![](assets/new.png)  
+- [2020-10-20-联想雷电-3-拯救者显卡坞和雷蛇战核-X-显卡坞-比较，哪个好啊？](https://www.v2ex.com/t/716650) ![](assets/new.png)  
 - [2020-10-20-越来越不喜欢惯别人的臭毛病了](https://www.v2ex.com/t/716649) ![](assets/new.png)  
 - [2020-10-20-树莓派-DAC-有推荐的吗？](https://www.v2ex.com/t/716648) ![](assets/new.png)  
 - [2020-10-20-上海电信公网不让建-web-服务就算了，怎么连-RDP-都开始掐连接了？](https://www.v2ex.com/t/716647) ![](assets/new.png)  
@@ -1103,10 +1107,6 @@
 - [2020-10-20-redmi-note-8-pro-国行刷国际版-变砖-求助！](https://www.v2ex.com/t/716630) ![](assets/new.png)  
 - [2020-10-20-公司有个活动，需要填一个数，然后抽奖，我该填哪个数呢？](https://www.v2ex.com/t/716629) ![](assets/new.png)  
 - [2020-10-20-现在耐克鞋质量真的很差么，看某宝官方店的评论全是几个月就开胶开裂的](https://www.v2ex.com/t/716626) ![](assets/new.png)  
-- [2020-10-20-面向专业技术人员的真正-VPN-科学上网工具](https://www.v2ex.com/t/716625) ![](assets/new.png)  
-- [2020-10-20-问下-iPad-mini-3-好换外屏吗？](https://www.v2ex.com/t/716624) ![](assets/new.png)  
-- [2020-10-20-成都-武侯区上市公司招聘-Python-爬虫工程师一枚，要求对主流电商平台数据抓取有一定经验，熟悉-app-逆向。薪酬好谈+V：-bWFyY3VzcGF5bmU=](https://www.v2ex.com/t/716621) ![](assets/new.png)  
-- [2020-10-20-大家是怎么保存猕猴桃的？](https://www.v2ex.com/t/716620) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1157,18 +1157,18 @@
 - [2020-10-20-为什么说-Python-内置函数并不是万能的？](https://toutiao.io/k/5840gfp) ![](assets/new.png)  
 - [2020-10-20-搞定客户端证书错误，看这篇就够了](https://toutiao.io/k/7wb56dd) ![](assets/new.png)  
 - [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
-- [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
 - [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
+- [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
 - [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
+- [2020-10-20-为何不推荐使用-Sass-作为-css-预处理器](https://toutiao.io/k/6t740h7) ![](assets/new.png)  
 - [2020-10-20-iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu) ![](assets/new.png)  
 - [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
 - [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
-- [2020-10-20-为何不推荐使用-Sass-作为-css-预处理器](https://toutiao.io/k/6t740h7) ![](assets/new.png)  
 - [2020-10-20-spring-boot-route（十六）：使用-logback-生产日志文件](https://toutiao.io/k/58pd9ui) ![](assets/new.png)  
 - [2020-10-20-算法萌新如何学好动态规划（一）](https://toutiao.io/k/y1rsa4z) ![](assets/new.png)  
 - [2020-10-20-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-20-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-20-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

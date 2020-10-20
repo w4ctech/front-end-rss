@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 03:39:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 03:47:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,7 @@
 - [2020-10-19-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/e3ee1b93362990a169a0ea0f52f36e54) 
 - [2020-10-17-一次近乎完美的PostgreSQL版本大升级实践](https://www.ershicimi.com/p/bdbd6ab5d3046f4bc8eedbbc123225f1) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-20-NGINX-配置跨域支持的正确方式](https://www.v2ex.com/t/716652) 
 - [2020-10-20-chrome-浏览器如何优雅的选择链接上的文字？](https://www.v2ex.com/t/716646) 
 - [2020-10-20-安全岗位内推---字节跳动](https://www.v2ex.com/t/716639) 
 - [2020-10-20-🔥新加坡-技术移民机会纽交所上市互联网公司，寻找后台技术-leader/高级专家，大数据基础架构-leader/高级专家，移动端安全技术专家，云平台数据库-RDS-开...](https://www.v2ex.com/t/716609) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-20 03:14:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 03:29:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -115,6 +115,7 @@
 - [【程序员成长指北】用TypeScript装饰器实现一个简单的依赖注入](https://www.ershicimi.com/p/65349519ed828ae1ae8efbc13b7b23c1)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【V2EX】上海-ARKIE-工业设计-软件工程师---Web-全栈---偏前端-TypeScript](https://www.v2ex.com/t/716643)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -394,9 +395,9 @@
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【互联网架构师】腾讯，开源了，高性能-RPC-框架，是要干DUBBO-吗？](https://www.ershicimi.com/p/aa88b31b9ee87a9f3afa55e776367b7b)
 - [【InfoQ】架构演进与性能优化之路-｜-QCon+](https://www.ershicimi.com/p/bf599586ba6a37b0114f952b56dbb4c2)
+- [【掘金前端】项目请求时序控制优化实战篇之中断请求](https://juejin.im/post/6885527661225967624)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu)
-- [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
 - [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -457,7 +458,6 @@
 - [【全栈前端精选】全栈前端技术交流吐槽⑤群](https://www.ershicimi.com/p/82fb1cc16d4b8abd68ec1e5c14734489)
 - [【全栈前端精选】全栈前端技术交流吐槽⑤群](https://www.ershicimi.com/p/cacfb5cea4f82b73f1ece03f8aa3b69e)
 - [【前端瓶子君】GitHub：再见，master！](https://www.ershicimi.com/p/f03837ba3ed7d53fd8b785002973f87a)
-- [【掘金前端】【数据结构与算法】详解什么是优先级队列，并用代码手动实现一个优先级队列](https://juejin.im/post/6885514344927330317)
 - [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】算法萌新如何学好动态规划（一）](https://toutiao.io/k/y1rsa4z)

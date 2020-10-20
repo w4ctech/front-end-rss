@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 03:14:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 03:29:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -91,7 +91,7 @@
 - [2020-10-17-那个「最牛删库跑路事件」的程序员，被判了....](https://www.ershicimi.com/p/b77c15fb99463067ca79fe4444c72b46) 
 - [2020-10-17-Spring-Boot-无侵入式-实现API接口统一JSON格式返回](https://www.ershicimi.com/p/c13b7a5c22f5b4146cc652ebd59d1863) 
 - [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
-- [2020-10-19-async-validator源码解析（五）：校验方法validate](https://juejin.im/post/6885500279438082062) 
+- [2020-10-19-JavaScript-中数据类型的判断与转换](https://juejin.im/post/6885535412656275464) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

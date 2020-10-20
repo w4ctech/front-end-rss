@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 10:48:59，:rocket: 更新条数: +3744， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 11:03:57，:rocket: 更新条数: +3745， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,10 @@
 </summary>
 
 
+- [2020-10-20-字节跳动-----------内推----------安全与风控](https://www.v2ex.com/t/716822) ![](assets/new.png)  
+- [2020-10-20-谈一谈工作中社保的坑](https://www.v2ex.com/t/716821) ![](assets/new.png)  
+- [2020-10-20-有没有用-FastSpring-的？新改的付款方式出问题了](https://www.v2ex.com/t/716820) ![](assets/new.png)  
+- [2020-10-20-天气冷了买裤子问题](https://www.v2ex.com/t/716819) ![](assets/new.png)  
 - [2020-10-20-都-0202-年了，还是被安卓和-ipados-下文件互传恶心到了](https://www.v2ex.com/t/716818) ![](assets/new.png)  
 - [2020-10-20-现公司好像要转给另一个公司了，-V2-的老铁有谁经历过！](https://www.v2ex.com/t/716816) ![](assets/new.png)  
 - [2020-10-20-Evernote-的客户端突然升级了](https://www.v2ex.com/t/716815) ![](assets/new.png)  
@@ -1103,10 +1107,6 @@
 - [2020-10-20-MacBook-Pro-16-外接-Caldigit-扩展坞双显示器排列问题咨询](https://www.v2ex.com/t/716798) ![](assets/new.png)  
 - [2020-10-20-刚下载完-500-彩票也没登陆，立马就删了，几分钟后就收到云闪付发来的通知](https://www.v2ex.com/t/716797) ![](assets/new.png)  
 - [2020-10-20-3090-用于深度学习怎么样，要不要等-A6000](https://www.v2ex.com/t/716795) ![](assets/new.png)  
-- [2020-10-20-仅限-5-个名额，速领火火火火](https://www.v2ex.com/t/716792) ![](assets/new.png)  
-- [2020-10-20-Captura-区域录制-，但是-ffmpeg-Downloader-下载不了。-哪位同学有-类似-电脑区域录制的软件-介绍下呢？-需要能高清录制的。谢谢](https://www.v2ex.com/t/716791) ![](assets/new.png)  
-- [2020-10-20-都-2020-年了，为什么-FaceTime-视频通话一接通就自动断开-wifi，自动强制使用运营商的数据流量通话，这是为什么？](https://www.v2ex.com/t/716789) ![](assets/new.png)  
-- [2020-10-20-看到有问智能锁的。。。我也想问问指纹锁的问题。。。。](https://www.v2ex.com/t/716788) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1180,26 +1180,26 @@
 </summary>
 
 
-- [2020-10-19-如何建立独属于自己的论文数据库?](https://sec.thief.one/article_content?a_id=82b67d6fd3be83213cad1d10b621e260) ![](assets/new.png)  
-- [2020-10-19-每日攻防资讯简报Oct.19th](https://sec.thief.one/article_content?a_id=2080ae7b49b5511a94cc33b95b664b0a) ![](assets/new.png)  
-- [2020-10-19-SecWiki周刊第346期](https://sec.thief.one/article_content?a_id=b0993b56157f35bab02d888aac39fa24) ![](assets/new.png)  
-- [2020-10-19-三季度全国网信行政执法工作持续推进](https://sec.thief.one/article_content?a_id=b4441fb16c8e54fe4adb6aed1545cb15) ![](assets/new.png)  
-- [2020-10-19-1024,要浪,不要加班!](https://sec.thief.one/article_content?a_id=9e7252dfa78d742a8d7e37cf81f8c4a3) ![](assets/new.png)  
-- [2020-10-19-安全小飞侠-王任飞:云上攻防的实践与思考-|-2020-情报大会“剧透”](https://sec.thief.one/article_content?a_id=db04fb5b5d65a19b2afab422a435fb5e) ![](assets/new.png)  
-- [2020-10-19-雷神众测漏洞周报-2020.10.12-2020.10.18-5](https://sec.thief.one/article_content?a_id=bd39bc596e3df1d4f2979d45dd0c7afa) ![](assets/new.png)  
-- [2020-10-19-实战某信外挂插件之字符串还原](https://sec.thief.one/article_content?a_id=5b4a4d91700645506fd7ab37c9197fdd) ![](assets/new.png)  
-- [2020-10-19-binaryedge脆弱目标提取工具](https://sec.thief.one/article_content?a_id=66cb35e5a969a142bbaaaafb096d6edc) ![](assets/new.png)  
-- [2020-10-19-架构师技术文档:Redis+Nginx+Dubbo精选+面试题+架构师精选视频](https://sec.thief.one/article_content?a_id=9609d7cc1f7fe458ddb8e71de2c05ef1) ![](assets/new.png)  
-- [2020-10-19-Urlbuster:一款支持爆破的可变异Web目录模糊测试工具](https://sec.thief.one/article_content?a_id=1c8a0742f813cc602638bbd35d0162b6) ![](assets/new.png)  
-- [2020-10-19-中国样本|绿盟云安全解决方案荣获ICT中国创新奖](https://sec.thief.one/article_content?a_id=b6f393c1e61b8b2c6d1a29d664a091b4) ![](assets/new.png)  
-- [2020-10-19-利用Oracle-VirtualBox实现虚拟机逃逸](https://sec.thief.one/article_content?a_id=c5f300b1e6c580e6bc40af15365ee4bb) ![](assets/new.png)  
-- [2020-10-19-ByteSRC特别奖励上线,治愈你的节后综合症](https://sec.thief.one/article_content?a_id=235c876f1d6c1adc2cc5c2f736f884cc) ![](assets/new.png)  
-- [2020-10-19-GeekPwn极棒,OSRC又双叒带着礼物来啦!](https://sec.thief.one/article_content?a_id=5aa4c77851ee69161481bce59a7b19d7) ![](assets/new.png)  
-- [2020-10-19-【文末福利】快速入门机器学习!最受欢迎AI霸榜书最新版来了!国内...](https://sec.thief.one/article_content?a_id=ad6054ad0ac14e2956d34042448789a6) ![](assets/new.png)  
-- [2020-10-19-重磅-|-近期网络安全相关监管法规、行业标准、地方政策关注](https://sec.thief.one/article_content?a_id=3902c32f4ea7257965eb80645919d529) ![](assets/new.png)  
-- [2020-10-19-CVE-2020-1472-NetLogon-权限提升漏洞研究](https://sec.thief.one/article_content?a_id=ef8b927e75f1094ae4f546dc3f5e1ee7) ![](assets/new.png)  
-- [2020-10-19-微视频|冲锋](https://sec.thief.one/article_content?a_id=0add85a2fa59426dcaf99b99bb610bc6) ![](assets/new.png)  
-- [2020-10-19-Bakkt比特币交付量创纪录,揭露机构对BTC狂热情绪](https://sec.thief.one/article_content?a_id=9bacce7aca4a5190fe002ef6a5f317a2) ![](assets/new.png)  
+- [2020-10-20-​一杀就是几十万,注意近期“杀猪盘”异常凶猛](https://sec.thief.one/article_content?a_id=3ff73e9223333a249da51cc2df9928aa) ![](assets/new.png)  
+- [2020-10-20-奇安信将亮相2020中国石油石化企业信息技术交流大会](https://sec.thief.one/article_content?a_id=92e7b0f53176ff1e1f3b3ed8098f5675) ![](assets/new.png)  
+- [2020-10-20-公开课丨这个封神的天才黑客终于说出了真相!](https://sec.thief.one/article_content?a_id=eb7217ec4481f82f3f1b29f0fa723663) ![](assets/new.png)  
+- [2020-10-20-软件无线电在智能硬件漏洞挖掘中的应用](https://sec.thief.one/article_content?a_id=d80c2c3cb207b81c27384f451ba1972f) ![](assets/new.png)  
+- [2020-10-20-Adobe-Magento高危漏洞-CVE-2020-24407、CVE-2020-24400](https://sec.thief.one/article_content?a_id=0c3b708347bd85ef65981286595a9eb0) ![](assets/new.png)  
+- [2020-10-20-双十一保卫战|BSRC三倍奖励活动进行中](https://sec.thief.one/article_content?a_id=8f864f0eeeb38e08cf4617f97e41cd64) ![](assets/new.png)  
+- [2020-10-20-比特币价格处于高位却呈现低波动,可能是看涨信号](https://sec.thief.one/article_content?a_id=94dfedde01c1e1978492c8b7afde4aba) ![](assets/new.png)  
+- [2020-10-20-乌克兰断电事件、平昌冬奥会网络暗战的幕后主使名单](https://sec.thief.one/article_content?a_id=cc1cb0c6c27d597c9a891a0a5d2b540a) ![](assets/new.png)  
+- [2020-10-20-做“推进等级保护2.0制度,筑牢网络安全防线”的践行者,绿盟科技...](https://sec.thief.one/article_content?a_id=693061447c89be6f4090650c82188d5c) ![](assets/new.png)  
+- [2020-10-20-2020网络安全分析与情报大会明日开幕-|-精彩预告](https://sec.thief.one/article_content?a_id=0908e80b6a66db4369c0a5c6b5296f6f) ![](assets/new.png)  
+- [2020-10-20-【公告】JSRC第三季度英雄榜公告](https://sec.thief.one/article_content?a_id=5ae0ebdca6053fc9f22dbba87f022314) ![](assets/new.png)  
+- [2020-10-20-同事喜提阿里Python开发岗,年薪60W!临走留下阿里面经](https://sec.thief.one/article_content?a_id=27abe1f3e9af8316c2be83198374d75a) ![](assets/new.png)  
+- [2020-10-20-聊聊近期公开的几个GitLab高额奖金漏洞](https://sec.thief.one/article_content?a_id=ed5a29ab60473e82f3d60aa93c1f38c0) ![](assets/new.png)  
+- [2020-10-20-信息安全漏洞周报2020年第40期](https://sec.thief.one/article_content?a_id=88c6663510dee8b5cb092c3fff50c261) ![](assets/new.png)  
+- [2020-10-20-CVE-2020-16898-|-Windows-TCP/IP-远程执行代码漏洞](https://sec.thief.one/article_content?a_id=8b00bfff484b3d1ead274dfb3a03a32f) ![](assets/new.png)  
+- [2020-10-20-决战决胜脱贫攻坚|西藏网信办着力加强正面宣传-助力打赢脱贫攻坚战](https://sec.thief.one/article_content?a_id=b1e433905d5c37f3922f0e08357ed697) ![](assets/new.png)  
+- [2020-10-20-定位风险、溯源分析:国舜终端威胁扫描分析系统这样夯实网安防护](https://sec.thief.one/article_content?a_id=1571a310b7be41d195b32f2946a41ab2) ![](assets/new.png)  
+- [2020-10-20-hTPM:可信平台模块的混合实现](https://sec.thief.one/article_content?a_id=b1ff961284770955170fac01d48ca972) ![](assets/new.png)  
+- [2020-10-20-日本支付公司JCB与瑞穗银行测试区块链ID系统](https://sec.thief.one/article_content?a_id=8574629a92f8254ff61697e97b53cadf) ![](assets/new.png)  
+- [2020-10-20-K神手札-比特币新高近在咫尺-不过仍有隐忧](https://sec.thief.one/article_content?a_id=ed6cddad2ee2fb84fe8f51ab06d897ff) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 10:48:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 11:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,7 +91,8 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-10-20-都-2020-年了，为什么-FaceTime-视频通话一接通就自动断开-wifi，自动强制使用运营商的数据流量通话，这是为什么？](https://www.v2ex.com/t/716789) 
+- [2020-10-20-Windows图像解析Fuzzing一:颜色配置文件](https://sec.thief.one/article_content?a_id=ad03dd8d6d07909205c4b4a46c906e64) 
+- [2020-10-20-【视频】|-一个黑客的自白](https://sec.thief.one/article_content?a_id=5848c6511ce22aeff198d0057fbe6027) 
 - [2020-10-19-架构师技术文档:Redis+Nginx+Dubbo精选+面试题+架构师精选视频](https://sec.thief.one/article_content?a_id=9609d7cc1f7fe458ddb8e71de2c05ef1) 
 - [2020-10-19-微视频|冲锋](https://sec.thief.one/article_content?a_id=0add85a2fa59426dcaf99b99bb610bc6) 
 - [2020-10-18-【视频】|-个人信息保护法:捍卫信息安全](https://sec.thief.one/article_content?a_id=45426dfc7b240b97e788b6617232337b) 
-- [2020-10-16-今晚直播预告丨渗透测试神器福利专场](https://sec.thief.one/article_content?a_id=b0fc6d315b562e45a363c8e0671420dd) 

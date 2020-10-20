@@ -13647,28 +13647,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "国家统计局：9月份商品住宅销售价格涨幅略有回落",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDqWSmrSRa8e3VrZnV50201020&isfromapp=1",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "摩洛哥决定延长在卡萨布兰卡实施的封闭措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7la5GoIxR9PuwtZDpV7r201020&isfromapp=1",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "国家统计局新闻发言人：常态化防控下四季度消费走势会强过前三季度",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisafECrmRF54zvBI96yqi201019&isfromapp=1",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "国家卫健委：19日新增新冠肺炎确诊病例19例 均为境外输入病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijaWx31XSwbUVEYnUxa5B201020&isfromapp=1",
+        "date": "2020-10-20"
+      },
+      {
         "title": "联合国儿基会到年底将预备超5亿个注射器 为新冠疫苗接种做准备",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5zjsrinItXGDKpBSQlZ3201020&isfromapp=1",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "感染人数激增 波兰将建多座方舱医院",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtishcihNLCxPH5r8ZQLcpH201020&isfromapp=1",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "巴西联邦审计法院院长确诊新冠肺炎",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSfERLrOnGGzCoFD6004M201020&isfromapp=1",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "美国纽约新冠病毒测试阳性率超过2％",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibc6JR6v9E7sGJDjvPsUF201020&isfromapp=1",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "法国第一夫人因密切接触新冠病毒感染者采取自我隔离",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHZEVSqudCT3gbwuQZAqW201020&isfromapp=1",
         "date": "2020-10-19"
       }
     ]
@@ -17612,29 +17612,29 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "良好的CSS编码习惯",
-        "link": "https://juejin.im/post/6885516530331713549",
+        "title": "入门指南：Node/JavaScript中的模板引擎",
+        "link": "https://juejin.im/post/6885494628485693454",
         "date": "2020-10-19"
       },
       {
-        "title": "我们是如何搭建互动应用",
-        "link": "https://juejin.im/post/6885505824316194823",
+        "title": "WebCodecs对音视频进行编码解码",
+        "link": "https://juejin.im/post/6885482349098860558",
         "date": "2020-10-19"
       },
       {
-        "title": "详解：Flutter内存泄漏解决方案",
-        "link": "https://juejin.im/post/6885505119446630413",
+        "title": "ES11屡试不爽的新特性，你用上了几个？",
+        "link": "https://juejin.im/post/6885482174103945224",
         "date": "2020-10-19"
       },
       {
-        "title": "前端知识库Reactjs进阶系列（组件的加载过程）",
-        "link": "https://juejin.im/post/6885363665759895560",
+        "title": "构造函数、对象实例和原型对象“三角恋关系”？",
+        "link": "https://juejin.im/post/6885390648254398472",
         "date": "2020-10-19"
       },
       {
-        "title": "React 有Provider-Consumer+Hook模式，Vue 3.0 也要！",
-        "link": "https://juejin.im/post/6885231844120330248",
-        "date": "2020-10-18"
+        "title": "使用Vue3重构Vue2项目",
+        "link": "https://juejin.im/post/6885376102596870158",
+        "date": "2020-10-19"
       }
     ]
   },
@@ -18021,6 +18021,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "现在 iTunes 必须搭梯子才能登录了？",
+        "link": "https://www.v2ex.com/t/716636",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "还在为算法面试捉急么？正好！我正在录制基础算法系列视频",
+        "link": "https://www.v2ex.com/t/716635",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "关于手机账号的讨论",
+        "link": "https://www.v2ex.com/t/716633",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "快递因其公司内部矛盾导致员工罢工，以至于物品过期损坏该如何赔偿？",
+        "link": "https://www.v2ex.com/t/716632",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[华为社招/正式岗位] UI/UX/资料工程师/数学博士/心理学博士 [成都、深圳、杭州、苏州、南京]",
+        "link": "https://www.v2ex.com/t/716631",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "redmi note 8 pro 国行刷国际版 变砖 求助！",
+        "link": "https://www.v2ex.com/t/716630",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "公司有个活动，需要填一个数，然后抽奖，我该填哪个数呢？",
+        "link": "https://www.v2ex.com/t/716629",
+        "date": "2020-10-20"
+      },
+      {
         "title": "现在耐克鞋质量真的很差么，看某宝官方店的评论全是几个月就开胶开裂的",
         "link": "https://www.v2ex.com/t/716626",
         "date": "2020-10-20"
@@ -18178,41 +18213,6 @@
       {
         "title": "我的新应用 [小周期 - 周期提醒] ，纯 SwiftUI 开发，新鲜上线，送码，欢迎下载体验",
         "link": "https://www.v2ex.com/t/716587",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "轻易不要买罗技 Master 鼠标",
-        "link": "https://www.v2ex.com/t/716586",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "上海求职， Golang 开发岗，麻烦各位大佬指导一下简历，求内推合适岗位。",
-        "link": "https://www.v2ex.com/t/716585",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "买烘干机求推荐",
-        "link": "https://www.v2ex.com/t/716584",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "迫于双 11，收几千块京东 E 卡， 97 折收",
-        "link": "https://www.v2ex.com/t/716581",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "Notion Personal Plan 恢复无限 Pages and blocks 了，可以放心使用了",
-        "link": "https://www.v2ex.com/t/716580",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "也整理了一套 iOS 图标，四种颜色 140 个图标，有需要的吗？",
-        "link": "https://www.v2ex.com/t/716579",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "如何能证明每天的生活是连续的，过去的记忆不是晚上睡觉杜撰出来的？",
-        "link": "https://www.v2ex.com/t/716578",
         "date": "2020-10-20"
       }
     ]
@@ -18385,18 +18385,13 @@
         "date": "2020-10-20"
       },
       {
-        "title": "Rust 学习笔记：再谈 Send 与 Sync",
-        "link": "https://toutiao.io/k/9v4o1zs",
-        "date": "2020-10-20"
-      },
-      {
         "title": "iOS 性能优化实践：头条抖音如何实现 OOM 崩溃率下降 50%+",
         "link": "https://toutiao.io/k/nx52iwu",
         "date": "2020-10-20"
       },
       {
-        "title": "Sketch 插件导出切片",
-        "link": "https://toutiao.io/k/0moescl",
+        "title": "Rust 学习笔记：再谈 Send 与 Sync",
+        "link": "https://toutiao.io/k/9v4o1zs",
         "date": "2020-10-20"
       },
       {
@@ -18405,28 +18400,18 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "Sketch 插件导出切片",
+        "link": "https://toutiao.io/k/0moescl",
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "为何不推荐使用 Sass 作为 css 预处理器",
+        "link": "https://toutiao.io/k/6t740h7",
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
+        "title": "spring-boot-route（十六）：使用 logback 生产日志文件",
+        "link": "https://toutiao.io/k/58pd9ui",
         "date": "2020-10-20"
       },
       {
@@ -18435,23 +18420,13 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-20"
-      },
-      {
         "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
         "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
         "date": "2020-10-20"
       },
       {
@@ -18460,8 +18435,23 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-20"
       },
       {
@@ -18470,8 +18460,28 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
+        "link": "https://toutiao.io/k/fvryjlb",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-20"
       },
       {

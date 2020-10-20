@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 02:49:02，:rocket: 更新条数: +3742， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 03:04:00，:rocket: 更新条数: +3744， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-20-国家统计局：9月份商品住宅销售价格涨幅略有回落](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDqWSmrSRa8e3VrZnV50201020&isfromapp=1) ![](assets/new.png)  
+- [2020-10-20-摩洛哥决定延长在卡萨布兰卡实施的封闭措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7la5GoIxR9PuwtZDpV7r201020&isfromapp=1) ![](assets/new.png)  
+- [2020-10-20-国家统计局新闻发言人：常态化防控下四季度消费走势会强过前三季度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisafECrmRF54zvBI96yqi201019&isfromapp=1) ![](assets/new.png)  
+- [2020-10-20-国家卫健委：19日新增新冠肺炎确诊病例19例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijaWx31XSwbUVEYnUxa5B201020&isfromapp=1) ![](assets/new.png)  
 - [2020-10-19-联合国儿基会到年底将预备超5亿个注射器-为新冠疫苗接种做准备](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5zjsrinItXGDKpBSQlZ3201020&isfromapp=1) ![](assets/new.png)  
-- [2020-10-19-感染人数激增-波兰将建多座方舱医院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtishcihNLCxPH5r8ZQLcpH201020&isfromapp=1) ![](assets/new.png)  
-- [2020-10-19-巴西联邦审计法院院长确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSfERLrOnGGzCoFD6004M201020&isfromapp=1) ![](assets/new.png)  
-- [2020-10-19-美国纽约新冠病毒测试阳性率超过2％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibc6JR6v9E7sGJDjvPsUF201020&isfromapp=1) ![](assets/new.png)  
-- [2020-10-19-法国第一夫人因密切接触新冠病毒感染者采取自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHZEVSqudCT3gbwuQZAqW201020&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -967,11 +967,11 @@
 </summary>
 
 
-- [2020-10-19-良好的CSS编码习惯](https://juejin.im/post/6885516530331713549) ![](assets/new.png)  
-- [2020-10-19-我们是如何搭建互动应用](https://juejin.im/post/6885505824316194823) ![](assets/new.png)  
-- [2020-10-19-详解：Flutter内存泄漏解决方案](https://juejin.im/post/6885505119446630413) ![](assets/new.png)  
-- [2020-10-19-前端知识库Reactjs进阶系列（组件的加载过程）](https://juejin.im/post/6885363665759895560) ![](assets/new.png)  
-- [2020-10-18-React-有Provider-Consumer+Hook模式，Vue-3.0-也要！](https://juejin.im/post/6885231844120330248) ![](assets/new.png)  
+- [2020-10-19-入门指南：Node/JavaScript中的模板引擎](https://juejin.im/post/6885494628485693454) ![](assets/new.png)  
+- [2020-10-19-WebCodecs对音视频进行编码解码](https://juejin.im/post/6885482349098860558) ![](assets/new.png)  
+- [2020-10-19-ES11屡试不爽的新特性，你用上了几个？](https://juejin.im/post/6885482174103945224) ![](assets/new.png)  
+- [2020-10-19-构造函数、对象实例和原型对象“三角恋关系”？](https://juejin.im/post/6885390648254398472) ![](assets/new.png)  
+- [2020-10-19-使用Vue3重构Vue2项目](https://juejin.im/post/6885376102596870158) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,13 @@
 </summary>
 
 
+- [2020-10-20-现在-iTunes-必须搭梯子才能登录了？](https://www.v2ex.com/t/716636) ![](assets/new.png)  
+- [2020-10-20-还在为算法面试捉急么？正好！我正在录制基础算法系列视频](https://www.v2ex.com/t/716635) ![](assets/new.png)  
+- [2020-10-20-关于手机账号的讨论](https://www.v2ex.com/t/716633) ![](assets/new.png)  
+- [2020-10-20-快递因其公司内部矛盾导致员工罢工，以至于物品过期损坏该如何赔偿？](https://www.v2ex.com/t/716632) ![](assets/new.png)  
+- [2020-10-20-华为社招/正式岗位-UI/UX/资料工程师/数学博士/心理学博士-成都、深圳、杭州、苏州、南京](https://www.v2ex.com/t/716631) ![](assets/new.png)  
+- [2020-10-20-redmi-note-8-pro-国行刷国际版-变砖-求助！](https://www.v2ex.com/t/716630) ![](assets/new.png)  
+- [2020-10-20-公司有个活动，需要填一个数，然后抽奖，我该填哪个数呢？](https://www.v2ex.com/t/716629) ![](assets/new.png)  
 - [2020-10-20-现在耐克鞋质量真的很差么，看某宝官方店的评论全是几个月就开胶开裂的](https://www.v2ex.com/t/716626) ![](assets/new.png)  
 - [2020-10-20-面向专业技术人员的真正-VPN-科学上网工具](https://www.v2ex.com/t/716625) ![](assets/new.png)  
 - [2020-10-20-问下-iPad-mini-3-好换外屏吗？](https://www.v2ex.com/t/716624) ![](assets/new.png)  
@@ -1100,13 +1107,6 @@
 - [2020-10-20-Serverless-Rap](https://www.v2ex.com/t/716612) ![](assets/new.png)  
 - [2020-10-20-Linux-用无线网卡开热点,-如何能让连接到热点的终端与主机在同一网络?](https://www.v2ex.com/t/716610) ![](assets/new.png)  
 - [2020-10-20-🔥新加坡-技术移民机会纽交所上市互联网公司，寻找后台技术-leader/高级专家，大数据基础架构-leader/高级专家，移动端安全技术专家，云平台数据库-RDS-开...](https://www.v2ex.com/t/716609) ![](assets/new.png)  
-- [2020-10-20-mysql-如何根据中文拼音首字母进行中文查询？](https://www.v2ex.com/t/716607) ![](assets/new.png)  
-- [2020-10-20-10-月底要回老家，转租合川路附近一室户房子](https://www.v2ex.com/t/716606) ![](assets/new.png)  
-- [2020-10-20-有老哥知道长沙这把的映客直播的大致情况吗？-加班多吗？](https://www.v2ex.com/t/716605) ![](assets/new.png)  
-- [2020-10-20-圆通最近怎么了](https://www.v2ex.com/t/716604) ![](assets/new.png)  
-- [2020-10-20-iPhone-的文件-app-到底存了啥](https://www.v2ex.com/t/716603) ![](assets/new.png)  
-- [2020-10-20-Swish-无法使用了](https://www.v2ex.com/t/716602) ![](assets/new.png)  
-- [2020-10-20-双-11-即将来临，求推荐一款降噪耳机用来撸代码，实在受不了办公室里噪杂的声音。](https://www.v2ex.com/t/716601) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1160,15 +1160,15 @@
 - [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
 - [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
 - [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
-- [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
 - [2020-10-20-iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu) ![](assets/new.png)  
-- [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
+- [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
-- [2020-10-20-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-20-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
+- [2020-10-20-为何不推荐使用-Sass-作为-css-预处理器](https://toutiao.io/k/6t740h7) ![](assets/new.png)  
+- [2020-10-20-spring-boot-route（十六）：使用-logback-生产日志文件](https://toutiao.io/k/58pd9ui) ![](assets/new.png)  
+- [2020-10-20-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-20-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
 - [2020-10-20-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
-- [2020-10-20-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-20-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

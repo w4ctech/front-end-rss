@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 02:49:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 03:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,7 +89,9 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-10-19-WebCodecs对音视频进行编码解码](https://juejin.im/post/6885482349098860558) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-10-20-还在为算法面试捉急么？正好！我正在录制基础算法系列视频](https://www.v2ex.com/t/716635) 
 - [2020-10-20-有老哥知道长沙这把的映客直播的大致情况吗？-加班多吗？](https://www.v2ex.com/t/716605) 
 - [2020-10-19-架构师技术文档:Redis+Nginx+Dubbo精选+面试题+架构师精选视频](https://sec.thief.one/article_content?a_id=9609d7cc1f7fe458ddb8e71de2c05ef1) 
 - [2020-10-19-微视频|冲锋](https://sec.thief.one/article_content?a_id=0add85a2fa59426dcaf99b99bb610bc6) 

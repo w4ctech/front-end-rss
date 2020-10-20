@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 03:49:40，:rocket: 更新条数: +3513， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 04:04:31，:rocket: 更新条数: +3515， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,16 @@
 </summary>
 
 
+- [2020-10-20-有什么轻便的移动电源么？](https://www.v2ex.com/t/716663) ![](assets/new.png)  
+- [2020-10-20-家距离公司-10KM，上下班来回-20KM，电动自行车选哪款合适?](https://www.v2ex.com/t/716662) ![](assets/new.png)  
+- [2020-10-20-iPhone-11-现在香吗，](https://www.v2ex.com/t/716661) ![](assets/new.png)  
+- [2020-10-20-对于-arm-Mac-有一事不明……老的-x86-软件](https://www.v2ex.com/t/716660) ![](assets/new.png)  
+- [2020-10-20-OOM-面试到底怎么回答？](https://www.v2ex.com/t/716659) ![](assets/new.png)  
+- [2020-10-20-sync-player：使用-websocket-实现异地同步播放视频](https://www.v2ex.com/t/716658) ![](assets/new.png)  
+- [2020-10-20-深圳/北京-Wisers-慧科-外资，大数据+AI，可经常远程办公，薪资有竞争力，招聘-React-前端开发-/-大数据开发-/-spark-算法开发-/-爬虫&逆向](https://www.v2ex.com/t/716657) ![](assets/new.png)  
+- [2020-10-20-一个投影仪增亮器想法](https://www.v2ex.com/t/716656) ![](assets/new.png)  
+- [2020-10-20-又被-403-封-IP，-V2-这粗暴的屏蔽策略什么时候能改改？](https://www.v2ex.com/t/716655) ![](assets/new.png)  
+- [2020-10-20-关于-mesh-和-acap-方案主路由区别不懂就问](https://www.v2ex.com/t/716654) ![](assets/new.png)  
 - [2020-10-20-请教-apple-id-里的钱能转给其他人吗](https://www.v2ex.com/t/716653) ![](assets/new.png)  
 - [2020-10-20-NGINX-配置跨域支持的正确方式](https://www.v2ex.com/t/716652) ![](assets/new.png)  
 - [2020-10-20-iPhone-12-23-日到货的订单已经变成准备发货状态，订单取消按钮已经消失](https://www.v2ex.com/t/716651) ![](assets/new.png)  
@@ -1077,16 +1087,6 @@
 - [2020-10-20-chrome-浏览器如何优雅的选择链接上的文字？](https://www.v2ex.com/t/716646) ![](assets/new.png)  
 - [2020-10-20-让我不负责的猜想一次，关于未来-iPhone-多久大改，是否适合买-iphone12](https://www.v2ex.com/t/716645) ![](assets/new.png)  
 - [2020-10-20-上海-ARKIE-工业设计-软件工程师---Web-全栈---偏前端-TypeScript](https://www.v2ex.com/t/716643) ![](assets/new.png)  
-- [2020-10-20-推广-基于-spring-boot-的-redis-管理工具](https://www.v2ex.com/t/716640) ![](assets/new.png)  
-- [2020-10-20-安全岗位内推---字节跳动](https://www.v2ex.com/t/716639) ![](assets/new.png)  
-- [2020-10-20-卖个惨，找-V-友们诉诉苦](https://www.v2ex.com/t/716637) ![](assets/new.png)  
-- [2020-10-20-还在为算法面试捉急么？正好！我正在录制基础算法系列视频](https://www.v2ex.com/t/716635) ![](assets/new.png)  
-- [2020-10-20-关于手机账号的讨论](https://www.v2ex.com/t/716633) ![](assets/new.png)  
-- [2020-10-20-快递因其公司内部矛盾导致员工罢工，以至于物品过期损坏该如何赔偿？](https://www.v2ex.com/t/716632) ![](assets/new.png)  
-- [2020-10-20-华为社招/正式岗位-UI/UX/资料工程师/数学博士/心理学博士-成都、深圳、杭州、苏州、南京](https://www.v2ex.com/t/716631) ![](assets/new.png)  
-- [2020-10-20-redmi-note-8-pro-国行刷国际版-变砖-求助！](https://www.v2ex.com/t/716630) ![](assets/new.png)  
-- [2020-10-20-公司有个活动，需要填一个数，然后抽奖，我该填哪个数呢？](https://www.v2ex.com/t/716629) ![](assets/new.png)  
-- [2020-10-20-现在耐克鞋质量真的很差么，看某宝官方店的评论全是几个月就开胶开裂的](https://www.v2ex.com/t/716626) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,16 +1139,16 @@
 - [2020-10-20-sealos-+-rook-部署-kubeSphere-+-TiDB](https://toutiao.io/k/gd9ggg3) ![](assets/new.png)  
 - [2020-10-20-Go-使用标准库-net/rpc-包](https://toutiao.io/k/scmprwh) ![](assets/new.png)  
 - [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) ![](assets/new.png)  
-- [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-为何不推荐使用-Sass-作为-css-预处理器](https://toutiao.io/k/6t740h7) ![](assets/new.png)  
+- [2020-10-20-FM-理论与实践](https://toutiao.io/k/033zxzd) ![](assets/new.png)  
 - [2020-10-20-iOS-性能优化实践：头条抖音如何实现-OOM-崩溃率下降-50%+](https://toutiao.io/k/nx52iwu) ![](assets/new.png)  
 - [2020-10-20-Rust-学习笔记：再谈-Send-与-Sync](https://toutiao.io/k/9v4o1zs) ![](assets/new.png)  
 - [2020-10-20-MQ，究竟如何保证消息幂等？](https://toutiao.io/k/f5tvmts) ![](assets/new.png)  
 - [2020-10-20-Sketch-插件导出切片](https://toutiao.io/k/0moescl) ![](assets/new.png)  
 - [2020-10-20-spring-boot-route（十六）：使用-logback-生产日志文件](https://toutiao.io/k/58pd9ui) ![](assets/new.png)  
 - [2020-10-20-算法萌新如何学好动态规划（一）](https://toutiao.io/k/y1rsa4z) ![](assets/new.png)  
-- [2020-10-20-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-20-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-20-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-20-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -14179,6 +14179,16 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "一套代码、多端运行，大前端时代，如何用Flutter制霸全平台？",
+        "link": "https://www.ershicimi.com/p/c357dbc391ed67d45ea04c46b28e04d7",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "Vue 中 Axios 的封装和 API 接口的管理",
+        "link": "https://www.ershicimi.com/p/40440035451f28d499a0a4e120fc77f9",
+        "date": "2020-10-19"
+      },
+      {
         "title": "2 年前端 7～9 月面试经历总结",
         "link": "https://www.ershicimi.com/p/7d3519991b02fa7e8a86b2c4ea6d53ff",
         "date": "2020-10-18"
@@ -14267,16 +14277,6 @@
         "title": "搞不懂为啥都要去字节跳动...",
         "link": "https://www.ershicimi.com/p/28a4720c9b18914466fea8f56f865dbc",
         "date": "2020-10-07"
-      },
-      {
-        "title": "Firefox 18周岁",
-        "link": "https://www.ershicimi.com/p/519bf664dd83858b7d5f35339011ffc9",
-        "date": "2020-10-07"
-      },
-      {
-        "title": "由浅入深，66条JavaScript面试知识点",
-        "link": "https://www.ershicimi.com/p/a4bd310df5a3f3ef95bf8ea89713eb85",
-        "date": "2020-10-06"
       }
     ]
   },
@@ -18016,6 +18016,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "各位大佬有什么好方法可以让光猫重新拨号获取新 ip 吗？",
+        "link": "https://www.v2ex.com/t/716553",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "我是不是进了传说中的备胎池了，这样还需要继续等吗",
+        "link": "https://www.v2ex.com/t/716552",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "不懂就问！如何让 wordpress 的 REST api 里的媒体文件使用 cdn 加速。",
+        "link": "https://www.v2ex.com/t/716550",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "有体验不错的智能门锁推荐吗？",
+        "link": "https://www.v2ex.com/t/716549",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "Java on Visual Studio Code 的更新 – 2020 年 9 月",
+        "link": "https://www.v2ex.com/t/716548",
+        "date": "2020-10-20"
+      },
+      {
         "title": "大佬们好，问下 Python 获取电脑硬件信息，类似鲁大师那种。",
         "link": "https://www.v2ex.com/t/716547",
         "date": "2020-10-20"
@@ -18179,36 +18204,6 @@
         "title": "在 golang 中使用反向代理， 怎么处理代理失效的问题",
         "link": "https://www.v2ex.com/t/716504",
         "date": "2020-10-19"
-      },
-      {
-        "title": "zerotier 凉了？",
-        "link": "https://www.v2ex.com/t/716503",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "macOS 下的开源状态栏监控 app 无需打开活动监视器即可查看高占用率进程",
-        "link": "https://www.v2ex.com/t/716502",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "老码农准备换方向，那个可以做的更久一点？",
-        "link": "https://www.v2ex.com/t/716501",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "有在瓜子二手车工作的朋友的吗？ 怎么联系瓜子二手车廉政部",
-        "link": "https://www.v2ex.com/t/716500",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "[字节跳动]互娱核心中台组诚招后端 RD",
-        "link": "https://www.v2ex.com/t/716499",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "广东电信 1000M 宽带 699 元/月，算不算全国最高的？",
-        "link": "https://www.v2ex.com/t/716498",
-        "date": "2020-10-19"
       }
     ]
   },
@@ -18325,6 +18320,11 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-20"
+      },
+      {
         "title": "[译] 50+ 有用的 DevOps 工具（一）",
         "link": "https://toutiao.io/k/lo4v773",
         "date": "2020-10-20"
@@ -18345,28 +18345,38 @@
         "date": "2020-10-20"
       },
       {
+        "title": "Go 使用标准库 net/rpc 包",
+        "link": "https://toutiao.io/k/scmprwh",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "sealos + rook 部署 kubeSphere + TiDB",
+        "link": "https://toutiao.io/k/gd9ggg3",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "源码分析：CopyOnWriteArrayList 中的隐藏的知识，你 Get 了吗？",
+        "link": "https://toutiao.io/k/xq6mkg4",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "搞定客户端证书错误，看这篇就够了",
+        "link": "https://toutiao.io/k/7wb56dd",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "FM 理论与实践",
+        "link": "https://toutiao.io/k/033zxzd",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-20"
+      },
+      {
         "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
         "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-20"
       },
       {
@@ -18375,38 +18385,13 @@
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-20"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 45 张图庖丁解牛 18 种 Queue，你知道几种？",
-        "link": "https://toutiao.io/k/fvryjlb",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-20"
       },
       {
@@ -18415,8 +18400,48 @@
         "date": "2020-10-20"
       },
       {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-20"
+      },
+      {
         "title": "[推荐] B站面试之旅",
         "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-20"
       }
     ]

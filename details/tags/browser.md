@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 00:08:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 00:39:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,7 +24,6 @@
 - [2020-10-15-不要再问我跨域的问题了-|-原理剖析](https://www.ershicimi.com/p/a6e36e5bc362a24c8ee1ac36662cde63) 
 - [2020-10-13-【第2086期】有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/84b0a8f4a91a46762475960ef6635d3e) 
 - [2020-10-12-浏览器是如何调度进程和线程的？](https://www.ershicimi.com/p/bd20128029c1894104d710b9f12269f2) 
-- [2020-10-07-Firefox-18周岁](https://www.ershicimi.com/p/519bf664dd83858b7d5f35339011ffc9) 
 - [2020-10-10-你不知道的-WebSocket](https://www.ershicimi.com/p/e0f12cf3fdca4a6902a6be2dd576d972) 
 - [2020-10-14-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/b8ec5bada8e183c1aba78aa6176b6279) 
 - [2020-10-18-前端周报：创业公司名中带droid遭谷歌起诉；谷歌或被迫出售Chrome和部分广告业务；微软将在Wi](https://www.ershicimi.com/p/13067a9e6e82413658aa509cb05bc2d1) 
@@ -49,9 +48,9 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-19-Chrome-插件-Nano-Adblocker-被爆安全隐患,-该如何保护自己的浏览器?](https://www.v2ex.com/t/716543) 
 - [2020-10-19-你们都是怎么管理浏览器上日渐增多的标签页？](https://www.v2ex.com/t/716515) 
-- [2020-10-19-zerotier-凉了？](https://www.v2ex.com/t/716503) 
 - [2020-10-20-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-20-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-10-20-源码分析：CopyOnWriteArrayList-中的隐藏的知识，你-Get-了吗？](https://toutiao.io/k/xq6mkg4) 
 - [2020-10-19-安全小飞侠-王任飞:云上攻防的实践与思考-|-2020-情报大会“剧透”](https://sec.thief.one/article_content?a_id=db04fb5b5d65a19b2afab422a435fb5e) 
 - [2020-10-19-binaryedge脆弱目标提取工具](https://sec.thief.one/article_content?a_id=66cb35e5a969a142bbaaaafb096d6edc) 
 - [2020-10-19-Urlbuster:一款支持爆破的可变异Web目录模糊测试工具](https://sec.thief.one/article_content?a_id=1c8a0742f813cc602638bbd35d0162b6) 

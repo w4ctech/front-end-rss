@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-20 00:08:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 00:39:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -22,6 +22,7 @@
 - [2020-10-11-研究Vue源码时发现的一些好玩函数](https://www.ershicimi.com/p/499feedbf1f251371f47346a1c2cc635) 
 - [2020-09-30-Vue项目从2.5M优化到200kb的全过程](https://www.ershicimi.com/p/f3001c219a42e611b06014a5470c86ba) 
 - [2020-10-12-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/9a4c806433a5334f1830151d83df59db) 
+- [2020-10-19-Vue-中-Axios-的封装和-API-接口的管理](https://www.ershicimi.com/p/40440035451f28d499a0a4e120fc77f9) 
 - [2020-10-14-VUE+ElementUI-后台管理项目经验与技巧分享，金九银十跳槽必看！](https://www.ershicimi.com/p/a2a0ac9b5e8ee358a574a8e42879189d) 
 - [2020-10-13-让-Vue3-Composition-API-存在于你-Vue-以外的项目中](https://www.ershicimi.com/p/97b383dd077f6f17b0e038fec301ab8c) 
 - [2020-10-16-大家都在关注-Vue-3，其实尤大还搞了个这玩意](https://www.ershicimi.com/p/2a8753084634bda0952fffc0f8fd47cf) 

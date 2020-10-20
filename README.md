@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 09:14:39，:rocket: 更新条数: +3520， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 09:29:42，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-20-3090-用于深度学习怎么样，要不要等-A6000](https://www.v2ex.com/t/716795) ![](assets/new.png)  
 - [2020-10-20-仅限-5-个名额，速领火火火火](https://www.v2ex.com/t/716792) ![](assets/new.png)  
 - [2020-10-20-Captura-区域录制-，但是-ffmpeg-Downloader-下载不了。-哪位同学有-类似-电脑区域录制的软件-介绍下呢？-需要能高清录制的。谢谢](https://www.v2ex.com/t/716791) ![](assets/new.png)  
 - [2020-10-20-都-2020-年了，为什么-FaceTime-视频通话一接通就自动断开-wifi，自动强制使用运营商的数据流量通话，这是为什么？](https://www.v2ex.com/t/716789) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-20-JD-网页端，付款的时候选择微信支付，支付的二维码是-60s-自动失效的，这个是出于什么考虑的？](https://www.v2ex.com/t/716772) ![](assets/new.png)  
 - [2020-10-20-为什么这两个看似相同的命令运行，结果截然不同?PowerShell](https://www.v2ex.com/t/716771) ![](assets/new.png)  
 - [2020-10-20-老哥们帮我看看这个项目的完成度咋样](https://www.v2ex.com/t/716770) ![](assets/new.png)  
-- [2020-10-20-车机支不支持-CarPlay，实际体验有什么差别？（我是-iPhone-用户）](https://www.v2ex.com/t/716768) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

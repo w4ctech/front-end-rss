@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-20 16:18:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-20 16:37:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-20-半夜吐个槽，手机上-2k-和-1080-还是有较大差别。](https://www.v2ex.com/t/716896) 
 - [2020-10-20-MIUI-开了勿扰模式，还是有振动？](https://www.v2ex.com/t/716894) 
 - [2020-10-20-MagSafe-这么强的吸力，每次都是从手机上拽下来的话，线多久会断？](https://www.v2ex.com/t/716892) 
 - [2020-10-20-nginx-的-cache-file-has-too-long-header-问题](https://www.v2ex.com/t/716891) 
@@ -41,4 +42,3 @@
 - [2020-10-20-不懂就问：下班之后有啥消遣](https://www.v2ex.com/t/716850) 
 - [2020-10-20-Linux-上通过-jps-我发现了一个-12252-App-的-Java-进程，但我忘了它是个啥东东，我该如何定位它的入口函数的主类对应的-.-Java-或者-.class-文件的位置？](https://www.v2ex.com/t/716849) 
 - [2020-10-20-招一个兼#职的-Affman](https://www.v2ex.com/t/716848) 
-- [2020-10-20-前端找工作的老铁进来扫一眼🙃字节跳动内推——飞书前端（Base-深圳）](https://www.v2ex.com/t/716846) 

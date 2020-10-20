@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-20 16:18:57，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-20 16:37:21，:rocket: 更新条数: +3517， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -885,6 +885,11 @@
 </summary>
 
 
+- [2020-10-20-AWS分叉了我的开源项目，但他们连声感谢也没说](https://www.ershicimi.com/p/97bfff4a0ef60c6a1e75792800742948) ![](assets/new.png)  
+- [2020-10-20-旷视研究院田忠博：中国缺少重量级的开源项目，国产开源需要更加自信](https://www.ershicimi.com/p/585795cda394273ebb22ce13dfab1f92) ![](assets/new.png)  
+- [2020-10-20-云上创新，Azure当道-|-Q推荐](https://www.ershicimi.com/p/28be100dfa76a51810984ff9d554c387) ![](assets/new.png)  
+- [2020-10-20-做下一个互联网时代的“水电公司”——融云的通信云视野与蓝图-｜-Q推荐](https://www.ershicimi.com/p/867ef0eb4fac10cd49d4f585afeb4f56) ![](assets/new.png)  
+- [2020-10-20-首次部署-Kubernetes-应用，总会忽略这些事](https://www.ershicimi.com/p/55697e9ad2efa36a7e902e749bef5dd7) ![](assets/new.png)  
 - [2020-10-19-守旧的互联网企业VS创新的传统企业：微软站哪端？](https://www.ershicimi.com/p/27e76ead2c47bfa890bfe54e054403a7) ![](assets/new.png)  
 - [2020-10-19-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/f73f26d00cd8eb4f513bd4e287551a48) ![](assets/new.png)  
 - [2020-10-19-架构演进与性能优化之路-｜-QCon+](https://www.ershicimi.com/p/bf599586ba6a37b0114f952b56dbb4c2) ![](assets/new.png)  
@@ -900,11 +905,6 @@
 - [2020-10-17-一次近乎完美的PostgreSQL版本大升级实践](https://www.ershicimi.com/p/bdbd6ab5d3046f4bc8eedbbc123225f1) ![](assets/new.png)  
 - [2020-10-17-如何将你的Python项目全面自动化？](https://www.ershicimi.com/p/89dfa29aad96730afeaab2edfa86ee05) ![](assets/new.png)  
 - [2020-10-16-当程序员变身为黑客，现役程序员表示：我太难了！](https://www.ershicimi.com/p/9f523a3754f1ce2bcc0e77ef68da3165) ![](assets/new.png)  
-- [2020-10-16-成为最差前端开发的10个建议](https://www.ershicimi.com/p/7f283d3e5b471faababf0f5a3b9d161a) ![](assets/new.png)  
-- [2020-10-16-微软给技术人打造的“秋季限定”，这像极了爱情……｜-Q推荐](https://www.ershicimi.com/p/6e130ea05d3414fadb44b420d4c83663) ![](assets/new.png)  
-- [2020-10-16-深度赋能，共享共赢！“有你有我开源节”开源技术研讨会暨深圳·国际开源谷揭牌仪式热烈召开](https://www.ershicimi.com/p/db5afe075c9fb98346520e6f5ce4b71a) ![](assets/new.png)  
-- [2020-10-16-Android-Studio-4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF](https://www.ershicimi.com/p/adf2d9d9df53a842ac7baf3ecbfac2a0) ![](assets/new.png)  
-- [2020-10-15-无服务器已死？这项技术为什么变得人人嫌弃](https://www.ershicimi.com/p/0695d341e87d1dd6ed786617ec7000d7) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-20-半夜吐个槽，手机上-2k-和-1080-还是有较大差别。](https://www.v2ex.com/t/716896) ![](assets/new.png)  
 - [2020-10-20-MIUI-开了勿扰模式，还是有振动？](https://www.v2ex.com/t/716894) ![](assets/new.png)  
 - [2020-10-20-MagSafe-这么强的吸力，每次都是从手机上拽下来的话，线多久会断？](https://www.v2ex.com/t/716892) ![](assets/new.png)  
 - [2020-10-20-nginx-的-cache-file-has-too-long-header-问题](https://www.v2ex.com/t/716891) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-20-求解-MacBook-Pro-启动屏幕出现灰色区域](https://www.v2ex.com/t/716875) ![](assets/new.png)  
 - [2020-10-20-iPhone12-白色开箱视频-真好看](https://www.v2ex.com/t/716874) ![](assets/new.png)  
 - [2020-10-20-卖房以周转生活，但是-3-个月了买方房贷款还是没放下来，房子已经过户，怎么办？](https://www.v2ex.com/t/716873) ![](assets/new.png)  
-- [2020-10-20-有没有一台三星的硬件+Google-原生系统的手机](https://www.v2ex.com/t/716872) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

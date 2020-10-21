@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 22:49:10，:rocket: 更新条数: +3746， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 23:03:54，:rocket: 更新条数: +3727， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1149,26 +1149,22 @@
 </summary>
 
 
-- [2020-10-21-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
-- [2020-10-21-傻白甜，约不约？](https://toutiao.io/k/s60lax4) ![](assets/new.png)  
-- [2020-10-21-疫情下的线上会议和社交](https://toutiao.io/k/ojgvqdo) ![](assets/new.png)  
-- [2020-10-21-DDDplus-中台开发框架（痛点分析）](https://toutiao.io/k/pbiudrp) ![](assets/new.png)  
-- [2020-10-21-Synchronized-的锁升级之路](https://toutiao.io/k/x6l8ntx) ![](assets/new.png)  
-- [2020-10-21-Hadoop-框架：HDFS-读写机制与-API-详解](https://toutiao.io/k/i15zc80) ![](assets/new.png)  
-- [2020-10-21-一份走心算法攻略，一份-20W-字刷题笔记](https://toutiao.io/k/l02akr0) ![](assets/new.png)  
-- [2020-10-21-喜大普奔！GitHub-App-终于支持中文了，可尝鲜下载体验](https://toutiao.io/k/r18jxvu) ![](assets/new.png)  
-- [2020-10-21-数据平台服务化建设（三）：数据地图](https://toutiao.io/k/jsaue4v) ![](assets/new.png)  
-- [2020-10-21-Linux-Capabilities-与容器的水乳交融](https://toutiao.io/k/k0ge33p) ![](assets/new.png)  
-- [2020-10-21-你听过-CatBoost-吗？本文教你如何使用-CatBoost-进行快速梯度提升](https://toutiao.io/k/fr7dfqa) ![](assets/new.png)  
-- [2020-10-21-《编程格调》：30-条代码风格帮你更好撸代码](https://toutiao.io/k/xmxoypv) ![](assets/new.png)  
-- [2020-10-21-译-Go-中的-Goroutine-和其他并发处理方案的对比](https://toutiao.io/k/rhzp4sp) ![](assets/new.png)  
-- [2020-10-21-IT-双职工赢在起跑线​，还怕未来吗？](https://toutiao.io/k/v4rpw5h) ![](assets/new.png)  
-- [2020-10-21-AST-详解与运用](https://toutiao.io/k/m2hv6fn) ![](assets/new.png)  
-- [2020-10-21-译-.NET-应用程序-7-种最常见的性能问题及其解决方案](https://toutiao.io/k/ekw95p5) ![](assets/new.png)  
-- [2020-10-21-字节码增强：原理与实战](https://toutiao.io/k/9st7kdv) ![](assets/new.png)  
-- [2020-10-21-从源代码级别看懂-MinIO-对象存储网关的实现](https://toutiao.io/k/pgc7kyj) ![](assets/new.png)  
-- [2020-10-21-Impala-在网易大数据的优化和实践](https://toutiao.io/k/0vfqlgs) ![](assets/new.png)  
-- [2020-10-21-论文笔记：CNN-+-RNN-+-CTC，打造端到端可训练的网络](https://toutiao.io/k/j5h4ys8) ![](assets/new.png)  
+- [2020-10-21-困在内卷里的工程师-|-码农周刊第-322-期](https://toutiao.io/k/mb7u8g0) ![](assets/new.png)  
+- [2020-10-21-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-21-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-21-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-21-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-21-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-21-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-21-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-21-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-21-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-21-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-21-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-21-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-21-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-21-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-21-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

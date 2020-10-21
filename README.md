@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 08:49:06，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 09:04:14，:rocket: 更新条数: +3506， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,9 +65,9 @@
 
 
 - [2020-10-20-最新疫情：全国新冠累计确诊85715例-新增境外输入11例](https://m.caixin.com/m/2020-10-21/101617131.html) ![](assets/new.png)  
+- [2020-10-20-最新海外疫情：新冠感染超4059万-累计死亡近112万](https://m.caixin.com/m/2020-10-21/101617151.html) ![](assets/new.png)  
 - [2020-10-20-【境内疫情观察】全国新增11例境外输入病例（10月20日）](http://m.database.caixin.com/m/2020-10-21/101617043.html) ![](assets/new.png)  
 - [2020-10-20-大流行手记|10月20日：俄罗斯日增确诊创新高-阿根廷病例过百万居第五](https://m.caixin.com/m/2020-10-21/101616932.html) ![](assets/new.png)  
-- [2020-10-19-最新海外疫情：新冠感染超4021万-累计死亡超111万](http://m.international.caixin.com/m/2020-10-20/101616648.html) ![](assets/new.png)  
 - [2020-10-19-【境内疫情观察】全国新增19例境外输入病例（10月19日）](http://m.database.caixin.com/m/2020-10-20/101616600.html) ![](assets/new.png)  
 - [2020-10-19-大流行手记|10月19日：全球感染突破4000万-印度3亿人获疫苗优先接种机会](https://m.caixin.com/m/2020-10-20/101616494.html) ![](assets/new.png)  
 - [2020-10-18-特写|新冠疫苗紧急使用人群继续扩大](https://m.caixin.com/m/2020-10-19/101616151.html) ![](assets/new.png)  
@@ -1057,12 +1057,15 @@
 </summary>
 
 
+- [2020-10-21-关于-VSCode-远程连接使用问题](https://www.v2ex.com/t/717175) ![](assets/new.png)  
+- [2020-10-21-支持长显卡的直插式-itx-机箱求助](https://www.v2ex.com/t/717173) ![](assets/new.png)  
+- [2020-10-21-成都南门附近有没有比较性价比高的按摩店](https://www.v2ex.com/t/717172) ![](assets/new.png)  
+- [2020-10-21-有人给我发了个钓鱼的网站，有没有大佬要出手？](https://www.v2ex.com/t/717169) ![](assets/new.png)  
 - [2020-10-21-各位大佬看看这需求，有没有更好的方案](https://www.v2ex.com/t/717168) ![](assets/new.png)  
 - [2020-10-21-iOS-14.1-锁屏爆音](https://www.v2ex.com/t/717167) ![](assets/new.png)  
 - [2020-10-21-招聘-深圳-非-996，硅谷-13-亿美元独角兽-Flexport，寻找有工匠精神的同道中人-全栈开发岗-and-高级-SRE/DevOps-岗](https://www.v2ex.com/t/717166) ![](assets/new.png)  
 - [2020-10-21-关于微服务认证中心的疑问、在一个认证中心如何分别认证前台用户和后台用户？](https://www.v2ex.com/t/717165) ![](assets/new.png)  
 - [2020-10-21-想换安卓手机用用，小米还是一加呢？](https://www.v2ex.com/t/717163) ![](assets/new.png)  
-- [2020-10-21-有谁知道“羊毛出在狗身上猪来买单”，具体是什么意思吗？](https://www.v2ex.com/t/717161) ![](assets/new.png)  
 - [2020-10-21-有关多站点代码同步问题](https://www.v2ex.com/t/717160) ![](assets/new.png)  
 - [2020-10-21-大家平时都是怎么给自己充电的](https://www.v2ex.com/t/717159) ![](assets/new.png)  
 - [2020-10-21-蚂蚁-CTO-线-10+研发职位招聘上海/杭州,内推成功送手机,-iPhone12/Mate-40-任你挑！](https://www.v2ex.com/t/717157) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-10-21-更新了-watchOS7-之后-watch5-电池续航&健康度迅速下降](https://www.v2ex.com/t/717148) ![](assets/new.png)  
 - [2020-10-21-墓碑挂在-std::future-的析构函数，提示空指针异常，这个-bug-好久了求大佬帮忙看看](https://www.v2ex.com/t/717146) ![](assets/new.png)  
 - [2020-10-21-又快到双十一了，有什么值得买的技术类书籍吗？](https://www.v2ex.com/t/717145) ![](assets/new.png)  
-- [2020-10-21-来上海出差-2-个月，该回成都了，带点什么回去呢？](https://www.v2ex.com/t/717144) ![](assets/new.png)  
-- [2020-10-21-沙井-11-号线后亭站花园小区三房整租](https://www.v2ex.com/t/717143) ![](assets/new.png)  
-- [2020-10-21-导航拉新小程序-使用-PC-机器人获取到各大应用小程序活动页面-path-我做了一个拉新集锦的小程序，欢迎-V-友体验](https://www.v2ex.com/t/717142) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,10 +1130,10 @@
 - [2020-10-21-Linux-Capabilities-与容器的水乳交融](https://toutiao.io/k/k0ge33p) ![](assets/new.png)  
 - [2020-10-21-你听过-CatBoost-吗？本文教你如何使用-CatBoost-进行快速梯度提升](https://toutiao.io/k/fr7dfqa) ![](assets/new.png)  
 - [2020-10-21-《编程格调》：30-条代码风格帮你更好撸代码](https://toutiao.io/k/xmxoypv) ![](assets/new.png)  
+- [2020-10-21-Hadoop-框架：HDFS-读写机制与-API-详解](https://toutiao.io/k/i15zc80) ![](assets/new.png)  
 - [2020-10-21-AST-详解与运用](https://toutiao.io/k/m2hv6fn) ![](assets/new.png)  
 - [2020-10-21-译-Go-中的-Goroutine-和其他并发处理方案的对比](https://toutiao.io/k/rhzp4sp) ![](assets/new.png)  
 - [2020-10-21-IT-双职工赢在起跑线​，还怕未来吗？](https://toutiao.io/k/v4rpw5h) ![](assets/new.png)  
-- [2020-10-21-Hadoop-框架：HDFS-读写机制与-API-详解](https://toutiao.io/k/i15zc80) ![](assets/new.png)  
 - [2020-10-21-译-.NET-应用程序-7-种最常见的性能问题及其解决方案](https://toutiao.io/k/ekw95p5) ![](assets/new.png)  
 - [2020-10-21-字节码增强：原理与实战](https://toutiao.io/k/9st7kdv) ![](assets/new.png)  
 - [2020-10-21-Impala-在网易大数据的优化和实践](https://toutiao.io/k/0vfqlgs) ![](assets/new.png)  

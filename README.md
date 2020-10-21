@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 21:40:15，:rocket: 更新条数: +3746， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 21:47:19，:rocket: 更新条数: +3746， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1151,8 +1151,8 @@
 
 - [2020-10-21-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
 - [2020-10-21-傻白甜，约不约？](https://toutiao.io/k/s60lax4) ![](assets/new.png)  
-- [2020-10-21-DDDplus-中台开发框架（痛点分析）](https://toutiao.io/k/pbiudrp) ![](assets/new.png)  
 - [2020-10-21-疫情下的线上会议和社交](https://toutiao.io/k/ojgvqdo) ![](assets/new.png)  
+- [2020-10-21-DDDplus-中台开发框架（痛点分析）](https://toutiao.io/k/pbiudrp) ![](assets/new.png)  
 - [2020-10-21-Synchronized-的锁升级之路](https://toutiao.io/k/x6l8ntx) ![](assets/new.png)  
 - [2020-10-21-Hadoop-框架：HDFS-读写机制与-API-详解](https://toutiao.io/k/i15zc80) ![](assets/new.png)  
 - [2020-10-21-一份走心算法攻略，一份-20W-字刷题笔记](https://toutiao.io/k/l02akr0) ![](assets/new.png)  
@@ -1161,9 +1161,9 @@
 - [2020-10-21-Linux-Capabilities-与容器的水乳交融](https://toutiao.io/k/k0ge33p) ![](assets/new.png)  
 - [2020-10-21-《编程格调》：30-条代码风格帮你更好撸代码](https://toutiao.io/k/xmxoypv) ![](assets/new.png)  
 - [2020-10-21-你听过-CatBoost-吗？本文教你如何使用-CatBoost-进行快速梯度提升](https://toutiao.io/k/fr7dfqa) ![](assets/new.png)  
-- [2020-10-21-AST-详解与运用](https://toutiao.io/k/m2hv6fn) ![](assets/new.png)  
 - [2020-10-21-IT-双职工赢在起跑线​，还怕未来吗？](https://toutiao.io/k/v4rpw5h) ![](assets/new.png)  
 - [2020-10-21-译-Go-中的-Goroutine-和其他并发处理方案的对比](https://toutiao.io/k/rhzp4sp) ![](assets/new.png)  
+- [2020-10-21-AST-详解与运用](https://toutiao.io/k/m2hv6fn) ![](assets/new.png)  
 - [2020-10-21-译-.NET-应用程序-7-种最常见的性能问题及其解决方案](https://toutiao.io/k/ekw95p5) ![](assets/new.png)  
 - [2020-10-21-字节码增强：原理与实战](https://toutiao.io/k/9st7kdv) ![](assets/new.png)  
 - [2020-10-21-从源代码级别看懂-MinIO-对象存储网关的实现](https://toutiao.io/k/pgc7kyj) ![](assets/new.png)  

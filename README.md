@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 08:32:24，:rocket: 更新条数: +3507， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 08:38:30，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-10-21-有谁知道“羊毛出在狗身上猪来买单”，具体是什么意思吗？](https://www.v2ex.com/t/717161) ![](assets/new.png)  
+- [2020-10-21-有关多站点代码同步问题](https://www.v2ex.com/t/717160) ![](assets/new.png)  
+- [2020-10-21-大家平时都是怎么给自己充电的](https://www.v2ex.com/t/717159) ![](assets/new.png)  
 - [2020-10-21-蚂蚁-CTO-线-10+研发职位招聘上海/杭州,内推成功送手机,-iPhone12/Mate-40-任你挑！](https://www.v2ex.com/t/717157) ![](assets/new.png)  
 - [2020-10-21-今天遇到一个奇葩需求，欢迎围观。](https://www.v2ex.com/t/717156) ![](assets/new.png)  
 - [2020-10-21-k8s-有什么好文档、书籍、视频推荐吗？](https://www.v2ex.com/t/717154) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-10-21-如何自动化“填充短信验证码”？](https://www.v2ex.com/t/717137) ![](assets/new.png)  
 - [2020-10-21-如何取消《值得买...》这类促销短信](https://www.v2ex.com/t/717136) ![](assets/new.png)  
 - [2020-10-21-近期不少网站被攻击和勒索](https://www.v2ex.com/t/717135) ![](assets/new.png)  
-- [2020-10-21-深圳哪里可以露天烧烤呢？](https://www.v2ex.com/t/717134) ![](assets/new.png)  
-- [2020-10-21-微信张小龙的朋友圈及由此想到的](https://www.v2ex.com/t/717133) ![](assets/new.png)  
-- [2020-10-21-Bandicam，官网售价-249RMB，用券-229RMB-买下永久版](https://www.v2ex.com/t/717130) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

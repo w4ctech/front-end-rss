@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 08:16:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 08:32:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -42,7 +42,6 @@
 - [2020-10-19-Java-中的-AQS-到底是什么？高级面试必问！](https://www.ershicimi.com/p/333df1b52c7a8072743c190abefd56e7) 
 - [2020-10-15-面试遭遇-SparkSQL，慌了！](https://www.ershicimi.com/p/b25fcbef6eee387a64fc9bebb1b1e0c8) 
 - [2020-10-15-滴滴CTO五轮面试真是太刺激了，Java高级工程师一二三四五面面经已拿到offer](https://www.ershicimi.com/p/3094204bbe95af3a1045d7789f1e4255) 
+- [2020-10-21-蚂蚁-CTO-线-10+研发职位招聘上海/杭州,内推成功送手机,-iPhone12/Mate-40-任你挑！](https://www.v2ex.com/t/717157) 
 - [2020-10-21-分享个面试宝典，忘了出处，常见问答解析](https://www.v2ex.com/t/717123) 
-- [2020-10-21-木瓜移动-北京-招聘大数据开发工程师](https://www.v2ex.com/t/717107) 
-- [2020-10-21-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
 - [2020-10-21-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 

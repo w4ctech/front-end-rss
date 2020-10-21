@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-21 15:42:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 15:49:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -247,7 +247,6 @@
 - [【V2EX】网易游戏梦幻事业部-社招内推](https://www.v2ex.com/t/717268)
 - [【V2EX】网易游戏技术中心-社招内推](https://www.v2ex.com/t/717266)
 - [【V2EX】软件测试和游戏测试，哪个职业发展空间更大？](https://www.v2ex.com/t/717264)
-- [【V2EX】GT610-都可以玩什么游戏](https://www.v2ex.com/t/717222)
 - [【安全热点】Linux系统中玩到让你停不下来的命令行游戏!](https://sec.thief.one/article_content?a_id=d2b9e5a44f8115b048bb50877ffa8bac)
 - [......【查看更多】......](./details/tags/dev-game.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 07:04:26，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 07:15:45，:rocket: 更新条数: +3520， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,8 @@
 </summary>
 
 
+- [2020-10-21-mac-下没有好的备用浏览器-咋个整](https://www.v2ex.com/t/717121) ![](assets/new.png)  
+- [2020-10-21-想-23-号到店预约的这两天可以多刷新一下预约页面，有概率取货](https://www.v2ex.com/t/717120) ![](assets/new.png)  
 - [2020-10-21-C++有没有类似-Java-的-final-class](https://www.v2ex.com/t/717118) ![](assets/new.png)  
 - [2020-10-21-Edge-选中文本右键的“在新标签中搜索”没有了吗？](https://www.v2ex.com/t/717116) ![](assets/new.png)  
 - [2020-10-21-Ubuntu-截图是调用什么执行的总之就是-ScreenShot-有问题](https://www.v2ex.com/t/717115) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-21-双十一要到了，桌面收纳求推荐一款](https://www.v2ex.com/t/717097) ![](assets/new.png)  
 - [2020-10-21-成都字节跳动-长期有效抖音团队招新，安卓、iOS、测试、后端及全栈都有，全程跟踪，随时查进度。](https://www.v2ex.com/t/717096) ![](assets/new.png)  
 - [2020-10-21-Linux-如何计算-eMMC-的读写速度和内存的读写速度？用什么方式比较准确。](https://www.v2ex.com/t/717095) ![](assets/new.png)  
-- [2020-10-21-Merriam-Webster：有哪些英文词汇和你同一年出生的？](https://www.v2ex.com/t/717092) ![](assets/new.png)  
-- [2020-10-21-下一代手机，配得上下一代网页设计](https://www.v2ex.com/t/717089) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

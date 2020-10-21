@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 12:52:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 12:55:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2413,6 +2413,10 @@
 - [2020-09-24-【第2075期】多端研发体系：可渐进迁移的提效之路](https://www.ershicimi.com/p/43d705078787a07898196fbbcc3b6da5) 
 - [2020-09-24-【活动】第二届「缤纷·滨江前端技术沙龙」](https://www.ershicimi.com/p/9fadff08ef74f9fa1dfd35abe7a9098f) 
 - [2020-09-23-什么是架构师的必备技能？](https://www.ershicimi.com/p/2e8561a3db5894b24adaa073a0581784) 
+- [2020-10-20-ES11新增的这9个新特性，你都掌握了吗？](https://www.ershicimi.com/p/f65773915b3db9636aa2f04e270eea9d) 
+- [2020-10-16-贫民窟程序员利用下班-2-小时，薪资涨到-30K](https://www.ershicimi.com/p/142acc52ea9b20e003311734ce24e750) 
+- [2020-10-11-前端装饰器模式快闪](https://www.ershicimi.com/p/49e6aef8b5ce898e9b9317c467a20682) 
+- [2020-10-09-做了-8-年前端，看透了裁人的套路](https://www.ershicimi.com/p/8079378715a547442a61c88db5a8c6a0) 
 - [2020-10-13-小伙刚入职，一句话暴露了-2-个坏习惯，竟被踢出公司群聊...](https://www.ershicimi.com/p/8b3c18a8ce14a0751d9ef5d029675963) 
 - [2020-10-12-不会吧！不会吧！2020年还有人认为前端就是切图仔？](https://www.ershicimi.com/p/a9a25f7a26eb296ee5265209546cafac) 
 - [2020-10-09-不懂源码，白做前端！](https://www.ershicimi.com/p/bb5a715d21e6306d52c6c73902655a7b) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 12:52:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 12:55:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -38,6 +38,8 @@
 - [2020-10-10-【第2083期】理解ECMAScript规范（四）](https://www.ershicimi.com/p/50fc7dc101fdaff3adb7483b87326139) 
 - [2020-10-08-【第2081期】理解ECMAScript规范（三）](https://www.ershicimi.com/p/4d21600e1f652edfd01e993e17f27f0f) 
 - [2020-09-28-【第2079期】理解ECMAScript规范（二）](https://www.ershicimi.com/p/abbc0eba9a15dc0d04591db13d412038) 
+- [2020-10-16-前端如何优雅的处理类数组对象？](https://www.ershicimi.com/p/ff68d432c6aa930c231ca20ef17d903a) 
+- [2020-10-14-你需要了解的几种-JavaScript-异常类型](https://www.ershicimi.com/p/06dd75a065cf099f98747e8317f18ae5) 
 - [2020-10-17-送-6-本-JavaScript-“红宝书”《JavaScript-高级程序设计（第4版）》](https://www.ershicimi.com/p/8c3c9dc4817e3596c6c481c4c36468e6) 
 - [2020-10-15-JS双等号比较符（“==”）作用细节](https://www.ershicimi.com/p/a210134db5fda43f542248ec3b7bc00e) 
 - [2020-10-14-收藏-|-JS开发必须知道的41个技巧](https://www.ershicimi.com/p/559dea8cf6972b528ee3fae25a9f5b06) 

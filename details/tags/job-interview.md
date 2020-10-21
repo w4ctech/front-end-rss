@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 07:49:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 08:04:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -45,3 +45,4 @@
 - [2020-10-21-分享个面试宝典，忘了出处，常见问答解析](https://www.v2ex.com/t/717123) 
 - [2020-10-21-木瓜移动-北京-招聘大数据开发工程师](https://www.v2ex.com/t/717107) 
 - [2020-10-21-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
+- [2020-10-21-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 

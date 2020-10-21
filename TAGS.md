@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-21 07:15:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 07:29:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -398,8 +398,8 @@
 - [【V2EX】网站页面打开太慢，要如何优化？](https://www.v2ex.com/t/717102)
 - [【开发者头条】译-.NET-应用程序-7-种最常见的性能问题及其解决方案](https://toutiao.io/k/ekw95p5)
 - [【开发者头条】Impala-在网易大数据的优化和实践](https://toutiao.io/k/0vfqlgs)
-- [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
 - [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
+- [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

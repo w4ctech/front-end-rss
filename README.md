@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 15:34:00，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 15:42:20，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-21-刚入职百度，想要裸辞，为梦想冲一波](https://www.v2ex.com/t/717271) ![](assets/new.png)  
 - [2020-10-21-有没有碰到-ios14-微信语音发出去没声音，语音通话对方听不见声音](https://www.v2ex.com/t/717270) ![](assets/new.png)  
 - [2020-10-21-都快-2021-了，-HomePod-依然-2s-延迟](https://www.v2ex.com/t/717269) ![](assets/new.png)  
 - [2020-10-21-网易游戏梦幻事业部-社招内推](https://www.v2ex.com/t/717268) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-21-19-年毕业生待业一年后求职迷茫，求前辈们给点建议](https://www.v2ex.com/t/717244) ![](assets/new.png)  
 - [2020-10-21-黑帕云-像-Excel-一样熟悉，又像数据库一样强大](https://www.v2ex.com/t/717242) ![](assets/new.png)  
 - [2020-10-21-iOS-14.1-挂不住后台啊](https://www.v2ex.com/t/717241) ![](assets/new.png)  
-- [2020-10-21-北京-神策数据-大数据领域-招聘测试-/-测试开发工程师多名亦提供优质实习生岗位](https://www.v2ex.com/t/717239) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

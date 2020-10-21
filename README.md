@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 14:49:13，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 15:04:41，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
@@ -446,26 +446,6 @@
 </summary>
 
 
-- [2020-10-19-前端开发者们值得了解的-11-项前端技巧](https://www.ershicimi.com/p/f6a313d2d1fd18d2548c2d4930b53d24) ![](assets/new.png)  
-- [2020-10-19-从-Angular-转到-React，网易严选的前端工程化实践](https://www.ershicimi.com/p/21db946587cffaa9189b0166e8a9c329) ![](assets/new.png)  
-- [2020-10-19-华为云“对话机器人”成长指南已送达-|-活动推荐](https://www.ershicimi.com/p/e76cf59693e12ce1d068668b0ebd76ea) ![](assets/new.png)  
-- [2020-10-18-前端周报：创业公司名中带droid遭谷歌起诉；谷歌或被迫出售Chrome和部分广告业务；微软将在Wi](https://www.ershicimi.com/p/13067a9e6e82413658aa509cb05bc2d1) ![](assets/new.png)  
-- [2020-10-18-CEO首次分享：极客邦13年成长复盘-｜-极客时间](https://www.ershicimi.com/p/dc4363828f4a8109e6672928d3f05e7b) ![](assets/new.png)  
-- [2020-10-16-你必须知道的11个微前端框架](https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853) ![](assets/new.png)  
-- [2020-10-16-Linux-开发过程那么麻烦，是否值得？](https://www.ershicimi.com/p/46165449dd2ae6935105657412ea71ad) ![](assets/new.png)  
-- [2020-10-16-前端渣渣的我再也不敢说我会写React了-|-极客大学](https://www.ershicimi.com/p/98f4a3ae33489b4d3367e56f6471a911) ![](assets/new.png)  
-- [2020-10-15-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409) ![](assets/new.png)  
-- [2020-10-15-Android-Studio-4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF](https://www.ershicimi.com/p/c76fd68ab86dc37cd9c25ff7185ff393) ![](assets/new.png)  
-- [2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6) ![](assets/new.png)  
-- [2020-10-14-对微前端的11个错误认识](https://www.ershicimi.com/p/3aba955c6b41e1cdebb47e3b7d3c5b75) ![](assets/new.png)  
-- [2020-10-14-一套代码、多端运行，Flutter是如何实现的？-|-极客时间](https://www.ershicimi.com/p/6a48dbd8726ee675678cac3fefad5811) ![](assets/new.png)  
-- [2020-10-13-Webpack-5.0正式发布：更好的持久化缓存算法、提高Web平台的兼容性、带来Node生态新功能](https://www.ershicimi.com/p/4fce59604241cf9e3d11195033539895) ![](assets/new.png)  
-- [2020-10-13-安卓手机时间突然变慢？网友：糟糕，上班迟到了](https://www.ershicimi.com/p/dbd06ec6129a8f64325ca2d20c7561a2) ![](assets/new.png)  
-- [2020-10-12-73个强无敌的NPM软件包](https://www.ershicimi.com/p/bf889a259a6b587c3c7d197565d25f40) ![](assets/new.png)  
-- [2020-10-12-一位资深程序员的感悟：这个行业，仅靠年轻人是不够的](https://www.ershicimi.com/p/84311d0f478a7cb23118c24cbd57c1af) ![](assets/new.png)  
-- [2020-10-12-疫情黑天鹅到来时，那些崩溃的企业有三类特征值得注意-|-GTLC](https://www.ershicimi.com/p/2f2a0322cb463b9df732d60164354661) ![](assets/new.png)  
-- [2020-10-11-前端周报：恶意npm软件包收集用户隐私信息并在GitHub传播；传迅雷前CEO曾派司机进机房盗取数据](https://www.ershicimi.com/p/4fce0d5bd710f2558b10a5b5e4f20188) ![](assets/new.png)  
-- [2020-10-09-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/be2c70677456a36b2b7d281c4e2a4065) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,10 +927,10 @@
 </summary>
 
 
+- [2020-10-21-前端如何一键生成多维度数据可视化分析报表](https://juejin.im/post/6886089003481694215) ![](assets/new.png)  
 - [2020-10-21-鸿蒙应用开发之ListContainer](https://juejin.im/post/6886043436978601992) ![](assets/new.png)  
 - [2020-10-21-当我谈-Rax-按端拆分代码的时候我谈些什么](https://juejin.im/post/6886031972884774925) ![](assets/new.png)  
 - [2020-10-21-朝花夕拾---2020-1024](https://juejin.im/post/6886000134732627981) ![](assets/new.png)  
-- [2020-10-21-H5如何与原生Appios,安卓,RN通信？](https://juejin.im/post/6885988193402159118) ![](assets/new.png)  
 - [2020-09-19-前端国际化辅助工具——自动替换中文并翻译](https://juejin.im/post/6874421714143412237) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1067,6 +1047,8 @@
 </summary>
 
 
+- [2020-10-21-网易游戏技术中心-社招内推](https://www.v2ex.com/t/717266) ![](assets/new.png)  
+- [2020-10-21-软件测试和游戏测试，哪个职业发展空间更大？](https://www.v2ex.com/t/717264) ![](assets/new.png)  
 - [2020-10-21-北京-猿辅导基础架构---大监控方向-Tech-Leader](https://www.v2ex.com/t/717263) ![](assets/new.png)  
 - [2020-10-21-求租-广州猎德或者客村附近一房两房](https://www.v2ex.com/t/717258) ![](assets/new.png)  
 - [2020-10-21-有支持-Dolby-Vision-的-4K-显示器推荐吗？](https://www.v2ex.com/t/717257) ![](assets/new.png)  
@@ -1085,8 +1067,6 @@
 - [2020-10-21-简书的堕落之后，国内还有什么能用的博客平台？](https://www.v2ex.com/t/717235) ![](assets/new.png)  
 - [2020-10-21-买要趁早？听说年底要上京东方的屏幕](https://www.v2ex.com/t/717234) ![](assets/new.png)  
 - [2020-10-21-web-框架-DuckPhp-1.2.7-发布——你需要个不写路由表的框架么](https://www.v2ex.com/t/717233) ![](assets/new.png)  
-- [2020-10-21-备受打击后,-想要放弃码农岗位,-求-v-友建议](https://www.v2ex.com/t/717232) ![](assets/new.png)  
-- [2020-10-21-作为程序员，人生有多种可能，甘心一辈子做一件事情吗？如果可以选择第二职业，那么你会做啥呢？](https://www.v2ex.com/t/717231) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,8 +1121,8 @@
 - [2020-10-21-Linux-Capabilities-与容器的水乳交融](https://toutiao.io/k/k0ge33p) ![](assets/new.png)  
 - [2020-10-21-你听过-CatBoost-吗？本文教你如何使用-CatBoost-进行快速梯度提升](https://toutiao.io/k/fr7dfqa) ![](assets/new.png)  
 - [2020-10-21-《编程格调》：30-条代码风格帮你更好撸代码](https://toutiao.io/k/xmxoypv) ![](assets/new.png)  
-- [2020-10-21-译-Go-中的-Goroutine-和其他并发处理方案的对比](https://toutiao.io/k/rhzp4sp) ![](assets/new.png)  
 - [2020-10-21-IT-双职工赢在起跑线​，还怕未来吗？](https://toutiao.io/k/v4rpw5h) ![](assets/new.png)  
+- [2020-10-21-译-Go-中的-Goroutine-和其他并发处理方案的对比](https://toutiao.io/k/rhzp4sp) ![](assets/new.png)  
 - [2020-10-21-AST-详解与运用](https://toutiao.io/k/m2hv6fn) ![](assets/new.png)  
 - [2020-10-21-译-.NET-应用程序-7-种最常见的性能问题及其解决方案](https://toutiao.io/k/ekw95p5) ![](assets/new.png)  
 - [2020-10-21-字节码增强：原理与实战](https://toutiao.io/k/9st7kdv) ![](assets/new.png)  

@@ -14841,111 +14841,10 @@
     "link": "https://www.ershicimi.com/a/895"
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/154",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/154",
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
-    "items": [
-      {
-        "title": "前端开发者们值得了解的 11 项前端技巧",
-        "link": "https://www.ershicimi.com/p/f6a313d2d1fd18d2548c2d4930b53d24",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "从 Angular 转到 React，网易严选的前端工程化实践",
-        "link": "https://www.ershicimi.com/p/21db946587cffaa9189b0166e8a9c329",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "华为云“对话机器人”成长指南已送达 | 活动推荐",
-        "link": "https://www.ershicimi.com/p/e76cf59693e12ce1d068668b0ebd76ea",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "前端周报：创业公司名中带droid遭谷歌起诉；谷歌或被迫出售Chrome和部分广告业务；微软将在Wi",
-        "link": "https://www.ershicimi.com/p/13067a9e6e82413658aa509cb05bc2d1",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "CEO首次分享：极客邦13年成长复盘 ｜ 极客时间",
-        "link": "https://www.ershicimi.com/p/dc4363828f4a8109e6672928d3f05e7b",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "你必须知道的11个微前端框架",
-        "link": "https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "Linux 开发过程那么麻烦，是否值得？",
-        "link": "https://www.ershicimi.com/p/46165449dd2ae6935105657412ea71ad",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "前端渣渣的我再也不敢说我会写React了 | 极客大学",
-        "link": "https://www.ershicimi.com/p/98f4a3ae33489b4d3367e56f6471a911",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "用了VS Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质",
-        "link": "https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "Android Studio 4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF",
-        "link": "https://www.ershicimi.com/p/c76fd68ab86dc37cd9c25ff7185ff393",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "如何使用 WebAssembly 和 JS 构建高性能应用程序",
-        "link": "https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "对微前端的11个错误认识",
-        "link": "https://www.ershicimi.com/p/3aba955c6b41e1cdebb47e3b7d3c5b75",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "一套代码、多端运行，Flutter是如何实现的？ | 极客时间",
-        "link": "https://www.ershicimi.com/p/6a48dbd8726ee675678cac3fefad5811",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "Webpack 5.0正式发布：更好的持久化缓存算法、提高Web平台的兼容性、带来Node生态新功能",
-        "link": "https://www.ershicimi.com/p/4fce59604241cf9e3d11195033539895",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "安卓手机时间突然变慢？网友：糟糕，上班迟到了",
-        "link": "https://www.ershicimi.com/p/dbd06ec6129a8f64325ca2d20c7561a2",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "73个强无敌的NPM软件包",
-        "link": "https://www.ershicimi.com/p/bf889a259a6b587c3c7d197565d25f40",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "一位资深程序员的感悟：这个行业，仅靠年轻人是不够的",
-        "link": "https://www.ershicimi.com/p/84311d0f478a7cb23118c24cbd57c1af",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "疫情黑天鹅到来时，那些崩溃的企业有三类特征值得注意 | GTLC",
-        "link": "https://www.ershicimi.com/p/2f2a0322cb463b9df732d60164354661",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "前端周报：恶意npm软件包收集用户隐私信息并在GitHub传播；传迅雷前CEO曾派司机进机房盗取数据",
-        "link": "https://www.ershicimi.com/p/4fce0d5bd710f2558b10a5b5e4f20188",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "面试造核弹：细数那些有毒的开发岗位描述",
-        "link": "https://www.ershicimi.com/p/be2c70677456a36b2b7d281c4e2a4065",
-        "date": "2020-10-09"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9457",
@@ -16486,6 +16385,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "前端如何一键生成多维度数据可视化分析报表",
+        "link": "https://juejin.im/post/6886089003481694215",
+        "date": "2020-10-21"
+      },
+      {
         "title": "鸿蒙应用开发之ListContainer",
         "link": "https://juejin.im/post/6886043436978601992",
         "date": "2020-10-21"
@@ -16498,11 +16402,6 @@
       {
         "title": "朝花夕拾 - 2020 1024",
         "link": "https://juejin.im/post/6886000134732627981",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "H5如何与原生App(ios,安卓,RN)通信？",
-        "link": "https://juejin.im/post/6885988193402159118",
         "date": "2020-10-21"
       },
       {
@@ -16895,6 +16794,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[网易游戏技术中心] 社招内推",
+        "link": "https://www.v2ex.com/t/717266",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "软件测试和游戏测试，哪个职业发展空间更大？",
+        "link": "https://www.v2ex.com/t/717264",
+        "date": "2020-10-21"
+      },
+      {
         "title": "[北京] 猿辅导基础架构 - 大监控方向 Tech Leader",
         "link": "https://www.v2ex.com/t/717263",
         "date": "2020-10-21"
@@ -17057,16 +16966,6 @@
       {
         "title": "求前端大佬指导一下！",
         "link": "https://www.v2ex.com/t/717217",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "寻找两种特殊用途的图床",
-        "link": "https://www.v2ex.com/t/717216",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "弄副业就必须有对公账号，为啥这么难啊。",
-        "link": "https://www.v2ex.com/t/717215",
         "date": "2020-10-21"
       }
     ]
@@ -17244,13 +17143,13 @@
         "date": "2020-10-21"
       },
       {
-        "title": "[译] Go 中的 Goroutine 和其他并发处理方案的对比",
-        "link": "https://toutiao.io/k/rhzp4sp",
+        "title": "IT 双职工赢在起跑线​，还怕未来吗？",
+        "link": "https://toutiao.io/k/v4rpw5h",
         "date": "2020-10-21"
       },
       {
-        "title": "IT 双职工赢在起跑线​，还怕未来吗？",
-        "link": "https://toutiao.io/k/v4rpw5h",
+        "title": "[译] Go 中的 Goroutine 和其他并发处理方案的对比",
+        "link": "https://toutiao.io/k/rhzp4sp",
         "date": "2020-10-21"
       },
       {
@@ -17284,23 +17183,28 @@
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-21"
-      },
-      {
         "title": "[推荐] 从面试角度一文学完 Kafka",
         "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] B站面试之旅",
+        "link": "https://toutiao.io/k/sf65rqv",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-21"
       },
       {
@@ -17314,13 +17218,28 @@
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
         "date": "2020-10-21"
       },
       {
@@ -17329,33 +17248,13 @@
         "date": "2020-10-21"
       },
       {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-21"
+      },
+      {
         "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
         "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-21"
       }
     ]

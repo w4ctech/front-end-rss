@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 04:32:09，:rocket: 更新条数: +3521， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 04:38:58，:rocket: 更新条数: +3522， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,9 @@
 </summary>
 
 
+- [2020-10-21-游戏公司的研发部门架构问题请教](https://www.v2ex.com/t/717060) ![](assets/new.png)  
+- [2020-10-21-开源一个跨交易所搬砖套利框架.基于-Python-asyncio,-CCXT,-WebSocket.](https://www.v2ex.com/t/717059) ![](assets/new.png)  
+- [2020-10-21-提醒一下-23-号-Apple-Store-是-8-点开门](https://www.v2ex.com/t/717058) ![](assets/new.png)  
 - [2020-10-21-秋天了，是时候摘几个橘子了，你就在此地不要走动](https://www.v2ex.com/t/717056) ![](assets/new.png)  
 - [2020-10-21-斐济事件,打响了收复台湾的第一枪?有生之年,能看到台湾成为中国的一个普通行政省吗?](https://www.v2ex.com/t/717055) ![](assets/new.png)  
 - [2020-10-21-哎～-MacBook-pro-16-寸降温降燥提频，折腾记。](https://www.v2ex.com/t/717054) ![](assets/new.png)  
@@ -1084,9 +1087,6 @@
 - [2020-10-21-有想做自由职业的么？来抱团取暖！](https://www.v2ex.com/t/717039) ![](assets/new.png)  
 - [2020-10-21-有人用过讯飞/搜狗录音笔的录音转文字功能吗？](https://www.v2ex.com/t/717038) ![](assets/new.png)  
 - [2020-10-21-上海求职-运维岗.-麻烦各位大佬，如果有空帮忙指导一下简历，能提供下合适建议或者有合适岗位内推更好。](https://www.v2ex.com/t/717035) ![](assets/new.png)  
-- [2020-10-21-GitHub-Issues-及-Actions-的巧妙应用](https://www.v2ex.com/t/717034) ![](assets/new.png)  
-- [2020-10-21-双-11-到了，你们是怎么买鞋的呢？](https://www.v2ex.com/t/717032) ![](assets/new.png)  
-- [2020-10-21-edge-browser-for-Linux-已提供下载](https://www.v2ex.com/t/717031) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,8 +1144,8 @@
 - [2020-10-21-译-Go-中的-Goroutine-和其他并发处理方案的对比](https://toutiao.io/k/rhzp4sp) ![](assets/new.png)  
 - [2020-10-21-IT-双职工赢在起跑线​，还怕未来吗？](https://toutiao.io/k/v4rpw5h) ![](assets/new.png)  
 - [2020-10-21-译-.NET-应用程序-7-种最常见的性能问题及其解决方案](https://toutiao.io/k/ekw95p5) ![](assets/new.png)  
-- [2020-10-21-Hadoop-框架：HDFS-读写机制与-API-详解](https://toutiao.io/k/i15zc80) ![](assets/new.png)  
 - [2020-10-21-字节码增强：原理与实战](https://toutiao.io/k/9st7kdv) ![](assets/new.png)  
+- [2020-10-21-Hadoop-框架：HDFS-读写机制与-API-详解](https://toutiao.io/k/i15zc80) ![](assets/new.png)  
 - [2020-10-21-Impala-在网易大数据的优化和实践](https://toutiao.io/k/0vfqlgs) ![](assets/new.png)  
 - [2020-10-21-从源代码级别看懂-MinIO-对象存储网关的实现](https://toutiao.io/k/pgc7kyj) ![](assets/new.png)  
 - [2020-10-21-论文笔记：CNN-+-RNN-+-CTC，打造端到端可训练的网络](https://toutiao.io/k/j5h4ys8) ![](assets/new.png)  

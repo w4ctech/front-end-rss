@@ -5,6 +5,16 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "10月20日全国新增境外输入新冠11例 累计确诊85715例",
+        "link": "https://m.caixin.com/m/2020-10-21/101616923.html",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "大流行手记|10月20日：俄罗斯日增确诊创新高 阿根廷病例过百万居第五",
+        "link": "https://m.caixin.com/m/2020-10-21/101616932.html",
+        "date": "2020-10-20"
+      },
+      {
         "title": "最新海外疫情：新冠感染超4021万 累计死亡超111万",
         "link": "http://m.international.caixin.com/m/2020-10-20/101616648.html",
         "date": "2020-10-19"
@@ -16875,6 +16885,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "从 Webpack 到 Snowpack, 编译速度提升十倍以上——TRPG Engine 迁移小记",
+        "link": "https://www.v2ex.com/t/716942",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "VS code 对 erlang 的支持不好啊，和 IDEA 相比弱爆了，大家是怎么写 erlang 的？",
+        "link": "https://www.v2ex.com/t/716941",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "macOS10.15.7 (19H2)修复了休眠后启动分辨率变低和watch 经常无法解锁问题",
+        "link": "https://www.v2ex.com/t/716940",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[干货] 10 分钟读懂浏览器渲染流程",
+        "link": "https://www.v2ex.com/t/716938",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "收一台 apple",
+        "link": "https://www.v2ex.com/t/716937",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "关于 iPhone Pro/PM 颜色的问题",
+        "link": "https://www.v2ex.com/t/716935",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "不想写 Java 但是想从事后端开发有什么路子可走？",
+        "link": "https://www.v2ex.com/t/716934",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "如何设置 Mac 拔掉耳机后，电脑静音",
+        "link": "https://www.v2ex.com/t/716932",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "现在骗子要银行卡号是干什么？",
+        "link": "https://www.v2ex.com/t/716931",
+        "date": "2020-10-21"
+      },
+      {
         "title": "Navicat Premium 闪退问题",
         "link": "https://www.v2ex.com/t/716930",
         "date": "2020-10-21"
@@ -16992,56 +17047,6 @@
       {
         "title": "MIUI 开了勿扰模式，还是有振动？",
         "link": "https://www.v2ex.com/t/716894",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "MagSafe 这么强的吸力，每次都是从手机上拽下来的话，线多久会断？",
-        "link": "https://www.v2ex.com/t/716892",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "nginx 的 cache file has too long header 问题",
-        "link": "https://www.v2ex.com/t/716891",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "预购了 iPhone12 蓝色的各位现在打算怎么办？",
-        "link": "https://www.v2ex.com/t/716890",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "求此视频出处，求助全网兄弟",
-        "link": "https://www.v2ex.com/t/716889",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "12 pro 和 pro max 怎么选？",
-        "link": "https://www.v2ex.com/t/716888",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "求推荐，特别能放空心灵的音频视频文件",
-        "link": "https://www.v2ex.com/t/716887",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "趁双十一想换个电脑玩 2077， 8k 以下不带显示器，求建议",
-        "link": "https://www.v2ex.com/t/716886",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "Gstreamer 尝试 rtmp 推流一直报错 rtmpsink0：无法打开资源写入",
-        "link": "https://www.v2ex.com/t/716883",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "[广州] 画梦人 诚聘 前端工程师 / Java 工程师 / android 工程师 / ios 实习生 / 各端实习生",
-        "link": "https://www.v2ex.com/t/716882",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "谷歌插件开发，如何控制 content_script 的执行？",
-        "link": "https://www.v2ex.com/t/716881",
         "date": "2020-10-20"
       }
     ]
@@ -17209,6 +17214,11 @@
         "date": "2020-10-21"
       },
       {
+        "title": "《编程格调》：30 条代码风格帮你更好撸代码",
+        "link": "https://toutiao.io/k/xmxoypv",
+        "date": "2020-10-21"
+      },
+      {
         "title": "AST 详解与运用",
         "link": "https://toutiao.io/k/m2hv6fn",
         "date": "2020-10-21"
@@ -17216,11 +17226,6 @@
       {
         "title": "[译] .NET 应用程序 7 种最常见的性能问题及其解决方案",
         "link": "https://toutiao.io/k/ekw95p5",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "《编程格调》：30 条代码风格帮你更好撸代码",
-        "link": "https://toutiao.io/k/xmxoypv",
         "date": "2020-10-21"
       },
       {
@@ -17234,33 +17239,8 @@
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] B站面试之旅",
-        "link": "https://toutiao.io/k/sf65rqv",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
-        "link": "https://toutiao.io/k/aszm22z",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-21"
       },
       {
@@ -17269,8 +17249,13 @@
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-21"
       },
       {
@@ -17279,8 +17264,28 @@
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 关于 JWT Token 自动续期的解决方案",
+        "link": "https://toutiao.io/k/aszm22z",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-21"
       },
       {
@@ -17289,23 +17294,23 @@
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-21"
-      },
-      {
         "title": "[推荐] 高性能网关设计实践",
         "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-21"
       }
     ]

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 11:06:54，:rocket: 更新条数: +790， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 11:14:06，:rocket: 更新条数: +3511， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-20-最新疫情：全国新冠累计确诊85715例-新增境外输入11例](https://m.caixin.com/m/2020-10-21/101617131.html) ![](assets/new.png)  
+- [2020-10-20-最新海外疫情：新冠感染超4059万-累计死亡近112万](https://m.caixin.com/m/2020-10-21/101617151.html) ![](assets/new.png)  
+- [2020-10-20-【境内疫情观察】全国新增11例境外输入病例（10月20日）](http://m.database.caixin.com/m/2020-10-21/101617043.html) ![](assets/new.png)  
+- [2020-10-20-大流行手记|10月20日：俄罗斯日增确诊创新高-阿根廷病例过百万居第五](https://m.caixin.com/m/2020-10-21/101616932.html) ![](assets/new.png)  
+- [2020-10-20-世卫警示民众抗疫疲劳加剧-吁欧美学习亚洲防疫经验](http://m.international.caixin.com/m/2020-10-21/101617217.html) ![](assets/new.png)  
+- [2020-10-19-【境内疫情观察】全国新增19例境外输入病例（10月19日）](http://m.database.caixin.com/m/2020-10-20/101616600.html) ![](assets/new.png)  
+- [2020-10-19-大流行手记|10月19日：全球感染突破4000万-印度3亿人获疫苗优先接种机会](https://m.caixin.com/m/2020-10-20/101616494.html) ![](assets/new.png)  
+- [2020-10-18-特写|新冠疫苗紧急使用人群继续扩大](https://m.caixin.com/m/2020-10-19/101616151.html) ![](assets/new.png)  
+- [2020-10-18-高福：青岛冷链食品外包装首次分离新冠活病毒意义何在](https://m.caixin.com/m/2020-10-19/101615998.html) ![](assets/new.png)  
+- [2020-10-18-【境内疫情观察】全国新增13例境外输入病例（10月18日）](http://m.database.caixin.com/m/2020-10-19/101616154.html) ![](assets/new.png)  
+- [2020-10-18-大流行手记|10月18日：全球单日新增病例连创新高-法国巴黎等地再宵禁](https://m.caixin.com/m/2020-10-19/101616004.html) ![](assets/new.png)  
+- [2020-10-17-青岛冷链食品外包装首次分离新冠活病毒-中疾控提示风险](https://m.caixin.com/m/2020-10-18/101615901.html) ![](assets/new.png)  
+- [2020-10-17-【境内疫情观察】全国新增13例境外输入病例（10月17日）](http://m.database.caixin.com/m/2020-10-18/101615934.html) ![](assets/new.png)  
+- [2020-10-17-大流行手记|10月17日：世卫称瑞德西韦等药物疗效甚微-中东疫情高位增长](https://m.caixin.com/m/2020-10-18/101615905.html) ![](assets/new.png)  
+- [2020-10-16-【境内疫情观察】广州花都新增1例境外输入关联的无症状感染者（10月16日）](http://m.database.caixin.com/m/2020-10-17/101615832.html) ![](assets/new.png)  
+- [2020-10-16-大流行手记|10月16日：美国病例超800万《自然》谴责特朗普践踏科学](https://m.caixin.com/m/2020-10-17/101615725.html) ![](assets/new.png)  
+- [2020-10-15-青岛疫情源头查明-被感染码头工人与普通病区患者共用CT所致](https://m.caixin.com/m/2020-10-16/101615349.html) ![](assets/new.png)  
+- [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) ![](assets/new.png)  
+- [2020-10-15-【境内疫情观察】青岛疫情由患者共用CT室引发（10月15日）](http://m.database.caixin.com/m/2020-10-16/101615364.html) ![](assets/new.png)  
+- [2020-10-15-大流行手记|10月15日：伦敦调高封锁级别-印度感染者或超美国](https://m.caixin.com/m/2020-10-16/101615246.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -75,11 +95,11 @@
 </summary>
 
 
+- [2020-10-21-世卫组织：全球新冠肺炎确诊病例超4045万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7gUaH78tgNBQ5YUmi7cD201021&isfromapp=1) ![](assets/new.png)  
 - [2020-10-21-欧洲宵禁前后对比-“夜巴黎-”不见了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifTuUPdwV8J9GDQC9FCjK201021&isfromapp=1) ![](assets/new.png)  
 - [2020-10-21-总结中国防疫经验！美媒：中国第三季度经济数据表明中国经济正在快速复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilEx6vdVVWfab2sLBddc0201021&isfromapp=1) ![](assets/new.png)  
 - [2020-10-21-缅甸一议员因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM84Zzd3oTp62Nj5Bmaoj201021&isfromapp=1) ![](assets/new.png)  
 - [2020-10-21-截至10月20日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/417290.jhtml) ![](assets/new.png)  
-- [2020-10-21-截至10月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202010/25f1ff9f3fbb48f3a6fbf43881a08529.shtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -709,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1057,7 @@
 </summary>
 
 
+- [2020-10-21-弄副业就必须有对公账号，为啥这么难啊。](https://www.v2ex.com/t/717215) ![](assets/new.png)  
 - [2020-10-21-广州-某上市国有控股金融集团科技子公司招聘-高级-Java-工程师-税前-30-45w](https://www.v2ex.com/t/717213) ![](assets/new.png)  
 - [2020-10-21-无创血糖算法开发经验的高级工程师或者总监，地点：上海，高薪](https://www.v2ex.com/t/717212) ![](assets/new.png)  
 - [2020-10-21-这里有成都的房东吗？想去成都玩一段时间，短租房谁有](https://www.v2ex.com/t/717211) ![](assets/new.png)  
@@ -1066,7 +1077,6 @@
 - [2020-10-21-对象生日，准备送她-iPad-该怎么选？](https://www.v2ex.com/t/717192) ![](assets/new.png)  
 - [2020-10-21-双十一直接入手-2020Mac-pro-还是等年底新芯片](https://www.v2ex.com/t/717191) ![](assets/new.png)  
 - [2020-10-21-鹅厂北京/深圳-数据安全团队找前端后台的同学啦！](https://www.v2ex.com/t/717190) ![](assets/new.png)  
-- [2020-10-21-请问各位大佬，程序员想学习一些运营知识，有什么好的渠道可以分享的吗？](https://www.v2ex.com/t/717189) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1113,8 +1123,8 @@
 - [2020-10-21-傻白甜，约不约？](https://toutiao.io/k/s60lax4) ![](assets/new.png)  
 - [2020-10-21-疫情下的线上会议和社交](https://toutiao.io/k/ojgvqdo) ![](assets/new.png)  
 - [2020-10-21-DDDplus-中台开发框架（痛点分析）](https://toutiao.io/k/pbiudrp) ![](assets/new.png)  
-- [2020-10-21-一份走心算法攻略，一份-20W-字刷题笔记](https://toutiao.io/k/l02akr0) ![](assets/new.png)  
 - [2020-10-21-Synchronized-的锁升级之路](https://toutiao.io/k/x6l8ntx) ![](assets/new.png)  
+- [2020-10-21-一份走心算法攻略，一份-20W-字刷题笔记](https://toutiao.io/k/l02akr0) ![](assets/new.png)  
 - [2020-10-21-喜大普奔！GitHub-App-终于支持中文了，可尝鲜下载体验](https://toutiao.io/k/r18jxvu) ![](assets/new.png)  
 - [2020-10-21-Hadoop-框架：HDFS-读写机制与-API-详解](https://toutiao.io/k/i15zc80) ![](assets/new.png)  
 - [2020-10-21-数据平台服务化建设（三）：数据地图](https://toutiao.io/k/jsaue4v) ![](assets/new.png)  

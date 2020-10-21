@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 05:30:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 05:35:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,6 +86,7 @@
 - [2020-10-09-人工智能从入门到精通系列教学视频免费送](https://www.ershicimi.com/p/4cec892c264b2a104a924d687161940a) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-10-15-拍好物视频，赢购物回血基金|「理想生活计划·种草狂欢季」强势来袭](https://www.ershicimi.com/p/eb7342df6c08280a8f20b3417bd6e7ec) 
+- [2020-10-21-分享一个自己录制的-Flask-从入门到项目实战视频教程（20-小时快速入门-Python-网站开发）](https://www.v2ex.com/t/717079) 
 - [2020-10-21-哪里可以找到分析视频内容创作的理论和方法？](https://www.v2ex.com/t/717044) 
 - [2020-10-20-Windows图像解析Fuzzing一:颜色配置文件](https://sec.thief.one/article_content?a_id=ad03dd8d6d07909205c4b4a46c906e64) 
 - [2020-10-20-【视频】|-一个黑客的自白](https://sec.thief.one/article_content?a_id=5848c6511ce22aeff198d0057fbe6027) 

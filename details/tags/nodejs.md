@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 14:30:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 14:34:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -29,5 +29,4 @@
 - [2020-09-23-Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/29fa0a1bf73f5284b1a0b04a5c6bf2e5) 
 - [2020-09-22-运维的报表之路，用-Node.js-轻松发送-grafana-报表](https://www.ershicimi.com/p/23027332cbc0022f3ad9e9fac1ded4c6) 
 - [2020-09-20-CNodejs每日新闻周刊｜第-6-期](https://www.ershicimi.com/p/d497726d3508bc612d33b1bf38c2c7f1) 
-- [2020-10-13-排查-Node.js-服务内存泄漏，没想到竟是它？](https://www.ershicimi.com/p/935df501ec98dc8764906f49f4c49f97) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 

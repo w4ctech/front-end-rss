@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 00:40:11，:rocket: 更新条数: +3731， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 01:12:58，:rocket: 更新条数: +3733， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -967,11 +967,11 @@
 </summary>
 
 
+- [2020-10-20-React-v17.0-正式发布！](https://juejin.im/post/6885868639489589262) ![](assets/new.png)  
 - [2020-10-20-写给前端：让后端-CRUD-Boy-失业——-Nest.js-CRUD-教程](https://juejin.im/post/6885751452015263758) ![](assets/new.png)  
 - [2020-10-20-【持续更新】150+-个优质的-Node.js-包和资源](https://juejin.im/post/6885707465845899271) ![](assets/new.png)  
 - [2020-10-20-中后台前端搭建经验总结-技术细节篇（一）](https://juejin.im/post/6885678548971945997) ![](assets/new.png)  
 - [2020-10-20-webgl-实现透明视频-动画](https://juejin.im/post/6885673542642302984) ![](assets/new.png)  
-- [2020-10-20-TypeScript的另一面：类型编程](https://juejin.im/post/6885672896128090125) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,11 @@
 </summary>
 
 
+- [2020-10-21-你们看好坚果手机的未来吗？](https://www.v2ex.com/t/716922) ![](assets/new.png)  
+- [2020-10-21-不看星座的来看生肖](https://www.v2ex.com/t/716920) ![](assets/new.png)  
+- [2020-10-21-一个-go-问题请教](https://www.v2ex.com/t/716919) ![](assets/new.png)  
+- [2020-10-21-昨晚的坚果发布会各位看了吗？](https://www.v2ex.com/t/716918) ![](assets/new.png)  
+- [2020-10-21-你们-iphone12-有发货的了么](https://www.v2ex.com/t/716916) ![](assets/new.png)  
 - [2020-10-21-海蓝色和石墨色你们选哪个？](https://www.v2ex.com/t/716913) ![](assets/new.png)  
 - [2020-10-21-纠结了好久。-今天用代码算了下，-运势很好，-安排自己裸辞一波](https://www.v2ex.com/t/716912) ![](assets/new.png)  
 - [2020-10-20-请教个-Java-问题---微服务相关](https://www.v2ex.com/t/716911) ![](assets/new.png)  
@@ -1102,11 +1107,6 @@
 - [2020-10-20-MagSafe-这么强的吸力，每次都是从手机上拽下来的话，线多久会断？](https://www.v2ex.com/t/716892) ![](assets/new.png)  
 - [2020-10-20-nginx-的-cache-file-has-too-long-header-问题](https://www.v2ex.com/t/716891) ![](assets/new.png)  
 - [2020-10-20-预购了-iPhone12-蓝色的各位现在打算怎么办？](https://www.v2ex.com/t/716890) ![](assets/new.png)  
-- [2020-10-20-求此视频出处，求助全网兄弟](https://www.v2ex.com/t/716889) ![](assets/new.png)  
-- [2020-10-20-12-pro-和-pro-max-怎么选？](https://www.v2ex.com/t/716888) ![](assets/new.png)  
-- [2020-10-20-求推荐，特别能放空心灵的音频视频文件](https://www.v2ex.com/t/716887) ![](assets/new.png)  
-- [2020-10-20-趁双十一想换个电脑玩-2077，-8k-以下不带显示器，求建议](https://www.v2ex.com/t/716886) ![](assets/new.png)  
-- [2020-10-20-Gstreamer-尝试-rtmp-推流一直报错-rtmpsink0：无法打开资源写入](https://www.v2ex.com/t/716883) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,24 +1151,24 @@
 
 - [2020-10-21-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
 - [2020-10-21-傻白甜，约不约？](https://toutiao.io/k/s60lax4) ![](assets/new.png)  
-- [2020-10-21-疫情下的线上会议和社交](https://toutiao.io/k/ojgvqdo) ![](assets/new.png)  
-- [2020-10-21-Synchronized-的锁升级之路](https://toutiao.io/k/x6l8ntx) ![](assets/new.png)  
 - [2020-10-21-一份走心算法攻略，一份-20W-字刷题笔记](https://toutiao.io/k/l02akr0) ![](assets/new.png)  
+- [2020-10-21-Synchronized-的锁升级之路](https://toutiao.io/k/x6l8ntx) ![](assets/new.png)  
+- [2020-10-21-疫情下的线上会议和社交](https://toutiao.io/k/ojgvqdo) ![](assets/new.png)  
 - [2020-10-21-DDDplus-中台开发框架（痛点分析）](https://toutiao.io/k/pbiudrp) ![](assets/new.png)  
-- [2020-10-21-Linux-Capabilities-与容器的水乳交融](https://toutiao.io/k/k0ge33p) ![](assets/new.png)  
 - [2020-10-21-喜大普奔！GitHub-App-终于支持中文了，可尝鲜下载体验](https://toutiao.io/k/r18jxvu) ![](assets/new.png)  
+- [2020-10-21-Linux-Capabilities-与容器的水乳交融](https://toutiao.io/k/k0ge33p) ![](assets/new.png)  
 - [2020-10-21-数据平台服务化建设（三）：数据地图](https://toutiao.io/k/jsaue4v) ![](assets/new.png)  
 - [2020-10-21-你听过-CatBoost-吗？本文教你如何使用-CatBoost-进行快速梯度提升](https://toutiao.io/k/fr7dfqa) ![](assets/new.png)  
+- [2020-10-21-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [2020-10-21-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-21-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-21-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-21-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-21-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-21-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-21-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-21-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
 - [2020-10-21-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-21-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-21-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) ![](assets/new.png)  
+- [2020-10-21-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-21-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-21-推荐-关于-JWT-Token-自动续期的解决方案](https://toutiao.io/k/aszm22z) ![](assets/new.png)  
+- [2020-10-21-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-21-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-21-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 06:33:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 06:40:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -91,7 +91,6 @@
 - [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
 - [2020-10-20-深入理解styled-components运行机制](https://juejin.im/post/6885911421167599623) 
 - [2020-10-20-译内容安全策略提升-JavaScript-安全性](https://juejin.im/post/6885887317609807886) 
-- [2020-10-20-【JavaScript】来好好盘一盘闭包！](https://juejin.im/post/6885855016788181000) 
 - [2020-10-20-从-FormData-传参-到-JSON.stringify-再到-序列化与反序列化](https://juejin.im/post/6885726248039874573) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 

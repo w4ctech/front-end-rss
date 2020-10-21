@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 06:04:50，:rocket: 更新条数: +3750， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 06:16:41，:rocket: 更新条数: +3521， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-21-缅甸一议员因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM84Zzd3oTp62Nj5Bmaoj201021&isfromapp=1) ![](assets/new.png)  
+- [2020-10-21-截至10月20日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/417290.jhtml) ![](assets/new.png)  
+- [2020-10-21-截至10月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202010/25f1ff9f3fbb48f3a6fbf43881a08529.shtml) ![](assets/new.png)  
 - [2020-10-21-墨西哥新增5788例新冠肺炎确诊病例-累计确诊860714例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisuGuZJWLLjZgY0Olsp4q201021&isfromapp=1) ![](assets/new.png)  
 - [2020-10-20-巴西新冠肺炎确诊病例累计破527万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAUtvSSOqVs7MUeogcnUz201021&isfromapp=1) ![](assets/new.png)  
-- [2020-10-20-美国NFL宣布又添8名球员测试新冠阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwPVB7Pns1dLVqDntUcqZ201021&isfromapp=1) ![](assets/new.png)  
-- [2020-10-20-克罗地亚新冠肺炎新增确诊病例居高不下-1600余名医务人员感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEF8rY3YrCEYNoRmjQZIA201021&isfromapp=1) ![](assets/new.png)  
-- [2020-10-20-国家统计局：9月份商品住宅销售价格涨幅略有回落](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDqWSmrSRa8e3VrZnV50201020&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-21-Linux-如何计算-eMMC-的读写速度和内存的读写速度？用什么方式比较准确。](https://www.v2ex.com/t/717095) ![](assets/new.png)  
 - [2020-10-21-Merriam-Webster：有哪些英文词汇和你同一年出生的？](https://www.v2ex.com/t/717092) ![](assets/new.png)  
 - [2020-10-21-下一代手机，配得上下一代网页设计](https://www.v2ex.com/t/717089) ![](assets/new.png)  
 - [2020-10-21-想问下大家-2-年-Unity-该怎么转-Go-或者-Java-相关的-web-方向？](https://www.v2ex.com/t/717088) ![](assets/new.png)  
@@ -1106,7 +1087,6 @@
 - [2020-10-21-BIG-SUR-数个版本以来-imap-已发送邮件每次启动后都要全部重新下载或者是同步。。上万封邮件](https://www.v2ex.com/t/717073) ![](assets/new.png)  
 - [2020-10-21-看到个喜欢的桌子想定制实木款，有什么靠谱的渠道](https://www.v2ex.com/t/717072) ![](assets/new.png)  
 - [2020-10-21-怎么判断一个人的业务能力](https://www.v2ex.com/t/717069) ![](assets/new.png)  
-- [2020-10-21-腾讯企业邮箱转发-steam-邮件到-QQ-邮箱会被退回，有没有什么设置白名单的办法？](https://www.v2ex.com/t/717068) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

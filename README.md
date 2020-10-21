@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 13:39:48，:rocket: 更新条数: +3521， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 13:47:19，:rocket: 更新条数: +3473， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -951,7 +941,7 @@
 - [2020-10-21-朝花夕拾---2020-1024](https://juejin.im/post/6886000134732627981) ![](assets/new.png)  
 - [2020-10-21-H5如何与原生Appios,安卓,RN通信？](https://juejin.im/post/6885988193402159118) ![](assets/new.png)  
 - [2020-10-20-5分钟让你的应用接入-gitlab](https://juejin.im/post/6885956413940563976) ![](assets/new.png)  
-- [2020-10-20-几行代码教你解决微信生成海报及二维码](https://juejin.im/post/6885952653075939335) ![](assets/new.png)  
+- [2020-09-19-前端国际化辅助工具——自动替换中文并翻译](https://juejin.im/post/6874421714143412237) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,26 +1057,6 @@
 </summary>
 
 
-- [2020-10-21-最近想换手机,预算三千多,有啥推荐吗?](https://www.v2ex.com/t/717247) ![](assets/new.png)  
-- [2020-10-21-不懂就问，想用树莓派做一个无人机-有文章可以参考吗？](https://www.v2ex.com/t/717245) ![](assets/new.png)  
-- [2020-10-21-19-年毕业生待业一年后求职迷茫，求前辈们给点建议](https://www.v2ex.com/t/717244) ![](assets/new.png)  
-- [2020-10-21-黑帕云-像-Excel-一样熟悉，又像数据库一样强大](https://www.v2ex.com/t/717242) ![](assets/new.png)  
-- [2020-10-21-iOS-14.1-挂不住后台啊](https://www.v2ex.com/t/717241) ![](assets/new.png)  
-- [2020-10-21-北京-神策数据-大数据领域-招聘测试-/-测试开发工程师多名亦提供优质实习生岗位](https://www.v2ex.com/t/717239) ![](assets/new.png)  
-- [2020-10-21-招银网络科技的-offer-值不值得接](https://www.v2ex.com/t/717237) ![](assets/new.png)  
-- [2020-10-21-简书的堕落之后，国内还有什么能用的博客平台？](https://www.v2ex.com/t/717235) ![](assets/new.png)  
-- [2020-10-21-买要趁早？听说年底要上京东方的屏幕](https://www.v2ex.com/t/717234) ![](assets/new.png)  
-- [2020-10-21-web-框架-DuckPhp-1.2.7-发布——你需要个不写路由表的框架么](https://www.v2ex.com/t/717233) ![](assets/new.png)  
-- [2020-10-21-备受打击后,-想要放弃码农岗位,-求-v-友建议](https://www.v2ex.com/t/717232) ![](assets/new.png)  
-- [2020-10-21-作为程序员，人生有多种可能，甘心一辈子做一件事情吗？如果可以选择第二职业，那么你会做啥呢？](https://www.v2ex.com/t/717231) ![](assets/new.png)  
-- [2020-10-21-作业帮-北京-诚招搜索/推荐系统开发工程师](https://www.v2ex.com/t/717230) ![](assets/new.png)  
-- [2020-10-21-flutter-视频聊天](https://www.v2ex.com/t/717229) ![](assets/new.png)  
-- [2020-10-21-双十一想买个音箱，求推荐](https://www.v2ex.com/t/717228) ![](assets/new.png)  
-- [2020-10-21-吃瓜-某公司-9.30-号强制应届生离职](https://www.v2ex.com/t/717227) ![](assets/new.png)  
-- [2020-10-21-reeder-老版本还下架了](https://www.v2ex.com/t/717225) ![](assets/new.png)  
-- [2020-10-21-1&2-字符.lu-域名竞价拍卖接受报名](https://www.v2ex.com/t/717224) ![](assets/new.png)  
-- [2020-10-21-feign-如何动态添加多个-header](https://www.v2ex.com/t/717223) ![](assets/new.png)  
-- [2020-10-21-GT610-都可以玩什么游戏](https://www.v2ex.com/t/717222) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,8 +1104,8 @@
 - [2020-10-21-DDDplus-中台开发框架（痛点分析）](https://toutiao.io/k/pbiudrp) ![](assets/new.png)  
 - [2020-10-21-疫情下的线上会议和社交](https://toutiao.io/k/ojgvqdo) ![](assets/new.png)  
 - [2020-10-21-Synchronized-的锁升级之路](https://toutiao.io/k/x6l8ntx) ![](assets/new.png)  
-- [2020-10-21-一份走心算法攻略，一份-20W-字刷题笔记](https://toutiao.io/k/l02akr0) ![](assets/new.png)  
 - [2020-10-21-Hadoop-框架：HDFS-读写机制与-API-详解](https://toutiao.io/k/i15zc80) ![](assets/new.png)  
+- [2020-10-21-一份走心算法攻略，一份-20W-字刷题笔记](https://toutiao.io/k/l02akr0) ![](assets/new.png)  
 - [2020-10-21-喜大普奔！GitHub-App-终于支持中文了，可尝鲜下载体验](https://toutiao.io/k/r18jxvu) ![](assets/new.png)  
 - [2020-10-21-数据平台服务化建设（三）：数据地图](https://toutiao.io/k/jsaue4v) ![](assets/new.png)  
 - [2020-10-21-Linux-Capabilities-与容器的水乳交融](https://toutiao.io/k/k0ge33p) ![](assets/new.png)  

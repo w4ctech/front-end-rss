@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-21 08:04:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 08:16:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -399,7 +399,6 @@
 - [【开发者头条】译-.NET-应用程序-7-种最常见的性能问题及其解决方案](https://toutiao.io/k/ekw95p5)
 - [【开发者头条】Impala-在网易大数据的优化和实践](https://toutiao.io/k/0vfqlgs)
 - [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
-- [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -459,7 +458,6 @@
 - [【全栈前端精选】全栈前端技术交流吐槽⑤群](https://www.ershicimi.com/p/82fb1cc16d4b8abd68ec1e5c14734489)
 - [【全栈前端精选】全栈前端技术交流吐槽⑤群](https://www.ershicimi.com/p/cacfb5cea4f82b73f1ece03f8aa3b69e)
 - [【前端瓶子君】GitHub：再见，master！](https://www.ershicimi.com/p/f03837ba3ed7d53fd8b785002973f87a)
-- [【V2EX】成都字节跳动-长期有效抖音团队招新，安卓、iOS、测试、后端及全栈都有，全程跟踪，随时查进度。](https://www.v2ex.com/t/717096)
 - [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】一份走心算法攻略，一份-20W-字刷题笔记](https://toutiao.io/k/l02akr0)

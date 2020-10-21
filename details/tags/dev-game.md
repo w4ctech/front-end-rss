@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 11:29:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 11:34:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,4 +7,5 @@
 
 
 
+- [2020-10-21-GT610-都可以玩什么游戏](https://www.v2ex.com/t/717222) 
 - [2020-10-20-Linux系统中玩到让你停不下来的命令行游戏!](https://sec.thief.one/article_content?a_id=d2b9e5a44f8115b048bb50877ffa8bac) 

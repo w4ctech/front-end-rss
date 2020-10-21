@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 11:29:04，:rocket: 更新条数: +3511， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 11:34:19，:rocket: 更新条数: +1363， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,24 +66,24 @@
 
 - [2020-10-20-最新疫情：全国新冠累计确诊85715例-新增境外输入11例](https://m.caixin.com/m/2020-10-21/101617131.html) ![](assets/new.png)  
 - [2020-10-20-最新海外疫情：新冠感染超4059万-累计死亡近112万](https://m.caixin.com/m/2020-10-21/101617151.html) ![](assets/new.png)  
-- [2020-10-20-【境内疫情观察】全国新增11例境外输入病例（10月20日）](http://m.database.caixin.com/m/2020-10-21/101617043.html) ![](assets/new.png)  
-- [2020-10-20-大流行手记|10月20日：俄罗斯日增确诊创新高-阿根廷病例过百万居第五](https://m.caixin.com/m/2020-10-21/101616932.html) ![](assets/new.png)  
-- [2020-10-20-世卫警示民众抗疫疲劳加剧-吁欧美学习亚洲防疫经验](http://m.international.caixin.com/m/2020-10-21/101617217.html) ![](assets/new.png)  
-- [2020-10-19-【境内疫情观察】全国新增19例境外输入病例（10月19日）](http://m.database.caixin.com/m/2020-10-20/101616600.html) ![](assets/new.png)  
-- [2020-10-19-大流行手记|10月19日：全球感染突破4000万-印度3亿人获疫苗优先接种机会](https://m.caixin.com/m/2020-10-20/101616494.html) ![](assets/new.png)  
 - [2020-10-18-特写|新冠疫苗紧急使用人群继续扩大](https://m.caixin.com/m/2020-10-19/101616151.html) ![](assets/new.png)  
 - [2020-10-18-高福：青岛冷链食品外包装首次分离新冠活病毒意义何在](https://m.caixin.com/m/2020-10-19/101615998.html) ![](assets/new.png)  
-- [2020-10-18-【境内疫情观察】全国新增13例境外输入病例（10月18日）](http://m.database.caixin.com/m/2020-10-19/101616154.html) ![](assets/new.png)  
-- [2020-10-18-大流行手记|10月18日：全球单日新增病例连创新高-法国巴黎等地再宵禁](https://m.caixin.com/m/2020-10-19/101616004.html) ![](assets/new.png)  
 - [2020-10-17-青岛冷链食品外包装首次分离新冠活病毒-中疾控提示风险](https://m.caixin.com/m/2020-10-18/101615901.html) ![](assets/new.png)  
-- [2020-10-17-【境内疫情观察】全国新增13例境外输入病例（10月17日）](http://m.database.caixin.com/m/2020-10-18/101615934.html) ![](assets/new.png)  
-- [2020-10-17-大流行手记|10月17日：世卫称瑞德西韦等药物疗效甚微-中东疫情高位增长](https://m.caixin.com/m/2020-10-18/101615905.html) ![](assets/new.png)  
-- [2020-10-16-【境内疫情观察】广州花都新增1例境外输入关联的无症状感染者（10月16日）](http://m.database.caixin.com/m/2020-10-17/101615832.html) ![](assets/new.png)  
-- [2020-10-16-大流行手记|10月16日：美国病例超800万《自然》谴责特朗普践踏科学](https://m.caixin.com/m/2020-10-17/101615725.html) ![](assets/new.png)  
 - [2020-10-15-青岛疫情源头查明-被感染码头工人与普通病区患者共用CT所致](https://m.caixin.com/m/2020-10-16/101615349.html) ![](assets/new.png)  
 - [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) ![](assets/new.png)  
-- [2020-10-15-【境内疫情观察】青岛疫情由患者共用CT室引发（10月15日）](http://m.database.caixin.com/m/2020-10-16/101615364.html) ![](assets/new.png)  
-- [2020-10-15-大流行手记|10月15日：伦敦调高封锁级别-印度感染者或超美国](https://m.caixin.com/m/2020-10-16/101615246.html) ![](assets/new.png)  
+- [2020-10-14-青岛疫情追责启动-市卫健委主任隋振华被停职](https://m.caixin.com/m/2020-10-15/101614928.html) ![](assets/new.png)  
+- [2020-10-13-独家|青岛疫情或源于早前码头工人感染-专家称暂未发现社区传播](https://m.caixin.com/m/2020-10-14/101614662.html) ![](assets/new.png)  
+- [2020-10-12-青岛机场因疫情航班取消过半-多地排查青岛来返人员](https://m.caixin.com/m/2020-10-13/101614277.html) ![](assets/new.png)  
+- [2020-10-11-青岛新冠阳性患者增至12人-5日内完成全市900多万人核酸检测](https://m.caixin.com/m/2020-10-12/101613800.html) ![](assets/new.png)  
+- [2020-10-11-青岛新增核酸检测阳性9人-其中4例为确诊病例](https://m.caixin.com/m/2020-10-12/101613557.html) ![](assets/new.png)  
+- [2020-10-10-青岛新增3例无症状感染者-初步判断与市胸科医院相关联](http://m.china.caixin.com/m/2020-10-11/101613457.html) ![](assets/new.png)  
+- [2020-09-28-香港本地新增病例再次归零-内地港人回港有望豁免隔离](https://m.caixin.com/m/2020-09-29/101611214.html) ![](assets/new.png)  
+- [2020-09-24-青岛2名装卸工人感染新冠肺炎-属无症状感染者](http://m.china.caixin.com/m/2020-09-25/101609353.html) ![](assets/new.png)  
+- [2020-09-21-香港新冠超级传播事件启示：19%病例或成防疫关键](https://m.caixin.com/m/2020-09-22/101608361.html) ![](assets/new.png)  
+- [2020-09-21-云南瑞丽“解封”-中缅边境管控压力仍大](https://m.caixin.com/m/2020-09-22/101607895.html) ![](assets/new.png)  
+- [2020-09-18-北京新增1例无症状感染者-为甘肃籍巴基斯坦留学生](https://m.caixin.com/m/2020-09-19/101607298.html) ![](assets/new.png)  
+- [2020-09-14-香港本地新增病例归零-港府全民检测支出约5.3亿港元](http://m.china.caixin.com/m/2020-09-15/101605633.html) ![](assets/new.png)  
+- [2020-09-14-云南瑞丽因新冠疫情“封城”-已开展全市核酸筛查](http://m.china.caixin.com/m/2020-09-15/101605625.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -937,9 +937,9 @@
 </summary>
 
 
+- [2020-10-21-当我谈-Rax-按端拆分代码的时候我谈些什么](https://juejin.im/post/6886031972884774925) ![](assets/new.png)  
 - [2020-10-21-朝花夕拾---2020-1024](https://juejin.im/post/6886000134732627981) ![](assets/new.png)  
 - [2020-10-21-H5如何与原生Appios,安卓,RN通信？](https://juejin.im/post/6885988193402159118) ![](assets/new.png)  
-- [2020-10-20-关于低代码-low-code-这回事](https://juejin.im/post/6885973728489340936) ![](assets/new.png)  
 - [2020-10-20-5分钟让你的应用接入-gitlab](https://juejin.im/post/6885956413940563976) ![](assets/new.png)  
 - [2020-10-20-几行代码教你解决微信生成海报及二维码](https://juejin.im/post/6885952653075939335) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -1057,6 +1057,9 @@
 </summary>
 
 
+- [2020-10-21-feign-如何动态添加多个-header](https://www.v2ex.com/t/717223) ![](assets/new.png)  
+- [2020-10-21-GT610-都可以玩什么游戏](https://www.v2ex.com/t/717222) ![](assets/new.png)  
+- [2020-10-21-求推荐人均-100-以内的健康外卖](https://www.v2ex.com/t/717221) ![](assets/new.png)  
 - [2020-10-21-美团北京后端开发-业务框架研发工程师/技术专家](https://www.v2ex.com/t/717220) ![](assets/new.png)  
 - [2020-10-21-各位老哥，你们前端页面、接口和-APP-都用上了自动化测试吗](https://www.v2ex.com/t/717219) ![](assets/new.png)  
 - [2020-10-21-大家都是怎么做代码优化的](https://www.v2ex.com/t/717218) ![](assets/new.png)  
@@ -1074,9 +1077,6 @@
 - [2020-10-21-MBP-2019-款，鼓包换新，是换-19-款还是-20-款？](https://www.v2ex.com/t/717200) ![](assets/new.png)  
 - [2020-10-21-问我任何问题：-NingJeng,-前苹果公司-iPhone-工程项目经理-Engineering-Program-Manager](https://www.v2ex.com/t/717199) ![](assets/new.png)  
 - [2020-10-21-酷喵-129-一年](https://www.v2ex.com/t/717198) ![](assets/new.png)  
-- [2020-10-21-京东-100-元卷满-119-可用（限个人护理用品）有人要吗？](https://www.v2ex.com/t/717197) ![](assets/new.png)  
-- [2020-10-21-西安-SAP-招聘](https://www.v2ex.com/t/717196) ![](assets/new.png)  
-- [2020-10-21-_:з」∠_-默默更新一波~如何打破小程序-2M-魔咒？](https://www.v2ex.com/t/717194) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

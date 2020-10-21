@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 12:55:10，:rocket: 更新条数: +3523， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 13:04:05，:rocket: 更新条数: +3522， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,8 @@
 </summary>
 
 
+- [2020-10-21-iOS-14.1-挂不住后台啊](https://www.v2ex.com/t/717241) ![](assets/new.png)  
+- [2020-10-21-北京-神策数据-大数据领域-招聘测试-/-测试开发工程师多名亦提供优质实习生岗位](https://www.v2ex.com/t/717239) ![](assets/new.png)  
 - [2020-10-21-招银网络科技的-offer-值不值得接](https://www.v2ex.com/t/717237) ![](assets/new.png)  
 - [2020-10-21-简书的堕落之后，国内还有什么能用的博客平台？](https://www.v2ex.com/t/717235) ![](assets/new.png)  
 - [2020-10-21-买要趁早？听说年底要上京东方的屏幕](https://www.v2ex.com/t/717234) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-21-美团北京后端开发-业务框架研发工程师/技术专家](https://www.v2ex.com/t/717220) ![](assets/new.png)  
 - [2020-10-21-各位老哥，你们前端页面、接口和-APP-都用上了自动化测试吗](https://www.v2ex.com/t/717219) ![](assets/new.png)  
 - [2020-10-21-大家都是怎么做代码优化的](https://www.v2ex.com/t/717218) ![](assets/new.png)  
-- [2020-10-21-求前端大佬指导一下！](https://www.v2ex.com/t/717217) ![](assets/new.png)  
-- [2020-10-21-寻找两种特殊用途的图床](https://www.v2ex.com/t/717216) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,8 +1141,8 @@
 - [2020-10-21-Linux-Capabilities-与容器的水乳交融](https://toutiao.io/k/k0ge33p) ![](assets/new.png)  
 - [2020-10-21-你听过-CatBoost-吗？本文教你如何使用-CatBoost-进行快速梯度提升](https://toutiao.io/k/fr7dfqa) ![](assets/new.png)  
 - [2020-10-21-《编程格调》：30-条代码风格帮你更好撸代码](https://toutiao.io/k/xmxoypv) ![](assets/new.png)  
-- [2020-10-21-IT-双职工赢在起跑线​，还怕未来吗？](https://toutiao.io/k/v4rpw5h) ![](assets/new.png)  
 - [2020-10-21-译-Go-中的-Goroutine-和其他并发处理方案的对比](https://toutiao.io/k/rhzp4sp) ![](assets/new.png)  
+- [2020-10-21-IT-双职工赢在起跑线​，还怕未来吗？](https://toutiao.io/k/v4rpw5h) ![](assets/new.png)  
 - [2020-10-21-AST-详解与运用](https://toutiao.io/k/m2hv6fn) ![](assets/new.png)  
 - [2020-10-21-译-.NET-应用程序-7-种最常见的性能问题及其解决方案](https://toutiao.io/k/ekw95p5) ![](assets/new.png)  
 - [2020-10-21-字节码增强：原理与实战](https://toutiao.io/k/9st7kdv) ![](assets/new.png)  
@@ -1160,6 +1160,8 @@
 </summary>
 
 
+- [2020-10-21-谷歌和Oralce先后致谢奇安信安全团队](https://sec.thief.one/article_content?a_id=02b2bf377bd45a8bbc429ac7483a39f5) ![](assets/new.png)  
+- [2020-10-21-区块链赋能供应链金融|应用优势与四类常见模式](https://sec.thief.one/article_content?a_id=0b42cf1e3e518da00991975c3524b566) ![](assets/new.png)  
 - [2020-10-21-2020网络安全分析与情报大会开幕,明日精彩继续](https://sec.thief.one/article_content?a_id=5bae45262ac48b9147aa9b8e29356acf) ![](assets/new.png)  
 - [2020-10-21-复试直通卡+现金奖励,ByteHACK挖洞大赛等你来战!](https://sec.thief.one/article_content?a_id=ad446b328960240dadffd986422f10fe) ![](assets/new.png)  
 - [2020-10-21-转发抽奖-|-西湖论剑品质论坛议题-&-赞助商-&-合作伙伴征集正式启动!](https://sec.thief.one/article_content?a_id=355c4f9ab704bd2d35c4263f772875eb) ![](assets/new.png)  
@@ -1178,8 +1180,6 @@
 - [2020-10-21-诸子星球-|-微话题:基于现在的中美关系,ips/ids设备大家会选国产么?](https://sec.thief.one/article_content?a_id=637814c957fd15cec118142cc2cdf6cb) ![](assets/new.png)  
 - [2020-10-21-赢在起点:国舜情景式安全需求分析平台助推全生命周期安全开发](https://sec.thief.one/article_content?a_id=d1893c1667dc6496db2eafce37e51d9c) ![](assets/new.png)  
 - [2020-10-21-深入聊聊网络安全服务——《谭校有鸿儒》第二期](https://sec.thief.one/article_content?a_id=38d515c25c9df74b38d328c88ea2efa0) ![](assets/new.png)  
-- [2020-10-21-CME数据表明,机构看涨情绪高涨,但对冲基金看跌比特币](https://sec.thief.one/article_content?a_id=42a57484f9cccfc782c7eb6d45ece735) ![](assets/new.png)  
-- [2020-10-21-10月21日币圈早内参-BTC再度突破12000-波场开启刚性1:1兑付](https://sec.thief.one/article_content?a_id=55f0e699ebf783aeeed27c0e7879943f) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

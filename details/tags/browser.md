@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 12:55:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 13:04:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,11 +39,11 @@
 - [2020-10-19-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/e3ee1b93362990a169a0ea0f52f36e54) 
 - [2020-10-17-一次近乎完美的PostgreSQL版本大升级实践](https://www.ershicimi.com/p/bdbd6ab5d3046f4bc8eedbbc123225f1) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-10-21-鹅厂北京/深圳-数据安全团队找前端后台的同学啦！](https://www.v2ex.com/t/717190) 
 - [2020-10-21-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-21-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-21-Linux-Capabilities-与容器的水乳交融](https://toutiao.io/k/k0ge33p) 
 - [2020-10-21-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
+- [2020-10-21-谷歌和Oralce先后致谢奇安信安全团队](https://sec.thief.one/article_content?a_id=02b2bf377bd45a8bbc429ac7483a39f5) 
 - [2020-10-21-2020网络安全分析与情报大会开幕,明日精彩继续](https://sec.thief.one/article_content?a_id=5bae45262ac48b9147aa9b8e29356acf) 
 - [2020-10-21-Chrome-86.0.4240.111已修复CVE-2020-15999零日漏洞](https://sec.thief.one/article_content?a_id=a6743d00f9affe33d3626d88a804df73) 
 - [2020-10-21-iOS-14.1/iPadOS-14.1发布;Safari等浏览器被爆存在漏洞;...](https://sec.thief.one/article_content?a_id=aae600e220792c69c68d2fb3fc2b5c62) 
@@ -70,4 +70,3 @@
 - [2020-10-19-binaryedge脆弱目标提取工具](https://sec.thief.one/article_content?a_id=66cb35e5a969a142bbaaaafb096d6edc) 
 - [2020-10-19-Urlbuster:一款支持爆破的可变异Web目录模糊测试工具](https://sec.thief.one/article_content?a_id=1c8a0742f813cc602638bbd35d0162b6) 
 - [2020-10-19-中国样本|绿盟云安全解决方案荣获ICT中国创新奖](https://sec.thief.one/article_content?a_id=b6f393c1e61b8b2c6d1a29d664a091b4) 
-- [2020-10-19-重磅-|-近期网络安全相关监管法规、行业标准、地方政策关注](https://sec.thief.one/article_content?a_id=3902c32f4ea7257965eb80645919d529) 

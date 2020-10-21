@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 23:28:45，:rocket: 更新条数: +3728， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 23:34:48，:rocket: 更新条数: +3729， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-21-捷克新冠肺炎确诊病例累计超20万-捷克再次颁布“封锁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyZyqvP0LMWjgI0L695RC201022&isfromapp=1) ![](assets/new.png)  
 - [2020-10-21-世卫组织：全球新冠肺炎确诊病例超过4066万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O3QpuDg35V7zu4ovYFm201022&isfromapp=1) ![](assets/new.png)  
 - [2020-10-21-世卫组织：全球新冠肺炎确诊病例超4045万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7gUaH78tgNBQ5YUmi7cD201021&isfromapp=1) ![](assets/new.png)  
 - [2020-10-21-欧洲宵禁前后对比-“夜巴黎-”不见了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifTuUPdwV8J9GDQC9FCjK201021&isfromapp=1) ![](assets/new.png)  
 - [2020-10-21-总结中国防疫经验！美媒：中国第三季度经济数据表明中国经济正在快速复苏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilEx6vdVVWfab2sLBddc0201021&isfromapp=1) ![](assets/new.png)  
-- [2020-10-21-缅甸一议员因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM84Zzd3oTp62Nj5Bmaoj201021&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,8 @@
 </summary>
 
 
+- [2020-10-21-31-岁了，迷茫的码农](https://www.v2ex.com/t/717288) ![](assets/new.png)  
+- [2020-10-21-k8s-patch-deployment-的-image-和-imagePullSecrets-的方法](https://www.v2ex.com/t/717287) ![](assets/new.png)  
 - [2020-10-21-21-届专科生，至今很迷茫，希望前辈们能够指点迷津](https://www.v2ex.com/t/717286) ![](assets/new.png)  
 - [2020-10-21-要是微信能发静音消息就好了](https://www.v2ex.com/t/717285) ![](assets/new.png)  
 - [2020-10-21-求推荐远程开发平台](https://www.v2ex.com/t/717284) ![](assets/new.png)  
@@ -1105,8 +1107,6 @@
 - [2020-10-21-网易游戏梦幻事业部-社招内推](https://www.v2ex.com/t/717268) ![](assets/new.png)  
 - [2020-10-21-准备给老家买台台式机，下面几个家用的话哪台性价比好点？这种配置的性能怎么样？-家用的话。](https://www.v2ex.com/t/717267) ![](assets/new.png)  
 - [2020-10-21-网易游戏技术中心-社招内推](https://www.v2ex.com/t/717266) ![](assets/new.png)  
-- [2020-10-21-软件测试和游戏测试，哪个职业发展空间更大？](https://www.v2ex.com/t/717264) ![](assets/new.png)  
-- [2020-10-21-北京-猿辅导基础架构---大监控方向-Tech-Leader](https://www.v2ex.com/t/717263) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,21 +1151,21 @@
 
 - [2020-10-21-困在内卷里的工程师-|-码农周刊第-322-期](https://toutiao.io/k/mb7u8g0) ![](assets/new.png)  
 - [2020-10-21-RTE-2020-实时互联网大会参会指南——今天我们线上见！](https://toutiao.io/k/bd86jqe) ![](assets/new.png)  
-- [2020-10-21-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-21-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-21-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-21-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-21-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-21-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-21-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-21-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-21-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-21-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-21-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-21-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
 - [2020-10-21-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-21-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-21-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-21-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-21-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-21-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-21-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
 - [2020-10-21-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-21-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-21-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-21-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-21-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-21-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-21-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-21-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-21-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

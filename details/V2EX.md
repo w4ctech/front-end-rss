@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-21 23:28:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 23:34:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-21-31-岁了，迷茫的码农](https://www.v2ex.com/t/717288) 
+- [2020-10-21-k8s-patch-deployment-的-image-和-imagePullSecrets-的方法](https://www.v2ex.com/t/717287) 
 - [2020-10-21-21-届专科生，至今很迷茫，希望前辈们能够指点迷津](https://www.v2ex.com/t/717286) 
 - [2020-10-21-要是微信能发静音消息就好了](https://www.v2ex.com/t/717285) 
 - [2020-10-21-求推荐远程开发平台](https://www.v2ex.com/t/717284) 
@@ -38,4 +40,3 @@
 - [2020-10-21-黑帕云-像-Excel-一样熟悉，又像数据库一样强大](https://www.v2ex.com/t/717242) 
 - [2020-10-21-iOS-14.1-挂不住后台啊](https://www.v2ex.com/t/717241) 
 - [2020-10-21-北京-神策数据-大数据领域-招聘测试-/-测试开发工程师多名亦提供优质实习生岗位](https://www.v2ex.com/t/717239) 
-- [2020-10-21-招银网络科技的-offer-值不值得接](https://www.v2ex.com/t/717237) 

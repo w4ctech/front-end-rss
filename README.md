@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 16:19:43，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 16:39:11，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -885,6 +885,12 @@
 </summary>
 
 
+- [2020-10-21-三周年特惠，全场专栏「首单1元」限时秒杀！｜-极客时间](https://www.ershicimi.com/p/0add62516f7d07838f981b5a95532365) ![](assets/new.png)  
+- [2020-10-21-作为创始人，我不小心删除了生产数据库，还跑路吗？](https://www.ershicimi.com/p/30474ffb422c03605f96b07607bf1c00) ![](assets/new.png)  
+- [2020-10-21-华为云“对话机器人”成长指南已送达](https://www.ershicimi.com/p/fb7c3000bae2169109def3353e338608) ![](assets/new.png)  
+- [2020-10-21-核心特性全新升级！巨杉数据库5.0将正式发布](https://www.ershicimi.com/p/f20c135d40a5bf84ed424d4f0c062af1) ![](assets/new.png)  
+- [2020-10-21-你必须知道的11个微前端框架](https://www.ershicimi.com/p/f29fbb332203bd0a9ba928b28bdf22c4) ![](assets/new.png)  
+- [2020-10-21-VS-Code会“一统江湖”吗？](https://www.ershicimi.com/p/bb23655b682343b991ed877612cd8c27) ![](assets/new.png)  
 - [2020-10-20-AWS分叉了我的开源项目，但他们连声感谢也没说](https://www.ershicimi.com/p/97bfff4a0ef60c6a1e75792800742948) ![](assets/new.png)  
 - [2020-10-20-旷视研究院田忠博：中国缺少重量级的开源项目，国产开源需要更加自信](https://www.ershicimi.com/p/585795cda394273ebb22ce13dfab1f92) ![](assets/new.png)  
 - [2020-10-20-云上创新，Azure当道-|-Q推荐](https://www.ershicimi.com/p/28be100dfa76a51810984ff9d554c387) ![](assets/new.png)  
@@ -899,12 +905,6 @@
 - [2020-10-18-小心“移植税”：Kubernetes不能使应用程序具有可移植性](https://www.ershicimi.com/p/3d8cc25e5804aa87910d64601b618884) ![](assets/new.png)  
 - [2020-10-18-73个强无敌的NPM软件包](https://www.ershicimi.com/p/8157184ce0103a1fa715462a981eca1d) ![](assets/new.png)  
 - [2020-10-18-跨越重重“障碍”，我从-PyTorch-转换为了-TensorFlow-Lite](https://www.ershicimi.com/p/cedd79a4f44de5ab79311adc5ee33ef7) ![](assets/new.png)  
-- [2020-10-17-报告：北京80后平均月薪最高，达21411元；iPhone12首批货已售罄；淘宝台湾年底将结束运营｜](https://www.ershicimi.com/p/f6000a8d29d3ea8a82b62811c21504da) ![](assets/new.png)  
-- [2020-10-17-CEO首次分享：极客邦13年成长复盘-｜-极客时间](https://www.ershicimi.com/p/2f7620559fb58a4f9ff36e9cbb8fb074) ![](assets/new.png)  
-- [2020-10-17-Google-Cloud-对话-PingCAP，探索-TiDB-核心数据库的上云秘籍-｜-Q推荐](https://www.ershicimi.com/p/3184a678527315f00834b710140877c7) ![](assets/new.png)  
-- [2020-10-17-一次近乎完美的PostgreSQL版本大升级实践](https://www.ershicimi.com/p/bdbd6ab5d3046f4bc8eedbbc123225f1) ![](assets/new.png)  
-- [2020-10-17-如何将你的Python项目全面自动化？](https://www.ershicimi.com/p/89dfa29aad96730afeaab2edfa86ee05) ![](assets/new.png)  
-- [2020-10-16-当程序员变身为黑客，现役程序员表示：我太难了！](https://www.ershicimi.com/p/9f523a3754f1ce2bcc0e77ef68da3165) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-21-求助:nas-数据恢复](https://www.v2ex.com/t/717275) ![](assets/new.png)  
 - [2020-10-21-20201021-午夜俱乐部](https://www.v2ex.com/t/717274) ![](assets/new.png)  
 - [2020-10-21-如何实现网页实时显示分组团队成员](https://www.v2ex.com/t/717273) ![](assets/new.png)  
 - [2020-10-21-内推内推](https://www.v2ex.com/t/717272) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-21-数据恢复-这种小-U-盘几百能搞定吗？寄过去一家检测完说要-1k6，我又退回来了](https://www.v2ex.com/t/717250) ![](assets/new.png)  
 - [2020-10-21-亲爱的，谁知道那里有滤蓝光的眼镜贴膜卖](https://www.v2ex.com/t/717249) ![](assets/new.png)  
 - [2020-10-21-最近想换手机,预算三千多,有啥推荐吗?](https://www.v2ex.com/t/717247) ![](assets/new.png)  
-- [2020-10-21-不懂就问，想用树莓派做一个无人机-有文章可以参考吗？](https://www.v2ex.com/t/717245) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

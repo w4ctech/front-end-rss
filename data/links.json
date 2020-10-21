@@ -16272,6 +16272,36 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "三周年特惠，全场专栏「首单1元」限时秒杀！｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/0add62516f7d07838f981b5a95532365",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "作为创始人，我不小心删除了生产数据库，还跑路吗？",
+        "link": "https://www.ershicimi.com/p/30474ffb422c03605f96b07607bf1c00",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "华为云“对话机器人”成长指南已送达",
+        "link": "https://www.ershicimi.com/p/fb7c3000bae2169109def3353e338608",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "核心特性全新升级！巨杉数据库5.0将正式发布",
+        "link": "https://www.ershicimi.com/p/f20c135d40a5bf84ed424d4f0c062af1",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "你必须知道的11个微前端框架",
+        "link": "https://www.ershicimi.com/p/f29fbb332203bd0a9ba928b28bdf22c4",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "VS Code会“一统江湖”吗？",
+        "link": "https://www.ershicimi.com/p/bb23655b682343b991ed877612cd8c27",
+        "date": "2020-10-21"
+      },
+      {
         "title": "AWS分叉了我的开源项目，但他们连声感谢也没说",
         "link": "https://www.ershicimi.com/p/97bfff4a0ef60c6a1e75792800742948",
         "date": "2020-10-20"
@@ -16340,36 +16370,6 @@
         "title": "跨越重重“障碍”，我从 PyTorch 转换为了 TensorFlow Lite",
         "link": "https://www.ershicimi.com/p/cedd79a4f44de5ab79311adc5ee33ef7",
         "date": "2020-10-18"
-      },
-      {
-        "title": "报告：北京80后平均月薪最高，达21411元；iPhone12首批货已售罄；淘宝台湾年底将结束运营｜",
-        "link": "https://www.ershicimi.com/p/f6000a8d29d3ea8a82b62811c21504da",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "CEO首次分享：极客邦13年成长复盘 ｜ 极客时间",
-        "link": "https://www.ershicimi.com/p/2f7620559fb58a4f9ff36e9cbb8fb074",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "Google Cloud 对话 PingCAP，探索 TiDB 核心数据库的上云秘籍 ｜ Q推荐",
-        "link": "https://www.ershicimi.com/p/3184a678527315f00834b710140877c7",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "一次近乎完美的PostgreSQL版本大升级实践",
-        "link": "https://www.ershicimi.com/p/bdbd6ab5d3046f4bc8eedbbc123225f1",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "如何将你的Python项目全面自动化？",
-        "link": "https://www.ershicimi.com/p/89dfa29aad96730afeaab2edfa86ee05",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "当程序员变身为黑客，现役程序员表示：我太难了！",
-        "link": "https://www.ershicimi.com/p/9f523a3754f1ce2bcc0e77ef68da3165",
-        "date": "2020-10-16"
       }
     ]
   },
@@ -16895,6 +16895,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求助:nas 数据恢复",
+        "link": "https://www.v2ex.com/t/717275",
+        "date": "2020-10-21"
+      },
+      {
         "title": "20201021 午夜俱乐部",
         "link": "https://www.v2ex.com/t/717274",
         "date": "2020-10-21"
@@ -17062,11 +17067,6 @@
       {
         "title": "[吃瓜] 某公司 9.30 号强制应届生离职",
         "link": "https://www.v2ex.com/t/717227",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "reeder 老版本还下架了",
-        "link": "https://www.v2ex.com/t/717225",
         "date": "2020-10-21"
       }
     ]
@@ -17284,8 +17284,48 @@
         "date": "2020-10-21"
       },
       {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-21"
+      },
+      {
         "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
         "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
         "date": "2020-10-21"
       },
       {
@@ -17299,26 +17339,6 @@
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-21"
-      },
-      {
         "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
         "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-21"
@@ -17329,33 +17349,13 @@
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-21"
-      },
-      {
         "title": "[推荐] Paxos 分布式必问的内容，没有之一",
         "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-21"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-21"
       }
     ]

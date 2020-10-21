@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 20:49:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 21:03:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -29,7 +29,6 @@
 - [2020-10-15-从Vue-SSR原理讲起，教你从零搭建Vue-SSR](https://www.ershicimi.com/p/02d0230104fa7aa75d19789cc242669d) 
 - [2020-10-13-Vue-第一次-commit-原来是这个样子](https://www.ershicimi.com/p/80264d3035f30f101b4ca738bec5ce9a) 
 - [2020-10-12-Vue-项目中各种痛点问题及方案](https://www.ershicimi.com/p/fa433b76efe757af442c5e635cee8716) 
-- [2020-09-23-Vue-3.0-正式发布了！](https://www.ershicimi.com/p/259de51160f57a07999645d773a65496) 
 - [2020-06-17-视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d) 
 - [2020-06-08-Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e) 
 - [2020-04-27-视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b) 

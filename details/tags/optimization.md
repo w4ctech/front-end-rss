@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 04:38:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 04:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -19,4 +19,3 @@
 - [2020-10-21-译-.NET-应用程序-7-种最常见的性能问题及其解决方案](https://toutiao.io/k/ekw95p5) 
 - [2020-10-21-Impala-在网易大数据的优化和实践](https://toutiao.io/k/0vfqlgs) 
 - [2020-10-21-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) 
-- [2020-10-21-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) 

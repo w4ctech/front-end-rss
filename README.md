@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 04:38:58，:rocket: 更新条数: +3522， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 04:48:13，:rocket: 更新条数: +3521， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,11 +1067,14 @@
 </summary>
 
 
+- [2020-10-21-投机心理要不得](https://www.v2ex.com/t/717064) ![](assets/new.png)  
+- [2020-10-21-万元左右的干衣机有推荐的么？](https://www.v2ex.com/t/717063) ![](assets/new.png)  
+- [2020-10-21-关于-docker-11-月-1-日的-pull-limit，-kubernetes-群集该如何配置呢？](https://www.v2ex.com/t/717062) ![](assets/new.png)  
+- [2020-10-21-焦头烂额，-centos7-gitlab-配置-ssh-还需要密码](https://www.v2ex.com/t/717061) ![](assets/new.png)  
 - [2020-10-21-游戏公司的研发部门架构问题请教](https://www.v2ex.com/t/717060) ![](assets/new.png)  
 - [2020-10-21-开源一个跨交易所搬砖套利框架.基于-Python-asyncio,-CCXT,-WebSocket.](https://www.v2ex.com/t/717059) ![](assets/new.png)  
 - [2020-10-21-提醒一下-23-号-Apple-Store-是-8-点开门](https://www.v2ex.com/t/717058) ![](assets/new.png)  
 - [2020-10-21-秋天了，是时候摘几个橘子了，你就在此地不要走动](https://www.v2ex.com/t/717056) ![](assets/new.png)  
-- [2020-10-21-斐济事件,打响了收复台湾的第一枪?有生之年,能看到台湾成为中国的一个普通行政省吗?](https://www.v2ex.com/t/717055) ![](assets/new.png)  
 - [2020-10-21-哎～-MacBook-pro-16-寸降温降燥提频，折腾记。](https://www.v2ex.com/t/717054) ![](assets/new.png)  
 - [2020-10-21-MBP-2018-无法成功从-macOS-恢复功能启动](https://www.v2ex.com/t/717053) ![](assets/new.png)  
 - [2020-10-21-rabbitmq-有没有类似-redis-的-blpop-的函数](https://www.v2ex.com/t/717052) ![](assets/new.png)  
@@ -1084,9 +1087,6 @@
 - [2020-10-21-macOS-10.15.7-"预览“-使用设备签名的神奇-bug](https://www.v2ex.com/t/717043) ![](assets/new.png)  
 - [2020-10-21-14.1-的地图还是有-bug](https://www.v2ex.com/t/717041) ![](assets/new.png)  
 - [2020-10-21-手上有大概几十个，提前还房贷还是买理财](https://www.v2ex.com/t/717040) ![](assets/new.png)  
-- [2020-10-21-有想做自由职业的么？来抱团取暖！](https://www.v2ex.com/t/717039) ![](assets/new.png)  
-- [2020-10-21-有人用过讯飞/搜狗录音笔的录音转文字功能吗？](https://www.v2ex.com/t/717038) ![](assets/new.png)  
-- [2020-10-21-上海求职-运维岗.-麻烦各位大佬，如果有空帮忙指导一下简历，能提供下合适建议或者有合适岗位内推更好。](https://www.v2ex.com/t/717035) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

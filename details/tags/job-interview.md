@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 13:14:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 13:27:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -47,5 +47,5 @@
 - [2020-10-21-美团-研发-招聘内推-岗位](https://www.v2ex.com/t/717210) 
 - [2020-10-21-北京-美餐网招聘-Web-前端/后端/Android/iOS/PM/测试开发/UI/品牌等岗位，欢迎来撩~](https://www.v2ex.com/t/717209) 
 - [2020-10-21-西安-SAP-招聘](https://www.v2ex.com/t/717196) 
-- [2020-10-21-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 
 - [2020-10-21-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
+- [2020-10-21-推荐-B站面试之旅](https://toutiao.io/k/sf65rqv) 

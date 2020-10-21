@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 13:14:28，:rocket: 更新条数: +3521， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 13:27:56，:rocket: 更新条数: +3522， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,8 @@
 </summary>
 
 
+- [2020-10-21-不懂就问，想用树莓派做一个无人机-有文章可以参考吗？](https://www.v2ex.com/t/717245) ![](assets/new.png)  
+- [2020-10-21-19-年毕业生待业一年后求职迷茫，求前辈们给点建议](https://www.v2ex.com/t/717244) ![](assets/new.png)  
 - [2020-10-21-黑帕云-像-Excel-一样熟悉，又像数据库一样强大](https://www.v2ex.com/t/717242) ![](assets/new.png)  
 - [2020-10-21-iOS-14.1-挂不住后台啊](https://www.v2ex.com/t/717241) ![](assets/new.png)  
 - [2020-10-21-北京-神策数据-大数据领域-招聘测试-/-测试开发工程师多名亦提供优质实习生岗位](https://www.v2ex.com/t/717239) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-21-feign-如何动态添加多个-header](https://www.v2ex.com/t/717223) ![](assets/new.png)  
 - [2020-10-21-GT610-都可以玩什么游戏](https://www.v2ex.com/t/717222) ![](assets/new.png)  
 - [2020-10-21-求推荐人均-100-以内的健康外卖](https://www.v2ex.com/t/717221) ![](assets/new.png)  
-- [2020-10-21-美团北京后端开发-业务框架研发工程师/技术专家](https://www.v2ex.com/t/717220) ![](assets/new.png)  
-- [2020-10-21-各位老哥，你们前端页面、接口和-APP-都用上了自动化测试吗](https://www.v2ex.com/t/717219) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

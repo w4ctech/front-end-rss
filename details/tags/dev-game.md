@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-21 02:48:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-21 03:04:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,4 +27,5 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2020-10-20-Canvas-2D游戏开发分享——以超级马力欧为例](https://juejin.im/post/6885650421549891598) 
 - [2020-10-20-Linux系统中玩到让你停不下来的命令行游戏!](https://sec.thief.one/article_content?a_id=d2b9e5a44f8115b048bb50877ffa8bac) 

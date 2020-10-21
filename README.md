@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 01:46:31，:rocket: 更新条数: +3509， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 01:54:03，:rocket: 更新条数: +3511， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,11 +1067,16 @@
 </summary>
 
 
+- [2020-10-21-实体店啥时候会有-12-的展示机和现货呢](https://www.v2ex.com/t/716948) ![](assets/new.png)  
+- [2020-10-21-树莓派-4-计算模组要出了，还有人买来吃灰吗？](https://www.v2ex.com/t/716947) ![](assets/new.png)  
+- [2020-10-21-10-月-24-日（程序员节），大家怎么过？](https://www.v2ex.com/t/716946) ![](assets/new.png)  
+- [2020-10-21-关于-JS-中内存分配的问题](https://www.v2ex.com/t/716945) ![](assets/new.png)  
+- [2020-10-21-记得有个仓库时各种软件发展方向的图谱，想找个软件架构师的发展图谱，有记得的朋友吗？](https://www.v2ex.com/t/716944) ![](assets/new.png)  
+- [2020-10-21-怎么看待干活是骨干、发钱靠边站问题](https://www.v2ex.com/t/716943) ![](assets/new.png)  
 - [2020-10-21-从-Webpack-到-Snowpack,-编译速度提升十倍以上——TRPG-Engine-迁移小记](https://www.v2ex.com/t/716942) ![](assets/new.png)  
 - [2020-10-21-VS-code-对-erlang-的支持不好啊，和-IDEA-相比弱爆了，大家是怎么写-erlang-的？](https://www.v2ex.com/t/716941) ![](assets/new.png)  
 - [2020-10-21-macOS10.15.7-19H2修复了休眠后启动分辨率变低和watch-经常无法解锁问题](https://www.v2ex.com/t/716940) ![](assets/new.png)  
 - [2020-10-21-干货-10-分钟读懂浏览器渲染流程](https://www.v2ex.com/t/716938) ![](assets/new.png)  
-- [2020-10-21-收一台-apple](https://www.v2ex.com/t/716937) ![](assets/new.png)  
 - [2020-10-21-关于-iPhone-Pro/PM-颜色的问题](https://www.v2ex.com/t/716935) ![](assets/new.png)  
 - [2020-10-21-不想写-Java-但是想从事后端开发有什么路子可走？](https://www.v2ex.com/t/716934) ![](assets/new.png)  
 - [2020-10-21-如何设置-Mac-拔掉耳机后，电脑静音](https://www.v2ex.com/t/716932) ![](assets/new.png)  
@@ -1082,11 +1087,6 @@
 - [2020-10-21-三七互娱内推-社招-中/高-中台运维工程师-广州](https://www.v2ex.com/t/716926) ![](assets/new.png)  
 - [2020-10-21-高得帳號被封,-怎麼找回來?](https://www.v2ex.com/t/716925) ![](assets/new.png)  
 - [2020-10-21-昨晚你的女友看了李佳琪的直播吗](https://www.v2ex.com/t/716924) ![](assets/new.png)  
-- [2020-10-21-爱立信广州研发中心怎么样？](https://www.v2ex.com/t/716923) ![](assets/new.png)  
-- [2020-10-21-你们看好坚果手机的未来吗？](https://www.v2ex.com/t/716922) ![](assets/new.png)  
-- [2020-10-21-不看星座的来看生肖](https://www.v2ex.com/t/716920) ![](assets/new.png)  
-- [2020-10-21-一个-go-问题请教](https://www.v2ex.com/t/716919) ![](assets/new.png)  
-- [2020-10-21-昨晚的坚果发布会各位看了吗？](https://www.v2ex.com/t/716918) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,19 +1136,19 @@
 - [2020-10-21-疫情下的线上会议和社交](https://toutiao.io/k/ojgvqdo) ![](assets/new.png)  
 - [2020-10-21-DDDplus-中台开发框架（痛点分析）](https://toutiao.io/k/pbiudrp) ![](assets/new.png)  
 - [2020-10-21-喜大普奔！GitHub-App-终于支持中文了，可尝鲜下载体验](https://toutiao.io/k/r18jxvu) ![](assets/new.png)  
-- [2020-10-21-数据平台服务化建设（三）：数据地图](https://toutiao.io/k/jsaue4v) ![](assets/new.png)  
 - [2020-10-21-Linux-Capabilities-与容器的水乳交融](https://toutiao.io/k/k0ge33p) ![](assets/new.png)  
+- [2020-10-21-数据平台服务化建设（三）：数据地图](https://toutiao.io/k/jsaue4v) ![](assets/new.png)  
 - [2020-10-21-你听过-CatBoost-吗？本文教你如何使用-CatBoost-进行快速梯度提升](https://toutiao.io/k/fr7dfqa) ![](assets/new.png)  
 - [2020-10-21-《编程格调》：30-条代码风格帮你更好撸代码](https://toutiao.io/k/xmxoypv) ![](assets/new.png)  
 - [2020-10-21-AST-详解与运用](https://toutiao.io/k/m2hv6fn) ![](assets/new.png)  
 - [2020-10-21-译-.NET-应用程序-7-种最常见的性能问题及其解决方案](https://toutiao.io/k/ekw95p5) ![](assets/new.png)  
 - [2020-10-21-IT-双职工赢在起跑线​，还怕未来吗？](https://toutiao.io/k/v4rpw5h) ![](assets/new.png)  
 - [2020-10-21-译-Go-中的-Goroutine-和其他并发处理方案的对比](https://toutiao.io/k/rhzp4sp) ![](assets/new.png)  
-- [2020-10-21-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-21-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-21-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-21-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-21-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [2020-10-21-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-21-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-21-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-21-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

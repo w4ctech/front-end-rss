@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-21 13:47:19，:rocket: 更新条数: +3473， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-21 14:04:21，:rocket: 更新条数: +3511， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1057,6 +1057,26 @@
 </summary>
 
 
+- [2020-10-21-迷途小羔羊求各位大佬带着干点活](https://www.v2ex.com/t/717251) ![](assets/new.png)  
+- [2020-10-21-数据恢复-这种小-U-盘几百能搞定吗？寄过去一家检测完说要-1k6，我又退回来了](https://www.v2ex.com/t/717250) ![](assets/new.png)  
+- [2020-10-21-亲爱的，谁知道那里有滤蓝光的眼镜贴膜卖](https://www.v2ex.com/t/717249) ![](assets/new.png)  
+- [2020-10-21-最近想换手机,预算三千多,有啥推荐吗?](https://www.v2ex.com/t/717247) ![](assets/new.png)  
+- [2020-10-21-不懂就问，想用树莓派做一个无人机-有文章可以参考吗？](https://www.v2ex.com/t/717245) ![](assets/new.png)  
+- [2020-10-21-19-年毕业生待业一年后求职迷茫，求前辈们给点建议](https://www.v2ex.com/t/717244) ![](assets/new.png)  
+- [2020-10-21-黑帕云-像-Excel-一样熟悉，又像数据库一样强大](https://www.v2ex.com/t/717242) ![](assets/new.png)  
+- [2020-10-21-iOS-14.1-挂不住后台啊](https://www.v2ex.com/t/717241) ![](assets/new.png)  
+- [2020-10-21-北京-神策数据-大数据领域-招聘测试-/-测试开发工程师多名亦提供优质实习生岗位](https://www.v2ex.com/t/717239) ![](assets/new.png)  
+- [2020-10-21-招银网络科技的-offer-值不值得接](https://www.v2ex.com/t/717237) ![](assets/new.png)  
+- [2020-10-21-简书的堕落之后，国内还有什么能用的博客平台？](https://www.v2ex.com/t/717235) ![](assets/new.png)  
+- [2020-10-21-买要趁早？听说年底要上京东方的屏幕](https://www.v2ex.com/t/717234) ![](assets/new.png)  
+- [2020-10-21-web-框架-DuckPhp-1.2.7-发布——你需要个不写路由表的框架么](https://www.v2ex.com/t/717233) ![](assets/new.png)  
+- [2020-10-21-备受打击后,-想要放弃码农岗位,-求-v-友建议](https://www.v2ex.com/t/717232) ![](assets/new.png)  
+- [2020-10-21-作为程序员，人生有多种可能，甘心一辈子做一件事情吗？如果可以选择第二职业，那么你会做啥呢？](https://www.v2ex.com/t/717231) ![](assets/new.png)  
+- [2020-10-21-作业帮-北京-诚招搜索/推荐系统开发工程师](https://www.v2ex.com/t/717230) ![](assets/new.png)  
+- [2020-10-21-flutter-视频聊天](https://www.v2ex.com/t/717229) ![](assets/new.png)  
+- [2020-10-21-双十一想买个音箱，求推荐](https://www.v2ex.com/t/717228) ![](assets/new.png)  
+- [2020-10-21-吃瓜-某公司-9.30-号强制应届生离职](https://www.v2ex.com/t/717227) ![](assets/new.png)  
+- [2020-10-21-reeder-老版本还下架了](https://www.v2ex.com/t/717225) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1101,8 +1121,8 @@
 
 - [2020-10-21-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
 - [2020-10-21-傻白甜，约不约？](https://toutiao.io/k/s60lax4) ![](assets/new.png)  
-- [2020-10-21-DDDplus-中台开发框架（痛点分析）](https://toutiao.io/k/pbiudrp) ![](assets/new.png)  
 - [2020-10-21-疫情下的线上会议和社交](https://toutiao.io/k/ojgvqdo) ![](assets/new.png)  
+- [2020-10-21-DDDplus-中台开发框架（痛点分析）](https://toutiao.io/k/pbiudrp) ![](assets/new.png)  
 - [2020-10-21-Synchronized-的锁升级之路](https://toutiao.io/k/x6l8ntx) ![](assets/new.png)  
 - [2020-10-21-Hadoop-框架：HDFS-读写机制与-API-详解](https://toutiao.io/k/i15zc80) ![](assets/new.png)  
 - [2020-10-21-一份走心算法攻略，一份-20W-字刷题笔记](https://toutiao.io/k/l02akr0) ![](assets/new.png)  

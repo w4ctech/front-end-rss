@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 23:39:51，:rocket: 更新条数: +3738， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 23:46:59，:rocket: 更新条数: +3738， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-22-白宫被指对疫情恶化知情但仍隐瞒淡化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio5GdR7isj7F4LYf3g8Z0201022&isfromapp=1) ![](assets/new.png)  
 - [2020-10-22-德国疾控专家：当前德国疫情形势“极其严峻”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifGhZFshCwwPSeJ7JFLRk201022&isfromapp=1) ![](assets/new.png)  
 - [2020-10-22-疫情形势持续恶化-全美42个州住院人数持续上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinDeudU2WFSUd2aUQD2xY201022&isfromapp=1) ![](assets/new.png)  
 - [2020-10-22-香港新增11例新冠肺炎确诊病例-累计5280例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwiAQp11d5xtieihLeMTQ201022&isfromapp=1) ![](assets/new.png)  
 - [2020-10-22-德国单日新增新冠病毒感染病例首次破万-累计确诊392049例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinNp0IZPoBb9NIACyfKsT201022&isfromapp=1) ![](assets/new.png)  
-- [2020-10-21-捷克新冠肺炎确诊病例累计超20万-捷克再次颁布“封锁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyZyqvP0LMWjgI0L695RC201022&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,21 +1151,21 @@
 
 - [2020-10-22-困在内卷里的工程师-|-码农周刊第-322-期](https://toutiao.io/k/mb7u8g0) ![](assets/new.png)  
 - [2020-10-22-Redis-+-Nginx-+-设计模式-+-Spring-全家桶-+-Dubbo-+-阿里技术精选文档](https://toutiao.io/k/zp8ncvc) ![](assets/new.png)  
-- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-22-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-22-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-22-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-22-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
 - [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
 - [2020-10-22-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
 - [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-22-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-22-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-22-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-22-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-22-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
 - [2020-10-22-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-22-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-22-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

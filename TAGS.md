@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-22 03:03:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 03:14:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -454,10 +454,9 @@
 - [【InfoQ】架构演进与性能优化之路-｜-QCon+](https://www.ershicimi.com/p/bf599586ba6a37b0114f952b56dbb4c2)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】求助，如何测试网站性能](https://www.v2ex.com/t/717352)
-- [【V2EX】上海-NVIDIA-深度学习性能架构组-TensorRT-软件工程师](https://www.v2ex.com/t/717322)
 - [【开发者头条】这才是-SQL-优化的正确姿势](https://toutiao.io/k/hargwgd)
-- [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
 - [【开发者头条】推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42)
+- [【安全热点】先声夺人|连中三元!腾讯云容器性能及安全能力获信通院最高级认证](https://sec.thief.one/article_content?a_id=b4f8952b2d733f08580bdcea36671eaa)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

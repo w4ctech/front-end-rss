@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 03:03:58，:rocket: 更新条数: +3750， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 03:14:46，:rocket: 更新条数: +3752， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,12 @@
 </summary>
 
 
+- [2020-10-22-算力出租，有没有有算力需求的，或者愿意合伙来做算力租赁的？](https://www.v2ex.com/t/717373) ![](assets/new.png)  
+- [2020-10-22-上海-高顿教育诚招前端/服务端工程师](https://www.v2ex.com/t/717372) ![](assets/new.png)  
+- [2020-10-22-杭州/上海蚂蚁金融云中间件研发工程师/专家招聘](https://www.v2ex.com/t/717371) ![](assets/new.png)  
+- [2020-10-22-语文题：大家帮忙看看这两段话的前后关系我理解得对不对](https://www.v2ex.com/t/717370) ![](assets/new.png)  
+- [2020-10-22-iPhone-12-Pro-多出来的-2G-内存据说是相机独占的？](https://www.v2ex.com/t/717369) ![](assets/new.png)  
+- [2020-10-22-关于-token-被盗取的问题](https://www.v2ex.com/t/717368) ![](assets/new.png)  
 - [2020-10-22-吐个槽，双-11-后快递公司怕是要涨价了](https://www.v2ex.com/t/717367) ![](assets/new.png)  
 - [2020-10-22-木兰编程语言-0.0.14.4：中文报错信息规整，枚举引用新发现](https://www.v2ex.com/t/717366) ![](assets/new.png)  
 - [2020-10-22-A1562m-二代耳机-有用过的吗？](https://www.v2ex.com/t/717365) ![](assets/new.png)  
@@ -1101,12 +1107,6 @@
 - [2020-10-22-YouTube-的推荐系统，太差了](https://www.v2ex.com/t/717353) ![](assets/new.png)  
 - [2020-10-22-求助，如何测试网站性能](https://www.v2ex.com/t/717352) ![](assets/new.png)  
 - [2020-10-22-求助-电脑拷贝文件时间约-10-分钟系统失去响应](https://www.v2ex.com/t/717351) ![](assets/new.png)  
-- [2020-10-22-看到拆解报告决定把明天的-12-退了](https://www.v2ex.com/t/717350) ![](assets/new.png)  
-- [2020-10-22-各位的英文名叫什么？为什么取这个，有什么寓意吗？](https://www.v2ex.com/t/717348) ![](assets/new.png)  
-- [2020-10-22-现在的国产安卓手机看得上眼的都是-4.5K+，这个价格好像可以买-iPhone11-了吧。。。](https://www.v2ex.com/t/717347) ![](assets/new.png)  
-- [2020-10-22-有用-Quantumult-X-圈-X的小伙伴吗-切换不了模式是啥原因](https://www.v2ex.com/t/717346) ![](assets/new.png)  
-- [2020-10-22-微信搜索了某个人的聊天记录,聊天框就会被顶到前面](https://www.v2ex.com/t/717345) ![](assets/new.png)  
-- [2020-10-22-团队直招：蚂蚁金服，上海/双休/极少出差，-Java-平台/大数据/实时计算/数仓，-P6~P8](https://www.v2ex.com/t/717342) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1164,11 +1164,11 @@
 - [2020-10-22-如何通过-Serverless-技术降低微服务应用资源成本？](https://toutiao.io/k/aa59xen) ![](assets/new.png)  
 - [2020-10-22-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/k7nf2vd) ![](assets/new.png)  
 - [2020-10-22-译-TypeScript：一个好泛型的价值](https://toutiao.io/k/fo5jtin) ![](assets/new.png)  
-- [2020-10-22-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-22-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-22-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-22-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-22-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-22 00:09:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 00:40:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -37,6 +37,7 @@
 - [2020-10-10-【第2083期】理解ECMAScript规范（四）](https://www.ershicimi.com/p/50fc7dc101fdaff3adb7483b87326139) 
 - [2020-10-08-【第2081期】理解ECMAScript规范（三）](https://www.ershicimi.com/p/4d21600e1f652edfd01e993e17f27f0f) 
 - [2020-09-28-【第2079期】理解ECMAScript规范（二）](https://www.ershicimi.com/p/abbc0eba9a15dc0d04591db13d412038) 
+- [2020-10-21-Map-和-Set-两种数据结构在-ES6-的作用](https://www.ershicimi.com/p/b9519a1c74b56abc7f810c9597f63f3f) 
 - [2020-10-16-前端如何优雅的处理类数组对象？](https://www.ershicimi.com/p/ff68d432c6aa930c231ca20ef17d903a) 
 - [2020-10-14-你需要了解的几种-JavaScript-异常类型](https://www.ershicimi.com/p/06dd75a065cf099f98747e8317f18ae5) 
 - [2020-10-20-Javascript高级程序设计第四版详细测评](https://www.ershicimi.com/p/c3a538362d627ed8826b56905dcdfc12) 

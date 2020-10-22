@@ -5,9 +5,9 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "最新疫情：全国新冠累计确诊85715例 新增境外输入11例",
-        "link": "https://m.caixin.com/m/2020-10-21/101617131.html",
-        "date": "2020-10-20"
+        "title": "10月21日全国新增境外输入新冠14例 累计确诊85729例",
+        "link": "https://m.caixin.com/m/2020-10-22/101617361.html",
+        "date": "2020-10-21"
       },
       {
         "title": "最新海外疫情：新冠感染超4059万 累计死亡近112万",
@@ -14204,6 +14204,16 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "私藏！React 硬核涨薪指南",
+        "link": "https://www.ershicimi.com/p/48a56aee2780f75b799dff32cf35f5d0",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "Map 和 Set 两种数据结构在 ES6 的作用",
+        "link": "https://www.ershicimi.com/p/b9519a1c74b56abc7f810c9597f63f3f",
+        "date": "2020-10-21"
+      },
+      {
         "title": "ES11新增的这9个新特性，你都掌握了吗？",
         "link": "https://www.ershicimi.com/p/f65773915b3db9636aa2f04e270eea9d",
         "date": "2020-10-20"
@@ -14292,16 +14302,6 @@
         "title": "做了 8 年前端，看透了裁人的套路",
         "link": "https://www.ershicimi.com/p/8079378715a547442a61c88db5a8c6a0",
         "date": "2020-10-09"
-      },
-      {
-        "title": "前端赋能业务：Node实现自动化部署平台",
-        "link": "https://www.ershicimi.com/p/002211e101217aa0a657e6c2fcc88a41",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "Facebook 新一代 React 状态管理库 Recoil",
-        "link": "https://www.ershicimi.com/p/26add611063d221ffcb13dc2b0ec08b6",
-        "date": "2020-10-08"
       }
     ]
   },
@@ -18041,6 +18041,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有实用的果蔬清洗机器推荐一下？",
+        "link": "https://www.v2ex.com/t/717294",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "有没有一个工具可以检测到自己的电脑硬件是否应该升级更换以及更换到什么产品？",
+        "link": "https://www.v2ex.com/t/717293",
+        "date": "2020-10-22"
+      },
+      {
         "title": "哪个牌子的手机套耐摔？",
         "link": "https://www.v2ex.com/t/717289",
         "date": "2020-10-22"
@@ -18199,21 +18209,6 @@
         "title": "不懂就问，想用树莓派做一个无人机 有文章可以参考吗？",
         "link": "https://www.v2ex.com/t/717245",
         "date": "2020-10-21"
-      },
-      {
-        "title": "19 年毕业生待业一年后求职迷茫，求前辈们给点建议",
-        "link": "https://www.v2ex.com/t/717244",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[黑帕云] 像 Excel 一样熟悉，又像数据库一样强大",
-        "link": "https://www.v2ex.com/t/717242",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "iOS 14.1 挂不住后台啊",
-        "link": "https://www.v2ex.com/t/717241",
-        "date": "2020-10-21"
       }
     ]
   },
@@ -18340,18 +18335,28 @@
         "date": "2020-10-22"
       },
       {
+        "title": "深入了解 ActiveMQ",
+        "link": "https://toutiao.io/k/19sjvs1",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "LeetCode 之最长回文串",
+        "link": "https://toutiao.io/k/377t0oj",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "部署到 Kubernetes 时初始化 Cassandra 数据库",
+        "link": "https://toutiao.io/k/qy3ursk",
+        "date": "2020-10-22"
+      },
+      {
         "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
         "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-22"
       },
       {
@@ -18360,8 +18365,13 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-22"
       },
       {
@@ -18370,8 +18380,23 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-22"
       },
       {
@@ -18385,33 +18410,18 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-22"
       },
       {
         "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
         "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
         "date": "2020-10-22"
       }
     ]

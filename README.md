@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 00:09:04，:rocket: 更新条数: +3729， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 00:40:34，:rocket: 更新条数: +3731， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-10-20-最新疫情：全国新冠累计确诊85715例-新增境外输入11例](https://m.caixin.com/m/2020-10-21/101617131.html) ![](assets/new.png)  
+- [2020-10-21-10月21日全国新增境外输入新冠14例-累计确诊85729例](https://m.caixin.com/m/2020-10-22/101617361.html) ![](assets/new.png)  
 - [2020-10-20-最新海外疫情：新冠感染超4059万-累计死亡近112万](https://m.caixin.com/m/2020-10-21/101617151.html) ![](assets/new.png)  
 - [2020-10-20-【境内疫情观察】全国新增11例境外输入病例（10月20日）](http://m.database.caixin.com/m/2020-10-21/101617043.html) ![](assets/new.png)  
 - [2020-10-20-大流行手记|10月20日：俄罗斯日增确诊创新高-阿根廷病例过百万居第五](https://m.caixin.com/m/2020-10-21/101616932.html) ![](assets/new.png)  
@@ -260,6 +260,8 @@
 </summary>
 
 
+- [2020-10-21-私藏！React-硬核涨薪指南](https://www.ershicimi.com/p/48a56aee2780f75b799dff32cf35f5d0) ![](assets/new.png)  
+- [2020-10-21-Map-和-Set-两种数据结构在-ES6-的作用](https://www.ershicimi.com/p/b9519a1c74b56abc7f810c9597f63f3f) ![](assets/new.png)  
 - [2020-10-20-ES11新增的这9个新特性，你都掌握了吗？](https://www.ershicimi.com/p/f65773915b3db9636aa2f04e270eea9d) ![](assets/new.png)  
 - [2020-10-19-一套代码、多端运行，大前端时代，如何用Flutter制霸全平台？](https://www.ershicimi.com/p/c357dbc391ed67d45ea04c46b28e04d7) ![](assets/new.png)  
 - [2020-10-19-Vue-中-Axios-的封装和-API-接口的管理](https://www.ershicimi.com/p/40440035451f28d499a0a4e120fc77f9) ![](assets/new.png)  
@@ -278,8 +280,6 @@
 - [2020-10-11-前端装饰器模式快闪](https://www.ershicimi.com/p/49e6aef8b5ce898e9b9317c467a20682) ![](assets/new.png)  
 - [2020-10-10-谁说前端不用懂，手摸手-Docker-从入门到实践](https://www.ershicimi.com/p/84d7e2d4188c596461ae05729bfc2970) ![](assets/new.png)  
 - [2020-10-09-做了-8-年前端，看透了裁人的套路](https://www.ershicimi.com/p/8079378715a547442a61c88db5a8c6a0) ![](assets/new.png)  
-- [2020-10-09-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/002211e101217aa0a657e6c2fcc88a41) ![](assets/new.png)  
-- [2020-10-08-Facebook-新一代-React-状态管理库-Recoil](https://www.ershicimi.com/p/26add611063d221ffcb13dc2b0ec08b6) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,8 @@
 </summary>
 
 
+- [2020-10-22-有没有实用的果蔬清洗机器推荐一下？](https://www.v2ex.com/t/717294) ![](assets/new.png)  
+- [2020-10-22-有没有一个工具可以检测到自己的电脑硬件是否应该升级更换以及更换到什么产品？](https://www.v2ex.com/t/717293) ![](assets/new.png)  
 - [2020-10-22-哪个牌子的手机套耐摔？](https://www.v2ex.com/t/717289) ![](assets/new.png)  
 - [2020-10-21-31-岁了，迷茫的码农](https://www.v2ex.com/t/717288) ![](assets/new.png)  
 - [2020-10-21-k8s-patch-deployment-的-image-和-imagePullSecrets-的方法](https://www.v2ex.com/t/717287) ![](assets/new.png)  
@@ -1105,8 +1107,6 @@
 - [2020-10-21-刚入职百度，想要裸辞，为梦想冲一波](https://www.v2ex.com/t/717271) ![](assets/new.png)  
 - [2020-10-21-有没有碰到-ios14-微信语音发出去没声音，语音通话对方听不见声音](https://www.v2ex.com/t/717270) ![](assets/new.png)  
 - [2020-10-21-都快-2021-了，-HomePod-依然-2s-延迟](https://www.v2ex.com/t/717269) ![](assets/new.png)  
-- [2020-10-21-网易游戏梦幻事业部-社招内推](https://www.v2ex.com/t/717268) ![](assets/new.png)  
-- [2020-10-21-准备给老家买台台式机，下面几个家用的话哪台性价比好点？这种配置的性能怎么样？-家用的话。](https://www.v2ex.com/t/717267) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,21 +1151,24 @@
 
 - [2020-10-22-困在内卷里的工程师-|-码农周刊第-322-期](https://toutiao.io/k/mb7u8g0) ![](assets/new.png)  
 - [2020-10-22-RTE-2020-实时互联网大会参会指南——今天我们线上见！](https://toutiao.io/k/bd86jqe) ![](assets/new.png)  
+- [2020-10-22-深入了解-ActiveMQ](https://toutiao.io/k/19sjvs1) ![](assets/new.png)  
+- [2020-10-22-LeetCode-之最长回文串](https://toutiao.io/k/377t0oj) ![](assets/new.png)  
+- [2020-10-22-部署到-Kubernetes-时初始化-Cassandra-数据库](https://toutiao.io/k/qy3ursk) ![](assets/new.png)  
 - [2020-10-22-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-22-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-22-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
+- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-22-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-22-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [2020-10-22-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
+- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-22-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-22-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [2020-10-22-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
 - [2020-10-22-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-22-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-22-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [2020-10-22-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-22 20:32:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 20:39:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -178,6 +178,7 @@
 - [【前端瓶子君】前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/0bdf01163c2ebc502fa5a9cb0d9a3ab7)
 - [【程序员成长指北】前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/b51534a5fcb534f73c718f29b4aad1a3)
 - [【程序员成长指北】一杯茶的时间，上手-Express-框架开发](https://www.ershicimi.com/p/921228937c95cf4885d9edb75b47fd93)
+- [【Nodejs技术栈】Node.js-v15.0.0-is-here!](https://www.ershicimi.com/p/7fdd5343e000267c418d5ad709a4f8ab)
 - [【Nodejs技术栈】前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/99b484a81d88ceedb095488767352245)
 - [【Nodejs技术栈】排查-Node.js-服务内存泄漏，没想到竟是它？](https://www.ershicimi.com/p/daecb693cd78ffa928d74d4047f89cba)
 - [【Nodejs技术栈】Node.js-搭建-HTTPS-服务器](https://www.ershicimi.com/p/443b0f079dc05caa1ccecabfd0000cce)
@@ -186,7 +187,6 @@
 - [【Nodejs技术栈】Node.js-案发现场揭秘-——-文件句柄泄露导致进程假死](https://www.ershicimi.com/p/6dae4d4a8faac3ff4a499e3be7c55dbc)
 - [【Nodejs技术栈】Node.js-定时器详解](https://www.ershicimi.com/p/5f7301ddf1080f76b099a5be3ba69ccd)
 - [【Nodejs技术栈】Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/29fa0a1bf73f5284b1a0b04a5c6bf2e5)
-- [【Nodejs技术栈】运维的报表之路，用-Node.js-轻松发送-grafana-报表](https://www.ershicimi.com/p/23027332cbc0022f3ad9e9fac1ded4c6)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

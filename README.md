@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 20:49:03，:rocket: 更新条数: +3736， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 21:03:58，:rocket: 更新条数: +3736， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -291,6 +291,8 @@
 </summary>
 
 
+- [2020-10-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/480e3361d5a48aa8d83eb09acba437c4) ![](assets/new.png)  
+- [2020-10-22-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/cca97155c343a5ced3fbec98a6e4f233) ![](assets/new.png)  
 - [2020-10-21-面试官：说说你对-options-请求的理解](https://www.ershicimi.com/p/442fe2f069198f2421fe54a457e96ac9) ![](assets/new.png)  
 - [2020-10-20-华为将要这样过1024，看的我酸了...](https://www.ershicimi.com/p/ba2bc3fb59ed3b14231700458a80a020) ![](assets/new.png)  
 - [2020-10-20-Javascript高级程序设计第四版详细测评](https://www.ershicimi.com/p/c3a538362d627ed8826b56905dcdfc12) ![](assets/new.png)  
@@ -309,8 +311,6 @@
 - [2020-10-09-Flutter开始支持Windows](https://www.ershicimi.com/p/6616d09fee90095bd1b03454e054f6d3) ![](assets/new.png)  
 - [2020-09-30-尤雨溪：全职做开源年薪百万，网友：不愧是前端尤大神](https://www.ershicimi.com/p/4c141c4dbb5812adeb26a6e2b86a7fec) ![](assets/new.png)  
 - [2020-09-29-你应该知道的-NPM-知识都在这！](https://www.ershicimi.com/p/bbab7cb8c8aa6ecb2d7be925072eae3e) ![](assets/new.png)  
-- [2020-09-28-不定宽溢出文本适配滚动](https://www.ershicimi.com/p/82facd4a65470af20eed04cecbb01f5b) ![](assets/new.png)  
-- [2020-09-27-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/35e68066c5fdc7da00fa6578cd44e004) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,7 @@
 </summary>
 
 
+- [2020-10-22-像这样能在别的-app-运行期间点击悬浮窗显示-多选项卡的窗口该怎么实现](https://www.v2ex.com/t/717661) ![](assets/new.png)  
 - [2020-10-22-想买-12.9-屏幕就只能买-pro-咯](https://www.v2ex.com/t/717660) ![](assets/new.png)  
 - [2020-10-22-Chrome-退出就登出帐号](https://www.v2ex.com/t/717659) ![](assets/new.png)  
 - [2020-10-22-SAP-大连研究院成立-有熟悉的-V-友吗？](https://www.v2ex.com/t/717658) ![](assets/new.png)  
@@ -1106,7 +1107,6 @@
 - [2020-10-22-就头发量来说，-it-界什么技术工种发量比较足](https://www.v2ex.com/t/717638) ![](assets/new.png)  
 - [2020-10-22-大家好，想问一下我现在开的-youtube-premium-的车是印度的-play-store-账号+印度的-youtube-premium-订阅，有办法变成美区的-play-store-账号+印度-yt-premium-...](https://www.v2ex.com/t/717637) ![](assets/new.png)  
 - [2020-10-22-回家~（此处有萨克斯）](https://www.v2ex.com/t/717636) ![](assets/new.png)  
-- [2020-10-22-上海-沪江-前端招聘（急）组内直招](https://www.v2ex.com/t/717635) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1149,21 +1149,21 @@
 </summary>
 
 
-- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-22-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-22-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-22-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-22-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-22-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-22-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-22-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [2020-10-22-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-22-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-22-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-22-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-22-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-22-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-22-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-22-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

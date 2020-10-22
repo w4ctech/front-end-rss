@@ -14321,6 +14321,16 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "前端开发进阶手册.pdf",
+        "link": "https://www.ershicimi.com/p/480e3361d5a48aa8d83eb09acba437c4",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "尤雨溪：TypeScript不会取代JavaScript",
+        "link": "https://www.ershicimi.com/p/cca97155c343a5ced3fbec98a6e4f233",
+        "date": "2020-10-22"
+      },
+      {
         "title": "面试官：说说你对 options 请求的理解",
         "link": "https://www.ershicimi.com/p/442fe2f069198f2421fe54a457e96ac9",
         "date": "2020-10-21"
@@ -14409,16 +14419,6 @@
         "title": "你应该知道的 NPM 知识都在这！",
         "link": "https://www.ershicimi.com/p/bbab7cb8c8aa6ecb2d7be925072eae3e",
         "date": "2020-09-29"
-      },
-      {
-        "title": "不定宽溢出文本适配滚动",
-        "link": "https://www.ershicimi.com/p/82facd4a65470af20eed04cecbb01f5b",
-        "date": "2020-09-28"
-      },
-      {
-        "title": "Node.js 在大前端领域的应用分析",
-        "link": "https://www.ershicimi.com/p/35e68066c5fdc7da00fa6578cd44e004",
-        "date": "2020-09-27"
       }
     ]
   },
@@ -18061,6 +18061,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "像这样能在别的 app 运行期间点击悬浮窗显示 多选项卡的窗口该怎么实现",
+        "link": "https://www.v2ex.com/t/717661",
+        "date": "2020-10-22"
+      },
+      {
         "title": "想买 12.9 屏幕就只能买 pro 咯",
         "link": "https://www.v2ex.com/t/717660",
         "date": "2020-10-22"
@@ -18254,11 +18259,6 @@
         "title": "shell 脚本求教",
         "link": "https://www.v2ex.com/t/717612",
         "date": "2020-10-22"
-      },
-      {
-        "title": "小米要等到 11.11 当天才开始吗……",
-        "link": "https://www.v2ex.com/t/717611",
-        "date": "2020-10-22"
       }
     ]
   },
@@ -18375,8 +18375,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-22"
       },
       {
@@ -18385,13 +18390,13 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
         "date": "2020-10-22"
       },
       {
@@ -18400,28 +18405,13 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-22"
       },
       {
@@ -18430,23 +18420,33 @@
         "date": "2020-10-22"
       },
       {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-22"
+      },
+      {
         "title": "[推荐] 国庆期间，我造了台计算机",
         "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-22"
       }
     ]

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-22 18:04:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 18:15:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
 
 
+- [2020-10-22-Vue-中-Axios-的封装和-API-接口的管理](https://www.ershicimi.com/p/3c4ccd6e25fe90e1922399bdebd07e50) 
+- [2020-10-21-能进大厂的前端技术标准是怎样的](https://www.ershicimi.com/p/4831bd74068c8b23d8e6f339843cfdf2) 
+- [2020-10-19-为什么React还是比Vue受欢迎？](https://www.ershicimi.com/p/4b23862b90ebde4f3857ad5714e0e710) 
 - [2020-10-15-人人都会Vue，你的优势在哪里？](https://www.ershicimi.com/p/5a864ee6e4a2f2bf14d12c90d6f19e55) 
 - [2020-10-14-宁愿高薪招新人，也不给老员工涨工资，怎么办](https://www.ershicimi.com/p/af2faf9905d6ad6209ee42b9ae4d4e4f) 
 - [2020-10-13-困扰前端工程师的-React-问题，答案都在这了！](https://www.ershicimi.com/p/d053641b8e46ee2805ad1bf1692c69b7) 
@@ -22,6 +25,3 @@
 - [2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e) 
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
 - [2020-09-16-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/9431ce093426b3035ca4473ef83c6e9a) 
-- [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
-- [2020-09-14-落魄前端，整理给自己的前端知识体系复习大纲（第一篇，上百知识点，2W字+）](https://www.ershicimi.com/p/85f881a3b16ac667b0141712bd345c4e) 
-- [2020-09-12-5个很常用的CSS3网页小实例](https://www.ershicimi.com/p/cc31a0415cd6949432efb37fa6d0bf27) 

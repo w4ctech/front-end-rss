@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 07:49:08，:rocket: 更新条数: +3758， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 08:04:31，:rocket: 更新条数: +3756， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,13 @@
 </summary>
 
 
+- [2020-10-22-既然很多技术-Leader-不写代码，那应该-Review-代码吗？](https://www.v2ex.com/t/717501) ![](assets/new.png)  
+- [2020-10-22-大家进过暗网吗？](https://www.v2ex.com/t/717499) ![](assets/new.png)  
+- [2020-10-22-SwiftUI-Widget-小组件获取-CoreData-数据](https://www.v2ex.com/t/717497) ![](assets/new.png)  
+- [2020-10-22-esxi-直通-sata-控制器后硬盘可以共享吗？](https://www.v2ex.com/t/717496) ![](assets/new.png)  
+- [2020-10-22-过马路看手机是种什么心态？？](https://www.v2ex.com/t/717495) ![](assets/new.png)  
+- [2020-10-22-请教一个-go-的函数问题](https://www.v2ex.com/t/717494) ![](assets/new.png)  
+- [2020-10-22-北京-头部投资机构招聘资深产品经理](https://www.v2ex.com/t/717493) ![](assets/new.png)  
 - [2020-10-22-有没有人在-G2A-上买过东西靠谱吗？](https://www.v2ex.com/t/717490) ![](assets/new.png)  
 - [2020-10-22-白描-APP-图片转文字-文档扫描-OCR-识别--永久会员](https://www.v2ex.com/t/717489) ![](assets/new.png)  
 - [2020-10-22-北漂回家-6-年了，想写个回忆录](https://www.v2ex.com/t/717488) ![](assets/new.png)  
@@ -1100,13 +1107,6 @@
 - [2020-10-22-有没有能连接苹果蓝牙的无线机械键盘推荐](https://www.v2ex.com/t/717479) ![](assets/new.png)  
 - [2020-10-22-Java-的微服务技术栈/解决方案有-Spring-Cloud-Ne*fl*x/A*ib**a，那么-Golang-的微服务技术栈/解决方案是哪样？](https://www.v2ex.com/t/717476) ![](assets/new.png)  
 - [2020-10-22-Python-多个列表相加怎么写](https://www.v2ex.com/t/717475) ![](assets/new.png)  
-- [2020-10-22-开发人员都是怎样估算开发所需时间的？误差是多少呢？](https://www.v2ex.com/t/717474) ![](assets/new.png)  
-- [2020-10-22-接了一个采集网站的项目，请问下这种收费多少合适](https://www.v2ex.com/t/717473) ![](assets/new.png)  
-- [2020-10-22-新配了主机，打游戏还是不流畅，瓶颈在哪里？](https://www.v2ex.com/t/717472) ![](assets/new.png)  
-- [2020-10-22-little-snitch-用着用着就被禁了，重启电脑又好用了，怎么破？](https://www.v2ex.com/t/717470) ![](assets/new.png)  
-- [2020-10-22-Switch-Online-家庭组有人知道怎么买么？](https://www.v2ex.com/t/717469) ![](assets/new.png)  
-- [2020-10-22-有没有大佬将-Okhttp-源码集成进项目的？](https://www.v2ex.com/t/717468) ![](assets/new.png)  
-- [2020-10-22-xtransfer-的服务架构是什么的，用了哪些技术，有同学知道么](https://www.v2ex.com/t/717467) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1161,8 +1161,8 @@
 - [2020-10-22-部署到-Kubernetes-时初始化-Cassandra-数据库](https://toutiao.io/k/qy3ursk) ![](assets/new.png)  
 - [2020-10-22-这才是-SQL-优化的正确姿势](https://toutiao.io/k/hargwgd) ![](assets/new.png)  
 - [2020-10-22-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/k7nf2vd) ![](assets/new.png)  
-- [2020-10-22-IP-库的-8020-法则与那些高大上的名词](https://toutiao.io/k/9jkm318) ![](assets/new.png)  
 - [2020-10-22-如何通过-Serverless-技术降低微服务应用资源成本？](https://toutiao.io/k/aa59xen) ![](assets/new.png)  
+- [2020-10-22-IP-库的-8020-法则与那些高大上的名词](https://toutiao.io/k/9jkm318) ![](assets/new.png)  
 - [2020-10-22-译-TypeScript：一个好泛型的价值](https://toutiao.io/k/fo5jtin) ![](assets/new.png)  
 - [2020-10-22-Protobuf：更小、更快、更简单的交互式数据语言](https://toutiao.io/k/chtr4zi) ![](assets/new.png)  
 - [2020-10-22-MQ，究竟如何做到削峰填谷？](https://toutiao.io/k/94vtcqh) ![](assets/new.png)  

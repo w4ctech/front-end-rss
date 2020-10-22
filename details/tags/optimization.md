@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-22 10:40:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 10:48:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -27,5 +27,4 @@
 - [2020-10-22-这才是-SQL-优化的正确姿势](https://toutiao.io/k/hargwgd) 
 - [2020-10-22-Spark-3.0-中七个必须知道的-SQL-性能优化](https://toutiao.io/k/bdsj50u) 
 - [2020-10-22-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) 
-- [2020-10-22-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) 
 - [2020-10-21-先声夺人|连中三元!腾讯云容器性能及安全能力获信通院最高级认证](https://sec.thief.one/article_content?a_id=b4f8952b2d733f08580bdcea36671eaa) 

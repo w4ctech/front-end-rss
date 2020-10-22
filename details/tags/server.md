@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-22 05:49:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 06:04:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -13,5 +13,6 @@
 - [2020-09-29-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b) 
 - [2020-10-20-完美：Docker遇到Intellij-IDEA这个插件，再次解放生产力~](https://www.ershicimi.com/p/1e6599289ddc9d9befc2543bc1adc497) 
 - [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) 
+- [2020-10-22-请教-Nginx-端口范围监听和代理的问题](https://www.v2ex.com/t/717434) 
 - [2020-10-22-nginx-真的支持高并发么](https://www.v2ex.com/t/717398) 
 - [2020-10-21-记一次渗透测试利用Portainer进行docker逃逸获得宿主机Ubuntu权限](https://sec.thief.one/article_content?a_id=0a8b8bc052d2eb83097335d806328a1e) 

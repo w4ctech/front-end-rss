@@ -16905,6 +16905,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "试用期还剩不到半个月，被博世(中国)投资有限公司解雇",
+        "link": "https://www.v2ex.com/t/717619",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "做图表有没有好用便宜的应用？",
+        "link": "https://www.v2ex.com/t/717618",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "烤/蒸红薯绝对是冬天最简单的美食了",
+        "link": "https://www.v2ex.com/t/717617",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "生成任务列表等待完成回调，如果进行超时重试和完成任务删除？",
+        "link": "https://www.v2ex.com/t/717616",
+        "date": "2020-10-22"
+      },
+      {
         "title": "[字节跳动] 北京 资深测试开发工程师-抖音电商创新项目 内推",
         "link": "https://www.v2ex.com/t/717614",
         "date": "2020-10-22"
@@ -17082,21 +17102,6 @@
       {
         "title": "B 站视频预览是如何实现的？",
         "link": "https://www.v2ex.com/t/717570",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "明天到货的朋友们，你们的 applestore 还能看到订单吗？",
-        "link": "https://www.v2ex.com/t/717569",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "Google 大规模封锁异常账号",
-        "link": "https://www.v2ex.com/t/717567",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "甲方这些行为算不算歧视外包人员？",
-        "link": "https://www.v2ex.com/t/717566",
         "date": "2020-10-22"
       }
     ]
@@ -17314,13 +17319,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
         "date": "2020-10-22"
       },
       {
@@ -17329,53 +17329,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-22"
-      },
-      {
         "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
         "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-22"
       },
       {
@@ -17384,8 +17339,58 @@
         "date": "2020-10-22"
       },
       {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-22"
+      },
+      {
         "title": "[推荐] 技术方案设计的方法",
         "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-22"
       }
     ]

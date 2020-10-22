@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 13:14:39，:rocket: 更新条数: +3524， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 13:28:14，:rocket: 更新条数: +3525， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,10 @@
 </summary>
 
 
+- [2020-10-22-试用期还剩不到半个月，被博世中国投资有限公司解雇](https://www.v2ex.com/t/717619) ![](assets/new.png)  
+- [2020-10-22-做图表有没有好用便宜的应用？](https://www.v2ex.com/t/717618) ![](assets/new.png)  
+- [2020-10-22-烤/蒸红薯绝对是冬天最简单的美食了](https://www.v2ex.com/t/717617) ![](assets/new.png)  
+- [2020-10-22-生成任务列表等待完成回调，如果进行超时重试和完成任务删除？](https://www.v2ex.com/t/717616) ![](assets/new.png)  
 - [2020-10-22-字节跳动-北京-资深测试开发工程师-抖音电商创新项目-内推](https://www.v2ex.com/t/717614) ![](assets/new.png)  
 - [2020-10-22-今年大家接种过疫苗？](https://www.v2ex.com/t/717613) ![](assets/new.png)  
 - [2020-10-22-shell-脚本求教](https://www.v2ex.com/t/717612) ![](assets/new.png)  
@@ -1083,10 +1087,6 @@
 - [2020-10-22-深圳-阿里巴巴-Lazada-P7，核心岗位缺人，机会](https://www.v2ex.com/t/717598) ![](assets/new.png)  
 - [2020-10-22-NEET-半年回来上班，但是感觉现在的状态很危险](https://www.v2ex.com/t/717597) ![](assets/new.png)  
 - [2020-10-22-团队直招-字节跳动---头条客户端平台架构团队直招](https://www.v2ex.com/t/717594) ![](assets/new.png)  
-- [2020-10-22-iOS14.1-崭新的-bug，连接蓝牙耳机，右上角没有耳机符号了](https://www.v2ex.com/t/717593) ![](assets/new.png)  
-- [2020-10-22-字节跳动社招校招=====内推](https://www.v2ex.com/t/717592) ![](assets/new.png)  
-- [2020-10-22-请教-SpringBoot-中-PriorityOrdered-这个接口，它的注释的后半段不太理解意思](https://www.v2ex.com/t/717591) ![](assets/new.png)  
-- [2020-10-22-工作选择问题，请各位前辈给点意见与看法](https://www.v2ex.com/t/717590) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

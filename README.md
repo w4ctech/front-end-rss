@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 15:41:59，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 15:49:10，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-22-川普的推特又被黑了](https://www.v2ex.com/t/717644) ![](assets/new.png)  
 - [2020-10-22-昨天晚上梦到自己想出一个写法，十几行代码就能高效率解决目前遇到的问题，醒来之后回忆了半天也没想起来梦里写的代码。](https://www.v2ex.com/t/717643) ![](assets/new.png)  
 - [2020-10-22-求电脑/手机，大文件内网/外网快速传输的工具](https://www.v2ex.com/t/717642) ![](assets/new.png)  
 - [2020-10-22-如何读取-pixel-2xl-主板序列号？-或者其他硬件序列号](https://www.v2ex.com/t/717641) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-22-求分析一个死锁问题以及解决方案](https://www.v2ex.com/t/717624) ![](assets/new.png)  
 - [2020-10-22-时隔-4-年，无意之间找到了当年的-v-站分享给我的-1Password-车位的大佬](https://www.v2ex.com/t/717623) ![](assets/new.png)  
 - [2020-10-22-请教：这台-Hackintosh-用-DP-能上-2k-的显示器吗？](https://www.v2ex.com/t/717622) ![](assets/new.png)  
-- [2020-10-22-南京自如，如需开具发票，一定是需要本人去办理吗？自如的租金收费是否涵盖额外税费？](https://www.v2ex.com/t/717621) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

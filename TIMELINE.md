@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-22 12:53:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-22 12:55:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -526,6 +526,7 @@
 - [【开发者头条】2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) 
 - [【开发者头条】2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) 
 - [【开发者头条】2020-10-22-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) 
+- [【安全热点】2020-10-22-奇安信总裁吴云坤:用“四化”思路应对“十四五”石油石化行业安全...](https://sec.thief.one/article_content?a_id=1bba2477a25806a55cf020f81b7e533f) 
 - [【安全热点】2020-10-22-英国上市公司Mode宣布将10%储备换成比特币,开创英国先例](https://sec.thief.one/article_content?a_id=f8758c4ac92021559310e43f318f524d) 
 - [【安全热点】2020-10-22-CVE-2017-8046-Spring-Data-REST命令执行漏洞分析](https://sec.thief.one/article_content?a_id=ab46c2906ee6b247fe166fcaab421820) 
 - [【安全热点】2020-10-22-伪善还是良心发现?勒索组织将钱捐赠给慈善组织](https://sec.thief.one/article_content?a_id=3196b95cbf18be67d7bd441f2d083474) 
@@ -625,7 +626,6 @@
 - [【安全热点】2020-10-20-Windows图像解析Fuzzing一:颜色配置文件](https://sec.thief.one/article_content?a_id=ad03dd8d6d07909205c4b4a46c906e64) 
 - [【安全热点】2020-10-20-第一批实现财务自由的90后都做对了什么:真正的赚钱从来不是靠拼命](https://sec.thief.one/article_content?a_id=2bc347fa56cbecc64ee572dec8846ea5) 
 - [【安全热点】2020-10-20-TikTok设立漏洞奖励计划,奖金标准为国内抖音的7倍](https://sec.thief.one/article_content?a_id=68bac9466eb20ec0afedd5a4df7a6a1c) 
-- [【安全热点】2020-10-20-第二届美团网络安全高校挑战赛M-Champion,今日起正式启动报名!](https://sec.thief.one/article_content?a_id=7ea70e35770cb68cdce1992c43bff534) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

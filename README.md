@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 12:53:07，:rocket: 更新条数: +3523， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 12:55:37，:rocket: 更新条数: +3523， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1160,6 +1160,7 @@
 </summary>
 
 
+- [2020-10-22-奇安信总裁吴云坤:用“四化”思路应对“十四五”石油石化行业安全...](https://sec.thief.one/article_content?a_id=1bba2477a25806a55cf020f81b7e533f) ![](assets/new.png)  
 - [2020-10-22-英国上市公司Mode宣布将10%储备换成比特币,开创英国先例](https://sec.thief.one/article_content?a_id=f8758c4ac92021559310e43f318f524d) ![](assets/new.png)  
 - [2020-10-22-CVE-2017-8046-Spring-Data-REST命令执行漏洞分析](https://sec.thief.one/article_content?a_id=ab46c2906ee6b247fe166fcaab421820) ![](assets/new.png)  
 - [2020-10-22-伪善还是良心发现?勒索组织将钱捐赠给慈善组织](https://sec.thief.one/article_content?a_id=3196b95cbf18be67d7bd441f2d083474) ![](assets/new.png)  
@@ -1179,7 +1180,6 @@
 - [2020-10-22-月薪5千,睡后收入5万:不是你不会赚钱,而是你赚钱的方式有问题.](https://sec.thief.one/article_content?a_id=7ad967fe9acec1dba92d42f6260c28d2) ![](assets/new.png)  
 - [2020-10-22-NSA发布中国黑客最常用TOP25漏洞](https://sec.thief.one/article_content?a_id=034fb1912b71d55dfc0e60d6e88f45ea) ![](assets/new.png)  
 - [2020-10-22-WebLogic-Server-高危安全漏洞风险提示10月](https://sec.thief.one/article_content?a_id=56feca13f64058d2300617b3ac97f63c) ![](assets/new.png)  
-- [2020-10-22-“深度伪造”的第一个大规模应用:色情机器人](https://sec.thief.one/article_content?a_id=b2a99628348bddfbfd0108a8c2e4b2a4) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

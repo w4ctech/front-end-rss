@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-22 12:53:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 12:55:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,6 +44,7 @@
 - [2020-10-22-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-22-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
+- [2020-10-22-奇安信总裁吴云坤:用“四化”思路应对“十四五”石油石化行业安全...](https://sec.thief.one/article_content?a_id=1bba2477a25806a55cf020f81b7e533f) 
 - [2020-10-22-使用VSCode远程调试恶意Powershell脚本](https://sec.thief.one/article_content?a_id=f119aa46a67a7fdb32974e48e91dd1fe) 
 - [2020-10-22-聚焦车联网安全|M01N战队荣获第三届车联网信息安全技能大赛一等奖](https://sec.thief.one/article_content?a_id=6f6c00a00518eceda8d667b8d4247bc9) 
 - [2020-10-22-感谢信-|-国舜股份网络安全保障能力获海关总署认可](https://sec.thief.one/article_content?a_id=7daa5e0715252d706204465b3c3d0023) 
@@ -70,4 +71,3 @@
 - [2020-10-20-做“推进等级保护2.0制度,筑牢网络安全防线”的践行者,绿盟科技...](https://sec.thief.one/article_content?a_id=693061447c89be6f4090650c82188d5c) 
 - [2020-10-20-2020网络安全分析与情报大会明日开幕-|-精彩预告](https://sec.thief.one/article_content?a_id=0908e80b6a66db4369c0a5c6b5296f6f) 
 - [2020-10-20-信息安全漏洞周报2020年第40期](https://sec.thief.one/article_content?a_id=88c6663510dee8b5cb092c3fff50c261) 
-- [2020-10-20-第二届美团网络安全高校挑战赛M-Champion,今日起正式启动报名!](https://sec.thief.one/article_content?a_id=7ea70e35770cb68cdce1992c43bff534) 

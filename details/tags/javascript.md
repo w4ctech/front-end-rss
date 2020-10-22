@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-22 04:39:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 04:48:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -118,6 +118,7 @@
 - [2020-10-17-那个「最牛删库跑路事件」的程序员，被判了....](https://www.ershicimi.com/p/b77c15fb99463067ca79fe4444c72b46) 
 - [2020-10-17-Spring-Boot-无侵入式-实现API接口统一JSON格式返回](https://www.ershicimi.com/p/c13b7a5c22f5b4146cc652ebd59d1863) 
 - [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
+- [2020-10-21-全面掌握ECMAScript新特性](https://juejin.im/post/6886274679359668231) 
 - [2020-10-21-译JavaScript-颜色处理库-Chroma.js-的应用](https://juejin.im/post/6886263418907688974) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
@@ -128,6 +129,8 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-10-22-请教一个数组取特定索引的问题](https://www.v2ex.com/t/717416) 
+- [2020-10-22-请问有孩子的您，如何看待-9-岁男生上课时遭到女同学家长拖拽击打头部，最后只拘留-10-天事件？](https://www.v2ex.com/t/717414) 
 - [2020-10-22-如何让一套代码适配所有-iOS-设备尺寸？](https://toutiao.io/k/f6c8tps) 
 - [2020-10-21-Python-处理-JSON-我选择-ujson-和-orjson](https://sec.thief.one/article_content?a_id=b41a3db156d74d499ac7ab2fe965c810) 
 - [2020-10-20-乌克兰断电事件、平昌冬奥会网络暗战的幕后主使名单](https://sec.thief.one/article_content?a_id=cc1cb0c6c27d597c9a891a0a5d2b540a) 

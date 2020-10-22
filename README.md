@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 02:34:29，:rocket: 更新条数: +3520， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 02:47:00，:rocket: 更新条数: +3520， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,11 @@
 </summary>
 
 
+- [2020-10-22-YouTube-的推荐系统，太差了](https://www.v2ex.com/t/717353) ![](assets/new.png)  
+- [2020-10-22-求助，如何测试网站性能](https://www.v2ex.com/t/717352) ![](assets/new.png)  
+- [2020-10-22-求助-电脑拷贝文件时间约-10-分钟系统失去响应](https://www.v2ex.com/t/717351) ![](assets/new.png)  
+- [2020-10-22-看到拆解报告决定把明天的-12-退了](https://www.v2ex.com/t/717350) ![](assets/new.png)  
+- [2020-10-22-各位的英文名叫什么？为什么取这个，有什么寓意吗？](https://www.v2ex.com/t/717348) ![](assets/new.png)  
 - [2020-10-22-现在的国产安卓手机看得上眼的都是-4.5K+，这个价格好像可以买-iPhone11-了吧。。。](https://www.v2ex.com/t/717347) ![](assets/new.png)  
 - [2020-10-22-有用-Quantumult-X-圈-X的小伙伴吗-切换不了模式是啥原因](https://www.v2ex.com/t/717346) ![](assets/new.png)  
 - [2020-10-22-微信搜索了某个人的聊天记录,聊天框就会被顶到前面](https://www.v2ex.com/t/717345) ![](assets/new.png)  
@@ -1082,11 +1087,6 @@
 - [2020-10-22-现在-iPhone-上-icloud、app-store-不能分开登录了？](https://www.v2ex.com/t/717332) ![](assets/new.png)  
 - [2020-10-22-请问-Python-如何读取-Excel-中的文本框](https://www.v2ex.com/t/717331) ![](assets/new.png)  
 - [2020-10-22-实习-微软亚洲研究院-防火墙开发工程师实习生](https://www.v2ex.com/t/717330) ![](assets/new.png)  
-- [2020-10-22-咨询一个-mongodb-的问题，大佬们来帮帮忙~~~~](https://www.v2ex.com/t/717329) ![](assets/new.png)  
-- [2020-10-22-不懂就问，等-IOS14.2-正式版发布以后，测试版-IOS14.2beta*-能顺利切换到正式版吗](https://www.v2ex.com/t/717328) ![](assets/new.png)  
-- [2020-10-22-有没有判断某日期是否为工作日的-api](https://www.v2ex.com/t/717327) ![](assets/new.png)  
-- [2020-10-22-笑脸考勤门禁，这又是什么奇葩的东西？](https://www.v2ex.com/t/717325) ![](assets/new.png)  
-- [2020-10-22-HUMANKIND™](https://www.v2ex.com/t/717324) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1133,22 +1133,22 @@
 - [2020-10-22-RTE-2020-实时互联网大会参会指南——今天我们线上见！](https://toutiao.io/k/bd86jqe) ![](assets/new.png)  
 - [2020-10-22-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
 - [2020-10-22-深入了解-ActiveMQ](https://toutiao.io/k/19sjvs1) ![](assets/new.png)  
-- [2020-10-22-从容器到云原生的趋势与实践](https://toutiao.io/k/vqfze1s) ![](assets/new.png)  
 - [2020-10-22-怎么样让自己的博客被谷歌和百度快速收录？](https://toutiao.io/k/49m1by4) ![](assets/new.png)  
+- [2020-10-22-从容器到云原生的趋势与实践](https://toutiao.io/k/vqfze1s) ![](assets/new.png)  
 - [2020-10-22-LeetCode-之最长回文串](https://toutiao.io/k/377t0oj) ![](assets/new.png)  
 - [2020-10-22-你可能不知道的平时在用的一致性协议-2PC、3PC？](https://toutiao.io/k/4oyem7x) ![](assets/new.png)  
 - [2020-10-22-如何让一套代码适配所有-iOS-设备尺寸？](https://toutiao.io/k/f6c8tps) ![](assets/new.png)  
 - [2020-10-22-部署到-Kubernetes-时初始化-Cassandra-数据库](https://toutiao.io/k/qy3ursk) ![](assets/new.png)  
-- [2020-10-22-这才是-SQL-优化的正确姿势](https://toutiao.io/k/hargwgd) ![](assets/new.png)  
 - [2020-10-22-如何通过-Serverless-技术降低微服务应用资源成本？](https://toutiao.io/k/aa59xen) ![](assets/new.png)  
+- [2020-10-22-这才是-SQL-优化的正确姿势](https://toutiao.io/k/hargwgd) ![](assets/new.png)  
 - [2020-10-22-IP-库的-8020-法则与那些高大上的名词](https://toutiao.io/k/9jkm318) ![](assets/new.png)  
 - [2020-10-22-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/k7nf2vd) ![](assets/new.png)  
 - [2020-10-22-译-TypeScript：一个好泛型的价值](https://toutiao.io/k/fo5jtin) ![](assets/new.png)  
-- [2020-10-22-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-22-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
+- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
 - [2020-10-22-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
 - [2020-10-22-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

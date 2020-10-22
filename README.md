@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 13:40:15，:rocket: 更新条数: +3756， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 13:47:14，:rocket: 更新条数: +3756， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,8 @@
 </summary>
 
 
+- [2020-10-22-南京自如，如需开具发票，一定是需要本人去办理吗？自如的租金收费是否涵盖额外税费？](https://www.v2ex.com/t/717621) ![](assets/new.png)  
+- [2020-10-22-xorm-官方文档网站打不开了](https://www.v2ex.com/t/717620) ![](assets/new.png)  
 - [2020-10-22-试用期还剩不到半个月，被博世中国投资有限公司解雇](https://www.v2ex.com/t/717619) ![](assets/new.png)  
 - [2020-10-22-做图表有没有好用便宜的应用？](https://www.v2ex.com/t/717618) ![](assets/new.png)  
 - [2020-10-22-烤/蒸红薯绝对是冬天最简单的美食了](https://www.v2ex.com/t/717617) ![](assets/new.png)  
@@ -1105,8 +1107,6 @@
 - [2020-10-22-等电梯时关于电梯广告的随想](https://www.v2ex.com/t/717601) ![](assets/new.png)  
 - [2020-10-22-Go-没有泛型，业务逻辑相似的-grpc-调用代码如何能更优雅一些？](https://www.v2ex.com/t/717599) ![](assets/new.png)  
 - [2020-10-22-深圳-阿里巴巴-Lazada-P7，核心岗位缺人，机会](https://www.v2ex.com/t/717598) ![](assets/new.png)  
-- [2020-10-22-NEET-半年回来上班，但是感觉现在的状态很危险](https://www.v2ex.com/t/717597) ![](assets/new.png)  
-- [2020-10-22-团队直招-字节跳动---头条客户端平台架构团队直招](https://www.v2ex.com/t/717594) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

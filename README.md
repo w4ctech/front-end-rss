@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 17:49:04，:rocket: 更新条数: +3737， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 18:04:23，:rocket: 更新条数: +3736， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,7 @@
 </summary>
 
 
+- [2020-10-22-不懂就问，大厂程序员收入水平](https://www.v2ex.com/t/717656) ![](assets/new.png)  
 - [2020-10-22-请教如何在-concurrent.futures-子进程里，无冲突地使用整个程序的全局队列？](https://www.v2ex.com/t/717655) ![](assets/new.png)  
 - [2020-10-22-Python-去重](https://www.v2ex.com/t/717654) ![](assets/new.png)  
 - [2020-10-22-NVIDIA-Driver-not-yet-supported-for-Linux-Kernel-5.9+](https://www.v2ex.com/t/717652) ![](assets/new.png)  
@@ -1095,7 +1096,6 @@
 - [2020-10-22-求指明一个关于图像绘制或编辑的解决方案](https://www.v2ex.com/t/717648) ![](assets/new.png)  
 - [2020-10-22-快手，我的隐私是如何被泄露的？一次诈骗记录！](https://www.v2ex.com/t/717647) ![](assets/new.png)  
 - [2020-10-22-Apple-Store-线下直营店可以用花呗免息吗？](https://www.v2ex.com/t/717646) ![](assets/new.png)  
-- [2020-10-22-川普的推特又被黑了](https://www.v2ex.com/t/717644) ![](assets/new.png)  
 - [2020-10-22-昨天晚上梦到自己想出一个写法，十几行代码就能高效率解决目前遇到的问题，醒来之后回忆了半天也没想起来梦里写的代码。](https://www.v2ex.com/t/717643) ![](assets/new.png)  
 - [2020-10-22-求电脑/手机，大文件内网/外网快速传输的工具](https://www.v2ex.com/t/717642) ![](assets/new.png)  
 - [2020-10-22-如何读取-pixel-2xl-主板序列号？-或者其他硬件序列号](https://www.v2ex.com/t/717641) ![](assets/new.png)  
@@ -1149,21 +1149,21 @@
 </summary>
 
 
-- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-22-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-22-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-22-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-22-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
 - [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
 - [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-22-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-22-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-22-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-22-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [2020-10-22-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
-- [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-22-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-22-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-22-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [2020-10-22-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-22-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-22-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -17652,8 +17652,8 @@
         "date": "2020-10-21"
       },
       {
-        "title": "uni-app支持PC版！",
-        "link": "https://juejin.im/post/6886261206403776520",
+        "title": "深入理解Promise",
+        "link": "https://juejin.im/post/6886247841686093837",
         "date": "2020-10-21"
       },
       {
@@ -18056,6 +18056,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[北京社招] [开黑啦] 高级 Windows 开发工程师 25k-40k*14 薪",
+        "link": "https://www.v2ex.com/t/717410",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "FaceTime 高清 (1080p) 视频通话",
+        "link": "https://www.v2ex.com/t/717409",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "Linux 版 edge 有人装上了吗？",
+        "link": "https://www.v2ex.com/t/717407",
+        "date": "2020-10-22"
+      },
+      {
         "title": "[杭州]物联网创业公司招募前端/后端( Java )实习生",
         "link": "https://www.v2ex.com/t/717406",
         "date": "2020-10-22"
@@ -18254,26 +18269,6 @@
         "title": "深圳联通 3G 网络没信号了吗？",
         "link": "https://www.v2ex.com/t/717363",
         "date": "2020-10-22"
-      },
-      {
-        "title": "朋友下海了开了一个房地产经纪公司。得知 v 友们对公司取名看风水颇有研究，所以烦请各路仙家赐名。两个字。",
-        "link": "https://www.v2ex.com/t/717360",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "字节跳动内推安全与风控部门---很多岗位",
-        "link": "https://www.v2ex.com/t/717359",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "My Setup!",
-        "link": "https://www.v2ex.com/t/717358",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[华为社招] 数据分析师（偏用户行为）",
-        "link": "https://www.v2ex.com/t/717357",
-        "date": "2020-10-22"
       }
     ]
   },
@@ -18450,13 +18445,13 @@
         "date": "2020-10-22"
       },
       {
-        "title": "如何通过 Serverless 技术降低微服务应用资源成本？",
-        "link": "https://toutiao.io/k/aa59xen",
+        "title": "硬核！15 张图解 Redis 为什么这么快",
+        "link": "https://toutiao.io/k/k7nf2vd",
         "date": "2020-10-22"
       },
       {
-        "title": "硬核！15 张图解 Redis 为什么这么快",
-        "link": "https://toutiao.io/k/k7nf2vd",
+        "title": "如何通过 Serverless 技术降低微服务应用资源成本？",
+        "link": "https://toutiao.io/k/aa59xen",
         "date": "2020-10-22"
       },
       {
@@ -18465,58 +18460,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
+        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
+        "link": "https://toutiao.io/k/ji0jw42",
         "date": "2020-10-22"
       },
       {
@@ -18525,8 +18470,53 @@
         "date": "2020-10-22"
       },
       {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-22"
+      },
+      {
         "title": "[推荐] 怎么排查 CPU 飙升",
         "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-22"
       },
       {
@@ -18535,8 +18525,13 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-22"
       }
     ]

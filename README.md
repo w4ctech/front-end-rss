@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 04:16:34，:rocket: 更新条数: +3754， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 04:32:29，:rocket: 更新条数: +3753， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -968,7 +968,7 @@
 
 
 - [2020-10-21-Node.js-15-正式版发布](https://juejin.im/post/6886289343544033287) ![](assets/new.png)  
-- [2020-10-21-uni-app支持PC版！](https://juejin.im/post/6886261206403776520) ![](assets/new.png)  
+- [2020-10-21-深入理解Promise](https://juejin.im/post/6886247841686093837) ![](assets/new.png)  
 - [2020-10-21-CSS的浮动和定位布局详细（全）](https://juejin.im/post/6886247611318140942) ![](assets/new.png)  
 - [2020-10-21-使用-some、-every和-Object.values-检查对象内的值](https://juejin.im/post/6886100807201226760) ![](assets/new.png)  
 - [2020-10-21-前端代码质量4-commit校验及changelog生成](https://juejin.im/post/6886072051942211597) ![](assets/new.png)  
@@ -1087,6 +1087,9 @@
 </summary>
 
 
+- [2020-10-22-北京社招-开黑啦-高级-Windows-开发工程师-25k-40k*14-薪](https://www.v2ex.com/t/717410) ![](assets/new.png)  
+- [2020-10-22-FaceTime-高清-1080p-视频通话](https://www.v2ex.com/t/717409) ![](assets/new.png)  
+- [2020-10-22-Linux-版-edge-有人装上了吗？](https://www.v2ex.com/t/717407) ![](assets/new.png)  
 - [2020-10-22-杭州物联网创业公司招募前端/后端-Java-实习生](https://www.v2ex.com/t/717406) ![](assets/new.png)  
 - [2020-10-22-下午茶都能拼，面试不能拼吗？](https://www.v2ex.com/t/717405) ![](assets/new.png)  
 - [2020-10-22-求助淘宝店铺如何设置花呗收款](https://www.v2ex.com/t/717404) ![](assets/new.png)  
@@ -1104,9 +1107,6 @@
 - [2020-10-22-各位耳帝-麻烦推荐个耳机-便宜大碗的](https://www.v2ex.com/t/717391) ![](assets/new.png)  
 - [2020-10-22-golang-这个-panic-老是整不明白](https://www.v2ex.com/t/717389) ![](assets/new.png)  
 - [2020-10-22-从一段脚本的变身说起分享一枚自用工具箱）](https://www.v2ex.com/t/717388) ![](assets/new.png)  
-- [2020-10-22-玩了半年，有些不知道該幹什麼了](https://www.v2ex.com/t/717387) ![](assets/new.png)  
-- [2020-10-22-字节跳动---抖音创作工具团队内推-20-60K-上海-杭州](https://www.v2ex.com/t/717386) ![](assets/new.png)  
-- [2020-10-22-不要包包和-iPhone-，送老婆-1W-元左右的生日礼物送啥好？](https://www.v2ex.com/t/717385) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1161,14 +1161,14 @@
 - [2020-10-22-部署到-Kubernetes-时初始化-Cassandra-数据库](https://toutiao.io/k/qy3ursk) ![](assets/new.png)  
 - [2020-10-22-这才是-SQL-优化的正确姿势](https://toutiao.io/k/hargwgd) ![](assets/new.png)  
 - [2020-10-22-IP-库的-8020-法则与那些高大上的名词](https://toutiao.io/k/9jkm318) ![](assets/new.png)  
-- [2020-10-22-如何通过-Serverless-技术降低微服务应用资源成本？](https://toutiao.io/k/aa59xen) ![](assets/new.png)  
 - [2020-10-22-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/k7nf2vd) ![](assets/new.png)  
+- [2020-10-22-如何通过-Serverless-技术降低微服务应用资源成本？](https://toutiao.io/k/aa59xen) ![](assets/new.png)  
 - [2020-10-22-译-TypeScript：一个好泛型的价值](https://toutiao.io/k/fo5jtin) ![](assets/new.png)  
-- [2020-10-22-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-22-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-22-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [2020-10-22-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
+- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

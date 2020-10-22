@@ -13672,36 +13672,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/coronavirus/dxy",
+    "rss": "https://rss.shab.fun/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "德国疾控专家：当前德国疫情形势“极其严峻”",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifGhZFshCwwPSeJ7JFLRk201022&isfromapp=1",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "疫情形势持续恶化 全美42个州住院人数持续上升",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinDeudU2WFSUd2aUQD2xY201022&isfromapp=1",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "香港新增11例新冠肺炎确诊病例 累计5280例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwiAQp11d5xtieihLeMTQ201022&isfromapp=1",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "德国单日新增新冠病毒感染病例首次破万 累计确诊392049例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinNp0IZPoBb9NIACyfKsT201022&isfromapp=1",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "捷克新冠肺炎确诊病例累计超20万 捷克再次颁布“封锁令”",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyZyqvP0LMWjgI0L695RC201022&isfromapp=1",
-        "date": "2020-10-21"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",
@@ -14637,110 +14611,9 @@
     "link": "https://www.ershicimi.com/a/169"
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/892",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/892",
     "title": "前端大学",
-    "items": [
-      {
-        "title": "大厂面试必备，Vue框架的最佳实践与源码！",
-        "link": "https://www.ershicimi.com/p/0ed28722d8438ce05d53ee0cc1fc5482",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "华为程序员节这么过？看的我都酸了...",
-        "link": "https://www.ershicimi.com/p/6c803f3cca37484990b1351612b26911",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "Vue 中 Axios 的封装和 API 接口的管理",
-        "link": "https://www.ershicimi.com/p/2d1c8e1758a2bc37f9d1b6236b4ad14a",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "为什么React还是比Vue受欢迎？",
-        "link": "https://www.ershicimi.com/p/d0757505cbddaf2e0648a7da2dcb2569",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "ES2020中JavaScript 10个你应该知道的新功能",
-        "link": "https://www.ershicimi.com/p/465789059fe1d5cfee3df476216eb59a",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "前端程序员现状：不突破瓶颈很难生存！",
-        "link": "https://www.ershicimi.com/p/277137682ea8a40c93434375e174bb34",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "我在众多AI学习的分享中，找到了最强教学系列视频！",
-        "link": "https://www.ershicimi.com/p/eba5bb49df092314f8ce374e745cca90",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "有赞美业前端： 持续标准化 Code Review",
-        "link": "https://www.ershicimi.com/p/b8ec5bada8e183c1aba78aa6176b6279",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "如何在从事前端两年，得到20K+的offer",
-        "link": "https://www.ershicimi.com/p/fa0312da26731d7547946d88b01be50d",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "webpack如何快速入门？",
-        "link": "https://www.ershicimi.com/p/72cb35fa3d75999fdb846a6f1ad79636",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "前端赋能业务：Node实现自动化部署平台",
-        "link": "https://www.ershicimi.com/p/bb121b910148c883d3d1c8243fa7abdf",
-        "date": "2020-10-12"
-      },
-      {
-        "title": "Vue3+TypeScript完整项目上手教程",
-        "link": "https://www.ershicimi.com/p/a1f58e05342565128a63f7116db38e2a",
-        "date": "2020-10-10"
-      },
-      {
-        "title": "四年前端，竟在这道CSS面试题上跪了",
-        "link": "https://www.ershicimi.com/p/77b12c47a3599719d7add23051b45375",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "张一鸣：给产品技术人才的建议",
-        "link": "https://www.ershicimi.com/p/0186fc2099f91f55f16742b8e47e4b67",
-        "date": "2020-10-09"
-      },
-      {
-        "title": "Python之父：JS不是竞争对手",
-        "link": "https://www.ershicimi.com/p/062db78e78423e7cbc7060635ad185f8",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "大部分人都会做错的经典 JS 闭包面试题",
-        "link": "https://www.ershicimi.com/p/e4916ac661cae6cc50e27b2a0403c6ef",
-        "date": "2020-10-08"
-      },
-      {
-        "title": "记录下入职中软一个月（外包华为），就离职了！",
-        "link": "https://www.ershicimi.com/p/b70ca359ccd3ca843fb5219bacd97115",
-        "date": "2020-10-05"
-      },
-      {
-        "title": "32个手撕JS，彻底摆脱初级前端（面试高频）",
-        "link": "https://www.ershicimi.com/p/44b1a720095cf182b60ca705dc167ae9",
-        "date": "2020-09-29"
-      },
-      {
-        "title": "前端：写在 30 岁之前",
-        "link": "https://www.ershicimi.com/p/d70a746668b2a01dddbdfcbca4439741",
-        "date": "2020-09-27"
-      },
-      {
-        "title": "全面分析toString与valueOf，并随手解决掉几道大厂必备面试题",
-        "link": "https://www.ershicimi.com/p/46732a0e26399e87a94fef1d37b39bba",
-        "date": "2020-09-27"
-      }
-    ],
+    "items": [],
     "link": "https://www.ershicimi.com/a/892"
   },
   {
@@ -16900,216 +16773,10 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
+    "rss": "https://rss.shab.fun/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": [
-      {
-        "title": "大家好，想问一下我现在开的 youtube premium 的车是印度的 play store 账号+印度的 youtube premium 订阅，有办法变成美区的 play store 账号+印度 yt premium ...",
-        "link": "https://www.v2ex.com/t/717637",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "回家~（此处有萨克斯）",
-        "link": "https://www.v2ex.com/t/717636",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[上海] 沪江-前端招聘（急）组内直招",
-        "link": "https://www.v2ex.com/t/717635",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "有没有了解朋友圈广告推荐策略的朋友",
-        "link": "https://www.v2ex.com/t/717634",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "我突然意识到浮冰融化不会导致水面高度上涨…",
-        "link": "https://www.v2ex.com/t/717633",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "国外手机号注册的微博必须要绑定国内手机号才能登录了",
-        "link": "https://www.v2ex.com/t/717631",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "拿留学生作业代写当副业靠谱吗",
-        "link": "https://www.v2ex.com/t/717630",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "刚刚发现百度 Linux 输入法发布了",
-        "link": "https://www.v2ex.com/t/717629",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "为什么我.plot.bar 出现的图表只显示其中的很小的一部分",
-        "link": "https://www.v2ex.com/t/717628",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "关于 GitHub 上面开源许可的请教",
-        "link": "https://www.v2ex.com/t/717626",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "Air Pods Pro 两边电量不一样是什么原因？",
-        "link": "https://www.v2ex.com/t/717625",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "求分析一个死锁问题以及解决方案",
-        "link": "https://www.v2ex.com/t/717624",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "时隔 4 年，无意之间找到了当年的 v 站分享给我的 1Password 车位的大佬",
-        "link": "https://www.v2ex.com/t/717623",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "请教：这台 Hackintosh 用 DP 能上 2k 的显示器吗？",
-        "link": "https://www.v2ex.com/t/717622",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "南京自如，如需开具发票，一定是需要本人去办理吗？自如的租金收费是否涵盖额外税费？",
-        "link": "https://www.v2ex.com/t/717621",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "xorm 官方文档网站打不开了",
-        "link": "https://www.v2ex.com/t/717620",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "试用期还剩不到半个月，被博世(中国)投资有限公司解雇",
-        "link": "https://www.v2ex.com/t/717619",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "做图表有没有好用便宜的应用？",
-        "link": "https://www.v2ex.com/t/717618",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "烤/蒸红薯绝对是冬天最简单的美食了",
-        "link": "https://www.v2ex.com/t/717617",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "生成任务列表等待完成回调，如果进行超时重试和完成任务删除？",
-        "link": "https://www.v2ex.com/t/717616",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[字节跳动] 北京 资深测试开发工程师-抖音电商创新项目 内推",
-        "link": "https://www.v2ex.com/t/717614",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "今年大家接种过疫苗？",
-        "link": "https://www.v2ex.com/t/717613",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "shell 脚本求教",
-        "link": "https://www.v2ex.com/t/717612",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "小米要等到 11.11 当天才开始吗……",
-        "link": "https://www.v2ex.com/t/717611",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "八位堂街机摇杆 V3",
-        "link": "https://www.v2ex.com/t/717610",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "蚂蚁核心部门内推啦，发展机会好！",
-        "link": "https://www.v2ex.com/t/717608",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "重制拳皇 97",
-        "link": "https://www.v2ex.com/t/717607",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "腾讯云 cos 一直 503",
-        "link": "https://www.v2ex.com/t/717606",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "踩了一个 Java 编译时和运行时环境不一致导致的一个坑",
-        "link": "https://www.v2ex.com/t/717605",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "意外发现百度把 MutationObserver 覆盖为 null 了",
-        "link": "https://www.v2ex.com/t/717604",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "做了三个月的社区上线了，喜欢玩游戏的朋友欢迎围观，好礼相送",
-        "link": "https://www.v2ex.com/t/717603",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "等电梯时关于电梯广告的随想",
-        "link": "https://www.v2ex.com/t/717601",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "Go 没有泛型，业务逻辑相似的 grpc 调用代码如何能更优雅一些？",
-        "link": "https://www.v2ex.com/t/717599",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[深圳] 阿里巴巴 Lazada P7，核心岗位缺人，机会",
-        "link": "https://www.v2ex.com/t/717598",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "NEET 半年回来上班，但是感觉现在的状态很危险",
-        "link": "https://www.v2ex.com/t/717597",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[团队直招] 字节跳动 - 头条客户端平台架构团队直招",
-        "link": "https://www.v2ex.com/t/717594",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "iOS14.1 崭新的 bug，连接蓝牙耳机，右上角没有耳机符号了",
-        "link": "https://www.v2ex.com/t/717593",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "字节跳动社招校招=====内推",
-        "link": "https://www.v2ex.com/t/717592",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "请教 SpringBoot 中 PriorityOrdered 这个接口，它的注释的后半段不太理解意思",
-        "link": "https://www.v2ex.com/t/717591",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "工作选择问题，请各位前辈给点意见与看法",
-        "link": "https://www.v2ex.com/t/717590",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "吐槽下印象笔记的服务",
-        "link": "https://www.v2ex.com/t/717588",
-        "date": "2020-10-22"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -17324,28 +16991,23 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
-        "link": "https://toutiao.io/k/qexzdh8",
-        "date": "2020-10-22"
-      },
-      {
         "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
         "link": "https://toutiao.io/k/tt5pijb",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
+        "title": "[推荐] 如果你有一台 Mac，建议试试这款效率神器：Alfred",
+        "link": "https://toutiao.io/k/yg1fs4r",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-22"
       },
       {
@@ -17359,23 +17021,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 如果你有一台 Mac，建议试试这款效率神器：Alfred",
-        "link": "https://toutiao.io/k/yg1fs4r",
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-22"
       },
       {
@@ -17384,18 +17031,38 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
         "date": "2020-10-22"
       },
       {
         "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
         "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-22"
       }
     ]

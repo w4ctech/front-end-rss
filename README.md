@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 11:39:24，:rocket: 更新条数: +3753， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 11:47:26，:rocket: 更新条数: +3753， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,7 @@
 </summary>
 
 
+- [2020-10-22-工作选择问题，请各位前辈给点意见与看法](https://www.v2ex.com/t/717590) ![](assets/new.png)  
 - [2020-10-22-吐槽下印象笔记的服务](https://www.v2ex.com/t/717588) ![](assets/new.png)  
 - [2020-10-22-迫于实在写不出来方案，求技术博客](https://www.v2ex.com/t/717587) ![](assets/new.png)  
 - [2020-10-22-Airpods-Pro-耳塞拔下就烂了](https://www.v2ex.com/t/717586) ![](assets/new.png)  
@@ -1106,7 +1107,6 @@
 - [2020-10-22-明天到货的朋友们，你们的-applestore-还能看到订单吗？](https://www.v2ex.com/t/717569) ![](assets/new.png)  
 - [2020-10-22-Google-大规模封锁异常账号](https://www.v2ex.com/t/717567) ![](assets/new.png)  
 - [2020-10-22-甲方这些行为算不算歧视外包人员？](https://www.v2ex.com/t/717566) ![](assets/new.png)  
-- [2020-10-22-新版-Edge-太好用了，已卸载-Chrome。](https://www.v2ex.com/t/717565) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

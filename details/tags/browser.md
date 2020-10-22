@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-22 11:39:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 11:47:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -52,6 +52,7 @@
 - [2020-10-22-自己的服务器固定一个短链接到卖🔑的地方，安全吗](https://www.v2ex.com/t/717549) 
 - [2020-10-22-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-22-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
 - [2020-10-22-使用VSCode远程调试恶意Powershell脚本](https://sec.thief.one/article_content?a_id=f119aa46a67a7fdb32974e48e91dd1fe) 
 - [2020-10-22-聚焦车联网安全|M01N战队荣获第三届车联网信息安全技能大赛一等奖](https://sec.thief.one/article_content?a_id=6f6c00a00518eceda8d667b8d4247bc9) 
 - [2020-10-22-感谢信-|-国舜股份网络安全保障能力获海关总署认可](https://sec.thief.one/article_content?a_id=7daa5e0715252d706204465b3c3d0023) 

@@ -17647,29 +17647,29 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "超详|2020年你不应该错过的CSS新特性",
-        "link": "https://juejin.im/post/6886258269137043464",
+        "title": "深入理解Promise",
+        "link": "https://juejin.im/post/6886247841686093837",
         "date": "2020-10-21"
       },
       {
-        "title": "基于 qiankun 的 CMS 应用微前端实践",
-        "link": "https://juejin.im/post/6886240723595689997",
+        "title": "CSS的浮动和定位布局详细（全）",
+        "link": "https://juejin.im/post/6886247611318140942",
         "date": "2020-10-21"
       },
       {
-        "title": "前端如何一键生成多维度数据可视化分析报表",
-        "link": "https://juejin.im/post/6886089003481694215",
+        "title": "使用 some、 every和 Object.values 检查对象内的值",
+        "link": "https://juejin.im/post/6886100807201226760",
         "date": "2020-10-21"
       },
       {
-        "title": "鸿蒙应用开发之ListContainer",
-        "link": "https://juejin.im/post/6886043436978601992",
+        "title": "前端代码质量(4)-commit校验及changelog生成",
+        "link": "https://juejin.im/post/6886072051942211597",
         "date": "2020-10-21"
       },
       {
-        "title": "前端国际化辅助工具——自动替换中文并翻译",
-        "link": "https://juejin.im/post/6874421714143412237",
-        "date": "2020-09-19"
+        "title": "Content-Type和文件上传那些事儿",
+        "link": "https://juejin.im/post/6886053810788106247",
+        "date": "2020-10-21"
       }
     ]
   },
@@ -18056,6 +18056,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "nginx 真的支持高并发么",
+        "link": "https://www.v2ex.com/t/717398",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "收购源码，买断或者合作运营推广",
+        "link": "https://www.v2ex.com/t/717397",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "好残忍，放大 100 倍后 Airpods 的网罩",
+        "link": "https://www.v2ex.com/t/717396",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "iPhone 12 采用高通 X55 基带",
+        "link": "https://www.v2ex.com/t/717395",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "关于小区 刷脸开门 代替门禁卡。。。。",
+        "link": "https://www.v2ex.com/t/717394",
+        "date": "2020-10-22"
+      },
+      {
         "title": "有什么适合中老年的游戏吗",
         "link": "https://www.v2ex.com/t/717392",
         "date": "2020-10-22"
@@ -18171,11 +18196,6 @@
         "date": "2020-10-22"
       },
       {
-        "title": "吐个槽，双 11 后快递公司怕是要涨价了",
-        "link": "https://www.v2ex.com/t/717367",
-        "date": "2020-10-22"
-      },
-      {
         "title": "木兰编程语言 0.0.14.4：中文报错信息规整，枚举引用新发现",
         "link": "https://www.v2ex.com/t/717366",
         "date": "2020-10-22"
@@ -18243,26 +18263,6 @@
       {
         "title": "看到拆解报告决定把明天的 12 退了",
         "link": "https://www.v2ex.com/t/717350",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "各位的英文名叫什么？为什么取这个，有什么寓意吗？",
-        "link": "https://www.v2ex.com/t/717348",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "现在的国产安卓手机看得上眼的都是 4.5K+，这个价格好像可以买 iPhone11 了吧。。。",
-        "link": "https://www.v2ex.com/t/717347",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "有用 Quantumult X (圈 X)的小伙伴吗 切换不了模式是啥原因",
-        "link": "https://www.v2ex.com/t/717346",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "微信搜索了某个人的聊天记录,聊天框就会被顶到前面",
-        "link": "https://www.v2ex.com/t/717345",
         "date": "2020-10-22"
       }
     ]
@@ -18455,8 +18455,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
         "date": "2020-10-22"
       },
       {
@@ -18465,18 +18465,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-22"
       },
       {
@@ -18490,23 +18480,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-22"
       },
       {
@@ -18520,13 +18495,38 @@
         "date": "2020-10-22"
       },
       {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-22"
+      },
+      {
         "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
         "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-22"
       }
     ]

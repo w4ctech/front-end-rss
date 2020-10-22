@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 15:04:18，:rocket: 更新条数: +3523， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 15:15:05，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
@@ -715,6 +715,9 @@
 </summary>
 
 
+- [2020-10-16-科技爱好者周刊（第-129-期）：创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html) ![](assets/new.png)  
+- [2020-10-09-科技爱好者周刊（第-128-期）：这个社会是否正在变成"赛博朋克"？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html) ![](assets/new.png)  
+- [2020-09-30-科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1064,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-22-大家好，想问一下我现在开的-youtube-premium-的车是印度的-play-store-账号+印度的-youtube-premium-订阅，有办法变成美区的-play-store-账号+印度-yt-premium-...](https://www.v2ex.com/t/717637) ![](assets/new.png)  
 - [2020-10-22-回家~（此处有萨克斯）](https://www.v2ex.com/t/717636) ![](assets/new.png)  
 - [2020-10-22-上海-沪江-前端招聘（急）组内直招](https://www.v2ex.com/t/717635) ![](assets/new.png)  
 - [2020-10-22-有没有了解朋友圈广告推荐策略的朋友](https://www.v2ex.com/t/717634) ![](assets/new.png)  
@@ -1083,7 +1087,6 @@
 - [2020-10-22-做图表有没有好用便宜的应用？](https://www.v2ex.com/t/717618) ![](assets/new.png)  
 - [2020-10-22-烤/蒸红薯绝对是冬天最简单的美食了](https://www.v2ex.com/t/717617) ![](assets/new.png)  
 - [2020-10-22-生成任务列表等待完成回调，如果进行超时重试和完成任务删除？](https://www.v2ex.com/t/717616) ![](assets/new.png)  
-- [2020-10-22-字节跳动-北京-资深测试开发工程师-抖音电商创新项目-内推](https://www.v2ex.com/t/717614) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

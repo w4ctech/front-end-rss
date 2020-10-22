@@ -15767,7 +15767,23 @@
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
-    "items": []
+    "items": [
+      {
+        "title": "科技爱好者周刊（第 129 期）：创业的凸函数和凹函数",
+        "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "科技爱好者周刊（第 128 期）：这个社会是否正在变成\"赛博朋克\"？",
+        "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "科技爱好者周刊（第 127 期）：未来人人开发软件，几乎没人编码",
+        "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html",
+        "date": "2020-09-30"
+      }
+    ]
   },
   {
     "rss": "http://jdc.jd.com/feed",
@@ -16889,6 +16905,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大家好，想问一下我现在开的 youtube premium 的车是印度的 play store 账号+印度的 youtube premium 订阅，有办法变成美区的 play store 账号+印度 yt premium ...",
+        "link": "https://www.v2ex.com/t/717637",
+        "date": "2020-10-22"
+      },
+      {
         "title": "回家~（此处有萨克斯）",
         "link": "https://www.v2ex.com/t/717636",
         "date": "2020-10-22"
@@ -17086,11 +17107,6 @@
       {
         "title": "吐槽下印象笔记的服务",
         "link": "https://www.v2ex.com/t/717588",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "迫于实在写不出来方案，求技术博客",
-        "link": "https://www.v2ex.com/t/717587",
         "date": "2020-10-22"
       }
     ]
@@ -17308,13 +17324,13 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 如果你有一台 Mac，建议试试这款效率神器：Alfred",
-        "link": "https://toutiao.io/k/yg1fs4r",
+        "title": "[推荐] 2020 最全电子书搜索网站，找电子书不再愁",
+        "link": "https://toutiao.io/k/qexzdh8",
         "date": "2020-10-22"
       },
       {
@@ -17323,8 +17339,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
+        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
+        "link": "https://toutiao.io/k/fhmqfyd",
         "date": "2020-10-22"
       },
       {
@@ -17333,18 +17349,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-22"
       },
       {
@@ -17353,8 +17359,13 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-22"
       },
       {
@@ -17363,8 +17374,18 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
+        "title": "[推荐] 如果你有一台 Mac，建议试试这款效率神器：Alfred",
+        "link": "https://toutiao.io/k/yg1fs4r",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-22"
       },
       {
@@ -17373,13 +17394,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-22"
       }
     ]

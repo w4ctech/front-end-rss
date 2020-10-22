@@ -10,6 +10,11 @@
         "date": "2020-10-21"
       },
       {
+        "title": "大流行手记|10月21日：美国年轻群体超额死亡率暴增 英国明春或无法大规模使用疫苗",
+        "link": "https://m.caixin.com/m/2020-10-22/101617371.html",
+        "date": "2020-10-21"
+      },
+      {
         "title": "最新海外疫情：新冠感染超4059万 累计死亡近112万",
         "link": "https://m.caixin.com/m/2020-10-21/101617151.html",
         "date": "2020-10-20"
@@ -17632,6 +17637,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "基于 qiankun 的 CMS 应用微前端实践",
+        "link": "https://juejin.im/post/6886240723595689997",
+        "date": "2020-10-21"
+      },
+      {
         "title": "前端如何一键生成多维度数据可视化分析报表",
         "link": "https://juejin.im/post/6886089003481694215",
         "date": "2020-10-21"
@@ -17644,11 +17654,6 @@
       {
         "title": "当我谈 Rax 按端拆分代码的时候我谈些什么",
         "link": "https://juejin.im/post/6886031972884774925",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "朝花夕拾 - 2020 1024",
-        "link": "https://juejin.im/post/6886000134732627981",
         "date": "2020-10-21"
       },
       {
@@ -18041,6 +18046,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "剩余空间剩余 167G 的 mac 备份不了 128G 的 iPhone ？",
+        "link": "https://www.v2ex.com/t/717306",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "FileCoin 被套牢了",
+        "link": "https://www.v2ex.com/t/717305",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "ssh 工具推荐",
+        "link": "https://www.v2ex.com/t/717304",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "三十而立中的\"立\"具体指的是什么?",
+        "link": "https://www.v2ex.com/t/717303",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "双 11 准备给家里的老年人换部手机，价格 1k～ 2k，请问各位 V 友有什么推荐么？",
+        "link": "https://www.v2ex.com/t/717302",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "早上好,程序员!一人一句心灵鸡汤来开启今天的撸码生活吧",
+        "link": "https://www.v2ex.com/t/717301",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "iPhone 扫码成功的时候扬声器有异响",
+        "link": "https://www.v2ex.com/t/717299",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "坚果的 tnt 扩展板如果是电子墨水屏 有多少人会买？",
+        "link": "https://www.v2ex.com/t/717298",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "iPhone 迁移数据会消耗流量",
+        "link": "https://www.v2ex.com/t/717297",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "谁用过八位堂的蓝牙手柄",
+        "link": "https://www.v2ex.com/t/717296",
+        "date": "2020-10-22"
+      },
+      {
         "title": "有没有实用的果蔬清洗机器推荐一下？",
         "link": "https://www.v2ex.com/t/717294",
         "date": "2020-10-22"
@@ -18174,41 +18229,6 @@
         "title": "有支持 Dolby Vision 的 4K 显示器推荐吗？",
         "link": "https://www.v2ex.com/t/717257",
         "date": "2020-10-21"
-      },
-      {
-        "title": "V 友帮忙看下，做这个系统，应该报价多少比较合适呢？",
-        "link": "https://www.v2ex.com/t/717256",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "下周准备去武汉玩，求推荐景点。",
-        "link": "https://www.v2ex.com/t/717253",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "迷途小羔羊求各位大佬带着干点活",
-        "link": "https://www.v2ex.com/t/717251",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "[数据恢复] 这种小 U 盘几百能搞定吗？寄过去一家检测完说要 1k6，我又退回来了",
-        "link": "https://www.v2ex.com/t/717250",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "亲爱的，谁知道那里有滤蓝光的眼镜贴膜卖",
-        "link": "https://www.v2ex.com/t/717249",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "最近想换手机,预算三千多,有啥推荐吗?",
-        "link": "https://www.v2ex.com/t/717247",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "不懂就问，想用树莓派做一个无人机 有文章可以参考吗？",
-        "link": "https://www.v2ex.com/t/717245",
-        "date": "2020-10-21"
       }
     ]
   },
@@ -18340,6 +18360,11 @@
         "date": "2020-10-22"
       },
       {
+        "title": "我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-22"
+      },
+      {
         "title": "LeetCode 之最长回文串",
         "link": "https://toutiao.io/k/377t0oj",
         "date": "2020-10-22"
@@ -18350,8 +18375,43 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] Redis 6.0 如何实现大幅度的性能提升？",
-        "link": "https://toutiao.io/k/ji0jw42",
+        "title": "你可能不知道的平时在用的一致性协议 2PC、3PC？",
+        "link": "https://toutiao.io/k/4oyem7x",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "从容器到云原生的趋势与实践",
+        "link": "https://toutiao.io/k/vqfze1s",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "怎么样让自己的博客被谷歌和百度快速收录？",
+        "link": "https://toutiao.io/k/49m1by4",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "如何让一套代码适配所有 iOS 设备尺寸？",
+        "link": "https://toutiao.io/k/f6c8tps",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
+        "link": "https://toutiao.io/k/tt5pijb",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-22"
       },
       {
@@ -18360,18 +18420,23 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-22"
-      },
-      {
         "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
         "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] Paxos 分布式必问的内容，没有之一",
-        "link": "https://toutiao.io/k/fhmqfyd",
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
         "date": "2020-10-22"
       },
       {
@@ -18380,8 +18445,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
         "date": "2020-10-22"
       },
       {
@@ -18395,28 +18460,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 秒懂 JVM 的三大参数类型，就靠这十个小实验了",
-        "link": "https://toutiao.io/k/tt5pijb",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-22"
-      },
-      {
         "title": "[推荐] 我是如何阅读 JDK 源码的？",
         "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-22"
       },
       {

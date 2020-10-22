@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 14:15:47，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 14:30:14，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,8 @@
 </summary>
 
 
+- [2020-10-22-我突然意识到浮冰融化不会导致水面高度上涨…](https://www.v2ex.com/t/717633) ![](assets/new.png)  
+- [2020-10-22-国外手机号注册的微博必须要绑定国内手机号才能登录了](https://www.v2ex.com/t/717631) ![](assets/new.png)  
 - [2020-10-22-拿留学生作业代写当副业靠谱吗](https://www.v2ex.com/t/717630) ![](assets/new.png)  
 - [2020-10-22-刚刚发现百度-Linux-输入法发布了](https://www.v2ex.com/t/717629) ![](assets/new.png)  
 - [2020-10-22-为什么我.plot.bar-出现的图表只显示其中的很小的一部分](https://www.v2ex.com/t/717628) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-22-今年大家接种过疫苗？](https://www.v2ex.com/t/717613) ![](assets/new.png)  
 - [2020-10-22-shell-脚本求教](https://www.v2ex.com/t/717612) ![](assets/new.png)  
 - [2020-10-22-小米要等到-11.11-当天才开始吗……](https://www.v2ex.com/t/717611) ![](assets/new.png)  
-- [2020-10-22-八位堂街机摇杆-V3](https://www.v2ex.com/t/717610) ![](assets/new.png)  
-- [2020-10-22-蚂蚁核心部门内推啦，发展机会好！](https://www.v2ex.com/t/717608) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1138,8 +1138,8 @@
 - [2020-10-22-LeetCode-之最长回文串](https://toutiao.io/k/377t0oj) ![](assets/new.png)  
 - [2020-10-22-你可能不知道的平时在用的一致性协议-2PC、3PC？](https://toutiao.io/k/4oyem7x) ![](assets/new.png)  
 - [2020-10-22-如何让一套代码适配所有-iOS-设备尺寸？](https://toutiao.io/k/f6c8tps) ![](assets/new.png)  
-- [2020-10-22-部署到-Kubernetes-时初始化-Cassandra-数据库](https://toutiao.io/k/qy3ursk) ![](assets/new.png)  
 - [2020-10-22-这才是-SQL-优化的正确姿势](https://toutiao.io/k/hargwgd) ![](assets/new.png)  
+- [2020-10-22-部署到-Kubernetes-时初始化-Cassandra-数据库](https://toutiao.io/k/qy3ursk) ![](assets/new.png)  
 - [2020-10-22-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/k7nf2vd) ![](assets/new.png)  
 - [2020-10-22-如何通过-Serverless-技术降低微服务应用资源成本？](https://toutiao.io/k/aa59xen) ![](assets/new.png)  
 - [2020-10-22-IP-库的-8020-法则与那些高大上的名词](https://toutiao.io/k/9jkm318) ![](assets/new.png)  

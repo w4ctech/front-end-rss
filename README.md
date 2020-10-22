@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 05:04:19，:rocket: 更新条数: +3525， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 05:14:28，:rocket: 更新条数: +3524， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-22-安全类有什么私活网站吗，想接点私活？](https://www.v2ex.com/t/717419) ![](assets/new.png)  
 - [2020-10-22-求推荐-android-twitter-客户端](https://www.v2ex.com/t/717418) ![](assets/new.png)  
 - [2020-10-22-关于-spring-定时任务的一个奇怪问题](https://www.v2ex.com/t/717417) ![](assets/new.png)  
 - [2020-10-22-请教一个数组取特定索引的问题](https://www.v2ex.com/t/717416) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-22-北京社招-开黑啦-高级服务端开发工程师-20k-30k*14-薪](https://www.v2ex.com/t/717401) ![](assets/new.png)  
 - [2020-10-22-运维部新招了两个程序员，有点左右为难](https://www.v2ex.com/t/717400) ![](assets/new.png)  
 - [2020-10-22-大家-kubernetes-上都是用什么微服务网关？](https://www.v2ex.com/t/717399) ![](assets/new.png)  
-- [2020-10-22-nginx-真的支持高并发么](https://www.v2ex.com/t/717398) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,11 +1144,11 @@
 - [2020-10-22-IP-库的-8020-法则与那些高大上的名词](https://toutiao.io/k/9jkm318) ![](assets/new.png)  
 - [2020-10-22-如何通过-Serverless-技术降低微服务应用资源成本？](https://toutiao.io/k/aa59xen) ![](assets/new.png)  
 - [2020-10-22-译-TypeScript：一个好泛型的价值](https://toutiao.io/k/fo5jtin) ![](assets/new.png)  
-- [2020-10-22-推荐-2020-最全电子书搜索网站，找电子书不再愁](https://toutiao.io/k/qexzdh8) ![](assets/new.png)  
-- [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-22-推荐-Paxos-分布式必问的内容，没有之一](https://toutiao.io/k/fhmqfyd) ![](assets/new.png)  
-- [2020-10-22-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-22-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
+- [2020-10-22-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

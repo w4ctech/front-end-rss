@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 15:33:34，:rocket: 更新条数: +3485， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 15:41:59，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1067,6 +1067,26 @@
 </summary>
 
 
+- [2020-10-22-昨天晚上梦到自己想出一个写法，十几行代码就能高效率解决目前遇到的问题，醒来之后回忆了半天也没想起来梦里写的代码。](https://www.v2ex.com/t/717643) ![](assets/new.png)  
+- [2020-10-22-求电脑/手机，大文件内网/外网快速传输的工具](https://www.v2ex.com/t/717642) ![](assets/new.png)  
+- [2020-10-22-如何读取-pixel-2xl-主板序列号？-或者其他硬件序列号](https://www.v2ex.com/t/717641) ![](assets/new.png)  
+- [2020-10-22-团队开发代码不爱写注释，如何解决这一困境？](https://www.v2ex.com/t/717640) ![](assets/new.png)  
+- [2020-10-22-就头发量来说，-it-界什么技术工种发量比较足](https://www.v2ex.com/t/717638) ![](assets/new.png)  
+- [2020-10-22-大家好，想问一下我现在开的-youtube-premium-的车是印度的-play-store-账号+印度的-youtube-premium-订阅，有办法变成美区的-play-store-账号+印度-yt-premium-...](https://www.v2ex.com/t/717637) ![](assets/new.png)  
+- [2020-10-22-回家~（此处有萨克斯）](https://www.v2ex.com/t/717636) ![](assets/new.png)  
+- [2020-10-22-上海-沪江-前端招聘（急）组内直招](https://www.v2ex.com/t/717635) ![](assets/new.png)  
+- [2020-10-22-有没有了解朋友圈广告推荐策略的朋友](https://www.v2ex.com/t/717634) ![](assets/new.png)  
+- [2020-10-22-我突然意识到浮冰融化不会导致水面高度上涨…](https://www.v2ex.com/t/717633) ![](assets/new.png)  
+- [2020-10-22-国外手机号注册的微博必须要绑定国内手机号才能登录了](https://www.v2ex.com/t/717631) ![](assets/new.png)  
+- [2020-10-22-拿留学生作业代写当副业靠谱吗](https://www.v2ex.com/t/717630) ![](assets/new.png)  
+- [2020-10-22-刚刚发现百度-Linux-输入法发布了](https://www.v2ex.com/t/717629) ![](assets/new.png)  
+- [2020-10-22-为什么我.plot.bar-出现的图表只显示其中的很小的一部分](https://www.v2ex.com/t/717628) ![](assets/new.png)  
+- [2020-10-22-关于-GitHub-上面开源许可的请教](https://www.v2ex.com/t/717626) ![](assets/new.png)  
+- [2020-10-22-Air-Pods-Pro-两边电量不一样是什么原因？](https://www.v2ex.com/t/717625) ![](assets/new.png)  
+- [2020-10-22-求分析一个死锁问题以及解决方案](https://www.v2ex.com/t/717624) ![](assets/new.png)  
+- [2020-10-22-时隔-4-年，无意之间找到了当年的-v-站分享给我的-1Password-车位的大佬](https://www.v2ex.com/t/717623) ![](assets/new.png)  
+- [2020-10-22-请教：这台-Hackintosh-用-DP-能上-2k-的显示器吗？](https://www.v2ex.com/t/717622) ![](assets/new.png)  
+- [2020-10-22-南京自如，如需开具发票，一定是需要本人去办理吗？自如的租金收费是否涵盖额外税费？](https://www.v2ex.com/t/717621) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

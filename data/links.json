@@ -16282,6 +16282,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "刚刚，史上最强大华为Mate手机问世：搭载绝版麒麟9000芯片",
+        "link": "https://www.ershicimi.com/p/b11d2206e2348f86f577ad70a4028f76",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "数据湖火了，那数据仓库怎么办？",
+        "link": "https://www.ershicimi.com/p/d36d2967e60b0b8e58e3a567a7d666b4",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "聆听每一位开发者的心“声”：声网Agora 征文大赛圆满落幕",
+        "link": "https://www.ershicimi.com/p/2096e9c51cd5ea79b31b6ad77c458b9c",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "你需要Kubernetes吗？",
+        "link": "https://www.ershicimi.com/p/fa5bb6a4fb3de16026de59d8248bb22a",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "深入浅出Spark：血统（DAG）",
+        "link": "https://www.ershicimi.com/p/d6416239109c54ed4543af106fff508e",
+        "date": "2020-10-22"
+      },
+      {
         "title": "三周年特惠，全场专栏「首单1元」限时秒杀！｜ 极客时间",
         "link": "https://www.ershicimi.com/p/0add62516f7d07838f981b5a95532365",
         "date": "2020-10-21"
@@ -16355,31 +16380,6 @@
         "title": "易观A10大会震撼来袭，四场活动教你玩转「留量」思维 ｜ Q推荐",
         "link": "https://www.ershicimi.com/p/5f0588d77cc14e365da64f41f92b0b7f",
         "date": "2020-10-19"
-      },
-      {
-        "title": "Linux 开发过程那么麻烦，是否值得？",
-        "link": "https://www.ershicimi.com/p/fc445cbf83932a492b5358841ea1454d",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "池建强：过去三年很短，只有极客时间",
-        "link": "https://www.ershicimi.com/p/01423c3b43b5809e4d0ba7d44a784682",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "小心“移植税”：Kubernetes不能使应用程序具有可移植性",
-        "link": "https://www.ershicimi.com/p/3d8cc25e5804aa87910d64601b618884",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "73个强无敌的NPM软件包",
-        "link": "https://www.ershicimi.com/p/8157184ce0103a1fa715462a981eca1d",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "跨越重重“障碍”，我从 PyTorch 转换为了 TensorFlow Lite",
-        "link": "https://www.ershicimi.com/p/cedd79a4f44de5ab79311adc5ee33ef7",
-        "date": "2020-10-18"
       }
     ]
   },
@@ -16905,6 +16905,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "在 ORACLE Cloud 的虚拟云网络下新建 VCN 提示”Authorization failed or requested resource not found.“错误如何解决？",
+        "link": "https://www.v2ex.com/t/717650",
+        "date": "2020-10-22"
+      },
+      {
         "title": "今年是更黑暗的一年，人生更低谷",
         "link": "https://www.v2ex.com/t/717649",
         "date": "2020-10-22"
@@ -17229,13 +17234,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
         "date": "2020-10-22"
       },
       {
@@ -17244,38 +17244,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-22"
       },
       {
@@ -17284,18 +17254,53 @@
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-22"
       },
       {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
         "date": "2020-10-22"
       },
       {
         "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
         "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-22"
       }
     ]

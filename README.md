@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 16:19:57，:rocket: 更新条数: +3506， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 16:38:52，:rocket: 更新条数: +3507， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -885,6 +885,11 @@
 </summary>
 
 
+- [2020-10-22-刚刚，史上最强大华为Mate手机问世：搭载绝版麒麟9000芯片](https://www.ershicimi.com/p/b11d2206e2348f86f577ad70a4028f76) ![](assets/new.png)  
+- [2020-10-22-数据湖火了，那数据仓库怎么办？](https://www.ershicimi.com/p/d36d2967e60b0b8e58e3a567a7d666b4) ![](assets/new.png)  
+- [2020-10-22-聆听每一位开发者的心“声”：声网Agora-征文大赛圆满落幕](https://www.ershicimi.com/p/2096e9c51cd5ea79b31b6ad77c458b9c) ![](assets/new.png)  
+- [2020-10-22-你需要Kubernetes吗？](https://www.ershicimi.com/p/fa5bb6a4fb3de16026de59d8248bb22a) ![](assets/new.png)  
+- [2020-10-22-深入浅出Spark：血统（DAG）](https://www.ershicimi.com/p/d6416239109c54ed4543af106fff508e) ![](assets/new.png)  
 - [2020-10-21-三周年特惠，全场专栏「首单1元」限时秒杀！｜-极客时间](https://www.ershicimi.com/p/0add62516f7d07838f981b5a95532365) ![](assets/new.png)  
 - [2020-10-21-作为创始人，我不小心删除了生产数据库，还跑路吗？](https://www.ershicimi.com/p/30474ffb422c03605f96b07607bf1c00) ![](assets/new.png)  
 - [2020-10-21-华为云“对话机器人”成长指南已送达](https://www.ershicimi.com/p/fb7c3000bae2169109def3353e338608) ![](assets/new.png)  
@@ -900,11 +905,6 @@
 - [2020-10-19-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/f73f26d00cd8eb4f513bd4e287551a48) ![](assets/new.png)  
 - [2020-10-19-架构演进与性能优化之路-｜-QCon+](https://www.ershicimi.com/p/bf599586ba6a37b0114f952b56dbb4c2) ![](assets/new.png)  
 - [2020-10-19-易观A10大会震撼来袭，四场活动教你玩转「留量」思维-｜-Q推荐](https://www.ershicimi.com/p/5f0588d77cc14e365da64f41f92b0b7f) ![](assets/new.png)  
-- [2020-10-19-Linux-开发过程那么麻烦，是否值得？](https://www.ershicimi.com/p/fc445cbf83932a492b5358841ea1454d) ![](assets/new.png)  
-- [2020-10-18-池建强：过去三年很短，只有极客时间](https://www.ershicimi.com/p/01423c3b43b5809e4d0ba7d44a784682) ![](assets/new.png)  
-- [2020-10-18-小心“移植税”：Kubernetes不能使应用程序具有可移植性](https://www.ershicimi.com/p/3d8cc25e5804aa87910d64601b618884) ![](assets/new.png)  
-- [2020-10-18-73个强无敌的NPM软件包](https://www.ershicimi.com/p/8157184ce0103a1fa715462a981eca1d) ![](assets/new.png)  
-- [2020-10-18-跨越重重“障碍”，我从-PyTorch-转换为了-TensorFlow-Lite](https://www.ershicimi.com/p/cedd79a4f44de5ab79311adc5ee33ef7) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-22-在-ORACLE-Cloud-的虚拟云网络下新建-VCN-提示”Authorization-failed-or-requested-resource-not-found.“错误如何解决？](https://www.v2ex.com/t/717650) ![](assets/new.png)  
 - [2020-10-22-今年是更黑暗的一年，人生更低谷](https://www.v2ex.com/t/717649) ![](assets/new.png)  
 - [2020-10-22-求指明一个关于图像绘制或编辑的解决方案](https://www.v2ex.com/t/717648) ![](assets/new.png)  
 - [2020-10-22-快手，我的隐私是如何被泄露的？一次诈骗记录！](https://www.v2ex.com/t/717647) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-22-刚刚发现百度-Linux-输入法发布了](https://www.v2ex.com/t/717629) ![](assets/new.png)  
 - [2020-10-22-为什么我.plot.bar-出现的图表只显示其中的很小的一部分](https://www.v2ex.com/t/717628) ![](assets/new.png)  
 - [2020-10-22-关于-GitHub-上面开源许可的请教](https://www.v2ex.com/t/717626) ![](assets/new.png)  
-- [2020-10-22-Air-Pods-Pro-两边电量不一样是什么原因？](https://www.v2ex.com/t/717625) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,20 +1130,20 @@
 
 
 - [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-22-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-22-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-22-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-22-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-22-推荐-《我想进大厂》之-Redis-夺命连环-11-问](https://toutiao.io/k/lko6b3m) ![](assets/new.png)  
-- [2020-10-22-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
-- [2020-10-22-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-22-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-22-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-22-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-22-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-22-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-22-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
 - [2020-10-22-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-22-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-22-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
+- [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-22-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-22-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

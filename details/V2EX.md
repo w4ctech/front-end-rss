@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2020-10-22 09:14:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 09:30:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-22-自己的服务器固定一个短链接到卖🔑的地方，安全吗](https://www.v2ex.com/t/717549) 
+- [2020-10-22-VideoProc-限时免费](https://www.v2ex.com/t/717548) 
+- [2020-10-22-做了一个支持多平台短视频去水印的小程序，欢迎-V-友们来体验](https://www.v2ex.com/t/717547) 
+- [2020-10-22-各位数据库大佬-求解一个小数溢出的问题](https://www.v2ex.com/t/717546) 
+- [2020-10-22-MRT-进程是什么？](https://www.v2ex.com/t/717545) 
+- [2020-10-22-HBase-属於數據倉庫嗎?](https://www.v2ex.com/t/717544) 
+- [2020-10-22-Ashampoo-WinOptimizer-18-清理优化工具软件，可安装-10-台电脑，送-30-元券](https://www.v2ex.com/t/717543) 
+- [2020-10-22-租房的中介城城找房要跑路了.](https://www.v2ex.com/t/717541) 
 - [2020-10-22-有邮政卡的来领取-10-元话费了](https://www.v2ex.com/t/717540) 
 - [2020-10-22-联想-7000p-2060-显卡-配什么显示器比较好？](https://www.v2ex.com/t/717539) 
 - [2020-10-22-求-ios-app-上线小白流程](https://www.v2ex.com/t/717538) 
@@ -38,8 +46,3 @@
 - [2020-10-22-北京/杭州-社招-阿里巴巴-钉钉rust/-Java-/前端](https://www.v2ex.com/t/717506) 
 - [2020-10-22-吐槽/请教一下关于-iPhone-和-iPhone-上几个-App-的问题](https://www.v2ex.com/t/717503) 
 - [2020-10-22-既然很多技术-Leader-不写代码，那应该-Review-代码吗？](https://www.v2ex.com/t/717501) 
-- [2020-10-22-SwiftUI-Widget-小组件获取-CoreData-数据](https://www.v2ex.com/t/717497) 
-- [2020-10-22-esxi-直通-sata-控制器后硬盘可以共享吗？](https://www.v2ex.com/t/717496) 
-- [2020-10-22-过马路看手机是种什么心态？？](https://www.v2ex.com/t/717495) 
-- [2020-10-22-请教一个-go-的函数问题](https://www.v2ex.com/t/717494) 
-- [2020-10-22-北京-头部投资机构招聘资深产品经理](https://www.v2ex.com/t/717493) 

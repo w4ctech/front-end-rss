@@ -13672,10 +13672,36 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "德国疾控专家：当前德国疫情形势“极其严峻”",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifGhZFshCwwPSeJ7JFLRk201022&isfromapp=1",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "疫情形势持续恶化 全美42个州住院人数持续上升",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinDeudU2WFSUd2aUQD2xY201022&isfromapp=1",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "香港新增11例新冠肺炎确诊病例 累计5280例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwiAQp11d5xtieihLeMTQ201022&isfromapp=1",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "德国单日新增新冠病毒感染病例首次破万 累计确诊392049例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinNp0IZPoBb9NIACyfKsT201022&isfromapp=1",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "捷克新冠肺炎确诊病例累计超20万 捷克再次颁布“封锁令”",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyZyqvP0LMWjgI0L695RC201022&isfromapp=1",
+        "date": "2020-10-21"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/9891",
@@ -14611,9 +14637,110 @@
     "link": "https://www.ershicimi.com/a/169"
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/892",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/892",
     "title": "前端大学",
-    "items": [],
+    "items": [
+      {
+        "title": "大厂面试必备，Vue框架的最佳实践与源码！",
+        "link": "https://www.ershicimi.com/p/0ed28722d8438ce05d53ee0cc1fc5482",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "华为程序员节这么过？看的我都酸了...",
+        "link": "https://www.ershicimi.com/p/6c803f3cca37484990b1351612b26911",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "Vue 中 Axios 的封装和 API 接口的管理",
+        "link": "https://www.ershicimi.com/p/2d1c8e1758a2bc37f9d1b6236b4ad14a",
+        "date": "2020-10-20"
+      },
+      {
+        "title": "为什么React还是比Vue受欢迎？",
+        "link": "https://www.ershicimi.com/p/d0757505cbddaf2e0648a7da2dcb2569",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "ES2020中JavaScript 10个你应该知道的新功能",
+        "link": "https://www.ershicimi.com/p/465789059fe1d5cfee3df476216eb59a",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "前端程序员现状：不突破瓶颈很难生存！",
+        "link": "https://www.ershicimi.com/p/277137682ea8a40c93434375e174bb34",
+        "date": "2020-10-16"
+      },
+      {
+        "title": "我在众多AI学习的分享中，找到了最强教学系列视频！",
+        "link": "https://www.ershicimi.com/p/eba5bb49df092314f8ce374e745cca90",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "有赞美业前端： 持续标准化 Code Review",
+        "link": "https://www.ershicimi.com/p/b8ec5bada8e183c1aba78aa6176b6279",
+        "date": "2020-10-14"
+      },
+      {
+        "title": "如何在从事前端两年，得到20K+的offer",
+        "link": "https://www.ershicimi.com/p/fa0312da26731d7547946d88b01be50d",
+        "date": "2020-10-13"
+      },
+      {
+        "title": "webpack如何快速入门？",
+        "link": "https://www.ershicimi.com/p/72cb35fa3d75999fdb846a6f1ad79636",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "前端赋能业务：Node实现自动化部署平台",
+        "link": "https://www.ershicimi.com/p/bb121b910148c883d3d1c8243fa7abdf",
+        "date": "2020-10-12"
+      },
+      {
+        "title": "Vue3+TypeScript完整项目上手教程",
+        "link": "https://www.ershicimi.com/p/a1f58e05342565128a63f7116db38e2a",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "四年前端，竟在这道CSS面试题上跪了",
+        "link": "https://www.ershicimi.com/p/77b12c47a3599719d7add23051b45375",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "张一鸣：给产品技术人才的建议",
+        "link": "https://www.ershicimi.com/p/0186fc2099f91f55f16742b8e47e4b67",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "Python之父：JS不是竞争对手",
+        "link": "https://www.ershicimi.com/p/062db78e78423e7cbc7060635ad185f8",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "大部分人都会做错的经典 JS 闭包面试题",
+        "link": "https://www.ershicimi.com/p/e4916ac661cae6cc50e27b2a0403c6ef",
+        "date": "2020-10-08"
+      },
+      {
+        "title": "记录下入职中软一个月（外包华为），就离职了！",
+        "link": "https://www.ershicimi.com/p/b70ca359ccd3ca843fb5219bacd97115",
+        "date": "2020-10-05"
+      },
+      {
+        "title": "32个手撕JS，彻底摆脱初级前端（面试高频）",
+        "link": "https://www.ershicimi.com/p/44b1a720095cf182b60ca705dc167ae9",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "前端：写在 30 岁之前",
+        "link": "https://www.ershicimi.com/p/d70a746668b2a01dddbdfcbca4439741",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "全面分析toString与valueOf，并随手解决掉几道大厂必备面试题",
+        "link": "https://www.ershicimi.com/p/46732a0e26399e87a94fef1d37b39bba",
+        "date": "2020-09-27"
+      }
+    ],
     "link": "https://www.ershicimi.com/a/892"
   },
   {

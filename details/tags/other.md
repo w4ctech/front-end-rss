@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-22 15:30:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 15:33:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2376,6 +2376,9 @@
 - [2020-01-19-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://m.photos.caixin.com/m/2020-01-20/101506484.html) 
 - [2020-01-15-日本公布一新型冠状病毒感染病例-患者去过武汉](http://m.china.caixin.com/m/2020-01-16/101506054.html) 
 - [2020-01-10-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://m.china.caixin.com/m/2020-01-11/101506220.html) 
+- [2020-10-22-德国疾控专家：当前德国疫情形势“极其严峻”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifGhZFshCwwPSeJ7JFLRk201022&isfromapp=1) 
+- [2020-10-22-疫情形势持续恶化-全美42个州住院人数持续上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinDeudU2WFSUd2aUQD2xY201022&isfromapp=1) 
+- [2020-10-22-德国单日新增新冠病毒感染病例首次破万-累计确诊392049例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinNp0IZPoBb9NIACyfKsT201022&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
 - [2020-01-07-本想用Python爬遍知乎，却险些被知乎反杀是什么体验？](https://www.ershicimi.com/p/7cd0414b49585300d2e3ddd11fc4162d) 
@@ -2429,6 +2432,12 @@
 - [2020-02-07-工具控来看看代码高亮必备](https://www.ershicimi.com/p/56debedff7f9d3c357f3621de7a64aa2) 
 - [2020-02-03-阿里-ice.work-探秘系列-disabled-reload](https://www.ershicimi.com/p/51eed11abceaabb3dd7f2ceed864d182) 
 - [2020-01-16-阿里-ice.work-探秘系列-withRouter-的使用](https://www.ershicimi.com/p/29c023dd30374ab258ceef6aeaddb1e2) 
+- [2020-10-20-华为程序员节这么过？看的我都酸了...](https://www.ershicimi.com/p/6c803f3cca37484990b1351612b26911) 
+- [2020-10-16-前端程序员现状：不突破瓶颈很难生存！](https://www.ershicimi.com/p/277137682ea8a40c93434375e174bb34) 
+- [2020-10-13-如何在从事前端两年，得到20K+的offer](https://www.ershicimi.com/p/fa0312da26731d7547946d88b01be50d) 
+- [2020-10-09-张一鸣：给产品技术人才的建议](https://www.ershicimi.com/p/0186fc2099f91f55f16742b8e47e4b67) 
+- [2020-10-05-记录下入职中软一个月（外包华为），就离职了！](https://www.ershicimi.com/p/b70ca359ccd3ca843fb5219bacd97115) 
+- [2020-09-27-前端：写在-30-岁之前](https://www.ershicimi.com/p/d70a746668b2a01dddbdfcbca4439741) 
 - [2020-09-02-字节跳动-广告研发-|-2021秋季校园人才召集令！](https://www.ershicimi.com/p/2358db3b947642bb5adffd571bca1614) 
 - [2020-09-01-前端智能化实践——从图片识别UI样式](https://www.ershicimi.com/p/d6b4d4f61c3d7f036776be1b0668374b) 
 - [2020-08-27-前阿里手淘前端负责人@winter：前端人如何保持竞争力？](https://www.ershicimi.com/p/9ee51370746c067d707a2937c53e3a5d) 

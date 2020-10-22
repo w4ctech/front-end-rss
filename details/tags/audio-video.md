@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-22 06:40:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 06:49:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,8 +86,6 @@
 - [2020-10-09-人工智能从入门到精通系列教学视频免费送](https://www.ershicimi.com/p/4cec892c264b2a104a924d687161940a) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-10-22-局域网内在移动设备（-iPad-,-iPhone-）上看-PC-存储的视频，正确姿势是什么？](https://www.v2ex.com/t/717438) 
-- [2020-10-22-VideoProc-限免](https://www.v2ex.com/t/717413) 
-- [2020-10-22-FaceTime-高清-1080p-视频通话](https://www.v2ex.com/t/717409) 
 - [2020-10-20-Windows图像解析Fuzzing一:颜色配置文件](https://sec.thief.one/article_content?a_id=ad03dd8d6d07909205c4b4a46c906e64) 
 - [2020-10-20-【视频】|-一个黑客的自白](https://sec.thief.one/article_content?a_id=5848c6511ce22aeff198d0057fbe6027) 
 - [2020-10-19-架构师技术文档:Redis+Nginx+Dubbo精选+面试题+架构师精选视频](https://sec.thief.one/article_content?a_id=9609d7cc1f7fe458ddb8e71de2c05ef1) 

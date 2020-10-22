@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-22 05:30:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 05:35:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -42,4 +42,3 @@
 - [2020-10-15-滴滴CTO五轮面试真是太刺激了，Java高级工程师一二三四五面面经已拿到offer](https://www.ershicimi.com/p/3094204bbe95af3a1045d7789f1e4255) 
 - [2020-10-22-字节跳动-电商业务-产品/运营岗，火热招聘中！业务发展快！岗位需求大！](https://www.v2ex.com/t/717423) 
 - [2020-10-22-下午茶都能拼，面试不能拼吗？](https://www.v2ex.com/t/717405) 
-- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 

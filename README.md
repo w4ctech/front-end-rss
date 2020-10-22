@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 10:33:32，:rocket: 更新条数: +3754， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 10:40:54，:rocket: 更新条数: +3753， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,8 @@
 </summary>
 
 
+- [2020-10-22-B-站视频预览是如何实现的？](https://www.v2ex.com/t/717570) ![](assets/new.png)  
+- [2020-10-22-明天到货的朋友们，你们的-applestore-还能看到订单吗？](https://www.v2ex.com/t/717569) ![](assets/new.png)  
 - [2020-10-22-Google-大规模封锁异常账号](https://www.v2ex.com/t/717567) ![](assets/new.png)  
 - [2020-10-22-甲方这些行为算不算歧视外包人员？](https://www.v2ex.com/t/717566) ![](assets/new.png)  
 - [2020-10-22-新版-Edge-太好用了，已卸载-Chrome。](https://www.v2ex.com/t/717565) ![](assets/new.png)  
@@ -1105,8 +1107,6 @@
 - [2020-10-22-MRT-进程是什么？](https://www.v2ex.com/t/717545) ![](assets/new.png)  
 - [2020-10-22-HBase-属於數據倉庫嗎?](https://www.v2ex.com/t/717544) ![](assets/new.png)  
 - [2020-10-22-Ashampoo-WinOptimizer-18-清理优化工具软件，可安装-10-台电脑，送-30-元券](https://www.v2ex.com/t/717543) ![](assets/new.png)  
-- [2020-10-22-租房的中介城城找房要跑路了.](https://www.v2ex.com/t/717541) ![](assets/new.png)  
-- [2020-10-22-有邮政卡的来领取-10-元话费了](https://www.v2ex.com/t/717540) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

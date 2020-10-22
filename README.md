@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 04:32:29，:rocket: 更新条数: +3753， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 04:39:27，:rocket: 更新条数: +3755， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -967,11 +967,11 @@
 </summary>
 
 
-- [2020-10-21-Node.js-15-正式版发布](https://juejin.im/post/6886289343544033287) ![](assets/new.png)  
-- [2020-10-21-深入理解Promise](https://juejin.im/post/6886247841686093837) ![](assets/new.png)  
-- [2020-10-21-CSS的浮动和定位布局详细（全）](https://juejin.im/post/6886247611318140942) ![](assets/new.png)  
-- [2020-10-21-使用-some、-every和-Object.values-检查对象内的值](https://juejin.im/post/6886100807201226760) ![](assets/new.png)  
-- [2020-10-21-前端代码质量4-commit校验及changelog生成](https://juejin.im/post/6886072051942211597) ![](assets/new.png)  
+- [2020-10-21-前端科普系列（5）：ESLint---守住优雅的护城河](https://juejin.im/post/6886265504378388487) ![](assets/new.png)  
+- [2020-10-21-译JavaScript-颜色处理库-Chroma.js-的应用](https://juejin.im/post/6886263418907688974) ![](assets/new.png)  
+- [2020-10-21-有关链表的小技巧，我都给你总结好了](https://juejin.im/post/6886255820275875847) ![](assets/new.png)  
+- [2020-10-21-【数据结构与算法】详解什么是双向链表，并用代码手动实现一个双向链表结构](https://juejin.im/post/6886252396209504264) ![](assets/new.png)  
+- [2020-10-21-Vue3:-如何以-Vite-创建，以-Vue-Router,-Vuex,-Ant-Design-开始应用](https://juejin.im/post/6886250990409318414) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1087,9 @@
 </summary>
 
 
+- [2020-10-22-VideoProc-限免](https://www.v2ex.com/t/717413) ![](assets/new.png)  
+- [2020-10-22-Mbp2015-系统-10.15-出现鼠标能动，其他全部卡死的状态](https://www.v2ex.com/t/717412) ![](assets/new.png)  
+- [2020-10-22-打工人是什么梗](https://www.v2ex.com/t/717411) ![](assets/new.png)  
 - [2020-10-22-北京社招-开黑啦-高级-Windows-开发工程师-25k-40k*14-薪](https://www.v2ex.com/t/717410) ![](assets/new.png)  
 - [2020-10-22-FaceTime-高清-1080p-视频通话](https://www.v2ex.com/t/717409) ![](assets/new.png)  
 - [2020-10-22-Linux-版-edge-有人装上了吗？](https://www.v2ex.com/t/717407) ![](assets/new.png)  
@@ -1104,9 +1107,6 @@
 - [2020-10-22-iPhone-12-采用高通-X55-基带](https://www.v2ex.com/t/717395) ![](assets/new.png)  
 - [2020-10-22-关于小区-刷脸开门-代替门禁卡。。。。](https://www.v2ex.com/t/717394) ![](assets/new.png)  
 - [2020-10-22-有什么适合中老年的游戏吗](https://www.v2ex.com/t/717392) ![](assets/new.png)  
-- [2020-10-22-各位耳帝-麻烦推荐个耳机-便宜大碗的](https://www.v2ex.com/t/717391) ![](assets/new.png)  
-- [2020-10-22-golang-这个-panic-老是整不明白](https://www.v2ex.com/t/717389) ![](assets/new.png)  
-- [2020-10-22-从一段脚本的变身说起分享一枚自用工具箱）](https://www.v2ex.com/t/717388) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1160,15 +1160,15 @@
 - [2020-10-22-如何让一套代码适配所有-iOS-设备尺寸？](https://toutiao.io/k/f6c8tps) ![](assets/new.png)  
 - [2020-10-22-部署到-Kubernetes-时初始化-Cassandra-数据库](https://toutiao.io/k/qy3ursk) ![](assets/new.png)  
 - [2020-10-22-这才是-SQL-优化的正确姿势](https://toutiao.io/k/hargwgd) ![](assets/new.png)  
-- [2020-10-22-IP-库的-8020-法则与那些高大上的名词](https://toutiao.io/k/9jkm318) ![](assets/new.png)  
 - [2020-10-22-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/k7nf2vd) ![](assets/new.png)  
+- [2020-10-22-IP-库的-8020-法则与那些高大上的名词](https://toutiao.io/k/9jkm318) ![](assets/new.png)  
 - [2020-10-22-如何通过-Serverless-技术降低微服务应用资源成本？](https://toutiao.io/k/aa59xen) ![](assets/new.png)  
 - [2020-10-22-译-TypeScript：一个好泛型的价值](https://toutiao.io/k/fo5jtin) ![](assets/new.png)  
-- [2020-10-22-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
-- [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-22-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
 - [2020-10-22-推荐-秒懂-JVM-的三大参数类型，就靠这十个小实验了](https://toutiao.io/k/tt5pijb) ![](assets/new.png)  
-- [2020-10-22-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-22-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-22-推荐-Redis-6.0-如何实现大幅度的性能提升？](https://toutiao.io/k/ji0jw42) ![](assets/new.png)  
+- [2020-10-22-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-22-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

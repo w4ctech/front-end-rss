@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-22 17:39:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-22 17:47:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-22-请教如何在-concurrent.futures-子进程里，无冲突地使用整个程序的全局队列？](https://www.v2ex.com/t/717655) 
 - [2020-10-22-Python-去重](https://www.v2ex.com/t/717654) 
 - [2020-10-22-NVIDIA-Driver-not-yet-supported-for-Linux-Kernel-5.9+](https://www.v2ex.com/t/717652) 
 - [2020-10-22-在-ORACLE-Cloud-的虚拟云网络下新建-VCN-提示”Authorization-failed-or-requested-resource-not-found.“错误如何解决？](https://www.v2ex.com/t/717650) 
@@ -45,4 +46,3 @@
 - [2020-10-22-蚂蚁核心部门内推啦，发展机会好！](https://www.v2ex.com/t/717608) 
 - [2020-10-22-重制拳皇-97](https://www.v2ex.com/t/717607) 
 - [2020-10-22-腾讯云-cos-一直-503](https://www.v2ex.com/t/717606) 
-- [2020-10-22-踩了一个-Java-编译时和运行时环境不一致导致的一个坑](https://www.v2ex.com/t/717605) 

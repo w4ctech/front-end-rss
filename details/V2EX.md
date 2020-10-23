@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-23 17:29:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 17:34:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-10-23-打卡成功下车，出-kindle-X-咪咕](https://www.v2ex.com/t/718065) 
+- [2020-10-23-所谓“执着”](https://www.v2ex.com/t/718066) 
 - [2020-10-23-有早睡早起的老哥给分享下经验吗？想早睡早起](https://www.v2ex.com/t/718064) 
 - [2020-10-23-bilibili-的夺旗赛服务器是不是被-DDoS-了](https://www.v2ex.com/t/718063) 
 - [2020-10-23-华为-Mate-40-系列-Dream-It-Possible（曙光版）.wav](https://www.v2ex.com/t/718061) 
@@ -43,4 +43,3 @@
 - [2020-10-23-分享几个自己开发的汉语相关的作品「木兮汉语辞典」&「木兮诗词」](https://www.v2ex.com/t/718020) 
 - [2020-10-23-iOS-咋么看看外边的世界？](https://www.v2ex.com/t/718019) 
 - [2020-10-23-有人用了-idea-的-shared-index-功能了吗？效果如何](https://www.v2ex.com/t/718017) 
-- [2020-10-23-双十一了，打算搞一台主机，请大佬帮忙看一下配置，是否可行](https://www.v2ex.com/t/718016) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 16:20:43，:rocket: 更新条数: +3527， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 16:40:12，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -947,11 +947,11 @@
 </summary>
 
 
+- [2020-10-23-一文道尽移动端跨平台技术演进之路](https://juejin.im/post/6886853551516024845) ![](assets/new.png)  
 - [2020-10-23-千万别小瞧九宫格-一道题就能让候选人原形毕露！](https://juejin.im/post/6886770985060532231) ![](assets/new.png)  
 - [2020-10-23-ZooTeam-前端周刊｜第-105-期](https://juejin.im/post/6886767665411850253) ![](assets/new.png)  
 - [2020-10-23-从-Egg.js-到-NestJS，爱码客后端选型之路](https://juejin.im/post/6886765193112911885) ![](assets/new.png)  
 - [2020-10-22-一步一个脚印搭建简易React第一步☝️](https://juejin.im/post/6886708531903496205) ![](assets/new.png)  
-- [2020-10-22-如何使用React-Testing-Library和Jest测试React应用](https://juejin.im/post/6886680584874934280) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,12 @@
 </summary>
 
 
+- [2020-10-23-华为-Mate-40-系列-Dream-It-Possible（曙光版）.wav](https://www.v2ex.com/t/718061) ![](assets/new.png)  
+- [2020-10-23-iPhoneXSMax-越狱了能使用“快速开始”将数据传输到新的-iPhone-吗](https://www.v2ex.com/t/718060) ![](assets/new.png)  
+- [2020-10-23-为什么软件著作权有不同价格和下证时间？是版权局还是代理商的原因？](https://www.v2ex.com/t/718058) ![](assets/new.png)  
+- [2020-10-23-菜鸟求教各位一些关于代码的问题](https://www.v2ex.com/t/718056) ![](assets/new.png)  
+- [2020-10-23-学前端差不多一年了，-0-基础，到现在切图还是问题，怎么办是好？](https://www.v2ex.com/t/718055) ![](assets/new.png)  
+- [2020-10-23-怎么样才能看懂-github-上别人写的-go-源码,自学-go-一个月了,-基础差不多都看完了,-想自己动手做个小项目练手](https://www.v2ex.com/t/718054) ![](assets/new.png)  
 - [2020-10-23-炒股对抗失业](https://www.v2ex.com/t/718051) ![](assets/new.png)  
 - [2020-10-23-20201024-午夜俱乐部](https://www.v2ex.com/t/718050) ![](assets/new.png)  
 - [2020-10-23-iPhone-12-的触感触控（Haptic-Touch）反馈延迟了？](https://www.v2ex.com/t/718047) ![](assets/new.png)  
@@ -1081,12 +1087,6 @@
 - [2020-10-23-ZeroTier-如何才能做到在外网可访问？](https://www.v2ex.com/t/718037) ![](assets/new.png)  
 - [2020-10-23-深圳地铁-6-号线电信-5G-信号出乎意料的好](https://www.v2ex.com/t/718036) ![](assets/new.png)  
 - [2020-10-23-请问大家北京哪个医院的减重科室比较好？](https://www.v2ex.com/t/718035) ![](assets/new.png)  
-- [2020-10-23-爬虫如何获取公众号的所有文章（的链接）](https://www.v2ex.com/t/718034) ![](assets/new.png)  
-- [2020-10-23-2020-年有什么电纸书推荐吗](https://www.v2ex.com/t/718033) ![](assets/new.png)  
-- [2020-10-23-吐个槽，感觉-iOS-14-浪费了太多可显示空间。](https://www.v2ex.com/t/718032) ![](assets/new.png)  
-- [2020-10-23-好学生协议](https://www.v2ex.com/t/718031) ![](assets/new.png)  
-- [2020-10-23-有什么提醒事项的-APP-可以一键设定只在工作日提醒的](https://www.v2ex.com/t/718030) ![](assets/new.png)  
-- [2020-10-23-发现-iPhone12-的质感还是不如-Xs-Max](https://www.v2ex.com/t/718029) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1138,8 +1138,8 @@
 - [2020-10-23-天啦撸！打印日志竟然只晓得-Log4j？](https://toutiao.io/k/8hug5ul) ![](assets/new.png)  
 - [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
 - [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
-- [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-通用的底层埋点都是怎么做的？](https://toutiao.io/k/mqu9yp2) ![](assets/new.png)  
+- [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
 - [2020-10-23-同学别走，聊聊-Lock-与-Synchronized-吧](https://toutiao.io/k/9jlmgwk) ![](assets/new.png)  
 - [2020-10-23-交互式分析领域，为何-ClickHouse-能够杀出重围？](https://toutiao.io/k/r5c2cvr) ![](assets/new.png)  

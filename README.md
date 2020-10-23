@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 02:32:30，:rocket: 更新条数: +3523， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 02:38:13，:rocket: 更新条数: +3524， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,12 @@
 </summary>
 
 
+- [2020-10-23-程序员小漫画---开发日常](https://www.v2ex.com/t/717733) ![](assets/new.png)  
+- [2020-10-23-Apple-Music-可以在-CarPlay-上显示歌词嘛？](https://www.v2ex.com/t/717732) ![](assets/new.png)  
+- [2020-10-23-thinkphp-为什么不参加-TechEmpower-FrameworkBenchmarks-性能测试比赛](https://www.v2ex.com/t/717731) ![](assets/new.png)  
+- [2020-10-23-Hiretual-北京研发中心-Devops-招聘](https://www.v2ex.com/t/717730) ![](assets/new.png)  
+- [2020-10-23-拿到蓝色-12-了-我表示退个毛货](https://www.v2ex.com/t/717729) ![](assets/new.png)  
+- [2020-10-23-苏州那个医院的皮肤科好。。。我想去看脱发了](https://www.v2ex.com/t/717728) ![](assets/new.png)  
 - [2020-10-23-亚马逊终于更新卖家-API-了](https://www.v2ex.com/t/717726) ![](assets/new.png)  
 - [2020-10-23-关于国产远程控制软件的发展看法](https://www.v2ex.com/t/717725) ![](assets/new.png)  
 - [2020-10-23-都-0202-年了，还有用-JavaFx-的吗](https://www.v2ex.com/t/717724) ![](assets/new.png)  
@@ -1081,12 +1087,6 @@
 - [2020-10-23-推荐一款性感的-Mac-端基金管理软件](https://www.v2ex.com/t/717714) ![](assets/new.png)  
 - [2020-10-23-弘玑（Cyclone）招聘-React-前端工程师数名，欢迎投递简历](https://www.v2ex.com/t/717713) ![](assets/new.png)  
 - [2020-10-23-实习-微软亚洲研究院-防火墙开发工程师实习生](https://www.v2ex.com/t/717708) ![](assets/new.png)  
-- [2020-10-23-为啥激活不了？](https://www.v2ex.com/t/717707) ![](assets/new.png)  
-- [2020-10-23-预计明年四月离职，如何保持心态在公司](https://www.v2ex.com/t/717706) ![](assets/new.png)  
-- [2020-10-23-iMac-有支架可以用的吗](https://www.v2ex.com/t/717705) ![](assets/new.png)  
-- [2020-10-23-随便问一下，压缩文件真的不能解密吗](https://www.v2ex.com/t/717704) ![](assets/new.png)  
-- [2020-10-23-周末北京转转](https://www.v2ex.com/t/717703) ![](assets/new.png)  
-- [2020-10-23-windows-下如何实现-zerotier-的路由功能？](https://www.v2ex.com/t/717702) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,8 +1132,8 @@
 - [2020-10-23-困在内卷里的工程师-|-码农周刊第-322-期](https://toutiao.io/k/mb7u8g0) ![](assets/new.png)  
 - [2020-10-23-Redis-+-Nginx-+-设计模式-+-Spring-全家桶-+-Dubbo-+-阿里技术精选文档](https://toutiao.io/k/zp8ncvc) ![](assets/new.png)  
 - [2020-10-23-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
-- [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
 - [2020-10-23-天啦撸！打印日志竟然只晓得-Log4j？](https://toutiao.io/k/8hug5ul) ![](assets/new.png)  
+- [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
 - [2020-10-23-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
 - [2020-10-23-网易-CI/CD-实践（中）：CD-系统的部署架构与发布流程](https://toutiao.io/k/7tmg612) ![](assets/new.png)  
 - [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
@@ -1145,10 +1145,10 @@
 - [2020-10-23-Awk-一行码：求交集、差集、筛选白名单数据](https://toutiao.io/k/wa3l8oj) ![](assets/new.png)  
 - [2020-10-23-后分布式时代：多数派读写的-“少数派”-实现](https://toutiao.io/k/pih6nsy) ![](assets/new.png)  
 - [2020-10-23-前端如何一键生成多维度数据可视化分析报表](https://toutiao.io/k/vj4q8c4) ![](assets/new.png)  
-- [2020-10-23-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-23-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-23-spring-boot-route（二十一）：Quartz-实现动态定时任务](https://toutiao.io/k/wn8pvs1) ![](assets/new.png)  
 - [2020-10-23-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-23-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-23-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-23-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

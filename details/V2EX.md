@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-23 05:30:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 05:36:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-23-CODING-改版，确认不是开倒车？认证步骤复杂且通不过](https://www.v2ex.com/t/717816) 
 - [2020-10-23-k8s-使用-statefulset-如何在-pod-内获取序号并设置到环境变量里](https://www.v2ex.com/t/717811) 
 - [2020-10-23-请教大佬-！安全组入站规则设置-UDP-22、UDP-3389-有什么用？不应该是-TCP-吗？](https://www.v2ex.com/t/717809) 
 - [2020-10-23-今年港版-iPhone-12-还支持国内-5G-吗？](https://www.v2ex.com/t/717808) 
@@ -41,4 +42,3 @@
 - [2020-10-23-没花一分钱的我竟然收到的-JetBrains-IDEA-官方免费赠送一年的-Licence](https://www.v2ex.com/t/717770) 
 - [2020-10-23-摸鱼了一个小程序，大佬们过来玩耍，玩耍。](https://www.v2ex.com/t/717769) 
 - [2020-10-23-如何查看-iMessage-的本方地址？](https://www.v2ex.com/t/717768) 
-- [2020-10-23-2000w-1+1-冗余电源带-4-路-3090-能带动吗？](https://www.v2ex.com/t/717765) 

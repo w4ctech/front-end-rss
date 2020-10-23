@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-23 16:05:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 16:20:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -172,7 +172,6 @@
 - [【前端大学】前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bb121b910148c883d3d1c8243fa7abdf)
 - [【前端外刊评论】nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c)
 - [【前端迷】三步法解析Express源码](https://www.ershicimi.com/p/fab88d726c407f28c89a1ac4a5d7f159)
-- [【前端迷】从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/28f8d4bd4d47d685d681761926738613)
 - [【全栈前端精选】Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/9b42634aa5c0f1d183538bdbd73accc4)
 - [【政采云前端团队】如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082)
 - [【前端瓶子君】前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/0bdf01163c2ebc502fa5a9cb0d9a3ab7)
@@ -188,6 +187,7 @@
 - [【Nodejs技术栈】Node.js-定时器详解](https://www.ershicimi.com/p/5f7301ddf1080f76b099a5be3ba69ccd)
 - [【Nodejs技术栈】Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/29fa0a1bf73f5284b1a0b04a5c6bf2e5)
 - [【Nodejs技术栈】运维的报表之路，用-Node.js-轻松发送-grafana-报表](https://www.ershicimi.com/p/23027332cbc0022f3ad9e9fac1ded4c6)
+- [【前端日刊】从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 15:15:07，:rocket: 更新条数: +3529， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 15:30:27，:rocket: 更新条数: +3530， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,10 @@
 </summary>
 
 
+- [2020-10-23-iPhone-12-的触感触控（Haptic-Touch）反馈延迟了？](https://www.v2ex.com/t/718047) ![](assets/new.png)  
+- [2020-10-23-2020-1024=?-推荐个技术公众号，质量还不错](https://www.v2ex.com/t/718046) ![](assets/new.png)  
+- [2020-10-23-深圳初创公司招前端](https://www.v2ex.com/t/718045) ![](assets/new.png)  
+- [2020-10-23-求教-C#类的初始化变量问题](https://www.v2ex.com/t/718044) ![](assets/new.png)  
 - [2020-10-23-kotlin-的数据类（data-class）必须有主构造函数且不允许常规的成员不在主构造函数中定义，那我要想给成员添加注释甚至使用注解咋整啊？](https://www.v2ex.com/t/718043) ![](assets/new.png)  
 - [2020-10-23-字节研发岗内推-业界最大的创作者变现平台落户杭州！想不想加入？](https://www.v2ex.com/t/718042) ![](assets/new.png)  
 - [2020-10-23-成都买房记录贴，希望听听大家的意见。-还会继续更新](https://www.v2ex.com/t/718040) ![](assets/new.png)  
@@ -1083,10 +1087,6 @@
 - [2020-10-23-发现-iPhone12-的质感还是不如-Xs-Max](https://www.v2ex.com/t/718029) ![](assets/new.png)  
 - [2020-10-23-你们是怎么使用-change-data-capture-来实现缓存失效的？](https://www.v2ex.com/t/718028) ![](assets/new.png)  
 - [2020-10-23-北京-深圳-杭州-字节跳动-内推-大数据,-前端,-后台,-SRE-Data-垂直策略-研发岗位,-机不可失时不再来!](https://www.v2ex.com/t/718027) ![](assets/new.png)  
-- [2020-10-23-你们手动切换夜间模式正常嘛](https://www.v2ex.com/t/718024) ![](assets/new.png)  
-- [2020-10-23-到底要不要退了-12-换-pm-啊。。](https://www.v2ex.com/t/718023) ![](assets/new.png)  
-- [2020-10-23-改造-V2EX-回帖](https://www.v2ex.com/t/718022) ![](assets/new.png)  
-- [2020-10-23-刚刚用-12-打了一会游戏，发热严重](https://www.v2ex.com/t/718021) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

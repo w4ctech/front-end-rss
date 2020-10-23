@@ -16915,6 +16915,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iPhone 12 的触感触控（Haptic Touch）反馈延迟了？",
+        "link": "https://www.v2ex.com/t/718047",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "2020-1024=? 推荐个技术公众号，质量还不错",
+        "link": "https://www.v2ex.com/t/718046",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "深圳初创公司招前端",
+        "link": "https://www.v2ex.com/t/718045",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "求教 C#类的初始化变量问题",
+        "link": "https://www.v2ex.com/t/718044",
+        "date": "2020-10-23"
+      },
+      {
         "title": "kotlin 的数据类（data class）必须有主构造函数且不允许常规的成员不在主构造函数中定义，那我要想给成员添加注释甚至使用注解咋整啊？",
         "link": "https://www.v2ex.com/t/718043",
         "date": "2020-10-23"
@@ -17107,21 +17127,6 @@
       {
         "title": "［求助］有没有能购买少量电子元件的店推荐",
         "link": "https://www.v2ex.com/t/717998",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "好奇，百度地图红绿灯倒计时怎么做到的？",
-        "link": "https://www.v2ex.com/t/717997",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "MIUI 自带浏览器打开某个链接后闪退?",
-        "link": "https://www.v2ex.com/t/717996",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "喜马拉雅会员现在购买有什么优惠吗？",
-        "link": "https://www.v2ex.com/t/717995",
         "date": "2020-10-23"
       }
     ]
@@ -17339,6 +17344,21 @@
         "date": "2020-10-23"
       },
       {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-23"
+      },
+      {
         "title": "[推荐] 建设微服务 API 网关的一些实践",
         "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-23"
@@ -17349,13 +17369,8 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-23"
       },
       {
@@ -17364,18 +17379,8 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 我是如何阅读 JDK 源码的？",
-        "link": "https://toutiao.io/k/5kuu7cq",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
         "date": "2020-10-23"
       },
       {
@@ -17384,23 +17389,23 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-23"
-      },
-      {
         "title": "[推荐] 国庆期间，我造了台计算机",
         "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-23"
       },
       {

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 20:48:46，:rocket: 更新条数: +3757， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 21:03:59，:rocket: 更新条数: +3757， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -291,6 +291,8 @@
 </summary>
 
 
+- [2020-10-23-1024程序员节，腾讯课堂这样子玩！炸了...](https://www.ershicimi.com/p/843701881e94c81ca3190365b640d1bf) ![](assets/new.png)  
+- [2020-10-23-如何让用户选择是否离开当前页面？](https://www.ershicimi.com/p/75148cc5986b13bf3a6897c3fd657c78) ![](assets/new.png)  
 - [2020-10-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/480e3361d5a48aa8d83eb09acba437c4) ![](assets/new.png)  
 - [2020-10-22-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/cca97155c343a5ced3fbec98a6e4f233) ![](assets/new.png)  
 - [2020-10-21-面试官：说说你对-options-请求的理解](https://www.ershicimi.com/p/442fe2f069198f2421fe54a457e96ac9) ![](assets/new.png)  
@@ -309,8 +311,6 @@
 - [2020-10-10-你不知道的-WebSocket](https://www.ershicimi.com/p/e0f12cf3fdca4a6902a6be2dd576d972) ![](assets/new.png)  
 - [2020-10-09-不懂源码，白做前端！](https://www.ershicimi.com/p/bb5a715d21e6306d52c6c73902655a7b) ![](assets/new.png)  
 - [2020-10-09-Flutter开始支持Windows](https://www.ershicimi.com/p/6616d09fee90095bd1b03454e054f6d3) ![](assets/new.png)  
-- [2020-09-30-尤雨溪：全职做开源年薪百万，网友：不愧是前端尤大神](https://www.ershicimi.com/p/4c141c4dbb5812adeb26a6e2b86a7fec) ![](assets/new.png)  
-- [2020-09-29-你应该知道的-NPM-知识都在这！](https://www.ershicimi.com/p/bbab7cb8c8aa6ecb2d7be925072eae3e) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1159,8 +1159,8 @@
 - [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
 - [2020-10-23-通用的底层埋点都是怎么做的？](https://toutiao.io/k/mqu9yp2) ![](assets/new.png)  
 - [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
-- [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
 - [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
+- [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
 - [2020-10-23-交互式分析领域，为何-ClickHouse-能够杀出重围？](https://toutiao.io/k/r5c2cvr) ![](assets/new.png)  
 - [2020-10-23-同学别走，聊聊-Lock-与-Synchronized-吧](https://toutiao.io/k/9jlmgwk) ![](assets/new.png)  
 - [2020-10-23-Awk-一行码：求交集、差集、筛选白名单数据](https://toutiao.io/k/wa3l8oj) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-23 13:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 13:49:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2465,15 +2465,6 @@
 - [2020-10-13-安卓手机时间突然变慢？网友：糟糕，上班迟到了](https://www.ershicimi.com/p/dbd06ec6129a8f64325ca2d20c7561a2) 
 - [2020-10-12-一位资深程序员的感悟：这个行业，仅靠年轻人是不够的](https://www.ershicimi.com/p/84311d0f478a7cb23118c24cbd57c1af) 
 - [2020-10-12-疫情黑天鹅到来时，那些崩溃的企业有三类特征值得注意-|-GTLC](https://www.ershicimi.com/p/2f2a0322cb463b9df732d60164354661) 
-- [2020-10-21-1024程序员狂欢节，薅当当羊毛！](https://www.ershicimi.com/p/5b5bb6c4b66b2c45139e7db6dbc65114) 
-- [2020-10-16-干前端两年薪资-11.5k，-我决定辞职了，对吗？](https://www.ershicimi.com/p/c54f4c0b087a6ed1404c5e96411658fb) 
-- [2020-10-15-工作5年了，斗胆谈谈我认为技术人做到哪些才能进阿里！](https://www.ershicimi.com/p/1298f7da4cbdb89641c0c3d5c4284ef5) 
-- [2020-10-14-2020，前端好找工作吗？](https://www.ershicimi.com/p/193c6d1f0f8e999587c9c3b70cbd753f) 
-- [2020-10-13-软技能提升：转转中后台规范落地实践](https://www.ershicimi.com/p/d789133815863e1e19d584230652bd9c) 
-- [2020-10-12-30岁，前端转型成为数据分析师还晚吗？](https://www.ershicimi.com/p/c6bad84b0d250cd39e6ffb52eaf2fc5e) 
-- [2020-10-09-太火了！年薪60-万，30万人在拼命抢，这个神仙技能火遍技术圈！](https://www.ershicimi.com/p/98809bec76e19ae6864ee4a05c9b1658) 
-- [2020-10-08-程序员必备7G免费资源，非IT人士勿领！](https://www.ershicimi.com/p/12b7aea3d3931fe817c8fb91a607e905) 
-- [2020-09-29-有奖征文重磅来袭，来！一起玩把大的！](https://www.ershicimi.com/p/365f8793a61f34d8c4ada2b617ff8446) 
 - [2020-10-22-【答疑解惑】为什么你的-Charles-会抓包失败？](https://www.ershicimi.com/p/eafae46cd5eadc608daaed11f2f0e024) 
 - [2020-10-22-【1024】-3折购书优惠码限时抢](https://www.ershicimi.com/p/619f1cf2ab97a4d02a0e6e7796d2439e) 
 - [2020-10-20-都说前端需求大，为啥我找工作还这么难？](https://www.ershicimi.com/p/484c68623574e53c6a157af238dfd953) 

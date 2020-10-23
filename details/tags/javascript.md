@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-23 13:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 13:49:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -57,9 +57,6 @@
 - [2020-10-08-大部分人都会做错的经典-JS-闭包面试题](https://www.ershicimi.com/p/e4916ac661cae6cc50e27b2a0403c6ef) 
 - [2020-09-29-32个手撕JS，彻底摆脱初级前端（面试高频）](https://www.ershicimi.com/p/44b1a720095cf182b60ca705dc167ae9) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
-- [2020-10-21-了解-JavaScript-模块系统基础知识，搭建自己的库](https://www.ershicimi.com/p/9b03e80c0c7d518de64a5d787314349e) 
-- [2020-10-11-图解JavaScript——代码实现【2】（重点是Promise、Async、发布/订阅原理实现）](https://www.ershicimi.com/p/687e7993cf28fb1da8aab990e85806c8) 
-- [2020-09-27-30道高频JS手撕面试题](https://www.ershicimi.com/p/7a2b0ecf8eea81638b986e4638b348f6) 
 - [2020-10-20-手动实现一个-JavaScript-模块执行器](https://www.ershicimi.com/p/a27a61a3faed0c5daf5ad937972d5b1e) 
 - [2020-10-17-是谁动了我的-DOM？](https://www.ershicimi.com/p/e451ff6c216b94d1ccd901ded0c20352) 
 - [2020-08-16-深色模式适配指南](https://www.ershicimi.com/p/9875fd50a70512e6c524ca6b7c4daebd) 

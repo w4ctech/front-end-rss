@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 07:37:57，:rocket: 更新条数: +3487， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 07:47:22，:rocket: 更新条数: +3529， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1067,6 +1067,26 @@
 </summary>
 
 
+- [2020-10-23-开发一个纯理工类社区-ligong.club-怎么样？](https://www.v2ex.com/t/717887) ![](assets/new.png)  
+- [2020-10-23-微软苏州最新岗位推送，-200+HC-等着你](https://www.v2ex.com/t/717886) ![](assets/new.png)  
+- [2020-10-23-今年-1024-有哪些和程序员相关的订阅服务有优惠？](https://www.v2ex.com/t/717885) ![](assets/new.png)  
+- [2020-10-23-求-wifi-全屋覆盖解决方案？](https://www.v2ex.com/t/717884) ![](assets/new.png)  
+- [2020-10-23-用-v2-的开放-api-尝试了下-widget-开发，做了个-v2-名片的-widget](https://www.v2ex.com/t/717881) ![](assets/new.png)  
+- [2020-10-23-来探讨一下什么是程序员行业的"好习惯"吧](https://www.v2ex.com/t/717879) ![](assets/new.png)  
+- [2020-10-23-PHP-怎么把网页内容生成图片?我想把用户访问特定页面时的网页做个类似快照一样的东西，把此时的网页显示内容生成一个图片-jpg,png,gif-不限，保存起来。请问有这...](https://www.v2ex.com/t/717878) ![](assets/new.png)  
+- [2020-10-23-大佬们，-2020-年度-OSC-中国开源项目评选-开始了，觉得我项目不错的，能不能给投个票啊，顶顶顶。](https://www.v2ex.com/t/717877) ![](assets/new.png)  
+- [2020-10-23-Android-录屏相关，会弹出一个请求屏幕录制权限的对话框。](https://www.v2ex.com/t/717876) ![](assets/new.png)  
+- [2020-10-23-一个网络问题，-connect-reset](https://www.v2ex.com/t/717875) ![](assets/new.png)  
+- [2020-10-23-利用-普通耳机-+-手机-app-来实现主动降噪](https://www.v2ex.com/t/717874) ![](assets/new.png)  
+- [2020-10-23-麻烦大家给个意见买哪款-iPad-？](https://www.v2ex.com/t/717873) ![](assets/new.png)  
+- [2020-10-23-双-11-要来了，有显示器推荐吗？](https://www.v2ex.com/t/717872) ![](assets/new.png)  
+- [2020-10-23-nginx-如何配置才能兼容目录展示和图片解析？](https://www.v2ex.com/t/717871) ![](assets/new.png)  
+- [2020-10-23-手机租号自动上号器是怎么实现的。](https://www.v2ex.com/t/717870) ![](assets/new.png)  
+- [2020-10-23-实在看不懂我的电脑这是什么情况？求救~](https://www.v2ex.com/t/717869) ![](assets/new.png)  
+- [2020-10-23-mophie-新出的这个-4-合-1-充电板不错，很适合家庭用户](https://www.v2ex.com/t/717868) ![](assets/new.png)  
+- [2020-10-23-清理日志无效](https://www.v2ex.com/t/717867) ![](assets/new.png)  
+- [2020-10-23-什么鬼，-QQ-通知关了还能在锁屏界面显示某个群的聊天](https://www.v2ex.com/t/717865) ![](assets/new.png)  
+- [2020-10-23-鉴于北京已经入冬了,各位打球的有拼室内场的嘛](https://www.v2ex.com/t/717863) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

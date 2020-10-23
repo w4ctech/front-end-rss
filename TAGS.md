@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-23 07:37:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 07:47:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -333,6 +333,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/)
+- [【V2EX】PHP-怎么把网页内容生成图片?我想把用户访问特定页面时的网页做个类似快照一样的东西，把此时的网页显示内容生成一个图片-jpg,png,gif-不限，保存起来。请问有这...](https://www.v2ex.com/t/717878)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -456,6 +457,7 @@
 - [【全栈前端精选】全栈前端技术交流吐槽⑤群](https://www.ershicimi.com/p/82fb1cc16d4b8abd68ec1e5c14734489)
 - [【前端瓶子君】GitHub：再见，master！](https://www.ershicimi.com/p/f03837ba3ed7d53fd8b785002973f87a)
 - [【掘金前端】http请回答](https://juejin.im/post/6886670564744757261)
+- [【V2EX】75%-的-Facebook-流量已经切换到-QUIC-和-HTTP/3-了](https://www.v2ex.com/t/717858)
 - [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】打造一款高逼格的Vim神器](https://sec.thief.one/article_content?a_id=f91f26bffea2170a49338447e4388340)
@@ -479,6 +481,7 @@
 - [【前端日刊】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b)
 - [【互联网架构师】完美：Docker遇到Intellij-IDEA这个插件，再次解放生产力~](https://www.ershicimi.com/p/1e6599289ddc9d9befc2543bc1adc497)
 - [【JavaScript】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)
+- [【V2EX】nginx-如何配置才能兼容目录展示和图片解析？](https://www.v2ex.com/t/717871)
 - [【开发者头条】Redis-+-Nginx-+-设计模式-+-Spring-全家桶-+-Dubbo-+-阿里技术精选文档](https://toutiao.io/k/zp8ncvc)
 - [【安全热点】CVE-2017-8046-Spring-Data-REST命令执行漏洞分析](https://sec.thief.one/article_content?a_id=ab46c2906ee6b247fe166fcaab421820)
 - [【安全热点】记一次渗透测试利用Portainer进行docker逃逸获得宿主机Ubuntu权限](https://sec.thief.one/article_content?a_id=0a8b8bc052d2eb83097335d806328a1e)

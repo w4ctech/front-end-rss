@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-23 01:49:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 01:56:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,5 +91,4 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-10-23-Android-播放视频遇到这种异常可以捕获吗？](https://www.v2ex.com/t/717693) 
-- [2020-10-23-红包酬谢，提取摸个-app-的登录信息和视频缓存的地方-8495&&……89676](https://www.v2ex.com/t/717687) 
 - [2020-10-22-【视频】|-铲除“黑灰产”](https://sec.thief.one/article_content?a_id=ab7046606a8682874da8f3664b6fc0de) 

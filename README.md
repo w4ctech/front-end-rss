@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 01:49:51，:rocket: 更新条数: +3752， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 01:56:05，:rocket: 更新条数: +3753， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,13 @@
 </summary>
 
 
+- [2020-10-23-预计明年四月离职，如何保持心态在公司](https://www.v2ex.com/t/717706) ![](assets/new.png)  
+- [2020-10-23-iMac-有支架可以用的吗](https://www.v2ex.com/t/717705) ![](assets/new.png)  
+- [2020-10-23-随便问一下，压缩文件真的不能解密吗](https://www.v2ex.com/t/717704) ![](assets/new.png)  
+- [2020-10-23-周末北京转转](https://www.v2ex.com/t/717703) ![](assets/new.png)  
+- [2020-10-23-windows-下如何实现-zerotier-的路由功能？](https://www.v2ex.com/t/717702) ![](assets/new.png)  
+- [2020-10-23-刚才拍同事刚到的-IP12-外观，-8P-竟然自己弹出了换机对话框。](https://www.v2ex.com/t/717701) ![](assets/new.png)  
+- [2020-10-23-有没有在阿里云注册个体工商户的？有坑没？](https://www.v2ex.com/t/717700) ![](assets/new.png)  
 - [2020-10-23-上海--坚果云-招聘高级前端开发工程师~~来这里发现更多更有意思的事情^_^](https://www.v2ex.com/t/717699) ![](assets/new.png)  
 - [2020-10-23-从国庆开始训练盲打](https://www.v2ex.com/t/717698) ![](assets/new.png)  
 - [2020-10-23-程序员黑眼圈和眼袋比较严重-,有什么办法可以慢慢恢复吗](https://www.v2ex.com/t/717697) ![](assets/new.png)  
@@ -1098,15 +1105,8 @@
 - [2020-10-23-如何让-webpack-的-devserver-走本机系统代理？](https://www.v2ex.com/t/717691) ![](assets/new.png)  
 - [2020-10-23-7-个带流量主的-QQ-小程序，有什么价值？](https://www.v2ex.com/t/717690) ![](assets/new.png)  
 - [2020-10-23-python2-怎么继承多个不确定数量的类](https://www.v2ex.com/t/717689) ![](assets/new.png)  
-- [2020-10-23-红包酬谢，提取摸个-app-的登录信息和视频缓存的地方-8495&&……89676](https://www.v2ex.com/t/717687) ![](assets/new.png)  
 - [2020-10-23-华为-mate40-哪款性价比高一些](https://www.v2ex.com/t/717686) ![](assets/new.png)  
 - [2020-10-23-逐浪-CMSv8.2-发布-集成-Node-与-Vue-脚手架和-PowerShell-支持的新一代网站管理系统](https://www.v2ex.com/t/717685) ![](assets/new.png)  
-- [2020-10-23-今天-idea-有买一送一的优惠吗？](https://www.v2ex.com/t/717684) ![](assets/new.png)  
-- [2020-10-23-微软面试题：-K-个最近的点](https://www.v2ex.com/t/717683) ![](assets/new.png)  
-- [2020-10-23-“花生壳”软硬件使用体验咨询](https://www.v2ex.com/t/717682) ![](assets/new.png)  
-- [2020-10-23-戴森吹风机贵在哪里？](https://www.v2ex.com/t/717681) ![](assets/new.png)  
-- [2020-10-23-iPhone-12-Pro-Max-还是-Mate-40-Pro+?](https://www.v2ex.com/t/717680) ![](assets/new.png)  
-- [2020-10-23-即便是苹果专线，我们这里也不送上门。](https://www.v2ex.com/t/717679) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1155,8 +1155,8 @@
 - [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
 - [2020-10-23-天啦撸！打印日志竟然只晓得-Log4j？](https://toutiao.io/k/8hug5ul) ![](assets/new.png)  
 - [2020-10-23-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
-- [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-网易-CI/CD-实践（中）：CD-系统的部署架构与发布流程](https://toutiao.io/k/7tmg612) ![](assets/new.png)  
+- [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
 - [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
 - [2020-10-23-通用的底层埋点都是怎么做的？](https://toutiao.io/k/mqu9yp2) ![](assets/new.png)  
@@ -1164,11 +1164,11 @@
 - [2020-10-23-交互式分析领域，为何-ClickHouse-能够杀出重围？](https://toutiao.io/k/r5c2cvr) ![](assets/new.png)  
 - [2020-10-23-Awk-一行码：求交集、差集、筛选白名单数据](https://toutiao.io/k/wa3l8oj) ![](assets/new.png)  
 - [2020-10-23-后分布式时代：多数派读写的-“少数派”-实现](https://toutiao.io/k/pih6nsy) ![](assets/new.png)  
+- [2020-10-23-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
 - [2020-10-23-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-23-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-23-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-23-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-23-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-23-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-23-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

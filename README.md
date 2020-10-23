@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 16:40:12，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 16:45:54，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -948,10 +948,10 @@
 
 
 - [2020-10-23-一文道尽移动端跨平台技术演进之路](https://juejin.im/post/6886853551516024845) ![](assets/new.png)  
-- [2020-10-23-千万别小瞧九宫格-一道题就能让候选人原形毕露！](https://juejin.im/post/6886770985060532231) ![](assets/new.png)  
 - [2020-10-23-ZooTeam-前端周刊｜第-105-期](https://juejin.im/post/6886767665411850253) ![](assets/new.png)  
 - [2020-10-23-从-Egg.js-到-NestJS，爱码客后端选型之路](https://juejin.im/post/6886765193112911885) ![](assets/new.png)  
 - [2020-10-22-一步一个脚印搭建简易React第一步☝️](https://juejin.im/post/6886708531903496205) ![](assets/new.png)  
+- [2020-10-22-如何使用React-Testing-Library和Jest测试React应用](https://juejin.im/post/6886680584874934280) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

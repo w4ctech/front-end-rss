@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 01:56:05，:rocket: 更新条数: +3753， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 02:05:40，:rocket: 更新条数: +3751， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,8 @@
 </summary>
 
 
+- [2020-10-23-实习-微软亚洲研究院-防火墙开发工程师实习生](https://www.v2ex.com/t/717708) ![](assets/new.png)  
+- [2020-10-23-为啥激活不了？](https://www.v2ex.com/t/717707) ![](assets/new.png)  
 - [2020-10-23-预计明年四月离职，如何保持心态在公司](https://www.v2ex.com/t/717706) ![](assets/new.png)  
 - [2020-10-23-iMac-有支架可以用的吗](https://www.v2ex.com/t/717705) ![](assets/new.png)  
 - [2020-10-23-随便问一下，压缩文件真的不能解密吗](https://www.v2ex.com/t/717704) ![](assets/new.png)  
@@ -1105,8 +1107,6 @@
 - [2020-10-23-如何让-webpack-的-devserver-走本机系统代理？](https://www.v2ex.com/t/717691) ![](assets/new.png)  
 - [2020-10-23-7-个带流量主的-QQ-小程序，有什么价值？](https://www.v2ex.com/t/717690) ![](assets/new.png)  
 - [2020-10-23-python2-怎么继承多个不确定数量的类](https://www.v2ex.com/t/717689) ![](assets/new.png)  
-- [2020-10-23-华为-mate40-哪款性价比高一些](https://www.v2ex.com/t/717686) ![](assets/new.png)  
-- [2020-10-23-逐浪-CMSv8.2-发布-集成-Node-与-Vue-脚手架和-PowerShell-支持的新一代网站管理系统](https://www.v2ex.com/t/717685) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1153,8 +1153,8 @@
 - [2020-10-23-Redis-+-Nginx-+-设计模式-+-Spring-全家桶-+-Dubbo-+-阿里技术精选文档](https://toutiao.io/k/zp8ncvc) ![](assets/new.png)  
 - [2020-10-23-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
 - [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
-- [2020-10-23-天啦撸！打印日志竟然只晓得-Log4j？](https://toutiao.io/k/8hug5ul) ![](assets/new.png)  
 - [2020-10-23-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
+- [2020-10-23-天啦撸！打印日志竟然只晓得-Log4j？](https://toutiao.io/k/8hug5ul) ![](assets/new.png)  
 - [2020-10-23-网易-CI/CD-实践（中）：CD-系统的部署架构与发布流程](https://toutiao.io/k/7tmg612) ![](assets/new.png)  
 - [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
@@ -1164,11 +1164,11 @@
 - [2020-10-23-交互式分析领域，为何-ClickHouse-能够杀出重围？](https://toutiao.io/k/r5c2cvr) ![](assets/new.png)  
 - [2020-10-23-Awk-一行码：求交集、差集、筛选白名单数据](https://toutiao.io/k/wa3l8oj) ![](assets/new.png)  
 - [2020-10-23-后分布式时代：多数派读写的-“少数派”-实现](https://toutiao.io/k/pih6nsy) ![](assets/new.png)  
-- [2020-10-23-推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt) ![](assets/new.png)  
-- [2020-10-23-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-23-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-23-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-23-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-23-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
+- [2020-10-23-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-23-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-23-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-23-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

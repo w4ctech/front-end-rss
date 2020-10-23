@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 06:04:25，:rocket: 更新条数: +3522， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 06:16:52，:rocket: 更新条数: +3521， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-23-姥姥姥爷种了点地瓜，有什么途径好卖啊](https://www.v2ex.com/t/717840) ![](assets/new.png)  
 - [2020-10-23-求推荐支持-IPv6-的流量卡](https://www.v2ex.com/t/717839) ![](assets/new.png)  
 - [2020-10-23-05-年的-HTF-无数据库-PHP-论坛作者还在不在](https://www.v2ex.com/t/717838) ![](assets/new.png)  
 - [2020-10-23-经常把脚伸过界是什么毛病？](https://www.v2ex.com/t/717836) ![](assets/new.png)  
@@ -1086,7 +1087,6 @@
 - [2020-10-23-如何使用-Python-的-subprocess-模块调用系统命令-scp?](https://www.v2ex.com/t/717818) ![](assets/new.png)  
 - [2020-10-23-医疗互联网行业初创公司招聘高级-Python-后端开发工程师-20-40K](https://www.v2ex.com/t/717817) ![](assets/new.png)  
 - [2020-10-23-CODING-改版，确认不是开倒车？认证步骤复杂且通不过](https://www.v2ex.com/t/717816) ![](assets/new.png)  
-- [2020-10-23-k8s-使用-statefulset-如何在-pod-内获取序号并设置到环境变量里](https://www.v2ex.com/t/717811) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-23 03:48:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 04:04:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -35,3 +35,4 @@
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
+- [2020-10-22-极简秒杀系统--《大前端-Node.js》](https://juejin.im/post/6886350762692214792) 

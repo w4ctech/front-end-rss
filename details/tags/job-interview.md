@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-23 13:38:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 13:47:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -45,4 +45,3 @@
 - [2020-10-23-Java--美团-研发-招聘内推-岗位](https://www.v2ex.com/t/717983) 
 - [2020-10-23-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
 - [2020-10-23-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
-- [2020-10-23-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 

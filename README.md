@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 05:14:45，:rocket: 更新条数: +3754， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 05:28:27，:rocket: 更新条数: +3753， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1087,6 +1087,7 @@
 </summary>
 
 
+- [2020-10-23-k8s-使用-statefulset-如何在-pod-内获取序号并设置到环境变量里](https://www.v2ex.com/t/717811) ![](assets/new.png)  
 - [2020-10-23-请教大佬-！安全组入站规则设置-UDP-22、UDP-3389-有什么用？不应该是-TCP-吗？](https://www.v2ex.com/t/717809) ![](assets/new.png)  
 - [2020-10-23-今年港版-iPhone-12-还支持国内-5G-吗？](https://www.v2ex.com/t/717808) ![](assets/new.png)  
 - [2020-10-23-1024-节-晒晒公司啥活动](https://www.v2ex.com/t/717807) ![](assets/new.png)  
@@ -1100,7 +1101,6 @@
 - [2020-10-23-看着大家订的-iPhone-12-陆续收货内心非常羡慕，我也想买但找不到买的理由](https://www.v2ex.com/t/717798) ![](assets/new.png)  
 - [2020-10-23-谷歌爬虫现在不遵守-robots-标准了吗？](https://www.v2ex.com/t/717797) ![](assets/new.png)  
 - [2020-10-23-请推荐一款适合做-3D-建模的鼠标](https://www.v2ex.com/t/717796) ![](assets/new.png)  
-- [2020-10-23-法院认定“奋斗者承诺书”有效](https://www.v2ex.com/t/717795) ![](assets/new.png)  
 - [2020-10-23-是什么功能在让你坚持用你的-IDE，例如-vscode、jetbrains-系列、eclipse-或者宇宙最强-Visual-Studio](https://www.v2ex.com/t/717794) ![](assets/new.png)  
 - [2020-10-23-对日赴日软件工作-对日赴日软件工程师/对日赴日-IT-工程师/对日赴日-PM-南京/上海/合肥/西安/杭州](https://www.v2ex.com/t/717793) ![](assets/new.png)  
 - [2020-10-23-sql-2019-on-Linux-alwayson-pcs-status-报错](https://www.v2ex.com/t/717791) ![](assets/new.png)  
@@ -1153,8 +1153,8 @@
 - [2020-10-23-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
 - [2020-10-23-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
 - [2020-10-23-Redis-+-Nginx-+-设计模式-+-Spring-全家桶-+-Dubbo-+-阿里技术精选文档](https://toutiao.io/k/zp8ncvc) ![](assets/new.png)  
-- [2020-10-23-天啦撸！打印日志竟然只晓得-Log4j？](https://toutiao.io/k/8hug5ul) ![](assets/new.png)  
 - [2020-10-23-后分布式时代：多数派读写的-“少数派”-实现](https://toutiao.io/k/pih6nsy) ![](assets/new.png)  
+- [2020-10-23-天啦撸！打印日志竟然只晓得-Log4j？](https://toutiao.io/k/8hug5ul) ![](assets/new.png)  
 - [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
 - [2020-10-23-网易-CI/CD-实践（中）：CD-系统的部署架构与发布流程](https://toutiao.io/k/7tmg612) ![](assets/new.png)  
 - [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  

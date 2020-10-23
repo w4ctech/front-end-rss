@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-23 04:49:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 05:04:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -45,3 +45,4 @@
 - [2020-10-23-深圳南山-全职-965-20-40K-Covariant.AI-深圳团队招聘-Python-软件工程师](https://www.v2ex.com/t/717786) 
 - [2020-10-23-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
 - [2020-10-23-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
+- [2020-10-23-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 

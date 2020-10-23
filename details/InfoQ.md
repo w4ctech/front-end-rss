@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-10-23 17:49:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 18:04:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-10-23-一入阿里“误终身”？](https://www.ershicimi.com/p/b4382de1ea95b254c075c74f3542aba4) 
+- [2020-10-23-官宣：让创新技术被看见，InfoQ首个年度榜单来了](https://www.ershicimi.com/p/dd7fb3a4e39b1309149fa467ade155fe) 
+- [2020-10-23-谁是无价之猿？测一测你的coding身价（内有大礼）|-Q推荐](https://www.ershicimi.com/p/e177e0ac70fa0fbe914bc0bc6e186cbb) 
+- [2020-10-23-充满想象，5G+X解锁云端划时代创新场景](https://www.ershicimi.com/p/8ba189f041332ab2a6b0f4a53d593269) 
+- [2020-10-23-CI/CD-工具选型：Jenkins-还是-GitLab-CI/CD？](https://www.ershicimi.com/p/beade7258b817474afbed706efabff3e) 
+- [2020-10-23-针对Python开发人员的10个“疯狂”的项目构想](https://www.ershicimi.com/p/da4f8eb174de31de95c90495435772d1) 
 - [2020-10-22-刚刚，史上最强大华为Mate手机问世：搭载绝版麒麟9000芯片](https://www.ershicimi.com/p/b11d2206e2348f86f577ad70a4028f76) 
 - [2020-10-22-数据湖火了，那数据仓库怎么办？](https://www.ershicimi.com/p/d36d2967e60b0b8e58e3a567a7d666b4) 
 - [2020-10-22-聆听每一位开发者的心“声”：声网Agora-征文大赛圆满落幕](https://www.ershicimi.com/p/2096e9c51cd5ea79b31b6ad77c458b9c) 
@@ -19,9 +25,3 @@
 - [2020-10-20-AWS分叉了我的开源项目，但他们连声感谢也没说](https://www.ershicimi.com/p/97bfff4a0ef60c6a1e75792800742948) 
 - [2020-10-20-旷视研究院田忠博：中国缺少重量级的开源项目，国产开源需要更加自信](https://www.ershicimi.com/p/585795cda394273ebb22ce13dfab1f92) 
 - [2020-10-20-云上创新，Azure当道-|-Q推荐](https://www.ershicimi.com/p/28be100dfa76a51810984ff9d554c387) 
-- [2020-10-20-做下一个互联网时代的“水电公司”——融云的通信云视野与蓝图-｜-Q推荐](https://www.ershicimi.com/p/867ef0eb4fac10cd49d4f585afeb4f56) 
-- [2020-10-20-首次部署-Kubernetes-应用，总会忽略这些事](https://www.ershicimi.com/p/55697e9ad2efa36a7e902e749bef5dd7) 
-- [2020-10-19-守旧的互联网企业VS创新的传统企业：微软站哪端？](https://www.ershicimi.com/p/27e76ead2c47bfa890bfe54e054403a7) 
-- [2020-10-19-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/f73f26d00cd8eb4f513bd4e287551a48) 
-- [2020-10-19-架构演进与性能优化之路-｜-QCon+](https://www.ershicimi.com/p/bf599586ba6a37b0114f952b56dbb4c2) 
-- [2020-10-19-易观A10大会震撼来袭，四场活动教你玩转「留量」思维-｜-Q推荐](https://www.ershicimi.com/p/5f0588d77cc14e365da64f41f92b0b7f) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 00:40:48，:rocket: 更新条数: +3512， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 01:16:13，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-10-22-10月22日全国新增境外输入新冠18例-累计确诊85747例](https://m.caixin.com/m/2020-10-23/101617786.html) ![](assets/new.png)  
 - [2020-10-21-最新海外疫情：新冠感染超4109万-累计死亡超112万](https://m.caixin.com/m/2020-10-22/101617600.html) ![](assets/new.png)  
 - [2020-10-21-【境内疫情观察】全国连续190日无新增死亡病例（10月21日）](http://m.database.caixin.com/m/2020-10-22/101617506.html) ![](assets/new.png)  
 - [2020-10-21-大流行手记|10月21日：美国年轻群体超额死亡率暴增-英国明春或无法大规模使用疫苗](https://m.caixin.com/m/2020-10-22/101617371.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-10-16-大流行手记|10月16日：美国病例超800万《自然》谴责特朗普践踏科学](https://m.caixin.com/m/2020-10-17/101615725.html) ![](assets/new.png)  
 - [2020-10-15-青岛疫情源头查明-被感染码头工人与普通病区患者共用CT所致](https://m.caixin.com/m/2020-10-16/101615349.html) ![](assets/new.png)  
 - [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) ![](assets/new.png)  
-- [2020-10-15-【境内疫情观察】青岛疫情由患者共用CT室引发（10月15日）](http://m.database.caixin.com/m/2020-10-16/101615364.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,15 @@
 </summary>
 
 
+- [2020-10-23-今天-idea-有买一送一的优惠吗？](https://www.v2ex.com/t/717684) ![](assets/new.png)  
+- [2020-10-23-微软面试题：-K-个最近的点](https://www.v2ex.com/t/717683) ![](assets/new.png)  
+- [2020-10-23-“花生壳”软硬件使用体验咨询](https://www.v2ex.com/t/717682) ![](assets/new.png)  
+- [2020-10-23-戴森吹风机贵在哪里？](https://www.v2ex.com/t/717681) ![](assets/new.png)  
+- [2020-10-23-iPhone-12-Pro-Max-还是-Mate-40-Pro+?](https://www.v2ex.com/t/717680) ![](assets/new.png)  
+- [2020-10-23-即便是苹果专线，我们这里也不送上门。](https://www.v2ex.com/t/717679) ![](assets/new.png)  
+- [2020-10-23-华为发了-mate40，没人讨论吗？](https://www.v2ex.com/t/717678) ![](assets/new.png)  
+- [2020-10-23-北京昌平区哪里有钓鱼的地方？求推荐，费用低的优先，免费最好](https://www.v2ex.com/t/717677) ![](assets/new.png)  
+- [2020-10-23-杭州-微拍堂内推-前端-&-PHP-&-Go-&-产品-等等,-微拍堂欢迎你~](https://www.v2ex.com/t/717676) ![](assets/new.png)  
 - [2020-10-23-公安备案无法登录](https://www.v2ex.com/t/717672) ![](assets/new.png)  
 - [2020-10-23-世道沧桑，人心不古，如今还有坚持不做-app-的网站吗？](https://www.v2ex.com/t/717670) ![](assets/new.png)  
 - [2020-10-23-局域网远程桌面方案](https://www.v2ex.com/t/717669) ![](assets/new.png)  
@@ -1078,15 +1087,6 @@
 - [2020-10-22-为什么苹果严打-PDD，对你我来说是好事。](https://www.v2ex.com/t/717662) ![](assets/new.png)  
 - [2020-10-22-像这样能在别的-app-运行期间点击悬浮窗显示-多选项卡的窗口该怎么实现](https://www.v2ex.com/t/717661) ![](assets/new.png)  
 - [2020-10-22-想买-12.9-屏幕就只能买-pro-咯](https://www.v2ex.com/t/717660) ![](assets/new.png)  
-- [2020-10-22-Chrome-退出就登出帐号](https://www.v2ex.com/t/717659) ![](assets/new.png)  
-- [2020-10-22-SAP-大连研究院成立-有熟悉的-V-友吗？](https://www.v2ex.com/t/717658) ![](assets/new.png)  
-- [2020-10-22-不懂就问，大厂程序员收入水平](https://www.v2ex.com/t/717656) ![](assets/new.png)  
-- [2020-10-22-请教如何在-concurrent.futures-子进程里，无冲突地使用整个程序的全局队列？](https://www.v2ex.com/t/717655) ![](assets/new.png)  
-- [2020-10-22-Python-去重](https://www.v2ex.com/t/717654) ![](assets/new.png)  
-- [2020-10-22-NVIDIA-Driver-not-yet-supported-for-Linux-Kernel-5.9+](https://www.v2ex.com/t/717652) ![](assets/new.png)  
-- [2020-10-22-在-ORACLE-Cloud-的虚拟云网络下新建-VCN-提示”Authorization-failed-or-requested-resource-not-found.“错误如何解决？](https://www.v2ex.com/t/717650) ![](assets/new.png)  
-- [2020-10-22-今年是更黑暗的一年，人生更低谷](https://www.v2ex.com/t/717649) ![](assets/new.png)  
-- [2020-10-22-求指明一个关于图像绘制或编辑的解决方案](https://www.v2ex.com/t/717648) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,24 +1131,24 @@
 
 - [2020-10-23-困在内卷里的工程师-|-码农周刊第-322-期](https://toutiao.io/k/mb7u8g0) ![](assets/new.png)  
 - [2020-10-23-Redis-+-Nginx-+-设计模式-+-Spring-全家桶-+-Dubbo-+-阿里技术精选文档](https://toutiao.io/k/zp8ncvc) ![](assets/new.png)  
-- [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
 - [2020-10-23-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
+- [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
 - [2020-10-23-天啦撸！打印日志竟然只晓得-Log4j？](https://toutiao.io/k/8hug5ul) ![](assets/new.png)  
-- [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
 - [2020-10-23-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
-- [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
-- [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-网易-CI/CD-实践（中）：CD-系统的部署架构与发布流程](https://toutiao.io/k/7tmg612) ![](assets/new.png)  
-- [2020-10-23-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-23-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-23-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-23-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
-- [2020-10-23-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
+- [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
+- [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
+- [2020-10-23-同学别走，聊聊-Lock-与-Synchronized-吧](https://toutiao.io/k/9jlmgwk) ![](assets/new.png)  
+- [2020-10-23-通用的底层埋点都是怎么做的？](https://toutiao.io/k/mqu9yp2) ![](assets/new.png)  
+- [2020-10-23-交互式分析领域，为何-ClickHouse-能够杀出重围？](https://toutiao.io/k/r5c2cvr) ![](assets/new.png)  
+- [2020-10-23-Awk-一行码：求交集、差集、筛选白名单数据](https://toutiao.io/k/wa3l8oj) ![](assets/new.png)  
+- [2020-10-23-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-23-推荐-我是如何阅读-JDK-源码的？](https://toutiao.io/k/5kuu7cq) ![](assets/new.png)  
 - [2020-10-23-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-23-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-23-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-23-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-23-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-23-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-23-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

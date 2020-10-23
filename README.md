@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 18:15:28，:rocket: 更新条数: +3757， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 18:31:29，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -874,6 +854,15 @@
 </summary>
 
 
+- [2020-10-23-牛逼！终于有人开源了一份基于SSM框架实现了支付宝支付功能的完整源代码...](https://www.ershicimi.com/p/9ca665f3b2ccac3328c437b51d22c27c) ![](assets/new.png)  
+- [2020-10-23-REST-API-的安全认证，我放弃OAuth-2.0-,选择-JWT-令牌](https://www.ershicimi.com/p/722000be63427a69a603a6e2a07bd6b5) ![](assets/new.png)  
+- [2020-10-23-Java-反射到底慢在哪？](https://www.ershicimi.com/p/2bebf8fd1642bc6fc862891191d76005) ![](assets/new.png)  
+- [2020-10-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/3b38b3b3007e8d0328cf61dd6bfc06bf) ![](assets/new.png)  
+- [2020-10-22-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/f0bea2b09a0ed0aaf5628db8bb69a963) ![](assets/new.png)  
+- [2020-10-22-IDEA-不愧为神器，结合-Groovy-脚本，简直无敌！](https://www.ershicimi.com/p/32be1b864734dad8d315d6b19a5f8685) ![](assets/new.png)  
+- [2020-10-21-蚂蚁金服：开源增强版-SpringBoot-的研发框架！](https://www.ershicimi.com/p/b3c69257cc31e6e082faac7c4643e848) ![](assets/new.png)  
+- [2020-10-21-30-种提高工作效率的利器](https://www.ershicimi.com/p/0eb0fdfcd652ebf37d876f04c3875971) ![](assets/new.png)  
+- [2020-10-21-写了个牛逼的日志切面，甩锅更方便了！](https://www.ershicimi.com/p/8aed454265ff6e5f8150b8cfa87e10f3) ![](assets/new.png)  
 - [2020-10-20-为什么要搞懂服务化？](https://www.ershicimi.com/p/8c8f65cfb3a4f5f96a7136a82a3a5262) ![](assets/new.png)  
 - [2020-10-20-完美：Docker遇到Intellij-IDEA这个插件，再次解放生产力~](https://www.ershicimi.com/p/1e6599289ddc9d9befc2543bc1adc497) ![](assets/new.png)  
 - [2020-10-20-为什么有些大公司技术弱爆了？](https://www.ershicimi.com/p/91bdd86050bcee176335c0a84e552cb0) ![](assets/new.png)  
@@ -885,15 +874,6 @@
 - [2020-10-18-分库分表就能无限扩容吗？](https://www.ershicimi.com/p/66d844930dcc2581082f3bfd7272d2eb) ![](assets/new.png)  
 - [2020-10-17-那个「最牛删库跑路事件」的程序员，被判了....](https://www.ershicimi.com/p/b77c15fb99463067ca79fe4444c72b46) ![](assets/new.png)  
 - [2020-10-17-Spring-Boot-无侵入式-实现API接口统一JSON格式返回](https://www.ershicimi.com/p/c13b7a5c22f5b4146cc652ebd59d1863) ![](assets/new.png)  
-- [2020-10-17-假如你是架构师，你要做些什么](https://www.ershicimi.com/p/5362d64704b5bcd432c16d16d38635ed) ![](assets/new.png)  
-- [2020-10-16-腾讯，开源了，高性能-RPC-框架，是要干DUBBO-吗？](https://www.ershicimi.com/p/aa88b31b9ee87a9f3afa55e776367b7b) ![](assets/new.png)  
-- [2020-10-16-图解-MySQL-索引，写得实在太好了！](https://www.ershicimi.com/p/bd1ef0c407d8249ea59fb395b531fbfe) ![](assets/new.png)  
-- [2020-10-16-LinkedList-真的是查找慢增删快？刷新你的认知！](https://www.ershicimi.com/p/e489fc9ffdb3af49da4f9b7e77d32757) ![](assets/new.png)  
-- [2020-10-15-面试遭遇-SparkSQL，慌了！](https://www.ershicimi.com/p/b25fcbef6eee387a64fc9bebb1b1e0c8) ![](assets/new.png)  
-- [2020-10-15-滴滴CTO五轮面试真是太刺激了，Java高级工程师一二三四五面面经已拿到offer](https://www.ershicimi.com/p/3094204bbe95af3a1045d7789f1e4255) ![](assets/new.png)  
-- [2020-10-15-Java-反射到底慢在哪？](https://www.ershicimi.com/p/6b020978fb7fadfe031c76c1b16a056e) ![](assets/new.png)  
-- [2020-10-14-再见了SpringMVC！这个框架有点厉害，甚至干掉了Servlet！](https://www.ershicimi.com/p/6f5a415774c0f9b396a4953c003ad7b2) ![](assets/new.png)  
-- [2020-10-14-2.5-亿！华为成立新公司！](https://www.ershicimi.com/p/28680622e63c8a69962af71bf6d1a273) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1157,8 +1137,8 @@
 - [2020-10-23-网易-CI/CD-实践（中）：CD-系统的部署架构与发布流程](https://toutiao.io/k/7tmg612) ![](assets/new.png)  
 - [2020-10-23-天啦撸！打印日志竟然只晓得-Log4j？](https://toutiao.io/k/8hug5ul) ![](assets/new.png)  
 - [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
-- [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
 - [2020-10-23-通用的底层埋点都是怎么做的？](https://toutiao.io/k/mqu9yp2) ![](assets/new.png)  
+- [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
 - [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
 - [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-交互式分析领域，为何-ClickHouse-能够杀出重围？](https://toutiao.io/k/r5c2cvr) ![](assets/new.png)  

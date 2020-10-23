@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 06:50:10，:rocket: 更新条数: +3522， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 07:04:11，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,8 @@
 
 
 - [2020-10-22-10月22日全国新增境外输入新冠18例-累计确诊85747例](https://m.caixin.com/m/2020-10-23/101617786.html) ![](assets/new.png)  
+- [2020-10-22-大流行手记|10月22日：德国日增病例破万-巴西一疫苗试验志愿者死亡](https://m.caixin.com/m/2020-10-23/101617798.html) ![](assets/new.png)  
+- [2020-10-22-【境内疫情观察】全国新增14例境外输入病例（10月22日）](http://m.database.caixin.com/m/2020-10-23/101617954.html) ![](assets/new.png)  
 - [2020-10-21-最新海外疫情：新冠感染超4109万-累计死亡超112万](https://m.caixin.com/m/2020-10-22/101617600.html) ![](assets/new.png)  
 - [2020-10-21-【境内疫情观察】全国连续190日无新增死亡病例（10月21日）](http://m.database.caixin.com/m/2020-10-22/101617506.html) ![](assets/new.png)  
 - [2020-10-21-大流行手记|10月21日：美国年轻群体超额死亡率暴增-英国明春或无法大规模使用疫苗](https://m.caixin.com/m/2020-10-22/101617371.html) ![](assets/new.png)  
@@ -82,8 +84,6 @@
 - [2020-10-17-大流行手记|10月17日：世卫称瑞德西韦等药物疗效甚微-中东疫情高位增长](https://m.caixin.com/m/2020-10-18/101615905.html) ![](assets/new.png)  
 - [2020-10-16-【境内疫情观察】广州花都新增1例境外输入关联的无症状感染者（10月16日）](http://m.database.caixin.com/m/2020-10-17/101615832.html) ![](assets/new.png)  
 - [2020-10-16-大流行手记|10月16日：美国病例超800万《自然》谴责特朗普践踏科学](https://m.caixin.com/m/2020-10-17/101615725.html) ![](assets/new.png)  
-- [2020-10-15-青岛疫情源头查明-被感染码头工人与普通病区患者共用CT所致](https://m.caixin.com/m/2020-10-16/101615349.html) ![](assets/new.png)  
-- [2020-10-15-广州花都区隔离酒店例行检查发现1例境外输入关联无症状感染者](http://m.china.caixin.com/m/2020-10-16/101615304.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,6 +1067,14 @@
 </summary>
 
 
+- [2020-10-23-1024-节-晒晒公司福利](https://www.v2ex.com/t/717862) ![](assets/new.png)  
+- [2020-10-23-没有-Home-键的-iPhone-怎么实现之前双点-Home-屏幕下拉悬停？](https://www.v2ex.com/t/717861) ![](assets/new.png)  
+- [2020-10-23-App-的故事](https://www.v2ex.com/t/717860) ![](assets/new.png)  
+- [2020-10-23-1024-领扣送福利，-LintCode-VIP-年卡-8-折优惠，解锁九章全部课程习题-ladder](https://www.v2ex.com/t/717859) ![](assets/new.png)  
+- [2020-10-23-75%-的-Facebook-流量已经切换到-QUIC-和-HTTP/3-了](https://www.v2ex.com/t/717858) ![](assets/new.png)  
+- [2020-10-23-1024-节，推荐一些你觉得不错的开源项目吧](https://www.v2ex.com/t/717857) ![](assets/new.png)  
+- [2020-10-23-apple-watch-更新系统要好几个小时？](https://www.v2ex.com/t/717856) ![](assets/new.png)  
+- [2020-10-23-直营店有-magsafe-的现货嘛](https://www.v2ex.com/t/717855) ![](assets/new.png)  
 - [2020-10-23-请问有在美企工作的-v-友吗，今天的网络质量如何？](https://www.v2ex.com/t/717853) ![](assets/new.png)  
 - [2020-10-23-杭州---字节跳动---教育-在线教室后端、客户端热招中～](https://www.v2ex.com/t/717852) ![](assets/new.png)  
 - [2020-10-23-远程兼职需要注意什么？](https://www.v2ex.com/t/717851) ![](assets/new.png)  
@@ -1079,14 +1087,6 @@
 - [2020-10-23-双十一前夕入手-iphone11-合适吗？](https://www.v2ex.com/t/717844) ![](assets/new.png)  
 - [2020-10-23-Outlook-for-macOS-已经更新了](https://www.v2ex.com/t/717842) ![](assets/new.png)  
 - [2020-10-23-姥姥姥爷种了点地瓜，有什么途径好卖啊](https://www.v2ex.com/t/717840) ![](assets/new.png)  
-- [2020-10-23-求推荐支持-IPv6-的流量卡](https://www.v2ex.com/t/717839) ![](assets/new.png)  
-- [2020-10-23-05-年的-HTF-无数据库-PHP-论坛作者还在不在](https://www.v2ex.com/t/717838) ![](assets/new.png)  
-- [2020-10-23-经常把脚伸过界是什么毛病？](https://www.v2ex.com/t/717836) ![](assets/new.png)  
-- [2020-10-23-为什么-android-手机流畅性不如-iPhone](https://www.v2ex.com/t/717833) ![](assets/new.png)  
-- [2020-10-23-阿里云-Teambition-的邀请活动有人做吗？](https://www.v2ex.com/t/717831) ![](assets/new.png)  
-- [2020-10-23-周五下午划水时间到，大家的公司周五可以提前下班吗？](https://www.v2ex.com/t/717830) ![](assets/new.png)  
-- [2020-10-23-Linux-下有啥可以用的鼠标手势软件吗](https://www.v2ex.com/t/717829) ![](assets/new.png)  
-- [2020-10-23-安兔兔评测-iPhone12-跑分温度-80-摄氏度](https://www.v2ex.com/t/717828) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,15 +1139,15 @@
 - [2020-10-23-网易-CI/CD-实践（中）：CD-系统的部署架构与发布流程](https://toutiao.io/k/7tmg612) ![](assets/new.png)  
 - [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
-- [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
 - [2020-10-23-通用的底层埋点都是怎么做的？](https://toutiao.io/k/mqu9yp2) ![](assets/new.png)  
+- [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
 - [2020-10-23-交互式分析领域，为何-ClickHouse-能够杀出重围？](https://toutiao.io/k/r5c2cvr) ![](assets/new.png)  
 - [2020-10-23-同学别走，聊聊-Lock-与-Synchronized-吧](https://toutiao.io/k/9jlmgwk) ![](assets/new.png)  
 - [2020-10-23-Awk-一行码：求交集、差集、筛选白名单数据](https://toutiao.io/k/wa3l8oj) ![](assets/new.png)  
 - [2020-10-23-前端如何一键生成多维度数据可视化分析报表](https://toutiao.io/k/vj4q8c4) ![](assets/new.png)  
 - [2020-10-23-spring-boot-route（二十一）：Quartz-实现动态定时任务](https://toutiao.io/k/wn8pvs1) ![](assets/new.png)  
-- [2020-10-23-立等可取的-Vue-+-Typescript-函数式组件实战](https://toutiao.io/k/zjlfnrc) ![](assets/new.png)  
 - [2020-10-23-Golang-哈夫曼编码压缩文件代码实现全流程](https://toutiao.io/k/sjcb9mw) ![](assets/new.png)  
+- [2020-10-23-立等可取的-Vue-+-Typescript-函数式组件实战](https://toutiao.io/k/zjlfnrc) ![](assets/new.png)  
 - [2020-10-23-前端搞报表：数据分析提效全链路解决方案](https://toutiao.io/k/5besgkh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

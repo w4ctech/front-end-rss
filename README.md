@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 23:29:31，:rocket: 更新条数: +3757， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 23:35:20，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-23-巴西新增30026例新冠肺炎确诊病例-累计确诊超535万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwPrYTaI1Z9nyEsUvrT0d201024&isfromapp=1) ![](assets/new.png)  
+- [2020-10-23-葡萄牙议会通过露天环境强制佩戴口罩法令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1gtqiYLsHBSfg8hnvBM1201024&isfromapp=1) ![](assets/new.png)  
+- [2020-10-23-世卫组织：欧洲疫情形势十分令人担忧-多个城市的重症监护病房将达到饱和](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIGXbL61tymjzz8lldzAb201024&isfromapp=1) ![](assets/new.png)  
 - [2020-10-23-印尼新增4369例新冠肺炎确诊病例-累计确诊超38万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticCCIKV1TkKCrUGwaHUst201023&isfromapp=1) ![](assets/new.png)  
 - [2020-10-23-世卫批准新冠病毒快速检测新方法-非洲地区检测能力或将显著提高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwremvMza2BY92UcVvb9Q201023&isfromapp=1) ![](assets/new.png)  
-- [2020-10-23-民政部：将采取措施解决老年人的智能技术困难](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwji5QidALuLDd9s4sjob201023&isfromapp=1) ![](assets/new.png)  
-- [2020-10-23-第三波疫情肆虐美国-多地医疗体系濒临崩溃](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA42QiSafPjdbNGLOmi201023&isfromapp=1) ![](assets/new.png)  
-- [2020-10-23-疫情之下-伦敦金融城的“空城季”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jAJKDsI4uVI1j2kzXwc201023&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -508,6 +508,8 @@
 </summary>
 
 
+- [2020-10-23-竟然还用“土方法”学前端，怪不得你写不出来！](https://www.ershicimi.com/p/11d0aaaf90949a7cd898d176375746f2) ![](assets/new.png)  
+- [2020-10-23-15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/be7d984b6194414ac120439867f43994) ![](assets/new.png)  
 - [2020-10-22-【答疑解惑】为什么你的-Charles-会抓包失败？](https://www.ershicimi.com/p/eafae46cd5eadc608daaed11f2f0e024) ![](assets/new.png)  
 - [2020-10-22-【1024】-3折购书优惠码限时抢](https://www.ershicimi.com/p/619f1cf2ab97a4d02a0e6e7796d2439e) ![](assets/new.png)  
 - [2020-10-21-Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/9b42634aa5c0f1d183538bdbd73accc4) ![](assets/new.png)  
@@ -526,8 +528,6 @@
 - [2020-10-12-一套代码、多端运行，Flutter是如何实现的？](https://www.ershicimi.com/p/0f76340d9ab6a535d5310e02c4cf6975) ![](assets/new.png)  
 - [2020-10-12-阔别两年，webpack-5-正式发布了！](https://www.ershicimi.com/p/ec879dffe95cf43b655f14bf2290ce8b) ![](assets/new.png)  
 - [2020-10-11-我写炫酷-CSS-效果的常用套路](https://www.ershicimi.com/p/0053fd159f04d291314d4b16d6c11654) ![](assets/new.png)  
-- [2020-10-11-全栈前端技术交流吐槽⑤群](https://www.ershicimi.com/p/82fb1cc16d4b8abd68ec1e5c14734489) ![](assets/new.png)  
-- [2020-10-10-10个实用技巧让你的-Vue-代码更优雅](https://www.ershicimi.com/p/10b2afc512eee3f3a232dd6a6d97dbf3) ![](assets/new.png)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,6 +1067,7 @@
 </summary>
 
 
+- [2020-10-23-求建议-是否放弃大厂子厂去偏远地区的军队文职](https://www.v2ex.com/t/718074) ![](assets/new.png)  
 - [2020-10-23-推荐一个《涂鸦识别》的-AI-安卓项目](https://www.v2ex.com/t/718073) ![](assets/new.png)  
 - [2020-10-23-1024，送给你的礼物，来领奖～没看错，就是你](https://www.v2ex.com/t/718072) ![](assets/new.png)  
 - [2020-10-23-有在公司用国际版-Office365-和-Teams-的朋友能帮忙给点建议么？](https://www.v2ex.com/t/718071) ![](assets/new.png)  
@@ -1106,7 +1087,6 @@
 - [2020-10-23-炒股对抗失业](https://www.v2ex.com/t/718051) ![](assets/new.png)  
 - [2020-10-23-20201024-午夜俱乐部](https://www.v2ex.com/t/718050) ![](assets/new.png)  
 - [2020-10-23-iPhone-12-的触感触控（Haptic-Touch）反馈延迟了？](https://www.v2ex.com/t/718047) ![](assets/new.png)  
-- [2020-10-23-2020-1024=?-推荐个技术公众号，质量还不错](https://www.v2ex.com/t/718046) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1159,8 +1139,8 @@
 - [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
 - [2020-10-23-通用的底层埋点都是怎么做的？](https://toutiao.io/k/mqu9yp2) ![](assets/new.png)  
 - [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
-- [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-交互式分析领域，为何-ClickHouse-能够杀出重围？](https://toutiao.io/k/r5c2cvr) ![](assets/new.png)  
+- [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
 - [2020-10-23-同学别走，聊聊-Lock-与-Synchronized-吧](https://toutiao.io/k/9jlmgwk) ![](assets/new.png)  
 - [2020-10-23-Awk-一行码：求交集、差集、筛选白名单数据](https://toutiao.io/k/wa3l8oj) ![](assets/new.png)  

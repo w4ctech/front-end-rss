@@ -16915,6 +16915,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "发现 iPhone12 的质感还是不如 Xs Max",
+        "link": "https://www.v2ex.com/t/718029",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "你们是怎么使用 change data capture 来实现缓存失效的？",
+        "link": "https://www.v2ex.com/t/718028",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[北京] [深圳] [杭州] [字节跳动] [内推] 大数据, 前端, 后台, SRE Data-垂直策略-研发岗位, 机不可失时不再来!",
+        "link": "https://www.v2ex.com/t/718027",
+        "date": "2020-10-23"
+      },
+      {
         "title": "你们手动切换夜间模式正常嘛",
         "link": "https://www.v2ex.com/t/718024",
         "date": "2020-10-23"
@@ -17107,26 +17122,6 @@
       {
         "title": "洗碗机怎么这么贵……",
         "link": "https://www.v2ex.com/t/717980",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[求助]sublime 的项目配置文件会自己恢复默认.",
-        "link": "https://www.v2ex.com/t/717979",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[北京,深圳] 快手直播 server 团队",
-        "link": "https://www.v2ex.com/t/717978",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "问个 Sql 的问题,修改 一张表需要避免另一张表被修改,该怎么实现？",
-        "link": "https://www.v2ex.com/t/717977",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "iPhone 12 你们的信号有改善吗？",
-        "link": "https://www.v2ex.com/t/717976",
         "date": "2020-10-23"
       }
     ]
@@ -17344,23 +17339,8 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
         "date": "2020-10-23"
       },
       {
@@ -17369,13 +17349,48 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
         "date": "2020-10-23"
       },
       {
         "title": "[推荐] 技术方案设计的方法",
         "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
         "date": "2020-10-23"
       },
       {
@@ -17389,33 +17404,13 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-23"
       },
       {
         "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
         "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-23"
       }
     ]

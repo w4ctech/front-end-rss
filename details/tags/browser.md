@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-23 07:15:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 07:29:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,10 +40,9 @@
 - [2020-10-19-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/e3ee1b93362990a169a0ea0f52f36e54) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-23-mophie-新出的这个-4-合-1-充电板不错，很适合家庭用户](https://www.v2ex.com/t/717868) 
-- [2020-10-23-上海-Elsevier-DevOps-Engineer-内推-外企，-965，-WLB，可以在家办公](https://www.v2ex.com/t/717824) 
-- [2020-10-23-mac-下，将-nsview-嵌入-qwindow，就像-windows-的子窗口，应该怎么做](https://www.v2ex.com/t/717823) 
 - [2020-10-23-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-23-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-10-23-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
 - [2020-10-22-中央网信办网络安全应急指挥中心2020年度面向社会公开招聘拟聘用人...](https://sec.thief.one/article_content?a_id=f7d279600829edbc9bf21a81d1181b35) 
 - [2020-10-22-OPPO安全与HackerOne战略合作全面升级,深度布局安全新生态](https://sec.thief.one/article_content?a_id=c7209837bcde37bdf8eb2dc74d2ee2ec) 
 - [2020-10-22-奇安信总裁吴云坤:用“四化”思路应对“十四五”石油石化行业安全...](https://sec.thief.one/article_content?a_id=1bba2477a25806a55cf020f81b7e533f) 

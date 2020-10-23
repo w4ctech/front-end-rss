@@ -16915,6 +16915,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "利用 普通耳机 + 手机 app 来实现主动降噪",
+        "link": "https://www.v2ex.com/t/717874",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "麻烦大家给个意见买哪款 iPad ？",
+        "link": "https://www.v2ex.com/t/717873",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "双 11 要来了，有显示器推荐吗？",
+        "link": "https://www.v2ex.com/t/717872",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "nginx 如何配置才能兼容目录展示和图片解析？",
+        "link": "https://www.v2ex.com/t/717871",
+        "date": "2020-10-23"
+      },
+      {
         "title": "手机租号自动上号器是怎么实现的。",
         "link": "https://www.v2ex.com/t/717870",
         "date": "2020-10-23"
@@ -17098,21 +17118,6 @@
         "title": "intellij 平台大杂烩插件 Toolset 再次更新及 1024 优惠活动",
         "link": "https://www.v2ex.com/t/717825",
         "date": "2020-10-23"
-      },
-      {
-        "title": "[上海-Elsevier DevOps Engineer 内推] 外企， 965， WLB，可以在家办公",
-        "link": "https://www.v2ex.com/t/717824",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "mac 下，将 nsview 嵌入 qwindow，就像 windows 的子窗口，应该怎么做",
-        "link": "https://www.v2ex.com/t/717823",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "推荐个擦镜片方便高效的方法",
-        "link": "https://www.v2ex.com/t/717822",
-        "date": "2020-10-23"
       }
     ]
   },
@@ -17234,13 +17239,13 @@
         "date": "2020-10-23"
       },
       {
-        "title": "想自己写框架？不会写 Java 注解可不行",
-        "link": "https://toutiao.io/k/9j801i6",
+        "title": "Redis + Nginx + 设计模式 + Spring 全家桶 + Dubbo + 阿里技术精选文档",
+        "link": "https://toutiao.io/k/zp8ncvc",
         "date": "2020-10-23"
       },
       {
-        "title": "Redis + Nginx + 设计模式 + Spring 全家桶 + Dubbo + 阿里技术精选文档",
-        "link": "https://toutiao.io/k/zp8ncvc",
+        "title": "想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
         "date": "2020-10-23"
       },
       {
@@ -17329,18 +17334,8 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
         "date": "2020-10-23"
       },
       {
@@ -17349,43 +17344,8 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 高性能网关设计实践",
-        "link": "https://toutiao.io/k/7579qvt",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
         "date": "2020-10-23"
       },
       {
@@ -17394,13 +17354,58 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-23"
       }
     ]

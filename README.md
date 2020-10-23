@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 22:31:47，:rocket: 更新条数: +3757， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 22:38:23，:rocket: 更新条数: +3757， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1158,16 +1158,16 @@
 - [2020-10-23-天啦撸！打印日志竟然只晓得-Log4j？](https://toutiao.io/k/8hug5ul) ![](assets/new.png)  
 - [2020-10-23-PyTorch-学习笔记汇总](https://toutiao.io/k/hx2qti3) ![](assets/new.png)  
 - [2020-10-23-通用的底层埋点都是怎么做的？](https://toutiao.io/k/mqu9yp2) ![](assets/new.png)  
-- [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
 - [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
+- [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
 - [2020-10-23-交互式分析领域，为何-ClickHouse-能够杀出重围？](https://toutiao.io/k/r5c2cvr) ![](assets/new.png)  
 - [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
 - [2020-10-23-同学别走，聊聊-Lock-与-Synchronized-吧](https://toutiao.io/k/9jlmgwk) ![](assets/new.png)  
 - [2020-10-23-Awk-一行码：求交集、差集、筛选白名单数据](https://toutiao.io/k/wa3l8oj) ![](assets/new.png)  
 - [2020-10-23-前端如何一键生成多维度数据可视化分析报表](https://toutiao.io/k/vj4q8c4) ![](assets/new.png)  
 - [2020-10-23-spring-boot-route（二十一）：Quartz-实现动态定时任务](https://toutiao.io/k/wn8pvs1) ![](assets/new.png)  
-- [2020-10-23-Golang-哈夫曼编码压缩文件代码实现全流程](https://toutiao.io/k/sjcb9mw) ![](assets/new.png)  
 - [2020-10-23-立等可取的-Vue-+-Typescript-函数式组件实战](https://toutiao.io/k/zjlfnrc) ![](assets/new.png)  
+- [2020-10-23-Golang-哈夫曼编码压缩文件代码实现全流程](https://toutiao.io/k/sjcb9mw) ![](assets/new.png)  
 - [2020-10-23-前端搞报表：数据分析提效全链路解决方案](https://toutiao.io/k/5besgkh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

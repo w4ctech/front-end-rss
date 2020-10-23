@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-23 03:32:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 03:40:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -115,7 +115,6 @@
 - [【全栈前端精选】Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/a4add2a32f35e47b9bda2fec84bc56ac)
 - [【程序员成长指北】用TypeScript装饰器实现一个简单的依赖注入](https://www.ershicimi.com/p/65349519ed828ae1ae8efbc13b7b23c1)
 - [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
-- [【掘金前端】实现一个符合-Promise/A+规范的-Promise（typescript-版）](https://juejin.im/post/6886360224308035598)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -207,7 +206,9 @@
 
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
+- [【掘金前端】h5跳转小程序你可能遇到的问题](https://juejin.im/post/6886646690188066830)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】摸鱼了一个小程序，大佬们过来玩耍，玩耍。](https://www.v2ex.com/t/717769)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -316,7 +317,7 @@
 - [【前端日刊】CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325)
 - [【前端e进阶】对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887)
 - [【JavaScript】工作四年的前端不服：面试竟在CSS上跪了-究其原因……](https://www.ershicimi.com/p/6d7caaa510e08cf5b511383c19096d0c)
-- [【掘金前端】CSS-Sprite雪碧图、背景和边框属性（推荐）](https://juejin.im/post/6886619061321465864)
+- [【前端艺术家&&飞冰早报】【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -397,6 +398,7 @@
 - [【InfoQ】架构演进与性能优化之路-｜-QCon+](https://www.ershicimi.com/p/bf599586ba6a37b0114f952b56dbb4c2)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】thinkphp-为什么不参加-TechEmpower-FrameworkBenchmarks-性能测试比赛](https://www.v2ex.com/t/717731)
+- [【开发者头条】推荐-高性能网关设计实践](https://toutiao.io/k/7579qvt)
 - [【安全热点】先声夺人|连中三元!腾讯云容器性能及安全能力获信通院最高级认证](https://sec.thief.one/article_content?a_id=b4f8952b2d733f08580bdcea36671eaa)
 - [......【查看更多】......](./details/tags/optimization.md)
 

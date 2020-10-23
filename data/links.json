@@ -13677,7 +13677,12 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
-        "title": "北美观察丨第三波疫情肆虐美国 多地医疗体系濒临崩溃",
+        "title": "民政部：将采取措施解决老年人的智能技术困难",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwji5QidALuLDd9s4sjob201023&isfromapp=1",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "第三波疫情肆虐美国 多地医疗体系濒临崩溃",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA42QiSafPjdbNGLOmi201023&isfromapp=1",
         "date": "2020-10-23"
       },
@@ -13687,19 +13692,14 @@
         "date": "2020-10-23"
       },
       {
+        "title": "巴西累计确诊新冠肺炎超532万例  里约州确诊近30万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVNbwJ0IdN0vMLmHhUsGV201023&isfromapp=1",
+        "date": "2020-10-23"
+      },
+      {
         "title": "智利新增1495例新冠肺炎确诊病例 累计达497131例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3cPo2DEuvt84C5Wa2hlR201023&isfromapp=1",
         "date": "2020-10-23"
-      },
-      {
-        "title": "斯洛伐克日增感染病例居高不下 全国实施“禁足令”",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3zh37NhH6JzN2ViDwRPZ201023&isfromapp=1",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "斯洛伐克新冠病毒全民检测试点工作将于23日开始",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJaU4TTD4s6B7NCRMfJ1o201023&isfromapp=1",
-        "date": "2020-10-22"
       }
     ]
   },
@@ -16496,13 +16496,13 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "CSS Sprite雪碧图、背景和边框属性（推荐）",
-        "link": "https://juejin.im/post/6886619061321465864",
+        "title": "超详实！带你一步步搭建Electron10+React16+Antd4架构工程",
+        "link": "https://juejin.im/post/6886653370170343432",
         "date": "2020-10-22"
       },
       {
-        "title": "一文搞懂JS系列（六）之微任务与宏任务，Event Loop",
-        "link": "https://juejin.im/post/6886602875225833480",
+        "title": "h5跳转小程序你可能遇到的问题",
+        "link": "https://juejin.im/post/6886646690188066830",
         "date": "2020-10-22"
       },
       {
@@ -16511,8 +16511,8 @@
         "date": "2020-10-22"
       },
       {
-        "title": "实现一个符合 Promise/A+规范的 Promise（typescript 版）",
-        "link": "https://juejin.im/post/6886360224308035598",
+        "title": "原生 JS 实现时间滑动 picker 选择器",
+        "link": "https://juejin.im/post/6886464152374771719",
         "date": "2020-10-22"
       },
       {
@@ -16905,6 +16905,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "摸鱼了一个小程序，大佬们过来玩耍，玩耍。",
+        "link": "https://www.v2ex.com/t/717769",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "如何查看 iMessage 的本方地址？",
+        "link": "https://www.v2ex.com/t/717768",
+        "date": "2020-10-23"
+      },
+      {
         "title": "2000w 1+1 冗余电源带 4 路 3090 能带动吗？",
         "link": "https://www.v2ex.com/t/717765",
         "date": "2020-10-23"
@@ -17040,11 +17050,6 @@
         "date": "2020-10-23"
       },
       {
-        "title": "立志再也不上 v2 了",
-        "link": "https://www.v2ex.com/t/717734",
-        "date": "2020-10-23"
-      },
-      {
         "title": "程序员小漫画 - 开发日常",
         "link": "https://www.v2ex.com/t/717733",
         "date": "2020-10-23"
@@ -17102,16 +17107,6 @@
       {
         "title": "运行中的 go 进程中某个函数偶尔出现执行慢的情况，怎么跟踪堆栈调用？",
         "link": "https://www.v2ex.com/t/717721",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[北京] 猿辅导基础架构 - 系统稳定性方向 Tech Leader",
-        "link": "https://www.v2ex.com/t/717719",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "给萌新 HTML5 入门指南",
-        "link": "https://www.v2ex.com/t/717718",
         "date": "2020-10-23"
       }
     ]
@@ -17279,13 +17274,13 @@
         "date": "2020-10-23"
       },
       {
-        "title": "通用的底层埋点都是怎么做的？",
-        "link": "https://toutiao.io/k/mqu9yp2",
+        "title": "后分布式时代：多数派读写的 “少数派” 实现",
+        "link": "https://toutiao.io/k/pih6nsy",
         "date": "2020-10-23"
       },
       {
-        "title": "后分布式时代：多数派读写的 “少数派” 实现",
-        "link": "https://toutiao.io/k/pih6nsy",
+        "title": "通用的底层埋点都是怎么做的？",
+        "link": "https://toutiao.io/k/mqu9yp2",
         "date": "2020-10-23"
       },
       {
@@ -17329,6 +17324,21 @@
         "date": "2020-10-23"
       },
       {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-23"
+      },
+      {
         "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
         "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-23"
@@ -17344,36 +17354,6 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-23"
-      },
-      {
         "title": "[推荐] 从面试角度一文学完 Kafka",
         "link": "https://toutiao.io/k/ugyvu7i",
         "date": "2020-10-23"
@@ -17384,23 +17364,38 @@
         "date": "2020-10-23"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
-        "link": "https://toutiao.io/k/lko6b3m",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
+        "title": "[推荐] 我是如何阅读 JDK 源码的？",
+        "link": "https://toutiao.io/k/5kuu7cq",
         "date": "2020-10-23"
       },
       {
         "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
         "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 Redis 夺命连环 11 问",
+        "link": "https://toutiao.io/k/lko6b3m",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 高性能网关设计实践",
+        "link": "https://toutiao.io/k/7579qvt",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-23"
       }
     ]

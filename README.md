@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 03:32:28，:rocket: 更新条数: +3527， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 03:40:34，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-10-23-北美观察丨第三波疫情肆虐美国-多地医疗体系濒临崩溃](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA42QiSafPjdbNGLOmi201023&isfromapp=1) ![](assets/new.png)  
+- [2020-10-23-民政部：将采取措施解决老年人的智能技术困难](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwji5QidALuLDd9s4sjob201023&isfromapp=1) ![](assets/new.png)  
+- [2020-10-23-第三波疫情肆虐美国-多地医疗体系濒临崩溃](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA42QiSafPjdbNGLOmi201023&isfromapp=1) ![](assets/new.png)  
 - [2020-10-23-疫情之下-伦敦金融城的“空城季”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jAJKDsI4uVI1j2kzXwc201023&isfromapp=1) ![](assets/new.png)  
+- [2020-10-23-巴西累计确诊新冠肺炎超532万例-里约州确诊近30万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVNbwJ0IdN0vMLmHhUsGV201023&isfromapp=1) ![](assets/new.png)  
 - [2020-10-23-智利新增1495例新冠肺炎确诊病例-累计达497131例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3cPo2DEuvt84C5Wa2hlR201023&isfromapp=1) ![](assets/new.png)  
-- [2020-10-23-斯洛伐克日增感染病例居高不下-全国实施“禁足令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3zh37NhH6JzN2ViDwRPZ201023&isfromapp=1) ![](assets/new.png)  
-- [2020-10-22-斯洛伐克新冠病毒全民检测试点工作将于23日开始](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJaU4TTD4s6B7NCRMfJ1o201023&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -947,10 +947,10 @@
 </summary>
 
 
-- [2020-10-22-CSS-Sprite雪碧图、背景和边框属性（推荐）](https://juejin.im/post/6886619061321465864) ![](assets/new.png)  
-- [2020-10-22-一文搞懂JS系列（六）之微任务与宏任务，Event-Loop](https://juejin.im/post/6886602875225833480) ![](assets/new.png)  
+- [2020-10-22-超详实！带你一步步搭建Electron10+React16+Antd4架构工程](https://juejin.im/post/6886653370170343432) ![](assets/new.png)  
+- [2020-10-22-h5跳转小程序你可能遇到的问题](https://juejin.im/post/6886646690188066830) ![](assets/new.png)  
 - [2020-10-22--干货篇-·-第四期-让webpack5再飞一会儿，夯实webpack4吧（基础篇）](https://juejin.im/post/6886598372124278791) ![](assets/new.png)  
-- [2020-10-22-实现一个符合-Promise/A+规范的-Promise（typescript-版）](https://juejin.im/post/6886360224308035598) ![](assets/new.png)  
+- [2020-10-22-原生-JS-实现时间滑动-picker-选择器](https://juejin.im/post/6886464152374771719) ![](assets/new.png)  
 - [2020-10-21-Vue实战：文件上传组件](https://juejin.im/post/6886338194141347854) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1067,6 +1067,8 @@
 </summary>
 
 
+- [2020-10-23-摸鱼了一个小程序，大佬们过来玩耍，玩耍。](https://www.v2ex.com/t/717769) ![](assets/new.png)  
+- [2020-10-23-如何查看-iMessage-的本方地址？](https://www.v2ex.com/t/717768) ![](assets/new.png)  
 - [2020-10-23-2000w-1+1-冗余电源带-4-路-3090-能带动吗？](https://www.v2ex.com/t/717765) ![](assets/new.png)  
 - [2020-10-23-京造-K2-键盘，有大佬换过键帽嘛](https://www.v2ex.com/t/717762) ![](assets/new.png)  
 - [2020-10-23-除了学习，很难有苦心人天不负的事情了](https://www.v2ex.com/t/717760) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-23-Mac-默认使用-HDR？](https://www.v2ex.com/t/717747) ![](assets/new.png)  
 - [2020-10-23-ThinkPad-T14-2020-款04CDR7-PRO-4750U-16G-512G-指纹怎么样](https://www.v2ex.com/t/717746) ![](assets/new.png)  
 - [2020-10-23-iPhone12-裤衩蓝到手，-226g-到-163g-的快乐](https://www.v2ex.com/t/717745) ![](assets/new.png)  
-- [2020-10-23-求五角场大学路附近的房子-整租-1-2-室-预算-3.5--6-有的私信](https://www.v2ex.com/t/717744) ![](assets/new.png)  
-- [2020-10-23-想给小孩子买台-iPad-2018-款，现在哪有好点的入手途径？](https://www.v2ex.com/t/717743) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,8 +1139,8 @@
 - [2020-10-23-深入详解-Jetpack-Compose：优化-UI-构建](https://toutiao.io/k/9i31ba9) ![](assets/new.png)  
 - [2020-10-23-Linux-文件的三个时间属性](https://toutiao.io/k/wa6nq03) ![](assets/new.png)  
 - [2020-10-23-Volcano-架构解读：基于-Kubernetes-的云原生批量计算平台](https://toutiao.io/k/m6n7ojj) ![](assets/new.png)  
-- [2020-10-23-通用的底层埋点都是怎么做的？](https://toutiao.io/k/mqu9yp2) ![](assets/new.png)  
 - [2020-10-23-后分布式时代：多数派读写的-“少数派”-实现](https://toutiao.io/k/pih6nsy) ![](assets/new.png)  
+- [2020-10-23-通用的底层埋点都是怎么做的？](https://toutiao.io/k/mqu9yp2) ![](assets/new.png)  
 - [2020-10-23-交互式分析领域，为何-ClickHouse-能够杀出重围？](https://toutiao.io/k/r5c2cvr) ![](assets/new.png)  
 - [2020-10-23-同学别走，聊聊-Lock-与-Synchronized-吧](https://toutiao.io/k/9jlmgwk) ![](assets/new.png)  
 - [2020-10-23-Awk-一行码：求交集、差集、筛选白名单数据](https://toutiao.io/k/wa3l8oj) ![](assets/new.png)  

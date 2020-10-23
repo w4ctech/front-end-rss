@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-23 08:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 09:04:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,7 +42,6 @@
 - [2020-10-23-云计算厂商如何破局身份安全难题？](https://www.v2ex.com/t/717919) 
 - [2020-10-23-🔥新加坡国际知名大型互联网公司，寻找-Data-Scientist](https://www.v2ex.com/t/717896) 
 - [2020-10-23-2020-年了，-Chrome-和-Safari-各自最新版在-Big-Sur-上对-MBP-的功耗影响相差悬殊吗？](https://www.v2ex.com/t/717891) 
-- [2020-10-23-用-v2-的开放-api-尝试了下-widget-开发，做了个-v2-名片的-widget](https://www.v2ex.com/t/717881) 
 - [2020-10-23-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-23-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-23-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 

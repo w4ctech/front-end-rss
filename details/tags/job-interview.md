@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-23 13:29:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 13:32:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2020-10-22-来，一起手撕32个大厂高频面试编程题](https://www.ershicimi.com/p/1fd64e6bed6ee6713001a8f2259af77a) 
 - [2020-10-18-高频前端开发面试问题及答案整理](https://www.ershicimi.com/p/748ca4c39f72c409524de673342b50f9) 

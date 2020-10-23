@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-23 15:41:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-23 15:49:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -244,6 +244,8 @@
 
 
 
+- [【V2EX】刚刚用-12-打了一会游戏，发热严重](https://www.v2ex.com/t/718021)
+- [【V2EX】有关模拟器使用-adb-操作游戏（阴阳师）问题](https://www.v2ex.com/t/718009)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

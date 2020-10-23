@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-23 15:41:37，:rocket: 更新条数: +3487， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-23 15:49:00，:rocket: 更新条数: +3528， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1067,6 +1067,26 @@
 </summary>
 
 
+- [2020-10-23-iPhone-12-的触感触控（Haptic-Touch）反馈延迟了？](https://www.v2ex.com/t/718047) ![](assets/new.png)  
+- [2020-10-23-2020-1024=?-推荐个技术公众号，质量还不错](https://www.v2ex.com/t/718046) ![](assets/new.png)  
+- [2020-10-23-深圳初创公司招前端](https://www.v2ex.com/t/718045) ![](assets/new.png)  
+- [2020-10-23-求教-C#类的初始化变量问题](https://www.v2ex.com/t/718044) ![](assets/new.png)  
+- [2020-10-23-kotlin-的数据类（data-class）必须有主构造函数且不允许常规的成员不在主构造函数中定义，那我要想给成员添加注释甚至使用注解咋整啊？](https://www.v2ex.com/t/718043) ![](assets/new.png)  
+- [2020-10-23-字节研发岗内推-业界最大的创作者变现平台落户杭州！想不想加入？](https://www.v2ex.com/t/718042) ![](assets/new.png)  
+- [2020-10-23-成都买房记录贴，希望听听大家的意见。-还会继续更新](https://www.v2ex.com/t/718040) ![](assets/new.png)  
+- [2020-10-23-原装的那个充电线能卖多哈钱？](https://www.v2ex.com/t/718039) ![](assets/new.png)  
+- [2020-10-23-ios-14.1-滴滴出行-订单-客服聊天界面可以无视权限读取照片](https://www.v2ex.com/t/718038) ![](assets/new.png)  
+- [2020-10-23-ZeroTier-如何才能做到在外网可访问？](https://www.v2ex.com/t/718037) ![](assets/new.png)  
+- [2020-10-23-深圳地铁-6-号线电信-5G-信号出乎意料的好](https://www.v2ex.com/t/718036) ![](assets/new.png)  
+- [2020-10-23-请问大家北京哪个医院的减重科室比较好？](https://www.v2ex.com/t/718035) ![](assets/new.png)  
+- [2020-10-23-爬虫如何获取公众号的所有文章（的链接）](https://www.v2ex.com/t/718034) ![](assets/new.png)  
+- [2020-10-23-2020-年有什么电纸书推荐吗](https://www.v2ex.com/t/718033) ![](assets/new.png)  
+- [2020-10-23-吐个槽，感觉-iOS-14-浪费了太多可显示空间。](https://www.v2ex.com/t/718032) ![](assets/new.png)  
+- [2020-10-23-好学生协议](https://www.v2ex.com/t/718031) ![](assets/new.png)  
+- [2020-10-23-有什么提醒事项的-APP-可以一键设定只在工作日提醒的](https://www.v2ex.com/t/718030) ![](assets/new.png)  
+- [2020-10-23-发现-iPhone12-的质感还是不如-Xs-Max](https://www.v2ex.com/t/718029) ![](assets/new.png)  
+- [2020-10-23-你们是怎么使用-change-data-capture-来实现缓存失效的？](https://www.v2ex.com/t/718028) ![](assets/new.png)  
+- [2020-10-23-北京-深圳-杭州-字节跳动-内推-大数据,-前端,-后台,-SRE-Data-垂直策略-研发岗位,-机不可失时不再来!](https://www.v2ex.com/t/718027) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

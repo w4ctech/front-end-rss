@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-24 18:15:18，:rocket: 更新条数: +3737， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-24 18:31:08，:rocket: 更新条数: +3737， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -860,6 +860,9 @@
 </summary>
 
 
+- [2020-10-24-底层程序员，逆袭！](https://www.ershicimi.com/p/4939a44f6e085975b4ffa79ac0c09510) ![](assets/new.png)  
+- [2020-10-24-最受-IT-公司欢迎的-30-款开源软件](https://www.ershicimi.com/p/06320f997392be9c691414d93435326f) ![](assets/new.png)  
+- [2020-10-24-MySql-不香了？我们公司为什么放弃MySql选择NewSql?](https://www.ershicimi.com/p/d7d46e5370b6d5b16414c90ecf7eb1cb) ![](assets/new.png)  
 - [2020-10-23-牛逼！终于有人开源了一份基于SSM框架实现了支付宝支付功能的完整源代码...](https://www.ershicimi.com/p/9ca665f3b2ccac3328c437b51d22c27c) ![](assets/new.png)  
 - [2020-10-23-REST-API-的安全认证，我放弃OAuth-2.0-,选择-JWT-令牌](https://www.ershicimi.com/p/722000be63427a69a603a6e2a07bd6b5) ![](assets/new.png)  
 - [2020-10-23-Java-反射到底慢在哪？](https://www.ershicimi.com/p/2bebf8fd1642bc6fc862891191d76005) ![](assets/new.png)  
@@ -877,9 +880,6 @@
 - [2020-10-19-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/e3ee1b93362990a169a0ea0f52f36e54) ![](assets/new.png)  
 - [2020-10-18-我的IntelliJ-IDEA一直都是这么设置的，效果很棒！](https://www.ershicimi.com/p/ff886072242909d85b99176e85f01fc6) ![](assets/new.png)  
 - [2020-10-18-MySQL-8.0-新特性：引人注目的哈希连接（Hash-Join）](https://www.ershicimi.com/p/22935a3c98ce596bfe7f13c42d9759ff) ![](assets/new.png)  
-- [2020-10-18-分库分表就能无限扩容吗？](https://www.ershicimi.com/p/66d844930dcc2581082f3bfd7272d2eb) ![](assets/new.png)  
-- [2020-10-17-那个「最牛删库跑路事件」的程序员，被判了....](https://www.ershicimi.com/p/b77c15fb99463067ca79fe4444c72b46) ![](assets/new.png)  
-- [2020-10-17-Spring-Boot-无侵入式-实现API接口统一JSON格式返回](https://www.ershicimi.com/p/c13b7a5c22f5b4146cc652ebd59d1863) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,16 +1145,16 @@
 - [2020-10-24-Unix-系统级-IO](https://toutiao.io/k/2cernwm) ![](assets/new.png)  
 - [2020-10-24-在-Zeppelin-中如何使用-Hive](https://toutiao.io/k/oy67od8) ![](assets/new.png)  
 - [2020-10-24-译-让-ftrace-的-ring-buffer-里的时间戳更精确](https://toutiao.io/k/2odej6k) ![](assets/new.png)  
-- [2020-10-24-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-24-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
-- [2020-10-24-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-24-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-24-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-24-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-24-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
 - [2020-10-24-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-24-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-24-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-10-24-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-24-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-24-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-24-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-24-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

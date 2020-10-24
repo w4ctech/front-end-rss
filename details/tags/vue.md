@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-24 13:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 13:14:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -33,6 +33,10 @@
 - [2020-04-27-视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b) 
 - [2020-04-20-尤雨溪约你聊聊Vue.js-3.0-Beta](https://www.ershicimi.com/p/6f88eda2cef2ca14858c173412919f36) 
 - [2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) 
+- [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
+- [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
+- [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
+- [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
 - [2020-10-21-大厂面试必备，Vue框架的最佳实践与源码！](https://www.ershicimi.com/p/0ed28722d8438ce05d53ee0cc1fc5482) 
 - [2020-10-20-Vue-中-Axios-的封装和-API-接口的管理](https://www.ershicimi.com/p/2d1c8e1758a2bc37f9d1b6236b4ad14a) 
 - [2020-10-10-Vue3+TypeScript完整项目上手教程](https://www.ershicimi.com/p/a1f58e05342565128a63f7116db38e2a) 

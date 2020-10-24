@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-24 06:04:36，:rocket: 更新条数: +3509， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-24 06:16:38，:rocket: 更新条数: +3510， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,9 @@
 </summary>
 
 
+- [2020-10-24-微博-PC-改版，几乎和头条-PC-版一毛一样，字号、颜色都差不多大小](https://www.v2ex.com/t/718157) ![](assets/new.png)  
+- [2020-10-24-iPhone12-pro-使用体验](https://www.v2ex.com/t/718156) ![](assets/new.png)  
+- [2020-10-24-提一下握持-iphone12-的手感。](https://www.v2ex.com/t/718155) ![](assets/new.png)  
 - [2020-10-24-明年-AirPods-pro-2-会采用-5-纳米技术吗？](https://www.v2ex.com/t/718152) ![](assets/new.png)  
 - [2020-10-24-每周精选第-1-期-2020-10-24-|-极客分享](https://www.v2ex.com/t/718150) ![](assets/new.png)  
 - [2020-10-24-1024-程序员的节日-产品运营的狂欢](https://www.v2ex.com/t/718149) ![](assets/new.png)  
@@ -1084,9 +1087,6 @@
 - [2020-10-24-互联网的边缘](https://www.v2ex.com/t/718126) ![](assets/new.png)  
 - [2020-10-24-一个-内推联盟-的点子，以及顺便的一波推广](https://www.v2ex.com/t/718125) ![](assets/new.png)  
 - [2020-10-24-求指教-数据库备份的最快方式](https://www.v2ex.com/t/718124) ![](assets/new.png)  
-- [2020-10-24-五笔练习软件哪家强？-Web-佳](https://www.v2ex.com/t/718123) ![](assets/new.png)  
-- [2020-10-24-日经问题-关于-golang-关于-gin](https://www.v2ex.com/t/718122) ![](assets/new.png)  
-- [2020-10-24-来聊下你们的-iPhone12-pro-多久能充满](https://www.v2ex.com/t/718121) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1135,20 +1135,20 @@
 - [2020-10-24-Chrome-的小恐龙游戏，被我破解了](https://toutiao.io/k/wpt2c4d) ![](assets/new.png)  
 - [2020-10-24-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
 - [2020-10-24-Go-设计模式（二十）：备忘录模式](https://toutiao.io/k/517l41s) ![](assets/new.png)  
-- [2020-10-24-在-Zeppelin-中如何使用-Hive](https://toutiao.io/k/oy67od8) ![](assets/new.png)  
 - [2020-10-24-银行数据库迁移至-MySQL-的常见-Q&A-都在这了](https://toutiao.io/k/6ewmbym) ![](assets/new.png)  
+- [2020-10-24-在-Zeppelin-中如何使用-Hive](https://toutiao.io/k/oy67od8) ![](assets/new.png)  
 - [2020-10-24-Unix-系统级-IO](https://toutiao.io/k/2cernwm) ![](assets/new.png)  
 - [2020-10-24-译-让-ftrace-的-ring-buffer-里的时间戳更精确](https://toutiao.io/k/2odej6k) ![](assets/new.png)  
-- [2020-10-24-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-24-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-24-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-24-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-24-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-24-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
-- [2020-10-24-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-24-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
 - [2020-10-24-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-24-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-24-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-24-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
+- [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-24-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-24-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-10-24-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-24-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-24 08:31:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 08:38:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -99,4 +99,3 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-10-24-遇到非常奇怪的组件不销毁问题！](https://www.v2ex.com/t/718164) 
-- [2020-10-24-B-站-App-适配-iPhone12-有问题](https://www.v2ex.com/t/718146) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-23 23:49:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 00:09:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-24-iSH-Shell-上架-App-Store](https://www.v2ex.com/t/718077) 
+- [2020-10-24-MATE40-感觉还挺不错的](https://www.v2ex.com/t/718076) 
+- [2020-10-23-youtube-dl-的-repo-被-DMCA-takedown-了](https://www.v2ex.com/t/718075) 
 - [2020-10-23-求建议-是否放弃大厂子厂去偏远地区的军队文职](https://www.v2ex.com/t/718074) 
 - [2020-10-23-推荐一个《涂鸦识别》的-AI-安卓项目](https://www.v2ex.com/t/718073) 
 - [2020-10-23-1024，送给你的礼物，来领奖～没看错，就是你](https://www.v2ex.com/t/718072) 
@@ -43,4 +46,3 @@
 - [2020-10-23-有什么提醒事项的-APP-可以一键设定只在工作日提醒的](https://www.v2ex.com/t/718030) 
 - [2020-10-23-发现-iPhone12-的质感还是不如-Xs-Max](https://www.v2ex.com/t/718029) 
 - [2020-10-23-你们是怎么使用-change-data-capture-来实现缓存失效的？](https://www.v2ex.com/t/718028) 
-- [2020-10-23-北京-深圳-杭州-字节跳动-内推-大数据,-前端,-后台,-SRE-Data-垂直策略-研发岗位,-机不可失时不再来!](https://www.v2ex.com/t/718027) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-24 02:38:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 02:47:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-24-Apple-Pay-公交卡有办法在不同-iCloud-ID-之间转移吗？](https://www.v2ex.com/t/718110) 
+- [2020-10-24-通过转运公司购买港版-iPhone-靠谱吗？](https://www.v2ex.com/t/718109) 
 - [2020-10-24-实习-微软亚洲研究院-防火墙开发工程师实习生](https://www.v2ex.com/t/718107) 
 - [2020-10-24-iPhone-12-YouTube-App-中没有-HDR-选项](https://www.v2ex.com/t/718106) 
 - [2020-10-24-可能是-Firefox-上最接近-Chrome/ium-翻译体验的扩展](https://www.v2ex.com/t/718101) 
@@ -40,6 +42,3 @@
 - [2020-10-23-所谓“执着”](https://www.v2ex.com/t/718066) 
 - [2020-10-23-有早睡早起的老哥给分享下经验吗？想早睡早起](https://www.v2ex.com/t/718064) 
 - [2020-10-23-bilibili-的夺旗赛服务器是不是被-DDoS-了](https://www.v2ex.com/t/718063) 
-- [2020-10-23-华为-Mate-40-系列-Dream-It-Possible（曙光版）.wav](https://www.v2ex.com/t/718061) 
-- [2020-10-23-iPhoneXSMax-越狱了能使用“快速开始”将数据传输到新的-iPhone-吗](https://www.v2ex.com/t/718060) 
-- [2020-10-23-为什么软件著作权有不同价格和下证时间？是版权局还是代理商的原因？](https://www.v2ex.com/t/718058) 

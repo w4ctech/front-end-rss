@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-24 05:30:18，:rocket: 更新条数: +3493， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-24 05:36:02，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,7 +19,7 @@
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
-- [VUE全家桶](#vue全家桶)  
+- [VUE全家桶](#vue全家桶)![](assets/dot.png)   
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
@@ -173,6 +173,20 @@
 </summary>
 
 
+- [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) ![](assets/new.png)  
+- [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) ![](assets/new.png)  
+- [2019-12-19-【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e) ![](assets/new.png)  
+- [2019-12-18-【面试题】2019开年跳槽系列-35](https://www.ershicimi.com/p/13693c22440fcc75bcb7816cbd38d87a) ![](assets/new.png)  
+- [2019-12-16-【面试题】2019开年跳槽系列-34](https://www.ershicimi.com/p/55cfb22f6deb40706c18677e12a05d7d) ![](assets/new.png)  
+- [2019-12-12-【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2) ![](assets/new.png)  
+- [2019-12-09-【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da) ![](assets/new.png)  
+- [2019-12-09-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d) ![](assets/new.png)  
+- [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) ![](assets/new.png)  
+- [2019-12-06-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3) ![](assets/new.png)  
+- [2019-12-05-【面试题】2019开年跳槽系列-30](https://www.ershicimi.com/p/c953e0c5b4aaccbe729309f61ee8574b) ![](assets/new.png)  
+- [2019-12-05-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/c000cfc00b1de7d595f4c51820cc7630) ![](assets/new.png)  
+- [2019-12-04-【面试题】2019开年跳槽系列-29](https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10) ![](assets/new.png)  
+- [2019-12-04-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/38b599052a6c0772985ffdbfad6875d6) ![](assets/new.png)  
 - [......【查看更多】......](./details/VUE全家桶.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -933,7 +947,7 @@
 </summary>
 
 
-- [2020-10-23-webpack-优化总结](https://juejin.im/post/6886735744061145095) ![](assets/new.png)  
+- [2020-10-23-闭包中的变量到底存在哪里？](https://juejin.im/post/6887054571080777735) ![](assets/new.png)  
 - [2020-10-22-JS中的reduce用法详解](https://juejin.im/post/6886711926533914638) ![](assets/new.png)  
 - [2020-10-22-koa开发之使用ts装饰器](https://juejin.im/post/6886711858502828040) ![](assets/new.png)  
 - [2020-10-22-WebGL学习06-投影,视图和模型矩阵](https://juejin.im/post/6886698316189401096) ![](assets/new.png)  
@@ -1053,6 +1067,9 @@
 </summary>
 
 
+- [2020-10-24-每周精选第-1-期-2020-10-24-|-极客分享](https://www.v2ex.com/t/718150) ![](assets/new.png)  
+- [2020-10-24-1024-程序员的节日-产品运营的狂欢](https://www.v2ex.com/t/718149) ![](assets/new.png)  
+- [2020-10-24-GitHub-今天上不了了](https://www.v2ex.com/t/718148) ![](assets/new.png)  
 - [2020-10-24-============问一个-TCP-相关的问题============](https://www.v2ex.com/t/718147) ![](assets/new.png)  
 - [2020-10-24-B-站-App-适配-iPhone12-有问题](https://www.v2ex.com/t/718146) ![](assets/new.png)  
 - [2020-10-24-要怎么学英语才能胜任欧美国家的远程工作呢](https://www.v2ex.com/t/718145) ![](assets/new.png)  
@@ -1070,9 +1087,6 @@
 - [2020-10-24-日经问题-关于-golang-关于-gin](https://www.v2ex.com/t/718122) ![](assets/new.png)  
 - [2020-10-24-来聊下你们的-iPhone12-pro-多久能充满](https://www.v2ex.com/t/718121) ![](assets/new.png)  
 - [2020-10-24-你们是如何开始阅读的](https://www.v2ex.com/t/718120) ![](assets/new.png)  
-- [2020-10-24-发现一个薪资对标网站-https://duibiao.info/](https://www.v2ex.com/t/718118) ![](assets/new.png)  
-- [2020-10-24-双十一打算买个洗衣机-2k-以内的，大家有什么好的推荐吗？](https://www.v2ex.com/t/718117) ![](assets/new.png)  
-- [2020-10-24-12-的屏幕还是这么容易起刮痕吗](https://www.v2ex.com/t/718115) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,16 +1139,16 @@
 - [2020-10-24-银行数据库迁移至-MySQL-的常见-Q&A-都在这了](https://toutiao.io/k/6ewmbym) ![](assets/new.png)  
 - [2020-10-24-Unix-系统级-IO](https://toutiao.io/k/2cernwm) ![](assets/new.png)  
 - [2020-10-24-译-让-ftrace-的-ring-buffer-里的时间戳更精确](https://toutiao.io/k/2odej6k) ![](assets/new.png)  
-- [2020-10-24-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-24-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-24-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-24-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [2020-10-24-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-24-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
-- [2020-10-24-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-24-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
 - [2020-10-24-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-24-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-24-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-24-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-24-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-24-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

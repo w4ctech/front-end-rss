@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-24 04:33:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 04:40:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-24-kotlin-中的密封类到底是一个什么意义和设计意图？](https://www.v2ex.com/t/718137) 
 - [2020-10-24-算力最强云笔记-DocRun-之最个性语言-Pond-之二项式分解](https://www.v2ex.com/t/718133) 
 - [2020-10-24-有没有带鱼屏能分成两个屏幕用？](https://www.v2ex.com/t/718131) 
 - [2020-10-24-Casbin：支持-ACL、RBAC、ABAC-多种模型的-Node.js-权限管理框架](https://www.v2ex.com/t/718130) 
@@ -36,8 +37,3 @@
 - [2020-10-24-感觉买一送一的活动今年没了啊](https://www.v2ex.com/t/718093) 
 - [2020-10-24-使用-GitHub-的流量数据为仓库创建访问数和克隆数的徽章](https://www.v2ex.com/t/718092) 
 - [2020-10-24-有偿找个用过-element-admin-做管理系统的前端解决下问题~](https://www.v2ex.com/t/718089) 
-- [2020-10-24-MacBook-Pro-15-inch,-2018的朋友你们的笔记本-Wattage-W:-是多少](https://www.v2ex.com/t/718088) 
-- [2020-10-24-双-11-买什么手机？](https://www.v2ex.com/t/718087) 
-- [2020-10-24-关于-Java-LinkedList-的一个-API：-removeint-index-和-removeObject-o](https://www.v2ex.com/t/718086) 
-- [2020-10-24-各位，可否推荐一下行车记录仪](https://www.v2ex.com/t/718085) 
-- [2020-10-24-B-站-1024-节题目求解](https://www.v2ex.com/t/718084) 

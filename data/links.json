@@ -14224,6 +14224,16 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "80% 前端开发者都会有这样的错觉…",
+        "link": "https://www.ershicimi.com/p/e1f1e89b7365c4b9ea6df0d993620db2",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "Chrome 86 新功能解读",
+        "link": "https://www.ershicimi.com/p/8a19e5941cf3dcf9d81b365ca7aaa4d6",
+        "date": "2020-10-23"
+      },
+      {
         "title": "这次彻底搞懂 Promise(手写源码多注释篇)",
         "link": "https://www.ershicimi.com/p/814fbc1a795cc38bd40f424945e12feb",
         "date": "2020-10-22"
@@ -14312,16 +14322,6 @@
         "title": "浏览器是如何调度进程和线程的？",
         "link": "https://www.ershicimi.com/p/bd20128029c1894104d710b9f12269f2",
         "date": "2020-10-12"
-      },
-      {
-        "title": "前端装饰器模式快闪",
-        "link": "https://www.ershicimi.com/p/49e6aef8b5ce898e9b9317c467a20682",
-        "date": "2020-10-11"
-      },
-      {
-        "title": "谁说前端不用懂，手摸手 Docker 从入门到实践",
-        "link": "https://www.ershicimi.com/p/84d7e2d4188c596461ae05729bfc2970",
-        "date": "2020-10-10"
       }
     ]
   },
@@ -17662,6 +17662,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "【王者驱动早起】前端九年老司机的一天",
+        "link": "https://juejin.im/post/6886973068690849800",
+        "date": "2020-10-23"
+      },
+      {
         "title": "一文道尽移动端跨平台技术演进之路",
         "link": "https://juejin.im/post/6886853551516024845",
         "date": "2020-10-23"
@@ -17680,11 +17685,6 @@
         "title": "从 Egg.js 到 NestJS，爱码客后端选型之路",
         "link": "https://juejin.im/post/6886765193112911885",
         "date": "2020-10-23"
-      },
-      {
-        "title": "一步一个脚印搭建简易React(第一步☝️)",
-        "link": "https://juejin.im/post/6886708531903496205",
-        "date": "2020-10-22"
       }
     ]
   },
@@ -18071,6 +18071,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "今年还会有新款 MacBook Pro 发布吗？",
+        "link": "https://www.v2ex.com/t/718080",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "自动 5G 偶尔会有网络卡顿",
+        "link": "https://www.v2ex.com/t/718079",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "机场流量问题求助",
+        "link": "https://www.v2ex.com/t/718078",
+        "date": "2020-10-24"
+      },
+      {
         "title": "iSH Shell 上架 App Store",
         "link": "https://www.v2ex.com/t/718077",
         "date": "2020-10-24"
@@ -18249,31 +18264,6 @@
         "title": "2020 年有什么电纸书推荐吗",
         "link": "https://www.v2ex.com/t/718033",
         "date": "2020-10-23"
-      },
-      {
-        "title": "吐个槽，感觉 iOS 14 浪费了太多可显示空间。",
-        "link": "https://www.v2ex.com/t/718032",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "好学生协议",
-        "link": "https://www.v2ex.com/t/718031",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "有什么提醒事项的 APP 可以一键设定只在工作日提醒的",
-        "link": "https://www.v2ex.com/t/718030",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "发现 iPhone12 的质感还是不如 Xs Max",
-        "link": "https://www.v2ex.com/t/718029",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "你们是怎么使用 change data capture 来实现缓存失效的？",
-        "link": "https://www.v2ex.com/t/718028",
-        "date": "2020-10-23"
       }
     ]
   },
@@ -18390,118 +18380,8 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "困在内卷里的工程师 | 码农周刊第 322 期",
-        "link": "https://toutiao.io/k/mb7u8g0",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "Redis + Nginx + 设计模式 + Spring 全家桶 + Dubbo + 阿里技术精选文档",
-        "link": "https://toutiao.io/k/zp8ncvc",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[译] 何时使用 Rust 和何时使用 Golang？",
-        "link": "https://toutiao.io/k/z6p6anw",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "想自己写框架？不会写 Java 注解可不行",
-        "link": "https://toutiao.io/k/9j801i6",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "后分布式时代：多数派读写的 “少数派” 实现",
-        "link": "https://toutiao.io/k/pih6nsy",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "网易 CI/CD 实践（中）：CD 系统的部署架构与发布流程",
-        "link": "https://toutiao.io/k/7tmg612",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "天啦撸！打印日志竟然只晓得 Log4j？",
-        "link": "https://toutiao.io/k/8hug5ul",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "PyTorch 学习笔记汇总",
-        "link": "https://toutiao.io/k/hx2qti3",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "通用的底层埋点都是怎么做的？",
-        "link": "https://toutiao.io/k/mqu9yp2",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "Volcano 架构解读：基于 Kubernetes 的云原生批量计算平台",
-        "link": "https://toutiao.io/k/m6n7ojj",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "深入详解 Jetpack Compose：优化 UI 构建",
-        "link": "https://toutiao.io/k/9i31ba9",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "交互式分析领域，为何 ClickHouse 能够杀出重围？",
-        "link": "https://toutiao.io/k/r5c2cvr",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "Linux 文件的三个时间属性",
-        "link": "https://toutiao.io/k/wa6nq03",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "同学别走，聊聊 Lock 与 Synchronized 吧",
-        "link": "https://toutiao.io/k/9jlmgwk",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "Awk 一行码：求交集、差集、筛选白名单数据",
-        "link": "https://toutiao.io/k/wa3l8oj",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "前端如何一键生成多维度数据可视化分析报表",
-        "link": "https://toutiao.io/k/vj4q8c4",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "spring-boot-route（二十一）：Quartz 实现动态定时任务",
-        "link": "https://toutiao.io/k/wn8pvs1",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "前端搞报表：数据分析提效全链路解决方案",
-        "link": "https://toutiao.io/k/5besgkh",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "Golang 哈夫曼编码压缩文件代码实现全流程",
-        "link": "https://toutiao.io/k/sjcb9mw",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "立等可取的 Vue + Typescript 函数式组件实战",
-        "link": "https://toutiao.io/k/zjlfnrc",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
         "date": "2020-10-24"
       },
       {
@@ -18510,33 +18390,18 @@
         "date": "2020-10-24"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-24"
-      },
-      {
         "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
         "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-24"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-24"
       },
       {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-24"
       },
       {
@@ -18545,8 +18410,13 @@
         "date": "2020-10-24"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-24"
       },
       {
@@ -18555,13 +18425,33 @@
         "date": "2020-10-24"
       },
       {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-24"
+      },
+      {
         "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
         "link": "https://toutiao.io/k/2ltmzw0",
         "date": "2020-10-24"
       },
       {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-24"
       }
     ]

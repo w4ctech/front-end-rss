@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-24 07:31:50，:rocket: 更新条数: +3510， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-24 07:38:05，:rocket: 更新条数: +3509， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1067,6 +1067,9 @@
 </summary>
 
 
+- [2020-10-24-想写一个页面简洁，技术话题类的社区站，如何能有点收益支撑长期运营下去](https://www.v2ex.com/t/718181) ![](assets/new.png)  
+- [2020-10-24-有好的快充头推荐不？](https://www.v2ex.com/t/718179) ![](assets/new.png)  
+- [2020-10-24-youtube-dl-的-Github-仓库-被-DMCA-和谐了](https://www.v2ex.com/t/718178) ![](assets/new.png)  
 - [2020-10-24-关于前几天一个-19-元零食包帖子](https://www.v2ex.com/t/718176) ![](assets/new.png)  
 - [2020-10-24-独立开发者资讯清单](https://www.v2ex.com/t/718173) ![](assets/new.png)  
 - [2020-10-24-1-年前端，自己总是在逻辑上有很大问题。求教该怎么学习。](https://www.v2ex.com/t/718172) ![](assets/new.png)  
@@ -1077,7 +1080,6 @@
 - [2020-10-24-3080-一卡难求.......](https://www.v2ex.com/t/718166) ![](assets/new.png)  
 - [2020-10-24-遇到非常奇怪的组件不销毁问题！](https://www.v2ex.com/t/718164) ![](assets/new.png)  
 - [2020-10-24-iPhone12-蓝色实拍，以及和-11-对比](https://www.v2ex.com/t/718163) ![](assets/new.png)  
-- [2020-10-24-为何会变成这样](https://www.v2ex.com/t/718162) ![](assets/new.png)  
 - [2020-10-24-被辞退了，请问赔偿的选择，以及离职证明上写被辞退会影响找工作吗？](https://www.v2ex.com/t/718161) ![](assets/new.png)  
 - [2020-10-24-可不可以用-lighting-转-type-c-的接头在接扩展坞?](https://www.v2ex.com/t/718160) ![](assets/new.png)  
 - [2020-10-24-身边没有朋友-也不想社交](https://www.v2ex.com/t/718159) ![](assets/new.png)  
@@ -1085,8 +1087,6 @@
 - [2020-10-24-微博-PC-改版，几乎和头条-PC-版一毛一样，字号、颜色都差不多大小](https://www.v2ex.com/t/718157) ![](assets/new.png)  
 - [2020-10-24-iPhone12-pro-使用体验](https://www.v2ex.com/t/718156) ![](assets/new.png)  
 - [2020-10-24-提一下握持-iphone12-的手感。](https://www.v2ex.com/t/718155) ![](assets/new.png)  
-- [2020-10-24-明年-AirPods-pro-2-会采用-5-纳米技术吗？](https://www.v2ex.com/t/718152) ![](assets/new.png)  
-- [2020-10-24-每周精选第-1-期-2020-10-24-|-极客分享](https://www.v2ex.com/t/718150) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,15 +1139,15 @@
 - [2020-10-24-在-Zeppelin-中如何使用-Hive](https://toutiao.io/k/oy67od8) ![](assets/new.png)  
 - [2020-10-24-Unix-系统级-IO](https://toutiao.io/k/2cernwm) ![](assets/new.png)  
 - [2020-10-24-译-让-ftrace-的-ring-buffer-里的时间戳更精确](https://toutiao.io/k/2odej6k) ![](assets/new.png)  
-- [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-24-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-24-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-24-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-24-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-24-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-24-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
 - [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-24-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-10-24-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-24-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-24-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-24-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-24-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-24-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

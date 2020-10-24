@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-24 07:31:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 07:38:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -28,4 +28,3 @@
 - [2020-09-22-运维的报表之路，用-Node.js-轻松发送-grafana-报表](https://www.ershicimi.com/p/23027332cbc0022f3ad9e9fac1ded4c6) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
 - [2020-10-22-koa开发之使用ts装饰器](https://juejin.im/post/6886711858502828040) 
-- [2020-10-24-Casbin：支持-ACL、RBAC、ABAC-多种模型的-Node.js-权限管理框架](https://www.v2ex.com/t/718130) 

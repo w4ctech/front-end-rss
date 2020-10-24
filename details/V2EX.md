@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-24 03:32:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 03:40:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-24-求指教-数据库备份的最快方式](https://www.v2ex.com/t/718124) 
+- [2020-10-24-五笔练习软件哪家强？-Web-佳](https://www.v2ex.com/t/718123) 
+- [2020-10-24-日经问题-关于-golang-关于-gin](https://www.v2ex.com/t/718122) 
+- [2020-10-24-来聊下你们的-iPhone12-pro-多久能充满](https://www.v2ex.com/t/718121) 
 - [2020-10-24-你们是如何开始阅读的](https://www.v2ex.com/t/718120) 
 - [2020-10-24-发现一个薪资对标网站-https://duibiao.info/](https://www.v2ex.com/t/718118) 
 - [2020-10-24-双十一打算买个洗衣机-2k-以内的，大家有什么好的推荐吗？](https://www.v2ex.com/t/718117) 
@@ -35,7 +39,3 @@
 - [2020-10-24-自动-5G-偶尔会有网络卡顿](https://www.v2ex.com/t/718079) 
 - [2020-10-24-iSH-Shell-上架-App-Store](https://www.v2ex.com/t/718077) 
 - [2020-10-23-youtube-dl-的-repo-被-DMCA-takedown-了](https://www.v2ex.com/t/718075) 
-- [2020-10-23-求建议-是否放弃大厂子厂去偏远地区的军队文职](https://www.v2ex.com/t/718074) 
-- [2020-10-23-推荐一个《涂鸦识别》的-AI-安卓项目](https://www.v2ex.com/t/718073) 
-- [2020-10-23-1024，送给你的礼物，来领奖～没看错，就是你](https://www.v2ex.com/t/718072) 
-- [2020-10-23-有在公司用国际版-Office365-和-Teams-的朋友能帮忙给点建议么？](https://www.v2ex.com/t/718071) 

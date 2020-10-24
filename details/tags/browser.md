@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-24 10:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 11:04:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -54,6 +54,10 @@
 - [2020-10-24-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-24-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-24-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
+- [2020-10-24-包邮送5本《Python安全攻防》](https://sec.thief.one/article_content?a_id=e884d2c42b7778c9fca112ca444d04c0) 
+- [2020-10-24-1024赠书福利-|-安全从业者的必备神兵利器](https://sec.thief.one/article_content?a_id=f97309e235d69332003fe3e667104656) 
+- [2020-10-23-技术人员的狂欢-|-看雪2020第四届安全开发者峰会顺利落幕!!](https://sec.thief.one/article_content?a_id=90cfa07e55ee3b32bbf6971040f0645c) 
+- [2020-10-23-【安全圈】重磅!美国1.86亿选民数据在暗网被黑客出售,FBI介入调查](https://sec.thief.one/article_content?a_id=c5206c5286b3e194d5f67a50aa3dbad4) 
 - [2020-10-23-奇安信专家:智慧油田工控网络安全实践](https://sec.thief.one/article_content?a_id=7b9c280c0a52fd9adec97cdf89e3de03) 
 - [2020-10-23-【安全热点周报】第165期:Broadvoice公司3.5亿客户记录遭泄露](https://sec.thief.one/article_content?a_id=006ab6f16fef6483a4edb45baf1eea01) 
 - [2020-10-23-bypass安全狗-sql注入与xss](https://sec.thief.one/article_content?a_id=0a9a3aa32c4d07882a5d570516c28161) 
@@ -72,12 +76,3 @@
 - [2020-10-22-WebLogic-Server-高危安全漏洞风险提示10月](https://sec.thief.one/article_content?a_id=56feca13f64058d2300617b3ac97f63c) 
 - [2020-10-22-信息安全界豪华赋能大礼包,附业界资质证书备考指南!](https://sec.thief.one/article_content?a_id=e2893520296a5dc9f756ba220cd49885) 
 - [2020-10-21-App安全检测实践基础——工具](https://sec.thief.one/article_content?a_id=66c347bdb307437b0b613050da09079b) 
-- [2020-10-21-谷歌和Oralce先后致谢奇安信安全团队](https://sec.thief.one/article_content?a_id=02b2bf377bd45a8bbc429ac7483a39f5) 
-- [2020-10-21-2020网络安全分析与情报大会开幕,明日精彩继续](https://sec.thief.one/article_content?a_id=5bae45262ac48b9147aa9b8e29356acf) 
-- [2020-10-21-Chrome-86.0.4240.111已修复CVE-2020-15999零日漏洞](https://sec.thief.one/article_content?a_id=a6743d00f9affe33d3626d88a804df73) 
-- [2020-10-21-iOS-14.1/iPadOS-14.1发布;Safari等浏览器被爆存在漏洞;...](https://sec.thief.one/article_content?a_id=aae600e220792c69c68d2fb3fc2b5c62) 
-- [2020-10-21-Oracle十月份高危漏洞安全公告](https://sec.thief.one/article_content?a_id=a93249b98a545b7cbd0d022d9d86c2cf) 
-- [2020-10-21-绿盟科技、清华大学联合培养博士后|促进数据“合规”安全共享与流通](https://sec.thief.one/article_content?a_id=f96a5d5e5dc5d20bfac97dcf40f7a3c3) 
-- [2020-10-21-手机App个人信息安全风险与防范](https://sec.thief.one/article_content?a_id=db5ddbc18a514822935eaee50b471d24) 
-- [2020-10-21-赢在起点:国舜情景式安全需求分析平台助推全生命周期安全开发](https://sec.thief.one/article_content?a_id=d1893c1667dc6496db2eafce37e51d9c) 
-- [2020-10-21-深入聊聊网络安全服务——《谭校有鸿儒》第二期](https://sec.thief.one/article_content?a_id=38d515c25c9df74b38d328c88ea2efa0) 

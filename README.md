@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-24 10:48:29，:rocket: 更新条数: +3735， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-24 11:04:04，:rocket: 更新条数: +3735， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -953,7 +953,7 @@
 </summary>
 
 
-- [2020-10-23-5-分钟带你快速读懂-vite-打包过程，源码分析](https://juejin.im/post/6887013512364130311) ![](assets/new.png)  
+- [2020-10-24-1024-奇妙冒险全结局-+-jsliang-自定义算法题目](https://juejin.im/post/6887137383050838023) ![](assets/new.png)  
 - [2020-10-23-fard：首个开源小程序引擎](https://juejin.im/post/6887011252212924430) ![](assets/new.png)  
 - [2020-10-23-7分钟教你用时间切片让页面看起来更流畅](https://juejin.im/post/6886999010482241550) ![](assets/new.png)  
 - [2020-10-23-python写一个豆瓣短评通用爬虫，快去试试你喜欢的电影吧！](https://juejin.im/post/6886997083052572686) ![](assets/new.png)  
@@ -1145,16 +1145,16 @@
 - [2020-10-24-Unix-系统级-IO](https://toutiao.io/k/2cernwm) ![](assets/new.png)  
 - [2020-10-24-在-Zeppelin-中如何使用-Hive](https://toutiao.io/k/oy67od8) ![](assets/new.png)  
 - [2020-10-24-译-让-ftrace-的-ring-buffer-里的时间戳更精确](https://toutiao.io/k/2odej6k) ![](assets/new.png)  
-- [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
-- [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-24-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-24-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-24-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-24-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-24-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
 - [2020-10-24-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-24-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-24-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-24-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-24-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-24-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1166,26 +1166,26 @@
 </summary>
 
 
-- [2020-10-23-奇安信专家:智慧油田工控网络安全实践](https://sec.thief.one/article_content?a_id=7b9c280c0a52fd9adec97cdf89e3de03) ![](assets/new.png)  
-- [2020-10-23-硬菜:常用-Linux-命令汇总](https://sec.thief.one/article_content?a_id=3627de443d9dd69575d4c9e5974c2831) ![](assets/new.png)  
-- [2020-10-23-当程序员集体出没,必有巨大惊喜发生...](https://sec.thief.one/article_content?a_id=1bcf643de492b2693cd1cb56727b6421) ![](assets/new.png)  
-- [2020-10-23-数字新基建-赋能新未来|绿盟科技出席2020中国石油石化企业信息技术...](https://sec.thief.one/article_content?a_id=31a821f4245892149d5f07fdd8e4634a) ![](assets/new.png)  
-- [2020-10-23-NSA披露文件解析](https://sec.thief.one/article_content?a_id=6dfc57bc00d946deda7eac6bca5e24b7) ![](assets/new.png)  
-- [2020-10-23-超级CSO-|-马民虎:网安发展,法律必行](https://sec.thief.one/article_content?a_id=634d6e96a291451182c10826958f53f7) ![](assets/new.png)  
-- [2020-10-23-前端加密加签之sqlmap自动化测试](https://sec.thief.one/article_content?a_id=cd0446469382df20c4781baee235fb2a) ![](assets/new.png)  
-- [2020-10-23-最后一周!ByteSRC多重奖励活动进行中](https://sec.thief.one/article_content?a_id=f4121d101eab3ced19639a5657237c93) ![](assets/new.png)  
-- [2020-10-23-揭秘“假靳东”背后的黑色产业链](https://sec.thief.one/article_content?a_id=67ea908945358abd743b81e098eeb0f2) ![](assets/new.png)  
-- [2020-10-23-Google向美国执法机构提供搜索记录数据](https://sec.thief.one/article_content?a_id=d597d966aa4c40469a5648b2190bfc92) ![](assets/new.png)  
-- [2020-10-23-【安全热点周报】第165期:Broadvoice公司3.5亿客户记录遭泄露](https://sec.thief.one/article_content?a_id=006ab6f16fef6483a4edb45baf1eea01) ![](assets/new.png)  
-- [2020-10-23-【DEFCON-GROUP精品沙龙系列】-智能插座引发的一场火灾](https://sec.thief.one/article_content?a_id=d50d34bb5606c045e4b8d0f26af5104b) ![](assets/new.png)  
-- [2020-10-23-bypass安全狗-sql注入与xss](https://sec.thief.one/article_content?a_id=0a9a3aa32c4d07882a5d570516c28161) ![](assets/new.png)  
-- [2020-10-23-Metasploit插件之钉钉机器人通知主机上线](https://sec.thief.one/article_content?a_id=328a36b175337f825c1d07549902d154) ![](assets/new.png)  
-- [2020-10-23-国家数字乡村试点地区名单公布](https://sec.thief.one/article_content?a_id=d35a801c05c3d7f90187b8d4729b1ff1) ![](assets/new.png)  
-- [2020-10-23-随着BTC反弹,过去36小时内铸造了近5亿USDT](https://sec.thief.one/article_content?a_id=615697991ddb4a9eb901ff80d8c6067f) ![](assets/new.png)  
-- [2020-10-23-【漏洞预警】CNNVD-关于Vmware-ESXi安全漏洞的通报](https://sec.thief.one/article_content?a_id=88b8752583e8e0b444c4a82c3a290c67) ![](assets/new.png)  
-- [2020-10-23-微软已接管Trickbot僵尸网络94%的关键控制设施](https://sec.thief.one/article_content?a_id=c09295e9b948218ab7716ec75d5e7d78) ![](assets/new.png)  
-- [2020-10-23-针对云沙箱特征探测的一次尝试](https://sec.thief.one/article_content?a_id=e43aba5bc4942d79bf2faa668c9a14bf) ![](assets/new.png)  
-- [2020-10-23-手机失窃后,第一时间应该怎么做?](https://sec.thief.one/article_content?a_id=01358bb2c68f67850bb3c427a119d6d2) ![](assets/new.png)  
+- [2020-10-24-在看-|-一周网安回顾-2020.10.17~10.23](https://sec.thief.one/article_content?a_id=7f1d317fb628681a1a3627b8b741605d) ![](assets/new.png)  
+- [2020-10-24-「大圣」云沙箱免费服务上线草稿先别发](https://sec.thief.one/article_content?a_id=0245ba0ea2c9478165d87ba1391e6ea3) ![](assets/new.png)  
+- [2020-10-24-GUIBI挖掘机:Kik与SEC达成和解-IOTA明年主网推出Coordicide](https://sec.thief.one/article_content?a_id=c0cf6631105d82e5a4e014978f9292ea) ![](assets/new.png)  
+- [2020-10-24-“程序员是未来世界的改变者,他们正在重塑整个世界.”](https://sec.thief.one/article_content?a_id=19dcdcf108c65e2627b132d217454d95) ![](assets/new.png)  
+- [2020-10-24-包邮送5本《Python安全攻防》](https://sec.thief.one/article_content?a_id=e884d2c42b7778c9fca112ca444d04c0) ![](assets/new.png)  
+- [2020-10-24-#-1024-特别福利-#-致敬改变世界的幕后英雄](https://sec.thief.one/article_content?a_id=0c05ec62c58a34a197228e460c2c3243) ![](assets/new.png)  
+- [2020-10-24-摩根士丹利:PayPal的举措有利于加密采用但不一定有助于盈利](https://sec.thief.one/article_content?a_id=9165b5b8c124d97743314aea857cb6f9) ![](assets/new.png)  
+- [2020-10-24-2020“直通乌镇”全球互联网大赛总决赛名单出炉](https://sec.thief.one/article_content?a_id=1c927ca80debb24337e3ebda27d7c8f3) ![](assets/new.png)  
+- [2020-10-24-工信部提醒:手机这个密码必须设否则危险!](https://sec.thief.one/article_content?a_id=f24b6503be70805f6ac3f0097961d287) ![](assets/new.png)  
+- [2020-10-24-一款SQL自动检查神器,再也不用担心SQL出错了,自动补全、回滚等...](https://sec.thief.one/article_content?a_id=9894e5c1aa3beb186bbd5e095b38aff9) ![](assets/new.png)  
+- [2020-10-24-200个Python数据处理中常用操作](https://sec.thief.one/article_content?a_id=3922700f02eff062c796f6c65b7c3b51) ![](assets/new.png)  
+- [2020-10-24-OSRC助力第二届“补天杯”破解大赛火热进行中](https://sec.thief.one/article_content?a_id=0812c37b491fe13a6440d9a0602a94fa) ![](assets/new.png)  
+- [2020-10-24-《等保2.0体系互联网合规实践白皮书》全文](https://sec.thief.one/article_content?a_id=17785263b8fe8a59c4deaeb99a8d16ad) ![](assets/new.png)  
+- [2020-10-24-1024节特献|加油吧!程序员背后的守护者!](https://sec.thief.one/article_content?a_id=bc7118035c78bea524d88a9c1d227e5a) ![](assets/new.png)  
+- [2020-10-24-1024赠书福利-|-安全从业者的必备神兵利器](https://sec.thief.one/article_content?a_id=f97309e235d69332003fe3e667104656) ![](assets/new.png)  
+- [2020-10-24-六家银行因侵害个人信息被罚逾4000万元](https://sec.thief.one/article_content?a_id=87d0bc70160ad652dd45b986f34c411e) ![](assets/new.png)  
+- [2020-10-24-漏洞赏金猎人盗用他人exp获利](https://sec.thief.one/article_content?a_id=179d2fad9743dc3b4963c93317fb08ed) ![](assets/new.png)  
+- [2020-10-24-企业合规视角下的《个人信息保护法-草案-》解读](https://sec.thief.one/article_content?a_id=3b30c2f17e51b213139171f4e24001da) ![](assets/new.png)  
+- [2020-10-24-1024真香!新款iPad,抱回家!](https://sec.thief.one/article_content?a_id=1c8662f302bac96264534e215f2b8a0f) ![](assets/new.png)  
+- [2020-10-24-外媒:斯诺登获俄罗斯永久居留权-不过并未打算申请俄罗斯国籍](https://sec.thief.one/article_content?a_id=a16e6ad27acfe33eda60090e9db86bcd) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

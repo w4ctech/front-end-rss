@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-24 03:40:45，:rocket: 更新条数: +3512， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-24 03:48:58，:rocket: 更新条数: +3512， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-24-福建23日新增境外输入确诊病例2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilodEgYZPNGC5GyAcFuh6201024&isfromapp=1) ![](assets/new.png)  
+- [2020-10-24-​秘鲁新增3240例新冠肺炎确诊病例-累计超88万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSrSIdgbTLP1y6wf7lHUm201024&isfromapp=1) ![](assets/new.png)  
+- [2020-10-24-美国农村已“沦陷”-疫情严冬将要来临](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticVbTrnFHFCoEQjqC1jG2201024&isfromapp=1) ![](assets/new.png)  
 - [2020-10-24-国家卫健委：昨日新增新冠肺炎确诊病例28例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyoVgYlYLA3zs5apjg96J201024&isfromapp=1) ![](assets/new.png)  
 - [2020-10-24-捷克卫生部长普里穆拉因违反防疫规定将遭罢免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioYAUExoFxYCICt4g8XbP201024&isfromapp=1) ![](assets/new.png)  
-- [2020-10-24-​美国政府医疗总监：美国可能很快打破单日新增确诊病例数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGp16qcZaP0pcavnYCobd201024&isfromapp=1) ![](assets/new.png)  
-- [2020-10-23-巴西新增30026例新冠肺炎确诊病例-累计确诊超535万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwPrYTaI1Z9nyEsUvrT0d201024&isfromapp=1) ![](assets/new.png)  
-- [2020-10-23-葡萄牙议会通过露天环境强制佩戴口罩法令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1gtqiYLsHBSfg8hnvBM1201024&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,16 +1139,16 @@
 - [2020-10-24-银行数据库迁移至-MySQL-的常见-Q&A-都在这了](https://toutiao.io/k/6ewmbym) ![](assets/new.png)  
 - [2020-10-24-Unix-系统级-IO](https://toutiao.io/k/2cernwm) ![](assets/new.png)  
 - [2020-10-24-译-让-ftrace-的-ring-buffer-里的时间戳更精确](https://toutiao.io/k/2odej6k) ![](assets/new.png)  
-- [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
-- [2020-10-24-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [2020-10-24-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-24-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-24-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-24-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-24-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
-- [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-24-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-24-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-24-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-24-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-24-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-24-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-24-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
+- [2020-10-24-推荐-想要-4-个-9？本文告诉你监控告警如何做](https://toutiao.io/k/9vxbpn0) ![](assets/new.png)  
+- [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

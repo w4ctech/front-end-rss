@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-24 08:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 08:16:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-24-求大家推荐一款小公司使用的-NAS-产品](https://www.v2ex.com/t/718190) 
+- [2020-10-24-django-views-中从前端获取到的对象如何传递给-test.py-文件](https://www.v2ex.com/t/718189) 
+- [2020-10-24-求推荐-iPhone-12-Pro-Max-透明手机壳](https://www.v2ex.com/t/718188) 
 - [2020-10-24-12-这续航可咋办啊，想退了换华为](https://www.v2ex.com/t/718186) 
 - [2020-10-24-1024-程序员节，你的-github-主页换新衣了吗？](https://www.v2ex.com/t/718185) 
 - [2020-10-24-内推'''''字节跳动](https://www.v2ex.com/t/718184) 
@@ -38,4 +41,3 @@
 - [2020-10-24-B-站-App-适配-iPhone12-有问题](https://www.v2ex.com/t/718146) 
 - [2020-10-24-要怎么学英语才能胜任欧美国家的远程工作呢](https://www.v2ex.com/t/718145) 
 - [2020-10-24-1024-阿里云的运营小姐姐搞了个重构代码送-Cherry-键盘的活动](https://www.v2ex.com/t/718142) 
-- [2020-10-24-kotlin-中的密封类到底是一个什么意义和设计意图？](https://www.v2ex.com/t/718137) 

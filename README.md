@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-24 15:50:49，:rocket: 更新条数: +3503， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-24 16:05:21，:rocket: 更新条数: +3503， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,6 +1053,8 @@
 </summary>
 
 
+- [2020-10-24-一个好的程序员应该是勤奋的还是懒惰好些？](https://www.v2ex.com/t/718287) ![](assets/new.png)  
+- [2020-10-24-发现一个-iPad-作为生产力工具的方案](https://www.v2ex.com/t/718286) ![](assets/new.png)  
 - [2020-10-24-马上重阳节了，你最先想到的是哪一首诗？](https://www.v2ex.com/t/718284) ![](assets/new.png)  
 - [2020-10-24-javac-文件，出现很多不可见的问题](https://www.v2ex.com/t/718283) ![](assets/new.png)  
 - [2020-10-24-Chrome-如何快速获取-request-header？](https://www.v2ex.com/t/718282) ![](assets/new.png)  
@@ -1071,8 +1073,6 @@
 - [2020-10-24-有偿收-700-块左右的滴滴发票或其他网约车发票。](https://www.v2ex.com/t/718267) ![](assets/new.png)  
 - [2020-10-24-11-号线三林地铁站，近-6-号线上南路，永泰花苑小区，求一个有缘人一起和租两室一厅](https://www.v2ex.com/t/718265) ![](assets/new.png)  
 - [2020-10-24-如果-1024-还想不出来，我的节日就要完蛋了](https://www.v2ex.com/t/718264) ![](assets/new.png)  
-- [2020-10-24-js-异步-http-请求的返回值，如何赋值给一个变量？](https://www.v2ex.com/t/718262) ![](assets/new.png)  
-- [2020-10-24-23-号早上用到现在感受，看了真机打算退了换蓝色](https://www.v2ex.com/t/718261) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,15 +1126,15 @@
 - [2020-10-24-在-Zeppelin-中如何使用-Hive](https://toutiao.io/k/oy67od8) ![](assets/new.png)  
 - [2020-10-24-译-让-ftrace-的-ring-buffer-里的时间戳更精确](https://toutiao.io/k/2odej6k) ![](assets/new.png)  
 - [2020-10-24-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-24-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-24-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-24-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-24-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
-- [2020-10-24-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-24-推荐-腾讯-T4-一年的心血成就-17W-字操作系统、网络协议教程（附导图-+-笔记）](https://toutiao.io/k/kzxohh6) ![](assets/new.png)  
+- [2020-10-24-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-24-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
 - [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-24-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-24-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-24-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-24-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-24-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-10-24-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

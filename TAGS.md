@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-24 11:39:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 11:47:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -516,7 +516,6 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
-- [【V2EX】英国-求全职全栈（偏后端）程序员，全远程工作](https://www.v2ex.com/t/718230)
 - [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】掌握这些知识,你也能成为-NLP-算法工程师!](https://sec.thief.one/article_content?a_id=ee7d7d338c32d7584dc86ea4fa42261d)
@@ -566,7 +565,6 @@
 - [【InfoQ】CI/CD-工具选型：Jenkins-还是-GitLab-CI/CD？](https://www.ershicimi.com/p/beade7258b817474afbed706efabff3e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】iconfont-用的-github-账号登陆的，-github-账号被封后，登陆不了-iconfont-了好尴尬……](https://www.v2ex.com/t/718223)
 - [【技术头条】硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -672,9 +670,10 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊85775例-新增境外输入28例](https://m.caixin.com/m/2020-10-24/101618538.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超4211万-累计死亡超113万](https://m.caixin.com/m/2020-10-24/101618542.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增28例境外输入病例（10月23日）](http://m.database.caixin.com/m/2020-10-24/101618441.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月23日：法国扩大宵禁范围-美国批准瑞德西韦治疗新冠](https://m.caixin.com/m/2020-10-24/101618343.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超4150万-累计死亡超113万](http://m.international.caixin.com/m/2020-10-23/101618162.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月22日：德国日增病例破万-巴西一疫苗试验志愿者死亡](https://m.caixin.com/m/2020-10-23/101617798.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增14例境外输入病例（10月22日）](http://m.database.caixin.com/m/2020-10-23/101617954.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国连续190日无新增死亡病例（10月21日）](http://m.database.caixin.com/m/2020-10-22/101617506.html)
@@ -691,7 +690,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】青岛冷链食品外包装首次分离新冠活病毒-中疾控提示风险](https://m.caixin.com/m/2020-10-18/101615901.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增13例境外输入病例（10月17日）](http://m.database.caixin.com/m/2020-10-18/101615934.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月17日：世卫称瑞德西韦等药物疗效甚微-中东疫情高位增长](https://m.caixin.com/m/2020-10-18/101615905.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】广州花都新增1例境外输入关联的无症状感染者（10月16日）](http://m.database.caixin.com/m/2020-10-17/101615832.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

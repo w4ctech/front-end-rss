@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-24 17:49:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 18:04:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-10-24-快手回应装厕所坑位计时器；蚂蚁集团26.99亿元杭州拿地；马云：我最大的经验就是没怎么成功过-|-Q](https://www.ershicimi.com/p/67c571e65585ca0222709709de367faa) 
+- [2020-10-24-如果不做程序员，你会做什么？｜1024免费福利](https://www.ershicimi.com/p/75e4111d52aade0c80a8509e8e0f084e) 
+- [2020-10-24-明星开源产品实践历程，从技术构建到营销革命](https://www.ershicimi.com/p/4f4378b7eb00ddf0fc6b80d47401e7e2) 
+- [2020-10-24-全链路数据治理在网易严选的实践](https://www.ershicimi.com/p/5eb1e7b5d8fdc90971be1c04552cf495) 
+- [2020-10-24-最全的GitOps工具选型，30+款工具随你挑](https://www.ershicimi.com/p/14454a0d8ebf4a75e2c9e121cc359658) 
 - [2020-10-23-一入阿里“误终身”？](https://www.ershicimi.com/p/b4382de1ea95b254c075c74f3542aba4) 
 - [2020-10-23-官宣：让创新技术被看见，InfoQ首个年度榜单来了](https://www.ershicimi.com/p/dd7fb3a4e39b1309149fa467ade155fe) 
 - [2020-10-23-谁是无价之猿？测一测你的coding身价（内有大礼）|-Q推荐](https://www.ershicimi.com/p/e177e0ac70fa0fbe914bc0bc6e186cbb) 
@@ -20,8 +25,3 @@
 - [2020-10-21-作为创始人，我不小心删除了生产数据库，还跑路吗？](https://www.ershicimi.com/p/30474ffb422c03605f96b07607bf1c00) 
 - [2020-10-21-华为云“对话机器人”成长指南已送达](https://www.ershicimi.com/p/fb7c3000bae2169109def3353e338608) 
 - [2020-10-21-核心特性全新升级！巨杉数据库5.0将正式发布](https://www.ershicimi.com/p/f20c135d40a5bf84ed424d4f0c062af1) 
-- [2020-10-21-你必须知道的11个微前端框架](https://www.ershicimi.com/p/f29fbb332203bd0a9ba928b28bdf22c4) 
-- [2020-10-21-VS-Code会“一统江湖”吗？](https://www.ershicimi.com/p/bb23655b682343b991ed877612cd8c27) 
-- [2020-10-20-AWS分叉了我的开源项目，但他们连声感谢也没说](https://www.ershicimi.com/p/97bfff4a0ef60c6a1e75792800742948) 
-- [2020-10-20-旷视研究院田忠博：中国缺少重量级的开源项目，国产开源需要更加自信](https://www.ershicimi.com/p/585795cda394273ebb22ce13dfab1f92) 
-- [2020-10-20-云上创新，Azure当道-|-Q推荐](https://www.ershicimi.com/p/28be100dfa76a51810984ff9d554c387) 

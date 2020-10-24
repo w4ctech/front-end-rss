@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-24 05:40:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 05:47:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-24-明年-AirPods-pro-2-会采用-5-纳米技术吗？](https://www.v2ex.com/t/718152) 
 - [2020-10-24-每周精选第-1-期-2020-10-24-|-极客分享](https://www.v2ex.com/t/718150) 
 - [2020-10-24-1024-程序员的节日-产品运营的狂欢](https://www.v2ex.com/t/718149) 
 - [2020-10-24-GitHub-今天上不了了](https://www.v2ex.com/t/718148) 
@@ -34,4 +35,3 @@
 - [2020-10-24-通过转运公司购买港版-iPhone-靠谱吗？](https://www.v2ex.com/t/718109) 
 - [2020-10-24-实习-微软亚洲研究院-防火墙开发工程师实习生](https://www.v2ex.com/t/718107) 
 - [2020-10-24-iPhone-12-YouTube-App-中没有-HDR-选项](https://www.v2ex.com/t/718106) 
-- [2020-10-24-可能是-Firefox-上最接近-Chrome/ium-翻译体验的扩展](https://www.v2ex.com/t/718101) 

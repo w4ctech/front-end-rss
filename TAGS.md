@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-24 13:48:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 14:04:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -208,8 +208,6 @@
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【掘金前端】fard：首个开源小程序引擎](https://juejin.im/post/6887011252212924430)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
-- [【V2EX】1024-快乐-来推一波我的情侣头像小程序](https://www.v2ex.com/t/718258)
-- [【V2EX】半推广1024-写了一个小程序美图福利](https://www.v2ex.com/t/718252)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -452,8 +450,6 @@
 - [【前端迷】大厂高频手撕算法题](https://www.ershicimi.com/p/ac7907d721d773cce7e8e69fd6b88016)
 - [【全栈前端精选】2020最后一-Q，最强的全栈文章干货集](https://www.ershicimi.com/p/50d32ca810fb75129e275733ce4ba4e7)
 - [【前端瓶子君】GitHub：再见，master！](https://www.ershicimi.com/p/f03837ba3ed7d53fd8b785002973f87a)
-- [【V2EX】2020-年算法工程师生存现状](https://www.v2ex.com/t/718257)
-- [【V2EX】英国-求全职全栈（偏后端）程序员，全远程工作](https://www.v2ex.com/t/718230)
 - [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】掌握这些知识,你也能成为-NLP-算法工程师!](https://sec.thief.one/article_content?a_id=ee7d7d338c32d7584dc86ea4fa42261d)
@@ -498,7 +494,6 @@
 - [【InfoQ】CI/CD-工具选型：Jenkins-还是-GitLab-CI/CD？](https://www.ershicimi.com/p/beade7258b817474afbed706efabff3e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】iconfont-用的-github-账号登陆的，-github-账号被封后，登陆不了-iconfont-了好尴尬……](https://www.v2ex.com/t/718223)
 - [【技术头条】硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

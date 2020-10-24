@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-24 19:33:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 19:38:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2706,7 +2706,6 @@
 - [2020-10-24-你们是否身处“死海效应”的公司呢？](https://www.v2ex.com/t/718271) 
 - [2020-10-24-利用-Proxmox-搭建桌面云](https://www.v2ex.com/t/718270) 
 - [2020-10-24-聊聊监控](https://www.v2ex.com/t/718268) 
-- [2020-10-24-有偿收-700-块左右的滴滴发票或其他网约车发票。](https://www.v2ex.com/t/718267) 
 - [2020-10-24-11-号线三林地铁站，近-6-号线上南路，永泰花苑小区，求一个有缘人一起和租两室一厅](https://www.v2ex.com/t/718265) 
 - [2020-10-24-如果-1024-还想不出来，我的节日就要完蛋了](https://www.v2ex.com/t/718264) 
 - [2020-10-24-23-号早上用到现在感受，看了真机打算退了换蓝色](https://www.v2ex.com/t/718261) 
@@ -2739,16 +2738,16 @@
 - [2020-10-24-Unix-系统级-IO](https://toutiao.io/k/2cernwm) 
 - [2020-10-24-在-Zeppelin-中如何使用-Hive](https://toutiao.io/k/oy67od8) 
 - [2020-10-24-译-让-ftrace-的-ring-buffer-里的时间戳更精确](https://toutiao.io/k/2odej6k) 
-- [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) 
 - [2020-10-24-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) 
+- [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) 
+- [2020-10-24-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
 - [2020-10-24-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) 
 - [2020-10-24-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) 
 - [2020-10-24-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) 
+- [2020-10-24-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) 
 - [2020-10-24-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) 
 - [2020-10-24-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
-- [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) 
 - [2020-10-24-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) 
-- [2020-10-24-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
 - [2020-10-24-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) 
 - [2020-10-24-超详细的Python文件操作知识](https://sec.thief.one/article_content?a_id=78a14e44f3e23d81ae5b6887c4d805f4) 
 - [2020-10-24-向最可爱的人致敬!](https://sec.thief.one/article_content?a_id=26ca93e0d63b1c1af09dcbeb60fab44d) 

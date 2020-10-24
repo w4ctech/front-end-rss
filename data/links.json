@@ -16854,6 +16854,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "zsh vs bash",
+        "link": "https://www.v2ex.com/t/718204",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "杭州布偶猫寻找主人了",
+        "link": "https://www.v2ex.com/t/718203",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "一款休闲小程序，有没有哪个成语瞬间击中你？",
+        "link": "https://www.v2ex.com/t/718202",
+        "date": "2020-10-24"
+      },
+      {
         "title": "外企英文面试，怎么快速补充词汇量",
         "link": "https://www.v2ex.com/t/718200",
         "date": "2020-10-24"
@@ -17032,11 +17047,6 @@
         "title": "提一下握持 iphone12 的手感。",
         "link": "https://www.v2ex.com/t/718155",
         "date": "2020-10-24"
-      },
-      {
-        "title": "明年 AirPods pro 2 会采用 5 纳米技术吗？",
-        "link": "https://www.v2ex.com/t/718152",
-        "date": "2020-10-24"
       }
     ]
   },
@@ -17178,13 +17188,13 @@
         "date": "2020-10-24"
       },
       {
-        "title": "银行数据库迁移至 MySQL 的常见 Q&A 都在这了",
-        "link": "https://toutiao.io/k/6ewmbym",
+        "title": "Go 设计模式（二十）：备忘录模式",
+        "link": "https://toutiao.io/k/517l41s",
         "date": "2020-10-24"
       },
       {
-        "title": "Go 设计模式（二十）：备忘录模式",
-        "link": "https://toutiao.io/k/517l41s",
+        "title": "银行数据库迁移至 MySQL 的常见 Q&A 都在这了",
+        "link": "https://toutiao.io/k/6ewmbym",
         "date": "2020-10-24"
       },
       {
@@ -17203,58 +17213,13 @@
         "date": "2020-10-24"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
         "date": "2020-10-24"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
-        "link": "https://toutiao.io/k/kzxohh6",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
-        "link": "https://toutiao.io/k/9vxbpn0",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
         "date": "2020-10-24"
       },
       {
@@ -17268,13 +17233,58 @@
         "date": "2020-10-24"
       },
       {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
+        "title": "[推荐] 腾讯 T4 一年的心血成就 17W 字操作系统、网络协议教程（附导图 + 笔记）",
+        "link": "https://toutiao.io/k/kzxohh6",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
         "date": "2020-10-24"
       },
       {
         "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
         "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 想要 4 个 9？本文告诉你监控告警如何做",
+        "link": "https://toutiao.io/k/9vxbpn0",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
         "date": "2020-10-24"
       }
     ]

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-24 09:04:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 09:14:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-24-zsh-vs-bash](https://www.v2ex.com/t/718204) 
+- [2020-10-24-杭州布偶猫寻找主人了](https://www.v2ex.com/t/718203) 
+- [2020-10-24-一款休闲小程序，有没有哪个成语瞬间击中你？](https://www.v2ex.com/t/718202) 
 - [2020-10-24-外企英文面试，怎么快速补充词汇量](https://www.v2ex.com/t/718200) 
 - [2020-10-24-ThinkPHP-官方市场上线-5-个月-一波-1024-优惠福利](https://www.v2ex.com/t/718199) 
 - [2020-10-24-Spotify-的推荐，真是深得我心~](https://www.v2ex.com/t/718198) 
@@ -41,4 +44,3 @@
 - [2020-10-24-微博-PC-改版，几乎和头条-PC-版一毛一样，字号、颜色都差不多大小](https://www.v2ex.com/t/718157) 
 - [2020-10-24-iPhone12-pro-使用体验](https://www.v2ex.com/t/718156) 
 - [2020-10-24-提一下握持-iphone12-的手感。](https://www.v2ex.com/t/718155) 
-- [2020-10-24-明年-AirPods-pro-2-会采用-5-纳米技术吗？](https://www.v2ex.com/t/718152) 

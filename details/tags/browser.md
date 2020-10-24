@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-24 12:53:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 12:55:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -52,6 +52,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-24-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-24-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-10-24-看雪2020第四届安全开发者峰会现场花絮](https://sec.thief.one/article_content?a_id=338d56bb0cc115a98fbddbcbadb70279) 
 - [2020-10-24-包邮送5本《Python安全攻防》](https://sec.thief.one/article_content?a_id=e884d2c42b7778c9fca112ca444d04c0) 
 - [2020-10-24-1024赠书福利-|-安全从业者的必备神兵利器](https://sec.thief.one/article_content?a_id=f97309e235d69332003fe3e667104656) 
 - [2020-10-23-技术人员的狂欢-|-看雪2020第四届安全开发者峰会顺利落幕!!](https://sec.thief.one/article_content?a_id=90cfa07e55ee3b32bbf6971040f0645c) 
@@ -73,4 +74,3 @@
 - [2020-10-22-赠书福利-|-《Python安全攻防:渗透测试实战指南》](https://sec.thief.one/article_content?a_id=25e852127b16f4ebf909b4f5c9309245) 
 - [2020-10-22-WebLogic-Server-高危安全漏洞风险提示10月](https://sec.thief.one/article_content?a_id=56feca13f64058d2300617b3ac97f63c) 
 - [2020-10-22-信息安全界豪华赋能大礼包,附业界资质证书备考指南!](https://sec.thief.one/article_content?a_id=e2893520296a5dc9f756ba220cd49885) 
-- [2020-10-21-App安全检测实践基础——工具](https://sec.thief.one/article_content?a_id=66c347bdb307437b0b613050da09079b) 

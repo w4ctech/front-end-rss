@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-24 12:53:13，:rocket: 更新条数: +3724， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-24 12:55:09，:rocket: 更新条数: +3724， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1156,6 +1156,8 @@
 </summary>
 
 
+- [2020-10-24-看雪2020第四届安全开发者峰会现场花絮](https://sec.thief.one/article_content?a_id=338d56bb0cc115a98fbddbcbadb70279) ![](assets/new.png)  
+- [2020-10-24-超详细的Python文件操作知识](https://sec.thief.one/article_content?a_id=78a14e44f3e23d81ae5b6887c4d805f4) ![](assets/new.png)  
 - [2020-10-24-在看-|-一周网安回顾-2020.10.17~10.23](https://sec.thief.one/article_content?a_id=7f1d317fb628681a1a3627b8b741605d) ![](assets/new.png)  
 - [2020-10-24-「大圣」云沙箱免费服务上线草稿先别发](https://sec.thief.one/article_content?a_id=0245ba0ea2c9478165d87ba1391e6ea3) ![](assets/new.png)  
 - [2020-10-24-GUIBI挖掘机:Kik与SEC达成和解-IOTA明年主网推出Coordicide](https://sec.thief.one/article_content?a_id=c0cf6631105d82e5a4e014978f9292ea) ![](assets/new.png)  
@@ -1174,8 +1176,6 @@
 - [2020-10-24-六家银行因侵害个人信息被罚逾4000万元](https://sec.thief.one/article_content?a_id=87d0bc70160ad652dd45b986f34c411e) ![](assets/new.png)  
 - [2020-10-24-漏洞赏金猎人盗用他人exp获利](https://sec.thief.one/article_content?a_id=179d2fad9743dc3b4963c93317fb08ed) ![](assets/new.png)  
 - [2020-10-24-企业合规视角下的《个人信息保护法-草案-》解读](https://sec.thief.one/article_content?a_id=3b30c2f17e51b213139171f4e24001da) ![](assets/new.png)  
-- [2020-10-24-1024真香!新款iPad,抱回家!](https://sec.thief.one/article_content?a_id=1c8662f302bac96264534e215f2b8a0f) ![](assets/new.png)  
-- [2020-10-24-外媒:斯诺登获俄罗斯永久居留权-不过并未打算申请俄罗斯国籍](https://sec.thief.one/article_content?a_id=a16e6ad27acfe33eda60090e9db86bcd) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-24 12:53:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-24 12:55:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2745,6 +2745,7 @@
 - [2020-10-24-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
 - [2020-10-24-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) 
 - [2020-10-24-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) 
+- [2020-10-24-超详细的Python文件操作知识](https://sec.thief.one/article_content?a_id=78a14e44f3e23d81ae5b6887c4d805f4) 
 - [2020-10-24-在看-|-一周网安回顾-2020.10.17~10.23](https://sec.thief.one/article_content?a_id=7f1d317fb628681a1a3627b8b741605d) 
 - [2020-10-24-「大圣」云沙箱免费服务上线草稿先别发](https://sec.thief.one/article_content?a_id=0245ba0ea2c9478165d87ba1391e6ea3) 
 - [2020-10-24-“程序员是未来世界的改变者,他们正在重塑整个世界.”](https://sec.thief.one/article_content?a_id=19dcdcf108c65e2627b132d217454d95) 
@@ -2817,4 +2818,3 @@
 - [2020-10-22-《最受欢迎的男友职业排行榜Top10》](https://sec.thief.one/article_content?a_id=0f2590649bd6b6117cc9ed8b983e3773) 
 - [2020-10-22-中国抓到了勒索病毒作者!!](https://sec.thief.one/article_content?a_id=1af00247c75a78389d0c3651c68a43b7) 
 - [2020-10-22-《个人信息保护法草案》全文正式发布](https://sec.thief.one/article_content?a_id=e3fff72a04ec1b0ee97b138cdcf0afa2) 
-- [2020-10-21-《Python中神奇的第三方库:Faker》](https://sec.thief.one/article_content?a_id=2b382cb01b39c2e7fdce08f2bda8b499) 

@@ -18395,6 +18395,16 @@
     "link": "https://sec.thief.one/",
     "items": [
       {
+        "title": "看雪2020第四届安全开发者峰会现场花絮",
+        "link": "https://sec.thief.one/article_content?a_id=338d56bb0cc115a98fbddbcbadb70279",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "超详细的Python文件操作知识",
+        "link": "https://sec.thief.one/article_content?a_id=78a14e44f3e23d81ae5b6887c4d805f4",
+        "date": "2020-10-24"
+      },
+      {
         "title": "在看 | 一周网安回顾 2020.10.17~10.23",
         "link": "https://sec.thief.one/article_content?a_id=7f1d317fb628681a1a3627b8b741605d",
         "date": "2020-10-24"
@@ -18883,16 +18893,6 @@
         "title": "《个人信息保护法(草案)》全文正式发布",
         "link": "https://sec.thief.one/article_content?a_id=e3fff72a04ec1b0ee97b138cdcf0afa2",
         "date": "2020-10-22"
-      },
-      {
-        "title": "《Python中神奇的第三方库:Faker》",
-        "link": "https://sec.thief.one/article_content?a_id=2b382cb01b39c2e7fdce08f2bda8b499",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "App安全检测实践基础——工具",
-        "link": "https://sec.thief.one/article_content?a_id=66c347bdb307437b0b613050da09079b",
-        "date": "2020-10-21"
       }
     ]
   }

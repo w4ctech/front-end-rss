@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-25 08:35:41，:rocket: 更新条数: +3499， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-25 08:47:23，:rocket: 更新条数: +3501， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,6 +1053,8 @@
 </summary>
 
 
+- [2020-10-25-苹果的无耻暴露无遗](https://www.v2ex.com/t/718394) ![](assets/new.png)  
+- [2020-10-25-有朋友最近想看看字节的机会吗～](https://www.v2ex.com/t/718393) ![](assets/new.png)  
 - [2020-10-25-Mackbook-下个月会上-Tigerlake-吗](https://www.v2ex.com/t/718392) ![](assets/new.png)  
 - [2020-10-25-京东智联云灵活用工平台注册第一步就是要身份证正反面？](https://www.v2ex.com/t/718391) ![](assets/new.png)  
 - [2020-10-25-都说-12-5G-耗电，用过华为的-5G-的说说耗电不？](https://www.v2ex.com/t/718390) ![](assets/new.png)  
@@ -1071,8 +1073,6 @@
 - [2020-10-25-为什么我的-Mac-内网跑不满千兆？](https://www.v2ex.com/t/718368) ![](assets/new.png)  
 - [2020-10-25-win-升级-20H2-WSL-无法启动](https://www.v2ex.com/t/718367) ![](assets/new.png)  
 - [2020-10-25-苹果做-Apple-Care-是亏钱的吗？](https://www.v2ex.com/t/718366) ![](assets/new.png)  
-- [2020-10-25-iphone12-双卡问题](https://www.v2ex.com/t/718364) ![](assets/new.png)  
-- [2020-10-25-Workspace-or-Project?](https://www.v2ex.com/t/718363) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,16 +1125,16 @@
 - [2020-10-25-Flink-State-误用之痛，竟然-90%-以上的-Flink-开发都不懂](https://toutiao.io/k/8nbizua) ![](assets/new.png)  
 - [2020-10-25-编码之路，与君共勉。](https://toutiao.io/k/gqw42ap) ![](assets/new.png)  
 - [2020-10-25-顺藤摸瓜：用单元测试读懂-Vue-3-中的-defineComponent](https://toutiao.io/k/jjf745r) ![](assets/new.png)  
-- [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-25-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
 - [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-25-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
 - [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-25-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
-- [2020-10-25-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
-- [2020-10-25-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
-- [2020-10-25-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-25-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

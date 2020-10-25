@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 00:42:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 01:19:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,6 +91,7 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-10-25-昨天-1024-剪了一个视频，梳理了一下计算机的发展史](https://www.v2ex.com/t/718314) 
 - [2020-10-24-B-站首页这个自称是黒客黑了别人网站的视频，大家怎么看](https://www.v2ex.com/t/718302) 
 - [2020-10-24-mac-端有好用的蓝光播放器吗？支持-4k-的](https://www.v2ex.com/t/718296) 
 - [2020-10-22-【视频】|-铲除“黑灰产”](https://sec.thief.one/article_content?a_id=ab7046606a8682874da8f3664b6fc0de) 

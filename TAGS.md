@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-25 14:32:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 14:39:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -394,8 +394,6 @@
 - [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
 - [【前端瓶子君】从技术谈到管理，把系统优化的技术用到企业管理](https://www.ershicimi.com/p/679867be91d9b28c74bc778ed0649d3f)
 - [【程序员成长指北】腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/fd031a7c201d4d2d94d0750bedf5df48)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【奇舞周刊】新的浏览器缓存策略变更：舍弃性能、确保安全](https://www.ershicimi.com/p/8bf216ed737dc487bf3cb9e986c89ba3)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -454,6 +452,8 @@
 - [【前端迷】大厂高频手撕算法题](https://www.ershicimi.com/p/ac7907d721d773cce7e8e69fd6b88016)
 - [【全栈前端精选】2020最后一-Q，最强的全栈文章干货集](https://www.ershicimi.com/p/50d32ca810fb75129e275733ce4ba4e7)
 - [【前端瓶子君】GitHub：再见，master！](https://www.ershicimi.com/p/f03837ba3ed7d53fd8b785002973f87a)
+- [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】掌握这些知识,你也能成为-NLP-算法工程师!](https://sec.thief.one/article_content?a_id=ee7d7d338c32d7584dc86ea4fa42261d)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -496,6 +496,7 @@
 - [【InfoQ】CI/CD-工具选型：Jenkins-还是-GitLab-CI/CD？](https://www.ershicimi.com/p/beade7258b817474afbed706efabff3e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【技术头条】硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

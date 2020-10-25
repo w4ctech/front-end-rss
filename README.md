@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-25 14:32:25，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-25 14:39:03，:rocket: 更新条数: +3501， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -715,16 +715,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -933,11 +923,11 @@
 </summary>
 
 
-- [2020-10-25-WebPack基础入门一：万物皆可webpack](https://juejin.im/post/6887480965455675406) ![](assets/new.png)  
+- [2020-10-25-不用找UI，-CSS也能搞定图片效果](https://juejin.im/post/6887564455744372743) ![](assets/new.png)  
 - [2020-10-25-译只使用-CSS-进行用户追踪](https://juejin.im/post/6887478219662950414) ![](assets/new.png)  
 - [2020-10-25-Vue3+TS体验并开发+Vite浅析](https://juejin.im/post/6887478361623527431) ![](assets/new.png)  
 - [2020-10-24-Flutter——实现网易云音乐的滑动冲突处理效果](https://juejin.im/post/6887464089267011598) ![](assets/new.png)  
-- [2020-10-24-我写了一个青铜版vue](https://juejin.im/post/6887462943835979784) ![](assets/new.png)  
+- [2020-08-04-深度剖析Tim-Sort---Pyhon及Chrome引擎v8使用的高效排序算法](https://juejin.im/post/6857161900225101832) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1053,6 +1043,11 @@
 </summary>
 
 
+- [2020-10-25-ipados-会不会成为下一个电脑操作系统](https://www.v2ex.com/t/718468) ![](assets/new.png)  
+- [2020-10-25-被-C++的语法问题折磨了，有没有大佬帮我解答一下疑惑](https://www.v2ex.com/t/718467) ![](assets/new.png)  
+- [2020-10-25-iPhone-Xs-Max，-AC+下个月到期，可以去薅最后一次羊毛吗？](https://www.v2ex.com/t/718466) ![](assets/new.png)  
+- [2020-10-25-家宴·2020-开学季的聚餐，迟来的总结](https://www.v2ex.com/t/718465) ![](assets/new.png)  
+- [2020-10-25-MacOS-终端报错：-stat-...-no-such-file-or-directory-如何解决？](https://www.v2ex.com/t/718464) ![](assets/new.png)  
 - [2020-10-25-.手机淘宝](https://www.v2ex.com/t/718463) ![](assets/new.png)  
 - [2020-10-25-golang-学习](https://www.v2ex.com/t/718461) ![](assets/new.png)  
 - [2020-10-25-出-2018-MacBook-Pro-14-i9-32+512](https://www.v2ex.com/t/718460) ![](assets/new.png)  
@@ -1068,11 +1063,6 @@
 - [2020-10-25-请教华为手机如何下载-google-play-的应用？](https://www.v2ex.com/t/718448) ![](assets/new.png)  
 - [2020-10-25-iCloud-照片是使用的时候就会自动下载原图以供使用吗？](https://www.v2ex.com/t/718447) ![](assets/new.png)  
 - [2020-10-25-Adobe-Cloud-全系产品免费-2-年，无需验证学生身份](https://www.v2ex.com/t/718445) ![](assets/new.png)  
-- [2020-10-25-Authing-产品双周动态（10.12-10.24](https://www.v2ex.com/t/718444) ![](assets/new.png)  
-- [2020-10-25-Evernote-是-ban-了国内用户登陆-iOS-版-Evernote-客户端吗](https://www.v2ex.com/t/718443) ![](assets/new.png)  
-- [2020-10-25-有什么解谜、探险、寻宝类的美剧？](https://www.v2ex.com/t/718442) ![](assets/new.png)  
-- [2020-10-25-求解笔记本开机黑屏修复方式及系统恢复方法](https://www.v2ex.com/t/718441) ![](assets/new.png)  
-- [2020-10-25-北京-猿辅导基础架构---服务治理方向高级工程师](https://www.v2ex.com/t/718440) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1084,6 +1074,26 @@
 </summary>
 
 
+- [2020-10-25-测试人员价值的终极体现-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13818&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fqa-value%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-社会创新的三个误区-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13816&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthree-mistakes-of-social-innovation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-为何不推荐使用-Sass-作为-css-预处理器-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13815&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fwhy-sass-is-not-recommended-as-a-css-preprocessor%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-OKR-工作法，带你聚焦目标，高效工作-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13814&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F10%2F12%2F172-okr-working-method-let-you-more-efficiently%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-敏捷项目管理需要知道的五类图表-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13813&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchats-for-agile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-微软发布新版-Python-教程，这次更高级！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13811&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKXm5FJn52NAhBsaMf6d9Lw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-Spring-Boot-最流行的-16-条实践解读！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13810&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn4_duiwydvTzwulxUWvlwA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-Referer-防盗链，为什么少了个字母-R？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13808&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F263425663%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-一文讲懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZYFdJ0FRNhcbWP3Ddng1lA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-Android-敏感数据泄露引发的思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-Kotlin-正在变得越来越好-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13804&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4JCNz0KJiJiuiABVfpCIzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-Koin-in-Android:-更简单的依赖注入-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13803&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJmpP3HbyZvebbrTWhGiPVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-19-个接私活平台汇总，你有技术就有钱-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13802&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuSxfEP1cVRpaNwtF2gmtfw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-开发者日常-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13801&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6fD5AFnULw-utmhDbX-WkA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-Linus：我们都老了，但-Linux-维护后继无人-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13800&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhKZnVytfARTqh0ix33R-wg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-25-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,16 +1115,16 @@
 - [2020-10-25-React-v17.0-正式发布](https://toutiao.io/k/ifbjl75) ![](assets/new.png)  
 - [2020-10-25-Flink-State-误用之痛，竟然-90%-以上的-Flink-开发都不懂](https://toutiao.io/k/8nbizua) ![](assets/new.png)  
 - [2020-10-25-顺藤摸瓜：用单元测试读懂-Vue-3-中的-defineComponent](https://toutiao.io/k/jjf745r) ![](assets/new.png)  
-- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-25-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-25-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
-- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
 - [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-25-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-25-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-25-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-10-25-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-25-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-25-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

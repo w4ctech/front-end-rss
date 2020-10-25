@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 14:32:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 14:39:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -32,8 +32,10 @@
 - [2020-08-31-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325) 
 - [2020-05-03-对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887) 
 - [2020-10-07-工作四年的前端不服：面试竟在CSS上跪了-究其原因……](https://www.ershicimi.com/p/6d7caaa510e08cf5b511383c19096d0c) 
+- [2020-10-25-不用找UI，-CSS也能搞定图片效果](https://juejin.im/post/6887564455744372743) 
 - [2020-10-25-译只使用-CSS-进行用户追踪](https://juejin.im/post/6887478219662950414) 
 - [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
+- [2020-10-25-为何不推荐使用-Sass-作为-css-预处理器-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13815&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fwhy-sass-is-not-recommended-as-a-css-preprocessor%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

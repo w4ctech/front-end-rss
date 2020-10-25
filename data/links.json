@@ -18020,6 +18020,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "用户画像有什么好的书籍推荐？或科学的学习路径？",
+        "link": "https://www.v2ex.com/t/718321",
+        "date": "2020-10-25"
+      },
+      {
         "title": "如何用 Python 批量获取 onClick 弹窗的文件",
         "link": "https://www.v2ex.com/t/718320",
         "date": "2020-10-25"
@@ -18218,11 +18223,6 @@
         "title": "软件工程想考研，专硕还是学硕， V 友给点意见吧",
         "link": "https://www.v2ex.com/t/718272",
         "date": "2020-10-24"
-      },
-      {
-        "title": "你们是否身处“死海效应”的公司呢？",
-        "link": "https://www.v2ex.com/t/718271",
-        "date": "2020-10-24"
       }
     ]
   },
@@ -18359,23 +18359,23 @@
         "date": "2020-10-25"
       },
       {
-        "title": "从 “等等” 到 “秒开” 再到 “直开”，是什么让闲鱼社区相见恨晚？",
-        "link": "https://toutiao.io/k/vzuul55",
-        "date": "2020-10-25"
-      },
-      {
         "title": "分布式一致性协议 Paxos",
         "link": "https://toutiao.io/k/lpf2xyk",
         "date": "2020-10-25"
       },
       {
-        "title": "Flink State 误用之痛，竟然 90% 以上的 Flink 开发都不懂",
-        "link": "https://toutiao.io/k/8nbizua",
+        "title": "从 “等等” 到 “秒开” 再到 “直开”，是什么让闲鱼社区相见恨晚？",
+        "link": "https://toutiao.io/k/vzuul55",
         "date": "2020-10-25"
       },
       {
         "title": "React v17.0 正式发布",
         "link": "https://toutiao.io/k/ifbjl75",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "Flink State 误用之痛，竟然 90% 以上的 Flink 开发都不懂",
+        "link": "https://toutiao.io/k/8nbizua",
         "date": "2020-10-25"
       },
       {
@@ -18389,8 +18389,13 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-25"
       },
       {
@@ -18404,53 +18409,13 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-25"
-      },
-      {
         "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
         "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-25"
       },
       {
@@ -18459,8 +18424,43 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-25"
       }
     ]

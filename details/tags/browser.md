@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 01:19:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 01:29:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,6 +49,7 @@
 - [2020-10-23-REST-API-的安全认证，我放弃OAuth-2.0-,选择-JWT-令牌](https://www.ershicimi.com/p/722000be63427a69a603a6e2a07bd6b5) 
 - [2020-10-19-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/e3ee1b93362990a169a0ea0f52f36e54) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-25-请教-Chrome-扩展下怎么拿到类似-Firefox-里的-detail.originUrl？](https://www.v2ex.com/t/718318) 
 - [2020-10-24-Chrome-如何快速获取-request-header？](https://www.v2ex.com/t/718282) 
 - [2020-10-24-edge-会击败-chrome-吗？](https://www.v2ex.com/t/718281) 
 - [2020-10-24-bilibili-安全挑战赛，大家不用做了，我-10-道都做出来了](https://www.v2ex.com/t/718269) 

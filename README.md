@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-25 01:19:16，:rocket: 更新条数: +3738， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-25 01:29:57，:rocket: 更新条数: +3739， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1073,6 +1073,8 @@
 </summary>
 
 
+- [2020-10-25-请教-Chrome-扩展下怎么拿到类似-Firefox-里的-detail.originUrl？](https://www.v2ex.com/t/718318) ![](assets/new.png)  
+- [2020-10-25-微信实名认证不能转账，是不是必须要绑卡？](https://www.v2ex.com/t/718317) ![](assets/new.png)  
 - [2020-10-25-有任何数据库的官方文档提供了自己如何解决-不可重复读问题-的描述吗？或者有什么比较权威的书籍讲这个？](https://www.v2ex.com/t/718316) ![](assets/new.png)  
 - [2020-10-25-昨天-1024-剪了一个视频，梳理了一下计算机的发展史](https://www.v2ex.com/t/718314) ![](assets/new.png)  
 - [2020-10-25-整理了一份-Linux-常用命令参考手册](https://www.v2ex.com/t/718312) ![](assets/new.png)  
@@ -1091,8 +1093,6 @@
 - [2020-10-24-mac-端有好用的蓝光播放器吗？支持-4k-的](https://www.v2ex.com/t/718296) ![](assets/new.png)  
 - [2020-10-24-安卓原生系统，-FQ-十几分钟就自动断掉，然后就怎么也连不上。然后再重启就又能连上一次，然后往复。](https://www.v2ex.com/t/718295) ![](assets/new.png)  
 - [2020-10-24-拿到滴滴口头-offer，但是价格过低，不太想去了，想征求一下大家的意见？](https://www.v2ex.com/t/718294) ![](assets/new.png)  
-- [2020-10-24-flutter-上推送用什么比较好？最好可以支持国内外用户都支持](https://www.v2ex.com/t/718293) ![](assets/new.png)  
-- [2020-10-24-使用-tmux-popup-+-fzf-tab-实现-zsh-悬浮补全菜单](https://www.v2ex.com/t/718292) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,15 +1145,15 @@
 - [2020-10-25-从-“等等”-到-“秒开”-再到-“直开”，是什么让闲鱼社区相见恨晚？](https://toutiao.io/k/vzuul55) ![](assets/new.png)  
 - [2020-10-25-编码之路，与君共勉。](https://toutiao.io/k/gqw42ap) ![](assets/new.png)  
 - [2020-10-25-顺藤摸瓜：用单元测试读懂-Vue-3-中的-defineComponent](https://toutiao.io/k/jjf745r) ![](assets/new.png)  
-- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-25-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
 - [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
-- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
 - [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-25-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
 - [2020-10-25-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
-- [2020-10-25-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-25-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
 - [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

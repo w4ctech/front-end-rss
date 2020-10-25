@@ -16874,6 +16874,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "build 了一天，好烦",
+        "link": "https://www.v2ex.com/t/718496",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "罗技蓝牙键盘 k380 无法在 iPad 上使用 Rime 输入法的小鹤双拼",
+        "link": "https://www.v2ex.com/t/718494",
+        "date": "2020-10-25"
+      },
+      {
         "title": "招 Python 远程兼职五人",
         "link": "https://www.v2ex.com/t/718491",
         "date": "2020-10-25"
@@ -17062,16 +17072,6 @@
         "title": "iCloud 照片是使用的时候就会自动下载原图以供使用吗？",
         "link": "https://www.v2ex.com/t/718447",
         "date": "2020-10-25"
-      },
-      {
-        "title": "Adobe Cloud 全系产品免费 2 年，无需验证学生身份",
-        "link": "https://www.v2ex.com/t/718445",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "Authing 产品双周动态（10.12-10.24)",
-        "link": "https://www.v2ex.com/t/718444",
-        "date": "2020-10-25"
       }
     ]
   },
@@ -17238,13 +17238,28 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-25"
       },
       {
@@ -17253,8 +17268,8 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-25"
       },
       {
@@ -17268,23 +17283,8 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
-        "link": "https://toutiao.io/k/lxcx8vb",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-25"
       },
       {
@@ -17293,8 +17293,8 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-25"
       },
       {
@@ -17303,8 +17303,8 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-25"
       },
       {

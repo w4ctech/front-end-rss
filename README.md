@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-25 09:32:45，:rocket: 更新条数: +3501， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-25 09:41:03，:rocket: 更新条数: +3500， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,6 +1053,7 @@
 </summary>
 
 
+- [2020-10-25-租房难](https://www.v2ex.com/t/718401) ![](assets/new.png)  
 - [2020-10-25-针对-Apple-Care-+-咨询了下客服的结果。](https://www.v2ex.com/t/718398) ![](assets/new.png)  
 - [2020-10-25-社招-美团-Java-/iOS/android/前端/数据开发](https://www.v2ex.com/t/718397) ![](assets/new.png)  
 - [2020-10-25-话说-Python-调用-OCR-有什么比较成熟的方案吗？](https://www.v2ex.com/t/718396) ![](assets/new.png)  
@@ -1072,7 +1073,6 @@
 - [2020-10-25-一打开腾讯视频显示器就黑屏](https://www.v2ex.com/t/718375) ![](assets/new.png)  
 - [2020-10-25-求推荐一个能定制建筑图纸地方](https://www.v2ex.com/t/718373) ![](assets/new.png)  
 - [2020-10-25-12-真的好轻啊，拿着好舒服](https://www.v2ex.com/t/718372) ![](assets/new.png)  
-- [2020-10-25-总结了下过去几年的工作，制定了个五年计划。](https://www.v2ex.com/t/718371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,16 +1125,16 @@
 - [2020-10-25-Flink-State-误用之痛，竟然-90%-以上的-Flink-开发都不懂](https://toutiao.io/k/8nbizua) ![](assets/new.png)  
 - [2020-10-25-编码之路，与君共勉。](https://toutiao.io/k/gqw42ap) ![](assets/new.png)  
 - [2020-10-25-顺藤摸瓜：用单元测试读懂-Vue-3-中的-defineComponent](https://toutiao.io/k/jjf745r) ![](assets/new.png)  
-- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-25-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-10-25-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
 - [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
 - [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-25-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-25-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-25-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-25-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

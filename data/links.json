@@ -16869,6 +16869,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "收个京东 Plus 会员",
+        "link": "https://www.v2ex.com/t/718415",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "请问各位大佬们，没有 root 的情况下，能用 xposed 吗？",
+        "link": "https://www.v2ex.com/t/718414",
+        "date": "2020-10-25"
+      },
+      {
         "title": "大家 iPhone 11 贴什么膜啊？",
         "link": "https://www.v2ex.com/t/718413",
         "date": "2020-10-25"
@@ -17021,11 +17031,6 @@
       {
         "title": "苹果做 Apple Care 是亏钱的吗？",
         "link": "https://www.v2ex.com/t/718366",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "iphone12 双卡问题",
-        "link": "https://www.v2ex.com/t/718364",
         "date": "2020-10-25"
       }
     ]
@@ -17193,38 +17198,8 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-25"
       },
       {
@@ -17233,23 +17208,8 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-25"
       },
       {
@@ -17258,8 +17218,53 @@
         "date": "2020-10-25"
       },
       {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-25"
+      },
+      {
         "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
         "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-25"
       },
       {
@@ -17274,6 +17279,91 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "聚焦新基建,腾讯安全携手GeekPwn把脉产业安全前沿动态",
+        "link": "https://sec.thief.one/article_content?a_id=5d85eac1921cfdbeb64588cf73be648a",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "工控实验箱之工控安全演示及防护建议",
+        "link": "https://sec.thief.one/article_content?a_id=6eb6817cc1efe49ca74399586f719f15",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "​在招|悬镜安全工程师与产销经理等7大岗位高薪诚聘贤才",
+        "link": "https://sec.thief.one/article_content?a_id=4b81bdc1d613c0661760cc18bb57e9eb",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "第二届云安全挑战赛落幕,九大云安全趋势重磅发布",
+        "link": "https://sec.thief.one/article_content?a_id=b551f2d306ce31c1ebe453d0a012f7b5",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "CVE-2020-16898 Windows tcp/ip远程代码执行漏洞复现",
+        "link": "https://sec.thief.one/article_content?a_id=ef98357e682c5c8d7bef3f22057383c1",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "你愿意为他们关掉“倍速”吗?",
+        "link": "https://sec.thief.one/article_content?a_id=fd0a68686f5e1dcd32b0c7f22413f15c",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "一次简单的内网渗透靶场练习",
+        "link": "https://sec.thief.one/article_content?a_id=41061f7e9aca251349d38910602ebd38",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "【视频】|  Python:字符串内置函数之大小写",
+        "link": "https://sec.thief.one/article_content?a_id=b4e6e1a311baa70dc8c78b851e752d0e",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "要交出生证明的免费奶粉,你还敢喝吗?",
+        "link": "https://sec.thief.one/article_content?a_id=9feb6593f0876ee09c5c6649360825c2",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "了不起的程序员们",
+        "link": "https://sec.thief.one/article_content?a_id=054c571d3be3f857affaaed36d4f025b",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "从美国顶尖信息技术咨询公司博思艾伦报告看俄罗斯网络作战",
+        "link": "https://sec.thief.one/article_content?a_id=e7b73aca356debb26db0e365e9c048b4",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "《最受欢迎的女友职业排行榜Top10》",
+        "link": "https://sec.thief.one/article_content?a_id=8b1b42e8fa83e7bde9f7de3b5b657c5d",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "这篇博士毕业论文致谢句句诛心......",
+        "link": "https://sec.thief.one/article_content?a_id=da6de4469b8d8097d676def583b230b6",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "美国对5个伊朗实体实施新制裁 理由:干预美国大选",
+        "link": "https://sec.thief.one/article_content?a_id=e49176672ee9c5bc6dbd1ac3018c1a79",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "美国指控俄罗斯黑客组织参与多项网络攻击行动",
+        "link": "https://sec.thief.one/article_content?a_id=a0bda53e5a50d481840da98cf8d22976",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "第二届云安全挑战赛落幕,九大云安全趋势重磅发布",
+        "link": "https://sec.thief.one/article_content?a_id=e582b024e04e74901643da2ef91bea8c",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "【安全圈】科普:常说的黑客守则到底有哪些?",
+        "link": "https://sec.thief.one/article_content?a_id=e281b9044636450bbb1215591109dfb1",
+        "date": "2020-10-24"
+      },
       {
         "title": "看雪2020第四届安全开发者峰会现场花絮",
         "link": "https://sec.thief.one/article_content?a_id=338d56bb0cc115a98fbddbcbadb70279",
@@ -17432,6 +17522,11 @@
       {
         "title": "超级CSO | 马民虎:网安发展,法律必行",
         "link": "https://sec.thief.one/article_content?a_id=634d6e96a291451182c10826958f53f7",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "SQL注入速查笔记",
+        "link": "https://sec.thief.one/article_content?a_id=474e871128f7e403ab8c08c6fb096992",
         "date": "2020-10-23"
       },
       {
@@ -17682,96 +17777,6 @@
       {
         "title": "分析师认为,尽管存在抛售但以太坊牛市才刚刚开始",
         "link": "https://sec.thief.one/article_content?a_id=5a6db2ba9df52a63d138e81f4a97b4ce",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "K神手札:比特币暴涨创年底新高,主流币能否补涨成关键",
-        "link": "https://sec.thief.one/article_content?a_id=15e7bdaf4cb42bb1ea920656bd448ad6",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "Atlassian Jira信息泄露漏洞CVE-2020-14181",
-        "link": "https://sec.thief.one/article_content?a_id=fe61d7f82d407df32d338a528c8fcb9b",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "蔓灵花APT组织利用恶意文档攻击国内研究机构",
-        "link": "https://sec.thief.one/article_content?a_id=6a9ac50dfaa9aac0d4e4a92bad45ea71",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "一款爆红的开源爬虫工具箱",
-        "link": "https://sec.thief.one/article_content?a_id=634146c11fe7d311c5454df27e6bcdc2",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "赠书福利 | 《Python安全攻防:渗透测试实战指南》",
-        "link": "https://sec.thief.one/article_content?a_id=25e852127b16f4ebf909b4f5c9309245",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "月薪5千,睡后收入5万:不是你不会赚钱,而是你赚钱的方式有问题.",
-        "link": "https://sec.thief.one/article_content?a_id=7ad967fe9acec1dba92d42f6260c28d2",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "NSA发布中国黑客最常用TOP25漏洞",
-        "link": "https://sec.thief.one/article_content?a_id=034fb1912b71d55dfc0e60d6e88f45ea",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "WebLogic Server 高危安全漏洞风险提示(10月)",
-        "link": "https://sec.thief.one/article_content?a_id=56feca13f64058d2300617b3ac97f63c",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "“深度伪造”的第一个大规模应用:色情机器人",
-        "link": "https://sec.thief.one/article_content?a_id=b2a99628348bddfbfd0108a8c2e4b2a4",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "好岗位在招,速来",
-        "link": "https://sec.thief.one/article_content?a_id=b00ed8262f31984fbbce56eb37161831",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "蔓灵花APT组织利用恶意CHM文档针对国内研究机构的攻击活动分析",
-        "link": "https://sec.thief.one/article_content?a_id=0fd9a3f22994da933a0aa23a9ed32edf",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "NSA公布国内被高频利用的25个漏洞",
-        "link": "https://sec.thief.one/article_content?a_id=8486d213da0221ad1a62dc4e87c8d6e2",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "史上最贵罚单!英国航空公司泄露40万名用户数据 被处以2000万英镑...",
-        "link": "https://sec.thief.one/article_content?a_id=423b30b8ac7393f1790d9960690de620",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "Linux下登录凭证窃取技巧",
-        "link": "https://sec.thief.one/article_content?a_id=bb6fcbdf4e835dcdc3cfc66c6292a3da",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "【视频】|  铲除“黑灰产”",
-        "link": "https://sec.thief.one/article_content?a_id=ab7046606a8682874da8f3664b6fc0de",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "《最受欢迎的男友职业排行榜Top10》",
-        "link": "https://sec.thief.one/article_content?a_id=0f2590649bd6b6117cc9ed8b983e3773",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "中国抓到了勒索病毒作者!!",
-        "link": "https://sec.thief.one/article_content?a_id=1af00247c75a78389d0c3651c68a43b7",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "信息安全界豪华赋能大礼包,附业界资质证书备考指南!",
-        "link": "https://sec.thief.one/article_content?a_id=e2893520296a5dc9f756ba220cd49885",
         "date": "2020-10-22"
       }
     ]

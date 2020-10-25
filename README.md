@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-25 10:49:25，:rocket: 更新条数: +3500， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-25 11:04:22，:rocket: 更新条数: +3501， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,6 +1053,8 @@
 </summary>
 
 
+- [2020-10-25-收个京东-Plus-会员](https://www.v2ex.com/t/718415) ![](assets/new.png)  
+- [2020-10-25-请问各位大佬们，没有-root-的情况下，能用-xposed-吗？](https://www.v2ex.com/t/718414) ![](assets/new.png)  
 - [2020-10-25-大家-iPhone-11-贴什么膜啊？](https://www.v2ex.com/t/718413) ![](assets/new.png)  
 - [2020-10-25-如何防止单位通过网络认证获取我的浏览记录呢？](https://www.v2ex.com/t/718412) ![](assets/new.png)  
 - [2020-10-25-防水涂料](https://www.v2ex.com/t/718411) ![](assets/new.png)  
@@ -1071,8 +1073,6 @@
 - [2020-10-25-都说-12-5G-耗电，用过华为的-5G-的说说耗电不？](https://www.v2ex.com/t/718390) ![](assets/new.png)  
 - [2020-10-25-啥都可以拼之-K8S....](https://www.v2ex.com/t/718388) ![](assets/new.png)  
 - [2020-10-25-macOS-Big-Sur-秋季推出-苹果还赶得上么?](https://www.v2ex.com/t/718385) ![](assets/new.png)  
-- [2020-10-25-被自如宽带搞死了](https://www.v2ex.com/t/718384) ![](assets/new.png)  
-- [2020-10-25-我在想，年年焕新的时候不给苹果旧手机](https://www.v2ex.com/t/718383) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,16 +1125,16 @@
 - [2020-10-25-Flink-State-误用之痛，竟然-90%-以上的-Flink-开发都不懂](https://toutiao.io/k/8nbizua) ![](assets/new.png)  
 - [2020-10-25-编码之路，与君共勉。](https://toutiao.io/k/gqw42ap) ![](assets/new.png)  
 - [2020-10-25-顺藤摸瓜：用单元测试读懂-Vue-3-中的-defineComponent](https://toutiao.io/k/jjf745r) ![](assets/new.png)  
-- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-25-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
-- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-25-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-10-25-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
 - [2020-10-25-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
+- [2020-10-25-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-25-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [2020-10-25-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
-- [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,26 +1146,26 @@
 </summary>
 
 
+- [2020-10-25-聚焦新基建,腾讯安全携手GeekPwn把脉产业安全前沿动态](https://sec.thief.one/article_content?a_id=5d85eac1921cfdbeb64588cf73be648a) ![](assets/new.png)  
+- [2020-10-25-工控实验箱之工控安全演示及防护建议](https://sec.thief.one/article_content?a_id=6eb6817cc1efe49ca74399586f719f15) ![](assets/new.png)  
+- [2020-10-25-​在招|悬镜安全工程师与产销经理等7大岗位高薪诚聘贤才](https://sec.thief.one/article_content?a_id=4b81bdc1d613c0661760cc18bb57e9eb) ![](assets/new.png)  
+- [2020-10-25-第二届云安全挑战赛落幕,九大云安全趋势重磅发布](https://sec.thief.one/article_content?a_id=b551f2d306ce31c1ebe453d0a012f7b5) ![](assets/new.png)  
+- [2020-10-25-CVE-2020-16898-Windows-tcp/ip远程代码执行漏洞复现](https://sec.thief.one/article_content?a_id=ef98357e682c5c8d7bef3f22057383c1) ![](assets/new.png)  
+- [2020-10-25-你愿意为他们关掉“倍速”吗?](https://sec.thief.one/article_content?a_id=fd0a68686f5e1dcd32b0c7f22413f15c) ![](assets/new.png)  
+- [2020-10-25-一次简单的内网渗透靶场练习](https://sec.thief.one/article_content?a_id=41061f7e9aca251349d38910602ebd38) ![](assets/new.png)  
+- [2020-10-25-【视频】|-Python:字符串内置函数之大小写](https://sec.thief.one/article_content?a_id=b4e6e1a311baa70dc8c78b851e752d0e) ![](assets/new.png)  
+- [2020-10-25-要交出生证明的免费奶粉,你还敢喝吗?](https://sec.thief.one/article_content?a_id=9feb6593f0876ee09c5c6649360825c2) ![](assets/new.png)  
+- [2020-10-25-了不起的程序员们](https://sec.thief.one/article_content?a_id=054c571d3be3f857affaaed36d4f025b) ![](assets/new.png)  
+- [2020-10-25-从美国顶尖信息技术咨询公司博思艾伦报告看俄罗斯网络作战](https://sec.thief.one/article_content?a_id=e7b73aca356debb26db0e365e9c048b4) ![](assets/new.png)  
+- [2020-10-25-《最受欢迎的女友职业排行榜Top10》](https://sec.thief.one/article_content?a_id=8b1b42e8fa83e7bde9f7de3b5b657c5d) ![](assets/new.png)  
+- [2020-10-25-这篇博士毕业论文致谢句句诛心......](https://sec.thief.one/article_content?a_id=da6de4469b8d8097d676def583b230b6) ![](assets/new.png)  
+- [2020-10-25-美国对5个伊朗实体实施新制裁-理由:干预美国大选](https://sec.thief.one/article_content?a_id=e49176672ee9c5bc6dbd1ac3018c1a79) ![](assets/new.png)  
+- [2020-10-25-美国指控俄罗斯黑客组织参与多项网络攻击行动](https://sec.thief.one/article_content?a_id=a0bda53e5a50d481840da98cf8d22976) ![](assets/new.png)  
+- [2020-10-24-第二届云安全挑战赛落幕,九大云安全趋势重磅发布](https://sec.thief.one/article_content?a_id=e582b024e04e74901643da2ef91bea8c) ![](assets/new.png)  
+- [2020-10-24-【安全圈】科普:常说的黑客守则到底有哪些?](https://sec.thief.one/article_content?a_id=e281b9044636450bbb1215591109dfb1) ![](assets/new.png)  
 - [2020-10-24-看雪2020第四届安全开发者峰会现场花絮](https://sec.thief.one/article_content?a_id=338d56bb0cc115a98fbddbcbadb70279) ![](assets/new.png)  
 - [2020-10-24-超详细的Python文件操作知识](https://sec.thief.one/article_content?a_id=78a14e44f3e23d81ae5b6887c4d805f4) ![](assets/new.png)  
 - [2020-10-24-向最可爱的人致敬!](https://sec.thief.one/article_content?a_id=26ca93e0d63b1c1af09dcbeb60fab44d) ![](assets/new.png)  
-- [2020-10-24-在看-|-一周网安回顾-2020.10.17~10.23](https://sec.thief.one/article_content?a_id=7f1d317fb628681a1a3627b8b741605d) ![](assets/new.png)  
-- [2020-10-24-「大圣」云沙箱免费服务上线草稿先别发](https://sec.thief.one/article_content?a_id=0245ba0ea2c9478165d87ba1391e6ea3) ![](assets/new.png)  
-- [2020-10-24-GUIBI挖掘机:Kik与SEC达成和解-IOTA明年主网推出Coordicide](https://sec.thief.one/article_content?a_id=c0cf6631105d82e5a4e014978f9292ea) ![](assets/new.png)  
-- [2020-10-24-“程序员是未来世界的改变者,他们正在重塑整个世界.”](https://sec.thief.one/article_content?a_id=19dcdcf108c65e2627b132d217454d95) ![](assets/new.png)  
-- [2020-10-24-包邮送5本《Python安全攻防》](https://sec.thief.one/article_content?a_id=e884d2c42b7778c9fca112ca444d04c0) ![](assets/new.png)  
-- [2020-10-24-#-1024-特别福利-#-致敬改变世界的幕后英雄](https://sec.thief.one/article_content?a_id=0c05ec62c58a34a197228e460c2c3243) ![](assets/new.png)  
-- [2020-10-24-摩根士丹利:PayPal的举措有利于加密采用但不一定有助于盈利](https://sec.thief.one/article_content?a_id=9165b5b8c124d97743314aea857cb6f9) ![](assets/new.png)  
-- [2020-10-24-2020“直通乌镇”全球互联网大赛总决赛名单出炉](https://sec.thief.one/article_content?a_id=1c927ca80debb24337e3ebda27d7c8f3) ![](assets/new.png)  
-- [2020-10-24-工信部提醒:手机这个密码必须设否则危险!](https://sec.thief.one/article_content?a_id=f24b6503be70805f6ac3f0097961d287) ![](assets/new.png)  
-- [2020-10-24-一款SQL自动检查神器,再也不用担心SQL出错了,自动补全、回滚等...](https://sec.thief.one/article_content?a_id=9894e5c1aa3beb186bbd5e095b38aff9) ![](assets/new.png)  
-- [2020-10-24-200个Python数据处理中常用操作](https://sec.thief.one/article_content?a_id=3922700f02eff062c796f6c65b7c3b51) ![](assets/new.png)  
-- [2020-10-24-OSRC助力第二届“补天杯”破解大赛火热进行中](https://sec.thief.one/article_content?a_id=0812c37b491fe13a6440d9a0602a94fa) ![](assets/new.png)  
-- [2020-10-24-《等保2.0体系互联网合规实践白皮书》全文](https://sec.thief.one/article_content?a_id=17785263b8fe8a59c4deaeb99a8d16ad) ![](assets/new.png)  
-- [2020-10-24-1024节特献|加油吧!程序员背后的守护者!](https://sec.thief.one/article_content?a_id=bc7118035c78bea524d88a9c1d227e5a) ![](assets/new.png)  
-- [2020-10-24-1024赠书福利-|-安全从业者的必备神兵利器](https://sec.thief.one/article_content?a_id=f97309e235d69332003fe3e667104656) ![](assets/new.png)  
-- [2020-10-24-六家银行因侵害个人信息被罚逾4000万元](https://sec.thief.one/article_content?a_id=87d0bc70160ad652dd45b986f34c411e) ![](assets/new.png)  
-- [2020-10-24-漏洞赏金猎人盗用他人exp获利](https://sec.thief.one/article_content?a_id=179d2fad9743dc3b4963c93317fb08ed) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

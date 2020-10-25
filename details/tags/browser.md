@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 10:49:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 11:04:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,12 @@
 - [2020-10-25-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-25-MySQL-8-和-PostgreSQL-10-功能对比](https://toutiao.io/k/jlhc45y) 
 - [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
+- [2020-10-25-聚焦新基建,腾讯安全携手GeekPwn把脉产业安全前沿动态](https://sec.thief.one/article_content?a_id=5d85eac1921cfdbeb64588cf73be648a) 
+- [2020-10-25-工控实验箱之工控安全演示及防护建议](https://sec.thief.one/article_content?a_id=6eb6817cc1efe49ca74399586f719f15) 
+- [2020-10-25-​在招|悬镜安全工程师与产销经理等7大岗位高薪诚聘贤才](https://sec.thief.one/article_content?a_id=4b81bdc1d613c0661760cc18bb57e9eb) 
+- [2020-10-25-第二届云安全挑战赛落幕,九大云安全趋势重磅发布](https://sec.thief.one/article_content?a_id=b551f2d306ce31c1ebe453d0a012f7b5) 
+- [2020-10-24-第二届云安全挑战赛落幕,九大云安全趋势重磅发布](https://sec.thief.one/article_content?a_id=e582b024e04e74901643da2ef91bea8c) 
+- [2020-10-24-【安全圈】科普:常说的黑客守则到底有哪些?](https://sec.thief.one/article_content?a_id=e281b9044636450bbb1215591109dfb1) 
 - [2020-10-24-看雪2020第四届安全开发者峰会现场花絮](https://sec.thief.one/article_content?a_id=338d56bb0cc115a98fbddbcbadb70279) 
 - [2020-10-24-包邮送5本《Python安全攻防》](https://sec.thief.one/article_content?a_id=e884d2c42b7778c9fca112ca444d04c0) 
 - [2020-10-24-1024赠书福利-|-安全从业者的必备神兵利器](https://sec.thief.one/article_content?a_id=f97309e235d69332003fe3e667104656) 
@@ -64,6 +70,3 @@
 - [2020-10-22-使用VSCode远程调试恶意Powershell脚本](https://sec.thief.one/article_content?a_id=f119aa46a67a7fdb32974e48e91dd1fe) 
 - [2020-10-22-聚焦车联网安全|M01N战队荣获第三届车联网信息安全技能大赛一等奖](https://sec.thief.one/article_content?a_id=6f6c00a00518eceda8d667b8d4247bc9) 
 - [2020-10-22-感谢信-|-国舜股份网络安全保障能力获海关总署认可](https://sec.thief.one/article_content?a_id=7daa5e0715252d706204465b3c3d0023) 
-- [2020-10-22-赠书福利-|-《Python安全攻防:渗透测试实战指南》](https://sec.thief.one/article_content?a_id=25e852127b16f4ebf909b4f5c9309245) 
-- [2020-10-22-WebLogic-Server-高危安全漏洞风险提示10月](https://sec.thief.one/article_content?a_id=56feca13f64058d2300617b3ac97f63c) 
-- [2020-10-22-信息安全界豪华赋能大礼包,附业界资质证书备考指南!](https://sec.thief.one/article_content?a_id=e2893520296a5dc9f756ba220cd49885) 

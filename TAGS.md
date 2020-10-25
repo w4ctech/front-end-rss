@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-25 03:33:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 03:41:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -454,6 +454,7 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【奇舞周刊】新的浏览器缓存策略变更：舍弃性能、确保安全](https://www.ershicimi.com/p/8bf216ed737dc487bf3cb9e986c89ba3)
+- [【掘金前端】前端性能监控-基础指标定义&计算](https://juejin.im/post/6887108904766046216)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
 

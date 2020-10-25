@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-25 03:33:05，:rocket: 更新条数: +3739， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-25 03:41:24，:rocket: 更新条数: +3738， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -953,11 +953,11 @@
 </summary>
 
 
-- [2020-10-24-1024-奇妙冒险全结局-+-jsliang-自定义算法题目](https://juejin.im/post/6887137383050838023) ![](assets/new.png)  
-- [2020-10-24-react-hooks源代码总体运行初解（一）](https://juejin.im/post/6887099167458459655) ![](assets/new.png)  
-- [2020-10-23-7分钟教你用时间切片让页面看起来更流畅](https://juejin.im/post/6886999010482241550) ![](assets/new.png)  
-- [2020-10-23-python写一个豆瓣短评通用爬虫，快去试试你喜欢的电影吧！](https://juejin.im/post/6886997083052572686) ![](assets/new.png)  
-- [2020-10-23-浏览器与Node环境下的Event-Loop](https://juejin.im/post/6886992599006380045) ![](assets/new.png)  
+- [2020-10-24-最简单的map,filter,forEach,every,some的使用教学](https://juejin.im/post/6887121523200098317) ![](assets/new.png)  
+- [2020-10-24-vue2.x的patch方法和客户端混合（上）](https://juejin.im/post/6887115138042691598) ![](assets/new.png)  
+- [2020-10-24-前端性能监控-基础指标定义&计算](https://juejin.im/post/6887108904766046216) ![](assets/new.png)  
+- [2020-10-24-1024解放双手|技术文档系统生成](https://juejin.im/post/6887096912701292557) ![](assets/new.png)  
+- [2020-08-26-让你快速的掌握JavaScript-数据类型](https://juejin.im/post/6865211899303165959) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,16 +1145,16 @@
 - [2020-10-25-React-v17.0-正式发布](https://toutiao.io/k/ifbjl75) ![](assets/new.png)  
 - [2020-10-25-编码之路，与君共勉。](https://toutiao.io/k/gqw42ap) ![](assets/new.png)  
 - [2020-10-25-顺藤摸瓜：用单元测试读懂-Vue-3-中的-defineComponent](https://toutiao.io/k/jjf745r) ![](assets/new.png)  
-- [2020-10-25-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
 - [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-25-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
-- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-25-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-25-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-25-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
+- [2020-10-25-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

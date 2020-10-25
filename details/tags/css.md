@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 19:39:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 19:47:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -54,6 +54,7 @@
 - [2015-11-02-使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/) 
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
+- [2020-10-24-你可能不知道的Animation动画技巧与细节](https://www.ershicimi.com/p/3b4638609ce03ec9d0e04820cdb12467) 
 - [2020-10-23-奇舞周刊第-369-期：2020-年的-24-个-CSS-新特性](https://www.ershicimi.com/p/556587f29470c1506cce5c93cc7c6127) 
 - [2020-08-31-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325) 
 - [2020-05-03-对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887) 

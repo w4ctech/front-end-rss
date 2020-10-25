@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-25 19:39:18，:rocket: 更新条数: +3740， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-25 19:47:07，:rocket: 更新条数: +3740， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -767,6 +767,9 @@
 </summary>
 
 
+- [2020-10-24-你可能不知道的Animation动画技巧与细节](https://www.ershicimi.com/p/3b4638609ce03ec9d0e04820cdb12467) ![](assets/new.png)  
+- [2020-10-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/13ec290a7662d341693ca2036d2bb696) ![](assets/new.png)  
+- [2020-10-24-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/b9fe3e29f19b2a60da19b4403ed577ee) ![](assets/new.png)  
 - [2020-10-23-奇舞周刊第-369-期：2020-年的-24-个-CSS-新特性](https://www.ershicimi.com/p/556587f29470c1506cce5c93cc7c6127) ![](assets/new.png)  
 - [2020-10-22-新的浏览器缓存策略变更：舍弃性能、确保安全](https://www.ershicimi.com/p/8bf216ed737dc487bf3cb9e986c89ba3) ![](assets/new.png)  
 - [2020-10-22-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/72ff9f28381053d8d4dea3fca3c8bdb4) ![](assets/new.png)  
@@ -784,9 +787,6 @@
 - [2020-10-18-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/e7403e1f1cc352db31c0afb246f24c8f) ![](assets/new.png)  
 - [2020-10-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/62272e05a059d259a90efa55b65fe220) ![](assets/new.png)  
 - [2020-10-17-细数九种常见的设计模式](https://www.ershicimi.com/p/989c4eaed429eacf82112f355612177d) ![](assets/new.png)  
-- [2020-10-17-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/e2e970a3329be2b6d3e440575f82bf25) ![](assets/new.png)  
-- [2020-10-17-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/7842b102ad5925c35150a473cbe8d083) ![](assets/new.png)  
-- [2020-10-16-奇舞周刊第-368-期：Chrome-启用缓存分区机制](https://www.ershicimi.com/p/ad04cb4de9fb9045352dbc23bf5e34e8) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,16 +1145,16 @@
 - [2020-10-25-React-v17.0-正式发布](https://toutiao.io/k/ifbjl75) ![](assets/new.png)  
 - [2020-10-25-Flink-State-误用之痛，竟然-90%-以上的-Flink-开发都不懂](https://toutiao.io/k/8nbizua) ![](assets/new.png)  
 - [2020-10-25-顺藤摸瓜：用单元测试读懂-Vue-3-中的-defineComponent](https://toutiao.io/k/jjf745r) ![](assets/new.png)  
-- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
-- [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-25-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-25-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-25-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
+- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

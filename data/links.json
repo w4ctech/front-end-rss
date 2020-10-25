@@ -13717,12 +13717,12 @@
         "date": "2020-10-25"
       },
       {
-        "title": "捷克单日新增新冠肺炎确诊病例连续五天过万 累计确诊病例超25万例",
+        "title": "捷克单日新增新冠肺炎确诊病例连续五天过万，累计确诊病例超 25 万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6P1huq1Iic2jUcwRpznJ201025&isfromapp=1",
         "date": "2020-10-25"
       },
       {
-        "title": "客机闲置 新加坡航空推出飞机餐厅",
+        "title": "客机闲置，新加坡航空推出飞机餐厅",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBvxWAQS7OQXNnXzc3DKd201025&isfromapp=1",
         "date": "2020-10-25"
       },
@@ -16241,10 +16241,111 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/89",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/89",
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
-    "items": []
+    "items": [
+      {
+        "title": "快手回应装厕所坑位计时器；蚂蚁集团26.99亿元杭州拿地；马云：我最大的经验就是没怎么成功过 | Q",
+        "link": "https://www.ershicimi.com/p/67c571e65585ca0222709709de367faa",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "如果不做程序员，你会做什么？｜1024免费福利",
+        "link": "https://www.ershicimi.com/p/75e4111d52aade0c80a8509e8e0f084e",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "明星开源产品实践历程，从技术构建到营销革命",
+        "link": "https://www.ershicimi.com/p/4f4378b7eb00ddf0fc6b80d47401e7e2",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "全链路数据治理在网易严选的实践",
+        "link": "https://www.ershicimi.com/p/5eb1e7b5d8fdc90971be1c04552cf495",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "最全的GitOps工具选型，30+款工具随你挑",
+        "link": "https://www.ershicimi.com/p/14454a0d8ebf4a75e2c9e121cc359658",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "一入阿里“误终身”？",
+        "link": "https://www.ershicimi.com/p/b4382de1ea95b254c075c74f3542aba4",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "官宣：让创新技术被看见，InfoQ首个年度榜单来了",
+        "link": "https://www.ershicimi.com/p/dd7fb3a4e39b1309149fa467ade155fe",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "谁是无价之猿？测一测你的coding身价（内有大礼）| Q推荐",
+        "link": "https://www.ershicimi.com/p/e177e0ac70fa0fbe914bc0bc6e186cbb",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "充满想象，5G+X解锁云端划时代创新场景",
+        "link": "https://www.ershicimi.com/p/8ba189f041332ab2a6b0f4a53d593269",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "CI/CD 工具选型：Jenkins 还是 GitLab CI/CD？",
+        "link": "https://www.ershicimi.com/p/beade7258b817474afbed706efabff3e",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "针对Python开发人员的10个“疯狂”的项目构想",
+        "link": "https://www.ershicimi.com/p/da4f8eb174de31de95c90495435772d1",
+        "date": "2020-10-23"
+      },
+      {
+        "title": "刚刚，史上最强大华为Mate手机问世：搭载绝版麒麟9000芯片",
+        "link": "https://www.ershicimi.com/p/b11d2206e2348f86f577ad70a4028f76",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "数据湖火了，那数据仓库怎么办？",
+        "link": "https://www.ershicimi.com/p/d36d2967e60b0b8e58e3a567a7d666b4",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "聆听每一位开发者的心“声”：声网Agora 征文大赛圆满落幕",
+        "link": "https://www.ershicimi.com/p/2096e9c51cd5ea79b31b6ad77c458b9c",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "你需要Kubernetes吗？",
+        "link": "https://www.ershicimi.com/p/fa5bb6a4fb3de16026de59d8248bb22a",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "深入浅出Spark：血统（DAG）",
+        "link": "https://www.ershicimi.com/p/d6416239109c54ed4543af106fff508e",
+        "date": "2020-10-22"
+      },
+      {
+        "title": "三周年特惠，全场专栏「首单1元」限时秒杀！｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/0add62516f7d07838f981b5a95532365",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "作为创始人，我不小心删除了生产数据库，还跑路吗？",
+        "link": "https://www.ershicimi.com/p/30474ffb422c03605f96b07607bf1c00",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "华为云“对话机器人”成长指南已送达",
+        "link": "https://www.ershicimi.com/p/fb7c3000bae2169109def3353e338608",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "核心特性全新升级！巨杉数据库5.0将正式发布",
+        "link": "https://www.ershicimi.com/p/f20c135d40a5bf84ed424d4f0c062af1",
+        "date": "2020-10-21"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/893",
@@ -16768,6 +16869,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "面试技术 leader，需要问计算机基础吗？",
+        "link": "https://www.v2ex.com/t/718410",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "ios 上没有一款好用的 markdown 写作工具",
+        "link": "https://www.v2ex.com/t/718408",
+        "date": "2020-10-25"
+      },
+      {
         "title": "GCP 免费时间从 365 天改为了 90 天，还有没有较长时间免费的服务器也用",
         "link": "https://www.v2ex.com/t/718404",
         "date": "2020-10-25"
@@ -16910,26 +17021,6 @@
       {
         "title": "迫于生活，推广服务器佣金给大家",
         "link": "https://www.v2ex.com/t/718362",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "孩子读小学，几个方案有点纠结",
-        "link": "https://www.v2ex.com/t/718360",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "老充电头 18w，拿来充 12 够用吗",
-        "link": "https://www.v2ex.com/t/718359",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "三维空间中不在同一平面的两个向量 A 、B 相加之后的向量必定和 A 在同一平面么？（这个节点下有很多数学高手，故此来碰碰运气）",
-        "link": "https://www.v2ex.com/t/718358",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "咨询一下，现在有什么视频自动翻译出字幕的软件吗？",
-        "link": "https://www.v2ex.com/t/718356",
         "date": "2020-10-25"
       }
     ]
@@ -17097,13 +17188,48 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
         "date": "2020-10-25"
       },
       {
         "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
         "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-25"
       },
       {
@@ -17117,48 +17243,8 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
-        "link": "https://toutiao.io/k/lxcx8vb",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-25"
-      },
-      {
         "title": "[推荐] Redis 集群搭建采坑总结",
         "link": "https://toutiao.io/k/b60qswo",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-25"
       },
       {
@@ -17167,8 +17253,13 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-25"
       }
     ]

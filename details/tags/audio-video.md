@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 10:04:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 10:16:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,5 +87,4 @@
 - [2020-10-09-人工智能从入门到精通系列教学视频免费送](https://www.ershicimi.com/p/4cec892c264b2a104a924d687161940a) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
 - [2020-10-25-一打开腾讯视频显示器就黑屏](https://www.v2ex.com/t/718375) 
-- [2020-10-25-咨询一下，现在有什么视频自动翻译出字幕的软件吗？](https://www.v2ex.com/t/718356) 
 - [2020-10-22-【视频】|-铲除“黑灰产”](https://sec.thief.one/article_content?a_id=ab7046606a8682874da8f3664b6fc0de) 

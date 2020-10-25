@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-25 11:04:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 11:14:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-25-big-sur-与-arm-的期待跟现实](https://www.v2ex.com/t/718416) 
 - [2020-10-25-收个京东-Plus-会员](https://www.v2ex.com/t/718415) 
 - [2020-10-25-请问各位大佬们，没有-root-的情况下，能用-xposed-吗？](https://www.v2ex.com/t/718414) 
 - [2020-10-25-大家-iPhone-11-贴什么膜啊？](https://www.v2ex.com/t/718413) 
@@ -37,4 +38,3 @@
 - [2020-10-25-Composer-2.0-发布了，新版本下载速度和内存使用方面都有了显著优化](https://www.v2ex.com/t/718370) 
 - [2020-10-25-为什么我的-Mac-内网跑不满千兆？](https://www.v2ex.com/t/718368) 
 - [2020-10-25-win-升级-20H2-WSL-无法启动](https://www.v2ex.com/t/718367) 
-- [2020-10-25-苹果做-Apple-Care-是亏钱的吗？](https://www.v2ex.com/t/718366) 

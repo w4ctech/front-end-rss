@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 13:48:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 14:04:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-13-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
 - [2020-10-15-【第2088期】前端中台化，把格局做大——NodeJS-和测试服务探索](https://www.ershicimi.com/p/baa890992490b238913e0594c4008ee7) 
 - [2020-10-14-【第2087期】Promise-V8-源码分析一](https://www.ershicimi.com/p/5db3e76d00682a67114059d440bc6c22) 
 - [2020-10-12-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bb121b910148c883d3d1c8243fa7abdf) 

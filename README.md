@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-25 07:49:08，:rocket: 更新条数: +3732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-25 08:04:42，:rocket: 更新条数: +3731， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1073,6 +1073,10 @@
 </summary>
 
 
+- [2020-10-25-啥都可以拼之-K8S....](https://www.v2ex.com/t/718388) ![](assets/new.png)  
+- [2020-10-25-macOS-Big-Sur-秋季推出-苹果还赶得上么?](https://www.v2ex.com/t/718385) ![](assets/new.png)  
+- [2020-10-25-被自如宽带搞死了](https://www.v2ex.com/t/718384) ![](assets/new.png)  
+- [2020-10-25-我在想，年年焕新的时候不给苹果旧手机](https://www.v2ex.com/t/718383) ![](assets/new.png)  
 - [2020-10-25-腾讯云双-11-活动预热，新机-70-元/1-年起，续费-2-折起，-com-续费-39-元/年](https://www.v2ex.com/t/718382) ![](assets/new.png)  
 - [2020-10-25-请问大家知道-iPhone12-与-iPhone12pro-中间的-25-克重量差距是在哪嘛？](https://www.v2ex.com/t/718381) ![](assets/new.png)  
 - [2020-10-25-日本福岛核废水真的没有解决方案了么](https://www.v2ex.com/t/718380) ![](assets/new.png)  
@@ -1089,10 +1093,6 @@
 - [2020-10-25-Workspace-or-Project?](https://www.v2ex.com/t/718363) ![](assets/new.png)  
 - [2020-10-25-迫于生活，推广服务器佣金给大家](https://www.v2ex.com/t/718362) ![](assets/new.png)  
 - [2020-10-25-孩子读小学，几个方案有点纠结](https://www.v2ex.com/t/718360) ![](assets/new.png)  
-- [2020-10-25-老充电头-18w，拿来充-12-够用吗](https://www.v2ex.com/t/718359) ![](assets/new.png)  
-- [2020-10-25-三维空间中不在同一平面的两个向量-A-、B-相加之后的向量必定和-A-在同一平面么？（这个节点下有很多数学高手，故此来碰碰运气）](https://www.v2ex.com/t/718358) ![](assets/new.png)  
-- [2020-10-25-咨询一下，现在有什么视频自动翻译出字幕的软件吗？](https://www.v2ex.com/t/718356) ![](assets/new.png)  
-- [2020-10-25-开发一个编程语言，类似-Python-，一定要很高的学历才行吗？初中没毕业行吗？要补充什么知识](https://www.v2ex.com/t/718353) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,16 +1145,16 @@
 - [2020-10-25-React-v17.0-正式发布](https://toutiao.io/k/ifbjl75) ![](assets/new.png)  
 - [2020-10-25-编码之路，与君共勉。](https://toutiao.io/k/gqw42ap) ![](assets/new.png)  
 - [2020-10-25-顺藤摸瓜：用单元测试读懂-Vue-3-中的-defineComponent](https://toutiao.io/k/jjf745r) ![](assets/new.png)  
-- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
-- [2020-10-25-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
-- [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-25-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-25-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
-- [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-25-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
+- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-25-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-10-25-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
+- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-25-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

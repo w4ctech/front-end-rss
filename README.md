@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-25 09:49:18，:rocket: 更新条数: +3501， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-25 10:04:20，:rocket: 更新条数: +3481， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-25-习近平向波兰总统杜达致慰问电](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin6Dphjy7avGdLrJHF6CA201025&isfromapp=1) ![](assets/new.png)  
+- [2020-10-25-捷克单日新增新冠肺炎确诊病例连续五天过万-累计确诊病例超25万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6P1huq1Iic2jUcwRpznJ201025&isfromapp=1) ![](assets/new.png)  
+- [2020-10-25-客机闲置-新加坡航空推出飞机餐厅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBvxWAQS7OQXNnXzc3DKd201025&isfromapp=1) ![](assets/new.png)  
 - [2020-10-24-世卫组织：全球新冠肺炎确诊病例超4180万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5TUsW7itiQU6WTOh8qdq201024&isfromapp=1) ![](assets/new.png)  
 - [2020-10-24-保加利亚总理进行自我隔离-因与新冠肺炎确诊官员密切接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAsPC5lW0DhG3EkpsuVyY201024&isfromapp=1) ![](assets/new.png)  
-- [2020-10-24-德国单日新增病例再达历史最高水平-默克尔再呼吁民众减少社交接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRhK5KTckw2oDeGf5LHRn201024&isfromapp=1) ![](assets/new.png)  
-- [2020-10-24-​法国卫生部长：法国新冠肺炎疫情在未来几天甚至几周都将继续加重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizpXcba11tDCAUnykFiqn201024&isfromapp=1) ![](assets/new.png)  
-- [2020-10-24-土耳其伊斯坦布尔市长新冠病毒检测结果呈阳性-全国累计确诊357693例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizsViNrjOOS6ZLgrQ6bcW201024&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -871,26 +871,6 @@
 </summary>
 
 
-- [2020-10-24-快手回应装厕所坑位计时器；蚂蚁集团26.99亿元杭州拿地；马云：我最大的经验就是没怎么成功过-|-Q](https://www.ershicimi.com/p/67c571e65585ca0222709709de367faa) ![](assets/new.png)  
-- [2020-10-24-如果不做程序员，你会做什么？｜1024免费福利](https://www.ershicimi.com/p/75e4111d52aade0c80a8509e8e0f084e) ![](assets/new.png)  
-- [2020-10-24-明星开源产品实践历程，从技术构建到营销革命](https://www.ershicimi.com/p/4f4378b7eb00ddf0fc6b80d47401e7e2) ![](assets/new.png)  
-- [2020-10-24-全链路数据治理在网易严选的实践](https://www.ershicimi.com/p/5eb1e7b5d8fdc90971be1c04552cf495) ![](assets/new.png)  
-- [2020-10-24-最全的GitOps工具选型，30+款工具随你挑](https://www.ershicimi.com/p/14454a0d8ebf4a75e2c9e121cc359658) ![](assets/new.png)  
-- [2020-10-23-一入阿里“误终身”？](https://www.ershicimi.com/p/b4382de1ea95b254c075c74f3542aba4) ![](assets/new.png)  
-- [2020-10-23-官宣：让创新技术被看见，InfoQ首个年度榜单来了](https://www.ershicimi.com/p/dd7fb3a4e39b1309149fa467ade155fe) ![](assets/new.png)  
-- [2020-10-23-谁是无价之猿？测一测你的coding身价（内有大礼）|-Q推荐](https://www.ershicimi.com/p/e177e0ac70fa0fbe914bc0bc6e186cbb) ![](assets/new.png)  
-- [2020-10-23-充满想象，5G+X解锁云端划时代创新场景](https://www.ershicimi.com/p/8ba189f041332ab2a6b0f4a53d593269) ![](assets/new.png)  
-- [2020-10-23-CI/CD-工具选型：Jenkins-还是-GitLab-CI/CD？](https://www.ershicimi.com/p/beade7258b817474afbed706efabff3e) ![](assets/new.png)  
-- [2020-10-23-针对Python开发人员的10个“疯狂”的项目构想](https://www.ershicimi.com/p/da4f8eb174de31de95c90495435772d1) ![](assets/new.png)  
-- [2020-10-22-刚刚，史上最强大华为Mate手机问世：搭载绝版麒麟9000芯片](https://www.ershicimi.com/p/b11d2206e2348f86f577ad70a4028f76) ![](assets/new.png)  
-- [2020-10-22-数据湖火了，那数据仓库怎么办？](https://www.ershicimi.com/p/d36d2967e60b0b8e58e3a567a7d666b4) ![](assets/new.png)  
-- [2020-10-22-聆听每一位开发者的心“声”：声网Agora-征文大赛圆满落幕](https://www.ershicimi.com/p/2096e9c51cd5ea79b31b6ad77c458b9c) ![](assets/new.png)  
-- [2020-10-22-你需要Kubernetes吗？](https://www.ershicimi.com/p/fa5bb6a4fb3de16026de59d8248bb22a) ![](assets/new.png)  
-- [2020-10-22-深入浅出Spark：血统（DAG）](https://www.ershicimi.com/p/d6416239109c54ed4543af106fff508e) ![](assets/new.png)  
-- [2020-10-21-三周年特惠，全场专栏「首单1元」限时秒杀！｜-极客时间](https://www.ershicimi.com/p/0add62516f7d07838f981b5a95532365) ![](assets/new.png)  
-- [2020-10-21-作为创始人，我不小心删除了生产数据库，还跑路吗？](https://www.ershicimi.com/p/30474ffb422c03605f96b07607bf1c00) ![](assets/new.png)  
-- [2020-10-21-华为云“对话机器人”成长指南已送达](https://www.ershicimi.com/p/fb7c3000bae2169109def3353e338608) ![](assets/new.png)  
-- [2020-10-21-核心特性全新升级！巨杉数据库5.0将正式发布](https://www.ershicimi.com/p/f20c135d40a5bf84ed424d4f0c062af1) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,16 +1105,16 @@
 - [2020-10-25-Flink-State-误用之痛，竟然-90%-以上的-Flink-开发都不懂](https://toutiao.io/k/8nbizua) ![](assets/new.png)  
 - [2020-10-25-编码之路，与君共勉。](https://toutiao.io/k/gqw42ap) ![](assets/new.png)  
 - [2020-10-25-顺藤摸瓜：用单元测试读懂-Vue-3-中的-defineComponent](https://toutiao.io/k/jjf745r) ![](assets/new.png)  
+- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
+- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
+- [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [2020-10-25-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
 - [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
-- [2020-10-25-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
-- [2020-10-25-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-25-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

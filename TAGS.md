@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-25 07:04:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 07:15:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -204,6 +204,8 @@
 
 
 
+- [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
+- [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -300,6 +302,7 @@
 - [【前端早读课】【第2093期】权威指南：Serverless-未来十年发展解读（下）](https://www.ershicimi.com/p/bc4302e3edee1ebe024dc40ae993d568)
 - [【前端早读课】【第2092期】权威指南：Serverless-未来十年发展解读（上）](https://www.ershicimi.com/p/9f8301daf2f63233efc3db0009425313)
 - [【前端大全】104道-CSS-面试题，助你查漏补缺（上）](https://www.ershicimi.com/p/3db62b714668217568415be867dc57cc)
+- [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
 - [【前端开发博客】阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497)
 - [【前端大学】【CSS进阶】CSS-颜色体系详解](https://www.ershicimi.com/p/a61f039a8ddf68b686a993b90e740493)
 - [【前端大学】四年前端，竟在这道CSS面试题上跪了](https://www.ershicimi.com/p/77b12c47a3599719d7add23051b45375)
@@ -313,7 +316,6 @@
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
 - [【张鑫旭-鑫空间-鑫生活】flex:0-flex:1-flex:none-flex:auto应该在什么场景下使用？](https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/)
-- [【张鑫旭-鑫空间-鑫生活】研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -389,8 +391,6 @@
 - [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
 - [【前端瓶子君】从技术谈到管理，把系统优化的技术用到企业管理](https://www.ershicimi.com/p/679867be91d9b28c74bc778ed0649d3f)
 - [【程序员成长指北】腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/fd031a7c201d4d2d94d0750bedf5df48)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【奇舞周刊】新的浏览器缓存策略变更：舍弃性能、确保安全](https://www.ershicimi.com/p/8bf216ed737dc487bf3cb9e986c89ba3)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】Composer-2.0-发布了，新版本下载速度和内存使用方面都有了显著优化](https://www.v2ex.com/t/718370)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 07:04:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 07:15:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -28,6 +28,11 @@
 - [2020-10-15-从Vue-SSR原理讲起，教你从零搭建Vue-SSR](https://www.ershicimi.com/p/02d0230104fa7aa75d19789cc242669d) 
 - [2020-10-13-Vue-第一次-commit-原来是这个样子](https://www.ershicimi.com/p/80264d3035f30f101b4ca738bec5ce9a) 
 - [2020-10-12-Vue-项目中各种痛点问题及方案](https://www.ershicimi.com/p/fa433b76efe757af442c5e635cee8716) 
+- [2020-06-17-视频蒋豪群聊聊Vue-3-周边项目](https://www.ershicimi.com/p/2a12d97dd7bb04af90078ddf2b9f196d) 
+- [2020-06-08-Vue3三连发，这期聊聊Vue-3周边项目](https://www.ershicimi.com/p/97695ac09543799ef0ccda9e2479572e) 
+- [2020-04-27-视频Vue.js-3.0-什么时候可以投入生产使用](https://www.ershicimi.com/p/62da65e218585b265a4ddc89ca674b0b) 
+- [2020-04-20-尤雨溪约你聊聊Vue.js-3.0-Beta](https://www.ershicimi.com/p/6f88eda2cef2ca14858c173412919f36) 
+- [2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) 
 - [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
 - [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
@@ -50,7 +55,6 @@
 - [2020-10-09-vue中Axios的封装和API接口的管理](https://www.ershicimi.com/p/55cc54ba901b917e120a00f1151823a2) 
 - [2020-09-29-Vue3+TypeScript-完整项目上手教程](https://www.ershicimi.com/p/ae75eca510f83b07000b4a9d70a66173) 
 - [2020-10-14-Vue.js-作者尤雨溪：TypeScript-与-JavaScript-并行才切合实际！](https://www.ershicimi.com/p/65f8261d5a8e6be4d73ab7529202d452) 
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-10-20-使用Vue3重构vue2项目](https://www.ershicimi.com/p/039250c502ea25ee457a2dcf39657851) 
 - [2020-10-21-大厂面试必备，Vue框架的最佳实践与源码！](https://www.ershicimi.com/p/899cf8ef6e8c891110c447e6cf4560fd) 
 - [2020-10-15-从Vue-SSR原理讲起，教你从零搭建Vue-SSR](https://www.ershicimi.com/p/3533c8a0ba1e77273ce26b55c4f1a2dc) 

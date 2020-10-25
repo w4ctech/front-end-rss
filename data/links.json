@@ -18015,6 +18015,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "边学习边写的一款动森服装类小程序",
+        "link": "https://www.v2ex.com/t/718311",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "有在制造业上班的程序员吗？",
+        "link": "https://www.v2ex.com/t/718310",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[滴滴出行-北京、杭州、成都、深圳内推] Java /前端/Android/iOS/ PHP /Go/算法/C++/数据等各类职位大量招聘，月 20k-80k，优秀另有期权",
+        "link": "https://www.v2ex.com/t/718309",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "关于超微型主机（电脑棒）的选择",
+        "link": "https://www.v2ex.com/t/718308",
+        "date": "2020-10-25"
+      },
+      {
         "title": "独立开发者真的有那么心酸吗？昨天 1024 节，在一个微信公众号里，看到一篇文章，让我难以入眠。",
         "link": "https://www.v2ex.com/t/718306",
         "date": "2020-10-25"
@@ -18193,31 +18213,6 @@
         "title": "js 异步 http 请求的返回值，如何赋值给一个变量？",
         "link": "https://www.v2ex.com/t/718262",
         "date": "2020-10-24"
-      },
-      {
-        "title": "23 号早上用到现在感受，看了真机打算退了换蓝色",
-        "link": "https://www.v2ex.com/t/718261",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "感觉各大厂公众号发的技术文都非常强，自己技术和这些公司差距特别大",
-        "link": "https://www.v2ex.com/t/718260",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "如何判断在某 APP 外打开网站后跳转",
-        "link": "https://www.v2ex.com/t/718259",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "1024 快乐-来推一波我的情侣头像小程序",
-        "link": "https://www.v2ex.com/t/718258",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "2020 年算法工程师生存现状",
-        "link": "https://www.v2ex.com/t/718257",
-        "date": "2020-10-24"
       }
     ]
   },
@@ -18339,53 +18334,103 @@
         "date": "2020-10-25"
       },
       {
-        "title": "一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
+        "title": "React v17.0 正式发布",
+        "link": "https://toutiao.io/k/ifbjl75",
         "date": "2020-10-25"
       },
       {
-        "title": "1024，节日快乐！",
-        "link": "https://toutiao.io/k/teelwdh",
+        "title": "一道关于 json 和 slice 的题难倒了 80% 的人",
+        "link": "https://toutiao.io/k/2mapo63",
         "date": "2020-10-25"
       },
       {
-        "title": "Go 设计模式（二十）：备忘录模式",
-        "link": "https://toutiao.io/k/517l41s",
+        "title": "Flink State 误用之痛，竟然 90% 以上的 Flink 开发都不懂",
+        "link": "https://toutiao.io/k/8nbizua",
         "date": "2020-10-25"
       },
       {
-        "title": "你真的知道怎么实现一个延迟队列吗？",
-        "link": "https://toutiao.io/k/kqvczix",
+        "title": "MySQL 8 和 PostgreSQL 10 功能对比",
+        "link": "https://toutiao.io/k/jlhc45y",
         "date": "2020-10-25"
       },
       {
-        "title": "Chrome 的小恐龙游戏，被我破解了",
-        "link": "https://toutiao.io/k/wpt2c4d",
+        "title": "Java 即时编译器原理解析及实践",
+        "link": "https://toutiao.io/k/bv3fy59",
         "date": "2020-10-25"
       },
       {
-        "title": "银行数据库迁移至 MySQL 的常见 Q&A 都在这了",
-        "link": "https://toutiao.io/k/6ewmbym",
+        "title": "从 “等等” 到 “秒开” 再到 “直开”，是什么让闲鱼社区相见恨晚？",
+        "link": "https://toutiao.io/k/vzuul55",
         "date": "2020-10-25"
       },
       {
-        "title": "Unix 系统级 IO",
-        "link": "https://toutiao.io/k/2cernwm",
+        "title": "分布式一致性协议 Paxos",
+        "link": "https://toutiao.io/k/lpf2xyk",
         "date": "2020-10-25"
       },
       {
-        "title": "[译] 让 ftrace 的 ring buffer 里的时间戳更精确",
-        "link": "https://toutiao.io/k/2odej6k",
+        "title": "顺藤摸瓜：用单元测试读懂 Vue 3 中的 defineComponent",
+        "link": "https://toutiao.io/k/jjf745r",
         "date": "2020-10-25"
       },
       {
-        "title": "在 Zeppelin 中如何使用 Hive",
-        "link": "https://toutiao.io/k/oy67od8",
+        "title": "编码之路，与君共勉。",
+        "link": "https://toutiao.io/k/gqw42ap",
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
         "date": "2020-10-25"
       },
       {
@@ -18399,63 +18444,13 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-25"
-      },
-      {
         "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
         "link": "https://toutiao.io/k/l6chi61",
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-25"
       }
     ]

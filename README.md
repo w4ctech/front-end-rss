@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-25 23:14:29，:rocket: 更新条数: +3740， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-25 23:27:41，:rocket: 更新条数: +3740， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-25-新疆喀什新增137例无症状感染者-均与此前1例无症状感染者父母所在工厂相关联](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieRGyYrdPTy6oFrid2sbj201025&isfromapp=1) ![](assets/new.png)  
+- [2020-10-25-伊朗单日新增6191例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9iS0MSN9qDJjk9U6ISkK201025&isfromapp=1) ![](assets/new.png)  
+- [2020-10-25-德国新增11176例新冠肺炎确诊病例-累计确诊429181例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikyNmV6vpuBEpzzN0ChCl201025&isfromapp=1) ![](assets/new.png)  
 - [2020-10-25-习近平向波兰总统杜达致慰问电](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin6Dphjy7avGdLrJHF6CA201025&isfromapp=1) ![](assets/new.png)  
 - [2020-10-25-捷克单日新增新冠肺炎确诊病例连续五天过万，累计确诊病例超-25-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6P1huq1Iic2jUcwRpznJ201025&isfromapp=1) ![](assets/new.png)  
-- [2020-10-25-客机闲置，新加坡航空推出飞机餐厅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBvxWAQS7OQXNnXzc3DKd201025&isfromapp=1) ![](assets/new.png)  
-- [2020-10-24-世卫组织：全球新冠肺炎确诊病例超4180万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5TUsW7itiQU6WTOh8qdq201024&isfromapp=1) ![](assets/new.png)  
-- [2020-10-24-保加利亚总理进行自我隔离-因与新冠肺炎确诊官员密切接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAsPC5lW0DhG3EkpsuVyY201024&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,16 +1145,16 @@
 - [2020-10-25-React-v17.0-正式发布](https://toutiao.io/k/ifbjl75) ![](assets/new.png)  
 - [2020-10-25-Flink-State-误用之痛，竟然-90%-以上的-Flink-开发都不懂](https://toutiao.io/k/8nbizua) ![](assets/new.png)  
 - [2020-10-25-顺藤摸瓜：用单元测试读懂-Vue-3-中的-defineComponent](https://toutiao.io/k/jjf745r) ![](assets/new.png)  
-- [2020-10-25-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
-- [2020-10-25-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
-- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-25-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-25-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) ![](assets/new.png)  
 - [2020-10-25-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [2020-10-25-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) ![](assets/new.png)  
-- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-25-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-25-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-25-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
+- [2020-10-25-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) ![](assets/new.png)  
+- [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-25-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-25-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

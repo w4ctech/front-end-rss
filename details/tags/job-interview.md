@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 13:03:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 13:14:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2020-10-24-阿里2021前端技术岗发布+内部面试题参考手册（含P5-P7）](https://www.ershicimi.com/p/6b801e45bb41e76f5322e4057c7eacca) 
 - [2020-10-22-来，一起手撕32个大厂高频面试编程题](https://www.ershicimi.com/p/1fd64e6bed6ee6713001a8f2259af77a) 
@@ -29,7 +28,5 @@
 - [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-10-19-Java-中的-AQS-到底是什么？高级面试必问！](https://www.ershicimi.com/p/333df1b52c7a8072743c190abefd56e7) 
-- [2020-10-25-面试技术-leader，需要问计算机基础吗？](https://www.v2ex.com/t/718410) 
-- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
 - [2020-10-25-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
-- [2020-10-25-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
+- [2020-10-25-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 

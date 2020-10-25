@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 14:39:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 14:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -78,11 +78,11 @@
 - [2020-09-28-深度解读《新版-JavaScript-红宝书高程第四版》](https://www.ershicimi.com/p/2bc90de1c9eeca332a6db945fea20956) 
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-10-21-【JS】723--前端如何优雅的处理类数组对象？](https://www.ershicimi.com/p/441c1fc3a1db4de34962705ba578540a) 
 - [2020-09-21-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/5dec6d20ee78a818f19d8e2aeb310632) 
 - [2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b) 
 - [2020-09-07-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d) 
-- [2020-06-05-修复一个因为-scrollbar-占据空间导致的-bug](https://www.ershicimi.com/p/85383922e812c3074cd2a37228bec354) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

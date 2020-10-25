@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 14:39:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 14:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -30,7 +30,6 @@
 - [2020-09-13-研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/) 
 - [2020-10-23-奇舞周刊第-369-期：2020-年的-24-个-CSS-新特性](https://www.ershicimi.com/p/556587f29470c1506cce5c93cc7c6127) 
 - [2020-08-31-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325) 
-- [2020-05-03-对-Chrome-Headless-渲染的极致优化](https://www.ershicimi.com/p/750cc36a62dc2f4be88144714fde4887) 
 - [2020-10-07-工作四年的前端不服：面试竟在CSS上跪了-究其原因……](https://www.ershicimi.com/p/6d7caaa510e08cf5b511383c19096d0c) 
 - [2020-10-25-不用找UI，-CSS也能搞定图片效果](https://juejin.im/post/6887564455744372743) 
 - [2020-10-25-译只使用-CSS-进行用户追踪](https://juejin.im/post/6887478219662950414) 

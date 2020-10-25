@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-25 14:39:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 14:47:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -114,7 +114,6 @@
 - [【前端开发】尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/cca97155c343a5ced3fbec98a6e4f233)
 - [【全栈前端精选】Next.js-+-TypeScript-搭建一个简易的博客系统](https://www.ershicimi.com/p/a4add2a32f35e47b9bda2fec84bc56ac)
 - [【程序员成长指北】用TypeScript装饰器实现一个简单的依赖注入](https://www.ershicimi.com/p/65349519ed828ae1ae8efbc13b7b23c1)
-- [【前端e进阶】TypeScript-3.9-升级初体验](https://www.ershicimi.com/p/735e621e01948c8458a4dea2cd00ba0f)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -394,6 +393,8 @@
 - [【政采云前端团队】编写高质量可维护的代码之优化逻辑判断](https://www.ershicimi.com/p/c850d61b03839095711081dc28b375ab)
 - [【前端瓶子君】从技术谈到管理，把系统优化的技术用到企业管理](https://www.ershicimi.com/p/679867be91d9b28c74bc778ed0649d3f)
 - [【程序员成长指北】腾讯新闻前端团队：深入理解前端性能监控](https://www.ershicimi.com/p/fd031a7c201d4d2d94d0750bedf5df48)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【奇舞周刊】新的浏览器缓存策略变更：舍弃性能、确保安全](https://www.ershicimi.com/p/8bf216ed737dc487bf3cb9e986c89ba3)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -491,7 +492,6 @@
 
 
 
-- [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【InfoQ】最全的GitOps工具选型，30+款工具随你挑](https://www.ershicimi.com/p/14454a0d8ebf4a75e2c9e121cc359658)
 - [【InfoQ】CI/CD-工具选型：Jenkins-还是-GitLab-CI/CD？](https://www.ershicimi.com/p/beade7258b817474afbed706efabff3e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)

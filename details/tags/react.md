@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 14:39:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 14:47:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -33,9 +33,6 @@
 - [2020-10-13-最受大厂宠爱的-React，厉害在哪？](https://www.ershicimi.com/p/1a8ed17bef43f9bb4797cbba6efdb9b0) 
 - [2020-10-18-【重构】使用Hooks让代码更易于变更](https://www.ershicimi.com/p/c33d198602af6bad3ac24041395f44d0) 
 - [2020-10-09-能读React源码的人，很吃香！](https://www.ershicimi.com/p/592ed6d488321e33fbf34051082457f1) 
-- [2020-08-21-聊聊两个状态管理库-Redux-&-Recoil](https://www.ershicimi.com/p/29fec6b9d5024568e2bd71f12ab459ec) 
-- [2020-07-19-「-思考-」-React-Hooks-的设计哲学](https://www.ershicimi.com/p/a06a740b0c554e7a4bf3accaa37913eb) 
-- [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-10-19-为什么React还是比Vue受欢迎？](https://www.ershicimi.com/p/4b23862b90ebde4f3857ad5714e0e710) 
 - [2020-10-13-困扰前端工程师的-React-问题，答案都在这了！](https://www.ershicimi.com/p/d053641b8e46ee2805ad1bf1692c69b7) 
 - [2020-10-09-只会-React-的那些人，现在怎么样了？](https://www.ershicimi.com/p/32266a9785744889df60e11625383ba1) 

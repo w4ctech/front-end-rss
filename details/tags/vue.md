@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 05:14:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 05:28:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -21,9 +21,6 @@
 - [2020-10-17-Vue项目布署后，刷新页面404的真正原因找到了](https://www.ershicimi.com/p/d13e92bade55ee72c8aecda78baead05) 
 - [2020-10-14-Taro-支持使用-Vue3-开发小程序](https://www.ershicimi.com/p/e6caac2ff77bd19f2c9fc5fbdf0b28fc) 
 - [2020-10-16-【第2089期】从编译过程，理解-Vue3-静态节点提升过程](https://www.ershicimi.com/p/6fcff7e08e12a4bb29479bb98ac2e6e6) 
-- [2020-10-19-Vue-中-Axios-的封装和-API-接口的管理](https://www.ershicimi.com/p/40440035451f28d499a0a4e120fc77f9) 
-- [2020-10-14-VUE+ElementUI-后台管理项目经验与技巧分享，金九银十跳槽必看！](https://www.ershicimi.com/p/a2a0ac9b5e8ee358a574a8e42879189d) 
-- [2020-10-13-让-Vue3-Composition-API-存在于你-Vue-以外的项目中](https://www.ershicimi.com/p/97b383dd077f6f17b0e038fec301ab8c) 
 - [2020-10-16-大家都在关注-Vue-3，其实尤大还搞了个这玩意](https://www.ershicimi.com/p/2a8753084634bda0952fffc0f8fd47cf) 
 - [2020-10-15-从Vue-SSR原理讲起，教你从零搭建Vue-SSR](https://www.ershicimi.com/p/02d0230104fa7aa75d19789cc242669d) 
 - [2020-10-13-Vue-第一次-commit-原来是这个样子](https://www.ershicimi.com/p/80264d3035f30f101b4ca738bec5ce9a) 

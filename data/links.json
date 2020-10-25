@@ -14171,108 +14171,7 @@
     "rss": "https://rss.itggg.cn/wechat/ershicimi/65",
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
-    "items": [
-      {
-        "title": "104道 CSS 面试题，助你查漏补缺（上）",
-        "link": "https://www.ershicimi.com/p/3db62b714668217568415be867dc57cc",
-        "date": "2020-10-24"
-      },
-      {
-        "title": "80% 前端开发者都会有这样的错觉…",
-        "link": "https://www.ershicimi.com/p/e1f1e89b7365c4b9ea6df0d993620db2",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "Chrome 86 新功能解读",
-        "link": "https://www.ershicimi.com/p/8a19e5941cf3dcf9d81b365ca7aaa4d6",
-        "date": "2020-10-23"
-      },
-      {
-        "title": "这次彻底搞懂 Promise(手写源码多注释篇)",
-        "link": "https://www.ershicimi.com/p/814fbc1a795cc38bd40f424945e12feb",
-        "date": "2020-10-22"
-      },
-      {
-        "title": "私藏！React 硬核涨薪指南",
-        "link": "https://www.ershicimi.com/p/48a56aee2780f75b799dff32cf35f5d0",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "Map 和 Set 两种数据结构在 ES6 的作用",
-        "link": "https://www.ershicimi.com/p/b9519a1c74b56abc7f810c9597f63f3f",
-        "date": "2020-10-21"
-      },
-      {
-        "title": "ES11新增的这9个新特性，你都掌握了吗？",
-        "link": "https://www.ershicimi.com/p/f65773915b3db9636aa2f04e270eea9d",
-        "date": "2020-10-20"
-      },
-      {
-        "title": "一套代码、多端运行，大前端时代，如何用Flutter制霸全平台？",
-        "link": "https://www.ershicimi.com/p/c357dbc391ed67d45ea04c46b28e04d7",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "Vue 中 Axios 的封装和 API 接口的管理",
-        "link": "https://www.ershicimi.com/p/40440035451f28d499a0a4e120fc77f9",
-        "date": "2020-10-19"
-      },
-      {
-        "title": "2 年前端 7～9 月面试经历总结",
-        "link": "https://www.ershicimi.com/p/7d3519991b02fa7e8a86b2c4ea6d53ff",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "面向对象：秋天当更好，若有你在场",
-        "link": "https://www.ershicimi.com/p/df8c8b0dfd3855037ab15073ff057764",
-        "date": "2020-10-18"
-      },
-      {
-        "title": "React 要重写文档了",
-        "link": "https://www.ershicimi.com/p/d4e9c3cf2445f67a12bb794f67bffa2f",
-        "date": "2020-10-17"
-      },
-      {
-        "title": "贫民窟程序员利用下班 2 小时，薪资涨到 30K",
-        "link": "https://www.ershicimi.com/p/142acc52ea9b20e003311734ce24e750",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "前端如何优雅的处理类数组对象？",
-        "link": "https://www.ershicimi.com/p/ff68d432c6aa930c231ca20ef17d903a",
-        "date": "2020-10-16"
-      },
-      {
-        "title": "手撕 32 个面试高频知识，轻松应对编程题",
-        "link": "https://www.ershicimi.com/p/3062d3890a9735fafd7f92e2f0b8ab67",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "面向对象：希望你和我一样可静可动，携手探索这个世界的美好",
-        "link": "https://www.ershicimi.com/p/517f2a17f305cccf1cf56789ecd65461",
-        "date": "2020-10-15"
-      },
-      {
-        "title": "VUE+ElementUI 后台管理项目经验与技巧分享，金九银十跳槽必看！",
-        "link": "https://www.ershicimi.com/p/a2a0ac9b5e8ee358a574a8e42879189d",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "你需要了解的几种 JavaScript 异常类型",
-        "link": "https://www.ershicimi.com/p/06dd75a065cf099f98747e8317f18ae5",
-        "date": "2020-10-14"
-      },
-      {
-        "title": "让 Vue3 Composition API 存在于你 Vue 以外的项目中",
-        "link": "https://www.ershicimi.com/p/97b383dd077f6f17b0e038fec301ab8c",
-        "date": "2020-10-13"
-      },
-      {
-        "title": "20k 以上面试必问，Webpack 原理和优化",
-        "link": "https://www.ershicimi.com/p/192577e419537de3c829a2d083d33cf3",
-        "date": "2020-10-12"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/29",
@@ -16864,6 +16763,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "咨询一下，现在有什么视频自动翻译出字幕的软件吗？",
+        "link": "https://www.v2ex.com/t/718356",
+        "date": "2020-10-25"
+      },
+      {
         "title": "开发一个编程语言，类似 Python ，一定要很高的学历才行吗？初中没毕业行吗？要补充什么知识",
         "link": "https://www.v2ex.com/t/718353",
         "date": "2020-10-25"
@@ -17032,11 +16936,6 @@
         "title": "关于超微型主机（电脑棒）的选择",
         "link": "https://www.v2ex.com/t/718308",
         "date": "2020-10-25"
-      },
-      {
-        "title": "独立开发者真的有那么心酸吗？昨天 1024 节，在一个微信公众号里，看到一篇文章，让我难以入眠。",
-        "link": "https://www.v2ex.com/t/718306",
-        "date": "2020-10-25"
       }
     ]
   },
@@ -17203,53 +17102,8 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
-        "link": "https://toutiao.io/k/lxcx8vb",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
         "date": "2020-10-25"
       },
       {
@@ -17258,8 +17112,28 @@
         "date": "2020-10-25"
       },
       {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-25"
+      },
+      {
         "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
         "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-25"
       },
       {
@@ -17268,13 +17142,38 @@
         "date": "2020-10-25"
       },
       {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
         "date": "2020-10-25"
       },
       {
         "title": "[推荐] 从面试角度一文学完 Kafka",
         "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-25"
       }
     ]

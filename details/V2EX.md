@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-25 13:30:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 13:35:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-25-iCloud-照片是使用的时候就会自动下载原图以供使用吗？](https://www.v2ex.com/t/718447) 
+- [2020-10-25-Adobe-Cloud-全系产品免费-2-年，无需验证学生身份](https://www.v2ex.com/t/718445) 
 - [2020-10-25-Authing-产品双周动态（10.12-10.24](https://www.v2ex.com/t/718444) 
 - [2020-10-25-Evernote-是-ban-了国内用户登陆-iOS-版-Evernote-客户端吗](https://www.v2ex.com/t/718443) 
 - [2020-10-25-有什么解谜、探险、寻宝类的美剧？](https://www.v2ex.com/t/718442) 
@@ -42,6 +44,3 @@
 - [2020-10-25-GCP-免费时间从-365-天改为了-90-天，还有没有较长时间免费的服务器也用](https://www.v2ex.com/t/718404) 
 - [2020-10-25-租房难](https://www.v2ex.com/t/718401) 
 - [2020-10-25-针对-Apple-Care-+-咨询了下客服的结果。](https://www.v2ex.com/t/718398) 
-- [2020-10-25-社招-美团-Java-/iOS/android/前端/数据开发](https://www.v2ex.com/t/718397) 
-- [2020-10-25-话说-Python-调用-OCR-有什么比较成熟的方案吗？](https://www.v2ex.com/t/718396) 
-- [2020-10-25-寻移动端攻城狮](https://www.v2ex.com/t/718395) 

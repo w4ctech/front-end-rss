@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 07:15:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 07:29:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,8 +43,6 @@
 - [2020-10-24-常见Web安全漏洞（一）](https://juejin.im/post/6887410793059450887) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-25-所以-ConcurrentHashMap-扩容的时候，线程-A-先-puta,b，线程-B-后-geta，线程-B-获得的结果会是-null？](https://www.v2ex.com/t/718346) 
-- [2020-10-25-大佬，有谁知道-oppo-怎么获取-root-权限，我想卸载-oppo-浏览器](https://www.v2ex.com/t/718331) 
-- [2020-10-25-字节跳动安全与风控内推（校招社招+北上杭深）](https://www.v2ex.com/t/718330) 
 - [2020-10-25-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-25-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-25-MySQL-8-和-PostgreSQL-10-功能对比](https://toutiao.io/k/jlhc45y) 

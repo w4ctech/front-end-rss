@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 21:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 21:27:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,8 +30,6 @@
 - [2020-10-23-15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/be7d984b6194414ac120439867f43994) 
 - [2020-10-18-6个可以帮助我们高效开发的Chrome插件](https://www.ershicimi.com/p/220b8598e76b623255df816dfc91ead6) 
 - [2020-10-20-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/bc4c71e4727c15035c4e18bad2b669b6) 
-- [2020-10-06-5000字！带你零距离接触websocket！](https://www.ershicimi.com/p/02c83d96a2d0912591988ef5f3c27220) 
-- [2020-09-25-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/b8847f627e256b9cf954ba5335dc7ae6) 
 - [2020-10-09-5000字！带你零距离接触websocket！](https://www.ershicimi.com/p/e87e80ed7a3e9ca8ea3daf97074c90ab) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 21:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 21:27:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -29,7 +29,6 @@
 - [2020-10-11-Facebook-新一代-React-状态管理库-Recoil](https://www.ershicimi.com/p/ea282628af0167888c64ac5848345076) 
 - [2020-09-24-React-17.0.0-rc.2-版本发布，引入全新的-JSX-转换](https://www.ershicimi.com/p/959d75c0d983c8d19dcb1a71ae409e93) 
 - [2020-10-19-前端渣渣的我再也不敢说我会写React了](https://www.ershicimi.com/p/e410c26525564f01a72fd44c9cdf1275) 
-- [2020-09-28-能读React源码的人，很吃香！](https://www.ershicimi.com/p/2a9e313f96cf7ad52cbd559da8801389) 
 - [2020-10-13-最受大厂宠爱的-React，厉害在哪？](https://www.ershicimi.com/p/1a8ed17bef43f9bb4797cbba6efdb9b0) 
 - [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) 
 - [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) 

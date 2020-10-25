@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 05:28:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 05:30:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2416,6 +2416,9 @@
 - [2020-10-19-同为前端人，为什么别人工资那么高？](https://www.ershicimi.com/p/1fb6b3700d3b0cd01495e2a7320b3c38) 
 - [2020-10-16-【活动】第三届前端艺术家沙龙-"前端职业成长"-专场（深圳）](https://www.ershicimi.com/p/82480951dbdc1cf67ec4c480cf3d41ef) 
 - [2020-10-15-【图书】前端开发核心知识进阶：从夯实基础到突破瓶颈](https://www.ershicimi.com/p/acd63ed122eacce69fe54e9e116f28d2) 
+- [2020-10-23-80%-前端开发者都会有这样的错觉…](https://www.ershicimi.com/p/e1f1e89b7365c4b9ea6df0d993620db2) 
+- [2020-10-20-ES11新增的这9个新特性，你都掌握了吗？](https://www.ershicimi.com/p/f65773915b3db9636aa2f04e270eea9d) 
+- [2020-10-16-贫民窟程序员利用下班-2-小时，薪资涨到-30K](https://www.ershicimi.com/p/142acc52ea9b20e003311734ce24e750) 
 - [2020-10-23-1024程序员节，腾讯课堂这样子玩！炸了...](https://www.ershicimi.com/p/843701881e94c81ca3190365b640d1bf) 
 - [2020-10-23-如何让用户选择是否离开当前页面？](https://www.ershicimi.com/p/75148cc5986b13bf3a6897c3fd657c78) 
 - [2020-10-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/480e3361d5a48aa8d83eb09acba437c4) 

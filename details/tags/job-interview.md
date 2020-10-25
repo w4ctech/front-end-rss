@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 05:28:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 05:30:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -15,6 +15,8 @@
 - [2020-10-21-【招聘】杭州小影科技招前端开发工程师](https://www.ershicimi.com/p/3505ea7f73fce3f32600b4fb5deab0c9) 
 - [2020-10-20-【招聘】字节跳动PaaS-toB前端团队招前端（中、高级）工程师](https://www.ershicimi.com/p/562444bf8242b915ac45c6a81f86368a) 
 - [2020-10-13-【招聘】有赞深圳研发中心招聘高级前端工程师](https://www.ershicimi.com/p/4866f119b5044a23a7225185b4edc9c8) 
+- [2020-10-18-2-年前端-7～9-月面试经历总结](https://www.ershicimi.com/p/7d3519991b02fa7e8a86b2c4ea6d53ff) 
+- [2020-10-15-手撕-32-个面试高频知识，轻松应对编程题](https://www.ershicimi.com/p/3062d3890a9735fafd7f92e2f0b8ab67) 
 - [2020-07-16-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/82d99851264b0cc69199504192ed1665) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2020-10-09-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/be2c70677456a36b2b7d281c4e2a4065) 

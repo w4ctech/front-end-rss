@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 19:14:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 19:26:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -52,7 +52,6 @@
 - [2020-02-05-阿里-ice.work-探秘系列-Auth-组件](https://www.ershicimi.com/p/fded8d3c703156437b5bb420eadd949e) 
 - [2020-10-22-JS双等号比较符（“==”）作用细节](https://www.ershicimi.com/p/d72636d809fab36f59dfe596334e1b8a) 
 - [2020-10-17-ES2020中JavaScript-10个你应该知道的新功能](https://www.ershicimi.com/p/465789059fe1d5cfee3df476216eb59a) 
-- [2020-10-08-Python之父：JS不是竞争对手](https://www.ershicimi.com/p/062db78e78423e7cbc7060635ad185f8) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2020-10-25-H5如何与原生Appios,安卓,RN通信？](https://www.ershicimi.com/p/01c47b6edccdd419349dac488315ca95) 
 - [2020-10-22-了解-JavaScript-模块系统基础知识，搭建自己的库](https://www.ershicimi.com/p/eeb6512d3dc2e3918b93653c2954c197) 

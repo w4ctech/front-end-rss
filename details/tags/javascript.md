@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 15:15:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 15:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -39,6 +39,10 @@
 - [2020-10-21-Map-和-Set-两种数据结构在-ES6-的作用](https://www.ershicimi.com/p/b9519a1c74b56abc7f810c9597f63f3f) 
 - [2020-10-16-前端如何优雅的处理类数组对象？](https://www.ershicimi.com/p/ff68d432c6aa930c231ca20ef17d903a) 
 - [2020-10-14-你需要了解的几种-JavaScript-异常类型](https://www.ershicimi.com/p/06dd75a065cf099f98747e8317f18ae5) 
+- [2020-10-20-Javascript高级程序设计第四版详细测评](https://www.ershicimi.com/p/c3a538362d627ed8826b56905dcdfc12) 
+- [2020-10-17-送-6-本-JavaScript-“红宝书”《JavaScript-高级程序设计（第4版）》](https://www.ershicimi.com/p/8c3c9dc4817e3596c6c481c4c36468e6) 
+- [2020-10-15-JS双等号比较符（“==”）作用细节](https://www.ershicimi.com/p/a210134db5fda43f542248ec3b7bc00e) 
+- [2020-10-14-收藏-|-JS开发必须知道的41个技巧](https://www.ershicimi.com/p/559dea8cf6972b528ee3fae25a9f5b06) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-25 08:48:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 09:04:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-25-针对-Apple-Care-+-咨询了下客服的结果。](https://www.v2ex.com/t/718398) 
+- [2020-10-25-社招-美团-Java-/iOS/android/前端/数据开发](https://www.v2ex.com/t/718397) 
+- [2020-10-25-话说-Python-调用-OCR-有什么比较成熟的方案吗？](https://www.v2ex.com/t/718396) 
+- [2020-10-25-寻移动端攻城狮](https://www.v2ex.com/t/718395) 
 - [2020-10-25-苹果的无耻暴露无遗](https://www.v2ex.com/t/718394) 
 - [2020-10-25-有朋友最近想看看字节的机会吗～](https://www.v2ex.com/t/718393) 
 - [2020-10-25-Mackbook-下个月会上-Tigerlake-吗](https://www.v2ex.com/t/718392) 
@@ -35,6 +39,3 @@
 - [2020-10-25-开发一个编程语言，类似-Python-，一定要很高的学历才行吗？初中没毕业行吗？要补充什么知识](https://www.v2ex.com/t/718353) 
 - [2020-10-25-低成本-nas-方案求解](https://www.v2ex.com/t/718351) 
 - [2020-10-25-各位大哥，想学习一下-HFT（高频交易）](https://www.v2ex.com/t/718349) 
-- [2020-10-25-问个低级的问题：没指纹了吗？指纹登录，支付怎么办？](https://www.v2ex.com/t/718347) 
-- [2020-10-25-所以-ConcurrentHashMap-扩容的时候，线程-A-先-puta,b，线程-B-后-geta，线程-B-获得的结果会是-null？](https://www.v2ex.com/t/718346) 
-- [2020-10-25-古惑狼-4-会登录-Switch-吗？](https://www.v2ex.com/t/718345) 

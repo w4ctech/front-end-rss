@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-25 17:47:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 18:04:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-10-25-京东在沉默中爆发](https://www.ershicimi.com/p/110194c0e2b5493ca77cd22f272587c1) 
+- [2020-10-25-十问华为HarmonyOS：开源一个月，开发者生态建设进度如何？](https://www.ershicimi.com/p/fea2289dde17901c79faad69f33142ca) 
+- [2020-10-25-最后1天，「首单1元」全场专栏限时购！｜-极客时间](https://www.ershicimi.com/p/d59b84877502f44ac86fdc6fe58e7855) 
+- [2020-10-25-海量数据中搜索精华价值：Milvus助力头部企业打造前沿AI搜索](https://www.ershicimi.com/p/17a184d4d7cc6d6f52ce5be9a4bba009) 
+- [2020-10-25-SQL最大竞争对手的简史](https://www.ershicimi.com/p/92b11e9127757f7aea8cdd7c3bbf3d87) 
 - [2020-10-24-快手回应装厕所坑位计时器；蚂蚁集团26.99亿元杭州拿地；马云：我最大的经验就是没怎么成功过-|-Q](https://www.ershicimi.com/p/67c571e65585ca0222709709de367faa) 
 - [2020-10-24-如果不做程序员，你会做什么？｜1024免费福利](https://www.ershicimi.com/p/75e4111d52aade0c80a8509e8e0f084e) 
 - [2020-10-24-明星开源产品实践历程，从技术构建到营销革命](https://www.ershicimi.com/p/4f4378b7eb00ddf0fc6b80d47401e7e2) 
@@ -20,8 +25,3 @@
 - [2020-10-22-数据湖火了，那数据仓库怎么办？](https://www.ershicimi.com/p/d36d2967e60b0b8e58e3a567a7d666b4) 
 - [2020-10-22-聆听每一位开发者的心“声”：声网Agora-征文大赛圆满落幕](https://www.ershicimi.com/p/2096e9c51cd5ea79b31b6ad77c458b9c) 
 - [2020-10-22-你需要Kubernetes吗？](https://www.ershicimi.com/p/fa5bb6a4fb3de16026de59d8248bb22a) 
-- [2020-10-22-深入浅出Spark：血统（DAG）](https://www.ershicimi.com/p/d6416239109c54ed4543af106fff508e) 
-- [2020-10-21-三周年特惠，全场专栏「首单1元」限时秒杀！｜-极客时间](https://www.ershicimi.com/p/0add62516f7d07838f981b5a95532365) 
-- [2020-10-21-作为创始人，我不小心删除了生产数据库，还跑路吗？](https://www.ershicimi.com/p/30474ffb422c03605f96b07607bf1c00) 
-- [2020-10-21-华为云“对话机器人”成长指南已送达](https://www.ershicimi.com/p/fb7c3000bae2169109def3353e338608) 
-- [2020-10-21-核心特性全新升级！巨杉数据库5.0将正式发布](https://www.ershicimi.com/p/f20c135d40a5bf84ed424d4f0c062af1) 

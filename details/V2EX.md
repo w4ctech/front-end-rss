@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-25 17:47:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 18:04:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-25-为什么-go-执行命令时,获取不了-Telnet-的输出](https://www.v2ex.com/t/718498) 
 - [2020-10-25-激光雷达-LIDAR-会不会帮助-12Pro-省电](https://www.v2ex.com/t/718497) 
 - [2020-10-25-build-了一天，好烦](https://www.v2ex.com/t/718496) 
 - [2020-10-25-罗技蓝牙键盘-k380-无法在-iPad-上使用-Rime-输入法的小鹤双拼](https://www.v2ex.com/t/718494) 
@@ -44,4 +45,3 @@
 - [2020-10-25-游戏本推荐](https://www.v2ex.com/t/718453) 
 - [2020-10-25-终于生完了！七斤六量的小棉袄😁](https://www.v2ex.com/t/718451) 
 - [2020-10-25-有必要为了省电用-ios-的暗黑模式么](https://www.v2ex.com/t/718450) 
-- [2020-10-25-请教华为手机如何下载-google-play-的应用？](https://www.v2ex.com/t/718448) 

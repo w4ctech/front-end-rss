@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 06:17:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-26 06:34:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -26,9 +26,9 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
-<td><a href="#2019-01">01月</a></td>
-<td><a href="#2019-02">02月</a></td>
-<td><a href="#2019-03">03月</a></td>
+<td>01月</td>
+<td>02月</td>
+<td>03月</td>
 <td>04月</td>
 <td>05月</td>
 <td><a href="#2019-06">06月</a></td>
@@ -38,24 +38,6 @@
 <td><a href="#2019-10">10月</a></td>
 <td><a href="#2019-11">11月</a></td>
 <td><a href="#2019-12">12月</a></td>
-</tr>
-
-<tr>
-<th colspan="12">2018年</th>
-</tr>
-<tr>
-<td>01月</td>
-<td>02月</td>
-<td>03月</td>
-<td>04月</td>
-<td>05月</td>
-<td>06月</td>
-<td>07月</td>
-<td>08月</td>
-<td>09月</td>
-<td>10月</td>
-<td>11月</td>
-<td><a href="#2018-12">12月</a></td>
 </tr>
 
 </table>
@@ -69,6 +51,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-10-25-10月25日全国新增境外输入新冠20例-新增无症状感染者161例](http://m.china.caixin.com/m/2020-10-26/101618701.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-10-25-【境内疫情观察】新疆喀什新增137例无症状感染者（10月25日）](http://m.database.caixin.com/m/2020-10-26/101618828.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-10-25-大流行手记|10月25日：全球日新增连续3日创新高-两项疫苗临床试验恢复](https://m.caixin.com/m/2020-10-26/101618721.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-10-25-【图集】新疆喀什启动一级响应-老城街道人流稀少](http://m.photos.caixin.com/m/2020-10-26/101618711.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-10-24-新疆喀什新增137例无症状感染者-均与首例感染者父母所在工厂关联](https://m.caixin.com/m/2020-10-25/101618657.html) 
@@ -149,6 +132,9 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-10-26-福建省报告新增境外输入确诊病例1例](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202010/t20201026_5422604.htm) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-10-26-河北25日新增1例境外输入确诊病例-新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir0nVGKqwDpHFAnFaIG9s201026&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-10-26-截至10月25日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202010/df4458c2af934902951003b730fe636f.shtml) 
+- [【Vue中文社区】2020-10-26-干了2年前端，薪资不到20K?这里有提薪33%的机会！](https://www.ershicimi.com/p/ad4a7ff26128a8051886f0d53afe2750) 
+- [【Vue中文社区】2020-10-26-浅析-vue-router-源码和动态路由权限分配](https://www.ershicimi.com/p/541bd1f9d2084381c89ad54b829a53a2) 
+- [【Vue中文社区】2020-10-25-面试官：聊聊对Vue.js框架的理解](https://www.ershicimi.com/p/048e8ffa3ad0a8f0eb9349c88385e193) 
 - [【Vue中文社区】2020-10-24-阿里2021前端技术岗发布+内部面试题参考手册（含P5-P7）](https://www.ershicimi.com/p/6b801e45bb41e76f5322e4057c7eacca) 
 - [【Vue中文社区】2020-10-24-1024程序员们过节，他们都在干这件事....](https://www.ershicimi.com/p/a54813255b6f3446b1b54c39f259cf36) 
 - [【Vue中文社区】2020-10-23-阿里员工想在北京买房，看了存款…网友：我已经替你想好位置了](https://www.ershicimi.com/p/2d8db577333f94e037ce227ecd82d4ab) 
@@ -166,9 +152,6 @@
 - [【Vue中文社区】2020-10-16-干前端2年，还不如刚毕业的薪资高，该辞职吗？](https://www.ershicimi.com/p/5c63d236fcd5bd55c3f648360d8a10bd) 
 - [【Vue中文社区】2020-10-16-收藏！40-个-CSS-布局技巧](https://www.ershicimi.com/p/659f79ce1de4e0fa4c4738a535a33f35) 
 - [【Vue中文社区】2020-10-15-不要再问我跨域的问题了-|-原理剖析](https://www.ershicimi.com/p/a6e36e5bc362a24c8ee1ac36662cde63) 
-- [【Vue中文社区】2020-10-15-一篇文章搞懂前端学习方法与构建知识体系](https://www.ershicimi.com/p/0c62d289a7da3d82a702126a703c324b) 
-- [【Vue中文社区】2020-10-14-“对不起，您的经验与我司前端高级工程师岗位不匹配-”](https://www.ershicimi.com/p/d740dad4d917262c298c3906471c7050) 
-- [【Vue中文社区】2020-10-14-Taro-支持使用-Vue3-开发小程序](https://www.ershicimi.com/p/e6caac2ff77bd19f2c9fc5fbdf0b28fc) 
 - [【前端早读课】2020-10-24-【第2097期】表情包的魔幻之旅](https://www.ershicimi.com/p/1b3e4d844ce7755e3a5604122b7fddb5) 
 - [【前端早读课】2020-10-24-【招聘】小米招聘前端开发工程师【北京、武汉】](https://www.ershicimi.com/p/f09be646f6b677ed9cf9690866ea9464) 
 - [【前端早读课】2020-10-23-【第2096期】前端技术未来三年前瞻性思考](https://www.ershicimi.com/p/21d89f4d1d7f12bbe54eb5761d656b8a) 
@@ -468,7 +451,7 @@
 - [【掘金前端】2020-10-25-Redux-应用与原理](https://juejin.im/post/6887745604173332487) 
 - [【掘金前端】2020-10-25-跨域CORS总结](https://juejin.im/post/6887744164079878151) 
 - [【掘金前端】2020-10-25-潮流前端周刊（第-7-期）](https://juejin.im/post/6887743257191972878) 
-- [【掘金前端】2020-10-25-如何获取全国的省地县数据](https://juejin.im/post/6887734557936713741) 
+- [【掘金前端】2020-10-25-「-volute-」树莓派+Node.js造一个有灵魂的语音助手](https://juejin.im/post/6887684959893454861) 
 - [【知乎日报】2020-10-25-本周知乎热榜-|-华为-Mate40-系列发布，「双十一」预售开始，iPhone-12-的蓝到底是什](https://www.ershicimi.com/p/fce30064e63e05a54522970d601ebd95) 
 - [【知乎日报】2020-10-25-知乎故事-|-班里最「丑」的女生被欺负了](https://www.ershicimi.com/p/278dafe53f7c41fdcac15b7e93c2c4a1) 
 - [【知乎日报】2020-10-25-如果累了不想上班了，我强烈建议你看看这组小漫画](https://www.ershicimi.com/p/ca86e7202ee5a7be940a3389786cd640) 
@@ -489,6 +472,16 @@
 - [【知乎日报】2020-10-19-「哪个瞬间你突然觉得读书真有用？」「面对柜姐推销的时候」](https://www.ershicimi.com/p/d1f738e2ac28310ca4a68c26e3597452) 
 - [【知乎日报】2020-10-19-有哪些知识，没有一定经验的人不会相信？](https://www.ershicimi.com/p/4169f87f99a386d3f699dd2219356913) 
 - [【知乎日报】2020-10-19-知乎故事-|-结婚当天，新郎新娘反悔了](https://www.ershicimi.com/p/6cdcafbbaaab9442d4cd24e7ea50ebdd) 
+- [【V2EX】2020-10-26-求适用.net-的文本编辑器，并且适用-Google-收录或怎样在.net-框架运行-wordpress](https://www.v2ex.com/t/718679) 
+- [【V2EX】2020-10-26-MagSafe-可能会使一次性卡消磁](https://www.v2ex.com/t/718678) 
+- [【V2EX】2020-10-26-双十一入手-hhkb](https://www.v2ex.com/t/718677) 
+- [【V2EX】2020-10-26-出一套图马思特顶配模拟驾驶设备](https://www.v2ex.com/t/718676) 
+- [【V2EX】2020-10-26-一年省-35%，公有云费用优化项目招合作伙伴](https://www.v2ex.com/t/718675) 
+- [【V2EX】2020-10-26-联系了联通客服，发现没有拦截境外来电的业务，请问有什么其他的办法实现吗？](https://www.v2ex.com/t/718674) 
+- [【V2EX】2020-10-26-北京社招-开黑啦-高级-Windows-开发工程师-25k-40k*14-薪](https://www.v2ex.com/t/718671) 
+- [【V2EX】2020-10-26-虚线变道被抓，交警手把手教我“隐藏交规”（上海）](https://www.v2ex.com/t/718670) 
+- [【V2EX】2020-10-26-27-岁开始学前端入行-IT-业来得及吗？](https://www.v2ex.com/t/718669) 
+- [【V2EX】2020-10-26-有没有同时用过-iphone12-和-11promax-的？](https://www.v2ex.com/t/718668) 
 - [【V2EX】2020-10-26-分享个帮助阅读-git-commit-的小脚本](https://www.v2ex.com/t/718666) 
 - [【V2EX】2020-10-26-安徽周边-2-3-天的单人游有什么好地方吗？](https://www.v2ex.com/t/718665) 
 - [【V2EX】2020-10-26-请教下-Spring-大佬，如何做指定类型-Bean-的排序和筛选](https://www.v2ex.com/t/718663) 
@@ -512,15 +505,7 @@
 - [【V2EX】2020-10-26-跑路指数](https://www.v2ex.com/t/718634) 
 - [【V2EX】2020-10-26-有什么推荐的大屏-eink-电子书呢？](https://www.v2ex.com/t/718632) 
 - [【V2EX】2020-10-26-是否应该采取行动，提高-i2ex-的质量呢？](https://www.v2ex.com/t/718631) 
-- [【V2EX】2020-10-26-MD-同步-Apple-Music-资料库又僵着不动了…](https://www.v2ex.com/t/718629) 
-- [【V2EX】2020-10-26-国内做图像识别技术厉害的公司有哪些？](https://www.v2ex.com/t/718626) 
-- [【V2EX】2020-10-26-北京社招-开黑啦-高级前端工程师-20k-30k*14-薪](https://www.v2ex.com/t/718625) 
-- [【V2EX】2020-10-26-迫于不远处开了个饭店/楼上楼下邻居在阳台吸烟，请教新风能有效去除油烟味吗](https://www.v2ex.com/t/718624) 
-- [【V2EX】2020-10-26-iPhone-12-mini/Max-媒体测评何时解禁？](https://www.v2ex.com/t/718623) 
-- [【V2EX】2020-10-26-面试问题RPC-过程，服务注册中心宕机了怎么办？](https://www.v2ex.com/t/718622) 
-- [【V2EX】2020-10-26-租鸡（鸭）青一实践起来如何？](https://www.v2ex.com/t/718621) 
-- [【V2EX】2020-10-26-造轮子时，如何降低别人设计思路的影响？](https://www.v2ex.com/t/718619) 
-- [【V2EX】2020-10-26-杭州/成都/上海-字节跳动-招前端（高级）工程师（可实习）](https://www.v2ex.com/t/718618) 
+- [【技术头条】2020-10-26-从-Storm-迁移到-Flink，美团外卖实时数仓建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13822&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776076%3Futm_content%3Dg_1000193971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-26-四年，如何从前端小白蜕变为前端技术专家？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13821&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776226%3Futm_content%3Dg_1000193970%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-26-2020阿里云双11--领亿元上云津贴大促全攻略-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13820&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776350%3Futm_content%3Dg_1000194509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-26-项目是否健康，做个盘点就够了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13819&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-assess-software-project-healthy%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -540,10 +525,9 @@
 - [【技术头条】2020-10-26-最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-26-Kotlin-正在变得越来越好-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13804&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4JCNz0KJiJiuiABVfpCIzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-26-Koin-in-Android:-更简单的依赖注入-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13803&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJmpP3HbyZvebbrTWhGiPVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-10-26-19-个接私活平台汇总，你有技术就有钱-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13802&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuSxfEP1cVRpaNwtF2gmtfw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2020-10-26-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) 
-- [【开发者头条】2020-10-26-全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297) 
 - [【开发者头条】2020-10-26-华为-18-级工程师总结的-50W-字算法、LeetCode、操作系统、计算机底层刷题必备笔记](https://toutiao.io/k/u76was8) 
+- [【开发者头条】2020-10-26-全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297) 
 - [【开发者头条】2020-10-26-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
 - [【开发者头条】2020-10-26-编程体系结构：Java-面向对象](https://toutiao.io/k/g097j3l) 
 - [【开发者头条】2020-10-26-Golang-单元测试详尽指引](https://toutiao.io/k/aio979l) 
@@ -561,21 +545,21 @@
 - [【开发者头条】2020-10-26-网易严选数据产品实践](https://toutiao.io/k/kvudhzp) 
 - [【开发者头条】2020-10-26-深入浅出-Thread.interrupt](https://toutiao.io/k/oyby5um) 
 - [【开发者头条】2020-10-26-Python-实现：详解-LRU-缓存淘汰算法](https://toutiao.io/k/tcbc5jk) 
-- [【开发者头条】2020-10-26-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) 
-- [【开发者头条】2020-10-26-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) 
-- [【开发者头条】2020-10-26-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) 
-- [【开发者头条】2020-10-26-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
-- [【开发者头条】2020-10-26-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) 
-- [【开发者头条】2020-10-26-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) 
+- [【开发者头条】2020-10-26-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) 
+- [【开发者头条】2020-10-26-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) 
+- [【开发者头条】2020-10-26-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
+- [【开发者头条】2020-10-26-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) 
 - [【开发者头条】2020-10-26-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
 - [【开发者头条】2020-10-26-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) 
-- [【开发者头条】2020-10-26-推荐-建设微服务-API-网关的一些实践](https://toutiao.io/k/4li9ai2) 
 - [【开发者头条】2020-10-26-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
-- [【开发者头条】2020-10-26-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) 
-- [【开发者头条】2020-10-26-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
-- [【开发者头条】2020-10-26-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
-- [【开发者头条】2020-10-26-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) 
 - [【开发者头条】2020-10-26-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
+- [【开发者头条】2020-10-26-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) 
+- [【开发者头条】2020-10-26-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) 
+- [【开发者头条】2020-10-26-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) 
+- [【开发者头条】2020-10-26-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
+- [【开发者头条】2020-10-26-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
+- [【开发者头条】2020-10-26-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) 
+- [【开发者头条】2020-10-26-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) 
 - [【安全热点】2020-10-25-超详细matplotlib基础介绍!!!](https://sec.thief.one/article_content?a_id=42427148465051a68664d845ecbd6825) 
 - [【安全热点】2020-10-25-摸鱼神器!-VS-Code-变身小霸王游戏机](https://sec.thief.one/article_content?a_id=d7e78114074e7935413ea87aa5140571) 
 - [【安全热点】2020-10-25-七日资金流入245亿美金,比特币释放牛市信号?](https://sec.thief.one/article_content?a_id=9d8bbbd84772625839bdc58a1e150baa) 
@@ -2521,8 +2505,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html) 
 - [【前端开发博客】2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
 - [【前端开发博客】2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
-- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [【前端e进阶】2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [【前端e进阶】2020-03-05-2020.03.03-互联网大厂入职薪资更新表](https://www.ershicimi.com/p/7758b0618c2076417db69702ed3bc49d) 
 - [【前端e进阶】2020-03-04-大厂薪资揭秘2020年初版-数据可信度比较高，-大家可以自行参考。](https://www.ershicimi.com/p/039430d577e04cceec7189892fdca5f0) 
@@ -3723,54 +3705,6 @@
 
 
 - [【前端圈】2019-06-21-视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0) 
-- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-03">
- 2019-03
-</summary>
-
-
-- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-02">
- 2019-02
-</summary>
-
-
-- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-01">
- 2019-01
-</summary>
-
-
-- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2018-12">
- 2018-12
-</summary>
-
-
-- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
-- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
-- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

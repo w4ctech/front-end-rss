@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 11:41:21，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 11:47:00，:rocket: 更新条数: +3525， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,12 +64,12 @@
 </summary>
 
 
-- [2020-10-25-10月25日全国新增境外输入新冠20例-新增无症状感染者161例](http://m.china.caixin.com/m/2020-10-26/101618701.html) ![](assets/new.png)  
+- [2020-10-25-最新疫情：全国新冠累计确诊85810例-新增境外输入20例](https://m.caixin.com/m/2020-10-26/101619035.html) ![](assets/new.png)  
+- [2020-10-25-最新海外疫情：新冠感染超4290万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-26/101619039.html) ![](assets/new.png)  
 - [2020-10-25-【境内疫情观察】新疆喀什新增137例无症状感染者（10月25日）](http://m.database.caixin.com/m/2020-10-26/101618828.html) ![](assets/new.png)  
 - [2020-10-25-大流行手记|10月25日：全球日新增连续3日创新高-两项疫苗临床试验恢复](https://m.caixin.com/m/2020-10-26/101618721.html) ![](assets/new.png)  
 - [2020-10-25-【图集】新疆喀什启动一级响应-老城街道人流稀少](http://m.photos.caixin.com/m/2020-10-26/101618711.html) ![](assets/new.png)  
 - [2020-10-24-新疆喀什新增137例无症状感染者-均与首例感染者父母所在工厂关联](https://m.caixin.com/m/2020-10-25/101618657.html) ![](assets/new.png)  
-- [2020-10-24-最新海外疫情：新冠感染超4247万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-25/101618671.html) ![](assets/new.png)  
 - [2020-10-24-【境内疫情观察】新疆喀什新增1例本土无症状感染者（10月24日）](http://m.database.caixin.com/m/2020-10-25/101618612.html) ![](assets/new.png)  
 - [2020-10-24-大流行手记|10月24日：波兰总统确诊-WHO称全球疫情处“关键时刻”](https://m.caixin.com/m/2020-10-25/101618567.html) ![](assets/new.png)  
 - [2020-10-23-新疆喀什出现1例无症状感染者-正进行全城核酸检测](https://m.caixin.com/m/2020-10-24/101618559.html) ![](assets/new.png)  
@@ -1053,6 +1053,8 @@
 </summary>
 
 
+- [2020-10-26-微信自动推送公众号文章](https://www.v2ex.com/t/718806) ![](assets/new.png)  
+- [2020-10-26-有哪些适合新手的折腾项目？](https://www.v2ex.com/t/718805) ![](assets/new.png)  
 - [2020-10-26-为啥-Python-里面这么多-green-库,-比如-greenlet、green-unicorn……有啥讲究么-习惯、文化上?](https://www.v2ex.com/t/718804) ![](assets/new.png)  
 - [2020-10-26-月底了，有多京东运费券的吗？](https://www.v2ex.com/t/718803) ![](assets/new.png)  
 - [2020-10-26-在自己本地训练出一个-bert-预测模型，在云服务器需要购买怎么样的配置？](https://www.v2ex.com/t/718802) ![](assets/new.png)  
@@ -1071,8 +1073,6 @@
 - [2020-10-26-安卓下-Evernote-app-该怎么登录](https://www.v2ex.com/t/718787) ![](assets/new.png)  
 - [2020-10-26-转行简历该怎么写呢](https://www.v2ex.com/t/718786) ![](assets/new.png)  
 - [2020-10-26-江湖救急！-这个是什么什么格式的证书，如何转换成-pem-?](https://www.v2ex.com/t/718784) ![](assets/new.png)  
-- [2020-10-26-为了方便运营和开发人员检查二维码对应链接的参数正确性，我给你们准备了一个小程序](https://www.v2ex.com/t/718783) ![](assets/new.png)  
-- [2020-10-26-Gmail-是否有区分来源的转发功能？有没有熟悉的](https://www.v2ex.com/t/718782) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,9 +1126,9 @@
 - [2020-10-26-Bypass-安全狗-SQL-注入与-XSS](https://toutiao.io/k/5o6ymst) ![](assets/new.png)  
 - [2020-10-26-77.9K-的-Axios-项目有哪些值得借鉴的地方](https://toutiao.io/k/3j2zgc1) ![](assets/new.png)  
 - [2020-10-26-Scikit-Learn-中的特征排名与递归特征消除](https://toutiao.io/k/zgieq1k) ![](assets/new.png)  
+- [2020-10-26-处理一次-k8s、Calico-无法分配-podIP-的心路历程](https://toutiao.io/k/21v2hqp) ![](assets/new.png)  
 - [2020-10-26-Apache-Maven-的常用命令行参数](https://toutiao.io/k/44794uh) ![](assets/new.png)  
 - [2020-10-26-快使用-Scriptable-自己开发一个-iPhone-小组件吧](https://toutiao.io/k/cpr39ly) ![](assets/new.png)  
-- [2020-10-26-处理一次-k8s、Calico-无法分配-podIP-的心路历程](https://toutiao.io/k/21v2hqp) ![](assets/new.png)  
 - [2020-10-26-MLP-算法推导小记](https://toutiao.io/k/xm5wyww) ![](assets/new.png)  
 - [2020-10-26-互联网是如何工作的？](https://toutiao.io/k/phlghsu) ![](assets/new.png)  
 - [2020-10-26-Bean-Validation-声明式验证四大级别：字段、属性、容器元素、类](https://toutiao.io/k/9orbwto) ![](assets/new.png)  

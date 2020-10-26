@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-26 16:49:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 16:54:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -207,6 +207,7 @@
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【阮一峰的网络日志】微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】重金求分析一个小程序的登录过程，有源码~](https://www.v2ex.com/t/718844)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -242,6 +243,7 @@
 
 
 
+- [【V2EX】给媳妇攒个主机玩游戏，老哥们看看这个配置怎么样？](https://www.v2ex.com/t/718836)
 - [【安全热点】摸鱼神器!-VS-Code-变身小霸王游戏机](https://sec.thief.one/article_content?a_id=d7e78114074e7935413ea87aa5140571)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -473,6 +475,7 @@
 - [【前端日刊】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b)
 - [【互联网架构师】完美：Docker遇到Intellij-IDEA这个插件，再次解放生产力~](https://www.ershicimi.com/p/1e6599289ddc9d9befc2543bc1adc497)
 - [【JavaScript】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)
+- [【V2EX】nginx-能匹配精准包含父子关系的-location-吗-?](https://www.v2ex.com/t/718815)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -494,6 +497,7 @@
 - [【InfoQ】CI/CD-工具选型：Jenkins-还是-GitLab-CI/CD？](https://www.ershicimi.com/p/beade7258b817474afbed706efabff3e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】有没有类似-gitbook-可以绑定自己域名的网站呢？](https://www.v2ex.com/t/718855)
 - [【技术头条】硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

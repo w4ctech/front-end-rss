@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 00:09:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 00:42:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -92,5 +92,6 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-10-26-一个点错功能树的抖音无水印视频](https://www.v2ex.com/t/718516) 
 - [2020-10-25-想知道-b-站有哪些-Java-的比较好的视频](https://www.v2ex.com/t/718483) 
 - [2020-10-25-【视频】|-Python:字符串内置函数之大小写](https://sec.thief.one/article_content?a_id=b4e6e1a311baa70dc8c78b851e752d0e) 

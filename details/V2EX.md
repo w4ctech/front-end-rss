@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 23:30:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 23:37:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -38,4 +38,3 @@
 - [2020-10-26-字节跳动-EE-部门，急招-SRE-运维研发工程师，-golang-开发工程师-等职位。base-北京，成都。靠谱内推](https://www.v2ex.com/t/718822) 
 - [2020-10-26-MagSafe-充电慢，发热严重的问题，你们遇到了吗？](https://www.v2ex.com/t/718821) 
 - [2020-10-26-offer-选择问题，大家帮忙参谋一下](https://www.v2ex.com/t/718820) 
-- [2020-10-26-nginx-能匹配精准包含父子关系的-location-吗-?](https://www.v2ex.com/t/718815) 

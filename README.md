@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 07:04:30，:rocket: 更新条数: +3510， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 07:15:51，:rocket: 更新条数: +3515， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
@@ -701,6 +701,9 @@
 </summary>
 
 
+- [2020-10-26-微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html) ![](assets/new.png)  
+- [2020-10-23-科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html) ![](assets/new.png)  
+- [2020-10-16-科技爱好者周刊（第-129-期）：创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1050,6 +1053,12 @@
 </summary>
 
 
+- [2020-10-26-google-账号问题](https://www.v2ex.com/t/718697) ![](assets/new.png)  
+- [2020-10-26-周一-mbp-开机，每个应用都要跳动好久才打开，硬盘测速没事，找不到原因。](https://www.v2ex.com/t/718696) ![](assets/new.png)  
+- [2020-10-26-杭州上海-阿里巴巴盒马-Java-开发（内推）](https://www.v2ex.com/t/718695) ![](assets/new.png)  
+- [2020-10-26-iPhone-12-目前新的逻辑分辨率下，偶尔会有软件的部分素材被压缩或拉大，以后会根据新逻辑分辨率优化吗？](https://www.v2ex.com/t/718694) ![](assets/new.png)  
+- [2020-10-26-阿里云急求前端/全栈开发](https://www.v2ex.com/t/718692) ![](assets/new.png)  
+- [2020-10-26-又又又做了个微博历史热搜-存档搜索网站](https://www.v2ex.com/t/718689) ![](assets/new.png)  
 - [2020-10-26-我们开源了一个日志查询的小工具---Dagger-<文末含福利>](https://www.v2ex.com/t/718688) ![](assets/new.png)  
 - [2020-10-26-有没有推荐游戏本的，预算-7,8-千](https://www.v2ex.com/t/718687) ![](assets/new.png)  
 - [2020-10-26-回馈-V2，送一把樱桃红轴的-71-键双模机械键盘](https://www.v2ex.com/t/718683) ![](assets/new.png)  
@@ -1064,12 +1073,6 @@
 - [2020-10-26-虚线变道被抓，交警手把手教我“隐藏交规”（上海）](https://www.v2ex.com/t/718670) ![](assets/new.png)  
 - [2020-10-26-27-岁开始学前端入行-IT-业来得及吗？](https://www.v2ex.com/t/718669) ![](assets/new.png)  
 - [2020-10-26-有没有同时用过-iphone12-和-11promax-的？](https://www.v2ex.com/t/718668) ![](assets/new.png)  
-- [2020-10-26-分享个帮助阅读-git-commit-的小脚本](https://www.v2ex.com/t/718666) ![](assets/new.png)  
-- [2020-10-26-安徽周边-2-3-天的单人游有什么好地方吗？](https://www.v2ex.com/t/718665) ![](assets/new.png)  
-- [2020-10-26-请教下-Spring-大佬，如何做指定类型-Bean-的排序和筛选](https://www.v2ex.com/t/718663) ![](assets/new.png)  
-- [2020-10-26-iOS-Core-Graphics-画圆角矩形的问题](https://www.v2ex.com/t/718662) ![](assets/new.png)  
-- [2020-10-26-iPad-无纸化练字靠谱么？](https://www.v2ex.com/t/718661) ![](assets/new.png)  
-- [2020-10-26-shell-中的-import-能不能支持-as-或-alias-类似功能](https://www.v2ex.com/t/718659) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 07:33:08，:rocket: 更新条数: +3748， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 07:40:31，:rocket: 更新条数: +3745， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1073,7 +1073,10 @@
 </summary>
 
 
-- [2020-10-26-想收个-pencil-一代，家友有出的吗](https://www.v2ex.com/t/718704) ![](assets/new.png)  
+- [2020-10-26-买个平板。](https://www.v2ex.com/t/718712) ![](assets/new.png)  
+- [2020-10-26-腾讯云大学-x-CODING-|-知识分享月直播预告](https://www.v2ex.com/t/718711) ![](assets/new.png)  
+- [2020-10-26-利用-USB-实现的-NUC8-利旧-NAS-方案，求建议-求打醒-送金币](https://www.v2ex.com/t/718707) ![](assets/new.png)  
+- [2020-10-26-如何在-selenium-无头浏览器下实现滑块移动](https://www.v2ex.com/t/718706) ![](assets/new.png)  
 - [2020-10-26-车-东哥-5-折京豆-有上车的吗](https://www.v2ex.com/t/718703) ![](assets/new.png)  
 - [2020-10-26-微信营销平台快速生成框架——KyPHP](https://www.v2ex.com/t/718702) ![](assets/new.png)  
 - [2020-10-26-应届-offer-已开白菜，希望前辈们能给一些建议](https://www.v2ex.com/t/718701) ![](assets/new.png)  
@@ -1090,9 +1093,6 @@
 - [2020-10-26-回馈-V2，送一把樱桃红轴的-71-键双模机械键盘](https://www.v2ex.com/t/718683) ![](assets/new.png)  
 - [2020-10-26-北京社招-开黑啦-高级服务端开发工程师-20k-30k*14-薪](https://www.v2ex.com/t/718682) ![](assets/new.png)  
 - [2020-10-26-求适用.net-的文本编辑器，并且适用-Google-收录或怎样在.net-框架运行-wordpress](https://www.v2ex.com/t/718679) ![](assets/new.png)  
-- [2020-10-26-MagSafe-可能会使一次性卡消磁](https://www.v2ex.com/t/718678) ![](assets/new.png)  
-- [2020-10-26-双十一入手-hhkb](https://www.v2ex.com/t/718677) ![](assets/new.png)  
-- [2020-10-26-出一套图马思特顶配模拟驾驶设备](https://www.v2ex.com/t/718676) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1104,6 +1104,7 @@
 </summary>
 
 
+- [2020-10-26-阿里-双11-同款，流量防卫兵-Sentinel-go-源码解读-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13823&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776066%3Futm_content%3Dg_1000193972%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-26-从-Storm-迁移到-Flink，美团外卖实时数仓建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13822&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776076%3Futm_content%3Dg_1000193971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-26-四年，如何从前端小白蜕变为前端技术专家？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13821&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776226%3Futm_content%3Dg_1000193970%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-26-2020阿里云双11--领亿元上云津贴大促全攻略-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13820&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776350%3Futm_content%3Dg_1000194509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1123,7 +1124,6 @@
 - [2020-10-26-Android-敏感数据泄露引发的思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-26-最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-26-Kotlin-正在变得越来越好-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13804&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4JCNz0KJiJiuiABVfpCIzg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-26-Koin-in-Android:-更简单的依赖注入-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13803&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJmpP3HbyZvebbrTWhGiPVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

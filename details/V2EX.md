@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-26 03:42:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 03:50:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-26-MagSafe-充电器最大的体验优势是握持姿势的改变](https://www.v2ex.com/t/718609) 
 - [2020-10-26-分享一下自己的做的-Python-profiling/debugging/logging-工具-VizTracer](https://www.v2ex.com/t/718607) 
 - [2020-10-26-询问-Pixel-vs-氧-OS-对比](https://www.v2ex.com/t/718606) 
 - [2020-10-26-朋友咸鱼纠纷，求大佬支招](https://www.v2ex.com/t/718605) 
@@ -43,4 +44,3 @@
 - [2020-10-26-实习-微软亚洲研究院-防火墙开发工程师实习生](https://www.v2ex.com/t/718563) 
 - [2020-10-26-Java--互联网大厂](https://www.v2ex.com/t/718561) 
 - [2020-10-26-腰椎间盘突出只能缓解不能根治？](https://www.v2ex.com/t/718560) 
-- [2020-10-26-团队直招：蚂蚁集团，上海八佰伴/双休/极少出差，-Java-平台/大数据/实时计算/数仓，-P6~P8](https://www.v2ex.com/t/718559) 

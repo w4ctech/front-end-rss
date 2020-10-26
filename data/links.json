@@ -16480,6 +16480,11 @@
         "date": "2020-10-25"
       },
       {
+        "title": "快使用Scriptable自己开发一个iPhone小组件吧",
+        "link": "https://juejin.im/post/6887702436304125960",
+        "date": "2020-10-25"
+      },
+      {
         "title": "「 volute 」树莓派+Node.js造一个有灵魂的语音助手",
         "link": "https://juejin.im/post/6887684959893454861",
         "date": "2020-10-25"
@@ -16487,11 +16492,6 @@
       {
         "title": "使用这些思路与技巧，我读懂了多个优秀的开源项目",
         "link": "https://juejin.im/post/6887689159918485511",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "Vue3实战系列：Vue3.0 + Vant3.0 搭建种子项目",
-        "link": "https://juejin.im/post/6887590229692121096",
         "date": "2020-10-25"
       },
       {
@@ -16884,6 +16884,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MagSafe 充电器最大的体验优势是握持姿势的改变",
+        "link": "https://www.v2ex.com/t/718609",
+        "date": "2020-10-26"
+      },
+      {
         "title": "分享一下自己的做的 Python profiling/debugging/logging 工具 VizTracer",
         "link": "https://www.v2ex.com/t/718607",
         "date": "2020-10-26"
@@ -17072,11 +17077,6 @@
         "title": "腰椎间盘突出只能缓解不能根治？",
         "link": "https://www.v2ex.com/t/718560",
         "date": "2020-10-26"
-      },
-      {
-        "title": "团队直招：蚂蚁集团，上海八佰伴/双休/极少出差， Java 平台/大数据/实时计算/数仓， P6~P8",
-        "link": "https://www.v2ex.com/t/718559",
-        "date": "2020-10-26"
       }
     ]
   },
@@ -17198,6 +17198,11 @@
         "date": "2020-10-26"
       },
       {
+        "title": "好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-10-26"
+      },
+      {
         "title": "编程体系结构：Java 面向对象",
         "link": "https://toutiao.io/k/g097j3l",
         "date": "2020-10-26"
@@ -17205,11 +17210,6 @@
       {
         "title": "华为 18 级工程师总结的 50W 字算法、LeetCode、操作系统、计算机底层刷题必备笔记",
         "link": "https://toutiao.io/k/u76was8",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
         "date": "2020-10-26"
       },
       {
@@ -17293,38 +17293,8 @@
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 国庆期间，我造了台计算机",
-        "link": "https://toutiao.io/k/x4os6i7",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
-        "date": "2020-10-26"
-      },
-      {
         "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
         "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-26"
       },
       {
@@ -17333,18 +17303,33 @@
         "date": "2020-10-26"
       },
       {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
+        "date": "2020-10-26"
+      },
+      {
         "title": "[推荐] 从面试角度一文学完 Kafka",
         "link": "https://toutiao.io/k/ugyvu7i",
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
-        "link": "https://toutiao.io/k/lxcx8vb",
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "[推荐] 国庆期间，我造了台计算机",
+        "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-26"
       },
       {
@@ -17358,13 +17343,28 @@
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
         "date": "2020-10-26"
       }
     ]

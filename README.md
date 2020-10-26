@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 03:42:34，:rocket: 更新条数: +3520， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 03:50:12，:rocket: 更新条数: +3520， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -934,9 +934,9 @@
 
 
 - [2020-10-25-精读《设计模式---Prototype-原型模式》](https://juejin.im/post/6887744450584395784) ![](assets/new.png)  
+- [2020-10-25-快使用Scriptable自己开发一个iPhone小组件吧](https://juejin.im/post/6887702436304125960) ![](assets/new.png)  
 - [2020-10-25-「-volute-」树莓派+Node.js造一个有灵魂的语音助手](https://juejin.im/post/6887684959893454861) ![](assets/new.png)  
 - [2020-10-25-使用这些思路与技巧，我读懂了多个优秀的开源项目](https://juejin.im/post/6887689159918485511) ![](assets/new.png)  
-- [2020-10-25-Vue3实战系列：Vue3.0-+-Vant3.0-搭建种子项目](https://juejin.im/post/6887590229692121096) ![](assets/new.png)  
 - [2020-10-25-如何从-0-到-1-搭建性能检测系统](https://juejin.im/post/6887580440803311630) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1053,6 +1053,7 @@
 </summary>
 
 
+- [2020-10-26-MagSafe-充电器最大的体验优势是握持姿势的改变](https://www.v2ex.com/t/718609) ![](assets/new.png)  
 - [2020-10-26-分享一下自己的做的-Python-profiling/debugging/logging-工具-VizTracer](https://www.v2ex.com/t/718607) ![](assets/new.png)  
 - [2020-10-26-询问-Pixel-vs-氧-OS-对比](https://www.v2ex.com/t/718606) ![](assets/new.png)  
 - [2020-10-26-朋友咸鱼纠纷，求大佬支招](https://www.v2ex.com/t/718605) ![](assets/new.png)  
@@ -1072,7 +1073,6 @@
 - [2020-10-26-深圳-大宇无限音乐后台产品经理](https://www.v2ex.com/t/718587) ![](assets/new.png)  
 - [2020-10-26-请教一个数据备份的问题](https://www.v2ex.com/t/718585) ![](assets/new.png)  
 - [2020-10-26-上海-火热招募前端工程师（React/Vue）3-4-名，好机会看过来~](https://www.v2ex.com/t/718584) ![](assets/new.png)  
-- [2020-10-26-10.24-10.25-北京-2-日游](https://www.v2ex.com/t/718583) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,9 +1116,9 @@
 
 
 - [2020-10-26-全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297) ![](assets/new.png)  
+- [2020-10-26-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [2020-10-26-编程体系结构：Java-面向对象](https://toutiao.io/k/g097j3l) ![](assets/new.png)  
 - [2020-10-26-华为-18-级工程师总结的-50W-字算法、LeetCode、操作系统、计算机底层刷题必备笔记](https://toutiao.io/k/u76was8) ![](assets/new.png)  
-- [2020-10-26-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [2020-10-26-Golang-单元测试详尽指引](https://toutiao.io/k/aio979l) ![](assets/new.png)  
 - [2020-10-26-译-构建-Netflix-分布式追踪-tracing-体系](https://toutiao.io/k/nbkgfk1) ![](assets/new.png)  
 - [2020-10-26-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  

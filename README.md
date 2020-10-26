@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 04:42:27，:rocket: 更新条数: +3518， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 04:51:26，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,6 +1053,8 @@
 </summary>
 
 
+- [2020-10-26-有什么推荐的大屏-eink-电子书呢？](https://www.v2ex.com/t/718632) ![](assets/new.png)  
+- [2020-10-26-是否应该采取行动，提高-i2ex-的质量呢？](https://www.v2ex.com/t/718631) ![](assets/new.png)  
 - [2020-10-26-MD-同步-Apple-Music-资料库又僵着不动了…](https://www.v2ex.com/t/718629) ![](assets/new.png)  
 - [2020-10-26-国内做图像识别技术厉害的公司有哪些？](https://www.v2ex.com/t/718626) ![](assets/new.png)  
 - [2020-10-26-北京社招-开黑啦-高级前端工程师-20k-30k*14-薪](https://www.v2ex.com/t/718625) ![](assets/new.png)  
@@ -1071,8 +1073,6 @@
 - [2020-10-26-MagSafe-充电器最大的体验优势是握持姿势的改变](https://www.v2ex.com/t/718609) ![](assets/new.png)  
 - [2020-10-26-分享一下自己的做的-Python-profiling/debugging/logging-工具-VizTracer](https://www.v2ex.com/t/718607) ![](assets/new.png)  
 - [2020-10-26-询问-Pixel-vs-氧-OS-对比](https://www.v2ex.com/t/718606) ![](assets/new.png)  
-- [2020-10-26-朋友咸鱼纠纷，求大佬支招](https://www.v2ex.com/t/718605) ![](assets/new.png)  
-- [2020-10-26-出自用顶配-18-款-15-寸-mbp-i9+32G+512G+560X-4-GB](https://www.v2ex.com/t/718603) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,8 +1132,8 @@
 - [2020-10-26-MLP-算法推导小记](https://toutiao.io/k/xm5wyww) ![](assets/new.png)  
 - [2020-10-26-互联网是如何工作的？](https://toutiao.io/k/phlghsu) ![](assets/new.png)  
 - [2020-10-26-Bean-Validation-声明式验证四大级别：字段、属性、容器元素、类](https://toutiao.io/k/9orbwto) ![](assets/new.png)  
-- [2020-10-26-网易严选数据产品实践](https://toutiao.io/k/kvudhzp) ![](assets/new.png)  
 - [2020-10-26-深入浅出-Thread.interrupt](https://toutiao.io/k/oyby5um) ![](assets/new.png)  
+- [2020-10-26-网易严选数据产品实践](https://toutiao.io/k/kvudhzp) ![](assets/new.png)  
 - [2020-10-26-Python-实现：详解-LRU-缓存淘汰算法](https://toutiao.io/k/tcbc5jk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

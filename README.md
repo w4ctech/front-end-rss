@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 14:42:26，:rocket: 更新条数: +3523， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 14:48:11，:rocket: 更新条数: +3523， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,6 +1053,8 @@
 </summary>
 
 
+- [2020-10-26-北京社招-VMWare-开源数据库-Greenplum-招聘软件工程师](https://www.v2ex.com/t/718838) ![](assets/new.png)  
+- [2020-10-26-推广网站:-阿噗站点](https://www.v2ex.com/t/718837) ![](assets/new.png)  
 - [2020-10-26-给媳妇攒个主机玩游戏，老哥们看看这个配置怎么样？](https://www.v2ex.com/t/718836) ![](assets/new.png)  
 - [2020-10-26-美团打车允许司机不经过乘客确认，单方面修改订单价格，该不该坚持投诉？](https://www.v2ex.com/t/718835) ![](assets/new.png)  
 - [2020-10-26-关于-Type-C-Alt-Mode-的疑问](https://www.v2ex.com/t/718834) ![](assets/new.png)  
@@ -1071,8 +1073,6 @@
 - [2020-10-26-上海/杭州/北京三地可选淘票票20k~40k阿里影业淘票票前端团队招人啦-P6/7-都要](https://www.v2ex.com/t/718814) ![](assets/new.png)  
 - [2020-10-26-裸辞是心态爆炸后的倔强](https://www.v2ex.com/t/718813) ![](assets/new.png)  
 - [2020-10-26-大家对程序员写文档的能力怎么看](https://www.v2ex.com/t/718812) ![](assets/new.png)  
-- [2020-10-26-OUTLOOK-企业邮箱收到大量垃圾邮件，-V2-上有没有人做垃圾邮件关键词库的朋友？](https://www.v2ex.com/t/718811) ![](assets/new.png)  
-- [2020-10-26-现在搞那种车牌识别还有钱途吗？](https://www.v2ex.com/t/718810) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

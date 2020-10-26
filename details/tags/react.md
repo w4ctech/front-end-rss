@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 13:37:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 13:47:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -9,8 +9,6 @@
 
 - [2020-10-19-私藏！React-硬核涨薪指南](https://www.ershicimi.com/p/840cad338a6f222e1bbf6d50299c2cbe) 
 - [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) 
-- [2020-10-21-私藏！React-硬核涨薪指南](https://www.ershicimi.com/p/48a56aee2780f75b799dff32cf35f5d0) 
-- [2020-10-17-React-要重写文档了](https://www.ershicimi.com/p/d4e9c3cf2445f67a12bb794f67bffa2f) 
 - [2020-02-13-工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040) 
 - [2020-02-12-工具控-react-优化里面用到-lodash.memoize](https://www.ershicimi.com/p/8030f9ceac2221818a92f0a24cede590) 
 - [2020-02-11-工具控babel-react-optimize](https://www.ershicimi.com/p/87be70d3d4719eedb42df24f6303ca69) 

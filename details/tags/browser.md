@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 13:37:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 13:47:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,7 +22,6 @@
 - [2020-02-06-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-15-不要再问我跨域的问题了-|-原理剖析](https://www.ershicimi.com/p/a6e36e5bc362a24c8ee1ac36662cde63) 
-- [2020-10-23-Chrome-86-新功能解读](https://www.ershicimi.com/p/8a19e5941cf3dcf9d81b365ca7aaa4d6) 
 - [2020-10-21-面试官：说说你对-options-请求的理解](https://www.ershicimi.com/p/442fe2f069198f2421fe54a457e96ac9) 
 - [2020-10-10-你不知道的-WebSocket](https://www.ershicimi.com/p/e0f12cf3fdca4a6902a6be2dd576d972) 
 - [2020-10-14-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/b8ec5bada8e183c1aba78aa6176b6279) 
@@ -38,7 +37,6 @@
 - [2020-10-25-我敢说，你的登录接口肯定不安全](https://www.ershicimi.com/p/1e53cfba3562adda05b876a5d528b5d1) 
 - [2020-10-23-REST-API-的安全认证，我放弃OAuth-2.0-,选择-JWT-令牌](https://www.ershicimi.com/p/722000be63427a69a603a6e2a07bd6b5) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-10-26-后台管理页面安全](https://www.v2ex.com/t/718828) 
 - [2020-10-26-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-26-Bypass-安全狗-SQL-注入与-XSS](https://toutiao.io/k/5o6ymst) 
 - [2020-10-26-Python-实现：详解-LRU-缓存淘汰算法](https://toutiao.io/k/tcbc5jk) 

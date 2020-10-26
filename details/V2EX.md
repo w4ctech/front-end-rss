@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-26 05:04:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 05:14:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-26-看到微信在-ios14-里面那么执着的想要全相册权限我就更不想给他了](https://www.v2ex.com/t/718637) 
 - [2020-10-26-分享-Golang-Compiler-学习](https://www.v2ex.com/t/718635) 
 - [2020-10-26-跑路指数](https://www.v2ex.com/t/718634) 
 - [2020-10-26-有什么推荐的大屏-eink-电子书呢？](https://www.v2ex.com/t/718632) 
@@ -41,4 +42,3 @@
 - [2020-10-26-有没有，或能不能实现-APP-模块化？](https://www.v2ex.com/t/718590) 
 - [2020-10-26-关于-iphone12-的-5g-问题](https://www.v2ex.com/t/718589) 
 - [2020-10-26-北京-|-Python-全栈开发工程师-|-18---28K](https://www.v2ex.com/t/718588) 
-- [2020-10-26-深圳-大宇无限音乐后台产品经理](https://www.v2ex.com/t/718587) 

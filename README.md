@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 03:15:27，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 03:30:45，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-26-贵州26日起从喀什中高风险地区返黔人员需提供7日内核酸检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCIMdaaoPUop6UNKMo2DM201026&isfromapp=1) ![](assets/new.png)  
 - [2020-10-26-陕西新增2例境外输入确诊病例](http://sxwjw.shaanxi.gov.cn/art/2020/10/26/art_9_73983.html) ![](assets/new.png)  
 - [2020-10-26-福建省报告新增境外输入确诊病例1例](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202010/t20201026_5422604.htm) ![](assets/new.png)  
 - [2020-10-26-河北25日新增1例境外输入确诊病例-新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir0nVGKqwDpHFAnFaIG9s201026&isfromapp=1) ![](assets/new.png)  
 - [2020-10-26-截至10月25日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202010/df4458c2af934902951003b730fe636f.shtml) ![](assets/new.png)  
-- [2020-10-25-全球疫苗免疫联盟执行董事：欢迎中国加入“新冠肺炎疫苗实施计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXMdYRYGtx9P1oTE5qsz4201026&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1053,6 +1053,10 @@
 </summary>
 
 
+- [2020-10-26-阿里巴巴-零售云事业部--Java-资深开发工程师P6/专家P7](https://www.v2ex.com/t/718602) ![](assets/new.png)  
+- [2020-10-26-现在买-macbook-pro-最省钱的方法途径是？](https://www.v2ex.com/t/718600) ![](assets/new.png)  
+- [2020-10-26-为什么-localtunnel-是免费的？或者说-localtunnel-是如何赚钱的？](https://www.v2ex.com/t/718599) ![](assets/new.png)  
+- [2020-10-26-腾讯上海-后台开发工程师招聘](https://www.v2ex.com/t/718597) ![](assets/new.png)  
 - [2020-10-26-发现一个盗取-qq-的钓鱼网站](https://www.v2ex.com/t/718596) ![](assets/new.png)  
 - [2020-10-26-还是上海-另一波火热招募初级-PHP-工程师-1-枚~小伙伴们赶紧哈](https://www.v2ex.com/t/718595) ![](assets/new.png)  
 - [2020-10-26-ios14-新的闹钟界面真难用](https://www.v2ex.com/t/718594) ![](assets/new.png)  
@@ -1069,10 +1073,6 @@
 - [2020-10-26-北京-猿辅导-Infra---高可用系统高级研发工程师](https://www.v2ex.com/t/718579) ![](assets/new.png)  
 - [2020-10-26-PyCharm-的-DEBUG，能不能-不打断点去-step-by-step，而实时知道在哪一步吗？](https://www.v2ex.com/t/718578) ![](assets/new.png)  
 - [2020-10-26-有什么好用的浏览器录像的扩展推荐吗?](https://www.v2ex.com/t/718577) ![](assets/new.png)  
-- [2020-10-26-抖音/火山-招聘-DevOps-研发工程师](https://www.v2ex.com/t/718576) ![](assets/new.png)  
-- [2020-10-26-开源群里-300-多人，想让帮忙投个票，也不花钱，也不会被打电话，竟然只有十几个人帮忙投票了，我真的是无语了，这个开源项目，维护的好难受啊，没啥动力了。](https://www.v2ex.com/t/718575) ![](assets/new.png)  
-- [2020-10-26-iPhone-12-单移动卡省电模式进行测速或者下载无法稳定-5G，关闭省电模式就正常使用](https://www.v2ex.com/t/718573) ![](assets/new.png)  
-- [2020-10-26-你们在实际工作中用过哪些代码自动生成技术？](https://www.v2ex.com/t/718572) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

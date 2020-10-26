@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 13:17:35，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 13:28:48，:rocket: 更新条数: +3525， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,6 +1053,9 @@
 </summary>
 
 
+- [2020-10-26-身份证挂失了还能用吗](https://www.v2ex.com/t/718825) ![](assets/new.png)  
+- [2020-10-26-双十一-3k-笔记本求推荐](https://www.v2ex.com/t/718824) ![](assets/new.png)  
+- [2020-10-26-无聊水一下，关于-U-盘的容量进制问题（长篇水文警告）](https://www.v2ex.com/t/718823) ![](assets/new.png)  
 - [2020-10-26-字节跳动-EE-部门，急招-SRE-运维研发工程师，-golang-开发工程师-等职位。base-北京，成都。靠谱内推](https://www.v2ex.com/t/718822) ![](assets/new.png)  
 - [2020-10-26-MagSafe-充电慢，发热严重的问题，你们遇到了吗？](https://www.v2ex.com/t/718821) ![](assets/new.png)  
 - [2020-10-26-offer-选择问题，大家帮忙参谋一下](https://www.v2ex.com/t/718820) ![](assets/new.png)  
@@ -1070,9 +1073,6 @@
 - [2020-10-26-为啥-Python-里面这么多-green-库,-比如-greenlet、green-unicorn……有啥讲究么-习惯、文化上?](https://www.v2ex.com/t/718804) ![](assets/new.png)  
 - [2020-10-26-月底了，有多京东运费券的吗？](https://www.v2ex.com/t/718803) ![](assets/new.png)  
 - [2020-10-26-在自己本地训练出一个-bert-预测模型，在云服务器需要购买怎么样的配置？](https://www.v2ex.com/t/718802) ![](assets/new.png)  
-- [2020-10-26-有没有坐标英国的朋友，想咨询一下-amazon-海外网购](https://www.v2ex.com/t/718801) ![](assets/new.png)  
-- [2020-10-26-为什么我没办法登录谷歌了？](https://www.v2ex.com/t/718800) ![](assets/new.png)  
-- [2020-10-26-win10-睡眠自动关机](https://www.v2ex.com/t/718799) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

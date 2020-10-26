@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-26 08:04:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 08:17:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -396,7 +396,6 @@
 - [【奇舞周刊】新的浏览器缓存策略变更：舍弃性能、确保安全](https://www.ershicimi.com/p/8bf216ed737dc487bf3cb9e986c89ba3)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】iPhone-12-目前新的逻辑分辨率下，偶尔会有软件的部分素材被压缩或拉大，以后会根据新逻辑分辨率优化吗？](https://www.v2ex.com/t/718694)
-- [【V2EX】一年省-35%，公有云费用优化项目招合作伙伴](https://www.v2ex.com/t/718675)
 - [【开发者头条】全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297)
 - [......【查看更多】......](./details/tags/optimization.md)
 

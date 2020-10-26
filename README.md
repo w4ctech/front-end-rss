@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 16:42:55，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 16:49:47，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -902,6 +902,9 @@
 </summary>
 
 
+- [2020-10-26-一次就将-Vue-SSR-讲通透！](https://www.ershicimi.com/p/0c14f006da92ea1a47dd6e15bd4b0418) ![](assets/new.png)  
+- [2020-10-25-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bdaf5888efdc904b2f7aeaf8284cce69) ![](assets/new.png)  
+- [2020-10-24-代码改变世界](https://www.ershicimi.com/p/1775d807d3d757fc6568942093fbec72) ![](assets/new.png)  
 - [2020-10-22-Vue-中-Axios-的封装和-API-接口的管理](https://www.ershicimi.com/p/3c4ccd6e25fe90e1922399bdebd07e50) ![](assets/new.png)  
 - [2020-10-21-能进大厂的前端技术标准是怎样的](https://www.ershicimi.com/p/4831bd74068c8b23d8e6f339843cfdf2) ![](assets/new.png)  
 - [2020-10-19-为什么React还是比Vue受欢迎？](https://www.ershicimi.com/p/4b23862b90ebde4f3857ad5714e0e710) ![](assets/new.png)  
@@ -919,9 +922,6 @@
 - [2020-09-22-什么是架构师的必备技能？](https://www.ershicimi.com/p/cbfadd286db216e046ee07a30ea9e3e0) ![](assets/new.png)  
 - [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) ![](assets/new.png)  
 - [2020-09-21-【软件更新】Vue-3.0正式发布！](https://www.ershicimi.com/p/ff3ab6acc82fef8cf1b194ee18e1b6fd) ![](assets/new.png)  
-- [2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e) ![](assets/new.png)  
-- [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) ![](assets/new.png)  
-- [2020-09-16-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/9431ce093426b3035ca4473ef83c6e9a) ![](assets/new.png)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1053,26 +1053,6 @@
 </summary>
 
 
-- [2020-10-26-xk-time-Java-时间工具包，支持自然语言时间解析，比如：中文（今天，明天，下周，下月-...](https://www.v2ex.com/t/718854) ![](assets/new.png)  
-- [2020-10-26-WSL-2-如何增加虚拟磁盘的大小](https://www.v2ex.com/t/718853) ![](assets/new.png)  
-- [2020-10-26-GoFrame-v1.14.1-强势发布！模块化、高性能、生产级的-Go-开发框架](https://www.v2ex.com/t/718852) ![](assets/new.png)  
-- [2020-10-26-没什么人看的博客，恶意请求比正常请求多几百倍](https://www.v2ex.com/t/718851) ![](assets/new.png)  
-- [2020-10-26-ASUS-XD4-怎么样？有-V-友体验过没？](https://www.v2ex.com/t/718850) ![](assets/new.png)  
-- [2020-10-26-北京有啥好的万圣节-party-吗](https://www.v2ex.com/t/718846) ![](assets/new.png)  
-- [2020-10-26-新加坡-Shopee-直招-招资深云原生平台开发工程师啦啦啦！](https://www.v2ex.com/t/718845) ![](assets/new.png)  
-- [2020-10-26-重金求分析一个小程序的登录过程，有源码~](https://www.v2ex.com/t/718844) ![](assets/new.png)  
-- [2020-10-26-求推荐投影仪。-选择移动的还是固定的呢？](https://www.v2ex.com/t/718843) ![](assets/new.png)  
-- [2020-10-26-PDC-加密文档截图](https://www.v2ex.com/t/718842) ![](assets/new.png)  
-- [2020-10-26-北京社招-VMWare-开源数据库-Greenplum-招聘软件工程师](https://www.v2ex.com/t/718838) ![](assets/new.png)  
-- [2020-10-26-推广网站:-阿噗站点](https://www.v2ex.com/t/718837) ![](assets/new.png)  
-- [2020-10-26-给媳妇攒个主机玩游戏，老哥们看看这个配置怎么样？](https://www.v2ex.com/t/718836) ![](assets/new.png)  
-- [2020-10-26-美团打车允许司机不经过乘客确认，单方面修改订单价格，该不该坚持投诉？](https://www.v2ex.com/t/718835) ![](assets/new.png)  
-- [2020-10-26-关于-Type-C-Alt-Mode-的疑问](https://www.v2ex.com/t/718834) ![](assets/new.png)  
-- [2020-10-26-平时炒股时间比较多，有没有兼职介绍一下（前端）](https://www.v2ex.com/t/718833) ![](assets/new.png)  
-- [2020-10-26-各位-21-届应届生大佬现在拿到的-offer-薪资多少啊](https://www.v2ex.com/t/718832) ![](assets/new.png)  
-- [2020-10-26-生态与捆绑](https://www.v2ex.com/t/718830) ![](assets/new.png)  
-- [2020-10-26-当意识到这辈子在老家买不起房，感到万分无奈](https://www.v2ex.com/t/718829) ![](assets/new.png)  
-- [2020-10-26-后台管理页面安全](https://www.v2ex.com/t/718828) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 10:49:57，:rocket: 更新条数: +3523， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 11:04:10，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-26-北京提示目前在喀什人员近期非必要不进京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisr2ijPucG0Fhuwav7Olv201026&isfromapp=1) ![](assets/new.png)  
+- [2020-10-26-印尼新增3222例新冠肺炎确诊病例-累计确诊392934例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifAAWjBdMCYN5TsZ0Zje0201026&isfromapp=1) ![](assets/new.png)  
+- [2020-10-26-美国养老院感染新冠死亡人数超8.4万-美媒：这本可以避免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYt72dwhEOEslD6BGIf0H201026&isfromapp=1) ![](assets/new.png)  
 - [2020-10-26-贵州26日起从喀什中高风险地区返黔人员需提供7日内核酸检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCIMdaaoPUop6UNKMo2DM201026&isfromapp=1) ![](assets/new.png)  
 - [2020-10-26-陕西新增2例境外输入确诊病例](http://sxwjw.shaanxi.gov.cn/art/2020/10/26/art_9_73983.html) ![](assets/new.png)  
-- [2020-10-26-福建省报告新增境外输入确诊病例1例](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202010/t20201026_5422604.htm) ![](assets/new.png)  
-- [2020-10-26-河北25日新增1例境外输入确诊病例-新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir0nVGKqwDpHFAnFaIG9s201026&isfromapp=1) ![](assets/new.png)  
-- [2020-10-26-截至10月25日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202010/df4458c2af934902951003b730fe636f.shtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -934,9 +934,9 @@
 
 
 - [2020-10-26-坚持造轮子第五天---时间旅行](https://juejin.im/post/6887844088335302670) ![](assets/new.png)  
-- [2020-10-25-vite对比webpack的优势](https://juejin.im/post/6887759985242013709) ![](assets/new.png)  
 - [2020-10-25-webpack-devtool篇](https://juejin.im/post/6887750775368499207) ![](assets/new.png)  
 - [2020-10-25-Redux-应用与原理](https://juejin.im/post/6887745604173332487) ![](assets/new.png)  
+- [2020-10-25-跨域CORS总结](https://juejin.im/post/6887744164079878151) ![](assets/new.png)  
 - [2020-10-25-「-volute-」树莓派+Node.js造一个有灵魂的语音助手](https://juejin.im/post/6887684959893454861) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -1053,6 +1053,9 @@
 </summary>
 
 
+- [2020-10-26-创建了一个-Google-play-开发者互助群](https://www.v2ex.com/t/718794) ![](assets/new.png)  
+- [2020-10-26-请问-Go-语言学习起来曲线陡峭嘛，容易学习嘛？](https://www.v2ex.com/t/718793) ![](assets/new.png)  
+- [2020-10-26-各位大大，日志监控告警系统，大家有什么好的方案推荐么？](https://www.v2ex.com/t/718792) ![](assets/new.png)  
 - [2020-10-26-iPhone-小白关于-iPhone-的一些问题](https://www.v2ex.com/t/718790) ![](assets/new.png)  
 - [2020-10-26-有哪些能玩上一天的网站？](https://www.v2ex.com/t/718789) ![](assets/new.png)  
 - [2020-10-26-11-月份的苹果发布会会更新-MacBook-16-吗？](https://www.v2ex.com/t/718788) ![](assets/new.png)  
@@ -1070,9 +1073,6 @@
 - [2020-10-26-你们用一加手机的氧-OS，消息推送正常吗？](https://www.v2ex.com/t/718775) ![](assets/new.png)  
 - [2020-10-26-你们表盘上的天气信息还好吗](https://www.v2ex.com/t/718774) ![](assets/new.png)  
 - [2020-10-26-（吐槽贴）开发微信支付申请单-V3API-有感](https://www.v2ex.com/t/718773) ![](assets/new.png)  
-- [2020-10-26-求推荐类似釜山行的电影](https://www.v2ex.com/t/718772) ![](assets/new.png)  
-- [2020-10-26-深圳学车哪个驾校比较好，求推荐！](https://www.v2ex.com/t/718771) ![](assets/new.png)  
-- [2020-10-26-刚在网上看到了一张壁纸，大家帮忙看看是什么动漫里边的。](https://www.v2ex.com/t/718770) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,8 +1116,8 @@
 
 
 - [2020-10-26-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-10-26-华为-18-级工程师总结的-50W-字算法、LeetCode、操作系统、计算机底层刷题必备笔记](https://toutiao.io/k/u76was8) ![](assets/new.png)  
 - [2020-10-26-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-10-26-华为-18-级工程师总结的-50W-字算法、LeetCode、操作系统、计算机底层刷题必备笔记](https://toutiao.io/k/u76was8) ![](assets/new.png)  
 - [2020-10-26-全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297) ![](assets/new.png)  
 - [2020-10-26-编程体系结构：Java-面向对象](https://toutiao.io/k/g097j3l) ![](assets/new.png)  
 - [2020-10-26-Golang-单元测试详尽指引](https://toutiao.io/k/aio979l) ![](assets/new.png)  
@@ -1146,26 +1146,26 @@
 </summary>
 
 
-- [2020-10-25-超详细matplotlib基础介绍!!!](https://sec.thief.one/article_content?a_id=42427148465051a68664d845ecbd6825) ![](assets/new.png)  
-- [2020-10-25-摸鱼神器!-VS-Code-变身小霸王游戏机](https://sec.thief.one/article_content?a_id=d7e78114074e7935413ea87aa5140571) ![](assets/new.png)  
-- [2020-10-25-七日资金流入245亿美金,比特币释放牛市信号?](https://sec.thief.one/article_content?a_id=9d8bbbd84772625839bdc58a1e150baa) ![](assets/new.png)  
-- [2020-10-25-聚焦新基建,腾讯安全携手GeekPwn把脉产业安全前沿动态](https://sec.thief.one/article_content?a_id=5d85eac1921cfdbeb64588cf73be648a) ![](assets/new.png)  
-- [2020-10-25-工控实验箱之工控安全演示及防护建议](https://sec.thief.one/article_content?a_id=6eb6817cc1efe49ca74399586f719f15) ![](assets/new.png)  
-- [2020-10-25-​在招|悬镜安全工程师与产销经理等7大岗位高薪诚聘贤才](https://sec.thief.one/article_content?a_id=4b81bdc1d613c0661760cc18bb57e9eb) ![](assets/new.png)  
-- [2020-10-25-第二届云安全挑战赛落幕,九大云安全趋势重磅发布](https://sec.thief.one/article_content?a_id=b551f2d306ce31c1ebe453d0a012f7b5) ![](assets/new.png)  
-- [2020-10-25-CVE-2020-16898-Windows-tcp/ip远程代码执行漏洞复现](https://sec.thief.one/article_content?a_id=ef98357e682c5c8d7bef3f22057383c1) ![](assets/new.png)  
-- [2020-10-25-你愿意为他们关掉“倍速”吗?](https://sec.thief.one/article_content?a_id=fd0a68686f5e1dcd32b0c7f22413f15c) ![](assets/new.png)  
-- [2020-10-25-一次简单的内网渗透靶场练习](https://sec.thief.one/article_content?a_id=41061f7e9aca251349d38910602ebd38) ![](assets/new.png)  
-- [2020-10-25-【视频】|-Python:字符串内置函数之大小写](https://sec.thief.one/article_content?a_id=b4e6e1a311baa70dc8c78b851e752d0e) ![](assets/new.png)  
-- [2020-10-25-要交出生证明的免费奶粉,你还敢喝吗?](https://sec.thief.one/article_content?a_id=9feb6593f0876ee09c5c6649360825c2) ![](assets/new.png)  
-- [2020-10-25-了不起的程序员们](https://sec.thief.one/article_content?a_id=054c571d3be3f857affaaed36d4f025b) ![](assets/new.png)  
-- [2020-10-25-从美国顶尖信息技术咨询公司博思艾伦报告看俄罗斯网络作战](https://sec.thief.one/article_content?a_id=e7b73aca356debb26db0e365e9c048b4) ![](assets/new.png)  
-- [2020-10-25-《最受欢迎的女友职业排行榜Top10》](https://sec.thief.one/article_content?a_id=8b1b42e8fa83e7bde9f7de3b5b657c5d) ![](assets/new.png)  
-- [2020-10-25-这篇博士毕业论文致谢句句诛心......](https://sec.thief.one/article_content?a_id=da6de4469b8d8097d676def583b230b6) ![](assets/new.png)  
-- [2020-10-25-美国对5个伊朗实体实施新制裁-理由:干预美国大选](https://sec.thief.one/article_content?a_id=e49176672ee9c5bc6dbd1ac3018c1a79) ![](assets/new.png)  
-- [2020-10-25-美国指控俄罗斯黑客组织参与多项网络攻击行动](https://sec.thief.one/article_content?a_id=a0bda53e5a50d481840da98cf8d22976) ![](assets/new.png)  
-- [2020-10-24-第二届云安全挑战赛落幕,九大云安全趋势重磅发布](https://sec.thief.one/article_content?a_id=e582b024e04e74901643da2ef91bea8c) ![](assets/new.png)  
-- [2020-10-24-【安全圈】科普:常说的黑客守则到底有哪些?](https://sec.thief.one/article_content?a_id=e281b9044636450bbb1215591109dfb1) ![](assets/new.png)  
+- [2020-10-26-用Python做数据分析,你还缺几个项目!](https://sec.thief.one/article_content?a_id=afc90712e24383a6315129cebe66c036) ![](assets/new.png)  
+- [2020-10-26-2020看雪SDC议题回顾-|-逃逸IE浏览器沙箱:在野0Day漏洞利用复现](https://sec.thief.one/article_content?a_id=25d4f3d3763b4810e7cd12d24f2bbe39) ![](assets/new.png)  
+- [2020-10-26-【中奖名单】《机器学习实战》书籍中奖名单公布啦!](https://sec.thief.one/article_content?a_id=b6fe974f05355941bef36ac1d1bee131) ![](assets/new.png)  
+- [2020-10-26-I-Am-The-King恶意软件家族分析](https://sec.thief.one/article_content?a_id=9f543686c1525d8d6a48f96d173624a6) ![](assets/new.png)  
+- [2020-10-26-【内容推荐】新基建-|-国计民生下的工控攻防升级](https://sec.thief.one/article_content?a_id=f13b34b38e4742db4eb1259f01ab39cc) ![](assets/new.png)  
+- [2020-10-26-Windows-内核提权漏洞分析:CVE-2020-1034](https://sec.thief.one/article_content?a_id=614381762300dda0ec0b03f6bc4db50b) ![](assets/new.png)  
+- [2020-10-26-GeekPwn-2020之行圆满结束](https://sec.thief.one/article_content?a_id=8090398583f5d380b4343bd0b130759c) ![](assets/new.png)  
+- [2020-10-26-Frost&Sullivan-|-绿盟抗拒绝服务系统ADS连续六年稳居抗D市场第一](https://sec.thief.one/article_content?a_id=4e60ae175c89843f56c41722f974559c) ![](assets/new.png)  
+- [2020-10-26-“助力决战脱贫攻坚——网络名人走进内蒙古”活动启动](https://sec.thief.one/article_content?a_id=b80c60467bb52e9c849e2c30b3111099) ![](assets/new.png)  
+- [2020-10-26-雷神众测漏洞周报-2020.10.19-2020.10.25-5](https://sec.thief.one/article_content?a_id=c878f62d7f642394a0063144c67f2d7d) ![](assets/new.png)  
+- [2020-10-26-人物-|-邢台银行徐晓波:三线城市网络安全养成记](https://sec.thief.one/article_content?a_id=ea1c3904b4396d9d37ec441c2ca2f86c) ![](assets/new.png)  
+- [2020-10-26-特朗普的推特密码:maga2020](https://sec.thief.one/article_content?a_id=bb512a0ad07e3d44ecae111526a3da0e) ![](assets/new.png)  
+- [2020-10-26-CVE-2020-16899:-Windows-TCP/IP拒绝服务漏洞分析](https://sec.thief.one/article_content?a_id=eb0578e715d03d477c8ba1913aaa611a) ![](assets/new.png)  
+- [2020-10-26-XSS-网络钓鱼](https://sec.thief.one/article_content?a_id=62cdf55a50e83460f46528405eba7bf2) ![](assets/new.png)  
+- [2020-10-26-分析师称,黄金与比特币“断交”对比特币高度利好](https://sec.thief.one/article_content?a_id=8ce1ae3609c56afb86e4578fdd3ee3e4) ![](assets/new.png)  
+- [2020-10-26-10月25日币圈早内参-IOTA明年主网推出Coordicide-OKEx暂未公布恢...](https://sec.thief.one/article_content?a_id=efcafc8a8eafb0706a5bb49316ac2941) ![](assets/new.png)  
+- [2020-10-26-2021,你需要关注的云安全趋势都在这里](https://sec.thief.one/article_content?a_id=f8ce38e89957f0e4fa4eaeed5cf1948e) ![](assets/new.png)  
+- [2020-10-26-除了云原生,2021年还有哪些值得关注的云安全趋势?](https://sec.thief.one/article_content?a_id=951337611b294a2475c1e1a2221851d0) ![](assets/new.png)  
+- [2020-10-26-5G网络安全问题分析与展望](https://sec.thief.one/article_content?a_id=6403cd1d42a982ea826fea1311f16a2a) ![](assets/new.png)  
+- [2020-10-26-美国政府如何在风险评估中应用ATT&CK框架?](https://sec.thief.one/article_content?a_id=28f105b79e27694ed2dda37957722c27) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

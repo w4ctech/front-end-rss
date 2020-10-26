@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-26 00:42:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 01:18:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -205,6 +205,7 @@
 
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
+- [【阮一峰的网络日志】微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)
 - [【凹凸实验室】京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/)
 - [【凹凸实验室】Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/)
 - [【凹凸实验室】京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/)
@@ -222,7 +223,6 @@
 - [【凹凸实验室】邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)
 - [【凹凸实验室】Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)
 - [【凹凸实验室】小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)
-- [【凹凸实验室】决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 - [【技术头条】提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】最全解密微信红包随机算法含代码实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13805&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr8ajk2GQ8u9yF4PfOXeaqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】华为-18-级工程师总结的-50W-字算法、LeetCode、操作系统、计算机底层刷题必备笔记](https://toutiao.io/k/u76was8)
+- [【开发者头条】MLP-算法推导小记](https://toutiao.io/k/xm5wyww)
 - [【安全热点】掌握这些知识,你也能成为-NLP-算法工程师!](https://sec.thief.one/article_content?a_id=ee7d7d338c32d7584dc86ea4fa42261d)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -674,7 +675,7 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊85790例-新增境外输入15例](https://m.caixin.com/m/2020-10-25/101618667.html)
+- [【武汉肺炎防疫全纪录(财新网)】10月25日全国新增境外输入新冠20例-新增无症状感染者161例](http://m.china.caixin.com/m/2020-10-26/101618701.html)
 - [【武汉肺炎防疫全纪录(财新网)】新疆喀什新增137例无症状感染者-均与首例感染者父母所在工厂关联](https://m.caixin.com/m/2020-10-25/101618657.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超4247万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-25/101618671.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆喀什新增1例本土无症状感染者（10月24日）](http://m.database.caixin.com/m/2020-10-25/101618612.html)

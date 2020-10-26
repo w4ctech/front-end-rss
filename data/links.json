@@ -5,9 +5,9 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "最新疫情：全国新冠累计确诊85790例 新增境外输入15例",
-        "link": "https://m.caixin.com/m/2020-10-25/101618667.html",
-        "date": "2020-10-24"
+        "title": "10月25日全国新增境外输入新冠20例 新增无症状感染者161例",
+        "link": "http://m.china.caixin.com/m/2020-10-26/101618701.html",
+        "date": "2020-10-25"
       },
       {
         "title": "新疆喀什新增137例无症状感染者 均与首例感染者父母所在工厂关联",
@@ -15738,6 +15738,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "微信小程序入门教程之一：初次上手",
+        "link": "http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html",
+        "date": "2020-10-26"
+      },
+      {
         "title": "科技爱好者周刊（第 130 期）：低龄化的互联网",
         "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html",
         "date": "2020-10-23"
@@ -15746,11 +15751,6 @@
         "title": "科技爱好者周刊（第 129 期）：创业的凸函数和凹函数",
         "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html",
         "date": "2020-10-16"
-      },
-      {
-        "title": "科技爱好者周刊（第 128 期）：这个社会是否正在变成\"赛博朋克\"？",
-        "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html",
-        "date": "2020-10-09"
       }
     ]
   },
@@ -17621,6 +17621,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "四年，如何从前端小白蜕变为前端技术专家？",
+        "link": "https://juejin.im/post/6887731225771900942",
+        "date": "2020-10-25"
+      },
+      {
         "title": "「 volute 」树莓派+Node.js造一个有灵魂的语音助手",
         "link": "https://juejin.im/post/6887684959893454861",
         "date": "2020-10-25"
@@ -17638,11 +17643,6 @@
       {
         "title": "如何从 0 到 1 搭建性能检测系统",
         "link": "https://juejin.im/post/6887580440803311630",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "不用找UI， CSS也能搞定图片效果",
-        "link": "https://juejin.im/post/6887564455744372743",
         "date": "2020-10-25"
       }
     ]
@@ -18030,6 +18030,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "各位前辈有空指点一下吧，我真的不知道该怎么办了",
+        "link": "https://www.v2ex.com/t/718525",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "大家习惯把 Watch 戴哪边，表冠朝哪边",
+        "link": "https://www.v2ex.com/t/718524",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "25 层的准备买 5 楼，前面一栋是 16 层的，买这层有没有不好的地方",
+        "link": "https://www.v2ex.com/t/718523",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "搭建个人小型网站（比如博客）有必要用 OSS 存储图片吗？",
+        "link": "https://www.v2ex.com/t/718522",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "目前正在使用妙控板 2 的 V 友,日常工作是什么感受?",
+        "link": "https://www.v2ex.com/t/718521",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "打探个消息：海南版 iPhone12 什么时候能买到及除了去海南外有什么渠道可以买。",
+        "link": "https://www.v2ex.com/t/718520",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "绑定 0.0.0.0 的网络服务，无法通过局域网 IP 访问，可能是什么原因导致的？",
+        "link": "https://www.v2ex.com/t/718519",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "求推荐一款 4 口 PD 的充电坞",
+        "link": "https://www.v2ex.com/t/718518",
+        "date": "2020-10-26"
+      },
+      {
         "title": "2 个 apple 账号下载软件切换的问题",
         "link": "https://www.v2ex.com/t/718517",
         "date": "2020-10-26"
@@ -18208,31 +18248,6 @@
         "title": "SetApp 家庭组员账号转让",
         "link": "https://www.v2ex.com/t/718476",
         "date": "2020-10-25"
-      },
-      {
-        "title": "入手了 iPhone 12，有点纠结",
-        "link": "https://www.v2ex.com/t/718475",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "坐标杭州，去哪领取失业保险金？",
-        "link": "https://www.v2ex.com/t/718472",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "geogebra 如何过一个动点 按照可变斜率构造一条直线",
-        "link": "https://www.v2ex.com/t/718471",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "[base 深圳] 阿里跨境供应链，内推 Java 开发，业绩暴涨 HC 不限，坐标深圳阿里中心",
-        "link": "https://www.v2ex.com/t/718469",
-        "date": "2020-10-25"
-      },
-      {
-        "title": "ipados 会不会成为下一个电脑操作系统",
-        "link": "https://www.v2ex.com/t/718468",
-        "date": "2020-10-25"
       }
     ]
   },
@@ -18369,6 +18384,11 @@
         "date": "2020-10-26"
       },
       {
+        "title": "编程体系结构：Java 面向对象",
+        "link": "https://toutiao.io/k/g097j3l",
+        "date": "2020-10-26"
+      },
+      {
         "title": "Android 存储空间的最佳实践",
         "link": "https://toutiao.io/k/zn8845z",
         "date": "2020-10-26"
@@ -18379,8 +18399,8 @@
         "date": "2020-10-26"
       },
       {
-        "title": "编程体系结构：Java 面向对象",
-        "link": "https://toutiao.io/k/g097j3l",
+        "title": "万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
         "date": "2020-10-26"
       },
       {
@@ -18389,23 +18409,43 @@
         "date": "2020-10-26"
       },
       {
-        "title": "万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-10-26"
-      },
-      {
         "title": "Bypass 安全狗 SQL 注入与 XSS",
         "link": "https://toutiao.io/k/5o6ymst",
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
+        "title": "快使用 Scriptable 自己开发一个 iPhone 小组件吧",
+        "link": "https://toutiao.io/k/cpr39ly",
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
+        "title": "77.9K 的 Axios 项目有哪些值得借鉴的地方",
+        "link": "https://toutiao.io/k/3j2zgc1",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "Apache Maven 的常用命令行参数",
+        "link": "https://toutiao.io/k/44794uh",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "处理一次 k8s、Calico 无法分配 podIP 的心路历程",
+        "link": "https://toutiao.io/k/21v2hqp",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "MLP 算法推导小记",
+        "link": "https://toutiao.io/k/xm5wyww",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
         "date": "2020-10-26"
       },
       {
@@ -18419,8 +18459,8 @@
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
         "date": "2020-10-26"
       },
       {
@@ -18429,28 +18469,18 @@
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
-        "date": "2020-10-26"
-      },
-      {
         "title": "[推荐] 国庆期间，我造了台计算机",
         "link": "https://toutiao.io/k/x4os6i7",
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 建设微服务 API 网关的一些实践",
-        "link": "https://toutiao.io/k/4li9ai2",
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-26"
       },
       {
@@ -18459,18 +18489,28 @@
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-26"
       },
       {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
+        "date": "2020-10-26"
+      },
+      {
+        "title": "[推荐] 建设微服务 API 网关的一些实践",
+        "link": "https://toutiao.io/k/4li9ai2",
         "date": "2020-10-26"
       }
     ]

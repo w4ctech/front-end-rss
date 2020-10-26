@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 14:35:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 14:42:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,7 +30,7 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-10-19-Java-中的-AQS-到底是什么？高级面试必问！](https://www.ershicimi.com/p/333df1b52c7a8072743c190abefd56e7) 
 - [2020-10-26-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) 
-- [2020-10-26-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
-- [2020-10-26-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
 - [2020-10-26-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
+- [2020-10-26-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
+- [2020-10-26-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
 - [2020-10-26-27场机器学习面试后,来划个概念重点吧](https://sec.thief.one/article_content?a_id=15ce3aa7f5490ba550146714d2a91033) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 11:04:10，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 11:14:45，:rocket: 更新条数: +3525， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,6 +1053,8 @@
 </summary>
 
 
+- [2020-10-26-有没有老哥在头条新加坡，那边加班吗](https://www.v2ex.com/t/718796) ![](assets/new.png)  
+- [2020-10-26-苹果的预激活是怎么回事？](https://www.v2ex.com/t/718795) ![](assets/new.png)  
 - [2020-10-26-创建了一个-Google-play-开发者互助群](https://www.v2ex.com/t/718794) ![](assets/new.png)  
 - [2020-10-26-请问-Go-语言学习起来曲线陡峭嘛，容易学习嘛？](https://www.v2ex.com/t/718793) ![](assets/new.png)  
 - [2020-10-26-各位大大，日志监控告警系统，大家有什么好的方案推荐么？](https://www.v2ex.com/t/718792) ![](assets/new.png)  
@@ -1071,8 +1073,6 @@
 - [2020-10-26-Zuul-动态路由-请问如何实现不重启网关加载新增/修改的路由？](https://www.v2ex.com/t/718777) ![](assets/new.png)  
 - [2020-10-26-有人玩-GBA-游戏吗，换装迷宫什么的](https://www.v2ex.com/t/718776) ![](assets/new.png)  
 - [2020-10-26-你们用一加手机的氧-OS，消息推送正常吗？](https://www.v2ex.com/t/718775) ![](assets/new.png)  
-- [2020-10-26-你们表盘上的天气信息还好吗](https://www.v2ex.com/t/718774) ![](assets/new.png)  
-- [2020-10-26-（吐槽贴）开发微信支付申请单-V3API-有感](https://www.v2ex.com/t/718773) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,8 +1116,8 @@
 
 
 - [2020-10-26-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-10-26-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
 - [2020-10-26-华为-18-级工程师总结的-50W-字算法、LeetCode、操作系统、计算机底层刷题必备笔记](https://toutiao.io/k/u76was8) ![](assets/new.png)  
+- [2020-10-26-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
 - [2020-10-26-全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297) ![](assets/new.png)  
 - [2020-10-26-编程体系结构：Java-面向对象](https://toutiao.io/k/g097j3l) ![](assets/new.png)  
 - [2020-10-26-Golang-单元测试详尽指引](https://toutiao.io/k/aio979l) ![](assets/new.png)  

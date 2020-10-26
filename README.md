@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 13:28:48，:rocket: 更新条数: +3525， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 13:37:00，:rocket: 更新条数: +3524， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,6 +1053,7 @@
 </summary>
 
 
+- [2020-10-26-后台管理页面安全](https://www.v2ex.com/t/718828) ![](assets/new.png)  
 - [2020-10-26-身份证挂失了还能用吗](https://www.v2ex.com/t/718825) ![](assets/new.png)  
 - [2020-10-26-双十一-3k-笔记本求推荐](https://www.v2ex.com/t/718824) ![](assets/new.png)  
 - [2020-10-26-无聊水一下，关于-U-盘的容量进制问题（长篇水文警告）](https://www.v2ex.com/t/718823) ![](assets/new.png)  
@@ -1072,7 +1073,6 @@
 - [2020-10-26-有哪些适合新手的折腾项目？](https://www.v2ex.com/t/718805) ![](assets/new.png)  
 - [2020-10-26-为啥-Python-里面这么多-green-库,-比如-greenlet、green-unicorn……有啥讲究么-习惯、文化上?](https://www.v2ex.com/t/718804) ![](assets/new.png)  
 - [2020-10-26-月底了，有多京东运费券的吗？](https://www.v2ex.com/t/718803) ![](assets/new.png)  
-- [2020-10-26-在自己本地训练出一个-bert-预测模型，在云服务器需要购买怎么样的配置？](https://www.v2ex.com/t/718802) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

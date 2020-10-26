@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 16:05:42，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 16:22:06，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1053,6 +1053,9 @@
 </summary>
 
 
+- [2020-10-26-GoFrame-v1.14.1-强势发布！模块化、高性能、生产级的-Go-开发框架](https://www.v2ex.com/t/718852) ![](assets/new.png)  
+- [2020-10-26-没什么人看的博客，恶意请求比正常请求多几百倍](https://www.v2ex.com/t/718851) ![](assets/new.png)  
+- [2020-10-26-ASUS-XD4-怎么样？有-V-友体验过没？](https://www.v2ex.com/t/718850) ![](assets/new.png)  
 - [2020-10-26-北京有啥好的万圣节-party-吗](https://www.v2ex.com/t/718846) ![](assets/new.png)  
 - [2020-10-26-新加坡-Shopee-直招-招资深云原生平台开发工程师啦啦啦！](https://www.v2ex.com/t/718845) ![](assets/new.png)  
 - [2020-10-26-重金求分析一个小程序的登录过程，有源码~](https://www.v2ex.com/t/718844) ![](assets/new.png)  
@@ -1070,9 +1073,6 @@
 - [2020-10-26-后台管理页面安全](https://www.v2ex.com/t/718828) ![](assets/new.png)  
 - [2020-10-26-身份证挂失了还能用吗](https://www.v2ex.com/t/718825) ![](assets/new.png)  
 - [2020-10-26-双十一-3k-笔记本求推荐](https://www.v2ex.com/t/718824) ![](assets/new.png)  
-- [2020-10-26-无聊水一下，关于-U-盘的容量进制问题（长篇水文警告）](https://www.v2ex.com/t/718823) ![](assets/new.png)  
-- [2020-10-26-字节跳动-EE-部门，急招-SRE-运维研发工程师，-golang-开发工程师-等职位。base-北京，成都。靠谱内推](https://www.v2ex.com/t/718822) ![](assets/new.png)  
-- [2020-10-26-MagSafe-充电慢，发热严重的问题，你们遇到了吗？](https://www.v2ex.com/t/718821) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1133,8 +1133,8 @@
 - [2020-10-26-互联网是如何工作的？](https://toutiao.io/k/phlghsu) ![](assets/new.png)  
 - [2020-10-26-Bean-Validation-声明式验证四大级别：字段、属性、容器元素、类](https://toutiao.io/k/9orbwto) ![](assets/new.png)  
 - [2020-10-26-Python-实现：详解-LRU-缓存淘汰算法](https://toutiao.io/k/tcbc5jk) ![](assets/new.png)  
-- [2020-10-26-网易严选数据产品实践](https://toutiao.io/k/kvudhzp) ![](assets/new.png)  
 - [2020-10-26-深入浅出-Thread.interrupt](https://toutiao.io/k/oyby5um) ![](assets/new.png)  
+- [2020-10-26-网易严选数据产品实践](https://toutiao.io/k/kvudhzp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

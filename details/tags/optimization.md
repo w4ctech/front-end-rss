@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 01:29:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 01:56:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -20,6 +20,4 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-10-22-新的浏览器缓存策略变更：舍弃性能、确保安全](https://www.ershicimi.com/p/8bf216ed737dc487bf3cb9e986c89ba3) 
-- [2020-10-25-如何从-0-到-1-搭建性能检测系统](https://juejin.im/post/6887580440803311630) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2020-10-26-全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297) 

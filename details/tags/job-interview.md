@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 01:29:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 01:56:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -29,6 +29,3 @@
 - [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-10-19-Java-中的-AQS-到底是什么？高级面试必问！](https://www.ershicimi.com/p/333df1b52c7a8072743c190abefd56e7) 
-- [2020-10-26-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) 
-- [2020-10-26-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
-- [2020-10-26-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 

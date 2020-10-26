@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 01:29:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 01:56:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,10 +46,9 @@
 - [2020-10-25-我敢说，你的登录接口肯定不安全](https://www.ershicimi.com/p/1e53cfba3562adda05b876a5d528b5d1) 
 - [2020-10-23-REST-API-的安全认证，我放弃OAuth-2.0-,选择-JWT-令牌](https://www.ershicimi.com/p/722000be63427a69a603a6e2a07bd6b5) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-26-SpringMvc-全局-CORS-解决方案](https://www.v2ex.com/t/718538) 
 - [2020-10-26-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-26-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13799&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5Mq3zKaMQqfWZnnDizI-Vw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-26-Bypass-安全狗-SQL-注入与-XSS](https://toutiao.io/k/5o6ymst) 
-- [2020-10-26-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
 - [2020-10-25-聚焦新基建,腾讯安全携手GeekPwn把脉产业安全前沿动态](https://sec.thief.one/article_content?a_id=5d85eac1921cfdbeb64588cf73be648a) 
 - [2020-10-25-工控实验箱之工控安全演示及防护建议](https://sec.thief.one/article_content?a_id=6eb6817cc1efe49ca74399586f719f15) 
 - [2020-10-25-​在招|悬镜安全工程师与产销经理等7大岗位高薪诚聘贤才](https://sec.thief.one/article_content?a_id=4b81bdc1d613c0661760cc18bb57e9eb) 

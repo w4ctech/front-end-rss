@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 01:29:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 01:56:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -22,5 +22,4 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
-- [2020-10-25-想申请软著，请问哪里有像-Python-或者其他的编程语言写的-GUI-或者-website-例子，想要参考参考](https://www.v2ex.com/t/718486) 
 - [2020-10-24-GUIBI挖掘机:Kik与SEC达成和解-IOTA明年主网推出Coordicide](https://sec.thief.one/article_content?a_id=c0cf6631105d82e5a4e014978f9292ea) 

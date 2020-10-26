@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 13:49:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 14:04:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -21,6 +21,7 @@
 - [2020-10-23-Vue-3-的组合-API-如何请求数据？](https://www.ershicimi.com/p/f45d42453bac36d0bd2396930a7a922b) 
 - [2020-10-21-仅20%的前端开发才能理解-Vue-，有没有你？](https://www.ershicimi.com/p/11764036c38fdcdc97ffdfb2cc992bb6) 
 - [2020-10-17-Vue项目布署后，刷新页面404的真正原因找到了](https://www.ershicimi.com/p/d13e92bade55ee72c8aecda78baead05) 
+- [2020-10-16-【第2089期】从编译过程，理解-Vue3-静态节点提升过程](https://www.ershicimi.com/p/6fcff7e08e12a4bb29479bb98ac2e6e6) 
 - [2020-10-19-Vue-中-Axios-的封装和-API-接口的管理](https://www.ershicimi.com/p/40440035451f28d499a0a4e120fc77f9) 
 - [2020-10-14-VUE+ElementUI-后台管理项目经验与技巧分享，金九银十跳槽必看！](https://www.ershicimi.com/p/a2a0ac9b5e8ee358a574a8e42879189d) 
 - [2020-10-13-让-Vue3-Composition-API-存在于你-Vue-以外的项目中](https://www.ershicimi.com/p/97b383dd077f6f17b0e038fec301ab8c) 

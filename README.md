@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 13:04:07，:rocket: 更新条数: +3525， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 13:17:35，:rocket: 更新条数: +3526， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-10-25-最新疫情：全国新冠累计确诊85810例-新增境外输入20例](https://m.caixin.com/m/2020-10-26/101619035.html) ![](assets/new.png)  
+- [2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) ![](assets/new.png)  
 - [2020-10-25-最新海外疫情：新冠感染超4290万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-26/101619039.html) ![](assets/new.png)  
 - [2020-10-25-【境内疫情观察】新疆喀什新增137例无症状感染者（10月25日）](http://m.database.caixin.com/m/2020-10-26/101618828.html) ![](assets/new.png)  
 - [2020-10-25-大流行手记|10月25日：全球日新增连续3日创新高-两项疫苗临床试验恢复](https://m.caixin.com/m/2020-10-26/101618721.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-10-20-大流行手记|10月20日：俄罗斯日增确诊创新高-阿根廷病例过百万居第五](https://m.caixin.com/m/2020-10-21/101616932.html) ![](assets/new.png)  
 - [2020-10-20-世卫警示民众抗疫疲劳加剧-吁欧美学习亚洲防疫经验](http://m.international.caixin.com/m/2020-10-21/101617217.html) ![](assets/new.png)  
 - [2020-10-19-【境内疫情观察】全国新增19例境外输入病例（10月19日）](http://m.database.caixin.com/m/2020-10-20/101616600.html) ![](assets/new.png)  
-- [2020-10-19-大流行手记|10月19日：全球感染突破4000万-印度3亿人获疫苗优先接种机会](https://m.caixin.com/m/2020-10-20/101616494.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1053,6 +1053,8 @@
 </summary>
 
 
+- [2020-10-26-字节跳动-EE-部门，急招-SRE-运维研发工程师，-golang-开发工程师-等职位。base-北京，成都。靠谱内推](https://www.v2ex.com/t/718822) ![](assets/new.png)  
+- [2020-10-26-MagSafe-充电慢，发热严重的问题，你们遇到了吗？](https://www.v2ex.com/t/718821) ![](assets/new.png)  
 - [2020-10-26-offer-选择问题，大家帮忙参谋一下](https://www.v2ex.com/t/718820) ![](assets/new.png)  
 - [2020-10-26-部分人是怎么做到用某个产品用出高潮的？](https://www.v2ex.com/t/718819) ![](assets/new.png)  
 - [2020-10-26-nginx-能匹配精准包含父子关系的-location-吗-?](https://www.v2ex.com/t/718815) ![](assets/new.png)  
@@ -1071,8 +1073,6 @@
 - [2020-10-26-有没有坐标英国的朋友，想咨询一下-amazon-海外网购](https://www.v2ex.com/t/718801) ![](assets/new.png)  
 - [2020-10-26-为什么我没办法登录谷歌了？](https://www.v2ex.com/t/718800) ![](assets/new.png)  
 - [2020-10-26-win10-睡眠自动关机](https://www.v2ex.com/t/718799) ![](assets/new.png)  
-- [2020-10-26-求助-如何应对垃圾邮件骚扰？](https://www.v2ex.com/t/718798) ![](assets/new.png)  
-- [2020-10-26-有没有老哥在头条新加坡，那边加班吗](https://www.v2ex.com/t/718796) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

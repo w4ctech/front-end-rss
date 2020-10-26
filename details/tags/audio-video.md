@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 08:17:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 08:33:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,5 +87,6 @@
 - [2020-10-20-基于-ffmpeg-+-Webassembly-实现前端视频帧提取](https://www.ershicimi.com/p/48c94542a6deac518734bc117567010c) 
 - [2020-10-09-人工智能从入门到精通系列教学视频免费送](https://www.ershicimi.com/p/4cec892c264b2a104a924d687161940a) 
 - [2020-03-13-前端搞搭建直播--第三届前端早早聊大会](https://www.ershicimi.com/p/21921cb129b96a1e777ab51293374978) 
+- [2020-10-26-迫于闲置电脑一台，想学学视频剪辑](https://www.v2ex.com/t/718729) 
 - [2020-10-26-腾讯云大学-x-CODING-|-知识分享月直播预告](https://www.v2ex.com/t/718711) 
 - [2020-10-25-【视频】|-Python:字符串内置函数之大小写](https://sec.thief.one/article_content?a_id=b4e6e1a311baa70dc8c78b851e752d0e) 

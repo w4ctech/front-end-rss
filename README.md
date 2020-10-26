@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 18:04:28，:rocket: 更新条数: +3230， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 18:15:54，:rocket: 更新条数: +3230， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-10-26-无视-IP-和地区限制修改-NETFLIX-简体中文界面和开启简体中文字幕](https://www.v2ex.com/t/718859) ![](assets/new.png)  
 - [2020-10-26-安卓机的-12G-RAM-挂后台不如-iPhone-的-6G-RAM？](https://www.v2ex.com/t/718858) ![](assets/new.png)  
 - [2020-10-26-Github-上有人整理了-John-Carmack-的.plan-文件](https://www.v2ex.com/t/718856) ![](assets/new.png)  
 - [2020-10-26-有没有类似-gitbook-可以绑定自己域名的网站呢？](https://www.v2ex.com/t/718855) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-10-26-美团打车允许司机不经过乘客确认，单方面修改订单价格，该不该坚持投诉？](https://www.v2ex.com/t/718835) ![](assets/new.png)  
 - [2020-10-26-关于-Type-C-Alt-Mode-的疑问](https://www.v2ex.com/t/718834) ![](assets/new.png)  
 - [2020-10-26-平时炒股时间比较多，有没有兼职介绍一下（前端）](https://www.v2ex.com/t/718833) ![](assets/new.png)  
-- [2020-10-26-各位-21-届应届生大佬现在拿到的-offer-薪资多少啊](https://www.v2ex.com/t/718832) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -631,8 +631,8 @@
 - [2020-10-26-Apache-Maven-的常用命令行参数](https://toutiao.io/k/44794uh) ![](assets/new.png)  
 - [2020-10-26-MLP-算法推导小记](https://toutiao.io/k/xm5wyww) ![](assets/new.png)  
 - [2020-10-26-互联网是如何工作的？](https://toutiao.io/k/phlghsu) ![](assets/new.png)  
-- [2020-10-26-Bean-Validation-声明式验证四大级别：字段、属性、容器元素、类](https://toutiao.io/k/9orbwto) ![](assets/new.png)  
 - [2020-10-26-Python-实现：详解-LRU-缓存淘汰算法](https://toutiao.io/k/tcbc5jk) ![](assets/new.png)  
+- [2020-10-26-Bean-Validation-声明式验证四大级别：字段、属性、容器元素、类](https://toutiao.io/k/9orbwto) ![](assets/new.png)  
 - [2020-10-26-深入浅出-Thread.interrupt](https://toutiao.io/k/oyby5um) ![](assets/new.png)  
 - [2020-10-26-网易严选数据产品实践](https://toutiao.io/k/kvudhzp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

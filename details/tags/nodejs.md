@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 17:41:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 17:47:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,25 +7,5 @@
 
 
 
-- [2020-07-13-V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78) 
-- [2020-10-25-【第2098期】Redis-+-NodeJS-实现一个能处理海量数据的异步任务队列系统](https://www.ershicimi.com/p/733e94b8467f8da46133cf064d6bfe56) 
-- [2020-10-15-【第2088期】前端中台化，把格局做大——NodeJS-和测试服务探索](https://www.ershicimi.com/p/baa890992490b238913e0594c4008ee7) 
-- [2020-10-26-为什么要使用-Node.js？这几点你必须知道！](https://www.ershicimi.com/p/7846e9cba8274a58ecd0d7e869dec4d7) 
-- [2020-10-12-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bb121b910148c883d3d1c8243fa7abdf) 
-- [2020-04-07-nodejs事件循环阶段之定时器](https://www.ershicimi.com/p/f81c5d14b2fcd013d74096bdc3b8371c) 
-- [2020-10-18-三步法解析Express源码](https://www.ershicimi.com/p/fab88d726c407f28c89a1ac4a5d7f159) 
-- [2020-10-21-Node.js-中的-require-是如何工作的？](https://www.ershicimi.com/p/9b42634aa5c0f1d183538bdbd73accc4) 
-- [2020-08-02-如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082) 
-- [2020-10-12-前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/0bdf01163c2ebc502fa5a9cb0d9a3ab7) 
-- [2020-10-18-我为-Express-开了外挂](https://www.ershicimi.com/p/d3383b45f9402cadd2167e984f99088f) 
-- [2020-10-22-Node.js-v15.0.0-is-here!](https://www.ershicimi.com/p/7fdd5343e000267c418d5ad709a4f8ab) 
-- [2020-10-16-前端赋能业务---Node实现自动化部署平台](https://www.ershicimi.com/p/99b484a81d88ceedb095488767352245) 
-- [2020-10-15-排查-Node.js-服务内存泄漏，没想到竟是它？](https://www.ershicimi.com/p/daecb693cd78ffa928d74d4047f89cba) 
-- [2020-10-12-Node.js-搭建-HTTPS-服务器](https://www.ershicimi.com/p/443b0f079dc05caa1ccecabfd0000cce) 
-- [2020-09-28-CNodejs每日新闻周刊｜第-7-期](https://www.ershicimi.com/p/3f7061fd1d18b6916af923609e24a196) 
-- [2020-09-26-震惊！这个代码片段竟然会让-V8-内存无法回收？！](https://www.ershicimi.com/p/975ee862c41b1852efcca27a4ab66a25) 
-- [2020-09-25-Node.js-案发现场揭秘-——-文件句柄泄露导致进程假死](https://www.ershicimi.com/p/6dae4d4a8faac3ff4a499e3be7c55dbc) 
-- [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
-- [2020-10-25-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/bdaf5888efdc904b2f7aeaf8284cce69) 
 - [2020-10-26-Nodejs应用生产环境远程调试](https://juejin.im/post/6887937224059568141) 
 - [2020-10-25-「-volute-」树莓派+Node.js造一个有灵魂的语音助手](https://juejin.im/post/6887684959893454861) 

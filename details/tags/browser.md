@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 17:41:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 17:47:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,22 +21,7 @@
 - [2020-03-13-湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html) 
 - [2020-02-06-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
-- [2020-10-15-不要再问我跨域的问题了-|-原理剖析](https://www.ershicimi.com/p/a6e36e5bc362a24c8ee1ac36662cde63) 
-- [2020-10-23-Chrome-86-新功能解读](https://www.ershicimi.com/p/8a19e5941cf3dcf9d81b365ca7aaa4d6) 
-- [2020-10-21-面试官：说说你对-options-请求的理解](https://www.ershicimi.com/p/442fe2f069198f2421fe54a457e96ac9) 
-- [2020-10-10-你不知道的-WebSocket](https://www.ershicimi.com/p/e0f12cf3fdca4a6902a6be2dd576d972) 
-- [2020-10-14-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/b8ec5bada8e183c1aba78aa6176b6279) 
-- [2020-10-18-前端周报：创业公司名中带droid遭谷歌起诉；谷歌或被迫出售Chrome和部分广告业务；微软将在Wi](https://www.ershicimi.com/p/13067a9e6e82413658aa509cb05bc2d1) 
-- [2020-10-23-15-张精美动图全面讲解-CORS](https://www.ershicimi.com/p/be7d984b6194414ac120439867f43994) 
-- [2020-10-18-6个可以帮助我们高效开发的Chrome插件](https://www.ershicimi.com/p/220b8598e76b623255df816dfc91ead6) 
-- [2020-10-20-有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/bc4c71e4727c15035c4e18bad2b669b6) 
-- [2020-10-09-5000字！带你零距离接触websocket！](https://www.ershicimi.com/p/e87e80ed7a3e9ca8ea3daf97074c90ab) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2020-08-02-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/6852eded49166bf35ffeefe61fd01559) 
-- [2020-05-20-推荐一个好看且实用的Chrome桌面插件](https://www.ershicimi.com/p/7c74583e19168f42b817fcc75cddc3e5) 
-- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
-- [2020-10-25-我敢说，你的登录接口肯定不安全](https://www.ershicimi.com/p/1e53cfba3562adda05b876a5d528b5d1) 
-- [2020-10-23-REST-API-的安全认证，我放弃OAuth-2.0-,选择-JWT-令牌](https://www.ershicimi.com/p/722000be63427a69a603a6e2a07bd6b5) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-26-没什么人看的博客，恶意请求比正常请求多几百倍](https://www.v2ex.com/t/718851) 
 - [2020-10-26-后台管理页面安全](https://www.v2ex.com/t/718828) 

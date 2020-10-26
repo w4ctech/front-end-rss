@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 01:56:31，:rocket: 更新条数: +3717， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 02:01:10，:rocket: 更新条数: +3748， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -1135,6 +1135,26 @@
 </summary>
 
 
+- [2020-10-26-全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297) ![](assets/new.png)  
+- [2020-10-26-华为-18-级工程师总结的-50W-字算法、LeetCode、操作系统、计算机底层刷题必备笔记](https://toutiao.io/k/u76was8) ![](assets/new.png)  
+- [2020-10-26-Golang-单元测试详尽指引](https://toutiao.io/k/aio979l) ![](assets/new.png)  
+- [2020-10-26-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-10-26-编程体系结构：Java-面向对象](https://toutiao.io/k/g097j3l) ![](assets/new.png)  
+- [2020-10-26-译-构建-Netflix-分布式追踪-tracing-体系](https://toutiao.io/k/nbkgfk1) ![](assets/new.png)  
+- [2020-10-26-Android-存储空间的最佳实践](https://toutiao.io/k/zn8845z) ![](assets/new.png)  
+- [2020-10-26-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-10-26-Scikit-Learn-中的特征排名与递归特征消除](https://toutiao.io/k/zgieq1k) ![](assets/new.png)  
+- [2020-10-26-Bypass-安全狗-SQL-注入与-XSS](https://toutiao.io/k/5o6ymst) ![](assets/new.png)  
+- [2020-10-26-快使用-Scriptable-自己开发一个-iPhone-小组件吧](https://toutiao.io/k/cpr39ly) ![](assets/new.png)  
+- [2020-10-26-77.9K-的-Axios-项目有哪些值得借鉴的地方](https://toutiao.io/k/3j2zgc1) ![](assets/new.png)  
+- [2020-10-26-处理一次-k8s、Calico-无法分配-podIP-的心路历程](https://toutiao.io/k/21v2hqp) ![](assets/new.png)  
+- [2020-10-26-Apache-Maven-的常用命令行参数](https://toutiao.io/k/44794uh) ![](assets/new.png)  
+- [2020-10-26-MLP-算法推导小记](https://toutiao.io/k/xm5wyww) ![](assets/new.png)  
+- [2020-10-26-互联网是如何工作的？](https://toutiao.io/k/phlghsu) ![](assets/new.png)  
+- [2020-10-26-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
+- [2020-10-26-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-26-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-26-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

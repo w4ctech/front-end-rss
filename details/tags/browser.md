@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-26 02:51:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 03:04:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,7 @@
 - [2020-10-25-我敢说，你的登录接口肯定不安全](https://www.ershicimi.com/p/1e53cfba3562adda05b876a5d528b5d1) 
 - [2020-10-23-REST-API-的安全认证，我放弃OAuth-2.0-,选择-JWT-令牌](https://www.ershicimi.com/p/722000be63427a69a603a6e2a07bd6b5) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-26-有什么好用的浏览器录像的扩展推荐吗?](https://www.v2ex.com/t/718577) 
 - [2020-10-26-大家记录密码一般用什么工具，各种账号密码太多了不记录太容易就忘了，有安全一点的推荐么](https://www.v2ex.com/t/718571) 
 - [2020-10-26-安全岗位内推---字节跳动（社招+校招）](https://www.v2ex.com/t/718568) 
 - [2020-10-26-SpringMvc-全局-CORS-解决方案](https://www.v2ex.com/t/718538) 

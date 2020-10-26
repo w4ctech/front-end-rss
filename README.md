@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 02:51:25，:rocket: 更新条数: +3751， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 03:04:15，:rocket: 更新条数: +3748， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1073,6 +1073,16 @@
 </summary>
 
 
+- [2020-10-26-请教一个数据备份的问题](https://www.v2ex.com/t/718585) ![](assets/new.png)  
+- [2020-10-26-上海-火热招募前端工程师（React/Vue）3-4-名，好机会看过来~](https://www.v2ex.com/t/718584) ![](assets/new.png)  
+- [2020-10-26-10.24-10.25-北京-2-日游](https://www.v2ex.com/t/718583) ![](assets/new.png)  
+- [2020-10-26-win10-的更新可以跳过吗](https://www.v2ex.com/t/718581) ![](assets/new.png)  
+- [2020-10-26-北京-猿辅导-Infra---高可用系统高级研发工程师](https://www.v2ex.com/t/718579) ![](assets/new.png)  
+- [2020-10-26-PyCharm-的-DEBUG，能不能-不打断点去-step-by-step，而实时知道在哪一步吗？](https://www.v2ex.com/t/718578) ![](assets/new.png)  
+- [2020-10-26-有什么好用的浏览器录像的扩展推荐吗?](https://www.v2ex.com/t/718577) ![](assets/new.png)  
+- [2020-10-26-抖音/火山-招聘-DevOps-研发工程师](https://www.v2ex.com/t/718576) ![](assets/new.png)  
+- [2020-10-26-开源群里-300-多人，想让帮忙投个票，也不花钱，也不会被打电话，竟然只有十几个人帮忙投票了，我真的是无语了，这个开源项目，维护的好难受啊，没啥动力了。](https://www.v2ex.com/t/718575) ![](assets/new.png)  
+- [2020-10-26-iPhone-12-单移动卡省电模式进行测速或者下载无法稳定-5G，关闭省电模式就正常使用](https://www.v2ex.com/t/718573) ![](assets/new.png)  
 - [2020-10-26-你们在实际工作中用过哪些代码自动生成技术？](https://www.v2ex.com/t/718572) ![](assets/new.png)  
 - [2020-10-26-大家记录密码一般用什么工具，各种账号密码太多了不记录太容易就忘了，有安全一点的推荐么](https://www.v2ex.com/t/718571) ![](assets/new.png)  
 - [2020-10-26-iphone12-用第三方无线充电时屏幕会有水波纹](https://www.v2ex.com/t/718569) ![](assets/new.png)  
@@ -1083,16 +1093,6 @@
 - [2020-10-26-如何远程卸载软件，有域控环境](https://www.v2ex.com/t/718564) ![](assets/new.png)  
 - [2020-10-26-实习-微软亚洲研究院-防火墙开发工程师实习生](https://www.v2ex.com/t/718563) ![](assets/new.png)  
 - [2020-10-26-Java--互联网大厂](https://www.v2ex.com/t/718561) ![](assets/new.png)  
-- [2020-10-26-腰椎间盘突出只能缓解不能根治？](https://www.v2ex.com/t/718560) ![](assets/new.png)  
-- [2020-10-26-团队直招：蚂蚁集团，上海八佰伴/双休/极少出差，-Java-平台/大数据/实时计算/数仓，-P6~P8](https://www.v2ex.com/t/718559) ![](assets/new.png)  
-- [2020-10-26-妙控板-2-没有-haptic-feedback-了（不震动），这种问题有地方维修么？](https://www.v2ex.com/t/718557) ![](assets/new.png)  
-- [2020-10-26-大法的-NFC-能不能刷公交卡？新买了大法的马克兔。。。。。。](https://www.v2ex.com/t/718555) ![](assets/new.png)  
-- [2020-10-26-iPhone-和-Mac-之间突然没法使用-Handoff-了](https://www.v2ex.com/t/718554) ![](assets/new.png)  
-- [2020-10-26-保研结束之后，前辈们有推荐的实习吗？](https://www.v2ex.com/t/718552) ![](assets/new.png)  
-- [2020-10-26-寻一份前端开发远程全职](https://www.v2ex.com/t/718550) ![](assets/new.png)  
-- [2020-10-26-今天周一，手机突然欠费了，打工人们有什么好用的流量卡套餐，坐标上海！](https://www.v2ex.com/t/718548) ![](assets/new.png)  
-- [2020-10-26-iphone12-屏幕问题](https://www.v2ex.com/t/718547) ![](assets/new.png)  
-- [2020-10-26-出海专线服务器](https://www.v2ex.com/t/718546) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,8 +1136,8 @@
 
 
 - [2020-10-26-全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297) ![](assets/new.png)  
-- [2020-10-26-华为-18-级工程师总结的-50W-字算法、LeetCode、操作系统、计算机底层刷题必备笔记](https://toutiao.io/k/u76was8) ![](assets/new.png)  
 - [2020-10-26-编程体系结构：Java-面向对象](https://toutiao.io/k/g097j3l) ![](assets/new.png)  
+- [2020-10-26-华为-18-级工程师总结的-50W-字算法、LeetCode、操作系统、计算机底层刷题必备笔记](https://toutiao.io/k/u76was8) ![](assets/new.png)  
 - [2020-10-26-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [2020-10-26-Golang-单元测试详尽指引](https://toutiao.io/k/aio979l) ![](assets/new.png)  
 - [2020-10-26-译-构建-Netflix-分布式追踪-tracing-体系](https://toutiao.io/k/nbkgfk1) ![](assets/new.png)  
@@ -1153,8 +1153,8 @@
 - [2020-10-26-互联网是如何工作的？](https://toutiao.io/k/phlghsu) ![](assets/new.png)  
 - [2020-10-26-Bean-Validation-声明式验证四大级别：字段、属性、容器元素、类](https://toutiao.io/k/9orbwto) ![](assets/new.png)  
 - [2020-10-26-深入浅出-Thread.interrupt](https://toutiao.io/k/oyby5um) ![](assets/new.png)  
-- [2020-10-26-Python-实现：详解-LRU-缓存淘汰算法](https://toutiao.io/k/tcbc5jk) ![](assets/new.png)  
 - [2020-10-26-网易严选数据产品实践](https://toutiao.io/k/kvudhzp) ![](assets/new.png)  
+- [2020-10-26-Python-实现：详解-LRU-缓存淘汰算法](https://toutiao.io/k/tcbc5jk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

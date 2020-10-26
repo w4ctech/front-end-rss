@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-26 14:31:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 14:35:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -149,8 +149,8 @@
 - [【前端日刊】webpack-这么牛X，你还不会用？](https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1)
 - [【InfoQ】明星开源产品实践历程，从技术构建到营销革命](https://www.ershicimi.com/p/4f4378b7eb00ddf0fc6b80d47401e7e2)
 - [【JavaScript】20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/d8422d39a04292c8f6028cf324761115)
-- [【掘金前端】为什么说回不去webpack了](https://juejin.im/post/6887759985242013709)
-- [【掘金前端】webpack-devtool篇](https://juejin.im/post/6887750775368499207)
+- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【编程之上】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/d1a2be7e4e1914628f25d2a91506a019)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -242,6 +242,7 @@
 
 
 
+- [【V2EX】给媳妇攒个主机玩游戏，老哥们看看这个配置怎么样？](https://www.v2ex.com/t/718836)
 - [【安全热点】摸鱼神器!-VS-Code-变身小霸王游戏机](https://sec.thief.one/article_content?a_id=d7e78114074e7935413ea87aa5140571)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -473,6 +474,7 @@
 - [【前端日刊】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/3f31bee0e974ab26ac32528f2662869b)
 - [【互联网架构师】完美：Docker遇到Intellij-IDEA这个插件，再次解放生产力~](https://www.ershicimi.com/p/1e6599289ddc9d9befc2543bc1adc497)
 - [【JavaScript】就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)
+- [【V2EX】nginx-能匹配精准包含父子关系的-location-吗-?](https://www.v2ex.com/t/718815)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

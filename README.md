@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 06:34:36，:rocket: 更新条数: +3505， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 06:41:55，:rocket: 更新条数: +3514， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -715,6 +715,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1043,6 +1053,7 @@
 </summary>
 
 
+- [2020-10-26-北京社招-开黑啦-高级服务端开发工程师-20k-30k*14-薪](https://www.v2ex.com/t/718682) ![](assets/new.png)  
 - [2020-10-26-求适用.net-的文本编辑器，并且适用-Google-收录或怎样在.net-框架运行-wordpress](https://www.v2ex.com/t/718679) ![](assets/new.png)  
 - [2020-10-26-MagSafe-可能会使一次性卡消磁](https://www.v2ex.com/t/718678) ![](assets/new.png)  
 - [2020-10-26-双十一入手-hhkb](https://www.v2ex.com/t/718677) ![](assets/new.png)  
@@ -1062,7 +1073,6 @@
 - [2020-10-26-今年居然没什么人吐槽-iphone12-的刘海屏了？](https://www.v2ex.com/t/718657) ![](assets/new.png)  
 - [2020-10-26-iOS-上好用的跨平台密码管理软件](https://www.v2ex.com/t/718656) ![](assets/new.png)  
 - [2020-10-26-用-iPad-在通勤的地铁上搞学习现实吗？](https://www.v2ex.com/t/718655) ![](assets/new.png)  
-- [2020-10-26-成都---长桥招后端工程师-4---5-名](https://www.v2ex.com/t/718652) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,8 +1117,8 @@
 
 - [2020-10-26-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [2020-10-26-华为-18-级工程师总结的-50W-字算法、LeetCode、操作系统、计算机底层刷题必备笔记](https://toutiao.io/k/u76was8) ![](assets/new.png)  
-- [2020-10-26-全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297) ![](assets/new.png)  
 - [2020-10-26-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-10-26-全网最全-Log-配置教程及框架性能比较，看这篇就够了](https://toutiao.io/k/d1m5297) ![](assets/new.png)  
 - [2020-10-26-编程体系结构：Java-面向对象](https://toutiao.io/k/g097j3l) ![](assets/new.png)  
 - [2020-10-26-Golang-单元测试详尽指引](https://toutiao.io/k/aio979l) ![](assets/new.png)  
 - [2020-10-26-译-构建-Netflix-分布式追踪-tracing-体系](https://toutiao.io/k/nbkgfk1) ![](assets/new.png)  

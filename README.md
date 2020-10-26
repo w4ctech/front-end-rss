@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 02:01:10，:rocket: 更新条数: +3748， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 02:08:26，:rocket: 更新条数: +3750， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -953,7 +953,7 @@
 </summary>
 
 
-- [2020-10-25-【图灵&掘金1024活动】JavaScript的过去、现在和将来活动心得](https://juejin.im/post/6887733734334791694) ![](assets/new.png)  
+- [2020-10-25-精读《设计模式---Prototype-原型模式》](https://juejin.im/post/6887744450584395784) ![](assets/new.png)  
 - [2020-10-25-四年，如何从前端小白蜕变为前端技术专家？](https://juejin.im/post/6887731225771900942) ![](assets/new.png)  
 - [2020-10-25-「-volute-」树莓派+Node.js造一个有灵魂的语音助手](https://juejin.im/post/6887684959893454861) ![](assets/new.png)  
 - [2020-10-25-使用这些思路与技巧，我读懂了多个优秀的开源项目](https://juejin.im/post/6887689159918485511) ![](assets/new.png)  
@@ -1073,6 +1073,10 @@
 </summary>
 
 
+- [2020-10-26-出海专线服务器](https://www.v2ex.com/t/718546) ![](assets/new.png)  
+- [2020-10-26-想请教下各位大佬们,想换到游戏开发,技能点怎么点?](https://www.v2ex.com/t/718545) ![](assets/new.png)  
+- [2020-10-26-抖音多条业务线入驻上海！产品/运营社招岗位等你来投递！](https://www.v2ex.com/t/718544) ![](assets/new.png)  
+- [2020-10-26-一款培养习惯的小程序，优雅简洁](https://www.v2ex.com/t/718543) ![](assets/new.png)  
 - [2020-10-26-使用-serverless-快速部署各种应用到腾讯云函数](https://www.v2ex.com/t/718541) ![](assets/new.png)  
 - [2020-10-26-SpringMvc-全局-CORS-解决方案](https://www.v2ex.com/t/718538) ![](assets/new.png)  
 - [2020-10-26-Xs-max-手机维修怎么选择？求指导](https://www.v2ex.com/t/718537) ![](assets/new.png)  
@@ -1089,10 +1093,6 @@
 - [2020-10-26-各位前辈有空指点一下吧，我真的不知道该怎么办了](https://www.v2ex.com/t/718525) ![](assets/new.png)  
 - [2020-10-26-大家习惯把-Watch-戴哪边，表冠朝哪边](https://www.v2ex.com/t/718524) ![](assets/new.png)  
 - [2020-10-26-25-层的准备买-5-楼，前面一栋是-16-层的，买这层有没有不好的地方](https://www.v2ex.com/t/718523) ![](assets/new.png)  
-- [2020-10-26-搭建个人小型网站（比如博客）有必要用-OSS-存储图片吗？](https://www.v2ex.com/t/718522) ![](assets/new.png)  
-- [2020-10-26-目前正在使用妙控板-2-的-V-友,日常工作是什么感受?](https://www.v2ex.com/t/718521) ![](assets/new.png)  
-- [2020-10-26-打探个消息：海南版-iPhone12-什么时候能买到及除了去海南外有什么渠道可以买。](https://www.v2ex.com/t/718520) ![](assets/new.png)  
-- [2020-10-26-绑定-0.0.0.0-的网络服务，无法通过局域网-IP-访问，可能是什么原因导致的？](https://www.v2ex.com/t/718519) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1151,10 +1151,10 @@
 - [2020-10-26-Apache-Maven-的常用命令行参数](https://toutiao.io/k/44794uh) ![](assets/new.png)  
 - [2020-10-26-MLP-算法推导小记](https://toutiao.io/k/xm5wyww) ![](assets/new.png)  
 - [2020-10-26-互联网是如何工作的？](https://toutiao.io/k/phlghsu) ![](assets/new.png)  
-- [2020-10-26-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
-- [2020-10-26-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-26-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-26-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
+- [2020-10-26-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-26-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-26-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
+- [2020-10-26-推荐-国庆期间，我造了台计算机](https://toutiao.io/k/x4os6i7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

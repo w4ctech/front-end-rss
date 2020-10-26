@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 15:51:39，:rocket: 更新条数: +3521， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 16:05:42，:rocket: 更新条数: +3519， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1133,8 +1133,8 @@
 - [2020-10-26-互联网是如何工作的？](https://toutiao.io/k/phlghsu) ![](assets/new.png)  
 - [2020-10-26-Bean-Validation-声明式验证四大级别：字段、属性、容器元素、类](https://toutiao.io/k/9orbwto) ![](assets/new.png)  
 - [2020-10-26-Python-实现：详解-LRU-缓存淘汰算法](https://toutiao.io/k/tcbc5jk) ![](assets/new.png)  
-- [2020-10-26-深入浅出-Thread.interrupt](https://toutiao.io/k/oyby5um) ![](assets/new.png)  
 - [2020-10-26-网易严选数据产品实践](https://toutiao.io/k/kvudhzp) ![](assets/new.png)  
+- [2020-10-26-深入浅出-Thread.interrupt](https://toutiao.io/k/oyby5um) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

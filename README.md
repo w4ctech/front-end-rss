@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 17:14:44，:rocket: 更新条数: +3009， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 17:28:49，:rocket: 更新条数: +3009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-10-27-非云上贵州-icloud-恢复注意事项,特别是微信](https://www.v2ex.com/t/719241) ![](assets/new.png)  
+- [2020-10-27-如何在-ASGI-和-WSGI-之间反复横跳](https://www.v2ex.com/t/719240) ![](assets/new.png)  
 - [2020-10-27-Iphone12](https://www.v2ex.com/t/719238) ![](assets/new.png)  
 - [2020-10-27-没有在/etc/passwd-里的用户如何修改默认-shell？](https://www.v2ex.com/t/719237) ![](assets/new.png)  
 - [2020-10-27-老铁,-广州蚊子好多呀,-一般蚊香不顶用呀,-有啥办法没有.](https://www.v2ex.com/t/719236) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-10-27-可以更快地查阅-ESLint-文档了！](https://www.v2ex.com/t/719220) ![](assets/new.png)  
 - [2020-10-27-geogebra-中如何创建参数向量？](https://www.v2ex.com/t/719219) ![](assets/new.png)  
 - [2020-10-27-感觉最近几个月来大的-git-库很难下载成功了](https://www.v2ex.com/t/719218) ![](assets/new.png)  
-- [2020-10-27-江苏电信两个-speedtest-测速点外网速度超神了](https://www.v2ex.com/t/719217) ![](assets/new.png)  
-- [2020-10-27-黑五-pixel-5-价格能到多少](https://www.v2ex.com/t/719215) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,8 +605,8 @@
 - [2020-10-27-你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9) ![](assets/new.png)  
 - [2020-10-27-Ray-之内部实现机制](https://toutiao.io/k/tpgpccp) ![](assets/new.png)  
 - [2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
 - [2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) ![](assets/new.png)  
+- [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
 - [2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) ![](assets/new.png)  
 - [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
 - [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  

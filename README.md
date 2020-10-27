@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 05:14:44，:rocket: 更新条数: +2905， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 05:29:07，:rocket: 更新条数: +3006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)  
+- [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-10-27-组团打新蚂蚁港股，融资-100w](https://www.v2ex.com/t/719002) ![](assets/new.png)  
+- [2020-10-27-Flutter-Math:-使用纯-Flutter-渲染-LaTeX-数学公式](https://www.v2ex.com/t/719001) ![](assets/new.png)  
+- [2020-10-27-为啥现在传奇私服还能赚钱？](https://www.v2ex.com/t/719000) ![](assets/new.png)  
 - [2020-10-27-求助，-free-team-plan?](https://www.v2ex.com/t/718998) ![](assets/new.png)  
 - [2020-10-27-这种没有后缀的域名是怎么回事-http://ai./](https://www.v2ex.com/t/718997) ![](assets/new.png)  
 - [2020-10-27-有什么应用可以语音读邮件？](https://www.v2ex.com/t/718996) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-10-27-求一款自建-DNS-的-WEB-管理工具](https://www.v2ex.com/t/718980) ![](assets/new.png)  
 - [2020-10-27-Nginx-代理-Mysql-出现锁-IP-的情况](https://www.v2ex.com/t/718979) ![](assets/new.png)  
 - [2020-10-27-12306-铁路-e-卡通-无法扫码进站](https://www.v2ex.com/t/718977) ![](assets/new.png)  
-- [2020-10-27-大康优选是真的不行](https://www.v2ex.com/t/718976) ![](assets/new.png)  
-- [2020-10-27-Updating-Homebrew-卡住的解决方案](https://www.v2ex.com/t/718975) ![](assets/new.png)  
-- [2020-10-27-内推内推内推内推内推](https://www.v2ex.com/t/718974) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,6 +626,26 @@
 </summary>
 
 
+- [2020-10-26-每日攻防资讯简报Oct.26th](https://sec.thief.one/article_content?a_id=c1b38ca6e4fce4e84d84d708cce1e23e) ![](assets/new.png)  
+- [2020-10-26-虎符智库|Gartner:EDR和XDR成为终端安全热点](https://sec.thief.one/article_content?a_id=31e75876614d457571605558ced4c433) ![](assets/new.png)  
+- [2020-10-26-用Python做数据分析,你还缺几个项目!](https://sec.thief.one/article_content?a_id=afc90712e24383a6315129cebe66c036) ![](assets/new.png)  
+- [2020-10-26-2020看雪SDC议题回顾-|-逃逸IE浏览器沙箱:在野0Day漏洞利用复现](https://sec.thief.one/article_content?a_id=25d4f3d3763b4810e7cd12d24f2bbe39) ![](assets/new.png)  
+- [2020-10-26-【中奖名单】《机器学习实战》书籍中奖名单公布啦!](https://sec.thief.one/article_content?a_id=b6fe974f05355941bef36ac1d1bee131) ![](assets/new.png)  
+- [2020-10-26-I-Am-The-King恶意软件家族分析](https://sec.thief.one/article_content?a_id=9f543686c1525d8d6a48f96d173624a6) ![](assets/new.png)  
+- [2020-10-26-【内容推荐】新基建-|-国计民生下的工控攻防升级](https://sec.thief.one/article_content?a_id=f13b34b38e4742db4eb1259f01ab39cc) ![](assets/new.png)  
+- [2020-10-26-Windows-内核提权漏洞分析:CVE-2020-1034](https://sec.thief.one/article_content?a_id=614381762300dda0ec0b03f6bc4db50b) ![](assets/new.png)  
+- [2020-10-26-GeekPwn-2020之行圆满结束](https://sec.thief.one/article_content?a_id=8090398583f5d380b4343bd0b130759c) ![](assets/new.png)  
+- [2020-10-26-Frost&Sullivan-|-绿盟抗拒绝服务系统ADS连续六年稳居抗D市场第一](https://sec.thief.one/article_content?a_id=4e60ae175c89843f56c41722f974559c) ![](assets/new.png)  
+- [2020-10-26-“助力决战脱贫攻坚——网络名人走进内蒙古”活动启动](https://sec.thief.one/article_content?a_id=b80c60467bb52e9c849e2c30b3111099) ![](assets/new.png)  
+- [2020-10-26-雷神众测漏洞周报-2020.10.19-2020.10.25-5](https://sec.thief.one/article_content?a_id=c878f62d7f642394a0063144c67f2d7d) ![](assets/new.png)  
+- [2020-10-26-人物-|-邢台银行徐晓波:三线城市网络安全养成记](https://sec.thief.one/article_content?a_id=ea1c3904b4396d9d37ec441c2ca2f86c) ![](assets/new.png)  
+- [2020-10-26-特朗普的推特密码:maga2020](https://sec.thief.one/article_content?a_id=bb512a0ad07e3d44ecae111526a3da0e) ![](assets/new.png)  
+- [2020-10-26-CVE-2020-16899:-Windows-TCP/IP拒绝服务漏洞分析](https://sec.thief.one/article_content?a_id=eb0578e715d03d477c8ba1913aaa611a) ![](assets/new.png)  
+- [2020-10-26-XSS-网络钓鱼](https://sec.thief.one/article_content?a_id=62cdf55a50e83460f46528405eba7bf2) ![](assets/new.png)  
+- [2020-10-26-分析师称,黄金与比特币“断交”对比特币高度利好](https://sec.thief.one/article_content?a_id=8ce1ae3609c56afb86e4578fdd3ee3e4) ![](assets/new.png)  
+- [2020-10-26-10月25日币圈早内参-IOTA明年主网推出Coordicide-OKEx暂未公布恢...](https://sec.thief.one/article_content?a_id=efcafc8a8eafb0706a5bb49316ac2941) ![](assets/new.png)  
+- [2020-10-26-2021,你需要关注的云安全趋势都在这里](https://sec.thief.one/article_content?a_id=f8ce38e89957f0e4fa4eaeed5cf1948e) ![](assets/new.png)  
+- [2020-10-26-除了云原生,2021年还有哪些值得关注的云安全趋势?](https://sec.thief.one/article_content?a_id=951337611b294a2475c1e1a2221851d0) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 06:17:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-27 06:35:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -26,6 +26,24 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
+<td><a href="#2019-01">01月</a></td>
+<td><a href="#2019-02">02月</a></td>
+<td><a href="#2019-03">03月</a></td>
+<td>04月</td>
+<td>05月</td>
+<td><a href="#2019-06">06月</a></td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td><a href="#2019-11">11月</a></td>
+<td><a href="#2019-12">12月</a></td>
+</tr>
+
+<tr>
+<th colspan="12">2018年</th>
+</tr>
+<tr>
 <td>01月</td>
 <td>02月</td>
 <td>03月</td>
@@ -36,8 +54,8 @@
 <td>08月</td>
 <td>09月</td>
 <td>10月</td>
-<td><a href="#2019-11">11月</a></td>
-<td><a href="#2019-12">12月</a></td>
+<td>11月</td>
+<td><a href="#2018-12">12月</a></td>
 </tr>
 
 </table>
@@ -51,7 +69,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-10-26-10月26日全国新增境外输入新冠16例-累计确诊85826例](https://m.caixin.com/m/2020-10-27/101619113.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2020-10-26-独家|喀什疫情爆发地为一制衣厂-该厂人均工作面积不到2平米](https://m.caixin.com/m/2020-10-27/101619174.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-10-26-独家|喀什疫情暴发地为一制衣厂-该厂人均工作面积不到2平米](https://m.caixin.com/m/2020-10-27/101619174.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-10-26-大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-10-25-最新海外疫情：新冠感染超4290万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-26/101619039.html) 
@@ -153,6 +171,17 @@
 - [【掘金前端】2020-10-26-【译】WebAssembly-及其-JavaScript-API-的完整介绍](https://juejin.im/post/6887953627302854669) 
 - [【掘金前端】2020-10-26-正则表达式学习二：Vue模板解析v-for](https://juejin.im/post/6887952192368541703) 
 - [【掘金前端】2020-10-26-如何实现一个FormData？](https://juejin.im/post/6887952135648968717) 
+- [【V2EX】2020-10-27-玩-dota2-和街霸-5、只狼选哪个配置？](https://www.v2ex.com/t/719036) 
+- [【V2EX】2020-10-27-现在有网络传真吗](https://www.v2ex.com/t/719035) 
+- [【V2EX】2020-10-27-mybatis-分页拦截器使用方式里-pagehelper-和-mybatis-查询之间不能有其他逻辑处理，请问下这是不是不合理的，-21-个想问下这种是怎么实现的，比较好奇](https://www.v2ex.com/t/719034) 
+- [【V2EX】2020-10-27-PayPal-招-资深大数据工程师-啦---技术栈：-Spark,-Scala,-Java-,-Python-等](https://www.v2ex.com/t/719033) 
+- [【V2EX】2020-10-27-深圳初创公司招聘，资深产品经理和高级前端开发工程师](https://www.v2ex.com/t/719032) 
+- [【V2EX】2020-10-27-陌陌-小而美，双休-11.7-日招聘专场（-Java-、ios、Android](https://www.v2ex.com/t/719031) 
+- [【V2EX】2020-10-27-K30S-能上车吗也就是小米-10t](https://www.v2ex.com/t/719030) 
+- [【V2EX】2020-10-27-转租-7-号线西丽湖地铁口-整租-大一室一厅-拎包入住](https://www.v2ex.com/t/719028) 
+- [【V2EX】2020-10-27-腾讯搞了个云游戏，开始公测了，目前支持-13-款游戏了](https://www.v2ex.com/t/719027) 
+- [【V2EX】2020-10-27-Macbook-Pro-外接两个支持反向-Type-C-的显示器，有什么问题没-？](https://www.v2ex.com/t/719026) 
+- [【V2EX】2020-10-27-寻一份远程前端开发全职工作](https://www.v2ex.com/t/719025) 
 - [【V2EX】2020-10-27-线上回归测试数据的数据隔离有没有什么好的方案](https://www.v2ex.com/t/719023) 
 - [【V2EX】2020-10-27-索尼-WH-1000XM3-的-“Headphones”-App-里对声音位置等效果的调节在-PC/mac-如何实现？](https://www.v2ex.com/t/719022) 
 - [【V2EX】2020-10-27-各位大佬，-jpa-和-mybatis-一起用符合设计吗，有哪些隐患](https://www.v2ex.com/t/719020) 
@@ -181,16 +210,6 @@
 - [【V2EX】2020-10-27-听一段收音机广告有感……](https://www.v2ex.com/t/718990) 
 - [【V2EX】2020-10-27-大概率我就是那个苹果用户中的“幸存者偏差”吧](https://www.v2ex.com/t/718989) 
 - [【V2EX】2020-10-27-网络安全知识竞答-有红包~](https://www.v2ex.com/t/718988) 
-- [【V2EX】2020-10-27-nodejs-+-mongodb-+-vue-+-flutter-开发一套电影-cms-系统如何？](https://www.v2ex.com/t/718986) 
-- [【V2EX】2020-10-27-iPhone12-黄屏是普遍现象吗](https://www.v2ex.com/t/718983) 
-- [【V2EX】2020-10-27-2020-年该选哪款空气检测仪](https://www.v2ex.com/t/718982) 
-- [【V2EX】2020-10-27-大家帮看看这种-Java-写-sql-的代码可取吗](https://www.v2ex.com/t/718981) 
-- [【V2EX】2020-10-27-求一款自建-DNS-的-WEB-管理工具](https://www.v2ex.com/t/718980) 
-- [【V2EX】2020-10-27-Nginx-代理-Mysql-出现锁-IP-的情况](https://www.v2ex.com/t/718979) 
-- [【V2EX】2020-10-27-12306-铁路-e-卡通-无法扫码进站](https://www.v2ex.com/t/718977) 
-- [【V2EX】2020-10-27-大康优选是真的不行](https://www.v2ex.com/t/718976) 
-- [【V2EX】2020-10-27-Updating-Homebrew-卡住的解决方案](https://www.v2ex.com/t/718975) 
-- [【V2EX】2020-10-27-内推内推内推内推内推](https://www.v2ex.com/t/718974) 
 - [【技术头条】2020-10-27-一文教会你如何写复杂业务代码-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13828&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776434%3Futm_content%3Dg_1000194580%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-27-深度-|-容器规模化落地企业的最佳途径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13827&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776227%3Futm_content%3Dg_1000194579%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-27-2020亚太内容分发大会-阿里云荣获“边缘计算领航企业”奖-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13826&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776075%3Futm_content%3Dg_1000194578%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -222,30 +241,30 @@
 - [【开发者头条】2020-10-27-Ray-之内部实现机制](https://toutiao.io/k/tpgpccp) 
 - [【开发者头条】2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) 
 - [【开发者头条】2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) 
-- [【开发者头条】2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) 
 - [【开发者头条】2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) 
+- [【开发者头条】2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) 
 - [【开发者头条】2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) 
 - [【开发者头条】2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) 
 - [【开发者头条】2020-10-27-数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9) 
 - [【开发者头条】2020-10-27-vivo-基于原生-RabbitMQ-的高可用架构实践](https://toutiao.io/k/w1n38ti) 
-- [【开发者头条】2020-10-27-智能化趋势-v2.0](https://toutiao.io/k/8jywiu5) 
 - [【开发者头条】2020-10-27-Bilibili-实时计算平台架构与实践](https://toutiao.io/k/05y658j) 
+- [【开发者头条】2020-10-27-智能化趋势-v2.0](https://toutiao.io/k/8jywiu5) 
 - [【开发者头条】2020-10-27-controller-runtime-之控制器实现](https://toutiao.io/k/yaj8it8) 
+- [【开发者头条】2020-10-27-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) 
+- [【开发者头条】2020-10-27-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) 
+- [【开发者头条】2020-10-27-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
 - [【开发者头条】2020-10-27-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
 - [【开发者头条】2020-10-27-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
-- [【开发者头条】2020-10-27-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) 
 - [【开发者头条】2020-10-27-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
-- [【开发者头条】2020-10-27-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) 
-- [【开发者头条】2020-10-27-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
-- [【开发者头条】2020-10-27-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) 
-- [【开发者头条】2020-10-27-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
 - [【开发者头条】2020-10-27-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) 
+- [【开发者头条】2020-10-27-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) 
 - [【开发者头条】2020-10-27-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) 
-- [【开发者头条】2020-10-27-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) 
-- [【开发者头条】2020-10-27-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
 - [【开发者头条】2020-10-27-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) 
-- [【开发者头条】2020-10-27-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
+- [【开发者头条】2020-10-27-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
+- [【开发者头条】2020-10-27-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
+- [【开发者头条】2020-10-27-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) 
 - [【开发者头条】2020-10-27-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) 
+- [【开发者头条】2020-10-27-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
 - [【安全热点】2020-10-26-每日攻防资讯简报Oct.26th](https://sec.thief.one/article_content?a_id=c1b38ca6e4fce4e84d84d708cce1e23e) 
 - [【安全热点】2020-10-26-虎符智库|Gartner:EDR和XDR成为终端安全热点](https://sec.thief.one/article_content?a_id=31e75876614d457571605558ced4c433) 
 - [【安全热点】2020-10-26-用Python做数据分析,你还缺几个项目!](https://sec.thief.one/article_content?a_id=afc90712e24383a6315129cebe66c036) 
@@ -2093,6 +2112,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-抓防疫也顾春耕-李克强开了新冠疫情领导小组会](http://m.china.caixin.com/m/2020-03-02/101523024.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-北京：黄某英离汉进京有关问题的调查及情况通报](http://m.china.caixin.com/m/2020-03-02/101522908.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html) 
+- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
+- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3153,6 +3174,64 @@
 - [【前端艺术家&&飞冰早报】2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [【前端艺术家&&飞冰早报】2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
 - [【前端艺术家&&飞冰早报】2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-06">
+ 2019-06
+</summary>
+
+
+- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-03">
+ 2019-03
+</summary>
+
+
+- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-02">
+ 2019-02
+</summary>
+
+
+- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-01">
+ 2019-01
+</summary>
+
+
+- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
+- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2018-12">
+ 2018-12
+</summary>
+
+
+- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
+- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 06:17:04，:rocket: 更新条数: +2993， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 06:35:07，:rocket: 更新条数: +3004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -65,7 +65,7 @@
 
 
 - [2020-10-26-10月26日全国新增境外输入新冠16例-累计确诊85826例](https://m.caixin.com/m/2020-10-27/101619113.html) ![](assets/new.png)  
-- [2020-10-26-独家|喀什疫情爆发地为一制衣厂-该厂人均工作面积不到2平米](https://m.caixin.com/m/2020-10-27/101619174.html) ![](assets/new.png)  
+- [2020-10-26-独家|喀什疫情暴发地为一制衣厂-该厂人均工作面积不到2平米](https://m.caixin.com/m/2020-10-27/101619174.html) ![](assets/new.png)  
 - [2020-10-26-大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html) ![](assets/new.png)  
 - [2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) ![](assets/new.png)  
 - [2020-10-25-最新海外疫情：新冠感染超4290万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-26/101619039.html) ![](assets/new.png)  
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,6 +533,17 @@
 </summary>
 
 
+- [2020-10-27-玩-dota2-和街霸-5、只狼选哪个配置？](https://www.v2ex.com/t/719036) ![](assets/new.png)  
+- [2020-10-27-现在有网络传真吗](https://www.v2ex.com/t/719035) ![](assets/new.png)  
+- [2020-10-27-mybatis-分页拦截器使用方式里-pagehelper-和-mybatis-查询之间不能有其他逻辑处理，请问下这是不是不合理的，-21-个想问下这种是怎么实现的，比较好奇](https://www.v2ex.com/t/719034) ![](assets/new.png)  
+- [2020-10-27-PayPal-招-资深大数据工程师-啦---技术栈：-Spark,-Scala,-Java-,-Python-等](https://www.v2ex.com/t/719033) ![](assets/new.png)  
+- [2020-10-27-深圳初创公司招聘，资深产品经理和高级前端开发工程师](https://www.v2ex.com/t/719032) ![](assets/new.png)  
+- [2020-10-27-陌陌-小而美，双休-11.7-日招聘专场（-Java-、ios、Android](https://www.v2ex.com/t/719031) ![](assets/new.png)  
+- [2020-10-27-K30S-能上车吗也就是小米-10t](https://www.v2ex.com/t/719030) ![](assets/new.png)  
+- [2020-10-27-转租-7-号线西丽湖地铁口-整租-大一室一厅-拎包入住](https://www.v2ex.com/t/719028) ![](assets/new.png)  
+- [2020-10-27-腾讯搞了个云游戏，开始公测了，目前支持-13-款游戏了](https://www.v2ex.com/t/719027) ![](assets/new.png)  
+- [2020-10-27-Macbook-Pro-外接两个支持反向-Type-C-的显示器，有什么问题没-？](https://www.v2ex.com/t/719026) ![](assets/new.png)  
+- [2020-10-27-寻一份远程前端开发全职工作](https://www.v2ex.com/t/719025) ![](assets/new.png)  
 - [2020-10-27-线上回归测试数据的数据隔离有没有什么好的方案](https://www.v2ex.com/t/719023) ![](assets/new.png)  
 - [2020-10-27-索尼-WH-1000XM3-的-“Headphones”-App-里对声音位置等效果的调节在-PC/mac-如何实现？](https://www.v2ex.com/t/719022) ![](assets/new.png)  
 - [2020-10-27-各位大佬，-jpa-和-mybatis-一起用符合设计吗，有哪些隐患](https://www.v2ex.com/t/719020) ![](assets/new.png)  
@@ -532,17 +553,6 @@
 - [2020-10-27-独立开发者们快来填「独立开发者生存现状」调查问卷！](https://www.v2ex.com/t/719015) ![](assets/new.png)  
 - [2020-10-27-Java-怎么获取其他服务器的-CPU-使用率，内存使用率？](https://www.v2ex.com/t/719014) ![](assets/new.png)  
 - [2020-10-27-函数可变参数遇到固定语句无法判断参数关系的问题](https://www.v2ex.com/t/719013) ![](assets/new.png)  
-- [2020-10-27-找一些-remote-工作的小伙伴，一起建个群交流下也可以平时参加个技术大会什么的](https://www.v2ex.com/t/719012) ![](assets/new.png)  
-- [2020-10-27-北京海淀-长亭科技（阿里系公司）-后端开发、系统研发](https://www.v2ex.com/t/719011) ![](assets/new.png)  
-- [2020-10-27-求助，问下我这个机房的-ipv6-地址是不是拔网线了，-ping-不通](https://www.v2ex.com/t/719010) ![](assets/new.png)  
-- [2020-10-27-四盘位-NAS-使用规划求指导](https://www.v2ex.com/t/719006) ![](assets/new.png)  
-- [2020-10-27-上海招聘-坚果云——新增安卓、后端方向，对开源工具类-APP-感兴趣的同学进来看看！](https://www.v2ex.com/t/719004) ![](assets/new.png)  
-- [2020-10-27-vue-中使用-echarts，当发生路由跳转的时候，再跳转回来，-echarts-就消失不见了，这是为什么？](https://www.v2ex.com/t/719003) ![](assets/new.png)  
-- [2020-10-27-组团打新蚂蚁港股，融资-100w](https://www.v2ex.com/t/719002) ![](assets/new.png)  
-- [2020-10-27-Flutter-Math:-使用纯-Flutter-渲染-LaTeX-数学公式](https://www.v2ex.com/t/719001) ![](assets/new.png)  
-- [2020-10-27-为啥现在传奇私服还能赚钱？](https://www.v2ex.com/t/719000) ![](assets/new.png)  
-- [2020-10-27-求助，-free-team-plan?](https://www.v2ex.com/t/718998) ![](assets/new.png)  
-- [2020-10-27-这种没有后缀的域名是怎么回事-http://ai./](https://www.v2ex.com/t/718997) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -596,14 +606,14 @@
 - [2020-10-27-Ray-之内部实现机制](https://toutiao.io/k/tpgpccp) ![](assets/new.png)  
 - [2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) ![](assets/new.png)  
 - [2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) ![](assets/new.png)  
 - [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
+- [2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) ![](assets/new.png)  
 - [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
 - [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
 - [2020-10-27-数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9) ![](assets/new.png)  
 - [2020-10-27-vivo-基于原生-RabbitMQ-的高可用架构实践](https://toutiao.io/k/w1n38ti) ![](assets/new.png)  
-- [2020-10-27-智能化趋势-v2.0](https://toutiao.io/k/8jywiu5) ![](assets/new.png)  
 - [2020-10-27-Bilibili-实时计算平台架构与实践](https://toutiao.io/k/05y658j) ![](assets/new.png)  
+- [2020-10-27-智能化趋势-v2.0](https://toutiao.io/k/8jywiu5) ![](assets/new.png)  
 - [2020-10-27-controller-runtime-之控制器实现](https://toutiao.io/k/yaj8it8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

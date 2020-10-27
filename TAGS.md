@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-27 06:17:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 06:35:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,11 +55,11 @@
 
 
 
+- [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [【掘金前端】Electron+vue从零开始打造一个本地音乐播放器](https://juejin.im/post/6887964816237920263)
 - [【掘金前端】正则表达式学习二：Vue模板解析v-for](https://juejin.im/post/6887952192368541703)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [【V2EX】vue-中使用-echarts，当发生路由跳转的时候，再跳转回来，-echarts-就消失不见了，这是为什么？](https://www.v2ex.com/t/719003)
-- [【V2EX】nodejs-+-mongodb-+-vue-+-flutter-开发一套电影-cms-系统如何？](https://www.v2ex.com/t/718986)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -162,6 +162,7 @@
 
 
 
+- [【V2EX】腾讯搞了个云游戏，开始公测了，目前支持-13-款游戏了](https://www.v2ex.com/t/719027)
 - [【安全热点】摸鱼神器!-VS-Code-变身小霸王游戏机](https://sec.thief.one/article_content?a_id=d7e78114074e7935413ea87aa5140571)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -296,6 +297,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -368,7 +371,6 @@
 
 
 
-- [【V2EX】Nginx-代理-Mysql-出现锁-IP-的情况](https://www.v2ex.com/t/718979)
 - [【开发者头条】译-初识-NGINX-服务网格](https://toutiao.io/k/mc7hwwn)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -404,6 +406,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【V2EX】深圳初创公司招聘，资深产品经理和高级前端开发工程师](https://www.v2ex.com/t/719032)
+- [【V2EX】陌陌-小而美，双休-11.7-日招聘专场（-Java-、ios、Android](https://www.v2ex.com/t/719031)
 - [【V2EX】上海招聘-坚果云——新增安卓、后端方向，对开源工具类-APP-感兴趣的同学进来看看！](https://www.v2ex.com/t/719004)
 - [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
 - [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
@@ -476,7 +480,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】10月26日全国新增境外输入新冠16例-累计确诊85826例](https://m.caixin.com/m/2020-10-27/101619113.html)
-- [【武汉肺炎防疫全纪录(财新网)】独家|喀什疫情爆发地为一制衣厂-该厂人均工作面积不到2平米](https://m.caixin.com/m/2020-10-27/101619174.html)
+- [【武汉肺炎防疫全纪录(财新网)】独家|喀什疫情暴发地为一制衣厂-该厂人均工作面积不到2平米](https://m.caixin.com/m/2020-10-27/101619174.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html)
 - [【武汉肺炎防疫全纪录(财新网)】新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超4290万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-26/101619039.html)

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-27 05:39:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 05:47:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -59,6 +59,7 @@
 - [【掘金前端】Electron+vue从零开始打造一个本地音乐播放器](https://juejin.im/post/6887964816237920263)
 - [【掘金前端】正则表达式学习二：Vue模板解析v-for](https://juejin.im/post/6887952192368541703)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
+- [【V2EX】vue-中使用-echarts，当发生路由跳转的时候，再跳转回来，-echarts-就消失不见了，这是为什么？](https://www.v2ex.com/t/719003)
 - [【V2EX】nodejs-+-mongodb-+-vue-+-flutter-开发一套电影-cms-系统如何？](https://www.v2ex.com/t/718986)
 - [......【查看更多】......](./details/tags/vue.md)
 
@@ -407,6 +408,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【V2EX】上海招聘-坚果云——新增安卓、后端方向，对开源工具类-APP-感兴趣的同学进来看看！](https://www.v2ex.com/t/719004)
 - [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
 - [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)

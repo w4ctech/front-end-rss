@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 05:39:09，:rocket: 更新条数: +3006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 05:47:22，:rocket: 更新条数: +3004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-10-27-四盘位-NAS-使用规划求指导](https://www.v2ex.com/t/719006) ![](assets/new.png)  
+- [2020-10-27-上海招聘-坚果云——新增安卓、后端方向，对开源工具类-APP-感兴趣的同学进来看看！](https://www.v2ex.com/t/719004) ![](assets/new.png)  
+- [2020-10-27-vue-中使用-echarts，当发生路由跳转的时候，再跳转回来，-echarts-就消失不见了，这是为什么？](https://www.v2ex.com/t/719003) ![](assets/new.png)  
 - [2020-10-27-组团打新蚂蚁港股，融资-100w](https://www.v2ex.com/t/719002) ![](assets/new.png)  
 - [2020-10-27-Flutter-Math:-使用纯-Flutter-渲染-LaTeX-数学公式](https://www.v2ex.com/t/719001) ![](assets/new.png)  
 - [2020-10-27-为啥现在传奇私服还能赚钱？](https://www.v2ex.com/t/719000) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-10-27-iPhone12-黄屏是普遍现象吗](https://www.v2ex.com/t/718983) ![](assets/new.png)  
 - [2020-10-27-2020-年该选哪款空气检测仪](https://www.v2ex.com/t/718982) ![](assets/new.png)  
 - [2020-10-27-大家帮看看这种-Java-写-sql-的代码可取吗](https://www.v2ex.com/t/718981) ![](assets/new.png)  
-- [2020-10-27-求一款自建-DNS-的-WEB-管理工具](https://www.v2ex.com/t/718980) ![](assets/new.png)  
-- [2020-10-27-Nginx-代理-Mysql-出现锁-IP-的情况](https://www.v2ex.com/t/718979) ![](assets/new.png)  
-- [2020-10-27-12306-铁路-e-卡通-无法扫码进站](https://www.v2ex.com/t/718977) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

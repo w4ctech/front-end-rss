@@ -13742,6 +13742,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "捷克政府宣布实施宵禁并限制商店营业时间",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKIPz000JwS3NvSsY8UD4201027&isfromapp=1",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "斯洛伐克全民检测试点工作结束 5594人确诊感染新冠病毒",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifwpSHSw9q9CetMve1HRG201027&isfromapp=1",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "疫情之下读书难！85.8万名巴西私立大学学生因疫情中止学业",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6uRXl6vdtFx0iwLmFSvu201027&isfromapp=1",
+        "date": "2020-10-26"
+      },
+      {
         "title": "哥伦比亚新冠肺炎确诊病例累计逾125万 至少165名医护人员因感染死亡",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMfhvCktRslaio0tlFqhq201027&isfromapp=1",
         "date": "2020-10-26"
@@ -13749,21 +13764,6 @@
       {
         "title": "上周全球新增病例数为疫情以来最高值，美国27州单日新增破纪录",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8uYrxOP8NJNmexB2mNQ5201027&isfromapp=1",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "加拿大议会众院通过动议 调查政府应对新冠疫情是否得力",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4o3lTIIDVSVcFMKX3jI4201027&isfromapp=1",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "10月份美国27州日新增新冠肺炎确诊病例数破纪录",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqyHaZ6KP5A2dABbooc4h201027&isfromapp=1",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "美国疾控中心：美国2020“超额死亡”人数已近30万人",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijjXmt36eQUzDVxakRdgN201027&isfromapp=1",
         "date": "2020-10-26"
       }
     ]
@@ -14273,13 +14273,53 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "(首发帖) 想买一台 mac",
-        "link": "https://www.v2ex.com/t/718908",
+        "title": "化繁为简，直击构建 —— CODING 持续集成再升级",
+        "link": "https://www.v2ex.com/t/718921",
         "date": "2020-10-27"
       },
       {
-        "title": "YouTube premium 印度区香港家庭组，有车吗？求加入",
-        "link": "https://www.v2ex.com/t/718907",
+        "title": "[实习] [微软亚洲研究院] Azure 云智能渗透系统研发实习生实习生",
+        "link": "https://www.v2ex.com/t/718919",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "在推荐一个工具：使用 kainstall 工具一键部署 kubernetes 高可用集群",
+        "link": "https://www.v2ex.com/t/718918",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "🔥🔥 [字节跳动] 21 届校招内推，抓住秋招的末班车🔥🔥",
+        "link": "https://www.v2ex.com/t/718917",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "北京直营店 下一批 12 Pro 什么时候 有知道的吗",
+        "link": "https://www.v2ex.com/t/718916",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "本来打算买 12mini，看到这个果断放弃",
+        "link": "https://www.v2ex.com/t/718915",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "直播用的弹幕姬都是怎么实现的？",
+        "link": "https://www.v2ex.com/t/718914",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "双 11 了，刚搬新房，该采购家电了，大家有没有性价比家电选购建议？",
+        "link": "https://www.v2ex.com/t/718912",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "北京居住证过期了 ，有什么办法能够快速补充上",
+        "link": "https://www.v2ex.com/t/718911",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "(首发帖) 想买一台 mac",
+        "link": "https://www.v2ex.com/t/718908",
         "date": "2020-10-27"
       },
       {
@@ -14426,46 +14466,6 @@
         "title": "字节跳动 Data-广告研发团队招聘前端开发工程师（校招&社招）",
         "link": "https://www.v2ex.com/t/718872",
         "date": "2020-10-27"
-      },
-      {
-        "title": "嘉兴九龙山、淀山湖二日游：骑行露营、观海观星、观日出日落",
-        "link": "https://www.v2ex.com/t/718871",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "客户端居然能修改 samba server 上的文件权限，客户端是百度网盘",
-        "link": "https://www.v2ex.com/t/718870",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "不知道真的假的，如果是真的这也太环保了",
-        "link": "https://www.v2ex.com/t/718869",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "那位大佬再西安西京医院神经外科有熟人可以见到主任，紧急求助",
-        "link": "https://www.v2ex.com/t/718867",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "大家对公然抄袭网站，怎么看？",
-        "link": "https://www.v2ex.com/t/718866",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "想买 xs max 淘宝 值吗",
-        "link": "https://www.v2ex.com/t/718864",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "c++ 如何判断用户是否 启用了 睡眠功能呢?",
-        "link": "https://www.v2ex.com/t/718861",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "想问下有花集网的小伙伴吗～",
-        "link": "https://www.v2ex.com/t/718860",
-        "date": "2020-10-26"
       }
     ]
   },
@@ -14474,6 +14474,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "2020亚太内容分发大会 阿里云荣获“边缘计算领航企业”奖 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13826&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776075%3Futm_content%3Dg_1000194578%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-27"
+      },
       {
         "title": "Spring boot 2.3优雅下线，距离生产还有多远？ (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13825&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776108%3Futm_content%3Dg_1000193974%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14568,11 +14573,6 @@
         "title": "一文讲懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZYFdJ0FRNhcbWP3Ddng1lA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-10-27"
-      },
-      {
-        "title": "Android 敏感数据泄露引发的思考 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-27"
       }
     ]
   },
@@ -14592,13 +14592,13 @@
         "date": "2020-10-27"
       },
       {
-        "title": "进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
+        "title": "工具 | 阿里云开源的，业界首个面向 NLP 场景的深度迁移学习框架",
+        "link": "https://toutiao.io/k/6ic2uca",
         "date": "2020-10-27"
       },
       {
-        "title": "工具 | 阿里云开源的，业界首个面向 NLP 场景的深度迁移学习框架",
-        "link": "https://toutiao.io/k/6ic2uca",
+        "title": "进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-10-27"
       },
       {
@@ -14662,53 +14662,8 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
-        "link": "https://toutiao.io/k/o904vp0",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-27"
-      },
-      {
         "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
         "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
         "date": "2020-10-27"
       },
       {
@@ -14717,13 +14672,8 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
-        "link": "https://toutiao.io/k/lxcx8vb",
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-27"
       },
       {
@@ -14732,8 +14682,58 @@
         "date": "2020-10-27"
       },
       {
+        "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
+        "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-27"
+      },
+      {
         "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
         "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
         "date": "2020-10-27"
       }
     ]

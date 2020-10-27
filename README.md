@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 02:12:39，:rocket: 更新条数: +2999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 02:35:51，:rocket: 更新条数: +2999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-27-捷克政府宣布实施宵禁并限制商店营业时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKIPz000JwS3NvSsY8UD4201027&isfromapp=1) ![](assets/new.png)  
+- [2020-10-27-斯洛伐克全民检测试点工作结束-5594人确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifwpSHSw9q9CetMve1HRG201027&isfromapp=1) ![](assets/new.png)  
+- [2020-10-26-疫情之下读书难！85.8万名巴西私立大学学生因疫情中止学业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6uRXl6vdtFx0iwLmFSvu201027&isfromapp=1) ![](assets/new.png)  
 - [2020-10-26-哥伦比亚新冠肺炎确诊病例累计逾125万-至少165名医护人员因感染死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMfhvCktRslaio0tlFqhq201027&isfromapp=1) ![](assets/new.png)  
 - [2020-10-26-上周全球新增病例数为疫情以来最高值，美国27州单日新增破纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8uYrxOP8NJNmexB2mNQ5201027&isfromapp=1) ![](assets/new.png)  
-- [2020-10-26-加拿大议会众院通过动议-调查政府应对新冠疫情是否得力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4o3lTIIDVSVcFMKX3jI4201027&isfromapp=1) ![](assets/new.png)  
-- [2020-10-26-10月份美国27州日新增新冠肺炎确诊病例数破纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqyHaZ6KP5A2dABbooc4h201027&isfromapp=1) ![](assets/new.png)  
-- [2020-10-26-美国疾控中心：美国2020“超额死亡”人数已近30万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijjXmt36eQUzDVxakRdgN201027&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,8 +533,16 @@
 </summary>
 
 
+- [2020-10-27-化繁为简，直击构建-——-CODING-持续集成再升级](https://www.v2ex.com/t/718921) ![](assets/new.png)  
+- [2020-10-27-实习-微软亚洲研究院-Azure-云智能渗透系统研发实习生实习生](https://www.v2ex.com/t/718919) ![](assets/new.png)  
+- [2020-10-27-在推荐一个工具：使用-kainstall-工具一键部署-kubernetes-高可用集群](https://www.v2ex.com/t/718918) ![](assets/new.png)  
+- [2020-10-27-🔥🔥-字节跳动-21-届校招内推，抓住秋招的末班车🔥🔥](https://www.v2ex.com/t/718917) ![](assets/new.png)  
+- [2020-10-27-北京直营店-下一批-12-Pro-什么时候-有知道的吗](https://www.v2ex.com/t/718916) ![](assets/new.png)  
+- [2020-10-27-本来打算买-12mini，看到这个果断放弃](https://www.v2ex.com/t/718915) ![](assets/new.png)  
+- [2020-10-27-直播用的弹幕姬都是怎么实现的？](https://www.v2ex.com/t/718914) ![](assets/new.png)  
+- [2020-10-27-双-11-了，刚搬新房，该采购家电了，大家有没有性价比家电选购建议？](https://www.v2ex.com/t/718912) ![](assets/new.png)  
+- [2020-10-27-北京居住证过期了-，有什么办法能够快速补充上](https://www.v2ex.com/t/718911) ![](assets/new.png)  
 - [2020-10-27-首发帖-想买一台-mac](https://www.v2ex.com/t/718908) ![](assets/new.png)  
-- [2020-10-27-YouTube-premium-印度区香港家庭组，有车吗？求加入](https://www.v2ex.com/t/718907) ![](assets/new.png)  
 - [2020-10-27-坐标深圳，招资深前端开发工程师](https://www.v2ex.com/t/718906) ![](assets/new.png)  
 - [2020-10-27-提问后台简单调用第三方-api-轮询实现方式](https://www.v2ex.com/t/718905) ![](assets/new.png)  
 - [2020-10-27-垃圾分类，我市也开始搞了，感觉是运动式的...](https://www.v2ex.com/t/718904) ![](assets/new.png)  
@@ -545,14 +553,6 @@
 - [2020-10-27-深度学习工程师，-80-200W，杭州，幻方-AI-Lab](https://www.v2ex.com/t/718897) ![](assets/new.png)  
 - [2020-10-27-前端（react）2-年及以上内推----小步网络/宝安坪洲](https://www.v2ex.com/t/718896) ![](assets/new.png)  
 - [2020-10-27-现在技术栈更新的贼快，然后面试造火箭的什么东西都要深入](https://www.v2ex.com/t/718895) ![](assets/new.png)  
-- [2020-10-27-求问，-QQ-邮箱大家平常的使用习惯是什么场景呢？-web-方式还是客户端？](https://www.v2ex.com/t/718894) ![](assets/new.png)  
-- [2020-10-27-双屏支架还是两个支架](https://www.v2ex.com/t/718892) ![](assets/new.png)  
-- [2020-10-27-iphone11-和-iphone12-mini-怎么选？](https://www.v2ex.com/t/718891) ![](assets/new.png)  
-- [2020-10-27-支持节点内部使用-Markdown-语法的思维导图—MarkMind-在线版目前可以免费使用](https://www.v2ex.com/t/718890) ![](assets/new.png)  
-- [2020-10-27-帮我们队伍想个口号吧？](https://www.v2ex.com/t/718889) ![](assets/new.png)  
-- [2020-10-27-GOPATH-一般是怎么管理的](https://www.v2ex.com/t/718888) ![](assets/new.png)  
-- [2020-10-27-emmm..假如-iPhone-变厚让摄像头不凸出，变厚的部分多塞点电池，各位能接受么](https://www.v2ex.com/t/718887) ![](assets/new.png)  
-- [2020-10-27-有很多开源的-Web-项目，如何接入自己已经搭建的用户系统?有什么思路？](https://www.v2ex.com/t/718886) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-10-27-2020亚太内容分发大会-阿里云荣获“边缘计算领航企业”奖-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13826&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776075%3Futm_content%3Dg_1000194578%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-27-Spring-boot-2.3优雅下线，距离生产还有多远？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13825&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776108%3Futm_content%3Dg_1000193974%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-27-基于-Flink-+-ClickHouse-打造轻量级点击流实时数仓-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13824&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776070%3Futm_content%3Dg_1000193973%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-27-阿里-双11-同款，流量防卫兵-Sentinel-go-源码解读-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13823&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776066%3Futm_content%3Dg_1000193972%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-10-27-提高工作效率的-7-个-Vim-使用技巧！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13809&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB_ig8tXlAZWmsioatZVCWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-27-Referer-防盗链，为什么少了个字母-R？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13808&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F263425663%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-27-一文讲懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13807&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZYFdJ0FRNhcbWP3Ddng1lA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-27-Android-敏感数据泄露引发的思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13806&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVhWN1SXxIngaDQJtv4Hbtw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -597,8 +597,8 @@
 
 - [2020-10-27-困在内卷里的工程师-|-码农周刊第-322-期](https://toutiao.io/k/mb7u8g0) ![](assets/new.png)  
 - [2020-10-27-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-10-27-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
 - [2020-10-27-工具-|-阿里云开源的，业界首个面向-NLP-场景的深度迁移学习框架](https://toutiao.io/k/6ic2uca) ![](assets/new.png)  
+- [2020-10-27-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
 - [2020-10-27-译-初识-NGINX-服务网格](https://toutiao.io/k/mc7hwwn) ![](assets/new.png)  
 - [2020-10-27-中台架构下的-DDD-和落地实践](https://toutiao.io/k/pbogqyj) ![](assets/new.png)  
 - [2020-10-27-MySQL-&-MariaDB-Online-DDL-参考指南](https://toutiao.io/k/2acx2zh) ![](assets/new.png)  
@@ -611,10 +611,10 @@
 - [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
 - [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
 - [2020-10-27-数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9) ![](assets/new.png)  
-- [2020-10-27-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
-- [2020-10-27-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-27-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
-- [2020-10-27-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-10-27-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-27-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-10-27-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
+- [2020-10-27-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

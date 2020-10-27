@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-10-27 04:05:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 04:18:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-27-iPhone12-黄屏是普遍现象吗](https://www.v2ex.com/t/718983) 
+- [2020-10-27-2020-年该选哪款空气检测仪](https://www.v2ex.com/t/718982) 
+- [2020-10-27-大家帮看看这种-Java-写-sql-的代码可取吗](https://www.v2ex.com/t/718981) 
+- [2020-10-27-求一款自建-DNS-的-WEB-管理工具](https://www.v2ex.com/t/718980) 
+- [2020-10-27-Nginx-代理-Mysql-出现锁-IP-的情况](https://www.v2ex.com/t/718979) 
+- [2020-10-27-12306-铁路-e-卡通-无法扫码进站](https://www.v2ex.com/t/718977) 
 - [2020-10-27-大康优选是真的不行](https://www.v2ex.com/t/718976) 
 - [2020-10-27-Updating-Homebrew-卡住的解决方案](https://www.v2ex.com/t/718975) 
 - [2020-10-27-内推内推内推内推内推](https://www.v2ex.com/t/718974) 
@@ -41,9 +47,3 @@
 - [2020-10-27-杭州-字节跳动内推，寻找-Android、iOS-小伙伴——可能是进入字节跳动的最好机会](https://www.v2ex.com/t/718937) 
 - [2020-10-27-支持同样的-key，不同的-value-的哈希表](https://www.v2ex.com/t/718936) 
 - [2020-10-27-买了很多年的-ali-云服务器，马上到期了！是不是应该重新购买升级一下了！](https://www.v2ex.com/t/718935) 
-- [2020-10-27-安全岗位内推'''''字节跳动（社招+校招）](https://www.v2ex.com/t/718933) 
-- [2020-10-27-iOS-上有聚合所有购物平台物流信息的-APP-么](https://www.v2ex.com/t/718932) 
-- [2020-10-27-老婆生孩子，他在外面一边陪产一边工作](https://www.v2ex.com/t/718931) 
-- [2020-10-27-租房求指教](https://www.v2ex.com/t/718930) 
-- [2020-10-27-postgresql-集群有哪些性能比较好？-citus？-stado?xl?](https://www.v2ex.com/t/718928) 
-- [2020-10-27-小调查，各位都是通过什么方式/网站/app-换工作的？](https://www.v2ex.com/t/718927) 

@@ -15227,6 +15227,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "Electron+vue从零开始打造一个本地音乐播放器",
+        "link": "https://juejin.im/post/6887964816237920263",
+        "date": "2020-10-26"
+      },
+      {
         "title": "【译】WebAssembly 及其 JavaScript API 的完整介绍",
         "link": "https://juejin.im/post/6887953627302854669",
         "date": "2020-10-26"
@@ -15244,11 +15249,6 @@
       {
         "title": "Vue个人理解篇四",
         "link": "https://juejin.im/post/6887935163712405517",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "记录：React 项目总结",
-        "link": "https://juejin.im/post/6887935122562613261",
         "date": "2020-10-26"
       }
     ]
@@ -15434,6 +15434,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iPhone12 黄屏是普遍现象吗",
+        "link": "https://www.v2ex.com/t/718983",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "2020 年该选哪款空气检测仪",
+        "link": "https://www.v2ex.com/t/718982",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "大家帮看看这种 Java 写 sql 的代码可取吗",
+        "link": "https://www.v2ex.com/t/718981",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "求一款自建 DNS 的 WEB 管理工具",
+        "link": "https://www.v2ex.com/t/718980",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "Nginx 代理 Mysql 出现锁 IP 的情况",
+        "link": "https://www.v2ex.com/t/718979",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "12306 铁路 e 卡通 无法扫码进站",
+        "link": "https://www.v2ex.com/t/718977",
+        "date": "2020-10-27"
+      },
+      {
         "title": "大康优选是真的不行",
         "link": "https://www.v2ex.com/t/718976",
         "date": "2020-10-27"
@@ -15612,36 +15642,6 @@
         "title": "买了很多年的 ali 云服务器，马上到期了！是不是应该重新购买升级一下了！",
         "link": "https://www.v2ex.com/t/718935",
         "date": "2020-10-27"
-      },
-      {
-        "title": "安全岗位内推'''''字节跳动（社招+校招）",
-        "link": "https://www.v2ex.com/t/718933",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "iOS 上有聚合所有购物平台物流信息的 APP 么",
-        "link": "https://www.v2ex.com/t/718932",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "老婆生孩子，他在外面一边陪产一边工作",
-        "link": "https://www.v2ex.com/t/718931",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "租房求指教",
-        "link": "https://www.v2ex.com/t/718930",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "postgresql 集群有哪些性能比较好？ citus？ stado?xl?",
-        "link": "https://www.v2ex.com/t/718928",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "小调查，各位都是通过什么方式/网站/app 换工作的？",
-        "link": "https://www.v2ex.com/t/718927",
-        "date": "2020-10-27"
       }
     ]
   },
@@ -15803,13 +15803,13 @@
         "date": "2020-10-27"
       },
       {
-        "title": "图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
+        "title": "单点登录，不要老盯着 cas-server 了，你还可以选择 keycloak",
+        "link": "https://toutiao.io/k/hbhmkn4",
         "date": "2020-10-27"
       },
       {
-        "title": "单点登录，不要老盯着 cas-server 了，你还可以选择 keycloak",
-        "link": "https://toutiao.io/k/hbhmkn4",
+        "title": "图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
         "date": "2020-10-27"
       },
       {
@@ -15818,13 +15818,13 @@
         "date": "2020-10-27"
       },
       {
-        "title": "印度最大在线食品杂货公司 Grofers 的数据湖建设之路",
-        "link": "https://toutiao.io/k/z5vm6t9",
+        "title": "Raft 作者亲自出的 Raft 试题，你能做对几道？",
+        "link": "https://toutiao.io/k/e6w07y3",
         "date": "2020-10-27"
       },
       {
-        "title": "Raft 作者亲自出的 Raft 试题，你能做对几道？",
-        "link": "https://toutiao.io/k/e6w07y3",
+        "title": "印度最大在线食品杂货公司 Grofers 的数据湖建设之路",
+        "link": "https://toutiao.io/k/z5vm6t9",
         "date": "2020-10-27"
       },
       {
@@ -15858,33 +15858,8 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
-        "link": "https://toutiao.io/k/lxcx8vb",
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
         "date": "2020-10-27"
       },
       {
@@ -15893,23 +15868,13 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-27"
-      },
-      {
         "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
         "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-27"
       },
       {
@@ -15918,8 +15883,33 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
         "date": "2020-10-27"
       },
       {
@@ -15928,8 +15918,18 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-27"
       }
     ]

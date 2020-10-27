@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 04:05:08，:rocket: 更新条数: +3238， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 04:18:36，:rocket: 更新条数: +3238， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -473,11 +473,11 @@
 </summary>
 
 
+- [2020-10-26-Electron+vue从零开始打造一个本地音乐播放器](https://juejin.im/post/6887964816237920263) ![](assets/new.png)  
 - [2020-10-26-【译】WebAssembly-及其-JavaScript-API-的完整介绍](https://juejin.im/post/6887953627302854669) ![](assets/new.png)  
 - [2020-10-26-正则表达式学习二：Vue模板解析v-for](https://juejin.im/post/6887952192368541703) ![](assets/new.png)  
 - [2020-10-26-如何实现一个FormData？](https://juejin.im/post/6887952135648968717) ![](assets/new.png)  
 - [2020-10-26-Vue个人理解篇四](https://juejin.im/post/6887935163712405517) ![](assets/new.png)  
-- [2020-10-26-记录：React-项目总结](https://juejin.im/post/6887935122562613261) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,12 @@
 </summary>
 
 
+- [2020-10-27-iPhone12-黄屏是普遍现象吗](https://www.v2ex.com/t/718983) ![](assets/new.png)  
+- [2020-10-27-2020-年该选哪款空气检测仪](https://www.v2ex.com/t/718982) ![](assets/new.png)  
+- [2020-10-27-大家帮看看这种-Java-写-sql-的代码可取吗](https://www.v2ex.com/t/718981) ![](assets/new.png)  
+- [2020-10-27-求一款自建-DNS-的-WEB-管理工具](https://www.v2ex.com/t/718980) ![](assets/new.png)  
+- [2020-10-27-Nginx-代理-Mysql-出现锁-IP-的情况](https://www.v2ex.com/t/718979) ![](assets/new.png)  
+- [2020-10-27-12306-铁路-e-卡通-无法扫码进站](https://www.v2ex.com/t/718977) ![](assets/new.png)  
 - [2020-10-27-大康优选是真的不行](https://www.v2ex.com/t/718976) ![](assets/new.png)  
 - [2020-10-27-Updating-Homebrew-卡住的解决方案](https://www.v2ex.com/t/718975) ![](assets/new.png)  
 - [2020-10-27-内推内推内推内推内推](https://www.v2ex.com/t/718974) ![](assets/new.png)  
@@ -567,12 +573,6 @@
 - [2020-10-27-nc-命令使用小结](https://www.v2ex.com/t/718964) ![](assets/new.png)  
 - [2020-10-27-App-Switch-游戏主机手柄-pro-----一款-Switch-玩家必备的-App](https://www.v2ex.com/t/718963) ![](assets/new.png)  
 - [2020-10-27-问下大家的-golang-的生产自动化部署方案](https://www.v2ex.com/t/718962) ![](assets/new.png)  
-- [2020-10-27-ItelliJ-IDEA-2020.2-10-月-27-过期解决办法](https://www.v2ex.com/t/718961) ![](assets/new.png)  
-- [2020-10-27-旧型号的苹果有什么好用的无线充电器？](https://www.v2ex.com/t/718960) ![](assets/new.png)  
-- [2020-10-27-在北京私立医院生孩子，哪家比较好。](https://www.v2ex.com/t/718957) ![](assets/new.png)  
-- [2020-10-27-求桂林或阳朔冷门景点](https://www.v2ex.com/t/718956) ![](assets/new.png)  
-- [2020-10-27-从孩子教育角度出发，河南和广东哪个更点？](https://www.v2ex.com/t/718955) ![](assets/new.png)  
-- [2020-10-27-如果运营商推出针对家庭-NAS-设备远程同步不限量套餐，你会订购么？](https://www.v2ex.com/t/718954) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -624,11 +624,11 @@
 - [2020-10-27-MySQL-&-MariaDB-Online-DDL-参考指南](https://toutiao.io/k/2acx2zh) ![](assets/new.png)  
 - [2020-10-27-你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9) ![](assets/new.png)  
 - [2020-10-27-Ray-之内部实现机制](https://toutiao.io/k/tpgpccp) ![](assets/new.png)  
-- [2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) ![](assets/new.png)  
+- [2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) ![](assets/new.png)  
-- [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
 - [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
+- [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
 - [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
 - [2020-10-27-数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9) ![](assets/new.png)  
 - [2020-10-27-vivo-基于原生-RabbitMQ-的高可用架构实践](https://toutiao.io/k/w1n38ti) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 02:01:52，:rocket: 更新条数: +2998， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 02:12:39，:rocket: 更新条数: +2999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-10-27-首发帖-想买一台-mac](https://www.v2ex.com/t/718908) ![](assets/new.png)  
+- [2020-10-27-YouTube-premium-印度区香港家庭组，有车吗？求加入](https://www.v2ex.com/t/718907) ![](assets/new.png)  
+- [2020-10-27-坐标深圳，招资深前端开发工程师](https://www.v2ex.com/t/718906) ![](assets/new.png)  
+- [2020-10-27-提问后台简单调用第三方-api-轮询实现方式](https://www.v2ex.com/t/718905) ![](assets/new.png)  
+- [2020-10-27-垃圾分类，我市也开始搞了，感觉是运动式的...](https://www.v2ex.com/t/718904) ![](assets/new.png)  
 - [2020-10-27-妙控键盘-2-进了饮料，去哪可以修呀？](https://www.v2ex.com/t/718902) ![](assets/new.png)  
 - [2020-10-27-基于-SDN-的全球网络和服务运营商](https://www.v2ex.com/t/718900) ![](assets/new.png)  
 - [2020-10-27-在决策前，你会过一遍脑子的思维工具有哪些？](https://www.v2ex.com/t/718899) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-10-27-GOPATH-一般是怎么管理的](https://www.v2ex.com/t/718888) ![](assets/new.png)  
 - [2020-10-27-emmm..假如-iPhone-变厚让摄像头不凸出，变厚的部分多塞点电池，各位能接受么](https://www.v2ex.com/t/718887) ![](assets/new.png)  
 - [2020-10-27-有很多开源的-Web-项目，如何接入自己已经搭建的用户系统?有什么思路？](https://www.v2ex.com/t/718886) ![](assets/new.png)  
-- [2020-10-27-关于-PayPal-的冻结解冻规则](https://www.v2ex.com/t/718884) ![](assets/new.png)  
-- [2020-10-27-睡蒙圈了，打了媳妇一拳。](https://www.v2ex.com/t/718883) ![](assets/new.png)  
-- [2020-10-27-有人在-11-号线上使用过-5G-吗](https://www.v2ex.com/t/718882) ![](assets/new.png)  
-- [2020-10-27-官网用的-GCP-谷歌云的虚拟机，国内能访问吗？](https://www.v2ex.com/t/718881) ![](assets/new.png)  
-- [2020-10-27-杭州寻找小伙伴-大佬主动忽略-RN-和-Go-职位-梦想小镇](https://www.v2ex.com/t/718880) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -597,24 +597,24 @@
 
 - [2020-10-27-困在内卷里的工程师-|-码农周刊第-322-期](https://toutiao.io/k/mb7u8g0) ![](assets/new.png)  
 - [2020-10-27-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-10-27-工具-|-阿里云开源的，业界首个面向-NLP-场景的深度迁移学习框架](https://toutiao.io/k/6ic2uca) ![](assets/new.png)  
 - [2020-10-27-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-10-27-中台架构下的-DDD-和落地实践](https://toutiao.io/k/pbogqyj) ![](assets/new.png)  
+- [2020-10-27-工具-|-阿里云开源的，业界首个面向-NLP-场景的深度迁移学习框架](https://toutiao.io/k/6ic2uca) ![](assets/new.png)  
 - [2020-10-27-译-初识-NGINX-服务网格](https://toutiao.io/k/mc7hwwn) ![](assets/new.png)  
+- [2020-10-27-中台架构下的-DDD-和落地实践](https://toutiao.io/k/pbogqyj) ![](assets/new.png)  
 - [2020-10-27-MySQL-&-MariaDB-Online-DDL-参考指南](https://toutiao.io/k/2acx2zh) ![](assets/new.png)  
 - [2020-10-27-Ray-之内部实现机制](https://toutiao.io/k/tpgpccp) ![](assets/new.png)  
 - [2020-10-27-你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9) ![](assets/new.png)  
+- [2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
 - [2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) ![](assets/new.png)  
 - [2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) ![](assets/new.png)  
-- [2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
 - [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
-- [2020-10-27-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-10-27-数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9) ![](assets/new.png)  
 - [2020-10-27-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [2020-10-27-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) ![](assets/new.png)  
-- [2020-10-27-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-27-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
+- [2020-10-27-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) ![](assets/new.png)  
+- [2020-10-27-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

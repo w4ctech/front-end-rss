@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-10-27 06:04:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 06:17:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-27-线上回归测试数据的数据隔离有没有什么好的方案](https://www.v2ex.com/t/719023) 
+- [2020-10-27-索尼-WH-1000XM3-的-“Headphones”-App-里对声音位置等效果的调节在-PC/mac-如何实现？](https://www.v2ex.com/t/719022) 
+- [2020-10-27-各位大佬，-jpa-和-mybatis-一起用符合设计吗，有哪些隐患](https://www.v2ex.com/t/719020) 
+- [2020-10-27-有人尝试过用头显办公么？](https://www.v2ex.com/t/719019) 
+- [2020-10-27-OneDrive-共享文件的逻辑是怎样的？](https://www.v2ex.com/t/719018) 
+- [2020-10-27-求上一个-YouTube-Premium-印度-香港家庭车](https://www.v2ex.com/t/719017) 
+- [2020-10-27-独立开发者们快来填「独立开发者生存现状」调查问卷！](https://www.v2ex.com/t/719015) 
 - [2020-10-27-Java-怎么获取其他服务器的-CPU-使用率，内存使用率？](https://www.v2ex.com/t/719014) 
 - [2020-10-27-函数可变参数遇到固定语句无法判断参数关系的问题](https://www.v2ex.com/t/719013) 
 - [2020-10-27-找一些-remote-工作的小伙伴，一起建个群交流下也可以平时参加个技术大会什么的](https://www.v2ex.com/t/719012) 
@@ -36,11 +43,3 @@
 - [2020-10-27-大康优选是真的不行](https://www.v2ex.com/t/718976) 
 - [2020-10-27-Updating-Homebrew-卡住的解决方案](https://www.v2ex.com/t/718975) 
 - [2020-10-27-内推内推内推内推内推](https://www.v2ex.com/t/718974) 
-- [2020-10-27-车险配置方案，纠结该怎么选](https://www.v2ex.com/t/718973) 
-- [2020-10-27-Outlook-for-Mac-崩溃了](https://www.v2ex.com/t/718972) 
-- [2020-10-27-发现官网下的-Neat-Download-Manager-打不开或者叫闪退？](https://www.v2ex.com/t/718971) 
-- [2020-10-27-澳门买-iPhone-12-Pro，然后在手机里买美区的-AC+，在深圳-Apple-Store-能保修吗?](https://www.v2ex.com/t/718970) 
-- [2020-10-27-小米智能家居使用效果展示](https://www.v2ex.com/t/718969) 
-- [2020-10-27-有没有什么插件或者油脚猴能够搜索的时候自动添加--网址](https://www.v2ex.com/t/718967) 
-- [2020-10-27-🔥美资-Coupang-直播上海招聘-后端/iOS/测试-，-急招易进，-965-人性化](https://www.v2ex.com/t/718966) 
-- [2020-10-27-杭州-｜-高级-C++-研发工程师-14-28K·15-薪](https://www.v2ex.com/t/718965) 

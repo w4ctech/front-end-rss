@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-27 20:16:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 20:30:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -519,8 +519,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】伊朗新增新冠肺炎确诊病例6968例-累计确诊581824例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEnRI8dVGPmWhJJneKlhC201027&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】27日香港新增5例新冠肺炎确诊病例-累计5308例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPxVXND2oiYzaiWD7xmsA201027&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -535,9 +533,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】新疆喀什新增5例确诊病例-新增19例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCPnq5VND7tKcJ0K8MPnv201027&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】马来西亚万名警员接受隔离观察-已有200人确诊感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiknqWpvhgwFTvq0UJ0ZB5201027&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】新疆喀什一工厂有序进行核酸检测-平均一小时完成500余人的核酸采集](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijr6uZHeIzKzDHF57l6VH201027&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html)
 - [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
@@ -555,6 +550,9 @@
 - [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
 - [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
 - [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
+- [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
+- [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
+- [【凹凸实验室】羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

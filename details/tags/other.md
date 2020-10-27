@@ -1,13 +1,10 @@
-:alarm_clock: 更新时间: 2020-10-27 20:16:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 20:30:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2020-10-27-新疆喀什新增5例确诊病例-新增19例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCPnq5VND7tKcJ0K8MPnv201027&isfromapp=1) 
-- [2020-10-27-马来西亚万名警员接受隔离观察-已有200人确诊感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiknqWpvhgwFTvq0UJ0ZB5201027&isfromapp=1) 
-- [2020-10-27-新疆喀什一工厂有序进行核酸检测-平均一小时完成500余人的核酸采集](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijr6uZHeIzKzDHF57l6VH201027&isfromapp=1) 
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-10-23-科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html) 
 - [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 

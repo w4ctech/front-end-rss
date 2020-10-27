@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 20:16:00，:rocket: 更新条数: +359， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 20:30:36，:rocket: 更新条数: +354， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-10-27-伊朗新增新冠肺炎确诊病例6968例-累计确诊581824例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEnRI8dVGPmWhJJneKlhC201027&isfromapp=1) ![](assets/new.png)  
-- [2020-10-27-新疆喀什新增5例确诊病例-新增19例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCPnq5VND7tKcJ0K8MPnv201027&isfromapp=1) ![](assets/new.png)  
-- [2020-10-27-27日香港新增5例新冠肺炎确诊病例-累计5308例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPxVXND2oiYzaiWD7xmsA201027&isfromapp=1) ![](assets/new.png)  
-- [2020-10-27-马来西亚万名警员接受隔离观察-已有200人确诊感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiknqWpvhgwFTvq0UJ0ZB5201027&isfromapp=1) ![](assets/new.png)  
-- [2020-10-27-新疆喀什一工厂有序进行核酸检测-平均一小时完成500余人的核酸采集](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijr6uZHeIzKzDHF57l6VH201027&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

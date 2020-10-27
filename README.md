@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 03:04:20，:rocket: 更新条数: +3003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 03:15:34，:rocket: 更新条数: +3003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-10-27-迫于室友双十一想剁手，有没有键盘鼠标推荐](https://www.v2ex.com/t/718953) ![](assets/new.png)  
+- [2020-10-27-询价-19-年-618-京东自营购入的骚黄-iPhone-XR-128GB-无拆无修-电池-92%-能出多少？](https://www.v2ex.com/t/718952) ![](assets/new.png)  
+- [2020-10-27-问个数据库管理问题](https://www.v2ex.com/t/718950) ![](assets/new.png)  
+- [2020-10-27-社招内推-SAP-上海SAP-中国研究院热招啦！坐标上海，有大量-HC,15+15-的假期，欢迎来-WLB](https://www.v2ex.com/t/718949) ![](assets/new.png)  
 - [2020-10-27-微信自动推荐订阅号？？](https://www.v2ex.com/t/718947) ![](assets/new.png)  
 - [2020-10-27-纠结-iPhone12-还是-12max](https://www.v2ex.com/t/718946) ![](assets/new.png)  
 - [2020-10-27-前端---上海&杭州---互联网大厂](https://www.v2ex.com/t/718945) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-10-27-iOS-上有聚合所有购物平台物流信息的-APP-么](https://www.v2ex.com/t/718932) ![](assets/new.png)  
 - [2020-10-27-老婆生孩子，他在外面一边陪产一边工作](https://www.v2ex.com/t/718931) ![](assets/new.png)  
 - [2020-10-27-租房求指教](https://www.v2ex.com/t/718930) ![](assets/new.png)  
-- [2020-10-27-postgresql-集群有哪些性能比较好？-citus？-stado?xl?](https://www.v2ex.com/t/718928) ![](assets/new.png)  
-- [2020-10-27-小调查，各位都是通过什么方式/网站/app-换工作的？](https://www.v2ex.com/t/718927) ![](assets/new.png)  
-- [2020-10-27-医保存折里面的钱取出来了，还可以用医保吗？](https://www.v2ex.com/t/718926) ![](assets/new.png)  
-- [2020-10-27-XPS-双系统黑苹果重启进-windows-之后进不了-Clover](https://www.v2ex.com/t/718925) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,11 +605,11 @@
 - [2020-10-27-Ray-之内部实现机制](https://toutiao.io/k/tpgpccp) ![](assets/new.png)  
 - [2020-10-27-你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9) ![](assets/new.png)  
 - [2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
-- [2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) ![](assets/new.png)  
 - [2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) ![](assets/new.png)  
-- [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
+- [2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) ![](assets/new.png)  
+- [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
 - [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
+- [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
 - [2020-10-27-数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9) ![](assets/new.png)  
 - [2020-10-27-vivo-基于原生-RabbitMQ-的高可用架构实践](https://toutiao.io/k/w1n38ti) ![](assets/new.png)  
 - [2020-10-27-智能化趋势-v2.0](https://toutiao.io/k/8jywiu5) ![](assets/new.png)  

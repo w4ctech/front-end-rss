@@ -13747,8 +13747,18 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "担忧政治化因素影响疫苗研发 美民众接种新冠疫苗意愿下降",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuKhR0rMQPqAbExLvTAPS201027&isfromapp=1",
+        "date": "2020-10-27"
+      },
+      {
         "title": "捷克政府宣布实施宵禁并限制商店营业时间",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKIPz000JwS3NvSsY8UD4201027&isfromapp=1",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "菲律宾首都地区将维持“一般社区隔离”至11月底",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBqh6CHvGztiR59n9m8nM201027&isfromapp=1",
         "date": "2020-10-27"
       },
       {
@@ -13759,16 +13769,6 @@
       {
         "title": "疫情之下读书难！85.8万名巴西私立大学学生因疫情中止学业",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6uRXl6vdtFx0iwLmFSvu201027&isfromapp=1",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "哥伦比亚新冠肺炎确诊病例累计逾125万 至少165名医护人员因感染死亡",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMfhvCktRslaio0tlFqhq201027&isfromapp=1",
-        "date": "2020-10-26"
-      },
-      {
-        "title": "上周全球新增病例数为疫情以来最高值，美国27州单日新增破纪录",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8uYrxOP8NJNmexB2mNQ5201027&isfromapp=1",
         "date": "2020-10-26"
       }
     ]
@@ -14278,7 +14278,42 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "golang 的自动化部署方案",
+        "title": "澳门买 iPhone 12 Pro，然后在手机里买美区的 AC+，在深圳 Apple Store 能保修吗?",
+        "link": "https://www.v2ex.com/t/718970",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "小米智能家居使用效果展示",
+        "link": "https://www.v2ex.com/t/718969",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "有没有什么插件或者油脚猴能够搜索的时候自动添加 -网址",
+        "link": "https://www.v2ex.com/t/718967",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "🔥美资 Coupang 直播(上海)招聘 [ 后端/iOS/测试] ， 急招易进， 965 人性化",
+        "link": "https://www.v2ex.com/t/718966",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "杭州 ｜ 高级 C++ 研发工程师 14-28K·15 薪",
+        "link": "https://www.v2ex.com/t/718965",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "nc 命令使用小结",
+        "link": "https://www.v2ex.com/t/718964",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[App] Switch 游戏主机手柄 pro --- 一款 Switch 玩家必备的 App",
+        "link": "https://www.v2ex.com/t/718963",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "问下大家的 golang 的生产自动化部署方案",
         "link": "https://www.v2ex.com/t/718962",
         "date": "2020-10-27"
       },
@@ -14446,36 +14481,6 @@
         "title": "化繁为简，直击构建 —— CODING 持续集成再升级",
         "link": "https://www.v2ex.com/t/718921",
         "date": "2020-10-27"
-      },
-      {
-        "title": "[实习] [微软亚洲研究院] Azure 云智能渗透系统研发实习生实习生",
-        "link": "https://www.v2ex.com/t/718919",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "在推荐一个工具：使用 kainstall 工具一键部署 kubernetes 高可用集群",
-        "link": "https://www.v2ex.com/t/718918",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "🔥🔥 [字节跳动] 21 届校招内推，抓住秋招的末班车🔥🔥",
-        "link": "https://www.v2ex.com/t/718917",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "北京直营店 下一批 12 Pro 什么时候 有知道的吗",
-        "link": "https://www.v2ex.com/t/718916",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "本来打算买 12mini，看到这个果断放弃",
-        "link": "https://www.v2ex.com/t/718915",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "直播用的弹幕姬都是怎么实现的？",
-        "link": "https://www.v2ex.com/t/718914",
-        "date": "2020-10-27"
       }
     ]
   },
@@ -14627,13 +14632,13 @@
         "date": "2020-10-27"
       },
       {
-        "title": "Ray 之内部实现机制",
-        "link": "https://toutiao.io/k/tpgpccp",
+        "title": "你的 ThreadLocal 线程安全么？",
+        "link": "https://toutiao.io/k/5o5p4j9",
         "date": "2020-10-27"
       },
       {
-        "title": "你的 ThreadLocal 线程安全么？",
-        "link": "https://toutiao.io/k/5o5p4j9",
+        "title": "Ray 之内部实现机制",
+        "link": "https://toutiao.io/k/tpgpccp",
         "date": "2020-10-27"
       },
       {
@@ -14647,13 +14652,13 @@
         "date": "2020-10-27"
       },
       {
-        "title": "印度最大在线食品杂货公司 Grofers 的数据湖建设之路",
-        "link": "https://toutiao.io/k/z5vm6t9",
+        "title": "史上最详细浏览器端网页截图方案解析",
+        "link": "https://toutiao.io/k/n1e9txu",
         "date": "2020-10-27"
       },
       {
-        "title": "史上最详细浏览器端网页截图方案解析",
-        "link": "https://toutiao.io/k/n1e9txu",
+        "title": "印度最大在线食品杂货公司 Grofers 的数据湖建设之路",
+        "link": "https://toutiao.io/k/z5vm6t9",
         "date": "2020-10-27"
       },
       {
@@ -14692,53 +14697,13 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-27"
-      },
-      {
         "title": "[推荐] 技术方案设计的方法",
         "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-27"
-      },
-      {
         "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
         "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
-        "link": "https://toutiao.io/k/6qs3yvv",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
         "date": "2020-10-27"
       },
       {
@@ -14752,8 +14717,43 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 工具 | 一个轻量级业务中台开发框架",
+        "link": "https://toutiao.io/k/6qs3yvv",
         "date": "2020-10-27"
       },
       {
@@ -14762,8 +14762,13 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
         "date": "2020-10-27"
       }
     ]

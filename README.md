@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 03:34:10，:rocket: 更新条数: +3005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 03:42:45，:rocket: 更新条数: +3006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-10-27-担忧政治化因素影响疫苗研发-美民众接种新冠疫苗意愿下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuKhR0rMQPqAbExLvTAPS201027&isfromapp=1) ![](assets/new.png)  
 - [2020-10-27-捷克政府宣布实施宵禁并限制商店营业时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKIPz000JwS3NvSsY8UD4201027&isfromapp=1) ![](assets/new.png)  
+- [2020-10-27-菲律宾首都地区将维持“一般社区隔离”至11月底](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBqh6CHvGztiR59n9m8nM201027&isfromapp=1) ![](assets/new.png)  
 - [2020-10-27-斯洛伐克全民检测试点工作结束-5594人确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifwpSHSw9q9CetMve1HRG201027&isfromapp=1) ![](assets/new.png)  
 - [2020-10-26-疫情之下读书难！85.8万名巴西私立大学学生因疫情中止学业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6uRXl6vdtFx0iwLmFSvu201027&isfromapp=1) ![](assets/new.png)  
-- [2020-10-26-哥伦比亚新冠肺炎确诊病例累计逾125万-至少165名医护人员因感染死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMfhvCktRslaio0tlFqhq201027&isfromapp=1) ![](assets/new.png)  
-- [2020-10-26-上周全球新增病例数为疫情以来最高值，美国27州单日新增破纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8uYrxOP8NJNmexB2mNQ5201027&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,7 +533,14 @@
 </summary>
 
 
-- [2020-10-27-golang-的自动化部署方案](https://www.v2ex.com/t/718962) ![](assets/new.png)  
+- [2020-10-27-澳门买-iPhone-12-Pro，然后在手机里买美区的-AC+，在深圳-Apple-Store-能保修吗?](https://www.v2ex.com/t/718970) ![](assets/new.png)  
+- [2020-10-27-小米智能家居使用效果展示](https://www.v2ex.com/t/718969) ![](assets/new.png)  
+- [2020-10-27-有没有什么插件或者油脚猴能够搜索的时候自动添加--网址](https://www.v2ex.com/t/718967) ![](assets/new.png)  
+- [2020-10-27-🔥美资-Coupang-直播上海招聘-后端/iOS/测试-，-急招易进，-965-人性化](https://www.v2ex.com/t/718966) ![](assets/new.png)  
+- [2020-10-27-杭州-｜-高级-C++-研发工程师-14-28K·15-薪](https://www.v2ex.com/t/718965) ![](assets/new.png)  
+- [2020-10-27-nc-命令使用小结](https://www.v2ex.com/t/718964) ![](assets/new.png)  
+- [2020-10-27-App-Switch-游戏主机手柄-pro-----一款-Switch-玩家必备的-App](https://www.v2ex.com/t/718963) ![](assets/new.png)  
+- [2020-10-27-问下大家的-golang-的生产自动化部署方案](https://www.v2ex.com/t/718962) ![](assets/new.png)  
 - [2020-10-27-ItelliJ-IDEA-2020.2-10-月-27-过期解决办法](https://www.v2ex.com/t/718961) ![](assets/new.png)  
 - [2020-10-27-旧型号的苹果有什么好用的无线充电器？](https://www.v2ex.com/t/718960) ![](assets/new.png)  
 - [2020-10-27-在北京私立医院生孩子，哪家比较好。](https://www.v2ex.com/t/718957) ![](assets/new.png)  
@@ -546,13 +553,6 @@
 - [2020-10-27-社招内推-SAP-上海SAP-中国研究院热招啦！坐标上海，有大量-HC,15+15-的假期，欢迎来-WLB](https://www.v2ex.com/t/718949) ![](assets/new.png)  
 - [2020-10-27-微信自动推荐订阅号？？](https://www.v2ex.com/t/718947) ![](assets/new.png)  
 - [2020-10-27-纠结-iPhone12-还是-12max](https://www.v2ex.com/t/718946) ![](assets/new.png)  
-- [2020-10-27-前端---上海&杭州---互联网大厂](https://www.v2ex.com/t/718945) ![](assets/new.png)  
-- [2020-10-27-想买个索尼-A6400L-相机,各位老哥有没有懂的,可还行](https://www.v2ex.com/t/718944) ![](assets/new.png)  
-- [2020-10-27-超级快充真的有那么重要吗?](https://www.v2ex.com/t/718943) ![](assets/new.png)  
-- [2020-10-27-那么问题来了，蚂蚁的-股票一般怎么购买呢？](https://www.v2ex.com/t/718942) ![](assets/new.png)  
-- [2020-10-27-求推荐“宽带用”4G-流量卡，和-NETGEAR-Nighthawk-M1-MR1100-Cat16-打游戏效果，谢谢！](https://www.v2ex.com/t/718940) ![](assets/new.png)  
-- [2020-10-27-新版-chrome-的地址栏好烦啊](https://www.v2ex.com/t/718939) ![](assets/new.png)  
-- [2020-10-27-有预购-PS4-版的《赛博朋克-2077》吗？](https://www.v2ex.com/t/718938) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,12 +602,12 @@
 - [2020-10-27-译-初识-NGINX-服务网格](https://toutiao.io/k/mc7hwwn) ![](assets/new.png)  
 - [2020-10-27-中台架构下的-DDD-和落地实践](https://toutiao.io/k/pbogqyj) ![](assets/new.png)  
 - [2020-10-27-MySQL-&-MariaDB-Online-DDL-参考指南](https://toutiao.io/k/2acx2zh) ![](assets/new.png)  
-- [2020-10-27-Ray-之内部实现机制](https://toutiao.io/k/tpgpccp) ![](assets/new.png)  
 - [2020-10-27-你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9) ![](assets/new.png)  
+- [2020-10-27-Ray-之内部实现机制](https://toutiao.io/k/tpgpccp) ![](assets/new.png)  
 - [2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) ![](assets/new.png)  
-- [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
 - [2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) ![](assets/new.png)  
+- [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
 - [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
 - [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
 - [2020-10-27-数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9) ![](assets/new.png)  

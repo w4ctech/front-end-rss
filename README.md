@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 09:16:11，:rocket: 更新条数: +2999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 09:31:49，:rocket: 更新条数: +3000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-10-27-不懂就问，-Android-离线-App-限时激活方案？](https://www.v2ex.com/t/719121) ![](assets/new.png)  
+- [2020-10-27-20201027-开始自废武功](https://www.v2ex.com/t/719120) ![](assets/new.png)  
+- [2020-10-27-做一个把资源搜索全部放在一起的网站，让搜索资源不再麻烦.....](https://www.v2ex.com/t/719119) ![](assets/new.png)  
 - [2020-10-27-账号绑定手机收不到验证码](https://www.v2ex.com/t/719118) ![](assets/new.png)  
 - [2020-10-27-有抖音的开发者么？作者的短视频列表，你添加一个按点赞数排序很难吗？](https://www.v2ex.com/t/719116) ![](assets/new.png)  
 - [2020-10-27-mysql-在固态硬盘的-32-核的情况下单机查询和插入的极限性能能到多少？](https://www.v2ex.com/t/719115) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-10-27-单服务器，使用-docker-能否简单的实现类似"热部署"的功能](https://www.v2ex.com/t/719096) ![](assets/new.png)  
 - [2020-10-27-FreeOffice-好用吗？](https://www.v2ex.com/t/719095) ![](assets/new.png)  
 - [2020-10-27-app-零基础如何学习-Swift-？](https://www.v2ex.com/t/719094) ![](assets/new.png)  
-- [2020-10-27-LeetCode-多看题解有助于理解算法吗，真诚希望过来人能提供一下建议](https://www.v2ex.com/t/719092) ![](assets/new.png)  
-- [2020-10-27-失业了，想转远程开发，有人找到过这种职业么？请教一下](https://www.v2ex.com/t/719091) ![](assets/new.png)  
-- [2020-10-27-30-岁作为程序员的你，有多少存款](https://www.v2ex.com/t/719090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

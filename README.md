@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 03:42:45，:rocket: 更新条数: +3006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 03:50:51，:rocket: 更新条数: +3238， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -341,9 +341,9 @@
 </summary>
 
 
+- [2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html) ![](assets/new.png)  
 - [2020-10-26-微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html) ![](assets/new.png)  
 - [2020-10-23-科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html) ![](assets/new.png)  
-- [2020-10-16-科技爱好者周刊（第-129-期）：创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -454,10 +474,10 @@
 
 
 - [2020-10-26-官宣！前端热爱，技术无界，第十五届-D2-前端技术论坛，我们云端相聚！](https://juejin.im/post/6888125056510558222) ![](assets/new.png)  
-- [2020-10-26-前端机器学习的利器，更快的-Pipcook-1.2](https://juejin.im/post/6888108270385365000) ![](assets/new.png)  
 - [2020-10-26-大厂是如何自动化部署Web应用的？](https://juejin.im/post/6887961766170066951) ![](assets/new.png)  
 - [2020-10-26-Vue-SSR-性能优化实践](https://juejin.im/post/6887884087915184141) ![](assets/new.png)  
-- [2020-10-26-【webpack-性能优化】编译速度从-50S-到-7S](https://juejin.im/post/6887863430510968839) ![](assets/new.png)  
+- [2020-10-26-React-Hook-从入门应用到编写自定义-Hook](https://juejin.im/post/6887838157874659341) ![](assets/new.png)  
+- [2020-10-25-一个简单标注库的插件化开发实践](https://juejin.im/post/6887799422324113422) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +553,8 @@
 </summary>
 
 
+- [2020-10-27-Outlook-for-Mac-崩溃了](https://www.v2ex.com/t/718972) ![](assets/new.png)  
+- [2020-10-27-发现官网下的-Neat-Download-Manager-打不开或者叫闪退？](https://www.v2ex.com/t/718971) ![](assets/new.png)  
 - [2020-10-27-澳门买-iPhone-12-Pro，然后在手机里买美区的-AC+，在深圳-Apple-Store-能保修吗?](https://www.v2ex.com/t/718970) ![](assets/new.png)  
 - [2020-10-27-小米智能家居使用效果展示](https://www.v2ex.com/t/718969) ![](assets/new.png)  
 - [2020-10-27-有没有什么插件或者油脚猴能够搜索的时候自动添加--网址](https://www.v2ex.com/t/718967) ![](assets/new.png)  
@@ -551,8 +573,6 @@
 - [2020-10-27-询价-19-年-618-京东自营购入的骚黄-iPhone-XR-128GB-无拆无修-电池-92%-能出多少？](https://www.v2ex.com/t/718952) ![](assets/new.png)  
 - [2020-10-27-问个数据库管理问题](https://www.v2ex.com/t/718950) ![](assets/new.png)  
 - [2020-10-27-社招内推-SAP-上海SAP-中国研究院热招啦！坐标上海，有大量-HC,15+15-的假期，欢迎来-WLB](https://www.v2ex.com/t/718949) ![](assets/new.png)  
-- [2020-10-27-微信自动推荐订阅号？？](https://www.v2ex.com/t/718947) ![](assets/new.png)  
-- [2020-10-27-纠结-iPhone12-还是-12max](https://www.v2ex.com/t/718946) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

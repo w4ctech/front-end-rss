@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-27 03:42:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 03:50:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-27-Outlook-for-Mac-崩溃了](https://www.v2ex.com/t/718972) 
+- [2020-10-27-发现官网下的-Neat-Download-Manager-打不开或者叫闪退？](https://www.v2ex.com/t/718971) 
 - [2020-10-27-澳门买-iPhone-12-Pro，然后在手机里买美区的-AC+，在深圳-Apple-Store-能保修吗?](https://www.v2ex.com/t/718970) 
 - [2020-10-27-小米智能家居使用效果展示](https://www.v2ex.com/t/718969) 
 - [2020-10-27-有没有什么插件或者油脚猴能够搜索的时候自动添加--网址](https://www.v2ex.com/t/718967) 
@@ -45,4 +47,3 @@
 - [2020-10-27-XPS-双系统黑苹果重启进-windows-之后进不了-Clover](https://www.v2ex.com/t/718925) 
 - [2020-10-27-分享个局域网分享文件的工具](https://www.v2ex.com/t/718924) 
 - [2020-10-27-iPhone-12pro-电池仅比-iphone12-的电池容量大了-1.5%，是怎么做到续航多-10%的？](https://www.v2ex.com/t/718923) 
-- [2020-10-27-化繁为简，直击构建-——-CODING-持续集成再升级](https://www.v2ex.com/t/718921) 

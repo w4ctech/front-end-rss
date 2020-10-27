@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 02:35:51，:rocket: 更新条数: +2999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 02:49:22，:rocket: 更新条数: +3003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -455,9 +455,9 @@
 
 - [2020-10-26-前端机器学习的利器，更快的-Pipcook-1.2](https://juejin.im/post/6888108270385365000) ![](assets/new.png)  
 - [2020-10-26-开眼界！阿里用这样的组件开发大屏（二）](https://juejin.im/post/6887978301608951815) ![](assets/new.png)  
+- [2020-10-26-大厂是如何自动化部署Web应用的？](https://juejin.im/post/6887961766170066951) ![](assets/new.png)  
 - [2020-10-26-Nodejs应用生产环境远程调试](https://juejin.im/post/6887937224059568141) ![](assets/new.png)  
-- [2020-10-26-坚持造轮子第五天---时间旅行](https://juejin.im/post/6887844088335302670) ![](assets/new.png)  
-- [2020-10-25-webpack-devtool篇](https://juejin.im/post/6887750775368499207) ![](assets/new.png)  
+- [2020-10-26-【webpack-性能优化】编译速度从-50S-到-7S](https://juejin.im/post/6887863430510968839) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,14 @@
 </summary>
 
 
+- [2020-10-27-老婆生孩子，他在外面一边陪产一边工作](https://www.v2ex.com/t/718931) ![](assets/new.png)  
+- [2020-10-27-租房求指教](https://www.v2ex.com/t/718930) ![](assets/new.png)  
+- [2020-10-27-postgresql-集群有哪些性能比较好？-citus？-stado?xl?](https://www.v2ex.com/t/718928) ![](assets/new.png)  
+- [2020-10-27-小调查，各位都是通过什么方式/网站/app-换工作的？](https://www.v2ex.com/t/718927) ![](assets/new.png)  
+- [2020-10-27-医保存折里面的钱取出来了，还可以用医保吗？](https://www.v2ex.com/t/718926) ![](assets/new.png)  
+- [2020-10-27-XPS-双系统黑苹果重启进-windows-之后进不了-Clover](https://www.v2ex.com/t/718925) ![](assets/new.png)  
+- [2020-10-27-分享个局域网分享文件的工具](https://www.v2ex.com/t/718924) ![](assets/new.png)  
+- [2020-10-27-iPhone-12pro-电池仅比-iphone12-的电池容量大了-1.5%，是怎么做到续航多-10%的？](https://www.v2ex.com/t/718923) ![](assets/new.png)  
 - [2020-10-27-化繁为简，直击构建-——-CODING-持续集成再升级](https://www.v2ex.com/t/718921) ![](assets/new.png)  
 - [2020-10-27-实习-微软亚洲研究院-Azure-云智能渗透系统研发实习生实习生](https://www.v2ex.com/t/718919) ![](assets/new.png)  
 - [2020-10-27-在推荐一个工具：使用-kainstall-工具一键部署-kubernetes-高可用集群](https://www.v2ex.com/t/718918) ![](assets/new.png)  
@@ -545,14 +553,6 @@
 - [2020-10-27-首发帖-想买一台-mac](https://www.v2ex.com/t/718908) ![](assets/new.png)  
 - [2020-10-27-坐标深圳，招资深前端开发工程师](https://www.v2ex.com/t/718906) ![](assets/new.png)  
 - [2020-10-27-提问后台简单调用第三方-api-轮询实现方式](https://www.v2ex.com/t/718905) ![](assets/new.png)  
-- [2020-10-27-垃圾分类，我市也开始搞了，感觉是运动式的...](https://www.v2ex.com/t/718904) ![](assets/new.png)  
-- [2020-10-27-妙控键盘-2-进了饮料，去哪可以修呀？](https://www.v2ex.com/t/718902) ![](assets/new.png)  
-- [2020-10-27-基于-SDN-的全球网络和服务运营商](https://www.v2ex.com/t/718900) ![](assets/new.png)  
-- [2020-10-27-在决策前，你会过一遍脑子的思维工具有哪些？](https://www.v2ex.com/t/718899) ![](assets/new.png)  
-- [2020-10-27-阿里云-ECS-新加坡的服务器究竟是什么情况？](https://www.v2ex.com/t/718898) ![](assets/new.png)  
-- [2020-10-27-深度学习工程师，-80-200W，杭州，幻方-AI-Lab](https://www.v2ex.com/t/718897) ![](assets/new.png)  
-- [2020-10-27-前端（react）2-年及以上内推----小步网络/宝安坪洲](https://www.v2ex.com/t/718896) ![](assets/new.png)  
-- [2020-10-27-现在技术栈更新的贼快，然后面试造火箭的什么东西都要深入](https://www.v2ex.com/t/718895) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -611,10 +611,10 @@
 - [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
 - [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
 - [2020-10-27-数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9) ![](assets/new.png)  
-- [2020-10-27-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-27-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-27-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) ![](assets/new.png)  
-- [2020-10-27-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
+- [2020-10-27-controller-runtime-之控制器实现](https://toutiao.io/k/yaj8it8) ![](assets/new.png)  
+- [2020-10-27-vivo-基于原生-RabbitMQ-的高可用架构实践](https://toutiao.io/k/w1n38ti) ![](assets/new.png)  
+- [2020-10-27-智能化趋势-v2.0](https://toutiao.io/k/8jywiu5) ![](assets/new.png)  
+- [2020-10-27-Bilibili-实时计算平台架构与实践](https://toutiao.io/k/05y658j) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

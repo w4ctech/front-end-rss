@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 14:16:20，:rocket: 更新条数: +2963， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 14:32:28，:rocket: 更新条数: +3010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -453,6 +453,11 @@
 </summary>
 
 
+- [2020-10-27-TypeScript和Nodemon终极设置！](https://juejin.im/post/6888302980832559112) ![](assets/new.png)  
+- [2020-10-27-React-架构的演变---Hooks-的实现](https://juejin.im/post/6888262413016432647) ![](assets/new.png)  
+- [2020-10-27-大二逃课总结的1.2w字的计算机网络知识！扫盲！](https://juejin.im/post/6888226129435197447) ![](assets/new.png)  
+- [2020-10-26-根据公司的业务需求我是这样封装组件](https://juejin.im/post/6888125003024629768) ![](assets/new.png)  
+- [2020-10-26-Flutter教程开坑篇，由简至难教你胡辣汤的31种做法...](https://juejin.im/post/6888119217922113544) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -528,6 +533,26 @@
 </summary>
 
 
+- [2020-10-27-黑五-pixel-5-价格能到多少](https://www.v2ex.com/t/719215) ![](assets/new.png)  
+- [2020-10-27-geogebra-在-3D-视图下如何创建滑动条](https://www.v2ex.com/t/719214) ![](assets/new.png)  
+- [2020-10-27-病毒性感冒，感冒好了，还有点咳嗽，咳嗽可以自己好吗？感觉吃的咳嗽药没什么用](https://www.v2ex.com/t/719213) ![](assets/new.png)  
+- [2020-10-27-现在基本人人都是双卡，我们有必要离开双卡吗？](https://www.v2ex.com/t/719212) ![](assets/new.png)  
+- [2020-10-27-只有一个简单的-web-hosting+pip/ssh-terminal-能否搭梯子进内网？](https://www.v2ex.com/t/719211) ![](assets/new.png)  
+- [2020-10-27-北京杭州字节跳动招聘-Java-高工、架构师](https://www.v2ex.com/t/719210) ![](assets/new.png)  
+- [2020-10-27-外卖商家的套路你怎么看？](https://www.v2ex.com/t/719209) ![](assets/new.png)  
+- [2020-10-27-iPhone12-的亮度都是不一样的吗？还是屏幕不一样？](https://www.v2ex.com/t/719208) ![](assets/new.png)  
+- [2020-10-27-移动硬盘能不能同时被两台主机共享？](https://www.v2ex.com/t/719207) ![](assets/new.png)  
+- [2020-10-27-成都自养五只蓝猫出售](https://www.v2ex.com/t/719206) ![](assets/new.png)  
+- [2020-10-27-今日头条/悟空问答-域名-SSL-错误](https://www.v2ex.com/t/719204) ![](assets/new.png)  
+- [2020-10-27-就没有觉得-iPhone12-丑的？](https://www.v2ex.com/t/719202) ![](assets/new.png)  
+- [2020-10-27-内推-Java-高工、架构师，坐标北京、杭州，字节跳动](https://www.v2ex.com/t/719201) ![](assets/new.png)  
+- [2020-10-27-如果原来去下载一个资源的速度是-10M/s，但是因为我的机器磁盘-IO-被吃满了，此时我下载资源的速度还是-10M/s-吗](https://www.v2ex.com/t/719200) ![](assets/new.png)  
+- [2020-10-27-大家喜欢用纯-sql-还是-orm-框架？](https://www.v2ex.com/t/719199) ![](assets/new.png)  
+- [2020-10-27-北京/广州-出海电商|a16z-国内首个投资企业招-iOS-android-Java-UX](https://www.v2ex.com/t/719198) ![](assets/new.png)  
+- [2020-10-27-iOS-什么时候才能支持添加门禁卡？](https://www.v2ex.com/t/719197) ![](assets/new.png)  
+- [2020-10-27-Starlink-beta-价格](https://www.v2ex.com/t/719196) ![](assets/new.png)  
+- [2020-10-27-限时免费-DNS-解锁日区-Netflix-全内容](https://www.v2ex.com/t/719195) ![](assets/new.png)  
+- [2020-10-27-国内现在比较-geek-比较酷的创业公司有什么啊？](https://www.v2ex.com/t/719194) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

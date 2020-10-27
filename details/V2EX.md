@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-27 14:35:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 14:43:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-27-江苏电信两个-speedtest-测速点外网速度超神了](https://www.v2ex.com/t/719217) 
 - [2020-10-27-黑五-pixel-5-价格能到多少](https://www.v2ex.com/t/719215) 
 - [2020-10-27-geogebra-在-3D-视图下如何创建滑动条](https://www.v2ex.com/t/719214) 
 - [2020-10-27-病毒性感冒，感冒好了，还有点咳嗽，咳嗽可以自己好吗？感觉吃的咳嗽药没什么用](https://www.v2ex.com/t/719213) 
@@ -46,4 +47,3 @@
 - [2020-10-27-聊一聊用了一个半月的杜伽-FUSION-68-键盘](https://www.v2ex.com/t/719170) 
 - [2020-10-27-Linux-发送请求-ip-被-ban](https://www.v2ex.com/t/719169) 
 - [2020-10-27-有了解-UI/UX-Information-Architecture-的老哥吗](https://www.v2ex.com/t/719168) 
-- [2020-10-27-iPhone-12-无线充电时屏幕会有白色条纹闪动](https://www.v2ex.com/t/719166) 

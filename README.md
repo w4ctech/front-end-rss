@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 14:35:38，:rocket: 更新条数: +3010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 14:43:53，:rocket: 更新条数: +3010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-10-27-江苏电信两个-speedtest-测速点外网速度超神了](https://www.v2ex.com/t/719217) ![](assets/new.png)  
 - [2020-10-27-黑五-pixel-5-价格能到多少](https://www.v2ex.com/t/719215) ![](assets/new.png)  
 - [2020-10-27-geogebra-在-3D-视图下如何创建滑动条](https://www.v2ex.com/t/719214) ![](assets/new.png)  
 - [2020-10-27-病毒性感冒，感冒好了，还有点咳嗽，咳嗽可以自己好吗？感觉吃的咳嗽药没什么用](https://www.v2ex.com/t/719213) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-10-27-iOS-什么时候才能支持添加门禁卡？](https://www.v2ex.com/t/719197) ![](assets/new.png)  
 - [2020-10-27-Starlink-beta-价格](https://www.v2ex.com/t/719196) ![](assets/new.png)  
 - [2020-10-27-限时免费-DNS-解锁日区-Netflix-全内容](https://www.v2ex.com/t/719195) ![](assets/new.png)  
-- [2020-10-27-国内现在比较-geek-比较酷的创业公司有什么啊？](https://www.v2ex.com/t/719194) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1528,10 +1528,176 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/toutiao/today",
+    "rss": "https://rss.itggg.cn/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "困在内卷里的工程师 | 码农周刊第 322 期",
+        "link": "https://toutiao.io/k/mb7u8g0",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "工具 | 阿里云开源的，业界首个面向 NLP 场景的深度迁移学习框架",
+        "link": "https://toutiao.io/k/6ic2uca",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[译] 初识 NGINX 服务网格",
+        "link": "https://toutiao.io/k/mc7hwwn",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "中台架构下的 DDD 和落地实践",
+        "link": "https://toutiao.io/k/pbogqyj",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "MySQL & MariaDB Online DDL 参考指南",
+        "link": "https://toutiao.io/k/2acx2zh",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "你的 ThreadLocal 线程安全么？",
+        "link": "https://toutiao.io/k/5o5p4j9",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "Ray 之内部实现机制",
+        "link": "https://toutiao.io/k/tpgpccp",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "单点登录，不要老盯着 cas-server 了，你还可以选择 keycloak",
+        "link": "https://toutiao.io/k/hbhmkn4",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "Raft 作者亲自出的 Raft 试题，你能做对几道？",
+        "link": "https://toutiao.io/k/e6w07y3",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "史上最详细浏览器端网页截图方案解析",
+        "link": "https://toutiao.io/k/n1e9txu",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "印度最大在线食品杂货公司 Grofers 的数据湖建设之路",
+        "link": "https://toutiao.io/k/z5vm6t9",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[译] 3 分钟简述熔断器使用方法",
+        "link": "https://toutiao.io/k/f1js9jk",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "Bilibili 实时计算平台架构与实践",
+        "link": "https://toutiao.io/k/05y658j",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "数据结构与算法：二分查找",
+        "link": "https://toutiao.io/k/hbfzrl9",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "vivo 基于原生 RabbitMQ 的高可用架构实践",
+        "link": "https://toutiao.io/k/w1n38ti",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "智能化趋势 v2.0",
+        "link": "https://toutiao.io/k/8jywiu5",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "controller-runtime 之控制器实现",
+        "link": "https://toutiao.io/k/yaj8it8",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
+        "link": "https://toutiao.io/k/y63nj77",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-27"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-27 20:48:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 21:04:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -397,6 +397,8 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【开发者头条】你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9)
+- [【开发者头条】史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu)
 - [【安全热点】恭喜whoamiii卫冕司令|双11安全保卫战军衔更新](https://sec.thief.one/article_content?a_id=3c457de3e655b776d9e376512cb29b62)
 - [【安全热点】微软威胁情报中心总经理-John-Lambert:信息安全的“GitHub化”](https://sec.thief.one/article_content?a_id=72aa5a0030314eda1ef4e117aeee6d6e)
 - [【安全热点】【安全风险通告】XXL-JOB未授权远程命令执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=afd46a7ee5ed97b993e5c8d4b50caba7)
@@ -406,8 +408,6 @@
 - [【安全热点】恭喜whoamiii卫冕司令|双11安全保卫战军衔更新](https://sec.thief.one/article_content?a_id=47a20b751da936e90b214d0932b1d2fc)
 - [【安全热点】信息安全漏洞周报2020年第41期](https://sec.thief.one/article_content?a_id=f76b83b2671a51966fad8eefd38cbcf5)
 - [【安全热点】涉及金融监管、数据标准与开放等:近期网络安全重磅资讯](https://sec.thief.one/article_content?a_id=410243757922be7a0f3dfaab3a6c6ecb)
-- [【安全热点】每日安全动态推送10-27](https://sec.thief.one/article_content?a_id=25139f98f40d35ecb2c54ff11ca58643)
-- [【安全热点】京东亮相Geekpwn2020,传递极客精神共话安全之道](https://sec.thief.one/article_content?a_id=be737e16ee00978aaf302f7be6cb397f)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -431,6 +431,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【开发者头条】数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9)
 - [【安全热点】黑客攻破芬兰心理治疗公司Vastaamo并公布数百人健康数据](https://sec.thief.one/article_content?a_id=50df8f87b6aff2ac286d3c2b81977a9e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -450,6 +451,7 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【开发者头条】译-初识-NGINX-服务网格](https://toutiao.io/k/mc7hwwn)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -486,6 +488,9 @@
 
 
 
+- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
+- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
+- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【安全热点】27场机器学习面试后,来划个概念重点吧](https://sec.thief.one/article_content?a_id=15ce3aa7f5490ba550146714d2a91033)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 09:35:50，:rocket: 更新条数: +3000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 09:51:27，:rocket: 更新条数: +3002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,14 @@
 </summary>
 
 
+- [2020-10-27-华为港版手机，刚才-apple-music-app-更新后，只要连上-vpn-就显示离线](https://www.v2ex.com/t/719130) ![](assets/new.png)  
+- [2020-10-27-你们在-OKEX-里面有资产吗？怎么处理的？](https://www.v2ex.com/t/719128) ![](assets/new.png)  
+- [2020-10-27-从现有续航测试推算，-12mini-的续航或与-11-大致相当](https://www.v2ex.com/t/719127) ![](assets/new.png)  
+- [2020-10-27-天津航空-20-寸行李箱强制托运，如何投诉？](https://www.v2ex.com/t/719126) ![](assets/new.png)  
+- [2020-10-27-三七互娱内推-社招-中/高-PHP-工程师-13-25K-广州](https://www.v2ex.com/t/719125) ![](assets/new.png)  
+- [2020-10-27-TabNine，基于深度学习的智能「代码提示」工具](https://www.v2ex.com/t/719124) ![](assets/new.png)  
+- [2020-10-27-一个-html-页面，-iPhone-的-safari-访问时提示下载这个-Html，但电脑的不会提示。](https://www.v2ex.com/t/719123) ![](assets/new.png)  
+- [2020-10-27-美区-Netflix-招-3-个车友，-50/季度](https://www.v2ex.com/t/719122) ![](assets/new.png)  
 - [2020-10-27-不懂就问，-Android-离线-App-限时激活方案？](https://www.v2ex.com/t/719121) ![](assets/new.png)  
 - [2020-10-27-20201027-开始自废武功](https://www.v2ex.com/t/719120) ![](assets/new.png)  
 - [2020-10-27-做一个把资源搜索全部放在一起的网站，让搜索资源不再麻烦.....](https://www.v2ex.com/t/719119) ![](assets/new.png)  
@@ -545,14 +553,6 @@
 - [2020-10-27-上海-坚果云——紧急招聘安卓、后端方向，对开源工具类-APP-感兴趣的同学进来看看！](https://www.v2ex.com/t/719110) ![](assets/new.png)  
 - [2020-10-27-MacBook-Pro-电池损耗情况](https://www.v2ex.com/t/719107) ![](assets/new.png)  
 - [2020-10-27-有人知道原来的-Diglog-现在发生了什么吗？](https://www.v2ex.com/t/719105) ![](assets/new.png)  
-- [2020-10-27-妙控键盘没有小键盘，不好用，有稳定的无线小键盘推荐吗？不想换掉妙控键盘](https://www.v2ex.com/t/719104) ![](assets/new.png)  
-- [2020-10-27-成都的朋友有做短租民宿的嘛？](https://www.v2ex.com/t/719103) ![](assets/new.png)  
-- [2020-10-27-小米手机-Google-Play-服务](https://www.v2ex.com/t/719102) ![](assets/new.png)  
-- [2020-10-27-公司主管和人事想让我转组，我不愿意，求各位-v-友支招](https://www.v2ex.com/t/719101) ![](assets/new.png)  
-- [2020-10-27-微博又炸了吗](https://www.v2ex.com/t/719100) ![](assets/new.png)  
-- [2020-10-27-单服务器，使用-docker-能否简单的实现类似"热部署"的功能](https://www.v2ex.com/t/719096) ![](assets/new.png)  
-- [2020-10-27-FreeOffice-好用吗？](https://www.v2ex.com/t/719095) ![](assets/new.png)  
-- [2020-10-27-app-零基础如何学习-Swift-？](https://www.v2ex.com/t/719094) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

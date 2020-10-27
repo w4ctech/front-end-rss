@@ -14283,6 +14283,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "华为港版手机，刚才 apple music app 更新后，只要连上 vpn 就显示离线",
+        "link": "https://www.v2ex.com/t/719130",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "你们在 OKEX 里面有资产吗？怎么处理的？",
+        "link": "https://www.v2ex.com/t/719128",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "从现有续航测试推算， 12mini 的续航或与 11 大致相当",
+        "link": "https://www.v2ex.com/t/719127",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "天津航空 20 寸行李箱强制托运，如何投诉？",
+        "link": "https://www.v2ex.com/t/719126",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[三七互娱内推-社招-中/高 PHP 工程师 13-25K] [广州]",
+        "link": "https://www.v2ex.com/t/719125",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "TabNine，基于深度学习的智能「代码提示」工具",
+        "link": "https://www.v2ex.com/t/719124",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "一个 html 页面， iPhone 的 safari 访问时提示下载这个 Html，但电脑的不会提示。",
+        "link": "https://www.v2ex.com/t/719123",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "美区 Netflix 招 3 个车友， 50/季度",
+        "link": "https://www.v2ex.com/t/719122",
+        "date": "2020-10-27"
+      },
+      {
         "title": "不懂就问， Android 离线 App 限时激活方案？",
         "link": "https://www.v2ex.com/t/719121",
         "date": "2020-10-27"
@@ -14420,36 +14460,6 @@
       {
         "title": "WKY 的下载速度是真可以，搭配 BT 下载完美了",
         "link": "https://www.v2ex.com/t/719084",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "iOS14 围脖卡住不动，别人就没这个问题吗？",
-        "link": "https://www.v2ex.com/t/719081",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "研发的都可以过来看看",
-        "link": "https://www.v2ex.com/t/719080",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "PHP 8 所有新特性一览和代码示例",
-        "link": "https://www.v2ex.com/t/719078",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "mac 下提取 Microsoft Edge.app",
-        "link": "https://www.v2ex.com/t/719076",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "iPhone 12 Pro 自带相机还杀后台吗",
-        "link": "https://www.v2ex.com/t/719074",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[深圳/长沙] [腾讯云 - 前端] 欢迎各位英才！",
-        "link": "https://www.v2ex.com/t/719072",
         "date": "2020-10-27"
       }
     ]
@@ -14667,13 +14677,8 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
+        "title": "[推荐] 技术方案设计的方法",
+        "link": "https://toutiao.io/k/jc76sul",
         "date": "2020-10-27"
       },
       {
@@ -14682,28 +14687,13 @@
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-27"
       },
       {
-        "title": "[推荐] 技术方案设计的方法",
-        "link": "https://toutiao.io/k/jc76sul",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
-        "link": "https://toutiao.io/k/2ltmzw0",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
-        "link": "https://toutiao.io/k/lxcx8vb",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-27"
       },
       {
@@ -14712,8 +14702,43 @@
         "date": "2020-10-27"
       },
       {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
+        "date": "2020-10-27"
+      },
+      {
         "title": "[推荐] 常见面试题之缓存雪崩、缓存穿透、缓存击穿",
         "link": "https://toutiao.io/k/o904vp0",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 恕我直言，微服务挺好，但不适合你",
+        "link": "https://toutiao.io/k/2ltmzw0",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-27"
       },
       {
@@ -14724,21 +14749,6 @@
       {
         "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
         "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-27"
       }
     ]

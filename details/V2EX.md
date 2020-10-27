@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-27 08:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 08:18:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-27-30-岁作为程序员的你，有多少存款](https://www.v2ex.com/t/719090) 
+- [2020-10-27-哪个大佬有国密-SM2-pdf-签名的阅读器](https://www.v2ex.com/t/719089) 
 - [2020-10-27-不懂就问_](https://www.v2ex.com/t/719087) 
 - [2020-10-27-蛋壳返现已经延期半个月没打了，是不是真要跑路了](https://www.v2ex.com/t/719086) 
 - [2020-10-27-MBP-2018-更换电池](https://www.v2ex.com/t/719085) 
@@ -40,4 +42,3 @@
 - [2020-10-27-vue-前端-springboot-后端分离跨域求解](https://www.v2ex.com/t/719043) 
 - [2020-10-27-分享一个-Python-网络编程项目实战视频教程-网络电子白板（socket-通信，多线程，图形界面编程，网络协议设计，-json-对象传输，干货满满，大学课程设计首选）](https://www.v2ex.com/t/719042) 
 - [2020-10-27-摄影活动发一张今年拍的满意照片](https://www.v2ex.com/t/719041) 
-- [2020-10-27-微信小程序-graphql-subscription-client-的实现](https://www.v2ex.com/t/719038) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 08:04:44，:rocket: 更新条数: +3002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 08:18:07，:rocket: 更新条数: +3003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-10-27-30-岁作为程序员的你，有多少存款](https://www.v2ex.com/t/719090) ![](assets/new.png)  
+- [2020-10-27-哪个大佬有国密-SM2-pdf-签名的阅读器](https://www.v2ex.com/t/719089) ![](assets/new.png)  
 - [2020-10-27-不懂就问_](https://www.v2ex.com/t/719087) ![](assets/new.png)  
 - [2020-10-27-蛋壳返现已经延期半个月没打了，是不是真要跑路了](https://www.v2ex.com/t/719086) ![](assets/new.png)  
 - [2020-10-27-MBP-2018-更换电池](https://www.v2ex.com/t/719085) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-10-27-有没有觉得麦当劳变了](https://www.v2ex.com/t/719064) ![](assets/new.png)  
 - [2020-10-27-springsecurity-里接口请求权限能不能动态配置？-securityconfig-里-antMatchers-permitall，-authorizeRequests-对哪些接口放行哪些接口需要角色好像都已经写死...](https://www.v2ex.com/t/719062) ![](assets/new.png)  
 - [2020-10-27-网易美团校招-offer-比较](https://www.v2ex.com/t/719061) ![](assets/new.png)  
-- [2020-10-27-想今年换新手机，在-mate40pro-和-iphone12-纠结，给点建议](https://www.v2ex.com/t/719060) ![](assets/new.png)  
-- [2020-10-27-256G-固态硬盘用不到-1-年满了，换-512G-的](https://www.v2ex.com/t/719059) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -611,8 +611,8 @@
 - [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
 - [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
 - [2020-10-27-数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9) ![](assets/new.png)  
-- [2020-10-27-vivo-基于原生-RabbitMQ-的高可用架构实践](https://toutiao.io/k/w1n38ti) ![](assets/new.png)  
 - [2020-10-27-Bilibili-实时计算平台架构与实践](https://toutiao.io/k/05y658j) ![](assets/new.png)  
+- [2020-10-27-vivo-基于原生-RabbitMQ-的高可用架构实践](https://toutiao.io/k/w1n38ti) ![](assets/new.png)  
 - [2020-10-27-智能化趋势-v2.0](https://toutiao.io/k/8jywiu5) ![](assets/new.png)  
 - [2020-10-27-controller-runtime-之控制器实现](https://toutiao.io/k/yaj8it8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-27 13:40:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 13:47:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -329,10 +329,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】Linux-发送请求-ip-被-ban](https://www.v2ex.com/t/719169)
 - [【技术头条】“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【安全热点】恭喜whoamiii卫冕司令|双11安全保卫战军衔更新](https://sec.thief.one/article_content?a_id=3c457de3e655b776d9e376512cb29b62)
-- [【安全热点】微软威胁情报中心总经理-John-Lambert:信息安全的“GitHub化”](https://sec.thief.one/article_content?a_id=72aa5a0030314eda1ef4e117aeee6d6e)
-- [【安全热点】【安全风险通告】XXL-JOB未授权远程命令执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=afd46a7ee5ed97b993e5c8d4b50caba7)
+- [【开发者头条】你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9)
+- [【开发者头条】史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -349,6 +349,8 @@
 
 
 
+- [【V2EX】社招-小米大数据团队--数据分析/算法/-Java-/-Java-架构](https://www.v2ex.com/t/719156)
+- [【开发者头条】数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9)
 - [【安全热点】黑客攻破芬兰心理治疗公司Vastaamo并公布数百人健康数据](https://sec.thief.one/article_content?a_id=50df8f87b6aff2ac286d3c2b81977a9e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -366,6 +368,7 @@
 
 
 
+- [【开发者头条】译-初识-NGINX-服务网格](https://toutiao.io/k/mc7hwwn)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -401,6 +404,12 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【V2EX】阿里巴巴招聘-数字供应链事业部------财务研发工程师/技术专家（盒马，猫超，天猫国际）](https://www.v2ex.com/t/719165)
+- [【V2EX】alibaba.com-广告技术部招聘](https://www.v2ex.com/t/719163)
+- [【V2EX】面试中关于-Redis-的两个问题求教](https://www.v2ex.com/t/719158)
+- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
+- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
+- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【安全热点】27场机器学习面试后,来划个概念重点吧](https://sec.thief.one/article_content?a_id=15ce3aa7f5490ba550146714d2a91033)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

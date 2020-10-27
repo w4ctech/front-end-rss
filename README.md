@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 13:40:09，:rocket: 更新条数: +2932， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 13:47:41，:rocket: 更新条数: +3007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-10-27-就没有觉得-iPhone12-丑的？](https://www.v2ex.com/t/719202) ![](assets/new.png)  
+- [2020-10-27-内推-Java-高工、架构师，坐标北京、杭州，字节跳动](https://www.v2ex.com/t/719201) ![](assets/new.png)  
+- [2020-10-27-如果原来去下载一个资源的速度是-10M/s，但是因为我的机器磁盘-IO-被吃满了，此时我下载资源的速度还是-10M/s-吗](https://www.v2ex.com/t/719200) ![](assets/new.png)  
+- [2020-10-27-大家喜欢用纯-sql-还是-orm-框架？](https://www.v2ex.com/t/719199) ![](assets/new.png)  
+- [2020-10-27-北京/广州-出海电商|a16z-国内首个投资企业招-iOS-android-Java-UX](https://www.v2ex.com/t/719198) ![](assets/new.png)  
+- [2020-10-27-iOS-什么时候才能支持添加门禁卡？](https://www.v2ex.com/t/719197) ![](assets/new.png)  
+- [2020-10-27-Starlink-beta-价格](https://www.v2ex.com/t/719196) ![](assets/new.png)  
+- [2020-10-27-限时免费-DNS-解锁日区-Netflix-全内容](https://www.v2ex.com/t/719195) ![](assets/new.png)  
+- [2020-10-27-国内现在比较-geek-比较酷的创业公司有什么啊？](https://www.v2ex.com/t/719194) ![](assets/new.png)  
+- [2020-10-27-饿了么准时宝是否存在漏洞？](https://www.v2ex.com/t/719193) ![](assets/new.png)  
+- [2020-10-27-上海地铁：-12-月-1-日起禁止手机外放](https://www.v2ex.com/t/719192) ![](assets/new.png)  
+- [2020-10-27-关于《Algorithms-4》](https://www.v2ex.com/t/719191) ![](assets/new.png)  
+- [2020-10-27-一种在微信公众号图文中插入外链的方案-新](https://www.v2ex.com/t/719190) ![](assets/new.png)  
+- [2020-10-27-小白自学-Python-（五）----Python-运算符](https://www.v2ex.com/t/719189) ![](assets/new.png)  
+- [2020-10-27-请问-Kernel-中对-USB-OTG-工作在-Host-模式时同时可以被充电的逻辑-ACA](https://www.v2ex.com/t/719188) ![](assets/new.png)  
+- [2020-10-27-magsafe-充电器实在是太拉垮了，活生生的一个智商税产品。](https://www.v2ex.com/t/719187) ![](assets/new.png)  
+- [2020-10-27-有没有人知道如何-filco-的键盘关闭-dip-模式？](https://www.v2ex.com/t/719186) ![](assets/new.png)  
+- [2020-10-27-PayPal-余额兑换，大约$60](https://www.v2ex.com/t/719185) ![](assets/new.png)  
+- [2020-10-27-想到狮城（新加坡）开始海外事业，扩充视野吗？快点入看看怎么一回事！](https://www.v2ex.com/t/719184) ![](assets/new.png)  
+- [2020-10-27-由公司管理的笔记本能摸鱼吗](https://www.v2ex.com/t/719183) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,6 +595,26 @@
 </summary>
 
 
+- [2020-10-27-困在内卷里的工程师-|-码农周刊第-322-期](https://toutiao.io/k/mb7u8g0) ![](assets/new.png)  
+- [2020-10-27-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-10-27-工具-|-阿里云开源的，业界首个面向-NLP-场景的深度迁移学习框架](https://toutiao.io/k/6ic2uca) ![](assets/new.png)  
+- [2020-10-27-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-10-27-中台架构下的-DDD-和落地实践](https://toutiao.io/k/pbogqyj) ![](assets/new.png)  
+- [2020-10-27-译-初识-NGINX-服务网格](https://toutiao.io/k/mc7hwwn) ![](assets/new.png)  
+- [2020-10-27-MySQL-&-MariaDB-Online-DDL-参考指南](https://toutiao.io/k/2acx2zh) ![](assets/new.png)  
+- [2020-10-27-你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9) ![](assets/new.png)  
+- [2020-10-27-Ray-之内部实现机制](https://toutiao.io/k/tpgpccp) ![](assets/new.png)  
+- [2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
+- [2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) ![](assets/new.png)  
+- [2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) ![](assets/new.png)  
+- [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
+- [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
+- [2020-10-27-数据结构与算法：二分查找](https://toutiao.io/k/hbfzrl9) ![](assets/new.png)  
+- [2020-10-27-Bilibili-实时计算平台架构与实践](https://toutiao.io/k/05y658j) ![](assets/new.png)  
+- [2020-10-27-vivo-基于原生-RabbitMQ-的高可用架构实践](https://toutiao.io/k/w1n38ti) ![](assets/new.png)  
+- [2020-10-27-智能化趋势-v2.0](https://toutiao.io/k/8jywiu5) ![](assets/new.png)  
+- [2020-10-27-controller-runtime-之控制器实现](https://toutiao.io/k/yaj8it8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

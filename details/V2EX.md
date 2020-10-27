@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 16:45:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 16:52:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -48,4 +48,3 @@
 - [2020-10-27-上海地铁：-12-月-1-日起禁止手机外放](https://www.v2ex.com/t/719192) 
 - [2020-10-27-关于《Algorithms-4》](https://www.v2ex.com/t/719191) 
 - [2020-10-27-一种在微信公众号图文中插入外链的方案-新](https://www.v2ex.com/t/719190) 
-- [2020-10-27-小白自学-Python-（五）----Python-运算符](https://www.v2ex.com/t/719189) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 15:57:13，:rocket: 更新条数: +3012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 16:06:02，:rocket: 更新条数: +260， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-10-26-最新疫情：全国新冠累计确诊85826例-新增境外输入16例](https://m.caixin.com/m/2020-10-27/101619430.html) ![](assets/new.png)  
-- [2020-10-26-香港连续两日无本地新增病例-内地港人11月回港免隔离](https://m.caixin.com/m/2020-10-27/101619499.html) ![](assets/new.png)  
-- [2020-10-26-新疆喀什新增5例确诊病例-新增19例无症状感染者](http://m.china.caixin.com/m/2020-10-27/101619422.html) ![](assets/new.png)  
-- [2020-10-26-独家|喀什疫情暴发地为一制衣厂](https://m.caixin.com/m/2020-10-27/101619174.html) ![](assets/new.png)  
-- [2020-10-26-最新海外疫情：新冠感染近4335万-累计死亡超115万](http://m.international.caixin.com/m/2020-10-27/101619424.html) ![](assets/new.png)  
-- [2020-10-26-【境内疫情观察】新疆喀什新增26例无症状感染者（10月26日）](http://m.database.caixin.com/m/2020-10-27/101619232.html) ![](assets/new.png)  
-- [2020-10-26-大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html) ![](assets/new.png)  
-- [2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) ![](assets/new.png)  
-- [2020-10-25-【境内疫情观察】新疆喀什新增137例无症状感染者（10月25日）](http://m.database.caixin.com/m/2020-10-26/101618828.html) ![](assets/new.png)  
-- [2020-10-25-大流行手记|10月25日：全球日新增连续3日创新高-两项疫苗临床试验恢复](https://m.caixin.com/m/2020-10-26/101618721.html) ![](assets/new.png)  
-- [2020-10-25-【图集】新疆喀什启动一级响应-老城街道人流稀少](http://m.photos.caixin.com/m/2020-10-26/101618711.html) ![](assets/new.png)  
-- [2020-10-24-新疆喀什新增137例无症状感染者-均与首例感染者父母所在工厂关联](https://m.caixin.com/m/2020-10-25/101618657.html) ![](assets/new.png)  
-- [2020-10-24-【境内疫情观察】新疆喀什新增1例本土无症状感染者（10月24日）](http://m.database.caixin.com/m/2020-10-25/101618612.html) ![](assets/new.png)  
-- [2020-10-24-大流行手记|10月24日：波兰总统确诊-WHO称全球疫情处“关键时刻”](https://m.caixin.com/m/2020-10-25/101618567.html) ![](assets/new.png)  
-- [2020-10-23-新疆喀什出现1例无症状感染者-正进行全城核酸检测](https://m.caixin.com/m/2020-10-24/101618559.html) ![](assets/new.png)  
-- [2020-10-23-【境内疫情观察】全国新增28例境外输入病例（10月23日）](http://m.database.caixin.com/m/2020-10-24/101618441.html) ![](assets/new.png)  
-- [2020-10-23-大流行手记|10月23日：法国扩大宵禁范围-美国批准瑞德西韦治疗新冠](https://m.caixin.com/m/2020-10-24/101618343.html) ![](assets/new.png)  
-- [2020-10-22-大流行手记|10月22日：德国日增病例破万-巴西一疫苗试验志愿者死亡](https://m.caixin.com/m/2020-10-23/101617798.html) ![](assets/new.png)  
-- [2020-10-22-【境内疫情观察】全国新增14例境外输入病例（10月22日）](http://m.database.caixin.com/m/2020-10-23/101617954.html) ![](assets/new.png)  
-- [2020-10-21-【境内疫情观察】全国连续190日无新增死亡病例（10月21日）](http://m.database.caixin.com/m/2020-10-22/101617506.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +513,7 @@
 </summary>
 
 
+- [2020-10-27-老铁,-请问有通话声音大点的手机吗?-在路上通话时,-根本听不清别人说话.](https://www.v2ex.com/t/719234) ![](assets/new.png)  
 - [2020-10-27-北京后端/测试-滴滴内推-网约车业务平台技术-真·大量-HC（社招）！](https://www.v2ex.com/t/719232) ![](assets/new.png)  
 - [2020-10-27-iSH-的两个小技巧](https://www.v2ex.com/t/719231) ![](assets/new.png)  
 - [2020-10-27-实习-开源软件-“明日之星-2021”-Casbin-开源软件远程实习生+GSoC-预选生](https://www.v2ex.com/t/719230) ![](assets/new.png)  
@@ -552,7 +533,6 @@
 - [2020-10-27-病毒性感冒，感冒好了，还有点咳嗽，咳嗽可以自己好吗？感觉吃的咳嗽药没什么用](https://www.v2ex.com/t/719213) ![](assets/new.png)  
 - [2020-10-27-现在基本人人都是双卡，我们有必要离开双卡吗？](https://www.v2ex.com/t/719212) ![](assets/new.png)  
 - [2020-10-27-只有一个简单的-web-hosting+pip/ssh-terminal-能否搭梯子进内网？](https://www.v2ex.com/t/719211) ![](assets/new.png)  
-- [2020-10-27-北京杭州字节跳动招聘-Java-高工、架构师](https://www.v2ex.com/t/719210) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 07:04:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 07:16:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -11,4 +11,3 @@
 - [2020-10-26-Vue源码分析（三）-----更新策略](https://juejin.im/post/6888112131548872712) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-10-27-vue-前端-springboot-后端分离跨域求解](https://www.v2ex.com/t/719043) 
-- [2020-10-27-vue-中使用-echarts，当发生路由跳转的时候，再跳转回来，-echarts-就消失不见了，这是为什么？](https://www.v2ex.com/t/719003) 

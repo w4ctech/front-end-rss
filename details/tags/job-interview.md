@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 18:34:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 18:52:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,8 +7,6 @@
 
 
 
-- [2020-10-27-感悟-面试不要暴露自己的缺点,-有问题带过就行了.](https://www.v2ex.com/t/719235) 
-- [2020-10-27-北京杭州字节跳动招聘-Java-高工、架构师](https://www.v2ex.com/t/719210) 
 - [2020-10-27-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
 - [2020-10-27-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
 - [2020-10-27-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 

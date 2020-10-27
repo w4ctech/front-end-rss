@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 08:41:26，:rocket: 更新条数: +3001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 08:50:06，:rocket: 更新条数: +3001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-10-27-有人知道原来的-Diglog-现在发生了什么吗？](https://www.v2ex.com/t/719105) ![](assets/new.png)  
+- [2020-10-27-妙控键盘没有小键盘，不好用，有稳定的无线小键盘推荐吗？不想换掉妙控键盘](https://www.v2ex.com/t/719104) ![](assets/new.png)  
+- [2020-10-27-成都的朋友有做短租民宿的嘛？](https://www.v2ex.com/t/719103) ![](assets/new.png)  
+- [2020-10-27-小米手机-Google-Play-服务](https://www.v2ex.com/t/719102) ![](assets/new.png)  
+- [2020-10-27-公司主管和人事想让我转组，我不愿意，求各位-v-友支招](https://www.v2ex.com/t/719101) ![](assets/new.png)  
 - [2020-10-27-微博又炸了吗](https://www.v2ex.com/t/719100) ![](assets/new.png)  
 - [2020-10-27-单服务器，使用-docker-能否简单的实现类似"热部署"的功能](https://www.v2ex.com/t/719096) ![](assets/new.png)  
 - [2020-10-27-FreeOffice-好用吗？](https://www.v2ex.com/t/719095) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-10-27-iOS14-围脖卡住不动，别人就没这个问题吗？](https://www.v2ex.com/t/719081) ![](assets/new.png)  
 - [2020-10-27-研发的都可以过来看看](https://www.v2ex.com/t/719080) ![](assets/new.png)  
 - [2020-10-27-PHP-8-所有新特性一览和代码示例](https://www.v2ex.com/t/719078) ![](assets/new.png)  
-- [2020-10-27-mac-下提取-Microsoft-Edge.app](https://www.v2ex.com/t/719076) ![](assets/new.png)  
-- [2020-10-27-iPhone-12-Pro-自带相机还杀后台吗](https://www.v2ex.com/t/719074) ![](assets/new.png)  
-- [2020-10-27-深圳/长沙-腾讯云---前端-欢迎各位英才！](https://www.v2ex.com/t/719072) ![](assets/new.png)  
-- [2020-10-27-系统维护，需要监控目录大小，超过大小按照日期删除子文件和子文件夹。](https://www.v2ex.com/t/719070) ![](assets/new.png)  
-- [2020-10-27-幻方量化/AI-Labs-热招-C++工程师（杭州）](https://www.v2ex.com/t/719069) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-10-27-持续定义SaaS模式云数据仓库+Serverless-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13830&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775404%3Futm_content%3Dg_1000194582%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-27-如何使用云原生数据湖，助力线上教育行业逐步智能化-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13829&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772903%3Futm_content%3Dg_1000194581%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-27-一文教会你如何写复杂业务代码-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13828&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776434%3Futm_content%3Dg_1000194580%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-27-深度-|-容器规模化落地企业的最佳途径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13827&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776227%3Futm_content%3Dg_1000194579%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-10-27-敏捷项目管理需要知道的五类图表-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13813&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchats-for-agile-project-management%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-27-硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13812&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-10-27-微软发布新版-Python-教程，这次更高级！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13811&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKXm5FJn52NAhBsaMf6d9Lw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-27-Spring-Boot-最流行的-16-条实践解读！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13810&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn4_duiwydvTzwulxUWvlwA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 15:18:05，:rocket: 更新条数: +2968， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 15:34:40，:rocket: 更新条数: +3012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-10-27-实习-开源软件-“明日之星-2021”-Casbin-开源软件远程实习生+GSoC-预选生](https://www.v2ex.com/t/719230) ![](assets/new.png)  
+- [2020-10-27-买房刚交了定金，马上面签，如果被裁，该怎么办？](https://www.v2ex.com/t/719229) ![](assets/new.png)  
+- [2020-10-27-新疆阿克苏冰糖心苹果可以吃啦](https://www.v2ex.com/t/719228) ![](assets/new.png)  
+- [2020-10-27-iphone12-问题收集](https://www.v2ex.com/t/719226) ![](assets/new.png)  
+- [2020-10-27-如果是你造消息中间件的轮子，你会考虑哪些方面？](https://www.v2ex.com/t/719225) ![](assets/new.png)  
+- [2020-10-27-福乐派一个分享快乐-分享新鲜事的社区](https://www.v2ex.com/t/719224) ![](assets/new.png)  
+- [2020-10-27-有无站友在-THU-或者-PKU-读书？想咨询一下有关强基计划的状况](https://www.v2ex.com/t/719223) ![](assets/new.png)  
+- [2020-10-27-大佬们，麻烦帮忙看下这是雷蛇哪款机械键盘，想买啊](https://www.v2ex.com/t/719221) ![](assets/new.png)  
+- [2020-10-27-可以更快地查阅-ESLint-文档了！](https://www.v2ex.com/t/719220) ![](assets/new.png)  
+- [2020-10-27-geogebra-中如何创建参数向量？](https://www.v2ex.com/t/719219) ![](assets/new.png)  
+- [2020-10-27-感觉最近几个月来大的-git-库很难下载成功了](https://www.v2ex.com/t/719218) ![](assets/new.png)  
+- [2020-10-27-江苏电信两个-speedtest-测速点外网速度超神了](https://www.v2ex.com/t/719217) ![](assets/new.png)  
+- [2020-10-27-黑五-pixel-5-价格能到多少](https://www.v2ex.com/t/719215) ![](assets/new.png)  
+- [2020-10-27-geogebra-在-3D-视图下如何创建滑动条](https://www.v2ex.com/t/719214) ![](assets/new.png)  
+- [2020-10-27-病毒性感冒，感冒好了，还有点咳嗽，咳嗽可以自己好吗？感觉吃的咳嗽药没什么用](https://www.v2ex.com/t/719213) ![](assets/new.png)  
+- [2020-10-27-现在基本人人都是双卡，我们有必要离开双卡吗？](https://www.v2ex.com/t/719212) ![](assets/new.png)  
+- [2020-10-27-只有一个简单的-web-hosting+pip/ssh-terminal-能否搭梯子进内网？](https://www.v2ex.com/t/719211) ![](assets/new.png)  
+- [2020-10-27-北京杭州字节跳动招聘-Java-高工、架构师](https://www.v2ex.com/t/719210) ![](assets/new.png)  
+- [2020-10-27-外卖商家的套路你怎么看？](https://www.v2ex.com/t/719209) ![](assets/new.png)  
+- [2020-10-27-iPhone12-的亮度都是不一样的吗？还是屏幕不一样？](https://www.v2ex.com/t/719208) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

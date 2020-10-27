@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 08:50:06，:rocket: 更新条数: +3001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 09:04:36，:rocket: 更新条数: +3000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-10-27-iOS-14-悄悄解决了邮件签名变附件的问题？](https://www.v2ex.com/t/719113) ![](assets/new.png)  
+- [2020-10-27-宽带无用论还有多久会出现](https://www.v2ex.com/t/719112) ![](assets/new.png)  
+- [2020-10-27-坐标广州，听前同事找工作有感....你们遇到了吗](https://www.v2ex.com/t/719111) ![](assets/new.png)  
+- [2020-10-27-上海-坚果云——紧急招聘安卓、后端方向，对开源工具类-APP-感兴趣的同学进来看看！](https://www.v2ex.com/t/719110) ![](assets/new.png)  
+- [2020-10-27-MacBook-Pro-电池损耗情况](https://www.v2ex.com/t/719107) ![](assets/new.png)  
 - [2020-10-27-有人知道原来的-Diglog-现在发生了什么吗？](https://www.v2ex.com/t/719105) ![](assets/new.png)  
 - [2020-10-27-妙控键盘没有小键盘，不好用，有稳定的无线小键盘推荐吗？不想换掉妙控键盘](https://www.v2ex.com/t/719104) ![](assets/new.png)  
 - [2020-10-27-成都的朋友有做短租民宿的嘛？](https://www.v2ex.com/t/719103) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-10-27-哪个大佬有国密-SM2-pdf-签名的阅读器](https://www.v2ex.com/t/719089) ![](assets/new.png)  
 - [2020-10-27-不懂就问_](https://www.v2ex.com/t/719087) ![](assets/new.png)  
 - [2020-10-27-蛋壳返现已经延期半个月没打了，是不是真要跑路了](https://www.v2ex.com/t/719086) ![](assets/new.png)  
-- [2020-10-27-MBP-2018-更换电池](https://www.v2ex.com/t/719085) ![](assets/new.png)  
-- [2020-10-27-WKY-的下载速度是真可以，搭配-BT-下载完美了](https://www.v2ex.com/t/719084) ![](assets/new.png)  
-- [2020-10-27-iOS14-围脖卡住不动，别人就没这个问题吗？](https://www.v2ex.com/t/719081) ![](assets/new.png)  
-- [2020-10-27-研发的都可以过来看看](https://www.v2ex.com/t/719080) ![](assets/new.png)  
-- [2020-10-27-PHP-8-所有新特性一览和代码示例](https://www.v2ex.com/t/719078) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

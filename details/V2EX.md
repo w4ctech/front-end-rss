@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-27 08:50:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 09:04:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-27-iOS-14-悄悄解决了邮件签名变附件的问题？](https://www.v2ex.com/t/719113) 
+- [2020-10-27-宽带无用论还有多久会出现](https://www.v2ex.com/t/719112) 
+- [2020-10-27-坐标广州，听前同事找工作有感....你们遇到了吗](https://www.v2ex.com/t/719111) 
+- [2020-10-27-上海-坚果云——紧急招聘安卓、后端方向，对开源工具类-APP-感兴趣的同学进来看看！](https://www.v2ex.com/t/719110) 
+- [2020-10-27-MacBook-Pro-电池损耗情况](https://www.v2ex.com/t/719107) 
 - [2020-10-27-有人知道原来的-Diglog-现在发生了什么吗？](https://www.v2ex.com/t/719105) 
 - [2020-10-27-妙控键盘没有小键盘，不好用，有稳定的无线小键盘推荐吗？不想换掉妙控键盘](https://www.v2ex.com/t/719104) 
 - [2020-10-27-成都的朋友有做短租民宿的嘛？](https://www.v2ex.com/t/719103) 
@@ -34,9 +39,3 @@
 - [2020-10-27-再一次卡在了文件系统设计，求救大佬](https://www.v2ex.com/t/719067) 
 - [2020-10-27-我的手机不属于我了。此设备归贵单位所有-This-device-belong-to-your-organization](https://www.v2ex.com/t/719065) 
 - [2020-10-27-有没有觉得麦当劳变了](https://www.v2ex.com/t/719064) 
-- [2020-10-27-springsecurity-里接口请求权限能不能动态配置？-securityconfig-里-antMatchers-permitall，-authorizeRequests-对哪些接口放行哪些接口需要角色好像都已经写死...](https://www.v2ex.com/t/719062) 
-- [2020-10-27-网易美团校招-offer-比较](https://www.v2ex.com/t/719061) 
-- [2020-10-27-想今年换新手机，在-mate40pro-和-iphone12-纠结，给点建议](https://www.v2ex.com/t/719060) 
-- [2020-10-27-256G-固态硬盘用不到-1-年满了，换-512G-的](https://www.v2ex.com/t/719059) 
-- [2020-10-27-估计面试没通过，唉](https://www.v2ex.com/t/719057) 
-- [2020-10-27-大佬们都想转行当厨师？](https://www.v2ex.com/t/719056) 

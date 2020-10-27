@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-27 07:49:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 08:04:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -129,7 +129,6 @@
 - [【阮一峰的网络日志】微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
 - [【V2EX】微信小程序-graphql-subscription-client-的实现](https://www.v2ex.com/t/719038)
-- [【V2EX】闲来无事搞了个小程序，水果推荐，在考虑要不要开源](https://www.v2ex.com/t/719037)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -163,7 +162,6 @@
 
 
 
-- [【V2EX】腾讯搞了个云游戏，开始公测了，目前支持-13-款游戏了](https://www.v2ex.com/t/719027)
 - [【安全热点】摸鱼神器!-VS-Code-变身小霸王游戏机](https://sec.thief.one/article_content?a_id=d7e78114074e7935413ea87aa5140571)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -407,11 +405,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【V2EX】估计面试没通过，唉](https://www.v2ex.com/t/719057)
 - [【V2EX】深圳Cloud-Ace招聘销售和售前工程师](https://www.v2ex.com/t/719054)
-- [【V2EX】深圳初创公司招聘，资深产品经理和高级前端开发工程师](https://www.v2ex.com/t/719032)
-- [【V2EX】陌陌-小而美，双休-11.7-日招聘专场（-Java-、ios、Android](https://www.v2ex.com/t/719031)
 - [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
-- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
+- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【安全热点】27场机器学习面试后,来划个概念重点吧](https://sec.thief.one/article_content?a_id=15ce3aa7f5490ba550146714d2a91033)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -480,7 +476,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】10月26日全国新增境外输入新冠16例-累计确诊85826例](https://m.caixin.com/m/2020-10-27/101619113.html)
-- [【武汉肺炎防疫全纪录(财新网)】独家|喀什疫情暴发地为一制衣厂-该厂人均工作面积不到2平米](https://m.caixin.com/m/2020-10-27/101619174.html)
+- [【武汉肺炎防疫全纪录(财新网)】独家|喀什疫情暴发地为一制衣厂](https://m.caixin.com/m/2020-10-27/101619174.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆喀什新增26例无症状感染者（10月26日）](http://m.database.caixin.com/m/2020-10-27/101619232.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html)
 - [【武汉肺炎防疫全纪录(财新网)】新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html)

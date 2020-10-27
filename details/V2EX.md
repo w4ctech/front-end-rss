@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-10-27 07:16:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 07:30:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-27-springsecurity-里接口请求权限能不能动态配置？-securityconfig-里-antMatchers-permitall，-authorizeRequests-对哪些接口放行哪些接口需要角色好像都已经写死...](https://www.v2ex.com/t/719062) 
+- [2020-10-27-网易美团校招-offer-比较](https://www.v2ex.com/t/719061) 
+- [2020-10-27-想今年换新手机，在-mate40pro-和-iphone12-纠结，给点建议](https://www.v2ex.com/t/719060) 
+- [2020-10-27-256G-固态硬盘用不到-1-年满了，换-512G-的](https://www.v2ex.com/t/719059) 
 - [2020-10-27-估计面试没通过，唉](https://www.v2ex.com/t/719057) 
 - [2020-10-27-大佬们都想转行当厨师？](https://www.v2ex.com/t/719056) 
 - [2020-10-27-这几天有在深圳益田假日广场-Apple-Store-用招行信用卡-24-期分期买到-iPhone-12-的吗？](https://www.v2ex.com/t/719055) 
@@ -41,7 +45,3 @@
 - [2020-10-27-求上一个-YouTube-Premium-印度-香港家庭车](https://www.v2ex.com/t/719017) 
 - [2020-10-27-独立开发者们快来填「独立开发者生存现状」调查问卷！](https://www.v2ex.com/t/719015) 
 - [2020-10-27-Java-怎么获取其他服务器的-CPU-使用率，内存使用率？](https://www.v2ex.com/t/719014) 
-- [2020-10-27-函数可变参数遇到固定语句无法判断参数关系的问题](https://www.v2ex.com/t/719013) 
-- [2020-10-27-找一些-remote-工作的小伙伴，一起建个群交流下也可以平时参加个技术大会什么的](https://www.v2ex.com/t/719012) 
-- [2020-10-27-北京海淀-长亭科技（阿里系公司）-后端开发、系统研发](https://www.v2ex.com/t/719011) 
-- [2020-10-27-求助，问下我这个机房的-ipv6-地址是不是拔网线了，-ping-不通](https://www.v2ex.com/t/719010) 

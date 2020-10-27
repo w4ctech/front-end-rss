@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 01:29:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 01:57:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,4 +78,5 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-10-27-emmm..假如-iPhone-变厚让摄像头不凸出，变厚的部分多塞点电池，各位能接受么](https://www.v2ex.com/t/718887) 
 - [2020-10-25-【视频】|-Python:字符串内置函数之大小写](https://sec.thief.one/article_content?a_id=b4e6e1a311baa70dc8c78b851e752d0e) 

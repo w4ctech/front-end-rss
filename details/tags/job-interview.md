@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 01:29:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 01:57:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,9 +8,9 @@
 
 
 - [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
+- [2020-10-27-现在技术栈更新的贼快，然后面试造火箭的什么东西都要深入](https://www.v2ex.com/t/718895) 
 - [2020-10-27-字节跳动-Data-广告研发团队招聘前端开发工程师（校招&社招）](https://www.v2ex.com/t/718872) 
-- [2020-10-26-北京社招-VMWare-开源数据库-Greenplum-招聘软件工程师](https://www.v2ex.com/t/718838) 
-- [2020-10-27-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
 - [2020-10-27-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
 - [2020-10-27-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
+- [2020-10-27-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
 - [2020-10-26-27场机器学习面试后,来划个概念重点吧](https://sec.thief.one/article_content?a_id=15ce3aa7f5490ba550146714d2a91033) 

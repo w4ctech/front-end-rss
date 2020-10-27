@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-27 01:29:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 01:57:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -50,6 +50,7 @@
 - [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
 - [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 - [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
+- [【V2EX】前端（react）2-年及以上内推----小步网络/宝安坪洲](https://www.v2ex.com/t/718896)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -138,7 +139,6 @@
 - [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 - [【掘金前端】Nodejs应用生产环境远程调试](https://juejin.im/post/6887937224059568141)
-- [【掘金前端】「-volute-」树莓派+Node.js造一个有灵魂的语音助手](https://juejin.im/post/6887684959893454861)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -513,11 +513,11 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【V2EX】现在技术栈更新的贼快，然后面试造火箭的什么东西都要深入](https://www.v2ex.com/t/718895)
 - [【V2EX】字节跳动-Data-广告研发团队招聘前端开发工程师（校招&社招）](https://www.v2ex.com/t/718872)
-- [【V2EX】北京社招-VMWare-开源数据库-Greenplum-招聘软件工程师](https://www.v2ex.com/t/718838)
-- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
 - [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
+- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
 - [【安全热点】27场机器学习面试后,来划个概念重点吧](https://sec.thief.one/article_content?a_id=15ce3aa7f5490ba550146714d2a91033)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -586,6 +586,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】10月26日全国新增境外输入新冠16例-累计确诊85826例](https://m.caixin.com/m/2020-10-27/101619113.html)
+- [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html)
 - [【武汉肺炎防疫全纪录(财新网)】新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超4290万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-26/101619039.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆喀什新增137例无症状感染者（10月25日）](http://m.database.caixin.com/m/2020-10-26/101618828.html)
@@ -604,7 +605,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增11例境外输入病例（10月20日）](http://m.database.caixin.com/m/2020-10-21/101617043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月20日：俄罗斯日增确诊创新高-阿根廷病例过百万居第五](https://m.caixin.com/m/2020-10-21/101616932.html)
 - [【武汉肺炎防疫全纪录(财新网)】世卫警示民众抗疫疲劳加剧-吁欧美学习亚洲防疫经验](http://m.international.caixin.com/m/2020-10-21/101617217.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增19例境外输入病例（10月19日）](http://m.database.caixin.com/m/2020-10-20/101616600.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

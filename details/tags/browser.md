@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 01:29:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 01:57:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,9 +31,9 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-10-26-没什么人看的博客，恶意请求比正常请求多几百倍](https://www.v2ex.com/t/718851) 
 - [2020-10-27-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-27-你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9) 
+- [2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) 
 - [2020-10-27-推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0) 
 - [2020-10-26-虎符智库|Gartner:EDR和XDR成为终端安全热点](https://sec.thief.one/article_content?a_id=31e75876614d457571605558ced4c433) 
 - [2020-10-26-2020看雪SDC议题回顾-|-逃逸IE浏览器沙箱:在野0Day漏洞利用复现](https://sec.thief.one/article_content?a_id=25d4f3d3763b4810e7cd12d24f2bbe39) 

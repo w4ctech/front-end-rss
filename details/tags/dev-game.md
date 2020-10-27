@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 01:29:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 01:57:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,5 +27,4 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
-- [2020-10-26-给媳妇攒个主机玩游戏，老哥们看看这个配置怎么样？](https://www.v2ex.com/t/718836) 
 - [2020-10-25-摸鱼神器!-VS-Code-变身小霸王游戏机](https://sec.thief.one/article_content?a_id=d7e78114074e7935413ea87aa5140571) 

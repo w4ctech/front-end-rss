@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 10:17:34，:rocket: 更新条数: +3003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 10:33:01，:rocket: 更新条数: +3003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-10-27-使用-Python-开发一套类似聊天室的功能，具体应该怎么搞更好一些](https://www.v2ex.com/t/719142) ![](assets/new.png)  
+- [2020-10-27-layui-做的后台开发，客户要一个像微信消息数的数字提示，能实现吗？](https://www.v2ex.com/t/719141) ![](assets/new.png)  
+- [2020-10-27-给我-100-天，账本类产品能冷启成功么？](https://www.v2ex.com/t/719140) ![](assets/new.png)  
 - [2020-10-27-锁屏来电怎么显示小头像？？之前的方法失效了。。](https://www.v2ex.com/t/719139) ![](assets/new.png)  
 - [2020-10-27-有数学大佬吗？问个滴滴优惠券的问题？](https://www.v2ex.com/t/719137) ![](assets/new.png)  
 - [2020-10-27-报表分组-sql-书写求教](https://www.v2ex.com/t/719136) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-10-27-不懂就问，-Android-离线-App-限时激活方案？](https://www.v2ex.com/t/719121) ![](assets/new.png)  
 - [2020-10-27-20201027-开始自废武功](https://www.v2ex.com/t/719120) ![](assets/new.png)  
 - [2020-10-27-做一个把资源搜索全部放在一起的网站，让搜索资源不再麻烦.....](https://www.v2ex.com/t/719119) ![](assets/new.png)  
-- [2020-10-27-账号绑定手机收不到验证码](https://www.v2ex.com/t/719118) ![](assets/new.png)  
-- [2020-10-27-有抖音的开发者么？作者的短视频列表，你添加一个按点赞数排序很难吗？](https://www.v2ex.com/t/719116) ![](assets/new.png)  
-- [2020-10-27-mysql-在固态硬盘的-32-核的情况下单机查询和插入的极限性能能到多少？](https://www.v2ex.com/t/719115) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

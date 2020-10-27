@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 02:49:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 03:04:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -74,5 +74,4 @@
 - [2020-01-21-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-19-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
 - [2020-10-27-直播用的弹幕姬都是怎么实现的？](https://www.v2ex.com/t/718914) 
-- [2020-10-27-emmm..假如-iPhone-变厚让摄像头不凸出，变厚的部分多塞点电池，各位能接受么](https://www.v2ex.com/t/718887) 
 - [2020-10-25-【视频】|-Python:字符串内置函数之大小写](https://sec.thief.one/article_content?a_id=b4e6e1a311baa70dc8c78b851e752d0e) 

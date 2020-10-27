@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 02:49:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 03:04:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -6,5 +6,3 @@
 > 关键字：`Node`、`Node.js`、`Express`、`Koa`、`egg.js`、`pandora.js`、`Electron`、`V8`
 
 
-
-- [2020-10-26-Nodejs应用生产环境远程调试](https://juejin.im/post/6887937224059568141) 

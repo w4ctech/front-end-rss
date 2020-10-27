@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-27 06:35:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 06:42:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -129,6 +129,8 @@
 - [【阮一峰的网络日志】微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html)
 - [【阮一峰的网络日志】微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】微信小程序-graphql-subscription-client-的实现](https://www.v2ex.com/t/719038)
+- [【V2EX】闲来无事搞了个小程序，水果推荐，在考虑要不要开源](https://www.v2ex.com/t/719037)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -332,10 +334,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】网络安全知识竞答-有红包~](https://www.v2ex.com/t/718988)
 - [【技术头条】“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9)
 - [【开发者头条】史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu)
+- [【开发者头条】推荐-常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://toutiao.io/k/o904vp0)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -409,9 +411,9 @@
 - [【V2EX】深圳初创公司招聘，资深产品经理和高级前端开发工程师](https://www.v2ex.com/t/719032)
 - [【V2EX】陌陌-小而美，双休-11.7-日招聘专场（-Java-、ios、Android](https://www.v2ex.com/t/719031)
 - [【V2EX】上海招聘-坚果云——新增安卓、后端方向，对开源工具类-APP-感兴趣的同学进来看看！](https://www.v2ex.com/t/719004)
-- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
-- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
+- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
+- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
 - [【安全热点】27场机器学习面试后,来划个概念重点吧](https://sec.thief.one/article_content?a_id=15ce3aa7f5490ba550146714d2a91033)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -481,6 +483,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】10月26日全国新增境外输入新冠16例-累计确诊85826例](https://m.caixin.com/m/2020-10-27/101619113.html)
 - [【武汉肺炎防疫全纪录(财新网)】独家|喀什疫情暴发地为一制衣厂-该厂人均工作面积不到2平米](https://m.caixin.com/m/2020-10-27/101619174.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆喀什新增26例无症状感染者（10月26日）](http://m.database.caixin.com/m/2020-10-27/101619232.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html)
 - [【武汉肺炎防疫全纪录(财新网)】新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超4290万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-26/101619039.html)
@@ -498,7 +501,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国连续190日无新增死亡病例（10月21日）](http://m.database.caixin.com/m/2020-10-22/101617506.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月21日：美国年轻群体超额死亡率暴增-英国明春或无法大规模使用疫苗](https://m.caixin.com/m/2020-10-22/101617371.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增11例境外输入病例（10月20日）](http://m.database.caixin.com/m/2020-10-21/101617043.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月20日：俄罗斯日增确诊创新高-阿根廷病例过百万居第五](https://m.caixin.com/m/2020-10-21/101616932.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

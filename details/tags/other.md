@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-27 06:35:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 06:42:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7,6 +7,7 @@
 
 - [2020-10-26-10月26日全国新增境外输入新冠16例-累计确诊85826例](https://m.caixin.com/m/2020-10-27/101619113.html) 
 - [2020-10-26-独家|喀什疫情暴发地为一制衣厂-该厂人均工作面积不到2平米](https://m.caixin.com/m/2020-10-27/101619174.html) 
+- [2020-10-26-【境内疫情观察】新疆喀什新增26例无症状感染者（10月26日）](http://m.database.caixin.com/m/2020-10-27/101619232.html) 
 - [2020-10-26-大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html) 
 - [2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) 
 - [2020-10-25-最新海外疫情：新冠感染超4290万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-26/101619039.html) 
@@ -2480,16 +2481,16 @@
 - [2020-10-27-智能化趋势-v2.0](https://toutiao.io/k/8jywiu5) 
 - [2020-10-27-controller-runtime-之控制器实现](https://toutiao.io/k/yaj8it8) 
 - [2020-10-27-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) 
-- [2020-10-27-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) 
-- [2020-10-27-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
-- [2020-10-27-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
-- [2020-10-27-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) 
-- [2020-10-27-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) 
 - [2020-10-27-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) 
 - [2020-10-27-推荐-浅谈-MySQL-并发控制：隔离级别、锁与-MVCC](https://toutiao.io/k/y63nj77) 
 - [2020-10-27-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
+- [2020-10-27-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
+- [2020-10-27-推荐-工具-|-一个轻量级业务中台开发框架](https://toutiao.io/k/6qs3yvv) 
 - [2020-10-27-推荐-恕我直言，微服务挺好，但不适合你](https://toutiao.io/k/2ltmzw0) 
 - [2020-10-27-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) 
+- [2020-10-27-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) 
+- [2020-10-27-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
+- [2020-10-27-推荐-技术方案设计的方法](https://toutiao.io/k/jc76sul) 
 - [2020-10-26-每日攻防资讯简报Oct.26th](https://sec.thief.one/article_content?a_id=c1b38ca6e4fce4e84d84d708cce1e23e) 
 - [2020-10-26-用Python做数据分析,你还缺几个项目!](https://sec.thief.one/article_content?a_id=afc90712e24383a6315129cebe66c036) 
 - [2020-10-26-【中奖名单】《机器学习实战》书籍中奖名单公布啦!](https://sec.thief.one/article_content?a_id=b6fe974f05355941bef36ac1d1bee131) 

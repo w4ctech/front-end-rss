@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 06:35:07，:rocket: 更新条数: +3004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 06:42:55，:rocket: 更新条数: +3006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 - [2020-10-26-10月26日全国新增境外输入新冠16例-累计确诊85826例](https://m.caixin.com/m/2020-10-27/101619113.html) ![](assets/new.png)  
 - [2020-10-26-独家|喀什疫情暴发地为一制衣厂-该厂人均工作面积不到2平米](https://m.caixin.com/m/2020-10-27/101619174.html) ![](assets/new.png)  
+- [2020-10-26-【境内疫情观察】新疆喀什新增26例无症状感染者（10月26日）](http://m.database.caixin.com/m/2020-10-27/101619232.html) ![](assets/new.png)  
 - [2020-10-26-大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html) ![](assets/new.png)  
 - [2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) ![](assets/new.png)  
 - [2020-10-25-最新海外疫情：新冠感染超4290万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-26/101619039.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-10-21-【境内疫情观察】全国连续190日无新增死亡病例（10月21日）](http://m.database.caixin.com/m/2020-10-22/101617506.html) ![](assets/new.png)  
 - [2020-10-21-大流行手记|10月21日：美国年轻群体超额死亡率暴增-英国明春或无法大规模使用疫苗](https://m.caixin.com/m/2020-10-22/101617371.html) ![](assets/new.png)  
 - [2020-10-20-【境内疫情观察】全国新增11例境外输入病例（10月20日）](http://m.database.caixin.com/m/2020-10-21/101617043.html) ![](assets/new.png)  
-- [2020-10-20-大流行手记|10月20日：俄罗斯日增确诊创新高-阿根廷病例过百万居第五](https://m.caixin.com/m/2020-10-21/101616932.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-10-27-微信小程序-graphql-subscription-client-的实现](https://www.v2ex.com/t/719038) ![](assets/new.png)  
+- [2020-10-27-闲来无事搞了个小程序，水果推荐，在考虑要不要开源](https://www.v2ex.com/t/719037) ![](assets/new.png)  
 - [2020-10-27-玩-dota2-和街霸-5、只狼选哪个配置？](https://www.v2ex.com/t/719036) ![](assets/new.png)  
 - [2020-10-27-现在有网络传真吗](https://www.v2ex.com/t/719035) ![](assets/new.png)  
 - [2020-10-27-mybatis-分页拦截器使用方式里-pagehelper-和-mybatis-查询之间不能有其他逻辑处理，请问下这是不是不合理的，-21-个想问下这种是怎么实现的，比较好奇](https://www.v2ex.com/t/719034) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-10-27-OneDrive-共享文件的逻辑是怎样的？](https://www.v2ex.com/t/719018) ![](assets/new.png)  
 - [2020-10-27-求上一个-YouTube-Premium-印度-香港家庭车](https://www.v2ex.com/t/719017) ![](assets/new.png)  
 - [2020-10-27-独立开发者们快来填「独立开发者生存现状」调查问卷！](https://www.v2ex.com/t/719015) ![](assets/new.png)  
-- [2020-10-27-Java-怎么获取其他服务器的-CPU-使用率，内存使用率？](https://www.v2ex.com/t/719014) ![](assets/new.png)  
-- [2020-10-27-函数可变参数遇到固定语句无法判断参数关系的问题](https://www.v2ex.com/t/719013) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

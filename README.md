@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 10:33:01，:rocket: 更新条数: +3003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 10:42:42，:rocket: 更新条数: +2992， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -64,12 +64,11 @@
 </summary>
 
 
-- [2020-10-26-10月26日全国新增境外输入新冠16例-累计确诊85826例](https://m.caixin.com/m/2020-10-27/101619113.html) ![](assets/new.png)  
+- [2020-10-26-新疆喀什新增5例确诊病例-新增19例无症状感染者](http://m.china.caixin.com/m/2020-10-27/101619422.html) ![](assets/new.png)  
 - [2020-10-26-独家|喀什疫情暴发地为一制衣厂](https://m.caixin.com/m/2020-10-27/101619174.html) ![](assets/new.png)  
 - [2020-10-26-【境内疫情观察】新疆喀什新增26例无症状感染者（10月26日）](http://m.database.caixin.com/m/2020-10-27/101619232.html) ![](assets/new.png)  
 - [2020-10-26-大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html) ![](assets/new.png)  
 - [2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) ![](assets/new.png)  
-- [2020-10-25-最新海外疫情：新冠感染超4290万-累计死亡超114万](http://m.international.caixin.com/m/2020-10-26/101619039.html) ![](assets/new.png)  
 - [2020-10-25-【境内疫情观察】新疆喀什新增137例无症状感染者（10月25日）](http://m.database.caixin.com/m/2020-10-26/101618828.html) ![](assets/new.png)  
 - [2020-10-25-大流行手记|10月25日：全球日新增连续3日创新高-两项疫苗临床试验恢复](https://m.caixin.com/m/2020-10-26/101618721.html) ![](assets/new.png)  
 - [2020-10-25-【图集】新疆喀什启动一级响应-老城街道人流稀少](http://m.photos.caixin.com/m/2020-10-26/101618711.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-10-21-【境内疫情观察】全国连续190日无新增死亡病例（10月21日）](http://m.database.caixin.com/m/2020-10-22/101617506.html) ![](assets/new.png)  
 - [2020-10-21-大流行手记|10月21日：美国年轻群体超额死亡率暴增-英国明春或无法大规模使用疫苗](https://m.caixin.com/m/2020-10-22/101617371.html) ![](assets/new.png)  
 - [2020-10-20-【境内疫情观察】全国新增11例境外输入病例（10月20日）](http://m.database.caixin.com/m/2020-10-21/101617043.html) ![](assets/new.png)  
+- [2020-10-20-大流行手记|10月20日：俄罗斯日增确诊创新高-阿根廷病例过百万居第五](https://m.caixin.com/m/2020-10-21/101616932.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +523,7 @@
 </summary>
 
 
+- [2020-10-27-内推内推内推内推内推内推内推内推内推内推](https://www.v2ex.com/t/719144) ![](assets/new.png)  
 - [2020-10-27-使用-Python-开发一套类似聊天室的功能，具体应该怎么搞更好一些](https://www.v2ex.com/t/719142) ![](assets/new.png)  
 - [2020-10-27-layui-做的后台开发，客户要一个像微信消息数的数字提示，能实现吗？](https://www.v2ex.com/t/719141) ![](assets/new.png)  
 - [2020-10-27-给我-100-天，账本类产品能冷启成功么？](https://www.v2ex.com/t/719140) ![](assets/new.png)  
@@ -552,7 +543,6 @@
 - [2020-10-27-美区-Netflix-招-3-个车友，-50/季度](https://www.v2ex.com/t/719122) ![](assets/new.png)  
 - [2020-10-27-不懂就问，-Android-离线-App-限时激活方案？](https://www.v2ex.com/t/719121) ![](assets/new.png)  
 - [2020-10-27-20201027-开始自废武功](https://www.v2ex.com/t/719120) ![](assets/new.png)  
-- [2020-10-27-做一个把资源搜索全部放在一起的网站，让搜索资源不再麻烦.....](https://www.v2ex.com/t/719119) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

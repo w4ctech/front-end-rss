@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 12:47:17，:rocket: 更新条数: +3235， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 12:56:15，:rocket: 更新条数: +3004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -376,26 +376,6 @@
 </summary>
 
 
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +533,7 @@
 </summary>
 
 
+- [2020-10-27-2020MBP-待机异常耗电。](https://www.v2ex.com/t/719180) ![](assets/new.png)  
 - [2020-10-27-大佬们，-Android-上有啥推荐的-app-么，随便都可以，只要是你觉得值得推荐的](https://www.v2ex.com/t/719179) ![](assets/new.png)  
 - [2020-10-27-为什么毕业论文都要写致谢？](https://www.v2ex.com/t/719176) ![](assets/new.png)  
 - [2020-10-27-MySQL-B+树的-“孩子个数”-和-“key-的个数”-到底是不是相等的](https://www.v2ex.com/t/719174) ![](assets/new.png)  
@@ -572,7 +553,6 @@
 - [2020-10-27-你们有收到支付宝的余利宝让你升级一百万转出额度的推送吗](https://www.v2ex.com/t/719155) ![](assets/new.png)  
 - [2020-10-27-各位有没有这个问题](https://www.v2ex.com/t/719154) ![](assets/new.png)  
 - [2020-10-27-上海-社招内推-莉莉丝游戏-急招测试开发](https://www.v2ex.com/t/719153) ![](assets/new.png)  
-- [2020-10-27-Live-Captions](https://www.v2ex.com/t/719152) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -619,14 +599,14 @@
 - [2020-10-27-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
 - [2020-10-27-工具-|-阿里云开源的，业界首个面向-NLP-场景的深度迁移学习框架](https://toutiao.io/k/6ic2uca) ![](assets/new.png)  
 - [2020-10-27-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-10-27-中台架构下的-DDD-和落地实践](https://toutiao.io/k/pbogqyj) ![](assets/new.png)  
 - [2020-10-27-译-初识-NGINX-服务网格](https://toutiao.io/k/mc7hwwn) ![](assets/new.png)  
+- [2020-10-27-中台架构下的-DDD-和落地实践](https://toutiao.io/k/pbogqyj) ![](assets/new.png)  
 - [2020-10-27-MySQL-&-MariaDB-Online-DDL-参考指南](https://toutiao.io/k/2acx2zh) ![](assets/new.png)  
 - [2020-10-27-你的-ThreadLocal-线程安全么？](https://toutiao.io/k/5o5p4j9) ![](assets/new.png)  
 - [2020-10-27-Ray-之内部实现机制](https://toutiao.io/k/tpgpccp) ![](assets/new.png)  
 - [2020-10-27-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) ![](assets/new.png)  
 - [2020-10-27-Raft-作者亲自出的-Raft-试题，你能做对几道？](https://toutiao.io/k/e6w07y3) ![](assets/new.png)  
+- [2020-10-27-单点登录，不要老盯着-cas-server-了，你还可以选择-keycloak](https://toutiao.io/k/hbhmkn4) ![](assets/new.png)  
 - [2020-10-27-史上最详细浏览器端网页截图方案解析](https://toutiao.io/k/n1e9txu) ![](assets/new.png)  
 - [2020-10-27-印度最大在线食品杂货公司-Grofers-的数据湖建设之路](https://toutiao.io/k/z5vm6t9) ![](assets/new.png)  
 - [2020-10-27-译-3-分钟简述熔断器使用方法](https://toutiao.io/k/f1js9jk) ![](assets/new.png)  
@@ -646,6 +626,14 @@
 </summary>
 
 
+- [2020-10-27-【全网首发】腾讯商业数据分析师培养计划](https://sec.thief.one/article_content?a_id=065dd646c7d3a57ee5dd33937fa7c1dd) ![](assets/new.png)  
+- [2020-10-27-全国网络社会组织党建案例|中共重庆市互联网界联合会支部委员会:...](https://sec.thief.one/article_content?a_id=bfd24233a11a39ebbfdf0feb703ad6d9) ![](assets/new.png)  
+- [2020-10-27-恭喜whoamiii卫冕司令|双11安全保卫战军衔更新](https://sec.thief.one/article_content?a_id=3c457de3e655b776d9e376512cb29b62) ![](assets/new.png)  
+- [2020-10-27-微软威胁情报中心总经理-John-Lambert:信息安全的“GitHub化”](https://sec.thief.one/article_content?a_id=72aa5a0030314eda1ef4e117aeee6d6e) ![](assets/new.png)  
+- [2020-10-27-IDC报告:奇安信天擎EDR获国内市场份额和策略双第一](https://sec.thief.one/article_content?a_id=b84f2c2231dc256727a3735236d7d45a) ![](assets/new.png)  
+- [2020-10-27-【安全风险通告】XXL-JOB未授权远程命令执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=afd46a7ee5ed97b993e5c8d4b50caba7) ![](assets/new.png)  
+- [2020-10-27-今年ByteCTF冠军已被他们“内定”!](https://sec.thief.one/article_content?a_id=94e6fc62078c34aa883ac3f8ec48ca09) ![](assets/new.png)  
+- [2020-10-27-零信任?我信任!网安创新系列沙龙11.07上海](https://sec.thief.one/article_content?a_id=62412cdd66e12f6b8bafedd5df6ccfeb) ![](assets/new.png)  
 - [2020-10-27-【招聘】滴滴出行信息安全部诚聘安全大牛!](https://sec.thief.one/article_content?a_id=d288898fd13d98ef9f99a4587442dacb) ![](assets/new.png)  
 - [2020-10-27-研究人员在暗网交易美国选民数据,伊朗利用泄露伪造恐吓电子邮件](https://sec.thief.one/article_content?a_id=0e2df47e6f6803deddb909a4048dd754) ![](assets/new.png)  
 - [2020-10-27-WinRM利用](https://sec.thief.one/article_content?a_id=ece5d13d4db914594556e94cde2ff1bc) ![](assets/new.png)  
@@ -658,14 +646,6 @@
 - [2020-10-27-恭喜whoamiii卫冕司令|双11安全保卫战军衔更新](https://sec.thief.one/article_content?a_id=47a20b751da936e90b214d0932b1d2fc) ![](assets/new.png)  
 - [2020-10-27-信息安全漏洞周报2020年第41期](https://sec.thief.one/article_content?a_id=f76b83b2671a51966fad8eefd38cbcf5) ![](assets/new.png)  
 - [2020-10-27-涉及金融监管、数据标准与开放等:近期网络安全重磅资讯](https://sec.thief.one/article_content?a_id=410243757922be7a0f3dfaab3a6c6ecb) ![](assets/new.png)  
-- [2020-10-27-网信数据观|前三季度经济增长由负转正-网信领域相关行业增长较快](https://sec.thief.one/article_content?a_id=eb3262cc8785b4ad8c2a6a0f5618747c) ![](assets/new.png)  
-- [2020-10-27-多数专业的欧洲投资者已经购买或有计划购买数字资产](https://sec.thief.one/article_content?a_id=47cd882a26210f24dc992515e05ea06a) ![](assets/new.png)  
-- [2020-10-27-谨防垃圾邮件,小心感染Emotet银行木马](https://sec.thief.one/article_content?a_id=2c5d0deec1d5ab6981ba4f7428060130) ![](assets/new.png)  
-- [2020-10-27-每日攻防资讯简报Oct.27th](https://sec.thief.one/article_content?a_id=843335f581e5f8926566d5bb746b3a62) ![](assets/new.png)  
-- [2020-10-27-点链接就能盗号?揭秘CSRF漏洞](https://sec.thief.one/article_content?a_id=f97dea41718fcfc7b813989c3a7287e5) ![](assets/new.png)  
-- [2020-10-27-10月27日币圈早内参-IoTeX将上线销毁空投计划-BIS将与SNB共同发行...](https://sec.thief.one/article_content?a_id=da93d6c034f3616d1a2e5ee035ced9e4) ![](assets/new.png)  
-- [2020-10-27-30-个Python代码实现的常用功能,精心整理版](https://sec.thief.one/article_content?a_id=7e4bac80fc1e81d77abc8ba3615b9746) ![](assets/new.png)  
-- [2020-10-27-每日安全动态推送10-27](https://sec.thief.one/article_content?a_id=25139f98f40d35ecb2c54ff11ca58643) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

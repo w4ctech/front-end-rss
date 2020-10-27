@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-10-27 16:27:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-27 16:45:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-10-27-Iphone12](https://www.v2ex.com/t/719238) 
 - [2020-10-27-没有在/etc/passwd-里的用户如何修改默认-shell？](https://www.v2ex.com/t/719237) 
 - [2020-10-27-老铁,-广州蚊子好多呀,-一般蚊香不顶用呀,-有啥办法没有.](https://www.v2ex.com/t/719236) 
 - [2020-10-27-感悟-面试不要暴露自己的缺点,-有问题带过就行了.](https://www.v2ex.com/t/719235) 
@@ -48,4 +49,3 @@
 - [2020-10-27-关于《Algorithms-4》](https://www.v2ex.com/t/719191) 
 - [2020-10-27-一种在微信公众号图文中插入外链的方案-新](https://www.v2ex.com/t/719190) 
 - [2020-10-27-小白自学-Python-（五）----Python-运算符](https://www.v2ex.com/t/719189) 
-- [2020-10-27-请问-Kernel-中对-USB-OTG-工作在-Host-模式时同时可以被充电的逻辑-ACA](https://www.v2ex.com/t/719188) 

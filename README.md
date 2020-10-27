@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-27 09:04:36，:rocket: 更新条数: +3000， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-27 09:16:11，:rocket: 更新条数: +2999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-10-27-账号绑定手机收不到验证码](https://www.v2ex.com/t/719118) ![](assets/new.png)  
+- [2020-10-27-有抖音的开发者么？作者的短视频列表，你添加一个按点赞数排序很难吗？](https://www.v2ex.com/t/719116) ![](assets/new.png)  
+- [2020-10-27-mysql-在固态硬盘的-32-核的情况下单机查询和插入的极限性能能到多少？](https://www.v2ex.com/t/719115) ![](assets/new.png)  
 - [2020-10-27-iOS-14-悄悄解决了邮件签名变附件的问题？](https://www.v2ex.com/t/719113) ![](assets/new.png)  
 - [2020-10-27-宽带无用论还有多久会出现](https://www.v2ex.com/t/719112) ![](assets/new.png)  
 - [2020-10-27-坐标广州，听前同事找工作有感....你们遇到了吗](https://www.v2ex.com/t/719111) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-10-27-LeetCode-多看题解有助于理解算法吗，真诚希望过来人能提供一下建议](https://www.v2ex.com/t/719092) ![](assets/new.png)  
 - [2020-10-27-失业了，想转远程开发，有人找到过这种职业么？请教一下](https://www.v2ex.com/t/719091) ![](assets/new.png)  
 - [2020-10-27-30-岁作为程序员的你，有多少存款](https://www.v2ex.com/t/719090) ![](assets/new.png)  
-- [2020-10-27-哪个大佬有国密-SM2-pdf-签名的阅读器](https://www.v2ex.com/t/719089) ![](assets/new.png)  
-- [2020-10-27-不懂就问_](https://www.v2ex.com/t/719087) ![](assets/new.png)  
-- [2020-10-27-蛋壳返现已经延期半个月没打了，是不是真要跑路了](https://www.v2ex.com/t/719086) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

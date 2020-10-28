@@ -1533,10 +1533,171 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/toutiao/today",
+    "rss": "https://rss.itggg.cn/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "资料 | 德勤 2020 技术趋势报告.pdf",
+        "link": "https://toutiao.io/k/rpq9ju7",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "内存泄露的原因找到了，罪魁祸首居然是 Java TheadLocal",
+        "link": "https://toutiao.io/k/bu7zyjd",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "iOS 推送手机消息背后的技术",
+        "link": "https://toutiao.io/k/qugr2s1",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "10 张图打开 CPU 缓存一致性的大门",
+        "link": "https://toutiao.io/k/r5b29zu",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "我的 Docker 卡死了，怎么办？在线等",
+        "link": "https://toutiao.io/k/typ8w2e",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "TypeScript 和 Nodemon 终极设置",
+        "link": "https://toutiao.io/k/xcwrwok",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "神经网络知识专题总结",
+        "link": "https://toutiao.io/k/4wice1s",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "gRPC 服务注册发现及负载均衡的实现方案与源码解析",
+        "link": "https://toutiao.io/k/vvwadlx",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "一个方案提升 Flutter 内存利用率",
+        "link": "https://toutiao.io/k/xaem7up",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[译] 文件系统格式算是 ABI 吗？",
+        "link": "https://toutiao.io/k/t72vgv9",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "Kotlin Vocabulary：操作符重载",
+        "link": "https://toutiao.io/k/c377290",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "Flink StateFun 2.0 浅谈",
+        "link": "https://toutiao.io/k/fxy33c6",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "Raft 作者出的 Paxos 试题，看看你能得多少分？",
+        "link": "https://toutiao.io/k/qlnfa4j",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[译] 哪种编程语言又快又省电？有人对比了 27 种语言",
+        "link": "https://toutiao.io/k/tj89zlr",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "如何重构数据模型",
+        "link": "https://toutiao.io/k/bmnj6ty",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "神策数据桑文锋：认知为王，To B 要考虑客户 KPI",
+        "link": "https://toutiao.io/k/sz1dxjw",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "ECCV 2020 论文大盘点：遥感与航空影像处理识别篇",
+        "link": "https://toutiao.io/k/lrzdc0x",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
+        "date": "2020-10-28"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

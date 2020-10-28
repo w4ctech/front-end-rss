@@ -6,36 +6,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/coronavirus/dxy",
+    "rss": "https://rss.shab.fun/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "东京奥组委将成立传染病控制中心",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHWr9wJNjpNKc55REzq12201028&isfromapp=1",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "截至10月27日24时新型冠状病毒肺炎疫情最新情况",
-        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/417734.jhtml",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "葡萄牙议会两名议员确诊感染新冠肺炎",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijMfjir9zdpYlZmehbjGl201028&isfromapp=1",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "时隔14天 C罗新冠病毒检测再次呈阳性",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitnbNErXYbix7RX0nt24e201028&isfromapp=1",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "美专家表示南非抗疫做的比美国强",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBP08mOfCkVVV8mHmNZEN201028&isfromapp=1",
-        "date": "2020-10-27"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -233,7 +207,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -442,7 +467,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -472,176 +497,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/toutiao/today",
+    "rss": "https://rss.shab.fun/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": [
-      {
-        "title": "必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "资料 | 德勤 2020 技术趋势报告.pdf",
-        "link": "https://toutiao.io/k/rpq9ju7",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "iOS 推送手机消息背后的技术",
-        "link": "https://toutiao.io/k/qugr2s1",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "内存泄露的原因找到了，罪魁祸首居然是 Java TheadLocal",
-        "link": "https://toutiao.io/k/bu7zyjd",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "TypeScript 和 Nodemon 终极设置",
-        "link": "https://toutiao.io/k/xcwrwok",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "神经网络知识专题总结",
-        "link": "https://toutiao.io/k/4wice1s",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "10 张图打开 CPU 缓存一致性的大门",
-        "link": "https://toutiao.io/k/r5b29zu",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "我的 Docker 卡死了，怎么办？在线等",
-        "link": "https://toutiao.io/k/typ8w2e",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "gRPC 服务注册发现及负载均衡的实现方案与源码解析",
-        "link": "https://toutiao.io/k/vvwadlx",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "Kotlin Vocabulary：操作符重载",
-        "link": "https://toutiao.io/k/c377290",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[译] 文件系统格式算是 ABI 吗？",
-        "link": "https://toutiao.io/k/t72vgv9",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "一个方案提升 Flutter 内存利用率",
-        "link": "https://toutiao.io/k/xaem7up",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "Flink StateFun 2.0 浅谈",
-        "link": "https://toutiao.io/k/fxy33c6",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "Raft 作者出的 Paxos 试题，看看你能得多少分？",
-        "link": "https://toutiao.io/k/qlnfa4j",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[译] 哪种编程语言又快又省电？有人对比了 27 种语言",
-        "link": "https://toutiao.io/k/tj89zlr",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "如何重构数据模型",
-        "link": "https://toutiao.io/k/bmnj6ty",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "神策数据桑文锋：认知为王，To B 要考虑客户 KPI",
-        "link": "https://toutiao.io/k/sz1dxjw",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "ECCV 2020 论文大盘点：遥感与航空影像处理识别篇",
-        "link": "https://toutiao.io/k/lrzdc0x",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
-        "link": "https://toutiao.io/k/lxcx8vb",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
-        "link": "https://toutiao.io/k/kqvczix",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 浅谈 MySQL 并发控制：隔离级别、锁与 MVCC",
-        "link": "https://toutiao.io/k/y63nj77",
-        "date": "2020-10-28"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

@@ -330,36 +330,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "hox 状态调试神器",
-        "link": "https://juejin.im/post/6888571082400661512",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "[Flutter翻译]Flutter - 用于快速和高效开发的Visual Studio代码扩展。",
-        "link": "https://juejin.im/post/6888549791630884871",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "如何通过 Serverless 技术降低微服务应用资源成本？",
-        "link": "https://juejin.im/post/6888548816463757326",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "【前端工程化】篇四 席卷八荒-Webpack（进阶）",
-        "link": "https://juejin.im/post/6888528583623933966",
-        "date": "2020-10-27"
-      },
-      {
-        "title": "canvas进阶——如何实现canvas的事件系统",
-        "link": "https://juejin.im/post/6888209975965909000",
-        "date": "2020-10-27"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -519,7 +493,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -541,6 +515,46 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "小区要用人脸识别门禁了，要上传身份证，物业说已经备 an 了这种安全吗",
+        "link": "https://www.v2ex.com/t/719497",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "麻烦 @Chingim 老哥看到联系一下。",
+        "link": "https://www.v2ex.com/t/719496",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "上次看到有绿色的 iPhone 12 开箱图，我来几张白色的",
+        "link": "https://www.v2ex.com/t/719494",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "iPhone 12 可以装 iOS 14.2beta 吗？",
+        "link": "https://www.v2ex.com/t/719493",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "迁移新机卡在“正在设置 AppleID“",
+        "link": "https://www.v2ex.com/t/719492",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "向日葵远程控制最新版本变化",
+        "link": "https://www.v2ex.com/t/719491",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "求推荐调味酱",
+        "link": "https://www.v2ex.com/t/719490",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "不懂就问，小米 AX3600 路由器 如何才能使用 SSR？",
+        "link": "https://www.v2ex.com/t/719489",
+        "date": "2020-10-28"
+      },
       {
         "title": "两台同型号的显示器颜色不一样？",
         "link": "https://www.v2ex.com/t/719488",
@@ -679,56 +693,6 @@
       {
         "title": "福建一公司注册“每小时”商标并欲起诉宝塔面板侵权",
         "link": "https://www.v2ex.com/t/719450",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "在脉脉上看到一张 1999 年华为招聘广告的截图，不知真假",
-        "link": "https://www.v2ex.com/t/719449",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "请教一下使用过 Nest.js 的大佬",
-        "link": "https://www.v2ex.com/t/719448",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "入门级的雪茄, 得要多少钱一根呀?",
-        "link": "https://www.v2ex.com/t/719447",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "有没有办法屏蔽启动广告页",
-        "link": "https://www.v2ex.com/t/719446",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "又一个临时邮箱 ,附代码",
-        "link": "https://www.v2ex.com/t/719445",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "简历怎么写比较好，是全还是精？",
-        "link": "https://www.v2ex.com/t/719444",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "iPhone 的 wifi 信号好坏 和 使用的是 intel 还是 qualcomm 的基带有关系吗",
-        "link": "https://www.v2ex.com/t/719443",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "在小公司 Java 两年了，现在焦虑的一笔",
-        "link": "https://www.v2ex.com/t/719442",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[北京] 猿辅导 - Tech Leader - 大监控方向",
-        "link": "https://www.v2ex.com/t/719440",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "小米 10 和一加 8T 我该如何选择",
-        "link": "https://www.v2ex.com/t/719439",
         "date": "2020-10-28"
       }
     ]
@@ -946,8 +910,8 @@
         "date": "2020-10-28"
       },
       {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-28"
       },
       {
@@ -961,33 +925,13 @@
         "date": "2020-10-28"
       },
       {
-        "title": "[推荐] 时间轮在 Kafka 的实践",
-        "link": "https://toutiao.io/k/441cqn5",
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
         "date": "2020-10-28"
       },
       {
-        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
-        "link": "https://toutiao.io/k/lxcx8vb",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
         "date": "2020-10-28"
       },
       {
@@ -996,18 +940,38 @@
         "date": "2020-10-28"
       },
       {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-28"
+      },
+      {
         "title": "[推荐] 怎么排查 CPU 飙升",
         "link": "https://toutiao.io/k/rq3wyhs",
         "date": "2020-10-28"
       },
       {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
+        "title": "[推荐] 时间轮在 Kafka 的实践",
+        "link": "https://toutiao.io/k/441cqn5",
         "date": "2020-10-28"
       }
     ]

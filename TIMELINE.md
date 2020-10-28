@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-28 19:36:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-28 19:41:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -36,7 +36,7 @@
 <td><a href="#2019-08">08月</a></td>
 <td><a href="#2019-09">09月</a></td>
 <td><a href="#2019-10">10月</a></td>
-<td>11月</td>
+<td><a href="#2019-11">11月</a></td>
 <td><a href="#2019-12">12月</a></td>
 </tr>
 
@@ -146,6 +146,76 @@
 - [【凹凸实验室】2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) 
 - [【凹凸实验室】2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) 
 - [【凹凸实验室】2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) 
+- [【V2EX】2020-10-28-关于-frenet（TNB）框架下法向量与次法向量的一些困惑。期待-Python-主题下的数学大神给一些指点](https://www.v2ex.com/t/719631) 
+- [【V2EX】2020-10-28-pigz---Parallel-Implementation-of-GZip](https://www.v2ex.com/t/719630) 
+- [【V2EX】2020-10-28-装台写代码玩游戏用的台式机，不太懂显卡，老铁们给点意见](https://www.v2ex.com/t/719629) 
+- [【V2EX】2020-10-28-macOS-11.0.1-beta](https://www.v2ex.com/t/719628) 
+- [【V2EX】2020-10-28-一起滴滴内部各种职位交流-&-内推](https://www.v2ex.com/t/719627) 
+- [【V2EX】2020-10-28-写更新缓存数据代码时，先删除缓存，然后再更新数据库感觉可行](https://www.v2ex.com/t/719626) 
+- [【V2EX】2020-10-28-域名在国内间歇性无法访问，是否被墙，如何处理？](https://www.v2ex.com/t/719625) 
+- [【V2EX】2020-10-28-自己做网站做不赢什么值得买，买点值得买股票算对冲吗？](https://www.v2ex.com/t/719624) 
+- [【V2EX】2020-10-28-类-Roam-软件，-SWrite-互链文档出了拖拽式的双向链，大家怎么看？](https://www.v2ex.com/t/719623) 
+- [【V2EX】2020-10-28-昨天人事和新主管以组织架构调整为理由要求我转组，今天我同意了，人事先是说觉得我不情愿转组建议我主动离职，下班时又发工作邮件以“能力不足”的理由称公司与...](https://www.v2ex.com/t/719622) 
+- [【V2EX】2020-10-28-为了赶项目连续加班一个月正常吗？](https://www.v2ex.com/t/719621) 
+- [【V2EX】2020-10-28-阿里云-GTS杭州/北京/成都/西安/深圳招聘云原生技术架构师](https://www.v2ex.com/t/719620) 
+- [【V2EX】2020-10-28-为什么我的-socks5-代理不能绕过单位内网对股票软件的封锁？](https://www.v2ex.com/t/719619) 
+- [【V2EX】2020-10-28-各位最好的朋友是什么时候认识的](https://www.v2ex.com/t/719618) 
+- [【V2EX】2020-10-28-k30-至尊纪念版还是-k30s-至尊纪念版？](https://www.v2ex.com/t/719617) 
+- [【V2EX】2020-10-28-MIUI12-上谷歌套件使用异常](https://www.v2ex.com/t/719616) 
+- [【V2EX】2020-10-28-有没有加班到十二点的小伙伴，举个手](https://www.v2ex.com/t/719614) 
+- [【V2EX】2020-10-28-深圳-小团队办公室选址求推荐：软件园-or-车公庙？](https://www.v2ex.com/t/719611) 
+- [【V2EX】2020-10-28-网易云音乐-PC-版进度条怎么变得那么短？](https://www.v2ex.com/t/719609) 
+- [【V2EX】2020-10-28-校招公考交流群来啦](https://www.v2ex.com/t/719605) 
+- [【V2EX】2020-10-28-MongoDB-对某列去重后，查询该列对应的另外一值是否都为-xx](https://www.v2ex.com/t/719603) 
+- [【V2EX】2020-10-28-在线求助](https://www.v2ex.com/t/719601) 
+- [【V2EX】2020-10-28-lol-手游日服能注册上吗？？](https://www.v2ex.com/t/719600) 
+- [【V2EX】2020-10-28-新作了一个-Python-脚本，可以绘制任意复变函数的图像](https://www.v2ex.com/t/719599) 
+- [【V2EX】2020-10-28-网上的内蒙古-100G-流量的移动卡有什么风险吗](https://www.v2ex.com/t/719598) 
+- [【V2EX】2020-10-28-有没有基于-Linux-环境讲-tcp/ip-路由技术的书？](https://www.v2ex.com/t/719597) 
+- [【V2EX】2020-10-28-所谓的微服务架构，是不是类似面向对象中的-GOTO-函数？](https://www.v2ex.com/t/719596) 
+- [【V2EX】2020-10-28-求助-V-友们给点职业规划的意见](https://www.v2ex.com/t/719595) 
+- [【V2EX】2020-10-28-书接上文，关于算法](https://www.v2ex.com/t/719593) 
+- [【V2EX】2020-10-28-不得不说，王者的背景音乐真好听！](https://www.v2ex.com/t/719592) 
+- [【V2EX】2020-10-28-iPad-Air-4-蜂窝版还要大概多久能审批下来？](https://www.v2ex.com/t/719591) 
+- [【V2EX】2020-10-28-一文搞懂-Go-Mod](https://www.v2ex.com/t/719590) 
+- [【V2EX】2020-10-28-各位有好用的-mactype-配置吗？](https://www.v2ex.com/t/719589) 
+- [【V2EX】2020-10-28-要成为一名立派的程序员除了编程语言还要学啥？](https://www.v2ex.com/t/719587) 
+- [【V2EX】2020-10-28-阿里巴巴-icbu-国际前端招人了啊～～-p6,p7-都要,hc-超多啊](https://www.v2ex.com/t/719585) 
+- [【V2EX】2020-10-28-iPhone-12-偏暖问题](https://www.v2ex.com/t/719584) 
+- [【V2EX】2020-10-28-一加-8T-无法通话录音](https://www.v2ex.com/t/719583) 
+- [【V2EX】2020-10-28-XIA-想集-#01-不忘初心](https://www.v2ex.com/t/719582) 
+- [【开发者头条】2020-10-28-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) 
+- [【开发者头条】2020-10-28-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) 
+- [【开发者头条】2020-10-28-资料-|-德勤-2020-技术趋势报告.pdf](https://toutiao.io/k/rpq9ju7) 
+- [【开发者头条】2020-10-28-内存泄露的原因找到了，罪魁祸首居然是-Java-TheadLocal](https://toutiao.io/k/bu7zyjd) 
+- [【开发者头条】2020-10-28-iOS-推送手机消息背后的技术](https://toutiao.io/k/qugr2s1) 
+- [【开发者头条】2020-10-28-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) 
+- [【开发者头条】2020-10-28-10-张图打开-CPU-缓存一致性的大门](https://toutiao.io/k/r5b29zu) 
+- [【开发者头条】2020-10-28-我的-Docker-卡死了，怎么办？在线等](https://toutiao.io/k/typ8w2e) 
+- [【开发者头条】2020-10-28-神经网络知识专题总结](https://toutiao.io/k/4wice1s) 
+- [【开发者头条】2020-10-28-TypeScript-和-Nodemon-终极设置](https://toutiao.io/k/xcwrwok) 
+- [【开发者头条】2020-10-28-gRPC-服务注册发现及负载均衡的实现方案与源码解析](https://toutiao.io/k/vvwadlx) 
+- [【开发者头条】2020-10-28-一个方案提升-Flutter-内存利用率](https://toutiao.io/k/xaem7up) 
+- [【开发者头条】2020-10-28-译-文件系统格式算是-ABI-吗？](https://toutiao.io/k/t72vgv9) 
+- [【开发者头条】2020-10-28-Kotlin-Vocabulary：操作符重载](https://toutiao.io/k/c377290) 
+- [【开发者头条】2020-10-28-Flink-StateFun-2.0-浅谈](https://toutiao.io/k/fxy33c6) 
+- [【开发者头条】2020-10-28-Raft-作者出的-Paxos-试题，看看你能得多少分？](https://toutiao.io/k/qlnfa4j) 
+- [【开发者头条】2020-10-28-译-哪种编程语言又快又省电？有人对比了-27-种语言](https://toutiao.io/k/tj89zlr) 
+- [【开发者头条】2020-10-28-如何重构数据模型](https://toutiao.io/k/bmnj6ty) 
+- [【开发者头条】2020-10-28-神策数据桑文锋：认知为王，To-B-要考虑客户-KPI](https://toutiao.io/k/sz1dxjw) 
+- [【开发者头条】2020-10-28-ECCV-2020-论文大盘点：遥感与航空影像处理识别篇](https://toutiao.io/k/lrzdc0x) 
+- [【开发者头条】2020-10-28-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
+- [【开发者头条】2020-10-28-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) 
+- [【开发者头条】2020-10-28-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
+- [【开发者头条】2020-10-28-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
+- [【开发者头条】2020-10-28-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
+- [【开发者头条】2020-10-28-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
+- [【开发者头条】2020-10-28-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
+- [【开发者头条】2020-10-28-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) 
+- [【开发者头条】2020-10-28-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
+- [【开发者头条】2020-10-28-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) 
+- [【开发者头条】2020-10-28-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
+- [【开发者头条】2020-10-28-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) 
 - [【安全热点】2020-10-28-智慧司法建设新标杆!360安全大脑4181万落地长沙司法信息化建设](https://sec.thief.one/article_content?a_id=c30b4f75627c67b17103c6f002a54c27) 
 - [【安全热点】2020-10-28-我差点去字节跳动做算法了!](https://sec.thief.one/article_content?a_id=882ea262dcf087cc7cff1093caa2e5b6) 
 - [【安全热点】2020-10-28-中国移动通信集团:创新网络安全合规闭环管理](https://sec.thief.one/article_content?a_id=dbe7f862015a7084d3691286055da877) 
@@ -377,6 +447,10 @@
 
 - [【凹凸实验室】2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) 
 - [【凹凸实验室】2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) 
+- [【前端艺术家&&飞冰早报】2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 
+- [【前端艺术家&&飞冰早报】2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
+- [【前端艺术家&&飞冰早报】2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
+- [【前端艺术家&&飞冰早报】2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -390,6 +464,42 @@
 - [【凹凸实验室】2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/) 
 - [【凹凸实验室】2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/) 
 - [【凹凸实验室】2019-12-03-京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/) 
+- [【前端艺术家&&飞冰早报】2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) 
+- [【前端艺术家&&飞冰早报】2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [【前端艺术家&&飞冰早报】2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) 
+- [【前端艺术家&&飞冰早报】2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
+- [【前端艺术家&&飞冰早报】2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
+- [【前端艺术家&&飞冰早报】2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) 
+- [【前端艺术家&&飞冰早报】2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [【前端艺术家&&飞冰早报】2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
+- [【前端艺术家&&飞冰早报】2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) 
+- [【前端艺术家&&飞冰早报】2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) 
+- [【前端艺术家&&飞冰早报】2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) 
+- [【前端艺术家&&飞冰早报】2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) 
+- [【前端艺术家&&飞冰早报】2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
+- [【前端艺术家&&飞冰早报】2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) 
+- [【前端艺术家&&飞冰早报】2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) 
+- [【前端艺术家&&飞冰早报】2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [【前端艺术家&&飞冰早报】2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
+- [【前端艺术家&&飞冰早报】2019-12-04-EHTML:-HTML-Framework-that-allows-you-write-no-JavaScript-code-at-all.](https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173) 
+- [【前端艺术家&&飞冰早报】2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
+- [【前端艺术家&&飞冰早报】2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
+- [【前端艺术家&&飞冰早报】2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [【前端艺术家&&飞冰早报】2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
+- [【前端艺术家&&飞冰早报】2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-11">
+ 2019-11
+</summary>
+
+
+- [【前端艺术家&&飞冰早报】2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
+- [【前端艺术家&&飞冰早报】2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [【前端艺术家&&飞冰早报】2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

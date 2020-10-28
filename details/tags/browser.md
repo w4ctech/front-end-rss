@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-28 10:52:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-28 11:04:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,7 +8,10 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-28-6家银行共罚4000万:从央行重拳出击金融信息安全看内控安全重要性](https://sec.thief.one/article_content?a_id=47400d57a74dca0afc673056b2c0abfd) 
+- [2020-10-28-从魔性的“O泡果奶”看网络安全意识](https://sec.thief.one/article_content?a_id=90c76455fda8bf7a41bb84c2aba166bb) 
+- [2020-10-28-2元就能买上千张人脸照片!“刷脸”真的安全吗?](https://sec.thief.one/article_content?a_id=7d993a2870f610e4dc2de4619b31df9f) 
+- [2020-10-28-央视:2元就能买上千张人脸照片!“刷脸”真的安全吗?](https://sec.thief.one/article_content?a_id=439f4c28e75fb5bdb978b1980e28a447) 
 - [2020-10-27-恭喜whoamiii卫冕司令|双11安全保卫战军衔更新](https://sec.thief.one/article_content?a_id=3c457de3e655b776d9e376512cb29b62) 
 - [2020-10-27-微软威胁情报中心总经理-John-Lambert:信息安全的“GitHub化”](https://sec.thief.one/article_content?a_id=72aa5a0030314eda1ef4e117aeee6d6e) 
 - [2020-10-27-【安全风险通告】XXL-JOB未授权远程命令执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=afd46a7ee5ed97b993e5c8d4b50caba7) 
@@ -29,10 +32,3 @@
 - [2020-10-26-5G网络安全问题分析与展望](https://sec.thief.one/article_content?a_id=6403cd1d42a982ea826fea1311f16a2a) 
 - [2020-10-26-每日安全动态推送10-26](https://sec.thief.one/article_content?a_id=a22f8063d39e8d10bf151ed2cd8b6e07) 
 - [2020-10-26-这可能是最适合萌新入门Web安全的路线规划](https://sec.thief.one/article_content?a_id=15f2dd337cd28092aa476b280b959354) 
-- [2020-10-26-移动安全人才寻人启事](https://sec.thief.one/article_content?a_id=56434805a3437c83bfa346e3dcb0d728) 
-- [2020-10-25-【安全圈】新消息!微软已关闭了Trickbot僵尸网络94%的关键基础设施](https://sec.thief.one/article_content?a_id=6715134229aa1d3ee567be5461885b90) 
-- [2020-10-25-2020全球程序员节:奇安信副总裁吴俣谈“内生安全框架”保障信创环...](https://sec.thief.one/article_content?a_id=76f9df97591c92b8ce67ed622f7b3534) 
-- [2020-10-25-聚焦新基建,腾讯安全携手GeekPwn把脉产业安全前沿动态](https://sec.thief.one/article_content?a_id=5d85eac1921cfdbeb64588cf73be648a) 
-- [2020-10-25-工控实验箱之工控安全演示及防护建议](https://sec.thief.one/article_content?a_id=6eb6817cc1efe49ca74399586f719f15) 
-- [2020-10-25-​在招|悬镜安全工程师与产销经理等7大岗位高薪诚聘贤才](https://sec.thief.one/article_content?a_id=4b81bdc1d613c0661760cc18bb57e9eb) 
-- [2020-10-25-第二届云安全挑战赛落幕,九大云安全趋势重磅发布](https://sec.thief.one/article_content?a_id=b551f2d306ce31c1ebe453d0a012f7b5) 

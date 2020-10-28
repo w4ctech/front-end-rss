@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-28 10:52:07，:rocket: 更新条数: +153， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-28 11:04:23，:rocket: 更新条数: +128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -47,7 +47,7 @@
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
-- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
+- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-10-28-新疆喀什地区疏附县相关场所全面实行封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijtXGcqXOgkHCtEPO4o9H201028&isfromapp=1) ![](assets/new.png)  
+- [2020-10-28-波黑新增新冠肺炎确诊病例1555例-创单日新增最高纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioNvSBWwtGECAVDul0v9G201028&isfromapp=1) ![](assets/new.png)  
+- [2020-10-28-由于5名外交官感染-联合国现场会议被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTbqbVftt4qSYLW4Czmip201028&isfromapp=1) ![](assets/new.png)  
+- [2020-10-28-东京奥组委将成立传染病控制中心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHWr9wJNjpNKc55REzq12201028&isfromapp=1) ![](assets/new.png)  
+- [2020-10-28-截至10月27日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/417734.jhtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -439,26 +444,6 @@
 </summary>
 
 
-- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) ![](assets/new.png)  
-- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) ![](assets/new.png)  
-- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) ![](assets/new.png)  
-- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
-- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) ![](assets/new.png)  
-- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) ![](assets/new.png)  
-- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) ![](assets/new.png)  
-- [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) ![](assets/new.png)  
-- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) ![](assets/new.png)  
-- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) ![](assets/new.png)  
-- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) ![](assets/new.png)  
-- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) ![](assets/new.png)  
-- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) ![](assets/new.png)  
-- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) ![](assets/new.png)  
-- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) ![](assets/new.png)  
-- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) ![](assets/new.png)  
-- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) ![](assets/new.png)  
-- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) ![](assets/new.png)  
-- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) ![](assets/new.png)  
-- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端艺术家&&飞冰早报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,26 +521,26 @@
 </summary>
 
 
-- [2020-10-27-【全网首发】腾讯商业数据分析师培养计划](https://sec.thief.one/article_content?a_id=065dd646c7d3a57ee5dd33937fa7c1dd) ![](assets/new.png)  
-- [2020-10-27-全国网络社会组织党建案例|中共重庆市互联网界联合会支部委员会:...](https://sec.thief.one/article_content?a_id=bfd24233a11a39ebbfdf0feb703ad6d9) ![](assets/new.png)  
-- [2020-10-27-恭喜whoamiii卫冕司令|双11安全保卫战军衔更新](https://sec.thief.one/article_content?a_id=3c457de3e655b776d9e376512cb29b62) ![](assets/new.png)  
-- [2020-10-27-微软威胁情报中心总经理-John-Lambert:信息安全的“GitHub化”](https://sec.thief.one/article_content?a_id=72aa5a0030314eda1ef4e117aeee6d6e) ![](assets/new.png)  
-- [2020-10-27-IDC报告:奇安信天擎EDR获国内市场份额和策略双第一](https://sec.thief.one/article_content?a_id=b84f2c2231dc256727a3735236d7d45a) ![](assets/new.png)  
-- [2020-10-27-【安全风险通告】XXL-JOB未授权远程命令执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=afd46a7ee5ed97b993e5c8d4b50caba7) ![](assets/new.png)  
-- [2020-10-27-今年ByteCTF冠军已被他们“内定”!](https://sec.thief.one/article_content?a_id=94e6fc62078c34aa883ac3f8ec48ca09) ![](assets/new.png)  
-- [2020-10-27-零信任?我信任!网安创新系列沙龙11.07上海](https://sec.thief.one/article_content?a_id=62412cdd66e12f6b8bafedd5df6ccfeb) ![](assets/new.png)  
-- [2020-10-27-【招聘】滴滴出行信息安全部诚聘安全大牛!](https://sec.thief.one/article_content?a_id=d288898fd13d98ef9f99a4587442dacb) ![](assets/new.png)  
-- [2020-10-27-研究人员在暗网交易美国选民数据,伊朗利用泄露伪造恐吓电子邮件](https://sec.thief.one/article_content?a_id=0e2df47e6f6803deddb909a4048dd754) ![](assets/new.png)  
-- [2020-10-27-WinRM利用](https://sec.thief.one/article_content?a_id=ece5d13d4db914594556e94cde2ff1bc) ![](assets/new.png)  
-- [2020-10-27-美国制裁阴影下,GitLab屏蔽了伊朗人的访问](https://sec.thief.one/article_content?a_id=34950a880c0d33d37f247eabb1fc97db) ![](assets/new.png)  
-- [2020-10-27-企业“出海”DDoS攻击防不胜防?老司机教你几招快速应对](https://sec.thief.one/article_content?a_id=0f65a5af3c274cbfba9777403b98742d) ![](assets/new.png)  
-- [2020-10-27-教育网络安全实践丨如何让科研院所网络更安全?](https://sec.thief.one/article_content?a_id=d6984eb9afeeb18bf0f926dc2720c785) ![](assets/new.png)  
-- [2020-10-27-2020-看雪SDC议题回顾-|-LightSpy:Mobile间谍软件的狩猎和剖析](https://sec.thief.one/article_content?a_id=ada8da6da814263e560798d5467e7653) ![](assets/new.png)  
-- [2020-10-27-【安全圈】芬兰心理治疗公司数百人健康数据遭泄露](https://sec.thief.one/article_content?a_id=12ddd61e8e6bc2953609e1db17fbb432) ![](assets/new.png)  
-- [2020-10-27-CTF丨.htaccess文件的利用,没有比它更全面的文章了!](https://sec.thief.one/article_content?a_id=97fac72c0d48daf2bc68fb7a5341a716) ![](assets/new.png)  
-- [2020-10-27-恭喜whoamiii卫冕司令|双11安全保卫战军衔更新](https://sec.thief.one/article_content?a_id=47a20b751da936e90b214d0932b1d2fc) ![](assets/new.png)  
-- [2020-10-27-信息安全漏洞周报2020年第41期](https://sec.thief.one/article_content?a_id=f76b83b2671a51966fad8eefd38cbcf5) ![](assets/new.png)  
-- [2020-10-27-涉及金融监管、数据标准与开放等:近期网络安全重磅资讯](https://sec.thief.one/article_content?a_id=410243757922be7a0f3dfaab3a6c6ecb) ![](assets/new.png)  
+- [2020-10-28-Harvest遭受闪电贷攻击,黑客通过Curve盗走2300万美元](https://sec.thief.one/article_content?a_id=0b78c961254ec91ad0177264fe78a5b9) ![](assets/new.png)  
+- [2020-10-28-记一次HW实战笔记-|-艰难的提权爬坑](https://sec.thief.one/article_content?a_id=67c57baa22dac353b88796a8eefdfd8b) ![](assets/new.png)  
+- [2020-10-28-【防护方案】Weblogic-Console-HTTP协议远程代码执行漏洞CVE-...](https://sec.thief.one/article_content?a_id=3969830fcb53b9fd24b0cbdde0175592) ![](assets/new.png)  
+- [2020-10-28-【FreeBuf字幕组】赏金37500美元的用户身份邮件确认绕过漏洞解析](https://sec.thief.one/article_content?a_id=767bd4e2588c64381e9b1d091a02bf0a) ![](assets/new.png)  
+- [2020-10-28-【预售中】物联网小白最全的新手村指南,撕下“小白”标签不是梦!](https://sec.thief.one/article_content?a_id=76a91213f441834da540b21e321e1779) ![](assets/new.png)  
+- [2020-10-28-pcfcms安装页面的一处意料之外的变量注入可导致网站瘫痪](https://sec.thief.one/article_content?a_id=2499b48bddeb207f261365547a4db2cb) ![](assets/new.png)  
+- [2020-10-28-在知乎有哪些赚钱的路子](https://sec.thief.one/article_content?a_id=bd1226d3b42b399a814fc5c889b22589) ![](assets/new.png)  
+- [2020-10-28-明晚神秘大V亲临直播间,知识盛宴重磅来袭!](https://sec.thief.one/article_content?a_id=823dbeb990ca6cef23a889b84b076cde) ![](assets/new.png)  
+- [2020-10-28-高校挑战赛|明日19:00,我们直播间见!](https://sec.thief.one/article_content?a_id=ff8ba2bc63082f805527d441d168337d) ![](assets/new.png)  
+- [2020-10-28-“网联优教”第二批项目举行签约仪式](https://sec.thief.one/article_content?a_id=cc23d43898342635392e3fdffec65614) ![](assets/new.png)  
+- [2020-10-28-6家银行共罚4000万:从央行重拳出击金融信息安全看内控安全重要性](https://sec.thief.one/article_content?a_id=47400d57a74dca0afc673056b2c0abfd) ![](assets/new.png)  
+- [2020-10-28-PWN从入门到放弃二:手把手教你如何解PWN题](https://sec.thief.one/article_content?a_id=c0be59d0b01c676365c9c8b80eb2c226) ![](assets/new.png)  
+- [2020-10-28-从魔性的“O泡果奶”看网络安全意识](https://sec.thief.one/article_content?a_id=90c76455fda8bf7a41bb84c2aba166bb) ![](assets/new.png)  
+- [2020-10-28-流量侧溯源-ActiveMQ-反序列化漏洞CVE-2015-5254](https://sec.thief.one/article_content?a_id=3a8f46b7cfef5996653eb561d9b4c752) ![](assets/new.png)  
+- [2020-10-28-比特币ATM机正在哥伦比亚大规模扩张](https://sec.thief.one/article_content?a_id=35e76c6870f706aedee7873cafc98b73) ![](assets/new.png)  
+- [2020-10-28-【视频】|-女友的戏码](https://sec.thief.one/article_content?a_id=bba4e294612312bfa9fc7b1f68c21ec7) ![](assets/new.png)  
+- [2020-10-28-半月涨近300%,内容版权这个币当之无愧的10月黑马](https://sec.thief.one/article_content?a_id=d2522f54beef17232ecc636f86486036) ![](assets/new.png)  
+- [2020-10-28-web漏洞批量检测工具源码](https://sec.thief.one/article_content?a_id=4fd7f9bd60a914ee08513d212bcfe37e) ![](assets/new.png)  
+- [2020-10-28-IOBit-Unlocker-驱动本地提权漏洞分析](https://sec.thief.one/article_content?a_id=8c2db0bd16ac84a3f13e76a75096fccd) ![](assets/new.png)  
+- [2020-10-28-NitroPDF文档大规模数据泄露,谷歌、苹果、微软全中招](https://sec.thief.one/article_content?a_id=b8b727f26cd8e0747a152a017df48ff8) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

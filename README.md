@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-28 03:44:46，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-28 03:52:47，:rocket: 更新条数: +160， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-10-28-东京奥组委将成立传染病控制中心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHWr9wJNjpNKc55REzq12201028&isfromapp=1) ![](assets/new.png)  
+- [2020-10-28-截至10月27日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/417734.jhtml) ![](assets/new.png)  
+- [2020-10-27-葡萄牙议会两名议员确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijMfjir9zdpYlZmehbjGl201028&isfromapp=1) ![](assets/new.png)  
+- [2020-10-27-时隔14天-C罗新冠病毒检测再次呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitnbNErXYbix7RX0nt24e201028&isfromapp=1) ![](assets/new.png)  
+- [2020-10-27-美专家表示南非抗疫做的比美国强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBP08mOfCkVVV8mHmNZEN201028&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -505,6 +510,26 @@
 </summary>
 
 
+- [2020-10-28-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-10-28-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-10-28-资料-|-德勤-2020-技术趋势报告.pdf](https://toutiao.io/k/rpq9ju7) ![](assets/new.png)  
+- [2020-10-28-iOS-推送手机消息背后的技术](https://toutiao.io/k/qugr2s1) ![](assets/new.png)  
+- [2020-10-28-TypeScript-和-Nodemon-终极设置](https://toutiao.io/k/xcwrwok) ![](assets/new.png)  
+- [2020-10-28-内存泄露的原因找到了，罪魁祸首居然是-Java-TheadLocal](https://toutiao.io/k/bu7zyjd) ![](assets/new.png)  
+- [2020-10-28-神经网络知识专题总结](https://toutiao.io/k/4wice1s) ![](assets/new.png)  
+- [2020-10-28-我的-Docker-卡死了，怎么办？在线等](https://toutiao.io/k/typ8w2e) ![](assets/new.png)  
+- [2020-10-28-10-张图打开-CPU-缓存一致性的大门](https://toutiao.io/k/r5b29zu) ![](assets/new.png)  
+- [2020-10-28-gRPC-服务注册发现及负载均衡的实现方案与源码解析](https://toutiao.io/k/vvwadlx) ![](assets/new.png)  
+- [2020-10-28-Kotlin-Vocabulary：操作符重载](https://toutiao.io/k/c377290) ![](assets/new.png)  
+- [2020-10-28-译-文件系统格式算是-ABI-吗？](https://toutiao.io/k/t72vgv9) ![](assets/new.png)  
+- [2020-10-28-一个方案提升-Flutter-内存利用率](https://toutiao.io/k/xaem7up) ![](assets/new.png)  
+- [2020-10-28-Flink-StateFun-2.0-浅谈](https://toutiao.io/k/fxy33c6) ![](assets/new.png)  
+- [2020-10-28-Raft-作者出的-Paxos-试题，看看你能得多少分？](https://toutiao.io/k/qlnfa4j) ![](assets/new.png)  
+- [2020-10-28-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-10-28-译-哪种编程语言又快又省电？有人对比了-27-种语言](https://toutiao.io/k/tj89zlr) ![](assets/new.png)  
+- [2020-10-28-如何重构数据模型](https://toutiao.io/k/bmnj6ty) ![](assets/new.png)  
+- [2020-10-28-神策数据桑文锋：认知为王，To-B-要考虑客户-KPI](https://toutiao.io/k/sz1dxjw) ![](assets/new.png)  
+- [2020-10-28-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

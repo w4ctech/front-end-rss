@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-28 05:29:33，:rocket: 更新条数: +384， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-28 05:32:53，:rocket: 更新条数: +3229， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -47,13 +47,13 @@
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)![](assets/dot.png)   
-- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
+- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-27-10月27日全国新增新冠42例-本土新疆22例](http://m.china.caixin.com/m/2020-10-28/101619551.html) ![](assets/new.png)  
+- [2020-10-27-大流行手记|10月27日：欧洲再成疫情“震中”-俄罗斯扩大疫苗生产规模](https://m.caixin.com/m/2020-10-28/101619557.html) ![](assets/new.png)  
+- [2020-10-26-香港连续两日无本地新增病例-内地港人11月回港免隔离](https://m.caixin.com/m/2020-10-27/101619499.html) ![](assets/new.png)  
+- [2020-10-26-新疆喀什新增5例确诊病例-新增19例无症状感染者](http://m.china.caixin.com/m/2020-10-27/101619422.html) ![](assets/new.png)  
+- [2020-10-26-独家|喀什疫情暴发地为一制衣厂](https://m.caixin.com/m/2020-10-27/101619174.html) ![](assets/new.png)  
+- [2020-10-26-最新海外疫情：新冠感染近4335万-累计死亡超115万](http://m.international.caixin.com/m/2020-10-27/101619424.html) ![](assets/new.png)  
+- [2020-10-26-【境内疫情观察】新疆喀什新增26例无症状感染者（10月26日）](http://m.database.caixin.com/m/2020-10-27/101619232.html) ![](assets/new.png)  
+- [2020-10-26-大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html) ![](assets/new.png)  
+- [2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) ![](assets/new.png)  
+- [2020-10-25-【境内疫情观察】新疆喀什新增137例无症状感染者（10月25日）](http://m.database.caixin.com/m/2020-10-26/101618828.html) ![](assets/new.png)  
+- [2020-10-25-大流行手记|10月25日：全球日新增连续3日创新高-两项疫苗临床试验恢复](https://m.caixin.com/m/2020-10-26/101618721.html) ![](assets/new.png)  
+- [2020-10-25-【图集】新疆喀什启动一级响应-老城街道人流稀少](http://m.photos.caixin.com/m/2020-10-26/101618711.html) ![](assets/new.png)  
+- [2020-10-24-新疆喀什新增137例无症状感染者-均与首例感染者父母所在工厂关联](https://m.caixin.com/m/2020-10-25/101618657.html) ![](assets/new.png)  
+- [2020-10-24-【境内疫情观察】新疆喀什新增1例本土无症状感染者（10月24日）](http://m.database.caixin.com/m/2020-10-25/101618612.html) ![](assets/new.png)  
+- [2020-10-24-大流行手记|10月24日：波兰总统确诊-WHO称全球疫情处“关键时刻”](https://m.caixin.com/m/2020-10-25/101618567.html) ![](assets/new.png)  
+- [2020-10-23-新疆喀什出现1例无症状感染者-正进行全城核酸检测](https://m.caixin.com/m/2020-10-24/101618559.html) ![](assets/new.png)  
+- [2020-10-23-【境内疫情观察】全国新增28例境外输入病例（10月23日）](http://m.database.caixin.com/m/2020-10-24/101618441.html) ![](assets/new.png)  
+- [2020-10-23-大流行手记|10月23日：法国扩大宵禁范围-美国批准瑞德西韦治疗新冠](https://m.caixin.com/m/2020-10-24/101618343.html) ![](assets/new.png)  
+- [2020-10-22-大流行手记|10月22日：德国日增病例破万-巴西一疫苗试验志愿者死亡](https://m.caixin.com/m/2020-10-23/101617798.html) ![](assets/new.png)  
+- [2020-10-22-【境内疫情观察】全国新增14例境外输入病例（10月22日）](http://m.database.caixin.com/m/2020-10-23/101617954.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -469,6 +489,26 @@
 </summary>
 
 
+- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) ![](assets/new.png)  
+- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) ![](assets/new.png)  
+- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) ![](assets/new.png)  
+- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
+- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) ![](assets/new.png)  
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) ![](assets/new.png)  
+- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) ![](assets/new.png)  
+- [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) ![](assets/new.png)  
+- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) ![](assets/new.png)  
+- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) ![](assets/new.png)  
+- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) ![](assets/new.png)  
+- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) ![](assets/new.png)  
+- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) ![](assets/new.png)  
+- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) ![](assets/new.png)  
+- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) ![](assets/new.png)  
+- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) ![](assets/new.png)  
+- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) ![](assets/new.png)  
+- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) ![](assets/new.png)  
+- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) ![](assets/new.png)  
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端艺术家&&飞冰早报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -513,6 +553,26 @@
 </summary>
 
 
+- [2020-10-28-北京酒仙桥--中高级前端开发工程师-站酷网-15k--25k](https://www.v2ex.com/t/719397) ![](assets/new.png)  
+- [2020-10-28-关于-nginx-的-deny-all-返回-403](https://www.v2ex.com/t/719396) ![](assets/new.png)  
+- [2020-10-28-杭州线下看-S10-比赛的有没有？](https://www.v2ex.com/t/719394) ![](assets/new.png)  
+- [2020-10-28-44-元携程超级会员年费，送-8-个月京东-Plus，再领其他权益](https://www.v2ex.com/t/719393) ![](assets/new.png)  
+- [2020-10-28-校招-Offer-求比较-腾讯---字节,-求大家帮帮忙](https://www.v2ex.com/t/719392) ![](assets/new.png)  
+- [2020-10-28-腾讯校园招聘内推](https://www.v2ex.com/t/719390) ![](assets/new.png)  
+- [2020-10-28-字节跳动-西瓜视频-厦门团队招人啦！超美海景办公区，真的无敌了！](https://www.v2ex.com/t/719389) ![](assets/new.png)  
+- [2020-10-28-iPhone-原生邮件-app-添加-hotmail-总是掉登录状态？](https://www.v2ex.com/t/719385) ![](assets/new.png)  
+- [2020-10-28-iMazing-数据线-老是连接不上-iPhone-是什么鬼？](https://www.v2ex.com/t/719384) ![](assets/new.png)  
+- [2020-10-28-深圳湾口岸开通-ecg-成功](https://www.v2ex.com/t/719383) ![](assets/new.png)  
+- [2020-10-28-开源项目一般都采用哪几种社区投票方式？](https://www.v2ex.com/t/719381) ![](assets/new.png)  
+- [2020-10-28-伟途亦可思最新刷不出来了？](https://www.v2ex.com/t/719379) ![](assets/new.png)  
+- [2020-10-28-RTX-3070-来了，游戏性能输-2080Ti-3-到-5-个点，有望原价发售不缺货？](https://www.v2ex.com/t/719378) ![](assets/new.png)  
+- [2020-10-28-没有密码如何重启/关机一台-Server2003-的主机？](https://www.v2ex.com/t/719377) ![](assets/new.png)  
+- [2020-10-28-8-个月京东或爱奇艺，二选一](https://www.v2ex.com/t/719376) ![](assets/new.png)  
+- [2020-10-28-IDEA-的升级为啥变成-Download-了？](https://www.v2ex.com/t/719374) ![](assets/new.png)  
+- [2020-10-28-迫于年底，北京想租房-求推荐](https://www.v2ex.com/t/719373) ![](assets/new.png)  
+- [2020-10-28-如何扫描项目中所有-FeignClient-的注解属性信息](https://www.v2ex.com/t/719372) ![](assets/new.png)  
+- [2020-10-28-北京-开黑啦-高级-Windows-开发工程师-25k-40k*14-薪](https://www.v2ex.com/t/719371) ![](assets/new.png)  
+- [2020-10-28-守护-S-级产品锻造之路，-WeTest-领航跃迁，与时代同行](https://www.v2ex.com/t/719369) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,6 +615,26 @@
 </summary>
 
 
+- [2020-10-28-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-10-28-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-10-28-资料-|-德勤-2020-技术趋势报告.pdf](https://toutiao.io/k/rpq9ju7) ![](assets/new.png)  
+- [2020-10-28-iOS-推送手机消息背后的技术](https://toutiao.io/k/qugr2s1) ![](assets/new.png)  
+- [2020-10-28-内存泄露的原因找到了，罪魁祸首居然是-Java-TheadLocal](https://toutiao.io/k/bu7zyjd) ![](assets/new.png)  
+- [2020-10-28-TypeScript-和-Nodemon-终极设置](https://toutiao.io/k/xcwrwok) ![](assets/new.png)  
+- [2020-10-28-神经网络知识专题总结](https://toutiao.io/k/4wice1s) ![](assets/new.png)  
+- [2020-10-28-10-张图打开-CPU-缓存一致性的大门](https://toutiao.io/k/r5b29zu) ![](assets/new.png)  
+- [2020-10-28-我的-Docker-卡死了，怎么办？在线等](https://toutiao.io/k/typ8w2e) ![](assets/new.png)  
+- [2020-10-28-gRPC-服务注册发现及负载均衡的实现方案与源码解析](https://toutiao.io/k/vvwadlx) ![](assets/new.png)  
+- [2020-10-28-Kotlin-Vocabulary：操作符重载](https://toutiao.io/k/c377290) ![](assets/new.png)  
+- [2020-10-28-一个方案提升-Flutter-内存利用率](https://toutiao.io/k/xaem7up) ![](assets/new.png)  
+- [2020-10-28-译-文件系统格式算是-ABI-吗？](https://toutiao.io/k/t72vgv9) ![](assets/new.png)  
+- [2020-10-28-Raft-作者出的-Paxos-试题，看看你能得多少分？](https://toutiao.io/k/qlnfa4j) ![](assets/new.png)  
+- [2020-10-28-Flink-StateFun-2.0-浅谈](https://toutiao.io/k/fxy33c6) ![](assets/new.png)  
+- [2020-10-28-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-10-28-译-哪种编程语言又快又省电？有人对比了-27-种语言](https://toutiao.io/k/tj89zlr) ![](assets/new.png)  
+- [2020-10-28-如何重构数据模型](https://toutiao.io/k/bmnj6ty) ![](assets/new.png)  
+- [2020-10-28-神策数据桑文锋：认知为王，To-B-要考虑客户-KPI](https://toutiao.io/k/sz1dxjw) ![](assets/new.png)  
+- [2020-10-28-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-28 06:17:28，:rocket: 更新条数: +216， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-28 06:34:49，:rocket: 更新条数: +422， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,20 +39,20 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -356,6 +356,26 @@
 </summary>
 
 
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -433,11 +453,6 @@
 </summary>
 
 
-- [2020-10-27-小程序直播-评论弹幕是如何“练”成的？](https://juejin.im/post/6888488657372594183) ![](assets/new.png)  
-- [2020-10-27-从-Webpack-到-Snowpack,-编译速度提升十倍以上——TRPG-Engine迁移小记](https://juejin.im/post/6888487914917855245) ![](assets/new.png)  
-- [2020-10-27-一文弄清“缓存”](https://juejin.im/post/6888481640612364296) ![](assets/new.png)  
-- [2020-10-27-「不进则退」2020-Chocolate-同学秋招前端の大厂面经&心路历程&个人经验分享](https://juejin.im/post/6888472067726508039) ![](assets/new.png)  
-- [2020-10-27-译使用原生-CSS-设置响应式字体](https://juejin.im/post/6888471725080903687) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -524,26 +539,6 @@
 </summary>
 
 
-- [2020-10-28-Serverless对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13834&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776428%3Futm_content%3Dg_1000195270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-拨开时间的迷雾-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13833&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatetime-in-software-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-阿里云推出业内首个云原生企业级数据湖解决方案：将在今年双11大规模应用-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13832&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776437%3Futm_content%3Dg_1000195269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-网易：Flink-+-Iceberg-数据湖探索与实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13831&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776257%3Futm_content%3Dg_1000195268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-持续定义SaaS模式云数据仓库+Serverless-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13830&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775404%3Futm_content%3Dg_1000194582%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-如何使用云原生数据湖，助力线上教育行业逐步智能化-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13829&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772903%3Futm_content%3Dg_1000194581%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-一文教会你如何写复杂业务代码-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13828&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776434%3Futm_content%3Dg_1000194580%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-深度-|-容器规模化落地企业的最佳途径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13827&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776227%3Futm_content%3Dg_1000194579%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-2020亚太内容分发大会-阿里云荣获“边缘计算领航企业”奖-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13826&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776075%3Futm_content%3Dg_1000194578%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-Spring-boot-2.3优雅下线，距离生产还有多远？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13825&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776108%3Futm_content%3Dg_1000193974%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-基于-Flink-+-ClickHouse-打造轻量级点击流实时数仓-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13824&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776070%3Futm_content%3Dg_1000193973%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-阿里-双11-同款，流量防卫兵-Sentinel-go-源码解读-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13823&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776066%3Futm_content%3Dg_1000193972%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-从-Storm-迁移到-Flink，美团外卖实时数仓建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13822&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776076%3Futm_content%3Dg_1000193971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-四年，如何从前端小白蜕变为前端技术专家？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13821&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776226%3Futm_content%3Dg_1000193970%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-2020阿里云双11--领亿元上云津贴大促全攻略-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13820&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776350%3Futm_content%3Dg_1000194509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-项目是否健康，做个盘点就够了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13819&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-assess-software-project-healthy%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-测试人员价值的终极体现-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13818&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fqa-value%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-“网页内容无法访问”可能是跨域错误！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13817&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F266148914%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-社会创新的三个误区-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13816&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthree-mistakes-of-social-innovation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-10-28-为何不推荐使用-Sass-作为-css-预处理器-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13815&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fwhy-sass-is-not-recommended-as-a-css-preprocessor%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,8 +567,8 @@
 - [2020-10-28-Raft-作者出的-Paxos-试题，看看你能得多少分？](https://toutiao.io/k/qlnfa4j) ![](assets/new.png)  
 - [2020-10-28-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
 - [2020-10-28-译-哪种编程语言又快又省电？有人对比了-27-种语言](https://toutiao.io/k/tj89zlr) ![](assets/new.png)  
-- [2020-10-28-神策数据桑文锋：认知为王，To-B-要考虑客户-KPI](https://toutiao.io/k/sz1dxjw) ![](assets/new.png)  
 - [2020-10-28-如何重构数据模型](https://toutiao.io/k/bmnj6ty) ![](assets/new.png)  
+- [2020-10-28-神策数据桑文锋：认知为王，To-B-要考虑客户-KPI](https://toutiao.io/k/sz1dxjw) ![](assets/new.png)  
 - [2020-10-28-ECCV-2020-论文大盘点：遥感与航空影像处理识别篇](https://toutiao.io/k/lrzdc0x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

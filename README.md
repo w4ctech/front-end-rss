@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-28 14:04:48，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-28 14:17:12，:rocket: 更新条数: +161， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -428,6 +428,11 @@
 </summary>
 
 
+- [2020-10-28-前端场景下-CI/CD-的探索与实践](https://juejin.im/post/6888636811237654536) ![](assets/new.png)  
+- [2020-10-28-全球最火的程序员学习路线！没有之一！3天就在Github收获了接近1w点赞](https://juejin.im/post/6888613308153692174) ![](assets/new.png)  
+- [2020-10-28-React-hooks-最佳实践【更新中】](https://juejin.im/post/6888597510399623175) ![](assets/new.png)  
+- [2020-10-27-【前端工程化】篇四-席卷八荒-Webpack（进阶）](https://juejin.im/post/6888528583623933966) ![](assets/new.png)  
+- [2020-09-17-使用Node.js打通支付宝支付沙箱环境](https://juejin.im/post/6873368324227629069) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -505,6 +510,26 @@
 </summary>
 
 
+- [2020-10-28-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-10-28-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-10-28-资料-|-德勤-2020-技术趋势报告.pdf](https://toutiao.io/k/rpq9ju7) ![](assets/new.png)  
+- [2020-10-28-内存泄露的原因找到了，罪魁祸首居然是-Java-TheadLocal](https://toutiao.io/k/bu7zyjd) ![](assets/new.png)  
+- [2020-10-28-iOS-推送手机消息背后的技术](https://toutiao.io/k/qugr2s1) ![](assets/new.png)  
+- [2020-10-28-10-张图打开-CPU-缓存一致性的大门](https://toutiao.io/k/r5b29zu) ![](assets/new.png)  
+- [2020-10-28-我的-Docker-卡死了，怎么办？在线等](https://toutiao.io/k/typ8w2e) ![](assets/new.png)  
+- [2020-10-28-TypeScript-和-Nodemon-终极设置](https://toutiao.io/k/xcwrwok) ![](assets/new.png)  
+- [2020-10-28-神经网络知识专题总结](https://toutiao.io/k/4wice1s) ![](assets/new.png)  
+- [2020-10-28-gRPC-服务注册发现及负载均衡的实现方案与源码解析](https://toutiao.io/k/vvwadlx) ![](assets/new.png)  
+- [2020-10-28-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-10-28-译-文件系统格式算是-ABI-吗？](https://toutiao.io/k/t72vgv9) ![](assets/new.png)  
+- [2020-10-28-一个方案提升-Flutter-内存利用率](https://toutiao.io/k/xaem7up) ![](assets/new.png)  
+- [2020-10-28-Raft-作者出的-Paxos-试题，看看你能得多少分？](https://toutiao.io/k/qlnfa4j) ![](assets/new.png)  
+- [2020-10-28-Kotlin-Vocabulary：操作符重载](https://toutiao.io/k/c377290) ![](assets/new.png)  
+- [2020-10-28-Flink-StateFun-2.0-浅谈](https://toutiao.io/k/fxy33c6) ![](assets/new.png)  
+- [2020-10-28-译-哪种编程语言又快又省电？有人对比了-27-种语言](https://toutiao.io/k/tj89zlr) ![](assets/new.png)  
+- [2020-10-28-如何重构数据模型](https://toutiao.io/k/bmnj6ty) ![](assets/new.png)  
+- [2020-10-28-神策数据桑文锋：认知为王，To-B-要考虑客户-KPI](https://toutiao.io/k/sz1dxjw) ![](assets/new.png)  
+- [2020-10-28-ECCV-2020-论文大盘点：遥感与航空影像处理识别篇](https://toutiao.io/k/lrzdc0x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

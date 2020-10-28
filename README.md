@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-28 00:42:11，:rocket: 更新条数: +382， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-28 01:19:03，:rocket: 更新条数: +359， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -530,26 +530,6 @@
 </summary>
 
 
-- [2020-10-28-TypeScript-和-Nodemon-终极设置](https://toutiao.io/k/xcwrwok) ![](assets/new.png)  
-- [2020-10-28-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-10-28-神经网络知识专题总结](https://toutiao.io/k/4wice1s) ![](assets/new.png)  
-- [2020-10-28-资料-|-德勤-2020-技术趋势报告.pdf](https://toutiao.io/k/rpq9ju7) ![](assets/new.png)  
-- [2020-10-28-iOS-推送手机消息背后的技术](https://toutiao.io/k/qugr2s1) ![](assets/new.png)  
-- [2020-10-28-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-10-28-内存泄露的原因找到了，罪魁祸首居然是-Java-TheadLocal](https://toutiao.io/k/bu7zyjd) ![](assets/new.png)  
-- [2020-10-28-我的-Docker-卡死了，怎么办？在线等](https://toutiao.io/k/typ8w2e) ![](assets/new.png)  
-- [2020-10-28-10-张图打开-CPU-缓存一致性的大门](https://toutiao.io/k/r5b29zu) ![](assets/new.png)  
-- [2020-10-28-gRPC-服务注册发现及负载均衡的实现方案与源码解析](https://toutiao.io/k/vvwadlx) ![](assets/new.png)  
-- [2020-10-28-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-28-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
-- [2020-10-28-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
-- [2020-10-28-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
-- [2020-10-28-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-28-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
-- [2020-10-28-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-28-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
-- [2020-10-28-推荐-时间轮在-Kafka-的实践](https://toutiao.io/k/441cqn5) ![](assets/new.png)  
-- [2020-10-28-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

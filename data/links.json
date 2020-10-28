@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "东京奥组委将成立传染病控制中心",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHWr9wJNjpNKc55REzq12201028&isfromapp=1",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "截至10月27日24时新型冠状病毒肺炎疫情最新情况",
+        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/417734.jhtml",
+        "date": "2020-10-28"
+      },
+      {
+        "title": "葡萄牙议会两名议员确诊感染新冠肺炎",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijMfjir9zdpYlZmehbjGl201028&isfromapp=1",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "时隔14天 C罗新冠病毒检测再次呈阳性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitnbNErXYbix7RX0nt24e201028&isfromapp=1",
+        "date": "2020-10-27"
+      },
+      {
+        "title": "美专家表示南非抗疫做的比美国强",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBP08mOfCkVVV8mHmNZEN201028&isfromapp=1",
+        "date": "2020-10-27"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",

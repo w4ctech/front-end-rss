@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-28 09:04:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-28 09:16:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-28-东京奥组委将成立传染病控制中心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHWr9wJNjpNKc55REzq12201028&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-28-截至10月27日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/417734.jhtml) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-27-葡萄牙议会两名议员确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijMfjir9zdpYlZmehbjGl201028&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-27-时隔14天-C罗新冠病毒检测再次呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitnbNErXYbix7RX0nt24e201028&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-27-美专家表示南非抗疫做的比美国强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBP08mOfCkVVV8mHmNZEN201028&isfromapp=1) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 

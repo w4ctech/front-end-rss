@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-28 11:04:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-28 11:14:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,7 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-28-6家银行共罚4000万:从央行重拳出击金融信息安全看内控安全重要性](https://sec.thief.one/article_content?a_id=47400d57a74dca0afc673056b2c0abfd) 
 - [2020-10-28-从魔性的“O泡果奶”看网络安全意识](https://sec.thief.one/article_content?a_id=90c76455fda8bf7a41bb84c2aba166bb) 
 - [2020-10-28-2元就能买上千张人脸照片!“刷脸”真的安全吗?](https://sec.thief.one/article_content?a_id=7d993a2870f610e4dc2de4619b31df9f) 

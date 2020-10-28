@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-28 18:04:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-28 18:16:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -73,7 +73,6 @@
 - [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
-- [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -90,7 +89,6 @@
 
 
 
-- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -112,7 +110,6 @@
 - [【凹凸实验室】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
-- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -378,7 +375,6 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
-- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -404,7 +400,6 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
-- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【安全热点】智慧司法建设新标杆!360安全大脑4181万落地长沙司法信息化建设](https://sec.thief.one/article_content?a_id=c30b4f75627c67b17103c6f002a54c27)
 - [【安全热点】中国移动通信集团:创新网络安全合规闭环管理](https://sec.thief.one/article_content?a_id=dbe7f862015a7084d3691286055da877)
 - [【安全热点】【安全圈】特朗普竞选网站被黑,川普:“假新闻!”](https://sec.thief.one/article_content?a_id=d8a866476e9bae4418a17fdf287d8e43)
@@ -415,6 +410,7 @@
 - [【安全热点】恭喜whoamiii卫冕司令|双11安全保卫战军衔更新](https://sec.thief.one/article_content?a_id=3c457de3e655b776d9e376512cb29b62)
 - [【安全热点】微软威胁情报中心总经理-John-Lambert:信息安全的“GitHub化”](https://sec.thief.one/article_content?a_id=72aa5a0030314eda1ef4e117aeee6d6e)
 - [【安全热点】【安全风险通告】XXL-JOB未授权远程命令执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=afd46a7ee5ed97b993e5c8d4b50caba7)
+- [【安全热点】【招聘】滴滴出行信息安全部诚聘安全大牛!](https://sec.thief.one/article_content?a_id=d288898fd13d98ef9f99a4587442dacb)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -527,6 +523,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】波黑新增新冠肺炎确诊病例1555例-创单日新增最高纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioNvSBWwtGECAVDul0v9G201028&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】截至10月27日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/417734.jhtml)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -541,6 +539,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】新疆喀什地区疏附县相关场所全面实行封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijtXGcqXOgkHCtEPO4o9H201028&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】由于5名外交官感染-联合国现场会议被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTbqbVftt4qSYLW4Czmip201028&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】东京奥组委将成立传染病控制中心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHWr9wJNjpNKc55REzq12201028&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html)
 - [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
@@ -558,9 +559,6 @@
 - [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
 - [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
 - [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
-- [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
-- [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
-- [【凹凸实验室】羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

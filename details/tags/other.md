@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 23:33:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 23:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -67,6 +67,16 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-10-29-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) 
+- [2020-10-29-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
+- [2020-10-29-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
+- [2020-10-29-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) 
+- [2020-10-29-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) 
+- [2020-10-29-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
+- [2020-10-29-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) 
+- [2020-10-29-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
+- [2020-10-29-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
+- [2020-10-29-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
 - [2020-10-29-面向对象:喜欢文学、热爱生活的妹子](https://sec.thief.one/article_content?a_id=a7b593fd9bdd611f58bbd2b8835cf13b) 
 - [2020-10-29-2.5亿被腰围改变的中国人,哪个省胖子最多?](https://sec.thief.one/article_content?a_id=4adad6c583b21a4060d5f88f2cba47b4) 
 - [2020-10-29-速看!2020ByteCTF初赛官方Writeup!](https://sec.thief.one/article_content?a_id=ca3441a43858ffcb0e5a6667d98b512c) 

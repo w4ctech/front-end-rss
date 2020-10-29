@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 23:33:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-29 23:48:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -146,6 +146,20 @@
 - [【凹凸实验室】2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) 
 - [【凹凸实验室】2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) 
 - [【凹凸实验室】2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) 
+- [【开发者头条】2020-10-29-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) 
+- [【开发者头条】2020-10-29-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
+- [【开发者头条】2020-10-29-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
+- [【开发者头条】2020-10-29-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
+- [【开发者头条】2020-10-29-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) 
+- [【开发者头条】2020-10-29-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) 
+- [【开发者头条】2020-10-29-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) 
+- [【开发者头条】2020-10-29-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
+- [【开发者头条】2020-10-29-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
+- [【开发者头条】2020-10-29-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) 
+- [【开发者头条】2020-10-29-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
+- [【开发者头条】2020-10-29-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
+- [【开发者头条】2020-10-29-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
+- [【开发者头条】2020-10-29-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
 - [【安全热点】2020-10-29-面向对象:喜欢文学、热爱生活的妹子](https://sec.thief.one/article_content?a_id=a7b593fd9bdd611f58bbd2b8835cf13b) 
 - [【安全热点】2020-10-29-微软:伊朗黑客攻击慕尼黑安全会议和T20峰会的参与者](https://sec.thief.one/article_content?a_id=a6d1a0e0a4bb69a73f2a653b32bfc0d9) 
 - [【安全热点】2020-10-29-【安全圈】骐谷开园!全省首个网络安全产业园落户玄武](https://sec.thief.one/article_content?a_id=fb4faae1b1a43d47144f19d5ddea549d) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 10:44:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 10:54:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,16 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-29-【中奖名单】《Python安全攻防:渗透测试实战指南》书籍中奖名单公...](https://sec.thief.one/article_content?a_id=d258aea335924d378c59e5df10b48469) 
 - [2020-10-28-智慧司法建设新标杆!360安全大脑4181万落地长沙司法信息化建设](https://sec.thief.one/article_content?a_id=c30b4f75627c67b17103c6f002a54c27) 
 - [2020-10-28-中国移动通信集团:创新网络安全合规闭环管理](https://sec.thief.one/article_content?a_id=dbe7f862015a7084d3691286055da877) 
 - [2020-10-28-【安全圈】特朗普竞选网站被黑,川普:“假新闻!”](https://sec.thief.one/article_content?a_id=d8a866476e9bae4418a17fdf287d8e43) 
@@ -29,7 +39,3 @@
 - [2020-10-27-安全攻击溯源思路及案例](https://sec.thief.one/article_content?a_id=31436fad629530ee547cc0fa8c476d6a) 
 - [2020-10-26-虎符智库|Gartner:EDR和XDR成为终端安全热点](https://sec.thief.one/article_content?a_id=31e75876614d457571605558ced4c433) 
 - [2020-10-26-2020看雪SDC议题回顾-|-逃逸IE浏览器沙箱:在野0Day漏洞利用复现](https://sec.thief.one/article_content?a_id=25d4f3d3763b4810e7cd12d24f2bbe39) 
-- [2020-10-26-人物-|-邢台银行徐晓波:三线城市网络安全养成记](https://sec.thief.one/article_content?a_id=ea1c3904b4396d9d37ec441c2ca2f86c) 
-- [2020-10-26-2021,你需要关注的云安全趋势都在这里](https://sec.thief.one/article_content?a_id=f8ce38e89957f0e4fa4eaeed5cf1948e) 
-- [2020-10-26-除了云原生,2021年还有哪些值得关注的云安全趋势?](https://sec.thief.one/article_content?a_id=951337611b294a2475c1e1a2221851d0) 
-- [2020-10-26-5G网络安全问题分析与展望](https://sec.thief.one/article_content?a_id=6403cd1d42a982ea826fea1311f16a2a) 

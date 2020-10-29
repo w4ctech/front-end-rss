@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "​防疫措施收紧 英国诺丁汉郡全境将于30日起实行最严管控措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOkJpgUBhqlNpfRythQuL201029&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "新加坡再次放宽边境管制 中国及澳大利亚入境者检测阴性则无须隔离",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4eNuco3o53hssXU2ZPkT201029&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "新增病例达新高 希腊353所学校不同程度停课",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizpleHUWNWAZm0dDU2OhF201029&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "台防疫指挥中心证实此前被宣布确诊的自江苏返台台商并未染疫 国台办回应",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQHjiJQugUooX1Oqi35PP201029&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "中国政府第三批援助巴西防疫物资线上交接仪式举行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsYMc6yQwoOJHqFXw3nJ201029&isfromapp=1",
+        "date": "2020-10-29"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -304,36 +330,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "🐲【4】Shutdown HTTP系列-HTTPS篇",
-        "link": "https://juejin.im/post/6889068972542459917",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "lighthouse性能优化实战",
-        "link": "https://juejin.im/post/6889012481088290823",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "Vue 中 MathJax 的使用与渲染的监听 (上)",
-        "link": "https://juejin.im/post/6888980313281265677",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "当我们讨论 Canvas 时，我们在讨论什么",
-        "link": "https://juejin.im/post/6888940697257574414",
-        "date": "2020-10-28"
-      },
-      {
-        "title": "初试vue3+vite+ant-design-vue2.0开发后台项目总结",
-        "link": "https://juejin.im/post/6888924565183922184",
-        "date": "2020-10-28"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/jskou/0",
@@ -366,111 +366,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/blogread/newest",
+    "rss": "https://rss.shab.fun/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": [
-      {
-        "title": "如何通过 Serverless 技术降低微服务应用资源成本？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13843&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776579%3Futm_content%3Dg_1000195933%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "人工智能如何提升大数据存储与管理效率？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13842&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776492%3Futm_content%3Dg_1000195932%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "谈谈我对零售云在云原生总结与思考 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13841&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776435%3Futm_content%3Dg_1000195931%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "持续定义SaaS模式云数据仓库+AI (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13840&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775538%3Futm_content%3Dg_1000195930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "洞察构建未来的技术趋势，第23期技术雷达正式发布！ (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13839&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-23%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "Flink SQL 1.11 on Zeppelin 平台化实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13838&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776079%3Futm_content%3Dg_1000195929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "再次升级-Kubernetes Ingress监控进入智能时代 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13837&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775905%3Futm_content%3Dg_1000195272%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "技术选型：为什么批处理我们却选择了Flink (zhuanlan.zhihu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13836&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F269484708%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "持续定义SaaS模式云数据仓库+数据银行 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13835&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775399%3Futm_content%3Dg_1000195271%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "Serverless对研发效能的变革和创新 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13834&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776428%3Futm_content%3Dg_1000195270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "拨开时间的迷雾 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13833&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatetime-in-software-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "阿里云推出业内首个云原生企业级数据湖解决方案：将在今年双11大规模应用 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13832&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776437%3Futm_content%3Dg_1000195269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "网易：Flink + Iceberg 数据湖探索与实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13831&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776257%3Futm_content%3Dg_1000195268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "持续定义SaaS模式云数据仓库+Serverless (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13830&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775404%3Futm_content%3Dg_1000194582%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "如何使用云原生数据湖，助力线上教育行业逐步智能化 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13829&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772903%3Futm_content%3Dg_1000194581%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "一文教会你如何写复杂业务代码 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13828&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776434%3Futm_content%3Dg_1000194580%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "深度 | 容器规模化落地企业的最佳途径 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13827&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776227%3Futm_content%3Dg_1000194579%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "2020亚太内容分发大会 阿里云荣获“边缘计算领航企业”奖 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13826&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776075%3Futm_content%3Dg_1000194578%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "Spring boot 2.3优雅下线，距离生产还有多远？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13825&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776108%3Futm_content%3Dg_1000193974%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "基于 Flink + ClickHouse 打造轻量级点击流实时数仓 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13824&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776070%3Futm_content%3Dg_1000193973%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-29"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/toutiao/today",

@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-29 16:42:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 16:48:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-29-​防疫措施收紧-英国诺丁汉郡全境将于30日起实行最严管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOkJpgUBhqlNpfRythQuL201029&isfromapp=1) 
+- [2020-10-29-新加坡再次放宽边境管制-中国及澳大利亚入境者检测阴性则无须隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4eNuco3o53hssXU2ZPkT201029&isfromapp=1) 
+- [2020-10-29-新增病例达新高-希腊353所学校不同程度停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizpleHUWNWAZm0dDU2OhF201029&isfromapp=1) 
+- [2020-10-29-台防疫指挥中心证实此前被宣布确诊的自江苏返台台商并未染疫-国台办回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQHjiJQugUooX1Oqi35PP201029&isfromapp=1) 
+- [2020-10-29-中国政府第三批援助巴西防疫物资线上交接仪式举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsYMc6yQwoOJHqFXw3nJ201029&isfromapp=1) 
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
 - [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
@@ -12,22 +17,6 @@
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 - [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
-- [2020-10-29-人工智能如何提升大数据存储与管理效率？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13842&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776492%3Futm_content%3Dg_1000195932%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-谈谈我对零售云在云原生总结与思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13841&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776435%3Futm_content%3Dg_1000195931%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-持续定义SaaS模式云数据仓库+AI-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13840&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775538%3Futm_content%3Dg_1000195930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-Flink-SQL-1.11-on-Zeppelin-平台化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13838&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776079%3Futm_content%3Dg_1000195929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-再次升级-Kubernetes-Ingress监控进入智能时代-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13837&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775905%3Futm_content%3Dg_1000195272%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-技术选型：为什么批处理我们却选择了Flink-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13836&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F269484708%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-持续定义SaaS模式云数据仓库+数据银行-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13835&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775399%3Futm_content%3Dg_1000195271%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-拨开时间的迷雾-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13833&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatetime-in-software-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-阿里云推出业内首个云原生企业级数据湖解决方案：将在今年双11大规模应用-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13832&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776437%3Futm_content%3Dg_1000195269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-网易：Flink-+-Iceberg-数据湖探索与实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13831&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776257%3Futm_content%3Dg_1000195268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-如何使用云原生数据湖，助力线上教育行业逐步智能化-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13829&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772903%3Futm_content%3Dg_1000194581%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-一文教会你如何写复杂业务代码-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13828&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776434%3Futm_content%3Dg_1000194580%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-深度-|-容器规模化落地企业的最佳途径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13827&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776227%3Futm_content%3Dg_1000194579%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-2020亚太内容分发大会-阿里云荣获“边缘计算领航企业”奖-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13826&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776075%3Futm_content%3Dg_1000194578%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-Spring-boot-2.3优雅下线，距离生产还有多远？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13825&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776108%3Futm_content%3Dg_1000193974%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-10-29-基于-Flink-+-ClickHouse-打造轻量级点击流实时数仓-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13824&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776070%3Futm_content%3Dg_1000193973%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-10-29-面向对象:喜欢文学、热爱生活的妹子](https://sec.thief.one/article_content?a_id=a7b593fd9bdd611f58bbd2b8835cf13b) 
 - [2020-10-29-2.5亿被腰围改变的中国人,哪个省胖子最多?](https://sec.thief.one/article_content?a_id=4adad6c583b21a4060d5f88f2cba47b4) 
 - [2020-10-29-速看!2020ByteCTF初赛官方Writeup!](https://sec.thief.one/article_content?a_id=ca3441a43858ffcb0e5a6667d98b512c) 

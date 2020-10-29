@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-29 01:33:36，:rocket: 更新条数: +182， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-29 02:01:15，:rocket: 更新条数: +191， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -321,9 +321,9 @@
 </summary>
 
 
+- [2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html) ![](assets/new.png)  
 - [2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html) ![](assets/new.png)  
 - [2020-10-26-微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html) ![](assets/new.png)  
-- [2020-10-23-科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -433,6 +433,11 @@
 </summary>
 
 
+- [2020-10-28-一句有趣的JS代码](https://juejin.im/post/6888702006962814990) ![](assets/new.png)  
+- [2020-10-28-Electron架构揭秘](https://juejin.im/post/6888686758495453191) ![](assets/new.png)  
+- [2020-10-28-聊聊-webpack-异步加载（三）：webpack-如何做到持久化缓存](https://juejin.im/post/6888651579772436487) ![](assets/new.png)  
+- [2020-10-28-聊聊-webpack-异步加载（二）：webpack-如何处理-import](https://juejin.im/post/6888650479426469896) ![](assets/new.png)  
+- [2020-10-27-如何实现微服务架构下的分布式事务？](https://juejin.im/post/6888574329560170509) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -532,8 +537,8 @@
 
 - [2020-10-29-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) ![](assets/new.png)  
 - [2020-10-29-解绑-WebRTC：开启-WebRTC-终结篇？](https://toutiao.io/k/splcfvg) ![](assets/new.png)  
-- [2020-10-29-中了源码的毒，给你一副良药](https://toutiao.io/k/imkoquw) ![](assets/new.png)  
 - [2020-10-29-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-10-29-中了源码的毒，给你一副良药](https://toutiao.io/k/imkoquw) ![](assets/new.png)  
 - [2020-10-29-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-10-29-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
 - [2020-10-29-Stackoverflow-上有趣的-Django-问答精选（下）](https://toutiao.io/k/i3ijyts) ![](assets/new.png)  
@@ -541,15 +546,15 @@
 - [2020-10-29-没有-HTTP-连接池，空谈什么持久连接](https://toutiao.io/k/mth6ipj) ![](assets/new.png)  
 - [2020-10-29-LeetCode-1249：移除无效的括号](https://toutiao.io/k/sy1e7fq) ![](assets/new.png)  
 - [2020-10-29-TCP-接入层的负载均衡、高可用、扩展性架构](https://toutiao.io/k/9vcxs1n) ![](assets/new.png)  
+- [2020-10-29-考上大学是一场-“压抑的胜利”-吗？](https://toutiao.io/k/fvuicx9) ![](assets/new.png)  
+- [2020-10-29-想要做读写分离，送你一些小经验](https://toutiao.io/k/3zusxrc) ![](assets/new.png)  
+- [2020-10-29-ConcurrentHashMap-核心原理，这次彻底给整明白了](https://toutiao.io/k/tdyyr9q) ![](assets/new.png)  
+- [2020-10-29-Composer-2.0-发布带来的性能优化、新特性和升级指南](https://toutiao.io/k/e83mjk7) ![](assets/new.png)  
+- [2020-10-29-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
 - [2020-10-29-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
-- [2020-10-29-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
-- [2020-10-29-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
-- [2020-10-29-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-29-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-29-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
-- [2020-10-29-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
-- [2020-10-29-推荐-怎么排查-CPU-飙升](https://toutiao.io/k/rq3wyhs) ![](assets/new.png)  
 - [2020-10-29-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
+- [2020-10-29-推荐-头条终面：写个消息中间件](https://toutiao.io/k/qjxr0pi) ![](assets/new.png)  
+- [2020-10-29-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

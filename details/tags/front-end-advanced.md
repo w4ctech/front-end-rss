@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 09:32:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 09:36:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -14,5 +14,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-10-29-百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推,实时反馈~~~~~](https://www.v2ex.com/t/719834) 
+- [2020-10-29-没有-HTTP-连接池，空谈什么持久连接](https://toutiao.io/k/mth6ipj) 
 - [2020-10-28-我差点去字节跳动做算法了!](https://sec.thief.one/article_content?a_id=882ea262dcf087cc7cff1093caa2e5b6) 
 - [2020-10-27-黑客攻破芬兰心理治疗公司Vastaamo并公布数百人健康数据](https://sec.thief.one/article_content?a_id=50df8f87b6aff2ac286d3c2b81977a9e) 

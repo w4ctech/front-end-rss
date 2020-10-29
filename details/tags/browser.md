@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 02:39:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 02:51:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,12 +8,6 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-10-29-实习-微软亚洲研究院-Azure-全球智能云安全研发实习生](https://www.v2ex.com/t/719688) 
-- [2020-10-29-如果-OAuth-的-Access-Token-泄漏，是否会影响安全性?](https://www.v2ex.com/t/719684) 
-- [2020-10-29-被吊销的-SSL-证书在-PC-的-chrome-上奇怪问题](https://www.v2ex.com/t/719679) 
-- [2020-10-29-Chrome-打开谷歌-NeatDownloadManager-总会自动下载](https://www.v2ex.com/t/719673) 
-- [2020-10-29-手机通过浏览器在多个设备间进行内容同步](https://www.v2ex.com/t/719643) 
 - [2020-10-28-智慧司法建设新标杆!360安全大脑4181万落地长沙司法信息化建设](https://sec.thief.one/article_content?a_id=c30b4f75627c67b17103c6f002a54c27) 
 - [2020-10-28-中国移动通信集团:创新网络安全合规闭环管理](https://sec.thief.one/article_content?a_id=dbe7f862015a7084d3691286055da877) 
 - [2020-10-28-【安全圈】特朗普竞选网站被黑,川普:“假新闻!”](https://sec.thief.one/article_content?a_id=d8a866476e9bae4418a17fdf287d8e43) 

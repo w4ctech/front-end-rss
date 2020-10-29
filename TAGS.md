@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-29 11:15:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 11:29:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -193,6 +193,7 @@
 - [【前端艺术家&&飞冰早报】一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175)
 - [【前端艺术家&&飞冰早报】（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b)
 - [【前端艺术家&&飞冰早报】JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56)
+- [【V2EX】校招泰康-北京-内推，-h5，-ios，-Android，-Java-，巨量-hc](https://www.v2ex.com/t/719910)
 - [【V2EX】除了-Vercel-zeit-还有哪里支持部署-next.js-应用？](https://www.v2ex.com/t/719902)
 - [【开发者头条】实时输出前端源代码，折腾大半年的开源项目-sparrow-js](https://toutiao.io/k/k97baec)
 - [【安全热点】安全内参|盘点:全球制造业十大网络安全事件](https://sec.thief.one/article_content?a_id=178ed9fcbbe5c209c2b1d8c2882729a8)
@@ -399,9 +400,9 @@
 - [【V2EX】远程+兼职-招聘一枚-Python-工程师](https://www.v2ex.com/t/719885)
 - [【V2EX】记一份最糟糕的产品面试经历《上海威昇科技有限公司》](https://www.v2ex.com/t/719882)
 - [【开发者头条】面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
-- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
 - [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
+- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

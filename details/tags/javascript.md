@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 11:15:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 11:29:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,6 +19,7 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2020-10-29-校招泰康-北京-内推，-h5，-ios，-Android，-Java-，巨量-hc](https://www.v2ex.com/t/719910) 
 - [2020-10-29-除了-Vercel-zeit-还有哪里支持部署-next.js-应用？](https://www.v2ex.com/t/719902) 
 - [2020-10-29-实时输出前端源代码，折腾大半年的开源项目-sparrow-js](https://toutiao.io/k/k97baec) 
 - [2020-10-28-安全内参|盘点:全球制造业十大网络安全事件](https://sec.thief.one/article_content?a_id=178ed9fcbbe5c209c2b1d8c2882729a8) 

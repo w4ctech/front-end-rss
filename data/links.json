@@ -519,7 +519,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -541,6 +541,16 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "求推荐个人体工学椅，性价比高一点的，最好可以拆卸搬运",
+        "link": "https://www.v2ex.com/t/719912",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "[校招][泰康] [北京] 内推， h5， ios， Android， Java ，巨量 hc",
+        "link": "https://www.v2ex.com/t/719910",
+        "date": "2020-10-29"
+      },
       {
         "title": "知乎的编辑器做出来为什么花了那么长时间",
         "link": "https://www.v2ex.com/t/719909",
@@ -730,16 +740,6 @@
         "title": "各位最近有否发生过职场里的 windows 电脑突然自动获得了 fe80::1 的 dns，并且将域名解析成 ipv6 地址的情况？",
         "link": "https://www.v2ex.com/t/719863",
         "date": "2020-10-29"
-      },
-      {
-        "title": "日常问 Offer 选择",
-        "link": "https://www.v2ex.com/t/719862",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "安卓到 ios 的数据迁移",
-        "link": "https://www.v2ex.com/t/719861",
-        "date": "2020-10-29"
       }
     ]
   },
@@ -866,13 +866,13 @@
         "date": "2020-10-29"
       },
       {
-        "title": "解绑 WebRTC：开启 WebRTC 终结篇？",
-        "link": "https://toutiao.io/k/splcfvg",
+        "title": "中了源码的毒，给你一副良药",
+        "link": "https://toutiao.io/k/imkoquw",
         "date": "2020-10-29"
       },
       {
-        "title": "中了源码的毒，给你一副良药",
-        "link": "https://toutiao.io/k/imkoquw",
+        "title": "解绑 WebRTC：开启 WebRTC 终结篇？",
+        "link": "https://toutiao.io/k/splcfvg",
         "date": "2020-10-29"
       },
       {
@@ -966,38 +966,13 @@
         "date": "2020-10-29"
       },
       {
-        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
-        "link": "https://toutiao.io/k/lxcx8vb",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
-        "date": "2020-10-29"
-      },
-      {
         "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
         "link": "https://toutiao.io/k/3jkd39p",
         "date": "2020-10-29"
       },
       {
-        "title": "[推荐] 怎么排查 CPU 飙升",
-        "link": "https://toutiao.io/k/rq3wyhs",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
-        "link": "https://toutiao.io/k/z6p6anw",
-        "date": "2020-10-29"
-      },
-      {
-        "title": "[推荐] 头条终面：写个消息中间件",
-        "link": "https://toutiao.io/k/qjxr0pi",
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
         "date": "2020-10-29"
       },
       {
@@ -1006,8 +981,13 @@
         "date": "2020-10-29"
       },
       {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
+        "title": "[推荐] 怎么排查 CPU 飙升",
+        "link": "https://toutiao.io/k/rq3wyhs",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "[推荐] 头条终面：写个消息中间件",
+        "link": "https://toutiao.io/k/qjxr0pi",
         "date": "2020-10-29"
       },
       {
@@ -1016,13 +996,33 @@
         "date": "2020-10-29"
       },
       {
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
+        "date": "2020-10-29"
+      },
+      {
         "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
         "link": "https://toutiao.io/k/szxq5t8",
         "date": "2020-10-29"
       },
       {
-        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
-        "link": "https://toutiao.io/k/9j801i6",
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
         "date": "2020-10-29"
       }
     ]

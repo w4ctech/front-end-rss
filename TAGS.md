@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-29 22:33:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 22:47:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -73,6 +73,8 @@
 - [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
+- [【掘金前端】Vue-中-MathJax-的使用与渲染的监听-上](https://juejin.im/post/6888980313281265677)
+- [【掘金前端】初试vue3+vite+ant-design-vue2.0开发后台项目总结](https://juejin.im/post/6888924565183922184)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [【安全热点】这或许是最美的Vue+Element开源后台管理UI](https://sec.thief.one/article_content?a_id=09bef7dd358595334c2da8a63fc7e35f)
 - [......【查看更多】......](./details/tags/vue.md)
@@ -114,6 +116,7 @@
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【技术头条】洞察构建未来的技术趋势，第23期技术雷达正式发布！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13839&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-23%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -331,6 +334,7 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
+- [【掘金前端】当我们讨论-Canvas-时，我们在讨论什么](https://juejin.im/post/6888940697257574414)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +356,7 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【V2EX】2020-年安装-FreeBSD-系统的基础视频](https://www.v2ex.com/t/719988)
 - [【安全热点】明晚神秘大V亲临直播间,知识盛宴重磅来袭!](https://sec.thief.one/article_content?a_id=823dbeb990ca6cef23a889b84b076cde)
 - [【安全热点】高校挑战赛|明日19:00,我们直播间见!](https://sec.thief.one/article_content?a_id=ff8ba2bc63082f805527d441d168337d)
 - [【安全热点】【视频】|-女友的戏码](https://sec.thief.one/article_content?a_id=bba4e294612312bfa9fc7b1f68c21ec7)
@@ -379,6 +384,7 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
+- [【掘金前端】lighthouse性能优化实战](https://juejin.im/post/6889012481088290823)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -406,6 +412,8 @@
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】经常在浏览器阅读长文章-需要一个功能-选中-保持高亮-这样方便快速定位阅读进度](https://www.v2ex.com/t/719986)
+- [【V2EX】QQ-安全中心-无法使用](https://www.v2ex.com/t/719951)
 - [【安全热点】微软:伊朗黑客攻击慕尼黑安全会议和T20峰会的参与者](https://sec.thief.one/article_content?a_id=a6d1a0e0a4bb69a73f2a653b32bfc0d9)
 - [【安全热点】【安全圈】骐谷开园!全省首个网络安全产业园落户玄武](https://sec.thief.one/article_content?a_id=fb4faae1b1a43d47144f19d5ddea549d)
 - [【安全热点】【安全风险通告】PoC公开,利用门槛低危害大,Oracle-WebLogic-...](https://sec.thief.one/article_content?a_id=2aa6ac6c7c6079de565ad56cedf93df7)
@@ -414,8 +422,6 @@
 - [【安全热点】【中奖名单】《Python安全攻防:渗透测试实战指南》书籍中奖名单公...](https://sec.thief.one/article_content?a_id=d258aea335924d378c59e5df10b48469)
 - [【安全热点】致远OA更新安全补丁和高危漏洞风险提示](https://sec.thief.one/article_content?a_id=be80dc20659cff32b595bed5759c33af)
 - [【安全热点】教育部:将网络安全纳入国家安全教育并全学段覆盖](https://sec.thief.one/article_content?a_id=4a70893267efd95b1693038c5bded232)
-- [【安全热点】网络安全产品漏洞排行榜](https://sec.thief.one/article_content?a_id=fdd899fa06a909b8093d5897b9db674a)
-- [【安全热点】会议沙龙|问道新基建,大咖指点2021云安全趋势新动向](https://sec.thief.one/article_content?a_id=66b69b4509bf5bd1df737f977c10ebcb)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -439,6 +445,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【掘金前端】🐲【4】Shutdown-HTTP系列-HTTPS篇](https://juejin.im/post/6889068972542459917)
 - [【安全热点】我差点去字节跳动做算法了!](https://sec.thief.one/article_content?a_id=882ea262dcf087cc7cff1093caa2e5b6)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -495,6 +502,10 @@
 
 
 
+- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
+- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
+- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-29 14:04:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 14:18:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -403,11 +403,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】​防疫措施收紧-英国诺丁汉郡全境将于30日起实行最严管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOkJpgUBhqlNpfRythQuL201029&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】新加坡再次放宽边境管制-中国及澳大利亚入境者检测阴性则无须隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4eNuco3o53hssXU2ZPkT201029&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】新增病例达新高-希腊353所学校不同程度停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizpleHUWNWAZm0dDU2OhF201029&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】台防疫指挥中心证实此前被宣布确诊的自江苏返台台商并未染疫-国台办回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQHjiJQugUooX1Oqi35PP201029&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】中国政府第三批援助巴西防疫物资线上交接仪式举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsYMc6yQwoOJHqFXw3nJ201029&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
 - [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
@@ -423,6 +418,11 @@
 - [【安全热点】中国共产党第十九届中央委员会第五次全体会议公报](https://sec.thief.one/article_content?a_id=8665edf33bdf32353bc9403ee489e95b)
 - [【安全热点】CTF经典赛题丨这个EXP逆向解题思路太到位了,值得收藏!](https://sec.thief.one/article_content?a_id=8fb0e4455b2c78055cfd41af6918b304)
 - [【安全热点】Avanti在怀俄明州推出加密友好型银行](https://sec.thief.one/article_content?a_id=99244484a12beecd9680ff1da8446b6e)
+- [【安全热点】SRC发展到今天有必要考虑考虑了](https://sec.thief.one/article_content?a_id=ad5329d21004ce7fe3750d55a07e149b)
+- [【安全热点】关于windows下的ACL与dcsync](https://sec.thief.one/article_content?a_id=17b390c02970e23150491761cf05d3ca)
+- [【安全热点】defi里的新墙头,一天反弹超60%](https://sec.thief.one/article_content?a_id=e0d14c6f0ec310b70a3cdec49c5a4a5f)
+- [【安全热点】攻击武器再升级:Donot组织利用伪造签名样本的攻击活动分析](https://sec.thief.one/article_content?a_id=4a3a2e3af85c56b71ff368c13069bfc7)
+- [【安全热点】“戏精”电信网络诈骗窝点被捣毁,涉案“剧本”达百余部](https://sec.thief.one/article_content?a_id=f6d321149c9a1948e70a3c71830f2551)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

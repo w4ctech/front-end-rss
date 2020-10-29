@@ -1,13 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-28 23:50:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 00:09:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-28-为应对疫情影响-波音公司拟至2021年再裁员7000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFce9Pdmuhn8hhbbs85ZS201028&isfromapp=1) 
 - [2020-10-28-新疆喀什地区疏附县相关场所全面实行封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijtXGcqXOgkHCtEPO4o9H201028&isfromapp=1) 
 - [2020-10-28-由于5名外交官感染-联合国现场会议被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTbqbVftt4qSYLW4Czmip201028&isfromapp=1) 
-- [2020-10-28-东京奥组委将成立传染病控制中心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHWr9wJNjpNKc55REzq12201028&isfromapp=1) 
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-10-23-科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html) 
 - [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 

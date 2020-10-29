@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-28 23:50:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 00:09:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -523,8 +523,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】乌龙！台湾承认此前“确诊”江苏台商感染新冠肺炎系错置他人检体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirVsAdARvoiIJbjrKYQ9b201028&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】波黑新增新冠肺炎确诊病例1555例-创单日新增最高纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioNvSBWwtGECAVDul0v9G201028&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】截至10月27日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/417734.jhtml)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -539,9 +539,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】为应对疫情影响-波音公司拟至2021年再裁员7000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFce9Pdmuhn8hhbbs85ZS201028&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新疆喀什地区疏附县相关场所全面实行封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijtXGcqXOgkHCtEPO4o9H201028&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】由于5名外交官感染-联合国现场会议被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTbqbVftt4qSYLW4Czmip201028&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】东京奥组委将成立传染病控制中心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHWr9wJNjpNKc55REzq12201028&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html)
 - [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)

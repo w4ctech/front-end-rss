@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 10:54:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 11:05:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,16 +8,14 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-29-【安全风险通告】PoC公开,利用门槛低危害大,Oracle-WebLogic-...](https://sec.thief.one/article_content?a_id=2aa6ac6c7c6079de565ad56cedf93df7) 
+- [2020-10-29-重磅-|-第二届百度大学生网络安全技能大赛,今日起正式启动报名!](https://sec.thief.one/article_content?a_id=e5a9d1d1db553cebd6060f49e4ab31ea) 
+- [2020-10-29-绿盟科技首批入驻国家网络安全等级保护制度2.0与可信计算3.0攻关示...](https://sec.thief.one/article_content?a_id=25e382e1be9addd23dc63e1eabc4706d) 
 - [2020-10-29-【中奖名单】《Python安全攻防:渗透测试实战指南》书籍中奖名单公...](https://sec.thief.one/article_content?a_id=d258aea335924d378c59e5df10b48469) 
+- [2020-10-29-致远OA更新安全补丁和高危漏洞风险提示](https://sec.thief.one/article_content?a_id=be80dc20659cff32b595bed5759c33af) 
+- [2020-10-29-教育部:将网络安全纳入国家安全教育并全学段覆盖](https://sec.thief.one/article_content?a_id=4a70893267efd95b1693038c5bded232) 
+- [2020-10-29-网络安全产品漏洞排行榜](https://sec.thief.one/article_content?a_id=fdd899fa06a909b8093d5897b9db674a) 
+- [2020-10-29-会议沙龙|问道新基建,大咖指点2021云安全趋势新动向](https://sec.thief.one/article_content?a_id=66b69b4509bf5bd1df737f977c10ebcb) 
 - [2020-10-28-智慧司法建设新标杆!360安全大脑4181万落地长沙司法信息化建设](https://sec.thief.one/article_content?a_id=c30b4f75627c67b17103c6f002a54c27) 
 - [2020-10-28-中国移动通信集团:创新网络安全合规闭环管理](https://sec.thief.one/article_content?a_id=dbe7f862015a7084d3691286055da877) 
 - [2020-10-28-【安全圈】特朗普竞选网站被黑,川普:“假新闻!”](https://sec.thief.one/article_content?a_id=d8a866476e9bae4418a17fdf287d8e43) 
@@ -35,7 +33,3 @@
 - [2020-10-27-信息安全漏洞周报2020年第41期](https://sec.thief.one/article_content?a_id=f76b83b2671a51966fad8eefd38cbcf5) 
 - [2020-10-27-涉及金融监管、数据标准与开放等:近期网络安全重磅资讯](https://sec.thief.one/article_content?a_id=410243757922be7a0f3dfaab3a6c6ecb) 
 - [2020-10-27-每日安全动态推送10-27](https://sec.thief.one/article_content?a_id=25139f98f40d35ecb2c54ff11ca58643) 
-- [2020-10-27-京东亮相Geekpwn2020,传递极客精神共话安全之道](https://sec.thief.one/article_content?a_id=be737e16ee00978aaf302f7be6cb397f) 
-- [2020-10-27-安全攻击溯源思路及案例](https://sec.thief.one/article_content?a_id=31436fad629530ee547cc0fa8c476d6a) 
-- [2020-10-26-虎符智库|Gartner:EDR和XDR成为终端安全热点](https://sec.thief.one/article_content?a_id=31e75876614d457571605558ced4c433) 
-- [2020-10-26-2020看雪SDC议题回顾-|-逃逸IE浏览器沙箱:在野0Day漏洞利用复现](https://sec.thief.one/article_content?a_id=25d4f3d3763b4810e7cd12d24f2bbe39) 

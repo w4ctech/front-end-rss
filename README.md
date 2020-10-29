@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-29 05:30:44，:rocket: 更新条数: +217， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-29 05:34:18，:rocket: 更新条数: +3011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-28-10月28日全国新增新冠47例-本土新疆23例](http://m.china.caixin.com/m/2020-10-29/101620003.html) ![](assets/new.png)  
+- [2020-10-28-大流行手记|10月28日：美国两周9.4万儿童感染-意大利爆发反防疫措施示威](https://m.caixin.com/m/2020-10-29/101620020.html) ![](assets/new.png)  
+- [2020-10-28-欧美疫情走高道琼斯大跌943点-德法再启抗疫封锁](http://m.international.caixin.com/m/2020-10-29/101619993.html) ![](assets/new.png)  
+- [2020-10-27-最新海外疫情：新冠感染近4377万-累计死亡超116万](http://m.international.caixin.com/m/2020-10-28/101619908.html) ![](assets/new.png)  
+- [2020-10-27-【境内疫情观察】新疆新增22例本土确诊病例（10月27日）](http://m.database.caixin.com/m/2020-10-28/101619702.html) ![](assets/new.png)  
+- [2020-10-27-大流行手记|10月27日：欧洲再成疫情“震中”-俄罗斯扩大疫苗生产规模](https://m.caixin.com/m/2020-10-28/101619557.html) ![](assets/new.png)  
+- [2020-10-26-香港连续两日无本地新增病例-内地港人11月回港免隔离](https://m.caixin.com/m/2020-10-27/101619499.html) ![](assets/new.png)  
+- [2020-10-26-新疆喀什新增5例确诊病例-新增19例无症状感染者](http://m.china.caixin.com/m/2020-10-27/101619422.html) ![](assets/new.png)  
+- [2020-10-26-独家|喀什疫情暴发地为一制衣厂](https://m.caixin.com/m/2020-10-27/101619174.html) ![](assets/new.png)  
+- [2020-10-26-【境内疫情观察】新疆喀什新增26例无症状感染者（10月26日）](http://m.database.caixin.com/m/2020-10-27/101619232.html) ![](assets/new.png)  
+- [2020-10-26-大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html) ![](assets/new.png)  
+- [2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) ![](assets/new.png)  
+- [2020-10-25-【境内疫情观察】新疆喀什新增137例无症状感染者（10月25日）](http://m.database.caixin.com/m/2020-10-26/101618828.html) ![](assets/new.png)  
+- [2020-10-25-大流行手记|10月25日：全球日新增连续3日创新高-两项疫苗临床试验恢复](https://m.caixin.com/m/2020-10-26/101618721.html) ![](assets/new.png)  
+- [2020-10-25-【图集】新疆喀什启动一级响应-老城街道人流稀少](http://m.photos.caixin.com/m/2020-10-26/101618711.html) ![](assets/new.png)  
+- [2020-10-24-新疆喀什新增137例无症状感染者-均与首例感染者父母所在工厂关联](https://m.caixin.com/m/2020-10-25/101618657.html) ![](assets/new.png)  
+- [2020-10-24-【境内疫情观察】新疆喀什新增1例本土无症状感染者（10月24日）](http://m.database.caixin.com/m/2020-10-25/101618612.html) ![](assets/new.png)  
+- [2020-10-24-大流行手记|10月24日：波兰总统确诊-WHO称全球疫情处“关键时刻”](https://m.caixin.com/m/2020-10-25/101618567.html) ![](assets/new.png)  
+- [2020-10-23-新疆喀什出现1例无症状感染者-正进行全城核酸检测](https://m.caixin.com/m/2020-10-24/101618559.html) ![](assets/new.png)  
+- [2020-10-23-【境内疫情观察】全国新增28例境外输入病例（10月23日）](http://m.database.caixin.com/m/2020-10-24/101618441.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -513,6 +533,26 @@
 </summary>
 
 
+- [2020-10-29-FreshRSS-的自动刷新问题，请-rss-高手帮忙](https://www.v2ex.com/t/719751) ![](assets/new.png)  
+- [2020-10-29-XR-日常使用感觉很卡，是什么原因？-iOS14？你们也这样吗？](https://www.v2ex.com/t/719750) ![](assets/new.png)  
+- [2020-10-29-杭州/深圳-Alibaba---ICBU-国际核心技术部---前端、客户端、-Java-社招内推](https://www.v2ex.com/t/719748) ![](assets/new.png)  
+- [2020-10-29-求推荐恶意-APK-的汇总网站](https://www.v2ex.com/t/719747) ![](assets/new.png)  
+- [2020-10-29-bt-的同步时间好像有问题了？](https://www.v2ex.com/t/719746) ![](assets/new.png)  
+- [2020-10-29-tcpkill-在-go-语言下的实现和增强](https://www.v2ex.com/t/719744) ![](assets/new.png)  
+- [2020-10-29-免费的-Mastercard-木质借记卡，骗人的吧？](https://www.v2ex.com/t/719743) ![](assets/new.png)  
+- [2020-10-29-如果视频画质参数默认，-15M-的文件，-mpeg4-转-h265，文件变成-5M，再转回-mpeg4，等于无损还原成-15M？](https://www.v2ex.com/t/719742) ![](assets/new.png)  
+- [2020-10-29-德国不限速高速公路，最右道发现后方有比自己快的来车时，都会主动向左边并道。](https://www.v2ex.com/t/719741) ![](assets/new.png)  
+- [2020-10-29-有上海的铁子出自行车吗？想收个自行车](https://www.v2ex.com/t/719739) ![](assets/new.png)  
+- [2020-10-29-艹-TMD-一天几十条双十一短信!???](https://www.v2ex.com/t/719738) ![](assets/new.png)  
+- [2020-10-29-有谁知道-iOS-中国区开发者账号对-app-内购开通的税收文件是啥吗？](https://www.v2ex.com/t/719737) ![](assets/new.png)  
+- [2020-10-29-5-年结婚纪念日，送老婆降噪耳机，-jd-的华为-Freebuds-Pro-999-VS-pdd-的-AirPods-Pro-1399，哪个更好](https://www.v2ex.com/t/719734) ![](assets/new.png)  
+- [2020-10-29-单打独斗开发一个-saas-产品-中途没劲了-犹豫](https://www.v2ex.com/t/719733) ![](assets/new.png)  
+- [2020-10-29-在虚拟机系统中使用-Android-Studio-模拟器，总是提示不支持-nested-virtualization-嵌套虚拟化），有什么好的方法在虚拟机中使用安卓模拟器吗？](https://www.v2ex.com/t/719732) ![](assets/new.png)  
+- [2020-10-29-请教大家多供应商接入的场景，如何尽量通用？](https://www.v2ex.com/t/719731) ![](assets/new.png)  
+- [2020-10-29-FreshRSS-的自动刷新问题](https://www.v2ex.com/t/719730) ![](assets/new.png)  
+- [2020-10-29-杭州-｜-IT-技术支持-15-30-K-15-薪](https://www.v2ex.com/t/719729) ![](assets/new.png)  
+- [2020-10-29-北京-猿辅导---前端工程师---基础架构高可用系统方向](https://www.v2ex.com/t/719728) ![](assets/new.png)  
+- [2020-10-29-miui-上-app-冻结停用了还能弹广告通知是怎么实现的？](https://www.v2ex.com/t/719727) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

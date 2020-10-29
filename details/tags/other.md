@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-10-29 17:04:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 17:13:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-29-​防疫措施收紧-英国诺丁汉郡全境将于30日起实行最严管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOkJpgUBhqlNpfRythQuL201029&isfromapp=1) 
+- [2020-10-29-新加坡再次放宽边境管制-中国及澳大利亚入境者检测阴性则无须隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4eNuco3o53hssXU2ZPkT201029&isfromapp=1) 
+- [2020-10-29-新增病例达新高-希腊353所学校不同程度停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizpleHUWNWAZm0dDU2OhF201029&isfromapp=1) 
+- [2020-10-29-台防疫指挥中心证实此前被宣布确诊的自江苏返台台商并未染疫-国台办回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQHjiJQugUooX1Oqi35PP201029&isfromapp=1) 
+- [2020-10-29-中国政府第三批援助巴西防疫物资线上交接仪式举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsYMc6yQwoOJHqFXw3nJ201029&isfromapp=1) 
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
 - [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 

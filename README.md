@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-29 05:42:39，:rocket: 更新条数: +162， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-29 05:49:24，:rocket: 更新条数: +128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -510,26 +510,6 @@
 </summary>
 
 
-- [2020-10-29-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) ![](assets/new.png)  
-- [2020-10-29-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-10-29-解绑-WebRTC：开启-WebRTC-终结篇？](https://toutiao.io/k/splcfvg) ![](assets/new.png)  
-- [2020-10-29-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-10-29-中了源码的毒，给你一副良药](https://toutiao.io/k/imkoquw) ![](assets/new.png)  
-- [2020-10-29-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-10-29-没有-HTTP-连接池，空谈什么持久连接](https://toutiao.io/k/mth6ipj) ![](assets/new.png)  
-- [2020-10-29-大规模图训练调优指南](https://toutiao.io/k/xzfmvrh) ![](assets/new.png)  
-- [2020-10-29-Stackoverflow-上有趣的-Django-问答精选（下）](https://toutiao.io/k/i3ijyts) ![](assets/new.png)  
-- [2020-10-29-LeetCode-1249：移除无效的括号](https://toutiao.io/k/sy1e7fq) ![](assets/new.png)  
-- [2020-10-29-TCP-接入层的负载均衡、高可用、扩展性架构](https://toutiao.io/k/9vcxs1n) ![](assets/new.png)  
-- [2020-10-29-想要做读写分离，送你一些小经验](https://toutiao.io/k/3zusxrc) ![](assets/new.png)  
-- [2020-10-29-ConcurrentHashMap-核心原理，这次彻底给整明白了](https://toutiao.io/k/tdyyr9q) ![](assets/new.png)  
-- [2020-10-29-考上大学是一场-“压抑的胜利”-吗？](https://toutiao.io/k/fvuicx9) ![](assets/new.png)  
-- [2020-10-29-Composer-2.0-发布带来的性能优化、新特性和升级指南](https://toutiao.io/k/e83mjk7) ![](assets/new.png)  
-- [2020-10-29-libp2p-rs-开源项目的落地实现](https://toutiao.io/k/my8tyo7) ![](assets/new.png)  
-- [2020-10-29-如何审计-Linux-系统的操作行为](https://toutiao.io/k/ccwwvyd) ![](assets/new.png)  
-- [2020-10-29-阿里巴巴开发手册强制使用-SLF4J-作为门面担当的秘密，我搞清楚了](https://toutiao.io/k/xdu8xot) ![](assets/new.png)  
-- [2020-10-29-为什么-NUMA-会影响程序的延迟](https://toutiao.io/k/zp8p93f) ![](assets/new.png)  
-- [2020-10-29-实时输出前端源代码，折腾大半年的开源项目-sparrow-js](https://toutiao.io/k/k97baec) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

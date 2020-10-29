@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-29 04:55:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 05:04:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -88,6 +88,7 @@
 
 
 
+- [【技术头条】洞察构建未来的技术趋势，第23期技术雷达正式发布！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13839&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-23%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -174,6 +175,7 @@
 - [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
 - [【张鑫旭-鑫空间-鑫生活】巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
+- [【开发者头条】实时输出前端源代码，折腾大半年的开源项目-sparrow-js](https://toutiao.io/k/k97baec)
 - [【安全热点】安全内参|盘点:全球制造业十大网络安全事件](https://sec.thief.one/article_content?a_id=178ed9fcbbe5c209c2b1d8c2882729a8)
 - [【安全热点】【防护方案】Weblogic-Console-HTTP协议远程代码执行漏洞CVE-...](https://sec.thief.one/article_content?a_id=3969830fcb53b9fd24b0cbdde0175592)
 - [【安全热点】pcfcms安装页面的一处意料之外的变量注入可导致网站瘫痪](https://sec.thief.one/article_content?a_id=2499b48bddeb207f261365547a4db2cb)
@@ -199,6 +201,8 @@
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
 - [【张鑫旭-鑫空间-鑫生活】flex:0-flex:1-flex:none-flex:auto应该在什么场景下使用？](https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/)
+- [【技术头条】Serverless对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13834&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776428%3Futm_content%3Dg_1000195270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】持续定义SaaS模式云数据仓库+Serverless-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13830&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775404%3Futm_content%3Dg_1000194582%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -232,6 +236,7 @@
 
 
 
+- [【开发者头条】解绑-WebRTC：开启-WebRTC-终结篇？](https://toutiao.io/k/splcfvg)
 - [【安全热点】明晚神秘大V亲临直播间,知识盛宴重磅来袭!](https://sec.thief.one/article_content?a_id=823dbeb990ca6cef23a889b84b076cde)
 - [【安全热点】高校挑战赛|明日19:00,我们直播间见!](https://sec.thief.one/article_content?a_id=ff8ba2bc63082f805527d441d168337d)
 - [【安全热点】【视频】|-女友的戏码](https://sec.thief.one/article_content?a_id=bba4e294612312bfa9fc7b1f68c21ec7)
@@ -253,6 +258,8 @@
 
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
+- [【开发者头条】Composer-2.0-发布带来的性能优化、新特性和升级指南](https://toutiao.io/k/e83mjk7)
+- [【开发者头条】抖音品质建设：iOS-启动优化（原理篇）](https://toutiao.io/k/x63fize)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -305,6 +312,7 @@
 
 
 
+- [【开发者头条】没有-HTTP-连接池，空谈什么持久连接](https://toutiao.io/k/mth6ipj)
 - [【安全热点】我差点去字节跳动做算法了!](https://sec.thief.one/article_content?a_id=882ea262dcf087cc7cff1093caa2e5b6)
 - [【安全热点】黑客攻破芬兰心理治疗公司Vastaamo并公布数百人健康数据](https://sec.thief.one/article_content?a_id=50df8f87b6aff2ac286d3c2b81977a9e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -357,6 +365,10 @@
 
 
 
+- [【开发者头条】面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
+- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
+- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
+- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -389,6 +401,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过4376万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ1PLgunW5WitYfUonVjY201029&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -403,6 +416,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】台防疫指挥中心证实此前被宣布确诊的自江苏返台台商并未染疫-国台办回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQHjiJQugUooX1Oqi35PP201029&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】中国政府第三批援助巴西防疫物资线上交接仪式举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsYMc6yQwoOJHqFXw3nJ201029&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】为对疫情，西班牙三大区达成大区边界封锁协议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWvYl863XR9VxvJl1FPRB201029&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​道琼斯大跌900点-自9月份跌幅约为8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijv0SyYx2aabHDFxXwRbX201029&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
 - [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
@@ -410,19 +427,15 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
-- [【安全热点】Harvest遭受闪电贷攻击,黑客通过Curve盗走2300万美元](https://sec.thief.one/article_content?a_id=0b78c961254ec91ad0177264fe78a5b9)
-- [【安全热点】记一次HW实战笔记-|-艰难的提权爬坑](https://sec.thief.one/article_content?a_id=67c57baa22dac353b88796a8eefdfd8b)
-- [【安全热点】【FreeBuf字幕组】赏金37500美元的用户身份邮件确认绕过漏洞解析](https://sec.thief.one/article_content?a_id=767bd4e2588c64381e9b1d091a02bf0a)
-- [【安全热点】【预售中】物联网小白最全的新手村指南,撕下“小白”标签不是梦!](https://sec.thief.one/article_content?a_id=76a91213f441834da540b21e321e1779)
-- [【安全热点】在知乎有哪些赚钱的路子](https://sec.thief.one/article_content?a_id=bd1226d3b42b399a814fc5c889b22589)
-- [【安全热点】“网联优教”第二批项目举行签约仪式](https://sec.thief.one/article_content?a_id=cc23d43898342635392e3fdffec65614)
-- [【安全热点】PWN从入门到放弃二:手把手教你如何解PWN题](https://sec.thief.one/article_content?a_id=c0be59d0b01c676365c9c8b80eb2c226)
-- [【安全热点】流量侧溯源-ActiveMQ-反序列化漏洞CVE-2015-5254](https://sec.thief.one/article_content?a_id=3a8f46b7cfef5996653eb561d9b4c752)
-- [【安全热点】比特币ATM机正在哥伦比亚大规模扩张](https://sec.thief.one/article_content?a_id=35e76c6870f706aedee7873cafc98b73)
-- [【安全热点】半月涨近300%,内容版权这个币当之无愧的10月黑马](https://sec.thief.one/article_content?a_id=d2522f54beef17232ecc636f86486036)
-- [【安全热点】web漏洞批量检测工具源码](https://sec.thief.one/article_content?a_id=4fd7f9bd60a914ee08513d212bcfe37e)
-- [【安全热点】IOBit-Unlocker-驱动本地提权漏洞分析](https://sec.thief.one/article_content?a_id=8c2db0bd16ac84a3f13e76a75096fccd)
-- [【安全热点】NitroPDF文档大规模数据泄露,谷歌、苹果、微软全中招](https://sec.thief.one/article_content?a_id=b8b727f26cd8e0747a152a017df48ff8)
+- [【技术头条】持续定义SaaS模式云数据仓库+AI-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13840&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775538%3Futm_content%3Dg_1000195930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】Flink-SQL-1.11-on-Zeppelin-平台化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13838&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776079%3Futm_content%3Dg_1000195929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】再次升级-Kubernetes-Ingress监控进入智能时代-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13837&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775905%3Futm_content%3Dg_1000195272%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】技术选型：为什么批处理我们却选择了Flink-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13836&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F269484708%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】持续定义SaaS模式云数据仓库+数据银行-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13835&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775399%3Futm_content%3Dg_1000195271%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】拨开时间的迷雾-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13833&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatetime-in-software-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】阿里云推出业内首个云原生企业级数据湖解决方案：将在今年双11大规模应用-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13832&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776437%3Futm_content%3Dg_1000195269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】网易：Flink-+-Iceberg-数据湖探索与实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13831&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776257%3Futm_content%3Dg_1000195268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】如何使用云原生数据湖，助力线上教育行业逐步智能化-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13829&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772903%3Futm_content%3Dg_1000194581%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

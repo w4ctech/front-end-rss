@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-29 04:46:22，:rocket: 更新条数: +128， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-29 04:55:12，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-10-29-台防疫指挥中心证实此前被宣布确诊的自江苏返台台商并未染疫-国台办回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQHjiJQugUooX1Oqi35PP201029&isfromapp=1) ![](assets/new.png)  
-- [2020-10-29-中国政府第三批援助巴西防疫物资线上交接仪式举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsYMc6yQwoOJHqFXw3nJ201029&isfromapp=1) ![](assets/new.png)  
-- [2020-10-28-世卫组织：全球新冠肺炎确诊病例超过4376万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ1PLgunW5WitYfUonVjY201029&isfromapp=1) ![](assets/new.png)  
-- [2020-10-28-为对疫情，西班牙三大区达成大区边界封锁协议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWvYl863XR9VxvJl1FPRB201029&isfromapp=1) ![](assets/new.png)  
-- [2020-10-28-​道琼斯大跌900点-自9月份跌幅约为8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijv0SyYx2aabHDFxXwRbX201029&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-29 04:46:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 04:55:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -389,7 +389,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过4376万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ1PLgunW5WitYfUonVjY201029&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -404,10 +403,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】台防疫指挥中心证实此前被宣布确诊的自江苏返台台商并未染疫-国台办回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQHjiJQugUooX1Oqi35PP201029&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】中国政府第三批援助巴西防疫物资线上交接仪式举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsYMc6yQwoOJHqFXw3nJ201029&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】为对疫情，西班牙三大区达成大区边界封锁协议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWvYl863XR9VxvJl1FPRB201029&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​道琼斯大跌900点-自9月份跌幅约为8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijv0SyYx2aabHDFxXwRbX201029&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
 - [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
@@ -424,6 +419,10 @@
 - [【安全热点】PWN从入门到放弃二:手把手教你如何解PWN题](https://sec.thief.one/article_content?a_id=c0be59d0b01c676365c9c8b80eb2c226)
 - [【安全热点】流量侧溯源-ActiveMQ-反序列化漏洞CVE-2015-5254](https://sec.thief.one/article_content?a_id=3a8f46b7cfef5996653eb561d9b4c752)
 - [【安全热点】比特币ATM机正在哥伦比亚大规模扩张](https://sec.thief.one/article_content?a_id=35e76c6870f706aedee7873cafc98b73)
+- [【安全热点】半月涨近300%,内容版权这个币当之无愧的10月黑马](https://sec.thief.one/article_content?a_id=d2522f54beef17232ecc636f86486036)
+- [【安全热点】web漏洞批量检测工具源码](https://sec.thief.one/article_content?a_id=4fd7f9bd60a914ee08513d212bcfe37e)
+- [【安全热点】IOBit-Unlocker-驱动本地提权漏洞分析](https://sec.thief.one/article_content?a_id=8c2db0bd16ac84a3f13e76a75096fccd)
+- [【安全热点】NitroPDF文档大规模数据泄露,谷歌、苹果、微软全中招](https://sec.thief.one/article_content?a_id=b8b727f26cd8e0747a152a017df48ff8)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

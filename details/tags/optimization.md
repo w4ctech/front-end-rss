@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 21:08:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 21:17:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -15,7 +15,3 @@
 - [2016-03-16-前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/) 
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
-- [2020-10-29-lighthouse性能优化实战](https://juejin.im/post/6889012481088290823) 
-- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2020-10-29-Composer-2.0-发布带来的性能优化、新特性和升级指南](https://toutiao.io/k/e83mjk7) 
-- [2020-10-29-抖音品质建设：iOS-启动优化（原理篇）](https://toutiao.io/k/x63fize) 

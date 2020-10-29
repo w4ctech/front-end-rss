@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 11:40:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 11:49:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -15,8 +15,3 @@
 - [2016-03-16-前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/) 
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
-- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2020-10-29-应届生在西安找工作，网络优化相关岗位是培训机构的骗人招数吗](https://www.v2ex.com/t/719879) 
-- [2020-10-29-应届生西安求职，纳维通信的网络优化督导岗位是骗人的吗](https://www.v2ex.com/t/719874) 
-- [2020-10-29-Composer-2.0-发布带来的性能优化、新特性和升级指南](https://toutiao.io/k/e83mjk7) 
-- [2020-10-29-抖音品质建设：iOS-启动优化（原理篇）](https://toutiao.io/k/x63fize) 

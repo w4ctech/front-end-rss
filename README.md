@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-30 13:03:53，:rocket: 更新条数: +488， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-30 13:10:00，:rocket: 更新条数: +488， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -611,8 +611,8 @@
 - [2020-10-30-译-Gas-优化：如何优化存储](https://toutiao.io/k/zgqx19d) ![](assets/new.png)  
 - [2020-10-30-技术团队问题（一）：当所有需求都是第一优先级时，该怎么办？](https://toutiao.io/k/5mgu0bj) ![](assets/new.png)  
 - [2020-10-30-一文了解分布式一致性算法-EPaxos](https://toutiao.io/k/essq2tr) ![](assets/new.png)  
-- [2020-10-30-PHP-8-所有新特性一览和代码示例](https://toutiao.io/k/4y2ygcn) ![](assets/new.png)  
 - [2020-10-30-9-个最好的-Selenium-报告工具](https://toutiao.io/k/fbsbztz) ![](assets/new.png)  
+- [2020-10-30-PHP-8-所有新特性一览和代码示例](https://toutiao.io/k/4y2ygcn) ![](assets/new.png)  
 - [2020-10-30-快速了解-ASP.NET-Core-Blazor](https://toutiao.io/k/czo40rv) ![](assets/new.png)  
 - [2020-10-30-数据分析的-5-种细分方法](https://toutiao.io/k/bizzbi5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

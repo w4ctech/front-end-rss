@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-30 12:47:37，:rocket: 更新条数: +413， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-30 13:03:53，:rocket: 更新条数: +488， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
-- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -453,6 +453,11 @@
 </summary>
 
 
+- [2020-10-30-Vue-中-MathJax-的使用与渲染的监听-下](https://juejin.im/post/6889356770012528648) ![](assets/new.png)  
+- [2020-10-30-搞懂js面向对象之进阶篇](https://juejin.im/post/6889347069643866125) ![](assets/new.png)  
+- [2020-10-30-多业务场景下前端工程化的思考](https://juejin.im/post/6889342911905792013) ![](assets/new.png)  
+- [2020-10-29-React源码系列五：React-Scheduler调度原理第一篇](https://juejin.im/post/6889314677528985614) ![](assets/new.png)  
+- [2020-10-29-如何进行Vue单元测试？从Jest开始吧！](https://juejin.im/post/6889218001988485134) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -464,6 +469,26 @@
 </summary>
 
 
+- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) ![](assets/new.png)  
+- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) ![](assets/new.png)  
+- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) ![](assets/new.png)  
+- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
+- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) ![](assets/new.png)  
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) ![](assets/new.png)  
+- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) ![](assets/new.png)  
+- [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) ![](assets/new.png)  
+- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) ![](assets/new.png)  
+- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) ![](assets/new.png)  
+- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) ![](assets/new.png)  
+- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) ![](assets/new.png)  
+- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) ![](assets/new.png)  
+- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) ![](assets/new.png)  
+- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) ![](assets/new.png)  
+- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) ![](assets/new.png)  
+- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) ![](assets/new.png)  
+- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) ![](assets/new.png)  
+- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) ![](assets/new.png)  
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端艺术家&&飞冰早报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -508,6 +533,26 @@
 </summary>
 
 
+- [2020-10-30-女人的年龄在脸上是遮不住的](https://www.v2ex.com/t/720320) ![](assets/new.png)  
+- [2020-10-30-个人能力还可以的情况下，全栈开发一个官网大概需要多久？](https://www.v2ex.com/t/720319) ![](assets/new.png)  
+- [2020-10-30-再来一个-offer-选择题……](https://www.v2ex.com/t/720318) ![](assets/new.png)  
+- [2020-10-30-双-11-装机-黑苹果问题求解](https://www.v2ex.com/t/720315) ![](assets/new.png)  
+- [2020-10-30-请问我一个纯展示宠物图片与视频的小程序，需要申请什么类目？](https://www.v2ex.com/t/720314) ![](assets/new.png)  
+- [2020-10-30-双-11-哪家的云服务器值得入手？](https://www.v2ex.com/t/720313) ![](assets/new.png)  
+- [2020-10-30-搜索引擎广告投放项目合作](https://www.v2ex.com/t/720312) ![](assets/new.png)  
+- [2020-10-30-做了室内设计一年了，想转行电商运营有没有过来人给个建议。](https://www.v2ex.com/t/720311) ![](assets/new.png)  
+- [2020-10-30-爬虫-DNS-问题](https://www.v2ex.com/t/720310) ![](assets/new.png)  
+- [2020-10-30-备战双十一，云服务器带宽怎么选？](https://www.v2ex.com/t/720308) ![](assets/new.png)  
+- [2020-10-30-请问百度网盘的一天会员在哪儿开通？](https://www.v2ex.com/t/720307) ![](assets/new.png)  
+- [2020-10-30-Dropbox-家庭套餐招小伙伴](https://www.v2ex.com/t/720306) ![](assets/new.png)  
+- [2020-10-30-天津大悦城，有哪些地方可以免费停车？](https://www.v2ex.com/t/720305) ![](assets/new.png)  
+- [2020-10-30-Bilibili-上有哪些技术类的-UP-主/视频值得关注/收藏？](https://www.v2ex.com/t/720304) ![](assets/new.png)  
+- [2020-10-30-APP-更换企业主体的影响都有哪些呢？](https://www.v2ex.com/t/720303) ![](assets/new.png)  
+- [2020-10-30-二级子域名和广告问题咨询](https://www.v2ex.com/t/720302) ![](assets/new.png)  
+- [2020-10-30-用-5G-网络，广东地区选电信还是移动？](https://www.v2ex.com/t/720301) ![](assets/new.png)  
+- [2020-10-30-红米无法注册-textnow,有-safetynet-检测。请教绕过-safetynet-的方法还有效吗？](https://www.v2ex.com/t/720300) ![](assets/new.png)  
+- [2020-10-30-我想找一下暴风激光电视-M1-的开发人员](https://www.v2ex.com/t/720298) ![](assets/new.png)  
+- [2020-10-30-华为闪传](https://www.v2ex.com/t/720297) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,13 +607,13 @@
 - [2020-10-30-带你深入理解不一样的-Flutter](https://toutiao.io/k/m6cvd7l) ![](assets/new.png)  
 - [2020-10-30-Zeppelin-安全机制之-Credentials-使用技巧（补充）](https://toutiao.io/k/ygzafu1) ![](assets/new.png)  
 - [2020-10-30-Go-监控的标配：实战-Prometheus](https://toutiao.io/k/asb5mrq) ![](assets/new.png)  
+- [2020-10-30-一文读懂响应式编程到底是什么？（附赠国外优质-Java-学习视频）](https://toutiao.io/k/gjdsc0z) ![](assets/new.png)  
 - [2020-10-30-译-Gas-优化：如何优化存储](https://toutiao.io/k/zgqx19d) ![](assets/new.png)  
 - [2020-10-30-技术团队问题（一）：当所有需求都是第一优先级时，该怎么办？](https://toutiao.io/k/5mgu0bj) ![](assets/new.png)  
-- [2020-10-30-一文读懂响应式编程到底是什么？（附赠国外优质-Java-学习视频）](https://toutiao.io/k/gjdsc0z) ![](assets/new.png)  
 - [2020-10-30-一文了解分布式一致性算法-EPaxos](https://toutiao.io/k/essq2tr) ![](assets/new.png)  
 - [2020-10-30-PHP-8-所有新特性一览和代码示例](https://toutiao.io/k/4y2ygcn) ![](assets/new.png)  
-- [2020-10-30-快速了解-ASP.NET-Core-Blazor](https://toutiao.io/k/czo40rv) ![](assets/new.png)  
 - [2020-10-30-9-个最好的-Selenium-报告工具](https://toutiao.io/k/fbsbztz) ![](assets/new.png)  
+- [2020-10-30-快速了解-ASP.NET-Core-Blazor](https://toutiao.io/k/czo40rv) ![](assets/new.png)  
 - [2020-10-30-数据分析的-5-种细分方法](https://toutiao.io/k/bizzbi5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
@@ -581,6 +626,7 @@
 </summary>
 
 
+- [2020-10-30-【黑客圈】威斯康辛州共和党在美大选前被黑客盗走-230-万美元](https://sec.thief.one/article_content?a_id=0fdc91ea0824fd8d60e4db594f4b062c) ![](assets/new.png)  
 - [2020-10-30-赠书-|-四大通证类型:价值创新的源头](https://sec.thief.one/article_content?a_id=9d7daf83b216375cb7702a4ecaec8f81) ![](assets/new.png)  
 - [2020-10-30-从bytectf学到的scrapy-redis反序列化漏洞](https://sec.thief.one/article_content?a_id=8d0c087bac81a81d6fe4c53498ff553a) ![](assets/new.png)  
 - [2020-10-30-【全球流行勒索情报追踪】勒索软件团伙在其勒索武器库中添加了...](https://sec.thief.one/article_content?a_id=6b3da3fd3adac389af1c3f12c68d4cbf) ![](assets/new.png)  
@@ -600,7 +646,6 @@
 - [2020-10-30-K神手札:比特币月线收官,震动模式带点小刺激](https://sec.thief.one/article_content?a_id=ec9c4426019f2d424a70f17507da7a9e) ![](assets/new.png)  
 - [2020-10-30-LinkedIn、Instagram-等应用的链接预览功能可能存在信息泄漏风险](https://sec.thief.one/article_content?a_id=342434f5b929c93ba96ead1624161820) ![](assets/new.png)  
 - [2020-10-30-工信部:2020前三季度我国信息安全领域收入959亿元](https://sec.thief.one/article_content?a_id=0f626fdef71a77af2b4b707a9a3d3403) ![](assets/new.png)  
-- [2020-10-30-【公告】JSRC-九月月度英雄榜](https://sec.thief.one/article_content?a_id=7a49f1a2e7b64e876dcd8eb84f73ff32) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

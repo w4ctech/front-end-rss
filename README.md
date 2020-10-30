@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-30 02:48:15，:rocket: 更新条数: +189， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-30 03:04:02，:rocket: 更新条数: +189， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-10-30-秘鲁新冠肺炎累计确诊897594例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5EULv5u7muT8rOjBaaXN201030&isfromapp=1) ![](assets/new.png)  
-- [2020-10-29-哥伦比亚延长选择性隔离政策至11月底-累计新冠肺炎确诊病例超105万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1) ![](assets/new.png)  
-- [2020-10-29-美疾控中心：到11月21日美死亡病例或超25万-西班牙两大区宣布采取封锁边界措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixv5nQZ14W6q8pYYZcbyn201030&isfromapp=1) ![](assets/new.png)  
-- [2020-10-29-​意大利应对疫情专员：日增病例数三周内增长8倍-呼吁民众减少出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVLkoqlT9n57pAnY6OY5S201030&isfromapp=1) ![](assets/new.png)  
-- [2020-10-29-俄罗斯乌法市市长因感染新冠肺炎死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkf8disANxo88mUHovE5201030&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -433,6 +428,11 @@
 </summary>
 
 
+- [2020-10-29-前端组件化埋点的实践](https://juejin.im/post/6889238969616171022) ![](assets/new.png)  
+- [2020-10-29-使用-tabindex-配合-focus-within-巧妙实现父选择器](https://juejin.im/post/6889234341264949255) ![](assets/new.png)  
+- [2020-10-29-前端前沿观察，Cookie-居然可以这样整了](https://juejin.im/post/6889231003697709070) ![](assets/new.png)  
+- [2020-10-29-node.js-沙盒逃逸分析](https://juejin.im/post/6889226643525599240) ![](assets/new.png)  
+- [2020-10-29-你可能不知道的Animation动画技巧与细节](https://juejin.im/post/6889226357851553805) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -537,9 +537,9 @@
 - [2020-10-30-我对云原生软件架构的观察与思考](https://toutiao.io/k/pw9ted3) ![](assets/new.png)  
 - [2020-10-30-React-hooks-最佳实践（更新中）](https://toutiao.io/k/azz9nmu) ![](assets/new.png)  
 - [2020-10-30-Java-应用从源代码到镜像：使用-Docker-多阶段构建](https://toutiao.io/k/6xjsa2r) ![](assets/new.png)  
-- [2020-10-30-带你深入理解不一样的-Flutter](https://toutiao.io/k/m6cvd7l) ![](assets/new.png)  
-- [2020-10-30-Zeppelin-安全机制之-Credentials-使用技巧（补充）](https://toutiao.io/k/ygzafu1) ![](assets/new.png)  
 - [2020-10-30-FutureTask-原理剖析](https://toutiao.io/k/4r945j1) ![](assets/new.png)  
+- [2020-10-30-Zeppelin-安全机制之-Credentials-使用技巧（补充）](https://toutiao.io/k/ygzafu1) ![](assets/new.png)  
+- [2020-10-30-带你深入理解不一样的-Flutter](https://toutiao.io/k/m6cvd7l) ![](assets/new.png)  
 - [2020-10-30-两年半完成逆袭，他终于拿到字节跳动的-Offer](https://toutiao.io/k/whq4czc) ![](assets/new.png)  
 - [2020-10-30-Go-监控的标配：实战-Prometheus](https://toutiao.io/k/asb5mrq) ![](assets/new.png)  
 - [2020-10-30-译-Gas-优化：如何优化存储](https://toutiao.io/k/zgqx19d) ![](assets/new.png)  
@@ -548,8 +548,8 @@
 - [2020-10-30-技术团队问题（一）：当所有需求都是第一优先级时，该怎么办？](https://toutiao.io/k/5mgu0bj) ![](assets/new.png)  
 - [2020-10-30-快速了解-ASP.NET-Core-Blazor](https://toutiao.io/k/czo40rv) ![](assets/new.png)  
 - [2020-10-30-PHP-8-所有新特性一览和代码示例](https://toutiao.io/k/4y2ygcn) ![](assets/new.png)  
-- [2020-10-30-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-30-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-30-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-10-30-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

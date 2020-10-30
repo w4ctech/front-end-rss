@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-30 03:04:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-30 03:09:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -8,3 +8,4 @@
 
 
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 
+- [2020-10-30-有没有大佬在-macappstore-上购买-boom3d-这个软件](https://www.v2ex.com/t/720074) 

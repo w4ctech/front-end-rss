@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "秘鲁新冠肺炎累计确诊897594例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5EULv5u7muT8rOjBaaXN201030&isfromapp=1",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "哥伦比亚延长选择性隔离政策至11月底 累计新冠肺炎确诊病例超105万",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "美疾控中心：到11月21日美死亡病例或超25万 西班牙两大区宣布采取封锁边界措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixv5nQZ14W6q8pYYZcbyn201030&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "​意大利应对疫情专员：日增病例数三周内增长8倍 呼吁民众减少出行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVLkoqlT9n57pAnY6OY5S201030&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "俄罗斯乌法市市长因感染新冠肺炎死亡",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkf8disANxo88mUHovE5201030&isfromapp=1",
+        "date": "2020-10-29"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",

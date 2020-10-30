@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-30 22:10:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-30 22:19:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -418,7 +418,6 @@
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】Mac-safari-可以打开谷歌翻译,Chrome-确打不开](https://www.v2ex.com/t/720327)
 - [【开发者头条】Zeppelin-安全机制之-Credentials-使用技巧（补充）](https://toutiao.io/k/ygzafu1)
 - [【安全热点】安全合规,等保必行:多家单位因未落实网络安全等级保护义务被处罚](https://sec.thief.one/article_content?a_id=7cf66a49848086f6d481de5564b603b4)
 - [【安全热点】工信部:2020前三季度我国信息安全领域收入959亿元](https://sec.thief.one/article_content?a_id=0f626fdef71a77af2b4b707a9a3d3403)
@@ -428,6 +427,7 @@
 - [【安全热点】【安全风险通告】PoC公开,利用门槛低危害大,Oracle-WebLogic-...](https://sec.thief.one/article_content?a_id=2aa6ac6c7c6079de565ad56cedf93df7)
 - [【安全热点】重磅-|-第二届百度大学生网络安全技能大赛,今日起正式启动报名!](https://sec.thief.one/article_content?a_id=e5a9d1d1db553cebd6060f49e4ab31ea)
 - [【安全热点】绿盟科技首批入驻国家网络安全等级保护制度2.0与可信计算3.0攻关示...](https://sec.thief.one/article_content?a_id=25e382e1be9addd23dc63e1eabc4706d)
+- [【安全热点】【中奖名单】《Python安全攻防:渗透测试实战指南》书籍中奖名单公...](https://sec.thief.one/article_content?a_id=d258aea335924d378c59e5df10b48469)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -471,7 +471,6 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
-- [【V2EX】Docker-与虚拟机](https://www.v2ex.com/t/720331)
 - [【开发者头条】gRPC-初探与简单使用](https://toutiao.io/k/sekzpby)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -508,12 +507,11 @@
 
 
 
-- [【V2EX】各位同学大家好-我们是北京简途科技有限公司-:-Beijing-Simple-Way-Ltd,-一家与德国合作的软件咨询服务公司。-目前我们需要招聘，项目管理，产品经理，-Srume-...](https://www.v2ex.com/t/720346)
 - [【开发者头条】Flink-面试题大全](https://toutiao.io/k/nrw0wqs)
-- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
-- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
 - [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
+- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
+- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
 - [【安全热点】持续招聘中-|-还没找到工作吗?高薪岗位等你来!](https://sec.thief.one/article_content?a_id=b725f791f6f00af949064ff37b7446ae)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-30 22:10:55，:rocket: 更新条数: +487， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-30 22:19:22，:rocket: 更新条数: +449， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,26 +533,6 @@
 </summary>
 
 
-- [2020-10-30-大家觉得华为-Mate-40-系列怎么样？](https://www.v2ex.com/t/720370) ![](assets/new.png)  
-- [2020-10-30-诸位高见，帮我看看这个按钮是不是没用](https://www.v2ex.com/t/720369) ![](assets/new.png)  
-- [2020-10-30-遇到了一个-mac-上的木马（疑似），获取到了二进制文件，大家有兴趣看看他做了什么吗？](https://www.v2ex.com/t/720368) ![](assets/new.png)  
-- [2020-10-30-有没有用华为平板的朋友？](https://www.v2ex.com/t/720367) ![](assets/new.png)  
-- [2020-10-30-个人笔记加密方案](https://www.v2ex.com/t/720364) ![](assets/new.png)  
-- [2020-10-30-RSSHub-自建节点分享](https://www.v2ex.com/t/720363) ![](assets/new.png)  
-- [2020-10-30-深夜观贴“借钱”有感，为什么我借钱出去很少有善终？](https://www.v2ex.com/t/720362) ![](assets/new.png)  
-- [2020-10-30-轩辕剑七发布啦](https://www.v2ex.com/t/720361) ![](assets/new.png)  
-- [2020-10-30-三大运营商访问-Cloudflare-的服务地区研究](https://www.v2ex.com/t/720360) ![](assets/new.png)  
-- [2020-10-30-公寓隔壁晚上-0-点后讲话声音很吵怎么办？沟通无果。](https://www.v2ex.com/t/720357) ![](assets/new.png)  
-- [2020-10-30-连续两台-macbookpro-左上的-typec-雷电口失灵](https://www.v2ex.com/t/720356) ![](assets/new.png)  
-- [2020-10-30-如果一个-saas-的国外公司在中国开展业务,需要注意哪些方面?](https://www.v2ex.com/t/720355) ![](assets/new.png)  
-- [2020-10-30-Apple-One-成功发车啦](https://www.v2ex.com/t/720354) ![](assets/new.png)  
-- [2020-10-30-求推荐扫描域名全球所有服务器的工具](https://www.v2ex.com/t/720353) ![](assets/new.png)  
-- [2020-10-30-uni-app-开发的-iOS-版-web-app，以后还可以上架-app-store-吗？](https://www.v2ex.com/t/720352) ![](assets/new.png)  
-- [2020-10-30-一个老旧笔记本的价值](https://www.v2ex.com/t/720351) ![](assets/new.png)  
-- [2020-10-30-用-iPad-外出时-007-standby-是否可行？](https://www.v2ex.com/t/720350) ![](assets/new.png)  
-- [2020-10-30-iPhone12-屏幕清晰度为何比不上-6sp](https://www.v2ex.com/t/720349) ![](assets/new.png)  
-- [2020-10-30-iOS-小程序浮窗啥时候回来呀](https://www.v2ex.com/t/720348) ![](assets/new.png)  
-- [2020-10-30-各位同学大家好-我们是北京简途科技有限公司-:-Beijing-Simple-Way-Ltd,-一家与德国合作的软件咨询服务公司。-目前我们需要招聘，项目管理，产品经理，-Srume-...](https://www.v2ex.com/t/720346) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -609,8 +589,8 @@
 - [2020-10-30-FutureTask-原理剖析](https://toutiao.io/k/4r945j1) ![](assets/new.png)  
 - [2020-10-30-Zeppelin-安全机制之-Credentials-使用技巧（补充）](https://toutiao.io/k/ygzafu1) ![](assets/new.png)  
 - [2020-10-30-Go-监控的标配：实战-Prometheus](https://toutiao.io/k/asb5mrq) ![](assets/new.png)  
-- [2020-10-30-译-Gas-优化：如何优化存储](https://toutiao.io/k/zgqx19d) ![](assets/new.png)  
 - [2020-10-30-技术团队问题（一）：当所有需求都是第一优先级时，该怎么办？](https://toutiao.io/k/5mgu0bj) ![](assets/new.png)  
+- [2020-10-30-译-Gas-优化：如何优化存储](https://toutiao.io/k/zgqx19d) ![](assets/new.png)  
 - [2020-10-30-一文了解分布式一致性算法-EPaxos](https://toutiao.io/k/essq2tr) ![](assets/new.png)  
 - [2020-10-30-PHP-8-所有新特性一览和代码示例](https://toutiao.io/k/4y2ygcn) ![](assets/new.png)  
 - [2020-10-30-快速了解-ASP.NET-Core-Blazor](https://toutiao.io/k/czo40rv) ![](assets/new.png)  

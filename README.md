@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-30 20:47:44，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-30 21:03:51，:rocket: 更新条数: +128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-10-30-斯洛文尼亚新增新冠确诊1798例-单日新增死亡病例达新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0QJ1bYJOxBjrQM5rZExR201030&isfromapp=1) ![](assets/new.png)  
+- [2020-10-30-德国第三季度GDP暴涨8.2%-疫情强势反弹令第四季度蒙阴影](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ssobbfcZx3gg5fuWqoJ201030&isfromapp=1) ![](assets/new.png)  
+- [2020-10-30-美专家：疫情加剧凸显医护人员短缺难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWALtgLXHEgbMHn9EzlkY201030&isfromapp=1) ![](assets/new.png)  
+- [2020-10-30-秘鲁新冠肺炎累计确诊897594例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5EULv5u7muT8rOjBaaXN201030&isfromapp=1) ![](assets/new.png)  
+- [2020-10-29-哥伦比亚延长选择性隔离政策至11月底-累计新冠肺炎确诊病例超105万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

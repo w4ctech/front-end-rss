@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-30 20:47:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-30 21:03:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -390,6 +390,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】秘鲁新冠肺炎累计确诊897594例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5EULv5u7muT8rOjBaaXN201030&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚延长选择性隔离政策至11月底-累计新冠肺炎确诊病例超105万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -404,6 +406,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】斯洛文尼亚新增新冠确诊1798例-单日新增死亡病例达新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0QJ1bYJOxBjrQM5rZExR201030&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】德国第三季度GDP暴涨8.2%-疫情强势反弹令第四季度蒙阴影](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ssobbfcZx3gg5fuWqoJ201030&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美专家：疫情加剧凸显医护人员短缺难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWALtgLXHEgbMHn9EzlkY201030&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -421,9 +426,6 @@
 - [【安全热点】大规模端口扫描工具研究一S扫描器](https://sec.thief.one/article_content?a_id=626a2544abbf449cada81885047bc70b)
 - [【安全热点】CVE-2020-1948-Dubbo-反序列化漏洞](https://sec.thief.one/article_content?a_id=f44c88dd5ece89b2b8040ac85d63428a)
 - [【安全热点】「Dibrary-第二季-」——好书推荐-|DSRC-连续2年Top5-KC](https://sec.thief.one/article_content?a_id=7272dd5a4c99083a7e0e2288b57ffc3d)
-- [【安全热点】科普:WSGI-是什么,看完保证懂](https://sec.thief.one/article_content?a_id=a4002ced460ae28b7b8c7e44102c65c0)
-- [【安全热点】《零信任全景图》正式启动,诚邀企业机构填报信息](https://sec.thief.one/article_content?a_id=5bb085f5c1ea79a8cc5746eebbd0ecf1)
-- [【安全热点】探寻“密钥分发难题”——《了不起的密码》系列-|-第二期-密钥的故事](https://sec.thief.one/article_content?a_id=e192d795ed5f9a6a723eef50bbc01950)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

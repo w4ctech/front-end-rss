@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-30 20:47:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-30 21:03:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-30-斯洛文尼亚新增新冠确诊1798例-单日新增死亡病例达新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0QJ1bYJOxBjrQM5rZExR201030&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-30-德国第三季度GDP暴涨8.2%-疫情强势反弹令第四季度蒙阴影](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ssobbfcZx3gg5fuWqoJ201030&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-30-美专家：疫情加剧凸显医护人员短缺难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWALtgLXHEgbMHn9EzlkY201030&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-30-秘鲁新冠肺炎累计确诊897594例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5EULv5u7muT8rOjBaaXN201030&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-29-哥伦比亚延长选择性隔离政策至11月底-累计新冠肺炎确诊病例超105万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) 

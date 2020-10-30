@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-30 20:47:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-30 21:03:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-30-斯洛文尼亚新增新冠确诊1798例-单日新增死亡病例达新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0QJ1bYJOxBjrQM5rZExR201030&isfromapp=1) 
+- [2020-10-30-德国第三季度GDP暴涨8.2%-疫情强势反弹令第四季度蒙阴影](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ssobbfcZx3gg5fuWqoJ201030&isfromapp=1) 
+- [2020-10-30-美专家：疫情加剧凸显医护人员短缺难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWALtgLXHEgbMHn9EzlkY201030&isfromapp=1) 
 - [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html) 

@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "斯洛文尼亚新增新冠确诊1798例 单日新增死亡病例达新高",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0QJ1bYJOxBjrQM5rZExR201030&isfromapp=1",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "德国第三季度GDP暴涨8.2%  疫情强势反弹令第四季度蒙阴影",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ssobbfcZx3gg5fuWqoJ201030&isfromapp=1",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "美专家：疫情加剧凸显医护人员短缺难题",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWALtgLXHEgbMHn9EzlkY201030&isfromapp=1",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "秘鲁新冠肺炎累计确诊897594例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5EULv5u7muT8rOjBaaXN201030&isfromapp=1",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "哥伦比亚延长选择性隔离政策至11月底 累计新冠肺炎确诊病例超105万",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1",
+        "date": "2020-10-29"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",

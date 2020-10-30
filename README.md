@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-30 18:47:58，:rocket: 更新条数: +394， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-30 19:03:15，:rocket: 更新条数: +360， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -530,26 +530,6 @@
 </summary>
 
 
-- [2020-10-30-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) ![](assets/new.png)  
-- [2020-10-30-DevOps-视角的前后端分离与实战](https://toutiao.io/k/k4sds4w) ![](assets/new.png)  
-- [2020-10-30-我对云原生软件架构的观察与思考](https://toutiao.io/k/pw9ted3) ![](assets/new.png)  
-- [2020-10-30-gRPC-初探与简单使用](https://toutiao.io/k/sekzpby) ![](assets/new.png)  
-- [2020-10-30-Flink-面试题大全](https://toutiao.io/k/nrw0wqs) ![](assets/new.png)  
-- [2020-10-30-两年半完成逆袭，他终于拿到字节跳动的-Offer](https://toutiao.io/k/whq4czc) ![](assets/new.png)  
-- [2020-10-30-Java-应用从源代码到镜像：使用-Docker-多阶段构建](https://toutiao.io/k/6xjsa2r) ![](assets/new.png)  
-- [2020-10-30-一文读懂响应式编程到底是什么？（附赠国外优质-Java-学习视频）](https://toutiao.io/k/gjdsc0z) ![](assets/new.png)  
-- [2020-10-30-React-hooks-最佳实践（更新中）](https://toutiao.io/k/azz9nmu) ![](assets/new.png)  
-- [2020-10-30-带你深入理解不一样的-Flutter](https://toutiao.io/k/m6cvd7l) ![](assets/new.png)  
-- [2020-10-30-9-个最好的-Selenium-报告工具](https://toutiao.io/k/fbsbztz) ![](assets/new.png)  
-- [2020-10-30-FutureTask-原理剖析](https://toutiao.io/k/4r945j1) ![](assets/new.png)  
-- [2020-10-30-Zeppelin-安全机制之-Credentials-使用技巧（补充）](https://toutiao.io/k/ygzafu1) ![](assets/new.png)  
-- [2020-10-30-Go-监控的标配：实战-Prometheus](https://toutiao.io/k/asb5mrq) ![](assets/new.png)  
-- [2020-10-30-技术团队问题（一）：当所有需求都是第一优先级时，该怎么办？](https://toutiao.io/k/5mgu0bj) ![](assets/new.png)  
-- [2020-10-30-译-Gas-优化：如何优化存储](https://toutiao.io/k/zgqx19d) ![](assets/new.png)  
-- [2020-10-30-一文了解分布式一致性算法-EPaxos](https://toutiao.io/k/essq2tr) ![](assets/new.png)  
-- [2020-10-30-PHP-8-所有新特性一览和代码示例](https://toutiao.io/k/4y2ygcn) ![](assets/new.png)  
-- [2020-10-30-快速了解-ASP.NET-Core-Blazor](https://toutiao.io/k/czo40rv) ![](assets/new.png)  
-- [2020-10-30-数据分析的-5-种细分方法](https://toutiao.io/k/bizzbi5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

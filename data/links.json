@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "秘鲁新冠肺炎累计确诊897594例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5EULv5u7muT8rOjBaaXN201030&isfromapp=1",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "哥伦比亚延长选择性隔离政策至11月底 累计新冠肺炎确诊病例超105万",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "美疾控中心：到11月21日美死亡病例或超25万 西班牙两大区宣布采取封锁边界措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixv5nQZ14W6q8pYYZcbyn201030&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "​意大利应对疫情专员：日增病例数三周内增长8倍 呼吁民众减少出行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVLkoqlT9n57pAnY6OY5S201030&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "俄罗斯乌法市市长因感染新冠肺炎死亡",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkf8disANxo88mUHovE5201030&isfromapp=1",
+        "date": "2020-10-29"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -207,7 +233,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -1414,16 +1491,193 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "let,const和var——ES6系列第一",
+        "link": "https://juejin.im/post/6889267749210554375",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "小程序云函数接口设计",
+        "link": "https://juejin.im/post/6889230609269391367",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "快速复习和理解React Hooks的基本用法，面试好帮手",
+        "link": "https://juejin.im/post/6889216661908357133",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "「Redux源码解析」亿点点( 其实是一点点)我的思考;-)",
+        "link": "https://juejin.im/post/6889194239675072520",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "面向对象编程(三)",
+        "link": "https://juejin.im/post/6889069512042217486",
+        "date": "2020-10-29"
+      }
+    ]
   },
   {
-    "rss": "https://rss.shab.fun/jskou/0",
+    "rss": "https://rss.itggg.cn/jskou/0",
     "title": "前端艺术家&&飞冰早报",
     "link": "http://fe.jskou.com/",
-    "items": []
+    "items": [
+      {
+        "title": "【canvas】动画原理の万有引力定律",
+        "link": "https://juejin.im/post/5e213c83f265da3e006b3fc0",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "JavaScript️可视化：事件循环",
+        "link": "https://juejin.im/post/5e218b8af265da3e121824eb",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "JavaScript的强语言之路—另类的JSON序列化与反序列化",
+        "link": "https://juejin.im/post/5e1f23d76fb9a02fec664828",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "自动化部署的一小步，前端搬砖的一大步",
+        "link": "https://juejin.im/post/5e206168f265da3e2b2d7560",
+        "date": "2020-01-18"
+      },
+      {
+        "title": "让App热更多个RN项目的解决方案",
+        "link": "https://juejin.im/post/5df6ecec51882512533a876b",
+        "date": "2019-12-18"
+      },
+      {
+        "title": "Vue Testing Crash Course",
+        "link": "https://dev.to/blacksonic/vue-testing-crash-course-59kl",
+        "date": "2019-12-18"
+      },
+      {
+        "title": "淘宝技术架构演进",
+        "link": "https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "Webpack打包改造--插入自定义内容",
+        "link": "https://juejin.im/post/5df4a220f265da33de3a74b0",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "b站全灰，但我一下把它弄回来了——css 滤镜",
+        "link": "https://juejin.im/post/5df3a049f265da33f8652882",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "以中国传统的孔子和老子的思想来分析忍者代码",
+        "link": "https://juejin.im/post/5df06050e51d4557f26e52e3",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "「从模板消息改版订阅消息」小程序推送",
+        "link": "https://juejin.im/post/5df03c3551882512243f9292",
+        "date": "2019-12-12"
+      },
+      {
+        "title": "Flexbox：使用 Auto Margin 对齐",
+        "link": "https://juejin.im/post/5dedb2fd6fb9a016323d7202",
+        "date": "2019-12-12"
+      },
+      {
+        "title": "9102 年，蚂蚁金服前端是怎么写图表的?",
+        "link": "https://zhuanlan.zhihu.com/p/93963320",
+        "date": "2019-12-09"
+      },
+      {
+        "title": "图表制作可以很简单 - 图表魔方 ChartCube",
+        "link": "https://zhuanlan.zhihu.com/p/94269648",
+        "date": "2019-12-09"
+      },
+      {
+        "title": "微前端的核心价值",
+        "link": "https://zhuanlan.zhihu.com/p/95085796",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）",
+        "link": "https://juejin.im/post/5de6474bf265da33af512598",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "你可能不知道的 JavaScript 代码 Chrome 调试方法",
+        "link": "https://zh.javascript.info/debugging-chrome",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "crypto 前后端加解密简单了解",
+        "link": "https://juejin.im/post/5de70298f265da33b12e8221",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "How to choose a JavaScript code editor",
+        "link": "https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "京喜首页（微信购物入口）跨端开发与优化实践",
+        "link": "https://juejin.im/post/5de66e916fb9a015fd699b46",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "Node.js项目TypeScript改造指南",
+        "link": "https://juejin.im/post/5de4867f51882573135415dd",
+        "date": "2019-12-04"
+      },
+      {
+        "title": "EHTML: HTML Framework that allows you write no JavaScript code at all.",
+        "link": "https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173",
+        "date": "2019-12-04"
+      },
+      {
+        "title": "一起console.log()引发的血案",
+        "link": "https://juejin.im/post/5de3ed6e6fb9a0717f5af175",
+        "date": "2019-12-03"
+      },
+      {
+        "title": "从3 个方面增加代码可读性和可维护性",
+        "link": "https://juejin.im/post/5de3b7c4e51d45777714f34f",
+        "date": "2019-12-03"
+      },
+      {
+        "title": "api请求时长与请求数据类型的设计",
+        "link": "https://juejin.im/post/5de28460e51d4532f87096e2",
+        "date": "2019-12-02"
+      },
+      {
+        "title": "（译）JavaScript的工作原理：事件循环和异步编程的兴起 + 5 种 async/await 更好的编码方式",
+        "link": "https://juejin.im/post/5ddf3dce6fb9a071a254721b",
+        "date": "2019-12-02"
+      },
+      {
+        "title": "JavaScript 是怎么工作的：内存管理及怎么处理四种常见的内存泄露",
+        "link": "https://juejin.im/post/5de08bd26fb9a071bb7cab56",
+        "date": "2019-12-02"
+      },
+      {
+        "title": "没有用过这些插件，别说你在用vscode",
+        "link": "https://juejin.im/post/5dc97976e51d45066f3a7b6b",
+        "date": "2019-11-13"
+      },
+      {
+        "title": "云凤蝶可视化搭建的推导与实现",
+        "link": "https://zhuanlan.zhihu.com/p/90746742",
+        "date": "2019-11-13"
+      },
+      {
+        "title": "动画：面试官问我如何在 1 亿数据中快速查找某一整数？",
+        "link": "https://juejin.im/post/5dc786026fb9a04a7847f56a",
+        "date": "2019-11-13"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/docschina/jsweekly",
@@ -1444,22 +1698,500 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "开源一个 ast 插件 js 自定义检测点控制流混淆",
+        "link": "https://www.v2ex.com/t/720292",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "我有俩个苹果笔记本电池都提醒了，建议维修。大家给点建议，是拿到苹果直营店修，还是自己在某东，某宝，买个自己安装合适？",
+        "link": "https://www.v2ex.com/t/720291",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "双十一买 AirPods Pro 是否可行？",
+        "link": "https://www.v2ex.com/t/720290",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "使用 render 函数在 canvas 中创建 “dom”，生成海报图",
+        "link": "https://www.v2ex.com/t/720288",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "老哥们给个建议",
+        "link": "https://www.v2ex.com/t/720287",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "testflight 5 天了，还是在 [正在等待审核] ，有什么办法可以解决这个问题？",
+        "link": "https://www.v2ex.com/t/720286",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "请大家帮忙看看 ssh 远程命令如何避免被本地解析？",
+        "link": "https://www.v2ex.com/t/720284",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "为什么有的人一讲话就非常讨喜搞笑很会说话",
+        "link": "https://www.v2ex.com/t/720283",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "热知识， 256g12 比 128g12 重 1g。",
+        "link": "https://www.v2ex.com/t/720282",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "Selenium 如何处理 Basic Auth 的输入框的问题？",
+        "link": "https://www.v2ex.com/t/720281",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[杭州] 电竞和体育赛事平台急招靠谱 Java 工程狮~",
+        "link": "https://www.v2ex.com/t/720279",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "服务器 ssh 改了非 22 端口号，忘记了端口号，怎么办？",
+        "link": "https://www.v2ex.com/t/720278",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "A new iOS update is now available. Please update from the iOS 14 beta.",
+        "link": "https://www.v2ex.com/t/720277",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "入坑程序员 5 年了，第一次在端团队中排倒数第一，心里五味杂陈～～～",
+        "link": "https://www.v2ex.com/t/720275",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "请教一种类似完型填空+智能写作的 nlp 项目",
+        "link": "https://www.v2ex.com/t/720274",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "VisualVM 监控程序，已加载类数量没变，但是 Class Loader Time 一直在增加，是什么情况？",
+        "link": "https://www.v2ex.com/t/720273",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "iPhone x ios14.1 + airpods2 听歌声音特别小",
+        "link": "https://www.v2ex.com/t/720272",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "我爱我家租房被坑！对方拒绝赔偿！",
+        "link": "https://www.v2ex.com/t/720271",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "24 期免息分期相当于打几折？",
+        "link": "https://www.v2ex.com/t/720269",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "咳咳，做了个 youtube 频道欢迎订阅",
+        "link": "https://www.v2ex.com/t/720268",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "shell 怎么将变量中的特殊字符替换掉",
+        "link": "https://www.v2ex.com/t/720267",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "🔈🔈🔈 苏州的小伙伴们可以进来看看，外企内推 内推",
+        "link": "https://www.v2ex.com/t/720266",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "微信小程序搜 LaiShop 刚出炉还热乎，点进来看商城后台地址",
+        "link": "https://www.v2ex.com/t/720265",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "You Dont Know JS 文档",
+        "link": "https://www.v2ex.com/t/720264",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "PDD 的百亿补贴的 MBP 有人试水吗， i5+16+1t 只需要 13000。心动想买，但是说是不保价双十一",
+        "link": "https://www.v2ex.com/t/720263",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "电脑时不时不认 SATA 上的机械硬盘，玄学问题",
+        "link": "https://www.v2ex.com/t/720262",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "有没有那种不能联网的本地微博客户端？",
+        "link": "https://www.v2ex.com/t/720261",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "快下班了，不知道还有没有人来看了",
+        "link": "https://www.v2ex.com/t/720260",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "在微信聊天页面不会自动息屏？",
+        "link": "https://www.v2ex.com/t/720259",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "恳请大佬们进来~分享下管理经验",
+        "link": "https://www.v2ex.com/t/720258",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "支付宝上面的自动续保保险及其他互联网保险，自动续保是真正的续保吗",
+        "link": "https://www.v2ex.com/t/720257",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[西安]内推 ThoughtWorks - 前端、 Java , 有想法回西安或者目前在西安的打工人，来吧（我们组早 10 晚 6 一周五天）",
+        "link": "https://www.v2ex.com/t/720256",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "现在还有很多学历造假的吗",
+        "link": "https://www.v2ex.com/t/720255",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "想问一下一个小程序平台的分发策略怎么样制定？",
+        "link": "https://www.v2ex.com/t/720254",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "RabbitMQ 分布式事务 最终一致性",
+        "link": "https://www.v2ex.com/t/720253",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "个人主页 最近回复了未显示那条，但\"创建的更多回复\"里显示了",
+        "link": "https://www.v2ex.com/t/720252",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "用米家智能家居的大佬们，你们的自动化都有什么？",
+        "link": "https://www.v2ex.com/t/720251",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "如何让 Play 商店等谷歌服务以英文显示全部内容？",
+        "link": "https://www.v2ex.com/t/720250",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "mini6",
+        "link": "https://www.v2ex.com/t/720249",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "有人用过 OKD 和 OpenShift 吗",
+        "link": "https://www.v2ex.com/t/720248",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "苹果官网翻新手表可以入手吗",
+        "link": "https://www.v2ex.com/t/720247",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "国企可以干一辈子吗",
+        "link": "https://www.v2ex.com/t/720244",
+        "date": "2020-10-30"
+      }
+    ]
   },
   {
-    "rss": "https://rss.shab.fun/blogread/newest",
+    "rss": "https://rss.itggg.cn/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "云原生数据湖解决方案打破数据孤岛，大数据驱动互娱行业发展 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13850&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772902%3Futm_content%3Dg_1000196483%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "记录 Webpack 从版本 4 更新至 5 所遇到的问题 (quickapp.lovejade.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13849&url=https%3A%2F%2Fquickapp.lovejade.cn%2Frecord-issues-encountered-with-webpack-update-from-version-4-to-5%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "OpenKruise：解放 DaemonSet 运维之路 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13848&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776694%3Futm_content%3Dg_1000196482%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "白话科普，10s 了解 API (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13847&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F270301991%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "天猫国际通过Hologres进行排行榜的实时交互式分析 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13846&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776646%3Futm_content%3Dg_1000196481%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "接入阿里巴巴商业操作系统，麦当劳中国双11发力数字化 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13845&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776271%3Futm_content%3Dg_1000196480%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "持续定义Saas模式云数据仓库+实时搜索 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13844&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775539%3Futm_content%3Dg_1000196479%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "如何通过 Serverless 技术降低微服务应用资源成本？ (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13843&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776579%3Futm_content%3Dg_1000195933%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "人工智能如何提升大数据存储与管理效率？ (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13842&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776492%3Futm_content%3Dg_1000195932%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "谈谈我对零售云在云原生总结与思考 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13841&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776435%3Futm_content%3Dg_1000195931%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "持续定义SaaS模式云数据仓库+AI (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13840&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775538%3Futm_content%3Dg_1000195930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "洞察构建未来的技术趋势，第23期技术雷达正式发布！ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13839&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-23%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "Flink SQL 1.11 on Zeppelin 平台化实践 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13838&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776079%3Futm_content%3Dg_1000195929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "再次升级-Kubernetes Ingress监控进入智能时代 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13837&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775905%3Futm_content%3Dg_1000195272%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "技术选型：为什么批处理我们却选择了Flink (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13836&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F269484708%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "持续定义SaaS模式云数据仓库+数据银行 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13835&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775399%3Futm_content%3Dg_1000195271%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "Serverless对研发效能的变革和创新 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13834&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776428%3Futm_content%3Dg_1000195270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "拨开时间的迷雾 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13833&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatetime-in-software-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "阿里云推出业内首个云原生企业级数据湖解决方案：将在今年双11大规模应用 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13832&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776437%3Futm_content%3Dg_1000195269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "网易：Flink + Iceberg 数据湖探索与实践 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13831&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776257%3Futm_content%3Dg_1000195268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-10-30"
+      }
+    ]
   },
   {
-    "rss": "https://rss.shab.fun/toutiao/today",
+    "rss": "https://rss.itggg.cn/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "什么是真正的程序员？| 码农周刊第 323 期",
+        "link": "https://toutiao.io/k/v08ikpz",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "gRPC 初探与简单使用",
+        "link": "https://toutiao.io/k/sekzpby",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "DevOps 视角的前后端分离与实战",
+        "link": "https://toutiao.io/k/k4sds4w",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "Flink 面试题大全",
+        "link": "https://toutiao.io/k/nrw0wqs",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "我对云原生软件架构的观察与思考",
+        "link": "https://toutiao.io/k/pw9ted3",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "Java 应用从源代码到镜像：使用 Docker 多阶段构建",
+        "link": "https://toutiao.io/k/6xjsa2r",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "两年半完成逆袭，他终于拿到字节跳动的 Offer",
+        "link": "https://toutiao.io/k/whq4czc",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "React hooks 最佳实践（更新中）",
+        "link": "https://toutiao.io/k/azz9nmu",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "带你深入理解不一样的 Flutter",
+        "link": "https://toutiao.io/k/m6cvd7l",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "FutureTask 原理剖析",
+        "link": "https://toutiao.io/k/4r945j1",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "Zeppelin 安全机制之 Credentials 使用技巧（补充）",
+        "link": "https://toutiao.io/k/ygzafu1",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "Go 监控的标配：实战 Prometheus",
+        "link": "https://toutiao.io/k/asb5mrq",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[译] Gas 优化：如何优化存储",
+        "link": "https://toutiao.io/k/zgqx19d",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "技术团队问题（一）：当所有需求都是第一优先级时，该怎么办？",
+        "link": "https://toutiao.io/k/5mgu0bj",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "一文了解分布式一致性算法 EPaxos",
+        "link": "https://toutiao.io/k/essq2tr",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "一文读懂响应式编程到底是什么？（附赠国外优质 Java 学习视频）",
+        "link": "https://toutiao.io/k/gjdsc0z",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "PHP 8 所有新特性一览和代码示例",
+        "link": "https://toutiao.io/k/4y2ygcn",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "快速了解 ASP.NET Core Blazor",
+        "link": "https://toutiao.io/k/czo40rv",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "9 个最好的 Selenium 报告工具",
+        "link": "https://toutiao.io/k/fbsbztz",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "数据分析的 5 种细分方法",
+        "link": "https://toutiao.io/k/bizzbi5",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 哦，原来是这么回事：Golang 中的一些常识",
+        "link": "https://toutiao.io/k/lxcx8vb",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-30"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

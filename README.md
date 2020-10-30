@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-30 01:35:31，:rocket: 更新条数: +3003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-30 01:47:46，:rocket: 更新条数: +248， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-10-29-10月29日全国新增新冠25例-本土山东1例](http://m.china.caixin.com/m/2020-10-30/101620371.html) ![](assets/new.png)  
-- [2020-10-29-青岛市第三人民医院隔离封闭病区护士确诊新冠-密接71人](http://m.china.caixin.com/m/2020-10-30/101620384.html) ![](assets/new.png)  
-- [2020-10-29-大流行手记|10月29日：法国重症床位告急-俄罗斯申请疫苗紧急使用授权](https://m.caixin.com/m/2020-10-30/101620397.html) ![](assets/new.png)  
-- [2020-10-28-最新海外疫情：新冠感染超4434万-累计死亡近117万](http://m.international.caixin.com/m/2020-10-29/101620332.html) ![](assets/new.png)  
-- [2020-10-28-【境内疫情观察】新疆新增23例本土确诊病例（10月28日）](http://m.database.caixin.com/m/2020-10-29/101620127.html) ![](assets/new.png)  
-- [2020-10-28-大流行手记|10月28日：美国两周9.4万儿童感染-意大利爆发反防疫措施示威](https://m.caixin.com/m/2020-10-29/101620020.html) ![](assets/new.png)  
-- [2020-10-28-欧美疫情走高道琼斯大跌943点-德法再启抗疫封锁](http://m.international.caixin.com/m/2020-10-29/101619993.html) ![](assets/new.png)  
-- [2020-10-27-【境内疫情观察】新疆新增22例本土确诊病例（10月27日）](http://m.database.caixin.com/m/2020-10-28/101619702.html) ![](assets/new.png)  
-- [2020-10-27-大流行手记|10月27日：欧洲再成疫情“震中”-俄罗斯扩大疫苗生产规模](https://m.caixin.com/m/2020-10-28/101619557.html) ![](assets/new.png)  
-- [2020-10-26-香港连续两日无本地新增病例-内地港人11月回港免隔离](https://m.caixin.com/m/2020-10-27/101619499.html) ![](assets/new.png)  
-- [2020-10-26-新疆喀什新增5例确诊病例-新增19例无症状感染者](http://m.china.caixin.com/m/2020-10-27/101619422.html) ![](assets/new.png)  
-- [2020-10-26-独家|喀什疫情暴发地为一制衣厂](https://m.caixin.com/m/2020-10-27/101619174.html) ![](assets/new.png)  
-- [2020-10-26-【境内疫情观察】新疆喀什新增26例无症状感染者（10月26日）](http://m.database.caixin.com/m/2020-10-27/101619232.html) ![](assets/new.png)  
-- [2020-10-26-大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html) ![](assets/new.png)  
-- [2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) ![](assets/new.png)  
-- [2020-10-25-【境内疫情观察】新疆喀什新增137例无症状感染者（10月25日）](http://m.database.caixin.com/m/2020-10-26/101618828.html) ![](assets/new.png)  
-- [2020-10-25-大流行手记|10月25日：全球日新增连续3日创新高-两项疫苗临床试验恢复](https://m.caixin.com/m/2020-10-26/101618721.html) ![](assets/new.png)  
-- [2020-10-25-【图集】新疆喀什启动一级响应-老城街道人流稀少](http://m.photos.caixin.com/m/2020-10-26/101618711.html) ![](assets/new.png)  
-- [2020-10-24-新疆喀什新增137例无症状感染者-均与首例感染者父母所在工厂关联](https://m.caixin.com/m/2020-10-25/101618657.html) ![](assets/new.png)  
-- [2020-10-24-【境内疫情观察】新疆喀什新增1例本土无症状感染者（10月24日）](http://m.database.caixin.com/m/2020-10-25/101618612.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +513,13 @@
 </summary>
 
 
+- [2020-10-30-V-友们有好用的-USB3.0-集线器/分线器-推荐的吗，一拖四一拖七那种](https://www.v2ex.com/t/720030) ![](assets/new.png)  
+- [2020-10-30-你们的-beta-会弹窗吗？现有新的-ios-更新可用。请从-ios14beta-版进行更新。](https://www.v2ex.com/t/720029) ![](assets/new.png)  
+- [2020-10-30-Spring-中，@Configuration-类-Bean-与-@Controller/@Service-这类-Bean-注册在-IOC-容器中是否在两个阶段？能否安排一个-ApplicationListenner-监听这两者之间...](https://www.v2ex.com/t/720028) ![](assets/new.png)  
+- [2020-10-30-相亲的好还是自己谈的好？](https://www.v2ex.com/t/720027) ![](assets/new.png)  
+- [2020-10-30-三七互娱内推-社招-初/中-PHP-工程师-13-25K-广州](https://www.v2ex.com/t/720026) ![](assets/new.png)  
+- [2020-10-30-前端开发（react）2-年及以上内推----小步网络/宝安坪洲](https://www.v2ex.com/t/720025) ![](assets/new.png)  
+- [2020-10-30-不懂就问，-iPhone-如何设置每三天响一次](https://www.v2ex.com/t/720024) ![](assets/new.png)  
 - [2020-10-30-收到的简历有错字，你们一般怎么处理？](https://www.v2ex.com/t/720023) ![](assets/new.png)  
 - [2020-10-30-B-站-UP-主稚晖君好像要从-oppp-跳槽到华为了，拿的还是华为的天才少年计划-offer](https://www.v2ex.com/t/720022) ![](assets/new.png)  
 - [2020-10-30-Google-App-首页-feed-无法更新！](https://www.v2ex.com/t/720021) ![](assets/new.png)  
@@ -546,13 +533,6 @@
 - [2020-10-30-iOS-在-14.2beta-频繁弹出更新，但是检查更新又没有更新。](https://www.v2ex.com/t/720011) ![](assets/new.png)  
 - [2020-10-30-各位有没有用过-fineBI-web-嵌入的](https://www.v2ex.com/t/720010) ![](assets/new.png)  
 - [2020-10-30-图拉斯旗舰店的-iphone12-磁吸充电器怎么样](https://www.v2ex.com/t/720009) ![](assets/new.png)  
-- [2020-10-30-噢嚯，移动花卡要绝版了？](https://www.v2ex.com/t/720008) ![](assets/new.png)  
-- [2020-10-30-车险续保的问题？](https://www.v2ex.com/t/720007) ![](assets/new.png)  
-- [2020-10-30-有没有程序员对球鞋等潮品感兴趣的](https://www.v2ex.com/t/720006) ![](assets/new.png)  
-- [2020-10-30-试用了-8-款手机浏览器后，我才知道它们有多乱](https://www.v2ex.com/t/720005) ![](assets/new.png)  
-- [2020-10-30-Caldigit-TS3+上的-USB-C-口无法达到-10Gbps-吗？](https://www.v2ex.com/t/720003) ![](assets/new.png)  
-- [2020-10-30-AirPods-Pro-左耳放进充电盒里时常充不进去电-怎么解决？](https://www.v2ex.com/t/720002) ![](assets/new.png)  
-- [2020-10-30-NGINX-做静态服务器，套-CF，为什么会对部分确实存在文件返回-404？](https://www.v2ex.com/t/720001) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -598,23 +578,23 @@
 - [2020-10-30-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) ![](assets/new.png)  
 - [2020-10-30-DevOps-视角的前后端分离与实战](https://toutiao.io/k/k4sds4w) ![](assets/new.png)  
 - [2020-10-30-gRPC-初探与简单使用](https://toutiao.io/k/sekzpby) ![](assets/new.png)  
-- [2020-10-30-我对云原生软件架构的观察与思考](https://toutiao.io/k/pw9ted3) ![](assets/new.png)  
 - [2020-10-30-Flink-面试题大全](https://toutiao.io/k/nrw0wqs) ![](assets/new.png)  
 - [2020-10-30-React-hooks-最佳实践（更新中）](https://toutiao.io/k/azz9nmu) ![](assets/new.png)  
+- [2020-10-30-我对云原生软件架构的观察与思考](https://toutiao.io/k/pw9ted3) ![](assets/new.png)  
 - [2020-10-30-Java-应用从源代码到镜像：使用-Docker-多阶段构建](https://toutiao.io/k/6xjsa2r) ![](assets/new.png)  
 - [2020-10-30-Zeppelin-安全机制之-Credentials-使用技巧（补充）](https://toutiao.io/k/ygzafu1) ![](assets/new.png)  
-- [2020-10-30-FutureTask-原理剖析](https://toutiao.io/k/4r945j1) ![](assets/new.png)  
 - [2020-10-30-带你深入理解不一样的-Flutter](https://toutiao.io/k/m6cvd7l) ![](assets/new.png)  
-- [2020-10-30-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-10-30-FutureTask-原理剖析](https://toutiao.io/k/4r945j1) ![](assets/new.png)  
 - [2020-10-30-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
-- [2020-10-30-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
-- [2020-10-30-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
-- [2020-10-30-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-30-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-10-30-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
-- [2020-10-30-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
-- [2020-10-30-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
 - [2020-10-30-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
+- [2020-10-30-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
+- [2020-10-30-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-10-30-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-30-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) ![](assets/new.png)  
+- [2020-10-30-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-10-30-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-10-30-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
+- [2020-10-30-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

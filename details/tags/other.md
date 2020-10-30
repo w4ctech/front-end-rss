@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-30 08:33:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-30 08:48:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-29-美疾控中心：到11月21日美死亡病例或超25万-西班牙两大区宣布采取封锁边界措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixv5nQZ14W6q8pYYZcbyn201030&isfromapp=1) 
+- [2020-10-29-​意大利应对疫情专员：日增病例数三周内增长8倍-呼吁民众减少出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVLkoqlT9n57pAnY6OY5S201030&isfromapp=1) 
 - [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html) 
@@ -14,26 +16,6 @@
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 - [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
-- [2020-10-30-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) 
-- [2020-10-30-DevOps-视角的前后端分离与实战](https://toutiao.io/k/k4sds4w) 
-- [2020-10-30-我对云原生软件架构的观察与思考](https://toutiao.io/k/pw9ted3) 
-- [2020-10-30-两年半完成逆袭，他终于拿到字节跳动的-Offer](https://toutiao.io/k/whq4czc) 
-- [2020-10-30-FutureTask-原理剖析](https://toutiao.io/k/4r945j1) 
-- [2020-10-30-Go-监控的标配：实战-Prometheus](https://toutiao.io/k/asb5mrq) 
-- [2020-10-30-技术团队问题（一）：当所有需求都是第一优先级时，该怎么办？](https://toutiao.io/k/5mgu0bj) 
-- [2020-10-30-快速了解-ASP.NET-Core-Blazor](https://toutiao.io/k/czo40rv) 
-- [2020-10-30-PHP-8-所有新特性一览和代码示例](https://toutiao.io/k/4y2ygcn) 
-- [2020-10-30-9-个最好的-Selenium-报告工具](https://toutiao.io/k/fbsbztz) 
-- [2020-10-30-数据分析的-5-种细分方法](https://toutiao.io/k/bizzbi5) 
-- [2020-10-30-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) 
-- [2020-10-30-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
-- [2020-10-30-推荐-哦，原来是这么回事：Golang-中的一些常识](https://toutiao.io/k/lxcx8vb) 
-- [2020-10-30-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
-- [2020-10-30-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
-- [2020-10-30-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
-- [2020-10-30-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
-- [2020-10-30-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) 
-- [2020-10-30-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
 - [2020-10-29-面向对象:喜欢文学、热爱生活的妹子](https://sec.thief.one/article_content?a_id=a7b593fd9bdd611f58bbd2b8835cf13b) 
 - [2020-10-29-2.5亿被腰围改变的中国人,哪个省胖子最多?](https://sec.thief.one/article_content?a_id=4adad6c583b21a4060d5f88f2cba47b4) 
 - [2020-10-29-速看!2020ByteCTF初赛官方Writeup!](https://sec.thief.one/article_content?a_id=ca3441a43858ffcb0e5a6667d98b512c) 

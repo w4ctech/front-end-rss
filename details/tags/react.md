@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-30 04:47:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-30 05:03:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -6,7 +6,3 @@
 > 关键字：`React`、`Rax`、`Nerv`、`Redux`、`useEffect`、`Hooks`
 
 
-
-- [2020-10-29-🏆-技术专题第六期-|-谈谈-React-17-的那些事！](https://juejin.im/post/6889264500977958920) 
-- [2020-10-29-🏆-技术专题第六期-|-谈谈-React-17-的那些事！](https://juejin.im/post/6889254200509726727) 
-- [2020-10-29-我在大厂写React，学到了什么？性能优化篇](https://juejin.im/post/6889247428797530126) 

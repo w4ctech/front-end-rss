@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "秘鲁新冠肺炎累计确诊897594例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5EULv5u7muT8rOjBaaXN201030&isfromapp=1",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "哥伦比亚延长选择性隔离政策至11月底 累计新冠肺炎确诊病例超105万",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "美疾控中心：到11月21日美死亡病例或超25万 西班牙两大区宣布采取封锁边界措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixv5nQZ14W6q8pYYZcbyn201030&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "​意大利应对疫情专员：日增病例数三周内增长8倍 呼吁民众减少出行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVLkoqlT9n57pAnY6OY5S201030&isfromapp=1",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "俄罗斯乌法市市长因感染新冠肺炎死亡",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkf8disANxo88mUHovE5201030&isfromapp=1",
+        "date": "2020-10-29"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -304,10 +330,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "Serverless 对研发效能的变革和创新",
+        "link": "https://juejin.im/post/6889292894109171726",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "利用vue3+ts实现管理后台（增删改查）",
+        "link": "https://juejin.im/post/6889246674401624078",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "小程序-实现自定义组件以及自定义组件间的通信",
+        "link": "https://juejin.im/post/6889218680975491085",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "用 JavaScript 实现一个 TicTacToe 游戏 —— 编程训练",
+        "link": "https://juejin.im/post/6889203973312643086",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "前端学数据结构与算法（十）：深入理解快速排序",
+        "link": "https://juejin.im/post/6889099509834612743",
+        "date": "2020-10-29"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -485,211 +537,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
+    "rss": "https://rss.shab.fun/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": [
-      {
-        "title": "百度 AI 招聘前端研发工程师~",
-        "link": "https://www.v2ex.com/t/720179",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "MacBook 触摸板 没有以前好用了？",
-        "link": "https://www.v2ex.com/t/720178",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "家中装修路由器求推荐",
-        "link": "https://www.v2ex.com/t/720177",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "有预约 iPhone 12 澳门版的吗？",
-        "link": "https://www.v2ex.com/t/720176",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "京东竟然可以 8.5 折退款",
-        "link": "https://www.v2ex.com/t/720175",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "btc 怎么购买东西",
-        "link": "https://www.v2ex.com/t/720174",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "活久见，共享相册收到广告",
-        "link": "https://www.v2ex.com/t/720172",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "这个共有产权住房是大大的福利吗",
-        "link": "https://www.v2ex.com/t/720171",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "AMD NB！ AMD YES！",
-        "link": "https://www.v2ex.com/t/720170",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "有 V 友做淘宝客的吗",
-        "link": "https://www.v2ex.com/t/720168",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "福昕阅读器(Foxit PDF Reader)升级到 10.x 版本后没有了虚拟打印机",
-        "link": "https://www.v2ex.com/t/720167",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "我想发个车， APPLE MUSIC",
-        "link": "https://www.v2ex.com/t/720166",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "从一个想法看 FreeBSD 是商业化还是学院派",
-        "link": "https://www.v2ex.com/t/720165",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "酷炫的切换特效",
-        "link": "https://www.v2ex.com/t/720164",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "0316 地区有踢球的吗，周末约一波啊",
-        "link": "https://www.v2ex.com/t/720163",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "有没有杭州的 V 友了解 之江实验室呀？",
-        "link": "https://www.v2ex.com/t/720162",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "讯代理有了解的吗？这么任性的吗？",
-        "link": "https://www.v2ex.com/t/720161",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "迫于双 11 的剁手冲动，求老哥们推荐一款运动蓝牙耳机",
-        "link": "https://www.v2ex.com/t/720160",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "是选择深信服工作还是继续读研？",
-        "link": "https://www.v2ex.com/t/720157",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "一人一句自建房的经验或者坑",
-        "link": "https://www.v2ex.com/t/720156",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "掌上生活 参与的有 5 元还款金",
-        "link": "https://www.v2ex.com/t/720155",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[求助] 最近老是提示要更新 Apple ID 设置",
-        "link": "https://www.v2ex.com/t/720154",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "不想学八股文了，现在跨平台(IOS/Android)开发 APP 的主流技术是啥啊， Flutter， Vue， React？想整个 APP 来玩",
-        "link": "https://www.v2ex.com/t/720153",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "为什么在 Feign 的自定义 decoder 中使用 ObjectMapper 的方法会 fallback？",
-        "link": "https://www.v2ex.com/t/720152",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "FreeBSD 发布 2020 年 Q3 季度报告",
-        "link": "https://www.v2ex.com/t/720151",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "Dropbox family plan 开车招乘客",
-        "link": "https://www.v2ex.com/t/720150",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "一篇 8 年前的文章，關於碎片化的，現在重讀毫無違和。分享給大家。",
-        "link": "https://www.v2ex.com/t/720149",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "聊聊高速应急车道",
-        "link": "https://www.v2ex.com/t/720148",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "如何編譯 Telegram-iOS 並在 TestFlight 上分發",
-        "link": "https://www.v2ex.com/t/720146",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "有什么移动 app，支持使用域名通过 TCP/IP 端口连接网络打印机",
-        "link": "https://www.v2ex.com/t/720144",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[海南海口][深圳] [18-35K] 动动电竞招聘 Ruby / Java / 大数据开发 / 数据产品经理 [欢迎其他城市的同学 relocate 来海口]",
-        "link": "https://www.v2ex.com/t/720143",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "window 备份手机微信聊天记录失败问题",
-        "link": "https://www.v2ex.com/t/720142",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "（2020 年底中国大陆）一个问题：万一我被隔离了，我的猫怎么办？",
-        "link": "https://www.v2ex.com/t/720141",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "学习 VUE，真的算的上是一门好手艺吗？看隔壁 4.5k 月薪 VUE 程序员贴有感。",
-        "link": "https://www.v2ex.com/t/720140",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[offer 选择] [转行游戏开发] 请教一下 v 友的意见",
-        "link": "https://www.v2ex.com/t/720139",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "有裸机党吗？来问问 12pro 的背面磨砂玻璃容易刮花吗？",
-        "link": "https://www.v2ex.com/t/720138",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "有刷题的老哥们么，刷题有什么正确姿势么",
-        "link": "https://www.v2ex.com/t/720137",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "亚马逊云（基本白嫖了）",
-        "link": "https://www.v2ex.com/t/720136",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "哪位大佬收藏了 iCloud1.0 的 Win 版本的软件，求一个。",
-        "link": "https://www.v2ex.com/t/720135",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "小米帐号锁定太恶心了",
-        "link": "https://www.v2ex.com/t/720132",
-        "date": "2020-10-30"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -904,13 +755,58 @@
         "date": "2020-10-30"
       },
       {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
         "date": "2020-10-30"
       },
       {
         "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
         "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-10-30"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
         "date": "2020-10-30"
       },
       {
@@ -921,51 +817,6 @@
       {
         "title": "[推荐] Redis 集群搭建采坑总结",
         "link": "https://toutiao.io/k/b60qswo",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
-        "link": "https://toutiao.io/k/z6p6anw",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
-        "link": "https://toutiao.io/k/9j801i6",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
-        "link": "https://toutiao.io/k/kqvczix",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
         "date": "2020-10-30"
       }
     ]

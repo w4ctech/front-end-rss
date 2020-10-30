@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-30 06:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-30 07:03:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -9,4 +9,5 @@
 
 - [2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html) 
 - [2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html) 
+- [2020-10-29-小程序-实现自定义组件以及自定义组件间的通信](https://juejin.im/post/6889218680975491085) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 

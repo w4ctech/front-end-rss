@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-30 02:18:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-30 02:32:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -387,9 +387,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚延长选择性隔离政策至11月底-累计新冠肺炎确诊病例超105万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】俄罗斯乌法市市长因感染新冠肺炎死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkf8disANxo88mUHovE5201030&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】希腊连续三日新增新冠肺炎确诊病例过千例-总理计划宣布新限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLeDmyzoxFfHPeIErmBaT201030&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -404,8 +401,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】美疾控中心：到11月21日美死亡病例或超25万-西班牙两大区宣布采取封锁边界措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixv5nQZ14W6q8pYYZcbyn201030&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​意大利应对疫情专员：日增病例数三周内增长8倍-呼吁民众减少出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVLkoqlT9n57pAnY6OY5S201030&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -424,6 +419,8 @@
 - [【安全热点】CTF经典赛题丨这个EXP逆向解题思路太到位了,值得收藏!](https://sec.thief.one/article_content?a_id=8fb0e4455b2c78055cfd41af6918b304)
 - [【安全热点】Avanti在怀俄明州推出加密友好型银行](https://sec.thief.one/article_content?a_id=99244484a12beecd9680ff1da8446b6e)
 - [【安全热点】SRC发展到今天有必要考虑考虑了](https://sec.thief.one/article_content?a_id=ad5329d21004ce7fe3750d55a07e149b)
+- [【安全热点】关于windows下的ACL与dcsync](https://sec.thief.one/article_content?a_id=17b390c02970e23150491761cf05d3ca)
+- [【安全热点】defi里的新墙头,一天反弹超60%](https://sec.thief.one/article_content?a_id=e0d14c6f0ec310b70a3cdec49c5a4a5f)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

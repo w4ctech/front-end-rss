@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-30 02:18:50，:rocket: 更新条数: +128， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-30 02:32:59，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-10-29-哥伦比亚延长选择性隔离政策至11月底-累计新冠肺炎确诊病例超105万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1) ![](assets/new.png)  
-- [2020-10-29-美疾控中心：到11月21日美死亡病例或超25万-西班牙两大区宣布采取封锁边界措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixv5nQZ14W6q8pYYZcbyn201030&isfromapp=1) ![](assets/new.png)  
-- [2020-10-29-​意大利应对疫情专员：日增病例数三周内增长8倍-呼吁民众减少出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVLkoqlT9n57pAnY6OY5S201030&isfromapp=1) ![](assets/new.png)  
-- [2020-10-29-俄罗斯乌法市市长因感染新冠肺炎死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkf8disANxo88mUHovE5201030&isfromapp=1) ![](assets/new.png)  
-- [2020-10-29-希腊连续三日新增新冠肺炎确诊病例过千例-总理计划宣布新限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLeDmyzoxFfHPeIErmBaT201030&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

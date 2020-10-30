@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-30 07:18:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-30 07:33:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -50,6 +50,7 @@
 - [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
 - [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 - [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
+- [【V2EX】不想学八股文了，现在跨平台IOS/Android开发-APP-的主流技术是啥啊，-Flutter，-Vue，-React？想整个-APP-来玩](https://www.v2ex.com/t/720153)
 - [【开发者头条】React-hooks-最佳实践（更新中）](https://toutiao.io/k/azz9nmu)
 - [......【查看更多】......](./details/tags/react.md)
 
@@ -74,6 +75,7 @@
 - [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
+- [【掘金前端】利用vue3+ts实现管理后台（增删改查）](https://juejin.im/post/6889246674401624078)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [【安全热点】这或许是最美的Vue+Element开源后台管理UI](https://sec.thief.one/article_content?a_id=09bef7dd358595334c2da8a63fc7e35f)
 - [......【查看更多】......](./details/tags/vue.md)
@@ -356,6 +358,7 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【V2EX】抖音直播北深杭三地招聘，大量研发职位，有兴趣的同学可以简历我内推，-chenmeng.loop@bytedance.com](https://www.v2ex.com/t/720188)
 - [【开发者头条】一文读懂响应式编程到底是什么？（附赠国外优质-Java-学习视频）](https://toutiao.io/k/gjdsc0z)
 - [【安全热点】明晚神秘大V亲临直播间,知识盛宴重磅来袭!](https://sec.thief.one/article_content?a_id=823dbeb990ca6cef23a889b84b076cde)
 - [【安全热点】高校挑战赛|明日19:00,我们直播间见!](https://sec.thief.one/article_content?a_id=ff8ba2bc63082f805527d441d168337d)
@@ -445,6 +448,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【掘金前端】前端学数据结构与算法（十）：深入理解快速排序](https://juejin.im/post/6889099509834612743)
 - [【开发者头条】一文了解分布式一致性算法-EPaxos](https://toutiao.io/k/essq2tr)
 - [【安全热点】我差点去字节跳动做算法了!](https://sec.thief.one/article_content?a_id=882ea262dcf087cc7cff1093caa2e5b6)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -503,10 +507,12 @@
 
 
 
+- [【V2EX】开启职场新生活，从投递-阿里云招聘-Java-技术专家-北京-岗位简历开始！](https://www.v2ex.com/t/720192)
+- [【V2EX】百度-AI-招聘前端研发工程师~](https://www.v2ex.com/t/720179)
 - [【开发者头条】Flink-面试题大全](https://toutiao.io/k/nrw0wqs)
 - [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
-- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
+- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
 - [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -540,6 +546,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】秘鲁新冠肺炎累计确诊897594例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5EULv5u7muT8rOjBaaXN201030&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚延长选择性隔离政策至11月底-累计新冠肺炎确诊病例超105万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】俄罗斯乌法市市长因感染新冠肺炎死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkf8disANxo88mUHovE5201030&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -554,6 +563,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】美疾控中心：到11月21日美死亡病例或超25万-西班牙两大区宣布采取封锁边界措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixv5nQZ14W6q8pYYZcbyn201030&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​意大利应对疫情专员：日增病例数三周内增长8倍-呼吁民众减少出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVLkoqlT9n57pAnY6OY5S201030&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -572,8 +583,6 @@
 - [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
 - [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
 - [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
-- [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
-- [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

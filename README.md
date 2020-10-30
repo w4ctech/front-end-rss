@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-30 07:18:41，:rocket: 更新条数: +438， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-30 07:33:42，:rocket: 更新条数: +486， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-10-30-秘鲁新冠肺炎累计确诊897594例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5EULv5u7muT8rOjBaaXN201030&isfromapp=1) ![](assets/new.png)  
+- [2020-10-29-哥伦比亚延长选择性隔离政策至11月底-累计新冠肺炎确诊病例超105万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAwe1Blm40Xc7ayael7de201030&isfromapp=1) ![](assets/new.png)  
+- [2020-10-29-美疾控中心：到11月21日美死亡病例或超25万-西班牙两大区宣布采取封锁边界措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixv5nQZ14W6q8pYYZcbyn201030&isfromapp=1) ![](assets/new.png)  
+- [2020-10-29-​意大利应对疫情专员：日增病例数三周内增长8倍-呼吁民众减少出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVLkoqlT9n57pAnY6OY5S201030&isfromapp=1) ![](assets/new.png)  
+- [2020-10-29-俄罗斯乌法市市长因感染新冠肺炎死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkf8disANxo88mUHovE5201030&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -448,6 +453,11 @@
 </summary>
 
 
+- [2020-10-29-Serverless-对研发效能的变革和创新](https://juejin.im/post/6889292894109171726) ![](assets/new.png)  
+- [2020-10-29-利用vue3+ts实现管理后台（增删改查）](https://juejin.im/post/6889246674401624078) ![](assets/new.png)  
+- [2020-10-29-小程序-实现自定义组件以及自定义组件间的通信](https://juejin.im/post/6889218680975491085) ![](assets/new.png)  
+- [2020-10-29-用-JavaScript-实现一个-TicTacToe-游戏-——-编程训练](https://juejin.im/post/6889203973312643086) ![](assets/new.png)  
+- [2020-10-29-前端学数据结构与算法（十）：深入理解快速排序](https://juejin.im/post/6889099509834612743) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,6 +533,26 @@
 </summary>
 
 
+- [2020-10-30-我想听听你们对-IPFS-的看法](https://www.v2ex.com/t/720201) ![](assets/new.png)  
+- [2020-10-30-树莓派-3B+/4-安装-FreeBSD-13](https://www.v2ex.com/t/720199) ![](assets/new.png)  
+- [2020-10-30-请教一个问题：网页版-jd-的微信付款扫码页面，为何不需要定时访问服务器就能知道用户付款成功了？](https://www.v2ex.com/t/720195) ![](assets/new.png)  
+- [2020-10-30-我在-uCloud-购买的-1u2g-的机器，-htop-显示只有-1.66g-这是正常的吗](https://www.v2ex.com/t/720194) ![](assets/new.png)  
+- [2020-10-30-如何使用商业证书代替-k8s-组件之间通信的-TLS-证书](https://www.v2ex.com/t/720193) ![](assets/new.png)  
+- [2020-10-30-开启职场新生活，从投递-阿里云招聘-Java-技术专家-北京-岗位简历开始！](https://www.v2ex.com/t/720192) ![](assets/new.png)  
+- [2020-10-30-XXL-JOB-未授权访问致远程命令执行-"漏洞"-声明](https://www.v2ex.com/t/720191) ![](assets/new.png)  
+- [2020-10-30-北京如果-3w-一个月，去天津的话，大概是多少一个月（后端开发）！](https://www.v2ex.com/t/720189) ![](assets/new.png)  
+- [2020-10-30-抖音直播北深杭三地招聘，大量研发职位，有兴趣的同学可以简历我内推，-chenmeng.loop@bytedance.com](https://www.v2ex.com/t/720188) ![](assets/new.png)  
+- [2020-10-30-关于实验吧](https://www.v2ex.com/t/720187) ![](assets/new.png)  
+- [2020-10-30-XMind-官网看到一段话很有感触](https://www.v2ex.com/t/720186) ![](assets/new.png)  
+- [2020-10-30-微信什么时候才能支持聊天记录按照时间管理啊](https://www.v2ex.com/t/720185) ![](assets/new.png)  
+- [2020-10-30-Python-开发工程师（量化基金公司，地点：海淀区）](https://www.v2ex.com/t/720184) ![](assets/new.png)  
+- [2020-10-30-KDA-皮肤安排上了吗](https://www.v2ex.com/t/720182) ![](assets/new.png)  
+- [2020-10-30-吐槽一下特斯拉的鹰翼门胶条](https://www.v2ex.com/t/720181) ![](assets/new.png)  
+- [2020-10-30-百度-AI-招聘前端研发工程师~](https://www.v2ex.com/t/720179) ![](assets/new.png)  
+- [2020-10-30-MacBook-触摸板-没有以前好用了？](https://www.v2ex.com/t/720178) ![](assets/new.png)  
+- [2020-10-30-家中装修路由器求推荐](https://www.v2ex.com/t/720177) ![](assets/new.png)  
+- [2020-10-30-有预约-iPhone-12-澳门版的吗？](https://www.v2ex.com/t/720176) ![](assets/new.png)  
+- [2020-10-30-京东竟然可以-8.5-折退款](https://www.v2ex.com/t/720175) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,8 +603,8 @@
 - [2020-10-30-React-hooks-最佳实践（更新中）](https://toutiao.io/k/azz9nmu) ![](assets/new.png)  
 - [2020-10-30-Java-应用从源代码到镜像：使用-Docker-多阶段构建](https://toutiao.io/k/6xjsa2r) ![](assets/new.png)  
 - [2020-10-30-FutureTask-原理剖析](https://toutiao.io/k/4r945j1) ![](assets/new.png)  
-- [2020-10-30-带你深入理解不一样的-Flutter](https://toutiao.io/k/m6cvd7l) ![](assets/new.png)  
 - [2020-10-30-两年半完成逆袭，他终于拿到字节跳动的-Offer](https://toutiao.io/k/whq4czc) ![](assets/new.png)  
+- [2020-10-30-带你深入理解不一样的-Flutter](https://toutiao.io/k/m6cvd7l) ![](assets/new.png)  
 - [2020-10-30-Zeppelin-安全机制之-Credentials-使用技巧（补充）](https://toutiao.io/k/ygzafu1) ![](assets/new.png)  
 - [2020-10-30-Go-监控的标配：实战-Prometheus](https://toutiao.io/k/asb5mrq) ![](assets/new.png)  
 - [2020-10-30-译-Gas-优化：如何优化存储](https://toutiao.io/k/zgqx19d) ![](assets/new.png)  

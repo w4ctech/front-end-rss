@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-31 14:48:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-31 15:03:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -92,8 +92,6 @@
 
 
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【技术头条】记录-Webpack-从版本-4-更新至-5-所遇到的问题-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13849&url=https%3A%2F%2Fquickapp.lovejade.cn%2Frecord-issues-encountered-with-webpack-update-from-version-4-to-5%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】洞察构建未来的技术趋势，第23期技术雷达正式发布！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13839&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-23%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -129,6 +127,7 @@
 - [【阮一峰的网络日志】微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html)
 - [【阮一峰的网络日志】微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】微信小程序开发必须只能用腾讯规定的标签吗？](https://www.v2ex.com/t/720574)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -161,6 +160,7 @@
 
 
 
+- [【V2EX】最近看着华为的荣耀猎人游戏笔记本不错，有买的吗？觉得怎么样？](https://www.v2ex.com/t/720572)
 - [【安全热点】童年的游戏,Python一行代码就能玩](https://sec.thief.one/article_content?a_id=d951a25251f72fc57652bcf154816ee7)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -216,8 +216,6 @@
 - [【前端艺术家&&飞冰早报】b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882)
 - [【前端艺术家&&飞冰早报】Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202)
 - [【前端艺术家&&飞冰早报】动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a)
-- [【技术头条】如何通过-Serverless-技术降低微服务应用资源成本？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13843&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776579%3Futm_content%3Dg_1000195933%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】Serverless对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13834&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776428%3Futm_content%3Dg_1000195270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -251,6 +249,7 @@
 
 
 
+- [【V2EX】Youtube-似乎在调试-HDR-选项，-MBP13-某些视频现只可选择-HDR-内容](https://www.v2ex.com/t/720540)
 - [【安全热点】又一大型色情直播App被捣毁,女主播哭求别告诉家人](https://sec.thief.one/article_content?a_id=8a06424161dd762c599e4a2025ca3177)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -291,6 +290,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】浏览器的-user-agent-属性是全局的吗？是否可以每个-tab-页使用一种-user-agent](https://www.v2ex.com/t/720548)
 - [【安全热点】Web安全:跨站请求伪造漏洞](https://sec.thief.one/article_content?a_id=5c9c8997f40e9bf24cfbdef727e42b15)
 - [【安全热点】美军网络安全事故处理的启示与思考](https://sec.thief.one/article_content?a_id=80df75bdff2a297cf68e4788ff758c56)
 - [【安全热点】【安全热点周报】第166期:毫米波干扰导致特斯拉自动驾驶汽车雷达...](https://sec.thief.one/article_content?a_id=c450bd6f2e0e61c48876b0dce035cfdc)
@@ -308,7 +308,6 @@
 - [【安全热点】网络安全产品漏洞排行榜](https://sec.thief.one/article_content?a_id=fdd899fa06a909b8093d5897b9db674a)
 - [【安全热点】会议沙龙|问道新基建,大咖指点2021云安全趋势新动向](https://sec.thief.one/article_content?a_id=66b69b4509bf5bd1df737f977c10ebcb)
 - [【安全热点】智慧司法建设新标杆!360安全大脑4181万落地长沙司法信息化建设](https://sec.thief.one/article_content?a_id=c30b4f75627c67b17103c6f002a54c27)
-- [【安全热点】中国移动通信集团:创新网络安全合规闭环管理](https://sec.thief.one/article_content?a_id=dbe7f862015a7084d3691286055da877)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -325,6 +324,7 @@
 
 
 
+- [【V2EX】在线绘画工具新秀-magmastudio，-web-应用真的越来越方便了](https://www.v2ex.com/t/720560)
 - [【安全热点】算法刷题宝典.pdf](https://sec.thief.one/article_content?a_id=0e3cae9495c1a8c83ea847111a621bed)
 - [【安全热点】我差点去字节跳动做算法了!](https://sec.thief.one/article_content?a_id=882ea262dcf087cc7cff1093caa2e5b6)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -375,6 +375,10 @@
 
 
 
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
+- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
+- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
+- [【开发者头条】推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i)
 - [【安全热点】持续招聘中-|-还没找到工作吗?高薪岗位等你来!](https://sec.thief.one/article_content?a_id=b725f791f6f00af949064ff37b7446ae)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -408,6 +412,11 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】英国新冠肺炎疫情严重远超预想-全国性封锁恐难避免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitNeGQtK2uF6fYhlqmaYv201031&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国14天内新增100万例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAqimxA8dDjsYxoXynlU201031&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织研究：应对新冠肺炎疫情-非洲国家推出120多项卫生技术创新](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQL3FYKlTz77incU3xyJ201031&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】新疆新增新冠肺炎确诊病例6例-均为无症状感染者转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚新冠肺炎病例超106万-失业率持续下降至15.8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

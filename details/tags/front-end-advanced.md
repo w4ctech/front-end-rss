@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-31 13:48:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-31 14:03:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,5 +7,6 @@
 
 
 
+- [2020-10-31-在线绘画工具新秀-magmastudio，-web-应用真的越来越方便了](https://www.v2ex.com/t/720560) 
 - [2020-10-31-算法刷题宝典.pdf](https://sec.thief.one/article_content?a_id=0e3cae9495c1a8c83ea847111a621bed) 
 - [2020-10-28-我差点去字节跳动做算法了!](https://sec.thief.one/article_content?a_id=882ea262dcf087cc7cff1093caa2e5b6) 

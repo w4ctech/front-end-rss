@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-31 03:18:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-31 03:32:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -524,10 +524,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】英国新冠肺炎疫情严重远超预想-全国性封锁恐难避免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitNeGQtK2uF6fYhlqmaYv201031&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】新疆新增新冠肺炎确诊病例6例-均为无症状感染者转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚新冠肺炎病例超106万-失业率持续下降至15.8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】上海30日新增8例境外输入新冠肺炎确诊病例-新增治愈出院8例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2ALe0BOH2ogs1raXyiWz201031&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -542,7 +538,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】意大利高等卫生研究院：全国范围疫情恶化-11个大区存在失控风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqsHurybsr4nnAuyQvzex201031&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -562,6 +557,7 @@
 - [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
 - [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
 - [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
+- [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

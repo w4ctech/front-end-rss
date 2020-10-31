@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-31 18:33:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-31 18:48:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,14 +8,6 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-10-31-Web安全:跨站请求伪造漏洞](https://sec.thief.one/article_content?a_id=5c9c8997f40e9bf24cfbdef727e42b15) 
 - [2020-10-31-美军网络安全事故处理的启示与思考](https://sec.thief.one/article_content?a_id=80df75bdff2a297cf68e4788ff758c56) 
 - [2020-10-30-【安全热点周报】第166期:毫米波干扰导致特斯拉自动驾驶汽车雷达...](https://sec.thief.one/article_content?a_id=c450bd6f2e0e61c48876b0dce035cfdc) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-31 01:33:18，:rocket: 更新条数: +434， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-31 01:35:42，:rocket: 更新条数: +3241， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-29-最新疫情：全国新冠累计确诊85940例-山东本土新增1例](https://m.caixin.com/m/2020-10-30/101620840.html) ![](assets/new.png)  
+- [2020-10-29-欧美回国航班新增血清抗体检测-中转回国需二次检测](http://m.companies.caixin.com/m/2020-10-30/101620858.html) ![](assets/new.png)  
+- [2020-10-29-青岛市第三人民医院隔离封闭病区护士确诊新冠-密接71人](http://m.china.caixin.com/m/2020-10-30/101620384.html) ![](assets/new.png)  
+- [2020-10-29-最新海外疫情：新冠感染超4489万-累计死亡超117万](http://m.international.caixin.com/m/2020-10-30/101620836.html) ![](assets/new.png)  
+- [2020-10-29-【境内疫情观察】山东新增1例本土确诊病例（10月29日）](http://m.database.caixin.com/m/2020-10-30/101620521.html) ![](assets/new.png)  
+- [2020-10-29-大流行手记|10月29日：法国重症床位告急-俄罗斯申请疫苗紧急使用授权](https://m.caixin.com/m/2020-10-30/101620397.html) ![](assets/new.png)  
+- [2020-10-29-英国新任驻华大使：疫情之下英中贸易比以往任何时候都重要](http://m.international.caixin.com/m/2020-10-30/101620599.html) ![](assets/new.png)  
+- [2020-10-29-圣诞季前欧洲又成全球疫情“震中”-每日新增感染20万人](http://m.international.caixin.com/m/2020-10-30/101620426.html) ![](assets/new.png)  
+- [2020-10-28-【境内疫情观察】新疆新增23例本土确诊病例（10月28日）](http://m.database.caixin.com/m/2020-10-29/101620127.html) ![](assets/new.png)  
+- [2020-10-28-大流行手记|10月28日：美国两周9.4万儿童感染-意大利爆发反防疫措施示威](https://m.caixin.com/m/2020-10-29/101620020.html) ![](assets/new.png)  
+- [2020-10-28-欧美疫情走高道琼斯大跌943点-德法再启抗疫封锁](http://m.international.caixin.com/m/2020-10-29/101619993.html) ![](assets/new.png)  
+- [2020-10-27-【境内疫情观察】新疆新增22例本土确诊病例（10月27日）](http://m.database.caixin.com/m/2020-10-28/101619702.html) ![](assets/new.png)  
+- [2020-10-27-大流行手记|10月27日：欧洲再成疫情“震中”-俄罗斯扩大疫苗生产规模](https://m.caixin.com/m/2020-10-28/101619557.html) ![](assets/new.png)  
+- [2020-10-26-香港连续两日无本地新增病例-内地港人11月回港免隔离](https://m.caixin.com/m/2020-10-27/101619499.html) ![](assets/new.png)  
+- [2020-10-26-新疆喀什新增5例确诊病例-新增19例无症状感染者](http://m.china.caixin.com/m/2020-10-27/101619422.html) ![](assets/new.png)  
+- [2020-10-26-独家|喀什疫情暴发地为一制衣厂](https://m.caixin.com/m/2020-10-27/101619174.html) ![](assets/new.png)  
+- [2020-10-26-【境内疫情观察】新疆喀什新增26例无症状感染者（10月26日）](http://m.database.caixin.com/m/2020-10-27/101619232.html) ![](assets/new.png)  
+- [2020-10-26-大流行手记|10月26日：西班牙再度进入紧急状态-多国政要感染新冠](https://m.caixin.com/m/2020-10-27/101619124.html) ![](assets/new.png)  
+- [2020-10-25-新疆喀什地区新增无症状感染者26例](https://m.caixin.com/m/2020-10-26/101619068.html) ![](assets/new.png)  
+- [2020-10-25-【境内疫情观察】新疆喀什新增137例无症状感染者（10月25日）](http://m.database.caixin.com/m/2020-10-26/101618828.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -75,6 +95,11 @@
 </summary>
 
 
+- [2020-10-31-新疆新增新冠肺炎确诊病例6例-均为无症状感染者转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1) ![](assets/new.png)  
+- [2020-10-31-哥伦比亚新冠肺炎病例超106万-失业率持续下降至15.8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1) ![](assets/new.png)  
+- [2020-10-30-上海30日新增8例境外输入新冠肺炎确诊病例-新增治愈出院8例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2ALe0BOH2ogs1raXyiWz201031&isfromapp=1) ![](assets/new.png)  
+- [2020-10-30-意大利高等卫生研究院：全国范围疫情恶化-11个大区存在失控风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqsHurybsr4nnAuyQvzex201031&isfromapp=1) ![](assets/new.png)  
+- [2020-10-30-美国一超市20%工作人员感染新冠病毒-大部分为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhLLtEh1JtJS76BGioH8201031&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -528,6 +553,26 @@
 </summary>
 
 
+- [2020-10-31-iPhone-12-还是-iPhone-11-pro](https://www.v2ex.com/t/720387) ![](assets/new.png)  
+- [2020-10-31-有用-NAS-的老哥吗？来给点建议](https://www.v2ex.com/t/720385) ![](assets/new.png)  
+- [2020-10-31-有人玩皇室战争Clash-Royal吗？](https://www.v2ex.com/t/720384) ![](assets/new.png)  
+- [2020-10-31-滴滴出行-北京、杭州、成都、深圳内推-算法/-Java-/前端/Android/-PHP-/iOS/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/720383) ![](assets/new.png)  
+- [2020-10-31-全职远程设计15K-25K/招募-UI/UX-设计师/兼职亦可/海外酒店行业-SAAS-产品](https://www.v2ex.com/t/720382) ![](assets/new.png)  
+- [2020-10-31-需要一笔钱周转，帮忙看看-e-招贷这个是否有坑？](https://www.v2ex.com/t/720381) ![](assets/new.png)  
+- [2020-10-31-为什么公众号里的-Python-广告那么多？](https://www.v2ex.com/t/720380) ![](assets/new.png)  
+- [2020-10-31-完全基于兴趣驱动的社区第二弹！](https://www.v2ex.com/t/720379) ![](assets/new.png)  
+- [2020-10-31-真是醉了，某安竟然还有人给微信洗地。](https://www.v2ex.com/t/720376) ![](assets/new.png)  
+- [2020-10-30-颤抖吧！“厂哥”正在涌入小程序流水线](https://www.v2ex.com/t/720375) ![](assets/new.png)  
+- [2020-10-30-看帖有感。程序员要怎样才能越老越吃香](https://www.v2ex.com/t/720374) ![](assets/new.png)  
+- [2020-10-30-iOS-14.2-Release-Candidate](https://www.v2ex.com/t/720373) ![](assets/new.png)  
+- [2020-10-30-显卡这么贵-跌价那么快，为什么没有出租显卡的](https://www.v2ex.com/t/720372) ![](assets/new.png)  
+- [2020-10-30-ebay-上-open-box-的-MacBook-Pro-靠谱吗？](https://www.v2ex.com/t/720371) ![](assets/new.png)  
+- [2020-10-30-大家觉得华为-Mate-40-系列怎么样？](https://www.v2ex.com/t/720370) ![](assets/new.png)  
+- [2020-10-30-诸位高见，帮我看看这个按钮是不是没用](https://www.v2ex.com/t/720369) ![](assets/new.png)  
+- [2020-10-30-遇到了一个-mac-上的木马（疑似），获取到了二进制文件，大家有兴趣看看他做了什么吗？](https://www.v2ex.com/t/720368) ![](assets/new.png)  
+- [2020-10-30-有没有用华为平板的朋友？](https://www.v2ex.com/t/720367) ![](assets/new.png)  
+- [2020-10-30-个人笔记加密方案](https://www.v2ex.com/t/720364) ![](assets/new.png)  
+- [2020-10-30-RSSHub-自建节点分享](https://www.v2ex.com/t/720363) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-31 10:47:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-31 11:03:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,7 +8,18 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-10-31-Web安全:跨站请求伪造漏洞](https://sec.thief.one/article_content?a_id=5c9c8997f40e9bf24cfbdef727e42b15) 
+- [2020-10-31-美军网络安全事故处理的启示与思考](https://sec.thief.one/article_content?a_id=80df75bdff2a297cf68e4788ff758c56) 
+- [2020-10-30-【安全热点周报】第166期:毫米波干扰导致特斯拉自动驾驶汽车雷达...](https://sec.thief.one/article_content?a_id=c450bd6f2e0e61c48876b0dce035cfdc) 
 - [2020-10-30-安全合规,等保必行:多家单位因未落实网络安全等级保护义务被处罚](https://sec.thief.one/article_content?a_id=7cf66a49848086f6d481de5564b603b4) 
 - [2020-10-30-工信部:2020前三季度我国信息安全领域收入959亿元](https://sec.thief.one/article_content?a_id=0f626fdef71a77af2b4b707a9a3d3403) 
 - [2020-10-30-PHP安全:服务器端口安全](https://sec.thief.one/article_content?a_id=1f2df25d25691703c3c71b4859b321cc) 
@@ -25,5 +36,3 @@
 - [2020-10-28-智慧司法建设新标杆!360安全大脑4181万落地长沙司法信息化建设](https://sec.thief.one/article_content?a_id=c30b4f75627c67b17103c6f002a54c27) 
 - [2020-10-28-中国移动通信集团:创新网络安全合规闭环管理](https://sec.thief.one/article_content?a_id=dbe7f862015a7084d3691286055da877) 
 - [2020-10-28-【安全圈】特朗普竞选网站被黑,川普:“假新闻!”](https://sec.thief.one/article_content?a_id=d8a866476e9bae4418a17fdf287d8e43) 
-- [2020-10-28-6家银行共罚4000万:从央行重拳出击金融信息安全看内控安全重要性](https://sec.thief.one/article_content?a_id=47400d57a74dca0afc673056b2c0abfd) 
-- [2020-10-28-从魔性的“O泡果奶”看网络安全意识](https://sec.thief.one/article_content?a_id=90c76455fda8bf7a41bb84c2aba166bb) 

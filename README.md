@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-31 02:32:51，:rocket: 更新条数: +360， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-31 02:47:35，:rocket: 更新条数: +355， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-10-31-新疆新增新冠肺炎确诊病例6例-均为无症状感染者转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-哥伦比亚新冠肺炎病例超106万-失业率持续下降至15.8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-30-上海30日新增8例境外输入新冠肺炎确诊病例-新增治愈出院8例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2ALe0BOH2ogs1raXyiWz201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-30-意大利高等卫生研究院：全国范围疫情恶化-11个大区存在失控风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqsHurybsr4nnAuyQvzex201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-30-美国一超市20%工作人员感染新冠病毒-大部分为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhLLtEh1JtJS76BGioH8201031&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

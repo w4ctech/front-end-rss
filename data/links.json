@@ -6,36 +6,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/coronavirus/dxy",
+    "rss": "https://rss.shab.fun/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "英国新冠肺炎疫情严重远超预想 全国性封锁恐难避免",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitNeGQtK2uF6fYhlqmaYv201031&isfromapp=1",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "美国14天内新增100万例新冠肺炎确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAqimxA8dDjsYxoXynlU201031&isfromapp=1",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "世卫组织研究：应对新冠肺炎疫情 非洲国家推出120多项卫生技术创新",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQL3FYKlTz77incU3xyJ201031&isfromapp=1",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "新疆新增新冠肺炎确诊病例6例 均为无症状感染者转确诊",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "哥伦比亚新冠肺炎病例超106万 失业率持续下降至15.8%",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1",
-        "date": "2020-10-31"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -330,36 +304,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "Vue源码解析：模板编译v-if与codegen(五)",
-        "link": "https://juejin.im/post/6889629822574657549",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "前端如何分片上传大文件",
-        "link": "https://juejin.im/post/6889626317160906766",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "从嵌套结构中取值时如何编写兜底逻辑",
-        "link": "https://juejin.im/post/6889609914885832712",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "vite 不支持 ie 11？configureBuild Hook 帮你定制 bundle 打包过程",
-        "link": "https://juejin.im/post/6889589799687028750",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "[核心概念] javaScript 的作用域（scope）",
-        "link": "https://juejin.im/post/6889538437783748621",
-        "date": "2020-10-30"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -519,7 +467,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -705,43 +653,8 @@
         "date": "2020-10-31"
       },
       {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
-        "link": "https://toutiao.io/k/kqvczix",
-        "date": "2020-10-31"
-      },
-      {
         "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
         "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
-        "link": "https://toutiao.io/k/9j801i6",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
         "date": "2020-10-31"
       },
       {
@@ -750,13 +663,23 @@
         "date": "2020-10-31"
       },
       {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-10-31"
+      },
+      {
         "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
         "link": "https://toutiao.io/k/z6p6anw",
         "date": "2020-10-31"
       },
       {
-        "title": "[推荐] 从面试角度一文学完 Kafka",
-        "link": "https://toutiao.io/k/ugyvu7i",
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
         "date": "2020-10-31"
       },
       {
@@ -765,13 +688,38 @@
         "date": "2020-10-31"
       },
       {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
         "date": "2020-10-31"
       },
       {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
         "date": "2020-10-31"
       }
     ]

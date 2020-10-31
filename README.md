@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-31 14:32:58，:rocket: 更新条数: +182， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-31 14:35:14，:rocket: 更新条数: +3008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -46,13 +46,13 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-10-30-最新疫情：全国新冠累计确诊85973例-新疆本土新增6例](https://m.caixin.com/m/2020-10-31/101621056.html) ![](assets/new.png)  
+- [2020-10-30-诺奖得主文卡：新冠疫苗和药物的研发应该并重](https://m.caixin.com/m/2020-10-31/101621180.html) ![](assets/new.png)  
+- [2020-10-30-新疆新增无症状感染者61例](https://m.caixin.com/m/2020-10-31/101621169.html) ![](assets/new.png)  
+- [2020-10-30-轻症新冠也会出现长期症状-报告指诊断标准不明影响治疗](https://m.caixin.com/m/2020-10-31/101621117.html) ![](assets/new.png)  
+- [2020-10-30-最新海外疫情：新冠感染近4545万-累计死亡超118万](http://m.international.caixin.com/m/2020-10-31/101621122.html) ![](assets/new.png)  
+- [2020-10-30-【境内疫情观察】新疆新增6例本土确诊病例（10月30日）](http://m.database.caixin.com/m/2020-10-31/101621097.html) ![](assets/new.png)  
+- [2020-10-30-大流行手记|10月30日：应战第二波疫情-欧盟拨2.2亿助患者跨国治疗](https://m.caixin.com/m/2020-10-31/101620986.html) ![](assets/new.png)  
+- [2020-10-29-欧美回国航班新增血清抗体检测-中转回国需二次检测](http://m.companies.caixin.com/m/2020-10-30/101620858.html) ![](assets/new.png)  
+- [2020-10-29-青岛市第三人民医院隔离封闭病区护士确诊新冠-密接71人](http://m.china.caixin.com/m/2020-10-30/101620384.html) ![](assets/new.png)  
+- [2020-10-29-【境内疫情观察】山东新增1例本土确诊病例（10月29日）](http://m.database.caixin.com/m/2020-10-30/101620521.html) ![](assets/new.png)  
+- [2020-10-29-大流行手记|10月29日：法国重症床位告急-俄罗斯申请疫苗紧急使用授权](https://m.caixin.com/m/2020-10-30/101620397.html) ![](assets/new.png)  
+- [2020-10-29-英国新任驻华大使：疫情之下英中贸易比以往任何时候都重要](http://m.international.caixin.com/m/2020-10-30/101620599.html) ![](assets/new.png)  
+- [2020-10-29-圣诞季前欧洲又成全球疫情“震中”-每日新增感染20万人](http://m.international.caixin.com/m/2020-10-30/101620426.html) ![](assets/new.png)  
+- [2020-10-28-【境内疫情观察】新疆新增23例本土确诊病例（10月28日）](http://m.database.caixin.com/m/2020-10-29/101620127.html) ![](assets/new.png)  
+- [2020-10-28-大流行手记|10月28日：美国两周9.4万儿童感染-意大利爆发反防疫措施示威](https://m.caixin.com/m/2020-10-29/101620020.html) ![](assets/new.png)  
+- [2020-10-28-欧美疫情走高道琼斯大跌943点-德法再启抗疫封锁](http://m.international.caixin.com/m/2020-10-29/101619993.html) ![](assets/new.png)  
+- [2020-10-27-【境内疫情观察】新疆新增22例本土确诊病例（10月27日）](http://m.database.caixin.com/m/2020-10-28/101619702.html) ![](assets/new.png)  
+- [2020-10-27-大流行手记|10月27日：欧洲再成疫情“震中”-俄罗斯扩大疫苗生产规模](https://m.caixin.com/m/2020-10-28/101619557.html) ![](assets/new.png)  
+- [2020-10-26-香港连续两日无本地新增病例-内地港人11月回港免隔离](https://m.caixin.com/m/2020-10-27/101619499.html) ![](assets/new.png)  
+- [2020-10-26-新疆喀什新增5例确诊病例-新增19例无症状感染者](http://m.china.caixin.com/m/2020-10-27/101619422.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -433,6 +453,11 @@
 </summary>
 
 
+- [2020-10-31-2020-年前端分类推荐书单【结合思维导图】](https://juejin.im/post/6889780734324637703) ![](assets/new.png)  
+- [2020-10-30-详细解释：浏览器从输入URL经过浏览器显示发生了什么](https://juejin.im/post/6889403430449332232) ![](assets/new.png)  
+- [2020-10-30-web前端高级---深度剖析JS变量提升的机制](https://juejin.im/post/6889377945844973575) ![](assets/new.png)  
+- [2020-10-30-Flutter-复杂-Loading-动画的抽丝剥茧](https://juejin.im/post/6889377769700982791) ![](assets/new.png)  
+- [2020-10-30-详解属性标志和熟悉描述符以及getter和setter](https://juejin.im/post/6889366750011260936) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -508,6 +533,26 @@
 </summary>
 
 
+- [2020-10-31-iPhone-se2-信号不好有办法缓解吗](https://www.v2ex.com/t/720571) ![](assets/new.png)  
+- [2020-10-31-最近有什么体育赛事吗，想去现场看场球（篮球、足球、羽毛球）都可以](https://www.v2ex.com/t/720570) ![](assets/new.png)  
+- [2020-10-31-LeetCode-有关-树-的题到底怎么套输入](https://www.v2ex.com/t/720567) ![](assets/new.png)  
+- [2020-10-31-京东价保是-之前的实际支付金额-减去-新的实际支付金额-，那么-新的实际支付金额-，包不包括-使用-9-折消费券后的实际支付金额-这种情况呢？（过几天上...](https://www.v2ex.com/t/720566) ![](assets/new.png)  
+- [2020-10-31-golang-切片的一个奇怪的现象](https://www.v2ex.com/t/720563) ![](assets/new.png)  
+- [2020-10-31-哔哩哔哩挂了？](https://www.v2ex.com/t/720562) ![](assets/new.png)  
+- [2020-10-31-apple-watch-充电时有办法保持长亮吗🤔](https://www.v2ex.com/t/720561) ![](assets/new.png)  
+- [2020-10-31-在线绘画工具新秀-magmastudio，-web-应用真的越来越方便了](https://www.v2ex.com/t/720560) ![](assets/new.png)  
+- [2020-10-31-道理我都懂，但这样做真的对吗？](https://www.v2ex.com/t/720559) ![](assets/new.png)  
+- [2020-10-31-求个-dropbox-家庭的月付车](https://www.v2ex.com/t/720558) ![](assets/new.png)  
+- [2020-10-31-今年双十一会有优惠么。](https://www.v2ex.com/t/720557) ![](assets/new.png)  
+- [2020-10-31-高德地图里面的加油服务谁用过？](https://www.v2ex.com/t/720553) ![](assets/new.png)  
+- [2020-10-31-2020-双-11-预测](https://www.v2ex.com/t/720552) ![](assets/new.png)  
+- [2020-10-31-总决赛五杀就尼玛离谱](https://www.v2ex.com/t/720551) ![](assets/new.png)  
+- [2020-10-31-请教-win10-的-pc-投屏到-mac-的软件或方法](https://www.v2ex.com/t/720550) ![](assets/new.png)  
+- [2020-10-31-蛋壳公寓没给房东租金，这种情况怎么维权处理比较好呢。](https://www.v2ex.com/t/720549) ![](assets/new.png)  
+- [2020-10-31-浏览器的-user-agent-属性是全局的吗？是否可以每个-tab-页使用一种-user-agent](https://www.v2ex.com/t/720548) ![](assets/new.png)  
+- [2020-10-31-自如房，中介可以远程获取密码开锁？](https://www.v2ex.com/t/720547) ![](assets/new.png)  
+- [2020-10-31-Apple-One-乘客可以自己付费额外买-iCloud-空间吗？](https://www.v2ex.com/t/720546) ![](assets/new.png)  
+- [2020-10-31-微信公众号网页内跳转到-app，-app-端需要什么特殊设置吗？](https://www.v2ex.com/t/720543) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -519,6 +564,26 @@
 </summary>
 
 
+- [2020-10-31-云原生数据湖解决方案打破数据孤岛，大数据驱动互娱行业发展-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13850&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772902%3Futm_content%3Dg_1000196483%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-记录-Webpack-从版本-4-更新至-5-所遇到的问题-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13849&url=https%3A%2F%2Fquickapp.lovejade.cn%2Frecord-issues-encountered-with-webpack-update-from-version-4-to-5%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-OpenKruise：解放-DaemonSet-运维之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13848&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776694%3Futm_content%3Dg_1000196482%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-白话科普，10s-了解-API-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13847&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F270301991%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-天猫国际通过Hologres进行排行榜的实时交互式分析-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13846&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776646%3Futm_content%3Dg_1000196481%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-接入阿里巴巴商业操作系统，麦当劳中国双11发力数字化-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13845&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776271%3Futm_content%3Dg_1000196480%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-持续定义Saas模式云数据仓库+实时搜索-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13844&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775539%3Futm_content%3Dg_1000196479%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-如何通过-Serverless-技术降低微服务应用资源成本？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13843&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776579%3Futm_content%3Dg_1000195933%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-人工智能如何提升大数据存储与管理效率？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13842&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776492%3Futm_content%3Dg_1000195932%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-谈谈我对零售云在云原生总结与思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13841&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776435%3Futm_content%3Dg_1000195931%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-持续定义SaaS模式云数据仓库+AI-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13840&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775538%3Futm_content%3Dg_1000195930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-洞察构建未来的技术趋势，第23期技术雷达正式发布！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13839&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-23%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-Flink-SQL-1.11-on-Zeppelin-平台化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13838&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776079%3Futm_content%3Dg_1000195929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-再次升级-Kubernetes-Ingress监控进入智能时代-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13837&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775905%3Futm_content%3Dg_1000195272%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-技术选型：为什么批处理我们却选择了Flink-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13836&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F269484708%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-持续定义SaaS模式云数据仓库+数据银行-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13835&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775399%3Futm_content%3Dg_1000195271%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-Serverless对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13834&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776428%3Futm_content%3Dg_1000195270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-拨开时间的迷雾-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13833&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatetime-in-software-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-阿里云推出业内首个云原生企业级数据湖解决方案：将在今年双11大规模应用-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13832&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776437%3Futm_content%3Dg_1000195269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-10-31-网易：Flink-+-Iceberg-数据湖探索与实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13831&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776257%3Futm_content%3Dg_1000195268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

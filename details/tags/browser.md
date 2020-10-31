@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-31 07:32:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-31 07:47:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,9 +8,6 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-10-31-中国科学技术大学第七届信息安全大赛求解](https://www.v2ex.com/t/720484) 
-- [2020-10-31-如何知道浏览器-P～-roxy-插件导致设置了什么？](https://www.v2ex.com/t/720471) 
 - [2020-10-30-安全合规,等保必行:多家单位因未落实网络安全等级保护义务被处罚](https://sec.thief.one/article_content?a_id=7cf66a49848086f6d481de5564b603b4) 
 - [2020-10-30-工信部:2020前三季度我国信息安全领域收入959亿元](https://sec.thief.one/article_content?a_id=0f626fdef71a77af2b4b707a9a3d3403) 
 - [2020-10-30-PHP安全:服务器端口安全](https://sec.thief.one/article_content?a_id=1f2df25d25691703c3c71b4859b321cc) 

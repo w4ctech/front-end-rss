@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-31 12:04:14，:rocket: 更新条数: +415， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-31 12:12:37，:rocket: 更新条数: +434， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-10-31-英国新冠肺炎疫情严重远超预想-全国性封锁恐难避免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitNeGQtK2uF6fYhlqmaYv201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-美国14天内新增100万例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAqimxA8dDjsYxoXynlU201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-世卫组织研究：应对新冠肺炎疫情-非洲国家推出120多项卫生技术创新](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQL3FYKlTz77incU3xyJ201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-新疆新增新冠肺炎确诊病例6例-均为无症状感染者转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-哥伦比亚新冠肺炎病例超106万-失业率持续下降至15.8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,6 +570,26 @@
 </summary>
 
 
+- [2020-10-31-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) ![](assets/new.png)  
+- [2020-10-31-vivo-商城前端架构升级：前后端分离篇](https://toutiao.io/k/72d4tig) ![](assets/new.png)  
+- [2020-10-31-CheckKeywords：校验你的接口参数中是否使用了其他语言的关键字/保留字](https://toutiao.io/k/mb36nkh) ![](assets/new.png)  
+- [2020-10-31-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-10-31-Spring-security（五）：完美权限管理系统授权过程分析](https://toutiao.io/k/huqy4kl) ![](assets/new.png)  
+- [2020-10-31-软件中的时间问题](https://toutiao.io/k/hlwmmwi) ![](assets/new.png)  
+- [2020-10-31-追根溯源，彻底搞清楚-Mysql-JDBC-对-UTF-8-的支持](https://toutiao.io/k/t9dyc5s) ![](assets/new.png)  
+- [2020-10-31-漫谈核心能力（六）：同心才能同理](https://toutiao.io/k/gyb13cl) ![](assets/new.png)  
+- [2020-10-31-Drone-自定义-UI](https://toutiao.io/k/60hbei5) ![](assets/new.png)  
+- [2020-10-31-Lucene-索引文件之-kdd&kdi&kdm](https://toutiao.io/k/ozm3sr2) ![](assets/new.png)  
+- [2020-10-31-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
+- [2020-10-31-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
+- [2020-10-31-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
+- [2020-10-31-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
+- [2020-10-31-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-31-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-10-31-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-10-31-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-10-31-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-10-31-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

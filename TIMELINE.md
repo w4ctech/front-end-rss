@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-31 12:04:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-31 12:12:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,11 +122,6 @@
 </summary>
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-31-英国新冠肺炎疫情严重远超预想-全国性封锁恐难避免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitNeGQtK2uF6fYhlqmaYv201031&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-31-美国14天内新增100万例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAqimxA8dDjsYxoXynlU201031&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-31-世卫组织研究：应对新冠肺炎疫情-非洲国家推出120多项卫生技术创新](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQL3FYKlTz77incU3xyJ201031&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-31-新疆新增新冠肺炎确诊病例6例-均为无症状感染者转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-10-31-哥伦比亚新冠肺炎病例超106万-失业率持续下降至15.8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) 
@@ -171,6 +166,30 @@
 - [【技术头条】2020-10-31-拨开时间的迷雾-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13833&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatetime-in-software-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-31-阿里云推出业内首个云原生企业级数据湖解决方案：将在今年双11大规模应用-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13832&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776437%3Futm_content%3Dg_1000195269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-10-31-网易：Flink-+-Iceberg-数据湖探索与实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13831&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776257%3Futm_content%3Dg_1000195268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-10-31-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) 
+- [【开发者头条】2020-10-31-vivo-商城前端架构升级：前后端分离篇](https://toutiao.io/k/72d4tig) 
+- [【开发者头条】2020-10-31-CheckKeywords：校验你的接口参数中是否使用了其他语言的关键字/保留字](https://toutiao.io/k/mb36nkh) 
+- [【开发者头条】2020-10-31-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) 
+- [【开发者头条】2020-10-31-Spring-security（五）：完美权限管理系统授权过程分析](https://toutiao.io/k/huqy4kl) 
+- [【开发者头条】2020-10-31-软件中的时间问题](https://toutiao.io/k/hlwmmwi) 
+- [【开发者头条】2020-10-31-追根溯源，彻底搞清楚-Mysql-JDBC-对-UTF-8-的支持](https://toutiao.io/k/t9dyc5s) 
+- [【开发者头条】2020-10-31-漫谈核心能力（六）：同心才能同理](https://toutiao.io/k/gyb13cl) 
+- [【开发者头条】2020-10-31-Drone-自定义-UI](https://toutiao.io/k/60hbei5) 
+- [【开发者头条】2020-10-31-Lucene-索引文件之-kdd&kdi&kdm](https://toutiao.io/k/ozm3sr2) 
+- [【开发者头条】2020-10-31-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
+- [【开发者头条】2020-10-31-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) 
+- [【开发者头条】2020-10-31-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) 
+- [【开发者头条】2020-10-31-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
+- [【开发者头条】2020-10-31-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) 
+- [【开发者头条】2020-10-31-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
+- [【开发者头条】2020-10-31-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
+- [【开发者头条】2020-10-31-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
+- [【开发者头条】2020-10-31-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
+- [【开发者头条】2020-10-31-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) 
+- [【开发者头条】2020-10-31-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
+- [【开发者头条】2020-10-31-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
+- [【开发者头条】2020-10-31-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) 
+- [【开发者头条】2020-10-31-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
 - [【安全热点】2020-10-31-如何使用Qualys-VMDR自动识别PAN-OS缓冲区溢出漏洞](https://sec.thief.one/article_content?a_id=70b1f02840174542696d153c2368314f) 
 - [【安全热点】2020-10-31-【11.11】省省吧,光棍节来点有意思的](https://sec.thief.one/article_content?a_id=915f72136c278188afc14e37e7266b29) 
 - [【安全热点】2020-10-31-2020-看雪SDC议题回顾-|-世界知名工控厂商密码保护机制突破之旅](https://sec.thief.one/article_content?a_id=3005167bb6f8586ea74c490e2c0647be) 

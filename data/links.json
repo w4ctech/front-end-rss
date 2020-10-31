@@ -6,36 +6,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/coronavirus/dxy",
+    "rss": "https://rss.shab.fun/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "英国新冠肺炎疫情严重远超预想 全国性封锁恐难避免",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitNeGQtK2uF6fYhlqmaYv201031&isfromapp=1",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "美国14天内新增100万例新冠肺炎确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAqimxA8dDjsYxoXynlU201031&isfromapp=1",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "世卫组织研究：应对新冠肺炎疫情 非洲国家推出120多项卫生技术创新",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQL3FYKlTz77incU3xyJ201031&isfromapp=1",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "新疆新增新冠肺炎确诊病例6例 均为无症状感染者转确诊",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "哥伦比亚新冠肺炎病例超106万 失业率持续下降至15.8%",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1",
-        "date": "2020-10-31"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -1811,10 +1785,131 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/toutiao/today",
+    "rss": "https://rss.itggg.cn/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "什么是真正的程序员？| 码农周刊第 323 期",
+        "link": "https://toutiao.io/k/v08ikpz",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "vivo 商城前端架构升级：前后端分离篇",
+        "link": "https://toutiao.io/k/72d4tig",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "CheckKeywords：校验你的接口参数中是否使用了其他语言的关键字/保留字",
+        "link": "https://toutiao.io/k/mb36nkh",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "Spring security（五）：完美权限管理系统授权过程分析",
+        "link": "https://toutiao.io/k/huqy4kl",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "软件中的时间问题",
+        "link": "https://toutiao.io/k/hlwmmwi",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "追根溯源，彻底搞清楚 Mysql JDBC 对 UTF-8 的支持",
+        "link": "https://toutiao.io/k/t9dyc5s",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "漫谈核心能力（六）：同心才能同理",
+        "link": "https://toutiao.io/k/gyb13cl",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "Drone 自定义 UI",
+        "link": "https://toutiao.io/k/60hbei5",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "Lucene 索引文件之 kdd&kdi&kdm",
+        "link": "https://toutiao.io/k/ozm3sr2",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 从面试角度一文学完 Kafka",
+        "link": "https://toutiao.io/k/ugyvu7i",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
+        "link": "https://toutiao.io/k/szxq5t8",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-10-31"
+      },
+      {
+        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
+        "link": "https://toutiao.io/k/l6chi61",
+        "date": "2020-10-31"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

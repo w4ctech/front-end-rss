@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-31 15:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-31 16:05:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,7 +8,6 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-10-31-Web安全:跨站请求伪造漏洞](https://sec.thief.one/article_content?a_id=5c9c8997f40e9bf24cfbdef727e42b15) 
 - [2020-10-31-美军网络安全事故处理的启示与思考](https://sec.thief.one/article_content?a_id=80df75bdff2a297cf68e4788ff758c56) 
 - [2020-10-30-【安全热点周报】第166期:毫米波干扰导致特斯拉自动驾驶汽车雷达...](https://sec.thief.one/article_content?a_id=c450bd6f2e0e61c48876b0dce035cfdc) 

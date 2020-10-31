@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-31 06:47:59，:rocket: 更新条数: +241， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-31 07:04:09，:rocket: 更新条数: +197， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-10-31-英国新冠肺炎疫情严重远超预想-全国性封锁恐难避免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitNeGQtK2uF6fYhlqmaYv201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-美国14天内新增100万例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAqimxA8dDjsYxoXynlU201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-世卫组织研究：应对新冠肺炎疫情-非洲国家推出120多项卫生技术创新](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQL3FYKlTz77incU3xyJ201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-新疆新增新冠肺炎确诊病例6例-均为无症状感染者转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-哥伦比亚新冠肺炎病例超106万-失业率持续下降至15.8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -433,11 +428,6 @@
 </summary>
 
 
-- [2020-10-30-Vue源码解析：模板编译v-if与codegen五](https://juejin.im/post/6889629822574657549) ![](assets/new.png)  
-- [2020-10-30-前端如何分片上传大文件](https://juejin.im/post/6889626317160906766) ![](assets/new.png)  
-- [2020-10-30-从嵌套结构中取值时如何编写兜底逻辑](https://juejin.im/post/6889609914885832712) ![](assets/new.png)  
-- [2020-10-30-vite-不支持-ie-11？configureBuild-Hook-帮你定制-bundle-打包过程](https://juejin.im/post/6889589799687028750) ![](assets/new.png)  
-- [2020-10-30-核心概念-javaScript-的作用域（scope）](https://juejin.im/post/6889538437783748621) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -513,26 +503,6 @@
 </summary>
 
 
-- [2020-10-31-把很多年前的一台配置极低上网本利用了起来，感觉还不错](https://www.v2ex.com/t/720467) ![](assets/new.png)  
-- [2020-10-31-分享一个-apple-watch-苹果天猫旗舰店优惠券，无利益相关](https://www.v2ex.com/t/720466) ![](assets/new.png)  
-- [2020-10-31-LOL-总决赛成都线下观赛](https://www.v2ex.com/t/720465) ![](assets/new.png)  
-- [2020-10-31-rocketmq-官方有针对-JDK9+-的版本-Java-环境里软件启动不了的解决方案吗?](https://www.v2ex.com/t/720464) ![](assets/new.png)  
-- [2020-10-31-前端想快速入门-Java-后端,有什么教程推荐吗?](https://www.v2ex.com/t/720463) ![](assets/new.png)  
-- [2020-10-31-双十一活动任务你们领了多少的？如何达到任务要求？](https://www.v2ex.com/t/720462) ![](assets/new.png)  
-- [2020-10-31-iOS-14.1-中订购-AppleCare+的一个-Bug](https://www.v2ex.com/t/720461) ![](assets/new.png)  
-- [2020-10-31-小团队-Windows-桌面客户端程序用什么技术栈比较好？大家有什么建议](https://www.v2ex.com/t/720460) ![](assets/new.png)  
-- [2020-10-31-请教-mkdir-权限问题](https://www.v2ex.com/t/720459) ![](assets/new.png)  
-- [2020-10-31-不想看电视，不想打游戏，不想学习，不想运动，不知道想干嘛](https://www.v2ex.com/t/720454) ![](assets/new.png)  
-- [2020-10-31-分享一个在线“用户故事地图Kanban”，大家可以用它来迭代自己的产品哈](https://www.v2ex.com/t/720453) ![](assets/new.png)  
-- [2020-10-31-115-APP-登录-的疑问....？](https://www.v2ex.com/t/720450) ![](assets/new.png)  
-- [2020-10-31-湾区-colo-1U-的服务器什么行情？](https://www.v2ex.com/t/720449) ![](assets/new.png)  
-- [2020-10-31-这个正则怎么写啊?](https://www.v2ex.com/t/720448) ![](assets/new.png)  
-- [2020-10-31-机械革命-S2-Air-更新-20H2-蓝屏](https://www.v2ex.com/t/720446) ![](assets/new.png)  
-- [2020-10-31-MacBook-Pro-16"-使用-65W-电源工作，充电反复横跳，对电池寿命有影响么？](https://www.v2ex.com/t/720442) ![](assets/new.png)  
-- [2020-10-31-关于我去乐我无限面试的这件事](https://www.v2ex.com/t/720441) ![](assets/new.png)  
-- [2020-10-31-阿里云双十一需要新用户才能买的产品大家都是如何处理的？](https://www.v2ex.com/t/720439) ![](assets/new.png)  
-- [2020-10-31-iPhone-12-双卡无服务问题-各位老哥有遇到的吗](https://www.v2ex.com/t/720438) ![](assets/new.png)  
-- [2020-10-31-有没有简单的方法隐藏-command-tab-时出现的-Finder？](https://www.v2ex.com/t/720437) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -585,16 +555,16 @@
 - [2020-10-31-Drone-自定义-UI](https://toutiao.io/k/60hbei5) ![](assets/new.png)  
 - [2020-10-31-CheckKeywords：校验你的接口参数中是否使用了其他语言的关键字/保留字](https://toutiao.io/k/mb36nkh) ![](assets/new.png)  
 - [2020-10-31-Lucene-索引文件之-kdd&kdi&kdm](https://toutiao.io/k/ozm3sr2) ![](assets/new.png)  
-- [2020-10-31-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
+- [2020-10-31-推荐-从面试角度一文学完-Kafka](https://toutiao.io/k/ugyvu7i) ![](assets/new.png)  
+- [2020-10-31-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
 - [2020-10-31-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-31-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
-- [2020-10-31-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-10-31-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
 - [2020-10-31-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
 - [2020-10-31-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
 - [2020-10-31-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
-- [2020-10-31-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
 - [2020-10-31-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-10-31-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
+- [2020-10-31-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-10-31-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

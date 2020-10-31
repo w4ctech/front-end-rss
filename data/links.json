@@ -330,36 +330,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "浅析JavaScript中的Throttle与Debounce",
-        "link": "https://juejin.im/post/6889792585267675149",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "ToyReact 框架 JSX原理与实现学习报告",
-        "link": "https://juejin.im/post/6889789735016972295",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "Axios 响应不能拦截 302 状态码？",
-        "link": "https://juejin.im/post/6889782338115207182",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "前端不得不懂的架构知识（上）",
-        "link": "https://juejin.im/post/6889775914906419214",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "🚩Vue源码——订阅者的响应",
-        "link": "https://juejin.im/post/6889766555916828680",
-        "date": "2020-10-31"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/jskou/0",
@@ -392,111 +366,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/blogread/newest",
+    "rss": "https://rss.shab.fun/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": [
-      {
-        "title": "云原生数据湖解决方案打破数据孤岛，大数据驱动互娱行业发展 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13850&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772902%3Futm_content%3Dg_1000196483%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "记录 Webpack 从版本 4 更新至 5 所遇到的问题 (quickapp.lovejade.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13849&url=https%3A%2F%2Fquickapp.lovejade.cn%2Frecord-issues-encountered-with-webpack-update-from-version-4-to-5%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "OpenKruise：解放 DaemonSet 运维之路 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13848&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776694%3Futm_content%3Dg_1000196482%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "白话科普，10s 了解 API (zhuanlan.zhihu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13847&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F270301991%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "天猫国际通过Hologres进行排行榜的实时交互式分析 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13846&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776646%3Futm_content%3Dg_1000196481%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "接入阿里巴巴商业操作系统，麦当劳中国双11发力数字化 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13845&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776271%3Futm_content%3Dg_1000196480%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "持续定义Saas模式云数据仓库+实时搜索 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13844&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775539%3Futm_content%3Dg_1000196479%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "如何通过 Serverless 技术降低微服务应用资源成本？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13843&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776579%3Futm_content%3Dg_1000195933%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "人工智能如何提升大数据存储与管理效率？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13842&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776492%3Futm_content%3Dg_1000195932%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "谈谈我对零售云在云原生总结与思考 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13841&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776435%3Futm_content%3Dg_1000195931%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "持续定义SaaS模式云数据仓库+AI (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13840&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775538%3Futm_content%3Dg_1000195930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "洞察构建未来的技术趋势，第23期技术雷达正式发布！ (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13839&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-23%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "Flink SQL 1.11 on Zeppelin 平台化实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13838&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776079%3Futm_content%3Dg_1000195929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "再次升级-Kubernetes Ingress监控进入智能时代 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13837&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775905%3Futm_content%3Dg_1000195272%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "技术选型：为什么批处理我们却选择了Flink (zhuanlan.zhihu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13836&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F269484708%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "持续定义SaaS模式云数据仓库+数据银行 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13835&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775399%3Futm_content%3Dg_1000195271%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "Serverless对研发效能的变革和创新 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13834&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776428%3Futm_content%3Dg_1000195270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "拨开时间的迷雾 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13833&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdatetime-in-software-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "阿里云推出业内首个云原生企业级数据湖解决方案：将在今年双11大规模应用 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13832&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776437%3Futm_content%3Dg_1000195269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      },
-      {
-        "title": "网易：Flink + Iceberg 数据湖探索与实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13831&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776257%3Futm_content%3Dg_1000195268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-10-31"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/toutiao/today",

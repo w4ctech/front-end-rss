@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-01 00:50:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 00:56:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-31-重庆31日新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6vhXdToRJHWb7jTq3K5e201101&isfromapp=1) 
 - [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html) 
@@ -66,18 +67,17 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
-- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
-- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) 
-- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) 
-- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) 
-- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) 
-- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) 
-- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) 
-- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) 
-- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) 
-- [2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
-- [2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
-- [2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [2020-11-01-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
+- [2020-11-01-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) 
+- [2020-11-01-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) 
+- [2020-11-01-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
+- [2020-11-01-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
+- [2020-11-01-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
+- [2020-11-01-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) 
+- [2020-11-01-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
+- [2020-11-01-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) 
+- [2020-11-01-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
+- [2020-11-01-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
 - [2020-10-31-i春秋双11钜惠抢先知!不玩噱头,惊喜给足你!](https://sec.thief.one/article_content?a_id=ae2a5a8b6f125bfc391890cdf5993de3) 
 - [2020-10-31-K神手扎:比特币震荡期,耐心等待](https://sec.thief.one/article_content?a_id=6a3b6daada2f247ead5b8be28b7bfffd) 
 - [2020-10-31-【网闻鉴真】想让Wi-Fi快点?这些歪招儿都不行](https://sec.thief.one/article_content?a_id=b397dc7f1192f356afab353cdc08842e) 

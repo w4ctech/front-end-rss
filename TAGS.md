@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-01 01:47:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 02:03:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -50,6 +50,7 @@
 - [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
 - [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 - [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
+- [【掘金前端】ToyReact-框架-JSX原理与实现学习报告](https://juejin.im/post/6889789735016972295)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -73,6 +74,7 @@
 - [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
+- [【掘金前端】🚩Vue源码——订阅者的响应](https://juejin.im/post/6889766555916828680)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [【安全热点】这或许是最美的Vue+Element开源后台管理UI](https://sec.thief.one/article_content?a_id=09bef7dd358595334c2da8a63fc7e35f)
 - [......【查看更多】......](./details/tags/vue.md)
@@ -114,6 +116,8 @@
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【技术头条】记录-Webpack-从版本-4-更新至-5-所遇到的问题-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13849&url=https%3A%2F%2Fquickapp.lovejade.cn%2Frecord-issues-encountered-with-webpack-update-from-version-4-to-5%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】洞察构建未来的技术趋势，第23期技术雷达正式发布！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13839&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-23%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -193,6 +197,7 @@
 - [【凹凸实验室】Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/)
 - [【凹凸实验室】Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/)
 - [【凹凸实验室】Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/)
+- [【开发者头条】Pigeon：Flutter-多端接口一致性以及规范化管理实践](https://toutiao.io/k/yeyymvu)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +357,7 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【V2EX】能指定-sftp-或者-ftp-端口的视频播放器？（macOS-端以及-iOS-端）](https://www.v2ex.com/t/720627)
 - [【安全热点】又一大型色情直播App被捣毁,女主播哭求别告诉家人](https://sec.thief.one/article_content?a_id=8a06424161dd762c599e4a2025ca3177)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -405,7 +411,10 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【掘金前端】Axios-响应不能拦截-302-状态码？](https://juejin.im/post/6889782338115207182)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】为什么我用-apt-get-remove-去卸载一个程序，结果它却会带来新的东西需要我安装？](https://www.v2ex.com/t/720621)
+- [【V2EX】网上这种-通过百度网盘-分享-Pdf-书籍-文件，然后-url-引导-跳转到-个人支付-页面，这种侵权行为-就没人管吗？](https://www.v2ex.com/t/720592)
 - [【安全热点】Web安全:跨站请求伪造漏洞](https://sec.thief.one/article_content?a_id=5c9c8997f40e9bf24cfbdef727e42b15)
 - [【安全热点】美军网络安全事故处理的启示与思考](https://sec.thief.one/article_content?a_id=80df75bdff2a297cf68e4788ff758c56)
 - [【安全热点】【安全热点周报】第166期:毫米波干扰导致特斯拉自动驾驶汽车雷达...](https://sec.thief.one/article_content?a_id=c450bd6f2e0e61c48876b0dce035cfdc)
@@ -413,9 +422,6 @@
 - [【安全热点】工信部:2020前三季度我国信息安全领域收入959亿元](https://sec.thief.one/article_content?a_id=0f626fdef71a77af2b4b707a9a3d3403)
 - [【安全热点】PHP安全:服务器端口安全](https://sec.thief.one/article_content?a_id=1f2df25d25691703c3c71b4859b321cc)
 - [【安全热点】微软:伊朗黑客攻击慕尼黑安全会议和T20峰会的参与者](https://sec.thief.one/article_content?a_id=a6d1a0e0a4bb69a73f2a653b32bfc0d9)
-- [【安全热点】【安全圈】骐谷开园!全省首个网络安全产业园落户玄武](https://sec.thief.one/article_content?a_id=fb4faae1b1a43d47144f19d5ddea549d)
-- [【安全热点】【安全风险通告】PoC公开,利用门槛低危害大,Oracle-WebLogic-...](https://sec.thief.one/article_content?a_id=2aa6ac6c7c6079de565ad56cedf93df7)
-- [【安全热点】重磅-|-第二届百度大学生网络安全技能大赛,今日起正式启动报名!](https://sec.thief.one/article_content?a_id=e5a9d1d1db553cebd6060f49e4ab31ea)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -478,6 +484,7 @@
 - [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【开发者头条】爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -494,6 +501,10 @@
 
 
 
+- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
+- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [【安全热点】持续招聘中-|-还没找到工作吗?高薪岗位等你来!](https://sec.thief.one/article_content?a_id=b725f791f6f00af949064ff37b7446ae)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -527,6 +538,12 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】四川31日新增境外输入新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL6sJVnANHrNfAP72Gs15201101&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】内蒙古31日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s7XMRz30dOPiDyjrvkR201101&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】截至10月31日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/357c1bf3e78f47a3b3c9b7cffec1b7b5.shtml)
+- [【全国新型肺炎疫情实时动态(丁香园)】10月31日甘肃新增7例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVCs3IyGHTof1l7CSxXGT201101&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】新疆新增新冠肺炎确诊病例3例-新增无症状感染者61例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5maqJfUWtTkDdk50Ral201101&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】上海31日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij5ySjm8UfhP5QzvfleaB201101&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

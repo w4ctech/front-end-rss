@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-10-31 23:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 00:07:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-31-新疆疏附：220家商铺正常运营-多措并举做好生活服务保障](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij6Rmht5gM4D0XBVMXq1T201031&isfromapp=1) 
+- [2020-10-31-新疆克州开展第二轮免费核酸检测-阿克陶县与疏附县相邻乡镇新增无症状感染者15例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWQhg75nLeJJ2SOpu3NJ201031&isfromapp=1) 
+- [2020-10-31-北京市冷链食品追溯平台11月1日正式运行-冷链中如何锁鲜防疫？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWEsOWaZaPUoRGwFqBxjn201031&isfromapp=1) 
 - [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html) 
@@ -66,27 +69,6 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
-- [2020-10-31-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) 
-- [2020-10-31-vivo-商城前端架构升级：前后端分离篇](https://toutiao.io/k/72d4tig) 
-- [2020-10-31-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) 
-- [2020-10-31-CheckKeywords：校验你的接口参数中是否使用了其他语言的关键字/保留字](https://toutiao.io/k/mb36nkh) 
-- [2020-10-31-Spring-security（五）：完美权限管理系统授权过程分析](https://toutiao.io/k/huqy4kl) 
-- [2020-10-31-软件中的时间问题](https://toutiao.io/k/hlwmmwi) 
-- [2020-10-31-漫谈核心能力（六）：同心才能同理](https://toutiao.io/k/gyb13cl) 
-- [2020-10-31-追根溯源，彻底搞清楚-Mysql-JDBC-对-UTF-8-的支持](https://toutiao.io/k/t9dyc5s) 
-- [2020-10-31-Drone-自定义-UI](https://toutiao.io/k/60hbei5) 
-- [2020-10-31-Lucene-索引文件之-kdd&kdi&kdm](https://toutiao.io/k/ozm3sr2) 
-- [2020-10-31-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) 
-- [2020-10-31-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) 
-- [2020-10-31-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
-- [2020-10-31-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) 
-- [2020-10-31-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) 
-- [2020-10-31-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
-- [2020-10-31-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
-- [2020-10-31-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
-- [2020-10-31-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
-- [2020-10-31-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
-- [2020-10-31-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
 - [2020-10-31-i春秋双11钜惠抢先知!不玩噱头,惊喜给足你!](https://sec.thief.one/article_content?a_id=ae2a5a8b6f125bfc391890cdf5993de3) 
 - [2020-10-31-K神手扎:比特币震荡期,耐心等待](https://sec.thief.one/article_content?a_id=6a3b6daada2f247ead5b8be28b7bfffd) 
 - [2020-10-31-【网闻鉴真】想让Wi-Fi快点?这些歪招儿都不行](https://sec.thief.one/article_content?a_id=b397dc7f1192f356afab353cdc08842e) 

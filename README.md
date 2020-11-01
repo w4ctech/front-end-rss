@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-31 23:48:00，:rocket: 更新条数: +385， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-01 00:07:34，:rocket: 更新条数: +360， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -75,11 +75,11 @@
 </summary>
 
 
-- [2020-10-31-英国新冠肺炎疫情严重远超预想-全国性封锁恐难避免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitNeGQtK2uF6fYhlqmaYv201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-美国14天内新增100万例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAqimxA8dDjsYxoXynlU201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-世卫组织研究：应对新冠肺炎疫情-非洲国家推出120多项卫生技术创新](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQL3FYKlTz77incU3xyJ201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-新疆新增新冠肺炎确诊病例6例-均为无症状感染者转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1) ![](assets/new.png)  
-- [2020-10-31-哥伦比亚新冠肺炎病例超106万-失业率持续下降至15.8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1) ![](assets/new.png)  
+- [2020-10-31-新疆疏附：220家商铺正常运营-多措并举做好生活服务保障](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij6Rmht5gM4D0XBVMXq1T201031&isfromapp=1) ![](assets/new.png)  
+- [2020-10-31-香港新增3例新冠肺炎确诊病例-均为输入性病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqOgAuENse46E9DxnlaLk201031&isfromapp=1) ![](assets/new.png)  
+- [2020-10-31-新疆克州开展第二轮免费核酸检测-阿克陶县与疏附县相邻乡镇新增无症状感染者15例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWQhg75nLeJJ2SOpu3NJ201031&isfromapp=1) ![](assets/new.png)  
+- [2020-10-31-世卫组织：全球新冠肺炎确诊病例超过4514万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioY2Yk2iXcLiMqeMoZTjI201031&isfromapp=1) ![](assets/new.png)  
+- [2020-10-31-北京市冷链食品追溯平台11月1日正式运行-冷链中如何锁鲜防疫？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWEsOWaZaPUoRGwFqBxjn201031&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -530,26 +530,6 @@
 </summary>
 
 
-- [2020-10-31-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) ![](assets/new.png)  
-- [2020-10-31-vivo-商城前端架构升级：前后端分离篇](https://toutiao.io/k/72d4tig) ![](assets/new.png)  
-- [2020-10-31-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-10-31-CheckKeywords：校验你的接口参数中是否使用了其他语言的关键字/保留字](https://toutiao.io/k/mb36nkh) ![](assets/new.png)  
-- [2020-10-31-Spring-security（五）：完美权限管理系统授权过程分析](https://toutiao.io/k/huqy4kl) ![](assets/new.png)  
-- [2020-10-31-软件中的时间问题](https://toutiao.io/k/hlwmmwi) ![](assets/new.png)  
-- [2020-10-31-漫谈核心能力（六）：同心才能同理](https://toutiao.io/k/gyb13cl) ![](assets/new.png)  
-- [2020-10-31-追根溯源，彻底搞清楚-Mysql-JDBC-对-UTF-8-的支持](https://toutiao.io/k/t9dyc5s) ![](assets/new.png)  
-- [2020-10-31-Drone-自定义-UI](https://toutiao.io/k/60hbei5) ![](assets/new.png)  
-- [2020-10-31-Lucene-索引文件之-kdd&kdi&kdm](https://toutiao.io/k/ozm3sr2) ![](assets/new.png)  
-- [2020-10-31-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-10-31-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-10-31-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-10-31-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
-- [2020-10-31-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-10-31-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
-- [2020-10-31-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
-- [2020-10-31-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) ![](assets/new.png)  
-- [2020-10-31-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-10-31-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

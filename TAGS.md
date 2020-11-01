@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-31 23:48:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 00:07:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -490,10 +490,6 @@
 
 
 
-- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
-- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
-- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
-- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [【安全热点】持续招聘中-|-还没找到工作吗?高薪岗位等你来!](https://sec.thief.one/article_content?a_id=b725f791f6f00af949064ff37b7446ae)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -527,11 +523,8 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】英国新冠肺炎疫情严重远超预想-全国性封锁恐难避免](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitNeGQtK2uF6fYhlqmaYv201031&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国14天内新增100万例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAqimxA8dDjsYxoXynlU201031&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织研究：应对新冠肺炎疫情-非洲国家推出120多项卫生技术创新](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQL3FYKlTz77incU3xyJ201031&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】新疆新增新冠肺炎确诊病例6例-均为无症状感染者转确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprMEGOfML4CT1aHEAtnv201031&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚新冠肺炎病例超106万-失业率持续下降至15.8%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2qYCgFnOLrTyuySkOH7o201031&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】香港新增3例新冠肺炎确诊病例-均为输入性病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqOgAuENse46E9DxnlaLk201031&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过4514万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioY2Yk2iXcLiMqeMoZTjI201031&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -546,6 +539,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】新疆疏附：220家商铺正常运营-多措并举做好生活服务保障](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij6Rmht5gM4D0XBVMXq1T201031&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】新疆克州开展第二轮免费核酸检测-阿克陶县与疏附县相邻乡镇新增无症状感染者15例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWQhg75nLeJJ2SOpu3NJ201031&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】北京市冷链食品追溯平台11月1日正式运行-冷链中如何锁鲜防疫？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWEsOWaZaPUoRGwFqBxjn201031&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -563,9 +559,6 @@
 - [【凹凸实验室】从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)
 - [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
 - [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
-- [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
-- [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
-- [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

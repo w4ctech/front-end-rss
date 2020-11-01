@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-01 22:48:00，:rocket: 更新条数: +420， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-01 23:03:49，:rocket: 更新条数: +390， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -335,6 +335,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -518,26 +528,6 @@
 </summary>
 
 
-- [2020-11-01-Big-Sur-修复了-Gmail-导致邮箱弹出的问题？](https://www.v2ex.com/t/720842) ![](assets/new.png)  
-- [2020-11-01-理论上是一个简单-app-抓包，但总是抓不到特定的图片，求助-V2-大神](https://www.v2ex.com/t/720841) ![](assets/new.png)  
-- [2020-11-01-四大咨询-直招金融+计算机背景应届生](https://www.v2ex.com/t/720840) ![](assets/new.png)  
-- [2020-11-01-滴滴这样的实时位置推送是怎么实现的](https://www.v2ex.com/t/720839) ![](assets/new.png)  
-- [2020-11-01-macOS-11.0.1（20B5012d）是否无法使用-Handoff-接力？](https://www.v2ex.com/t/720838) ![](assets/new.png)  
-- [2020-11-01-想辞职创业了](https://www.v2ex.com/t/720837) ![](assets/new.png)  
-- [2020-11-01-大家怎么看待-mips-的未来？](https://www.v2ex.com/t/720834) ![](assets/new.png)  
-- [2020-11-01-求问，-iOS-最新版微信无法从相册进行分享发送](https://www.v2ex.com/t/720833) ![](assets/new.png)  
-- [2020-11-01-发一个朋友的公司哈，不错的工作机会，-GAN-算法团队，大神海归创业](https://www.v2ex.com/t/720832) ![](assets/new.png)  
-- [2020-11-01-迷茫地选-offer](https://www.v2ex.com/t/720831) ![](assets/new.png)  
-- [2020-11-01-jd-苹果自营-1599-抢到了-AirPods-Pro，有-V2er-也抢到了吗？](https://www.v2ex.com/t/720830) ![](assets/new.png)  
-- [2020-11-01-求-MacOS-远程-USB-解决方案](https://www.v2ex.com/t/720829) ![](assets/new.png)  
-- [2020-11-01-唉，工作了才知道自己不喜欢做这些东西，想逃避了](https://www.v2ex.com/t/720827) ![](assets/new.png)  
-- [2020-11-01-无盈利-Apple-Developer-Program-账号被封](https://www.v2ex.com/t/720826) ![](assets/new.png)  
-- [2020-11-01-群晖如何下载百度网盘内容](https://www.v2ex.com/t/720825) ![](assets/new.png)  
-- [2020-11-01-谁能救救-Ping-酱，-Ping-酱的碎碎念](https://www.v2ex.com/t/720824) ![](assets/new.png)  
-- [2020-11-01-spring-data-jpa-save-要先-select？](https://www.v2ex.com/t/720823) ![](assets/new.png)  
-- [2020-11-01-广西电信营业厅说他们的电子发票只能发到纯数字的-QQ-邮箱](https://www.v2ex.com/t/720822) ![](assets/new.png)  
-- [2020-11-01-arm-版-macbook-什么时候能买到有消息吗？](https://www.v2ex.com/t/720821) ![](assets/new.png)  
-- [2020-11-01-发生车祸我全责，保险公司说去-4s-店维修还要自己补钱，有这种事吗？](https://www.v2ex.com/t/720819) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

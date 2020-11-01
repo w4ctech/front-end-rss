@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-01 22:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 23:03:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,8 +17,6 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-01-第三方浏览器标签管理页面为什么不能像-Safari-一样？](https://www.v2ex.com/t/720803) 
-- [2020-11-01-奇怪的问题：为何换了一块-CPU-之后，浏览器里的某些字体变大变模糊？](https://www.v2ex.com/t/720796) 
 - [2020-11-01-网络安全上市企业Q3营业数据排行](https://sec.thief.one/article_content?a_id=1056abb32e05e2aa1008d0e63cf13ad3) 
 - [2020-11-01-原创图解|速读2020年上半年我国互联网网络安全监测数据分析报告...](https://sec.thief.one/article_content?a_id=217b873ae70e7798853f84c29d06d699) 
 - [2020-11-01-下一代终端安全攻防:无文件攻击白皮书](https://sec.thief.one/article_content?a_id=69c53feb36b0177aa9cae913b1495822) 

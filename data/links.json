@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "美国累计确诊超912万 单日新增病例再超8万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6DQXvNddgI4YXfSWB0Xz201101&isfromapp=1",
+        "date": "2020-11-01"
+      },
+      {
+        "title": "德法“封城” 英格兰再度全面封锁！欧洲新冠疫情反弹迅猛",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPxE3SPBlx6Zd3F6Va9Q6201101&isfromapp=1",
+        "date": "2020-11-01"
+      },
+      {
+        "title": "韩国新增新冠确诊病例124例  社交距离措施从三个阶段细分至五个阶段",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1Ao7WNTbtJXddF8otHg1201101&isfromapp=1",
+        "date": "2020-11-01"
+      },
+      {
+        "title": "土耳其内政部长确诊感染新冠病毒",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilSmLhhNGJPhqqF5PgOxu201101&isfromapp=1",
+        "date": "2020-11-01"
+      },
+      {
+        "title": "陕西31日新增1例境外输入新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3zk34TIp98ug5bl0vSDj201101&isfromapp=1",
+        "date": "2020-11-01"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -24,7 +50,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10646",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10646",
     "title": "VUE全家桶",
     "link": "https://www.ershicimi.com/a/10646",
     "items": []
@@ -280,7 +306,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10548",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10548",
     "title": "前端e进阶",
     "link": "https://www.ershicimi.com/a/10548",
     "items": []

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-01 15:19:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 15:32:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -387,6 +387,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】陕西31日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3zk34TIp98ug5bl0vSDj201101&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -401,6 +402,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】美国累计确诊超912万-单日新增病例再超8万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6DQXvNddgI4YXfSWB0Xz201101&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】德法“封城”-英格兰再度全面封锁！欧洲新冠疫情反弹迅猛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPxE3SPBlx6Zd3F6Va9Q6201101&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】韩国新增新冠确诊病例124例-社交距离措施从三个阶段细分至五个阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1Ao7WNTbtJXddF8otHg1201101&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】土耳其内政部长确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilSmLhhNGJPhqqF5PgOxu201101&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -417,10 +422,6 @@
 - [【安全热点】2020-看雪SDC议题回顾-|-敲开芯片内存保护的最后一扇“门”](https://sec.thief.one/article_content?a_id=bca2fb55353745fb1742626849e86f13)
 - [【安全热点】《鸟哥-Linux-私房菜》560-页新书首发!完整中文版-PDF-下载](https://sec.thief.one/article_content?a_id=37b84673962e8c40fc9dfb536ce66261)
 - [【安全热点】Spring-视图操纵漏洞](https://sec.thief.one/article_content?a_id=ccd9f9f292f8a03c093664ffe7e8b1d1)
-- [【安全热点】周报|零信任沙龙与征文、季昕华授课、徐晓波专访、GeekPwn、电话...](https://sec.thief.one/article_content?a_id=cf9c2f376389de487ef68f2e97c79630)
-- [【安全热点】Microsoft-cng.sys权限提升漏洞CVE-2020-17087被在野0day利用...](https://sec.thief.one/article_content?a_id=cb0d4464e9d4ad2ce6a3a5b632ccd801)
-- [【安全热点】领跑双十一丨千元机械键盘助力学习免费送!](https://sec.thief.one/article_content?a_id=ec618c0c20f702bb48a0b75212e641c5)
-- [【安全热点】​某服务平台存在短信炸弹漏洞](https://sec.thief.one/article_content?a_id=915d103f857b42dd57b207096770f526)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

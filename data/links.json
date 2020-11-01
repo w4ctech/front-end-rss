@@ -6,36 +6,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/coronavirus/dxy",
+    "rss": "https://rss.shab.fun/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "福建31日新增境外输入新冠肺炎确诊病例1例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1H3wmQhMXRpYR4Q1Tzof201101&isfromapp=1",
-        "date": "2020-11-01"
-      },
-      {
-        "title": "四川31日新增境外输入新冠肺炎确诊病例1例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL6sJVnANHrNfAP72Gs15201101&isfromapp=1",
-        "date": "2020-11-01"
-      },
-      {
-        "title": "内蒙古31日新增3例境外输入新冠肺炎确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s7XMRz30dOPiDyjrvkR201101&isfromapp=1",
-        "date": "2020-11-01"
-      },
-      {
-        "title": "截至10月31日24时新型冠状病毒肺炎疫情最新情况",
-        "link": "http://www.nhc.gov.cn/xcs/yqtb/202011/357c1bf3e78f47a3b3c9b7cffec1b7b5.shtml",
-        "date": "2020-11-01"
-      },
-      {
-        "title": "10月31日甘肃新增7例境外输入新冠肺炎确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVCs3IyGHTof1l7CSxXGT201101&isfromapp=1",
-        "date": "2020-11-01"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-01 09:47:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 10:04:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -387,11 +387,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】福建31日新增境外输入新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1H3wmQhMXRpYR4Q1Tzof201101&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】四川31日新增境外输入新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL6sJVnANHrNfAP72Gs15201101&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】内蒙古31日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s7XMRz30dOPiDyjrvkR201101&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】截至10月31日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/357c1bf3e78f47a3b3c9b7cffec1b7b5.shtml)
-- [【全国新型肺炎疫情实时动态(丁香园)】10月31日甘肃新增7例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVCs3IyGHTof1l7CSxXGT201101&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

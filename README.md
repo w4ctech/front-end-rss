@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-01 07:47:41，:rocket: 更新条数: +158， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-01 08:03:52，:rocket: 更新条数: +183， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -530,6 +530,26 @@
 </summary>
 
 
+- [2020-11-01-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) ![](assets/new.png)  
+- [2020-11-01-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-01-Pigeon：Flutter-多端接口一致性以及规范化管理实践](https://toutiao.io/k/yeyymvu) ![](assets/new.png)  
+- [2020-11-01-滴滴翻译技术探索与实践](https://toutiao.io/k/5i8cg0x) ![](assets/new.png)  
+- [2020-11-01-分布式系统课程笔记（一）：绪论](https://toutiao.io/k/bq2loro) ![](assets/new.png)  
+- [2020-11-01-项目是否健康，做个盘点就够了](https://toutiao.io/k/5ujf5sy) ![](assets/new.png)  
+- [2020-11-01-一篇理解什么是-CanSet,-CanAddr？](https://toutiao.io/k/ry6oq0v) ![](assets/new.png)  
+- [2020-11-01-设计模式只是一把锤子，不要拿着到处去敲](https://toutiao.io/k/a1e4701) ![](assets/new.png)  
+- [2020-11-01-编程体系结构（七）：JavaEE-之-Web-开发](https://toutiao.io/k/cw7764i) ![](assets/new.png)  
+- [2020-11-01-Apache-Kylin-在中通快递的实践](https://toutiao.io/k/nyca5sm) ![](assets/new.png)  
+- [2020-11-01-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-01-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
+- [2020-11-01-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-01-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-11-01-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-01-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-11-01-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-11-01-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-11-01-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-01-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

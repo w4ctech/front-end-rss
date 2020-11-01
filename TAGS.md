@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-01 19:09:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 19:17:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -66,6 +66,7 @@
 
 
 
+- [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [【凹凸实验室】使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/)
 - [【凹凸实验室】Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/)
 - [【凹凸实验室】一个栗子实践vue2.0与1.0的区别](https://aotu.io/notes/2016/12/28/vue-clock/)
@@ -242,6 +243,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
 - [【张鑫旭-鑫空间-鑫生活】巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)
+- [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
 - [【凹凸实验室】移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/)
 - [【凹凸实验室】前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/)
 - [【凹凸实验室】单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/)
@@ -259,7 +261,6 @@
 - [【凹凸实验室】H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
 - [【凹凸实验室】写给新人的call、apply、bind](https://aotu.io/notes/2016/09/02/Different-Binding/)
 - [【凹凸实验室】SeaJS从入门到原理](https://aotu.io/notes/2016/08/29/SeaJs-From-Entry-To-The-Principle/)
-- [【凹凸实验室】神奇的Shadow-DOM](https://aotu.io/notes/2016/06/24/Shadow-DOM/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -365,6 +366,8 @@
 
 
 
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
 - [【凹凸实验室】京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)
 - [【凹凸实验室】前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/)
@@ -542,6 +545,12 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
+- [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
+- [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
+- [【京东设计中心】用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987)
+- [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
+- [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
+- [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
 - [【凹凸实验室】硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/)
 - [【凹凸实验室】三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/)
 - [【凹凸实验室】Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/)
@@ -549,12 +558,6 @@
 - [【凹凸实验室】618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/)
 - [【凹凸实验室】从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)
 - [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
-- [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
-- [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
-- [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
-- [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
-- [【凹凸实验室】羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)
-- [【凹凸实验室】前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

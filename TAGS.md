@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-01 14:48:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 15:03:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,6 +55,7 @@
 
 
 
+- [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -137,7 +138,6 @@
 
 
 
-- [【开发者头条】Pigeon：Flutter-多端接口一致性以及规范化管理实践](https://toutiao.io/k/yeyymvu)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -173,6 +173,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
 - [【张鑫旭-鑫空间-鑫生活】巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)
+- [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
 - [【安全热点】CVE-2020-14882:-Weblogic-Console-HTTP-远程代码执行漏洞通告](https://sec.thief.one/article_content?a_id=85faca1067da90b23029631e6cf76875)
 - [【安全热点】【公告】JSRC-九月月度英雄榜](https://sec.thief.one/article_content?a_id=7a49f1a2e7b64e876dcd8eb84f73ff32)
 - [【安全热点】漏洞风险提示-|-WebLogic-Console-权限认证绕过漏洞-CVE-2020-...](https://sec.thief.one/article_content?a_id=28e752981b84a4ce557291221ebb8c9a)
@@ -247,6 +248,8 @@
 
 
 
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【安全热点】如何优雅地给妹子优化电脑Windows?](https://sec.thief.one/article_content?a_id=a641d36bb369f422a5c6449e6cd91880)
 - [【安全热点】如何优雅地给妹子优化电脑Windows?](https://sec.thief.one/article_content?a_id=aff9cedc4379f0371a044378d8fd3383)
 - [【安全热点】Linux-性能问题难点解析内附高清图谱](https://sec.thief.one/article_content?a_id=a6e73b7513b5b1cd4600d24a3ed0bf8a)
@@ -335,7 +338,6 @@
 
 
 
-- [【开发者头条】爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,10 +354,6 @@
 
 
 
-- [【开发者头条】推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8)
-- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
-- [【开发者头条】推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61)
-- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [【安全热点】持续招聘中-|-还没找到工作吗?高薪岗位等你来!](https://sec.thief.one/article_content?a_id=b725f791f6f00af949064ff37b7446ae)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -411,19 +409,19 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
-- [【开发者头条】什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz)
-- [【开发者头条】编程体系结构（七）：JavaEE-之-Web-开发](https://toutiao.io/k/cw7764i)
-- [【开发者头条】分布式系统课程笔记（一）：绪论](https://toutiao.io/k/bq2loro)
-- [【开发者头条】项目是否健康，做个盘点就够了](https://toutiao.io/k/5ujf5sy)
-- [【开发者头条】滴滴翻译技术探索与实践](https://toutiao.io/k/5i8cg0x)
-- [【开发者头条】一篇理解什么是-CanSet,-CanAddr？](https://toutiao.io/k/ry6oq0v)
-- [【开发者头条】设计模式只是一把锤子，不要拿着到处去敲](https://toutiao.io/k/a1e4701)
-- [【开发者头条】Apache-Kylin-在中通快递的实践](https://toutiao.io/k/nyca5sm)
-- [【开发者头条】推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p)
-- [【开发者头条】推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6)
-- [【开发者头条】推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug)
-- [【开发者头条】推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw)
-- [【开发者头条】推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg)
+- [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
+- [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
+- [【京东设计中心】用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987)
+- [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
+- [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
+- [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
+- [【安全热点】比特币能否站稳14000美金,还得看这一关键阻力!](https://sec.thief.one/article_content?a_id=3bca7f0d477a207295abff6e939e9d26)
+- [【安全热点】世界互联网大会新闻发布会将于11月2日在京举办](https://sec.thief.one/article_content?a_id=16f4d2225643463d075a229e6d3b5e03)
+- [【安全热点】年薪30W起,白帽黑客到底多有钱?](https://sec.thief.one/article_content?a_id=7565a33836e01d8d0088a7ddb043b4b1)
+- [【安全热点】跨国犯罪团伙QQAAZZ多个成员被指控提供洗钱服务](https://sec.thief.one/article_content?a_id=1124962632fca4bba22ff84e5d8188f4)
+- [【安全热点】2020-看雪SDC议题回顾-|-敲开芯片内存保护的最后一扇“门”](https://sec.thief.one/article_content?a_id=bca2fb55353745fb1742626849e86f13)
+- [【安全热点】《鸟哥-Linux-私房菜》560-页新书首发!完整中文版-PDF-下载](https://sec.thief.one/article_content?a_id=37b84673962e8c40fc9dfb536ce66261)
+- [【安全热点】Spring-视图操纵漏洞](https://sec.thief.one/article_content?a_id=ccd9f9f292f8a03c093664ffe7e8b1d1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

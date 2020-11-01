@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-01 16:33:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 16:39:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -8,5 +8,3 @@
 
 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
-- [2020-10-31-Vue-原型链"注入",-修改掘金字体颜色](https://juejin.im/post/6889990106506067982) 
-- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

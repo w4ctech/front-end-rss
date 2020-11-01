@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-01 10:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 11:03:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,6 +17,11 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-01-原创图解|速读2020年上半年我国互联网网络安全监测数据分析报告...](https://sec.thief.one/article_content?a_id=217b873ae70e7798853f84c29d06d699) 
+- [2020-11-01-下一代终端安全攻防:无文件攻击白皮书](https://sec.thief.one/article_content?a_id=69c53feb36b0177aa9cae913b1495822) 
+- [2020-11-01-WebLogic高危安全漏洞补丁绕过风险提示](https://sec.thief.one/article_content?a_id=63d3387ba490a8f93242b5a67283eda0) 
+- [2020-10-31-Polisis:-Automated-Analysis-and-Presentation-of-Privacy-Policies](https://sec.thief.one/article_content?a_id=a52fd9b04d8b5456093eceef83e4e963) 
+- [2020-10-31-​【安全圈】KashmirBlack-劫持了数千个在主流-CMS-平台上的网站](https://sec.thief.one/article_content?a_id=ab0dc6b47af5b63eb71a594ae111142d) 
 - [2020-10-31-Web安全:跨站请求伪造漏洞](https://sec.thief.one/article_content?a_id=5c9c8997f40e9bf24cfbdef727e42b15) 
 - [2020-10-31-美军网络安全事故处理的启示与思考](https://sec.thief.one/article_content?a_id=80df75bdff2a297cf68e4788ff758c56) 
 - [2020-10-30-【安全热点周报】第166期:毫米波干扰导致特斯拉自动驾驶汽车雷达...](https://sec.thief.one/article_content?a_id=c450bd6f2e0e61c48876b0dce035cfdc) 
@@ -32,7 +37,3 @@
 - [2020-10-29-致远OA更新安全补丁和高危漏洞风险提示](https://sec.thief.one/article_content?a_id=be80dc20659cff32b595bed5759c33af) 
 - [2020-10-29-教育部:将网络安全纳入国家安全教育并全学段覆盖](https://sec.thief.one/article_content?a_id=4a70893267efd95b1693038c5bded232) 
 - [2020-10-29-网络安全产品漏洞排行榜](https://sec.thief.one/article_content?a_id=fdd899fa06a909b8093d5897b9db674a) 
-- [2020-10-29-会议沙龙|问道新基建,大咖指点2021云安全趋势新动向](https://sec.thief.one/article_content?a_id=66b69b4509bf5bd1df737f977c10ebcb) 
-- [2020-10-28-智慧司法建设新标杆!360安全大脑4181万落地长沙司法信息化建设](https://sec.thief.one/article_content?a_id=c30b4f75627c67b17103c6f002a54c27) 
-- [2020-10-28-中国移动通信集团:创新网络安全合规闭环管理](https://sec.thief.one/article_content?a_id=dbe7f862015a7084d3691286055da877) 
-- [2020-10-28-【安全圈】特朗普竞选网站被黑,川普:“假新闻!”](https://sec.thief.one/article_content?a_id=d8a866476e9bae4418a17fdf287d8e43) 

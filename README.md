@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-01 09:32:47，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-01 09:47:40，:rocket: 更新条数: +128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-11-01-福建31日新增境外输入新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1H3wmQhMXRpYR4Q1Tzof201101&isfromapp=1) ![](assets/new.png)  
+- [2020-11-01-四川31日新增境外输入新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL6sJVnANHrNfAP72Gs15201101&isfromapp=1) ![](assets/new.png)  
+- [2020-11-01-内蒙古31日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s7XMRz30dOPiDyjrvkR201101&isfromapp=1) ![](assets/new.png)  
+- [2020-11-01-截至10月31日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/357c1bf3e78f47a3b3c9b7cffec1b7b5.shtml) ![](assets/new.png)  
+- [2020-11-01-10月31日甘肃新增7例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVCs3IyGHTof1l7CSxXGT201101&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

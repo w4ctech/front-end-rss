@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-01 13:47:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-01 14:03:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-01-美国累计确诊超912万-单日新增病例再超8万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6DQXvNddgI4YXfSWB0Xz201101&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-01-德法“封城”-英格兰再度全面封锁！欧洲新冠疫情反弹迅猛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPxE3SPBlx6Zd3F6Va9Q6201101&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-01-韩国新增新冠确诊病例124例-社交距离措施从三个阶段细分至五个阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1Ao7WNTbtJXddF8otHg1201101&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-01-土耳其内政部长确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilSmLhhNGJPhqqF5PgOxu201101&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-01-陕西31日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3zk34TIp98ug5bl0vSDj201101&isfromapp=1) 
 - [【安全热点】2020-11-01-网络安全上市企业Q3营业数据排行](https://sec.thief.one/article_content?a_id=1056abb32e05e2aa1008d0e63cf13ad3) 
 - [【安全热点】2020-11-01-比特币能否站稳14000美金,还得看这一关键阻力!](https://sec.thief.one/article_content?a_id=3bca7f0d477a207295abff6e939e9d26) 
 - [【安全热点】2020-11-01-世界互联网大会新闻发布会将于11月2日在京举办](https://sec.thief.one/article_content?a_id=16f4d2225643463d075a229e6d3b5e03) 

@@ -11,6 +11,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "福建31日新增境外输入新冠肺炎确诊病例1例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1H3wmQhMXRpYR4Q1Tzof201101&isfromapp=1",
+        "date": "2020-11-01"
+      },
+      {
         "title": "四川31日新增境外输入新冠肺炎确诊病例1例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL6sJVnANHrNfAP72Gs15201101&isfromapp=1",
         "date": "2020-11-01"
@@ -28,11 +33,6 @@
       {
         "title": "10月31日甘肃新增7例境外输入新冠肺炎确诊病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVCs3IyGHTof1l7CSxXGT201101&isfromapp=1",
-        "date": "2020-11-01"
-      },
-      {
-        "title": "新疆新增新冠肺炎确诊病例3例 新增无症状感染者61例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5maqJfUWtTkDdk50Ral201101&isfromapp=1",
         "date": "2020-11-01"
       }
     ]

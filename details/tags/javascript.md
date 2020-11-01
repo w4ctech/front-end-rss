@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-01 10:21:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 10:32:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -37,9 +37,6 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
-- [2020-11-01-jsliang-2020-求职系列](https://juejin.im/post/6890075489881948167) 
-- [2020-10-31-浅析JavaScript中的Throttle与Debounce](https://juejin.im/post/6889792585267675149) 
-- [2020-11-01-gunicorn-和-celery-都使用-gevent-worker，-celery-task-是否需要自己手动-monkey-patch？](https://www.v2ex.com/t/720709) 
 - [2020-10-30-CVE-2020-14882:-Weblogic-Console-HTTP-远程代码执行漏洞通告](https://sec.thief.one/article_content?a_id=85faca1067da90b23029631e6cf76875) 
 - [2020-10-30-【公告】JSRC-九月月度英雄榜](https://sec.thief.one/article_content?a_id=7a49f1a2e7b64e876dcd8eb84f73ff32) 
 - [2020-10-30-漏洞风险提示-|-WebLogic-Console-权限认证绕过漏洞-CVE-2020-...](https://sec.thief.one/article_content?a_id=28e752981b84a4ce557291221ebb8c9a) 

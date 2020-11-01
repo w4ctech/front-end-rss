@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-01 08:03:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-01 08:11:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,31 +68,11 @@
 </summary>
 
 
-- [【开发者头条】2020-11-01-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) 
-- [【开发者头条】2020-11-01-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) 
-- [【开发者头条】2020-11-01-Pigeon：Flutter-多端接口一致性以及规范化管理实践](https://toutiao.io/k/yeyymvu) 
-- [【开发者头条】2020-11-01-滴滴翻译技术探索与实践](https://toutiao.io/k/5i8cg0x) 
-- [【开发者头条】2020-11-01-分布式系统课程笔记（一）：绪论](https://toutiao.io/k/bq2loro) 
-- [【开发者头条】2020-11-01-项目是否健康，做个盘点就够了](https://toutiao.io/k/5ujf5sy) 
-- [【开发者头条】2020-11-01-一篇理解什么是-CanSet,-CanAddr？](https://toutiao.io/k/ry6oq0v) 
-- [【开发者头条】2020-11-01-设计模式只是一把锤子，不要拿着到处去敲](https://toutiao.io/k/a1e4701) 
-- [【开发者头条】2020-11-01-编程体系结构（七）：JavaEE-之-Web-开发](https://toutiao.io/k/cw7764i) 
-- [【开发者头条】2020-11-01-Apache-Kylin-在中通快递的实践](https://toutiao.io/k/nyca5sm) 
-- [【开发者头条】2020-11-01-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) 
-- [【开发者头条】2020-11-01-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) 
-- [【开发者头条】2020-11-01-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
-- [【开发者头条】2020-11-01-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) 
-- [【开发者头条】2020-11-01-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
-- [【开发者头条】2020-11-01-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
-- [【开发者头条】2020-11-01-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
-- [【开发者头条】2020-11-01-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
-- [【开发者头条】2020-11-01-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) 
-- [【开发者头条】2020-11-01-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) 
-- [【开发者头条】2020-11-01-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
-- [【开发者头条】2020-11-01-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
-- [【开发者头条】2020-11-01-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) 
-- [【开发者头条】2020-11-01-推荐-面试官：如何写出让-CPU-跑得更快的代码？](https://toutiao.io/k/l6chi61) 
-- [【开发者头条】2020-11-01-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-01-福建31日新增境外输入新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1H3wmQhMXRpYR4Q1Tzof201101&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-01-四川31日新增境外输入新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL6sJVnANHrNfAP72Gs15201101&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-01-内蒙古31日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s7XMRz30dOPiDyjrvkR201101&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-01-截至10月31日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/357c1bf3e78f47a3b3c9b7cffec1b7b5.shtml) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-01-10月31日甘肃新增7例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVCs3IyGHTof1l7CSxXGT201101&isfromapp=1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -116,11 +96,6 @@
 - [【阮一峰的网络日志】2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html) 
 - [【阮一峰的网络日志】2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html) 
 - [【阮一峰的网络日志】2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html) 
-- [【掘金前端】2020-10-31-浅析JavaScript中的Throttle与Debounce](https://juejin.im/post/6889792585267675149) 
-- [【掘金前端】2020-10-31-ToyReact-框架-JSX原理与实现学习报告](https://juejin.im/post/6889789735016972295) 
-- [【掘金前端】2020-10-31-Axios-响应不能拦截-302-状态码？](https://juejin.im/post/6889782338115207182) 
-- [【掘金前端】2020-10-31-2020-年前端分类推荐书单【结合思维导图】](https://juejin.im/post/6889780734324637703) 
-- [【掘金前端】2020-10-31-前端不得不懂的架构知识（上）](https://juejin.im/post/6889775914906419214) 
 - [【安全热点】2020-10-31-i春秋双11钜惠抢先知!不玩噱头,惊喜给足你!](https://sec.thief.one/article_content?a_id=ae2a5a8b6f125bfc391890cdf5993de3) 
 - [【安全热点】2020-10-31-K神手扎:比特币震荡期,耐心等待](https://sec.thief.one/article_content?a_id=6a3b6daada2f247ead5b8be28b7bfffd) 
 - [【安全热点】2020-10-31-【网闻鉴真】想让Wi-Fi快点?这些歪招儿都不行](https://sec.thief.one/article_content?a_id=b397dc7f1192f356afab353cdc08842e) 

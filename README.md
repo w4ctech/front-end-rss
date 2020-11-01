@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-01 06:04:01，:rocket: 更新条数: +214， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-01 06:11:45，:rocket: 更新条数: +208， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -513,26 +513,6 @@
 </summary>
 
 
-- [2020-11-01-双十一来临，-GopherChina-2020-携大咖带来优惠](https://www.v2ex.com/t/720689) ![](assets/new.png)  
-- [2020-11-01-分享一下美区-Apple-One-踩到的坑](https://www.v2ex.com/t/720688) ![](assets/new.png)  
-- [2020-11-01-有哪些好用的免费的-OCR-API，识别很简单的图片用](https://www.v2ex.com/t/720687) ![](assets/new.png)  
-- [2020-11-01-XIA-想集-#02-待会儿吃啥](https://www.v2ex.com/t/720686) ![](assets/new.png)  
-- [2020-11-01-4499-抢到了-iPhone11-黑色-128g+Airpods2！怎么卖合适！](https://www.v2ex.com/t/720685) ![](assets/new.png)  
-- [2020-11-01-求懂耳机的朋友推荐有线耳机](https://www.v2ex.com/t/720684) ![](assets/new.png)  
-- [2020-11-01-漫画《打工鬼》（转）](https://www.v2ex.com/t/720683) ![](assets/new.png)  
-- [2020-11-01-苹果电脑配件，想说爱你不容易](https://www.v2ex.com/t/720682) ![](assets/new.png)  
-- [2020-11-01-遇到一个很难抉择的问题了，欢迎吃瓜。](https://www.v2ex.com/t/720679) ![](assets/new.png)  
-- [2020-11-01-大家的-iPhone-12-信号翻车了吗？](https://www.v2ex.com/t/720678) ![](assets/new.png)  
-- [2020-11-01-语言种类最全的权限管理系统—Casbin](https://www.v2ex.com/t/720677) ![](assets/new.png)  
-- [2020-11-01-十一特价腾讯视频会员-1-年-99-元-爱奇艺年费-99-元-限时-3-天](https://www.v2ex.com/t/720676) ![](assets/new.png)  
-- [2020-11-01-我这个拓扑有问题吗？该怎么设置?](https://www.v2ex.com/t/720675) ![](assets/new.png)  
-- [2020-11-01-有收到卖楼的推销电话吗？](https://www.v2ex.com/t/720673) ![](assets/new.png)  
-- [2020-11-01-用-mbp-给-iPhone-充电会伤害手机电池吗](https://www.v2ex.com/t/720671) ![](assets/new.png)  
-- [2020-11-01-出-bwh-19.9-$-小水管主机](https://www.v2ex.com/t/720670) ![](assets/new.png)  
-- [2020-11-01-支付宝的一个优惠技巧，可能长期有效](https://www.v2ex.com/t/720667) ![](assets/new.png)  
-- [2020-11-01-部分-AirPods-Pro-出现声音问题，苹果公布全球性计划：免费更换问题耳机](https://www.v2ex.com/t/720666) ![](assets/new.png)  
-- [2020-11-01-微软键盘深圳哪里有售后？](https://www.v2ex.com/t/720665) ![](assets/new.png)  
-- [2020-11-01-如何判断域名是否被微信封？](https://www.v2ex.com/t/720663) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,6 +555,26 @@
 </summary>
 
 
+- [2020-11-01-什么是真正的程序员？|-码农周刊第-323-期](https://toutiao.io/k/v08ikpz) ![](assets/new.png)  
+- [2020-11-01-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-01-Pigeon：Flutter-多端接口一致性以及规范化管理实践](https://toutiao.io/k/yeyymvu) ![](assets/new.png)  
+- [2020-11-01-滴滴翻译技术探索与实践](https://toutiao.io/k/5i8cg0x) ![](assets/new.png)  
+- [2020-11-01-分布式系统课程笔记（一）：绪论](https://toutiao.io/k/bq2loro) ![](assets/new.png)  
+- [2020-11-01-项目是否健康，做个盘点就够了](https://toutiao.io/k/5ujf5sy) ![](assets/new.png)  
+- [2020-11-01-一篇理解什么是-CanSet,-CanAddr？](https://toutiao.io/k/ry6oq0v) ![](assets/new.png)  
+- [2020-11-01-设计模式只是一把锤子，不要拿着到处去敲](https://toutiao.io/k/a1e4701) ![](assets/new.png)  
+- [2020-11-01-编程体系结构（七）：JavaEE-之-Web-开发](https://toutiao.io/k/cw7764i) ![](assets/new.png)  
+- [2020-11-01-Apache-Kylin-在中通快递的实践](https://toutiao.io/k/nyca5sm) ![](assets/new.png)  
+- [2020-11-01-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
+- [2020-11-01-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
+- [2020-11-01-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-11-01-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
+- [2020-11-01-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-01-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-01-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-11-01-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-01-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
+- [2020-11-01-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

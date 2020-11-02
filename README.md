@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-02 17:47:39，:rocket: 更新条数: +450， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-02 18:04:07，:rocket: 更新条数: +425， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,13 +46,13 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -453,11 +453,6 @@
 </summary>
 
 
-- [2020-11-02-【小小心得】证明洗牌算法随机性](https://juejin.im/post/6890513616236363790) ![](assets/new.png)  
-- [2020-11-02-Three.js的渲染过程](https://juejin.im/post/6890502040666144782) ![](assets/new.png)  
-- [2020-11-02-React通过天气预报API获取数据](https://juejin.im/post/6890486741913272334) ![](assets/new.png)  
-- [2020-11-02-预渲染-prerender-spa-plugin-避坑指南](https://juejin.im/post/6890468167819214856) ![](assets/new.png)  
-- [2020-11-02-看不到的React](https://juejin.im/post/6890462707305152520) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -544,26 +539,6 @@
 </summary>
 
 
-- [2020-11-02-Serverless-对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-云原生时代，应用架构将如何演进？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-阿里云数据湖解决方案全面满足数据需求，帮助企业释放数据价值-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13866&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772900%3Futm_content%3Dg_1000197928%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-AI和大数据下，前端技术将如何发展？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13865&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776699%3Futm_content%3Dg_1000197927%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-持续定义Saas模式云数据仓库+BI-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13864&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771483%3Futm_content%3Dg_1000197926%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-秒懂-Https-之如何在-Android-中使用自签名证书-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13863&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_g5Mmy0KmgCnpsQfw34-oQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-集成-Flutter-到现有项目，并实现使用单个-FlutterEngine-管理多个入口-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13862&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7SUWmY4xfHkyeckKITN1yA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-来大厂三个月的一点点小思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS0OI-0CY1qvEvbGw46W8bQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-美团面经分享！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13860&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWKED32dv1dSwkocMatnMQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-一个人竟然撸了一个微博-App-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13859&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfaeImHs3Sjj_Tq3CZrSVmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-有个程序员老公有多爽？？？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13858&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FopvJMxf4DCyJXcktYBGwBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-微软宣布-Windows-10-重大调整：一年一更！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13857&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzYWy2eh2mcrBnuxvXdfOHA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-张一鸣：10-年面试-2000-人，发现混的好的人，他们都有这一个特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13856&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ-b4-JgF_FkSGl7PhzXecA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-Android-端-Edge-现也可访问实验-Flag-功能了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13855&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVvde7kpRSyN7qTaEKwkHNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-千年后，你的代码还有谁认识？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13854&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSBbBF56U3UtFJNTwoFTkhg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-一些恶心的代码片段-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13853&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGGg1Ef_nwMGm5k9d62daqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-快看！滴滴开源了哪些有意思的项目？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13852&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRyFz9X0XhFxd7B9p08Im9g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13851&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-云原生数据湖解决方案打破数据孤岛，大数据驱动互娱行业发展-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13850&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772902%3Futm_content%3Dg_1000196483%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-02-记录-Webpack-从版本-4-更新至-5-所遇到的问题-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13849&url=https%3A%2F%2Fquickapp.lovejade.cn%2Frecord-issues-encountered-with-webpack-update-from-version-4-to-5%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -584,8 +559,8 @@
 - [2020-11-02-Redis-五大数据类型使用场景](https://toutiao.io/k/iam44fb) ![](assets/new.png)  
 - [2020-11-02-记一次微信小程序渗透测试](https://toutiao.io/k/sfat355) ![](assets/new.png)  
 - [2020-11-02-Native-地图与-Web-融合技术的应用与实践](https://toutiao.io/k/wvu7g7j) ![](assets/new.png)  
-- [2020-11-02-京东到家打通-Flutter-for-web](https://toutiao.io/k/ka542ir) ![](assets/new.png)  
 - [2020-11-02-译-编程中花括号的简史](https://toutiao.io/k/q6fuhvg) ![](assets/new.png)  
+- [2020-11-02-京东到家打通-Flutter-for-web](https://toutiao.io/k/ka542ir) ![](assets/new.png)  
 - [2020-11-02-为什么说-LockSupport-是-Java-并发的基石？](https://toutiao.io/k/ea3qf7d) ![](assets/new.png)  
 - [2020-11-02-白话科普，10s-了解-API](https://toutiao.io/k/h2mk13o) ![](assets/new.png)  
 - [2020-11-02-MySQL-8-新特性之-Clone-Plugin](https://toutiao.io/k/fefvafa) ![](assets/new.png)  
@@ -593,8 +568,8 @@
 - [2020-11-02-疑难杂症录：C++-代码出现内存泄露？不是吧…](https://toutiao.io/k/h907d9d) ![](assets/new.png)  
 - [2020-11-02-单元测试难？来试试这些套路](https://toutiao.io/k/gwy1d41) ![](assets/new.png)  
 - [2020-11-02-为什么需要机器学习平台？](https://toutiao.io/k/kky89nb) ![](assets/new.png)  
-- [2020-11-02-心想技术驱动业务，却在背道而驰](https://toutiao.io/k/almxttn) ![](assets/new.png)  
 - [2020-11-02-Zookeeper-浅谈](https://toutiao.io/k/p44sj5m) ![](assets/new.png)  
+- [2020-11-02-心想技术驱动业务，却在背道而驰](https://toutiao.io/k/almxttn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "新加坡规定12月起进入校园须使用防疫追踪设备",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwYYO0RiQYRcCzNxhy9R5201102&isfromapp=1",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "英媒称威廉王子今年4月新冠病毒检测呈阳性 并有意隐瞒了检测结果",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif0Ve5Ru7Zlese3feBHbf201102&isfromapp=1",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "香港新增6例新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ad8oaaYCEEChXCQbznj201102&isfromapp=1",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "驻韩美军及家属新增18例新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWXjvd8euHXTRBl37uEHv201102&isfromapp=1",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "印度单日新增新冠肺炎确诊病例45231 累计确诊病例升至8229313人",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUIuZoI9s7C2H3H5iu2FU201102&isfromapp=1",
+        "date": "2020-11-02"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -1465,10 +1491,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "微前端项目实战整理（single-spa+react+iframe）（二）",
+        "link": "https://juejin.im/post/6890466173314564104",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "NestJS 7.x 折腾记: (0) 起手式-> VS Code 1.5+ Debug NestJS",
+        "link": "https://juejin.im/post/6890462923135991815",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "看不懂闭包的，来看这个，必懂（配有视频讲解）",
+        "link": "https://juejin.im/post/6890460488254095367",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "一文搞定数组扁平化（超全面数组拉平方案及实现）",
+        "link": "https://juejin.im/post/6890449615087370248",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "手把手教你搭建 Vue 服务端渲染项目",
+        "link": "https://juejin.im/post/6890443384440553486",
+        "date": "2020-11-02"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/jskou/0",
@@ -1501,10 +1553,111 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/blogread/newest",
+    "rss": "https://rss.itggg.cn/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "Serverless 对研发效能的变革和创新 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "云原生时代，应用架构将如何演进？ (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "阿里云数据湖解决方案全面满足数据需求，帮助企业释放数据价值 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13866&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772900%3Futm_content%3Dg_1000197928%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "AI和大数据下，前端技术将如何发展？ (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13865&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776699%3Futm_content%3Dg_1000197927%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "持续定义Saas模式云数据仓库+BI (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13864&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771483%3Futm_content%3Dg_1000197926%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "秒懂 Https 之如何在 Android 中使用自签名证书 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13863&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_g5Mmy0KmgCnpsQfw34-oQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "集成 Flutter 到现有项目，并实现使用单个 FlutterEngine 管理多个入口 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13862&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7SUWmY4xfHkyeckKITN1yA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "来大厂三个月的一点点小思考 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS0OI-0CY1qvEvbGw46W8bQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "美团面经分享！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13860&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWKED32dv1dSwkocMatnMQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "一个人竟然撸了一个微博 App (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13859&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfaeImHs3Sjj_Tq3CZrSVmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "有个程序员老公有多爽？？？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13858&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FopvJMxf4DCyJXcktYBGwBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "微软宣布 Windows 10 重大调整：一年一更！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13857&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzYWy2eh2mcrBnuxvXdfOHA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "张一鸣：10 年面试 2000 人，发现混的好的人，他们都有这一个特质 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13856&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ-b4-JgF_FkSGl7PhzXecA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "Android 端 Edge 现也可访问实验 Flag 功能了 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13855&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVvde7kpRSyN7qTaEKwkHNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "千年后，你的代码还有谁认识？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13854&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSBbBF56U3UtFJNTwoFTkhg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "一些恶心的代码片段 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13853&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGGg1Ef_nwMGm5k9d62daqg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "快看！滴滴开源了哪些有意思的项目？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13852&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRyFz9X0XhFxd7B9p08Im9g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "硬核！IDEA 中使用 Git 完整入门教程！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13851&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "云原生数据湖解决方案打破数据孤岛，大数据驱动互娱行业发展 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13850&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772902%3Futm_content%3Dg_1000196483%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "记录 Webpack 从版本 4 更新至 5 所遇到的问题 (quickapp.lovejade.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13849&url=https%3A%2F%2Fquickapp.lovejade.cn%2Frecord-issues-encountered-with-webpack-update-from-version-4-to-5%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-02"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/toutiao/today",

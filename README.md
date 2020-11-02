@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-02 01:23:35，:rocket: 更新条数: +410， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-02 01:32:58，:rocket: 更新条数: +464， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -335,6 +335,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -443,6 +453,11 @@
 </summary>
 
 
+- [2020-11-01-如何更好地理解中间件和洋葱模型](https://juejin.im/post/6890259747866411022) ![](assets/new.png)  
+- [2020-11-01-实现一个自己的Promise《一》](https://juejin.im/post/6890189360113975303) ![](assets/new.png)  
+- [2020-11-01-ReactHooks-v16.8新特性](https://juejin.im/post/6890185546438541326) ![](assets/new.png)  
+- [2020-11-01-微信公众号开发本地调试](https://juejin.im/post/6890159763720667149) ![](assets/new.png)  
+- [2020-11-01-uniapp---绘制海报工具](https://juejin.im/post/6890151258624425997) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -518,6 +533,26 @@
 </summary>
 
 
+- [2020-11-02-快手内推-移动端、后台、算法、测试、产品设计都可以推荐~](https://www.v2ex.com/t/720865) ![](assets/new.png)  
+- [2020-11-02-最近忽然崇拜~陈某某。哪位电子大神会组摄像头，微小型的。-求解](https://www.v2ex.com/t/720864) ![](assets/new.png)  
+- [2020-11-02-big-sur-11.0.1-是不是还是没办法正常使用-airpods-的无缝切换](https://www.v2ex.com/t/720860) ![](assets/new.png)  
+- [2020-11-02-吐槽一波腾讯云备案~](https://www.v2ex.com/t/720859) ![](assets/new.png)  
+- [2020-11-02-有人用过国密算法吗，它有哪些好处？](https://www.v2ex.com/t/720857) ![](assets/new.png)  
+- [2020-11-02-不知道有听机核的程序员么，我写了-3-个项目，帮助大家摸鱼听机核电台，看机核文章，看机核电台的数据](https://www.v2ex.com/t/720856) ![](assets/new.png)  
+- [2020-11-02-有没有关注-discuzq-的老哥们？](https://www.v2ex.com/t/720855) ![](assets/new.png)  
+- [2020-11-02-购买-iPhone12-pro-的理由是什么？](https://www.v2ex.com/t/720853) ![](assets/new.png)  
+- [2020-11-02-一年多的后续：在美国工作若干年，分享平时积累的英语词汇。](https://www.v2ex.com/t/720852) ![](assets/new.png)  
+- [2020-11-02-看到一句话，该怎么解读](https://www.v2ex.com/t/720851) ![](assets/new.png)  
+- [2020-11-02-在设置中关闭-APP-消息通知之后，启动-APP-老是提示我开启消息通知](https://www.v2ex.com/t/720850) ![](assets/new.png)  
+- [2020-11-02-记一次北京办居住证经历](https://www.v2ex.com/t/720849) ![](assets/new.png)  
+- [2020-11-02-双十一，你冲动消费了吗](https://www.v2ex.com/t/720848) ![](assets/new.png)  
+- [2020-11-02-一日之计在于晨，古人诚我不欺。早上起来好舒服呀。](https://www.v2ex.com/t/720847) ![](assets/new.png)  
+- [2020-11-02-KyPHP-发布-1.0.2-版本](https://www.v2ex.com/t/720846) ![](assets/new.png)  
+- [2020-11-02-关于-S10-终究还是想写一些](https://www.v2ex.com/t/720844) ![](assets/new.png)  
+- [2020-11-01-嵌入式的开源项目，更新啦~](https://www.v2ex.com/t/720843) ![](assets/new.png)  
+- [2020-11-01-Big-Sur-修复了-Gmail-导致邮箱弹出的问题？](https://www.v2ex.com/t/720842) ![](assets/new.png)  
+- [2020-11-01-理论上是一个简单-app-抓包，但总是抓不到特定的图片，求助-V2-大神](https://www.v2ex.com/t/720841) ![](assets/new.png)  
+- [2020-11-01-四大咨询-直招金融+计算机背景应届生](https://www.v2ex.com/t/720840) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -551,15 +586,15 @@
 - [2020-11-02-京东到家打通-Flutter-for-web](https://toutiao.io/k/ka542ir) ![](assets/new.png)  
 - [2020-11-02-为什么说-LockSupport-是-Java-并发的基石？](https://toutiao.io/k/ea3qf7d) ![](assets/new.png)  
 - [2020-11-02-白话科普，10s-了解-API](https://toutiao.io/k/h2mk13o) ![](assets/new.png)  
-- [2020-11-02-Hadoop-框架：NameNode-工作机制详解](https://toutiao.io/k/t467bth) ![](assets/new.png)  
 - [2020-11-02-Redis-五大数据类型使用场景](https://toutiao.io/k/iam44fb) ![](assets/new.png)  
+- [2020-11-02-Hadoop-框架：NameNode-工作机制详解](https://toutiao.io/k/t467bth) ![](assets/new.png)  
 - [2020-11-02-机器学习基础：基本的概念](https://toutiao.io/k/vqgrujk) ![](assets/new.png)  
 - [2020-11-02-疑难杂症录：C++-代码出现内存泄露？不是吧…](https://toutiao.io/k/h907d9d) ![](assets/new.png)  
-- [2020-11-02-推荐-理解完这些基本上能解决面试中-MySQL-的事务问题](https://toutiao.io/k/szxq5t8) ![](assets/new.png)  
-- [2020-11-02-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
 - [2020-11-02-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
-- [2020-11-02-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-02-推荐-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/k7nf2vd) ![](assets/new.png)  
+- [2020-11-02-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
+- [2020-11-02-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-02-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-02-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

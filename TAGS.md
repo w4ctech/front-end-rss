@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-02 18:04:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-02 18:10:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -50,6 +50,8 @@
 - [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
 - [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 - [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
+- [【掘金前端】React通过天气预报API获取数据](https://juejin.im/post/6890486741913272334)
+- [【掘金前端】看不到的React](https://juejin.im/post/6890462707305152520)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -113,6 +115,7 @@
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【技术头条】记录-Webpack-从版本-4-更新至-5-所遇到的问题-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13849&url=https%3A%2F%2Fquickapp.lovejade.cn%2Frecord-issues-encountered-with-webpack-update-from-version-4-to-5%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -193,6 +196,7 @@
 - [【凹凸实验室】Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/)
 - [【凹凸实验室】Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/)
 - [【凹凸实验室】Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/)
+- [【技术头条】集成-Flutter-到现有项目，并实现使用单个-FlutterEngine-管理多个入口-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13862&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7SUWmY4xfHkyeckKITN1yA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】京东到家打通-Flutter-for-web](https://toutiao.io/k/ka542ir)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
@@ -378,6 +382,7 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
+- [【掘金前端】预渲染-prerender-spa-plugin-避坑指南](https://juejin.im/post/6890468167819214856)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】工具-|-字节跳动开源的，超高速、多特性的高性能序列推理引擎](https://toutiao.io/k/s6o3btm)
 - [【安全热点】如何优雅地给妹子优化电脑Windows?](https://sec.thief.one/article_content?a_id=a641d36bb369f422a5c6449e6cd91880)
@@ -408,6 +413,7 @@
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【技术头条】Android-端-Edge-现也可访问实验-Flag-功能了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13855&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVvde7kpRSyN7qTaEKwkHNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】首届中国I2S峰会暨工业互联网安全大赛-在南通成功召开](https://sec.thief.one/article_content?a_id=64dc487d9162e1fed08d9e22a147496b)
 - [【安全热点】【安全风险通告】WebLogic高危漏洞又被绕过,Oracle-WebLogic-...](https://sec.thief.one/article_content?a_id=e8416cc8253484bcc9a6c629305fdb97)
 - [【安全热点】招聘-|-腾讯安全专家咨询中心人才招募令](https://sec.thief.one/article_content?a_id=412eba2d561b19cab9e9387c907dc2b4)
@@ -417,7 +423,6 @@
 - [【安全热点】每日安全动态推送11-02](https://sec.thief.one/article_content?a_id=8191a08bdbfb30509dac5b9008c41baf)
 - [【安全热点】【实战】无回显Rce到Getshell](https://sec.thief.one/article_content?a_id=825b5af63b0799c1b0441fb8409398d3)
 - [【安全热点】物联网安全黑马-天防安全再获2000万融资加持](https://sec.thief.one/article_content?a_id=6c5db0ee76c5ce97836d7dd7a8e3d02d)
-- [【安全热点】Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=404c643fd8ced12c0b99d88619ab4850)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -441,6 +446,8 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【掘金前端】【小小心得】证明洗牌算法随机性](https://juejin.im/post/6890513616236363790)
+- [【技术头条】秒懂-Https-之如何在-Android-中使用自签名证书-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13863&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_g5Mmy0KmgCnpsQfw34-oQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】算法刷题宝典.pdf](https://sec.thief.one/article_content?a_id=0e3cae9495c1a8c83ea847111a621bed)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -479,6 +486,7 @@
 - [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【技术头条】硬核！IDEA-中使用-Git-完整入门教程！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13851&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkAFRXHiTqpCONr2ICTddkg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -495,8 +503,10 @@
 
 
 
+- [【技术头条】张一鸣：10-年面试-2000-人，发现混的好的人，他们都有这一个特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13856&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ-b4-JgF_FkSGl7PhzXecA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
+- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [【安全热点】持续招聘中-|-还没找到工作吗?高薪岗位等你来!](https://sec.thief.one/article_content?a_id=b725f791f6f00af949064ff37b7446ae)
 - [......【查看更多】......](./details/tags/job-interview.md)

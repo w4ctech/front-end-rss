@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-02 20:47:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-02 21:03:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,5 +12,4 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-11-02-杭州-电竞和体育比分直播站招靠谱-Java-工程狮~](https://www.v2ex.com/t/721164) 
 - [2020-11-01-【视频】|-解读《中华人民共和国网络安全法》](https://sec.thief.one/article_content?a_id=042551ac1a759a89bed2986ee34d57c4) 

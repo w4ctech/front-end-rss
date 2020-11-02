@@ -330,36 +330,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "微前端项目实战整理（single-spa+react+iframe）（二）",
-        "link": "https://juejin.im/post/6890466173314564104",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "NestJS 7.x 折腾记: (0) 起手式-> VS Code 1.5+ Debug NestJS",
-        "link": "https://juejin.im/post/6890462923135991815",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "看不懂闭包的，来看这个，必懂（配有视频讲解）",
-        "link": "https://juejin.im/post/6890460488254095367",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "一文搞定数组扁平化（超全面数组拉平方案及实现）",
-        "link": "https://juejin.im/post/6890449615087370248",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "手把手教你搭建 Vue 服务端渲染项目",
-        "link": "https://juejin.im/post/6890443384440553486",
-        "date": "2020-11-02"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/jskou/0",
@@ -398,192 +372,51 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/toutiao/today",
+    "rss": "https://rss.shab.fun/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": [
-      {
-        "title": "什么是真正的程序员？| 码农周刊第 323 期",
-        "link": "https://toutiao.io/k/v08ikpz",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "工具 | 字节跳动开源的，超高速、多特性的高性能序列推理引擎",
-        "link": "https://toutiao.io/k/s6o3btm",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "Hadoop 框架：NameNode 工作机制详解",
-        "link": "https://toutiao.io/k/t467bth",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "某行两地三中心多活设计实践",
-        "link": "https://toutiao.io/k/1oh6ekv",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "记一次微信小程序渗透测试",
-        "link": "https://toutiao.io/k/sfat355",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "Native 地图与 Web 融合技术的应用与实践",
-        "link": "https://toutiao.io/k/wvu7g7j",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[译] 编程中花括号的简史",
-        "link": "https://toutiao.io/k/q6fuhvg",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "京东到家打通 Flutter for web",
-        "link": "https://toutiao.io/k/ka542ir",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "为什么说 LockSupport 是 Java 并发的基石？",
-        "link": "https://toutiao.io/k/ea3qf7d",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "Redis 五大数据类型使用场景",
-        "link": "https://toutiao.io/k/iam44fb",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "白话科普，10s 了解 API",
-        "link": "https://toutiao.io/k/h2mk13o",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "机器学习基础：基本的概念",
-        "link": "https://toutiao.io/k/vqgrujk",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "疑难杂症录：C++ 代码出现内存泄露？不是吧…",
-        "link": "https://toutiao.io/k/h907d9d",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "单元测试难？来试试这些套路",
-        "link": "https://toutiao.io/k/gwy1d41",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "MySQL 8 新特性之 Clone Plugin",
-        "link": "https://toutiao.io/k/fefvafa",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "为什么需要机器学习平台？",
-        "link": "https://toutiao.io/k/kky89nb",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "心想技术驱动业务，却在背道而驰",
-        "link": "https://toutiao.io/k/almxttn",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "Zookeeper 浅谈",
-        "link": "https://toutiao.io/k/p44sj5m",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 理解完这些基本上能解决面试中 MySQL 的事务问题",
-        "link": "https://toutiao.io/k/szxq5t8",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
-        "link": "https://toutiao.io/k/z6p6anw",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
-        "link": "https://toutiao.io/k/kqvczix",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
-        "link": "https://toutiao.io/k/9j801i6",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
-        "link": "https://toutiao.io/k/k7nf2vd",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "[推荐] 面试官：如何写出让 CPU 跑得更快的代码？",
-        "link": "https://toutiao.io/k/l6chi61",
-        "date": "2020-11-02"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://sec.thief.one/atom.xml",
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "漏洞风险提示 | WebLogic Console 权限认证绕过漏洞 CVE-2020-14750",
+        "link": "https://sec.thief.one/article_content?a_id=0c91d61523022e140bfcb85144a02546",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "每日攻防资讯简报[Nov.2th]",
+        "link": "https://sec.thief.one/article_content?a_id=c1162c51336b8d30e13289f98cd01c6b",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "《绿盟君的咖啡时间》第6期:不负每一份对技术的热爱",
+        "link": "https://sec.thief.one/article_content?a_id=7c1ef6b8fa6c151482db0a82414218ca",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "学习强国:工业互联网攻击事件频发 安全建设亟须从“零散”走向“全...",
+        "link": "https://sec.thief.one/article_content?a_id=fdb70f7865f7659ee19d316d9f52383c",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "2020 看雪SDC议题回顾 | 基于量子逻辑门的代码虚拟(vmp)保护方案",
+        "link": "https://sec.thief.one/article_content?a_id=bf4986332029a0c0baff99057139ff0c",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "要投,就投字节跳动!",
+        "link": "https://sec.thief.one/article_content?a_id=c76ed4a7cebcc7f07ff41b9f65b236f9",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "指针都没搞懂,还能算得上 C++ 老司机?",
+        "link": "https://sec.thief.one/article_content?a_id=3b0deda7a1a0e620eab858fc644c340f",
+        "date": "2020-11-02"
+      },
       {
         "title": "2020雷神众测HackingDay 再度来袭,完整议题流程请查收!",
         "link": "https://sec.thief.one/article_content?a_id=76ef9b9c5c9f63b24c6d0ffab7f635f7",
@@ -622,6 +455,11 @@
       {
         "title": "Oracle WebLogic未授权访问漏洞CVE-2020-14883绕过",
         "link": "https://sec.thief.one/article_content?a_id=8ef220c6765191bb2e87c361f3c849cd",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "威斯康辛州共和党在美大选前被黑客盗走230万美元",
+        "link": "https://sec.thief.one/article_content?a_id=cdd09c26e06ab6c981025cd1ae83a4d3",
         "date": "2020-11-02"
       },
       {
@@ -727,6 +565,11 @@
       {
         "title": "漫画:7 种编程语言的学习曲线",
         "link": "https://sec.thief.one/article_content?a_id=cf4758a44711c2e21cc55f17fbb37ab6",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "信安之路 CTF 战队人才招募",
+        "link": "https://sec.thief.one/article_content?a_id=e5cfd24febe97d53c721ff6e59d655aa",
         "date": "2020-11-02"
       },
       {
@@ -1037,51 +880,6 @@
       {
         "title": "《零信任全景图》正式启动,诚邀企业机构填报信息",
         "link": "https://sec.thief.one/article_content?a_id=5bb085f5c1ea79a8cc5746eebbd0ecf1",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "探寻“密钥分发难题”——《了不起的密码》系列 | 第二期 密钥的故事",
-        "link": "https://sec.thief.one/article_content?a_id=e192d795ed5f9a6a723eef50bbc01950",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "不只破解 | “天府杯”2020绿盟科技与您共话等保2.0时代的“三化六...",
-        "link": "https://sec.thief.one/article_content?a_id=34d17b303c0a6056cafe397eb6373667",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "安全合规,等保必行:多家单位因未落实网络安全等级保护义务被处罚",
-        "link": "https://sec.thief.one/article_content?a_id=7cf66a49848086f6d481de5564b603b4",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "【开放注册公告】吾爱破解论坛2020年11月11日光棍节开放注册公告",
-        "link": "https://sec.thief.one/article_content?a_id=867a3b5d6a87b627feb9cc5290181e28",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "富达投资加密部门将其托管服务扩张到亚洲",
-        "link": "https://sec.thief.one/article_content?a_id=f0bcb9bdfde0b3b7e1a78670f73223ce",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "K神手札:比特币月线收官,震动模式带点小刺激",
-        "link": "https://sec.thief.one/article_content?a_id=ec9c4426019f2d424a70f17507da7a9e",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "LinkedIn、Instagram 等应用的链接预览功能可能存在信息泄漏风险",
-        "link": "https://sec.thief.one/article_content?a_id=342434f5b929c93ba96ead1624161820",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "工信部:2020前三季度我国信息安全领域收入959亿元",
-        "link": "https://sec.thief.one/article_content?a_id=0f626fdef71a77af2b4b707a9a3d3403",
-        "date": "2020-10-30"
-      },
-      {
-        "title": "【公告】JSRC 九月月度英雄榜",
-        "link": "https://sec.thief.one/article_content?a_id=7a49f1a2e7b64e876dcd8eb84f73ff32",
         "date": "2020-10-30"
       }
     ]

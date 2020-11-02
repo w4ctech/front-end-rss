@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-02 12:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-02 13:03:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,5 +29,3 @@
 - [2020-10-31-Web安全:跨站请求伪造漏洞](https://sec.thief.one/article_content?a_id=5c9c8997f40e9bf24cfbdef727e42b15) 
 - [2020-10-31-美军网络安全事故处理的启示与思考](https://sec.thief.one/article_content?a_id=80df75bdff2a297cf68e4788ff758c56) 
 - [2020-10-30-【安全热点周报】第166期:毫米波干扰导致特斯拉自动驾驶汽车雷达...](https://sec.thief.one/article_content?a_id=c450bd6f2e0e61c48876b0dce035cfdc) 
-- [2020-10-30-安全合规,等保必行:多家单位因未落实网络安全等级保护义务被处罚](https://sec.thief.one/article_content?a_id=7cf66a49848086f6d481de5564b603b4) 
-- [2020-10-30-工信部:2020前三季度我国信息安全领域收入959亿元](https://sec.thief.one/article_content?a_id=0f626fdef71a77af2b4b707a9a3d3403) 

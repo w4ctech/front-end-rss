@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-02 16:42:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-02 16:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-11-02-新加坡规定12月起进入校园须使用防疫追踪设备](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwYYO0RiQYRcCzNxhy9R5201102&isfromapp=1) 
+- [2020-11-02-英媒称威廉王子今年4月新冠病毒检测呈阳性-并有意隐瞒了检测结果](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif0Ve5Ru7Zlese3feBHbf201102&isfromapp=1) 
 - [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html) 

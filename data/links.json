@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "新加坡规定12月起进入校园须使用防疫追踪设备",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwYYO0RiQYRcCzNxhy9R5201102&isfromapp=1",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "英媒称威廉王子今年4月新冠病毒检测呈阳性 并有意隐瞒了检测结果",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif0Ve5Ru7Zlese3feBHbf201102&isfromapp=1",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "香港新增6例新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ad8oaaYCEEChXCQbznj201102&isfromapp=1",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "驻韩美军及家属新增18例新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWXjvd8euHXTRBl37uEHv201102&isfromapp=1",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "印度单日新增新冠肺炎确诊病例45231 累计确诊病例升至8229313人",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUIuZoI9s7C2H3H5iu2FU201102&isfromapp=1",
+        "date": "2020-11-02"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",

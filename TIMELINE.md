@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-02 22:47:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-02 23:03:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -128,6 +128,22 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-02-驻韩美军及家属新增18例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWXjvd8euHXTRBl37uEHv201102&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-02-印度单日新增新冠肺炎确诊病例45231-累计确诊病例升至8229313人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUIuZoI9s7C2H3H5iu2FU201102&isfromapp=1) 
 - [【阮一峰的网络日志】2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
+- [【开发者头条】2020-11-02-资料-|-ThoughtWorks-技术雷达第-23-期.pdf](https://toutiao.io/k/7mdyut5) 
+- [【开发者头条】2020-11-02-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) 
+- [【开发者头条】2020-11-02-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
+- [【开发者头条】2020-11-02-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) 
+- [【开发者头条】2020-11-02-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
+- [【开发者头条】2020-11-02-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) 
+- [【开发者头条】2020-11-02-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) 
+- [【开发者头条】2020-11-02-推荐-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/k7nf2vd) 
+- [【开发者头条】2020-11-02-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) 
+- [【开发者头条】2020-11-02-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) 
+- [【开发者头条】2020-11-02-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) 
+- [【开发者头条】2020-11-02-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
+- [【开发者头条】2020-11-02-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
+- [【开发者头条】2020-11-02-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) 
+- [【开发者头条】2020-11-02-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
+- [【开发者头条】2020-11-02-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
 - [【安全热点】2020-11-02-漏洞风险提示-|-WebLogic-Console-权限认证绕过漏洞-CVE-2020-14750](https://sec.thief.one/article_content?a_id=0c91d61523022e140bfcb85144a02546) 
 - [【安全热点】2020-11-02-每日攻防资讯简报Nov.2th](https://sec.thief.one/article_content?a_id=c1162c51336b8d30e13289f98cd01c6b) 
 - [【安全热点】2020-11-02-《绿盟君的咖啡时间》第6期:不负每一份对技术的热爱](https://sec.thief.one/article_content?a_id=7c1ef6b8fa6c151482db0a82414218ca) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-02 22:47:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-02 23:03:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -68,6 +68,19 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-11-02-资料-|-ThoughtWorks-技术雷达第-23-期.pdf](https://toutiao.io/k/7mdyut5) 
+- [2020-11-02-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
+- [2020-11-02-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) 
+- [2020-11-02-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) 
+- [2020-11-02-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) 
+- [2020-11-02-推荐-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/k7nf2vd) 
+- [2020-11-02-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) 
+- [2020-11-02-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) 
+- [2020-11-02-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) 
+- [2020-11-02-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
+- [2020-11-02-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
+- [2020-11-02-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) 
+- [2020-11-02-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
 - [2020-11-02-每日攻防资讯简报Nov.2th](https://sec.thief.one/article_content?a_id=c1162c51336b8d30e13289f98cd01c6b) 
 - [2020-11-02-《绿盟君的咖啡时间》第6期:不负每一份对技术的热爱](https://sec.thief.one/article_content?a_id=7c1ef6b8fa6c151482db0a82414218ca) 
 - [2020-11-02-2020-看雪SDC议题回顾-|-基于量子逻辑门的代码虚拟vmp保护方案](https://sec.thief.one/article_content?a_id=bf4986332029a0c0baff99057139ff0c) 

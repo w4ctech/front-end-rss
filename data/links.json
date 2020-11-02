@@ -253,36 +253,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "微前端项目实战整理（single-spa+react+iframe）（二）",
-        "link": "https://juejin.im/post/6890466173314564104",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "NestJS 7.x 折腾记: (0) 起手式-> VS Code 1.5+ Debug NestJS",
-        "link": "https://juejin.im/post/6890462923135991815",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "看不懂闭包的，来看这个，必懂（配有视频讲解）",
-        "link": "https://juejin.im/post/6890460488254095367",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "一文搞定数组扁平化（超全面数组拉平方案及实现）",
-        "link": "https://juejin.im/post/6890449615087370248",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "手把手教你搭建 Vue 服务端渲染项目",
-        "link": "https://juejin.im/post/6890443384440553486",
-        "date": "2020-11-02"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/jskou/0",

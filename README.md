@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-02 11:19:31，:rocket: 更新条数: +118， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-02 11:32:53，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -418,11 +418,6 @@
 </summary>
 
 
-- [2020-11-02-微前端项目实战整理（single-spa+react+iframe）（二）](https://juejin.im/post/6890466173314564104) ![](assets/new.png)  
-- [2020-11-02-NestJS-7.x-折腾记:-0-起手式->-VS-Code-1.5+-Debug-NestJS](https://juejin.im/post/6890462923135991815) ![](assets/new.png)  
-- [2020-11-02-看不懂闭包的，来看这个，必懂（配有视频讲解）](https://juejin.im/post/6890460488254095367) ![](assets/new.png)  
-- [2020-11-02-一文搞定数组扁平化（超全面数组拉平方案及实现）](https://juejin.im/post/6890449615087370248) ![](assets/new.png)  
-- [2020-11-02-手把手教你搭建-Vue-服务端渲染项目](https://juejin.im/post/6890443384440553486) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

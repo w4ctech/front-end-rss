@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-02 07:47:35，:rocket: 更新条数: +380， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-02 08:04:30，:rocket: 更新条数: +471， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
-- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-11-02-上海11月1日无新增本地新冠肺炎确诊病例-新增境外输入6例-治愈出院11例](http://wsjkw.sh.gov.cn/xwfb/20201102/de53d80c75ae46978a1f94c1db56e09b.html) ![](assets/new.png)  
+- [2020-11-02-美媒：美国新冠肺炎疫情经历最糟一月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZMJNRNEbQbhS8bFOfPDp201102&isfromapp=1) ![](assets/new.png)  
+- [2020-11-02-江苏11月1日新增境外输入新冠肺炎确诊病例1例、境外输入无症状感染者4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAiZljGPRMko0f3c0VS2X201102&isfromapp=1) ![](assets/new.png)  
+- [2020-11-02-四川11月1日新增2例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiaiqo6heOFFUjfS5nPIWY201102&isfromapp=1) ![](assets/new.png)  
+- [2020-11-02-新疆1日新增新冠肺炎确诊病例3例-新增无症状感染者6例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJwMhpE33P8mlHdDv2pTC201102&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -330,6 +335,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -438,6 +453,11 @@
 </summary>
 
 
+- [2020-11-01-Rax-小程序运行时方案解密与思考](https://juejin.im/post/6890428926540283918) ![](assets/new.png)  
+- [2020-11-01-在-2020-年更受关注和追捧的-JS-框架](https://juejin.im/post/6890410192291725319) ![](assets/new.png)  
+- [2020-11-01-TiDB-DM-2.0-GA，数据迁移不用愁](https://juejin.im/post/6890382047664144391) ![](assets/new.png)  
+- [2020-11-01-终于来了！！Pyston-v2.0-发布，解决-Python-慢速的救星](https://juejin.im/post/6890376479398592519) ![](assets/new.png)  
+- [2020-11-01-TypeScript魔法堂：函数类型声明其实很复杂](https://juejin.im/post/6890360742671810574) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -449,6 +469,26 @@
 </summary>
 
 
+- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) ![](assets/new.png)  
+- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) ![](assets/new.png)  
+- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) ![](assets/new.png)  
+- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
+- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) ![](assets/new.png)  
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) ![](assets/new.png)  
+- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) ![](assets/new.png)  
+- [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) ![](assets/new.png)  
+- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) ![](assets/new.png)  
+- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) ![](assets/new.png)  
+- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) ![](assets/new.png)  
+- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) ![](assets/new.png)  
+- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) ![](assets/new.png)  
+- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) ![](assets/new.png)  
+- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) ![](assets/new.png)  
+- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) ![](assets/new.png)  
+- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) ![](assets/new.png)  
+- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) ![](assets/new.png)  
+- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) ![](assets/new.png)  
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端艺术家&&飞冰早报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -493,6 +533,26 @@
 </summary>
 
 
+- [2020-11-02-如何异地办理电话卡？](https://www.v2ex.com/t/721038) ![](assets/new.png)  
+- [2020-11-02-识物功能有用么？](https://www.v2ex.com/t/721037) ![](assets/new.png)  
+- [2020-11-02-开发微信小程序，用原生还是-taro-还是-uniapp，用-reac-还是-vue3.0](https://www.v2ex.com/t/721036) ![](assets/new.png)  
+- [2020-11-02-腾讯云阿里云返点问题](https://www.v2ex.com/t/721035) ![](assets/new.png)  
+- [2020-11-02-全职远程-18-22k/全球化软件公司招-4-位-Python-开发工程师](https://www.v2ex.com/t/721033) ![](assets/new.png)  
+- [2020-11-02-wordpress-网站迁移-版本号需要一样吗？](https://www.v2ex.com/t/721032) ![](assets/new.png)  
+- [2020-11-02-好像没有-I2S-转-USB-音频输出的芯片？](https://www.v2ex.com/t/721031) ![](assets/new.png)  
+- [2020-11-02-firewalld-对-iptables-的-FORWARD-链是无法操作的？](https://www.v2ex.com/t/721030) ![](assets/new.png)  
+- [2020-11-02-深圳开始了“对电动自行车的非现场抓拍和远程执法方式”](https://www.v2ex.com/t/721028) ![](assets/new.png)  
+- [2020-11-02-求推荐手机，已经发布的或者待发布的都可以](https://www.v2ex.com/t/721027) ![](assets/new.png)  
+- [2020-11-02-不是，看视频的时候我觉得这不是-12](https://www.v2ex.com/t/721026) ![](assets/new.png)  
+- [2020-11-02-求解-Linux-对本地主机名的解析方式](https://www.v2ex.com/t/721024) ![](assets/new.png)  
+- [2020-11-02-诚心求一个条形码录入、检索-app](https://www.v2ex.com/t/721021) ![](assets/new.png)  
+- [2020-11-02-各位-V-友，平时都是逛哪些论坛或是网站？](https://www.v2ex.com/t/721020) ![](assets/new.png)  
+- [2020-11-02-如何制作一套属于自己的字体库，就是-windows-下面的.ttf-文件，想给自己父亲做一套-xxx-字体/](https://www.v2ex.com/t/721019) ![](assets/new.png)  
+- [2020-11-02-如何对已知-CIDR-地址块求补集](https://www.v2ex.com/t/721018) ![](assets/new.png)  
+- [2020-11-02-多抓鱼-2021-届校园招聘开始啦！](https://www.v2ex.com/t/721017) ![](assets/new.png)  
+- [2020-11-02-求推荐:好用的-ssh-终端连接软件](https://www.v2ex.com/t/721016) ![](assets/new.png)  
+- [2020-11-02-C-语言多进程-vs-多线程性能问题](https://www.v2ex.com/t/721015) ![](assets/new.png)  
+- [2020-11-02-这事必须来说下，-iPhone-7-的基带真只是神奇的东西](https://www.v2ex.com/t/721014) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -521,8 +581,8 @@
 - [2020-11-02-Hadoop-框架：NameNode-工作机制详解](https://toutiao.io/k/t467bth) ![](assets/new.png)  
 - [2020-11-02-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
 - [2020-11-02-某行两地三中心多活设计实践](https://toutiao.io/k/1oh6ekv) ![](assets/new.png)  
-- [2020-11-02-记一次微信小程序渗透测试](https://toutiao.io/k/sfat355) ![](assets/new.png)  
 - [2020-11-02-Native-地图与-Web-融合技术的应用与实践](https://toutiao.io/k/wvu7g7j) ![](assets/new.png)  
+- [2020-11-02-记一次微信小程序渗透测试](https://toutiao.io/k/sfat355) ![](assets/new.png)  
 - [2020-11-02-译-编程中花括号的简史](https://toutiao.io/k/q6fuhvg) ![](assets/new.png)  
 - [2020-11-02-京东到家打通-Flutter-for-web](https://toutiao.io/k/ka542ir) ![](assets/new.png)  
 - [2020-11-02-为什么说-LockSupport-是-Java-并发的基石？](https://toutiao.io/k/ea3qf7d) ![](assets/new.png)  
@@ -530,8 +590,8 @@
 - [2020-11-02-白话科普，10s-了解-API](https://toutiao.io/k/h2mk13o) ![](assets/new.png)  
 - [2020-11-02-机器学习基础：基本的概念](https://toutiao.io/k/vqgrujk) ![](assets/new.png)  
 - [2020-11-02-疑难杂症录：C++-代码出现内存泄露？不是吧…](https://toutiao.io/k/h907d9d) ![](assets/new.png)  
-- [2020-11-02-MySQL-8-新特性之-Clone-Plugin](https://toutiao.io/k/fefvafa) ![](assets/new.png)  
 - [2020-11-02-单元测试难？来试试这些套路](https://toutiao.io/k/gwy1d41) ![](assets/new.png)  
+- [2020-11-02-MySQL-8-新特性之-Clone-Plugin](https://toutiao.io/k/fefvafa) ![](assets/new.png)  
 - [2020-11-02-为什么需要机器学习平台？](https://toutiao.io/k/kky89nb) ![](assets/new.png)  
 - [2020-11-02-Zookeeper-浅谈](https://toutiao.io/k/p44sj5m) ![](assets/new.png)  
 - [2020-11-02-心想技术驱动业务，却在背道而驰](https://toutiao.io/k/almxttn) ![](assets/new.png)  

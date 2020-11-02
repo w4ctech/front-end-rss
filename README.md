@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-02 00:54:35，:rocket: 更新条数: +118， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-02 01:04:20，:rocket: 更新条数: +113， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-11-01-2020年11月2日山西省新型冠状病毒肺炎疫情情况](http://wjw.shanxi.gov.cn/wjywl02/27260.hrh) ![](assets/new.png)  
-- [2020-11-01-巴西新冠肺炎确诊病例达554万-塞阿腊州警察使用胡椒喷雾驱散海滩聚集人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQdCLHJIJrgKBJtaC6b6S201102&isfromapp=1) ![](assets/new.png)  
-- [2020-11-01-德国法国实施全国性封锁，欧洲再度成为全球疫情“震中”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAbOfFbbZ5pace4pLOY4L201102&isfromapp=1) ![](assets/new.png)  
-- [2020-11-01-世卫组织：全球新冠肺炎确诊病例超过4594万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLqkW3agtbcVz5fdSGM3H201102&isfromapp=1) ![](assets/new.png)  
-- [2020-11-01-比利时医疗系统不堪重负-全国重症监护病房仅能再收治106人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPnKKuw38KlpZMIO1s6zm201102&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

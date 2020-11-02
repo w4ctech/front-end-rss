@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-02 00:54:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-02 01:04:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -383,9 +383,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020年11月2日山西省新型冠状病毒肺炎疫情情况](http://wjw.shanxi.gov.cn/wjywl02/27260.hrh)
-- [【全国新型肺炎疫情实时动态(丁香园)】巴西新冠肺炎确诊病例达554万-塞阿腊州警察使用胡椒喷雾驱散海滩聚集人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQdCLHJIJrgKBJtaC6b6S201102&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过4594万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLqkW3agtbcVz5fdSGM3H201102&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -400,8 +397,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】德国法国实施全国性封锁，欧洲再度成为全球疫情“震中”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAbOfFbbZ5pace4pLOY4L201102&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】比利时医疗系统不堪重负-全国重症监护病房仅能再收治106人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPnKKuw38KlpZMIO1s6zm201102&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -420,6 +415,8 @@
 - [【安全热点】美国联邦调查局近期正在对美国医疗卫生保健机构遭受勒索软件攻击的...](https://sec.thief.one/article_content?a_id=b9a7dd59d9482cad1e76f7e7c040fe87)
 - [【安全热点】21届校招应届生Offer薪资曝光:年薪35万+,严重倒挂老员工是互联网...](https://sec.thief.one/article_content?a_id=df435ada9a16ecbd31562b4b8c31a4bf)
 - [【安全热点】CVE-2020-1472:微软美国大选警告-攻击者正在利用Windows-10-...](https://sec.thief.one/article_content?a_id=cf0f881e825c41d1fba569a4734cbe01)
+- [【安全热点】Stack-Overflow-热帖:如何用-Python-调用外部命令](https://sec.thief.one/article_content?a_id=a74ef0ed969ce93390923fade9419c00)
+- [【安全热点】i春秋双11钜惠抢先知!不玩噱头,惊喜给足你!](https://sec.thief.one/article_content?a_id=ae2a5a8b6f125bfc391890cdf5993de3)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

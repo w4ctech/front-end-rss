@@ -6,36 +6,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/coronavirus/dxy",
+    "rss": "https://rss.shab.fun/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "2020年11月2日山西省新型冠状病毒肺炎疫情情况",
-        "link": "http://wjw.shanxi.gov.cn/wjywl02/27260.hrh",
-        "date": "2020-11-01"
-      },
-      {
-        "title": "巴西新冠肺炎确诊病例达554万 塞阿腊州警察使用胡椒喷雾驱散海滩聚集人群",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQdCLHJIJrgKBJtaC6b6S201102&isfromapp=1",
-        "date": "2020-11-01"
-      },
-      {
-        "title": "德国法国实施全国性封锁，欧洲再度成为全球疫情“震中”",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAbOfFbbZ5pace4pLOY4L201102&isfromapp=1",
-        "date": "2020-11-01"
-      },
-      {
-        "title": "世卫组织：全球新冠肺炎确诊病例超过4594万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLqkW3agtbcVz5fdSGM3H201102&isfromapp=1",
-        "date": "2020-11-01"
-      },
-      {
-        "title": "比利时医疗系统不堪重负 全国重症监护病房仅能再收治106人",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPnKKuw38KlpZMIO1s6zm201102&isfromapp=1",
-        "date": "2020-11-01"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",

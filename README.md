@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-03 15:22:41，:rocket: 更新条数: +218， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-03 15:32:54，:rocket: 更新条数: +231， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,13 +46,13 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -433,11 +433,6 @@
 </summary>
 
 
-- [2020-11-03-react-native登录之手势登录篇](https://juejin.im/post/6890871057893457928) ![](assets/new.png)  
-- [2020-11-03-【进阶篇】koa+Mysql的全栈之旅](https://juejin.im/post/6890863842251931662) ![](assets/new.png)  
-- [2020-11-03-JS设计模式之代理模式&发布订阅模式的拓展参考](https://juejin.im/post/6890861127695826951) ![](assets/new.png)  
-- [2020-11-03-基于原生webComponent封装组件](https://juejin.im/post/6890856593333616653) ![](assets/new.png)  
-- [2020-11-03-vue-router实现原理分享](https://juejin.im/post/6890853087880970248) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -513,6 +508,26 @@
 </summary>
 
 
+- [2020-11-03-蚂蚁上市中止](https://www.v2ex.com/t/721561) ![](assets/new.png)  
+- [2020-11-03-坑爹的支付宝和微信支付（纯吐槽）](https://www.v2ex.com/t/721560) ![](assets/new.png)  
+- [2020-11-03-字节跳动-Data-数据分析师热招岗位！北京、上海、深圳！](https://www.v2ex.com/t/721559) ![](assets/new.png)  
+- [2020-11-03-借呗不用还了，花呗不用还了，还好双十报复消费了！](https://www.v2ex.com/t/721558) ![](assets/new.png)  
+- [2020-11-03-偷跑去面试，被领导知道了，社会性死亡](https://www.v2ex.com/t/721557) ![](assets/new.png)  
+- [2020-11-03-想问一下有跨国远程工作经验的朋友几个问题。](https://www.v2ex.com/t/721556) ![](assets/new.png)  
+- [2020-11-03-微信安卓不给存储权限发图片](https://www.v2ex.com/t/721555) ![](assets/new.png)  
+- [2020-11-03-Dropbox-Family-开车-4=2-中](https://www.v2ex.com/t/721554) ![](assets/new.png)  
+- [2020-11-03-mysql-语句替换问题。下面的关系用什么-mysql-语句替换？-谢谢](https://www.v2ex.com/t/721553) ![](assets/new.png)  
+- [2020-11-03-XR-256-换-11-有必要吗？](https://www.v2ex.com/t/721552) ![](assets/new.png)  
+- [2020-11-03-Python-Linux-manjaro-错误-/usr/lib/libc.so:-invalid-ELF-header-如何解决](https://www.v2ex.com/t/721550) ![](assets/new.png)  
+- [2020-11-03-想做个手机-web，找兼职，啥技术比较推荐？](https://www.v2ex.com/t/721548) ![](assets/new.png)  
+- [2020-11-03-我开了一档关于创作者的播客，名字叫《闭门造车》](https://www.v2ex.com/t/721546) ![](assets/new.png)  
+- [2020-11-03-iPhone12-的按键是不是也变的轻薄了？](https://www.v2ex.com/t/721545) ![](assets/new.png)  
+- [2020-11-03-kafka-原生支持延迟队列吗](https://www.v2ex.com/t/721544) ![](assets/new.png)  
+- [2020-11-03-晚上-9-点之后-污染加重](https://www.v2ex.com/t/721543) ![](assets/new.png)  
+- [2020-11-03-KyPHP-发布-1.1.0](https://www.v2ex.com/t/721542) ![](assets/new.png)  
+- [2020-11-03-实习-开源软件-Casbin-开源软件远程实习+GSoC-预选](https://www.v2ex.com/t/721540) ![](assets/new.png)  
+- [2020-11-03-成都电信-FTTH-最佳的-MTU-是多少？](https://www.v2ex.com/t/721539) ![](assets/new.png)  
+- [2020-11-03-CTF-Crypto-的一道题目求解](https://www.v2ex.com/t/721535) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -524,26 +539,6 @@
 </summary>
 
 
-- [2020-11-03-Serverless-X-OpenKruise-部署效率优化之道-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13873&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777277%3Futm_content%3Dg_1000198216%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-Tair持久存储系列技术解读-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13872&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776609%3Futm_content%3Dg_1000198215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-模拟驾驶能力输出，赋能客户提升稳定性信心-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13871&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776602%3Futm_content%3Dg_1000198214%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-Fluid-0.3-新版本正式发布：实现云原生场景通用化数据加速-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13870&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775947%3Futm_content%3Dg_1000198213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-持续定义Saas模式云数据仓库+实时分析-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13869&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771366%3Futm_content%3Dg_1000198212%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-Serverless-对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-云原生时代，应用架构将如何演进？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-阿里云数据湖解决方案全面满足数据需求，帮助企业释放数据价值-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13866&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772900%3Futm_content%3Dg_1000197928%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-AI和大数据下，前端技术将如何发展？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13865&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776699%3Futm_content%3Dg_1000197927%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-持续定义Saas模式云数据仓库+BI-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13864&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771483%3Futm_content%3Dg_1000197926%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-秒懂-Https-之如何在-Android-中使用自签名证书-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13863&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_g5Mmy0KmgCnpsQfw34-oQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-集成-Flutter-到现有项目，并实现使用单个-FlutterEngine-管理多个入口-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13862&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7SUWmY4xfHkyeckKITN1yA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-来大厂三个月的一点点小思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS0OI-0CY1qvEvbGw46W8bQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-美团面经分享！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13860&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWKED32dv1dSwkocMatnMQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-一个人竟然撸了一个微博-App-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13859&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfaeImHs3Sjj_Tq3CZrSVmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-有个程序员老公有多爽？？？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13858&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FopvJMxf4DCyJXcktYBGwBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-微软宣布-Windows-10-重大调整：一年一更！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13857&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzYWy2eh2mcrBnuxvXdfOHA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-张一鸣：10-年面试-2000-人，发现混的好的人，他们都有这一个特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13856&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ-b4-JgF_FkSGl7PhzXecA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-Android-端-Edge-现也可访问实验-Flag-功能了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13855&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVvde7kpRSyN7qTaEKwkHNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-03-千年后，你的代码还有谁认识？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13854&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSBbBF56U3UtFJNTwoFTkhg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

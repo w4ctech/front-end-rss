@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-03 01:14:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-03 01:25:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -129,6 +129,7 @@
 - [【阮一峰的网络日志】微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html)
 - [【阮一峰的网络日志】微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】请教下，小程序里面如何加上这个功能？](https://www.v2ex.com/t/721221)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -390,7 +391,6 @@
 - [【技术头条】张一鸣：10-年面试-2000-人，发现混的好的人，他们都有这一个特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13856&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ-b4-JgF_FkSGl7PhzXecA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
-- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [【安全热点】持续招聘中-|-还没找到工作吗?高薪岗位等你来!](https://sec.thief.one/article_content?a_id=b725f791f6f00af949064ff37b7446ae)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -424,6 +424,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：2日新增新冠肺炎确诊病例49例-本土病例5例（均在新疆）](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRbwNkhHiEivbYvrZKU8u201103&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】巴西新冠肺炎确诊病例累计破555万-卫生部长继续住院治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0XoVrFPtIpMQq7tyezWD201103&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国上周新增新冠肺炎确诊病例数超57.5万例-再创历史新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD57tYmLqVocUEQCO4gXy201103&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -438,6 +441,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】中国驻埃及大使馆：关于搭乘航班赴华人员须凭新冠病毒核酸检测及血清抗体检测双阴性证明乘机的通知](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO3XWp5srmCH3ljGSwa1l201103&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】英国首相约翰逊：如不采取强硬防疫措施-英国将面临“医疗和道德灾难”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitoO15NduUs3fxcDysALS201103&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -456,8 +461,6 @@
 - [【前端艺术家&&飞冰早报】图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648)
 - [【前端艺术家&&飞冰早报】微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796)
 - [【前端艺术家&&飞冰早报】解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598)
-- [【前端艺术家&&飞冰早报】crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221)
-- [【前端艺术家&&飞冰早报】从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

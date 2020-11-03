@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-03 01:14:27，:rocket: 更新条数: +242， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-03 01:25:32，:rocket: 更新条数: +248， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-11-02-国家卫健委：2日新增新冠肺炎确诊病例49例-本土病例5例（均在新疆）](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRbwNkhHiEivbYvrZKU8u201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-02-巴西新冠肺炎确诊病例累计破555万-卫生部长继续住院治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0XoVrFPtIpMQq7tyezWD201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-02-美国上周新增新冠肺炎确诊病例数超57.5万例-再创历史新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD57tYmLqVocUEQCO4gXy201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-02-中国驻埃及大使馆：关于搭乘航班赴华人员须凭新冠病毒核酸检测及血清抗体检测双阴性证明乘机的通知](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO3XWp5srmCH3ljGSwa1l201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-02-英国首相约翰逊：如不采取强硬防疫措施-英国将面临“医疗和道德灾难”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitoO15NduUs3fxcDysALS201103&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -508,6 +513,8 @@
 </summary>
 
 
+- [2020-11-03-请教下，小程序里面如何加上这个功能？](https://www.v2ex.com/t/721221) ![](assets/new.png)  
+- [2020-11-03-预警，电信用户请谨慎升级至-5G-套餐](https://www.v2ex.com/t/721220) ![](assets/new.png)  
 - [2020-11-03-在-vscode-remote-development-时，如何-git-diff-&&-git-merge-呢？](https://www.v2ex.com/t/721219) ![](assets/new.png)  
 - [2020-11-03-人在杭州，看这个牙齿，人要窒息了。](https://www.v2ex.com/t/721218) ![](assets/new.png)  
 - [2020-11-03-社交平台中根据用户偏好设置，每天推荐符合条件的用户？](https://www.v2ex.com/t/721217) ![](assets/new.png)  
@@ -526,8 +533,6 @@
 - [2020-11-02-换了-M2-固态硬盘以后各种程序自动关闭怎么回事？](https://www.v2ex.com/t/721204) ![](assets/new.png)  
 - [2020-11-02-记一次-RXjs-中-Subject-的使用经历](https://www.v2ex.com/t/721202) ![](assets/new.png)  
 - [2020-11-02-苹果-11-月发布会定于-11-月-10-日举办](https://www.v2ex.com/t/721201) ![](assets/new.png)  
-- [2020-11-02-12-测着看有些发绿，正常吗？](https://www.v2ex.com/t/721200) ![](assets/new.png)  
-- [2020-11-02-年纪还小，琢磨去马来西亚留学拿个本科，希望过来人赐教！](https://www.v2ex.com/t/721199) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,23 +578,23 @@
 - [2020-11-03-资料-|-ThoughtWorks-技术雷达第-23-期.pdf](https://toutiao.io/k/7mdyut5) ![](assets/new.png)  
 - [2020-11-03-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
 - [2020-11-03-想自学-Maven？推荐-Maven-极简高速入门及常规使用](https://toutiao.io/k/7q3wfwb) ![](assets/new.png)  
-- [2020-11-03-能拿驾照就能通过-Elastic-认证考试](https://toutiao.io/k/58j4am7) ![](assets/new.png)  
-- [2020-11-03-Apache-Doris-在京东广告的应用实践](https://toutiao.io/k/e4n8raw) ![](assets/new.png)  
 - [2020-11-03-博客十年](https://toutiao.io/k/nxy0gra) ![](assets/new.png)  
+- [2020-11-03-Apache-Doris-在京东广告的应用实践](https://toutiao.io/k/e4n8raw) ![](assets/new.png)  
+- [2020-11-03-能拿驾照就能通过-Elastic-认证考试](https://toutiao.io/k/58j4am7) ![](assets/new.png)  
 - [2020-11-03-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/d5fnx4o) ![](assets/new.png)  
 - [2020-11-03-Flutter-源码剖析（一）：源码获取与构建](https://toutiao.io/k/m4ntz2d) ![](assets/new.png)  
 - [2020-11-03-和行业里多家-DevOps-平台的同学交流后，我发现……](https://toutiao.io/k/mt6i5f5) ![](assets/new.png)  
 - [2020-11-03-RC4-算法-C-语言实现](https://toutiao.io/k/dnzsy74) ![](assets/new.png)  
-- [2020-11-03-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
-- [2020-11-03-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-03-在-Kubernetes-上部署-Kafka-集群](https://toutiao.io/k/h5gzljg) ![](assets/new.png)  
 - [2020-11-03-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-03-推荐-微信研发体系下的分布式配置系统设计概要](https://toutiao.io/k/43s9snk) ![](assets/new.png)  
 - [2020-11-03-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-03-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
 - [2020-11-03-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-03-推荐-Redis-集群搭建采坑总结](https://toutiao.io/k/b60qswo) ![](assets/new.png)  
+- [2020-11-03-推荐-硬核！15-张图解-Redis-为什么这么快](https://toutiao.io/k/k7nf2vd) ![](assets/new.png)  
+- [2020-11-03-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
 - [2020-11-03-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
 - [2020-11-03-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
-- [2020-11-03-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-03-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

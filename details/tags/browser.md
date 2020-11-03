@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-03 12:47:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-03 13:03:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -10,6 +10,8 @@
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-03-Android-端-Edge-现也可访问实验-Flag-功能了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13855&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVvde7kpRSyN7qTaEKwkHNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-03-如何调试-Go-mod-的各种异常](https://toutiao.io/k/0lxeivt) 
+- [2020-11-03-邀请函|奇安信将亮相2020年工业互联网安全成果展](https://sec.thief.one/article_content?a_id=3e8f71223cb8570dbf619b9655f35c1d) 
 - [2020-11-03-首提跨模态代码匹配算法,腾讯安全科恩实验室论文入选国际AI顶会...](https://sec.thief.one/article_content?a_id=82eb111168885ed83a87426311536df2) 
 - [2020-11-03-Google-Chromium-CVE-2019-5826-UAF分析](https://sec.thief.one/article_content?a_id=e070e80c73a56f6cc75cbb30c037b953) 
 - [2020-11-03-​IOT安全之Android应用程序静态分析](https://sec.thief.one/article_content?a_id=020d8aa31370aaffa1fc164b92dd5192) 
@@ -38,4 +40,3 @@
 - [2020-11-01-原创图解|速读2020年上半年我国互联网网络安全监测数据分析报告...](https://sec.thief.one/article_content?a_id=217b873ae70e7798853f84c29d06d699) 
 - [2020-11-01-下一代终端安全攻防:无文件攻击白皮书](https://sec.thief.one/article_content?a_id=69c53feb36b0177aa9cae913b1495822) 
 - [2020-11-01-WebLogic高危安全漏洞补丁绕过风险提示](https://sec.thief.one/article_content?a_id=63d3387ba490a8f93242b5a67283eda0) 
-- [2020-10-31-Polisis:-Automated-Analysis-and-Presentation-of-Privacy-Policies](https://sec.thief.one/article_content?a_id=a52fd9b04d8b5456093eceef83e4e963) 

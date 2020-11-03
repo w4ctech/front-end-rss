@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "美国7天平均单日新增确诊病例数已突破8万 再创历史新高",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizqAOvihQjTSlzdNVZi9u201103&isfromapp=1",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "希腊新冠肺炎疫情挤占医疗资源 常规手术量严重缩减",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1vxdBI4m5MaQMSoNIYiw201103&isfromapp=1",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "浙江2日新增1例伊拉克输入确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixvGugbZbpxIYq5jkvEZV201103&isfromapp=1",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "福建2日新增境外输入确诊病例4例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNR4oc02hv8yj16yAXDkg201103&isfromapp=1",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "江苏2日新增1例境外输入新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinML7NYUcWlsJweqz9DWq201103&isfromapp=1",
+        "date": "2020-11-03"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",

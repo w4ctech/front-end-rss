@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-03 06:12:14，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-03 06:22:59，:rocket: 更新条数: +128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-11-03-美国7天平均单日新增确诊病例数已突破8万-再创历史新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizqAOvihQjTSlzdNVZi9u201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-03-希腊新冠肺炎疫情挤占医疗资源-常规手术量严重缩减](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1vxdBI4m5MaQMSoNIYiw201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-03-浙江2日新增1例伊拉克输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixvGugbZbpxIYq5jkvEZV201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-03-福建2日新增境外输入确诊病例4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNR4oc02hv8yj16yAXDkg201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-03-江苏2日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinML7NYUcWlsJweqz9DWq201103&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

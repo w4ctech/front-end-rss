@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-03 09:33:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-03 09:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,7 +14,3 @@
 - [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
 - [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
-- [2020-11-02-用vue实现波谱拟合](https://juejin.im/post/6890768365317685262) 
-- [2020-11-02-Vue、Node全栈项目~面向小白的博客系统~](https://juejin.im/post/6890757905352491021) 
-- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-11-03-Vue-的作用域插槽是不是一个页面只能有一个？](https://www.v2ex.com/t/721467) 

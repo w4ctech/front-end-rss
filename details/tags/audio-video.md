@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-03 10:47:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-03 11:04:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,10 +12,5 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-11-03-用-FFMPEG-下载的直播视频，按了-Ctrl+C-之后，保存的-mp4-视频无法播放。](https://www.v2ex.com/t/721487) 
-- [2020-11-03-怎么下载付费的加密视频（有已付费的账号）](https://www.v2ex.com/t/721486) 
-- [2020-11-03-求问有没有播放按钮大一点-带前跳后跳的播放器](https://www.v2ex.com/t/721481) 
-- [2020-11-03-nPlayer-如何播放-iTunes-导入的音频](https://www.v2ex.com/t/721459) 
-- [2020-11-03-求瓜-宝塔公司员工疑似直播时被带走？](https://www.v2ex.com/t/721458) 
-- [2020-11-03-虎牙直播，我看个直播你跑满我宽带上传？](https://www.v2ex.com/t/721451) 
+- [2020-11-03-【视频】|-反奸防谍,较量无声](https://sec.thief.one/article_content?a_id=897714a147ec05d82eb92060c4470f70) 
 - [2020-11-01-【视频】|-解读《中华人民共和国网络安全法》](https://sec.thief.one/article_content?a_id=042551ac1a759a89bed2986ee34d57c4) 

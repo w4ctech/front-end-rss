@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-03 05:19:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-03 05:32:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,5 @@
 
 
 
+- [2020-11-03-招聘前端，有意思的岗位](https://www.v2ex.com/t/721338) 
 - [2020-10-30-持续招聘中-|-还没找到工作吗?高薪岗位等你来!](https://sec.thief.one/article_content?a_id=b725f791f6f00af949064ff37b7446ae) 

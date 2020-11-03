@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-03 19:09:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-03 19:17:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,8 +17,6 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-03-有没有备份-chrome-已经安装的扩展的工具。（不是扩展的-crx-包，只是记录）](https://www.v2ex.com/t/721564) 
-- [2020-11-03-Safari-浏览器扩展插件-只能用-appstore-上的吗？](https://www.v2ex.com/t/721534) 
 - [2020-11-03-Android-端-Edge-现也可访问实验-Flag-功能了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13855&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVvde7kpRSyN7qTaEKwkHNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-03-如何调试-Go-mod-的各种异常](https://toutiao.io/k/0lxeivt) 
 - [2020-11-03-邀请函|奇安信将亮相2020年工业互联网安全成果展](https://sec.thief.one/article_content?a_id=3e8f71223cb8570dbf619b9655f35c1d) 

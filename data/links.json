@@ -1654,7 +1654,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -1672,191 +1672,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
+    "rss": "https://rss.shab.fun/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": [
-      {
-        "title": "折腾了一晚上了，始终找不到可行方案，求大佬指点迷津",
-        "link": "https://www.v2ex.com/t/721568",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "刚开始学 ios 开发，有个 Swift 语法不明白，求各位大大帮忙解释解释",
-        "link": "https://www.v2ex.com/t/721567",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "云服务有没有哪项服务可以解决此类",
-        "link": "https://www.v2ex.com/t/721566",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "光猫的 ITMS 注册失败是什么？",
-        "link": "https://www.v2ex.com/t/721565",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "有没有备份 chrome 已经安装的扩展的工具。（不是扩展的 crx 包，只是记录）",
-        "link": "https://www.v2ex.com/t/721564",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "分享自用的 V2EX 高对比度且支持深色模式的 CSS",
-        "link": "https://www.v2ex.com/t/721563",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "RISC 里面的\"快速处理指令的电路\"具体指的是什么电路单元？",
-        "link": "https://www.v2ex.com/t/721562",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "坑爹的支付宝和微信支付（纯吐槽）",
-        "link": "https://www.v2ex.com/t/721560",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "字节跳动-Data-数据分析师热招岗位！北京、上海、深圳！",
-        "link": "https://www.v2ex.com/t/721559",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "偷跑去面试，被领导知道了，社会性死亡",
-        "link": "https://www.v2ex.com/t/721557",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "想问一下有跨国远程工作经验的朋友几个问题。",
-        "link": "https://www.v2ex.com/t/721556",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "微信安卓不给存储权限发图片",
-        "link": "https://www.v2ex.com/t/721555",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "mysql 语句替换问题。下面的关系用什么 mysql 语句替换？ 谢谢",
-        "link": "https://www.v2ex.com/t/721553",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "XR 256 换 11 有必要吗？",
-        "link": "https://www.v2ex.com/t/721552",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "Python Linux manjaro 错误 /usr/lib/libc.so: invalid ELF header 如何解决",
-        "link": "https://www.v2ex.com/t/721550",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "想做个手机 web，找兼职，啥技术比较推荐？",
-        "link": "https://www.v2ex.com/t/721548",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "我开了一档关于创作者的播客，名字叫《闭门造车》",
-        "link": "https://www.v2ex.com/t/721546",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "iPhone12 的按键是不是也变的轻薄了？",
-        "link": "https://www.v2ex.com/t/721545",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "kafka 原生支持延迟队列吗",
-        "link": "https://www.v2ex.com/t/721544",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "晚上 9 点之后 污染加重",
-        "link": "https://www.v2ex.com/t/721543",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "KyPHP 发布 1.1.0",
-        "link": "https://www.v2ex.com/t/721542",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[实习] [开源软件] Casbin 开源软件远程实习+GSoC 预选",
-        "link": "https://www.v2ex.com/t/721540",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "成都电信 FTTH 最佳的 MTU 是多少？",
-        "link": "https://www.v2ex.com/t/721539",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "CTF Crypto 的一道题目求解",
-        "link": "https://www.v2ex.com/t/721535",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "Safari 浏览器扩展插件 只能用 appstore 上的吗？",
-        "link": "https://www.v2ex.com/t/721534",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "分布式异步工作流 -- Temporal 介绍与使用",
-        "link": "https://www.v2ex.com/t/721533",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "请教前端个技术问题",
-        "link": "https://www.v2ex.com/t/721532",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "12 用了一段时间了，随便玩玩游戏，妥妥的一天两充啊",
-        "link": "https://www.v2ex.com/t/721530",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "好奇 iOS 系统的开发逻辑",
-        "link": "https://www.v2ex.com/t/721528",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "现在有一台 MacBook Pro 2019 的话，有没有可能安装 macOS 在 2019 年之前发布的系统呢？",
-        "link": "https://www.v2ex.com/t/721527",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "给未来的自动售货机大战厂家的战略规划",
-        "link": "https://www.v2ex.com/t/721525",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "广州联通 30 元 20G 流量包，支持 5G，感觉还是很香的，有办理的吗？说说感受",
-        "link": "https://www.v2ex.com/t/721524",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "转\n为何说 IT 科技公司应该留住 35 岁员工？",
-        "link": "https://www.v2ex.com/t/721523",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "有没企业微信开发人员，外部群内发红包功能有没进度",
-        "link": "https://www.v2ex.com/t/721521",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "问一道关于图的面试题，刷的题不多，写了好久也没写出来",
-        "link": "https://www.v2ex.com/t/721520",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[开源] 编写 iOS 小组件的极佳方式！",
-        "link": "https://www.v2ex.com/t/721519",
-        "date": "2020-11-03"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -2071,33 +1890,13 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
-        "link": "https://toutiao.io/k/9j801i6",
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
         "date": "2020-11-03"
       },
       {
@@ -2111,8 +1910,13 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-03"
       },
       {
@@ -2121,8 +1925,8 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-03"
       },
       {
@@ -2131,18 +1935,33 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-03"
       },
       {
         "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
         "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
         "date": "2020-11-03"
       }
     ]

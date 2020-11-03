@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-03 19:09:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-03 19:17:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -410,8 +410,6 @@
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】有没有备份-chrome-已经安装的扩展的工具。（不是扩展的-crx-包，只是记录）](https://www.v2ex.com/t/721564)
-- [【V2EX】Safari-浏览器扩展插件-只能用-appstore-上的吗？](https://www.v2ex.com/t/721534)
 - [【技术头条】Android-端-Edge-现也可访问实验-Flag-功能了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13855&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVvde7kpRSyN7qTaEKwkHNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】如何调试-Go-mod-的各种异常](https://toutiao.io/k/0lxeivt)
 - [【安全热点】邀请函|奇安信将亮相2020年工业互联网安全成果展](https://sec.thief.one/article_content?a_id=3e8f71223cb8570dbf619b9655f35c1d)
@@ -420,6 +418,8 @@
 - [【安全热点】​IOT安全之Android应用程序静态分析](https://sec.thief.one/article_content?a_id=020d8aa31370aaffa1fc164b92dd5192)
 - [【安全热点】安全牛《2020中国网络安全企业100强报告》发布](https://sec.thief.one/article_content?a_id=0218318b764e7925c8e0e868f9185585)
 - [【安全热点】Hi,美团SRC向你发来一封小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=01f7495b044d7ad5a72a72a897e8f6bc)
+- [【安全热点】读懂《网络安全审查办法》,绿盟科技帮你划重点](https://sec.thief.one/article_content?a_id=8a49936194aee1cd3f90fd7af929c9e2)
+- [【安全热点】Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=415c7cb46f5c86c9b334d2e6826995be)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -500,10 +500,7 @@
 
 
 
-- [【V2EX】偷跑去面试，被领导知道了，社会性死亡](https://www.v2ex.com/t/721557)
-- [【V2EX】问一道关于图的面试题，刷的题不多，写了好久也没写出来](https://www.v2ex.com/t/721520)
 - [【技术头条】张一鸣：10-年面试-2000-人，发现混的好的人，他们都有这一个特质-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13856&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQ-b4-JgF_FkSGl7PhzXecA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [......【查看更多】......](./details/tags/job-interview.md)

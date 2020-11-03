@@ -233,7 +233,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -279,36 +330,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "[译]全栈 Todolist-client 篇(React Typescript)",
-        "link": "https://juejin.im/post/6890720764505358344",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "在工作中开发的树形递归组件",
-        "link": "https://juejin.im/post/6890554258932891661",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "开源Egg通用的前后端分离的权限管理系统",
-        "link": "https://juejin.im/post/6890545685902180366",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "React Native登录之指纹登录篇",
-        "link": "https://juejin.im/post/6890532122608713736",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "forEach、map、reduce和promise那点事",
-        "link": "https://juejin.im/post/6890523528945205261",
-        "date": "2020-11-02"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/jskou/0",
@@ -448,10 +473,186 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/toutiao/today",
+    "rss": "https://rss.itggg.cn/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "资料 | ThoughtWorks 技术雷达第 23 期.pdf",
+        "link": "https://toutiao.io/k/7mdyut5",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "想自学 Maven？推荐 Maven 极简高速入门及常规使用",
+        "link": "https://toutiao.io/k/7q3wfwb",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "博客十年",
+        "link": "https://toutiao.io/k/nxy0gra",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "Apache Doris 在京东广告的应用实践",
+        "link": "https://toutiao.io/k/e4n8raw",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "和行业里多家 DevOps 平台的同学交流后，我发现……",
+        "link": "https://toutiao.io/k/mt6i5f5",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "能拿驾照就能通过 Elastic 认证考试",
+        "link": "https://toutiao.io/k/58j4am7",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "在 Kotlin 中使用 Dagger 会遇到的陷阱和优化方法",
+        "link": "https://toutiao.io/k/d5fnx4o",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "Flutter 源码剖析（一）：源码获取与构建",
+        "link": "https://toutiao.io/k/m4ntz2d",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "RC4 算法 C 语言实现",
+        "link": "https://toutiao.io/k/dnzsy74",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "在 Kubernetes 上部署 Kafka 集群",
+        "link": "https://toutiao.io/k/h5gzljg",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "蚂蚁研发流程大公开：上百个开发者也能同时在一个 App 环境内进行高效开发",
+        "link": "https://toutiao.io/k/c2c1q7p",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "打造自适应网站只用一个 CSS 属性就够了",
+        "link": "https://toutiao.io/k/awjvygu",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "Java 中合理使用局部变量替代成员变量、静态变量",
+        "link": "https://toutiao.io/k/qweaniz",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "深入浅出 Apple 响应式框架 Combine",
+        "link": "https://toutiao.io/k/slhfqsr",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "H5 页面漏洞挖掘之路（混淆篇）",
+        "link": "https://toutiao.io/k/zcysy1x",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "如何调试 Go mod 的各种异常",
+        "link": "https://toutiao.io/k/0lxeivt",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "Node.js 沙盒逃逸分析",
+        "link": "https://toutiao.io/k/kuuorvj",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "ASP.NET Core 使用 gRPC 初探",
+        "link": "https://toutiao.io/k/4t92uge",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
+        "link": "https://toutiao.io/k/k7nf2vd",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-11-03"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

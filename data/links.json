@@ -304,10 +304,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "react-native登录之手势登录篇",
+        "link": "https://juejin.im/post/6890871057893457928",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "【进阶篇】koa+Mysql的全栈之旅",
+        "link": "https://juejin.im/post/6890863842251931662",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "JS设计模式之代理模式&发布订阅模式的拓展参考",
+        "link": "https://juejin.im/post/6890861127695826951",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "基于原生webComponent封装组件",
+        "link": "https://juejin.im/post/6890856593333616653",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "vue-router实现原理分享",
+        "link": "https://juejin.im/post/6890853087880970248",
+        "date": "2020-11-03"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/jskou/0",

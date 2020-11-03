@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-03 07:47:56，:rocket: 更新条数: +193， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-03 08:04:19，:rocket: 更新条数: +198， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -433,6 +433,11 @@
 </summary>
 
 
+- [2020-11-02-【老奶奶都能学得会系列】qiankun-demo助你快速入门微前端](https://juejin.im/post/6890773400152489991) ![](assets/new.png)  
+- [2020-11-02-用vue实现波谱拟合](https://juejin.im/post/6890768365317685262) ![](assets/new.png)  
+- [2020-11-02-Vue、Node全栈项目~面向小白的博客系统~](https://juejin.im/post/6890757905352491021) ![](assets/new.png)  
+- [2020-11-02-初学canvas动画，绘制一个动态小球](https://juejin.im/post/6890736865595867149) ![](assets/new.png)  
+- [2020-11-02-ECS框架系列-与四叉树的一次结合（1）](https://juejin.im/post/6890722233771032590) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

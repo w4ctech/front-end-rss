@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-03 18:20:42，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-03 18:32:56，:rocket: 更新条数: +128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-11-03-​以色列65名囚犯确诊感染新冠肺炎-监狱周边已被封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1CQWEVTeODq9EGO5nxj201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-03-香港新增9例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5SBDP4OuyOPQbsRfzCz4201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-03-英国首次尝试进行全城范围的新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUEJ9UTPOyoFy7pcec0VA201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-03-北京一例境外输入无症状感染者转为确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirb3QoF9ZtHUfdzzsFWQF201103&isfromapp=1) ![](assets/new.png)  
+- [2020-11-03-国家移民管理局提醒公民继续尽量减少跨境旅行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLQ7aohD8nKTex9ENLWH201103&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

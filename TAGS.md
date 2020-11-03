@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-03 18:20:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-03 18:32:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -383,6 +383,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】​以色列65名囚犯确诊感染新冠肺炎-监狱周边已被封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1CQWEVTeODq9EGO5nxj201103&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】香港新增9例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5SBDP4OuyOPQbsRfzCz4201103&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -397,6 +399,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】英国首次尝试进行全城范围的新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUEJ9UTPOyoFy7pcec0VA201103&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】北京一例境外输入无症状感染者转为确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirb3QoF9ZtHUfdzzsFWQF201103&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】国家移民管理局提醒公民继续尽量减少跨境旅行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLQ7aohD8nKTex9ENLWH201103&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -414,9 +419,6 @@
 - [【安全热点】Oracle-WebLogic未授权访问漏洞CVE-2020-14750](https://sec.thief.one/article_content?a_id=a5e604f659aee9d42347c456ce4f9acd)
 - [【安全热点】承诺会保护隐私的社交应用True却意外曝光用户私人数据](https://sec.thief.one/article_content?a_id=d8fa2756851c7747f06c4895dd513cac)
 - [【安全热点】K神手札:全球围堵之下,比特币暴涨前最后一个震荡月开始](https://sec.thief.one/article_content?a_id=a28c403b4c519d2c2621444102a9ed8f)
-- [【安全热点】PayPal为“高意向”客户提高加密货币购买上限至每周1.5万美金](https://sec.thief.one/article_content?a_id=ce1b4ea04e769f98785346ac3e7f8e23)
-- [【安全热点】英国政府发布《零信任部署基本原则》草案](https://sec.thief.one/article_content?a_id=e52cac8dfe9ae0859cb27e3c811bd7ad)
-- [【安全热点】特朗普竞选网站遭加密货币骗子黑客攻击](https://sec.thief.one/article_content?a_id=0c17a2edfa50f8c2d3f676186d84e97f)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

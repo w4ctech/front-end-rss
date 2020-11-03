@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-03 12:33:09，:rocket: 更新条数: +218， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-03 12:37:53，:rocket: 更新条数: +3034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-11-02-最新疫情：全国新冠累计确诊86070例-新疆本土新增5例](http://m.china.caixin.com/m/2020-11-03/101622312.html) ![](assets/new.png)  
+- [2020-11-02-最新海外疫情：新冠感染超4678万-累计死亡超120万](http://m.international.caixin.com/m/2020-11-03/101622529.html) ![](assets/new.png)  
+- [2020-11-02-【境内疫情观察】全国新增44例境外输入病例（11月2日）](http://m.database.caixin.com/m/2020-11-03/101622339.html) ![](assets/new.png)  
+- [2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) ![](assets/new.png)  
+- [2020-11-01-【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html) ![](assets/new.png)  
+- [2020-11-01-大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html) ![](assets/new.png)  
+- [2020-10-31-【境内疫情观察】新疆新增61例无症状感染者（10月31日）](http://m.database.caixin.com/m/2020-11-01/101621241.html) ![](assets/new.png)  
+- [2020-10-31-大流行手记|10月31日：英国多地调高警戒级别-德国医疗资源吃紧](https://m.caixin.com/m/2020-11-01/101621213.html) ![](assets/new.png)  
+- [2020-10-30-最新封面报道之二|新冠疫苗紧急使用扩面](http://m.weekly.caixin.com/m/2020-10-31/101620912.html) ![](assets/new.png)  
+- [2020-10-30-诺奖得主文卡：新冠疫苗和药物的研发应该并重](https://m.caixin.com/m/2020-10-31/101621180.html) ![](assets/new.png)  
+- [2020-10-30-新疆新增无症状感染者61例](https://m.caixin.com/m/2020-10-31/101621169.html) ![](assets/new.png)  
+- [2020-10-30-【境内疫情观察】新疆新增6例本土确诊病例（10月30日）](http://m.database.caixin.com/m/2020-10-31/101621097.html) ![](assets/new.png)  
+- [2020-10-30-大流行手记|10月30日：应战第二波疫情-欧盟拨2.2亿助患者跨国治疗](https://m.caixin.com/m/2020-10-31/101620986.html) ![](assets/new.png)  
+- [2020-10-30-轻症新冠也会出现长期症状-报告指诊断标准不明影响治疗](https://m.caixin.com/m/2020-10-31/101621117.html) ![](assets/new.png)  
+- [2020-10-29-最新封面报道|新冠疫情何时了](http://m.weekly.caixin.com/m/2020-10-30/101620555.html) ![](assets/new.png)  
+- [2020-10-29-欧美回国航班新增血清抗体检测-中转回国需二次检测](http://m.companies.caixin.com/m/2020-10-30/101620858.html) ![](assets/new.png)  
+- [2020-10-29-青岛市第三人民医院隔离封闭病区护士确诊新冠-密接71人](http://m.china.caixin.com/m/2020-10-30/101620384.html) ![](assets/new.png)  
+- [2020-10-29-【境内疫情观察】山东新增1例本土确诊病例（10月29日）](http://m.database.caixin.com/m/2020-10-30/101620521.html) ![](assets/new.png)  
+- [2020-10-29-大流行手记|10月29日：法国重症床位告急-俄罗斯申请疫苗紧急使用授权](https://m.caixin.com/m/2020-10-30/101620397.html) ![](assets/new.png)  
+- [2020-10-29-英国新任驻华大使：疫情之下英中贸易比以往任何时候都重要](http://m.international.caixin.com/m/2020-10-30/101620599.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -513,6 +533,26 @@
 </summary>
 
 
+- [2020-11-03-问一道关于图的面试题，刷的题不多，写了好久也没写出来](https://www.v2ex.com/t/721520) ![](assets/new.png)  
+- [2020-11-03-开源-编写-iOS-小组件的极佳方式！](https://www.v2ex.com/t/721519) ![](assets/new.png)  
+- [2020-11-03-快来看看知道创宇第一次带货直播会不会翻车](https://www.v2ex.com/t/721518) ![](assets/new.png)  
+- [2020-11-03-华为！是不是鞠躬不够了还得给您跪下了](https://www.v2ex.com/t/721517) ![](assets/new.png)  
+- [2020-11-03-关于-pipeline-要放到-scm-中一起管理的-jenkins-困惑](https://www.v2ex.com/t/721516) ![](assets/new.png)  
+- [2020-11-03-群晖如何将非-drive-文件夹自动同步到本地？](https://www.v2ex.com/t/721515) ![](assets/new.png)  
+- [2020-11-03-组团买升降桌/升降支架-京东自营-Bratteck-推荐-4-人下单即可免单](https://www.v2ex.com/t/721514) ![](assets/new.png)  
+- [2020-11-03-求-V-友帮忙解开一个密文](https://www.v2ex.com/t/721513) ![](assets/new.png)  
+- [2020-11-03-请教几个代码签名申请的问题](https://www.v2ex.com/t/721512) ![](assets/new.png)  
+- [2020-11-03-华为-6999-的智慧屏最近活动不给力啊](https://www.v2ex.com/t/721511) ![](assets/new.png)  
+- [2020-11-03-校招-北京-985，-211-相关专业，能力可培养。持续招聘中。](https://www.v2ex.com/t/721510) ![](assets/new.png)  
+- [2020-11-03-数据库的-B+树索引可以支持相同-key-不同-value-吗](https://www.v2ex.com/t/721509) ![](assets/new.png)  
+- [2020-11-03-印象笔记-markdown-预览模式](https://www.v2ex.com/t/721508) ![](assets/new.png)  
+- [2020-11-03-1.1.1.3-这是哪个大神的神作？](https://www.v2ex.com/t/721507) ![](assets/new.png)  
+- [2020-11-03-你们见过在路上卖车载音乐-U-盘的吗？](https://www.v2ex.com/t/721506) ![](assets/new.png)  
+- [2020-11-03-该走吗？](https://www.v2ex.com/t/721505) ![](assets/new.png)  
+- [2020-11-03-iPad-或者-ipadpro-值得买吗？](https://www.v2ex.com/t/721504) ![](assets/new.png)  
+- [2020-11-03-分享下最近看房选房的纠结，欢迎大家来畅所欲言](https://www.v2ex.com/t/721503) ![](assets/new.png)  
+- [2020-11-03-背调-失业-有人了解全景求是这家公司么？如何知道自己是否有网贷？](https://www.v2ex.com/t/721502) ![](assets/new.png)  
+- [2020-11-03-RDP-无法对证书执行吊销检查](https://www.v2ex.com/t/721501) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

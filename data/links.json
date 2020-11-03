@@ -519,7 +519,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -755,38 +755,8 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
-        "link": "https://toutiao.io/k/z6p6anw",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
+        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
+        "link": "https://toutiao.io/k/k7nf2vd",
         "date": "2020-11-03"
       },
       {
@@ -795,18 +765,8 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
-        "link": "https://toutiao.io/k/43s9snk",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
-        "link": "https://toutiao.io/k/k7nf2vd",
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
         "date": "2020-11-03"
       },
       {
@@ -815,8 +775,33 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
         "date": "2020-11-03"
       },
       {
@@ -825,8 +810,23 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 微信研发体系下的分布式配置系统设计概要",
+        "link": "https://toutiao.io/k/43s9snk",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-03"
       }
     ]

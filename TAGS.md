@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-03 22:22:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-03 22:32:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -73,6 +73,7 @@
 - [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
+- [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -89,6 +90,7 @@
 
 
 
+- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -110,6 +112,7 @@
 - [【凹凸实验室】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
+- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -374,6 +377,7 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
+- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【安全热点】MySQL-大表优化方案](https://sec.thief.one/article_content?a_id=d6f0c773b3654e359121cd5f81db3dc7)
 - [【安全热点】如何优雅地给妹子优化电脑Windows?](https://sec.thief.one/article_content?a_id=a641d36bb369f422a5c6449e6cd91880)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -401,6 +405,7 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【安全热点】邀请函|奇安信将亮相2020年工业互联网安全成果展](https://sec.thief.one/article_content?a_id=3e8f71223cb8570dbf619b9655f35c1d)
 - [【安全热点】首提跨模态代码匹配算法,腾讯安全科恩实验室论文入选国际AI顶会...](https://sec.thief.one/article_content?a_id=82eb111168885ed83a87426311536df2)
 - [【安全热点】Google-Chromium-CVE-2019-5826-UAF分析](https://sec.thief.one/article_content?a_id=e070e80c73a56f6cc75cbb30c037b953)
@@ -411,7 +416,6 @@
 - [【安全热点】Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=415c7cb46f5c86c9b334d2e6826995be)
 - [【安全热点】每日安全动态推送11-03](https://sec.thief.one/article_content?a_id=be3e83b78eb13d11ea2d9ba40114d8cf)
 - [【安全热点】国舜股份入选安全牛“2020中国网络安全企业100强”](https://sec.thief.one/article_content?a_id=6dbc223b6024919326cc5a30cb422639)
-- [【安全热点】安全牛《2020中国网络安全企业100强报告》发布](https://sec.thief.one/article_content?a_id=a43849da5e36cbe060a8a0ddd0e1f0eb)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

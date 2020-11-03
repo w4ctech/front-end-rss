@@ -1491,10 +1491,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "用vue实现波谱拟合",
+        "link": "https://juejin.im/post/6890768365317685262",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "Vue、Node全栈项目~面向小白的博客系统~",
+        "link": "https://juejin.im/post/6890757905352491021",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "初学canvas动画，绘制一个动态小球",
+        "link": "https://juejin.im/post/6890736865595867149",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "[ECS框架系列]-与四叉树的一次结合（1）",
+        "link": "https://juejin.im/post/6890722233771032590",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "扒一扒迅雷的代码结构",
+        "link": "https://juejin.im/post/6890344584078721031",
+        "date": "2020-11-01"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -1654,7 +1680,7 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/docschina/jsweekly",
+    "rss": "https://rss.itggg.cn/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -1672,10 +1698,206 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "[深圳]ANKER 急招高级运维同学",
+        "link": "https://www.v2ex.com/t/721468",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "Vue 的作用域插槽是不是一个页面只能有一个？",
+        "link": "https://www.v2ex.com/t/721467",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "京东广州九折消费券最高 400 今日也发了",
+        "link": "https://www.v2ex.com/t/721466",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "自己写的 go 代码就是由一堆的 if 搭起来的",
+        "link": "https://www.v2ex.com/t/721464",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "#远程工作# 思维导图行业标杆 XMind ，招聘前端开发 15-30K，远程工作，不限城市， 965，，技术驱动~",
+        "link": "https://www.v2ex.com/t/721463",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "求问这个图标是什么",
+        "link": "https://www.v2ex.com/t/721462",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "DevOps 视角的前后端分离与实战",
+        "link": "https://www.v2ex.com/t/721461",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "有在哈尔滨 Python 岗位的朋友吗？",
+        "link": "https://www.v2ex.com/t/721460",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "nPlayer 如何播放 iTunes 导入的音频",
+        "link": "https://www.v2ex.com/t/721459",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[求瓜] 宝塔公司员工疑似直播时被带走？",
+        "link": "https://www.v2ex.com/t/721458",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "宝塔面板所在公司的工作人员被抓了？",
+        "link": "https://www.v2ex.com/t/721457",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "似乎是 ios14 问题导致的无服务？",
+        "link": "https://www.v2ex.com/t/721455",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "织物座椅要不要换成皮座椅？",
+        "link": "https://www.v2ex.com/t/721453",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "虎牙直播，我看个直播你跑满我宽带上传？",
+        "link": "https://www.v2ex.com/t/721451",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "大家如何看待绩效垫底？",
+        "link": "https://www.v2ex.com/t/721450",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "八宝山，玉泉路，古城，苹果园，租房子。",
+        "link": "https://www.v2ex.com/t/721449",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "双十一想买个烤箱，有推荐嘛",
+        "link": "https://www.v2ex.com/t/721448",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "找一个 office365 家庭版上车",
+        "link": "https://www.v2ex.com/t/721447",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "诚心请教关于 base64 的问题",
+        "link": "https://www.v2ex.com/t/721443",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "厦门 IT 工作招聘来啦！",
+        "link": "https://www.v2ex.com/t/721442",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "三维建模的服务提供商这么少吗？",
+        "link": "https://www.v2ex.com/t/721441",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "公历农历有转换的算法吗?",
+        "link": "https://www.v2ex.com/t/721440",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "shell tr -cd 匹配字符串问题",
+        "link": "https://www.v2ex.com/t/721439",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "突然发现骑共享单车很快乐。",
+        "link": "https://www.v2ex.com/t/721438",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "联通终于有 ipv6 了",
+        "link": "https://www.v2ex.com/t/721437",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "写代码改变了我！",
+        "link": "https://www.v2ex.com/t/721436",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[一面数据 | 深圳] 求 Python /大数据方面的同学 我们是一个充满欢乐的团队，等你来哟",
+        "link": "https://www.v2ex.com/t/721435",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "发布会都要开了， Big Sur 稳定版还没出？",
+        "link": "https://www.v2ex.com/t/721434",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "被殃及池鱼的我 惨兮兮",
+        "link": "https://www.v2ex.com/t/721433",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "退了 12 换成 11，感觉良好",
+        "link": "https://www.v2ex.com/t/721431",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "贝壳找房年底 HC 超多",
+        "link": "https://www.v2ex.com/t/721429",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "api 接口如何保证全国三线用户访问流畅？",
+        "link": "https://www.v2ex.com/t/721428",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "怎样读取 Android 系统加密的 user data 分区数据？",
+        "link": "https://www.v2ex.com/t/721427",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "现在有没有一个平台，可以全网监控一个指定产品在主流平台的售价，预约低价提醒？",
+        "link": "https://www.v2ex.com/t/721426",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "冷备份机械硬盘用什么磁盘格式？要求 Mac Win 都可读，可加密。APFS 显然不可行",
+        "link": "https://www.v2ex.com/t/721423",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "为什么 firefox 打不开腾讯云的网站而 chrome 能打开呢？",
+        "link": "https://www.v2ex.com/t/721422",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "有没有开源文件系统推荐呢？想参考下人家优秀的权限控制设计",
+        "link": "https://www.v2ex.com/t/721421",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "policycoreutils 这个依赖是干嘛用的？",
+        "link": "https://www.v2ex.com/t/721420",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "求推荐第三方电子签章平台~",
+        "link": "https://www.v2ex.com/t/721419",
+        "date": "2020-11-03"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -1830,13 +2052,13 @@
         "date": "2020-11-03"
       },
       {
-        "title": "Flutter 源码剖析（一）：源码获取与构建",
-        "link": "https://toutiao.io/k/m4ntz2d",
+        "title": "在 Kotlin 中使用 Dagger 会遇到的陷阱和优化方法",
+        "link": "https://toutiao.io/k/d5fnx4o",
         "date": "2020-11-03"
       },
       {
-        "title": "在 Kotlin 中使用 Dagger 会遇到的陷阱和优化方法",
-        "link": "https://toutiao.io/k/d5fnx4o",
+        "title": "Flutter 源码剖析（一）：源码获取与构建",
+        "link": "https://toutiao.io/k/m4ntz2d",
         "date": "2020-11-03"
       },
       {
@@ -1890,21 +2112,6 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
-        "link": "https://toutiao.io/k/z6p6anw",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
-        "date": "2020-11-03"
-      },
-      {
         "title": "[推荐] Redis 集群搭建采坑总结",
         "link": "https://toutiao.io/k/b60qswo",
         "date": "2020-11-03"
@@ -1920,23 +2127,8 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
-        "link": "https://toutiao.io/k/k7nf2vd",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
         "date": "2020-11-03"
       },
       {
@@ -1945,8 +2137,13 @@
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
         "date": "2020-11-03"
       },
       {
@@ -1955,13 +2152,38 @@
         "date": "2020-11-03"
       },
       {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-03"
+      },
+      {
         "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
         "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-03"
       },
       {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
         "date": "2020-11-03"
       }
     ]

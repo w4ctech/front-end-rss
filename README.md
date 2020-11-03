@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-03 09:20:38，:rocket: 更新条数: +445， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-03 09:33:21，:rocket: 更新条数: +489， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -453,6 +453,11 @@
 </summary>
 
 
+- [2020-11-02-用vue实现波谱拟合](https://juejin.im/post/6890768365317685262) ![](assets/new.png)  
+- [2020-11-02-Vue、Node全栈项目~面向小白的博客系统~](https://juejin.im/post/6890757905352491021) ![](assets/new.png)  
+- [2020-11-02-初学canvas动画，绘制一个动态小球](https://juejin.im/post/6890736865595867149) ![](assets/new.png)  
+- [2020-11-02-ECS框架系列-与四叉树的一次结合（1）](https://juejin.im/post/6890722233771032590) ![](assets/new.png)  
+- [2020-11-01-扒一扒迅雷的代码结构](https://juejin.im/post/6890344584078721031) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -528,6 +533,26 @@
 </summary>
 
 
+- [2020-11-03-深圳ANKER-急招高级运维同学](https://www.v2ex.com/t/721468) ![](assets/new.png)  
+- [2020-11-03-Vue-的作用域插槽是不是一个页面只能有一个？](https://www.v2ex.com/t/721467) ![](assets/new.png)  
+- [2020-11-03-京东广州九折消费券最高-400-今日也发了](https://www.v2ex.com/t/721466) ![](assets/new.png)  
+- [2020-11-03-自己写的-go-代码就是由一堆的-if-搭起来的](https://www.v2ex.com/t/721464) ![](assets/new.png)  
+- [2020-11-03-#远程工作#-思维导图行业标杆-XMind-，招聘前端开发-15-30K，远程工作，不限城市，-965，，技术驱动~](https://www.v2ex.com/t/721463) ![](assets/new.png)  
+- [2020-11-03-求问这个图标是什么](https://www.v2ex.com/t/721462) ![](assets/new.png)  
+- [2020-11-03-DevOps-视角的前后端分离与实战](https://www.v2ex.com/t/721461) ![](assets/new.png)  
+- [2020-11-03-有在哈尔滨-Python-岗位的朋友吗？](https://www.v2ex.com/t/721460) ![](assets/new.png)  
+- [2020-11-03-nPlayer-如何播放-iTunes-导入的音频](https://www.v2ex.com/t/721459) ![](assets/new.png)  
+- [2020-11-03-求瓜-宝塔公司员工疑似直播时被带走？](https://www.v2ex.com/t/721458) ![](assets/new.png)  
+- [2020-11-03-宝塔面板所在公司的工作人员被抓了？](https://www.v2ex.com/t/721457) ![](assets/new.png)  
+- [2020-11-03-似乎是-ios14-问题导致的无服务？](https://www.v2ex.com/t/721455) ![](assets/new.png)  
+- [2020-11-03-织物座椅要不要换成皮座椅？](https://www.v2ex.com/t/721453) ![](assets/new.png)  
+- [2020-11-03-虎牙直播，我看个直播你跑满我宽带上传？](https://www.v2ex.com/t/721451) ![](assets/new.png)  
+- [2020-11-03-大家如何看待绩效垫底？](https://www.v2ex.com/t/721450) ![](assets/new.png)  
+- [2020-11-03-八宝山，玉泉路，古城，苹果园，租房子。](https://www.v2ex.com/t/721449) ![](assets/new.png)  
+- [2020-11-03-双十一想买个烤箱，有推荐嘛](https://www.v2ex.com/t/721448) ![](assets/new.png)  
+- [2020-11-03-找一个-office365-家庭版上车](https://www.v2ex.com/t/721447) ![](assets/new.png)  
+- [2020-11-03-诚心请教关于-base64-的问题](https://www.v2ex.com/t/721443) ![](assets/new.png)  
+- [2020-11-03-厦门-IT-工作招聘来啦！](https://www.v2ex.com/t/721442) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -578,8 +603,8 @@
 - [2020-11-03-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
 - [2020-11-03-能拿驾照就能通过-Elastic-认证考试](https://toutiao.io/k/58j4am7) ![](assets/new.png)  
 - [2020-11-03-和行业里多家-DevOps-平台的同学交流后，我发现……](https://toutiao.io/k/mt6i5f5) ![](assets/new.png)  
-- [2020-11-03-Flutter-源码剖析（一）：源码获取与构建](https://toutiao.io/k/m4ntz2d) ![](assets/new.png)  
 - [2020-11-03-在-Kotlin-中使用-Dagger-会遇到的陷阱和优化方法](https://toutiao.io/k/d5fnx4o) ![](assets/new.png)  
+- [2020-11-03-Flutter-源码剖析（一）：源码获取与构建](https://toutiao.io/k/m4ntz2d) ![](assets/new.png)  
 - [2020-11-03-RC4-算法-C-语言实现](https://toutiao.io/k/dnzsy74) ![](assets/new.png)  
 - [2020-11-03-在-Kubernetes-上部署-Kafka-集群](https://toutiao.io/k/h5gzljg) ![](assets/new.png)  
 - [2020-11-03-蚂蚁研发流程大公开：上百个开发者也能同时在一个-App-环境内进行高效开发](https://toutiao.io/k/c2c1q7p) ![](assets/new.png)  

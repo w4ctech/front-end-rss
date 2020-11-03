@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "​以色列65名囚犯确诊感染新冠肺炎 监狱周边已被封锁",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1CQWEVTeODq9EGO5nxj201103&isfromapp=1",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "香港新增9例新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5SBDP4OuyOPQbsRfzCz4201103&isfromapp=1",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "英国首次尝试进行全城范围的新冠病毒检测",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUEJ9UTPOyoFy7pcec0VA201103&isfromapp=1",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "北京一例境外输入无症状感染者转为确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirb3QoF9ZtHUfdzzsFWQF201103&isfromapp=1",
+        "date": "2020-11-03"
+      },
+      {
+        "title": "国家移民管理局提醒公民继续尽量减少跨境旅行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLQ7aohD8nKTex9ENLWH201103&isfromapp=1",
+        "date": "2020-11-03"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",

@@ -330,36 +330,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "从工作到现在Git操作总结",
-        "link": "https://juejin.im/post/6891146425590087693",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "译|Web上的分享（Share）API",
-        "link": "https://juejin.im/post/6891142327503749127",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "在IIS中部署前后端应用，多么痛的领悟！",
-        "link": "https://juejin.im/post/6891110084680613901",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "你知道几种前端动画的实现方式？",
-        "link": "https://juejin.im/post/6891077408854654983",
-        "date": "2020-11-03"
-      },
-      {
-        "title": "恕我直言，你可能连 GitHub 搜索都不会用 - 如何精准搜索的神仙技巧",
-        "link": "https://juejin.im/post/6891056415440535565",
-        "date": "2020-11-03"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",
@@ -543,117 +517,192 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/blogread/newest",
+    "rss": "https://rss.shab.fun/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
+    "items": []
+  },
+  {
+    "rss": "https://rss.itggg.cn/toutiao/today",
+    "title": "开发者头条",
+    "link": "https://toutiao.io",
     "items": [
       {
-        "title": "端应用研发进入云原生时代 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13876&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776604%3Futm_content%3Dg_1000199268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "我不能没有的 5 个 Vue.js 库",
+        "link": "https://toutiao.io/k/l04ibvu",
         "date": "2020-11-04"
       },
       {
-        "title": "2020阿里云双11--0.73折起，爆款提前抢大促全攻略 (yuque.antfin-inc.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13875&url=https%3A%2F%2Fyuque.antfin-inc.com%2Fdocs%2Fshare%2F54142f85-d1dc-4ce7-bb67-74cced8a4077%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-04"
       },
       {
-        "title": "用 Mars Remote API 轻松分布式执行 Python 函数 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13874&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776436%3Futm_content%3Dg_1000199267%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "Kafka 浅谈：什么是 AR、OSR、ISR、HW 和 LEO 以及之间的关系",
+        "link": "https://toutiao.io/k/wyi8d8m",
         "date": "2020-11-04"
       },
       {
-        "title": "Serverless X OpenKruise 部署效率优化之道 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13873&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777277%3Futm_content%3Dg_1000198216%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "编程体系结构：Spring.Mvc.Boot 框架",
+        "link": "https://toutiao.io/k/pxayd4y",
         "date": "2020-11-04"
       },
       {
-        "title": "Tair持久存储系列技术解读 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13872&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776609%3Futm_content%3Dg_1000198215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-04"
       },
       {
-        "title": "模拟驾驶能力输出，赋能客户提升稳定性信心 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13871&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776602%3Futm_content%3Dg_1000198214%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "用 LeetCode 官方推荐的动画解《买卖股票的最佳时机》",
+        "link": "https://toutiao.io/k/el051zc",
         "date": "2020-11-04"
       },
       {
-        "title": "Fluid 0.3 新版本正式发布：实现云原生场景通用化数据加速 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13870&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775947%3Futm_content%3Dg_1000198213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "Swift 编译慢？请看这里，全套开源",
+        "link": "https://toutiao.io/k/ihas21f",
         "date": "2020-11-04"
       },
       {
-        "title": "持续定义Saas模式云数据仓库+实时分析 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13869&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771366%3Futm_content%3Dg_1000198212%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": ".Net/.Net Core 的界面框架 NanUI 发布新版本啦",
+        "link": "https://toutiao.io/k/waofqq3",
         "date": "2020-11-04"
       },
       {
-        "title": "Serverless 对研发效能的变革和创新 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "设计模式大冒险第二关：装饰者模式，煎饼果子的主场",
+        "link": "https://toutiao.io/k/8k39ggb",
         "date": "2020-11-04"
       },
       {
-        "title": "云原生时代，应用架构将如何演进？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "Minikube 入门介绍",
+        "link": "https://toutiao.io/k/q1fpas9",
         "date": "2020-11-04"
       },
       {
-        "title": "阿里云数据湖解决方案全面满足数据需求，帮助企业释放数据价值 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13866&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772900%3Futm_content%3Dg_1000197928%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "悉数 Python 函数传参的语法糖",
+        "link": "https://toutiao.io/k/4jf5sw7",
         "date": "2020-11-04"
       },
       {
-        "title": "AI和大数据下，前端技术将如何发展？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13865&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776699%3Futm_content%3Dg_1000197927%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-04"
       },
       {
-        "title": "持续定义Saas模式云数据仓库+BI (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13864&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771483%3Futm_content%3Dg_1000197926%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "深入详解 Jetpack Compose  实现原理",
+        "link": "https://toutiao.io/k/t26d31a",
         "date": "2020-11-04"
       },
       {
-        "title": "秒懂 Https 之如何在 Android 中使用自签名证书 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13863&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_g5Mmy0KmgCnpsQfw34-oQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "Flink 中如何解析与传递参数",
+        "link": "https://toutiao.io/k/z06i16q",
         "date": "2020-11-04"
       },
       {
-        "title": "集成 Flutter 到现有项目，并实现使用单个 FlutterEngine 管理多个入口 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13862&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7SUWmY4xfHkyeckKITN1yA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "machinery 入门看这一篇（异步任务队列）",
+        "link": "https://toutiao.io/k/ojj805i",
         "date": "2020-11-04"
       },
       {
-        "title": "来大厂三个月的一点点小思考 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS0OI-0CY1qvEvbGw46W8bQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "常见登录鉴权方案",
+        "link": "https://toutiao.io/k/yod3gck",
         "date": "2020-11-04"
       },
       {
-        "title": "美团面经分享！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13860&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWKED32dv1dSwkocMatnMQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "从勾股定理到余弦相似度：程序员的数学基础",
+        "link": "https://toutiao.io/k/o2fu1nx",
         "date": "2020-11-04"
       },
       {
-        "title": "一个人竟然撸了一个微博 App (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13859&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfaeImHs3Sjj_Tq3CZrSVmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "分布式 WAF 落地全程实录",
+        "link": "https://toutiao.io/k/qc5d7o8",
         "date": "2020-11-04"
       },
       {
-        "title": "有个程序员老公有多爽？？？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13858&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FopvJMxf4DCyJXcktYBGwBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "Stateful Serverless 背后的 Flink StateFun 内部机制实现",
+        "link": "https://toutiao.io/k/6js1cu7",
         "date": "2020-11-04"
       },
       {
-        "title": "微软宣布 Windows 10 重大调整：一年一更！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13857&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzYWy2eh2mcrBnuxvXdfOHA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "58 金融前端脚手架的设计与实现",
+        "link": "https://toutiao.io/k/zf6opy3",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
+        "link": "https://toutiao.io/k/k7nf2vd",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-04"
       }
     ]
-  },
-  {
-    "rss": "https://rss.shab.fun/toutiao/today",
-    "title": "开发者头条",
-    "link": "https://toutiao.io",
-    "items": []
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

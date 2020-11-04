@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-04 23:35:15，:rocket: 更新条数: +3023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-04 23:47:53，:rocket: 更新条数: +212， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-11-03-最新疫情：全国新冠累计确诊86087例-新疆本土新增2例](http://m.china.caixin.com/m/2020-11-04/101623050.html) ![](assets/new.png)  
-- [2020-11-03-最新海外疫情：新冠感染超4735万-累计死亡近121万](https://m.caixin.com/m/2020-11-04/101623043.html) ![](assets/new.png)  
-- [2020-11-03-【境内疫情观察】新疆新增116例无症状感染者（11月3日）](http://m.database.caixin.com/m/2020-11-04/101622904.html) ![](assets/new.png)  
-- [2020-11-03-大流行手记|11月3日：WHO提示孕妇幼儿流感风险-美确诊选民可现场投票](https://m.caixin.com/m/2020-11-04/101622791.html) ![](assets/new.png)  
-- [2020-11-02-香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html) ![](assets/new.png)  
-- [2020-11-02-新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html) ![](assets/new.png)  
-- [2020-11-02-【境内疫情观察】全国新增44例境外输入病例（11月2日）](http://m.database.caixin.com/m/2020-11-03/101622339.html) ![](assets/new.png)  
-- [2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) ![](assets/new.png)  
-- [2020-11-01-【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html) ![](assets/new.png)  
-- [2020-11-01-大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html) ![](assets/new.png)  
-- [2020-10-31-【境内疫情观察】新疆新增61例无症状感染者（10月31日）](http://m.database.caixin.com/m/2020-11-01/101621241.html) ![](assets/new.png)  
-- [2020-10-31-大流行手记|10月31日：英国多地调高警戒级别-德国医疗资源吃紧](https://m.caixin.com/m/2020-11-01/101621213.html) ![](assets/new.png)  
-- [2020-10-30-新疆新增无症状感染者61例](https://m.caixin.com/m/2020-10-31/101621169.html) ![](assets/new.png)  
-- [2020-10-30-最新封面报道之二|新冠疫苗紧急使用扩面](http://m.weekly.caixin.com/m/2020-10-31/101620912.html) ![](assets/new.png)  
-- [2020-10-30-【境内疫情观察】新疆新增6例本土确诊病例（10月30日）](http://m.database.caixin.com/m/2020-10-31/101621097.html) ![](assets/new.png)  
-- [2020-10-30-大流行手记|10月30日：应战第二波疫情-欧盟拨2.2亿助患者跨国治疗](https://m.caixin.com/m/2020-10-31/101620986.html) ![](assets/new.png)  
-- [2020-10-30-轻症新冠也会出现长期症状-报告指诊断标准不明影响治疗](https://m.caixin.com/m/2020-10-31/101621117.html) ![](assets/new.png)  
-- [2020-10-30-诺奖得主文卡：新冠疫苗和药物的研发应该并重](https://m.caixin.com/m/2020-10-31/101621180.html) ![](assets/new.png)  
-- [2020-10-29-欧美回国航班新增血清抗体检测-中转回国需二次检测](http://m.companies.caixin.com/m/2020-10-30/101620858.html) ![](assets/new.png)  
-- [2020-10-29-青岛市第三人民医院隔离封闭病区护士确诊新冠-密接71人](http://m.china.caixin.com/m/2020-10-30/101620384.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +75,11 @@
 </summary>
 
 
+- [2020-11-04-克罗地亚新增新冠肺炎确诊病例2480例-医生协会要求政府实施更严格的防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXAE8efyG81HIzFO5YzXV201104&isfromapp=1) ![](assets/new.png)  
+- [2020-11-04-主播说联播-|-这些老外就算隔离14天也要来中国，郑丽道出缘由](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWJncQyo5ARJsW4wCvYX0201104&isfromapp=1) ![](assets/new.png)  
 - [2020-11-04-香港新增3例新冠肺炎确诊病例-累计确诊5348例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNwcBLI019xqdsw2nei4Z201104&isfromapp=1) ![](assets/new.png)  
 - [2020-11-04-美专家：美国新冠肺炎疫情进入“最致命阶段”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJ468zDZPnw7IYfDuGrd201104&isfromapp=1) ![](assets/new.png)  
 - [2020-11-04-意大利再度提升防控-疫情高风险地区限制人员出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibGIuwH4YZ5GrH88almP7201104&isfromapp=1) ![](assets/new.png)  
-- [2020-11-03-阿尔及利亚总统府确认阿总统特本感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4gu8NaPicg430rYtq6k3201104&isfromapp=1) ![](assets/new.png)  
-- [2020-11-03-匈牙利再次进入紧急状态-午夜至凌晨5点实施宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiViht3Z1C3xxIVeCXaNed201104&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,26 +513,6 @@
 </summary>
 
 
-- [2020-11-04-iOS+flutter-开发-随缘接单](https://www.v2ex.com/t/721875) ![](assets/new.png)  
-- [2020-11-04-FinTech-社区-招聘-|-高频量化研究员-股票--上海-推荐奖-1W](https://www.v2ex.com/t/721874) ![](assets/new.png)  
-- [2020-11-04-秋招基本结束了，只会-Python-要转-Java-开发吗？](https://www.v2ex.com/t/721873) ![](assets/new.png)  
-- [2020-11-04-求推荐类似于-nuc-的迷你主机](https://www.v2ex.com/t/721870) ![](assets/new.png)  
-- [2020-11-04-zlib-compress-后-decompress-得不到原来的内容（-Python-3.8）](https://www.v2ex.com/t/721869) ![](assets/new.png)  
-- [2020-11-04-请教一个-Java-多线程嵌套使用的问题](https://www.v2ex.com/t/721868) ![](assets/new.png)  
-- [2020-11-04-kali-下-apt-upgrade-升级报错](https://www.v2ex.com/t/721867) ![](assets/new.png)  
-- [2020-11-04-又来抱怨机械革命-S2-Air-了，使用-Etcher-时蓝屏](https://www.v2ex.com/t/721866) ![](assets/new.png)  
-- [2020-11-04-有那些短小精悍的三防手机推荐？](https://www.v2ex.com/t/721864) ![](assets/new.png)  
-- [2020-11-04-目前使用-NeoVim+ccls，请问有没有插件可以类似-IDE-一样集中显示报错或者警告提示？](https://www.v2ex.com/t/721863) ![](assets/new.png)  
-- [2020-11-04-大家搭博客都选哪个服务器运营商呢？良心云还是套路云？](https://www.v2ex.com/t/721862) ![](assets/new.png)  
-- [2020-11-04-网易-popo-社招内推](https://www.v2ex.com/t/721861) ![](assets/new.png)  
-- [2020-11-04-请问一下各位，有能支持-webdav-的-cdn-吗？](https://www.v2ex.com/t/721858) ![](assets/new.png)  
-- [2020-11-04-独立购物网站-Independent-shopping-website](https://www.v2ex.com/t/721857) ![](assets/new.png)  
-- [2020-11-04-网易游戏战趣工作室-社招内推，-base-深圳](https://www.v2ex.com/t/721856) ![](assets/new.png)  
-- [2020-11-04-MariaDB-数据库事务提交后，发现好多数据不见了](https://www.v2ex.com/t/721853) ![](assets/new.png)  
-- [2020-11-04-rust-for-loop](https://www.v2ex.com/t/721851) ![](assets/new.png)  
-- [2020-11-04-不懂就问，如何保护-assets-内的文件安全？](https://www.v2ex.com/t/721850) ![](assets/new.png)  
-- [2020-11-04-BlueStacks-如何安装-Google-AR（ARcore）？](https://www.v2ex.com/t/721848) ![](assets/new.png)  
-- [2020-11-04-现在个人独立生活博客都已经是情怀了吗？](https://www.v2ex.com/t/721847) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -595,26 +555,26 @@
 </summary>
 
 
-- [2020-11-04-Embedding-技术在推荐系统中的应用](https://toutiao.io/k/1t846fk) ![](assets/new.png)  
-- [2020-11-04-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/o15q5av) ![](assets/new.png)  
 - [2020-11-04-物理内存充足，但是为什么用代码总申请不到内存呢？](https://toutiao.io/k/xy6v0or) ![](assets/new.png)  
+- [2020-11-04-Embedding-技术在推荐系统中的应用](https://toutiao.io/k/1t846fk) ![](assets/new.png)  
 - [2020-11-04-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-04-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-04-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/o15q5av) ![](assets/new.png)  
+- [2020-11-04-解读云原生基础设施](https://toutiao.io/k/d33fq3m) ![](assets/new.png)  
 - [2020-11-04-天天说要做性能优化，到底在优化什么？](https://toutiao.io/k/9fxs5uq) ![](assets/new.png)  
-- [2020-11-04-Geohash：「附近的人」背后的秘密](https://toutiao.io/k/fb4sqr0) ![](assets/new.png)  
+- [2020-11-04-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
 - [2020-11-04-为什么我建议你去写博客？](https://toutiao.io/k/hjxcswv) ![](assets/new.png)  
 - [2020-11-04-Spring-Cloud-Alibaba-微服务实战（二十）-：集成-Feign-的降级熔断](https://toutiao.io/k/ig5lchd) ![](assets/new.png)  
-- [2020-11-04-解读云原生基础设施](https://toutiao.io/k/d33fq3m) ![](assets/new.png)  
 - [2020-11-04-漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j) ![](assets/new.png)  
 - [2020-11-04-Go-语言中的-gRPC-基础入门](https://toutiao.io/k/62tm9cb) ![](assets/new.png)  
+- [2020-11-04-Geohash：「附近的人」背后的秘密](https://toutiao.io/k/fb4sqr0) ![](assets/new.png)  
 - [2020-11-04-JavaScript-各异步方式比较](https://toutiao.io/k/0rlpbvu) ![](assets/new.png)  
 - [2020-11-04-清理镜像库空间的一个思路](https://toutiao.io/k/91ajl45) ![](assets/new.png)  
-- [2020-11-04-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-04-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-04-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
-- [2020-11-04-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-04-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-04-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-04-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-04-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) ![](assets/new.png)  
 - [2020-11-04-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) ![](assets/new.png)  
+- [2020-11-04-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-04-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

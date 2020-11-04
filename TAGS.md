@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-04 08:24:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-04 08:32:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【V2EX】react-+-redux，的情况下，大家怎么测试-high-ordered-component?](https://www.v2ex.com/t/721763)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -56,6 +57,7 @@
 
 
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
+- [【开发者头条】我不能没有的-5-个-Vue.js-库](https://toutiao.io/k/l04ibvu)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -138,6 +140,7 @@
 
 
 
+- [【技术头条】集成-Flutter-到现有项目，并实现使用单个-FlutterEngine-管理多个入口-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13862&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7SUWmY4xfHkyeckKITN1yA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -154,6 +157,9 @@
 
 
 
+- [【V2EX】有偿，找人定制一个-H5-小游戏](https://www.v2ex.com/t/721749)
+- [【V2EX】在线玩-FC-游戏-感觉还不错-摸了下🐟](https://www.v2ex.com/t/721735)
+- [【V2EX】你买的第一款正版游戏是什么？还记得价格吗？](https://www.v2ex.com/t/721728)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -173,6 +179,8 @@
 - [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
 - [【张鑫旭-鑫空间-鑫生活】巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
+- [【V2EX】做了一个简单的手机端滚动横幅。](https://www.v2ex.com/t/721764)
+- [【开发者头条】machinery-入门看这一篇（异步任务队列）](https://toutiao.io/k/ojj805i)
 - [【安全热点】CVE-2020-14882-eblogic-Console远程代码执行漏洞复现豪华版](https://sec.thief.one/article_content?a_id=9c77a7b97377bb3eba4bdc13f279bcbd)
 - [【安全热点】漏洞风险提示-|-WebLogic-Console-权限认证绕过漏洞-CVE-2020-14750](https://sec.thief.one/article_content?a_id=0c91d61523022e140bfcb85144a02546)
 - [【安全热点】学习强国:工业互联网攻击事件频发-安全建设亟须从“零散”走向“全...](https://sec.thief.one/article_content?a_id=fdb70f7865f7659ee19d316d9f52383c)
@@ -196,6 +204,10 @@
 - [【张鑫旭-鑫空间-鑫生活】如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/)
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
+- [【技术头条】Serverless-X-OpenKruise-部署效率优化之道-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13873&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777277%3Futm_content%3Dg_1000198216%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】Serverless-对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】用-LeetCode-官方推荐的动画解《买卖股票的最佳时机》](https://toutiao.io/k/el051zc)
+- [【开发者头条】Stateful-Serverless-背后的-Flink-StateFun-内部机制实现](https://toutiao.io/k/6js1cu7)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -268,6 +280,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
+- [【V2EX】v2ex-有朋友对安全岗位感兴趣吗](https://www.v2ex.com/t/721734)
 - [【安全热点】邀请函|奇安信将亮相2020年工业互联网安全成果展](https://sec.thief.one/article_content?a_id=3e8f71223cb8570dbf619b9655f35c1d)
 - [【安全热点】首提跨模态代码匹配算法,腾讯安全科恩实验室论文入选国际AI顶会...](https://sec.thief.one/article_content?a_id=82eb111168885ed83a87426311536df2)
 - [【安全热点】Google-Chromium-CVE-2019-5826-UAF分析](https://sec.thief.one/article_content?a_id=e070e80c73a56f6cc75cbb30c037b953)
@@ -286,7 +299,6 @@
 - [【安全热点】招聘-|-腾讯安全专家咨询中心人才招募令](https://sec.thief.one/article_content?a_id=412eba2d561b19cab9e9387c907dc2b4)
 - [【安全热点】工业互联网安全产业I²S联盟成立,南通网络安全发展政策优惠](https://sec.thief.one/article_content?a_id=fd3872b9955f6443dc64145db21b35d9)
 - [【安全热点】Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=526e2d2e8d437e660721c094fb154e09)
-- [【安全热点】安全工具开源-=-给网络犯罪送武器?](https://sec.thief.one/article_content?a_id=ef1a930c4644f1a16e9391b4a90f572c)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -303,6 +315,8 @@
 
 
 
+- [【V2EX】现在项目中如果要建立搜索业务，一般都是用-elasticsearch-吗？还有没有其他技术栈](https://www.v2ex.com/t/721770)
+- [【技术头条】秒懂-Https-之如何在-Android-中使用自签名证书-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13863&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_g5Mmy0KmgCnpsQfw34-oQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -335,6 +349,7 @@
 
 
 
+- [【V2EX】Git-飞行规则-✈️](https://www.v2ex.com/t/721773)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -351,6 +366,8 @@
 
 
 
+- [【V2EX】「旷视科技·北京」招聘高级前端开发工程师](https://www.v2ex.com/t/721746)
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -411,15 +428,15 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
-- [【安全热点】面向对象:喜欢真诚乐观的男生,希望找个有共同目标的人一同前行](https://sec.thief.one/article_content?a_id=12b470175b93e3ed483559eb136daa85)
-- [【安全热点】赞赞赞!他们获得了ByteSRC首次团队奖励!](https://sec.thief.one/article_content?a_id=f031da97525b77b31870a70449fa375a)
-- [【安全热点】万豪酒店因数据泄露被罚款近1.6亿元,这还是从轻处理的结果](https://sec.thief.one/article_content?a_id=953fa5af1b171ba177a51826ff92ffba)
-- [【安全热点】i春秋双11宠粉福利第二弹,雷蛇耳机给你派送了!](https://sec.thief.one/article_content?a_id=6d660386676a8f5f55b8d2cc0d499c6f)
-- [【安全热点】文末惊喜-|-2020雷神众测HackingDay-再度来袭,完整议题流程请查收!](https://sec.thief.one/article_content?a_id=fa38841349851c9f7eed2de3e5c260c2)
-- [【安全热点】Oracle-WebLogic未授权访问漏洞CVE-2020-14750](https://sec.thief.one/article_content?a_id=a5e604f659aee9d42347c456ce4f9acd)
-- [【安全热点】承诺会保护隐私的社交应用True却意外曝光用户私人数据](https://sec.thief.one/article_content?a_id=d8fa2756851c7747f06c4895dd513cac)
-- [【安全热点】K神手札:全球围堵之下,比特币暴涨前最后一个震荡月开始](https://sec.thief.one/article_content?a_id=a28c403b4c519d2c2621444102a9ed8f)
-- [【安全热点】PayPal为“高意向”客户提高加密货币购买上限至每周1.5万美金](https://sec.thief.one/article_content?a_id=ce1b4ea04e769f98785346ac3e7f8e23)
+- [【V2EX】为什么爱思助手安装应用不需要信任任何证书啊？](https://www.v2ex.com/t/721775)
+- [【V2EX】如何建立公司的代码质量管理体系文件？](https://www.v2ex.com/t/721772)
+- [【V2EX】原来-ZF-举报部门会出卖举报人信息，大家以后还是长点心把](https://www.v2ex.com/t/721769)
+- [【V2EX】请问一下字节跳动的工作时间？](https://www.v2ex.com/t/721768)
+- [【V2EX】阿里、字节-offer-选择](https://www.v2ex.com/t/721767)
+- [【V2EX】关于购买显示器的问题](https://www.v2ex.com/t/721765)
+- [【V2EX】「求职/上海」产品经理，有设计经验，麻烦各位大佬指导，求内推合适岗位。](https://www.v2ex.com/t/721761)
+- [【V2EX】双十一来一波产品和运营相关课程的拼团秒杀福利~](https://www.v2ex.com/t/721760)
+- [【V2EX】湘潭联通-9929-有人搭车嘛？送机位](https://www.v2ex.com/t/721758)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

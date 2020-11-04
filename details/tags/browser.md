@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-04 10:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-04 11:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,23 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-11-04-案例|聚焦医疗电子票据改革,护航医疗行业票据业务安全](https://sec.thief.one/article_content?a_id=9fdd2e692f08c48fe8b748190092a848) 
+- [2020-11-04-HTTP/2-H2C-请求走私分析](https://sec.thief.one/article_content?a_id=2ab85294e6316283ec88e65a943fe43e) 
+- [2020-11-04-安全通告|SaltStack多个高危漏洞风险通告CVE-2020-16846/CVE-...](https://sec.thief.one/article_content?a_id=ded5fdc590844325c46bf2802fdccdf7) 
+- [2020-11-04-安全众测第四期-额外奖励拿不停!](https://sec.thief.one/article_content?a_id=fe90c2dc335a5dedaee6743b00d231e4) 
+- [2020-11-04-Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=142cf1298ca7712a8826b3c6db3c381b) 
+- [2020-11-04-第二届百度大学生网络安全技能大赛火热报名中!](https://sec.thief.one/article_content?a_id=86462cbd79c661ebafca8356aca105d1) 
+- [2020-11-04-出招反诈、护航安全:国舜专业安全力量赋能治理跨境赌博](https://sec.thief.one/article_content?a_id=14c787121dfad97d29af1170ee17fa52) 
+- [2020-11-04-一次验证码安全测试](https://sec.thief.one/article_content?a_id=f50be934f43b2a3170ea700fbdec84b5) 
+- [2020-11-03-【安全圈】HPE-修补了两个关键的远程可利用漏洞](https://sec.thief.one/article_content?a_id=60d87d3cc1f26156317f3eab192785f8) 
 - [2020-11-03-邀请函|奇安信将亮相2020年工业互联网安全成果展](https://sec.thief.one/article_content?a_id=3e8f71223cb8570dbf619b9655f35c1d) 
 - [2020-11-03-首提跨模态代码匹配算法,腾讯安全科恩实验室论文入选国际AI顶会...](https://sec.thief.one/article_content?a_id=82eb111168885ed83a87426311536df2) 
 - [2020-11-03-Google-Chromium-CVE-2019-5826-UAF分析](https://sec.thief.one/article_content?a_id=e070e80c73a56f6cc75cbb30c037b953) 
@@ -27,13 +44,3 @@
 - [2020-11-02-工业互联网安全产业I²S联盟成立,南通网络安全发展政策优惠](https://sec.thief.one/article_content?a_id=fd3872b9955f6443dc64145db21b35d9) 
 - [2020-11-02-Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=526e2d2e8d437e660721c094fb154e09) 
 - [2020-11-02-安全工具开源-=-给网络犯罪送武器?](https://sec.thief.one/article_content?a_id=ef1a930c4644f1a16e9391b4a90f572c) 
-- [2020-11-02-每日安全动态推送11-02](https://sec.thief.one/article_content?a_id=8191a08bdbfb30509dac5b9008c41baf) 
-- [2020-11-02-【实战】无回显Rce到Getshell](https://sec.thief.one/article_content?a_id=825b5af63b0799c1b0441fb8409398d3) 
-- [2020-11-02-物联网安全黑马-天防安全再获2000万融资加持](https://sec.thief.one/article_content?a_id=6c5db0ee76c5ce97836d7dd7a8e3d02d) 
-- [2020-11-02-Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=404c643fd8ced12c0b99d88619ab4850) 
-- [2020-11-02-因未能确保客户个人数据安全-万豪国际被罚1840万英镑](https://sec.thief.one/article_content?a_id=5ffa2dcdb4ed9bcaf30c2bb36970ca95) 
-- [2020-11-01-【安全圈】Wroba-Mobile-Banking特洛伊木马通过短信向美国传播](https://sec.thief.one/article_content?a_id=4b3051816a04e4a0694574ae180a46ec) 
-- [2020-11-01-网络安全上市企业Q3营业数据排行](https://sec.thief.one/article_content?a_id=1056abb32e05e2aa1008d0e63cf13ad3) 
-- [2020-11-01-原创图解|速读2020年上半年我国互联网网络安全监测数据分析报告...](https://sec.thief.one/article_content?a_id=217b873ae70e7798853f84c29d06d699) 
-- [2020-11-01-下一代终端安全攻防:无文件攻击白皮书](https://sec.thief.one/article_content?a_id=69c53feb36b0177aa9cae913b1495822) 
-- [2020-11-01-WebLogic高危安全漏洞补丁绕过风险提示](https://sec.thief.one/article_content?a_id=63d3387ba490a8f93242b5a67283eda0) 

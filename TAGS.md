@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-04 14:20:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-04 14:32:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,7 +56,6 @@
 
 
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
-- [【开发者头条】我不能没有的-5-个-Vue.js-库](https://toutiao.io/k/l04ibvu)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -174,7 +173,6 @@
 - [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
 - [【张鑫旭-鑫空间-鑫生活】巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
-- [【开发者头条】machinery-入门看这一篇（异步任务队列）](https://toutiao.io/k/ojj805i)
 - [【安全热点】JavaScript函数式编程,“香”吗?](https://sec.thief.one/article_content?a_id=296f1bc9ca76988dbfae185439be2a1f)
 - [【安全热点】CVE-2020-14882-eblogic-Console远程代码执行漏洞复现豪华版](https://sec.thief.one/article_content?a_id=9c77a7b97377bb3eba4bdc13f279bcbd)
 - [【安全热点】漏洞风险提示-|-WebLogic-Console-权限认证绕过漏洞-CVE-2020-14750](https://sec.thief.one/article_content?a_id=0c91d61523022e140bfcb85144a02546)
@@ -199,8 +197,6 @@
 - [【张鑫旭-鑫空间-鑫生活】如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/)
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
-- [【开发者头条】用-LeetCode-官方推荐的动画解《买卖股票的最佳时机》](https://toutiao.io/k/el051zc)
-- [【开发者头条】Stateful-Serverless-背后的-Flink-StateFun-内部机制实现](https://toutiao.io/k/6js1cu7)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -357,8 +353,6 @@
 
 
 
-- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
-- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -419,15 +413,15 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
-- [【开发者头条】阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6)
-- [【开发者头条】Kafka-浅谈：什么是-AR、OSR、ISR、HW-和-LEO-以及之间的关系](https://toutiao.io/k/wyi8d8m)
-- [【开发者头条】编程体系结构：Spring.Mvc.Boot-框架](https://toutiao.io/k/pxayd4y)
-- [【开发者头条】13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t)
-- [【开发者头条】Swift-编译慢？请看这里，全套开源](https://toutiao.io/k/ihas21f)
-- [【开发者头条】.Net/.Net-Core-的界面框架-NanUI-发布新版本啦](https://toutiao.io/k/waofqq3)
-- [【开发者头条】Minikube-入门介绍](https://toutiao.io/k/q1fpas9)
-- [【开发者头条】设计模式大冒险第二关：装饰者模式，煎饼果子的主场](https://toutiao.io/k/8k39ggb)
-- [【开发者头条】MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef)
+- [【安全热点】Linux内核eBPF权限提升漏洞通告CVE-2020-27194](https://sec.thief.one/article_content?a_id=3b29e4cf061e52063aab8334b161498b)
+- [【安全热点】我输给了一个-25-岁的男人](https://sec.thief.one/article_content?a_id=d71199b10743353b534ab99e777cf305)
+- [【安全热点】挖洞经验-|-价值6k$的星巴克官网账户劫持漏洞](https://sec.thief.one/article_content?a_id=b28d67a804a8c7cb2096003ac813a4b4)
+- [【安全热点】【漏洞通告】SaltStack-RCE等高危漏洞通告](https://sec.thief.one/article_content?a_id=3a046d3813101ab1fbe9ce1ed9f11ae3)
+- [【安全热点】“AI一键脱衣”,又卷土重来了!](https://sec.thief.one/article_content?a_id=41105874ebe049d8128afd8d630f5b3c)
+- [【安全热点】《安卓高级研修班》线下班,网课12月班开始同步招生!](https://sec.thief.one/article_content?a_id=19b9af3f631fda3e9f9b77324ea1752b)
+- [【安全热点】PWN从入门到放弃三:来实际操作吧!](https://sec.thief.one/article_content?a_id=d0f095aa943e3956083469660950a089)
+- [【安全热点】大家好,我是Tony,始于颜值,终于才华,永葆赤子之心!](https://sec.thief.one/article_content?a_id=1d4c978958a2282a22816c3051a1931e)
+- [【安全热点】如何成为一名优秀的网络工程师?](https://sec.thief.one/article_content?a_id=bf9d3949efeb5a4a89053b8c1ed7f14f)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

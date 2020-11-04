@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-04 07:47:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-04 08:04:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,6 +56,7 @@
 
 
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
+- [【开发者头条】我不能没有的-5-个-Vue.js-库](https://toutiao.io/k/l04ibvu)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -173,6 +174,7 @@
 - [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
 - [【张鑫旭-鑫空间-鑫生活】巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
+- [【开发者头条】machinery-入门看这一篇（异步任务队列）](https://toutiao.io/k/ojj805i)
 - [【安全热点】CVE-2020-14882-eblogic-Console远程代码执行漏洞复现豪华版](https://sec.thief.one/article_content?a_id=9c77a7b97377bb3eba4bdc13f279bcbd)
 - [【安全热点】漏洞风险提示-|-WebLogic-Console-权限认证绕过漏洞-CVE-2020-14750](https://sec.thief.one/article_content?a_id=0c91d61523022e140bfcb85144a02546)
 - [【安全热点】学习强国:工业互联网攻击事件频发-安全建设亟须从“零散”走向“全...](https://sec.thief.one/article_content?a_id=fdb70f7865f7659ee19d316d9f52383c)
@@ -196,6 +198,9 @@
 - [【张鑫旭-鑫空间-鑫生活】如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/)
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
+- [【掘金前端】你知道几种前端动画的实现方式？](https://juejin.im/post/6891077408854654983)
+- [【开发者头条】用-LeetCode-官方推荐的动画解《买卖股票的最佳时机》](https://toutiao.io/k/el051zc)
+- [【开发者头条】Stateful-Serverless-背后的-Flink-StateFun-内部机制实现](https://toutiao.io/k/6js1cu7)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -335,6 +340,8 @@
 
 
 
+- [【掘金前端】从工作到现在Git操作总结](https://juejin.im/post/6891146425590087693)
+- [【掘金前端】恕我直言，你可能连-GitHub-搜索都不会用---如何精准搜索的神仙技巧](https://juejin.im/post/6891056415440535565)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -351,6 +358,8 @@
 
 
 
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -406,17 +415,17 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
-- [【安全热点】面向对象:喜欢真诚乐观的男生,希望找个有共同目标的人一同前行](https://sec.thief.one/article_content?a_id=12b470175b93e3ed483559eb136daa85)
-- [【安全热点】赞赞赞!他们获得了ByteSRC首次团队奖励!](https://sec.thief.one/article_content?a_id=f031da97525b77b31870a70449fa375a)
-- [【安全热点】万豪酒店因数据泄露被罚款近1.6亿元,这还是从轻处理的结果](https://sec.thief.one/article_content?a_id=953fa5af1b171ba177a51826ff92ffba)
-- [【安全热点】i春秋双11宠粉福利第二弹,雷蛇耳机给你派送了!](https://sec.thief.one/article_content?a_id=6d660386676a8f5f55b8d2cc0d499c6f)
-- [【安全热点】文末惊喜-|-2020雷神众测HackingDay-再度来袭,完整议题流程请查收!](https://sec.thief.one/article_content?a_id=fa38841349851c9f7eed2de3e5c260c2)
-- [【安全热点】Oracle-WebLogic未授权访问漏洞CVE-2020-14750](https://sec.thief.one/article_content?a_id=a5e604f659aee9d42347c456ce4f9acd)
-- [【安全热点】承诺会保护隐私的社交应用True却意外曝光用户私人数据](https://sec.thief.one/article_content?a_id=d8fa2756851c7747f06c4895dd513cac)
-- [【安全热点】K神手札:全球围堵之下,比特币暴涨前最后一个震荡月开始](https://sec.thief.one/article_content?a_id=a28c403b4c519d2c2621444102a9ed8f)
-- [【安全热点】PayPal为“高意向”客户提高加密货币购买上限至每周1.5万美金](https://sec.thief.one/article_content?a_id=ce1b4ea04e769f98785346ac3e7f8e23)
-- [【安全热点】英国政府发布《零信任部署基本原则》草案](https://sec.thief.one/article_content?a_id=e52cac8dfe9ae0859cb27e3c811bd7ad)
-- [【安全热点】特朗普竞选网站遭加密货币骗子黑客攻击](https://sec.thief.one/article_content?a_id=0c17a2edfa50f8c2d3f676186d84e97f)
+- [【掘金前端】译|Web上的分享（Share）API](https://juejin.im/post/6891142327503749127)
+- [【掘金前端】在IIS中部署前后端应用，多么痛的领悟！](https://juejin.im/post/6891110084680613901)
+- [【开发者头条】阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6)
+- [【开发者头条】Kafka-浅谈：什么是-AR、OSR、ISR、HW-和-LEO-以及之间的关系](https://toutiao.io/k/wyi8d8m)
+- [【开发者头条】13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t)
+- [【开发者头条】编程体系结构：Spring.Mvc.Boot-框架](https://toutiao.io/k/pxayd4y)
+- [【开发者头条】Swift-编译慢？请看这里，全套开源](https://toutiao.io/k/ihas21f)
+- [【开发者头条】.Net/.Net-Core-的界面框架-NanUI-发布新版本啦](https://toutiao.io/k/waofqq3)
+- [【开发者头条】Minikube-入门介绍](https://toutiao.io/k/q1fpas9)
+- [【开发者头条】设计模式大冒险第二关：装饰者模式，煎饼果子的主场](https://toutiao.io/k/8k39ggb)
+- [【开发者头条】悉数-Python-函数传参的语法糖](https://toutiao.io/k/4jf5sw7)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

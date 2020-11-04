@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-04 12:47:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-04 13:04:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -9,6 +9,9 @@
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-04-SecWiki安全招聘第40期](https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75) 
+- [2020-11-04-快来打卡小米AIoT安全峰会!](https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3) 
+- [2020-11-04-奇安信亮相2020年工业互联网安全成果展-内生安全框架助力实现可防...](https://sec.thief.one/article_content?a_id=ccdc06c7ab09167c16a639837279430d) 
 - [2020-11-04-案例|聚焦医疗电子票据改革,护航医疗行业票据业务安全](https://sec.thief.one/article_content?a_id=9fdd2e692f08c48fe8b748190092a848) 
 - [2020-11-04-HTTP/2-H2C-请求走私分析](https://sec.thief.one/article_content?a_id=2ab85294e6316283ec88e65a943fe43e) 
 - [2020-11-04-安全通告|SaltStack多个高危漏洞风险通告CVE-2020-16846/CVE-...](https://sec.thief.one/article_content?a_id=ded5fdc590844325c46bf2802fdccdf7) 
@@ -34,6 +37,3 @@
 - [2020-11-02-首届中国I2S峰会暨工业互联网安全大赛-在南通成功召开](https://sec.thief.one/article_content?a_id=64dc487d9162e1fed08d9e22a147496b) 
 - [2020-11-02-【安全风险通告】WebLogic高危漏洞又被绕过,Oracle-WebLogic-...](https://sec.thief.one/article_content?a_id=e8416cc8253484bcc9a6c629305fdb97) 
 - [2020-11-02-招聘-|-腾讯安全专家咨询中心人才招募令](https://sec.thief.one/article_content?a_id=412eba2d561b19cab9e9387c907dc2b4) 
-- [2020-11-02-工业互联网安全产业I²S联盟成立,南通网络安全发展政策优惠](https://sec.thief.one/article_content?a_id=fd3872b9955f6443dc64145db21b35d9) 
-- [2020-11-02-Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=526e2d2e8d437e660721c094fb154e09) 
-- [2020-11-02-安全工具开源-=-给网络犯罪送武器?](https://sec.thief.one/article_content?a_id=ef1a930c4644f1a16e9391b4a90f572c) 

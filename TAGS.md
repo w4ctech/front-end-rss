@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-04 12:47:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-04 13:04:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -142,6 +142,7 @@
 
 
 
+- [【技术头条】集成-Flutter-到现有项目，并实现使用单个-FlutterEngine-管理多个入口-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13862&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7SUWmY4xfHkyeckKITN1yA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -213,6 +214,8 @@
 - [【前端艺术家&&飞冰早报】b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882)
 - [【前端艺术家&&飞冰早报】Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202)
 - [【前端艺术家&&飞冰早报】动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a)
+- [【技术头条】Serverless-X-OpenKruise-部署效率优化之道-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13873&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777277%3Futm_content%3Dg_1000198216%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】Serverless-对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -288,6 +291,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【安全热点】SecWiki安全招聘第40期](https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75)
+- [【安全热点】快来打卡小米AIoT安全峰会!](https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3)
+- [【安全热点】奇安信亮相2020年工业互联网安全成果展-内生安全框架助力实现可防...](https://sec.thief.one/article_content?a_id=ccdc06c7ab09167c16a639837279430d)
 - [【安全热点】案例|聚焦医疗电子票据改革,护航医疗行业票据业务安全](https://sec.thief.one/article_content?a_id=9fdd2e692f08c48fe8b748190092a848)
 - [【安全热点】HTTP/2-H2C-请求走私分析](https://sec.thief.one/article_content?a_id=2ab85294e6316283ec88e65a943fe43e)
 - [【安全热点】安全通告|SaltStack多个高危漏洞风险通告CVE-2020-16846/CVE-...](https://sec.thief.one/article_content?a_id=ded5fdc590844325c46bf2802fdccdf7)
@@ -303,9 +309,6 @@
 - [【安全热点】​IOT安全之Android应用程序静态分析](https://sec.thief.one/article_content?a_id=020d8aa31370aaffa1fc164b92dd5192)
 - [【安全热点】安全牛《2020中国网络安全企业100强报告》发布](https://sec.thief.one/article_content?a_id=0218318b764e7925c8e0e868f9185585)
 - [【安全热点】Hi,美团SRC向你发来一封小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=01f7495b044d7ad5a72a72a897e8f6bc)
-- [【安全热点】读懂《网络安全审查办法》,绿盟科技帮你划重点](https://sec.thief.one/article_content?a_id=8a49936194aee1cd3f90fd7af929c9e2)
-- [【安全热点】Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=415c7cb46f5c86c9b334d2e6826995be)
-- [【安全热点】每日安全动态推送11-03](https://sec.thief.one/article_content?a_id=be3e83b78eb13d11ea2d9ba40114d8cf)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -322,6 +325,7 @@
 
 
 
+- [【技术头条】秒懂-Https-之如何在-Android-中使用自签名证书-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13863&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_g5Mmy0KmgCnpsQfw34-oQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -517,10 +517,111 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/blogread/newest",
+    "rss": "https://rss.itggg.cn/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": []
+    "items": [
+      {
+        "title": "阳振坤：OceanBase 数据库七亿 tpmC 的关键技术 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13878&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777436%3Futm_content%3Dg_1000199270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "关于卫星定位，你想知道的一切 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13877&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776821%3Futm_content%3Dg_1000199269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "端应用研发进入云原生时代 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13876&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776604%3Futm_content%3Dg_1000199268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "2020阿里云双11--0.73折起，爆款提前抢大促全攻略 (yuque.antfin-inc.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13875&url=https%3A%2F%2Fyuque.antfin-inc.com%2Fdocs%2Fshare%2F54142f85-d1dc-4ce7-bb67-74cced8a4077%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "用 Mars Remote API 轻松分布式执行 Python 函数 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13874&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776436%3Futm_content%3Dg_1000199267%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "Serverless X OpenKruise 部署效率优化之道 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13873&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777277%3Futm_content%3Dg_1000198216%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "Tair持久存储系列技术解读 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13872&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776609%3Futm_content%3Dg_1000198215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "模拟驾驶能力输出，赋能客户提升稳定性信心 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13871&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776602%3Futm_content%3Dg_1000198214%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "Fluid 0.3 新版本正式发布：实现云原生场景通用化数据加速 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13870&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775947%3Futm_content%3Dg_1000198213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "持续定义Saas模式云数据仓库+实时分析 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13869&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771366%3Futm_content%3Dg_1000198212%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "Serverless 对研发效能的变革和创新 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "云原生时代，应用架构将如何演进？ (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "阿里云数据湖解决方案全面满足数据需求，帮助企业释放数据价值 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13866&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772900%3Futm_content%3Dg_1000197928%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "AI和大数据下，前端技术将如何发展？ (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13865&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776699%3Futm_content%3Dg_1000197927%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "持续定义Saas模式云数据仓库+BI (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13864&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771483%3Futm_content%3Dg_1000197926%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "秒懂 Https 之如何在 Android 中使用自签名证书 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13863&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_g5Mmy0KmgCnpsQfw34-oQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "集成 Flutter 到现有项目，并实现使用单个 FlutterEngine 管理多个入口 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13862&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7SUWmY4xfHkyeckKITN1yA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "来大厂三个月的一点点小思考 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS0OI-0CY1qvEvbGw46W8bQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "美团面经分享！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13860&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCWKED32dv1dSwkocMatnMQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "一个人竟然撸了一个微博 App (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13859&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfaeImHs3Sjj_Tq3CZrSVmA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-04"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/toutiao/today",
@@ -533,6 +634,31 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "SecWiki安全招聘(第40期)",
+        "link": "https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "快来打卡小米AIoT安全峰会!",
+        "link": "https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "Linux内核eBPF权限提升漏洞通告(CVE-2020-27194)",
+        "link": "https://sec.thief.one/article_content?a_id=3b29e4cf061e52063aab8334b161498b",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "我输给了一个 25 岁的男人",
+        "link": "https://sec.thief.one/article_content?a_id=d71199b10743353b534ab99e777cf305",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "奇安信亮相2020年工业互联网安全成果展 内生安全框架助力实现可防...",
+        "link": "https://sec.thief.one/article_content?a_id=ccdc06c7ab09167c16a639837279430d",
+        "date": "2020-11-04"
+      },
       {
         "title": "挖洞经验 | 价值6k$的星巴克官网账户劫持漏洞",
         "link": "https://sec.thief.one/article_content?a_id=b28d67a804a8c7cb2096003ac813a4b4",
@@ -1006,31 +1132,6 @@
       {
         "title": "SecWiki周刊(第348期)",
         "link": "https://sec.thief.one/article_content?a_id=e709428ef1771ee73f8dea63407fdd27",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "工业互联网安全产业(I²S)联盟成立,南通网络安全发展政策优惠",
-        "link": "https://sec.thief.one/article_content?a_id=fd3872b9955f6443dc64145db21b35d9",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "德国央行正在开发一个区块链项目,但并非CBDC",
-        "link": "https://sec.thief.one/article_content?a_id=9ab23e72c8075632f4137de8f6bad366",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "Hi,你有一封第四届小米AIoT安全峰会邀请函",
-        "link": "https://sec.thief.one/article_content?a_id=526e2d2e8d437e660721c094fb154e09",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "安全工具开源 = 给网络犯罪送武器?",
-        "link": "https://sec.thief.one/article_content?a_id=ef1a930c4644f1a16e9391b4a90f572c",
-        "date": "2020-11-02"
-      },
-      {
-        "title": "《生物识别隐私保护研究报告(2020年)》全文",
-        "link": "https://sec.thief.one/article_content?a_id=3bdc86e3c8c281973f686f066dcaf1b0",
         "date": "2020-11-02"
       }
     ]

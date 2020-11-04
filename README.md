@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-04 23:03:59，:rocket: 更新条数: +414， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-04 23:11:04，:rocket: 更新条数: +385， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -545,26 +545,6 @@
 </summary>
 
 
-- [2020-11-04-Embedding-技术在推荐系统中的应用](https://toutiao.io/k/1t846fk) ![](assets/new.png)  
-- [2020-11-04-物理内存充足，但是为什么用代码总申请不到内存呢？](https://toutiao.io/k/xy6v0or) ![](assets/new.png)  
-- [2020-11-04-Spring-Cloud-Alibaba-微服务实战（二十）-：集成-Feign-的降级熔断](https://toutiao.io/k/ig5lchd) ![](assets/new.png)  
-- [2020-11-04-天天说要做性能优化，到底在优化什么？](https://toutiao.io/k/9fxs5uq) ![](assets/new.png)  
-- [2020-11-04-Go-语言中的-gRPC-基础入门](https://toutiao.io/k/62tm9cb) ![](assets/new.png)  
-- [2020-11-04-JavaScript-各异步方式比较](https://toutiao.io/k/0rlpbvu) ![](assets/new.png)  
-- [2020-11-04-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/o15q5av) ![](assets/new.png)  
-- [2020-11-04-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-04-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-04-漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j) ![](assets/new.png)  
-- [2020-11-04-Geohash：「附近的人」背后的秘密](https://toutiao.io/k/fb4sqr0) ![](assets/new.png)  
-- [2020-11-04-清理镜像库空间的一个思路](https://toutiao.io/k/91ajl45) ![](assets/new.png)  
-- [2020-11-04-解读云原生基础设施](https://toutiao.io/k/d33fq3m) ![](assets/new.png)  
-- [2020-11-04-为什么我建议你去写博客？](https://toutiao.io/k/hjxcswv) ![](assets/new.png)  
-- [2020-11-04-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-04-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-04-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-11-04-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-11-04-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-04-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

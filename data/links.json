@@ -346,10 +346,186 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/toutiao/today",
+    "rss": "https://rss.itggg.cn/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "我不能没有的 5 个 Vue.js 库",
+        "link": "https://toutiao.io/k/l04ibvu",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "Kafka 浅谈：什么是 AR、OSR、ISR、HW 和 LEO 以及之间的关系",
+        "link": "https://toutiao.io/k/wyi8d8m",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "编程体系结构：Spring.Mvc.Boot 框架",
+        "link": "https://toutiao.io/k/pxayd4y",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "用 LeetCode 官方推荐的动画解《买卖股票的最佳时机》",
+        "link": "https://toutiao.io/k/el051zc",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "Swift 编译慢？请看这里，全套开源",
+        "link": "https://toutiao.io/k/ihas21f",
+        "date": "2020-11-04"
+      },
+      {
+        "title": ".Net/.Net Core 的界面框架 NanUI 发布新版本啦",
+        "link": "https://toutiao.io/k/waofqq3",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "Minikube 入门介绍",
+        "link": "https://toutiao.io/k/q1fpas9",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "设计模式大冒险第二关：装饰者模式，煎饼果子的主场",
+        "link": "https://toutiao.io/k/8k39ggb",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "悉数 Python 函数传参的语法糖",
+        "link": "https://toutiao.io/k/4jf5sw7",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "深入详解 Jetpack Compose  实现原理",
+        "link": "https://toutiao.io/k/t26d31a",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "Flink 中如何解析与传递参数",
+        "link": "https://toutiao.io/k/z06i16q",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "machinery 入门看这一篇（异步任务队列）",
+        "link": "https://toutiao.io/k/ojj805i",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "常见登录鉴权方案",
+        "link": "https://toutiao.io/k/yod3gck",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "分布式 WAF 落地全程实录",
+        "link": "https://toutiao.io/k/qc5d7o8",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "从勾股定理到余弦相似度：程序员的数学基础",
+        "link": "https://toutiao.io/k/o2fu1nx",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "Stateful Serverless 背后的 Flink StateFun 内部机制实现",
+        "link": "https://toutiao.io/k/6js1cu7",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "58 金融前端脚手架的设计与实现",
+        "link": "https://toutiao.io/k/zf6opy3",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
+        "link": "https://toutiao.io/k/9j801i6",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
+        "link": "https://toutiao.io/k/k7nf2vd",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-04"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

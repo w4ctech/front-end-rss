@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-04 23:11:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-04 23:20:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-04-香港新增3例新冠肺炎确诊病例-累计确诊5348例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNwcBLI019xqdsw2nei4Z201104&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-04-美专家：美国新冠肺炎疫情进入“最致命阶段”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJ468zDZPnw7IYfDuGrd201104&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-04-意大利再度提升防控-疫情高风险地区限制人员出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibGIuwH4YZ5GrH88almP7201104&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-03-阿尔及利亚总统府确认阿总统特本感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4gu8NaPicg430rYtq6k3201104&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-03-匈牙利再次进入紧急状态-午夜至凌晨5点实施宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiViht3Z1C3xxIVeCXaNed201104&isfromapp=1) 
 - [【阮一峰的网络日志】2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
 - [【安全热点】2020-11-04-SecWiki安全招聘第40期](https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75) 
 - [【安全热点】2020-11-04-快来打卡小米AIoT安全峰会!](https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3) 

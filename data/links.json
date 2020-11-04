@@ -233,7 +233,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -468,7 +519,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/docschina/jsweekly",
+    "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
     "items": []
@@ -684,13 +735,13 @@
         "date": "2020-11-04"
       },
       {
-        "title": "分布式 WAF 落地全程实录",
-        "link": "https://toutiao.io/k/qc5d7o8",
+        "title": "从勾股定理到余弦相似度：程序员的数学基础",
+        "link": "https://toutiao.io/k/o2fu1nx",
         "date": "2020-11-04"
       },
       {
-        "title": "从勾股定理到余弦相似度：程序员的数学基础",
-        "link": "https://toutiao.io/k/o2fu1nx",
+        "title": "分布式 WAF 落地全程实录",
+        "link": "https://toutiao.io/k/qc5d7o8",
         "date": "2020-11-04"
       },
       {
@@ -704,18 +755,8 @@
         "date": "2020-11-04"
       },
       {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
-        "date": "2020-11-04"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-04"
-      },
-      {
-        "title": "[推荐] Redis 集群搭建采坑总结",
-        "link": "https://toutiao.io/k/b60qswo",
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
         "date": "2020-11-04"
       },
       {
@@ -724,18 +765,8 @@
         "date": "2020-11-04"
       },
       {
-        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
-        "link": "https://toutiao.io/k/kqvczix",
-        "date": "2020-11-04"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-04"
-      },
-      {
-        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
-        "link": "https://toutiao.io/k/z6p6anw",
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
         "date": "2020-11-04"
       },
       {
@@ -749,13 +780,28 @@
         "date": "2020-11-04"
       },
       {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-04"
+      },
+      {
         "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
         "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-04"
       },
       {
-        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
-        "link": "https://toutiao.io/k/9j801i6",
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-04"
       },
       {
@@ -764,18 +810,23 @@
         "date": "2020-11-04"
       },
       {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
         "date": "2020-11-04"
       },
       {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
+        "title": "[推荐] Redis 集群搭建采坑总结",
+        "link": "https://toutiao.io/k/b60qswo",
         "date": "2020-11-04"
       },
       {
         "title": "[推荐] 万亿级数据应该怎么迁移？",
         "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
         "date": "2020-11-04"
       }
     ]

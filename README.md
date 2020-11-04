@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-04 14:47:47，:rocket: 更新条数: +208， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-04 15:04:24，:rocket: 更新条数: +218， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -335,6 +335,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +571,8 @@
 - [2020-11-04-Flink-中如何解析与传递参数](https://toutiao.io/k/z06i16q) ![](assets/new.png)  
 - [2020-11-04-深入详解-Jetpack-Compose-实现原理](https://toutiao.io/k/t26d31a) ![](assets/new.png)  
 - [2020-11-04-常见登录鉴权方案](https://toutiao.io/k/yod3gck) ![](assets/new.png)  
-- [2020-11-04-分布式-WAF-落地全程实录](https://toutiao.io/k/qc5d7o8) ![](assets/new.png)  
 - [2020-11-04-从勾股定理到余弦相似度：程序员的数学基础](https://toutiao.io/k/o2fu1nx) ![](assets/new.png)  
+- [2020-11-04-分布式-WAF-落地全程实录](https://toutiao.io/k/qc5d7o8) ![](assets/new.png)  
 - [2020-11-04-58-金融前端脚手架的设计与实现](https://toutiao.io/k/zf6opy3) ![](assets/new.png)  
 - [2020-11-04-Stateful-Serverless-背后的-Flink-StateFun-内部机制实现](https://toutiao.io/k/6js1cu7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

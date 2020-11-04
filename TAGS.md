@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-04 22:47:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-04 23:03:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -73,6 +73,7 @@
 - [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
+- [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -89,6 +90,7 @@
 
 
 
+- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -110,6 +112,7 @@
 - [【凹凸实验室】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
+- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -376,6 +379,9 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
+- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【开发者头条】天天说要做性能优化，到底在优化什么？](https://toutiao.io/k/9fxs5uq)
+- [【开发者头条】漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j)
 - [【安全热点】MySQL-大表优化方案](https://sec.thief.one/article_content?a_id=d6f0c773b3654e359121cd5f81db3dc7)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -402,6 +408,7 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【安全热点】SecWiki安全招聘第40期](https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75)
 - [【安全热点】快来打卡小米AIoT安全峰会!](https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3)
 - [【安全热点】奇安信亮相2020年工业互联网安全成果展-内生安全框架助力实现可防...](https://sec.thief.one/article_content?a_id=ccdc06c7ab09167c16a639837279430d)
@@ -412,7 +419,6 @@
 - [【安全热点】Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=142cf1298ca7712a8826b3c6db3c381b)
 - [【安全热点】第二届百度大学生网络安全技能大赛火热报名中!](https://sec.thief.one/article_content?a_id=86462cbd79c661ebafca8356aca105d1)
 - [【安全热点】出招反诈、护航安全:国舜专业安全力量赋能治理跨境赌博](https://sec.thief.one/article_content?a_id=14c787121dfad97d29af1170ee17fa52)
-- [【安全热点】一次验证码安全测试](https://sec.thief.one/article_content?a_id=f50be934f43b2a3170ea700fbdec84b5)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -454,6 +460,7 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【开发者头条】Go-语言中的-gRPC-基础入门](https://toutiao.io/k/62tm9cb)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -473,6 +480,7 @@
 - [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -489,6 +497,9 @@
 
 
 
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
+- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -521,9 +532,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】香港新增3例新冠肺炎确诊病例-累计确诊5348例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNwcBLI019xqdsw2nei4Z201104&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美专家：美国新冠肺炎疫情进入“最致命阶段”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJ468zDZPnw7IYfDuGrd201104&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】阿尔及利亚总统府确认阿总统特本感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4gu8NaPicg430rYtq6k3201104&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -538,8 +546,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】意大利再度提升防控-疫情高风险地区限制人员出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibGIuwH4YZ5GrH88almP7201104&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】匈牙利再次进入紧急状态-午夜至凌晨5点实施宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiViht3Z1C3xxIVeCXaNed201104&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -558,6 +564,8 @@
 - [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
 - [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
 - [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
+- [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
+- [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

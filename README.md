@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-04 16:44:39，:rocket: 更新条数: +188， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-04 16:49:18，:rocket: 更新条数: +3030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -47,11 +47,11 @@
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)![](assets/dot.png)   
-- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
+- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-11-03-最新疫情：全国新冠累计确诊86087例-新疆本土新增2例](http://m.china.caixin.com/m/2020-11-04/101623050.html) ![](assets/new.png)  
+- [2020-11-03-最新海外疫情：新冠感染超4735万-累计死亡近121万](https://m.caixin.com/m/2020-11-04/101623043.html) ![](assets/new.png)  
+- [2020-11-03-【境内疫情观察】新疆新增116例无症状感染者（11月3日）](http://m.database.caixin.com/m/2020-11-04/101622904.html) ![](assets/new.png)  
+- [2020-11-03-大流行手记|11月3日：WHO提示孕妇幼儿流感风险-美确诊选民可现场投票](https://m.caixin.com/m/2020-11-04/101622791.html) ![](assets/new.png)  
+- [2020-11-02-香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html) ![](assets/new.png)  
+- [2020-11-02-新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html) ![](assets/new.png)  
+- [2020-11-02-【境内疫情观察】全国新增44例境外输入病例（11月2日）](http://m.database.caixin.com/m/2020-11-03/101622339.html) ![](assets/new.png)  
+- [2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) ![](assets/new.png)  
+- [2020-11-01-【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html) ![](assets/new.png)  
+- [2020-11-01-大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html) ![](assets/new.png)  
+- [2020-10-31-【境内疫情观察】新疆新增61例无症状感染者（10月31日）](http://m.database.caixin.com/m/2020-11-01/101621241.html) ![](assets/new.png)  
+- [2020-10-31-大流行手记|10月31日：英国多地调高警戒级别-德国医疗资源吃紧](https://m.caixin.com/m/2020-11-01/101621213.html) ![](assets/new.png)  
+- [2020-10-30-新疆新增无症状感染者61例](https://m.caixin.com/m/2020-10-31/101621169.html) ![](assets/new.png)  
+- [2020-10-30-最新封面报道之二|新冠疫苗紧急使用扩面](http://m.weekly.caixin.com/m/2020-10-31/101620912.html) ![](assets/new.png)  
+- [2020-10-30-【境内疫情观察】新疆新增6例本土确诊病例（10月30日）](http://m.database.caixin.com/m/2020-10-31/101621097.html) ![](assets/new.png)  
+- [2020-10-30-大流行手记|10月30日：应战第二波疫情-欧盟拨2.2亿助患者跨国治疗](https://m.caixin.com/m/2020-10-31/101620986.html) ![](assets/new.png)  
+- [2020-10-30-轻症新冠也会出现长期症状-报告指诊断标准不明影响治疗](https://m.caixin.com/m/2020-10-31/101621117.html) ![](assets/new.png)  
+- [2020-10-30-诺奖得主文卡：新冠疫苗和药物的研发应该并重](https://m.caixin.com/m/2020-10-31/101621180.html) ![](assets/new.png)  
+- [2020-10-29-欧美回国航班新增血清抗体检测-中转回国需二次检测](http://m.companies.caixin.com/m/2020-10-30/101620858.html) ![](assets/new.png)  
+- [2020-10-29-青岛市第三人民医院隔离封闭病区护士确诊新冠-密接71人](http://m.china.caixin.com/m/2020-10-30/101620384.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -449,6 +469,26 @@
 </summary>
 
 
+- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) ![](assets/new.png)  
+- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) ![](assets/new.png)  
+- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) ![](assets/new.png)  
+- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
+- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) ![](assets/new.png)  
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) ![](assets/new.png)  
+- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) ![](assets/new.png)  
+- [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) ![](assets/new.png)  
+- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) ![](assets/new.png)  
+- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) ![](assets/new.png)  
+- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) ![](assets/new.png)  
+- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) ![](assets/new.png)  
+- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) ![](assets/new.png)  
+- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) ![](assets/new.png)  
+- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) ![](assets/new.png)  
+- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) ![](assets/new.png)  
+- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) ![](assets/new.png)  
+- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) ![](assets/new.png)  
+- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) ![](assets/new.png)  
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端艺术家&&飞冰早报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -493,6 +533,26 @@
 </summary>
 
 
+- [2020-11-04-请教一个-Java-多线程嵌套使用的问题](https://www.v2ex.com/t/721868) ![](assets/new.png)  
+- [2020-11-04-kali-下-apt-upgrade-升级报错](https://www.v2ex.com/t/721867) ![](assets/new.png)  
+- [2020-11-04-又来抱怨机械革命-S2-Air-了，使用-Etcher-时蓝屏](https://www.v2ex.com/t/721866) ![](assets/new.png)  
+- [2020-11-04-有那些短小精悍的三防手机推荐？](https://www.v2ex.com/t/721864) ![](assets/new.png)  
+- [2020-11-04-目前使用-NeoVim+ccls，请问有没有插件可以类似-IDE-一样集中显示报错或者警告提示？](https://www.v2ex.com/t/721863) ![](assets/new.png)  
+- [2020-11-04-大家搭博客都选哪个服务器运营商呢？良心云还是套路云？](https://www.v2ex.com/t/721862) ![](assets/new.png)  
+- [2020-11-04-网易-popo-社招内推](https://www.v2ex.com/t/721861) ![](assets/new.png)  
+- [2020-11-04-请问一下各位，有能支持-webdav-的-cdn-吗？](https://www.v2ex.com/t/721858) ![](assets/new.png)  
+- [2020-11-04-独立购物网站-Independent-shopping-website](https://www.v2ex.com/t/721857) ![](assets/new.png)  
+- [2020-11-04-网易游戏战趣工作室-社招内推，-base-深圳](https://www.v2ex.com/t/721856) ![](assets/new.png)  
+- [2020-11-04-MariaDB-数据库事务提交后，发现好多数据不见了](https://www.v2ex.com/t/721853) ![](assets/new.png)  
+- [2020-11-04-rust-for-loop](https://www.v2ex.com/t/721851) ![](assets/new.png)  
+- [2020-11-04-不懂就问，如何保护-assets-内的文件安全？](https://www.v2ex.com/t/721850) ![](assets/new.png)  
+- [2020-11-04-BlueStacks-如何安装-Google-AR（ARcore）？](https://www.v2ex.com/t/721848) ![](assets/new.png)  
+- [2020-11-04-现在个人独立生活博客都已经是情怀了吗？](https://www.v2ex.com/t/721847) ![](assets/new.png)  
+- [2020-11-04-安定的双十一了该求教黑苹果-itx-方案了](https://www.v2ex.com/t/721846) ![](assets/new.png)  
+- [2020-11-04-史上最最最高仿-V2EX-论坛源码—React-+-Golang-开源库，求高手拍砖提建议~](https://www.v2ex.com/t/721844) ![](assets/new.png)  
+- [2020-11-04-上海-K11-最美下午茶派对](https://www.v2ex.com/t/721843) ![](assets/new.png)  
+- [2020-11-04-你们的-bitwarden-有这种问题吗？](https://www.v2ex.com/t/721842) ![](assets/new.png)  
+- [2020-11-04-京东自营-Brateck-升降桌/升降支架-推荐-4-人下单即可免单](https://www.v2ex.com/t/721841) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-04 22:23:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-04 22:32:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -385,6 +385,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】香港新增3例新冠肺炎确诊病例-累计确诊5348例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNwcBLI019xqdsw2nei4Z201104&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美专家：美国新冠肺炎疫情进入“最致命阶段”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJ468zDZPnw7IYfDuGrd201104&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】阿尔及利亚总统府确认阿总统特本感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4gu8NaPicg430rYtq6k3201104&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -399,6 +402,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】意大利再度提升防控-疫情高风险地区限制人员出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibGIuwH4YZ5GrH88almP7201104&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】匈牙利再次进入紧急状态-午夜至凌晨5点实施宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiViht3Z1C3xxIVeCXaNed201104&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -417,8 +422,6 @@
 - [【安全热点】PWN从入门到放弃三:来实际操作吧!](https://sec.thief.one/article_content?a_id=d0f095aa943e3956083469660950a089)
 - [【安全热点】大家好,我是Tony,始于颜值,终于才华,永葆赤子之心!](https://sec.thief.one/article_content?a_id=1d4c978958a2282a22816c3051a1931e)
 - [【安全热点】如何成为一名优秀的网络工程师?](https://sec.thief.one/article_content?a_id=bf9d3949efeb5a4a89053b8c1ed7f14f)
-- [【安全热点】美国大选下的APT攻击:Kimsuky以选举结果预测为诱饵的攻击活动分析](https://sec.thief.one/article_content?a_id=eb0ed357571fbdbc0e275eddee19f48d)
-- [【安全热点】Coinbase以及Gemini等交易所联合打击贩卖人口](https://sec.thief.one/article_content?a_id=45abacb97fc562020e1730ee24966c26)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

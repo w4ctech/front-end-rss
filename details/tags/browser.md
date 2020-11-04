@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-04 11:19:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-04 11:32:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,8 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2020-11-04-别人收到秋天奶茶,-我收到了安全工单---CSRF](https://juejin.im/post/6891224747737579534) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-04-案例|聚焦医疗电子票据改革,护航医疗行业票据业务安全](https://sec.thief.one/article_content?a_id=9fdd2e692f08c48fe8b748190092a848) 
 - [2020-11-04-HTTP/2-H2C-请求走私分析](https://sec.thief.one/article_content?a_id=2ab85294e6316283ec88e65a943fe43e) 
 - [2020-11-04-安全通告|SaltStack多个高危漏洞风险通告CVE-2020-16846/CVE-...](https://sec.thief.one/article_content?a_id=ded5fdc590844325c46bf2802fdccdf7) 

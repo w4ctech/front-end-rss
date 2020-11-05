@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-05 10:04:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 10:14:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -250,6 +250,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】大连海关：优化空港通关流程-严防境外疫情输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSQbkrHA1W0DfnamnvJFW201105&isfromapp=1)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【安全热点】MySQL-大表优化方案](https://sec.thief.one/article_content?a_id=d6f0c773b3654e359121cd5f81db3dc7)
@@ -385,6 +386,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】自治区新冠肺炎疫情联防联控应急演练在拉萨举办](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】全球抗疫24小时丨全球新冠肺炎确诊病例超过4736万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQcK0c4fiO0YE8VXRjh84201105&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -399,6 +402,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】​中国驻塞内加尔使馆再次提醒在塞中国公民：非必要，不旅行！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTk7ZgrwMSLsFocYXgoMQ201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​意大利伦巴第等4个大区被划入疫情高风险区-管控措施6日起实施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUUFU1qPTDDtX6eR6kKnK201105&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -417,8 +422,6 @@
 - [【安全热点】PWN从入门到放弃三:来实际操作吧!](https://sec.thief.one/article_content?a_id=d0f095aa943e3956083469660950a089)
 - [【安全热点】大家好,我是Tony,始于颜值,终于才华,永葆赤子之心!](https://sec.thief.one/article_content?a_id=1d4c978958a2282a22816c3051a1931e)
 - [【安全热点】如何成为一名优秀的网络工程师?](https://sec.thief.one/article_content?a_id=bf9d3949efeb5a4a89053b8c1ed7f14f)
-- [【安全热点】美国大选下的APT攻击:Kimsuky以选举结果预测为诱饵的攻击活动分析](https://sec.thief.one/article_content?a_id=eb0ed357571fbdbc0e275eddee19f48d)
-- [【安全热点】Coinbase以及Gemini等交易所联合打击贩卖人口](https://sec.thief.one/article_content?a_id=45abacb97fc562020e1730ee24966c26)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

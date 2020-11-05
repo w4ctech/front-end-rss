@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-05 10:04:44，:rocket: 更新条数: +123， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-05 10:14:16，:rocket: 更新条数: +128， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-11-05-自治区新冠肺炎疫情联防联控应急演练在拉萨举办](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html) ![](assets/new.png)  
+- [2020-11-05-大连海关：优化空港通关流程-严防境外疫情输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSQbkrHA1W0DfnamnvJFW201105&isfromapp=1) ![](assets/new.png)  
+- [2020-11-04-全球抗疫24小时丨全球新冠肺炎确诊病例超过4736万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQcK0c4fiO0YE8VXRjh84201105&isfromapp=1) ![](assets/new.png)  
+- [2020-11-04-​中国驻塞内加尔使馆再次提醒在塞中国公民：非必要，不旅行！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTk7ZgrwMSLsFocYXgoMQ201105&isfromapp=1) ![](assets/new.png)  
+- [2020-11-04-​意大利伦巴第等4个大区被划入疫情高风险区-管控措施6日起实施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUUFU1qPTDDtX6eR6kKnK201105&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

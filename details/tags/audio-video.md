@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-05 07:12:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 07:22:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-11-05-手上有几卷-miniDV-磁带,当时拍摄用的设备已经损坏,采用什么方式提取视频合适一点?](https://www.v2ex.com/t/722026) 
 - [2020-11-04-【视频】|-Python:作业题](https://sec.thief.one/article_content?a_id=87c6e42bfbd099080e09b5f67abd7267) 
 - [2020-11-04-舆论信息操控:特朗普竞选团队持续推送拜登虚假视频](https://sec.thief.one/article_content?a_id=89d87126744d400e11be9403ab73a15d) 
 - [2020-11-03-【视频】|-反奸防谍,较量无声](https://sec.thief.one/article_content?a_id=897714a147ec05d82eb92060c4470f70) 

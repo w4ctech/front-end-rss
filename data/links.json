@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "阿联酋新增1289例新冠肺炎确诊病例 累计确诊138599例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8HMVL9MdoUDSUurNcVyC201105&isfromapp=1",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "香港新增7例新冠肺炎确诊病例 累计确诊5355例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjQYq7YLz2loi8GGwfq8201105&isfromapp=1",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "​德国新冠肺炎确诊病例新增19990例 累计确诊597583例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisjr2idIfy5eKmGwIZpgj201105&isfromapp=1",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "意大利罗马市长拉吉感染新冠病毒",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8sUfFZWexEzi8nupUnDk201105&isfromapp=1",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "自治区新冠肺炎疫情联防联控应急演练在拉萨举办",
+        "link": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html",
+        "date": "2020-11-05"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -304,193 +330,16 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/frontend",
-    "items": [
-      {
-        "title": "V8中JavaScript的内存管理与垃圾回收",
-        "link": "https://juejin.im/post/6891614154134667272",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "我现在写jquery，你们会不会打我？？",
-        "link": "https://juejin.im/post/6891600576790937607",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "从零手写简易Vue3（一）—— crateApp() & mount()",
-        "link": "https://juejin.im/post/6891589578008821767",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "JS系列之 闭包",
-        "link": "https://juejin.im/post/6891556562716852237",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "async 函数中使用 await VS return VS return await 的异同",
-        "link": "https://juejin.im/post/6891547378231279623",
-        "date": "2020-11-05"
-      }
-    ]
+    "link": "https://juejin.im/welcome/frontend",
+    "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/jskou/0",
+    "rss": "https://rss.shab.fun/jskou/0",
     "title": "前端艺术家&&飞冰早报",
     "link": "http://fe.jskou.com/",
-    "items": [
-      {
-        "title": "【canvas】动画原理の万有引力定律",
-        "link": "https://juejin.im/post/5e213c83f265da3e006b3fc0",
-        "date": "2020-01-18"
-      },
-      {
-        "title": "JavaScript️可视化：事件循环",
-        "link": "https://juejin.im/post/5e218b8af265da3e121824eb",
-        "date": "2020-01-18"
-      },
-      {
-        "title": "JavaScript的强语言之路—另类的JSON序列化与反序列化",
-        "link": "https://juejin.im/post/5e1f23d76fb9a02fec664828",
-        "date": "2020-01-18"
-      },
-      {
-        "title": "自动化部署的一小步，前端搬砖的一大步",
-        "link": "https://juejin.im/post/5e206168f265da3e2b2d7560",
-        "date": "2020-01-18"
-      },
-      {
-        "title": "让App热更多个RN项目的解决方案",
-        "link": "https://juejin.im/post/5df6ecec51882512533a876b",
-        "date": "2019-12-18"
-      },
-      {
-        "title": "Vue Testing Crash Course",
-        "link": "https://dev.to/blacksonic/vue-testing-crash-course-59kl",
-        "date": "2019-12-18"
-      },
-      {
-        "title": "淘宝技术架构演进",
-        "link": "https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ",
-        "date": "2019-12-16"
-      },
-      {
-        "title": "Webpack打包改造--插入自定义内容",
-        "link": "https://juejin.im/post/5df4a220f265da33de3a74b0",
-        "date": "2019-12-16"
-      },
-      {
-        "title": "b站全灰，但我一下把它弄回来了——css 滤镜",
-        "link": "https://juejin.im/post/5df3a049f265da33f8652882",
-        "date": "2019-12-16"
-      },
-      {
-        "title": "以中国传统的孔子和老子的思想来分析忍者代码",
-        "link": "https://juejin.im/post/5df06050e51d4557f26e52e3",
-        "date": "2019-12-16"
-      },
-      {
-        "title": "「从模板消息改版订阅消息」小程序推送",
-        "link": "https://juejin.im/post/5df03c3551882512243f9292",
-        "date": "2019-12-12"
-      },
-      {
-        "title": "Flexbox：使用 Auto Margin 对齐",
-        "link": "https://juejin.im/post/5dedb2fd6fb9a016323d7202",
-        "date": "2019-12-12"
-      },
-      {
-        "title": "9102 年，蚂蚁金服前端是怎么写图表的?",
-        "link": "https://zhuanlan.zhihu.com/p/93963320",
-        "date": "2019-12-09"
-      },
-      {
-        "title": "图表制作可以很简单 - 图表魔方 ChartCube",
-        "link": "https://zhuanlan.zhihu.com/p/94269648",
-        "date": "2019-12-09"
-      },
-      {
-        "title": "微前端的核心价值",
-        "link": "https://zhuanlan.zhihu.com/p/95085796",
-        "date": "2019-12-06"
-      },
-      {
-        "title": "解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）",
-        "link": "https://juejin.im/post/5de6474bf265da33af512598",
-        "date": "2019-12-06"
-      },
-      {
-        "title": "你可能不知道的 JavaScript 代码 Chrome 调试方法",
-        "link": "https://zh.javascript.info/debugging-chrome",
-        "date": "2019-12-06"
-      },
-      {
-        "title": "crypto 前后端加解密简单了解",
-        "link": "https://juejin.im/post/5de70298f265da33b12e8221",
-        "date": "2019-12-05"
-      },
-      {
-        "title": "How to choose a JavaScript code editor",
-        "link": "https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/",
-        "date": "2019-12-05"
-      },
-      {
-        "title": "京喜首页（微信购物入口）跨端开发与优化实践",
-        "link": "https://juejin.im/post/5de66e916fb9a015fd699b46",
-        "date": "2019-12-05"
-      },
-      {
-        "title": "Node.js项目TypeScript改造指南",
-        "link": "https://juejin.im/post/5de4867f51882573135415dd",
-        "date": "2019-12-04"
-      },
-      {
-        "title": "EHTML: HTML Framework that allows you write no JavaScript code at all.",
-        "link": "https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173",
-        "date": "2019-12-04"
-      },
-      {
-        "title": "一起console.log()引发的血案",
-        "link": "https://juejin.im/post/5de3ed6e6fb9a0717f5af175",
-        "date": "2019-12-03"
-      },
-      {
-        "title": "从3 个方面增加代码可读性和可维护性",
-        "link": "https://juejin.im/post/5de3b7c4e51d45777714f34f",
-        "date": "2019-12-03"
-      },
-      {
-        "title": "api请求时长与请求数据类型的设计",
-        "link": "https://juejin.im/post/5de28460e51d4532f87096e2",
-        "date": "2019-12-02"
-      },
-      {
-        "title": "（译）JavaScript的工作原理：事件循环和异步编程的兴起 + 5 种 async/await 更好的编码方式",
-        "link": "https://juejin.im/post/5ddf3dce6fb9a071a254721b",
-        "date": "2019-12-02"
-      },
-      {
-        "title": "JavaScript 是怎么工作的：内存管理及怎么处理四种常见的内存泄露",
-        "link": "https://juejin.im/post/5de08bd26fb9a071bb7cab56",
-        "date": "2019-12-02"
-      },
-      {
-        "title": "没有用过这些插件，别说你在用vscode",
-        "link": "https://juejin.im/post/5dc97976e51d45066f3a7b6b",
-        "date": "2019-11-13"
-      },
-      {
-        "title": "云凤蝶可视化搭建的推导与实现",
-        "link": "https://zhuanlan.zhihu.com/p/90746742",
-        "date": "2019-11-13"
-      },
-      {
-        "title": "动画：面试官问我如何在 1 亿数据中快速查找某一整数？",
-        "link": "https://juejin.im/post/5dc786026fb9a04a7847f56a",
-        "date": "2019-11-13"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/docschina/jsweekly",
@@ -523,186 +372,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/toutiao/today",
+    "rss": "https://rss.shab.fun/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": [
-      {
-        "title": "一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "物理内存充足，但是为什么用代码总申请不到内存呢？",
-        "link": "https://toutiao.io/k/xy6v0or",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "Embedding 技术在推荐系统中的应用",
-        "link": "https://toutiao.io/k/1t846fk",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "Spring Cloud Alibaba 微服务实战（二十） ：集成 Feign 的降级熔断",
-        "link": "https://toutiao.io/k/ig5lchd",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "JavaScript 各异步方式比较",
-        "link": "https://toutiao.io/k/0rlpbvu",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "实战篇：一个核心系统 3 万多行代码的重构之旅",
-        "link": "https://toutiao.io/k/o15q5av",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "为什么我建议你去写博客？",
-        "link": "https://toutiao.io/k/hjxcswv",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "天天说要做性能优化，到底在优化什么？",
-        "link": "https://toutiao.io/k/9fxs5uq",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "解读云原生基础设施",
-        "link": "https://toutiao.io/k/d33fq3m",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "Go 语言中的 gRPC 基础入门",
-        "link": "https://toutiao.io/k/62tm9cb",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "Geohash：「附近的人」背后的秘密",
-        "link": "https://toutiao.io/k/fb4sqr0",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "漫谈分布式系统（二十二）：自适应的优化",
-        "link": "https://toutiao.io/k/8me5e0j",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "清理镜像库空间的一个思路",
-        "link": "https://toutiao.io/k/91ajl45",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "再读《重构》",
-        "link": "https://toutiao.io/k/fput2x1",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "Python + Appium 自动化操作微信入门看这一篇就够了",
-        "link": "https://toutiao.io/k/plb7dqo",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "200 行代码实现基于 paxos 的 kv 存储",
-        "link": "https://toutiao.io/k/yzcp70y",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "业务层，到底需不需要服务化？",
-        "link": "https://toutiao.io/k/7t53npo",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "JMM Java 内存模型",
-        "link": "https://toutiao.io/k/2x8mrj7",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[译] KDE 中的资源管理",
-        "link": "https://toutiao.io/k/re0uwiq",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
-        "link": "https://toutiao.io/k/9j801i6",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
-        "link": "https://toutiao.io/k/k7nf2vd",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
-        "link": "https://toutiao.io/k/kqvczix",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
-        "link": "https://toutiao.io/k/3jkd39p",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
-        "link": "https://toutiao.io/k/z6p6anw",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-05"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

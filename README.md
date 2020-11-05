@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-05 04:48:01，:rocket: 更新条数: +485， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-05 05:04:15，:rocket: 更新条数: +355， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
-- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
+- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)  
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -75,11 +75,6 @@
 </summary>
 
 
-- [2020-11-05-自治区新冠肺炎疫情联防联控应急演练在拉萨举办](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html) ![](assets/new.png)  
-- [2020-11-05-大连海关：优化空港通关流程-严防境外疫情输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSQbkrHA1W0DfnamnvJFW201105&isfromapp=1) ![](assets/new.png)  
-- [2020-11-04-全球抗疫24小时丨全球新冠肺炎确诊病例超过4736万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQcK0c4fiO0YE8VXRjh84201105&isfromapp=1) ![](assets/new.png)  
-- [2020-11-04-​中国驻塞内加尔使馆再次提醒在塞中国公民：非必要，不旅行！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTk7ZgrwMSLsFocYXgoMQ201105&isfromapp=1) ![](assets/new.png)  
-- [2020-11-04-​意大利伦巴第等4个大区被划入疫情高风险区-管控措施6日起实施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUUFU1qPTDDtX6eR6kKnK201105&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,11 +448,6 @@
 </summary>
 
 
-- [2020-11-04-Node.js系列一---JavaScript运行原理](https://juejin.im/post/6891471193568706573) ![](assets/new.png)  
-- [2020-11-04-JavaScript-语言精粹三（核心——函数）](https://juejin.im/post/6891452084936245261) ![](assets/new.png)  
-- [2020-11-04-Vue中$refs的探索](https://juejin.im/post/6891450354215583751) ![](assets/new.png)  
-- [2020-11-04-如何利用装饰器提升开发效率](https://juejin.im/post/6891445477770788872) ![](assets/new.png)  
-- [2020-11-04-核心概念-javaScript中的闭包（closure）](https://juejin.im/post/6891428422795395079) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -469,26 +459,6 @@
 </summary>
 
 
-- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) ![](assets/new.png)  
-- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) ![](assets/new.png)  
-- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) ![](assets/new.png)  
-- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
-- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) ![](assets/new.png)  
-- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) ![](assets/new.png)  
-- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) ![](assets/new.png)  
-- [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) ![](assets/new.png)  
-- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) ![](assets/new.png)  
-- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) ![](assets/new.png)  
-- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) ![](assets/new.png)  
-- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) ![](assets/new.png)  
-- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) ![](assets/new.png)  
-- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) ![](assets/new.png)  
-- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) ![](assets/new.png)  
-- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) ![](assets/new.png)  
-- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) ![](assets/new.png)  
-- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) ![](assets/new.png)  
-- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) ![](assets/new.png)  
-- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端艺术家&&飞冰早报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,26 +503,6 @@
 </summary>
 
 
-- [2020-11-05-用不同语言重写-web-应用，数据库如何导入？](https://www.v2ex.com/t/722002) ![](assets/new.png)  
-- [2020-11-05-VS-构建工具](https://www.v2ex.com/t/722000) ![](assets/new.png)  
-- [2020-11-05-迫于手机丢了，求-v-友推荐手机](https://www.v2ex.com/t/721999) ![](assets/new.png)  
-- [2020-11-05-git-merge-底层逻辑是什么](https://www.v2ex.com/t/721997) ![](assets/new.png)  
-- [2020-11-05-深圳求职群-迫于群活跃度不高，特来补充下新鲜血液](https://www.v2ex.com/t/721996) ![](assets/new.png)  
-- [2020-11-05-常年接-ui-外包-高质量出图-···](https://www.v2ex.com/t/721995) ![](assets/new.png)  
-- [2020-11-05-将网址放到-digitalocean-上面如何？](https://www.v2ex.com/t/721994) ![](assets/new.png)  
-- [2020-11-05-做了一个恋爱脱单的小程序，单身的盆友们看过来～](https://www.v2ex.com/t/721993) ![](assets/new.png)  
-- [2020-11-05-发几个内推坑：-ThoughtWorks-西安开发，-感兴趣来！](https://www.v2ex.com/t/721992) ![](assets/new.png)  
-- [2020-11-05-Chrome-无法访问-Reddit-和-YouTube](https://www.v2ex.com/t/721991) ![](assets/new.png)  
-- [2020-11-05-个人觉得向日葵和-ToDesk-可以完全替代-TeamViewer-了](https://www.v2ex.com/t/721990) ![](assets/new.png)  
-- [2020-11-05-微博支持上传-HDR-视频了-有人试成功了吗？](https://www.v2ex.com/t/721989) ![](assets/new.png)  
-- [2020-11-05-新加坡-Shopee-直招-招资深云原生平台开发工程师，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/721988) ![](assets/new.png)  
-- [2020-11-05-就业服务应该怎么干](https://www.v2ex.com/t/721987) ![](assets/new.png)  
-- [2020-11-05-请教一个复杂点的抛硬币的概率问题](https://www.v2ex.com/t/721986) ![](assets/new.png)  
-- [2020-11-05-微服务中提倡的无状态服务，具体可行吗？](https://www.v2ex.com/t/721985) ![](assets/new.png)  
-- [2020-11-05-广州科瓦科技-会员权益类项目-招聘前端/后端开发工程师](https://www.v2ex.com/t/721984) ![](assets/new.png)  
-- [2020-11-05-新的诈骗电话套路](https://www.v2ex.com/t/721983) ![](assets/new.png)  
-- [2020-11-05-有没有适合妹子喝的甜酒？](https://www.v2ex.com/t/721982) ![](assets/new.png)  
-- [2020-11-05-iPad-的-dock-栏不采取镜像方案对-app-分类用户很不友好](https://www.v2ex.com/t/721981) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,26 +514,6 @@
 </summary>
 
 
-- [2020-11-05-Flink-State-误用之痛，你中招了吗？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13880&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777445%3Futm_content%3Dg_1000199586%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-数百万台车联网设备同时在线0故障，中瑞集团的云原生探索之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13879&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776621%3Futm_content%3Dg_1000199585%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-阳振坤：OceanBase-数据库七亿-tpmC-的关键技术-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13878&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777436%3Futm_content%3Dg_1000199270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-关于卫星定位，你想知道的一切-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13877&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776821%3Futm_content%3Dg_1000199269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-端应用研发进入云原生时代-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13876&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776604%3Futm_content%3Dg_1000199268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-2020阿里云双11--0.73折起，爆款提前抢大促全攻略-yuque.antfin-inc.com](https://blogread.cn/news/go.php?idItem=13875&url=https%3A%2F%2Fyuque.antfin-inc.com%2Fdocs%2Fshare%2F54142f85-d1dc-4ce7-bb67-74cced8a4077%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-用-Mars-Remote-API-轻松分布式执行-Python-函数-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13874&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776436%3Futm_content%3Dg_1000199267%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-Serverless-X-OpenKruise-部署效率优化之道-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13873&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777277%3Futm_content%3Dg_1000198216%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-Tair持久存储系列技术解读-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13872&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776609%3Futm_content%3Dg_1000198215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-模拟驾驶能力输出，赋能客户提升稳定性信心-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13871&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776602%3Futm_content%3Dg_1000198214%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-Fluid-0.3-新版本正式发布：实现云原生场景通用化数据加速-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13870&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775947%3Futm_content%3Dg_1000198213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-持续定义Saas模式云数据仓库+实时分析-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13869&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771366%3Futm_content%3Dg_1000198212%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-Serverless-对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-云原生时代，应用架构将如何演进？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-阿里云数据湖解决方案全面满足数据需求，帮助企业释放数据价值-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13866&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772900%3Futm_content%3Dg_1000197928%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-AI和大数据下，前端技术将如何发展？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13865&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776699%3Futm_content%3Dg_1000197927%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-持续定义Saas模式云数据仓库+BI-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13864&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771483%3Futm_content%3Dg_1000197926%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-秒懂-Https-之如何在-Android-中使用自签名证书-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13863&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_g5Mmy0KmgCnpsQfw34-oQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-集成-Flutter-到现有项目，并实现使用单个-FlutterEngine-管理多个入口-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13862&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7SUWmY4xfHkyeckKITN1yA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-来大厂三个月的一点点小思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS0OI-0CY1qvEvbGw46W8bQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -595,26 +525,6 @@
 </summary>
 
 
-- [2020-11-05-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-05-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-05-物理内存充足，但是为什么用代码总申请不到内存呢？](https://toutiao.io/k/xy6v0or) ![](assets/new.png)  
-- [2020-11-05-Embedding-技术在推荐系统中的应用](https://toutiao.io/k/1t846fk) ![](assets/new.png)  
-- [2020-11-05-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/o15q5av) ![](assets/new.png)  
-- [2020-11-05-为什么我建议你去写博客？](https://toutiao.io/k/hjxcswv) ![](assets/new.png)  
-- [2020-11-05-Spring-Cloud-Alibaba-微服务实战（二十）-：集成-Feign-的降级熔断](https://toutiao.io/k/ig5lchd) ![](assets/new.png)  
-- [2020-11-05-天天说要做性能优化，到底在优化什么？](https://toutiao.io/k/9fxs5uq) ![](assets/new.png)  
-- [2020-11-05-解读云原生基础设施](https://toutiao.io/k/d33fq3m) ![](assets/new.png)  
-- [2020-11-05-Geohash：「附近的人」背后的秘密](https://toutiao.io/k/fb4sqr0) ![](assets/new.png)  
-- [2020-11-05-JavaScript-各异步方式比较](https://toutiao.io/k/0rlpbvu) ![](assets/new.png)  
-- [2020-11-05-Go-语言中的-gRPC-基础入门](https://toutiao.io/k/62tm9cb) ![](assets/new.png)  
-- [2020-11-05-漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j) ![](assets/new.png)  
-- [2020-11-05-清理镜像库空间的一个思路](https://toutiao.io/k/91ajl45) ![](assets/new.png)  
-- [2020-11-05-再读《重构》](https://toutiao.io/k/fput2x1) ![](assets/new.png)  
-- [2020-11-05-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
-- [2020-11-05-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-05-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-05-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-11-05-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

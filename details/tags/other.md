@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-05 02:13:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 02:23:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-11-04-​中国驻塞内加尔使馆再次提醒在塞中国公民：非必要，不旅行！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTk7ZgrwMSLsFocYXgoMQ201105&isfromapp=1) 
+- [2020-11-04-​意大利伦巴第等4个大区被划入疫情高风险区-管控措施6日起实施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUUFU1qPTDDtX6eR6kKnK201105&isfromapp=1) 
+- [2020-11-04-波兰加强防疫措施-学校实行远程教学、商店限流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6lkBPXXsOaFZVL8fBjEf201105&isfromapp=1) 
 - [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html) 
@@ -26,6 +29,27 @@
 - [2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
 - [2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [2020-11-05-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) 
+- [2020-11-05-物理内存充足，但是为什么用代码总申请不到内存呢？](https://toutiao.io/k/xy6v0or) 
+- [2020-11-05-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) 
+- [2020-11-05-Embedding-技术在推荐系统中的应用](https://toutiao.io/k/1t846fk) 
+- [2020-11-05-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/o15q5av) 
+- [2020-11-05-为什么我建议你去写博客？](https://toutiao.io/k/hjxcswv) 
+- [2020-11-05-解读云原生基础设施](https://toutiao.io/k/d33fq3m) 
+- [2020-11-05-Spring-Cloud-Alibaba-微服务实战（二十）-：集成-Feign-的降级熔断](https://toutiao.io/k/ig5lchd) 
+- [2020-11-05-Geohash：「附近的人」背后的秘密](https://toutiao.io/k/fb4sqr0) 
+- [2020-11-05-清理镜像库空间的一个思路](https://toutiao.io/k/91ajl45) 
+- [2020-11-05-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
+- [2020-11-05-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
+- [2020-11-05-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) 
+- [2020-11-05-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) 
+- [2020-11-05-推荐-我做了一个-240-天的计划来解救自己，还剩-174-天，寻找伙伴中](https://toutiao.io/k/3jkd39p) 
+- [2020-11-05-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) 
+- [2020-11-05-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) 
+- [2020-11-05-推荐-想自己写框架？不会写-Java-注解可不行](https://toutiao.io/k/9j801i6) 
+- [2020-11-05-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
+- [2020-11-05-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) 
+- [2020-11-05-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) 
 - [2020-11-04-Linux内核eBPF权限提升漏洞通告CVE-2020-27194](https://sec.thief.one/article_content?a_id=3b29e4cf061e52063aab8334b161498b) 
 - [2020-11-04-我输给了一个-25-岁的男人](https://sec.thief.one/article_content?a_id=d71199b10743353b534ab99e777cf305) 
 - [2020-11-04-挖洞经验-|-价值6k$的星巴克官网账户劫持漏洞](https://sec.thief.one/article_content?a_id=b28d67a804a8c7cb2096003ac813a4b4) 

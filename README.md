@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-05 02:13:07，:rocket: 更新条数: +153， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-05 02:23:27，:rocket: 更新条数: +187， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -75,6 +75,11 @@
 </summary>
 
 
+- [2020-11-04-全球抗疫24小时丨全球新冠肺炎确诊病例超过4736万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQcK0c4fiO0YE8VXRjh84201105&isfromapp=1) ![](assets/new.png)  
+- [2020-11-04-​中国驻塞内加尔使馆再次提醒在塞中国公民：非必要，不旅行！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTk7ZgrwMSLsFocYXgoMQ201105&isfromapp=1) ![](assets/new.png)  
+- [2020-11-04-​意大利伦巴第等4个大区被划入疫情高风险区-管控措施6日起实施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUUFU1qPTDDtX6eR6kKnK201105&isfromapp=1) ![](assets/new.png)  
+- [2020-11-04-美国大选日再创新冠肺炎确诊记录-总统就职日前或再添14万新冠死亡病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXGIBkcOfmTlrsED5CInN201105&isfromapp=1) ![](assets/new.png)  
+- [2020-11-04-波兰加强防疫措施-学校实行远程教学、商店限流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6lkBPXXsOaFZVL8fBjEf201105&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,6 +530,26 @@
 </summary>
 
 
+- [2020-11-05-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-05-物理内存充足，但是为什么用代码总申请不到内存呢？](https://toutiao.io/k/xy6v0or) ![](assets/new.png)  
+- [2020-11-05-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-05-Embedding-技术在推荐系统中的应用](https://toutiao.io/k/1t846fk) ![](assets/new.png)  
+- [2020-11-05-实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/o15q5av) ![](assets/new.png)  
+- [2020-11-05-为什么我建议你去写博客？](https://toutiao.io/k/hjxcswv) ![](assets/new.png)  
+- [2020-11-05-解读云原生基础设施](https://toutiao.io/k/d33fq3m) ![](assets/new.png)  
+- [2020-11-05-天天说要做性能优化，到底在优化什么？](https://toutiao.io/k/9fxs5uq) ![](assets/new.png)  
+- [2020-11-05-Spring-Cloud-Alibaba-微服务实战（二十）-：集成-Feign-的降级熔断](https://toutiao.io/k/ig5lchd) ![](assets/new.png)  
+- [2020-11-05-Geohash：「附近的人」背后的秘密](https://toutiao.io/k/fb4sqr0) ![](assets/new.png)  
+- [2020-11-05-JavaScript-各异步方式比较](https://toutiao.io/k/0rlpbvu) ![](assets/new.png)  
+- [2020-11-05-Go-语言中的-gRPC-基础入门](https://toutiao.io/k/62tm9cb) ![](assets/new.png)  
+- [2020-11-05-漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j) ![](assets/new.png)  
+- [2020-11-05-清理镜像库空间的一个思路](https://toutiao.io/k/91ajl45) ![](assets/new.png)  
+- [2020-11-05-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-11-05-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-05-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-05-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-05-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-05-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

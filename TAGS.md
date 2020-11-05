@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-05 02:13:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 02:23:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -185,6 +185,7 @@
 - [【前端艺术家&&飞冰早报】一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175)
 - [【前端艺术家&&飞冰早报】（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b)
 - [【前端艺术家&&飞冰早报】JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56)
+- [【开发者头条】JavaScript-各异步方式比较](https://toutiao.io/k/0rlpbvu)
 - [【安全热点】JavaScript函数式编程,“香”吗?](https://sec.thief.one/article_content?a_id=296f1bc9ca76988dbfae185439be2a1f)
 - [【安全热点】CVE-2020-14882-eblogic-Console远程代码执行漏洞复现豪华版](https://sec.thief.one/article_content?a_id=9c77a7b97377bb3eba4bdc13f279bcbd)
 - [【安全热点】漏洞风险提示-|-WebLogic-Console-权限认证绕过漏洞-CVE-2020-14750](https://sec.thief.one/article_content?a_id=0c91d61523022e140bfcb85144a02546)
@@ -269,6 +270,8 @@
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【开发者头条】天天说要做性能优化，到底在优化什么？](https://toutiao.io/k/9fxs5uq)
+- [【开发者头条】漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j)
 - [【安全热点】MySQL-大表优化方案](https://sec.thief.one/article_content?a_id=d6f0c773b3654e359121cd5f81db3dc7)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -338,6 +341,7 @@
 
 
 
+- [【开发者头条】Go-语言中的-gRPC-基础入门](https://toutiao.io/k/62tm9cb)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -354,6 +358,7 @@
 
 
 
+- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -370,6 +375,9 @@
 
 
 
+- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -402,6 +410,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】全球抗疫24小时丨全球新冠肺炎确诊病例超过4736万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQcK0c4fiO0YE8VXRjh84201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国大选日再创新冠肺炎确诊记录-总统就职日前或再添14万新冠死亡病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXGIBkcOfmTlrsED5CInN201105&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -416,6 +426,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】​中国驻塞内加尔使馆再次提醒在塞中国公民：非必要，不旅行！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTk7ZgrwMSLsFocYXgoMQ201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​意大利伦巴第等4个大区被划入疫情高风险区-管控措施6日起实施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUUFU1qPTDDtX6eR6kKnK201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】波兰加强防疫措施-学校实行远程教学、商店限流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6lkBPXXsOaFZVL8fBjEf201105&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -433,9 +446,6 @@
 - [【前端艺术家&&飞冰早报】图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648)
 - [【前端艺术家&&飞冰早报】微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796)
 - [【前端艺术家&&飞冰早报】解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598)
-- [【前端艺术家&&飞冰早报】crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221)
-- [【前端艺术家&&飞冰早报】从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f)
-- [【前端艺术家&&飞冰早报】没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-05 09:11:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 09:21:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,7 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-04-SecWiki安全招聘第40期](https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75) 
 - [2020-11-04-快来打卡小米AIoT安全峰会!](https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3) 
 - [2020-11-04-奇安信亮相2020年工业互联网安全成果展-内生安全框架助力实现可防...](https://sec.thief.one/article_content?a_id=ccdc06c7ab09167c16a639837279430d) 

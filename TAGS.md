@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-05 05:11:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 05:20:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -173,6 +173,7 @@
 - [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
 - [【张鑫旭-鑫空间-鑫生活】巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
+- [【开发者头条】JavaScript-各异步方式比较](https://toutiao.io/k/0rlpbvu)
 - [【安全热点】JavaScript函数式编程,“香”吗?](https://sec.thief.one/article_content?a_id=296f1bc9ca76988dbfae185439be2a1f)
 - [【安全热点】CVE-2020-14882-eblogic-Console远程代码执行漏洞复现豪华版](https://sec.thief.one/article_content?a_id=9c77a7b97377bb3eba4bdc13f279bcbd)
 - [【安全热点】漏洞风险提示-|-WebLogic-Console-权限认证绕过漏洞-CVE-2020-14750](https://sec.thief.one/article_content?a_id=0c91d61523022e140bfcb85144a02546)
@@ -250,8 +251,11 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】大连海关：优化空港通关流程-严防境外疫情输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSQbkrHA1W0DfnamnvJFW201105&isfromapp=1)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
+- [【开发者头条】天天说要做性能优化，到底在优化什么？](https://toutiao.io/k/9fxs5uq)
+- [【开发者头条】漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j)
 - [【安全热点】MySQL-大表优化方案](https://sec.thief.one/article_content?a_id=d6f0c773b3654e359121cd5f81db3dc7)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -321,6 +325,7 @@
 
 
 
+- [【开发者头条】Go-语言中的-gRPC-基础入门](https://toutiao.io/k/62tm9cb)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -353,6 +358,9 @@
 
 
 
+- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -385,6 +393,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】自治区新冠肺炎疫情联防联控应急演练在拉萨举办](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】全球抗疫24小时丨全球新冠肺炎确诊病例超过4736万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQcK0c4fiO0YE8VXRjh84201105&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -399,6 +409,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】​中国驻塞内加尔使馆再次提醒在塞中国公民：非必要，不旅行！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTk7ZgrwMSLsFocYXgoMQ201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​意大利伦巴第等4个大区被划入疫情高风险区-管控措施6日起实施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUUFU1qPTDDtX6eR6kKnK201105&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -408,17 +420,15 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
-- [【安全热点】Linux内核eBPF权限提升漏洞通告CVE-2020-27194](https://sec.thief.one/article_content?a_id=3b29e4cf061e52063aab8334b161498b)
-- [【安全热点】我输给了一个-25-岁的男人](https://sec.thief.one/article_content?a_id=d71199b10743353b534ab99e777cf305)
-- [【安全热点】挖洞经验-|-价值6k$的星巴克官网账户劫持漏洞](https://sec.thief.one/article_content?a_id=b28d67a804a8c7cb2096003ac813a4b4)
-- [【安全热点】【漏洞通告】SaltStack-RCE等高危漏洞通告](https://sec.thief.one/article_content?a_id=3a046d3813101ab1fbe9ce1ed9f11ae3)
-- [【安全热点】“AI一键脱衣”,又卷土重来了!](https://sec.thief.one/article_content?a_id=41105874ebe049d8128afd8d630f5b3c)
-- [【安全热点】《安卓高级研修班》线下班,网课12月班开始同步招生!](https://sec.thief.one/article_content?a_id=19b9af3f631fda3e9f9b77324ea1752b)
-- [【安全热点】PWN从入门到放弃三:来实际操作吧!](https://sec.thief.one/article_content?a_id=d0f095aa943e3956083469660950a089)
-- [【安全热点】大家好,我是Tony,始于颜值,终于才华,永葆赤子之心!](https://sec.thief.one/article_content?a_id=1d4c978958a2282a22816c3051a1931e)
-- [【安全热点】如何成为一名优秀的网络工程师?](https://sec.thief.one/article_content?a_id=bf9d3949efeb5a4a89053b8c1ed7f14f)
-- [【安全热点】美国大选下的APT攻击:Kimsuky以选举结果预测为诱饵的攻击活动分析](https://sec.thief.one/article_content?a_id=eb0ed357571fbdbc0e275eddee19f48d)
-- [【安全热点】Coinbase以及Gemini等交易所联合打击贩卖人口](https://sec.thief.one/article_content?a_id=45abacb97fc562020e1730ee24966c26)
+- [【开发者头条】一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10)
+- [【开发者头条】消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg)
+- [【开发者头条】物理内存充足，但是为什么用代码总申请不到内存呢？](https://toutiao.io/k/xy6v0or)
+- [【开发者头条】Embedding-技术在推荐系统中的应用](https://toutiao.io/k/1t846fk)
+- [【开发者头条】实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/o15q5av)
+- [【开发者头条】Spring-Cloud-Alibaba-微服务实战（二十）-：集成-Feign-的降级熔断](https://toutiao.io/k/ig5lchd)
+- [【开发者头条】为什么我建议你去写博客？](https://toutiao.io/k/hjxcswv)
+- [【开发者头条】解读云原生基础设施](https://toutiao.io/k/d33fq3m)
+- [【开发者头条】Geohash：「附近的人」背后的秘密](https://toutiao.io/k/fb4sqr0)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

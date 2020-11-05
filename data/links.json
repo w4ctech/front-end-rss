@@ -6,10 +6,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/coronavirus/dxy",
+    "rss": "https://rss.itggg.cn/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "自治区新冠肺炎疫情联防联控应急演练在拉萨举办",
+        "link": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "大连海关：优化空港通关流程 严防境外疫情输入",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSQbkrHA1W0DfnamnvJFW201105&isfromapp=1",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "全球抗疫24小时丨全球新冠肺炎确诊病例超过4736万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQcK0c4fiO0YE8VXRjh84201105&isfromapp=1",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "​中国驻塞内加尔使馆再次提醒在塞中国公民：非必要，不旅行！",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTk7ZgrwMSLsFocYXgoMQ201105&isfromapp=1",
+        "date": "2020-11-04"
+      },
+      {
+        "title": "​意大利伦巴第等4个大区被划入疫情高风险区 管控措施6日起实施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUUFU1qPTDDtX6eR6kKnK201105&isfromapp=1",
+        "date": "2020-11-04"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -346,10 +372,171 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/toutiao/today",
+    "rss": "https://rss.itggg.cn/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "物理内存充足，但是为什么用代码总申请不到内存呢？",
+        "link": "https://toutiao.io/k/xy6v0or",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "Embedding 技术在推荐系统中的应用",
+        "link": "https://toutiao.io/k/1t846fk",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "实战篇：一个核心系统 3 万多行代码的重构之旅",
+        "link": "https://toutiao.io/k/o15q5av",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "Spring Cloud Alibaba 微服务实战（二十） ：集成 Feign 的降级熔断",
+        "link": "https://toutiao.io/k/ig5lchd",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "为什么我建议你去写博客？",
+        "link": "https://toutiao.io/k/hjxcswv",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "天天说要做性能优化，到底在优化什么？",
+        "link": "https://toutiao.io/k/9fxs5uq",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "解读云原生基础设施",
+        "link": "https://toutiao.io/k/d33fq3m",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "Geohash：「附近的人」背后的秘密",
+        "link": "https://toutiao.io/k/fb4sqr0",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "JavaScript 各异步方式比较",
+        "link": "https://toutiao.io/k/0rlpbvu",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "Go 语言中的 gRPC 基础入门",
+        "link": "https://toutiao.io/k/62tm9cb",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "漫谈分布式系统（二十二）：自适应的优化",
+        "link": "https://toutiao.io/k/8me5e0j",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "清理镜像库空间的一个思路",
+        "link": "https://toutiao.io/k/91ajl45",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "再读《重构》",
+        "link": "https://toutiao.io/k/fput2x1",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "200 行代码实现基于 paxos 的 kv 存储",
+        "link": "https://toutiao.io/k/yzcp70y",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[译] KDE 中的资源管理",
+        "link": "https://toutiao.io/k/re0uwiq",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 我做了一个 240 天的计划来解救自己，还剩 174 天，寻找伙伴中",
+        "link": "https://toutiao.io/k/3jkd39p",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 硬核！15 张图解 Redis 为什么这么快",
+        "link": "https://toutiao.io/k/k7nf2vd",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-05"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

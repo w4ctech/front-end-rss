@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-05 08:35:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 08:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -14,5 +14,3 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
-- [2020-11-05-httpd-和其它-web-server-的通信方式有哪些？](https://www.v2ex.com/t/722066) 
-- [2020-11-05-平常使用-Spotify-听歌，最近听播客觉得挺有意思，求推荐-Spotify-平台上-能听到的中文播客podcast……](https://www.v2ex.com/t/722063) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-05 21:03:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 21:10:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -521,10 +521,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】阿联酋新增1289例新冠肺炎确诊病例-累计确诊138599例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8HMVL9MdoUDSUurNcVyC201105&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】香港新增7例新冠肺炎确诊病例-累计确诊5355例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjQYq7YLz2loi8GGwfq8201105&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​德国新冠肺炎确诊病例新增19990例-累计确诊597583例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisjr2idIfy5eKmGwIZpgj201105&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】自治区新冠肺炎疫情联防联控应急演练在拉萨举办](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -539,7 +535,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】意大利罗马市长拉吉感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8sUfFZWexEzi8nupUnDk201105&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -559,6 +554,7 @@
 - [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
 - [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
 - [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
+- [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -6,36 +6,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/coronavirus/dxy",
+    "rss": "https://rss.shab.fun/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": [
-      {
-        "title": "阿联酋新增1289例新冠肺炎确诊病例 累计确诊138599例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8HMVL9MdoUDSUurNcVyC201105&isfromapp=1",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "香港新增7例新冠肺炎确诊病例 累计确诊5355例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjQYq7YLz2loi8GGwfq8201105&isfromapp=1",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "​德国新冠肺炎确诊病例新增19990例 累计确诊597583例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisjr2idIfy5eKmGwIZpgj201105&isfromapp=1",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "意大利罗马市长拉吉感染新冠病毒",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8sUfFZWexEzi8nupUnDk201105&isfromapp=1",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "自治区新冠肺炎疫情联防联控应急演练在拉萨举办",
-        "link": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html",
-        "date": "2020-11-05"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",

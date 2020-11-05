@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-05 10:47:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 11:04:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【掘金前端】【互动业务中的工程化系列】——-互动业务中的Rax](https://juejin.im/post/6891453339800698894)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -122,7 +123,6 @@
 
 - [【阮一峰的网络日志】微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html)
 - [【阮一峰的网络日志】微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html)
-- [【V2EX】求问怎么能让我网站的谷歌广告-在微信小程序加载的时候不显示？？](https://www.v2ex.com/t/722088)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -174,11 +174,9 @@
 - [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
 - [【张鑫旭-鑫空间-鑫生活】巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
+- [【掘金前端】别光知道用console.log调试了，快来试试这些高效的调试方法！](https://juejin.im/post/6891427703249977352)
 - [【开发者头条】JavaScript-各异步方式比较](https://toutiao.io/k/0rlpbvu)
 - [【安全热点】JavaScript函数式编程,“香”吗?](https://sec.thief.one/article_content?a_id=296f1bc9ca76988dbfae185439be2a1f)
-- [【安全热点】CVE-2020-14882-eblogic-Console远程代码执行漏洞复现豪华版](https://sec.thief.one/article_content?a_id=9c77a7b97377bb3eba4bdc13f279bcbd)
-- [【安全热点】漏洞风险提示-|-WebLogic-Console-权限认证绕过漏洞-CVE-2020-14750](https://sec.thief.one/article_content?a_id=0c91d61523022e140bfcb85144a02546)
-- [【安全热点】学习强国:工业互联网攻击事件频发-安全建设亟须从“零散”走向“全...](https://sec.thief.one/article_content?a_id=fdb70f7865f7659ee19d316d9f52383c)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -199,8 +197,6 @@
 - [【张鑫旭-鑫空间-鑫生活】如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/)
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
-- [【技术头条】Serverless-X-OpenKruise-部署效率优化之道-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13873&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777277%3Futm_content%3Dg_1000198216%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】Serverless-对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -235,7 +231,8 @@
 
 
 
-- [【技术头条】浅析云控平台画面传输的视频流方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13884&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777591%3Futm_content%3Dg_1000199588%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【掘金前端】5G时代|淘宝直播高画质低延时技术探索](https://juejin.im/post/6891582162798116871)
+- [【安全热点】​线上直播沙龙-是德科技站,参与即有机会赢取大奖哦!](https://sec.thief.one/article_content?a_id=0f5dc502afcd918ca26804a8f5b52925)
 - [【安全热点】【视频】|-Python:作业题](https://sec.thief.one/article_content?a_id=87c6e42bfbd099080e09b5f67abd7267)
 - [【安全热点】舆论信息操控:特朗普竞选团队持续推送拜登虚假视频](https://sec.thief.one/article_content?a_id=89d87126744d400e11be9403ab73a15d)
 - [【安全热点】【视频】|-反奸防谍,较量无声](https://sec.thief.one/article_content?a_id=897714a147ec05d82eb92060c4470f70)
@@ -255,12 +252,10 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】大连海关：优化空港通关流程-严防境外疫情输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSQbkrHA1W0DfnamnvJFW201105&isfromapp=1)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【开发者头条】天天说要做性能优化，到底在优化什么？](https://toutiao.io/k/9fxs5uq)
 - [【开发者头条】漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j)
-- [【安全热点】MySQL-大表优化方案](https://sec.thief.one/article_content?a_id=d6f0c773b3654e359121cd5f81db3dc7)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -278,7 +273,18 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
-- [【V2EX】QTabWidget-如何把标签页放在左侧](https://www.v2ex.com/t/722084)
+- [【掘金前端】译|浏览器-Web-History-API-的应用](https://juejin.im/post/6891500768973553672)
+- [【安全热点】SecWiki安全招聘第41期](https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa)
+- [【安全热点】处理公告丨2020年10月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=51697ff04437991b0d2cdc5941f33830)
+- [【安全热点】干货|安全技能提升可以有多野?文末有福利](https://sec.thief.one/article_content?a_id=4ef49dc962d9aedc320405389ffcdc66)
+- [【安全热点】银行业安全运营平台的建设与思考](https://sec.thief.one/article_content?a_id=5480feed51d2e77aa76b7908cdf38c95)
+- [【安全热点】信息安全漏洞周报2020年第42期](https://sec.thief.one/article_content?a_id=e9f01e7e498b6d9bee6171e0fac0b06c)
+- [【安全热点】金融信息黑产依旧猖獗:银行如何从源头堵住信息安全缺口?](https://sec.thief.one/article_content?a_id=c56141e3367072c19743c2a517b7b0c6)
+- [【安全热点】【安全风险通告】SaltStack漏洞搭配可远程命令执行,SaltStack多个...](https://sec.thief.one/article_content?a_id=c584129ebc6a3701564ac743adb4340d)
+- [【安全热点】【报名开启】2020京麒网络安全大会即将召开,5大亮点抢鲜看!](https://sec.thief.one/article_content?a_id=b69764fca9f98a9214b1c7d95b393888)
+- [【安全热点】中国移动等发布《5G+工业互联网安全白皮书》-附下载](https://sec.thief.one/article_content?a_id=189dfb3c2b785ff092066a7d2f01f425)
+- [【安全热点】web-安全核心防御机制](https://sec.thief.one/article_content?a_id=0cce5777fa73acc4db6f112c76b1d58a)
+- [【安全热点】【安全圈】瑞典保险公司Folksa近百万客户信息流入Facebook等社交...](https://sec.thief.one/article_content?a_id=c1d9279bf7eb71c284d55078342a0023)
 - [【安全热点】SecWiki安全招聘第40期](https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75)
 - [【安全热点】快来打卡小米AIoT安全峰会!](https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3)
 - [【安全热点】奇安信亮相2020年工业互联网安全成果展-内生安全框架助力实现可防...](https://sec.thief.one/article_content?a_id=ccdc06c7ab09167c16a639837279430d)
@@ -286,17 +292,6 @@
 - [【安全热点】HTTP/2-H2C-请求走私分析](https://sec.thief.one/article_content?a_id=2ab85294e6316283ec88e65a943fe43e)
 - [【安全热点】安全通告|SaltStack多个高危漏洞风险通告CVE-2020-16846/CVE-...](https://sec.thief.one/article_content?a_id=ded5fdc590844325c46bf2802fdccdf7)
 - [【安全热点】安全众测第四期-额外奖励拿不停!](https://sec.thief.one/article_content?a_id=fe90c2dc335a5dedaee6743b00d231e4)
-- [【安全热点】Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=142cf1298ca7712a8826b3c6db3c381b)
-- [【安全热点】第二届百度大学生网络安全技能大赛火热报名中!](https://sec.thief.one/article_content?a_id=86462cbd79c661ebafca8356aca105d1)
-- [【安全热点】出招反诈、护航安全:国舜专业安全力量赋能治理跨境赌博](https://sec.thief.one/article_content?a_id=14c787121dfad97d29af1170ee17fa52)
-- [【安全热点】一次验证码安全测试](https://sec.thief.one/article_content?a_id=f50be934f43b2a3170ea700fbdec84b5)
-- [【安全热点】【安全圈】HPE-修补了两个关键的远程可利用漏洞](https://sec.thief.one/article_content?a_id=60d87d3cc1f26156317f3eab192785f8)
-- [【安全热点】邀请函|奇安信将亮相2020年工业互联网安全成果展](https://sec.thief.one/article_content?a_id=3e8f71223cb8570dbf619b9655f35c1d)
-- [【安全热点】首提跨模态代码匹配算法,腾讯安全科恩实验室论文入选国际AI顶会...](https://sec.thief.one/article_content?a_id=82eb111168885ed83a87426311536df2)
-- [【安全热点】Google-Chromium-CVE-2019-5826-UAF分析](https://sec.thief.one/article_content?a_id=e070e80c73a56f6cc75cbb30c037b953)
-- [【安全热点】​IOT安全之Android应用程序静态分析](https://sec.thief.one/article_content?a_id=020d8aa31370aaffa1fc164b92dd5192)
-- [【安全热点】安全牛《2020中国网络安全企业100强报告》发布](https://sec.thief.one/article_content?a_id=0218318b764e7925c8e0e868f9185585)
-- [【安全热点】Hi,美团SRC向你发来一封小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=01f7495b044d7ad5a72a72a897e8f6bc)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -346,7 +341,6 @@
 
 
 
-- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -363,10 +357,7 @@
 
 
 
-- [【V2EX】北京-金色财经-20k-40k-招聘资深-Python-工程师](https://www.v2ex.com/t/722107)
-- [【V2EX】面试遇到一道题，没有思路，大家有什么意思](https://www.v2ex.com/t/722099)
-- [【V2EX】北京-金色财经-20k-40k-招聘-Python-工程师](https://www.v2ex.com/t/722095)
-- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -400,8 +391,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】阿联酋新增1289例新冠肺炎确诊病例-累计确诊138599例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8HMVL9MdoUDSUurNcVyC201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】香港新增7例新冠肺炎确诊病例-累计确诊5355例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjQYq7YLz2loi8GGwfq8201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​德国新冠肺炎确诊病例新增19990例-累计确诊597583例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisjr2idIfy5eKmGwIZpgj201105&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】自治区新冠肺炎疫情联防联控应急演练在拉萨举办](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html)
-- [【全国新型肺炎疫情实时动态(丁香园)】全球抗疫24小时丨全球新冠肺炎确诊病例超过4736万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQcK0c4fiO0YE8VXRjh84201105&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -416,8 +409,7 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】​中国驻塞内加尔使馆再次提醒在塞中国公民：非必要，不旅行！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTk7ZgrwMSLsFocYXgoMQ201105&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​意大利伦巴第等4个大区被划入疫情高风险区-管控措施6日起实施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUUFU1qPTDDtX6eR6kKnK201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】意大利罗马市长拉吉感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8sUfFZWexEzi8nupUnDk201105&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
@@ -427,15 +419,16 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
-- [【V2EX】大家公司都用什么项目管理工具呢？](https://www.v2ex.com/t/722131)
-- [【V2EX】广州有哪些比较好的互联网公司？](https://www.v2ex.com/t/722129)
-- [【V2EX】PHP-为什么-array_merge-不应该在循环中使用](https://www.v2ex.com/t/722128)
-- [【V2EX】注册了-textnow-账号，哪些网站能用啊？](https://www.v2ex.com/t/722127)
-- [【V2EX】Linux-下有没有-IP-隧道只需要一方有公网-IP-的](https://www.v2ex.com/t/722125)
-- [【V2EX】如果一段代码流程里有很多顺序操作，在某个步骤失败的时候，需要回退之前的操作，怎么写优雅呢？](https://www.v2ex.com/t/722124)
-- [【V2EX】年年焕新计划也需要每年预约和大家抢吗？](https://www.v2ex.com/t/722123)
-- [【V2EX】百度网盘的重复文件太多，怎么解决？](https://www.v2ex.com/t/722121)
-- [【V2EX】升级-watchOS7.1-后-Mac-解锁终于正常了](https://www.v2ex.com/t/722120)
+- [【掘金前端】EMP-面向未来微前端方案正式开源了！](https://juejin.im/post/6891532248269783054)
+- [【开发者头条】一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10)
+- [【开发者头条】消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg)
+- [【开发者头条】物理内存充足，但是为什么用代码总申请不到内存呢？](https://toutiao.io/k/xy6v0or)
+- [【开发者头条】Embedding-技术在推荐系统中的应用](https://toutiao.io/k/1t846fk)
+- [【开发者头条】Spring-Cloud-Alibaba-微服务实战（二十）-：集成-Feign-的降级熔断](https://toutiao.io/k/ig5lchd)
+- [【开发者头条】实战篇：一个核心系统-3-万多行代码的重构之旅](https://toutiao.io/k/o15q5av)
+- [【开发者头条】为什么我建议你去写博客？](https://toutiao.io/k/hjxcswv)
+- [【开发者头条】解读云原生基础设施](https://toutiao.io/k/d33fq3m)
+- [【开发者头条】Geohash：「附近的人」背后的秘密](https://toutiao.io/k/fb4sqr0)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

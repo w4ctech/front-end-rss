@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-05 10:47:48，:rocket: 更新条数: +221， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-05 11:04:00，:rocket: 更新条数: +168， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,13 +46,13 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -75,11 +75,11 @@
 </summary>
 
 
+- [2020-11-05-阿联酋新增1289例新冠肺炎确诊病例-累计确诊138599例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8HMVL9MdoUDSUurNcVyC201105&isfromapp=1) ![](assets/new.png)  
+- [2020-11-05-香港新增7例新冠肺炎确诊病例-累计确诊5355例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjQYq7YLz2loi8GGwfq8201105&isfromapp=1) ![](assets/new.png)  
+- [2020-11-05-​德国新冠肺炎确诊病例新增19990例-累计确诊597583例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisjr2idIfy5eKmGwIZpgj201105&isfromapp=1) ![](assets/new.png)  
+- [2020-11-05-意大利罗马市长拉吉感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8sUfFZWexEzi8nupUnDk201105&isfromapp=1) ![](assets/new.png)  
 - [2020-11-05-自治区新冠肺炎疫情联防联控应急演练在拉萨举办](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html) ![](assets/new.png)  
-- [2020-11-05-大连海关：优化空港通关流程-严防境外疫情输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSQbkrHA1W0DfnamnvJFW201105&isfromapp=1) ![](assets/new.png)  
-- [2020-11-04-全球抗疫24小时丨全球新冠肺炎确诊病例超过4736万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQcK0c4fiO0YE8VXRjh84201105&isfromapp=1) ![](assets/new.png)  
-- [2020-11-04-​中国驻塞内加尔使馆再次提醒在塞中国公民：非必要，不旅行！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTk7ZgrwMSLsFocYXgoMQ201105&isfromapp=1) ![](assets/new.png)  
-- [2020-11-04-​意大利伦巴第等4个大区被划入疫情高风险区-管控措施6日起实施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUUFU1qPTDDtX6eR6kKnK201105&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -433,6 +433,11 @@
 </summary>
 
 
+- [2020-11-05-5G时代|淘宝直播高画质低延时技术探索](https://juejin.im/post/6891582162798116871) ![](assets/new.png)  
+- [2020-11-04-EMP-面向未来微前端方案正式开源了！](https://juejin.im/post/6891532248269783054) ![](assets/new.png)  
+- [2020-11-04-译|浏览器-Web-History-API-的应用](https://juejin.im/post/6891500768973553672) ![](assets/new.png)  
+- [2020-11-04-【互动业务中的工程化系列】——-互动业务中的Rax](https://juejin.im/post/6891453339800698894) ![](assets/new.png)  
+- [2020-11-04-别光知道用console.log调试了，快来试试这些高效的调试方法！](https://juejin.im/post/6891427703249977352) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -488,26 +493,6 @@
 </summary>
 
 
-- [2020-11-05-大家公司都用什么项目管理工具呢？](https://www.v2ex.com/t/722131) ![](assets/new.png)  
-- [2020-11-05-广州有哪些比较好的互联网公司？](https://www.v2ex.com/t/722129) ![](assets/new.png)  
-- [2020-11-05-PHP-为什么-array_merge-不应该在循环中使用](https://www.v2ex.com/t/722128) ![](assets/new.png)  
-- [2020-11-05-注册了-textnow-账号，哪些网站能用啊？](https://www.v2ex.com/t/722127) ![](assets/new.png)  
-- [2020-11-05-Linux-下有没有-IP-隧道只需要一方有公网-IP-的](https://www.v2ex.com/t/722125) ![](assets/new.png)  
-- [2020-11-05-如果一段代码流程里有很多顺序操作，在某个步骤失败的时候，需要回退之前的操作，怎么写优雅呢？](https://www.v2ex.com/t/722124) ![](assets/new.png)  
-- [2020-11-05-年年焕新计划也需要每年预约和大家抢吗？](https://www.v2ex.com/t/722123) ![](assets/new.png)  
-- [2020-11-05-百度网盘的重复文件太多，怎么解决？](https://www.v2ex.com/t/722121) ![](assets/new.png)  
-- [2020-11-05-升级-watchOS7.1-后-Mac-解锁终于正常了](https://www.v2ex.com/t/722120) ![](assets/new.png)  
-- [2020-11-05-可以自己开发-SSL-证书吗？](https://www.v2ex.com/t/722119) ![](assets/new.png)  
-- [2020-11-05-早上六点预约-iPhone-12pro-的话好预约吗](https://www.v2ex.com/t/722116) ![](assets/new.png)  
-- [2020-11-05-阿里云全球加速怎么解决偶尔-DNS-解析慢导致网站不可用的问题？](https://www.v2ex.com/t/722115) ![](assets/new.png)  
-- [2020-11-05-关于购买正版软件](https://www.v2ex.com/t/722114) ![](assets/new.png)  
-- [2020-11-05-参加不了美国大选，但是可以参加开源大选～](https://www.v2ex.com/t/722112) ![](assets/new.png)  
-- [2020-11-05-作为前端，下周要给后端同事做分享，分享点什么好呢](https://www.v2ex.com/t/722111) ![](assets/new.png)  
-- [2020-11-05-Worktile-旗下智能化研发管理工具-PingCode-宣布-25-人以下免费](https://www.v2ex.com/t/722108) ![](assets/new.png)  
-- [2020-11-05-北京-金色财经-20k-40k-招聘资深-Python-工程师](https://www.v2ex.com/t/722107) ![](assets/new.png)  
-- [2020-11-05-tagfmt-库，用来对齐-go-语言的-struct-tag-字段](https://www.v2ex.com/t/722104) ![](assets/new.png)  
-- [2020-11-05-中科软上海智慧金融事业部开发可以去吗？](https://www.v2ex.com/t/722103) ![](assets/new.png)  
-- [2020-11-05-Telegraf](https://www.v2ex.com/t/722102) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -519,26 +504,6 @@
 </summary>
 
 
-- [2020-11-05-解读云原生基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13885&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777599%3Futm_content%3Dg_1000199589%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-浅析云控平台画面传输的视频流方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13884&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777591%3Futm_content%3Dg_1000199588%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-2020阿里云双11企业分会场攻略-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13883&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fhome%3Futm_content%3Dg_1000194540%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-白话科普系列——双十一，竟然是一场有“预谋”的DDoS攻击？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13882&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F274347639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-Dubbo-go-源码笔记（一）Server-端开启服务过程-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13881&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777450%3Futm_content%3Dg_1000199587%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-Flink-State-误用之痛，你中招了吗？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13880&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777445%3Futm_content%3Dg_1000199586%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-数百万台车联网设备同时在线0故障，中瑞集团的云原生探索之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13879&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776621%3Futm_content%3Dg_1000199585%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-阳振坤：OceanBase-数据库七亿-tpmC-的关键技术-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13878&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777436%3Futm_content%3Dg_1000199270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-关于卫星定位，你想知道的一切-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13877&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776821%3Futm_content%3Dg_1000199269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-端应用研发进入云原生时代-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13876&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776604%3Futm_content%3Dg_1000199268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-2020阿里云双11--0.73折起，爆款提前抢大促全攻略-yuque.antfin-inc.com](https://blogread.cn/news/go.php?idItem=13875&url=https%3A%2F%2Fyuque.antfin-inc.com%2Fdocs%2Fshare%2F54142f85-d1dc-4ce7-bb67-74cced8a4077%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-用-Mars-Remote-API-轻松分布式执行-Python-函数-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13874&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776436%3Futm_content%3Dg_1000199267%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-Serverless-X-OpenKruise-部署效率优化之道-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13873&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777277%3Futm_content%3Dg_1000198216%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-Tair持久存储系列技术解读-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13872&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776609%3Futm_content%3Dg_1000198215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-模拟驾驶能力输出，赋能客户提升稳定性信心-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13871&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776602%3Futm_content%3Dg_1000198214%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-Fluid-0.3-新版本正式发布：实现云原生场景通用化数据加速-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13870&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775947%3Futm_content%3Dg_1000198213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-持续定义Saas模式云数据仓库+实时分析-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13869&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771366%3Futm_content%3Dg_1000198212%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-Serverless-对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-云原生时代，应用架构将如何演进？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-05-阿里云数据湖解决方案全面满足数据需求，帮助企业释放数据价值-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13866&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772900%3Futm_content%3Dg_1000197928%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +526,8 @@
 - [2020-11-05-天天说要做性能优化，到底在优化什么？](https://toutiao.io/k/9fxs5uq) ![](assets/new.png)  
 - [2020-11-05-解读云原生基础设施](https://toutiao.io/k/d33fq3m) ![](assets/new.png)  
 - [2020-11-05-Geohash：「附近的人」背后的秘密](https://toutiao.io/k/fb4sqr0) ![](assets/new.png)  
-- [2020-11-05-漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j) ![](assets/new.png)  
 - [2020-11-05-Go-语言中的-gRPC-基础入门](https://toutiao.io/k/62tm9cb) ![](assets/new.png)  
+- [2020-11-05-漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j) ![](assets/new.png)  
 - [2020-11-05-清理镜像库空间的一个思路](https://toutiao.io/k/91ajl45) ![](assets/new.png)  
 - [2020-11-05-再读《重构》](https://toutiao.io/k/fput2x1) ![](assets/new.png)  
 - [2020-11-05-Python-+-Appium-自动化操作微信入门看这一篇就够了](https://toutiao.io/k/plb7dqo) ![](assets/new.png)  
@@ -581,26 +546,26 @@
 </summary>
 
 
-- [2020-11-04-SecWiki安全招聘第40期](https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75) ![](assets/new.png)  
-- [2020-11-04-快来打卡小米AIoT安全峰会!](https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3) ![](assets/new.png)  
-- [2020-11-04-Linux内核eBPF权限提升漏洞通告CVE-2020-27194](https://sec.thief.one/article_content?a_id=3b29e4cf061e52063aab8334b161498b) ![](assets/new.png)  
-- [2020-11-04-我输给了一个-25-岁的男人](https://sec.thief.one/article_content?a_id=d71199b10743353b534ab99e777cf305) ![](assets/new.png)  
-- [2020-11-04-奇安信亮相2020年工业互联网安全成果展-内生安全框架助力实现可防...](https://sec.thief.one/article_content?a_id=ccdc06c7ab09167c16a639837279430d) ![](assets/new.png)  
-- [2020-11-04-挖洞经验-|-价值6k$的星巴克官网账户劫持漏洞](https://sec.thief.one/article_content?a_id=b28d67a804a8c7cb2096003ac813a4b4) ![](assets/new.png)  
-- [2020-11-04-案例|聚焦医疗电子票据改革,护航医疗行业票据业务安全](https://sec.thief.one/article_content?a_id=9fdd2e692f08c48fe8b748190092a848) ![](assets/new.png)  
-- [2020-11-04-【漏洞通告】SaltStack-RCE等高危漏洞通告](https://sec.thief.one/article_content?a_id=3a046d3813101ab1fbe9ce1ed9f11ae3) ![](assets/new.png)  
-- [2020-11-04-“AI一键脱衣”,又卷土重来了!](https://sec.thief.one/article_content?a_id=41105874ebe049d8128afd8d630f5b3c) ![](assets/new.png)  
-- [2020-11-04-HTTP/2-H2C-请求走私分析](https://sec.thief.one/article_content?a_id=2ab85294e6316283ec88e65a943fe43e) ![](assets/new.png)  
-- [2020-11-04-《安卓高级研修班》线下班,网课12月班开始同步招生!](https://sec.thief.one/article_content?a_id=19b9af3f631fda3e9f9b77324ea1752b) ![](assets/new.png)  
-- [2020-11-04-安全通告|SaltStack多个高危漏洞风险通告CVE-2020-16846/CVE-...](https://sec.thief.one/article_content?a_id=ded5fdc590844325c46bf2802fdccdf7) ![](assets/new.png)  
-- [2020-11-04-PWN从入门到放弃三:来实际操作吧!](https://sec.thief.one/article_content?a_id=d0f095aa943e3956083469660950a089) ![](assets/new.png)  
-- [2020-11-04-大家好,我是Tony,始于颜值,终于才华,永葆赤子之心!](https://sec.thief.one/article_content?a_id=1d4c978958a2282a22816c3051a1931e) ![](assets/new.png)  
-- [2020-11-04-安全众测第四期-额外奖励拿不停!](https://sec.thief.one/article_content?a_id=fe90c2dc335a5dedaee6743b00d231e4) ![](assets/new.png)  
-- [2020-11-04-如何成为一名优秀的网络工程师?](https://sec.thief.one/article_content?a_id=bf9d3949efeb5a4a89053b8c1ed7f14f) ![](assets/new.png)  
-- [2020-11-04-Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=142cf1298ca7712a8826b3c6db3c381b) ![](assets/new.png)  
-- [2020-11-04-美国大选下的APT攻击:Kimsuky以选举结果预测为诱饵的攻击活动分析](https://sec.thief.one/article_content?a_id=eb0ed357571fbdbc0e275eddee19f48d) ![](assets/new.png)  
-- [2020-11-04-Coinbase以及Gemini等交易所联合打击贩卖人口](https://sec.thief.one/article_content?a_id=45abacb97fc562020e1730ee24966c26) ![](assets/new.png)  
-- [2020-11-04-【视频】|-Python:作业题](https://sec.thief.one/article_content?a_id=87c6e42bfbd099080e09b5f67abd7267) ![](assets/new.png)  
+- [2020-11-05-SecWiki安全招聘第41期](https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa) ![](assets/new.png)  
+- [2020-11-05-待办提醒|12月12日-ByteCTF-决赛来了!](https://sec.thief.one/article_content?a_id=aef02f011617c0a90f935428548dbd03) ![](assets/new.png)  
+- [2020-11-05-勒索软件组织Maze宣布金盆洗手,骗子蹭特朗普热度获利25万](https://sec.thief.one/article_content?a_id=9a6dc6390714705a0d590bea6301d96a) ![](assets/new.png)  
+- [2020-11-05-Nuubi:一款功能强大的信息收集&网络侦查扫描工具](https://sec.thief.one/article_content?a_id=0c5950324b94a9b048cab53c88611051) ![](assets/new.png)  
+- [2020-11-05-处理公告丨2020年10月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=51697ff04437991b0d2cdc5941f33830) ![](assets/new.png)  
+- [2020-11-05-【高级持续性威胁追踪】Weblogic漏洞最新情报:H2Miner双杀操作系...](https://sec.thief.one/article_content?a_id=cdfb97199198331d31627370b38556bc) ![](assets/new.png)  
+- [2020-11-05-​线上直播沙龙-是德科技站,参与即有机会赢取大奖哦!](https://sec.thief.one/article_content?a_id=0f5dc502afcd918ca26804a8f5b52925) ![](assets/new.png)  
+- [2020-11-05-国家网信办集中整治网络“有偿删帖”“软色情”问题](https://sec.thief.one/article_content?a_id=6ec769977b4201d6adbd39c1b79d5045) ![](assets/new.png)  
+- [2020-11-05-倒计时3天-|-绿盟科技与你相约蓉城,共话等保](https://sec.thief.one/article_content?a_id=3b52ed10af204cdb1023b03f9580a872) ![](assets/new.png)  
+- [2020-11-05-2020年10月份奖励公告](https://sec.thief.one/article_content?a_id=9bc65f15f330910dafd6ce7b9572e3d6) ![](assets/new.png)  
+- [2020-11-05-安利一个小众又高薪的职业!](https://sec.thief.one/article_content?a_id=bbfd4a95557f5b628919cb625f1fec2f) ![](assets/new.png)  
+- [2020-11-05-干货|安全技能提升可以有多野?文末有福利](https://sec.thief.one/article_content?a_id=4ef49dc962d9aedc320405389ffcdc66) ![](assets/new.png)  
+- [2020-11-05-银行业安全运营平台的建设与思考](https://sec.thief.one/article_content?a_id=5480feed51d2e77aa76b7908cdf38c95) ![](assets/new.png)  
+- [2020-11-05-信息安全漏洞周报2020年第42期](https://sec.thief.one/article_content?a_id=e9f01e7e498b6d9bee6171e0fac0b06c) ![](assets/new.png)  
+- [2020-11-05-金融信息黑产依旧猖獗:银行如何从源头堵住信息安全缺口?](https://sec.thief.one/article_content?a_id=c56141e3367072c19743c2a517b7b0c6) ![](assets/new.png)  
+- [2020-11-05-百度2020网络黑灰产犯罪研究报告下载](https://sec.thief.one/article_content?a_id=99bc05be3353e09992544aa4120d365e) ![](assets/new.png)  
+- [2020-11-05-以太坊手续费随着DeFi市场冷却而下降](https://sec.thief.one/article_content?a_id=b825aad05911ef312f8266b381ae9eec) ![](assets/new.png)  
+- [2020-11-05-11月5日币圈早内参--BTC突破14200-以太坊2.0即将发布](https://sec.thief.one/article_content?a_id=237532fa7cee459e215f7c81da7f63c9) ![](assets/new.png)  
+- [2020-11-05-36岁过上躺赢人生,拥有4套房产,年收入千万,我过上好日子的秘诀...](https://sec.thief.one/article_content?a_id=7ab74f1ad9d85eec87a99f42af5c49f5) ![](assets/new.png)  
+- [2020-11-05-等保2.0-|-定级指南](https://sec.thief.one/article_content?a_id=19d7af79bee04ef25fb91a5463576b01) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

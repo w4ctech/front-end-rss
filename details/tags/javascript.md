@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-05 10:47:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 11:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -10,8 +10,6 @@
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [2020-11-04-别光知道用console.log调试了，快来试试这些高效的调试方法！](https://juejin.im/post/6891427703249977352) 
 - [2020-11-05-JavaScript-各异步方式比较](https://toutiao.io/k/0rlpbvu) 
 - [2020-11-04-JavaScript函数式编程,“香”吗?](https://sec.thief.one/article_content?a_id=296f1bc9ca76988dbfae185439be2a1f) 
-- [2020-11-03-CVE-2020-14882-eblogic-Console远程代码执行漏洞复现豪华版](https://sec.thief.one/article_content?a_id=9c77a7b97377bb3eba4bdc13f279bcbd) 
-- [2020-11-02-漏洞风险提示-|-WebLogic-Console-权限认证绕过漏洞-CVE-2020-14750](https://sec.thief.one/article_content?a_id=0c91d61523022e140bfcb85144a02546) 
-- [2020-11-02-学习强国:工业互联网攻击事件频发-安全建设亟须从“零散”走向“全...](https://sec.thief.one/article_content?a_id=fdb70f7865f7659ee19d316d9f52383c) 

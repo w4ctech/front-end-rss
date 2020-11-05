@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-05 10:47:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 11:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,7 +8,18 @@
 
 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2020-11-05-QTabWidget-如何把标签页放在左侧](https://www.v2ex.com/t/722084) 
+- [2020-11-04-译|浏览器-Web-History-API-的应用](https://juejin.im/post/6891500768973553672) 
+- [2020-11-05-SecWiki安全招聘第41期](https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa) 
+- [2020-11-05-处理公告丨2020年10月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=51697ff04437991b0d2cdc5941f33830) 
+- [2020-11-05-干货|安全技能提升可以有多野?文末有福利](https://sec.thief.one/article_content?a_id=4ef49dc962d9aedc320405389ffcdc66) 
+- [2020-11-05-银行业安全运营平台的建设与思考](https://sec.thief.one/article_content?a_id=5480feed51d2e77aa76b7908cdf38c95) 
+- [2020-11-05-信息安全漏洞周报2020年第42期](https://sec.thief.one/article_content?a_id=e9f01e7e498b6d9bee6171e0fac0b06c) 
+- [2020-11-05-金融信息黑产依旧猖獗:银行如何从源头堵住信息安全缺口?](https://sec.thief.one/article_content?a_id=c56141e3367072c19743c2a517b7b0c6) 
+- [2020-11-05-【安全风险通告】SaltStack漏洞搭配可远程命令执行,SaltStack多个...](https://sec.thief.one/article_content?a_id=c584129ebc6a3701564ac743adb4340d) 
+- [2020-11-05-【报名开启】2020京麒网络安全大会即将召开,5大亮点抢鲜看!](https://sec.thief.one/article_content?a_id=b69764fca9f98a9214b1c7d95b393888) 
+- [2020-11-05-中国移动等发布《5G+工业互联网安全白皮书》-附下载](https://sec.thief.one/article_content?a_id=189dfb3c2b785ff092066a7d2f01f425) 
+- [2020-11-05-web-安全核心防御机制](https://sec.thief.one/article_content?a_id=0cce5777fa73acc4db6f112c76b1d58a) 
+- [2020-11-04-【安全圈】瑞典保险公司Folksa近百万客户信息流入Facebook等社交...](https://sec.thief.one/article_content?a_id=c1d9279bf7eb71c284d55078342a0023) 
 - [2020-11-04-SecWiki安全招聘第40期](https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75) 
 - [2020-11-04-快来打卡小米AIoT安全峰会!](https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3) 
 - [2020-11-04-奇安信亮相2020年工业互联网安全成果展-内生安全框架助力实现可防...](https://sec.thief.one/article_content?a_id=ccdc06c7ab09167c16a639837279430d) 
@@ -29,11 +40,3 @@
 - [2020-11-03-Hi,美团SRC向你发来一封小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=01f7495b044d7ad5a72a72a897e8f6bc) 
 - [2020-11-03-读懂《网络安全审查办法》,绿盟科技帮你划重点](https://sec.thief.one/article_content?a_id=8a49936194aee1cd3f90fd7af929c9e2) 
 - [2020-11-03-Hi,你有一封第四届小米AIoT安全峰会邀请函](https://sec.thief.one/article_content?a_id=415c7cb46f5c86c9b334d2e6826995be) 
-- [2020-11-03-每日安全动态推送11-03](https://sec.thief.one/article_content?a_id=be3e83b78eb13d11ea2d9ba40114d8cf) 
-- [2020-11-03-国舜股份入选安全牛“2020中国网络安全企业100强”](https://sec.thief.one/article_content?a_id=6dbc223b6024919326cc5a30cb422639) 
-- [2020-11-03-安全牛《2020中国网络安全企业100强报告》发布](https://sec.thief.one/article_content?a_id=a43849da5e36cbe060a8a0ddd0e1f0eb) 
-- [2020-11-02-转:精彩回顾|明湖论剑网络安全沙龙及PPT分享](https://sec.thief.one/article_content?a_id=4a9421e74e33413672ddd357a1c40a8f) 
-- [2020-11-02-【安全圈】日本核监管局发现未授权访问,已关闭了电子邮件系统](https://sec.thief.one/article_content?a_id=6f36c20dd036ee11e5bc544045f6c362) 
-- [2020-11-02-首届中国I2S峰会暨工业互联网安全大赛-在南通成功召开](https://sec.thief.one/article_content?a_id=64dc487d9162e1fed08d9e22a147496b) 
-- [2020-11-02-【安全风险通告】WebLogic高危漏洞又被绕过,Oracle-WebLogic-...](https://sec.thief.one/article_content?a_id=e8416cc8253484bcc9a6c629305fdb97) 
-- [2020-11-02-招聘-|-腾讯安全专家咨询中心人才招募令](https://sec.thief.one/article_content?a_id=412eba2d561b19cab9e9387c907dc2b4) 

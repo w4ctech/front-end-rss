@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-05 01:21:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 01:28:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,11 +7,6 @@
 
 
 
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) 
-- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
-- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
-- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
-- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-04-【视频】|-Python:作业题](https://sec.thief.one/article_content?a_id=87c6e42bfbd099080e09b5f67abd7267) 
 - [2020-11-04-舆论信息操控:特朗普竞选团队持续推送拜登虚假视频](https://sec.thief.one/article_content?a_id=89d87126744d400e11be9403ab73a15d) 
 - [2020-11-03-【视频】|-反奸防谍,较量无声](https://sec.thief.one/article_content?a_id=897714a147ec05d82eb92060c4470f70) 

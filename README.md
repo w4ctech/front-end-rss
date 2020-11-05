@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-05 09:35:26，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-05 09:47:39，:rocket: 更新条数: +208， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -38,8 +38,8 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-11-04-11月4日全国新增新冠28例-本土新疆8例](https://m.caixin.com/m/2020-11-05/101623207.html) ![](assets/new.png)  
-- [2020-11-04-【境内疫情观察】新疆新增8例本土确诊病例（11月4日）](http://m.database.caixin.com/m/2020-11-05/101623339.html) ![](assets/new.png)  
-- [2020-11-04-大流行手记|11月4日：英国利物浦试点全城检测-美国急缺医护人员](https://m.caixin.com/m/2020-11-05/101623212.html) ![](assets/new.png)  
-- [2020-11-03-最新海外疫情：新冠感染超4735万-累计死亡近121万](https://m.caixin.com/m/2020-11-04/101623043.html) ![](assets/new.png)  
-- [2020-11-03-【境内疫情观察】新疆新增116例无症状感染者（11月3日）](http://m.database.caixin.com/m/2020-11-04/101622904.html) ![](assets/new.png)  
-- [2020-11-03-大流行手记|11月3日：WHO提示孕妇幼儿流感风险-美确诊选民可现场投票](https://m.caixin.com/m/2020-11-04/101622791.html) ![](assets/new.png)  
-- [2020-11-02-香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html) ![](assets/new.png)  
-- [2020-11-02-新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html) ![](assets/new.png)  
-- [2020-11-02-【境内疫情观察】全国新增44例境外输入病例（11月2日）](http://m.database.caixin.com/m/2020-11-03/101622339.html) ![](assets/new.png)  
-- [2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) ![](assets/new.png)  
-- [2020-11-01-【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html) ![](assets/new.png)  
-- [2020-11-01-大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html) ![](assets/new.png)  
-- [2020-10-31-【境内疫情观察】新疆新增61例无症状感染者（10月31日）](http://m.database.caixin.com/m/2020-11-01/101621241.html) ![](assets/new.png)  
-- [2020-10-31-大流行手记|10月31日：英国多地调高警戒级别-德国医疗资源吃紧](https://m.caixin.com/m/2020-11-01/101621213.html) ![](assets/new.png)  
-- [2020-10-30-新疆新增无症状感染者61例](https://m.caixin.com/m/2020-10-31/101621169.html) ![](assets/new.png)  
-- [2020-10-30-最新封面报道之二|新冠疫苗紧急使用扩面](http://m.weekly.caixin.com/m/2020-10-31/101620912.html) ![](assets/new.png)  
-- [2020-10-30-【境内疫情观察】新疆新增6例本土确诊病例（10月30日）](http://m.database.caixin.com/m/2020-10-31/101621097.html) ![](assets/new.png)  
-- [2020-10-30-大流行手记|10月30日：应战第二波疫情-欧盟拨2.2亿助患者跨国治疗](https://m.caixin.com/m/2020-10-31/101620986.html) ![](assets/new.png)  
-- [2020-10-30-轻症新冠也会出现长期症状-报告指诊断标准不明影响治疗](https://m.caixin.com/m/2020-10-31/101621117.html) ![](assets/new.png)  
-- [2020-10-30-诺奖得主文卡：新冠疫苗和药物的研发应该并重](https://m.caixin.com/m/2020-10-31/101621180.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -355,16 +335,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,26 +346,6 @@
 </summary>
 
 
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +503,6 @@
 </summary>
 
 
-- [2020-11-05-作为前端，下周要给后端同事做分享，分享点什么好呢](https://www.v2ex.com/t/722111) ![](assets/new.png)  
-- [2020-11-05-Worktile-旗下智能化研发管理工具-PingCode-宣布-25-人以下免费](https://www.v2ex.com/t/722108) ![](assets/new.png)  
-- [2020-11-05-北京-金色财经-20k-40k-招聘资深-Python-工程师](https://www.v2ex.com/t/722107) ![](assets/new.png)  
-- [2020-11-05-tagfmt-库，用来对齐-go-语言的-struct-tag-字段](https://www.v2ex.com/t/722104) ![](assets/new.png)  
-- [2020-11-05-中科软上海智慧金融事业部开发可以去吗？](https://www.v2ex.com/t/722103) ![](assets/new.png)  
-- [2020-11-05-Telegraf](https://www.v2ex.com/t/722102) ![](assets/new.png)  
-- [2020-11-05-一直好奇，电商数据分析软件里的数据从哪里来的？](https://www.v2ex.com/t/722101) ![](assets/new.png)  
-- [2020-11-05-百度内推-社招北京-ACG-通用技术服务部（架构、前端、交付）欢迎投简历](https://www.v2ex.com/t/722100) ![](assets/new.png)  
-- [2020-11-05-面试遇到一道题，没有思路，大家有什么意思](https://www.v2ex.com/t/722099) ![](assets/new.png)  
-- [2020-11-05-老哥们,干咱们这一行,学历重要吗](https://www.v2ex.com/t/722097) ![](assets/new.png)  
-- [2020-11-05-朋友石景山古城房子转租](https://www.v2ex.com/t/722096) ![](assets/new.png)  
-- [2020-11-05-北京-金色财经-20k-40k-招聘-Python-工程师](https://www.v2ex.com/t/722095) ![](assets/new.png)  
-- [2020-11-05-苹果官网工具介绍](https://www.v2ex.com/t/722094) ![](assets/new.png)  
-- [2020-11-05-关于-iOS14-的一些问题](https://www.v2ex.com/t/722093) ![](assets/new.png)  
-- [2020-11-05-想问下周末有什么比较小众但惬意的溜娃圣地吗？](https://www.v2ex.com/t/722092) ![](assets/new.png)  
-- [2020-11-05-云盘你们用什么?-nextcloud?](https://www.v2ex.com/t/722091) ![](assets/new.png)  
-- [2020-11-05-<求助>疫情期间，房贷延期，竟然收罚金??](https://www.v2ex.com/t/722090) ![](assets/new.png)  
-- [2020-11-05-『杭州』Dashbase-DevOps-偏运维-弹性无加班-真-湾区公司国内研发团队](https://www.v2ex.com/t/722089) ![](assets/new.png)  
-- [2020-11-05-求问怎么能让我网站的谷歌广告-在微信小程序加载的时候不显示？？](https://www.v2ex.com/t/722088) ![](assets/new.png)  
-- [2020-11-05-TouchBar-如何切歌？](https://www.v2ex.com/t/722087) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

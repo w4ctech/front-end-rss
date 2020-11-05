@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-05 23:20:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-05 23:35:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,11 +122,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-05-哥伦比亚确诊病例逾111万-民众对感染新冠肺炎的担忧不断增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8M28F9VPWrgHC3Zl5TZl201106&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-05-阿联酋新增1289例新冠肺炎确诊病例-累计确诊138599例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8HMVL9MdoUDSUurNcVyC201105&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-05-香港新增7例新冠肺炎确诊病例-累计确诊5355例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjQYq7YLz2loi8GGwfq8201105&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-05-​德国新冠肺炎确诊病例新增19990例-累计确诊597583例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisjr2idIfy5eKmGwIZpgj201105&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-05-意大利罗马市长拉吉感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8sUfFZWexEzi8nupUnDk201105&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-05-自治区新冠肺炎疫情联防联控应急演练在拉萨举办](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html) 
 - [【阮一峰的网络日志】2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
 - [【凹凸实验室】2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) 
 - [【安全热点】2020-11-05-面向对象:内心渴望一份美好的情感,可以一起看日出日落携手共度一生](https://sec.thief.one/article_content?a_id=065b28e149f0a8364416ea3d5b0396b6) 

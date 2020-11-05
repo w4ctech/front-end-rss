@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-05 09:47:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 10:04:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-11-05-浅析云控平台画面传输的视频流方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13884&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777591%3Futm_content%3Dg_1000199588%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-04-【视频】|-Python:作业题](https://sec.thief.one/article_content?a_id=87c6e42bfbd099080e09b5f67abd7267) 
 - [2020-11-04-舆论信息操控:特朗普竞选团队持续推送拜登虚假视频](https://sec.thief.one/article_content?a_id=89d87126744d400e11be9403ab73a15d) 
 - [2020-11-03-【视频】|-反奸防谍,较量无声](https://sec.thief.one/article_content?a_id=897714a147ec05d82eb92060c4470f70) 

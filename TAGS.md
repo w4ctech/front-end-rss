@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-05 15:35:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 15:47:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,6 @@
 
 
 
-- [【V2EX】react-useEffect-里面的计数器，如何在达到指定数字后，停止下来？](https://www.v2ex.com/t/722183)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -56,11 +55,9 @@
 
 
 
-- [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [【掘金前端】那个忙了一夜的Vue3动画很好，就是太短了](https://juejin.im/post/6891640356543627278)
 - [【掘金前端】从零手写简易Vue3（一）——-crateApp-&-mount](https://juejin.im/post/6891589578008821767)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
-- [【V2EX】Vue-侦听器的语法?](https://www.v2ex.com/t/722165)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -179,26 +176,20 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】香港新冠超级传播事件启示：19%病例或成防疫关键](https://m.caixin.com/m/2020-09-22/101608361.html)
-- [【武汉肺炎防疫全纪录(财新网)】【图集】韩国首尔南大门市场现新冠聚集性感染事件](http://m.photos.caixin.com/m/2020-08-11/101591137.html)
-- [【武汉肺炎防疫全纪录(财新网)】北京东城警方通报“武汉刑满释放人员黄某英进京事件”](http://m.china.caixin.com/m/2020-03-22/101532374.html)
-- [【武汉肺炎防疫全纪录(财新网)】研究：酶切位点插入事件非独有-新冠病毒源于自然重组](http://m.science.caixin.com/m/2020-03-10/101526576.html)
-- [【武汉肺炎防疫全纪录(财新网)】山东任城监狱疫情事件调查结果公布-12人被查最高正厅](http://m.china.caixin.com/m/2020-03-04/101524053.html)
-- [【武汉肺炎防疫全纪录(财新网)】刑满释放者自汉返京确诊事件续：湖北司法厅长等16人受处分](http://m.china.caixin.com/m/2020-03-02/101523043.html)
-- [【武汉肺炎防疫全纪录(财新网)】联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html)
-- [【武汉肺炎防疫全纪录(财新网)】【聚焦】世卫组织评估和应对“国际关注的突发公共卫生事件”的相关要求](http://m.opinion.caixin.com/m/2020-01-31/101509667.html)
-- [【武汉肺炎防疫全纪录(财新网)】WHO总干事宣布新冠疫情为国际公卫突发事件的讲话（全文）](http://m.china.caixin.com/m/2020-01-31/101509662.html)
-- [【武汉肺炎防疫全纪录(财新网)】世卫宣布新冠疫情为国际突发公卫事件-不主张对贸易和旅行设限](http://m.international.caixin.com/m/2020-01-31/101509655.html)
-- [【武汉肺炎防疫全纪录(财新网)】WHO将再次讨论新冠疫情是否构成国际突发公卫事件](http://m.international.caixin.com/m/2020-01-30/101509445.html)
-- [【武汉肺炎防疫全纪录(财新网)】中国内地31省份全部启动突发公共卫生事件一级响应](http://m.china.caixin.com/m/2020-01-29/101509411.html)
-- [【武汉肺炎防疫全纪录(财新网)】全国30省份启动重大突发公共卫生事件一级响应](http://m.china.caixin.com/m/2020-01-25/101508214.html)
-- [【武汉肺炎防疫全纪录(财新网)】WHO决定不将新冠肺炎疫情定性为国际突发公共卫生事件](http://m.international.caixin.com/m/2020-01-24/101507977.html)
-- [【武汉肺炎防疫全纪录(财新网)】上海启动重大突发公共卫生事件一级响应机制](http://m.china.caixin.com/m/2020-01-24/101508100.html)
-- [【武汉肺炎防疫全纪录(财新网)】湖北启动重大突发公共卫生事件Ⅰ级响应](http://m.china.caixin.com/m/2020-01-24/101508062.html)
-- [【武汉肺炎防疫全纪录(财新网)】京沪等14省市启动重大突发公共卫生事件一级响应](http://m.china.caixin.com/m/2020-01-24/101507984.html)
-- [【武汉肺炎防疫全纪录(财新网)】世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](https://m.caixin.com/m/2020-01-23/101507521.html)
-- [【武汉肺炎防疫全纪录(财新网)】如何解读WHO“国际公共卫生紧急事件”](http://m.china.caixin.com/m/2020-01-22/101507340.html)
-- [【武汉肺炎防疫全纪录(财新网)】民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html)
+- [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
+- [【张鑫旭-鑫空间-鑫生活】巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)
+- [【掘金前端】JS系列之-闭包](https://juejin.im/post/6891556562716852237)
+- [【掘金前端】async-函数中使用-await-VS-return-VS-return-await-的异同](https://juejin.im/post/6891547378231279623)
+- [【前端艺术家&&飞冰早报】JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb)
+- [【前端艺术家&&飞冰早报】JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828)
+- [【前端艺术家&&飞冰早报】你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome)
+- [【前端艺术家&&飞冰早报】How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/)
+- [【前端艺术家&&飞冰早报】EHTML:-HTML-Framework-that-allows-you-write-no-JavaScript-code-at-all.](https://guseyn.com/posts/frontend-development-can-and-should-be-simple?v=1.0.173)
+- [【前端艺术家&&飞冰早报】一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175)
+- [【前端艺术家&&飞冰早报】（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b)
+- [【前端艺术家&&飞冰早报】JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56)
+- [【开发者头条】JavaScript-各异步方式比较](https://toutiao.io/k/0rlpbvu)
+- [【安全热点】JavaScript函数式编程,“香”吗?](https://sec.thief.one/article_content?a_id=296f1bc9ca76988dbfae185439be2a1f)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -259,26 +250,11 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】【视频】直击北京核酸检测现场-市民排长队连夜检测](http://m.video.caixin.com/m/2020-06-18/101569116.html)
-- [【武汉肺炎防疫全纪录(财新网)】世卫大会将审议应对新冠疫情决议-习近平视频致辞](http://m.international.caixin.com/m/2020-05-18/101555320.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】清明节10点的武汉](http://m.video.caixin.com/m/2020-04-04/101538967.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：坚持送医院订单的外卖“跑单王”](http://m.video.caixin.com/m/2020-03-24/101533386.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：新冠孕妇生产记](http://m.video.caixin.com/m/2020-03-24/101533377.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：为使病人尽快分流，科学家主动逆行入汉](http://m.video.caixin.com/m/2020-03-24/101533375.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】一个意大利留学生回国后的隔离日记](http://m.video.caixin.com/m/2020-03-19/101530910.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】中国疾控中心专家：-输入性病例不会造成大流行](http://m.video.caixin.com/m/2020-03-18/101530134.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】首都机场加强入境人员管理-新国展成繁忙集散地](http://m.video.caixin.com/m/2020-03-16/101528982.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：方舱医院是他最后的庇护所](http://m.video.caixin.com/m/2020-03-13/101528103.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：为了不出院，他逃了一次核酸检测](http://m.video.caixin.com/m/2020-03-13/101528097.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】记者萧辉：护士的一份热饭让他不再恐惧](http://m.video.caixin.com/m/2020-03-13/101528093.html)
-- [【武汉肺炎防疫全纪录(财新网)】习近平去了武汉！（附视频）](http://m.china.caixin.com/m/2020-03-10/101526295.html)
-- [【武汉肺炎防疫全纪录(财新网)】【音频】疫情前线日志｜我眼中的方舱：爱与痛的交织](http://fm.caixin.com/m/2020-03-10/101526458.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】“冤枉蝙蝠了！”政协委员谈如何科学合理保护和利用野生动物](http://m.video.caixin.com/m/2020-03-10/101526195.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】呼吸危重症专家：新增血清学检测为病情诊断上双保险](http://m.video.caixin.com/m/2020-03-05/101524318.html)
-- [【武汉肺炎防疫全纪录(财新网)】【音频】疫情前线日志｜在武汉拍摄最难忘的三个画面](http://fm.caixin.com/m/2020-03-04/101524009.html)
-- [【武汉肺炎防疫全纪录(财新网)】【音频】财新FM音频故事|帮助149位在武汉的孕产妈妈](http://fm.caixin.com/m/2020-03-03/101523573.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】北京朝阳医院副院长：病人出院复阳不等于复发](http://m.video.caixin.com/m/2020-02-29/101521951.html)
-- [【武汉肺炎防疫全纪录(财新网)】【视频】委员讲堂：众志成城-同心战‘疫’”](http://m.video.caixin.com/m/2020-02-28/101521543.html)
+- [【技术头条】浅析云控平台画面传输的视频流方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13884&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777591%3Futm_content%3Dg_1000199588%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【安全热点】​线上直播沙龙-是德科技站,参与即有机会赢取大奖哦!](https://sec.thief.one/article_content?a_id=0f5dc502afcd918ca26804a8f5b52925)
+- [【安全热点】【视频】|-Python:作业题](https://sec.thief.one/article_content?a_id=87c6e42bfbd099080e09b5f67abd7267)
+- [【安全热点】舆论信息操控:特朗普竞选团队持续推送拜登虚假视频](https://sec.thief.one/article_content?a_id=89d87126744d400e11be9403ab73a15d)
+- [【安全热点】【视频】|-反奸防谍,较量无声](https://sec.thief.one/article_content?a_id=897714a147ec05d82eb92060c4470f70)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -295,9 +271,6 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】天天说要做性能优化，到底在优化什么？](https://toutiao.io/k/9fxs5uq)
 - [【开发者头条】漫谈分布式系统（二十二）：自适应的优化](https://toutiao.io/k/8me5e0j)
@@ -317,26 +290,26 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月24日：疫情威胁全球粮食安全-美国新增病例增势趋缓](https://m.caixin.com/m/2020-08-25/101596567.html)
-- [【武汉肺炎防疫全纪录(财新网)】非洲新冠疫情叠加蝗灾-2000万人面临粮食安全威胁](http://m.science.caixin.com/m/2020-04-22/101545698.html)
-- [【武汉肺炎防疫全纪录(财新网)】科技部：疫苗研发加快推进-确保安全性](http://m.china.caixin.com/m/2020-04-14/101542545.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://m.china.caixin.com/m/2020-04-13/101541775.html)
-- [【武汉肺炎防疫全纪录(财新网)】崔天凯：只要有一国还有疫情，就没有人是安全的](http://m.international.caixin.com/m/2020-04-12/101541606.html)
-- [【武汉肺炎防疫全纪录(财新网)】非洲确诊病例破万-粮食安全风险高企](http://m.international.caixin.com/m/2020-04-09/101540248.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](https://m.caixin.com/m/2020-04-07/101539735.html)
-- [【武汉肺炎防疫全纪录(财新网)】纽约市近半确诊者未满45岁-特朗普明确“先安全后经济”](http://m.international.caixin.com/m/2020-03-28/101535354.html)
-- [【武汉肺炎防疫全纪录(财新网)】泰国暂停鸡蛋出口-疫情当下粮食安全受关注](http://m.china.caixin.com/m/2020-03-27/101535032.html)
-- [【武汉肺炎防疫全纪录(财新网)】美新冠死亡病例破千-美专家呼吁取消对华关税保障医护安全](http://m.international.caixin.com/m/2020-03-26/101534192.html)
-- [【武汉肺炎防疫全纪录(财新网)】中英领导人通话-约翰逊称尽力照顾留学生等中国公民的健康安全](http://m.international.caixin.com/m/2020-03-24/101532958.html)
-- [【武汉肺炎防疫全纪录(财新网)】湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html)
-- [【武汉肺炎防疫全纪录(财新网)】马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html)
-- [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】alienware-a51m-r2-i9-2080super-4k-细节](https://www.v2ex.com/t/722175)
 - [【安全热点】SecWiki安全招聘第41期](https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa)
 - [【安全热点】处理公告丨2020年10月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=51697ff04437991b0d2cdc5941f33830)
 - [【安全热点】干货|安全技能提升可以有多野?文末有福利](https://sec.thief.one/article_content?a_id=4ef49dc962d9aedc320405389ffcdc66)
+- [【安全热点】银行业安全运营平台的建设与思考](https://sec.thief.one/article_content?a_id=5480feed51d2e77aa76b7908cdf38c95)
+- [【安全热点】信息安全漏洞周报2020年第42期](https://sec.thief.one/article_content?a_id=e9f01e7e498b6d9bee6171e0fac0b06c)
+- [【安全热点】金融信息黑产依旧猖獗:银行如何从源头堵住信息安全缺口?](https://sec.thief.one/article_content?a_id=c56141e3367072c19743c2a517b7b0c6)
+- [【安全热点】【安全风险通告】SaltStack漏洞搭配可远程命令执行,SaltStack多个...](https://sec.thief.one/article_content?a_id=c584129ebc6a3701564ac743adb4340d)
+- [【安全热点】【报名开启】2020京麒网络安全大会即将召开,5大亮点抢鲜看!](https://sec.thief.one/article_content?a_id=b69764fca9f98a9214b1c7d95b393888)
+- [【安全热点】中国移动等发布《5G+工业互联网安全白皮书》-附下载](https://sec.thief.one/article_content?a_id=189dfb3c2b785ff092066a7d2f01f425)
+- [【安全热点】web-安全核心防御机制](https://sec.thief.one/article_content?a_id=0cce5777fa73acc4db6f112c76b1d58a)
+- [【安全热点】【安全圈】瑞典保险公司Folksa近百万客户信息流入Facebook等社交...](https://sec.thief.one/article_content?a_id=c1d9279bf7eb71c284d55078342a0023)
+- [【安全热点】SecWiki安全招聘第40期](https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75)
+- [【安全热点】快来打卡小米AIoT安全峰会!](https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3)
+- [【安全热点】奇安信亮相2020年工业互联网安全成果展-内生安全框架助力实现可防...](https://sec.thief.one/article_content?a_id=ccdc06c7ab09167c16a639837279430d)
+- [【安全热点】案例|聚焦医疗电子票据改革,护航医疗行业票据业务安全](https://sec.thief.one/article_content?a_id=9fdd2e692f08c48fe8b748190092a848)
+- [【安全热点】HTTP/2-H2C-请求走私分析](https://sec.thief.one/article_content?a_id=2ab85294e6316283ec88e65a943fe43e)
+- [【安全热点】安全通告|SaltStack多个高危漏洞风险通告CVE-2020-16846/CVE-...](https://sec.thief.one/article_content?a_id=ded5fdc590844325c46bf2802fdccdf7)
+- [【安全热点】安全众测第四期-额外奖励拿不停!](https://sec.thief.one/article_content?a_id=fe90c2dc335a5dedaee6743b00d231e4)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -386,6 +359,7 @@
 
 
 
+- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -402,11 +376,8 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
-- [【V2EX】上海-华为-OD-招聘](https://www.v2ex.com/t/722170)
-- [【V2EX】抖音/火山招聘-服务端技术负责人-工程质量方向（北京）](https://www.v2ex.com/t/722164)
-- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -439,26 +410,10 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】青岛2名装卸工人感染新冠肺炎-属无症状感染者](http://m.china.caixin.com/m/2020-09-25/101609353.html)
-- [【武汉肺炎防疫全纪录(财新网)】全国抗击新冠肺炎疫情表彰大会举行-习近平颁授勋章奖章并讲话](http://m.china.caixin.com/m/2020-09-08/101602614.html)
-- [【武汉肺炎防疫全纪录(财新网)】新型冠状病毒肺炎大事记（2020年9月1日—今）](https://m.caixin.com/m/2020-09-01/101609024.html)
-- [【武汉肺炎防疫全纪录(财新网)】广东陆丰发现1例新冠肺炎确诊病例，为深圳超市员工](https://m.caixin.com/m/2020-08-14/101592985.html)
-- [【武汉肺炎防疫全纪录(财新网)】【图集】香港一学校学生确诊新冠肺炎-清洁人员进行消毒](http://m.photos.caixin.com/m/2020-07-08/101576879.html)
-- [【武汉肺炎防疫全纪录(财新网)】新冠肺炎疫情低风险地区防护指南修订公布](https://m.caixin.com/m/2020-06-18/101569233.html)
-- [【武汉肺炎防疫全纪录(财新网)】北京西城区新增1例新冠肺炎确诊病例](http://m.china.caixin.com/m/2020-06-11/101565962.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月26日：武汉患者清零，如何理解“常阳”？](http://m.china.caixin.com/m/2020-04-27/101547425.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月25日：最后一批援鄂重症专家开启归程](http://m.china.caixin.com/m/2020-04-26/101547224.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月24日：中国新冠疫苗研发加速推进](http://m.china.caixin.com/m/2020-04-25/101546995.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月23日:黑龙江和广东本土病例再增](http://m.china.caixin.com/m/2020-04-24/101546432.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月22日：防疫常态化，将大规模检测核酸和抗体](http://m.china.caixin.com/m/2020-04-23/101546002.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月21日：3500万学生复学-多地师生“应检尽检”](http://m.china.caixin.com/m/2020-04-22/101545525.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月20日：朝阳区群众出京或受限](http://m.china.caixin.com/m/2020-04-21/101545069.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月19日：核酸检测，哪些人“愿检尽检”？](http://m.china.caixin.com/m/2020-04-20/101544626.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|-4月17日：订正后武汉粗病亡率升至7.6%](http://m.china.caixin.com/m/2020-04-18/101544179.html)
-- [【武汉肺炎防疫全纪录(财新网)】武汉订正新冠肺炎确诊数据：死亡病例核增1290例累计死亡3869例（附答记者问）](http://m.china.caixin.com/m/2020-04-17/101543724.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月16日：哈尔滨、北京境外输入关联疫情受关注](http://m.china.caixin.com/m/2020-04-17/101543671.html)
-- [【武汉肺炎防疫全纪录(财新网)】政治局会议：分析国内外新冠肺炎疫情防控形势](http://m.china.caixin.com/m/2020-04-17/101544012.html)
-- [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月15日：国家卫健委工作组去了绥芬河](http://m.china.caixin.com/m/2020-04-16/101543196.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】阿联酋新增1289例新冠肺炎确诊病例-累计确诊138599例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8HMVL9MdoUDSUurNcVyC201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】香港新增7例新冠肺炎确诊病例-累计确诊5355例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjQYq7YLz2loi8GGwfq8201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​德国新冠肺炎确诊病例新增19990例-累计确诊597583例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisjr2idIfy5eKmGwIZpgj201105&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】自治区新冠肺炎疫情联防联控应急演练在拉萨举办](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202011/t20201105_181140.html)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -473,26 +428,26 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊86115例-新疆本土新增8例](https://m.caixin.com/m/2020-11-05/101623571.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超4789万-累计死亡近122万](https://m.caixin.com/m/2020-11-05/101623574.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增8例本土确诊病例（11月4日）](http://m.database.caixin.com/m/2020-11-05/101623339.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月4日：英国利物浦试点全城检测-美国急缺医护人员](https://m.caixin.com/m/2020-11-05/101623212.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增116例无症状感染者（11月3日）](http://m.database.caixin.com/m/2020-11-04/101622904.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月3日：WHO提示孕妇幼儿流感风险-美确诊选民可现场投票](https://m.caixin.com/m/2020-11-04/101622791.html)
-- [【武汉肺炎防疫全纪录(财新网)】香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html)
-- [【武汉肺炎防疫全纪录(财新网)】新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增44例境外输入病例（11月2日）](http://m.database.caixin.com/m/2020-11-03/101622339.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增61例无症状感染者（10月31日）](http://m.database.caixin.com/m/2020-11-01/101621241.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月31日：英国多地调高警戒级别-德国医疗资源吃紧](https://m.caixin.com/m/2020-11-01/101621213.html)
-- [【武汉肺炎防疫全纪录(财新网)】新疆新增无症状感染者61例](https://m.caixin.com/m/2020-10-31/101621169.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新封面报道之二|新冠疫苗紧急使用扩面](http://m.weekly.caixin.com/m/2020-10-31/101620912.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增6例本土确诊病例（10月30日）](http://m.database.caixin.com/m/2020-10-31/101621097.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|10月30日：应战第二波疫情-欧盟拨2.2亿助患者跨国治疗](https://m.caixin.com/m/2020-10-31/101620986.html)
-- [【武汉肺炎防疫全纪录(财新网)】轻症新冠也会出现长期症状-报告指诊断标准不明影响治疗](https://m.caixin.com/m/2020-10-31/101621117.html)
-- [【武汉肺炎防疫全纪录(财新网)】诺奖得主文卡：新冠疫苗和药物的研发应该并重](https://m.caixin.com/m/2020-10-31/101621180.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】意大利罗马市长拉吉感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8sUfFZWexEzi8nupUnDk201105&isfromapp=1)
+- [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
+- [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
+- [【阮一峰的网络日志】科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)
+- [【前端艺术家&&飞冰早报】自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560)
+- [【前端艺术家&&飞冰早报】让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b)
+- [【前端艺术家&&飞冰早报】淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ)
+- [【前端艺术家&&飞冰早报】以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3)
+- [【前端艺术家&&飞冰早报】9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320)
+- [【前端艺术家&&飞冰早报】图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648)
+- [【前端艺术家&&飞冰早报】微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796)
+- [【前端艺术家&&飞冰早报】解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598)
+- [【前端艺术家&&飞冰早报】crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221)
+- [【前端艺术家&&飞冰早报】从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f)
+- [【前端艺术家&&飞冰早报】没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b)
+- [【前端艺术家&&飞冰早报】云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742)
+- [【技术头条】解读云原生基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13885&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777599%3Futm_content%3Dg_1000199589%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】2020阿里云双11企业分会场攻略-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13883&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fhome%3Futm_content%3Dg_1000194540%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】白话科普系列——双十一，竟然是一场有“预谋”的DDoS攻击？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13882&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F274347639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】Dubbo-go-源码笔记（一）Server-端开启服务过程-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13881&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777450%3Futm_content%3Dg_1000199587%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

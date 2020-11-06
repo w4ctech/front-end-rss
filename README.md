@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 04:40:46，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 04:47:51，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-06-双十一优衣库优衣库越来越不给力了](https://www.v2ex.com/t/722357) ![](assets/new.png)  
 - [2020-11-06-概率量化投资-招聘：-IT+量化岗-上海](https://www.v2ex.com/t/722356) ![](assets/new.png)  
 - [2020-11-06-iOS14.2-新功能“广播（Intercom）”有什么玩法吗？](https://www.v2ex.com/t/722355) ![](assets/new.png)  
 - [2020-11-06-招募上海驻场-H5-开发，会-uniapp-优先，时间半年以上](https://www.v2ex.com/t/722354) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-06-How-to-Find-a-Big-Black-Friday-Saving-on-Home-Improvement?-Any-Good-Website-to-be-Referred？](https://www.v2ex.com/t/722336) ![](assets/new.png)  
 - [2020-11-06-请问大家的公司,出差的回程机票凌晨到机场,回家的路费报销吗?第二天要求正常上班吗?](https://www.v2ex.com/t/722334) ![](assets/new.png)  
 - [2020-11-06-你们家庭聚餐会-AA-么？](https://www.v2ex.com/t/722333) ![](assets/new.png)  
-- [2020-11-06-请教阿里，-shopee-的-offer-选择。](https://www.v2ex.com/t/722332) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

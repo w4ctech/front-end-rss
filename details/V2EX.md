@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-06 06:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 06:12:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-06-为什么现在有人推荐买-AMD-的-CPU，那么多的兼容问题！](https://www.v2ex.com/t/722387) 
+- [2020-11-06-有没有老用户可选的云服务器产品，不求和新用户价格一样，也别太离谱](https://www.v2ex.com/t/722386) 
 - [2020-11-06-深圳阿里-组内直推-hc-很多，急招，-Java-、前端、测试](https://www.v2ex.com/t/722385) 
 - [2020-11-06-v2-很没存在感的城市-天津](https://www.v2ex.com/t/722384) 
 - [2020-11-06-联通每天都给我发公益短信！](https://www.v2ex.com/t/722383) 
@@ -36,6 +38,3 @@
 - [2020-11-06-这版块儿最近咋都这么平静，出来聊聊投资心得啊](https://www.v2ex.com/t/722344) 
 - [2020-11-06-🔥美资-Coupang-直播上海招聘-后端/iOS/测试-，-急招易进，-965-人性化](https://www.v2ex.com/t/722343) 
 - [2020-11-06-突然好想买台-MacBook-Pro-13](https://www.v2ex.com/t/722340) 
-- [2020-11-06-12-手机壳求推荐，-apple-店里的试了一圈都不太满意。](https://www.v2ex.com/t/722339) 
-- [2020-11-06-Lodash-debounce](https://www.v2ex.com/t/722338) 
-- [2020-11-06-How-to-Find-a-Big-Black-Friday-Saving-on-Home-Improvement?-Any-Good-Website-to-be-Referred？](https://www.v2ex.com/t/722336) 

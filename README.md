@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 06:04:11，:rocket: 更新条数: +3034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 06:12:52，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-06-为什么现在有人推荐买-AMD-的-CPU，那么多的兼容问题！](https://www.v2ex.com/t/722387) ![](assets/new.png)  
+- [2020-11-06-有没有老用户可选的云服务器产品，不求和新用户价格一样，也别太离谱](https://www.v2ex.com/t/722386) ![](assets/new.png)  
 - [2020-11-06-深圳阿里-组内直推-hc-很多，急招，-Java-、前端、测试](https://www.v2ex.com/t/722385) ![](assets/new.png)  
 - [2020-11-06-v2-很没存在感的城市-天津](https://www.v2ex.com/t/722384) ![](assets/new.png)  
 - [2020-11-06-联通每天都给我发公益短信！](https://www.v2ex.com/t/722383) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-06-tws-耳机重连-mbp-的时候会被断开，有人遇到过么](https://www.v2ex.com/t/722359) ![](assets/new.png)  
 - [2020-11-06-双十一优衣库优衣库越来越不给力了](https://www.v2ex.com/t/722357) ![](assets/new.png)  
 - [2020-11-06-概率量化投资-招聘：-IT+量化岗-上海](https://www.v2ex.com/t/722356) ![](assets/new.png)  
-- [2020-11-06-iOS14.2-新功能“广播（Intercom）”有什么玩法吗？](https://www.v2ex.com/t/722355) ![](assets/new.png)  
-- [2020-11-06-招募上海驻场-H5-开发，会-uniapp-优先，时间半年以上](https://www.v2ex.com/t/722354) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

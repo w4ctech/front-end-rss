@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-06 04:07:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 04:15:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-06-mbp-电池健康度从-94%增加到-95%](https://www.v2ex.com/t/722350) 
+- [2020-11-06-哪里可以找到早期-Go-的-Binary？](https://www.v2ex.com/t/722348) 
+- [2020-11-06-主动刹车和自适应巡航真的那么重要吗？](https://www.v2ex.com/t/722347) 
+- [2020-11-06-不登录-MacBook-的-iCloud-就没有办法使用-iPad-作为-side-car（随航）了吗？](https://www.v2ex.com/t/722346) 
 - [2020-11-06-有人知道-parallels-中虚拟的-macOS，怎么禁用-SIP-吗。](https://www.v2ex.com/t/722345) 
 - [2020-11-06-这版块儿最近咋都这么平静，出来聊聊投资心得啊](https://www.v2ex.com/t/722344) 
 - [2020-11-06-🔥美资-Coupang-直播上海招聘-后端/iOS/测试-，-急招易进，-965-人性化](https://www.v2ex.com/t/722343) 
@@ -38,7 +42,3 @@
 - [2020-11-06-有大佬用过-Gitlab-的-CICD-吗](https://www.v2ex.com/t/722305) 
 - [2020-11-06-苏州微软-招聘-前端/Fullstack-工程师](https://www.v2ex.com/t/722304) 
 - [2020-11-06-求推荐便宜稳定的国外云服务器](https://www.v2ex.com/t/722303) 
-- [2020-11-06-Golang-开发的匿名互动在线聊天游戏，大家多提建议](https://www.v2ex.com/t/722301) 
-- [2020-11-06-黑车面经：字模式-II](https://www.v2ex.com/t/722300) 
-- [2020-11-06-很好奇吉列的手动剃须刀效果到底怎么样？有买过的分享下么？](https://www.v2ex.com/t/722299) 
-- [2020-11-06-各位老铁，-win10-64-位有还原软件吗？](https://www.v2ex.com/t/722297) 

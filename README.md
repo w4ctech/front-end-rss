@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 14:35:48，:rocket: 更新条数: +3034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 14:47:41，:rocket: 更新条数: +3001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,26 +533,6 @@
 </summary>
 
 
-- [2020-11-06-几个华为云名额，感兴趣可以看下](https://www.v2ex.com/t/722555) ![](assets/new.png)  
-- [2020-11-06-五险一金最近给五险一金计算器加了个小功能](https://www.v2ex.com/t/722554) ![](assets/new.png)  
-- [2020-11-06-关于自定义域名邮箱-问一下大家都用的哪个邮局系统啊？](https://www.v2ex.com/t/722552) ![](assets/new.png)  
-- [2020-11-06-@Livid-你猜我发现了什么图片！](https://www.v2ex.com/t/722551) ![](assets/new.png)  
-- [2020-11-06-网上怎么看电视直播？](https://www.v2ex.com/t/722550) ![](assets/new.png)  
-- [2020-11-06-爱奇艺+京东-PLUS-年卡-=-104-元](https://www.v2ex.com/t/722549) ![](assets/new.png)  
-- [2020-11-06-关于计算日期的问题可能有点弱智了....](https://www.v2ex.com/t/722548) ![](assets/new.png)  
-- [2020-11-06-不是，-12pm-这么难抢的吗。](https://www.v2ex.com/t/722544) ![](assets/new.png)  
-- [2020-11-06-web-真的好入门吗？](https://www.v2ex.com/t/722543) ![](assets/new.png)  
-- [2020-11-06-<Apple-Store-这就更新完成，一会儿见>-这个消失的规律是什么?](https://www.v2ex.com/t/722542) ![](assets/new.png)  
-- [2020-11-06-买了一台联想-yoga-14s-2021-Intel-版之后](https://www.v2ex.com/t/722540) ![](assets/new.png)  
-- [2020-11-06-很好奇大家周末都是怎么安排的？](https://www.v2ex.com/t/722539) ![](assets/new.png)  
-- [2020-11-06-电脑玩游戏帧数突然变低是什么原因？](https://www.v2ex.com/t/722538) ![](assets/new.png)  
-- [2020-11-06-Java-如何获取方法中的变量](https://www.v2ex.com/t/722537) ![](assets/new.png)  
-- [2020-11-06-Visual-Studio-的黑窗口控制台怎么快速跳转到跟踪语句的所在行?](https://www.v2ex.com/t/722536) ![](assets/new.png)  
-- [2020-11-06-现在买-3900xt-是不是入国军](https://www.v2ex.com/t/722535) ![](assets/new.png)  
-- [2020-11-06-利用-onedrive-搭配腾讯云轻量服务器搭建一个高速网盘](https://www.v2ex.com/t/722534) ![](assets/new.png)  
-- [2020-11-06-腾讯云企业用户今年力度那么大？你怎么看？](https://www.v2ex.com/t/722533) ![](assets/new.png)  
-- [2020-11-06-一直没有勇气买房，承担房贷](https://www.v2ex.com/t/722530) ![](assets/new.png)  
-- [2020-11-06-苹果生态系统里面-OneNote-好不好用，能不能替代印象笔记？](https://www.v2ex.com/t/722528) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -608,8 +588,8 @@
 - [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
 - [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
-- [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
 - [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
 - [2020-11-06-使用-MySQL-主主同步/-Redis-主从复制备份网站](https://toutiao.io/k/gvyssgm) ![](assets/new.png)  
 - [2020-11-06-安信证券数据中台建设历程](https://toutiao.io/k/u2aihwa) ![](assets/new.png)  
 - [2020-11-06-突破自己](https://toutiao.io/k/k1nizxv) ![](assets/new.png)  

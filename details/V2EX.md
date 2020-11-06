@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-06 06:24:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 06:33:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-06-iPhone12-Pro-续航测试..](https://www.v2ex.com/t/722400) 
+- [2020-11-06-ffmpeg-可以把一个音乐批量添加给多个视频吗](https://www.v2ex.com/t/722399) 
+- [2020-11-06-求教-C#-绘图问题](https://www.v2ex.com/t/722397) 
+- [2020-11-06-实验室的网，直接电脑接入网线能到-100Mbps，但是接个路由器，电脑通过路由器有线接入只有-10Mbps-了，无线也是，这是为什么？](https://www.v2ex.com/t/722396) 
 - [2020-11-06-阿里云充值-2000-返了两张-1500-的券能干嘛？](https://www.v2ex.com/t/722393) 
 - [2020-11-06-有晚上冲-mini-的想法，如果选择依旧换新，今晚要付全款还是付减完之后的？](https://www.v2ex.com/t/722391) 
 - [2020-11-06-迫于保号，现在成都移动转什么套餐划算啊？](https://www.v2ex.com/t/722390) 
@@ -33,8 +37,3 @@
 - [2020-11-06-九章算法/LintCode-潜伏-V-站的两个推广员，请你们不要再恶心人了](https://www.v2ex.com/t/722353) 
 - [2020-11-06-新加坡-Shopee-直招-招资深云原生平台开发工程师，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/722352) 
 - [2020-11-06-滴滴出行-急招-Java-服务端开发](https://www.v2ex.com/t/722351) 
-- [2020-11-06-mbp-电池健康度从-94%增加到-95%](https://www.v2ex.com/t/722350) 
-- [2020-11-06-哪里可以找到早期-Go-的-Binary？](https://www.v2ex.com/t/722348) 
-- [2020-11-06-主动刹车和自适应巡航真的那么重要吗？](https://www.v2ex.com/t/722347) 
-- [2020-11-06-不登录-MacBook-的-iCloud-就没有办法使用-iPad-作为-side-car（随航）了吗？](https://www.v2ex.com/t/722346) 
-- [2020-11-06-有人知道-parallels-中虚拟的-macOS，怎么禁用-SIP-吗。](https://www.v2ex.com/t/722345) 

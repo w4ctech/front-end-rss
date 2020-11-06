@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 15:23:48，:rocket: 更新条数: +2981， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 15:32:53，:rocket: 更新条数: +3035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-06-ssh-到服务器,如何在-vim-中将-200-行代码复制到本地剪贴板windows](https://www.v2ex.com/t/722563) ![](assets/new.png)  
+- [2020-11-06-国内有没有可以储存小文件，并且能用-wget-之类下载的免费服务](https://www.v2ex.com/t/722560) ![](assets/new.png)  
+- [2020-11-06-没有抢到-12pm，请问还有什么渠道可以-11-月-28-号前买到？](https://www.v2ex.com/t/722559) ![](assets/new.png)  
+- [2020-11-06-求助，抢-Pro-Max-选择招行分期后下单，一直支付失败](https://www.v2ex.com/t/722558) ![](assets/new.png)  
+- [2020-11-06-求助，换新-iPhone-用自带转移数据迁移功能操作好后，主用中国区-ID-下的-app-之后陆续自动下载下来了，但美区-ID-的一二十个应用全部卡在「加载中」不动，怎么...](https://www.v2ex.com/t/722557) ![](assets/new.png)  
+- [2020-11-06-几个华为云名额，感兴趣可以看下](https://www.v2ex.com/t/722555) ![](assets/new.png)  
+- [2020-11-06-五险一金最近给五险一金计算器加了个小功能](https://www.v2ex.com/t/722554) ![](assets/new.png)  
+- [2020-11-06-关于自定义域名邮箱-问一下大家都用的哪个邮局系统啊？](https://www.v2ex.com/t/722552) ![](assets/new.png)  
+- [2020-11-06-@Livid-你猜我发现了什么图片！](https://www.v2ex.com/t/722551) ![](assets/new.png)  
+- [2020-11-06-网上怎么看电视直播？](https://www.v2ex.com/t/722550) ![](assets/new.png)  
+- [2020-11-06-爱奇艺+京东-PLUS-年卡-=-104-元](https://www.v2ex.com/t/722549) ![](assets/new.png)  
+- [2020-11-06-关于计算日期的问题可能有点弱智了....](https://www.v2ex.com/t/722548) ![](assets/new.png)  
+- [2020-11-06-不是，-12pm-这么难抢的吗。](https://www.v2ex.com/t/722544) ![](assets/new.png)  
+- [2020-11-06-web-真的好入门吗？](https://www.v2ex.com/t/722543) ![](assets/new.png)  
+- [2020-11-06-<Apple-Store-这就更新完成，一会儿见>-这个消失的规律是什么?](https://www.v2ex.com/t/722542) ![](assets/new.png)  
+- [2020-11-06-买了一台联想-yoga-14s-2021-Intel-版之后](https://www.v2ex.com/t/722540) ![](assets/new.png)  
+- [2020-11-06-很好奇大家周末都是怎么安排的？](https://www.v2ex.com/t/722539) ![](assets/new.png)  
+- [2020-11-06-电脑玩游戏帧数突然变低是什么原因？](https://www.v2ex.com/t/722538) ![](assets/new.png)  
+- [2020-11-06-Java-如何获取方法中的变量](https://www.v2ex.com/t/722537) ![](assets/new.png)  
+- [2020-11-06-Visual-Studio-的黑窗口控制台怎么快速跳转到跟踪语句的所在行?](https://www.v2ex.com/t/722536) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -544,6 +564,26 @@
 </summary>
 
 
+- [2020-11-06-玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-智能技术改变淘宝，阿里巴巴首次详解核心商业AI体系-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13890&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777658%3Futm_content%3Dg_1000199924%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-软件交付效能度量——从吞吐量和稳定性开始-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13889&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-measurement-4-key-metrics%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-最IN的云原生架构，阿里云-Serverless-事件总线-EventBridge-重磅发布-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13888&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777639%3Futm_content%3Dg_1000199923%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-移动端堆栈关键行定位的新思路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13887&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777602%3Futm_content%3Dg_1000199922%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13886&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777361%3Futm_content%3Dg_1000199921%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-解读云原生基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13885&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777599%3Futm_content%3Dg_1000199589%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-浅析云控平台画面传输的视频流方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13884&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777591%3Futm_content%3Dg_1000199588%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-2020阿里云双11企业分会场攻略-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13883&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fhome%3Futm_content%3Dg_1000194540%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-白话科普系列——双十一，竟然是一场有“预谋”的DDoS攻击？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13882&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F274347639%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-Dubbo-go-源码笔记（一）Server-端开启服务过程-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13881&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777450%3Futm_content%3Dg_1000199587%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-Flink-State-误用之痛，你中招了吗？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13880&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777445%3Futm_content%3Dg_1000199586%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-数百万台车联网设备同时在线0故障，中瑞集团的云原生探索之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13879&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776621%3Futm_content%3Dg_1000199585%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-阳振坤：OceanBase-数据库七亿-tpmC-的关键技术-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13878&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777436%3Futm_content%3Dg_1000199270%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-关于卫星定位，你想知道的一切-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13877&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776821%3Futm_content%3Dg_1000199269%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-端应用研发进入云原生时代-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13876&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776604%3Futm_content%3Dg_1000199268%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-2020阿里云双11--0.73折起，爆款提前抢大促全攻略-yuque.antfin-inc.com](https://blogread.cn/news/go.php?idItem=13875&url=https%3A%2F%2Fyuque.antfin-inc.com%2Fdocs%2Fshare%2F54142f85-d1dc-4ce7-bb67-74cced8a4077%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-用-Mars-Remote-API-轻松分布式执行-Python-函数-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13874&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776436%3Futm_content%3Dg_1000199267%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-Serverless-X-OpenKruise-部署效率优化之道-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13873&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777277%3Futm_content%3Dg_1000198216%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-06-Tair持久存储系列技术解读-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13872&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776609%3Futm_content%3Dg_1000198215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

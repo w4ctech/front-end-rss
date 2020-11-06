@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 21:19:36，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 21:33:01，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-06-FinTech-社区-招聘：.Net-开发高级工程师-上海](https://www.v2ex.com/t/722580) ![](assets/new.png)  
 - [2020-11-06-文档加密](https://www.v2ex.com/t/722579) ![](assets/new.png)  
 - [2020-11-06-不是说公共-peering-是对方没有义务帮你转发到另一个网么？](https://www.v2ex.com/t/722578) ![](assets/new.png)  
 - [2020-11-06-突然发现自己预约到了-12pm-线下提货，有点懵](https://www.v2ex.com/t/722577) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-06-几个华为云名额，感兴趣可以看下](https://www.v2ex.com/t/722555) ![](assets/new.png)  
 - [2020-11-06-五险一金最近给五险一金计算器加了个小功能](https://www.v2ex.com/t/722554) ![](assets/new.png)  
 - [2020-11-06-关于自定义域名邮箱-问一下大家都用的哪个邮局系统啊？](https://www.v2ex.com/t/722552) ![](assets/new.png)  
-- [2020-11-06-@Livid-你猜我发现了什么图片！](https://www.v2ex.com/t/722551) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

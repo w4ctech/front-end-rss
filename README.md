@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 03:11:24，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 03:21:26，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,17 @@
 </summary>
 
 
+- [2020-11-06-关于大家讨论的-mac-电池快速损耗](https://www.v2ex.com/t/722318) ![](assets/new.png)  
+- [2020-11-06-中国象棋软件自动下棋，主要的编程逻辑是什么？](https://www.v2ex.com/t/722317) ![](assets/new.png)  
+- [2020-11-06-菜鸟问下-ELK、知识图谱、推荐算法相关的应用问题](https://www.v2ex.com/t/722316) ![](assets/new.png)  
+- [2020-11-06-form-表单的每个枚举都要后端返回吗？](https://www.v2ex.com/t/722315) ![](assets/new.png)  
+- [2020-11-06-关于-R7000p-购买的相关问题](https://www.v2ex.com/t/722314) ![](assets/new.png)  
+- [2020-11-06-ios14.2-正式版修复:锁定屏幕中的键盘在您尝试输入密码时可能漏输](https://www.v2ex.com/t/722312) ![](assets/new.png)  
+- [2020-11-06-大家有使用支付宝的安全备忘（钢铁闸）吗？](https://www.v2ex.com/t/722310) ![](assets/new.png)  
+- [2020-11-06-批处理-spring-Batch-到底有必有必要学？](https://www.v2ex.com/t/722309) ![](assets/new.png)  
+- [2020-11-06-f-render-来啦~，基于-ElementUI-的表单设计器，助力流程引擎、各类动态表单系统、表单可视化场景，还不来看看嘛~](https://www.v2ex.com/t/722308) ![](assets/new.png)  
+- [2020-11-06-有感于三个月的项目被砍](https://www.v2ex.com/t/722307) ![](assets/new.png)  
+- [2020-11-06-有大佬用过-Gitlab-的-CICD-吗](https://www.v2ex.com/t/722305) ![](assets/new.png)  
 - [2020-11-06-苏州微软-招聘-前端/Fullstack-工程师](https://www.v2ex.com/t/722304) ![](assets/new.png)  
 - [2020-11-06-求推荐便宜稳定的国外云服务器](https://www.v2ex.com/t/722303) ![](assets/new.png)  
 - [2020-11-06-Golang-开发的匿名互动在线聊天游戏，大家多提建议](https://www.v2ex.com/t/722301) ![](assets/new.png)  
@@ -562,17 +573,6 @@
 - [2020-11-06-有哪些事是有了女朋友之后才知道的？](https://www.v2ex.com/t/722296) ![](assets/new.png)  
 - [2020-11-06-iPhone-11pro-续航尿崩，发热严重](https://www.v2ex.com/t/722295) ![](assets/new.png)  
 - [2020-11-06-要不要在当前时间点入手-mbp13](https://www.v2ex.com/t/722294) ![](assets/new.png)  
-- [2020-11-06-年度迷惑行为大赏，「允许员工自愿降薪」](https://www.v2ex.com/t/722293) ![](assets/new.png)  
-- [2020-11-06-慢读---注重阅读体验的文章收藏管理应用](https://www.v2ex.com/t/722292) ![](assets/new.png)  
-- [2020-11-06-大厂面经高频题第二弹（新增四家公司）](https://www.v2ex.com/t/722291) ![](assets/new.png)  
-- [2020-11-06-油猴脚本怎么写](https://www.v2ex.com/t/722290) ![](assets/new.png)  
-- [2020-11-06-胡子的密度会随年龄增长而增大吗？](https://www.v2ex.com/t/722289) ![](assets/new.png)  
-- [2020-11-06-有跳板机情况下如何打洞？](https://www.v2ex.com/t/722288) ![](assets/new.png)  
-- [2020-11-06-求教，-iPhone-xs-能换大电池和大内存吗，若可以啥渠道靠谱？](https://www.v2ex.com/t/722285) ![](assets/new.png)  
-- [2020-11-06-微信支付从零钱提现需要上传身份证？](https://www.v2ex.com/t/722284) ![](assets/new.png)  
-- [2020-11-06-学-Linux-网络编程，对网络协议的学习有多大帮助](https://www.v2ex.com/t/722283) ![](assets/new.png)  
-- [2020-11-06-北京-算法-医疗行业](https://www.v2ex.com/t/722282) ![](assets/new.png)  
-- [2020-11-06-Apple-Music-用心了，出了个杰伦宇宙专题](https://www.v2ex.com/t/722281) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -621,11 +621,11 @@
 - [2020-11-06-Python-中-Redis-库分布式锁简单分析](https://toutiao.io/k/yr4czdu) ![](assets/new.png)  
 - [2020-11-06-一文说透-“依赖注入”](https://toutiao.io/k/nch71kt) ![](assets/new.png)  
 - [2020-11-06-谈谈线程池](https://toutiao.io/k/9vcp3g2) ![](assets/new.png)  
-- [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
 - [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
+- [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
+- [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
 - [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
 - [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
-- [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
 - [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
 - [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  

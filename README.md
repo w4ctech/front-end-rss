@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 12:15:18，:rocket: 更新条数: +3032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 12:28:13，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,8 +64,9 @@
 </summary>
 
 
-- [2020-11-05-11月5日全国新增新冠36例-本土新疆6例](https://m.caixin.com/m/2020-11-06/101623653.html) ![](assets/new.png)  
+- [2020-11-05-最新疫情：全国新冠累计确诊86151例-新疆本土新增6例](https://m.caixin.com/m/2020-11-06/101624002.html) ![](assets/new.png)  
 - [2020-11-05-两款新冠抗原检测试剂国内首获批-药监局称仅可作补充方法](https://m.caixin.com/m/2020-11-06/101623649.html) ![](assets/new.png)  
+- [2020-11-05-最新海外疫情：新冠感染超4854万-累计死亡近123万](http://m.international.caixin.com/m/2020-11-06/101623992.html) ![](assets/new.png)  
 - [2020-11-05-【境内疫情观察】新疆新增6例本土确诊病例（11月5日）](http://m.database.caixin.com/m/2020-11-06/101623769.html) ![](assets/new.png)  
 - [2020-11-05-大流行手记|11月5日：中国暂停印、英等国人员入境-美国日增病例破10万](https://m.caixin.com/m/2020-11-06/101623677.html) ![](assets/new.png)  
 - [2020-11-04-【境内疫情观察】新疆新增8例本土确诊病例（11月4日）](http://m.database.caixin.com/m/2020-11-05/101623339.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-10-30-新疆新增无症状感染者61例](https://m.caixin.com/m/2020-10-31/101621169.html) ![](assets/new.png)  
 - [2020-10-30-最新封面报道之二|新冠疫苗紧急使用扩面](http://m.weekly.caixin.com/m/2020-10-31/101620912.html) ![](assets/new.png)  
 - [2020-10-30-【境内疫情观察】新疆新增6例本土确诊病例（10月30日）](http://m.database.caixin.com/m/2020-10-31/101621097.html) ![](assets/new.png)  
-- [2020-10-30-大流行手记|10月30日：应战第二波疫情-欧盟拨2.2亿助患者跨国治疗](https://m.caixin.com/m/2020-10-31/101620986.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-06-创建了一个技术交流群，欢迎加入讨论](https://www.v2ex.com/t/722529) ![](assets/new.png)  
+- [2020-11-06-苹果生态系统里面-OneNote-好不好用，能不能替代印象笔记？](https://www.v2ex.com/t/722528) ![](assets/new.png)  
+- [2020-11-06-求-Python-大佬解救](https://www.v2ex.com/t/722527) ![](assets/new.png)  
+- [2020-11-06-借债本身没有错](https://www.v2ex.com/t/722526) ![](assets/new.png)  
+- [2020-11-06-请问有没有多台同局域网电脑下载同一个文件后统一发往一台电脑的软件？](https://www.v2ex.com/t/722525) ![](assets/new.png)  
 - [2020-11-06-迫于海淘被税，去望京报关行自提还需要缴纳-30-服务费吗？](https://www.v2ex.com/t/722524) ![](assets/new.png)  
 - [2020-11-06-迫于受不了隔壁这个回复…晒一下印象笔记的广告频率](https://www.v2ex.com/t/722523) ![](assets/new.png)  
 - [2020-11-06-从-iTunes-恢复-iPhone-后还需要重新下载所有-APP-吗？](https://www.v2ex.com/t/722521) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-06-关于七牛云在-V2EX-持续的-spam-行为](https://www.v2ex.com/t/722504) ![](assets/new.png)  
 - [2020-11-06-Chrome-的接力被-Safari-劫持了！](https://www.v2ex.com/t/722503) ![](assets/new.png)  
 - [2020-11-06-公司要搬家的新办公室，征集一下会议室名字](https://www.v2ex.com/t/722501) ![](assets/new.png)  
-- [2020-11-06-程序中的枚举字段大家用数字还是英文来表示](https://www.v2ex.com/t/722500) ![](assets/new.png)  
-- [2020-11-06-北方人过冬有暖气，南方人靠什么过冬？](https://www.v2ex.com/t/722499) ![](assets/new.png)  
-- [2020-11-06-go-有-能支持-tcp-和-udp-的游戏框架吗？](https://www.v2ex.com/t/722498) ![](assets/new.png)  
-- [2020-11-06-iphone12-的信号真不行，炒股的不适合买](https://www.v2ex.com/t/722497) ![](assets/new.png)  
-- [2020-11-06-来个询问帖，大家更新-ios14.2-了吗？最新的-emoj-表情大家最喜欢哪个啊？](https://www.v2ex.com/t/722494) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

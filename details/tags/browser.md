@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 07:12:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 07:23:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-06-求助-IE-各版本的官方下载链接](https://www.v2ex.com/t/722416) 
 - [2020-11-06-Cookie-中的-path-问题。](https://www.v2ex.com/t/722410) 
 - [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) 
 - [2020-11-05-SecWiki安全招聘第41期](https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa) 

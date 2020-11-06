@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 07:12:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 07:23:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,6 +41,7 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2020-11-06-JVM-标量替换的变量是存在本地变量表中么？](https://www.v2ex.com/t/722412) 
 - [2020-11-06-各位前端-你们都能手写-PromiseA+规范吗-能做到的都是什么水平](https://www.v2ex.com/t/722407) 
 - [2020-11-06-实验室的网，直接电脑接入网线能到-100Mbps，但是接个路由器，电脑通过路由器有线接入只有-10Mbps-了，无线也是，这是为什么？](https://www.v2ex.com/t/722396) 
 - [2020-11-06-如何实现一个文件js超时后就自动跳过？](https://www.v2ex.com/t/722376) 

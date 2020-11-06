@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 07:12:56，:rocket: 更新条数: +3035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 07:23:11，:rocket: 更新条数: +3037， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,9 +533,12 @@
 </summary>
 
 
+- [2020-11-06-感觉-golang-的三方日志库-logrus-真的好方便啊....](https://www.v2ex.com/t/722417) ![](assets/new.png)  
+- [2020-11-06-求助-IE-各版本的官方下载链接](https://www.v2ex.com/t/722416) ![](assets/new.png)  
+- [2020-11-06-设想一下自己未来-5-年、10-年是怎样的？](https://www.v2ex.com/t/722415) ![](assets/new.png)  
 - [2020-11-06-去泳池游泳穿搭求推荐](https://www.v2ex.com/t/722414) ![](assets/new.png)  
 - [2020-11-06-苹果官网这是暂停预售吗？](https://www.v2ex.com/t/722413) ![](assets/new.png)  
-- [2020-11-06-有没有大神能解答一个-JVM-的问题](https://www.v2ex.com/t/722412) ![](assets/new.png)  
+- [2020-11-06-JVM-标量替换的变量是存在本地变量表中么？](https://www.v2ex.com/t/722412) ![](assets/new.png)  
 - [2020-11-06-深圳联通宽带-IPv6-是只给一段-/64-吗？](https://www.v2ex.com/t/722411) ![](assets/new.png)  
 - [2020-11-06-Cookie-中的-path-问题。](https://www.v2ex.com/t/722410) ![](assets/new.png)  
 - [2020-11-06-一张图警醒大家不要找非双休的工作](https://www.v2ex.com/t/722409) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-06-ffmpeg-可以把一个音乐批量添加给多个视频吗](https://www.v2ex.com/t/722399) ![](assets/new.png)  
 - [2020-11-06-求教-C#-绘图问题](https://www.v2ex.com/t/722397) ![](assets/new.png)  
 - [2020-11-06-实验室的网，直接电脑接入网线能到-100Mbps，但是接个路由器，电脑通过路由器有线接入只有-10Mbps-了，无线也是，这是为什么？](https://www.v2ex.com/t/722396) ![](assets/new.png)  
-- [2020-11-06-阿里云充值-2000-返了两张-1500-的券能干嘛？](https://www.v2ex.com/t/722393) ![](assets/new.png)  
-- [2020-11-06-有晚上冲-mini-的想法，如果选择依旧换新，今晚要付全款还是付减完之后的？](https://www.v2ex.com/t/722391) ![](assets/new.png)  
-- [2020-11-06-迫于保号，现在成都移动转什么套餐划算啊？](https://www.v2ex.com/t/722390) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -604,8 +604,8 @@
 - [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
 - [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
 - [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
-- [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
 - [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
+- [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
 - [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
 - [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  

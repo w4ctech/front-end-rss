@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 11:03:57，:rocket: 更新条数: +3034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 11:11:07，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-06-安卓有免费的-NFC-读写卡软件吗？](https://www.v2ex.com/t/722510) ![](assets/new.png)  
+- [2020-11-06-iPhone-SE-也不给耳机和充电器了!](https://www.v2ex.com/t/722509) ![](assets/new.png)  
 - [2020-11-06-想问下，-PHP-的项目中，有没有这样写过代码的？](https://www.v2ex.com/t/722506) ![](assets/new.png)  
 - [2020-11-06-杭州/成都酷家乐招聘高级、资深后端工程师，前端/运维也有-HC~](https://www.v2ex.com/t/722505) ![](assets/new.png)  
 - [2020-11-06-关于七牛云在-V2EX-持续的-spam-行为](https://www.v2ex.com/t/722504) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-06-请教一下，如何从-oracle-把表结构和数据完全迁移到-postgresql](https://www.v2ex.com/t/722481) ![](assets/new.png)  
 - [2020-11-06-django-jsonfield-中的内容是个列表，如何查询某个元素在里面](https://www.v2ex.com/t/722480) ![](assets/new.png)  
 - [2020-11-06-杭州包小盒招聘啦，-缺前端大牛](https://www.v2ex.com/t/722479) ![](assets/new.png)  
-- [2020-11-06-黑色星期五是不是也像国内的-618-和-1111-一样，先涨价然后还有各种复杂的规则，有的没便宜甚至涨价？](https://www.v2ex.com/t/722478) ![](assets/new.png)  
-- [2020-11-06-站内消息通知该如何设计得当呢](https://www.v2ex.com/t/722477) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

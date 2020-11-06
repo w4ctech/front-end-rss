@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 20:47:47，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 21:04:03，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -625,13 +625,13 @@
 - [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
 - [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
 - [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
 - [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
+- [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
 - [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
 - [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
-- [2020-11-06-使用-MySQL-主主同步/-Redis-主从复制备份网站](https://toutiao.io/k/gvyssgm) ![](assets/new.png)  
 - [2020-11-06-安信证券数据中台建设历程](https://toutiao.io/k/u2aihwa) ![](assets/new.png)  
+- [2020-11-06-使用-MySQL-主主同步/-Redis-主从复制备份网站](https://toutiao.io/k/gvyssgm) ![](assets/new.png)  
 - [2020-11-06-突破自己](https://toutiao.io/k/k1nizxv) ![](assets/new.png)  
 - [2020-11-06-happens-before-那些事儿](https://toutiao.io/k/agg3crs) ![](assets/new.png)  
 - [2020-11-06-Lucene-索引文件的读取之-fdx&&fdt&&fdm](https://toutiao.io/k/5rrgpzu) ![](assets/new.png)  

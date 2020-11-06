@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 19:18:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 19:32:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2560,15 +2560,15 @@
 - [2020-11-06-突破自己](https://toutiao.io/k/k1nizxv) 
 - [2020-11-06-happens-before-那些事儿](https://toutiao.io/k/agg3crs) 
 - [2020-11-06-Lucene-索引文件的读取之-fdx&&fdt&&fdm](https://toutiao.io/k/5rrgpzu) 
-- [2020-11-06-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) 
-- [2020-11-06-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
-- [2020-11-06-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
-- [2020-11-06-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) 
+- [2020-11-06-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) 
 - [2020-11-06-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) 
-- [2020-11-06-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
-- [2020-11-06-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) 
+- [2020-11-06-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
 - [2020-11-06-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) 
-- [2020-11-06-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) 
+- [2020-11-06-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) 
+- [2020-11-06-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) 
+- [2020-11-06-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
+- [2020-11-06-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) 
+- [2020-11-06-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) 
 - [2020-11-06-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) 
 - [2020-11-06-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) 
 - [2020-11-06-倒计时2天|绿盟科技在成都等你!](https://sec.thief.one/article_content?a_id=afd5fd88ed40538ac7b89a0538b77abd) 

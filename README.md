@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 04:15:30，:rocket: 更新条数: +3037， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 04:28:17，:rocket: 更新条数: +3000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,26 +533,6 @@
 </summary>
 
 
-- [2020-11-06-mbp-电池健康度从-94%增加到-95%](https://www.v2ex.com/t/722350) ![](assets/new.png)  
-- [2020-11-06-哪里可以找到早期-Go-的-Binary？](https://www.v2ex.com/t/722348) ![](assets/new.png)  
-- [2020-11-06-主动刹车和自适应巡航真的那么重要吗？](https://www.v2ex.com/t/722347) ![](assets/new.png)  
-- [2020-11-06-不登录-MacBook-的-iCloud-就没有办法使用-iPad-作为-side-car（随航）了吗？](https://www.v2ex.com/t/722346) ![](assets/new.png)  
-- [2020-11-06-有人知道-parallels-中虚拟的-macOS，怎么禁用-SIP-吗。](https://www.v2ex.com/t/722345) ![](assets/new.png)  
-- [2020-11-06-这版块儿最近咋都这么平静，出来聊聊投资心得啊](https://www.v2ex.com/t/722344) ![](assets/new.png)  
-- [2020-11-06-🔥美资-Coupang-直播上海招聘-后端/iOS/测试-，-急招易进，-965-人性化](https://www.v2ex.com/t/722343) ![](assets/new.png)  
-- [2020-11-06-突然好想买台-MacBook-Pro-13](https://www.v2ex.com/t/722340) ![](assets/new.png)  
-- [2020-11-06-12-手机壳求推荐，-apple-店里的试了一圈都不太满意。](https://www.v2ex.com/t/722339) ![](assets/new.png)  
-- [2020-11-06-Lodash-debounce](https://www.v2ex.com/t/722338) ![](assets/new.png)  
-- [2020-11-06-How-to-Find-a-Big-Black-Friday-Saving-on-Home-Improvement?-Any-Good-Website-to-be-Referred？](https://www.v2ex.com/t/722336) ![](assets/new.png)  
-- [2020-11-06-请问大家的公司,出差的回程机票凌晨到机场,回家的路费报销吗?第二天要求正常上班吗?](https://www.v2ex.com/t/722334) ![](assets/new.png)  
-- [2020-11-06-你们家庭聚餐会-AA-么？](https://www.v2ex.com/t/722333) ![](assets/new.png)  
-- [2020-11-06-请教阿里，-shopee-的-offer-选择。](https://www.v2ex.com/t/722332) ![](assets/new.png)  
-- [2020-11-06-md,-lz-受不了-csdn-了-，吐槽贴](https://www.v2ex.com/t/722331) ![](assets/new.png)  
-- [2020-11-06-有办法在-Parallels-Desktop-的融合模式里完美交换-Ctrl-和-Windows-键吗](https://www.v2ex.com/t/722330) ![](assets/new.png)  
-- [2020-11-06-百度在线自称HR-在-BOSS-上找我要简历并给我打电话说，你的简历比较合适，但是我们-HC-紧张，需要跟软通签协议，这是什么操作？](https://www.v2ex.com/t/722329) ![](assets/new.png)  
-- [2020-11-06-几百万张图片如何快速拷贝到其他电脑](https://www.v2ex.com/t/722328) ![](assets/new.png)  
-- [2020-11-06-史上最垃圾的服务号，网易严选，一天能推送-10-条广告，还不能设置的那种](https://www.v2ex.com/t/722327) ![](assets/new.png)  
-- [2020-11-06-上班摸鱼的后果，-leetcode-刷题，一道也不会，哭了。](https://www.v2ex.com/t/722326) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,11 +582,11 @@
 - [2020-11-06-一文说透-“依赖注入”](https://toutiao.io/k/nch71kt) ![](assets/new.png)  
 - [2020-11-06-谈谈线程池](https://toutiao.io/k/9vcp3g2) ![](assets/new.png)  
 - [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
-- [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
 - [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
+- [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
 - [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
-- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
+- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
 - [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
 - [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  

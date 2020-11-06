@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-06 04:15:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 04:28:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -57,7 +57,6 @@
 
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
-- [【V2EX】f-render-来啦~，基于-ElementUI-的表单设计器，助力流程引擎、各类动态表单系统、表单可视化场景，还不来看看嘛~](https://www.v2ex.com/t/722308)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -327,10 +326,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】甲方的信息安全工程师可以往-APT-方向去发展吗？](https://www.v2ex.com/t/722324)
-- [【V2EX】v2ex-有做安全的朋友吗](https://www.v2ex.com/t/722321)
-- [【V2EX】大家有使用支付宝的安全备忘（钢铁闸）吗？](https://www.v2ex.com/t/722310)
 - [【开发者头条】如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a)
+- [【安全热点】SecWiki安全招聘第41期](https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa)
+- [【安全热点】处理公告丨2020年10月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=51697ff04437991b0d2cdc5941f33830)
+- [【安全热点】干货|安全技能提升可以有多野?文末有福利](https://sec.thief.one/article_content?a_id=4ef49dc962d9aedc320405389ffcdc66)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -348,8 +347,6 @@
 
 
 - [【掘金前端】前端学数据结构与算法（十一）：看似简单又让人抓狂的二分查找算法](https://juejin.im/post/6891684098457206791)
-- [【V2EX】O365-开车第三年了，-2-个小伙伴下车了。49/y-21-年-12-月到期-telegram：-https://t.me/feb0217](https://www.v2ex.com/t/722322)
-- [【V2EX】菜鸟问下-ELK、知识图谱、推荐算法相关的应用问题](https://www.v2ex.com/t/722316)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -384,8 +381,6 @@
 
 
 
-- [【V2EX】有大佬用过-Gitlab-的-CICD-吗](https://www.v2ex.com/t/722305)
-- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -403,10 +398,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
-- [【V2EX】苏州微软-招聘-前端/Fullstack-工程师](https://www.v2ex.com/t/722304)
-- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 12:48:26，:rocket: 更新条数: +3023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 13:04:21，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,8 +38,8 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -366,6 +376,26 @@
 </summary>
 
 
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,6 +553,8 @@
 </summary>
 
 
+- [2020-11-06-Visual-Studio-的黑窗口控制台怎么快速跳转到跟踪语句的所在行?](https://www.v2ex.com/t/722536) ![](assets/new.png)  
+- [2020-11-06-现在买-3900xt-是不是入国军](https://www.v2ex.com/t/722535) ![](assets/new.png)  
 - [2020-11-06-利用-onedrive-搭配腾讯云轻量服务器搭建一个高速网盘](https://www.v2ex.com/t/722534) ![](assets/new.png)  
 - [2020-11-06-腾讯云企业用户今年力度那么大？你怎么看？](https://www.v2ex.com/t/722533) ![](assets/new.png)  
 - [2020-11-06-一直没有勇气买房，承担房贷](https://www.v2ex.com/t/722530) ![](assets/new.png)  
@@ -541,8 +573,6 @@
 - [2020-11-06-双十一-Moon-FM-播客客户端-五折-🎈-https://moon.fm](https://www.v2ex.com/t/722513) ![](assets/new.png)  
 - [2020-11-06-安卓有免费的-NFC-读写卡软件吗？](https://www.v2ex.com/t/722510) ![](assets/new.png)  
 - [2020-11-06-iPhone-SE-也不给耳机和充电器了!](https://www.v2ex.com/t/722509) ![](assets/new.png)  
-- [2020-11-06-想问下，-PHP-的项目中，有没有这样写过代码的？](https://www.v2ex.com/t/722506) ![](assets/new.png)  
-- [2020-11-06-杭州/成都酷家乐招聘高级、资深后端工程师，前端/运维也有-HC~](https://www.v2ex.com/t/722505) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -616,6 +646,11 @@
 </summary>
 
 
+- [2020-11-06-倒计时2天|绿盟科技在成都等你!](https://sec.thief.one/article_content?a_id=afd5fd88ed40538ac7b89a0538b77abd) ![](assets/new.png)  
+- [2020-11-06-提高警惕!国内虚拟货币犯罪形势日渐严峻](https://sec.thief.one/article_content?a_id=e1595a87b43a1b9b5c4f4c5c6f155fed) ![](assets/new.png)  
+- [2020-11-06-从一道CTF学习Service-Worker的利用](https://sec.thief.one/article_content?a_id=17b53916dccf940d01dc147bf868ec33) ![](assets/new.png)  
+- [2020-11-06-Apache-Tomcat-websocket拒绝服务漏洞CVE-2020-13935](https://sec.thief.one/article_content?a_id=16bfb6794e867fc6da4c5eb479474c40) ![](assets/new.png)  
+- [2020-11-06-一图了解Google工具栈](https://sec.thief.one/article_content?a_id=6c5dfef760fe656d0b287fdd18cb52b8) ![](assets/new.png)  
 - [2020-11-06-PWN从入门到放弃四:PWN格式化字符串详解](https://sec.thief.one/article_content?a_id=8ddedb24a39af5f34ddf741690ef5efc) ![](assets/new.png)  
 - [2020-11-06-隐秘的角落——基于某款游戏利用的反射攻击分析](https://sec.thief.one/article_content?a_id=5644f2d855ea6ed5070a0cf6770c6f6a) ![](assets/new.png)  
 - [2020-11-06-「Dibrary-第二季-」——好书推荐-|DSRC-2019年度Top白帽-RakJong](https://sec.thief.one/article_content?a_id=5f9712b9f17cdb8858c16e87efdcbb07) ![](assets/new.png)  
@@ -631,11 +666,6 @@
 - [2020-11-06-黑客诱捕器—蜜罐的部署与使用](https://sec.thief.one/article_content?a_id=e0da7485833ff34bdb14ab92e2e7d035) ![](assets/new.png)  
 - [2020-11-06-以“小鸟天堂”为造型灵感的火车站,即将开通!](https://sec.thief.one/article_content?a_id=0068dc91c0d8fcb4157d500e78e73990) ![](assets/new.png)  
 - [2020-11-06-GUIBI区块链公开课:价格通道形态实盘演练](https://sec.thief.one/article_content?a_id=f09ece1067f642d839ca394a3ca9369c) ![](assets/new.png)  
-- [2020-11-06-阿里旗下电商平台Lazada-110万账户信息被黑客入侵](https://sec.thief.one/article_content?a_id=7eabf4ccd8c33e2583c9dbba81095bac) ![](assets/new.png)  
-- [2020-11-06-比特币能为PayPal带来好处,但PayPal能为比特币带来好处吗?上...](https://sec.thief.one/article_content?a_id=61c73086435392008816e6dc32f64c52) ![](assets/new.png)  
-- [2020-11-06-漏洞情报|Apache-Tomcat-WebSocket拒绝服务漏洞PoC公开风险通告...](https://sec.thief.one/article_content?a_id=a166b6b075c3a28e223118843f58bbe2) ![](assets/new.png)  
-- [2020-11-06-【漏洞预警】CNNVD-关于Linux-kernel-缓冲区错误漏洞的通报](https://sec.thief.one/article_content?a_id=549a0c01e61f246b4430797cdcfeb8c0) ![](assets/new.png)  
-- [2020-11-06-ShellCode注入原理](https://sec.thief.one/article_content?a_id=2dd6ae02d488dd15bb29f56f65f3b37f) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

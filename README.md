@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 16:06:12，:rocket: 更新条数: +3270， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 16:21:54，:rocket: 更新条数: +3270， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-06-自动刹车+方向盘握力计](https://www.v2ex.com/t/722573) ![](assets/new.png)  
+- [2020-11-06-文本分词，高效文本处理神器](https://www.v2ex.com/t/722572) ![](assets/new.png)  
 - [2020-11-06-Coursera-企业版包年学习所有在线课程](https://www.v2ex.com/t/722570) ![](assets/new.png)  
 - [2020-11-06-请问-worker.once-与-worker.on-的区别？是官方文档写错了吗？](https://www.v2ex.com/t/722568) ![](assets/new.png)  
 - [2020-11-06-请教-移动和联通外网环境，无法通过-SMB-访问-NAS](https://www.v2ex.com/t/722567) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-06-爱奇艺+京东-PLUS-年卡-=-104-元](https://www.v2ex.com/t/722549) ![](assets/new.png)  
 - [2020-11-06-关于计算日期的问题可能有点弱智了....](https://www.v2ex.com/t/722548) ![](assets/new.png)  
 - [2020-11-06-不是，-12pm-这么难抢的吗。](https://www.v2ex.com/t/722544) ![](assets/new.png)  
-- [2020-11-06-web-真的好入门吗？](https://www.v2ex.com/t/722543) ![](assets/new.png)  
-- [2020-11-06-<Apple-Store-这就更新完成，一会儿见>-这个消失的规律是什么?](https://www.v2ex.com/t/722542) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

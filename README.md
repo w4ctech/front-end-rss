@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 23:33:01，:rocket: 更新条数: +3253， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 23:48:05，:rocket: 更新条数: +3255， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-11-06-西班牙马德里大区宣布新防疫措施：再封锁8个基本卫生区域](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDooRNFTyvk4lUSgQBldX201106&isfromapp=1) ![](assets/new.png)  
-- [2020-11-06-美国单日新增确诊病例超12万-创历史新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigBfRyaajZSYbKRIDclHK201106&isfromapp=1) ![](assets/new.png)  
-- [2020-11-06-秘鲁卫生部：新冠肺炎累计确诊914722例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9yQjMf9LO17MFe9LvcGf201106&isfromapp=1) ![](assets/new.png)  
-- [2020-11-06-加拿大新冠肺炎确诊病例突破25万例-疫情仍在加速扩散](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXYm8yZEfAyGKmGKTfq7w201106&isfromapp=1) ![](assets/new.png)  
-- [2020-11-06-新疆新增6例确诊病例和15例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij4CFLsrKLK12jLlyNxnD201106&isfromapp=1) ![](assets/new.png)  
+- [2020-11-06-菅义伟：日本新冠肺炎疫情有扩大征兆](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSaY7QKB2DDQ9bxmt8yMi201107&isfromapp=1) ![](assets/new.png)  
+- [2020-11-06-全球单日新增病例数创新高-世卫组织正在研究丹麦“貂传人”病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijcrDrzKT7J71BhJjV7et201107&isfromapp=1) ![](assets/new.png)  
+- [2020-11-06-葡萄牙议会通过国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMFyG8w6VLHTmsyVSAh7i201107&isfromapp=1) ![](assets/new.png)  
+- [2020-11-06-世卫组织：全球新冠肺炎确诊病例超过4853万例-单日新增病例数量创最高纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJIKeRzcpMcH0XFoUfQzE201107&isfromapp=1) ![](assets/new.png)  
+- [2020-11-06-丹麦血清研究所正在研究水貂变异新冠肺炎病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUkxthRjCBLcP8NDSpYWm201107&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -616,23 +616,25 @@
 
 
 - [2020-11-06-现代-Web-开发语法基础与工程实践](https://toutiao.io/k/uhz45j5) ![](assets/new.png)  
-- [2020-11-06-Flutter-中的-Tree-Shaking-机制初探](https://toutiao.io/k/5qr2uj1) ![](assets/new.png)  
 - [2020-11-06-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-06-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-06-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-06-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-06-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-11-06-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-06-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-06-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-06-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-06-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-06-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-06-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-06-Flutter-中的-Tree-Shaking-机制初探](https://toutiao.io/k/5qr2uj1) ![](assets/new.png)  
+- [2020-11-06-双十一，买它买它买它！](https://toutiao.io/k/pr492jn) ![](assets/new.png)  
+- [2020-11-06-BigDecimal-的使用](https://toutiao.io/k/qzfxl8x) ![](assets/new.png)  
 - [2020-11-06-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
 - [2020-11-06-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-11-06-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-06-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-06-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-06-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-06-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
 - [2020-11-06-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
+- [2020-11-06-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-06-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-11-06-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-06-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-06-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-06-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-06-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-06-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

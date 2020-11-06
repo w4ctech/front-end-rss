@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 09:21:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 09:33:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -29,7 +29,6 @@
 - [2020-01-21-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-05-「JS系列之基础整理」扫盲2-数组专题](https://juejin.im/post/6891911819355488270) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
@@ -39,9 +38,11 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2020-11-06-django-jsonfield-中的内容是个列表，如何查询某个元素在里面](https://www.v2ex.com/t/722480) 
 - [2020-11-06-c#有哪些第三方组件带有-mqtt-服务端的服务？](https://www.v2ex.com/t/722476) 
 - [2020-11-06-随机生成《数独》二维数组=-=](https://www.v2ex.com/t/722461) 
 - [2020-11-06-最IN的云原生架构，阿里云-Serverless-事件总线-EventBridge-重磅发布-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13888&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777639%3Futm_content%3Dg_1000199923%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-06-有效评估-JS-开发者软实力的十条面试题](https://toutiao.io/k/htnaa9j) 
 - [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) 
 - [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) 
+- [2020-11-04-JavaScript函数式编程,“香”吗?](https://sec.thief.one/article_content?a_id=296f1bc9ca76988dbfae185439be2a1f) 

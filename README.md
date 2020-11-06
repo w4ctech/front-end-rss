@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 09:11:52，:rocket: 更新条数: +3038， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 09:21:50，:rocket: 更新条数: +2940， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)![](assets/dot.png)   
+- [安全热点](#安全热点)  
 
 ## 文章链接
 
@@ -454,10 +454,10 @@
 
 
 - [2020-11-06-Echarts在Taro微信小程序开发中的踩坑记录](https://juejin.im/post/6891921635125755911) ![](assets/new.png)  
-- [2020-11-05-使用svg描边来实现移动端1px](https://juejin.im/post/6891916739651567624) ![](assets/new.png)  
 - [2020-11-05-Vue系列（一）3.0尝鲜](https://juejin.im/post/6891914700880085006) ![](assets/new.png)  
 - [2020-11-05-「JS系列之基础整理」扫盲2-数组专题](https://juejin.im/post/6891911819355488270) ![](assets/new.png)  
 - [2020-11-05-Ant-Design-Pro-V5-已经支持预览](https://juejin.im/post/6891897976717836302) ![](assets/new.png)  
+- [2020-11-05-解密微前端：从qiankun看子应用加载](https://juejin.im/post/6891888458919641096) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-06-黑色星期五是不是也像国内的-618-和-1111-一样，先涨价然后还有各种复杂的规则，有的没便宜甚至涨价？](https://www.v2ex.com/t/722478) ![](assets/new.png)  
+- [2020-11-06-站内消息通知该如何设计得当呢](https://www.v2ex.com/t/722477) ![](assets/new.png)  
+- [2020-11-06-c#有哪些第三方组件带有-mqtt-服务端的服务？](https://www.v2ex.com/t/722476) ![](assets/new.png)  
+- [2020-11-06-微信小程序英语单词墙](https://www.v2ex.com/t/722475) ![](assets/new.png)  
 - [2020-11-06-关于-HTTP-重定向头部的一些疑问](https://www.v2ex.com/t/722473) ![](assets/new.png)  
 - [2020-11-06-明天就要参加-CSP-J/S-了，大家有什么缓解紧张的方法吗？](https://www.v2ex.com/t/722472) ![](assets/new.png)  
 - [2020-11-06-百度统计发现不存在的关键字访问是什么原因？](https://www.v2ex.com/t/722471) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-06-安卓手机-usb-c-给-iPhone-充电？](https://www.v2ex.com/t/722454) ![](assets/new.png)  
 - [2020-11-06-越来越臃肿的-APP-怎么办？](https://www.v2ex.com/t/722453) ![](assets/new.png)  
 - [2020-11-06-鹅厂招人啦~进来看看有没有合适你的岗位？社招校招都有哦~](https://www.v2ex.com/t/722452) ![](assets/new.png)  
-- [2020-11-06-因项目时间紧张尝试让网友说服我不要自己写直播流录制](https://www.v2ex.com/t/722451) ![](assets/new.png)  
-- [2020-11-06-想问一下银行的分期和-Apple-的分期在征信上的体现有啥区别？](https://www.v2ex.com/t/722450) ![](assets/new.png)  
-- [2020-11-06-前端面试视频分享](https://www.v2ex.com/t/722449) ![](assets/new.png)  
-- [2020-11-06-直播如何攻克延时、卡顿、高并发难题？](https://www.v2ex.com/t/722448) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,26 +626,6 @@
 </summary>
 
 
-- [2020-11-05-面向对象:内心渴望一份美好的情感,可以一起看日出日落携手共度一生](https://sec.thief.one/article_content?a_id=065b28e149f0a8364416ea3d5b0396b6) ![](assets/new.png)  
-- [2020-11-05-神回答:编程到底难在哪里?](https://sec.thief.one/article_content?a_id=1e7645a7f0b45b9675686fc258f2e096) ![](assets/new.png)  
-- [2020-11-05-奇安信零信任远程访问解决方案入选“2020世界计算机创新技术与产品...](https://sec.thief.one/article_content?a_id=6ec3a04807f147d0224cca250e31d1ba) ![](assets/new.png)  
-- [2020-11-05-“POC轶事”征文,快来投票,5选1评出万元大奖!](https://sec.thief.one/article_content?a_id=a9fc993da2b2ad6825af4340d2253dfe) ![](assets/new.png)  
-- [2020-11-05-SecWiki安全招聘第41期](https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa) ![](assets/new.png)  
-- [2020-11-05-待办提醒|12月12日-ByteCTF-决赛来了!](https://sec.thief.one/article_content?a_id=aef02f011617c0a90f935428548dbd03) ![](assets/new.png)  
-- [2020-11-05-勒索软件组织Maze宣布金盆洗手,骗子蹭特朗普热度获利25万](https://sec.thief.one/article_content?a_id=9a6dc6390714705a0d590bea6301d96a) ![](assets/new.png)  
-- [2020-11-05-Nuubi:一款功能强大的信息收集&网络侦查扫描工具](https://sec.thief.one/article_content?a_id=0c5950324b94a9b048cab53c88611051) ![](assets/new.png)  
-- [2020-11-05-处理公告丨2020年10月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=51697ff04437991b0d2cdc5941f33830) ![](assets/new.png)  
-- [2020-11-05-【高级持续性威胁追踪】Weblogic漏洞最新情报:H2Miner双杀操作系...](https://sec.thief.one/article_content?a_id=cdfb97199198331d31627370b38556bc) ![](assets/new.png)  
-- [2020-11-05-​线上直播沙龙-是德科技站,参与即有机会赢取大奖哦!](https://sec.thief.one/article_content?a_id=0f5dc502afcd918ca26804a8f5b52925) ![](assets/new.png)  
-- [2020-11-05-国家网信办集中整治网络“有偿删帖”“软色情”问题](https://sec.thief.one/article_content?a_id=6ec769977b4201d6adbd39c1b79d5045) ![](assets/new.png)  
-- [2020-11-05-倒计时3天-|-绿盟科技与你相约蓉城,共话等保](https://sec.thief.one/article_content?a_id=3b52ed10af204cdb1023b03f9580a872) ![](assets/new.png)  
-- [2020-11-05-2020年10月份奖励公告](https://sec.thief.one/article_content?a_id=9bc65f15f330910dafd6ce7b9572e3d6) ![](assets/new.png)  
-- [2020-11-05-安利一个小众又高薪的职业!](https://sec.thief.one/article_content?a_id=bbfd4a95557f5b628919cb625f1fec2f) ![](assets/new.png)  
-- [2020-11-05-干货|安全技能提升可以有多野?文末有福利](https://sec.thief.one/article_content?a_id=4ef49dc962d9aedc320405389ffcdc66) ![](assets/new.png)  
-- [2020-11-05-银行业安全运营平台的建设与思考](https://sec.thief.one/article_content?a_id=5480feed51d2e77aa76b7908cdf38c95) ![](assets/new.png)  
-- [2020-11-05-信息安全漏洞周报2020年第42期](https://sec.thief.one/article_content?a_id=e9f01e7e498b6d9bee6171e0fac0b06c) ![](assets/new.png)  
-- [2020-11-05-金融信息黑产依旧猖獗:银行如何从源头堵住信息安全缺口?](https://sec.thief.one/article_content?a_id=c56141e3367072c19743c2a517b7b0c6) ![](assets/new.png)  
-- [2020-11-05-百度2020网络黑灰产犯罪研究报告下载](https://sec.thief.one/article_content?a_id=99bc05be3353e09992544aa4120d365e) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

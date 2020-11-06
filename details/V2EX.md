@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-06 09:48:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 10:04:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-06-来个询问帖，大家更新-ios14.2-了吗？最新的-emoj-表情大家最喜欢哪个啊？](https://www.v2ex.com/t/722494) 
+- [2020-11-06-v-友们，-mysql-历史数据定期归档如何实现的？](https://www.v2ex.com/t/722491) 
+- [2020-11-06-基于-TypeScript-类型系统实现的-Unlambda-解释器](https://www.v2ex.com/t/722489) 
+- [2020-11-06-如何在-nginx-镜像里面添加模块](https://www.v2ex.com/t/722488) 
 - [2020-11-06-C-语言有没有办法通过在-lib-下放置动态库文件来实现程序功能启用？](https://www.v2ex.com/t/722487) 
 - [2020-11-06-小白用-Python-tkinter-写了个桌面程序，开源了](https://www.v2ex.com/t/722484) 
 - [2020-11-06-请教一下，如何从-oracle-把表结构和数据完全迁移到-postgresql](https://www.v2ex.com/t/722481) 
@@ -34,9 +38,3 @@
 - [2020-11-06-想问一下银行的分期和-Apple-的分期在征信上的体现有啥区别？](https://www.v2ex.com/t/722450) 
 - [2020-11-06-前端面试视频分享](https://www.v2ex.com/t/722449) 
 - [2020-11-06-杭州阿里-新零售场景金融技术部-JAVA_P6/P7](https://www.v2ex.com/t/722447) 
-- [2020-11-06-B-站不让绑定自定义域名邮箱，要求用大厂的邮箱](https://www.v2ex.com/t/722446) 
-- [2020-11-06-有交换社区友链的小伙伴吗](https://www.v2ex.com/t/722445) 
-- [2020-11-06-优惠信息JD-PLUS-一年-+-IQIYI-一年-=-103-元](https://www.v2ex.com/t/722444) 
-- [2020-11-06-深圳自己的房子出租，业主直租](https://www.v2ex.com/t/722442) 
-- [2020-11-06-装修电视求推荐](https://www.v2ex.com/t/722441) 
-- [2020-11-06-MacBookPro-发货要一个月？](https://www.v2ex.com/t/722439) 

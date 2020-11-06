@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 02:23:53，:rocket: 更新条数: +3035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 02:33:05，:rocket: 更新条数: +3037， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,7 +453,7 @@
 </summary>
 
 
-- [2020-11-05-第-2-篇：上手-Vue-展示-todo-列表](https://juejin.im/post/6891824013572571149) ![](assets/new.png)  
+- [2020-11-05-函数式编程进阶：应用函子](https://juejin.im/post/6891820537736069134) ![](assets/new.png)  
 - [2020-11-05-聊一聊函数式编程中的Hindley-Milner](https://juejin.im/post/6891813689641402376) ![](assets/new.png)  
 - [2020-11-05-WebSocket-+-React-的简单-Demo](https://juejin.im/post/6891684645880987661) ![](assets/new.png)  
 - [2020-11-05-小白之原型和原型链-看不懂的我手摸手教你](https://juejin.im/post/6891627355605827592) ![](assets/new.png)  
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-06-微信支付从零钱提现需要上传身份证？](https://www.v2ex.com/t/722284) ![](assets/new.png)  
+- [2020-11-06-学-Linux-网络编程，对网络协议的学习有多大帮助](https://www.v2ex.com/t/722283) ![](assets/new.png)  
+- [2020-11-06-北京-算法-医疗行业](https://www.v2ex.com/t/722282) ![](assets/new.png)  
+- [2020-11-06-Apple-Music-用心了，出了个杰伦宇宙专题](https://www.v2ex.com/t/722281) ![](assets/new.png)  
+- [2020-11-06-前端面试辅导-专业模拟大厂-1，-2，-3-面完整流程+职业规划](https://www.v2ex.com/t/722280) ![](assets/new.png)  
 - [2020-11-06-最近双十一有什么云服务器价格比较低,-适合做内网映射的么?](https://www.v2ex.com/t/722277) ![](assets/new.png)  
 - [2020-11-06-BTC-这波难道要历史新高？](https://www.v2ex.com/t/722276) ![](assets/new.png)  
 - [2020-11-06-xdm，一款打牌计分的小程序，距离过年还有-3-个月，爱打牌的可以先-mark-下，提提意见](https://www.v2ex.com/t/722275) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-06-轻松一下，说说你做过最刺激或者最傻吊的事情](https://www.v2ex.com/t/722262) ![](assets/new.png)  
 - [2020-11-06-不懂就问，国行-iPhone-手机-facetime-视频时不能关闭摄像头吗](https://www.v2ex.com/t/722261) ![](assets/new.png)  
 - [2020-11-06-北京的移动，电信，联通宽带哪个性价比更高](https://www.v2ex.com/t/722260) ![](assets/new.png)  
-- [2020-11-06-windows-服务器上一个文件无故消失，不知道如何查找日志](https://www.v2ex.com/t/722259) ![](assets/new.png)  
-- [2020-11-06-偶尔出现解锁后亮度极低，重新锁屏解锁后恢复正常](https://www.v2ex.com/t/722258) ![](assets/new.png)  
-- [2020-11-06-windown10-下有没有类似-macos-下-SHUTTLE-这样的-ssh-快捷方式软件？](https://www.v2ex.com/t/722256) ![](assets/new.png)  
-- [2020-11-06-正常使用的账号为什么会被-ban？-DEACTIVATE-的依据是什么？](https://www.v2ex.com/t/722255) ![](assets/new.png)  
-- [2020-11-06-亲哥生了一个女儿，该送点啥？](https://www.v2ex.com/t/722254) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,12 +602,12 @@
 - [2020-11-06-谈谈线程池](https://toutiao.io/k/9vcp3g2) ![](assets/new.png)  
 - [2020-11-06-一文说透-“依赖注入”](https://toutiao.io/k/nch71kt) ![](assets/new.png)  
 - [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
-- [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
 - [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
 - [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
 - [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
-- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
+- [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
 - [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
+- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
 - [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [2020-11-06-使用-MySQL-主主同步/-Redis-主从复制备份网站](https://toutiao.io/k/gvyssgm) ![](assets/new.png)  

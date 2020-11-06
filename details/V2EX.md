@@ -1,11 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-06 12:31:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 12:36:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-11-06-创建了一个技术交流群，欢迎加入讨论](https://www.v2ex.com/t/722529) 
+- [2020-11-06-一直没有勇气买房，承担房贷](https://www.v2ex.com/t/722530) 
+- [2020-11-06-1](https://www.v2ex.com/t/722529) 
 - [2020-11-06-苹果生态系统里面-OneNote-好不好用，能不能替代印象笔记？](https://www.v2ex.com/t/722528) 
 - [2020-11-06-求-Python-大佬解救](https://www.v2ex.com/t/722527) 
 - [2020-11-06-借债本身没有错](https://www.v2ex.com/t/722526) 
@@ -35,5 +36,3 @@
 - [2020-11-06-如何在-nginx-镜像里面添加模块](https://www.v2ex.com/t/722488) 
 - [2020-11-06-C-语言有没有办法通过在-lib-下放置动态库文件来实现程序功能启用？](https://www.v2ex.com/t/722487) 
 - [2020-11-06-小白用-Python-tkinter-写了个桌面程序，开源了](https://www.v2ex.com/t/722484) 
-- [2020-11-06-请教一下，如何从-oracle-把表结构和数据完全迁移到-postgresql](https://www.v2ex.com/t/722481) 
-- [2020-11-06-django-jsonfield-中的内容是个列表，如何查询某个元素在里面](https://www.v2ex.com/t/722480) 

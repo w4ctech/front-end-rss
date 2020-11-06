@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 06:12:52，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 06:24:21，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-06-阿里云充值-2000-返了两张-1500-的券能干嘛？](https://www.v2ex.com/t/722393) ![](assets/new.png)  
+- [2020-11-06-有晚上冲-mini-的想法，如果选择依旧换新，今晚要付全款还是付减完之后的？](https://www.v2ex.com/t/722391) ![](assets/new.png)  
+- [2020-11-06-迫于保号，现在成都移动转什么套餐划算啊？](https://www.v2ex.com/t/722390) ![](assets/new.png)  
 - [2020-11-06-为什么现在有人推荐买-AMD-的-CPU，那么多的兼容问题！](https://www.v2ex.com/t/722387) ![](assets/new.png)  
 - [2020-11-06-有没有老用户可选的云服务器产品，不求和新用户价格一样，也别太离谱](https://www.v2ex.com/t/722386) ![](assets/new.png)  
 - [2020-11-06-深圳阿里-组内直推-hc-很多，急招，-Java-、前端、测试](https://www.v2ex.com/t/722385) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-06-送父母手机求比较](https://www.v2ex.com/t/722366) ![](assets/new.png)  
 - [2020-11-06-深圳-IT-求职-前端群不知不觉就快满了。后端群还有大量坑位。欢迎加入](https://www.v2ex.com/t/722362) ![](assets/new.png)  
 - [2020-11-06-我有一个想法，这次不差程序员，只差一个运营了。](https://www.v2ex.com/t/722360) ![](assets/new.png)  
-- [2020-11-06-tws-耳机重连-mbp-的时候会被断开，有人遇到过么](https://www.v2ex.com/t/722359) ![](assets/new.png)  
-- [2020-11-06-双十一优衣库优衣库越来越不给力了](https://www.v2ex.com/t/722357) ![](assets/new.png)  
-- [2020-11-06-概率量化投资-招聘：-IT+量化岗-上海](https://www.v2ex.com/t/722356) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -604,9 +604,9 @@
 - [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
 - [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
 - [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
+- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
 - [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
-- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
 - [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
 - [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 10:14:20，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 10:25:43，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -473,10 +473,10 @@
 </summary>
 
 
-- [2020-11-06-Echarts在Taro微信小程序开发中的踩坑记录](https://juejin.im/post/6891921635125755911) ![](assets/new.png)  
 - [2020-11-05-使用svg描边来实现移动端1px](https://juejin.im/post/6891916739651567624) ![](assets/new.png)  
 - [2020-11-05-Vue系列（一）3.0尝鲜](https://juejin.im/post/6891914700880085006) ![](assets/new.png)  
 - [2020-11-05-「JS系列之基础整理」扫盲2-数组专题](https://juejin.im/post/6891911819355488270) ![](assets/new.png)  
+- [2020-11-05-HTML5系列之新的API（新操作方法、文件获取、地理定位、音视频、摄像头等）](https://juejin.im/post/6891888450501361677) ![](assets/new.png)  
 - [2020-11-05-一篇文章带你了解SVG-渐变知识](https://juejin.im/post/6891877766543867917) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -553,6 +553,11 @@
 </summary>
 
 
+- [2020-11-06-公司要搬家的新办公室，征集一下会议室名字](https://www.v2ex.com/t/722501) ![](assets/new.png)  
+- [2020-11-06-程序中的枚举字段大家用数字还是英文来表示](https://www.v2ex.com/t/722500) ![](assets/new.png)  
+- [2020-11-06-北方人过冬有暖气，南方人靠什么过冬？](https://www.v2ex.com/t/722499) ![](assets/new.png)  
+- [2020-11-06-go-有-能支持-tcp-和-udp-的游戏框架吗？](https://www.v2ex.com/t/722498) ![](assets/new.png)  
+- [2020-11-06-iphone12-的信号真不行，炒股的不适合买](https://www.v2ex.com/t/722497) ![](assets/new.png)  
 - [2020-11-06-来个询问帖，大家更新-ios14.2-了吗？最新的-emoj-表情大家最喜欢哪个啊？](https://www.v2ex.com/t/722494) ![](assets/new.png)  
 - [2020-11-06-v-友们，-mysql-历史数据定期归档如何实现的？](https://www.v2ex.com/t/722491) ![](assets/new.png)  
 - [2020-11-06-基于-TypeScript-类型系统实现的-Unlambda-解释器](https://www.v2ex.com/t/722489) ![](assets/new.png)  
@@ -568,11 +573,6 @@
 - [2020-11-06-微信小程序英语单词墙](https://www.v2ex.com/t/722475) ![](assets/new.png)  
 - [2020-11-06-关于-HTTP-重定向头部的一些疑问](https://www.v2ex.com/t/722473) ![](assets/new.png)  
 - [2020-11-06-明天就要参加-CSP-J/S-了，大家有什么缓解紧张的方法吗？](https://www.v2ex.com/t/722472) ![](assets/new.png)  
-- [2020-11-06-百度统计发现不存在的关键字访问是什么原因？](https://www.v2ex.com/t/722471) ![](assets/new.png)  
-- [2020-11-06-安卓蓝牙调试助手可以作为服务端被连接么？](https://www.v2ex.com/t/722469) ![](assets/new.png)  
-- [2020-11-06-百度-app-首页设计的不行](https://www.v2ex.com/t/722467) ![](assets/new.png)  
-- [2020-11-06-vscode-热更新本地图片不加载](https://www.v2ex.com/t/722466) ![](assets/new.png)  
-- [2020-11-06-如何中转机场流量到自己服务器？](https://www.v2ex.com/t/722465) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

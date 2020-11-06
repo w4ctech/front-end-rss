@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-06 08:14:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 08:25:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -126,6 +126,7 @@
 
 
 - [【阮一峰的网络日志】微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html)
+- [【掘金前端】Echarts在Taro微信小程序开发中的踩坑记录](https://juejin.im/post/6891921635125755911)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -296,7 +297,6 @@
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【掘金前端】解密微前端：从qiankun看子应用加载](https://juejin.im/post/6891888458919641096)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】求问-gcc9-中-O1-比-O0-多了哪些优化选项？](https://www.v2ex.com/t/722402)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -402,8 +402,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
-- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
+- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

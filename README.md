@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 06:33:02，:rocket: 更新条数: +3022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 06:48:03，:rocket: 更新条数: +3032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -66,6 +66,7 @@
 
 - [2020-11-05-11月5日全国新增新冠36例-本土新疆6例](https://m.caixin.com/m/2020-11-06/101623653.html) ![](assets/new.png)  
 - [2020-11-05-两款新冠抗原检测试剂国内首获批-药监局称仅可作补充方法](https://m.caixin.com/m/2020-11-06/101623649.html) ![](assets/new.png)  
+- [2020-11-05-【境内疫情观察】新疆新增6例本土确诊病例（11月5日）](http://m.database.caixin.com/m/2020-11-06/101623769.html) ![](assets/new.png)  
 - [2020-11-05-大流行手记|11月5日：中国暂停印、英等国人员入境-美国日增病例破10万](https://m.caixin.com/m/2020-11-06/101623677.html) ![](assets/new.png)  
 - [2020-11-04-最新海外疫情：新冠感染超4789万-累计死亡近122万](https://m.caixin.com/m/2020-11-05/101623574.html) ![](assets/new.png)  
 - [2020-11-04-【境内疫情观察】新疆新增8例本土确诊病例（11月4日）](http://m.database.caixin.com/m/2020-11-05/101623339.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-10-30-新疆新增无症状感染者61例](https://m.caixin.com/m/2020-10-31/101621169.html) ![](assets/new.png)  
 - [2020-10-30-最新封面报道之二|新冠疫苗紧急使用扩面](http://m.weekly.caixin.com/m/2020-10-31/101620912.html) ![](assets/new.png)  
 - [2020-10-30-【境内疫情观察】新疆新增6例本土确诊病例（10月30日）](http://m.database.caixin.com/m/2020-10-31/101621097.html) ![](assets/new.png)  
-- [2020-10-30-大流行手记|10月30日：应战第二波疫情-欧盟拨2.2亿助患者跨国治疗](https://m.caixin.com/m/2020-10-31/101620986.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,6 +533,10 @@
 </summary>
 
 
+- [2020-11-06-请不要在每一个回复中都包括外链](https://www.v2ex.com/t/722404) ![](assets/new.png)  
+- [2020-11-06-flask-撸了一个个人博客网站](https://www.v2ex.com/t/722403) ![](assets/new.png)  
+- [2020-11-06-求问-gcc9-中-O1-比-O0-多了哪些优化选项？](https://www.v2ex.com/t/722402) ![](assets/new.png)  
+- [2020-11-06-比较另类的一种收款方式](https://www.v2ex.com/t/722401) ![](assets/new.png)  
 - [2020-11-06-iPhone12-Pro-续航测试..](https://www.v2ex.com/t/722400) ![](assets/new.png)  
 - [2020-11-06-ffmpeg-可以把一个音乐批量添加给多个视频吗](https://www.v2ex.com/t/722399) ![](assets/new.png)  
 - [2020-11-06-求教-C#-绘图问题](https://www.v2ex.com/t/722397) ![](assets/new.png)  
@@ -530,7 +544,6 @@
 - [2020-11-06-阿里云充值-2000-返了两张-1500-的券能干嘛？](https://www.v2ex.com/t/722393) ![](assets/new.png)  
 - [2020-11-06-有晚上冲-mini-的想法，如果选择依旧换新，今晚要付全款还是付减完之后的？](https://www.v2ex.com/t/722391) ![](assets/new.png)  
 - [2020-11-06-迫于保号，现在成都移动转什么套餐划算啊？](https://www.v2ex.com/t/722390) ![](assets/new.png)  
-- [2020-11-06-为什么现在有人推荐买-AMD-的-CPU，那么多的兼容问题！](https://www.v2ex.com/t/722387) ![](assets/new.png)  
 - [2020-11-06-有没有老用户可选的云服务器产品，不求和新用户价格一样，也别太离谱](https://www.v2ex.com/t/722386) ![](assets/new.png)  
 - [2020-11-06-深圳阿里-组内直推-hc-很多，急招，-Java-、前端、测试](https://www.v2ex.com/t/722385) ![](assets/new.png)  
 - [2020-11-06-v2-很没存在感的城市-天津](https://www.v2ex.com/t/722384) ![](assets/new.png)  
@@ -540,9 +553,6 @@
 - [2020-11-06-京东的返利链接是怎么弄的？](https://www.v2ex.com/t/722379) ![](assets/new.png)  
 - [2020-11-06-请问端到端加密中如何防范用户传输违法信息同时又不侵犯隐私](https://www.v2ex.com/t/722377) ![](assets/new.png)  
 - [2020-11-06-如何实现一个文件js超时后就自动跳过？](https://www.v2ex.com/t/722376) ![](assets/new.png)  
-- [2020-11-06-所以各位使用什么笔记软件替代印象笔记？](https://www.v2ex.com/t/722375) ![](assets/new.png)  
-- [2020-11-06-阿里云双-11-网盘容量任务奖励-领取不了。有领到的吗？](https://www.v2ex.com/t/722374) ![](assets/new.png)  
-- [2020-11-06-iPhone14-天无理由退款-不退旧机抵扣的部分？](https://www.v2ex.com/t/722372) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -594,10 +604,10 @@
 - [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
 - [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
 - [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
-- [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
-- [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
-- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
+- [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
+- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
+- [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
 - [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
 - [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [2020-11-06-使用-MySQL-主主同步/-Redis-主从复制备份网站](https://toutiao.io/k/gvyssgm) ![](assets/new.png)  

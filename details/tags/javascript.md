@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 07:35:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 07:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -32,7 +32,6 @@
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-05-NestJS-7.x-折腾记:-1-项目初始化及常规提交门禁加入](https://juejin.im/post/6891894638618755085) 
 - [2020-11-05-函数式编程进阶：应用函子](https://juejin.im/post/6891820537736069134) 
-- [2020-11-05-工作中常用js的整理](https://juejin.im/post/6891809816503648263) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 
@@ -44,7 +43,6 @@
 - [2020-11-06-JVM-标量替换的变量是存在本地变量表中么？](https://www.v2ex.com/t/722412) 
 - [2020-11-06-各位前端-你们都能手写-PromiseA+规范吗-能做到的都是什么水平](https://www.v2ex.com/t/722407) 
 - [2020-11-06-实验室的网，直接电脑接入网线能到-100Mbps，但是接个路由器，电脑通过路由器有线接入只有-10Mbps-了，无线也是，这是为什么？](https://www.v2ex.com/t/722396) 
-- [2020-11-06-如何实现一个文件js超时后就自动跳过？](https://www.v2ex.com/t/722376) 
 - [2020-11-06-最IN的云原生架构，阿里云-Serverless-事件总线-EventBridge-重磅发布-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13888&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777639%3Futm_content%3Dg_1000199923%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-06-有效评估-JS-开发者软实力的十条面试题](https://toutiao.io/k/htnaa9j) 
 - [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) 

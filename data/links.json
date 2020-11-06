@@ -15619,6 +15619,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "甲方的信息安全工程师可以往 APT 方向去发展吗？",
+        "link": "https://www.v2ex.com/t/722324",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "O365 开车第三年了， 2 个小伙伴下车了。49/y 21 年 12 月到期\r\n\r\ntelegram： https://t.me/feb0217",
+        "link": "https://www.v2ex.com/t/722322",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "v2ex 有做安全的朋友吗",
+        "link": "https://www.v2ex.com/t/722321",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "Hexo Next 主题中的 Pisces 和 Gemini 有什么区别？",
+        "link": "https://www.v2ex.com/t/722320",
+        "date": "2020-11-06"
+      },
+      {
         "title": "关于大家讨论的 mac 电池快速损耗",
         "link": "https://www.v2ex.com/t/722318",
         "date": "2020-11-06"
@@ -15792,26 +15812,6 @@
         "title": "xdm，一款打牌计分的小程序，距离过年还有 3 个月，爱打牌的可以先 mark 下，提提意见",
         "link": "https://www.v2ex.com/t/722275",
         "date": "2020-11-06"
-      },
-      {
-        "title": "给大家推荐一个 iPhone 上的休闲小游戏，名字叫《黑色星期二》",
-        "link": "https://www.v2ex.com/t/722274",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[松鼠时钟]，上架一款简单的时钟 App，支持 iOS、Android、Web",
-        "link": "https://www.v2ex.com/t/722273",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "苹果又做这种事，更新 iOS 不更新 Xcode",
-        "link": "https://www.v2ex.com/t/722272",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "在很多平台举报过盗版视频/软件 但从没有任何结果",
-        "link": "https://www.v2ex.com/t/722270",
-        "date": "2020-11-06"
       }
     ]
   },
@@ -15820,6 +15820,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "移动端堆栈关键行定位的新思路 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13887&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777602%3Futm_content%3Dg_1000199922%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-06"
+      },
       {
         "title": "网易云音乐基于 Flink + Kafka 的实时数仓建设实践 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13886&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777361%3Futm_content%3Dg_1000199921%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -15913,11 +15918,6 @@
       {
         "title": "Serverless 对研发效能的变革和创新 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "云原生时代，应用架构将如何演进？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-06"
       }
     ]
@@ -16028,6 +16028,66 @@
         "date": "2020-11-06"
       },
       {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-11-06"
+      },
+      {
         "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
         "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-06"
@@ -16038,68 +16098,8 @@
         "date": "2020-11-06"
       },
       {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
-        "link": "https://toutiao.io/k/z6p6anw",
-        "date": "2020-11-06"
-      },
-      {
         "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
         "link": "https://toutiao.io/k/kqvczix",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-06"
       }
     ]

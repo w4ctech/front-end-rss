@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-06 03:21:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 03:32:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -455,6 +455,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【掘金前端】前端学数据结构与算法（十一）：看似简单又让人抓狂的二分查找算法](https://juejin.im/post/6891684098457206791)
+- [【V2EX】O365-开车第三年了，-2-个小伙伴下车了。49/y-21-年-12-月到期-telegram：-https://t.me/feb0217](https://www.v2ex.com/t/722322)
 - [【V2EX】菜鸟问下-ELK、知识图谱、推荐算法相关的应用问题](https://www.v2ex.com/t/722316)
 - [【V2EX】北京-算法-医疗行业](https://www.v2ex.com/t/722282)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -517,9 +518,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【V2EX】苏州微软-招聘-前端/Fullstack-工程师](https://www.v2ex.com/t/722304)
 - [【V2EX】前端面试辅导-专业模拟大厂-1，-2，-3-面完整流程+职业规划](https://www.v2ex.com/t/722280)
-- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 03:21:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 03:32:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,6 +31,8 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-06-甲方的信息安全工程师可以往-APT-方向去发展吗？](https://www.v2ex.com/t/722324) 
+- [2020-11-06-v2ex-有做安全的朋友吗](https://www.v2ex.com/t/722321) 
 - [2020-11-06-大家有使用支付宝的安全备忘（钢铁闸）吗？](https://www.v2ex.com/t/722310) 
 - [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) 
 - [2020-11-05-SecWiki安全招聘第41期](https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa) 

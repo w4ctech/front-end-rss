@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 03:21:26，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 03:32:57，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,10 @@
 </summary>
 
 
+- [2020-11-06-甲方的信息安全工程师可以往-APT-方向去发展吗？](https://www.v2ex.com/t/722324) ![](assets/new.png)  
+- [2020-11-06-O365-开车第三年了，-2-个小伙伴下车了。49/y-21-年-12-月到期-telegram：-https://t.me/feb0217](https://www.v2ex.com/t/722322) ![](assets/new.png)  
+- [2020-11-06-v2ex-有做安全的朋友吗](https://www.v2ex.com/t/722321) ![](assets/new.png)  
+- [2020-11-06-Hexo-Next-主题中的-Pisces-和-Gemini-有什么区别？](https://www.v2ex.com/t/722320) ![](assets/new.png)  
 - [2020-11-06-关于大家讨论的-mac-电池快速损耗](https://www.v2ex.com/t/722318) ![](assets/new.png)  
 - [2020-11-06-中国象棋软件自动下棋，主要的编程逻辑是什么？](https://www.v2ex.com/t/722317) ![](assets/new.png)  
 - [2020-11-06-菜鸟问下-ELK、知识图谱、推荐算法相关的应用问题](https://www.v2ex.com/t/722316) ![](assets/new.png)  
@@ -569,10 +573,6 @@
 - [2020-11-06-Golang-开发的匿名互动在线聊天游戏，大家多提建议](https://www.v2ex.com/t/722301) ![](assets/new.png)  
 - [2020-11-06-黑车面经：字模式-II](https://www.v2ex.com/t/722300) ![](assets/new.png)  
 - [2020-11-06-很好奇吉列的手动剃须刀效果到底怎么样？有买过的分享下么？](https://www.v2ex.com/t/722299) ![](assets/new.png)  
-- [2020-11-06-各位老铁，-win10-64-位有还原软件吗？](https://www.v2ex.com/t/722297) ![](assets/new.png)  
-- [2020-11-06-有哪些事是有了女朋友之后才知道的？](https://www.v2ex.com/t/722296) ![](assets/new.png)  
-- [2020-11-06-iPhone-11pro-续航尿崩，发热严重](https://www.v2ex.com/t/722295) ![](assets/new.png)  
-- [2020-11-06-要不要在当前时间点入手-mbp13](https://www.v2ex.com/t/722294) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -584,6 +584,7 @@
 </summary>
 
 
+- [2020-11-06-移动端堆栈关键行定位的新思路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13887&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777602%3Futm_content%3Dg_1000199922%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-06-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13886&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777361%3Futm_content%3Dg_1000199921%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-06-解读云原生基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13885&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777599%3Futm_content%3Dg_1000199589%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-06-浅析云控平台画面传输的视频流方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13884&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777591%3Futm_content%3Dg_1000199588%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -603,7 +604,6 @@
 - [2020-11-06-Fluid-0.3-新版本正式发布：实现云原生场景通用化数据加速-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13870&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F775947%3Futm_content%3Dg_1000198213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-06-持续定义Saas模式云数据仓库+实时分析-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13869&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771366%3Futm_content%3Dg_1000198212%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-06-Serverless-对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-06-云原生时代，应用架构将如何演进？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

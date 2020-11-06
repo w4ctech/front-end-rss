@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 12:04:36，:rocket: 更新条数: +3032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 12:15:18，:rocket: 更新条数: +3032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -68,7 +68,6 @@
 - [2020-11-05-两款新冠抗原检测试剂国内首获批-药监局称仅可作补充方法](https://m.caixin.com/m/2020-11-06/101623649.html) ![](assets/new.png)  
 - [2020-11-05-【境内疫情观察】新疆新增6例本土确诊病例（11月5日）](http://m.database.caixin.com/m/2020-11-06/101623769.html) ![](assets/new.png)  
 - [2020-11-05-大流行手记|11月5日：中国暂停印、英等国人员入境-美国日增病例破10万](https://m.caixin.com/m/2020-11-06/101623677.html) ![](assets/new.png)  
-- [2020-11-04-最新海外疫情：新冠感染超4789万-累计死亡近122万](https://m.caixin.com/m/2020-11-05/101623574.html) ![](assets/new.png)  
 - [2020-11-04-【境内疫情观察】新疆新增8例本土确诊病例（11月4日）](http://m.database.caixin.com/m/2020-11-05/101623339.html) ![](assets/new.png)  
 - [2020-11-04-大流行手记|11月4日：英国利物浦试点全城检测-美国急缺医护人员](https://m.caixin.com/m/2020-11-05/101623212.html) ![](assets/new.png)  
 - [2020-11-03-【境内疫情观察】新疆新增116例无症状感染者（11月3日）](http://m.database.caixin.com/m/2020-11-04/101622904.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-10-30-新疆新增无症状感染者61例](https://m.caixin.com/m/2020-10-31/101621169.html) ![](assets/new.png)  
 - [2020-10-30-最新封面报道之二|新冠疫苗紧急使用扩面](http://m.weekly.caixin.com/m/2020-10-31/101620912.html) ![](assets/new.png)  
 - [2020-10-30-【境内疫情观察】新疆新增6例本土确诊病例（10月30日）](http://m.database.caixin.com/m/2020-10-31/101621097.html) ![](assets/new.png)  
+- [2020-10-30-大流行手记|10月30日：应战第二波疫情-欧盟拨2.2亿助患者跨国治疗](https://m.caixin.com/m/2020-10-31/101620986.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-06-迫于海淘被税，去望京报关行自提还需要缴纳-30-服务费吗？](https://www.v2ex.com/t/722524) ![](assets/new.png)  
 - [2020-11-06-迫于受不了隔壁这个回复…晒一下印象笔记的广告频率](https://www.v2ex.com/t/722523) ![](assets/new.png)  
 - [2020-11-06-从-iTunes-恢复-iPhone-后还需要重新下载所有-APP-吗？](https://www.v2ex.com/t/722521) ![](assets/new.png)  
 - [2020-11-06-为了给公司的产品做-SEO，自己写了个网站蜘蛛日志分析工具](https://www.v2ex.com/t/722519) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-06-go-有-能支持-tcp-和-udp-的游戏框架吗？](https://www.v2ex.com/t/722498) ![](assets/new.png)  
 - [2020-11-06-iphone12-的信号真不行，炒股的不适合买](https://www.v2ex.com/t/722497) ![](assets/new.png)  
 - [2020-11-06-来个询问帖，大家更新-ios14.2-了吗？最新的-emoj-表情大家最喜欢哪个啊？](https://www.v2ex.com/t/722494) ![](assets/new.png)  
-- [2020-11-06-v-友们，-mysql-历史数据定期归档如何实现的？](https://www.v2ex.com/t/722491) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

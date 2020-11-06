@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-06 11:47:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 12:04:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -301,6 +301,7 @@
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】为了给公司的产品做-SEO，自己写了个网站蜘蛛日志分析工具](https://www.v2ex.com/t/722519)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -335,8 +336,8 @@
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】Chrome-的接力被-Safari-劫持了！](https://www.v2ex.com/t/722503)
 - [【V2EX】请教一下，如何从-oracle-把表结构和数据完全迁移到-postgresql](https://www.v2ex.com/t/722481)
-- [【V2EX】安卓蓝牙调试助手可以作为服务端被连接么？](https://www.v2ex.com/t/722469)
 - [【技术头条】玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -354,7 +355,6 @@
 
 
 - [【V2EX】双十一-Moon-FM-播客客户端-五折-🎈-https://moon.fm](https://www.v2ex.com/t/722513)
-- [【V2EX】关于-HTTP-重定向头部的一些疑问](https://www.v2ex.com/t/722473)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -411,6 +411,7 @@
 - [【V2EX】杭州/成都酷家乐招聘高级、资深后端工程师，前端/运维也有-HC~](https://www.v2ex.com/t/722505)
 - [【V2EX】杭州包小盒招聘啦，-缺前端大牛](https://www.v2ex.com/t/722479)
 - [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [【安全热点】招聘岗位又双叒叕添加啦!](https://sec.thief.one/article_content?a_id=4e677848e40c9a017264fa7845d13d07)
 - [......【查看更多】......](./details/tags/job-interview.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 11:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 12:04:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,7 +25,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-06-Chrome-的接力被-Safari-劫持了！](https://www.v2ex.com/t/722503) 
 - [2020-11-06-请教一下，如何从-oracle-把表结构和数据完全迁移到-postgresql](https://www.v2ex.com/t/722481) 
-- [2020-11-06-安卓蓝牙调试助手可以作为服务端被连接么？](https://www.v2ex.com/t/722469) 
 - [2020-11-06-玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) 
 - [2020-11-06-招聘-|-美团信息安全部人才招募](https://sec.thief.one/article_content?a_id=ba3255e0291512cc985268c2db4100a6) 

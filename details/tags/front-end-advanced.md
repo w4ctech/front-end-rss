@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 11:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 12:04:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -8,4 +8,3 @@
 
 
 - [2020-11-06-双十一-Moon-FM-播客客户端-五折-🎈-https://moon.fm](https://www.v2ex.com/t/722513) 
-- [2020-11-06-关于-HTTP-重定向头部的一些疑问](https://www.v2ex.com/t/722473) 

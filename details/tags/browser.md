@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 10:36:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 10:48:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-06-Chrome-的接力被-Safari-劫持了！](https://www.v2ex.com/t/722503) 
 - [2020-11-06-请教一下，如何从-oracle-把表结构和数据完全迁移到-postgresql](https://www.v2ex.com/t/722481) 
 - [2020-11-06-安卓蓝牙调试助手可以作为服务端被连接么？](https://www.v2ex.com/t/722469) 
 - [2020-11-06-玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

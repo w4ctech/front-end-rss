@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 10:25:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 10:34:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -21,6 +21,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
-- [2020-11-05-使用svg描边来实现移动端1px](https://juejin.im/post/6891916739651567624) 
 - [2020-11-05-一篇文章带你了解SVG-渐变知识](https://juejin.im/post/6891877766543867917) 
 - [2020-11-04-GUIBI区块链公开课:为何你无法稳定盈利?](https://sec.thief.one/article_content?a_id=ef23ce9d808d96dbcd7f50bb29e40559) 

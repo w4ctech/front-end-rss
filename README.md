@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 10:25:43，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 10:34:24，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -473,7 +473,7 @@
 </summary>
 
 
-- [2020-11-05-使用svg描边来实现移动端1px](https://juejin.im/post/6891916739651567624) ![](assets/new.png)  
+- [2020-11-06-ZooTeam-前端周刊｜第-107-期](https://juejin.im/post/6891944401552179214) ![](assets/new.png)  
 - [2020-11-05-Vue系列（一）3.0尝鲜](https://juejin.im/post/6891914700880085006) ![](assets/new.png)  
 - [2020-11-05-「JS系列之基础整理」扫盲2-数组专题](https://juejin.im/post/6891911819355488270) ![](assets/new.png)  
 - [2020-11-05-HTML5系列之新的API（新操作方法、文件获取、地理定位、音视频、摄像头等）](https://juejin.im/post/6891888450501361677) ![](assets/new.png)  

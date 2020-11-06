@@ -15402,6 +15402,16 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "第 2 篇：上手 Vue 展示 todo 列表",
+        "link": "https://juejin.im/post/6891824013572571149",
+        "date": "2020-11-05"
+      },
+      {
+        "title": "函数式编程进阶：应用函子",
+        "link": "https://juejin.im/post/6891820537736069134",
+        "date": "2020-11-05"
+      },
+      {
         "title": "前端智能化 2020 年中总结和反思",
         "link": "https://juejin.im/post/6891816708387831816",
         "date": "2020-11-05"
@@ -15414,16 +15424,6 @@
       {
         "title": "jsliang 求职系列 - 05 - this",
         "link": "https://juejin.im/post/6891791033613746189",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "那个忙了一夜的Vue3动画很好，就是太短了",
-        "link": "https://juejin.im/post/6891640356543627278",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "V8中JavaScript的内存管理与垃圾回收",
-        "link": "https://juejin.im/post/6891614154134667272",
         "date": "2020-11-05"
       }
     ]
@@ -15604,202 +15604,21 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
+    "rss": "https://rss.shab.fun/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": [
-      {
-        "title": "windown10 下有没有类似 macos 下 SHUTTLE 这样的 ssh 快捷方式软件？",
-        "link": "https://www.v2ex.com/t/722256",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "正常使用的账号为什么会被 ban？ DEACTIVATE 的依据是什么？",
-        "link": "https://www.v2ex.com/t/722255",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "亲哥生了一个女儿，该送点啥？",
-        "link": "https://www.v2ex.com/t/722254",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[新手上路] 如何判断最左侧车道可以直行?",
-        "link": "https://www.v2ex.com/t/722253",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "Big Sur 11.0.1 RC 发布了，正式版不远了",
-        "link": "https://www.v2ex.com/t/722252",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "暖脚宝",
-        "link": "https://www.v2ex.com/t/722249",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "求推荐个好用的 wordpress 视频主题",
-        "link": "https://www.v2ex.com/t/722246",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "上海美资公司招 OpenGL/C++开发",
-        "link": "https://www.v2ex.com/t/722245",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "iPhone 12 mini /pro max 媒体上手解禁了啊",
-        "link": "https://www.v2ex.com/t/722244",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "搭建博客的时候你们会选现成的（比如 WordPress、hexo 等）还是自己开发一个？",
-        "link": "https://www.v2ex.com/t/722242",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "有个服务需要部署在不同的地域，关于数据收集的方案",
-        "link": "https://www.v2ex.com/t/722241",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "1.5T 的🚗动力到底够不够？看上了 C200 轿跑",
-        "link": "https://www.v2ex.com/t/722240",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "iPhone 联通用户在 volte 下通话时 第三方来电会切断我当前通话",
-        "link": "https://www.v2ex.com/t/722239",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "周五了 哪个大牛能给点建议",
-        "link": "https://www.v2ex.com/t/722238",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "《捕蛇者说》Ep 22. 和高天聊聊 VizTracer",
-        "link": "https://www.v2ex.com/t/722237",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "印象笔记吃相真难看",
-        "link": "https://www.v2ex.com/t/722235",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "bugsur 推送正式版了",
-        "link": "https://www.v2ex.com/t/722234",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "迫于装机",
-        "link": "https://www.v2ex.com/t/722233",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "企业微信 SSO 今天早上又有故障了吗？",
-        "link": "https://www.v2ex.com/t/722232",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "有关 mbp 接显示器，软件窗口大小问题",
-        "link": "https://www.v2ex.com/t/722228",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "除了 word 和 wps， IOS 上还有啥可以编辑文档并支持分享其它应用的文字生产工具？",
-        "link": "https://www.v2ex.com/t/722227",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "有没有基于 AI 技术的 JVM 垃圾收集器？",
-        "link": "https://www.v2ex.com/t/722225",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "IOS 有的应用在推送设置里找不到怎么办？",
-        "link": "https://www.v2ex.com/t/722224",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "3600Mhz 的内存开 DOCP 以后直接无法开机？",
-        "link": "https://www.v2ex.com/t/722222",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "良心云 1H2G 只要 7.03/月，老用户也可以买",
-        "link": "https://www.v2ex.com/t/722221",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "Gitako - 优雅、开源、免费的 GitHub 文件树插件",
-        "link": "https://www.v2ex.com/t/722220",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "菜鸟问个 tomcat 部署的问题",
-        "link": "https://www.v2ex.com/t/722217",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "建议 减少降权机制对无关人的影响",
-        "link": "https://www.v2ex.com/t/722216",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "现在电视硬件配置也不错，为啥还有人买电视盒子？",
-        "link": "https://www.v2ex.com/t/722215",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "不负债人生",
-        "link": "https://www.v2ex.com/t/722214",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "求助： iPad 系统更新后原锁屏密码和系统设置过程中的密码都错误，求助保留数据解锁",
-        "link": "https://www.v2ex.com/t/722213",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "https://localbitcoins.com/ 比较好奇在国内建立个这样的小额比特币交易网站,需要解决哪些合规问题",
-        "link": "https://www.v2ex.com/t/722212",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "推荐个站立式办公桌呗？",
-        "link": "https://www.v2ex.com/t/722211",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "iOS 14.2 减少了旧小组件和新小组件之间的间距",
-        "link": "https://www.v2ex.com/t/722210",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "让自己舒服 <- (钱 + 健康 + 情感) <- (提高能力 + 锻炼 + 电话多点)",
-        "link": "https://www.v2ex.com/t/722209",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "iOS 14.2, watchOS 7.1 更新发布",
-        "link": "https://www.v2ex.com/t/722208",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "20201105 午夜俱乐部",
-        "link": "https://www.v2ex.com/t/722207",
-        "date": "2020-11-05"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "网易云音乐基于 Flink + Kafka 的实时数仓建设实践 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13886&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777361%3Futm_content%3Dg_1000199921%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-06"
+      },
       {
         "title": "解读云原生基础设施 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13885&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777599%3Futm_content%3Dg_1000199589%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -15894,11 +15713,6 @@
         "title": "云原生时代，应用架构将如何演进？ (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-06"
-      },
-      {
-        "title": "阿里云数据湖解决方案全面满足数据需求，帮助企业释放数据价值 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13866&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772900%3Futm_content%3Dg_1000197928%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-06"
       }
     ]
   },
@@ -15928,23 +15742,13 @@
         "date": "2020-11-06"
       },
       {
-        "title": "简洁、响应式和多配色的 Hugo 主题",
-        "link": "https://toutiao.io/k/7bvn9p8",
-        "date": "2020-11-06"
-      },
-      {
         "title": "一文说透 “依赖注入”",
         "link": "https://toutiao.io/k/nch71kt",
         "date": "2020-11-06"
       },
       {
-        "title": "Docker hung 住问题解析系列（一）：pipe 容量不够",
-        "link": "https://toutiao.io/k/7ntjm9u",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "如何提高您的安全测试技能",
-        "link": "https://toutiao.io/k/ry9tw4a",
+        "title": "简洁、响应式和多配色的 Hugo 主题",
+        "link": "https://toutiao.io/k/7bvn9p8",
         "date": "2020-11-06"
       },
       {
@@ -15958,8 +15762,13 @@
         "date": "2020-11-06"
       },
       {
-        "title": "iOS 插件化架构探索",
-        "link": "https://toutiao.io/k/wm7uxcl",
+        "title": "Docker hung 住问题解析系列（一）：pipe 容量不够",
+        "link": "https://toutiao.io/k/7ntjm9u",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "如何提高您的安全测试技能",
+        "link": "https://toutiao.io/k/ry9tw4a",
         "date": "2020-11-06"
       },
       {
@@ -15968,18 +15777,38 @@
         "date": "2020-11-06"
       },
       {
-        "title": "Go 设计模式实战之并发组件",
-        "link": "https://toutiao.io/k/6ztalw5",
-        "date": "2020-11-06"
-      },
-      {
         "title": "Go Modules 介绍与基本操作",
         "link": "https://toutiao.io/k/mr1jp1n",
         "date": "2020-11-06"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
+        "title": "Go 设计模式实战之并发组件",
+        "link": "https://toutiao.io/k/6ztalw5",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "iOS 插件化架构探索",
+        "link": "https://toutiao.io/k/wm7uxcl",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "使用 MySQL 主主同步/ Redis 主从复制备份网站",
+        "link": "https://toutiao.io/k/gvyssgm",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "happens-before 那些事儿",
+        "link": "https://toutiao.io/k/agg3crs",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "安信证券数据中台建设历程",
+        "link": "https://toutiao.io/k/u2aihwa",
         "date": "2020-11-06"
       },
       {
@@ -15988,18 +15817,23 @@
         "date": "2020-11-06"
       },
       {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-06"
       },
       {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
         "date": "2020-11-06"
       },
       {
         "title": "[推荐] 图解常见的九种设计模式",
         "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
         "date": "2020-11-06"
       },
       {
@@ -16013,13 +15847,8 @@
         "date": "2020-11-06"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
-        "link": "https://toutiao.io/k/kqvczix",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-06"
       },
       {
@@ -16028,28 +15857,33 @@
         "date": "2020-11-06"
       },
       {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-11-06"
+      },
+      {
         "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
         "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 想自己写框架？不会写 Java 注解可不行",
-        "link": "https://toutiao.io/k/9j801i6",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
         "date": "2020-11-06"
       }
     ]

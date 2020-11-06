@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 01:47:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 02:04:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -58,6 +58,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-11-05-函数式编程进阶：应用函子](https://juejin.im/post/6891820537736069134) 
 - [2020-11-05-jsliang-求职系列---05---this](https://juejin.im/post/6891791033613746189) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
@@ -67,8 +68,7 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
-- [2020-11-05-iOS-14.2-减少了旧小组件和新小组件之间的间距](https://www.v2ex.com/t/722210) 
 - [2020-11-06-有效评估-JS-开发者软实力的十条面试题](https://toutiao.io/k/htnaa9j) 
-- [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) 
 - [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) 
+- [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) 
 - [2020-11-04-JavaScript函数式编程,“香”吗?](https://sec.thief.one/article_content?a_id=296f1bc9ca76988dbfae185439be2a1f) 

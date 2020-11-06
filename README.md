@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 01:47:41，:rocket: 更新条数: +3262， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 02:04:20，:rocket: 更新条数: +3229， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -473,11 +473,11 @@
 </summary>
 
 
+- [2020-11-05-第-2-篇：上手-Vue-展示-todo-列表](https://juejin.im/post/6891824013572571149) ![](assets/new.png)  
+- [2020-11-05-函数式编程进阶：应用函子](https://juejin.im/post/6891820537736069134) ![](assets/new.png)  
 - [2020-11-05-前端智能化-2020-年中总结和反思](https://juejin.im/post/6891816708387831816) ![](assets/new.png)  
 - [2020-11-05-这个项目可以让你在几分钟快速了解某个编程语言](https://juejin.im/post/6891816004721049607) ![](assets/new.png)  
 - [2020-11-05-jsliang-求职系列---05---this](https://juejin.im/post/6891791033613746189) ![](assets/new.png)  
-- [2020-11-05-那个忙了一夜的Vue3动画很好，就是太短了](https://juejin.im/post/6891640356543627278) ![](assets/new.png)  
-- [2020-11-05-V8中JavaScript的内存管理与垃圾回收](https://juejin.im/post/6891614154134667272) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,6 @@
 </summary>
 
 
-- [2020-11-06-windown10-下有没有类似-macos-下-SHUTTLE-这样的-ssh-快捷方式软件？](https://www.v2ex.com/t/722256) ![](assets/new.png)  
-- [2020-11-06-正常使用的账号为什么会被-ban？-DEACTIVATE-的依据是什么？](https://www.v2ex.com/t/722255) ![](assets/new.png)  
-- [2020-11-06-亲哥生了一个女儿，该送点啥？](https://www.v2ex.com/t/722254) ![](assets/new.png)  
-- [2020-11-06-新手上路-如何判断最左侧车道可以直行?](https://www.v2ex.com/t/722253) ![](assets/new.png)  
-- [2020-11-06-Big-Sur-11.0.1-RC-发布了，正式版不远了](https://www.v2ex.com/t/722252) ![](assets/new.png)  
-- [2020-11-06-暖脚宝](https://www.v2ex.com/t/722249) ![](assets/new.png)  
-- [2020-11-06-求推荐个好用的-wordpress-视频主题](https://www.v2ex.com/t/722246) ![](assets/new.png)  
-- [2020-11-06-上海美资公司招-OpenGL/C++开发](https://www.v2ex.com/t/722245) ![](assets/new.png)  
-- [2020-11-06-iPhone-12-mini-/pro-max-媒体上手解禁了啊](https://www.v2ex.com/t/722244) ![](assets/new.png)  
-- [2020-11-06-搭建博客的时候你们会选现成的（比如-WordPress、hexo-等）还是自己开发一个？](https://www.v2ex.com/t/722242) ![](assets/new.png)  
-- [2020-11-06-有个服务需要部署在不同的地域，关于数据收集的方案](https://www.v2ex.com/t/722241) ![](assets/new.png)  
-- [2020-11-06-1.5T-的🚗动力到底够不够？看上了-C200-轿跑](https://www.v2ex.com/t/722240) ![](assets/new.png)  
-- [2020-11-06-iPhone-联通用户在-volte-下通话时-第三方来电会切断我当前通话](https://www.v2ex.com/t/722239) ![](assets/new.png)  
-- [2020-11-06-周五了-哪个大牛能给点建议](https://www.v2ex.com/t/722238) ![](assets/new.png)  
-- [2020-11-06-《捕蛇者说》Ep-22.-和高天聊聊-VizTracer](https://www.v2ex.com/t/722237) ![](assets/new.png)  
-- [2020-11-06-印象笔记吃相真难看](https://www.v2ex.com/t/722235) ![](assets/new.png)  
-- [2020-11-06-bugsur-推送正式版了](https://www.v2ex.com/t/722234) ![](assets/new.png)  
-- [2020-11-06-迫于装机](https://www.v2ex.com/t/722233) ![](assets/new.png)  
-- [2020-11-06-企业微信-SSO-今天早上又有故障了吗？](https://www.v2ex.com/t/722232) ![](assets/new.png)  
-- [2020-11-06-有关-mbp-接显示器，软件窗口大小问题](https://www.v2ex.com/t/722228) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -584,6 +564,7 @@
 </summary>
 
 
+- [2020-11-06-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13886&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777361%3Futm_content%3Dg_1000199921%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-06-解读云原生基础设施-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13885&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777599%3Futm_content%3Dg_1000199589%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-06-浅析云控平台画面传输的视频流方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13884&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777591%3Futm_content%3Dg_1000199588%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-06-2020阿里云双11企业分会场攻略-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13883&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fhome%3Futm_content%3Dg_1000194540%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -603,7 +584,6 @@
 - [2020-11-06-持续定义Saas模式云数据仓库+实时分析-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13869&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F771366%3Futm_content%3Dg_1000198212%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-06-Serverless-对研发效能的变革和创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13868&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776785%3Futm_content%3Dg_1000197930%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-06-云原生时代，应用架构将如何演进？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13867&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776786%3Futm_content%3Dg_1000197929%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-06-阿里云数据湖解决方案全面满足数据需求，帮助企业释放数据价值-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13866&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F772900%3Futm_content%3Dg_1000197928%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -619,22 +599,22 @@
 - [2020-11-06-Webpack-从-v4-升级至-v5-遇到问题记录](https://toutiao.io/k/yk4wh7p) ![](assets/new.png)  
 - [2020-11-06-有效评估-JS-开发者软实力的十条面试题](https://toutiao.io/k/htnaa9j) ![](assets/new.png)  
 - [2020-11-06-Python-中-Redis-库分布式锁简单分析](https://toutiao.io/k/yr4czdu) ![](assets/new.png)  
-- [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
 - [2020-11-06-一文说透-“依赖注入”](https://toutiao.io/k/nch71kt) ![](assets/new.png)  
-- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
-- [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
+- [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
 - [2020-11-06-谈谈线程池](https://toutiao.io/k/9vcp3g2) ![](assets/new.png)  
 - [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
-- [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
+- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
+- [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
 - [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
-- [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
 - [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
-- [2020-11-06-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
+- [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
+- [2020-11-06-使用-MySQL-主主同步/-Redis-主从复制备份网站](https://toutiao.io/k/gvyssgm) ![](assets/new.png)  
+- [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-06-happens-before-那些事儿](https://toutiao.io/k/agg3crs) ![](assets/new.png)  
+- [2020-11-06-安信证券数据中台建设历程](https://toutiao.io/k/u2aihwa) ![](assets/new.png)  
 - [2020-11-06-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-06-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-11-06-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
-- [2020-11-06-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-06-推荐-译-何时使用-Rust-和何时使用-Golang？](https://toutiao.io/k/z6p6anw) ![](assets/new.png)  
+- [2020-11-06-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 15:35:36，:rocket: 更新条数: +3035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 15:48:42，:rocket: 更新条数: +3027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +523,8 @@
 </summary>
 
 
+- [2020-11-06-求助-Windows10-v2004-20H2-开机经常会-D-盘盘符没了,-也找不到盘,-要用-disk-genius-手动-assign-一个盘符才会出现,](https://www.v2ex.com/t/722566) ![](assets/new.png)  
+- [2020-11-06-手贱升级了-iOS14.2，没想到........欲哭无泪啊](https://www.v2ex.com/t/722565) ![](assets/new.png)  
 - [2020-11-06-ssh-到服务器,如何在-vim-中将-200-行代码复制到本地剪贴板windows](https://www.v2ex.com/t/722563) ![](assets/new.png)  
 - [2020-11-06-国内有没有可以储存小文件，并且能用-wget-之类下载的免费服务](https://www.v2ex.com/t/722560) ![](assets/new.png)  
 - [2020-11-06-没有抢到-12pm，请问还有什么渠道可以-11-月-28-号前买到？](https://www.v2ex.com/t/722559) ![](assets/new.png)  
@@ -551,8 +543,6 @@
 - [2020-11-06-买了一台联想-yoga-14s-2021-Intel-版之后](https://www.v2ex.com/t/722540) ![](assets/new.png)  
 - [2020-11-06-很好奇大家周末都是怎么安排的？](https://www.v2ex.com/t/722539) ![](assets/new.png)  
 - [2020-11-06-电脑玩游戏帧数突然变低是什么原因？](https://www.v2ex.com/t/722538) ![](assets/new.png)  
-- [2020-11-06-Java-如何获取方法中的变量](https://www.v2ex.com/t/722537) ![](assets/new.png)  
-- [2020-11-06-Visual-Studio-的黑窗口控制台怎么快速跳转到跟踪语句的所在行?](https://www.v2ex.com/t/722536) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -606,9 +596,9 @@
 - [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
 - [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
 - [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
+- [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
 - [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
-- [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
 - [2020-11-06-使用-MySQL-主主同步/-Redis-主从复制备份网站](https://toutiao.io/k/gvyssgm) ![](assets/new.png)  
 - [2020-11-06-安信证券数据中台建设历程](https://toutiao.io/k/u2aihwa) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 14:33:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 14:35:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -73,6 +73,7 @@
 - [2020-01-21-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-21-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-19-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
+- [2020-11-06-网上怎么看电视直播？](https://www.v2ex.com/t/722550) 
 - [2020-11-06-浅析云控平台画面传输的视频流方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13884&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777591%3Futm_content%3Dg_1000199588%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) 
 - [2020-11-05-​线上直播沙龙-是德科技站,参与即有机会赢取大奖哦!](https://sec.thief.one/article_content?a_id=0f5dc502afcd918ca26804a8f5b52925) 

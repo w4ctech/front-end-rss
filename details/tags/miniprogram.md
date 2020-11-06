@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 03:35:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-06 03:47:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -9,4 +9,3 @@
 
 - [2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
-- [2020-11-06-xdm，一款打牌计分的小程序，距离过年还有-3-个月，爱打牌的可以先-mark-下，提提意见](https://www.v2ex.com/t/722275) 

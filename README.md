@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 03:35:27，:rocket: 更新条数: +3039， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 03:47:37，:rocket: 更新条数: +3040， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -454,10 +454,10 @@
 
 
 - [2020-11-05-一个业务小需求引发了我对代码的思考](https://juejin.im/post/6891824408281743367) ![](assets/new.png)  
+- [2020-11-05-函数式编程进阶：应用函子](https://juejin.im/post/6891820537736069134) ![](assets/new.png)  
 - [2020-11-05-工作中常用js的整理](https://juejin.im/post/6891809816503648263) ![](assets/new.png)  
 - [2020-11-05-【一天一大-lee】根据数字二进制下-1-的数目排序-难度:简单---Day20201106](https://juejin.im/post/6891789889482801165) ![](assets/new.png)  
 - [2020-11-05-前端学数据结构与算法（十一）：看似简单又让人抓狂的二分查找算法](https://juejin.im/post/6891684098457206791) ![](assets/new.png)  
-- [2020-11-05-我是如何设计后台框架里那些锦上添花的动画效果](https://juejin.im/post/6891681781830352903) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,15 @@
 </summary>
 
 
+- [2020-11-06-请问大家的公司,出差的回程机票凌晨到机场,回家的路费报销吗?第二天要求正常上班吗?](https://www.v2ex.com/t/722334) ![](assets/new.png)  
+- [2020-11-06-你们家庭聚餐会-AA-么？](https://www.v2ex.com/t/722333) ![](assets/new.png)  
+- [2020-11-06-请教阿里，-shopee-的-offer-选择。](https://www.v2ex.com/t/722332) ![](assets/new.png)  
+- [2020-11-06-md,-lz-受不了-csdn-了-，吐槽贴](https://www.v2ex.com/t/722331) ![](assets/new.png)  
+- [2020-11-06-有办法在-Parallels-Desktop-的融合模式里完美交换-Ctrl-和-Windows-键吗](https://www.v2ex.com/t/722330) ![](assets/new.png)  
+- [2020-11-06-百度在线自称HR-在-BOSS-上找我要简历并给我打电话说，你的简历比较合适，但是我们-HC-紧张，需要跟软通签协议，这是什么操作？](https://www.v2ex.com/t/722329) ![](assets/new.png)  
+- [2020-11-06-几百万张图片如何快速拷贝到其他电脑](https://www.v2ex.com/t/722328) ![](assets/new.png)  
+- [2020-11-06-史上最垃圾的服务号，网易严选，一天能推送-10-条广告，还不能设置的那种](https://www.v2ex.com/t/722327) ![](assets/new.png)  
+- [2020-11-06-上班摸鱼的后果，-leetcode-刷题，一道也不会，哭了。](https://www.v2ex.com/t/722326) ![](assets/new.png)  
 - [2020-11-06-甲方的信息安全工程师可以往-APT-方向去发展吗？](https://www.v2ex.com/t/722324) ![](assets/new.png)  
 - [2020-11-06-O365-开车第三年了，-2-个小伙伴下车了。49/y-21-年-12-月到期-telegram：-https://t.me/feb0217](https://www.v2ex.com/t/722322) ![](assets/new.png)  
 - [2020-11-06-v2ex-有做安全的朋友吗](https://www.v2ex.com/t/722321) ![](assets/new.png)  
@@ -544,15 +553,6 @@
 - [2020-11-06-关于-R7000p-购买的相关问题](https://www.v2ex.com/t/722314) ![](assets/new.png)  
 - [2020-11-06-ios14.2-正式版修复:锁定屏幕中的键盘在您尝试输入密码时可能漏输](https://www.v2ex.com/t/722312) ![](assets/new.png)  
 - [2020-11-06-大家有使用支付宝的安全备忘（钢铁闸）吗？](https://www.v2ex.com/t/722310) ![](assets/new.png)  
-- [2020-11-06-批处理-spring-Batch-到底有必有必要学？](https://www.v2ex.com/t/722309) ![](assets/new.png)  
-- [2020-11-06-f-render-来啦~，基于-ElementUI-的表单设计器，助力流程引擎、各类动态表单系统、表单可视化场景，还不来看看嘛~](https://www.v2ex.com/t/722308) ![](assets/new.png)  
-- [2020-11-06-有感于三个月的项目被砍](https://www.v2ex.com/t/722307) ![](assets/new.png)  
-- [2020-11-06-有大佬用过-Gitlab-的-CICD-吗](https://www.v2ex.com/t/722305) ![](assets/new.png)  
-- [2020-11-06-苏州微软-招聘-前端/Fullstack-工程师](https://www.v2ex.com/t/722304) ![](assets/new.png)  
-- [2020-11-06-求推荐便宜稳定的国外云服务器](https://www.v2ex.com/t/722303) ![](assets/new.png)  
-- [2020-11-06-Golang-开发的匿名互动在线聊天游戏，大家多提建议](https://www.v2ex.com/t/722301) ![](assets/new.png)  
-- [2020-11-06-黑车面经：字模式-II](https://www.v2ex.com/t/722300) ![](assets/new.png)  
-- [2020-11-06-很好奇吉列的手动剃须刀效果到底怎么样？有买过的分享下么？](https://www.v2ex.com/t/722299) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -610,8 +610,8 @@
 - [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
 - [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
 - [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-06-安信证券数据中台建设历程](https://toutiao.io/k/u2aihwa) ![](assets/new.png)  
 - [2020-11-06-使用-MySQL-主主同步/-Redis-主从复制备份网站](https://toutiao.io/k/gvyssgm) ![](assets/new.png)  
+- [2020-11-06-安信证券数据中台建设历程](https://toutiao.io/k/u2aihwa) ![](assets/new.png)  
 - [2020-11-06-happens-before-那些事儿](https://toutiao.io/k/agg3crs) ![](assets/new.png)  
 - [2020-11-06-突破自己](https://toutiao.io/k/k1nizxv) ![](assets/new.png)  
 - [2020-11-06-Lucene-索引文件的读取之-fdx&&fdt&&fdm](https://toutiao.io/k/5rrgpzu) ![](assets/new.png)  

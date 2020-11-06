@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-06 13:47:54，:rocket: 更新条数: +3001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 14:04:37，:rocket: 更新条数: +3025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +523,10 @@
 </summary>
 
 
+- [2020-11-06-@Livid-你猜我发现了什么图片！](https://www.v2ex.com/t/722551) ![](assets/new.png)  
+- [2020-11-06-网上怎么看电视直播？](https://www.v2ex.com/t/722550) ![](assets/new.png)  
+- [2020-11-06-爱奇艺+京东-PLUS-年卡-=-104-元](https://www.v2ex.com/t/722549) ![](assets/new.png)  
+- [2020-11-06-关于计算日期的问题可能有点弱智了....](https://www.v2ex.com/t/722548) ![](assets/new.png)  
 - [2020-11-06-不是，-12pm-这么难抢的吗。](https://www.v2ex.com/t/722544) ![](assets/new.png)  
 - [2020-11-06-web-真的好入门吗？](https://www.v2ex.com/t/722543) ![](assets/new.png)  
 - [2020-11-06-<Apple-Store-这就更新完成，一会儿见>-这个消失的规律是什么?](https://www.v2ex.com/t/722542) ![](assets/new.png)  
@@ -545,14 +539,10 @@
 - [2020-11-06-利用-onedrive-搭配腾讯云轻量服务器搭建一个高速网盘](https://www.v2ex.com/t/722534) ![](assets/new.png)  
 - [2020-11-06-腾讯云企业用户今年力度那么大？你怎么看？](https://www.v2ex.com/t/722533) ![](assets/new.png)  
 - [2020-11-06-一直没有勇气买房，承担房贷](https://www.v2ex.com/t/722530) ![](assets/new.png)  
-- [2020-11-06-1](https://www.v2ex.com/t/722529) ![](assets/new.png)  
 - [2020-11-06-苹果生态系统里面-OneNote-好不好用，能不能替代印象笔记？](https://www.v2ex.com/t/722528) ![](assets/new.png)  
 - [2020-11-06-求-Python-大佬解救](https://www.v2ex.com/t/722527) ![](assets/new.png)  
 - [2020-11-06-借债本身没有错](https://www.v2ex.com/t/722526) ![](assets/new.png)  
 - [2020-11-06-请问有没有多台同局域网电脑下载同一个文件后统一发往一台电脑的软件？](https://www.v2ex.com/t/722525) ![](assets/new.png)  
-- [2020-11-06-迫于海淘被税，去望京报关行自提还需要缴纳-30-服务费吗？](https://www.v2ex.com/t/722524) ![](assets/new.png)  
-- [2020-11-06-迫于受不了隔壁这个回复…晒一下印象笔记的广告频率](https://www.v2ex.com/t/722523) ![](assets/new.png)  
-- [2020-11-06-从-iTunes-恢复-iPhone-后还需要重新下载所有-APP-吗？](https://www.v2ex.com/t/722521) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -595,6 +585,26 @@
 </summary>
 
 
+- [2020-11-06-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-06-Webpack-从-v4-升级至-v5-遇到问题记录](https://toutiao.io/k/yk4wh7p) ![](assets/new.png)  
+- [2020-11-06-有效评估-JS-开发者软实力的十条面试题](https://toutiao.io/k/htnaa9j) ![](assets/new.png)  
+- [2020-11-06-一文说透-“依赖注入”](https://toutiao.io/k/nch71kt) ![](assets/new.png)  
+- [2020-11-06-Python-中-Redis-库分布式锁简单分析](https://toutiao.io/k/yr4czdu) ![](assets/new.png)  
+- [2020-11-06-谈谈线程池](https://toutiao.io/k/9vcp3g2) ![](assets/new.png)  
+- [2020-11-06-如何提高您的安全测试技能](https://toutiao.io/k/ry9tw4a) ![](assets/new.png)  
+- [2020-11-06-Go-Modules-介绍与基本操作](https://toutiao.io/k/mr1jp1n) ![](assets/new.png)  
+- [2020-11-06-Go-设计模式实战之并发组件](https://toutiao.io/k/6ztalw5) ![](assets/new.png)  
+- [2020-11-06-译-AVIF：你不得不了解的图像格式](https://toutiao.io/k/p6vdh5s) ![](assets/new.png)  
+- [2020-11-06-iOS-插件化架构探索](https://toutiao.io/k/wm7uxcl) ![](assets/new.png)  
+- [2020-11-06-Docker-hung-住问题解析系列（一）：pipe-容量不够](https://toutiao.io/k/7ntjm9u) ![](assets/new.png)  
+- [2020-11-06-译-“Stack-Too-Deep（堆栈太深）”-解决方案](https://toutiao.io/k/vht7wgi) ![](assets/new.png)  
+- [2020-11-06-简洁、响应式和多配色的-Hugo-主题](https://toutiao.io/k/7bvn9p8) ![](assets/new.png)  
+- [2020-11-06-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-06-使用-MySQL-主主同步/-Redis-主从复制备份网站](https://toutiao.io/k/gvyssgm) ![](assets/new.png)  
+- [2020-11-06-安信证券数据中台建设历程](https://toutiao.io/k/u2aihwa) ![](assets/new.png)  
+- [2020-11-06-突破自己](https://toutiao.io/k/k1nizxv) ![](assets/new.png)  
+- [2020-11-06-happens-before-那些事儿](https://toutiao.io/k/agg3crs) ![](assets/new.png)  
+- [2020-11-06-Lucene-索引文件的读取之-fdx&&fdt&&fdm](https://toutiao.io/k/5rrgpzu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

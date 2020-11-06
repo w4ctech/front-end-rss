@@ -14149,58 +14149,7 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [
-      {
-        "title": "NutUI CLI源码解析",
-        "link": "https://jdc.jd.com/archives/213013",
-        "date": "2020-03-24"
-      },
-      {
-        "title": "NutUI 3.0 中单元测试的探索和实践",
-        "link": "https://jdc.jd.com/archives/213007",
-        "date": "2020-03-10"
-      },
-      {
-        "title": "用户说的都是真的吗？这些陷阱要避开",
-        "link": "https://jdc.jd.com/archives/212987",
-        "date": "2019-06-28"
-      },
-      {
-        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
-        "link": "https://jdc.jd.com/archives/212979",
-        "date": "2019-03-15"
-      },
-      {
-        "title": "京东PLUS会员项目前端性能优化实践",
-        "link": "https://jdc.jd.com/archives/212962",
-        "date": "2019-02-15"
-      },
-      {
-        "title": "8个常见的研究者认知偏误陷阱",
-        "link": "https://jdc.jd.com/archives/212946",
-        "date": "2019-01-28"
-      },
-      {
-        "title": "用户访谈——哪些原则简单却有效",
-        "link": "https://jdc.jd.com/archives/212927",
-        "date": "2019-01-24"
-      },
-      {
-        "title": "体现工匠精神的Resource Hints",
-        "link": "https://jdc.jd.com/archives/212917",
-        "date": "2018-12-29"
-      },
-      {
-        "title": "HTML5 Audio的兼容性问题和优化",
-        "link": "https://jdc.jd.com/archives/212874",
-        "date": "2018-12-26"
-      },
-      {
-        "title": "一个表情引发的思考",
-        "link": "https://jdc.jd.com/archives/212870",
-        "date": "2018-12-26"
-      }
-    ],
+    "items": [],
     "link": "https://jdc.jd.com"
   },
   {
@@ -14458,6 +14407,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "@Livid 你猜我发现了什么图片！",
+        "link": "https://www.v2ex.com/t/722551",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "网上怎么看电视直播？",
+        "link": "https://www.v2ex.com/t/722550",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "爱奇艺+京东 PLUS 年卡 = 104 元",
+        "link": "https://www.v2ex.com/t/722549",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "关于计算日期的问题(可能有点弱智了....)",
+        "link": "https://www.v2ex.com/t/722548",
+        "date": "2020-11-06"
+      },
+      {
         "title": "不是， 12pm 这么难抢的吗。",
         "link": "https://www.v2ex.com/t/722544",
         "date": "2020-11-06"
@@ -14515,11 +14484,6 @@
       {
         "title": "一直没有勇气买房，承担房贷",
         "link": "https://www.v2ex.com/t/722530",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "1",
-        "link": "https://www.v2ex.com/t/722529",
         "date": "2020-11-06"
       },
       {
@@ -14610,26 +14574,6 @@
       {
         "title": "Chrome 的接力被 Safari 劫持了！",
         "link": "https://www.v2ex.com/t/722503",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "公司要搬家的新办公室，征集一下会议室名字",
-        "link": "https://www.v2ex.com/t/722501",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "程序中的枚举字段大家用数字还是英文来表示",
-        "link": "https://www.v2ex.com/t/722500",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "北方人过冬有暖气，南方人靠什么过冬？",
-        "link": "https://www.v2ex.com/t/722499",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "go 有 能支持 tcp 和 udp 的游戏框架吗？",
-        "link": "https://www.v2ex.com/t/722498",
         "date": "2020-11-06"
       }
     ]
@@ -14742,10 +14686,186 @@
     ]
   },
   {
-    "rss": "https://rss.shab.fun/toutiao/today",
+    "rss": "https://rss.itggg.cn/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "Webpack 从 v4 升级至 v5 遇到问题记录",
+        "link": "https://toutiao.io/k/yk4wh7p",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "有效评估 JS 开发者软实力的十条面试题",
+        "link": "https://toutiao.io/k/htnaa9j",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "一文说透 “依赖注入”",
+        "link": "https://toutiao.io/k/nch71kt",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "Python 中 Redis 库分布式锁简单分析",
+        "link": "https://toutiao.io/k/yr4czdu",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "谈谈线程池",
+        "link": "https://toutiao.io/k/9vcp3g2",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "如何提高您的安全测试技能",
+        "link": "https://toutiao.io/k/ry9tw4a",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "Go Modules 介绍与基本操作",
+        "link": "https://toutiao.io/k/mr1jp1n",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "Go 设计模式实战之并发组件",
+        "link": "https://toutiao.io/k/6ztalw5",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[译] AVIF：你不得不了解的图像格式",
+        "link": "https://toutiao.io/k/p6vdh5s",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "iOS 插件化架构探索",
+        "link": "https://toutiao.io/k/wm7uxcl",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "Docker hung 住问题解析系列（一）：pipe 容量不够",
+        "link": "https://toutiao.io/k/7ntjm9u",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[译] “Stack Too Deep（堆栈太深）” 解决方案",
+        "link": "https://toutiao.io/k/vht7wgi",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "简洁、响应式和多配色的 Hugo 主题",
+        "link": "https://toutiao.io/k/7bvn9p8",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "使用 MySQL 主主同步/ Redis 主从复制备份网站",
+        "link": "https://toutiao.io/k/gvyssgm",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "安信证券数据中台建设历程",
+        "link": "https://toutiao.io/k/u2aihwa",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "突破自己",
+        "link": "https://toutiao.io/k/k1nizxv",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "happens-before 那些事儿",
+        "link": "https://toutiao.io/k/agg3crs",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "Lucene 索引文件的读取之 fdx&&fdt&&fdm",
+        "link": "https://toutiao.io/k/5rrgpzu",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] [译] 何时使用 Rust 和何时使用 Golang？",
+        "link": "https://toutiao.io/k/z6p6anw",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
+        "link": "https://toutiao.io/k/kqvczix",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-06"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

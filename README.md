@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 02:35:38，:rocket: 更新条数: +3258， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 02:47:42，:rocket: 更新条数: +3258， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-07-watchOS-7.1-一直卡在-verifying...](https://www.v2ex.com/t/722622) ![](assets/new.png)  
+- [2020-11-07-一年经验跳槽是否频繁](https://www.v2ex.com/t/722621) ![](assets/new.png)  
 - [2020-11-07-有多少人最近-3-个月-Chrome-访问国内网站慢到打不开的,-修了这么久终于找到问题了](https://www.v2ex.com/t/722618) ![](assets/new.png)  
 - [2020-11-07-最近入手了-S20，怎么和-Mac-联动啊。有使用安卓手机加-Mac-的老哥吗？](https://www.v2ex.com/t/722617) ![](assets/new.png)  
 - [2020-11-07-pgsql-相对于-mysql-的-memory-engine](https://www.v2ex.com/t/722616) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-07-第一次购买-iPhone-，怎么选择到店提取](https://www.v2ex.com/t/722594) ![](assets/new.png)  
 - [2020-11-07-寻求开源-SQL-在线查询设计器，现在用的-extjs-的不是很好用。](https://www.v2ex.com/t/722593) ![](assets/new.png)  
 - [2020-11-07-数据可视化，前端有办法-hack-进入-echarts-获取内部数据吗？](https://www.v2ex.com/t/722592) ![](assets/new.png)  
-- [2020-11-07-请问-chalk-怎么作为-Worker-Threads-的参数？](https://www.v2ex.com/t/722591) ![](assets/new.png)  
-- [2020-11-07-如何查看-iPhone12-显示屏生产厂家？](https://www.v2ex.com/t/722587) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,16 +625,16 @@
 - [2020-11-07-packetdrill-简介](https://toutiao.io/k/x69jfku) ![](assets/new.png)  
 - [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-勾陈：SCRUM-的来源](https://toutiao.io/k/tq3fbv3) ![](assets/new.png)  
-- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-07-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-07-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
-- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-07-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-07-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

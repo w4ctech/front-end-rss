@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-07 02:35:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 02:47:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-07-watchOS-7.1-一直卡在-verifying...](https://www.v2ex.com/t/722622) 
+- [2020-11-07-一年经验跳槽是否频繁](https://www.v2ex.com/t/722621) 
 - [2020-11-07-有多少人最近-3-个月-Chrome-访问国内网站慢到打不开的,-修了这么久终于找到问题了](https://www.v2ex.com/t/722618) 
 - [2020-11-07-最近入手了-S20，怎么和-Mac-联动啊。有使用安卓手机加-Mac-的老哥吗？](https://www.v2ex.com/t/722617) 
 - [2020-11-07-pgsql-相对于-mysql-的-memory-engine](https://www.v2ex.com/t/722616) 
@@ -36,5 +38,3 @@
 - [2020-11-06-突然发现自己预约到了-12pm-线下提货，有点懵](https://www.v2ex.com/t/722577) 
 - [2020-11-06-Python-如何减小-cef-打包出来的体积](https://www.v2ex.com/t/722576) 
 - [2020-11-06-自动刹车+方向盘握力计](https://www.v2ex.com/t/722573) 
-- [2020-11-06-文本分词，高效文本处理神器](https://www.v2ex.com/t/722572) 
-- [2020-11-06-Coursera-企业版包年学习所有在线课程](https://www.v2ex.com/t/722570) 

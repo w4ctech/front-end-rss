@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-07 01:01:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 01:11:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-07-终于在昨天，-Apple-Watch-修复了天气无法显示和手表无法绑定解锁-Mac-的功能](https://www.v2ex.com/t/722597) 
+- [2020-11-07-快手-，靠谱研发在线内推](https://www.v2ex.com/t/722596) 
 - [2020-11-07-第一次购买-iPhone-，怎么选择到店提取](https://www.v2ex.com/t/722594) 
 - [2020-11-07-寻求开源-SQL-在线查询设计器，现在用的-extjs-的不是很好用。](https://www.v2ex.com/t/722593) 
 - [2020-11-07-数据可视化，前端有办法-hack-进入-echarts-获取内部数据吗？](https://www.v2ex.com/t/722592) 

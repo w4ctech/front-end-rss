@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 15:03:54，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 15:12:02，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
-- [2020-11-07-从0到1的async/await实现](https://juejin.im/post/6892354938492911623) ![](assets/new.png)  
-- [2020-11-07-制作极简的零配置-JS/TS-打包工具](https://juejin.im/post/6892312326100549640) ![](assets/new.png)  
-- [2020-11-07-函数编程--柯里化](https://juejin.im/post/6892311321530859527) ![](assets/new.png)  
-- [2020-11-07-【web网络篇】—跨域](https://juejin.im/post/6892306259987398664) ![](assets/new.png)  
-- [2020-11-07-精读：threejs实现全景图](https://juejin.im/post/6892289907801522183) ![](assets/new.png)  
+- [2020-11-07-一个朴实无华的名字---js异步](https://juejin.im/post/6892340392546156557) ![](assets/new.png)  
+- [2020-11-07-（建议收藏）Vue3-对比-Vue2.x-差异性、注意点、整体梳理，与React-hook比又如何？（面试热点）](https://juejin.im/post/6892295955844956167) ![](assets/new.png)  
+- [2020-11-06-Webpack-打包](https://juejin.im/post/6892277481697771528) ![](assets/new.png)  
+- [2020-11-06-最简单的变量提升和优先级](https://juejin.im/post/6892255350938927112) ![](assets/new.png)  
+- [2020-11-06-译|Github-Actions-工作流的创建管理](https://juejin.im/post/6892248874669309965) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-07-没有人用-JavaScript-写后端吗，后端界没个像-webpack-dev-server-一样的工具？](https://www.v2ex.com/t/722794) ![](assets/new.png)  
 - [2020-11-07-信用卡存钱凑额度分期](https://www.v2ex.com/t/722793) ![](assets/new.png)  
 - [2020-11-07-咨询-IOS-应用发布的问题](https://www.v2ex.com/t/722792) ![](assets/new.png)  
 - [2020-11-07-关于-apple-trade-in，能不能在买新-watch-时抵扣掉两只旧-watch？](https://www.v2ex.com/t/722791) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-07-有哪些能造景的沙盒建设类的游戏？](https://www.v2ex.com/t/722776) ![](assets/new.png)  
 - [2020-11-07-为什么创业？---未来世界的幸存者-|-极客分享第-3-期](https://www.v2ex.com/t/722775) ![](assets/new.png)  
 - [2020-11-07-有没类似迷雾剧场的剧推荐啊](https://www.v2ex.com/t/722774) ![](assets/new.png)  
-- [2020-11-07-今天和学姐看了《金刚川》，分享下看法](https://www.v2ex.com/t/722773) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-packetdrill-简介](https://toutiao.io/k/x69jfku) ![](assets/new.png)  
 - [2020-11-07-勾陈：SCRUM-的来源](https://toutiao.io/k/tq3fbv3) ![](assets/new.png)  
-- [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-07-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
-- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
 - [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-11-07-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
+- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

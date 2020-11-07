@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 11:48:13，:rocket: 更新条数: +3030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 12:05:37，:rocket: 更新条数: +3030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-07-win10-主屏一些全屏的应用窗口上面一块显示异常，重启后一会又出现了这个问题。](https://www.v2ex.com/t/722762) ![](assets/new.png)  
+- [2020-11-07-请问-Net-core-开发的程序，怎么在-Linux-上。使用-mutex？？](https://www.v2ex.com/t/722761) ![](assets/new.png)  
+- [2020-11-07-京东以旧换新购买-iPhone-12，出现故障退货不退补贴，只能自认倒霉了吗](https://www.v2ex.com/t/722760) ![](assets/new.png)  
 - [2020-11-07-iPhone12mini-开售了吗？这款手机到底值不值得买](https://www.v2ex.com/t/722759) ![](assets/new.png)  
 - [2020-11-07-想买美股/港股，需要储备哪些预备知识](https://www.v2ex.com/t/722758) ![](assets/new.png)  
 - [2020-11-07-AirPods-Pro-维修更换的一个「坑」](https://www.v2ex.com/t/722756) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-07-微信-iOS-已经很久不能正常添加-png-图片作为表情包了](https://www.v2ex.com/t/722741) ![](assets/new.png)  
 - [2020-11-07-Debian-上学习着搭建-MySQL-集群报-The-hostname-this-node-should-have-according-to-……-的错误，-why？](https://www.v2ex.com/t/722739) ![](assets/new.png)  
 - [2020-11-07-关于-iOS-后台-APP-刷新](https://www.v2ex.com/t/722735) ![](assets/new.png)  
-- [2020-11-07-腾讯云双-11，轻量-1-核-2G3M-带宽-83-元/1-年，开箱测试](https://www.v2ex.com/t/722733) ![](assets/new.png)  
-- [2020-11-07-国内的云服务器为啥不分地域-ping-起来的延迟都差不多](https://www.v2ex.com/t/722732) ![](assets/new.png)  
-- [2020-11-07-openwrt-怎么配置-WiFi-为-wan？](https://www.v2ex.com/t/722731) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-packetdrill-简介](https://toutiao.io/k/x69jfku) ![](assets/new.png)  
 - [2020-11-07-勾陈：SCRUM-的来源](https://toutiao.io/k/tq3fbv3) ![](assets/new.png)  
-- [2020-11-07-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-07-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
-- [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-07-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
 - [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

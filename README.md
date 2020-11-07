@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 01:11:20，:rocket: 更新条数: +3028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 01:28:52，:rocket: 更新条数: +3027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-11-05-最新疫情：全国新冠累计确诊86151例-新疆本土新增6例](https://m.caixin.com/m/2020-11-06/101624002.html) ![](assets/new.png)  
+- [2020-11-06-11月6日全国新增境外输入新冠33例-累计确诊86184例](http://m.china.caixin.com/m/2020-11-07/101624143.html) ![](assets/new.png)  
 - [2020-11-05-两款新冠抗原检测试剂国内首获批-药监局称仅可作补充方法](https://m.caixin.com/m/2020-11-06/101623649.html) ![](assets/new.png)  
 - [2020-11-05-最新海外疫情：新冠感染超4854万-累计死亡近123万](http://m.international.caixin.com/m/2020-11-06/101623992.html) ![](assets/new.png)  
 - [2020-11-05-【境内疫情观察】新疆新增6例本土确诊病例（11月5日）](http://m.database.caixin.com/m/2020-11-06/101623769.html) ![](assets/new.png)  
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-07-来说说你们身边的老年人有没有上水韵清禾当的？](https://www.v2ex.com/t/722600) ![](assets/new.png)  
+- [2020-11-07-饿了么商超-90-减-40](https://www.v2ex.com/t/722598) ![](assets/new.png)  
 - [2020-11-07-终于在昨天，-Apple-Watch-修复了天气无法显示和手表无法绑定解锁-Mac-的功能](https://www.v2ex.com/t/722597) ![](assets/new.png)  
 - [2020-11-07-快手-，靠谱研发在线内推](https://www.v2ex.com/t/722596) ![](assets/new.png)  
 - [2020-11-07-第一次购买-iPhone-，怎么选择到店提取](https://www.v2ex.com/t/722594) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-06-不是说公共-peering-是对方没有义务帮你转发到另一个网么？](https://www.v2ex.com/t/722578) ![](assets/new.png)  
 - [2020-11-06-突然发现自己预约到了-12pm-线下提货，有点懵](https://www.v2ex.com/t/722577) ![](assets/new.png)  
 - [2020-11-06-Python-如何减小-cef-打包出来的体积](https://www.v2ex.com/t/722576) ![](assets/new.png)  
-- [2020-11-06-自动刹车+方向盘握力计](https://www.v2ex.com/t/722573) ![](assets/new.png)  
-- [2020-11-06-文本分词，高效文本处理神器](https://www.v2ex.com/t/722572) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,19 +602,19 @@
 - [2020-11-07-BigDecimal-的使用](https://toutiao.io/k/qzfxl8x) ![](assets/new.png)  
 - [2020-11-07-双十一，买它买它买它！](https://toutiao.io/k/pr492jn) ![](assets/new.png)  
 - [2020-11-07-前端智能化-2020-年中总结和反思](https://toutiao.io/k/b0wk996) ![](assets/new.png)  
-- [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-packetdrill-简介](https://toutiao.io/k/x69jfku) ![](assets/new.png)  
+- [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-勾陈：SCRUM-的来源](https://toutiao.io/k/tq3fbv3) ![](assets/new.png)  
-- [2020-11-07-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-07-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
 - [2020-11-07-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
+- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-07-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

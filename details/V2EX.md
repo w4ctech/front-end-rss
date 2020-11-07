@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-07 04:41:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 04:47:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-07-买-iPhone-12-还是-一加-8t](https://www.v2ex.com/t/722661) 
 - [2020-11-07-Big-Sur-没法自动切换-AirPods？](https://www.v2ex.com/t/722660) 
 - [2020-11-07-ios-地区设置中国大陆-Safari-搜索引擎使用谷歌-搜索时使用-http://google.cn](https://www.v2ex.com/t/722659) 
 - [2020-11-07-一个整理收集杭州登山地图，路线的-repo](https://www.v2ex.com/t/722658) 
@@ -43,5 +44,3 @@
 - [2020-11-07-pgsql-相对于-mysql-的-memory-engine](https://www.v2ex.com/t/722616) 
 - [2020-11-07-小新-pro13-2019-开机绿屏问题](https://www.v2ex.com/t/722614) 
 - [2020-11-07-中国银行「洛天依」联名借记卡](https://www.v2ex.com/t/722613) 
-- [2020-11-07-深圳富途证券社招内推-等待有缘人](https://www.v2ex.com/t/722612) 
-- [2020-11-07-雲上貴州速度不賴，打算開-200g，轉移文件過去，有兩個問題想討論一下。](https://www.v2ex.com/t/722611) 

@@ -14067,7 +14067,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/10545",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/10545",
     "title": "Nodejs技术栈",
     "link": "https://www.ershicimi.com/a/10545",
     "items": []
@@ -14256,11 +14256,6 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "项目中你常使用的SVG总结",
-        "link": "https://juejin.im/post/6892208975127773197",
-        "date": "2020-11-06"
-      },
-      {
         "title": "一篇文章让你学会你最“害怕”的Canvas，太有意思了",
         "link": "https://juejin.im/post/6892184843606556686",
         "date": "2020-11-06"
@@ -14271,13 +14266,18 @@
         "date": "2020-11-06"
       },
       {
-        "title": "手把手带你入门前端工程化——超详细教程",
-        "link": "https://juejin.im/post/6892003555818143752",
+        "title": "轻松理解防抖和节流",
+        "link": "https://juejin.im/post/6892036257333903367",
         "date": "2020-11-06"
       },
       {
-        "title": "【函数式编程】为什么学习函数式编程?",
-        "link": "https://juejin.im/post/6891984620427542535",
+        "title": "又是一夜，这篇Composition-API实操还觉得短吗",
+        "link": "https://juejin.im/post/6892017198450081800",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "Vue中Watcher的极简说明",
+        "link": "https://juejin.im/post/6891984683706351629",
         "date": "2020-11-06"
       }
     ]
@@ -14462,6 +14462,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "window 有什么视频播放软件在播放视频时，移动鼠标不会弹出底部的进度条？",
+        "link": "https://www.v2ex.com/t/722663",
+        "date": "2020-11-07"
+      },
       {
         "title": "买 iPhone 12 还是 一加 8t",
         "link": "https://www.v2ex.com/t/722661",
@@ -14651,11 +14656,6 @@
         "title": "小新 pro13 2019 开机绿屏问题",
         "link": "https://www.v2ex.com/t/722614",
         "date": "2020-11-07"
-      },
-      {
-        "title": "中国银行「洛天依」联名借记卡",
-        "link": "https://www.v2ex.com/t/722613",
-        "date": "2020-11-07"
       }
     ]
   },
@@ -14822,53 +14822,8 @@
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
-        "link": "https://toutiao.io/k/l216gug",
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-07"
       },
       {
@@ -14877,18 +14832,63 @@
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
-        "link": "https://toutiao.io/k/kqvczix",
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-07"
       },
       {
         "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
         "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-11-07"
       },
       {

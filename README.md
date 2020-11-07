@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 04:47:55，:rocket: 更新条数: +3031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 05:04:05，:rocket: 更新条数: +3031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
-- [2020-11-06-项目中你常使用的SVG总结](https://juejin.im/post/6892208975127773197) ![](assets/new.png)  
 - [2020-11-06-一篇文章让你学会你最“害怕”的Canvas，太有意思了](https://juejin.im/post/6892184843606556686) ![](assets/new.png)  
 - [2020-11-06-谨慎将处于同个useEffect-dependences之中且有逻辑关联的state放在多个useEffect](https://juejin.im/post/6892047558881837069) ![](assets/new.png)  
-- [2020-11-06-手把手带你入门前端工程化——超详细教程](https://juejin.im/post/6892003555818143752) ![](assets/new.png)  
-- [2020-11-06-【函数式编程】为什么学习函数式编程?](https://juejin.im/post/6891984620427542535) ![](assets/new.png)  
+- [2020-11-06-轻松理解防抖和节流](https://juejin.im/post/6892036257333903367) ![](assets/new.png)  
+- [2020-11-06-又是一夜，这篇Composition-API实操还觉得短吗](https://juejin.im/post/6892017198450081800) ![](assets/new.png)  
+- [2020-11-06-Vue中Watcher的极简说明](https://juejin.im/post/6891984683706351629) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-07-window-有什么视频播放软件在播放视频时，移动鼠标不会弹出底部的进度条？](https://www.v2ex.com/t/722663) ![](assets/new.png)  
 - [2020-11-07-买-iPhone-12-还是-一加-8t](https://www.v2ex.com/t/722661) ![](assets/new.png)  
 - [2020-11-07-Big-Sur-没法自动切换-AirPods？](https://www.v2ex.com/t/722660) ![](assets/new.png)  
 - [2020-11-07-ios-地区设置中国大陆-Safari-搜索引擎使用谷歌-搜索时使用-http://google.cn](https://www.v2ex.com/t/722659) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-07-用-Unity-做-AR-怎么在-iOS-上预览](https://www.v2ex.com/t/722642) ![](assets/new.png)  
 - [2020-11-07-有没办法制作-windows10-的一键修复-lsp？](https://www.v2ex.com/t/722641) ![](assets/new.png)  
 - [2020-11-07-万能的-V-社大佬们，怎样买-IDEA-最便宜？](https://www.v2ex.com/t/722640) ![](assets/new.png)  
-- [2020-11-07-不懂就问-最近买了树莓派，打算用-Frp-搭个内网穿透，产生了点困惑](https://www.v2ex.com/t/722639) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-07-packetdrill-简介](https://toutiao.io/k/x69jfku) ![](assets/new.png)  
 - [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-勾陈：SCRUM-的来源](https://toutiao.io/k/tq3fbv3) ![](assets/new.png)  
-- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-07-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
 - [2020-11-07-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [2020-11-07-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

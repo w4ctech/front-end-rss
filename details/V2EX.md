@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-07 08:04:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 08:13:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,4 +39,3 @@
 - [2020-11-07-一个整理收集杭州登山地图，路线的-repo](https://www.v2ex.com/t/722658) 
 - [2020-11-07-480-端口是做什么用的啊](https://www.v2ex.com/t/722657) 
 - [2020-11-07-一些-GO-的代码注释与规范问题](https://www.v2ex.com/t/722656) 
-- [2020-11-07-macOS-Big-Sur-Release-Candidate-11.0.1](https://www.v2ex.com/t/722655) 

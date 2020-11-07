@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 12:48:44，:rocket: 更新条数: +3028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 13:04:25，:rocket: 更新条数: +3027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -605,16 +605,16 @@
 - [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-packetdrill-简介](https://toutiao.io/k/x69jfku) ![](assets/new.png)  
 - [2020-11-07-勾陈：SCRUM-的来源](https://toutiao.io/k/tq3fbv3) ![](assets/new.png)  
-- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-07-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
 - [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-07-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
 - [2020-11-07-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
 - [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-07-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,6 +626,10 @@
 </summary>
 
 
+- [2020-11-07-网络安全保险守护企业安全|绿盟科技联合前海财险发布网络安全保险服...](https://sec.thief.one/article_content?a_id=15f37088d93d38995f0b43bfd65bdfe9) ![](assets/new.png)  
+- [2020-11-07-面向对象:希望找到一个志同道合,简单温暖的小哥哥](https://sec.thief.one/article_content?a_id=b23c091c1d65c078f8e47105c3f8f9bb) ![](assets/new.png)  
+- [2020-11-07-“迷宫”旧势力退隐新恶人上线,10月勒索病毒疫情报告揭诡动真相](https://sec.thief.one/article_content?a_id=ea075b61a17937664adf669c13100562) ![](assets/new.png)  
+- [2020-11-07-中央网信办召开全国网信系统学习宣传贯彻党的十九届五中全会精神宣...](https://sec.thief.one/article_content?a_id=777c3cc1c00ceb4be93f67924cc0864f) ![](assets/new.png)  
 - [2020-11-07-K神手札:比特币横盘震荡,市场补涨气氛浓厚](https://sec.thief.one/article_content?a_id=5bc71c1cf8b9cf1b3661bcd12f2007ab) ![](assets/new.png)  
 - [2020-11-07-V8-引擎空指针引用漏洞的新型利用技术](https://sec.thief.one/article_content?a_id=526794f91dd640abaaf917de92ff1a2d) ![](assets/new.png)  
 - [2020-11-07-福利下线倒计时,不容错过的还有这些!](https://sec.thief.one/article_content?a_id=86b45f25e26f232ae1b2915ba0c9aaae) ![](assets/new.png)  
@@ -642,10 +646,6 @@
 - [2020-11-07-Windows最新内核0day曝光,EDR轻补丁一键免疫](https://sec.thief.one/article_content?a_id=8bc6eee6bd495b37f7e730f96af91291) ![](assets/new.png)  
 - [2020-11-07-什么?价值十亿美元的比特币不翼而飞,去向成谜!](https://sec.thief.one/article_content?a_id=b3a65b2b5046da10f6943117a6b6d602) ![](assets/new.png)  
 - [2020-11-07-CNCERT:城市轨道交通行业网络安全态势分析报告](https://sec.thief.one/article_content?a_id=1d9abcd20234247d45e9de603306f677) ![](assets/new.png)  
-- [2020-11-07-GitHub:我开源我自己;CEO:不存在的](https://sec.thief.one/article_content?a_id=9ec20be9f5ebe6d66612d3812ca278d8) ![](assets/new.png)  
-- [2020-11-07-漏洞扫描之w13scan、xray被动扫描和crawlergo爬虫联动](https://sec.thief.one/article_content?a_id=d62b262f8ebdb905b421fdcc25d7343a) ![](assets/new.png)  
-- [2020-11-07-当年,我靠这段代码去『偷』老师的期末试题](https://sec.thief.one/article_content?a_id=b64cf8444e4f72d0b1c6bef354079f01) ![](assets/new.png)  
-- [2020-11-07-【漏洞预警】CNNVD-关于Linux-kernel-缓冲区错误漏洞的通报](https://sec.thief.one/article_content?a_id=2b9931b1b9dc98d1bfabe51f422a99ff) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

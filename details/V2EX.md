@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-07 07:04:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 07:12:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -11,7 +11,6 @@
 - [2020-11-07-阿里云双-11-活动大促](https://www.v2ex.com/t/722685) 
 - [2020-11-07-有不那么细长的手机推荐吗？](https://www.v2ex.com/t/722684) 
 - [2020-11-07-没拆修过-iPhone-X-电池鼓包了能免费换么？](https://www.v2ex.com/t/722683) 
-- [2020-11-07-Openvpn-与-AnyConnect-都是使用-TLS-协议，为什么前者能被-gfw-识别，而后者不能？](https://www.v2ex.com/t/722682) 
 - [2020-11-07-请教各位大神一个问题，仿一个棋牌类手游-app-需要多少钱？包括前后端](https://www.v2ex.com/t/722681) 
 - [2020-11-07-Dubbo-go-Server-端开启服务过程](https://www.v2ex.com/t/722678) 
 - [2020-11-07-好奇那些做-iOS-还有-macos-限免软件的数据从哪来](https://www.v2ex.com/t/722677) 
@@ -41,5 +40,3 @@
 - [2020-11-07-关于腾讯的云游戏，-mac-用户狂喜？](https://www.v2ex.com/t/722644) 
 - [2020-11-07-找回密码是否已经是保持用户留存的一贯作风,还是将来的趋势](https://www.v2ex.com/t/722643) 
 - [2020-11-07-用-Unity-做-AR-怎么在-iOS-上预览](https://www.v2ex.com/t/722642) 
-- [2020-11-07-有没办法制作-windows10-的一键修复-lsp？](https://www.v2ex.com/t/722641) 
-- [2020-11-07-万能的-V-社大佬们，怎样买-IDEA-最便宜？](https://www.v2ex.com/t/722640) 

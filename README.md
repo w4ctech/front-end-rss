@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 10:48:02，:rocket: 更新条数: +3261， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 11:03:54，:rocket: 更新条数: +3226， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -553,26 +553,6 @@
 </summary>
 
 
-- [2020-11-07-才发现-讯飞输入法-语音支持修正，蛮好的](https://www.v2ex.com/t/722748) ![](assets/new.png)  
-- [2020-11-07-深圳-IT-岗位-JD-免费推广-迫于新开求职公众号没有素材，帮需要推广岗位的免费推广（内推岗位、HR-直招岗位）](https://www.v2ex.com/t/722746) ![](assets/new.png)  
-- [2020-11-07-使用-CompletableFuture-解决基于-DAG-并发任务调度问题](https://www.v2ex.com/t/722745) ![](assets/new.png)  
-- [2020-11-07-好久没用的笔记本，按键不灵敏了](https://www.v2ex.com/t/722744) ![](assets/new.png)  
-- [2020-11-07-想学-PHP-，哪本书入门比较好](https://www.v2ex.com/t/722743) ![](assets/new.png)  
-- [2020-11-07-2018-款-mbp13,-接-egpu-剪视频，用-rx580-好还是-5500xt](https://www.v2ex.com/t/722742) ![](assets/new.png)  
-- [2020-11-07-微信-iOS-已经很久不能正常添加-png-图片作为表情包了](https://www.v2ex.com/t/722741) ![](assets/new.png)  
-- [2020-11-07-Debian-上学习着搭建-MySQL-集群报-The-hostname-this-node-should-have-according-to-……-的错误，-why？](https://www.v2ex.com/t/722739) ![](assets/new.png)  
-- [2020-11-07-关于-iOS-后台-APP-刷新](https://www.v2ex.com/t/722735) ![](assets/new.png)  
-- [2020-11-07-腾讯云双-11，轻量-1-核-2G3M-带宽-83-元/1-年，开箱测试](https://www.v2ex.com/t/722733) ![](assets/new.png)  
-- [2020-11-07-国内的云服务器为啥不分地域-ping-起来的延迟都差不多](https://www.v2ex.com/t/722732) ![](assets/new.png)  
-- [2020-11-07-openwrt-怎么配置-WiFi-为-wan？](https://www.v2ex.com/t/722731) ![](assets/new.png)  
-- [2020-11-07-大厂低-base-vs-中厂高-base](https://www.v2ex.com/t/722730) ![](assets/new.png)  
-- [2020-11-07-github.io-关于解析到-127.0.0.1-的求助](https://www.v2ex.com/t/722728) ![](assets/new.png)  
-- [2020-11-07-应届生校招-offer-选择，阿里-or-虾皮](https://www.v2ex.com/t/722726) ![](assets/new.png)  
-- [2020-11-07-windows10-双系统如何删除老系统所在的硬盘](https://www.v2ex.com/t/722725) ![](assets/new.png)  
-- [2020-11-07-身体不健康，怎么找女朋友？](https://www.v2ex.com/t/722724) ![](assets/new.png)  
-- [2020-11-07-路灯的亮起，才是晚上的到来](https://www.v2ex.com/t/722723) ![](assets/new.png)  
-- [2020-11-07-evernote-终于更新了，带来了全新版本-10.0](https://www.v2ex.com/t/722722) ![](assets/new.png)  
-- [2020-11-07-如何获取拼多多-APP-内"已发货"所有订单的物流信息？](https://www.v2ex.com/t/722720) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,16 +605,16 @@
 - [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-packetdrill-简介](https://toutiao.io/k/x69jfku) ![](assets/new.png)  
 - [2020-11-07-勾陈：SCRUM-的来源](https://toutiao.io/k/tq3fbv3) ![](assets/new.png)  
-- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-07-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
-- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
 - [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-07-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -646,26 +626,26 @@
 </summary>
 
 
-- [2020-11-06-倒计时2天|绿盟科技在成都等你!](https://sec.thief.one/article_content?a_id=afd5fd88ed40538ac7b89a0538b77abd) ![](assets/new.png)  
-- [2020-11-06-提高警惕!国内虚拟货币犯罪形势日渐严峻](https://sec.thief.one/article_content?a_id=e1595a87b43a1b9b5c4f4c5c6f155fed) ![](assets/new.png)  
-- [2020-11-06-从一道CTF学习Service-Worker的利用](https://sec.thief.one/article_content?a_id=17b53916dccf940d01dc147bf868ec33) ![](assets/new.png)  
-- [2020-11-06-Apache-Tomcat-websocket拒绝服务漏洞CVE-2020-13935](https://sec.thief.one/article_content?a_id=16bfb6794e867fc6da4c5eb479474c40) ![](assets/new.png)  
-- [2020-11-06-一图了解Google工具栈](https://sec.thief.one/article_content?a_id=6c5dfef760fe656d0b287fdd18cb52b8) ![](assets/new.png)  
-- [2020-11-06-PWN从入门到放弃四:PWN格式化字符串详解](https://sec.thief.one/article_content?a_id=8ddedb24a39af5f34ddf741690ef5efc) ![](assets/new.png)  
-- [2020-11-06-隐秘的角落——基于某款游戏利用的反射攻击分析](https://sec.thief.one/article_content?a_id=5644f2d855ea6ed5070a0cf6770c6f6a) ![](assets/new.png)  
-- [2020-11-06-「Dibrary-第二季-」——好书推荐-|DSRC-2019年度Top白帽-RakJong](https://sec.thief.one/article_content?a_id=5f9712b9f17cdb8858c16e87efdcbb07) ![](assets/new.png)  
-- [2020-11-06-招聘-|-美团信息安全部人才招募](https://sec.thief.one/article_content?a_id=ba3255e0291512cc985268c2db4100a6) ![](assets/new.png)  
-- [2020-11-06-FreeBuf「怀旧版皮肤」即将上线,一键重返青葱岁月](https://sec.thief.one/article_content?a_id=7594bec94fc258d45043745fed8f631d) ![](assets/new.png)  
-- [2020-11-06-Linux-Kernel-Pwn_2_Kernel-UAF](https://sec.thief.one/article_content?a_id=d0df6efee5cb430767d9b91c127d00b9) ![](assets/new.png)  
-- [2020-11-06-【安全热点周报】第167期:阿里旗下电商平台110万用户信息被泄露](https://sec.thief.one/article_content?a_id=2cc07812c2e3ad2913e2be66daebd034) ![](assets/new.png)  
-- [2020-11-06-智能生活-安全护航-小米AIoT安全峰会顺利召开](https://sec.thief.one/article_content?a_id=77ca2e97d80ea78c3b3453ed2fde8c35) ![](assets/new.png)  
-- [2020-11-06-招聘岗位又双叒叕添加啦!](https://sec.thief.one/article_content?a_id=4e677848e40c9a017264fa7845d13d07) ![](assets/new.png)  
-- [2020-11-06-称霸江湖,票选大神丨他的命运由你决定!](https://sec.thief.one/article_content?a_id=4ca5c41417f77c9185eaa4ae6369d5b2) ![](assets/new.png)  
-- [2020-11-06-揭秘“网安一哥”奇安信人才成长的故事-北京卫视大型季播节目今晚开...](https://sec.thief.one/article_content?a_id=74dbb6ed90421592951f2ef9614fa72e) ![](assets/new.png)  
-- [2020-11-06-解读-|-央行发布金融科技创新三项标准,安全建设如何满足监管新要求?](https://sec.thief.one/article_content?a_id=d8919b4cc80901e1cb7b4f0ab0effcc9) ![](assets/new.png)  
-- [2020-11-06-黑客诱捕器—蜜罐的部署与使用](https://sec.thief.one/article_content?a_id=e0da7485833ff34bdb14ab92e2e7d035) ![](assets/new.png)  
-- [2020-11-06-以“小鸟天堂”为造型灵感的火车站,即将开通!](https://sec.thief.one/article_content?a_id=0068dc91c0d8fcb4157d500e78e73990) ![](assets/new.png)  
-- [2020-11-06-GUIBI区块链公开课:价格通道形态实盘演练](https://sec.thief.one/article_content?a_id=f09ece1067f642d839ca394a3ca9369c) ![](assets/new.png)  
+- [2020-11-07-K神手札:比特币横盘震荡,市场补涨气氛浓厚](https://sec.thief.one/article_content?a_id=5bc71c1cf8b9cf1b3661bcd12f2007ab) ![](assets/new.png)  
+- [2020-11-07-V8-引擎空指针引用漏洞的新型利用技术](https://sec.thief.one/article_content?a_id=526794f91dd640abaaf917de92ff1a2d) ![](assets/new.png)  
+- [2020-11-07-福利下线倒计时,不容错过的还有这些!](https://sec.thief.one/article_content?a_id=86b45f25e26f232ae1b2915ba0c9aaae) ![](assets/new.png)  
+- [2020-11-07-​拒绝纸上谈兵,物联网安全攻防实战训练营火热报名中!](https://sec.thief.one/article_content?a_id=305be1c5ea53d79eb9f5ab094409cab2) ![](assets/new.png)  
+- [2020-11-07-【视频】|-出卖银行卡,为网络犯罪集团提供帮助,警方抓捕12名涉案...](https://sec.thief.one/article_content?a_id=6e678f5752cdea84e451000a3a52f331) ![](assets/new.png)  
+- [2020-11-07-漏洞银行入选2020年度中国网络安全企业百强名录](https://sec.thief.one/article_content?a_id=92df501d2224381ffb5db341061de7a1) ![](assets/new.png)  
+- [2020-11-07-Weblogic-CVE-2020-1488210.x-12.x-利用方式](https://sec.thief.one/article_content?a_id=715a308e889dfc0ddb5fae1f5f9b0496) ![](assets/new.png)  
+- [2020-11-07-ShellCode生成框架](https://sec.thief.one/article_content?a_id=5d111f2a2f408cbfda0127287c73e55d) ![](assets/new.png)  
+- [2020-11-07-在招-|-某企业年薪60万诚聘数据安全工程师](https://sec.thief.one/article_content?a_id=92b2048bf43566f377555d4cbb52030c) ![](assets/new.png)  
+- [2020-11-07-GitHub:请再给我2天修复漏洞-谷歌:已经给你104天了](https://sec.thief.one/article_content?a_id=ff3cd9fc57451037e582824f9ea05c91) ![](assets/new.png)  
+- [2020-11-07-航空航天巨头Thales使用区块链遵守北约标准](https://sec.thief.one/article_content?a_id=dd192584940b1d521435acb2ca472731) ![](assets/new.png)  
+- [2020-11-07-年轻人关心的这些事,规划《建议》都提到了](https://sec.thief.one/article_content?a_id=e116f4746bc709740a943ae493f06a21) ![](assets/new.png)  
+- [2020-11-07-为何程序员上班时间总戴个耳机,看完恍然大悟...](https://sec.thief.one/article_content?a_id=587398351d2974f8b3949f7da9977f94) ![](assets/new.png)  
+- [2020-11-07-Windows最新内核0day曝光,EDR轻补丁一键免疫](https://sec.thief.one/article_content?a_id=8bc6eee6bd495b37f7e730f96af91291) ![](assets/new.png)  
+- [2020-11-07-什么?价值十亿美元的比特币不翼而飞,去向成谜!](https://sec.thief.one/article_content?a_id=b3a65b2b5046da10f6943117a6b6d602) ![](assets/new.png)  
+- [2020-11-07-CNCERT:城市轨道交通行业网络安全态势分析报告](https://sec.thief.one/article_content?a_id=1d9abcd20234247d45e9de603306f677) ![](assets/new.png)  
+- [2020-11-07-GitHub:我开源我自己;CEO:不存在的](https://sec.thief.one/article_content?a_id=9ec20be9f5ebe6d66612d3812ca278d8) ![](assets/new.png)  
+- [2020-11-07-漏洞扫描之w13scan、xray被动扫描和crawlergo爬虫联动](https://sec.thief.one/article_content?a_id=d62b262f8ebdb905b421fdcc25d7343a) ![](assets/new.png)  
+- [2020-11-07-当年,我靠这段代码去『偷』老师的期末试题](https://sec.thief.one/article_content?a_id=b64cf8444e4f72d0b1c6bef354079f01) ![](assets/new.png)  
+- [2020-11-07-【漏洞预警】CNNVD-关于Linux-kernel-缓冲区错误漏洞的通报](https://sec.thief.one/article_content?a_id=2b9931b1b9dc98d1bfabe51f422a99ff) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-07 10:48:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 11:03:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,8 +31,11 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-07-wsl2-的-apt-get-update-问题](https://www.v2ex.com/t/722717) 
 - [2020-11-07-玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-07-​拒绝纸上谈兵,物联网安全攻防实战训练营火热报名中!](https://sec.thief.one/article_content?a_id=305be1c5ea53d79eb9f5ab094409cab2) 
+- [2020-11-07-漏洞银行入选2020年度中国网络安全企业百强名录](https://sec.thief.one/article_content?a_id=92df501d2224381ffb5db341061de7a1) 
+- [2020-11-07-在招-|-某企业年薪60万诚聘数据安全工程师](https://sec.thief.one/article_content?a_id=92b2048bf43566f377555d4cbb52030c) 
+- [2020-11-07-CNCERT:城市轨道交通行业网络安全态势分析报告](https://sec.thief.one/article_content?a_id=1d9abcd20234247d45e9de603306f677) 
 - [2020-11-06-Apache-Tomcat-websocket拒绝服务漏洞CVE-2020-13935](https://sec.thief.one/article_content?a_id=16bfb6794e867fc6da4c5eb479474c40) 
 - [2020-11-06-招聘-|-美团信息安全部人才招募](https://sec.thief.one/article_content?a_id=ba3255e0291512cc985268c2db4100a6) 
 - [2020-11-06-【安全热点周报】第167期:阿里旗下电商平台110万用户信息被泄露](https://sec.thief.one/article_content?a_id=2cc07812c2e3ad2913e2be66daebd034) 
@@ -52,12 +55,3 @@
 - [2020-11-05-【安全风险通告】SaltStack漏洞搭配可远程命令执行,SaltStack多个...](https://sec.thief.one/article_content?a_id=c584129ebc6a3701564ac743adb4340d) 
 - [2020-11-05-【报名开启】2020京麒网络安全大会即将召开,5大亮点抢鲜看!](https://sec.thief.one/article_content?a_id=b69764fca9f98a9214b1c7d95b393888) 
 - [2020-11-05-中国移动等发布《5G+工业互联网安全白皮书》-附下载](https://sec.thief.one/article_content?a_id=189dfb3c2b785ff092066a7d2f01f425) 
-- [2020-11-05-web-安全核心防御机制](https://sec.thief.one/article_content?a_id=0cce5777fa73acc4db6f112c76b1d58a) 
-- [2020-11-04-【安全圈】瑞典保险公司Folksa近百万客户信息流入Facebook等社交...](https://sec.thief.one/article_content?a_id=c1d9279bf7eb71c284d55078342a0023) 
-- [2020-11-04-SecWiki安全招聘第40期](https://sec.thief.one/article_content?a_id=f6db1177b8d441a69dafca04ffa0de75) 
-- [2020-11-04-快来打卡小米AIoT安全峰会!](https://sec.thief.one/article_content?a_id=7f4a1d14aaaaa19b4ecfce6d5d9019f3) 
-- [2020-11-04-奇安信亮相2020年工业互联网安全成果展-内生安全框架助力实现可防...](https://sec.thief.one/article_content?a_id=ccdc06c7ab09167c16a639837279430d) 
-- [2020-11-04-案例|聚焦医疗电子票据改革,护航医疗行业票据业务安全](https://sec.thief.one/article_content?a_id=9fdd2e692f08c48fe8b748190092a848) 
-- [2020-11-04-HTTP/2-H2C-请求走私分析](https://sec.thief.one/article_content?a_id=2ab85294e6316283ec88e65a943fe43e) 
-- [2020-11-04-安全通告|SaltStack多个高危漏洞风险通告CVE-2020-16846/CVE-...](https://sec.thief.one/article_content?a_id=ded5fdc590844325c46bf2802fdccdf7) 
-- [2020-11-04-安全众测第四期-额外奖励拿不停!](https://sec.thief.one/article_content?a_id=fe90c2dc335a5dedaee6743b00d231e4) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-07 14:21:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 14:33:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-07-Apple-music-多设备协同问题](https://www.v2ex.com/t/722790) 
+- [2020-11-07-松下加湿器-FE-KXP23-开箱及对比](https://www.v2ex.com/t/722789) 
+- [2020-11-07-烦请各位大佬点两下](https://www.v2ex.com/t/722788) 
 - [2020-11-07-想买个游戏本，求-v-友推荐](https://www.v2ex.com/t/722787) 
 - [2020-11-07-关于赚钱的事](https://www.v2ex.com/t/722786) 
 - [2020-11-07-有没有正经的学习技术的社区或群学生为主](https://www.v2ex.com/t/722785) 
@@ -42,4 +45,3 @@
 - [2020-11-07-想学-PHP-，哪本书入门比较好](https://www.v2ex.com/t/722743) 
 - [2020-11-07-2018-款-mbp13,-接-egpu-剪视频，用-rx580-好还是-5500xt](https://www.v2ex.com/t/722742) 
 - [2020-11-07-微信-iOS-已经很久不能正常添加-png-图片作为表情包了](https://www.v2ex.com/t/722741) 
-- [2020-11-07-Debian-上学习着搭建-MySQL-集群报-The-hostname-this-node-should-have-according-to-……-的错误，-why？](https://www.v2ex.com/t/722739) 

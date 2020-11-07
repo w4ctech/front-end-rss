@@ -13988,7 +13988,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/5760",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
     "items": []
@@ -14468,6 +14468,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Apple music 多设备协同问题",
+        "link": "https://www.v2ex.com/t/722790",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "松下加湿器 FE-KXP23 开箱及对比",
+        "link": "https://www.v2ex.com/t/722789",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "烦请各位大佬点两下",
+        "link": "https://www.v2ex.com/t/722788",
+        "date": "2020-11-07"
+      },
+      {
         "title": "想买个游戏本，求 v 友推荐",
         "link": "https://www.v2ex.com/t/722787",
         "date": "2020-11-07"
@@ -14651,11 +14666,6 @@
         "title": "微信 iOS 已经很久不能正常添加 png 图片作为表情包了",
         "link": "https://www.v2ex.com/t/722741",
         "date": "2020-11-07"
-      },
-      {
-        "title": "Debian 上学习着搭建 MySQL 集群报 The hostname this node should have according to …… 的错误， why？",
-        "link": "https://www.v2ex.com/t/722739",
-        "date": "2020-11-07"
       }
     ]
   },
@@ -14822,58 +14832,8 @@
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 你真的知道怎么实现一个延迟队列吗？",
-        "link": "https://toutiao.io/k/kqvczix",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] 一篇教会你写 90% 的 Shell 脚本",
+        "link": "https://toutiao.io/k/l216gug",
         "date": "2020-11-07"
       },
       {
@@ -14882,8 +14842,18 @@
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-07"
       },
       {
@@ -14892,8 +14862,48 @@
         "date": "2020-11-07"
       },
       {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-07"
+      },
+      {
         "title": "[推荐] 图解常见的九种设计模式",
         "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-07"
       }
     ]

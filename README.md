@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 14:35:46，:rocket: 更新条数: +3003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 14:47:59，:rocket: 更新条数: +2993， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -47,11 +47,11 @@
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)![](assets/dot.png)   
-- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
+- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -469,6 +469,26 @@
 </summary>
 
 
+- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) ![](assets/new.png)  
+- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) ![](assets/new.png)  
+- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) ![](assets/new.png)  
+- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
+- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) ![](assets/new.png)  
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) ![](assets/new.png)  
+- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) ![](assets/new.png)  
+- [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) ![](assets/new.png)  
+- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) ![](assets/new.png)  
+- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) ![](assets/new.png)  
+- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) ![](assets/new.png)  
+- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) ![](assets/new.png)  
+- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) ![](assets/new.png)  
+- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) ![](assets/new.png)  
+- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) ![](assets/new.png)  
+- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) ![](assets/new.png)  
+- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) ![](assets/new.png)  
+- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) ![](assets/new.png)  
+- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) ![](assets/new.png)  
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端艺术家&&飞冰早报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -513,26 +533,6 @@
 </summary>
 
 
-- [2020-11-07-Apple-music-多设备协同问题](https://www.v2ex.com/t/722790) ![](assets/new.png)  
-- [2020-11-07-松下加湿器-FE-KXP23-开箱及对比](https://www.v2ex.com/t/722789) ![](assets/new.png)  
-- [2020-11-07-烦请各位大佬点两下](https://www.v2ex.com/t/722788) ![](assets/new.png)  
-- [2020-11-07-想买个游戏本，求-v-友推荐](https://www.v2ex.com/t/722787) ![](assets/new.png)  
-- [2020-11-07-关于赚钱的事](https://www.v2ex.com/t/722786) ![](assets/new.png)  
-- [2020-11-07-有没有正经的学习技术的社区或群学生为主](https://www.v2ex.com/t/722785) ![](assets/new.png)  
-- [2020-11-07-有人知道-Wise-Force-Deleter-这种软件的实现原理吗？](https://www.v2ex.com/t/722784) ![](assets/new.png)  
-- [2020-11-07-golang-求助大佬](https://www.v2ex.com/t/722783) ![](assets/new.png)  
-- [2020-11-07-完美解决了手机-NFC-公交卡和门禁卡切换的问题](https://www.v2ex.com/t/722782) ![](assets/new.png)  
-- [2020-11-07-各位，我刚刚在-pdd-上买的-iPhone11-翻车了](https://www.v2ex.com/t/722781) ![](assets/new.png)  
-- [2020-11-07-C#WPF-中如何令窗体在按住某个键时临时解除鼠标穿透？](https://www.v2ex.com/t/722780) ![](assets/new.png)  
-- [2020-11-07-TP-LINK-的-IPC-摄像头无法修改-WIFI-SSID？](https://www.v2ex.com/t/722778) ![](assets/new.png)  
-- [2020-11-07-印象笔记专业账户有广告吗？](https://www.v2ex.com/t/722777) ![](assets/new.png)  
-- [2020-11-07-有哪些能造景的沙盒建设类的游戏？](https://www.v2ex.com/t/722776) ![](assets/new.png)  
-- [2020-11-07-为什么创业？---未来世界的幸存者-|-极客分享第-3-期](https://www.v2ex.com/t/722775) ![](assets/new.png)  
-- [2020-11-07-有没类似迷雾剧场的剧推荐啊](https://www.v2ex.com/t/722774) ![](assets/new.png)  
-- [2020-11-07-今天和学姐看了《金刚川》，分享下看法](https://www.v2ex.com/t/722773) ![](assets/new.png)  
-- [2020-11-07-你们爸妈会建议-or-要求你们找什么样的女朋友吗](https://www.v2ex.com/t/722771) ![](assets/new.png)  
-- [2020-11-07-通过坚果云-webdav-同步数据时需要注意坚果云的请求频率限制](https://www.v2ex.com/t/722770) ![](assets/new.png)  
-- [2020-11-07-关于开源图床程序-chevereto-的一点问题向各位前辈咨询一下](https://www.v2ex.com/t/722769) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -585,16 +585,16 @@
 - [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-packetdrill-简介](https://toutiao.io/k/x69jfku) ![](assets/new.png)  
 - [2020-11-07-勾陈：SCRUM-的来源](https://toutiao.io/k/tq3fbv3) ![](assets/new.png)  
-- [2020-11-07-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
-- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
 - [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-07-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

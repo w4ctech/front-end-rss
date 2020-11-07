@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 03:36:05，:rocket: 更新条数: +3025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 03:48:11，:rocket: 更新条数: +3028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,15 @@
 </summary>
 
 
+- [2020-11-07-系统升级后-jetbrain-应用就打不开了](https://www.v2ex.com/t/722645) ![](assets/new.png)  
+- [2020-11-07-关于腾讯的云游戏，-mac-用户狂喜？](https://www.v2ex.com/t/722644) ![](assets/new.png)  
+- [2020-11-07-找回密码是否已经是保持用户留存的一贯作风,还是将来的趋势](https://www.v2ex.com/t/722643) ![](assets/new.png)  
+- [2020-11-07-用-Unity-做-AR-怎么在-iOS-上预览](https://www.v2ex.com/t/722642) ![](assets/new.png)  
+- [2020-11-07-有没办法制作-windows10-的一键修复-lsp？](https://www.v2ex.com/t/722641) ![](assets/new.png)  
+- [2020-11-07-万能的-V-社大佬们，怎样买-IDEA-最便宜？](https://www.v2ex.com/t/722640) ![](assets/new.png)  
+- [2020-11-07-不懂就问-最近买了树莓派，打算用-Frp-搭个内网穿透，产生了点困惑](https://www.v2ex.com/t/722639) ![](assets/new.png)  
+- [2020-11-07-React-前端开发，-2-年左右经验/内推-小步网络/宝安坪洲](https://www.v2ex.com/t/722638) ![](assets/new.png)  
+- [2020-11-07-你真的会使用搜索引擎吗？](https://www.v2ex.com/t/722636) ![](assets/new.png)  
 - [2020-11-07-校招由于各种原因做了-c++测开，目前工作内容比较碎片化，兼职运维，觉得没有成长。一年的时候跳槽做开发合适吗？转-GO-是否可行？](https://www.v2ex.com/t/722634) ![](assets/new.png)  
 - [2020-11-07-关于部分-Airpods-Pro-免费换新的问题](https://www.v2ex.com/t/722633) ![](assets/new.png)  
 - [2020-11-07-预备微服务拆分-，公共类服务提取问题](https://www.v2ex.com/t/722632) ![](assets/new.png)  
@@ -544,15 +553,6 @@
 - [2020-11-07-给-iPhone-换个电池，直营店和百邦的水平一样吗？](https://www.v2ex.com/t/722626) ![](assets/new.png)  
 - [2020-11-07-我是一个-C++-测试开发的应届生-最近想转-GO-或者其他开发。。合适吗？](https://www.v2ex.com/t/722625) ![](assets/new.png)  
 - [2020-11-07-watchOS-7.1-一直卡在-verifying...](https://www.v2ex.com/t/722622) ![](assets/new.png)  
-- [2020-11-07-一年经验跳槽是否频繁](https://www.v2ex.com/t/722621) ![](assets/new.png)  
-- [2020-11-07-有多少人最近-3-个月-Chrome-访问国内网站慢到打不开的,-修了这么久终于找到问题了](https://www.v2ex.com/t/722618) ![](assets/new.png)  
-- [2020-11-07-最近入手了-S20，怎么和-Mac-联动啊。有使用安卓手机加-Mac-的老哥吗？](https://www.v2ex.com/t/722617) ![](assets/new.png)  
-- [2020-11-07-pgsql-相对于-mysql-的-memory-engine](https://www.v2ex.com/t/722616) ![](assets/new.png)  
-- [2020-11-07-小新-pro13-2019-开机绿屏问题](https://www.v2ex.com/t/722614) ![](assets/new.png)  
-- [2020-11-07-中国银行「洛天依」联名借记卡](https://www.v2ex.com/t/722613) ![](assets/new.png)  
-- [2020-11-07-深圳富途证券社招内推-等待有缘人](https://www.v2ex.com/t/722612) ![](assets/new.png)  
-- [2020-11-07-雲上貴州速度不賴，打算開-200g，轉移文件過去，有兩個問題想討論一下。](https://www.v2ex.com/t/722611) ![](assets/new.png)  
-- [2020-11-07-请教大佬-C#反射相关问题](https://www.v2ex.com/t/722609) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-07-packetdrill-简介](https://toutiao.io/k/x69jfku) ![](assets/new.png)  
 - [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-勾陈：SCRUM-的来源](https://toutiao.io/k/tq3fbv3) ![](assets/new.png)  
-- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-07-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
-- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
 - [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-07-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
-- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-07-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
 - [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

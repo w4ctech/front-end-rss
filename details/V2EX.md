@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-07 10:27:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 10:34:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-07-使用-CompletableFuture-解决基于-DAG-并发任务调度问题](https://www.v2ex.com/t/722745) 
 - [2020-11-07-好久没用的笔记本，按键不灵敏了](https://www.v2ex.com/t/722744) 
 - [2020-11-07-想学-PHP-，哪本书入门比较好](https://www.v2ex.com/t/722743) 
 - [2020-11-07-2018-款-mbp13,-接-egpu-剪视频，用-rx580-好还是-5500xt](https://www.v2ex.com/t/722742) 
@@ -40,4 +41,3 @@
 - [2020-11-07-鄙人专职-web-后端开发,-在线接单.](https://www.v2ex.com/t/722698) 
 - [2020-11-07-请教下-k8s-下-Java-内存泄露定位问题](https://www.v2ex.com/t/722697) 
 - [2020-11-07-如何看待写出-bug-这件事情](https://www.v2ex.com/t/722696) 
-- [2020-11-07-请问下-在-iOS-平台付费-app-/-app-内购，苹果是如何和-app-开发者结算的-？-（月结？）](https://www.v2ex.com/t/722695) 

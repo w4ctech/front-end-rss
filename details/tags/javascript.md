@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-07 23:20:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 23:32:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -40,5 +40,4 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2020-11-07-一个关于-Python-import-第三方项目的问题](https://www.v2ex.com/t/722799) 
 - [2020-11-07-最IN的云原生架构，阿里云-Serverless-事件总线-EventBridge-重磅发布-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13888&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777639%3Futm_content%3Dg_1000199923%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) 
 - [2020-11-06-从一道CTF学习Service-Worker的利用](https://sec.thief.one/article_content?a_id=17b53916dccf940d01dc147bf868ec33) 

@@ -14787,68 +14787,33 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "浅谈 Java 中的 AutoCloseable 接口",
-        "link": "https://toutiao.io/k/znohjci",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "现代 Web 开发语法基础与工程实践",
-        "link": "https://toutiao.io/k/uhz45j5",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "BigDecimal 的使用",
-        "link": "https://toutiao.io/k/qzfxl8x",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "Flutter 中的 Tree Shaking 机制初探",
-        "link": "https://toutiao.io/k/5qr2uj1",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "前端智能化 2020 年中总结和反思",
-        "link": "https://toutiao.io/k/b0wk996",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "如何创建与框架无关的 JavaScript 插件",
-        "link": "https://toutiao.io/k/ysal463",
-        "date": "2020-11-07"
-      },
-      {
         "title": "双十一，买它买它买它！",
         "link": "https://toutiao.io/k/pr492jn",
         "date": "2020-11-07"
       },
       {
-        "title": "packetdrill 简介",
-        "link": "https://toutiao.io/k/x69jfku",
+        "title": "底层原理：垃圾回收算法是如何设计的？",
+        "link": "https://toutiao.io/k/mtlt8ig",
         "date": "2020-11-07"
       },
       {
-        "title": "勾陈：SCRUM 的来源",
-        "link": "https://toutiao.io/k/tq3fbv3",
+        "title": "提前试用将在 Go 1.16 中发布的内嵌静态资源功能",
+        "link": "https://toutiao.io/k/65vg2c1",
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
+        "title": "在 2020 年聊聊 Angular 的现状",
+        "link": "https://toutiao.io/k/swsqb28",
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
+        "title": "终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-07"
       },
       {
@@ -14862,13 +14827,13 @@
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-11-07"
       },
       {
@@ -14877,28 +14842,33 @@
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-07"
-      },
-      {
         "title": "[推荐] 阿里终面：分布式事务原理",
         "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-07"
       },
       {
@@ -14907,8 +14877,13 @@
         "date": "2020-11-07"
       },
       {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
         "date": "2020-11-07"
       }
     ]

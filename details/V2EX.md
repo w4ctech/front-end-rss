@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-07 19:18:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 19:33:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-07-工作地点在饭店的公安系统驻场开发是外包吗](https://www.v2ex.com/t/722818) 
 - [2020-11-07-我感觉我更新了三次-watch-os-7.1，是错觉吗？](https://www.v2ex.com/t/722816) 
 - [2020-11-07-让-Chrome-纵享-Edge-般的丝滑](https://www.v2ex.com/t/722815) 
 - [2020-11-07-欢迎体验](https://www.v2ex.com/t/722814) 

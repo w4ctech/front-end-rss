@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 13:47:59，:rocket: 更新条数: +2993， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 14:04:22，:rocket: 更新条数: +244， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,26 +64,6 @@
 </summary>
 
 
-- [2020-11-06-11月6日全国新增境外输入新冠33例-累计确诊86184例](http://m.china.caixin.com/m/2020-11-07/101624143.html) ![](assets/new.png)  
-- [2020-11-06-【境内疫情观察】全国新增33例境外输入病例（11月6日）](http://m.database.caixin.com/m/2020-11-07/101624263.html) ![](assets/new.png)  
-- [2020-11-06-大流行手记|11月6日：丹麦水貂传播变异病毒](https://m.caixin.com/m/2020-11-07/101624156.html) ![](assets/new.png)  
-- [2020-11-05-两款新冠抗原检测试剂国内首获批-药监局称仅可作补充方法](https://m.caixin.com/m/2020-11-06/101623649.html) ![](assets/new.png)  
-- [2020-11-05-最新海外疫情：新冠感染超4854万-累计死亡近123万](http://m.international.caixin.com/m/2020-11-06/101623992.html) ![](assets/new.png)  
-- [2020-11-05-【境内疫情观察】新疆新增6例本土确诊病例（11月5日）](http://m.database.caixin.com/m/2020-11-06/101623769.html) ![](assets/new.png)  
-- [2020-11-05-大流行手记|11月5日：中国暂停印、英等国人员入境-美国日增病例破10万](https://m.caixin.com/m/2020-11-06/101623677.html) ![](assets/new.png)  
-- [2020-11-04-【境内疫情观察】新疆新增8例本土确诊病例（11月4日）](http://m.database.caixin.com/m/2020-11-05/101623339.html) ![](assets/new.png)  
-- [2020-11-04-大流行手记|11月4日：英国利物浦试点全城检测-美国急缺医护人员](https://m.caixin.com/m/2020-11-05/101623212.html) ![](assets/new.png)  
-- [2020-11-03-【境内疫情观察】新疆新增116例无症状感染者（11月3日）](http://m.database.caixin.com/m/2020-11-04/101622904.html) ![](assets/new.png)  
-- [2020-11-03-大流行手记|11月3日：WHO提示孕妇幼儿流感风险-美确诊选民可现场投票](https://m.caixin.com/m/2020-11-04/101622791.html) ![](assets/new.png)  
-- [2020-11-02-香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html) ![](assets/new.png)  
-- [2020-11-02-新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html) ![](assets/new.png)  
-- [2020-11-02-【境内疫情观察】全国新增44例境外输入病例（11月2日）](http://m.database.caixin.com/m/2020-11-03/101622339.html) ![](assets/new.png)  
-- [2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) ![](assets/new.png)  
-- [2020-11-01-【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html) ![](assets/new.png)  
-- [2020-11-01-大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html) ![](assets/new.png)  
-- [2020-10-31-【境内疫情观察】新疆新增61例无症状感染者（10月31日）](http://m.database.caixin.com/m/2020-11-01/101621241.html) ![](assets/new.png)  
-- [2020-10-31-大流行手记|10月31日：英国多地调高警戒级别-德国医疗资源吃紧](https://m.caixin.com/m/2020-11-01/101621213.html) ![](assets/new.png)  
-- [2020-10-30-新疆新增无症状感染者61例](https://m.caixin.com/m/2020-10-31/101621169.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +513,26 @@
 </summary>
 
 
+- [2020-11-07-有人知道-Wise-Force-Deleter-这种软件的实现原理吗？](https://www.v2ex.com/t/722784) ![](assets/new.png)  
+- [2020-11-07-golang-求助大佬](https://www.v2ex.com/t/722783) ![](assets/new.png)  
+- [2020-11-07-完美解决了手机-NFC-公交卡和门禁卡切换的问题](https://www.v2ex.com/t/722782) ![](assets/new.png)  
+- [2020-11-07-各位，我刚刚在-pdd-上买的-iPhone11-翻车了](https://www.v2ex.com/t/722781) ![](assets/new.png)  
+- [2020-11-07-C#WPF-中如何令窗体在按住某个键时临时解除鼠标穿透？](https://www.v2ex.com/t/722780) ![](assets/new.png)  
+- [2020-11-07-TP-LINK-的-IPC-摄像头无法修改-WIFI-SSID？](https://www.v2ex.com/t/722778) ![](assets/new.png)  
+- [2020-11-07-印象笔记专业账户有广告吗？](https://www.v2ex.com/t/722777) ![](assets/new.png)  
+- [2020-11-07-有哪些能造景的沙盒建设类的游戏？](https://www.v2ex.com/t/722776) ![](assets/new.png)  
+- [2020-11-07-为什么创业？---未来世界的幸存者-|-极客分享第-3-期](https://www.v2ex.com/t/722775) ![](assets/new.png)  
+- [2020-11-07-有没类似迷雾剧场的剧推荐啊](https://www.v2ex.com/t/722774) ![](assets/new.png)  
+- [2020-11-07-今天和学姐看了《金刚川》，分享下看法](https://www.v2ex.com/t/722773) ![](assets/new.png)  
+- [2020-11-07-你们爸妈会建议-or-要求你们找什么样的女朋友吗](https://www.v2ex.com/t/722771) ![](assets/new.png)  
+- [2020-11-07-通过坚果云-webdav-同步数据时需要注意坚果云的请求频率限制](https://www.v2ex.com/t/722770) ![](assets/new.png)  
+- [2020-11-07-关于开源图床程序-chevereto-的一点问题向各位前辈咨询一下](https://www.v2ex.com/t/722769) ![](assets/new.png)  
+- [2020-11-07-奇怪的-iPhone-故障-2020.11.7](https://www.v2ex.com/t/722765) ![](assets/new.png)  
+- [2020-11-07-有没有便宜的游戏加速器](https://www.v2ex.com/t/722764) ![](assets/new.png)  
+- [2020-11-07-win10-主屏一些全屏的应用窗口上面一块显示异常，重启后一会又出现了这个问题。](https://www.v2ex.com/t/722762) ![](assets/new.png)  
+- [2020-11-07-请问-Net-core-开发的程序，怎么在-Linux-上。使用-mutex？？](https://www.v2ex.com/t/722761) ![](assets/new.png)  
+- [2020-11-07-京东以旧换新购买-iPhone-12，出现故障退货不退补贴，只能自认倒霉了吗](https://www.v2ex.com/t/722760) ![](assets/new.png)  
+- [2020-11-07-iPhone12mini-开售了吗？这款手机到底值不值得买](https://www.v2ex.com/t/722759) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -585,16 +585,16 @@
 - [2020-11-07-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/ysal463) ![](assets/new.png)  
 - [2020-11-07-packetdrill-简介](https://toutiao.io/k/x69jfku) ![](assets/new.png)  
 - [2020-11-07-勾陈：SCRUM-的来源](https://toutiao.io/k/tq3fbv3) ![](assets/new.png)  
-- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
 - [2020-11-07-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-07-推荐-你真的知道怎么实现一个延迟队列吗？](https://toutiao.io/k/kqvczix) ![](assets/new.png)  
+- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇教会你写-90%-的-Shell-脚本](https://toutiao.io/k/l216gug) ![](assets/new.png)  
+- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

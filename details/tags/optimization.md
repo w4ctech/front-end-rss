@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 23:48:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 00:07:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -17,4 +17,5 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-11-07-Picsee---看图-&-截图-1.1.9-更新了，这次更新主要优化截图模块](https://www.v2ex.com/t/722586) 
 - [2020-11-06-求助，换新-iPhone-用自带转移数据迁移功能操作好后，主用中国区-ID-下的-app-之后陆续自动下载下来了，但美区-ID-的一二十个应用全部卡在「加载中」不动，怎么...](https://www.v2ex.com/t/722557) 

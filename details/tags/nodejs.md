@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-07 11:03:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 11:11:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -16,4 +16,5 @@
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-11-07-Node.js系列二---Node基础知识](https://juejin.im/post/6892302012294103053) 
+- [2020-11-07-Debian-上学习着搭建-MySQL-集群报-The-hostname-this-node-should-have-according-to-……-的错误，-why？](https://www.v2ex.com/t/722739) 
 - [2020-11-07-V8-引擎空指针引用漏洞的新型利用技术](https://sec.thief.one/article_content?a_id=526794f91dd640abaaf917de92ff1a2d) 

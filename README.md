@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 23:35:34，:rocket: 更新条数: +3262， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-07 23:48:00，:rocket: 更新条数: +3262， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-07-天津一冷库装卸工人核酸检测阳性-相关排查正紧张进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitFnSiqdltDBxlSKiVYDj201108&isfromapp=1) ![](assets/new.png)  
+- [2020-11-07-美国新冠肺炎确诊病例已超981万-死亡病例超23.6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirvhXyTT0HyajFkwcqiTm201108&isfromapp=1) ![](assets/new.png)  
+- [2020-11-07-世卫组织：全球新冠肺炎确诊病例超过4910万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuZgQeMPogXeCwbuPJTtW201108&isfromapp=1) ![](assets/new.png)  
 - [2020-11-07-巴西新冠肺炎确诊病例累计超563万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDI9JkzGLDnPu2eHr4KLd201107&isfromapp=1) ![](assets/new.png)  
 - [2020-11-07-严防疫情反弹-广东珠海拱北口岸适时采取前端截流、分批放行等防控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCnXpjChiVPUVgxFBFctm201107&isfromapp=1) ![](assets/new.png)  
-- [2020-11-07-世卫组织：正在研究丹麦“貂传人”病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0xRH93DG1ZGDDutJ9kyU201107&isfromapp=1) ![](assets/new.png)  
-- [2020-11-07-阿根廷新冠肺炎累计确诊1228814例-近两周病毒筛测阳性率有所下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitPnTL1AlY4BZpyakefAs201107&isfromapp=1) ![](assets/new.png)  
-- [2020-11-06-哥伦比亚累计新冠肺炎确诊病例逾112万-外国游客入境无需检测惹争议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzd60s3tLxZ9JtGjGZNE201107&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -476,8 +476,8 @@
 - [2020-11-07-EMP-for-Vue&React-互相远程调用](https://juejin.im/post/6892379956543029261) ![](assets/new.png)  
 - [2020-11-07-开发Vue或React项目中路径别名智能提示方案](https://juejin.im/post/6892372366950105102) ![](assets/new.png)  
 - [2020-11-07-搭建-Typescript-+-Nodejs-的命令行开发环境](https://juejin.im/post/6892359241974153230) ![](assets/new.png)  
+- [2020-11-07-系列之颜色选择器（一）：内部事件](https://juejin.im/post/6892329006381662221) ![](assets/new.png)  
 - [2020-11-07-Vue3开发踩坑](https://juejin.im/post/6892317013734064135) ![](assets/new.png)  
-- [2020-11-07-Vue-文件解析、编译流程](https://juejin.im/post/6892296081145593863) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -616,25 +616,25 @@
 
 
 - [2020-11-07-双十一，买它买它买它！](https://toutiao.io/k/pr492jn) ![](assets/new.png)  
+- [2020-11-07-在-2020-年聊聊-Angular-的现状](https://toutiao.io/k/swsqb28) ![](assets/new.png)  
 - [2020-11-07-底层原理：垃圾回收算法是如何设计的？](https://toutiao.io/k/mtlt8ig) ![](assets/new.png)  
 - [2020-11-07-提前试用将在-Go-1.16-中发布的内嵌静态资源功能](https://toutiao.io/k/65vg2c1) ![](assets/new.png)  
-- [2020-11-07-在-2020-年聊聊-Angular-的现状](https://toutiao.io/k/swsqb28) ![](assets/new.png)  
 - [2020-11-07-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-07-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-07-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [2020-11-07-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-07-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
 - [2020-11-07-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-07-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [2020-11-07-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-07-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-11-07-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-07-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-07-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [2020-11-07-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-07-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-07-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-07-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-07-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

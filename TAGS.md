@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-08 01:13:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 01:35:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -75,7 +75,6 @@
 - [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
-- [【掘金前端】Vue3开发踩坑](https://juejin.im/post/6892317013734064135)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [......【查看更多】......](./details/tags/vue.md)
 

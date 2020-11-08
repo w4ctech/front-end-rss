@@ -15427,6 +15427,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "jsliang 求职系列 - 07 - Promise",
+        "link": "https://juejin.im/post/6892555927770103822",
+        "date": "2020-11-07"
+      },
+      {
         "title": "EMP for Vue&React 互相远程调用",
         "link": "https://juejin.im/post/6892379956543029261",
         "date": "2020-11-07"
@@ -15444,11 +15449,6 @@
       {
         "title": "系列之颜色选择器（一）：内部事件",
         "link": "https://juejin.im/post/6892329006381662221",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "Vue3开发踩坑",
-        "link": "https://juejin.im/post/6892317013734064135",
         "date": "2020-11-07"
       }
     ]
@@ -15634,6 +15634,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "很无语了对现在网络环境",
+        "link": "https://www.v2ex.com/t/722831",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "B 站 PC 投稿工具，首先很丑就不说了，关键没法切换成中文，而且不能调整窗口 大小。。。。",
+        "link": "https://www.v2ex.com/t/722830",
+        "date": "2020-11-08"
+      },
+      {
         "title": "程序老是 run 不起来怎么办? 做了一个程序员励志语录的网站帮你重拾信心",
         "link": "https://www.v2ex.com/t/722826",
         "date": "2020-11-08"
@@ -15817,26 +15827,6 @@
         "title": "完美解决了手机 NFC 公交卡和门禁卡切换的问题",
         "link": "https://www.v2ex.com/t/722782",
         "date": "2020-11-07"
-      },
-      {
-        "title": "各位，我刚刚在 pdd 上买的 iPhone11 翻车了",
-        "link": "https://www.v2ex.com/t/722781",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "[C#]WPF 中如何令窗体在按住某个键时临时解除鼠标穿透？",
-        "link": "https://www.v2ex.com/t/722780",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "TP-LINK 的 IPC 摄像头无法修改 WIFI SSID？",
-        "link": "https://www.v2ex.com/t/722778",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "印象笔记专业账户有广告吗？",
-        "link": "https://www.v2ex.com/t/722777",
-        "date": "2020-11-07"
       }
     ]
   },
@@ -15978,18 +15968,8 @@
         "date": "2020-11-08"
       },
       {
-        "title": "一种城市空中移动性管理分布式控制框架",
-        "link": "https://toutiao.io/k/tczzw0u",
-        "date": "2020-11-08"
-      },
-      {
         "title": "他把闲鱼 App 长列表流畅度翻了倍",
         "link": "https://toutiao.io/k/demohte",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "易快报创始人兼 CEO 马春荃：擅长自黑的改良派，创业就是带着未知跑步前进",
-        "link": "https://toutiao.io/k/qm8ohje",
         "date": "2020-11-08"
       },
       {
@@ -15998,8 +15978,33 @@
         "date": "2020-11-08"
       },
       {
+        "title": "一种城市空中移动性管理分布式控制框架",
+        "link": "https://toutiao.io/k/tczzw0u",
+        "date": "2020-11-08"
+      },
+      {
         "title": "Kotlin Vocabulary：唯一的 “对象”",
         "link": "https://toutiao.io/k/fdads40",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "易快报创始人兼 CEO 马春荃：擅长自黑的改良派，创业就是带着未知跑步前进",
+        "link": "https://toutiao.io/k/qm8ohje",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-08"
       },
       {
@@ -16013,28 +16018,8 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-08"
-      },
-      {
         "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
         "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-08"
       },
       {
@@ -16043,18 +16028,18 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-11-08"
       },
       {
@@ -16063,18 +16048,23 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-11-08"
-      },
-      {
         "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
         "link": "https://toutiao.io/k/rxo1rll",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-08"
       }
     ]

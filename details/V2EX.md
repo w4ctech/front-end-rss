@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-08 09:22:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 09:33:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2020-11-08-iPhone-12-mini-有官网购买现在显示-13-号发货的么](https://www.v2ex.com/t/722894) 
 - [2020-11-08-iPad-和-iPhone-的-spotify-会抢-airpods-的使用权？](https://www.v2ex.com/t/722893) 
 - [2020-11-08-12-max-有评测了么？比-pro-强多少啊。](https://www.v2ex.com/t/722892) 
-- [2020-11-08-如何看待北京人力资源《对于轻微违法行为不予行政处罚》？](https://www.v2ex.com/t/722890) 

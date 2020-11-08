@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-08 12:15:24，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 12:28:06，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-08-秘鲁卫生部：新冠肺炎累计确诊逾92万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6kwT6VdhlzedqNPcyGUJ201108&isfromapp=1) ![](assets/new.png)  
 - [2020-11-08-天津：疫情整体可控-非必要不聚餐不聚集](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAToKVMmXbCYScvof8fGS201108&isfromapp=1) ![](assets/new.png)  
 - [2020-11-08-俄罗斯新增新冠肺炎确诊病例20498例-累计确诊超177万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIjG1DBwZfIhNQna3GUWh201108&isfromapp=1) ![](assets/new.png)  
 - [2020-11-08-天津新增1例本地新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimBGBB3VMrvyP1WAQeP1S201108&isfromapp=1) ![](assets/new.png)  
 - [2020-11-08-加拿大新增新冠肺炎确诊病例超4000例-西部局地实行封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidRLuUpb5OwZuXhMVzGej201108&isfromapp=1) ![](assets/new.png)  
-- [2020-11-07-天津一冷库装卸工人核酸检测阳性-相关排查正紧张进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitFnSiqdltDBxlSKiVYDj201108&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-08-2020-年双十一抽奖（2019-新款-iPad-抽奖送，话费楼层随机送），有兴趣的可以看看（前端开发工程师相关）](https://www.v2ex.com/t/722972) ![](assets/new.png)  
+- [2020-11-08-内推社招深圳Shopee前后端/QA/云原生-顺带讲一下自己在-Shopee-工作的体验](https://www.v2ex.com/t/722971) ![](assets/new.png)  
+- [2020-11-08-IOS14.2USB-链接电脑之后键盘鼠标均无反应了](https://www.v2ex.com/t/722970) ![](assets/new.png)  
+- [2020-11-08-提前还款了花呗和-jd-白条，然后注销了。](https://www.v2ex.com/t/722969) ![](assets/new.png)  
+- [2020-11-08-爱奇艺-PC-网页端-播放广告时，是怎么检测到我把它放到了后台的？](https://www.v2ex.com/t/722968) ![](assets/new.png)  
 - [2020-11-08-社会地位的高低主要是由什么决定的？](https://www.v2ex.com/t/722967) ![](assets/new.png)  
 - [2020-11-08-Word-for-iPad-日常吐槽](https://www.v2ex.com/t/722965) ![](assets/new.png)  
 - [2020-11-08-被领导怼了](https://www.v2ex.com/t/722964) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-08-V-站人手一博客，个人博客活的久的关键以及博客的重点](https://www.v2ex.com/t/722950) ![](assets/new.png)  
 - [2020-11-08-今天打开电脑发现浏览器又被劫持了，问一下各位是怎么解决的](https://www.v2ex.com/t/722949) ![](assets/new.png)  
 - [2020-11-08-深圳内推群-迫于前端一群已经-500-人了。特开个二群，欢迎前端、移动端同学加入](https://www.v2ex.com/t/722948) ![](assets/new.png)  
-- [2020-11-08-Android-手机都用什么导航软件？](https://www.v2ex.com/t/722945) ![](assets/new.png)  
-- [2020-11-08-关于用-Nginx-来动静分离的疑问](https://www.v2ex.com/t/722944) ![](assets/new.png)  
-- [2020-11-08-ac+可以转移给新手机吗](https://www.v2ex.com/t/722943) ![](assets/new.png)  
-- [2020-11-08-使用编译为-WebAssembly-的-FFMPEG-在浏览器中进行无限制的免费文件转换](https://www.v2ex.com/t/722942) ![](assets/new.png)  
-- [2020-11-08-广州附近有没有推荐的精神病院，心理咨询/心理治疗方面的](https://www.v2ex.com/t/722939) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-08-一种城市空中移动性管理分布式控制框架](https://toutiao.io/k/tczzw0u) ![](assets/new.png)  
 - [2020-11-08-易快报创始人兼-CEO-马春荃：擅长自黑的改良派，创业就是带着未知跑步前进](https://toutiao.io/k/qm8ohje) ![](assets/new.png)  
 - [2020-11-08-Kotlin-Vocabulary：唯一的-“对象”](https://toutiao.io/k/fdads40) ![](assets/new.png)  
-- [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
 - [2020-11-08-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-08-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-08-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-08-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-08-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-08-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
 - [2020-11-08-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-08-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-08-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

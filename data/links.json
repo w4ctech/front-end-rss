@@ -13952,6 +13952,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "秘鲁卫生部：新冠肺炎累计确诊逾92万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6kwT6VdhlzedqNPcyGUJ201108&isfromapp=1",
+        "date": "2020-11-08"
+      },
+      {
         "title": "天津：疫情整体可控 非必要不聚餐不聚集",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAToKVMmXbCYScvof8fGS201108&isfromapp=1",
         "date": "2020-11-08"
@@ -13970,11 +13975,6 @@
         "title": "加拿大新增新冠肺炎确诊病例超4000例 西部局地实行封锁",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidRLuUpb5OwZuXhMVzGej201108&isfromapp=1",
         "date": "2020-11-08"
-      },
-      {
-        "title": "天津一冷库装卸工人核酸检测阳性 相关排查正紧张进行",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitFnSiqdltDBxlSKiVYDj201108&isfromapp=1",
-        "date": "2020-11-07"
       }
     ]
   },
@@ -14483,6 +14483,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "2020 年双十一抽奖（2019 新款 iPad 抽奖送，话费楼层随机送），有兴趣的可以看看（前端开发工程师相关）",
+        "link": "https://www.v2ex.com/t/722972",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[内推][社招][深圳][Shopee][前后端/QA/云原生] 顺带讲一下自己在 Shopee 工作的体验",
+        "link": "https://www.v2ex.com/t/722971",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "IOS14.2USB 链接电脑之后键盘鼠标均无反应了",
+        "link": "https://www.v2ex.com/t/722970",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "提前还款了花呗和 jd 白条，然后注销了。",
+        "link": "https://www.v2ex.com/t/722969",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "爱奇艺 PC 网页端 播放广告时，是怎么检测到我把它放到了后台的？",
+        "link": "https://www.v2ex.com/t/722968",
+        "date": "2020-11-08"
+      },
+      {
         "title": "社会地位的高低主要是由什么决定的？",
         "link": "https://www.v2ex.com/t/722967",
         "date": "2020-11-08"
@@ -14640,31 +14665,6 @@
       {
         "title": "站长之家的迷惑行为",
         "link": "https://www.v2ex.com/t/722924",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "安卓有免费的 NFC 复制/模拟卡软件吗？",
-        "link": "https://www.v2ex.com/t/722922",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "有没有 400 以下的自行车推荐",
-        "link": "https://www.v2ex.com/t/722921",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "搜狗词库全量打包--2020-11-08",
-        "link": "https://www.v2ex.com/t/722920",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "beego 通过 bee new 创建的项目为什么到 bin 文件夹中了？",
-        "link": "https://www.v2ex.com/t/722919",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "西数的 WDMyCloud 可以穿透到外网访问吗？",
-        "link": "https://www.v2ex.com/t/722918",
         "date": "2020-11-08"
       }
     ]
@@ -14832,23 +14832,13 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-08"
       },
       {
@@ -14862,33 +14852,8 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-08"
       },
       {
@@ -14897,13 +14862,48 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
         "date": "2020-11-08"
       },
       {
         "title": "[推荐] 阿里终面：分布式事务原理",
         "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-08"
       }
     ]

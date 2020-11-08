@@ -5,8 +5,8 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "11月7日全国新增境外输入新冠28例 累计确诊86212例",
-        "link": "https://m.caixin.com/m/2020-11-08/101624393.html",
+        "title": "最新疫情：全国新冠累计确诊86212例 境外输入新增28例",
+        "link": "https://m.caixin.com/m/2020-11-08/101624489.html",
         "date": "2020-11-07"
       },
       {
@@ -14827,28 +14827,8 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-11-08"
-      },
-      {
         "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
         "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-08"
       },
       {
@@ -14857,38 +14837,28 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-08"
-      },
-      {
         "title": "[推荐] 阿里终面：分布式事务原理",
         "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-11-08"
       },
       {
@@ -14897,8 +14867,38 @@
         "date": "2020-11-08"
       },
       {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-08"
+      },
+      {
         "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
         "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
         "date": "2020-11-08"
       }
     ]
@@ -14908,6 +14908,126 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "DamnVulnerableCryptoApp:一款功能强大的弱加密实现检测工具",
+        "link": "https://sec.thief.one/article_content?a_id=b1c045b33fb01d9475fbed99302eabb6",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "11月16日,2020 KCTF秋季赛 | 巅峰对决,勇者必胜!",
+        "link": "https://sec.thief.one/article_content?a_id=e9d5f18aad6b6b543fe8b680880ed501",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "【视频】| Python:列表操作更新和删除",
+        "link": "https://sec.thief.one/article_content?a_id=bda8cb558779e09fda5b0916ec7cfb96",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "快手即将上市!两80后程序员将进入百亿富豪俱乐部",
+        "link": "https://sec.thief.one/article_content?a_id=83ecd6833635e2d050c682ab02a8ca26",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "一次文件上传对Token的绕过",
+        "link": "https://sec.thief.one/article_content?a_id=c0f4b308372c7d9498689127ae8ebb7b",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "文末赠书 |《校园明星 CTF 战队的奇幻养成之旅》",
+        "link": "https://sec.thief.one/article_content?a_id=0373d85d0c15b1b3e70e1e60251c8c4a",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "致青年:你所关心的未来,党中央的这份重要建议画好蓝图了",
+        "link": "https://sec.thief.one/article_content?a_id=91c4b0c9f3e4f236b8c8df0d5305e974",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "周报|女子求助:“杀猪盘”已为她花去数千元,百思不得其解:11.01~...",
+        "link": "https://sec.thief.one/article_content?a_id=c68514b4c4421a3e35eddc650ef2a48a",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "惊呆了!这个币悄悄地涨了80%",
+        "link": "https://sec.thief.one/article_content?a_id=711924b99809a1de5a0eeccd6b817f2b",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "Folksam证实百万瑞典公民信息泄露给Google、Facebook等巨头",
+        "link": "https://sec.thief.one/article_content?a_id=f91b55741a435c999298109294609f0a",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "记一次内衣渗透测试",
+        "link": "https://sec.thief.one/article_content?a_id=47ea0b99cd7f6f01b862cd70271cf183",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "全球疫情下的网络安全:警惕“趁火打劫”的线上攻击",
+        "link": "https://sec.thief.one/article_content?a_id=3d8ea5ce6c5e4f2a55724afd8990c910",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "Python 进阶之源码分析:如何将一个类方法变为多个方法?",
+        "link": "https://sec.thief.one/article_content?a_id=283d95ec6c808843adcb492847848533",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "Webmin 远程命令执行(CVE-2019-15107)漏洞利用",
+        "link": "https://sec.thief.one/article_content?a_id=f729c85969608c5b585ba35fdb81b076",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "实战化背景下的安全防护能力体系建设思路",
+        "link": "https://sec.thief.one/article_content?a_id=9e9c1b4900b4c88fd26ba9ced3849ddc",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "意大利酒商Campari Group遭勒索,黑客要挟1500万美元",
+        "link": "https://sec.thief.one/article_content?a_id=2a2516297319737815d4cd320593af5e",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "当当网产品总监变性后遭解雇,法院「恢复工作,有权上女厕」!我们...",
+        "link": "https://sec.thief.one/article_content?a_id=da3a0c049833be3b0ed7369dcf357222",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "Python NumPy用法介绍",
+        "link": "https://sec.thief.one/article_content?a_id=7b8b98f36cbdb76e2a4332da0c9bd3c3",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "【精彩回顾】第四届小米AIoT安全峰会成功举办",
+        "link": "https://sec.thief.one/article_content?a_id=6f415cb8c483bb0d4dc1e8caa53fa9ac",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "SM2 国密算法被 Linux 内核社区接受",
+        "link": "https://sec.thief.one/article_content?a_id=86c386426f1ec71cee86beb69c640b19",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "脆弱目标获取工具v1.3 demo",
+        "link": "https://sec.thief.one/article_content?a_id=d157a986012712543e03eca5e1a17fe2",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "安恒信息控股“恒芯安全”正式揭牌,物联网安全“芯”定义!",
+        "link": "https://sec.thief.one/article_content?a_id=192c394770f29e9c36201c75ef23e302",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "安全学术研究趋势分析",
+        "link": "https://sec.thief.one/article_content?a_id=7d5f2d2009b5f5709c89eaeede96673c",
+        "date": "2020-11-07"
+      },
+      {
+        "title": "【安全圈】报告:超12%工控安全事件系高级别黑客组织所为",
+        "link": "https://sec.thief.one/article_content?a_id=f99f7ff3c0aa2295a6fd45c1d8f537f1",
+        "date": "2020-11-07"
+      },
       {
         "title": "网络安全保险守护企业安全|绿盟科技联合前海财险发布网络安全保险服...",
         "link": "https://sec.thief.one/article_content?a_id=15f37088d93d38995f0b43bfd65bdfe9",
@@ -15286,126 +15406,6 @@
       {
         "title": "SecWiki安全招聘(第41期)",
         "link": "https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "待办提醒|12月12日 ByteCTF 决赛来了!",
-        "link": "https://sec.thief.one/article_content?a_id=aef02f011617c0a90f935428548dbd03",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "勒索软件组织Maze宣布金盆洗手,骗子蹭特朗普热度获利25万",
-        "link": "https://sec.thief.one/article_content?a_id=9a6dc6390714705a0d590bea6301d96a",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "Nuubi:一款功能强大的信息收集&网络侦查扫描工具",
-        "link": "https://sec.thief.one/article_content?a_id=0c5950324b94a9b048cab53c88611051",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "处理公告丨2020年10月腾讯外部安全报告处理公告",
-        "link": "https://sec.thief.one/article_content?a_id=51697ff04437991b0d2cdc5941f33830",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "【高级持续性威胁追踪】Weblogic漏洞最新情报:H2Miner双杀操作系...",
-        "link": "https://sec.thief.one/article_content?a_id=cdfb97199198331d31627370b38556bc",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "​线上直播沙龙-是德科技站,参与即有机会赢取大奖哦!",
-        "link": "https://sec.thief.one/article_content?a_id=0f5dc502afcd918ca26804a8f5b52925",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "国家网信办集中整治网络“有偿删帖”“软色情”问题",
-        "link": "https://sec.thief.one/article_content?a_id=6ec769977b4201d6adbd39c1b79d5045",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "倒计时3天 | 绿盟科技与你相约蓉城,共话等保",
-        "link": "https://sec.thief.one/article_content?a_id=3b52ed10af204cdb1023b03f9580a872",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "2020年10月份奖励公告",
-        "link": "https://sec.thief.one/article_content?a_id=9bc65f15f330910dafd6ce7b9572e3d6",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "安利一个小众又高薪的职业!",
-        "link": "https://sec.thief.one/article_content?a_id=bbfd4a95557f5b628919cb625f1fec2f",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "干货|安全技能提升可以有多野?(文末有福利)",
-        "link": "https://sec.thief.one/article_content?a_id=4ef49dc962d9aedc320405389ffcdc66",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "银行业安全运营平台的建设与思考",
-        "link": "https://sec.thief.one/article_content?a_id=5480feed51d2e77aa76b7908cdf38c95",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "信息安全漏洞周报(2020年第42期)",
-        "link": "https://sec.thief.one/article_content?a_id=e9f01e7e498b6d9bee6171e0fac0b06c",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "金融信息黑产依旧猖獗:银行如何从源头堵住信息安全缺口?",
-        "link": "https://sec.thief.one/article_content?a_id=c56141e3367072c19743c2a517b7b0c6",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "百度2020网络黑灰产犯罪研究报告下载",
-        "link": "https://sec.thief.one/article_content?a_id=99bc05be3353e09992544aa4120d365e",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "以太坊手续费随着DeFi市场冷却而下降",
-        "link": "https://sec.thief.one/article_content?a_id=b825aad05911ef312f8266b381ae9eec",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "11月5日币圈早内参- BTC突破14200 以太坊2.0即将发布",
-        "link": "https://sec.thief.one/article_content?a_id=237532fa7cee459e215f7c81da7f63c9",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "36岁过上躺赢人生,拥有4套房产,年收入千万,我过上好日子的秘诀...",
-        "link": "https://sec.thief.one/article_content?a_id=7ab74f1ad9d85eec87a99f42af5c49f5",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "等保2.0 | 定级指南",
-        "link": "https://sec.thief.one/article_content?a_id=19d7af79bee04ef25fb91a5463576b01",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "深入利用Shiro反序列化漏洞",
-        "link": "https://sec.thief.one/article_content?a_id=4cde1a487d9187fe5d0ac521af045633",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "逆向XignCode3驱动程序:识别驱动程序入口点(part1)",
-        "link": "https://sec.thief.one/article_content?a_id=df0919bf22211e2413c09b58927caf3b",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "【安全风险通告】SaltStack漏洞搭配可远程命令执行,SaltStack多个...",
-        "link": "https://sec.thief.one/article_content?a_id=c584129ebc6a3701564ac743adb4340d",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "【报名开启】2020京麒网络安全大会即将召开,5大亮点抢鲜看!",
-        "link": "https://sec.thief.one/article_content?a_id=b69764fca9f98a9214b1c7d95b393888",
-        "date": "2020-11-05"
-      },
-      {
-        "title": "深度解析“校园套贷款”网站",
-        "link": "https://sec.thief.one/article_content?a_id=6ebf1c05740f4b9b53dd5484c014f4f5",
         "date": "2020-11-05"
       }
     ]

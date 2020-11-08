@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-08 10:47:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 11:03:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,6 +27,11 @@
 - [2020-11-08-使用编译为-WebAssembly-的-FFMPEG-在浏览器中进行无限制的免费文件转换](https://www.v2ex.com/t/722942) 
 - [2020-11-08-浏览器的工作原理：从在地址栏输入-google.com-到显示-google-页面发生了什么？](https://www.v2ex.com/t/722929) 
 - [2020-11-08-玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-08-全球疫情下的网络安全:警惕“趁火打劫”的线上攻击](https://sec.thief.one/article_content?a_id=3d8ea5ce6c5e4f2a55724afd8990c910) 
+- [2020-11-08-实战化背景下的安全防护能力体系建设思路](https://sec.thief.one/article_content?a_id=9e9c1b4900b4c88fd26ba9ced3849ddc) 
+- [2020-11-08-【精彩回顾】第四届小米AIoT安全峰会成功举办](https://sec.thief.one/article_content?a_id=6f415cb8c483bb0d4dc1e8caa53fa9ac) 
+- [2020-11-08-安恒信息控股“恒芯安全”正式揭牌,物联网安全“芯”定义!](https://sec.thief.one/article_content?a_id=192c394770f29e9c36201c75ef23e302) 
+- [2020-11-07-安全学术研究趋势分析](https://sec.thief.one/article_content?a_id=7d5f2d2009b5f5709c89eaeede96673c) 
 - [2020-11-07-网络安全保险守护企业安全|绿盟科技联合前海财险发布网络安全保险服...](https://sec.thief.one/article_content?a_id=15f37088d93d38995f0b43bfd65bdfe9) 
 - [2020-11-07-​拒绝纸上谈兵,物联网安全攻防实战训练营火热报名中!](https://sec.thief.one/article_content?a_id=305be1c5ea53d79eb9f5ab094409cab2) 
 - [2020-11-07-漏洞银行入选2020年度中国网络安全企业百强名录](https://sec.thief.one/article_content?a_id=92df501d2224381ffb5db341061de7a1) 
@@ -43,10 +48,3 @@
 - [2020-11-06-技术小白的-web-安全学习心得](https://sec.thief.one/article_content?a_id=febd429fda492a87e0fbf28916c779af) 
 - [2020-11-06-Web-安全漏洞原理与攻防](https://sec.thief.one/article_content?a_id=6ccd33f0607a43c916227226905cfc6f) 
 - [2020-11-05-SecWiki安全招聘第41期](https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa) 
-- [2020-11-05-处理公告丨2020年10月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=51697ff04437991b0d2cdc5941f33830) 
-- [2020-11-05-干货|安全技能提升可以有多野?文末有福利](https://sec.thief.one/article_content?a_id=4ef49dc962d9aedc320405389ffcdc66) 
-- [2020-11-05-银行业安全运营平台的建设与思考](https://sec.thief.one/article_content?a_id=5480feed51d2e77aa76b7908cdf38c95) 
-- [2020-11-05-信息安全漏洞周报2020年第42期](https://sec.thief.one/article_content?a_id=e9f01e7e498b6d9bee6171e0fac0b06c) 
-- [2020-11-05-金融信息黑产依旧猖獗:银行如何从源头堵住信息安全缺口?](https://sec.thief.one/article_content?a_id=c56141e3367072c19743c2a517b7b0c6) 
-- [2020-11-05-【安全风险通告】SaltStack漏洞搭配可远程命令执行,SaltStack多个...](https://sec.thief.one/article_content?a_id=c584129ebc6a3701564ac743adb4340d) 
-- [2020-11-05-【报名开启】2020京麒网络安全大会即将召开,5大亮点抢鲜看!](https://sec.thief.one/article_content?a_id=b69764fca9f98a9214b1c7d95b393888) 

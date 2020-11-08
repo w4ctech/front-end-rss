@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-08 05:47:51，:rocket: 更新条数: +3266， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 06:04:26，:rocket: 更新条数: +3256， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +543,9 @@
 </summary>
 
 
+- [2020-11-08-12-max-有评测了么？比-pro-强多少啊。](https://www.v2ex.com/t/722892) ![](assets/new.png)  
+- [2020-11-08-如何看待北京人力资源《对于轻微违法行为不予行政处罚》？](https://www.v2ex.com/t/722890) ![](assets/new.png)  
+- [2020-11-08-木兰编程语言-0.0.14.8：-websocket-聊天演示；部分比较-Python-语法](https://www.v2ex.com/t/722889) ![](assets/new.png)  
 - [2020-11-08-有老哥知道这是啥情况吗？](https://www.v2ex.com/t/722888) ![](assets/new.png)  
 - [2020-11-08-喜马拉雅经常自动停止](https://www.v2ex.com/t/722887) ![](assets/new.png)  
 - [2020-11-08-北京-114北京预约挂号统一平台-一年多没登录，账号没了](https://www.v2ex.com/t/722886) ![](assets/new.png)  
@@ -570,9 +563,6 @@
 - [2020-11-08-ARM-MacBook-出了以后，你最想用它运行的原生-iOS-应用是？](https://www.v2ex.com/t/722869) ![](assets/new.png)  
 - [2020-11-08-什么值得买-dell-团购，有-U2720QM，需要的朋友可以去登记一下](https://www.v2ex.com/t/722868) ![](assets/new.png)  
 - [2020-11-08-听歌付费这么久了，国内的音乐创作有变多、质量变好吗？](https://www.v2ex.com/t/722865) ![](assets/new.png)  
-- [2020-11-08-Freenom-挂了？](https://www.v2ex.com/t/722863) ![](assets/new.png)  
-- [2020-11-08-有没有录音后转发邮件的-app](https://www.v2ex.com/t/722862) ![](assets/new.png)  
-- [2020-11-08-pgp-的个人信息和密码相同的情况下密钥有可能重复吗？](https://www.v2ex.com/t/722861) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,16 +615,16 @@
 - [2020-11-08-一种城市空中移动性管理分布式控制框架](https://toutiao.io/k/tczzw0u) ![](assets/new.png)  
 - [2020-11-08-Kotlin-Vocabulary：唯一的-“对象”](https://toutiao.io/k/fdads40) ![](assets/new.png)  
 - [2020-11-08-易快报创始人兼-CEO-马春荃：擅长自黑的改良派，创业就是带着未知跑步前进](https://toutiao.io/k/qm8ohje) ![](assets/new.png)  
-- [2020-11-08-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-08-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
 - [2020-11-08-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-08-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-11-08-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-08-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-08-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-08-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-08-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-08-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

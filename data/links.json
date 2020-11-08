@@ -15634,6 +15634,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "说微信没有后台监控我是不信的",
+        "link": "https://www.v2ex.com/t/722834",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "IntelliJ IDEA Debugger 经验总结",
+        "link": "https://www.v2ex.com/t/722833",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "有在深圳易售科技工作的老铁吗？",
+        "link": "https://www.v2ex.com/t/722832",
+        "date": "2020-11-08"
+      },
+      {
         "title": "很无语了对现在网络环境",
         "link": "https://www.v2ex.com/t/722831",
         "date": "2020-11-08"
@@ -15812,21 +15827,6 @@
         "title": "有没有正经的学习技术的社区或群(学生为主)",
         "link": "https://www.v2ex.com/t/722785",
         "date": "2020-11-07"
-      },
-      {
-        "title": "有人知道 Wise Force Deleter 这种软件的实现原理吗？",
-        "link": "https://www.v2ex.com/t/722784",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "golang 求助大佬",
-        "link": "https://www.v2ex.com/t/722783",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "完美解决了手机 NFC 公交卡和门禁卡切换的问题",
-        "link": "https://www.v2ex.com/t/722782",
-        "date": "2020-11-07"
       }
     ]
   },
@@ -15993,33 +15993,8 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-08"
-      },
-      {
         "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
         "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-08"
       },
       {
@@ -16028,28 +16003,8 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-08"
       },
       {
@@ -16058,13 +16013,58 @@
         "date": "2020-11-08"
       },
       {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-08"
+      },
+      {
         "title": "[推荐] 阿里终面：分布式事务原理",
         "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-08"
       },
       {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-08"
+      },
+      {
         "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
         "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-08"
       }
     ]

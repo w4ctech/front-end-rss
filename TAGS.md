@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-08 10:27:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 10:35:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -388,7 +388,6 @@
 
 
 - [【V2EX】国内腾讯云访问-raw.githubusercontent.com-www.elrepo.org-等-类似网站等方式是什么](https://www.v2ex.com/t/722936)
-- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [【安全热点】GitHub:请再给我2天修复漏洞-谷歌:已经给你104天了](https://sec.thief.one/article_content?a_id=ff3cd9fc57451037e582824f9ea05c91)
 - [【安全热点】GitHub:我开源我自己;CEO:不存在的](https://sec.thief.one/article_content?a_id=9ec20be9f5ebe6d66612d3812ca278d8)
 - [......【查看更多】......](./details/tags/git-svn.md)
@@ -408,9 +407,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
-- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【安全热点】招聘岗位又双叒叕添加啦!](https://sec.thief.one/article_content?a_id=4e677848e40c9a017264fa7845d13d07)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

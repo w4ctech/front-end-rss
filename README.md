@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-08 08:13:52，:rocket: 更新条数: +476， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 08:24:49，:rocket: 更新条数: +3263， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-11-07-11月7日全国新增境外输入新冠28例-累计确诊86212例](https://m.caixin.com/m/2020-11-08/101624393.html) ![](assets/new.png)  
+- [2020-11-07-天津新增1例本地新冠肺炎确诊病例-系此前核酸检测阳性装卸工人](https://m.caixin.com/m/2020-11-08/101624438.html) ![](assets/new.png)  
+- [2020-11-07-【境内疫情观察】全国新增28例境外输入病例（11月7日）](http://m.database.caixin.com/m/2020-11-08/101624448.html) ![](assets/new.png)  
+- [2020-11-07-大流行手记|11月7日：已有六国发现水貂变异病毒感染者-白宫幕僚长确诊](https://m.caixin.com/m/2020-11-08/101624405.html) ![](assets/new.png)  
+- [2020-11-06-【境内疫情观察】全国新增33例境外输入病例（11月6日）](http://m.database.caixin.com/m/2020-11-07/101624263.html) ![](assets/new.png)  
+- [2020-11-06-大流行手记|11月6日：丹麦水貂传播变异病毒](https://m.caixin.com/m/2020-11-07/101624156.html) ![](assets/new.png)  
+- [2020-11-05-两款新冠抗原检测试剂国内首获批-药监局称仅可作补充方法](https://m.caixin.com/m/2020-11-06/101623649.html) ![](assets/new.png)  
+- [2020-11-05-最新海外疫情：新冠感染超4854万-累计死亡近123万](http://m.international.caixin.com/m/2020-11-06/101623992.html) ![](assets/new.png)  
+- [2020-11-05-【境内疫情观察】新疆新增6例本土确诊病例（11月5日）](http://m.database.caixin.com/m/2020-11-06/101623769.html) ![](assets/new.png)  
+- [2020-11-05-大流行手记|11月5日：中国暂停印、英等国人员入境-美国日增病例破10万](https://m.caixin.com/m/2020-11-06/101623677.html) ![](assets/new.png)  
+- [2020-11-04-【境内疫情观察】新疆新增8例本土确诊病例（11月4日）](http://m.database.caixin.com/m/2020-11-05/101623339.html) ![](assets/new.png)  
+- [2020-11-04-大流行手记|11月4日：英国利物浦试点全城检测-美国急缺医护人员](https://m.caixin.com/m/2020-11-05/101623212.html) ![](assets/new.png)  
+- [2020-11-03-【境内疫情观察】新疆新增116例无症状感染者（11月3日）](http://m.database.caixin.com/m/2020-11-04/101622904.html) ![](assets/new.png)  
+- [2020-11-03-大流行手记|11月3日：WHO提示孕妇幼儿流感风险-美确诊选民可现场投票](https://m.caixin.com/m/2020-11-04/101622791.html) ![](assets/new.png)  
+- [2020-11-02-香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html) ![](assets/new.png)  
+- [2020-11-02-新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html) ![](assets/new.png)  
+- [2020-11-02-【境内疫情观察】全国新增44例境外输入病例（11月2日）](http://m.database.caixin.com/m/2020-11-03/101622339.html) ![](assets/new.png)  
+- [2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) ![](assets/new.png)  
+- [2020-11-01-【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html) ![](assets/new.png)  
+- [2020-11-01-大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -75,11 +95,11 @@
 </summary>
 
 
+- [2020-11-08-俄罗斯新增新冠肺炎确诊病例20498例-累计确诊超177万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIjG1DBwZfIhNQna3GUWh201108&isfromapp=1) ![](assets/new.png)  
 - [2020-11-08-天津新增1例本地新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimBGBB3VMrvyP1WAQeP1S201108&isfromapp=1) ![](assets/new.png)  
 - [2020-11-08-加拿大新增新冠肺炎确诊病例超4000例-西部局地实行封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidRLuUpb5OwZuXhMVzGej201108&isfromapp=1) ![](assets/new.png)  
 - [2020-11-07-天津一冷库装卸工人核酸检测阳性-相关排查正紧张进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitFnSiqdltDBxlSKiVYDj201108&isfromapp=1) ![](assets/new.png)  
 - [2020-11-07-美国新冠肺炎确诊病例已超981万-死亡病例超23.6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirvhXyTT0HyajFkwcqiTm201108&isfromapp=1) ![](assets/new.png)  
-- [2020-11-07-世卫组织：全球新冠肺炎确诊病例超过4910万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuZgQeMPogXeCwbuPJTtW201108&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,9 +553,10 @@
 </summary>
 
 
+- [2020-11-08-站长之家的迷惑行为](https://www.v2ex.com/t/722924) ![](assets/new.png)  
 - [2020-11-08-安卓有免费的-NFC-复制/模拟卡软件吗？](https://www.v2ex.com/t/722922) ![](assets/new.png)  
 - [2020-11-08-有没有-400-以下的自行车推荐](https://www.v2ex.com/t/722921) ![](assets/new.png)  
-- [2020-11-08-搜狗词库全量打包](https://www.v2ex.com/t/722920) ![](assets/new.png)  
+- [2020-11-08-搜狗词库全量打包--2020-11-08](https://www.v2ex.com/t/722920) ![](assets/new.png)  
 - [2020-11-08-beego-通过-bee-new-创建的项目为什么到-bin-文件夹中了？](https://www.v2ex.com/t/722919) ![](assets/new.png)  
 - [2020-11-08-西数的-WDMyCloud-可以穿透到外网访问吗？](https://www.v2ex.com/t/722918) ![](assets/new.png)  
 - [2020-11-08-2020.11-Apple-ID-锁-有什么渠道可以解吗？](https://www.v2ex.com/t/722914) ![](assets/new.png)  
@@ -552,7 +573,6 @@
 - [2020-11-08-一到冬天静电就特别严重](https://www.v2ex.com/t/722899) ![](assets/new.png)  
 - [2020-11-08-谷歌浏览器现在点击任何文本都会出现光标是什么情况](https://www.v2ex.com/t/722897) ![](assets/new.png)  
 - [2020-11-08-iPhone-12-mini-有官网购买现在显示-13-号发货的么](https://www.v2ex.com/t/722894) ![](assets/new.png)  
-- [2020-11-08-iPad-和-iPhone-的-spotify-会抢-airpods-的使用权？](https://www.v2ex.com/t/722893) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +625,16 @@
 - [2020-11-08-一种城市空中移动性管理分布式控制框架](https://toutiao.io/k/tczzw0u) ![](assets/new.png)  
 - [2020-11-08-Kotlin-Vocabulary：唯一的-“对象”](https://toutiao.io/k/fdads40) ![](assets/new.png)  
 - [2020-11-08-易快报创始人兼-CEO-马春荃：擅长自黑的改良派，创业就是带着未知跑步前进](https://toutiao.io/k/qm8ohje) ![](assets/new.png)  
+- [2020-11-08-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-08-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-08-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-08-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
 - [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
 - [2020-11-08-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-11-08-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-08-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-08-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-08-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-08-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

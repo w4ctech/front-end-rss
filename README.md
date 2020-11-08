@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-08 16:22:06，:rocket: 更新条数: +2997， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 16:41:34，:rocket: 更新条数: +3024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -47,7 +47,7 @@
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)![](assets/dot.png)   
-- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
+- [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
@@ -469,6 +469,26 @@
 </summary>
 
 
+- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) ![](assets/new.png)  
+- [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) ![](assets/new.png)  
+- [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) ![](assets/new.png)  
+- [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
+- [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) ![](assets/new.png)  
+- [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) ![](assets/new.png)  
+- [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) ![](assets/new.png)  
+- [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) ![](assets/new.png)  
+- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) ![](assets/new.png)  
+- [2019-12-16-以中国传统的孔子和老子的思想来分析忍者代码](https://juejin.im/post/5df06050e51d4557f26e52e3) ![](assets/new.png)  
+- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) ![](assets/new.png)  
+- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) ![](assets/new.png)  
+- [2019-12-09-9102-年，蚂蚁金服前端是怎么写图表的?](https://zhuanlan.zhihu.com/p/93963320) ![](assets/new.png)  
+- [2019-12-09-图表制作可以很简单---图表魔方-ChartCube](https://zhuanlan.zhihu.com/p/94269648) ![](assets/new.png)  
+- [2019-12-06-微前端的核心价值](https://zhuanlan.zhihu.com/p/95085796) ![](assets/new.png)  
+- [2019-12-06-解密国内BAT等大厂前端技术体系-美团点评之上篇（长文建议收藏）](https://juejin.im/post/5de6474bf265da33af512598) ![](assets/new.png)  
+- [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) ![](assets/new.png)  
+- [2019-12-05-crypto-前后端加解密简单了解](https://juejin.im/post/5de70298f265da33b12e8221) ![](assets/new.png)  
+- [2019-12-05-How-to-choose-a-JavaScript-code-editor](https://www.freecodecamp.org/news/how-to-choose-a-javascript-code-editor/) ![](assets/new.png)  
+- [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端艺术家&&飞冰早报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -513,15 +533,15 @@
 </summary>
 
 
+- [2020-11-08-骁龙-765g-支持-wifi6-么](https://www.v2ex.com/t/723028) ![](assets/new.png)  
+- [2020-11-08-🔥🔥🔥-新加坡-Shopee-直招-招资深云原生平台开发工程师，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/723026) ![](assets/new.png)  
 - [2020-11-08-iOS14.2&换电池出现各种-Bug，求助坛友帮忙分析分析](https://www.v2ex.com/t/723023) ![](assets/new.png)  
 - [2020-11-08-vuepress-为啥改不了主题？](https://www.v2ex.com/t/723020) ![](assets/new.png)  
 - [2020-11-08-2-万预算，-LG-oled-65-寸和三星-qled-75-寸二者中如何选？](https://www.v2ex.com/t/723019) ![](assets/new.png)  
 - [2020-11-08-当当云阅读网页版无法访问](https://www.v2ex.com/t/723018) ![](assets/new.png)  
 - [2020-11-08-学校订运动场需要手机上抢，有没有办法购买个软件来抢？](https://www.v2ex.com/t/723017) ![](assets/new.png)  
 - [2020-11-08-11-号要发-Apple-Silicon-的-13'-MBP-了，今年年中买了-2020-13'-MBP-的岂不是](https://www.v2ex.com/t/723016) ![](assets/new.png)  
-- [2020-11-08-心有点累，该如何和女友沟通](https://www.v2ex.com/t/723015) ![](assets/new.png)  
 - [2020-11-08-yoga14s-2021-款之后能上黑苹果吗](https://www.v2ex.com/t/723014) ![](assets/new.png)  
-- [2020-11-08-同时喜欢两个女的咋办？](https://www.v2ex.com/t/723013) ![](assets/new.png)  
 - [2020-11-08-阿里云双十一赠券+降价促销中，部分爆款-9-号可买](https://www.v2ex.com/t/723012) ![](assets/new.png)  
 - [2020-11-08-求微信上可用的工单系统，派单抢单跟踪统计功能](https://www.v2ex.com/t/723011) ![](assets/new.png)  
 - [2020-11-08-有什么好的开源的-go-语言的后端框架，用来做游戏的后端服务器用的](https://www.v2ex.com/t/723008) ![](assets/new.png)  
@@ -585,16 +605,16 @@
 - [2020-11-08-他把闲鱼-App-长列表流畅度翻了倍](https://toutiao.io/k/demohte) ![](assets/new.png)  
 - [2020-11-08-易快报创始人兼-CEO-马春荃：擅长自黑的改良派，创业就是带着未知跑步前进](https://toutiao.io/k/qm8ohje) ![](assets/new.png)  
 - [2020-11-08-Kotlin-Vocabulary：唯一的-“对象”](https://toutiao.io/k/fdads40) ![](assets/new.png)  
-- [2020-11-08-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-08-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-08-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-08-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-08-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-08-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-08-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-08-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
 - [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-08-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

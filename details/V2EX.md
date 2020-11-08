@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-08 06:04:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 06:13:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-08-iPhone-12-mini-有官网购买现在显示-13-号发货的么](https://www.v2ex.com/t/722894) 
+- [2020-11-08-iPad-和-iPhone-的-spotify-会抢-airpods-的使用权？](https://www.v2ex.com/t/722893) 
 - [2020-11-08-12-max-有评测了么？比-pro-强多少啊。](https://www.v2ex.com/t/722892) 
 - [2020-11-08-如何看待北京人力资源《对于轻微违法行为不予行政处罚》？](https://www.v2ex.com/t/722890) 
 - [2020-11-08-木兰编程语言-0.0.14.8：-websocket-聊天演示；部分比较-Python-语法](https://www.v2ex.com/t/722889) 
@@ -43,4 +45,3 @@
 - [2020-11-08-远程访问-mysql-服务的最佳实践？](https://www.v2ex.com/t/722847) 
 - [2020-11-08-可以在-views-中重载-django-么？](https://www.v2ex.com/t/722846) 
 - [2020-11-08-为什么-iPhone-旧款和新款的内存差距不算很大，但新款的多任务能力远远超出旧款？](https://www.v2ex.com/t/722845) 
-- [2020-11-08-贝壳-ios-vs-虾皮-sre](https://www.v2ex.com/t/722843) 

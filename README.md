@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-08 12:49:25，:rocket: 更新条数: +3023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 13:04:03，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -443,9 +453,9 @@
 </summary>
 
 
+- [2020-11-08-结合阿里云-FC-谈谈我对-FaaS-的理解](https://juejin.im/post/6892728697082609672) ![](assets/new.png)  
 - [2020-11-08-如何高效上手Flutter开发？](https://juejin.im/post/6892719484697346055) ![](assets/new.png)  
 - [2020-11-08-传统Diff算法为什么时间复杂度要On-^3](https://juejin.im/post/6892671384976097287) ![](assets/new.png)  
-- [2020-11-08-关于后台管理系统前端项目的思考](https://juejin.im/post/6892665349611896845) ![](assets/new.png)  
 - [2020-11-08-“必懂”的`__proto__`，“必懂”的`prototype`](https://juejin.im/post/6892664078645329933) ![](assets/new.png)  
 - [2020-10-26-前端程序员做了这件事就是工程师了](https://juejin.im/post/6887874578748538887) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -523,6 +533,8 @@
 </summary>
 
 
+- [2020-11-08-Java-有没有类似-Python-启用-HttpServer-的服务？](https://www.v2ex.com/t/722977) ![](assets/new.png)  
+- [2020-11-08-做饭苦手的入门菜记录——清蒸排骨](https://www.v2ex.com/t/722976) ![](assets/new.png)  
 - [2020-11-08-询价：-64g-XR-黄色,-有锁（已黑解，不用卡贴）。能出多少米？](https://www.v2ex.com/t/722975) ![](assets/new.png)  
 - [2020-11-08-感觉-watchOS-7.1-测心率的策略变了](https://www.v2ex.com/t/722973) ![](assets/new.png)  
 - [2020-11-08-2020-年双十一抽奖（2019-新款-iPad-抽奖送，话费楼层随机送），有兴趣的可以看看（前端开发工程师相关）](https://www.v2ex.com/t/722972) ![](assets/new.png)  
@@ -541,8 +553,6 @@
 - [2020-11-08-thinkpad-的指纹为什么不能一次性唤醒和登录-win10-了？](https://www.v2ex.com/t/722955) ![](assets/new.png)  
 - [2020-11-08-需要用.net-开发一个插件有人做吗](https://www.v2ex.com/t/722953) ![](assets/new.png)  
 - [2020-11-08-用磁盘工具重新分区了，还有救么？](https://www.v2ex.com/t/722952) ![](assets/new.png)  
-- [2020-11-08-刷了一周-LeetCode](https://www.v2ex.com/t/722951) ![](assets/new.png)  
-- [2020-11-08-V-站人手一博客，个人博客活的久的关键以及博客的重点](https://www.v2ex.com/t/722950) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -595,16 +605,16 @@
 - [2020-11-08-一种城市空中移动性管理分布式控制框架](https://toutiao.io/k/tczzw0u) ![](assets/new.png)  
 - [2020-11-08-易快报创始人兼-CEO-马春荃：擅长自黑的改良派，创业就是带着未知跑步前进](https://toutiao.io/k/qm8ohje) ![](assets/new.png)  
 - [2020-11-08-Kotlin-Vocabulary：唯一的-“对象”](https://toutiao.io/k/fdads40) ![](assets/new.png)  
-- [2020-11-08-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-08-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-08-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-08-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
 - [2020-11-08-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-08-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-08-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-08-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-08-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -616,6 +626,10 @@
 </summary>
 
 
+- [2020-11-08-GitHub-上-25-个-Python-学习资源,墙裂推荐!](https://sec.thief.one/article_content?a_id=9f26c4fe5d13f1fbb5c3287f6fcf8d37) ![](assets/new.png)  
+- [2020-11-08-共绘安全业务生态新蓝图|绿盟科技出席2020天翼智能生态博览会](https://sec.thief.one/article_content?a_id=892027bcb9c301199435a0124d00a008) ![](assets/new.png)  
+- [2020-11-08-“我家的故事——脱贫攻坚奔小康”短视频征集展示活动评审会召开](https://sec.thief.one/article_content?a_id=82968ffaac09ced2df5ad8b1560581d2) ![](assets/new.png)  
+- [2020-11-08-“奇安信杯”创客训练营圆满落幕](https://sec.thief.one/article_content?a_id=55e090644ee7531bf061c59b0dac522d) ![](assets/new.png)  
 - [2020-11-08-DamnVulnerableCryptoApp:一款功能强大的弱加密实现检测工具](https://sec.thief.one/article_content?a_id=b1c045b33fb01d9475fbed99302eabb6) ![](assets/new.png)  
 - [2020-11-08-11月16日,2020-KCTF秋季赛-|-巅峰对决,勇者必胜!](https://sec.thief.one/article_content?a_id=e9d5f18aad6b6b543fe8b680880ed501) ![](assets/new.png)  
 - [2020-11-08-【视频】|-Python:列表操作更新和删除](https://sec.thief.one/article_content?a_id=bda8cb558779e09fda5b0916ec7cfb96) ![](assets/new.png)  
@@ -632,10 +646,6 @@
 - [2020-11-08-Webmin-远程命令执行CVE-2019-15107漏洞利用](https://sec.thief.one/article_content?a_id=f729c85969608c5b585ba35fdb81b076) ![](assets/new.png)  
 - [2020-11-08-实战化背景下的安全防护能力体系建设思路](https://sec.thief.one/article_content?a_id=9e9c1b4900b4c88fd26ba9ced3849ddc) ![](assets/new.png)  
 - [2020-11-08-意大利酒商Campari-Group遭勒索,黑客要挟1500万美元](https://sec.thief.one/article_content?a_id=2a2516297319737815d4cd320593af5e) ![](assets/new.png)  
-- [2020-11-08-当当网产品总监变性后遭解雇,法院「恢复工作,有权上女厕」!我们...](https://sec.thief.one/article_content?a_id=da3a0c049833be3b0ed7369dcf357222) ![](assets/new.png)  
-- [2020-11-08-Python-NumPy用法介绍](https://sec.thief.one/article_content?a_id=7b8b98f36cbdb76e2a4332da0c9bd3c3) ![](assets/new.png)  
-- [2020-11-08-【精彩回顾】第四届小米AIoT安全峰会成功举办](https://sec.thief.one/article_content?a_id=6f415cb8c483bb0d4dc1e8caa53fa9ac) ![](assets/new.png)  
-- [2020-11-08-SM2-国密算法被-Linux-内核社区接受](https://sec.thief.one/article_content?a_id=86c386426f1ec71cee86beb69c640b19) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-08 12:49:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-08 13:04:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -26,6 +26,24 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
+<td><a href="#2019-01">01月</a></td>
+<td><a href="#2019-02">02月</a></td>
+<td><a href="#2019-03">03月</a></td>
+<td>04月</td>
+<td>05月</td>
+<td><a href="#2019-06">06月</a></td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td><a href="#2019-11">11月</a></td>
+<td><a href="#2019-12">12月</a></td>
+</tr>
+
+<tr>
+<th colspan="12">2018年</th>
+</tr>
+<tr>
 <td>01月</td>
 <td>02月</td>
 <td>03月</td>
@@ -36,8 +54,8 @@
 <td>08月</td>
 <td>09月</td>
 <td>10月</td>
-<td><a href="#2019-11">11月</a></td>
-<td><a href="#2019-12">12月</a></td>
+<td>11月</td>
+<td><a href="#2018-12">12月</a></td>
 </tr>
 
 </table>
@@ -77,10 +95,12 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-11-08-加拿大新增新冠肺炎确诊病例超4000例-西部局地实行封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidRLuUpb5OwZuXhMVzGej201108&isfromapp=1) 
 - [【阮一峰的网络日志】2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html) 
 - [【阮一峰的网络日志】2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
+- [【掘金前端】2020-11-08-结合阿里云-FC-谈谈我对-FaaS-的理解](https://juejin.im/post/6892728697082609672) 
 - [【掘金前端】2020-11-08-如何高效上手Flutter开发？](https://juejin.im/post/6892719484697346055) 
 - [【掘金前端】2020-11-08-传统Diff算法为什么时间复杂度要On-^3](https://juejin.im/post/6892671384976097287) 
-- [【掘金前端】2020-11-08-关于后台管理系统前端项目的思考](https://juejin.im/post/6892665349611896845) 
 - [【掘金前端】2020-11-08-“必懂”的`__proto__`，“必懂”的`prototype`](https://juejin.im/post/6892664078645329933) 
+- [【V2EX】2020-11-08-Java-有没有类似-Python-启用-HttpServer-的服务？](https://www.v2ex.com/t/722977) 
+- [【V2EX】2020-11-08-做饭苦手的入门菜记录——清蒸排骨](https://www.v2ex.com/t/722976) 
 - [【V2EX】2020-11-08-询价：-64g-XR-黄色,-有锁（已黑解，不用卡贴）。能出多少米？](https://www.v2ex.com/t/722975) 
 - [【V2EX】2020-11-08-感觉-watchOS-7.1-测心率的策略变了](https://www.v2ex.com/t/722973) 
 - [【V2EX】2020-11-08-2020-年双十一抽奖（2019-新款-iPad-抽奖送，话费楼层随机送），有兴趣的可以看看（前端开发工程师相关）](https://www.v2ex.com/t/722972) 
@@ -116,8 +136,6 @@
 - [【V2EX】2020-11-08-PayPal-这个差价怎么来的。](https://www.v2ex.com/t/722930) 
 - [【V2EX】2020-11-08-浏览器的工作原理：从在地址栏输入-google.com-到显示-google-页面发生了什么？](https://www.v2ex.com/t/722929) 
 - [【V2EX】2020-11-08-有腱鞘炎的朋友吗？](https://www.v2ex.com/t/722928) 
-- [【V2EX】2020-11-08-在同一个交换机上能否连接不同子网？](https://www.v2ex.com/t/722927) 
-- [【V2EX】2020-11-08-一到冬天头皮屑疯狂变多怎么搞](https://www.v2ex.com/t/722926) 
 - [【技术头条】2020-11-08-玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-11-08-智能技术改变淘宝，阿里巴巴首次详解核心商业AI体系-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13890&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777658%3Futm_content%3Dg_1000199924%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-11-08-软件交付效能度量——从吞吐量和稳定性开始-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13889&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-measurement-4-key-metrics%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,21 +166,25 @@
 - [【开发者头条】2020-11-08-一种城市空中移动性管理分布式控制框架](https://toutiao.io/k/tczzw0u) 
 - [【开发者头条】2020-11-08-易快报创始人兼-CEO-马春荃：擅长自黑的改良派，创业就是带着未知跑步前进](https://toutiao.io/k/qm8ohje) 
 - [【开发者头条】2020-11-08-Kotlin-Vocabulary：唯一的-“对象”](https://toutiao.io/k/fdads40) 
-- [【开发者头条】2020-11-08-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) 
-- [【开发者头条】2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
+- [【开发者头条】2020-11-08-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) 
+- [【开发者头条】2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) 
+- [【开发者头条】2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) 
+- [【开发者头条】2020-11-08-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) 
+- [【开发者头条】2020-11-08-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) 
 - [【开发者头条】2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) 
-- [【开发者头条】2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) 
+- [【开发者头条】2020-11-08-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) 
+- [【开发者头条】2020-11-08-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) 
+- [【开发者头条】2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) 
 - [【开发者头条】2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) 
 - [【开发者头条】2020-11-08-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) 
-- [【开发者头条】2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) 
-- [【开发者头条】2020-11-08-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) 
-- [【开发者头条】2020-11-08-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) 
-- [【开发者头条】2020-11-08-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) 
-- [【开发者头条】2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) 
-- [【开发者头条】2020-11-08-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) 
+- [【开发者头条】2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) 
 - [【开发者头条】2020-11-08-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) 
-- [【开发者头条】2020-11-08-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) 
-- [【开发者头条】2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) 
+- [【开发者头条】2020-11-08-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) 
+- [【开发者头条】2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) 
+- [【安全热点】2020-11-08-GitHub-上-25-个-Python-学习资源,墙裂推荐!](https://sec.thief.one/article_content?a_id=9f26c4fe5d13f1fbb5c3287f6fcf8d37) 
+- [【安全热点】2020-11-08-共绘安全业务生态新蓝图|绿盟科技出席2020天翼智能生态博览会](https://sec.thief.one/article_content?a_id=892027bcb9c301199435a0124d00a008) 
+- [【安全热点】2020-11-08-“我家的故事——脱贫攻坚奔小康”短视频征集展示活动评审会召开](https://sec.thief.one/article_content?a_id=82968ffaac09ced2df5ad8b1560581d2) 
+- [【安全热点】2020-11-08-“奇安信杯”创客训练营圆满落幕](https://sec.thief.one/article_content?a_id=55e090644ee7531bf061c59b0dac522d) 
 - [【安全热点】2020-11-08-DamnVulnerableCryptoApp:一款功能强大的弱加密实现检测工具](https://sec.thief.one/article_content?a_id=b1c045b33fb01d9475fbed99302eabb6) 
 - [【安全热点】2020-11-08-11月16日,2020-KCTF秋季赛-|-巅峰对决,勇者必胜!](https://sec.thief.one/article_content?a_id=e9d5f18aad6b6b543fe8b680880ed501) 
 - [【安全热点】2020-11-08-【视频】|-Python:列表操作更新和删除](https://sec.thief.one/article_content?a_id=bda8cb558779e09fda5b0916ec7cfb96) 
@@ -259,10 +281,6 @@
 - [【安全热点】2020-11-06-快递公司有“内鬼”,河北永年警方破获贩卖公民个人信息案!](https://sec.thief.one/article_content?a_id=1a1ea44e4b2e23808fd95acce263143c) 
 - [【安全热点】2020-11-05-【安全圈】卡普空内部服务器遭黑客入侵,游戏资料或有泄露风险!](https://sec.thief.one/article_content?a_id=fb5ff0edd5361e13d1afa2cc49c2362f) 
 - [【安全热点】2020-11-05-面向对象:内心渴望一份美好的情感,可以一起看日出日落携手共度一生](https://sec.thief.one/article_content?a_id=065b28e149f0a8364416ea3d5b0396b6) 
-- [【安全热点】2020-11-05-神回答:编程到底难在哪里?](https://sec.thief.one/article_content?a_id=1e7645a7f0b45b9675686fc258f2e096) 
-- [【安全热点】2020-11-05-奇安信零信任远程访问解决方案入选“2020世界计算机创新技术与产品...](https://sec.thief.one/article_content?a_id=6ec3a04807f147d0224cca250e31d1ba) 
-- [【安全热点】2020-11-05-“POC轶事”征文,快来投票,5选1评出万元大奖!](https://sec.thief.one/article_content?a_id=a9fc993da2b2ad6825af4340d2253dfe) 
-- [【安全热点】2020-11-05-SecWiki安全招聘第41期](https://sec.thief.one/article_content?a_id=33a8dfcd300e49365b3bd30598e7b4fa) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -2133,6 +2151,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-抓防疫也顾春耕-李克强开了新冠疫情领导小组会](http://m.china.caixin.com/m/2020-03-02/101523024.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-北京：黄某英离汉进京有关问题的调查及情况通报](http://m.china.caixin.com/m/2020-03-02/101522908.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html) 
+- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
+- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3193,6 +3213,64 @@
 - [【前端艺术家&&飞冰早报】2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [【前端艺术家&&飞冰早报】2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
 - [【前端艺术家&&飞冰早报】2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-06">
+ 2019-06
+</summary>
+
+
+- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-03">
+ 2019-03
+</summary>
+
+
+- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-02">
+ 2019-02
+</summary>
+
+
+- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-01">
+ 2019-01
+</summary>
+
+
+- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
+- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2018-12">
+ 2018-12
+</summary>
+
+
+- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
+- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

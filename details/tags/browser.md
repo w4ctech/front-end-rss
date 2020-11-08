@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-07 23:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 00:07:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,18 +22,10 @@
 - [2020-02-06-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-07-一些-Chromium-内核-Windows-的浏览器,-窗口最大化时网页底部会有一条横线.](https://www.v2ex.com/t/722820) 
 - [2020-11-07-让-Chrome-纵享-Edge-般的丝滑](https://www.v2ex.com/t/722815) 
-- [2020-11-07-玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-08-玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-07-网络安全保险守护企业安全|绿盟科技联合前海财险发布网络安全保险服...](https://sec.thief.one/article_content?a_id=15f37088d93d38995f0b43bfd65bdfe9) 
 - [2020-11-07-​拒绝纸上谈兵,物联网安全攻防实战训练营火热报名中!](https://sec.thief.one/article_content?a_id=305be1c5ea53d79eb9f5ab094409cab2) 
 - [2020-11-07-漏洞银行入选2020年度中国网络安全企业百强名录](https://sec.thief.one/article_content?a_id=92df501d2224381ffb5db341061de7a1) 

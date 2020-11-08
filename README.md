@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-08 08:35:31，:rocket: 更新条数: +3030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 08:47:41，:rocket: 更新条数: +3032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,12 @@
 </summary>
 
 
+- [2020-11-08-HomePod-mini-何时开启预售？](https://www.v2ex.com/t/722932) ![](assets/new.png)  
+- [2020-11-08-PayPal-这个差价怎么来的。](https://www.v2ex.com/t/722930) ![](assets/new.png)  
+- [2020-11-08-浏览器的工作原理：从在地址栏输入-google.com-到显示-google-页面发生了什么？](https://www.v2ex.com/t/722929) ![](assets/new.png)  
+- [2020-11-08-有腱鞘炎的朋友吗？](https://www.v2ex.com/t/722928) ![](assets/new.png)  
+- [2020-11-08-在同一个交换机上能否连接不同子网？](https://www.v2ex.com/t/722927) ![](assets/new.png)  
+- [2020-11-08-一到冬天头皮屑疯狂变多怎么搞](https://www.v2ex.com/t/722926) ![](assets/new.png)  
 - [2020-11-08-ESLint:-clearvue/comment--directive-是什么鬼？](https://www.v2ex.com/t/722925) ![](assets/new.png)  
 - [2020-11-08-站长之家的迷惑行为](https://www.v2ex.com/t/722924) ![](assets/new.png)  
 - [2020-11-08-安卓有免费的-NFC-复制/模拟卡软件吗？](https://www.v2ex.com/t/722922) ![](assets/new.png)  
@@ -547,12 +553,6 @@
 - [2020-11-08-小米手机缺货这么严重？](https://www.v2ex.com/t/722907) ![](assets/new.png)  
 - [2020-11-08-大家在哪些情况会使用域名邮箱？](https://www.v2ex.com/t/722906) ![](assets/new.png)  
 - [2020-11-08-实习/校招/社招-字节跳动-前端/nodejs-组内直推](https://www.v2ex.com/t/722905) ![](assets/new.png)  
-- [2020-11-08-微信国内/国际账号问题。](https://www.v2ex.com/t/722903) ![](assets/new.png)  
-- [2020-11-08-第一代-arm-Mac-值得买吗？下场会和-chromebook-一样吗](https://www.v2ex.com/t/722902) ![](assets/new.png)  
-- [2020-11-08-iPad-上的-ios-怎么样升级成-iPadOS？](https://www.v2ex.com/t/722901) ![](assets/new.png)  
-- [2020-11-08-关于-nginx-配置的问题。。](https://www.v2ex.com/t/722900) ![](assets/new.png)  
-- [2020-11-08-一到冬天静电就特别严重](https://www.v2ex.com/t/722899) ![](assets/new.png)  
-- [2020-11-08-谷歌浏览器现在点击任何文本都会出现光标是什么情况](https://www.v2ex.com/t/722897) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-08-一种城市空中移动性管理分布式控制框架](https://toutiao.io/k/tczzw0u) ![](assets/new.png)  
 - [2020-11-08-Kotlin-Vocabulary：唯一的-“对象”](https://toutiao.io/k/fdads40) ![](assets/new.png)  
 - [2020-11-08-易快报创始人兼-CEO-马春荃：擅长自黑的改良派，创业就是带着未知跑步前进](https://toutiao.io/k/qm8ohje) ![](assets/new.png)  
-- [2020-11-08-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-08-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-08-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-08-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
 - [2020-11-08-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-08-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-08-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-08-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-08-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

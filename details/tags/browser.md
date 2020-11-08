@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-08 08:35:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 08:47:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-08-浏览器的工作原理：从在地址栏输入-google.com-到显示-google-页面发生了什么？](https://www.v2ex.com/t/722929) 
 - [2020-11-08-第一代-arm-Mac-值得买吗？下场会和-chromebook-一样吗](https://www.v2ex.com/t/722902) 
 - [2020-11-08-谷歌浏览器现在点击任何文本都会出现光标是什么情况](https://www.v2ex.com/t/722897) 
 - [2020-11-08-木兰编程语言-0.0.14.8：-websocket-聊天演示；部分比较-Python-语法](https://www.v2ex.com/t/722889) 

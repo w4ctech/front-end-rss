@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-08 13:33:17，:rocket: 更新条数: +2991， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 13:35:49，:rocket: 更新条数: +3030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-11-08-秘鲁卫生部：新冠肺炎累计确诊逾92万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6kwT6VdhlzedqNPcyGUJ201108&isfromapp=1) ![](assets/new.png)  
+- [2020-11-08-天津：疫情整体可控-非必要不聚餐不聚集](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAToKVMmXbCYScvof8fGS201108&isfromapp=1) ![](assets/new.png)  
+- [2020-11-08-俄罗斯新增新冠肺炎确诊病例20498例-累计确诊超177万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIjG1DBwZfIhNQna3GUWh201108&isfromapp=1) ![](assets/new.png)  
+- [2020-11-08-天津新增1例本地新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimBGBB3VMrvyP1WAQeP1S201108&isfromapp=1) ![](assets/new.png)  
+- [2020-11-08-加拿大新增新冠肺炎确诊病例超4000例-西部局地实行封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidRLuUpb5OwZuXhMVzGej201108&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -528,6 +533,26 @@
 </summary>
 
 
+- [2020-11-08-X-光年游戏公司-!-就不要去](https://www.v2ex.com/t/722989) ![](assets/new.png)  
+- [2020-11-08-1Password-家庭版，开车-缺两位。](https://www.v2ex.com/t/722988) ![](assets/new.png)  
+- [2020-11-08-求推荐一个出差用的笔记本](https://www.v2ex.com/t/722984) ![](assets/new.png)  
+- [2020-11-08-很奇怪的问题,-iPhone-是如何在锁屏状态下回拨的?](https://www.v2ex.com/t/722982) ![](assets/new.png)  
+- [2020-11-08-MacBookPro-经常突然黑屏报错重启怎么办？](https://www.v2ex.com/t/722979) ![](assets/new.png)  
+- [2020-11-08-Linux-服务器被劫持](https://www.v2ex.com/t/722978) ![](assets/new.png)  
+- [2020-11-08-Java-有没有类似-Python-启用-HttpServer-的服务？](https://www.v2ex.com/t/722977) ![](assets/new.png)  
+- [2020-11-08-做饭苦手的入门菜记录——清蒸排骨](https://www.v2ex.com/t/722976) ![](assets/new.png)  
+- [2020-11-08-询价：-64g-XR-黄色,-有锁（已黑解，不用卡贴）。能出多少米？](https://www.v2ex.com/t/722975) ![](assets/new.png)  
+- [2020-11-08-感觉-watchOS-7.1-测心率的策略变了](https://www.v2ex.com/t/722973) ![](assets/new.png)  
+- [2020-11-08-2020-年双十一抽奖（2019-新款-iPad-抽奖送，话费楼层随机送），有兴趣的可以看看（前端开发工程师相关）](https://www.v2ex.com/t/722972) ![](assets/new.png)  
+- [2020-11-08-内推社招深圳Shopee前后端/QA/云原生-顺带讲一下自己在-Shopee-工作的体验](https://www.v2ex.com/t/722971) ![](assets/new.png)  
+- [2020-11-08-IOS14.2USB-链接电脑之后键盘鼠标均无反应了](https://www.v2ex.com/t/722970) ![](assets/new.png)  
+- [2020-11-08-提前还款了花呗和-jd-白条，然后注销了。](https://www.v2ex.com/t/722969) ![](assets/new.png)  
+- [2020-11-08-爱奇艺-PC-网页端-播放广告时，是怎么检测到我把它放到了后台的？](https://www.v2ex.com/t/722968) ![](assets/new.png)  
+- [2020-11-08-社会地位的高低主要是由什么决定的？](https://www.v2ex.com/t/722967) ![](assets/new.png)  
+- [2020-11-08-Word-for-iPad-日常吐槽](https://www.v2ex.com/t/722965) ![](assets/new.png)  
+- [2020-11-08-被领导怼了](https://www.v2ex.com/t/722964) ![](assets/new.png)  
+- [2020-11-08-可视化你的-GitHub-仓库数据，发掘更多的细节——GitHub-Insights](https://www.v2ex.com/t/722963) ![](assets/new.png)  
+- [2020-11-08-iOS-上的-Evernote-不能再用来登录国内版印象笔记账户了吗？](https://www.v2ex.com/t/722960) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

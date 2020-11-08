@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-08 16:09:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 16:22:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-08-iOS14.2&换电池出现各种-Bug，求助坛友帮忙分析分析](https://www.v2ex.com/t/723023) 
 - [2020-11-08-vuepress-为啥改不了主题？](https://www.v2ex.com/t/723020) 
 - [2020-11-08-2-万预算，-LG-oled-65-寸和三星-qled-75-寸二者中如何选？](https://www.v2ex.com/t/723019) 
 - [2020-11-08-当当云阅读网页版无法访问](https://www.v2ex.com/t/723018) 
@@ -35,4 +36,3 @@
 - [2020-11-08-Linux-服务器被劫持](https://www.v2ex.com/t/722978) 
 - [2020-11-08-Java-有没有类似-Python-启用-HttpServer-的服务？](https://www.v2ex.com/t/722977) 
 - [2020-11-08-做饭苦手的入门菜记录——清蒸排骨](https://www.v2ex.com/t/722976) 
-- [2020-11-08-感觉-watchOS-7.1-测心率的策略变了](https://www.v2ex.com/t/722973) 

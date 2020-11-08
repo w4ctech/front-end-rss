@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-08 14:04:05，:rocket: 更新条数: +3031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 14:12:16，:rocket: 更新条数: +3031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-08-SDL-中如何调用一个能输入文本的对话框](https://www.v2ex.com/t/723001) ![](assets/new.png)  
 - [2020-11-08-现在一些电子书下载网址，有版权问题吗？会不会被告](https://www.v2ex.com/t/723000) ![](assets/new.png)  
 - [2020-11-08-我来-Diss-一下现在的邮箱包括但不仅限于-outlook-和-gmail的自动垃圾邮件分类](https://www.v2ex.com/t/722999) ![](assets/new.png)  
 - [2020-11-08-windows-无可替代的软件](https://www.v2ex.com/t/722998) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-08-询价：-64g-XR-黄色,-有锁（已黑解，不用卡贴）。能出多少米？](https://www.v2ex.com/t/722975) ![](assets/new.png)  
 - [2020-11-08-感觉-watchOS-7.1-测心率的策略变了](https://www.v2ex.com/t/722973) ![](assets/new.png)  
 - [2020-11-08-2020-年双十一抽奖（2019-新款-iPad-抽奖送，话费楼层随机送），有兴趣的可以看看（前端开发工程师相关）](https://www.v2ex.com/t/722972) ![](assets/new.png)  
-- [2020-11-08-内推社招深圳Shopee前后端/QA/云原生-顺带讲一下自己在-Shopee-工作的体验](https://www.v2ex.com/t/722971) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -600,21 +600,21 @@
 - [2020-11-08-底层原理：垃圾回收算法是如何设计的？](https://toutiao.io/k/mtlt8ig) ![](assets/new.png)  
 - [2020-11-08-在-2020-年聊聊-Angular-的现状](https://toutiao.io/k/swsqb28) ![](assets/new.png)  
 - [2020-11-08-Kotlin-Contract](https://toutiao.io/k/mx3isde) ![](assets/new.png)  
-- [2020-11-08-提前试用将在-Go-1.16-中发布的内嵌静态资源功能](https://toutiao.io/k/65vg2c1) ![](assets/new.png)  
 - [2020-11-08-一种城市空中移动性管理分布式控制框架](https://toutiao.io/k/tczzw0u) ![](assets/new.png)  
+- [2020-11-08-提前试用将在-Go-1.16-中发布的内嵌静态资源功能](https://toutiao.io/k/65vg2c1) ![](assets/new.png)  
 - [2020-11-08-他把闲鱼-App-长列表流畅度翻了倍](https://toutiao.io/k/demohte) ![](assets/new.png)  
 - [2020-11-08-易快报创始人兼-CEO-马春荃：擅长自黑的改良派，创业就是带着未知跑步前进](https://toutiao.io/k/qm8ohje) ![](assets/new.png)  
 - [2020-11-08-Kotlin-Vocabulary：唯一的-“对象”](https://toutiao.io/k/fdads40) ![](assets/new.png)  
-- [2020-11-08-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-08-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-11-08-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
-- [2020-11-08-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-08-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-08-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
 - [2020-11-08-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
+- [2020-11-08-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-08-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -14483,6 +14483,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "SDL 中如何调用一个能输入文本的对话框",
+        "link": "https://www.v2ex.com/t/723001",
+        "date": "2020-11-08"
+      },
+      {
         "title": "现在一些电子书下载网址，有版权问题吗？会不会被告",
         "link": "https://www.v2ex.com/t/723000",
         "date": "2020-11-08"
@@ -14651,11 +14656,6 @@
         "title": "用磁盘工具重新分区了，还有救么？",
         "link": "https://www.v2ex.com/t/722952",
         "date": "2020-11-08"
-      },
-      {
-        "title": "刷了一周 LeetCode",
-        "link": "https://www.v2ex.com/t/722951",
-        "date": "2020-11-08"
       }
     ]
   },
@@ -14797,13 +14797,13 @@
         "date": "2020-11-08"
       },
       {
-        "title": "提前试用将在 Go 1.16 中发布的内嵌静态资源功能",
-        "link": "https://toutiao.io/k/65vg2c1",
+        "title": "一种城市空中移动性管理分布式控制框架",
+        "link": "https://toutiao.io/k/tczzw0u",
         "date": "2020-11-08"
       },
       {
-        "title": "一种城市空中移动性管理分布式控制框架",
-        "link": "https://toutiao.io/k/tczzw0u",
+        "title": "提前试用将在 Go 1.16 中发布的内嵌静态资源功能",
+        "link": "https://toutiao.io/k/65vg2c1",
         "date": "2020-11-08"
       },
       {
@@ -14822,38 +14822,28 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-08"
       },
       {
@@ -14862,13 +14852,23 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
         "date": "2020-11-08"
       },
       {
@@ -14882,18 +14882,18 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-08"
       }
     ]

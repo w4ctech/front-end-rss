@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-08 14:33:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 14:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -35,5 +35,3 @@
 - [2020-11-08-Word-for-iPad-日常吐槽](https://www.v2ex.com/t/722965) 
 - [2020-11-08-被领导怼了](https://www.v2ex.com/t/722964) 
 - [2020-11-08-可视化你的-GitHub-仓库数据，发掘更多的细节——GitHub-Insights](https://www.v2ex.com/t/722963) 
-- [2020-11-08-iOS-上的-Evernote-不能再用来登录国内版印象笔记账户了吗？](https://www.v2ex.com/t/722960) 
-- [2020-11-08-SSH-到远程服务器执行长时间操作,-如何应对服务器连接中断](https://www.v2ex.com/t/722959) 

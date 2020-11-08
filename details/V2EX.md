@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-08 06:35:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 06:49:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-08-一到冬天静电就特别严重](https://www.v2ex.com/t/722899) 
 - [2020-11-08-谷歌浏览器现在点击任何文本都会出现光标是什么情况](https://www.v2ex.com/t/722897) 
 - [2020-11-08-iPhone-12-mini-有官网购买现在显示-13-号发货的么](https://www.v2ex.com/t/722894) 
 - [2020-11-08-iPad-和-iPhone-的-spotify-会抢-airpods-的使用权？](https://www.v2ex.com/t/722893) 
@@ -41,4 +42,3 @@
 - [2020-11-08-大家周末无聊的时候会选择干什么呢](https://www.v2ex.com/t/722852) 
 - [2020-11-08-miui11-chrome-不能截长屏,怎么破？](https://www.v2ex.com/t/722851) 
 - [2020-11-08-iPhone-12-Pro-首摔](https://www.v2ex.com/t/722850) 
-- [2020-11-08-楼上养鸽子，如何理（撕）性（B）看待？](https://www.v2ex.com/t/722849) 

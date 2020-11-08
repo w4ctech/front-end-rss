@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-08 05:35:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 05:47:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,7 +34,6 @@
 - [2020-11-08-miui11-chrome-不能截长屏,怎么破？](https://www.v2ex.com/t/722851) 
 - [2020-11-08-可以在-views-中重载-django-么？](https://www.v2ex.com/t/722846) 
 - [2020-11-08-v2ex-有安全方向的朋友吗](https://www.v2ex.com/t/722842) 
-- [2020-11-08-火狐-Firefox-国际版很香哦，网页打开速度比-Chrome-快，越来越好用了](https://www.v2ex.com/t/722837) 
 - [2020-11-08-玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-07-网络安全保险守护企业安全|绿盟科技联合前海财险发布网络安全保险服...](https://sec.thief.one/article_content?a_id=15f37088d93d38995f0b43bfd65bdfe9) 
 - [2020-11-07-​拒绝纸上谈兵,物联网安全攻防实战训练营火热报名中!](https://sec.thief.one/article_content?a_id=305be1c5ea53d79eb9f5ab094409cab2) 

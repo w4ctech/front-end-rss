@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-08 17:11:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 17:21:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -415,6 +415,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【V2EX】「杭州西湖区酷家乐」-项目经理招聘](https://www.v2ex.com/t/722992)
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [【安全热点】招聘岗位又双叒叕添加啦!](https://sec.thief.one/article_content?a_id=4e677848e40c9a017264fa7845d13d07)

@@ -15,6 +15,11 @@
         "date": "2020-11-07"
       },
       {
+        "title": "【境内疫情观察】全国新增28例境外输入病例（11月7日）",
+        "link": "http://m.database.caixin.com/m/2020-11-08/101624448.html",
+        "date": "2020-11-07"
+      },
+      {
         "title": "大流行手记|11月7日：已有六国发现水貂变异病毒感染者 白宫幕僚长确诊",
         "link": "https://m.caixin.com/m/2020-11-08/101624405.html",
         "date": "2020-11-07"
@@ -14271,13 +14276,13 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "不得不知道的JavaScript原生拖放实现",
-        "link": "https://juejin.im/post/6892642774529605645",
+        "title": "Puppeteer",
+        "link": "https://juejin.im/post/6892652204780748813",
         "date": "2020-11-07"
       },
       {
-        "title": "模板引擎的整理归纳",
-        "link": "https://juejin.im/post/6892608275057999880",
+        "title": "不得不知道的JavaScript原生拖放实现",
+        "link": "https://juejin.im/post/6892642774529605645",
         "date": "2020-11-07"
       },
       {
@@ -14478,6 +14483,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "微博网页版手动切到新版",
+        "link": "https://www.v2ex.com/t/722911",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[上海] 字节跳动-教育前端-瓜瓜龙系列部门直招",
+        "link": "https://www.v2ex.com/t/722910",
+        "date": "2020-11-08"
+      },
+      {
         "title": "小米手机缺货这么严重？",
         "link": "https://www.v2ex.com/t/722907",
         "date": "2020-11-08"
@@ -14640,21 +14655,6 @@
       {
         "title": "有没有录音后转发邮件的 app",
         "link": "https://www.v2ex.com/t/722862",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "pgp 的个人信息和密码相同的情况下密钥有可能重复吗？",
-        "link": "https://www.v2ex.com/t/722861",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "有没有什么练手项目可以充分利用到计算机网络相关知识？",
-        "link": "https://www.v2ex.com/t/722860",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "有一起打台球的吗？",
-        "link": "https://www.v2ex.com/t/722859",
         "date": "2020-11-08"
       }
     ]
@@ -14822,13 +14822,13 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
         "date": "2020-11-08"
       },
       {
@@ -14837,13 +14837,8 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-08"
       },
       {
@@ -14852,28 +14847,13 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-08"
-      },
-      {
         "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
         "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-11-08"
       },
       {
@@ -14882,13 +14862,33 @@
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
         "date": "2020-11-08"
       },
       {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
         "date": "2020-11-08"
       },
       {

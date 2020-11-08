@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-08 07:35:34，:rocket: 更新条数: +3031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 07:47:44，:rocket: 更新条数: +3031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 - [2020-11-07-11月7日全国新增境外输入新冠28例-累计确诊86212例](https://m.caixin.com/m/2020-11-08/101624393.html) ![](assets/new.png)  
 - [2020-11-07-天津新增1例本地新冠肺炎确诊病例-系此前核酸检测阳性装卸工人](https://m.caixin.com/m/2020-11-08/101624438.html) ![](assets/new.png)  
+- [2020-11-07-【境内疫情观察】全国新增28例境外输入病例（11月7日）](http://m.database.caixin.com/m/2020-11-08/101624448.html) ![](assets/new.png)  
 - [2020-11-07-大流行手记|11月7日：已有六国发现水貂变异病毒感染者-白宫幕僚长确诊](https://m.caixin.com/m/2020-11-08/101624405.html) ![](assets/new.png)  
 - [2020-11-06-【境内疫情观察】全国新增33例境外输入病例（11月6日）](http://m.database.caixin.com/m/2020-11-07/101624263.html) ![](assets/new.png)  
 - [2020-11-06-大流行手记|11月6日：丹麦水貂传播变异病毒](https://m.caixin.com/m/2020-11-07/101624156.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) ![](assets/new.png)  
 - [2020-11-01-【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html) ![](assets/new.png)  
 - [2020-11-01-大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html) ![](assets/new.png)  
-- [2020-10-31-【境内疫情观察】新疆新增61例无症状感染者（10月31日）](http://m.database.caixin.com/m/2020-11-01/101621241.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,8 +453,8 @@
 </summary>
 
 
+- [2020-11-07-Puppeteer](https://juejin.im/post/6892652204780748813) ![](assets/new.png)  
 - [2020-11-07-不得不知道的JavaScript原生拖放实现](https://juejin.im/post/6892642774529605645) ![](assets/new.png)  
-- [2020-11-07-模板引擎的整理归纳](https://juejin.im/post/6892608275057999880) ![](assets/new.png)  
 - [2020-11-07-React15和React16生命周期对比，初识Fiber](https://juejin.im/post/6892604247893147656) ![](assets/new.png)  
 - [2020-11-07-WebAssembly-入门--未来可能发生的巨变](https://juejin.im/post/6892600602866483213) ![](assets/new.png)  
 - [2020-11-07-CSS线性渐变的凹面矩形过渡动效](https://juejin.im/post/6892593515147034637) ![](assets/new.png)  
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-08-微博网页版手动切到新版](https://www.v2ex.com/t/722911) ![](assets/new.png)  
+- [2020-11-08-上海-字节跳动-教育前端-瓜瓜龙系列部门直招](https://www.v2ex.com/t/722910) ![](assets/new.png)  
 - [2020-11-08-小米手机缺货这么严重？](https://www.v2ex.com/t/722907) ![](assets/new.png)  
 - [2020-11-08-大家在哪些情况会使用域名邮箱？](https://www.v2ex.com/t/722906) ![](assets/new.png)  
 - [2020-11-08-实习/校招/社招-字节跳动-前端/nodejs-组内直推](https://www.v2ex.com/t/722905) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-08-喜马拉雅经常自动停止](https://www.v2ex.com/t/722887) ![](assets/new.png)  
 - [2020-11-08-北京-114北京预约挂号统一平台-一年多没登录，账号没了](https://www.v2ex.com/t/722886) ![](assets/new.png)  
 - [2020-11-08-拜登确认已经当选新一届美国总统](https://www.v2ex.com/t/722885) ![](assets/new.png)  
-- [2020-11-08-百度内推·部门直招-坐标北京-·-百度科技园，前端、后端、客户端、产品、运营都招人。欢迎来撩](https://www.v2ex.com/t/722884) ![](assets/new.png)  
-- [2020-11-08-为什么教科书喜欢给不完整的参考答案?](https://www.v2ex.com/t/722883) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-08-一种城市空中移动性管理分布式控制框架](https://toutiao.io/k/tczzw0u) ![](assets/new.png)  
 - [2020-11-08-Kotlin-Vocabulary：唯一的-“对象”](https://toutiao.io/k/fdads40) ![](assets/new.png)  
 - [2020-11-08-易快报创始人兼-CEO-马春荃：擅长自黑的改良派，创业就是带着未知跑步前进](https://toutiao.io/k/qm8ohje) ![](assets/new.png)  
-- [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-08-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-08-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-08-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) ![](assets/new.png)  
 - [2020-11-08-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-08-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-08-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-08-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
 - [2020-11-08-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-08-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
-- [2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-08-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-08-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-08-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-08-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-08-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-08-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

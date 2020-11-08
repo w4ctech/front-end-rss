@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-08 02:27:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-08 02:33:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,7 +30,9 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-11-07-WEB安全漏洞深入分析及其安全编码](https://juejin.im/post/6892401034749198343) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-08-v2ex-有安全方向的朋友吗](https://www.v2ex.com/t/722842) 
 - [2020-11-08-火狐-Firefox-国际版很香哦，网页打开速度比-Chrome-快，越来越好用了](https://www.v2ex.com/t/722837) 
 - [2020-11-08-使用-zerotier-接入-IPv6](https://www.v2ex.com/t/722825) 
 - [2020-11-07-一些-Chromium-内核-Windows-的浏览器,-窗口最大化时网页底部会有一条横线.](https://www.v2ex.com/t/722820) 

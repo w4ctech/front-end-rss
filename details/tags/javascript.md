@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-09 07:47:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 08:04:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -39,6 +39,7 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2020-11-09-一个-app-的事件记录（诡异的-admob）](https://www.v2ex.com/t/723251) 
 - [2020-11-09-绘制-DOM-关系图用什么软件](https://www.v2ex.com/t/723222) 
 - [2020-11-09-AES-256-生成秘钥的时候-可以不使用-SecureRandom-的生成的写法吗](https://www.v2ex.com/t/723205) 
 - [2020-11-07-【安全圈】报告:超12%工控安全事件系高级别黑客组织所为](https://sec.thief.one/article_content?a_id=f99f7ff3c0aa2295a6fd45c1d8f537f1) 

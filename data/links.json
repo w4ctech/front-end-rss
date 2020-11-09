@@ -14503,6 +14503,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "小爱同学 5.0 支持现在旧的音箱吗？",
+        "link": "https://www.v2ex.com/t/723367",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "关于 DNA 比对问题！",
+        "link": "https://www.v2ex.com/t/723366",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "大公司做背调时会给员工上一家公司的 hr 和领导打电话吗?",
+        "link": "https://www.v2ex.com/t/723365",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[美团社招]服务体验研发中心招聘前端火热进行中，坐标厦门，感兴趣的小伙伴赶紧看过来。",
+        "link": "https://www.v2ex.com/t/723364",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "请问 MagSafe 皮革卡包里面放公交卡饭卡可以直接刷么？",
+        "link": "https://www.v2ex.com/t/723363",
+        "date": "2020-11-09"
+      },
+      {
         "title": "中国真的有嘻哈吗？",
         "link": "https://www.v2ex.com/t/723362",
         "date": "2020-11-09"
@@ -14680,31 +14705,6 @@
       {
         "title": "Rails new 命令一直转圈怎么办？",
         "link": "https://www.v2ex.com/t/723318",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "端口为 12345 的 italk chat system 是啥服务",
-        "link": "https://www.v2ex.com/t/723317",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "iPad 上，我删除了谷歌 app、youtube、只剩下苹果自带的 app，今天重新安装了谷歌 app、youtube，它居然可以识别我的账号，我点击就直接登录了，是什么原理？",
-        "link": "https://www.v2ex.com/t/723316",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[PayPal 上海内推]全球顶级风控团队， Java /大数据/全栈/大客户技术支持等职位火热招聘中！",
-        "link": "https://www.v2ex.com/t/723315",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[旅游咨询]11 月下旬的千岛湖度假有什么好去处",
-        "link": "https://www.v2ex.com/t/723314",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "2020 年你觉得买的最值的三个东西是啥？",
-        "link": "https://www.v2ex.com/t/723313",
         "date": "2020-11-09"
       }
     ]
@@ -14922,18 +14922,8 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-09"
       },
       {
@@ -14942,33 +14932,18 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-09"
       },
       {
@@ -14977,13 +14952,18 @@
         "date": "2020-11-09"
       },
       {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-09"
+      },
+      {
         "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
         "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
         "date": "2020-11-09"
       },
       {
@@ -14994,6 +14974,26 @@
       {
         "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
         "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-09"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 06:38:24，:rocket: 更新条数: +3035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 06:48:29，:rocket: 更新条数: +3036， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
+- [2020-11-08-再理解：package.json](https://juejin.im/post/6893007572102545416) ![](assets/new.png)  
 - [2020-11-08-一个实用的Chrome小工具：xTrace](https://juejin.im/post/6893004236594872334) ![](assets/new.png)  
 - [2020-11-08-Hik-前端周刊｜第-1-期](https://juejin.im/post/6892996798202576903) ![](assets/new.png)  
 - [2020-11-08-SVGA在前端方面的使用](https://juejin.im/post/6892996067315580941) ![](assets/new.png)  
 - [2020-11-08-CSS-文本截断方法总结和原理分析](https://juejin.im/post/6892974106908557320) ![](assets/new.png)  
-- [2020-11-08-掘友福利｜参与活动MySQL书免费送了！](https://juejin.im/post/6892946746008305677) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,14 @@
 </summary>
 
 
+- [2020-11-09-解除劳动协议通知-怎么写？](https://www.v2ex.com/t/723209) ![](assets/new.png)  
+- [2020-11-09-腾讯云双-11-活动，新机-123-轻量-65-元/1-年起，续费-2-折起](https://www.v2ex.com/t/723208) ![](assets/new.png)  
+- [2020-11-09-求教一个-Python-统计数据的方法，多天统计人数最多最少时间段](https://www.v2ex.com/t/723207) ![](assets/new.png)  
+- [2020-11-09-按照前端传来的指定字段更新数据，-sql-语句该怎么写？](https://www.v2ex.com/t/723206) ![](assets/new.png)  
+- [2020-11-09-AES-256-生成秘钥的时候-可以不使用-SecureRandom-的生成的写法吗](https://www.v2ex.com/t/723205) ![](assets/new.png)  
+- [2020-11-09-C++入门以及进阶，都有什么好的建议吗？](https://www.v2ex.com/t/723204) ![](assets/new.png)  
+- [2020-11-09-印象笔记，等一个-1-折](https://www.v2ex.com/t/723203) ![](assets/new.png)  
+- [2020-11-09-Apple-Music-家庭求上车](https://www.v2ex.com/t/723202) ![](assets/new.png)  
 - [2020-11-09-买云服务器还是树莓派好](https://www.v2ex.com/t/723201) ![](assets/new.png)  
 - [2020-11-09-做了一个癖好分享社区,欢迎大家提意见](https://www.v2ex.com/t/723200) ![](assets/new.png)  
 - [2020-11-09-拼爹爹买AirPods-Pro-1299-但需要助力-95-个人。朋友不多怎么拉助力？](https://www.v2ex.com/t/723199) ![](assets/new.png)  
@@ -545,14 +553,6 @@
 - [2020-11-09-哪里可以下载歌词？](https://www.v2ex.com/t/723183) ![](assets/new.png)  
 - [2020-11-09-迫于疫情在家学习，求入门-Linux-的网课推荐](https://www.v2ex.com/t/723182) ![](assets/new.png)  
 - [2020-11-09-想买迈锐宝-XL-了-是不是明年-5-月份最便宜？-上天津牌](https://www.v2ex.com/t/723179) ![](assets/new.png)  
-- [2020-11-09-杭州-淘宝特价版内推-Java-后台开发](https://www.v2ex.com/t/723178) ![](assets/new.png)  
-- [2020-11-09-AirPods-Pro-单耳在开启降噪时出现-tatata-的声音，-Apple-成都太古里成功换新](https://www.v2ex.com/t/723174) ![](assets/new.png)  
-- [2020-11-09-硅谷-AI-外企北京研发中心来抓人啦！](https://www.v2ex.com/t/723169) ![](assets/new.png)  
-- [2020-11-09-老系统-20-张表-join，-100-多个字段-的优化方案？](https://www.v2ex.com/t/723168) ![](assets/new.png)  
-- [2020-11-09-不打算用-Gitee-了-😂-为什么要-403-屏蔽-raw-链接？](https://www.v2ex.com/t/723165) ![](assets/new.png)  
-- [2020-11-09-为什么国内没有可以支持-FTP-或者可以网站备份的云盘呢！](https://www.v2ex.com/t/723162) ![](assets/new.png)  
-- [2020-11-09-自动化测试，登录态的问题](https://www.v2ex.com/t/723161) ![](assets/new.png)  
-- [2020-11-09-关于快捷指令](https://www.v2ex.com/t/723160) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-09-玩转ECS第6讲-|-弹性计算Region化部署和跨可用区容灾介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13909&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777714%3Futm_content%3Dg_1000201986%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-09-基于-Flink-SQL-CDC-的实时数据同步方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13908&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777502%3Futm_content%3Dg_1000201984%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-09-直面最大挑战双11-阿里数据中台为商家带来确定性保障-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13907&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777615%3Futm_content%3Dg_1000201983%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-09-12-种-Flutter-开发工具推荐-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13906&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdBEBt5RjERNnybRXfQKDeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-09-男在谷歌，女友在亚马逊，晒出-2-人总收入，网友：好酸！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13892&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWpRiIRBIKYPzBMDnX1CDIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-09-玩转ECS第5讲-|-弹性计算安全组最佳实践及新特性介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-09-智能技术改变淘宝，阿里巴巴首次详解核心商业AI体系-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13890&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777658%3Futm_content%3Dg_1000199924%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-09-软件交付效能度量——从吞吐量和稳定性开始-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13889&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-measurement-4-key-metrics%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -608,8 +608,8 @@
 - [2020-11-09-译-深入理解-Dart-空安全](https://toutiao.io/k/i1hdmsn) ![](assets/new.png)  
 - [2020-11-09-那些有趣/实用的-Chrome-扩展神器](https://toutiao.io/k/zpqzx3u) ![](assets/new.png)  
 - [2020-11-09-实战：自己动手编译-JDK](https://toutiao.io/k/i7e8oql) ![](assets/new.png)  
-- [2020-11-09-Java-线程池实现原理](https://toutiao.io/k/5tsolk6) ![](assets/new.png)  
 - [2020-11-09-漫画：讲解一下如何写简历-&-项目](https://toutiao.io/k/s8m0gth) ![](assets/new.png)  
+- [2020-11-09-Java-线程池实现原理](https://toutiao.io/k/5tsolk6) ![](assets/new.png)  
 - [2020-11-09-一步步拆解解决-Elasticsearch-检索模板问题](https://toutiao.io/k/ahv868l) ![](assets/new.png)  
 - [2020-11-09-做-VScode-代码共享、演示共享，实时消息还可以这么用](https://toutiao.io/k/7x6gdkx) ![](assets/new.png)  
 - [2020-11-09-QQ音乐-Android-编译提速之路](https://toutiao.io/k/pdi5skj) ![](assets/new.png)  

@@ -14286,6 +14286,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "再理解：package.json",
+        "link": "https://juejin.im/post/6893007572102545416",
+        "date": "2020-11-08"
+      },
+      {
         "title": "一个实用的Chrome小工具：xTrace",
         "link": "https://juejin.im/post/6893004236594872334",
         "date": "2020-11-08"
@@ -14303,11 +14308,6 @@
       {
         "title": "CSS 文本截断方法总结和原理分析",
         "link": "https://juejin.im/post/6892974106908557320",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "掘友福利｜参与活动MySQL书免费送了！",
-        "link": "https://juejin.im/post/6892946746008305677",
         "date": "2020-11-08"
       }
     ]
@@ -14493,6 +14493,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "解除劳动协议通知 怎么写？",
+        "link": "https://www.v2ex.com/t/723209",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "腾讯云双 11 活动，新机 123 轻量 65 元/1 年起，续费 2 折起",
+        "link": "https://www.v2ex.com/t/723208",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "求教一个 Python 统计数据的方法，多天统计人数最多最少时间段",
+        "link": "https://www.v2ex.com/t/723207",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "按照前端传来的指定字段更新数据， sql 语句该怎么写？",
+        "link": "https://www.v2ex.com/t/723206",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "AES 256 生成秘钥的时候 可以不使用 SecureRandom 的生成的写法吗",
+        "link": "https://www.v2ex.com/t/723205",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "C++入门以及进阶，都有什么好的建议吗？",
+        "link": "https://www.v2ex.com/t/723204",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "印象笔记，等一个 1 折",
+        "link": "https://www.v2ex.com/t/723203",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "Apple Music 家庭求上车",
+        "link": "https://www.v2ex.com/t/723202",
+        "date": "2020-11-09"
+      },
+      {
         "title": "买云服务器还是树莓派好",
         "link": "https://www.v2ex.com/t/723201",
         "date": "2020-11-09"
@@ -14591,41 +14631,6 @@
         "title": "关于快捷指令",
         "link": "https://www.v2ex.com/t/723160",
         "date": "2020-11-09"
-      },
-      {
-        "title": "联通和电信有没有像移动无忧行的 APP，可以接管号码的短信和来电，然后我在 iPhone 上装个 APP 就能收到短信和来电？",
-        "link": "https://www.v2ex.com/t/723159",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "Worktile 旗下智能化研发管理工具 PingCode 宣布 25 人以下免费",
-        "link": "https://www.v2ex.com/t/723158",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "求助: serverless-webrtc-chat 在 Firefox 下失败",
-        "link": "https://www.v2ex.com/t/723156",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "群晖 直接用 smb 访问视频文件 有些文件不能打开。但是自带的播放器可以。文件下载到本地就可以播放",
-        "link": "https://www.v2ex.com/t/723155",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "遇到一意孤行的同事怎么办？（午间闲谈）",
-        "link": "https://www.v2ex.com/t/723154",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "有没有这种支持 IPv6 的 DDNS 程序",
-        "link": "https://www.v2ex.com/t/723153",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "勇者传说 ol，勇者斗斗龙有没有认识这两款网游的网友",
-        "link": "https://www.v2ex.com/t/723152",
-        "date": "2020-11-09"
       }
     ]
   },
@@ -14634,6 +14639,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "玩转ECS第6讲 | 弹性计算Region化部署和跨可用区容灾介绍 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13909&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777714%3Futm_content%3Dg_1000201986%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-09"
+      },
       {
         "title": "基于 Flink SQL CDC 的实时数据同步方案 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13908&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777502%3Futm_content%3Dg_1000201984%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14728,11 +14738,6 @@
         "title": "智能技术改变淘宝，阿里巴巴首次详解核心商业AI体系 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13890&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777658%3Futm_content%3Dg_1000199924%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-09"
-      },
-      {
-        "title": "软件交付效能度量——从吞吐量和稳定性开始 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13889&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-measurement-4-key-metrics%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-09"
       }
     ]
   },
@@ -14807,13 +14812,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "Java 线程池实现原理",
-        "link": "https://toutiao.io/k/5tsolk6",
+        "title": "漫画：讲解一下如何写简历 & 项目",
+        "link": "https://toutiao.io/k/s8m0gth",
         "date": "2020-11-09"
       },
       {
-        "title": "漫画：讲解一下如何写简历 & 项目",
-        "link": "https://toutiao.io/k/s8m0gth",
+        "title": "Java 线程池实现原理",
+        "link": "https://toutiao.io/k/5tsolk6",
         "date": "2020-11-09"
       },
       {
@@ -14842,33 +14847,8 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-09"
       },
       {
@@ -14882,18 +14862,23 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-09"
-      },
-      {
         "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
         "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-09"
       },
       {
@@ -14902,8 +14887,28 @@
         "date": "2020-11-09"
       },
       {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-09"
+      },
+      {
         "title": "[推荐] 好的自我介绍，面试成功一大半",
         "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
         "date": "2020-11-09"
       },
       {

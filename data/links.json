@@ -14503,6 +14503,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "面试的时候怎么判断面试者是不是速成的？",
+        "link": "https://www.v2ex.com/t/723369",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "最近迷上了 the survivalists，但 vm 太卡， pd 却没任何问题，请问是我的设置有问题么？",
+        "link": "https://www.v2ex.com/t/723368",
+        "date": "2020-11-09"
+      },
+      {
         "title": "小爱同学 5.0 支持现在旧的音箱吗？",
         "link": "https://www.v2ex.com/t/723367",
         "date": "2020-11-09"
@@ -14700,11 +14710,6 @@
       {
         "title": "两个月前搞了一个网址导航，现在日 uv 仍在 2 位数徘徊，好期待上 3 位数",
         "link": "https://www.v2ex.com/t/723320",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "Rails new 命令一直转圈怎么办？",
-        "link": "https://www.v2ex.com/t/723318",
         "date": "2020-11-09"
       }
     ]
@@ -14922,18 +14927,8 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-11-09"
       },
       {
@@ -14942,18 +14937,8 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-09"
       },
       {
@@ -14962,28 +14947,18 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-09"
       },
       {
@@ -14992,8 +14967,38 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-09"
       }
     ]

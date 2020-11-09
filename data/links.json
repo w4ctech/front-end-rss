@@ -5,8 +5,13 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "11月8日全国新增新冠33例 本土天津1例",
-        "link": "http://m.china.caixin.com/m/2020-11-09/101624561.html",
+        "title": "最新疫情：全国新冠累计确诊86245例 天津本土新增1例",
+        "link": "https://m.caixin.com/m/2020-11-09/101625246.html",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "最新海外疫情：新冠感染超5025万 累计死亡超125万",
+        "link": "http://m.international.caixin.com/m/2020-11-09/101625243.html",
         "date": "2020-11-08"
       },
       {
@@ -27,11 +32,6 @@
       {
         "title": "天津新增1例本地新冠肺炎确诊病例 系此前核酸检测阳性装卸工人",
         "link": "https://m.caixin.com/m/2020-11-08/101624438.html",
-        "date": "2020-11-07"
-      },
-      {
-        "title": "最新海外疫情：新冠感染近4978万 累计死亡超124万",
-        "link": "https://m.caixin.com/m/2020-11-08/101624493.html",
         "date": "2020-11-07"
       },
       {
@@ -15457,6 +15457,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://juejin.im/post/6893065166003372039",
+        "date": "2020-11-09"
+      },
+      {
         "title": "NestJS 7.x 折腾记: (3) 采用nestjs-pino作为Nest logger",
         "link": "https://juejin.im/post/6893059048019918855",
         "date": "2020-11-09"
@@ -15474,11 +15479,6 @@
       {
         "title": "【一天一大 lee】区间和的个数 (难度:困难) - Day20201107",
         "link": "https://juejin.im/post/6893036696259002381",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "React Native 新架构",
-        "link": "https://juejin.im/post/6893032764124168206",
         "date": "2020-11-09"
       }
     ]
@@ -15664,6 +15664,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[PayPal 上海内推]全球顶级风控团队， Java /大数据/全栈/大客户技术支持等职位火热招聘中！",
+        "link": "https://www.v2ex.com/t/723315",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[旅游咨询]11 月下旬的千岛湖度假有什么好去处",
+        "link": "https://www.v2ex.com/t/723314",
+        "date": "2020-11-09"
+      },
+      {
         "title": "2020 年你觉得买的最值的三个东西是啥？",
         "link": "https://www.v2ex.com/t/723313",
         "date": "2020-11-09"
@@ -15826,11 +15836,6 @@
       {
         "title": "淘宝卖家能看到付款人全名么？",
         "link": "https://www.v2ex.com/t/723269",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "想入坑高达，有没有要劝退的",
-        "link": "https://www.v2ex.com/t/723264",
         "date": "2020-11-09"
       }
     ]
@@ -16048,18 +16053,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-09"
       },
       {
@@ -16068,18 +16068,8 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-09"
       },
       {
@@ -16088,28 +16078,18 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-09"
-      },
-      {
         "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
         "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-09"
       },
       {
@@ -16118,8 +16098,33 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-09"
       }
     ]

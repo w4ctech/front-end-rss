@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-09 11:11:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 11:21:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -40,7 +40,6 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2020-11-09-请求大神！前端求支援！不是特别理解-PromiseA+规范里面的特别条例](https://www.v2ex.com/t/723285) 
-- [2020-11-09-Api-Boot-框架：-为-Spring-Boot-提供组件化服务](https://www.v2ex.com/t/723279) 
 - [2020-11-09-黑客攻击的下一个热点:路由器和NAS漏洞](https://sec.thief.one/article_content?a_id=69cee215b56eec5c881a33de73f980c8) 
 - [2020-11-07-【安全圈】报告:超12%工控安全事件系高级别黑客组织所为](https://sec.thief.one/article_content?a_id=f99f7ff3c0aa2295a6fd45c1d8f537f1) 
 - [2020-11-06-从一道CTF学习Service-Worker的利用](https://sec.thief.one/article_content?a_id=17b53916dccf940d01dc147bf868ec33) 

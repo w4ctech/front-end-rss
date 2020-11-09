@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-09 05:04:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 05:12:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-09-关于快捷指令](https://www.v2ex.com/t/723160) 
 - [2020-11-09-联通和电信有没有像移动无忧行的-APP，可以接管号码的短信和来电，然后我在-iPhone-上装个-APP-就能收到短信和来电？](https://www.v2ex.com/t/723159) 
 - [2020-11-09-Worktile-旗下智能化研发管理工具-PingCode-宣布-25-人以下免费](https://www.v2ex.com/t/723158) 
 - [2020-11-09-求助:-serverless-webrtc-chat-在-Firefox-下失败](https://www.v2ex.com/t/723156) 
@@ -43,4 +44,3 @@
 - [2020-11-09-Iron-Harvest](https://www.v2ex.com/t/723113) 
 - [2020-11-09-求一个电梯-IC-卡的解决方案，应该是-M1-的](https://www.v2ex.com/t/723112) 
 - [2020-11-09-关于-Linux-c-程序的五大内存分区的疑问](https://www.v2ex.com/t/723111) 
-- [2020-11-09-杭州阿里-金融技术部招聘-Java--P6/P7](https://www.v2ex.com/t/723110) 

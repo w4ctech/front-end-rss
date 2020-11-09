@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-09 13:47:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 14:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,7 +7,5 @@
 
 
 
-- [2020-02-19-中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
-- [2020-11-09-国内大厂的安卓-APP-都是以当年旗舰机的性能标准开发的吗？](https://www.v2ex.com/t/723323) 
 - [2020-11-09-MySQL-数据库优化二三事](https://toutiao.io/k/cixogzw) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-09 10:04:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 10:15:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,7 +31,6 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-09-Sandboxie-安装一些国产软件为什么运行非常慢？](https://www.v2ex.com/t/723249) 
 - [2020-11-09-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-09-反编译完这些-app-后，我给它们的安全等级打个分-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-09-译-深入理解-Dart-空安全](https://toutiao.io/k/i1hdmsn) 

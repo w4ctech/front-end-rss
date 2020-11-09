@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 10:04:54，:rocket: 更新条数: +3279， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 10:15:30，:rocket: 更新条数: +3277， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,10 @@
 </summary>
 
 
+- [2020-11-09-迫于团队闲太久了，做了一个付费咨询的问答-app-原型，请大家点评有没有价值](https://www.v2ex.com/t/723304) ![](assets/new.png)  
+- [2020-11-09-你们遇没遇到过难以沟通的前端](https://www.v2ex.com/t/723303) ![](assets/new.png)  
+- [2020-11-09-坐标上海长宁~求自动化测试开发团队经理一枚~-3-年以上-15-人测试团队管理经验，商务技术英语沟通无障碍）](https://www.v2ex.com/t/723302) ![](assets/new.png)  
+- [2020-11-09-第四期德国-IT-岗位招聘之-Software-Developer,-Fullstack-developerSenior,-Business-Intelligence-Developer](https://www.v2ex.com/t/723299) ![](assets/new.png)  
 - [2020-11-09-有甚麼好用的網站託管啊](https://www.v2ex.com/t/723298) ![](assets/new.png)  
 - [2020-11-09-深圳-Wisers-慧科-外资，大数据+AI，可经常远程办公，-20-40K/月，招聘-React-前端开发-.](https://www.v2ex.com/t/723297) ![](assets/new.png)  
 - [2020-11-09-气死了，硕士因为专科经历-HR-面被挂](https://www.v2ex.com/t/723296) ![](assets/new.png)  
@@ -569,10 +573,6 @@
 - [2020-11-09-Api-Boot-框架：-为-Spring-Boot-提供组件化服务](https://www.v2ex.com/t/723279) ![](assets/new.png)  
 - [2020-11-09-深圳电信现在都这么黑了吗？已入户的光纤，重新安装一下就要-399？？](https://www.v2ex.com/t/723278) ![](assets/new.png)  
 - [2020-11-09-如果推出一款盲游产品，你会支持吗？](https://www.v2ex.com/t/723276) ![](assets/new.png)  
-- [2020-11-09-月租低的联通卡有推荐的吗](https://www.v2ex.com/t/723275) ![](assets/new.png)  
-- [2020-11-09-不懂就问，为什么这么多人喜欢钓鱼？](https://www.v2ex.com/t/723272) ![](assets/new.png)  
-- [2020-11-09-装个机-把把关](https://www.v2ex.com/t/723271) ![](assets/new.png)  
-- [2020-11-09-Android-端有没有可自定义双拼的零声母方案的输入法？](https://www.v2ex.com/t/723270) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

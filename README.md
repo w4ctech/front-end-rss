@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 15:32:08，:rocket: 更新条数: +3038， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 15:39:45，:rocket: 更新条数: +3010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,26 +533,6 @@
 </summary>
 
 
-- [2020-11-09-救命，关于-Github-桌面-win10-版报错问题](https://www.v2ex.com/t/723400) ![](assets/new.png)  
-- [2020-11-09-现在山东移动还能改什么实惠的套餐？](https://www.v2ex.com/t/723399) ![](assets/new.png)  
-- [2020-11-09-不懂就问：这个-dll-哪位大神能够反编译出来](https://www.v2ex.com/t/723398) ![](assets/new.png)  
-- [2020-11-09-微软（上海）AME-团队招聘啦！](https://www.v2ex.com/t/723396) ![](assets/new.png)  
-- [2020-11-09-请教运维大佬：-jenkins-部署-jar-包到应用服务器的问题](https://www.v2ex.com/t/723395) ![](assets/new.png)  
-- [2020-11-09-有一个-offer-不知该不该接](https://www.v2ex.com/t/723394) ![](assets/new.png)  
-- [2020-11-09-使用-nestjs-应该如何划分项目？](https://www.v2ex.com/t/723391) ![](assets/new.png)  
-- [2020-11-09-mbp-外接了两个显示器-有办法单独让第二个显示器显示屏保-第一个显示器依然在工作呢？](https://www.v2ex.com/t/723390) ![](assets/new.png)  
-- [2020-11-09-549-的-4K-屏靠谱？群创啥实力](https://www.v2ex.com/t/723389) ![](assets/new.png)  
-- [2020-11-09-求一个魔法网站](https://www.v2ex.com/t/723388) ![](assets/new.png)  
-- [2020-11-09-圈子很小，简历和经历真的一定要诚实！](https://www.v2ex.com/t/723387) ![](assets/new.png)  
-- [2020-11-09-先探探底，关于去上海发展](https://www.v2ex.com/t/723384) ![](assets/new.png)  
-- [2020-11-09-也不急着上-Big-Sur，可以把正式版的小-bug-修一下吗？](https://www.v2ex.com/t/723383) ![](assets/new.png)  
-- [2020-11-09-内推社招EMC965上海分布式对象存储/流式大数据处理平台](https://www.v2ex.com/t/723382) ![](assets/new.png)  
-- [2020-11-09-新房想做智能家居，有哪些需要注意的地方？](https://www.v2ex.com/t/723377) ![](assets/new.png)  
-- [2020-11-09-关于购买-iPad-pro](https://www.v2ex.com/t/723376) ![](assets/new.png)  
-- [2020-11-09-预言一波，-11-号发布-Arm-版-MAC12-寸，支持触摸屏。](https://www.v2ex.com/t/723375) ![](assets/new.png)  
-- [2020-11-09-救命！-mbp-16-内置麦克风消失](https://www.v2ex.com/t/723374) ![](assets/new.png)  
-- [2020-11-09-Excel-VSTO-插件项目寻求技术大佬合作](https://www.v2ex.com/t/723372) ![](assets/new.png)  
-- [2020-11-09-Chrome-刚才提示：-JSON-Viewer-Awesome-此扩展程序包含恶意软件。](https://www.v2ex.com/t/723371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -594,8 +584,8 @@
 - [2020-11-09-下下下一代防火墙关键技术漫谈](https://toutiao.io/k/e47mwf1) ![](assets/new.png)  
 - [2020-11-09-深度揭秘垃圾回收底层，这次让你彻底弄懂她](https://toutiao.io/k/1voloks) ![](assets/new.png)  
 - [2020-11-09-应用编译，计算机中一定要掌握的知识细节](https://toutiao.io/k/n9jrq0b) ![](assets/new.png)  
-- [2020-11-09-小议缓冲区溢出](https://toutiao.io/k/7zwlat4) ![](assets/new.png)  
 - [2020-11-09-那些有趣/实用的-Chrome-扩展神器](https://toutiao.io/k/zpqzx3u) ![](assets/new.png)  
+- [2020-11-09-小议缓冲区溢出](https://toutiao.io/k/7zwlat4) ![](assets/new.png)  
 - [2020-11-09-译-深入理解-Dart-空安全](https://toutiao.io/k/i1hdmsn) ![](assets/new.png)  
 - [2020-11-09-实战：自己动手编译-JDK](https://toutiao.io/k/i7e8oql) ![](assets/new.png)  
 - [2020-11-09-Java-线程池实现原理](https://toutiao.io/k/5tsolk6) ![](assets/new.png)  

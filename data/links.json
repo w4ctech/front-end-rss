@@ -13952,28 +13952,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "​意大利内政部：一天内有110名新冠病毒感染者因违反隔离规定出行被起诉",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTlMCZRAWn4wZogFXltoO201109&isfromapp=1",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "意大利连续5天单日新增确诊超3万例 外科医生协会要求实施全面封锁措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNG9PhcoyovsWMOld4JFx201109&isfromapp=1",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "​秘鲁累计确诊病例逾92万例 将全面禁止私家车上路及组织聚会",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4bvMoVayXMTHmAUx1Bju201109&isfromapp=1",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "奥地利单日新增5933例确诊病例 卫生部长称或将再次收紧防疫措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwt6jpaaCQEI2IPspLxgM201109&isfromapp=1",
+        "date": "2020-11-08"
+      },
+      {
         "title": "秘鲁卫生部：新冠肺炎累计确诊逾92万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6kwT6VdhlzedqNPcyGUJ201108&isfromapp=1",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "天津：疫情整体可控 非必要不聚餐不聚集",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAToKVMmXbCYScvof8fGS201108&isfromapp=1",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "俄罗斯新增新冠肺炎确诊病例20498例 累计确诊超177万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIjG1DBwZfIhNQna3GUWh201108&isfromapp=1",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "天津新增1例本地新冠肺炎确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimBGBB3VMrvyP1WAQeP1S201108&isfromapp=1",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "加拿大新增新冠肺炎确诊病例超4000例 西部局地实行封锁",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidRLuUpb5OwZuXhMVzGej201108&isfromapp=1",
         "date": "2020-11-08"
       }
     ]
@@ -15649,6 +15649,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "想写个小说网站，数据库用 sqlite 可以吗",
+        "link": "https://www.v2ex.com/t/723043",
+        "date": "2020-11-08"
+      },
+      {
         "title": "iSH Linux 明天将被 App Store 下架",
         "link": "https://www.v2ex.com/t/723042",
         "date": "2020-11-08"
@@ -15812,11 +15817,6 @@
         "title": "这行 css 的作用是什么？",
         "link": "https://www.v2ex.com/t/722994",
         "date": "2020-11-08"
-      },
-      {
-        "title": "有关于 Python 执行系统命令",
-        "link": "https://www.v2ex.com/t/722993",
-        "date": "2020-11-08"
       }
     ]
   },
@@ -15828,102 +15828,102 @@
       {
         "title": "12 种 Flutter 开发工具推荐 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13906&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdBEBt5RjERNnybRXfQKDeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "用完 Gradle 之后，有点嫌弃 Maven了！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13905&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FD6lMy7hHwB5oyx8z-WhZew%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "Android 获取 App 累积时长 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13904&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrKMnT9ViPYnxFzzv849RHQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "反编译完这些 app 后，我给它们的安全等级打个分 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "15 年编程经验总结出了 40 个改变编程技能的小技巧！强烈建议收藏 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13902&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZQlzaIo9Y-sLtEE8qZWfIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "20 个 CSS 快速提升技巧 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13901&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F74V0zvkBr6i94u4QzfF66A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "如何画出优秀的架构图？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13900&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fg9vN5CZzX5b_mSuqngs4sw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "JetBrains 的这个软件是真的香！（附教程） (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13899&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDEj-ei4cbfIwDlSVmbP-yQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "开除了没情商的“技术大神”后，整个团队都好起来了 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13898&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-CTF0XErwU9Yr7IjtBmhVg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "论做游戏外挂，Python 输过谁？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13897&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FedW-U0BTyQ0xrjRjI5Rw_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "如何将业务代码写得更优雅 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13896&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWoQ98C34g-CFDb_1QZkNZw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "哈佛CS50撕书教授 在家录了一套 4K 网课，你准备好电话簿了吗？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13895&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuoWoEzeG8AABhoxacLbh2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "GitHub 上值得收藏的 100 个精选前端项目！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZighOOn2a_f2gYCGR2LBCQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "为什么如此之多的程序员就只能 996 ？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13893&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ2PTYJNOPE3fIVjrNkzuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "男在谷歌，女友在亚马逊，晒出 2 人总收入，网友：好酸！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13892&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWpRiIRBIKYPzBMDnX1CDIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "玩转ECS第5讲 | 弹性计算安全组最佳实践及新特性介绍 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13891&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777623%3Futm_content%3Dg_1000199925%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "智能技术改变淘宝，阿里巴巴首次详解核心商业AI体系 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13890&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777658%3Futm_content%3Dg_1000199924%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "软件交付效能度量——从吞吐量和稳定性开始 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13889&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-measurement-4-key-metrics%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "最IN的云原生架构，阿里云 Serverless 事件总线 EventBridge 重磅发布 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13888&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777639%3Futm_content%3Dg_1000199923%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "移动端堆栈关键行定位的新思路 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13887&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777602%3Futm_content%3Dg_1000199922%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       }
     ]
   },
@@ -15935,127 +15935,127 @@
       {
         "title": "双十一，买它买它买它！",
         "link": "https://toutiao.io/k/pr492jn",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "终于有人把数据中台讲明白了",
         "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "底层原理：垃圾回收算法是如何设计的？",
         "link": "https://toutiao.io/k/mtlt8ig",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "在 2020 年聊聊 Angular 的现状",
         "link": "https://toutiao.io/k/swsqb28",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "Kotlin Contract",
         "link": "https://toutiao.io/k/mx3isde",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "一种城市空中移动性管理分布式控制框架",
         "link": "https://toutiao.io/k/tczzw0u",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "提前试用将在 Go 1.16 中发布的内嵌静态资源功能",
         "link": "https://toutiao.io/k/65vg2c1",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "他把闲鱼 App 长列表流畅度翻了倍",
         "link": "https://toutiao.io/k/demohte",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "易快报创始人兼 CEO 马春荃：擅长自黑的改良派，创业就是带着未知跑步前进",
         "link": "https://toutiao.io/k/qm8ohje",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "Kotlin Vocabulary：唯一的 “对象”",
         "link": "https://toutiao.io/k/fdads40",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
         "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
         "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-08"
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-08"
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-09"
       },
       {
         "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
         "link": "https://toutiao.io/k/xvy1us5",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-09"
       },
       {
         "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
         "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-08"
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-09"
       }
     ]
   },

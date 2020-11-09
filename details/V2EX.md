@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-09 00:55:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 01:06:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,5 +39,3 @@
 - [2020-11-08-Jetbrains-的-IDE，有计划出手机版-APP-吗？](https://www.v2ex.com/t/723004) 
 - [2020-11-08-关于-AS4809-的路由](https://www.v2ex.com/t/723003) 
 - [2020-11-08-SDL-中如何调用一个能输入文本的对话框](https://www.v2ex.com/t/723001) 
-- [2020-11-08-现在一些电子书下载网址，有版权问题吗？会不会被告](https://www.v2ex.com/t/723000) 
-- [2020-11-08-我来-Diss-一下现在的邮箱包括但不仅限于-outlook-和-gmail的自动垃圾邮件分类](https://www.v2ex.com/t/722999) 

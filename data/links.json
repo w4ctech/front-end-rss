@@ -14281,28 +14281,28 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "掘友福利｜参与活动MySQL书免费送了！",
-        "link": "https://juejin.im/post/6892946746008305677",
+        "title": "你真的了解React Portals吗",
+        "link": "https://juejin.im/post/6892951045685641224",
         "date": "2020-11-08"
       },
       {
-        "title": "精读《设计模式 - Adapter 适配器模式》",
-        "link": "https://juejin.im/post/6892943009340456968",
+        "title": "vivo悟空活动中台-打造 Nodejs 版本的MyBatis",
+        "link": "https://juejin.im/post/6892946418034540558",
         "date": "2020-11-08"
       },
       {
-        "title": "jsliang 求职系列 - 08 - 手写 Promise",
-        "link": "https://juejin.im/post/6892937534129569799",
+        "title": "WebRTC快速了解和实践",
+        "link": "https://juejin.im/post/6892940833000488967",
         "date": "2020-11-08"
       },
       {
-        "title": "理论与实践相结合彻底理解CORS",
-        "link": "https://juejin.im/post/6892770222894219277",
+        "title": "前端安全-XSS",
+        "link": "https://juejin.im/post/6892938793901359112",
         "date": "2020-11-08"
       },
       {
-        "title": "LeetCode题解：77. 组合，回溯+for循环，JavaScript，详细注释",
-        "link": "https://juejin.im/post/6892761132789366791",
+        "title": "我开源了一个基于Vue的组织架构树组件",
+        "link": "https://juejin.im/post/6892921669149523975",
         "date": "2020-11-08"
       }
     ]
@@ -14488,6 +14488,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于 Linux c 程序的五大内存分区的疑问",
+        "link": "https://www.v2ex.com/t/723111",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "杭州阿里-金融技术部招聘 Java -P6/P7",
+        "link": "https://www.v2ex.com/t/723110",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "京东多发了一件货 不退还的话会怎么样？",
+        "link": "https://www.v2ex.com/t/723109",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "遇到一个奇怪的 bug，一头雾水~大家帮忙看看？",
+        "link": "https://www.v2ex.com/t/723108",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "洪恩教育",
+        "link": "https://www.v2ex.com/t/723107",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "迫于疑惑，大家有了解过，为什么只有人类有鼻毛吗？",
+        "link": "https://www.v2ex.com/t/723106",
+        "date": "2020-11-09"
+      },
+      {
         "title": "Apple TV+双 HomePod 14.2 版本 Dolby Atmos 体验分享",
         "link": "https://www.v2ex.com/t/723104",
         "date": "2020-11-09"
@@ -14655,31 +14685,6 @@
       {
         "title": "专门打新股的买什么类型股票好？",
         "link": "https://www.v2ex.com/t/723062",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[腾讯] [社招] [c++后端] [年后入职] 支付系统--清算业务开发工程师",
-        "link": "https://www.v2ex.com/t/723061",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "500 元以内非语音助手的蓝牙音箱推荐?",
-        "link": "https://www.v2ex.com/t/723060",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "双 11 了，有啥性价比高的移动硬盘可以入手吗",
-        "link": "https://www.v2ex.com/t/723058",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[社招] [美资大数据外企] 前端/大数据研发",
-        "link": "https://www.v2ex.com/t/723057",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "iOS app 经过编辑已经支持 macOS 11 了诶， App Store 大量上架",
-        "link": "https://www.v2ex.com/t/723056",
         "date": "2020-11-09"
       }
     ]
@@ -14892,38 +14897,8 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "QStreaming：轻量级大数据 ETL 开发框架",
+        "link": "https://toutiao.io/k/4qhmmt0",
         "date": "2020-11-09"
       },
       {
@@ -14932,8 +14907,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-09"
       },
       {
@@ -14942,8 +14922,8 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-09"
       },
       {
@@ -14957,13 +14937,43 @@
         "date": "2020-11-09"
       },
       {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-09"
+      },
+      {
         "title": "[推荐] 好的自我介绍，面试成功一大半",
         "link": "https://toutiao.io/k/lpyu6km",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
         "date": "2020-11-09"
       }
     ]

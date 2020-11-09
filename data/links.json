@@ -13957,6 +13957,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "墨西哥新冠肺炎确诊病例累计967825例 死亡95027例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib8Qy5hujEIY13fdpkgqj201109&isfromapp=1",
+        "date": "2020-11-09"
+      },
+      {
         "title": "巴西新冠肺炎确诊病例累计超566万例  病毒快速检测数量继续升高",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3uWADpeABBwYdRFzPfHs201109&isfromapp=1",
         "date": "2020-11-09"
@@ -13974,11 +13979,6 @@
       {
         "title": "​意大利内政部：一天内有110名新冠病毒感染者因违反隔离规定出行被起诉",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTlMCZRAWn4wZogFXltoO201109&isfromapp=1",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "意大利连续5天单日新增确诊超3万例 外科医生协会要求实施全面封锁措施",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNG9PhcoyovsWMOld4JFx201109&isfromapp=1",
         "date": "2020-11-08"
       }
     ]
@@ -14281,18 +14281,18 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "XSS 攻击、CSRF 攻击、SQL 注入、流量劫持（DNS 劫持、HTTP 劫持）—— 浏览器安全",
+        "link": "https://juejin.im/post/6892961914079412237",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "聊聊“过时的”的JSONP",
+        "link": "https://juejin.im/post/6892961145758433288",
+        "date": "2020-11-08"
+      },
+      {
         "title": "掘友福利｜参与活动MySQL书免费送了！",
         "link": "https://juejin.im/post/6892946746008305677",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "前端安全-XSS",
-        "link": "https://juejin.im/post/6892938793901359112",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "我开源了一个基于Vue的组织架构树组件",
-        "link": "https://juejin.im/post/6892921669149523975",
         "date": "2020-11-08"
       },
       {
@@ -14488,6 +14488,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iphone12 全黑图片在关灯下有发亮斑块问题",
+        "link": "https://www.v2ex.com/t/723133",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "有好用的笔记软件推荐吗",
+        "link": "https://www.v2ex.com/t/723132",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "欺负老用户一万年的阿里云要走下坡路了！",
+        "link": "https://www.v2ex.com/t/723131",
+        "date": "2020-11-09"
+      },
+      {
         "title": "有没有精通 OPENCART 建站的或是类似于 OPENCART 这种电商系统的？",
         "link": "https://www.v2ex.com/t/723130",
         "date": "2020-11-09"
@@ -14676,11 +14691,6 @@
         "title": "腾讯 Lighthouse 和 cvm 有啥区别？\r\n我已经注册了账号。怎么看我是被谁邀请的。",
         "link": "https://www.v2ex.com/t/723084",
         "date": "2020-11-09"
-      },
-      {
-        "title": "请问 Windows 下有办法映射挂载腾讯云的对象存储吗",
-        "link": "https://www.v2ex.com/t/723081",
-        "date": "2020-11-09"
       }
     ]
   },
@@ -14807,13 +14817,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "少侠留步，请收下这份前端开发自学资料",
+        "link": "https://toutiao.io/k/50z7koh",
         "date": "2020-11-09"
       },
       {
-        "title": "少侠留步，请收下这份前端开发自学资料",
-        "link": "https://toutiao.io/k/50z7koh",
+        "title": "原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-09"
       },
       {
@@ -14862,13 +14872,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "Java 线程池实现原理",
-        "link": "https://toutiao.io/k/5tsolk6",
+        "title": "一步步拆解解决 Elasticsearch 检索模板问题",
+        "link": "https://toutiao.io/k/ahv868l",
         "date": "2020-11-09"
       },
       {
-        "title": "一步步拆解解决 Elasticsearch 检索模板问题",
-        "link": "https://toutiao.io/k/ahv868l",
+        "title": "Java 线程池实现原理",
+        "link": "https://toutiao.io/k/5tsolk6",
         "date": "2020-11-09"
       },
       {
@@ -14897,8 +14907,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-09"
       },
       {
@@ -14907,13 +14922,18 @@
         "date": "2020-11-09"
       },
       {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-09"
+      },
+      {
         "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
         "link": "https://toutiao.io/k/rxo1rll",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-09"
       },
       {
@@ -14922,28 +14942,18 @@
         "date": "2020-11-09"
       },
       {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-09"
+      },
+      {
         "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
         "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-09"
-      },
-      {
         "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
         "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
         "date": "2020-11-09"
       },
       {
@@ -14962,13 +14972,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
         "date": "2020-11-09"
       }
     ]

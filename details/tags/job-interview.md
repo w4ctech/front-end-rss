@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-09 03:35:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 03:48:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -11,5 +11,4 @@
 - [2020-11-09-杭州阿里-金融技术部招聘-Java--P6/P7](https://www.v2ex.com/t/723110) 
 - [2020-11-09-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) 
 - [2020-11-09-推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km) 
-- [2020-11-09-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) 
 - [2020-11-06-招聘岗位又双叒叕添加啦!](https://sec.thief.one/article_content?a_id=4e677848e40c9a017264fa7845d13d07) 

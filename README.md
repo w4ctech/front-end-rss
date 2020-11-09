@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 07:13:43，:rocket: 更新条数: +3046， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 07:24:17，:rocket: 更新条数: +3047， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-09-同事上班在唱歌，我有必要提醒一下他不？](https://www.v2ex.com/t/723232) ![](assets/new.png)  
+- [2020-11-09-滴滴出行-新产品-业务平台技术部校招-社招补录](https://www.v2ex.com/t/723231) ![](assets/new.png)  
+- [2020-11-09-看了一圈，杭州除了阿里就没有别的招聘帖子了啊。。](https://www.v2ex.com/t/723230) ![](assets/new.png)  
 - [2020-11-09-吐嘈一下中国电信的服务](https://www.v2ex.com/t/723229) ![](assets/new.png)  
 - [2020-11-09-迫于-11-月份房子到期但是要-12-月底离京，求-1-月短租房一间，公司在-1-号线万寿路地铁站可接受半小时通勤](https://www.v2ex.com/t/723228) ![](assets/new.png)  
 - [2020-11-09-我用过的电脑总鼓包，是我的问题吗](https://www.v2ex.com/t/723227) ![](assets/new.png)  
@@ -546,13 +549,10 @@
 - [2020-11-09-求助万能的-V-友，品牌机的-Z370-主板怎么支持-9-代-CPU？](https://www.v2ex.com/t/723218) ![](assets/new.png)  
 - [2020-11-09-B-站有什么不错的编程-up-主/程序员-up-主吗？求推荐](https://www.v2ex.com/t/723217) ![](assets/new.png)  
 - [2020-11-09-服务单节点转为多节点有什么需要考虑的吗？](https://www.v2ex.com/t/723216) ![](assets/new.png)  
-- [2020-11-09-电商/直播速看！双-11-跑赢李佳琦就看这款单品了！](https://www.v2ex.com/t/723215) ![](assets/new.png)  
 - [2020-11-09-长沙招聘-万兴科技-图像算法/音频算法/AI-深度学习/推荐算法-20-35K*14-15-薪](https://www.v2ex.com/t/723214) ![](assets/new.png)  
 - [2020-11-09-Google-面试题：单词拆分-III（附代码优化思路）](https://www.v2ex.com/t/723213) ![](assets/new.png)  
 - [2020-11-09-当淫念产生时，我们如何克制和根除？](https://www.v2ex.com/t/723212) ![](assets/new.png)  
 - [2020-11-09-开源技术够用了么？我的-NAS-选型与搭建过程](https://www.v2ex.com/t/723211) ![](assets/new.png)  
-- [2020-11-09-解除劳动协议通知-怎么写？](https://www.v2ex.com/t/723209) ![](assets/new.png)  
-- [2020-11-09-腾讯云双-11-活动，新机-123-轻量-65-元/1-年起，续费-2-折起](https://www.v2ex.com/t/723208) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -14498,6 +14498,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "同事上班在唱歌，我有必要提醒一下他不？",
+        "link": "https://www.v2ex.com/t/723232",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "滴滴出行-新产品-业务平台技术部校招 社招补录",
+        "link": "https://www.v2ex.com/t/723231",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "看了一圈，杭州除了阿里就没有别的招聘帖子了啊。。",
+        "link": "https://www.v2ex.com/t/723230",
+        "date": "2020-11-09"
+      },
+      {
         "title": "吐嘈一下中国电信的服务",
         "link": "https://www.v2ex.com/t/723229",
         "date": "2020-11-09"
@@ -14560,11 +14575,6 @@
       {
         "title": "服务单节点转为多节点有什么需要考虑的吗？",
         "link": "https://www.v2ex.com/t/723216",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "电商/直播速看！双 11 跑赢李佳琦就看这款单品了！",
-        "link": "https://www.v2ex.com/t/723215",
         "date": "2020-11-09"
       },
       {
@@ -14675,11 +14685,6 @@
       {
         "title": "哪里可以下载歌词？",
         "link": "https://www.v2ex.com/t/723183",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "迫于疫情在家学习，求入门 Linux 的网课推荐",
-        "link": "https://www.v2ex.com/t/723182",
         "date": "2020-11-09"
       }
     ]
@@ -14902,43 +14907,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-09"
-      },
-      {
         "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
         "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-09"
-      },
-      {
         "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
         "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 万亿级数据应该怎么迁移？",
-        "link": "https://toutiao.io/k/qk70u1x",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-09"
       },
       {
@@ -14952,8 +14927,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-09"
       },
       {
@@ -14962,13 +14942,38 @@
         "date": "2020-11-09"
       },
       {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-09"
+      },
+      {
         "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
         "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-09"
       }
     ]

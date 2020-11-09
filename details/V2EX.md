@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-09 15:45:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 15:53:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-09-买一个-iPad-考研做笔记用，买-Pro-还是-Air](https://www.v2ex.com/t/723406) 
 - [2020-11-09-官网-7-折-双十一-Parallels-Desktop-7-折活动开始啦](https://www.v2ex.com/t/723405) 
 - [2020-11-09-Net-Neutrality-在中国](https://www.v2ex.com/t/723403) 
 - [2020-11-09-今天放出超大杯超小杯-iPhone-12-的评测了](https://www.v2ex.com/t/723402) 
@@ -42,4 +43,3 @@
 - [2020-11-09-小区有联通了，不知道现在出口怎么样，坐标上海](https://www.v2ex.com/t/723360) 
 - [2020-11-09-美团上海招聘啦^^^基础研发平台-前端技术专家](https://www.v2ex.com/t/723359) 
 - [2020-11-09-获取计算机唯一识别码的问题,有大佬有经验吗?](https://www.v2ex.com/t/723357) 
-- [2020-11-09-defi,-智能合约到底是什么?](https://www.v2ex.com/t/723356) 

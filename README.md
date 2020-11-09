@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 16:06:34，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 16:31:24，:rocket: 更新条数: +3282， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-09-香港本地社区网上购物商城项目开发团队组建-招前、后端，-App-开发人员。可组团，待遇好说。](https://www.v2ex.com/t/723409) ![](assets/new.png)  
+- [2020-11-09-关于-worker_threads-执行顺序](https://www.v2ex.com/t/723408) ![](assets/new.png)  
 - [2020-11-09-双十一你们都买了啥？](https://www.v2ex.com/t/723407) ![](assets/new.png)  
 - [2020-11-09-买一个-iPad-考研做笔记用，买-Pro-还是-Air](https://www.v2ex.com/t/723406) ![](assets/new.png)  
 - [2020-11-09-官网-7-折-双十一-Parallels-Desktop-7-折活动开始啦](https://www.v2ex.com/t/723405) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-09-求一个魔法网站](https://www.v2ex.com/t/723388) ![](assets/new.png)  
 - [2020-11-09-圈子很小，简历和经历真的一定要诚实！](https://www.v2ex.com/t/723387) ![](assets/new.png)  
 - [2020-11-09-先探探底，关于去上海发展](https://www.v2ex.com/t/723384) ![](assets/new.png)  
-- [2020-11-09-也不急着上-Big-Sur，可以把正式版的小-bug-修一下吗？](https://www.v2ex.com/t/723383) ![](assets/new.png)  
-- [2020-11-09-内推社招EMC965上海分布式对象存储/流式大数据处理平台](https://www.v2ex.com/t/723382) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -628,8 +628,8 @@
 - [2020-11-09-小议缓冲区溢出](https://toutiao.io/k/7zwlat4) ![](assets/new.png)  
 - [2020-11-09-译-深入理解-Dart-空安全](https://toutiao.io/k/i1hdmsn) ![](assets/new.png)  
 - [2020-11-09-实战：自己动手编译-JDK](https://toutiao.io/k/i7e8oql) ![](assets/new.png)  
-- [2020-11-09-Java-线程池实现原理](https://toutiao.io/k/5tsolk6) ![](assets/new.png)  
 - [2020-11-09-漫画：讲解一下如何写简历-&-项目](https://toutiao.io/k/s8m0gth) ![](assets/new.png)  
+- [2020-11-09-Java-线程池实现原理](https://toutiao.io/k/5tsolk6) ![](assets/new.png)  
 - [2020-11-09-一步步拆解解决-Elasticsearch-检索模板问题](https://toutiao.io/k/ahv868l) ![](assets/new.png)  
 - [2020-11-09-做-VScode-代码共享、演示共享，实时消息还可以这么用](https://toutiao.io/k/7x6gdkx) ![](assets/new.png)  
 - [2020-11-09-QQ音乐-Android-编译提速之路](https://toutiao.io/k/pdi5skj) ![](assets/new.png)  

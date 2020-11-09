@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-09 01:50:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 02:04:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,6 +78,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-11-09-求问安卓上支持双击屏幕快进或快退的本地播放器](https://www.v2ex.com/t/723077) 
 - [2020-11-08-“我家的故事——脱贫攻坚奔小康”短视频征集展示活动评审会召开](https://sec.thief.one/article_content?a_id=82968ffaac09ced2df5ad8b1560581d2) 
 - [2020-11-08-【视频】|-Python:列表操作更新和删除](https://sec.thief.one/article_content?a_id=bda8cb558779e09fda5b0916ec7cfb96) 
 - [2020-11-07-【视频】|-出卖银行卡,为网络犯罪集团提供帮助,警方抓捕12名涉案...](https://sec.thief.one/article_content?a_id=6e678f5752cdea84e451000a3a52f331) 

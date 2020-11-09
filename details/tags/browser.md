@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-09 12:52:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 13:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,12 +23,11 @@
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-09-网站使用自带手机浏览器无法访问这是什么情况？](https://www.v2ex.com/t/723344) 
-- [2020-11-09-Ingress-可以判断某个域名的请求拒绝掉？](https://www.v2ex.com/t/723338) 
 - [2020-11-09-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-09-反编译完这些-app-后，我给它们的安全等级打个分-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-09-译-深入理解-Dart-空安全](https://toutiao.io/k/i1hdmsn) 
 - [2020-11-09-那些有趣/实用的-Chrome-扩展神器](https://toutiao.io/k/zpqzx3u) 
+- [2020-11-09-虎符论坛|“三同步”和“三聚合”保障政企信息化内生安全](https://sec.thief.one/article_content?a_id=26eee0c2cb8bbe66e3e7443e1d64aee8) 
 - [2020-11-09-智慧赋能医疗信息安全能力建设](https://sec.thief.one/article_content?a_id=c30fc03f1bf3b519cb0f1771f90d9b7c) 
 - [2020-11-09-网安新讯-|-十四五谈安全、央行金融科技最新规范、18项网安标准出炉](https://sec.thief.one/article_content?a_id=9756958081f8ab765d6f3f241a96b2b4) 
 - [2020-11-09-拒绝纸上谈兵,物联网安全攻防实战训练营火热报名中!](https://sec.thief.one/article_content?a_id=0061bd7ffac5ae3c8f5d4f9b09cffbb2) 
@@ -45,4 +44,3 @@
 - [2020-11-07-漏洞银行入选2020年度中国网络安全企业百强名录](https://sec.thief.one/article_content?a_id=92df501d2224381ffb5db341061de7a1) 
 - [2020-11-07-在招-|-某企业年薪60万诚聘数据安全工程师](https://sec.thief.one/article_content?a_id=92b2048bf43566f377555d4cbb52030c) 
 - [2020-11-07-CNCERT:城市轨道交通行业网络安全态势分析报告](https://sec.thief.one/article_content?a_id=1d9abcd20234247d45e9de603306f677) 
-- [2020-11-06-Apache-Tomcat-websocket拒绝服务漏洞CVE-2020-13935](https://sec.thief.one/article_content?a_id=16bfb6794e867fc6da4c5eb479474c40) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 12:52:34，:rocket: 更新条数: +3049， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 13:03:58，:rocket: 更新条数: +3010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -65,6 +65,7 @@
 
 
 - [2020-11-08-最新疫情：全国新冠累计确诊86245例-天津本土新增1例](https://m.caixin.com/m/2020-11-09/101625246.html) ![](assets/new.png)  
+- [2020-11-08-上海浦东新冠确诊者感染源排查中-所住村庄已封闭](https://m.caixin.com/m/2020-11-09/101625278.html) ![](assets/new.png)  
 - [2020-11-08-最新海外疫情：新冠感染超5025万-累计死亡超125万](http://m.international.caixin.com/m/2020-11-09/101625243.html) ![](assets/new.png)  
 - [2020-11-08-【境内疫情观察】天津新增1例本土确诊病例（11月8日）](http://m.database.caixin.com/m/2020-11-09/101625051.html) ![](assets/new.png)  
 - [2020-11-08-大流行手记|11月8日：法国延长卫生紧急状态-英国近半教师不满校园防控举措](https://m.caixin.com/m/2020-11-09/101624597.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-03-大流行手记|11月3日：WHO提示孕妇幼儿流感风险-美确诊选民可现场投票](https://m.caixin.com/m/2020-11-04/101622791.html) ![](assets/new.png)  
 - [2020-11-02-香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html) ![](assets/new.png)  
 - [2020-11-02-新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html) ![](assets/new.png)  
-- [2020-11-02-【境内疫情观察】全国新增44例境外输入病例（11月2日）](http://m.database.caixin.com/m/2020-11-03/101622339.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,10 +453,10 @@
 </summary>
 
 
+- [2020-11-09-开发一个-Webpack-插件原来这么简单](https://juejin.im/post/6893097741258326030) ![](assets/new.png)  
 - [2020-11-09-vue-vnode-到真实DOM是如何转化的？](https://juejin.im/post/6893095521154990088) ![](assets/new.png)  
 - [2020-11-09-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://juejin.im/post/6893065166003372039) ![](assets/new.png)  
 - [2020-11-09-全面拥抱-Reactivity:-RxJS,-RSocket-&-Svelte](https://juejin.im/post/6893059275694817293) ![](assets/new.png)  
-- [2020-11-09-NestJS-7.x-折腾记:-3-采用nestjs-pino作为Nest-logger](https://juejin.im/post/6893059048019918855) ![](assets/new.png)  
 - [2020-11-08-去哪儿网React-Native-优先的多端统一化方案](https://juejin.im/post/6893028483232956429) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,26 +533,6 @@
 </summary>
 
 
-- [2020-11-09-defi,-智能合约到底是什么?](https://www.v2ex.com/t/723356) ![](assets/new.png)  
-- [2020-11-09-使用-kafka-场景中到底使用数据生产者的集群还是消费者的集群？](https://www.v2ex.com/t/723354) ![](assets/new.png)  
-- [2020-11-09-好家伙，自己从-google-翻译的文章又被某个采集站给翻译回去了😂😂😂，感觉国人的采集站要占领地球了](https://www.v2ex.com/t/723353) ![](assets/new.png)  
-- [2020-11-09-校招-offer-求比较：腾讯-VS-快手](https://www.v2ex.com/t/723352) ![](assets/new.png)  
-- [2020-11-09-搞了个脚本，每天同步知乎/哔哩哔哩/微博热门榜单到公众号](https://www.v2ex.com/t/723351) ![](assets/new.png)  
-- [2020-11-09-Shopping-With-CouponBirds](https://www.v2ex.com/t/723348) ![](assets/new.png)  
-- [2020-11-09-XIA-想集-#03-像游戏一样开地图](https://www.v2ex.com/t/723347) ![](assets/new.png)  
-- [2020-11-09-今年双十一哪里能买到最便宜的国行-Air-Pods-pro-呢？](https://www.v2ex.com/t/723346) ![](assets/new.png)  
-- [2020-11-09-刚结束的精酿比赛获奖作品，你喝过几个](https://www.v2ex.com/t/723345) ![](assets/new.png)  
-- [2020-11-09-网站使用自带手机浏览器无法访问这是什么情况？](https://www.v2ex.com/t/723344) ![](assets/new.png)  
-- [2020-11-09-请教下-ElasticSearch-开发相关问题](https://www.v2ex.com/t/723343) ![](assets/new.png)  
-- [2020-11-09-二笔-mvnrepository-CAPTCHA](https://www.v2ex.com/t/723342) ![](assets/new.png)  
-- [2020-11-09-11promax-都去哪里了？](https://www.v2ex.com/t/723341) ![](assets/new.png)  
-- [2020-11-09-想了解下国内-SRE-发展前景，转后端容易吗？](https://www.v2ex.com/t/723340) ![](assets/new.png)  
-- [2020-11-09-出-Little-Snitch5-防火墙激活码一份](https://www.v2ex.com/t/723339) ![](assets/new.png)  
-- [2020-11-09-Ingress-可以判断某个域名的请求拒绝掉？](https://www.v2ex.com/t/723338) ![](assets/new.png)  
-- [2020-11-09-老哥们，帮忙看看这装机配置如何](https://www.v2ex.com/t/723335) ![](assets/new.png)  
-- [2020-11-09-DELL-U2720Q-vs-U2720QM-选哪个](https://www.v2ex.com/t/723334) ![](assets/new.png)  
-- [2020-11-09-快手-北京/深圳/杭州/上海，客户端/后台/前端/测试/设计产品等，都可以内推](https://www.v2ex.com/t/723333) ![](assets/new.png)  
-- [2020-11-09-IQUNIX-L80-到手](https://www.v2ex.com/t/723332) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,6 +606,12 @@
 </summary>
 
 
+- [2020-11-09-每日攻防资讯简报Nov.9th](https://sec.thief.one/article_content?a_id=6ad353557fc710dbdd8c11ab044694f2) ![](assets/new.png)  
+- [2020-11-09-Xxl-Job未授权远程代码执行漏洞](https://sec.thief.one/article_content?a_id=d99ecb0acc2aadf2e0646edc0a433987) ![](assets/new.png)  
+- [2020-11-09-【11.9-11.11】双十一3天嗨购,阿里云SSL证书低至4折,享3重福利...](https://sec.thief.one/article_content?a_id=7790bebb2d9513c98d2463b56a7d873f) ![](assets/new.png)  
+- [2020-11-09-1-元秒杀-1000+-册爆款电子书,错过再等一年!](https://sec.thief.one/article_content?a_id=e0a2e0e05467e9728b0c3b1690d12833) ![](assets/new.png)  
+- [2020-11-09-嫌python慢!比-Python-快-20%的Pyston来了](https://sec.thief.one/article_content?a_id=9c6d234b2a390f5fab2ae33346d2065f) ![](assets/new.png)  
+- [2020-11-09-虎符论坛|“三同步”和“三聚合”保障政企信息化内生安全](https://sec.thief.one/article_content?a_id=26eee0c2cb8bbe66e3e7443e1d64aee8) ![](assets/new.png)  
 - [2020-11-09-Kali-Linux常见问题与解决方案](https://sec.thief.one/article_content?a_id=3cc4ee2d05da54d3a70dee1fe2a6ccc2) ![](assets/new.png)  
 - [2020-11-09-​双十一看雪商城全年最低价来袭!买它买它买它-!!](https://sec.thief.one/article_content?a_id=389809002f6c8d4002ba6b60521e00a0) ![](assets/new.png)  
 - [2020-11-09-漏洞分析|Weblogic未授权访问及命令执行分析复现CVE-2020-...](https://sec.thief.one/article_content?a_id=89a9a27ed90119f41a840a9427aa35b8) ![](assets/new.png)  
@@ -640,12 +626,6 @@
 - [2020-11-09-注意了!这类产品大限将至](https://sec.thief.one/article_content?a_id=44ee39062085d8eb2aeb49c3804d979f) ![](assets/new.png)  
 - [2020-11-09-2020年中国青年好网民优秀故事百场分享活动启动仪式暨首场分享活动...](https://sec.thief.one/article_content?a_id=b4dcd6c692fac76da96ff9e7455da4ee) ![](assets/new.png)  
 - [2020-11-09-SecWiki周刊第349期](https://sec.thief.one/article_content?a_id=9686089f07ff6739773efd5ee2f132d5) ![](assets/new.png)  
-- [2020-11-09-交易员预计2020年ETH价格将反弹至500美元的3个原因](https://sec.thief.one/article_content?a_id=ba689c7b1f344dce357f2e93f35a15e8) ![](assets/new.png)  
-- [2020-11-09-拒绝纸上谈兵,物联网安全攻防实战训练营火热报名中!](https://sec.thief.one/article_content?a_id=0061bd7ffac5ae3c8f5d4f9b09cffbb2) ![](assets/new.png)  
-- [2020-11-09-【视频】|-网警微电影《网战》](https://sec.thief.one/article_content?a_id=ec40e17bc760003ba066c276181a927d) ![](assets/new.png)  
-- [2020-11-09-巴西高等司法法院遭重大网络攻击,业务停顿一周](https://sec.thief.one/article_content?a_id=97a5c8ed8cb7abc88965145bc56fa709) ![](assets/new.png)  
-- [2020-11-09-2020网络安全金帽子年度盛典-|-评选活动概览-投票火热进行中](https://sec.thief.one/article_content?a_id=7fb41c5d4d8e69cb5a62caf3de73d2b3) ![](assets/new.png)  
-- [2020-11-09-CVE-2020-14882\CVE-2020-14883漏洞分析](https://sec.thief.one/article_content?a_id=507b1ea8bfacd98da523b09a8e7be8b2) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

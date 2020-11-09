@@ -10,6 +10,11 @@
         "date": "2020-11-08"
       },
       {
+        "title": "上海浦东新冠确诊者感染源排查中 所住村庄已封闭",
+        "link": "https://m.caixin.com/m/2020-11-09/101625278.html",
+        "date": "2020-11-08"
+      },
+      {
         "title": "最新海外疫情：新冠感染超5025万 累计死亡超125万",
         "link": "http://m.international.caixin.com/m/2020-11-09/101625243.html",
         "date": "2020-11-08"
@@ -14291,6 +14296,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "开发一个 Webpack 插件原来这么简单",
+        "link": "https://juejin.im/post/6893097741258326030",
+        "date": "2020-11-09"
+      },
+      {
         "title": "vue-vnode 到真实DOM是如何转化的？",
         "link": "https://juejin.im/post/6893095521154990088",
         "date": "2020-11-09"
@@ -14303,11 +14313,6 @@
       {
         "title": "全面拥抱 Reactivity: RxJS, RSocket & Svelte",
         "link": "https://juejin.im/post/6893059275694817293",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "NestJS 7.x 折腾记: (3) 采用nestjs-pino作为Nest logger",
-        "link": "https://juejin.im/post/6893059048019918855",
         "date": "2020-11-09"
       },
       {
@@ -14493,211 +14498,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
+    "rss": "https://rss.shab.fun/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": [
-      {
-        "title": "defi, 智能合约到底是什么?",
-        "link": "https://www.v2ex.com/t/723356",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "使用 kafka 场景中到底使用数据生产者的集群还是消费者的集群？",
-        "link": "https://www.v2ex.com/t/723354",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "好家伙，自己从 google 翻译的文章又被某个采集站给翻译回去了😂😂😂，感觉国人的采集站要占领地球了",
-        "link": "https://www.v2ex.com/t/723353",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "校招 offer 求比较：腾讯 VS 快手",
-        "link": "https://www.v2ex.com/t/723352",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "搞了个脚本，每天同步知乎/哔哩哔哩/微博热门榜单到公众号",
-        "link": "https://www.v2ex.com/t/723351",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "Shopping With CouponBirds",
-        "link": "https://www.v2ex.com/t/723348",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[XIA 想集 #03] 像游戏一样开地图",
-        "link": "https://www.v2ex.com/t/723347",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "今年双十一哪里能买到最便宜的国行 Air Pods pro 呢？",
-        "link": "https://www.v2ex.com/t/723346",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "刚结束的精酿比赛获奖作品，你喝过几个",
-        "link": "https://www.v2ex.com/t/723345",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "网站使用自带手机浏览器无法访问这是什么情况？",
-        "link": "https://www.v2ex.com/t/723344",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "请教下 ElasticSearch 开发相关问题",
-        "link": "https://www.v2ex.com/t/723343",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "二笔 mvnrepository CAPTCHA",
-        "link": "https://www.v2ex.com/t/723342",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "11promax 都去哪里了？",
-        "link": "https://www.v2ex.com/t/723341",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "想了解下国内 SRE 发展前景，转后端容易吗？",
-        "link": "https://www.v2ex.com/t/723340",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "出 Little Snitch5 防火墙激活码一份",
-        "link": "https://www.v2ex.com/t/723339",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "Ingress 可以判断某个域名的请求拒绝掉？",
-        "link": "https://www.v2ex.com/t/723338",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "老哥们，帮忙看看这装机配置如何",
-        "link": "https://www.v2ex.com/t/723335",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "DELL U2720Q vs U2720QM 选哪个",
-        "link": "https://www.v2ex.com/t/723334",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[快手] 北京/深圳/杭州/上海，客户端/后台/前端/测试/设计产品等，都可以内推",
-        "link": "https://www.v2ex.com/t/723333",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "IQUNIX L80 到手",
-        "link": "https://www.v2ex.com/t/723332",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "Any a good game mouse equipment？ Which brand is the best？",
-        "link": "https://www.v2ex.com/t/723331",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "Rsync 搭建小成本灾备系统,遇到个诡异问题求助(docker 搭建多站点",
-        "link": "https://www.v2ex.com/t/723330",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "双十一给父母换什么手机？",
-        "link": "https://www.v2ex.com/t/723328",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "有没有前面有 PCI 扩展位的机箱",
-        "link": "https://www.v2ex.com/t/723327",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "萌新问个 Goroutine 问题",
-        "link": "https://www.v2ex.com/t/723326",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "出海公司都是怎么访问国际网络的？",
-        "link": "https://www.v2ex.com/t/723325",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "国内大厂的安卓 APP 都是以当年旗舰机的性能标准开发的吗？",
-        "link": "https://www.v2ex.com/t/723323",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "寻找一名或多名硬件开发的 V 友，最好常驻杭州",
-        "link": "https://www.v2ex.com/t/723322",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "请教下，如何实现 iOS 微信后台的未读消息标记在 PC 版微信消息已读后自动消失",
-        "link": "https://www.v2ex.com/t/723321",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "两个月前搞了一个网址导航，现在日 uv 仍在 2 位数徘徊，好期待上 3 位数",
-        "link": "https://www.v2ex.com/t/723320",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "Rails new 命令一直转圈怎么办？",
-        "link": "https://www.v2ex.com/t/723318",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "端口为 12345 的 italk chat system 是啥服务",
-        "link": "https://www.v2ex.com/t/723317",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "iPad 上，我删除了谷歌 app、youtube、只剩下苹果自带的 app，今天重新安装了谷歌 app、youtube，它居然可以识别我的账号，我点击就直接登录了，是什么原理？",
-        "link": "https://www.v2ex.com/t/723316",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[PayPal 上海内推]全球顶级风控团队， Java /大数据/全栈/大客户技术支持等职位火热招聘中！",
-        "link": "https://www.v2ex.com/t/723315",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[旅游咨询]11 月下旬的千岛湖度假有什么好去处",
-        "link": "https://www.v2ex.com/t/723314",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "2020 年你觉得买的最值的三个东西是啥？",
-        "link": "https://www.v2ex.com/t/723313",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "请教 Elasticsearch 使用单机多节点集群与单机单节点相比，性能是会下降还是提升？",
-        "link": "https://www.v2ex.com/t/723312",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "上海注册一个科技有限公司每年需要花多少钱？",
-        "link": "https://www.v2ex.com/t/723309",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "酷家乐内推",
-        "link": "https://www.v2ex.com/t/723308",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[日常造轮子]撸了个带有多机器分发功能的 Certbot",
-        "link": "https://www.v2ex.com/t/723307",
-        "date": "2020-11-09"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -14912,28 +14716,18 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
-        "date": "2020-11-09"
-      },
-      {
         "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
         "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
         "date": "2020-11-09"
       },
       {
@@ -14942,18 +14736,28 @@
         "date": "2020-11-09"
       },
       {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-09"
+      },
+      {
         "title": "[推荐] 消息队列和任务队列有什么区别？",
         "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-09"
       },
       {
@@ -14962,18 +14766,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-09"
       },
       {
@@ -14982,8 +14781,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-09"
       }
     ]
@@ -14993,6 +14797,36 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "每日攻防资讯简报[Nov.9th]",
+        "link": "https://sec.thief.one/article_content?a_id=6ad353557fc710dbdd8c11ab044694f2",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "Xxl Job未授权远程代码执行漏洞",
+        "link": "https://sec.thief.one/article_content?a_id=d99ecb0acc2aadf2e0646edc0a433987",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "【11.9-11.11】双十一3天嗨购,阿里云SSL证书低至4折,享3重福利...",
+        "link": "https://sec.thief.one/article_content?a_id=7790bebb2d9513c98d2463b56a7d873f",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "1 元秒杀 1000+ 册爆款电子书,错过再等一年!",
+        "link": "https://sec.thief.one/article_content?a_id=e0a2e0e05467e9728b0c3b1690d12833",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "嫌python慢!比 Python 快 20%的Pyston来了",
+        "link": "https://sec.thief.one/article_content?a_id=9c6d234b2a390f5fab2ae33346d2065f",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "虎符论坛|“三同步”和“三聚合”保障政企信息化内生安全",
+        "link": "https://sec.thief.one/article_content?a_id=26eee0c2cb8bbe66e3e7443e1d64aee8",
+        "date": "2020-11-09"
+      },
       {
         "title": "Kali Linux常见问题与解决方案",
         "link": "https://sec.thief.one/article_content?a_id=3cc4ee2d05da54d3a70dee1fe2a6ccc2",
@@ -15149,8 +14983,18 @@
         "date": "2020-11-09"
       },
       {
+        "title": "首届AAAI/ACM SIGAI博士论文奖公布, 清华姚班毕业生、MIT学霸吴...",
+        "link": "https://sec.thief.one/article_content?a_id=41b617b6d00fed096869bbf57a81bba2",
+        "date": "2020-11-09"
+      },
+      {
         "title": "终于有人把Python算法-动态规划讲明白了,建议收藏!(附源码下载)",
         "link": "https://sec.thief.one/article_content?a_id=ac99285a4d487d5f1c800d3a42ed3cde",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "还在用思科的Webex会议进行远程工作?思科警告:现在就打补丁吧!",
+        "link": "https://sec.thief.one/article_content?a_id=5242f59912c8d90f282ae46310b6ed23",
         "date": "2020-11-09"
       },
       {
@@ -15452,46 +15296,6 @@
         "title": "Python是个什么鬼?为什么985学生都要学它?!",
         "link": "https://sec.thief.one/article_content?a_id=d27dc788bd21b191b54aac5bb0b770c7",
         "date": "2020-11-07"
-      },
-      {
-        "title": "【安全圈】黑客游戏《看门狗:军团》源码遭黑客泄露 多达560GB",
-        "link": "https://sec.thief.one/article_content?a_id=3a927390d438e83de405da85c8f9843e",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "倒计时2天|绿盟科技在成都等你!",
-        "link": "https://sec.thief.one/article_content?a_id=afd5fd88ed40538ac7b89a0538b77abd",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "提高警惕!国内虚拟货币犯罪形势日渐严峻",
-        "link": "https://sec.thief.one/article_content?a_id=e1595a87b43a1b9b5c4f4c5c6f155fed",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "从一道CTF学习Service Worker的利用",
-        "link": "https://sec.thief.one/article_content?a_id=17b53916dccf940d01dc147bf868ec33",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "Apache Tomcat websocket拒绝服务漏洞CVE-2020-13935",
-        "link": "https://sec.thief.one/article_content?a_id=16bfb6794e867fc6da4c5eb479474c40",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "一图了解Google工具栈",
-        "link": "https://sec.thief.one/article_content?a_id=6c5dfef760fe656d0b287fdd18cb52b8",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "PWN从入门到放弃(四):PWN格式化字符串详解",
-        "link": "https://sec.thief.one/article_content?a_id=8ddedb24a39af5f34ddf741690ef5efc",
-        "date": "2020-11-06"
-      },
-      {
-        "title": "隐秘的角落——基于某款游戏利用的反射攻击分析",
-        "link": "https://sec.thief.one/article_content?a_id=5644f2d855ea6ed5070a0cf6770c6f6a",
-        "date": "2020-11-06"
       }
     ]
   }

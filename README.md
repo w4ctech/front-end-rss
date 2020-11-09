@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 10:48:35，:rocket: 更新条数: +3047， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 11:04:02，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -457,7 +477,7 @@
 - [2020-11-09-NestJS-7.x-折腾记:-3-采用nestjs-pino作为Nest-logger](https://juejin.im/post/6893059048019918855) ![](assets/new.png)  
 - [2020-11-09-Vue3源码解读四-reactivity](https://juejin.im/post/6893045604592418830) ![](assets/new.png)  
 - [2020-11-09-一文带你熟悉uni-app开发多端的整体流程及各端发布](https://juejin.im/post/6893037995390468103) ![](assets/new.png)  
-- [2020-11-09-【一天一大-lee】区间和的个数-难度:困难---Day20201107](https://juejin.im/post/6893036696259002381) ![](assets/new.png)  
+- [2020-11-08-去哪儿网React-Native-优先的多端统一化方案](https://juejin.im/post/6893028483232956429) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +553,10 @@
 </summary>
 
 
+- [2020-11-09-国内大厂的安卓-APP-都是以当年旗舰机的性能标准开发的吗？](https://www.v2ex.com/t/723323) ![](assets/new.png)  
+- [2020-11-09-寻找一名或多名硬件开发的-V-友，最好常驻杭州](https://www.v2ex.com/t/723322) ![](assets/new.png)  
+- [2020-11-09-请教下，如何实现-iOS-微信后台的未读消息标记在-PC-版微信消息已读后自动消失](https://www.v2ex.com/t/723321) ![](assets/new.png)  
+- [2020-11-09-两个月前搞了一个网址导航，现在日-uv-仍在-2-位数徘徊，好期待上-3-位数](https://www.v2ex.com/t/723320) ![](assets/new.png)  
 - [2020-11-09-Rails-new-命令一直转圈怎么办？](https://www.v2ex.com/t/723318) ![](assets/new.png)  
 - [2020-11-09-端口为-12345-的-italk-chat-system-是啥服务](https://www.v2ex.com/t/723317) ![](assets/new.png)  
 - [2020-11-09-iPad-上，我删除了谷歌-app、youtube、只剩下苹果自带的-app，今天重新安装了谷歌-app、youtube，它居然可以识别我的账号，我点击就直接登录了，是什么原理？](https://www.v2ex.com/t/723316) ![](assets/new.png)  
@@ -549,10 +573,6 @@
 - [2020-11-09-迫于团队闲太久了，做了一个付费咨询的问答-app-原型，请大家点评有没有价值](https://www.v2ex.com/t/723304) ![](assets/new.png)  
 - [2020-11-09-你们遇没遇到过难以沟通的前端](https://www.v2ex.com/t/723303) ![](assets/new.png)  
 - [2020-11-09-坐标上海长宁~求自动化测试开发团队经理一枚~-3-年以上-15-人测试团队管理经验，商务技术英语沟通无障碍）](https://www.v2ex.com/t/723302) ![](assets/new.png)  
-- [2020-11-09-第四期德国-IT-岗位招聘之-Software-Developer,-Fullstack-developerSenior,-Business-Intelligence-Developer](https://www.v2ex.com/t/723299) ![](assets/new.png)  
-- [2020-11-09-有甚麼好用的網站託管啊](https://www.v2ex.com/t/723298) ![](assets/new.png)  
-- [2020-11-09-深圳-Wisers-慧科-外资，大数据+AI，可经常远程办公，-20-40K/月，招聘-React-前端开发-.](https://www.v2ex.com/t/723297) ![](assets/new.png)  
-- [2020-11-09-气死了，硕士因为专科经历-HR-面被挂](https://www.v2ex.com/t/723296) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,26 +646,26 @@
 </summary>
 
 
-- [2020-11-08-GitHub-上-25-个-Python-学习资源,墙裂推荐!](https://sec.thief.one/article_content?a_id=9f26c4fe5d13f1fbb5c3287f6fcf8d37) ![](assets/new.png)  
-- [2020-11-08-共绘安全业务生态新蓝图|绿盟科技出席2020天翼智能生态博览会](https://sec.thief.one/article_content?a_id=892027bcb9c301199435a0124d00a008) ![](assets/new.png)  
-- [2020-11-08-“我家的故事——脱贫攻坚奔小康”短视频征集展示活动评审会召开](https://sec.thief.one/article_content?a_id=82968ffaac09ced2df5ad8b1560581d2) ![](assets/new.png)  
-- [2020-11-08-“奇安信杯”创客训练营圆满落幕](https://sec.thief.one/article_content?a_id=55e090644ee7531bf061c59b0dac522d) ![](assets/new.png)  
-- [2020-11-08-DamnVulnerableCryptoApp:一款功能强大的弱加密实现检测工具](https://sec.thief.one/article_content?a_id=b1c045b33fb01d9475fbed99302eabb6) ![](assets/new.png)  
-- [2020-11-08-11月16日,2020-KCTF秋季赛-|-巅峰对决,勇者必胜!](https://sec.thief.one/article_content?a_id=e9d5f18aad6b6b543fe8b680880ed501) ![](assets/new.png)  
-- [2020-11-08-【视频】|-Python:列表操作更新和删除](https://sec.thief.one/article_content?a_id=bda8cb558779e09fda5b0916ec7cfb96) ![](assets/new.png)  
-- [2020-11-08-快手即将上市!两80后程序员将进入百亿富豪俱乐部](https://sec.thief.one/article_content?a_id=83ecd6833635e2d050c682ab02a8ca26) ![](assets/new.png)  
-- [2020-11-08-一次文件上传对Token的绕过](https://sec.thief.one/article_content?a_id=c0f4b308372c7d9498689127ae8ebb7b) ![](assets/new.png)  
-- [2020-11-08-文末赠书-|《校园明星-CTF-战队的奇幻养成之旅》](https://sec.thief.one/article_content?a_id=0373d85d0c15b1b3e70e1e60251c8c4a) ![](assets/new.png)  
-- [2020-11-08-致青年:你所关心的未来,党中央的这份重要建议画好蓝图了](https://sec.thief.one/article_content?a_id=91c4b0c9f3e4f236b8c8df0d5305e974) ![](assets/new.png)  
-- [2020-11-08-周报|女子求助:“杀猪盘”已为她花去数千元,百思不得其解:11.01~...](https://sec.thief.one/article_content?a_id=c68514b4c4421a3e35eddc650ef2a48a) ![](assets/new.png)  
-- [2020-11-08-惊呆了!这个币悄悄地涨了80%](https://sec.thief.one/article_content?a_id=711924b99809a1de5a0eeccd6b817f2b) ![](assets/new.png)  
-- [2020-11-08-Folksam证实百万瑞典公民信息泄露给Google、Facebook等巨头](https://sec.thief.one/article_content?a_id=f91b55741a435c999298109294609f0a) ![](assets/new.png)  
-- [2020-11-08-记一次内衣渗透测试](https://sec.thief.one/article_content?a_id=47ea0b99cd7f6f01b862cd70271cf183) ![](assets/new.png)  
-- [2020-11-08-全球疫情下的网络安全:警惕“趁火打劫”的线上攻击](https://sec.thief.one/article_content?a_id=3d8ea5ce6c5e4f2a55724afd8990c910) ![](assets/new.png)  
-- [2020-11-08-Python-进阶之源码分析:如何将一个类方法变为多个方法?](https://sec.thief.one/article_content?a_id=283d95ec6c808843adcb492847848533) ![](assets/new.png)  
-- [2020-11-08-Webmin-远程命令执行CVE-2019-15107漏洞利用](https://sec.thief.one/article_content?a_id=f729c85969608c5b585ba35fdb81b076) ![](assets/new.png)  
-- [2020-11-08-实战化背景下的安全防护能力体系建设思路](https://sec.thief.one/article_content?a_id=9e9c1b4900b4c88fd26ba9ced3849ddc) ![](assets/new.png)  
-- [2020-11-08-意大利酒商Campari-Group遭勒索,黑客要挟1500万美元](https://sec.thief.one/article_content?a_id=2a2516297319737815d4cd320593af5e) ![](assets/new.png)  
+- [2020-11-09-Kali-Linux常见问题与解决方案](https://sec.thief.one/article_content?a_id=3cc4ee2d05da54d3a70dee1fe2a6ccc2) ![](assets/new.png)  
+- [2020-11-09-​双十一看雪商城全年最低价来袭!买它买它买它-!!](https://sec.thief.one/article_content?a_id=389809002f6c8d4002ba6b60521e00a0) ![](assets/new.png)  
+- [2020-11-09-漏洞分析|Weblogic未授权访问及命令执行分析复现CVE-2020-...](https://sec.thief.one/article_content?a_id=89a9a27ed90119f41a840a9427aa35b8) ![](assets/new.png)  
+- [2020-11-09-审核gg给这22位师傅点赞!](https://sec.thief.one/article_content?a_id=6dcdb25032b89f3d6a141e098293fe69) ![](assets/new.png)  
+- [2020-11-09-智慧赋能医疗信息安全能力建设](https://sec.thief.one/article_content?a_id=c30fc03f1bf3b519cb0f1771f90d9b7c) ![](assets/new.png)  
+- [2020-11-09-你要的爆款公众号都在这呢!](https://sec.thief.one/article_content?a_id=549c9f652d63851322722e3bd5b04558) ![](assets/new.png)  
+- [2020-11-09-i春秋双11宠粉福利第三弹丨王一博同款手机送给爱学习的你!](https://sec.thief.one/article_content?a_id=c9cf482b6e4d2cc69263950c83a3fa46) ![](assets/new.png)  
+- [2020-11-09-K神手札:比特币挖坑洗盘,新高在望](https://sec.thief.one/article_content?a_id=ab91b1d20fbfe499ad5b2b82cce6c8f6) ![](assets/new.png)  
+- [2020-11-09-APP位置权限不仅能侵犯隐私,还能泄露军事机密](https://sec.thief.one/article_content?a_id=4d3082a55e4f97bced0c3b4715761c76) ![](assets/new.png)  
+- [2020-11-09-倒计时5天-|-听说这次雷神众测HackingDay玩很大?](https://sec.thief.one/article_content?a_id=38b0f4b51aee259ca2d65ab346413e52) ![](assets/new.png)  
+- [2020-11-09-网安新讯-|-十四五谈安全、央行金融科技最新规范、18项网安标准出炉](https://sec.thief.one/article_content?a_id=9756958081f8ab765d6f3f241a96b2b4) ![](assets/new.png)  
+- [2020-11-09-注意了!这类产品大限将至](https://sec.thief.one/article_content?a_id=44ee39062085d8eb2aeb49c3804d979f) ![](assets/new.png)  
+- [2020-11-09-2020年中国青年好网民优秀故事百场分享活动启动仪式暨首场分享活动...](https://sec.thief.one/article_content?a_id=b4dcd6c692fac76da96ff9e7455da4ee) ![](assets/new.png)  
+- [2020-11-09-SecWiki周刊第349期](https://sec.thief.one/article_content?a_id=9686089f07ff6739773efd5ee2f132d5) ![](assets/new.png)  
+- [2020-11-09-交易员预计2020年ETH价格将反弹至500美元的3个原因](https://sec.thief.one/article_content?a_id=ba689c7b1f344dce357f2e93f35a15e8) ![](assets/new.png)  
+- [2020-11-09-拒绝纸上谈兵,物联网安全攻防实战训练营火热报名中!](https://sec.thief.one/article_content?a_id=0061bd7ffac5ae3c8f5d4f9b09cffbb2) ![](assets/new.png)  
+- [2020-11-09-【视频】|-网警微电影《网战》](https://sec.thief.one/article_content?a_id=ec40e17bc760003ba066c276181a927d) ![](assets/new.png)  
+- [2020-11-09-巴西高等司法法院遭重大网络攻击,业务停顿一周](https://sec.thief.one/article_content?a_id=97a5c8ed8cb7abc88965145bc56fa709) ![](assets/new.png)  
+- [2020-11-09-2020网络安全金帽子年度盛典-|-评选活动概览-投票火热进行中](https://sec.thief.one/article_content?a_id=7fb41c5d4d8e69cb5a62caf3de73d2b3) ![](assets/new.png)  
+- [2020-11-09-CVE-2020-14882\CVE-2020-14883漏洞分析](https://sec.thief.one/article_content?a_id=507b1ea8bfacd98da523b09a8e7be8b2) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

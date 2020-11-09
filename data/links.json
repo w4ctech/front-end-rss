@@ -14286,23 +14286,23 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "一个实用的Chrome小工具：xTrace",
+        "link": "https://juejin.im/post/6893004236594872334",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "SVGA在前端方面的使用",
+        "link": "https://juejin.im/post/6892996067315580941",
+        "date": "2020-11-08"
+      },
+      {
         "title": "前端性能优化 24 条建议（2020）",
         "link": "https://juejin.im/post/6892994632968306702",
         "date": "2020-11-08"
       },
       {
-        "title": "TiDB x 微众银行 | 耗时降低 58%，分布式架构助力实现普惠金融",
-        "link": "https://juejin.im/post/6892968297436807176",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "XSS 攻击、CSRF 攻击、SQL 注入、流量劫持（DNS 劫持、HTTP 劫持）—— 浏览器安全",
-        "link": "https://juejin.im/post/6892961914079412237",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "聊聊“过时的”的JSONP",
-        "link": "https://juejin.im/post/6892961145758433288",
+        "title": "CSS 文本截断方法总结和原理分析",
+        "link": "https://juejin.im/post/6892974106908557320",
         "date": "2020-11-08"
       },
       {
@@ -14493,13 +14493,23 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "WebAssembly 能否重新定义前端开发模式？",
-        "link": "https://www.v2ex.com/t/723193",
+        "title": "迫于久坐导致腰间盘突出..求推荐椅子桌子...",
+        "link": "https://www.v2ex.com/t/723197",
         "date": "2020-11-09"
       },
       {
-        "title": "直播项目外包",
-        "link": "https://www.v2ex.com/t/723192",
+        "title": "Big Sur 都 RC 了，怎么 Airpods 自动切换还是有问题呢",
+        "link": "https://www.v2ex.com/t/723196",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "苹果官网 24 分期能用临时额度吗",
+        "link": "https://www.v2ex.com/t/723195",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "WebAssembly 能否重新定义前端开发模式？",
+        "link": "https://www.v2ex.com/t/723193",
         "date": "2020-11-09"
       },
       {
@@ -14530,11 +14540,6 @@
       {
         "title": "[杭州] 淘宝特价版内推 Java 后台开发",
         "link": "https://www.v2ex.com/t/723178",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "无意间发现的一家 idc 公司高防值得入手",
-        "link": "https://www.v2ex.com/t/723176",
         "date": "2020-11-09"
       },
       {
@@ -14615,21 +14620,6 @@
       {
         "title": "新天地 黄陂南路附近没食堂的朋友都去哪吃午饭？",
         "link": "https://www.v2ex.com/t/723148",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "江湖救急！ git 合并冲突，第一次遇到这种报错，还是网上搜不到答案的那种",
-        "link": "https://www.v2ex.com/t/723147",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "微信二维码被扫几毛钱, 然后举报封 30 天, 申诉也没用, 这就没办法了?",
-        "link": "https://www.v2ex.com/t/723146",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "Github 和 Gitlab 在使用上有什么区别",
-        "link": "https://www.v2ex.com/t/723144",
         "date": "2020-11-09"
       }
     ]
@@ -14782,13 +14772,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "深度揭秘垃圾回收底层，这次让你彻底弄懂她",
-        "link": "https://toutiao.io/k/1voloks",
+        "title": "应用编译，计算机中一定要掌握的知识细节",
+        "link": "https://toutiao.io/k/n9jrq0b",
         "date": "2020-11-09"
       },
       {
-        "title": "应用编译，计算机中一定要掌握的知识细节",
-        "link": "https://toutiao.io/k/n9jrq0b",
+        "title": "深度揭秘垃圾回收底层，这次让你彻底弄懂她",
+        "link": "https://toutiao.io/k/1voloks",
         "date": "2020-11-09"
       },
       {
@@ -14812,13 +14802,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "漫画：讲解一下如何写简历 & 项目",
-        "link": "https://toutiao.io/k/s8m0gth",
+        "title": "Java 线程池实现原理",
+        "link": "https://toutiao.io/k/5tsolk6",
         "date": "2020-11-09"
       },
       {
-        "title": "Java 线程池实现原理",
-        "link": "https://toutiao.io/k/5tsolk6",
+        "title": "漫画：讲解一下如何写简历 & 项目",
+        "link": "https://toutiao.io/k/s8m0gth",
         "date": "2020-11-09"
       },
       {
@@ -14847,18 +14837,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-09"
       },
       {
         "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
         "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-09"
       },
       {
@@ -14872,23 +14857,33 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-09"
       },
       {
@@ -14902,23 +14897,18 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
         "date": "2020-11-09"
       }
     ]

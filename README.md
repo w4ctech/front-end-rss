@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 06:13:47，:rocket: 更新条数: +3036， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 06:25:48，:rocket: 更新条数: +3034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,10 +453,10 @@
 </summary>
 
 
+- [2020-11-08-一个实用的Chrome小工具：xTrace](https://juejin.im/post/6893004236594872334) ![](assets/new.png)  
+- [2020-11-08-SVGA在前端方面的使用](https://juejin.im/post/6892996067315580941) ![](assets/new.png)  
 - [2020-11-08-前端性能优化-24-条建议（2020）](https://juejin.im/post/6892994632968306702) ![](assets/new.png)  
-- [2020-11-08-TiDB-x-微众银行-|-耗时降低-58%，分布式架构助力实现普惠金融](https://juejin.im/post/6892968297436807176) ![](assets/new.png)  
-- [2020-11-08-XSS-攻击、CSRF-攻击、SQL-注入、流量劫持（DNS-劫持、HTTP-劫持）——-浏览器安全](https://juejin.im/post/6892961914079412237) ![](assets/new.png)  
-- [2020-11-08-聊聊“过时的”的JSONP](https://juejin.im/post/6892961145758433288) ![](assets/new.png)  
+- [2020-11-08-CSS-文本截断方法总结和原理分析](https://juejin.im/post/6892974106908557320) ![](assets/new.png)  
 - [2020-11-08-掘友福利｜参与活动MySQL书免费送了！](https://juejin.im/post/6892946746008305677) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,15 +533,16 @@
 </summary>
 
 
+- [2020-11-09-迫于久坐导致腰间盘突出..求推荐椅子桌子...](https://www.v2ex.com/t/723197) ![](assets/new.png)  
+- [2020-11-09-Big-Sur-都-RC-了，怎么-Airpods-自动切换还是有问题呢](https://www.v2ex.com/t/723196) ![](assets/new.png)  
+- [2020-11-09-苹果官网-24-分期能用临时额度吗](https://www.v2ex.com/t/723195) ![](assets/new.png)  
 - [2020-11-09-WebAssembly-能否重新定义前端开发模式？](https://www.v2ex.com/t/723193) ![](assets/new.png)  
-- [2020-11-09-直播项目外包](https://www.v2ex.com/t/723192) ![](assets/new.png)  
 - [2020-11-09-记一件线下购物奇特经历](https://www.v2ex.com/t/723190) ![](assets/new.png)  
 - [2020-11-09-社招-互联网-滴滴地图增长产品专家](https://www.v2ex.com/t/723189) ![](assets/new.png)  
 - [2020-11-09-哪里可以下载歌词？](https://www.v2ex.com/t/723183) ![](assets/new.png)  
 - [2020-11-09-迫于疫情在家学习，求入门-Linux-的网课推荐](https://www.v2ex.com/t/723182) ![](assets/new.png)  
 - [2020-11-09-想买迈锐宝-XL-了-是不是明年-5-月份最便宜？-上天津牌](https://www.v2ex.com/t/723179) ![](assets/new.png)  
 - [2020-11-09-杭州-淘宝特价版内推-Java-后台开发](https://www.v2ex.com/t/723178) ![](assets/new.png)  
-- [2020-11-09-无意间发现的一家-idc-公司高防值得入手](https://www.v2ex.com/t/723176) ![](assets/new.png)  
 - [2020-11-09-AirPods-Pro-单耳在开启降噪时出现-tatata-的声音，-Apple-成都太古里成功换新](https://www.v2ex.com/t/723174) ![](assets/new.png)  
 - [2020-11-09-硅谷-AI-外企北京研发中心来抓人啦！](https://www.v2ex.com/t/723169) ![](assets/new.png)  
 - [2020-11-09-老系统-20-张表-join，-100-多个字段-的优化方案？](https://www.v2ex.com/t/723168) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-09-联通和电信有没有像移动无忧行的-APP，可以接管号码的短信和来电，然后我在-iPhone-上装个-APP-就能收到短信和来电？](https://www.v2ex.com/t/723159) ![](assets/new.png)  
 - [2020-11-09-Worktile-旗下智能化研发管理工具-PingCode-宣布-25-人以下免费](https://www.v2ex.com/t/723158) ![](assets/new.png)  
 - [2020-11-09-求助:-serverless-webrtc-chat-在-Firefox-下失败](https://www.v2ex.com/t/723156) ![](assets/new.png)  
-- [2020-11-09-群晖-直接用-smb-访问视频文件-有些文件不能打开。但是自带的播放器可以。文件下载到本地就可以播放](https://www.v2ex.com/t/723155) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,14 +602,14 @@
 - [2020-11-09-MySQL-数据库优化二三事](https://toutiao.io/k/cixogzw) ![](assets/new.png)  
 - [2020-11-09-看-Kubernetes-源码，学习怎么用-Go-实现调度队列](https://toutiao.io/k/nxdtyt5) ![](assets/new.png)  
 - [2020-11-09-下下下一代防火墙关键技术漫谈](https://toutiao.io/k/e47mwf1) ![](assets/new.png)  
-- [2020-11-09-深度揭秘垃圾回收底层，这次让你彻底弄懂她](https://toutiao.io/k/1voloks) ![](assets/new.png)  
 - [2020-11-09-应用编译，计算机中一定要掌握的知识细节](https://toutiao.io/k/n9jrq0b) ![](assets/new.png)  
+- [2020-11-09-深度揭秘垃圾回收底层，这次让你彻底弄懂她](https://toutiao.io/k/1voloks) ![](assets/new.png)  
 - [2020-11-09-小议缓冲区溢出](https://toutiao.io/k/7zwlat4) ![](assets/new.png)  
 - [2020-11-09-译-深入理解-Dart-空安全](https://toutiao.io/k/i1hdmsn) ![](assets/new.png)  
 - [2020-11-09-那些有趣/实用的-Chrome-扩展神器](https://toutiao.io/k/zpqzx3u) ![](assets/new.png)  
 - [2020-11-09-实战：自己动手编译-JDK](https://toutiao.io/k/i7e8oql) ![](assets/new.png)  
-- [2020-11-09-漫画：讲解一下如何写简历-&-项目](https://toutiao.io/k/s8m0gth) ![](assets/new.png)  
 - [2020-11-09-Java-线程池实现原理](https://toutiao.io/k/5tsolk6) ![](assets/new.png)  
+- [2020-11-09-漫画：讲解一下如何写简历-&-项目](https://toutiao.io/k/s8m0gth) ![](assets/new.png)  
 - [2020-11-09-一步步拆解解决-Elasticsearch-检索模板问题](https://toutiao.io/k/ahv868l) ![](assets/new.png)  
 - [2020-11-09-做-VScode-代码共享、演示共享，实时消息还可以这么用](https://toutiao.io/k/7x6gdkx) ![](assets/new.png)  
 - [2020-11-09-QQ音乐-Android-编译提速之路](https://toutiao.io/k/pdi5skj) ![](assets/new.png)  

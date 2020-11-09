@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-09 14:35:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 14:47:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-09-549-的-4K-屏靠谱？群创啥实力](https://www.v2ex.com/t/723389) 
+- [2020-11-09-求一个魔法网站](https://www.v2ex.com/t/723388) 
+- [2020-11-09-圈子很小，简历和经历真的一定要诚实！](https://www.v2ex.com/t/723387) 
 - [2020-11-09-先探探底，关于去上海发展](https://www.v2ex.com/t/723384) 
 - [2020-11-09-也不急着上-Big-Sur，可以把正式版的小-bug-修一下吗？](https://www.v2ex.com/t/723383) 
 - [2020-11-09-内推社招EMC965上海分布式对象存储/流式大数据处理平台](https://www.v2ex.com/t/723382) 
@@ -41,5 +44,3 @@
 - [2020-11-09-二笔-mvnrepository-CAPTCHA](https://www.v2ex.com/t/723342) 
 - [2020-11-09-11promax-都去哪里了？](https://www.v2ex.com/t/723341) 
 - [2020-11-09-想了解下国内-SRE-发展前景，转后端容易吗？](https://www.v2ex.com/t/723340) 
-- [2020-11-09-出-Little-Snitch5-防火墙激活码一份](https://www.v2ex.com/t/723339) 
-- [2020-11-09-Ingress-可以判断某个域名的请求拒绝掉？](https://www.v2ex.com/t/723338) 

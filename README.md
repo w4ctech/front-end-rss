@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 12:15:56，:rocket: 更新条数: +492， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 12:31:11，:rocket: 更新条数: +3051， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-11-08-最新疫情：全国新冠累计确诊86245例-天津本土新增1例](https://m.caixin.com/m/2020-11-09/101625246.html) ![](assets/new.png)  
+- [2020-11-08-最新海外疫情：新冠感染超5025万-累计死亡超125万](http://m.international.caixin.com/m/2020-11-09/101625243.html) ![](assets/new.png)  
+- [2020-11-08-【境内疫情观察】天津新增1例本土确诊病例（11月8日）](http://m.database.caixin.com/m/2020-11-09/101625051.html) ![](assets/new.png)  
+- [2020-11-08-大流行手记|11月8日：法国延长卫生紧急状态-英国近半教师不满校园防控举措](https://m.caixin.com/m/2020-11-09/101624597.html) ![](assets/new.png)  
+- [2020-11-08-聚焦|张文宏：何时迎接世界的重启](http://m.opinion.caixin.com/m/2020-11-09/101624998.html) ![](assets/new.png)  
+- [2020-11-07-天津新增1例本地新冠肺炎确诊病例-系此前核酸检测阳性装卸工人](https://m.caixin.com/m/2020-11-08/101624438.html) ![](assets/new.png)  
+- [2020-11-07-【境内疫情观察】全国新增28例境外输入病例（11月7日）](http://m.database.caixin.com/m/2020-11-08/101624448.html) ![](assets/new.png)  
+- [2020-11-07-大流行手记|11月7日：已有六国发现水貂变异病毒感染者-白宫幕僚长确诊](https://m.caixin.com/m/2020-11-08/101624405.html) ![](assets/new.png)  
+- [2020-11-06-【境内疫情观察】全国新增33例境外输入病例（11月6日）](http://m.database.caixin.com/m/2020-11-07/101624263.html) ![](assets/new.png)  
+- [2020-11-06-大流行手记|11月6日：丹麦水貂传播变异病毒](https://m.caixin.com/m/2020-11-07/101624156.html) ![](assets/new.png)  
+- [2020-11-05-两款新冠抗原检测试剂国内首获批-药监局称仅可作补充方法](https://m.caixin.com/m/2020-11-06/101623649.html) ![](assets/new.png)  
+- [2020-11-05-【境内疫情观察】新疆新增6例本土确诊病例（11月5日）](http://m.database.caixin.com/m/2020-11-06/101623769.html) ![](assets/new.png)  
+- [2020-11-05-大流行手记|11月5日：中国暂停印、英等国人员入境-美国日增病例破10万](https://m.caixin.com/m/2020-11-06/101623677.html) ![](assets/new.png)  
+- [2020-11-04-【境内疫情观察】新疆新增8例本土确诊病例（11月4日）](http://m.database.caixin.com/m/2020-11-05/101623339.html) ![](assets/new.png)  
+- [2020-11-04-大流行手记|11月4日：英国利物浦试点全城检测-美国急缺医护人员](https://m.caixin.com/m/2020-11-05/101623212.html) ![](assets/new.png)  
+- [2020-11-03-【境内疫情观察】新疆新增116例无症状感染者（11月3日）](http://m.database.caixin.com/m/2020-11-04/101622904.html) ![](assets/new.png)  
+- [2020-11-03-大流行手记|11月3日：WHO提示孕妇幼儿流感风险-美确诊选民可现场投票](https://m.caixin.com/m/2020-11-04/101622791.html) ![](assets/new.png)  
+- [2020-11-02-香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html) ![](assets/new.png)  
+- [2020-11-02-新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html) ![](assets/new.png)  
+- [2020-11-02-【境内疫情观察】全国新增44例境外输入病例（11月2日）](http://m.database.caixin.com/m/2020-11-03/101622339.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -356,26 +376,6 @@
 </summary>
 
 
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,10 +453,10 @@
 </summary>
 
 
+- [2020-11-09-vue-vnode-到真实DOM是如何转化的？](https://juejin.im/post/6893095521154990088) ![](assets/new.png)  
 - [2020-11-09-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://juejin.im/post/6893065166003372039) ![](assets/new.png)  
 - [2020-11-09-全面拥抱-Reactivity:-RxJS,-RSocket-&-Svelte](https://juejin.im/post/6893059275694817293) ![](assets/new.png)  
 - [2020-11-09-NestJS-7.x-折腾记:-3-采用nestjs-pino作为Nest-logger](https://juejin.im/post/6893059048019918855) ![](assets/new.png)  
-- [2020-11-09-Vue3源码解读四-reactivity](https://juejin.im/post/6893045604592418830) ![](assets/new.png)  
 - [2020-11-08-去哪儿网React-Native-优先的多端统一化方案](https://juejin.im/post/6893028483232956429) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,6 +533,12 @@
 </summary>
 
 
+- [2020-11-09-Shopping-With-CouponBirds](https://www.v2ex.com/t/723348) ![](assets/new.png)  
+- [2020-11-09-XIA-想集-#03-像游戏一样开地图](https://www.v2ex.com/t/723347) ![](assets/new.png)  
+- [2020-11-09-今年双十一哪里能买到最便宜的国行-Air-Pods-pro-呢？](https://www.v2ex.com/t/723346) ![](assets/new.png)  
+- [2020-11-09-刚结束的精酿比赛获奖作品，你喝过几个](https://www.v2ex.com/t/723345) ![](assets/new.png)  
+- [2020-11-09-网站使用自带手机浏览器无法访问这是什么情况？](https://www.v2ex.com/t/723344) ![](assets/new.png)  
+- [2020-11-09-请教下-ElasticSearch-开发相关问题](https://www.v2ex.com/t/723343) ![](assets/new.png)  
 - [2020-11-09-二笔-mvnrepository-CAPTCHA](https://www.v2ex.com/t/723342) ![](assets/new.png)  
 - [2020-11-09-11promax-都去哪里了？](https://www.v2ex.com/t/723341) ![](assets/new.png)  
 - [2020-11-09-想了解下国内-SRE-发展前景，转后端容易吗？](https://www.v2ex.com/t/723340) ![](assets/new.png)  
@@ -547,12 +553,6 @@
 - [2020-11-09-双十一给父母换什么手机？](https://www.v2ex.com/t/723328) ![](assets/new.png)  
 - [2020-11-09-有没有前面有-PCI-扩展位的机箱](https://www.v2ex.com/t/723327) ![](assets/new.png)  
 - [2020-11-09-萌新问个-Goroutine-问题](https://www.v2ex.com/t/723326) ![](assets/new.png)  
-- [2020-11-09-出海公司都是怎么访问国际网络的？](https://www.v2ex.com/t/723325) ![](assets/new.png)  
-- [2020-11-09-国内大厂的安卓-APP-都是以当年旗舰机的性能标准开发的吗？](https://www.v2ex.com/t/723323) ![](assets/new.png)  
-- [2020-11-09-寻找一名或多名硬件开发的-V-友，最好常驻杭州](https://www.v2ex.com/t/723322) ![](assets/new.png)  
-- [2020-11-09-请教下，如何实现-iOS-微信后台的未读消息标记在-PC-版微信消息已读后自动消失](https://www.v2ex.com/t/723321) ![](assets/new.png)  
-- [2020-11-09-两个月前搞了一个网址导航，现在日-uv-仍在-2-位数徘徊，好期待上-3-位数](https://www.v2ex.com/t/723320) ![](assets/new.png)  
-- [2020-11-09-Rails-new-命令一直转圈怎么办？](https://www.v2ex.com/t/723318) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

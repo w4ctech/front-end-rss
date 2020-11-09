@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-09 14:13:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 14:23:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -57,6 +57,7 @@
 
 
 
+- [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [【掘金前端】vue-vnode-到真实DOM是如何转化的？](https://juejin.im/post/6893095521154990088)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [......【查看更多】......](./details/tags/vue.md)
@@ -296,6 +297,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://m.china.caixin.com/m/2020-02-20/101518002.html)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【开发者头条】MySQL-数据库优化二三事](https://toutiao.io/k/cixogzw)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -370,7 +373,6 @@
 
 
 
-- [【V2EX】Rsync-搭建小成本灾备系统,遇到个诡异问题求助docker-搭建多站点](https://www.v2ex.com/t/723330)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -388,6 +390,7 @@
 
 
 - [【技术头条】GitHub-上值得收藏的-100-个精选前端项目！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZighOOn2a_f2gYCGR2LBCQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [【安全热点】GitHub-上-25-个-Python-学习资源,墙裂推荐!](https://sec.thief.one/article_content?a_id=9f26c4fe5d13f1fbb5c3287f6fcf8d37)
 - [【安全热点】GitHub:请再给我2天修复漏洞-谷歌:已经给你104天了](https://sec.thief.one/article_content?a_id=ff3cd9fc57451037e582824f9ea05c91)
 - [【安全热点】GitHub:我开源我自己;CEO:不存在的](https://sec.thief.one/article_content?a_id=9ec20be9f5ebe6d66612d3812ca278d8)
@@ -411,9 +414,9 @@
 - [【V2EX】面试的时候怎么判断面试者是不是速成的？](https://www.v2ex.com/t/723369)
 - [【V2EX】美团社招服务体验研发中心招聘前端火热进行中，坐标厦门，感兴趣的小伙伴赶紧看过来。](https://www.v2ex.com/t/723364)
 - [【V2EX】美团上海招聘啦^^^基础研发平台-前端技术专家](https://www.v2ex.com/t/723359)
-- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
+- [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

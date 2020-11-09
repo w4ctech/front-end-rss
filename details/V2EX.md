@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-09 14:23:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 14:33:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-09-先探探底，关于去上海发展](https://www.v2ex.com/t/723384) 
+- [2020-11-09-也不急着上-Big-Sur，可以把正式版的小-bug-修一下吗？](https://www.v2ex.com/t/723383) 
+- [2020-11-09-内推社招EMC965上海分布式对象存储/流式大数据处理平台](https://www.v2ex.com/t/723382) 
 - [2020-11-09-新房想做智能家居，有哪些需要注意的地方？](https://www.v2ex.com/t/723377) 
 - [2020-11-09-关于购买-iPad-pro](https://www.v2ex.com/t/723376) 
 - [2020-11-09-预言一波，-11-号发布-Arm-版-MAC12-寸，支持触摸屏。](https://www.v2ex.com/t/723375) 
@@ -40,8 +43,3 @@
 - [2020-11-09-想了解下国内-SRE-发展前景，转后端容易吗？](https://www.v2ex.com/t/723340) 
 - [2020-11-09-出-Little-Snitch5-防火墙激活码一份](https://www.v2ex.com/t/723339) 
 - [2020-11-09-Ingress-可以判断某个域名的请求拒绝掉？](https://www.v2ex.com/t/723338) 
-- [2020-11-09-老哥们，帮忙看看这装机配置如何](https://www.v2ex.com/t/723335) 
-- [2020-11-09-DELL-U2720Q-vs-U2720QM-选哪个](https://www.v2ex.com/t/723334) 
-- [2020-11-09-快手-北京/深圳/杭州/上海，客户端/后台/前端/测试/设计产品等，都可以内推](https://www.v2ex.com/t/723333) 
-- [2020-11-09-IQUNIX-L80-到手](https://www.v2ex.com/t/723332) 
-- [2020-11-09-Any-a-good-game-mouse-equipment？-Which-brand-is-the-best？](https://www.v2ex.com/t/723331) 

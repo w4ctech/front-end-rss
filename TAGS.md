@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-09 14:23:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 14:33:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -414,9 +414,8 @@
 - [【V2EX】面试的时候怎么判断面试者是不是速成的？](https://www.v2ex.com/t/723369)
 - [【V2EX】美团社招服务体验研发中心招聘前端火热进行中，坐标厦门，感兴趣的小伙伴赶紧看过来。](https://www.v2ex.com/t/723364)
 - [【V2EX】美团上海招聘啦^^^基础研发平台-前端技术专家](https://www.v2ex.com/t/723359)
-- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
-- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-好的自我介绍，面试成功一大半](https://toutiao.io/k/lpyu6km)
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

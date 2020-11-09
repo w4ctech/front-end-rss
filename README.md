@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 02:04:41，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 02:14:25，:rocket: 更新条数: +3277， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,8 +553,14 @@
 </summary>
 
 
+- [2020-11-09-突然就快高血压了](https://www.v2ex.com/t/723087) ![](assets/new.png)  
+- [2020-11-09-不相干的工作经历是否需要写简历](https://www.v2ex.com/t/723086) ![](assets/new.png)  
+- [2020-11-09-闲鱼工单，来领-BUG-了](https://www.v2ex.com/t/723085) ![](assets/new.png)  
+- [2020-11-09-腾讯-Lighthouse-和-cvm-有啥区别？-我已经注册了账号。怎么看我是被谁邀请的。](https://www.v2ex.com/t/723084) ![](assets/new.png)  
+- [2020-11-09-请问-Windows-下有办法映射挂载腾讯云的对象存储吗](https://www.v2ex.com/t/723081) ![](assets/new.png)  
+- [2020-11-09-假如公司不提供工作电脑（每月有电脑补贴），你会用自己现有电脑还是专门租一个工作电脑？](https://www.v2ex.com/t/723080) ![](assets/new.png)  
 - [2020-11-09-有没有哪家公司不修福报，不搞团建，不搞分享的，薪水还-OK，做完自己的事情就行了那种？](https://www.v2ex.com/t/723079) ![](assets/new.png)  
-- [2020-11-09-cli-界面的有道词典，配合-dmenu-做到类似划词翻译的效果](https://www.v2ex.com/t/723078) ![](assets/new.png)  
+- [2020-11-09-cli-界面的有道词典，支持发声，配合-dmenu-做到类似划词翻译的效果](https://www.v2ex.com/t/723078) ![](assets/new.png)  
 - [2020-11-09-求问安卓上支持双击屏幕快进或快退的本地播放器](https://www.v2ex.com/t/723077) ![](assets/new.png)  
 - [2020-11-09-mysql-decimal-类型的统计的问题](https://www.v2ex.com/t/723076) ![](assets/new.png)  
 - [2020-11-09-想注册一个公司，一杯咖啡求个好玩的名字。](https://www.v2ex.com/t/723074) ![](assets/new.png)  
@@ -567,12 +573,6 @@
 - [2020-11-09-无锡微软-VS-深圳腾讯](https://www.v2ex.com/t/723065) ![](assets/new.png)  
 - [2020-11-09-昨天晚上做的梦，差点没有把我送走！](https://www.v2ex.com/t/723064) ![](assets/new.png)  
 - [2020-11-09-现在国区-paypal-还有少手续费提现的方式吗](https://www.v2ex.com/t/723063) ![](assets/new.png)  
-- [2020-11-09-专门打新股的买什么类型股票好？](https://www.v2ex.com/t/723062) ![](assets/new.png)  
-- [2020-11-09-腾讯-社招-c++后端-年后入职-支付系统--清算业务开发工程师](https://www.v2ex.com/t/723061) ![](assets/new.png)  
-- [2020-11-09-500-元以内非语音助手的蓝牙音箱推荐?](https://www.v2ex.com/t/723060) ![](assets/new.png)  
-- [2020-11-09-双-11-了，有啥性价比高的移动硬盘可以入手吗](https://www.v2ex.com/t/723058) ![](assets/new.png)  
-- [2020-11-09-社招-美资大数据外企-前端/大数据研发](https://www.v2ex.com/t/723057) ![](assets/new.png)  
-- [2020-11-09-iOS-app-经过编辑已经支持-macOS-11-了诶，-App-Store-大量上架](https://www.v2ex.com/t/723056) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -620,21 +620,21 @@
 - [2020-11-09-少侠留步，请收下这份前端开发自学资料](https://toutiao.io/k/50z7koh) ![](assets/new.png)  
 - [2020-11-09-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [2020-11-09-看-Kubernetes-源码，学习怎么用-Go-实现调度队列](https://toutiao.io/k/nxdtyt5) ![](assets/new.png)  
-- [2020-11-09-小议缓冲区溢出](https://toutiao.io/k/7zwlat4) ![](assets/new.png)  
 - [2020-11-09-应用编译，计算机中一定要掌握的知识细节](https://toutiao.io/k/n9jrq0b) ![](assets/new.png)  
+- [2020-11-09-小议缓冲区溢出](https://toutiao.io/k/7zwlat4) ![](assets/new.png)  
 - [2020-11-09-译-深入理解-Dart-空安全](https://toutiao.io/k/i1hdmsn) ![](assets/new.png)  
 - [2020-11-09-深度揭秘垃圾回收底层，这次让你彻底弄懂她](https://toutiao.io/k/1voloks) ![](assets/new.png)  
 - [2020-11-09-下下下一代防火墙关键技术漫谈](https://toutiao.io/k/e47mwf1) ![](assets/new.png)  
 - [2020-11-09-实战：自己动手编译-JDK](https://toutiao.io/k/i7e8oql) ![](assets/new.png)  
 - [2020-11-09-那些有趣/实用的-Chrome-扩展神器](https://toutiao.io/k/zpqzx3u) ![](assets/new.png)  
-- [2020-11-09-漫画：讲解一下如何写简历-&-项目](https://toutiao.io/k/s8m0gth) ![](assets/new.png)  
 - [2020-11-09-一步步拆解解决-Elasticsearch-检索模板问题](https://toutiao.io/k/ahv868l) ![](assets/new.png)  
+- [2020-11-09-漫画：讲解一下如何写简历-&-项目](https://toutiao.io/k/s8m0gth) ![](assets/new.png)  
 - [2020-11-09-Java-线程池实现原理](https://toutiao.io/k/5tsolk6) ![](assets/new.png)  
 - [2020-11-09-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-09-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-09-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-09-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-09-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-09-QQ音乐-Android-编译提速之路](https://toutiao.io/k/pdi5skj) ![](assets/new.png)  
+- [2020-11-09-Flutter-源码剖析（二）：源码的阅读与调试环境配置](https://toutiao.io/k/k6uujp2) ![](assets/new.png)  
+- [2020-11-09-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-09-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 09:03:54，:rocket: 更新条数: +3050， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 09:12:35，:rocket: 更新条数: +3050， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-09-Api-Boot-框架：-为-Spring-Boot-提供组件化服务](https://www.v2ex.com/t/723279) ![](assets/new.png)  
+- [2020-11-09-深圳电信现在都这么黑了吗？已入户的光纤，重新安装一下就要-399？？](https://www.v2ex.com/t/723278) ![](assets/new.png)  
 - [2020-11-09-如果推出一款盲游产品，你会支持吗？](https://www.v2ex.com/t/723276) ![](assets/new.png)  
 - [2020-11-09-月租低的联通卡有推荐的吗](https://www.v2ex.com/t/723275) ![](assets/new.png)  
 - [2020-11-09-小道消息说，浦东机场附近有疫情，官方还没宣布](https://www.v2ex.com/t/723273) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-09-感觉电脑看多了，眼镜不舒服，有大佬推荐眼镜嘛](https://www.v2ex.com/t/723256) ![](assets/new.png)  
 - [2020-11-09-有朋友在-gitee-pages-用-hexo-搭建博客的吗？请问怎么被百度收录？](https://www.v2ex.com/t/723255) ![](assets/new.png)  
 - [2020-11-09-关于联通哔哩哔哩-22-元套餐不免流哔哩哔哩的发现……](https://www.v2ex.com/t/723254) ![](assets/new.png)  
-- [2020-11-09-录屏大师——Bandicam，优惠券在这里](https://www.v2ex.com/t/723253) ![](assets/new.png)  
-- [2020-11-09-ios-rtsp-ts/mp3](https://www.v2ex.com/t/723252) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

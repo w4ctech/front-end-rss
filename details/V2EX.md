@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-09 14:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 14:13:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-09-新房想做智能家居，有哪些需要注意的地方？](https://www.v2ex.com/t/723377) 
+- [2020-11-09-关于购买-iPad-pro](https://www.v2ex.com/t/723376) 
 - [2020-11-09-预言一波，-11-号发布-Arm-版-MAC12-寸，支持触摸屏。](https://www.v2ex.com/t/723375) 
 - [2020-11-09-救命！-mbp-16-内置麦克风消失](https://www.v2ex.com/t/723374) 
 - [2020-11-09-Excel-VSTO-插件项目寻求技术大佬合作](https://www.v2ex.com/t/723372) 
@@ -45,5 +47,3 @@
 - [2020-11-09-Any-a-good-game-mouse-equipment？-Which-brand-is-the-best？](https://www.v2ex.com/t/723331) 
 - [2020-11-09-Rsync-搭建小成本灾备系统,遇到个诡异问题求助docker-搭建多站点](https://www.v2ex.com/t/723330) 
 - [2020-11-09-双十一给父母换什么手机？](https://www.v2ex.com/t/723328) 
-- [2020-11-09-有没有前面有-PCI-扩展位的机箱](https://www.v2ex.com/t/723327) 
-- [2020-11-09-萌新问个-Goroutine-问题](https://www.v2ex.com/t/723326) 

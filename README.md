@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 15:39:45，:rocket: 更新条数: +3010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 15:45:38，:rocket: 更新条数: +3048， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-09-官网-7-折-双十一-Parallels-Desktop-7-折活动开始啦](https://www.v2ex.com/t/723405) ![](assets/new.png)  
+- [2020-11-09-Net-Neutrality-在中国](https://www.v2ex.com/t/723403) ![](assets/new.png)  
+- [2020-11-09-今天放出超大杯超小杯-iPhone-12-的评测了](https://www.v2ex.com/t/723402) ![](assets/new.png)  
+- [2020-11-09-iPhone12-mini-续航测试出来了](https://www.v2ex.com/t/723401) ![](assets/new.png)  
+- [2020-11-09-救命，关于-Github-桌面-win10-版报错问题](https://www.v2ex.com/t/723400) ![](assets/new.png)  
+- [2020-11-09-现在山东移动还能改什么实惠的套餐？](https://www.v2ex.com/t/723399) ![](assets/new.png)  
+- [2020-11-09-不懂就问：这个-dll-哪位大神能够反编译出来](https://www.v2ex.com/t/723398) ![](assets/new.png)  
+- [2020-11-09-微软（上海）AME-团队招聘啦！](https://www.v2ex.com/t/723396) ![](assets/new.png)  
+- [2020-11-09-请教运维大佬：-jenkins-部署-jar-包到应用服务器的问题](https://www.v2ex.com/t/723395) ![](assets/new.png)  
+- [2020-11-09-有一个-offer-不知该不该接](https://www.v2ex.com/t/723394) ![](assets/new.png)  
+- [2020-11-09-使用-nestjs-应该如何划分项目？](https://www.v2ex.com/t/723391) ![](assets/new.png)  
+- [2020-11-09-mbp-外接了两个显示器-有办法单独让第二个显示器显示屏保-第一个显示器依然在工作呢？](https://www.v2ex.com/t/723390) ![](assets/new.png)  
+- [2020-11-09-549-的-4K-屏靠谱？群创啥实力](https://www.v2ex.com/t/723389) ![](assets/new.png)  
+- [2020-11-09-求一个魔法网站](https://www.v2ex.com/t/723388) ![](assets/new.png)  
+- [2020-11-09-圈子很小，简历和经历真的一定要诚实！](https://www.v2ex.com/t/723387) ![](assets/new.png)  
+- [2020-11-09-先探探底，关于去上海发展](https://www.v2ex.com/t/723384) ![](assets/new.png)  
+- [2020-11-09-也不急着上-Big-Sur，可以把正式版的小-bug-修一下吗？](https://www.v2ex.com/t/723383) ![](assets/new.png)  
+- [2020-11-09-内推社招EMC965上海分布式对象存储/流式大数据处理平台](https://www.v2ex.com/t/723382) ![](assets/new.png)  
+- [2020-11-09-新房想做智能家居，有哪些需要注意的地方？](https://www.v2ex.com/t/723377) ![](assets/new.png)  
+- [2020-11-09-关于购买-iPad-pro](https://www.v2ex.com/t/723376) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

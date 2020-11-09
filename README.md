@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 01:06:00，:rocket: 更新条数: +3263， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 01:14:17，:rocket: 更新条数: +3261， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,6 @@
 </summary>
 
 
-- [2020-11-07-最新疫情：全国新冠累计确诊86212例-境外输入新增28例](https://m.caixin.com/m/2020-11-08/101624489.html) ![](assets/new.png)  
 - [2020-11-07-天津新增1例本地新冠肺炎确诊病例-系此前核酸检测阳性装卸工人](https://m.caixin.com/m/2020-11-08/101624438.html) ![](assets/new.png)  
 - [2020-11-07-最新海外疫情：新冠感染近4978万-累计死亡超124万](https://m.caixin.com/m/2020-11-08/101624493.html) ![](assets/new.png)  
 - [2020-11-07-【境内疫情观察】全国新增28例境外输入病例（11月7日）](http://m.database.caixin.com/m/2020-11-08/101624448.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) ![](assets/new.png)  
 - [2020-11-01-【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html) ![](assets/new.png)  
 - [2020-11-01-大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html) ![](assets/new.png)  
+- [2020-10-31-【境内疫情观察】新疆新增61例无症状感染者（10月31日）](http://m.database.caixin.com/m/2020-11-01/101621241.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-09-阿根廷新冠肺炎治愈率超85%-首都各级学校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirAFm3jtjdOp0cg669m4n201109&isfromapp=1) ![](assets/new.png)  
+- [2020-11-09-国家卫健委：8日新增境外输入新冠肺炎确诊病例33例-本土病例1例（在天津）](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZj3m5AAy7kbL1P3u3NaW201109&isfromapp=1) ![](assets/new.png)  
 - [2020-11-08-​意大利内政部：一天内有110名新冠病毒感染者因违反隔离规定出行被起诉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTlMCZRAWn4wZogFXltoO201109&isfromapp=1) ![](assets/new.png)  
 - [2020-11-08-意大利连续5天单日新增确诊超3万例-外科医生协会要求实施全面封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNG9PhcoyovsWMOld4JFx201109&isfromapp=1) ![](assets/new.png)  
 - [2020-11-08-​秘鲁累计确诊病例逾92万例-将全面禁止私家车上路及组织聚会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4bvMoVayXMTHmAUx1Bju201109&isfromapp=1) ![](assets/new.png)  
-- [2020-11-08-奥地利单日新增5933例确诊病例-卫生部长称或将再次收紧防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwt6jpaaCQEI2IPspLxgM201109&isfromapp=1) ![](assets/new.png)  
-- [2020-11-08-秘鲁卫生部：新冠肺炎累计确诊逾92万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6kwT6VdhlzedqNPcyGUJ201108&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-09-头发这么多头皮屑，怎么解决？](https://www.v2ex.com/t/723053) ![](assets/new.png)  
+- [2020-11-09-非推销，就想问下印象-5-年大促各位的看法](https://www.v2ex.com/t/723051) ![](assets/new.png)  
 - [2020-11-09-10.15.7-出了一个补充更新，不知道修复了-MRT-CPU-占用问题没？](https://www.v2ex.com/t/723048) ![](assets/new.png)  
 - [2020-11-09-回馈论坛｜海外兔抽奖](https://www.v2ex.com/t/723047) ![](assets/new.png)  
 - [2020-11-09-iPhone-快捷指令能做到熄屏后-10-分钟关闭-APP-吗？](https://www.v2ex.com/t/723046) ![](assets/new.png)  
@@ -567,12 +569,10 @@
 - [2020-11-08-iSH-Shell-下架-App-Store](https://www.v2ex.com/t/723037) ![](assets/new.png)  
 - [2020-11-08-Oracle-那里薅的羊毛用不了](https://www.v2ex.com/t/723036) ![](assets/new.png)  
 - [2020-11-08-好奇-telegram-是如何实现保存聊天记录的，存在服务器上？](https://www.v2ex.com/t/723035) ![](assets/new.png)  
-- [2020-11-08-Pear-Admin-Layui-基于-Layui-的后台管理模板](https://www.v2ex.com/t/723032) ![](assets/new.png)  
+- [2020-11-08-Pear-Admin-Layui-基于-Layui-的后台管理框架](https://www.v2ex.com/t/723033) ![](assets/new.png)  
 - [2020-11-08-敢问大佬们是如何处理多对多关系的](https://www.v2ex.com/t/723031) ![](assets/new.png)  
 - [2020-11-08-感觉-AMD-的文档和资料比-Intel-少多了](https://www.v2ex.com/t/723030) ![](assets/new.png)  
 - [2020-11-08-cpu-在默频下，风冷和一体水冷差距大吗？](https://www.v2ex.com/t/723029) ![](assets/new.png)  
-- [2020-11-08-骁龙-765g-支持-wifi6-么](https://www.v2ex.com/t/723028) ![](assets/new.png)  
-- [2020-11-08-🔥🔥🔥-新加坡-Shopee-直招-招资深云原生平台开发工程师，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/723026) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,16 +625,16 @@
 - [2020-11-09-深度揭秘垃圾回收底层，这次让你彻底弄懂她](https://toutiao.io/k/1voloks) ![](assets/new.png)  
 - [2020-11-09-应用编译，计算机中一定要掌握的知识细节](https://toutiao.io/k/n9jrq0b) ![](assets/new.png)  
 - [2020-11-09-下下下一代防火墙关键技术漫谈](https://toutiao.io/k/e47mwf1) ![](assets/new.png)  
-- [2020-11-09-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-09-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-09-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-09-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
 - [2020-11-09-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-09-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-09-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-09-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-09-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
 - [2020-11-09-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-09-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-09-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-09-推荐-万亿级数据应该怎么迁移？](https://toutiao.io/k/qk70u1x) ![](assets/new.png)  
+- [2020-11-09-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-09-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-09-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-09-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-09-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

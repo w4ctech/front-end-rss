@@ -5,11 +5,6 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "最新疫情：全国新冠累计确诊86212例 境外输入新增28例",
-        "link": "https://m.caixin.com/m/2020-11-08/101624489.html",
-        "date": "2020-11-07"
-      },
-      {
         "title": "天津新增1例本地新冠肺炎确诊病例 系此前核酸检测阳性装卸工人",
         "link": "https://m.caixin.com/m/2020-11-08/101624438.html",
         "date": "2020-11-07"
@@ -13952,6 +13947,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "阿根廷新冠肺炎治愈率超85% 首都各级学校复课",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirAFm3jtjdOp0cg669m4n201109&isfromapp=1",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "国家卫健委：8日新增境外输入新冠肺炎确诊病例33例 本土病例1例（在天津）",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZj3m5AAy7kbL1P3u3NaW201109&isfromapp=1",
+        "date": "2020-11-09"
+      },
+      {
         "title": "​意大利内政部：一天内有110名新冠病毒感染者因违反隔离规定出行被起诉",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTlMCZRAWn4wZogFXltoO201109&isfromapp=1",
         "date": "2020-11-08"
@@ -13964,16 +13969,6 @@
       {
         "title": "​秘鲁累计确诊病例逾92万例 将全面禁止私家车上路及组织聚会",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4bvMoVayXMTHmAUx1Bju201109&isfromapp=1",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "奥地利单日新增5933例确诊病例 卫生部长称或将再次收紧防疫措施",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwt6jpaaCQEI2IPspLxgM201109&isfromapp=1",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "秘鲁卫生部：新冠肺炎累计确诊逾92万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6kwT6VdhlzedqNPcyGUJ201108&isfromapp=1",
         "date": "2020-11-08"
       }
     ]
@@ -15649,6 +15644,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "头发这么多头皮屑，怎么解决？",
+        "link": "https://www.v2ex.com/t/723053",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "非推销，就想问下印象 5 年大促各位的看法",
+        "link": "https://www.v2ex.com/t/723051",
+        "date": "2020-11-09"
+      },
+      {
         "title": "10.15.7 出了一个补充更新，不知道修复了 MRT CPU 占用问题没？",
         "link": "https://www.v2ex.com/t/723048",
         "date": "2020-11-09"
@@ -15719,8 +15724,8 @@
         "date": "2020-11-08"
       },
       {
-        "title": "Pear Admin Layui 基于 Layui 的后台管理模板",
-        "link": "https://www.v2ex.com/t/723032",
+        "title": "Pear Admin Layui 基于 Layui 的后台管理框架",
+        "link": "https://www.v2ex.com/t/723033",
         "date": "2020-11-08"
       },
       {
@@ -15801,21 +15806,6 @@
       {
         "title": "团队没有产品经理也没有负责用户和技术之间的同事要怎么沟通",
         "link": "https://www.v2ex.com/t/723005",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "Jetbrains 的 IDE，有计划出手机版 APP 吗？",
-        "link": "https://www.v2ex.com/t/723004",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "关于 AS4809 的路由",
-        "link": "https://www.v2ex.com/t/723003",
-        "date": "2020-11-08"
-      },
-      {
-        "title": "SDL 中如何调用一个能输入文本的对话框",
-        "link": "https://www.v2ex.com/t/723001",
         "date": "2020-11-08"
       }
     ]
@@ -15983,6 +15973,51 @@
         "date": "2020-11-09"
       },
       {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 万亿级数据应该怎么迁移？",
+        "link": "https://toutiao.io/k/qk70u1x",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-09"
+      },
+      {
         "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
         "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-09"
@@ -15993,23 +16028,8 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-09"
       },
       {
@@ -16018,43 +16038,13 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
-        "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 图解常见的九种设计模式",
-        "link": "https://toutiao.io/k/pjsjgsi",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-09"
-      },
-      {
         "title": "[推荐] 好的自我介绍，面试成功一大半",
         "link": "https://toutiao.io/k/lpyu6km",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-09"
-      },
-      {
         "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
         "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-09"
       }
     ]

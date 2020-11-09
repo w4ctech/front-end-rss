@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-09 01:06:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 01:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-09-头发这么多头皮屑，怎么解决？](https://www.v2ex.com/t/723053) 
+- [2020-11-09-非推销，就想问下印象-5-年大促各位的看法](https://www.v2ex.com/t/723051) 
 - [2020-11-09-10.15.7-出了一个补充更新，不知道修复了-MRT-CPU-占用问题没？](https://www.v2ex.com/t/723048) 
 - [2020-11-09-回馈论坛｜海外兔抽奖](https://www.v2ex.com/t/723047) 
 - [2020-11-09-iPhone-快捷指令能做到熄屏后-10-分钟关闭-APP-吗？](https://www.v2ex.com/t/723046) 
@@ -19,7 +21,7 @@
 - [2020-11-08-iSH-Shell-下架-App-Store](https://www.v2ex.com/t/723037) 
 - [2020-11-08-Oracle-那里薅的羊毛用不了](https://www.v2ex.com/t/723036) 
 - [2020-11-08-好奇-telegram-是如何实现保存聊天记录的，存在服务器上？](https://www.v2ex.com/t/723035) 
-- [2020-11-08-Pear-Admin-Layui-基于-Layui-的后台管理模板](https://www.v2ex.com/t/723032) 
+- [2020-11-08-Pear-Admin-Layui-基于-Layui-的后台管理框架](https://www.v2ex.com/t/723033) 
 - [2020-11-08-敢问大佬们是如何处理多对多关系的](https://www.v2ex.com/t/723031) 
 - [2020-11-08-感觉-AMD-的文档和资料比-Intel-少多了](https://www.v2ex.com/t/723030) 
 - [2020-11-08-cpu-在默频下，风冷和一体水冷差距大吗？](https://www.v2ex.com/t/723029) 
@@ -36,6 +38,3 @@
 - [2020-11-08-求微信上可用的工单系统，派单抢单跟踪统计功能](https://www.v2ex.com/t/723011) 
 - [2020-11-08-有什么好的开源的-go-语言的后端框架，用来做游戏的后端服务器用的](https://www.v2ex.com/t/723008) 
 - [2020-11-08-团队没有产品经理也没有负责用户和技术之间的同事要怎么沟通](https://www.v2ex.com/t/723005) 
-- [2020-11-08-Jetbrains-的-IDE，有计划出手机版-APP-吗？](https://www.v2ex.com/t/723004) 
-- [2020-11-08-关于-AS4809-的路由](https://www.v2ex.com/t/723003) 
-- [2020-11-08-SDL-中如何调用一个能输入文本的对话框](https://www.v2ex.com/t/723001) 

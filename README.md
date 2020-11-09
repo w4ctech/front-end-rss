@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 16:47:12，:rocket: 更新条数: +3048， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 16:57:05，:rocket: 更新条数: +3048， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-09-请问怎么提取图片艺术文字？或者有什么英文艺术字体网站推荐？](https://www.v2ex.com/t/723413) ![](assets/new.png)  
 - [2020-11-09-我在找一个这样的-app](https://www.v2ex.com/t/723412) ![](assets/new.png)  
 - [2020-11-09-话说山东联通今年双-11-会有千兆宽带优惠吗](https://www.v2ex.com/t/723411) ![](assets/new.png)  
 - [2020-11-09-香港本地社区网上购物商城项目开发团队组建-招前、后端，-App-开发人员。可组团，待遇好说。](https://www.v2ex.com/t/723409) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-09-使用-nestjs-应该如何划分项目？](https://www.v2ex.com/t/723391) ![](assets/new.png)  
 - [2020-11-09-mbp-外接了两个显示器-有办法单独让第二个显示器显示屏保-第一个显示器依然在工作呢？](https://www.v2ex.com/t/723390) ![](assets/new.png)  
 - [2020-11-09-549-的-4K-屏靠谱？群创啥实力](https://www.v2ex.com/t/723389) ![](assets/new.png)  
-- [2020-11-09-求一个魔法网站](https://www.v2ex.com/t/723388) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

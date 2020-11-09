@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 10:41:15，:rocket: 更新条数: +3277， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 10:48:35，:rocket: 更新条数: +3047， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -376,26 +376,6 @@
 </summary>
 
 
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +533,9 @@
 </summary>
 
 
+- [2020-11-09-Rails-new-命令一直转圈怎么办？](https://www.v2ex.com/t/723318) ![](assets/new.png)  
+- [2020-11-09-端口为-12345-的-italk-chat-system-是啥服务](https://www.v2ex.com/t/723317) ![](assets/new.png)  
+- [2020-11-09-iPad-上，我删除了谷歌-app、youtube、只剩下苹果自带的-app，今天重新安装了谷歌-app、youtube，它居然可以识别我的账号，我点击就直接登录了，是什么原理？](https://www.v2ex.com/t/723316) ![](assets/new.png)  
 - [2020-11-09-PayPal-上海内推全球顶级风控团队，-Java-/大数据/全栈/大客户技术支持等职位火热招聘中！](https://www.v2ex.com/t/723315) ![](assets/new.png)  
 - [2020-11-09-旅游咨询11-月下旬的千岛湖度假有什么好去处](https://www.v2ex.com/t/723314) ![](assets/new.png)  
 - [2020-11-09-2020-年你觉得买的最值的三个东西是啥？](https://www.v2ex.com/t/723313) ![](assets/new.png)  
@@ -570,9 +553,6 @@
 - [2020-11-09-有甚麼好用的網站託管啊](https://www.v2ex.com/t/723298) ![](assets/new.png)  
 - [2020-11-09-深圳-Wisers-慧科-外资，大数据+AI，可经常远程办公，-20-40K/月，招聘-React-前端开发-.](https://www.v2ex.com/t/723297) ![](assets/new.png)  
 - [2020-11-09-气死了，硕士因为专科经历-HR-面被挂](https://www.v2ex.com/t/723296) ![](assets/new.png)  
-- [2020-11-09-自从教会了老人用微信，被微信里各种谣言骗来骗去，怎么办](https://www.v2ex.com/t/723295) ![](assets/new.png)  
-- [2020-11-09-公开课-双-11-秒杀系统，是如何设计的？](https://www.v2ex.com/t/723293) ![](assets/new.png)  
-- [2020-11-09-不懂就问！关于-Python-爬虫-部署](https://www.v2ex.com/t/723292) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

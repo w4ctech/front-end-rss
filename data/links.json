@@ -13962,6 +13962,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "受疫情冲击 3至9月马来西亚超3万家企业倒闭",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigHUoywvvtDnUluQa277T201109&isfromapp=1",
+        "date": "2020-11-09"
+      },
+      {
         "title": "墨西哥新冠肺炎确诊病例累计967825例 死亡95027例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib8Qy5hujEIY13fdpkgqj201109&isfromapp=1",
         "date": "2020-11-09"
@@ -13980,11 +13985,6 @@
         "title": "国家卫健委：8日新增境外输入新冠肺炎确诊病例33例 本土病例1例（在天津）",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZj3m5AAy7kbL1P3u3NaW201109&isfromapp=1",
         "date": "2020-11-09"
-      },
-      {
-        "title": "​意大利内政部：一天内有110名新冠病毒感染者因违反隔离规定出行被起诉",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTlMCZRAWn4wZogFXltoO201109&isfromapp=1",
-        "date": "2020-11-08"
       }
     ]
   },
@@ -14291,13 +14291,13 @@
         "date": "2020-11-08"
       },
       {
-        "title": "SVGA在前端方面的使用",
-        "link": "https://juejin.im/post/6892996067315580941",
+        "title": "Hik 前端周刊｜第 1 期",
+        "link": "https://juejin.im/post/6892996798202576903",
         "date": "2020-11-08"
       },
       {
-        "title": "前端性能优化 24 条建议（2020）",
-        "link": "https://juejin.im/post/6892994632968306702",
+        "title": "SVGA在前端方面的使用",
+        "link": "https://juejin.im/post/6892996067315580941",
         "date": "2020-11-08"
       },
       {
@@ -14493,6 +14493,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "买云服务器还是树莓派好",
+        "link": "https://www.v2ex.com/t/723201",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "做了一个癖好分享社区,欢迎大家提意见",
+        "link": "https://www.v2ex.com/t/723200",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "拼爹爹买AirPods Pro 1299 但需要助力 95 个人。朋友不多怎么拉助力？",
+        "link": "https://www.v2ex.com/t/723199",
+        "date": "2020-11-09"
+      },
+      {
         "title": "迫于久坐导致腰间盘突出..求推荐椅子桌子...",
         "link": "https://www.v2ex.com/t/723197",
         "date": "2020-11-09"
@@ -14610,16 +14625,6 @@
       {
         "title": "勇者传说 ol，勇者斗斗龙有没有认识这两款网游的网友",
         "link": "https://www.v2ex.com/t/723152",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "腾讯云的这个轻量应用服务器流量包我是真心没看懂",
-        "link": "https://www.v2ex.com/t/723150",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "新天地 黄陂南路附近没食堂的朋友都去哪吃午饭？",
-        "link": "https://www.v2ex.com/t/723148",
         "date": "2020-11-09"
       }
     ]
@@ -14837,53 +14842,18 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
-        "link": "https://toutiao.io/k/rxo1rll",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-09"
-      },
-      {
         "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
         "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-09"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-09"
       },
       {
@@ -14892,8 +14862,18 @@
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] 好的自我介绍，面试成功一大半",
-        "link": "https://toutiao.io/k/lpyu6km",
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-09"
       },
       {
@@ -14902,13 +14882,38 @@
         "date": "2020-11-09"
       },
       {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
+        "link": "https://toutiao.io/k/utkv7cg",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "[推荐] 好的自我介绍，面试成功一大半",
+        "link": "https://toutiao.io/k/lpyu6km",
+        "date": "2020-11-09"
+      },
+      {
         "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
         "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-09"
       },
       {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-09"
       }
     ]

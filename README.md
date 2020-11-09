@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 06:28:17，:rocket: 更新条数: +3034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 06:33:54，:rocket: 更新条数: +3035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-09-受疫情冲击-3至9月马来西亚超3万家企业倒闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigHUoywvvtDnUluQa277T201109&isfromapp=1) ![](assets/new.png)  
 - [2020-11-09-墨西哥新冠肺炎确诊病例累计967825例-死亡95027例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib8Qy5hujEIY13fdpkgqj201109&isfromapp=1) ![](assets/new.png)  
 - [2020-11-09-巴西新冠肺炎确诊病例累计超566万例-病毒快速检测数量继续升高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3uWADpeABBwYdRFzPfHs201109&isfromapp=1) ![](assets/new.png)  
 - [2020-11-09-阿根廷新冠肺炎治愈率超85%-首都各级学校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirAFm3jtjdOp0cg669m4n201109&isfromapp=1) ![](assets/new.png)  
 - [2020-11-09-国家卫健委：8日新增境外输入新冠肺炎确诊病例33例-本土病例1例（在天津）](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZj3m5AAy7kbL1P3u3NaW201109&isfromapp=1) ![](assets/new.png)  
-- [2020-11-08-​意大利内政部：一天内有110名新冠病毒感染者因违反隔离规定出行被起诉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTlMCZRAWn4wZogFXltoO201109&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -454,8 +454,8 @@
 
 
 - [2020-11-08-一个实用的Chrome小工具：xTrace](https://juejin.im/post/6893004236594872334) ![](assets/new.png)  
+- [2020-11-08-Hik-前端周刊｜第-1-期](https://juejin.im/post/6892996798202576903) ![](assets/new.png)  
 - [2020-11-08-SVGA在前端方面的使用](https://juejin.im/post/6892996067315580941) ![](assets/new.png)  
-- [2020-11-08-前端性能优化-24-条建议（2020）](https://juejin.im/post/6892994632968306702) ![](assets/new.png)  
 - [2020-11-08-CSS-文本截断方法总结和原理分析](https://juejin.im/post/6892974106908557320) ![](assets/new.png)  
 - [2020-11-08-掘友福利｜参与活动MySQL书免费送了！](https://juejin.im/post/6892946746008305677) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-09-买云服务器还是树莓派好](https://www.v2ex.com/t/723201) ![](assets/new.png)  
+- [2020-11-09-做了一个癖好分享社区,欢迎大家提意见](https://www.v2ex.com/t/723200) ![](assets/new.png)  
+- [2020-11-09-拼爹爹买AirPods-Pro-1299-但需要助力-95-个人。朋友不多怎么拉助力？](https://www.v2ex.com/t/723199) ![](assets/new.png)  
 - [2020-11-09-迫于久坐导致腰间盘突出..求推荐椅子桌子...](https://www.v2ex.com/t/723197) ![](assets/new.png)  
 - [2020-11-09-Big-Sur-都-RC-了，怎么-Airpods-自动切换还是有问题呢](https://www.v2ex.com/t/723196) ![](assets/new.png)  
 - [2020-11-09-苹果官网-24-分期能用临时额度吗](https://www.v2ex.com/t/723195) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-09-为什么国内没有可以支持-FTP-或者可以网站备份的云盘呢！](https://www.v2ex.com/t/723162) ![](assets/new.png)  
 - [2020-11-09-自动化测试，登录态的问题](https://www.v2ex.com/t/723161) ![](assets/new.png)  
 - [2020-11-09-关于快捷指令](https://www.v2ex.com/t/723160) ![](assets/new.png)  
-- [2020-11-09-联通和电信有没有像移动无忧行的-APP，可以接管号码的短信和来电，然后我在-iPhone-上装个-APP-就能收到短信和来电？](https://www.v2ex.com/t/723159) ![](assets/new.png)  
-- [2020-11-09-Worktile-旗下智能化研发管理工具-PingCode-宣布-25-人以下免费](https://www.v2ex.com/t/723158) ![](assets/new.png)  
-- [2020-11-09-求助:-serverless-webrtc-chat-在-Firefox-下失败](https://www.v2ex.com/t/723156) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

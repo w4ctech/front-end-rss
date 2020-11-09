@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-09 06:48:29，:rocket: 更新条数: +3036， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-09 07:04:46，:rocket: 更新条数: +3040， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-11-08-11月8日全国新增新冠33例-本土天津1例](http://m.china.caixin.com/m/2020-11-09/101624561.html) ![](assets/new.png)  
+- [2020-11-08-【境内疫情观察】天津新增1例本土确诊病例（11月8日）](http://m.database.caixin.com/m/2020-11-09/101625051.html) ![](assets/new.png)  
 - [2020-11-08-大流行手记|11月8日：法国延长卫生紧急状态-英国近半教师不满校园防控举措](https://m.caixin.com/m/2020-11-09/101624597.html) ![](assets/new.png)  
 - [2020-11-08-聚焦|张文宏：何时迎接世界的重启](http://m.opinion.caixin.com/m/2020-11-09/101624998.html) ![](assets/new.png)  
 - [2020-11-07-天津新增1例本地新冠肺炎确诊病例-系此前核酸检测阳性装卸工人](https://m.caixin.com/m/2020-11-08/101624438.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-02-香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html) ![](assets/new.png)  
 - [2020-11-02-新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html) ![](assets/new.png)  
 - [2020-11-02-【境内疫情观察】全国新增44例境外输入病例（11月2日）](http://m.database.caixin.com/m/2020-11-03/101622339.html) ![](assets/new.png)  
-- [2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,15 @@
 </summary>
 
 
+- [2020-11-09-88vip-续费之后，那些已经绑定的会员直接续费，没有办法更改手机号了吗](https://www.v2ex.com/t/723219) ![](assets/new.png)  
+- [2020-11-09-求助万能的-V-友，品牌机的-Z370-主板怎么支持-9-代-CPU？](https://www.v2ex.com/t/723218) ![](assets/new.png)  
+- [2020-11-09-B-站有什么不错的编程-up-主/程序员-up-主吗？求推荐](https://www.v2ex.com/t/723217) ![](assets/new.png)  
+- [2020-11-09-服务单节点转为多节点有什么需要考虑的吗？](https://www.v2ex.com/t/723216) ![](assets/new.png)  
+- [2020-11-09-电商/直播速看！双-11-跑赢李佳琦就看这款单品了！](https://www.v2ex.com/t/723215) ![](assets/new.png)  
+- [2020-11-09-长沙招聘-万兴科技-图像算法/音频算法/AI-深度学习/推荐算法-20-35K*14-15-薪](https://www.v2ex.com/t/723214) ![](assets/new.png)  
+- [2020-11-09-Google-面试题：单词拆分-III（附代码优化思路）](https://www.v2ex.com/t/723213) ![](assets/new.png)  
+- [2020-11-09-当淫念产生时，我们如何克制和根除？](https://www.v2ex.com/t/723212) ![](assets/new.png)  
+- [2020-11-09-开源技术够用了么？我的-NAS-选型与搭建过程](https://www.v2ex.com/t/723211) ![](assets/new.png)  
 - [2020-11-09-解除劳动协议通知-怎么写？](https://www.v2ex.com/t/723209) ![](assets/new.png)  
 - [2020-11-09-腾讯云双-11-活动，新机-123-轻量-65-元/1-年起，续费-2-折起](https://www.v2ex.com/t/723208) ![](assets/new.png)  
 - [2020-11-09-求教一个-Python-统计数据的方法，多天统计人数最多最少时间段](https://www.v2ex.com/t/723207) ![](assets/new.png)  
@@ -544,15 +553,6 @@
 - [2020-11-09-买云服务器还是树莓派好](https://www.v2ex.com/t/723201) ![](assets/new.png)  
 - [2020-11-09-做了一个癖好分享社区,欢迎大家提意见](https://www.v2ex.com/t/723200) ![](assets/new.png)  
 - [2020-11-09-拼爹爹买AirPods-Pro-1299-但需要助力-95-个人。朋友不多怎么拉助力？](https://www.v2ex.com/t/723199) ![](assets/new.png)  
-- [2020-11-09-迫于久坐导致腰间盘突出..求推荐椅子桌子...](https://www.v2ex.com/t/723197) ![](assets/new.png)  
-- [2020-11-09-Big-Sur-都-RC-了，怎么-Airpods-自动切换还是有问题呢](https://www.v2ex.com/t/723196) ![](assets/new.png)  
-- [2020-11-09-苹果官网-24-分期能用临时额度吗](https://www.v2ex.com/t/723195) ![](assets/new.png)  
-- [2020-11-09-WebAssembly-能否重新定义前端开发模式？](https://www.v2ex.com/t/723193) ![](assets/new.png)  
-- [2020-11-09-记一件线下购物奇特经历](https://www.v2ex.com/t/723190) ![](assets/new.png)  
-- [2020-11-09-社招-互联网-滴滴地图增长产品专家](https://www.v2ex.com/t/723189) ![](assets/new.png)  
-- [2020-11-09-哪里可以下载歌词？](https://www.v2ex.com/t/723183) ![](assets/new.png)  
-- [2020-11-09-迫于疫情在家学习，求入门-Linux-的网课推荐](https://www.v2ex.com/t/723182) ![](assets/new.png)  
-- [2020-11-09-想买迈锐宝-XL-了-是不是明年-5-月份最便宜？-上天津牌](https://www.v2ex.com/t/723179) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -596,8 +596,8 @@
 
 
 - [2020-11-09-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-09-少侠留步，请收下这份前端开发自学资料](https://toutiao.io/k/50z7koh) ![](assets/new.png)  
 - [2020-11-09-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-09-少侠留步，请收下这份前端开发自学资料](https://toutiao.io/k/50z7koh) ![](assets/new.png)  
 - [2020-11-09-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [2020-11-09-MySQL-数据库优化二三事](https://toutiao.io/k/cixogzw) ![](assets/new.png)  
 - [2020-11-09-看-Kubernetes-源码，学习怎么用-Go-实现调度队列](https://toutiao.io/k/nxdtyt5) ![](assets/new.png)  

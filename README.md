@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 10:04:22，:rocket: 更新条数: +3285， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 10:12:09，:rocket: 更新条数: +3284， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-10-有一个平台可以创建团购活动的吗？在法国运营](https://www.v2ex.com/t/723681) ![](assets/new.png)  
 - [2020-11-10-请教个问题，为什么不能称呼设计师为美工？](https://www.v2ex.com/t/723680) ![](assets/new.png)  
 - [2020-11-10-北京上海杭州深圳-安全与风控岗位内推（很多-HC）](https://www.v2ex.com/t/723679) ![](assets/new.png)  
 - [2020-11-10-广州招聘-Java-后端开发-中高级-13K-18K-内推](https://www.v2ex.com/t/723678) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-10-v2ex-热心程序员贼多！再次求支援！-求前端进阶书籍推荐！](https://www.v2ex.com/t/723661) ![](assets/new.png)  
 - [2020-11-10-上海/小红书-高级后端开发工程师招聘-直播带货业务-组内直招岗位](https://www.v2ex.com/t/723660) ![](assets/new.png)  
 - [2020-11-10-YouTube-网页版没法画中画，闪一下就自动没了，你们也有这个问题么？](https://www.v2ex.com/t/723659) ![](assets/new.png)  
-- [2020-11-10-问下各位，有没有靠谱的二手电子产品平台？](https://www.v2ex.com/t/723658) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

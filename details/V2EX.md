@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-09 23:47:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 00:07:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,4 +39,3 @@
 - [2020-11-09-Excel-VSTO-插件项目寻求技术大佬合作](https://www.v2ex.com/t/723372) 
 - [2020-11-09-Chrome-刚才提示：-JSON-Viewer-Awesome-此扩展程序包含恶意软件。](https://www.v2ex.com/t/723371) 
 - [2020-11-09-迫于积灰，出个台式机。](https://www.v2ex.com/t/723370) 
-- [2020-11-09-面试的时候怎么判断面试者是不是速成的？](https://www.v2ex.com/t/723369) 

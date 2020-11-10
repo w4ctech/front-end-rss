@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-10 20:10:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 20:19:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -520,7 +520,6 @@
 - [【开发者头条】面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
 - [【开发者头条】搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【开发者头条】精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
-- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

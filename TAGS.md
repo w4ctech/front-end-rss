@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-10 10:12:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 10:21:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -456,6 +456,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【掘金前端】前端搞算法再也不难，如何套路解题：滑动窗口类](https://juejin.im/post/6893435960705417224)
 - [【掘金前端】数据结构与算法-小白系列第2️⃣天链表](https://juejin.im/post/6893409839423340552)
 - [【掘金前端】Array.sort-算法原理插入排序\快速排序in-place实现](https://juejin.im/post/6893402945585414151)
 - [【V2EX】现在还有不用推荐算法的-app-吗？](https://www.v2ex.com/t/723665)
@@ -526,7 +527,6 @@
 - [【开发者头条】面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
 - [【开发者头条】搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【开发者头条】精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
-- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

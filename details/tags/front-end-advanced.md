@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 10:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 10:21:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -14,6 +14,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-11-10-前端搞算法再也不难，如何套路解题：滑动窗口类](https://juejin.im/post/6893435960705417224) 
 - [2020-11-10-数据结构与算法-小白系列第2️⃣天链表](https://juejin.im/post/6893409839423340552) 
 - [2020-11-10-Array.sort-算法原理插入排序\快速排序in-place实现](https://juejin.im/post/6893402945585414151) 
 - [2020-11-10-现在还有不用推荐算法的-app-吗？](https://www.v2ex.com/t/723665) 

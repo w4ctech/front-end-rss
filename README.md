@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 00:07:49，:rocket: 更新条数: +3258， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 00:30:24，:rocket: 更新条数: +3261， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,9 @@
 </summary>
 
 
+- [2020-11-10-体感-12pro-信号是比-11pro-要好](https://www.v2ex.com/t/723424) ![](assets/new.png)  
+- [2020-11-10-请问不挂-ti-的话除了-qq-邮箱还有哪个-app-能收发-gmail](https://www.v2ex.com/t/723423) ![](assets/new.png)  
+- [2020-11-10-django-+-postgresql-数据库连接过多导致-timeout,-想问大佬应该如何排查?](https://www.v2ex.com/t/723420) ![](assets/new.png)  
 - [2020-11-09-说几个-leetcode-上看似简单却又非常困难的问题](https://www.v2ex.com/t/723418) ![](assets/new.png)  
 - [2020-11-09-大家一般是如何美化自己的简历呢？](https://www.v2ex.com/t/723417) ![](assets/new.png)  
 - [2020-11-09-12-月-1-号国航-CA770-洛杉矶飞深圳求同程小伙伴和检测机构！](https://www.v2ex.com/t/723415) ![](assets/new.png)  
@@ -570,9 +573,6 @@
 - [2020-11-09-救命，关于-Github-桌面-win10-版报错问题](https://www.v2ex.com/t/723400) ![](assets/new.png)  
 - [2020-11-09-现在山东移动还能改什么实惠的套餐？](https://www.v2ex.com/t/723399) ![](assets/new.png)  
 - [2020-11-09-不懂就问：这个-dll-哪位大神能够反编译出来](https://www.v2ex.com/t/723398) ![](assets/new.png)  
-- [2020-11-09-微软（上海）AME-团队招聘啦！](https://www.v2ex.com/t/723396) ![](assets/new.png)  
-- [2020-11-09-请教运维大佬：-jenkins-部署-jar-包到应用服务器的问题](https://www.v2ex.com/t/723395) ![](assets/new.png)  
-- [2020-11-09-有一个-offer-不知该不该接](https://www.v2ex.com/t/723394) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -615,22 +615,26 @@
 </summary>
 
 
+- [2020-11-10-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
 - [2020-11-10-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-10-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-10-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-10-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-10-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-10-什么是环境变量？](https://toutiao.io/k/t85bk83) ![](assets/new.png)  
+- [2020-11-10-译-深入理解-Kubernetes-网络模型：自己实现-kube-proxy-的功能](https://toutiao.io/k/ui8teps) ![](assets/new.png)  
+- [2020-11-10-从几亿的坑爹项目说-JSON-格式的比较的实现](https://toutiao.io/k/hq9n8q3) ![](assets/new.png)  
 - [2020-11-10-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
 - [2020-11-10-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-10-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-11-10-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-10-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-10-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-10-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-11-10-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-10-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-10-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
 - [2020-11-10-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-10-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
+- [2020-11-10-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-10-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-10-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-10-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-10-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-10-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-10-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-10-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-10-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
+- [2020-11-10-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-10-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

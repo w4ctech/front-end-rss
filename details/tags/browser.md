@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 09:48:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 10:04:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,8 +31,8 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-10-北京上海杭州深圳-安全与风控岗位内推（很多-HC）](https://www.v2ex.com/t/723679) 
 - [2020-11-10-Visual-Studio-2019-调试程序的时候出错求助](https://www.v2ex.com/t/723654) 
-- [2020-11-10-原来是-Http2-导致了不少国内网站使用-FireFox-访问时体验差了](https://www.v2ex.com/t/723630) 
 - [2020-11-10-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-10-反编译完这些-app-后，我给它们的安全等级打个分-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-09-虎符论坛|“三同步”和“三聚合”保障政企信息化内生安全](https://sec.thief.one/article_content?a_id=26eee0c2cb8bbe66e3e7443e1d64aee8) 

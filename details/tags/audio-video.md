@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 02:14:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 02:26:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,6 +78,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-11-10-大佬们，推荐个视频监控的产品呢！](https://www.v2ex.com/t/723476) 
 - [2020-11-09-【视频】|-网警微电影《网战》](https://sec.thief.one/article_content?a_id=ec40e17bc760003ba066c276181a927d) 
 - [2020-11-08-“我家的故事——脱贫攻坚奔小康”短视频征集展示活动评审会召开](https://sec.thief.one/article_content?a_id=82968ffaac09ced2df5ad8b1560581d2) 
 - [2020-11-08-【视频】|-Python:列表操作更新和删除](https://sec.thief.one/article_content?a_id=bda8cb558779e09fda5b0916ec7cfb96) 

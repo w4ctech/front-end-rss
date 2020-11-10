@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-10 08:47:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 09:03:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -129,6 +129,7 @@
 
 - [【阮一峰的网络日志】微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html)
 - [【前端艺术家&&飞冰早报】「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292)
+- [【V2EX】做了个生成那种只能眯着眼从手机充电口和侧面看到的字的小程序](https://www.v2ex.com/t/723656)
 - [【V2EX】通信行程卡-APP-端和小程序端途径城市的字体颜色不一致](https://www.v2ex.com/t/723613)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -332,10 +333,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】Visual-Studio-2019-调试程序的时候出错求助](https://www.v2ex.com/t/723654)
 - [【V2EX】原来是-Http2-导致了不少国内网站使用-FireFox-访问时体验差了](https://www.v2ex.com/t/723630)
 - [【技术头条】白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】反编译完这些-app-后，我给它们的安全等级打个分-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【安全热点】虎符论坛|“三同步”和“三聚合”保障政企信息化内生安全](https://sec.thief.one/article_content?a_id=26eee0c2cb8bbe66e3e7443e1d64aee8)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -373,7 +374,6 @@
 
 
 
-- [【开发者头条】推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -390,6 +390,7 @@
 
 
 
+- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [【安全热点】GitHub-上-25-个-Python-学习资源,墙裂推荐!](https://sec.thief.one/article_content?a_id=9f26c4fe5d13f1fbb5c3287f6fcf8d37)
 - [【安全热点】GitHub:请再给我2天修复漏洞-谷歌:已经给你104天了](https://sec.thief.one/article_content?a_id=ff3cd9fc57451037e582824f9ea05c91)
 - [【安全热点】GitHub:我开源我自己;CEO:不存在的](https://sec.thief.one/article_content?a_id=9ec20be9f5ebe6d66612d3812ca278d8)
@@ -417,7 +418,6 @@
 - [【开发者头条】搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【开发者头条】精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
 - [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
-- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

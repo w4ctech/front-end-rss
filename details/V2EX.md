@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-10 08:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 09:03:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-10-做了个生成那种只能眯着眼从手机充电口和侧面看到的字的小程序](https://www.v2ex.com/t/723656) 
+- [2020-11-10-Visual-Studio-2019-调试程序的时候出错求助](https://www.v2ex.com/t/723654) 
+- [2020-11-10-JetBrains-主题推荐](https://www.v2ex.com/t/723653) 
 - [2020-11-10-求推荐个软路由](https://www.v2ex.com/t/723650) 
 - [2020-11-10-版本日怎么安排才合理？](https://www.v2ex.com/t/723649) 
 - [2020-11-10-忘记注册邮箱](https://www.v2ex.com/t/723648) 
@@ -38,6 +41,3 @@
 - [2020-11-10-迫于-name.com-注册的域名.net该续费了，想把域名转到便宜的（国内？）域名服务商](https://www.v2ex.com/t/723609) 
 - [2020-11-10-想学一下前端-读完-Html+css+js+react-官方文档后看点啥比较好](https://www.v2ex.com/t/723608) 
 - [2020-11-10-北京/上海-内推来了外企电商,WLB-的-1075-公司欢迎各位加入-Java-/QA/客户端](https://www.v2ex.com/t/723607) 
-- [2020-11-10-为什么-iPhone12-没有采用-5s/5-系列的圆形音量键？](https://www.v2ex.com/t/723605) 
-- [2020-11-10-realme-q2-Pro-香不香](https://www.v2ex.com/t/723604) 
-- [2020-11-10-2019-mbp-13'-丐版-显示器求推荐](https://www.v2ex.com/t/723603) 

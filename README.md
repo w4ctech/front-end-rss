@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 08:47:53，:rocket: 更新条数: +3050， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 09:03:55，:rocket: 更新条数: +3050， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-10-做了个生成那种只能眯着眼从手机充电口和侧面看到的字的小程序](https://www.v2ex.com/t/723656) ![](assets/new.png)  
+- [2020-11-10-Visual-Studio-2019-调试程序的时候出错求助](https://www.v2ex.com/t/723654) ![](assets/new.png)  
+- [2020-11-10-JetBrains-主题推荐](https://www.v2ex.com/t/723653) ![](assets/new.png)  
 - [2020-11-10-求推荐个软路由](https://www.v2ex.com/t/723650) ![](assets/new.png)  
 - [2020-11-10-版本日怎么安排才合理？](https://www.v2ex.com/t/723649) ![](assets/new.png)  
 - [2020-11-10-忘记注册邮箱](https://www.v2ex.com/t/723648) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-10-原来是-Http2-导致了不少国内网站使用-FireFox-访问时体验差了](https://www.v2ex.com/t/723630) ![](assets/new.png)  
 - [2020-11-10-有没有推荐的便宜的香港云服务器，太贵的买不起](https://www.v2ex.com/t/723627) ![](assets/new.png)  
 - [2020-11-10-阿里云-tls-8080-会被封吗](https://www.v2ex.com/t/723626) ![](assets/new.png)  
-- [2020-11-10-有-iPhone-12-升级-iOS14.2-之后超取景框失效的同学么？](https://www.v2ex.com/t/723625) ![](assets/new.png)  
-- [2020-11-10-PHP-插件市场如何实现加密与授权呢？](https://www.v2ex.com/t/723624) ![](assets/new.png)  
-- [2020-11-10-收点京东-e-卡](https://www.v2ex.com/t/723623) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

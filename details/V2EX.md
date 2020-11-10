@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-10 19:47:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 20:04:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-10-新的-M1-MacBook-应该会支持-bootcamp-的吧](https://www.v2ex.com/t/723801) 
 - [2020-11-10-macOS-Big-Sur-beta-降级正式版问题](https://www.v2ex.com/t/723800) 
 - [2020-11-10-M1-版本设备中，只有-MacBook-Pro-可以升级到-16GB-内存](https://www.v2ex.com/t/723799) 
 - [2020-11-10-macOS-Big-Sur-11.0.1-RC-2-发布了](https://www.v2ex.com/t/723797) 
@@ -42,4 +43,3 @@
 - [2020-11-10-pycharm2020.2.3-无法在-Django-模板页中使用-vue-自动补全](https://www.v2ex.com/t/723755) 
 - [2020-11-10-求教-idea-阅读源码的技巧](https://www.v2ex.com/t/723753) 
 - [2020-11-10-mini-主机、mbp13-插不了独显怎么玩游戏？有没有便宜的方案？雷电显卡坞太贵](https://www.v2ex.com/t/723752) 
-- [2020-11-10-南京-医学美容诊所招聘员工（女生）](https://www.v2ex.com/t/723751) 

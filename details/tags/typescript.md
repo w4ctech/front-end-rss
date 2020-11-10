@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 09:20:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 09:33:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,4 +7,5 @@
 
 
 
+- [2020-11-10-BetterScroll源码阅读顺便学习TypeScript](https://juejin.im/post/6893416439504437262) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 

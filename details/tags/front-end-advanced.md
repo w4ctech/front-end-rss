@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 12:04:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 12:13:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -16,3 +16,5 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-11-10-北京/远程-DODOEX-招聘全栈、前端、智能合约工程师、设计师](https://www.v2ex.com/t/723709) 
 - [2020-11-10-leetcode-这算法时间波动有点大](https://www.v2ex.com/t/723688) 
+- [2020-11-09-终于有人把Python算法-动态规划讲明白了,建议收藏!附源码下载](https://sec.thief.one/article_content?a_id=ac99285a4d487d5f1c800d3a42ed3cde) 
+- [2020-11-08-SM2-国密算法被-Linux-内核社区接受](https://sec.thief.one/article_content?a_id=86c386426f1ec71cee86beb69c640b19) 

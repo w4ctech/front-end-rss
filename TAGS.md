@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-10 12:04:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 12:13:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -394,6 +394,7 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【安全热点】翻译不再随机:使用LD_PRELOAD来劫持rand函数](https://sec.thief.one/article_content?a_id=12fd54abec7567d8713b45d405c88551)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -455,6 +456,8 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【V2EX】北京/远程-DODOEX-招聘全栈、前端、智能合约工程师、设计师](https://www.v2ex.com/t/723709)
 - [【V2EX】leetcode-这算法时间波动有点大](https://www.v2ex.com/t/723688)
+- [【安全热点】终于有人把Python算法-动态规划讲明白了,建议收藏!附源码下载](https://sec.thief.one/article_content?a_id=ac99285a4d487d5f1c800d3a42ed3cde)
+- [【安全热点】SM2-国密算法被-Linux-内核社区接受](https://sec.thief.one/article_content?a_id=86c386426f1ec71cee86beb69c640b19)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -493,6 +496,8 @@
 - [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
+- [【安全热点】GitHub-上-25-个-Python-学习资源,墙裂推荐!](https://sec.thief.one/article_content?a_id=9f26c4fe5d13f1fbb5c3287f6fcf8d37)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -517,7 +522,6 @@
 - [【开发者头条】搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【开发者头条】精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
-- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 12:04:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 12:13:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -70,3 +70,4 @@
 - [2020-11-10-什么是环境变量？](https://toutiao.io/k/t85bk83) 
 - [2020-11-10-从几亿的坑爹项目说-JSON-格式的比较的实现](https://toutiao.io/k/hq9n8q3) 
 - [2020-11-10-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/xs5f8j6) 
+- [2020-11-09-黑客攻击的下一个热点:路由器和NAS漏洞](https://sec.thief.one/article_content?a_id=69cee215b56eec5c881a33de73f980c8) 

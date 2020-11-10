@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 13:10:27，:rocket: 更新条数: +3054， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 13:18:41，:rocket: 更新条数: +3053， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,12 +533,13 @@
 </summary>
 
 
+- [2020-11-10-今年双十一你们都买了啥，想抄抄作业！](https://www.v2ex.com/t/723739) ![](assets/new.png)  
+- [2020-11-10-各位前辈有啥减缓视力下降的方法吗](https://www.v2ex.com/t/723738) ![](assets/new.png)  
 - [2020-11-10-换城市，上海到成都，社保和公积金怎么处理？](https://www.v2ex.com/t/723737) ![](assets/new.png)  
 - [2020-11-10-网宿科技内推，工作地点厦门武汉深圳杭州北京上海南京](https://www.v2ex.com/t/723735) ![](assets/new.png)  
 - [2020-11-10-如何从头打造一款个性化二维码](https://www.v2ex.com/t/723734) ![](assets/new.png)  
 - [2020-11-10-打算写写博客，前辈们有什么建议么？](https://www.v2ex.com/t/723733) ![](assets/new.png)  
 - [2020-11-10-大众点评想干什么？](https://www.v2ex.com/t/723732) ![](assets/new.png)  
-- [2020-11-10-宁波的运维狗们，双十一到了，确定不加一波群？？](https://www.v2ex.com/t/723731) ![](assets/new.png)  
 - [2020-11-10-最近想攒个相机，求有经验者建议](https://www.v2ex.com/t/723730) ![](assets/new.png)  
 - [2020-11-10-Big-Sur-自动弹出了-Adoble-Flash-Player-卸载程序](https://www.v2ex.com/t/723728) ![](assets/new.png)  
 - [2020-11-10-程序员-35-岁之后做什么](https://www.v2ex.com/t/723727) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-10-来给-V-友们过个双-11-，拼手速送-V2EX-会员](https://www.v2ex.com/t/723717) ![](assets/new.png)  
 - [2020-11-10-如何把笔记本作为扩展显示器使用？](https://www.v2ex.com/t/723715) ![](assets/new.png)  
 - [2020-11-10-我的美团-APP-账号被盗了？](https://www.v2ex.com/t/723714) ![](assets/new.png)  
-- [2020-11-10-请问怎么修改单-exe-文件？](https://www.v2ex.com/t/723713) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

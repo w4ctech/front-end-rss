@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-10 19:03:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 19:09:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-10-白等了，-MBP16-寸没更新](https://www.v2ex.com/t/723796) 
 - [2020-11-10-新的-MacBook-Pro-只有一边有两个-USB-C-型接口了，另一边只有耳机接口](https://www.v2ex.com/t/723795) 
 - [2020-11-10-找工作，如果空窗期很久，怎么解释？面试官比较容易接受](https://www.v2ex.com/t/723794) 
 - [2020-11-10-有点激动-mac-mini,-macbook-air,-macbook-pro-13](https://www.v2ex.com/t/723793) 
@@ -40,4 +41,3 @@
 - [2020-11-10-mini-主机、mbp13-插不了独显怎么玩游戏？有没有便宜的方案？雷电显卡坞太贵](https://www.v2ex.com/t/723752) 
 - [2020-11-10-南京-医学美容诊所招聘员工（女生）](https://www.v2ex.com/t/723751) 
 - [2020-11-10-整点放券，-p-多多终于来了](https://www.v2ex.com/t/723747) 
-- [2020-11-10-Python-被-@staticmethod-装饰的方法在调用时，会调用-__init__-方法？](https://www.v2ex.com/t/723746) 

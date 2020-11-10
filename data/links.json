@@ -14538,6 +14538,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "新的 MacBook Pro 只有一边有两个 USB-C 型接口了，另一边只有耳机接口",
+        "link": "https://www.v2ex.com/t/723795",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "找工作，如果空窗期很久，怎么解释？面试官比较容易接受",
+        "link": "https://www.v2ex.com/t/723794",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "有点激动 mac mini, macbook air, macbook pro 13",
+        "link": "https://www.v2ex.com/t/723793",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "你会选 MacBook Air 还是 MacBook Pro",
+        "link": "https://www.v2ex.com/t/723792",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "M1 是否会救活 Mac mini 产品线？",
+        "link": "https://www.v2ex.com/t/723791",
+        "date": "2020-11-10"
+      },
+      {
         "title": "20201111 午夜俱乐部",
         "link": "https://www.v2ex.com/t/723790",
         "date": "2020-11-10"
@@ -14690,31 +14715,6 @@
       {
         "title": "Python 被 @staticmethod 装饰的方法在调用时，会调用 __init__ 方法？",
         "link": "https://www.v2ex.com/t/723746",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "聚焦搜索很慢，通过聚焦打开 app 会卡",
-        "link": "https://www.v2ex.com/t/723745",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "国区 App Store 无法更新 app ？",
-        "link": "https://www.v2ex.com/t/723744",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "双 11 想买云服务器，看中腾讯云标准型 S4， 1631 元/3 年",
-        "link": "https://www.v2ex.com/t/723743",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "双 11 不知道买啥的进来看",
-        "link": "https://www.v2ex.com/t/723742",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "来了来了它来了 pdd 版 iPhone 12 来了",
-        "link": "https://www.v2ex.com/t/723741",
         "date": "2020-11-10"
       }
     ]
@@ -14877,13 +14877,13 @@
         "date": "2020-11-10"
       },
       {
-        "title": "如何创建与框架无关的 JavaScript 插件",
-        "link": "https://toutiao.io/k/xs5f8j6",
+        "title": "搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
         "date": "2020-11-10"
       },
       {
-        "title": "搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
+        "title": "如何创建与框架无关的 JavaScript 插件",
+        "link": "https://toutiao.io/k/xs5f8j6",
         "date": "2020-11-10"
       },
       {
@@ -14932,8 +14932,8 @@
         "date": "2020-11-10"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-10"
       },
       {
@@ -14942,28 +14942,23 @@
         "date": "2020-11-10"
       },
       {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-10"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-10"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-10"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
         "date": "2020-11-10"
       },
       {
@@ -14972,18 +14967,13 @@
         "date": "2020-11-10"
       },
       {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-10"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-10"
       },
       {
@@ -14992,18 +14982,28 @@
         "date": "2020-11-10"
       },
       {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-10"
+      },
+      {
         "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
         "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-10"
       }
     ]

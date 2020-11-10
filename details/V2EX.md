@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-10 18:47:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 19:03:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-10-新的-MacBook-Pro-只有一边有两个-USB-C-型接口了，另一边只有耳机接口](https://www.v2ex.com/t/723795) 
+- [2020-11-10-找工作，如果空窗期很久，怎么解释？面试官比较容易接受](https://www.v2ex.com/t/723794) 
+- [2020-11-10-有点激动-mac-mini,-macbook-air,-macbook-pro-13](https://www.v2ex.com/t/723793) 
+- [2020-11-10-你会选-MacBook-Air-还是-MacBook-Pro](https://www.v2ex.com/t/723792) 
+- [2020-11-10-M1-是否会救活-Mac-mini-产品线？](https://www.v2ex.com/t/723791) 
 - [2020-11-10-20201111-午夜俱乐部](https://www.v2ex.com/t/723790) 
 - [2020-11-10-Apple-这波起飞](https://www.v2ex.com/t/723789) 
 - [2020-11-10-时至如今订单并发超售很难解决吗？双-11-亲身遭遇天猫订单超售导致不能支付](https://www.v2ex.com/t/723788) 
@@ -36,8 +41,3 @@
 - [2020-11-10-南京-医学美容诊所招聘员工（女生）](https://www.v2ex.com/t/723751) 
 - [2020-11-10-整点放券，-p-多多终于来了](https://www.v2ex.com/t/723747) 
 - [2020-11-10-Python-被-@staticmethod-装饰的方法在调用时，会调用-__init__-方法？](https://www.v2ex.com/t/723746) 
-- [2020-11-10-聚焦搜索很慢，通过聚焦打开-app-会卡](https://www.v2ex.com/t/723745) 
-- [2020-11-10-国区-App-Store-无法更新-app-？](https://www.v2ex.com/t/723744) 
-- [2020-11-10-双-11-想买云服务器，看中腾讯云标准型-S4，-1631-元/3-年](https://www.v2ex.com/t/723743) 
-- [2020-11-10-双-11-不知道买啥的进来看](https://www.v2ex.com/t/723742) 
-- [2020-11-10-来了来了它来了-pdd-版-iPhone-12-来了](https://www.v2ex.com/t/723741) 

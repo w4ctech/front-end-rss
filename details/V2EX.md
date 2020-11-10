@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-10 21:19:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 21:33:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-10-composer-2.0-的-psr-4-规范问题](https://www.v2ex.com/t/723804) 
 - [2020-11-10-一个-macOS-玄学问题](https://www.v2ex.com/t/723803) 
 - [2020-11-10-MacBook-又出新款了，老款的问题怎么办](https://www.v2ex.com/t/723802) 
 - [2020-11-10-新的-M1-MacBook-应该会支持-bootcamp-的吧](https://www.v2ex.com/t/723801) 

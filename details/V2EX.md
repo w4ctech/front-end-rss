@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-10 22:04:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 22:12:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-10-把-macos-安装在-500M/s-的外置固态影响使用吗](https://www.v2ex.com/t/723806) 
 - [2020-11-10-Golang-或-Vue-开发机能不能买-M1-版本的苹果笔记本](https://www.v2ex.com/t/723805) 
 - [2020-11-10-composer-2.0-的-psr-4-规范问题](https://www.v2ex.com/t/723804) 
 - [2020-11-10-一个-macOS-玄学问题](https://www.v2ex.com/t/723803) 

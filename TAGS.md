@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-10 12:35:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 12:47:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -327,10 +327,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】北京上海杭州深圳-安全与风控岗位内推（很多-HC）](https://www.v2ex.com/t/723679)
 - [【技术头条】白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】反编译完这些-app-后，我给它们的安全等级打个分-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【安全热点】安全工程师会在双十一干什么?](https://sec.thief.one/article_content?a_id=d3cdb6028fb74d39c92d54c23a5dc173)
+- [【安全热点】助力网络安全态势感知技术标准化|绿盟科技参与国家标准白皮书编写](https://sec.thief.one/article_content?a_id=69fa72bc3fb1560a98ff7003f70772e4)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -384,6 +384,7 @@
 
 
 
+- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [【安全热点】GitHub-上-25-个-Python-学习资源,墙裂推荐!](https://sec.thief.one/article_content?a_id=9f26c4fe5d13f1fbb5c3287f6fcf8d37)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -404,10 +405,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【V2EX】🔥🔥🔥贝壳-北京-基础架构部-直招招聘资深工程师，福利好，待遇好，有发展空间，工作自由度高，-HC-多](https://www.v2ex.com/t/723695)
 - [【V2EX】内推-微软苏州招聘软件开发工程师](https://www.v2ex.com/t/723686)
-- [【V2EX】广州招聘-Java-后端开发-中高级-13K-18K-内推](https://www.v2ex.com/t/723678)
 - [【开发者头条】面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
 - [【开发者头条】搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【开发者头条】精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

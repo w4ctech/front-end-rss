@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 12:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 13:03:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,6 +25,9 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-10-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-10-反编译完这些-app-后，我给它们的安全等级打个分-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-10-【安全圈】阿里投资的印度最大杂货电商BigBasket超2000万客户数据...](https://sec.thief.one/article_content?a_id=6c3d634ceb6b3fd900465466816d39ab) 
+- [2020-11-10-「小米手机&AIoT安全守护Bundle计划」正式发布](https://sec.thief.one/article_content?a_id=df90e97c4015b75f3f4e8cf4e1af38d1) 
+- [2020-11-10-体系化呈现内生安全框架,虎符论坛第一季为何瞄准工控安全?](https://sec.thief.one/article_content?a_id=861767498e4e4a9ebb110a18b2d9558d) 
 - [2020-11-10-安全工程师会在双十一干什么?](https://sec.thief.one/article_content?a_id=d3cdb6028fb74d39c92d54c23a5dc173) 
 - [2020-11-10-助力网络安全态势感知技术标准化|绿盟科技参与国家标准白皮书编写](https://sec.thief.one/article_content?a_id=69fa72bc3fb1560a98ff7003f70772e4) 
 - [2020-11-10-国舜股份签约贵州某农商行,助力网络风险排查与综合安全加固](https://sec.thief.one/article_content?a_id=7465af42dfd2d037c97c4087f524addb) 
@@ -41,6 +44,3 @@
 - [2020-11-09-2020网络安全金帽子年度盛典-|-评选活动概览-投票火热进行中](https://sec.thief.one/article_content?a_id=7fb41c5d4d8e69cb5a62caf3de73d2b3) 
 - [2020-11-08-【安全圈】意大利酒商Campari-Group遭勒索,黑客要挟1500万美元](https://sec.thief.one/article_content?a_id=24bffcc01a30248ca1a1dbfc14dca5da) 
 - [2020-11-08-共绘安全业务生态新蓝图|绿盟科技出席2020天翼智能生态博览会](https://sec.thief.one/article_content?a_id=892027bcb9c301199435a0124d00a008) 
-- [2020-11-08-全球疫情下的网络安全:警惕“趁火打劫”的线上攻击](https://sec.thief.one/article_content?a_id=3d8ea5ce6c5e4f2a55724afd8990c910) 
-- [2020-11-08-实战化背景下的安全防护能力体系建设思路](https://sec.thief.one/article_content?a_id=9e9c1b4900b4c88fd26ba9ced3849ddc) 
-- [2020-11-08-【精彩回顾】第四届小米AIoT安全峰会成功举办](https://sec.thief.one/article_content?a_id=6f415cb8c483bb0d4dc1e8caa53fa9ac) 

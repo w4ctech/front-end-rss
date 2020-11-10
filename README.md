@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 01:38:24，:rocket: 更新条数: +3038， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 01:51:51，:rocket: 更新条数: +3039， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,8 @@
 </summary>
 
 
+- [2020-11-09-11月9日全国新增确诊病例22例-其中本土病例1例](https://m.caixin.com/m/2020-11-10/101625433.html) ![](assets/new.png)  
+- [2020-11-09-解药|新冠mRNA疫苗乐观数据搅动全球资本市场-仍有不确定性](https://m.caixin.com/m/2020-11-10/101625389.html) ![](assets/new.png)  
 - [2020-11-09-大流行手记|11月9日：美确诊人数破千万-辉瑞公布新冠疫苗有效率逾90%](https://m.caixin.com/m/2020-11-10/101625386.html) ![](assets/new.png)  
 - [2020-11-08-上海浦东新冠确诊者感染源排查中-所住村庄已封闭](https://m.caixin.com/m/2020-11-09/101625278.html) ![](assets/new.png)  
 - [2020-11-08-最新海外疫情：新冠感染超5025万-累计死亡超125万](http://m.international.caixin.com/m/2020-11-09/101625243.html) ![](assets/new.png)  
@@ -75,15 +77,13 @@
 - [2020-11-07-大流行手记|11月7日：已有六国发现水貂变异病毒感染者-白宫幕僚长确诊](https://m.caixin.com/m/2020-11-08/101624405.html) ![](assets/new.png)  
 - [2020-11-06-【境内疫情观察】全国新增33例境外输入病例（11月6日）](http://m.database.caixin.com/m/2020-11-07/101624263.html) ![](assets/new.png)  
 - [2020-11-06-大流行手记|11月6日：丹麦水貂传播变异病毒](https://m.caixin.com/m/2020-11-07/101624156.html) ![](assets/new.png)  
-- [2020-11-05-两款新冠抗原检测试剂国内首获批-药监局称仅可作补充方法](https://m.caixin.com/m/2020-11-06/101623649.html) ![](assets/new.png)  
 - [2020-11-05-【境内疫情观察】新疆新增6例本土确诊病例（11月5日）](http://m.database.caixin.com/m/2020-11-06/101623769.html) ![](assets/new.png)  
 - [2020-11-05-大流行手记|11月5日：中国暂停印、英等国人员入境-美国日增病例破10万](https://m.caixin.com/m/2020-11-06/101623677.html) ![](assets/new.png)  
+- [2020-11-05-两款新冠抗原检测试剂国内首获批-药监局称仅可作补充方法](https://m.caixin.com/m/2020-11-06/101623649.html) ![](assets/new.png)  
 - [2020-11-04-【境内疫情观察】新疆新增8例本土确诊病例（11月4日）](http://m.database.caixin.com/m/2020-11-05/101623339.html) ![](assets/new.png)  
 - [2020-11-04-大流行手记|11月4日：英国利物浦试点全城检测-美国急缺医护人员](https://m.caixin.com/m/2020-11-05/101623212.html) ![](assets/new.png)  
 - [2020-11-03-【境内疫情观察】新疆新增116例无症状感染者（11月3日）](http://m.database.caixin.com/m/2020-11-04/101622904.html) ![](assets/new.png)  
 - [2020-11-03-大流行手记|11月3日：WHO提示孕妇幼儿流感风险-美确诊选民可现场投票](https://m.caixin.com/m/2020-11-04/101622791.html) ![](assets/new.png)  
-- [2020-11-02-香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html) ![](assets/new.png)  
-- [2020-11-02-新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-10-本人-30-岁了，最近无聊想读在职研究生，实际用处大不大？](https://www.v2ex.com/t/723456) ![](assets/new.png)  
+- [2020-11-10-windows-下最好用的-scp-OR-sftp-客户端是什么？](https://www.v2ex.com/t/723455) ![](assets/new.png)  
+- [2020-11-10-只有我一个人觉得-Chrome-DevTool-有-bug-吗](https://www.v2ex.com/t/723451) ![](assets/new.png)  
 - [2020-11-10-有没有那种可以交互动态的安卓主题？](https://www.v2ex.com/t/723450) ![](assets/new.png)  
 - [2020-11-10-移动副卡实现单卡-iPhone-双卡双待](https://www.v2ex.com/t/723449) ![](assets/new.png)  
 - [2020-11-10-有没有-bing、baidu-的查询接口可以直接调用？](https://www.v2ex.com/t/723448) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-10-已知电梯尺寸，大家看看我这块玻璃门是否能放进去，是否有计算公式？](https://www.v2ex.com/t/723427) ![](assets/new.png)  
 - [2020-11-10-迫于开了-88VIP,出优酷会员，-30](https://www.v2ex.com/t/723425) ![](assets/new.png)  
 - [2020-11-10-体感-12pro-信号是比-11pro-要好](https://www.v2ex.com/t/723424) ![](assets/new.png)  
-- [2020-11-10-请问不挂-ti-的话除了-qq-邮箱还有哪个-app-能收发-gmail](https://www.v2ex.com/t/723423) ![](assets/new.png)  
-- [2020-11-10-django-+-postgresql-数据库连接过多导致-timeout,-想问大佬应该如何排查?](https://www.v2ex.com/t/723420) ![](assets/new.png)  
-- [2020-11-09-说几个-leetcode-上看似简单却又非常困难的问题](https://www.v2ex.com/t/723418) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-10-阿里云高级技术专家白常明：边缘云的技术挑战和应用创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13912&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777813%3Futm_content%3Dg_1000202456%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-在大规模-Kubernetes-集群上实现高-SLO-的方法-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13911&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777816%3Futm_content%3Dg_1000201987%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-玩转ECS第6讲-|-弹性计算Region化部署和跨可用区容灾介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13909&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777714%3Futm_content%3Dg_1000201986%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-10-哈佛CS50撕书教授-在家录了一套-4K-网课，你准备好电话簿了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13895&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuoWoEzeG8AABhoxacLbh2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-GitHub-上值得收藏的-100-个精选前端项目！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZighOOn2a_f2gYCGR2LBCQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-为什么如此之多的程序员就只能-996-？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13893&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ2PTYJNOPE3fIVjrNkzuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-10-男在谷歌，女友在亚马逊，晒出-2-人总收入，网友：好酸！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13892&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWpRiIRBIKYPzBMDnX1CDIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -608,13 +608,13 @@
 - [2020-11-10-openEuler-高校开发者大赛报名启动！广阔天地，码出不凡](https://toutiao.io/k/c3dqrc5) ![](assets/new.png)  
 - [2020-11-10-如何更好地理解中间件和洋葱模型](https://toutiao.io/k/4lh4oro) ![](assets/new.png)  
 - [2020-11-10-译-6-种数据分析实用方法，终于有人讲明白了](https://toutiao.io/k/7zgo1nm) ![](assets/new.png)  
-- [2020-11-10-原理-+-代码：手把手教你使用-Python-实战反欺诈模型](https://toutiao.io/k/1um2cm6) ![](assets/new.png)  
 - [2020-11-10-你已经是个成熟的-985-大学了，请不要在大一教-C-语言](https://toutiao.io/k/4fzljpk) ![](assets/new.png)  
-- [2020-11-10-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
+- [2020-11-10-原理-+-代码：手把手教你使用-Python-实战反欺诈模型](https://toutiao.io/k/1um2cm6) ![](assets/new.png)  
+- [2020-11-10-云原生架构下复杂工作负载混合调度的思考与实践](https://toutiao.io/k/uajj5us) ![](assets/new.png)  
+- [2020-11-10-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-10-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
+- [2020-11-10-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
 - [2020-11-10-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-10-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-10-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-10-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

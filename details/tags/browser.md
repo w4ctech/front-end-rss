@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 01:38:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 01:51:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-10-只有我一个人觉得-Chrome-DevTool-有-bug-吗](https://www.v2ex.com/t/723451) 
 - [2020-11-10-django-Python-manage.py-runserver-启动测试服务,-每次新的-http-请求-都会新建一个-thread-处理,-之后会自动关闭这个线程](https://www.v2ex.com/t/723430) 
 - [2020-11-10-django-+-postgresql-数据库连接过多导致-timeout,-想问大佬应该如何排查?](https://www.v2ex.com/t/723420) 
 - [2020-11-10-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

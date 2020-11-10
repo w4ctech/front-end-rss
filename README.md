@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 13:33:17，:rocket: 更新条数: +3017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 13:48:03，:rocket: 更新条数: +3056， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-10-整点放券，-p-多多终于来了](https://www.v2ex.com/t/723747) ![](assets/new.png)  
+- [2020-11-10-Python-被-@staticmethod-装饰的方法在调用时，会调用-__init__-方法？](https://www.v2ex.com/t/723746) ![](assets/new.png)  
+- [2020-11-10-聚焦搜索很慢，通过聚焦打开-app-会卡](https://www.v2ex.com/t/723745) ![](assets/new.png)  
+- [2020-11-10-国区-App-Store-无法更新-app-？](https://www.v2ex.com/t/723744) ![](assets/new.png)  
+- [2020-11-10-双-11-想买云服务器，看中腾讯云标准型-S4，-1631-元/3-年](https://www.v2ex.com/t/723743) ![](assets/new.png)  
+- [2020-11-10-双-11-不知道买啥的进来看](https://www.v2ex.com/t/723742) ![](assets/new.png)  
+- [2020-11-10-来了来了它来了-pdd-版-iPhone-12-来了](https://www.v2ex.com/t/723741) ![](assets/new.png)  
+- [2020-11-10-问个法律问题，假如购买了云服务器，存放一些盗版电影，只是自己看，会有法律风险吗？](https://www.v2ex.com/t/723740) ![](assets/new.png)  
+- [2020-11-10-今年双十一你们都买了啥，想抄抄作业！](https://www.v2ex.com/t/723739) ![](assets/new.png)  
+- [2020-11-10-各位前辈有啥减缓视力下降的方法吗](https://www.v2ex.com/t/723738) ![](assets/new.png)  
+- [2020-11-10-换城市，上海到成都，社保和公积金怎么处理？](https://www.v2ex.com/t/723737) ![](assets/new.png)  
+- [2020-11-10-网宿科技内推，工作地点厦门武汉深圳杭州北京上海南京](https://www.v2ex.com/t/723735) ![](assets/new.png)  
+- [2020-11-10-如何从头打造一款个性化二维码](https://www.v2ex.com/t/723734) ![](assets/new.png)  
+- [2020-11-10-打算写写博客，前辈们有什么建议么？](https://www.v2ex.com/t/723733) ![](assets/new.png)  
+- [2020-11-10-大众点评想干什么？](https://www.v2ex.com/t/723732) ![](assets/new.png)  
+- [2020-11-10-最近想攒个相机，求有经验者建议](https://www.v2ex.com/t/723730) ![](assets/new.png)  
+- [2020-11-10-Big-Sur-自动弹出了-Adoble-Flash-Player-卸载程序](https://www.v2ex.com/t/723728) ![](assets/new.png)  
+- [2020-11-10-程序员-35-岁之后做什么](https://www.v2ex.com/t/723727) ![](assets/new.png)  
+- [2020-11-10-迫于-11/11-需要购置-儿童学习座椅](https://www.v2ex.com/t/723725) ![](assets/new.png)  
+- [2020-11-10-不懂就问，为什么-double-后面一定要加上一个-0？](https://www.v2ex.com/t/723724) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

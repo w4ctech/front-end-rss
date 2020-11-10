@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 06:48:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 07:04:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -40,7 +40,7 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
-- [2020-11-10-纯前端表格控件-SpreadJS-V14.0-发布：组件化编辑器+数据透视表](https://www.v2ex.com/t/723550) 
+- [2020-11-10-go-官方的-pkg-安装方式自动将-PATH-环境变量配置在哪里了？](https://www.v2ex.com/t/723601) 
 - [2020-11-10-什么是环境变量？](https://toutiao.io/k/t85bk83) 
 - [2020-11-10-从几亿的坑爹项目说-JSON-格式的比较的实现](https://toutiao.io/k/hq9n8q3) 
 - [2020-11-10-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/xs5f8j6) 

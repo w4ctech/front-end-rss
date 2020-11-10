@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 06:48:20，:rocket: 更新条数: +3053， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 07:04:19，:rocket: 更新条数: +3053， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -454,9 +454,9 @@
 
 
 - [2020-11-09-借-qiankun-子应用打包模式聊模块化](https://juejin.im/post/6893376571978022926) ![](assets/new.png)  
-- [2020-11-09-手摸手教你开发掘金文章主题](https://juejin.im/post/6893360456530919437) ![](assets/new.png)  
 - [2020-11-09-掘金编辑器支持-Markdown-主题自定义啦！](https://juejin.im/post/6893338717562339335) ![](assets/new.png)  
 - [2020-11-09-jest快速入门及实践教程](https://juejin.im/post/6893320994820521998) ![](assets/new.png)  
+- [2020-11-09-温故知新：前端安全知多少](https://juejin.im/post/6893320971462279175) ![](assets/new.png)  
 - [2020-11-09-你真的不懂“函数防抖”怎么用！](https://juejin.im/post/6893137995650564104) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,12 +533,17 @@
 </summary>
 
 
+- [2020-11-10-realme-q2-Pro-香不香](https://www.v2ex.com/t/723604) ![](assets/new.png)  
+- [2020-11-10-2019-mbp-13'-丐版-显示器求推荐](https://www.v2ex.com/t/723603) ![](assets/new.png)  
+- [2020-11-10-计算机类电子书](https://www.v2ex.com/t/723602) ![](assets/new.png)  
+- [2020-11-10-go-官方的-pkg-安装方式自动将-PATH-环境变量配置在哪里了？](https://www.v2ex.com/t/723601) ![](assets/new.png)  
+- [2020-11-10-低功耗蓝牙的特性文件哪里找-bluetooth-上的文档都是-404-啊](https://www.v2ex.com/t/723600) ![](assets/new.png)  
+- [2020-11-10-有么有流量比较多（月-50G）的卡推荐,三大运营都行。](https://www.v2ex.com/t/723599) ![](assets/new.png)  
 - [2020-11-10-大文本按行去重（2G-左右文件）有什么好的解决方案吗？](https://www.v2ex.com/t/723598) ![](assets/new.png)  
 - [2020-11-10-想问一下有什么工具可以扫描网站允许的请求方法](https://www.v2ex.com/t/723597) ![](assets/new.png)  
 - [2020-11-10-大疆创新-招聘前端开发，-base-深圳](https://www.v2ex.com/t/723596) ![](assets/new.png)  
 - [2020-11-10-杭州-城西-申花-招聘前端工程师一枚](https://www.v2ex.com/t/723595) ![](assets/new.png)  
 - [2020-11-10-滴滴-杭州-服务端招人啦](https://www.v2ex.com/t/723594) ![](assets/new.png)  
-- [2020-11-10-求分享一个自助给投票活动刷票的平台？](https://www.v2ex.com/t/723593) ![](assets/new.png)  
 - [2020-11-10-从零开始玩转-PerfDogService-Demo-解析篇](https://www.v2ex.com/t/723592) ![](assets/new.png)  
 - [2020-11-10-现在购买-gen8-还值得么](https://www.v2ex.com/t/723591) ![](assets/new.png)  
 - [2020-11-10-关于不同的-PHP-语法在并发时的性能问题请教](https://www.v2ex.com/t/723588) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-10-求购二手-iPad-，型号无要求，能正常使用，谢谢。](https://www.v2ex.com/t/723584) ![](assets/new.png)  
 - [2020-11-10-PicGo-弄得-GitHub-图床上传图片一直服务端出错](https://www.v2ex.com/t/723583) ![](assets/new.png)  
 - [2020-11-10-杭州蛋壳公寓似乎已经陷入了资金链断裂的危机了！](https://www.v2ex.com/t/723582) ![](assets/new.png)  
-- [2020-11-10-看番剧的困惑](https://www.v2ex.com/t/723581) ![](assets/new.png)  
-- [2020-11-10-需要搭个小的-web-应用，什么技术栈做出来速度快又省内存？](https://www.v2ex.com/t/723580) ![](assets/new.png)  
-- [2020-11-10-iOS-14.2-从-RC-版开始，电池优化充电关闭一段时间后会被自动打开](https://www.v2ex.com/t/723578) ![](assets/new.png)  
-- [2020-11-10-想买个监听耳机](https://www.v2ex.com/t/723577) ![](assets/new.png)  
-- [2020-11-10-Big-Sur-11.0.1RC-睡眠唤醒后屏幕很暗，但新的控制中心中亮度显示为-100](https://www.v2ex.com/t/723576) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-10-探秘格子间，寻找互联网人缓解焦虑的宝物-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13914&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fplay%3Futm_content%3Dg_1000202260%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-饿了么技术往事（中）-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13913&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777827%3Futm_content%3Dg_1000202457%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-阿里云高级技术专家白常明：边缘云的技术挑战和应用创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13912&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777813%3Futm_content%3Dg_1000202456%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-在大规模-Kubernetes-集群上实现高-SLO-的方法-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13911&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777816%3Futm_content%3Dg_1000201987%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-10-论做游戏外挂，Python-输过谁？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13897&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FedW-U0BTyQ0xrjRjI5Rw_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-如何将业务代码写得更优雅-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13896&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWoQ98C34g-CFDb_1QZkNZw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-哈佛CS50撕书教授-在家录了一套-4K-网课，你准备好电话簿了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13895&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuoWoEzeG8AABhoxacLbh2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-10-GitHub-上值得收藏的-100-个精选前端项目！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZighOOn2a_f2gYCGR2LBCQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -596,8 +596,8 @@
 
 
 - [2020-11-10-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-10-openEuler-高校开发者大赛报名启动！广阔天地，码出不凡](https://toutiao.io/k/c3dqrc5) ![](assets/new.png)  
 - [2020-11-10-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-10-openEuler-高校开发者大赛报名启动！广阔天地，码出不凡](https://toutiao.io/k/c3dqrc5) ![](assets/new.png)  
 - [2020-11-10-1.5-万-star！界面酷炫、简单易用的数据库开源客户端](https://toutiao.io/k/9axqnep) ![](assets/new.png)  
 - [2020-11-10-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [2020-11-10-译-深入理解-Kubernetes-网络模型：自己实现-kube-proxy-的功能](https://toutiao.io/k/ui8teps) ![](assets/new.png)  

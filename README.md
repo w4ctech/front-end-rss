@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 11:03:38，:rocket: 更新条数: +3054， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 11:10:33，:rocket: 更新条数: +3054， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -456,8 +456,8 @@
 - [2020-11-10-「JS」浅析-JS-原型链和继承](https://juejin.im/post/6893440135841775623) ![](assets/new.png)  
 - [2020-11-10-socket.io-（uniapp）前端连接不上问题](https://juejin.im/post/6893439370204807181) ![](assets/new.png)  
 - [2020-11-10-Android音频可视化](https://juejin.im/post/6893438390507667464) ![](assets/new.png)  
-- [2020-11-10-前端搞算法再也不难，如何套路解题：滑动窗口类](https://juejin.im/post/6893435960705417224) ![](assets/new.png)  
 - [2020-11-10-数据结构--双向链表](https://juejin.im/post/6893428188655910926) ![](assets/new.png)  
+- [2020-11-09-这些高阶ts内置泛型帮助类型，你用过几个](https://juejin.im/post/6893071406481801224) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

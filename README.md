@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 00:30:24，:rocket: 更新条数: +3261， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 00:56:52，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-11-09-大流行手记|11月9日：美确诊人数破千万-辉瑞公布新冠疫苗有效率逾90%](https://m.caixin.com/m/2020-11-10/101625386.html) ![](assets/new.png)  
 - [2020-11-08-最新疫情：全国新冠累计确诊86245例-天津本土新增1例](https://m.caixin.com/m/2020-11-09/101625246.html) ![](assets/new.png)  
 - [2020-11-08-上海浦东新冠确诊者感染源排查中-所住村庄已封闭](https://m.caixin.com/m/2020-11-09/101625278.html) ![](assets/new.png)  
 - [2020-11-08-最新海外疫情：新冠感染超5025万-累计死亡超125万](http://m.international.caixin.com/m/2020-11-09/101625243.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-03-【境内疫情观察】新疆新增116例无症状感染者（11月3日）](http://m.database.caixin.com/m/2020-11-04/101622904.html) ![](assets/new.png)  
 - [2020-11-03-大流行手记|11月3日：WHO提示孕妇幼儿流感风险-美确诊选民可现场投票](https://m.caixin.com/m/2020-11-04/101622791.html) ![](assets/new.png)  
 - [2020-11-02-香港核酸检测费用大幅下降-或为两地通关做准备](https://m.caixin.com/m/2020-11-03/101622702.html) ![](assets/new.png)  
-- [2020-11-02-新疆新增确诊病例2例-无症状感染者116例](http://m.china.caixin.com/m/2020-11-03/101622699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,9 +473,9 @@
 </summary>
 
 
+- [2020-11-09-小蝌蚪传记：前端菜鸟让接口提速60%的实践与原理](https://juejin.im/post/6893286451711049742) ![](assets/new.png)  
 - [2020-11-09-开发一个-Webpack-插件原来这么简单](https://juejin.im/post/6893097741258326030) ![](assets/new.png)  
 - [2020-11-09-vue-vnode-到真实DOM是如何转化的？](https://juejin.im/post/6893095521154990088) ![](assets/new.png)  
-- [2020-11-09-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://juejin.im/post/6893065166003372039) ![](assets/new.png)  
 - [2020-11-09-全面拥抱-Reactivity:-RxJS,-RSocket-&-Svelte](https://juejin.im/post/6893059275694817293) ![](assets/new.png)  
 - [2020-11-08-去哪儿网React-Native-优先的多端统一化方案](https://juejin.im/post/6893028483232956429) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -553,6 +553,13 @@
 </summary>
 
 
+- [2020-11-10-拒绝-996，-WLB-965-新加坡公司-thunes，上海（Golang、Perl）岗位，可在上海家中办公](https://www.v2ex.com/t/723433) ![](assets/new.png)  
+- [2020-11-10-这么文艺的网站，怎么就是没人看呢？](https://www.v2ex.com/t/723432) ![](assets/new.png)  
+- [2020-11-10-资深某宝用户今年双十一决定支持一下东哥](https://www.v2ex.com/t/723431) ![](assets/new.png)  
+- [2020-11-10-django-Python-manage.py-runserver-启动测试服务,-每次新的-http-请求-都会新建一个-thread-处理,-之后会自动关闭这个线程](https://www.v2ex.com/t/723430) ![](assets/new.png)  
+- [2020-11-10-双-11-的-iPhone-12-Pro-Max-最佳购买渠道是哪里啊？](https://www.v2ex.com/t/723428) ![](assets/new.png)  
+- [2020-11-10-已知电梯尺寸，大家看看我这块玻璃门是否能放进去，是否有计算公式？](https://www.v2ex.com/t/723427) ![](assets/new.png)  
+- [2020-11-10-迫于开了-88VIP,出优酷会员，-30](https://www.v2ex.com/t/723425) ![](assets/new.png)  
 - [2020-11-10-体感-12pro-信号是比-11pro-要好](https://www.v2ex.com/t/723424) ![](assets/new.png)  
 - [2020-11-10-请问不挂-ti-的话除了-qq-邮箱还有哪个-app-能收发-gmail](https://www.v2ex.com/t/723423) ![](assets/new.png)  
 - [2020-11-10-django-+-postgresql-数据库连接过多导致-timeout,-想问大佬应该如何排查?](https://www.v2ex.com/t/723420) ![](assets/new.png)  
@@ -566,13 +573,6 @@
 - [2020-11-09-关于-worker_threads-执行顺序](https://www.v2ex.com/t/723408) ![](assets/new.png)  
 - [2020-11-09-双十一你们都买了啥？](https://www.v2ex.com/t/723407) ![](assets/new.png)  
 - [2020-11-09-买一个-iPad-考研做笔记用，买-Pro-还是-Air](https://www.v2ex.com/t/723406) ![](assets/new.png)  
-- [2020-11-09-官网-7-折-双十一-Parallels-Desktop-7-折活动开始啦](https://www.v2ex.com/t/723405) ![](assets/new.png)  
-- [2020-11-09-Net-Neutrality-在中国](https://www.v2ex.com/t/723403) ![](assets/new.png)  
-- [2020-11-09-今天放出超大杯超小杯-iPhone-12-的评测了](https://www.v2ex.com/t/723402) ![](assets/new.png)  
-- [2020-11-09-iPhone12-mini-续航测试出来了](https://www.v2ex.com/t/723401) ![](assets/new.png)  
-- [2020-11-09-救命，关于-Github-桌面-win10-版报错问题](https://www.v2ex.com/t/723400) ![](assets/new.png)  
-- [2020-11-09-现在山东移动还能改什么实惠的套餐？](https://www.v2ex.com/t/723399) ![](assets/new.png)  
-- [2020-11-09-不懂就问：这个-dll-哪位大神能够反编译出来](https://www.v2ex.com/t/723398) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -617,24 +617,24 @@
 
 - [2020-11-10-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
 - [2020-11-10-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-10-什么是环境变量？](https://toutiao.io/k/t85bk83) ![](assets/new.png)  
 - [2020-11-10-译-深入理解-Kubernetes-网络模型：自己实现-kube-proxy-的功能](https://toutiao.io/k/ui8teps) ![](assets/new.png)  
+- [2020-11-10-什么是环境变量？](https://toutiao.io/k/t85bk83) ![](assets/new.png)  
 - [2020-11-10-从几亿的坑爹项目说-JSON-格式的比较的实现](https://toutiao.io/k/hq9n8q3) ![](assets/new.png)  
-- [2020-11-10-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-11-10-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-10-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-10-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-10-1.5-万-star！界面酷炫、简单易用的数据库开源客户端](https://toutiao.io/k/9axqnep) ![](assets/new.png)  
+- [2020-11-10-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/xs5f8j6) ![](assets/new.png)  
+- [2020-11-10-译-有意思！Go-源代码中的那些秘密：为什么-time.minWall-是-1885？](https://toutiao.io/k/k1nx9je) ![](assets/new.png)  
+- [2020-11-10-软件交付效能度量：从吞吐量和稳定性开始](https://toutiao.io/k/u3q7365) ![](assets/new.png)  
 - [2020-11-10-推荐-Java-开发人员必知的常用类库，这些你都知道吗？](https://toutiao.io/k/rxo1rll) ![](assets/new.png)  
-- [2020-11-10-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-10-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-10-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-10-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-10-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
 - [2020-11-10-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-10-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
-- [2020-11-10-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-10-推荐-图解常见的九种设计模式](https://toutiao.io/k/pjsjgsi) ![](assets/new.png)  
-- [2020-11-10-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
 - [2020-11-10-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-10-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-10-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-10-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-10-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-10-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-10-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

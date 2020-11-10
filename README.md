@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 01:51:51，:rocket: 更新条数: +3039， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 02:06:06，:rocket: 更新条数: +3038， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-10-现在真的可以一台整机实现直播+打游戏吗](https://www.v2ex.com/t/723463) ![](assets/new.png)  
+- [2020-11-10-将-h5-内嵌到别人的应用如何实现静默授权](https://www.v2ex.com/t/723462) ![](assets/new.png)  
+- [2020-11-10-有人在好未来研发吗？这公司如何？](https://www.v2ex.com/t/723460) ![](assets/new.png)  
+- [2020-11-10-请支招，良心云双-11-代金券好像不好使](https://www.v2ex.com/t/723459) ![](assets/new.png)  
 - [2020-11-10-本人-30-岁了，最近无聊想读在职研究生，实际用处大不大？](https://www.v2ex.com/t/723456) ![](assets/new.png)  
 - [2020-11-10-windows-下最好用的-scp-OR-sftp-客户端是什么？](https://www.v2ex.com/t/723455) ![](assets/new.png)  
 - [2020-11-10-只有我一个人觉得-Chrome-DevTool-有-bug-吗](https://www.v2ex.com/t/723451) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-10-拒绝-996，-WLB-965-新加坡公司-thunes，上海（Golang、Perl）岗位，可在上海家中办公](https://www.v2ex.com/t/723433) ![](assets/new.png)  
 - [2020-11-10-这么文艺的网站，怎么就是没人看呢？](https://www.v2ex.com/t/723432) ![](assets/new.png)  
 - [2020-11-10-django-Python-manage.py-runserver-启动测试服务,-每次新的-http-请求-都会新建一个-thread-处理,-之后会自动关闭这个线程](https://www.v2ex.com/t/723430) ![](assets/new.png)  
-- [2020-11-10-双-11-的-iPhone-12-Pro-Max-最佳购买渠道是哪里啊？](https://www.v2ex.com/t/723428) ![](assets/new.png)  
-- [2020-11-10-已知电梯尺寸，大家看看我这块玻璃门是否能放进去，是否有计算公式？](https://www.v2ex.com/t/723427) ![](assets/new.png)  
-- [2020-11-10-迫于开了-88VIP,出优酷会员，-30](https://www.v2ex.com/t/723425) ![](assets/new.png)  
-- [2020-11-10-体感-12pro-信号是比-11pro-要好](https://www.v2ex.com/t/723424) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -603,18 +603,18 @@
 - [2020-11-10-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
 - [2020-11-10-1.5-万-star！界面酷炫、简单易用的数据库开源客户端](https://toutiao.io/k/9axqnep) ![](assets/new.png)  
 - [2020-11-10-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/xs5f8j6) ![](assets/new.png)  
-- [2020-11-10-译-有意思！Go-源代码中的那些秘密：为什么-time.minWall-是-1885？](https://toutiao.io/k/k1nx9je) ![](assets/new.png)  
 - [2020-11-10-软件交付效能度量：从吞吐量和稳定性开始](https://toutiao.io/k/u3q7365) ![](assets/new.png)  
+- [2020-11-10-译-有意思！Go-源代码中的那些秘密：为什么-time.minWall-是-1885？](https://toutiao.io/k/k1nx9je) ![](assets/new.png)  
 - [2020-11-10-openEuler-高校开发者大赛报名启动！广阔天地，码出不凡](https://toutiao.io/k/c3dqrc5) ![](assets/new.png)  
 - [2020-11-10-如何更好地理解中间件和洋葱模型](https://toutiao.io/k/4lh4oro) ![](assets/new.png)  
 - [2020-11-10-译-6-种数据分析实用方法，终于有人讲明白了](https://toutiao.io/k/7zgo1nm) ![](assets/new.png)  
 - [2020-11-10-你已经是个成熟的-985-大学了，请不要在大一教-C-语言](https://toutiao.io/k/4fzljpk) ![](assets/new.png)  
 - [2020-11-10-原理-+-代码：手把手教你使用-Python-实战反欺诈模型](https://toutiao.io/k/1um2cm6) ![](assets/new.png)  
 - [2020-11-10-云原生架构下复杂工作负载混合调度的思考与实践](https://toutiao.io/k/uajj5us) ![](assets/new.png)  
-- [2020-11-10-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-10-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
-- [2020-11-10-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-11-10-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-10-推荐-进阶必看的-RocketMQ-，就这篇了](https://toutiao.io/k/utkv7cg) ![](assets/new.png)  
+- [2020-11-10-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-10-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-10-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

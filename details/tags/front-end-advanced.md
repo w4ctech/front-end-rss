@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 12:13:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 12:26:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,13 +7,6 @@
 
 
 
-- [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
-- [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
-- [2016-12-08-vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/) 
-- [2016-08-16-Nginx-配置-HTTPS-服务器](https://aotu.io/notes/2016/08/16/nginx-https/) 
-- [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
-- [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
-- [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-11-10-北京/远程-DODOEX-招聘全栈、前端、智能合约工程师、设计师](https://www.v2ex.com/t/723709) 
 - [2020-11-10-leetcode-这算法时间波动有点大](https://www.v2ex.com/t/723688) 
 - [2020-11-09-终于有人把Python算法-动态规划讲明白了,建议收藏!附源码下载](https://sec.thief.one/article_content?a_id=ac99285a4d487d5f1c800d3a42ed3cde) 

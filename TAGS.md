@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-10 08:32:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 08:47:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -352,6 +352,7 @@
 
 
 
+- [【掘金前端】数据结构与算法-小白系列第2️⃣天链表](https://juejin.im/post/6893409839423340552)
 - [【掘金前端】Array.sort-算法原理插入排序\快速排序in-place实现](https://juejin.im/post/6893402945585414151)
 - [【V2EX】刷-Leetcode-算法题隔天忘怎么办？](https://www.v2ex.com/t/723640)
 - [【安全热点】终于有人把Python算法-动态规划讲明白了,建议收藏!附源码下载](https://sec.thief.one/article_content?a_id=ac99285a4d487d5f1c800d3a42ed3cde)
@@ -415,6 +416,8 @@
 - [【开发者头条】面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
 - [【开发者头条】搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【开发者头条】精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
+- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
+- [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

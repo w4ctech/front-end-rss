@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 09:03:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-10 09:10:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -14,4 +14,5 @@
 - [2020-11-10-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) 
 - [2020-11-10-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) 
 - [2020-11-10-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) 
+- [2020-11-10-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) 
 - [2020-11-10-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) 

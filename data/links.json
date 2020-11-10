@@ -14316,6 +14316,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "阿里开源Sifo之：可配置与高扩展性表单",
+        "link": "https://juejin.im/post/6893406596299718664",
+        "date": "2020-11-10"
+      },
+      {
         "title": "Array.sort 算法原理(插入排序\\快速排序in-place实现)",
         "link": "https://juejin.im/post/6893402945585414151",
         "date": "2020-11-10"
@@ -14324,11 +14329,6 @@
         "title": "CSS 布局",
         "link": "https://juejin.im/post/6893402135694671879",
         "date": "2020-11-10"
-      },
-      {
-        "title": "NestJS 7.x 折腾记: (4) Swagger接入及相关用法",
-        "link": "https://juejin.im/post/6893391726803845133",
-        "date": "2020-11-09"
       },
       {
         "title": "编译原理实战入门：用 JavaScript 写一个简单的四则运算编译器",
@@ -14523,6 +14523,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Facebook 面试题：最长公共子序列",
+        "link": "https://www.v2ex.com/t/723642",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[蜻蜓 FM] [社招] [内推] [北京/上海] Web/Android/后端(Go/Node/ Python )/算法/数据/NLP/产品/运营，大量 HC",
+        "link": "https://www.v2ex.com/t/723641",
+        "date": "2020-11-10"
+      },
+      {
         "title": "刷 Leetcode 算法题隔天忘怎么办？",
         "link": "https://www.v2ex.com/t/723640",
         "date": "2020-11-10"
@@ -14706,16 +14716,6 @@
         "title": "滴滴-杭州-服务端招人啦",
         "link": "https://www.v2ex.com/t/723594",
         "date": "2020-11-10"
-      },
-      {
-        "title": "从零开始玩转 PerfDogService Demo 解析篇",
-        "link": "https://www.v2ex.com/t/723592",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "现在购买 gen8 还值得么",
-        "link": "https://www.v2ex.com/t/723591",
-        "date": "2020-11-10"
       }
     ]
   },
@@ -14724,6 +14724,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "高质量的缺陷分析：让自己少写 bug (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13915&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778038%3Futm_content%3Dg_1000202459%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-10"
+      },
       {
         "title": "探秘格子间，寻找互联网人缓解焦虑的宝物 (www.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13914&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fplay%3Futm_content%3Dg_1000202260%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14817,11 +14822,6 @@
       {
         "title": "如何将业务代码写得更优雅 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13896&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWoQ98C34g-CFDb_1QZkNZw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "哈佛CS50撕书教授 在家录了一套 4K 网课，你准备好电话簿了吗？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13895&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuoWoEzeG8AABhoxacLbh2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-10"
       }
     ]
@@ -14932,8 +14932,68 @@
         "date": "2020-11-10"
       },
       {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
+        "title": "[推荐] Java 开发人员必知的常用类库，这些你都知道吗？",
+        "link": "https://toutiao.io/k/rxo1rll",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 图解常见的九种设计模式",
+        "link": "https://toutiao.io/k/pjsjgsi",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-10"
       },
       {
@@ -14944,66 +15004,6 @@
       {
         "title": "[推荐] 进阶必看的 RocketMQ ，就这篇了",
         "link": "https://toutiao.io/k/utkv7cg",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-10"
       }
     ]

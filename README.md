@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-10 09:33:10，:rocket: 更新条数: +3050， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-10 09:48:21，:rocket: 更新条数: +3284， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +553,12 @@
 </summary>
 
 
+- [2020-11-10-想系统性的学习软件测试，应该先学什么？](https://www.v2ex.com/t/723674) ![](assets/new.png)  
+- [2020-11-10-娃娃一年级，期中考试成绩不理想，怎么调整妈妈心情？](https://www.v2ex.com/t/723673) ![](assets/new.png)  
+- [2020-11-10-电信网-500M，看网络电视卡顿，-WiFi-测速-5g-不到-200M](https://www.v2ex.com/t/723672) ![](assets/new.png)  
+- [2020-11-10-你们身边有没有总是喜欢用中文做静态文件目录的](https://www.v2ex.com/t/723670) ![](assets/new.png)  
+- [2020-11-10-网易开源镜像站新增-pkg-源](https://www.v2ex.com/t/723669) ![](assets/new.png)  
+- [2020-11-10-感觉自己写出来的-C++-很-bullshit，-如何改进](https://www.v2ex.com/t/723668) ![](assets/new.png)  
 - [2020-11-10--北京-开黑啦-高级前端工程师-20k-30k*14-薪](https://www.v2ex.com/t/723666) ![](assets/new.png)  
 - [2020-11-10-现在还有不用推荐算法的-app-吗？](https://www.v2ex.com/t/723665) ![](assets/new.png)  
 - [2020-11-10-百度云手机/云游戏团队-北京上海-Android/前端/-Java-开发，欢迎大佬们投简历](https://www.v2ex.com/t/723664) ![](assets/new.png)  
@@ -547,12 +573,6 @@
 - [2020-11-10-Visual-Studio-2019-调试程序的时候出错求助](https://www.v2ex.com/t/723654) ![](assets/new.png)  
 - [2020-11-10-JetBrains-主题推荐](https://www.v2ex.com/t/723653) ![](assets/new.png)  
 - [2020-11-10-求推荐个软路由](https://www.v2ex.com/t/723650) ![](assets/new.png)  
-- [2020-11-10-版本日怎么安排才合理？](https://www.v2ex.com/t/723649) ![](assets/new.png)  
-- [2020-11-10-忘记注册邮箱](https://www.v2ex.com/t/723648) ![](assets/new.png)  
-- [2020-11-10-蛋壳公寓是要跑路吗，上个月断网，这个月断保洁，该给的反现也没给，投诉一直是待受理状态，客服找不到人，管家要么不回复要么就是不归他管，解约只能是押金全扣...](https://www.v2ex.com/t/723647) ![](assets/new.png)  
-- [2020-11-10-上海浦东-前端开发工程师](https://www.v2ex.com/t/723646) ![](assets/new.png)  
-- [2020-11-10-有没有用过硬盘盒的朋友？求赐教](https://www.v2ex.com/t/723645) ![](assets/new.png)  
-- [2020-11-10-Facebook-面试题：最长公共子序列](https://www.v2ex.com/t/723642) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +584,8 @@
 </summary>
 
 
+- [2020-11-10-容器coredns问题排查整理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13917&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-10-容器coredns问题排查整理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13916&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-高质量的缺陷分析：让自己少写-bug-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13915&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778038%3Futm_content%3Dg_1000202459%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-探秘格子间，寻找互联网人缓解焦虑的宝物-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13914&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fplay%3Futm_content%3Dg_1000202260%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-饿了么技术往事（中）-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13913&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777827%3Futm_content%3Dg_1000202457%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -582,8 +604,6 @@
 - [2020-11-10-如何画出优秀的架构图？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13900&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fg9vN5CZzX5b_mSuqngs4sw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-JetBrains-的这个软件是真的香！（附教程）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13899&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDEj-ei4cbfIwDlSVmbP-yQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-10-开除了没情商的“技术大神”后，整个团队都好起来了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13898&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-CTF0XErwU9Yr7IjtBmhVg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-10-论做游戏外挂，Python-输过谁？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13897&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FedW-U0BTyQ0xrjRjI5Rw_Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-10-如何将业务代码写得更优雅-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13896&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWoQ98C34g-CFDb_1QZkNZw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 02:11:53，:rocket: 更新条数: +3051， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 02:22:17，:rocket: 更新条数: +3050， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
+- [2020-11-10-使用-Preload&Prefetch-优化前端页面的资源加载](https://juejin.im/post/6893681741240909832) ![](assets/new.png)  
 - [2020-11-10-蒲公英-·-JELLY技术周刊-Vol.29:-前端智能化在阿里的那些事](https://juejin.im/post/6893675335888404493) ![](assets/new.png)  
 - [2020-11-10-jsliang-求职系列---10---手写-call/apply/bind](https://juejin.im/post/6893642486556655630) ![](assets/new.png)  
 - [2020-11-10-前端如何突破技术与业务的瓶颈——Shopee一年半记](https://juejin.im/post/6893554905001230343) ![](assets/new.png)  
 - [2020-11-10-低代码开发平台核心功能设计——组件自定义交互实现](https://juejin.im/post/6893478613573156872) ![](assets/new.png)  
-- [2020-11-10-【译】用-JavaScript-实现堆](https://juejin.im/post/6893475005834330126) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,14 @@
 </summary>
 
 
+- [2020-11-11-提问：之前买的-MacBook-Pro-2020-年最新的那款，现在刚发布的-M1-芯片和新的-Mac，问一下亏没亏？](https://www.v2ex.com/t/723896) ![](assets/new.png)  
+- [2020-11-11-idea-今年双十一没有活动了呈](https://www.v2ex.com/t/723895) ![](assets/new.png)  
+- [2020-11-11-请教各位有没有开源的按键精灵](https://www.v2ex.com/t/723893) ![](assets/new.png)  
+- [2020-11-11-劝大家想要第一批买-M1-处理器的谨慎点](https://www.v2ex.com/t/723891) ![](assets/new.png)  
+- [2020-11-11-Oracle-数据库值得学习吗？面试加分吗？](https://www.v2ex.com/t/723890) ![](assets/new.png)  
+- [2020-11-11-apple-pencil-在-iPad-pro2020-上用-onenote-写字的时候会消失](https://www.v2ex.com/t/723888) ![](assets/new.png)  
+- [2020-11-11-可以从美国寄-iPhone-到香港吗？](https://www.v2ex.com/t/723887) ![](assets/new.png)  
+- [2020-11-11-新-Mac-mini-支持-4K-显示器哇？](https://www.v2ex.com/t/723885) ![](assets/new.png)  
 - [2020-11-11-如何客观的评价-M1-这款芯片?](https://www.v2ex.com/t/723884) ![](assets/new.png)  
 - [2020-11-11-这个情况怎么办呢？安装软件显示-A-fatal-error-has-been-detected-by-the-Java-Runtime-Environment:](https://www.v2ex.com/t/723883) ![](assets/new.png)  
 - [2020-11-11-M1-Mac-真能运行-iPhone-App-吗？](https://www.v2ex.com/t/723882) ![](assets/new.png)  
@@ -545,14 +553,6 @@
 - [2020-11-11-今天双-11，刚好是结婚纪念日，送什么好？](https://www.v2ex.com/t/723874) ![](assets/new.png)  
 - [2020-11-11-根据显示宽度，如何判断字符串长度和截取字符串？](https://www.v2ex.com/t/723873) ![](assets/new.png)  
 - [2020-11-11-今年技术转产品-在深圳被创业公司坑了-深圳公司挺少的社保都是按最低的交-上海公司比深圳多想去上海看看](https://www.v2ex.com/t/723872) ![](assets/new.png)  
-- [2020-11-11-所以我没理解错的话，-mac-风扇-$300-对吗](https://www.v2ex.com/t/723869) ![](assets/new.png)  
-- [2020-11-11-西数-12T-机械硬盘中亚-Prime-会员到手-￥-1330.54](https://www.v2ex.com/t/723868) ![](assets/new.png)  
-- [2020-11-11-这几天腾讯双十一-251-轻量云秒杀咋不限次数了？是-BUG-还是我偶然赶上了](https://www.v2ex.com/t/723867) ![](assets/new.png)  
-- [2020-11-11-求推荐，客厅-65-寸显示屏，看电视用，不是目前市面上带系统的](https://www.v2ex.com/t/723866) ![](assets/new.png)  
-- [2020-11-11-作为-Java-，-Go-等后端码畜，你们会考虑今夜发布的-ARM-Mac-吗？](https://www.v2ex.com/t/723865) ![](assets/new.png)  
-- [2020-11-11-请问下有什么-JavaWeb-的项目比较锻炼项目能力呢？](https://www.v2ex.com/t/723864) ![](assets/new.png)  
-- [2020-11-11-请问今天有哪些软件打折且值得购买吗？](https://www.v2ex.com/t/723863) ![](assets/new.png)  
-- [2020-11-11-mysql8.0-默认-plugin-为-caching_sha2_password，有客户端支持吗？-navicat，-PHP-php7.4-待确认）,-MySQL-Workbench-都不支持啊](https://www.v2ex.com/t/723862) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -610,11 +610,11 @@
 - [2020-11-11-Flink-单元测试指南](https://toutiao.io/k/eovnvk1) ![](assets/new.png)  
 - [2020-11-11-浅谈用户画像的系统化](https://toutiao.io/k/i4uk3xp) ![](assets/new.png)  
 - [2020-11-11-PID-算法在广告成本控制领域的应用](https://toutiao.io/k/8b5btn1) ![](assets/new.png)  
-- [2020-11-11-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-11-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-11-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-11-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-11-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
 - [2020-11-11-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-11-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-11-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-11-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

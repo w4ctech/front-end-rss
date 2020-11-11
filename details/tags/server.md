@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-11 05:47:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 06:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -7,5 +7,4 @@
 
 
 
-- [2020-11-11-想做个-Windows-上类似-Docker-的软件来安装国产软件](https://www.v2ex.com/t/723961) 
 - [2020-11-11-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) 

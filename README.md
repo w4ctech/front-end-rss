@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 00:57:18，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 01:04:00，:rocket: 更新条数: +3282， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-11-请教一下-Java-如何把一个-String-转成-GBK-编码？](https://www.v2ex.com/t/723828) ![](assets/new.png)  
+- [2020-11-11-弱弱问一下各位在用-Macos-的大佬们。。扫码枪-是不是不能在-Macos-下使用？？](https://www.v2ex.com/t/723827) ![](assets/new.png)  
 - [2020-11-11-苹果推出首款自研芯片-M1，我还关心以下两点](https://www.v2ex.com/t/723826) ![](assets/new.png)  
 - [2020-11-11-《在线工具秘籍》满-40-个了！一个-Github-开源维护的在线工具集合，让在线工具造福人类！目前已星标-1.4K](https://www.v2ex.com/t/723825) ![](assets/new.png)  
 - [2020-11-11-今年-Vmware-没优惠吗](https://www.v2ex.com/t/723823) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-10-Golang-或-Vue-开发机能不能买-M1-版本的苹果笔记本](https://www.v2ex.com/t/723805) ![](assets/new.png)  
 - [2020-11-10-composer-2.0-的-psr-4-规范问题](https://www.v2ex.com/t/723804) ![](assets/new.png)  
 - [2020-11-10-一个-macOS-玄学问题](https://www.v2ex.com/t/723803) ![](assets/new.png)  
-- [2020-11-10-MacBook-又出新款了，老款的问题怎么办](https://www.v2ex.com/t/723802) ![](assets/new.png)  
-- [2020-11-10-新的-M1-MacBook-应该会支持-bootcamp-的吧](https://www.v2ex.com/t/723801) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,14 +626,14 @@
 - [2020-11-11-介绍一个不太小的工具：Shell-Operator](https://toutiao.io/k/ceool0v) ![](assets/new.png)  
 - [2020-11-11-分布式系统课程笔记（二）：RPC-和线程](https://toutiao.io/k/h0bgqvq) ![](assets/new.png)  
 - [2020-11-11-工具-|-七牛云开源的，基于-Apache-Spark-开发的轻量级大数据-ETL-开发框架](https://toutiao.io/k/hebnm43) ![](assets/new.png)  
+- [2020-11-11-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-11-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-11-推荐-《我想进大厂》之-JVM-夺命连环-10-问](https://toutiao.io/k/swi8lo6) ![](assets/new.png)  
 - [2020-11-11-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-11-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
 - [2020-11-11-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
 - [2020-11-11-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-11-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-11-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
 - [2020-11-11-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-11-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-11-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
 - [2020-11-11-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

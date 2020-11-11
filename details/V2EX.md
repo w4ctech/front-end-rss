@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-11 19:33:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 19:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-mpvue-微信小程序不能全局注册子组件吗？](https://www.v2ex.com/t/724234) 
+- [2020-11-11-大家怎么看待云游戏方向？](https://www.v2ex.com/t/724233) 
 - [2020-11-11-有类似-UptimeRobot-的源码吗](https://www.v2ex.com/t/724232) 
 - [2020-11-11-求推荐充电宝](https://www.v2ex.com/t/724231) 
 - [2020-11-11-大家来推一些小众的优质-app/博客吧～](https://www.v2ex.com/t/724228) 

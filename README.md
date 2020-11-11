@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 16:05:42，:rocket: 更新条数: +2995， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 16:16:20，:rocket: 更新条数: +3033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -523,6 +523,26 @@
 </summary>
 
 
+- [2020-11-11-本次双-11-黑苹果-MATX-攒机结果](https://www.v2ex.com/t/724226) ![](assets/new.png)  
+- [2020-11-11-20201112-午夜俱乐部](https://www.v2ex.com/t/724224) ![](assets/new.png)  
+- [2020-11-11-前端仔问个事，你们怎么问领导技术问题，求指教](https://www.v2ex.com/t/724223) ![](assets/new.png)  
+- [2020-11-11-心累，给客户发了用户名和密码让他登录，结果登录界面要输入的是账号和密码，他问我账号是什么](https://www.v2ex.com/t/724222) ![](assets/new.png)  
+- [2020-11-11-在哪看天猫双-11-的实时交易现场直播](https://www.v2ex.com/t/724221) ![](assets/new.png)  
+- [2020-11-11-请推荐下招行信用卡，个人情况](https://www.v2ex.com/t/724220) ![](assets/new.png)  
+- [2020-11-11-12pro-看纯黑视频屏幕闪烁](https://www.v2ex.com/t/724219) ![](assets/new.png)  
+- [2020-11-11-火狐浏览器有啥好的细滚动条扩展](https://www.v2ex.com/t/724218) ![](assets/new.png)  
+- [2020-11-11-人在阿里，拿到一个国外创业公司的-remote-offer，怎么选择](https://www.v2ex.com/t/724216) ![](assets/new.png)  
+- [2020-11-11-抽~抽~抽~奖啦！柑子再也不用父亲爬过月台去买啦~](https://www.v2ex.com/t/724214) ![](assets/new.png)  
+- [2020-11-11-Sectigo-1-年泛域名-SSL-证书仅需￥-199-不来看看吗](https://www.v2ex.com/t/724212) ![](assets/new.png)  
+- [2020-11-11-谁能给仔细讲讲这个递归该咋理解吗？](https://www.v2ex.com/t/724211) ![](assets/new.png)  
+- [2020-11-11-Riven-Cloud-双十一-SSL-证书仅需-$2.5/年](https://www.v2ex.com/t/724210) ![](assets/new.png)  
+- [2020-11-11-我妈的学生借了我家-10-万块钱，不还了，怎么办？](https://www.v2ex.com/t/724209) ![](assets/new.png)  
+- [2020-11-11-中国人民银行原行长周小川：人工智能颠覆传统产业，引发结构性失业](https://www.v2ex.com/t/724208) ![](assets/new.png)  
+- [2020-11-11-iMac-5K-2020-今天更新-11.0.1-RC2-开机界面无限重启](https://www.v2ex.com/t/724206) ![](assets/new.png)  
+- [2020-11-11-迫于-UI-整天逛街，跪着求基于-ElementUI、Vant-的-UI-规范用于开发](https://www.v2ex.com/t/724205) ![](assets/new.png)  
+- [2020-11-11-迫于版权，有偿找人国外代下单-visual-assist-X-个人版许可证](https://www.v2ex.com/t/724204) ![](assets/new.png)  
+- [2020-11-11-JavaScript-中，前端捕捉键盘按键，如何处理组合键的问题？](https://www.v2ex.com/t/724203) ![](assets/new.png)  
+- [2020-11-11-刚买了某国内服务器，-cname-的阿里云香港解析...-域名经常-localhost，-why-？求教](https://www.v2ex.com/t/724201) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,21 +586,21 @@
 
 
 - [2020-11-11-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
-- [2020-11-11-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-11-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-11-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-11-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-11-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-11-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-11-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-11-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-11-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-11-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-11-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-11-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
 - [2020-11-11-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-11-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-11-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-11-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-11-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-11-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-11-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
 - [2020-11-11-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-11-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-11-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-11-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-11-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-11-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-11-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-11-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-11-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

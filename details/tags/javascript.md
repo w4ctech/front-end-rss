@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-10 23:47:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 00:07:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -58,6 +58,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-11-10-jsliang-求职系列---10---手写-call/apply/bind](https://juejin.im/post/6893642486556655630) 
 - [2020-11-10-低代码开发平台核心功能设计——组件自定义交互实现](https://juejin.im/post/6893478613573156872) 
 - [2020-11-10-【译】用-JavaScript-实现堆](https://juejin.im/post/6893475005834330126) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
@@ -69,7 +70,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2020-11-10-JavaScript-中，想删除数组的最后-N-项（重复很多次），最快的方法是什么？](https://www.v2ex.com/t/723807) 
-- [2020-11-10-什么是环境变量？](https://toutiao.io/k/t85bk83) 
-- [2020-11-10-从几亿的坑爹项目说-JSON-格式的比较的实现](https://toutiao.io/k/hq9n8q3) 
-- [2020-11-10-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/xs5f8j6) 
+- [2020-11-11-什么是环境变量？](https://toutiao.io/k/t85bk83) 
+- [2020-11-11-从几亿的坑爹项目说-JSON-格式的比较的实现](https://toutiao.io/k/hq9n8q3) 
+- [2020-11-11-如何创建与框架无关的-JavaScript-插件](https://toutiao.io/k/xs5f8j6) 
 - [2020-11-09-黑客攻击的下一个热点:路由器和NAS漏洞](https://sec.thief.one/article_content?a_id=69cee215b56eec5c881a33de73f980c8) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 06:33:07，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 06:48:00，:rocket: 更新条数: +3056， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 - [2020-11-10-11月10日全国新增确诊病例17例-其中本土病例1例](http://m.china.caixin.com/m/2020-11-11/101625908.html) ![](assets/new.png)  
 - [2020-11-10-大流行手记|11月10日：中国疫苗巴西临床试验受阻-拜登成立抗疫委员会](https://m.caixin.com/m/2020-11-11/101625933.html) ![](assets/new.png)  
+- [2020-11-10-【图集】安徽阜阳颍上县确诊1例上海关联新冠肺炎病例](http://m.photos.caixin.com/m/2020-11-11/101625941.html) ![](assets/new.png)  
 - [2020-11-09-聚焦|张文宏：上海病例病情不重-莫因偶发病例影响正常生活](http://m.opinion.caixin.com/m/2020-11-10/101625831.html) ![](assets/new.png)  
 - [2020-11-09-安徽阜阳确诊1例新冠病例-系上海确诊病例密接者](https://m.caixin.com/m/2020-11-10/101625593.html) ![](assets/new.png)  
 - [2020-11-09-最新海外疫情：新冠感染超5077万-累计死亡近126万](http://m.international.caixin.com/m/2020-11-10/101625788.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-07-解药|BioNTech调整新冠疫苗中国试验-热点疫苗有望在华上市](https://m.caixin.com/m/2020-11-08/101624471.html) ![](assets/new.png)  
 - [2020-11-06-【境内疫情观察】全国新增33例境外输入病例（11月6日）](http://m.database.caixin.com/m/2020-11-07/101624263.html) ![](assets/new.png)  
 - [2020-11-06-大流行手记|11月6日：丹麦水貂传播变异病毒](https://m.caixin.com/m/2020-11-07/101624156.html) ![](assets/new.png)  
-- [2020-11-05-【境内疫情观察】新疆新增6例本土确诊病例（11月5日）](http://m.database.caixin.com/m/2020-11-06/101623769.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-11-今年没有-apple-tv-更新了吗](https://www.v2ex.com/t/724032) ![](assets/new.png)  
 - [2020-11-11-求教-Java-中-http-长轮询机制怎么实现](https://www.v2ex.com/t/724029) ![](assets/new.png)  
 - [2020-11-11-地图可以做成自定义形状嘛？](https://www.v2ex.com/t/724028) ![](assets/new.png)  
 - [2020-11-11-问个触及知识盲区的问题，为啥-macbook-不上-5G-sim-卡槽？](https://www.v2ex.com/t/724027) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-11-迫于福报云活动，求问福报云上用代理出去会被抓吗（狗头](https://www.v2ex.com/t/724006) ![](assets/new.png)  
 - [2020-11-11-国行-M1-MAC-的-facetime-功能又被阉割了？](https://www.v2ex.com/t/724005) ![](assets/new.png)  
 - [2020-11-11-m1-芯片的-macbook-能玩暴雪全家桶吗？](https://www.v2ex.com/t/724004) ![](assets/new.png)  
-- [2020-11-11-杭州-直招-蚂蚁集团旗下世界领先的分布式数据库-OceanBase，诚聘前端工程师~](https://www.v2ex.com/t/724003) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-11-【实战分享】从选型到项目落地，漫谈-gRPC-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13920&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F285221429%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-T级内存，创建效率提升10倍以上，阿里云-KVM异构虚拟机启动时间优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13918&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777709%3Futm_content%3Dg_1000203098%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-容器coredns问题排查整理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13917&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-11-反编译完这些-app-后，我给它们的安全等级打个分-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-15-年编程经验总结出了-40-个改变编程技能的小技巧！强烈建议收藏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13902&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZQlzaIo9Y-sLtEE8qZWfIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-20-个-CSS-快速提升技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13901&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F74V0zvkBr6i94u4QzfF66A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-11-如何画出优秀的架构图？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13900&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fg9vN5CZzX5b_mSuqngs4sw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,8 +605,8 @@
 - [2020-11-11-介绍一个不太小的工具：Shell-Operator](https://toutiao.io/k/ceool0v) ![](assets/new.png)  
 - [2020-11-11-工具-|-七牛云开源的，基于-Apache-Spark-开发的轻量级大数据-ETL-开发框架](https://toutiao.io/k/hebnm43) ![](assets/new.png)  
 - [2020-11-11-分布式系统课程笔记（二）：RPC-和线程](https://toutiao.io/k/h0bgqvq) ![](assets/new.png)  
-- [2020-11-11-深入探索-Android-Gradle-插件的缓存配置](https://toutiao.io/k/3lbqjxp) ![](assets/new.png)  
 - [2020-11-11-在-Kotlin-中使用-WebFlux-+-R2DBC-开发-Web-项目](https://toutiao.io/k/rpywc74) ![](assets/new.png)  
+- [2020-11-11-深入探索-Android-Gradle-插件的缓存配置](https://toutiao.io/k/3lbqjxp) ![](assets/new.png)  
 - [2020-11-11-浅谈用户画像的系统化](https://toutiao.io/k/i4uk3xp) ![](assets/new.png)  
 - [2020-11-11-Flink-单元测试指南](https://toutiao.io/k/eovnvk1) ![](assets/new.png)  
 - [2020-11-11-PID-算法在广告成本控制领域的应用](https://toutiao.io/k/8b5btn1) ![](assets/new.png)  

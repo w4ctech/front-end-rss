@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 05:10:42，:rocket: 更新条数: +3056， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 05:19:26，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,7 +533,10 @@
 </summary>
 
 
-- [2020-11-11-深圳-小公司挺过的-想去上海看看。](https://www.v2ex.com/t/723981) ![](assets/new.png)  
+- [2020-11-11-就问什么时间出-14-寸窄边框？！或者外观-ID-设计改一改，这都几年了...](https://www.v2ex.com/t/723985) ![](assets/new.png)  
+- [2020-11-11-字节教育业务线招人了！海量-HC-15-薪+-北京-深圳-上海](https://www.v2ex.com/t/723984) ![](assets/new.png)  
+- [2020-11-11-如果苹果停更-X86-架构下的-mbp-产品线，是不是有人会像我一样短期更新电脑得告别-mac-体系了（顺便求大佬对支持-X86-的解答）](https://www.v2ex.com/t/723983) ![](assets/new.png)  
+- [2020-11-11-深圳都是小公司-。。所以想去上海看看。](https://www.v2ex.com/t/723981) ![](assets/new.png)  
 - [2020-11-11-培训班出来的人都图的什么？](https://www.v2ex.com/t/723980) ![](assets/new.png)  
 - [2020-11-11-ARM-上的-macOS-Big-Sur-是跑在虚拟机上吗，还是基于-iPadOS-的扩展版？](https://www.v2ex.com/t/723979) ![](assets/new.png)  
 - [2020-11-11-入门-Java-后端，想找一个视频教程看，但网上的视频教程太多了，求-V-友推荐](https://www.v2ex.com/t/723978) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-11-想做个-Windows-上类似-Docker-的软件来安装国产软件](https://www.v2ex.com/t/723961) ![](assets/new.png)  
 - [2020-11-11-来说说自己业余项目的技术栈](https://www.v2ex.com/t/723960) ![](assets/new.png)  
 - [2020-11-11-如何把-WordPress-的文章，一键全部导出为-MD-文档？](https://www.v2ex.com/t/723959) ![](assets/new.png)  
-- [2020-11-11-ARM-Mac-最关键的-Rosetta2-x86-转-ARM-的-CPU-转译性能，发布会只字未提，所有提到的性能提升，均没有测试环境、项目和对象](https://www.v2ex.com/t/723958) ![](assets/new.png)  
-- [2020-11-11-北京15~40K15-薪-360-奇舞团-即视-招聘高级前端开发工程师Electron-vue不加班](https://www.v2ex.com/t/723957) ![](assets/new.png)  
-- [2020-11-11-请教个-Java-的单表查询和多表关联查询的问题](https://www.v2ex.com/t/723956) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-11-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-T级内存，创建效率提升10倍以上，阿里云-KVM异构虚拟机启动时间优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13918&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777709%3Futm_content%3Dg_1000203098%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-容器coredns问题排查整理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13917&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-容器coredns问题排查整理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13916&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-11-15-年编程经验总结出了-40-个改变编程技能的小技巧！强烈建议收藏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13902&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZQlzaIo9Y-sLtEE8qZWfIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-20-个-CSS-快速提升技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13901&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F74V0zvkBr6i94u4QzfF66A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-如何画出优秀的架构图？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13900&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fg9vN5CZzX5b_mSuqngs4sw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-11-JetBrains-的这个软件是真的香！（附教程）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13899&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDEj-ei4cbfIwDlSVmbP-yQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

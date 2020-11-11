@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-11 12:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 12:27:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-内推-社招-AI-制药国内领先企业--AI-算法](https://www.v2ex.com/t/724175) 
+- [2020-11-11-比-Send-Anywhere-更好用的内/外网，双端互传工具，求推荐](https://www.v2ex.com/t/724174) 
 - [2020-11-11-现在-Ubuntu14.04-还有办法升级-PHP7-吗？](https://www.v2ex.com/t/724172) 
 - [2020-11-11-川西有哪些比较好的行程规划？](https://www.v2ex.com/t/724171) 
 - [2020-11-11-小米门锁支持-applepay-的公交卡解锁吗？](https://www.v2ex.com/t/724169) 
@@ -43,6 +45,3 @@
 - [2020-11-11-测试开发这个岗位怎么样？有没有过来人聊一聊](https://www.v2ex.com/t/724131) 
 - [2020-11-11-安卓手机应用开发该学-C++，-Java-，还是-Kotlin？](https://www.v2ex.com/t/724129) 
 - [2020-11-11-用带光纤口的路由器替换光猫，可行？](https://www.v2ex.com/t/724127) 
-- [2020-11-11-M1-的-Macbook-加上翻折屏加上触控可以干翻-iPad-了](https://www.v2ex.com/t/724125) 
-- [2020-11-11-应届童鞋们注意啦~实习生岗位开放出来啦~-表现好有留用机会哦](https://www.v2ex.com/t/724124) 
-- [2020-11-11-How-to-Get-a-Free-Scholarship-Tuition-Fee-at-a-Foreign-College](https://www.v2ex.com/t/724123) 

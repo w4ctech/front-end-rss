@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 14:04:25，:rocket: 更新条数: +3062， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 14:12:06，:rocket: 更新条数: +3061， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-11-刚买了某国内服务器，-cname-的阿里云香港解析...-域名经常-localhost，-why-？求教](https://www.v2ex.com/t/724201) ![](assets/new.png)  
 - [2020-11-11-mac-timemachine-备份数据到移动硬盘的问题](https://www.v2ex.com/t/724199) ![](assets/new.png)  
 - [2020-11-11-失望，本来期待苹果让小-macbook-复活呢。M1-感觉非常适合小-macbook-啊，难道仅仅是键盘的原因？](https://www.v2ex.com/t/724198) ![](assets/new.png)  
 - [2020-11-11-请问身份证银行卡营业执照都被人拍走了有危险吗？](https://www.v2ex.com/t/724197) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-11-微软面试题：全排列](https://www.v2ex.com/t/724179) ![](assets/new.png)  
 - [2020-11-11-招聘销售专员，销售经理，售前工程师，云工程师](https://www.v2ex.com/t/724178) ![](assets/new.png)  
 - [2020-11-11-Spring5.0-源码学习系列之浅谈-BeanFactory-创建](https://www.v2ex.com/t/724176) ![](assets/new.png)  
-- [2020-11-11-内推-社招-AI-制药国内领先企业--AI-算法](https://www.v2ex.com/t/724175) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

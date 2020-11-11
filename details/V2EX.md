@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-11 14:04:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 14:12:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-刚买了某国内服务器，-cname-的阿里云香港解析...-域名经常-localhost，-why-？求教](https://www.v2ex.com/t/724201) 
 - [2020-11-11-mac-timemachine-备份数据到移动硬盘的问题](https://www.v2ex.com/t/724199) 
 - [2020-11-11-失望，本来期待苹果让小-macbook-复活呢。M1-感觉非常适合小-macbook-啊，难道仅仅是键盘的原因？](https://www.v2ex.com/t/724198) 
 - [2020-11-11-请问身份证银行卡营业执照都被人拍走了有危险吗？](https://www.v2ex.com/t/724197) 
@@ -42,5 +43,3 @@
 - [2020-11-11-大家-mbp16-电池能用多久？我感觉就五六个小时](https://www.v2ex.com/t/724155) 
 - [2020-11-11-Hyperf-发布-v2.0.18-版本-|-企业级的-PHP-微服务云原生协程框架](https://www.v2ex.com/t/724154) 
 - [2020-11-11-IOS-14.2-无法添加-gmail-邮箱](https://www.v2ex.com/t/724153) 
-- [2020-11-11-推荐一款记录日子的软件，链接➕兑换码](https://www.v2ex.com/t/724152) 
-- [2020-11-11-Docker-国内镜像全挂了？](https://www.v2ex.com/t/724151) 

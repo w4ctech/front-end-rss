@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 09:03:51，:rocket: 更新条数: +3054， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 09:11:23，:rocket: 更新条数: +3051， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-11-曝光一个骗子-认识这个骗子的经历在-v2-上看到一个帖子每个月-35azure-试用账号,发帖人在帖子下留了卖-azure-号的人。-最近一次购买没给开号,然后因为-40-元...](https://www.v2ex.com/t/724107) ![](assets/new.png)  
+- [2020-11-11-今年双十一一个东西也没有买!你呢?](https://www.v2ex.com/t/724105) ![](assets/new.png)  
 - [2020-11-11-有没有适合孩子好玩的可编程玩具？](https://www.v2ex.com/t/724104) ![](assets/new.png)  
 - [2020-11-11-社招-北京-美资大数据外企-前端/大数据研发](https://www.v2ex.com/t/724103) ![](assets/new.png)  
 - [2020-11-11-跟人事经理谈了薪资，然后等-offer，-2-号到现在-offer-都没发下来，中间问了几次都说是在走流程，大领导还没批？是不是有问题？](https://www.v2ex.com/t/724102) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-11-各种考证的工作年限问题](https://www.v2ex.com/t/724079) ![](assets/new.png)  
 - [2020-11-11-现在公司档案管理-用数据库检索-对应实物的方法有那些方案啊-求大佬赐教](https://www.v2ex.com/t/724078) ![](assets/new.png)  
 - [2020-11-11-Big-sur-rc2-与-idea](https://www.v2ex.com/t/724077) ![](assets/new.png)  
-- [2020-11-11-log4j-一会换行一会不换行的](https://www.v2ex.com/t/724076) ![](assets/new.png)  
-- [2020-11-11-兼职开发-前端-+-后端（2-台-Ubuntu-电脑，通过服务器传输少量数据，类似：微信）](https://www.v2ex.com/t/724075) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

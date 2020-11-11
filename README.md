@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 07:33:11，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 07:48:04，:rocket: 更新条数: +3059， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-11-上海——坚果云（高并发效率工具软件）招-Mac-OS/-IOS-方向，速来戳！](https://www.v2ex.com/t/724067) ![](assets/new.png)  
+- [2020-11-11-google-tasks-不能提醒](https://www.v2ex.com/t/724064) ![](assets/new.png)  
 - [2020-11-11-五个充电器的钱就能买-ARM-Mac-Mini-了](https://www.v2ex.com/t/724063) ![](assets/new.png)  
 - [2020-11-11-Mac-大写键切换“中/英”会有连按效果，什么问题？](https://www.v2ex.com/t/724062) ![](assets/new.png)  
 - [2020-11-11-X86-软路由配置-IPv6-踩坑小记](https://www.v2ex.com/t/724060) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-11-有什么方法能设置隐藏屏幕挖孔时，顶部黑条的高度？](https://www.v2ex.com/t/724044) ![](assets/new.png)  
 - [2020-11-11-掘金-chrome-插件-出问题了-有掘金的老铁可以反馈一下不~](https://www.v2ex.com/t/724043) ![](assets/new.png)  
 - [2020-11-11-如何关闭「锁屏界面左划打开相机」功能？](https://www.v2ex.com/t/724042) ![](assets/new.png)  
-- [2020-11-11-红米-ac2100-及家庭网络配置问题请教](https://www.v2ex.com/t/724041) ![](assets/new.png)  
-- [2020-11-11-centos8-crontab--e-无法保存问题](https://www.v2ex.com/t/724040) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

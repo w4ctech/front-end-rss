@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 01:36:27，:rocket: 更新条数: +3046， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 01:47:44，:rocket: 更新条数: +3045， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
+- [2020-11-10-蒲公英-·-JELLY技术周刊-Vol.29:-前端智能化在阿里的那些事](https://juejin.im/post/6893675335888404493) ![](assets/new.png)  
 - [2020-11-10-jsliang-求职系列---10---手写-call/apply/bind](https://juejin.im/post/6893642486556655630) ![](assets/new.png)  
 - [2020-11-10-前端如何突破技术与业务的瓶颈——Shopee一年半记](https://juejin.im/post/6893554905001230343) ![](assets/new.png)  
 - [2020-11-10-低代码开发平台核心功能设计——组件自定义交互实现](https://juejin.im/post/6893478613573156872) ![](assets/new.png)  
 - [2020-11-10-【译】用-JavaScript-实现堆](https://juejin.im/post/6893475005834330126) ![](assets/new.png)  
-- [2020-11-10-Vue-3-响应式侦听与计算](https://juejin.im/post/6893460032214532109) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-11-您们都在用-cloudflare-吗](https://www.v2ex.com/t/723856) ![](assets/new.png)  
+- [2020-11-11-intel-cpu-的-mac-升级-big-sur-可以运行-ios-应用吗](https://www.v2ex.com/t/723855) ![](assets/new.png)  
+- [2020-11-11-这种变脸特效有谁知道怎么做吗](https://www.v2ex.com/t/723854) ![](assets/new.png)  
+- [2020-11-11-BigSur-11.0.1-Release-Candidate-2-Release](https://www.v2ex.com/t/723852) ![](assets/new.png)  
+- [2020-11-11-Jenkins-刚入门，求助](https://www.v2ex.com/t/723851) ![](assets/new.png)  
 - [2020-11-11-win10-官方-iso-自带-360-预装？](https://www.v2ex.com/t/723847) ![](assets/new.png)  
 - [2020-11-11-v-佬们，最近双十一又没有什么推荐的拓展屏，本人是做前端开发的经常用到分屏。而且也有-switch-游戏机需要便携式的拓展屏。京东给我推荐个呗-1000-一下就行](https://www.v2ex.com/t/723845) ![](assets/new.png)  
 - [2020-11-11-想买一张流量卡，大家有什么推荐](https://www.v2ex.com/t/723844) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-11-请教一下-Java-如何把一个-String-转成-GBK-编码？](https://www.v2ex.com/t/723828) ![](assets/new.png)  
 - [2020-11-11-弱弱问一下各位在用-Macos-的大佬们。。扫码枪-是不是不能在-Macos-下使用？？](https://www.v2ex.com/t/723827) ![](assets/new.png)  
 - [2020-11-11-苹果推出首款自研芯片-M1，我还关心以下两点](https://www.v2ex.com/t/723826) ![](assets/new.png)  
-- [2020-11-11-《在线工具秘籍》满-40-个了！一个-Github-开源维护的在线工具集合，让在线工具造福人类！目前已星标-1.4K](https://www.v2ex.com/t/723825) ![](assets/new.png)  
-- [2020-11-11-今年-Vmware-没优惠吗](https://www.v2ex.com/t/723823) ![](assets/new.png)  
-- [2020-11-11-问下-M1-的-mac，-usb4／雷电-3-会支持-egpu-么，没看发布会，也还没看回放，新闻也没有。担心跟-amd-的雷电-3-一样都是不可以的](https://www.v2ex.com/t/723822) ![](assets/new.png)  
-- [2020-11-11-吐槽下-GoLand，真重量级-IDE](https://www.v2ex.com/t/723821) ![](assets/new.png)  
-- [2020-11-11-在职想注册个公司用自己身份注册还是用别人身份注册后面再转回来！](https://www.v2ex.com/t/723820) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -598,23 +598,23 @@
 - [2020-11-11-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
 - [2020-11-11-Hadoop-框架：DataNode-工作机制详解](https://toutiao.io/k/1eyo5g3) ![](assets/new.png)  
 - [2020-11-11-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-11-老旧系统重构技巧，轻松搞定遗留代码](https://toutiao.io/k/u37jlbp) ![](assets/new.png)  
 - [2020-11-11-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
+- [2020-11-11-老旧系统重构技巧，轻松搞定遗留代码](https://toutiao.io/k/u37jlbp) ![](assets/new.png)  
 - [2020-11-11-经理让我复盘上次-Redis-缓存雪崩事故](https://toutiao.io/k/b99o2o0) ![](assets/new.png)  
+- [2020-11-11-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [2020-11-11-介绍一个不太小的工具：Shell-Operator](https://toutiao.io/k/ceool0v) ![](assets/new.png)  
 - [2020-11-11-深入探索-Android-Gradle-插件的缓存配置](https://toutiao.io/k/3lbqjxp) ![](assets/new.png)  
 - [2020-11-11-在-Kotlin-中使用-WebFlux-+-R2DBC-开发-Web-项目](https://toutiao.io/k/rpywc74) ![](assets/new.png)  
 - [2020-11-11-分布式系统课程笔记（二）：RPC-和线程](https://toutiao.io/k/h0bgqvq) ![](assets/new.png)  
-- [2020-11-11-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [2020-11-11-工具-|-七牛云开源的，基于-Apache-Spark-开发的轻量级大数据-ETL-开发框架](https://toutiao.io/k/hebnm43) ![](assets/new.png)  
 - [2020-11-11-Flink-单元测试指南](https://toutiao.io/k/eovnvk1) ![](assets/new.png)  
 - [2020-11-11-PID-算法在广告成本控制领域的应用](https://toutiao.io/k/8b5btn1) ![](assets/new.png)  
 - [2020-11-11-浅谈用户画像的系统化](https://toutiao.io/k/i4uk3xp) ![](assets/new.png)  
+- [2020-11-11-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-11-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-11-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [2020-11-11-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
 - [2020-11-11-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-11-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-11-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-11-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

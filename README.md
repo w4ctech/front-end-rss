@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 07:20:48，:rocket: 更新条数: +3057， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 07:33:11，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,19 @@
 </summary>
 
 
+- [2020-11-11-五个充电器的钱就能买-ARM-Mac-Mini-了](https://www.v2ex.com/t/724063) ![](assets/new.png)  
+- [2020-11-11-Mac-大写键切换“中/英”会有连按效果，什么问题？](https://www.v2ex.com/t/724062) ![](assets/new.png)  
+- [2020-11-11-X86-软路由配置-IPv6-踩坑小记](https://www.v2ex.com/t/724060) ![](assets/new.png)  
+- [2020-11-11-M1-Mac-对目前-Intel-Mac-的价格有没有冲击？](https://www.v2ex.com/t/724059) ![](assets/new.png)  
+- [2020-11-11-为什么-apple-watch-还是采用-usb-A-的接口？](https://www.v2ex.com/t/724058) ![](assets/new.png)  
+- [2020-11-11-手把手教你如何搭建一个属于自己的无限存储图床](https://www.v2ex.com/t/724057) ![](assets/new.png)  
+- [2020-11-11-考核不达标被辞退，公司想让我签字主动申请离职](https://www.v2ex.com/t/724056) ![](assets/new.png)  
+- [2020-11-11-大家要小心了，刚接到一个诈骗电话自称小米金融客服，说有学生贷要注销，不注销就影响征信之类的](https://www.v2ex.com/t/724055) ![](assets/new.png)  
+- [2020-11-11-求大佬帮忙抓个-APP-包，成功送个-200-红包作为答谢](https://www.v2ex.com/t/724054) ![](assets/new.png)  
+- [2020-11-11-做个预测-，伴随着后面出一个更强芯片，-MacBook-Pro-13-还会出个高配版](https://www.v2ex.com/t/724053) ![](assets/new.png)  
+- [2020-11-11-iPhone-12-屏幕中奖了，显示黑色图片发白偏绿](https://www.v2ex.com/t/724051) ![](assets/new.png)  
+- [2020-11-11-统一内存是什么规格？](https://www.v2ex.com/t/724050) ![](assets/new.png)  
+- [2020-11-11-关于新-mac-电脑可以跑那些程序](https://www.v2ex.com/t/724049) ![](assets/new.png)  
 - [2020-11-11-人口普查信息都不联网么？你们都被普查过多少次？](https://www.v2ex.com/t/724046) ![](assets/new.png)  
 - [2020-11-11-大佬们觉得-Golang-什么时候会和-Python-抢-AI-的市场？](https://www.v2ex.com/t/724045) ![](assets/new.png)  
 - [2020-11-11-有什么方法能设置隐藏屏幕挖孔时，顶部黑条的高度？](https://www.v2ex.com/t/724044) ![](assets/new.png)  
@@ -540,19 +553,6 @@
 - [2020-11-11-如何关闭「锁屏界面左划打开相机」功能？](https://www.v2ex.com/t/724042) ![](assets/new.png)  
 - [2020-11-11-红米-ac2100-及家庭网络配置问题请教](https://www.v2ex.com/t/724041) ![](assets/new.png)  
 - [2020-11-11-centos8-crontab--e-无法保存问题](https://www.v2ex.com/t/724040) ![](assets/new.png)  
-- [2020-11-11-很好奇阿里云-rds-数据库备份的原理，我就用了-2g-容量-，每天备份一次，总共备份了-7-天，结果用-了-50-多-G，](https://www.v2ex.com/t/724039) ![](assets/new.png)  
-- [2020-11-11-URLOS-开箱即用的容器云管理平台-标准版永久授权-原价-1888-元-双十一-11.11-元](https://www.v2ex.com/t/724038) ![](assets/new.png)  
-- [2020-11-11-这是良心云的-BUG？还是内有猫腻？](https://www.v2ex.com/t/724037) ![](assets/new.png)  
-- [2020-11-11-网易游戏奇点事业部-社招内推](https://www.v2ex.com/t/724036) ![](assets/new.png)  
-- [2020-11-11-M1-芯片的-MacBook-可以用-Parallels-跑-Windows-吗](https://www.v2ex.com/t/724035) ![](assets/new.png)  
-- [2020-11-11-今年没有-apple-tv-更新了吗](https://www.v2ex.com/t/724032) ![](assets/new.png)  
-- [2020-11-11-求教-Java-中-http-长轮询机制怎么实现](https://www.v2ex.com/t/724029) ![](assets/new.png)  
-- [2020-11-11-地图可以做成自定义形状嘛？](https://www.v2ex.com/t/724028) ![](assets/new.png)  
-- [2020-11-11-问个触及知识盲区的问题，为啥-macbook-不上-5G-sim-卡槽？](https://www.v2ex.com/t/724027) ![](assets/new.png)  
-- [2020-11-11-gradlew-编译-:app:transformClassesWithDesugarForDebug-很费时间](https://www.v2ex.com/t/724026) ![](assets/new.png)  
-- [2020-11-11-如果-4-个效能核心真的能跑到双核-intel-的-air-水平](https://www.v2ex.com/t/724025) ![](assets/new.png)  
-- [2020-11-11-Vs-code-远程开发-cpu、内存占用过高导致机器无法呼吸](https://www.v2ex.com/t/724024) ![](assets/new.png)  
-- [2020-11-11-前端开发买新款的-mbp13-还是老款的](https://www.v2ex.com/t/724022) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

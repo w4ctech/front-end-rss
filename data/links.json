@@ -5,9 +5,9 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "最新疫情：全国新冠累计确诊86267例 上海本土新增1例",
-        "link": "https://m.caixin.com/m/2020-11-10/101625791.html",
-        "date": "2020-11-09"
+        "title": "11月10日全国新增确诊病例17例 其中本土病例1例",
+        "link": "http://m.china.caixin.com/m/2020-11-11/101625908.html",
+        "date": "2020-11-10"
       },
       {
         "title": "聚焦|张文宏：上海病例病情不重 莫因偶发病例影响正常生活",
@@ -14538,6 +14538,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "今年 Vmware 没优惠吗",
+        "link": "https://www.v2ex.com/t/723823",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "问下 M1 的 mac， usb4／雷电 3 会支持 egpu 么，没看发布会，也还没看回放，新闻也没有。担心跟 amd 的雷电 3 一样都是不可以的",
+        "link": "https://www.v2ex.com/t/723822",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "吐槽下 GoLand，真重量级 IDE",
+        "link": "https://www.v2ex.com/t/723821",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "在职想注册个公司用自己身份注册还是用别人身份注册后面再转回来！",
+        "link": "https://www.v2ex.com/t/723820",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "发布会已经发布了，话说 macos 11 何时推送正式版啦",
+        "link": "https://www.v2ex.com/t/723818",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "Vue 项目怎样操作本地文件夹",
+        "link": "https://www.v2ex.com/t/723816",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "阿里云活动买的 1 核 2g 云主机有什么可玩度？",
+        "link": "https://www.v2ex.com/t/723815",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "半年前就想换 16 寸 mbp 一直等到现在",
+        "link": "https://www.v2ex.com/t/723814",
+        "date": "2020-11-11"
+      },
+      {
         "title": "YouTube Premium 印度区会员发车",
         "link": "https://www.v2ex.com/t/723813",
         "date": "2020-11-11"
@@ -14686,56 +14726,6 @@
         "title": "2020 年的 Android 平板选择",
         "link": "https://www.v2ex.com/t/723778",
         "date": "2020-11-10"
-      },
-      {
-        "title": "双十一全选 bug？",
-        "link": "https://www.v2ex.com/t/723773",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "数据库给自增 id 前加 00000000 也能正常查询，这种情况何解？发现 V 站也是这样",
-        "link": "https://www.v2ex.com/t/723772",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "双 11 的时候，有没有看好电商导购模式，类似什么值得买 ，招几个合伙人",
-        "link": "https://www.v2ex.com/t/723771",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "支付宝在双 11 前几小时因为“系统维护”关闭余额宝以及余额提现通道？？",
-        "link": "https://www.v2ex.com/t/723770",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "好像是同一个保温壶，网易严选，京东京造，其他品牌，换个标就能换个价？",
-        "link": "https://www.v2ex.com/t/723769",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "错过校招，还有救？",
-        "link": "https://www.v2ex.com/t/723768",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "Google Play 微信是不更新了吗？",
-        "link": "https://www.v2ex.com/t/723767",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "腾讯子公司 和 小公司 offer 怎么选？",
-        "link": "https://www.v2ex.com/t/723766",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "CSND 的红包雨不能关吗？",
-        "link": "https://www.v2ex.com/t/723765",
-        "date": "2020-11-10"
-      },
-      {
-        "title": "买官网的充电头还是 Anker",
-        "link": "https://www.v2ex.com/t/723764",
-        "date": "2020-11-10"
       }
     ]
   },
@@ -14852,18 +14842,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "Hadoop 框架：DataNode 工作机制详解",
-        "link": "https://toutiao.io/k/1eyo5g3",
-        "date": "2020-11-11"
-      },
-      {
         "title": "52 图初探 Linux 通用知识",
         "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-11"
       },
       {
-        "title": "技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
+        "title": "Hadoop 框架：DataNode 工作机制详解",
+        "link": "https://toutiao.io/k/1eyo5g3",
         "date": "2020-11-11"
       },
       {
@@ -14872,23 +14857,53 @@
         "date": "2020-11-11"
       },
       {
+        "title": "技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-11"
+      },
+      {
         "title": "经理让我复盘上次 Redis 缓存雪崩事故",
         "link": "https://toutiao.io/k/b99o2o0",
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
+        "title": "深入探索 Android Gradle 插件的缓存配置",
+        "link": "https://toutiao.io/k/3lbqjxp",
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
+        "title": "分布式系统课程笔记（二）：RPC 和线程",
+        "link": "https://toutiao.io/k/h0bgqvq",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "在 Kotlin 中使用 WebFlux + R2DBC 开发 Web 项目",
+        "link": "https://toutiao.io/k/rpywc74",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "介绍一个不太小的工具：Shell Operator",
+        "link": "https://toutiao.io/k/ceool0v",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "工具 | 七牛云开源的，基于 Apache Spark 开发的轻量级大数据 ETL 开发框架",
+        "link": "https://toutiao.io/k/hebnm43",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-11"
       },
       {
@@ -14897,43 +14912,13 @@
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-11"
-      },
-      {
         "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
         "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-11"
       },
       {
@@ -14947,8 +14932,43 @@
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-11"
       }
     ]

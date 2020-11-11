@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-11 00:23:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 00:46:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,6 +26,7 @@
 - [2020-11-11-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-11-反编译完这些-app-后，我给它们的安全等级打个分-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-11-经理让我复盘上次-Redis-缓存雪崩事故](https://toutiao.io/k/b99o2o0) 
+- [2020-11-11-深入探索-Android-Gradle-插件的缓存配置](https://toutiao.io/k/3lbqjxp) 
 - [2020-11-10-【安全圈】阿里投资的印度最大杂货电商BigBasket超2000万客户数据...](https://sec.thief.one/article_content?a_id=6c3d634ceb6b3fd900465466816d39ab) 
 - [2020-11-10-「小米手机&AIoT安全守护Bundle计划」正式发布](https://sec.thief.one/article_content?a_id=df90e97c4015b75f3f4e8cf4e1af38d1) 
 - [2020-11-10-体系化呈现内生安全框架,虎符论坛第一季为何瞄准工控安全?](https://sec.thief.one/article_content?a_id=861767498e4e4a9ebb110a18b2d9558d) 

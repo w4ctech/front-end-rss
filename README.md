@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 00:23:28，:rocket: 更新条数: +3042， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 00:46:19，:rocket: 更新条数: +3046， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-11-09-最新疫情：全国新冠累计确诊86267例-上海本土新增1例](https://m.caixin.com/m/2020-11-10/101625791.html) ![](assets/new.png)  
+- [2020-11-10-11月10日全国新增确诊病例17例-其中本土病例1例](http://m.china.caixin.com/m/2020-11-11/101625908.html) ![](assets/new.png)  
 - [2020-11-09-聚焦|张文宏：上海病例病情不重-莫因偶发病例影响正常生活](http://m.opinion.caixin.com/m/2020-11-10/101625831.html) ![](assets/new.png)  
 - [2020-11-09-安徽阜阳确诊1例新冠病例-系上海确诊病例密接者](https://m.caixin.com/m/2020-11-10/101625593.html) ![](assets/new.png)  
 - [2020-11-09-最新海外疫情：新冠感染超5077万-累计死亡近126万](http://m.international.caixin.com/m/2020-11-10/101625788.html) ![](assets/new.png)  
@@ -533,6 +533,14 @@
 </summary>
 
 
+- [2020-11-11-今年-Vmware-没优惠吗](https://www.v2ex.com/t/723823) ![](assets/new.png)  
+- [2020-11-11-问下-M1-的-mac，-usb4／雷电-3-会支持-egpu-么，没看发布会，也还没看回放，新闻也没有。担心跟-amd-的雷电-3-一样都是不可以的](https://www.v2ex.com/t/723822) ![](assets/new.png)  
+- [2020-11-11-吐槽下-GoLand，真重量级-IDE](https://www.v2ex.com/t/723821) ![](assets/new.png)  
+- [2020-11-11-在职想注册个公司用自己身份注册还是用别人身份注册后面再转回来！](https://www.v2ex.com/t/723820) ![](assets/new.png)  
+- [2020-11-11-发布会已经发布了，话说-macos-11-何时推送正式版啦](https://www.v2ex.com/t/723818) ![](assets/new.png)  
+- [2020-11-11-Vue-项目怎样操作本地文件夹](https://www.v2ex.com/t/723816) ![](assets/new.png)  
+- [2020-11-11-阿里云活动买的-1-核-2g-云主机有什么可玩度？](https://www.v2ex.com/t/723815) ![](assets/new.png)  
+- [2020-11-11-半年前就想换-16-寸-mbp-一直等到现在](https://www.v2ex.com/t/723814) ![](assets/new.png)  
 - [2020-11-11-YouTube-Premium-印度区会员发车](https://www.v2ex.com/t/723813) ![](assets/new.png)  
 - [2020-11-11-新加坡真的是网飞亚洲地区片源最多的吗](https://www.v2ex.com/t/723811) ![](assets/new.png)  
 - [2020-11-10-购物节这种模式什么时候才能消失啊…](https://www.v2ex.com/t/723808) ![](assets/new.png)  
@@ -545,14 +553,6 @@
 - [2020-11-10-新的-M1-MacBook-应该会支持-bootcamp-的吧](https://www.v2ex.com/t/723801) ![](assets/new.png)  
 - [2020-11-10-macOS-Big-Sur-beta-降级正式版问题](https://www.v2ex.com/t/723800) ![](assets/new.png)  
 - [2020-11-10-M1-版本设备中，只有-MacBook-Pro-可以升级到-16GB-内存](https://www.v2ex.com/t/723799) ![](assets/new.png)  
-- [2020-11-10-macOS-Big-Sur-11.0.1-RC-2-发布了](https://www.v2ex.com/t/723797) ![](assets/new.png)  
-- [2020-11-10-白等了，-MBP16-寸没更新](https://www.v2ex.com/t/723796) ![](assets/new.png)  
-- [2020-11-10-新的-MacBook-Pro-只有一边有两个-USB-C-型接口了，另一边只有耳机接口](https://www.v2ex.com/t/723795) ![](assets/new.png)  
-- [2020-11-10-找工作，如果空窗期很久，怎么解释？面试官比较容易接受](https://www.v2ex.com/t/723794) ![](assets/new.png)  
-- [2020-11-10-有点激动-mac-mini,-macbook-air,-macbook-pro-13](https://www.v2ex.com/t/723793) ![](assets/new.png)  
-- [2020-11-10-你会选-MacBook-Air-还是-MacBook-Pro](https://www.v2ex.com/t/723792) ![](assets/new.png)  
-- [2020-11-10-M1-是否会救活-Mac-mini-产品线？](https://www.v2ex.com/t/723791) ![](assets/new.png)  
-- [2020-11-10-20201111-午夜俱乐部](https://www.v2ex.com/t/723790) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -595,26 +595,26 @@
 </summary>
 
 
-- [2020-11-11-Hadoop-框架：DataNode-工作机制详解](https://toutiao.io/k/1eyo5g3) ![](assets/new.png)  
 - [2020-11-11-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-11-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-11-Hadoop-框架：DataNode-工作机制详解](https://toutiao.io/k/1eyo5g3) ![](assets/new.png)  
 - [2020-11-11-老旧系统重构技巧，轻松搞定遗留代码](https://toutiao.io/k/u37jlbp) ![](assets/new.png)  
+- [2020-11-11-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
 - [2020-11-11-经理让我复盘上次-Redis-缓存雪崩事故](https://toutiao.io/k/b99o2o0) ![](assets/new.png)  
-- [2020-11-11-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-11-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
-- [2020-11-11-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-11-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-11-推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5) ![](assets/new.png)  
-- [2020-11-11-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-11-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-11-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-11-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-11-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
-- [2020-11-11-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
+- [2020-11-11-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
+- [2020-11-11-深入探索-Android-Gradle-插件的缓存配置](https://toutiao.io/k/3lbqjxp) ![](assets/new.png)  
+- [2020-11-11-分布式系统课程笔记（二）：RPC-和线程](https://toutiao.io/k/h0bgqvq) ![](assets/new.png)  
+- [2020-11-11-在-Kotlin-中使用-WebFlux-+-R2DBC-开发-Web-项目](https://toutiao.io/k/rpywc74) ![](assets/new.png)  
+- [2020-11-11-介绍一个不太小的工具：Shell-Operator](https://toutiao.io/k/ceool0v) ![](assets/new.png)  
+- [2020-11-11-工具-|-七牛云开源的，基于-Apache-Spark-开发的轻量级大数据-ETL-开发框架](https://toutiao.io/k/hebnm43) ![](assets/new.png)  
+- [2020-11-11-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
 - [2020-11-11-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-11-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-11-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-11-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
 - [2020-11-11-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
 - [2020-11-11-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-11-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-11-推荐-OOM-都搞不定，还敢妄称自己-Java-高级攻城狮？](https://toutiao.io/k/plw773i) ![](assets/new.png)  
+- [2020-11-11-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

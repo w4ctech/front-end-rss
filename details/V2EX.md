@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-11 04:12:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 04:23:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-Ruby,-Rails-不值一学](https://www.v2ex.com/t/723965) 
+- [2020-11-11-捞一下《全方位-MBP2020-续航耗电深度测试》聊一聊-ARM-翻倍的续航](https://www.v2ex.com/t/723964) 
 - [2020-11-11-HEXO-博客如何导入原来的帖子](https://www.v2ex.com/t/723963) 
 - [2020-11-11-2020-年-4k-144hz-HDR400-/-4k-60hz-HDR1000-哪个合适](https://www.v2ex.com/t/723962) 
 - [2020-11-11-想做个-Windows-上类似-Docker-的软件来安装国产软件](https://www.v2ex.com/t/723961) 
@@ -43,4 +45,3 @@
 - [2020-11-11-双十一-Parallels-Desktop-有活动，一年订阅-349，刚买](https://www.v2ex.com/t/723919) 
 - [2020-11-11-广州天河中公教育大厦、五山、华师地铁附近租房求推荐](https://www.v2ex.com/t/723918) 
 - [2020-11-11-M1-要快过-98%去年售出的-PC-笔记本](https://www.v2ex.com/t/723917) 
-- [2020-11-11-V2EX-领取每日奖励按钮所指向的链接中，-once-参数是用来做什么的](https://www.v2ex.com/t/723914) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-11 23:10:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 23:19:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-WebLogic-的-Azure-虚拟机主要版本发布](https://www.v2ex.com/t/724241) 
 - [2020-11-11-Cinebench-发布-R23，适配-Apple-Silicon](https://www.v2ex.com/t/724240) 
 - [2020-11-11-分享一个无聊至极的-Youtube-直播频道,-主播是几只隼](https://www.v2ex.com/t/724239) 
 - [2020-11-11-Google-Photos-存储空间政策变了](https://www.v2ex.com/t/724238) 
@@ -44,4 +45,3 @@
 - [2020-11-11-长袖-T-恤品牌求推荐](https://www.v2ex.com/t/724195) 
 - [2020-11-11-在京东下手买了-k30s-至尊纪念版，双-11+北京消费券还是挺优惠的](https://www.v2ex.com/t/724194) 
 - [2020-11-11-听说你们的博客主题比我这个还简洁？](https://www.v2ex.com/t/724193) 
-- [2020-11-11-要从深圳跑路了，有什么比较好的跨城搬家推荐吗](https://www.v2ex.com/t/724192) 

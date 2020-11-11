@@ -14356,11 +14356,6 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "vue 图片裁剪上传组件",
-        "link": "https://juejin.im/post/6893788892944662541",
-        "date": "2020-11-11"
-      },
-      {
         "title": "jquery工具方法整理",
         "link": "https://juejin.im/post/6893778951350452232",
         "date": "2020-11-11"
@@ -14378,6 +14373,11 @@
       {
         "title": "深入了解 Vue3 响应式原理",
         "link": "https://juejin.im/post/6893763807899271181",
+        "date": "2020-11-10"
+      },
+      {
+        "title": "前端安全系列-csrf攻击",
+        "link": "https://juejin.im/post/6893761805630472200",
         "date": "2020-11-10"
       }
     ]
@@ -14563,6 +14563,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "GraphX 在图数据库 Nebula Graph 的图计算实践",
+        "link": "https://www.v2ex.com/t/724134",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "「深圳/远程｜ 10-25k」量城科技 2020 爬虫工程师、数据工程师招聘",
+        "link": "https://www.v2ex.com/t/724133",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "现在上海哪里还能逛街吃街头小吃？",
+        "link": "https://www.v2ex.com/t/724132",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "测试开发这个岗位怎么样？有没有过来人聊一聊",
+        "link": "https://www.v2ex.com/t/724131",
+        "date": "2020-11-11"
+      },
+      {
         "title": "安卓手机应用开发该学 C++， Java ，还是 Kotlin？",
         "link": "https://www.v2ex.com/t/724129",
         "date": "2020-11-11"
@@ -14711,11 +14731,6 @@
         "title": "单位里虽然进行过很多业务培训，但是收效微乎其微，由于行业的要求，必须要更新学习技能，一直在纠结，如何让员工培训变得有效？怎样检验培训的效果？",
         "link": "https://www.v2ex.com/t/724086",
         "date": "2020-11-11"
-      },
-      {
-        "title": "支付宝，开通三湘银行理财产品一直提示系统繁忙",
-        "link": "https://www.v2ex.com/t/724081",
-        "date": "2020-11-11"
       }
     ]
   },
@@ -14724,6 +14739,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "全球边缘计算大会：阿里云资深技术专家李克畅谈边缘计算的技术趋势与挑战 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13922&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778090%3Futm_content%3Dg_1000203101%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-11"
+      },
       {
         "title": "Android网络性能监控方案 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13921&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778070%3Futm_content%3Dg_1000203100%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14817,11 +14837,6 @@
       {
         "title": "反编译完这些 app 后，我给它们的安全等级打个分 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "15 年编程经验总结出了 40 个改变编程技能的小技巧！强烈建议收藏 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13902&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZQlzaIo9Y-sLtEE8qZWfIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-11"
       }
     ]
@@ -14932,28 +14947,8 @@
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
         "date": "2020-11-11"
       },
       {
@@ -14967,33 +14962,8 @@
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
         "date": "2020-11-11"
       },
       {
@@ -15002,8 +14972,53 @@
         "date": "2020-11-11"
       },
       {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-11"
+      },
+      {
         "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
         "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-11"
       }
     ]

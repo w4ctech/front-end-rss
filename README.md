@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 10:04:02，:rocket: 更新条数: +3053， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 10:12:06，:rocket: 更新条数: +3056， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
-- [2020-11-11-vue-图片裁剪上传组件](https://juejin.im/post/6893788892944662541) ![](assets/new.png)  
 - [2020-11-11-jquery工具方法整理](https://juejin.im/post/6893778951350452232) ![](assets/new.png)  
 - [2020-11-10-理解-JavaScript-中的执行上下文和执行栈](https://juejin.im/post/6893766148307812359) ![](assets/new.png)  
 - [2020-11-10-我对Vue数据响应式的理解](https://juejin.im/post/6893763913175793671) ![](assets/new.png)  
 - [2020-11-10-深入了解-Vue3-响应式原理](https://juejin.im/post/6893763807899271181) ![](assets/new.png)  
+- [2020-11-10-前端安全系列-csrf攻击](https://juejin.im/post/6893761805630472200) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-11-GraphX-在图数据库-Nebula-Graph-的图计算实践](https://www.v2ex.com/t/724134) ![](assets/new.png)  
+- [2020-11-11-「深圳/远程｜-10-25k」量城科技-2020-爬虫工程师、数据工程师招聘](https://www.v2ex.com/t/724133) ![](assets/new.png)  
+- [2020-11-11-现在上海哪里还能逛街吃街头小吃？](https://www.v2ex.com/t/724132) ![](assets/new.png)  
+- [2020-11-11-测试开发这个岗位怎么样？有没有过来人聊一聊](https://www.v2ex.com/t/724131) ![](assets/new.png)  
 - [2020-11-11-安卓手机应用开发该学-C++，-Java-，还是-Kotlin？](https://www.v2ex.com/t/724129) ![](assets/new.png)  
 - [2020-11-11-打工人不懂就问,cto-是否存在威胁和损害个人隐私](https://www.v2ex.com/t/724128) ![](assets/new.png)  
 - [2020-11-11-用带光纤口的路由器替换光猫，可行？](https://www.v2ex.com/t/724127) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-11-你们公司让用自己的电脑开发吗](https://www.v2ex.com/t/724111) ![](assets/new.png)  
 - [2020-11-11-国密加密算法-SM4](https://www.v2ex.com/t/724110) ![](assets/new.png)  
 - [2020-11-11-曝光一个骗子-认识这个骗子的经历在-v2-上看到一个帖子每个月-35azure-试用账号,发帖人在帖子下留了卖-azure-号的人。-最近一次购买没给开号,然后因为-40-元...](https://www.v2ex.com/t/724107) ![](assets/new.png)  
-- [2020-11-11-今年双十一一个东西也没有买!你呢?](https://www.v2ex.com/t/724105) ![](assets/new.png)  
-- [2020-11-11-有没有适合孩子好玩的可编程玩具？](https://www.v2ex.com/t/724104) ![](assets/new.png)  
-- [2020-11-11-社招-北京-美资大数据外企-前端/大数据研发](https://www.v2ex.com/t/724103) ![](assets/new.png)  
-- [2020-11-11-跟人事经理谈了薪资，然后等-offer，-2-号到现在-offer-都没发下来，中间问了几次都说是在走流程，大领导还没批？是不是有问题？](https://www.v2ex.com/t/724102) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-11-全球边缘计算大会：阿里云资深技术专家李克畅谈边缘计算的技术趋势与挑战-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13922&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778090%3Futm_content%3Dg_1000203101%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-Android网络性能监控方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13921&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778070%3Futm_content%3Dg_1000203100%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-【实战分享】从选型到项目落地，漫谈-gRPC-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13920&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F285221429%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-11-用完-Gradle-之后，有点嫌弃-Maven了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13905&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FD6lMy7hHwB5oyx8z-WhZew%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-Android-获取-App-累积时长-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13904&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrKMnT9ViPYnxFzzv849RHQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-11-反编译完这些-app-后，我给它们的安全等级打个分-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-11-15-年编程经验总结出了-40-个改变编程技能的小技巧！强烈建议收藏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13902&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZQlzaIo9Y-sLtEE8qZWfIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

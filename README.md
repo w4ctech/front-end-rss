@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 05:04:34，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 05:10:42，:rocket: 更新条数: +3056， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-11-深圳-小公司挺过的-想去上海看看。](https://www.v2ex.com/t/723981) ![](assets/new.png)  
+- [2020-11-11-培训班出来的人都图的什么？](https://www.v2ex.com/t/723980) ![](assets/new.png)  
+- [2020-11-11-ARM-上的-macOS-Big-Sur-是跑在虚拟机上吗，还是基于-iPadOS-的扩展版？](https://www.v2ex.com/t/723979) ![](assets/new.png)  
 - [2020-11-11-入门-Java-后端，想找一个视频教程看，但网上的视频教程太多了，求-V-友推荐](https://www.v2ex.com/t/723978) ![](assets/new.png)  
 - [2020-11-11-关于出租商铺的一些疑问](https://www.v2ex.com/t/723977) ![](assets/new.png)  
 - [2020-11-11-iPad-PRO-接上键盘或触控板可以上-BIG-SUR](https://www.v2ex.com/t/723975) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-11-ARM-Mac-最关键的-Rosetta2-x86-转-ARM-的-CPU-转译性能，发布会只字未提，所有提到的性能提升，均没有测试环境、项目和对象](https://www.v2ex.com/t/723958) ![](assets/new.png)  
 - [2020-11-11-北京15~40K15-薪-360-奇舞团-即视-招聘高级前端开发工程师Electron-vue不加班](https://www.v2ex.com/t/723957) ![](assets/new.png)  
 - [2020-11-11-请教个-Java-的单表查询和多表关联查询的问题](https://www.v2ex.com/t/723956) ![](assets/new.png)  
-- [2020-11-11-站内吹爆的戴尔-u2720q-就这？](https://www.v2ex.com/t/723954) ![](assets/new.png)  
-- [2020-11-11-想现在买-intel-mbp](https://www.v2ex.com/t/723953) ![](assets/new.png)  
-- [2020-11-11-你敢信吗？双-11，我买了-120-斤大米😲](https://www.v2ex.com/t/723952) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -604,8 +604,8 @@
 - [2020-11-11-经理让我复盘上次-Redis-缓存雪崩事故](https://toutiao.io/k/b99o2o0) ![](assets/new.png)  
 - [2020-11-11-介绍一个不太小的工具：Shell-Operator](https://toutiao.io/k/ceool0v) ![](assets/new.png)  
 - [2020-11-11-工具-|-七牛云开源的，基于-Apache-Spark-开发的轻量级大数据-ETL-开发框架](https://toutiao.io/k/hebnm43) ![](assets/new.png)  
-- [2020-11-11-深入探索-Android-Gradle-插件的缓存配置](https://toutiao.io/k/3lbqjxp) ![](assets/new.png)  
 - [2020-11-11-在-Kotlin-中使用-WebFlux-+-R2DBC-开发-Web-项目](https://toutiao.io/k/rpywc74) ![](assets/new.png)  
+- [2020-11-11-深入探索-Android-Gradle-插件的缓存配置](https://toutiao.io/k/3lbqjxp) ![](assets/new.png)  
 - [2020-11-11-分布式系统课程笔记（二）：RPC-和线程](https://toutiao.io/k/h0bgqvq) ![](assets/new.png)  
 - [2020-11-11-Flink-单元测试指南](https://toutiao.io/k/eovnvk1) ![](assets/new.png)  
 - [2020-11-11-浅谈用户画像的系统化](https://toutiao.io/k/i4uk3xp) ![](assets/new.png)  

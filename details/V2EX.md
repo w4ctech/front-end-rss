@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-11 05:04:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 05:10:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-深圳-小公司挺过的-想去上海看看。](https://www.v2ex.com/t/723981) 
+- [2020-11-11-培训班出来的人都图的什么？](https://www.v2ex.com/t/723980) 
+- [2020-11-11-ARM-上的-macOS-Big-Sur-是跑在虚拟机上吗，还是基于-iPadOS-的扩展版？](https://www.v2ex.com/t/723979) 
 - [2020-11-11-入门-Java-后端，想找一个视频教程看，但网上的视频教程太多了，求-V-友推荐](https://www.v2ex.com/t/723978) 
 - [2020-11-11-关于出租商铺的一些疑问](https://www.v2ex.com/t/723977) 
 - [2020-11-11-iPad-PRO-接上键盘或触控板可以上-BIG-SUR](https://www.v2ex.com/t/723975) 
@@ -40,5 +43,3 @@
 - [2020-11-11-问个压测的小问题！](https://www.v2ex.com/t/723934) 
 - [2020-11-11-爬虫-post-请求-data-为-list-的情况求助](https://www.v2ex.com/t/723933) 
 - [2020-11-11-初入机器学习，询问前辈点思路。](https://www.v2ex.com/t/723932) 
-- [2020-11-11-Apple-Silicon-值得购买吗？](https://www.v2ex.com/t/723931) 
-- [2020-11-11-忍无可忍，为啥我的-mbp-老是-3-天不关机会自动死机重启](https://www.v2ex.com/t/723930) 

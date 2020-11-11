@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 08:13:06，:rocket: 更新条数: +3058， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 08:23:26，:rocket: 更新条数: +3057， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-11-有没有一些数学公式识别和运算的轮子？](https://www.v2ex.com/t/724089) ![](assets/new.png)  
+- [2020-11-11-不装-App，上班摸鱼的时候，怎么股票交易？](https://www.v2ex.com/t/724088) ![](assets/new.png)  
+- [2020-11-11-迫于港美股大跌，求教怎么调节心情](https://www.v2ex.com/t/724087) ![](assets/new.png)  
+- [2020-11-11-单位里虽然进行过很多业务培训，但是收效微乎其微，由于行业的要求，必须要更新学习技能，一直在纠结，如何让员工培训变得有效？怎样检验培训的效果？](https://www.v2ex.com/t/724086) ![](assets/new.png)  
 - [2020-11-11-支付宝，开通三湘银行理财产品一直提示系统繁忙](https://www.v2ex.com/t/724081) ![](assets/new.png)  
 - [2020-11-11-找室友-：-2-号线-北新泾-永馨小区，-两室，可办居住证，面积大，南北向采光好，有合适的伙伴请联系。](https://www.v2ex.com/t/724080) ![](assets/new.png)  
 - [2020-11-11-各种考证的工作年限问题](https://www.v2ex.com/t/724079) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-11-Mac-大写键切换“中/英”会有连按效果，什么问题？](https://www.v2ex.com/t/724062) ![](assets/new.png)  
 - [2020-11-11-X86-软路由配置-IPv6-踩坑小记](https://www.v2ex.com/t/724060) ![](assets/new.png)  
 - [2020-11-11-M1-Mac-对目前-Intel-Mac-的价格有没有冲击？](https://www.v2ex.com/t/724059) ![](assets/new.png)  
-- [2020-11-11-为什么-apple-watch-还是采用-usb-A-的接口？](https://www.v2ex.com/t/724058) ![](assets/new.png)  
-- [2020-11-11-手把手教你如何搭建一个属于自己的无限存储图床](https://www.v2ex.com/t/724057) ![](assets/new.png)  
-- [2020-11-11-考核不达标被辞退，公司想让我签字主动申请离职](https://www.v2ex.com/t/724056) ![](assets/new.png)  
-- [2020-11-11-大家要小心了，刚接到一个诈骗电话自称小米金融客服，说有学生贷要注销，不注销就影响征信之类的](https://www.v2ex.com/t/724055) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -603,8 +603,8 @@
 - [2020-11-11-老旧系统重构技巧，轻松搞定遗留代码](https://toutiao.io/k/u37jlbp) ![](assets/new.png)  
 - [2020-11-11-经理让我复盘上次-Redis-缓存雪崩事故](https://toutiao.io/k/b99o2o0) ![](assets/new.png)  
 - [2020-11-11-介绍一个不太小的工具：Shell-Operator](https://toutiao.io/k/ceool0v) ![](assets/new.png)  
-- [2020-11-11-工具-|-七牛云开源的，基于-Apache-Spark-开发的轻量级大数据-ETL-开发框架](https://toutiao.io/k/hebnm43) ![](assets/new.png)  
 - [2020-11-11-分布式系统课程笔记（二）：RPC-和线程](https://toutiao.io/k/h0bgqvq) ![](assets/new.png)  
+- [2020-11-11-工具-|-七牛云开源的，基于-Apache-Spark-开发的轻量级大数据-ETL-开发框架](https://toutiao.io/k/hebnm43) ![](assets/new.png)  
 - [2020-11-11-深入探索-Android-Gradle-插件的缓存配置](https://toutiao.io/k/3lbqjxp) ![](assets/new.png)  
 - [2020-11-11-在-Kotlin-中使用-WebFlux-+-R2DBC-开发-Web-项目](https://toutiao.io/k/rpywc74) ![](assets/new.png)  
 - [2020-11-11-浅谈用户画像的系统化](https://toutiao.io/k/i4uk3xp) ![](assets/new.png)  

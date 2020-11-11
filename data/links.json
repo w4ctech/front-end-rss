@@ -14543,6 +14543,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问现在华美怎么入金？",
+        "link": "https://www.v2ex.com/t/723902",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "bigsur 13 号正式发布了 开发机可推荐升级啊",
+        "link": "https://www.v2ex.com/t/723901",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "想学 C++，能不能直接从最新的 C++20 开始？",
+        "link": "https://www.v2ex.com/t/723899",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "从岳 X 事件有感，我突然异想天开了一下，能不能有个平台，把人的 DNA 利用非对称加密和散列等数字签名技术做个证书或者公钥类似的东西。所有人可以验证一些最基...",
+        "link": "https://www.v2ex.com/t/723898",
+        "date": "2020-11-11"
+      },
+      {
         "title": "提问：之前买的 MacBook Pro 2020 年最新的那款，现在刚发布的 M1 芯片和新的 Mac，问一下亏没亏？",
         "link": "https://www.v2ex.com/t/723896",
         "date": "2020-11-11"
@@ -14711,21 +14731,6 @@
         "title": "这种变脸特效有谁知道怎么做吗",
         "link": "https://www.v2ex.com/t/723854",
         "date": "2020-11-11"
-      },
-      {
-        "title": "BigSur 11.0.1 Release Candidate 2 Release",
-        "link": "https://www.v2ex.com/t/723852",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "Jenkins 刚入门，求助",
-        "link": "https://www.v2ex.com/t/723851",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "win10 官方 iso 自带 360 预装？",
-        "link": "https://www.v2ex.com/t/723847",
-        "date": "2020-11-11"
       }
     ]
   },
@@ -14847,8 +14852,8 @@
         "date": "2020-11-11"
       },
       {
-        "title": "Hadoop 框架：DataNode 工作机制详解",
-        "link": "https://toutiao.io/k/1eyo5g3",
+        "title": "自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-11"
       },
       {
@@ -14857,8 +14862,8 @@
         "date": "2020-11-11"
       },
       {
-        "title": "自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "Hadoop 框架：DataNode 工作机制详解",
+        "link": "https://toutiao.io/k/1eyo5g3",
         "date": "2020-11-11"
       },
       {
@@ -14917,38 +14922,8 @@
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
+        "title": "Go Modules 如何创建和发布 v2 及更高版本？",
+        "link": "https://toutiao.io/k/0f9ro53",
         "date": "2020-11-11"
       },
       {
@@ -14957,23 +14932,23 @@
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
+        "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-11"
       },
       {
@@ -14982,13 +14957,48 @@
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-11"
       },
       {
         "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
         "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
         "date": "2020-11-11"
       }
     ]

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-11 02:22:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 02:32:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-请问现在华美怎么入金？](https://www.v2ex.com/t/723902) 
+- [2020-11-11-bigsur-13-号正式发布了-开发机可推荐升级啊](https://www.v2ex.com/t/723901) 
+- [2020-11-11-想学-C++，能不能直接从最新的-C++20-开始？](https://www.v2ex.com/t/723899) 
+- [2020-11-11-从岳-X-事件有感，我突然异想天开了一下，能不能有个平台，把人的-DNA-利用非对称加密和散列等数字签名技术做个证书或者公钥类似的东西。所有人可以验证一些最基...](https://www.v2ex.com/t/723898) 
 - [2020-11-11-提问：之前买的-MacBook-Pro-2020-年最新的那款，现在刚发布的-M1-芯片和新的-Mac，问一下亏没亏？](https://www.v2ex.com/t/723896) 
 - [2020-11-11-idea-今年双十一没有活动了呈](https://www.v2ex.com/t/723895) 
 - [2020-11-11-请教各位有没有开源的按键精灵](https://www.v2ex.com/t/723893) 
@@ -39,6 +43,3 @@
 - [2020-11-11-您们都在用-cloudflare-吗](https://www.v2ex.com/t/723856) 
 - [2020-11-11-intel-cpu-的-mac-升级-big-sur-可以运行-ios-应用吗](https://www.v2ex.com/t/723855) 
 - [2020-11-11-这种变脸特效有谁知道怎么做吗](https://www.v2ex.com/t/723854) 
-- [2020-11-11-BigSur-11.0.1-Release-Candidate-2-Release](https://www.v2ex.com/t/723852) 
-- [2020-11-11-Jenkins-刚入门，求助](https://www.v2ex.com/t/723851) 
-- [2020-11-11-win10-官方-iso-自带-360-预装？](https://www.v2ex.com/t/723847) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-11 02:22:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 02:32:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,4 +41,6 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2020-11-11-从岳-X-事件有感，我突然异想天开了一下，能不能有个平台，把人的-DNA-利用非对称加密和散列等数字签名技术做个证书或者公钥类似的东西。所有人可以验证一些最基...](https://www.v2ex.com/t/723898) 
+- [2020-11-11-Go-Modules-如何创建和发布-v2-及更高版本？](https://toutiao.io/k/0f9ro53) 
 - [2020-11-09-黑客攻击的下一个热点:路由器和NAS漏洞](https://sec.thief.one/article_content?a_id=69cee215b56eec5c881a33de73f980c8) 

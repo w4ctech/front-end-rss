@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 02:22:17，:rocket: 更新条数: +3050， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 02:32:51，:rocket: 更新条数: +3052， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-11-请问现在华美怎么入金？](https://www.v2ex.com/t/723902) ![](assets/new.png)  
+- [2020-11-11-bigsur-13-号正式发布了-开发机可推荐升级啊](https://www.v2ex.com/t/723901) ![](assets/new.png)  
+- [2020-11-11-想学-C++，能不能直接从最新的-C++20-开始？](https://www.v2ex.com/t/723899) ![](assets/new.png)  
+- [2020-11-11-从岳-X-事件有感，我突然异想天开了一下，能不能有个平台，把人的-DNA-利用非对称加密和散列等数字签名技术做个证书或者公钥类似的东西。所有人可以验证一些最基...](https://www.v2ex.com/t/723898) ![](assets/new.png)  
 - [2020-11-11-提问：之前买的-MacBook-Pro-2020-年最新的那款，现在刚发布的-M1-芯片和新的-Mac，问一下亏没亏？](https://www.v2ex.com/t/723896) ![](assets/new.png)  
 - [2020-11-11-idea-今年双十一没有活动了呈](https://www.v2ex.com/t/723895) ![](assets/new.png)  
 - [2020-11-11-请教各位有没有开源的按键精灵](https://www.v2ex.com/t/723893) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-11-M1-有-Geebenck-跑分数据了吗？](https://www.v2ex.com/t/723878) ![](assets/new.png)  
 - [2020-11-11-转正被卡，要跑路吗？](https://www.v2ex.com/t/723877) ![](assets/new.png)  
 - [2020-11-11-每当整点的时候，-window10-都会卡一下，这什么原理？](https://www.v2ex.com/t/723876) ![](assets/new.png)  
-- [2020-11-11-快手补招机会-校招内推](https://www.v2ex.com/t/723875) ![](assets/new.png)  
-- [2020-11-11-今天双-11，刚好是结婚纪念日，送什么好？](https://www.v2ex.com/t/723874) ![](assets/new.png)  
-- [2020-11-11-根据显示宽度，如何判断字符串长度和截取字符串？](https://www.v2ex.com/t/723873) ![](assets/new.png)  
-- [2020-11-11-今年技术转产品-在深圳被创业公司坑了-深圳公司挺少的社保都是按最低的交-上海公司比深圳多想去上海看看](https://www.v2ex.com/t/723872) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -596,9 +596,9 @@
 
 
 - [2020-11-11-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-11-Hadoop-框架：DataNode-工作机制详解](https://toutiao.io/k/1eyo5g3) ![](assets/new.png)  
-- [2020-11-11-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
 - [2020-11-11-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-11-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-11-Hadoop-框架：DataNode-工作机制详解](https://toutiao.io/k/1eyo5g3) ![](assets/new.png)  
 - [2020-11-11-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
 - [2020-11-11-老旧系统重构技巧，轻松搞定遗留代码](https://toutiao.io/k/u37jlbp) ![](assets/new.png)  
 - [2020-11-11-经理让我复盘上次-Redis-缓存雪崩事故](https://toutiao.io/k/b99o2o0) ![](assets/new.png)  
@@ -610,11 +610,11 @@
 - [2020-11-11-Flink-单元测试指南](https://toutiao.io/k/eovnvk1) ![](assets/new.png)  
 - [2020-11-11-浅谈用户画像的系统化](https://toutiao.io/k/i4uk3xp) ![](assets/new.png)  
 - [2020-11-11-PID-算法在广告成本控制领域的应用](https://toutiao.io/k/8b5btn1) ![](assets/new.png)  
-- [2020-11-11-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-11-Go-Modules-如何创建和发布-v2-及更高版本？](https://toutiao.io/k/0f9ro53) ![](assets/new.png)  
+- [2020-11-11-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [2020-11-11-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-11-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
 - [2020-11-11-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-11-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-11-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

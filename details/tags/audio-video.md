@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-11 07:04:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 07:11:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -73,6 +73,8 @@
 - [2020-01-21-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-21-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-19-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
+- [2020-11-11-分享一个批量下载-YouTube-视频的方法（自媒体人必备）](https://www.v2ex.com/t/724020) 
+- [2020-11-11-短视频平台抖音、快手等会提供官方的查原作者的接口吗](https://www.v2ex.com/t/723999) 
 - [2020-11-10-双十一返场直播!后天下午2点,超值FreeBuf周边低至9.9元~](https://sec.thief.one/article_content?a_id=471291f63d4f53bcb8a89fd358a75c0a) 
 - [2020-11-10-【2020-SDC】现场议题完整视频上线啦!优质干货需要反复学习!](https://sec.thief.one/article_content?a_id=8d4b0798fd50fc52da8ee99b07df12a8) 
 - [2020-11-09-【视频】|-网警微电影《网战》](https://sec.thief.one/article_content?a_id=ec40e17bc760003ba066c276181a927d) 

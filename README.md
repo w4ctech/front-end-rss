@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 07:04:18，:rocket: 更新条数: +3021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 07:11:30，:rocket: 更新条数: +3059， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-11-有什么方法能设置隐藏屏幕挖孔时，顶部黑条的高度？](https://www.v2ex.com/t/724044) ![](assets/new.png)  
+- [2020-11-11-掘金-chrome-插件-出问题了-有掘金的老铁可以反馈一下不~](https://www.v2ex.com/t/724043) ![](assets/new.png)  
+- [2020-11-11-如何关闭「锁屏界面左划打开相机」功能？](https://www.v2ex.com/t/724042) ![](assets/new.png)  
+- [2020-11-11-红米-ac2100-及家庭网络配置问题请教](https://www.v2ex.com/t/724041) ![](assets/new.png)  
+- [2020-11-11-centos8-crontab--e-无法保存问题](https://www.v2ex.com/t/724040) ![](assets/new.png)  
+- [2020-11-11-很好奇阿里云-rds-数据库备份的原理，我就用了-2g-容量-，每天备份一次，总共备份了-7-天，结果用-了-50-多-G，](https://www.v2ex.com/t/724039) ![](assets/new.png)  
+- [2020-11-11-URLOS-开箱即用的容器云管理平台-标准版永久授权-原价-1888-元-双十一-11.11-元](https://www.v2ex.com/t/724038) ![](assets/new.png)  
+- [2020-11-11-这是良心云的-BUG？还是内有猫腻？](https://www.v2ex.com/t/724037) ![](assets/new.png)  
+- [2020-11-11-网易游戏奇点事业部-社招内推](https://www.v2ex.com/t/724036) ![](assets/new.png)  
+- [2020-11-11-M1-芯片的-MacBook-可以用-Parallels-跑-Windows-吗](https://www.v2ex.com/t/724035) ![](assets/new.png)  
+- [2020-11-11-今年没有-apple-tv-更新了吗](https://www.v2ex.com/t/724032) ![](assets/new.png)  
+- [2020-11-11-求教-Java-中-http-长轮询机制怎么实现](https://www.v2ex.com/t/724029) ![](assets/new.png)  
+- [2020-11-11-地图可以做成自定义形状嘛？](https://www.v2ex.com/t/724028) ![](assets/new.png)  
+- [2020-11-11-问个触及知识盲区的问题，为啥-macbook-不上-5G-sim-卡槽？](https://www.v2ex.com/t/724027) ![](assets/new.png)  
+- [2020-11-11-gradlew-编译-:app:transformClassesWithDesugarForDebug-很费时间](https://www.v2ex.com/t/724026) ![](assets/new.png)  
+- [2020-11-11-如果-4-个效能核心真的能跑到双核-intel-的-air-水平](https://www.v2ex.com/t/724025) ![](assets/new.png)  
+- [2020-11-11-Vs-code-远程开发-cpu、内存占用过高导致机器无法呼吸](https://www.v2ex.com/t/724024) ![](assets/new.png)  
+- [2020-11-11-前端开发买新款的-mbp13-还是老款的](https://www.v2ex.com/t/724022) ![](assets/new.png)  
+- [2020-11-11-分享一个批量下载-YouTube-视频的方法（自媒体人必备）](https://www.v2ex.com/t/724020) ![](assets/new.png)  
+- [2020-11-11-ios-有没有什么好用的-9-键输入法啊](https://www.v2ex.com/t/724019) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -583,8 +603,8 @@
 - [2020-11-11-老旧系统重构技巧，轻松搞定遗留代码](https://toutiao.io/k/u37jlbp) ![](assets/new.png)  
 - [2020-11-11-经理让我复盘上次-Redis-缓存雪崩事故](https://toutiao.io/k/b99o2o0) ![](assets/new.png)  
 - [2020-11-11-介绍一个不太小的工具：Shell-Operator](https://toutiao.io/k/ceool0v) ![](assets/new.png)  
-- [2020-11-11-分布式系统课程笔记（二）：RPC-和线程](https://toutiao.io/k/h0bgqvq) ![](assets/new.png)  
 - [2020-11-11-工具-|-七牛云开源的，基于-Apache-Spark-开发的轻量级大数据-ETL-开发框架](https://toutiao.io/k/hebnm43) ![](assets/new.png)  
+- [2020-11-11-分布式系统课程笔记（二）：RPC-和线程](https://toutiao.io/k/h0bgqvq) ![](assets/new.png)  
 - [2020-11-11-深入探索-Android-Gradle-插件的缓存配置](https://toutiao.io/k/3lbqjxp) ![](assets/new.png)  
 - [2020-11-11-在-Kotlin-中使用-WebFlux-+-R2DBC-开发-Web-项目](https://toutiao.io/k/rpywc74) ![](assets/new.png)  
 - [2020-11-11-浅谈用户画像的系统化](https://toutiao.io/k/i4uk3xp) ![](assets/new.png)  

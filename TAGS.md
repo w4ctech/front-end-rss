@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-11 13:04:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 13:10:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,19 @@
 
 
 
+- [【凹凸实验室】使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/)
+- [【凹凸实验室】Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/)
+- [【凹凸实验室】Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)
+- [【凹凸实验室】使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/)
+- [【凹凸实验室】Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/)
+- [【凹凸实验室】为何我们要用-React-来写小程序---Taro-诞生记](https://aotu.io/notes/2018/06/25/the-birth-of-taro/)
+- [【凹凸实验室】Nerv实战---京东首页改版小结](https://aotu.io/notes/2018/04/24/jdindex_2017/)
+- [【凹凸实验室】Nerv---京东高性能前端框架](https://aotu.io/notes/2018/03/22/nerv/)
+- [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
+- [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
+- [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
 - [【掘金前端】🔥基于React全家桶开发「网易云音乐PC」项目实战一](https://juejin.im/post/6893817287917338632)
+- [【掘金前端】如果没有virtual-dom，react会怎样？](https://juejin.im/post/6893680913742462989)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -57,7 +69,14 @@
 
 
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
+- [【凹凸实验室】使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/)
+- [【凹凸实验室】Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/)
+- [【凹凸实验室】一个栗子实践vue2.0与1.0的区别](https://aotu.io/notes/2016/12/28/vue-clock/)
+- [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
+- [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
+- [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
 - [【掘金前端】Vue3-模板编译优化](https://juejin.im/post/6893839274304700429)
+- [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -74,6 +93,7 @@
 
 
 
+- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -90,6 +110,13 @@
 
 
 
+- [【凹凸实验室】Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/)
+- [【凹凸实验室】ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/)
+- [【凹凸实验室】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
+- [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
+- [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
+- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【V2EX】期待一个没有-ESLint，-Webpack，-Babel-的世界](https://www.v2ex.com/t/724150)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -106,6 +133,15 @@
 
 
 
+- [【凹凸实验室】node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/)
+- [【凹凸实验室】一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/)
+- [【凹凸实验室】Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/)
+- [【凹凸实验室】【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/)
+- [【凹凸实验室】跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/)
+- [【凹凸实验室】Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/)
+- [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
+- [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
+- [【开发者头条】Hadoop-框架：DataNode-工作机制详解](https://toutiao.io/k/1eyo5g3)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -123,6 +159,25 @@
 
 
 - [【阮一峰的网络日志】微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html)
+- [【凹凸实验室】京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/)
+- [【凹凸实验室】Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/)
+- [【凹凸实验室】京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/)
+- [【凹凸实验室】京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/)
+- [【凹凸实验室】Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/)
+- [【凹凸实验室】手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/)
+- [【凹凸实验室】京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/)
+- [【凹凸实验室】使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/)
+- [【凹凸实验室】Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/)
+- [【凹凸实验室】如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/)
+- [【凹凸实验室】Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/)
+- [【凹凸实验室】GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/)
+- [【凹凸实验室】Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/)
+- [【凹凸实验室】玩转-Taro-跨端之-flex-布局篇](https://aotu.io/notes/2019/09/25/taro-flex/)
+- [【凹凸实验室】邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)
+- [【凹凸实验室】Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)
+- [【凹凸实验室】小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)
+- [【凹凸实验室】决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)
+- [【凹凸实验室】Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -139,6 +194,10 @@
 
 
 
+- [【凹凸实验室】Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/)
+- [【凹凸实验室】Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/)
+- [【凹凸实验室】Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/)
+- [【技术头条】12-种-Flutter-开发工具推荐-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13906&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdBEBt5RjERNnybRXfQKDeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -155,7 +214,26 @@
 
 
 
-- [【安全热点】虎符智库|机密计算:数据安全游戏的终结者?](https://sec.thief.one/article_content?a_id=fb70a9aad863055dc8248b6626a32315)
+- [【凹凸实验室】全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)
+- [【凹凸实验室】H5游戏开发：FC小蜜蜂](https://aotu.io/notes/2018/01/28/galaxian/)
+- [【凹凸实验室】H5游戏开发：消灭星星](https://aotu.io/notes/2018/01/17/popstar/)
+- [【凹凸实验室】H5游戏开发：套圈圈](https://aotu.io/notes/2018/01/04/waterful/)
+- [【凹凸实验室】H5游戏开发：游戏引擎入门推荐](https://aotu.io/notes/2017/12/27/h5-game-engine-recommend/)
+- [【凹凸实验室】H5游戏开发：指尖大冒险](https://aotu.io/notes/2017/11/28/h5_game_jumping/)
+- [【凹凸实验室】H5游戏开发：决胜三分球](https://aotu.io/notes/2017/11/16/basketball/)
+- [【凹凸实验室】H5游戏开发：推金币](https://aotu.io/notes/2017/11/06/coindozer/)
+- [【凹凸实验室】H5游戏开发：一笔画](https://aotu.io/notes/2017/11/02/onestroke/)
+- [【凹凸实验室】H5游戏开发：横屏适配](https://aotu.io/notes/2017/10/18/landscape_mode_in_html5_game/)
+- [【凹凸实验室】H5游戏开发：贪吃蛇](https://aotu.io/notes/2017/09/25/h5game-snake/)
+- [【凹凸实验室】Three.js-现学现卖](https://aotu.io/notes/2017/08/28/getting-started-with-threejs/)
+- [【凹凸实验室】这里有你对-Web-游戏的疑问吗？](https://aotu.io/notes/2017/07/23/some-doubts-about-web-games/)
+- [【凹凸实验室】一篇文章带你快速入门-CreateJS](https://aotu.io/notes/2017/07/19/createjs/)
+- [【凹凸实验室】Matter.js-2D-物理引擎试玩报告](https://aotu.io/notes/2017/04/17/Matter-js/)
+- [【凹凸实验室】源码赏析---1K的Firewatch游戏](https://aotu.io/notes/2016/12/04/firewatcher-appreciation/)
+- [【凹凸实验室】createjs开发入门](https://aotu.io/notes/2016/03/01/createjs-get-started/)
+- [【凹凸实验室】js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/)
+- [【凹凸实验室】使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/)
+- [【凹凸实验室】使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -175,7 +253,23 @@
 - [【张鑫旭-鑫空间-鑫生活】ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)
 - [【张鑫旭-鑫空间-鑫生活】巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)
 - [【京东设计中心】HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)
-- [【掘金前端】如何创建与框架无关的JavaScript插件](https://juejin.im/post/6893841214186094606)
+- [【凹凸实验室】EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/)
+- [【凹凸实验室】移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/)
+- [【凹凸实验室】前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/)
+- [【凹凸实验室】单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/)
+- [【凹凸实验室】网页适配-iPhoneX，就是这么简单](https://aotu.io/notes/2017/11/27/iphonex/)
+- [【凹凸实验室】H5动画：轨迹移动](https://aotu.io/notes/2017/11/06/path-animation/)
+- [【凹凸实验室】js创建一条通用链表](https://aotu.io/notes/2017/10/13/make-a-chain-class/)
+- [【凹凸实验室】实现-setTimeout-&-setInterval-暂停的方案](https://aotu.io/notes/2017/09/25/manage-setTimeout-an-setInterval/)
+- [【凹凸实验室】AT---前端-UI-组件库](https://aotu.io/notes/2017/08/28/at-ui/)
+- [【凹凸实验室】利用视口单位实现适配布局](https://aotu.io/notes/2017/04/28/2017-4-28-CSS-viewport-units/)
+- [【凹凸实验室】了解-Fetch-API](https://aotu.io/notes/2017/04/10/fetch-API/)
+- [【凹凸实验室】视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
+- [【凹凸实验室】正则表达式实践篇](https://aotu.io/notes/2016/12/07/regexp-practice/)
+- [【凹凸实验室】正则表达式理论篇](https://aotu.io/notes/2016/11/17/regexp-theory/)
+- [【凹凸实验室】Javascript-中的装饰器](https://aotu.io/notes/2016/10/24/decorator/)
+- [【凹凸实验室】H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
+- [【凹凸实验室】写给新人的call、apply、bind](https://aotu.io/notes/2016/09/02/Different-Binding/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -196,6 +290,22 @@
 - [【张鑫旭-鑫空间-鑫生活】如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/)
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
+- [【凹凸实验室】从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/)
+- [【凹凸实验室】你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/)
+- [【凹凸实验室】几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/)
+- [【凹凸实验室】2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)
+- [【凹凸实验室】serverless](https://aotu.io/notes/2019/08/05/serverless/)
+- [【凹凸实验室】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
+- [【凹凸实验室】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
+- [【凹凸实验室】一个例子上手SVG动画](https://aotu.io/notes/2017/05/04/example-for-svg-animation/)
+- [【凹凸实验室】使用-Snap.svg-制作动画](https://aotu.io/notes/2017/01/22/snapsvg/)
+- [【凹凸实验室】sass-svg-一个内联-SVG-的-SASS-库](https://aotu.io/notes/2017/01/19/sass-svg/)
+- [【凹凸实验室】css3-animation-属性众妙](https://aotu.io/notes/2016/11/28/css3-animation-properties/)
+- [【凹凸实验室】深入了解font-weight](https://aotu.io/notes/2016/11/08/css3fontweight/)
+- [【凹凸实验室】border-image-的正确用法](https://aotu.io/notes/2016/11/02/border-image/)
+- [【凹凸实验室】CSS3-Mask-安利报告](https://aotu.io/notes/2016/10/19/css3-mask/)
+- [【凹凸实验室】CSS-3D-Panorama---淘宝造物节技术剖析](https://aotu.io/notes/2016/08/24/2016-8-24-css-3d-panorama/)
+- [【凹凸实验室】CSS3动画之逐帧动画](https://aotu.io/notes/2016/05/17/css3-animation-frame/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -213,6 +323,19 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/)
+- [【凹凸实验室】图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/)
+- [【凹凸实验室】向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/)
+- [【凹凸实验室】SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)
+- [【凹凸实验室】十分钟打造-3D-物理世界](https://aotu.io/notes/2018/10/18/cannonjs/)
+- [【凹凸实验室】canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/)
+- [【凹凸实验室】聊聊-SVG-基本形状转换那些事](https://aotu.io/notes/2017/01/16/base-shapes-to-path/)
+- [【凹凸实验室】三看-SVG-Web-动效](https://aotu.io/notes/2016/11/22/SVG_Web_Animation/)
+- [【凹凸实验室】APNG-那些事](https://aotu.io/notes/2016/11/07/apng/)
+- [【凹凸实验室】在网页上实现-3D-Touch-效果](https://aotu.io/notes/2016/09/28/3d-touch/)
+- [【凹凸实验室】拥抱Web设计新趋势：SVG-Sprites实践应用](https://aotu.io/notes/2016/07/09/SVG-Symbol-component-practice/)
+- [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
+- [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
+- [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -229,6 +352,11 @@
 
 
 
+- [【凹凸实验室】羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/)
+- [【凹凸实验室】直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)
+- [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
+- [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
+- [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【安全热点】双十一巨惠:PWN入门视频听一期送一期](https://sec.thief.one/article_content?a_id=76b4d47cd9928509fc31d4d280ad5714)
 - [【安全热点】【视频】|-警民齐心筑防线,全民携手反电诈](https://sec.thief.one/article_content?a_id=e8ef277c2c0b318b7a313d328b604a49)
 - [【安全热点】双十一返场直播!后天下午2点,超值FreeBuf周边低至9.9元~](https://sec.thief.one/article_content?a_id=471291f63d4f53bcb8a89fd358a75c0a)
@@ -251,6 +379,16 @@
 
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
+- [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
+- [【凹凸实验室】京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)
+- [【凹凸实验室】前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/)
+- [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
+- [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
+- [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
+- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【技术头条】Android网络性能监控方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13921&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778070%3Futm_content%3Dg_1000203100%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】T级内存，创建效率提升10倍以上，阿里云-KVM异构虚拟机启动时间优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13918&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777709%3Futm_content%3Dg_1000203098%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】为什么-HugePages-可以提升数据库性能](https://toutiao.io/k/q22g50n)
 - [【安全热点】翻译不再随机:使用LD_PRELOAD来劫持rand函数](https://sec.thief.one/article_content?a_id=12fd54abec7567d8713b45d405c88551)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -269,25 +407,25 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
+- [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
+- [【凹凸实验室】URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/)
+- [【凹凸实验室】移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/)
+- [【凹凸实验室】HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/)
+- [【凹凸实验室】手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/)
+- [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
+- [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
+- [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】这是啥垃圾邮件？诚挚邀请您参加-11-月-13-日（周五）在深圳启幕的-IBM-&-Cyberbit-安全研讨会，并领取安全认证证书](https://www.v2ex.com/t/724180)
+- [【V2EX】安卓解锁-bl-之后数据安全能保证吗？](https://www.v2ex.com/t/724165)
+- [【技术头条】移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】反编译完这些-app-后，我给它们的安全等级打个分-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNFP6cXdH9qcy-az-gEggsw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】经理让我复盘上次-Redis-缓存雪崩事故](https://toutiao.io/k/b99o2o0)
+- [【开发者头条】深入探索-Android-Gradle-插件的缓存配置](https://toutiao.io/k/3lbqjxp)
 - [【安全热点】国内首家支持TLCP协议国标,360安全浏览器V10领跑信创安全新赛道](https://sec.thief.one/article_content?a_id=d59f95ebdbb4fffe40d237da03586c4b)
 - [【安全热点】信息安全从入门到精通](https://sec.thief.one/article_content?a_id=cbdce89f0b9d6be143f115e89ed1ee12)
 - [【安全热点】2020小米AIoT安全峰会议题回顾|人脸识别的法律规制框](https://sec.thief.one/article_content?a_id=11551d2386ddbac536771b290859494a)
-- [【安全热点】企业安全运营探索之端口安全篇](https://sec.thief.one/article_content?a_id=5d24ef577b8f879e73d585e7728f5770)
-- [【安全热点】信息安全漏洞月报2020年10月](https://sec.thief.one/article_content?a_id=4fa9d2ca18c58de333c566ca059ed665)
-- [【安全热点】微软补丁日安全通告|11月份](https://sec.thief.one/article_content?a_id=227ec7891423aea99cadc0dc8ef13574)
-- [【安全热点】分享-|-常看的安全类公众号推荐](https://sec.thief.one/article_content?a_id=53e333888d02189ec0c57b0618281b9e)
-- [【安全热点】【安全圈】阿里投资的印度最大杂货电商BigBasket超2000万客户数据...](https://sec.thief.one/article_content?a_id=6c3d634ceb6b3fd900465466816d39ab)
-- [【安全热点】「小米手机&AIoT安全守护Bundle计划」正式发布](https://sec.thief.one/article_content?a_id=df90e97c4015b75f3f4e8cf4e1af38d1)
-- [【安全热点】体系化呈现内生安全框架,虎符论坛第一季为何瞄准工控安全?](https://sec.thief.one/article_content?a_id=861767498e4e4a9ebb110a18b2d9558d)
-- [【安全热点】安全工程师会在双十一干什么?](https://sec.thief.one/article_content?a_id=d3cdb6028fb74d39c92d54c23a5dc173)
-- [【安全热点】助力网络安全态势感知技术标准化|绿盟科技参与国家标准白皮书编写](https://sec.thief.one/article_content?a_id=69fa72bc3fb1560a98ff7003f70772e4)
-- [【安全热点】国舜股份签约贵州某农商行,助力网络风险排查与综合安全加固](https://sec.thief.one/article_content?a_id=7465af42dfd2d037c97c4087f524addb)
-- [【安全热点】信息安全漏洞周报2020年第43期](https://sec.thief.one/article_content?a_id=f88675a20ed2aec54b838066c51dd05d)
-- [【安全热点】CVE-2020-14871:Solaris-缓存溢出漏洞](https://sec.thief.one/article_content?a_id=c629ec8c412bc12a6861cf9616ed9e5f)
-- [【安全热点】每日安全动态推送11-10](https://sec.thief.one/article_content?a_id=3c796f435eaf7cfe6c9437303c141cbf)
-- [【安全热点】【超级福利】360-门安全技术课程任你看](https://sec.thief.one/article_content?a_id=3502b1c86d5c93d4a3c6cab57b5cb580)
-- [【安全热点】《网络安全态势感知技术标准化白皮书2020版》全文](https://sec.thief.one/article_content?a_id=6283449684710f049bfae81c3d1ac2b9)
-- [【安全热点】【安全圈】Windows-10、iOS-等在中国安全挑战赛上被攻陷](https://sec.thief.one/article_content?a_id=c9d39171f59c8f8df343844cdd2ff13f)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -304,6 +442,16 @@
 
 
 
+- [【凹凸实验室】波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)
+- [【凹凸实验室】GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/)
+- [【凹凸实验室】vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/)
+- [【凹凸实验室】Nginx-配置-HTTPS-服务器](https://aotu.io/notes/2016/08/16/nginx-https/)
+- [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
+- [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
+- [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】内推-社招-AI-制药国内领先企业--AI-算法](https://www.v2ex.com/t/724175)
+- [【V2EX】关于-geo-算法在业务实践上的疑问](https://www.v2ex.com/t/724136)
+- [【开发者头条】PID-算法在广告成本控制领域的应用](https://toutiao.io/k/8b5btn1)
 - [【安全热点】【原创】更改FastStoneCapture使用期限](https://sec.thief.one/article_content?a_id=50c5c1a82e4ea3ac73118462b16c4d2a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -321,6 +469,11 @@
 
 
 
+- [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
+- [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【V2EX】Docker-国内镜像全挂了？](https://www.v2ex.com/t/724151)
+- [【技术头条】【实战分享】从选型到项目落地，漫谈-gRPC-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13920&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F285221429%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -337,6 +490,10 @@
 
 
 
+- [【凹凸实验室】规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)
+- [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
+- [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -353,6 +510,10 @@
 
 
 
+- [【V2EX】微软面试题：全排列](https://www.v2ex.com/t/724179)
+- [【V2EX】招聘销售专员，销售经理，售前工程师，云工程师](https://www.v2ex.com/t/724178)
+- [【V2EX】我写了个-bug，谷歌面试官却说：你通过了！](https://www.v2ex.com/t/724137)
+- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -385,6 +546,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】香港新增18例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7aglJocIGx35Y9nT5dR201111&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -399,6 +561,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】德国全境7天感染率11月以来首次下降-德卫生部长：看到首个积极信号](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtityKTNlHm1nvABnWbJJbB201111&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国疫情恶化趋势加剧-住院人数再创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGapMduxvhSYv1bSzd7V201111&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】巴西联邦最高法院大法官新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyYr4y7zPK8LYjhMB5N4R201111&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】天津两中风险区内人员核酸检测完成-全部阴性！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOkO6DR0XybXzQ50x8raf201111&isfromapp=1)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html)
@@ -409,16 +575,12 @@
 - [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
-- [【掘金前端】一篇推翻掘金80%文章的Event-Loop完整分析](https://juejin.im/post/6893827826949029896)
-- [【掘金前端】实现一个简易的模块打包器](https://juejin.im/post/6893809205183479822)
-- [【安全热点】双十一大回血:送书+送钱!](https://sec.thief.one/article_content?a_id=c0ff4973a16a15de2ead3c5af204aaf3)
-- [【安全热点】2020雷神众测HackingDay倒计时3天](https://sec.thief.one/article_content?a_id=5ca1a728565414ecfeeb7affa2f72399)
-- [【安全热点】苹果最新发布会划时代M1芯片及全新Mac登场](https://sec.thief.one/article_content?a_id=6b1d25e8872c4798ee325699d776e3d9)
-- [【安全热点】对区块链撒谎:将“垃圾进,垃圾出”问题应用在去中心化网络上](https://sec.thief.one/article_content?a_id=74216d9c2dc33a5d76f1ba1e69c5e709)
-- [【安全热点】【漏洞通告】Windows-网络文件系统漏洞CVE-2020-17051、CVE-...](https://sec.thief.one/article_content?a_id=d886d46022a69403cac6445ec820fc4e)
-- [【安全热点】用-cv2-实现人脸检测](https://sec.thief.one/article_content?a_id=01a06cbb6ccf2e76d8137fe34dab767f)
-- [【安全热点】【漏洞通告】Windows-网络文件系统漏洞CVE-2020-17051、CVE-...](https://sec.thief.one/article_content?a_id=8e579259f05c97d887b184ea18c4bf47)
-- [【安全热点】安在会员福利计划启动,快来牵手!](https://sec.thief.one/article_content?a_id=492449af1cb89dccc4735da308ff834b)
+- [【凹凸实验室】硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/)
+- [【凹凸实验室】三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/)
+- [【凹凸实验室】Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/)
+- [【凹凸实验室】如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/)
+- [【凹凸实验室】618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/)
+- [【凹凸实验室】从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

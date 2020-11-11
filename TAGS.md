@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-11 06:24:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 06:33:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -352,6 +352,7 @@
 
 
 
+- [【V2EX】求教-Java-中-http-长轮询机制怎么实现](https://www.v2ex.com/t/724029)
 - [【开发者头条】PID-算法在广告成本控制领域的应用](https://toutiao.io/k/8b5btn1)
 - [【安全热点】【原创】更改FastStoneCapture使用期限](https://sec.thief.one/article_content?a_id=50c5c1a82e4ea3ac73118462b16c4d2a)
 - [【安全热点】终于有人把Python算法-动态规划讲明白了,建议收藏!附源码下载](https://sec.thief.one/article_content?a_id=ac99285a4d487d5f1c800d3a42ed3cde)
@@ -407,7 +408,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
-- [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
 - [【开发者头条】推荐-必知必会的大厂面试计算机基础和概念](https://toutiao.io/k/xvy1us5)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

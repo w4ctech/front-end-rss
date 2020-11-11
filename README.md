@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-11 06:24:17，:rocket: 更新条数: +3056， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-11 06:33:07，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-11-求教-Java-中-http-长轮询机制怎么实现](https://www.v2ex.com/t/724029) ![](assets/new.png)  
+- [2020-11-11-地图可以做成自定义形状嘛？](https://www.v2ex.com/t/724028) ![](assets/new.png)  
+- [2020-11-11-问个触及知识盲区的问题，为啥-macbook-不上-5G-sim-卡槽？](https://www.v2ex.com/t/724027) ![](assets/new.png)  
 - [2020-11-11-gradlew-编译-:app:transformClassesWithDesugarForDebug-很费时间](https://www.v2ex.com/t/724026) ![](assets/new.png)  
 - [2020-11-11-如果-4-个效能核心真的能跑到双核-intel-的-air-水平](https://www.v2ex.com/t/724025) ![](assets/new.png)  
 - [2020-11-11-Vs-code-远程开发-cpu、内存占用过高导致机器无法呼吸](https://www.v2ex.com/t/724024) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-11-国行-M1-MAC-的-facetime-功能又被阉割了？](https://www.v2ex.com/t/724005) ![](assets/new.png)  
 - [2020-11-11-m1-芯片的-macbook-能玩暴雪全家桶吗？](https://www.v2ex.com/t/724004) ![](assets/new.png)  
 - [2020-11-11-杭州-直招-蚂蚁集团旗下世界领先的分布式数据库-OceanBase，诚聘前端工程师~](https://www.v2ex.com/t/724003) ![](assets/new.png)  
-- [2020-11-11-长江后浪卷前浪，一代更比一代强](https://www.v2ex.com/t/724002) ![](assets/new.png)  
-- [2020-11-11-安卓代码混淆](https://www.v2ex.com/t/724001) ![](assets/new.png)  
-- [2020-11-11-短视频平台抖音、快手等会提供官方的查原作者的接口吗](https://www.v2ex.com/t/723999) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

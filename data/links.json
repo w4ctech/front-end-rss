@@ -14543,6 +14543,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求教 Java 中 http 长轮询机制怎么实现",
+        "link": "https://www.v2ex.com/t/724029",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "地图可以做成自定义形状嘛？",
+        "link": "https://www.v2ex.com/t/724028",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "问个触及知识盲区的问题，为啥 macbook 不上 5G sim 卡槽？",
+        "link": "https://www.v2ex.com/t/724027",
+        "date": "2020-11-11"
+      },
+      {
         "title": "gradlew 编译 :app:transformClassesWithDesugarForDebug 很费时间",
         "link": "https://www.v2ex.com/t/724026",
         "date": "2020-11-11"
@@ -14710,26 +14725,6 @@
       {
         "title": "深圳都是小公司 。。所以想去上海看看。",
         "link": "https://www.v2ex.com/t/723981",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "培训班出来的人都图的什么？",
-        "link": "https://www.v2ex.com/t/723980",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "ARM 上的 macOS Big Sur 是跑在虚拟机上吗，还是基于 iPadOS 的扩展版？",
-        "link": "https://www.v2ex.com/t/723979",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "入门 Java 后端，想找一个视频教程看，但网上的视频教程太多了，求 V 友推荐",
-        "link": "https://www.v2ex.com/t/723978",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "关于出租商铺的一些疑问",
-        "link": "https://www.v2ex.com/t/723977",
         "date": "2020-11-11"
       }
     ]
@@ -14947,63 +14942,8 @@
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
-        "link": "https://toutiao.io/k/swi8lo6",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
-        "link": "https://toutiao.io/k/plw773i",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
-        "link": "https://toutiao.io/k/3u67plz",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
-        "link": "https://toutiao.io/k/xvy1us5",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-11"
       },
       {
@@ -15012,13 +14952,68 @@
         "date": "2020-11-11"
       },
       {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] OOM 都搞不定，还敢妄称自己 Java 高级攻城狮？",
+        "link": "https://toutiao.io/k/plw773i",
+        "date": "2020-11-11"
+      },
+      {
         "title": "[推荐] 消息队列和任务队列有什么区别？",
         "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-11"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 《我想进大厂》之 JVM 夺命连环 10 问",
+        "link": "https://toutiao.io/k/swi8lo6",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 必知必会的大厂面试计算机基础和概念",
+        "link": "https://toutiao.io/k/xvy1us5",
+        "date": "2020-11-11"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-11"
       }
     ]

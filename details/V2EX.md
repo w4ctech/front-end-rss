@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-11 06:24:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 06:33:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-求教-Java-中-http-长轮询机制怎么实现](https://www.v2ex.com/t/724029) 
+- [2020-11-11-地图可以做成自定义形状嘛？](https://www.v2ex.com/t/724028) 
+- [2020-11-11-问个触及知识盲区的问题，为啥-macbook-不上-5G-sim-卡槽？](https://www.v2ex.com/t/724027) 
 - [2020-11-11-gradlew-编译-:app:transformClassesWithDesugarForDebug-很费时间](https://www.v2ex.com/t/724026) 
 - [2020-11-11-如果-4-个效能核心真的能跑到双核-intel-的-air-水平](https://www.v2ex.com/t/724025) 
 - [2020-11-11-Vs-code-远程开发-cpu、内存占用过高导致机器无法呼吸](https://www.v2ex.com/t/724024) 
@@ -39,7 +42,3 @@
 - [2020-11-11-字节教育业务线招人了！海量-HC-15-薪+-北京-深圳-上海](https://www.v2ex.com/t/723984) 
 - [2020-11-11-如果苹果停更-X86-架构下的-mbp-产品线，是不是有人会像我一样短期更新电脑得告别-mac-体系了（顺便求大佬对支持-X86-的解答）](https://www.v2ex.com/t/723983) 
 - [2020-11-11-深圳都是小公司-。。所以想去上海看看。](https://www.v2ex.com/t/723981) 
-- [2020-11-11-培训班出来的人都图的什么？](https://www.v2ex.com/t/723980) 
-- [2020-11-11-ARM-上的-macOS-Big-Sur-是跑在虚拟机上吗，还是基于-iPadOS-的扩展版？](https://www.v2ex.com/t/723979) 
-- [2020-11-11-入门-Java-后端，想找一个视频教程看，但网上的视频教程太多了，求-V-友推荐](https://www.v2ex.com/t/723978) 
-- [2020-11-11-关于出租商铺的一些疑问](https://www.v2ex.com/t/723977) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-11 19:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 20:04:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-谷歌相册高画质的无限存储服务将在-2021-年终止](https://www.v2ex.com/t/724236) 
+- [2020-11-11-Google-Photos-将于-2021-年-6-月-1-日结束「高品质」无限存储](https://www.v2ex.com/t/724235) 
 - [2020-11-11-mpvue-微信小程序不能全局注册子组件吗？](https://www.v2ex.com/t/724234) 
 - [2020-11-11-大家怎么看待云游戏方向？](https://www.v2ex.com/t/724233) 
 - [2020-11-11-有类似-UptimeRobot-的源码吗](https://www.v2ex.com/t/724232) 
@@ -43,4 +45,3 @@
 - [2020-11-11-Spring-cloud-netflix-国内是不是全面被-spring-Cloud-alibaba-淘汰？](https://www.v2ex.com/t/724189) 
 - [2020-11-11-想写一个复古风格的前端-UI-组件库，大家有什么建议吗](https://www.v2ex.com/t/724188) 
 - [2020-11-11-iPhone-12-使用体验交流下](https://www.v2ex.com/t/724187) 
-- [2020-11-11-什么路由器固件比较好用？](https://www.v2ex.com/t/724185) 

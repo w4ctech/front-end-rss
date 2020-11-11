@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-11-11 07:48:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 08:04:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-现在公司档案管理-用数据库检索-对应实物的方法有那些方案啊-求大佬赐教](https://www.v2ex.com/t/724078) 
+- [2020-11-11-Big-sur-rc2-与-idea](https://www.v2ex.com/t/724077) 
+- [2020-11-11-log4j-一会换行一会不换行的](https://www.v2ex.com/t/724076) 
+- [2020-11-11-兼职开发-前端-+-后端（2-台-Ubuntu-电脑，通过服务器传输少量数据，类似：微信）](https://www.v2ex.com/t/724075) 
+- [2020-11-11-滴滴网约车业务平台技术部-社招内推](https://www.v2ex.com/t/724074) 
+- [2020-11-11-自以为是的兴趣和发展方向](https://www.v2ex.com/t/724073) 
+- [2020-11-11-今年苹果还会更新-macbookpro16-寸吗](https://www.v2ex.com/t/724069) 
 - [2020-11-11-上海——坚果云（高并发效率工具软件）招-Mac-OS/-IOS-方向，速来戳！](https://www.v2ex.com/t/724067) 
 - [2020-11-11-google-tasks-不能提醒](https://www.v2ex.com/t/724064) 
 - [2020-11-11-五个充电器的钱就能买-ARM-Mac-Mini-了](https://www.v2ex.com/t/724063) 
@@ -34,12 +41,3 @@
 - [2020-11-11-M1-芯片的-MacBook-可以用-Parallels-跑-Windows-吗](https://www.v2ex.com/t/724035) 
 - [2020-11-11-今年没有-apple-tv-更新了吗](https://www.v2ex.com/t/724032) 
 - [2020-11-11-求教-Java-中-http-长轮询机制怎么实现](https://www.v2ex.com/t/724029) 
-- [2020-11-11-地图可以做成自定义形状嘛？](https://www.v2ex.com/t/724028) 
-- [2020-11-11-问个触及知识盲区的问题，为啥-macbook-不上-5G-sim-卡槽？](https://www.v2ex.com/t/724027) 
-- [2020-11-11-gradlew-编译-:app:transformClassesWithDesugarForDebug-很费时间](https://www.v2ex.com/t/724026) 
-- [2020-11-11-如果-4-个效能核心真的能跑到双核-intel-的-air-水平](https://www.v2ex.com/t/724025) 
-- [2020-11-11-Vs-code-远程开发-cpu、内存占用过高导致机器无法呼吸](https://www.v2ex.com/t/724024) 
-- [2020-11-11-前端开发买新款的-mbp13-还是老款的](https://www.v2ex.com/t/724022) 
-- [2020-11-11-分享一个批量下载-YouTube-视频的方法（自媒体人必备）](https://www.v2ex.com/t/724020) 
-- [2020-11-11-ios-有没有什么好用的-9-键输入法啊](https://www.v2ex.com/t/724019) 
-- [2020-11-11-南头（方鼎华庭）两室两厅-不知道附近租情如何，想尽快租出去，有附近的-V-友吗？](https://www.v2ex.com/t/724018) 

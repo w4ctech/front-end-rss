@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 05:47:54，:rocket: 更新条数: +3068， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 06:04:14，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,12 @@
 </summary>
 
 
+- [2020-11-12-笔记本显示器边框全是指纹，有什么方法能快速擦掉吗？](https://www.v2ex.com/t/724418) ![](assets/new.png)  
+- [2020-11-12-大家有没有给领导送过礼，都送些什么？](https://www.v2ex.com/t/724417) ![](assets/new.png)  
+- [2020-11-12-急招！抖音成都急招-iOS、Android-同学！（最好是经验丰富的大佬）](https://www.v2ex.com/t/724415) ![](assets/new.png)  
+- [2020-11-12-所以美国时间已经-11.12-了-big-sur-怎么还不发呢???](https://www.v2ex.com/t/724414) ![](assets/new.png)  
+- [2020-11-12-深圳南山区有哪些靠谱的-IT-培训公司？](https://www.v2ex.com/t/724413) ![](assets/new.png)  
+- [2020-11-12-35-岁淘汰？说说自己+身边的人](https://www.v2ex.com/t/724412) ![](assets/new.png)  
 - [2020-11-12-请教一下关于租房的事情！](https://www.v2ex.com/t/724411) ![](assets/new.png)  
 - [2020-11-12-M1-和-4800U-比哪个更厉害](https://www.v2ex.com/t/724410) ![](assets/new.png)  
 - [2020-11-12-google-之后,telegram-限制文件还有多久?](https://www.v2ex.com/t/724409) ![](assets/new.png)  
@@ -540,19 +546,13 @@
 - [2020-11-12-似乎没人提，不只是-Google-Photos，-Google-Docs、Google-Sheet-等也计入存储空间了](https://www.v2ex.com/t/724407) ![](assets/new.png)  
 - [2020-11-12-笑死了，这就是京东客户端](https://www.v2ex.com/t/724406) ![](assets/new.png)  
 - [2020-11-12-RssHub-订阅语雀文档](https://www.v2ex.com/t/724405) ![](assets/new.png)  
-- [2020-11-12-搞了个-q2ex-com-域名，自己也不知道做啥，明盘出售，有需要的吗](https://www.v2ex.com/t/724404) ![](assets/new.png)  
 - [2020-11-12-回溯暴力+dp-算法求优化思路](https://www.v2ex.com/t/724403) ![](assets/new.png)  
 - [2020-11-12-Googleone-的家庭共享方案是每个人都有-2T，还是说-6-个人平分两-T？](https://www.v2ex.com/t/724402) ![](assets/new.png)  
 - [2020-11-12-腾讯微视内推，-base-广州深圳北京；客户端，前端，后台](https://www.v2ex.com/t/724401) ![](assets/new.png)  
 - [2020-11-12-Akkocloud-美国德国-CN2-GIA-云服务器出售](https://www.v2ex.com/t/724400) ![](assets/new.png)  
-- [2020-11-12-出-Jetbrains-正版教育全家桶-/-9.9-元](https://www.v2ex.com/t/724399) ![](assets/new.png)  
 - [2020-11-12-真的没必要把-M1-芯片吹的太过](https://www.v2ex.com/t/724398) ![](assets/new.png)  
 - [2020-11-12-macbook-m1-是否支持-MUF82FE-扩展-4K](https://www.v2ex.com/t/724397) ![](assets/new.png)  
 - [2020-11-12-Google-Photos-替代方案？](https://www.v2ex.com/t/724396) ![](assets/new.png)  
-- [2020-11-12-如何招聘-Java-架构师?](https://www.v2ex.com/t/724395) ![](assets/new.png)  
-- [2020-11-12-请教大家关于开发机器的两道问题](https://www.v2ex.com/t/724394) ![](assets/new.png)  
-- [2020-11-12-一个充电问题](https://www.v2ex.com/t/724393) ![](assets/new.png)  
-- [2020-11-12-有办法双屏幕全屏时覆盖到两个屏幕吗？](https://www.v2ex.com/t/724392) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -599,8 +599,8 @@
 - [2020-11-12-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
 - [2020-11-12-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [2020-11-12-谈一谈-TCP-连接](https://toutiao.io/k/ncz653e) ![](assets/new.png)  
-- [2020-11-12-在-Jitsi-上用-getDisplayMedia-录制本地音频](https://toutiao.io/k/r81ubhx) ![](assets/new.png)  
 - [2020-11-12-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-12-在-Jitsi-上用-getDisplayMedia-录制本地音频](https://toutiao.io/k/r81ubhx) ![](assets/new.png)  
 - [2020-11-12-从选型到项目落地，漫谈-gRPC](https://toutiao.io/k/wnlwatk) ![](assets/new.png)  
 - [2020-11-12-文科妹子都会用-GitHub，你这个工科生还等什么](https://toutiao.io/k/uzq5xc4) ![](assets/new.png)  
 - [2020-11-12-使用-Vue-3-+-TS-重构百星-WebSocket-插件](https://toutiao.io/k/mmw4zp6) ![](assets/new.png)  

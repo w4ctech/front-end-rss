@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 04:04:02，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 04:12:44，:rocket: 更新条数: +3057， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-12-深圳物联网后台开发](https://www.v2ex.com/t/724376) ![](assets/new.png)  
+- [2020-11-12-ios-上的谷歌验证器有办法迁移到微软的验证器吗](https://www.v2ex.com/t/724375) ![](assets/new.png)  
+- [2020-11-12-来吧兄弟们，跟我一起做美食](https://www.v2ex.com/t/724374) ![](assets/new.png)  
 - [2020-11-12-TLS/SSL-硬件加密方案](https://www.v2ex.com/t/724373) ![](assets/new.png)  
 - [2020-11-12-iphone11pro-换-iphone12，发现看着眼睛痛](https://www.v2ex.com/t/724372) ![](assets/new.png)  
 - [2020-11-12-分享一个关于协变、逆变、不变的优秀回答](https://www.v2ex.com/t/724371) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-12-一个-nmap，-http-phpmyadmin-dir-traversal-的误报问题](https://www.v2ex.com/t/724354) ![](assets/new.png)  
 - [2020-11-12-再次咨询一下，-2015-款-mbp，-13-寸，外接显示器推荐](https://www.v2ex.com/t/724353) ![](assets/new.png)  
 - [2020-11-12-双十一各位都买了多少啊？](https://www.v2ex.com/t/724352) ![](assets/new.png)  
-- [2020-11-12-实时计算架构师/技术专家，地点：上海，薪水完全-OPEN（100W-左右都好谈）](https://www.v2ex.com/t/724351) ![](assets/new.png)  
-- [2020-11-12-社招-3-5-年-京东集团---京东物流---前端工程师](https://www.v2ex.com/t/724349) ![](assets/new.png)  
-- [2020-11-12-pdd-12-pro-max-官方硅胶，-258，叠加企业优惠，更低，大家觉得值不值？-我看了一下，-uag-等等做的好点的手机壳，也不便宜。](https://www.v2ex.com/t/724348) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -613,7 +613,7 @@
 - [2020-11-12-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-12-Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73) ![](assets/new.png)  
 - [2020-11-12-Gradle-+-GitHub-Actions-自动发布项目至-Maven-仓库](https://toutiao.io/k/zlkk4go) ![](assets/new.png)  
-- [2020-11-12-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-12-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [2020-11-12-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

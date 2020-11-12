@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 08:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 08:24:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -12,5 +12,4 @@
 - [2020-11-12-Oracle-面试题：扩展-C-预处理器，使其变得图灵完备](https://www.v2ex.com/t/724459) 
 - [2020-11-12-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) 
 - [2020-11-12-Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73) 
-- [2020-11-12-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) 
 - [2020-11-12-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) 

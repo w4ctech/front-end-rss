@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-12 09:04:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 09:11:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-12-11-月-22-日！-CODING-DevOps-技术沙龙系列·上海站——「质量专场」来啦～](https://www.v2ex.com/t/724514) 
+- [2020-11-12-有拼车-surge-mac-的吗？-surge4-新版本发布，支持-big-sur，活动价-8-折，仅在-2020.11.20-前有这个活动。](https://www.v2ex.com/t/724513) 
+- [2020-11-12-抖音直推-Android-社招、校招极速内推](https://www.v2ex.com/t/724512) 
+- [2020-11-12-准备冲新-mac-了,-开发环境不会有问题](https://www.v2ex.com/t/724511) 
 - [2020-11-12-REST-接口让前端在请求中指定需要返回的字段是否合理?](https://www.v2ex.com/t/724509) 
 - [2020-11-12-35-岁还在一线岗位写代码的多吗](https://www.v2ex.com/t/724508) 
 - [2020-11-12-Mac-的-Microsoft-Edge-更新检查永远最新-实际上-已不是最新版本-有老哥遇到过吗？](https://www.v2ex.com/t/724507) 
@@ -43,6 +47,3 @@
 - [2020-11-12-怎么看那些支持-m1-芯片-mac-的-iOS-app？](https://www.v2ex.com/t/724468) 
 - [2020-11-12-2.4G-无线鼠标接收器插在-USB3.1-Gen2-接口，会和-5G-Wi-Fi-相互干扰吗？](https://www.v2ex.com/t/724467) 
 - [2020-11-12-关于-Django-的乐观锁问题](https://www.v2ex.com/t/724465) 
-- [2020-11-12-上海电信可以开-5G-SA-了，不过要去线下营业厅](https://www.v2ex.com/t/724464) 
-- [2020-11-12-求一个正则表达式啊](https://www.v2ex.com/t/724463) 
-- [2020-11-12-ExternalName-与-HostAliases-的疑惑](https://www.v2ex.com/t/724461) 

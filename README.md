@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 09:04:24，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 09:11:45，:rocket: 更新条数: +3068， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-12-11-月-22-日！-CODING-DevOps-技术沙龙系列·上海站——「质量专场」来啦～](https://www.v2ex.com/t/724514) ![](assets/new.png)  
+- [2020-11-12-有拼车-surge-mac-的吗？-surge4-新版本发布，支持-big-sur，活动价-8-折，仅在-2020.11.20-前有这个活动。](https://www.v2ex.com/t/724513) ![](assets/new.png)  
+- [2020-11-12-抖音直推-Android-社招、校招极速内推](https://www.v2ex.com/t/724512) ![](assets/new.png)  
+- [2020-11-12-准备冲新-mac-了,-开发环境不会有问题](https://www.v2ex.com/t/724511) ![](assets/new.png)  
 - [2020-11-12-REST-接口让前端在请求中指定需要返回的字段是否合理?](https://www.v2ex.com/t/724509) ![](assets/new.png)  
 - [2020-11-12-35-岁还在一线岗位写代码的多吗](https://www.v2ex.com/t/724508) ![](assets/new.png)  
 - [2020-11-12-Mac-的-Microsoft-Edge-更新检查永远最新-实际上-已不是最新版本-有老哥遇到过吗？](https://www.v2ex.com/t/724507) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-12-微博挂了吗](https://www.v2ex.com/t/724496) ![](assets/new.png)  
 - [2020-11-12-有-1G-以上上传带宽资源的朋友吗？-听说可以用闲置带宽换点零花钱，不知道大家有没有做过？可靠吗？](https://www.v2ex.com/t/724495) ![](assets/new.png)  
 - [2020-11-12-准备买-m1-的-MacBook-Air，-8G-内存够不够？](https://www.v2ex.com/t/724494) ![](assets/new.png)  
-- [2020-11-12-想知道开发人员一般都通过什么渠道找工作？](https://www.v2ex.com/t/724493) ![](assets/new.png)  
-- [2020-11-12-联通积分商场与返利-App“买什么都省”的这种合作算什么模式？](https://www.v2ex.com/t/724492) ![](assets/new.png)  
-- [2020-11-12-千万不要一时兴起跑去注册公司，自找麻烦。](https://www.v2ex.com/t/724491) ![](assets/new.png)  
-- [2020-11-12-Rama-KARA-出了](https://www.v2ex.com/t/724489) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

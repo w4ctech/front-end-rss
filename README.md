@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 13:35:28，:rocket: 更新条数: +3054， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 13:47:49，:rocket: 更新条数: +3044， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +523,7 @@
 </summary>
 
 
+- [2020-11-12-catalina-10.15.7-mbp-19-款-16-有遇到触控板点按失灵的吗？](https://www.v2ex.com/t/724588) ![](assets/new.png)  
 - [2020-11-12-想出手-17-Macbook-Pro-15-求各位给估个价](https://www.v2ex.com/t/724587) ![](assets/new.png)  
 - [2020-11-12-渗透测试工程师求职，不限地域](https://www.v2ex.com/t/724584) ![](assets/new.png)  
 - [2020-11-12-苹果手表为什么不能实时接收微信消息?](https://www.v2ex.com/t/724582) ![](assets/new.png)  
@@ -552,7 +543,6 @@
 - [2020-11-12-每天偷偷摸摸下班的我](https://www.v2ex.com/t/724565) ![](assets/new.png)  
 - [2020-11-12-如何查看-apk-文件的渠道商/渠道号？](https://www.v2ex.com/t/724561) ![](assets/new.png)  
 - [2020-11-12-外企|电商|-Java-大量岗位](https://www.v2ex.com/t/724555) ![](assets/new.png)  
-- [2020-11-12-感觉-12-pro-拍人有点奇怪，有同感的吗？](https://www.v2ex.com/t/724554) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -598,8 +588,8 @@
 - [2020-11-12-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
 - [2020-11-12-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [2020-11-12-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
-- [2020-11-12-谈一谈-TCP-连接](https://toutiao.io/k/ncz653e) ![](assets/new.png)  
 - [2020-11-12-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-12-谈一谈-TCP-连接](https://toutiao.io/k/ncz653e) ![](assets/new.png)  
 - [2020-11-12-在-Jitsi-上用-getDisplayMedia-录制本地音频](https://toutiao.io/k/r81ubhx) ![](assets/new.png)  
 - [2020-11-12-从选型到项目落地，漫谈-gRPC](https://toutiao.io/k/wnlwatk) ![](assets/new.png)  
 - [2020-11-12-文科妹子都会用-GitHub，你这个工科生还等什么](https://toutiao.io/k/uzq5xc4) ![](assets/new.png)  

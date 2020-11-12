@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 03:35:42，:rocket: 更新条数: +3051， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 03:47:52，:rocket: 更新条数: +3053， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-12-投资两千元做的网站，没流量！感觉没救了](https://www.v2ex.com/t/724358) ![](assets/new.png)  
+- [2020-11-12-公司有-iPhone12mini-现货，可代购，北京的朋友有需要的吗？](https://www.v2ex.com/t/724356) ![](assets/new.png)  
+- [2020-11-12-开始远离谷歌](https://www.v2ex.com/t/724355) ![](assets/new.png)  
+- [2020-11-12-一个-nmap，-http-phpmyadmin-dir-traversal-的误报问题](https://www.v2ex.com/t/724354) ![](assets/new.png)  
+- [2020-11-12-再次咨询一下，-2015-款-mbp，-13-寸，外接显示器推荐](https://www.v2ex.com/t/724353) ![](assets/new.png)  
 - [2020-11-12-双十一各位都买了多少啊？](https://www.v2ex.com/t/724352) ![](assets/new.png)  
 - [2020-11-12-实时计算架构师/技术专家，地点：上海，薪水完全-OPEN（100W-左右都好谈）](https://www.v2ex.com/t/724351) ![](assets/new.png)  
 - [2020-11-12-社招-3-5-年-京东集团---京东物流---前端工程师](https://www.v2ex.com/t/724349) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-12-处理器换了-M1-一些旧软件还需要重新购买么](https://www.v2ex.com/t/724335) ![](assets/new.png)  
 - [2020-11-12-腾讯音乐-酷狗业务线招聘资深-android，待遇优厚，快来看看](https://www.v2ex.com/t/724334) ![](assets/new.png)  
 - [2020-11-12-请教可以查看-微软软件-Store-的软件历史版本吗？](https://www.v2ex.com/t/724333) ![](assets/new.png)  
-- [2020-11-12-请问一个问题，我有很多张同样类型不同名字的数据库，我可以查出来相关表名，但是表名可能会增加](https://www.v2ex.com/t/724327) ![](assets/new.png)  
-- [2020-11-12-迫于去-Apple-化，求推荐-Windows-笔记本](https://www.v2ex.com/t/724326) ![](assets/new.png)  
-- [2020-11-12-有喜欢读书和写书评的吗？](https://www.v2ex.com/t/724322) ![](assets/new.png)  
-- [2020-11-12-0202-年要过去了，通过-Homebrew-Cask-安装的软件有什么优雅的升级方法？](https://www.v2ex.com/t/724320) ![](assets/new.png)  
-- [2020-11-12-有没有一些实际变现想法的-V-友们。](https://www.v2ex.com/t/724319) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -613,8 +613,8 @@
 - [2020-11-12-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-12-Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73) ![](assets/new.png)  
 - [2020-11-12-Gradle-+-GitHub-Actions-自动发布项目至-Maven-仓库](https://toutiao.io/k/zlkk4go) ![](assets/new.png)  
+- [2020-11-12-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
 - [2020-11-12-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-12-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

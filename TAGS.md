@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-12 03:35:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 03:47:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -337,8 +337,8 @@
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】如何提高服务器（外网）上-MySql-的安全性](https://www.v2ex.com/t/724343)
 - [【V2EX】急招-渗透测试工程师---安全与风控（北/上/杭/深）](https://www.v2ex.com/t/724311)
-- [【V2EX】请教有没有对-不太变化的动态接口的返回结果-进行-缓存中间件（可以作为可用性的备机）软件吗？](https://www.v2ex.com/t/724307)
 - [【技术头条】移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -356,6 +356,7 @@
 
 
 - [【掘金前端】半小时搞懂-HTTP、HTTPS和HTTP2](https://juejin.im/post/6894053426112495629)
+- [【V2EX】一个-nmap，-http-phpmyadmin-dir-traversal-的误报问题](https://www.v2ex.com/t/724354)
 - [【开发者头条】深入解读-Elasticsearch-热点线程-hot_threads](https://toutiao.io/k/1awt70n)
 - [【安全热点】【原创】更改FastStoneCapture使用期限](https://sec.thief.one/article_content?a_id=50c5c1a82e4ea3ac73118462b16c4d2a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

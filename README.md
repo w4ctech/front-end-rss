@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 03:04:16，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 03:11:09，:rocket: 更新条数: +3286， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-12-上海11月11日无新增本地新冠肺炎确诊病例-新增境外输入4例-治愈出院3例](http://wsjkw.sh.gov.cn/xwfb/20201112/d1ffbded09a049958bb5b9d4067f912f.html) ![](assets/new.png)  
+- [2020-11-12-福建省新型冠状病毒肺炎疫情情况](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202011/t20201112_5432945.htm) ![](assets/new.png)  
 - [2020-11-12-美国超过1.5万只貂死于新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSBUvvNgvFxYUAeJtBiJ5201112&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-青岛市卫健委：本地新冠肺炎确诊病例全部清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS6nWJtlW2ydXJfI7lbdO201112&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-四川省新型冠状病毒肺炎疫情最新情况（11月12日发布）](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/11/12/43a70c33fed64673924364334cd1769d.shtml) ![](assets/new.png)  
-- [2020-11-12-新疆（含兵团）11日无新增确诊病例和无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artig5DWst6HFXRvviSGIFm6201112&isfromapp=1) ![](assets/new.png)  
-- [2020-11-12-截至11月11日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/9f1908401e164400b0fbd26f96780179.shtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,11 @@
 </summary>
 
 
+- [2020-11-12-社招京东北京·北辰世纪中心电商个性化推荐系统架构的相关研发工作](https://www.v2ex.com/t/724337) ![](assets/new.png)  
+- [2020-11-12-迫于穷，-1918-包邮出-京东自营-switch-红蓝主机-+-健身环大冒险](https://www.v2ex.com/t/724336) ![](assets/new.png)  
+- [2020-11-12-处理器换了-M1-一些旧软件还需要重新购买么](https://www.v2ex.com/t/724335) ![](assets/new.png)  
+- [2020-11-12-腾讯音乐-酷狗业务线招聘资深-android，待遇优厚，快来看看](https://www.v2ex.com/t/724334) ![](assets/new.png)  
+- [2020-11-12-请教可以查看-微软软件-Store-的软件历史版本吗？](https://www.v2ex.com/t/724333) ![](assets/new.png)  
 - [2020-11-12-请问一个问题，我有很多张同样类型不同名字的数据库，我可以查出来相关表名，但是表名可能会增加](https://www.v2ex.com/t/724327) ![](assets/new.png)  
 - [2020-11-12-迫于去-Apple-化，求推荐-Windows-笔记本](https://www.v2ex.com/t/724326) ![](assets/new.png)  
 - [2020-11-12-有喜欢读书和写书评的吗？](https://www.v2ex.com/t/724322) ![](assets/new.png)  
@@ -560,7 +565,6 @@
 - [2020-11-12-有没有一些实际变现想法的-V-友们。](https://www.v2ex.com/t/724319) ![](assets/new.png)  
 - [2020-11-12-安卓平台上有没有什么软件可以监控和统计-wifi-下各个-app-的流量耗费情况？](https://www.v2ex.com/t/724318) ![](assets/new.png)  
 - [2020-11-12-想问一下，有什么日记/笔记-APP-是在安卓和-ios-上都有的吗？](https://www.v2ex.com/t/724316) ![](assets/new.png)  
-- [2020-11-12-netflix-土区下车一位，-45-一个月](https://www.v2ex.com/t/724315) ![](assets/new.png)  
 - [2020-11-12-有没有基于-ssh-的多服务器负载监控开源软件？](https://www.v2ex.com/t/724314) ![](assets/new.png)  
 - [2020-11-12-前一段做了个某音小视频在线去水印工具，大家闲着没事帮着测试一下-哈哈哈](https://www.v2ex.com/t/724312) ![](assets/new.png)  
 - [2020-11-12-急招-渗透测试工程师---安全与风控（北/上/杭/深）](https://www.v2ex.com/t/724311) ![](assets/new.png)  
@@ -569,10 +573,6 @@
 - [2020-11-12-m1-的跑分有点厉害的](https://www.v2ex.com/t/724305) ![](assets/new.png)  
 - [2020-11-12-国内-M1-系列已经可以下单，冲吗？](https://www.v2ex.com/t/724304) ![](assets/new.png)  
 - [2020-11-12-Google-Photo-无限空间要终止了，手里有-pixel-备用，怎么用它上传呢，主力是-iPhone](https://www.v2ex.com/t/724302) ![](assets/new.png)  
-- [2020-11-12-华景新城合租，小房间转租。距离-brt-不到-10-分钟走路，小区干净安静](https://www.v2ex.com/t/724300) ![](assets/new.png)  
-- [2020-11-12-项目小组长是不是最苦逼的那个？](https://www.v2ex.com/t/724298) ![](assets/new.png)  
-- [2020-11-12-mongodb-副本集两地架构机房搬迁问题](https://www.v2ex.com/t/724297) ![](assets/new.png)  
-- [2020-11-12-寻找优秀的-ui-设计，需要对公走账](https://www.v2ex.com/t/724296) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -634,7 +634,7 @@
 - [2020-11-12-Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73) ![](assets/new.png)  
 - [2020-11-12-Gradle-+-GitHub-Actions-自动发布项目至-Maven-仓库](https://toutiao.io/k/zlkk4go) ![](assets/new.png)  
 - [2020-11-12-推荐-Guava：拯救垃圾代码，写出优雅高效，效率提升-N-倍](https://toutiao.io/k/3u67plz) ![](assets/new.png)  
-- [2020-11-12-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-12-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

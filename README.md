@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 08:04:37，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 08:13:08，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-12-U2720qm-的朋友们，有个问题。](https://www.v2ex.com/t/724487) ![](assets/new.png)  
+- [2020-11-12-MacBook-Pro-13-inch,-2020-键盘方向键不水平问题？](https://www.v2ex.com/t/724485) ![](assets/new.png)  
+- [2020-11-12-iOS-如何屏蔽掉微信公众号里面的广告？](https://www.v2ex.com/t/724484) ![](assets/new.png)  
 - [2020-11-12-有没有哪个软件可以提供获取家里网络-ip-的？](https://www.v2ex.com/t/724481) ![](assets/new.png)  
 - [2020-11-12-dotfiles、软连接、模块化，有没有大神给一个最优雅的使用方案？我想抄个作业](https://www.v2ex.com/t/724480) ![](assets/new.png)  
 - [2020-11-12-今日最差消息：有关-Google-相册存储空间的重要更新](https://www.v2ex.com/t/724479) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-12-关于-Django-的乐观锁问题](https://www.v2ex.com/t/724465) ![](assets/new.png)  
 - [2020-11-12-上海电信可以开-5G-SA-了，不过要去线下营业厅](https://www.v2ex.com/t/724464) ![](assets/new.png)  
 - [2020-11-12-求一个正则表达式啊](https://www.v2ex.com/t/724463) ![](assets/new.png)  
-- [2020-11-12-ExternalName-与-HostAliases-的疑惑](https://www.v2ex.com/t/724461) ![](assets/new.png)  
-- [2020-11-12-十个面试九个秒杀，你设计的秒杀系统真的过关了吗？](https://www.v2ex.com/t/724460) ![](assets/new.png)  
-- [2020-11-12-Oracle-面试题：扩展-C-预处理器，使其变得图灵完备](https://www.v2ex.com/t/724459) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

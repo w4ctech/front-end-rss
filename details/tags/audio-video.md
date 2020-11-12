@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 01:24:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 01:33:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -80,8 +80,6 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-12-Youtube-视频全挂了？](https://www.v2ex.com/t/724251) 
 - [2020-11-11-分享一个无聊至极的-Youtube-直播频道,-主播是几只隼](https://www.v2ex.com/t/724239) 
-- [2020-11-11-在哪看天猫双-11-的实时交易现场直播](https://www.v2ex.com/t/724221) 
-- [2020-11-11-12pro-看纯黑视频屏幕闪烁](https://www.v2ex.com/t/724219) 
 - [2020-11-11-双十一巨惠:PWN入门视频听一期送一期](https://sec.thief.one/article_content?a_id=76b4d47cd9928509fc31d4d280ad5714) 
 - [2020-11-11-【视频】|-警民齐心筑防线,全民携手反电诈](https://sec.thief.one/article_content?a_id=e8ef277c2c0b318b7a313d328b604a49) 
 - [2020-11-10-双十一返场直播!后天下午2点,超值FreeBuf周边低至9.9元~](https://sec.thief.one/article_content?a_id=471291f63d4f53bcb8a89fd358a75c0a) 

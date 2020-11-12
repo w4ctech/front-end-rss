@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-12 20:10:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 20:20:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-12-Apple-的-M1-CPU，目前还不支持-docker，太纠结了](https://www.v2ex.com/t/724638) 
 - [2020-11-12-有勇士把-macos-升级到了-Big-Sur-吗](https://www.v2ex.com/t/724635) 
 - [2020-11-12-两系统一起更新，求平安](https://www.v2ex.com/t/724633) 
 - [2020-11-12-如何下载-Youtobu-的广告](https://www.v2ex.com/t/724632) 
@@ -36,4 +37,3 @@
 - [2020-11-12-想看看大佬们的-LeetCode-完成情况😄](https://www.v2ex.com/t/724594) 
 - [2020-11-12-油管用户登录后无法正常看视频，但可以看首页和列表，是我的-acc-被-ban-了嘛？](https://www.v2ex.com/t/724591) 
 - [2020-11-12-两台设备传输数据，自带输入法词库会同步过去吗？](https://www.v2ex.com/t/724590) 
-- [2020-11-12-catalina-10.15.7-mbp-19-款-16-有遇到触控板点按失灵的吗？](https://www.v2ex.com/t/724588) 

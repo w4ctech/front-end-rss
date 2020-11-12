@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 07:03:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 07:11:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -31,8 +31,7 @@
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-11-对象方法和方法中的-"this"-—-现代-JavaScript-教程](https://juejin.im/post/6894125998070038536) 
-- [2020-11-11-JavaScript-ES-模块：现代化前端编程必备技能](https://juejin.im/post/6894059151409250318) 
-- [2020-08-16-😀一个原生js弹幕库，基于-CSS3-Animation](https://juejin.im/post/6861507513980829709) 
+- [2020-11-11-JS-事件委托（事件代理）那些事-——-捕获-、冒泡](https://juejin.im/post/6894052871307395085) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

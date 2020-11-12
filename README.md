@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 05:20:10，:rocket: 更新条数: +3295， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 05:32:35，:rocket: 更新条数: +3257， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -553,26 +553,6 @@
 </summary>
 
 
-- [2020-11-12-出-Jetbrains-正版教育全家桶-/-9.9-元](https://www.v2ex.com/t/724399) ![](assets/new.png)  
-- [2020-11-12-真的没必要把-M1-芯片吹的太过](https://www.v2ex.com/t/724398) ![](assets/new.png)  
-- [2020-11-12-macbook-m1-是否支持-MUF82FE-扩展-4K](https://www.v2ex.com/t/724397) ![](assets/new.png)  
-- [2020-11-12-Google-Photos-替代方案？](https://www.v2ex.com/t/724396) ![](assets/new.png)  
-- [2020-11-12-如何招聘-Java-架构师?](https://www.v2ex.com/t/724395) ![](assets/new.png)  
-- [2020-11-12-请教大家关于开发机器的两道问题](https://www.v2ex.com/t/724394) ![](assets/new.png)  
-- [2020-11-12-一个充电问题](https://www.v2ex.com/t/724393) ![](assets/new.png)  
-- [2020-11-12-有办法双屏幕全屏时覆盖到两个屏幕吗？](https://www.v2ex.com/t/724392) ![](assets/new.png)  
-- [2020-11-12-妙控键盘买长款好还是短款好](https://www.v2ex.com/t/724391) ![](assets/new.png)  
-- [2020-11-12-迫于去-Apple-化，求推荐游戏开发笔记本](https://www.v2ex.com/t/724390) ![](assets/new.png)  
-- [2020-11-12-请教一道简单的算法题](https://www.v2ex.com/t/724389) ![](assets/new.png)  
-- [2020-11-12-早上-6-点的-iPhone-预约到店好抢吗？求有经验的老哥分享一下](https://www.v2ex.com/t/724388) ![](assets/new.png)  
-- [2020-11-12-双-11，购物节-算骗局吗？](https://www.v2ex.com/t/724386) ![](assets/new.png)  
-- [2020-11-12-有没有办法在路由器里装-easyconnect-并启动](https://www.v2ex.com/t/724384) ![](assets/new.png)  
-- [2020-11-12-想请问一下大家关于升降桌的使用情况](https://www.v2ex.com/t/724383) ![](assets/new.png)  
-- [2020-11-12-只用-1-天半手机坏了，可能是最快-12pro-坏机经历，怎么整？](https://www.v2ex.com/t/724382) ![](assets/new.png)  
-- [2020-11-12-数学差的程序员还有机会进外企吗](https://www.v2ex.com/t/724381) ![](assets/new.png)  
-- [2020-11-12-电信用户又可以免费提速了](https://www.v2ex.com/t/724379) ![](assets/new.png)  
-- [2020-11-12-这样的可视化音乐效果的怎么实现？](https://www.v2ex.com/t/724377) ![](assets/new.png)  
-- [2020-11-12-深圳物联网后台开发](https://www.v2ex.com/t/724376) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -633,8 +613,8 @@
 - [2020-11-12-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-12-Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73) ![](assets/new.png)  
 - [2020-11-12-Gradle-+-GitHub-Actions-自动发布项目至-Maven-仓库](https://toutiao.io/k/zlkk4go) ![](assets/new.png)  
-- [2020-11-12-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
 - [2020-11-12-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-12-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

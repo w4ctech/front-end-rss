@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 05:32:35，:rocket: 更新条数: +3257， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 05:35:36，:rocket: 更新条数: +3297， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -553,6 +553,26 @@
 </summary>
 
 
+- [2020-11-12-搞了个-q2ex-com-域名，自己也不知道做啥，明盘出售，有需要的吗](https://www.v2ex.com/t/724404) ![](assets/new.png)  
+- [2020-11-12-回溯暴力+dp-算法求优化思路](https://www.v2ex.com/t/724403) ![](assets/new.png)  
+- [2020-11-12-Googleone-的家庭共享方案是每个人都有-2T，还是说-6-个人平分两-T？](https://www.v2ex.com/t/724402) ![](assets/new.png)  
+- [2020-11-12-腾讯微视内推，-base-广州深圳北京；客户端，前端，后台](https://www.v2ex.com/t/724401) ![](assets/new.png)  
+- [2020-11-12-Akkocloud-美国德国-CN2-GIA-云服务器出售](https://www.v2ex.com/t/724400) ![](assets/new.png)  
+- [2020-11-12-出-Jetbrains-正版教育全家桶-/-9.9-元](https://www.v2ex.com/t/724399) ![](assets/new.png)  
+- [2020-11-12-真的没必要把-M1-芯片吹的太过](https://www.v2ex.com/t/724398) ![](assets/new.png)  
+- [2020-11-12-macbook-m1-是否支持-MUF82FE-扩展-4K](https://www.v2ex.com/t/724397) ![](assets/new.png)  
+- [2020-11-12-Google-Photos-替代方案？](https://www.v2ex.com/t/724396) ![](assets/new.png)  
+- [2020-11-12-如何招聘-Java-架构师?](https://www.v2ex.com/t/724395) ![](assets/new.png)  
+- [2020-11-12-请教大家关于开发机器的两道问题](https://www.v2ex.com/t/724394) ![](assets/new.png)  
+- [2020-11-12-一个充电问题](https://www.v2ex.com/t/724393) ![](assets/new.png)  
+- [2020-11-12-有办法双屏幕全屏时覆盖到两个屏幕吗？](https://www.v2ex.com/t/724392) ![](assets/new.png)  
+- [2020-11-12-妙控键盘买长款好还是短款好](https://www.v2ex.com/t/724391) ![](assets/new.png)  
+- [2020-11-12-迫于去-Apple-化，求推荐游戏开发笔记本](https://www.v2ex.com/t/724390) ![](assets/new.png)  
+- [2020-11-12-请教一道简单的算法题](https://www.v2ex.com/t/724389) ![](assets/new.png)  
+- [2020-11-12-早上-6-点的-iPhone-预约到店好抢吗？求有经验的老哥分享一下](https://www.v2ex.com/t/724388) ![](assets/new.png)  
+- [2020-11-12-双-11，购物节-算骗局吗？](https://www.v2ex.com/t/724386) ![](assets/new.png)  
+- [2020-11-12-有没有办法在路由器里装-easyconnect-并启动](https://www.v2ex.com/t/724384) ![](assets/new.png)  
+- [2020-11-12-想请问一下大家关于升降桌的使用情况](https://www.v2ex.com/t/724383) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

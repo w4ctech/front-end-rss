@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-12 22:23:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 22:33:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-12-big-sur-下载老是失败的可以试试这个](https://www.v2ex.com/t/724641) 
 - [2020-11-12-人生如此艰难，尤其是负责-Legacy-Code.-2](https://www.v2ex.com/t/724639) 
 - [2020-11-12-Apple-的-M1-CPU，目前还不支持-docker，太纠结了](https://www.v2ex.com/t/724638) 
 - [2020-11-12-有勇士把-macos-升级到了-Big-Sur-吗](https://www.v2ex.com/t/724635) 
@@ -36,4 +37,3 @@
 - [2020-11-12-小火箭开启状态对电量影响大吗？](https://www.v2ex.com/t/724596) 
 - [2020-11-12-这代-MacBook-的无线网络吞吐是不是还缩水了？](https://www.v2ex.com/t/724595) 
 - [2020-11-12-想看看大佬们的-LeetCode-完成情况😄](https://www.v2ex.com/t/724594) 
-- [2020-11-12-油管用户登录后无法正常看视频，但可以看首页和列表，是我的-acc-被-ban-了嘛？](https://www.v2ex.com/t/724591) 

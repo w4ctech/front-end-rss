@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 22:23:08，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 22:33:01，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-12-big-sur-下载老是失败的可以试试这个](https://www.v2ex.com/t/724641) ![](assets/new.png)  
 - [2020-11-12-人生如此艰难，尤其是负责-Legacy-Code.-2](https://www.v2ex.com/t/724639) ![](assets/new.png)  
 - [2020-11-12-Apple-的-M1-CPU，目前还不支持-docker，太纠结了](https://www.v2ex.com/t/724638) ![](assets/new.png)  
 - [2020-11-12-有勇士把-macos-升级到了-Big-Sur-吗](https://www.v2ex.com/t/724635) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-12-iOS14-神奇-BUG-导致-Apple-Watch-App-闪退](https://www.v2ex.com/t/724619) ![](assets/new.png)  
 - [2020-11-12-大家来讨论讨论，-65-岁拿到退休工资之前，该做些什么保证自己不会饿死](https://www.v2ex.com/t/724618) ![](assets/new.png)  
 - [2020-11-12-Homepod-mini-外媒测试解封，热度好像完全被-ARM-Mac-干掉了？](https://www.v2ex.com/t/724616) ![](assets/new.png)  
-- [2020-11-12-联通出国路由跳来跳去-原本北京直出-RU-的](https://www.v2ex.com/t/724614) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

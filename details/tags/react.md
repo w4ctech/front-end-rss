@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 02:35:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 02:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -18,5 +18,4 @@
 - [2017-03-03-轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/) 
 - [2016-07-05-feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/) 
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
-- [2020-11-11-React井字棋改进](https://juejin.im/post/6893853567497863181) 
 - [2020-11-12-React-Hooks-性能优化的正确姿势](https://www.v2ex.com/t/724286) 

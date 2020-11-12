@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 02:35:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 02:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,6 +78,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-11-12-前一段做了个某音小视频在线去水印工具，大家闲着没事帮着测试一下-哈哈哈](https://www.v2ex.com/t/724312) 
 - [2020-11-11-双十一巨惠:PWN入门视频听一期送一期](https://sec.thief.one/article_content?a_id=76b4d47cd9928509fc31d4d280ad5714) 
 - [2020-11-11-【视频】|-警民齐心筑防线,全民携手反电诈](https://sec.thief.one/article_content?a_id=e8ef277c2c0b318b7a313d328b604a49) 
 - [2020-11-10-双十一返场直播!后天下午2点,超值FreeBuf周边低至9.9元~](https://sec.thief.one/article_content?a_id=471291f63d4f53bcb8a89fd358a75c0a) 

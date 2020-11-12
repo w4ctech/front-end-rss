@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 02:35:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 02:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -58,7 +58,9 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
-- [2020-11-11-JS进阶-|-堆栈内存篇之数据类型与类型转换](https://juejin.im/post/6893847929514098701) 
+- [2020-11-11-【一天一大-lee】按奇偶排序数组-II-难度:简单---Day20201112](https://juejin.im/post/6894060360849063943) 
+- [2020-11-11-JavaScript-ES-模块：现代化前端编程必备技能](https://juejin.im/post/6894059151409250318) 
+- [2020-08-16-😀一个原生js弹幕库，基于-CSS3-Animation](https://juejin.im/post/6861507513980829709) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

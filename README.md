@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 12:38:54，:rocket: 更新条数: +3051， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 12:47:54，:rocket: 更新条数: +3052， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-12-我找遍了各大阅读-APP，竟找不到一本《浪潮之巅》。](https://www.v2ex.com/t/724577) ![](assets/new.png)  
+- [2020-11-12-工作中的你们是如何让-iPad-发挥生产力的？](https://www.v2ex.com/t/724575) ![](assets/new.png)  
+- [2020-11-12-各位老大哥，现在-mbp2020-的-16-寸还值得买吗](https://www.v2ex.com/t/724574) ![](assets/new.png)  
+- [2020-11-12-Chrome-外部链接后缀：%20--with-chrome-plus-plus%20--disable-features=RendererCodeIntegrity,FlashDeprecationWarning](https://www.v2ex.com/t/724573) ![](assets/new.png)  
 - [2020-11-12-公司接手管理某一商业城，现在找了外面公司弄个商城的会员系统，请问需要注意什么？](https://www.v2ex.com/t/724572) ![](assets/new.png)  
 - [2020-11-12-测了一下浏览器对于单域名解析后返回多-ip-且某-ip-web-server-故障后自动切换功能，手机端主流浏览器集体躺枪](https://www.v2ex.com/t/724570) ![](assets/new.png)  
 - [2020-11-12-12-月才发货的订单可以在明天-6-点提前预约取货吗](https://www.v2ex.com/t/724569) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-12-我的-iPhone-XS-Max-听筒声音特别小，有人遇到过吗？](https://www.v2ex.com/t/724541) ![](assets/new.png)  
 - [2020-11-12-腾讯云购买的域名没实名被暂停解析了还有救没？](https://www.v2ex.com/t/724540) ![](assets/new.png)  
 - [2020-11-12-请教个问题，为什么不能称呼设计师为美工？??](https://www.v2ex.com/t/724539) ![](assets/new.png)  
-- [2020-11-12-拿到前端路由了以后应该怎么攻击?](https://www.v2ex.com/t/724535) ![](assets/new.png)  
-- [2020-11-12-接入-Sentry-实战系列](https://www.v2ex.com/t/724533) ![](assets/new.png)  
-- [2020-11-12-cmder-启动参数问题](https://www.v2ex.com/t/724532) ![](assets/new.png)  
-- [2020-11-12-Apple-新款-M1-芯片软件适配进度列表](https://www.v2ex.com/t/724529) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

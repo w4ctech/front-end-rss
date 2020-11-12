@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-12 12:38:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 12:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-12-我找遍了各大阅读-APP，竟找不到一本《浪潮之巅》。](https://www.v2ex.com/t/724577) 
+- [2020-11-12-工作中的你们是如何让-iPad-发挥生产力的？](https://www.v2ex.com/t/724575) 
+- [2020-11-12-各位老大哥，现在-mbp2020-的-16-寸还值得买吗](https://www.v2ex.com/t/724574) 
+- [2020-11-12-Chrome-外部链接后缀：%20--with-chrome-plus-plus%20--disable-features=RendererCodeIntegrity,FlashDeprecationWarning](https://www.v2ex.com/t/724573) 
 - [2020-11-12-公司接手管理某一商业城，现在找了外面公司弄个商城的会员系统，请问需要注意什么？](https://www.v2ex.com/t/724572) 
 - [2020-11-12-测了一下浏览器对于单域名解析后返回多-ip-且某-ip-web-server-故障后自动切换功能，手机端主流浏览器集体躺枪](https://www.v2ex.com/t/724570) 
 - [2020-11-12-12-月才发货的订单可以在明天-6-点提前预约取货吗](https://www.v2ex.com/t/724569) 
@@ -26,6 +30,3 @@
 - [2020-11-12-cmder-启动参数问题](https://www.v2ex.com/t/724532) 
 - [2020-11-12-Apple-新款-M1-芯片软件适配进度列表](https://www.v2ex.com/t/724529) 
 - [2020-11-12-飞机死哦地方圣诞节覅送到家法国角度上考虑](https://www.v2ex.com/t/724528) 
-- [2020-11-12-问个数据库查询的问题-用-exist-和普通查询有什么区别么](https://www.v2ex.com/t/724527) 
-- [2020-11-12-有人知道两个不同入学年份的非全日制的本科学历,都能顺利毕业吗？](https://www.v2ex.com/t/724526) 
-- [2020-11-12-c++荒废太久，求推荐书籍](https://www.v2ex.com/t/724523) 

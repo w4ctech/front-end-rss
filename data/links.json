@@ -14588,6 +14588,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我找遍了各大阅读 APP，竟找不到一本《浪潮之巅》。",
+        "link": "https://www.v2ex.com/t/724577",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "工作中的你们是如何让 iPad 发挥生产力的？",
+        "link": "https://www.v2ex.com/t/724575",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "各位老大哥，现在 mbp2020 的 16 寸还值得买吗",
+        "link": "https://www.v2ex.com/t/724574",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "Chrome 外部链接后缀：%20--with-chrome-plus-plus%20--disable-features=RendererCodeIntegrity,FlashDeprecationWarning",
+        "link": "https://www.v2ex.com/t/724573",
+        "date": "2020-11-12"
+      },
+      {
         "title": "公司接手管理某一商业城，现在找了外面公司弄个商城的会员系统，请问需要注意什么？",
         "link": "https://www.v2ex.com/t/724572",
         "date": "2020-11-12"
@@ -14690,21 +14710,6 @@
       {
         "title": "飞机死哦地方圣诞节覅送到家法国角度上考虑",
         "link": "https://www.v2ex.com/t/724528",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "问个数据库查询的问题 用 exist 和普通查询有什么区别么",
-        "link": "https://www.v2ex.com/t/724527",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "有人知道两个不同入学年份的非全日制的本科学历,都能顺利毕业吗？",
-        "link": "https://www.v2ex.com/t/724526",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "c++荒废太久，求推荐书籍",
-        "link": "https://www.v2ex.com/t/724523",
         "date": "2020-11-12"
       }
     ]
@@ -14922,28 +14927,8 @@
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-12"
       },
       {
@@ -14952,38 +14937,23 @@
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
         "date": "2020-11-12"
       },
       {
@@ -14992,8 +14962,43 @@
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-12"
       }
     ]

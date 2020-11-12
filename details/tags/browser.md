@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 23:35:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 23:47:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,6 +33,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-12-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-12-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-12-人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm) 
 - [2020-11-12-小米AIoT安全峰会议题回顾|安全可信体系:系统可信标准解读与实践](https://sec.thief.one/article_content?a_id=641a73a1bccd856b083362ba69a79d6c) 
 - [2020-11-12-浅析《金融数据安全分级指南》](https://sec.thief.one/article_content?a_id=9f6a33dc7c69478a5c0b93264cd7f7bd) 
 - [2020-11-12-这道工业互联网安全“必答题”,如何才能得满分?](https://sec.thief.one/article_content?a_id=18249e579aa64d683e7b902c3bf899e5) 

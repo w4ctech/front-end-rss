@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 23:35:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 23:47:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -19,5 +19,3 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-11-12-Android网络性能监控方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13921&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778070%3Futm_content%3Dg_1000203100%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-12-T级内存，创建效率提升10倍以上，阿里云-KVM异构虚拟机启动时间优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13918&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777709%3Futm_content%3Dg_1000203098%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-11-12-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) 
-- [2020-11-12-一例-Go-编译器代码优化-bug-定位和修复解析](https://toutiao.io/k/55wn45f) 

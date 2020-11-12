@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 23:35:10，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 23:47:48，:rocket: 更新条数: +3279， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -615,26 +615,26 @@
 </summary>
 
 
-- [2020-11-12-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
-- [2020-11-12-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [2020-11-12-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
-- [2020-11-12-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
-- [2020-11-12-谈一谈-TCP-连接](https://toutiao.io/k/ncz653e) ![](assets/new.png)  
-- [2020-11-12-在-Jitsi-上用-getDisplayMedia-录制本地音频](https://toutiao.io/k/r81ubhx) ![](assets/new.png)  
-- [2020-11-12-从选型到项目落地，漫谈-gRPC](https://toutiao.io/k/wnlwatk) ![](assets/new.png)  
-- [2020-11-12-文科妹子都会用-GitHub，你这个工科生还等什么](https://toutiao.io/k/uzq5xc4) ![](assets/new.png)  
-- [2020-11-12-使用-Vue-3-+-TS-重构百星-WebSocket-插件](https://toutiao.io/k/mmw4zp6) ![](assets/new.png)  
-- [2020-11-12-腾讯看点视频推荐索引构建方案](https://toutiao.io/k/qjuci0g) ![](assets/new.png)  
-- [2020-11-12-Portainer：轻松管理-Docker](https://toutiao.io/k/djg7sfl) ![](assets/new.png)  
-- [2020-11-12-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-12-那天，我被拉入一个-Redis-群聊···](https://toutiao.io/k/uejv6cb) ![](assets/new.png)  
-- [2020-11-12-一例-Go-编译器代码优化-bug-定位和修复解析](https://toutiao.io/k/55wn45f) ![](assets/new.png)  
-- [2020-11-12-深入解读-Elasticsearch-热点线程-hot_threads](https://toutiao.io/k/1awt70n) ![](assets/new.png)  
-- [2020-11-12-程序员如何打造个人品牌？](https://toutiao.io/k/yz1g3di) ![](assets/new.png)  
-- [2020-11-12-Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73) ![](assets/new.png)  
-- [2020-11-12-Gradle-+-GitHub-Actions-自动发布项目至-Maven-仓库](https://toutiao.io/k/zlkk4go) ![](assets/new.png)  
-- [2020-11-12-《The-7-Day-Startup》7-天构建一个赚钱产品](https://toutiao.io/k/mebs7id) ![](assets/new.png)  
-- [2020-11-12-数据中台的使命、愿景、本质和六大核心能力](https://toutiao.io/k/21b4s57) ![](assets/new.png)  
+- [2020-11-12-Go-设计模式（二十四）：总结](https://toutiao.io/k/ch4mr21) ![](assets/new.png)  
+- [2020-11-12-人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm) ![](assets/new.png)  
+- [2020-11-12-Hugo-之旅](https://toutiao.io/k/5ubz2q0) ![](assets/new.png)  
+- [2020-11-12-华东师范大学的数据库系统研究](https://toutiao.io/k/vjryow7) ![](assets/new.png)  
+- [2020-11-12-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
+- [2020-11-12-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-12-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-12-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-12-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-12-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-12-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-12-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-12-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-12-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-12-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-12-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-12-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-12-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-12-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

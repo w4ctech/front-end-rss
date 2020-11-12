@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-12 15:35:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 15:47:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-12-10.15.7-使用-clashX-的时候没法用快捷键切换全局和规则？就是-option+G-option+R-来切换](https://www.v2ex.com/t/724620) 
 - [2020-11-12-iOS14-神奇-BUG-导致-Apple-Watch-App-闪退](https://www.v2ex.com/t/724619) 
 - [2020-11-12-大家来讨论讨论，-65-岁拿到退休工资之前，该做些什么保证自己不会饿死](https://www.v2ex.com/t/724618) 
 - [2020-11-12-Homepod-mini-外媒测试解封，热度好像完全被-ARM-Mac-干掉了？](https://www.v2ex.com/t/724616) 
@@ -12,8 +13,6 @@
 - [2020-11-12-阿里郎云壳怎么屏蔽？](https://www.v2ex.com/t/724613) 
 - [2020-11-12-2018-款-Mac-mini-i5-+-32G-内存，换-16G-m1-Mac-mini-怎么样？](https://www.v2ex.com/t/724612) 
 - [2020-11-12-写了个-tmux-插件---easyjump.tmux](https://www.v2ex.com/t/724609) 
-- [2020-11-12-下班](https://www.v2ex.com/t/724607) 
-- [2020-11-12-非广告砍价互助群：拉勾教育](https://www.v2ex.com/t/724606) 
 - [2020-11-12-如何快速迁移-Googlephoto-里的照片到-onedrive-里？](https://www.v2ex.com/t/724604) 
 - [2020-11-12-webflux-替换-webmvc-有哪些成本呢？](https://www.v2ex.com/t/724603) 
 - [2020-11-12-自己维护的一个高质量资讯微信群（再发一次，之前那个没说清楚）](https://www.v2ex.com/t/724600) 
@@ -37,4 +36,3 @@
 - [2020-11-12-各位老大哥，现在-mbp2020-的-16-寸还值得买吗](https://www.v2ex.com/t/724574) 
 - [2020-11-12-Chrome-外部链接后缀：%20--with-chrome-plus-plus%20--disable-features=RendererCodeIntegrity,FlashDeprecationWarning](https://www.v2ex.com/t/724573) 
 - [2020-11-12-公司接手管理某一商业城，现在找了外面公司弄个商城的会员系统，请问需要注意什么？](https://www.v2ex.com/t/724572) 
-- [2020-11-12-测了一下浏览器对于单域名解析后返回多-ip-且某-ip-web-server-故障后自动切换功能，手机端主流浏览器集体躺枪](https://www.v2ex.com/t/724570) 

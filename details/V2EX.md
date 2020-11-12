@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-12 18:23:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 18:33:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-12-两系统一起更新，求平安](https://www.v2ex.com/t/724633) 
+- [2020-11-12-如何下载-Youtobu-的广告](https://www.v2ex.com/t/724632) 
+- [2020-11-12-2-个月-Python-转-Java-开发来得及吗](https://www.v2ex.com/t/724631) 
 - [2020-11-12-大家安装了-macOS-Big-Sur-进来聊聊。惊喜，意外，吐槽，香还是不香？](https://www.v2ex.com/t/724630) 
 - [2020-11-12-啊这，原来-Windows-10-的开始菜单都能展示第三方广告啊，美帝良心](https://www.v2ex.com/t/724629) 
 - [2020-11-12-求租-滨江长河附近不知道有没有个人那种租房](https://www.v2ex.com/t/724628) 
@@ -35,5 +38,3 @@
 - [2020-11-12-catalina-10.15.7-mbp-19-款-16-有遇到触控板点按失灵的吗？](https://www.v2ex.com/t/724588) 
 - [2020-11-12-想出手-17-Macbook-Pro-15-求各位给估个价](https://www.v2ex.com/t/724587) 
 - [2020-11-12-渗透测试工程师求职，不限地域](https://www.v2ex.com/t/724584) 
-- [2020-11-12-苹果手表为什么不能实时接收微信消息?](https://www.v2ex.com/t/724582) 
-- [2020-11-12-iPhone6s-换-iPhone12,数据怎么迁移？](https://www.v2ex.com/t/724581) 

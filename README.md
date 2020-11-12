@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 01:05:16，:rocket: 更新条数: +3054， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 01:13:21，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-12-行情高频数据显示](https://www.v2ex.com/t/724257) ![](assets/new.png)  
 - [2020-11-12-整理了一篇-iOS13、14-的越狱插件推荐贴](https://www.v2ex.com/t/724256) ![](assets/new.png)  
 - [2020-11-12-M1-跑分干掉了去年最高端的-16-寸-mbp](https://www.v2ex.com/t/724254) ![](assets/new.png)  
 - [2020-11-12-Google-Photo-免费即将结束，推荐一下海量照片存储方案？](https://www.v2ex.com/t/724252) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-11-谷歌相册高画质的无限存储服务将在-2021-年终止](https://www.v2ex.com/t/724236) ![](assets/new.png)  
 - [2020-11-11-Google-Photos-将于-2021-年-6-月-1-日结束「高品质」无限存储](https://www.v2ex.com/t/724235) ![](assets/new.png)  
 - [2020-11-11-mpvue-微信小程序不能全局注册子组件吗？](https://www.v2ex.com/t/724234) ![](assets/new.png)  
-- [2020-11-11-大家怎么看待云游戏方向？](https://www.v2ex.com/t/724233) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -599,22 +599,22 @@
 - [2020-11-12-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
 - [2020-11-12-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [2020-11-12-谈一谈-TCP-连接](https://toutiao.io/k/ncz653e) ![](assets/new.png)  
-- [2020-11-12-从选型到项目落地，漫谈-gRPC](https://toutiao.io/k/wnlwatk) ![](assets/new.png)  
 - [2020-11-12-在-Jitsi-上用-getDisplayMedia-录制本地音频](https://toutiao.io/k/r81ubhx) ![](assets/new.png)  
+- [2020-11-12-从选型到项目落地，漫谈-gRPC](https://toutiao.io/k/wnlwatk) ![](assets/new.png)  
 - [2020-11-12-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
 - [2020-11-12-使用-Vue-3-+-TS-重构百星-WebSocket-插件](https://toutiao.io/k/mmw4zp6) ![](assets/new.png)  
 - [2020-11-12-文科妹子都会用-GitHub，你这个工科生还等什么](https://toutiao.io/k/uzq5xc4) ![](assets/new.png)  
 - [2020-11-12-腾讯看点视频推荐索引构建方案](https://toutiao.io/k/qjuci0g) ![](assets/new.png)  
 - [2020-11-12-Portainer：轻松管理-Docker](https://toutiao.io/k/djg7sfl) ![](assets/new.png)  
 - [2020-11-12-那天，我被拉入一个-Redis-群聊···](https://toutiao.io/k/uejv6cb) ![](assets/new.png)  
-- [2020-11-12-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-12-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-12-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-12-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
 - [2020-11-12-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
-- [2020-11-12-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
 - [2020-11-12-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-12-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-12-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-12-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-12-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-12-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-12-推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9) ![](assets/new.png)  
+- [2020-11-12-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

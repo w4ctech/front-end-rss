@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 15:04:40，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 15:12:51，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-12-大家来讨论讨论，-65-岁拿到退休工资之前，该做些什么保证自己不会饿死](https://www.v2ex.com/t/724618) ![](assets/new.png)  
+- [2020-11-12-Homepod-mini-外媒测试解封，热度好像完全被-ARM-Mac-干掉了？](https://www.v2ex.com/t/724616) ![](assets/new.png)  
+- [2020-11-12-联通出国路由跳来跳去-原本北京直出-RU-的](https://www.v2ex.com/t/724614) ![](assets/new.png)  
 - [2020-11-12-阿里郎云壳怎么屏蔽？](https://www.v2ex.com/t/724613) ![](assets/new.png)  
 - [2020-11-12-2018-款-Mac-mini-i5-+-32G-内存，换-16G-m1-Mac-mini-怎么样？](https://www.v2ex.com/t/724612) ![](assets/new.png)  
 - [2020-11-12-写了个-tmux-插件---easyjump.tmux](https://www.v2ex.com/t/724609) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-12-两台设备传输数据，自带输入法词库会同步过去吗？](https://www.v2ex.com/t/724590) ![](assets/new.png)  
 - [2020-11-12-catalina-10.15.7-mbp-19-款-16-有遇到触控板点按失灵的吗？](https://www.v2ex.com/t/724588) ![](assets/new.png)  
 - [2020-11-12-想出手-17-Macbook-Pro-15-求各位给估个价](https://www.v2ex.com/t/724587) ![](assets/new.png)  
-- [2020-11-12-渗透测试工程师求职，不限地域](https://www.v2ex.com/t/724584) ![](assets/new.png)  
-- [2020-11-12-苹果手表为什么不能实时接收微信消息?](https://www.v2ex.com/t/724582) ![](assets/new.png)  
-- [2020-11-12-iPhone6s-换-iPhone12,数据怎么迁移？](https://www.v2ex.com/t/724581) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 16:46:06，:rocket: 更新条数: +3027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 16:50:24，:rocket: 更新条数: +3059， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-12-电信宽带福利-免费提速-不限次数-上行提升到-100M](https://www.v2ex.com/t/724626) ![](assets/new.png)  
+- [2020-11-12-这次更新-apple-tv-和-homepod-后配合真是舒服多了，原来是这么用的](https://www.v2ex.com/t/724625) ![](assets/new.png)  
+- [2020-11-12-我觉得-win10-作为开发机比-mac-好用多了](https://www.v2ex.com/t/724624) ![](assets/new.png)  
+- [2020-11-12-正文中是我的博客，为了不显单调，我为每篇博客都配了图，但是大小感觉别扭，希望大家提提意见！](https://www.v2ex.com/t/724623) ![](assets/new.png)  
+- [2020-11-12-mac-有没有什么软件能够欺骗机器（mac-mini）在不外接显示器的情况下输出视频信号？](https://www.v2ex.com/t/724622) ![](assets/new.png)  
+- [2020-11-12-10.15.7-使用-clashX-的时候没法用快捷键切换全局和规则？就是-option+G-option+R-来切换](https://www.v2ex.com/t/724620) ![](assets/new.png)  
+- [2020-11-12-iOS14-神奇-BUG-导致-Apple-Watch-App-闪退](https://www.v2ex.com/t/724619) ![](assets/new.png)  
+- [2020-11-12-大家来讨论讨论，-65-岁拿到退休工资之前，该做些什么保证自己不会饿死](https://www.v2ex.com/t/724618) ![](assets/new.png)  
+- [2020-11-12-Homepod-mini-外媒测试解封，热度好像完全被-ARM-Mac-干掉了？](https://www.v2ex.com/t/724616) ![](assets/new.png)  
+- [2020-11-12-联通出国路由跳来跳去-原本北京直出-RU-的](https://www.v2ex.com/t/724614) ![](assets/new.png)  
+- [2020-11-12-阿里郎云壳怎么屏蔽？](https://www.v2ex.com/t/724613) ![](assets/new.png)  
+- [2020-11-12-2018-款-Mac-mini-i5-+-32G-内存，换-16G-m1-Mac-mini-怎么样？](https://www.v2ex.com/t/724612) ![](assets/new.png)  
+- [2020-11-12-写了个-tmux-插件---easyjump.tmux](https://www.v2ex.com/t/724609) ![](assets/new.png)  
+- [2020-11-12-如何快速迁移-Googlephoto-里的照片到-onedrive-里？](https://www.v2ex.com/t/724604) ![](assets/new.png)  
+- [2020-11-12-webflux-替换-webmvc-有哪些成本呢？](https://www.v2ex.com/t/724603) ![](assets/new.png)  
+- [2020-11-12-自己维护的一个高质量资讯微信群（再发一次，之前那个没说清楚）](https://www.v2ex.com/t/724600) ![](assets/new.png)  
+- [2020-11-12-广东电信免费提速来了..这次是-500M](https://www.v2ex.com/t/724599) ![](assets/new.png)  
+- [2020-11-12-支持快照,自定义触发-API-的网络书签-->各种书签](https://www.v2ex.com/t/724598) ![](assets/new.png)  
+- [2020-11-12-小火箭开启状态对电量影响大吗？](https://www.v2ex.com/t/724596) ![](assets/new.png)  
+- [2020-11-12-这代-MacBook-的无线网络吞吐是不是还缩水了？](https://www.v2ex.com/t/724595) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

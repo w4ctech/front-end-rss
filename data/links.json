@@ -14376,6 +14376,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "基于模型测试实战——使用@xstate/test + cypress测试TodoMVC应用",
+        "link": "https://juejin.im/post/6894174184549646350",
+        "date": "2020-11-12"
+      },
+      {
         "title": "jsliang 求职系列 - 11 - 手写 new",
         "link": "https://juejin.im/post/6894142886456229902",
         "date": "2020-11-11"
@@ -14388,11 +14393,6 @@
       {
         "title": "1380. 矩阵中的幸运数",
         "link": "https://juejin.im/post/6894126976257228813",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "手把手实现Promise",
-        "link": "https://juejin.im/post/6894115068633350158",
         "date": "2020-11-11"
       },
       {
@@ -14583,6 +14583,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "拿到前端路由了以后应该怎么攻击?",
+        "link": "https://www.v2ex.com/t/724535",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "接入 Sentry 实战系列",
+        "link": "https://www.v2ex.com/t/724533",
+        "date": "2020-11-12"
+      },
+      {
         "title": "cmder 启动参数问题",
         "link": "https://www.v2ex.com/t/724532",
         "date": "2020-11-12"
@@ -14650,11 +14660,6 @@
       {
         "title": "有拼车 surge mac 的吗？ surge4 新版本发布，支持 big sur，活动价 8 折，仅在 2020.11.20 前有这个活动。",
         "link": "https://www.v2ex.com/t/724513",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[抖音直推] Android 社招、校招极速内推",
-        "link": "https://www.v2ex.com/t/724512",
         "date": "2020-11-12"
       },
       {
@@ -14770,16 +14775,6 @@
       {
         "title": "U2720qm 的朋友们，有个问题。",
         "link": "https://www.v2ex.com/t/724487",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "MacBook Pro (13-inch, 2020) 键盘方向键不水平问题？",
-        "link": "https://www.v2ex.com/t/724485",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "iOS 如何屏蔽掉微信公众号里面的广告？",
-        "link": "https://www.v2ex.com/t/724484",
         "date": "2020-11-12"
       }
     ]
@@ -14997,28 +14992,8 @@
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-12"
       },
       {
@@ -15027,33 +15002,8 @@
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-12"
-      },
-      {
         "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
         "link": "https://toutiao.io/k/f9kkb5t",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-12"
       },
       {
@@ -15062,13 +15012,58 @@
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
         "date": "2020-11-12"
       },
       {
         "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
         "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-12"
       }
     ]

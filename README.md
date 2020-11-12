@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 09:47:34，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 10:04:32，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,10 +453,10 @@
 </summary>
 
 
+- [2020-11-12-基于模型测试实战——使用@xstate/test-+-cypress测试TodoMVC应用](https://juejin.im/post/6894174184549646350) ![](assets/new.png)  
 - [2020-11-11-jsliang-求职系列---11---手写-new](https://juejin.im/post/6894142886456229902) ![](assets/new.png)  
 - [2020-11-11-译V8中的数组类型](https://juejin.im/post/6894128681145335816) ![](assets/new.png)  
 - [2020-11-11-1380.-矩阵中的幸运数](https://juejin.im/post/6894126976257228813) ![](assets/new.png)  
-- [2020-11-11-手把手实现Promise](https://juejin.im/post/6894115068633350158) ![](assets/new.png)  
 - [2020-11-11-Flutter性能优化-WebView使用姿势](https://juejin.im/post/6894084080560766990) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-12-拿到前端路由了以后应该怎么攻击?](https://www.v2ex.com/t/724535) ![](assets/new.png)  
+- [2020-11-12-接入-Sentry-实战系列](https://www.v2ex.com/t/724533) ![](assets/new.png)  
 - [2020-11-12-cmder-启动参数问题](https://www.v2ex.com/t/724532) ![](assets/new.png)  
 - [2020-11-12-Apple-新款-M1-芯片软件适配进度列表](https://www.v2ex.com/t/724529) ![](assets/new.png)  
 - [2020-11-12-飞机死哦地方圣诞节覅送到家法国角度上考虑](https://www.v2ex.com/t/724528) ![](assets/new.png)  
@@ -547,12 +549,10 @@
 - [2020-11-12-明天-13-号-iPhone12mini-就发售了，这有多少人买？](https://www.v2ex.com/t/724515) ![](assets/new.png)  
 - [2020-11-12-11-月-22-日！-CODING-DevOps-技术沙龙系列·上海站——「质量专场」来啦～](https://www.v2ex.com/t/724514) ![](assets/new.png)  
 - [2020-11-12-有拼车-surge-mac-的吗？-surge4-新版本发布，支持-big-sur，活动价-8-折，仅在-2020.11.20-前有这个活动。](https://www.v2ex.com/t/724513) ![](assets/new.png)  
-- [2020-11-12-抖音直推-Android-社招、校招极速内推](https://www.v2ex.com/t/724512) ![](assets/new.png)  
 - [2020-11-12-准备冲新-mac-了,-开发环境不会有问题](https://www.v2ex.com/t/724511) ![](assets/new.png)  
 - [2020-11-12-REST-接口让前端在请求中指定需要返回的字段是否合理?](https://www.v2ex.com/t/724509) ![](assets/new.png)  
 - [2020-11-12-35-岁还在一线岗位写代码的多吗](https://www.v2ex.com/t/724508) ![](assets/new.png)  
 - [2020-11-12-Mac-的-Microsoft-Edge-更新检查永远最新-实际上-已不是最新版本-有老哥遇到过吗？](https://www.v2ex.com/t/724507) ![](assets/new.png)  
-- [2020-11-12-Warning:-Calling-`brew-list`-to-only-list-formulae-is-deprecated!-Use-`brew-list---formula`-instead.](https://www.v2ex.com/t/724506) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

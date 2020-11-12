@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 12:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 13:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,11 +22,20 @@
 - [2020-02-06-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
+- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
+- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
+- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
+- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
+- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
+- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
+- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-12-Chrome-外部链接后缀：%20--with-chrome-plus-plus%20--disable-features=RendererCodeIntegrity,FlashDeprecationWarning](https://www.v2ex.com/t/724573) 
 - [2020-11-12-测了一下浏览器对于单域名解析后返回多-ip-且某-ip-web-server-故障后自动切换功能，手机端主流浏览器集体躺枪](https://www.v2ex.com/t/724570) 
 - [2020-11-12-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-12-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-12-小米AIoT安全峰会议题回顾|安全可信体系:系统可信标准解读与实践](https://sec.thief.one/article_content?a_id=641a73a1bccd856b083362ba69a79d6c) 
 - [2020-11-12-浅析《金融数据安全分级指南》](https://sec.thief.one/article_content?a_id=9f6a33dc7c69478a5c0b93264cd7f7bd) 
 - [2020-11-12-这道工业互联网安全“必答题”,如何才能得满分?](https://sec.thief.one/article_content?a_id=18249e579aa64d683e7b902c3bf899e5) 
 - [2020-11-12-web之父的创业选择:网络安全](https://sec.thief.one/article_content?a_id=ced0fb15de3398619e71b3d21e80cbd8) 
@@ -45,4 +54,3 @@
 - [2020-11-10-助力网络安全态势感知技术标准化|绿盟科技参与国家标准白皮书编写](https://sec.thief.one/article_content?a_id=69fa72bc3fb1560a98ff7003f70772e4) 
 - [2020-11-10-国舜股份签约贵州某农商行,助力网络风险排查与综合安全加固](https://sec.thief.one/article_content?a_id=7465af42dfd2d037c97c4087f524addb) 
 - [2020-11-10-信息安全漏洞周报2020年第43期](https://sec.thief.one/article_content?a_id=f88675a20ed2aec54b838066c51dd05d) 
-- [2020-11-10-CVE-2020-14871:Solaris-缓存溢出漏洞](https://sec.thief.one/article_content?a_id=c629ec8c412bc12a6861cf9616ed9e5f) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-11 23:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 00:07:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-11-有没有懂乐理的朋友，有个关于调式的问题我始终理解不了（解决了有红包）](https://www.v2ex.com/t/724245) 
+- [2020-11-11-Apple-one-premium-美区有要搭车的吗？](https://www.v2ex.com/t/724244) 
 - [2020-11-11-噩耗，从-2021-年-6-月-1-日起，-Google-photo-不能无限上传了，以后怎么备份-live-photo？](https://www.v2ex.com/t/724243) 
 - [2020-11-11-WebLogic-的-Azure-虚拟机主要版本发布](https://www.v2ex.com/t/724241) 
 - [2020-11-11-Cinebench-发布-R23，适配-Apple-Silicon](https://www.v2ex.com/t/724240) 
@@ -43,5 +45,3 @@
 - [2020-11-11-失望，本来期待苹果让小-macbook-复活呢。M1-感觉非常适合小-macbook-啊，难道仅仅是键盘的原因？](https://www.v2ex.com/t/724198) 
 - [2020-11-11-请问身份证银行卡营业执照都被人拍走了有危险吗？](https://www.v2ex.com/t/724197) 
 - [2020-11-11-不懂就问？有必要去搞高级职称评定吗？](https://www.v2ex.com/t/724196) 
-- [2020-11-11-长袖-T-恤品牌求推荐](https://www.v2ex.com/t/724195) 
-- [2020-11-11-在京东下手买了-k30s-至尊纪念版，双-11+北京消费券还是挺优惠的](https://www.v2ex.com/t/724194) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 07:47:47，:rocket: 更新条数: +3063， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 08:04:37，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-12-美国新冠肺炎确诊病例超1040万-累计死亡超24万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij8F1vMI64hJE1pRbsOAR201112&isfromapp=1) ![](assets/new.png)  
+- [2020-11-12-天津市津南区一冷库1份混检样本新冠病毒核酸阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizcS3xAGrU6yeBQdT1VL4201112&isfromapp=1) ![](assets/new.png)  
+- [2020-11-12-陕西11日新增2例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1Qc361WcgqTvvWCKX867201112&isfromapp=1) ![](assets/new.png)  
+- [2020-11-12-多米尼加累计确诊新冠肺炎病例超13万例-政府延长宵禁时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLjtecFrgtp1x86ACsqo201112&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-上海11月11日无新增本地新冠肺炎确诊病例-新增境外输入4例-治愈出院3例](http://wsjkw.sh.gov.cn/xwfb/20201112/d1ffbded09a049958bb5b9d4067f912f.html) ![](assets/new.png)  
-- [2020-11-12-福建省新型冠状病毒肺炎疫情情况](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202011/t20201112_5432945.htm) ![](assets/new.png)  
-- [2020-11-12-美国超过1.5万只貂死于新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSBUvvNgvFxYUAeJtBiJ5201112&isfromapp=1) ![](assets/new.png)  
-- [2020-11-12-青岛市卫健委：本地新冠肺炎确诊病例全部清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS6nWJtlW2ydXJfI7lbdO201112&isfromapp=1) ![](assets/new.png)  
-- [2020-11-12-四川省新型冠状病毒肺炎疫情最新情况（11月12日发布）](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/11/12/43a70c33fed64673924364334cd1769d.shtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,10 +453,10 @@
 </summary>
 
 
+- [2020-11-11-jsliang-求职系列---11---手写-new](https://juejin.im/post/6894142886456229902) ![](assets/new.png)  
 - [2020-11-11-译V8中的数组类型](https://juejin.im/post/6894128681145335816) ![](assets/new.png)  
 - [2020-11-11-1380.-矩阵中的幸运数](https://juejin.im/post/6894126976257228813) ![](assets/new.png)  
 - [2020-11-11-手把手实现Promise](https://juejin.im/post/6894115068633350158) ![](assets/new.png)  
-- [2020-11-11-Ant-Design-Pro-V2升级到V4-小结](https://juejin.im/post/6894112656765140999) ![](assets/new.png)  
 - [2020-11-11-Flutter性能优化-WebView使用姿势](https://juejin.im/post/6894084080560766990) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-12-有没有哪个软件可以提供获取家里网络-ip-的？](https://www.v2ex.com/t/724481) ![](assets/new.png)  
+- [2020-11-12-dotfiles、软连接、模块化，有没有大神给一个最优雅的使用方案？我想抄个作业](https://www.v2ex.com/t/724480) ![](assets/new.png)  
+- [2020-11-12-今日最差消息：有关-Google-相册存储空间的重要更新](https://www.v2ex.com/t/724479) ![](assets/new.png)  
+- [2020-11-12-手机存储是不是和-SSD-一样，容量越大速度越快？](https://www.v2ex.com/t/724478) ![](assets/new.png)  
+- [2020-11-12-为什么-GCP-LB-限制了对外出口?](https://www.v2ex.com/t/724477) ![](assets/new.png)  
 - [2020-11-12-go-语言中-main-包的问题](https://www.v2ex.com/t/724476) ![](assets/new.png)  
 - [2020-11-12-ubuntu-下有没有类似-按键精灵-的工具](https://www.v2ex.com/t/724474) ![](assets/new.png)  
 - [2020-11-12-酷家乐-内推-上海-，找工作换工作的注意了](https://www.v2ex.com/t/724472) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-12-ExternalName-与-HostAliases-的疑惑](https://www.v2ex.com/t/724461) ![](assets/new.png)  
 - [2020-11-12-十个面试九个秒杀，你设计的秒杀系统真的过关了吗？](https://www.v2ex.com/t/724460) ![](assets/new.png)  
 - [2020-11-12-Oracle-面试题：扩展-C-预处理器，使其变得图灵完备](https://www.v2ex.com/t/724459) ![](assets/new.png)  
-- [2020-11-12-求助各位大佬一个关于-OLAP-数据库的问题](https://www.v2ex.com/t/724458) ![](assets/new.png)  
-- [2020-11-12-Win10-开始菜单都被开始植入广告了吗？](https://www.v2ex.com/t/724456) ![](assets/new.png)  
-- [2020-11-12-MixGo-V1.0-发布，混合型高性能-Go-框架](https://www.v2ex.com/t/724455) ![](assets/new.png)  
-- [2020-11-12-急招-字节跳动安全岗位-北上杭深](https://www.v2ex.com/t/724454) ![](assets/new.png)  
-- [2020-11-12-nginx-反向代理-https](https://www.v2ex.com/t/724453) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-12-58.3万笔/秒！看阿里的黑科技-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13926&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778162%3Futm_content%3Dg_1000203703%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-12-我们身边的网络流量-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13925&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778158%3Futm_content%3Dg_1000203702%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-12-Dubbo-go-源码笔记（二）客户端调用过程-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13924&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778124%3Futm_content%3Dg_1000203701%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-12-OpenYurt-深度解读：如何构建-Kubernetes-原生云边高效协同网络？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13923&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778036%3Futm_content%3Dg_1000203700%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-12-玩转ECS第6讲-|-弹性计算Region化部署和跨可用区容灾介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13909&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777714%3Futm_content%3Dg_1000201986%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-12-基于-Flink-SQL-CDC-的实时数据同步方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13908&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777502%3Futm_content%3Dg_1000201984%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-12-直面最大挑战双11-阿里数据中台为商家带来确定性保障-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13907&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777615%3Futm_content%3Dg_1000201983%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-12-种-Flutter-开发工具推荐-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13906&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdBEBt5RjERNnybRXfQKDeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

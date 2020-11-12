@@ -14052,28 +14052,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美国新冠肺炎确诊病例超1040万 累计死亡超24万",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij8F1vMI64hJE1pRbsOAR201112&isfromapp=1",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "天津市津南区一冷库1份混检样本新冠病毒核酸阳性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizcS3xAGrU6yeBQdT1VL4201112&isfromapp=1",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "陕西11日新增2例境外输入确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1Qc361WcgqTvvWCKX867201112&isfromapp=1",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "多米尼加累计确诊新冠肺炎病例超13万例 政府延长宵禁时间",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLjtecFrgtp1x86ACsqo201112&isfromapp=1",
+        "date": "2020-11-12"
+      },
+      {
         "title": "上海11月11日无新增本地新冠肺炎确诊病例 新增境外输入4例  治愈出院3例",
         "link": "http://wsjkw.sh.gov.cn/xwfb/20201112/d1ffbded09a049958bb5b9d4067f912f.html",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "福建省新型冠状病毒肺炎疫情情况",
-        "link": "http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202011/t20201112_5432945.htm",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "美国超过1.5万只貂死于新冠病毒",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSBUvvNgvFxYUAeJtBiJ5201112&isfromapp=1",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "青岛市卫健委：本地新冠肺炎确诊病例全部清零",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS6nWJtlW2ydXJfI7lbdO201112&isfromapp=1",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "四川省新型冠状病毒肺炎疫情最新情况（11月12日发布）",
-        "link": "http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/11/12/43a70c33fed64673924364334cd1769d.shtml",
         "date": "2020-11-12"
       }
     ]
@@ -14376,6 +14376,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "jsliang 求职系列 - 11 - 手写 new",
+        "link": "https://juejin.im/post/6894142886456229902",
+        "date": "2020-11-11"
+      },
+      {
         "title": "[译]V8中的数组类型",
         "link": "https://juejin.im/post/6894128681145335816",
         "date": "2020-11-11"
@@ -14388,11 +14393,6 @@
       {
         "title": "手把手实现Promise",
         "link": "https://juejin.im/post/6894115068633350158",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "Ant Design Pro V2升级到V4 小结",
-        "link": "https://juejin.im/post/6894112656765140999",
         "date": "2020-11-11"
       },
       {
@@ -14583,6 +14583,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有哪个软件可以提供获取家里网络 ip 的？",
+        "link": "https://www.v2ex.com/t/724481",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "dotfiles、软连接、模块化，有没有大神给一个最优雅的使用方案？我想抄个作业",
+        "link": "https://www.v2ex.com/t/724480",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "今日最差消息：有关 Google 相册存储空间的重要更新",
+        "link": "https://www.v2ex.com/t/724479",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "手机存储是不是和 SSD 一样，容量越大速度越快？",
+        "link": "https://www.v2ex.com/t/724478",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "为什么 GCP LB 限制了对外出口?",
+        "link": "https://www.v2ex.com/t/724477",
+        "date": "2020-11-12"
+      },
+      {
         "title": "go 语言中 main 包的问题",
         "link": "https://www.v2ex.com/t/724476",
         "date": "2020-11-12"
@@ -14756,16 +14781,6 @@
         "title": "招聘 [深圳] 非 996，来自美国洛杉矶宠物科技创业公司，寻找有工匠精神的中高级前端研发人员（30k-60k)",
         "link": "https://www.v2ex.com/t/724432",
         "date": "2020-11-12"
-      },
-      {
-        "title": "一天 30G 流量， safebrowsing.googleapis.com:443",
-        "link": "https://www.v2ex.com/t/724431",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[百度内推] 🔥🔥算法/工程/产品/设计/运营各类岗位急速内推,实时反馈~~~~~~~",
-        "link": "https://www.v2ex.com/t/724430",
-        "date": "2020-11-12"
       }
     ]
   },
@@ -14774,6 +14789,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "58.3万笔/秒！看阿里的黑科技 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13926&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778162%3Futm_content%3Dg_1000203703%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-12"
+      },
       {
         "title": "我们身边的网络流量 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13925&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778158%3Futm_content%3Dg_1000203702%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14867,11 +14887,6 @@
       {
         "title": "直面最大挑战双11 阿里数据中台为商家带来确定性保障 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13907&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777615%3Futm_content%3Dg_1000201983%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "12 种 Flutter 开发工具推荐 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13906&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdBEBt5RjERNnybRXfQKDeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-12"
       }
     ]
@@ -14982,63 +14997,8 @@
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
-        "link": "https://toutiao.io/k/0n78gha",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-12"
       },
       {
@@ -15047,13 +15007,68 @@
         "date": "2020-11-12"
       },
       {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-12"
+      },
+      {
         "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
         "link": "https://toutiao.io/k/vhisgi9",
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
+        "link": "https://toutiao.io/k/3u67plz",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-12"
       }
     ]

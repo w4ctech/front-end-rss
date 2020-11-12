@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 19:18:26，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 19:33:00，:rocket: 更新条数: +3283， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +543,7 @@
 </summary>
 
 
+- [2020-11-12-有勇士把-macos-升级到了-Big-Sur-吗](https://www.v2ex.com/t/724635) ![](assets/new.png)  
 - [2020-11-12-两系统一起更新，求平安](https://www.v2ex.com/t/724633) ![](assets/new.png)  
 - [2020-11-12-如何下载-Youtobu-的广告](https://www.v2ex.com/t/724632) ![](assets/new.png)  
 - [2020-11-12-2-个月-Python-转-Java-开发来得及吗](https://www.v2ex.com/t/724631) ![](assets/new.png)  
@@ -572,7 +563,6 @@
 - [2020-11-12-联通出国路由跳来跳去-原本北京直出-RU-的](https://www.v2ex.com/t/724614) ![](assets/new.png)  
 - [2020-11-12-阿里郎云壳怎么屏蔽？](https://www.v2ex.com/t/724613) ![](assets/new.png)  
 - [2020-11-12-2018-款-Mac-mini-i5-+-32G-内存，换-16G-m1-Mac-mini-怎么样？](https://www.v2ex.com/t/724612) ![](assets/new.png)  
-- [2020-11-12-写了个-tmux-插件---easyjump.tmux](https://www.v2ex.com/t/724609) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -633,8 +623,8 @@
 - [2020-11-12-程序员如何打造个人品牌？](https://toutiao.io/k/yz1g3di) ![](assets/new.png)  
 - [2020-11-12-Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73) ![](assets/new.png)  
 - [2020-11-12-Gradle-+-GitHub-Actions-自动发布项目至-Maven-仓库](https://toutiao.io/k/zlkk4go) ![](assets/new.png)  
-- [2020-11-12-数据中台的使命、愿景、本质和六大核心能力](https://toutiao.io/k/21b4s57) ![](assets/new.png)  
 - [2020-11-12-《The-7-Day-Startup》7-天构建一个赚钱产品](https://toutiao.io/k/mebs7id) ![](assets/new.png)  
+- [2020-11-12-数据中台的使命、愿景、本质和六大核心能力](https://toutiao.io/k/21b4s57) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

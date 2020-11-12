@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 05:04:06，:rocket: 更新条数: +3061， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 05:10:58，:rocket: 更新条数: +3062， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-12-如何招聘-Java-架构师?](https://www.v2ex.com/t/724395) ![](assets/new.png)  
+- [2020-11-12-请教大家关于开发机器的两道问题](https://www.v2ex.com/t/724394) ![](assets/new.png)  
+- [2020-11-12-一个充电问题](https://www.v2ex.com/t/724393) ![](assets/new.png)  
 - [2020-11-12-有办法双屏幕全屏时覆盖到两个屏幕吗？](https://www.v2ex.com/t/724392) ![](assets/new.png)  
 - [2020-11-12-妙控键盘买长款好还是短款好](https://www.v2ex.com/t/724391) ![](assets/new.png)  
 - [2020-11-12-迫于去-Apple-化，求推荐游戏开发笔记本](https://www.v2ex.com/t/724390) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-12-来吧兄弟们，跟我一起做美食](https://www.v2ex.com/t/724374) ![](assets/new.png)  
 - [2020-11-12-TLS/SSL-硬件加密方案](https://www.v2ex.com/t/724373) ![](assets/new.png)  
 - [2020-11-12-iphone11pro-换-iphone12，发现看着眼睛痛](https://www.v2ex.com/t/724372) ![](assets/new.png)  
-- [2020-11-12-分享一个关于协变、逆变、不变的优秀回答](https://www.v2ex.com/t/724371) ![](assets/new.png)  
-- [2020-11-12-关于-for-循环中的-j---1>=0-和-j->-0-的效率问题，太诡异了](https://www.v2ex.com/t/724368) ![](assets/new.png)  
-- [2020-11-12-微软招-Python-程序员啦！已内推-40-位候选人拿到-offer](https://www.v2ex.com/t/724367) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -613,8 +613,8 @@
 - [2020-11-12-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-12-Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73) ![](assets/new.png)  
 - [2020-11-12-Gradle-+-GitHub-Actions-自动发布项目至-Maven-仓库](https://toutiao.io/k/zlkk4go) ![](assets/new.png)  
-- [2020-11-12-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-12-推荐-技术选型：为什么批处理我们却选择了-Flink](https://toutiao.io/k/0n78gha) ![](assets/new.png)  
+- [2020-11-12-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-12-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

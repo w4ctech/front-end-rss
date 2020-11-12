@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-12 23:19:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 23:32:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-12-已经更新-macOS-bugsur-的同学们，你们的虚拟机（VirtualBox-和-VMware-还好吗？）-现阶段建议立刻更新/观望？](https://www.v2ex.com/t/724643) 
 - [2020-11-12-big-sur-下载老是失败的可以试试这个](https://www.v2ex.com/t/724641) 
 - [2020-11-12-人生如此艰难，尤其是负责-Legacy-Code.-2](https://www.v2ex.com/t/724639) 
 - [2020-11-12-Apple-的-M1-CPU，目前还不支持-docker，太纠结了](https://www.v2ex.com/t/724638) 

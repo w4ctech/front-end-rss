@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 23:19:39，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 23:32:46，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-12-已经更新-macOS-bugsur-的同学们，你们的虚拟机（VirtualBox-和-VMware-还好吗？）-现阶段建议立刻更新/观望？](https://www.v2ex.com/t/724643) ![](assets/new.png)  
 - [2020-11-12-big-sur-下载老是失败的可以试试这个](https://www.v2ex.com/t/724641) ![](assets/new.png)  
 - [2020-11-12-人生如此艰难，尤其是负责-Legacy-Code.-2](https://www.v2ex.com/t/724639) ![](assets/new.png)  
 - [2020-11-12-Apple-的-M1-CPU，目前还不支持-docker，太纠结了](https://www.v2ex.com/t/724638) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-12-10.15.7-使用-clashX-的时候没法用快捷键切换全局和规则？就是-option+G-option+R-来切换](https://www.v2ex.com/t/724620) ![](assets/new.png)  
 - [2020-11-12-iOS14-神奇-BUG-导致-Apple-Watch-App-闪退](https://www.v2ex.com/t/724619) ![](assets/new.png)  
 - [2020-11-12-大家来讨论讨论，-65-岁拿到退休工资之前，该做些什么保证自己不会饿死](https://www.v2ex.com/t/724618) ![](assets/new.png)  
-- [2020-11-12-Homepod-mini-外媒测试解封，热度好像完全被-ARM-Mac-干掉了？](https://www.v2ex.com/t/724616) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,8 +626,8 @@
 - [2020-11-12-使用-Vue-3-+-TS-重构百星-WebSocket-插件](https://toutiao.io/k/mmw4zp6) ![](assets/new.png)  
 - [2020-11-12-腾讯看点视频推荐索引构建方案](https://toutiao.io/k/qjuci0g) ![](assets/new.png)  
 - [2020-11-12-Portainer：轻松管理-Docker](https://toutiao.io/k/djg7sfl) ![](assets/new.png)  
-- [2020-11-12-那天，我被拉入一个-Redis-群聊···](https://toutiao.io/k/uejv6cb) ![](assets/new.png)  
 - [2020-11-12-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
+- [2020-11-12-那天，我被拉入一个-Redis-群聊···](https://toutiao.io/k/uejv6cb) ![](assets/new.png)  
 - [2020-11-12-一例-Go-编译器代码优化-bug-定位和修复解析](https://toutiao.io/k/55wn45f) ![](assets/new.png)  
 - [2020-11-12-深入解读-Elasticsearch-热点线程-hot_threads](https://toutiao.io/k/1awt70n) ![](assets/new.png)  
 - [2020-11-12-程序员如何打造个人品牌？](https://toutiao.io/k/yz1g3di) ![](assets/new.png)  

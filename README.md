@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 22:33:01，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 22:47:54，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -633,8 +633,8 @@
 - [2020-11-12-程序员如何打造个人品牌？](https://toutiao.io/k/yz1g3di) ![](assets/new.png)  
 - [2020-11-12-Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73) ![](assets/new.png)  
 - [2020-11-12-Gradle-+-GitHub-Actions-自动发布项目至-Maven-仓库](https://toutiao.io/k/zlkk4go) ![](assets/new.png)  
-- [2020-11-12-数据中台的使命、愿景、本质和六大核心能力](https://toutiao.io/k/21b4s57) ![](assets/new.png)  
 - [2020-11-12-《The-7-Day-Startup》7-天构建一个赚钱产品](https://toutiao.io/k/mebs7id) ![](assets/new.png)  
+- [2020-11-12-数据中台的使命、愿景、本质和六大核心能力](https://toutiao.io/k/21b4s57) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

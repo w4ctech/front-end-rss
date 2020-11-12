@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 09:22:40，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 09:33:09，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-12-飞机死哦地方圣诞节覅送到家法国角度上考虑](https://www.v2ex.com/t/724528) ![](assets/new.png)  
+- [2020-11-12-问个数据库查询的问题-用-exist-和普通查询有什么区别么](https://www.v2ex.com/t/724527) ![](assets/new.png)  
+- [2020-11-12-有人知道两个不同入学年份的非全日制的本科学历,都能顺利毕业吗？](https://www.v2ex.com/t/724526) ![](assets/new.png)  
 - [2020-11-12-c++荒废太久，求推荐书籍](https://www.v2ex.com/t/724523) ![](assets/new.png)  
 - [2020-11-12-哪里可以购买到富有科技感的家具？](https://www.v2ex.com/t/724522) ![](assets/new.png)  
 - [2020-11-12-很深刻的一篇文章-《沉默的二本学生，才是基数最大的打工人》](https://www.v2ex.com/t/724520) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-12-Warning:-Calling-`brew-list`-to-only-list-formulae-is-deprecated!-Use-`brew-list---formula`-instead.](https://www.v2ex.com/t/724506) ![](assets/new.png)  
 - [2020-11-12-.NET-Core-5.0-稳定版发布了。](https://www.v2ex.com/t/724505) ![](assets/new.png)  
 - [2020-11-12-合肥15k-20k福昕软件招聘高级前端开发工程师](https://www.v2ex.com/t/724504) ![](assets/new.png)  
-- [2020-11-12-外包开发-企业网站后台功能需求有没有现成的成熟的现成解决方案？](https://www.v2ex.com/t/724503) ![](assets/new.png)  
-- [2020-11-12-现在是-2020-年，目前苹果在大陆的保修政策，港行还有优势吗？](https://www.v2ex.com/t/724502) ![](assets/new.png)  
-- [2020-11-12-咨询下-v-友们，买-12-好还是-pro-好](https://www.v2ex.com/t/724501) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

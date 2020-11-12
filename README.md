@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 03:47:52，:rocket: 更新条数: +3053， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 04:04:02，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,17 @@
 </summary>
 
 
+- [2020-11-12-TLS/SSL-硬件加密方案](https://www.v2ex.com/t/724373) ![](assets/new.png)  
+- [2020-11-12-iphone11pro-换-iphone12，发现看着眼睛痛](https://www.v2ex.com/t/724372) ![](assets/new.png)  
+- [2020-11-12-分享一个关于协变、逆变、不变的优秀回答](https://www.v2ex.com/t/724371) ![](assets/new.png)  
+- [2020-11-12-关于-for-循环中的-j---1>=0-和-j->-0-的效率问题，太诡异了](https://www.v2ex.com/t/724368) ![](assets/new.png)  
+- [2020-11-12-微软招-Python-程序员啦！已内推-40-位候选人拿到-offer](https://www.v2ex.com/t/724367) ![](assets/new.png)  
+- [2020-11-12-大家对“预售+自提”的社区电商怎么看。](https://www.v2ex.com/t/724366) ![](assets/new.png)  
+- [2020-11-12-可年后入职-字节跳动---抖音方向-Android/iOS-内推-25-60K-上海-杭州](https://www.v2ex.com/t/724364) ![](assets/new.png)  
+- [2020-11-12-请问有没有好看的银行卡-ui-样式，-css-的。](https://www.v2ex.com/t/724362) ![](assets/new.png)  
+- [2020-11-12-求购买云主机（要求香港）](https://www.v2ex.com/t/724361) ![](assets/new.png)  
+- [2020-11-12-爬虫做的好-牢房吃得饱](https://www.v2ex.com/t/724360) ![](assets/new.png)  
+- [2020-11-12-咨询个显示器升级的问题](https://www.v2ex.com/t/724359) ![](assets/new.png)  
 - [2020-11-12-投资两千元做的网站，没流量！感觉没救了](https://www.v2ex.com/t/724358) ![](assets/new.png)  
 - [2020-11-12-公司有-iPhone12mini-现货，可代购，北京的朋友有需要的吗？](https://www.v2ex.com/t/724356) ![](assets/new.png)  
 - [2020-11-12-开始远离谷歌](https://www.v2ex.com/t/724355) ![](assets/new.png)  
@@ -542,17 +553,6 @@
 - [2020-11-12-实时计算架构师/技术专家，地点：上海，薪水完全-OPEN（100W-左右都好谈）](https://www.v2ex.com/t/724351) ![](assets/new.png)  
 - [2020-11-12-社招-3-5-年-京东集团---京东物流---前端工程师](https://www.v2ex.com/t/724349) ![](assets/new.png)  
 - [2020-11-12-pdd-12-pro-max-官方硅胶，-258，叠加企业优惠，更低，大家觉得值不值？-我看了一下，-uag-等等做的好点的手机壳，也不便宜。](https://www.v2ex.com/t/724348) ![](assets/new.png)  
-- [2020-11-12-「深圳/远程｜-10-25k」量城科技-2020-爬虫工程师、数据分析师招聘](https://www.v2ex.com/t/724347) ![](assets/new.png)  
-- [2020-11-12-火狐怎么设置才能使新窗口在后台打开？](https://www.v2ex.com/t/724346) ![](assets/new.png)  
-- [2020-11-12-太菜了，请教一个-css-布局的问题，总是整不明白。](https://www.v2ex.com/t/724345) ![](assets/new.png)  
-- [2020-11-12-如何提高服务器（外网）上-MySql-的安全性](https://www.v2ex.com/t/724343) ![](assets/new.png)  
-- [2020-11-12-wordpress-有什么图床，存储推荐吗](https://www.v2ex.com/t/724339) ![](assets/new.png)  
-- [2020-11-12-什么原因造成国内-35-岁被淘汰的风气](https://www.v2ex.com/t/724338) ![](assets/new.png)  
-- [2020-11-12-社招京东北京·北辰世纪中心电商个性化推荐系统架构的相关研发工作](https://www.v2ex.com/t/724337) ![](assets/new.png)  
-- [2020-11-12-迫于穷，-1918-包邮出-京东自营-switch-红蓝主机-+-健身环大冒险](https://www.v2ex.com/t/724336) ![](assets/new.png)  
-- [2020-11-12-处理器换了-M1-一些旧软件还需要重新购买么](https://www.v2ex.com/t/724335) ![](assets/new.png)  
-- [2020-11-12-腾讯音乐-酷狗业务线招聘资深-android，待遇优厚，快来看看](https://www.v2ex.com/t/724334) ![](assets/new.png)  
-- [2020-11-12-请教可以查看-微软软件-Store-的软件历史版本吗？](https://www.v2ex.com/t/724333) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -613,8 +613,8 @@
 - [2020-11-12-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-12-Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73) ![](assets/new.png)  
 - [2020-11-12-Gradle-+-GitHub-Actions-自动发布项目至-Maven-仓库](https://toutiao.io/k/zlkk4go) ![](assets/new.png)  
-- [2020-11-12-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-12-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-12-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-12-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

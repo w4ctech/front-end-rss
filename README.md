@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 09:11:45，:rocket: 更新条数: +3068， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 09:22:40，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,13 @@
 </summary>
 
 
+- [2020-11-12-c++荒废太久，求推荐书籍](https://www.v2ex.com/t/724523) ![](assets/new.png)  
+- [2020-11-12-哪里可以购买到富有科技感的家具？](https://www.v2ex.com/t/724522) ![](assets/new.png)  
+- [2020-11-12-很深刻的一篇文章-《沉默的二本学生，才是基数最大的打工人》](https://www.v2ex.com/t/724520) ![](assets/new.png)  
+- [2020-11-12-招商银行-App-上申请的社保卡，多久能送到？大家有拿到的没](https://www.v2ex.com/t/724519) ![](assets/new.png)  
+- [2020-11-12-第一次使用-AW6.有些问题请教下。](https://www.v2ex.com/t/724518) ![](assets/new.png)  
+- [2020-11-12-预计送达-12-19，今天-12-了也没见状态改变，还在处理订单中。](https://www.v2ex.com/t/724517) ![](assets/new.png)  
+- [2020-11-12-明天-13-号-iPhone12mini-就发售了，这有多少人买？](https://www.v2ex.com/t/724515) ![](assets/new.png)  
 - [2020-11-12-11-月-22-日！-CODING-DevOps-技术沙龙系列·上海站——「质量专场」来啦～](https://www.v2ex.com/t/724514) ![](assets/new.png)  
 - [2020-11-12-有拼车-surge-mac-的吗？-surge4-新版本发布，支持-big-sur，活动价-8-折，仅在-2020.11.20-前有这个活动。](https://www.v2ex.com/t/724513) ![](assets/new.png)  
 - [2020-11-12-抖音直推-Android-社招、校招极速内推](https://www.v2ex.com/t/724512) ![](assets/new.png)  
@@ -546,13 +553,6 @@
 - [2020-11-12-外包开发-企业网站后台功能需求有没有现成的成熟的现成解决方案？](https://www.v2ex.com/t/724503) ![](assets/new.png)  
 - [2020-11-12-现在是-2020-年，目前苹果在大陆的保修政策，港行还有优势吗？](https://www.v2ex.com/t/724502) ![](assets/new.png)  
 - [2020-11-12-咨询下-v-友们，买-12-好还是-pro-好](https://www.v2ex.com/t/724501) ![](assets/new.png)  
-- [2020-11-12-如果要搬入刚装修完一个月的办公室，该怎么做呢](https://www.v2ex.com/t/724500) ![](assets/new.png)  
-- [2020-11-12-Java-真-TMD-啰嗦](https://www.v2ex.com/t/724499) ![](assets/new.png)  
-- [2020-11-12-Apple-官网下单预计-15-号送达的-iPhone-今天已经发货了，有一样的吗](https://www.v2ex.com/t/724498) ![](assets/new.png)  
-- [2020-11-12-Google-Photo-免费即将结束，照片冷备份压缩成什么格式好](https://www.v2ex.com/t/724497) ![](assets/new.png)  
-- [2020-11-12-微博挂了吗](https://www.v2ex.com/t/724496) ![](assets/new.png)  
-- [2020-11-12-有-1G-以上上传带宽资源的朋友吗？-听说可以用闲置带宽换点零花钱，不知道大家有没有做过？可靠吗？](https://www.v2ex.com/t/724495) ![](assets/new.png)  
-- [2020-11-12-准备买-m1-的-MacBook-Air，-8G-内存够不够？](https://www.v2ex.com/t/724494) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-12-我对云原生软件架构的观察与思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13927&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778175%3Futm_content%3Dg_1000203704%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-12-58.3万笔/秒！看阿里的黑科技-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13926&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778162%3Futm_content%3Dg_1000203703%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-12-我们身边的网络流量-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13925&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778158%3Futm_content%3Dg_1000203702%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-12-Dubbo-go-源码笔记（二）客户端调用过程-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13924&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778124%3Futm_content%3Dg_1000203701%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-12-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-12-玩转ECS第6讲-|-弹性计算Region化部署和跨可用区容灾介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13909&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777714%3Futm_content%3Dg_1000201986%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-12-基于-Flink-SQL-CDC-的实时数据同步方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13908&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777502%3Futm_content%3Dg_1000201984%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-直面最大挑战双11-阿里数据中台为商家带来确定性保障-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13907&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777615%3Futm_content%3Dg_1000201983%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

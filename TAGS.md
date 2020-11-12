@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-12 09:11:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 09:22:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -416,8 +416,8 @@
 - [【V2EX】合肥15k-20k福昕软件招聘高级前端开发工程师](https://www.v2ex.com/t/724504)
 - [【开发者头条】漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2)
 - [【开发者头条】Java-并发编程：从源码分析几道必问线程池的面试题？](https://toutiao.io/k/zn5cz73)
-- [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [【开发者头条】推荐-面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://toutiao.io/k/vhisgi9)
+- [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

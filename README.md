@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 13:04:11，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 13:10:46，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -474,7 +474,7 @@
 
 
 - [2020-11-12-Webpack4性能优化实践](https://juejin.im/post/6894191135896535053) ![](assets/new.png)  
-- [2020-11-12-文章修改中](https://juejin.im/post/6894185806936670216) ![](assets/new.png)  
+- [2020-11-12-JS中的经典继承实现方法与原型的深入探讨](https://juejin.im/post/6894185806936670216) ![](assets/new.png)  
 - [2020-11-12-从零手写简易Vue3（二）——-setup](https://juejin.im/post/6894182826913202189) ![](assets/new.png)  
 - [2020-11-12-React旧版本与React16中生命周期的区别](https://juejin.im/post/6894180064297451533) ![](assets/new.png)  
 - [2020-11-12-Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://juejin.im/post/6894175515515551752) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 11:19:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 11:32:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -34,5 +34,3 @@
 - [2020-11-12-准备冲新-mac-了,-开发环境不会有问题](https://www.v2ex.com/t/724511) 
 - [2020-11-12-REST-接口让前端在请求中指定需要返回的字段是否合理?](https://www.v2ex.com/t/724509) 
 - [2020-11-12-35-岁还在一线岗位写代码的多吗](https://www.v2ex.com/t/724508) 
-- [2020-11-12-Mac-的-Microsoft-Edge-更新检查永远最新-实际上-已不是最新版本-有老哥遇到过吗？](https://www.v2ex.com/t/724507) 
-- [2020-11-12-Warning:-Calling-`brew-list`-to-only-list-formulae-is-deprecated!-Use-`brew-list---formula`-instead.](https://www.v2ex.com/t/724506) 

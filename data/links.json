@@ -15892,16 +15892,6 @@
         "title": "35 岁还在一线岗位写代码的多吗",
         "link": "https://www.v2ex.com/t/724508",
         "date": "2020-11-12"
-      },
-      {
-        "title": "Mac 的 Microsoft Edge 更新检查永远最新 实际上 已不是最新版本 有老哥遇到过吗？",
-        "link": "https://www.v2ex.com/t/724507",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "Warning: Calling `brew list` to only list formulae is deprecated! Use `brew list --formula` instead.",
-        "link": "https://www.v2ex.com/t/724506",
-        "date": "2020-11-12"
       }
     ]
   },
@@ -16118,6 +16108,36 @@
         "date": "2020-11-12"
       },
       {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-12"
+      },
+      {
         "title": "[推荐] Guava：拯救垃圾代码，写出优雅高效，效率提升 N 倍",
         "link": "https://toutiao.io/k/3u67plz",
         "date": "2020-11-12"
@@ -16128,58 +16148,8 @@
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景",
-        "link": "https://toutiao.io/k/vhisgi9",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-12"
-      },
-      {
         "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
         "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-12"
       },
       {
@@ -16188,8 +16158,28 @@
         "date": "2020-11-12"
       },
       {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 技术选型：为什么批处理我们却选择了 Flink",
+        "link": "https://toutiao.io/k/0n78gha",
+        "date": "2020-11-12"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-12"
       }
     ]

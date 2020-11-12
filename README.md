@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 11:35:19，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 11:47:59，:rocket: 更新条数: +3286， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-12-以色列将中国列入入境无需隔离的“绿色”国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5uvjdCVU7q7TQ4PRxBcT201112&isfromapp=1) ![](assets/new.png)  
+- [2020-11-12-香港新增23例新冠肺炎确诊病例-累计确诊5431例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEu8Pbl2GQDQmtHGcSngi201112&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-美国新冠肺炎确诊病例超1040万-累计死亡超24万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij8F1vMI64hJE1pRbsOAR201112&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-天津市津南区一冷库1份混检样本新冠病毒核酸阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizcS3xAGrU6yeBQdT1VL4201112&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-陕西11日新增2例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1Qc361WcgqTvvWCKX867201112&isfromapp=1) ![](assets/new.png)  
-- [2020-11-12-多米尼加累计确诊新冠肺炎病例超13万例-政府延长宵禁时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLjtecFrgtp1x86ACsqo201112&isfromapp=1) ![](assets/new.png)  
-- [2020-11-12-上海11月11日无新增本地新冠肺炎确诊病例-新增境外输入4例-治愈出院3例](http://wsjkw.sh.gov.cn/xwfb/20201112/d1ffbded09a049958bb5b9d4067f912f.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -454,7 +474,7 @@
 
 
 - [2020-11-12-Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://juejin.im/post/6894175515515551752) ![](assets/new.png)  
-- [2020-11-11-jsliang-求职系列---11---手写-new](https://juejin.im/post/6894142886456229902) ![](assets/new.png)  
+- [2020-11-11-五分钟弄懂移动端适配之-——-rem,vw方案](https://juejin.im/post/6894134575094562824) ![](assets/new.png)  
 - [2020-11-11-VS-Code-折腾记---19-一些相对实用的编码体验插件偏前端](https://juejin.im/post/6894117368121786382) ![](assets/new.png)  
 - [2020-11-11-小白也能懂的VUE的生命周期探寻](https://juejin.im/post/6893884574854545422) ![](assets/new.png)  
 - [2020-08-29-仿van-popup实现一个从底部弹出的Popup](https://juejin.im/post/6866331596090736647) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-12 06:47:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 07:03:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -73,6 +73,7 @@
 - [2020-01-21-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-21-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-19-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
+- [2020-11-12-请问大神:-有啥软件或算法能把一段谈话音频按照谈话的每个字切割成-N-段仅有一个字的短音频?](https://www.v2ex.com/t/724447) 
 - [2020-11-11-双十一巨惠:PWN入门视频听一期送一期](https://sec.thief.one/article_content?a_id=76b4d47cd9928509fc31d4d280ad5714) 
 - [2020-11-11-【视频】|-警民齐心筑防线,全民携手反电诈](https://sec.thief.one/article_content?a_id=e8ef277c2c0b318b7a313d328b604a49) 
 - [2020-11-10-双十一返场直播!后天下午2点,超值FreeBuf周边低至9.9元~](https://sec.thief.one/article_content?a_id=471291f63d4f53bcb8a89fd358a75c0a) 

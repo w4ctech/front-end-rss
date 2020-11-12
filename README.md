@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 15:47:43，:rocket: 更新条数: +3058， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-12 16:05:31，:rocket: 更新条数: +3058， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-12-mac-有没有什么软件能够欺骗机器（mac-mini）在不外接显示器的情况下输出视频信号？](https://www.v2ex.com/t/724622) ![](assets/new.png)  
 - [2020-11-12-10.15.7-使用-clashX-的时候没法用快捷键切换全局和规则？就是-option+G-option+R-来切换](https://www.v2ex.com/t/724620) ![](assets/new.png)  
 - [2020-11-12-iOS14-神奇-BUG-导致-Apple-Watch-App-闪退](https://www.v2ex.com/t/724619) ![](assets/new.png)  
 - [2020-11-12-大家来讨论讨论，-65-岁拿到退休工资之前，该做些什么保证自己不会饿死](https://www.v2ex.com/t/724618) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-12-油管用户登录后无法正常看视频，但可以看首页和列表，是我的-acc-被-ban-了嘛？](https://www.v2ex.com/t/724591) ![](assets/new.png)  
 - [2020-11-12-两台设备传输数据，自带输入法词库会同步过去吗？](https://www.v2ex.com/t/724590) ![](assets/new.png)  
 - [2020-11-12-catalina-10.15.7-mbp-19-款-16-有遇到触控板点按失灵的吗？](https://www.v2ex.com/t/724588) ![](assets/new.png)  
-- [2020-11-12-想出手-17-Macbook-Pro-15-求各位给估个价](https://www.v2ex.com/t/724587) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

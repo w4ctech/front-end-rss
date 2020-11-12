@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-12 15:47:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-12 16:05:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-12-mac-有没有什么软件能够欺骗机器（mac-mini）在不外接显示器的情况下输出视频信号？](https://www.v2ex.com/t/724622) 
 - [2020-11-12-10.15.7-使用-clashX-的时候没法用快捷键切换全局和规则？就是-option+G-option+R-来切换](https://www.v2ex.com/t/724620) 
 - [2020-11-12-iOS14-神奇-BUG-导致-Apple-Watch-App-闪退](https://www.v2ex.com/t/724619) 
 - [2020-11-12-大家来讨论讨论，-65-岁拿到退休工资之前，该做些什么保证自己不会饿死](https://www.v2ex.com/t/724618) 
@@ -35,4 +36,3 @@
 - [2020-11-12-工作中的你们是如何让-iPad-发挥生产力的？](https://www.v2ex.com/t/724575) 
 - [2020-11-12-各位老大哥，现在-mbp2020-的-16-寸还值得买吗](https://www.v2ex.com/t/724574) 
 - [2020-11-12-Chrome-外部链接后缀：%20--with-chrome-plus-plus%20--disable-features=RendererCodeIntegrity,FlashDeprecationWarning](https://www.v2ex.com/t/724573) 
-- [2020-11-12-公司接手管理某一商业城，现在找了外面公司弄个商城的会员系统，请问需要注意什么？](https://www.v2ex.com/t/724572) 

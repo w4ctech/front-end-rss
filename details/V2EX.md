@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-13 13:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 13:10:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-关于一些网站的请求的验证](https://www.v2ex.com/t/725016) 
+- [2020-11-13-有没有好的关于操作系统的实验练习？](https://www.v2ex.com/t/725015) 
+- [2020-11-13-在-ubuntu-下开发支付宝小程序，官网没有支持-Linux-的，有什么专用开发工具推荐码](https://www.v2ex.com/t/725014) 
 - [2020-11-13-35-岁以后咱们可以干这行](https://www.v2ex.com/t/725013) 
 - [2020-11-13-一直在用-Big-Sur-测试版，突然无法更新了](https://www.v2ex.com/t/725012) 
 - [2020-11-13-求助，在世纪大道上班，去哪租房比较便宜路程在五十分钟内?](https://www.v2ex.com/t/725011) 
@@ -44,5 +47,3 @@
 - [2020-11-13-Mac-mini-配哪款显示器好-2K-及以上](https://www.v2ex.com/t/724970) 
 - [2020-11-13-dropbox-family-发车](https://www.v2ex.com/t/724968) 
 - [2020-11-13-Go-zlib-压缩字符串与-Java-deflater-压缩的结果不一致-可以解决吗？](https://www.v2ex.com/t/724967) 
-- [2020-11-13-是否有和-Apple-屏幕色彩相媲美的-Windows-笔记本推荐？](https://www.v2ex.com/t/724966) 
-- [2020-11-13-渗透测试工程师内推-北上杭深](https://www.v2ex.com/t/724965) 

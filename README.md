@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 15:23:44，:rocket: 更新条数: +245， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 15:33:02，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-11-12-最新疫情：全国新冠累计确诊86307例-境外输入新增8例](https://m.caixin.com/m/2020-11-13/101627524.html) ![](assets/new.png)  
+- [2020-11-12-新冠病毒毒性未减-张文宏详解病死率下降缘由](http://m.topics.caixin.com/m/2020-11-13/101627435.html) ![](assets/new.png)  
+- [2020-11-12-最新海外疫情：新冠感染超5262万-累计死亡近129万](http://m.international.caixin.com/m/2020-11-13/101627529.html) ![](assets/new.png)  
+- [2020-11-12-【境内疫情观察】全国新增8例境外输入病例（11月12日）](http://m.database.caixin.com/m/2020-11-13/101627382.html) ![](assets/new.png)  
+- [2020-11-12-大流行手记|11月12日：美28名大选工作人员感染-英格兰67个地区本周全城检测](https://m.caixin.com/m/2020-11-13/101627043.html) ![](assets/new.png)  
+- [2020-11-11-【境内疫情观察】天津新增1例本土确诊病例（11月11日）](http://m.database.caixin.com/m/2020-11-12/101626650.html) ![](assets/new.png)  
+- [2020-11-11-大流行手记|11月11日：美拟12月启动新冠疫苗接种-欧洲多国医疗体系负重](https://m.caixin.com/m/2020-11-12/101626574.html) ![](assets/new.png)  
+- [2020-11-11-日本忧第三波疫情袭来-北海道入冬病例又激增](http://m.international.caixin.com/m/2020-11-12/101626896.html) ![](assets/new.png)  
+- [2020-11-10-上海、安徽新冠确诊者系嘉华货代员工-公司称正配合调查](https://m.caixin.com/m/2020-11-11/101626319.html) ![](assets/new.png)  
+- [2020-11-10-南京及时拦截一批未流入市场新冠病毒核酸检测呈阳性的进口冷链食品](http://m.china.caixin.com/m/2020-11-11/101626466.html) ![](assets/new.png)  
+- [2020-11-10-香港启动“单向通关”-首阶段每日5000配额](http://m.china.caixin.com/m/2020-11-11/101626056.html) ![](assets/new.png)  
+- [2020-11-10-【境内疫情观察】安徽新增1例本土确诊病例（11月10日）](http://m.database.caixin.com/m/2020-11-11/101626077.html) ![](assets/new.png)  
+- [2020-11-10-大流行手记|11月10日：中国疫苗巴西临床试验受阻-拜登成立抗疫委员会](https://m.caixin.com/m/2020-11-11/101625933.html) ![](assets/new.png)  
+- [2020-11-10-欧美每日新增约40万新冠病例-第四季复苏前景黯淡](http://m.international.caixin.com/m/2020-11-11/101626377.html) ![](assets/new.png)  
+- [2020-11-10-【图集】安徽阜阳颍上县确诊1例上海关联新冠肺炎病例](http://m.photos.caixin.com/m/2020-11-11/101625941.html) ![](assets/new.png)  
+- [2020-11-09-安徽阜阳确诊1例新冠病例-系上海确诊病例密接者](https://m.caixin.com/m/2020-11-10/101625593.html) ![](assets/new.png)  
+- [2020-11-09-【境内疫情观察】上海新增1例本土确诊病例（11月9日）](http://m.database.caixin.com/m/2020-11-10/101625580.html) ![](assets/new.png)  
+- [2020-11-09-大流行手记|11月9日：美确诊人数破千万-辉瑞公布新冠疫苗有效率逾90%](https://m.caixin.com/m/2020-11-10/101625386.html) ![](assets/new.png)  
+- [2020-11-09-解药|礼来首获新冠中和抗体紧急使用授权-意外领先再生元](https://m.caixin.com/m/2020-11-10/101625722.html) ![](assets/new.png)  
+- [2020-11-09-解药|新冠mRNA疫苗乐观数据搅动全球资本市场-仍有不确定性](https://m.caixin.com/m/2020-11-10/101625389.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -503,6 +523,9 @@
 </summary>
 
 
+- [2020-11-13-MacOS-Big-Sur-可用深信服-EasyConnect-7.6.7](https://www.v2ex.com/t/725053) ![](assets/new.png)  
+- [2020-11-13-请教各位大佬一个-mongoDb-表设计的问题，是否应该使用内嵌数组](https://www.v2ex.com/t/725052) ![](assets/new.png)  
+- [2020-11-13-你会用新出的-M1-芯片的苹果笔记本作为程序开发的笔记本么？为什么？](https://www.v2ex.com/t/725050) ![](assets/new.png)  
 - [2020-11-13-求教-MacBook-外接显示器问题](https://www.v2ex.com/t/725049) ![](assets/new.png)  
 - [2020-11-13-Office-问题请教，搜索引擎上的方法无效，困扰已久，求大神](https://www.v2ex.com/t/725048) ![](assets/new.png)  
 - [2020-11-13-有大佬知道-nginx-如何配置-cdn-嘛，想折腾一下了。。](https://www.v2ex.com/t/725047) ![](assets/new.png)  
@@ -520,9 +543,6 @@
 - [2020-11-13-家宽在-OLT-上做限速对实际使用的影响？](https://www.v2ex.com/t/725033) ![](assets/new.png)  
 - [2020-11-13-求个可以当桌面背景的-Java-求职学习路线图](https://www.v2ex.com/t/725030) ![](assets/new.png)  
 - [2020-11-13-开源版-Jira---ActionView-v1.12.0-发布](https://www.v2ex.com/t/725027) ![](assets/new.png)  
-- [2020-11-13-有谁的-Mac-mini-2018-升了-Big-Sur-么？感受如何](https://www.v2ex.com/t/725025) ![](assets/new.png)  
-- [2020-11-13-Microsoft-365-家庭版求开车或者自己开车](https://www.v2ex.com/t/725023) ![](assets/new.png)  
-- [2020-11-13-目前在做大数据开发方向，但是不会-hadoop，-Java-也没有很强，该怎么办呢？](https://www.v2ex.com/t/725021) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

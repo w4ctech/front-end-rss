@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-13 13:10:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 13:19:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-Adobe-AIR-开发者、Flash-开发者、Nokia-Symbian-开发者，甚至把一个人的黄金时光用在了和史前时代浏览器兼容性问题打交道上的程序员们，而今安在哉？](https://www.v2ex.com/t/725017) 
 - [2020-11-13-关于一些网站的请求的验证](https://www.v2ex.com/t/725016) 
 - [2020-11-13-有没有好的关于操作系统的实验练习？](https://www.v2ex.com/t/725015) 
 - [2020-11-13-在-ubuntu-下开发支付宝小程序，官网没有支持-Linux-的，有什么专用开发工具推荐码](https://www.v2ex.com/t/725014) 
@@ -45,5 +46,3 @@
 - [2020-11-13-在-Ubuntu-20.04-上跑了一下三个浏览器的-Speedometer-2.0-分数](https://www.v2ex.com/t/724973) 
 - [2020-11-13-markdown-支持跳转到其他文件的指定章节么?](https://www.v2ex.com/t/724971) 
 - [2020-11-13-Mac-mini-配哪款显示器好-2K-及以上](https://www.v2ex.com/t/724970) 
-- [2020-11-13-dropbox-family-发车](https://www.v2ex.com/t/724968) 
-- [2020-11-13-Go-zlib-压缩字符串与-Java-deflater-压缩的结果不一致-可以解决吗？](https://www.v2ex.com/t/724967) 

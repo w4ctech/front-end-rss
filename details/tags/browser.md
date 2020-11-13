@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 13:10:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 13:19:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,6 +31,7 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-13-Adobe-AIR-开发者、Flash-开发者、Nokia-Symbian-开发者，甚至把一个人的黄金时光用在了和史前时代浏览器兼容性问题打交道上的程序员们，而今安在哉？](https://www.v2ex.com/t/725017) 
 - [2020-11-13-关于一些网站的请求的验证](https://www.v2ex.com/t/725016) 
 - [2020-11-13-我发现-bigsur-Safari-多开标签页的话-选中某个标签页的时候关闭用的小-x-就看不见了](https://www.v2ex.com/t/724988) 
 - [2020-11-13-springboot-怎么在-controller-上注解让不同的-url-支持不同的-method？](https://www.v2ex.com/t/724978) 

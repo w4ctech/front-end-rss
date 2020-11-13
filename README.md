@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 13:10:39，:rocket: 更新条数: +3305， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 13:19:30，:rocket: 更新条数: +3294， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +543,7 @@
 </summary>
 
 
+- [2020-11-13-Adobe-AIR-开发者、Flash-开发者、Nokia-Symbian-开发者，甚至把一个人的黄金时光用在了和史前时代浏览器兼容性问题打交道上的程序员们，而今安在哉？](https://www.v2ex.com/t/725017) ![](assets/new.png)  
 - [2020-11-13-关于一些网站的请求的验证](https://www.v2ex.com/t/725016) ![](assets/new.png)  
 - [2020-11-13-有没有好的关于操作系统的实验练习？](https://www.v2ex.com/t/725015) ![](assets/new.png)  
 - [2020-11-13-在-ubuntu-下开发支付宝小程序，官网没有支持-Linux-的，有什么专用开发工具推荐码](https://www.v2ex.com/t/725014) ![](assets/new.png)  
@@ -572,7 +563,6 @@
 - [2020-11-13-JavaScript-底层是怎么实现的，有相关书籍推荐吗？](https://www.v2ex.com/t/724997) ![](assets/new.png)  
 - [2020-11-13-京东苹果-M1-芯片三款新品可以付款了，最晚发货时间-11.18，还赠送-30-天试用，不满意可以退货？](https://www.v2ex.com/t/724996) ![](assets/new.png)  
 - [2020-11-13-Big-Sur-更新下载过慢的话可以试试-gibMacOS](https://www.v2ex.com/t/724995) ![](assets/new.png)  
-- [2020-11-13-上海应届生办理落户，公司要求签协议三年内离职赔偿十五万](https://www.v2ex.com/t/724994) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

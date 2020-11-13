@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 10:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 11:03:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,9 +78,8 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-11-13-还没放弃的小伙伴,PWN入门视频最后一期来了](https://sec.thief.one/article_content?a_id=ea303f684dfb2094d1dc1c868f541f0f) 
+- [2020-11-13-【视频】|-工业互联网安全标准体系介绍](https://sec.thief.one/article_content?a_id=162626a1d19de89b27a2a162f0204884) 
 - [2020-11-12-YouTube遭遇全球性大宕机-所有视频播放报错](https://sec.thief.one/article_content?a_id=824f9968a6057f62b5cf006df547df2b) 
 - [2020-11-12-【视频】|-Python:删除漏删问题](https://sec.thief.one/article_content?a_id=e0fdfecc806b872d1e897b6f013d0efb) 
 - [2020-11-11-双十一巨惠:PWN入门视频听一期送一期](https://sec.thief.one/article_content?a_id=76b4d47cd9928509fc31d4d280ad5714) 
-- [2020-11-11-【视频】|-警民齐心筑防线,全民携手反电诈](https://sec.thief.one/article_content?a_id=e8ef277c2c0b318b7a313d328b604a49) 
-- [2020-11-10-双十一返场直播!后天下午2点,超值FreeBuf周边低至9.9元~](https://sec.thief.one/article_content?a_id=471291f63d4f53bcb8a89fd358a75c0a) 
-- [2020-11-10-【2020-SDC】现场议题完整视频上线啦!优质干货需要反复学习!](https://sec.thief.one/article_content?a_id=8d4b0798fd50fc52da8ee99b07df12a8) 

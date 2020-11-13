@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-11-13 08:24:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 08:32:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-有没有办法批量截取-word-文档的前几页?](https://www.v2ex.com/t/724922) 
+- [2020-11-13-python3-一小段-code-求个简写](https://www.v2ex.com/t/724921) 
+- [2020-11-13-双-11-真的买到显卡了，但是……](https://www.v2ex.com/t/724920) 
+- [2020-11-13-macOS-Big-Sur-顶部图标那里空了一段](https://www.v2ex.com/t/724918) 
+- [2020-11-13-淘宝上的教育优惠可以买吗？](https://www.v2ex.com/t/724916) 
+- [2020-11-13-北京西安-何去何从](https://www.v2ex.com/t/724915) 
+- [2020-11-13-备机升级了-big-sur-感觉似乎没什么大问题，在考虑把主力机也升级了](https://www.v2ex.com/t/724914) 
 - [2020-11-13-iPhone12-系列+AX/AC-86U-还断流嘛？](https://www.v2ex.com/t/724911) 
 - [2020-11-13-免费提速后,你们上行测速有超过-100Mbps-的吗???](https://www.v2ex.com/t/724909) 
 - [2020-11-13-要录一个视频教程，该用什么软件？](https://www.v2ex.com/t/724908) 
@@ -35,12 +42,3 @@
 - [2020-11-13-Mbp13-17-款-升级-big-bur-后问题一堆](https://www.v2ex.com/t/724876) 
 - [2020-11-13-问个问题-基于我的-easyconnect-又崩了](https://www.v2ex.com/t/724875) 
 - [2020-11-13-Big-Sur-在-Preferences-中输入密码时卡住](https://www.v2ex.com/t/724874) 
-- [2020-11-13-升级-big-sur-以后，-axure9-出问题吗](https://www.v2ex.com/t/724872) 
-- [2020-11-13-请教前辈们，如何实现-placeholder.com-这类占位图服务？](https://www.v2ex.com/t/724871) 
-- [2020-11-13-数据分析行业里，数据和算法哪项更重要？](https://www.v2ex.com/t/724870) 
-- [2020-11-13-gitbash-部分乱码](https://www.v2ex.com/t/724869) 
-- [2020-11-13-升级-Big-Sur，提示：没有符合安装资格的软件包](https://www.v2ex.com/t/724868) 
-- [2020-11-13-编辑小部件页面高斯模糊未做到全屏幕覆盖](https://www.v2ex.com/t/724867) 
-- [2020-11-13-发现多种数据库-group-by-对字符串首尾空格的坑死人不偿命规范](https://www.v2ex.com/t/724866) 
-- [2020-11-13-新零售技术事业群-测试开发专家-天猫超市-新零售技术质量部](https://www.v2ex.com/t/724865) 
-- [2020-11-13-macbookpro-接入互联网-无-ip-地址](https://www.v2ex.com/t/724863) 

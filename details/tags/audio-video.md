@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 02:23:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 02:33:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -73,6 +73,7 @@
 - [2020-01-21-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-21-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-19-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
+- [2020-11-11-实时音视频面视必备：快速掌握11个视频技术相关的基础概念](https://juejin.im/post/6894138629380112397) 
 - [2020-11-13-为什么哔哩哔哩上视频的嵌入代码不能在-Google-浏览器上播放](https://www.v2ex.com/t/724693) 
 - [2020-11-12-YouTube遭遇全球性大宕机-所有视频播放报错](https://sec.thief.one/article_content?a_id=824f9968a6057f62b5cf006df547df2b) 
 - [2020-11-12-【视频】|-Python:删除漏删问题](https://sec.thief.one/article_content?a_id=e0fdfecc806b872d1e897b6f013d0efb) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 07:20:29，:rocket: 更新条数: +3070， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 07:33:02，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,12 @@
 </summary>
 
 
+- [2020-11-13-应届生求选-offer](https://www.v2ex.com/t/724878) ![](assets/new.png)  
+- [2020-11-13-500-京东-E-卡](https://www.v2ex.com/t/724877) ![](assets/new.png)  
+- [2020-11-13-Mbp13-17-款-升级-big-bur-后问题一堆](https://www.v2ex.com/t/724876) ![](assets/new.png)  
+- [2020-11-13-问个问题-基于我的-easyconnect-又崩了](https://www.v2ex.com/t/724875) ![](assets/new.png)  
+- [2020-11-13-Big-Sur-在-Preferences-中输入密码时卡住](https://www.v2ex.com/t/724874) ![](assets/new.png)  
+- [2020-11-13-升级-big-sur-以后，-axure9-出问题吗](https://www.v2ex.com/t/724872) ![](assets/new.png)  
 - [2020-11-13-请教前辈们，如何实现-placeholder.com-这类占位图服务？](https://www.v2ex.com/t/724871) ![](assets/new.png)  
 - [2020-11-13-数据分析行业里，数据和算法哪项更重要？](https://www.v2ex.com/t/724870) ![](assets/new.png)  
 - [2020-11-13-gitbash-部分乱码](https://www.v2ex.com/t/724869) ![](assets/new.png)  
@@ -547,12 +553,6 @@
 - [2020-11-13-我应该买那种-USB-TypeC-的线来连接显示器？](https://www.v2ex.com/t/724857) ![](assets/new.png)  
 - [2020-11-13-升级-Big-Sur-感觉卡卡的](https://www.v2ex.com/t/724856) ![](assets/new.png)  
 - [2020-11-13-第一次安装黑果-有几个问题向大佬们请教下](https://www.v2ex.com/t/724855) ![](assets/new.png)  
-- [2020-11-13-Mac-mini-上用-eGPU-可以图像回传吗？](https://www.v2ex.com/t/724854) ![](assets/new.png)  
-- [2020-11-13-Big-Sur-通知中心的计算器小组件没了](https://www.v2ex.com/t/724853) ![](assets/new.png)  
-- [2020-11-13-升级-big-sur-后，菜单栏最右边的时间强制显示了吗？](https://www.v2ex.com/t/724852) ![](assets/new.png)  
-- [2020-11-13-AdGuard-半年-免费送](https://www.v2ex.com/t/724851) ![](assets/new.png)  
-- [2020-11-13-写周报的意义何在？](https://www.v2ex.com/t/724850) ![](assets/new.png)  
-- [2020-11-13-成都晓多科技有限公司到底怎么样？](https://www.v2ex.com/t/724849) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

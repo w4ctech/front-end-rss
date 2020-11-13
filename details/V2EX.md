@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-13 06:49:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 07:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-FireFox-在访问-Nginx-base_auth-的网站时，弹出密码框后无法切换标签页，怎么解决?](https://www.v2ex.com/t/724862) 
+- [2020-11-13-更新完-Big-Sur-我黑掉的-touchbar-居然复活了](https://www.v2ex.com/t/724861) 
+- [2020-11-13-请问下，比较简单的实现-0.5-到-2-之间的随机数的方法](https://www.v2ex.com/t/724860) 
+- [2020-11-13-我应该买那种-USB-TypeC-的线来连接显示器？](https://www.v2ex.com/t/724857) 
+- [2020-11-13-升级-Big-Sur-感觉卡卡的](https://www.v2ex.com/t/724856) 
+- [2020-11-13-第一次安装黑果-有几个问题向大佬们请教下](https://www.v2ex.com/t/724855) 
 - [2020-11-13-Mac-mini-上用-eGPU-可以图像回传吗？](https://www.v2ex.com/t/724854) 
 - [2020-11-13-Big-Sur-通知中心的计算器小组件没了](https://www.v2ex.com/t/724853) 
 - [2020-11-13-升级-big-sur-后，菜单栏最右边的时间强制显示了吗？](https://www.v2ex.com/t/724852) 
@@ -23,7 +29,6 @@
 - [2020-11-13-Big-Sur-不支持-Parallels-Desktop,不要升级](https://www.v2ex.com/t/724837) 
 - [2020-11-13-大家有没有购买口袋阅的呢,请问只用来看书,体验如何](https://www.v2ex.com/t/724836) 
 - [2020-11-13-深夜加班](https://www.v2ex.com/t/724835) 
-- [2020-11-13-现在国内疫情又严重了，要不要买入黄金？](https://www.v2ex.com/t/724834) 
 - [2020-11-13-🔥🔥🔥-新加坡-Shopee-直招-招云原生平台开发工程师，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/724833) 
 - [2020-11-13-有没有可以白嫖或者廉价的服务器用来域名停靠的，挂个单页就行](https://www.v2ex.com/t/724832) 
 - [2020-11-13-还有-15-款的勇士升-Big-Sur-的吗](https://www.v2ex.com/t/724831) 
@@ -40,11 +45,3 @@
 - [2020-11-13-问-big-sur-的，建议进来看看这个](https://www.v2ex.com/t/724817) 
 - [2020-11-13-借机安利一下我的一键安装脚本,快速安装一个漂亮强大的-iTerm2](https://www.v2ex.com/t/724816) 
 - [2020-11-13-国外-contractor-的工做时长-一天到底满载几小时](https://www.v2ex.com/t/724815) 
-- [2020-11-13-OS-X-与-Linux-桌面发行版的快捷键冲突有什么好的解决办法吗？](https://www.v2ex.com/t/724812) 
-- [2020-11-13-已升级-Big-Sur-的小伙伴们，-intel-的芯片可以运行-iOS-的-App-吗](https://www.v2ex.com/t/724811) 
-- [2020-11-13-有感于某微信群不思划水-空谈创业](https://www.v2ex.com/t/724810) 
-- [2020-11-13-谷歌面试官：不给我留提问时间，怎么给你-offer？](https://www.v2ex.com/t/724809) 
-- [2020-11-13-iPhone-的神经网络引擎是如何学习的？](https://www.v2ex.com/t/724808) 
-- [2020-11-13-如何在官网购买-macbookpro-2020-i5-的机器](https://www.v2ex.com/t/724807) 
-- [2020-11-13-现在-win10-比较好用的版本是什么？-LTSC？](https://www.v2ex.com/t/724806) 
-- [2020-11-13-树莓派-3/4-安装-FreeBSD](https://www.v2ex.com/t/724805) 

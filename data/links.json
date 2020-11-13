@@ -14593,6 +14593,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MacBook Pro 2017 暴力减少噪音",
+        "link": "https://www.v2ex.com/t/724840",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "B 站直播取消关注 点不了",
+        "link": "https://www.v2ex.com/t/724839",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "大家是怎么接受自己在某方面不如别人强这个事实的",
+        "link": "https://www.v2ex.com/t/724838",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "Big Sur 不支持 Parallels Desktop,不要升级",
+        "link": "https://www.v2ex.com/t/724837",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "大家有没有购买口袋阅的呢,请问只用来看书,体验如何",
+        "link": "https://www.v2ex.com/t/724836",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "深夜加班",
+        "link": "https://www.v2ex.com/t/724835",
+        "date": "2020-11-13"
+      },
+      {
         "title": "现在国内疫情又严重了，要不要买入黄金？",
         "link": "https://www.v2ex.com/t/724834",
         "date": "2020-11-13"
@@ -14775,26 +14805,6 @@
       {
         "title": "docker + vue-cli ，开发 hot-reload 时编译超慢",
         "link": "https://www.v2ex.com/t/724791",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "手持 iPhone 7，换 12 需要买充电器和线吗？",
-        "link": "https://www.v2ex.com/t/724790",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "Big Sur 的顶部栏特别渣 能不升级还是别升级了",
-        "link": "https://www.v2ex.com/t/724789",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "IPLC 用于 dns 分流查询太爽了.",
-        "link": "https://www.v2ex.com/t/724788",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "Google App 中的内容如何在网页上浏览?",
-        "link": "https://www.v2ex.com/t/724787",
         "date": "2020-11-13"
       }
     ]
@@ -15012,8 +15022,8 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-13"
       },
       {
@@ -15022,38 +15032,13 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-13"
       },
       {
@@ -15067,13 +15052,13 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
         "date": "2020-11-13"
       },
       {
@@ -15082,8 +15067,33 @@
         "date": "2020-11-13"
       },
       {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-13"
+      },
+      {
         "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
         "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-13"
       }
     ]

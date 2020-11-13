@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-13 06:26:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 06:33:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-MacBook-Pro-2017-暴力减少噪音](https://www.v2ex.com/t/724840) 
+- [2020-11-13-B-站直播取消关注-点不了](https://www.v2ex.com/t/724839) 
+- [2020-11-13-大家是怎么接受自己在某方面不如别人强这个事实的](https://www.v2ex.com/t/724838) 
+- [2020-11-13-Big-Sur-不支持-Parallels-Desktop,不要升级](https://www.v2ex.com/t/724837) 
+- [2020-11-13-大家有没有购买口袋阅的呢,请问只用来看书,体验如何](https://www.v2ex.com/t/724836) 
+- [2020-11-13-深夜加班](https://www.v2ex.com/t/724835) 
 - [2020-11-13-现在国内疫情又严重了，要不要买入黄金？](https://www.v2ex.com/t/724834) 
 - [2020-11-13-🔥🔥🔥-新加坡-Shopee-直招-招云原生平台开发工程师，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/724833) 
 - [2020-11-13-有没有可以白嫖或者廉价的服务器用来域名停靠的，挂个单页就行](https://www.v2ex.com/t/724832) 
@@ -42,7 +48,3 @@
 - [2020-11-13-Google-Developer-Summit-2020](https://www.v2ex.com/t/724793) 
 - [2020-11-13-非统招专科，机电专业，不知道能不能办理工签](https://www.v2ex.com/t/724792) 
 - [2020-11-13-docker-+-vue-cli-，开发-hot-reload-时编译超慢](https://www.v2ex.com/t/724791) 
-- [2020-11-13-手持-iPhone-7，换-12-需要买充电器和线吗？](https://www.v2ex.com/t/724790) 
-- [2020-11-13-Big-Sur-的顶部栏特别渣-能不升级还是别升级了](https://www.v2ex.com/t/724789) 
-- [2020-11-13-IPLC-用于-dns-分流查询太爽了.](https://www.v2ex.com/t/724788) 
-- [2020-11-13-Google-App-中的内容如何在网页上浏览?](https://www.v2ex.com/t/724787) 

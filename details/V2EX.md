@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-13 10:35:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 10:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-springboot-怎么在-controller-上注解让不同的-url-支持不同的-method？](https://www.v2ex.com/t/724978) 
+- [2020-11-13-21-届要毕业了，求一个毕业设计想法](https://www.v2ex.com/t/724976) 
+- [2020-11-13-有跟我一样更新卡住的吗...](https://www.v2ex.com/t/724975) 
+- [2020-11-13-技术问题：管理后台怎么实现-免密登录？](https://www.v2ex.com/t/724974) 
+- [2020-11-13-在-Ubuntu-20.04-上跑了一下三个浏览器的-Speedometer-2.0-分数](https://www.v2ex.com/t/724973) 
+- [2020-11-13-markdown-支持跳转到其他文件的指定章节么?](https://www.v2ex.com/t/724971) 
 - [2020-11-13-Mac-mini-配哪款显示器好-2K-及以上](https://www.v2ex.com/t/724970) 
 - [2020-11-13-dropbox-family-发车](https://www.v2ex.com/t/724968) 
 - [2020-11-13-Go-zlib-压缩字符串与-Java-deflater-压缩的结果不一致-可以解决吗？](https://www.v2ex.com/t/724967) 
@@ -37,8 +43,3 @@
 - [2020-11-13-突然发现-BigSur11.0.1-的-Safari-可以用翻译了🎉](https://www.v2ex.com/t/724932) 
 - [2020-11-13-有买联想小新-air15-2021-锐龙版的老哥么？](https://www.v2ex.com/t/724931) 
 - [2020-11-13-本来以为-ios13-就够垃圾了，结果-ios14-更垃圾](https://www.v2ex.com/t/724930) 
-- [2020-11-13-与公司协商赔偿未果,公司已严重违纪要当天解除合同.](https://www.v2ex.com/t/724928) 
-- [2020-11-13-DaVinci-Resolve-今日发布-17.1-更新，支持-Apple-Silicon，宣称高达-5-倍性能提升](https://www.v2ex.com/t/724926) 
-- [2020-11-13-请教各位大家每天都看哪些资讯炒美股的话？](https://www.v2ex.com/t/724923) 
-- [2020-11-13-有没有办法批量截取-word-文档的前几页?](https://www.v2ex.com/t/724922) 
-- [2020-11-13-python3-一小段-code-求个简写](https://www.v2ex.com/t/724921) 

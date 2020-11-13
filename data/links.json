@@ -15769,6 +15769,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "springboot 怎么在 controller 上注解让不同的 url 支持不同的 method？",
+        "link": "https://www.v2ex.com/t/724978",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "21 届要毕业了，求一个毕业设计想法",
+        "link": "https://www.v2ex.com/t/724976",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "有跟我一样更新卡住的吗...",
+        "link": "https://www.v2ex.com/t/724975",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "技术问题：管理后台怎么实现 免密登录？",
+        "link": "https://www.v2ex.com/t/724974",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "在 Ubuntu 20.04 上跑了一下三个浏览器的 Speedometer 2.0 分数",
+        "link": "https://www.v2ex.com/t/724973",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "markdown 支持跳转到其他文件的指定章节么?",
+        "link": "https://www.v2ex.com/t/724971",
+        "date": "2020-11-13"
+      },
+      {
         "title": "Mac mini 配哪款显示器好 2K 及以上",
         "link": "https://www.v2ex.com/t/724970",
         "date": "2020-11-13"
@@ -15926,31 +15956,6 @@
       {
         "title": "本来以为 ios13 就够垃圾了，结果 ios14 更垃圾",
         "link": "https://www.v2ex.com/t/724930",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "与公司协商赔偿未果,公司已严重违纪要当天解除合同.",
-        "link": "https://www.v2ex.com/t/724928",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "DaVinci Resolve 今日发布 17.1 更新，支持 Apple Silicon，宣称高达 5 倍性能提升",
-        "link": "https://www.v2ex.com/t/724926",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "请教各位大家每天都看哪些资讯炒美股的话？",
-        "link": "https://www.v2ex.com/t/724923",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "有没有办法批量截取 word 文档的前几页?",
-        "link": "https://www.v2ex.com/t/724922",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "python3 一小段 code 求个简写",
-        "link": "https://www.v2ex.com/t/724921",
         "date": "2020-11-13"
       }
     ]
@@ -16153,13 +16158,13 @@
         "date": "2020-11-13"
       },
       {
-        "title": "__proto__ 和 prototype",
-        "link": "https://toutiao.io/k/c9ew4zk",
+        "title": "移植 Lua 到鸿蒙：首个移植成功的编程语言",
+        "link": "https://toutiao.io/k/ocqdm4m",
         "date": "2020-11-13"
       },
       {
-        "title": "移植 Lua 到鸿蒙：首个移植成功的编程语言",
-        "link": "https://toutiao.io/k/ocqdm4m",
+        "title": "__proto__ 和 prototype",
+        "link": "https://toutiao.io/k/c9ew4zk",
         "date": "2020-11-13"
       },
       {
@@ -16168,23 +16173,8 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-13"
       },
       {
@@ -16193,13 +16183,13 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-13"
       },
       {
@@ -16208,8 +16198,23 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-13"
       },
       {
@@ -16218,8 +16223,8 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-13"
       },
       {
@@ -16228,18 +16233,18 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-13"
       },
       {
         "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
         "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-13"
       }
     ]

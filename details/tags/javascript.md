@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 10:35:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 10:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -67,5 +67,6 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2020-11-13-在-Ubuntu-20.04-上跑了一下三个浏览器的-Speedometer-2.0-分数](https://www.v2ex.com/t/724973) 
 - [2020-11-13-第三方平台代公众号发起网页授权，-component_access_token-偶尔会过期？](https://www.v2ex.com/t/724957) 
 - [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) 

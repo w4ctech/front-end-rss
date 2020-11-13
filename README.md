@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 10:35:41，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 10:47:54，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,12 @@
 </summary>
 
 
+- [2020-11-13-springboot-怎么在-controller-上注解让不同的-url-支持不同的-method？](https://www.v2ex.com/t/724978) ![](assets/new.png)  
+- [2020-11-13-21-届要毕业了，求一个毕业设计想法](https://www.v2ex.com/t/724976) ![](assets/new.png)  
+- [2020-11-13-有跟我一样更新卡住的吗...](https://www.v2ex.com/t/724975) ![](assets/new.png)  
+- [2020-11-13-技术问题：管理后台怎么实现-免密登录？](https://www.v2ex.com/t/724974) ![](assets/new.png)  
+- [2020-11-13-在-Ubuntu-20.04-上跑了一下三个浏览器的-Speedometer-2.0-分数](https://www.v2ex.com/t/724973) ![](assets/new.png)  
+- [2020-11-13-markdown-支持跳转到其他文件的指定章节么?](https://www.v2ex.com/t/724971) ![](assets/new.png)  
 - [2020-11-13-Mac-mini-配哪款显示器好-2K-及以上](https://www.v2ex.com/t/724970) ![](assets/new.png)  
 - [2020-11-13-dropbox-family-发车](https://www.v2ex.com/t/724968) ![](assets/new.png)  
 - [2020-11-13-Go-zlib-压缩字符串与-Java-deflater-压缩的结果不一致-可以解决吗？](https://www.v2ex.com/t/724967) ![](assets/new.png)  
@@ -567,12 +573,6 @@
 - [2020-11-13-有啥方法或者软件能比较完善的弄掉钉钉打卡的定位](https://www.v2ex.com/t/724956) ![](assets/new.png)  
 - [2020-11-13-12-pro-的-YouTube-支持-4k-么](https://www.v2ex.com/t/724955) ![](assets/new.png)  
 - [2020-11-13-eSATA-接口能怎么转？懵了](https://www.v2ex.com/t/724954) ![](assets/new.png)  
-- [2020-11-13-请教下，我在谷歌的-Blogger-博客关闭了谷歌引擎收录后还会被其他搜索引擎搜索到吗？](https://www.v2ex.com/t/724952) ![](assets/new.png)  
-- [2020-11-13-BiliOB-被告了](https://www.v2ex.com/t/724949) ![](assets/new.png)  
-- [2020-11-13-想辞职，但是现在的公司事多人还少，手头还有一大顿事情，我该找什么理由辞职呢？](https://www.v2ex.com/t/724948) ![](assets/new.png)  
-- [2020-11-13-现在买-iPad-有什么用？](https://www.v2ex.com/t/724947) ![](assets/new.png)  
-- [2020-11-13-npm-下载-图片压缩依赖包的问题](https://www.v2ex.com/t/724945) ![](assets/new.png)  
-- [2020-11-13-big-Sur-更新-始终下载不完是怎么回事](https://www.v2ex.com/t/724943) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -632,8 +632,8 @@
 - [2020-11-13-Rancher-江鹏：从清华工程物理学硕士到云计算开源创业者](https://toutiao.io/k/qiz866z) ![](assets/new.png)  
 - [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
 - [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  
-- [2020-11-13-__proto__-和-prototype](https://toutiao.io/k/c9ew4zk) ![](assets/new.png)  
 - [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
+- [2020-11-13-__proto__-和-prototype](https://toutiao.io/k/c9ew4zk) ![](assets/new.png)  
 - [2020-11-13-Datapane：Python-数据分析报告生成库](https://toutiao.io/k/4obiqep) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

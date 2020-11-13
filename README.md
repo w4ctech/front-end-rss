@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 14:47:53，:rocket: 更新条数: +3056， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 15:04:14，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-13-南部非洲国家陆续加入“全球新冠肺炎疫苗实施计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMphtzfhfwM9Rw55Jlra2201113&isfromapp=1) ![](assets/new.png)  
+- [2020-11-13-奥地利新增9586例新冠肺炎确诊病例-单日确诊病例数达新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQCueZP5YH9rz4rBvXGgl201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-13-​德国新增新冠肺炎确诊病例23542例-累计确诊751095例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWKFlaBTU8UGfYuxCEbnn201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-13-为防止疫情加速蔓延-欧洲多国表示不会放松防疫封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiai4xAs1hw9fBdDzTe4B7201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-13-海关总署：从印度进口1批冻墨鱼3个外包装检出新冠阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Q7X0ogJWYCZHRwylEF3201113&isfromapp=1) ![](assets/new.png)  
-- [2020-11-13-秘鲁卫生部：新冠肺炎累计确诊逾93万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNIiZ1R1z1KcUigtI1YwZ201113&isfromapp=1) ![](assets/new.png)  
-- [2020-11-13-武汉发现3份巴西进口牛肉标本新冠病毒核酸检测呈阳性-未流入市场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLDgH0Xd3lYJK5ZvBxuQo201113&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,6 +533,10 @@
 </summary>
 
 
+- [2020-11-13-微信：-16605606860-男-/-1995-华东师范大学硕士-工作年限-2-年-人人都是产品经理天天问智囊团成员-期望职位：产品经理（教育行业-B、C-端产品、Saas-类...](https://www.v2ex.com/t/725045) ![](assets/new.png)  
+- [2020-11-13-升级-Big-Sur-空间不够](https://www.v2ex.com/t/725044) ![](assets/new.png)  
+- [2020-11-13-Big-Sur-真香](https://www.v2ex.com/t/725043) ![](assets/new.png)  
+- [2020-11-13-也许独立开发的关键并不是“开发”，甚至也不在于“独立”？](https://www.v2ex.com/t/725041) ![](assets/new.png)  
 - [2020-11-13-目前-FQ-代理/软件，哪家体验最好，推荐下。](https://www.v2ex.com/t/725040) ![](assets/new.png)  
 - [2020-11-13-老哥们，我感觉我写的代码像-shi-一样。。求指点](https://www.v2ex.com/t/725039) ![](assets/new.png)  
 - [2020-11-13-更新-big-sur-后，-svn-用不了了？](https://www.v2ex.com/t/725038) ![](assets/new.png)  
@@ -539,10 +553,6 @@
 - [2020-11-13-big-sur-的-Time-Machine-有问题!](https://www.v2ex.com/t/725019) ![](assets/new.png)  
 - [2020-11-13-Adobe-AIR-开发者、Flash-开发者、Nokia-Symbian-开发者、ActionScript-开发者，甚至把一个人的黄金时光用在了和史前时代浏览器兼容性问题打交道上的程序员们，...](https://www.v2ex.com/t/725017) ![](assets/new.png)  
 - [2020-11-13-关于一些网站的请求的验证](https://www.v2ex.com/t/725016) ![](assets/new.png)  
-- [2020-11-13-有没有好的关于操作系统的实验练习？](https://www.v2ex.com/t/725015) ![](assets/new.png)  
-- [2020-11-13-在-ubuntu-下开发支付宝小程序，官网没有支持-Linux-的，有什么专用开发工具推荐码](https://www.v2ex.com/t/725014) ![](assets/new.png)  
-- [2020-11-13-35-岁以后咱们可以干这行](https://www.v2ex.com/t/725013) ![](assets/new.png)  
-- [2020-11-13-一直在用-Big-Sur-测试版，突然无法更新了](https://www.v2ex.com/t/725012) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -593,8 +603,8 @@
 - [2020-11-13-人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm) ![](assets/new.png)  
 - [2020-11-13-华东师范大学的数据库系统研究](https://toutiao.io/k/vjryow7) ![](assets/new.png)  
 - [2020-11-13-Monarch：谷歌的全球级内存时序数据库](https://toutiao.io/k/u8bs7ri) ![](assets/new.png)  
-- [2020-11-13-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
 - [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
+- [2020-11-13-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
 - [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
 - [2020-11-13-Envoy-VS-Traefik](https://toutiao.io/k/a469cxm) ![](assets/new.png)  
 - [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  

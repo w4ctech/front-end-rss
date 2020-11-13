@@ -14067,6 +14067,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "南部非洲国家陆续加入“全球新冠肺炎疫苗实施计划”",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMphtzfhfwM9Rw55Jlra2201113&isfromapp=1",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "奥地利新增9586例新冠肺炎确诊病例 单日确诊病例数达新高",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQCueZP5YH9rz4rBvXGgl201113&isfromapp=1",
+        "date": "2020-11-13"
+      },
+      {
         "title": "​德国新增新冠肺炎确诊病例23542例 累计确诊751095例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWKFlaBTU8UGfYuxCEbnn201113&isfromapp=1",
         "date": "2020-11-13"
@@ -14079,16 +14089,6 @@
       {
         "title": "海关总署：从印度进口1批冻墨鱼3个外包装检出新冠阳性",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Q7X0ogJWYCZHRwylEF3201113&isfromapp=1",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "秘鲁卫生部：新冠肺炎累计确诊逾93万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNIiZ1R1z1KcUigtI1YwZ201113&isfromapp=1",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "武汉发现3份巴西进口牛肉标本新冠病毒核酸检测呈阳性 未流入市场",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLDgH0Xd3lYJK5ZvBxuQo201113&isfromapp=1",
         "date": "2020-11-13"
       }
     ]
@@ -14289,7 +14289,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -14547,6 +14598,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "微信： 16605606860\r\n\r\n男 / 1995\r\n华东师范大学硕士\r\n工作年限 2 年\r\n人人都是产品经理天天问智囊团成员\r\n期望职位：产品经理（教育行业 B、C 端产品、Saas 类...",
+        "link": "https://www.v2ex.com/t/725045",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "升级 Big Sur 空间不够",
+        "link": "https://www.v2ex.com/t/725044",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "Big Sur 真香",
+        "link": "https://www.v2ex.com/t/725043",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "也许独立开发的关键并不是“开发”，甚至也不在于“独立”？",
+        "link": "https://www.v2ex.com/t/725041",
+        "date": "2020-11-13"
+      },
+      {
         "title": "目前 FQ 代理/软件，哪家体验最好，推荐下。",
         "link": "https://www.v2ex.com/t/725040",
         "date": "2020-11-13"
@@ -14710,26 +14781,6 @@
         "title": "京东苹果 M1 芯片三款新品可以付款了，最晚发货时间 11.18，还赠送 30 天试用，不满意可以退货？",
         "link": "https://www.v2ex.com/t/724996",
         "date": "2020-11-13"
-      },
-      {
-        "title": "Big Sur 更新下载过慢的话可以试试 gibMacOS",
-        "link": "https://www.v2ex.com/t/724995",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "上海应届生办理落户，公司要求签协议三年内离职赔偿十五万",
-        "link": "https://www.v2ex.com/t/724994",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "Big Sur 开启 HiDPI，只需要一个小工具，实测有效。",
-        "link": "https://www.v2ex.com/t/724993",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "django 集成 ElasticSearch 7.10 出现错误，执行 Python manage.py rebuild_index 创建索引时候出现的，有大佬知道如何解决吗？",
-        "link": "https://www.v2ex.com/t/724991",
-        "date": "2020-11-13"
       }
     ]
   },
@@ -14886,13 +14937,13 @@
         "date": "2020-11-13"
       },
       {
-        "title": "如何设计并实现存储 QoS？",
-        "link": "https://toutiao.io/k/ae2arqv",
+        "title": "工具 | 腾讯开源的，专为 API 而生的 JSON 网络传输协议以及基于这套协议实现的 ORM 库",
+        "link": "https://toutiao.io/k/djmlzgr",
         "date": "2020-11-13"
       },
       {
-        "title": "工具 | 腾讯开源的，专为 API 而生的 JSON 网络传输协议以及基于这套协议实现的 ORM 库",
-        "link": "https://toutiao.io/k/djmlzgr",
+        "title": "如何设计并实现存储 QoS？",
+        "link": "https://toutiao.io/k/ae2arqv",
         "date": "2020-11-13"
       },
       {
@@ -14946,23 +14997,8 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-13"
       },
       {
@@ -14971,8 +15007,8 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-13"
       },
       {
@@ -14981,28 +15017,13 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-13"
       },
       {
@@ -15016,8 +15037,38 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-13"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 21:20:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 21:33:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,4 +46,3 @@
 - [2020-11-13-目前-FQ-代理/软件，哪家体验最好，推荐下。](https://www.v2ex.com/t/725040) 
 - [2020-11-13-老哥们，我感觉我写的代码像-shi-一样。。求指点](https://www.v2ex.com/t/725039) 
 - [2020-11-13-更新-big-sur-后，-svn-用不了了？](https://www.v2ex.com/t/725038) 
-- [2020-11-13-iPhone-12-pro-max-大家拿到手的有什么问题吗](https://www.v2ex.com/t/725037) 

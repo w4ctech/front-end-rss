@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-13 12:28:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 12:35:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -60,6 +60,7 @@
 - [【掘金前端】基于vue的qiankun实践总结](https://juejin.im/post/6894543700387430408)
 - [【掘金前端】还在为写.vue文件烦恼吗？快来用dot-vue-cli交互式生成吧！](https://juejin.im/post/6894536331205017613)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
+- [【V2EX】用-Vue-这类前端开发工程化之后，后端感觉没活干了。。。](https://www.v2ex.com/t/724989)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -332,10 +333,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】我发现-bigsur-Safari-多开标签页的话-选中某个标签页的时候关闭用的小-x-就看不见了](https://www.v2ex.com/t/724988)
+- [【V2EX】springboot-怎么在-controller-上注解让不同的-url-支持不同的-method？](https://www.v2ex.com/t/724978)
 - [【技术头条】移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm)
-- [【安全热点】业内最多!奇安信六大项目入围2020工信部网络安全技术应用试点示范...](https://sec.thief.one/article_content?a_id=fbc7a66db3a435d80fd612127644f8b0)
-- [【安全热点】分享-|-收藏的几个安全类公众号](https://sec.thief.one/article_content?a_id=30ac15e962a5fc31b2e62241559960e4)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +353,10 @@
 
 
 
+- [【V2EX】django-集成-ElasticSearch-7.10-出现错误，执行-Python-manage.py-rebuild_index-创建索引时候出现的，有大佬知道如何解决吗？](https://www.v2ex.com/t/724991)
+- [【V2EX】像素偏移|-上海-|-社招-招聘移动端图形算法、安卓工程师，来一起做点有意思好玩的事情！](https://www.v2ex.com/t/724987)
+- [【V2EX】光流插帧方法-RIFE，-GPU720p-30+FPS](https://www.v2ex.com/t/724985)
+- [【V2EX】上海、武汉-全职可远程,-15k-至-40k-招募优质全栈、前端、后端、架构师](https://www.v2ex.com/t/724959)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -405,6 +410,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【V2EX】苏州-高视科技-深度学习开发人员和后端人员招聘](https://www.v2ex.com/t/725005)
+- [【V2EX】每次面试都被怀疑简历造假…🙃](https://www.v2ex.com/t/724982)
 - [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [【安全热点】【美团招聘】冬季专场Vol.1~这13个岗位热招中!](https://sec.thief.one/article_content?a_id=0c94c23144faca42b66f855299c0988d)
 - [【安全热点】招聘-|-上海埃帕信息科技有限公司](https://sec.thief.one/article_content?a_id=b64567b976b9fa210b3a50d12fc1ca55)

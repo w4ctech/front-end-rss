@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 12:28:23，:rocket: 更新条数: +3029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 12:35:57，:rocket: 更新条数: +3070， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-13-请问-，我有一张一百万数据的表，然后插入的时间顺序是乱的，时间格式是-'2020-01-01-00:00:00'-这样的数据（后面的时分秒都是'00:00:00'），求-2020-年某个字段...](https://www.v2ex.com/t/725008) ![](assets/new.png)  
+- [2020-11-13-iOS-YouTube-现在能画中画吗？-已是-premium](https://www.v2ex.com/t/725006) ![](assets/new.png)  
+- [2020-11-13-苏州-高视科技-深度学习开发人员和后端人员招聘](https://www.v2ex.com/t/725005) ![](assets/new.png)  
+- [2020-11-13-杭州|网易云音乐|前端开发-高级/资深前端开发工程师](https://www.v2ex.com/t/725003) ![](assets/new.png)  
+- [2020-11-13-请教大家下，-iPad-pro-2020-一个晚上耗电-5-6%（飞行模式），正常吗？](https://www.v2ex.com/t/725002) ![](assets/new.png)  
+- [2020-11-13-想搞一个存现金给自己分期的-app？](https://www.v2ex.com/t/725001) ![](assets/new.png)  
+- [2020-11-13-十年没有工作了！](https://www.v2ex.com/t/725000) ![](assets/new.png)  
+- [2020-11-13-Big-Sur-可以有限支持多键鼠标了](https://www.v2ex.com/t/724999) ![](assets/new.png)  
+- [2020-11-13-杭州阿里-新零售场景金融技术部--Java-p6p7](https://www.v2ex.com/t/724998) ![](assets/new.png)  
+- [2020-11-13-JavaScript-底层是怎么实现的，有相关书籍推荐吗？](https://www.v2ex.com/t/724997) ![](assets/new.png)  
+- [2020-11-13-京东苹果-M1-芯片三款新品可以付款了，最晚发货时间-11.18，还赠送-30-天试用，不满意可以退货？](https://www.v2ex.com/t/724996) ![](assets/new.png)  
+- [2020-11-13-Big-Sur-更新下载过慢的话可以试试-gibMacOS](https://www.v2ex.com/t/724995) ![](assets/new.png)  
+- [2020-11-13-上海应届生办理落户，公司要求签协议三年内离职赔偿十五万](https://www.v2ex.com/t/724994) ![](assets/new.png)  
+- [2020-11-13-Big-Sur-开启-HiDPI，只需要一个小工具，实测有效。](https://www.v2ex.com/t/724993) ![](assets/new.png)  
+- [2020-11-13-django-集成-ElasticSearch-7.10-出现错误，执行-Python-manage.py-rebuild_index-创建索引时候出现的，有大佬知道如何解决吗？](https://www.v2ex.com/t/724991) ![](assets/new.png)  
+- [2020-11-13-Golang-defer-你不知道的事](https://www.v2ex.com/t/724990) ![](assets/new.png)  
+- [2020-11-13-用-Vue-这类前端开发工程化之后，后端感觉没活干了。。。](https://www.v2ex.com/t/724989) ![](assets/new.png)  
+- [2020-11-13-我发现-bigsur-Safari-多开标签页的话-选中某个标签页的时候关闭用的小-x-就看不见了](https://www.v2ex.com/t/724988) ![](assets/new.png)  
+- [2020-11-13-像素偏移|-上海-|-社招-招聘移动端图形算法、安卓工程师，来一起做点有意思好玩的事情！](https://www.v2ex.com/t/724987) ![](assets/new.png)  
+- [2020-11-13-群里有木有愿意做新媒体视频内容兼职的-还需要个产品经理-我这里有些活需要合作](https://www.v2ex.com/t/724986) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

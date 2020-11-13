@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 09:11:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 09:22:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -30,6 +30,7 @@
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [2020-11-13-jsliang-求职系列---12---手写防抖和节流](https://juejin.im/post/6894535259544059917) 
 - [2020-11-13-怎么理解虚拟dom？](https://juejin.im/post/6894519762353979405) 
 - [2020-11-13-JS-对象基本用法](https://juejin.im/post/6894518681892880392) 
 - [2020-11-13-设计模式—单例模式JS版本](https://juejin.im/post/6894516731256487949) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-13 12:39:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 12:47:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -356,7 +356,6 @@
 - [【V2EX】django-集成-ElasticSearch-7.10-出现错误，执行-Python-manage.py-rebuild_index-创建索引时候出现的，有大佬知道如何解决吗？](https://www.v2ex.com/t/724991)
 - [【V2EX】像素偏移|-上海-|-社招-招聘移动端图形算法、安卓工程师，来一起做点有意思好玩的事情！](https://www.v2ex.com/t/724987)
 - [【V2EX】光流插帧方法-RIFE，-GPU720p-30+FPS](https://www.v2ex.com/t/724985)
-- [【V2EX】上海、武汉-全职可远程,-15k-至-40k-招募优质全栈、前端、后端、架构师](https://www.v2ex.com/t/724959)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

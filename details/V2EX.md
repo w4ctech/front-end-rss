@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-13 05:35:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 05:48:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-国外-contractor-的工做时长-一天到底满载几小时](https://www.v2ex.com/t/724815) 
+- [2020-11-13-OS-X-与-Linux-桌面发行版的快捷键冲突有什么好的解决办法吗？](https://www.v2ex.com/t/724812) 
+- [2020-11-13-已升级-Big-Sur-的小伙伴们，-intel-的芯片可以运行-iOS-的-App-吗](https://www.v2ex.com/t/724811) 
+- [2020-11-13-有感于某微信群不思划水-空谈创业](https://www.v2ex.com/t/724810) 
 - [2020-11-13-谷歌面试官：不给我留提问时间，怎么给你-offer？](https://www.v2ex.com/t/724809) 
 - [2020-11-13-iPhone-的神经网络引擎是如何学习的？](https://www.v2ex.com/t/724808) 
 - [2020-11-13-如何在官网购买-macbookpro-2020-i5-的机器](https://www.v2ex.com/t/724807) 
@@ -34,15 +38,9 @@
 - [2020-11-13-快手-Y-tech-招聘直推部门老大，欢迎投递](https://www.v2ex.com/t/724776) 
 - [2020-11-13-go-项目引用本地其他项目的问题](https://www.v2ex.com/t/724775) 
 - [2020-11-13-问个不该问的，现在跑滴滴怎么样-兼职跑](https://www.v2ex.com/t/724773) 
-- [2020-11-13-巨硬不能猪测了？](https://www.v2ex.com/t/724772) 
 - [2020-11-13-身家国企，涨薪-40%，要不要去私企？](https://www.v2ex.com/t/724771) 
 - [2020-11-13-阿里云数据智能-DataV-团队招聘-Node.js-工程师](https://www.v2ex.com/t/724770) 
 - [2020-11-13-macos-big-sur-的-safari-没有翻译功能呀，请问怎么召唤出来](https://www.v2ex.com/t/724769) 
 - [2020-11-13-imac2019-的-21-寸升级-big-sur-提示：储存系统验证或修复失败-69716](https://www.v2ex.com/t/724768) 
 - [2020-11-13-最近开发了一个基于-imap-的-composer-包，附件和图片不好读取，有没有好方法读取](https://www.v2ex.com/t/724767) 
 - [2020-11-13-Angular-11-released](https://www.v2ex.com/t/724766) 
-- [2020-11-13-俺要重修网络！](https://www.v2ex.com/t/724765) 
-- [2020-11-13-有没有客户端连接服务器，服务器主动调用客户端服务的框架](https://www.v2ex.com/t/724764) 
-- [2020-11-13-新人发帖，今天-Safari-看不到其他设备的标签页，大家有遇到吗](https://www.v2ex.com/t/724763) 
-- [2020-11-13-百度云和谐问题](https://www.v2ex.com/t/724762) 
-- [2020-11-13-sqlite-写入经常报-SQLITE_IOERR-咋整？](https://www.v2ex.com/t/724760) 

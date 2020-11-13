@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 05:35:25，:rocket: 更新条数: +3302， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 05:48:41，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -376,26 +376,6 @@
 </summary>
 
 
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -476,8 +456,8 @@
 - [2020-11-12-🔥耗子尾汁，云开发的羊毛人人可薅！-|-🏆-技术专题第七期征文](https://juejin.im/post/6894458548806385672) ![](assets/new.png)  
 - [2020-11-12-想要开发先了解浏览器内核和控制台](https://juejin.im/post/6894447205739200519) ![](assets/new.png)  
 - [2020-11-12-CSS-实用技巧：伪元素&伪类的妙用](https://juejin.im/post/6894444655233105927) ![](assets/new.png)  
-- [2020-11-12-我们真的需要Serverless吗-|-🏆-技术专题第七期征文](https://juejin.im/post/6894427723805622286) ![](assets/new.png)  
 - [2020-11-12-飞猪营销域SSR总结---双十一会场再加速](https://juejin.im/post/6894244528711008269) ![](assets/new.png)  
+- [2020-11-12-试试前端自动化测试！（React-实战）](https://juejin.im/post/6894234532224958478) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +533,10 @@
 </summary>
 
 
+- [2020-11-13-国外-contractor-的工做时长-一天到底满载几小时](https://www.v2ex.com/t/724815) ![](assets/new.png)  
+- [2020-11-13-OS-X-与-Linux-桌面发行版的快捷键冲突有什么好的解决办法吗？](https://www.v2ex.com/t/724812) ![](assets/new.png)  
+- [2020-11-13-已升级-Big-Sur-的小伙伴们，-intel-的芯片可以运行-iOS-的-App-吗](https://www.v2ex.com/t/724811) ![](assets/new.png)  
+- [2020-11-13-有感于某微信群不思划水-空谈创业](https://www.v2ex.com/t/724810) ![](assets/new.png)  
 - [2020-11-13-谷歌面试官：不给我留提问时间，怎么给你-offer？](https://www.v2ex.com/t/724809) ![](assets/new.png)  
 - [2020-11-13-iPhone-的神经网络引擎是如何学习的？](https://www.v2ex.com/t/724808) ![](assets/new.png)  
 - [2020-11-13-如何在官网购买-macbookpro-2020-i5-的机器](https://www.v2ex.com/t/724807) ![](assets/new.png)  
@@ -569,10 +553,6 @@
 - [2020-11-13-Grafana-Unable-to-graph-data-switch-to-table-view](https://www.v2ex.com/t/724794) ![](assets/new.png)  
 - [2020-11-13-Google-Developer-Summit-2020](https://www.v2ex.com/t/724793) ![](assets/new.png)  
 - [2020-11-13-非统招专科，机电专业，不知道能不能办理工签](https://www.v2ex.com/t/724792) ![](assets/new.png)  
-- [2020-11-13-docker-+-vue-cli-，开发-hot-reload-时编译超慢](https://www.v2ex.com/t/724791) ![](assets/new.png)  
-- [2020-11-13-手持-iPhone-7，换-12-需要买充电器和线吗？](https://www.v2ex.com/t/724790) ![](assets/new.png)  
-- [2020-11-13-Big-Sur-的顶部栏特别渣-能不升级还是别升级了](https://www.v2ex.com/t/724789) ![](assets/new.png)  
-- [2020-11-13-IPLC-用于-dns-分流查询太爽了.](https://www.v2ex.com/t/724788) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -623,8 +603,8 @@
 - [2020-11-13-华东师范大学的数据库系统研究](https://toutiao.io/k/vjryow7) ![](assets/new.png)  
 - [2020-11-13-Hugo-之旅](https://toutiao.io/k/5ubz2q0) ![](assets/new.png)  
 - [2020-11-13-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
-- [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
 - [2020-11-13-Monarch：谷歌的全球级内存时序数据库](https://toutiao.io/k/u8bs7ri) ![](assets/new.png)  
+- [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
 - [2020-11-13-Envoy-VS-Traefik](https://toutiao.io/k/a469cxm) ![](assets/new.png)  
 - [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
 - [2020-11-13-女朋友问我：小松子，你知道-Go-语言参数传递是传值还是传引用吗？](https://toutiao.io/k/l4lm6x2) ![](assets/new.png)  

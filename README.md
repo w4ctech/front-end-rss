@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 23:19:41，:rocket: 更新条数: +3070， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 23:33:30，:rocket: 更新条数: +3070， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-13-工作还是博后](https://www.v2ex.com/t/725088) ![](assets/new.png)  
 - [2020-11-13-远程长期有效-Brix-平台诚前端工程师](https://www.v2ex.com/t/725086) ![](assets/new.png)  
 - [2020-11-13-老-Mac（官方不支援升級的-Mac）安裝-Big-Sur](https://www.v2ex.com/t/725085) ![](assets/new.png)  
 - [2020-11-13-阿里推出基于-FPGA发明者：-Xilinx-赛灵思的硬件编码器-XGH265](https://www.v2ex.com/t/725084) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-13-去深圳走走，有没有短期转租房间的小伙伴](https://www.v2ex.com/t/725069) ![](assets/new.png)  
 - [2020-11-13-今晚会有-Apple-M1-芯片新品的评测么？](https://www.v2ex.com/t/725067) ![](assets/new.png)  
 - [2020-11-13-谈谈-iPhone-12-mini](https://www.v2ex.com/t/725066) ![](assets/new.png)  
-- [2020-11-13-ElasticSearch-如何迁移到新设备？](https://www.v2ex.com/t/725065) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

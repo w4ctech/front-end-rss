@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 02:35:39，:rocket: 更新条数: +3297， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 02:48:07，:rocket: 更新条数: +3297， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-13-秘鲁卫生部：新冠肺炎累计确诊逾93万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNIiZ1R1z1KcUigtI1YwZ201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-13-武汉发现3份巴西进口牛肉标本新冠病毒核酸检测呈阳性-未流入市场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLDgH0Xd3lYJK5ZvBxuQo201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-疫情致巴西圣保罗州超50万学生缺课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidjCtcDSSN4UIXtBGdOYy201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-英国单日新增新冠肺炎确诊病例33470例-为疫情开始以来最高纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiSVYNw8812udJlcUBZtk201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-以色列将中国列入入境无需隔离的“绿色”国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5uvjdCVU7q7TQ4PRxBcT201112&isfromapp=1) ![](assets/new.png)  
-- [2020-11-12-香港新增23例新冠肺炎确诊病例-累计确诊5431例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEu8Pbl2GQDQmtHGcSngi201112&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,11 +473,11 @@
 </summary>
 
 
-- [2020-11-12-做一件有利于所有前端工程师的事儿](https://juejin.im/post/6894428014663172104) ![](assets/new.png)  
-- [2020-11-12-飞猪营销域SSR总结---双十一会场再加速](https://juejin.im/post/6894244528711008269) ![](assets/new.png)  
-- [2020-11-12-十五分钟读懂React-17-|-🏆-技术专题第六期征文](https://juejin.im/post/6894204813970997256) ![](assets/new.png)  
-- [2020-11-12-Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://juejin.im/post/6894175515515551752) ![](assets/new.png)  
-- [2020-11-11-实时音视频面视必备：快速掌握11个视频技术相关的基础概念](https://juejin.im/post/6894138629380112397) ![](assets/new.png)  
+- [2020-11-12-浅析MVC](https://juejin.im/post/6894231078177865741) ![](assets/new.png)  
+- [2020-11-12-数据结构与算法学习之队列](https://juejin.im/post/6894224899738042382) ![](assets/new.png)  
+- [2020-11-12-教你让b站视频的弹幕发出语音！](https://juejin.im/post/6894220757938012167) ![](assets/new.png)  
+- [2020-11-12-Vue-3-setup-函数](https://juejin.im/post/6894210683555348494) ![](assets/new.png)  
+- [2020-08-06-微信小程序组件槽点](https://juejin.im/post/6857780446148788237) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,18 @@
 </summary>
 
 
+- [2020-11-13-big-sur-的字体很粗，有点丑啊](https://www.v2ex.com/t/724726) ![](assets/new.png)  
+- [2020-11-13-深圳线下技术沙龙-应用主流技术助力银行数字化转型（架构方案、React-Native、敏捷测试）](https://www.v2ex.com/t/724725) ![](assets/new.png)  
+- [2020-11-13-《鬼灭之刃》剧场版国内什么时候上映？-出种子了吗？](https://www.v2ex.com/t/724724) ![](assets/new.png)  
+- [2020-11-13-腾讯云双-11，轻量-123-配置，-199-元/3-年起，新老用户均可购买](https://www.v2ex.com/t/724723) ![](assets/new.png)  
+- [2020-11-13-现在有什么微信测单删的办法吗](https://www.v2ex.com/t/724722) ![](assets/new.png)  
+- [2020-11-13-使用时间机器恢复备份到新的-Apple-Silicon-机器上，目前看起来风险高吗？](https://www.v2ex.com/t/724721) ![](assets/new.png)  
+- [2020-11-13-蚂蚁集团研发效能部招数据产品经理和运营](https://www.v2ex.com/t/724720) ![](assets/new.png)  
+- [2020-11-13-macOS-Safari-11-标签页显示不正常](https://www.v2ex.com/t/724718) ![](assets/new.png)  
+- [2020-11-13-升级-Big-Sur-翻车了](https://www.v2ex.com/t/724717) ![](assets/new.png)  
+- [2020-11-13-升级-big-sur-以后-AirPods-Pro-可以从-Mac-切换到-iPhone-，但是切换不回-Mac？](https://www.v2ex.com/t/724715) ![](assets/new.png)  
+- [2020-11-13-发现-bug：关闭右侧的-Google-广告后，热议主题框向上移动，然后前两条无法点击](https://www.v2ex.com/t/724714) ![](assets/new.png)  
+- [2020-11-13-矩池云双十一活动，邀请好友返利升级](https://www.v2ex.com/t/724713) ![](assets/new.png)  
 - [2020-11-13-广州内推-小鹏汽车-Java-后台开发-要求-211-学历](https://www.v2ex.com/t/724711) ![](assets/new.png)  
 - [2020-11-13-2018-款-MacBook-Pro-电池问题](https://www.v2ex.com/t/724710) ![](assets/new.png)  
 - [2020-11-13-还有写技术博客的同学吗，留下-RSS-地址](https://www.v2ex.com/t/724709) ![](assets/new.png)  
@@ -561,18 +573,6 @@
 - [2020-11-13-网页聊天室-----造作啊](https://www.v2ex.com/t/724705) ![](assets/new.png)  
 - [2020-11-13-Windows-远程桌面连接求助](https://www.v2ex.com/t/724704) ![](assets/new.png)  
 - [2020-11-13-借地问一下-Dropbox-替代-Gdrive-如何？](https://www.v2ex.com/t/724703) ![](assets/new.png)  
-- [2020-11-13-很有感触的文章-《如何白手起家，跨越阶层？》](https://www.v2ex.com/t/724702) ![](assets/new.png)  
-- [2020-11-13-IDEA-有没有什么比较便宜的入手方法？](https://www.v2ex.com/t/724701) ![](assets/new.png)  
-- [2020-11-13-网页聊天室--摸鱼首选](https://www.v2ex.com/t/724700) ![](assets/new.png)  
-- [2020-11-13-Gunicorn-能不能在-pypy-上运行？-pypy-有可能部署-web-服务吗？](https://www.v2ex.com/t/724699) ![](assets/new.png)  
-- [2020-11-13-职业生涯该走哪条路线？去外地大企业镀金还是本地小企业落灰？](https://www.v2ex.com/t/724698) ![](assets/new.png)  
-- [2020-11-13-mac-big-sur-正式版](https://www.v2ex.com/t/724697) ![](assets/new.png)  
-- [2020-11-13-2016-mbp-13-屏幕有键盘痕迹，擦不掉那种，没有啥屏幕计划吧？](https://www.v2ex.com/t/724694) ![](assets/new.png)  
-- [2020-11-13-为什么哔哩哔哩上视频的嵌入代码不能在-Google-浏览器上播放](https://www.v2ex.com/t/724693) ![](assets/new.png)  
-- [2020-11-13-iPhone-12-Pro-Max-已经在路上了](https://www.v2ex.com/t/724692) ![](assets/new.png)  
-- [2020-11-13-求助-第一次入手-iPhone](https://www.v2ex.com/t/724691) ![](assets/new.png)  
-- [2020-11-13-关于手机与-PC-跨屏协同的实现的一些疑问](https://www.v2ex.com/t/724690) ![](assets/new.png)  
-- [2020-11-13-V-友们，网购的衣服有味道，一般咋处理？](https://www.v2ex.com/t/724688) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,12 +625,12 @@
 - [2020-11-13-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
 - [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
 - [2020-11-13-Envoy-VS-Traefik](https://toutiao.io/k/a469cxm) ![](assets/new.png)  
-- [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
 - [2020-11-13-Monarch：谷歌的全球级内存时序数据库](https://toutiao.io/k/u8bs7ri) ![](assets/new.png)  
+- [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
 - [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
 - [2020-11-13-女朋友问我：小松子，你知道-Go-语言参数传递是传值还是传引用吗？](https://toutiao.io/k/l4lm6x2) ![](assets/new.png)  
-- [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
 - [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  
+- [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
 - [2020-11-13-Rancher-江鹏：从清华工程物理学硕士到云计算开源创业者](https://toutiao.io/k/qiz866z) ![](assets/new.png)  
 - [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
 - [2020-11-13-__proto__-和-prototype](https://toutiao.io/k/c9ew4zk) ![](assets/new.png)  

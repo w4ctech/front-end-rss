@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 02:35:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 02:48:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,7 +78,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-11-11-实时音视频面视必备：快速掌握11个视频技术相关的基础概念](https://juejin.im/post/6894138629380112397) 
+- [2020-11-12-教你让b站视频的弹幕发出语音！](https://juejin.im/post/6894220757938012167) 
 - [2020-11-13-为什么哔哩哔哩上视频的嵌入代码不能在-Google-浏览器上播放](https://www.v2ex.com/t/724693) 
 - [2020-11-12-YouTube遭遇全球性大宕机-所有视频播放报错](https://sec.thief.one/article_content?a_id=824f9968a6057f62b5cf006df547df2b) 
 - [2020-11-12-【视频】|-Python:删除漏删问题](https://sec.thief.one/article_content?a_id=e0fdfecc806b872d1e897b6f013d0efb) 

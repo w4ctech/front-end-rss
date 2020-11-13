@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-13 04:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 05:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-在泛型考量或者说设计上，最符合你心意或者说你觉得最优雅的语言是哪个？](https://www.v2ex.com/t/724796) 
+- [2020-11-13-macOS-Big-Sur-更新后有些软件的中文字体变的极细](https://www.v2ex.com/t/724795) 
 - [2020-11-13-Grafana-Unable-to-graph-data-switch-to-table-view](https://www.v2ex.com/t/724794) 
 - [2020-11-13-Google-Developer-Summit-2020](https://www.v2ex.com/t/724793) 
 - [2020-11-13-非统招专科，机电专业，不知道能不能办理工签](https://www.v2ex.com/t/724792) 
@@ -45,5 +47,3 @@
 - [2020-11-13-求集合类多重套娃的最佳实践](https://www.v2ex.com/t/724750) 
 - [2020-11-13-北上杭深急招-渗透测试工程师---安全与风控](https://www.v2ex.com/t/724749) 
 - [2020-11-13-如果不混-IT、互联网的话，可以做点什么？](https://www.v2ex.com/t/724748) 
-- [2020-11-13-剪贴板的截图/图片不能直接粘贴到运行在-VMware-WorkStation-里的微信？](https://www.v2ex.com/t/724746) 
-- [2020-11-13-因南航验证码-bug，错过了便宜机票](https://www.v2ex.com/t/724745) 

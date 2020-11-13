@@ -15759,6 +15759,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "在泛型考量或者说设计上，最符合你心意或者说你觉得最优雅的语言是哪个？",
+        "link": "https://www.v2ex.com/t/724796",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "macOS Big Sur 更新后有些软件的中文字体变的极细",
+        "link": "https://www.v2ex.com/t/724795",
+        "date": "2020-11-13"
+      },
+      {
         "title": "Grafana Unable to graph data switch to table view",
         "link": "https://www.v2ex.com/t/724794",
         "date": "2020-11-13"
@@ -15956,16 +15966,6 @@
       {
         "title": "如果不混 IT、互联网的话，可以做点什么？",
         "link": "https://www.v2ex.com/t/724748",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "剪贴板的截图/图片不能直接粘贴到运行在 VMware WorkStation 里的微信？",
-        "link": "https://www.v2ex.com/t/724746",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "因南航验证码 bug，错过了便宜机票",
-        "link": "https://www.v2ex.com/t/724745",
         "date": "2020-11-13"
       }
     ]
@@ -16183,13 +16183,13 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-13"
       },
       {
@@ -16198,23 +16198,13 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-13"
       },
       {
@@ -16223,23 +16213,18 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-13"
       },
       {
         "title": "[推荐] 程序员成为高级管理者的三次跃升",
         "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
         "date": "2020-11-13"
       },
       {
@@ -16253,8 +16238,23 @@
         "date": "2020-11-13"
       },
       {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-13"
+      },
+      {
         "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
         "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-13"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 11:32:56，:rocket: 更新条数: +3068， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 11:47:54，:rocket: 更新条数: +3068， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-13-Big-Sur-更新下载过慢的话可以试试-gibMacOS](https://www.v2ex.com/t/724995) ![](assets/new.png)  
 - [2020-11-13-上海应届生办理落户，公司要求签协议三年内离职赔偿十五万](https://www.v2ex.com/t/724994) ![](assets/new.png)  
 - [2020-11-13-Big-Sur-开启-HiDPI，只需要一个小工具，实测有效。](https://www.v2ex.com/t/724993) ![](assets/new.png)  
 - [2020-11-13-django-集成-ElasticSearch-7.10-出现错误，执行-Python-manage.py-rebuild_index-创建索引时候出现的，有大佬知道如何解决吗？](https://www.v2ex.com/t/724991) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-13-有跟我一样更新卡住的吗...](https://www.v2ex.com/t/724975) ![](assets/new.png)  
 - [2020-11-13-技术问题：管理后台怎么实现-免密登录？](https://www.v2ex.com/t/724974) ![](assets/new.png)  
 - [2020-11-13-在-Ubuntu-20.04-上跑了一下三个浏览器的-Speedometer-2.0-分数](https://www.v2ex.com/t/724973) ![](assets/new.png)  
-- [2020-11-13-markdown-支持跳转到其他文件的指定章节么?](https://www.v2ex.com/t/724971) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

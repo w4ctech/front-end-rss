@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-13 11:32:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 11:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-Big-Sur-更新下载过慢的话可以试试-gibMacOS](https://www.v2ex.com/t/724995) 
 - [2020-11-13-上海应届生办理落户，公司要求签协议三年内离职赔偿十五万](https://www.v2ex.com/t/724994) 
 - [2020-11-13-Big-Sur-开启-HiDPI，只需要一个小工具，实测有效。](https://www.v2ex.com/t/724993) 
 - [2020-11-13-django-集成-ElasticSearch-7.10-出现错误，执行-Python-manage.py-rebuild_index-创建索引时候出现的，有大佬知道如何解决吗？](https://www.v2ex.com/t/724991) 
@@ -43,4 +44,3 @@
 - [2020-11-13-BiliOB-被告了](https://www.v2ex.com/t/724949) 
 - [2020-11-13-想辞职，但是现在的公司事多人还少，手头还有一大顿事情，我该找什么理由辞职呢？](https://www.v2ex.com/t/724948) 
 - [2020-11-13-现在买-iPad-有什么用？](https://www.v2ex.com/t/724947) 
-- [2020-11-13-npm-下载-图片压缩依赖包的问题](https://www.v2ex.com/t/724945) 

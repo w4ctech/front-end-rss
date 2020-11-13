@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-11-13 05:48:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 06:04:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-前端框架与-Django-配合比较不错的有吗？求推荐！（续：请教-Django-用来做个小工厂内部-MRP/ERP-可还行？-）](https://www.v2ex.com/t/724824) 
+- [2020-11-13-V-友们-显示器发出-啪-的声音正常嘛？](https://www.v2ex.com/t/724822) 
+- [2020-11-13-北京微博招聘高级-Java-系统开发工程师/后台全栈开发工程师](https://www.v2ex.com/t/724821) 
+- [2020-11-13-为何升级-macos11.0.1-后-奈飞始终无法-4k-而油管可以](https://www.v2ex.com/t/724820) 
+- [2020-11-13-升级-Big-Sur-之后，你们的-AirPods-切换功能好使吗？](https://www.v2ex.com/t/724818) 
+- [2020-11-13-问-big-sur-的，建议进来看看这个](https://www.v2ex.com/t/724817) 
+- [2020-11-13-借机安利一下我的一键安装脚本,快速安装一个漂亮强大的-iTerm2](https://www.v2ex.com/t/724816) 
 - [2020-11-13-国外-contractor-的工做时长-一天到底满载几小时](https://www.v2ex.com/t/724815) 
 - [2020-11-13-OS-X-与-Linux-桌面发行版的快捷键冲突有什么好的解决办法吗？](https://www.v2ex.com/t/724812) 
 - [2020-11-13-已升级-Big-Sur-的小伙伴们，-intel-的芯片可以运行-iOS-的-App-吗](https://www.v2ex.com/t/724811) 
@@ -37,10 +44,3 @@
 - [2020-11-13-分享个-ES-中文分词插件](https://www.v2ex.com/t/724777) 
 - [2020-11-13-快手-Y-tech-招聘直推部门老大，欢迎投递](https://www.v2ex.com/t/724776) 
 - [2020-11-13-go-项目引用本地其他项目的问题](https://www.v2ex.com/t/724775) 
-- [2020-11-13-问个不该问的，现在跑滴滴怎么样-兼职跑](https://www.v2ex.com/t/724773) 
-- [2020-11-13-身家国企，涨薪-40%，要不要去私企？](https://www.v2ex.com/t/724771) 
-- [2020-11-13-阿里云数据智能-DataV-团队招聘-Node.js-工程师](https://www.v2ex.com/t/724770) 
-- [2020-11-13-macos-big-sur-的-safari-没有翻译功能呀，请问怎么召唤出来](https://www.v2ex.com/t/724769) 
-- [2020-11-13-imac2019-的-21-寸升级-big-sur-提示：储存系统验证或修复失败-69716](https://www.v2ex.com/t/724768) 
-- [2020-11-13-最近开发了一个基于-imap-的-composer-包，附件和图片不好读取，有没有好方法读取](https://www.v2ex.com/t/724767) 
-- [2020-11-13-Angular-11-released](https://www.v2ex.com/t/724766) 

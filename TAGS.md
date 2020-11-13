@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-13 05:48:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 06:04:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -111,7 +111,6 @@
 
 
 
-- [【V2EX】阿里云数据智能-DataV-团队招聘-Node.js-工程师](https://www.v2ex.com/t/724770)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -220,6 +219,7 @@
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
 - [【掘金前端】CSS-实用技巧：伪元素&伪类的妙用](https://juejin.im/post/6894444655233105927)
+- [【掘金前端】我们真的需要Serverless吗-|-🏆-技术专题第七期征文](https://juejin.im/post/6894427723805622286)
 - [【前端艺术家&&飞冰早报】【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0)
 - [【前端艺术家&&飞冰早报】b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882)
 - [【前端艺术家&&飞冰早报】Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202)
@@ -335,7 +335,7 @@
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】Grafana-Unable-to-graph-data-switch-to-table-view](https://www.v2ex.com/t/724794)
 - [【V2EX】北京/深圳/武汉腾讯云数据安全团队急招后台开发高级攻城狮（c/c++/go）](https://www.v2ex.com/t/724779)
-- [【V2EX】macos-big-sur-的-safari-没有翻译功能呀，请问怎么召唤出来](https://www.v2ex.com/t/724769)
+- [【技术头条】移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +352,7 @@
 
 
 
+- [【V2EX】北京微博招聘高级-Java-系统开发工程师/后台全栈开发工程师](https://www.v2ex.com/t/724821)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -369,6 +370,7 @@
 
 
 - [【技术头条】【实战分享】从选型到项目落地，漫谈-gRPC-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13920&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F285221429%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

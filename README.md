@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 15:35:50，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 15:47:42，:rocket: 更新条数: +3068， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,6 +533,13 @@
 </summary>
 
 
+- [2020-11-13-中年人的焦虑，自由职业者如何在退休前保持“体面的收入”？](https://www.v2ex.com/t/725060) ![](assets/new.png)  
+- [2020-11-13-Surge4，-3-用户，自用-2-个，还有-1-个空位，出售。](https://www.v2ex.com/t/725059) ![](assets/new.png)  
+- [2020-11-13-网站-ipv6-打不开](https://www.v2ex.com/t/725058) ![](assets/new.png)  
+- [2020-11-13-请教，怎么样让老-mac-安装-big-sur](https://www.v2ex.com/t/725057) ![](assets/new.png)  
+- [2020-11-13-组了一台-3900x+2070s-的电脑,-游戏瘾解了,-有什么好的回本甚至盈利的方式吗?](https://www.v2ex.com/t/725056) ![](assets/new.png)  
+- [2020-11-13-在二线城区买了房还贷款中，农村老家还要修自建房吗？](https://www.v2ex.com/t/725055) ![](assets/new.png)  
+- [2020-11-13-速报，-aka.ms-被解析到-localhost-了](https://www.v2ex.com/t/725054) ![](assets/new.png)  
 - [2020-11-13-MacOS-Big-Sur-可用深信服-EasyConnect-7.6.7](https://www.v2ex.com/t/725053) ![](assets/new.png)  
 - [2020-11-13-请教各位大佬一个-mongoDb-表设计的问题，是否应该使用内嵌数组](https://www.v2ex.com/t/725052) ![](assets/new.png)  
 - [2020-11-13-你会用新出的-M1-芯片的苹果笔记本作为程序开发的笔记本么？为什么？](https://www.v2ex.com/t/725050) ![](assets/new.png)  
@@ -536,13 +553,6 @@
 - [2020-11-13-也许独立开发的关键并不是“开发”，甚至也不在于“独立”？](https://www.v2ex.com/t/725041) ![](assets/new.png)  
 - [2020-11-13-目前-FQ-代理/软件，哪家体验最好，推荐下。](https://www.v2ex.com/t/725040) ![](assets/new.png)  
 - [2020-11-13-老哥们，我感觉我写的代码像-shi-一样。。求指点](https://www.v2ex.com/t/725039) ![](assets/new.png)  
-- [2020-11-13-更新-big-sur-后，-svn-用不了了？](https://www.v2ex.com/t/725038) ![](assets/new.png)  
-- [2020-11-13-iPhone-12-pro-max-大家拿到手的有什么问题吗](https://www.v2ex.com/t/725037) ![](assets/new.png)  
-- [2020-11-13-Safari-性能问题](https://www.v2ex.com/t/725035) ![](assets/new.png)  
-- [2020-11-13-迫于日常想跑路，对于前端开发者来说有哪家公司推荐的吗](https://www.v2ex.com/t/725034) ![](assets/new.png)  
-- [2020-11-13-家宽在-OLT-上做限速对实际使用的影响？](https://www.v2ex.com/t/725033) ![](assets/new.png)  
-- [2020-11-13-求个可以当桌面背景的-Java-求职学习路线图](https://www.v2ex.com/t/725030) ![](assets/new.png)  
-- [2020-11-13-开源版-Jira---ActionView-v1.12.0-发布](https://www.v2ex.com/t/725027) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

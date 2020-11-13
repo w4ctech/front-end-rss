@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 14:22:16，:rocket: 更新条数: +3068， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 14:33:15，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,8 +533,8 @@
 </summary>
 
 
+- [2020-11-13-迫于日常想跑路，对于前端开发者来说有哪家公司推荐的吗](https://www.v2ex.com/t/725034) ![](assets/new.png)  
 - [2020-11-13-家宽在-OLT-上做限速对实际使用的影响？](https://www.v2ex.com/t/725033) ![](assets/new.png)  
-- [2020-11-13-腾讯-VIP+京东-VIP-一年-110](https://www.v2ex.com/t/725032) ![](assets/new.png)  
 - [2020-11-13-求个可以当桌面背景的-Java-求职学习路线图](https://www.v2ex.com/t/725030) ![](assets/new.png)  
 - [2020-11-13-开源版-Jira---ActionView-v1.12.0-发布](https://www.v2ex.com/t/725027) ![](assets/new.png)  
 - [2020-11-13-有谁的-Mac-mini-2018-升了-Big-Sur-么？感受如何](https://www.v2ex.com/t/725025) ![](assets/new.png)  

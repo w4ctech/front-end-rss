@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 02:04:28，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 02:12:31，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-13-IDEA-有没有什么比较便宜的入手方法？](https://www.v2ex.com/t/724701) ![](assets/new.png)  
+- [2020-11-13-网页聊天室--摸鱼首选](https://www.v2ex.com/t/724700) ![](assets/new.png)  
+- [2020-11-13-Gunicorn-能不能在-pypy-上运行？-pypy-有可能部署-web-服务吗？](https://www.v2ex.com/t/724699) ![](assets/new.png)  
+- [2020-11-13-职业生涯该走哪条路线？去外地大企业镀金还是本地小企业落灰？](https://www.v2ex.com/t/724698) ![](assets/new.png)  
+- [2020-11-13-mac-big-sur-正式版](https://www.v2ex.com/t/724697) ![](assets/new.png)  
 - [2020-11-13-2016-mbp-13-屏幕有键盘痕迹，擦不掉那种，没有啥屏幕计划吧？](https://www.v2ex.com/t/724694) ![](assets/new.png)  
 - [2020-11-13-为什么哔哩哔哩上视频的嵌入代码不能在-Google-浏览器上播放](https://www.v2ex.com/t/724693) ![](assets/new.png)  
 - [2020-11-13-iPhone-12-Pro-Max-已经在路上了](https://www.v2ex.com/t/724692) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-13-已经收到-Big-Sur-更新推送,要不要更?](https://www.v2ex.com/t/724672) ![](assets/new.png)  
 - [2020-11-13-不用-M1-芯片是否没必要升级到-Big-Sur？](https://www.v2ex.com/t/724671) ![](assets/new.png)  
 - [2020-11-13-我有一个想法，游戏与实体经济的结合？](https://www.v2ex.com/t/724670) ![](assets/new.png)  
-- [2020-11-13-快手社招，-Android-/-iOS-/-Java-/-Python-/前端/测试，可先加微信，年底或者明年初联系](https://www.v2ex.com/t/724669) ![](assets/new.png)  
-- [2020-11-13-关于博客网站访问速度问题](https://www.v2ex.com/t/724667) ![](assets/new.png)  
-- [2020-11-13-15-款-13-寸的-MF839-屏幕涂层脱落,-能回收多钱啊..](https://www.v2ex.com/t/724666) ![](assets/new.png)  
-- [2020-11-13-三七互娱内推-社招-中/高-Python-后端开发工程师-13-25K-广州](https://www.v2ex.com/t/724665) ![](assets/new.png)  
-- [2020-11-13-Google-面试题：-K-数之和](https://www.v2ex.com/t/724664) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,12 +605,12 @@
 - [2020-11-13-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
 - [2020-11-13-Envoy-VS-Traefik](https://toutiao.io/k/a469cxm) ![](assets/new.png)  
 - [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
-- [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
 - [2020-11-13-Monarch：谷歌的全球级内存时序数据库](https://toutiao.io/k/u8bs7ri) ![](assets/new.png)  
+- [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
 - [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
 - [2020-11-13-女朋友问我：小松子，你知道-Go-语言参数传递是传值还是传引用吗？](https://toutiao.io/k/l4lm6x2) ![](assets/new.png)  
-- [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
 - [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  
+- [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
 - [2020-11-13-Rancher-江鹏：从清华工程物理学硕士到云计算开源创业者](https://toutiao.io/k/qiz866z) ![](assets/new.png)  
 - [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
 - [2020-11-13-__proto__-和-prototype](https://toutiao.io/k/c9ew4zk) ![](assets/new.png)  

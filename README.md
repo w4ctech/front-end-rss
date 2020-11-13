@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 14:33:15，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 14:47:53，:rocket: 更新条数: +3056， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +523,11 @@
 </summary>
 
 
+- [2020-11-13-目前-FQ-代理/软件，哪家体验最好，推荐下。](https://www.v2ex.com/t/725040) ![](assets/new.png)  
+- [2020-11-13-老哥们，我感觉我写的代码像-shi-一样。。求指点](https://www.v2ex.com/t/725039) ![](assets/new.png)  
+- [2020-11-13-更新-big-sur-后，-svn-用不了了？](https://www.v2ex.com/t/725038) ![](assets/new.png)  
+- [2020-11-13-iPhone-12-pro-max-大家拿到手的有什么问题吗](https://www.v2ex.com/t/725037) ![](assets/new.png)  
+- [2020-11-13-Safari-性能问题](https://www.v2ex.com/t/725035) ![](assets/new.png)  
 - [2020-11-13-迫于日常想跑路，对于前端开发者来说有哪家公司推荐的吗](https://www.v2ex.com/t/725034) ![](assets/new.png)  
 - [2020-11-13-家宽在-OLT-上做限速对实际使用的影响？](https://www.v2ex.com/t/725033) ![](assets/new.png)  
 - [2020-11-13-求个可以当桌面背景的-Java-求职学习路线图](https://www.v2ex.com/t/725030) ![](assets/new.png)  
@@ -548,11 +543,6 @@
 - [2020-11-13-在-ubuntu-下开发支付宝小程序，官网没有支持-Linux-的，有什么专用开发工具推荐码](https://www.v2ex.com/t/725014) ![](assets/new.png)  
 - [2020-11-13-35-岁以后咱们可以干这行](https://www.v2ex.com/t/725013) ![](assets/new.png)  
 - [2020-11-13-一直在用-Big-Sur-测试版，突然无法更新了](https://www.v2ex.com/t/725012) ![](assets/new.png)  
-- [2020-11-13-求助，在世纪大道上班，去哪租房比较便宜路程在五十分钟内?](https://www.v2ex.com/t/725011) ![](assets/new.png)  
-- [2020-11-13-我想问个小问题，怎么禁止检测更新-Big-Sur-系统...](https://www.v2ex.com/t/725010) ![](assets/new.png)  
-- [2020-11-13-请问-，我有一张一百万数据的表，然后插入的时间顺序是乱的，时间格式是-'2020-01-01-00:00:00'-这样的数据（后面的时分秒都是'00:00:00'），求-2020-年某个字段...](https://www.v2ex.com/t/725008) ![](assets/new.png)  
-- [2020-11-13-iOS-YouTube-现在能画中画吗？-已是-premium](https://www.v2ex.com/t/725006) ![](assets/new.png)  
-- [2020-11-13-苏州-高视科技-深度学习开发人员和后端人员招聘](https://www.v2ex.com/t/725005) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

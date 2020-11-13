@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-13 19:32:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 19:48:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-阿里推出基于-FPGA发明者：-Xilinx-赛灵思的硬件编码器-XGH265](https://www.v2ex.com/t/725084) 
 - [2020-11-13-请教大佬们,多商户售卖虚拟产品平台需要什么资质,或有没提供此类二清解决方案的支付机构推荐?](https://www.v2ex.com/t/725082) 
 - [2020-11-13-云筏科技-CloudRaft-长期免费赠送服务器-4-核-16G-内存-500G-硬盘](https://www.v2ex.com/t/725081) 
 - [2020-11-13-升级-Big-Sur-后，-Dota2-卡顿](https://www.v2ex.com/t/725080) 
@@ -44,4 +45,3 @@
 - [2020-11-13-更新-big-sur-后，-svn-用不了了？](https://www.v2ex.com/t/725038) 
 - [2020-11-13-iPhone-12-pro-max-大家拿到手的有什么问题吗](https://www.v2ex.com/t/725037) 
 - [2020-11-13-Safari-性能问题](https://www.v2ex.com/t/725035) 
-- [2020-11-13-迫于日常想跑路，对于前端开发者来说有哪家公司推荐的吗](https://www.v2ex.com/t/725034) 

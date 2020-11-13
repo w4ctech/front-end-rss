@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 19:32:56，:rocket: 更新条数: +3303， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 19:48:01，:rocket: 更新条数: +3303， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-13-阿里推出基于-FPGA发明者：-Xilinx-赛灵思的硬件编码器-XGH265](https://www.v2ex.com/t/725084) ![](assets/new.png)  
 - [2020-11-13-请教大佬们,多商户售卖虚拟产品平台需要什么资质,或有没提供此类二清解决方案的支付机构推荐?](https://www.v2ex.com/t/725082) ![](assets/new.png)  
 - [2020-11-13-云筏科技-CloudRaft-长期免费赠送服务器-4-核-16G-内存-500G-硬盘](https://www.v2ex.com/t/725081) ![](assets/new.png)  
 - [2020-11-13-升级-Big-Sur-后，-Dota2-卡顿](https://www.v2ex.com/t/725080) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-13-ElasticSearch-如何迁移到新设备？](https://www.v2ex.com/t/725065) ![](assets/new.png)  
 - [2020-11-13-都扭成一条蛆了，还是按不响-F-和弦](https://www.v2ex.com/t/725063) ![](assets/new.png)  
 - [2020-11-13-中年人的焦虑，自由职业者如何在退休前保持“体面的收入”？](https://www.v2ex.com/t/725060) ![](assets/new.png)  
-- [2020-11-13-网站-ipv6-打不开](https://www.v2ex.com/t/725058) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -631,8 +631,8 @@
 - [2020-11-13-女朋友问我：小松子，你知道-Go-语言参数传递是传值还是传引用吗？](https://toutiao.io/k/l4lm6x2) ![](assets/new.png)  
 - [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
 - [2020-11-13-Rancher-江鹏：从清华工程物理学硕士到云计算开源创业者](https://toutiao.io/k/qiz866z) ![](assets/new.png)  
-- [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  
 - [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
+- [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  
 - [2020-11-13-__proto__-和-prototype](https://toutiao.io/k/c9ew4zk) ![](assets/new.png)  
 - [2020-11-13-Datapane：Python-数据分析报告生成库](https://toutiao.io/k/4obiqep) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

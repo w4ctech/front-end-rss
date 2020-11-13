@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 13:33:09，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 13:47:46，:rocket: 更新条数: +3024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -453,11 +453,6 @@
 </summary>
 
 
-- [2020-11-13-基于Less的动态主题切换，用于切换Antd主题简直好极了](https://juejin.im/post/6894546562459009037) ![](assets/new.png)  
-- [2020-11-13-基于vue的qiankun实践总结](https://juejin.im/post/6894543700387430408) ![](assets/new.png)  
-- [2020-11-13-揭秘React-redux](https://juejin.im/post/6894542873551699976) ![](assets/new.png)  
-- [2020-11-13-CSS布局之Grid](https://juejin.im/post/6894540841117810696) ![](assets/new.png)  
-- [2020-11-13-还在为写.vue文件烦恼吗？快来用dot-vue-cli交互式生成吧！](https://juejin.im/post/6894536331205017613) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,26 +528,6 @@
 </summary>
 
 
-- [2020-11-13-create-react-doc-—-基于-React-的文档站点生成工具](https://www.v2ex.com/t/725020) ![](assets/new.png)  
-- [2020-11-13-big-sur-的-Time-Machine-有问题!](https://www.v2ex.com/t/725019) ![](assets/new.png)  
-- [2020-11-13-Adobe-AIR-开发者、Flash-开发者、Nokia-Symbian-开发者、ActionScript-开发者，甚至把一个人的黄金时光用在了和史前时代浏览器兼容性问题打交道上的程序员们，...](https://www.v2ex.com/t/725017) ![](assets/new.png)  
-- [2020-11-13-关于一些网站的请求的验证](https://www.v2ex.com/t/725016) ![](assets/new.png)  
-- [2020-11-13-有没有好的关于操作系统的实验练习？](https://www.v2ex.com/t/725015) ![](assets/new.png)  
-- [2020-11-13-在-ubuntu-下开发支付宝小程序，官网没有支持-Linux-的，有什么专用开发工具推荐码](https://www.v2ex.com/t/725014) ![](assets/new.png)  
-- [2020-11-13-35-岁以后咱们可以干这行](https://www.v2ex.com/t/725013) ![](assets/new.png)  
-- [2020-11-13-一直在用-Big-Sur-测试版，突然无法更新了](https://www.v2ex.com/t/725012) ![](assets/new.png)  
-- [2020-11-13-求助，在世纪大道上班，去哪租房比较便宜路程在五十分钟内?](https://www.v2ex.com/t/725011) ![](assets/new.png)  
-- [2020-11-13-我想问个小问题，怎么禁止检测更新-Big-Sur-系统...](https://www.v2ex.com/t/725010) ![](assets/new.png)  
-- [2020-11-13-请问-，我有一张一百万数据的表，然后插入的时间顺序是乱的，时间格式是-'2020-01-01-00:00:00'-这样的数据（后面的时分秒都是'00:00:00'），求-2020-年某个字段...](https://www.v2ex.com/t/725008) ![](assets/new.png)  
-- [2020-11-13-iOS-YouTube-现在能画中画吗？-已是-premium](https://www.v2ex.com/t/725006) ![](assets/new.png)  
-- [2020-11-13-苏州-高视科技-深度学习开发人员和后端人员招聘](https://www.v2ex.com/t/725005) ![](assets/new.png)  
-- [2020-11-13-杭州|网易云音乐|前端开发-高级/资深前端开发工程师](https://www.v2ex.com/t/725003) ![](assets/new.png)  
-- [2020-11-13-请教大家下，-iPad-pro-2020-一个晚上耗电-5-6%（飞行模式），正常吗？](https://www.v2ex.com/t/725002) ![](assets/new.png)  
-- [2020-11-13-想搞一个存现金给自己分期的-app？](https://www.v2ex.com/t/725001) ![](assets/new.png)  
-- [2020-11-13-十年没有工作了！](https://www.v2ex.com/t/725000) ![](assets/new.png)  
-- [2020-11-13-Big-Sur-可以有限支持多键鼠标了](https://www.v2ex.com/t/724999) ![](assets/new.png)  
-- [2020-11-13-杭州阿里-新零售场景金融技术部--Java-p6p7](https://www.v2ex.com/t/724998) ![](assets/new.png)  
-- [2020-11-13-JavaScript-底层是怎么实现的，有相关书籍推荐吗？](https://www.v2ex.com/t/724997) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

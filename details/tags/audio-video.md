@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 09:33:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 09:47:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -79,7 +79,6 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-11-13-要录一个视频教程，该用什么软件？](https://www.v2ex.com/t/724908) 
-- [2020-11-13-flash-被禁用，-firefox-无法播放网页的视频怎么办？](https://www.v2ex.com/t/724902) 
 - [2020-11-12-YouTube遭遇全球性大宕机-所有视频播放报错](https://sec.thief.one/article_content?a_id=824f9968a6057f62b5cf006df547df2b) 
 - [2020-11-12-【视频】|-Python:删除漏删问题](https://sec.thief.one/article_content?a_id=e0fdfecc806b872d1e897b6f013d0efb) 
 - [2020-11-11-双十一巨惠:PWN入门视频听一期送一期](https://sec.thief.one/article_content?a_id=76b4d47cd9928509fc31d4d280ad5714) 

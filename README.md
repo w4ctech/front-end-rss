@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 09:33:08，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 09:47:42，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,10 @@
 </summary>
 
 
+- [2020-11-13-请教下，我在谷歌的-Blogger-博客关闭了谷歌引擎收录后还会被其他搜索引擎搜索到吗？](https://www.v2ex.com/t/724952) ![](assets/new.png)  
+- [2020-11-13-BiliOB-被告了](https://www.v2ex.com/t/724949) ![](assets/new.png)  
+- [2020-11-13-想辞职，但是现在的公司事多人还少，手头还有一大顿事情，我该找什么理由辞职呢？](https://www.v2ex.com/t/724948) ![](assets/new.png)  
+- [2020-11-13-现在买-iPad-有什么用？](https://www.v2ex.com/t/724947) ![](assets/new.png)  
 - [2020-11-13-npm-下载-图片压缩依赖包的问题](https://www.v2ex.com/t/724945) ![](assets/new.png)  
 - [2020-11-13-big-Sur-更新-始终下载不完是怎么回事](https://www.v2ex.com/t/724943) ![](assets/new.png)  
 - [2020-11-13-苏宁下单的-iphone12，深圳补贴问题](https://www.v2ex.com/t/724942) ![](assets/new.png)  
@@ -569,10 +573,6 @@
 - [2020-11-13-有买联想小新-air15-2021-锐龙版的老哥么？](https://www.v2ex.com/t/724931) ![](assets/new.png)  
 - [2020-11-13-本来以为-ios13-就够垃圾了，结果-ios14-更垃圾](https://www.v2ex.com/t/724930) ![](assets/new.png)  
 - [2020-11-13-与公司协商赔偿未果,公司已严重违纪要当天解除合同.](https://www.v2ex.com/t/724928) ![](assets/new.png)  
-- [2020-11-13-DaVinci-Resolve-今日发布-17.1-更新，支持-Apple-Silicon，宣称高达-5-倍性能提升](https://www.v2ex.com/t/724926) ![](assets/new.png)  
-- [2020-11-13-请教各位大家每天都看哪些资讯炒美股的话？](https://www.v2ex.com/t/724923) ![](assets/new.png)  
-- [2020-11-13-有没有办法批量截取-word-文档的前几页?](https://www.v2ex.com/t/724922) ![](assets/new.png)  
-- [2020-11-13-python3-一小段-code-求个简写](https://www.v2ex.com/t/724921) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

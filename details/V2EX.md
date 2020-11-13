@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-13 16:38:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 16:48:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-升级-Big-Sur-后无法联网了](https://www.v2ex.com/t/725072) 
+- [2020-11-13-异步和多线程这-2-个概念应该是什么个关系？](https://www.v2ex.com/t/725071) 
 - [2020-11-13-西湖区公寓转租](https://www.v2ex.com/t/725070) 
 - [2020-11-13-去深圳走走，有没有短期转租房间的小伙伴](https://www.v2ex.com/t/725069) 
 - [2020-11-13-今晚会有-Apple-M1-芯片新品的评测么？](https://www.v2ex.com/t/725067) 
@@ -39,4 +41,3 @@
 - [2020-11-13-开源版-Jira---ActionView-v1.12.0-发布](https://www.v2ex.com/t/725027) 
 - [2020-11-13-有谁的-Mac-mini-2018-升了-Big-Sur-么？感受如何](https://www.v2ex.com/t/725025) 
 - [2020-11-13-Microsoft-365-家庭版求开车或者自己开车](https://www.v2ex.com/t/725023) 
-- [2020-11-13-目前在做大数据开发方向，但是不会-hadoop，-Java-也没有很强，该怎么办呢？](https://www.v2ex.com/t/725021) 

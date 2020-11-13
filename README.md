@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 16:38:24，:rocket: 更新条数: +3064， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 16:48:10，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-13-升级-Big-Sur-后无法联网了](https://www.v2ex.com/t/725072) ![](assets/new.png)  
+- [2020-11-13-异步和多线程这-2-个概念应该是什么个关系？](https://www.v2ex.com/t/725071) ![](assets/new.png)  
 - [2020-11-13-西湖区公寓转租](https://www.v2ex.com/t/725070) ![](assets/new.png)  
 - [2020-11-13-去深圳走走，有没有短期转租房间的小伙伴](https://www.v2ex.com/t/725069) ![](assets/new.png)  
 - [2020-11-13-今晚会有-Apple-M1-芯片新品的评测么？](https://www.v2ex.com/t/725067) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-13-求教-MacBook-外接显示器问题](https://www.v2ex.com/t/725049) ![](assets/new.png)  
 - [2020-11-13-Office-问题请教，搜索引擎上的方法无效，困扰已久，求大神](https://www.v2ex.com/t/725048) ![](assets/new.png)  
 - [2020-11-13-有大佬知道-nginx-如何配置-cdn-嘛，想折腾一下了。。](https://www.v2ex.com/t/725047) ![](assets/new.png)  
-- [2020-11-13-Mac-的-App-Store-版本-QQ-收不到消息没人管？](https://www.v2ex.com/t/725046) ![](assets/new.png)  
-- [2020-11-13-产品经理岗求内推](https://www.v2ex.com/t/725045) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-13 22:35:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 22:48:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -500,7 +500,6 @@
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【V2EX】更新-big-sur-后，-svn-用不了了？](https://www.v2ex.com/t/725038)
-- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [【安全热点】10月份GitHub上最热门的Python开源项目](https://sec.thief.one/article_content?a_id=6ad6de7b25bc9a08074e0b11c7f31ed0)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -519,7 +518,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
-- [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [【安全热点】【美团招聘】冬季专场Vol.1~这13个岗位热招中!](https://sec.thief.one/article_content?a_id=0c94c23144faca42b66f855299c0988d)
 - [【安全热点】招聘-|-上海埃帕信息科技有限公司](https://sec.thief.one/article_content?a_id=b64567b976b9fa210b3a50d12fc1ca55)
 - [【安全热点】感谢“您”面试我,却狠拒绝了“我”](https://sec.thief.one/article_content?a_id=28d77d39c4ed270dab1b724a478b4f72)

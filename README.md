@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 17:03:59，:rocket: 更新条数: +3029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 17:11:11，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-13-请问-Safari14-启示页的背景图怎么提取？](https://www.v2ex.com/t/725075) ![](assets/new.png)  
+- [2020-11-13-如何设置-mac-vnc-的色彩](https://www.v2ex.com/t/725074) ![](assets/new.png)  
+- [2020-11-13-Big-Sur-出了，求劝退](https://www.v2ex.com/t/725073) ![](assets/new.png)  
+- [2020-11-13-升级-Big-Sur-后无法联网了](https://www.v2ex.com/t/725072) ![](assets/new.png)  
+- [2020-11-13-异步和多线程这-2-个概念应该是什么个关系？](https://www.v2ex.com/t/725071) ![](assets/new.png)  
+- [2020-11-13-西湖区公寓转租](https://www.v2ex.com/t/725070) ![](assets/new.png)  
+- [2020-11-13-去深圳走走，有没有短期转租房间的小伙伴](https://www.v2ex.com/t/725069) ![](assets/new.png)  
+- [2020-11-13-今晚会有-Apple-M1-芯片新品的评测么？](https://www.v2ex.com/t/725067) ![](assets/new.png)  
+- [2020-11-13-谈谈-iPhone-12-mini](https://www.v2ex.com/t/725066) ![](assets/new.png)  
+- [2020-11-13-ElasticSearch-如何迁移到新设备？](https://www.v2ex.com/t/725065) ![](assets/new.png)  
+- [2020-11-13-都扭成一条蛆了，还是按不响-F-和弦](https://www.v2ex.com/t/725063) ![](assets/new.png)  
+- [2020-11-13-中年人的焦虑，自由职业者如何在退休前保持“体面的收入”？](https://www.v2ex.com/t/725060) ![](assets/new.png)  
+- [2020-11-13-网站-ipv6-打不开](https://www.v2ex.com/t/725058) ![](assets/new.png)  
+- [2020-11-13-请教，怎么样让老-mac-安装-big-sur](https://www.v2ex.com/t/725057) ![](assets/new.png)  
+- [2020-11-13-组了一台-3900x+2070s-的电脑,-游戏瘾解了,-有什么好的回本甚至盈利的方式吗?](https://www.v2ex.com/t/725056) ![](assets/new.png)  
+- [2020-11-13-在二线城区买了房还贷款中，农村老家还要修自建房吗？](https://www.v2ex.com/t/725055) ![](assets/new.png)  
+- [2020-11-13-速报，-aka.ms-被解析到-localhost-了](https://www.v2ex.com/t/725054) ![](assets/new.png)  
+- [2020-11-13-MacOS-Big-Sur-可用深信服-EasyConnect-7.6.7](https://www.v2ex.com/t/725053) ![](assets/new.png)  
+- [2020-11-13-请教各位大佬一个-mongoDb-表设计的问题，是否应该使用内嵌数组](https://www.v2ex.com/t/725052) ![](assets/new.png)  
+- [2020-11-13-你会用新出的-M1-芯片的苹果笔记本作为程序开发的笔记本么？为什么？](https://www.v2ex.com/t/725050) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-13 17:03:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 17:11:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -161,6 +161,7 @@
 
 
 
+- [【V2EX】组了一台-3900x+2070s-的电脑,-游戏瘾解了,-有什么好的回本甚至盈利的方式吗?](https://www.v2ex.com/t/725056)
 - [【安全热点】虎符智库|机密计算:数据安全游戏的终结者?](https://sec.thief.one/article_content?a_id=fb70a9aad863055dc8248b6626a32315)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -298,6 +299,7 @@
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】Safari-性能问题](https://www.v2ex.com/t/725035)
 - [【技术头条】Android网络性能监控方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13921&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778070%3Futm_content%3Dg_1000203100%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】T级内存，创建效率提升10倍以上，阿里云-KVM异构虚拟机启动时间优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13918&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777709%3Futm_content%3Dg_1000203098%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -332,10 +334,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】请问-Safari14-启示页的背景图怎么提取？](https://www.v2ex.com/t/725075)
+- [【V2EX】开源版-Jira---ActionView-v1.12.0-发布](https://www.v2ex.com/t/725027)
 - [【技术头条】移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm)
-- [【安全热点】腾讯Q3财报背后的“神秘”新能量-企业级安全业务成ToB新动力](https://sec.thief.one/article_content?a_id=11a4e45ea9edaac915cbcca3eb7b69b4)
-- [【安全热点】业内最多!奇安信六大项目入围2020工信部网络安全技术应用试点示范...](https://sec.thief.one/article_content?a_id=fbc7a66db3a435d80fd612127644f8b0)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +354,7 @@
 
 
 
+- [【V2EX】ElasticSearch-如何迁移到新设备？](https://www.v2ex.com/t/725065)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -368,7 +371,9 @@
 
 
 
+- [【V2EX】有大佬知道-nginx-如何配置-cdn-嘛，想折腾一下了。。](https://www.v2ex.com/t/725047)
 - [【技术头条】【实战分享】从选型到项目落地，漫谈-gRPC-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13920&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F285221429%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -385,7 +390,7 @@
 
 
 
-- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
+- [【V2EX】更新-big-sur-后，-svn-用不了了？](https://www.v2ex.com/t/725038)
 - [【安全热点】10月份GitHub上最热门的Python开源项目](https://sec.thief.one/article_content?a_id=6ad6de7b25bc9a08074e0b11c7f31ed0)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -404,7 +409,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
-- [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [【安全热点】【美团招聘】冬季专场Vol.1~这13个岗位热招中!](https://sec.thief.one/article_content?a_id=0c94c23144faca42b66f855299c0988d)
 - [【安全热点】招聘-|-上海埃帕信息科技有限公司](https://sec.thief.one/article_content?a_id=b64567b976b9fa210b3a50d12fc1ca55)
 - [【安全热点】感谢“您”面试我,却狠拒绝了“我”](https://sec.thief.one/article_content?a_id=28d77d39c4ed270dab1b724a478b4f72)

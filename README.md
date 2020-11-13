@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 01:36:02，:rocket: 更新条数: +3064， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 01:47:54，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-11-12-11月12日全国新增境外输入新冠8例-累计确诊86307例](https://m.caixin.com/m/2020-11-13/101627028.html) ![](assets/new.png)  
 - [2020-11-11-【境内疫情观察】天津新增1例本土确诊病例（11月11日）](http://m.database.caixin.com/m/2020-11-12/101626650.html) ![](assets/new.png)  
 - [2020-11-11-大流行手记|11月11日：美拟12月启动新冠疫苗接种-欧洲多国医疗体系负重](https://m.caixin.com/m/2020-11-12/101626574.html) ![](assets/new.png)  
 - [2020-11-11-日本忧第三波疫情袭来-北海道入冬病例又激增](http://m.international.caixin.com/m/2020-11-12/101626896.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-09-解药|新冠mRNA疫苗乐观数据搅动全球资本市场-仍有不确定性](https://m.caixin.com/m/2020-11-10/101625389.html) ![](assets/new.png)  
 - [2020-11-08-上海浦东新冠确诊者感染源排查中-所住村庄已封闭](https://m.caixin.com/m/2020-11-09/101625278.html) ![](assets/new.png)  
 - [2020-11-08-【境内疫情观察】天津新增1例本土确诊病例（11月8日）](http://m.database.caixin.com/m/2020-11-09/101625051.html) ![](assets/new.png)  
-- [2020-11-08-大流行手记|11月8日：法国延长卫生紧急状态-英国近半教师不满校园防控举措](https://m.caixin.com/m/2020-11-09/101624597.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-13-武汉发现3份巴西进口牛肉标本新冠病毒核酸检测呈阳性-未流入市场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLDgH0Xd3lYJK5ZvBxuQo201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-疫情致巴西圣保罗州超50万学生缺课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidjCtcDSSN4UIXtBGdOYy201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-英国单日新增新冠肺炎确诊病例33470例-为疫情开始以来最高纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiSVYNw8812udJlcUBZtk201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-以色列将中国列入入境无需隔离的“绿色”国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5uvjdCVU7q7TQ4PRxBcT201112&isfromapp=1) ![](assets/new.png)  
 - [2020-11-12-香港新增23例新冠肺炎确诊病例-累计确诊5431例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEu8Pbl2GQDQmtHGcSngi201112&isfromapp=1) ![](assets/new.png)  
-- [2020-11-12-美国新冠肺炎确诊病例超1040万-累计死亡超24万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij8F1vMI64hJE1pRbsOAR201112&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-13-docker-挂载非空目录无效？](https://www.v2ex.com/t/724680) ![](assets/new.png)  
+- [2020-11-13-Big-Sur-不能-brew-update-了？-VirtualBox-不能启动？唉～](https://www.v2ex.com/t/724677) ![](assets/new.png)  
+- [2020-11-13-12G+的安装包-请问升级-大概要多久?](https://www.v2ex.com/t/724674) ![](assets/new.png)  
 - [2020-11-13-已经收到-Big-Sur-更新推送,要不要更?](https://www.v2ex.com/t/724672) ![](assets/new.png)  
 - [2020-11-13-不用-M1-芯片是否没必要升级到-Big-Sur？](https://www.v2ex.com/t/724671) ![](assets/new.png)  
 - [2020-11-13-我有一个想法，游戏与实体经济的结合？](https://www.v2ex.com/t/724670) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-13-vscode-的命令行调用及其使用问题：怎么启动远程工作区？](https://www.v2ex.com/t/724652) ![](assets/new.png)  
 - [2020-11-13-《爱幕》一个在线字幕编辑器，支持视频转码、语音识别、字幕翻译和一键字幕压制等等](https://www.v2ex.com/t/724651) ![](assets/new.png)  
 - [2020-11-13-大佬们，你们都是多久提离职的。](https://www.v2ex.com/t/724650) ![](assets/new.png)  
-- [2020-11-13-本地时间-实时问题](https://www.v2ex.com/t/724649) ![](assets/new.png)  
-- [2020-11-13-Python-之父加入微软，这是什么情况？谁给分析分析？](https://www.v2ex.com/t/724647) ![](assets/new.png)  
-- [2020-11-13-询问-iPhone-数据迁移，我的有点特殊](https://www.v2ex.com/t/724646) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -596,8 +596,8 @@
 
 
 - [2020-11-13-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
-- [2020-11-13-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
 - [2020-11-13-我用-Python-找出了删除我微信的所有人并将他们自动化删除了](https://toutiao.io/k/km6796s) ![](assets/new.png)  
+- [2020-11-13-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
 - [2020-11-13-华东师范大学的数据库系统研究](https://toutiao.io/k/vjryow7) ![](assets/new.png)  
 - [2020-11-13-Go-设计模式（二十四）：总结](https://toutiao.io/k/ch4mr21) ![](assets/new.png)  
 - [2020-11-13-Hugo-之旅](https://toutiao.io/k/5ubz2q0) ![](assets/new.png)  
@@ -605,15 +605,15 @@
 - [2020-11-13-Envoy-VS-Traefik](https://toutiao.io/k/a469cxm) ![](assets/new.png)  
 - [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
 - [2020-11-13-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
-- [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
 - [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
+- [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
 - [2020-11-13-Monarch：谷歌的全球级内存时序数据库](https://toutiao.io/k/u8bs7ri) ![](assets/new.png)  
 - [2020-11-13-女朋友问我：小松子，你知道-Go-语言参数传递是传值还是传引用吗？](https://toutiao.io/k/l4lm6x2) ![](assets/new.png)  
 - [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
 - [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  
+- [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
 - [2020-11-13-Rancher-江鹏：从清华工程物理学硕士到云计算开源创业者](https://toutiao.io/k/qiz866z) ![](assets/new.png)  
 - [2020-11-13-__proto__-和-prototype](https://toutiao.io/k/c9ew4zk) ![](assets/new.png)  
-- [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
 - [2020-11-13-Datapane：Python-数据分析报告生成库](https://toutiao.io/k/4obiqep) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

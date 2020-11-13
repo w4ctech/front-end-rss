@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 05:20:08，:rocket: 更新条数: +3070， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 05:32:55，:rocket: 更新条数: +3069， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-13-谷歌面试官：不给我留提问时间，怎么给你-offer？](https://www.v2ex.com/t/724809) ![](assets/new.png)  
+- [2020-11-13-iPhone-的神经网络引擎是如何学习的？](https://www.v2ex.com/t/724808) ![](assets/new.png)  
+- [2020-11-13-如何在官网购买-macbookpro-2020-i5-的机器](https://www.v2ex.com/t/724807) ![](assets/new.png)  
+- [2020-11-13-现在-win10-比较好用的版本是什么？-LTSC？](https://www.v2ex.com/t/724806) ![](assets/new.png)  
+- [2020-11-13-树莓派-3/4-安装-FreeBSD](https://www.v2ex.com/t/724805) ![](assets/new.png)  
 - [2020-11-13-西安联通申请公网-ip](https://www.v2ex.com/t/724804) ![](assets/new.png)  
 - [2020-11-13-UniversalMailer-在-Big-Sur-11.0.1-中挂了，泪崩](https://www.v2ex.com/t/724802) ![](assets/new.png)  
 - [2020-11-13-每天一道-BAT-面试题](https://www.v2ex.com/t/724801) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-13-手持-iPhone-7，换-12-需要买充电器和线吗？](https://www.v2ex.com/t/724790) ![](assets/new.png)  
 - [2020-11-13-Big-Sur-的顶部栏特别渣-能不升级还是别升级了](https://www.v2ex.com/t/724789) ![](assets/new.png)  
 - [2020-11-13-IPLC-用于-dns-分流查询太爽了.](https://www.v2ex.com/t/724788) ![](assets/new.png)  
-- [2020-11-13-Google-App-中的内容如何在网页上浏览?](https://www.v2ex.com/t/724787) ![](assets/new.png)  
-- [2020-11-13-有奖体验-CODING-产品，-iPad-Pro、HHKB-键盘等超级礼包等你来！](https://www.v2ex.com/t/724783) ![](assets/new.png)  
-- [2020-11-13-有-APP-流量需要变现的兄弟进](https://www.v2ex.com/t/724782) ![](assets/new.png)  
-- [2020-11-13-想玩-Switch-还没上车的小伙伴可以看看这个](https://www.v2ex.com/t/724780) ![](assets/new.png)  
-- [2020-11-13-北京/深圳/武汉腾讯云数据安全团队急招后台开发高级攻城狮（c/c++/go）](https://www.v2ex.com/t/724779) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -610,8 +610,8 @@
 - [2020-11-13-女朋友问我：小松子，你知道-Go-语言参数传递是传值还是传引用吗？](https://toutiao.io/k/l4lm6x2) ![](assets/new.png)  
 - [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
 - [2020-11-13-Rancher-江鹏：从清华工程物理学硕士到云计算开源创业者](https://toutiao.io/k/qiz866z) ![](assets/new.png)  
-- [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  
 - [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
+- [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  
 - [2020-11-13-__proto__-和-prototype](https://toutiao.io/k/c9ew4zk) ![](assets/new.png)  
 - [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
 - [2020-11-13-Datapane：Python-数据分析报告生成库](https://toutiao.io/k/4obiqep) ![](assets/new.png)  

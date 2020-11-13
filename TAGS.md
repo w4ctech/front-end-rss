@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-13 01:47:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 02:04:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -330,10 +330,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】Big-Sur-下载多次失败后，点击下载立马-failed，你们知道怎样把下载的缓存文件和更新记录都清除，从头再来吗](https://www.v2ex.com/t/724645)
 - [【技术头条】移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm)
+- [【安全热点】小米AIoT安全峰会议题回顾|安全可信体系:系统可信标准解读与实践](https://sec.thief.one/article_content?a_id=641a73a1bccd856b083362ba69a79d6c)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -367,7 +367,6 @@
 
 
 - [【V2EX】docker-挂载非空目录无效？](https://www.v2ex.com/t/724680)
-- [【V2EX】Apple-的-M1-CPU，目前还不支持-docker，太纠结了](https://www.v2ex.com/t/724638)
 - [【技术头条】【实战分享】从选型到项目落地，漫谈-gRPC-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13920&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F285221429%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t)
 - [......【查看更多】......](./details/tags/server.md)
@@ -386,7 +385,7 @@
 
 
 
-- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
+- [【V2EX】我实现了一个-“GitHub-Pages”，想简化静态博客写作体验，开发出了产品原型-BlogHub，想找一名前端一起开发下去](https://www.v2ex.com/t/724686)
 - [【安全热点】10月份GitHub上最热门的Python开源项目](https://sec.thief.one/article_content?a_id=6ad6de7b25bc9a08074e0b11c7f31ed0)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -475,6 +474,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】11月12日全国新增境外输入新冠8例-累计确诊86307例](https://m.caixin.com/m/2020-11-13/101627028.html)
+- [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月12日：美28名大选工作人员感染-英格兰67个地区本周全城检测](https://m.caixin.com/m/2020-11-13/101627043.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】天津新增1例本土确诊病例（11月11日）](http://m.database.caixin.com/m/2020-11-12/101626650.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月11日：美拟12月启动新冠疫苗接种-欧洲多国医疗体系负重](https://m.caixin.com/m/2020-11-12/101626574.html)
 - [【武汉肺炎防疫全纪录(财新网)】日本忧第三波疫情袭来-北海道入冬病例又激增](http://m.international.caixin.com/m/2020-11-12/101626896.html)
@@ -493,7 +493,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗乐观数据搅动全球资本市场-仍有不确定性](https://m.caixin.com/m/2020-11-10/101625389.html)
 - [【武汉肺炎防疫全纪录(财新网)】上海浦东新冠确诊者感染源排查中-所住村庄已封闭](https://m.caixin.com/m/2020-11-09/101625278.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】天津新增1例本土确诊病例（11月8日）](http://m.database.caixin.com/m/2020-11-09/101625051.html)
-- [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月8日：法国延长卫生紧急状态-英国近半教师不满校园防控举措](https://m.caixin.com/m/2020-11-09/101624597.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

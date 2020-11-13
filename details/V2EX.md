@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2020-11-13 01:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 02:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-2016-mbp-13-屏幕有键盘痕迹，擦不掉那种，没有啥屏幕计划吧？](https://www.v2ex.com/t/724694) 
+- [2020-11-13-为什么哔哩哔哩上视频的嵌入代码不能在-Google-浏览器上播放](https://www.v2ex.com/t/724693) 
+- [2020-11-13-iPhone-12-Pro-Max-已经在路上了](https://www.v2ex.com/t/724692) 
+- [2020-11-13-求助-第一次入手-iPhone](https://www.v2ex.com/t/724691) 
+- [2020-11-13-关于手机与-PC-跨屏协同的实现的一些疑问](https://www.v2ex.com/t/724690) 
+- [2020-11-13-V-友们，网购的衣服有味道，一般咋处理？](https://www.v2ex.com/t/724688) 
+- [2020-11-13-是不是装了-RC2-的版本就不会收到正式版的推送了？](https://www.v2ex.com/t/724687) 
+- [2020-11-13-我实现了一个-“GitHub-Pages”，想简化静态博客写作体验，开发出了产品原型-BlogHub，想找一名前端一起开发下去](https://www.v2ex.com/t/724686) 
+- [2020-11-13-你们在-mac-使用应用程序是喜欢全屏还是非全屏](https://www.v2ex.com/t/724682) 
 - [2020-11-13-docker-挂载非空目录无效？](https://www.v2ex.com/t/724680) 
 - [2020-11-13-Big-Sur-不能-brew-update-了？-VirtualBox-不能启动？唉～](https://www.v2ex.com/t/724677) 
 - [2020-11-13-12G+的安装包-请问升级-大概要多久?](https://www.v2ex.com/t/724674) 
@@ -28,13 +37,3 @@
 - [2020-11-13-本地时间-实时问题](https://www.v2ex.com/t/724649) 
 - [2020-11-13-Python-之父加入微软，这是什么情况？谁给分析分析？](https://www.v2ex.com/t/724647) 
 - [2020-11-13-询问-iPhone-数据迁移，我的有点特殊](https://www.v2ex.com/t/724646) 
-- [2020-11-13-Big-Sur-下载多次失败后，点击下载立马-failed，你们知道怎样把下载的缓存文件和更新记录都清除，从头再来吗](https://www.v2ex.com/t/724645) 
-- [2020-11-12-JavaScript-有没有办法当查询某对象不存在某属性时返回一个默认值？](https://www.v2ex.com/t/724644) 
-- [2020-11-12-已经更新-macOS-bugsur-的同学们，你们的虚拟机（VirtualBox-和-VMware-还好吗？）-现阶段建议立刻更新/观望？](https://www.v2ex.com/t/724643) 
-- [2020-11-12-big-sur-下载老是失败的可以试试这个](https://www.v2ex.com/t/724641) 
-- [2020-11-12-人生如此艰难，尤其是负责-Legacy-Code.-2](https://www.v2ex.com/t/724639) 
-- [2020-11-12-Apple-的-M1-CPU，目前还不支持-docker，太纠结了](https://www.v2ex.com/t/724638) 
-- [2020-11-12-有勇士把-macos-升级到了-Big-Sur-吗](https://www.v2ex.com/t/724635) 
-- [2020-11-12-两系统一起更新，求平安](https://www.v2ex.com/t/724633) 
-- [2020-11-12-如何下载-Youtobu-的广告](https://www.v2ex.com/t/724632) 
-- [2020-11-12-2-个月-Python-转-Java-开发来得及吗](https://www.v2ex.com/t/724631) 

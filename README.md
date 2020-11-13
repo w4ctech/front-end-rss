@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 01:47:54，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 02:04:28，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-11-12-11月12日全国新增境外输入新冠8例-累计确诊86307例](https://m.caixin.com/m/2020-11-13/101627028.html) ![](assets/new.png)  
+- [2020-11-12-大流行手记|11月12日：美28名大选工作人员感染-英格兰67个地区本周全城检测](https://m.caixin.com/m/2020-11-13/101627043.html) ![](assets/new.png)  
 - [2020-11-11-【境内疫情观察】天津新增1例本土确诊病例（11月11日）](http://m.database.caixin.com/m/2020-11-12/101626650.html) ![](assets/new.png)  
 - [2020-11-11-大流行手记|11月11日：美拟12月启动新冠疫苗接种-欧洲多国医疗体系负重](https://m.caixin.com/m/2020-11-12/101626574.html) ![](assets/new.png)  
 - [2020-11-11-日本忧第三波疫情袭来-北海道入冬病例又激增](http://m.international.caixin.com/m/2020-11-12/101626896.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-09-解药|礼来首获新冠中和抗体紧急使用授权-意外领先再生元](https://m.caixin.com/m/2020-11-10/101625722.html) ![](assets/new.png)  
 - [2020-11-09-解药|新冠mRNA疫苗乐观数据搅动全球资本市场-仍有不确定性](https://m.caixin.com/m/2020-11-10/101625389.html) ![](assets/new.png)  
 - [2020-11-08-上海浦东新冠确诊者感染源排查中-所住村庄已封闭](https://m.caixin.com/m/2020-11-09/101625278.html) ![](assets/new.png)  
-- [2020-11-08-【境内疫情观察】天津新增1例本土确诊病例（11月8日）](http://m.database.caixin.com/m/2020-11-09/101625051.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,15 @@
 </summary>
 
 
+- [2020-11-13-2016-mbp-13-屏幕有键盘痕迹，擦不掉那种，没有啥屏幕计划吧？](https://www.v2ex.com/t/724694) ![](assets/new.png)  
+- [2020-11-13-为什么哔哩哔哩上视频的嵌入代码不能在-Google-浏览器上播放](https://www.v2ex.com/t/724693) ![](assets/new.png)  
+- [2020-11-13-iPhone-12-Pro-Max-已经在路上了](https://www.v2ex.com/t/724692) ![](assets/new.png)  
+- [2020-11-13-求助-第一次入手-iPhone](https://www.v2ex.com/t/724691) ![](assets/new.png)  
+- [2020-11-13-关于手机与-PC-跨屏协同的实现的一些疑问](https://www.v2ex.com/t/724690) ![](assets/new.png)  
+- [2020-11-13-V-友们，网购的衣服有味道，一般咋处理？](https://www.v2ex.com/t/724688) ![](assets/new.png)  
+- [2020-11-13-是不是装了-RC2-的版本就不会收到正式版的推送了？](https://www.v2ex.com/t/724687) ![](assets/new.png)  
+- [2020-11-13-我实现了一个-“GitHub-Pages”，想简化静态博客写作体验，开发出了产品原型-BlogHub，想找一名前端一起开发下去](https://www.v2ex.com/t/724686) ![](assets/new.png)  
+- [2020-11-13-你们在-mac-使用应用程序是喜欢全屏还是非全屏](https://www.v2ex.com/t/724682) ![](assets/new.png)  
 - [2020-11-13-docker-挂载非空目录无效？](https://www.v2ex.com/t/724680) ![](assets/new.png)  
 - [2020-11-13-Big-Sur-不能-brew-update-了？-VirtualBox-不能启动？唉～](https://www.v2ex.com/t/724677) ![](assets/new.png)  
 - [2020-11-13-12G+的安装包-请问升级-大概要多久?](https://www.v2ex.com/t/724674) ![](assets/new.png)  
@@ -544,15 +553,6 @@
 - [2020-11-13-15-款-13-寸的-MF839-屏幕涂层脱落,-能回收多钱啊..](https://www.v2ex.com/t/724666) ![](assets/new.png)  
 - [2020-11-13-三七互娱内推-社招-中/高-Python-后端开发工程师-13-25K-广州](https://www.v2ex.com/t/724665) ![](assets/new.png)  
 - [2020-11-13-Google-面试题：-K-数之和](https://www.v2ex.com/t/724664) ![](assets/new.png)  
-- [2020-11-13-之前装了一个宽带，最近又装了电信同城宽带，发现给的都是旧猫](https://www.v2ex.com/t/724663) ![](assets/new.png)  
-- [2020-11-13-在路由器或电脑上直接修改-dns-为-114，但通过一些网页查看出口-dns-结果却不是-114，-是什么原因](https://www.v2ex.com/t/724662) ![](assets/new.png)  
-- [2020-11-13-坐标上海，京东上买了个东西给发到四川去了？满头问号](https://www.v2ex.com/t/724660) ![](assets/new.png)  
-- [2020-11-13-京东金融三年免费换新居然要补差价??](https://www.v2ex.com/t/724656) ![](assets/new.png)  
-- [2020-11-13-观望-macOS-Big-Sur-更新的勇士们，说说你们正式版的体验？](https://www.v2ex.com/t/724655) ![](assets/new.png)  
-- [2020-11-13-16-寸-MBP-使用第三方充电器有什么问题码？](https://www.v2ex.com/t/724653) ![](assets/new.png)  
-- [2020-11-13-vscode-的命令行调用及其使用问题：怎么启动远程工作区？](https://www.v2ex.com/t/724652) ![](assets/new.png)  
-- [2020-11-13-《爱幕》一个在线字幕编辑器，支持视频转码、语音识别、字幕翻译和一键字幕压制等等](https://www.v2ex.com/t/724651) ![](assets/new.png)  
-- [2020-11-13-大佬们，你们都是多久提离职的。](https://www.v2ex.com/t/724650) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,8 @@
 </summary>
 
 
+- [2020-11-13-专访李飞飞-：从清华附中高材生到阿里飞刀，一口井钻出「云原生」-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13929&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778031%3Futm_content%3Dg_1000204969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-你的测试写全了吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13928&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftesting-cover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-我对云原生软件架构的观察与思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13927&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778175%3Futm_content%3Dg_1000203704%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-58.3万笔/秒！看阿里的黑科技-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13926&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778162%3Futm_content%3Dg_1000203703%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-我们身边的网络流量-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13925&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778158%3Futm_content%3Dg_1000203702%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -582,8 +584,6 @@
 - [2020-11-13-阿里云高级技术专家白常明：边缘云的技术挑战和应用创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13912&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777813%3Futm_content%3Dg_1000202456%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-在大规模-Kubernetes-集群上实现高-SLO-的方法-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13911&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777816%3Futm_content%3Dg_1000201987%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-13-玩转ECS第6讲-|-弹性计算Region化部署和跨可用区容灾介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13909&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777714%3Futm_content%3Dg_1000201986%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-13-基于-Flink-SQL-CDC-的实时数据同步方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13908&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777502%3Futm_content%3Dg_1000201984%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,17 +602,17 @@
 - [2020-11-13-Go-设计模式（二十四）：总结](https://toutiao.io/k/ch4mr21) ![](assets/new.png)  
 - [2020-11-13-Hugo-之旅](https://toutiao.io/k/5ubz2q0) ![](assets/new.png)  
 - [2020-11-13-人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm) ![](assets/new.png)  
+- [2020-11-13-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
 - [2020-11-13-Envoy-VS-Traefik](https://toutiao.io/k/a469cxm) ![](assets/new.png)  
 - [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
-- [2020-11-13-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
 - [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
-- [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
 - [2020-11-13-Monarch：谷歌的全球级内存时序数据库](https://toutiao.io/k/u8bs7ri) ![](assets/new.png)  
+- [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
 - [2020-11-13-女朋友问我：小松子，你知道-Go-语言参数传递是传值还是传引用吗？](https://toutiao.io/k/l4lm6x2) ![](assets/new.png)  
 - [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
 - [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  
-- [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
 - [2020-11-13-Rancher-江鹏：从清华工程物理学硕士到云计算开源创业者](https://toutiao.io/k/qiz866z) ![](assets/new.png)  
+- [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
 - [2020-11-13-__proto__-和-prototype](https://toutiao.io/k/c9ew4zk) ![](assets/new.png)  
 - [2020-11-13-Datapane：Python-数据分析报告生成库](https://toutiao.io/k/4obiqep) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -14598,6 +14598,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "35 岁以后咱们可以干这行",
+        "link": "https://www.v2ex.com/t/725013",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "一直在用 Big Sur 测试版，突然无法更新了",
+        "link": "https://www.v2ex.com/t/725012",
+        "date": "2020-11-13"
+      },
+      {
         "title": "求助，在世纪大道上班，去哪租房比较便宜(路程在五十分钟内)?",
         "link": "https://www.v2ex.com/t/725011",
         "date": "2020-11-13"
@@ -14791,16 +14801,6 @@
         "title": "[渗透测试工程师内推-北上杭深]",
         "link": "https://www.v2ex.com/t/724965",
         "date": "2020-11-13"
-      },
-      {
-        "title": "[周六 20 点讲座] 阿里 P8 教你如何破解 JD 要求",
-        "link": "https://www.v2ex.com/t/724963",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "有人组团订阅 Timing Mac 版吗",
-        "link": "https://www.v2ex.com/t/724962",
-        "date": "2020-11-13"
       }
     ]
   },
@@ -14967,6 +14967,11 @@
         "date": "2020-11-13"
       },
       {
+        "title": "工具 | 腾讯开源的，专为 API 而生的 JSON 网络传输协议以及基于这套协议实现的 ORM 库",
+        "link": "https://toutiao.io/k/djmlzgr",
+        "date": "2020-11-13"
+      },
+      {
         "title": "Envoy VS Traefik",
         "link": "https://toutiao.io/k/a469cxm",
         "date": "2020-11-13"
@@ -14987,23 +14992,18 @@
         "date": "2020-11-13"
       },
       {
-        "title": "工具 | 腾讯开源的，专为 API 而生的 JSON 网络传输协议以及基于这套协议实现的 ORM 库",
-        "link": "https://toutiao.io/k/djmlzgr",
-        "date": "2020-11-13"
-      },
-      {
         "title": "Rancher 江鹏：从清华工程物理学硕士到云计算开源创业者",
         "link": "https://toutiao.io/k/qiz866z",
         "date": "2020-11-13"
       },
       {
-        "title": "移植 Lua 到鸿蒙：首个移植成功的编程语言",
-        "link": "https://toutiao.io/k/ocqdm4m",
+        "title": "CODING 实践指南：基于 CVM 离线部署 Kubernetes",
+        "link": "https://toutiao.io/k/mkqe175",
         "date": "2020-11-13"
       },
       {
-        "title": "CODING 实践指南：基于 CVM 离线部署 Kubernetes",
-        "link": "https://toutiao.io/k/mkqe175",
+        "title": "移植 Lua 到鸿蒙：首个移植成功的编程语言",
+        "link": "https://toutiao.io/k/ocqdm4m",
         "date": "2020-11-13"
       },
       {
@@ -15017,63 +15017,8 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-13"
-      },
-      {
         "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
         "link": "https://toutiao.io/k/f9kkb5t",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-13"
       },
       {
@@ -15082,13 +15027,68 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
         "date": "2020-11-13"
       },
       {
         "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
         "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-13"
       }
     ]
@@ -15098,6 +15098,31 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "Python之父正式入职微软",
+        "link": "https://sec.thief.one/article_content?a_id=8a27ba647ebe3006b66759c8ec5e5182",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "腾讯Q3财报背后的“神秘”新能量 企业级安全业务成ToB新动力",
+        "link": "https://sec.thief.one/article_content?a_id=11a4e45ea9edaac915cbcca3eb7b69b4",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "挖洞经验 | 开放重定向漏洞导致的账户劫持",
+        "link": "https://sec.thief.one/article_content?a_id=c7efdbfe3463256de74a62cbc793c9db",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "DeFi借贷协议Akropolis重入攻击事件分析",
+        "link": "https://sec.thief.one/article_content?a_id=225d1af027efbe76f681638f05b449d5",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "36小时极创赛开机:光影之美炫动指尖阳光",
+        "link": "https://sec.thief.one/article_content?a_id=ca3a1ea878c0f04487863d0733223363",
+        "date": "2020-11-13"
+      },
       {
         "title": "业内最多!奇安信六大项目入围2020工信部网络安全技术应用试点示范...",
         "link": "https://sec.thief.one/article_content?a_id=fbc7a66db3a435d80fd612127644f8b0",
@@ -15571,31 +15596,6 @@
       {
         "title": "信息安全漏洞月报2020年10月",
         "link": "https://sec.thief.one/article_content?a_id=4fa9d2ca18c58de333c566ca059ed665",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "Windows系统NFS服务远程拒绝服务或代码执行漏洞通告",
-        "link": "https://sec.thief.one/article_content?a_id=5276eb428f9504b8a4f27d01df3dcf4e",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "K神手札:比特币震荡山寨火爆,你该干点啥?",
-        "link": "https://sec.thief.one/article_content?a_id=b74f6dea18c82eddfd80950767e60951",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "Linux kernel BPF模块的相关漏洞分析",
-        "link": "https://sec.thief.one/article_content?a_id=8ec0c167aee216d1df092e0461d07d39",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "梵蒂冈图书馆频遭黑客攻击,《圣经》手稿或将面临勒索威胁",
-        "link": "https://sec.thief.one/article_content?a_id=9c65022cd3c480f33ba84ec09977c08e",
-        "date": "2020-11-11"
-      },
-      {
-        "title": "双十一巨惠:PWN入门视频听一期送一期",
-        "link": "https://sec.thief.one/article_content?a_id=76b4d47cd9928509fc31d4d280ad5714",
         "date": "2020-11-11"
       }
     ]

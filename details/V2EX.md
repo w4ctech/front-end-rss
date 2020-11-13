@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-13 16:05:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 16:16:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-谈谈-iPhone-12-mini](https://www.v2ex.com/t/725066) 
+- [2020-11-13-ElasticSearch-如何迁移到新设备？](https://www.v2ex.com/t/725065) 
 - [2020-11-13-都扭成一条蛆了，还是按不响-F-和弦](https://www.v2ex.com/t/725063) 
 - [2020-11-13-中年人的焦虑，自由职业者如何在退休前保持“体面的收入”？](https://www.v2ex.com/t/725060) 
 - [2020-11-13-网站-ipv6-打不开](https://www.v2ex.com/t/725058) 
@@ -38,5 +40,3 @@
 - [2020-11-13-create-react-doc-—-基于-React-的文档站点生成工具](https://www.v2ex.com/t/725020) 
 - [2020-11-13-big-sur-的-Time-Machine-有问题!](https://www.v2ex.com/t/725019) 
 - [2020-11-13-Adobe-AIR-开发者、Flash-开发者、Nokia-Symbian-开发者、ActionScript-开发者，甚至把一个人的黄金时光用在了和史前时代浏览器兼容性问题打交道上的程序员们，...](https://www.v2ex.com/t/725017) 
-- [2020-11-13-关于一些网站的请求的验证](https://www.v2ex.com/t/725016) 
-- [2020-11-13-有没有好的关于操作系统的实验练习？](https://www.v2ex.com/t/725015) 

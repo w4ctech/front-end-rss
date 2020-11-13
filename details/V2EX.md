@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-13 09:22:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 09:33:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-npm-下载-图片压缩依赖包的问题](https://www.v2ex.com/t/724945) 
+- [2020-11-13-big-Sur-更新-始终下载不完是怎么回事](https://www.v2ex.com/t/724943) 
 - [2020-11-13-苏宁下单的-iphone12，深圳补贴问题](https://www.v2ex.com/t/724942) 
 - [2020-11-13-求-ICLOUD-车位，需要-2-个](https://www.v2ex.com/t/724941) 
 - [2020-11-13-5G-目前真的](https://www.v2ex.com/t/724940) 
@@ -41,6 +43,3 @@
 - [2020-11-13-在前人的基础上建了个新版-Slate-的-API-手册网站](https://www.v2ex.com/t/724900) 
 - [2020-11-13-高德地图的产品经理用你们自家产品吗](https://www.v2ex.com/t/724899) 
 - [2020-11-13-升级-big-sur-后-sublime-text-3-的代码高亮没了，有遇到这种情况的吗](https://www.v2ex.com/t/724898) 
-- [2020-11-13-黑帕云招聘-黑帕云-11-月职位分享-西安/成都](https://www.v2ex.com/t/724896) 
-- [2020-11-13-常见的-Python-爬虫架构有哪些?](https://www.v2ex.com/t/724895) 
-- [2020-11-13-很无语了，对现在的网络环境，下载了-Android-Studio-4.1，新建一个-Android-空项目，然后卡在同步，一直跑不起来](https://www.v2ex.com/t/724894) 

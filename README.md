@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 06:33:00，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 06:47:26，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,18 @@
 </summary>
 
 
+- [2020-11-13-Mac-mini-上用-eGPU-可以图像回传吗？](https://www.v2ex.com/t/724854) ![](assets/new.png)  
+- [2020-11-13-Big-Sur-通知中心的计算器小组件没了](https://www.v2ex.com/t/724853) ![](assets/new.png)  
+- [2020-11-13-升级-big-sur-后，菜单栏最右边的时间强制显示了吗？](https://www.v2ex.com/t/724852) ![](assets/new.png)  
+- [2020-11-13-AdGuard-半年-免费送](https://www.v2ex.com/t/724851) ![](assets/new.png)  
+- [2020-11-13-写周报的意义何在？](https://www.v2ex.com/t/724850) ![](assets/new.png)  
+- [2020-11-13-成都晓多科技有限公司到底怎么样？](https://www.v2ex.com/t/724849) ![](assets/new.png)  
+- [2020-11-13-Big-Sur-与-intel-HAXM-kext-的冲突问题](https://www.v2ex.com/t/724848) ![](assets/new.png)  
+- [2020-11-13-国内个人自己搞论坛/社区需要注意什么？](https://www.v2ex.com/t/724847) ![](assets/new.png)  
+- [2020-11-13-M1-和-i7-对比](https://www.v2ex.com/t/724846) ![](assets/new.png)  
+- [2020-11-13-国行版的-MIUI12m-还有必要刷-miui-波兰版吗？](https://www.v2ex.com/t/724845) ![](assets/new.png)  
+- [2020-11-13-每次拿快递都烦](https://www.v2ex.com/t/724844) ![](assets/new.png)  
+- [2020-11-13-快速发展的-金融科技公司-正在招聘中](https://www.v2ex.com/t/724842) ![](assets/new.png)  
 - [2020-11-13-MacBook-Pro-2017-暴力减少噪音](https://www.v2ex.com/t/724840) ![](assets/new.png)  
 - [2020-11-13-B-站直播取消关注-点不了](https://www.v2ex.com/t/724839) ![](assets/new.png)  
 - [2020-11-13-大家是怎么接受自己在某方面不如别人强这个事实的](https://www.v2ex.com/t/724838) ![](assets/new.png)  
@@ -541,18 +553,6 @@
 - [2020-11-13-深夜加班](https://www.v2ex.com/t/724835) ![](assets/new.png)  
 - [2020-11-13-现在国内疫情又严重了，要不要买入黄金？](https://www.v2ex.com/t/724834) ![](assets/new.png)  
 - [2020-11-13-🔥🔥🔥-新加坡-Shopee-直招-招云原生平台开发工程师，包含-Kubernetes、Nginx、-Linux-Kernel-等不同方向](https://www.v2ex.com/t/724833) ![](assets/new.png)  
-- [2020-11-13-有没有可以白嫖或者廉价的服务器用来域名停靠的，挂个单页就行](https://www.v2ex.com/t/724832) ![](assets/new.png)  
-- [2020-11-13-还有-15-款的勇士升-Big-Sur-的吗](https://www.v2ex.com/t/724831) ![](assets/new.png)  
-- [2020-11-13-bigsur-的风格真是太丑了，尤其是顶栏](https://www.v2ex.com/t/724830) ![](assets/new.png)  
-- [2020-11-13-header-中参数为什么不能带下划线](https://www.v2ex.com/t/724829) ![](assets/new.png)  
-- [2020-11-13-想买个-thinkpad，哪里买比较实惠且靠谱呢？](https://www.v2ex.com/t/724828) ![](assets/new.png)  
-- [2020-11-13-用了机械键盘，但是没使用键盘托的各位，你们手腕累不累？](https://www.v2ex.com/t/724827) ![](assets/new.png)  
-- [2020-11-13-less-搜索处粘贴文本会变成-`/ESC200~v2exESC201~`,-有时有不会,-Why?](https://www.v2ex.com/t/724826) ![](assets/new.png)  
-- [2020-11-13-前端框架与-Django-配合比较不错的有吗？求推荐！（续：请教-Django-用来做个小工厂内部-MRP/ERP-可还行？-）](https://www.v2ex.com/t/724824) ![](assets/new.png)  
-- [2020-11-13-V-友们-显示器发出-啪-的声音正常嘛？](https://www.v2ex.com/t/724822) ![](assets/new.png)  
-- [2020-11-13-北京微博招聘高级-Java-系统开发工程师/后台全栈开发工程师](https://www.v2ex.com/t/724821) ![](assets/new.png)  
-- [2020-11-13-为何升级-macos11.0.1-后-奈飞始终无法-4k-而油管可以](https://www.v2ex.com/t/724820) ![](assets/new.png)  
-- [2020-11-13-升级-Big-Sur-之后，你们的-AirPods-切换功能好使吗？](https://www.v2ex.com/t/724818) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-13-大数据时代，如何用数据驱动精准营销-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13931&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778184%3Futm_content%3Dg_1000204971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-阿里雷卷：RSocket从入门到落地，RSocket让AJP换发青春-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13930&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777835%3Futm_content%3Dg_1000204970%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-专访李飞飞-：从清华附中高材生到阿里飞刀，一口井钻出「云原生」-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13929&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778031%3Futm_content%3Dg_1000204969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-你的测试写全了吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13928&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftesting-cover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-13-探秘格子间，寻找互联网人缓解焦虑的宝物-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13914&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fplay%3Futm_content%3Dg_1000202260%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-饿了么技术往事（中）-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13913&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777827%3Futm_content%3Dg_1000202457%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-阿里云高级技术专家白常明：边缘云的技术挑战和应用创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13912&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777813%3Futm_content%3Dg_1000202456%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-13-在大规模-Kubernetes-集群上实现高-SLO-的方法-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13911&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777816%3Futm_content%3Dg_1000201987%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -607,8 +607,8 @@
 - [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
 - [2020-11-13-Envoy-VS-Traefik](https://toutiao.io/k/a469cxm) ![](assets/new.png)  
 - [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
-- [2020-11-13-女朋友问我：小松子，你知道-Go-语言参数传递是传值还是传引用吗？](https://toutiao.io/k/l4lm6x2) ![](assets/new.png)  
 - [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
+- [2020-11-13-女朋友问我：小松子，你知道-Go-语言参数传递是传值还是传引用吗？](https://toutiao.io/k/l4lm6x2) ![](assets/new.png)  
 - [2020-11-13-Rancher-江鹏：从清华工程物理学硕士到云计算开源创业者](https://toutiao.io/k/qiz866z) ![](assets/new.png)  
 - [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
 - [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  

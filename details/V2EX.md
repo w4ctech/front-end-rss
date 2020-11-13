@@ -1,10 +1,22 @@
-:alarm_clock: 更新时间: 2020-11-13 06:33:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 06:47:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-Mac-mini-上用-eGPU-可以图像回传吗？](https://www.v2ex.com/t/724854) 
+- [2020-11-13-Big-Sur-通知中心的计算器小组件没了](https://www.v2ex.com/t/724853) 
+- [2020-11-13-升级-big-sur-后，菜单栏最右边的时间强制显示了吗？](https://www.v2ex.com/t/724852) 
+- [2020-11-13-AdGuard-半年-免费送](https://www.v2ex.com/t/724851) 
+- [2020-11-13-写周报的意义何在？](https://www.v2ex.com/t/724850) 
+- [2020-11-13-成都晓多科技有限公司到底怎么样？](https://www.v2ex.com/t/724849) 
+- [2020-11-13-Big-Sur-与-intel-HAXM-kext-的冲突问题](https://www.v2ex.com/t/724848) 
+- [2020-11-13-国内个人自己搞论坛/社区需要注意什么？](https://www.v2ex.com/t/724847) 
+- [2020-11-13-M1-和-i7-对比](https://www.v2ex.com/t/724846) 
+- [2020-11-13-国行版的-MIUI12m-还有必要刷-miui-波兰版吗？](https://www.v2ex.com/t/724845) 
+- [2020-11-13-每次拿快递都烦](https://www.v2ex.com/t/724844) 
+- [2020-11-13-快速发展的-金融科技公司-正在招聘中](https://www.v2ex.com/t/724842) 
 - [2020-11-13-MacBook-Pro-2017-暴力减少噪音](https://www.v2ex.com/t/724840) 
 - [2020-11-13-B-站直播取消关注-点不了](https://www.v2ex.com/t/724839) 
 - [2020-11-13-大家是怎么接受自己在某方面不如别人强这个事实的](https://www.v2ex.com/t/724838) 
@@ -36,15 +48,3 @@
 - [2020-11-13-如何在官网购买-macbookpro-2020-i5-的机器](https://www.v2ex.com/t/724807) 
 - [2020-11-13-现在-win10-比较好用的版本是什么？-LTSC？](https://www.v2ex.com/t/724806) 
 - [2020-11-13-树莓派-3/4-安装-FreeBSD](https://www.v2ex.com/t/724805) 
-- [2020-11-13-西安联通申请公网-ip](https://www.v2ex.com/t/724804) 
-- [2020-11-13-UniversalMailer-在-Big-Sur-11.0.1-中挂了，泪崩](https://www.v2ex.com/t/724802) 
-- [2020-11-13-每天一道-BAT-面试题](https://www.v2ex.com/t/724801) 
-- [2020-11-13-用-Vue-或者-React-重构淘宝-PC-站这样规模的网站，是不是不现实？](https://www.v2ex.com/t/724799) 
-- [2020-11-13-运行正常的-MBP,拿去天才吧升系统，结果出了问题，这锅算谁的？](https://www.v2ex.com/t/724798) 
-- [2020-11-13-我听到了让我灵魂升华的呼噜声](https://www.v2ex.com/t/724797) 
-- [2020-11-13-在泛型考量或者说设计上，最符合你心意或者说你觉得最优雅的语言是哪个？](https://www.v2ex.com/t/724796) 
-- [2020-11-13-macOS-Big-Sur-更新后有些软件的中文字体变的极细](https://www.v2ex.com/t/724795) 
-- [2020-11-13-Grafana-Unable-to-graph-data-switch-to-table-view](https://www.v2ex.com/t/724794) 
-- [2020-11-13-Google-Developer-Summit-2020](https://www.v2ex.com/t/724793) 
-- [2020-11-13-非统招专科，机电专业，不知道能不能办理工签](https://www.v2ex.com/t/724792) 
-- [2020-11-13-docker-+-vue-cli-，开发-hot-reload-时编译超慢](https://www.v2ex.com/t/724791) 

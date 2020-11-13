@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-13 06:33:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 06:47:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -40,7 +40,6 @@
 
 
 - [【掘金前端】试试前端自动化测试！（React-实战）](https://juejin.im/post/6894234532224958478)
-- [【V2EX】用-Vue-或者-React-重构淘宝-PC-站这样规模的网站，是不是不现实？](https://www.v2ex.com/t/724799)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -59,7 +58,6 @@
 
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
-- [【V2EX】docker-+-vue-cli-，开发-hot-reload-时编译超慢](https://www.v2ex.com/t/724791)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -334,9 +332,9 @@
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【掘金前端】想要开发先了解浏览器内核和控制台](https://juejin.im/post/6894447205739200519)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】Grafana-Unable-to-graph-data-switch-to-table-view](https://www.v2ex.com/t/724794)
 - [【技术头条】移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm)
+- [【安全热点】小米AIoT安全峰会议题回顾|安全可信体系:系统可信标准解读与实践](https://sec.thief.one/article_content?a_id=641a73a1bccd856b083362ba69a79d6c)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -389,6 +387,7 @@
 
 
 
+- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [【安全热点】10月份GitHub上最热门的Python开源项目](https://sec.thief.one/article_content?a_id=6ad6de7b25bc9a08074e0b11c7f31ed0)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -407,9 +406,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【V2EX】快速发展的-金融科技公司-正在招聘中](https://www.v2ex.com/t/724842)
 - [【V2EX】谷歌面试官：不给我留提问时间，怎么给你-offer？](https://www.v2ex.com/t/724809)
-- [【V2EX】每天一道-BAT-面试题](https://www.v2ex.com/t/724801)
-- [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [【安全热点】感谢“您”面试我,却狠拒绝了“我”](https://sec.thief.one/article_content?a_id=28d77d39c4ed270dab1b724a478b4f72)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

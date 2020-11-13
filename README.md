@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-12 23:47:48，:rocket: 更新条数: +3279， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 00:06:54，:rocket: 更新条数: +3289， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-12-JavaScript-有没有办法当查询某对象不存在某属性时返回一个默认值？](https://www.v2ex.com/t/724644) ![](assets/new.png)  
 - [2020-11-12-已经更新-macOS-bugsur-的同学们，你们的虚拟机（VirtualBox-和-VMware-还好吗？）-现阶段建议立刻更新/观望？](https://www.v2ex.com/t/724643) ![](assets/new.png)  
 - [2020-11-12-big-sur-下载老是失败的可以试试这个](https://www.v2ex.com/t/724641) ![](assets/new.png)  
 - [2020-11-12-人生如此艰难，尤其是负责-Legacy-Code.-2](https://www.v2ex.com/t/724639) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-12-mac-有没有什么软件能够欺骗机器（mac-mini）在不外接显示器的情况下输出视频信号？](https://www.v2ex.com/t/724622) ![](assets/new.png)  
 - [2020-11-12-10.15.7-使用-clashX-的时候没法用快捷键切换全局和规则？就是-option+G-option+R-来切换](https://www.v2ex.com/t/724620) ![](assets/new.png)  
 - [2020-11-12-iOS14-神奇-BUG-导致-Apple-Watch-App-闪退](https://www.v2ex.com/t/724619) ![](assets/new.png)  
-- [2020-11-12-大家来讨论讨论，-65-岁拿到退休工资之前，该做些什么保证自己不会饿死](https://www.v2ex.com/t/724618) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -584,26 +584,26 @@
 </summary>
 
 
-- [2020-11-12-我对云原生软件架构的观察与思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13927&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778175%3Futm_content%3Dg_1000203704%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-58.3万笔/秒！看阿里的黑科技-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13926&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778162%3Futm_content%3Dg_1000203703%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-我们身边的网络流量-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13925&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778158%3Futm_content%3Dg_1000203702%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-Dubbo-go-源码笔记（二）客户端调用过程-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13924&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778124%3Futm_content%3Dg_1000203701%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-OpenYurt-深度解读：如何构建-Kubernetes-原生云边高效协同网络？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13923&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778036%3Futm_content%3Dg_1000203700%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-全球边缘计算大会：阿里云资深技术专家李克畅谈边缘计算的技术趋势与挑战-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13922&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778090%3Futm_content%3Dg_1000203101%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-Android网络性能监控方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13921&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778070%3Futm_content%3Dg_1000203100%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-【实战分享】从选型到项目落地，漫谈-gRPC-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13920&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F285221429%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-T级内存，创建效率提升10倍以上，阿里云-KVM异构虚拟机启动时间优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13918&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777709%3Futm_content%3Dg_1000203098%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-容器coredns问题排查整理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13917&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-容器coredns问题排查整理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13916&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-高质量的缺陷分析：让自己少写-bug-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13915&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778038%3Futm_content%3Dg_1000202459%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-探秘格子间，寻找互联网人缓解焦虑的宝物-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13914&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fplay%3Futm_content%3Dg_1000202260%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-饿了么技术往事（中）-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13913&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777827%3Futm_content%3Dg_1000202457%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-阿里云高级技术专家白常明：边缘云的技术挑战和应用创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13912&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777813%3Futm_content%3Dg_1000202456%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-在大规模-Kubernetes-集群上实现高-SLO-的方法-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13911&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777816%3Futm_content%3Dg_1000201987%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-玩转ECS第6讲-|-弹性计算Region化部署和跨可用区容灾介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13909&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777714%3Futm_content%3Dg_1000201986%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-12-基于-Flink-SQL-CDC-的实时数据同步方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13908&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777502%3Futm_content%3Dg_1000201984%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-我对云原生软件架构的观察与思考-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13927&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778175%3Futm_content%3Dg_1000203704%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-58.3万笔/秒！看阿里的黑科技-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13926&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778162%3Futm_content%3Dg_1000203703%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-我们身边的网络流量-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13925&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778158%3Futm_content%3Dg_1000203702%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-Dubbo-go-源码笔记（二）客户端调用过程-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13924&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778124%3Futm_content%3Dg_1000203701%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-OpenYurt-深度解读：如何构建-Kubernetes-原生云边高效协同网络？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13923&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778036%3Futm_content%3Dg_1000203700%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-全球边缘计算大会：阿里云资深技术专家李克畅谈边缘计算的技术趋势与挑战-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13922&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778090%3Futm_content%3Dg_1000203101%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-Android网络性能监控方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13921&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778070%3Futm_content%3Dg_1000203100%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-【实战分享】从选型到项目落地，漫谈-gRPC-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13920&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F285221429%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-T级内存，创建效率提升10倍以上，阿里云-KVM异构虚拟机启动时间优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13918&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777709%3Futm_content%3Dg_1000203098%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-容器coredns问题排查整理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13917&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-容器coredns问题排查整理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13916&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-高质量的缺陷分析：让自己少写-bug-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13915&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778038%3Futm_content%3Dg_1000202459%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-探秘格子间，寻找互联网人缓解焦虑的宝物-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13914&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fplay%3Futm_content%3Dg_1000202260%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-饿了么技术往事（中）-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13913&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777827%3Futm_content%3Dg_1000202457%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-阿里云高级技术专家白常明：边缘云的技术挑战和应用创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13912&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777813%3Futm_content%3Dg_1000202456%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-在大规模-Kubernetes-集群上实现高-SLO-的方法-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13911&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777816%3Futm_content%3Dg_1000201987%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-白话科普系列——最好用的浏览器-Chrome，你用了么？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-玩转ECS第6讲-|-弹性计算Region化部署和跨可用区容灾介绍-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13909&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777714%3Futm_content%3Dg_1000201986%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-13-基于-Flink-SQL-CDC-的实时数据同步方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13908&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777502%3Futm_content%3Dg_1000201984%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -615,26 +615,26 @@
 </summary>
 
 
-- [2020-11-12-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
-- [2020-11-12-Go-设计模式（二十四）：总结](https://toutiao.io/k/ch4mr21) ![](assets/new.png)  
-- [2020-11-12-人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm) ![](assets/new.png)  
-- [2020-11-12-Hugo-之旅](https://toutiao.io/k/5ubz2q0) ![](assets/new.png)  
-- [2020-11-12-华东师范大学的数据库系统研究](https://toutiao.io/k/vjryow7) ![](assets/new.png)  
-- [2020-11-12-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
-- [2020-11-12-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-12-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-12-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-12-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-12-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-12-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-12-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-12-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-12-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-12-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-12-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-12-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-12-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-12-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-13-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
+- [2020-11-13-Go-设计模式（二十四）：总结](https://toutiao.io/k/ch4mr21) ![](assets/new.png)  
+- [2020-11-13-Hugo-之旅](https://toutiao.io/k/5ubz2q0) ![](assets/new.png)  
+- [2020-11-13-华东师范大学的数据库系统研究](https://toutiao.io/k/vjryow7) ![](assets/new.png)  
+- [2020-11-13-人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm) ![](assets/new.png)  
+- [2020-11-13-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-13-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
+- [2020-11-13-Envoy-VS-Traefik](https://toutiao.io/k/a469cxm) ![](assets/new.png)  
+- [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
+- [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
+- [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
+- [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
+- [2020-11-13-我用-Python-找出了删除我微信的所有人并将他们自动化删除了](https://toutiao.io/k/km6796s) ![](assets/new.png)  
+- [2020-11-13-Datapane：Python-数据分析报告生成库](https://toutiao.io/k/4obiqep) ![](assets/new.png)  
+- [2020-11-13-Monarch：谷歌的全球级内存时序数据库](https://toutiao.io/k/u8bs7ri) ![](assets/new.png)  
+- [2020-11-13-__proto__-和-prototype](https://toutiao.io/k/c9ew4zk) ![](assets/new.png)  
+- [2020-11-13-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-13-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-13-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-13-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

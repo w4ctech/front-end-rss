@@ -15754,6 +15754,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "JavaScript 有没有办法当查询某对象不存在某属性时返回一个默认值？",
+        "link": "https://www.v2ex.com/t/724644",
+        "date": "2020-11-12"
+      },
+      {
         "title": "已经更新 macOS bugsur 的同学们，你们的虚拟机（VirtualBox 和 VMware 还好吗？）\r\n现阶段建议立刻更新/观望？",
         "link": "https://www.v2ex.com/t/724643",
         "date": "2020-11-12"
@@ -15912,11 +15917,6 @@
         "title": "这代 MacBook 的无线网络吞吐是不是还缩水了？",
         "link": "https://www.v2ex.com/t/724595",
         "date": "2020-11-12"
-      },
-      {
-        "title": "想看看大佬们的 LeetCode 完成情况😄",
-        "link": "https://www.v2ex.com/t/724594",
-        "date": "2020-11-12"
       }
     ]
   },
@@ -15928,102 +15928,102 @@
       {
         "title": "我对云原生软件架构的观察与思考 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13927&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778175%3Futm_content%3Dg_1000203704%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "58.3万笔/秒！看阿里的黑科技 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13926&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778162%3Futm_content%3Dg_1000203703%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "我们身边的网络流量 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13925&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778158%3Futm_content%3Dg_1000203702%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "Dubbo-go 源码笔记（二）客户端调用过程 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13924&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778124%3Futm_content%3Dg_1000203701%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "OpenYurt 深度解读：如何构建 Kubernetes 原生云边高效协同网络？ (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13923&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778036%3Futm_content%3Dg_1000203700%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "全球边缘计算大会：阿里云资深技术专家李克畅谈边缘计算的技术趋势与挑战 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13922&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778090%3Futm_content%3Dg_1000203101%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "Android网络性能监控方案 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13921&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778070%3Futm_content%3Dg_1000203100%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "【实战分享】从选型到项目落地，漫谈 gRPC (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13920&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F285221429%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "移动安全加固助力 App 实现全面、有效的安全防护 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "T级内存，创建效率提升10倍以上，阿里云 KVM异构虚拟机启动时间优化实践 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13918&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777709%3Futm_content%3Dg_1000203098%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "容器coredns问题排查整理 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13917&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "容器coredns问题排查整理 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13916&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "高质量的缺陷分析：让自己少写 bug (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13915&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778038%3Futm_content%3Dg_1000202459%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "探秘格子间，寻找互联网人缓解焦虑的宝物 (www.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13914&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fplay%3Futm_content%3Dg_1000202260%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "饿了么技术往事（中） (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13913&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777827%3Futm_content%3Dg_1000202457%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "阿里云高级技术专家白常明：边缘云的技术挑战和应用创新 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13912&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777813%3Futm_content%3Dg_1000202456%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "在大规模 Kubernetes 集群上实现高 SLO 的方法 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13911&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777816%3Futm_content%3Dg_1000201987%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "白话科普系列——最好用的浏览器 Chrome，你用了么？ (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13910&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F281131989%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "玩转ECS第6讲 | 弹性计算Region化部署和跨可用区容灾介绍 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13909&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777714%3Futm_content%3Dg_1000201986%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "基于 Flink SQL CDC 的实时数据同步方案 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13908&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777502%3Futm_content%3Dg_1000201984%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       }
     ]
   },
@@ -16035,107 +16035,157 @@
       {
         "title": "精通那么多技术，你为何还是受不到重用？| 码农周刊第 324 期",
         "link": "https://toutiao.io/k/3ininot",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "Go 设计模式（二十四）：总结",
         "link": "https://toutiao.io/k/ch4mr21",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "人生是一个回环：我的十年安全工作总结",
-        "link": "https://toutiao.io/k/41asxjm",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "Hugo 之旅",
         "link": "https://toutiao.io/k/5ubz2q0",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "华东师范大学的数据库系统研究",
         "link": "https://toutiao.io/k/vjryow7",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
+      },
+      {
+        "title": "人生是一个回环：我的十年安全工作总结",
+        "link": "https://toutiao.io/k/41asxjm",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-13"
       },
       {
         "title": "如何设计并实现存储 QoS？",
         "link": "https://toutiao.io/k/ae2arqv",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-12"
+        "title": "Envoy VS Traefik",
+        "link": "https://toutiao.io/k/a469cxm",
+        "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-12"
+        "title": "会 split 字符串的你，也来学下这几个词组吧",
+        "link": "https://toutiao.io/k/ydhkewx",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "Go 编程风格指南：开篇",
+        "link": "https://toutiao.io/k/n7xgm4d",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "移植 Lua 到鸿蒙：首个移植成功的编程语言",
+        "link": "https://toutiao.io/k/ocqdm4m",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "大四那一年",
+        "link": "https://toutiao.io/k/pb34bpd",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "我用 Python 找出了删除我微信的所有人并将他们自动化删除了",
+        "link": "https://toutiao.io/k/km6796s",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "Datapane：Python 数据分析报告生成库",
+        "link": "https://toutiao.io/k/4obiqep",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "Monarch：谷歌的全球级内存时序数据库",
+        "link": "https://toutiao.io/k/u8bs7ri",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "__proto__ 和 prototype",
+        "link": "https://toutiao.io/k/c9ew4zk",
+        "date": "2020-11-13"
       },
       {
         "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
         "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "[推荐] 分布式一致性协议：ZAB",
         "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
         "title": "[推荐] 终于有人把数据中台讲明白了",
         "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-13"
       },
       {
         "title": "[推荐] 消息架构的设计难题以及应对之道",
         "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
-        "date": "2020-11-12"
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-12"
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-13"
       },
       {
         "title": "[推荐] 消息队列和任务队列有什么区别？",
         "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-12"
+        "date": "2020-11-13"
       },
       {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-12"
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-13"
       }
     ]
   },

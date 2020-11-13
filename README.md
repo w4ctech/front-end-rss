@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 07:04:11，:rocket: 更新条数: +3068， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 07:11:36，:rocket: 更新条数: +3069， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-13-发现多种数据库-group-by-对字符串首尾空格的坑死人不偿命规范](https://www.v2ex.com/t/724866) ![](assets/new.png)  
+- [2020-11-13-新零售技术事业群-测试开发专家-天猫超市-新零售技术质量部](https://www.v2ex.com/t/724865) ![](assets/new.png)  
+- [2020-11-13-macbookpro-接入互联网-无-ip-地址](https://www.v2ex.com/t/724863) ![](assets/new.png)  
 - [2020-11-13-FireFox-在访问-Nginx-base_auth-的网站时，弹出密码框后无法切换标签页，怎么解决?](https://www.v2ex.com/t/724862) ![](assets/new.png)  
 - [2020-11-13-更新完-Big-Sur-我黑掉的-touchbar-居然复活了](https://www.v2ex.com/t/724861) ![](assets/new.png)  
 - [2020-11-13-请问下，比较简单的实现-0.5-到-2-之间的随机数的方法](https://www.v2ex.com/t/724860) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-13-M1-和-i7-对比](https://www.v2ex.com/t/724846) ![](assets/new.png)  
 - [2020-11-13-国行版的-MIUI12m-还有必要刷-miui-波兰版吗？](https://www.v2ex.com/t/724845) ![](assets/new.png)  
 - [2020-11-13-每次拿快递都烦](https://www.v2ex.com/t/724844) ![](assets/new.png)  
-- [2020-11-13-快速发展的-金融科技公司-正在招聘中](https://www.v2ex.com/t/724842) ![](assets/new.png)  
-- [2020-11-13-MacBook-Pro-2017-暴力减少噪音](https://www.v2ex.com/t/724840) ![](assets/new.png)  
-- [2020-11-13-B-站直播取消关注-点不了](https://www.v2ex.com/t/724839) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

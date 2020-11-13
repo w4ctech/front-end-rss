@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-13 07:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 07:11:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-发现多种数据库-group-by-对字符串首尾空格的坑死人不偿命规范](https://www.v2ex.com/t/724866) 
+- [2020-11-13-新零售技术事业群-测试开发专家-天猫超市-新零售技术质量部](https://www.v2ex.com/t/724865) 
+- [2020-11-13-macbookpro-接入互联网-无-ip-地址](https://www.v2ex.com/t/724863) 
 - [2020-11-13-FireFox-在访问-Nginx-base_auth-的网站时，弹出密码框后无法切换标签页，怎么解决?](https://www.v2ex.com/t/724862) 
 - [2020-11-13-更新完-Big-Sur-我黑掉的-touchbar-居然复活了](https://www.v2ex.com/t/724861) 
 - [2020-11-13-请问下，比较简单的实现-0.5-到-2-之间的随机数的方法](https://www.v2ex.com/t/724860) 
@@ -43,5 +46,3 @@
 - [2020-11-13-为何升级-macos11.0.1-后-奈飞始终无法-4k-而油管可以](https://www.v2ex.com/t/724820) 
 - [2020-11-13-升级-Big-Sur-之后，你们的-AirPods-切换功能好使吗？](https://www.v2ex.com/t/724818) 
 - [2020-11-13-问-big-sur-的，建议进来看看这个](https://www.v2ex.com/t/724817) 
-- [2020-11-13-借机安利一下我的一键安装脚本,快速安装一个漂亮强大的-iTerm2](https://www.v2ex.com/t/724816) 
-- [2020-11-13-国外-contractor-的工做时长-一天到底满载几小时](https://www.v2ex.com/t/724815) 

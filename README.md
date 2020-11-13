@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 18:11:43，:rocket: 更新条数: +3301， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 18:24:07，:rocket: 更新条数: +3305， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,11 @@
 </summary>
 
 
+- [2020-11-13-请教大佬们,多商户售卖虚拟产品平台需要什么资质,或有没提供此类二清解决方案的支付机构推荐?](https://www.v2ex.com/t/725082) ![](assets/new.png)  
+- [2020-11-13-云筏科技-CloudRaft-长期免费赠送服务器-4-核-16G-内存-500G-硬盘](https://www.v2ex.com/t/725081) ![](assets/new.png)  
+- [2020-11-13-升级-Big-Sur-后，-Dota2-卡顿](https://www.v2ex.com/t/725080) ![](assets/new.png)  
+- [2020-11-13-求大佬帮忙看一看,已经折腾-3-个小时了...](https://www.v2ex.com/t/725079) ![](assets/new.png)  
+- [2020-11-13-2020-年-11-月-13-日公路见闻。](https://www.v2ex.com/t/725078) ![](assets/new.png)  
 - [2020-11-13-不知不觉已经维护了-Project-Eye-项目-1.580555555555556-年](https://www.v2ex.com/t/725077) ![](assets/new.png)  
 - [2020-11-13-iOS-14.3-beta-1-系统天气可以显示空气质量了](https://www.v2ex.com/t/725076) ![](assets/new.png)  
 - [2020-11-13-请问-Safari14-启示页的背景图怎么提取？](https://www.v2ex.com/t/725075) ![](assets/new.png)  
@@ -568,11 +573,6 @@
 - [2020-11-13-都扭成一条蛆了，还是按不响-F-和弦](https://www.v2ex.com/t/725063) ![](assets/new.png)  
 - [2020-11-13-中年人的焦虑，自由职业者如何在退休前保持“体面的收入”？](https://www.v2ex.com/t/725060) ![](assets/new.png)  
 - [2020-11-13-网站-ipv6-打不开](https://www.v2ex.com/t/725058) ![](assets/new.png)  
-- [2020-11-13-请教，怎么样让老-mac-安装-big-sur](https://www.v2ex.com/t/725057) ![](assets/new.png)  
-- [2020-11-13-组了一台-3900x+2070s-的电脑,-游戏瘾解了,-有什么好的回本甚至盈利的方式吗?](https://www.v2ex.com/t/725056) ![](assets/new.png)  
-- [2020-11-13-在二线城区买了房还贷款中，农村老家还要修自建房吗？](https://www.v2ex.com/t/725055) ![](assets/new.png)  
-- [2020-11-13-速报，-aka.ms-被解析到-localhost-了](https://www.v2ex.com/t/725054) ![](assets/new.png)  
-- [2020-11-13-MacOS-Big-Sur-可用深信服-EasyConnect-7.6.7](https://www.v2ex.com/t/725053) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 00:26:25，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 00:51:04，:rocket: 更新条数: +3059， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,6 @@
 </summary>
 
 
-- [2020-11-11-11月11日全国新增确诊病例15例-本土天津1例](http://m.china.caixin.com/m/2020-11-12/101626541.html) ![](assets/new.png)  
 - [2020-11-11-【境内疫情观察】天津新增1例本土确诊病例（11月11日）](http://m.database.caixin.com/m/2020-11-12/101626650.html) ![](assets/new.png)  
 - [2020-11-11-大流行手记|11月11日：美拟12月启动新冠疫苗接种-欧洲多国医疗体系负重](https://m.caixin.com/m/2020-11-12/101626574.html) ![](assets/new.png)  
 - [2020-11-11-日本忧第三波疫情袭来-北海道入冬病例又激增](http://m.international.caixin.com/m/2020-11-12/101626896.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-11-09-解药|新冠mRNA疫苗乐观数据搅动全球资本市场-仍有不确定性](https://m.caixin.com/m/2020-11-10/101625389.html) ![](assets/new.png)  
 - [2020-11-08-上海浦东新冠确诊者感染源排查中-所住村庄已封闭](https://m.caixin.com/m/2020-11-09/101625278.html) ![](assets/new.png)  
 - [2020-11-08-【境内疫情观察】天津新增1例本土确诊病例（11月8日）](http://m.database.caixin.com/m/2020-11-09/101625051.html) ![](assets/new.png)  
+- [2020-11-08-大流行手记|11月8日：法国延长卫生紧急状态-英国近半教师不满校园防控举措](https://m.caixin.com/m/2020-11-09/101624597.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -341,9 +341,9 @@
 </summary>
 
 
+- [2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html) ![](assets/new.png)  
 - [2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html) ![](assets/new.png)  
 - [2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) ![](assets/new.png)  
-- [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,10 +453,10 @@
 </summary>
 
 
+- [2020-11-12-详解-JavaScript-构造函数和-"new"-操作符](https://juejin.im/post/6894401976809816077) ![](assets/new.png)  
 - [2020-11-12-飞猪营销域SSR总结---双十一会场再加速](https://juejin.im/post/6894244528711008269) ![](assets/new.png)  
 - [2020-11-12-Webpack4性能优化实践](https://juejin.im/post/6894191135896535053) ![](assets/new.png)  
 - [2020-11-12-JS中的经典继承实现方法与原型的深入探讨](https://juejin.im/post/6894185806936670216) ![](assets/new.png)  
-- [2020-11-12-React旧版本与React16中生命周期的区别](https://juejin.im/post/6894180064297451533) ![](assets/new.png)  
 - [2020-11-12-Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://juejin.im/post/6894175515515551752) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-13-大佬们，你们都是多久提离职的。](https://www.v2ex.com/t/724650) ![](assets/new.png)  
+- [2020-11-13-本地时间-实时问题](https://www.v2ex.com/t/724649) ![](assets/new.png)  
+- [2020-11-13-Python-之父加入微软，这是什么情况？谁给分析分析？](https://www.v2ex.com/t/724647) ![](assets/new.png)  
 - [2020-11-13-询问-iPhone-数据迁移，我的有点特殊](https://www.v2ex.com/t/724646) ![](assets/new.png)  
 - [2020-11-13-Big-Sur-下载多次失败后，点击下载立马-failed，你们知道怎样把下载的缓存文件和更新记录都清除，从头再来吗](https://www.v2ex.com/t/724645) ![](assets/new.png)  
 - [2020-11-12-JavaScript-有没有办法当查询某对象不存在某属性时返回一个默认值？](https://www.v2ex.com/t/724644) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-12-20201113-午夜俱乐部](https://www.v2ex.com/t/724627) ![](assets/new.png)  
 - [2020-11-12-电信宽带福利-免费提速-不限次数-上行提升到-100M](https://www.v2ex.com/t/724626) ![](assets/new.png)  
 - [2020-11-12-这次更新-apple-tv-和-homepod-后配合真是舒服多了，原来是这么用的](https://www.v2ex.com/t/724625) ![](assets/new.png)  
-- [2020-11-12-我觉得-win10-作为开发机比-mac-好用多了](https://www.v2ex.com/t/724624) ![](assets/new.png)  
-- [2020-11-12-正文中是我的博客，为了不显单调，我为每篇博客都配了图，但是大小感觉别扭，希望大家提提意见！](https://www.v2ex.com/t/724623) ![](assets/new.png)  
-- [2020-11-12-mac-有没有什么软件能够欺骗机器（mac-mini）在不外接显示器的情况下输出视频信号？](https://www.v2ex.com/t/724622) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -597,23 +597,23 @@
 
 - [2020-11-13-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
 - [2020-11-13-Go-设计模式（二十四）：总结](https://toutiao.io/k/ch4mr21) ![](assets/new.png)  
+- [2020-11-13-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
 - [2020-11-13-Hugo-之旅](https://toutiao.io/k/5ubz2q0) ![](assets/new.png)  
 - [2020-11-13-华东师范大学的数据库系统研究](https://toutiao.io/k/vjryow7) ![](assets/new.png)  
 - [2020-11-13-人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm) ![](assets/new.png)  
-- [2020-11-13-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-13-Envoy-VS-Traefik](https://toutiao.io/k/a469cxm) ![](assets/new.png)  
-- [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
 - [2020-11-13-如何设计并实现存储-QoS？](https://toutiao.io/k/ae2arqv) ![](assets/new.png)  
 - [2020-11-13-会-split-字符串的你，也来学下这几个词组吧](https://toutiao.io/k/ydhkewx) ![](assets/new.png)  
+- [2020-11-13-Envoy-VS-Traefik](https://toutiao.io/k/a469cxm) ![](assets/new.png)  
 - [2020-11-13-我用-Python-找出了删除我微信的所有人并将他们自动化删除了](https://toutiao.io/k/km6796s) ![](assets/new.png)  
-- [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
+- [2020-11-13-Go-编程风格指南：开篇](https://toutiao.io/k/n7xgm4d) ![](assets/new.png)  
 - [2020-11-13-移植-Lua-到鸿蒙：首个移植成功的编程语言](https://toutiao.io/k/ocqdm4m) ![](assets/new.png)  
+- [2020-11-13-大四那一年](https://toutiao.io/k/pb34bpd) ![](assets/new.png)  
 - [2020-11-13-Monarch：谷歌的全球级内存时序数据库](https://toutiao.io/k/u8bs7ri) ![](assets/new.png)  
-- [2020-11-13-Datapane：Python-数据分析报告生成库](https://toutiao.io/k/4obiqep) ![](assets/new.png)  
 - [2020-11-13-CODING-实践指南：基于-CVM-离线部署-Kubernetes](https://toutiao.io/k/mkqe175) ![](assets/new.png)  
 - [2020-11-13-女朋友问我：小松子，你知道-Go-语言参数传递是传值还是传引用吗？](https://toutiao.io/k/l4lm6x2) ![](assets/new.png)  
 - [2020-11-13-__proto__-和-prototype](https://toutiao.io/k/c9ew4zk) ![](assets/new.png)  
 - [2020-11-13-工具-|-腾讯开源的，专为-API-而生的-JSON-网络传输协议以及基于这套协议实现的-ORM-库](https://toutiao.io/k/djmlzgr) ![](assets/new.png)  
+- [2020-11-13-Datapane：Python-数据分析报告生成库](https://toutiao.io/k/4obiqep) ![](assets/new.png)  
 - [2020-11-13-Rancher-江鹏：从清华工程物理学硕士到云计算开源创业者](https://toutiao.io/k/qiz866z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

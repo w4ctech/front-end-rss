@@ -5,11 +5,6 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "11月11日全国新增确诊病例15例 本土天津1例",
-        "link": "http://m.china.caixin.com/m/2020-11-12/101626541.html",
-        "date": "2020-11-11"
-      },
-      {
         "title": "【境内疫情观察】天津新增1例本土确诊病例（11月11日）",
         "link": "http://m.database.caixin.com/m/2020-11-12/101626650.html",
         "date": "2020-11-11"
@@ -14260,6 +14255,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 133 期）：贵州变瑞士，有没有可能？",
+        "link": "http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html",
+        "date": "2020-11-13"
+      },
+      {
         "title": "科技爱好者周刊（第 132 期）：快能力和慢能力",
         "link": "http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html",
         "date": "2020-11-06"
@@ -14268,11 +14268,6 @@
         "title": "微信小程序入门教程之四：API 使用",
         "link": "http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html",
         "date": "2020-11-02"
-      },
-      {
-        "title": "科技爱好者周刊（第 131 期）：你的头脑是二值逻辑，还是三值逻辑？",
-        "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html",
-        "date": "2020-10-30"
       }
     ]
   },
@@ -14381,6 +14376,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "详解 JavaScript 构造函数和 \"new\" 操作符",
+        "link": "https://juejin.im/post/6894401976809816077",
+        "date": "2020-11-12"
+      },
+      {
         "title": "飞猪营销域SSR总结 - 双十一会场再加速",
         "link": "https://juejin.im/post/6894244528711008269",
         "date": "2020-11-12"
@@ -14393,11 +14393,6 @@
       {
         "title": "JS中的经典继承实现方法与原型的深入探讨",
         "link": "https://juejin.im/post/6894185806936670216",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "React旧版本与React16中生命周期的区别",
-        "link": "https://juejin.im/post/6894180064297451533",
         "date": "2020-11-12"
       },
       {
@@ -14588,6 +14583,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大佬们，你们都是多久提离职的。",
+        "link": "https://www.v2ex.com/t/724650",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "本地时间 实时问题",
+        "link": "https://www.v2ex.com/t/724649",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "Python 之父加入微软，这是什么情况？谁给分析分析？",
+        "link": "https://www.v2ex.com/t/724647",
+        "date": "2020-11-13"
+      },
+      {
         "title": "询问 iPhone 数据迁移，我的有点特殊",
         "link": "https://www.v2ex.com/t/724646",
         "date": "2020-11-13"
@@ -14736,21 +14746,6 @@
         "title": "webflux 替换 webmvc 有哪些成本呢？",
         "link": "https://www.v2ex.com/t/724603",
         "date": "2020-11-12"
-      },
-      {
-        "title": "自己维护的一个高质量资讯微信群（再发一次，之前那个没说清楚）",
-        "link": "https://www.v2ex.com/t/724600",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "广东电信免费提速来了..这次是 500M",
-        "link": "https://www.v2ex.com/t/724599",
-        "date": "2020-11-12"
-      },
-      {
-        "title": "支持快照,自定义触发 API 的网络书签-->各种书签",
-        "link": "https://www.v2ex.com/t/724598",
-        "date": "2020-11-12"
       }
     ]
   },
@@ -14877,6 +14872,11 @@
         "date": "2020-11-13"
       },
       {
+        "title": "深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-13"
+      },
+      {
         "title": "Hugo 之旅",
         "link": "https://toutiao.io/k/5ubz2q0",
         "date": "2020-11-13"
@@ -14892,21 +14892,6 @@
         "date": "2020-11-13"
       },
       {
-        "title": "深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "Envoy VS Traefik",
-        "link": "https://toutiao.io/k/a469cxm",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "Go 编程风格指南：开篇",
-        "link": "https://toutiao.io/k/n7xgm4d",
-        "date": "2020-11-13"
-      },
-      {
         "title": "如何设计并实现存储 QoS？",
         "link": "https://toutiao.io/k/ae2arqv",
         "date": "2020-11-13"
@@ -14917,13 +14902,18 @@
         "date": "2020-11-13"
       },
       {
+        "title": "Envoy VS Traefik",
+        "link": "https://toutiao.io/k/a469cxm",
+        "date": "2020-11-13"
+      },
+      {
         "title": "我用 Python 找出了删除我微信的所有人并将他们自动化删除了",
         "link": "https://toutiao.io/k/km6796s",
         "date": "2020-11-13"
       },
       {
-        "title": "大四那一年",
-        "link": "https://toutiao.io/k/pb34bpd",
+        "title": "Go 编程风格指南：开篇",
+        "link": "https://toutiao.io/k/n7xgm4d",
         "date": "2020-11-13"
       },
       {
@@ -14932,13 +14922,13 @@
         "date": "2020-11-13"
       },
       {
-        "title": "Monarch：谷歌的全球级内存时序数据库",
-        "link": "https://toutiao.io/k/u8bs7ri",
+        "title": "大四那一年",
+        "link": "https://toutiao.io/k/pb34bpd",
         "date": "2020-11-13"
       },
       {
-        "title": "Datapane：Python 数据分析报告生成库",
-        "link": "https://toutiao.io/k/4obiqep",
+        "title": "Monarch：谷歌的全球级内存时序数据库",
+        "link": "https://toutiao.io/k/u8bs7ri",
         "date": "2020-11-13"
       },
       {
@@ -14962,63 +14952,13 @@
         "date": "2020-11-13"
       },
       {
+        "title": "Datapane：Python 数据分析报告生成库",
+        "link": "https://toutiao.io/k/4obiqep",
+        "date": "2020-11-13"
+      },
+      {
         "title": "Rancher 江鹏：从清华工程物理学硕士到云计算开源创业者",
         "link": "https://toutiao.io/k/qiz866z",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-13"
       },
       {
@@ -15027,8 +14967,18 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-13"
       },
       {
@@ -15037,8 +14987,53 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-13"
       }
     ]

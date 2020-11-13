@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 00:26:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 00:51:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -6,5 +6,3 @@
 > 关键字：`React`、`Rax`、`Nerv`、`Redux`、`useEffect`、`Hooks`
 
 
-
-- [2020-11-12-React旧版本与React16中生命周期的区别](https://juejin.im/post/6894180064297451533) 

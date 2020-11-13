@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 09:47:42，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 10:04:11，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -473,11 +473,11 @@
 </summary>
 
 
+- [2020-11-13-ZooTeam-前端周刊｜第-108-期](https://juejin.im/post/6894543700173684749) ![](assets/new.png)  
+- [2020-11-13-AI-时代前端可能的未来方向](https://juejin.im/post/6894540611106373645) ![](assets/new.png)  
 - [2020-11-13-NestJS-7.x-折腾记:-5-管道,一个好玩的东西!比如入参校验!](https://juejin.im/post/6894535831101538312) ![](assets/new.png)  
 - [2020-11-13-jsliang-求职系列---12---手写防抖和节流](https://juejin.im/post/6894535259544059917) ![](assets/new.png)  
 - [2020-11-13-怎么理解虚拟dom？](https://juejin.im/post/6894519762353979405) ![](assets/new.png)  
-- [2020-11-13-JS-对象基本用法](https://juejin.im/post/6894518681892880392) ![](assets/new.png)  
-- [2020-11-13-设计模式—单例模式JS版本](https://juejin.im/post/6894516731256487949) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,12 @@
 </summary>
 
 
+- [2020-11-13-上海、武汉-全职可远程,-15k-至-40k-招募优质全栈、前端、后端、架构师](https://www.v2ex.com/t/724959) ![](assets/new.png)  
+- [2020-11-13-外企上海研发中心招聘：全栈开发工程师（前端也可以）/Data-Engineer（Marketing，-BI，-big-data-engineer-三个方向都在招聘），-完全不加班，-福利爆赞，人...](https://www.v2ex.com/t/724958) ![](assets/new.png)  
+- [2020-11-13-第三方平台代公众号发起网页授权，-component_access_token-偶尔会过期？](https://www.v2ex.com/t/724957) ![](assets/new.png)  
+- [2020-11-13-有啥方法或者软件能比较完善的弄掉钉钉打卡的定位](https://www.v2ex.com/t/724956) ![](assets/new.png)  
+- [2020-11-13-12-pro-的-YouTube-支持-4k-么](https://www.v2ex.com/t/724955) ![](assets/new.png)  
+- [2020-11-13-eSATA-接口能怎么转？懵了](https://www.v2ex.com/t/724954) ![](assets/new.png)  
 - [2020-11-13-请教下，我在谷歌的-Blogger-博客关闭了谷歌引擎收录后还会被其他搜索引擎搜索到吗？](https://www.v2ex.com/t/724952) ![](assets/new.png)  
 - [2020-11-13-BiliOB-被告了](https://www.v2ex.com/t/724949) ![](assets/new.png)  
 - [2020-11-13-想辞职，但是现在的公司事多人还少，手头还有一大顿事情，我该找什么理由辞职呢？](https://www.v2ex.com/t/724948) ![](assets/new.png)  
@@ -567,12 +573,6 @@
 - [2020-11-13-更新-big-sur-后-paste-经常出不来](https://www.v2ex.com/t/724937) ![](assets/new.png)  
 - [2020-11-13-在-windows-下如何抓一个-exe-程序的-HTTPS-包,exe-程序没有信任系统的证书](https://www.v2ex.com/t/724936) ![](assets/new.png)  
 - [2020-11-13-关于云服务器代理购买的情况](https://www.v2ex.com/t/724935) ![](assets/new.png)  
-- [2020-11-13-联通打电话问我要不要加流量-20G，然后可以提升网速，但依然是-4G](https://www.v2ex.com/t/724934) ![](assets/new.png)  
-- [2020-11-13-杭州/武汉-字节跳动飞书急招客户端研发同学-iOS/Android-都要-30k-60k-*-15](https://www.v2ex.com/t/724933) ![](assets/new.png)  
-- [2020-11-13-突然发现-BigSur11.0.1-的-Safari-可以用翻译了🎉](https://www.v2ex.com/t/724932) ![](assets/new.png)  
-- [2020-11-13-有买联想小新-air15-2021-锐龙版的老哥么？](https://www.v2ex.com/t/724931) ![](assets/new.png)  
-- [2020-11-13-本来以为-ios13-就够垃圾了，结果-ios14-更垃圾](https://www.v2ex.com/t/724930) ![](assets/new.png)  
-- [2020-11-13-与公司协商赔偿未果,公司已严重违纪要当天解除合同.](https://www.v2ex.com/t/724928) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -584,6 +584,7 @@
 </summary>
 
 
+- [2020-11-13-Flink-+-强化学习搭建实时推荐系统-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13933&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778150%3Futm_content%3Dg_1000204973%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-云原生实时数仓首次在2020双11核心数据场景落地-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13932&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778177%3Futm_content%3Dg_1000204972%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-大数据时代，如何用数据驱动精准营销-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13931&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778184%3Futm_content%3Dg_1000204971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-阿里雷卷：RSocket从入门到落地，RSocket让AJP换发青春-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13930&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777835%3Futm_content%3Dg_1000204970%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -603,7 +604,6 @@
 - [2020-11-13-容器coredns问题排查整理-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13916&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778062%3Futm_content%3Dg_1000202460%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-高质量的缺陷分析：让自己少写-bug-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13915&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778038%3Futm_content%3Dg_1000202459%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-探秘格子间，寻找互联网人缓解焦虑的宝物-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13914&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fplay%3Futm_content%3Dg_1000202260%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-13-饿了么技术往事（中）-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13913&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777827%3Futm_content%3Dg_1000202457%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

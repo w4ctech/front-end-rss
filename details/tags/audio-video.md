@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 08:04:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 08:12:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,6 +78,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-11-13-flash-被禁用，-firefox-无法播放网页的视频怎么办？](https://www.v2ex.com/t/724902) 
 - [2020-11-13-Java-面试视频分享](https://www.v2ex.com/t/724892) 
 - [2020-11-13-Mac-mini-上用-eGPU-可以图像回传吗？](https://www.v2ex.com/t/724854) 
 - [2020-11-12-YouTube遭遇全球性大宕机-所有视频播放报错](https://sec.thief.one/article_content?a_id=824f9968a6057f62b5cf006df547df2b) 

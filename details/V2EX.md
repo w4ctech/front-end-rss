@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 18:48:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 19:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -31,7 +31,6 @@
 - [2020-11-13-速报，-aka.ms-被解析到-localhost-了](https://www.v2ex.com/t/725054) 
 - [2020-11-13-MacOS-Big-Sur-可用深信服-EasyConnect-7.6.7](https://www.v2ex.com/t/725053) 
 - [2020-11-13-请教各位大佬一个-mongoDb-表设计的问题，是否应该使用内嵌数组](https://www.v2ex.com/t/725052) 
-- [2020-11-13-你会用新出的-M1-芯片的苹果笔记本作为程序开发的笔记本么？为什么？](https://www.v2ex.com/t/725050) 
 - [2020-11-13-求教-MacBook-外接显示器问题](https://www.v2ex.com/t/725049) 
 - [2020-11-13-Office-问题请教，搜索引擎上的方法无效，困扰已久，求大神](https://www.v2ex.com/t/725048) 
 - [2020-11-13-有大佬知道-nginx-如何配置-cdn-嘛，想折腾一下了。。](https://www.v2ex.com/t/725047) 
@@ -46,4 +45,3 @@
 - [2020-11-13-iPhone-12-pro-max-大家拿到手的有什么问题吗](https://www.v2ex.com/t/725037) 
 - [2020-11-13-Safari-性能问题](https://www.v2ex.com/t/725035) 
 - [2020-11-13-迫于日常想跑路，对于前端开发者来说有哪家公司推荐的吗](https://www.v2ex.com/t/725034) 
-- [2020-11-13-家宽在-OLT-上做限速对实际使用的影响？](https://www.v2ex.com/t/725033) 

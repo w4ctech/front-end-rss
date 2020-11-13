@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 17:21:06，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 17:32:51，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-13-iOS-14.3-beta-1-系统天气可以显示空气质量了](https://www.v2ex.com/t/725076) ![](assets/new.png)  
 - [2020-11-13-请问-Safari14-启示页的背景图怎么提取？](https://www.v2ex.com/t/725075) ![](assets/new.png)  
 - [2020-11-13-如何设置-mac-vnc-的色彩](https://www.v2ex.com/t/725074) ![](assets/new.png)  
 - [2020-11-13-Big-Sur-出了，求劝退](https://www.v2ex.com/t/725073) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-13-速报，-aka.ms-被解析到-localhost-了](https://www.v2ex.com/t/725054) ![](assets/new.png)  
 - [2020-11-13-MacOS-Big-Sur-可用深信服-EasyConnect-7.6.7](https://www.v2ex.com/t/725053) ![](assets/new.png)  
 - [2020-11-13-请教各位大佬一个-mongoDb-表设计的问题，是否应该使用内嵌数组](https://www.v2ex.com/t/725052) ![](assets/new.png)  
-- [2020-11-13-你会用新出的-M1-芯片的苹果笔记本作为程序开发的笔记本么？为什么？](https://www.v2ex.com/t/725050) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

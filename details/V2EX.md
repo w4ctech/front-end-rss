@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-13 08:35:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 08:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-13-DaVinci-Resolve-今日发布-17.1-更新，支持-Apple-Silicon，宣称高达-5-倍性能提升](https://www.v2ex.com/t/724926) 
+- [2020-11-13-请教各位大家每天都看哪些资讯炒美股的话？](https://www.v2ex.com/t/724923) 
 - [2020-11-13-有没有办法批量截取-word-文档的前几页?](https://www.v2ex.com/t/724922) 
 - [2020-11-13-python3-一小段-code-求个简写](https://www.v2ex.com/t/724921) 
 - [2020-11-13-双-11-真的买到显卡了，但是……](https://www.v2ex.com/t/724920) 
@@ -39,6 +41,3 @@
 - [2020-11-13-我在外包公司干-Java-开发干了十年，今年工资才涨到-19K。](https://www.v2ex.com/t/724879) 
 - [2020-11-13-应届生求选-offer](https://www.v2ex.com/t/724878) 
 - [2020-11-13-500-京东-E-卡](https://www.v2ex.com/t/724877) 
-- [2020-11-13-Mbp13-17-款-升级-big-bur-后问题一堆](https://www.v2ex.com/t/724876) 
-- [2020-11-13-问个问题-基于我的-easyconnect-又崩了](https://www.v2ex.com/t/724875) 
-- [2020-11-13-Big-Sur-在-Preferences-中输入密码时卡住](https://www.v2ex.com/t/724874) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 08:35:12，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 08:47:55，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-13-DaVinci-Resolve-今日发布-17.1-更新，支持-Apple-Silicon，宣称高达-5-倍性能提升](https://www.v2ex.com/t/724926) ![](assets/new.png)  
+- [2020-11-13-请教各位大家每天都看哪些资讯炒美股的话？](https://www.v2ex.com/t/724923) ![](assets/new.png)  
 - [2020-11-13-有没有办法批量截取-word-文档的前几页?](https://www.v2ex.com/t/724922) ![](assets/new.png)  
 - [2020-11-13-python3-一小段-code-求个简写](https://www.v2ex.com/t/724921) ![](assets/new.png)  
 - [2020-11-13-双-11-真的买到显卡了，但是……](https://www.v2ex.com/t/724920) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-13-flash-被禁用，-firefox-无法播放网页的视频怎么办？](https://www.v2ex.com/t/724902) ![](assets/new.png)  
 - [2020-11-13-有没有下午犯困没精神，可以提神的东西。](https://www.v2ex.com/t/724901) ![](assets/new.png)  
 - [2020-11-13-在前人的基础上建了个新版-Slate-的-API-手册网站](https://www.v2ex.com/t/724900) ![](assets/new.png)  
-- [2020-11-13-高德地图的产品经理用你们自家产品吗](https://www.v2ex.com/t/724899) ![](assets/new.png)  
-- [2020-11-13-升级-big-sur-后-sublime-text-3-的代码高亮没了，有遇到这种情况的吗](https://www.v2ex.com/t/724898) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

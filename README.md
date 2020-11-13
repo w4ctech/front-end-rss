@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 10:04:11，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 10:12:25，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-13-​德国新增新冠肺炎确诊病例23542例-累计确诊751095例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWKFlaBTU8UGfYuxCEbnn201113&isfromapp=1) ![](assets/new.png)  
+- [2020-11-13-为防止疫情加速蔓延-欧洲多国表示不会放松防疫封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiai4xAs1hw9fBdDzTe4B7201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-13-海关总署：从印度进口1批冻墨鱼3个外包装检出新冠阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Q7X0ogJWYCZHRwylEF3201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-13-秘鲁卫生部：新冠肺炎累计确诊逾93万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNIiZ1R1z1KcUigtI1YwZ201113&isfromapp=1) ![](assets/new.png)  
 - [2020-11-13-武汉发现3份巴西进口牛肉标本新冠病毒核酸检测呈阳性-未流入市场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLDgH0Xd3lYJK5ZvBxuQo201113&isfromapp=1) ![](assets/new.png)  
-- [2020-11-12-疫情致巴西圣保罗州超50万学生缺课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidjCtcDSSN4UIXtBGdOYy201113&isfromapp=1) ![](assets/new.png)  
-- [2020-11-12-英国单日新增新冠肺炎确诊病例33470例-为疫情开始以来最高纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiSVYNw8812udJlcUBZtk201113&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-13-没搞懂腾讯云对象存储是怎么计费的](https://www.v2ex.com/t/724960) ![](assets/new.png)  
 - [2020-11-13-上海、武汉-全职可远程,-15k-至-40k-招募优质全栈、前端、后端、架构师](https://www.v2ex.com/t/724959) ![](assets/new.png)  
 - [2020-11-13-外企上海研发中心招聘：全栈开发工程师（前端也可以）/Data-Engineer（Marketing，-BI，-big-data-engineer-三个方向都在招聘），-完全不加班，-福利爆赞，人...](https://www.v2ex.com/t/724958) ![](assets/new.png)  
 - [2020-11-13-第三方平台代公众号发起网页授权，-component_access_token-偶尔会过期？](https://www.v2ex.com/t/724957) ![](assets/new.png)  
@@ -567,7 +568,6 @@
 - [2020-11-13-big-Sur-更新-始终下载不完是怎么回事](https://www.v2ex.com/t/724943) ![](assets/new.png)  
 - [2020-11-13-苏宁下单的-iphone12，深圳补贴问题](https://www.v2ex.com/t/724942) ![](assets/new.png)  
 - [2020-11-13-求-ICLOUD-车位，需要-2-个](https://www.v2ex.com/t/724941) ![](assets/new.png)  
-- [2020-11-13-5G-目前真的](https://www.v2ex.com/t/724940) ![](assets/new.png)  
 - [2020-11-13-iPhone8P-想搞一套快充，有推荐的吗？](https://www.v2ex.com/t/724939) ![](assets/new.png)  
 - [2020-11-13-🔥🔥🔥-Afterpay-🔥🔥🔥-Frontend/Fullstak-BI-Engineer-Data-Engineer-Mobile-继续火热招聘中...](https://www.v2ex.com/t/724938) ![](assets/new.png)  
 - [2020-11-13-更新-big-sur-后-paste-经常出不来](https://www.v2ex.com/t/724937) ![](assets/new.png)  

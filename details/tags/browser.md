@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 05:10:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 05:20:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,8 +28,6 @@
 - [2020-11-13-北京/深圳/武汉腾讯云数据安全团队急招后台开发高级攻城狮（c/c++/go）](https://www.v2ex.com/t/724779) 
 - [2020-11-13-macos-big-sur-的-safari-没有翻译功能呀，请问怎么召唤出来](https://www.v2ex.com/t/724769) 
 - [2020-11-13-新人发帖，今天-Safari-看不到其他设备的标签页，大家有遇到吗](https://www.v2ex.com/t/724763) 
-- [2020-11-13-Safari-终于有全局缩放了，-Big-Sur-正式版](https://www.v2ex.com/t/724754) 
-- [2020-11-13-北上杭深急招-渗透测试工程师---安全与风控](https://www.v2ex.com/t/724749) 
 - [2020-11-13-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-13-人生是一个回环：我的十年安全工作总结](https://toutiao.io/k/41asxjm) 
 - [2020-11-12-小米AIoT安全峰会议题回顾|安全可信体系:系统可信标准解读与实践](https://sec.thief.one/article_content?a_id=641a73a1bccd856b083362ba69a79d6c) 

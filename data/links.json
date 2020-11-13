@@ -14391,29 +14391,29 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "webpack实现前端代码打包(上)",
-        "link": "https://juejin.im/post/6894513545011003399",
-        "date": "2020-11-12"
+        "title": "上下文/作用域/作用域链/闭包-我都懂了！",
+        "link": "https://juejin.im/post/6894524114778718221",
+        "date": "2020-11-13"
       },
       {
-        "title": "vue数组和对象响应式杂谈",
-        "link": "https://juejin.im/post/6894511218149883918",
-        "date": "2020-11-12"
+        "title": "从0到1重新撸一个Redux",
+        "link": "https://juejin.im/post/6894520600618860558",
+        "date": "2020-11-13"
       },
       {
-        "title": "高仿一个echarts饼图",
-        "link": "https://juejin.im/post/6894506478644756487",
-        "date": "2020-11-12"
+        "title": "怎么理解虚拟dom？",
+        "link": "https://juejin.im/post/6894519762353979405",
+        "date": "2020-11-13"
       },
       {
-        "title": "Vue项目首屏加载速度优化",
-        "link": "https://juejin.im/post/6894506232359436295",
-        "date": "2020-11-12"
+        "title": "JS 对象基本用法",
+        "link": "https://juejin.im/post/6894518681892880392",
+        "date": "2020-11-13"
       },
       {
-        "title": "Vue专题-chapter1",
-        "link": "https://juejin.im/post/6894501735085047822",
-        "date": "2020-11-12"
+        "title": "设计模式—单例模式(JS版本)",
+        "link": "https://juejin.im/post/6894516731256487949",
+        "date": "2020-11-13"
       }
     ]
   },
@@ -14598,6 +14598,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "突然发现 BigSur11.0.1 的 Safari 可以用翻译了🎉",
+        "link": "https://www.v2ex.com/t/724932",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "有买联想小新 air15 2021 锐龙版的老哥么？",
+        "link": "https://www.v2ex.com/t/724931",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "本来以为 ios13 就够垃圾了，结果 ios14 更垃圾",
+        "link": "https://www.v2ex.com/t/724930",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "与公司协商赔偿未果,公司已严重违纪要当天解除合同.",
+        "link": "https://www.v2ex.com/t/724928",
+        "date": "2020-11-13"
+      },
+      {
         "title": "DaVinci Resolve 今日发布 17.1 更新，支持 Apple Silicon，宣称高达 5 倍性能提升",
         "link": "https://www.v2ex.com/t/724926",
         "date": "2020-11-13"
@@ -14756,26 +14776,6 @@
         "title": "mac 未来要接力 ios 应用了吧",
         "link": "https://www.v2ex.com/t/724883",
         "date": "2020-11-13"
-      },
-      {
-        "title": "腾讯云代理有了解的么",
-        "link": "https://www.v2ex.com/t/724881",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "我在外包公司干 Java 开发干了十年，今年工资才涨到 19K。",
-        "link": "https://www.v2ex.com/t/724879",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "应届生求选 offer",
-        "link": "https://www.v2ex.com/t/724878",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "500 京东 E 卡",
-        "link": "https://www.v2ex.com/t/724877",
-        "date": "2020-11-13"
       }
     ]
   },
@@ -14784,6 +14784,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "云原生实时数仓首次在2020双11核心数据场景落地 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13932&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778177%3Futm_content%3Dg_1000204972%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-13"
+      },
       {
         "title": "大数据时代，如何用数据驱动精准营销 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13931&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778184%3Futm_content%3Dg_1000204971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14877,11 +14882,6 @@
       {
         "title": "饿了么技术往事（中） (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13913&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777827%3Futm_content%3Dg_1000202457%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "阿里云高级技术专家白常明：边缘云的技术挑战和应用创新 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13912&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777813%3Futm_content%3Dg_1000202456%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-13"
       }
     ]
@@ -14992,48 +14992,8 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-13"
       },
       {
@@ -15042,13 +15002,48 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-13"
       },
       {
@@ -15062,8 +15057,13 @@
         "date": "2020-11-13"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-13"
+      },
+      {
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-13"
       }
     ]

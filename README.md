@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 08:47:55，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 09:04:19，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
-- [2020-11-12-webpack实现前端代码打包上](https://juejin.im/post/6894513545011003399) ![](assets/new.png)  
-- [2020-11-12-vue数组和对象响应式杂谈](https://juejin.im/post/6894511218149883918) ![](assets/new.png)  
-- [2020-11-12-高仿一个echarts饼图](https://juejin.im/post/6894506478644756487) ![](assets/new.png)  
-- [2020-11-12-Vue项目首屏加载速度优化](https://juejin.im/post/6894506232359436295) ![](assets/new.png)  
-- [2020-11-12-Vue专题-chapter1](https://juejin.im/post/6894501735085047822) ![](assets/new.png)  
+- [2020-11-13-上下文/作用域/作用域链/闭包-我都懂了！](https://juejin.im/post/6894524114778718221) ![](assets/new.png)  
+- [2020-11-13-从0到1重新撸一个Redux](https://juejin.im/post/6894520600618860558) ![](assets/new.png)  
+- [2020-11-13-怎么理解虚拟dom？](https://juejin.im/post/6894519762353979405) ![](assets/new.png)  
+- [2020-11-13-JS-对象基本用法](https://juejin.im/post/6894518681892880392) ![](assets/new.png)  
+- [2020-11-13-设计模式—单例模式JS版本](https://juejin.im/post/6894516731256487949) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-13-突然发现-BigSur11.0.1-的-Safari-可以用翻译了🎉](https://www.v2ex.com/t/724932) ![](assets/new.png)  
+- [2020-11-13-有买联想小新-air15-2021-锐龙版的老哥么？](https://www.v2ex.com/t/724931) ![](assets/new.png)  
+- [2020-11-13-本来以为-ios13-就够垃圾了，结果-ios14-更垃圾](https://www.v2ex.com/t/724930) ![](assets/new.png)  
+- [2020-11-13-与公司协商赔偿未果,公司已严重违纪要当天解除合同.](https://www.v2ex.com/t/724928) ![](assets/new.png)  
 - [2020-11-13-DaVinci-Resolve-今日发布-17.1-更新，支持-Apple-Silicon，宣称高达-5-倍性能提升](https://www.v2ex.com/t/724926) ![](assets/new.png)  
 - [2020-11-13-请教各位大家每天都看哪些资讯炒美股的话？](https://www.v2ex.com/t/724923) ![](assets/new.png)  
 - [2020-11-13-有没有办法批量截取-word-文档的前几页?](https://www.v2ex.com/t/724922) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-13-某知名果黑-Linus-给-Apple-Silicon-起了个外号](https://www.v2ex.com/t/724906) ![](assets/new.png)  
 - [2020-11-13-11-月职位分享-黑帕云职位分享-成都/西安](https://www.v2ex.com/t/724905) ![](assets/new.png)  
 - [2020-11-13-腾讯云对象存储-COS-以及对象存储-COS-外网下行流量-0.9-折，-1-分钱-1G](https://www.v2ex.com/t/724904) ![](assets/new.png)  
-- [2020-11-13-北京团结湖投资机构-众为资本-数据分析师/数据工程师-22-40K](https://www.v2ex.com/t/724903) ![](assets/new.png)  
-- [2020-11-13-flash-被禁用，-firefox-无法播放网页的视频怎么办？](https://www.v2ex.com/t/724902) ![](assets/new.png)  
-- [2020-11-13-有没有下午犯困没精神，可以提神的东西。](https://www.v2ex.com/t/724901) ![](assets/new.png)  
-- [2020-11-13-在前人的基础上建了个新版-Slate-的-API-手册网站](https://www.v2ex.com/t/724900) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-13-云原生实时数仓首次在2020双11核心数据场景落地-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13932&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778177%3Futm_content%3Dg_1000204972%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-大数据时代，如何用数据驱动精准营销-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13931&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778184%3Futm_content%3Dg_1000204971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-阿里雷卷：RSocket从入门到落地，RSocket让AJP换发青春-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13930&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777835%3Futm_content%3Dg_1000204970%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-专访李飞飞-：从清华附中高材生到阿里飞刀，一口井钻出「云原生」-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13929&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778031%3Futm_content%3Dg_1000204969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-13-高质量的缺陷分析：让自己少写-bug-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13915&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778038%3Futm_content%3Dg_1000202459%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-探秘格子间，寻找互联网人缓解焦虑的宝物-www.aliyun.com](https://blogread.cn/news/go.php?idItem=13914&url=https%3A%2F%2Fwww.aliyun.com%2F1111%2Fplay%3Futm_content%3Dg_1000202260%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-13-饿了么技术往事（中）-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13913&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777827%3Futm_content%3Dg_1000202457%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-13-阿里云高级技术专家白常明：边缘云的技术挑战和应用创新-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13912&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777813%3Futm_content%3Dg_1000202456%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

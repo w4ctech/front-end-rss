@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-13 23:47:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 00:07:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-Big-Sur-如何恢复-Safari-的浏览历史？](https://www.v2ex.com/t/725094) 
+- [2020-11-13-中国大陆天气-app「空气质量指数-AQI」又回来了](https://www.v2ex.com/t/725093) 
+- [2020-11-13-昨天“苹果服务器故障导致-macOS-用户无法打开程序”新闻有感](https://www.v2ex.com/t/725090) 
 - [2020-11-13-工作还是博后](https://www.v2ex.com/t/725088) 
 - [2020-11-13-远程长期有效-Brix-平台诚前端工程师](https://www.v2ex.com/t/725086) 
 - [2020-11-13-老-Mac（官方不支援升級的-Mac）安裝-Big-Sur](https://www.v2ex.com/t/725085) 
@@ -41,7 +44,3 @@
 - [2020-11-13-有大佬知道-nginx-如何配置-cdn-嘛，想折腾一下了。。](https://www.v2ex.com/t/725047) 
 - [2020-11-13-Mac-的-App-Store-版本-QQ-收不到消息没人管？](https://www.v2ex.com/t/725046) 
 - [2020-11-13-产品经理岗求内推](https://www.v2ex.com/t/725045) 
-- [2020-11-13-升级-Big-Sur-空间不够](https://www.v2ex.com/t/725044) 
-- [2020-11-13-Big-Sur-真香](https://www.v2ex.com/t/725043) 
-- [2020-11-13-也许独立开发的关键并不是“开发”，甚至也不在于“独立”？](https://www.v2ex.com/t/725041) 
-- [2020-11-13-目前-FQ-代理/软件，哪家体验最好，推荐下。](https://www.v2ex.com/t/725040) 

@@ -14608,6 +14608,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有程序员转行做销售的经历吗",
+        "link": "https://www.v2ex.com/t/725197",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "Martian-cloud 4.0.2， 丢弃心跳机制，解决网络压力问题",
+        "link": "https://www.v2ex.com/t/725196",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "有一台淘汰的老笔记本，做什么好呢",
+        "link": "https://www.v2ex.com/t/725195",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "网上配镜，回来戴上后发现看显示器左低右高",
+        "link": "https://www.v2ex.com/t/725194",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "网站的 SEO 具体是如何实现的？",
+        "link": "https://www.v2ex.com/t/725193",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "昨天没说清楚，今天再来请教一下！",
+        "link": "https://www.v2ex.com/t/725192",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "每次换新机最糟心的就是倒腾微信聊天记录",
+        "link": "https://www.v2ex.com/t/725191",
+        "date": "2020-11-14"
+      },
+      {
         "title": "非 M1 芯片的 2020MBP 需要升级 Big Sur 吗？",
         "link": "https://www.v2ex.com/t/725190",
         "date": "2020-11-14"
@@ -14781,36 +14816,6 @@
         "title": "MacOS 有什么软件可以组合多个快捷键",
         "link": "https://www.v2ex.com/t/725148",
         "date": "2020-11-14"
-      },
-      {
-        "title": "bug sur 菜单栏图标的社交距离呢？",
-        "link": "https://www.v2ex.com/t/725147",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[2019 加杠杆买房] 按照计划，分享下我们开源节流后一年的近况吧",
-        "link": "https://www.v2ex.com/t/725146",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "中文多元微积分的教材大家是否有推荐的？",
-        "link": "https://www.v2ex.com/t/725145",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "工信部投诉了一波联通想异地销号，回复很快，本以为稳了，结果要我返还宽带设备？",
-        "link": "https://www.v2ex.com/t/725143",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "升级 Big Sur 后， Handoff 功能失效了",
-        "link": "https://www.v2ex.com/t/725142",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "Big Sur 系统上 AndroidStudio 有 bug",
-        "link": "https://www.v2ex.com/t/725141",
-        "date": "2020-11-14"
       }
     ]
   },
@@ -14982,63 +14987,8 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
-        "link": "https://toutiao.io/k/imwt9hx",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-14"
       },
       {
@@ -15047,8 +14997,63 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-14"
       }
     ]

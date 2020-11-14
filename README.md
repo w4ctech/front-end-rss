@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 06:48:01，:rocket: 更新条数: +3062， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 07:03:59，:rocket: 更新条数: +3063， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,13 @@
 </summary>
 
 
+- [2020-11-14-有程序员转行做销售的经历吗](https://www.v2ex.com/t/725197) ![](assets/new.png)  
+- [2020-11-14-Martian-cloud-4.0.2，-丢弃心跳机制，解决网络压力问题](https://www.v2ex.com/t/725196) ![](assets/new.png)  
+- [2020-11-14-有一台淘汰的老笔记本，做什么好呢](https://www.v2ex.com/t/725195) ![](assets/new.png)  
+- [2020-11-14-网上配镜，回来戴上后发现看显示器左低右高](https://www.v2ex.com/t/725194) ![](assets/new.png)  
+- [2020-11-14-网站的-SEO-具体是如何实现的？](https://www.v2ex.com/t/725193) ![](assets/new.png)  
+- [2020-11-14-昨天没说清楚，今天再来请教一下！](https://www.v2ex.com/t/725192) ![](assets/new.png)  
+- [2020-11-14-每次换新机最糟心的就是倒腾微信聊天记录](https://www.v2ex.com/t/725191) ![](assets/new.png)  
 - [2020-11-14-非-M1-芯片的-2020MBP-需要升级-Big-Sur-吗？](https://www.v2ex.com/t/725190) ![](assets/new.png)  
 - [2020-11-14-多灾多难，今天又来了零宽字符，导致字符串手机号在数据库查询不出结果](https://www.v2ex.com/t/725189) ![](assets/new.png)  
 - [2020-11-14-现在租房有什么比较好的平台吗？](https://www.v2ex.com/t/725188) ![](assets/new.png)  
@@ -546,13 +553,6 @@
 - [2020-11-14-XIA-想集-#04-让虚拟照进现实](https://www.v2ex.com/t/725178) ![](assets/new.png)  
 - [2020-11-14-macOS-鼠标的多功能按键到底该怎么用？](https://www.v2ex.com/t/725177) ![](assets/new.png)  
 - [2020-11-14-宁波蓝卓工业互联网有了解的吗](https://www.v2ex.com/t/725176) ![](assets/new.png)  
-- [2020-11-14-戴尔-U2720Q，就这？](https://www.v2ex.com/t/725175) ![](assets/new.png)  
-- [2020-11-14-电信改公网-ip](https://www.v2ex.com/t/725173) ![](assets/new.png)  
-- [2020-11-14-Gmail-转发给-iCloud-的被-apple-屏蔽规则是什么？](https://www.v2ex.com/t/725172) ![](assets/new.png)  
-- [2020-11-14-关于「热门」的想法](https://www.v2ex.com/t/725171) ![](assets/new.png)  
-- [2020-11-14-macOS-Big-Sur-更新之后，根目录文件丢失？](https://www.v2ex.com/t/725170) ![](assets/new.png)  
-- [2020-11-14-Java-static-方法](https://www.v2ex.com/t/725168) ![](assets/new.png)  
-- [2020-11-14-macOS-big-sur-安装问题请教](https://www.v2ex.com/t/725167) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -606,15 +606,15 @@
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
 - [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-14-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
 - [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
+- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
 - [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

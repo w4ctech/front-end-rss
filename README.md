@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 04:24:20，:rocket: 更新条数: +3058， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 04:32:55，:rocket: 更新条数: +3058， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
+- [2020-11-13-Chrome给我来10个](https://juejin.im/post/6894831968765411341) ![](assets/new.png)  
 - [2020-11-13-【推荐收藏】10-个最佳实践来改良你的-CSS](https://juejin.im/post/6894827721449275406) ![](assets/new.png)  
 - [2020-11-13-JavaScript原型和原型链知识梳理](https://juejin.im/post/6894824183344480264) ![](assets/new.png)  
 - [2020-11-13-学习笔记-浏览器内多个标签页之间的通讯](https://juejin.im/post/6894826921104769032) ![](assets/new.png)  
 - [2020-11-13-JS程序执行详解](https://juejin.im/post/6894797926120783880) ![](assets/new.png)  
-- [2020-11-13-一篇文章带你了解CSS3-3D-转换知识](https://juejin.im/post/6894760287107448845) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-14-理想的-MacBook](https://www.v2ex.com/t/725153) ![](assets/new.png)  
 - [2020-11-14-Big-sur-怎么更换登录界面的背景图？](https://www.v2ex.com/t/725152) ![](assets/new.png)  
 - [2020-11-14-Big-Sur-升级后，-Axure-生成的文件，无法打开-index.html-文件](https://www.v2ex.com/t/725151) ![](assets/new.png)  
 - [2020-11-14-APP，一个尚未成熟的想法](https://www.v2ex.com/t/725150) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-14-人寿让我去什么国家基因库储存细胞是什么套路](https://www.v2ex.com/t/725134) ![](assets/new.png)  
 - [2020-11-14-如何调整-Android-10-system-分区大小](https://www.v2ex.com/t/725132) ![](assets/new.png)  
 - [2020-11-14-黑翼资产-招聘：-CTA-量化研究员/量化开发&数据开发工程师](https://www.v2ex.com/t/725131) ![](assets/new.png)  
-- [2020-11-14-我个人觉得要认真写日报、周报、开好站会～](https://www.v2ex.com/t/725129) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,19 +602,19 @@
 - [2020-11-14-10-个有用的-HTML-文件上传技巧](https://toutiao.io/k/fo6wjj6) ![](assets/new.png)  
 - [2020-11-14-10-张图-22-段代码，万字长文带你搞懂虚拟内存模型和-malloc-内部原理](https://toutiao.io/k/cqnqfjo) ![](assets/new.png)  
 - [2020-11-14-译-Python-幕后解释器：一系列的学习资源](https://toutiao.io/k/k29n7yb) ![](assets/new.png)  
-- [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
+- [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
-- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
 - [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
 - [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

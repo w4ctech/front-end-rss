@@ -14603,211 +14603,10 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
+    "rss": "https://rss.shab.fun/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": [
-      {
-        "title": "带光驱和无光驱的都拿到了",
-        "link": "https://www.v2ex.com/t/725337",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "独立授权版的 1password 如何从 6 升级到 7",
-        "link": "https://www.v2ex.com/t/725336",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "五个半小时前发的帖子，发现在个人主题列表中显示两天前，分类中也看不到",
-        "link": "https://www.v2ex.com/t/725335",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "目前的 api 网关有没有可以按照地区或者城市分配流量的方案",
-        "link": "https://www.v2ex.com/t/725333",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "大家的 macos big sur 系统看视频卡吗？",
-        "link": "https://www.v2ex.com/t/725331",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "Big Sur 系统还会有之前 Catalina 的 Thunderbolt 接口导致重启的问题么？",
-        "link": "https://www.v2ex.com/t/725330",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "求推荐好用的便携式显示器",
-        "link": "https://www.v2ex.com/t/725329",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "big sur 我发现的问题",
-        "link": "https://www.v2ex.com/t/725328",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "崇明民宿会去住吗?",
-        "link": "https://www.v2ex.com/t/725326",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "广州求后端开发实习 海外应届生",
-        "link": "https://www.v2ex.com/t/725325",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "问一下大家 10 月 9 号入职的， 10 月份的工资该怎么算",
-        "link": "https://www.v2ex.com/t/725324",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[深圳] [高新园地铁站] 上市房地产服务公司 IT 部门，双休， 965， 12-25k",
-        "link": "https://www.v2ex.com/t/725323",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "关于如何导出 Google Photos 中的照片",
-        "link": "https://www.v2ex.com/t/725322",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "微软这是 TMD 什么鬼验证码",
-        "link": "https://www.v2ex.com/t/725321",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "网站建设",
-        "link": "https://www.v2ex.com/t/725320",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "升级 Big Sur 后卡在登陆界面。。。。。。。",
-        "link": "https://www.v2ex.com/t/725319",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "如果你可以重新命名 dynamic programming，你会叫它什么？",
-        "link": "https://www.v2ex.com/t/725317",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "关于手机信号的无限猜想~~",
-        "link": "https://www.v2ex.com/t/725316",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "税务代开发票（个人劳务所得）是先预扣 20% 之后，年度汇算的时候再返还呢？",
-        "link": "https://www.v2ex.com/t/725315",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "Consul GRPC 健康检查失败问题",
-        "link": "https://www.v2ex.com/t/725314",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "照片备份的解决办法？",
-        "link": "https://www.v2ex.com/t/725311",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "密码学原理在区块链和其他场景的应用",
-        "link": "https://www.v2ex.com/t/725310",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "每次看自己以前写的博客都有种 XX 的感觉?",
-        "link": "https://www.v2ex.com/t/725309",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "记一次性能调优 | 极客分享第 4 期",
-        "link": "https://www.v2ex.com/t/725308",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "我不适合上班",
-        "link": "https://www.v2ex.com/t/725307",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "10 月离职工资怎么算？有没有懂的 v 友？",
-        "link": "https://www.v2ex.com/t/725306",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "有遇到 Apple Watch 徽章不生成了的吗？",
-        "link": "https://www.v2ex.com/t/725305",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "能利用 SMTP/IMAP 互相发送 IP+遍历猜测 port 来实现 P2P 的 UDP 通讯吗？",
-        "link": "https://www.v2ex.com/t/725304",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "鉴于最近看到一些侵权相关的帖子，请教几个问题",
-        "link": "https://www.v2ex.com/t/725303",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "更新完 14.2 后 safari 翻译功能没了？",
-        "link": "https://www.v2ex.com/t/725301",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "抹盘升级到 Big Sur，发现 Time Machine 不可用",
-        "link": "https://www.v2ex.com/t/725300",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "国内外有比较活跃的 ios 快捷指令相关论坛吗？",
-        "link": "https://www.v2ex.com/t/725298",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "iOS 横屏出现半个负一屏",
-        "link": "https://www.v2ex.com/t/725296",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[滴滴出行-北京、杭州、成都、深圳内推] iOS/Android/ Java /前端/算法/ PHP /Go/C++/数据等各类职位大量招聘，月 20k-80k，优秀另有期权",
-        "link": "https://www.v2ex.com/t/725295",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "求推荐五千以下性价比高的笔记本，二手的也可以",
-        "link": "https://www.v2ex.com/t/725294",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "关于目录的疑惑",
-        "link": "https://www.v2ex.com/t/725293",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "想买二手 iPhone ，哪里比较靠谱？",
-        "link": "https://www.v2ex.com/t/725292",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "请问为何 V2EX 同样用了 cloudflare，可是 ping 的丢包率比我同样的 cloudflare 网站要低很多呢？",
-        "link": "https://www.v2ex.com/t/725291",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "WIn10 和 IOS 剪切板共享",
-        "link": "https://www.v2ex.com/t/725290",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "mbp2020 打开 iOS 模拟器以后声音爆了",
-        "link": "https://www.v2ex.com/t/725289",
-        "date": "2020-11-14"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -14972,38 +14771,8 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-14"
-      },
-      {
         "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
         "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-14"
       },
       {
@@ -15012,13 +14781,43 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
         "date": "2020-11-14"
       },
       {
@@ -15027,13 +14826,8 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-14"
       },
       {
@@ -15044,6 +14838,11 @@
       {
         "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
         "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-14"
       }
     ]

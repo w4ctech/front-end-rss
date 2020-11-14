@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 14:20:54，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 14:33:26，:rocket: 更新条数: +3021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,26 +533,6 @@
 </summary>
 
 
-- [2020-11-14-Consul-GRPC-健康检查失败问题](https://www.v2ex.com/t/725314) ![](assets/new.png)  
-- [2020-11-14-照片备份的解决办法？](https://www.v2ex.com/t/725311) ![](assets/new.png)  
-- [2020-11-14-密码学原理在区块链和其他场景的应用](https://www.v2ex.com/t/725310) ![](assets/new.png)  
-- [2020-11-14-每次看自己以前写的博客都有种-XX-的感觉?](https://www.v2ex.com/t/725309) ![](assets/new.png)  
-- [2020-11-14-记一次性能调优-|-极客分享第-4-期](https://www.v2ex.com/t/725308) ![](assets/new.png)  
-- [2020-11-14-我不适合上班](https://www.v2ex.com/t/725307) ![](assets/new.png)  
-- [2020-11-14-10-月离职工资怎么算？有没有懂的-v-友？](https://www.v2ex.com/t/725306) ![](assets/new.png)  
-- [2020-11-14-有遇到-Apple-Watch-徽章不生成了的吗？](https://www.v2ex.com/t/725305) ![](assets/new.png)  
-- [2020-11-14-能利用-SMTP/IMAP-互相发送-IP+遍历猜测-port-来实现-P2P-的-UDP-通讯吗？](https://www.v2ex.com/t/725304) ![](assets/new.png)  
-- [2020-11-14-鉴于最近看到一些侵权相关的帖子，请教几个问题](https://www.v2ex.com/t/725303) ![](assets/new.png)  
-- [2020-11-14-转-马保国尤大版本-¿¿¿](https://www.v2ex.com/t/725302) ![](assets/new.png)  
-- [2020-11-14-更新完-14.2-后-safari-翻译功能没了？](https://www.v2ex.com/t/725301) ![](assets/new.png)  
-- [2020-11-14-抹盘升级到-Big-Sur，发现-Time-Machine-不可用](https://www.v2ex.com/t/725300) ![](assets/new.png)  
-- [2020-11-14-国内外有比较活跃的-ios-快捷指令相关论坛吗？](https://www.v2ex.com/t/725298) ![](assets/new.png)  
-- [2020-11-14-iOS-横屏出现半个负一屏](https://www.v2ex.com/t/725296) ![](assets/new.png)  
-- [2020-11-14-滴滴出行-北京、杭州、成都、深圳内推-iOS/Android/-Java-/前端/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/725295) ![](assets/new.png)  
-- [2020-11-14-求推荐五千以下性价比高的笔记本，二手的也可以](https://www.v2ex.com/t/725294) ![](assets/new.png)  
-- [2020-11-14-关于目录的疑惑](https://www.v2ex.com/t/725293) ![](assets/new.png)  
-- [2020-11-14-想买二手-iPhone-，哪里比较靠谱？](https://www.v2ex.com/t/725292) ![](assets/new.png)  
-- [2020-11-14-请问为何-V2EX-同样用了-cloudflare，可是-ping-的丢包率比我同样的-cloudflare-网站要低很多呢？](https://www.v2ex.com/t/725291) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,15 +585,15 @@
 - [2020-11-14-译-Python-幕后解释器：一系列的学习资源](https://toutiao.io/k/k29n7yb) ![](assets/new.png)  
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
-- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-14-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-14-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
 - [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
 - [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-14 09:48:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 10:04:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -296,7 +296,6 @@
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】网站的-SEO-具体是如何实现的？](https://www.v2ex.com/t/725193)
 - [【技术头条】Android网络性能监控方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13921&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778070%3Futm_content%3Dg_1000203100%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】T级内存，创建效率提升10倍以上，阿里云-KVM异构虚拟机启动时间优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13918&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777709%3Futm_content%3Dg_1000203098%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -330,8 +329,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html)
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
-- [【掘金前端】总结一下-CSRF-跨站请求伪造](https://juejin.im/post/6894876889476038663)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】我发现-我公司的-review-code-这个目的已经变质了。](https://www.v2ex.com/t/725245)
 - [【V2EX】请教大家个问题，一个-post-接口如何实现处理多个业务请求？](https://www.v2ex.com/t/725233)
 - [【V2EX】云储存最安全解决方案是什么？](https://www.v2ex.com/t/725230)
 - [【V2EX】如何将-WKWebView-的网页保存到本地？](https://www.v2ex.com/t/725207)
@@ -406,6 +405,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [【安全热点】【美团招聘】冬季专场Vol.1~这13个岗位热招中!](https://sec.thief.one/article_content?a_id=0c94c23144faca42b66f855299c0988d)
 - [【安全热点】招聘-|-上海埃帕信息科技有限公司](https://sec.thief.one/article_content?a_id=b64567b976b9fa210b3a50d12fc1ca55)
 - [【安全热点】感谢“您”面试我,却狠拒绝了“我”](https://sec.thief.one/article_content?a_id=28d77d39c4ed270dab1b724a478b4f72)

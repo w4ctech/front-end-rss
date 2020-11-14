@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 07:11:16，:rocket: 更新条数: +3063， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 07:20:49，:rocket: 更新条数: +3064， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-14-新款-M1-的-MBP13，外接双显示器（都是-LG，-4k），有啥好的办法吗？看了太多的扩展坞文章，已经晕了。](https://www.v2ex.com/t/725203) ![](assets/new.png)  
+- [2020-11-14-Big-Sur-的-spotlight-搜索要怎么快速选中「定义」项？](https://www.v2ex.com/t/725202) ![](assets/new.png)  
+- [2020-11-14-迫于法律知识缺失，想请教大家哪里有能学到日常法律知识的途径](https://www.v2ex.com/t/725201) ![](assets/new.png)  
+- [2020-11-14-阿里云新用户的-1-核-2g3-年才-290-元，-2-核-4g3-年-509-元，很超值啊](https://www.v2ex.com/t/725200) ![](assets/new.png)  
 - [2020-11-14-好兄弟们,coredump-如何把时间打成当前时间](https://www.v2ex.com/t/725199) ![](assets/new.png)  
 - [2020-11-14-更新-big-sur-正式版后-无法打开-eclipse-和-pd-了？](https://www.v2ex.com/t/725198) ![](assets/new.png)  
 - [2020-11-14-有程序员转行做销售的经历吗](https://www.v2ex.com/t/725197) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-14-震惊！-MacOS-Big-Sur-在-Apple-Store-直接死机，大家升级需谨慎](https://www.v2ex.com/t/725186) ![](assets/new.png)  
 - [2020-11-14-iPhone-12-系列-个人热点-问题：-1，开启-5G。2，自动-5G。3，仅开启-4G/LTE。](https://www.v2ex.com/t/725184) ![](assets/new.png)  
 - [2020-11-14-小白请教,昨天买了个入门阿里云,但是不会用.](https://www.v2ex.com/t/725182) ![](assets/new.png)  
-- [2020-11-14-升级新系统-big-sur-后，关于-quicklook-插件的问题](https://www.v2ex.com/t/725181) ![](assets/new.png)  
-- [2020-11-14-iOS-上适合编程启蒙的游戏性质的-APP-有推荐的吗](https://www.v2ex.com/t/725180) ![](assets/new.png)  
-- [2020-11-14-升级正式版后，合盖外接显示器无法正常唤醒的问题](https://www.v2ex.com/t/725179) ![](assets/new.png)  
-- [2020-11-14-XIA-想集-#04-让虚拟照进现实](https://www.v2ex.com/t/725178) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
+- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
 - [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-14-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
-- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

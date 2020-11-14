@@ -14608,6 +14608,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "新款 M1 的 MBP13，外接双显示器（都是 LG， 4k），有啥好的办法吗？看了太多的扩展坞文章，已经晕了。",
+        "link": "https://www.v2ex.com/t/725203",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "Big Sur 的 spotlight 搜索要怎么快速选中「定义」项？",
+        "link": "https://www.v2ex.com/t/725202",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "迫于法律知识缺失，想请教大家哪里有能学到日常法律知识的途径",
+        "link": "https://www.v2ex.com/t/725201",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "阿里云新用户的 1 核 2g3 年才 290 元， 2 核 4g3 年 509 元，很超值啊",
+        "link": "https://www.v2ex.com/t/725200",
+        "date": "2020-11-14"
+      },
+      {
         "title": "好兄弟们,coredump 如何把时间打成当前时间",
         "link": "https://www.v2ex.com/t/725199",
         "date": "2020-11-14"
@@ -14723,6 +14743,11 @@
         "date": "2020-11-14"
       },
       {
+        "title": "兄弟萌，是我小题大作了吗",
+        "link": "https://www.v2ex.com/t/725174",
+        "date": "2020-11-14"
+      },
+      {
         "title": "电信改公网 ip",
         "link": "https://www.v2ex.com/t/725173",
         "date": "2020-11-14"
@@ -14795,26 +14820,6 @@
       {
         "title": "你是否有感西医诊所比较少见？",
         "link": "https://www.v2ex.com/t/725156",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "理想的 MacBook",
-        "link": "https://www.v2ex.com/t/725153",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "Big sur 怎么更换登录界面的背景图？",
-        "link": "https://www.v2ex.com/t/725152",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "Big Sur 升级后， Axure 生成的文件，无法打开 index.html 文件",
-        "link": "https://www.v2ex.com/t/725151",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "APP，一个尚未成熟的想法",
-        "link": "https://www.v2ex.com/t/725150",
         "date": "2020-11-14"
       }
     ]
@@ -14982,53 +14987,13 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-14"
       },
       {
@@ -15037,13 +15002,33 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-14"
       },
       {
@@ -15052,8 +15037,28 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-14"
       }
     ]

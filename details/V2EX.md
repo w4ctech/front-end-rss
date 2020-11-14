@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-14 07:11:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 07:20:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-新款-M1-的-MBP13，外接双显示器（都是-LG，-4k），有啥好的办法吗？看了太多的扩展坞文章，已经晕了。](https://www.v2ex.com/t/725203) 
+- [2020-11-14-Big-Sur-的-spotlight-搜索要怎么快速选中「定义」项？](https://www.v2ex.com/t/725202) 
+- [2020-11-14-迫于法律知识缺失，想请教大家哪里有能学到日常法律知识的途径](https://www.v2ex.com/t/725201) 
+- [2020-11-14-阿里云新用户的-1-核-2g3-年才-290-元，-2-核-4g3-年-509-元，很超值啊](https://www.v2ex.com/t/725200) 
 - [2020-11-14-好兄弟们,coredump-如何把时间打成当前时间](https://www.v2ex.com/t/725199) 
 - [2020-11-14-更新-big-sur-正式版后-无法打开-eclipse-和-pd-了？](https://www.v2ex.com/t/725198) 
 - [2020-11-14-有程序员转行做销售的经历吗](https://www.v2ex.com/t/725197) 
@@ -28,6 +32,7 @@
 - [2020-11-14-macOS-鼠标的多功能按键到底该怎么用？](https://www.v2ex.com/t/725177) 
 - [2020-11-14-宁波蓝卓工业互联网有了解的吗](https://www.v2ex.com/t/725176) 
 - [2020-11-14-戴尔-U2720Q，就这？](https://www.v2ex.com/t/725175) 
+- [2020-11-14-兄弟萌，是我小题大作了吗](https://www.v2ex.com/t/725174) 
 - [2020-11-14-电信改公网-ip](https://www.v2ex.com/t/725173) 
 - [2020-11-14-Gmail-转发给-iCloud-的被-apple-屏蔽规则是什么？](https://www.v2ex.com/t/725172) 
 - [2020-11-14-关于「热门」的想法](https://www.v2ex.com/t/725171) 
@@ -43,7 +48,3 @@
 - [2020-11-14-intellij-调试-spark-程序可以查看到-rdd-数据吗](https://www.v2ex.com/t/725158) 
 - [2020-11-14-两个-offer，-差距-4-千块钱，怎么选](https://www.v2ex.com/t/725157) 
 - [2020-11-14-你是否有感西医诊所比较少见？](https://www.v2ex.com/t/725156) 
-- [2020-11-14-理想的-MacBook](https://www.v2ex.com/t/725153) 
-- [2020-11-14-Big-sur-怎么更换登录界面的背景图？](https://www.v2ex.com/t/725152) 
-- [2020-11-14-Big-Sur-升级后，-Axure-生成的文件，无法打开-index.html-文件](https://www.v2ex.com/t/725151) 
-- [2020-11-14-APP，一个尚未成熟的想法](https://www.v2ex.com/t/725150) 

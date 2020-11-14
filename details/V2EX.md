@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-14 00:52:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 00:59:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2020-11-13-速报，-aka.ms-被解析到-localhost-了](https://www.v2ex.com/t/725054) 
 - [2020-11-13-MacOS-Big-Sur-可用深信服-EasyConnect-7.6.7](https://www.v2ex.com/t/725053) 
 - [2020-11-13-请教各位大佬一个-mongoDb-表设计的问题，是否应该使用内嵌数组](https://www.v2ex.com/t/725052) 
-- [2020-11-13-求教-MacBook-外接显示器问题](https://www.v2ex.com/t/725049) 

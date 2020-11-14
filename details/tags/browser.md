@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-14 13:10:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 13:18:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,7 +24,6 @@
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-14-Safari-浏览器问题~](https://www.v2ex.com/t/725278) 
-- [2020-11-14-我发现-我公司的-review-code-这个目的已经变质了。](https://www.v2ex.com/t/725245) 
 - [2020-11-14-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-14-奇安信内生安全亮相新一代工业互联网与新型智慧城市建设大会](https://sec.thief.one/article_content?a_id=817319dc325841699e23680e2747f969) 
 - [2020-11-14-Web安全:点击劫持](https://sec.thief.one/article_content?a_id=2327b1dfd597cf1dc94c224489dec28d) 

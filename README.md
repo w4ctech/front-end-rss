@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 23:10:45，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 23:19:32，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -473,11 +473,11 @@
 </summary>
 
 
+- [2020-11-14-精选高频-VS-Code插件，让你多陪陪npy！](https://juejin.im/post/6895011670301605896) ![](assets/new.png)  
+- [2020-11-14-手把手教你撸一个能生成抖音风格动图的gif制作平台](https://juejin.im/post/6895005349992988686) ![](assets/new.png)  
 - [2020-11-14-闪电五连鞭：Composition-API原理深度剖析](https://juejin.im/post/6894993303486332941) ![](assets/new.png)  
 - [2020-11-14-Redux、-React-Redux学习](https://juejin.im/post/6894990144495943694) ![](assets/new.png)  
 - [2020-11-14-Serverless之AWS-Lambda初探-|-🏆-技术专题第七期征文](https://juejin.im/post/6894987116284116999) ![](assets/new.png)  
-- [2020-11-14-【翻译向】如何阅读ECMAScript标准——part1](https://juejin.im/post/6894976257339949064) ![](assets/new.png)  
-- [2020-11-14-一篇博客搞懂-Ajax-是什么Ajax原来这么简单](https://juejin.im/post/6894971793745182727) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,16 +625,16 @@
 - [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
-- [2020-11-14-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
 - [2020-11-14-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-14-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

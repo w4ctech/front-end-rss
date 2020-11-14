@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 05:33:01，:rocket: 更新条数: +3058， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 05:47:50，:rocket: 更新条数: +3059， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-14-电信改公网-ip](https://www.v2ex.com/t/725173) ![](assets/new.png)  
+- [2020-11-14-Gmail-转发给-iCloud-的被-apple-屏蔽规则是什么？](https://www.v2ex.com/t/725172) ![](assets/new.png)  
+- [2020-11-14-关于「热门」的想法](https://www.v2ex.com/t/725171) ![](assets/new.png)  
+- [2020-11-14-macOS-Big-Sur-更新之后，根目录文件丢失？](https://www.v2ex.com/t/725170) ![](assets/new.png)  
 - [2020-11-14-Java-static-方法](https://www.v2ex.com/t/725168) ![](assets/new.png)  
 - [2020-11-14-macOS-big-sur-安装问题请教](https://www.v2ex.com/t/725167) ![](assets/new.png)  
 - [2020-11-14-iphone12-的全系-oled-和-iPad-pro-的顶级-LCD，为什么到了-iPhone-这就不能拥有顶级的-lcd](https://www.v2ex.com/t/725166) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-14-Big-Sur-升级后，-Axure-生成的文件，无法打开-index.html-文件](https://www.v2ex.com/t/725151) ![](assets/new.png)  
 - [2020-11-14-APP，一个尚未成熟的想法](https://www.v2ex.com/t/725150) ![](assets/new.png)  
 - [2020-11-14-mbp-14/16-大概率是明年-Q1-Q3-了](https://www.v2ex.com/t/725149) ![](assets/new.png)  
-- [2020-11-14-MacOS-有什么软件可以组合多个快捷键](https://www.v2ex.com/t/725148) ![](assets/new.png)  
-- [2020-11-14-bug-sur-菜单栏图标的社交距离呢？](https://www.v2ex.com/t/725147) ![](assets/new.png)  
-- [2020-11-14-2019-加杠杆买房-按照计划，分享下我们开源节流后一年的近况吧](https://www.v2ex.com/t/725146) ![](assets/new.png)  
-- [2020-11-14-中文多元微积分的教材大家是否有推荐的？](https://www.v2ex.com/t/725145) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -606,14 +606,14 @@
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
 - [2020-11-14-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-14-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
 - [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
 - [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
 - [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

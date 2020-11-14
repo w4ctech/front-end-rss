@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-14 04:48:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 05:04:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-IPv6List---一个收集支持-IPv6-域名的列表](https://www.v2ex.com/t/725163) 
+- [2020-11-14-不等官网发货，今天直接直营店线下取-12pm-了](https://www.v2ex.com/t/725162) 
+- [2020-11-14-求助！硬盘盒接-MacbookPro-没有反应](https://www.v2ex.com/t/725161) 
 - [2020-11-14-intellij-调试-spark-程序可以查看到-rdd-数据吗](https://www.v2ex.com/t/725158) 
 - [2020-11-14-两个-offer，-差距-4-千块钱，怎么选](https://www.v2ex.com/t/725157) 
 - [2020-11-14-你是否有感西医诊所比较少见？](https://www.v2ex.com/t/725156) 
@@ -39,6 +42,3 @@
 - [2020-11-14-关于-4k@120](https://www.v2ex.com/t/725118) 
 - [2020-11-14-有什么办法让-Big-Sur-的菜单栏不根据壁纸变色？](https://www.v2ex.com/t/725117) 
 - [2020-11-14-有没有-mac-版本-iMessage-和-FaceTime-无法登陆的朋友？](https://www.v2ex.com/t/725115) 
-- [2020-11-14-MBP-带-bar-16-款-13-寸能升级-big-sur-吗？会不会很卡](https://www.v2ex.com/t/725112) 
-- [2020-11-14-电信新一波提速活动好像取消了](https://www.v2ex.com/t/725110) 
-- [2020-11-14-双十一别人在买买买，我在被客服“制裁”](https://www.v2ex.com/t/725109) 

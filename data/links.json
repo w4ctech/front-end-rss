@@ -14603,6 +14603,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "小白请教,昨天买了个入门阿里云,但是不会用.",
+        "link": "https://www.v2ex.com/t/725182",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "升级新系统 big sur 后，关于 quicklook 插件的问题",
+        "link": "https://www.v2ex.com/t/725181",
+        "date": "2020-11-14"
+      },
+      {
         "title": "iOS 上适合编程启蒙的游戏性质的 APP 有推荐的吗",
         "link": "https://www.v2ex.com/t/725180",
         "date": "2020-11-14"
@@ -14796,16 +14806,6 @@
         "title": "人寿让我去什么国家基因库储存细胞是什么套路",
         "link": "https://www.v2ex.com/t/725134",
         "date": "2020-11-14"
-      },
-      {
-        "title": "如何调整 Android 10 system 分区大小",
-        "link": "https://www.v2ex.com/t/725132",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[黑翼资产] 招聘： CTA 量化研究员/量化开发&数据开发工程师",
-        "link": "https://www.v2ex.com/t/725131",
-        "date": "2020-11-14"
       }
     ]
   },
@@ -14972,18 +14972,38 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-14"
-      },
-      {
         "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
         "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
         "date": "2020-11-14"
       },
       {
@@ -14997,38 +15017,18 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-14"
       },
       {
@@ -15037,13 +15037,13 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-14"
       }
     ]

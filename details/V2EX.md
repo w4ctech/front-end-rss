@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-14 07:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 07:11:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-好兄弟们,coredump-如何把时间打成当前时间](https://www.v2ex.com/t/725199) 
+- [2020-11-14-更新-big-sur-正式版后-无法打开-eclipse-和-pd-了？](https://www.v2ex.com/t/725198) 
 - [2020-11-14-有程序员转行做销售的经历吗](https://www.v2ex.com/t/725197) 
 - [2020-11-14-Martian-cloud-4.0.2，-丢弃心跳机制，解决网络压力问题](https://www.v2ex.com/t/725196) 
 - [2020-11-14-有一台淘汰的老笔记本，做什么好呢](https://www.v2ex.com/t/725195) 
@@ -45,5 +47,3 @@
 - [2020-11-14-Big-sur-怎么更换登录界面的背景图？](https://www.v2ex.com/t/725152) 
 - [2020-11-14-Big-Sur-升级后，-Axure-生成的文件，无法打开-index.html-文件](https://www.v2ex.com/t/725151) 
 - [2020-11-14-APP，一个尚未成熟的想法](https://www.v2ex.com/t/725150) 
-- [2020-11-14-mbp-14/16-大概率是明年-Q1-Q3-了](https://www.v2ex.com/t/725149) 
-- [2020-11-14-MacOS-有什么软件可以组合多个快捷键](https://www.v2ex.com/t/725148) 

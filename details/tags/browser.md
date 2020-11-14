@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-14 08:33:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 08:48:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,7 +24,6 @@
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2020-11-13-Prettier---Code-formatter使用](https://juejin.im/post/6894883208584757261) 
 - [2020-11-13-Chrome给我来10个](https://juejin.im/post/6894831968765411341) 
-- [2020-11-13-学习笔记-浏览器内多个标签页之间的通讯](https://juejin.im/post/6894826921104769032) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-14-如何将-WKWebView-的网页保存到本地？](https://www.v2ex.com/t/725207) 
 - [2020-11-14-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

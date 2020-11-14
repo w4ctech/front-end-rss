@@ -14401,6 +14401,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "使用CSS ::marker的自定义项目符号",
+        "link": "https://juejin.im/post/6894890214330908679",
+        "date": "2020-11-14"
+      },
+      {
         "title": "Prettier - Code formatter使用",
         "link": "https://juejin.im/post/6894883208584757261",
         "date": "2020-11-13"
@@ -14418,11 +14423,6 @@
       {
         "title": "JavaScript原型和原型链知识梳理",
         "link": "https://juejin.im/post/6894824183344480264",
-        "date": "2020-11-13"
-      },
-      {
-        "title": "学习笔记-浏览器内多个标签页之间的通讯",
-        "link": "https://juejin.im/post/6894826921104769032",
         "date": "2020-11-13"
       }
     ]
@@ -14608,6 +14608,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "V 站的学生朋友，你们校内同学间交流都用什么平台？",
+        "link": "https://www.v2ex.com/t/725225",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "更新到 Big Sur 之后，此前休眠后点亮设备仅显示光标黑屏的问题不再出现",
+        "link": "https://www.v2ex.com/t/725223",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "2020 届前端校招生，工作 4 个月失业真心不知道咋办了",
+        "link": "https://www.v2ex.com/t/725222",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "Notepads",
+        "link": "https://www.v2ex.com/t/725221",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "请问如何判断启动某个 Python 进程的 Python 环境位置呢？",
+        "link": "https://www.v2ex.com/t/725220",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "iphone12 是真的黄",
+        "link": "https://www.v2ex.com/t/725219",
+        "date": "2020-11-14"
+      },
+      {
         "title": "V2 搜索功能，反馈一个不知是不是 Bug 的问题",
         "link": "https://www.v2ex.com/t/725218",
         "date": "2020-11-14"
@@ -14791,36 +14821,6 @@
         "title": "宁波蓝卓工业互联网有了解的吗",
         "link": "https://www.v2ex.com/t/725176",
         "date": "2020-11-14"
-      },
-      {
-        "title": "戴尔 U2720Q，就这？",
-        "link": "https://www.v2ex.com/t/725175",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "兄弟萌，是我小题大作了吗",
-        "link": "https://www.v2ex.com/t/725174",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "电信改公网 ip",
-        "link": "https://www.v2ex.com/t/725173",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "Gmail 转发给 iCloud 的被 apple 屏蔽规则是什么？",
-        "link": "https://www.v2ex.com/t/725172",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "关于「热门」的想法",
-        "link": "https://www.v2ex.com/t/725171",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "macOS Big Sur 更新之后，根目录文件丢失？",
-        "link": "https://www.v2ex.com/t/725170",
-        "date": "2020-11-14"
       }
     ]
   },
@@ -14987,53 +14987,8 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] 一篇文章搞清电商订单结算页面设计？",
+        "link": "https://toutiao.io/k/imwt9hx",
         "date": "2020-11-14"
       },
       {
@@ -15042,8 +14997,8 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-14"
       },
       {
@@ -15052,8 +15007,53 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-14"
       },
       {

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-14 08:33:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 08:48:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -216,6 +216,7 @@
 - [【张鑫旭-鑫空间-鑫生活】如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/)
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
+- [【掘金前端】使用CSS-::marker的自定义项目符号](https://juejin.im/post/6894890214330908679)
 - [【前端艺术家&&飞冰早报】【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0)
 - [【前端艺术家&&飞冰早报】b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882)
 - [【前端艺术家&&飞冰早报】Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202)
@@ -330,9 +331,9 @@
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【掘金前端】Prettier---Code-formatter使用](https://juejin.im/post/6894883208584757261)
 - [【掘金前端】Chrome给我来10个](https://juejin.im/post/6894831968765411341)
-- [【掘金前端】学习笔记-浏览器内多个标签页之间的通讯](https://juejin.im/post/6894826921104769032)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】如何将-WKWebView-的网页保存到本地？](https://www.v2ex.com/t/725207)
+- [【技术头条】移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -403,6 +404,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [【安全热点】【美团招聘】冬季专场Vol.1~这13个岗位热招中!](https://sec.thief.one/article_content?a_id=0c94c23144faca42b66f855299c0988d)
 - [【安全热点】招聘-|-上海埃帕信息科技有限公司](https://sec.thief.one/article_content?a_id=b64567b976b9fa210b3a50d12fc1ca55)
 - [【安全热点】感谢“您”面试我,却狠拒绝了“我”](https://sec.thief.one/article_content?a_id=28d77d39c4ed270dab1b724a478b4f72)

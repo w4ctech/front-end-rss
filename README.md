@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 10:47:58，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 11:04:16，:rocket: 更新条数: +3061， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-14-AirPods-在-Mac-和-iPhone-之间反复横跳](https://www.v2ex.com/t/725262) ![](assets/new.png)  
+- [2020-11-14-ios-上有类似-librera-这样优秀的本地电子书阅读软件吗](https://www.v2ex.com/t/725261) ![](assets/new.png)  
 - [2020-11-14-这些年你们追过的女孩都成功了吗？](https://www.v2ex.com/t/725260) ![](assets/new.png)  
 - [2020-11-14-微软-欢迎找我内推](https://www.v2ex.com/t/725258) ![](assets/new.png)  
 - [2020-11-14-谈谈拜登或者川普对华为的影响](https://www.v2ex.com/t/725256) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-14-关于业务异常的处理方式](https://www.v2ex.com/t/725240) ![](assets/new.png)  
 - [2020-11-14-用-HCaaS-容器虚拟机（宝塔版）搭建-WorldPress](https://www.v2ex.com/t/725239) ![](assets/new.png)  
 - [2020-11-14-为什么-MSVC-的编译器警告号从-4000-开始？](https://www.v2ex.com/t/725238) ![](assets/new.png)  
-- [2020-11-14-Junit-测试-有人帮忙做吗-有偿](https://www.v2ex.com/t/725235) ![](assets/new.png)  
-- [2020-11-14-更新-Big-Sur-以后，-Spotlight-的搜索速度变慢了很多](https://www.v2ex.com/t/725234) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -606,15 +606,15 @@
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
 - [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-14-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
 - [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,26 +626,26 @@
 </summary>
 
 
+- [2020-11-14-在看-|-一周网安回顾-2020.11.7~11.13](https://sec.thief.one/article_content?a_id=dab8489a39e307c4759aed9b7fd5d7e8) ![](assets/new.png)  
+- [2020-11-14-哥斯拉Godzilla运行原理探寻](https://sec.thief.one/article_content?a_id=d261973affbfa9728e7d5bc18f102042) ![](assets/new.png)  
+- [2020-11-14-漏洞银行助力第二期网络安全公开课!每周四19:30直播间等你](https://sec.thief.one/article_content?a_id=29a7b2c11ee6493c3a2d63b20a4160a5) ![](assets/new.png)  
+- [2020-11-14-足不出户聆听精彩议题,参与线上沙龙即有机会赢取大奖哦!](https://sec.thief.one/article_content?a_id=42bb6b9cb89971d89ed235fdab0dade4) ![](assets/new.png)  
+- [2020-11-14-以太坊期权数据显示不会达到$-560价格](https://sec.thief.one/article_content?a_id=2a97d0963059cb2be6b7bc3652a6b1c3) ![](assets/new.png)  
+- [2020-11-14-Web安全:点击劫持](https://sec.thief.one/article_content?a_id=2327b1dfd597cf1dc94c224489dec28d) ![](assets/new.png)  
+- [2020-11-14-CS神器源代码泄露](https://sec.thief.one/article_content?a_id=269569299ea8282698b7d663615a4f47) ![](assets/new.png)  
+- [2020-11-14-一分钟学Python|Python的集合](https://sec.thief.one/article_content?a_id=b5107c1329afe80788e9b7313165c834) ![](assets/new.png)  
+- [2020-11-14-Ubuntu漏洞复现](https://sec.thief.one/article_content?a_id=e340c01ab27924caf5cc275c8f2fcf0b) ![](assets/new.png)  
+- [2020-11-14-美国联邦贸易委员会曝光Zoom就端到端加密问题已欺骗用户多年](https://sec.thief.one/article_content?a_id=e09298f8501e9f66cc2d59a9c7de8ccb) ![](assets/new.png)  
+- [2020-11-14-工业互联网数据安全技术研究](https://sec.thief.one/article_content?a_id=6b0a89b9b00b36ece9b7f95b0e1b01c9) ![](assets/new.png)  
+- [2020-11-14-雷军1994年写的诗一样的代码,我把它运行起来了!](https://sec.thief.one/article_content?a_id=8f2946e66c903855b0c1157e4976641c) ![](assets/new.png)  
+- [2020-11-14-雷神众测漏洞周报-2020.11.02-2020.11.08-4](https://sec.thief.one/article_content?a_id=8ff4ce804944745176d328920894f42f) ![](assets/new.png)  
+- [2020-11-14-年仅28岁的程序员郭宇,宣布从字节跳动辞职,实现财富自由!](https://sec.thief.one/article_content?a_id=ad93e7129b7ee43d1ebd001db5d3f109) ![](assets/new.png)  
+- [2020-11-14-前微软工程师窃取千万美元:自己买车买房,同事做替罪羊](https://sec.thief.one/article_content?a_id=37d2a1c1cdedb1095d628bd5c8e088c8) ![](assets/new.png)  
+- [2020-11-13-【安全圈】DeFi-项目遭黑客攻击-损失200-万美元的-DAI-代币](https://sec.thief.one/article_content?a_id=6558375a9ce5e785b60bf020a1987214) ![](assets/new.png)  
 - [2020-11-13-Python之父正式入职微软](https://sec.thief.one/article_content?a_id=8a27ba647ebe3006b66759c8ec5e5182) ![](assets/new.png)  
 - [2020-11-13-腾讯Q3财报背后的“神秘”新能量-企业级安全业务成ToB新动力](https://sec.thief.one/article_content?a_id=11a4e45ea9edaac915cbcca3eb7b69b4) ![](assets/new.png)  
 - [2020-11-13-挖洞经验-|-开放重定向漏洞导致的账户劫持](https://sec.thief.one/article_content?a_id=c7efdbfe3463256de74a62cbc793c9db) ![](assets/new.png)  
 - [2020-11-13-DeFi借贷协议Akropolis重入攻击事件分析](https://sec.thief.one/article_content?a_id=225d1af027efbe76f681638f05b449d5) ![](assets/new.png)  
-- [2020-11-13-36小时极创赛开机:光影之美炫动指尖阳光](https://sec.thief.one/article_content?a_id=ca3a1ea878c0f04487863d0733223363) ![](assets/new.png)  
-- [2020-11-13-业内最多!奇安信六大项目入围2020工信部网络安全技术应用试点示范...](https://sec.thief.one/article_content?a_id=fbc7a66db3a435d80fd612127644f8b0) ![](assets/new.png)  
-- [2020-11-13-「Dibrary-第二季-」——好书推荐-|DSRC-2019年度Top白帽-root0er](https://sec.thief.one/article_content?a_id=49b53b694f95903ba938a4aae3d1bbe5) ![](assets/new.png)  
-- [2020-11-13-项目实战-|-一次对通用漏洞的利用](https://sec.thief.one/article_content?a_id=d0beafc095a13c767b98e7d368f23403) ![](assets/new.png)  
-- [2020-11-13-分享-|-收藏的几个安全类公众号](https://sec.thief.one/article_content?a_id=30ac15e962a5fc31b2e62241559960e4) ![](assets/new.png)  
-- [2020-11-13-【美团招聘】冬季专场Vol.1~这13个岗位热招中!](https://sec.thief.one/article_content?a_id=0c94c23144faca42b66f855299c0988d) ![](assets/new.png)  
-- [2020-11-13-招聘-|-上海埃帕信息科技有限公司](https://sec.thief.one/article_content?a_id=b64567b976b9fa210b3a50d12fc1ca55) ![](assets/new.png)  
-- [2020-11-13-【倒计时3天】科幻巨制2020-KCTF秋季赛邀你来战!](https://sec.thief.one/article_content?a_id=76292d51e5a33ddda0ba69a45e338f2b) ![](assets/new.png)  
-- [2020-11-13-绿盟科技荣获2020年成都高新区首批梯度培育企业认定](https://sec.thief.one/article_content?a_id=92d1cd92020b5490ac93ee3f26b35945) ![](assets/new.png)  
-- [2020-11-13-Emotet钓鱼邮件分析报告](https://sec.thief.one/article_content?a_id=52db5f2561f30e85226579cb6ffa6fbd) ![](assets/new.png)  
-- [2020-11-13-【补丁库更新】奇安信集团2020年11月补丁库更新通告第一次更新](https://sec.thief.one/article_content?a_id=90b95f7d689ad4532c299613e1471cf3) ![](assets/new.png)  
-- [2020-11-13-携程SRC安全漏洞评分标准升级](https://sec.thief.one/article_content?a_id=a83290ec70eba026a47ce0b834433e28) ![](assets/new.png)  
-- [2020-11-13-华为路由器漏洞CVE-2017-17215复现分析](https://sec.thief.one/article_content?a_id=7258145539f58160fef0d36859982376) ![](assets/new.png)  
-- [2020-11-13-虚拟化和云计算有什么关系?|-知道](https://sec.thief.one/article_content?a_id=9a6eaf8183d3c707b578a018dba48b71) ![](assets/new.png)  
-- [2020-11-13-还没放弃的小伙伴,PWN入门视频最后一期来了](https://sec.thief.one/article_content?a_id=ea303f684dfb2094d1dc1c868f541f0f) ![](assets/new.png)  
-- [2020-11-13-真的黑客能让你分分钟开进沟里,但他们不屑于此](https://sec.thief.one/article_content?a_id=45a22b3a62a178c3589d036902d3f336) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

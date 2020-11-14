@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-14 02:36:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 02:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,7 +24,6 @@
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-14-Big-Sur-如何恢复-Safari-的浏览历史？](https://www.v2ex.com/t/725094) 
-- [2020-11-13-请问-Safari14-启示页的背景图怎么提取？](https://www.v2ex.com/t/725075) 
 - [2020-11-14-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-13-腾讯Q3财报背后的“神秘”新能量-企业级安全业务成ToB新动力](https://sec.thief.one/article_content?a_id=11a4e45ea9edaac915cbcca3eb7b69b4) 
 - [2020-11-13-业内最多!奇安信六大项目入围2020工信部网络安全技术应用试点示范...](https://sec.thief.one/article_content?a_id=fbc7a66db3a435d80fd612127644f8b0) 

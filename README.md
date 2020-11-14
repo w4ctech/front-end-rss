@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 02:36:43，:rocket: 更新条数: +3057， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 02:48:00，:rocket: 更新条数: +3057， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-14-FinTech-社区-兼职招聘：机器学习-讲师](https://www.v2ex.com/t/725126) ![](assets/new.png)  
+- [2020-11-14-升级完-Big-Sur，电池建议维修](https://www.v2ex.com/t/725125) ![](assets/new.png)  
+- [2020-11-14-MBP-升级之后-GNU-toolchain-编译出现-duplicate-symbols-问题](https://www.v2ex.com/t/725124) ![](assets/new.png)  
 - [2020-11-14-2019-融合硬盘版的-iMac-升级系统卡在-logo-界面一整晚，怎么办](https://www.v2ex.com/t/725123) ![](assets/new.png)  
 - [2020-11-14-关于升级-big-sur-后的问题](https://www.v2ex.com/t/725120) ![](assets/new.png)  
 - [2020-11-14-想送给小学二年级的外甥一本编程启蒙书，哪本书比较好](https://www.v2ex.com/t/725119) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-14-最近在写工作流系统，用到了-bpmn.js，边学边总结](https://www.v2ex.com/t/725103) ![](assets/new.png)  
 - [2020-11-14-也来谈谈-iPhone-12-Pro-Max-的超大圆角](https://www.v2ex.com/t/725102) ![](assets/new.png)  
 - [2020-11-14-远程和本地都可用键盘鼠标？](https://www.v2ex.com/t/725101) ![](assets/new.png)  
-- [2020-11-14-apple-watch-一边表带卡不紧](https://www.v2ex.com/t/725100) ![](assets/new.png)  
-- [2020-11-14-这个是什么手机？](https://www.v2ex.com/t/725098) ![](assets/new.png)  
-- [2020-11-14-苹果好像是故意的，-iPhone-优化电池充电老是自动打开](https://www.v2ex.com/t/725097) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -600,21 +600,21 @@
 - [2020-11-14-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
 - [2020-11-14-80%人都理解错误的-Event-Loop](https://toutiao.io/k/58l8j37) ![](assets/new.png)  
 - [2020-11-14-10-个有用的-HTML-文件上传技巧](https://toutiao.io/k/fo6wjj6) ![](assets/new.png)  
+- [2020-11-14-10-张图-22-段代码，万字长文带你搞懂虚拟内存模型和-malloc-内部原理](https://toutiao.io/k/cqnqfjo) ![](assets/new.png)  
 - [2020-11-14-译-Python-幕后解释器：一系列的学习资源](https://toutiao.io/k/k29n7yb) ![](assets/new.png)  
 - [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
-- [2020-11-14-10-张图-22-段代码，万字长文带你搞懂虚拟内存模型和-malloc-内部原理](https://toutiao.io/k/cqnqfjo) ![](assets/new.png)  
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
-- [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-14-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-14-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
 - [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
+- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

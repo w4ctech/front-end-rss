@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-14 02:36:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 02:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-FinTech-社区-兼职招聘：机器学习-讲师](https://www.v2ex.com/t/725126) 
+- [2020-11-14-升级完-Big-Sur，电池建议维修](https://www.v2ex.com/t/725125) 
+- [2020-11-14-MBP-升级之后-GNU-toolchain-编译出现-duplicate-symbols-问题](https://www.v2ex.com/t/725124) 
 - [2020-11-14-2019-融合硬盘版的-iMac-升级系统卡在-logo-界面一整晚，怎么办](https://www.v2ex.com/t/725123) 
 - [2020-11-14-关于升级-big-sur-后的问题](https://www.v2ex.com/t/725120) 
 - [2020-11-14-想送给小学二年级的外甥一本编程启蒙书，哪本书比较好](https://www.v2ex.com/t/725119) 
@@ -39,6 +42,3 @@
 - [2020-11-13-求大佬帮忙看一看,已经折腾-3-个小时了...](https://www.v2ex.com/t/725079) 
 - [2020-11-13-2020-年-11-月-13-日公路见闻。](https://www.v2ex.com/t/725078) 
 - [2020-11-13-不知不觉已经维护了-Project-Eye-项目-1.580555555555556-年](https://www.v2ex.com/t/725077) 
-- [2020-11-13-iOS-14.3-beta-1-系统天气可以显示空气质量了](https://www.v2ex.com/t/725076) 
-- [2020-11-13-请问-Safari14-启示页的背景图怎么提取？](https://www.v2ex.com/t/725075) 
-- [2020-11-13-如何设置-mac-vnc-的色彩](https://www.v2ex.com/t/725074) 

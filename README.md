@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 00:27:19，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 00:52:13，:rocket: 更新条数: +3290， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,6 @@
 </summary>
 
 
-- [2020-11-12-最新疫情：全国新冠累计确诊86307例-境外输入新增8例](https://m.caixin.com/m/2020-11-13/101627524.html) ![](assets/new.png)  
 - [2020-11-12-新冠病毒毒性未减-张文宏详解病死率下降缘由](http://m.topics.caixin.com/m/2020-11-13/101627435.html) ![](assets/new.png)  
 - [2020-11-12-最新海外疫情：新冠感染超5262万-累计死亡近129万](http://m.international.caixin.com/m/2020-11-13/101627529.html) ![](assets/new.png)  
 - [2020-11-12-【境内疫情观察】全国新增8例境外输入病例（11月12日）](http://m.database.caixin.com/m/2020-11-13/101627382.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-11-09-大流行手记|11月9日：美确诊人数破千万-辉瑞公布新冠疫苗有效率逾90%](https://m.caixin.com/m/2020-11-10/101625386.html) ![](assets/new.png)  
 - [2020-11-09-解药|礼来首获新冠中和抗体紧急使用授权-意外领先再生元](https://m.caixin.com/m/2020-11-10/101625722.html) ![](assets/new.png)  
 - [2020-11-09-解药|新冠mRNA疫苗乐观数据搅动全球资本市场-仍有不确定性](https://m.caixin.com/m/2020-11-10/101625389.html) ![](assets/new.png)  
+- [2020-11-08-上海浦东新冠确诊者感染源排查中-所住村庄已封闭](https://m.caixin.com/m/2020-11-09/101625278.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,11 +473,11 @@
 </summary>
 
 
-- [2020-11-13-基于Less的动态主题切换，用于切换Antd主题简直好极了](https://juejin.im/post/6894546562459009037) ![](assets/new.png)  
-- [2020-11-13-基于vue的qiankun实践总结](https://juejin.im/post/6894543700387430408) ![](assets/new.png)  
-- [2020-11-13-揭秘React-redux](https://juejin.im/post/6894542873551699976) ![](assets/new.png)  
-- [2020-11-13-CSS布局之Grid](https://juejin.im/post/6894540841117810696) ![](assets/new.png)  
-- [2020-11-13-还在为写.vue文件烦恼吗？快来用dot-vue-cli交互式生成吧！](https://juejin.im/post/6894536331205017613) ![](assets/new.png)  
+- [2020-11-13-setState总结](https://juejin.im/post/6894597372199600141) ![](assets/new.png)  
+- [2020-11-13-教你如何写出一个碎片轮播~](https://juejin.im/post/6894595425542602759) ![](assets/new.png)  
+- [2020-11-13-移动端响应式开发应该要注意的的都在这里了](https://juejin.im/post/6894590194956451854) ![](assets/new.png)  
+- [2020-11-13-都快2021年了，弹性盒布局Flexbox布局看这里~~](https://juejin.im/post/6894588075943395341) ![](assets/new.png)  
+- [2020-11-13-Vue中Watcher的简要说明2](https://juejin.im/post/6894587077338677262) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,9 @@
 </summary>
 
 
+- [2020-11-14-这个是什么手机？](https://www.v2ex.com/t/725098) ![](assets/new.png)  
+- [2020-11-14-苹果好像是故意的，-iPhone-优化电池充电老是自动打开](https://www.v2ex.com/t/725097) ![](assets/new.png)  
+- [2020-11-14-Apple-折抵，顺丰来把我手机收走了，然后呢](https://www.v2ex.com/t/725096) ![](assets/new.png)  
 - [2020-11-14-Big-Sur-如何恢复-Safari-的浏览历史？](https://www.v2ex.com/t/725094) ![](assets/new.png)  
 - [2020-11-13-中国大陆天气-app「空气质量指数-AQI」又回来了](https://www.v2ex.com/t/725093) ![](assets/new.png)  
 - [2020-11-13-昨天“苹果服务器故障导致-macOS-用户无法打开程序”新闻有感](https://www.v2ex.com/t/725090) ![](assets/new.png)  
@@ -570,9 +573,6 @@
 - [2020-11-13-请问-Safari14-启示页的背景图怎么提取？](https://www.v2ex.com/t/725075) ![](assets/new.png)  
 - [2020-11-13-如何设置-mac-vnc-的色彩](https://www.v2ex.com/t/725074) ![](assets/new.png)  
 - [2020-11-13-Big-Sur-出了，求劝退](https://www.v2ex.com/t/725073) ![](assets/new.png)  
-- [2020-11-13-升级-Big-Sur-后无法联网了](https://www.v2ex.com/t/725072) ![](assets/new.png)  
-- [2020-11-13-异步和多线程这-2-个概念应该是什么个关系？](https://www.v2ex.com/t/725071) ![](assets/new.png)  
-- [2020-11-13-西湖区公寓转租](https://www.v2ex.com/t/725070) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -615,21 +615,26 @@
 </summary>
 
 
-- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-14-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
+- [2020-11-14-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-14-10-个有用的-HTML-文件上传技巧](https://toutiao.io/k/fo6wjj6) ![](assets/new.png)  
+- [2020-11-14-译-Python-幕后解释器：一系列的学习资源](https://toutiao.io/k/k29n7yb) ![](assets/new.png)  
+- [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
+- [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
+- [2020-11-14-10-张图-22-段代码，万字长文带你搞懂虚拟内存模型和-malloc-内部原理](https://toutiao.io/k/cqnqfjo) ![](assets/new.png)  
+- [2020-11-14-80%人都理解错误的-Event-Loop](https://toutiao.io/k/58l8j37) ![](assets/new.png)  
+- [2020-11-14-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

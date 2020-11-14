@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-14 00:27:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 00:52:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-这个是什么手机？](https://www.v2ex.com/t/725098) 
+- [2020-11-14-苹果好像是故意的，-iPhone-优化电池充电老是自动打开](https://www.v2ex.com/t/725097) 
+- [2020-11-14-Apple-折抵，顺丰来把我手机收走了，然后呢](https://www.v2ex.com/t/725096) 
 - [2020-11-14-Big-Sur-如何恢复-Safari-的浏览历史？](https://www.v2ex.com/t/725094) 
 - [2020-11-13-中国大陆天气-app「空气质量指数-AQI」又回来了](https://www.v2ex.com/t/725093) 
 - [2020-11-13-昨天“苹果服务器故障导致-macOS-用户无法打开程序”新闻有感](https://www.v2ex.com/t/725090) 
@@ -40,6 +43,3 @@
 - [2020-11-13-MacOS-Big-Sur-可用深信服-EasyConnect-7.6.7](https://www.v2ex.com/t/725053) 
 - [2020-11-13-请教各位大佬一个-mongoDb-表设计的问题，是否应该使用内嵌数组](https://www.v2ex.com/t/725052) 
 - [2020-11-13-求教-MacBook-外接显示器问题](https://www.v2ex.com/t/725049) 
-- [2020-11-13-Office-问题请教，搜索引擎上的方法无效，困扰已久，求大神](https://www.v2ex.com/t/725048) 
-- [2020-11-13-有大佬知道-nginx-如何配置-cdn-嘛，想折腾一下了。。](https://www.v2ex.com/t/725047) 
-- [2020-11-13-Mac-的-App-Store-版本-QQ-收不到消息没人管？](https://www.v2ex.com/t/725046) 

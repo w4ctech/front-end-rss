@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 04:12:53，:rocket: 更新条数: +3058， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 04:24:20，:rocket: 更新条数: +3058， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
+- [2020-11-13-【推荐收藏】10-个最佳实践来改良你的-CSS](https://juejin.im/post/6894827721449275406) ![](assets/new.png)  
+- [2020-11-13-JavaScript原型和原型链知识梳理](https://juejin.im/post/6894824183344480264) ![](assets/new.png)  
+- [2020-11-13-学习笔记-浏览器内多个标签页之间的通讯](https://juejin.im/post/6894826921104769032) ![](assets/new.png)  
+- [2020-11-13-JS程序执行详解](https://juejin.im/post/6894797926120783880) ![](assets/new.png)  
 - [2020-11-13-一篇文章带你了解CSS3-3D-转换知识](https://juejin.im/post/6894760287107448845) ![](assets/new.png)  
-- [2020-11-13-【数据结构与算法】详解什么是图结构，并用代码手动实现一个图结构](https://juejin.im/post/6894759556564385806) ![](assets/new.png)  
-- [2020-11-13-webpack,-babel,-eslint,typescript,koa服务器应用简单入门配置](https://juejin.im/post/6894658363251965965) ![](assets/new.png)  
-- [2020-11-13-vue-element-admin的登录权限校验和动态路由的实现逻辑](https://juejin.im/post/6894635161326256141) ![](assets/new.png)  
-- [2020-11-13-图解-script-标签中的-async-和-defer-属性](https://juejin.im/post/6894629999215640583) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-14-Big-sur-怎么更换登录界面的背景图？](https://www.v2ex.com/t/725152) ![](assets/new.png)  
+- [2020-11-14-Big-Sur-升级后，-Axure-生成的文件，无法打开-index.html-文件](https://www.v2ex.com/t/725151) ![](assets/new.png)  
+- [2020-11-14-APP，一个尚未成熟的想法](https://www.v2ex.com/t/725150) ![](assets/new.png)  
 - [2020-11-14-mbp-14/16-大概率是明年-Q1-Q3-了](https://www.v2ex.com/t/725149) ![](assets/new.png)  
 - [2020-11-14-MacOS-有什么软件可以组合多个快捷键](https://www.v2ex.com/t/725148) ![](assets/new.png)  
 - [2020-11-14-bug-sur-菜单栏图标的社交距离呢？](https://www.v2ex.com/t/725147) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-14-如何调整-Android-10-system-分区大小](https://www.v2ex.com/t/725132) ![](assets/new.png)  
 - [2020-11-14-黑翼资产-招聘：-CTA-量化研究员/量化开发&数据开发工程师](https://www.v2ex.com/t/725131) ![](assets/new.png)  
 - [2020-11-14-我个人觉得要认真写日报、周报、开好站会～](https://www.v2ex.com/t/725129) ![](assets/new.png)  
-- [2020-11-14-如果把-V-站的金币系统用区块链来做，会产生什么效果？](https://www.v2ex.com/t/725128) ![](assets/new.png)  
-- [2020-11-14-FinTech-社区-兼职招聘：机器学习-讲师](https://www.v2ex.com/t/725126) ![](assets/new.png)  
-- [2020-11-14-升级完-Big-Sur，电池建议维修](https://www.v2ex.com/t/725125) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
-- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
 - [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-14-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
+- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
 - [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-14 04:12:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 04:24:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,5 +7,4 @@
 
 
 
-- [2020-11-13-webpack,-babel,-eslint,typescript,koa服务器应用简单入门配置](https://juejin.im/post/6894658363251965965) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 

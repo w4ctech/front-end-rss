@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-14 05:10:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 05:19:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-升级到-macOS-big-sur-后，-chrome-上出现字体模糊的问题](https://www.v2ex.com/t/725164) 
 - [2020-11-14-IPv6List---一个收集支持-IPv6-域名的列表](https://www.v2ex.com/t/725163) 
 - [2020-11-14-不等官网发货，今天直接直营店线下取-12pm-了](https://www.v2ex.com/t/725162) 
 - [2020-11-14-求助！硬盘盒接-MacbookPro-没有反应](https://www.v2ex.com/t/725161) 

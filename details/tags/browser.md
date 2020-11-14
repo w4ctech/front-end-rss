@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-14 05:10:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 05:19:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,6 +25,7 @@
 - [2020-11-13-Chrome给我来10个](https://juejin.im/post/6894831968765411341) 
 - [2020-11-13-学习笔记-浏览器内多个标签页之间的通讯](https://juejin.im/post/6894826921104769032) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-14-升级到-macOS-big-sur-后，-chrome-上出现字体模糊的问题](https://www.v2ex.com/t/725164) 
 - [2020-11-14-intellij-调试-spark-程序可以查看到-rdd-数据吗](https://www.v2ex.com/t/725158) 
 - [2020-11-14-移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-13-腾讯Q3财报背后的“神秘”新能量-企业级安全业务成ToB新动力](https://sec.thief.one/article_content?a_id=11a4e45ea9edaac915cbcca3eb7b69b4) 

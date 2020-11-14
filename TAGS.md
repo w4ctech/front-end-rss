@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-14 05:10:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 05:19:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -330,8 +330,8 @@
 - [【掘金前端】Chrome给我来10个](https://juejin.im/post/6894831968765411341)
 - [【掘金前端】学习笔记-浏览器内多个标签页之间的通讯](https://juejin.im/post/6894826921104769032)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】升级到-macOS-big-sur-后，-chrome-上出现字体模糊的问题](https://www.v2ex.com/t/725164)
 - [【V2EX】intellij-调试-spark-程序可以查看到-rdd-数据吗](https://www.v2ex.com/t/725158)
-- [【技术头条】移动安全加固助力-App-实现全面、有效的安全防护-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13919&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778034%3Futm_content%3Dg_1000203099%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-14 10:22:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 10:33:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-谈谈拜登或者川普对华为的影响](https://www.v2ex.com/t/725256) 
+- [2020-11-14-对-apple-silicon-拔草了](https://www.v2ex.com/t/725254) 
 - [2020-11-14-kali-Linux-编译内核时遇到错误-bzImage](https://www.v2ex.com/t/725253) 
 - [2020-11-14-我的云主机-IP-被陌生人解析了咋办？客服来电话告知我备案，可域名我都不知道谁的？](https://www.v2ex.com/t/725252) 
 - [2020-11-14-升级-Big-Sur-后，-MacBook-Pro-13-2020-出现了一些问题](https://www.v2ex.com/t/725251) 
@@ -44,5 +46,3 @@
 - [2020-11-14-Big-Sur-无法开启-HiDPI，怎么解决？](https://www.v2ex.com/t/725209) 
 - [2020-11-14-问下大佬关于视频分辨率的问题……](https://www.v2ex.com/t/725208) 
 - [2020-11-14-如何将-WKWebView-的网页保存到本地？](https://www.v2ex.com/t/725207) 
-- [2020-11-14-求助，-iPhone12-mini-连上-wifi-之后还是无法上网](https://www.v2ex.com/t/725205) 
-- [2020-11-14-GitHub-上搜索关键词-“golang-聊天”-排名第-3-的是我的练手项目，哈哈哈哈哈](https://www.v2ex.com/t/725204) 

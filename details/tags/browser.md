@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-14 09:33:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 09:48:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,8 +22,7 @@
 - [2020-02-06-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2020-11-13-Prettier---Code-formatter使用](https://juejin.im/post/6894883208584757261) 
-- [2020-11-13-Chrome给我来10个](https://juejin.im/post/6894831968765411341) 
+- [2020-11-13-总结一下-CSRF-跨站请求伪造](https://juejin.im/post/6894876889476038663) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-14-请教大家个问题，一个-post-接口如何实现处理多个业务请求？](https://www.v2ex.com/t/725233) 
 - [2020-11-14-云储存最安全解决方案是什么？](https://www.v2ex.com/t/725230) 

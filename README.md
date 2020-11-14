@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 09:33:03，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 09:48:03，:rocket: 更新条数: +3064， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
-- [2020-11-14-Gulp-基础任务编写，并整合-webpack-转译-typescript](https://juejin.im/post/6894905851984510983) ![](assets/new.png)  
-- [2020-11-14-使用CSS-::marker的自定义项目符号](https://juejin.im/post/6894890214330908679) ![](assets/new.png)  
-- [2020-11-13-Prettier---Code-formatter使用](https://juejin.im/post/6894883208584757261) ![](assets/new.png)  
-- [2020-11-13-你这只土拔鼠呀——前端眼中的golang](https://juejin.im/post/6894839822762901511) ![](assets/new.png)  
-- [2020-11-13-Chrome给我来10个](https://juejin.im/post/6894831968765411341) ![](assets/new.png)  
+- [2020-11-14-第一次写移动端自适应布局?那就对了](https://juejin.im/post/6894886032048259086) ![](assets/new.png)  
+- [2020-11-13-Vue3源码解析-响应式原理](https://juejin.im/post/6894879037958094862) ![](assets/new.png)  
+- [2020-11-13-总结一下-CSRF-跨站请求伪造](https://juejin.im/post/6894876889476038663) ![](assets/new.png)  
+- [2020-11-13-Webpack-深入理解之Loader](https://juejin.im/post/6894876598793666573) ![](assets/new.png)  
+- [2020-11-13-【CSS学习总结（一）-CSS理解-&-选择器】](https://juejin.im/post/6894852839143637006) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-14-美团优选招人啦-机会多，挑战大，成长快](https://www.v2ex.com/t/725241) ![](assets/new.png)  
+- [2020-11-14-关于业务异常的处理方式](https://www.v2ex.com/t/725240) ![](assets/new.png)  
+- [2020-11-14-用-HCaaS-容器虚拟机（宝塔版）搭建-WorldPress](https://www.v2ex.com/t/725239) ![](assets/new.png)  
+- [2020-11-14-为什么-MSVC-的编译器警告号从-4000-开始？](https://www.v2ex.com/t/725238) ![](assets/new.png)  
 - [2020-11-14-Junit-测试-有人帮忙做吗-有偿](https://www.v2ex.com/t/725235) ![](assets/new.png)  
 - [2020-11-14-更新-Big-Sur-以后，-Spotlight-的搜索速度变慢了很多](https://www.v2ex.com/t/725234) ![](assets/new.png)  
 - [2020-11-14-请教大家个问题，一个-post-接口如何实现处理多个业务请求？](https://www.v2ex.com/t/725233) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-14-Notepads](https://www.v2ex.com/t/725221) ![](assets/new.png)  
 - [2020-11-14-请问如何判断启动某个-Python-进程的-Python-环境位置呢？](https://www.v2ex.com/t/725220) ![](assets/new.png)  
 - [2020-11-14-iphone12-是真的黄](https://www.v2ex.com/t/725219) ![](assets/new.png)  
-- [2020-11-14-V2-搜索功能，反馈一个不知是不是-Bug-的问题](https://www.v2ex.com/t/725218) ![](assets/new.png)  
-- [2020-11-14-一线互联网-Java-开发薪资如何算不掉队?](https://www.v2ex.com/t/725217) ![](assets/new.png)  
-- [2020-11-14-海外毕业应届生-广州求职-Web-后端实习](https://www.v2ex.com/t/725214) ![](assets/new.png)  
-- [2020-11-14-哪里买-CleanShot-X-截图软件便宜？](https://www.v2ex.com/t/725213) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
-- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-14-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
 - [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-14-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
-- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
 - [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

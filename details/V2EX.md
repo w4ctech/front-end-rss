@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-14 02:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 02:13:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-有什么办法让-Big-Sur-的菜单栏不根据壁纸变色？](https://www.v2ex.com/t/725117) 
+- [2020-11-14-有没有-mac-版本-iMessage-和-FaceTime-无法登陆的朋友？](https://www.v2ex.com/t/725115) 
 - [2020-11-14-阿区车-月付-20-还有一个车位-！需要私-或-绿色软件-NjUxMjk3NQ==](https://www.v2ex.com/t/725113) 
 - [2020-11-14-MBP-带-bar-16-款-13-寸能升级-big-sur-吗？会不会很卡](https://www.v2ex.com/t/725112) 
 - [2020-11-14-电信新一波提速活动好像取消了](https://www.v2ex.com/t/725110) 
@@ -42,6 +44,3 @@
 - [2020-11-13-异步和多线程这-2-个概念应该是什么个关系？](https://www.v2ex.com/t/725071) 
 - [2020-11-13-西湖区公寓转租](https://www.v2ex.com/t/725070) 
 - [2020-11-13-去深圳走走，有没有短期转租房间的小伙伴](https://www.v2ex.com/t/725069) 
-- [2020-11-13-今晚会有-Apple-M1-芯片新品的评测么？](https://www.v2ex.com/t/725067) 
-- [2020-11-13-谈谈-iPhone-12-mini](https://www.v2ex.com/t/725066) 
-- [2020-11-13-ElasticSearch-如何迁移到新设备？](https://www.v2ex.com/t/725065) 

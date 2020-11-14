@@ -14608,6 +14608,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "带光驱和无光驱的都拿到了",
+        "link": "https://www.v2ex.com/t/725337",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "独立授权版的 1password 如何从 6 升级到 7",
+        "link": "https://www.v2ex.com/t/725336",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "五个半小时前发的帖子，发现在个人主题列表中显示两天前，分类中也看不到",
+        "link": "https://www.v2ex.com/t/725335",
+        "date": "2020-11-14"
+      },
+      {
         "title": "目前的 api 网关有没有可以按照地区或者城市分配流量的方案",
         "link": "https://www.v2ex.com/t/725333",
         "date": "2020-11-14"
@@ -14791,21 +14806,6 @@
         "title": "mbp2020 打开 iOS 模拟器以后声音爆了",
         "link": "https://www.v2ex.com/t/725289",
         "date": "2020-11-14"
-      },
-      {
-        "title": "Google one 的家庭组是共用空间的啊？？",
-        "link": "https://www.v2ex.com/t/725286",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "怎么拿到 Big Sur 的系统分区读写权限呀，有简明的教程不",
-        "link": "https://www.v2ex.com/t/725285",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "纯手工打造了一个在线网页模板抓取工具，欢迎各路神仙评测",
-        "link": "https://www.v2ex.com/t/725284",
-        "date": "2020-11-14"
       }
     ]
   },
@@ -14972,33 +14972,8 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-14"
       },
       {
@@ -15007,8 +14982,18 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-14"
       },
       {
@@ -15017,23 +15002,28 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-14"
       },
       {
@@ -15042,8 +15032,18 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-14"
       }
     ]

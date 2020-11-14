@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-14 16:47:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 17:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-带光驱和无光驱的都拿到了](https://www.v2ex.com/t/725337) 
+- [2020-11-14-独立授权版的-1password-如何从-6-升级到-7](https://www.v2ex.com/t/725336) 
+- [2020-11-14-五个半小时前发的帖子，发现在个人主题列表中显示两天前，分类中也看不到](https://www.v2ex.com/t/725335) 
 - [2020-11-14-目前的-api-网关有没有可以按照地区或者城市分配流量的方案](https://www.v2ex.com/t/725333) 
 - [2020-11-14-大家的-macos-big-sur-系统看视频卡吗？](https://www.v2ex.com/t/725331) 
 - [2020-11-14-Big-Sur-系统还会有之前-Catalina-的-Thunderbolt-接口导致重启的问题么？](https://www.v2ex.com/t/725330) 
@@ -42,6 +45,3 @@
 - [2020-11-14-请问为何-V2EX-同样用了-cloudflare，可是-ping-的丢包率比我同样的-cloudflare-网站要低很多呢？](https://www.v2ex.com/t/725291) 
 - [2020-11-14-WIn10-和-IOS-剪切板共享](https://www.v2ex.com/t/725290) 
 - [2020-11-14-mbp2020-打开-iOS-模拟器以后声音爆了](https://www.v2ex.com/t/725289) 
-- [2020-11-14-Google-one-的家庭组是共用空间的啊？？](https://www.v2ex.com/t/725286) 
-- [2020-11-14-怎么拿到-Big-Sur-的系统分区读写权限呀，有简明的教程不](https://www.v2ex.com/t/725285) 
-- [2020-11-14-纯手工打造了一个在线网页模板抓取工具，欢迎各路神仙评测](https://www.v2ex.com/t/725284) 

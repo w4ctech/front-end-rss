@@ -14608,6 +14608,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "更新完 14.2 后 safari 翻译功能没了？",
+        "link": "https://www.v2ex.com/t/725301",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "抹盘升级到 Big Sur，发现 Time Machine 不可用",
+        "link": "https://www.v2ex.com/t/725300",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "国内外有比较活跃的 ios 快捷指令相关论坛吗？",
+        "link": "https://www.v2ex.com/t/725298",
+        "date": "2020-11-14"
+      },
+      {
         "title": "iOS 横屏出现半个负一屏",
         "link": "https://www.v2ex.com/t/725296",
         "date": "2020-11-14"
@@ -14786,16 +14801,6 @@
         "title": "我的云主机 IP 被陌生人解析了咋办？客服来电话告知我备案，可域名我都不知道谁的？",
         "link": "https://www.v2ex.com/t/725252",
         "date": "2020-11-14"
-      },
-      {
-        "title": "升级 Big Sur 后， MacBook Pro 13 2020 出现了一些问题",
-        "link": "https://www.v2ex.com/t/725251",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "win10 桌面太乱了！比女孩子的桌面都乱！求推荐整理归类工具",
-        "link": "https://www.v2ex.com/t/725249",
-        "date": "2020-11-14"
       }
     ]
   },
@@ -14962,13 +14967,28 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-14"
       },
       {
@@ -14982,13 +15002,8 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
         "date": "2020-11-14"
       },
       {
@@ -14997,13 +15012,8 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-14"
       },
       {
@@ -15012,23 +15022,18 @@
         "date": "2020-11-14"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-14"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-14"
       },
       {
         "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
         "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-14"
+      },
+      {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
         "date": "2020-11-14"
       },
       {

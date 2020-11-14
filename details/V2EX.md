@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-14 13:18:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 13:33:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-更新完-14.2-后-safari-翻译功能没了？](https://www.v2ex.com/t/725301) 
+- [2020-11-14-抹盘升级到-Big-Sur，发现-Time-Machine-不可用](https://www.v2ex.com/t/725300) 
+- [2020-11-14-国内外有比较活跃的-ios-快捷指令相关论坛吗？](https://www.v2ex.com/t/725298) 
 - [2020-11-14-iOS-横屏出现半个负一屏](https://www.v2ex.com/t/725296) 
 - [2020-11-14-滴滴出行-北京、杭州、成都、深圳内推-iOS/Android/-Java-/前端/算法/-PHP-/Go/C++/数据等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/725295) 
 - [2020-11-14-求推荐五千以下性价比高的笔记本，二手的也可以](https://www.v2ex.com/t/725294) 
@@ -41,5 +44,3 @@
 - [2020-11-14-对-apple-silicon-拔草了](https://www.v2ex.com/t/725254) 
 - [2020-11-14-kali-Linux-编译内核时遇到错误-bzImage](https://www.v2ex.com/t/725253) 
 - [2020-11-14-我的云主机-IP-被陌生人解析了咋办？客服来电话告知我备案，可域名我都不知道谁的？](https://www.v2ex.com/t/725252) 
-- [2020-11-14-升级-Big-Sur-后，-MacBook-Pro-13-2020-出现了一些问题](https://www.v2ex.com/t/725251) 
-- [2020-11-14-win10-桌面太乱了！比女孩子的桌面都乱！求推荐整理归类工具](https://www.v2ex.com/t/725249) 

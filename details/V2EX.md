@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-14 16:15:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 16:32:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-大家的-macos-big-sur-系统看视频卡吗？](https://www.v2ex.com/t/725331) 
 - [2020-11-14-Big-Sur-系统还会有之前-Catalina-的-Thunderbolt-接口导致重启的问题么？](https://www.v2ex.com/t/725330) 
 - [2020-11-14-求推荐好用的便携式显示器](https://www.v2ex.com/t/725329) 
 - [2020-11-14-big-sur-我发现的问题](https://www.v2ex.com/t/725328) 
@@ -29,7 +30,6 @@
 - [2020-11-14-有遇到-Apple-Watch-徽章不生成了的吗？](https://www.v2ex.com/t/725305) 
 - [2020-11-14-能利用-SMTP/IMAP-互相发送-IP+遍历猜测-port-来实现-P2P-的-UDP-通讯吗？](https://www.v2ex.com/t/725304) 
 - [2020-11-14-鉴于最近看到一些侵权相关的帖子，请教几个问题](https://www.v2ex.com/t/725303) 
-- [2020-11-14-转-马保国尤大版本-¿¿¿](https://www.v2ex.com/t/725302) 
 - [2020-11-14-更新完-14.2-后-safari-翻译功能没了？](https://www.v2ex.com/t/725301) 
 - [2020-11-14-抹盘升级到-Big-Sur，发现-Time-Machine-不可用](https://www.v2ex.com/t/725300) 
 - [2020-11-14-国内外有比较活跃的-ios-快捷指令相关论坛吗？](https://www.v2ex.com/t/725298) 
@@ -44,4 +44,3 @@
 - [2020-11-14-Google-one-的家庭组是共用空间的啊？？](https://www.v2ex.com/t/725286) 
 - [2020-11-14-怎么拿到-Big-Sur-的系统分区读写权限呀，有简明的教程不](https://www.v2ex.com/t/725285) 
 - [2020-11-14-纯手工打造了一个在线网页模板抓取工具，欢迎各路神仙评测](https://www.v2ex.com/t/725284) 
-- [2020-11-14-摸鱼闲聊吹水讨论交流面基传道授业解惑群](https://www.v2ex.com/t/725281) 

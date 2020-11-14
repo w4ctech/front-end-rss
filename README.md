@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 04:04:49，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 04:12:53，:rocket: 更新条数: +3058， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-14-福建泉州一冷库4份冷冻品外包装检出新冠病毒阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiymHXBDKroqGq2vBcn47m201114&isfromapp=1) ![](assets/new.png)  
+- [2020-11-14-美国疾控中心：预计未来三周将新增4万死亡病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTsiRPtIke6RwlWXxoVF9201114&isfromapp=1) ![](assets/new.png)  
 - [2020-11-13-国家卫健委：13日新增新冠肺炎确诊病例18例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3GwI3iG2v2RhD33AKGSV201114&isfromapp=1) ![](assets/new.png)  
 - [2020-11-13-美国单日新增新冠肺炎确诊病例超18万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisme3t1koft9Ob0O5lNAn201114&isfromapp=1) ![](assets/new.png)  
 - [2020-11-13-美国新墨西哥州重新关停经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9SheiDYhOD8cfXfIYKl4201114&isfromapp=1) ![](assets/new.png)  
-- [2020-11-13-英国中学生感染新冠病毒的比例最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5TeyqIxL0eVXg9RwgX9201114&isfromapp=1) ![](assets/new.png)  
-- [2020-11-13-新增新冠肺炎确诊病例数飙升-美国多州提高防疫要求](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyBIfyaYgzTjONw2syE3m201113&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -341,6 +341,9 @@
 </summary>
 
 
+- [2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html) ![](assets/new.png)  
+- [2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html) ![](assets/new.png)  
+- [2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -599,19 +602,19 @@
 - [2020-11-14-10-个有用的-HTML-文件上传技巧](https://toutiao.io/k/fo6wjj6) ![](assets/new.png)  
 - [2020-11-14-10-张图-22-段代码，万字长文带你搞懂虚拟内存模型和-malloc-内部原理](https://toutiao.io/k/cqnqfjo) ![](assets/new.png)  
 - [2020-11-14-译-Python-幕后解释器：一系列的学习资源](https://toutiao.io/k/k29n7yb) ![](assets/new.png)  
-- [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
+- [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
-- [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-14-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
 - [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
+- [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

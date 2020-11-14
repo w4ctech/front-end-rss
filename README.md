@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 12:47:51，:rocket: 更新条数: +3011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 13:03:29，:rocket: 更新条数: +3049， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -443,9 +443,9 @@
 </summary>
 
 
+- [2020-11-14-2020年末了，快来看Vue全家桶系列之Vue基础-后面含Vue3.0](https://juejin.im/post/6894961204951793672) ![](assets/new.png)  
 - [2020-11-14-jsliang-求职系列---13---JSONP](https://juejin.im/post/6894914682147045389) ![](assets/new.png)  
 - [2020-11-14-正则表达式，从用到源](https://juejin.im/post/6894906054413713416) ![](assets/new.png)  
-- [2020-11-13-总结一下-CSRF-跨站请求伪造](https://juejin.im/post/6894876889476038663) ![](assets/new.png)  
 - [2020-11-13-Webpack-深入理解之Loader](https://juejin.im/post/6894876598793666573) ![](assets/new.png)  
 - [2020-11-13-【CSS学习总结（一）-CSS理解-&-选择器】](https://juejin.im/post/6894852839143637006) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -523,6 +523,26 @@
 </summary>
 
 
+- [2020-11-14-请问为何-V2EX-同样用了-cloudflare，可是-ping-的丢包率比我同样的-cloudflare-网站要低很多呢？](https://www.v2ex.com/t/725291) ![](assets/new.png)  
+- [2020-11-14-WIn10-和-IOS-剪切板共享](https://www.v2ex.com/t/725290) ![](assets/new.png)  
+- [2020-11-14-mbp2020-打开-iOS-模拟器以后声音爆了](https://www.v2ex.com/t/725289) ![](assets/new.png)  
+- [2020-11-14-Google-one-的家庭组是共用空间的啊？？](https://www.v2ex.com/t/725286) ![](assets/new.png)  
+- [2020-11-14-怎么拿到-Big-Sur-的系统分区读写权限呀，有简明的教程不](https://www.v2ex.com/t/725285) ![](assets/new.png)  
+- [2020-11-14-纯手工打造了一个在线网页模板抓取工具，欢迎各路神仙评测](https://www.v2ex.com/t/725284) ![](assets/new.png)  
+- [2020-11-14-摸鱼闲聊吹水讨论交流面基传道授业解惑群](https://www.v2ex.com/t/725281) ![](assets/new.png)  
+- [2020-11-14-迫于拿不出第一个月的生活费，兄弟萌有什么零活可以分给我来做](https://www.v2ex.com/t/725280) ![](assets/new.png)  
+- [2020-11-14-QC35II-自动开机问题自动恢复](https://www.v2ex.com/t/725279) ![](assets/new.png)  
+- [2020-11-14-Safari-浏览器问题~](https://www.v2ex.com/t/725278) ![](assets/new.png)  
+- [2020-11-14-不懂就要问，-shell-脚本进入容器，执行操作后并退出的疑问。](https://www.v2ex.com/t/725277) ![](assets/new.png)  
+- [2020-11-14-现在想买-MBP-13-不知道该如何选择，-M1-还是-Intel](https://www.v2ex.com/t/725276) ![](assets/new.png)  
+- [2020-11-14-升级-Big-Sur-后-Handoff-失效-怎么解决？](https://www.v2ex.com/t/725275) ![](assets/new.png)  
+- [2020-11-14-买-macbook-pro16-寸还是-Linux-本](https://www.v2ex.com/t/725274) ![](assets/new.png)  
+- [2020-11-14-不用的旧的-iPhone-可以用来干嘛?](https://www.v2ex.com/t/725272) ![](assets/new.png)  
+- [2020-11-14-升级-Big-Sur-后外接显示器变卡，怎么破](https://www.v2ex.com/t/725271) ![](assets/new.png)  
+- [2020-11-14-个人转-南山华联花园三房一厅中的一房转租，限一男生，不接受情侣](https://www.v2ex.com/t/725270) ![](assets/new.png)  
+- [2020-11-14-左右为难，怎么选？本地可能拖欠工资-vs-北京年底可能不太好找](https://www.v2ex.com/t/725269) ![](assets/new.png)  
+- [2020-11-14-发了个视频讲亲身经历的加班的事儿（本来想-3-分钟结束，结果说了-25-分钟）](https://www.v2ex.com/t/725268) ![](assets/new.png)  
+- [2020-11-14-iPhone-12-mini-劝退](https://www.v2ex.com/t/725266) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,16 +595,16 @@
 - [2020-11-14-译-Python-幕后解释器：一系列的学习资源](https://toutiao.io/k/k29n7yb) ![](assets/new.png)  
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
-- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-14-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
 - [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-14-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-14-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-14-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-14-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -596,6 +616,10 @@
 </summary>
 
 
+- [2020-11-14-比特币冲高1.6万美元-本月币圈这些事必关注](https://sec.thief.one/article_content?a_id=fa898ea73d80ad3d58eb84a0c59c88d7) ![](assets/new.png)  
+- [2020-11-14-中国IPv6进行时](https://sec.thief.one/article_content?a_id=87d66828ee8472a8a68bdfffcbeb7e55) ![](assets/new.png)  
+- [2020-11-14-Python-游戏编程之实现飞机大战含源代码](https://sec.thief.one/article_content?a_id=df75238a1c8221ce191653eea445416d) ![](assets/new.png)  
+- [2020-11-14-奇安信内生安全亮相新一代工业互联网与新型智慧城市建设大会](https://sec.thief.one/article_content?a_id=817319dc325841699e23680e2747f969) ![](assets/new.png)  
 - [2020-11-14-在看-|-一周网安回顾-2020.11.7~11.13](https://sec.thief.one/article_content?a_id=dab8489a39e307c4759aed9b7fd5d7e8) ![](assets/new.png)  
 - [2020-11-14-哥斯拉Godzilla运行原理探寻](https://sec.thief.one/article_content?a_id=d261973affbfa9728e7d5bc18f102042) ![](assets/new.png)  
 - [2020-11-14-漏洞银行助力第二期网络安全公开课!每周四19:30直播间等你](https://sec.thief.one/article_content?a_id=29a7b2c11ee6493c3a2d63b20a4160a5) ![](assets/new.png)  
@@ -612,10 +636,6 @@
 - [2020-11-14-年仅28岁的程序员郭宇,宣布从字节跳动辞职,实现财富自由!](https://sec.thief.one/article_content?a_id=ad93e7129b7ee43d1ebd001db5d3f109) ![](assets/new.png)  
 - [2020-11-14-前微软工程师窃取千万美元:自己买车买房,同事做替罪羊](https://sec.thief.one/article_content?a_id=37d2a1c1cdedb1095d628bd5c8e088c8) ![](assets/new.png)  
 - [2020-11-13-【安全圈】DeFi-项目遭黑客攻击-损失200-万美元的-DAI-代币](https://sec.thief.one/article_content?a_id=6558375a9ce5e785b60bf020a1987214) ![](assets/new.png)  
-- [2020-11-13-Python之父正式入职微软](https://sec.thief.one/article_content?a_id=8a27ba647ebe3006b66759c8ec5e5182) ![](assets/new.png)  
-- [2020-11-13-腾讯Q3财报背后的“神秘”新能量-企业级安全业务成ToB新动力](https://sec.thief.one/article_content?a_id=11a4e45ea9edaac915cbcca3eb7b69b4) ![](assets/new.png)  
-- [2020-11-13-挖洞经验-|-开放重定向漏洞导致的账户劫持](https://sec.thief.one/article_content?a_id=c7efdbfe3463256de74a62cbc793c9db) ![](assets/new.png)  
-- [2020-11-13-DeFi借贷协议Akropolis重入攻击事件分析](https://sec.thief.one/article_content?a_id=225d1af027efbe76f681638f05b449d5) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

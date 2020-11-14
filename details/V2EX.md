@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-14 03:22:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 03:33:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-工信部投诉了一波联通想异地销号，回复很快，本以为稳了，结果要我返还宽带设备？](https://www.v2ex.com/t/725143) 
+- [2020-11-14-升级-Big-Sur-后，-Handoff-功能失效了](https://www.v2ex.com/t/725142) 
+- [2020-11-14-Big-Sur-系统上-AndroidStudio-有-bug](https://www.v2ex.com/t/725141) 
+- [2020-11-14-big-sur-easyconnect-无法使用怎么搞](https://www.v2ex.com/t/725140) 
+- [2020-11-14-多个路由器如何实现无缝连接](https://www.v2ex.com/t/725138) 
+- [2020-11-14-电信的光猫越用越慢怎么办？](https://www.v2ex.com/t/725137) 
 - [2020-11-14-Windows-10-神州网信版竟然没有内置国家税务总局发票查验平台的-SSL-证书](https://www.v2ex.com/t/725136) 
 - [2020-11-14-为什么微信公众号难抓取?](https://www.v2ex.com/t/725135) 
 - [2020-11-14-人寿让我去什么国家基因库储存细胞是什么套路](https://www.v2ex.com/t/725134) 
@@ -36,6 +42,3 @@
 - [2020-11-14-苹果好像是故意的，-iPhone-优化电池充电老是自动打开](https://www.v2ex.com/t/725097) 
 - [2020-11-14-Apple-折抵，顺丰来把我手机收走了，然后呢](https://www.v2ex.com/t/725096) 
 - [2020-11-14-Big-Sur-如何恢复-Safari-的浏览历史？](https://www.v2ex.com/t/725094) 
-- [2020-11-13-中国大陆天气-app「空气质量指数-AQI」又回来了](https://www.v2ex.com/t/725093) 
-- [2020-11-13-昨天“苹果服务器故障导致-macOS-用户无法打开程序”新闻有感](https://www.v2ex.com/t/725090) 
-- [2020-11-13-工作还是博后](https://www.v2ex.com/t/725088) 

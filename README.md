@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 08:04:16，:rocket: 更新条数: +3021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 08:12:40，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-14-哪里买-CleanShot-X-截图软件便宜？](https://www.v2ex.com/t/725213) ![](assets/new.png)  
+- [2020-11-14-有没有代理工商注册的公司推荐](https://www.v2ex.com/t/725212) ![](assets/new.png)  
+- [2020-11-14-妙（控）啊](https://www.v2ex.com/t/725210) ![](assets/new.png)  
+- [2020-11-14-Big-Sur-无法开启-HiDPI，怎么解决？](https://www.v2ex.com/t/725209) ![](assets/new.png)  
+- [2020-11-14-问下大佬关于视频分辨率的问题……](https://www.v2ex.com/t/725208) ![](assets/new.png)  
+- [2020-11-14-如何将-WKWebView-的网页保存到本地？](https://www.v2ex.com/t/725207) ![](assets/new.png)  
+- [2020-11-14-求助，-iPhone12-mini-连上-wifi-之后还是无法上网](https://www.v2ex.com/t/725205) ![](assets/new.png)  
+- [2020-11-14-GitHub-上搜索关键词-“golang-聊天”-排名第-3-的是我的练手项目，哈哈哈哈哈](https://www.v2ex.com/t/725204) ![](assets/new.png)  
+- [2020-11-14-新款-M1-的-MBP13，外接双显示器（都是-LG，-4k），有啥好的办法吗？看了太多的扩展坞文章，已经晕了。](https://www.v2ex.com/t/725203) ![](assets/new.png)  
+- [2020-11-14-Big-Sur-的-spotlight-搜索要怎么快速选中「定义」项？](https://www.v2ex.com/t/725202) ![](assets/new.png)  
+- [2020-11-14-迫于法律知识缺失，想请教大家哪里有能学到日常法律知识的途径](https://www.v2ex.com/t/725201) ![](assets/new.png)  
+- [2020-11-14-阿里云新用户的-1-核-2g3-年才-290-元，-2-核-4g3-年-509-元，很超值啊](https://www.v2ex.com/t/725200) ![](assets/new.png)  
+- [2020-11-14-好兄弟们,coredump-如何把时间打成当前时间](https://www.v2ex.com/t/725199) ![](assets/new.png)  
+- [2020-11-14-更新-big-sur-正式版后-无法打开-eclipse-和-pd-了？](https://www.v2ex.com/t/725198) ![](assets/new.png)  
+- [2020-11-14-有程序员转行做销售的经历吗](https://www.v2ex.com/t/725197) ![](assets/new.png)  
+- [2020-11-14-Martian-cloud-4.0.2，-丢弃心跳机制，解决网络压力问题](https://www.v2ex.com/t/725196) ![](assets/new.png)  
+- [2020-11-14-有一台淘汰的老笔记本，做什么好呢](https://www.v2ex.com/t/725195) ![](assets/new.png)  
+- [2020-11-14-网上配镜，回来戴上后发现看显示器左低右高](https://www.v2ex.com/t/725194) ![](assets/new.png)  
+- [2020-11-14-网站的-SEO-具体是如何实现的？](https://www.v2ex.com/t/725193) ![](assets/new.png)  
+- [2020-11-14-昨天没说清楚，今天再来请教一下！](https://www.v2ex.com/t/725192) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -585,16 +605,16 @@
 - [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
-- [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
 - [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-14-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
 - [2020-11-14-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
 - [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-14-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
-- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-14-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

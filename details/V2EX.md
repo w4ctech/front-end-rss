@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-14 13:33:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 13:48:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-10-月离职工资怎么算？有没有懂的-v-友？](https://www.v2ex.com/t/725306) 
+- [2020-11-14-有遇到-Apple-Watch-徽章不生成了的吗？](https://www.v2ex.com/t/725305) 
+- [2020-11-14-能利用-SMTP/IMAP-互相发送-IP+遍历猜测-port-来实现-P2P-的-UDP-通讯吗？](https://www.v2ex.com/t/725304) 
+- [2020-11-14-鉴于最近看到一些侵权相关的帖子，请教几个问题](https://www.v2ex.com/t/725303) 
+- [2020-11-14-转-马保国尤大版本-¿¿¿](https://www.v2ex.com/t/725302) 
 - [2020-11-14-更新完-14.2-后-safari-翻译功能没了？](https://www.v2ex.com/t/725301) 
 - [2020-11-14-抹盘升级到-Big-Sur，发现-Time-Machine-不可用](https://www.v2ex.com/t/725300) 
 - [2020-11-14-国内外有比较活跃的-ios-快捷指令相关论坛吗？](https://www.v2ex.com/t/725298) 
@@ -40,7 +45,3 @@
 - [2020-11-14-这些年你们追过的女孩都成功了吗？](https://www.v2ex.com/t/725260) 
 - [2020-11-14-微软-欢迎找我内推](https://www.v2ex.com/t/725258) 
 - [2020-11-14-顺丰也变垃圾了](https://www.v2ex.com/t/725257) 
-- [2020-11-14-谈谈拜登或者川普对华为的影响](https://www.v2ex.com/t/725256) 
-- [2020-11-14-对-apple-silicon-拔草了](https://www.v2ex.com/t/725254) 
-- [2020-11-14-kali-Linux-编译内核时遇到错误-bzImage](https://www.v2ex.com/t/725253) 
-- [2020-11-14-我的云主机-IP-被陌生人解析了咋办？客服来电话告知我备案，可域名我都不知道谁的？](https://www.v2ex.com/t/725252) 

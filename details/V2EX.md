@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-14 14:04:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 14:11:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-照片备份的解决办法？](https://www.v2ex.com/t/725311) 
 - [2020-11-14-密码学原理在区块链和其他场景的应用](https://www.v2ex.com/t/725310) 
 - [2020-11-14-每次看自己以前写的博客都有种-XX-的感觉?](https://www.v2ex.com/t/725309) 
 - [2020-11-14-记一次性能调优-|-极客分享第-4-期](https://www.v2ex.com/t/725308) 
@@ -44,5 +45,3 @@
 - [2020-11-14-iPhone-12-mini-劝退](https://www.v2ex.com/t/725266) 
 - [2020-11-14-手边几款电脑升级-Big-Sur-的经历、体验和问题](https://www.v2ex.com/t/725264) 
 - [2020-11-14-升级-macOS-请谨慎！升级-Big-Sur-后被抹掉用户数据和应用](https://www.v2ex.com/t/725263) 
-- [2020-11-14-AirPods-在-Mac-和-iPhone-之间反复横跳](https://www.v2ex.com/t/725262) 
-- [2020-11-14-ios-上有类似-librera-这样优秀的本地电子书阅读软件吗](https://www.v2ex.com/t/725261) 

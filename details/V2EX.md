@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-14 05:19:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 05:33:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-Java-static-方法](https://www.v2ex.com/t/725168) 
+- [2020-11-14-macOS-big-sur-安装问题请教](https://www.v2ex.com/t/725167) 
+- [2020-11-14-iphone12-的全系-oled-和-iPad-pro-的顶级-LCD，为什么到了-iPhone-这就不能拥有顶级的-lcd](https://www.v2ex.com/t/725166) 
+- [2020-11-14-有老哥知道这个系统自带的-vpn-的图标老是重叠显示问题？](https://www.v2ex.com/t/725165) 
 - [2020-11-14-升级到-macOS-big-sur-后，-chrome-上出现字体模糊的问题](https://www.v2ex.com/t/725164) 
 - [2020-11-14-IPv6List---一个收集支持-IPv6-域名的列表](https://www.v2ex.com/t/725163) 
 - [2020-11-14-不等官网发货，今天直接直营店线下取-12pm-了](https://www.v2ex.com/t/725162) 
@@ -39,7 +43,3 @@
 - [2020-11-14-MBP-升级之后-GNU-toolchain-编译出现-duplicate-symbols-问题](https://www.v2ex.com/t/725124) 
 - [2020-11-14-2019-融合硬盘版的-iMac-升级系统卡在-logo-界面一整晚，怎么办](https://www.v2ex.com/t/725123) 
 - [2020-11-14-关于升级-big-sur-后的问题](https://www.v2ex.com/t/725120) 
-- [2020-11-14-想送给小学二年级的外甥一本编程启蒙书，哪本书比较好](https://www.v2ex.com/t/725119) 
-- [2020-11-14-关于-4k@120](https://www.v2ex.com/t/725118) 
-- [2020-11-14-有什么办法让-Big-Sur-的菜单栏不根据壁纸变色？](https://www.v2ex.com/t/725117) 
-- [2020-11-14-有没有-mac-版本-iMessage-和-FaceTime-无法登陆的朋友？](https://www.v2ex.com/t/725115) 

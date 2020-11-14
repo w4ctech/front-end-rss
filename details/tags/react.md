@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-14 15:21:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 15:33:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -7,4 +7,4 @@
 
 
 
-- [2020-11-14-手写一个react-redux，原理一目了然](https://juejin.im/post/6894930355157991438) 
+- [2020-11-14-Redux、-React-Redux学习](https://juejin.im/post/6894990144495943694) 

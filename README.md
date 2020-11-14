@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 06:35:21，:rocket: 更新条数: +3060， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 06:48:01，:rocket: 更新条数: +3062， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-11-13-11月13日全国新增确诊病例18例-均为境外输入病例](https://m.caixin.com/m/2020-11-14/101627783.html) ![](assets/new.png)  
+- [2020-11-13-【境内疫情观察】全国新增18例境外输入病例（11月13日）](http://m.database.caixin.com/m/2020-11-14/101627999.html) ![](assets/new.png)  
 - [2020-11-13-大流行手记|11月13日：英日增病例创新高-日本研究称新冠变异后传染性增强](https://m.caixin.com/m/2020-11-14/101627841.html) ![](assets/new.png)  
 - [2020-11-12-新冠病毒毒性未减-张文宏详解病死率下降缘由](http://m.topics.caixin.com/m/2020-11-13/101627435.html) ![](assets/new.png)  
 - [2020-11-12-最新海外疫情：新冠感染超5262万-累计死亡近129万](http://m.international.caixin.com/m/2020-11-13/101627529.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-09-安徽阜阳确诊1例新冠病例-系上海确诊病例密接者](https://m.caixin.com/m/2020-11-10/101625593.html) ![](assets/new.png)  
 - [2020-11-09-【境内疫情观察】上海新增1例本土确诊病例（11月9日）](http://m.database.caixin.com/m/2020-11-10/101625580.html) ![](assets/new.png)  
 - [2020-11-09-大流行手记|11月9日：美确诊人数破千万-辉瑞公布新冠疫苗有效率逾90%](https://m.caixin.com/m/2020-11-10/101625386.html) ![](assets/new.png)  
-- [2020-11-09-解药|礼来首获新冠中和抗体紧急使用授权-意外领先再生元](https://m.caixin.com/m/2020-11-10/101625722.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-14-非-M1-芯片的-2020MBP-需要升级-Big-Sur-吗？](https://www.v2ex.com/t/725190) ![](assets/new.png)  
+- [2020-11-14-多灾多难，今天又来了零宽字符，导致字符串手机号在数据库查询不出结果](https://www.v2ex.com/t/725189) ![](assets/new.png)  
+- [2020-11-14-现在租房有什么比较好的平台吗？](https://www.v2ex.com/t/725188) ![](assets/new.png)  
+- [2020-11-14-预算-3500，望推荐一份攒机配置清单](https://www.v2ex.com/t/725187) ![](assets/new.png)  
 - [2020-11-14-震惊！-MacOS-Big-Sur-在-Apple-Store-直接死机，大家升级需谨慎](https://www.v2ex.com/t/725186) ![](assets/new.png)  
 - [2020-11-14-iPhone-12-系列-个人热点-问题：-1，开启-5G。2，自动-5G。3，仅开启-4G/LTE。](https://www.v2ex.com/t/725184) ![](assets/new.png)  
 - [2020-11-14-小白请教,昨天买了个入门阿里云,但是不会用.](https://www.v2ex.com/t/725182) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-14-macOS-Big-Sur-更新之后，根目录文件丢失？](https://www.v2ex.com/t/725170) ![](assets/new.png)  
 - [2020-11-14-Java-static-方法](https://www.v2ex.com/t/725168) ![](assets/new.png)  
 - [2020-11-14-macOS-big-sur-安装问题请教](https://www.v2ex.com/t/725167) ![](assets/new.png)  
-- [2020-11-14-iphone12-的全系-oled-和-iPad-pro-的顶级-LCD，为什么到了-iPhone-这就不能拥有顶级的-lcd](https://www.v2ex.com/t/725166) ![](assets/new.png)  
-- [2020-11-14-有老哥知道这个系统自带的-vpn-的图标老是重叠显示问题？](https://www.v2ex.com/t/725165) ![](assets/new.png)  
-- [2020-11-14-升级到-macOS-big-sur-后，-chrome-上出现字体模糊的问题](https://www.v2ex.com/t/725164) ![](assets/new.png)  
-- [2020-11-14-IPv6List---一个收集支持-IPv6-域名的列表](https://www.v2ex.com/t/725163) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-14-GraphQL-值得了解一下](https://toutiao.io/k/4rzk9bp) ![](assets/new.png)  
 - [2020-11-14-译-Infura-以太坊-API-入门教程](https://toutiao.io/k/mvk77a0) ![](assets/new.png)  
 - [2020-11-14-Golang-语言标准库-sync-包的-WaitGroup-怎么使用？](https://toutiao.io/k/ardadr4) ![](assets/new.png)  
-- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-14-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
-- [2020-11-14-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-14-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-14-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
 - [2020-11-14-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-14-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-14-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-14-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-14-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-14-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-14-推荐-一篇文章搞清电商订单结算页面设计？](https://toutiao.io/k/imwt9hx) ![](assets/new.png)  
+- [2020-11-14-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [2020-11-14-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-14-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-14-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

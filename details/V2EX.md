@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-14 06:26:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 06:33:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-震惊！-MacOS-Big-Sur-在-Apple-Store-直接死机，大家升级需谨慎](https://www.v2ex.com/t/725186) 
+- [2020-11-14-iPhone-12-系列-个人热点-问题：-1，开启-5G。2，自动-5G。3，仅开启-4G/LTE。](https://www.v2ex.com/t/725184) 
 - [2020-11-14-小白请教,昨天买了个入门阿里云,但是不会用.](https://www.v2ex.com/t/725182) 
 - [2020-11-14-升级新系统-big-sur-后，关于-quicklook-插件的问题](https://www.v2ex.com/t/725181) 
 - [2020-11-14-iOS-上适合编程启蒙的游戏性质的-APP-有推荐的吗](https://www.v2ex.com/t/725180) 
@@ -43,6 +45,3 @@
 - [2020-11-14-big-sur-easyconnect-无法使用怎么搞](https://www.v2ex.com/t/725140) 
 - [2020-11-14-多个路由器如何实现无缝连接](https://www.v2ex.com/t/725138) 
 - [2020-11-14-电信的光猫越用越慢怎么办？](https://www.v2ex.com/t/725137) 
-- [2020-11-14-Windows-10-神州网信版竟然没有内置国家税务总局发票查验平台的-SSL-证书](https://www.v2ex.com/t/725136) 
-- [2020-11-14-为什么微信公众号难抓取?](https://www.v2ex.com/t/725135) 
-- [2020-11-14-人寿让我去什么国家基因库储存细胞是什么套路](https://www.v2ex.com/t/725134) 

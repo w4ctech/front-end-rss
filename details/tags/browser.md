@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-15 10:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 11:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,6 +26,9 @@
 - [2020-11-15-如果-https-证书过期了，但继续访问，这个还安全吗](https://www.v2ex.com/t/725490) 
 - [2020-11-15-使用-vscode-调试-golang-代码的时候总是询问是使用-go-还是-dlv-调试器](https://www.v2ex.com/t/725487) 
 - [2020-11-15-Linux-后台开发常用调试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-11-15-安全分析-|-两个VMware-Workstation中的TOCTOU漏洞](https://sec.thief.one/article_content?a_id=7cac6a740950a68923d08f3bf1242a32) 
+- [2020-11-15-​在招-|-锅圈食汇40K/月诚招安全贤才,小岳岳等你来](https://sec.thief.one/article_content?a_id=55ea083ec2e31b0a6554b7b7134a66ee) 
+- [2020-11-15-最强王者诞生!西湖论剑•2020中国杭州网络安全技能大赛收官](https://sec.thief.one/article_content?a_id=1af1f30ffef96abfd991e776bc5eb883) 
 - [2020-11-14-奇安信内生安全亮相新一代工业互联网与新型智慧城市建设大会](https://sec.thief.one/article_content?a_id=817319dc325841699e23680e2747f969) 
 - [2020-11-14-Web安全:点击劫持](https://sec.thief.one/article_content?a_id=2327b1dfd597cf1dc94c224489dec28d) 
 - [2020-11-14-工业互联网数据安全技术研究](https://sec.thief.one/article_content?a_id=6b0a89b9b00b36ece9b7f95b0e1b01c9) 
@@ -46,4 +49,3 @@
 - [2020-11-12-小米AIoT安全峰会议题回顾|安全可信体系:系统可信标准解读与实践](https://sec.thief.one/article_content?a_id=641a73a1bccd856b083362ba69a79d6c) 
 - [2020-11-12-浅析《金融数据安全分级指南》](https://sec.thief.one/article_content?a_id=9f6a33dc7c69478a5c0b93264cd7f7bd) 
 - [2020-11-12-这道工业互联网安全“必答题”,如何才能得满分?](https://sec.thief.one/article_content?a_id=18249e579aa64d683e7b902c3bf899e5) 
-- [2020-11-12-web之父的创业选择:网络安全](https://sec.thief.one/article_content?a_id=ced0fb15de3398619e71b3d21e80cbd8) 

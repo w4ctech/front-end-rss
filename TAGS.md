@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-15 10:47:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 11:03:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -95,6 +95,7 @@
 - [【掘金前端】简单讲讲Webpack](https://juejin.im/post/6895255081415868429)
 - [【掘金前端】新手的-webpack-多页面多环境配置实战](https://juejin.im/post/6895229827747020807)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【安全热点】AIoT安全峰会议题回顾|构建安全可信的物联网](https://sec.thief.one/article_content?a_id=dd4bd73fccab530b0d555d8b3be556ff)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -332,7 +333,7 @@
 - [【V2EX】如果-https-证书过期了，但继续访问，这个还安全吗](https://www.v2ex.com/t/725490)
 - [【V2EX】使用-vscode-调试-golang-代码的时候总是询问是使用-go-还是-dlv-调试器](https://www.v2ex.com/t/725487)
 - [【技术头条】Linux-后台开发常用调试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【安全热点】奇安信内生安全亮相新一代工业互联网与新型智慧城市建设大会](https://sec.thief.one/article_content?a_id=817319dc325841699e23680e2747f969)
+- [【安全热点】安全分析-|-两个VMware-Workstation中的TOCTOU漏洞](https://sec.thief.one/article_content?a_id=7cac6a740950a68923d08f3bf1242a32)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -384,7 +385,6 @@
 
 - [【技术头条】提高-Github下载速度到-2MB/s-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13937&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQBA18YbevaWtaYyaQnSivw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
-- [【安全热点】10月份GitHub上最热门的Python开源项目](https://sec.thief.one/article_content?a_id=6ad6de7b25bc9a08074e0b11c7f31ed0)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -405,7 +405,6 @@
 - [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [【安全热点】【美团招聘】冬季专场Vol.1~这13个岗位热招中!](https://sec.thief.one/article_content?a_id=0c94c23144faca42b66f855299c0988d)
 - [【安全热点】招聘-|-上海埃帕信息科技有限公司](https://sec.thief.one/article_content?a_id=b64567b976b9fa210b3a50d12fc1ca55)
-- [【安全热点】感谢“您”面试我,却狠拒绝了“我”](https://sec.thief.one/article_content?a_id=28d77d39c4ed270dab1b724a478b4f72)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

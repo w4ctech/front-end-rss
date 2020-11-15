@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-15 08:03:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 08:12:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-macOS-Big-Sur-下是不是第三方-APP-的图标依然不符合新的图标样式？](https://www.v2ex.com/t/725468) 
 - [2020-11-15-使用-udp-如何加密传输保证内容不被窃取？](https://www.v2ex.com/t/725467) 
 - [2020-11-15-Elementary-OS-6-这个黑暗模式看起来不错](https://www.v2ex.com/t/725466) 
 - [2020-11-15-MacBookPro-有没有性价比高的好用的充电线？倍思那个插进去拔出来差点要把我雷电口撬开](https://www.v2ex.com/t/725465) 
@@ -46,4 +47,3 @@
 - [2020-11-15-升级到-big-sur-后，-smb-的-Time-Machine-不能用了吗](https://www.v2ex.com/t/725421) 
 - [2020-11-15-50-能收个京东-plus-吗？](https://www.v2ex.com/t/725420) 
 - [2020-11-15-TimeMachine-硬盘求推荐，-15-款-mbp，折腾了一天](https://www.v2ex.com/t/725419) 
-- [2020-11-15-后端不按格式返回数据的问题……](https://www.v2ex.com/t/725418) 

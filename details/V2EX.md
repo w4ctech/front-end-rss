@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-15 13:10:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 13:19:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-大家的-12-都绿了吗？系统版本是-14.2-吗？](https://www.v2ex.com/t/725533) 
+- [2020-11-15-Pear-Admin-Ant-0.3.4.beta-正式开源，欢迎大家-PR-与-建议](https://www.v2ex.com/t/725532) 
 - [2020-11-15-macOS-自带软件重新安装](https://www.v2ex.com/t/725531) 
 - [2020-11-15-想知道现在还有多少人用-print-调试-debug？](https://www.v2ex.com/t/725529) 
 - [2020-11-15-更新完-macOS-Big-Sur-非常不适应](https://www.v2ex.com/t/725528) 
@@ -43,5 +45,3 @@
 - [2020-11-15-升级-Big-Sur-后-Alfred-搜索不到子目录下的应用](https://www.v2ex.com/t/725486) 
 - [2020-11-15-iOS-14-原生输入法键盘偶尔不弹出](https://www.v2ex.com/t/725485) 
 - [2020-11-15-12-mini-的手感真的那么好？](https://www.v2ex.com/t/725484) 
-- [2020-11-15-如何解决-mac-os-的-ocsp-的问题？](https://www.v2ex.com/t/725483) 
-- [2020-11-15-字节跳动北京/上海/新加坡-后端研发、运维研发工程师-社招&校招&实习](https://www.v2ex.com/t/725482) 

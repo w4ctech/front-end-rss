@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 20:20:29，:rocket: 更新条数: +3297， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 20:32:57，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-15-有阻止和隐藏-Software-Update-的小程序吗？](https://www.v2ex.com/t/725590) ![](assets/new.png)  
 - [2020-11-15-Firefox-b-站播放视频错误-|-bilivideo.com-403-downloadError](https://www.v2ex.com/t/725589) ![](assets/new.png)  
 - [2020-11-15-Chrome-插件在中国的使用率](https://www.v2ex.com/t/725588) ![](assets/new.png)  
 - [2020-11-15-Mui.js-大佬过来救命拉！](https://www.v2ex.com/t/725587) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-15-深夜发个前端-@深圳微信群，有效期仅-7-天。猎头勿加！](https://www.v2ex.com/t/725570) ![](assets/new.png)  
 - [2020-11-15-深圳腾讯-——-招聘前端开发---大量-HC---在线教育](https://www.v2ex.com/t/725568) ![](assets/new.png)  
 - [2020-11-15-现在-2020-年了,golang-有什么好用的-gui-吗,windows-平台.](https://www.v2ex.com/t/725566) ![](assets/new.png)  
-- [2020-11-15-我终于知道什么是最理想的职业了](https://www.v2ex.com/t/725565) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,16 +625,16 @@
 - [2020-11-15-荣誉加身，手摸手教你成为优质开源项目的贡献者](https://toutiao.io/k/q9ek0j9) ![](assets/new.png)  
 - [2020-11-15-EntityFramework-Core-上下文实例池原理](https://toutiao.io/k/yef28b5) ![](assets/new.png)  
 - [2020-11-15-今天搬砖不狠，明天地位不稳！](https://toutiao.io/k/iuxq2xo) ![](assets/new.png)  
+- [2020-11-15-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-15-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [2020-11-15-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-15-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-15-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
-- [2020-11-15-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-15-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-15-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
 - [2020-11-15-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-15-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-15-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
 - [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-15-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-15-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-15-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-15-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-15 11:10:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 11:19:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -115,7 +115,6 @@
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【掘金前端】简单讲讲Webpack](https://juejin.im/post/6895255081415868429)
-- [【掘金前端】新手的-webpack-多页面多环境配置实战](https://juejin.im/post/6895229827747020807)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【安全热点】AIoT安全峰会议题回顾|构建安全可信的物联网](https://sec.thief.one/article_content?a_id=dd4bd73fccab530b0d555d8b3be556ff)
 - [......【查看更多】......](./details/tags/pack-build.md)
@@ -497,6 +496,7 @@
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【技术头条】提高-Github下载速度到-2MB/s-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13937&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQBA18YbevaWtaYyaQnSivw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

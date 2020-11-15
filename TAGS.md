@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-15 01:29:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 01:36:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -217,7 +217,6 @@
 - [【张鑫旭-鑫空间-鑫生活】如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/)
 - [【张鑫旭-鑫空间-鑫生活】快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)
 - [【张鑫旭-鑫空间-鑫生活】Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)
-- [【掘金前端】闪电五连鞭：Composition-API原理深度剖析](https://juejin.im/post/6894993303486332941)
 - [【掘金前端】Serverless之AWS-Lambda初探-|-🏆-技术专题第七期征文](https://juejin.im/post/6894987116284116999)
 - [【前端艺术家&&飞冰早报】【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0)
 - [【前端艺术家&&飞冰早报】b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882)
@@ -370,7 +369,6 @@
 
 - [【V2EX】Consul-GRPC-健康检查失败问题](https://www.v2ex.com/t/725314)
 - [【技术头条】【实战分享】从选型到项目落地，漫谈-gRPC-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13920&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F285221429%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

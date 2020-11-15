@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-15 09:21:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 09:32:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-升级-Big-Sur-后-Alfred-搜索不到子目录下的应用](https://www.v2ex.com/t/725486) 
+- [2020-11-15-iOS-14-原生输入法键盘偶尔不弹出](https://www.v2ex.com/t/725485) 
 - [2020-11-15-12-mini-的手感真的那么好？](https://www.v2ex.com/t/725484) 
 - [2020-11-15-如何解决-mac-os-的-ocsp-的问题？](https://www.v2ex.com/t/725483) 
 - [2020-11-15-字节跳动北京/上海/新加坡-后端研发、运维研发工程师-社招&校招&实习](https://www.v2ex.com/t/725482) 
@@ -41,5 +43,3 @@
 - [2020-11-15-MySQLdb,写入表时，出现的-1265,-"Data-truncated-for-column"告警，如何精准捕捉原数据内容？](https://www.v2ex.com/t/725439) 
 - [2020-11-15-用户挺可爱的逆反心理](https://www.v2ex.com/t/725438) 
 - [2020-11-15-远程运维工具](https://www.v2ex.com/t/725437) 
-- [2020-11-15-ios14-和-pados13-Safari-标签页不同步](https://www.v2ex.com/t/725436) 
-- [2020-11-15-技术求助：-Python-，-pywinauto](https://www.v2ex.com/t/725435) 

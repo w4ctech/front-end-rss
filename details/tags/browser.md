@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-15 16:36:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 16:47:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,7 +25,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-15-求助-chrome-“警告：有人试图使用您的密码登录您帐号，-Google-已阻止了这项可疑操作。”-如何消除](https://www.v2ex.com/t/725576) 
 - [2020-11-15-感觉在-4K-分辨率下开-MacType-的字体渲染还是比不开的好看](https://www.v2ex.com/t/725554) 
-- [2020-11-15-想知道现在还有多少人用-print-调试-debug？](https://www.v2ex.com/t/725529) 
 - [2020-11-15-Linux-后台开发常用调试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-15-【安全圈】重磅!美军突然行动,缴获投票作弊软件服务器!](https://sec.thief.one/article_content?a_id=c894a106f54219c21fd1ecb91132427f) 
 - [2020-11-15-安全分析-|-两个VMware-Workstation中的TOCTOU漏洞](https://sec.thief.one/article_content?a_id=7cac6a740950a68923d08f3bf1242a32) 

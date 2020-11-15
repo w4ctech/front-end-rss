@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-15 03:35:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 03:48:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-Mac-换芯，换新-Mac？](https://www.v2ex.com/t/725403) 
+- [2020-11-15-债市暴雷，理财是不是要拿出来了](https://www.v2ex.com/t/725402) 
+- [2020-11-15-群辉的-Synology-Drive-Client-用不了，谨慎升级](https://www.v2ex.com/t/725401) 
 - [2020-11-15-如何实现识别-tcp-中的包含-http-的包-期望使用-iptables](https://www.v2ex.com/t/725399) 
 - [2020-11-15-最近打开某些网站特别慢，搞不懂？](https://www.v2ex.com/t/725398) 
 - [2020-11-15-分享一篇苹果用-http-OSCP-协议校验每个程序的-HASH-的洗文，洗的有理有据](https://www.v2ex.com/t/725394) 
@@ -35,7 +38,3 @@
 - [2020-11-15-vuejs-开发分布式-app，-powered-by-lealone](https://www.v2ex.com/t/725356) 
 - [2020-11-15-领导非要让我带他打-DOTA-但他实在太菜了怎么办啊啊啊啊](https://www.v2ex.com/t/725355) 
 - [2020-11-15-Swrite-互链文档蛮有意思的](https://www.v2ex.com/t/725354) 
-- [2020-11-15-无缝切换-AirPods-是不是有毒？我觉得-iPhone-老是在抢耳机（和-mac、watch-相比）](https://www.v2ex.com/t/725353) 
-- [2020-11-15-有没有手机上网页取词翻译的-app](https://www.v2ex.com/t/725352) 
-- [2020-11-14-程序员的最佳第二职业或第二赛道应该是什么？](https://www.v2ex.com/t/725351) 
-- [2020-11-14-ITunes-U-是个好-APP，挺多好资源](https://www.v2ex.com/t/725350) 

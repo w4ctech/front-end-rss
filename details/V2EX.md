@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-15 12:14:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 12:27:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-Big-Sur-真香，-17mbp，丝滑般的动画，你值得拥有](https://www.v2ex.com/t/725518) 
 - [2020-11-15-迫于价格写错，-netflix-土区下车一位，-15-一个月](https://www.v2ex.com/t/725517) 
 - [2020-11-15-某宝的这种操作算违规还是擦边球](https://www.v2ex.com/t/725516) 
 - [2020-11-15-最近买了个-Yeelight-显示器挂灯，挺好用，但是背光跟广告宣传不符，有点小坑](https://www.v2ex.com/t/725515) 
@@ -43,4 +44,3 @@
 - [2020-11-15-什么是程序员](https://www.v2ex.com/t/725472) 
 - [2020-11-15-怎么优雅地使用-bottom-up-解决-LeetCode-39.-Combination-Sum？](https://www.v2ex.com/t/725470) 
 - [2020-11-15-同是电信，广州电信你能再烂点吗？](https://www.v2ex.com/t/725469) 
-- [2020-11-15-macOS-Big-Sur-下是不是第三方-APP-的图标依然不符合新的图标样式？](https://www.v2ex.com/t/725468) 

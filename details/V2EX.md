@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-15 04:24:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 04:33:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-升级到-big-sur-后，-smb-的-Time-Machine-不能用了吗](https://www.v2ex.com/t/725421) 
+- [2020-11-15-50-能收个京东-plus-吗？](https://www.v2ex.com/t/725420) 
+- [2020-11-15-TimeMachine-硬盘求推荐，-15-款-mbp，折腾了一天](https://www.v2ex.com/t/725419) 
+- [2020-11-15-后端不按格式返回数据的问题……](https://www.v2ex.com/t/725418) 
 - [2020-11-15-怎么买原版书划算呢？想买本《kubeneters-in-action》，主要是-kindle-看了一下中文版样张排版太烂了，亚马逊看了一下国外运过来运费比书本还贵](https://www.v2ex.com/t/725417) 
 - [2020-11-15-请问如何抹盘升级到-macOS-Big-Sur？](https://www.v2ex.com/t/725416) 
 - [2020-11-15-招远程-golang-一名。！](https://www.v2ex.com/t/725415) 
@@ -32,7 +36,3 @@
 - [2020-11-15-苹果商店-APP-侵权投诉/防恶意投诉](https://www.v2ex.com/t/725376) 
 - [2020-11-15-连续三天凌晨-6-点起来预约购买-iPhone-12-pro-max](https://www.v2ex.com/t/725374) 
 - [2020-11-15-按照-Torvalds-的观点，-ARM-架构会在服务器领域火一把？](https://www.v2ex.com/t/725372) 
-- [2020-11-15-The-Legend-of-Zelda:-Breath-of-the-Wild---Hyrule-Warriors:-Age-of-Calamity](https://www.v2ex.com/t/725371) 
-- [2020-11-15-请教下-GooglePlayStore“设备未认证”如何解决](https://www.v2ex.com/t/725370) 
-- [2020-11-15-苹果用-http-OCSP-协议校验每个程序的-HASH-这个没得洗](https://www.v2ex.com/t/725369) 
-- [2020-11-15-V-友们求推荐一款笔记本电脑，「需求明确」「预算明确」](https://www.v2ex.com/t/725368) 

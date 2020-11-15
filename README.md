@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 02:12:54，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 02:23:42，:rocket: 更新条数: +3298， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,10 @@
 </summary>
 
 
+- [2020-11-15-连续三天凌晨-6-点起来预约购买-iPhone-12-pro-max](https://www.v2ex.com/t/725374) ![](assets/new.png)  
+- [2020-11-15-按照-Torvalds-的观点，-ARM-架构会在服务器领域火一把？](https://www.v2ex.com/t/725372) ![](assets/new.png)  
+- [2020-11-15-The-Legend-of-Zelda:-Breath-of-the-Wild---Hyrule-Warriors:-Age-of-Calamity](https://www.v2ex.com/t/725371) ![](assets/new.png)  
+- [2020-11-15-请教下-GooglePlayStore“设备未认证”如何解决](https://www.v2ex.com/t/725370) ![](assets/new.png)  
 - [2020-11-15-苹果用-http-OCSP-协议校验每个程序的-HASH-这个没得洗](https://www.v2ex.com/t/725369) ![](assets/new.png)  
 - [2020-11-15-V-友们求推荐一款笔记本电脑，「需求明确」「预算明确」](https://www.v2ex.com/t/725368) ![](assets/new.png)  
 - [2020-11-15-看书的时候总是转头就忘](https://www.v2ex.com/t/725367) ![](assets/new.png)  
@@ -569,10 +573,6 @@
 - [2020-11-15-无缝切换-AirPods-是不是有毒？我觉得-iPhone-老是在抢耳机（和-mac、watch-相比）](https://www.v2ex.com/t/725353) ![](assets/new.png)  
 - [2020-11-15-有没有手机上网页取词翻译的-app](https://www.v2ex.com/t/725352) ![](assets/new.png)  
 - [2020-11-14-程序员的最佳第二职业或第二赛道应该是什么？](https://www.v2ex.com/t/725351) ![](assets/new.png)  
-- [2020-11-14-ITunes-U-是个好-APP，挺多好资源](https://www.v2ex.com/t/725350) ![](assets/new.png)  
-- [2020-11-14-关于-PVE-单网卡-多-IP-该如何配置？](https://www.v2ex.com/t/725349) ![](assets/new.png)  
-- [2020-11-14-有个-raid-1-的需求，关于磁盘阵列柜和卡想请教下各位](https://www.v2ex.com/t/725348) ![](assets/new.png)  
-- [2020-11-14-求个二维空间投射到一维空间的算法](https://www.v2ex.com/t/725347) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -621,20 +621,20 @@
 - [2020-11-15-微服务架构谈（八）：拆分单体应用的难点](https://toutiao.io/k/o95klb4) ![](assets/new.png)  
 - [2020-11-15-译-也许是最客观、全面的比较-Rust-与-Go：都想把-Rust-也学一下](https://toutiao.io/k/w9rm4yw) ![](assets/new.png)  
 - [2020-11-15-关于-CPU-你需要了解的（二）](https://toutiao.io/k/sa3tc4h) ![](assets/new.png)  
-- [2020-11-15-前端工程实践之数据埋点分析系统](https://toutiao.io/k/crnvcxr) ![](assets/new.png)  
 - [2020-11-15-荣誉加身，手摸手教你成为优质开源项目的贡献者](https://toutiao.io/k/q9ek0j9) ![](assets/new.png)  
+- [2020-11-15-前端工程实践之数据埋点分析系统](https://toutiao.io/k/crnvcxr) ![](assets/new.png)  
 - [2020-11-15-这些高阶的函数技术，你掌握了么](https://toutiao.io/k/qogwd7i) ![](assets/new.png)  
 - [2020-11-15-EntityFramework-Core-上下文实例池原理](https://toutiao.io/k/yef28b5) ![](assets/new.png)  
+- [2020-11-15-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
+- [2020-11-15-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-15-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
 - [2020-11-15-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-15-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-15-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-15-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-15-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-15-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
 - [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-15-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-15-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-15-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-15-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-15-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-15-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-15-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-15-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

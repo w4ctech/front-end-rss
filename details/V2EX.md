@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-15 15:48:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 16:04:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-年底了，应该也是更种大会要开的时候了吧，不过还是有点期待-2020-aws-re-invent](https://www.v2ex.com/t/725577) 
+- [2020-11-15-求助-chrome-“警告：有人试图使用您的密码登录您帐号，-Google-已阻止了这项可疑操作。”-如何消除](https://www.v2ex.com/t/725576) 
+- [2020-11-15-一眼望去全都是-MacOS-Apple-的主题](https://www.v2ex.com/t/725575) 
 - [2020-11-15-升级-Big-Sur-遇到一个错误](https://www.v2ex.com/t/725572) 
 - [2020-11-15-双十一买了一个-Windows-hello-WBF指纹读取设备,-感觉不对劲?](https://www.v2ex.com/t/725571) 
 - [2020-11-15-深夜发个前端-@深圳微信群，有效期仅-7-天。猎头勿加！](https://www.v2ex.com/t/725570) 
@@ -42,6 +45,3 @@
 - [2020-11-15-macOS-自带软件重新安装](https://www.v2ex.com/t/725531) 
 - [2020-11-15-想知道现在还有多少人用-print-调试-debug？](https://www.v2ex.com/t/725529) 
 - [2020-11-15-更新完-macOS-Big-Sur-非常不适应](https://www.v2ex.com/t/725528) 
-- [2020-11-15-腾讯视频招聘后台开发工程师，目标职级-2-2-到-3-1。没有-pua，没有-996](https://www.v2ex.com/t/725527) 
-- [2020-11-15-为什么没有一款支持画中画的本地视频播放器呢](https://www.v2ex.com/t/725526) 
-- [2020-11-15-有人升级-big-sur-后-vm-的-nat-网络不能用吗？](https://www.v2ex.com/t/725525) 

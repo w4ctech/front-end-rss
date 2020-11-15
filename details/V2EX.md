@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-15 05:33:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 05:47:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-远程运维工具](https://www.v2ex.com/t/725437) 
+- [2020-11-15-ios14-和-pados13-Safari-标签页不同步](https://www.v2ex.com/t/725436) 
+- [2020-11-15-技术求助：-Python-，-pywinauto](https://www.v2ex.com/t/725435) 
 - [2020-11-15-hacmini-升级到-big-bug-以后自带壁纸不正常了，只能用自定义的壁纸了，还有一些预览的-icon-都有问题，你们也一样吗](https://www.v2ex.com/t/725434) 
 - [2020-11-15-遇到一个奇怪的需求（不懂就问系列）](https://www.v2ex.com/t/725433) 
 - [2020-11-15-youtube-印度车，香港家庭组，今天开的差五人，年付，跳车不退，翻车退尾款](https://www.v2ex.com/t/725432) 

@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-15 13:19:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 13:32:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-不懂就问，各种开放平台的-API-都有一个-action-的参数，请问这个参数是用在网关做路由过滤的吗](https://www.v2ex.com/t/725539) 
+- [2020-11-15-iPhone-pro-max-这个发热太莫名其妙了。这算翻车么？](https://www.v2ex.com/t/725538) 
+- [2020-11-15-ITIL-方法论现在用的还多吗](https://www.v2ex.com/t/725537) 
+- [2020-11-15-怎样快速部署多台装有同样软件的-Linux-系统？](https://www.v2ex.com/t/725536) 
+- [2020-11-15-mbp-升级-big-sur-后，-airpods-pro-还是无法无缝切换](https://www.v2ex.com/t/725535) 
+- [2020-11-15-长期免费-DNS-解锁-Netflix-日区全内容](https://www.v2ex.com/t/725534) 
 - [2020-11-15-大家的-12-都绿了吗？系统版本是-14.2-吗？](https://www.v2ex.com/t/725533) 
 - [2020-11-15-Pear-Admin-Ant-0.3.4.beta-正式开源，欢迎大家-PR-与-建议](https://www.v2ex.com/t/725532) 
 - [2020-11-15-macOS-自带软件重新安装](https://www.v2ex.com/t/725531) 
@@ -39,9 +45,3 @@
 - [2020-11-15-说一下我对-Apple-Silicon-和-Mac-的看法，理性讨论](https://www.v2ex.com/t/725494) 
 - [2020-11-15-如何不恢复-aw-就可以连接到新手机？](https://www.v2ex.com/t/725492) 
 - [2020-11-15-手机-app-预约，每次都是非常抱歉。。。](https://www.v2ex.com/t/725491) 
-- [2020-11-15-如果-https-证书过期了，但继续访问，这个还安全吗](https://www.v2ex.com/t/725490) 
-- [2020-11-15-6-号线金桥路附近-500-米，-1700～-2000-出租两三间公寓](https://www.v2ex.com/t/725489) 
-- [2020-11-15-使用-vscode-调试-golang-代码的时候总是询问是使用-go-还是-dlv-调试器](https://www.v2ex.com/t/725487) 
-- [2020-11-15-升级-Big-Sur-后-Alfred-搜索不到子目录下的应用](https://www.v2ex.com/t/725486) 
-- [2020-11-15-iOS-14-原生输入法键盘偶尔不弹出](https://www.v2ex.com/t/725485) 
-- [2020-11-15-12-mini-的手感真的那么好？](https://www.v2ex.com/t/725484) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 02:48:03，:rocket: 更新条数: +3063， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 03:03:45，:rocket: 更新条数: +3061， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,10 +453,10 @@
 </summary>
 
 
+- [2020-11-14-jsliang-求职系列---14---手写源码大杂烩](https://juejin.im/post/6895179296055558151) ![](assets/new.png)  
 - [2020-11-14-精选高频-VS-Code插件，让你多陪陪npy！](https://juejin.im/post/6895011670301605896) ![](assets/new.png)  
 - [2020-11-14-手把手教你撸一个能生成抖音风格动图的gif制作平台](https://juejin.im/post/6895005349992988686) ![](assets/new.png)  
 - [2020-11-14-闪电五连鞭：Composition-API原理深度剖析](https://juejin.im/post/6894993303486332941) ![](assets/new.png)  
-- [2020-11-14-Redux、-React-Redux学习](https://juejin.im/post/6894990144495943694) ![](assets/new.png)  
 - [2020-11-14-LeetCode---1122.-数组的相对排序](https://juejin.im/post/6894978553549422599) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-15-小众达人圈](https://www.v2ex.com/t/725389) ![](assets/new.png)  
+- [2020-11-15-请问为何反感通过中介租房呢？](https://www.v2ex.com/t/725388) ![](assets/new.png)  
 - [2020-11-15-有没有什么-IT-主题-的娱乐视频-/-音频节目](https://www.v2ex.com/t/725384) ![](assets/new.png)  
 - [2020-11-15-哪个平台有发文章的-API](https://www.v2ex.com/t/725382) ![](assets/new.png)  
 - [2020-11-15-双十一颈椎康复指南--电动升降桌+显示器支架](https://www.v2ex.com/t/725380) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-15-大家是怎么管理两个（或多个）手机号的职责的？](https://www.v2ex.com/t/725363) ![](assets/new.png)  
 - [2020-11-15-阿里云主机流量被监控。](https://www.v2ex.com/t/725361) ![](assets/new.png)  
 - [2020-11-15-问一个增量数据同步的问题。](https://www.v2ex.com/t/725360) ![](assets/new.png)  
-- [2020-11-15-cpu-插槽弄进了硅脂-通不了电](https://www.v2ex.com/t/725358) ![](assets/new.png)  
-- [2020-11-15-群晖-DSM-开启外网访问（DDNS）有被黑的朋友吗](https://www.v2ex.com/t/725357) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-15-荣誉加身，手摸手教你成为优质开源项目的贡献者](https://toutiao.io/k/q9ek0j9) ![](assets/new.png)  
 - [2020-11-15-这些高阶的函数技术，你掌握了么](https://toutiao.io/k/qogwd7i) ![](assets/new.png)  
 - [2020-11-15-EntityFramework-Core-上下文实例池原理](https://toutiao.io/k/yef28b5) ![](assets/new.png)  
-- [2020-11-15-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-15-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-15-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-15-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-15-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [2020-11-15-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-15-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-15-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-15-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-15-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-15-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [2020-11-15-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
-- [2020-11-15-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-15-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-15-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-15-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

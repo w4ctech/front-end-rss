@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 12:34:52，:rocket: 更新条数: +3257， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 12:39:11，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -553,6 +553,26 @@
 </summary>
 
 
+- [2020-11-15-闲置-番禺欢聚时代大楼对面-健身卡转让](https://www.v2ex.com/t/725520) ![](assets/new.png)  
+- [2020-11-15-4K-显示器选择，请教下](https://www.v2ex.com/t/725519) ![](assets/new.png)  
+- [2020-11-15-Big-Sur-真香，-17mbp，丝滑般的动画，你值得拥有](https://www.v2ex.com/t/725518) ![](assets/new.png)  
+- [2020-11-15-迫于价格写错，-netflix-土区下车一位，-15-一个月](https://www.v2ex.com/t/725517) ![](assets/new.png)  
+- [2020-11-15-某宝的这种操作算违规还是擦边球](https://www.v2ex.com/t/725516) ![](assets/new.png)  
+- [2020-11-15-最近买了个-Yeelight-显示器挂灯，挺好用，但是背光跟广告宣传不符，有点小坑](https://www.v2ex.com/t/725515) ![](assets/new.png)  
+- [2020-11-15-如何阻止-iCloud-删除下载到-MacBook-本地的大文件？](https://www.v2ex.com/t/725514) ![](assets/new.png)  
+- [2020-11-15-大佬们，帮忙看看简历~](https://www.v2ex.com/t/725513) ![](assets/new.png)  
+- [2020-11-15-nestjs-如何优雅地给-response-设置-header？](https://www.v2ex.com/t/725512) ![](assets/new.png)  
+- [2020-11-15-Visual-Studio-2019-webbrowser-沒有運作???](https://www.v2ex.com/t/725510) ![](assets/new.png)  
+- [2020-11-15-MacBook-Pro-13-2020-睡眠唤醒绿屏](https://www.v2ex.com/t/725509) ![](assets/new.png)  
+- [2020-11-15-brew-安装-OpenJDK-应该用-Formulae-里的还是-Casks-里面的？](https://www.v2ex.com/t/725508) ![](assets/new.png)  
+- [2020-11-15-请问晚上躺床上玩手机床头柜上需要整个护眼一点的灯有啥推荐？](https://www.v2ex.com/t/725507) ![](assets/new.png)  
+- [2020-11-15-如果使用-Markdown-模式发帖，那么需要点两次创建按钮，第一次将会使预览内容消失，第二次将会创建帖子](https://www.v2ex.com/t/725506) ![](assets/new.png)  
+- [2020-11-15-现在有什么立式无线充钱器是-12-Pro-Max-能用的吗？](https://www.v2ex.com/t/725505) ![](assets/new.png)  
+- [2020-11-15-赣南脐橙-预售-自家果园直销](https://www.v2ex.com/t/725504) ![](assets/new.png)  
+- [2020-11-15-V-友相约赣南脐橙第一年](https://www.v2ex.com/t/725502) ![](assets/new.png)  
+- [2020-11-15-被遗忘的上海土著](https://www.v2ex.com/t/725501) ![](assets/new.png)  
+- [2020-11-15-有需要黑苹果主机和显示器的不?](https://www.v2ex.com/t/725500) ![](assets/new.png)  
+- [2020-11-15-django-ORM-使用-sql-函数怎么写表达式？](https://www.v2ex.com/t/725499) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

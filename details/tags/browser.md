@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-15 12:34:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 12:39:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,6 +31,8 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-15-如果-https-证书过期了，但继续访问，这个还安全吗](https://www.v2ex.com/t/725490) 
+- [2020-11-15-使用-vscode-调试-golang-代码的时候总是询问是使用-go-还是-dlv-调试器](https://www.v2ex.com/t/725487) 
 - [2020-11-15-Linux-后台开发常用调试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-15-安全分析-|-两个VMware-Workstation中的TOCTOU漏洞](https://sec.thief.one/article_content?a_id=7cac6a740950a68923d08f3bf1242a32) 
 - [2020-11-15-​在招-|-锅圈食汇40K/月诚招安全贤才,小岳岳等你来](https://sec.thief.one/article_content?a_id=55ea083ec2e31b0a6554b7b7134a66ee) 

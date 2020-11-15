@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-15 04:04:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 04:13:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-mojave-用户如何升级到-catalina](https://www.v2ex.com/t/725412) 
 - [2020-11-15-iPhone-12-mini-第一天，打客服电话](https://www.v2ex.com/t/725409) 
 - [2020-11-15-Windows-的-smartscreen-到底发送了哪些信息给-ms?](https://www.v2ex.com/t/725405) 
 - [2020-11-15-在-B-站开启了我的-UP-主之路，这种源代码分析的视频会受到欢迎吗？](https://www.v2ex.com/t/725404) 
@@ -34,4 +35,3 @@
 - [2020-11-15-升级-Big-Sur-后-Jitouch-完全用不了,如何解决](https://www.v2ex.com/t/725365) 
 - [2020-11-15-12-mini-的放大模式，截图分辨率多少？](https://www.v2ex.com/t/725364) 
 - [2020-11-15-大家是怎么管理两个（或多个）手机号的职责的？](https://www.v2ex.com/t/725363) 
-- [2020-11-15-阿里云主机流量被监控。](https://www.v2ex.com/t/725361) 

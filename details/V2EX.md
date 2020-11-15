@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-15 04:13:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 04:24:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-怎么买原版书划算呢？想买本《kubeneters-in-action》，主要是-kindle-看了一下中文版样张排版太烂了，亚马逊看了一下国外运过来运费比书本还贵](https://www.v2ex.com/t/725417) 
+- [2020-11-15-请问如何抹盘升级到-macOS-Big-Sur？](https://www.v2ex.com/t/725416) 
+- [2020-11-15-招远程-golang-一名。！](https://www.v2ex.com/t/725415) 
+- [2020-11-15-带语法检查的-sql-gui-有哪些？](https://www.v2ex.com/t/725414) 
+- [2020-11-15-杭州浙二医院排号问题](https://www.v2ex.com/t/725413) 
 - [2020-11-15-mojave-用户如何升级到-catalina](https://www.v2ex.com/t/725412) 
 - [2020-11-15-iPhone-12-mini-第一天，打客服电话](https://www.v2ex.com/t/725409) 
 - [2020-11-15-Windows-的-smartscreen-到底发送了哪些信息给-ms?](https://www.v2ex.com/t/725405) 
@@ -31,7 +36,3 @@
 - [2020-11-15-请教下-GooglePlayStore“设备未认证”如何解决](https://www.v2ex.com/t/725370) 
 - [2020-11-15-苹果用-http-OCSP-协议校验每个程序的-HASH-这个没得洗](https://www.v2ex.com/t/725369) 
 - [2020-11-15-V-友们求推荐一款笔记本电脑，「需求明确」「预算明确」](https://www.v2ex.com/t/725368) 
-- [2020-11-15-看书的时候总是转头就忘](https://www.v2ex.com/t/725367) 
-- [2020-11-15-升级-Big-Sur-后-Jitouch-完全用不了,如何解决](https://www.v2ex.com/t/725365) 
-- [2020-11-15-12-mini-的放大模式，截图分辨率多少？](https://www.v2ex.com/t/725364) 
-- [2020-11-15-大家是怎么管理两个（或多个）手机号的职责的？](https://www.v2ex.com/t/725363) 

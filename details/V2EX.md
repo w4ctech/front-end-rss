@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-15 00:29:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 00:55:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-群晖-DSM-开启外网访问（DDNS）有被黑的朋友吗](https://www.v2ex.com/t/725357) 
+- [2020-11-15-vuejs-开发分布式-app，-powered-by-lealone](https://www.v2ex.com/t/725356) 
+- [2020-11-15-领导非要让我带他打-DOTA-但他实在太菜了怎么办啊啊啊啊](https://www.v2ex.com/t/725355) 
 - [2020-11-15-Swrite-互链文档蛮有意思的](https://www.v2ex.com/t/725354) 
 - [2020-11-15-无缝切换-AirPods-是不是有毒？我觉得-iPhone-老是在抢耳机（和-mac、watch-相比）](https://www.v2ex.com/t/725353) 
 - [2020-11-15-有没有手机上网页取词翻译的-app](https://www.v2ex.com/t/725352) 
@@ -46,6 +49,3 @@
 - [2020-11-14-密码学原理在区块链和其他场景的应用](https://www.v2ex.com/t/725310) 
 - [2020-11-14-每次看自己以前写的博客都有种-XX-的感觉?](https://www.v2ex.com/t/725309) 
 - [2020-11-14-记一次性能调优-|-极客分享第-4-期](https://www.v2ex.com/t/725308) 
-- [2020-11-14-我不适合上班](https://www.v2ex.com/t/725307) 
-- [2020-11-14-10-月离职工资怎么算？有没有懂的-v-友？](https://www.v2ex.com/t/725306) 
-- [2020-11-14-有遇到-Apple-Watch-徽章不生成了的吗？](https://www.v2ex.com/t/725305) 

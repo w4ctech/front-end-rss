@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 06:33:17，:rocket: 更新条数: +3023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 06:35:46，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-15-iPhone12-换了高通基带以后的信号有改善吗？](https://www.v2ex.com/t/725452) ![](assets/new.png)  
+- [2020-11-15-有没有办法将安卓百度手机输入法默认的五笔词库导出来？](https://www.v2ex.com/t/725451) ![](assets/new.png)  
+- [2020-11-15-心心念还是忍不住入了-iPhone8P](https://www.v2ex.com/t/725450) ![](assets/new.png)  
+- [2020-11-15-请教关于转发-telegram-消息至邮箱的问题](https://www.v2ex.com/t/725449) ![](assets/new.png)  
+- [2020-11-15-龙华清湖-泊寓单间-868-元-转租-可短租-合同还有-3-个月](https://www.v2ex.com/t/725448) ![](assets/new.png)  
+- [2020-11-15-如何能买到正品苹果-3.5-口耳机？](https://www.v2ex.com/t/725446) ![](assets/new.png)  
+- [2020-11-15-Safari-里的文稿与数据清理不掉，占用大量空间,-有人知道怎么解决吗](https://www.v2ex.com/t/725445) ![](assets/new.png)  
+- [2020-11-15-京东自营的售后怎么投诉？](https://www.v2ex.com/t/725444) ![](assets/new.png)  
+- [2020-11-15-有一点社交焦虑，平时不善于和异性交流，但是我发现现在不和异性交流，我就没有干活的动力了。](https://www.v2ex.com/t/725443) ![](assets/new.png)  
+- [2020-11-15-有没有靠谱的局域网内-Windows-设备管理软件系统推荐？](https://www.v2ex.com/t/725442) ![](assets/new.png)  
+- [2020-11-15-Java-Socket-文件传输问题，输入流读取文件阻塞怎么解决？](https://www.v2ex.com/t/725441) ![](assets/new.png)  
+- [2020-11-15-有没有老哥找过私活的，如何确保对方的产品合格呢？](https://www.v2ex.com/t/725440) ![](assets/new.png)  
+- [2020-11-15-MySQLdb,写入表时，出现的-1265,-"Data-truncated-for-column"告警，如何精准捕捉原数据内容？](https://www.v2ex.com/t/725439) ![](assets/new.png)  
+- [2020-11-15-用户挺可爱的逆反心理](https://www.v2ex.com/t/725438) ![](assets/new.png)  
+- [2020-11-15-远程运维工具](https://www.v2ex.com/t/725437) ![](assets/new.png)  
+- [2020-11-15-ios14-和-pados13-Safari-标签页不同步](https://www.v2ex.com/t/725436) ![](assets/new.png)  
+- [2020-11-15-技术求助：-Python-，-pywinauto](https://www.v2ex.com/t/725435) ![](assets/new.png)  
+- [2020-11-15-hacmini-升级到-big-bug-以后自带壁纸不正常了，只能用自定义的壁纸了，还有一些预览的-icon-都有问题，你们也一样吗](https://www.v2ex.com/t/725434) ![](assets/new.png)  
+- [2020-11-15-遇到一个奇怪的需求（不懂就问系列）](https://www.v2ex.com/t/725433) ![](assets/new.png)  
+- [2020-11-15-youtube-印度车，香港家庭组，今天开的差五人，年付，跳车不退，翻车退尾款](https://www.v2ex.com/t/725432) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

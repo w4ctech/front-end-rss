@@ -14618,7 +14618,17 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "[深圳腾讯] —— 在线教育- 招聘前端开发 [在线教育]",
+        "title": "双十一买了一个 Windows hello (WBF)指纹读取设备, 感觉不对劲?",
+        "link": "https://www.v2ex.com/t/725571",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "深夜发个前端 @深圳微信群，有效期仅 7 天。猎头勿加！",
+        "link": "https://www.v2ex.com/t/725570",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[深圳腾讯] —— 招聘前端开发 - 大量 HC - 在线教育",
         "link": "https://www.v2ex.com/t/725568",
         "date": "2020-11-15"
       },
@@ -14811,16 +14821,6 @@
         "title": "自己开车，公司在滨江区江陵路附近，车程 20 分钟左右可以接受，不需要地铁，请问哪里租个有独立卫生间的房子哪里比较合适？不想租自如这些房子，装修稍微干净整...",
         "link": "https://www.v2ex.com/t/725522",
         "date": "2020-11-15"
-      },
-      {
-        "title": "[闲置] 健身课转让 番禺欢聚时代大楼对面",
-        "link": "https://www.v2ex.com/t/725520",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "4K 显示器选择，请教下",
-        "link": "https://www.v2ex.com/t/725519",
-        "date": "2020-11-15"
       }
     ]
   },
@@ -14987,18 +14987,33 @@
         "date": "2020-11-15"
       },
       {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
+        "link": "https://toutiao.io/k/s3pgs9r",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-15"
+      },
+      {
         "title": "[推荐] 52 图初探 Linux 通用知识",
         "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-15"
       },
       {
@@ -15012,33 +15027,13 @@
         "date": "2020-11-15"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-15"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-15"
       },
       {
@@ -15047,18 +15042,23 @@
         "date": "2020-11-15"
       },
       {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-15"
-      },
-      {
         "title": "[推荐] 分布式一致性协议：ZAB",
         "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-15"
       }
     ]

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-15 01:10:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 01:29:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-问一个增量数据同步的问题。](https://www.v2ex.com/t/725360) 
 - [2020-11-15-cpu-插槽弄进了硅脂-通不了电](https://www.v2ex.com/t/725358) 
 - [2020-11-15-群晖-DSM-开启外网访问（DDNS）有被黑的朋友吗](https://www.v2ex.com/t/725357) 
 - [2020-11-15-vuejs-开发分布式-app，-powered-by-lealone](https://www.v2ex.com/t/725356) 
@@ -28,7 +29,6 @@
 - [2020-11-14-茶杯](https://www.v2ex.com/t/725338) 
 - [2020-11-14-带光驱和无光驱的都拿到了](https://www.v2ex.com/t/725337) 
 - [2020-11-14-独立授权版的-1password-如何从-6-升级到-7](https://www.v2ex.com/t/725336) 
-- [2020-11-14-五个半小时前发的帖子，发现在个人主题列表中显示两天前，分类中也看不到](https://www.v2ex.com/t/725335) 
 - [2020-11-14-目前的-api-网关有没有可以按照地区或者城市分配流量的方案](https://www.v2ex.com/t/725333) 
 - [2020-11-14-大家的-macos-big-sur-系统看视频卡吗？](https://www.v2ex.com/t/725331) 
 - [2020-11-14-Big-Sur-系统还会有之前-Catalina-的-Thunderbolt-接口导致重启的问题么？](https://www.v2ex.com/t/725330) 
@@ -47,4 +47,3 @@
 - [2020-11-14-税务代开发票（个人劳务所得）是先预扣-20%-之后，年度汇算的时候再返还呢？](https://www.v2ex.com/t/725315) 
 - [2020-11-14-Consul-GRPC-健康检查失败问题](https://www.v2ex.com/t/725314) 
 - [2020-11-14-照片备份的解决办法？](https://www.v2ex.com/t/725311) 
-- [2020-11-14-密码学原理在区块链和其他场景的应用](https://www.v2ex.com/t/725310) 

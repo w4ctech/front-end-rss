@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-15 03:22:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 03:33:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-11-14-ajax之详解XMLHttpRequest](https://juejin.im/post/6895032996315791368) 
+- [2020-11-15-如何实现识别-tcp-中的包含-http-的包-期望使用-iptables](https://www.v2ex.com/t/725399) 
 - [2020-11-15-分享一篇苹果用-http-OSCP-协议校验每个程序的-HASH-的洗文，洗的有理有据](https://www.v2ex.com/t/725394) 
 - [2020-11-15-苹果用-http-OCSP-协议校验每个程序的-HASH-这个没得洗](https://www.v2ex.com/t/725369) 
-- [2020-11-14-求个二维空间投射到一维空间的算法](https://www.v2ex.com/t/725347) 

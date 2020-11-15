@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-15 04:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 05:03:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-api-设计时，使用"用户-id（unique）"还是用主键_id-作为查询参数？](https://www.v2ex.com/t/725429) 
+- [2020-11-15-求救-升级了-big-sur-之后/data-目录被删了](https://www.v2ex.com/t/725428) 
+- [2020-11-15-macOS-无法修改开机密码的问题](https://www.v2ex.com/t/725427) 
+- [2020-11-15-offer-选择应届生的第一份工作，选择大厂还是小而美？](https://www.v2ex.com/t/725426) 
+- [2020-11-15-Mac-的-M1-啥时候会出来测评？](https://www.v2ex.com/t/725425) 
+- [2020-11-15-求优化可能](https://www.v2ex.com/t/725424) 
 - [2020-11-15-big-sur-上-QQ-截图不能用，直接崩溃](https://www.v2ex.com/t/725423) 
 - [2020-11-15-onedrive-世纪互联-在-mac-下的使用体验极差](https://www.v2ex.com/t/725422) 
 - [2020-11-15-升级到-big-sur-后，-smb-的-Time-Machine-不能用了吗](https://www.v2ex.com/t/725421) 
@@ -33,7 +39,3 @@
 - [2020-11-15-有没有什么-IT-主题-的娱乐视频-/-音频节目](https://www.v2ex.com/t/725384) 
 - [2020-11-15-哪个平台有发文章的-API](https://www.v2ex.com/t/725382) 
 - [2020-11-15-双十一颈椎康复指南--电动升降桌+显示器支架](https://www.v2ex.com/t/725380) 
-- [2020-11-15-又是一年大版本更新，-iPhone-上拦截的垃圾信息依旧会在-macOS-上提示一遍](https://www.v2ex.com/t/725379) 
-- [2020-11-15-感觉这个字体挺好看的，怎样才能知道是什么字体呢？](https://www.v2ex.com/t/725378) 
-- [2020-11-15-苹果商店-APP-侵权投诉/防恶意投诉](https://www.v2ex.com/t/725376) 
-- [2020-11-15-连续三天凌晨-6-点起来预约购买-iPhone-12-pro-max](https://www.v2ex.com/t/725374) 

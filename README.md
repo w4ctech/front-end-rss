@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 11:19:25，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 11:33:18，:rocket: 更新条数: +3052， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,10 +36,10 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -320,16 +320,6 @@
 </summary>
 
 
-- [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) ![](assets/new.png)  
-- [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) ![](assets/new.png)  
-- [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) ![](assets/new.png)  
-- [2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) ![](assets/new.png)  
-- [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) ![](assets/new.png)  
-- [2020-10-19-如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/) ![](assets/new.png)  
-- [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) ![](assets/new.png)  
-- [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) ![](assets/new.png)  
-- [2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/) ![](assets/new.png)  
-- [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,26 +366,6 @@
 </summary>
 
 
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +523,11 @@
 </summary>
 
 
+- [2020-11-15-大佬们，帮忙看看简历~](https://www.v2ex.com/t/725513) ![](assets/new.png)  
+- [2020-11-15-nestjs-如何优雅地给-response-设置-header？](https://www.v2ex.com/t/725512) ![](assets/new.png)  
+- [2020-11-15-YouTube-Premium-印度车，上车的联系我，-W:-a29iZXM1MjE=](https://www.v2ex.com/t/725511) ![](assets/new.png)  
+- [2020-11-15-Visual-Studio-2019-webbrowser-沒有運作???](https://www.v2ex.com/t/725510) ![](assets/new.png)  
+- [2020-11-15-MacBook-Pro-13-2020-睡眠唤醒绿屏](https://www.v2ex.com/t/725509) ![](assets/new.png)  
 - [2020-11-15-brew-安装-OpenJDK-应该用-Formulae-里的还是-Casks-里面的？](https://www.v2ex.com/t/725508) ![](assets/new.png)  
 - [2020-11-15-请问晚上躺床上玩手机床头柜上需要整个护眼一点的灯有啥推荐？](https://www.v2ex.com/t/725507) ![](assets/new.png)  
 - [2020-11-15-如果使用-Markdown-模式发帖，那么需要点两次创建按钮，第一次将会使预览内容消失，第二次将会创建帖子](https://www.v2ex.com/t/725506) ![](assets/new.png)  
@@ -568,11 +543,6 @@
 - [2020-11-15-如果-https-证书过期了，但继续访问，这个还安全吗](https://www.v2ex.com/t/725490) ![](assets/new.png)  
 - [2020-11-15-6-号线金桥路附近-500-米，-1700～-2000-出租两三间公寓](https://www.v2ex.com/t/725489) ![](assets/new.png)  
 - [2020-11-15-使用-vscode-调试-golang-代码的时候总是询问是使用-go-还是-dlv-调试器](https://www.v2ex.com/t/725487) ![](assets/new.png)  
-- [2020-11-15-升级-Big-Sur-后-Alfred-搜索不到子目录下的应用](https://www.v2ex.com/t/725486) ![](assets/new.png)  
-- [2020-11-15-iOS-14-原生输入法键盘偶尔不弹出](https://www.v2ex.com/t/725485) ![](assets/new.png)  
-- [2020-11-15-12-mini-的手感真的那么好？](https://www.v2ex.com/t/725484) ![](assets/new.png)  
-- [2020-11-15-如何解决-mac-os-的-ocsp-的问题？](https://www.v2ex.com/t/725483) ![](assets/new.png)  
-- [2020-11-15-字节跳动北京/上海/新加坡-后端研发、运维研发工程师-社招&校招&实习](https://www.v2ex.com/t/725482) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,16 +595,16 @@
 - [2020-11-15-荣誉加身，手摸手教你成为优质开源项目的贡献者](https://toutiao.io/k/q9ek0j9) ![](assets/new.png)  
 - [2020-11-15-EntityFramework-Core-上下文实例池原理](https://toutiao.io/k/yef28b5) ![](assets/new.png)  
 - [2020-11-15-今天搬砖不狠，明天地位不稳！](https://toutiao.io/k/iuxq2xo) ![](assets/new.png)  
-- [2020-11-15-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-15-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
 - [2020-11-15-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
-- [2020-11-15-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-15-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-15-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-15-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-15-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
 - [2020-11-15-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-15-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
-- [2020-11-15-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-15-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
 - [2020-11-15-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-15-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-15-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-15-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

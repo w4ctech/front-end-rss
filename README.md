@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 14:21:06，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 14:33:14，:rocket: 更新条数: +3023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,26 +533,6 @@
 </summary>
 
 
-- [2020-11-15-jenkins-无法安装插件](https://www.v2ex.com/t/725549) ![](assets/new.png)  
-- [2020-11-15-造了个小工具-终端可视化交互的方式去管理-k8s.](https://www.v2ex.com/t/725548) ![](assets/new.png)  
-- [2020-11-15-滚动截屏-除了-FSCapture-还有什么软件？-请教下](https://www.v2ex.com/t/725547) ![](assets/new.png)  
-- [2020-11-15-B-站-PC-端首页的动态-Banner-挺有意思的。](https://www.v2ex.com/t/725546) ![](assets/new.png)  
-- [2020-11-15-12mini-已经破发-700-了，-5999-直营店买了-3-台，现在渠道-5300-了，男默女泪](https://www.v2ex.com/t/725545) ![](assets/new.png)  
-- [2020-11-15-Java-新手关于-Java-中-Object-类的-Clone-方法](https://www.v2ex.com/t/725544) ![](assets/new.png)  
-- [2020-11-15-Pear-Admin-Ant-正式开源，欢迎大家-PR-与-建议](https://www.v2ex.com/t/725543) ![](assets/new.png)  
-- [2020-11-15-老是被莫名其妙的举报，然就就给我封号了。](https://www.v2ex.com/t/725542) ![](assets/new.png)  
-- [2020-11-15-通过-charles-抓淘宝-app-抓包抓不到数据！](https://www.v2ex.com/t/725541) ![](assets/new.png)  
-- [2020-11-15-不懂就问，各种开放平台的-API-都有一个-action-的参数，请问这个参数是用在网关做路由过滤的吗](https://www.v2ex.com/t/725539) ![](assets/new.png)  
-- [2020-11-15-iPhone-pro-max-这个发热太莫名其妙了。这算翻车么？](https://www.v2ex.com/t/725538) ![](assets/new.png)  
-- [2020-11-15-ITIL-方法论现在用的还多吗](https://www.v2ex.com/t/725537) ![](assets/new.png)  
-- [2020-11-15-怎样快速部署多台装有同样软件的-Linux-系统？](https://www.v2ex.com/t/725536) ![](assets/new.png)  
-- [2020-11-15-mbp-升级-big-sur-后，-airpods-pro-还是无法无缝切换](https://www.v2ex.com/t/725535) ![](assets/new.png)  
-- [2020-11-15-长期免费-DNS-解锁-Netflix-日区全内容](https://www.v2ex.com/t/725534) ![](assets/new.png)  
-- [2020-11-15-大家的-12-都绿了吗？系统版本是-14.2-吗？](https://www.v2ex.com/t/725533) ![](assets/new.png)  
-- [2020-11-15-Pear-Admin-Ant-0.3.4.beta-正式开源，欢迎大家-PR-与-建议](https://www.v2ex.com/t/725532) ![](assets/new.png)  
-- [2020-11-15-macOS-自带软件重新安装](https://www.v2ex.com/t/725531) ![](assets/new.png)  
-- [2020-11-15-想知道现在还有多少人用-print-调试-debug？](https://www.v2ex.com/t/725529) ![](assets/new.png)  
-- [2020-11-15-更新完-macOS-Big-Sur-非常不适应](https://www.v2ex.com/t/725528) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +585,16 @@
 - [2020-11-15-荣誉加身，手摸手教你成为优质开源项目的贡献者](https://toutiao.io/k/q9ek0j9) ![](assets/new.png)  
 - [2020-11-15-EntityFramework-Core-上下文实例池原理](https://toutiao.io/k/yef28b5) ![](assets/new.png)  
 - [2020-11-15-今天搬砖不狠，明天地位不稳！](https://toutiao.io/k/iuxq2xo) ![](assets/new.png)  
-- [2020-11-15-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-15-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-15-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-15-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-15-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-15-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-15-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-15-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-15-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
 - [2020-11-15-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-15-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-15-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-15-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-15-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-15-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-15-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-15-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-15-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

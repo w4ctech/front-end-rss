@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-15 01:04:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 01:10:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -396,7 +396,6 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】记一次性能调优-|-极客分享第-4-期](https://www.v2ex.com/t/725308)
 - [【技术头条】Android网络性能监控方案-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13921&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778070%3Futm_content%3Dg_1000203100%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】T级内存，创建效率提升10倍以上，阿里云-KVM异构虚拟机启动时间优化实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13918&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777709%3Futm_content%3Dg_1000203098%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -518,6 +517,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
 - [【安全热点】【美团招聘】冬季专场Vol.1~这13个岗位热招中!](https://sec.thief.one/article_content?a_id=0c94c23144faca42b66f855299c0988d)
 - [【安全热点】招聘-|-上海埃帕信息科技有限公司](https://sec.thief.one/article_content?a_id=b64567b976b9fa210b3a50d12fc1ca55)
 - [【安全热点】感谢“您”面试我,却狠拒绝了“我”](https://sec.thief.one/article_content?a_id=28d77d39c4ed270dab1b724a478b4f72)
@@ -587,7 +587,7 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】11月13日全国新增确诊病例18例-均为境外输入病例](https://m.caixin.com/m/2020-11-14/101627783.html)
+- [【武汉肺炎防疫全纪录(财新网)】11月14日全国新增境外输入新冠13例-累计确诊86338例](https://m.caixin.com/m/2020-11-15/101628271.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增18例境外输入病例（11月13日）](http://m.database.caixin.com/m/2020-11-14/101627999.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|11月13日：英日增病例创新高-日本研究称新冠变异后传染性增强](https://m.caixin.com/m/2020-11-14/101627841.html)
 - [【武汉肺炎防疫全纪录(财新网)】新冠病毒毒性未减-张文宏详解病死率下降缘由](http://m.topics.caixin.com/m/2020-11-13/101627435.html)

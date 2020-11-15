@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-15 01:04:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 01:10:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-cpu-插槽弄进了硅脂-通不了电](https://www.v2ex.com/t/725358) 
 - [2020-11-15-群晖-DSM-开启外网访问（DDNS）有被黑的朋友吗](https://www.v2ex.com/t/725357) 
 - [2020-11-15-vuejs-开发分布式-app，-powered-by-lealone](https://www.v2ex.com/t/725356) 
 - [2020-11-15-领导非要让我带他打-DOTA-但他实在太菜了怎么办啊啊啊啊](https://www.v2ex.com/t/725355) 
@@ -47,5 +48,3 @@
 - [2020-11-14-Consul-GRPC-健康检查失败问题](https://www.v2ex.com/t/725314) 
 - [2020-11-14-照片备份的解决办法？](https://www.v2ex.com/t/725311) 
 - [2020-11-14-密码学原理在区块链和其他场景的应用](https://www.v2ex.com/t/725310) 
-- [2020-11-14-每次看自己以前写的博客都有种-XX-的感觉?](https://www.v2ex.com/t/725309) 
-- [2020-11-14-记一次性能调优-|-极客分享第-4-期](https://www.v2ex.com/t/725308) 

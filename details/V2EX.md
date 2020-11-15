@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-15 13:48:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 14:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-造了个小工具-终端可视化交互的方式去管理-k8s.](https://www.v2ex.com/t/725548) 
+- [2020-11-15-滚动截屏-除了-FSCapture-还有什么软件？-请教下](https://www.v2ex.com/t/725547) 
+- [2020-11-15-B-站-PC-端首页的动态-Banner-挺有意思的。](https://www.v2ex.com/t/725546) 
 - [2020-11-15-12mini-已经破发-700-了，-5999-直营店买了-3-台，现在渠道-5300-了，男默女泪](https://www.v2ex.com/t/725545) 
 - [2020-11-15-Java-新手关于-Java-中-Object-类的-Clone-方法](https://www.v2ex.com/t/725544) 
 - [2020-11-15-Pear-Admin-Ant-正式开源，欢迎大家-PR-与-建议](https://www.v2ex.com/t/725543) 
@@ -46,4 +49,3 @@
 - [2020-11-15-被遗忘的上海土著](https://www.v2ex.com/t/725501) 
 - [2020-11-15-有需要黑苹果主机和显示器的不?](https://www.v2ex.com/t/725500) 
 - [2020-11-15-django-ORM-使用-sql-函数怎么写表达式？](https://www.v2ex.com/t/725499) 
-- [2020-11-15-手机-app-预约-12pro-每次都是错误，非常抱歉](https://www.v2ex.com/t/725496) 

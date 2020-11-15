@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-15 04:33:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 04:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-big-sur-上-QQ-截图不能用，直接崩溃](https://www.v2ex.com/t/725423) 
+- [2020-11-15-onedrive-世纪互联-在-mac-下的使用体验极差](https://www.v2ex.com/t/725422) 
 - [2020-11-15-升级到-big-sur-后，-smb-的-Time-Machine-不能用了吗](https://www.v2ex.com/t/725421) 
 - [2020-11-15-50-能收个京东-plus-吗？](https://www.v2ex.com/t/725420) 
 - [2020-11-15-TimeMachine-硬盘求推荐，-15-款-mbp，折腾了一天](https://www.v2ex.com/t/725419) 
@@ -35,4 +37,3 @@
 - [2020-11-15-感觉这个字体挺好看的，怎样才能知道是什么字体呢？](https://www.v2ex.com/t/725378) 
 - [2020-11-15-苹果商店-APP-侵权投诉/防恶意投诉](https://www.v2ex.com/t/725376) 
 - [2020-11-15-连续三天凌晨-6-点起来预约购买-iPhone-12-pro-max](https://www.v2ex.com/t/725374) 
-- [2020-11-15-按照-Torvalds-的观点，-ARM-架构会在服务器领域火一把？](https://www.v2ex.com/t/725372) 

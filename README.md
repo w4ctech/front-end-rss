@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 04:33:12，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 04:48:13，:rocket: 更新条数: +3288， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-15-big-sur-上-QQ-截图不能用，直接崩溃](https://www.v2ex.com/t/725423) ![](assets/new.png)  
+- [2020-11-15-onedrive-世纪互联-在-mac-下的使用体验极差](https://www.v2ex.com/t/725422) ![](assets/new.png)  
 - [2020-11-15-升级到-big-sur-后，-smb-的-Time-Machine-不能用了吗](https://www.v2ex.com/t/725421) ![](assets/new.png)  
 - [2020-11-15-50-能收个京东-plus-吗？](https://www.v2ex.com/t/725420) ![](assets/new.png)  
 - [2020-11-15-TimeMachine-硬盘求推荐，-15-款-mbp，折腾了一天](https://www.v2ex.com/t/725419) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-15-群辉的-Synology-Drive-Client-用不了，谨慎升级](https://www.v2ex.com/t/725401) ![](assets/new.png)  
 - [2020-11-15-如何实现识别-tcp-中的包含-http-的包-期望使用-iptables](https://www.v2ex.com/t/725399) ![](assets/new.png)  
 - [2020-11-15-最近打开某些网站特别慢，搞不懂？](https://www.v2ex.com/t/725398) ![](assets/new.png)  
-- [2020-11-15-分享一篇苹果用-http-OSCP-协议校验每个程序的-HASH-的洗文，洗的有理有据](https://www.v2ex.com/t/725394) ![](assets/new.png)  
-- [2020-11-15-旧-iPhone-上的-app-如何迁移到新-iPhone-上](https://www.v2ex.com/t/725393) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -617,24 +617,24 @@
 
 - [2020-11-15-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
 - [2020-11-15-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-15-今天搬砖不狠，明天地位不稳！](https://toutiao.io/k/iuxq2xo) ![](assets/new.png)  
 - [2020-11-15-关于-CPU-你需要了解的（二）](https://toutiao.io/k/sa3tc4h) ![](assets/new.png)  
-- [2020-11-15-微服务架构谈（八）：拆分单体应用的难点](https://toutiao.io/k/o95klb4) ![](assets/new.png)  
+- [2020-11-15-今天搬砖不狠，明天地位不稳！](https://toutiao.io/k/iuxq2xo) ![](assets/new.png)  
 - [2020-11-15-译-也许是最客观、全面的比较-Rust-与-Go：都想把-Rust-也学一下](https://toutiao.io/k/w9rm4yw) ![](assets/new.png)  
+- [2020-11-15-微服务架构谈（八）：拆分单体应用的难点](https://toutiao.io/k/o95klb4) ![](assets/new.png)  
 - [2020-11-15-这些高阶的函数技术，你掌握了么](https://toutiao.io/k/qogwd7i) ![](assets/new.png)  
 - [2020-11-15-前端工程实践之数据埋点分析系统](https://toutiao.io/k/crnvcxr) ![](assets/new.png)  
 - [2020-11-15-荣誉加身，手摸手教你成为优质开源项目的贡献者](https://toutiao.io/k/q9ek0j9) ![](assets/new.png)  
 - [2020-11-15-EntityFramework-Core-上下文实例池原理](https://toutiao.io/k/yef28b5) ![](assets/new.png)  
-- [2020-11-15-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-15-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-15-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
-- [2020-11-15-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-15-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-15-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-15-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-15-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
 - [2020-11-15-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-15-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-15-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-15-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-15-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-15-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-15-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-15-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

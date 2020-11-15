@@ -15784,6 +15784,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "big sur 上 QQ 截图不能用，直接崩溃",
+        "link": "https://www.v2ex.com/t/725423",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "onedrive 世纪互联 在 mac 下的使用体验极差",
+        "link": "https://www.v2ex.com/t/725422",
+        "date": "2020-11-15"
+      },
+      {
         "title": "升级到 big sur 后， smb 的 Time Machine 不能用了吗",
         "link": "https://www.v2ex.com/t/725421",
         "date": "2020-11-15"
@@ -15932,11 +15942,6 @@
         "title": "连续三天凌晨 6 点起来预约购买 iPhone 12 pro max",
         "link": "https://www.v2ex.com/t/725374",
         "date": "2020-11-15"
-      },
-      {
-        "title": "按照 Torvalds 的观点， ARM 架构会在服务器领域火一把？",
-        "link": "https://www.v2ex.com/t/725372",
-        "date": "2020-11-15"
       }
     ]
   },
@@ -16063,23 +16068,23 @@
         "date": "2020-11-15"
       },
       {
-        "title": "今天搬砖不狠，明天地位不稳！",
-        "link": "https://toutiao.io/k/iuxq2xo",
-        "date": "2020-11-15"
-      },
-      {
         "title": "关于 CPU 你需要了解的（二）",
         "link": "https://toutiao.io/k/sa3tc4h",
         "date": "2020-11-15"
       },
       {
-        "title": "微服务架构谈（八）：拆分单体应用的难点",
-        "link": "https://toutiao.io/k/o95klb4",
+        "title": "今天搬砖不狠，明天地位不稳！",
+        "link": "https://toutiao.io/k/iuxq2xo",
         "date": "2020-11-15"
       },
       {
         "title": "[译] 也许是最客观、全面的比较 Rust 与 Go：都想把 Rust 也学一下",
         "link": "https://toutiao.io/k/w9rm4yw",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "微服务架构谈（八）：拆分单体应用的难点",
+        "link": "https://toutiao.io/k/o95klb4",
         "date": "2020-11-15"
       },
       {
@@ -16103,43 +16108,8 @@
         "date": "2020-11-15"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-15"
       },
       {
@@ -16148,18 +16118,33 @@
         "date": "2020-11-15"
       },
       {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-15"
+      },
+      {
         "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
         "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-15"
       },
       {
-        "title": "[推荐] 爱了！一个现代化的 Git CLI 客户端，一堆命令不用记了",
-        "link": "https://toutiao.io/k/s3pgs9r",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-15"
       },
       {
@@ -16168,13 +16153,33 @@
         "date": "2020-11-15"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-15"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-15"
       }
     ]

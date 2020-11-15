@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 05:19:56，:rocket: 更新条数: +3055， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 05:33:13，:rocket: 更新条数: +3057， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-15-hacmini-升级到-big-bug-以后自带壁纸不正常了，只能用自定义的壁纸了，还有一些预览的-icon-都有问题，你们也一样吗](https://www.v2ex.com/t/725434) ![](assets/new.png)  
+- [2020-11-15-遇到一个奇怪的需求（不懂就问系列）](https://www.v2ex.com/t/725433) ![](assets/new.png)  
+- [2020-11-15-youtube-印度车，香港家庭组，今天开的差五人，年付，跳车不退，翻车退尾款](https://www.v2ex.com/t/725432) ![](assets/new.png)  
+- [2020-11-15-应届生前端字节-24k-和拼多多-30k-怎么选](https://www.v2ex.com/t/725431) ![](assets/new.png)  
 - [2020-11-15-api-设计时，使用"用户-id（unique）"还是用主键_id-作为查询参数？](https://www.v2ex.com/t/725429) ![](assets/new.png)  
 - [2020-11-15-求救-升级了-big-sur-之后/data-目录被删了](https://www.v2ex.com/t/725428) ![](assets/new.png)  
 - [2020-11-15-macOS-无法修改开机密码的问题](https://www.v2ex.com/t/725427) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-15-请问如何抹盘升级到-macOS-Big-Sur？](https://www.v2ex.com/t/725416) ![](assets/new.png)  
 - [2020-11-15-招远程-golang-一名。！](https://www.v2ex.com/t/725415) ![](assets/new.png)  
 - [2020-11-15-带语法检查的-sql-gui-有哪些？](https://www.v2ex.com/t/725414) ![](assets/new.png)  
-- [2020-11-15-杭州浙二医院排号问题](https://www.v2ex.com/t/725413) ![](assets/new.png)  
-- [2020-11-15-mojave-用户如何升级到-catalina](https://www.v2ex.com/t/725412) ![](assets/new.png)  
-- [2020-11-15-iPhone-12-mini-第一天，打客服电话](https://www.v2ex.com/t/725409) ![](assets/new.png)  
-- [2020-11-15-Windows-的-smartscreen-到底发送了哪些信息给-ms?](https://www.v2ex.com/t/725405) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -598,23 +598,23 @@
 - [2020-11-15-精通那么多技术，你为何还是受不到重用？|-码农周刊第-324-期](https://toutiao.io/k/3ininot) ![](assets/new.png)  
 - [2020-11-15-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [2020-11-15-关于-CPU-你需要了解的（二）](https://toutiao.io/k/sa3tc4h) ![](assets/new.png)  
-- [2020-11-15-今天搬砖不狠，明天地位不稳！](https://toutiao.io/k/iuxq2xo) ![](assets/new.png)  
 - [2020-11-15-译-也许是最客观、全面的比较-Rust-与-Go：都想把-Rust-也学一下](https://toutiao.io/k/w9rm4yw) ![](assets/new.png)  
+- [2020-11-15-今天搬砖不狠，明天地位不稳！](https://toutiao.io/k/iuxq2xo) ![](assets/new.png)  
 - [2020-11-15-微服务架构谈（八）：拆分单体应用的难点](https://toutiao.io/k/o95klb4) ![](assets/new.png)  
 - [2020-11-15-这些高阶的函数技术，你掌握了么](https://toutiao.io/k/qogwd7i) ![](assets/new.png)  
 - [2020-11-15-前端工程实践之数据埋点分析系统](https://toutiao.io/k/crnvcxr) ![](assets/new.png)  
 - [2020-11-15-荣誉加身，手摸手教你成为优质开源项目的贡献者](https://toutiao.io/k/q9ek0j9) ![](assets/new.png)  
 - [2020-11-15-EntityFramework-Core-上下文实例池原理](https://toutiao.io/k/yef28b5) ![](assets/new.png)  
-- [2020-11-15-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-15-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-15-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-15-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-15-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-15-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
 - [2020-11-15-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-15-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
+- [2020-11-15-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-15-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-15-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [2020-11-15-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-15-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [2020-11-15-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-15-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

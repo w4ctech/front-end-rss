@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-15 10:21:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 10:33:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-django-ORM-使用-sql-函数怎么写表达式？](https://www.v2ex.com/t/725499) 
 - [2020-11-15-手机-app-预约-12pro-每次都是错误，非常抱歉](https://www.v2ex.com/t/725496) 
 - [2020-11-15-说一下我对-Apple-Silicon-和-Mac-的看法，理性讨论](https://www.v2ex.com/t/725494) 
 - [2020-11-15-如何不恢复-aw-就可以连接到新手机？](https://www.v2ex.com/t/725492) 
@@ -39,4 +40,3 @@
 - [2020-11-15-iPhone12-换了高通基带以后的信号有改善吗？](https://www.v2ex.com/t/725452) 
 - [2020-11-15-有没有办法将安卓百度手机输入法默认的五笔词库导出来？](https://www.v2ex.com/t/725451) 
 - [2020-11-15-心心念还是忍不住入了-iPhone8P](https://www.v2ex.com/t/725450) 
-- [2020-11-15-请教关于转发-telegram-消息至邮箱的问题](https://www.v2ex.com/t/725449) 

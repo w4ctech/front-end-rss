@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-15 03:11:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 03:22:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-分享一篇苹果用-http-OSCP-协议校验每个程序的-HASH-的洗文，洗的有理有据](https://www.v2ex.com/t/725394) 
 - [2020-11-15-旧-iPhone-上的-app-如何迁移到新-iPhone-上](https://www.v2ex.com/t/725393) 
 - [2020-11-15-ps5-的礼包可以领取之后-ps4-来玩](https://www.v2ex.com/t/725392) 
 - [2020-11-15-小众达人圈](https://www.v2ex.com/t/725389) 
@@ -39,6 +40,3 @@
 - [2020-11-14-关于-PVE-单网卡-多-IP-该如何配置？](https://www.v2ex.com/t/725349) 
 - [2020-11-14-有个-raid-1-的需求，关于磁盘阵列柜和卡想请教下各位](https://www.v2ex.com/t/725348) 
 - [2020-11-14-求个二维空间投射到一维空间的算法](https://www.v2ex.com/t/725347) 
-- [2020-11-14-逃离新-mac，有什么好用的-Linux-版本用来开发？](https://www.v2ex.com/t/725346) 
-- [2020-11-14-手机的日历-ics-文件为什么不能直接通过微信转发？](https://www.v2ex.com/t/725345) 
-- [2020-11-14-VMware-Fusion-里只运行了一个分配了-8G-RAM-的-VM，但是-Fusion-占用-15G-RAM？](https://www.v2ex.com/t/725344) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 01:47:46，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 02:04:11，:rocket: 更新条数: +3299， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,11 @@
 </summary>
 
 
+- [2020-11-15-苹果用-http-OCSP-协议校验每个程序的-HASH-这个没得洗](https://www.v2ex.com/t/725369) ![](assets/new.png)  
+- [2020-11-15-V-友们求推荐一款笔记本电脑，「需求明确」「预算明确」](https://www.v2ex.com/t/725368) ![](assets/new.png)  
+- [2020-11-15-看书的时候总是转头就忘](https://www.v2ex.com/t/725367) ![](assets/new.png)  
+- [2020-11-15-升级-Big-Sur-后-Jitouch-完全用不了,如何解决](https://www.v2ex.com/t/725365) ![](assets/new.png)  
+- [2020-11-15-12-mini-的放大模式，截图分辨率多少？](https://www.v2ex.com/t/725364) ![](assets/new.png)  
 - [2020-11-15-大家是怎么管理两个（或多个）手机号的职责的？](https://www.v2ex.com/t/725363) ![](assets/new.png)  
 - [2020-11-15-阿里云主机流量被监控。](https://www.v2ex.com/t/725361) ![](assets/new.png)  
 - [2020-11-15-问一个增量数据同步的问题。](https://www.v2ex.com/t/725360) ![](assets/new.png)  
@@ -568,11 +573,6 @@
 - [2020-11-14-关于-PVE-单网卡-多-IP-该如何配置？](https://www.v2ex.com/t/725349) ![](assets/new.png)  
 - [2020-11-14-有个-raid-1-的需求，关于磁盘阵列柜和卡想请教下各位](https://www.v2ex.com/t/725348) ![](assets/new.png)  
 - [2020-11-14-求个二维空间投射到一维空间的算法](https://www.v2ex.com/t/725347) ![](assets/new.png)  
-- [2020-11-14-逃离新-mac，有什么好用的-Linux-版本用来开发？](https://www.v2ex.com/t/725346) ![](assets/new.png)  
-- [2020-11-14-手机的日历-ics-文件为什么不能直接通过微信转发？](https://www.v2ex.com/t/725345) ![](assets/new.png)  
-- [2020-11-14-VMware-Fusion-里只运行了一个分配了-8G-RAM-的-VM，但是-Fusion-占用-15G-RAM？](https://www.v2ex.com/t/725344) ![](assets/new.png)  
-- [2020-11-14-苹果开发者账号工商银行入账](https://www.v2ex.com/t/725343) ![](assets/new.png)  
-- [2020-11-14-微软滔天大罪](https://www.v2ex.com/t/725342) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -620,21 +620,21 @@
 - [2020-11-15-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [2020-11-15-微服务架构谈（八）：拆分单体应用的难点](https://toutiao.io/k/o95klb4) ![](assets/new.png)  
 - [2020-11-15-关于-CPU-你需要了解的（二）](https://toutiao.io/k/sa3tc4h) ![](assets/new.png)  
+- [2020-11-15-译-也许是最客观、全面的比较-Rust-与-Go：都想把-Rust-也学一下](https://toutiao.io/k/w9rm4yw) ![](assets/new.png)  
 - [2020-11-15-前端工程实践之数据埋点分析系统](https://toutiao.io/k/crnvcxr) ![](assets/new.png)  
 - [2020-11-15-荣誉加身，手摸手教你成为优质开源项目的贡献者](https://toutiao.io/k/q9ek0j9) ![](assets/new.png)  
-- [2020-11-15-译-也许是最客观、全面的比较-Rust-与-Go：都想把-Rust-也学一下](https://toutiao.io/k/w9rm4yw) ![](assets/new.png)  
 - [2020-11-15-这些高阶的函数技术，你掌握了么](https://toutiao.io/k/qogwd7i) ![](assets/new.png)  
 - [2020-11-15-EntityFramework-Core-上下文实例池原理](https://toutiao.io/k/yef28b5) ![](assets/new.png)  
-- [2020-11-15-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-15-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-15-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
+- [2020-11-15-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-15-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-15-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
 - [2020-11-15-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-15-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-15-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-15-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-15-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [2020-11-15-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-15-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-15-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-15-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-15-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

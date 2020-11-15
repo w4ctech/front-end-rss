@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-15 03:48:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 04:04:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-iPhone-12-mini-第一天，打客服电话](https://www.v2ex.com/t/725409) 
+- [2020-11-15-Windows-的-smartscreen-到底发送了哪些信息给-ms?](https://www.v2ex.com/t/725405) 
+- [2020-11-15-在-B-站开启了我的-UP-主之路，这种源代码分析的视频会受到欢迎吗？](https://www.v2ex.com/t/725404) 
 - [2020-11-15-Mac-换芯，换新-Mac？](https://www.v2ex.com/t/725403) 
 - [2020-11-15-债市暴雷，理财是不是要拿出来了](https://www.v2ex.com/t/725402) 
 - [2020-11-15-群辉的-Synology-Drive-Client-用不了，谨慎升级](https://www.v2ex.com/t/725401) 
@@ -32,9 +35,3 @@
 - [2020-11-15-12-mini-的放大模式，截图分辨率多少？](https://www.v2ex.com/t/725364) 
 - [2020-11-15-大家是怎么管理两个（或多个）手机号的职责的？](https://www.v2ex.com/t/725363) 
 - [2020-11-15-阿里云主机流量被监控。](https://www.v2ex.com/t/725361) 
-- [2020-11-15-问一个增量数据同步的问题。](https://www.v2ex.com/t/725360) 
-- [2020-11-15-cpu-插槽弄进了硅脂-通不了电](https://www.v2ex.com/t/725358) 
-- [2020-11-15-群晖-DSM-开启外网访问（DDNS）有被黑的朋友吗](https://www.v2ex.com/t/725357) 
-- [2020-11-15-vuejs-开发分布式-app，-powered-by-lealone](https://www.v2ex.com/t/725356) 
-- [2020-11-15-领导非要让我带他打-DOTA-但他实在太菜了怎么办啊啊啊啊](https://www.v2ex.com/t/725355) 
-- [2020-11-15-Swrite-互链文档蛮有意思的](https://www.v2ex.com/t/725354) 

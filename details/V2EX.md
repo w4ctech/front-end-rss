@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-15 03:03:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 03:11:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-旧-iPhone-上的-app-如何迁移到新-iPhone-上](https://www.v2ex.com/t/725393) 
+- [2020-11-15-ps5-的礼包可以领取之后-ps4-来玩](https://www.v2ex.com/t/725392) 
 - [2020-11-15-小众达人圈](https://www.v2ex.com/t/725389) 
 - [2020-11-15-请问为何反感通过中介租房呢？](https://www.v2ex.com/t/725388) 
 - [2020-11-15-有没有什么-IT-主题-的娱乐视频-/-音频节目](https://www.v2ex.com/t/725384) 
@@ -40,7 +42,3 @@
 - [2020-11-14-逃离新-mac，有什么好用的-Linux-版本用来开发？](https://www.v2ex.com/t/725346) 
 - [2020-11-14-手机的日历-ics-文件为什么不能直接通过微信转发？](https://www.v2ex.com/t/725345) 
 - [2020-11-14-VMware-Fusion-里只运行了一个分配了-8G-RAM-的-VM，但是-Fusion-占用-15G-RAM？](https://www.v2ex.com/t/725344) 
-- [2020-11-14-苹果开发者账号工商银行入账](https://www.v2ex.com/t/725343) 
-- [2020-11-14-微软滔天大罪](https://www.v2ex.com/t/725342) 
-- [2020-11-14-想扫个好的域名,请问哪里可以下载到英文字典文件方便组合?](https://www.v2ex.com/t/725341) 
-- [2020-11-14-群晖-synology-账号的国别问题](https://www.v2ex.com/t/725340) 

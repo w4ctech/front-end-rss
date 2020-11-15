@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-15 06:35:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 06:47:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-更新-big-sur-后顶部状态栏的颜色会随壁纸颜色深浅变化，求助！](https://www.v2ex.com/t/725453) 
 - [2020-11-15-iPhone12-换了高通基带以后的信号有改善吗？](https://www.v2ex.com/t/725452) 
 - [2020-11-15-有没有办法将安卓百度手机输入法默认的五笔词库导出来？](https://www.v2ex.com/t/725451) 
 - [2020-11-15-心心念还是忍不住入了-iPhone8P](https://www.v2ex.com/t/725450) 
@@ -47,4 +48,3 @@
 - [2020-11-15-iPhone-12-mini-第一天，打客服电话](https://www.v2ex.com/t/725409) 
 - [2020-11-15-Windows-的-smartscreen-到底发送了哪些信息给-ms?](https://www.v2ex.com/t/725405) 
 - [2020-11-15-在-B-站开启了我的-UP-主之路，这种源代码分析的视频会受到欢迎吗？](https://www.v2ex.com/t/725404) 
-- [2020-11-15-Mac-换芯，换新-Mac？](https://www.v2ex.com/t/725403) 

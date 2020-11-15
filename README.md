@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 07:11:20，:rocket: 更新条数: +3064， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 07:20:51，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-15-我吐了啊，，，因为恶意举报我账号被封好多次了。。。](https://www.v2ex.com/t/725459) ![](assets/new.png)  
+- [2020-11-15-北京/深圳-腾讯云急招前端工程师](https://www.v2ex.com/t/725458) ![](assets/new.png)  
+- [2020-11-15-买了-sony-的-1000xm4，更加期待-airpods-studio-了](https://www.v2ex.com/t/725457) ![](assets/new.png)  
 - [2020-11-15-更新-big-sur-后顶部状态栏的颜色会随壁纸颜色深浅变化，求助！](https://www.v2ex.com/t/725453) ![](assets/new.png)  
 - [2020-11-15-iPhone12-换了高通基带以后的信号有改善吗？](https://www.v2ex.com/t/725452) ![](assets/new.png)  
 - [2020-11-15-有没有办法将安卓百度手机输入法默认的五笔词库导出来？](https://www.v2ex.com/t/725451) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-15-用户挺可爱的逆反心理](https://www.v2ex.com/t/725438) ![](assets/new.png)  
 - [2020-11-15-远程运维工具](https://www.v2ex.com/t/725437) ![](assets/new.png)  
 - [2020-11-15-ios14-和-pados13-Safari-标签页不同步](https://www.v2ex.com/t/725436) ![](assets/new.png)  
-- [2020-11-15-技术求助：-Python-，-pywinauto](https://www.v2ex.com/t/725435) ![](assets/new.png)  
-- [2020-11-15-hacmini-升级到-big-bug-以后自带壁纸不正常了，只能用自定义的壁纸了，还有一些预览的-icon-都有问题，你们也一样吗](https://www.v2ex.com/t/725434) ![](assets/new.png)  
-- [2020-11-15-遇到一个奇怪的需求（不懂就问系列）](https://www.v2ex.com/t/725433) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-15-今天搬砖不狠，明天地位不稳！](https://toutiao.io/k/iuxq2xo) ![](assets/new.png)  
 - [2020-11-15-荣誉加身，手摸手教你成为优质开源项目的贡献者](https://toutiao.io/k/q9ek0j9) ![](assets/new.png)  
 - [2020-11-15-EntityFramework-Core-上下文实例池原理](https://toutiao.io/k/yef28b5) ![](assets/new.png)  
-- [2020-11-15-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-15-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-15-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
+- [2020-11-15-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-15-推荐-爱了！一个现代化的-Git-CLI-客户端，一堆命令不用记了](https://toutiao.io/k/s3pgs9r) ![](assets/new.png)  
 - [2020-11-15-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
 - [2020-11-15-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-15-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-15-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-15-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-15-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
 - [2020-11-15-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-15-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
-- [2020-11-15-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-15-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
+- [2020-11-15-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

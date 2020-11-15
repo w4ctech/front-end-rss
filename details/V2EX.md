@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-15 06:47:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 07:04:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,5 +46,3 @@
 - [2020-11-15-杭州浙二医院排号问题](https://www.v2ex.com/t/725413) 
 - [2020-11-15-mojave-用户如何升级到-catalina](https://www.v2ex.com/t/725412) 
 - [2020-11-15-iPhone-12-mini-第一天，打客服电话](https://www.v2ex.com/t/725409) 
-- [2020-11-15-Windows-的-smartscreen-到底发送了哪些信息给-ms?](https://www.v2ex.com/t/725405) 
-- [2020-11-15-在-B-站开启了我的-UP-主之路，这种源代码分析的视频会受到欢迎吗？](https://www.v2ex.com/t/725404) 

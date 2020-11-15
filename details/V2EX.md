@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-14 23:48:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 00:08:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-14-程序员的最佳第二职业或第二赛道应该是什么？](https://www.v2ex.com/t/725351) 
 - [2020-11-14-ITunes-U-是个好-APP，挺多好资源](https://www.v2ex.com/t/725350) 
 - [2020-11-14-关于-PVE-单网卡-多-IP-该如何配置？](https://www.v2ex.com/t/725349) 
 - [2020-11-14-有个-raid-1-的需求，关于磁盘阵列柜和卡想请教下各位](https://www.v2ex.com/t/725348) 
@@ -47,4 +48,3 @@
 - [2020-11-14-有遇到-Apple-Watch-徽章不生成了的吗？](https://www.v2ex.com/t/725305) 
 - [2020-11-14-能利用-SMTP/IMAP-互相发送-IP+遍历猜测-port-来实现-P2P-的-UDP-通讯吗？](https://www.v2ex.com/t/725304) 
 - [2020-11-14-鉴于最近看到一些侵权相关的帖子，请教几个问题](https://www.v2ex.com/t/725303) 
-- [2020-11-14-更新完-14.2-后-safari-翻译功能没了？](https://www.v2ex.com/t/725301) 

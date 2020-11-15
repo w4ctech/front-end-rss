@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-11-15 05:47:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-15 06:04:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-15-京东自营的售后怎么投诉？](https://www.v2ex.com/t/725444) 
+- [2020-11-15-有一点社交焦虑，平时不善于和异性交流，但是我发现现在不和异性交流，我就没有干活的动力了。](https://www.v2ex.com/t/725443) 
+- [2020-11-15-有没有靠谱的局域网内-Windows-设备管理软件系统推荐？](https://www.v2ex.com/t/725442) 
+- [2020-11-15-Java-Socket-文件传输问题，输入流读取文件阻塞怎么解决？](https://www.v2ex.com/t/725441) 
+- [2020-11-15-有没有老哥找过私活的，如何确保对方的产品合格呢？](https://www.v2ex.com/t/725440) 
+- [2020-11-15-MySQLdb,写入表时，出现的-1265,-"Data-truncated-for-column"告警，如何精准捕捉原数据内容？](https://www.v2ex.com/t/725439) 
+- [2020-11-15-用户挺可爱的逆反心理](https://www.v2ex.com/t/725438) 
 - [2020-11-15-远程运维工具](https://www.v2ex.com/t/725437) 
 - [2020-11-15-ios14-和-pados13-Safari-标签页不同步](https://www.v2ex.com/t/725436) 
 - [2020-11-15-技术求助：-Python-，-pywinauto](https://www.v2ex.com/t/725435) 
@@ -38,8 +45,3 @@
 - [2020-11-15-群辉的-Synology-Drive-Client-用不了，谨慎升级](https://www.v2ex.com/t/725401) 
 - [2020-11-15-如何实现识别-tcp-中的包含-http-的包-期望使用-iptables](https://www.v2ex.com/t/725399) 
 - [2020-11-15-最近打开某些网站特别慢，搞不懂？](https://www.v2ex.com/t/725398) 
-- [2020-11-15-分享一篇苹果用-http-OSCP-协议校验每个程序的-HASH-的洗文，洗的有理有据](https://www.v2ex.com/t/725394) 
-- [2020-11-15-旧-iPhone-上的-app-如何迁移到新-iPhone-上](https://www.v2ex.com/t/725393) 
-- [2020-11-15-ps5-的礼包可以领取之后-ps4-来玩](https://www.v2ex.com/t/725392) 
-- [2020-11-15-小众达人圈](https://www.v2ex.com/t/725389) 
-- [2020-11-15-请问为何反感通过中介租房呢？](https://www.v2ex.com/t/725388) 

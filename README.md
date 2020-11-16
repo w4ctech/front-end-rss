@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 21:48:00，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 22:04:16，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-16-买了-iPhone-12-mini，感受](https://www.v2ex.com/t/725999) ![](assets/new.png)  
 - [2020-11-16-应届-offer-求分析](https://www.v2ex.com/t/725998) ![](assets/new.png)  
 - [2020-11-16-从学生手里收购一个项目，会不会违反-JetBrains-的学生授权协议？](https://www.v2ex.com/t/725997) ![](assets/new.png)  
 - [2020-11-16-我知道-Google-养老，原来可以这么养老吗](https://www.v2ex.com/t/725996) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-16-苹果对-OCSP-的解释来了](https://www.v2ex.com/t/725979) ![](assets/new.png)  
 - [2020-11-16-Zeek-文档翻译项目](https://www.v2ex.com/t/725978) ![](assets/new.png)  
 - [2020-11-16-现在买-iPhone-12-值吗？](https://www.v2ex.com/t/725977) ![](assets/new.png)  
-- [2020-11-16-有什么维修显示器的渠道](https://www.v2ex.com/t/725976) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

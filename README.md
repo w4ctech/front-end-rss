@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 07:33:03，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 07:47:42，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,15 @@
 </summary>
 
 
+- [2020-11-16-Big-Sur-系统截图背景变成黑色了?](https://www.v2ex.com/t/725819) ![](assets/new.png)  
+- [2020-11-16-苹果回应“服务器故障导致-macOS-用户无法打开程序”新闻](https://www.v2ex.com/t/725817) ![](assets/new.png)  
+- [2020-11-16-实际体验-iPhone-12-Pro-Max-续航不理想，是不是错觉](https://www.v2ex.com/t/725816) ![](assets/new.png)  
+- [2020-11-16-android-的每隔-72-小时强制输入锁屏密码给我整吐了](https://www.v2ex.com/t/725815) ![](assets/new.png)  
+- [2020-11-16-签到签到](https://www.v2ex.com/t/725813) ![](assets/new.png)  
+- [2020-11-16-想自己搭建一个网站，用什么语言或者需要了解什么知识？目前懂一点点-Django-而已](https://www.v2ex.com/t/725812) ![](assets/new.png)  
+- [2020-11-16-最近几年黑产-APP-越来越正规了，是哪些人在开发？](https://www.v2ex.com/t/725811) ![](assets/new.png)  
+- [2020-11-16-印象笔记这是要干嘛](https://www.v2ex.com/t/725810) ![](assets/new.png)  
+- [2020-11-16-开源软件社区-实习生长期招聘开源软件社区远程实习生](https://www.v2ex.com/t/725809) ![](assets/new.png)  
 - [2020-11-16-腾讯新闻前端团队TNFE招聘前端开发工程师](https://www.v2ex.com/t/725808) ![](assets/new.png)  
 - [2020-11-16-快捷备忘-+-文件互传-+-web-与-cli-=-go-send](https://www.v2ex.com/t/725807) ![](assets/new.png)  
 - [2020-11-16-iMac-2013-已经无法升级最新系统了](https://www.v2ex.com/t/725806) ![](assets/new.png)  
@@ -544,15 +553,6 @@
 - [2020-11-16-iPhone-12-mini-续航挺好的](https://www.v2ex.com/t/725797) ![](assets/new.png)  
 - [2020-11-16-CCC-这意思是暂时无法从克隆盘启动了？](https://www.v2ex.com/t/725793) ![](assets/new.png)  
 - [2020-11-16-小程序不得在用户清楚知悉、了解小程序的功能之前，要求用户进行帐号登录](https://www.v2ex.com/t/725792) ![](assets/new.png)  
-- [2020-11-16-编程里一个简单的数学问题？](https://www.v2ex.com/t/725791) ![](assets/new.png)  
-- [2020-11-16-bigsur-警告音怎么关](https://www.v2ex.com/t/725790) ![](assets/new.png)  
-- [2020-11-16-不懂就问关于-nuxtjs-ssr-的一个问题](https://www.v2ex.com/t/725789) ![](assets/new.png)  
-- [2020-11-16-深度-Google-AdSense-用户有没有兴趣加群一起交流一下？](https://www.v2ex.com/t/725788) ![](assets/new.png)  
-- [2020-11-16-独立开发了一个敏感操作上云的系统,-如何在市场里找到客户以及推进小规模商业化?](https://www.v2ex.com/t/725786) ![](assets/new.png)  
-- [2020-11-16-爬虫-ZF-网站的公开信息怎么样？](https://www.v2ex.com/t/725785) ![](assets/new.png)  
-- [2020-11-16-抢单外挂违法吗？](https://www.v2ex.com/t/725779) ![](assets/new.png)  
-- [2020-11-16-AI-生成凡尔赛体](https://www.v2ex.com/t/725778) ![](assets/new.png)  
-- [2020-11-16-有什么好用的开源-wiki-框架吗](https://www.v2ex.com/t/725777) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -612,8 +612,8 @@
 - [2020-11-16-Volcano-设计原理全面解读，一看就懂](https://toutiao.io/k/upfzd3c) ![](assets/new.png)  
 - [2020-11-16-图像隐写技术-Image-Steganography](https://toutiao.io/k/ub21te4) ![](assets/new.png)  
 - [2020-11-16-如何自定义一个-Gradle-任务](https://toutiao.io/k/ovtmqk6) ![](assets/new.png)  
-- [2020-11-16-优化-Python-错误信息显示效果](https://toutiao.io/k/lw7oh6n) ![](assets/new.png)  
 - [2020-11-16-面向-dapp-开发者的前端工程实践](https://toutiao.io/k/mhpcsa0) ![](assets/new.png)  
+- [2020-11-16-优化-Python-错误信息显示效果](https://toutiao.io/k/lw7oh6n) ![](assets/new.png)  
 - [2020-11-16-​被冷落的运算符重载](https://toutiao.io/k/t95c71t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

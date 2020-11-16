@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 11:04:08，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 11:11:09，:rocket: 更新条数: +3080， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-11-15-11月15日全国新增确诊病例8例-均为境外输入病例](https://m.caixin.com/m/2020-11-16/101628557.html) ![](assets/new.png)  
+- [2020-11-15-最新疫情：全国新冠累计确诊86346例-境外输入新增8例](https://m.caixin.com/m/2020-11-16/101628854.html) ![](assets/new.png)  
 - [2020-11-15-厦门1份进口冷冻猪肉外包装核酸检测阳性-未流入市场](https://m.caixin.com/m/2020-11-16/101628582.html) ![](assets/new.png)  
 - [2020-11-15-上海：高风险进口冷链食品入沪将进行核酸检测和外包装消毒](https://m.caixin.com/m/2020-11-16/101628578.html) ![](assets/new.png)  
 - [2020-11-15-【境内疫情观察】全国新增8例境外输入病例（11月15日）](http://m.database.caixin.com/m/2020-11-16/101628695.html) ![](assets/new.png)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-16-环球深观察丨确诊病例不到一周又增百万-多重对立炙烤疫情下的美国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB6Xm8Z0cZWZ2hD5GbuMC201116&isfromapp=1) ![](assets/new.png)  
+- [2020-11-16-加沙地带卫生机构：医院将无法接收更多的新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE7nA47wJY4FlBXw1KL9Q201116&isfromapp=1) ![](assets/new.png)  
+- [2020-11-16-浙江将进一步完善新冠肺炎疫情“人物并防”措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisG09zVscarxChFfUqGWx201116&isfromapp=1) ![](assets/new.png)  
 - [2020-11-16-​墨西哥累计确诊新冠肺炎病例1006522例-死亡病例上升到98542例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikggb5Tog5R0wm7QWrpzG201116&isfromapp=1) ![](assets/new.png)  
 - [2020-11-16-津发布学校幼儿园疫情防控新要求-大型室内聚集性活动非必要不组织](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirImFLFMYPfDHTGv6Xh5K201116&isfromapp=1) ![](assets/new.png)  
-- [2020-11-16-​阿尔及利亚再次收紧疫情防控管制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibwbvSRTMfpdiKI427MFv201116&isfromapp=1) ![](assets/new.png)  
-- [2020-11-16-国家卫健委：15日新增新冠肺炎确诊病例8例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihhYzUTGZhEYx9KEMIcut201116&isfromapp=1) ![](assets/new.png)  
-- [2020-11-15-世界周刊丨德美新冠疫苗有效性超90%？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidO6NIykdd5tyTs3TbD7V201116&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-16-打扰一下，这个-Java-代码为什么报空指针错误啊，实现深-clone](https://www.v2ex.com/t/725915) ![](assets/new.png)  
 - [2020-11-16-在-MacBook-Pro-16-inch-上-Apple-Silicon-之前，还有机会常规更新一波吗？](https://www.v2ex.com/t/725914) ![](assets/new.png)  
 - [2020-11-16-安装完-Photoshop-之后，这些东西可以删掉吗？](https://www.v2ex.com/t/725913) ![](assets/new.png)  
 - [2020-11-16-发了个作死贴进了水深火热，被降权了。](https://www.v2ex.com/t/725912) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-16-下载一加刷机包，碰到两个-Chrome-和-Safari-的问题](https://www.v2ex.com/t/725897) ![](assets/new.png)  
 - [2020-11-16-有无和-typora-一模一样-markdown-渲染规则的博客系统？对于-LaTex-部分不能妥协！](https://www.v2ex.com/t/725896) ![](assets/new.png)  
 - [2020-11-16-用-mbp16-玩英灵殿](https://www.v2ex.com/t/725895) ![](assets/new.png)  
-- [2020-11-16-升级-Big-Sur-后所有的多窗口-APP-都变成了单窗口多-Tab-模式了](https://www.v2ex.com/t/725894) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

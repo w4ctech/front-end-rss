@@ -5,8 +5,8 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "11月15日全国新增确诊病例8例 均为境外输入病例",
-        "link": "https://m.caixin.com/m/2020-11-16/101628557.html",
+        "title": "最新疫情：全国新冠累计确诊86346例 境外输入新增8例",
+        "link": "https://m.caixin.com/m/2020-11-16/101628854.html",
         "date": "2020-11-15"
       },
       {
@@ -9460,7 +9460,7 @@
         "date": "2020-02-26"
       },
       {
-        "title": "地图|新冠感染近4978万 累计死亡超124万",
+        "title": "地图|新冠感染近5428万 累计死亡超131万",
         "link": "http://m.datanews.caixin.com/m/interactive/2020/pneumonia-h5/global.html",
         "date": "2020-02-26"
       },
@@ -14097,6 +14097,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "环球深观察丨确诊病例不到一周又增百万 多重对立炙烤疫情下的美国",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB6Xm8Z0cZWZ2hD5GbuMC201116&isfromapp=1",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "加沙地带卫生机构：医院将无法接收更多的新冠肺炎病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE7nA47wJY4FlBXw1KL9Q201116&isfromapp=1",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "浙江将进一步完善新冠肺炎疫情“人物并防”措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisG09zVscarxChFfUqGWx201116&isfromapp=1",
+        "date": "2020-11-16"
+      },
+      {
         "title": "​墨西哥累计确诊新冠肺炎病例1006522例  死亡病例上升到98542例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikggb5Tog5R0wm7QWrpzG201116&isfromapp=1",
         "date": "2020-11-16"
@@ -14105,21 +14120,6 @@
         "title": "津发布学校幼儿园疫情防控新要求 大型室内聚集性活动非必要不组织",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirImFLFMYPfDHTGv6Xh5K201116&isfromapp=1",
         "date": "2020-11-16"
-      },
-      {
-        "title": "​阿尔及利亚再次收紧疫情防控管制措施",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibwbvSRTMfpdiKI427MFv201116&isfromapp=1",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "国家卫健委：15日新增新冠肺炎确诊病例8例 均为境外输入病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihhYzUTGZhEYx9KEMIcut201116&isfromapp=1",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "世界周刊丨德美新冠疫苗有效性超90%？",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidO6NIykdd5tyTs3TbD7V201116&isfromapp=1",
-        "date": "2020-11-15"
       }
     ]
   },
@@ -14628,6 +14628,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "打扰一下，这个 Java 代码为什么报空指针错误啊，实现深 clone",
+        "link": "https://www.v2ex.com/t/725915",
+        "date": "2020-11-16"
+      },
+      {
         "title": "在 MacBook Pro 16-inch 上 Apple Silicon 之前，还有机会常规更新一波吗？",
         "link": "https://www.v2ex.com/t/725914",
         "date": "2020-11-16"
@@ -14846,16 +14851,6 @@
         "title": "小确幸，我的 iPhone 11 Pro 512g 二手卖出 5810 元，很欣慰",
         "link": "https://www.v2ex.com/t/725867",
         "date": "2020-11-16"
-      },
-      {
-        "title": "日经题：有没有这么一款笔记软件？",
-        "link": "https://www.v2ex.com/t/725866",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "Bug Sur 升级感受，变砖，死机， CPU 温度变低，更流畅？",
-        "link": "https://www.v2ex.com/t/725865",
-        "date": "2020-11-16"
       }
     ]
   },
@@ -15072,13 +15067,38 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-16"
       },
       {
@@ -15092,33 +15112,8 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-16"
       },
       {
@@ -15127,23 +15122,23 @@
         "date": "2020-11-16"
       },
       {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-16"
+      },
+      {
         "title": "[推荐] 终于有人把数据中台讲明白了",
         "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-16"
       },
       {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-16"
+      },
+      {
         "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
         "link": "https://toutiao.io/k/f9kkb5t",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-16"
       }
     ]

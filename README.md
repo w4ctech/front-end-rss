@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 10:47:48，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 11:04:08，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-16-在-MacBook-Pro-16-inch-上-Apple-Silicon-之前，还有机会常规更新一波吗？](https://www.v2ex.com/t/725914) ![](assets/new.png)  
+- [2020-11-16-安装完-Photoshop-之后，这些东西可以删掉吗？](https://www.v2ex.com/t/725913) ![](assets/new.png)  
+- [2020-11-16-发了个作死贴进了水深火热，被降权了。](https://www.v2ex.com/t/725912) ![](assets/new.png)  
+- [2020-11-16-webpack-dll-plugin-用在生产环境会有什么问题](https://www.v2ex.com/t/725911) ![](assets/new.png)  
 - [2020-11-16-MBA-18-在天才吧换完键盘后感觉-Touch-ID-下沉了，这合理吗](https://www.v2ex.com/t/725910) ![](assets/new.png)  
 - [2020-11-16-Glance-在-Big-Sur-失效](https://www.v2ex.com/t/725909) ![](assets/new.png)  
 - [2020-11-16-国企证券公司做-Web-前端开发，靠谱吗？](https://www.v2ex.com/t/725908) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-16-有无和-typora-一模一样-markdown-渲染规则的博客系统？对于-LaTex-部分不能妥协！](https://www.v2ex.com/t/725896) ![](assets/new.png)  
 - [2020-11-16-用-mbp16-玩英灵殿](https://www.v2ex.com/t/725895) ![](assets/new.png)  
 - [2020-11-16-升级-Big-Sur-后所有的多窗口-APP-都变成了单窗口多-Tab-模式了](https://www.v2ex.com/t/725894) ![](assets/new.png)  
-- [2020-11-16-求推荐声音小的无线机械键盘](https://www.v2ex.com/t/725893) ![](assets/new.png)  
-- [2020-11-16-杭州-有赞-20k-40k-招聘前端工程师，-Java-工程师-待遇优厚！](https://www.v2ex.com/t/725892) ![](assets/new.png)  
-- [2020-11-16-数据结构与算法学习求建议（需求清晰）](https://www.v2ex.com/t/725891) ![](assets/new.png)  
-- [2020-11-16-社招鹅厂腾讯云-游戏解决方案团队期待你的加入](https://www.v2ex.com/t/725890) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -607,8 +607,8 @@
 - [2020-11-16-大数据学习路线](https://toutiao.io/k/8jn7g0f) ![](assets/new.png)  
 - [2020-11-16-Apache-Flink-CDC-简介与使用](https://toutiao.io/k/lta0kse) ![](assets/new.png)  
 - [2020-11-16-三种传递-gRPC-动态参数方式的使用体验](https://toutiao.io/k/3ov45qs) ![](assets/new.png)  
-- [2020-11-16-中小企业信息安全建设开荒经验分享](https://toutiao.io/k/xd27gz1) ![](assets/new.png)  
 - [2020-11-16-译-图解：宏观角度看-Go-语言如何实现垃圾回收中的-Stop-the-World](https://toutiao.io/k/oe57im5) ![](assets/new.png)  
+- [2020-11-16-中小企业信息安全建设开荒经验分享](https://toutiao.io/k/xd27gz1) ![](assets/new.png)  
 - [2020-11-16-Volcano-设计原理全面解读，一看就懂](https://toutiao.io/k/upfzd3c) ![](assets/new.png)  
 - [2020-11-16-面向-dapp-开发者的前端工程实践](https://toutiao.io/k/mhpcsa0) ![](assets/new.png)  
 - [2020-11-16-图像隐写技术-Image-Steganography](https://toutiao.io/k/ub21te4) ![](assets/new.png)  
@@ -626,26 +626,26 @@
 </summary>
 
 
-- [2020-11-15-特朗普下台了?不影响黑客利用特朗普骗钱,4小时100万!](https://sec.thief.one/article_content?a_id=f32fb41d2e7bc4243f2aa3be4126040d) ![](assets/new.png)  
-- [2020-11-15-【安全圈】重磅!美军突然行动,缴获投票作弊软件服务器!](https://sec.thief.one/article_content?a_id=c894a106f54219c21fd1ecb91132427f) ![](assets/new.png)  
-- [2020-11-15-有个阿里师兄是怎样的体验](https://sec.thief.one/article_content?a_id=da3320033a08cc88b517d17ff8c5f1f9) ![](assets/new.png)  
-- [2020-11-15-【倒计时1天】2020-KCTF秋季赛明日正午开赛,勇敢的黑客你准备好...](https://sec.thief.one/article_content?a_id=1d30704d9460d8284e6109869238f86d) ![](assets/new.png)  
-- [2020-11-15-安全分析-|-两个VMware-Workstation中的TOCTOU漏洞](https://sec.thief.one/article_content?a_id=7cac6a740950a68923d08f3bf1242a32) ![](assets/new.png)  
-- [2020-11-15-AIoT安全峰会议题回顾|构建安全可信的物联网](https://sec.thief.one/article_content?a_id=dd4bd73fccab530b0d555d8b3be556ff) ![](assets/new.png)  
-- [2020-11-15-​在招-|-锅圈食汇40K/月诚招安全贤才,小岳岳等你来](https://sec.thief.one/article_content?a_id=55ea083ec2e31b0a6554b7b7134a66ee) ![](assets/new.png)  
-- [2020-11-15-桥水基金达里奥谈比特币-他说了这些附独家视频](https://sec.thief.one/article_content?a_id=2c7903c7aa8c3d5f2b272a9876f37e84) ![](assets/new.png)  
-- [2020-11-15-MosaicRegressor:潜伏在UEFI中的漏洞](https://sec.thief.one/article_content?a_id=7f8793b241cff0588c51bf06706541d9) ![](assets/new.png)  
-- [2020-11-15-一分钟学Python|Python的列表和元组](https://sec.thief.one/article_content?a_id=4a61913fb32244fa71d68912de5923b0) ![](assets/new.png)  
-- [2020-11-15-ChaMd5荣获西湖论剑IoT闯关赛第一名](https://sec.thief.one/article_content?a_id=ef8ffa2003a72d4756d6cb179f2651d4) ![](assets/new.png)  
-- [2020-11-15-【视频】|-2020腾讯科学WE大会](https://sec.thief.one/article_content?a_id=7bfdf2e54a0bfd1a2d0e7d1048dd41e7) ![](assets/new.png)  
-- [2020-11-15-魔幻大选!拜登选票可能造假?美军突袭选举数据托管公司,没收服务器](https://sec.thief.one/article_content?a_id=8670459a4891486f67471a03b74ef48f) ![](assets/new.png)  
-- [2020-11-15-微软工程师薅微软羊毛1000万美金,竟拿同事当替罪羊](https://sec.thief.one/article_content?a_id=8660697c469f19a782b94d57586ce509) ![](assets/new.png)  
-- [2020-11-15-没有CTO,程序员年赚30万美金,Netflix的CEO谈高薪雇佣逻辑](https://sec.thief.one/article_content?a_id=432287ce5c5f19c0e0efefe3a0ef369f) ![](assets/new.png)  
-- [2020-11-15-《Python中神奇的第三方库:Faker》](https://sec.thief.one/article_content?a_id=3eb7c9156cd45ea932a7f960b558125f) ![](assets/new.png)  
-- [2020-11-15-最强王者诞生!西湖论剑•2020中国杭州网络安全技能大赛收官](https://sec.thief.one/article_content?a_id=1af1f30ffef96abfd991e776bc5eb883) ![](assets/new.png)  
-- [2020-11-14-比特币冲高1.6万美元-本月币圈这些事必关注](https://sec.thief.one/article_content?a_id=fa898ea73d80ad3d58eb84a0c59c88d7) ![](assets/new.png)  
-- [2020-11-14-中国IPv6进行时](https://sec.thief.one/article_content?a_id=87d66828ee8472a8a68bdfffcbeb7e55) ![](assets/new.png)  
-- [2020-11-14-Python-游戏编程之实现飞机大战含源代码](https://sec.thief.one/article_content?a_id=df75238a1c8221ce191653eea445416d) ![](assets/new.png)  
+- [2020-11-16-夯实根基-数聚未来|绿盟科技受邀出席第二届中国互联网基础资源大会](https://sec.thief.one/article_content?a_id=3c1c830b5e04e65a7f62a2bad93ed6e8) ![](assets/new.png)  
+- [2020-11-16-国内首家!工信部为大连海事大学-奇安信船舶网络安全实验室授牌](https://sec.thief.one/article_content?a_id=76f31488ecf5544541fac786b9494fb0) ![](assets/new.png)  
+- [2020-11-16-我的手机背叛了我,自动连接了假的企业Wi-Fi](https://sec.thief.one/article_content?a_id=3828f4e85afef41d25df24bc1a85f3aa) ![](assets/new.png)  
+- [2020-11-16-Value-DeFi遭黑客攻击始末,闪电贷这次又带走了700万美元](https://sec.thief.one/article_content?a_id=05bac7d7e32fb8c733b60a6a537bea69) ![](assets/new.png)  
+- [2020-11-16-雷军:小米将扩招5000名工程师!多个领域需要用到C++](https://sec.thief.one/article_content?a_id=54d81138dd0f188f54370d9c2ba1f4c6) ![](assets/new.png)  
+- [2020-11-16-《CCSIP-2020中国网络安全产业全景图》正式发布-|-FreeBuf咨询](https://sec.thief.one/article_content?a_id=005edfbf1e80fad1eecfc5cc9371f9ce) ![](assets/new.png)  
+- [2020-11-16-招聘-|-加入安全客的机会来啦~](https://sec.thief.one/article_content?a_id=8bd568e30a67b287b73c5003e56a90a7) ![](assets/new.png)  
+- [2020-11-16-【宠粉福利】网络攻防实战研究:MySQL数据库安全](https://sec.thief.one/article_content?a_id=64ae6a6e81655f63d296e3a256678db0) ![](assets/new.png)  
+- [2020-11-16-SecWiki周刊第350期](https://sec.thief.one/article_content?a_id=95b958517a518650c2d7d76d165f7a69) ![](assets/new.png)  
+- [2020-11-16-每日攻防资讯简报Nov.16th](https://sec.thief.one/article_content?a_id=8becb9921a8b939047f8f7ce4795db51) ![](assets/new.png)  
+- [2020-11-16-中关村可信计算产业联盟金融安全可信专委会召开工作总结规划会](https://sec.thief.one/article_content?a_id=eb5a82c6b68e935978b0d8d87beafc7e) ![](assets/new.png)  
+- [2020-11-16-智绘网信|一起了解!智慧城市建设的贵阳实践](https://sec.thief.one/article_content?a_id=9058486e6f72ba202f955f5aca1a62c3) ![](assets/new.png)  
+- [2020-11-16-人物-|-刘衍斐:人生和安全很相近](https://sec.thief.one/article_content?a_id=b2eec47185e7c3eebf512de29d8e3d12) ![](assets/new.png)  
+- [2020-11-16-雷神众测漏洞周报-2020.11.09-2020.11.15-4](https://sec.thief.one/article_content?a_id=70a4572f27d5dec094dcf9e012dcd472) ![](assets/new.png)  
+- [2020-11-16-Galaxy-Digital第三季度营收反映机构加密采用潮](https://sec.thief.one/article_content?a_id=e6e766633673db3dfbfc1f6103fd11bd) ![](assets/new.png)  
+- [2020-11-16-K神手札:比特币震荡蓄势,历史新高指日可待](https://sec.thief.one/article_content?a_id=731148a7fc844a6e48ac85c1a83977b2) ![](assets/new.png)  
+- [2020-11-16-Don't-place-a-port-in-shared-memory](https://sec.thief.one/article_content?a_id=0398b6521a34443bd93166fb0ac35cb6) ![](assets/new.png)  
+- [2020-11-16-微软称COVID-19疫苗制造商遭到了境外机构支持的黑客攻击](https://sec.thief.one/article_content?a_id=ffe2e8e08834ff82d14b4f3810e6f804) ![](assets/new.png)  
+- [2020-11-16-Tetrade黑客利用Ghimob银行木马攻击了112个金融应用程序](https://sec.thief.one/article_content?a_id=7d7fd0e746d50483c4214f1a586a4015) ![](assets/new.png)  
+- [2020-11-16-OpenEDR:美国安全厂商Comodo发布首个开源EDR产品](https://sec.thief.one/article_content?a_id=2a1494b3b202e86fb8552dc1e3b4ce9a) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

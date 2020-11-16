@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 04:48:02，:rocket: 更新条数: +3062， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 05:04:14，:rocket: 更新条数: +3069， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
@@ -320,6 +320,16 @@
 </summary>
 
 
+- [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) ![](assets/new.png)  
+- [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) ![](assets/new.png)  
+- [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) ![](assets/new.png)  
+- [2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) ![](assets/new.png)  
+- [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) ![](assets/new.png)  
+- [2020-10-19-如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/) ![](assets/new.png)  
+- [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) ![](assets/new.png)  
+- [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) ![](assets/new.png)  
+- [2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/) ![](assets/new.png)  
+- [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,6 +533,9 @@
 </summary>
 
 
+- [2020-11-16-怎么找靠谱的做柜子的公司/店？](https://www.v2ex.com/t/725738) ![](assets/new.png)  
+- [2020-11-16-苹果的保修期限是以订单确认还是激活时间为准？](https://www.v2ex.com/t/725737) ![](assets/new.png)  
+- [2020-11-16-说说-Golang-异常捕获](https://www.v2ex.com/t/725736) ![](assets/new.png)  
 - [2020-11-16-一个小破站每天跑-12000-20000G-的量，一直在持续，有部分是被攻击的，请问这个攻击者不需要钱吗？还是闲的蛋疼](https://www.v2ex.com/t/725731) ![](assets/new.png)  
 - [2020-11-16-从上周二开始，-mac-os-在电信网络下证书验证超时](https://www.v2ex.com/t/725730) ![](assets/new.png)  
 - [2020-11-16-最强（划掉，最差程序员开发指南](https://www.v2ex.com/t/725728) ![](assets/new.png)  
@@ -540,9 +553,6 @@
 - [2020-11-16-西安-ThoughtWorks-招聘-Java-/Scala/C#/前端开发---大量-HC](https://www.v2ex.com/t/725715) ![](assets/new.png)  
 - [2020-11-16-为什么我觉得-iPhone-12-全系列都好丑，特别是颜色和黑边](https://www.v2ex.com/t/725714) ![](assets/new.png)  
 - [2020-11-16-杭州金沙湖有没有-2-室一厅的房子，-3000-左右的](https://www.v2ex.com/t/725713) ![](assets/new.png)  
-- [2020-11-16-北京租房，要搬到一个暖气很弱的房子了，大家有没有好的浴室取暖方案？](https://www.v2ex.com/t/725712) ![](assets/new.png)  
-- [2020-11-16-restful-接口批量获取和删除有什么好的设计吗？](https://www.v2ex.com/t/725710) ![](assets/new.png)  
-- [2020-11-16-求租-寻求上海闵行区内-12-号线与-1-号线附近-2-室-1-厅的房子](https://www.v2ex.com/t/725708) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,6 +564,7 @@
 </summary>
 
 
+- [2020-11-16-淘宝直播在冲刺最复杂的人工智能技术！-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13948&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778213%3Futm_content%3Dg_1000205297%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-盒马新零售基于DataWorks搭建数据中台的实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13947&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778172%3Futm_content%3Dg_1000205296%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-Android-开发都有哪些好书值得一读？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13946&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV9CI-RGSG0JkTPKwxLHzeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-Android-Studio-4.1-新特性详解-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13945&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1dMo22SK_6pTpsYMgl7LvQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -573,7 +584,6 @@
 - [2020-11-16-大数据时代，如何用数据驱动精准营销-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13931&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778184%3Futm_content%3Dg_1000204971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-阿里雷卷：RSocket从入门到落地，RSocket让AJP换发青春-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13930&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777835%3Futm_content%3Dg_1000204970%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-专访李飞飞-：从清华附中高材生到阿里飞刀，一口井钻出「云原生」-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13929&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778031%3Futm_content%3Dg_1000204969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-16-你的测试写全了吗？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13928&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftesting-cover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -593,9 +603,9 @@
 - [2020-11-16-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
 - [2020-11-16-多角度审视推荐系统](https://toutiao.io/k/4qkf3s2) ![](assets/new.png)  
 - [2020-11-16-小程序-云开发：如何对敏感词进行过滤即内容安全的检测（上）](https://toutiao.io/k/i8zq8p9) ![](assets/new.png)  
-- [2020-11-16-Apache-Flink-CDC-简介与使用](https://toutiao.io/k/lta0kse) ![](assets/new.png)  
 - [2020-11-16-聊聊单元测试](https://toutiao.io/k/l74vbfw) ![](assets/new.png)  
 - [2020-11-16-大数据学习路线](https://toutiao.io/k/8jn7g0f) ![](assets/new.png)  
+- [2020-11-16-Apache-Flink-CDC-简介与使用](https://toutiao.io/k/lta0kse) ![](assets/new.png)  
 - [2020-11-16-三种传递-gRPC-动态参数方式的使用体验](https://toutiao.io/k/3ov45qs) ![](assets/new.png)  
 - [2020-11-16-译-图解：宏观角度看-Go-语言如何实现垃圾回收中的-Stop-the-World](https://toutiao.io/k/oe57im5) ![](assets/new.png)  
 - [2020-11-16-Volcano-设计原理全面解读，一看就懂](https://toutiao.io/k/upfzd3c) ![](assets/new.png)  
@@ -603,8 +613,8 @@
 - [2020-11-16-图像隐写技术-Image-Steganography](https://toutiao.io/k/ub21te4) ![](assets/new.png)  
 - [2020-11-16-如何自定义一个-Gradle-任务](https://toutiao.io/k/ovtmqk6) ![](assets/new.png)  
 - [2020-11-16-优化-Python-错误信息显示效果](https://toutiao.io/k/lw7oh6n) ![](assets/new.png)  
-- [2020-11-16-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
-- [2020-11-16-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-16-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-16-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

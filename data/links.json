@@ -14236,7 +14236,58 @@
     "rss": "https://www.zhangxinxu.com/wordpress/feed/",
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
-    "items": []
+    "items": [
+      {
+        "title": "HTML中无标签文本的CSS变色技巧",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "介绍一种全新的clipPath Sprites小图标技术",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/",
+        "date": "2020-10-29"
+      },
+      {
+        "title": "细说iOS Safari下focus的行为",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "图片加载失败后CSS样式处理最佳实践",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/",
+        "date": "2020-10-24"
+      },
+      {
+        "title": "ES6模板字符串在HTML模板渲染中的应用",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/",
+        "date": "2020-10-21"
+      },
+      {
+        "title": "如何让文字作为CSS背景图片显示？",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/",
+        "date": "2020-10-19"
+      },
+      {
+        "title": "SVG feTurbulence滤镜深入介绍",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/",
+        "date": "2020-10-17"
+      },
+      {
+        "title": "HTML enterkeyhint设置iOS/Android键盘enter键",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "快速学习CSS Color Level 4的色值新语法",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "巧借CSS var变量实现任意的CSS自定义语法",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/",
+        "date": "2020-10-11"
+      }
+    ]
   },
   {
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
@@ -14572,6 +14623,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "怎么找靠谱的做柜子的公司/店？",
+        "link": "https://www.v2ex.com/t/725738",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "苹果的保修期限是以订单确认还是激活时间为准？",
+        "link": "https://www.v2ex.com/t/725737",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "说说 Golang 异常捕获",
+        "link": "https://www.v2ex.com/t/725736",
+        "date": "2020-11-16"
+      },
+      {
         "title": "一个小破站每天跑 12000-20000G 的量，一直在持续，有部分是被攻击的，请问这个攻击者不需要钱吗？还是闲的蛋疼",
         "link": "https://www.v2ex.com/t/725731",
         "date": "2020-11-16"
@@ -14740,36 +14806,6 @@
         "title": "Flink for Java demo，使用 lambda 表达式报错",
         "link": "https://www.v2ex.com/t/725690",
         "date": "2020-11-16"
-      },
-      {
-        "title": "飞书更改头像，失败不给提示失败原因，直接回滚原本的头像，贵司相关负责人能否给个提示",
-        "link": "https://www.v2ex.com/t/725688",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "新手，云服务器求推荐",
-        "link": "https://www.v2ex.com/t/725687",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "不懂就问，为什么视频 app TV 版本基本都没有弹幕？",
-        "link": "https://www.v2ex.com/t/725686",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[吐槽] 刚入职一家公司，没几天入职了一个老油子同事",
-        "link": "https://www.v2ex.com/t/725685",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "有没有什么 chrome 插件可以动态修改并发量",
-        "link": "https://www.v2ex.com/t/725684",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "为什么 epoll 不支持本地文件（磁盘 io），但是 kqueue 支持？",
-        "link": "https://www.v2ex.com/t/725683",
-        "date": "2020-11-16"
       }
     ]
   },
@@ -14778,6 +14814,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "淘宝直播在冲刺最复杂的人工智能技术！ (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13948&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778213%3Futm_content%3Dg_1000205297%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-16"
+      },
       {
         "title": "盒马新零售基于DataWorks搭建数据中台的实践 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13947&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778172%3Futm_content%3Dg_1000205296%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14872,11 +14913,6 @@
         "title": "专访李飞飞 ：从清华附中高材生到阿里飞刀，一口井钻出「云原生」 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13929&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778031%3Futm_content%3Dg_1000204969%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-16"
-      },
-      {
-        "title": "你的测试写全了吗？ (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13928&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftesting-cover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-16"
       }
     ]
   },
@@ -14926,11 +14962,6 @@
         "date": "2020-11-16"
       },
       {
-        "title": "Apache Flink CDC 简介与使用",
-        "link": "https://toutiao.io/k/lta0kse",
-        "date": "2020-11-16"
-      },
-      {
         "title": "聊聊单元测试",
         "link": "https://toutiao.io/k/l74vbfw",
         "date": "2020-11-16"
@@ -14938,6 +14969,11 @@
       {
         "title": "大数据学习路线",
         "link": "https://toutiao.io/k/8jn7g0f",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "Apache Flink CDC 简介与使用",
+        "link": "https://toutiao.io/k/lta0kse",
         "date": "2020-11-16"
       },
       {
@@ -14976,6 +15012,21 @@
         "date": "2020-11-16"
       },
       {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-16"
+      },
+      {
         "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
         "link": "https://toutiao.io/k/ypwk0no",
         "date": "2020-11-16"
@@ -14986,23 +15037,8 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-16"
       },
       {
@@ -15011,23 +15047,8 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-16"
       },
       {
@@ -15041,13 +15062,28 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-16"
       }
     ]

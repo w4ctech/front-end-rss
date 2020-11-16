@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-16 00:08:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-16 00:28:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -10,3 +10,4 @@
 - [2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
 - [2020-11-15-有阻止和隐藏-Software-Update-的小程序吗？](https://www.v2ex.com/t/725590) 
+- [2020-11-16-小程序-云开发：如何对敏感词进行过滤即内容安全的检测（上）](https://toutiao.io/k/i8zq8p9) 

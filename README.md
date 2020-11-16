@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 08:13:20，:rocket: 更新条数: +3072， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 08:25:18，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-16-HCaaS-招募代理](https://www.v2ex.com/t/725842) ![](assets/new.png)  
+- [2020-11-16-微服务架构权限验证系统除了-oauth2-外还有哪些解决方案？](https://www.v2ex.com/t/725841) ![](assets/new.png)  
+- [2020-11-16-一个关于视屏压缩的问题](https://www.v2ex.com/t/725840) ![](assets/new.png)  
+- [2020-11-16-逸招聘-后端岗位来啦~-后端工程师（远程支持）](https://www.v2ex.com/t/725839) ![](assets/new.png)  
 - [2020-11-16-Big-Sur-里自动切换显卡的奇怪逻辑-or-bug？](https://www.v2ex.com/t/725838) ![](assets/new.png)  
 - [2020-11-16-XDM-帮帮忙-Rocksdb-编译问题](https://www.v2ex.com/t/725837) ![](assets/new.png)  
 - [2020-11-16--一面数据-|-深圳-这里是大牛集中营，-90-后欢乐团队，诚挚邀请-Python-/大数据方面的同学来投简历~~](https://www.v2ex.com/t/725836) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-16-逸招聘-后端岗位来啦~-后端工程师（远程支持）](https://www.v2ex.com/t/725820) ![](assets/new.png)  
 - [2020-11-16-Big-Sur-系统截图背景变成黑色了?](https://www.v2ex.com/t/725819) ![](assets/new.png)  
 - [2020-11-16-苹果回应“服务器故障导致-macOS-用户无法打开程序”新闻](https://www.v2ex.com/t/725817) ![](assets/new.png)  
-- [2020-11-16-实际体验-iPhone-12-Pro-Max-续航不理想，是不是错觉](https://www.v2ex.com/t/725816) ![](assets/new.png)  
-- [2020-11-16-android-的每隔-72-小时强制输入锁屏密码给我整吐了](https://www.v2ex.com/t/725815) ![](assets/new.png)  
-- [2020-11-16-签到签到](https://www.v2ex.com/t/725813) ![](assets/new.png)  
-- [2020-11-16-想自己搭建一个网站，用什么语言或者需要了解什么知识？目前懂一点点-Django-而已](https://www.v2ex.com/t/725812) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

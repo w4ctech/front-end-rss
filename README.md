@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 06:34:14，:rocket: 更新条数: +3034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 06:37:58，:rocket: 更新条数: +3286， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,8 +38,8 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [京东设计中心](#京东设计中心)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,6 +366,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +543,26 @@
 </summary>
 
 
+- [2020-11-16-独立开发了一个敏感操作上云的系统,-如何在市场里找到客户以及推进小规模商业化?](https://www.v2ex.com/t/725786) ![](assets/new.png)  
+- [2020-11-16-爬虫-ZF-网站的公开信息怎么样？](https://www.v2ex.com/t/725785) ![](assets/new.png)  
+- [2020-11-16-抢单外挂违法吗？](https://www.v2ex.com/t/725779) ![](assets/new.png)  
+- [2020-11-16-AI-生成凡尔赛体](https://www.v2ex.com/t/725778) ![](assets/new.png)  
+- [2020-11-16-有什么好用的开源-wiki-框架吗](https://www.v2ex.com/t/725777) ![](assets/new.png)  
+- [2020-11-16-看到一大波-Java-在转大数据，唯有我倒着走?](https://www.v2ex.com/t/725776) ![](assets/new.png)  
+- [2020-11-16-升级完-bigSur-后，无法连接-l2tp-vpn-服务器了，有人遇到过类似问题吗](https://www.v2ex.com/t/725774) ![](assets/new.png)  
+- [2020-11-16-在图片加载完之前，如何确定图片-loading-的-skeleton-的长和宽？](https://www.v2ex.com/t/725770) ![](assets/new.png)  
+- [2020-11-16-Homebew-on-macOS-Big-Sur-兼容性问题](https://www.v2ex.com/t/725768) ![](assets/new.png)  
+- [2020-11-16-想要构建一个简单的股市数据库，老哥们给提点建议？](https://www.v2ex.com/t/725767) ![](assets/new.png)  
+- [2020-11-16-求-P2P-式的代理软件](https://www.v2ex.com/t/725766) ![](assets/new.png)  
+- [2020-11-16-请问在-windows-下有类似-pm2-web-的工具吗？](https://www.v2ex.com/t/725765) ![](assets/new.png)  
+- [2020-11-16-现在有办法可以带着口罩，解锁-iPhone-了么](https://www.v2ex.com/t/725764) ![](assets/new.png)  
+- [2020-11-16-公司注册新政策，代理记账，别再花冤枉钱了--营业执照办理](https://www.v2ex.com/t/725760) ![](assets/new.png)  
+- [2020-11-16-房屋直租-深圳-罗湖布吉路-1-居室整套](https://www.v2ex.com/t/725759) ![](assets/new.png)  
+- [2020-11-16-求助-编译-cmatrix-报错](https://www.v2ex.com/t/725758) ![](assets/new.png)  
+- [2020-11-16-对于没了解过-ps-游戏机的小白来说，现在入手-ps4-爽一段时间应该不算-49-入国军吧](https://www.v2ex.com/t/725757) ![](assets/new.png)  
+- [2020-11-16-手机没发布的时候就已经全网都知道-12-是直角设计了，为啥还有那么多人买了又说咯手？](https://www.v2ex.com/t/725756) ![](assets/new.png)  
+- [2020-11-16-QuantumultX-MitM-去广告是否安全？](https://www.v2ex.com/t/725755) ![](assets/new.png)  
+- [2020-11-16-求一个国内购买-Pixel-的靠谱渠道](https://www.v2ex.com/t/725753) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

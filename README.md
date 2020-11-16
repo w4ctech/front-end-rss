@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 00:28:45，:rocket: 更新条数: +241， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 00:55:29，:rocket: 更新条数: +3064， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-11-15-11月15日全国新增确诊病例8例-均为境外输入病例](https://m.caixin.com/m/2020-11-16/101628557.html) ![](assets/new.png)  
+- [2020-11-14-最新海外疫情：新冠感染超5383万-累计死亡近131万](http://m.international.caixin.com/m/2020-11-15/101628526.html) ![](assets/new.png)  
+- [2020-11-14-【境内疫情观察】全国新增13例境外输入病例（11月14日）](http://m.database.caixin.com/m/2020-11-15/101628411.html) ![](assets/new.png)  
+- [2020-11-14-大流行手记|11月14日：多国明确疫苗接种计划-韩国疫情升温](https://m.caixin.com/m/2020-11-15/101628278.html) ![](assets/new.png)  
+- [2020-11-13-【境内疫情观察】全国新增18例境外输入病例（11月13日）](http://m.database.caixin.com/m/2020-11-14/101627999.html) ![](assets/new.png)  
+- [2020-11-13-大流行手记|11月13日：英日增病例创新高-日本研究称新冠变异后传染性增强](https://m.caixin.com/m/2020-11-14/101627841.html) ![](assets/new.png)  
+- [2020-11-12-新冠病毒毒性未减-张文宏详解病死率下降缘由](http://m.topics.caixin.com/m/2020-11-13/101627435.html) ![](assets/new.png)  
+- [2020-11-12-【境内疫情观察】全国新增8例境外输入病例（11月12日）](http://m.database.caixin.com/m/2020-11-13/101627382.html) ![](assets/new.png)  
+- [2020-11-12-大流行手记|11月12日：美28名大选工作人员感染-英格兰67个地区本周全城检测](https://m.caixin.com/m/2020-11-13/101627043.html) ![](assets/new.png)  
+- [2020-11-11-【境内疫情观察】天津新增1例本土确诊病例（11月11日）](http://m.database.caixin.com/m/2020-11-12/101626650.html) ![](assets/new.png)  
+- [2020-11-11-大流行手记|11月11日：美拟12月启动新冠疫苗接种-欧洲多国医疗体系负重](https://m.caixin.com/m/2020-11-12/101626574.html) ![](assets/new.png)  
+- [2020-11-11-日本忧第三波疫情袭来-北海道入冬病例又激增](http://m.international.caixin.com/m/2020-11-12/101626896.html) ![](assets/new.png)  
+- [2020-11-10-上海、安徽新冠确诊者系嘉华货代员工-公司称正配合调查](https://m.caixin.com/m/2020-11-11/101626319.html) ![](assets/new.png)  
+- [2020-11-10-南京及时拦截一批未流入市场新冠病毒核酸检测呈阳性的进口冷链食品](http://m.china.caixin.com/m/2020-11-11/101626466.html) ![](assets/new.png)  
+- [2020-11-10-香港启动“单向通关”-首阶段每日5000配额](http://m.china.caixin.com/m/2020-11-11/101626056.html) ![](assets/new.png)  
+- [2020-11-10-【境内疫情观察】安徽新增1例本土确诊病例（11月10日）](http://m.database.caixin.com/m/2020-11-11/101626077.html) ![](assets/new.png)  
+- [2020-11-10-大流行手记|11月10日：中国疫苗巴西临床试验受阻-拜登成立抗疫委员会](https://m.caixin.com/m/2020-11-11/101625933.html) ![](assets/new.png)  
+- [2020-11-10-欧美每日新增约40万新冠病例-第四季复苏前景黯淡](http://m.international.caixin.com/m/2020-11-11/101626377.html) ![](assets/new.png)  
+- [2020-11-10-【图集】安徽阜阳颍上县确诊1例上海关联新冠肺炎病例](http://m.photos.caixin.com/m/2020-11-11/101625941.html) ![](assets/new.png)  
+- [2020-11-09-安徽阜阳确诊1例新冠病例-系上海确诊病例密接者](https://m.caixin.com/m/2020-11-10/101625593.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -433,6 +453,11 @@
 </summary>
 
 
+- [2020-11-15-基于-Serverless-的-Valine-可能并没有那么香](https://juejin.im/post/6895513856228261896) ![](assets/new.png)  
+- [2020-11-15-postMessage-还能这样玩](https://juejin.im/post/6895502625970585607) ![](assets/new.png)  
+- [2020-11-15-阿里巴巴-CRO-技术部大前端团队](https://juejin.im/post/6895410742175596551) ![](assets/new.png)  
+- [2020-11-15-阿里巴巴-CRO-技术部大前端团队招聘](https://juejin.im/post/6895398841990774798) ![](assets/new.png)  
+- [2020-11-15-潮流前端周刊（第10期）](https://juejin.im/post/6895386333225680909) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -508,6 +533,13 @@
 </summary>
 
 
+- [2020-11-16-想买个特别特别特别舒适的无线降噪耳机哪个好？](https://www.v2ex.com/t/725606) ![](assets/new.png)  
+- [2020-11-16-升级-macOS-Big-Sur-以后，“睡眠”时合上-MacBook-也会唤醒外接显示器了？](https://www.v2ex.com/t/725605) ![](assets/new.png)  
+- [2020-11-16-12-mini-有点想退货](https://www.v2ex.com/t/725604) ![](assets/new.png)  
+- [2020-11-16-big-sur-我发现一个-bug，每次我修改桌面壁纸之后重启电脑壁纸都会被修改成默认的那个，非常红，看起来非常的闪眼睛](https://www.v2ex.com/t/725603) ![](assets/new.png)  
+- [2020-11-16-没正儿八经用过果本，双-11-买了台小新-pro-13，感觉真香](https://www.v2ex.com/t/725602) ![](assets/new.png)  
+- [2020-11-16-现在怎么入手非国行的-iPhone-比较靠谱？](https://www.v2ex.com/t/725599) ![](assets/new.png)  
+- [2020-11-16-关于睡眠，躺下后思维异常活跃难以入眠怎么办，有什么好的助眠方法](https://www.v2ex.com/t/725598) ![](assets/new.png)  
 - [2020-11-16-有熟悉法律的-V2er-知道公司合同期未到离职要按合同赔偿吗？](https://www.v2ex.com/t/725597) ![](assets/new.png)  
 - [2020-11-16-有什么好的剪切板工具？](https://www.v2ex.com/t/725596) ![](assets/new.png)  
 - [2020-11-16-iPhone12-一晚待机从-91%掉到-84%-这电量是崩了吗？](https://www.v2ex.com/t/725594) ![](assets/new.png)  
@@ -521,13 +553,6 @@
 - [2020-11-15-预出罗技-Master-3-碳黑、WD-MyBook-8T，-Dell-4K-2720QM](https://www.v2ex.com/t/725586) ![](assets/new.png)  
 - [2020-11-15-6-号下单-12pm-要-24-号发货，-nnd-啥情况](https://www.v2ex.com/t/725585) ![](assets/new.png)  
 - [2020-11-15-win10-20h2-上-vmware16-启用-WHP-之后跑-Win10-虚拟机很卡同样是-20h2](https://www.v2ex.com/t/725584) ![](assets/new.png)  
-- [2020-11-15-升级-Big-Sur-后-VS-Code-主题失效居然是因为-Source-Code-Pro-字体？](https://www.v2ex.com/t/725583) ![](assets/new.png)  
-- [2020-11-15-VSCode-有没有计算-coding-用时的插件？](https://www.v2ex.com/t/725582) ![](assets/new.png)  
-- [2020-11-15-Apple-ID-问题，不想买不支持本地账户的设备](https://www.v2ex.com/t/725581) ![](assets/new.png)  
-- [2020-11-15-求助，滨江网易附近有什么靠谱的小区](https://www.v2ex.com/t/725579) ![](assets/new.png)  
-- [2020-11-15-年底了，应该也是更种大会要开的时候了吧，不过还是有点期待-2020-aws-re-invent](https://www.v2ex.com/t/725577) ![](assets/new.png)  
-- [2020-11-15-求助-chrome-“警告：有人试图使用您的密码登录您帐号，-Google-已阻止了这项可疑操作。”-如何消除](https://www.v2ex.com/t/725576) ![](assets/new.png)  
-- [2020-11-15-一眼望去全都是-MacOS-Apple-的主题](https://www.v2ex.com/t/725575) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,21 +600,21 @@
 - [2020-11-16-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
 - [2020-11-16-分布式事务方案：SAGA-模式](https://toutiao.io/k/5oci732) ![](assets/new.png)  
 - [2020-11-16-前端如何突破技术与业务的瓶颈：Shopee-一年半记](https://toutiao.io/k/0cgbfwn) ![](assets/new.png)  
-- [2020-11-16-Apache-Flink-CDC-简介与使用](https://toutiao.io/k/lta0kse) ![](assets/new.png)  
 - [2020-11-16-多角度审视推荐系统](https://toutiao.io/k/4qkf3s2) ![](assets/new.png)  
 - [2020-11-16-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
 - [2020-11-16-小程序-云开发：如何对敏感词进行过滤即内容安全的检测（上）](https://toutiao.io/k/i8zq8p9) ![](assets/new.png)  
-- [2020-11-16-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-16-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
-- [2020-11-16-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
-- [2020-11-16-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-16-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-16-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-16-Apache-Flink-CDC-简介与使用](https://toutiao.io/k/lta0kse) ![](assets/new.png)  
+- [2020-11-16-大数据学习路线](https://toutiao.io/k/8jn7g0f) ![](assets/new.png)  
+- [2020-11-16-聊聊单元测试](https://toutiao.io/k/l74vbfw) ![](assets/new.png)  
+- [2020-11-16-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-16-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
 - [2020-11-16-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-16-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-16-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-16-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-16-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
 - [2020-11-16-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-16-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-16-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-16-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
+- [2020-11-16-推荐-25-张图让你彻底掌握分布式事务原理](https://toutiao.io/k/gfxnfbk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

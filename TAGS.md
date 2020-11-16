@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-16 03:23:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-16 03:33:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -302,7 +302,6 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】Apple-Silicon-M1-虚拟化-X86-性能超所有-INTEL-MAC](https://www.v2ex.com/t/725680)
 - [【V2EX】苹果的-M1-看测评性能超过-i9-甚至志强，功耗还低，这个有点太夸张了，是“定向”测试还是真的技术碾压？-有点颠覆](https://www.v2ex.com/t/725671)
-- [【V2EX】MacOS-BigSur-是自动判断硬件性能并进行自动设定的吧](https://www.v2ex.com/t/725649)
 - [【开发者头条】优化-Python-错误信息显示效果](https://toutiao.io/k/lw7oh6n)
 - [【开发者头条】推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -411,7 +410,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
-- [【开发者头条】推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no)
+- [【开发者头条】推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2)
 - [【安全热点】【美团招聘】冬季专场Vol.1~这13个岗位热招中!](https://sec.thief.one/article_content?a_id=0c94c23144faca42b66f855299c0988d)
 - [【安全热点】招聘-|-上海埃帕信息科技有限公司](https://sec.thief.one/article_content?a_id=b64567b976b9fa210b3a50d12fc1ca55)
 - [......【查看更多】......](./details/tags/job-interview.md)

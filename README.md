@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 03:23:02，:rocket: 更新条数: +3074， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 03:33:06，:rocket: 更新条数: +3074， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-16-​墨西哥累计确诊新冠肺炎病例1006522例-死亡病例上升到98542例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikggb5Tog5R0wm7QWrpzG201116&isfromapp=1) ![](assets/new.png)  
+- [2020-11-16-津发布学校幼儿园疫情防控新要求-大型室内聚集性活动非必要不组织](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirImFLFMYPfDHTGv6Xh5K201116&isfromapp=1) ![](assets/new.png)  
 - [2020-11-16-​阿尔及利亚再次收紧疫情防控管制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibwbvSRTMfpdiKI427MFv201116&isfromapp=1) ![](assets/new.png)  
 - [2020-11-16-国家卫健委：15日新增新冠肺炎确诊病例8例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihhYzUTGZhEYx9KEMIcut201116&isfromapp=1) ![](assets/new.png)  
 - [2020-11-15-世界周刊丨德美新冠疫苗有效性超90%？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidO6NIykdd5tyTs3TbD7V201116&isfromapp=1) ![](assets/new.png)  
-- [2020-11-15-英国首相约翰逊因接触新冠病毒检测呈阳性患者需自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiicfv2mOsAMuQhuuBQGv201116&isfromapp=1) ![](assets/new.png)  
-- [2020-11-15-世卫组织：全球新冠肺炎确诊病例超过5376万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimPqhK4POMRJDEHwT9rUO201116&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-16-周活-30-万月活-100-万的站-adsense-收入多少？](https://www.v2ex.com/t/725702) ![](assets/new.png)  
+- [2020-11-16-想做一款协同类应用，技术上有什么要求？](https://www.v2ex.com/t/725701) ![](assets/new.png)  
+- [2020-11-16-收到广西老表双-11-寄来的快递，猜猜是啥？](https://www.v2ex.com/t/725700) ![](assets/new.png)  
 - [2020-11-16-求问各位大佬，现在有什么检测硬盘故障的开源项目吗。目前在做的是运维开发，需要对硬盘进行监测。](https://www.v2ex.com/t/725698) ![](assets/new.png)  
 - [2020-11-16-一个导出百度文库文档为原始-PDF-文件的-Google-插件，需要自取](https://www.v2ex.com/t/725697) ![](assets/new.png)  
 - [2020-11-16-windows-下如何挂载超过-26-个-NFS-盘？](https://www.v2ex.com/t/725696) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-16-为什么-epoll-不支持本地文件（磁盘-io），但是-kqueue-支持？](https://www.v2ex.com/t/725683) ![](assets/new.png)  
 - [2020-11-16-如何创建自己的-text-objects：一个简单教程。](https://www.v2ex.com/t/725682) ![](assets/new.png)  
 - [2020-11-16-大家用剪切板软件的场景多吗？](https://www.v2ex.com/t/725681) ![](assets/new.png)  
-- [2020-11-16-Apple-Silicon-M1-虚拟化-X86-性能超所有-INTEL-MAC](https://www.v2ex.com/t/725680) ![](assets/new.png)  
-- [2020-11-16-django有个问题向大家讨论一下](https://www.v2ex.com/t/725679) ![](assets/new.png)  
-- [2020-11-16-招募-Remote-RN-Dev](https://www.v2ex.com/t/725677) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -613,8 +613,8 @@
 - [2020-11-16-如何自定义一个-Gradle-任务](https://toutiao.io/k/ovtmqk6) ![](assets/new.png)  
 - [2020-11-16-图像隐写技术-Image-Steganography](https://toutiao.io/k/ub21te4) ![](assets/new.png)  
 - [2020-11-16-优化-Python-错误信息显示效果](https://toutiao.io/k/lw7oh6n) ![](assets/new.png)  
-- [2020-11-16-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-16-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-16-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-16-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

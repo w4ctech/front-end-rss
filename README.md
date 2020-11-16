@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 09:04:26，:rocket: 更新条数: +3073， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 09:11:50，:rocket: 更新条数: +3074， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
+- [2020-11-16-NestJS-7.x-折腾记:-6-异常过滤器,取其精华去其糟粕!比如响应异常数据的包装~](https://juejin.im/post/6895645583986720781) ![](assets/new.png)  
 - [2020-11-16-利用思维导图带你阅读Vue源码](https://juejin.im/post/6895637829389385736) ![](assets/new.png)  
 - [2020-11-16-虚拟dom的原理与diff算法](https://juejin.im/post/6895631248572547080) ![](assets/new.png)  
 - [2020-11-16-前端工程化-React-项目搭建](https://juejin.im/post/6895631964062580743) ![](assets/new.png)  
 - [2020-11-16-TypeScript的索引类型与映射类型，以及常用工具泛型的实现](https://juejin.im/post/6895630169118572552) ![](assets/new.png)  
-- [2020-11-15-10个有用的HTML文件上传技巧](https://juejin.im/post/6895626986552000525) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-16-Bug-Sur-升级感受，变砖，死机，-CPU-温度变低，更流畅？](https://www.v2ex.com/t/725865) ![](assets/new.png)  
+- [2020-11-16-想知道目前-V2EX-上有多少人在找开发工作？](https://www.v2ex.com/t/725864) ![](assets/new.png)  
+- [2020-11-16-请问萌新在腾讯云挂的服务器中-docker-的-redis-中病毒呢，-pid-一直变怎么处理](https://www.v2ex.com/t/725863) ![](assets/new.png)  
+- [2020-11-16-Big-Sur-崩溃重启！](https://www.v2ex.com/t/725862) ![](assets/new.png)  
 - [2020-11-16-开源软件里哪个知识库系统能够满足类似-confluence-的功能？](https://www.v2ex.com/t/725861) ![](assets/new.png)  
 - [2020-11-16-vue-如何将父组件接收的-props-直接全部扔给子组件？](https://www.v2ex.com/t/725860) ![](assets/new.png)  
 - [2020-11-16-职场内推岗位来啦](https://www.v2ex.com/t/725859) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-16-微信小程序请求后端-api-采用-ras-非对称加密-，如何防止小程序代码里面的公钥被人拿到？](https://www.v2ex.com/t/725843) ![](assets/new.png)  
 - [2020-11-16-HCaaS-招募代理](https://www.v2ex.com/t/725842) ![](assets/new.png)  
 - [2020-11-16-微服务架构权限验证系统除了-oauth2-外还有哪些解决方案？](https://www.v2ex.com/t/725841) ![](assets/new.png)  
-- [2020-11-16-一个关于视屏压缩的问题](https://www.v2ex.com/t/725840) ![](assets/new.png)  
-- [2020-11-16-逸招聘-后端岗位来啦~-后端工程师（远程支持）](https://www.v2ex.com/t/725839) ![](assets/new.png)  
-- [2020-11-16-Big-Sur-里自动切换显卡的奇怪逻辑-or-bug？](https://www.v2ex.com/t/725838) ![](assets/new.png)  
-- [2020-11-16-XDM-帮帮忙-Rocksdb-编译问题](https://www.v2ex.com/t/725837) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-16-大促场景系统稳定性保障实践经验分享-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13951&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778248%3Futm_content%3Dg_1000205300%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-2020双十一，阿里云GRTN拉开直播和RTC技术下半场的序幕-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13950&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778264%3Futm_content%3Dg_1000205299%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-深入解析-Flink-的算子链机制-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13949&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778209%3Futm_content%3Dg_1000205298%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-淘宝直播在冲刺最复杂的人工智能技术！-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13948&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778213%3Futm_content%3Dg_1000205297%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-16-带你全面认识-Linux-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13934&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZek54lbbJYiakHK_sc6Prw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-Flink-+-强化学习搭建实时推荐系统-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13933&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778150%3Futm_content%3Dg_1000204973%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-云原生实时数仓首次在2020双11核心数据场景落地-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13932&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778177%3Futm_content%3Dg_1000204972%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-16-大数据时代，如何用数据驱动精准营销-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13931&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778184%3Futm_content%3Dg_1000204971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

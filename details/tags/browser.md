@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-16 12:47:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-16 13:03:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,9 +22,11 @@
 - [2020-02-06-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2020-11-16-77.9K-Star-的-Axios-项目如何优雅实现请求重试](https://juejin.im/post/6895702603003330573) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-16-Linux-后台开发常用调试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-16-中小企业信息安全建设开荒经验分享](https://toutiao.io/k/xd27gz1) 
+- [2020-11-16-AIoT安全峰会议题回顾|黑灯:“手机-*-AIoT”-智能安全评估](https://sec.thief.one/article_content?a_id=34e2d1edbb4d58952faeb7c20b9fc1a4) 
 - [2020-11-16-国内首家!工信部为大连海事大学-奇安信船舶网络安全实验室授牌](https://sec.thief.one/article_content?a_id=76f31488ecf5544541fac786b9494fb0) 
 - [2020-11-16-《CCSIP-2020中国网络安全产业全景图》正式发布-|-FreeBuf咨询](https://sec.thief.one/article_content?a_id=005edfbf1e80fad1eecfc5cc9371f9ce) 
 - [2020-11-16-招聘-|-加入安全客的机会来啦~](https://sec.thief.one/article_content?a_id=8bd568e30a67b287b73c5003e56a90a7) 
@@ -47,4 +49,3 @@
 - [2020-11-13-业内最多!奇安信六大项目入围2020工信部网络安全技术应用试点示范...](https://sec.thief.one/article_content?a_id=fbc7a66db3a435d80fd612127644f8b0) 
 - [2020-11-13-分享-|-收藏的几个安全类公众号](https://sec.thief.one/article_content?a_id=30ac15e962a5fc31b2e62241559960e4) 
 - [2020-11-13-携程SRC安全漏洞评分标准升级](https://sec.thief.one/article_content?a_id=a83290ec70eba026a47ce0b834433e28) 
-- [2020-11-13-浏览器的本地数据加密机制分析](https://sec.thief.one/article_content?a_id=36dbf6bdb963e1a66450f99415446135) 

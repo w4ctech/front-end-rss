@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 23:10:10，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 23:19:10，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-16-2021年澳网所有比赛举办地仍未确定-球员抵达之后需进行14天的强制隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJLzWrWl6LYcQWBwIkkmf201117&isfromapp=1) ![](assets/new.png)  
+- [2020-11-16-伊朗新增13053例新冠肺炎确诊病例-计划实施全国限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDsGVegVzCAxz8BScbpey201117&isfromapp=1) ![](assets/new.png)  
+- [2020-11-16-谭德塞过去两周未出现新冠肺炎症状-已结束隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia94kYGpwG0DLw7nf7xra201117&isfromapp=1) ![](assets/new.png)  
 - [2020-11-16-环球深观察丨确诊病例不到一周又增百万-多重对立炙烤疫情下的美国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB6Xm8Z0cZWZ2hD5GbuMC201116&isfromapp=1) ![](assets/new.png)  
 - [2020-11-16-加沙地带卫生机构：医院将无法接收更多的新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE7nA47wJY4FlBXw1KL9Q201116&isfromapp=1) ![](assets/new.png)  
-- [2020-11-16-浙江将进一步完善新冠肺炎疫情“人物并防”措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisG09zVscarxChFfUqGWx201116&isfromapp=1) ![](assets/new.png)  
-- [2020-11-16-​墨西哥累计确诊新冠肺炎病例1006522例-死亡病例上升到98542例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikggb5Tog5R0wm7QWrpzG201116&isfromapp=1) ![](assets/new.png)  
-- [2020-11-16-津发布学校幼儿园疫情防控新要求-大型室内聚集性活动非必要不组织](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirImFLFMYPfDHTGv6Xh5K201116&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-16-疑惑-夜间实测-iPhone-12-Pro-Max-拍摄（录像）只有-30-帧才会支持“夜景模式”](https://www.v2ex.com/t/726003) ![](assets/new.png)  
 - [2020-11-16-新系统，你们遇到小键盘打不出数字出来吗？](https://www.v2ex.com/t/726002) ![](assets/new.png)  
 - [2020-11-16-M1-macbook-pro-R23-跑分-7508](https://www.v2ex.com/t/726001) ![](assets/new.png)  
 - [2020-11-16-给大家一个升级-Big-Sur-的理由，-mail.app-使用-gmail-不再弹出了](https://www.v2ex.com/t/726000) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-16-加班辛苦，摸个鱼放松一下](https://www.v2ex.com/t/725984) ![](assets/new.png)  
 - [2020-11-16-日系女声-Piano-Songs，求推荐](https://www.v2ex.com/t/725982) ![](assets/new.png)  
 - [2020-11-16-Windows-沙盒运行代理，代理报错](https://www.v2ex.com/t/725981) ![](assets/new.png)  
-- [2020-11-16-捡垃圾真香，折腾一台-300-块的-iPhone7](https://www.v2ex.com/t/725980) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

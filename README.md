@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 13:11:07，:rocket: 更新条数: +3076， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 13:20:10，:rocket: 更新条数: +3078， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,9 +65,11 @@
 
 
 - [2020-11-15-最新疫情：全国新冠累计确诊86346例-境外输入新增8例](https://m.caixin.com/m/2020-11-16/101628854.html) ![](assets/new.png)  
-- [2020-11-15-厦门1份进口冷冻猪肉外包装核酸检测阳性-未流入市场](https://m.caixin.com/m/2020-11-16/101628582.html) ![](assets/new.png)  
-- [2020-11-15-上海：高风险进口冷链食品入沪将进行核酸检测和外包装消毒](https://m.caixin.com/m/2020-11-16/101628578.html) ![](assets/new.png)  
+- [2020-11-15-多地进口冷链包装检出新冠阳性-交通部发文加强冷链运输防控](http://m.companies.caixin.com/m/2020-11-16/101628925.html) ![](assets/new.png)  
+- [2020-11-15-又一新冠mRNA疫苗开启中国临床试验-其他疫苗进展如何？](https://m.caixin.com/m/2020-11-16/101628915.html) ![](assets/new.png)  
 - [2020-11-15-最新海外疫情：新冠感染近5428万-累计死亡超131万](https://m.caixin.com/m/2020-11-16/101628857.html) ![](assets/new.png)  
+- [2020-11-15-上海：高风险进口冷链食品入沪将进行核酸检测和外包装消毒](https://m.caixin.com/m/2020-11-16/101628578.html) ![](assets/new.png)  
+- [2020-11-15-厦门1份进口冷冻猪肉外包装核酸检测阳性-未流入市场](https://m.caixin.com/m/2020-11-16/101628582.html) ![](assets/new.png)  
 - [2020-11-15-【境内疫情观察】全国新增8例境外输入病例（11月15日）](http://m.database.caixin.com/m/2020-11-16/101628695.html) ![](assets/new.png)  
 - [2020-11-15-大流行手记|11月15日：希腊水貂检出新冠病毒-特朗普疫苗分配计划引质疑](https://m.caixin.com/m/2020-11-16/101628565.html) ![](assets/new.png)  
 - [2020-11-14-【境内疫情观察】全国新增13例境外输入病例（11月14日）](http://m.database.caixin.com/m/2020-11-15/101628411.html) ![](assets/new.png)  
@@ -82,8 +84,6 @@
 - [2020-11-11-日本忧第三波疫情袭来-北海道入冬病例又激增](http://m.international.caixin.com/m/2020-11-12/101626896.html) ![](assets/new.png)  
 - [2020-11-10-香港启动“单向通关”-首阶段每日5000配额](http://m.china.caixin.com/m/2020-11-11/101626056.html) ![](assets/new.png)  
 - [2020-11-10-【境内疫情观察】安徽新增1例本土确诊病例（11月10日）](http://m.database.caixin.com/m/2020-11-11/101626077.html) ![](assets/new.png)  
-- [2020-11-10-大流行手记|11月10日：中国疫苗巴西临床试验受阻-拜登成立抗疫委员会](https://m.caixin.com/m/2020-11-11/101625933.html) ![](assets/new.png)  
-- [2020-11-10-欧美每日新增约40万新冠病例-第四季复苏前景黯淡](http://m.international.caixin.com/m/2020-11-11/101626377.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-16-印度区油管开车，差两位](https://www.v2ex.com/t/725954) ![](assets/new.png)  
 - [2020-11-16-如何给-GTK/QT-的程序提定配色方案](https://www.v2ex.com/t/725953) ![](assets/new.png)  
 - [2020-11-16-字节跳动-火山引擎-智能推荐，有算法工程师、机器学习平台、系统架构研发等方向的-HC](https://www.v2ex.com/t/725952) ![](assets/new.png)  
 - [2020-11-16-轮到我了，刚刚房东敲门，让我一周内搬走](https://www.v2ex.com/t/725951) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-16-阿里内推-年底大量招人，需要的请进来看看](https://www.v2ex.com/t/725936) ![](assets/new.png)  
 - [2020-11-16-迫于会员到期，收个年费腾讯会员](https://www.v2ex.com/t/725935) ![](assets/new.png)  
 - [2020-11-16-一直听网友们安利.net-core，想学一下](https://www.v2ex.com/t/725934) ![](assets/new.png)  
-- [2020-11-16-千元以下，有符合-轻-小-无线（2.4g-蓝牙均可）这三点要求的罗技鼠标吗？](https://www.v2ex.com/t/725933) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

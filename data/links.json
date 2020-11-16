@@ -10,8 +10,18 @@
         "date": "2020-11-15"
       },
       {
-        "title": "厦门1份进口冷冻猪肉外包装核酸检测阳性 未流入市场",
-        "link": "https://m.caixin.com/m/2020-11-16/101628582.html",
+        "title": "多地进口冷链包装检出新冠阳性  交通部发文加强冷链运输防控",
+        "link": "http://m.companies.caixin.com/m/2020-11-16/101628925.html",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "又一新冠mRNA疫苗开启中国临床试验 其他疫苗进展如何？",
+        "link": "https://m.caixin.com/m/2020-11-16/101628915.html",
+        "date": "2020-11-15"
+      },
+      {
+        "title": "最新海外疫情：新冠感染近5428万 累计死亡超131万",
+        "link": "https://m.caixin.com/m/2020-11-16/101628857.html",
         "date": "2020-11-15"
       },
       {
@@ -20,8 +30,8 @@
         "date": "2020-11-15"
       },
       {
-        "title": "最新海外疫情：新冠感染近5428万 累计死亡超131万",
-        "link": "https://m.caixin.com/m/2020-11-16/101628857.html",
+        "title": "厦门1份进口冷冻猪肉外包装核酸检测阳性 未流入市场",
+        "link": "https://m.caixin.com/m/2020-11-16/101628582.html",
         "date": "2020-11-15"
       },
       {
@@ -14628,6 +14638,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "印度区油管开车，差两位",
+        "link": "https://www.v2ex.com/t/725954",
+        "date": "2020-11-16"
+      },
+      {
         "title": "如何给 GTK/QT 的程序提定配色方案",
         "link": "https://www.v2ex.com/t/725953",
         "date": "2020-11-16"
@@ -14825,11 +14840,6 @@
       {
         "title": "iOS 上有啥好用的本地音频播放器吗?",
         "link": "https://www.v2ex.com/t/725905",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "Akkocloud 美国德国 CN2 GIA 云服务器出售 年付只需 299/年",
-        "link": "https://www.v2ex.com/t/725904",
         "date": "2020-11-16"
       }
     ]
@@ -15047,43 +15057,8 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-16"
-      },
-      {
         "title": "[推荐] Docker 底层原理浅析",
         "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-16"
       },
       {
@@ -15097,28 +15072,63 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
         "date": "2020-11-16"
       },
       {
         "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
         "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-16"
       }
     ]

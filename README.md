@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 02:13:28，:rocket: 更新条数: +3064， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 02:23:53，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-16-淋浴房的地漏堵了，疏通剂什么牌子有效？](https://www.v2ex.com/t/725652) ![](assets/new.png)  
+- [2020-11-16-闲鱼上看到一台主机，大家觉得便宜吗](https://www.v2ex.com/t/725651) ![](assets/new.png)  
 - [2020-11-16-MacOS-BigSur-是自动判断硬件性能并进行自动设定的吧](https://www.v2ex.com/t/725649) ![](assets/new.png)  
 - [2020-11-16-感觉在深圳什么地方都逃不过-"铛铛铛铛铛..."的声音](https://www.v2ex.com/t/725648) ![](assets/new.png)  
 - [2020-11-16-SublimeREPL-输出换行很怪异](https://www.v2ex.com/t/725647) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-16-苹果开发者收款，银行要什么协议](https://www.v2ex.com/t/725631) ![](assets/new.png)  
 - [2020-11-16-求助！selenium-切换窗口时无法捕获-alert](https://www.v2ex.com/t/725630) ![](assets/new.png)  
 - [2020-11-16-magic-api：-Java-后端开发者的福音，接口开发利器](https://www.v2ex.com/t/725629) ![](assets/new.png)  
-- [2020-11-16-求分享-416-的衍生问题的解题思路](https://www.v2ex.com/t/725628) ![](assets/new.png)  
-- [2020-11-16-请问在-MacOS-最新版-BigSur-中，有哪些-app-可以代替-contexts](https://www.v2ex.com/t/725627) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -610,11 +610,11 @@
 - [2020-11-16-译-图解：宏观角度看-Go-语言如何实现垃圾回收中的-Stop-the-World](https://toutiao.io/k/oe57im5) ![](assets/new.png)  
 - [2020-11-16-Volcano-设计原理全面解读，一看就懂](https://toutiao.io/k/upfzd3c) ![](assets/new.png)  
 - [2020-11-16-中小企业信息安全建设开荒经验分享](https://toutiao.io/k/xd27gz1) ![](assets/new.png)  
-- [2020-11-16-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-16-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-16-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-16-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-16-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
-- [2020-11-16-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-16-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-16-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-16-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

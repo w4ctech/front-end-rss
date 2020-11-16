@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 01:40:06，:rocket: 更新条数: +3063， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 01:48:11，:rocket: 更新条数: +3064， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-16-​阿尔及利亚再次收紧疫情防控管制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibwbvSRTMfpdiKI427MFv201116&isfromapp=1) ![](assets/new.png)  
+- [2020-11-16-国家卫健委：15日新增新冠肺炎确诊病例8例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihhYzUTGZhEYx9KEMIcut201116&isfromapp=1) ![](assets/new.png)  
 - [2020-11-15-世界周刊丨德美新冠疫苗有效性超90%？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidO6NIykdd5tyTs3TbD7V201116&isfromapp=1) ![](assets/new.png)  
 - [2020-11-15-英国首相约翰逊因接触新冠病毒检测呈阳性患者需自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiicfv2mOsAMuQhuuBQGv201116&isfromapp=1) ![](assets/new.png)  
 - [2020-11-15-世卫组织：全球新冠肺炎确诊病例超过5376万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimPqhK4POMRJDEHwT9rUO201116&isfromapp=1) ![](assets/new.png)  
-- [2020-11-15-美传染病专家福奇认为需实施全国性政策-强制国民佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilSpa0HlLUoqPwQNLsSYv201116&isfromapp=1) ![](assets/new.png)  
-- [2020-11-15-肯尼亚超30名医护死于新冠肺炎-一线卫生工作者要求改善工作条件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVavZ1V05NCLRRFIe6VNs201115&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,12 @@
 </summary>
 
 
+- [2020-11-16-苹果开发者收款，银行要什么协议](https://www.v2ex.com/t/725631) ![](assets/new.png)  
+- [2020-11-16-求助！selenium-切换窗口时无法捕获-alert](https://www.v2ex.com/t/725630) ![](assets/new.png)  
+- [2020-11-16-magic-api：-Java-后端开发者的福音，接口开发利器](https://www.v2ex.com/t/725629) ![](assets/new.png)  
+- [2020-11-16-求分享-416-的衍生问题的解题思路](https://www.v2ex.com/t/725628) ![](assets/new.png)  
+- [2020-11-16-请问在-MacOS-最新版-BigSur-中，有哪些-app-可以代替-contexts](https://www.v2ex.com/t/725627) ![](assets/new.png)  
+- [2020-11-16-论坛里的百度网盘共享账号在哪里买的？搜索功能怎么都搜不到？](https://www.v2ex.com/t/725626) ![](assets/new.png)  
 - [2020-11-16-谈一谈升级后的感受](https://www.v2ex.com/t/725624) ![](assets/new.png)  
 - [2020-11-16-iphone12-pro-max-绿屏没跑了。厨子刀法这么精湛，产品不怎么滴啊。](https://www.v2ex.com/t/725623) ![](assets/new.png)  
 - [2020-11-16-对-dp-的实际价值的怀疑?](https://www.v2ex.com/t/725619) ![](assets/new.png)  
@@ -547,12 +553,6 @@
 - [2020-11-16-12-mini-有点想退货](https://www.v2ex.com/t/725604) ![](assets/new.png)  
 - [2020-11-16-big-sur-我发现一个-bug，每次我修改桌面壁纸之后重启电脑壁纸都会被修改成默认的那个，非常红，看起来非常的闪眼睛](https://www.v2ex.com/t/725603) ![](assets/new.png)  
 - [2020-11-16-没正儿八经用过果本，双-11-买了台小新-pro-13，感觉真香](https://www.v2ex.com/t/725602) ![](assets/new.png)  
-- [2020-11-16-现在怎么入手非国行的-iPhone-比较靠谱？](https://www.v2ex.com/t/725599) ![](assets/new.png)  
-- [2020-11-16-关于睡眠，躺下后思维异常活跃难以入眠怎么办，有什么好的助眠方法](https://www.v2ex.com/t/725598) ![](assets/new.png)  
-- [2020-11-16-有熟悉法律的-V2er-知道公司合同期未到离职要按合同赔偿吗？](https://www.v2ex.com/t/725597) ![](assets/new.png)  
-- [2020-11-16-有什么好的剪切板工具？](https://www.v2ex.com/t/725596) ![](assets/new.png)  
-- [2020-11-16-iPhone12-一晚待机从-91%掉到-84%-这电量是崩了吗？](https://www.v2ex.com/t/725594) ![](assets/new.png)  
-- [2020-11-15-12PM-低亮度屏幕发绿](https://www.v2ex.com/t/725593) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-16-Apache-Flink-CDC-简介与使用](https://toutiao.io/k/lta0kse) ![](assets/new.png)  
 - [2020-11-16-小程序-云开发：如何对敏感词进行过滤即内容安全的检测（上）](https://toutiao.io/k/i8zq8p9) ![](assets/new.png)  
 - [2020-11-16-大数据学习路线](https://toutiao.io/k/8jn7g0f) ![](assets/new.png)  
-- [2020-11-16-聊聊单元测试](https://toutiao.io/k/l74vbfw) ![](assets/new.png)  
-- [2020-11-16-Volcano-设计原理全面解读，一看就懂](https://toutiao.io/k/upfzd3c) ![](assets/new.png)  
-- [2020-11-16-译-图解：宏观角度看-Go-语言如何实现垃圾回收中的-Stop-the-World](https://toutiao.io/k/oe57im5) ![](assets/new.png)  
 - [2020-11-16-三种传递-gRPC-动态参数方式的使用体验](https://toutiao.io/k/3ov45qs) ![](assets/new.png)  
+- [2020-11-16-聊聊单元测试](https://toutiao.io/k/l74vbfw) ![](assets/new.png)  
+- [2020-11-16-译-图解：宏观角度看-Go-语言如何实现垃圾回收中的-Stop-the-World](https://toutiao.io/k/oe57im5) ![](assets/new.png)  
+- [2020-11-16-Volcano-设计原理全面解读，一看就懂](https://toutiao.io/k/upfzd3c) ![](assets/new.png)  
 - [2020-11-16-中小企业信息安全建设开荒经验分享](https://toutiao.io/k/xd27gz1) ![](assets/new.png)  
-- [2020-11-16-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-16-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
-- [2020-11-16-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-16-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-16-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-16-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-16-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-16-推荐-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/rtixudv) ![](assets/new.png)  
+- [2020-11-16-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-16-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

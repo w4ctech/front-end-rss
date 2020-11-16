@@ -14092,6 +14092,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "​阿尔及利亚再次收紧疫情防控管制措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibwbvSRTMfpdiKI427MFv201116&isfromapp=1",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "国家卫健委：15日新增新冠肺炎确诊病例8例 均为境外输入病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihhYzUTGZhEYx9KEMIcut201116&isfromapp=1",
+        "date": "2020-11-16"
+      },
+      {
         "title": "世界周刊丨德美新冠疫苗有效性超90%？",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidO6NIykdd5tyTs3TbD7V201116&isfromapp=1",
         "date": "2020-11-15"
@@ -14104,16 +14114,6 @@
       {
         "title": "世卫组织：全球新冠肺炎确诊病例超过5376万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimPqhK4POMRJDEHwT9rUO201116&isfromapp=1",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "美传染病专家福奇认为需实施全国性政策 强制国民佩戴口罩",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilSpa0HlLUoqPwQNLsSYv201116&isfromapp=1",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "肯尼亚超30名医护死于新冠肺炎 一线卫生工作者要求改善工作条件",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVavZ1V05NCLRRFIe6VNs201115&isfromapp=1",
         "date": "2020-11-15"
       }
     ]
@@ -14623,6 +14623,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "苹果开发者收款，银行要什么协议",
+        "link": "https://www.v2ex.com/t/725631",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[求助！]selenium 切换窗口时无法捕获 alert",
+        "link": "https://www.v2ex.com/t/725630",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "magic-api： Java 后端开发者的福音，接口开发利器",
+        "link": "https://www.v2ex.com/t/725629",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "求分享 416 的衍生问题的解题思路",
+        "link": "https://www.v2ex.com/t/725628",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "请问在 MacOS 最新版 BigSur 中，有哪些 app 可以代替 contexts",
+        "link": "https://www.v2ex.com/t/725627",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "论坛里的百度网盘共享账号在哪里买的？搜索功能怎么都搜不到？",
+        "link": "https://www.v2ex.com/t/725626",
+        "date": "2020-11-16"
+      },
+      {
         "title": "谈一谈升级后的感受",
         "link": "https://www.v2ex.com/t/725624",
         "date": "2020-11-16"
@@ -14765,31 +14795,6 @@
       {
         "title": "升级 Big Sur 后 VS Code 主题失效居然是因为 Source Code Pro 字体？",
         "link": "https://www.v2ex.com/t/725583",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "VSCode 有没有计算 coding 用时的插件？",
-        "link": "https://www.v2ex.com/t/725582",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "Apple ID 问题，不想买不支持本地账户的设备",
-        "link": "https://www.v2ex.com/t/725581",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "求助，滨江网易附近有什么靠谱的小区",
-        "link": "https://www.v2ex.com/t/725579",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "年底了，应该也是更种大会要开的时候了吧，不过还是有点期待 2020 aws re-invent",
-        "link": "https://www.v2ex.com/t/725577",
-        "date": "2020-11-15"
-      },
-      {
-        "title": "求助 chrome “警告：有人试图使用您的密码登录您帐号， Google 已阻止了这项可疑操作。” 如何消除",
-        "link": "https://www.v2ex.com/t/725576",
         "date": "2020-11-15"
       }
     ]
@@ -14957,13 +14962,13 @@
         "date": "2020-11-16"
       },
       {
-        "title": "聊聊单元测试",
-        "link": "https://toutiao.io/k/l74vbfw",
+        "title": "三种传递 gRPC 动态参数方式的使用体验",
+        "link": "https://toutiao.io/k/3ov45qs",
         "date": "2020-11-16"
       },
       {
-        "title": "Volcano 设计原理全面解读，一看就懂",
-        "link": "https://toutiao.io/k/upfzd3c",
+        "title": "聊聊单元测试",
+        "link": "https://toutiao.io/k/l74vbfw",
         "date": "2020-11-16"
       },
       {
@@ -14972,13 +14977,63 @@
         "date": "2020-11-16"
       },
       {
-        "title": "三种传递 gRPC 动态参数方式的使用体验",
-        "link": "https://toutiao.io/k/3ov45qs",
+        "title": "Volcano 设计原理全面解读，一看就懂",
+        "link": "https://toutiao.io/k/upfzd3c",
         "date": "2020-11-16"
       },
       {
         "title": "中小企业信息安全建设开荒经验分享",
         "link": "https://toutiao.io/k/xd27gz1",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-16"
       },
       {
@@ -14992,68 +15047,18 @@
         "date": "2020-11-16"
       },
       {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-16"
+      },
+      {
         "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
         "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-16"
       }
     ]

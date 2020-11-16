@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 01:29:36，:rocket: 更新条数: +3297， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 01:37:31，:rocket: 更新条数: +3297， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-11-15-11月15日全国新增确诊病例8例-均为境外输入病例](https://m.caixin.com/m/2020-11-16/101628557.html) ![](assets/new.png)  
+- [2020-11-15-大流行手记|11月15日：希腊水貂检出新冠病毒-特朗普疫苗分配计划引质疑](https://m.caixin.com/m/2020-11-16/101628565.html) ![](assets/new.png)  
 - [2020-11-14-最新海外疫情：新冠感染超5383万-累计死亡近131万](http://m.international.caixin.com/m/2020-11-15/101628526.html) ![](assets/new.png)  
 - [2020-11-14-【境内疫情观察】全国新增13例境外输入病例（11月14日）](http://m.database.caixin.com/m/2020-11-15/101628411.html) ![](assets/new.png)  
 - [2020-11-14-大流行手记|11月14日：多国明确疫苗接种计划-韩国疫情升温](https://m.caixin.com/m/2020-11-15/101628278.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-10-大流行手记|11月10日：中国疫苗巴西临床试验受阻-拜登成立抗疫委员会](https://m.caixin.com/m/2020-11-11/101625933.html) ![](assets/new.png)  
 - [2020-11-10-欧美每日新增约40万新冠病例-第四季复苏前景黯淡](http://m.international.caixin.com/m/2020-11-11/101626377.html) ![](assets/new.png)  
 - [2020-11-10-【图集】安徽阜阳颍上县确诊1例上海关联新冠肺炎病例](http://m.photos.caixin.com/m/2020-11-11/101625941.html) ![](assets/new.png)  
-- [2020-11-09-安徽阜阳确诊1例新冠病例-系上海确诊病例密接者](https://m.caixin.com/m/2020-11-10/101625593.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,11 +473,11 @@
 </summary>
 
 
+- [2020-11-15-ES2020-系列：可选链-"?."-为啥出现，我们能用它来干啥](https://juejin.im/post/6895518401196720136) ![](assets/new.png)  
 - [2020-11-15-基于-Serverless-的-Valine-可能并没有那么香](https://juejin.im/post/6895513856228261896) ![](assets/new.png)  
 - [2020-11-15-postMessage-还能这样玩](https://juejin.im/post/6895502625970585607) ![](assets/new.png)  
 - [2020-11-15-阿里巴巴-CRO-技术部大前端团队](https://juejin.im/post/6895410742175596551) ![](assets/new.png)  
 - [2020-11-15-阿里巴巴-CRO-技术部大前端团队招聘](https://juejin.im/post/6895398841990774798) ![](assets/new.png)  
-- [2020-11-15-潮流前端周刊（第10期）](https://juejin.im/post/6895386333225680909) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-16-谈一谈升级后的感受](https://www.v2ex.com/t/725624) ![](assets/new.png)  
+- [2020-11-16-iphone12-pro-max-绿屏没跑了。厨子刀法这么精湛，产品不怎么滴啊。](https://www.v2ex.com/t/725623) ![](assets/new.png)  
 - [2020-11-16-对-dp-的实际价值的怀疑?](https://www.v2ex.com/t/725619) ![](assets/new.png)  
 - [2020-11-16-有百度贴吧的小伙伴帮忙提下解封需求吗？](https://www.v2ex.com/t/725618) ![](assets/new.png)  
 - [2020-11-16-35-岁的前端程序员是不是更惨](https://www.v2ex.com/t/725617) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-16-有什么好的剪切板工具？](https://www.v2ex.com/t/725596) ![](assets/new.png)  
 - [2020-11-16-iPhone12-一晚待机从-91%掉到-84%-这电量是崩了吗？](https://www.v2ex.com/t/725594) ![](assets/new.png)  
 - [2020-11-15-12PM-低亮度屏幕发绿](https://www.v2ex.com/t/725593) ![](assets/new.png)  
-- [2020-11-15-开源项目：-GPU-实时光流法补帧](https://www.v2ex.com/t/725592) ![](assets/new.png)  
-- [2020-11-15-醉了，为啥我的-macbook-pro2018-无法升级最新系统](https://www.v2ex.com/t/725591) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -622,19 +622,19 @@
 - [2020-11-16-前端如何突破技术与业务的瓶颈：Shopee-一年半记](https://toutiao.io/k/0cgbfwn) ![](assets/new.png)  
 - [2020-11-16-刨根问底，Kafka-消息中间件到底会不会丢消息](https://toutiao.io/k/17q9ijl) ![](assets/new.png)  
 - [2020-11-16-多角度审视推荐系统](https://toutiao.io/k/4qkf3s2) ![](assets/new.png)  
-- [2020-11-16-小程序-云开发：如何对敏感词进行过滤即内容安全的检测（上）](https://toutiao.io/k/i8zq8p9) ![](assets/new.png)  
 - [2020-11-16-Apache-Flink-CDC-简介与使用](https://toutiao.io/k/lta0kse) ![](assets/new.png)  
+- [2020-11-16-小程序-云开发：如何对敏感词进行过滤即内容安全的检测（上）](https://toutiao.io/k/i8zq8p9) ![](assets/new.png)  
 - [2020-11-16-大数据学习路线](https://toutiao.io/k/8jn7g0f) ![](assets/new.png)  
 - [2020-11-16-聊聊单元测试](https://toutiao.io/k/l74vbfw) ![](assets/new.png)  
-- [2020-11-16-译-图解：宏观角度看-Go-语言如何实现垃圾回收中的-Stop-the-World](https://toutiao.io/k/oe57im5) ![](assets/new.png)  
 - [2020-11-16-Volcano-设计原理全面解读，一看就懂](https://toutiao.io/k/upfzd3c) ![](assets/new.png)  
+- [2020-11-16-译-图解：宏观角度看-Go-语言如何实现垃圾回收中的-Stop-the-World](https://toutiao.io/k/oe57im5) ![](assets/new.png)  
 - [2020-11-16-三种传递-gRPC-动态参数方式的使用体验](https://toutiao.io/k/3ov45qs) ![](assets/new.png)  
 - [2020-11-16-中小企业信息安全建设开荒经验分享](https://toutiao.io/k/xd27gz1) ![](assets/new.png)  
-- [2020-11-16-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-16-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-16-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-16-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-16-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-16-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-16-推荐-为什么-Go-占用那么多的虚拟内存？](https://toutiao.io/k/0zyeufv) ![](assets/new.png)  
+- [2020-11-16-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
+- [2020-11-16-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-16-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

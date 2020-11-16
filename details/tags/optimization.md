@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-16 02:04:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-16 02:13:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -11,4 +11,7 @@
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2020-11-15-云音乐搭建平台性能优化实践](https://juejin.im/post/6895535366787465229) 
+- [2020-11-15-【优化】记一次通过工具减少-Git-冲突](https://juejin.im/post/6895534290411454477) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-11-16-MacOS-BigSur-是自动判断硬件性能并进行自动设定的吧](https://www.v2ex.com/t/725649) 
+- [2020-11-16-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 07:21:28，:rocket: 更新条数: +3066， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 07:33:03，:rocket: 更新条数: +3065， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,9 +533,11 @@
 </summary>
 
 
+- [2020-11-16-腾讯新闻前端团队TNFE招聘前端开发工程师](https://www.v2ex.com/t/725808) ![](assets/new.png)  
+- [2020-11-16-快捷备忘-+-文件互传-+-web-与-cli-=-go-send](https://www.v2ex.com/t/725807) ![](assets/new.png)  
+- [2020-11-16-iMac-2013-已经无法升级最新系统了](https://www.v2ex.com/t/725806) ![](assets/new.png)  
 - [2020-11-16-Big-Sur-这么卡，-v-站一堆人在说香？](https://www.v2ex.com/t/725804) ![](assets/new.png)  
 - [2020-11-16-iOS-Transform-坐标变化](https://www.v2ex.com/t/725803) ![](assets/new.png)  
-- [2020-11-16-你们有没有一上地铁就想拉屎的感觉？？?](https://www.v2ex.com/t/725801) ![](assets/new.png)  
 - [2020-11-16-Laravel-实战视频---用-Laravel-写了个论坛，有登陆（Jetstream,-发帖，留言](https://www.v2ex.com/t/725800) ![](assets/new.png)  
 - [2020-11-16-究竟还有谁没买-GTA5？？](https://www.v2ex.com/t/725799) ![](assets/new.png)  
 - [2020-11-16-弄了一个抖音版财务系统TikTok-Design-，大家看像不像](https://www.v2ex.com/t/725798) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-16-抢单外挂违法吗？](https://www.v2ex.com/t/725779) ![](assets/new.png)  
 - [2020-11-16-AI-生成凡尔赛体](https://www.v2ex.com/t/725778) ![](assets/new.png)  
 - [2020-11-16-有什么好用的开源-wiki-框架吗](https://www.v2ex.com/t/725777) ![](assets/new.png)  
-- [2020-11-16-看到一大波-Java-在转大数据，唯有我倒着走?](https://www.v2ex.com/t/725776) ![](assets/new.png)  
-- [2020-11-16-升级完-bigSur-后，无法连接-l2tp-vpn-服务器了，有人遇到过类似问题吗](https://www.v2ex.com/t/725774) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-16-2020双十一，阿里云GRTN拉开直播和RTC技术下半场的序幕-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13950&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778264%3Futm_content%3Dg_1000205299%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-深入解析-Flink-的算子链机制-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13949&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778209%3Futm_content%3Dg_1000205298%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-淘宝直播在冲刺最复杂的人工智能技术！-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13948&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778213%3Futm_content%3Dg_1000205297%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-盒马新零售基于DataWorks搭建数据中台的实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13947&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778172%3Futm_content%3Dg_1000205296%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-16-Flink-+-强化学习搭建实时推荐系统-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13933&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778150%3Futm_content%3Dg_1000204973%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-云原生实时数仓首次在2020双11核心数据场景落地-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13932&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778177%3Futm_content%3Dg_1000204972%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-16-大数据时代，如何用数据驱动精准营销-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13931&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778184%3Futm_content%3Dg_1000204971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-16-阿里雷卷：RSocket从入门到落地，RSocket让AJP换发青春-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13930&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777835%3Futm_content%3Dg_1000204970%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

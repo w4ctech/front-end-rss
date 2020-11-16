@@ -14628,6 +14628,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "腾讯新闻前端团队(TNFE)招聘前端开发工程师",
+        "link": "https://www.v2ex.com/t/725808",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "快捷备忘 + 文件互传 + web 与 cli = go-send",
+        "link": "https://www.v2ex.com/t/725807",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "iMac 2013 已经无法升级最新系统了",
+        "link": "https://www.v2ex.com/t/725806",
+        "date": "2020-11-16"
+      },
+      {
         "title": "Big Sur 这么卡， v 站一堆人在说香？",
         "link": "https://www.v2ex.com/t/725804",
         "date": "2020-11-16"
@@ -14635,11 +14650,6 @@
       {
         "title": "iOS Transform 坐标变化",
         "link": "https://www.v2ex.com/t/725803",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "你们有没有一上地铁就想拉屎的感觉？？?",
-        "link": "https://www.v2ex.com/t/725801",
         "date": "2020-11-16"
       },
       {
@@ -14766,21 +14776,6 @@
         "title": "[房屋直租-深圳] 罗湖布吉路 1 居室整套",
         "link": "https://www.v2ex.com/t/725759",
         "date": "2020-11-16"
-      },
-      {
-        "title": "求助 编译 cmatrix 报错",
-        "link": "https://www.v2ex.com/t/725758",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "对于没了解过 ps 游戏机的小白来说，现在入手 ps4 爽一段时间应该不算 49 入国军吧",
-        "link": "https://www.v2ex.com/t/725757",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "手机没发布的时候就已经全网都知道 12 是直角设计了，为啥还有那么多人买了又说咯手？",
-        "link": "https://www.v2ex.com/t/725756",
-        "date": "2020-11-16"
       }
     ]
   },
@@ -14789,6 +14784,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "2020双十一，阿里云GRTN拉开直播和RTC技术下半场的序幕 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13950&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778264%3Futm_content%3Dg_1000205299%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-16"
+      },
       {
         "title": "深入解析 Flink 的算子链机制 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13949&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778209%3Futm_content%3Dg_1000205298%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14882,11 +14882,6 @@
       {
         "title": "大数据时代，如何用数据驱动精准营销 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13931&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778184%3Futm_content%3Dg_1000204971%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "阿里雷卷：RSocket从入门到落地，RSocket让AJP换发青春 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13930&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777835%3Futm_content%3Dg_1000204970%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-16"
       }
     ]
@@ -14997,23 +14992,18 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-16"
       },
       {
@@ -15022,13 +15012,8 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-16"
       },
       {
@@ -15037,28 +15022,8 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-16"
       },
       {
@@ -15067,8 +15032,38 @@
         "date": "2020-11-16"
       },
       {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-16"
+      },
+      {
         "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
         "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-16"
       }
     ]

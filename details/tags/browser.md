@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-16 12:04:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-16 12:14:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,6 +22,7 @@
 - [2020-02-06-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
+- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-16-下载一加刷机包，碰到两个-Chrome-和-Safari-的问题](https://www.v2ex.com/t/725897) 
 - [2020-11-16-有无和-typora-一模一样-markdown-渲染规则的博客系统？对于-LaTex-部分不能妥协！](https://www.v2ex.com/t/725896) 
 - [2020-11-16-Linux-后台开发常用调试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

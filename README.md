@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 05:20:57，:rocket: 更新条数: +3056， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 05:33:12，:rocket: 更新条数: +3068， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,6 +533,8 @@
 </summary>
 
 
+- [2020-11-16-基于我闺女的新兴趣爱好，准备搞个书画作品防伪溯源交易平台。](https://www.v2ex.com/t/725750) ![](assets/new.png)  
+- [2020-11-16-快手社招全能内推~](https://www.v2ex.com/t/725748) ![](assets/new.png)  
 - [2020-11-16-如何更新-Catalina-小版本而不升级-Big-Sur？](https://www.v2ex.com/t/725745) ![](assets/new.png)  
 - [2020-11-16-如何设计微信公众号头像](https://www.v2ex.com/t/725744) ![](assets/new.png)  
 - [2020-11-16-脉脉牛-B，这个-api-明文下发了从你手机上采集的通讯录](https://www.v2ex.com/t/725742) ![](assets/new.png)  
@@ -541,8 +553,6 @@
 - [2020-11-16-go-zero-这个微服务框架听说好不错](https://www.v2ex.com/t/725722) ![](assets/new.png)  
 - [2020-11-16-连-01-背包都看不懂,-零钱兑换都不会，还能继续走-Coding-这条路吗](https://www.v2ex.com/t/725721) ![](assets/new.png)  
 - [2020-11-16-搞了个公众号聊投资认知的](https://www.v2ex.com/t/725720) ![](assets/new.png)  
-- [2020-11-16-后-go-micro-时代，大家怎么玩？](https://www.v2ex.com/t/725719) ![](assets/new.png)  
-- [2020-11-16-有对投资理财感兴趣的小伙伴吗？](https://www.v2ex.com/t/725718) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -598,13 +608,13 @@
 - [2020-11-16-Apache-Flink-CDC-简介与使用](https://toutiao.io/k/lta0kse) ![](assets/new.png)  
 - [2020-11-16-三种传递-gRPC-动态参数方式的使用体验](https://toutiao.io/k/3ov45qs) ![](assets/new.png)  
 - [2020-11-16-译-图解：宏观角度看-Go-语言如何实现垃圾回收中的-Stop-the-World](https://toutiao.io/k/oe57im5) ![](assets/new.png)  
-- [2020-11-16-Volcano-设计原理全面解读，一看就懂](https://toutiao.io/k/upfzd3c) ![](assets/new.png)  
 - [2020-11-16-中小企业信息安全建设开荒经验分享](https://toutiao.io/k/xd27gz1) ![](assets/new.png)  
+- [2020-11-16-Volcano-设计原理全面解读，一看就懂](https://toutiao.io/k/upfzd3c) ![](assets/new.png)  
 - [2020-11-16-图像隐写技术-Image-Steganography](https://toutiao.io/k/ub21te4) ![](assets/new.png)  
 - [2020-11-16-如何自定义一个-Gradle-任务](https://toutiao.io/k/ovtmqk6) ![](assets/new.png)  
 - [2020-11-16-优化-Python-错误信息显示效果](https://toutiao.io/k/lw7oh6n) ![](assets/new.png)  
-- [2020-11-16-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-16-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-16-面向-dapp-开发者的前端工程实践](https://toutiao.io/k/mhpcsa0) ![](assets/new.png)  
+- [2020-11-16-​被冷落的运算符重载](https://toutiao.io/k/t95c71t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

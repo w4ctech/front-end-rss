@@ -14623,6 +14623,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有办法在光标附近显示现在的输入状态是英文还是中文",
+        "link": "https://www.v2ex.com/t/725692",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "在打算做的一个宠物社交电商平台，偏重运营，难度有点大啊",
+        "link": "https://www.v2ex.com/t/725691",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "Flink for Java demo，使用 lambda 表达式报错",
+        "link": "https://www.v2ex.com/t/725690",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "飞书更改头像，失败不给提示失败原因，直接回滚原本的头像，贵司相关负责人能否给个提示",
+        "link": "https://www.v2ex.com/t/725688",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "新手，云服务器求推荐",
+        "link": "https://www.v2ex.com/t/725687",
+        "date": "2020-11-16"
+      },
+      {
         "title": "不懂就问，为什么视频 app TV 版本基本都没有弹幕？",
         "link": "https://www.v2ex.com/t/725686",
         "date": "2020-11-16"
@@ -14800,36 +14825,6 @@
       {
         "title": "为什么 Redis 的 SRANDMEMBER key 的时间复杂度为 O(1)？",
         "link": "https://www.v2ex.com/t/725643",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "分享一个 B 站的 banner 视觉差的实现方法 github demo, 当然这个人还是个美美的女装大佬。",
-        "link": "https://www.v2ex.com/t/725642",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[杭州] [直招] 蚂蚁集团旗下世界领先的分布式数据库 OceanBase，诚聘前端工程师 P6 - P8 ( 业务包含 SQL 解析、多云适配、集群管理、大数据 多类场景）",
-        "link": "https://www.v2ex.com/t/725641",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "百谷必网易都找不到，帮帮忙",
-        "link": "https://www.v2ex.com/t/725640",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "更新 wsl1->wsl2 内核后 windows 10 笔记本睡眠后无法恢复工作进度",
-        "link": "https://www.v2ex.com/t/725639",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "有在京东 11.1 买的 iPhone 12 pro 256 的吗 还没发货",
-        "link": "https://www.v2ex.com/t/725638",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "iPhone 手机壳求推荐",
-        "link": "https://www.v2ex.com/t/725637",
         "date": "2020-11-16"
       }
     ]
@@ -15037,18 +15032,18 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-16"
-      },
-      {
         "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
         "link": "https://toutiao.io/k/ypwk0no",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-16"
       },
       {
@@ -15057,23 +15052,18 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-16"
       },
       {
@@ -15082,33 +15072,38 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-16"
-      },
-      {
         "title": "[推荐] 程序员成为高级管理者的三次跃升",
         "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
         "date": "2020-11-16"
       }
     ]

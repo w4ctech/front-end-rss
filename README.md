@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 03:04:05，:rocket: 更新条数: +3074， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 03:11:36，:rocket: 更新条数: +3073， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-16-有没有办法在光标附近显示现在的输入状态是英文还是中文](https://www.v2ex.com/t/725692) ![](assets/new.png)  
+- [2020-11-16-在打算做的一个宠物社交电商平台，偏重运营，难度有点大啊](https://www.v2ex.com/t/725691) ![](assets/new.png)  
+- [2020-11-16-Flink-for-Java-demo，使用-lambda-表达式报错](https://www.v2ex.com/t/725690) ![](assets/new.png)  
+- [2020-11-16-飞书更改头像，失败不给提示失败原因，直接回滚原本的头像，贵司相关负责人能否给个提示](https://www.v2ex.com/t/725688) ![](assets/new.png)  
+- [2020-11-16-新手，云服务器求推荐](https://www.v2ex.com/t/725687) ![](assets/new.png)  
 - [2020-11-16-不懂就问，为什么视频-app-TV-版本基本都没有弹幕？](https://www.v2ex.com/t/725686) ![](assets/new.png)  
 - [2020-11-16-吐槽-刚入职一家公司，没几天入职了一个老油子同事](https://www.v2ex.com/t/725685) ![](assets/new.png)  
 - [2020-11-16-有没有什么-chrome-插件可以动态修改并发量](https://www.v2ex.com/t/725684) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-16-刚刚电话询问了-Apple-客服，关于-iPhone-绿屏的问题](https://www.v2ex.com/t/725673) ![](assets/new.png)  
 - [2020-11-16-慢节奏游戏会有人玩吗？比如：养花，花的生长周期和现实一样长。](https://www.v2ex.com/t/725672) ![](assets/new.png)  
 - [2020-11-16-苹果的-M1-看测评性能超过-i9-甚至志强，功耗还低，这个有点太夸张了，是“定向”测试还是真的技术碾压？-有点颠覆](https://www.v2ex.com/t/725671) ![](assets/new.png)  
-- [2020-11-16-怎么还没有-arm-版的-Mbp-评测啊](https://www.v2ex.com/t/725670) ![](assets/new.png)  
-- [2020-11-16-问大佬们几个-https-证书的问题](https://www.v2ex.com/t/725669) ![](assets/new.png)  
-- [2020-11-16-大家有-Mac-上使用的好的本地音乐播放器推荐吗？](https://www.v2ex.com/t/725668) ![](assets/new.png)  
-- [2020-11-16-免费+开源继续分享我的账号助手小程序，人人都可拥有一个！](https://www.v2ex.com/t/725666) ![](assets/new.png)  
-- [2020-11-16-写了个在线约会的日历，已经部署在公有云上了，正文有访问链接](https://www.v2ex.com/t/725665) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -613,8 +613,8 @@
 - [2020-11-16-如何自定义一个-Gradle-任务](https://toutiao.io/k/ovtmqk6) ![](assets/new.png)  
 - [2020-11-16-图像隐写技术-Image-Steganography](https://toutiao.io/k/ub21te4) ![](assets/new.png)  
 - [2020-11-16-优化-Python-错误信息显示效果](https://toutiao.io/k/lw7oh6n) ![](assets/new.png)  
-- [2020-11-16-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
-- [2020-11-16-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-16-推荐-面试官：说说你知道的几种负载均衡分类](https://toutiao.io/k/ypwk0no) ![](assets/new.png)  
+- [2020-11-16-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

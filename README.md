@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 04:13:35，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 04:24:55，:rocket: 更新条数: +3308， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,8 +553,15 @@
 </summary>
 
 
+- [2020-11-16-最强（划掉，最差程序员开发指南](https://www.v2ex.com/t/725728) ![](assets/new.png)  
+- [2020-11-16-请问有什么适合懒人、小白设计页面-HTML-布局样式的工具吗？](https://www.v2ex.com/t/725727) ![](assets/new.png)  
+- [2020-11-16-去营业厅办理-5G-独立组网-SA-的测试-深圳电信-VS-移动](https://www.v2ex.com/t/725726) ![](assets/new.png)  
+- [2020-11-16-小步网络/宝安坪洲Android-开发，-2~5-年/内推](https://www.v2ex.com/t/725725) ![](assets/new.png)  
+- [2020-11-16-applePay-自动续费订阅首月优惠逻辑怎么写](https://www.v2ex.com/t/725724) ![](assets/new.png)  
+- [2020-11-16-iPhone12-pro-iOS14.2-不能发短信？](https://www.v2ex.com/t/725723) ![](assets/new.png)  
+- [2020-11-16-go-zero-这个微服务框架听说好不错](https://www.v2ex.com/t/725722) ![](assets/new.png)  
 - [2020-11-16-连-01-背包都看不懂,-零钱兑换都不会，还能继续走-Coding-这条路吗](https://www.v2ex.com/t/725721) ![](assets/new.png)  
-- [2020-11-16-最近做了个公众号-汤姆滚雪球](https://www.v2ex.com/t/725720) ![](assets/new.png)  
+- [2020-11-16-搞了个公众号聊投资认知的](https://www.v2ex.com/t/725720) ![](assets/new.png)  
 - [2020-11-16-后-go-micro-时代，大家怎么玩？](https://www.v2ex.com/t/725719) ![](assets/new.png)  
 - [2020-11-16-有对投资理财感兴趣的小伙伴吗？](https://www.v2ex.com/t/725718) ![](assets/new.png)  
 - [2020-11-16-各位大佬-Mac-升级到-big-sur-以后-hd-根目录无法放进去东西了怎么办?](https://www.v2ex.com/t/725717) ![](assets/new.png)  
@@ -566,13 +573,6 @@
 - [2020-11-16-求租-寻求上海闵行区内-12-号线与-1-号线附近-2-室-1-厅的房子](https://www.v2ex.com/t/725708) ![](assets/new.png)  
 - [2020-11-16-抖音-上海/杭州-Android-社招、校招极速内推](https://www.v2ex.com/t/725707) ![](assets/new.png)  
 - [2020-11-16-微书---更全面的创作与分享应用，支持内容付费](https://www.v2ex.com/t/725704) ![](assets/new.png)  
-- [2020-11-16-2018-款-Big-Sur-动画掉帧](https://www.v2ex.com/t/725703) ![](assets/new.png)  
-- [2020-11-16-周活-30-万月活-100-万的站-adsense-收入多少？](https://www.v2ex.com/t/725702) ![](assets/new.png)  
-- [2020-11-16-想做一款协同类应用，技术上有什么要求？](https://www.v2ex.com/t/725701) ![](assets/new.png)  
-- [2020-11-16-求问各位大佬，现在有什么检测硬盘故障的开源项目吗。目前在做的是运维开发，需要对硬盘进行监测。](https://www.v2ex.com/t/725698) ![](assets/new.png)  
-- [2020-11-16-一个导出百度文库文档为原始-PDF-文件的-Google-插件，需要自取](https://www.v2ex.com/t/725697) ![](assets/new.png)  
-- [2020-11-16-windows-下如何挂载超过-26-个-NFS-盘？](https://www.v2ex.com/t/725696) ![](assets/new.png)  
-- [2020-11-16-v2ex-做安全的朋友多吗](https://www.v2ex.com/t/725695) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -630,11 +630,11 @@
 - [2020-11-16-译-图解：宏观角度看-Go-语言如何实现垃圾回收中的-Stop-the-World](https://toutiao.io/k/oe57im5) ![](assets/new.png)  
 - [2020-11-16-Volcano-设计原理全面解读，一看就懂](https://toutiao.io/k/upfzd3c) ![](assets/new.png)  
 - [2020-11-16-中小企业信息安全建设开荒经验分享](https://toutiao.io/k/xd27gz1) ![](assets/new.png)  
-- [2020-11-16-图像隐写技术-Image-Steganography](https://toutiao.io/k/ub21te4) ![](assets/new.png)  
 - [2020-11-16-如何自定义一个-Gradle-任务](https://toutiao.io/k/ovtmqk6) ![](assets/new.png)  
+- [2020-11-16-图像隐写技术-Image-Steganography](https://toutiao.io/k/ub21te4) ![](assets/new.png)  
 - [2020-11-16-优化-Python-错误信息显示效果](https://toutiao.io/k/lw7oh6n) ![](assets/new.png)  
-- [2020-11-16-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-16-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-16-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-16-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

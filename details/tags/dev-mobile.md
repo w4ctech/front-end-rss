@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-16 06:27:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-16 06:34:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -6,3 +6,6 @@
 > 关键字：`Flutter`、`PWA`、`移动开发`
 
 
+
+- [2020-11-15-微软如何使Edge成为PWA的最佳浏览器](https://juejin.im/post/6895602275838853134) 
+- [2020-11-16-Flutter-制霸全平台，新版将支持-Windows-应用程序！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13943&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsQmJJfNQpiNXJzVLOXCYyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

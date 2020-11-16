@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 23:04:25，:rocket: 更新条数: +447， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 23:10:10，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-11-15-最新疫情：全国新冠累计确诊86346例-境外输入新增8例](https://m.caixin.com/m/2020-11-16/101628854.html) ![](assets/new.png)  
+- [2020-11-15-多地进口冷链包装检出新冠阳性-交通部发文加强冷链运输防控](http://m.companies.caixin.com/m/2020-11-16/101628925.html) ![](assets/new.png)  
+- [2020-11-15-又一新冠mRNA疫苗开启中国临床试验-其他疫苗进展如何？](https://m.caixin.com/m/2020-11-16/101628915.html) ![](assets/new.png)  
+- [2020-11-15-最新海外疫情：新冠感染近5428万-累计死亡超131万](https://m.caixin.com/m/2020-11-16/101628857.html) ![](assets/new.png)  
+- [2020-11-15-上海：高风险进口冷链食品入沪将进行核酸检测和外包装消毒](https://m.caixin.com/m/2020-11-16/101628578.html) ![](assets/new.png)  
+- [2020-11-15-厦门1份进口冷冻猪肉外包装核酸检测阳性-未流入市场](https://m.caixin.com/m/2020-11-16/101628582.html) ![](assets/new.png)  
+- [2020-11-15-【境内疫情观察】全国新增8例境外输入病例（11月15日）](http://m.database.caixin.com/m/2020-11-16/101628695.html) ![](assets/new.png)  
+- [2020-11-15-大流行手记|11月15日：希腊水貂检出新冠病毒-特朗普疫苗分配计划引质疑](https://m.caixin.com/m/2020-11-16/101628565.html) ![](assets/new.png)  
+- [2020-11-14-【境内疫情观察】全国新增13例境外输入病例（11月14日）](http://m.database.caixin.com/m/2020-11-15/101628411.html) ![](assets/new.png)  
+- [2020-11-14-大流行手记|11月14日：多国明确疫苗接种计划-韩国疫情升温](https://m.caixin.com/m/2020-11-15/101628278.html) ![](assets/new.png)  
+- [2020-11-13-【境内疫情观察】全国新增18例境外输入病例（11月13日）](http://m.database.caixin.com/m/2020-11-14/101627999.html) ![](assets/new.png)  
+- [2020-11-13-大流行手记|11月13日：英日增病例创新高-日本研究称新冠变异后传染性增强](https://m.caixin.com/m/2020-11-14/101627841.html) ![](assets/new.png)  
+- [2020-11-12-新冠病毒毒性未减-张文宏详解病死率下降缘由](http://m.topics.caixin.com/m/2020-11-13/101627435.html) ![](assets/new.png)  
+- [2020-11-12-【境内疫情观察】全国新增8例境外输入病例（11月12日）](http://m.database.caixin.com/m/2020-11-13/101627382.html) ![](assets/new.png)  
+- [2020-11-12-大流行手记|11月12日：美28名大选工作人员感染-英格兰67个地区本周全城检测](https://m.caixin.com/m/2020-11-13/101627043.html) ![](assets/new.png)  
+- [2020-11-11-【境内疫情观察】天津新增1例本土确诊病例（11月11日）](http://m.database.caixin.com/m/2020-11-12/101626650.html) ![](assets/new.png)  
+- [2020-11-11-大流行手记|11月11日：美拟12月启动新冠疫苗接种-欧洲多国医疗体系负重](https://m.caixin.com/m/2020-11-12/101626574.html) ![](assets/new.png)  
+- [2020-11-11-日本忧第三波疫情袭来-北海道入冬病例又激增](http://m.international.caixin.com/m/2020-11-12/101626896.html) ![](assets/new.png)  
+- [2020-11-10-香港启动“单向通关”-首阶段每日5000配额](http://m.china.caixin.com/m/2020-11-11/101626056.html) ![](assets/new.png)  
+- [2020-11-10-【境内疫情观察】安徽新增1例本土确诊病例（11月10日）](http://m.database.caixin.com/m/2020-11-11/101626077.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,6 +473,11 @@
 </summary>
 
 
+- [2020-11-16-77.9K-Star-的-Axios-项目如何优雅实现请求重试](https://juejin.im/post/6895702603003330573) ![](assets/new.png)  
+- [2020-11-16-webview的秒开优化的历程](https://juejin.im/post/6895696837178490893) ![](assets/new.png)  
+- [2020-11-16-微信小程序转换器（三）——-loader设计实现](https://juejin.im/post/6895694029905002503) ![](assets/new.png)  
+- [2020-11-16-富文本框在nuxt-中的使用方式及注意事项](https://juejin.im/post/6895689561184321549) ![](assets/new.png)  
+- [2020-11-16-【Flutter-1-7】Flutter教程Dart语言——变量](https://juejin.im/post/6895684632944050184) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -528,6 +553,26 @@
 </summary>
 
 
+- [2020-11-16-新系统，你们遇到小键盘打不出数字出来吗？](https://www.v2ex.com/t/726002) ![](assets/new.png)  
+- [2020-11-16-M1-macbook-pro-R23-跑分-7508](https://www.v2ex.com/t/726001) ![](assets/new.png)  
+- [2020-11-16-给大家一个升级-Big-Sur-的理由，-mail.app-使用-gmail-不再弹出了](https://www.v2ex.com/t/726000) ![](assets/new.png)  
+- [2020-11-16-买了-iPhone-12-mini，感受](https://www.v2ex.com/t/725999) ![](assets/new.png)  
+- [2020-11-16-应届-offer-求分析](https://www.v2ex.com/t/725998) ![](assets/new.png)  
+- [2020-11-16-从学生手里收购一个项目，会不会违反-JetBrains-的学生授权协议？](https://www.v2ex.com/t/725997) ![](assets/new.png)  
+- [2020-11-16-我知道-Google-养老，原来可以这么养老吗](https://www.v2ex.com/t/725996) ![](assets/new.png)  
+- [2020-11-16-真的烦啊-要手机验证-我想说说一年前的固定-ip-办理](https://www.v2ex.com/t/725995) ![](assets/new.png)  
+- [2020-11-16-升级-big-sur-后，链接百度内网无网络](https://www.v2ex.com/t/725993) ![](assets/new.png)  
+- [2020-11-16-想创建一个好玩的群组](https://www.v2ex.com/t/725992) ![](assets/new.png)  
+- [2020-11-16-工作流-与业务数据流怎么解耦？](https://www.v2ex.com/t/725991) ![](assets/new.png)  
+- [2020-11-16-Android-如何实现-iOS-的紧急来电例外规则](https://www.v2ex.com/t/725990) ![](assets/new.png)  
+- [2020-11-16-美企，开源大佬红帽Red-Hat内推-11-月更新。全员在家办公-至少-到-2021-年-6-月底](https://www.v2ex.com/t/725988) ![](assets/new.png)  
+- [2020-11-16-关于-nps-内网穿透的问题](https://www.v2ex.com/t/725987) ![](assets/new.png)  
+- [2020-11-16-中移雄安研究院有没有-V-友了解的](https://www.v2ex.com/t/725986) ![](assets/new.png)  
+- [2020-11-16-iPhone-12-mini-到了，拍了个开箱视频](https://www.v2ex.com/t/725985) ![](assets/new.png)  
+- [2020-11-16-加班辛苦，摸个鱼放松一下](https://www.v2ex.com/t/725984) ![](assets/new.png)  
+- [2020-11-16-日系女声-Piano-Songs，求推荐](https://www.v2ex.com/t/725982) ![](assets/new.png)  
+- [2020-11-16-Windows-沙盒运行代理，代理报错](https://www.v2ex.com/t/725981) ![](assets/new.png)  
+- [2020-11-16-捡垃圾真香，折腾一台-300-块的-iPhone7](https://www.v2ex.com/t/725980) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -578,8 +623,8 @@
 - [2020-11-16-分布式事务方案：SAGA-模式](https://toutiao.io/k/5oci732) ![](assets/new.png)  
 - [2020-11-16-面向-dapp-开发者的前端工程实践](https://toutiao.io/k/mhpcsa0) ![](assets/new.png)  
 - [2020-11-16-多角度审视推荐系统](https://toutiao.io/k/4qkf3s2) ![](assets/new.png)  
-- [2020-11-16-小程序-云开发：如何对敏感词进行过滤即内容安全的检测（上）](https://toutiao.io/k/i8zq8p9) ![](assets/new.png)  
 - [2020-11-16-聊聊单元测试](https://toutiao.io/k/l74vbfw) ![](assets/new.png)  
+- [2020-11-16-小程序-云开发：如何对敏感词进行过滤即内容安全的检测（上）](https://toutiao.io/k/i8zq8p9) ![](assets/new.png)  
 - [2020-11-16-大数据学习路线](https://toutiao.io/k/8jn7g0f) ![](assets/new.png)  
 - [2020-11-16-三种传递-gRPC-动态参数方式的使用体验](https://toutiao.io/k/3ov45qs) ![](assets/new.png)  
 - [2020-11-16-译-图解：宏观角度看-Go-语言如何实现垃圾回收中的-Stop-the-World](https://toutiao.io/k/oe57im5) ![](assets/new.png)  

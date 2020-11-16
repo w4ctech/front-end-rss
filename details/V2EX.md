@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-16 07:05:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-16 07:11:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-16-Laravel-实战视频---用-Laravel-写了个论坛，有登陆（Jetstream,-发帖，留言](https://www.v2ex.com/t/725800) 
 - [2020-11-16-究竟还有谁没买-GTA5？？](https://www.v2ex.com/t/725799) 
 - [2020-11-16-弄了一个抖音版财务系统TikTok-Design-，大家看像不像](https://www.v2ex.com/t/725798) 
 - [2020-11-16-iPhone-12-mini-续航挺好的](https://www.v2ex.com/t/725797) 
@@ -35,4 +36,3 @@
 - [2020-11-16-QuantumultX-MitM-去广告是否安全？](https://www.v2ex.com/t/725755) 
 - [2020-11-16-求一个国内购买-Pixel-的靠谱渠道](https://www.v2ex.com/t/725753) 
 - [2020-11-16-c#.net，嵌入式，有说的那么辛苦，待遇还低吗？-是真的是没前途，还是说到严重一点，防止新人进入？](https://www.v2ex.com/t/725751) 
-- [2020-11-16-基于我闺女的新兴趣爱好，准备搞个书画作品防伪溯源交易平台。](https://www.v2ex.com/t/725750) 

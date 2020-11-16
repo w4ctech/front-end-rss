@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-16 16:58:32，:rocket: 更新条数: +3271， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 17:04:13，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -553,6 +553,26 @@
 </summary>
 
 
+- [2020-11-16-真的烦啊-要手机验证-我想说说一年前的固定-ip-办理](https://www.v2ex.com/t/725995) ![](assets/new.png)  
+- [2020-11-16-升级-big-sur-后，链接百度内网无网络](https://www.v2ex.com/t/725993) ![](assets/new.png)  
+- [2020-11-16-想创建一个好玩的群组](https://www.v2ex.com/t/725992) ![](assets/new.png)  
+- [2020-11-16-工作流-与业务数据流怎么解耦？](https://www.v2ex.com/t/725991) ![](assets/new.png)  
+- [2020-11-16-Android-如何实现-iOS-的紧急来电例外规则](https://www.v2ex.com/t/725990) ![](assets/new.png)  
+- [2020-11-16-美企，开源大佬红帽Red-Hat内推-11-月更新。全员在家办公-至少-到-2021-年-6-月底](https://www.v2ex.com/t/725988) ![](assets/new.png)  
+- [2020-11-16-关于-nps-内网穿透的问题](https://www.v2ex.com/t/725987) ![](assets/new.png)  
+- [2020-11-16-中移雄安研究院有没有-V-友了解的](https://www.v2ex.com/t/725986) ![](assets/new.png)  
+- [2020-11-16-iPhone-12-mini-到了，拍了个开箱视频](https://www.v2ex.com/t/725985) ![](assets/new.png)  
+- [2020-11-16-加班辛苦，摸个鱼放松一下](https://www.v2ex.com/t/725984) ![](assets/new.png)  
+- [2020-11-16-日系女声-Piano-Songs，求推荐](https://www.v2ex.com/t/725982) ![](assets/new.png)  
+- [2020-11-16-Windows-沙盒运行代理，代理报错](https://www.v2ex.com/t/725981) ![](assets/new.png)  
+- [2020-11-16-捡垃圾真香，折腾一台-300-块的-iPhone7](https://www.v2ex.com/t/725980) ![](assets/new.png)  
+- [2020-11-16-苹果对-OCSP-的解释来了](https://www.v2ex.com/t/725979) ![](assets/new.png)  
+- [2020-11-16-Zeek-文档翻译项目](https://www.v2ex.com/t/725978) ![](assets/new.png)  
+- [2020-11-16-现在买-iPhone-12-值吗？](https://www.v2ex.com/t/725977) ![](assets/new.png)  
+- [2020-11-16-有什么维修显示器的渠道](https://www.v2ex.com/t/725976) ![](assets/new.png)  
+- [2020-11-16-输入一个单词，返回所有语种-OR-指定语种的翻译结果](https://www.v2ex.com/t/725975) ![](assets/new.png)  
+- [2020-11-16-用-matlab-将-cell-类型的图片路径转换为-string-类型的以便在-Python-中建立数据集](https://www.v2ex.com/t/725974) ![](assets/new.png)  
+- [2020-11-16-求助-内存不兼容的问题](https://www.v2ex.com/t/725973) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

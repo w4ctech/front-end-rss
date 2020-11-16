@@ -14638,6 +14638,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iPhone 12 mini 到了，拍了个开箱视频",
+        "link": "https://www.v2ex.com/t/725985",
+        "date": "2020-11-16"
+      },
+      {
         "title": "加班辛苦，摸个鱼放松一下",
         "link": "https://www.v2ex.com/t/725984",
         "date": "2020-11-16"
@@ -14840,11 +14845,6 @@
       {
         "title": "[阿里内推] 年底大量招人，需要的请进来看看",
         "link": "https://www.v2ex.com/t/725936",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "迫于会员到期，收个年费腾讯会员",
-        "link": "https://www.v2ex.com/t/725935",
         "date": "2020-11-16"
       }
     ]
@@ -15067,28 +15067,28 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
+        "link": "https://toutiao.io/k/ypwk0no",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
+        "link": "https://toutiao.io/k/rtixudv",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-16"
       },
       {
@@ -15097,18 +15097,13 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-16"
       },
       {
@@ -15117,8 +15112,13 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-16"
       },
       {
@@ -15127,13 +15127,13 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-16"
       }
     ]

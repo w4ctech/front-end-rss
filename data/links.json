@@ -14487,6 +14487,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "寻求海归名校博士硕士做联合创始人。最好是算法相关方向",
+        "link": "https://www.v2ex.com/t/725963",
+        "date": "2020-11-16"
+      },
+      {
         "title": "ikbc 键盘在 mac 上 alt 按键无法使用？",
         "link": "https://www.v2ex.com/t/725961",
         "date": "2020-11-16"
@@ -14670,16 +14675,6 @@
         "title": "在 MacBook Pro 16-inch 上 Apple Silicon 之前，还有机会常规更新一波吗？",
         "link": "https://www.v2ex.com/t/725914",
         "date": "2020-11-16"
-      },
-      {
-        "title": "安装完 Photoshop 之后，这些东西可以删掉吗？",
-        "link": "https://www.v2ex.com/t/725913",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "发了个作死贴进了水深火热，被降权了。",
-        "link": "https://www.v2ex.com/t/725912",
-        "date": "2020-11-16"
       }
     ]
   },
@@ -14816,13 +14811,13 @@
         "date": "2020-11-16"
       },
       {
-        "title": "刨根问底，Kafka 消息中间件到底会不会丢消息",
-        "link": "https://toutiao.io/k/17q9ijl",
+        "title": "前端如何突破技术与业务的瓶颈：Shopee 一年半记",
+        "link": "https://toutiao.io/k/0cgbfwn",
         "date": "2020-11-16"
       },
       {
-        "title": "前端如何突破技术与业务的瓶颈：Shopee 一年半记",
-        "link": "https://toutiao.io/k/0cgbfwn",
+        "title": "刨根问底，Kafka 消息中间件到底会不会丢消息",
+        "link": "https://toutiao.io/k/17q9ijl",
         "date": "2020-11-16"
       },
       {
@@ -14831,13 +14826,13 @@
         "date": "2020-11-16"
       },
       {
-        "title": "小程序-云开发：如何对敏感词进行过滤即内容安全的检测（上）",
-        "link": "https://toutiao.io/k/i8zq8p9",
+        "title": "面向 dapp 开发者的前端工程实践",
+        "link": "https://toutiao.io/k/mhpcsa0",
         "date": "2020-11-16"
       },
       {
-        "title": "面向 dapp 开发者的前端工程实践",
-        "link": "https://toutiao.io/k/mhpcsa0",
+        "title": "小程序-云开发：如何对敏感词进行过滤即内容安全的检测（上）",
+        "link": "https://toutiao.io/k/i8zq8p9",
         "date": "2020-11-16"
       },
       {
@@ -14896,8 +14891,23 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-16"
       },
       {
@@ -14906,38 +14916,13 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 网易云音乐基于 Flink + Kafka 的实时数仓建设实践",
-        "link": "https://toutiao.io/k/rtixudv",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-16"
       },
       {
         "title": "[推荐] 高并发高性能服务器是如何实现的",
         "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
         "date": "2020-11-16"
       },
       {
@@ -14951,8 +14936,23 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-16"
       },
       {
@@ -14961,13 +14961,8 @@
         "date": "2020-11-16"
       },
       {
-        "title": "[推荐] 面试官：说说你知道的几种负载均衡分类",
-        "link": "https://toutiao.io/k/ypwk0no",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-16"
       }
     ]

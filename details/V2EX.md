@@ -1,11 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-17 19:35:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 19:47:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-11-17-转：-Macbook-m1-程序员向兼容测试](https://www.v2ex.com/t/726467) 
+- [2020-11-17-睡不着-思考人参](https://www.v2ex.com/t/726468) 
+- [2020-11-17-Macbook-m1-程序员向兼容测试（知乎）](https://www.v2ex.com/t/726467) 
 - [2020-11-17-我的静态博客被人克隆了，我能做些什么呢？](https://www.v2ex.com/t/726466) 
 - [2020-11-17-迫于把持不住了，求问-M1-芯-Macmini-搭配小米-34-带鱼屏效果如何？](https://www.v2ex.com/t/726465) 
 - [2020-11-17-MacBook-Pro-Retina,-15-inch,-Mid-2015-升级-macOS-Big-Sur-更耗电了-更烫了。。。](https://www.v2ex.com/t/726464) 

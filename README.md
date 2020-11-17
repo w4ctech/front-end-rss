@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 10:36:01，:rocket: 更新条数: +3080， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 10:47:45，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-11-16-11月16日全国新增境外输入新冠15例-累计确诊86361例](https://m.caixin.com/m/2020-11-17/101628982.html) ![](assets/new.png)  
+- [2020-11-16-最新疫情：全国新冠累计确诊86361例-境外输入新增15例](https://m.caixin.com/m/2020-11-17/101629366.html) ![](assets/new.png)  
 - [2020-11-16-【境内疫情观察】全国新增15例境外输入病例（11月16日）](http://m.database.caixin.com/m/2020-11-17/101629210.html) ![](assets/new.png)  
 - [2020-11-16-大流行手记|11月16日：英首相密接后隔离-研究称去年9月意大利或已有感染者](https://m.caixin.com/m/2020-11-17/101629015.html) ![](assets/new.png)  
 - [2020-11-15-多地进口冷链包装检出新冠阳性-交通部发文加强冷链运输防控](http://m.companies.caixin.com/m/2020-11-16/101628925.html) ![](assets/new.png)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-17-陕西西安阎良对冷冻猪肉外包装阳性相关人员进行全员检测-均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2E0GtBy9zxbK4WlEL3jJ201117&isfromapp=1) ![](assets/new.png)  
+- [2020-11-17-国家移民管理局：强化边境地区管控-严防境外疫情输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jFtlZRBSCRB0lpP8mqE201117&isfromapp=1) ![](assets/new.png)  
+- [2020-11-17-印度新冠肺炎确诊病例累计超887万例-单日增幅再创7月来新低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSqmK4bPqI0OauqH7Vp6C201117&isfromapp=1) ![](assets/new.png)  
 - [2020-11-17-七天增加100万，美国新冠疫情传播速度前所未有](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6gG9ojnz6R0ykfd2e79W201117&isfromapp=1) ![](assets/new.png)  
 - [2020-11-17-​阿根廷新冠肺炎累计确诊病例近132万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXauOPoVbBTDcvuyJPika201117&isfromapp=1) ![](assets/new.png)  
-- [2020-11-16-2021年澳网所有比赛举办地仍未确定-球员抵达之后需进行14天的强制隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJLzWrWl6LYcQWBwIkkmf201117&isfromapp=1) ![](assets/new.png)  
-- [2020-11-16-伊朗新增13053例新冠肺炎确诊病例-计划实施全国限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDsGVegVzCAxz8BScbpey201117&isfromapp=1) ![](assets/new.png)  
-- [2020-11-16-谭德塞过去两周未出现新冠肺炎症状-已结束隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia94kYGpwG0DLw7nf7xra201117&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +523,13 @@
 </summary>
 
 
+- [2020-11-17-MX-Master-3-在-macOS-下用得很蛋疼](https://www.v2ex.com/t/726345) ![](assets/new.png)  
+- [2020-11-17-每次启动-chrome-后过一会儿访问-google.com-时，就显示证书异常。重启-chrome-或重置-dns-又正常](https://www.v2ex.com/t/726344) ![](assets/new.png)  
+- [2020-11-17-🔥新加坡-技术移民机会纽交所上市公司，寻找后台技术-leader，大数据基础架构-leader，移动端安全技术专家，云平台数据库-RDS-开发-leader,机器学习平台开...](https://www.v2ex.com/t/726343) ![](assets/new.png)  
+- [2020-11-17-付费招募-3-名-Golang-程序员](https://www.v2ex.com/t/726342) ![](assets/new.png)  
+- [2020-11-17-京东云和电信云-offer-选择？](https://www.v2ex.com/t/726341) ![](assets/new.png)  
+- [2020-11-17-M1-设备-256g-升-256g-要一千五，-512g-升-512g-也才一千五](https://www.v2ex.com/t/726340) ![](assets/new.png)  
+- [2020-11-17-你离进字节跳动就差这个内推了](https://www.v2ex.com/t/726339) ![](assets/new.png)  
 - [2020-11-17-V2-哪里可以设置点击标题是新开标签页而不是当前标签页直接跳转打开](https://www.v2ex.com/t/726338) ![](assets/new.png)  
 - [2020-11-17-周日的-GDG-上海-有没有道友](https://www.v2ex.com/t/726337) ![](assets/new.png)  
 - [2020-11-17-在上海工作，最近要到深圳去一趟，是否需要提前做核酸检测呢？麻烦有相同经历、知道的人解答下，感恩不尽！](https://www.v2ex.com/t/726335) ![](assets/new.png)  
@@ -546,13 +543,6 @@
 - [2020-11-17-iOS14-怎么删除-iMessage-中安装的贴纸-app](https://www.v2ex.com/t/726325) ![](assets/new.png)  
 - [2020-11-17-AppleStore-的退货时效显示为-2021-年-1-月-8-日，国区有效吗？](https://www.v2ex.com/t/726324) ![](assets/new.png)  
 - [2020-11-17-Python-面试视频分享](https://www.v2ex.com/t/726323) ![](assets/new.png)  
-- [2020-11-17-谷歌广告交流群-Google-AdSense-Group-有兴趣的可以一起来交流](https://www.v2ex.com/t/726322) ![](assets/new.png)  
-- [2020-11-17-Big-Sur-的-Read-only-file-system-问题](https://www.v2ex.com/t/726321) ![](assets/new.png)  
-- [2020-11-17-独立开发了一个算法学习的平台,-RobinAlgo,-欢迎大家使用](https://www.v2ex.com/t/726320) ![](assets/new.png)  
-- [2020-11-17-输入一段大白话，翻译成文言文。。。有这样的自动化平台吗~~](https://www.v2ex.com/t/726319) ![](assets/new.png)  
-- [2020-11-17-求助各位人工智能-这张截图里面是什么字体](https://www.v2ex.com/t/726318) ![](assets/new.png)  
-- [2020-11-17-我的开源经历：为了方便处理三方-HTTP-接口而写的-Java-框架](https://www.v2ex.com/t/726317) ![](assets/new.png)  
-- [2020-11-17-拣到一个钓鱼网站，一起来玩玩](https://www.v2ex.com/t/726315) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 10:36:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 10:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,8 @@
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-17-每次启动-chrome-后过一会儿访问-google.com-时，就显示证书异常。重启-chrome-或重置-dns-又正常](https://www.v2ex.com/t/726344) 
+- [2020-11-17-🔥新加坡-技术移民机会纽交所上市公司，寻找后台技术-leader，大数据基础架构-leader，移动端安全技术专家，云平台数据库-RDS-开发-leader,机器学习平台开...](https://www.v2ex.com/t/726343) 
 - [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) 
 - [2020-11-16-AIoT安全峰会议题回顾|黑灯:“手机-*-AIoT”-智能安全评估](https://sec.thief.one/article_content?a_id=34e2d1edbb4d58952faeb7c20b9fc1a4) 
 - [2020-11-16-国内首家!工信部为大连海事大学-奇安信船舶网络安全实验室授牌](https://sec.thief.one/article_content?a_id=76f31488ecf5544541fac786b9494fb0) 

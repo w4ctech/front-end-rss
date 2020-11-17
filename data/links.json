@@ -5,8 +5,8 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "11月16日全国新增境外输入新冠15例 累计确诊86361例",
-        "link": "https://m.caixin.com/m/2020-11-17/101628982.html",
+        "title": "最新疫情：全国新冠累计确诊86361例 境外输入新增15例",
+        "link": "https://m.caixin.com/m/2020-11-17/101629366.html",
         "date": "2020-11-16"
       },
       {
@@ -14112,6 +14112,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "陕西西安阎良对冷冻猪肉外包装阳性相关人员进行全员检测 均为阴性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2E0GtBy9zxbK4WlEL3jJ201117&isfromapp=1",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "国家移民管理局：强化边境地区管控 严防境外疫情输入",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jFtlZRBSCRB0lpP8mqE201117&isfromapp=1",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "印度新冠肺炎确诊病例累计超887万例 单日增幅再创7月来新低",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSqmK4bPqI0OauqH7Vp6C201117&isfromapp=1",
+        "date": "2020-11-17"
+      },
+      {
         "title": "七天增加100万，美国新冠疫情传播速度前所未有",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6gG9ojnz6R0ykfd2e79W201117&isfromapp=1",
         "date": "2020-11-17"
@@ -14120,21 +14135,6 @@
         "title": "​阿根廷新冠肺炎累计确诊病例近132万",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXauOPoVbBTDcvuyJPika201117&isfromapp=1",
         "date": "2020-11-17"
-      },
-      {
-        "title": "2021年澳网所有比赛举办地仍未确定 球员抵达之后需进行14天的强制隔离",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJLzWrWl6LYcQWBwIkkmf201117&isfromapp=1",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "伊朗新增13053例新冠肺炎确诊病例 计划实施全国限制措施",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDsGVegVzCAxz8BScbpey201117&isfromapp=1",
-        "date": "2020-11-16"
-      },
-      {
-        "title": "谭德塞过去两周未出现新冠肺炎症状 已结束隔离",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia94kYGpwG0DLw7nf7xra201117&isfromapp=1",
-        "date": "2020-11-16"
       }
     ]
   },
@@ -14334,58 +14334,7 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [
-      {
-        "title": "NutUI CLI源码解析",
-        "link": "https://jdc.jd.com/archives/213013",
-        "date": "2020-03-24"
-      },
-      {
-        "title": "NutUI 3.0 中单元测试的探索和实践",
-        "link": "https://jdc.jd.com/archives/213007",
-        "date": "2020-03-10"
-      },
-      {
-        "title": "用户说的都是真的吗？这些陷阱要避开",
-        "link": "https://jdc.jd.com/archives/212987",
-        "date": "2019-06-28"
-      },
-      {
-        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
-        "link": "https://jdc.jd.com/archives/212979",
-        "date": "2019-03-15"
-      },
-      {
-        "title": "京东PLUS会员项目前端性能优化实践",
-        "link": "https://jdc.jd.com/archives/212962",
-        "date": "2019-02-15"
-      },
-      {
-        "title": "8个常见的研究者认知偏误陷阱",
-        "link": "https://jdc.jd.com/archives/212946",
-        "date": "2019-01-28"
-      },
-      {
-        "title": "用户访谈——哪些原则简单却有效",
-        "link": "https://jdc.jd.com/archives/212927",
-        "date": "2019-01-24"
-      },
-      {
-        "title": "体现工匠精神的Resource Hints",
-        "link": "https://jdc.jd.com/archives/212917",
-        "date": "2018-12-29"
-      },
-      {
-        "title": "HTML5 Audio的兼容性问题和优化",
-        "link": "https://jdc.jd.com/archives/212874",
-        "date": "2018-12-26"
-      },
-      {
-        "title": "一个表情引发的思考",
-        "link": "https://jdc.jd.com/archives/212870",
-        "date": "2018-12-26"
-      }
-    ],
+    "items": [],
     "link": "https://jdc.jd.com"
   },
   {
@@ -14643,6 +14592,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MX Master 3 在 macOS 下用得很蛋疼",
+        "link": "https://www.v2ex.com/t/726345",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "每次启动 chrome 后过一会儿访问 google.com 时，就显示证书异常。重启 chrome 或重置 dns 又正常",
+        "link": "https://www.v2ex.com/t/726344",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "🔥[新加坡] [技术移民机会]纽交所上市公司，寻找后台技术 leader，大数据基础架构 leader，移动端安全技术专家，云平台数据库 RDS 开发 leader,机器学习平台开...",
+        "link": "https://www.v2ex.com/t/726343",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "付费招募 3 名 Golang 程序员",
+        "link": "https://www.v2ex.com/t/726342",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "京东云和电信云 offer 选择？",
+        "link": "https://www.v2ex.com/t/726341",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "M1 设备 256g 升 256g 要一千五， 512g 升 512g 也才一千五",
+        "link": "https://www.v2ex.com/t/726340",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "你离进字节跳动就差这个内推了",
+        "link": "https://www.v2ex.com/t/726339",
+        "date": "2020-11-17"
+      },
+      {
         "title": "V2 哪里可以设置点击标题是新开标签页而不是当前标签页直接跳转打开",
         "link": "https://www.v2ex.com/t/726338",
         "date": "2020-11-17"
@@ -14820,36 +14804,6 @@
       {
         "title": "友盟+：小游戏实现快速增长，你需要这七个小技巧！",
         "link": "https://www.v2ex.com/t/726296",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "做一款面向中老年男人的应用，微信小程序是最合适的方案吗？感觉身边的人都不怎么用小程序。",
-        "link": "https://www.v2ex.com/t/726295",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "可以跑了吗 BTC",
-        "link": "https://www.v2ex.com/t/726293",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "最近准备跳槽，向大家征集一些 面试题，感谢感谢！",
-        "link": "https://www.v2ex.com/t/726292",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "预定了苹果为啥要等这么久？期间都发生啥？",
-        "link": "https://www.v2ex.com/t/726291",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "蛋壳公寓跑路了，自如公寓也会跑路么？",
-        "link": "https://www.v2ex.com/t/726290",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "各位大佬，小弟使用 gevent 遇到了 loopexit 的错误",
-        "link": "https://www.v2ex.com/t/726289",
         "date": "2020-11-17"
       }
     ]
@@ -15067,13 +15021,8 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-17"
       },
       {
@@ -15082,43 +15031,8 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-17"
       },
       {
@@ -15127,8 +15041,8 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-17"
       },
       {
@@ -15137,8 +15051,48 @@
         "date": "2020-11-17"
       },
       {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-17"
+      },
+      {
         "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
         "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-17"
       }
     ]

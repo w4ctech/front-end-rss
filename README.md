@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 23:33:07，:rocket: 更新条数: +3291， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 23:48:13，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,9 @@
 </summary>
 
 
+- [2020-11-17-荣耀的前途如何](https://www.v2ex.com/t/726475) ![](assets/new.png)  
+- [2020-11-17-分享个-intellij-平台的搜索小插件-Smart-Search](https://www.v2ex.com/t/726474) ![](assets/new.png)  
+- [2020-11-17-github-发现个开源的小说站还不错，漫画也支持，分享一下](https://www.v2ex.com/t/726473) ![](assets/new.png)  
 - [2020-11-17-iOS-14.3-beta2-似乎修复了-iPhone-12-下的黑色不黑问题](https://www.v2ex.com/t/726471) ![](assets/new.png)  
 - [2020-11-17-关于-Icloud-优化照片空间的疑惑！](https://www.v2ex.com/t/726470) ![](assets/new.png)  
 - [2020-11-17-下单了-16g-mini，感觉要等好久啊](https://www.v2ex.com/t/726469) ![](assets/new.png)  
@@ -570,9 +573,6 @@
 - [2020-11-17-你离进字节跳动就差这个内推了！](https://www.v2ex.com/t/726456) ![](assets/new.png)  
 - [2020-11-17-你最想在你婚礼上播放的音乐是什么](https://www.v2ex.com/t/726453) ![](assets/new.png)  
 - [2020-11-17-影视飓风发布了对于视频工作者的顶配-M1-芯片的-Macbook-Pro-的上手体验](https://www.v2ex.com/t/726452) ![](assets/new.png)  
-- [2020-11-17-你们如何看待-pdd，我也是贱，下载了-app，我的评价四个字：浪费生命](https://www.v2ex.com/t/726451) ![](assets/new.png)  
-- [2020-11-17-这波，这波最惨的是-mac-经销商好不](https://www.v2ex.com/t/726450) ![](assets/new.png)  
-- [2020-11-17-开源应用日志监控项目](https://www.v2ex.com/t/726447) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -616,21 +616,21 @@
 
 
 - [2020-11-17-资料-|-30-天循序渐进地教你学会-Python](https://toutiao.io/k/lhg1ffp) ![](assets/new.png)  
+- [2020-11-17-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-17-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-17-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-17-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-17-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-17-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-17-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-17-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-17-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-17-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-17-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-17-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-17-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [2020-11-17-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
 - [2020-11-17-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
-- [2020-11-17-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-17-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-17-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-17-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-17-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
-- [2020-11-17-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-17-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-17-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-17-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-17-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-17-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-17-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-17-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

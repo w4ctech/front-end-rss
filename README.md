@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 08:47:46，:rocket: 更新条数: +3078， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 09:04:08，:rocket: 更新条数: +3079， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,13 @@
 </summary>
 
 
+- [2020-11-17-各位大佬，小弟使用-gevent-遇到了-loopexit-的错误](https://www.v2ex.com/t/726289) ![](assets/new.png)  
+- [2020-11-17-深圳-大宇无限招聘-Java-开发工程师](https://www.v2ex.com/t/726288) ![](assets/new.png)  
+- [2020-11-17-想把订的-M1-Mac-退掉](https://www.v2ex.com/t/726286) ![](assets/new.png)  
+- [2020-11-17-求推荐一个简单的-CRM-系统（开源）](https://www.v2ex.com/t/726284) ![](assets/new.png)  
+- [2020-11-17-是不是很快就可以把-iPhone-改成-Mac-电脑使用了？](https://www.v2ex.com/t/726283) ![](assets/new.png)  
+- [2020-11-17-看了-M1-处理器的-Macbook-开箱体验，感觉牙膏-U-真的太垃圾了](https://www.v2ex.com/t/726282) ![](assets/new.png)  
+- [2020-11-17-M1-买回来就写个-web-可以吗](https://www.v2ex.com/t/726281) ![](assets/new.png)  
 - [2020-11-17-印象笔记搜索的-bug，这还能用么。。。](https://www.v2ex.com/t/726280) ![](assets/new.png)  
 - [2020-11-17-联想-Yoga-pro-13s-雷电接口问题](https://www.v2ex.com/t/726279) ![](assets/new.png)  
 - [2020-11-17-求好看的、适用于后台的、支持多语言的-vue-ui-类库](https://www.v2ex.com/t/726278) ![](assets/new.png)  
@@ -546,13 +553,6 @@
 - [2020-11-17-V2er-们的-M1-到货了，热度很高啊，就等评测解禁了，估计快了](https://www.v2ex.com/t/726270) ![](assets/new.png)  
 - [2020-11-17-北京联通-300Mbps-宽带出租，](https://www.v2ex.com/t/726269) ![](assets/new.png)  
 - [2020-11-17-初探-WebAssembly-在-serverless-中的应用](https://www.v2ex.com/t/726268) ![](assets/new.png)  
-- [2020-11-17-转载-威锋网友「黑猫的野望」用新-MacBook-Air-打-Dota2，平均帧率-90+FPS](https://www.v2ex.com/t/726267) ![](assets/new.png)  
-- [2020-11-17-升级到-MacOS11](https://www.v2ex.com/t/726266) ![](assets/new.png)  
-- [2020-11-17-杭州滨江阿里巴巴-场景金融技术部招-Java-p6p7-双休](https://www.v2ex.com/t/726264) ![](assets/new.png)  
-- [2020-11-17-如何日常应用迭代学习到的技术](https://www.v2ex.com/t/726263) ![](assets/new.png)  
-- [2020-11-17-Mac-mini（M1）跑了个-3dmark-wild-life](https://www.v2ex.com/t/726262) ![](assets/new.png)  
-- [2020-11-17-端御科技招聘-|信息安全行业技术新兴公司海纳英才，寻找-bling-bling-的你！](https://www.v2ex.com/t/726260) ![](assets/new.png)  
-- [2020-11-17-北京-百度百度智能云-私有云研发-大量职位内推-Neutron/Nova/Cinder/-Java-服务端](https://www.v2ex.com/t/726259) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -600,8 +600,8 @@
 - [2020-11-17-阿里-Sentinel-框架的一些小扩展](https://toutiao.io/k/z99zluq) ![](assets/new.png)  
 - [2020-11-17-Go-语言今年-11-岁，何去何从，现状到底如何？](https://toutiao.io/k/wj2n55o) ![](assets/new.png)  
 - [2020-11-17-明星有人设？程序员也需要人设管理](https://toutiao.io/k/fz2rpzd) ![](assets/new.png)  
-- [2020-11-17-面试：Spark-刷爆磁盘与-Java-弱引用的关系](https://toutiao.io/k/eb5vd84) ![](assets/new.png)  
 - [2020-11-17-内存数据库解析与主流产品对比（一）](https://toutiao.io/k/x6kj07o) ![](assets/new.png)  
+- [2020-11-17-面试：Spark-刷爆磁盘与-Java-弱引用的关系](https://toutiao.io/k/eb5vd84) ![](assets/new.png)  
 - [2020-11-17-设计模式大冒险第三关：工厂模式，封装和解耦你的代码](https://toutiao.io/k/1jjvoah) ![](assets/new.png)  
 - [2020-11-17-在-Android-和-Hilt-中限定作用域](https://toutiao.io/k/0quw061) ![](assets/new.png)  
 - [2020-11-17-Flutter-Android-Embedder-启动流程](https://toutiao.io/k/6pwut9v) ![](assets/new.png)  

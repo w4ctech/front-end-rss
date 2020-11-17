@@ -14648,6 +14648,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "各位大佬，小弟使用 gevent 遇到了 loopexit 的错误",
+        "link": "https://www.v2ex.com/t/726289",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[深圳] 大宇无限招聘 Java 开发工程师",
+        "link": "https://www.v2ex.com/t/726288",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "想把订的 M1 Mac 退掉",
+        "link": "https://www.v2ex.com/t/726286",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "求推荐一个简单的 CRM 系统（开源）",
+        "link": "https://www.v2ex.com/t/726284",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "是不是很快就可以把 iPhone 改成 Mac 电脑使用了？",
+        "link": "https://www.v2ex.com/t/726283",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "看了 M1 处理器的 Macbook 开箱体验，感觉牙膏 U 真的太垃圾了",
+        "link": "https://www.v2ex.com/t/726282",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "M1 买回来就写个 web 可以吗",
+        "link": "https://www.v2ex.com/t/726281",
+        "date": "2020-11-17"
+      },
+      {
         "title": "印象笔记搜索的 bug，这还能用么。。。",
         "link": "https://www.v2ex.com/t/726280",
         "date": "2020-11-17"
@@ -14811,36 +14846,6 @@
         "title": "有没有老司机带路，当年的 powerbook 在苹果换到英特尔后价格有没有狂跌",
         "link": "https://www.v2ex.com/t/726240",
         "date": "2020-11-17"
-      },
-      {
-        "title": "等一个了解 cpu 架构的大佬来分析一波",
-        "link": "https://www.v2ex.com/t/726238",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "官方临时修复的 Synology Drive Client 客户端 for macOS Big Sur 11.0.1",
-        "link": "https://www.v2ex.com/t/726236",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "Python in 操作在 tuple 和 list 中到底哪个快？",
-        "link": "https://www.v2ex.com/t/726235",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "写了一个可以在控制台执行力扣代码的脚本[js 语法]",
-        "link": "https://www.v2ex.com/t/726234",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "你们要的 Apple M1 游戏性能来了(M1 130fps vs GTX 1050Ti 127fps)",
-        "link": "https://www.v2ex.com/t/726233",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "这算不算饿了么的一个 Bug?",
-        "link": "https://www.v2ex.com/t/726232",
-        "date": "2020-11-17"
       }
     ]
   },
@@ -14982,13 +14987,13 @@
         "date": "2020-11-17"
       },
       {
-        "title": "面试：Spark 刷爆磁盘与 Java 弱引用的关系",
-        "link": "https://toutiao.io/k/eb5vd84",
+        "title": "内存数据库解析与主流产品对比（一）",
+        "link": "https://toutiao.io/k/x6kj07o",
         "date": "2020-11-17"
       },
       {
-        "title": "内存数据库解析与主流产品对比（一）",
-        "link": "https://toutiao.io/k/x6kj07o",
+        "title": "面试：Spark 刷爆磁盘与 Java 弱引用的关系",
+        "link": "https://toutiao.io/k/eb5vd84",
         "date": "2020-11-17"
       },
       {
@@ -15057,13 +15062,13 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-17"
       },
       {
@@ -15077,28 +15082,8 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-17"
-      },
-      {
         "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
         "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-17"
       },
       {
@@ -15107,18 +15092,13 @@
         "date": "2020-11-17"
       },
       {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-17"
+      },
+      {
         "title": "[推荐] 阿里终面：分布式事务原理",
         "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-17"
       },
       {
@@ -15127,8 +15107,33 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-17"
       }
     ]

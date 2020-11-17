@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-17 08:47:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 09:04:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -168,7 +168,6 @@
 
 
 
-- [【V2EX】你们要的-Apple-M1-游戏性能来了M1-130fps-vs-GTX-1050Ti-127fps](https://www.v2ex.com/t/726233)
 - [【安全热点】Python-游戏编程之实现飞机大战含源代码](https://sec.thief.one/article_content?a_id=df75238a1c8221ce191653eea445416d)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -341,9 +340,9 @@
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】端御科技招聘-|信息安全行业技术新兴公司海纳英才，寻找-bling-bling-的你！](https://www.v2ex.com/t/726260)
-- [【V2EX】官方临时修复的-Synology-Drive-Client-客户端-for-macOS-Big-Sur-11.0.1](https://www.v2ex.com/t/726236)
 - [【技术头条】Linux-后台开发常用调试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc)
+- [【安全热点】AIoT安全峰会议题回顾|黑灯:“手机-*-AIoT”-智能安全评估](https://sec.thief.one/article_content?a_id=34e2d1edbb4d58952faeb7c20b9fc1a4)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -412,8 +411,10 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【V2EX】深圳-大宇无限招聘-Java-开发工程师](https://www.v2ex.com/t/726288)
 - [【开发者头条】面试：Spark-刷爆磁盘与-Java-弱引用的关系](https://toutiao.io/k/eb5vd84)
 - [【开发者头条】推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
+- [【开发者头条】推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2)
 - [【安全热点】【美团招聘】冬季专场Vol.1~这13个岗位热招中!](https://sec.thief.one/article_content?a_id=0c94c23144faca42b66f855299c0988d)
 - [【安全热点】招聘-|-上海埃帕信息科技有限公司](https://sec.thief.one/article_content?a_id=b64567b976b9fa210b3a50d12fc1ca55)
 - [......【查看更多】......](./details/tags/job-interview.md)

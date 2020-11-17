@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 19:19:30，:rocket: 更新条数: +3310， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 19:33:02，:rocket: 更新条数: +3310， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-17-转：-Macbook-m1-程序员向兼容测试](https://www.v2ex.com/t/726467) ![](assets/new.png)  
 - [2020-11-17-我的静态博客被人克隆了，我能做些什么呢？](https://www.v2ex.com/t/726466) ![](assets/new.png)  
 - [2020-11-17-迫于把持不住了，求问-M1-芯-Macmini-搭配小米-34-带鱼屏效果如何？](https://www.v2ex.com/t/726465) ![](assets/new.png)  
 - [2020-11-17-MacBook-Pro-Retina,-15-inch,-Mid-2015-升级-macOS-Big-Sur-更耗电了-更烫了。。。](https://www.v2ex.com/t/726464) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-17-m1-芯片的-mac-测评大量解禁，各种吊打-i9，真香](https://www.v2ex.com/t/726445) ![](assets/new.png)  
 - [2020-11-17-前端求助-ios-下使用-UC-浏览器-video-标签播放问题](https://www.v2ex.com/t/726443) ![](assets/new.png)  
 - [2020-11-17-Arm-macbook-总有人问适合开发吗](https://www.v2ex.com/t/726441) ![](assets/new.png)  
-- [2020-11-17-会不会以后服务器市场也会被不讲武德吊打](https://www.v2ex.com/t/726440) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -633,8 +633,8 @@
 - [2020-11-17-一文看懂-Python-系列之值得收藏的-10-大-PyCharm-常用使用技巧（多图）](https://toutiao.io/k/nmohar5) ![](assets/new.png)  
 - [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) ![](assets/new.png)  
 - [2020-11-17-积木-Sketch-插件进阶开发指南](https://toutiao.io/k/oxckmap) ![](assets/new.png)  
-- [2020-11-17-俗说-GC-之-Heap-区内存模型的演进](https://toutiao.io/k/fhddysl) ![](assets/new.png)  
 - [2020-11-17-你的测试写全了吗？](https://toutiao.io/k/3b01kk5) ![](assets/new.png)  
+- [2020-11-17-俗说-GC-之-Heap-区内存模型的演进](https://toutiao.io/k/fhddysl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

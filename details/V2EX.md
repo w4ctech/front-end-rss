@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-17 19:19:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 19:33:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-17-转：-Macbook-m1-程序员向兼容测试](https://www.v2ex.com/t/726467) 
 - [2020-11-17-我的静态博客被人克隆了，我能做些什么呢？](https://www.v2ex.com/t/726466) 
 - [2020-11-17-迫于把持不住了，求问-M1-芯-Macmini-搭配小米-34-带鱼屏效果如何？](https://www.v2ex.com/t/726465) 
 - [2020-11-17-MacBook-Pro-Retina,-15-inch,-Mid-2015-升级-macOS-Big-Sur-更耗电了-更烫了。。。](https://www.v2ex.com/t/726464) 
@@ -41,4 +42,3 @@
 - [2020-11-17-想通过-USB2.0-连接-iPad-，把-iPad-当副屏，有比较好的方案吗？系统是-Win10](https://www.v2ex.com/t/726421) 
 - [2020-11-17-chrome-的两个小功能很喜欢：-QR-code-分享和标签分组](https://www.v2ex.com/t/726420) 
 - [2020-11-17-请快去尝试-gssettings，你会回来感谢我的](https://www.v2ex.com/t/726419) 
-- [2020-11-17-程序员怎么用代码为社会做贡献？](https://www.v2ex.com/t/726417) 

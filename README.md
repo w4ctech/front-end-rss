@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 06:48:03，:rocket: 更新条数: +3070， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 07:04:23，:rocket: 更新条数: +3069， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-17-你们要的-Apple-M1-游戏性能来了。](https://www.v2ex.com/t/726207) ![](assets/new.png)  
 - [2020-11-17-隔壁领导一直发出噪音。。。求推荐耳机](https://www.v2ex.com/t/726203) ![](assets/new.png)  
 - [2020-11-17-三星-970-EVO-Plus-2TB-美亚特价：￥-1,826.73](https://www.v2ex.com/t/726202) ![](assets/new.png)  
 - [2020-11-17-想问下大厂的同学们你们的-NLP-基础设施是什么样的](https://www.v2ex.com/t/726199) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-17-PS5-谁买了啊配个啥电视合适呢？](https://www.v2ex.com/t/726181) ![](assets/new.png)  
 - [2020-11-17-听说安卓的碎片化比较严重，那么最佳的消息推送方案是什么？](https://www.v2ex.com/t/726180) ![](assets/new.png)  
 - [2020-11-17-ipv6-nat64-方案-tayga-有兄弟了解吗-，找了一圈没有找到合适的文档。](https://www.v2ex.com/t/726179) ![](assets/new.png)  
-- [2020-11-17-询个价，-iphone12-128G-港版-未拆封-出多少合适](https://www.v2ex.com/t/726177) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-17-什么是低代码（Low-Code）？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13954&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778355%3Futm_content%3Dg_1000205617%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-17-企业双11业绩增长156%-、成交额突破151亿元-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13953&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778319%3Futm_content%3Dg_1000205616%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-17-考拉海购全面云原生迁移之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13952&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778144%3Futm_content%3Dg_1000205615%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-17-大促场景系统稳定性保障实践经验分享-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13951&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778248%3Futm_content%3Dg_1000205300%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-17-提高-Github下载速度到-2MB/s-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13937&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQBA18YbevaWtaYyaQnSivw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-17-Linux-后台开发常用调试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-17-8-个适合程序员学习新技能的网站-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13935&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7JqXyiNHFt0OpjVKXxHm_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-17-带你全面认识-Linux-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13934&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZek54lbbJYiakHK_sc6Prw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -610,8 +610,8 @@
 - [2020-11-17-把对象交给-Spring-管理的-3-种方法及经典应用](https://toutiao.io/k/ak09j1o) ![](assets/new.png)  
 - [2020-11-17-译-理解-Rust-中的闭包](https://toutiao.io/k/1e4cbbn) ![](assets/new.png)  
 - [2020-11-17-使用-Kubebuilder-定义-CRD-输出列](https://toutiao.io/k/7q96kq3) ![](assets/new.png)  
-- [2020-11-17-一文看懂-Python-系列之值得收藏的-10-大-PyCharm-常用使用技巧（多图）](https://toutiao.io/k/nmohar5) ![](assets/new.png)  
 - [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) ![](assets/new.png)  
+- [2020-11-17-一文看懂-Python-系列之值得收藏的-10-大-PyCharm-常用使用技巧（多图）](https://toutiao.io/k/nmohar5) ![](assets/new.png)  
 - [2020-11-17-积木-Sketch-插件进阶开发指南](https://toutiao.io/k/oxckmap) ![](assets/new.png)  
 - [2020-11-17-俗说-GC-之-Heap-区内存模型的演进](https://toutiao.io/k/fhddysl) ![](assets/new.png)  
 - [2020-11-17-你的测试写全了吗？](https://toutiao.io/k/3b01kk5) ![](assets/new.png)  

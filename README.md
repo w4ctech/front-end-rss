@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 12:47:36，:rocket: 更新条数: +3315， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 13:04:08，:rocket: 更新条数: +3314， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-17-「艰难的决定」——放弃-QQ-邮箱了](https://www.v2ex.com/t/726391) ![](assets/new.png)  
 - [2020-11-17-如何设置-Windows-10-笔记本电脑在休眠（非睡眠）模式下，可以使用键盘或者鼠标唤醒？](https://www.v2ex.com/t/726389) ![](assets/new.png)  
 - [2020-11-17-手里时-2016MBP（3.3GHzi7-16+256），换-8+256-的-Air-剪辑/压制视频体验会有明显提升么](https://www.v2ex.com/t/726387) ![](assets/new.png)  
 - [2020-11-17-坐标南京，前端，拿了亚信安全的-offer，请问有在亚信安全的同学么，里面工作氛围咋样，加班多么](https://www.v2ex.com/t/726386) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-17-年底社招-offer-求分析](https://www.v2ex.com/t/726370) ![](assets/new.png)  
 - [2020-11-17-最近-Star-Link-的-beta-测试开始了，整合一些情报](https://www.v2ex.com/t/726369) ![](assets/new.png)  
 - [2020-11-17-Java-的-web-服务会在什么情况下读磁盘？](https://www.v2ex.com/t/726368) ![](assets/new.png)  
-- [2020-11-17-现在还可以买-airPods-Pro-吗，下一代预计什么时候发布](https://www.v2ex.com/t/726367) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -646,6 +646,9 @@
 </summary>
 
 
+- [2020-11-17-每日攻防资讯简报Nov.17th](https://sec.thief.one/article_content?a_id=9f4103c57c50c2caf6ff882fab04e84d) ![](assets/new.png)  
+- [2020-11-17-内鬼,无处不在](https://sec.thief.one/article_content?a_id=38ee1035b27a7fa2a50e5b0a71e071c6) ![](assets/new.png)  
+- [2020-11-17-安全内参|2021年新兴网络安全威胁预测](https://sec.thief.one/article_content?a_id=856effe1224002d56dddfbfb135207e3) ![](assets/new.png)  
 - [2020-11-17-你常常看到的-__init__.py-到底是个啥?](https://sec.thief.one/article_content?a_id=54ec9bdd3ad2e0f38a4f46ee5eecbe3e) ![](assets/new.png)  
 - [2020-11-17-绿盟科技全力护航2020电力行业网络安全攻防邀请赛](https://sec.thief.one/article_content?a_id=2e0de21cfe08f99a08e8dd5b1cd39748) ![](assets/new.png)  
 - [2020-11-17-AIoT安全峰会议题回顾|光明守卫:MIUI12全副武装的隐私保护](https://sec.thief.one/article_content?a_id=5194cd48d9e492daa9c9dd74c463a9c9) ![](assets/new.png)  
@@ -663,9 +666,6 @@
 - [2020-11-17-第九届中国创新创业大赛全国总决赛在杭州圆满落幕](https://sec.thief.one/article_content?a_id=3c24b61eab30dce825d9431cac87b4a1) ![](assets/new.png)  
 - [2020-11-17-CVE-2020-25705/SAD-DNS:DNS缓存投毒攻击](https://sec.thief.one/article_content?a_id=ac9748667219d27699cfea22383bc746) ![](assets/new.png)  
 - [2020-11-17-国舜股份强势入选《CCSIP-2020中国网络安全产业全景图》9大领域14...](https://sec.thief.one/article_content?a_id=afbc9ae52d0ebe1b43c6e74a19868444) ![](assets/new.png)  
-- [2020-11-17-CVE-2020-13957-Apache-Solr-未授权上传漏洞](https://sec.thief.one/article_content?a_id=2657c4aaf32364364d0766a21cae46a1) ![](assets/new.png)  
-- [2020-11-17-K神手札:比特币震荡盘升,市场活跃度增加](https://sec.thief.one/article_content?a_id=4d37b7d2a6b7ecc4d5ae65704389ca7f) ![](assets/new.png)  
-- [2020-11-17-NIST《实现零信任架构》正式版发布](https://sec.thief.one/article_content?a_id=d67ed893477a6369c506d822116adf40) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

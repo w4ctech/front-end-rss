@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 22:13:06，:rocket: 更新条数: +3211， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 22:24:35，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)  
+- [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -646,6 +646,26 @@
 </summary>
 
 
+- [2020-11-17-每日攻防资讯简报Nov.17th](https://sec.thief.one/article_content?a_id=9f4103c57c50c2caf6ff882fab04e84d) ![](assets/new.png)  
+- [2020-11-17-内鬼,无处不在](https://sec.thief.one/article_content?a_id=38ee1035b27a7fa2a50e5b0a71e071c6) ![](assets/new.png)  
+- [2020-11-17-安全内参|2021年新兴网络安全威胁预测](https://sec.thief.one/article_content?a_id=856effe1224002d56dddfbfb135207e3) ![](assets/new.png)  
+- [2020-11-17-你常常看到的-__init__.py-到底是个啥?](https://sec.thief.one/article_content?a_id=54ec9bdd3ad2e0f38a4f46ee5eecbe3e) ![](assets/new.png)  
+- [2020-11-17-绿盟科技全力护航2020电力行业网络安全攻防邀请赛](https://sec.thief.one/article_content?a_id=2e0de21cfe08f99a08e8dd5b1cd39748) ![](assets/new.png)  
+- [2020-11-17-AIoT安全峰会议题回顾|光明守卫:MIUI12全副武装的隐私保护](https://sec.thief.one/article_content?a_id=5194cd48d9e492daa9c9dd74c463a9c9) ![](assets/new.png)  
+- [2020-11-17-漏洞武器化评估小技巧](https://sec.thief.one/article_content?a_id=5c25003992ae1672c6be9027b4134c60) ![](assets/new.png)  
+- [2020-11-17-2020年xnuca-oooooooldjs题解](https://sec.thief.one/article_content?a_id=e3a1dcf20cf44cc190081f7f21f9dd29) ![](assets/new.png)  
+- [2020-11-17-带壳App去除强制升级](https://sec.thief.one/article_content?a_id=262baac762582a8fd61d066bcbf5369e) ![](assets/new.png)  
+- [2020-11-17-勒索软件Egregor通过打印机打印勒索信息](https://sec.thief.one/article_content?a_id=8eb4a3c4b7f1876d0f67d2ac71e71a6a) ![](assets/new.png)  
+- [2020-11-17-iPhone12“充电Bug门”无人生还?](https://sec.thief.one/article_content?a_id=3881f5c66e88ae5915915bbc9eb5f506) ![](assets/new.png)  
+- [2020-11-17-滴滴安全应急响应中心致谢小米安全团队](https://sec.thief.one/article_content?a_id=be71507b7d74de522526a7c25ce55956) ![](assets/new.png)  
+- [2020-11-17-【漏洞通告】Citrix-SD-WAN远程代码执行漏洞通告CVE-2020-8271](https://sec.thief.one/article_content?a_id=7f233b95908049c56ced4293ad91db27) ![](assets/new.png)  
+- [2020-11-17-百度杯白帽众测挑战赛,报名现已开启!](https://sec.thief.one/article_content?a_id=ac487017c8e92b8b3df9a110492e87a8) ![](assets/new.png)  
+- [2020-11-17-一种针对Webpack等前端打包工具构建的网站的自动化测试思路附开...](https://sec.thief.one/article_content?a_id=22be5009dcd050e7cf81e5fea087f96d) ![](assets/new.png)  
+- [2020-11-17-黑客盗取了加密货币服务Akropolis价值约200万美元的代币](https://sec.thief.one/article_content?a_id=5c3638079359e736a842b9fbb5cd26d9) ![](assets/new.png)  
+- [2020-11-17-IBM获得针对多人游戏内交易的拟议区块链共识专利](https://sec.thief.one/article_content?a_id=ea211fafce3a3d954f88bbcbcf047ede) ![](assets/new.png)  
+- [2020-11-17-第九届中国创新创业大赛全国总决赛在杭州圆满落幕](https://sec.thief.one/article_content?a_id=3c24b61eab30dce825d9431cac87b4a1) ![](assets/new.png)  
+- [2020-11-17-CVE-2020-25705/SAD-DNS:DNS缓存投毒攻击](https://sec.thief.one/article_content?a_id=ac9748667219d27699cfea22383bc746) ![](assets/new.png)  
+- [2020-11-17-国舜股份强势入选《CCSIP-2020中国网络安全产业全景图》9大领域14...](https://sec.thief.one/article_content?a_id=afbc9ae52d0ebe1b43c6e74a19868444) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

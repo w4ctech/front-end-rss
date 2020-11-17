@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-17 13:11:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 13:20:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-17-Visual-Studio-for-mac、Xamarin.forms，用-M1-跑点不同的东西](https://www.v2ex.com/t/726394) 
+- [2020-11-17-币安不进行个人认证如何进行场外交易](https://www.v2ex.com/t/726393) 
 - [2020-11-17-新的-Mac-mini-和-MacBook-能够从通过-USB-接口连接的外置-SSD-上启动吗？](https://www.v2ex.com/t/726392) 
 - [2020-11-17-「艰难的决定」——放弃-QQ-邮箱了](https://www.v2ex.com/t/726391) 
 - [2020-11-17-如何设置-Windows-10-笔记本电脑在休眠（非睡眠）模式下，可以使用键盘或者鼠标唤醒？](https://www.v2ex.com/t/726389) 
@@ -42,7 +44,3 @@
 - [2020-11-17-Adobe-15.99-刀/月（包含所有软件），白菜价，设计🐶的福音](https://www.v2ex.com/t/726351) 
 - [2020-11-17-临床医学与程序员](https://www.v2ex.com/t/726350) 
 - [2020-11-17-Mac-Mini-有必要上-16g-内存吗](https://www.v2ex.com/t/726349) 
-- [2020-11-17-手机丢在滴滴上了，僵持住了](https://www.v2ex.com/t/726346) 
-- [2020-11-17-MX-Master-3-在-macOS-下用得很蛋疼](https://www.v2ex.com/t/726345) 
-- [2020-11-17-每次启动-chrome-后过一会儿访问-google.com-时，就显示证书异常。重启-chrome-或重置-dns-又正常](https://www.v2ex.com/t/726344) 
-- [2020-11-17-🔥新加坡-技术移民机会纽交所上市公司，寻找后台技术-leader，大数据基础架构-leader，移动端安全技术专家，云平台数据库-RDS-开发-leader,机器学习平台开...](https://www.v2ex.com/t/726343) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 09:23:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 09:33:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -6,6 +6,3 @@
 > 关键字：`React`、`Rax`、`Nerv`、`Redux`、`useEffect`、`Hooks`
 
 
-
-- [2020-11-16-【React源码解读】React.cloneElement分析](https://juejin.im/post/6895984646597967879) 
-- [2020-11-16-React-Hook丨用好这9个钩子，所向披靡](https://juejin.im/post/6895966927500345351) 

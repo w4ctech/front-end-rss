@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 05:04:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 05:11:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,5 +42,3 @@
 - [2020-11-17-请问一下有人遇到过-CAGradientLayer-无法截图的问题](https://www.v2ex.com/t/726124) 
 - [2020-11-17-iOS-米家-APP-半夜自动运行](https://www.v2ex.com/t/726122) 
 - [2020-11-17-自己注册公司给自己交社保这种想法可行吗？](https://www.v2ex.com/t/726120) 
-- [2020-11-17-想问一下有没有把-tcpdump-这种流量捕捉封装成-web-可交互操作的项目](https://www.v2ex.com/t/726119) 
-- [2020-11-17-请问一下前端打印-iframe-如何打印多页-iframe-里有个-div-有滚动条只打可视区域](https://www.v2ex.com/t/726117) 

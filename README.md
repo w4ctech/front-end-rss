@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 10:25:31，:rocket: 更新条数: +3316， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 10:33:31，:rocket: 更新条数: +3314， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -69,7 +69,6 @@
 - [2020-11-16-大流行手记|11月16日：英首相密接后隔离-研究称去年9月意大利或已有感染者](https://m.caixin.com/m/2020-11-17/101629015.html) ![](assets/new.png)  
 - [2020-11-15-多地进口冷链包装检出新冠阳性-交通部发文加强冷链运输防控](http://m.companies.caixin.com/m/2020-11-16/101628925.html) ![](assets/new.png)  
 - [2020-11-15-又一新冠mRNA疫苗开启中国临床试验-其他疫苗进展如何？](https://m.caixin.com/m/2020-11-16/101628915.html) ![](assets/new.png)  
-- [2020-11-15-最新海外疫情：新冠感染近5428万-累计死亡超131万](https://m.caixin.com/m/2020-11-16/101628857.html) ![](assets/new.png)  
 - [2020-11-15-上海：高风险进口冷链食品入沪将进行核酸检测和外包装消毒](https://m.caixin.com/m/2020-11-16/101628578.html) ![](assets/new.png)  
 - [2020-11-15-厦门1份进口冷冻猪肉外包装核酸检测阳性-未流入市场](https://m.caixin.com/m/2020-11-16/101628582.html) ![](assets/new.png)  
 - [2020-11-15-【境内疫情观察】全国新增8例境外输入病例（11月15日）](http://m.database.caixin.com/m/2020-11-16/101628695.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-11-11-【境内疫情观察】天津新增1例本土确诊病例（11月11日）](http://m.database.caixin.com/m/2020-11-12/101626650.html) ![](assets/new.png)  
 - [2020-11-11-大流行手记|11月11日：美拟12月启动新冠疫苗接种-欧洲多国医疗体系负重](https://m.caixin.com/m/2020-11-12/101626574.html) ![](assets/new.png)  
 - [2020-11-11-日本忧第三波疫情袭来-北海道入冬病例又激增](http://m.international.caixin.com/m/2020-11-12/101626896.html) ![](assets/new.png)  
+- [2020-11-10-香港启动“单向通关”-首阶段每日5000配额](http://m.china.caixin.com/m/2020-11-11/101626056.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,9 +553,9 @@
 </summary>
 
 
+- [2020-11-17-V2-哪里可以设置点击标题是新开标签页而不是当前标签页直接跳转打开](https://www.v2ex.com/t/726338) ![](assets/new.png)  
 - [2020-11-17-周日的-GDG-上海-有没有道友](https://www.v2ex.com/t/726337) ![](assets/new.png)  
 - [2020-11-17-在上海工作，最近要到深圳去一趟，是否需要提前做核酸检测呢？麻烦有相同经历、知道的人解答下，感恩不尽！](https://www.v2ex.com/t/726335) ![](assets/new.png)  
-- [2020-11-17-迫于-arm-mini-询价看看我这台-2020-5K-iMac-好多钱](https://www.v2ex.com/t/726334) ![](assets/new.png)  
 - [2020-11-17-AppleM1-的傲娇，市面上没一个能打的游戏芯片，包括-RTX-3090。](https://www.v2ex.com/t/726332) ![](assets/new.png)  
 - [2020-11-17-请教-V2-大佬一个内网的业务方案](https://www.v2ex.com/t/726331) ![](assets/new.png)  
 - [2020-11-17-外置网卡-Mac-os-11.0-Big-Sur-驱动来了](https://www.v2ex.com/t/726330) ![](assets/new.png)  

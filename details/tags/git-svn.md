@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 08:26:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 08:32:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -8,6 +8,5 @@
 
 
 - [2020-11-17-记录一下自己成长的专题——github-项目推荐](https://www.v2ex.com/t/726224) 
-- [2020-11-17-golang-有没有能用的-odata-实现？-google-了很多，唯一找得到一个-github-项目-godata-也难产了](https://www.v2ex.com/t/726220) 
 - [2020-11-17-提高-Github下载速度到-2MB/s-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13937&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQBA18YbevaWtaYyaQnSivw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-16-Galaxy-Digital第三季度营收反映机构加密采用潮](https://sec.thief.one/article_content?a_id=e6e766633673db3dfbfc1f6103fd11bd) 

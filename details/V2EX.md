@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-17 13:20:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 13:32:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-17-又跟我一样准备回退-big-sur-的嘛](https://www.v2ex.com/t/726398) 
+- [2020-11-17-问-MySQL-相关的问题，有比-StackOverflow-更好的地方吗？](https://www.v2ex.com/t/726397) 
 - [2020-11-17-Visual-Studio-for-mac、Xamarin.forms，用-M1-跑点不同的东西](https://www.v2ex.com/t/726394) 
 - [2020-11-17-币安不进行个人认证如何进行场外交易](https://www.v2ex.com/t/726393) 
 - [2020-11-17-新的-Mac-mini-和-MacBook-能够从通过-USB-接口连接的外置-SSD-上启动吗？](https://www.v2ex.com/t/726392) 
@@ -43,4 +45,3 @@
 - [2020-11-17-ESLint-中文排版检查插件（听说有人中英文混排就是不加空格？）](https://www.v2ex.com/t/726352) 
 - [2020-11-17-Adobe-15.99-刀/月（包含所有软件），白菜价，设计🐶的福音](https://www.v2ex.com/t/726351) 
 - [2020-11-17-临床医学与程序员](https://www.v2ex.com/t/726350) 
-- [2020-11-17-Mac-Mini-有必要上-16g-内存吗](https://www.v2ex.com/t/726349) 

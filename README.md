@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 13:20:21，:rocket: 更新条数: +3078， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 13:32:59，:rocket: 更新条数: +3079， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-17-又跟我一样准备回退-big-sur-的嘛](https://www.v2ex.com/t/726398) ![](assets/new.png)  
+- [2020-11-17-问-MySQL-相关的问题，有比-StackOverflow-更好的地方吗？](https://www.v2ex.com/t/726397) ![](assets/new.png)  
 - [2020-11-17-Visual-Studio-for-mac、Xamarin.forms，用-M1-跑点不同的东西](https://www.v2ex.com/t/726394) ![](assets/new.png)  
 - [2020-11-17-币安不进行个人认证如何进行场外交易](https://www.v2ex.com/t/726393) ![](assets/new.png)  
 - [2020-11-17-新的-Mac-mini-和-MacBook-能够从通过-USB-接口连接的外置-SSD-上启动吗？](https://www.v2ex.com/t/726392) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-17-夜间模式-iPhone-12-Pro-Max-败给了-小米-Redmi-K20-Pro-至尊版](https://www.v2ex.com/t/726375) ![](assets/new.png)  
 - [2020-11-17-Speedometer2.0-跑分请使用-匿名模式跑分](https://www.v2ex.com/t/726374) ![](assets/new.png)  
 - [2020-11-17-17-年丐版-MBP-换购-M1-款-MacBook-Air-丐版值得吗？](https://www.v2ex.com/t/726373) ![](assets/new.png)  
-- [2020-11-17-讲一个-vmware-的笑话](https://www.v2ex.com/t/726372) ![](assets/new.png)  
-- [2020-11-17-抓住快手上市前最后的机会-16-薪起高年终-北京+杭州大力发展中-+深圳+上海等地内推](https://www.v2ex.com/t/726371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

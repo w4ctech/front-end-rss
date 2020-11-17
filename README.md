@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 06:13:27，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 06:27:28，:rocket: 更新条数: +3304， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,11 +473,11 @@
 </summary>
 
 
+- [2020-11-16-单元测试](https://juejin.im/post/6895972159219466248) ![](assets/new.png)  
 - [2020-11-16-Apollo入门引导（三）：编写查询解析器](https://juejin.im/post/6895894779268169742) ![](assets/new.png)  
 - [2020-11-16-一文带你玩转设计模式之「责任链」](https://juejin.im/post/6895894824415657991) ![](assets/new.png)  
 - [2020-11-16-精选！18个-VS-Code-高效插件，献给需要的前端程序猿/媛](https://juejin.im/post/6895742013560815629) ![](assets/new.png)  
 - [2020-11-15-仿某度搜索页面，终于不用在被某度的垃圾信息辣眼睛了](https://juejin.im/post/6895339464013381640) ![](assets/new.png)  
-- [2020-11-15-Vue全家桶打造多源音乐平台](https://juejin.im/post/6895321619359596552) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +553,10 @@
 </summary>
 
 
+- [2020-11-17-如何批量翻译-excel-的英文内容](https://www.v2ex.com/t/726193) ![](assets/new.png)  
+- [2020-11-17-请问远程桌面网关Remote-Desktop-Gateway,-RDG的架设和部署有什么简单的方案吗？](https://www.v2ex.com/t/726192) ![](assets/new.png)  
+- [2020-11-17-有什么工具和办法可以篡改报文后重发-TCP-包？-WI-FI-环境](https://www.v2ex.com/t/726191) ![](assets/new.png)  
+- [2020-11-17-去年注册的-paypal-登录要添加手机号码怎么办？](https://www.v2ex.com/t/726189) ![](assets/new.png)  
 - [2020-11-17-几百块追剧的平板有推荐吗？](https://www.v2ex.com/t/726188) ![](assets/new.png)  
 - [2020-11-17-更新-macOS-Big-Sur，-Axure-RP8.1-有兼容问题](https://www.v2ex.com/t/726186) ![](assets/new.png)  
 - [2020-11-17-阿里云盘原来就是-Teambition-的附带功能-今天算是转正了-收到了邀请码-2T-空间](https://www.v2ex.com/t/726183) ![](assets/new.png)  
@@ -549,10 +573,6 @@
 - [2020-11-17-macOS-Big-Sur-M1-上手体验](https://www.v2ex.com/t/726164) ![](assets/new.png)  
 - [2020-11-17-Macbook-Air-M1-8+256-初步上手体验](https://www.v2ex.com/t/726163) ![](assets/new.png)  
 - [2020-11-17-突然想到一个问题，荣耀手机会不会不再支持华为系统？](https://www.v2ex.com/t/726160) ![](assets/new.png)  
-- [2020-11-17-Node.js-在-11-月-16-日发布了安全更新](https://www.v2ex.com/t/726159) ![](assets/new.png)  
-- [2020-11-17-可能火星了，原来-Big-sur-能隐藏菜单栏](https://www.v2ex.com/t/726158) ![](assets/new.png)  
-- [2020-11-17-Big-Sur-11.0.1-安装-Appstore-里的-XCode-奇慢...有人遇到过么](https://www.v2ex.com/t/726157) ![](assets/new.png)  
-- [2020-11-17-现在市场上有-MFM-认证的磁吸充电器了嘛](https://www.v2ex.com/t/726156) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -601,8 +621,8 @@
 - [2020-11-17-Go-语言今年-11-岁，何去何从，现状到底如何？](https://toutiao.io/k/wj2n55o) ![](assets/new.png)  
 - [2020-11-17-明星有人设？程序员也需要人设管理](https://toutiao.io/k/fz2rpzd) ![](assets/new.png)  
 - [2020-11-17-面试：Spark-刷爆磁盘与-Java-弱引用的关系](https://toutiao.io/k/eb5vd84) ![](assets/new.png)  
-- [2020-11-17-内存数据库解析与主流产品对比（一）](https://toutiao.io/k/x6kj07o) ![](assets/new.png)  
 - [2020-11-17-设计模式大冒险第三关：工厂模式，封装和解耦你的代码](https://toutiao.io/k/1jjvoah) ![](assets/new.png)  
+- [2020-11-17-内存数据库解析与主流产品对比（一）](https://toutiao.io/k/x6kj07o) ![](assets/new.png)  
 - [2020-11-17-在-Android-和-Hilt-中限定作用域](https://toutiao.io/k/0quw061) ![](assets/new.png)  
 - [2020-11-17-Flutter-Android-Embedder-启动流程](https://toutiao.io/k/6pwut9v) ![](assets/new.png)  
 - [2020-11-17-一条数据在-Apache-Iceberg-之旅：写过程分析](https://toutiao.io/k/pxparkc) ![](assets/new.png)  

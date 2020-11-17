@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-17 11:11:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 11:20:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -74,7 +74,6 @@
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
 - [【掘金前端】VUE-SSR初探](https://juejin.im/post/6896007907050487816)
-- [【掘金前端】ckeditor4-在vue中使用的坑！！！](https://juejin.im/post/6895967213367328776)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [......【查看更多】......](./details/tags/vue.md)
 
@@ -399,7 +398,6 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【V2EX】话说，如果项目很不咋地，怎么优化简历呢？](https://www.v2ex.com/t/726307)
 - [【开发者头条】百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x)
 - [【开发者头条】推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad)
 - [......【查看更多】......](./details/tags/optimization.md)

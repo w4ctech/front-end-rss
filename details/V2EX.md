@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 18:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 19:04:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2020-11-17-chrome-的两个小功能很喜欢：-QR-code-分享和标签分组](https://www.v2ex.com/t/726420) 
 - [2020-11-17-请快去尝试-gssettings，你会回来感谢我的](https://www.v2ex.com/t/726419) 
 - [2020-11-17-程序员怎么用代码为社会做贡献？](https://www.v2ex.com/t/726417) 
-- [2020-11-17-联想-r7000p-能不能战五年？](https://www.v2ex.com/t/726416) 

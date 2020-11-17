@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 22:35:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 22:47:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,7 +33,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-17-Firefox-83-增加了一个-HTTPS-only-模式](https://www.v2ex.com/t/726463) 
 - [2020-11-17-GDB-程序崩溃没有效代码堆栈该怎么调试？要被折磨疯了](https://www.v2ex.com/t/726428) 
-- [2020-11-17-chrome-的两个小功能很喜欢：-QR-code-分享和标签分组](https://www.v2ex.com/t/726420) 
 - [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) 
 - [2020-11-17-安全内参|2021年新兴网络安全威胁预测](https://sec.thief.one/article_content?a_id=856effe1224002d56dddfbfb135207e3) 
 - [2020-11-17-绿盟科技全力护航2020电力行业网络安全攻防邀请赛](https://sec.thief.one/article_content?a_id=2e0de21cfe08f99a08e8dd5b1cd39748) 

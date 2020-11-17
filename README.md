@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 02:33:23，:rocket: 更新条数: +3072， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 02:47:42，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -454,10 +454,10 @@
 
 
 - [2020-11-16-从游戏角度看发布-订阅者模式](https://juejin.im/post/6895896273400889351) ![](assets/new.png)  
-- [2020-11-16-一文带你玩转设计模式之「责任链」](https://juejin.im/post/6895894824415657991) ![](assets/new.png)  
 - [2020-11-16-代码规范之-理解ESLint、Prettier、EditorConfig](https://juejin.im/post/6895889063111294990) ![](assets/new.png)  
 - [2020-11-16-SPA-路由三部曲之核心原理](https://juejin.im/post/6895882310458343431) ![](assets/new.png)  
 - [2020-11-16-Web-Locks-API:-跨-Tab-资源同步](https://juejin.im/post/6895792867080405005) ![](assets/new.png)  
+- [2020-11-15-把玩飞镖：Dart-VM-集成入门](https://juejin.im/post/6895614802585255944) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,15 @@
 </summary>
 
 
+- [2020-11-17-求推荐-iPhone-12-搭配使用的无线充、车载磁吸无线充、翻盖壳](https://www.v2ex.com/t/726078) ![](assets/new.png)  
+- [2020-11-17-黑苹果](https://www.v2ex.com/t/726077) ![](assets/new.png)  
+- [2020-11-17-MacBook-Pro-15-年-15-寸-尸体-能卖多少钱](https://www.v2ex.com/t/726076) ![](assets/new.png)  
+- [2020-11-17-讨论一下我司发的-JD](https://www.v2ex.com/t/726075) ![](assets/new.png)  
+- [2020-11-17-今天玩了下某运营商的-devOps-系统](https://www.v2ex.com/t/726074) ![](assets/new.png)  
+- [2020-11-17-我觉得租房还是传统中介靠谱](https://www.v2ex.com/t/726073) ![](assets/new.png)  
+- [2020-11-17-请问高速连接线属于高速吗？实习期可以上高速连接线吗？](https://www.v2ex.com/t/726071) ![](assets/new.png)  
+- [2020-11-17-M1-不讲武德啊，各位](https://www.v2ex.com/t/726070) ![](assets/new.png)  
+- [2020-11-17-这就是多少人羡慕的国企，程序员敢比吗？](https://www.v2ex.com/t/726069) ![](assets/new.png)  
 - [2020-11-17-OCSP-事故有多大范围](https://www.v2ex.com/t/726067) ![](assets/new.png)  
 - [2020-11-17-Intel-Macbook-是无人问津了么？](https://www.v2ex.com/t/726066) ![](assets/new.png)  
 - [2020-11-17-想自动翻译非英文-issues，找了一圈没找到就自己实现了一个-action，大家鉴定下这是伪需求么](https://www.v2ex.com/t/726063) ![](assets/new.png)  
@@ -544,15 +553,6 @@
 - [2020-11-17-ipv6-现在有什么（实用的）应用场景吗=-=](https://www.v2ex.com/t/726055) ![](assets/new.png)  
 - [2020-11-17-求一个在-Coding-上好用的图床，蟹蟹](https://www.v2ex.com/t/726054) ![](assets/new.png)  
 - [2020-11-17-杭州蛋壳跑路了吗？有维权群吗？](https://www.v2ex.com/t/726052) ![](assets/new.png)  
-- [2020-11-17-作为一个后端，这么做到底是帮了前端还是害了前端？](https://www.v2ex.com/t/726050) ![](assets/new.png)  
-- [2020-11-17-Vue-有什么扩展可以做到深层数据变更也能响应式吗？](https://www.v2ex.com/t/726048) ![](assets/new.png)  
-- [2020-11-17-刚有-v2er-说-Twitter-有人拿到-M1-的-Mac-了，我找到了链接](https://www.v2ex.com/t/726047) ![](assets/new.png)  
-- [2020-11-17-有什么助眠类的好方法吗？比如像是我现在使用的好眠-APP，还有其它的方法吗？](https://www.v2ex.com/t/726046) ![](assets/new.png)  
-- [2020-11-17-黑帕云前端性能揭秘---React-性能调优-上篇](https://www.v2ex.com/t/726045) ![](assets/new.png)  
-- [2020-11-17-有人熟悉-windows-hello-对指纹识别设备有什么要求吗](https://www.v2ex.com/t/726044) ![](assets/new.png)  
-- [2020-11-17-macOS-上有没有类似于-idea-剪贴板的全局剪贴板?](https://www.v2ex.com/t/726043) ![](assets/new.png)  
-- [2020-11-17-500-强金融外企-高级-Java-坐标广州](https://www.v2ex.com/t/726042) ![](assets/new.png)  
-- [2020-11-17-有什么觉得很厉害中二的编程名词，时间轮、配置纪元，欢迎补充](https://www.v2ex.com/t/726041) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -600,11 +600,11 @@
 - [2020-11-17-Go-语言今年-11-岁，何去何从，现状到底如何？](https://toutiao.io/k/wj2n55o) ![](assets/new.png)  
 - [2020-11-17-面试：Spark-刷爆磁盘与-Java-弱引用的关系](https://toutiao.io/k/eb5vd84) ![](assets/new.png)  
 - [2020-11-17-明星有人设？程序员也需要人设管理](https://toutiao.io/k/fz2rpzd) ![](assets/new.png)  
-- [2020-11-17-设计模式大冒险第三关：工厂模式，封装和解耦你的代码](https://toutiao.io/k/1jjvoah) ![](assets/new.png)  
 - [2020-11-17-工具-|-字节跳动开源的，直播中台使用的一个视频动画特效-SDK](https://toutiao.io/k/yf0vasu) ![](assets/new.png)  
+- [2020-11-17-设计模式大冒险第三关：工厂模式，封装和解耦你的代码](https://toutiao.io/k/1jjvoah) ![](assets/new.png)  
 - [2020-11-17-内存数据库解析与主流产品对比（一）](https://toutiao.io/k/x6kj07o) ![](assets/new.png)  
-- [2020-11-17-Flutter-Android-Embedder-启动流程](https://toutiao.io/k/6pwut9v) ![](assets/new.png)  
 - [2020-11-17-在-Android-和-Hilt-中限定作用域](https://toutiao.io/k/0quw061) ![](assets/new.png)  
+- [2020-11-17-Flutter-Android-Embedder-启动流程](https://toutiao.io/k/6pwut9v) ![](assets/new.png)  
 - [2020-11-17-一条数据在-Apache-Iceberg-之旅：写过程分析](https://toutiao.io/k/pxparkc) ![](assets/new.png)  
 - [2020-11-17-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
 - [2020-11-17-把对象交给-Spring-管理的-3-种方法及经典应用](https://toutiao.io/k/ak09j1o) ![](assets/new.png)  
@@ -612,9 +612,9 @@
 - [2020-11-17-使用-Kubebuilder-定义-CRD-输出列](https://toutiao.io/k/7q96kq3) ![](assets/new.png)  
 - [2020-11-17-一文看懂-Python-系列之值得收藏的-10-大-PyCharm-常用使用技巧（多图）](https://toutiao.io/k/nmohar5) ![](assets/new.png)  
 - [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) ![](assets/new.png)  
-- [2020-11-17-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-17-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-17-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-17-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-17-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
+- [2020-11-17-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

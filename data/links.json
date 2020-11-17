@@ -14441,11 +14441,6 @@
         "date": "2020-11-16"
       },
       {
-        "title": "一文带你玩转设计模式之「责任链」",
-        "link": "https://juejin.im/post/6895894824415657991",
-        "date": "2020-11-16"
-      },
-      {
         "title": "代码规范之-理解ESLint、Prettier、EditorConfig",
         "link": "https://juejin.im/post/6895889063111294990",
         "date": "2020-11-16"
@@ -14459,6 +14454,11 @@
         "title": "Web Locks API: 跨 Tab 资源同步",
         "link": "https://juejin.im/post/6895792867080405005",
         "date": "2020-11-16"
+      },
+      {
+        "title": "把玩飞镖：Dart VM 集成入门",
+        "link": "https://juejin.im/post/6895614802585255944",
+        "date": "2020-11-15"
       }
     ]
   },
@@ -14643,6 +14643,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求推荐 iPhone 12 搭配使用的无线充、车载磁吸无线充、翻盖壳",
+        "link": "https://www.v2ex.com/t/726078",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "黑苹果",
+        "link": "https://www.v2ex.com/t/726077",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "MacBook Pro 15 年 15 寸 尸体 能卖多少钱",
+        "link": "https://www.v2ex.com/t/726076",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "讨论一下我司发的 JD",
+        "link": "https://www.v2ex.com/t/726075",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "今天玩了下某运营商的 devOps 系统",
+        "link": "https://www.v2ex.com/t/726074",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "我觉得租房还是传统中介靠谱",
+        "link": "https://www.v2ex.com/t/726073",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "请问高速连接线属于高速吗？实习期可以上高速连接线吗？",
+        "link": "https://www.v2ex.com/t/726071",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "M1 不讲武德啊，各位",
+        "link": "https://www.v2ex.com/t/726070",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "这就是多少人羡慕的国企，程序员敢比吗？",
+        "link": "https://www.v2ex.com/t/726069",
+        "date": "2020-11-17"
+      },
+      {
         "title": "OCSP 事故有多大范围",
         "link": "https://www.v2ex.com/t/726067",
         "date": "2020-11-17"
@@ -14775,56 +14820,6 @@
       {
         "title": "用桌面 Wireshark 分析 iOS 和 Android 的所有 TCP&UDP 协议(和 TLS 解密)",
         "link": "https://www.v2ex.com/t/726030",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "iPhone 12 mini 锁屏音是不是有 bug？",
-        "link": "https://www.v2ex.com/t/726028",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "youtube-dl 又回来了",
-        "link": "https://www.v2ex.com/t/726027",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "毕业 5 年，换了 3 家公司，目前在第 4 家公司工作了 2 年多，这算不算频繁换工作？",
-        "link": "https://www.v2ex.com/t/726025",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "求推荐个 demo 展示 go 相较于 Python 性能优势的",
-        "link": "https://www.v2ex.com/t/726024",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "最近每次点击加入收藏，都需要点 2 次，这是啥问题呢？",
-        "link": "https://www.v2ex.com/t/726023",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "请问一下， cinebench r23 的 M1 跑分程序是 x86 的程序还是 arm 的程序呀？",
-        "link": "https://www.v2ex.com/t/726022",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "有人遇到过这样的问题么，休眠后唤醒只要是 Electron 构建的应用全部花屏",
-        "link": "https://www.v2ex.com/t/726021",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "蛋壳公寓跑路了，老哥们有啥办法支支招阿",
-        "link": "https://www.v2ex.com/t/726020",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[三七互娱内推-社招-中/高 中台运维工程师 13-25K 15 薪] [广州]",
-        "link": "https://www.v2ex.com/t/726019",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "15 款 mbp mf840 多少收合适呢",
-        "link": "https://www.v2ex.com/t/726018",
         "date": "2020-11-17"
       }
     ]
@@ -14967,13 +14962,13 @@
         "date": "2020-11-17"
       },
       {
-        "title": "设计模式大冒险第三关：工厂模式，封装和解耦你的代码",
-        "link": "https://toutiao.io/k/1jjvoah",
+        "title": "工具 | 字节跳动开源的，直播中台使用的一个视频动画特效 SDK",
+        "link": "https://toutiao.io/k/yf0vasu",
         "date": "2020-11-17"
       },
       {
-        "title": "工具 | 字节跳动开源的，直播中台使用的一个视频动画特效 SDK",
-        "link": "https://toutiao.io/k/yf0vasu",
+        "title": "设计模式大冒险第三关：工厂模式，封装和解耦你的代码",
+        "link": "https://toutiao.io/k/1jjvoah",
         "date": "2020-11-17"
       },
       {
@@ -14982,13 +14977,13 @@
         "date": "2020-11-17"
       },
       {
-        "title": "Flutter-Android-Embedder 启动流程",
-        "link": "https://toutiao.io/k/6pwut9v",
+        "title": "在 Android 和 Hilt 中限定作用域",
+        "link": "https://toutiao.io/k/0quw061",
         "date": "2020-11-17"
       },
       {
-        "title": "在 Android 和 Hilt 中限定作用域",
-        "link": "https://toutiao.io/k/0quw061",
+        "title": "Flutter-Android-Embedder 启动流程",
+        "link": "https://toutiao.io/k/6pwut9v",
         "date": "2020-11-17"
       },
       {
@@ -15027,53 +15022,13 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-17"
       },
       {
@@ -15087,8 +15042,43 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-17"
       },
       {
@@ -15097,8 +15087,13 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-17"
       }
     ]

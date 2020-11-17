@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 17:05:06，:rocket: 更新条数: +3075， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 17:11:40，:rocket: 更新条数: +3076， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-17-Firefox-83-增加了一个-HTTPS-only-模式](https://www.v2ex.com/t/726463) ![](assets/new.png)  
 - [2020-11-17-拿到了-M1-Mac-的可以帮忙测一下-Wine-/-CrossOver-吗？](https://www.v2ex.com/t/726462) ![](assets/new.png)  
 - [2020-11-17-如果做一个小程序，靠广告实现月收入-5000-元，需要做到什么程度？](https://www.v2ex.com/t/726461) ![](assets/new.png)  
 - [2020-11-17-快手前端招聘，组内直招，超多-HC](https://www.v2ex.com/t/726459) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-17-转一篇-techcrunch-的-m1-评测](https://www.v2ex.com/t/726438) ![](assets/new.png)  
 - [2020-11-17-今年黑五-Google-Store-就这点力度吗？](https://www.v2ex.com/t/726434) ![](assets/new.png)  
 - [2020-11-17-ffmpeg-截出的新视频，播放时不能流畅拖动](https://www.v2ex.com/t/726433) ![](assets/new.png)  
-- [2020-11-17-问个-nginx-配置里面的-域名跳转-301-问题](https://www.v2ex.com/t/726432) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

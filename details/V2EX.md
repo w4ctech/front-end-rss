@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-17 19:47:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 20:03:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-17-下单了-16g-mini，感觉要等好久啊](https://www.v2ex.com/t/726469) 
 - [2020-11-17-睡不着-思考人参](https://www.v2ex.com/t/726468) 
 - [2020-11-17-Macbook-m1-程序员向兼容测试（知乎）](https://www.v2ex.com/t/726467) 
 - [2020-11-17-我的静态博客被人克隆了，我能做些什么呢？](https://www.v2ex.com/t/726466) 
@@ -42,4 +43,3 @@
 - [2020-11-17-宿舍网线出问题了？](https://www.v2ex.com/t/726422) 
 - [2020-11-17-想通过-USB2.0-连接-iPad-，把-iPad-当副屏，有比较好的方案吗？系统是-Win10](https://www.v2ex.com/t/726421) 
 - [2020-11-17-chrome-的两个小功能很喜欢：-QR-code-分享和标签分组](https://www.v2ex.com/t/726420) 
-- [2020-11-17-请快去尝试-gssettings，你会回来感谢我的](https://www.v2ex.com/t/726419) 

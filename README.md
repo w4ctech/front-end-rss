@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 02:04:09，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 02:13:28，:rocket: 更新条数: +3074， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -376,26 +376,6 @@
 </summary>
 
 
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +533,13 @@
 </summary>
 
 
+- [2020-11-17-切换到-M1-的疑问：之前买了很多-OS-X-正版软件，利用-Rosetta2-能保证继续运行这些软件么?](https://www.v2ex.com/t/726056) ![](assets/new.png)  
+- [2020-11-17-ipv6-现在有什么（实用的）应用场景吗=-=](https://www.v2ex.com/t/726055) ![](assets/new.png)  
+- [2020-11-17-求一个在-Coding-上好用的图床，蟹蟹](https://www.v2ex.com/t/726054) ![](assets/new.png)  
+- [2020-11-17-杭州蛋壳跑路了吗？有维权群吗？](https://www.v2ex.com/t/726052) ![](assets/new.png)  
+- [2020-11-17-作为一个后端，这么做到底是帮了前端还是害了前端？](https://www.v2ex.com/t/726050) ![](assets/new.png)  
+- [2020-11-17-Vue-有什么扩展可以做到深层数据变更也能响应式吗？](https://www.v2ex.com/t/726048) ![](assets/new.png)  
+- [2020-11-17-刚有-v2er-说-Twitter-有人拿到-M1-的-Mac-了，我找到了链接](https://www.v2ex.com/t/726047) ![](assets/new.png)  
 - [2020-11-17-有什么助眠类的好方法吗？比如像是我现在使用的好眠-APP，还有其它的方法吗？](https://www.v2ex.com/t/726046) ![](assets/new.png)  
 - [2020-11-17-黑帕云前端性能揭秘---React-性能调优-上篇](https://www.v2ex.com/t/726045) ![](assets/new.png)  
 - [2020-11-17-有人熟悉-windows-hello-对指纹识别设备有什么要求吗](https://www.v2ex.com/t/726044) ![](assets/new.png)  
@@ -566,13 +553,6 @@
 - [2020-11-17-苹果-HomeKit-有什么推荐的设备值得购买吗](https://www.v2ex.com/t/726032) ![](assets/new.png)  
 - [2020-11-17-M1-芯片-MacBook-Pro-视频剪辑性能（转自微博「悉尼顾俊」）](https://www.v2ex.com/t/726031) ![](assets/new.png)  
 - [2020-11-17-用桌面-Wireshark-分析-iOS-和-Android-的所有-TCP&UDP-协议和-TLS-解密](https://www.v2ex.com/t/726030) ![](assets/new.png)  
-- [2020-11-17-iPhone-12-mini-锁屏音是不是有-bug？](https://www.v2ex.com/t/726028) ![](assets/new.png)  
-- [2020-11-17-youtube-dl-又回来了](https://www.v2ex.com/t/726027) ![](assets/new.png)  
-- [2020-11-17-毕业-5-年，换了-3-家公司，目前在第-4-家公司工作了-2-年多，这算不算频繁换工作？](https://www.v2ex.com/t/726025) ![](assets/new.png)  
-- [2020-11-17-求推荐个-demo-展示-go-相较于-Python-性能优势的](https://www.v2ex.com/t/726024) ![](assets/new.png)  
-- [2020-11-17-最近每次点击加入收藏，都需要点-2-次，这是啥问题呢？](https://www.v2ex.com/t/726023) ![](assets/new.png)  
-- [2020-11-17-请问一下，-cinebench-r23-的-M1-跑分程序是-x86-的程序还是-arm-的程序呀？](https://www.v2ex.com/t/726022) ![](assets/new.png)  
-- [2020-11-17-有人遇到过这样的问题么，休眠后唤醒只要是-Electron-构建的应用全部花屏](https://www.v2ex.com/t/726021) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -619,8 +599,8 @@
 - [2020-11-17-备受争议的-PHP-前景究竟如何？我们该何去何从？](https://toutiao.io/k/rvi2msw) ![](assets/new.png)  
 - [2020-11-17-Go-语言今年-11-岁，何去何从，现状到底如何？](https://toutiao.io/k/wj2n55o) ![](assets/new.png)  
 - [2020-11-17-面试：Spark-刷爆磁盘与-Java-弱引用的关系](https://toutiao.io/k/eb5vd84) ![](assets/new.png)  
-- [2020-11-17-明星有人设？程序员也需要人设管理](https://toutiao.io/k/fz2rpzd) ![](assets/new.png)  
 - [2020-11-17-设计模式大冒险第三关：工厂模式，封装和解耦你的代码](https://toutiao.io/k/1jjvoah) ![](assets/new.png)  
+- [2020-11-17-明星有人设？程序员也需要人设管理](https://toutiao.io/k/fz2rpzd) ![](assets/new.png)  
 - [2020-11-17-Flutter-Android-Embedder-启动流程](https://toutiao.io/k/6pwut9v) ![](assets/new.png)  
 - [2020-11-17-在-Android-和-Hilt-中限定作用域](https://toutiao.io/k/0quw061) ![](assets/new.png)  
 - [2020-11-17-内存数据库解析与主流产品对比（一）](https://toutiao.io/k/x6kj07o) ![](assets/new.png)  
@@ -630,11 +610,11 @@
 - [2020-11-17-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
 - [2020-11-17-译-理解-Rust-中的闭包](https://toutiao.io/k/1e4cbbn) ![](assets/new.png)  
 - [2020-11-17-使用-Kubebuilder-定义-CRD-输出列](https://toutiao.io/k/7q96kq3) ![](assets/new.png)  
+- [2020-11-17-一文看懂-Python-系列之值得收藏的-10-大-PyCharm-常用使用技巧（多图）](https://toutiao.io/k/nmohar5) ![](assets/new.png)  
 - [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) ![](assets/new.png)  
-- [2020-11-17-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-17-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-17-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-17-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-17-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-17-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-17-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

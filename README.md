@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 11:04:07，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 11:11:05，:rocket: 更新条数: +3316， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -65,6 +65,7 @@
 
 
 - [2020-11-16-最新疫情：全国新冠累计确诊86361例-境外输入新增15例](https://m.caixin.com/m/2020-11-17/101629366.html) ![](assets/new.png)  
+- [2020-11-16-最新海外疫情：新冠感染近5493万-累计死亡超132万](https://m.caixin.com/m/2020-11-17/101629360.html) ![](assets/new.png)  
 - [2020-11-16-【境内疫情观察】全国新增15例境外输入病例（11月16日）](http://m.database.caixin.com/m/2020-11-17/101629210.html) ![](assets/new.png)  
 - [2020-11-16-大流行手记|11月16日：英首相密接后隔离-研究称去年9月意大利或已有感染者](https://m.caixin.com/m/2020-11-17/101629015.html) ![](assets/new.png)  
 - [2020-11-15-多地进口冷链包装检出新冠阳性-交通部发文加强冷链运输防控](http://m.companies.caixin.com/m/2020-11-16/101628925.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-11-【境内疫情观察】天津新增1例本土确诊病例（11月11日）](http://m.database.caixin.com/m/2020-11-12/101626650.html) ![](assets/new.png)  
 - [2020-11-11-大流行手记|11月11日：美拟12月启动新冠疫苗接种-欧洲多国医疗体系负重](https://m.caixin.com/m/2020-11-12/101626574.html) ![](assets/new.png)  
 - [2020-11-11-日本忧第三波疫情袭来-北海道入冬病例又激增](http://m.international.caixin.com/m/2020-11-12/101626896.html) ![](assets/new.png)  
-- [2020-11-10-香港启动“单向通关”-首阶段每日5000配额](http://m.china.caixin.com/m/2020-11-11/101626056.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -456,7 +476,7 @@
 - [2020-11-17-编写高质量可维护的代码——异步优化](https://juejin.im/post/6896028236732776461) ![](assets/new.png)  
 - [2020-11-17-VUE-SSR初探](https://juejin.im/post/6896007907050487816) ![](assets/new.png)  
 - [2020-11-17-客户端和服务器端的交互处理](https://juejin.im/post/6896005557032452103) ![](assets/new.png)  
-- [2020-11-17-如何创建一个优美的commit记录](https://juejin.im/post/6896003752499609608) ![](assets/new.png)  
+- [2020-11-16-ckeditor4-在vue中使用的坑！！！](https://juejin.im/post/6895967213367328776) ![](assets/new.png)  
 - [2020-11-16-「建议收藏」送你一份精心总结的3万字ES6实用指南（上）](https://juejin.im/post/6895898051559456776) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,10 +553,12 @@
 </summary>
 
 
+- [2020-11-17-如果你想在本站快速获取铜币，那么…](https://www.v2ex.com/t/726354) ![](assets/new.png)  
+- [2020-11-17-数据分析数据挖掘专业应该如何学数学？](https://www.v2ex.com/t/726353) ![](assets/new.png)  
+- [2020-11-17-ESLint-中文排版检查插件（听说有人中英文混排就是不加空格？）](https://www.v2ex.com/t/726352) ![](assets/new.png)  
 - [2020-11-17-Adobe-15.99-刀/月（包含所有软件），白菜价，设计🐶的福音](https://www.v2ex.com/t/726351) ![](assets/new.png)  
 - [2020-11-17-临床医学与程序员](https://www.v2ex.com/t/726350) ![](assets/new.png)  
 - [2020-11-17-Mac-Mini-有必要上-16g-内存吗](https://www.v2ex.com/t/726349) ![](assets/new.png)  
-- [2020-11-17-只有我觉得《一九八四》很无聊吗？](https://www.v2ex.com/t/726348) ![](assets/new.png)  
 - [2020-11-17-手机丢在滴滴上了，僵持住了](https://www.v2ex.com/t/726346) ![](assets/new.png)  
 - [2020-11-17-MX-Master-3-在-macOS-下用得很蛋疼](https://www.v2ex.com/t/726345) ![](assets/new.png)  
 - [2020-11-17-每次启动-chrome-后过一会儿访问-google.com-时，就显示证书异常。重启-chrome-或重置-dns-又正常](https://www.v2ex.com/t/726344) ![](assets/new.png)  
@@ -551,8 +573,6 @@
 - [2020-11-17-AppleM1-的傲娇，市面上没一个能打的游戏芯片，包括-RTX-3090。](https://www.v2ex.com/t/726332) ![](assets/new.png)  
 - [2020-11-17-请教-V2-大佬一个内网的业务方案](https://www.v2ex.com/t/726331) ![](assets/new.png)  
 - [2020-11-17-外置网卡-Mac-os-11.0-Big-Sur-驱动来了](https://www.v2ex.com/t/726330) ![](assets/new.png)  
-- [2020-11-17-新-MacBook-Air-和-Pro-之间差距有多大](https://www.v2ex.com/t/726329) ![](assets/new.png)  
-- [2020-11-17-mac-外接双屏有个蛋疼的问题](https://www.v2ex.com/t/726328) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

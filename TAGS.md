@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-17 01:11:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 01:29:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -113,6 +113,7 @@
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【V2EX】有人遇到过这样的问题么，休眠后唤醒只要是-Electron-构建的应用全部花屏](https://www.v2ex.com/t/726021)
 - [【安全热点】AIoT安全峰会议题回顾|构建安全可信的物联网](https://sec.thief.one/article_content?a_id=dd4bd73fccab530b0d555d8b3be556ff)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -397,6 +398,9 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【掘金前端】webview的秒开优化的历程](https://juejin.im/post/6895696837178490893)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】求推荐个-demo-展示-go-相较于-Python-性能优势的](https://www.v2ex.com/t/726024)
+- [【开发者头条】百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x)
+- [【开发者头条】推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

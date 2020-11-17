@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 03:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 03:11:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,6 +31,7 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-17-升级-big-sur-后，-safari-能播放-netflix-4k-吗？](https://www.v2ex.com/t/726097) 
 - [2020-11-17-微软面试题：实现-Trie（前缀树），枯燥至极（滑稽）](https://www.v2ex.com/t/726096) 
 - [2020-11-17-安全与风控工作机会，岗位很多，-HC-很多](https://www.v2ex.com/t/726088) 
 - [2020-11-17-为什么-PC-端微信粘贴-URL-是网页的标题？](https://www.v2ex.com/t/726080) 

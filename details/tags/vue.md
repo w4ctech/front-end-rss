@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 03:03:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 03:11:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,6 +14,5 @@
 - [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
 - [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
-- [2020-11-16-Vue3-Vuex-TypeScript-踩坑之旅](https://juejin.im/post/6895753584214802440) 
+- [2020-11-16-vue-test-utils+jest实战](https://juejin.im/post/6895920314585186318) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-11-17-Vue-有什么扩展可以做到深层数据变更也能响应式吗？](https://www.v2ex.com/t/726048) 

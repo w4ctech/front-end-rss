@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 10:14:20，:rocket: 更新条数: +3316， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 10:25:31，:rocket: 更新条数: +3316， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,7 +553,14 @@
 </summary>
 
 
-- [2020-11-17-mac-外接双屏的问题](https://www.v2ex.com/t/726328) ![](assets/new.png)  
+- [2020-11-17-周日的-GDG-上海-有没有道友](https://www.v2ex.com/t/726337) ![](assets/new.png)  
+- [2020-11-17-在上海工作，最近要到深圳去一趟，是否需要提前做核酸检测呢？麻烦有相同经历、知道的人解答下，感恩不尽！](https://www.v2ex.com/t/726335) ![](assets/new.png)  
+- [2020-11-17-迫于-arm-mini-询价看看我这台-2020-5K-iMac-好多钱](https://www.v2ex.com/t/726334) ![](assets/new.png)  
+- [2020-11-17-AppleM1-的傲娇，市面上没一个能打的游戏芯片，包括-RTX-3090。](https://www.v2ex.com/t/726332) ![](assets/new.png)  
+- [2020-11-17-请教-V2-大佬一个内网的业务方案](https://www.v2ex.com/t/726331) ![](assets/new.png)  
+- [2020-11-17-外置网卡-Mac-os-11.0-Big-Sur-驱动来了](https://www.v2ex.com/t/726330) ![](assets/new.png)  
+- [2020-11-17-新-MacBook-Air-和-Pro-之间差距有多大](https://www.v2ex.com/t/726329) ![](assets/new.png)  
+- [2020-11-17-mac-外接双屏有个蛋疼的问题](https://www.v2ex.com/t/726328) ![](assets/new.png)  
 - [2020-11-17-win10-灵异事件：键盘字母键突然失灵](https://www.v2ex.com/t/726327) ![](assets/new.png)  
 - [2020-11-17-现在程序员接活儿或者兼职的平台到底哪个好？](https://www.v2ex.com/t/726326) ![](assets/new.png)  
 - [2020-11-17-iOS14-怎么删除-iMessage-中安装的贴纸-app](https://www.v2ex.com/t/726325) ![](assets/new.png)  
@@ -566,13 +573,6 @@
 - [2020-11-17-求助各位人工智能-这张截图里面是什么字体](https://www.v2ex.com/t/726318) ![](assets/new.png)  
 - [2020-11-17-我的开源经历：为了方便处理三方-HTTP-接口而写的-Java-框架](https://www.v2ex.com/t/726317) ![](assets/new.png)  
 - [2020-11-17-拣到一个钓鱼网站，一起来玩玩](https://www.v2ex.com/t/726315) ![](assets/new.png)  
-- [2020-11-17-移动宽带吉比特光猫，每天-0-点自动开启-WiFi！](https://www.v2ex.com/t/726314) ![](assets/new.png)  
-- [2020-11-17-iPhone-照片传到-Pixel-有什么好办法吗](https://www.v2ex.com/t/726313) ![](assets/new.png)  
-- [2020-11-17-今年黑五哪里有苹果礼品卡打折卖?-itunes-gift-card](https://www.v2ex.com/t/726312) ![](assets/new.png)  
-- [2020-11-17-Amazon-挂面经历：-3-年谷歌工作经验不值一提...](https://www.v2ex.com/t/726311) ![](assets/new.png)  
-- [2020-11-17-三星-970-EVO-Plus-2T-亚马逊¥1671](https://www.v2ex.com/t/726310) ![](assets/new.png)  
-- [2020-11-17-css-样式在-chrome-computed-中解析不正常，是新版-macOS-的问题吗？](https://www.v2ex.com/t/726309) ![](assets/new.png)  
-- [2020-11-17-话说，如果项目很不咋地，怎么优化简历呢？](https://www.v2ex.com/t/726307) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

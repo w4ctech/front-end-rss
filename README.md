@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 22:04:38，:rocket: 更新条数: +3077， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 22:13:06，:rocket: 更新条数: +3211， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)![](assets/dot.png)   
+- [安全热点](#安全热点)  
 
 ## 文章链接
 
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -609,8 +629,8 @@
 - [2020-11-17-一条数据在-Apache-Iceberg-之旅：写过程分析](https://toutiao.io/k/pxparkc) ![](assets/new.png)  
 - [2020-11-17-把对象交给-Spring-管理的-3-种方法及经典应用](https://toutiao.io/k/ak09j1o) ![](assets/new.png)  
 - [2020-11-17-译-理解-Rust-中的闭包](https://toutiao.io/k/1e4cbbn) ![](assets/new.png)  
-- [2020-11-17-一文看懂-Python-系列之值得收藏的-10-大-PyCharm-常用使用技巧（多图）](https://toutiao.io/k/nmohar5) ![](assets/new.png)  
 - [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) ![](assets/new.png)  
+- [2020-11-17-一文看懂-Python-系列之值得收藏的-10-大-PyCharm-常用使用技巧（多图）](https://toutiao.io/k/nmohar5) ![](assets/new.png)  
 - [2020-11-17-使用-Kubebuilder-定义-CRD-输出列](https://toutiao.io/k/7q96kq3) ![](assets/new.png)  
 - [2020-11-17-积木-Sketch-插件进阶开发指南](https://toutiao.io/k/oxckmap) ![](assets/new.png)  
 - [2020-11-17-俗说-GC-之-Heap-区内存模型的演进](https://toutiao.io/k/fhddysl) ![](assets/new.png)  
@@ -626,26 +646,6 @@
 </summary>
 
 
-- [2020-11-17-每日攻防资讯简报Nov.17th](https://sec.thief.one/article_content?a_id=9f4103c57c50c2caf6ff882fab04e84d) ![](assets/new.png)  
-- [2020-11-17-内鬼,无处不在](https://sec.thief.one/article_content?a_id=38ee1035b27a7fa2a50e5b0a71e071c6) ![](assets/new.png)  
-- [2020-11-17-安全内参|2021年新兴网络安全威胁预测](https://sec.thief.one/article_content?a_id=856effe1224002d56dddfbfb135207e3) ![](assets/new.png)  
-- [2020-11-17-你常常看到的-__init__.py-到底是个啥?](https://sec.thief.one/article_content?a_id=54ec9bdd3ad2e0f38a4f46ee5eecbe3e) ![](assets/new.png)  
-- [2020-11-17-绿盟科技全力护航2020电力行业网络安全攻防邀请赛](https://sec.thief.one/article_content?a_id=2e0de21cfe08f99a08e8dd5b1cd39748) ![](assets/new.png)  
-- [2020-11-17-AIoT安全峰会议题回顾|光明守卫:MIUI12全副武装的隐私保护](https://sec.thief.one/article_content?a_id=5194cd48d9e492daa9c9dd74c463a9c9) ![](assets/new.png)  
-- [2020-11-17-漏洞武器化评估小技巧](https://sec.thief.one/article_content?a_id=5c25003992ae1672c6be9027b4134c60) ![](assets/new.png)  
-- [2020-11-17-2020年xnuca-oooooooldjs题解](https://sec.thief.one/article_content?a_id=e3a1dcf20cf44cc190081f7f21f9dd29) ![](assets/new.png)  
-- [2020-11-17-带壳App去除强制升级](https://sec.thief.one/article_content?a_id=262baac762582a8fd61d066bcbf5369e) ![](assets/new.png)  
-- [2020-11-17-勒索软件Egregor通过打印机打印勒索信息](https://sec.thief.one/article_content?a_id=8eb4a3c4b7f1876d0f67d2ac71e71a6a) ![](assets/new.png)  
-- [2020-11-17-iPhone12“充电Bug门”无人生还?](https://sec.thief.one/article_content?a_id=3881f5c66e88ae5915915bbc9eb5f506) ![](assets/new.png)  
-- [2020-11-17-滴滴安全应急响应中心致谢小米安全团队](https://sec.thief.one/article_content?a_id=be71507b7d74de522526a7c25ce55956) ![](assets/new.png)  
-- [2020-11-17-【漏洞通告】Citrix-SD-WAN远程代码执行漏洞通告CVE-2020-8271](https://sec.thief.one/article_content?a_id=7f233b95908049c56ced4293ad91db27) ![](assets/new.png)  
-- [2020-11-17-百度杯白帽众测挑战赛,报名现已开启!](https://sec.thief.one/article_content?a_id=ac487017c8e92b8b3df9a110492e87a8) ![](assets/new.png)  
-- [2020-11-17-一种针对Webpack等前端打包工具构建的网站的自动化测试思路附开...](https://sec.thief.one/article_content?a_id=22be5009dcd050e7cf81e5fea087f96d) ![](assets/new.png)  
-- [2020-11-17-黑客盗取了加密货币服务Akropolis价值约200万美元的代币](https://sec.thief.one/article_content?a_id=5c3638079359e736a842b9fbb5cd26d9) ![](assets/new.png)  
-- [2020-11-17-IBM获得针对多人游戏内交易的拟议区块链共识专利](https://sec.thief.one/article_content?a_id=ea211fafce3a3d954f88bbcbcf047ede) ![](assets/new.png)  
-- [2020-11-17-第九届中国创新创业大赛全国总决赛在杭州圆满落幕](https://sec.thief.one/article_content?a_id=3c24b61eab30dce825d9431cac87b4a1) ![](assets/new.png)  
-- [2020-11-17-CVE-2020-25705/SAD-DNS:DNS缓存投毒攻击](https://sec.thief.one/article_content?a_id=ac9748667219d27699cfea22383bc746) ![](assets/new.png)  
-- [2020-11-17-国舜股份强势入选《CCSIP-2020中国网络安全产业全景图》9大领域14...](https://sec.thief.one/article_content?a_id=afbc9ae52d0ebe1b43c6e74a19868444) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

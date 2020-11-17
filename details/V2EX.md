@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-17 15:34:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 15:40:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-17-这波，这波最惨的是-mac-经销商好不](https://www.v2ex.com/t/726450) 
 - [2020-11-17-开源应用日志监控项目](https://www.v2ex.com/t/726447) 
 - [2020-11-17-Windows-平台有哪些好用的办公学习软件？](https://www.v2ex.com/t/726446) 
 - [2020-11-17-m1-芯片的-mac-测评大量解禁，各种吊打-i9，真香](https://www.v2ex.com/t/726445) 
@@ -41,4 +42,3 @@
 - [2020-11-17-不讲武德-8G-够用吗](https://www.v2ex.com/t/726404) 
 - [2020-11-17-更新完-Big-Sur-的一个-bug，开盖无法自动开机](https://www.v2ex.com/t/726402) 
 - [2020-11-17-有没有这样一款软件，自动把各镜头切割](https://www.v2ex.com/t/726401) 
-- [2020-11-17-大文件通过-Mapreduce-切分存入-hbase](https://www.v2ex.com/t/726400) 

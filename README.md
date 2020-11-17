@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 08:13:33，:rocket: 更新条数: +3073， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 08:26:14，:rocket: 更新条数: +3072， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,13 @@
 </summary>
 
 
+- [2020-11-17-升级到-MacOS11](https://www.v2ex.com/t/726266) ![](assets/new.png)  
+- [2020-11-17-杭州滨江阿里巴巴-场景金融技术部招-Java-p6p7-双休](https://www.v2ex.com/t/726264) ![](assets/new.png)  
+- [2020-11-17-如何日常应用迭代学习到的技术](https://www.v2ex.com/t/726263) ![](assets/new.png)  
+- [2020-11-17-Mac-mini（M1）跑了个-3dmark-wild-life](https://www.v2ex.com/t/726262) ![](assets/new.png)  
+- [2020-11-17-端御科技招聘-|信息安全行业技术新兴公司海纳英才，寻找-bling-bling-的你！](https://www.v2ex.com/t/726260) ![](assets/new.png)  
+- [2020-11-17-北京-百度百度智能云-私有云研发-大量职位内推-Neutron/Nova/Cinder/-Java-服务端](https://www.v2ex.com/t/726259) ![](assets/new.png)  
+- [2020-11-17-Gnome-在配合-VirtualBox-融合模式如何在桌面预留空间？](https://www.v2ex.com/t/726257) ![](assets/new.png)  
 - [2020-11-17-想入手个-iPad2020，鼓励还是劝退](https://www.v2ex.com/t/726256) ![](assets/new.png)  
 - [2020-11-17-自闭症宝宝一般是什么症状？](https://www.v2ex.com/t/726255) ![](assets/new.png)  
 - [2020-11-17-喜茶-深圳-招聘-Web、小程序、安卓-RN-开发者](https://www.v2ex.com/t/726252) ![](assets/new.png)  
@@ -546,13 +553,6 @@
 - [2020-11-17-劝各位别升-14.2-系统,待机续航直接掉-50%](https://www.v2ex.com/t/726242) ![](assets/new.png)  
 - [2020-11-17-没有美工的情况下，程序员独自做设计的审美很差吗？比如我的这张海报](https://www.v2ex.com/t/726241) ![](assets/new.png)  
 - [2020-11-17-有没有老司机带路，当年的-powerbook-在苹果换到英特尔后价格有没有狂跌](https://www.v2ex.com/t/726240) ![](assets/new.png)  
-- [2020-11-17-等一个了解-cpu-架构的大佬来分析一波](https://www.v2ex.com/t/726238) ![](assets/new.png)  
-- [2020-11-17-官方临时修复的-Synology-Drive-Client-客户端-for-macOS-Big-Sur-11.0.1](https://www.v2ex.com/t/726236) ![](assets/new.png)  
-- [2020-11-17-Python-in-操作在-tuple-和-list-中到底哪个快？](https://www.v2ex.com/t/726235) ![](assets/new.png)  
-- [2020-11-17-写了一个可以在控制台执行力扣代码的脚本js-语法](https://www.v2ex.com/t/726234) ![](assets/new.png)  
-- [2020-11-17-你们要的-Apple-M1-游戏性能来了M1-130fps-vs-GTX-1050Ti-127fps](https://www.v2ex.com/t/726233) ![](assets/new.png)  
-- [2020-11-17-这算不算饿了么的一个-Bug?](https://www.v2ex.com/t/726232) ![](assets/new.png)  
-- [2020-11-17-深圳求职，-Java-或者-Golang](https://www.v2ex.com/t/726229) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

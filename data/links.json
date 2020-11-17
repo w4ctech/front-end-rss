@@ -14648,6 +14648,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "升级到 MacOS11",
+        "link": "https://www.v2ex.com/t/726266",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "杭州滨江阿里巴巴-场景金融技术部招 Java p6p7-双休",
+        "link": "https://www.v2ex.com/t/726264",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "如何日常应用迭代学习到的技术",
+        "link": "https://www.v2ex.com/t/726263",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "Mac mini（M1）跑了个 3dmark wild life",
+        "link": "https://www.v2ex.com/t/726262",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "端御科技招聘 |信息安全行业技术新兴公司海纳英才，寻找 bling bling 的你！",
+        "link": "https://www.v2ex.com/t/726260",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[北京-百度]百度智能云-私有云研发-大量职位内推-Neutron/Nova/Cinder/ Java 服务端",
+        "link": "https://www.v2ex.com/t/726259",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "Gnome 在配合 VirtualBox 融合模式如何在桌面预留空间？",
+        "link": "https://www.v2ex.com/t/726257",
+        "date": "2020-11-17"
+      },
+      {
         "title": "想入手个 iPad2020，鼓励还是劝退",
         "link": "https://www.v2ex.com/t/726256",
         "date": "2020-11-17"
@@ -14775,46 +14810,6 @@
       {
         "title": "golang 有没有能用的 odata 实现？ google 了很多，唯一找得到一个 github 项目 godata 也难产了",
         "link": "https://www.v2ex.com/t/726220",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "golang 有没有 api 管理 的框架",
-        "link": "https://www.v2ex.com/t/726216",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "招前端架构师（base 杭州）",
-        "link": "https://www.v2ex.com/t/726215",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "如何实现一个链接在 h5 页面访问后打开微信并使用微信的内置浏览器打开此页面",
-        "link": "https://www.v2ex.com/t/726214",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "长期出差，出差两个礼拜适应不了，后面回来了，试用期没有通过。",
-        "link": "https://www.v2ex.com/t/726213",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "开发工具： idea。maven 管理项目，下载 javadoc，已经下载到本地了，点击使用到的该包里的某个类，使用 quick documention 在浏览器打开文档，提示 404。求助万...",
-        "link": "https://www.v2ex.com/t/726212",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "12 mini 油管支持 4K 分辨率",
-        "link": "https://www.v2ex.com/t/726211",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "写了 5 年 PHP ,最近打算业余时间学习下 go 了, 把 go 基础语法,语言结构,特效学完要多久呢？",
-        "link": "https://www.v2ex.com/t/726209",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "你们要的 Apple M1 游戏性能来了。",
-        "link": "https://www.v2ex.com/t/726207",
         "date": "2020-11-17"
       }
     ]
@@ -15032,8 +15027,18 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-17"
       },
       {
@@ -15042,8 +15047,8 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
         "date": "2020-11-17"
       },
       {
@@ -15052,23 +15057,28 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-17"
-      },
-      {
         "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
         "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-17"
       },
       {
@@ -15082,28 +15092,13 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-17"
       }
     ]

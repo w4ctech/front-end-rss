@@ -14436,11 +14436,6 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "4982亿背后的前端技术—2020天猫双11前端体系大揭秘",
-        "link": "https://juejin.im/post/6895904259972448263",
-        "date": "2020-11-16"
-      },
-      {
         "title": "从游戏角度看发布-订阅者模式",
         "link": "https://juejin.im/post/6895896273400889351",
         "date": "2020-11-16"
@@ -14456,9 +14451,14 @@
         "date": "2020-11-16"
       },
       {
-        "title": "Vue全家桶打造多源音乐平台",
-        "link": "https://juejin.im/post/6895321619359596552",
-        "date": "2020-11-15"
+        "title": "SPA 路由三部曲之核心原理",
+        "link": "https://juejin.im/post/6895882310458343431",
+        "date": "2020-11-16"
+      },
+      {
+        "title": "Web Locks API: 跨 Tab 资源同步",
+        "link": "https://juejin.im/post/6895792867080405005",
+        "date": "2020-11-16"
       }
     ]
   },
@@ -14643,6 +14643,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "OCSP 事故有多大范围",
+        "link": "https://www.v2ex.com/t/726067",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "Intel Macbook 是无人问津了么？",
+        "link": "https://www.v2ex.com/t/726066",
+        "date": "2020-11-17"
+      },
+      {
         "title": "想自动翻译非英文 issues，找了一圈没找到就自己实现了一个 action，大家鉴定下这是伪需求么",
         "link": "https://www.v2ex.com/t/726063",
         "date": "2020-11-17"
@@ -14816,21 +14826,6 @@
         "title": "15 款 mbp mf840 多少收合适呢",
         "link": "https://www.v2ex.com/t/726018",
         "date": "2020-11-17"
-      },
-      {
-        "title": "自动启停的车还要挂 N 档么？",
-        "link": "https://www.v2ex.com/t/726017",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "有买法拍房的兄弟，进来聊两句吧？",
-        "link": "https://www.v2ex.com/t/726016",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[上海] 光年遇 11 月 22 日 K11 下午单身桌游活动",
-        "link": "https://www.v2ex.com/t/726015",
-        "date": "2020-11-17"
       }
     ]
   },
@@ -14977,18 +14972,8 @@
         "date": "2020-11-17"
       },
       {
-        "title": "Flutter-Android-Embedder 启动流程",
-        "link": "https://toutiao.io/k/6pwut9v",
-        "date": "2020-11-17"
-      },
-      {
         "title": "工具 | 字节跳动开源的，直播中台使用的一个视频动画特效 SDK",
         "link": "https://toutiao.io/k/yf0vasu",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "在 Android 和 Hilt 中限定作用域",
-        "link": "https://toutiao.io/k/0quw061",
         "date": "2020-11-17"
       },
       {
@@ -14997,18 +14982,28 @@
         "date": "2020-11-17"
       },
       {
+        "title": "Flutter-Android-Embedder 启动流程",
+        "link": "https://toutiao.io/k/6pwut9v",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "在 Android 和 Hilt 中限定作用域",
+        "link": "https://toutiao.io/k/0quw061",
+        "date": "2020-11-17"
+      },
+      {
         "title": "一条数据在 Apache Iceberg 之旅：写过程分析",
         "link": "https://toutiao.io/k/pxparkc",
         "date": "2020-11-17"
       },
       {
-        "title": "把对象交给 Spring 管理的 3 种方法及经典应用",
-        "link": "https://toutiao.io/k/ak09j1o",
+        "title": "百亿级实时计算系统性能优化：Elasticsearch 篇",
+        "link": "https://toutiao.io/k/f3poa3x",
         "date": "2020-11-17"
       },
       {
-        "title": "百亿级实时计算系统性能优化：Elasticsearch 篇",
-        "link": "https://toutiao.io/k/f3poa3x",
+        "title": "把对象交给 Spring 管理的 3 种方法及经典应用",
+        "link": "https://toutiao.io/k/ak09j1o",
         "date": "2020-11-17"
       },
       {
@@ -15022,48 +15017,13 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[译] 零信任网络安全：“从不信任，永远验证”",
-        "link": "https://toutiao.io/k/eut8gsc",
-        "date": "2020-11-17"
-      },
-      {
         "title": "一文看懂 Python 系列之值得收藏的 10 大 PyCharm 常用使用技巧（多图）",
         "link": "https://toutiao.io/k/nmohar5",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
+        "title": "[译] 零信任网络安全：“从不信任，永远验证”",
+        "link": "https://toutiao.io/k/eut8gsc",
         "date": "2020-11-17"
       },
       {
@@ -15072,13 +15032,18 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-17"
       },
       {
@@ -15087,13 +15052,28 @@
         "date": "2020-11-17"
       },
       {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-17"
+      },
+      {
         "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
         "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-17"
       },
       {
@@ -15102,8 +15082,23 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-17"
       }
     ]

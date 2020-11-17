@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 02:24:14，:rocket: 更新条数: +3073， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 02:33:23，:rocket: 更新条数: +3072， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
-- [2020-11-16-4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://juejin.im/post/6895904259972448263) ![](assets/new.png)  
 - [2020-11-16-从游戏角度看发布-订阅者模式](https://juejin.im/post/6895896273400889351) ![](assets/new.png)  
 - [2020-11-16-一文带你玩转设计模式之「责任链」](https://juejin.im/post/6895894824415657991) ![](assets/new.png)  
 - [2020-11-16-代码规范之-理解ESLint、Prettier、EditorConfig](https://juejin.im/post/6895889063111294990) ![](assets/new.png)  
-- [2020-11-15-Vue全家桶打造多源音乐平台](https://juejin.im/post/6895321619359596552) ![](assets/new.png)  
+- [2020-11-16-SPA-路由三部曲之核心原理](https://juejin.im/post/6895882310458343431) ![](assets/new.png)  
+- [2020-11-16-Web-Locks-API:-跨-Tab-资源同步](https://juejin.im/post/6895792867080405005) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-17-OCSP-事故有多大范围](https://www.v2ex.com/t/726067) ![](assets/new.png)  
+- [2020-11-17-Intel-Macbook-是无人问津了么？](https://www.v2ex.com/t/726066) ![](assets/new.png)  
 - [2020-11-17-想自动翻译非英文-issues，找了一圈没找到就自己实现了一个-action，大家鉴定下这是伪需求么](https://www.v2ex.com/t/726063) ![](assets/new.png)  
 - [2020-11-17-忍不住吐槽下-2020-MBP，无故重启的问题一直都在](https://www.v2ex.com/t/726062) ![](assets/new.png)  
 - [2020-11-17-微信什么时候能给公众号中含推广和广告的文章打上标记？](https://www.v2ex.com/t/726061) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-17-macOS-上有没有类似于-idea-剪贴板的全局剪贴板?](https://www.v2ex.com/t/726043) ![](assets/new.png)  
 - [2020-11-17-500-强金融外企-高级-Java-坐标广州](https://www.v2ex.com/t/726042) ![](assets/new.png)  
 - [2020-11-17-有什么觉得很厉害中二的编程名词，时间轮、配置纪元，欢迎补充](https://www.v2ex.com/t/726041) ![](assets/new.png)  
-- [2020-11-17-求上海宽带，每月-50-元以下的那种](https://www.v2ex.com/t/726039) ![](assets/new.png)  
-- [2020-11-17-交行的电子账单邮件系统是不是有问题](https://www.v2ex.com/t/726038) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -601,20 +601,20 @@
 - [2020-11-17-面试：Spark-刷爆磁盘与-Java-弱引用的关系](https://toutiao.io/k/eb5vd84) ![](assets/new.png)  
 - [2020-11-17-明星有人设？程序员也需要人设管理](https://toutiao.io/k/fz2rpzd) ![](assets/new.png)  
 - [2020-11-17-设计模式大冒险第三关：工厂模式，封装和解耦你的代码](https://toutiao.io/k/1jjvoah) ![](assets/new.png)  
-- [2020-11-17-Flutter-Android-Embedder-启动流程](https://toutiao.io/k/6pwut9v) ![](assets/new.png)  
 - [2020-11-17-工具-|-字节跳动开源的，直播中台使用的一个视频动画特效-SDK](https://toutiao.io/k/yf0vasu) ![](assets/new.png)  
-- [2020-11-17-在-Android-和-Hilt-中限定作用域](https://toutiao.io/k/0quw061) ![](assets/new.png)  
 - [2020-11-17-内存数据库解析与主流产品对比（一）](https://toutiao.io/k/x6kj07o) ![](assets/new.png)  
+- [2020-11-17-Flutter-Android-Embedder-启动流程](https://toutiao.io/k/6pwut9v) ![](assets/new.png)  
+- [2020-11-17-在-Android-和-Hilt-中限定作用域](https://toutiao.io/k/0quw061) ![](assets/new.png)  
 - [2020-11-17-一条数据在-Apache-Iceberg-之旅：写过程分析](https://toutiao.io/k/pxparkc) ![](assets/new.png)  
-- [2020-11-17-把对象交给-Spring-管理的-3-种方法及经典应用](https://toutiao.io/k/ak09j1o) ![](assets/new.png)  
 - [2020-11-17-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) ![](assets/new.png)  
+- [2020-11-17-把对象交给-Spring-管理的-3-种方法及经典应用](https://toutiao.io/k/ak09j1o) ![](assets/new.png)  
 - [2020-11-17-译-理解-Rust-中的闭包](https://toutiao.io/k/1e4cbbn) ![](assets/new.png)  
 - [2020-11-17-使用-Kubebuilder-定义-CRD-输出列](https://toutiao.io/k/7q96kq3) ![](assets/new.png)  
-- [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) ![](assets/new.png)  
 - [2020-11-17-一文看懂-Python-系列之值得收藏的-10-大-PyCharm-常用使用技巧（多图）](https://toutiao.io/k/nmohar5) ![](assets/new.png)  
-- [2020-11-17-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-17-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-17-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
+- [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) ![](assets/new.png)  
+- [2020-11-17-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-17-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-17-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

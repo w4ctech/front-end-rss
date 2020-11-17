@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 05:48:19，:rocket: 更新条数: +3072， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 06:04:23，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-17-更新-macOS-Big-Sur，-Axure-RP8.1-有兼容问题](https://www.v2ex.com/t/726186) ![](assets/new.png)  
+- [2020-11-17-阿里云盘原来就是-Teambition-的附带功能-今天算是转正了-收到了邀请码-2T-空间](https://www.v2ex.com/t/726183) ![](assets/new.png)  
+- [2020-11-17-北京-安卓工程师-25-50K-稳定盈利运作-6-年+-内部孵化新项目](https://www.v2ex.com/t/726182) ![](assets/new.png)  
+- [2020-11-17-PS5-谁买了啊配个啥电视合适呢？](https://www.v2ex.com/t/726181) ![](assets/new.png)  
 - [2020-11-17-听说安卓的碎片化比较严重，那么最佳的消息推送方案是什么？](https://www.v2ex.com/t/726180) ![](assets/new.png)  
 - [2020-11-17-ipv6-nat64-方案-tayga-有兄弟了解吗-，找了一圈没有找到合适的文档。](https://www.v2ex.com/t/726179) ![](assets/new.png)  
 - [2020-11-17-询个价，-iphone12-128G-港版-未拆封-出多少合适](https://www.v2ex.com/t/726177) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-17-Big-Sur-11.0.1-安装-Appstore-里的-XCode-奇慢...有人遇到过么](https://www.v2ex.com/t/726157) ![](assets/new.png)  
 - [2020-11-17-现在市场上有-MFM-认证的磁吸充电器了嘛](https://www.v2ex.com/t/726156) ![](assets/new.png)  
 - [2020-11-17-JD-53-茅台才能抢到呢？疑问？难道只能靠运气？](https://www.v2ex.com/t/726154) ![](assets/new.png)  
-- [2020-11-17-Outlook-IOS-客户端添加-QQ-邮箱，新邮件标题乱码](https://www.v2ex.com/t/726152) ![](assets/new.png)  
-- [2020-11-17-终于到货了-MacBook-Air-M1,-2020](https://www.v2ex.com/t/726151) ![](assets/new.png)  
-- [2020-11-17-Fecmall---Fecro-企业单商户跨境电商系统，正式发版-商用免费授权](https://www.v2ex.com/t/726150) ![](assets/new.png)  
-- [2020-11-17-vuejs-能否动态改变-**page**-的-css-样式，如-background-color](https://www.v2ex.com/t/726149) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-17-企业双11业绩增长156%-、成交额突破151亿元-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13953&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778319%3Futm_content%3Dg_1000205616%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-17-考拉海购全面云原生迁移之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13952&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778144%3Futm_content%3Dg_1000205615%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-17-大促场景系统稳定性保障实践经验分享-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13951&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778248%3Futm_content%3Dg_1000205300%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-17-2020双十一，阿里云GRTN拉开直播和RTC技术下半场的序幕-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13950&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778264%3Futm_content%3Dg_1000205299%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-17-Linux-后台开发常用调试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-17-8-个适合程序员学习新技能的网站-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13935&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7JqXyiNHFt0OpjVKXxHm_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-17-带你全面认识-Linux-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13934&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZek54lbbJYiakHK_sc6Prw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-17-Flink-+-强化学习搭建实时推荐系统-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13933&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778150%3Futm_content%3Dg_1000204973%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

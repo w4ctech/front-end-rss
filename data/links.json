@@ -14643,6 +14643,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "更新 macOS Big Sur， Axure RP8.1 有兼容问题",
+        "link": "https://www.v2ex.com/t/726186",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[阿里云盘]原来就是 Teambition 的附带功能 今天算是转正了 收到了邀请码 2T 空间",
+        "link": "https://www.v2ex.com/t/726183",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[北京] 安卓工程师 25-50K 稳定盈利运作 6 年+ 内部孵化新项目",
+        "link": "https://www.v2ex.com/t/726182",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "PS5 谁买了啊配个啥电视合适呢？",
+        "link": "https://www.v2ex.com/t/726181",
+        "date": "2020-11-17"
+      },
+      {
         "title": "听说安卓的碎片化比较严重，那么最佳的消息推送方案是什么？",
         "link": "https://www.v2ex.com/t/726180",
         "date": "2020-11-17"
@@ -14786,31 +14806,6 @@
         "title": "[上海-千寻位置内推] [支持线上面试] [简历直接发给面试官]",
         "link": "https://www.v2ex.com/t/726138",
         "date": "2020-11-17"
-      },
-      {
-        "title": "c#请教各位开发大老哥 FiddlerCore 库类开发代理问题",
-        "link": "https://www.v2ex.com/t/726137",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "嵌套自身的 Struct 该如何实例化？",
-        "link": "https://www.v2ex.com/t/726135",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "Big Sur 的 mail.app 感觉不错",
-        "link": "https://www.v2ex.com/t/726134",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[可年后入职] 字节跳动 - 抖音方向 iOS 内推 [25-60K] [上海 杭州]",
-        "link": "https://www.v2ex.com/t/726133",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "熔断原理与实现 Golang 版",
-        "link": "https://www.v2ex.com/t/726131",
-        "date": "2020-11-17"
       }
     ]
   },
@@ -14819,6 +14814,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "企业双11业绩增长156% 、成交额突破151亿元 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13953&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778319%3Futm_content%3Dg_1000205616%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-17"
+      },
       {
         "title": "考拉海购全面云原生迁移之路 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13952&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778144%3Futm_content%3Dg_1000205615%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14912,11 +14912,6 @@
       {
         "title": "带你全面认识 Linux (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13934&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZek54lbbJYiakHK_sc6Prw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "Flink + 强化学习搭建实时推荐系统 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13933&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778150%3Futm_content%3Dg_1000204973%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-17"
       }
     ]
@@ -15027,8 +15022,8 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-17"
       },
       {
@@ -15037,43 +15032,23 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-17"
-      },
-      {
         "title": "[推荐] 阿里终面：分布式事务原理",
         "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-17"
       },
       {
@@ -15087,18 +15062,38 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
         "date": "2020-11-17"
       }
     ]

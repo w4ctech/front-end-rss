@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 04:04:49，:rocket: 更新条数: +3300， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 04:13:40，:rocket: 更新条数: +3310， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -543,6 +553,8 @@
 </summary>
 
 
+- [2020-11-17-外包-微信公众号图文](https://www.v2ex.com/t/726144) ![](assets/new.png)  
+- [2020-11-17-套娃：一个被阮一峰老师的科技爱好者周刊收录的小程序《科技爱好者周刊》](https://www.v2ex.com/t/726143) ![](assets/new.png)  
 - [2020-11-17-PHP-蜘蛛判断，这个函数应该蛮-OK-的，不会有浏览器被误判吧](https://www.v2ex.com/t/726142) ![](assets/new.png)  
 - [2020-11-17-如何快速转租？](https://www.v2ex.com/t/726141) ![](assets/new.png)  
 - [2020-11-17-请问地铁口提供开发票的靠谱吗？以及价格如何？](https://www.v2ex.com/t/726140) ![](assets/new.png)  
@@ -561,8 +573,6 @@
 - [2020-11-17-请问一下有人遇到过-CAGradientLayer-无法截图的问题](https://www.v2ex.com/t/726124) ![](assets/new.png)  
 - [2020-11-17-iOS-米家-APP-半夜自动运行](https://www.v2ex.com/t/726122) ![](assets/new.png)  
 - [2020-11-17-自己注册公司给自己交社保这种想法可行吗？](https://www.v2ex.com/t/726120) ![](assets/new.png)  
-- [2020-11-17-想问一下有没有把-tcpdump-这种流量捕捉封装成-web-可交互操作的项目](https://www.v2ex.com/t/726119) ![](assets/new.png)  
-- [2020-11-17-请问一下前端打印-iframe-如何打印多页-iframe-里有个-div-有滚动条只打可视区域](https://www.v2ex.com/t/726117) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -611,8 +621,8 @@
 - [2020-11-17-Go-语言今年-11-岁，何去何从，现状到底如何？](https://toutiao.io/k/wj2n55o) ![](assets/new.png)  
 - [2020-11-17-明星有人设？程序员也需要人设管理](https://toutiao.io/k/fz2rpzd) ![](assets/new.png)  
 - [2020-11-17-面试：Spark-刷爆磁盘与-Java-弱引用的关系](https://toutiao.io/k/eb5vd84) ![](assets/new.png)  
-- [2020-11-17-设计模式大冒险第三关：工厂模式，封装和解耦你的代码](https://toutiao.io/k/1jjvoah) ![](assets/new.png)  
 - [2020-11-17-内存数据库解析与主流产品对比（一）](https://toutiao.io/k/x6kj07o) ![](assets/new.png)  
+- [2020-11-17-设计模式大冒险第三关：工厂模式，封装和解耦你的代码](https://toutiao.io/k/1jjvoah) ![](assets/new.png)  
 - [2020-11-17-在-Android-和-Hilt-中限定作用域](https://toutiao.io/k/0quw061) ![](assets/new.png)  
 - [2020-11-17-Flutter-Android-Embedder-启动流程](https://toutiao.io/k/6pwut9v) ![](assets/new.png)  
 - [2020-11-17-一条数据在-Apache-Iceberg-之旅：写过程分析](https://toutiao.io/k/pxparkc) ![](assets/new.png)  

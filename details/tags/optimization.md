@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 13:32:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 13:47:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -13,4 +13,3 @@
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-11-17-要是以后各大厂商都搞-SOC-那升级性能会不会很贵？](https://www.v2ex.com/t/726366) 
 - [2020-11-17-百亿级实时计算系统性能优化：Elasticsearch-篇](https://toutiao.io/k/f3poa3x) 
-- [2020-11-17-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) 

@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-17 13:32:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 13:47:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-17-big-sur-安装-1password-失败，真的是垃圾公司](https://www.v2ex.com/t/726405) 
+- [2020-11-17-不讲武德-8G-够用吗](https://www.v2ex.com/t/726404) 
+- [2020-11-17-更新完-Big-Sur-的一个-bug，开盖无法自动开机](https://www.v2ex.com/t/726402) 
+- [2020-11-17-有没有这样一款软件，自动把各镜头切割](https://www.v2ex.com/t/726401) 
+- [2020-11-17-大文件通过-Mapreduce-切分存入-hbase](https://www.v2ex.com/t/726400) 
 - [2020-11-17-又跟我一样准备回退-big-sur-的嘛](https://www.v2ex.com/t/726398) 
 - [2020-11-17-问-MySQL-相关的问题，有比-StackOverflow-更好的地方吗？](https://www.v2ex.com/t/726397) 
 - [2020-11-17-Visual-Studio-for-mac、Xamarin.forms，用-M1-跑点不同的东西](https://www.v2ex.com/t/726394) 
@@ -40,8 +45,3 @@
 - [2020-11-17-mac-mini-的-usb-4-接外置-ssd-速度够用么](https://www.v2ex.com/t/726359) 
 - [2020-11-17-升级-big-sur-外接显示器在公司和家里老是记不住！](https://www.v2ex.com/t/726357) 
 - [2020-11-17-pro-系列为什么摄像头那块玻璃要做成光面的…](https://www.v2ex.com/t/726356) 
-- [2020-11-17-*求助*-Python-代码求助，谢谢大家](https://www.v2ex.com/t/726355) 
-- [2020-11-17-数据分析数据挖掘专业应该如何学数学？](https://www.v2ex.com/t/726353) 
-- [2020-11-17-ESLint-中文排版检查插件（听说有人中英文混排就是不加空格？）](https://www.v2ex.com/t/726352) 
-- [2020-11-17-Adobe-15.99-刀/月（包含所有软件），白菜价，设计🐶的福音](https://www.v2ex.com/t/726351) 
-- [2020-11-17-临床医学与程序员](https://www.v2ex.com/t/726350) 

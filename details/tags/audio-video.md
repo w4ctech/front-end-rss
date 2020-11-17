@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 10:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 11:04:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -79,4 +79,3 @@
 - [2020-11-15-桥水基金达里奥谈比特币-他说了这些附独家视频](https://sec.thief.one/article_content?a_id=2c7903c7aa8c3d5f2b272a9876f37e84) 
 - [2020-11-15-【视频】|-2020腾讯科学WE大会](https://sec.thief.one/article_content?a_id=7bfdf2e54a0bfd1a2d0e7d1048dd41e7) 
 - [2020-11-14-漏洞银行助力第二期网络安全公开课!每周四19:30直播间等你](https://sec.thief.one/article_content?a_id=29a7b2c11ee6493c3a2d63b20a4160a5) 
-- [2020-11-13-还没放弃的小伙伴,PWN入门视频最后一期来了](https://sec.thief.one/article_content?a_id=ea303f684dfb2094d1dc1c868f541f0f) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 10:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 11:04:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -29,6 +29,7 @@
 - [2020-01-21-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://m.china.caixin.com/m/2020-01-22/101507387.html) 
 - [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-11-17-编写高质量可维护的代码——异步优化](https://juejin.im/post/6896028236732776461) 
 - [2020-11-16-「建议收藏」送你一份精心总结的3万字ES6实用指南（上）](https://juejin.im/post/6895898051559456776) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
@@ -40,6 +41,4 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2020-11-17-win10-灵异事件：键盘字母键突然失灵](https://www.v2ex.com/t/726327) 
-- [2020-11-13-DeFi借贷协议Akropolis重入攻击事件分析](https://sec.thief.one/article_content?a_id=225d1af027efbe76f681638f05b449d5) 
-- [2020-11-13-华为路由器漏洞CVE-2017-17215复现分析](https://sec.thief.one/article_content?a_id=7258145539f58160fef0d36859982376) 
-- [2020-11-13-Fastjson-1.2.24远程代码执行漏洞com.sun.rowset.JdbcRowSetImpl](https://sec.thief.one/article_content?a_id=17beffef15e37169cefc6b0605829800) 
+- [2020-11-17-2020年xnuca-oooooooldjs题解](https://sec.thief.one/article_content?a_id=e3a1dcf20cf44cc190081f7f21f9dd29) 

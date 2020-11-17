@@ -14441,28 +14441,28 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
-        "title": "如何在公司项目中使用 WebSocket— 入门实战指南",
-        "link": "https://juejin.im/post/6895978021937741832",
+        "title": "【React源码解读】React.cloneElement分析",
+        "link": "https://juejin.im/post/6895984646597967879",
         "date": "2020-11-16"
       },
       {
-        "title": "理解 ECMAScript 规范（1）",
-        "link": "https://juejin.im/post/6895977989272502285",
+        "title": "使用node反向代理接口改造旧项目",
+        "link": "https://juejin.im/post/6895980026132037646",
         "date": "2020-11-16"
       },
       {
-        "title": "单元测试",
-        "link": "https://juejin.im/post/6895972159219466248",
+        "title": "Vuex源码分析",
+        "link": "https://juejin.im/post/6895980141466386440",
         "date": "2020-11-16"
       },
       {
-        "title": "一文带你玩转设计模式之「责任链」",
-        "link": "https://juejin.im/post/6895894824415657991",
+        "title": "React Hook丨用好这9个钩子，所向披靡",
+        "link": "https://juejin.im/post/6895966927500345351",
         "date": "2020-11-16"
       },
       {
-        "title": "前端为什么要关注 Serverless | 🏆 技术专题第七期征文",
-        "link": "https://juejin.im/post/6895692851393331214",
+        "title": "ckeditor4 在vue中使用的坑！！！",
+        "link": "https://juejin.im/post/6895967213367328776",
         "date": "2020-11-16"
       }
     ]
@@ -14648,6 +14648,66 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于， iOS 电池统计图表怎么阅读的问题",
+        "link": "https://www.v2ex.com/t/726249",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "你们有年龄焦虑吗？",
+        "link": "https://www.v2ex.com/t/726248",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[社招内推] 京东零售 技术与数据中心 2020 届社招(团队直招)",
+        "link": "https://www.v2ex.com/t/726247",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "有人用过云手机嘛",
+        "link": "https://www.v2ex.com/t/726246",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "试出一台 2017 MBP 13.3 16+256 3.1Gi5",
+        "link": "https://www.v2ex.com/t/726244",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "Rust 用户 Rik Arends 表示新 MacBook Air 让编译 Rust 变得像写脚本语言一样轻松",
+        "link": "https://www.v2ex.com/t/726243",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "劝各位别升 14.2 系统,待机续航直接掉 50%",
+        "link": "https://www.v2ex.com/t/726242",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "没有美工的情况下，程序员独自做设计的审美很差吗？比如我的这张海报",
+        "link": "https://www.v2ex.com/t/726241",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "有没有老司机带路，当年的 powerbook 在苹果换到英特尔后价格有没有狂跌",
+        "link": "https://www.v2ex.com/t/726240",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "等一个了解 cpu 架构的大佬来分析一波",
+        "link": "https://www.v2ex.com/t/726238",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "官方临时修复的 Synology Drive Client 客户端 for macOS Big Sur 11.0.1",
+        "link": "https://www.v2ex.com/t/726236",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "Python in 操作在 tuple 和 list 中到底哪个快？",
+        "link": "https://www.v2ex.com/t/726235",
+        "date": "2020-11-17"
+      },
+      {
         "title": "写了一个可以在控制台执行力扣代码的脚本[js 语法]",
         "link": "https://www.v2ex.com/t/726234",
         "date": "2020-11-17"
@@ -14746,66 +14806,6 @@
         "title": "三星 970 EVO Plus 2TB 美亚特价：￥ 1,826.73",
         "link": "https://www.v2ex.com/t/726202",
         "date": "2020-11-17"
-      },
-      {
-        "title": "想问下大厂的同学们你们的 NLP 基础设施是什么样的",
-        "link": "https://www.v2ex.com/t/726199",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "现在新开发安卓 APP 最低要兼容到安卓几",
-        "link": "https://www.v2ex.com/t/726198",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "小米公司员工私自将公司内网端口映射到公网",
-        "link": "https://www.v2ex.com/t/726197",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "M1 也太强悍了吧, 真的不留活路了吗 ？ 考虑加仓苹果股票了",
-        "link": "https://www.v2ex.com/t/726196",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "有两条不同延时不同带宽的线路 A 和 B，如何设计算法使叠加后带宽最大且平均延迟最小？",
-        "link": "https://www.v2ex.com/t/726195",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "请教个 nginx lua 正则问题",
-        "link": "https://www.v2ex.com/t/726194",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "如何批量翻译 excel 的英文内容",
-        "link": "https://www.v2ex.com/t/726193",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "请问远程桌面网关(Remote Desktop Gateway, RDG)的架设和部署有什么简单的方案吗？",
-        "link": "https://www.v2ex.com/t/726192",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "有什么工具和办法可以篡改报文后重发 TCP 包？ WI-FI 环境",
-        "link": "https://www.v2ex.com/t/726191",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "去年注册的 paypal 登录要添加手机号码怎么办？",
-        "link": "https://www.v2ex.com/t/726189",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "几百块追剧的平板有推荐吗？",
-        "link": "https://www.v2ex.com/t/726188",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "更新 macOS Big Sur， Axure RP8.1 有兼容问题",
-        "link": "https://www.v2ex.com/t/726186",
-        "date": "2020-11-17"
       }
     ]
   },
@@ -14814,6 +14814,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "如何快速实现精准的个性化搜索服务 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13955&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778356%3Futm_content%3Dg_1000205618%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-17"
+      },
       {
         "title": "什么是低代码（Low-Code）？ (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13954&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778355%3Futm_content%3Dg_1000205617%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14907,11 +14912,6 @@
       {
         "title": "Linux 后台开发常用调试工具 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "8 个适合程序员学习新技能的网站 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13935&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7JqXyiNHFt0OpjVKXxHm_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-17"
       }
     ]
@@ -15022,13 +15022,18 @@
         "date": "2020-11-17"
       },
       {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-17"
+      },
+      {
         "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
         "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-17"
       },
       {
@@ -15037,38 +15042,13 @@
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
-        "link": "https://toutiao.io/k/gfxnfbk",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
-        "link": "https://toutiao.io/k/0zyeufv",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-17"
-      },
-      {
         "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
         "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 25 张图让你彻底掌握分布式事务原理",
+        "link": "https://toutiao.io/k/gfxnfbk",
         "date": "2020-11-17"
       },
       {
@@ -15077,18 +15057,38 @@
         "date": "2020-11-17"
       },
       {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 为什么 Go 占用那么多的虚拟内存？",
+        "link": "https://toutiao.io/k/0zyeufv",
+        "date": "2020-11-17"
+      },
+      {
         "title": "[推荐] 终于有人把数据中台讲明白了",
         "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-17"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-17"
       },
       {

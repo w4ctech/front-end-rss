@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 07:04:23，:rocket: 更新条数: +3069， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 07:11:49，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-17-写了-5-年-PHP-,最近打算业余时间学习下-go-了,-把-go-基础语法,语言结构,特效学完要多久呢？](https://www.v2ex.com/t/726209) ![](assets/new.png)  
 - [2020-11-17-你们要的-Apple-M1-游戏性能来了。](https://www.v2ex.com/t/726207) ![](assets/new.png)  
 - [2020-11-17-隔壁领导一直发出噪音。。。求推荐耳机](https://www.v2ex.com/t/726203) ![](assets/new.png)  
 - [2020-11-17-三星-970-EVO-Plus-2TB-美亚特价：￥-1,826.73](https://www.v2ex.com/t/726202) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-17-北京-安卓工程师-25-50K-稳定盈利运作-6-年+-内部孵化新项目](https://www.v2ex.com/t/726182) ![](assets/new.png)  
 - [2020-11-17-PS5-谁买了啊配个啥电视合适呢？](https://www.v2ex.com/t/726181) ![](assets/new.png)  
 - [2020-11-17-听说安卓的碎片化比较严重，那么最佳的消息推送方案是什么？](https://www.v2ex.com/t/726180) ![](assets/new.png)  
-- [2020-11-17-ipv6-nat64-方案-tayga-有兄弟了解吗-，找了一圈没有找到合适的文档。](https://www.v2ex.com/t/726179) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

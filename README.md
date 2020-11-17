@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 21:21:40，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 21:33:11，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -629,8 +629,8 @@
 - [2020-11-17-一条数据在-Apache-Iceberg-之旅：写过程分析](https://toutiao.io/k/pxparkc) ![](assets/new.png)  
 - [2020-11-17-把对象交给-Spring-管理的-3-种方法及经典应用](https://toutiao.io/k/ak09j1o) ![](assets/new.png)  
 - [2020-11-17-译-理解-Rust-中的闭包](https://toutiao.io/k/1e4cbbn) ![](assets/new.png)  
-- [2020-11-17-使用-Kubebuilder-定义-CRD-输出列](https://toutiao.io/k/7q96kq3) ![](assets/new.png)  
 - [2020-11-17-一文看懂-Python-系列之值得收藏的-10-大-PyCharm-常用使用技巧（多图）](https://toutiao.io/k/nmohar5) ![](assets/new.png)  
+- [2020-11-17-使用-Kubebuilder-定义-CRD-输出列](https://toutiao.io/k/7q96kq3) ![](assets/new.png)  
 - [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) ![](assets/new.png)  
 - [2020-11-17-积木-Sketch-插件进阶开发指南](https://toutiao.io/k/oxckmap) ![](assets/new.png)  
 - [2020-11-17-俗说-GC-之-Heap-区内存模型的演进](https://toutiao.io/k/fhddysl) ![](assets/new.png)  

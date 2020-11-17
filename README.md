@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 07:11:49，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 07:21:38，:rocket: 更新条数: +3069， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,12 @@
 </summary>
 
 
+- [2020-11-17-golang-有没有-api-管理-的框架](https://www.v2ex.com/t/726216) ![](assets/new.png)  
+- [2020-11-17-招前端架构师（base-杭州）](https://www.v2ex.com/t/726215) ![](assets/new.png)  
+- [2020-11-17-如何实现一个链接在-h5-页面访问后打开微信并使用微信的内置浏览器打开此页面](https://www.v2ex.com/t/726214) ![](assets/new.png)  
+- [2020-11-17-长期出差，出差两个礼拜适应不了，后面回来了，试用期没有通过。](https://www.v2ex.com/t/726213) ![](assets/new.png)  
+- [2020-11-17-开发工具：-idea。maven-管理项目，下载-javadoc，已经下载到本地了，点击使用到的该包里的某个类，使用-quick-documention-在浏览器打开文档，提示-404。求助万...](https://www.v2ex.com/t/726212) ![](assets/new.png)  
+- [2020-11-17-12-mini-油管支持-4K-分辨率](https://www.v2ex.com/t/726211) ![](assets/new.png)  
 - [2020-11-17-写了-5-年-PHP-,最近打算业余时间学习下-go-了,-把-go-基础语法,语言结构,特效学完要多久呢？](https://www.v2ex.com/t/726209) ![](assets/new.png)  
 - [2020-11-17-你们要的-Apple-M1-游戏性能来了。](https://www.v2ex.com/t/726207) ![](assets/new.png)  
 - [2020-11-17-隔壁领导一直发出噪音。。。求推荐耳机](https://www.v2ex.com/t/726203) ![](assets/new.png)  
@@ -547,12 +553,6 @@
 - [2020-11-17-请问远程桌面网关Remote-Desktop-Gateway,-RDG的架设和部署有什么简单的方案吗？](https://www.v2ex.com/t/726192) ![](assets/new.png)  
 - [2020-11-17-有什么工具和办法可以篡改报文后重发-TCP-包？-WI-FI-环境](https://www.v2ex.com/t/726191) ![](assets/new.png)  
 - [2020-11-17-去年注册的-paypal-登录要添加手机号码怎么办？](https://www.v2ex.com/t/726189) ![](assets/new.png)  
-- [2020-11-17-几百块追剧的平板有推荐吗？](https://www.v2ex.com/t/726188) ![](assets/new.png)  
-- [2020-11-17-更新-macOS-Big-Sur，-Axure-RP8.1-有兼容问题](https://www.v2ex.com/t/726186) ![](assets/new.png)  
-- [2020-11-17-阿里云盘原来就是-Teambition-的附带功能-今天算是转正了-收到了邀请码-2T-空间](https://www.v2ex.com/t/726183) ![](assets/new.png)  
-- [2020-11-17-北京-安卓工程师-25-50K-稳定盈利运作-6-年+-内部孵化新项目](https://www.v2ex.com/t/726182) ![](assets/new.png)  
-- [2020-11-17-PS5-谁买了啊配个啥电视合适呢？](https://www.v2ex.com/t/726181) ![](assets/new.png)  
-- [2020-11-17-听说安卓的碎片化比较严重，那么最佳的消息推送方案是什么？](https://www.v2ex.com/t/726180) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -601,8 +601,8 @@
 - [2020-11-17-Go-语言今年-11-岁，何去何从，现状到底如何？](https://toutiao.io/k/wj2n55o) ![](assets/new.png)  
 - [2020-11-17-明星有人设？程序员也需要人设管理](https://toutiao.io/k/fz2rpzd) ![](assets/new.png)  
 - [2020-11-17-面试：Spark-刷爆磁盘与-Java-弱引用的关系](https://toutiao.io/k/eb5vd84) ![](assets/new.png)  
-- [2020-11-17-设计模式大冒险第三关：工厂模式，封装和解耦你的代码](https://toutiao.io/k/1jjvoah) ![](assets/new.png)  
 - [2020-11-17-内存数据库解析与主流产品对比（一）](https://toutiao.io/k/x6kj07o) ![](assets/new.png)  
+- [2020-11-17-设计模式大冒险第三关：工厂模式，封装和解耦你的代码](https://toutiao.io/k/1jjvoah) ![](assets/new.png)  
 - [2020-11-17-在-Android-和-Hilt-中限定作用域](https://toutiao.io/k/0quw061) ![](assets/new.png)  
 - [2020-11-17-Flutter-Android-Embedder-启动流程](https://toutiao.io/k/6pwut9v) ![](assets/new.png)  
 - [2020-11-17-一条数据在-Apache-Iceberg-之旅：写过程分析](https://toutiao.io/k/pxparkc) ![](assets/new.png)  
@@ -610,8 +610,8 @@
 - [2020-11-17-把对象交给-Spring-管理的-3-种方法及经典应用](https://toutiao.io/k/ak09j1o) ![](assets/new.png)  
 - [2020-11-17-译-理解-Rust-中的闭包](https://toutiao.io/k/1e4cbbn) ![](assets/new.png)  
 - [2020-11-17-使用-Kubebuilder-定义-CRD-输出列](https://toutiao.io/k/7q96kq3) ![](assets/new.png)  
-- [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) ![](assets/new.png)  
 - [2020-11-17-一文看懂-Python-系列之值得收藏的-10-大-PyCharm-常用使用技巧（多图）](https://toutiao.io/k/nmohar5) ![](assets/new.png)  
+- [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) ![](assets/new.png)  
 - [2020-11-17-积木-Sketch-插件进阶开发指南](https://toutiao.io/k/oxckmap) ![](assets/new.png)  
 - [2020-11-17-俗说-GC-之-Heap-区内存模型的演进](https://toutiao.io/k/fhddysl) ![](assets/new.png)  
 - [2020-11-17-你的测试写全了吗？](https://toutiao.io/k/3b01kk5) ![](assets/new.png)  

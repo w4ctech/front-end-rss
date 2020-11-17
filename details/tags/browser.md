@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 07:11:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 07:21:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,7 +24,6 @@
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2020-11-16-如何在公司项目中使用-WebSocket—-入门实战指南](https://juejin.im/post/6895978021937741832) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-17-最新的-Big-Sur-的一个-🐛---Preview-导出-JPEG-图片的时候调节图片质量不会影响文件大小](https://www.v2ex.com/t/726166) 
 - [2020-11-17-Linux-后台开发常用调试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13936&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzZ5SuHR-LGhYKDdDumXa3A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-17-译-零信任网络安全：“从不信任，永远验证”](https://toutiao.io/k/eut8gsc) 
 - [2020-11-16-AIoT安全峰会议题回顾|黑灯:“手机-*-AIoT”-智能安全评估](https://sec.thief.one/article_content?a_id=34e2d1edbb4d58952faeb7c20b9fc1a4) 

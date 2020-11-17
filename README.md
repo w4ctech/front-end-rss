@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-17 06:04:23，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-17 06:13:27，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-17-几百块追剧的平板有推荐吗？](https://www.v2ex.com/t/726188) ![](assets/new.png)  
 - [2020-11-17-更新-macOS-Big-Sur，-Axure-RP8.1-有兼容问题](https://www.v2ex.com/t/726186) ![](assets/new.png)  
 - [2020-11-17-阿里云盘原来就是-Teambition-的附带功能-今天算是转正了-收到了邀请码-2T-空间](https://www.v2ex.com/t/726183) ![](assets/new.png)  
 - [2020-11-17-北京-安卓工程师-25-50K-稳定盈利运作-6-年+-内部孵化新项目](https://www.v2ex.com/t/726182) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-17-可能火星了，原来-Big-sur-能隐藏菜单栏](https://www.v2ex.com/t/726158) ![](assets/new.png)  
 - [2020-11-17-Big-Sur-11.0.1-安装-Appstore-里的-XCode-奇慢...有人遇到过么](https://www.v2ex.com/t/726157) ![](assets/new.png)  
 - [2020-11-17-现在市场上有-MFM-认证的磁吸充电器了嘛](https://www.v2ex.com/t/726156) ![](assets/new.png)  
-- [2020-11-17-JD-53-茅台才能抢到呢？疑问？难道只能靠运气？](https://www.v2ex.com/t/726154) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

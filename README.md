@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 16:18:00，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 16:41:06，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,7 +533,8 @@
 </summary>
 
 
-- [2020-11-18-NanoPi-R2S-的-cpu-跑加密类的瓶颈是-200M？](https://www.v2ex.com/t/726915) ![](assets/new.png)  
+- [2020-11-18-讨论-AMD-6800XT](https://www.v2ex.com/t/726918) ![](assets/new.png)  
+- [2020-11-18-这个电池健康度正常么。。看看你们的？](https://www.v2ex.com/t/726916) ![](assets/new.png)  
 - [2020-11-18-iOS-不推送微信信息（14.2-与-13.x-都偶发）](https://www.v2ex.com/t/726914) ![](assets/new.png)  
 - [2020-11-18-Golang-channe-你知多少](https://www.v2ex.com/t/726913) ![](assets/new.png)  
 - [2020-11-18-你们在-Big-Sur-里面还有在用-AdGuard-吗？](https://www.v2ex.com/t/726910) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-18-三投简历无人应，惊醒技术须钻研](https://www.v2ex.com/t/726894) ![](assets/new.png)  
 - [2020-11-18-对比了当前比较火的游戏本-y7000p-和荣耀猎人，大家有什么看法？](https://www.v2ex.com/t/726893) ![](assets/new.png)  
 - [2020-11-18-有什么-js-或者-PHP-直接调用打印机打印文件不预览的方法吗。](https://www.v2ex.com/t/726891) ![](assets/new.png)  
-- [2020-11-18-maven-项目生成的-war-太大，该如何优化？](https://www.v2ex.com/t/726889) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

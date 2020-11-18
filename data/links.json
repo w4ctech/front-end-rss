@@ -14668,6 +14668,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "macos 怎么设置 docker 上的容器使用宿主机上的 http 代理?",
+        "link": "https://www.v2ex.com/t/726722",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "公司一台 Mac 电脑想打印另一台 windows 共享的 hp1020 没有匹配驱动如何变通",
+        "link": "https://www.v2ex.com/t/726720",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "有没有软件开发的学生找兼职的",
+        "link": "https://www.v2ex.com/t/726719",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "干货！深圳双区公务员报名即将截止之际，写一些相关",
+        "link": "https://www.v2ex.com/t/726718",
+        "date": "2020-11-18"
+      },
+      {
         "title": "想知道 django 里边参数校验使用 forms 还是 serializers",
         "link": "https://www.v2ex.com/t/726715",
         "date": "2020-11-18"
@@ -14825,26 +14845,6 @@
       {
         "title": "买 m1， pdd 今年还有百亿补贴吗？",
         "link": "https://www.v2ex.com/t/726673",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "macbook 和 yoga14s 哪个屏幕更好？",
-        "link": "https://www.v2ex.com/t/726672",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "iPad mini 6 啥时候发布啊？",
-        "link": "https://www.v2ex.com/t/726670",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "AirPods Pro 在 M1 MacBook 系列上可以做到丝滑般的无缝切换吗？",
-        "link": "https://www.v2ex.com/t/726668",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "Http/Https 代理级联问题，请网络大佬指导，感谢！",
-        "link": "https://www.v2ex.com/t/726667",
         "date": "2020-11-18"
       }
     ]
@@ -15062,18 +15062,18 @@
         "date": "2020-11-18"
       },
       {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-18"
+      },
+      {
         "title": "[推荐] 消息队列和任务队列有什么区别？",
         "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-18"
       },
       {
@@ -15082,23 +15082,28 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-18"
       },
       {
@@ -15107,13 +15112,18 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-18"
       },
       {
@@ -15122,18 +15132,8 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
         "date": "2020-11-18"
       }
     ]

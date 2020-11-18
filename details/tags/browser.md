@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 01:30:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 01:39:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,7 +24,6 @@
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-18-较好中小型企业信息安全方案有哪些？](https://www.v2ex.com/t/726490) 
-- [2020-11-17-Firefox-83-增加了一个-HTTPS-only-模式](https://www.v2ex.com/t/726463) 
 - [2020-11-18-缓冲区溢出原理及实验：code-injection-与-return-oriented-programming](https://toutiao.io/k/fas60hh) 
 - [2020-11-17-安全内参|2021年新兴网络安全威胁预测](https://sec.thief.one/article_content?a_id=856effe1224002d56dddfbfb135207e3) 
 - [2020-11-17-绿盟科技全力护航2020电力行业网络安全攻防邀请赛](https://sec.thief.one/article_content?a_id=2e0de21cfe08f99a08e8dd5b1cd39748) 

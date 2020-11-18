@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 01:30:38，:rocket: 更新条数: +3075， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 01:39:50，:rocket: 更新条数: +3075， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2020-11-18-2020年11月18日广东省新冠肺炎疫情情况](http://wsjkw.gd.gov.cn/xxgzbdfk/yqtb/content/post_3129235.html) ![](assets/new.png)  
 - [2020-11-18-截至11月17日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/3fc0c71447e449f0aeacd31c356c6410.shtml) ![](assets/new.png)  
 - [2020-11-18-北京11月17日无新增报告新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202011/t20201118_2138605.html) ![](assets/new.png)  
 - [2020-11-18-2020年11月18日山西省新型冠状病毒肺炎疫情情况](http://wjw.shanxi.gov.cn/wjywl02/27470.hrh) ![](assets/new.png)  
@@ -533,6 +534,10 @@
 </summary>
 
 
+- [2020-11-18-管道维修不供暖，谁的责任？](https://www.v2ex.com/t/726517) ![](assets/new.png)  
+- [2020-11-18-2019-16-屌丝版-MBP，想换-m1-的-air。。。](https://www.v2ex.com/t/726516) ![](assets/new.png)  
+- [2020-11-18-想在-html-上画出室内的座位分布图，有啥好的解决方案么？](https://www.v2ex.com/t/726515) ![](assets/new.png)  
+- [2020-11-18-杭州程序员联盟](https://www.v2ex.com/t/726512) ![](assets/new.png)  
 - [2020-11-18-不懂就问，-m1-芯片的-mac-能无压力玩古墓丽影，是不是意味着以后很多游戏也会发布-mac-版的？](https://www.v2ex.com/t/726509) ![](assets/new.png)  
 - [2020-11-18-Google-面试题：单词拆分-III（动态规划）](https://www.v2ex.com/t/726508) ![](assets/new.png)  
 - [2020-11-18-想整一整办公室里的某个人，老大哥们有没有啥建议](https://www.v2ex.com/t/726507) ![](assets/new.png)  
@@ -549,10 +554,6 @@
 - [2020-11-18-MySQL-主从复制，有什么监控方案？](https://www.v2ex.com/t/726493) ![](assets/new.png)  
 - [2020-11-18-有哪些可兼顾摄像和摄影的相机可推荐?](https://www.v2ex.com/t/726492) ![](assets/new.png)  
 - [2020-11-18-较好中小型企业信息安全方案有哪些？](https://www.v2ex.com/t/726490) ![](assets/new.png)  
-- [2020-11-18-vue.js-里刚开始数据请求延迟的话会短暂显示那个没数据的画面咋搞哦](https://www.v2ex.com/t/726489) ![](assets/new.png)  
-- [2020-11-18-2020-年赣南脐橙上市啦！](https://www.v2ex.com/t/726488) ![](assets/new.png)  
-- [2020-11-18-公众号内网页获取微信用户-openid-是即用即取吗？](https://www.v2ex.com/t/726486) ![](assets/new.png)  
-- [2020-11-18-计算机的原理是图灵机吗，那图灵机的数学原理是什么？](https://www.v2ex.com/t/726485) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,19 +603,19 @@
 - [2020-11-18-前端团队研发效能提升的探索与实践](https://toutiao.io/k/dfuv91o) ![](assets/new.png)  
 - [2020-11-18-最全面的推荐系统评估方法介绍](https://toutiao.io/k/mv9umce) ![](assets/new.png)  
 - [2020-11-18-为什么继承-Python-内置类型会出问题？！](https://toutiao.io/k/1umq1m9) ![](assets/new.png)  
-- [2020-11-18-MySQL-对数据库设计时设计标识字段引发的一些思考](https://toutiao.io/k/nh5wxia) ![](assets/new.png)  
 - [2020-11-18-b-站账号快速升级到-Lv6：每天自动签到，观看，分享，投币视频](https://toutiao.io/k/12rl2qr) ![](assets/new.png)  
+- [2020-11-18-MySQL-对数据库设计时设计标识字段引发的一些思考](https://toutiao.io/k/nh5wxia) ![](assets/new.png)  
 - [2020-11-18-手把手教你撸一个能生成抖音风格动图的-gif-制作平台](https://toutiao.io/k/n1a5gai) ![](assets/new.png)  
 - [2020-11-18-缓冲区溢出原理及实验：code-injection-与-return-oriented-programming](https://toutiao.io/k/fas60hh) ![](assets/new.png)  
 - [2020-11-18-如何用-CI（持续集成）保证研发质量](https://toutiao.io/k/8uuz5pw) ![](assets/new.png)  
-- [2020-11-18-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/4f0u7y9) ![](assets/new.png)  
 - [2020-11-18-日均-5-亿字符翻译量，百毫秒内响应，携程机器翻译平台实践](https://toutiao.io/k/wchip42) ![](assets/new.png)  
-- [2020-11-18-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-18-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
+- [2020-11-18-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/4f0u7y9) ![](assets/new.png)  
+- [2020-11-18-Spring-改变版本号命名规则：此举对非英语国家很友好](https://toutiao.io/k/0ypr75l) ![](assets/new.png)  
 - [2020-11-18-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
 - [2020-11-18-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-18-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [2020-11-18-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-18-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-18-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

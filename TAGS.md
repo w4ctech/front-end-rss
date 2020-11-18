@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-18 01:30:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 01:39:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -331,9 +331,9 @@
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】较好中小型企业信息安全方案有哪些？](https://www.v2ex.com/t/726490)
-- [【V2EX】Firefox-83-增加了一个-HTTPS-only-模式](https://www.v2ex.com/t/726463)
 - [【开发者头条】缓冲区溢出原理及实验：code-injection-与-return-oriented-programming](https://toutiao.io/k/fas60hh)
 - [【安全热点】安全内参|2021年新兴网络安全威胁预测](https://sec.thief.one/article_content?a_id=856effe1224002d56dddfbfb135207e3)
+- [【安全热点】绿盟科技全力护航2020电力行业网络安全攻防邀请赛](https://sec.thief.one/article_content?a_id=2e0de21cfe08f99a08e8dd5b1cd39748)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -366,7 +366,6 @@
 
 
 
-- [【开发者头条】推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t)
 - [【安全热点】一图读懂Nginx](https://sec.thief.one/article_content?a_id=0f30c4322441a99c5a3295b9fa553352)
 - [......【查看更多】......](./details/tags/server.md)
 

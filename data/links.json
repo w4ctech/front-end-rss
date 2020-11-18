@@ -14663,6 +14663,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "蚂蚁集团，上海八佰伴/双休/极少出差， Java 平台/大数据/实时计算/数仓， P6~P8。 [团队直招]",
+        "link": "https://www.v2ex.com/t/726681",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "广州社保断交了 3 个月左右，有啥补缴办法吗？",
+        "link": "https://www.v2ex.com/t/726680",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "无良商家利用 iPhone 相册强行推广告",
+        "link": "https://www.v2ex.com/t/726679",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "Python 链表的歧义问题求助",
+        "link": "https://www.v2ex.com/t/726678",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "近十年互联网出现了哪些好书",
+        "link": "https://www.v2ex.com/t/726677",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "GoogleDrive 用户谨慎升级 BigSur 11.1",
+        "link": "https://www.v2ex.com/t/726674",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "买 m1， pdd 今年还有百亿补贴吗？",
+        "link": "https://www.v2ex.com/t/726673",
+        "date": "2020-11-18"
+      },
+      {
         "title": "macbook 和 yoga14s 哪个屏幕更好？",
         "link": "https://www.v2ex.com/t/726672",
         "date": "2020-11-18"
@@ -14811,51 +14846,6 @@
         "title": "求助：深圳南山世界之窗附近有一房一厅出租吗？",
         "link": "https://www.v2ex.com/t/726632",
         "date": "2020-11-18"
-      },
-      {
-        "title": "老哥，负载均衡 负载机器怎么能够访问外网啊？",
-        "link": "https://www.v2ex.com/t/726631",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "有没有办法在 touch bar 弄一个按钮，点一下这个按钮相当于在某一个程序里面按一个指定按键",
-        "link": "https://www.v2ex.com/t/726630",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "想问下 如何 监控 微博上线 时间？",
-        "link": "https://www.v2ex.com/t/726629",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "分享一个用 C# WinForm 写的剪贴板历史记录软件",
-        "link": "https://www.v2ex.com/t/726628",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "iOS 的 continuum 会有吗",
-        "link": "https://www.v2ex.com/t/726627",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "6 号线高青路地铁站博学家园主卧转租",
-        "link": "https://www.v2ex.com/t/726626",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "关于竞争协议的一些疑问。",
-        "link": "https://www.v2ex.com/t/726625",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "TechCrunch 测试 M1：编译 WebKit 仅需 20min，耗电 9%； 16MBP 27min， 39%",
-        "link": "https://www.v2ex.com/t/726624",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "iPad Air 4 蜂窝版已发货，发货地成都",
-        "link": "https://www.v2ex.com/t/726623",
-        "date": "2020-11-18"
       }
     ]
   },
@@ -14864,6 +14854,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Flink 1.11 与 Hive 批流一体数仓实践 (developer.aliyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13960&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777720%3Futm_content%3Dg_1000206570%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-18"
+      },
       {
         "title": "云原生时代微服务的高可用架构设计 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13959&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777594%3Futm_content%3Dg_1000206569%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14957,11 +14952,6 @@
       {
         "title": "华为阿里下班时间曝光：所有的光鲜，都有加班的味道 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13941&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuosnjOfxZTwTcvZVyOHTPQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "VS Code 的 7 个开源替代品！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13940&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBEM0UPxp2bcjPTNCKvMoA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-18"
       }
     ]
@@ -15072,8 +15062,13 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-18"
       },
       {
@@ -15082,23 +15077,28 @@
         "date": "2020-11-18"
       },
       {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
+        "link": "https://toutiao.io/k/f9kkb5t",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-18"
+      },
+      {
         "title": "[推荐] 小团队如何落地敏捷开发",
         "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-18"
       },
       {
@@ -15107,8 +15107,18 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-18"
       },
       {
@@ -15117,33 +15127,13 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-18"
       }
     ]

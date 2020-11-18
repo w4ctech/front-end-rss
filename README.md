@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 05:47:44，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 06:04:56，:rocket: 更新条数: +3079， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,13 @@
 </summary>
 
 
+- [2020-11-18-蚂蚁集团，上海八佰伴/双休/极少出差，-Java-平台/大数据/实时计算/数仓，-P6~P8。-团队直招](https://www.v2ex.com/t/726681) ![](assets/new.png)  
+- [2020-11-18-广州社保断交了-3-个月左右，有啥补缴办法吗？](https://www.v2ex.com/t/726680) ![](assets/new.png)  
+- [2020-11-18-无良商家利用-iPhone-相册强行推广告](https://www.v2ex.com/t/726679) ![](assets/new.png)  
+- [2020-11-18-Python-链表的歧义问题求助](https://www.v2ex.com/t/726678) ![](assets/new.png)  
+- [2020-11-18-近十年互联网出现了哪些好书](https://www.v2ex.com/t/726677) ![](assets/new.png)  
+- [2020-11-18-GoogleDrive-用户谨慎升级-BigSur-11.1](https://www.v2ex.com/t/726674) ![](assets/new.png)  
+- [2020-11-18-买-m1，-pdd-今年还有百亿补贴吗？](https://www.v2ex.com/t/726673) ![](assets/new.png)  
 - [2020-11-18-macbook-和-yoga14s-哪个屏幕更好？](https://www.v2ex.com/t/726672) ![](assets/new.png)  
 - [2020-11-18-iPad-mini-6-啥时候发布啊？](https://www.v2ex.com/t/726670) ![](assets/new.png)  
 - [2020-11-18-AirPods-Pro-在-M1-MacBook-系列上可以做到丝滑般的无缝切换吗？](https://www.v2ex.com/t/726668) ![](assets/new.png)  
@@ -546,13 +553,6 @@
 - [2020-11-18-多作者，技术文档小程序推荐一个呗~](https://www.v2ex.com/t/726659) ![](assets/new.png)  
 - [2020-11-18-为什么-2020-款的-mba-不能在官网折抵呢？](https://www.v2ex.com/t/726658) ![](assets/new.png)  
 - [2020-11-18-在用-win7，怎么好多网页提示证书不对](https://www.v2ex.com/t/726655) ![](assets/new.png)  
-- [2020-11-18-联通宽带最高免费提速至-500M](https://www.v2ex.com/t/726654) ![](assets/new.png)  
-- [2020-11-18-家宴-·-2020-入冬的第一次聚会，是带些许火辣的味道](https://www.v2ex.com/t/726652) ![](assets/new.png)  
-- [2020-11-18-big-sur-airpods-无法正常连接](https://www.v2ex.com/t/726651) ![](assets/new.png)  
-- [2020-11-18-分享一个稳定的-Gravatar-镜像，以及使用-CDN-自建教程](https://www.v2ex.com/t/726648) ![](assets/new.png)  
-- [2020-11-18-我是不是可以便宜收到-16-寸的-mbp-了？](https://www.v2ex.com/t/726647) ![](assets/new.png)  
-- [2020-11-18-有没有关于深色模式做颜色映射的算法](https://www.v2ex.com/t/726645) ![](assets/new.png)  
-- [2020-11-18-快手-Android/iOS/-Java-Base-上海、杭州](https://www.v2ex.com/t/726644) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-18-Flink-1.11-与-Hive-批流一体数仓实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13960&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777720%3Futm_content%3Dg_1000206570%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-18-云原生时代微服务的高可用架构设计-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13959&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777594%3Futm_content%3Dg_1000206569%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-18-当-TiDB-与-Flink-相结合：高效、易用的实时数仓-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13958&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776726%3Futm_content%3Dg_1000206568%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-18-思否独立开发者采访-|-开启技术变现之路，探索第三收入来源-segmentfault.com](https://blogread.cn/news/go.php?idItem=13957&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000038196276%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-18-Flutter-制霸全平台，新版将支持-Windows-应用程序！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13943&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsQmJJfNQpiNXJzVLOXCYyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-18-Typora-完美结合-PicGo，写作体验更佳！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13942&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHH31VsgcGreEugi73LXtcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-18-华为阿里下班时间曝光：所有的光鲜，都有加班的味道-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13941&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuosnjOfxZTwTcvZVyOHTPQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-18-VS-Code-的-7-个开源替代品！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13940&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBEM0UPxp2bcjPTNCKvMoA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

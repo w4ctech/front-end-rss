@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 14:47:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 15:04:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,4 +7,5 @@
 
 
 
+- [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 
 - [2020-11-16-WebGL绘制如何进行优化？](https://juejin.im/post/6895936278433366029) 

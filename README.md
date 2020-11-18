@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 14:47:28，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 15:04:04，:rocket: 更新条数: +3034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -36,9 +36,9 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-11-18-波兰新增19883例新冠肺炎确诊病例-累计确诊772823例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtichhubncququVZU1Zmhas201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-香港新增9例新冠肺炎确诊病例-累计确诊5480例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWwDJLXm1ryxahkv7ioea201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-乌克兰单日新增12496例新冠肺炎确诊病例-累计确诊570153例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidGo2TJla0mgUfyoA2LLr201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-德国累计确诊新冠肺炎病例833307例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijKDhrku0mIlc2ybbcRus201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-受新冠肺炎疫情影响-卢旺达基加利国际和平马拉松比赛被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti98P15dWQ54yk6NR09iTb201118&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -315,6 +320,16 @@
 </summary>
 
 
+- [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) ![](assets/new.png)  
+- [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) ![](assets/new.png)  
+- [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) ![](assets/new.png)  
+- [2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) ![](assets/new.png)  
+- [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) ![](assets/new.png)  
+- [2020-10-19-如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/) ![](assets/new.png)  
+- [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) ![](assets/new.png)  
+- [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) ![](assets/new.png)  
+- [2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/) ![](assets/new.png)  
+- [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -340,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -518,26 +523,6 @@
 </summary>
 
 
-- [2020-11-18-maven-项目生成的-war-太大，该如何优化？](https://www.v2ex.com/t/726889) ![](assets/new.png)  
-- [2020-11-18-用-Python-做了一个透明加密工具，可以跨平台（PC、安卓）使用，用作文件保险柜](https://www.v2ex.com/t/726887) ![](assets/new.png)  
-- [2020-11-18-执行-js-脚本，无法查询到页面新加载出的元素](https://www.v2ex.com/t/726886) ![](assets/new.png)  
-- [2020-11-18-请问-Big-Sur-开机-login-界面的壁纸怎么改？](https://www.v2ex.com/t/726885) ![](assets/new.png)  
-- [2020-11-18-罗技发布了新一代-G-旗舰](https://www.v2ex.com/t/726884) ![](assets/new.png)  
-- [2020-11-18-有人跑了-m1-对比-iPad-pro-的-a12z-的跑分么](https://www.v2ex.com/t/726883) ![](assets/new.png)  
-- [2020-11-18-有没有大佬熟悉时序数据库的](https://www.v2ex.com/t/726882) ![](assets/new.png)  
-- [2020-11-18-AirBuddy-2](https://www.v2ex.com/t/726881) ![](assets/new.png)  
-- [2020-11-18-不知道是谁的-BUG-BigSur-下-Chrome-不能设为默认了](https://www.v2ex.com/t/726880) ![](assets/new.png)  
-- [2020-11-18-成都电信-IPV6-时有时无，是玄学还是普遍现象？](https://www.v2ex.com/t/726879) ![](assets/new.png)  
-- [2020-11-18-晚上撸了个-Dart-的-Json-转-Model](https://www.v2ex.com/t/726878) ![](assets/new.png)  
-- [2020-11-18-完犊子了，-chrome-打不开-Google-的网页了......](https://www.v2ex.com/t/726877) ![](assets/new.png)  
-- [2020-11-18-VSCode-误报语法错误](https://www.v2ex.com/t/726876) ![](assets/new.png)  
-- [2020-11-18-MBP-16-Big-Sur-用-bootcamp-安装双系统之后，突然不能识别原-mac-的密码了](https://www.v2ex.com/t/726875) ![](assets/new.png)  
-- [2020-11-18-M1-的成功是否会带来基于-arm-的-Linux-电脑？](https://www.v2ex.com/t/726874) ![](assets/new.png)  
-- [2020-11-18-协程递归问题请教](https://www.v2ex.com/t/726873) ![](assets/new.png)  
-- [2020-11-18-PDD-发货了！-12-128G-6199-入的，来找人聊一聊搭配的配件：充电器套装、无线充、座充、壳膜。](https://www.v2ex.com/t/726870) ![](assets/new.png)  
-- [2020-11-18-《操作系统：设计和实现》第一版中的-Minix-代码哪里可以下载到？](https://www.v2ex.com/t/726868) ![](assets/new.png)  
-- [2020-11-18-A14-省电模式相当于满血-A12](https://www.v2ex.com/t/726864) ![](assets/new.png)  
-- [2020-11-18-有谁用过阿里云的联通跨境高速通道？](https://www.v2ex.com/t/726863) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 15:34:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 15:37:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -38,5 +38,8 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2020-11-18-有什么-js-或者-PHP-直接调用打印机打印文件不预览的方法吗。](https://www.v2ex.com/t/726891) 
+- [2020-11-18-执行-js-脚本，无法查询到页面新加载出的元素](https://www.v2ex.com/t/726886) 
+- [2020-11-18-晚上撸了个-Dart-的-Json-转-Model](https://www.v2ex.com/t/726878) 
 - [2020-11-18-【组件攻击链】ThinkCMF-高危漏洞分析与利用](https://sec.thief.one/article_content?a_id=4c3a947ecbfc3113314a58f9d6db8f2c) 
 - [2020-11-17-2020年xnuca-oooooooldjs题解](https://sec.thief.one/article_content?a_id=e3a1dcf20cf44cc190081f7f21f9dd29) 

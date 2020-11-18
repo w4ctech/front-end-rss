@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 15:34:37，:rocket: 更新条数: +3044， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 15:37:43，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-18-猫眼电影北京/上海-Java-/Android/前端-欢迎投简历！](https://www.v2ex.com/t/726904) ![](assets/new.png)  
+- [2020-11-18-面-id-貌似进水坏了-可以去直营店以旧换新吗](https://www.v2ex.com/t/726902) ![](assets/new.png)  
+- [2020-11-18-有没有用过-X、XR/XS、11/11pro、12/12pro-之间的小伙伴来分享下信号的实际体验。](https://www.v2ex.com/t/726901) ![](assets/new.png)  
+- [2020-11-18-福利超级赞的外企职位来啦！前端-Manager（全栈）+前端开发（全栈）+后端-Manager+后端开发](https://www.v2ex.com/t/726900) ![](assets/new.png)  
+- [2020-11-18-苹果税降了~~~](https://www.v2ex.com/t/726899) ![](assets/new.png)  
+- [2020-11-18-华为云的墨西哥北美网速及延迟测试](https://www.v2ex.com/t/726898) ![](assets/new.png)  
+- [2020-11-18-广州联通智慧沃家-130B100M-光纤.有办法升级到-300M+吗](https://www.v2ex.com/t/726897) ![](assets/new.png)  
+- [2020-11-18-到店体验-iPhone-之后发现-12-pro-Max-的手感太糟糕了。。。](https://www.v2ex.com/t/726896) ![](assets/new.png)  
+- [2020-11-18-有没有给-html-加密的方法，并且不影响浏览器访问？](https://www.v2ex.com/t/726895) ![](assets/new.png)  
+- [2020-11-18-三投简历无人应，惊醒技术须钻研](https://www.v2ex.com/t/726894) ![](assets/new.png)  
+- [2020-11-18-对比了当前比较火的游戏本-y7000p-和荣耀猎人，大家有什么看法？](https://www.v2ex.com/t/726893) ![](assets/new.png)  
+- [2020-11-18-有什么-js-或者-PHP-直接调用打印机打印文件不预览的方法吗。](https://www.v2ex.com/t/726891) ![](assets/new.png)  
+- [2020-11-18-maven-项目生成的-war-太大，该如何优化？](https://www.v2ex.com/t/726889) ![](assets/new.png)  
+- [2020-11-18-用-Python-做了一个透明加密工具，可以跨平台（PC、安卓）使用，用作文件保险柜](https://www.v2ex.com/t/726887) ![](assets/new.png)  
+- [2020-11-18-执行-js-脚本，无法查询到页面新加载出的元素](https://www.v2ex.com/t/726886) ![](assets/new.png)  
+- [2020-11-18-请问-Big-Sur-开机-login-界面的壁纸怎么改？](https://www.v2ex.com/t/726885) ![](assets/new.png)  
+- [2020-11-18-罗技发布了新一代-G-旗舰](https://www.v2ex.com/t/726884) ![](assets/new.png)  
+- [2020-11-18-有人跑了-m1-对比-iPad-pro-的-a12z-的跑分么](https://www.v2ex.com/t/726883) ![](assets/new.png)  
+- [2020-11-18-有没有大佬熟悉时序数据库的](https://www.v2ex.com/t/726882) ![](assets/new.png)  
+- [2020-11-18-AirBuddy-2](https://www.v2ex.com/t/726881) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

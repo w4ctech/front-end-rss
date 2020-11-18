@@ -14658,6 +14658,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MySQL 主从复制，有什么监控方案？",
+        "link": "https://www.v2ex.com/t/726493",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "有哪些可兼顾摄像和摄影的相机可推荐?",
+        "link": "https://www.v2ex.com/t/726492",
+        "date": "2020-11-18"
+      },
+      {
         "title": "较好中小型企业信息安全方案有哪些？",
         "link": "https://www.v2ex.com/t/726490",
         "date": "2020-11-18"
@@ -14836,16 +14846,6 @@
         "title": "m1 芯片的 mac 测评大量解禁，各种吊打 i9，真香",
         "link": "https://www.v2ex.com/t/726445",
         "date": "2020-11-17"
-      },
-      {
-        "title": "[前端求助] ios 下使用 UC 浏览器 video 标签播放问题",
-        "link": "https://www.v2ex.com/t/726443",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "Arm macbook 总有人问适合开发吗",
-        "link": "https://www.v2ex.com/t/726441",
-        "date": "2020-11-17"
       }
     ]
   },
@@ -14977,13 +14977,13 @@
         "date": "2020-11-18"
       },
       {
-        "title": "前端团队研发效能提升的探索与实践",
-        "link": "https://toutiao.io/k/dfuv91o",
+        "title": "优酷大数据 OLAP 技术选型",
+        "link": "https://toutiao.io/k/ohrycaz",
         "date": "2020-11-18"
       },
       {
-        "title": "优酷大数据 OLAP 技术选型",
-        "link": "https://toutiao.io/k/ohrycaz",
+        "title": "前端团队研发效能提升的探索与实践",
+        "link": "https://toutiao.io/k/dfuv91o",
         "date": "2020-11-18"
       },
       {
@@ -15012,58 +15012,13 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 阿里终面：分布式事务原理",
-        "link": "https://toutiao.io/k/vunm1k6",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-18"
-      },
-      {
         "title": "[推荐] 程序员成为高级管理者的三次跃升",
         "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-18"
       },
       {
@@ -15072,8 +15027,43 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-18"
       },
       {
@@ -15082,8 +15072,18 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 阿里终面：分布式事务原理",
+        "link": "https://toutiao.io/k/vunm1k6",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
+        "link": "https://toutiao.io/k/1y6vsef",
         "date": "2020-11-18"
       }
     ]

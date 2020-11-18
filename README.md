@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 02:04:31，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 02:13:32，:rocket: 更新条数: +3305， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -100,9 +100,6 @@
 - [2020-11-18-2020年11月17日湖北省新冠肺炎疫情情况](http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdgrfyyq/xxfb/202011/t20201118_3036121.shtml) ![](assets/new.png)  
 - [2020-11-18-2020年11月18日广东省新冠肺炎疫情情况](http://wsjkw.gd.gov.cn/xxgzbdfk/yqtb/content/post_3129235.html) ![](assets/new.png)  
 - [2020-11-18-截至11月17日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/3fc0c71447e449f0aeacd31c356c6410.shtml) ![](assets/new.png)  
-- [2020-11-18-北京11月17日无新增报告新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202011/t20201118_2138605.html) ![](assets/new.png)  
-- [2020-11-18-2020年11月18日山西省新型冠状病毒肺炎疫情情况](http://wjw.shanxi.gov.cn/wjywl02/27470.hrh) ![](assets/new.png)  
-- [2020-11-17-辽宁省昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikfD1ReAOG3pdJSxCOX6T201118&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,6 +553,12 @@
 </summary>
 
 
+- [2020-11-18-感觉-V2-上物联网节点有点冷清哇](https://www.v2ex.com/t/726545) ![](assets/new.png)  
+- [2020-11-18-Chrome-即将淘汰-Flash,-那前端应该如何实现-rtmp-流播放?](https://www.v2ex.com/t/726544) ![](assets/new.png)  
+- [2020-11-18-看翻译过了的文章感觉味道变了](https://www.v2ex.com/t/726541) ![](assets/new.png)  
+- [2020-11-18-求推荐无线充电器](https://www.v2ex.com/t/726540) ![](assets/new.png)  
+- [2020-11-18-dcompass---纯-Rust-实现的高性能混合-DNS-服务器](https://www.v2ex.com/t/726539) ![](assets/new.png)  
+- [2020-11-18-内衣的商标，为什么要放在脖子后面。](https://www.v2ex.com/t/726538) ![](assets/new.png)  
 - [2020-11-18-coding.net-or-serverless](https://www.v2ex.com/t/726537) ![](assets/new.png)  
 - [2020-11-18-nginx-的重定向问题（小白提问）](https://www.v2ex.com/t/726536) ![](assets/new.png)  
 - [2020-11-18-iCloud-数据会丢？](https://www.v2ex.com/t/726535) ![](assets/new.png)  
@@ -570,12 +573,6 @@
 - [2020-11-18-#-请教一下*echarts-中横向柱状图怎样实现类目名称显示在图表上方*的问题](https://www.v2ex.com/t/726523) ![](assets/new.png)  
 - [2020-11-18-电动车怎么就那么喜欢抢跑](https://www.v2ex.com/t/726520) ![](assets/new.png)  
 - [2020-11-18-ubuntu-18.04-看起来不能自动检测到新内核，要手动升级内核](https://www.v2ex.com/t/726519) ![](assets/new.png)  
-- [2020-11-18-图片尺寸-1200x900-缩小到-800x600-有办法更清晰吗？（图片查看工具-100%>75%是更清晰的）](https://www.v2ex.com/t/726518) ![](assets/new.png)  
-- [2020-11-18-管道维修不供暖，谁的责任？](https://www.v2ex.com/t/726517) ![](assets/new.png)  
-- [2020-11-18-2019-16-屌丝版-MBP，想换-m1-的-air。。。](https://www.v2ex.com/t/726516) ![](assets/new.png)  
-- [2020-11-18-想在-html-上画出室内的座位分布图，有啥好的解决方案么？](https://www.v2ex.com/t/726515) ![](assets/new.png)  
-- [2020-11-18-不懂就问，-m1-芯片的-mac-能无压力玩古墓丽影，是不是意味着以后很多游戏也会发布-mac-版的？](https://www.v2ex.com/t/726509) ![](assets/new.png)  
-- [2020-11-18-Google-面试题：单词拆分-III（动态规划）](https://www.v2ex.com/t/726508) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -633,11 +630,11 @@
 - [2020-11-18-Spring-改变版本号命名规则：此举对非英语国家很友好](https://toutiao.io/k/0ypr75l) ![](assets/new.png)  
 - [2020-11-18-日均-5-亿字符翻译量，百毫秒内响应，携程机器翻译平台实践](https://toutiao.io/k/wchip42) ![](assets/new.png)  
 - [2020-11-18-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/4f0u7y9) ![](assets/new.png)  
-- [2020-11-18-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-18-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
-- [2020-11-18-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-18-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-18-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
+- [2020-11-18-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-18-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) ![](assets/new.png)  
+- [2020-11-18-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-18-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-18-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

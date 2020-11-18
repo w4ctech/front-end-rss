@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 17:49:54，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 18:03:52，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -605,8 +605,8 @@
 - [2020-11-18-MySQL-对数据库设计时设计标识字段引发的一些思考](https://toutiao.io/k/nh5wxia) ![](assets/new.png)  
 - [2020-11-18-最全面的推荐系统评估方法介绍](https://toutiao.io/k/mv9umce) ![](assets/new.png)  
 - [2020-11-18-为什么继承-Python-内置类型会出问题？！](https://toutiao.io/k/1umq1m9) ![](assets/new.png)  
-- [2020-11-18-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/4f0u7y9) ![](assets/new.png)  
 - [2020-11-18-手把手教你撸一个能生成抖音风格动图的-gif-制作平台](https://toutiao.io/k/n1a5gai) ![](assets/new.png)  
+- [2020-11-18-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/4f0u7y9) ![](assets/new.png)  
 - [2020-11-18-Spring-改变版本号命名规则：此举对非英语国家很友好](https://toutiao.io/k/0ypr75l) ![](assets/new.png)  
 - [2020-11-18-如何用-CI（持续集成）保证研发质量](https://toutiao.io/k/8uuz5pw) ![](assets/new.png)  
 - [2020-11-18-运行于-.NET-Core-之上的游戏服务器的开源框架](https://toutiao.io/k/7s66ddg) ![](assets/new.png)  

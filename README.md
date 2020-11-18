@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 03:47:57，:rocket: 更新条数: +3312， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 04:04:58，:rocket: 更新条数: +3313， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -475,9 +475,9 @@
 
 - [2020-11-17-译-如何在-Nextjs-中使用-cookies-来持久化保存用户信息](https://juejin.im/post/6896062683263860749) ![](assets/new.png)  
 - [2020-11-16-手把手带你青铜上钻石之——webpack](https://juejin.im/post/6895969773260619790) ![](assets/new.png)  
-- [2020-11-16-WebGL绘制如何进行优化？](https://juejin.im/post/6895936278433366029) ![](assets/new.png)  
 - [2020-11-16-javascript的基础清单](https://juejin.im/post/6895930107139981325) ![](assets/new.png)  
 - [2020-11-16-一文带你玩转设计模式之「责任链」](https://juejin.im/post/6895894824415657991) ![](assets/new.png)  
+- [2020-11-16-SPA-路由三部曲之核心原理](https://juejin.im/post/6895882310458343431) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,12 @@
 </summary>
 
 
+- [2020-11-18-TechCrunch-测试-M1：编译-WebKit-仅需-20min，耗电-9%](https://www.v2ex.com/t/726624) ![](assets/new.png)  
+- [2020-11-18-iPad-Air-4-蜂窝版已发货，发货地成都](https://www.v2ex.com/t/726623) ![](assets/new.png)  
+- [2020-11-18-Mac-mini-M1-拆解-发在-macmini-节点好像没人知道](https://www.v2ex.com/t/726622) ![](assets/new.png)  
+- [2020-11-18-可以在哪里学习到网络安全吗，网站被攻击了，不知道哪一环出错了，被别人登入后台了，盗取了数据库](https://www.v2ex.com/t/726621) ![](assets/new.png)  
+- [2020-11-18-2080-加年中顶配-mbp13（i7+16g+1t）有比我惨的么？](https://www.v2ex.com/t/726620) ![](assets/new.png)  
+- [2020-11-18-软件测试工程师-相关工作求内推-擅长-app/web-自动化构建](https://www.v2ex.com/t/726619) ![](assets/new.png)  
 - [2020-11-18-Mac-mini-M1-拆解来了](https://www.v2ex.com/t/726618) ![](assets/new.png)  
 - [2020-11-18-号外号外：-M1-苹果官网中午直降-800，有图有真相，这个确定不是-BUG？薅羊毛否？](https://www.v2ex.com/t/726617) ![](assets/new.png)  
 - [2020-11-18-硅谷-AI-外企北京研发中心-开发、数据岗位招聘](https://www.v2ex.com/t/726616) ![](assets/new.png)  
@@ -567,12 +573,6 @@
 - [2020-11-18-Github-Contribution-统计图那种效果怎么实现的呀？](https://www.v2ex.com/t/726601) ![](assets/new.png)  
 - [2020-11-18-BLS-阈值签名相关-这个是怎么推出来的？为啥-a3-到-a-m-1-没算了？](https://www.v2ex.com/t/726600) ![](assets/new.png)  
 - [2020-11-18-福建地区产假-98-天算违规？](https://www.v2ex.com/t/726597) ![](assets/new.png)  
-- [2020-11-18-请问大家升级-mac-big-sur-后遇到-Android-studio-如果打开设置-，就会和项目窗口合并一起了？](https://www.v2ex.com/t/726596) ![](assets/new.png)  
-- [2020-11-18-阿里云共享虚拟主机，流量一高，就关站，我太难了](https://www.v2ex.com/t/726595) ![](assets/new.png)  
-- [2020-11-18-双屏显示器，颜色格式不一样的](https://www.v2ex.com/t/726593) ![](assets/new.png)  
-- [2020-11-18-SSL-认证免费的和付费的有啥区别？](https://www.v2ex.com/t/726592) ![](assets/new.png)  
-- [2020-11-18-python3-中-json-的一个-bug？](https://www.v2ex.com/t/726591) ![](assets/new.png)  
-- [2020-11-18-游戏推荐：天穗之咲稻姬](https://www.v2ex.com/t/726590) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -618,12 +618,12 @@
 - [2020-11-18-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
 - [2020-11-18-资料-|-30-天循序渐进地教你学会-Python](https://toutiao.io/k/lhg1ffp) ![](assets/new.png)  
 - [2020-11-18-那些迷人的命令行工具](https://toutiao.io/k/til8azt) ![](assets/new.png)  
+- [2020-11-18-b-站账号快速升级到-Lv6：每天自动签到，观看，分享，投币视频](https://toutiao.io/k/12rl2qr) ![](assets/new.png)  
 - [2020-11-18-优酷大数据-OLAP-技术选型](https://toutiao.io/k/ohrycaz) ![](assets/new.png)  
 - [2020-11-18-前端团队研发效能提升的探索与实践](https://toutiao.io/k/dfuv91o) ![](assets/new.png)  
-- [2020-11-18-b-站账号快速升级到-Lv6：每天自动签到，观看，分享，投币视频](https://toutiao.io/k/12rl2qr) ![](assets/new.png)  
+- [2020-11-18-缓冲区溢出原理及实验：code-injection-与-return-oriented-programming](https://toutiao.io/k/fas60hh) ![](assets/new.png)  
 - [2020-11-18-MySQL-对数据库设计时设计标识字段引发的一些思考](https://toutiao.io/k/nh5wxia) ![](assets/new.png)  
 - [2020-11-18-最全面的推荐系统评估方法介绍](https://toutiao.io/k/mv9umce) ![](assets/new.png)  
-- [2020-11-18-缓冲区溢出原理及实验：code-injection-与-return-oriented-programming](https://toutiao.io/k/fas60hh) ![](assets/new.png)  
 - [2020-11-18-为什么继承-Python-内置类型会出问题？！](https://toutiao.io/k/1umq1m9) ![](assets/new.png)  
 - [2020-11-18-手把手教你撸一个能生成抖音风格动图的-gif-制作平台](https://toutiao.io/k/n1a5gai) ![](assets/new.png)  
 - [2020-11-18-Spring-改变版本号命名规则：此举对非英语国家很友好](https://toutiao.io/k/0ypr75l) ![](assets/new.png)  
@@ -632,9 +632,9 @@
 - [2020-11-18-日均-5-亿字符翻译量，百毫秒内响应，携程机器翻译平台实践](https://toutiao.io/k/wchip42) ![](assets/new.png)  
 - [2020-11-18-美团面试官问我：ZGC-的-Z-是什么意思？](https://toutiao.io/k/90qi0wt) ![](assets/new.png)  
 - [2020-11-18-IP-地址怎么定位？](https://toutiao.io/k/lse932r) ![](assets/new.png)  
+- [2020-11-18-关于内存你需要了解的（二）](https://toutiao.io/k/0pq7n2s) ![](assets/new.png)  
 - [2020-11-18-运行于-.NET-Core-之上的游戏服务器的开源框架](https://toutiao.io/k/7s66ddg) ![](assets/new.png)  
 - [2020-11-18-数据智能在业务场景下的应用](https://toutiao.io/k/1cmf9c0) ![](assets/new.png)  
-- [2020-11-18-关于内存你需要了解的（二）](https://toutiao.io/k/0pq7n2s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-18 12:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 12:40:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-18-FCP-剪辑-新-Air-和-Pro-选择哪个？](https://www.v2ex.com/t/726853) 
 - [2020-11-18-跑了一下-Apple-给的光追-demo](https://www.v2ex.com/t/726852) 
 - [2020-11-18-如何使用-PyCharm-debug-运行在-docker-container-里的-Python-应用？](https://www.v2ex.com/t/726851) 
 - [2020-11-18-都在关注-M1-芯片-没有人关注今晚-10-点解禁的-AMD-6800XT-评测吗？](https://www.v2ex.com/t/726850) 
@@ -43,4 +44,3 @@
 - [2020-11-18-想找一个全栈的朋友一起做个社区](https://www.v2ex.com/t/726808) 
 - [2020-11-18-v-社有中华小当家吗](https://www.v2ex.com/t/726806) 
 - [2020-11-18-RISC-V-能够发展起来吗，想看开源体系对抗苹果的闭源体系](https://www.v2ex.com/t/726805) 
-- [2020-11-18-restful-api-和前后端分离项目如何做好-seo-优化](https://www.v2ex.com/t/726803) 

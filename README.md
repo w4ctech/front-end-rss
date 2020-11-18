@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 13:20:58，:rocket: 更新条数: +3083， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 13:33:00，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-11-18-陕西无新增新冠肺炎确诊病例](http://sxwjw.shaanxi.gov.cn/art/2020/11/18/art_9_74516.html) ![](assets/new.png)  
-- [2020-11-18-国家卫健委：新冠病毒感染者治愈出院后6个月内暂拒献血](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNfzfFQso7cjAePxYxEAP201118&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-四川省新型冠状病毒肺炎疫情最新情况（11月18日发布）](http://wsjkw.sc.gov.cn/scwsjkw/gggs/2020/11/18/765c8886cffc405d8d414d93a146bb5c.shtml) ![](assets/new.png)  
-- [2020-11-18-上海11月17日无新增本地新冠肺炎确诊病例-新增境外输入4例-治愈出院9例](http://wsjkw.sh.gov.cn/xwfb/20201118/394786cdf7204947881681f44bf37b64.html) ![](assets/new.png)  
-- [2020-11-18-人手不足-美国犯人受雇搬运新冠患者遗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisntIIn0c42ZalfFDZfL5201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-波兰新增19883例新冠肺炎确诊病例-累计确诊772823例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtichhubncququVZU1Zmhas201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-香港新增9例新冠肺炎确诊病例-累计确诊5480例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWwDJLXm1ryxahkv7ioea201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-乌克兰单日新增12496例新冠肺炎确诊病例-累计确诊570153例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidGo2TJla0mgUfyoA2LLr201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-德国累计确诊新冠肺炎病例833307例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijKDhrku0mIlc2ybbcRus201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-受新冠肺炎疫情影响-卢旺达基加利国际和平马拉松比赛被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti98P15dWQ54yk6NR09iTb201118&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,9 +473,9 @@
 </summary>
 
 
+- [2020-11-18-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://juejin.im/post/6896451677063544846) ![](assets/new.png)  
 - [2020-11-18-redux-thunk源码笔记](https://juejin.im/post/6896438096011739149) ![](assets/new.png)  
 - [2020-11-18-数据结构与算法学习之集合](https://juejin.im/post/6896436531125452813) ![](assets/new.png)  
-- [2020-11-18-Electron9+vue-cli3开发跨平台桌面应用](https://juejin.im/post/6896417031344619528) ![](assets/new.png)  
 - [2020-11-18-简短而全面解说CSS选择器层叠、优先级、冲突、继承、以及属性值计算过程](https://juejin.im/post/6896414154753015815) ![](assets/new.png)  
 - [2020-11-16-WebGL绘制如何进行优化？](https://juejin.im/post/6895936278433366029) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
@@ -533,6 +553,8 @@
 </summary>
 
 
+- [2020-11-18-A14-省电模式相当于满血-A12](https://www.v2ex.com/t/726864) ![](assets/new.png)  
+- [2020-11-18-有谁用过阿里云的联通跨境高速通道？](https://www.v2ex.com/t/726863) ![](assets/new.png)  
 - [2020-11-18-Flutter-Weekly-Issue-69](https://www.v2ex.com/t/726862) ![](assets/new.png)  
 - [2020-11-18-才刚知道域名可以分省市解析](https://www.v2ex.com/t/726860) ![](assets/new.png)  
 - [2020-11-18-想用-RSS-看-V-站的优雅方法是什么？](https://www.v2ex.com/t/726858) ![](assets/new.png)  
@@ -551,8 +573,6 @@
 - [2020-11-18-Any-Blankets-to-Be-Used-to-Keep-Warm-in-This-Winter？](https://www.v2ex.com/t/726843) ![](assets/new.png)  
 - [2020-11-18-hexo-等静态博客还是不如动态博客好](https://www.v2ex.com/t/726842) ![](assets/new.png)  
 - [2020-11-18-Vmware-可以关闭侧通道缓解吗？](https://www.v2ex.com/t/726841) ![](assets/new.png)  
-- [2020-11-18-微软北京-Azure-Big-Data-team-开放海量-HC,-等你来！](https://www.v2ex.com/t/726839) ![](assets/new.png)  
-- [2020-11-18-产品经理的博客有推荐的吗](https://www.v2ex.com/t/726838) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

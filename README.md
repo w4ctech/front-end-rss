@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 11:04:08，:rocket: 更新条数: +3078， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 11:11:23，:rocket: 更新条数: +3313， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +553,10 @@
 </summary>
 
 
+- [2020-11-18-北京海淀-长亭科技（阿里云全资子公司）-高级后端开发-Go、系统研发](https://www.v2ex.com/t/726826) ![](assets/new.png)  
+- [2020-11-18-有-11-月-18-号傍晚闪退的-APP-吗？-18-点-30-左右好了](https://www.v2ex.com/t/726825) ![](assets/new.png)  
+- [2020-11-18-网易内推，-现在面试可年后入职，感兴趣的大佬看过来～](https://www.v2ex.com/t/726824) ![](assets/new.png)  
+- [2020-11-18-big-sur-对-homebrew-支持怎么样？安装过的朋友来说说](https://www.v2ex.com/t/726823) ![](assets/new.png)  
 - [2020-11-18-租房求助，如果在-1-号线两头租房，清早上地铁会不会不用排队？](https://www.v2ex.com/t/726822) ![](assets/new.png)  
 - [2020-11-18-有没有数据库关系搜索软件](https://www.v2ex.com/t/726821) ![](assets/new.png)  
 - [2020-11-18-魔都居转户流程，比较坑的地方](https://www.v2ex.com/t/726819) ![](assets/new.png)  
@@ -549,10 +573,6 @@
 - [2020-11-18-一个根据奇葩需求写出来的奇葩玩意...](https://www.v2ex.com/t/726802) ![](assets/new.png)  
 - [2020-11-18-［正经贴］最近想搞一个关于编程方面的公众号，大家有没有好的建议？](https://www.v2ex.com/t/726801) ![](assets/new.png)  
 - [2020-11-18-大意了！字节面试也考原题，难度堪比-FB](https://www.v2ex.com/t/726800) ![](assets/new.png)  
-- [2020-11-18-家中踢脚线出现白蚁怎么办？](https://www.v2ex.com/t/726799) ![](assets/new.png)  
-- [2020-11-18-吐槽下浦大喜奔的重置密码](https://www.v2ex.com/t/726798) ![](assets/new.png)  
-- [2020-11-18-回国-威屁恩](https://www.v2ex.com/t/726796) ![](assets/new.png)  
-- [2020-11-18-贫穷-UI，在线服务……](https://www.v2ex.com/t/726795) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 04:26:48，:rocket: 更新条数: +3082， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 04:33:18，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-18-淘宝拟调整《淘宝网手机行业管理规范》，称不得出现非中国大陆版本的描述](https://www.v2ex.com/t/726639) ![](assets/new.png)  
+- [2020-11-18-Java-文件分割合并](https://www.v2ex.com/t/726638) ![](assets/new.png)  
+- [2020-11-18-Xbox-Series-X-到手一晚使用体验](https://www.v2ex.com/t/726636) ![](assets/new.png)  
 - [2020-11-18-求推荐千元左右的自行车，用来上下班，单程距离-9-公里。](https://www.v2ex.com/t/726634) ![](assets/new.png)  
 - [2020-11-18-第三方的-magsafe-安全吗，会影响手机电池性能么](https://www.v2ex.com/t/726633) ![](assets/new.png)  
 - [2020-11-18-求助：深圳南山世界之窗附近有一房一厅出租吗？](https://www.v2ex.com/t/726632) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-18-2080-加年中顶配-mbp13（i7+16g+1t）有比我惨的么？](https://www.v2ex.com/t/726620) ![](assets/new.png)  
 - [2020-11-18-软件测试工程师-相关工作求内推-擅长-app/web-自动化构建](https://www.v2ex.com/t/726619) ![](assets/new.png)  
 - [2020-11-18-Mac-mini-M1-拆解来了](https://www.v2ex.com/t/726618) ![](assets/new.png)  
-- [2020-11-18-号外号外：-M1-苹果官网中午直降-800，有图有真相，这个确定不是-BUG？薅羊毛否？](https://www.v2ex.com/t/726617) ![](assets/new.png)  
-- [2020-11-18-硅谷-AI-外企北京研发中心-开发、数据岗位招聘](https://www.v2ex.com/t/726616) ![](assets/new.png)  
-- [2020-11-18-我的-emmc-上面的-mbr-分区改为了-gpt-分区，发现引导不了。关于-U-boot-是否有参数需要修改？](https://www.v2ex.com/t/726615) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -607,8 +607,8 @@
 - [2020-11-18-为什么继承-Python-内置类型会出问题？！](https://toutiao.io/k/1umq1m9) ![](assets/new.png)  
 - [2020-11-18-手把手教你撸一个能生成抖音风格动图的-gif-制作平台](https://toutiao.io/k/n1a5gai) ![](assets/new.png)  
 - [2020-11-18-Spring-改变版本号命名规则：此举对非英语国家很友好](https://toutiao.io/k/0ypr75l) ![](assets/new.png)  
-- [2020-11-18-如何用-CI（持续集成）保证研发质量](https://toutiao.io/k/8uuz5pw) ![](assets/new.png)  
 - [2020-11-18-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/4f0u7y9) ![](assets/new.png)  
+- [2020-11-18-如何用-CI（持续集成）保证研发质量](https://toutiao.io/k/8uuz5pw) ![](assets/new.png)  
 - [2020-11-18-日均-5-亿字符翻译量，百毫秒内响应，携程机器翻译平台实践](https://toutiao.io/k/wchip42) ![](assets/new.png)  
 - [2020-11-18-美团面试官问我：ZGC-的-Z-是什么意思？](https://toutiao.io/k/90qi0wt) ![](assets/new.png)  
 - [2020-11-18-IP-地址怎么定位？](https://toutiao.io/k/lse932r) ![](assets/new.png)  

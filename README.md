@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 23:13:14，:rocket: 更新条数: +3314， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 23:22:59，:rocket: 更新条数: +3313， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-11-18-波兰新增19883例新冠肺炎确诊病例-累计确诊772823例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtichhubncququVZU1Zmhas201118&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-香港新增9例新冠肺炎确诊病例-累计确诊5480例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWwDJLXm1ryxahkv7ioea201118&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-乌克兰单日新增12496例新冠肺炎确诊病例-累计确诊570153例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidGo2TJla0mgUfyoA2LLr201118&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-德国累计确诊新冠肺炎病例833307例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijKDhrku0mIlc2ybbcRus201118&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-受新冠肺炎疫情影响-卢旺达基加利国际和平马拉松比赛被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti98P15dWQ54yk6NR09iTb201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-美国国会议员中感染新冠病毒人数达到34名](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIb6MND6UKZXgLafPcabx201119&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-加纳政府免除12岁以下入境旅客的150美元机场新冠检测费用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4wEIYzImCFzzFf7000OA201119&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-世卫组织：全球新冠肺炎确诊病例超过5532万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2GwbGz8xg7QkxVF8eHox201119&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-特斯拉CEO埃隆·马斯克在访问瑞典后感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisiKAbDPOpmnIgAvoWiFd201119&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-福奇：对新冠疫苗不寄予厚望-加拿大需加倍防控新冠疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijEvmnRGJxCiU2OTUA5IJ201119&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -631,8 +631,8 @@
 - [2020-11-18-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/4f0u7y9) ![](assets/new.png)  
 - [2020-11-18-日均-5-亿字符翻译量，百毫秒内响应，携程机器翻译平台实践](https://toutiao.io/k/wchip42) ![](assets/new.png)  
 - [2020-11-18-美团面试官问我：ZGC-的-Z-是什么意思？](https://toutiao.io/k/90qi0wt) ![](assets/new.png)  
-- [2020-11-18-运行于-.NET-Core-之上的游戏服务器的开源框架](https://toutiao.io/k/7s66ddg) ![](assets/new.png)  
 - [2020-11-18-IP-地址怎么定位？](https://toutiao.io/k/lse932r) ![](assets/new.png)  
+- [2020-11-18-运行于-.NET-Core-之上的游戏服务器的开源框架](https://toutiao.io/k/7s66ddg) ![](assets/new.png)  
 - [2020-11-18-数据智能在业务场景下的应用](https://toutiao.io/k/1cmf9c0) ![](assets/new.png)  
 - [2020-11-18-关于内存你需要了解的（二）](https://toutiao.io/k/0pq7n2s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

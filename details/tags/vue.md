@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 01:39:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 01:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -8,5 +8,6 @@
 
 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
+- [2020-11-17-蒲公英-·-JELLY技术周刊-Vol.30:-此路不通？Vue-3-新提案-Ref-sugar](https://juejin.im/post/6896271820052234247) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-11-18-vue.js-里刚开始数据请求延迟的话会短暂显示那个没数据的画面咋搞哦](https://www.v2ex.com/t/726489) 

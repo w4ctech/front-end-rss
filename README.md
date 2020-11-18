@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 01:39:50，:rocket: 更新条数: +3075， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 01:48:00，:rocket: 更新条数: +3074， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-11-18-人手不足-美国犯人受雇搬运新冠患者遗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisntIIn0c42ZalfFDZfL5201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-巴西新增新冠肺炎病例明显上升-专家警告疫情抬头风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis9soWrLqSINPKApTcOyQ201118&isfromapp=1) ![](assets/new.png)  
+- [2020-11-18-2020年11月17日湖北省新冠肺炎疫情情况](http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdgrfyyq/xxfb/202011/t20201118_3036121.shtml) ![](assets/new.png)  
 - [2020-11-18-2020年11月18日广东省新冠肺炎疫情情况](http://wsjkw.gd.gov.cn/xxgzbdfk/yqtb/content/post_3129235.html) ![](assets/new.png)  
 - [2020-11-18-截至11月17日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/3fc0c71447e449f0aeacd31c356c6410.shtml) ![](assets/new.png)  
 - [2020-11-18-北京11月17日无新增报告新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202011/t20201118_2138605.html) ![](assets/new.png)  
@@ -454,11 +457,11 @@
 </summary>
 
 
+- [2020-11-17-蒲公英-·-JELLY技术周刊-Vol.30:-此路不通？Vue-3-新提案-Ref-sugar](https://juejin.im/post/6896271820052234247) ![](assets/new.png)  
 - [2020-11-17-带你手写一个对象，深入理解可迭代对象是什么，与类数组有什么区别](https://juejin.im/post/6896265281178435598) ![](assets/new.png)  
 - [2020-11-17-jsliang-求职系列---17---跨域](https://juejin.im/post/6896251515594342407) ![](assets/new.png)  
 - [2020-11-17-译-CommonJS-是如何导致打包后体积增大的？](https://juejin.im/post/6896137688781914119) ![](assets/new.png)  
 - [2020-11-17-jsliang-求职系列---16---从输入-URL-到页面呈现](https://juejin.im/post/6896081326487633934) ![](assets/new.png)  
-- [2020-11-17-编写高质量可维护的代码——异步优化](https://juejin.im/post/6896028236732776461) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -534,10 +537,13 @@
 </summary>
 
 
+- [2020-11-18-#-请教一下*echarts-中横向柱状图怎样实现类目名称显示在图表上方*的问题](https://www.v2ex.com/t/726523) ![](assets/new.png)  
+- [2020-11-18-电动车怎么就那么喜欢抢跑](https://www.v2ex.com/t/726520) ![](assets/new.png)  
+- [2020-11-18-ubuntu-18.04-看起来不能自动检测到新内核，要手动升级内核](https://www.v2ex.com/t/726519) ![](assets/new.png)  
+- [2020-11-18-图片尺寸-1200x900-缩小到-800x600-有办法更清晰吗？（图片查看工具-100%>75%是更清晰的）](https://www.v2ex.com/t/726518) ![](assets/new.png)  
 - [2020-11-18-管道维修不供暖，谁的责任？](https://www.v2ex.com/t/726517) ![](assets/new.png)  
 - [2020-11-18-2019-16-屌丝版-MBP，想换-m1-的-air。。。](https://www.v2ex.com/t/726516) ![](assets/new.png)  
 - [2020-11-18-想在-html-上画出室内的座位分布图，有啥好的解决方案么？](https://www.v2ex.com/t/726515) ![](assets/new.png)  
-- [2020-11-18-杭州程序员联盟](https://www.v2ex.com/t/726512) ![](assets/new.png)  
 - [2020-11-18-不懂就问，-m1-芯片的-mac-能无压力玩古墓丽影，是不是意味着以后很多游戏也会发布-mac-版的？](https://www.v2ex.com/t/726509) ![](assets/new.png)  
 - [2020-11-18-Google-面试题：单词拆分-III（动态规划）](https://www.v2ex.com/t/726508) ![](assets/new.png)  
 - [2020-11-18-想整一整办公室里的某个人，老大哥们有没有啥建议](https://www.v2ex.com/t/726507) ![](assets/new.png)  
@@ -551,9 +557,6 @@
 - [2020-11-18-三七互娱内推-社招-中/高-运维开发工程师-15-25K-15-薪-广州](https://www.v2ex.com/t/726497) ![](assets/new.png)  
 - [2020-11-18-终于离开一直加班的公司了](https://www.v2ex.com/t/726495) ![](assets/new.png)  
 - [2020-11-18-iPhone-12-在视频拍摄模式下不支持夜景模式吗？](https://www.v2ex.com/t/726494) ![](assets/new.png)  
-- [2020-11-18-MySQL-主从复制，有什么监控方案？](https://www.v2ex.com/t/726493) ![](assets/new.png)  
-- [2020-11-18-有哪些可兼顾摄像和摄影的相机可推荐?](https://www.v2ex.com/t/726492) ![](assets/new.png)  
-- [2020-11-18-较好中小型企业信息安全方案有哪些？](https://www.v2ex.com/t/726490) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,8 +605,8 @@
 - [2020-11-18-优酷大数据-OLAP-技术选型](https://toutiao.io/k/ohrycaz) ![](assets/new.png)  
 - [2020-11-18-前端团队研发效能提升的探索与实践](https://toutiao.io/k/dfuv91o) ![](assets/new.png)  
 - [2020-11-18-最全面的推荐系统评估方法介绍](https://toutiao.io/k/mv9umce) ![](assets/new.png)  
-- [2020-11-18-为什么继承-Python-内置类型会出问题？！](https://toutiao.io/k/1umq1m9) ![](assets/new.png)  
 - [2020-11-18-b-站账号快速升级到-Lv6：每天自动签到，观看，分享，投币视频](https://toutiao.io/k/12rl2qr) ![](assets/new.png)  
+- [2020-11-18-为什么继承-Python-内置类型会出问题？！](https://toutiao.io/k/1umq1m9) ![](assets/new.png)  
 - [2020-11-18-MySQL-对数据库设计时设计标识字段引发的一些思考](https://toutiao.io/k/nh5wxia) ![](assets/new.png)  
 - [2020-11-18-手把手教你撸一个能生成抖音风格动图的-gif-制作平台](https://toutiao.io/k/n1a5gai) ![](assets/new.png)  
 - [2020-11-18-缓冲区溢出原理及实验：code-injection-与-return-oriented-programming](https://toutiao.io/k/fas60hh) ![](assets/new.png)  
@@ -611,11 +614,11 @@
 - [2020-11-18-日均-5-亿字符翻译量，百毫秒内响应，携程机器翻译平台实践](https://toutiao.io/k/wchip42) ![](assets/new.png)  
 - [2020-11-18-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/4f0u7y9) ![](assets/new.png)  
 - [2020-11-18-Spring-改变版本号命名规则：此举对非英语国家很友好](https://toutiao.io/k/0ypr75l) ![](assets/new.png)  
-- [2020-11-18-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
-- [2020-11-18-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
+- [2020-11-18-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-18-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-18-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [2020-11-18-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
-- [2020-11-18-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
-- [2020-11-18-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-18-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

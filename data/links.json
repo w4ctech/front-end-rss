@@ -14132,6 +14132,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "人手不足 美国犯人受雇搬运新冠患者遗体",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisntIIn0c42ZalfFDZfL5201118&isfromapp=1",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "巴西新增新冠肺炎病例明显上升 专家警告疫情抬头风险",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis9soWrLqSINPKApTcOyQ201118&isfromapp=1",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "2020年11月17日湖北省新冠肺炎疫情情况",
+        "link": "http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdgrfyyq/xxfb/202011/t20201118_3036121.shtml",
+        "date": "2020-11-18"
+      },
+      {
         "title": "2020年11月18日广东省新冠肺炎疫情情况",
         "link": "http://wsjkw.gd.gov.cn/xxgzbdfk/yqtb/content/post_3129235.html",
         "date": "2020-11-18"
@@ -14461,6 +14476,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "蒲公英 · JELLY技术周刊 Vol.30: 此路不通？Vue 3 新提案 Ref-sugar",
+        "link": "https://juejin.im/post/6896271820052234247",
+        "date": "2020-11-17"
+      },
+      {
         "title": "带你手写一个对象，深入理解可迭代对象是什么，与类数组有什么区别",
         "link": "https://juejin.im/post/6896265281178435598",
         "date": "2020-11-17"
@@ -14478,11 +14498,6 @@
       {
         "title": "jsliang 求职系列 - 16 - 从输入 URL 到页面呈现",
         "link": "https://juejin.im/post/6896081326487633934",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "编写高质量可维护的代码——异步优化",
-        "link": "https://juejin.im/post/6896028236732776461",
         "date": "2020-11-17"
       }
     ]
@@ -14668,6 +14683,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "# 请教一下*echarts 中横向柱状图怎样实现类目名称显示在图表上方*的问题",
+        "link": "https://www.v2ex.com/t/726523",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "电动车怎么就那么喜欢抢跑",
+        "link": "https://www.v2ex.com/t/726520",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "ubuntu 18.04 看起来不能自动检测到新内核，要手动升级内核",
+        "link": "https://www.v2ex.com/t/726519",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "图片尺寸 1200x900 缩小到 800x600 有办法更清晰吗？（图片查看工具 100%>75%是更清晰的）",
+        "link": "https://www.v2ex.com/t/726518",
+        "date": "2020-11-18"
+      },
+      {
         "title": "管道维修不供暖，谁的责任？",
         "link": "https://www.v2ex.com/t/726517",
         "date": "2020-11-18"
@@ -14680,11 +14715,6 @@
       {
         "title": "想在 html 上画出室内的座位分布图，有啥好的解决方案么？",
         "link": "https://www.v2ex.com/t/726515",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "杭州程序员联盟",
-        "link": "https://www.v2ex.com/t/726512",
         "date": "2020-11-18"
       },
       {
@@ -14815,41 +14845,6 @@
       {
         "title": "劳动仲裁的真的好用吗？",
         "link": "https://www.v2ex.com/t/726476",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "荣耀的前途如何",
-        "link": "https://www.v2ex.com/t/726475",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "分享个 intellij 平台的搜索小插件 Smart Search",
-        "link": "https://www.v2ex.com/t/726474",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "github 发现个开源的小说站还不错，漫画也支持，分享一下",
-        "link": "https://www.v2ex.com/t/726473",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "iOS 14.3 beta2 似乎修复了 iPhone 12 下的黑色不黑问题",
-        "link": "https://www.v2ex.com/t/726471",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "关于 Icloud 优化照片空间的疑惑！",
-        "link": "https://www.v2ex.com/t/726470",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "下单了 16g mini，感觉要等好久啊",
-        "link": "https://www.v2ex.com/t/726469",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "睡不着 思考人参",
-        "link": "https://www.v2ex.com/t/726468",
         "date": "2020-11-17"
       }
     ]
@@ -14997,13 +14992,13 @@
         "date": "2020-11-18"
       },
       {
-        "title": "为什么继承 Python 内置类型会出问题？！",
-        "link": "https://toutiao.io/k/1umq1m9",
+        "title": "b 站账号快速升级到 Lv6：每天自动签到，观看，分享，投币视频",
+        "link": "https://toutiao.io/k/12rl2qr",
         "date": "2020-11-18"
       },
       {
-        "title": "b 站账号快速升级到 Lv6：每天自动签到，观看，分享，投币视频",
-        "link": "https://toutiao.io/k/12rl2qr",
+        "title": "为什么继承 Python 内置类型会出问题？！",
+        "link": "https://toutiao.io/k/1umq1m9",
         "date": "2020-11-18"
       },
       {
@@ -15042,13 +15037,18 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-18"
       },
       {
@@ -15057,48 +15057,8 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] MySQL 的这几个坑你踩过没？真是防不胜防",
-        "link": "https://toutiao.io/k/1y6vsef",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 13 张图彻底搞懂分布式系统服务注册与发现原理",
-        "link": "https://toutiao.io/k/f9kkb5t",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-18"
       },
       {
@@ -15107,13 +15067,48 @@
         "date": "2020-11-18"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-18"
       },
       {
         "title": "[推荐] 分布式一致性协议：ZAB",
         "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-18"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
         "date": "2020-11-18"
       }
     ]

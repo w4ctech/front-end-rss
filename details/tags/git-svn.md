@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 01:39:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 01:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,5 +7,4 @@
 
 
 
-- [2020-11-17-github-发现个开源的小说站还不错，漫画也支持，分享一下](https://www.v2ex.com/t/726473) 
 - [2020-11-16-Galaxy-Digital第三季度营收反映机构加密采用潮](https://sec.thief.one/article_content?a_id=e6e766633673db3dfbfc1f6103fd11bd) 

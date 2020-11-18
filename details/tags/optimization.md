@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 03:35:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 03:47:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -17,4 +17,5 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-11-18-chrome-87-一刀砍呀,-我没升级-big-sur,-但听说-chrome-87-性能提高了...升级以后发现,-图标也改了,-好突兀](https://www.v2ex.com/t/726613) 
 - [2020-11-18-新款-M1-mac-外接-4k-显示器性能和散热如何？](https://www.v2ex.com/t/726583) 

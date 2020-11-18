@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-18 11:21:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 11:32:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-18-Big-Sur-抹盘以后清爽了，碰到的问题自动解决](https://www.v2ex.com/t/726833) 
 - [2020-11-18-2020-款-Mac-Mini-拆解大图来了。](https://www.v2ex.com/t/726832) 
 - [2020-11-18-Apple-宣布-App-Store-Small-Business-Program](https://www.v2ex.com/t/726831) 
 - [2020-11-18-疫情美国留学-defer-一年，干一段华为-OD-对未来职业生涯（及美签）有多大影响？](https://www.v2ex.com/t/726830) 

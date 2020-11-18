@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 14:32:57，:rocket: 更新条数: +3044， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 14:35:24，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -320,16 +320,6 @@
 </summary>
 
 
-- [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) ![](assets/new.png)  
-- [2020-10-29-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) ![](assets/new.png)  
-- [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) ![](assets/new.png)  
-- [2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) ![](assets/new.png)  
-- [2020-10-21-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) ![](assets/new.png)  
-- [2020-10-19-如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/) ![](assets/new.png)  
-- [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) ![](assets/new.png)  
-- [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) ![](assets/new.png)  
-- [2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/) ![](assets/new.png)  
-- [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,11 +443,6 @@
 </summary>
 
 
-- [2020-11-18-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://juejin.im/post/6896451677063544846) ![](assets/new.png)  
-- [2020-11-18-redux-thunk源码笔记](https://juejin.im/post/6896438096011739149) ![](assets/new.png)  
-- [2020-11-18-数据结构与算法学习之集合](https://juejin.im/post/6896436531125452813) ![](assets/new.png)  
-- [2020-11-18-简短而全面解说CSS选择器层叠、优先级、冲突、继承、以及属性值计算过程](https://juejin.im/post/6896414154753015815) ![](assets/new.png)  
-- [2020-11-16-WebGL绘制如何进行优化？](https://juejin.im/post/6895936278433366029) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +518,26 @@
 </summary>
 
 
+- [2020-11-18-执行-js-脚本，无法查询到页面新加载出的元素](https://www.v2ex.com/t/726886) ![](assets/new.png)  
+- [2020-11-18-请问-Big-Sur-开机-login-界面的壁纸怎么改？](https://www.v2ex.com/t/726885) ![](assets/new.png)  
+- [2020-11-18-罗技发布了新一代-G-旗舰](https://www.v2ex.com/t/726884) ![](assets/new.png)  
+- [2020-11-18-有人跑了-m1-对比-iPad-pro-的-a12z-的跑分么](https://www.v2ex.com/t/726883) ![](assets/new.png)  
+- [2020-11-18-有没有大佬熟悉时序数据库的](https://www.v2ex.com/t/726882) ![](assets/new.png)  
+- [2020-11-18-AirBuddy-2](https://www.v2ex.com/t/726881) ![](assets/new.png)  
+- [2020-11-18-不知道是谁的-BUG-BigSur-下-Chrome-不能设为默认了](https://www.v2ex.com/t/726880) ![](assets/new.png)  
+- [2020-11-18-成都电信-IPV6-时有时无，是玄学还是普遍现象？](https://www.v2ex.com/t/726879) ![](assets/new.png)  
+- [2020-11-18-晚上撸了个-Dart-的-Json-转-Model](https://www.v2ex.com/t/726878) ![](assets/new.png)  
+- [2020-11-18-完犊子了，-chrome-打不开-Google-的网页了......](https://www.v2ex.com/t/726877) ![](assets/new.png)  
+- [2020-11-18-VSCode-误报语法错误](https://www.v2ex.com/t/726876) ![](assets/new.png)  
+- [2020-11-18-MBP-16-Big-Sur-用-bootcamp-安装双系统之后，突然不能识别原-mac-的密码了](https://www.v2ex.com/t/726875) ![](assets/new.png)  
+- [2020-11-18-M1-的成功是否会带来基于-arm-的-Linux-电脑？](https://www.v2ex.com/t/726874) ![](assets/new.png)  
+- [2020-11-18-协程递归问题请教](https://www.v2ex.com/t/726873) ![](assets/new.png)  
+- [2020-11-18-PDD-发货了！-12-128G-6199-入的，来找人聊一聊搭配的配件：充电器套装、无线充、座充、壳膜。](https://www.v2ex.com/t/726870) ![](assets/new.png)  
+- [2020-11-18-《操作系统：设计和实现》第一版中的-Minix-代码哪里可以下载到？](https://www.v2ex.com/t/726868) ![](assets/new.png)  
+- [2020-11-18-A14-省电模式相当于满血-A12](https://www.v2ex.com/t/726864) ![](assets/new.png)  
+- [2020-11-18-有谁用过阿里云的联通跨境高速通道？](https://www.v2ex.com/t/726863) ![](assets/new.png)  
+- [2020-11-18-Flutter-Weekly-Issue-69](https://www.v2ex.com/t/726862) ![](assets/new.png)  
+- [2020-11-18-才刚知道域名可以分省市解析](https://www.v2ex.com/t/726860) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

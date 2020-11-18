@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 11:35:37，:rocket: 更新条数: +3080， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 11:47:45，:rocket: 更新条数: +3082， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,12 @@
 </summary>
 
 
+- [2020-11-18-Vmware-可以关闭侧通道缓解吗？](https://www.v2ex.com/t/726841) ![](assets/new.png)  
+- [2020-11-18-微软北京-Azure-Big-Data-team-开放海量-HC,-等你来！](https://www.v2ex.com/t/726839) ![](assets/new.png)  
+- [2020-11-18-产品经理的博客有推荐的吗](https://www.v2ex.com/t/726838) ![](assets/new.png)  
+- [2020-11-18-Mac-mini-M1-视频渲染（包含-8K-RAW，-H.265-等）性能测试](https://www.v2ex.com/t/726836) ![](assets/new.png)  
+- [2020-11-18-求推荐一家适合-NAS-的对象存储](https://www.v2ex.com/t/726835) ![](assets/new.png)  
+- [2020-11-18-想买个-M1-Mac-Mini-放家里,-在外面用-iPad-远程访问,-有什么好的方案吗?](https://www.v2ex.com/t/726834) ![](assets/new.png)  
 - [2020-11-18-Big-Sur-抹盘以后清爽了，碰到的问题自动解决](https://www.v2ex.com/t/726833) ![](assets/new.png)  
 - [2020-11-18-2020-款-Mac-Mini-拆解大图来了。](https://www.v2ex.com/t/726832) ![](assets/new.png)  
 - [2020-11-18-Apple-宣布-App-Store-Small-Business-Program](https://www.v2ex.com/t/726831) ![](assets/new.png)  
@@ -547,12 +553,6 @@
 - [2020-11-18-有没有数据库关系搜索软件](https://www.v2ex.com/t/726821) ![](assets/new.png)  
 - [2020-11-18-魔都居转户流程，比较坑的地方](https://www.v2ex.com/t/726819) ![](assets/new.png)  
 - [2020-11-18-深圳-内推-求甩简历！交易所-API-高级/资深开放工程师职位！](https://www.v2ex.com/t/726818) ![](assets/new.png)  
-- [2020-11-18-关于归还-DTK](https://www.v2ex.com/t/726815) ![](assets/new.png)  
-- [2020-11-18-怎么解决-outlook-邮箱收发邮件很慢的问题](https://www.v2ex.com/t/726814) ![](assets/new.png)  
-- [2020-11-18-用翻译来做菠菜广告是没想到的。。。](https://www.v2ex.com/t/726812) ![](assets/new.png)  
-- [2020-11-18-云开发者专属盛会：邀你一起「重新定义开发」](https://www.v2ex.com/t/726810) ![](assets/new.png)  
-- [2020-11-18-nano-Pi-R2s-断电后重启，-Lan-口网不通](https://www.v2ex.com/t/726809) ![](assets/new.png)  
-- [2020-11-18-想找一个全栈的朋友一起做个社区](https://www.v2ex.com/t/726808) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -613,8 +613,8 @@
 - [2020-11-18-美团面试官问我：ZGC-的-Z-是什么意思？](https://toutiao.io/k/90qi0wt) ![](assets/new.png)  
 - [2020-11-18-IP-地址怎么定位？](https://toutiao.io/k/lse932r) ![](assets/new.png)  
 - [2020-11-18-数据智能在业务场景下的应用](https://toutiao.io/k/1cmf9c0) ![](assets/new.png)  
-- [2020-11-18-关于内存你需要了解的（二）](https://toutiao.io/k/0pq7n2s) ![](assets/new.png)  
 - [2020-11-18-运行于-.NET-Core-之上的游戏服务器的开源框架](https://toutiao.io/k/7s66ddg) ![](assets/new.png)  
+- [2020-11-18-关于内存你需要了解的（二）](https://toutiao.io/k/0pq7n2s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

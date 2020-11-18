@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 05:21:46，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 05:32:57，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,10 @@
 </summary>
 
 
+- [2020-11-18-朋友接到一个不让联网,-完全设备上运行的安卓-app-项目,-数据要如何存储,求大佬解惑](https://www.v2ex.com/t/726665) ![](assets/new.png)  
+- [2020-11-18-ARM-版本的-M1-能不能装虚拟机-win10](https://www.v2ex.com/t/726664) ![](assets/new.png)  
+- [2020-11-18-找工作感觉被现在的公司套路了，该不该裸辞](https://www.v2ex.com/t/726663) ![](assets/new.png)  
+- [2020-11-18-如何屏蔽-iMessage，日历，相册广告](https://www.v2ex.com/t/726662) ![](assets/new.png)  
 - [2020-11-18-区块链在生活中能干啥，帮忙想想点子](https://www.v2ex.com/t/726661) ![](assets/new.png)  
 - [2020-11-18-浅谈学习、健身和企业运营（形而上学）](https://www.v2ex.com/t/726660) ![](assets/new.png)  
 - [2020-11-18-多作者，技术文档小程序推荐一个呗~](https://www.v2ex.com/t/726659) ![](assets/new.png)  
@@ -569,10 +573,6 @@
 - [2020-11-18-升级-Big-Sur-后，照片应用浏览几张照片就无响应](https://www.v2ex.com/t/726642) ![](assets/new.png)  
 - [2020-11-18-全新未拆-Apple-2020-新款-MacBook-Air-13.3-Retina-屏-十代-i3-8G-256G-SSD-深空灰-笔记本电脑-轻薄本-MWTJ2CH/A](https://www.v2ex.com/t/726641) ![](assets/new.png)  
 - [2020-11-18-哪位老哥能解释一下-Rosetta-的实现原理？](https://www.v2ex.com/t/726640) ![](assets/new.png)  
-- [2020-11-18-淘宝拟调整《淘宝网手机行业管理规范》，称不得出现非中国大陆版本的描述](https://www.v2ex.com/t/726639) ![](assets/new.png)  
-- [2020-11-18-Java-文件分割合并](https://www.v2ex.com/t/726638) ![](assets/new.png)  
-- [2020-11-18-Xbox-Series-X-到手一晚使用体验](https://www.v2ex.com/t/726636) ![](assets/new.png)  
-- [2020-11-18-求推荐千元左右的自行车，用来上下班，单程距离-9-公里。](https://www.v2ex.com/t/726634) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

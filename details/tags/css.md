@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 14:35:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 14:47:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-11-18-简短而全面解说CSS选择器层叠、优先级、冲突、继承、以及属性值计算过程](https://juejin.im/post/6896414154753015815) 
 - [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 

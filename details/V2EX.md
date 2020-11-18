@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-18 14:35:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 14:47:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-18-maven-项目生成的-war-太大，该如何优化？](https://www.v2ex.com/t/726889) 
+- [2020-11-18-用-Python-做了一个透明加密工具，可以跨平台（PC、安卓）使用，用作文件保险柜](https://www.v2ex.com/t/726887) 
 - [2020-11-18-执行-js-脚本，无法查询到页面新加载出的元素](https://www.v2ex.com/t/726886) 
 - [2020-11-18-请问-Big-Sur-开机-login-界面的壁纸怎么改？](https://www.v2ex.com/t/726885) 
 - [2020-11-18-罗技发布了新一代-G-旗舰](https://www.v2ex.com/t/726884) 
@@ -41,5 +43,3 @@
 - [2020-11-18-Any-Blankets-to-Be-Used-to-Keep-Warm-in-This-Winter？](https://www.v2ex.com/t/726843) 
 - [2020-11-18-hexo-等静态博客还是不如动态博客好](https://www.v2ex.com/t/726842) 
 - [2020-11-18-Vmware-可以关闭侧通道缓解吗？](https://www.v2ex.com/t/726841) 
-- [2020-11-18-微软北京-Azure-Big-Data-team-开放海量-HC,-等你来！](https://www.v2ex.com/t/726839) 
-- [2020-11-18-产品经理的博客有推荐的吗](https://www.v2ex.com/t/726838) 

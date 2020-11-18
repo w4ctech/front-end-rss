@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 14:35:24，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 14:47:28，:rocket: 更新条数: +3067， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -95,11 +95,6 @@
 </summary>
 
 
-- [2020-11-18-波兰新增19883例新冠肺炎确诊病例-累计确诊772823例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtichhubncququVZU1Zmhas201118&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-香港新增9例新冠肺炎确诊病例-累计确诊5480例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWwDJLXm1ryxahkv7ioea201118&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-乌克兰单日新增12496例新冠肺炎确诊病例-累计确诊570153例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidGo2TJla0mgUfyoA2LLr201118&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-德国累计确诊新冠肺炎病例833307例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijKDhrku0mIlc2ybbcRus201118&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-受新冠肺炎疫情影响-卢旺达基加利国际和平马拉松比赛被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti98P15dWQ54yk6NR09iTb201118&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -443,6 +438,11 @@
 </summary>
 
 
+- [2020-11-18-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://juejin.im/post/6896451677063544846) ![](assets/new.png)  
+- [2020-11-18-redux-thunk源码笔记](https://juejin.im/post/6896438096011739149) ![](assets/new.png)  
+- [2020-11-18-数据结构与算法学习之集合](https://juejin.im/post/6896436531125452813) ![](assets/new.png)  
+- [2020-11-18-简短而全面解说CSS选择器层叠、优先级、冲突、继承、以及属性值计算过程](https://juejin.im/post/6896414154753015815) ![](assets/new.png)  
+- [2020-11-16-WebGL绘制如何进行优化？](https://juejin.im/post/6895936278433366029) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -518,6 +518,8 @@
 </summary>
 
 
+- [2020-11-18-maven-项目生成的-war-太大，该如何优化？](https://www.v2ex.com/t/726889) ![](assets/new.png)  
+- [2020-11-18-用-Python-做了一个透明加密工具，可以跨平台（PC、安卓）使用，用作文件保险柜](https://www.v2ex.com/t/726887) ![](assets/new.png)  
 - [2020-11-18-执行-js-脚本，无法查询到页面新加载出的元素](https://www.v2ex.com/t/726886) ![](assets/new.png)  
 - [2020-11-18-请问-Big-Sur-开机-login-界面的壁纸怎么改？](https://www.v2ex.com/t/726885) ![](assets/new.png)  
 - [2020-11-18-罗技发布了新一代-G-旗舰](https://www.v2ex.com/t/726884) ![](assets/new.png)  
@@ -536,8 +538,6 @@
 - [2020-11-18-《操作系统：设计和实现》第一版中的-Minix-代码哪里可以下载到？](https://www.v2ex.com/t/726868) ![](assets/new.png)  
 - [2020-11-18-A14-省电模式相当于满血-A12](https://www.v2ex.com/t/726864) ![](assets/new.png)  
 - [2020-11-18-有谁用过阿里云的联通跨境高速通道？](https://www.v2ex.com/t/726863) ![](assets/new.png)  
-- [2020-11-18-Flutter-Weekly-Issue-69](https://www.v2ex.com/t/726862) ![](assets/new.png)  
-- [2020-11-18-才刚知道域名可以分省市解析](https://www.v2ex.com/t/726860) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

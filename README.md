@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 08:36:40，:rocket: 更新条数: +3080， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 08:47:46，:rocket: 更新条数: +3315， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -65,6 +65,7 @@
 
 
 - [2020-11-17-11月17日全国新增确诊病例8例-本土病例1例](https://m.caixin.com/m/2020-11-18/101629532.html) ![](assets/new.png)  
+- [2020-11-17-研究：新冠肺炎或易诱发精神疾病-反之亦然](https://m.caixin.com/m/2020-11-18/101629716.html) ![](assets/new.png)  
 - [2020-11-17-为何新冠病死率看起来在下降？-《自然》刊文详解原因](https://m.caixin.com/m/2020-11-18/101629488.html) ![](assets/new.png)  
 - [2020-11-17-天津新增1例本土新冠病例-1例本土无症状感染者](https://m.caixin.com/m/2020-11-18/101629482.html) ![](assets/new.png)  
 - [2020-11-17-【境内疫情观察】天津新增1例本土确诊病例（11月17日）](http://m.database.caixin.com/m/2020-11-18/101629640.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-13-【境内疫情观察】全国新增18例境外输入病例（11月13日）](http://m.database.caixin.com/m/2020-11-14/101627999.html) ![](assets/new.png)  
 - [2020-11-13-大流行手记|11月13日：英日增病例创新高-日本研究称新冠变异后传染性增强](https://m.caixin.com/m/2020-11-14/101627841.html) ![](assets/new.png)  
 - [2020-11-12-【境内疫情观察】全国新增8例境外输入病例（11月12日）](http://m.database.caixin.com/m/2020-11-13/101627382.html) ![](assets/new.png)  
-- [2020-11-12-大流行手记|11月12日：美28名大选工作人员感染-英格兰67个地区本周全城检测](https://m.caixin.com/m/2020-11-13/101627043.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,11 +473,11 @@
 </summary>
 
 
-- [2020-11-17-Node系列-04-管道流操作以及压缩和解压](https://juejin.im/post/6896355868758966279) ![](assets/new.png)  
-- [2020-11-17-解决-Web-应用与浏览器快捷键冲突的一条野路子](https://juejin.im/post/6896339526252232717) ![](assets/new.png)  
+- [2020-11-18-HTTP的缓存控制和Cookie机制](https://juejin.im/post/6896375491700686855) ![](assets/new.png)  
 - [2020-11-17-一些提高前端代码健壮性的方法](https://juejin.im/post/6896118234391511053) ![](assets/new.png)  
 - [2020-11-17-从0到1打造一个-WebRTC-应用](https://juejin.im/post/6896045087659130894) ![](assets/new.png)  
 - [2020-11-16-SPA-路由三部曲之核心原理](https://juejin.im/post/6895882310458343431) ![](assets/new.png)  
+- [2020-10-27-CSS系列，你了解伪元素吗](https://juejin.im/post/6888304951311728653) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +553,9 @@
 </summary>
 
 
+- [2020-11-18-博客怎样设计才好?](https://www.v2ex.com/t/726760) ![](assets/new.png)  
+- [2020-11-18-M1-芯片的-macbook-air-和-pro，性能到底差多少啊？买那个更适合呢？](https://www.v2ex.com/t/726759) ![](assets/new.png)  
+- [2020-11-18-cmd-清空文件夹有没有什么好办法？](https://www.v2ex.com/t/726758) ![](assets/new.png)  
 - [2020-11-18-关于本科毕业生直接落户的问题，有人成功操作过嘛，请大概说说。](https://www.v2ex.com/t/726757) ![](assets/new.png)  
 - [2020-11-18-咨询一下-Linux-下怎么知道某个时间段运行了那些进程](https://www.v2ex.com/t/726756) ![](assets/new.png)  
 - [2020-11-18-有没有好用的网页视频下载软件？](https://www.v2ex.com/t/726754) ![](assets/new.png)  
@@ -550,9 +573,6 @@
 - [2020-11-18-使用预览看-PDF-怎么用鼠标放大缩小呢？](https://www.v2ex.com/t/726738) ![](assets/new.png)  
 - [2020-11-18-京东-北京/鸟巢附近-招聘-C++-开发，分布式存储方向](https://www.v2ex.com/t/726736) ![](assets/new.png)  
 - [2020-11-18-钙版的-Air-和满血版-Air-性能差异有多大？](https://www.v2ex.com/t/726735) ![](assets/new.png)  
-- [2020-11-18-直播活动：-eBPF-的收益和工作流程分享](https://www.v2ex.com/t/726734) ![](assets/new.png)  
-- [2020-11-18-Mac-上的-Chrome-87-icon-方了](https://www.v2ex.com/t/726733) ![](assets/new.png)  
-- [2020-11-18-希望-V-站能加一个嵌入式结点](https://www.v2ex.com/t/726732) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

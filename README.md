@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 16:05:19，:rocket: 更新条数: +3071， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 16:18:00，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,6 +533,9 @@
 </summary>
 
 
+- [2020-11-18-NanoPi-R2S-的-cpu-跑加密类的瓶颈是-200M？](https://www.v2ex.com/t/726915) ![](assets/new.png)  
+- [2020-11-18-iOS-不推送微信信息（14.2-与-13.x-都偶发）](https://www.v2ex.com/t/726914) ![](assets/new.png)  
+- [2020-11-18-Golang-channe-你知多少](https://www.v2ex.com/t/726913) ![](assets/new.png)  
 - [2020-11-18-你们在-Big-Sur-里面还有在用-AdGuard-吗？](https://www.v2ex.com/t/726910) ![](assets/new.png)  
 - [2020-11-18-Big-Sur-上的-Little-Snitch-V4？](https://www.v2ex.com/t/726909) ![](assets/new.png)  
 - [2020-11-18-忽然发现某些手游加速器可以打开-google](https://www.v2ex.com/t/726908) ![](assets/new.png)  
@@ -540,9 +553,6 @@
 - [2020-11-18-对比了当前比较火的游戏本-y7000p-和荣耀猎人，大家有什么看法？](https://www.v2ex.com/t/726893) ![](assets/new.png)  
 - [2020-11-18-有什么-js-或者-PHP-直接调用打印机打印文件不预览的方法吗。](https://www.v2ex.com/t/726891) ![](assets/new.png)  
 - [2020-11-18-maven-项目生成的-war-太大，该如何优化？](https://www.v2ex.com/t/726889) ![](assets/new.png)  
-- [2020-11-18-用-Python-做了一个透明加密工具，可以跨平台（PC、安卓）使用，用作文件保险柜](https://www.v2ex.com/t/726887) ![](assets/new.png)  
-- [2020-11-18-执行-js-脚本，无法查询到页面新加载出的元素](https://www.v2ex.com/t/726886) ![](assets/new.png)  
-- [2020-11-18-请问-Big-Sur-开机-login-界面的壁纸怎么改？](https://www.v2ex.com/t/726885) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -598,8 +608,8 @@
 - [2020-11-18-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/4f0u7y9) ![](assets/new.png)  
 - [2020-11-18-手把手教你撸一个能生成抖音风格动图的-gif-制作平台](https://toutiao.io/k/n1a5gai) ![](assets/new.png)  
 - [2020-11-18-Spring-改变版本号命名规则：此举对非英语国家很友好](https://toutiao.io/k/0ypr75l) ![](assets/new.png)  
-- [2020-11-18-运行于-.NET-Core-之上的游戏服务器的开源框架](https://toutiao.io/k/7s66ddg) ![](assets/new.png)  
 - [2020-11-18-如何用-CI（持续集成）保证研发质量](https://toutiao.io/k/8uuz5pw) ![](assets/new.png)  
+- [2020-11-18-运行于-.NET-Core-之上的游戏服务器的开源框架](https://toutiao.io/k/7s66ddg) ![](assets/new.png)  
 - [2020-11-18-日均-5-亿字符翻译量，百毫秒内响应，携程机器翻译平台实践](https://toutiao.io/k/wchip42) ![](assets/new.png)  
 - [2020-11-18-美团面试官问我：ZGC-的-Z-是什么意思？](https://toutiao.io/k/90qi0wt) ![](assets/new.png)  
 - [2020-11-18-IP-地址怎么定位？](https://toutiao.io/k/lse932r) ![](assets/new.png)  

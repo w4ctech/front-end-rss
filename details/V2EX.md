@@ -1,16 +1,22 @@
-:alarm_clock: 更新时间: 2020-11-18 06:47:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 07:04:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-18-今晚准备升-Big-Sur，请教已升过的朋友几个问题。](https://www.v2ex.com/t/726706) 
+- [2020-11-18-如果不需要用户登录认证，服务器如何辨别每一个用户？](https://www.v2ex.com/t/726705) 
+- [2020-11-18-这次-TGA-我奶一口死亡搁浅](https://www.v2ex.com/t/726704) 
+- [2020-11-18-FinTech-社区-线上活动：我为什么放弃风口的-AI-行业到量化交易行业？](https://www.v2ex.com/t/726702) 
+- [2020-11-18-高中毕业干开发](https://www.v2ex.com/t/726701) 
+- [2020-11-18-有专门做国外互联网市场的公司吗？](https://www.v2ex.com/t/726700) 
+- [2020-11-18-求各位兄弟支招配台视频、设计用途电脑](https://www.v2ex.com/t/726698) 
 - [2020-11-18-u1s1，-M1-芯片-MacBook-Air-对比-iPad-pro-12.9-除了触摸碾压了啊](https://www.v2ex.com/t/726697) 
 - [2020-11-18-国行-iPhone-iOS-14-的小组件里没有-Apple-TV-吗？](https://www.v2ex.com/t/726696) 
 - [2020-11-18-GEN8-无法在本机访问-iLo](https://www.v2ex.com/t/726695) 
 - [2020-11-18-今日头条官网-504-Gateway-Time-out](https://www.v2ex.com/t/726694) 
 - [2020-11-18-咨询关于-order_by-和-group_by-的一些索引问题](https://www.v2ex.com/t/726693) 
-- [2020-11-18-谁有武汉-it-微信技术群-？](https://www.v2ex.com/t/726692) 
 - [2020-11-18-写了个自用-rss-阅读器，欢迎大家交流](https://www.v2ex.com/t/726689) 
 - [2020-11-18-有没有一个-js-library-能提供一个-syntax-highlight-API?](https://www.v2ex.com/t/726688) 
 - [2020-11-18-有买了-M1-的-Java-后端么?](https://www.v2ex.com/t/726687) 
@@ -35,8 +41,3 @@
 - [2020-11-18-浅谈学习、健身和企业运营（形而上学）](https://www.v2ex.com/t/726660) 
 - [2020-11-18-多作者，技术文档小程序推荐一个呗~](https://www.v2ex.com/t/726659) 
 - [2020-11-18-为什么-2020-款的-mba-不能在官网折抵呢？](https://www.v2ex.com/t/726658) 
-- [2020-11-18-在用-win7，怎么好多网页提示证书不对](https://www.v2ex.com/t/726655) 
-- [2020-11-18-联通宽带最高免费提速至-500M](https://www.v2ex.com/t/726654) 
-- [2020-11-18-家宴-·-2020-入冬的第一次聚会，是带些许火辣的味道](https://www.v2ex.com/t/726652) 
-- [2020-11-18-big-sur-airpods-无法正常连接](https://www.v2ex.com/t/726651) 
-- [2020-11-18-分享一个稳定的-Gravatar-镜像，以及使用-CDN-自建教程](https://www.v2ex.com/t/726648) 

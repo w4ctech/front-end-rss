@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 06:47:58，:rocket: 更新条数: +3078， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 07:04:15，:rocket: 更新条数: +3079， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
-- [2020-11-17-Charles在Web中的应用](https://juejin.im/post/6896301113511772168) ![](assets/new.png)  
-- [2020-11-17-你了解-Vue-静态节点的优化吗？](https://juejin.im/post/6896101802241081352) ![](assets/new.png)  
-- [2020-11-17-译-如何在-Nextjs-中使用-cookies-来持久化保存用户信息](https://juejin.im/post/6896062683263860749) ![](assets/new.png)  
-- [2020-11-16-一文带你玩转设计模式之「责任链」](https://juejin.im/post/6895894824415657991) ![](assets/new.png)  
-- [2020-11-16-SPA-路由三部曲之核心原理](https://juejin.im/post/6895882310458343431) ![](assets/new.png)  
+- [2020-11-17-React的useContext的使用](https://juejin.im/post/6896353934525497357) ![](assets/new.png)  
+- [2020-11-17-Flutter-只知道-Future-还不够，你还需要-Completer](https://juejin.im/post/6896352801082114055) ![](assets/new.png)  
+- [2020-11-17-javascript-reduce方法详解，带一道常考面试题实例](https://juejin.im/post/6896352557019774989) ![](assets/new.png)  
+- [2020-11-17-前端计时器方案探索](https://juejin.im/post/6896349345143406605) ![](assets/new.png)  
+- [2020-11-17-JS实现四舍五入](https://juejin.im/post/6896349013055012877) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,12 +533,18 @@
 </summary>
 
 
+- [2020-11-18-今晚准备升-Big-Sur，请教已升过的朋友几个问题。](https://www.v2ex.com/t/726706) ![](assets/new.png)  
+- [2020-11-18-如果不需要用户登录认证，服务器如何辨别每一个用户？](https://www.v2ex.com/t/726705) ![](assets/new.png)  
+- [2020-11-18-这次-TGA-我奶一口死亡搁浅](https://www.v2ex.com/t/726704) ![](assets/new.png)  
+- [2020-11-18-FinTech-社区-线上活动：我为什么放弃风口的-AI-行业到量化交易行业？](https://www.v2ex.com/t/726702) ![](assets/new.png)  
+- [2020-11-18-高中毕业干开发](https://www.v2ex.com/t/726701) ![](assets/new.png)  
+- [2020-11-18-有专门做国外互联网市场的公司吗？](https://www.v2ex.com/t/726700) ![](assets/new.png)  
+- [2020-11-18-求各位兄弟支招配台视频、设计用途电脑](https://www.v2ex.com/t/726698) ![](assets/new.png)  
 - [2020-11-18-u1s1，-M1-芯片-MacBook-Air-对比-iPad-pro-12.9-除了触摸碾压了啊](https://www.v2ex.com/t/726697) ![](assets/new.png)  
 - [2020-11-18-国行-iPhone-iOS-14-的小组件里没有-Apple-TV-吗？](https://www.v2ex.com/t/726696) ![](assets/new.png)  
 - [2020-11-18-GEN8-无法在本机访问-iLo](https://www.v2ex.com/t/726695) ![](assets/new.png)  
 - [2020-11-18-今日头条官网-504-Gateway-Time-out](https://www.v2ex.com/t/726694) ![](assets/new.png)  
 - [2020-11-18-咨询关于-order_by-和-group_by-的一些索引问题](https://www.v2ex.com/t/726693) ![](assets/new.png)  
-- [2020-11-18-谁有武汉-it-微信技术群-？](https://www.v2ex.com/t/726692) ![](assets/new.png)  
 - [2020-11-18-写了个自用-rss-阅读器，欢迎大家交流](https://www.v2ex.com/t/726689) ![](assets/new.png)  
 - [2020-11-18-有没有一个-js-library-能提供一个-syntax-highlight-API?](https://www.v2ex.com/t/726688) ![](assets/new.png)  
 - [2020-11-18-有买了-M1-的-Java-后端么?](https://www.v2ex.com/t/726687) ![](assets/new.png)  
@@ -547,12 +553,6 @@
 - [2020-11-18-蚂蚁集团，上海八佰伴/双休/极少出差，-Java-平台/大数据/实时计算/数仓，-P6~P8。-团队直招](https://www.v2ex.com/t/726681) ![](assets/new.png)  
 - [2020-11-18-广州社保断交了-3-个月左右，有啥补缴办法吗？](https://www.v2ex.com/t/726680) ![](assets/new.png)  
 - [2020-11-18-无良商家利用-iPhone-相册强行推广告](https://www.v2ex.com/t/726679) ![](assets/new.png)  
-- [2020-11-18-Python-链表的歧义问题求助](https://www.v2ex.com/t/726678) ![](assets/new.png)  
-- [2020-11-18-近十年互联网出现了哪些好书](https://www.v2ex.com/t/726677) ![](assets/new.png)  
-- [2020-11-18-GoogleDrive-用户谨慎升级-BigSur-11.1](https://www.v2ex.com/t/726674) ![](assets/new.png)  
-- [2020-11-18-买-m1，-pdd-今年还有百亿补贴吗？](https://www.v2ex.com/t/726673) ![](assets/new.png)  
-- [2020-11-18-macbook-和-yoga14s-哪个屏幕更好？](https://www.v2ex.com/t/726672) ![](assets/new.png)  
-- [2020-11-18-iPad-mini-6-啥时候发布啊？](https://www.v2ex.com/t/726670) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -602,8 +602,8 @@
 - [2020-11-18-前端团队研发效能提升的探索与实践](https://toutiao.io/k/dfuv91o) ![](assets/new.png)  
 - [2020-11-18-缓冲区溢出原理及实验：code-injection-与-return-oriented-programming](https://toutiao.io/k/fas60hh) ![](assets/new.png)  
 - [2020-11-18-优酷大数据-OLAP-技术选型](https://toutiao.io/k/ohrycaz) ![](assets/new.png)  
-- [2020-11-18-MySQL-对数据库设计时设计标识字段引发的一些思考](https://toutiao.io/k/nh5wxia) ![](assets/new.png)  
 - [2020-11-18-最全面的推荐系统评估方法介绍](https://toutiao.io/k/mv9umce) ![](assets/new.png)  
+- [2020-11-18-MySQL-对数据库设计时设计标识字段引发的一些思考](https://toutiao.io/k/nh5wxia) ![](assets/new.png)  
 - [2020-11-18-为什么继承-Python-内置类型会出问题？！](https://toutiao.io/k/1umq1m9) ![](assets/new.png)  
 - [2020-11-18-手把手教你撸一个能生成抖音风格动图的-gif-制作平台](https://toutiao.io/k/n1a5gai) ![](assets/new.png)  
 - [2020-11-18-Spring-改变版本号命名规则：此举对非英语国家很友好](https://toutiao.io/k/0ypr75l) ![](assets/new.png)  

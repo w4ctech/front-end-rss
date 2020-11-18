@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 04:36:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 04:47:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,18 +22,7 @@
 - [2020-02-06-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html) 
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
-- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
-- [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
-- [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
-- [2016-09-22-HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/) 
-- [2016-02-19-手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/) 
-- [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
-- [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
-- [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-11-18-Xbox-Series-X-到手一晚使用体验](https://www.v2ex.com/t/726636) 
-- [2020-11-18-TechCrunch-测试-M1：编译-WebKit-仅需-20min，耗电-9%；-16MBP-27min，-39%](https://www.v2ex.com/t/726624) 
-- [2020-11-18-可以在哪里学习到网络安全吗，网站被攻击了，不知道哪一环出错了，被别人登入后台了，盗取了数据库](https://www.v2ex.com/t/726621) 
 - [2020-11-18-缓冲区溢出原理及实验：code-injection-与-return-oriented-programming](https://toutiao.io/k/fas60hh) 
 - [2020-11-17-安全内参|2021年新兴网络安全威胁预测](https://sec.thief.one/article_content?a_id=856effe1224002d56dddfbfb135207e3) 
 - [2020-11-17-绿盟科技全力护航2020电力行业网络安全攻防邀请赛](https://sec.thief.one/article_content?a_id=2e0de21cfe08f99a08e8dd5b1cd39748) 

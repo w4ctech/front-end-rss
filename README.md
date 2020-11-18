@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 00:56:14，:rocket: 更新条数: +3303， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 01:04:44，:rocket: 更新条数: +3069， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -67,7 +67,6 @@
 - [2020-11-17-为何新冠病死率看起来在下降？-《自然》刊文详解原因](https://m.caixin.com/m/2020-11-18/101629488.html) ![](assets/new.png)  
 - [2020-11-17-天津新增1例本土新冠病例-1例本土无症状感染者](https://m.caixin.com/m/2020-11-18/101629482.html) ![](assets/new.png)  
 - [2020-11-17-大流行手记|11月17日：世卫谨慎看待疫苗捷报-俄罗斯日增病例创新高](https://m.caixin.com/m/2020-11-18/101629492.html) ![](assets/new.png)  
-- [2020-11-16-最新疫情：全国新冠累计确诊86361例-境外输入新增15例](https://m.caixin.com/m/2020-11-17/101629366.html) ![](assets/new.png)  
 - [2020-11-16-最新海外疫情：新冠感染近5493万-累计死亡超132万](https://m.caixin.com/m/2020-11-17/101629360.html) ![](assets/new.png)  
 - [2020-11-16-【境内疫情观察】全国新增15例境外输入病例（11月16日）](http://m.database.caixin.com/m/2020-11-17/101629210.html) ![](assets/new.png)  
 - [2020-11-16-大流行手记|11月16日：英首相密接后隔离-研究称去年9月意大利或已有感染者](https://m.caixin.com/m/2020-11-17/101629015.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-11-12-【境内疫情观察】全国新增8例境外输入病例（11月12日）](http://m.database.caixin.com/m/2020-11-13/101627382.html) ![](assets/new.png)  
 - [2020-11-12-大流行手记|11月12日：美28名大选工作人员感染-英格兰67个地区本周全城检测](https://m.caixin.com/m/2020-11-13/101627043.html) ![](assets/new.png)  
 - [2020-11-12-新冠病毒毒性未减-张文宏详解病死率下降缘由](http://m.topics.caixin.com/m/2020-11-13/101627435.html) ![](assets/new.png)  
+- [2020-11-11-【境内疫情观察】天津新增1例本土确诊病例（11月11日）](http://m.database.caixin.com/m/2020-11-12/101626650.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,26 +376,6 @@
 </summary>
 
 
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +533,9 @@
 </summary>
 
 
+- [2020-11-18-较好中小型企业信息安全方案有哪些？](https://www.v2ex.com/t/726490) ![](assets/new.png)  
+- [2020-11-18-vue.js-里刚开始数据请求延迟的话会短暂显示那个没数据的画面咋搞哦](https://www.v2ex.com/t/726489) ![](assets/new.png)  
+- [2020-11-18-2020-年赣南脐橙上市啦！](https://www.v2ex.com/t/726488) ![](assets/new.png)  
 - [2020-11-18-公众号内网页获取微信用户-openid-是即用即取吗？](https://www.v2ex.com/t/726486) ![](assets/new.png)  
 - [2020-11-18-计算机的原理是图灵机吗，那图灵机的数学原理是什么？](https://www.v2ex.com/t/726485) ![](assets/new.png)  
 - [2020-11-18-有没有-Python-编写的-WEB-文件管理系统。](https://www.v2ex.com/t/726484) ![](assets/new.png)  
@@ -570,9 +553,6 @@
 - [2020-11-17-睡不着-思考人参](https://www.v2ex.com/t/726468) ![](assets/new.png)  
 - [2020-11-17-Macbook-m1-程序员向兼容测试（知乎）](https://www.v2ex.com/t/726467) ![](assets/new.png)  
 - [2020-11-17-我的静态博客被人克隆了，我能做些什么呢？](https://www.v2ex.com/t/726466) ![](assets/new.png)  
-- [2020-11-17-迫于把持不住了，求问-M1-芯-Macmini-搭配小米-34-带鱼屏效果如何？](https://www.v2ex.com/t/726465) ![](assets/new.png)  
-- [2020-11-17-MacBook-Pro-Retina,-15-inch,-Mid-2015-升级-macOS-Big-Sur-更耗电了-更烫了。。。](https://www.v2ex.com/t/726464) ![](assets/new.png)  
-- [2020-11-17-Firefox-83-增加了一个-HTTPS-only-模式](https://www.v2ex.com/t/726463) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -617,24 +597,24 @@
 
 - [2020-11-18-资料-|-30-天循序渐进地教你学会-Python](https://toutiao.io/k/lhg1ffp) ![](assets/new.png)  
 - [2020-11-18-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) ![](assets/new.png)  
-- [2020-11-18-前端团队研发效能提升的探索与实践](https://toutiao.io/k/dfuv91o) ![](assets/new.png)  
 - [2020-11-18-那些迷人的命令行工具](https://toutiao.io/k/til8azt) ![](assets/new.png)  
+- [2020-11-18-前端团队研发效能提升的探索与实践](https://toutiao.io/k/dfuv91o) ![](assets/new.png)  
 - [2020-11-18-优酷大数据-OLAP-技术选型](https://toutiao.io/k/ohrycaz) ![](assets/new.png)  
-- [2020-11-18-为什么继承-Python-内置类型会出问题？！](https://toutiao.io/k/1umq1m9) ![](assets/new.png)  
 - [2020-11-18-最全面的推荐系统评估方法介绍](https://toutiao.io/k/mv9umce) ![](assets/new.png)  
+- [2020-11-18-为什么继承-Python-内置类型会出问题？！](https://toutiao.io/k/1umq1m9) ![](assets/new.png)  
 - [2020-11-18-MySQL-对数据库设计时设计标识字段引发的一些思考](https://toutiao.io/k/nh5wxia) ![](assets/new.png)  
 - [2020-11-18-b-站账号快速升级到-Lv6：每天自动签到，观看，分享，投币视频](https://toutiao.io/k/12rl2qr) ![](assets/new.png)  
 - [2020-11-18-手把手教你撸一个能生成抖音风格动图的-gif-制作平台](https://toutiao.io/k/n1a5gai) ![](assets/new.png)  
-- [2020-11-18-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
-- [2020-11-18-推荐-13-张图彻底搞懂分布式系统服务注册与发现原理](https://toutiao.io/k/f9kkb5t) ![](assets/new.png)  
-- [2020-11-18-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
+- [2020-11-18-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-18-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
+- [2020-11-18-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-18-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-18-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-18-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
 - [2020-11-18-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) ![](assets/new.png)  
 - [2020-11-18-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-18-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
 - [2020-11-18-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
-- [2020-11-18-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-18-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) ![](assets/new.png)  
-- [2020-11-18-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-18-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

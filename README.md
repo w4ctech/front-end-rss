@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 13:04:21，:rocket: 更新条数: +3044， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 13:11:30，:rocket: 更新条数: +3083， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-18-才刚知道域名可以分省市解析](https://www.v2ex.com/t/726860) ![](assets/new.png)  
+- [2020-11-18-想用-RSS-看-V-站的优雅方法是什么？](https://www.v2ex.com/t/726858) ![](assets/new.png)  
+- [2020-11-18-如何防止因为百度网盘下载速度过快导致的电脑卡顿死机？](https://www.v2ex.com/t/726857) ![](assets/new.png)  
+- [2020-11-18-今天买了啥？](https://www.v2ex.com/t/726856) ![](assets/new.png)  
+- [2020-11-18-有作业帮的朋友吗？请问加班强度大吗？-三餐质量如何](https://www.v2ex.com/t/726855) ![](assets/new.png)  
+- [2020-11-18-FCP-剪辑-新-Air-和-Pro-选择哪个？](https://www.v2ex.com/t/726853) ![](assets/new.png)  
+- [2020-11-18-跑了一下-Apple-给的光追-demo](https://www.v2ex.com/t/726852) ![](assets/new.png)  
+- [2020-11-18-如何使用-PyCharm-debug-运行在-docker-container-里的-Python-应用？](https://www.v2ex.com/t/726851) ![](assets/new.png)  
+- [2020-11-18-都在关注-M1-芯片-没有人关注今晚-10-点解禁的-AMD-6800XT-评测吗？](https://www.v2ex.com/t/726850) ![](assets/new.png)  
+- [2020-11-18-求推荐一款好用的屏幕共享的软件](https://www.v2ex.com/t/726849) ![](assets/new.png)  
+- [2020-11-18-m1-的表现是不是说明了封闭环境是未来主流](https://www.v2ex.com/t/726847) ![](assets/new.png)  
+- [2020-11-18-上海错过这班车你还要再等多久？字节跳动前端架构团队需要你](https://www.v2ex.com/t/726846) ![](assets/new.png)  
+- [2020-11-18-升级到-Big-Sur-，连接-WiFi-一段时间后会没有网络连接](https://www.v2ex.com/t/726845) ![](assets/new.png)  
+- [2020-11-18-求一份-Java-方面远程工作](https://www.v2ex.com/t/726844) ![](assets/new.png)  
+- [2020-11-18-Any-Blankets-to-Be-Used-to-Keep-Warm-in-This-Winter？](https://www.v2ex.com/t/726843) ![](assets/new.png)  
+- [2020-11-18-hexo-等静态博客还是不如动态博客好](https://www.v2ex.com/t/726842) ![](assets/new.png)  
+- [2020-11-18-Vmware-可以关闭侧通道缓解吗？](https://www.v2ex.com/t/726841) ![](assets/new.png)  
+- [2020-11-18-微软北京-Azure-Big-Data-team-开放海量-HC,-等你来！](https://www.v2ex.com/t/726839) ![](assets/new.png)  
+- [2020-11-18-产品经理的博客有推荐的吗](https://www.v2ex.com/t/726838) ![](assets/new.png)  
+- [2020-11-18-Mac-mini-M1-视频渲染（包含-8K-RAW，-H.265-等）性能测试](https://www.v2ex.com/t/726836) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -591,8 +611,8 @@
 - [2020-11-18-JDK-8-升级-JDK-11-过程记录](https://toutiao.io/k/4f0u7y9) ![](assets/new.png)  
 - [2020-11-18-日均-5-亿字符翻译量，百毫秒内响应，携程机器翻译平台实践](https://toutiao.io/k/wchip42) ![](assets/new.png)  
 - [2020-11-18-美团面试官问我：ZGC-的-Z-是什么意思？](https://toutiao.io/k/90qi0wt) ![](assets/new.png)  
-- [2020-11-18-IP-地址怎么定位？](https://toutiao.io/k/lse932r) ![](assets/new.png)  
 - [2020-11-18-运行于-.NET-Core-之上的游戏服务器的开源框架](https://toutiao.io/k/7s66ddg) ![](assets/new.png)  
+- [2020-11-18-IP-地址怎么定位？](https://toutiao.io/k/lse932r) ![](assets/new.png)  
 - [2020-11-18-数据智能在业务场景下的应用](https://toutiao.io/k/1cmf9c0) ![](assets/new.png)  
 - [2020-11-18-关于内存你需要了解的（二）](https://toutiao.io/k/0pq7n2s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

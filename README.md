@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 12:14:42，:rocket: 更新条数: +3044， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-18 12:30:14，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,13 +64,11 @@
 </summary>
 
 
-- [2020-11-17-11月17日全国新增确诊病例8例-本土病例1例](https://m.caixin.com/m/2020-11-18/101629532.html) ![](assets/new.png)  
 - [2020-11-17-研究：新冠肺炎或易诱发精神疾病-反之亦然](https://m.caixin.com/m/2020-11-18/101629716.html) ![](assets/new.png)  
 - [2020-11-17-为何新冠病死率看起来在下降？-《自然》刊文详解原因](https://m.caixin.com/m/2020-11-18/101629488.html) ![](assets/new.png)  
 - [2020-11-17-天津新增1例本土新冠病例-1例本土无症状感染者](https://m.caixin.com/m/2020-11-18/101629482.html) ![](assets/new.png)  
 - [2020-11-17-【境内疫情观察】天津新增1例本土确诊病例（11月17日）](http://m.database.caixin.com/m/2020-11-18/101629640.html) ![](assets/new.png)  
 - [2020-11-17-大流行手记|11月17日：世卫谨慎看待疫苗捷报-俄罗斯日增病例创新高](https://m.caixin.com/m/2020-11-18/101629492.html) ![](assets/new.png)  
-- [2020-11-16-最新海外疫情：新冠感染近5493万-累计死亡超132万](https://m.caixin.com/m/2020-11-17/101629360.html) ![](assets/new.png)  
 - [2020-11-16-【境内疫情观察】全国新增15例境外输入病例（11月16日）](http://m.database.caixin.com/m/2020-11-17/101629210.html) ![](assets/new.png)  
 - [2020-11-16-大流行手记|11月16日：英首相密接后隔离-研究称去年9月意大利或已有感染者](https://m.caixin.com/m/2020-11-17/101629015.html) ![](assets/new.png)  
 - [2020-11-15-多地进口冷链包装检出新冠阳性-交通部发文加强冷链运输防控](http://m.companies.caixin.com/m/2020-11-16/101628925.html) ![](assets/new.png)  
@@ -84,6 +82,8 @@
 - [2020-11-13-【境内疫情观察】全国新增18例境外输入病例（11月13日）](http://m.database.caixin.com/m/2020-11-14/101627999.html) ![](assets/new.png)  
 - [2020-11-13-大流行手记|11月13日：英日增病例创新高-日本研究称新冠变异后传染性增强](https://m.caixin.com/m/2020-11-14/101627841.html) ![](assets/new.png)  
 - [2020-11-12-【境内疫情观察】全国新增8例境外输入病例（11月12日）](http://m.database.caixin.com/m/2020-11-13/101627382.html) ![](assets/new.png)  
+- [2020-11-12-大流行手记|11月12日：美28名大选工作人员感染-英格兰67个地区本周全城检测](https://m.caixin.com/m/2020-11-13/101627043.html) ![](assets/new.png)  
+- [2020-11-12-新冠病毒毒性未减-张文宏详解病死率下降缘由](http://m.topics.caixin.com/m/2020-11-13/101627435.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -453,10 +453,10 @@
 </summary>
 
 
-- [2020-11-18-React-Hooks-学习笔记——-useMemo-?-useRef-?](https://juejin.im/post/6896425153354432526) ![](assets/new.png)  
+- [2020-11-18-redux-thunk源码笔记](https://juejin.im/post/6896438096011739149) ![](assets/new.png)  
+- [2020-11-18-数据结构与算法学习之集合](https://juejin.im/post/6896436531125452813) ![](assets/new.png)  
 - [2020-11-18-Electron9+vue-cli3开发跨平台桌面应用](https://juejin.im/post/6896417031344619528) ![](assets/new.png)  
 - [2020-11-18-简短而全面解说CSS选择器层叠、优先级、冲突、继承、以及属性值计算过程](https://juejin.im/post/6896414154753015815) ![](assets/new.png)  
-- [2020-11-17-译-如何在-Nextjs-中使用-cookies-来持久化保存用户信息](https://juejin.im/post/6896062683263860749) ![](assets/new.png)  
 - [2020-11-16-WebGL绘制如何进行优化？](https://juejin.im/post/6895936278433366029) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-18-跑了一下-Apple-给的光追-demo](https://www.v2ex.com/t/726852) ![](assets/new.png)  
+- [2020-11-18-如何使用-PyCharm-debug-运行在-docker-container-里的-Python-应用？](https://www.v2ex.com/t/726851) ![](assets/new.png)  
+- [2020-11-18-都在关注-M1-芯片-没有人关注今晚-10-点解禁的-AMD-6800XT-评测吗？](https://www.v2ex.com/t/726850) ![](assets/new.png)  
+- [2020-11-18-求推荐一款好用的屏幕共享的软件](https://www.v2ex.com/t/726849) ![](assets/new.png)  
+- [2020-11-18-m1-的表现是不是说明了封闭环境是未来主流](https://www.v2ex.com/t/726847) ![](assets/new.png)  
+- [2020-11-18-上海错过这班车你还要再等多久？字节跳动前端架构团队需要你](https://www.v2ex.com/t/726846) ![](assets/new.png)  
+- [2020-11-18-升级到-Big-Sur-，连接-WiFi-一段时间后会没有网络连接](https://www.v2ex.com/t/726845) ![](assets/new.png)  
+- [2020-11-18-求一份-Java-方面远程工作](https://www.v2ex.com/t/726844) ![](assets/new.png)  
+- [2020-11-18-Any-Blankets-to-Be-Used-to-Keep-Warm-in-This-Winter？](https://www.v2ex.com/t/726843) ![](assets/new.png)  
+- [2020-11-18-hexo-等静态博客还是不如动态博客好](https://www.v2ex.com/t/726842) ![](assets/new.png)  
+- [2020-11-18-Vmware-可以关闭侧通道缓解吗？](https://www.v2ex.com/t/726841) ![](assets/new.png)  
+- [2020-11-18-微软北京-Azure-Big-Data-team-开放海量-HC,-等你来！](https://www.v2ex.com/t/726839) ![](assets/new.png)  
+- [2020-11-18-产品经理的博客有推荐的吗](https://www.v2ex.com/t/726838) ![](assets/new.png)  
+- [2020-11-18-Mac-mini-M1-视频渲染（包含-8K-RAW，-H.265-等）性能测试](https://www.v2ex.com/t/726836) ![](assets/new.png)  
+- [2020-11-18-求推荐一家适合-NAS-的对象存储](https://www.v2ex.com/t/726835) ![](assets/new.png)  
+- [2020-11-18-想买个-M1-Mac-Mini-放家里,-在外面用-iPad-远程访问,-有什么好的方案吗?](https://www.v2ex.com/t/726834) ![](assets/new.png)  
+- [2020-11-18-Big-Sur-抹盘以后清爽了，碰到的问题自动解决](https://www.v2ex.com/t/726833) ![](assets/new.png)  
+- [2020-11-18-2020-款-Mac-Mini-拆解大图来了。](https://www.v2ex.com/t/726832) ![](assets/new.png)  
+- [2020-11-18-Apple-宣布-App-Store-Small-Business-Program](https://www.v2ex.com/t/726831) ![](assets/new.png)  
+- [2020-11-18-疫情美国留学-defer-一年，干一段华为-OD-对未来职业生涯（及美签）有多大影响？](https://www.v2ex.com/t/726830) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

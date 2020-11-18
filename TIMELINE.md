@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-17 23:48:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-18 00:07:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -26,7 +26,7 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
-<td><a href="#2019-01">01月</a></td>
+<td>01月</td>
 <td><a href="#2019-02">02月</a></td>
 <td><a href="#2019-03">03月</a></td>
 <td>04月</td>
@@ -175,11 +175,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-11-02-大流行手记|11月2日：谭德赛密接后隔离-俄罗斯取消红场阅兵](https://m.caixin.com/m/2020-11-03/101622170.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-11-01-【境内疫情观察】新疆新增3例本土确诊病例（11月1日）](http://m.database.caixin.com/m/2020-11-02/101621431.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-11-01-大流行手记|11月1日：美国日增病例再创新高-英格兰地区将二次封锁](https://m.caixin.com/m/2020-11-02/101621335.html) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-17-陕西西安阎良对冷冻猪肉外包装阳性相关人员进行全员检测-均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2E0GtBy9zxbK4WlEL3jJ201117&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-17-国家移民管理局：强化边境地区管控-严防境外疫情输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jFtlZRBSCRB0lpP8mqE201117&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-17-印度新冠肺炎确诊病例累计超887万例-单日增幅再创7月来新低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSqmK4bPqI0OauqH7Vp6C201117&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-17-七天增加100万，美国新冠疫情传播速度前所未有](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6gG9ojnz6R0ykfd2e79W201117&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-17-​阿根廷新冠肺炎累计确诊病例近132万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXauOPoVbBTDcvuyJPika201117&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-17-天津新增1例本土新冠肺炎确诊病例-1例本土无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBclF5zjjPOCLXeQJH11V201118&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-17-美国新增166045例新冠肺炎确诊病例-新增病例连续13天超10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifur0v2gAFweLMXLv3iGJ201117&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-17-神逻辑！白宫疫情顾问鼓励人们看望祖父母：这可能是他们最后一个感恩节](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4gw718ASjLrupx3JeIbu201117&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-17-江苏泗阳县：苗某某及车辆环境核酸检测结果为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiev1ZZlOcK8OShNnmcfiN201117&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-11-17-天津市2名处于集中隔离期的冷链从业人员核酸阳性-均为本土第3例无症状感染者工友室友](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85Wz1egjB0SrqN70JsNK201117&isfromapp=1) 
 - [【张鑫旭-鑫空间-鑫生活】2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) 
 - [【阮一峰的网络日志】2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html) 
 - [【阮一峰的网络日志】2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html) 
@@ -191,6 +191,7 @@
 - [【掘金前端】2020-11-17-从0到1打造一个-WebRTC-应用](https://juejin.im/post/6896045087659130894) 
 - [【掘金前端】2020-11-17-走进ts-工具泛型](https://juejin.im/post/6896043465801793550) 
 - [【掘金前端】2020-11-17-编写高质量可维护的代码——异步优化](https://juejin.im/post/6896028236732776461) 
+- [【V2EX】2020-11-17-劳动仲裁的真的好用吗？](https://www.v2ex.com/t/726476) 
 - [【V2EX】2020-11-17-荣耀的前途如何](https://www.v2ex.com/t/726475) 
 - [【V2EX】2020-11-17-分享个-intellij-平台的搜索小插件-Smart-Search](https://www.v2ex.com/t/726474) 
 - [【V2EX】2020-11-17-github-发现个开源的小说站还不错，漫画也支持，分享一下](https://www.v2ex.com/t/726473) 
@@ -228,43 +229,46 @@
 - [【V2EX】2020-11-17-b-站有没有开发者背景的-up-主对-m1-芯片-mac-的评测视频](https://www.v2ex.com/t/726429) 
 - [【V2EX】2020-11-17-GDB-程序崩溃没有效代码堆栈该怎么调试？要被折磨疯了](https://www.v2ex.com/t/726428) 
 - [【V2EX】2020-11-17-请问到底如何取消-win10-登录密码（抓狂）](https://www.v2ex.com/t/726427) 
-- [【V2EX】2020-11-17-M1-mac-mini-配什么显示器比较好?](https://www.v2ex.com/t/726426) 
-- [【技术头条】2020-11-17-思否独立开发者采访-|-开启技术变现之路，探索第三收入来源-segmentfault.com](https://blogread.cn/news/go.php?idItem=13957&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000038196276%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-电梯行业的数字化转型，精细化管理开启新的红利窗口-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13956&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778400%3Futm_content%3Dg_1000205619%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-如何快速实现精准的个性化搜索服务-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13955&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778356%3Futm_content%3Dg_1000205618%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-什么是低代码（Low-Code）？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13954&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778355%3Futm_content%3Dg_1000205617%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-企业双11业绩增长156%-、成交额突破151亿元-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13953&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778319%3Futm_content%3Dg_1000205616%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-考拉海购全面云原生迁移之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13952&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778144%3Futm_content%3Dg_1000205615%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-大促场景系统稳定性保障实践经验分享-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13951&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778248%3Futm_content%3Dg_1000205300%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-2020双十一，阿里云GRTN拉开直播和RTC技术下半场的序幕-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13950&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778264%3Futm_content%3Dg_1000205299%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-深入解析-Flink-的算子链机制-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13949&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778209%3Futm_content%3Dg_1000205298%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-淘宝直播在冲刺最复杂的人工智能技术！-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13948&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778213%3Futm_content%3Dg_1000205297%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-盒马新零售基于DataWorks搭建数据中台的实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13947&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778172%3Futm_content%3Dg_1000205296%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-Android-开发都有哪些好书值得一读？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13946&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV9CI-RGSG0JkTPKwxLHzeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-Android-Studio-4.1-新特性详解-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13945&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1dMo22SK_6pTpsYMgl7LvQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-探索-Glide-原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13944&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZjKkTJ5GpP8e2BnttiJEiA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-Flutter-制霸全平台，新版将支持-Windows-应用程序！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13943&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsQmJJfNQpiNXJzVLOXCYyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-Typora-完美结合-PicGo，写作体验更佳！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13942&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHH31VsgcGreEugi73LXtcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-华为阿里下班时间曝光：所有的光鲜，都有加班的味道-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13941&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuosnjOfxZTwTcvZVyOHTPQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-VS-Code-的-7-个开源替代品！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13940&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBEM0UPxp2bcjPTNCKvMoA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-了解全宇宙最神秘的团体，只需要这九张图-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13939&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDm_lBw3Oa9JpI0Z5pe6i3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2020-11-17-那些在一个公司死磕了-5-10-年的人，后来都怎么样了？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13938&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F18MDpY4wv8EihcjdjCQ8fA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2020-11-17-资料-|-30-天循序渐进地教你学会-Python](https://toutiao.io/k/lhg1ffp) 
-- [【开发者头条】2020-11-17-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) 
-- [【开发者头条】2020-11-17-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) 
-- [【开发者头条】2020-11-17-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) 
-- [【开发者头条】2020-11-17-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) 
-- [【开发者头条】2020-11-17-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) 
-- [【开发者头条】2020-11-17-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) 
-- [【开发者头条】2020-11-17-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) 
-- [【开发者头条】2020-11-17-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) 
-- [【开发者头条】2020-11-17-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) 
-- [【开发者头条】2020-11-17-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) 
-- [【开发者头条】2020-11-17-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) 
-- [【开发者头条】2020-11-17-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) 
-- [【开发者头条】2020-11-17-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) 
-- [【开发者头条】2020-11-17-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) 
-- [【开发者头条】2020-11-17-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) 
+- [【技术头条】2020-11-18-思否独立开发者采访-|-开启技术变现之路，探索第三收入来源-segmentfault.com](https://blogread.cn/news/go.php?idItem=13957&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000038196276%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-电梯行业的数字化转型，精细化管理开启新的红利窗口-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13956&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778400%3Futm_content%3Dg_1000205619%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-如何快速实现精准的个性化搜索服务-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13955&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778356%3Futm_content%3Dg_1000205618%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-什么是低代码（Low-Code）？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13954&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778355%3Futm_content%3Dg_1000205617%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-企业双11业绩增长156%-、成交额突破151亿元-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13953&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778319%3Futm_content%3Dg_1000205616%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-考拉海购全面云原生迁移之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13952&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778144%3Futm_content%3Dg_1000205615%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-大促场景系统稳定性保障实践经验分享-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13951&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778248%3Futm_content%3Dg_1000205300%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-2020双十一，阿里云GRTN拉开直播和RTC技术下半场的序幕-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13950&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778264%3Futm_content%3Dg_1000205299%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-深入解析-Flink-的算子链机制-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13949&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778209%3Futm_content%3Dg_1000205298%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-淘宝直播在冲刺最复杂的人工智能技术！-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13948&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778213%3Futm_content%3Dg_1000205297%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-盒马新零售基于DataWorks搭建数据中台的实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13947&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778172%3Futm_content%3Dg_1000205296%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-Android-开发都有哪些好书值得一读？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13946&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV9CI-RGSG0JkTPKwxLHzeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-Android-Studio-4.1-新特性详解-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13945&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1dMo22SK_6pTpsYMgl7LvQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-探索-Glide-原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13944&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZjKkTJ5GpP8e2BnttiJEiA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-Flutter-制霸全平台，新版将支持-Windows-应用程序！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13943&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsQmJJfNQpiNXJzVLOXCYyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-Typora-完美结合-PicGo，写作体验更佳！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13942&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHH31VsgcGreEugi73LXtcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-华为阿里下班时间曝光：所有的光鲜，都有加班的味道-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13941&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuosnjOfxZTwTcvZVyOHTPQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-VS-Code-的-7-个开源替代品！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13940&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBEM0UPxp2bcjPTNCKvMoA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-了解全宇宙最神秘的团体，只需要这九张图-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13939&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDm_lBw3Oa9JpI0Z5pe6i3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-11-18-那些在一个公司死磕了-5-10-年的人，后来都怎么样了？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13938&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F18MDpY4wv8EihcjdjCQ8fA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-11-18-资料-|-30-天循序渐进地教你学会-Python](https://toutiao.io/k/lhg1ffp) 
+- [【开发者头条】2020-11-18-前端团队研发效能提升的探索与实践](https://toutiao.io/k/dfuv91o) 
+- [【开发者头条】2020-11-18-程序员如何管理你的上级领导？](https://toutiao.io/k/s5w119y) 
+- [【开发者头条】2020-11-18-为什么继承-Python-内置类型会出问题？！](https://toutiao.io/k/1umq1m9) 
+- [【开发者头条】2020-11-18-那些迷人的命令行工具](https://toutiao.io/k/til8azt) 
+- [【开发者头条】2020-11-18-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) 
+- [【开发者头条】2020-11-18-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) 
+- [【开发者头条】2020-11-18-推荐-阿里终面：分布式事务原理](https://toutiao.io/k/vunm1k6) 
+- [【开发者头条】2020-11-18-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) 
+- [【开发者头条】2020-11-18-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) 
+- [【开发者头条】2020-11-18-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) 
+- [【开发者头条】2020-11-18-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) 
+- [【开发者头条】2020-11-18-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) 
+- [【开发者头条】2020-11-18-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) 
+- [【开发者头条】2020-11-18-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) 
+- [【开发者头条】2020-11-18-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) 
+- [【开发者头条】2020-11-18-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) 
+- [【开发者头条】2020-11-18-推荐-MySQL-的这几个坑你踩过没？真是防不胜防](https://toutiao.io/k/1y6vsef) 
+- [【开发者头条】2020-11-18-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) 
+- [【开发者头条】2020-11-18-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) 
 - [【安全热点】2020-11-17-每日攻防资讯简报Nov.17th](https://sec.thief.one/article_content?a_id=9f4103c57c50c2caf6ff882fab04e84d) 
 - [【安全热点】2020-11-17-内鬼,无处不在](https://sec.thief.one/article_content?a_id=38ee1035b27a7fa2a50e5b0a71e071c6) 
 - [【安全热点】2020-11-17-安全内参|2021年新兴网络安全威胁预测](https://sec.thief.one/article_content?a_id=856effe1224002d56dddfbfb135207e3) 
@@ -2270,8 +2274,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-抓防疫也顾春耕-李克强开了新冠疫情领导小组会](http://m.china.caixin.com/m/2020-03-02/101523024.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-北京：黄某英离汉进京有关问题的调查及情况通报](http://m.china.caixin.com/m/2020-03-02/101522908.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html) 
-- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [【凹凸实验室】2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/) 
 - [【凹凸实验室】2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
 
@@ -3402,7 +3404,6 @@
 </summary>
 
 
-- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
 - [【凹凸实验室】2019-06-21-Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/) 
 - [【凹凸实验室】2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) 
 
@@ -3415,7 +3416,6 @@
 </summary>
 
 
-- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [【凹凸实验室】2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -3427,21 +3427,8 @@
 </summary>
 
 
-- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [【凹凸实验室】2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/) 
 - [【凹凸实验室】2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-01">
- 2019-01
-</summary>
-
-
-- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3452,9 +3439,6 @@
 </summary>
 
 
-- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
-- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
-- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [【凹凸实验室】2018-12-23-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
 - [【凹凸实验室】2018-12-17-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/) 
 

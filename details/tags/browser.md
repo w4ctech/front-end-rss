@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 12:47:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-18 13:04:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,9 +24,11 @@
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-11-18-缓冲区溢出原理及实验：code-injection-与-return-oriented-programming](https://toutiao.io/k/fas60hh) 
+- [2020-11-18-【安全通知】PyPI-官方仓库遭遇covd恶意包投毒](https://sec.thief.one/article_content?a_id=a786b9d4f5157ff31df80423fbcb747b) 
 - [2020-11-18-AIoT安全峰会议题回顾|Cortex-M逆向分析与安全](https://sec.thief.one/article_content?a_id=ac82612f4bbe6f8f42b6d708934f0754) 
 - [2020-11-18-虎符智库|报告:ATT&CK框架指导云安全威胁调查](https://sec.thief.one/article_content?a_id=d01047f17395587aa409b7bd762eabb6) 
 - [2020-11-18-12月1日起,网络安全成为美国国防部采购合同的必要合规项](https://sec.thief.one/article_content?a_id=7d2e0e3b3a2f9a6a95b1facb41bd9462) 
+- [2020-11-18-第三届“安洵杯”网络安全挑战赛来啦!!](https://sec.thief.one/article_content?a_id=f33a66c2c1ce1ce5291351183690d85e) 
 - [2020-11-18-CVE-2020-17053:IE-UAF漏洞分析](https://sec.thief.one/article_content?a_id=ae198dd09808dc2f65b1f40765031b84) 
 - [2020-11-18-网络安全意识培训的八大新策略](https://sec.thief.one/article_content?a_id=066e07f4a66ba6bb8ad7989e5ecfcd22) 
 - [2020-11-18-信息安全漏洞周报2020年第44期](https://sec.thief.one/article_content?a_id=5b53bdbeae2dccb2e299a450b5b16a4f) 
@@ -51,4 +53,3 @@
 - [2020-11-16-招聘-|-加入安全客的机会来啦~](https://sec.thief.one/article_content?a_id=8bd568e30a67b287b73c5003e56a90a7) 
 - [2020-11-16-【宠粉福利】网络攻防实战研究:MySQL数据库安全](https://sec.thief.one/article_content?a_id=64ae6a6e81655f63d296e3a256678db0) 
 - [2020-11-16-中关村可信计算产业联盟金融安全可信专委会召开工作总结规划会](https://sec.thief.one/article_content?a_id=eb5a82c6b68e935978b0d8d87beafc7e) 
-- [2020-11-16-人物-|-刘衍斐:人生和安全很相近](https://sec.thief.one/article_content?a_id=b2eec47185e7c3eebf512de29d8e3d12) 

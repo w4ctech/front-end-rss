@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-18 23:47:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 00:07:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-18-哪里可以用-btc-买苹果的产品？](https://www.v2ex.com/t/726931) 
+- [2020-11-18-分享一个翻译软件：聚合翻译](https://www.v2ex.com/t/726930) 
 - [2020-11-18-WebUI-的小伙伴急需一枚](https://www.v2ex.com/t/726929) 
 - [2020-11-18-关于-iPhone12-Pro-Max-近景对焦](https://www.v2ex.com/t/726928) 
 - [2020-11-18-Anker-的-hub/拓展坞有-2.4g-Wi-Fi-干扰的问题吗？](https://www.v2ex.com/t/726926) 
@@ -38,5 +40,3 @@
 - [2020-11-18-罗技发布了新一代-G-旗舰](https://www.v2ex.com/t/726884) 
 - [2020-11-18-有人跑了-m1-对比-iPad-pro-的-a12z-的跑分么](https://www.v2ex.com/t/726883) 
 - [2020-11-18-有没有大佬熟悉时序数据库的](https://www.v2ex.com/t/726882) 
-- [2020-11-18-AirBuddy-2](https://www.v2ex.com/t/726881) 
-- [2020-11-18-不知道是谁的-BUG-BigSur-下-Chrome-不能设为默认了](https://www.v2ex.com/t/726880) 

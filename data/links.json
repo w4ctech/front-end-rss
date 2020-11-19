@@ -15849,6 +15849,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "看到英特尔出售业务给立锜 /Richtek，这不就是...富有科技？",
+        "link": "https://www.v2ex.com/t/726999",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "有没有可以查询个人手机、邮箱、微信、QQ 绑定/授权/注册过的网站或 APP",
+        "link": "https://www.v2ex.com/t/726998",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "和一场音视频技术大会只有一条网线的距离",
+        "link": "https://www.v2ex.com/t/726997",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "外行请问多线程如何设置线程数",
+        "link": "https://www.v2ex.com/t/726996",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "小米有品退款 bug，拆分吃运费。",
+        "link": "https://www.v2ex.com/t/726995",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "iPhone 有什么办法查看每张照片的大小 size?",
+        "link": "https://www.v2ex.com/t/726994",
+        "date": "2020-11-19"
+      },
+      {
         "title": "有没有人遇到 AirPods 失联的情况",
         "link": "https://www.v2ex.com/t/726992",
         "date": "2020-11-19"
@@ -15981,31 +16011,6 @@
       {
         "title": "分享一篇文章：图解内存池内部结构，揭示避免内存碎片化的独门秘诀",
         "link": "https://www.v2ex.com/t/726951",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "Google 账号误删除活动历史",
-        "link": "https://www.v2ex.com/t/726950",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "Java 开发有必要花接近一个月的工资去买一台 13 寸的 mbp 吗？",
-        "link": "https://www.v2ex.com/t/726949",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "接下来这一两周，从上海去别的城市需要做核酸检测吗",
-        "link": "https://www.v2ex.com/t/726947",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "Youtube TV 拼车",
-        "link": "https://www.v2ex.com/t/726944",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "迫于有几个闲置显卡，现在还有啥值得挖着的币么？",
-        "link": "https://www.v2ex.com/t/726943",
         "date": "2020-11-19"
       }
     ]
@@ -16173,13 +16178,13 @@
         "date": "2020-11-19"
       },
       {
-        "title": "硬核，这 3 款 IDE 插件让你的代码牢不可破",
-        "link": "https://toutiao.io/k/wtbklhn",
+        "title": "Docker 安全实践",
+        "link": "https://toutiao.io/k/e8r4p6x",
         "date": "2020-11-19"
       },
       {
-        "title": "Docker 安全实践",
-        "link": "https://toutiao.io/k/e8r4p6x",
+        "title": "硬核，这 3 款 IDE 插件让你的代码牢不可破",
+        "link": "https://toutiao.io/k/wtbklhn",
         "date": "2020-11-19"
       },
       {
@@ -16198,68 +16203,18 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "从 react-native 的 js 和 native 通讯看看 JSI 是什么",
+        "link": "https://toutiao.io/k/zsxr7qt",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "前沿实践：垃圾回收器是如何演进的？",
+        "link": "https://toutiao.io/k/ngoia8o",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
+        "title": "看完这篇,再也不用担心不会写 dockerfile 了",
+        "link": "https://toutiao.io/k/zzpdj8o",
         "date": "2020-11-19"
       },
       {
@@ -16268,8 +16223,73 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-19"
       }
     ]

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-19 14:14:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 14:26:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-19-使用-Vue-前端、Rails-后端实现图片上传的功能](https://www.v2ex.com/t/727307) 
 - [2020-11-19-Big-Sur-升级后电量掉的很快](https://www.v2ex.com/t/727305) 
 - [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) 
 - [2020-11-19-hmm，-YouTube-港区车](https://www.v2ex.com/t/727301) 
@@ -39,4 +40,3 @@
 - [2020-11-19-产品经理被研发要求设计好数据库字段](https://www.v2ex.com/t/727261) 
 - [2020-11-19-jdk-8-怎么和-jdk-15.1-差距这么大？](https://www.v2ex.com/t/727260) 
 - [2020-11-19-iPhone12-pro-max-电脑预约一直卡在注册码页面](https://www.v2ex.com/t/727259) 
-- [2020-11-19-Go-协程池解析~通俗易懂](https://www.v2ex.com/t/727257) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 14:14:18，:rocket: 更新条数: +3084， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 14:26:28，:rocket: 更新条数: +3084， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-19-使用-Vue-前端、Rails-后端实现图片上传的功能](https://www.v2ex.com/t/727307) ![](assets/new.png)  
 - [2020-11-19-Big-Sur-升级后电量掉的很快](https://www.v2ex.com/t/727305) ![](assets/new.png)  
 - [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) ![](assets/new.png)  
 - [2020-11-19-hmm，-YouTube-港区车](https://www.v2ex.com/t/727301) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-19-升级-Big-Sur-后外接屏幕看不到消息通知，能听到声音？有人遇到没？](https://www.v2ex.com/t/727281) ![](assets/new.png)  
 - [2020-11-19-window.open-打开一个在线文档，默认的-title-是文件的-url-地址，如何修改该-title-为自己想要的内容？](https://www.v2ex.com/t/727280) ![](assets/new.png)  
 - [2020-11-19-控制中心是-Bug？还是就是这么设计的？](https://www.v2ex.com/t/727279) ![](assets/new.png)  
-- [2020-11-19-5500M-的-MacBook-Pro-外接显示屏看-Netflix-居然会掉帧](https://www.v2ex.com/t/727278) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -609,8 +609,8 @@
 - [2020-11-19-如何在公司项目中使用-WebSocke（入门实战指南）](https://toutiao.io/k/dg32a9e) ![](assets/new.png)  
 - [2020-11-19-Objective-C-的元组实现-JDTuple](https://toutiao.io/k/trnzy7k) ![](assets/new.png)  
 - [2020-11-19-搜狐智能媒体数据仓库体系建设实践](https://toutiao.io/k/zwe8iqv) ![](assets/new.png)  
-- [2020-11-19-简单分析下-Node.js-关于集群的那些事](https://toutiao.io/k/p9mn466) ![](assets/new.png)  
 - [2020-11-19-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
+- [2020-11-19-简单分析下-Node.js-关于集群的那些事](https://toutiao.io/k/p9mn466) ![](assets/new.png)  
 - [2020-11-19-深坑啊！同一个-Spring-AOP-的坑，我一天踩了两次](https://toutiao.io/k/mq8x3lu) ![](assets/new.png)  
 - [2020-11-19-前沿实践：垃圾回收器是如何演进的？](https://toutiao.io/k/ngoia8o) ![](assets/new.png)  
 - [2020-11-19-从-react-native-的-js-和-native-通讯看看-JSI-是什么](https://toutiao.io/k/zsxr7qt) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 02:04:50，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 02:13:36，:rocket: 更新条数: +3306， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,10 @@
 </summary>
 
 
+- [2020-11-19-有没有人遇到-AirPods-失联的情况](https://www.v2ex.com/t/726992) ![](assets/new.png)  
+- [2020-11-19-有没有在用-M1-芯片新品的老哥外接-2K（或-1080p）显示器使用-one-key-hidpi-脚本来强制开启-HIDPI-的？](https://www.v2ex.com/t/726991) ![](assets/new.png)  
+- [2020-11-19-深圳-在科兴上班住到哪里合适一点？宝安暂时不考虑的情况。](https://www.v2ex.com/t/726990) ![](assets/new.png)  
+- [2020-11-19-EMP-微前端方案有用过的小伙伴吗？](https://www.v2ex.com/t/726989) ![](assets/new.png)  
 - [2020-11-19-1password-年付家庭，招一人，年付-12-美元（约-80-左右），到期日-21/11/25](https://www.v2ex.com/t/726985) ![](assets/new.png)  
 - [2020-11-19-现在是选择-nuc-黑苹果还是-Mac-mini](https://www.v2ex.com/t/726984) ![](assets/new.png)  
 - [2020-11-19-一件-T-恤引发的跨洋-Rust-程序员之间故事](https://www.v2ex.com/t/726981) ![](assets/new.png)  
@@ -569,10 +573,6 @@
 - [2020-11-19-老哥们知道深圳有-Golang-后端的活么？最好-965](https://www.v2ex.com/t/726964) ![](assets/new.png)  
 - [2020-11-19-三七互娱内推-社招-中/高产品经理（数据中台方向-13-25K）](https://www.v2ex.com/t/726962) ![](assets/new.png)  
 - [2020-11-19-关于-Apple-M1-的群众意见每日汇总-码农方向2020.11.19](https://www.v2ex.com/t/726960) ![](assets/new.png)  
-- [2020-11-19-蓝厂的新系统-Origin-观感如何？](https://www.v2ex.com/t/726959) ![](assets/new.png)  
-- [2020-11-19-有那位大哥用过便携式的圆刚视频采集卡，小弟有问题咨询](https://www.v2ex.com/t/726957) ![](assets/new.png)  
-- [2020-11-19-话说为啥还会有人接盘-15-年的-mbp，买的人是什么心态嗷？有没有老铁理性探讨一下](https://www.v2ex.com/t/726956) ![](assets/new.png)  
-- [2020-11-19-在项目最忙上线的时候，选择离职是否不厚道？](https://www.v2ex.com/t/726955) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,16 +625,16 @@
 - [2020-11-19-新老手都值得看的-Flink-关键技术解析与优化实战](https://toutiao.io/k/ee2z21c) ![](assets/new.png)  
 - [2020-11-19-再聊-Blazor，它是否值得你花时间学习](https://toutiao.io/k/z1391vp) ![](assets/new.png)  
 - [2020-11-19-Objective-C-的元组实现-JDTuple](https://toutiao.io/k/trnzy7k) ![](assets/new.png)  
-- [2020-11-19-Docker-安全实践](https://toutiao.io/k/e8r4p6x) ![](assets/new.png)  
 - [2020-11-19-硬核，这-3-款-IDE-插件让你的代码牢不可破](https://toutiao.io/k/wtbklhn) ![](assets/new.png)  
+- [2020-11-19-Docker-安全实践](https://toutiao.io/k/e8r4p6x) ![](assets/new.png)  
 - [2020-11-19-如何在公司项目中使用-WebSocke（入门实战指南）](https://toutiao.io/k/dg32a9e) ![](assets/new.png)  
 - [2020-11-19-简单分析下-Node.js-关于集群的那些事](https://toutiao.io/k/p9mn466) ![](assets/new.png)  
 - [2020-11-19-搜狐智能媒体数据仓库体系建设实践](https://toutiao.io/k/zwe8iqv) ![](assets/new.png)  
-- [2020-11-19-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
 - [2020-11-19-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-19-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-19-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-19-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
 - [2020-11-19-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
+- [2020-11-19-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

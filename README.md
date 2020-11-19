@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 12:15:19，:rocket: 更新条数: +3086， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 12:30:54，:rocket: 更新条数: +3086， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
-- [2020-11-19-前端安全系列-网络劫持](https://juejin.im/post/6896802990137540622) ![](assets/new.png)  
-- [2020-11-19-基于vant封装的form组件](https://juejin.im/post/6896795817676537870) ![](assets/new.png)  
-- [2020-11-19-Python干货宝典！玩转内置模块：日历模块](https://juejin.im/post/6896799354058145806) ![](assets/new.png)  
-- [2020-11-18-Array对象](https://juejin.im/post/6896734347211554829) ![](assets/new.png)  
-- [2020-11-18-根据登陆用户动态展示Vue菜单](https://juejin.im/post/6896732256396640264) ![](assets/new.png)  
+- [2020-11-19-Vue-自检](https://juejin.im/post/6896807654492995597) ![](assets/new.png)  
+- [2020-11-19-单工程多项目](https://juejin.im/post/6896797902996733959) ![](assets/new.png)  
+- [2020-11-19-$parent/$children的使用场景----vue组件通信系列](https://juejin.im/post/6896783432932655112) ![](assets/new.png)  
+- [2020-11-19-Vue响应式数据原理](https://juejin.im/post/6896777102369456142) ![](assets/new.png)  
+- [2020-11-18-React-实现简易的图片拖动排序](https://juejin.im/post/6896712416928169991) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,12 @@
 </summary>
 
 
+- [2020-11-19-蝶式键盘有一个按键粘滞感，不知道是因为撒了点咖啡进去还是因为性能缺陷](https://www.v2ex.com/t/727275) ![](assets/new.png)  
+- [2020-11-19-微信视频的自动美颜无法关闭吗？](https://www.v2ex.com/t/727274) ![](assets/new.png)  
+- [2020-11-19-这种国内-app-用-Apple-id-登陆，为什么随机生成的邮箱还是自己的邮箱？](https://www.v2ex.com/t/727273) ![](assets/new.png)  
+- [2020-11-19-我有一个猎头电话黑名单，怎么导入到-iPhone-中？](https://www.v2ex.com/t/727272) ![](assets/new.png)  
+- [2020-11-19-macOS-风格的终端截图和录屏都是怎么做到的？](https://www.v2ex.com/t/727271) ![](assets/new.png)  
+- [2020-11-19-萌新小白，打算入坑-nas，求指导](https://www.v2ex.com/t/727270) ![](assets/new.png)  
 - [2020-11-19-在小米-8-上用-chrome-打开-V2EX-会导致手机的护眼模式被关闭，大家会吗？](https://www.v2ex.com/t/727269) ![](assets/new.png)  
 - [2020-11-19-iPhone12-无法正常连接-Carplay-系统](https://www.v2ex.com/t/727268) ![](assets/new.png)  
 - [2020-11-19-一个-js-文件如何引入一个-vue-组件](https://www.v2ex.com/t/727266) ![](assets/new.png)  
@@ -547,12 +553,6 @@
 - [2020-11-19-做好事不留名挺难的](https://www.v2ex.com/t/727253) ![](assets/new.png)  
 - [2020-11-19-深圳-Wisers-慧科-外资，大数据+AI，可经常远程办公，-20-40K/月，招聘-React-前端开发-..](https://www.v2ex.com/t/727251) ![](assets/new.png)  
 - [2020-11-19-请问为什么-boss-直聘上有一些公司明显主营业务不是游戏也会招聘游戏测试？](https://www.v2ex.com/t/727249) ![](assets/new.png)  
-- [2020-11-19-很好，没有生气☺](https://www.v2ex.com/t/727248) ![](assets/new.png)  
-- [2020-11-19-我猜这里有很多写爬虫的高手。请教以下，知道哪里能获得国内主要高速公路、国道的车辆通行数据信息么？](https://www.v2ex.com/t/727247) ![](assets/new.png)  
-- [2020-11-19-iCloud-同步照片特别慢，可以关掉-IPv6-试试](https://www.v2ex.com/t/727246) ![](assets/new.png)  
-- [2020-11-19-Ipone-有没有那种给应用加密的软件？](https://www.v2ex.com/t/727245) ![](assets/new.png)  
-- [2020-11-19-请问-macbookPro2015-i7-装-win10-2004-有坑吗](https://www.v2ex.com/t/727244) ![](assets/new.png)  
-- [2020-11-19-Arm-Mac-会不会连带促进-Arm-Windows-应用的发展](https://www.v2ex.com/t/727242) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -611,8 +611,8 @@
 - [2020-11-19-搜狐智能媒体数据仓库体系建设实践](https://toutiao.io/k/zwe8iqv) ![](assets/new.png)  
 - [2020-11-19-简单分析下-Node.js-关于集群的那些事](https://toutiao.io/k/p9mn466) ![](assets/new.png)  
 - [2020-11-19-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
-- [2020-11-19-前沿实践：垃圾回收器是如何演进的？](https://toutiao.io/k/ngoia8o) ![](assets/new.png)  
 - [2020-11-19-深坑啊！同一个-Spring-AOP-的坑，我一天踩了两次](https://toutiao.io/k/mq8x3lu) ![](assets/new.png)  
+- [2020-11-19-前沿实践：垃圾回收器是如何演进的？](https://toutiao.io/k/ngoia8o) ![](assets/new.png)  
 - [2020-11-19-从-react-native-的-js-和-native-通讯看看-JSI-是什么](https://toutiao.io/k/zsxr7qt) ![](assets/new.png)  
 - [2020-11-19-数据平台服务化建设（四）：-数据接入](https://toutiao.io/k/mgett3d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

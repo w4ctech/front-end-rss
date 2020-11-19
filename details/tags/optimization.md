@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-19 12:15:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 12:30:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -11,6 +11,7 @@
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-11-19-蝶式键盘有一个按键粘滞感，不知道是因为撒了点咖啡进去还是因为性能缺陷](https://www.v2ex.com/t/727275) 
 - [2020-11-19-MBP13-2015-卡顿，有什么办法优化性能吗？](https://www.v2ex.com/t/727265) 
 - [2020-11-19-M1-机器学习性能真的这么强？-堪比-1080ti？](https://www.v2ex.com/t/727236) 
 - [2020-11-19-新老手都值得看的-Flink-关键技术解析与优化实战](https://toutiao.io/k/ee2z21c) 

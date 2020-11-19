@@ -15849,6 +15849,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "昨天下午 18 点左右， mob 官方服务端升级导致 sdk 引起 app 崩溃",
+        "link": "https://www.v2ex.com/t/727071",
+        "date": "2020-11-19"
+      },
+      {
         "title": "淘宝上买了个 NFC 读写器，但是卖家给的软件火绒报病毒？！怎么安全运行？",
         "link": "https://www.v2ex.com/t/727067",
         "date": "2020-11-19"
@@ -16001,26 +16006,6 @@
       {
         "title": "话说为啥要搞微前端，我想了很久都没明白",
         "link": "https://www.v2ex.com/t/727023",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "感觉越来越有必要常用的账号有两个",
-        "link": "https://www.v2ex.com/t/727022",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "CrossOver 20.0.2 在 M1 macbook 上成功运行 win x86 程序",
-        "link": "https://www.v2ex.com/t/727021",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "是我偏见吗？我始终觉得还是 iphone12 的拍照和拍视频效果好于 P40",
-        "link": "https://www.v2ex.com/t/727020",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[社招] 你离进字节跳动就差这个内推了",
-        "link": "https://www.v2ex.com/t/727019",
         "date": "2020-11-19"
       }
     ]
@@ -16238,23 +16223,18 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-19"
       },
       {
@@ -16263,8 +16243,18 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-19"
       },
       {
@@ -16278,38 +16268,33 @@
         "date": "2020-11-19"
       },
       {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-19"
+      },
+      {
         "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
         "link": "https://toutiao.io/k/yy8cawz",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-19"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 04:36:37，:rocket: 更新条数: +3314， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 04:47:55，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-19-昨天下午-18-点左右，-mob-官方服务端升级导致-sdk-引起-app-崩溃](https://www.v2ex.com/t/727071) ![](assets/new.png)  
 - [2020-11-19-淘宝上买了个-NFC-读写器，但是卖家给的软件火绒报病毒？！怎么安全运行？](https://www.v2ex.com/t/727067) ![](assets/new.png)  
 - [2020-11-19-CrossOver-可以在-M1-Mac-上运行-x86-Windows-程序](https://www.v2ex.com/t/727064) ![](assets/new.png)  
 - [2020-11-19-游戏原画师-日韩画风-1-年工作经验求初级岗.](https://www.v2ex.com/t/727063) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-19-Vue-本地运行没事，-Build-之后运行发生页面卡死问题，找了一天了，没有查到问题](https://www.v2ex.com/t/727043) ![](assets/new.png)  
 - [2020-11-19-吃饭咋这难-为了吃-18-块钱的午餐，我省了-40-多块钱，最后只花了-18-块多一点](https://www.v2ex.com/t/727042) ![](assets/new.png)  
 - [2020-11-19-上海杨浦五角场沪东金融大厦办公室出租，-10-号线直达，近合生汇、万达广场](https://www.v2ex.com/t/727041) ![](assets/new.png)  
-- [2020-11-19-iPhone12-全系混用屏幕，微博上已经有人给出识别方法了。](https://www.v2ex.com/t/727039) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

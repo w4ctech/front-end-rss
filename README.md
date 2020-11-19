@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 14:26:28，:rocket: 更新条数: +3084， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 14:32:48，:rocket: 更新条数: +3079， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -453,11 +453,6 @@
 </summary>
 
 
-- [2020-11-19-前端--JS干货知识点-推荐收藏](https://juejin.im/post/6896807511584997384) ![](assets/new.png)  
-- [2020-11-19-字节跳动火山引擎加入-Linux-云原生计算基金会（CNCF）](https://juejin.im/post/6896809766510592008) ![](assets/new.png)  
-- [2020-11-19-Vue-自检](https://juejin.im/post/6896807654492995597) ![](assets/new.png)  
-- [2020-11-19-单工程多项目](https://juejin.im/post/6896797902996733959) ![](assets/new.png)  
-- [2020-11-18-React-实现简易的图片拖动排序](https://juejin.im/post/6896712416928169991) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +528,7 @@
 </summary>
 
 
+- [2020-11-19-不是，你们有试试双卡吗？](https://www.v2ex.com/t/727308) ![](assets/new.png)  
 - [2020-11-19-使用-Vue-前端、Rails-后端实现图片上传的功能](https://www.v2ex.com/t/727307) ![](assets/new.png)  
 - [2020-11-19-Big-Sur-升级后电量掉的很快](https://www.v2ex.com/t/727305) ![](assets/new.png)  
 - [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) ![](assets/new.png)  
@@ -552,7 +548,6 @@
 - [2020-11-19-不想用群晖了，因群晖更新会删除/root/目录文件和无法用自己信任的渠道安装应用到系统分区有感](https://www.v2ex.com/t/727282) ![](assets/new.png)  
 - [2020-11-19-升级-Big-Sur-后外接屏幕看不到消息通知，能听到声音？有人遇到没？](https://www.v2ex.com/t/727281) ![](assets/new.png)  
 - [2020-11-19-window.open-打开一个在线文档，默认的-title-是文件的-url-地址，如何修改该-title-为自己想要的内容？](https://www.v2ex.com/t/727280) ![](assets/new.png)  
-- [2020-11-19-控制中心是-Bug？还是就是这么设计的？](https://www.v2ex.com/t/727279) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

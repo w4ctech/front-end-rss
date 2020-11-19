@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 19:19:57，:rocket: 更新条数: +3317， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 19:33:05，:rocket: 更新条数: +3318， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-11-19-我又来了～我的中文博客文章被机器采集翻译成英文滴，翻译水平还行呢，有意思](https://www.v2ex.com/t/727346) ![](assets/new.png)  
 - [2020-11-19-test-又发错了，先删了](https://www.v2ex.com/t/727345) ![](assets/new.png)  
 - [2020-11-19-20201120-午夜俱乐部](https://www.v2ex.com/t/727344) ![](assets/new.png)  
 - [2020-11-19-Telegram-是如何兴起的？](https://www.v2ex.com/t/727343) ![](assets/new.png)  
@@ -572,7 +573,6 @@
 - [2020-11-19-求助，-Big-Sur-升级安装失败](https://www.v2ex.com/t/727326) ![](assets/new.png)  
 - [2020-11-19-vue3-的安装包那么大,-500-多-K,-不会很慢吗?](https://www.v2ex.com/t/727325) ![](assets/new.png)  
 - [2020-11-19-单纯-js-脚本方式能用那些前端框架吗？](https://www.v2ex.com/t/727323) ![](assets/new.png)  
-- [2020-11-19-棋魂播到-30-集，在我心里，不分国界，包含今年看过的美剧日剧，今年年度最佳。](https://www.v2ex.com/t/727322) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -621,8 +621,8 @@
 - [2020-11-19-postMessage-还能这样玩](https://toutiao.io/k/286vf6i) ![](assets/new.png)  
 - [2020-11-19-从无到有，支付路由系统升级打怪之路](https://toutiao.io/k/3dz260i) ![](assets/new.png)  
 - [2020-11-19-Docker-安全实践](https://toutiao.io/k/e8r4p6x) ![](assets/new.png)  
-- [2020-11-19-个人如何成长？兴趣驱动，选择与被选择的思考](https://toutiao.io/k/5j6qmgt) ![](assets/new.png)  
 - [2020-11-19-Elasticsearch-集群故障排查及修复指南](https://toutiao.io/k/nbiibv7) ![](assets/new.png)  
+- [2020-11-19-个人如何成长？兴趣驱动，选择与被选择的思考](https://toutiao.io/k/5j6qmgt) ![](assets/new.png)  
 - [2020-11-19-新老手都值得看的-Flink-关键技术解析与优化实战](https://toutiao.io/k/ee2z21c) ![](assets/new.png)  
 - [2020-11-19-硬核，这-3-款-IDE-插件让你的代码牢不可破](https://toutiao.io/k/wtbklhn) ![](assets/new.png)  
 - [2020-11-19-再聊-Blazor，它是否值得你花时间学习](https://toutiao.io/k/z1391vp) ![](assets/new.png)  

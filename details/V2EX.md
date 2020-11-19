@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-11-19 02:47:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 03:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-19-你有多少小米智能家居设备？](https://www.v2ex.com/t/727027) 
+- [2020-11-19-Macbook-Pro-219-磁盘不够用了，有什么扩展方式推荐？](https://www.v2ex.com/t/727024) 
+- [2020-11-19-话说为啥要搞微前端，我想了很久都没明白](https://www.v2ex.com/t/727023) 
+- [2020-11-19-感觉越来越有必要常用的账号有两个](https://www.v2ex.com/t/727022) 
+- [2020-11-19-CrossOver-20.0.2-在-M1-macbook-上成功运行-win-x86-程序](https://www.v2ex.com/t/727021) 
+- [2020-11-19-是我偏见吗？我始终觉得还是-iphone12-的拍照和拍视频效果好于-P40](https://www.v2ex.com/t/727020) 
+- [2020-11-19-社招-你离进字节跳动就差这个内推了](https://www.v2ex.com/t/727019) 
 - [2020-11-19-0202-年有没有手感超级棒的手机推荐？](https://www.v2ex.com/t/727017) 
 - [2020-11-19-豆瓣图书-API-停服了，最近开发一个图书数据库的微信小程序，图书数量有几十万本，通过-ISBN-调用-API-获取图书信息](https://www.v2ex.com/t/727016) 
 - [2020-11-19-怎样才能禁止弱智的雷蛇鼠标游戏软件自动弹出安装](https://www.v2ex.com/t/727014) 
@@ -31,8 +38,3 @@
 - [2020-11-19-现在是选择-nuc-黑苹果还是-Mac-mini](https://www.v2ex.com/t/726984) 
 - [2020-11-19-一件-T-恤引发的跨洋-Rust-程序员之间故事](https://www.v2ex.com/t/726981) 
 - [2020-11-19-2020-年了，大家用什么软件进行知识管理？](https://www.v2ex.com/t/726979) 
-- [2020-11-19-求助帖-minikube-addons-enable-ingress-卡住，设置-http_proxy/https_proxy-都不走代理](https://www.v2ex.com/t/726977) 
-- [2020-11-19-又让我做不相干的工作，该怎么办](https://www.v2ex.com/t/726975) 
-- [2020-11-19-Rootless-桌面的-Google-feed-突然可用](https://www.v2ex.com/t/726973) 
-- [2020-11-19-转售开发板-嵌入式开发-&-Linux-驱动学习-&-Android-开发学习开发板](https://www.v2ex.com/t/726971) 
-- [2020-11-19-2012-Mac-mini-16G-内存-能拿来干些什么事情](https://www.v2ex.com/t/726969) 

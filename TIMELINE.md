@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-19 14:32:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-19 14:36:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,11 @@
 - [【阮一峰的网络日志】2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html) 
 - [【阮一峰的网络日志】2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html) 
 - [【阮一峰的网络日志】2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
+- [【掘金前端】2020-11-19-前端--JS干货知识点-推荐收藏](https://juejin.im/post/6896807511584997384) 
+- [【掘金前端】2020-11-19-字节跳动火山引擎加入-Linux-云原生计算基金会（CNCF）](https://juejin.im/post/6896809766510592008) 
+- [【掘金前端】2020-11-19-Vue-自检](https://juejin.im/post/6896807654492995597) 
+- [【掘金前端】2020-11-19-单工程多项目](https://juejin.im/post/6896797902996733959) 
+- [【掘金前端】2020-11-18-React-实现简易的图片拖动排序](https://juejin.im/post/6896712416928169991) 
 - [【V2EX】2020-11-19-不是，你们有试试双卡吗？](https://www.v2ex.com/t/727308) 
 - [【V2EX】2020-11-19-使用-Vue-前端、Rails-后端实现图片上传的功能](https://www.v2ex.com/t/727307) 
 - [【V2EX】2020-11-19-Big-Sur-升级后电量掉的很快](https://www.v2ex.com/t/727305) 

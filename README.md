@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 14:32:48，:rocket: 更新条数: +3079， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 14:36:27，:rocket: 更新条数: +3084， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -453,6 +453,11 @@
 </summary>
 
 
+- [2020-11-19-前端--JS干货知识点-推荐收藏](https://juejin.im/post/6896807511584997384) ![](assets/new.png)  
+- [2020-11-19-字节跳动火山引擎加入-Linux-云原生计算基金会（CNCF）](https://juejin.im/post/6896809766510592008) ![](assets/new.png)  
+- [2020-11-19-Vue-自检](https://juejin.im/post/6896807654492995597) ![](assets/new.png)  
+- [2020-11-19-单工程多项目](https://juejin.im/post/6896797902996733959) ![](assets/new.png)  
+- [2020-11-18-React-实现简易的图片拖动排序](https://juejin.im/post/6896712416928169991) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

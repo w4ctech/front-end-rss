@@ -14486,10 +14486,36 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/juejin/category/frontend",
+    "rss": "https://rss.itggg.cn/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "link": "https://juejin.im/frontend",
+    "items": [
+      {
+        "title": "前端--JS干货知识点 推荐收藏",
+        "link": "https://juejin.im/post/6896807511584997384",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "字节跳动火山引擎加入 Linux 云原生计算基金会（CNCF）",
+        "link": "https://juejin.im/post/6896809766510592008",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "Vue 自检",
+        "link": "https://juejin.im/post/6896807654492995597",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "单工程多项目",
+        "link": "https://juejin.im/post/6896797902996733959",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "React 实现简易的图片拖动排序",
+        "link": "https://juejin.im/post/6896712416928169991",
+        "date": "2020-11-18"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/jskou/0",

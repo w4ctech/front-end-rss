@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-19 01:47:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 02:04:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-19-1password-年付家庭，招一人，年付-12-美元（约-80-左右），到期日-21/11/25](https://www.v2ex.com/t/726985) 
+- [2020-11-19-现在是选择-nuc-黑苹果还是-Mac-mini](https://www.v2ex.com/t/726984) 
+- [2020-11-19-一件-T-恤引发的跨洋-Rust-程序员之间故事](https://www.v2ex.com/t/726981) 
+- [2020-11-19-2020-年了，大家用什么软件进行知识管理？](https://www.v2ex.com/t/726979) 
+- [2020-11-19-求助帖-minikube-addons-enable-ingress-卡住，设置-http_proxy/https_proxy-都不走代理](https://www.v2ex.com/t/726977) 
+- [2020-11-19-又让我做不相干的工作，该怎么办](https://www.v2ex.com/t/726975) 
 - [2020-11-19-Rootless-桌面的-Google-feed-突然可用](https://www.v2ex.com/t/726973) 
 - [2020-11-19-转售开发板-嵌入式开发-&-Linux-驱动学习-&-Android-开发学习开发板](https://www.v2ex.com/t/726971) 
 - [2020-11-19-2012-Mac-mini-16G-内存-能拿来干些什么事情](https://www.v2ex.com/t/726969) 
@@ -32,11 +38,3 @@
 - [2020-11-19-刚买的-iPhone12-绿了，苹果能换货么？](https://www.v2ex.com/t/726939) 
 - [2020-11-19-有没有-HR-知道-BOSS-直聘的-HR-视角啊？](https://www.v2ex.com/t/726938) 
 - [2020-11-19-关于当前-Golang-在-Apple-M1-下的使用笔记，来自-Filippo-Valsorda-Go-Team-Security-Lead](https://www.v2ex.com/t/726937) 
-- [2020-11-19-备考知识分享](https://www.v2ex.com/t/726935) 
-- [2020-11-19-请教个问题：怎么写排版好看的邮件？](https://www.v2ex.com/t/726933) 
-- [2020-11-18-哪里可以用-btc-买苹果的产品？](https://www.v2ex.com/t/726931) 
-- [2020-11-18-分享一个翻译软件：聚合翻译](https://www.v2ex.com/t/726930) 
-- [2020-11-18-WebUI-的小伙伴急需一枚](https://www.v2ex.com/t/726929) 
-- [2020-11-18-关于-iPhone12-Pro-Max-近景对焦](https://www.v2ex.com/t/726928) 
-- [2020-11-18-Anker-的-hub/拓展坞有-2.4g-Wi-Fi-干扰的问题吗？](https://www.v2ex.com/t/726926) 
-- [2020-11-18-Big-Sur-在使用多屏时重启后顺序会错](https://www.v2ex.com/t/726925) 

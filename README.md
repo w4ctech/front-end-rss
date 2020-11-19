@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 01:47:50，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 02:04:50，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -473,10 +473,10 @@
 </summary>
 
 
+- [2020-11-18-BetterScroll2.0-TS类型推导实践](https://juejin.im/post/6896645702421020686) ![](assets/new.png)  
 - [2020-11-18-深入了解-Vue3-模板编译原理](https://juejin.im/post/6896641710538326030) ![](assets/new.png)  
 - [2020-11-18-jsliang-求职系列---18---本地存储](https://juejin.im/post/6896604375645585421) ![](assets/new.png)  
 - [2020-11-18-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://juejin.im/post/6896451677063544846) ![](assets/new.png)  
-- [2020-11-18-redux-thunk源码笔记](https://juejin.im/post/6896438096011739149) ![](assets/new.png)  
 - [2020-11-18-数据结构与算法学习之集合](https://juejin.im/post/6896436531125452813) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -553,6 +553,12 @@
 </summary>
 
 
+- [2020-11-19-1password-年付家庭，招一人，年付-12-美元（约-80-左右），到期日-21/11/25](https://www.v2ex.com/t/726985) ![](assets/new.png)  
+- [2020-11-19-现在是选择-nuc-黑苹果还是-Mac-mini](https://www.v2ex.com/t/726984) ![](assets/new.png)  
+- [2020-11-19-一件-T-恤引发的跨洋-Rust-程序员之间故事](https://www.v2ex.com/t/726981) ![](assets/new.png)  
+- [2020-11-19-2020-年了，大家用什么软件进行知识管理？](https://www.v2ex.com/t/726979) ![](assets/new.png)  
+- [2020-11-19-求助帖-minikube-addons-enable-ingress-卡住，设置-http_proxy/https_proxy-都不走代理](https://www.v2ex.com/t/726977) ![](assets/new.png)  
+- [2020-11-19-又让我做不相干的工作，该怎么办](https://www.v2ex.com/t/726975) ![](assets/new.png)  
 - [2020-11-19-Rootless-桌面的-Google-feed-突然可用](https://www.v2ex.com/t/726973) ![](assets/new.png)  
 - [2020-11-19-转售开发板-嵌入式开发-&-Linux-驱动学习-&-Android-开发学习开发板](https://www.v2ex.com/t/726971) ![](assets/new.png)  
 - [2020-11-19-2012-Mac-mini-16G-内存-能拿来干些什么事情](https://www.v2ex.com/t/726969) ![](assets/new.png)  
@@ -567,12 +573,6 @@
 - [2020-11-19-有那位大哥用过便携式的圆刚视频采集卡，小弟有问题咨询](https://www.v2ex.com/t/726957) ![](assets/new.png)  
 - [2020-11-19-话说为啥还会有人接盘-15-年的-mbp，买的人是什么心态嗷？有没有老铁理性探讨一下](https://www.v2ex.com/t/726956) ![](assets/new.png)  
 - [2020-11-19-在项目最忙上线的时候，选择离职是否不厚道？](https://www.v2ex.com/t/726955) ![](assets/new.png)  
-- [2020-11-19-TensorFlow-2-现已支持使用-macOS-上可用的-GPU-进行模型加速（包括-Apple-Silicon-M1）](https://www.v2ex.com/t/726954) ![](assets/new.png)  
-- [2020-11-19-3-个月过去了，-K30-至尊纪念版的拍照涂抹感还有没有救？](https://www.v2ex.com/t/726953) ![](assets/new.png)  
-- [2020-11-19-分享一篇文章：图解内存池内部结构，揭示避免内存碎片化的独门秘诀](https://www.v2ex.com/t/726951) ![](assets/new.png)  
-- [2020-11-19-Google-账号误删除活动历史](https://www.v2ex.com/t/726950) ![](assets/new.png)  
-- [2020-11-19-Java-开发有必要花接近一个月的工资去买一台-13-寸的-mbp-吗？](https://www.v2ex.com/t/726949) ![](assets/new.png)  
-- [2020-11-19-接下来这一两周，从上海去别的城市需要做核酸检测吗](https://www.v2ex.com/t/726947) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -584,6 +584,7 @@
 </summary>
 
 
+- [2020-11-19-4982亿背后的前端技术-2020天猫双11前端体系大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13964&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778394%3Futm_content%3Dg_1000207219%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-19-Serverless在编程教育中的实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13963&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778418%3Futm_content%3Dg_1000206840%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-19-双11还能创造什么新技术？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13962&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778396%3Futm_content%3Dg_1000206571%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-19-再谈领域驱动设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13961&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -603,7 +604,6 @@
 - [2020-11-19-盒马新零售基于DataWorks搭建数据中台的实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13947&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778172%3Futm_content%3Dg_1000205296%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-19-Android-开发都有哪些好书值得一读？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13946&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV9CI-RGSG0JkTPKwxLHzeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-19-Android-Studio-4.1-新特性详解-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13945&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1dMo22SK_6pTpsYMgl7LvQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-19-探索-Glide-原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13944&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZjKkTJ5GpP8e2BnttiJEiA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -619,22 +619,22 @@
 - [2020-11-19-分布式数据网格-Data-Mesh](https://toutiao.io/k/p6zp7x5) ![](assets/new.png)  
 - [2020-11-19-工具-|-蚂蚁集团开源的，支付宝开放平台服务端-SDK](https://toutiao.io/k/g3q6fk5) ![](assets/new.png)  
 - [2020-11-19-从无到有，支付路由系统升级打怪之路](https://toutiao.io/k/3dz260i) ![](assets/new.png)  
-- [2020-11-19-个人如何成长？兴趣驱动，选择与被选择的思考](https://toutiao.io/k/5j6qmgt) ![](assets/new.png)  
 - [2020-11-19-postMessage-还能这样玩](https://toutiao.io/k/286vf6i) ![](assets/new.png)  
+- [2020-11-19-个人如何成长？兴趣驱动，选择与被选择的思考](https://toutiao.io/k/5j6qmgt) ![](assets/new.png)  
 - [2020-11-19-Elasticsearch-集群故障排查及修复指南](https://toutiao.io/k/nbiibv7) ![](assets/new.png)  
 - [2020-11-19-新老手都值得看的-Flink-关键技术解析与优化实战](https://toutiao.io/k/ee2z21c) ![](assets/new.png)  
 - [2020-11-19-再聊-Blazor，它是否值得你花时间学习](https://toutiao.io/k/z1391vp) ![](assets/new.png)  
 - [2020-11-19-Objective-C-的元组实现-JDTuple](https://toutiao.io/k/trnzy7k) ![](assets/new.png)  
-- [2020-11-19-硬核，这-3-款-IDE-插件让你的代码牢不可破](https://toutiao.io/k/wtbklhn) ![](assets/new.png)  
 - [2020-11-19-Docker-安全实践](https://toutiao.io/k/e8r4p6x) ![](assets/new.png)  
+- [2020-11-19-硬核，这-3-款-IDE-插件让你的代码牢不可破](https://toutiao.io/k/wtbklhn) ![](assets/new.png)  
 - [2020-11-19-如何在公司项目中使用-WebSocke（入门实战指南）](https://toutiao.io/k/dg32a9e) ![](assets/new.png)  
 - [2020-11-19-简单分析下-Node.js-关于集群的那些事](https://toutiao.io/k/p9mn466) ![](assets/new.png)  
 - [2020-11-19-搜狐智能媒体数据仓库体系建设实践](https://toutiao.io/k/zwe8iqv) ![](assets/new.png)  
-- [2020-11-19-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-19-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-19-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
 - [2020-11-19-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
-- [2020-11-19-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-19-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-19-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-19-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-19-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

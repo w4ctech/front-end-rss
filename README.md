@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 05:47:59，:rocket: 更新条数: +3314， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 06:04:34，:rocket: 更新条数: +3082， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -376,26 +376,6 @@
 </summary>
 
 
-- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
-- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
-- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
-- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
-- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
-- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
-- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
-- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
-- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
-- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
-- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
-- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
-- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
-- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
-- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,7 +453,7 @@
 </summary>
 
 
-- [2020-11-18-理解-ECMAScript-规范（3）](https://juejin.im/post/6896664284328263694) ![](assets/new.png)  
+- [2020-11-18-实战|使用CSS3-Cubic-Bezier创建动画链接悬停效果](https://juejin.im/post/6896707010000060429) ![](assets/new.png)  
 - [2020-11-18-🤸‍♂️👩‍💻-使用-Serverless-生成你的GIT代码年历！-|-🏆-技术专题第七期征文](https://juejin.im/post/6896455317060583432) ![](assets/new.png)  
 - [2020-11-18-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://juejin.im/post/6896451677063544846) ![](assets/new.png)  
 - [2020-11-18-数据结构与算法学习之集合](https://juejin.im/post/6896436531125452813) ![](assets/new.png)  
@@ -553,6 +533,18 @@
 </summary>
 
 
+- [2020-11-19-有一个不太讲究的想法](https://www.v2ex.com/t/727106) ![](assets/new.png)  
+- [2020-11-19-百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推,实时反馈~~~~~~~~](https://www.v2ex.com/t/727105) ![](assets/new.png)  
+- [2020-11-19-一个关于论坛类平台后台数据的初级问题](https://www.v2ex.com/t/727104) ![](assets/new.png)  
+- [2020-11-19-看到-Apple，-M1-被攻破了，是不是还是等-M2-稳妥一点。](https://www.v2ex.com/t/727103) ![](assets/new.png)  
+- [2020-11-19-在网站-503-概率极大的情况下，如何缓存偶然成功加载的网页文件？](https://www.v2ex.com/t/727102) ![](assets/new.png)  
+- [2020-11-19-爱思序列号检测-iPhone-12-屏幕厂商的办法,-应该是假的](https://www.v2ex.com/t/727101) ![](assets/new.png)  
+- [2020-11-19-Figma-现在比-Sketch-强很多吗？-V2-的设计师们能评价一下吗？](https://www.v2ex.com/t/727100) ![](assets/new.png)  
+- [2020-11-19-Siri-不够聪明，用"快捷指令"来拯救](https://www.v2ex.com/t/727099) ![](assets/new.png)  
+- [2020-11-19-react-redux-是推荐用传统的爷父子传参方式，还是-hooks-的方式发送-acton？](https://www.v2ex.com/t/727098) ![](assets/new.png)  
+- [2020-11-19-我们这样定义-api，大家觉得如何？](https://www.v2ex.com/t/727096) ![](assets/new.png)  
+- [2020-11-19-m1-芯片电脑-16gb-内存的发货时间遥遥无期……](https://www.v2ex.com/t/727095) ![](assets/new.png)  
+- [2020-11-19-接那个说“讨论的时候不要说缩写”的帖子，问一下有多少人看到-CS-的时候不知道是-Computer-Science-的？](https://www.v2ex.com/t/727094) ![](assets/new.png)  
 - [2020-11-19-win10-下安装-win10-虚拟机超慢疑似锁频?](https://www.v2ex.com/t/727093) ![](assets/new.png)  
 - [2020-11-19-github-工具站-githubmemory-上线啦](https://www.v2ex.com/t/727092) ![](assets/new.png)  
 - [2020-11-19-搭建一个基于-datatable-风格的网址导航](https://www.v2ex.com/t/727090) ![](assets/new.png)  
@@ -561,18 +553,6 @@
 - [2020-11-19-iPhone12-我遇到的问题](https://www.v2ex.com/t/727085) ![](assets/new.png)  
 - [2020-11-19-youtube-印度-premium-车，美区账号，五个坑都空着](https://www.v2ex.com/t/727084) ![](assets/new.png)  
 - [2020-11-19-举报诈骗电话和网站，我用-12321-和-96110-错了么?](https://www.v2ex.com/t/727082) ![](assets/new.png)  
-- [2020-11-19-求助，升级了电信-1000M-宽带，却始终跑不满？](https://www.v2ex.com/t/727081) ![](assets/new.png)  
-- [2020-11-19-今天下单-MBP13-i5+32GB+512GB-用来-Golang/-Python-开发机](https://www.v2ex.com/t/727080) ![](assets/new.png)  
-- [2020-11-19-给公司修好两个显示器，收多少钱合适？](https://www.v2ex.com/t/727079) ![](assets/new.png)  
-- [2020-11-19-AMD-黑苹果可以完美升-Big-Sur-了](https://www.v2ex.com/t/727078) ![](assets/new.png)  
-- [2020-11-19-口罩可以防电脑辐射吗？](https://www.v2ex.com/t/727077) ![](assets/new.png)  
-- [2020-11-19-不懂就问，贷款买房子，贷款年限长好还是短好？](https://www.v2ex.com/t/727076) ![](assets/new.png)  
-- [2020-11-19-深圳哪些路段适合新手练车？](https://www.v2ex.com/t/727074) ![](assets/new.png)  
-- [2020-11-19-自己总结的几条职场提升干货，大佬轻拍！](https://www.v2ex.com/t/727073) ![](assets/new.png)  
-- [2020-11-19-昨天下午-18-点左右，-mob-官方服务端升级导致-sdk-引起-app-崩溃](https://www.v2ex.com/t/727071) ![](assets/new.png)  
-- [2020-11-19-淘宝上买了个-NFC-读写器，但是卖家给的软件火绒报病毒？！怎么安全运行？](https://www.v2ex.com/t/727067) ![](assets/new.png)  
-- [2020-11-19-CrossOver-可以在-M1-Mac-上运行-x86-Windows-程序](https://www.v2ex.com/t/727064) ![](assets/new.png)  
-- [2020-11-19-游戏原画师-日韩画风-1-年工作经验求初级岗.](https://www.v2ex.com/t/727063) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

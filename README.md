@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 12:49:04，:rocket: 更新条数: +3076， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 13:04:09，:rocket: 更新条数: +3085， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -355,6 +355,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,6 +533,9 @@
 </summary>
 
 
+- [2020-11-19-出售-Apple-企业账号一枚，-qq:914825333](https://www.v2ex.com/t/727285) ![](assets/new.png)  
+- [2020-11-19-阿里巴巴内推上海/杭州前端/后端/产品/数据都招](https://www.v2ex.com/t/727284) ![](assets/new.png)  
+- [2020-11-19-不想用群晖了，因群晖更新会删除/root/目录文件和无法用自己信任的渠道安装应用到系统分区有感](https://www.v2ex.com/t/727282) ![](assets/new.png)  
 - [2020-11-19-升级-Big-Sur-后外接屏幕看不到消息通知，能听到声音？有人遇到没？](https://www.v2ex.com/t/727281) ![](assets/new.png)  
 - [2020-11-19-window.open-打开一个在线文档，默认的-title-是文件的-url-地址，如何修改该-title-为自己想要的内容？](https://www.v2ex.com/t/727280) ![](assets/new.png)  
 - [2020-11-19-控制中心是-Bug？还是就是这么设计的？](https://www.v2ex.com/t/727279) ![](assets/new.png)  
@@ -540,9 +553,6 @@
 - [2020-11-19-一加的-Wrap-充电器有一点迷](https://www.v2ex.com/t/727263) ![](assets/new.png)  
 - [2020-11-19-产品经理被研发要求设计好数据库字段](https://www.v2ex.com/t/727261) ![](assets/new.png)  
 - [2020-11-19-jdk-8-怎么和-jdk-15.1-差距这么大？](https://www.v2ex.com/t/727260) ![](assets/new.png)  
-- [2020-11-19-iPhone12-pro-max-电脑预约一直卡在注册码页面](https://www.v2ex.com/t/727259) ![](assets/new.png)  
-- [2020-11-19-Go-协程池解析~通俗易懂](https://www.v2ex.com/t/727257) ![](assets/new.png)  
-- [2020-11-19-自译-Inkdrop-我是如何通过一个-Markdown-编辑器获得-$1300/月？](https://www.v2ex.com/t/727255) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -616,6 +626,9 @@
 </summary>
 
 
+- [2020-11-19-每日攻防资讯简报Nov.19th](https://sec.thief.one/article_content?a_id=116b15d42b9aa1b688d9e746f0ca8bb9) ![](assets/new.png)  
+- [2020-11-19-【新经济·新引擎】今年前三季度新型消费快速发展-科技赋能满足新需...](https://sec.thief.one/article_content?a_id=88d35c6ccf18a63aa8205bfb072f8fed) ![](assets/new.png)  
+- [2020-11-19-预告|2020中国网络安全产业高峰论坛即将盛启](https://sec.thief.one/article_content?a_id=707419a5419ae6b3067665a7ebd37f95) ![](assets/new.png)  
 - [2020-11-19-奇安信独家技术支撑!2020年全国电信和互联网行业网安管理职业技能...](https://sec.thief.one/article_content?a_id=cd78d9b0ad089d4839ad502673b61949) ![](assets/new.png)  
 - [2020-11-19-【漏洞通告】Drupal远程代码执行漏洞CVE-2020-13671](https://sec.thief.one/article_content?a_id=48a6f236702e56cd09f86577cca9d41c) ![](assets/new.png)  
 - [2020-11-19-AIoT安全峰会议题回顾|等保2.0-物联网安全扩展要求解读](https://sec.thief.one/article_content?a_id=f14bc1c353b9247643ba59b41b6639ae) ![](assets/new.png)  
@@ -633,9 +646,6 @@
 - [2020-11-19-“断卡行动”重拳出击,银行如何用技术手段响应监管要求、遏止黑产...](https://sec.thief.one/article_content?a_id=f0027a102edcb1b0344b6220f3fdf70f) ![](assets/new.png)  
 - [2020-11-19-2020云安全联盟大中华区大会将于12月4日开幕](https://sec.thief.one/article_content?a_id=93c6bea7e3a3708c52589dafa6c25434) ![](assets/new.png)  
 - [2020-11-19-DSRC助力-|-报名开始!补天白帽城市沙龙-成都站](https://sec.thief.one/article_content?a_id=2077564af5bb547ca67f7bf298fcdff8) ![](assets/new.png)  
-- [2020-11-19-K神手札:比特币上蹿下跳意欲何为?](https://sec.thief.one/article_content?a_id=b5489fead563e5424c8202925b0ab40f) ![](assets/new.png)  
-- [2020-11-19-警惕:近期针对电商消费者发起的“假面”攻击频发](https://sec.thief.one/article_content?a_id=f5d9a295191ca3fba61bafc34eb2bd2d) ![](assets/new.png)  
-- [2020-11-19-从XXE到AWS密钥泄露](https://sec.thief.one/article_content?a_id=5ea2cb214dd413d8934ee5039b8418c1) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

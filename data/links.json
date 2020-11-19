@@ -14384,7 +14384,58 @@
   {
     "rss": "http://jdc.jd.com/feed",
     "title": "京东设计中心",
-    "items": [],
+    "items": [
+      {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "用户说的都是真的吗？这些陷阱要避开",
+        "link": "https://jdc.jd.com/archives/212987",
+        "date": "2019-06-28"
+      },
+      {
+        "title": "京东风格的移动端Vue组件库NutUI2.0来啦",
+        "link": "https://jdc.jd.com/archives/212979",
+        "date": "2019-03-15"
+      },
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
+      {
+        "title": "用户访谈——哪些原则简单却有效",
+        "link": "https://jdc.jd.com/archives/212927",
+        "date": "2019-01-24"
+      },
+      {
+        "title": "体现工匠精神的Resource Hints",
+        "link": "https://jdc.jd.com/archives/212917",
+        "date": "2018-12-29"
+      },
+      {
+        "title": "HTML5 Audio的兼容性问题和优化",
+        "link": "https://jdc.jd.com/archives/212874",
+        "date": "2018-12-26"
+      },
+      {
+        "title": "一个表情引发的思考",
+        "link": "https://jdc.jd.com/archives/212870",
+        "date": "2018-12-26"
+      }
+    ],
     "link": "https://jdc.jd.com"
   },
   {
@@ -14642,6 +14693,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "出售 Apple 企业账号一枚， qq:914825333",
+        "link": "https://www.v2ex.com/t/727285",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[阿里巴巴内推][上海/杭州]前端/后端/产品/数据都招",
+        "link": "https://www.v2ex.com/t/727284",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "不想用群晖了，因群晖更新会删除/root/目录文件和无法用自己信任的渠道安装应用到系统分区有感",
+        "link": "https://www.v2ex.com/t/727282",
+        "date": "2020-11-19"
+      },
+      {
         "title": "升级 Big Sur 后外接屏幕看不到消息通知，能听到声音？有人遇到没？",
         "link": "https://www.v2ex.com/t/727281",
         "date": "2020-11-19"
@@ -14809,26 +14875,6 @@
       {
         "title": "请问 macOS 内存占比中 ‘其它’ 占比怎么清除",
         "link": "https://www.v2ex.com/t/727237",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "M1 机器学习性能真的这么强？ 堪比 1080ti？",
-        "link": "https://www.v2ex.com/t/727236",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "请问一下， M1 可以正常使用 webstorm 和 sketch 吗",
-        "link": "https://www.v2ex.com/t/727235",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "最近在 boss 直聘上找深圳这边的软件测试，请问有哪些公司是需要避坑的吗？",
-        "link": "https://www.v2ex.com/t/727233",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "IBM 分析：苹果用 M1 芯片， 1 年可省 25 亿美元硬件成本",
-        "link": "https://www.v2ex.com/t/727232",
         "date": "2020-11-19"
       }
     ]
@@ -15046,8 +15092,8 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
         "date": "2020-11-19"
       },
       {
@@ -15056,38 +15102,23 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
-        "date": "2020-11-19"
-      },
-      {
         "title": "[推荐] 面试过 200 人的经验，都在这里了",
         "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-19"
       },
       {
@@ -15096,18 +15127,23 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-19"
       },
       {
@@ -15116,8 +15152,18 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-19"
       }
     ]
@@ -15127,6 +15173,21 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "每日攻防资讯简报[Nov.19th]",
+        "link": "https://sec.thief.one/article_content?a_id=116b15d42b9aa1b688d9e746f0ca8bb9",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "【新经济·新引擎】今年前三季度新型消费快速发展 科技赋能满足新需...",
+        "link": "https://sec.thief.one/article_content?a_id=88d35c6ccf18a63aa8205bfb072f8fed",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "预告|2020中国网络安全产业高峰论坛即将盛启",
+        "link": "https://sec.thief.one/article_content?a_id=707419a5419ae6b3067665a7ebd37f95",
+        "date": "2020-11-19"
+      },
       {
         "title": "奇安信独家技术支撑!2020年全国电信和互联网行业网安管理职业技能...",
         "link": "https://sec.thief.one/article_content?a_id=cd78d9b0ad089d4839ad502673b61949",
@@ -15610,21 +15671,6 @@
       {
         "title": "第九届中国创新创业大赛全国总决赛在杭州圆满落幕",
         "link": "https://sec.thief.one/article_content?a_id=3c24b61eab30dce825d9431cac87b4a1",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "CVE-2020-25705/SAD DNS:DNS缓存投毒攻击",
-        "link": "https://sec.thief.one/article_content?a_id=ac9748667219d27699cfea22383bc746",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "国舜股份强势入选《CCSIP 2020中国网络安全产业全景图》9大领域14...",
-        "link": "https://sec.thief.one/article_content?a_id=afbc9ae52d0ebe1b43c6e74a19868444",
-        "date": "2020-11-17"
-      },
-      {
-        "title": "CVE-2020-13957 Apache Solr 未授权上传漏洞",
-        "link": "https://sec.thief.one/article_content?a_id=2657c4aaf32364364d0766a21cae46a1",
         "date": "2020-11-17"
       }
     ]

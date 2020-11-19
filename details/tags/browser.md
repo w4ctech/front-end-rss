@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-19 12:49:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 13:04:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,6 +27,7 @@
 - [2020-11-19-在小米-8-上用-chrome-打开-V2EX-会导致手机的护眼模式被关闭，大家会吗？](https://www.v2ex.com/t/727269) 
 - [2020-11-19-postMessage-还能这样玩](https://toutiao.io/k/286vf6i) 
 - [2020-11-19-Docker-安全实践](https://toutiao.io/k/e8r4p6x) 
+- [2020-11-19-预告|2020中国网络安全产业高峰论坛即将盛启](https://sec.thief.one/article_content?a_id=707419a5419ae6b3067665a7ebd37f95) 
 - [2020-11-19-AIoT安全峰会议题回顾|等保2.0-物联网安全扩展要求解读](https://sec.thief.one/article_content?a_id=f14bc1c353b9247643ba59b41b6639ae) 
 - [2020-11-19-新基建碰撞安全之道,红客联盟对上绿色兵团?-|-INSEC-WORLD-倒...](https://sec.thief.one/article_content?a_id=45f8a05e6d1a18563dec336b8fdce140) 
 - [2020-11-19-2020京麒网络安全大会议程发布,你想看的都在这里!](https://sec.thief.one/article_content?a_id=72eb5a81aef83a1cc1cbc5595005dd6d) 
@@ -52,5 +53,3 @@
 - [2020-11-17-绿盟科技全力护航2020电力行业网络安全攻防邀请赛](https://sec.thief.one/article_content?a_id=2e0de21cfe08f99a08e8dd5b1cd39748) 
 - [2020-11-17-AIoT安全峰会议题回顾|光明守卫:MIUI12全副武装的隐私保护](https://sec.thief.one/article_content?a_id=5194cd48d9e492daa9c9dd74c463a9c9) 
 - [2020-11-17-滴滴安全应急响应中心致谢小米安全团队](https://sec.thief.one/article_content?a_id=be71507b7d74de522526a7c25ce55956) 
-- [2020-11-17-CVE-2020-25705/SAD-DNS:DNS缓存投毒攻击](https://sec.thief.one/article_content?a_id=ac9748667219d27699cfea22383bc746) 
-- [2020-11-17-国舜股份强势入选《CCSIP-2020中国网络安全产业全景图》9大领域14...](https://sec.thief.one/article_content?a_id=afbc9ae52d0ebe1b43c6e74a19868444) 

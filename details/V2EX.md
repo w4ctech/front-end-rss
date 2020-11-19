@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-11-19 07:11:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 07:22:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-19-M1-的-Mac-以后系统降级。。。真的能行得通么](https://www.v2ex.com/t/727145) 
+- [2020-11-19-办宽带被电信内鬼薅羊毛了，各位注意一下](https://www.v2ex.com/t/727144) 
+- [2020-11-19-阿里云-idea-插件卡死了](https://www.v2ex.com/t/727143) 
 - [2020-11-19-如何迁移老-Mac-的-QQ-聊天记录到-M1-MAC?](https://www.v2ex.com/t/727141) 
 - [2020-11-19-有没有散热合理、空载时键盘不烫的办公笔记本电脑？](https://www.v2ex.com/t/727140) 
 - [2020-11-19-苹果-M1-芯片-Mac-成功运行-Windows-应用](https://www.v2ex.com/t/727139) 
@@ -41,7 +44,3 @@
 - [2020-11-19-Siri-不够聪明，用"快捷指令"来拯救](https://www.v2ex.com/t/727099) 
 - [2020-11-19-react-redux-是推荐用传统的爷父子传参方式，还是-hooks-的方式发送-acton？](https://www.v2ex.com/t/727098) 
 - [2020-11-19-我们这样定义-api，大家觉得如何？](https://www.v2ex.com/t/727096) 
-- [2020-11-19-m1-芯片电脑-16gb-内存的发货时间遥遥无期……](https://www.v2ex.com/t/727095) 
-- [2020-11-19-接那个说“讨论的时候不要说缩写”的帖子，问一下有多少人看到-CS-的时候不知道是-Computer-Science-的？](https://www.v2ex.com/t/727094) 
-- [2020-11-19-win10-下安装-win10-虚拟机超慢疑似锁频?](https://www.v2ex.com/t/727093) 
-- [2020-11-19-github-工具站-githubmemory-上线啦](https://www.v2ex.com/t/727092) 

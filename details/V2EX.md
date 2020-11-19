@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-11-19 13:47:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 14:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) 
+- [2020-11-19-hmm，-YouTube-港区车](https://www.v2ex.com/t/727301) 
+- [2020-11-19-广州/苏州高性能计算-HPC-Linux-运维-支持全球客户](https://www.v2ex.com/t/727300) 
+- [2020-11-19-下单了自己买的第一台-mac-m1-air-16g-512g](https://www.v2ex.com/t/727299) 
+- [2020-11-19-请问有没有了解采用动捕、面捕、文本-AI-技术-驱动-3D-角色-实现虚拟模型互动深圳团队自荐或推荐呢？](https://www.v2ex.com/t/727298) 
 - [2020-11-19-AWS-Lightsail-重启失败，控制台里面看不到实例状态](https://www.v2ex.com/t/727295) 
 - [2020-11-19-Awesome-Open-Source-这个网站有大佬用过吗？咨询一下问题](https://www.v2ex.com/t/727294) 
 - [2020-11-19-买了才几天的-u2720q-显示异常，请问这种情况多见么？](https://www.v2ex.com/t/727292) 
@@ -36,9 +41,3 @@
 - [2020-11-19-Go-协程池解析~通俗易懂](https://www.v2ex.com/t/727257) 
 - [2020-11-19-自译-Inkdrop-我是如何通过一个-Markdown-编辑器获得-$1300/月？](https://www.v2ex.com/t/727255) 
 - [2020-11-19-这两天-2018MacBook-pro-cpu-疯狂转](https://www.v2ex.com/t/727254) 
-- [2020-11-19-做好事不留名挺难的](https://www.v2ex.com/t/727253) 
-- [2020-11-19-深圳-Wisers-慧科-外资，大数据+AI，可经常远程办公，-20-40K/月，招聘-React-前端开发-..](https://www.v2ex.com/t/727251) 
-- [2020-11-19-请问为什么-boss-直聘上有一些公司明显主营业务不是游戏也会招聘游戏测试？](https://www.v2ex.com/t/727249) 
-- [2020-11-19-很好，没有生气☺](https://www.v2ex.com/t/727248) 
-- [2020-11-19-我猜这里有很多写爬虫的高手。请教以下，知道哪里能获得国内主要高速公路、国道的车辆通行数据信息么？](https://www.v2ex.com/t/727247) 
-- [2020-11-19-iCloud-同步照片特别慢，可以关掉-IPv6-试试](https://www.v2ex.com/t/727246) 

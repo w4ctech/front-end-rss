@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 13:47:50，:rocket: 更新条数: +3086， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 14:04:45，:rocket: 更新条数: +3085， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) ![](assets/new.png)  
+- [2020-11-19-hmm，-YouTube-港区车](https://www.v2ex.com/t/727301) ![](assets/new.png)  
+- [2020-11-19-广州/苏州高性能计算-HPC-Linux-运维-支持全球客户](https://www.v2ex.com/t/727300) ![](assets/new.png)  
+- [2020-11-19-下单了自己买的第一台-mac-m1-air-16g-512g](https://www.v2ex.com/t/727299) ![](assets/new.png)  
+- [2020-11-19-请问有没有了解采用动捕、面捕、文本-AI-技术-驱动-3D-角色-实现虚拟模型互动深圳团队自荐或推荐呢？](https://www.v2ex.com/t/727298) ![](assets/new.png)  
 - [2020-11-19-AWS-Lightsail-重启失败，控制台里面看不到实例状态](https://www.v2ex.com/t/727295) ![](assets/new.png)  
 - [2020-11-19-Awesome-Open-Source-这个网站有大佬用过吗？咨询一下问题](https://www.v2ex.com/t/727294) ![](assets/new.png)  
 - [2020-11-19-买了才几天的-u2720q-显示异常，请问这种情况多见么？](https://www.v2ex.com/t/727292) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-19-控制中心是-Bug？还是就是这么设计的？](https://www.v2ex.com/t/727279) ![](assets/new.png)  
 - [2020-11-19-5500M-的-MacBook-Pro-外接显示屏看-Netflix-居然会掉帧](https://www.v2ex.com/t/727278) ![](assets/new.png)  
 - [2020-11-19-蝶式键盘有一个按键粘滞感，不知道是因为撒了点咖啡进去还是因为性能缺陷](https://www.v2ex.com/t/727275) ![](assets/new.png)  
-- [2020-11-19-微信视频的自动美颜无法关闭吗？](https://www.v2ex.com/t/727274) ![](assets/new.png)  
-- [2020-11-19-这种国内-app-用-Apple-id-登陆，为什么随机生成的邮箱还是自己的邮箱？](https://www.v2ex.com/t/727273) ![](assets/new.png)  
-- [2020-11-19-我有一个猎头电话黑名单，怎么导入到-iPhone-中？](https://www.v2ex.com/t/727272) ![](assets/new.png)  
-- [2020-11-19-macOS-风格的终端截图和录屏都是怎么做到的？](https://www.v2ex.com/t/727271) ![](assets/new.png)  
-- [2020-11-19-萌新小白，打算入坑-nas，求指导](https://www.v2ex.com/t/727270) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -598,8 +598,8 @@
 - [2020-11-19-你可能也会掉进这个简单的-String-的坑](https://toutiao.io/k/sx3bbfh) ![](assets/new.png)  
 - [2020-11-19-分布式数据网格-Data-Mesh](https://toutiao.io/k/p6zp7x5) ![](assets/new.png)  
 - [2020-11-19-工具-|-蚂蚁集团开源的，支付宝开放平台服务端-SDK](https://toutiao.io/k/g3q6fk5) ![](assets/new.png)  
-- [2020-11-19-从无到有，支付路由系统升级打怪之路](https://toutiao.io/k/3dz260i) ![](assets/new.png)  
 - [2020-11-19-postMessage-还能这样玩](https://toutiao.io/k/286vf6i) ![](assets/new.png)  
+- [2020-11-19-从无到有，支付路由系统升级打怪之路](https://toutiao.io/k/3dz260i) ![](assets/new.png)  
 - [2020-11-19-Docker-安全实践](https://toutiao.io/k/e8r4p6x) ![](assets/new.png)  
 - [2020-11-19-个人如何成长？兴趣驱动，选择与被选择的思考](https://toutiao.io/k/5j6qmgt) ![](assets/new.png)  
 - [2020-11-19-Elasticsearch-集群故障排查及修复指南](https://toutiao.io/k/nbiibv7) ![](assets/new.png)  

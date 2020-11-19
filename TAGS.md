@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-19 13:47:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 14:04:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -40,7 +40,6 @@
 
 
 - [【掘金前端】React-实现简易的图片拖动排序](https://juejin.im/post/6896712416928169991)
-- [【V2EX】深圳-Wisers-慧科-外资，大数据+AI，可经常远程办公，-20-40K/月，招聘-React-前端开发-..](https://www.v2ex.com/t/727251)
 - [【开发者头条】从-react-native-的-js-和-native-通讯看看-JSI-是什么](https://toutiao.io/k/zsxr7qt)
 - [......【查看更多】......](./details/tags/react.md)
 
@@ -165,7 +164,6 @@
 
 
 
-- [【V2EX】请问为什么-boss-直聘上有一些公司明显主营业务不是游戏也会招聘游戏测试？](https://www.v2ex.com/t/727249)
 - [【安全热点】IBM获得针对多人游戏内交易的拟议区块链共识专利](https://sec.thief.one/article_content?a_id=ea211fafce3a3d954f88bbcbcf047ede)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -245,6 +243,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/)
+- [【V2EX】请问有没有了解采用动捕、面捕、文本-AI-技术-驱动-3D-角色-实现虚拟模型互动深圳团队自荐或推荐呢？](https://www.v2ex.com/t/727298)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -301,9 +300,11 @@
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】广州/苏州高性能计算-HPC-Linux-运维-支持全球客户](https://www.v2ex.com/t/727300)
 - [【V2EX】蝶式键盘有一个按键粘滞感，不知道是因为撒了点咖啡进去还是因为性能缺陷](https://www.v2ex.com/t/727275)
 - [【V2EX】MBP13-2015-卡顿，有什么办法优化性能吗？](https://www.v2ex.com/t/727265)
 - [【开发者头条】新老手都值得看的-Flink-关键技术解析与优化实战](https://toutiao.io/k/ee2z21c)
+- [【开发者头条】推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad)
 - [【安全热点】山东大学高性能计算云平台初体验](https://sec.thief.one/article_content?a_id=5c9c329650d623b299b047d78c38d52f)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -375,8 +376,8 @@
 
 
 
+- [【V2EX】在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302)
 - [【开发者头条】看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o)
-- [【开发者头条】推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 03:21:45，:rocket: 更新条数: +3313， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 03:32:54，:rocket: 更新条数: +3316， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,7 +553,16 @@
 </summary>
 
 
-- [2020-11-19-npm-cli-执行命令的时间过长怎么解？](https://www.v2ex.com/t/727033) ![](assets/new.png)  
+- [2020-11-19-Vue-本地运行没事，-Build-之后运行发生页面卡死问题，找了一天了，没有查到问题](https://www.v2ex.com/t/727043) ![](assets/new.png)  
+- [2020-11-19-吃饭咋这难-为了吃-18-块钱的午餐，我省了-40-多块钱，最后只花了-18-块多一点](https://www.v2ex.com/t/727042) ![](assets/new.png)  
+- [2020-11-19-上海杨浦五角场沪东金融大厦办公室出租，-10-号线直达，近合生汇、万达广场](https://www.v2ex.com/t/727041) ![](assets/new.png)  
+- [2020-11-19-iPhone12-全系混用屏幕，微博上已经有人给出识别方法了。](https://www.v2ex.com/t/727039) ![](assets/new.png)  
+- [2020-11-19-the-unarchiver-已经不支持-mojave-了?](https://www.v2ex.com/t/727038) ![](assets/new.png)  
+- [2020-11-19-有没有已入手-12mini-绿的朋友，网上信息很少](https://www.v2ex.com/t/727037) ![](assets/new.png)  
+- [2020-11-19-golang-关于-nil-的问题](https://www.v2ex.com/t/727036) ![](assets/new.png)  
+- [2020-11-19-请问下像这种网站里面的抖音、快手数据是怎么获取的呢?](https://www.v2ex.com/t/727035) ![](assets/new.png)  
+- [2020-11-19-为什么-iPad-不能运行-macos](https://www.v2ex.com/t/727034) ![](assets/new.png)  
+- [2020-11-19-运行-npm-config-set-registry-花了-12-分-25-秒，怎么解？](https://www.v2ex.com/t/727033) ![](assets/new.png)  
 - [2020-11-19-Google-美国面经：用栈实现队列](https://www.v2ex.com/t/727030) ![](assets/new.png)  
 - [2020-11-19-PHP--fpm-服务器内存占用陡坡式上涨，请问如何彻底解决？](https://www.v2ex.com/t/727028) ![](assets/new.png)  
 - [2020-11-19-你有多少小米智能家居设备？](https://www.v2ex.com/t/727027) ![](assets/new.png)  
@@ -564,15 +573,6 @@
 - [2020-11-19-是我偏见吗？我始终觉得还是-iphone12-的拍照和拍视频效果好于-P40](https://www.v2ex.com/t/727020) ![](assets/new.png)  
 - [2020-11-19-社招-你离进字节跳动就差这个内推了](https://www.v2ex.com/t/727019) ![](assets/new.png)  
 - [2020-11-19-0202-年有没有手感超级棒的手机推荐？](https://www.v2ex.com/t/727017) ![](assets/new.png)  
-- [2020-11-19-豆瓣图书-API-停服了，最近开发一个图书数据库的微信小程序，图书数量有几十万本，通过-ISBN-调用-API-获取图书信息](https://www.v2ex.com/t/727016) ![](assets/new.png)  
-- [2020-11-19-怎样才能禁止弱智的雷蛇鼠标游戏软件自动弹出安装](https://www.v2ex.com/t/727014) ![](assets/new.png)  
-- [2020-11-19-新手入门单反坑，求推荐](https://www.v2ex.com/t/727012) ![](assets/new.png)  
-- [2020-11-19-这是微信播放器的-BUG-吗](https://www.v2ex.com/t/727009) ![](assets/new.png)  
-- [2020-11-19-安卓应用在模拟器上闪退的问题](https://www.v2ex.com/t/727008) ![](assets/new.png)  
-- [2020-11-19-有买了-M1-的-Android-童鞋吗？能不能用-AS-跑个大型项目编译-apk-看看！](https://www.v2ex.com/t/727007) ![](assets/new.png)  
-- [2020-11-19-仿做一个疫情地图，需要搜索什么关键字](https://www.v2ex.com/t/727006) ![](assets/new.png)  
-- [2020-11-19-HW-粉丝好可怕啊，现在哔哩哔哩不开弹幕了，微博也不看相关评论相关消息](https://www.v2ex.com/t/727005) ![](assets/new.png)  
-- [2020-11-19-一个中间件或者组件到底要怎样才能让使用者满意并且易上手？](https://www.v2ex.com/t/727004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

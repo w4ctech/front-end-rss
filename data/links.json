@@ -15849,7 +15849,52 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "npm cli 执行命令的时间过长怎么解？",
+        "title": "Vue 本地运行没事， Build 之后运行发生页面卡死问题，找了一天了，没有查到问题",
+        "link": "https://www.v2ex.com/t/727043",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[吃饭咋这难] 为了吃 18 块钱的午餐，我省了 40 多块钱，最后只花了 18 块多一点",
+        "link": "https://www.v2ex.com/t/727042",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "上海杨浦五角场沪东金融大厦办公室出租， 10 号线直达，近合生汇、万达广场",
+        "link": "https://www.v2ex.com/t/727041",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "iPhone12 全系混用屏幕，微博上已经有人给出识别方法了。",
+        "link": "https://www.v2ex.com/t/727039",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "the unarchiver 已经不支持 mojave 了?",
+        "link": "https://www.v2ex.com/t/727038",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "有没有已入手 12mini 绿的朋友，网上信息很少",
+        "link": "https://www.v2ex.com/t/727037",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "golang 关于 nil 的问题",
+        "link": "https://www.v2ex.com/t/727036",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "请问下像这种网站里面的抖音、快手数据是怎么获取的呢?",
+        "link": "https://www.v2ex.com/t/727035",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "为什么 iPad 不能运行 macos",
+        "link": "https://www.v2ex.com/t/727034",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "运行 npm config set registry 花了 12 分 25 秒，怎么解？",
         "link": "https://www.v2ex.com/t/727033",
         "date": "2020-11-19"
       },
@@ -15986,36 +16031,6 @@
       {
         "title": "iPhone 有什么办法查看每张照片的大小 size?",
         "link": "https://www.v2ex.com/t/726994",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "有没有人遇到 AirPods 失联的情况",
-        "link": "https://www.v2ex.com/t/726992",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "有没有在用 M1 芯片新品的老哥外接 2K（或 1080p）显示器使用 one-key-hidpi 脚本来强制开启 HIDPI 的？",
-        "link": "https://www.v2ex.com/t/726991",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[深圳] 在科兴上班住到哪里合适一点？宝安暂时不考虑的情况。",
-        "link": "https://www.v2ex.com/t/726990",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "EMP 微前端方案有用过的小伙伴吗？",
-        "link": "https://www.v2ex.com/t/726989",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "1password 年付家庭，招一人，年付 12 美元（约 80 左右），到期日 21/11/25",
-        "link": "https://www.v2ex.com/t/726985",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "现在是选择 nuc 黑苹果还是 Mac mini",
-        "link": "https://www.v2ex.com/t/726984",
         "date": "2020-11-19"
       }
     ]
@@ -16233,13 +16248,18 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-19"
       },
       {
@@ -16253,13 +16273,23 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-19"
       },
       {
@@ -16268,43 +16298,28 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
         "date": "2020-11-19"
       },
       {
         "title": "[推荐] 52 图初探 Linux 通用知识",
         "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-19"
       }
     ]

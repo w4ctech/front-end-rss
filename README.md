@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 01:06:03，:rocket: 更新条数: +3302， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 01:13:19，:rocket: 更新条数: +3307， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,12 @@
 </summary>
 
 
+- [2020-11-19-话说为啥还会有人接盘-15-年的-mbp，买的人是什么心态嗷？有没有老铁理性探讨一下](https://www.v2ex.com/t/726956) ![](assets/new.png)  
+- [2020-11-19-在项目最忙上线的时候，选择离职是否不厚道？](https://www.v2ex.com/t/726955) ![](assets/new.png)  
+- [2020-11-19-TensorFlow-2-现已支持使用-macOS-上可用的-GPU-进行模型加速（包括-Apple-Silicon-M1）](https://www.v2ex.com/t/726954) ![](assets/new.png)  
+- [2020-11-19-3-个月过去了，-K30-至尊纪念版的拍照涂抹感还有没有救？](https://www.v2ex.com/t/726953) ![](assets/new.png)  
+- [2020-11-19-最近才发现自己是个感情上抖-M。](https://www.v2ex.com/t/726952) ![](assets/new.png)  
+- [2020-11-19-分享一篇文章：图解内存池内部结构，揭示避免内存碎片化的独门秘诀](https://www.v2ex.com/t/726951) ![](assets/new.png)  
 - [2020-11-19-Google-账号误删除活动历史](https://www.v2ex.com/t/726950) ![](assets/new.png)  
 - [2020-11-19-Java-开发有必要花接近一个月的工资去买一台-13-寸的-mbp-吗？](https://www.v2ex.com/t/726949) ![](assets/new.png)  
 - [2020-11-19-接下来这一两周，从上海去别的城市需要做核酸检测吗](https://www.v2ex.com/t/726947) ![](assets/new.png)  
@@ -567,12 +573,6 @@
 - [2020-11-19-请教个问题：怎么写排版好看的邮件？](https://www.v2ex.com/t/726933) ![](assets/new.png)  
 - [2020-11-18-哪里可以用-btc-买苹果的产品？](https://www.v2ex.com/t/726931) ![](assets/new.png)  
 - [2020-11-18-分享一个翻译软件：聚合翻译](https://www.v2ex.com/t/726930) ![](assets/new.png)  
-- [2020-11-18-WebUI-的小伙伴急需一枚](https://www.v2ex.com/t/726929) ![](assets/new.png)  
-- [2020-11-18-关于-iPhone12-Pro-Max-近景对焦](https://www.v2ex.com/t/726928) ![](assets/new.png)  
-- [2020-11-18-Anker-的-hub/拓展坞有-2.4g-Wi-Fi-干扰的问题吗？](https://www.v2ex.com/t/726926) ![](assets/new.png)  
-- [2020-11-18-Big-Sur-在使用多屏时重启后顺序会错](https://www.v2ex.com/t/726925) ![](assets/new.png)  
-- [2020-11-18-求问下大家-mac-扩展坞有没有推荐能方便接多显示器的](https://www.v2ex.com/t/726923) ![](assets/new.png)  
-- [2020-11-18-模拟器跑-apk，有什么直接下载的方法推荐嘛？](https://www.v2ex.com/t/726920) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -617,9 +617,9 @@
 
 - [2020-11-19-你可能也会掉进这个简单的-String-的坑](https://toutiao.io/k/sx3bbfh) ![](assets/new.png)  
 - [2020-11-19-从无到有，支付路由系统升级打怪之路](https://toutiao.io/k/3dz260i) ![](assets/new.png)  
-- [2020-11-19-postMessage-还能这样玩](https://toutiao.io/k/286vf6i) ![](assets/new.png)  
 - [2020-11-19-工具-|-蚂蚁集团开源的，支付宝开放平台服务端-SDK](https://toutiao.io/k/g3q6fk5) ![](assets/new.png)  
 - [2020-11-19-分布式数据网格-Data-Mesh](https://toutiao.io/k/p6zp7x5) ![](assets/new.png)  
+- [2020-11-19-postMessage-还能这样玩](https://toutiao.io/k/286vf6i) ![](assets/new.png)  
 - [2020-11-19-个人如何成长？兴趣驱动，选择与被选择的思考](https://toutiao.io/k/5j6qmgt) ![](assets/new.png)  
 - [2020-11-19-Elasticsearch-集群故障排查及修复指南](https://toutiao.io/k/nbiibv7) ![](assets/new.png)  
 - [2020-11-19-新老手都值得看的-Flink-关键技术解析与优化实战](https://toutiao.io/k/ee2z21c) ![](assets/new.png)  
@@ -628,13 +628,13 @@
 - [2020-11-19-如何在公司项目中使用-WebSocke（入门实战指南）](https://toutiao.io/k/dg32a9e) ![](assets/new.png)  
 - [2020-11-19-硬核，这-3-款-IDE-插件让你的代码牢不可破](https://toutiao.io/k/wtbklhn) ![](assets/new.png)  
 - [2020-11-19-Docker-安全实践](https://toutiao.io/k/e8r4p6x) ![](assets/new.png)  
-- [2020-11-19-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-19-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
-- [2020-11-19-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) ![](assets/new.png)  
+- [2020-11-19-简单分析下-Node.js-关于集群的那些事](https://toutiao.io/k/p9mn466) ![](assets/new.png)  
+- [2020-11-19-搜狐智能媒体数据仓库体系建设实践](https://toutiao.io/k/zwe8iqv) ![](assets/new.png)  
+- [2020-11-19-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
 - [2020-11-19-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-19-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
-- [2020-11-19-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-19-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-19-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-19-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
+- [2020-11-19-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

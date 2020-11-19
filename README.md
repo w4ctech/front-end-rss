@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 08:26:36，:rocket: 更新条数: +3086， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 08:33:02，:rocket: 更新条数: +3084， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-19-求助，-Python-监控-windows-程序，崩溃后自启动](https://www.v2ex.com/t/727190) ![](assets/new.png)  
 - [2020-11-19-北京-Aibee内推-2020-年，我们急求-机器学习算法研发工程师，待遇优厚，入职快！](https://www.v2ex.com/t/727187) ![](assets/new.png)  
 - [2020-11-19-思维导图和大纲工具-Mark-Mind-已经开源](https://www.v2ex.com/t/727185) ![](assets/new.png)  
 - [2020-11-19-突然意识到随手写的手机号真的会收到短信验证码](https://www.v2ex.com/t/727184) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-19-“降速门”和解协议达成-苹果公司将支付-1.13-亿美元](https://www.v2ex.com/t/727164) ![](assets/new.png)  
 - [2020-11-19-一个上传前端项目到-CDN-平台及自动刷新节点缓存的工具](https://www.v2ex.com/t/727163) ![](assets/new.png)  
 - [2020-11-19-如何举报不当言论，如评论区对骂等情况](https://www.v2ex.com/t/727162) ![](assets/new.png)  
-- [2020-11-19-Flutter-Movies-2.1.0](https://www.v2ex.com/t/727161) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

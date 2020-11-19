@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-19 11:32:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 11:47:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -17,6 +17,7 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-11-19-MBP13-2015-卡顿，有什么办法优化性能吗？](https://www.v2ex.com/t/727265) 
 - [2020-11-19-M1-机器学习性能真的这么强？-堪比-1080ti？](https://www.v2ex.com/t/727236) 
 - [2020-11-19-M1-芯片低功耗高性能的实现](https://www.v2ex.com/t/727218) 
 - [2020-11-19-新老手都值得看的-Flink-关键技术解析与优化实战](https://toutiao.io/k/ee2z21c) 

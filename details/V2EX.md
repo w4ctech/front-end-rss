@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-19 06:13:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 06:29:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-19-咨询一个关于-synchronized-问题](https://www.v2ex.com/t/727116) 
+- [2020-11-19-新的-11，一小时掉电-18%！](https://www.v2ex.com/t/727113) 
 - [2020-11-19-裸辞了，真的太爽了](https://www.v2ex.com/t/727112) 
 - [2020-11-19-PHP7.4-已经有-preload-和-ffi-了？](https://www.v2ex.com/t/727111) 
 - [2020-11-19-vue3-Composition-api-变量类型推断问题](https://www.v2ex.com/t/727110) 
@@ -39,6 +41,3 @@
 - [2020-11-19-深圳哪些路段适合新手练车？](https://www.v2ex.com/t/727074) 
 - [2020-11-19-自己总结的几条职场提升干货，大佬轻拍！](https://www.v2ex.com/t/727073) 
 - [2020-11-19-昨天下午-18-点左右，-mob-官方服务端升级导致-sdk-引起-app-崩溃](https://www.v2ex.com/t/727071) 
-- [2020-11-19-淘宝上买了个-NFC-读写器，但是卖家给的软件火绒报病毒？！怎么安全运行？](https://www.v2ex.com/t/727067) 
-- [2020-11-19-CrossOver-可以在-M1-Mac-上运行-x86-Windows-程序](https://www.v2ex.com/t/727064) 
-- [2020-11-19-游戏原画师-日韩画风-1-年工作经验求初级岗.](https://www.v2ex.com/t/727063) 

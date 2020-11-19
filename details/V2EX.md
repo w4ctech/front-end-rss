@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-19 21:36:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 21:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-19-JDK-For-ARM-macOS-出来了，-有没有人可以在-M1-mbp-上试一试-Intellij](https://www.v2ex.com/t/727349) 
 - [2020-11-19-为什么京东国际不能退掉中国大陆-13%的增值税？](https://www.v2ex.com/t/727348) 
 - [2020-11-19-一个野生‧程序猿‧的‧三次元‧硬科幻作品](https://www.v2ex.com/t/727347) 
 - [2020-11-19-我又来了～我的中文博客文章被机器采集翻译成英文滴，翻译水平还行呢，有意思](https://www.v2ex.com/t/727346) 
@@ -40,4 +41,3 @@
 - [2020-11-19-Big-Sur-升级后电量掉的很快](https://www.v2ex.com/t/727305) 
 - [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) 
 - [2020-11-19-广州/苏州高性能计算-HPC-Linux-运维-支持全球客户](https://www.v2ex.com/t/727300) 
-- [2020-11-19-下单了自己买的第一台-mac-m1-air-16g-512g](https://www.v2ex.com/t/727299) 

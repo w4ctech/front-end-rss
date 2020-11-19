@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 03:35:38，:rocket: 更新条数: +3082， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 03:47:44，:rocket: 更新条数: +3082， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-19-截至11月18日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/54c97e71107f4ab49da84a04c6f84f49.shtml) ![](assets/new.png)  
+- [2020-11-19-美国超100万儿童确诊新冠-校园重启遭抗议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGh7dC2yQhvTRt7fiuya201119&isfromapp=1) ![](assets/new.png)  
+- [2020-11-19-玻利维亚新冠肺炎确诊病例累计达143473例-排查小商贩集市潜在传播隐患](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizo9d6cbhLZ9pGaGdOYRA201119&isfromapp=1) ![](assets/new.png)  
+- [2020-11-19-确诊病例激增-美国多地医疗系统濒临崩溃](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDtAeNQ7ndxx1CmO4O8X5201119&isfromapp=1) ![](assets/new.png)  
 - [2020-11-19-雪上加霜！严峻防疫形势下-德国柏林爆发反防疫游行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFsUzJZVxLNIaQa5vPSKv201119&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-美国国会议员中感染新冠病毒人数达到34名](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIb6MND6UKZXgLafPcabx201119&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-加纳政府免除12岁以下入境旅客的150美元机场新冠检测费用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4wEIYzImCFzzFf7000OA201119&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-世卫组织：全球新冠肺炎确诊病例超过5532万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2GwbGz8xg7QkxVF8eHox201119&isfromapp=1) ![](assets/new.png)  
-- [2020-11-18-特斯拉CEO埃隆·马斯克在访问瑞典后感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisiKAbDPOpmnIgAvoWiFd201119&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -454,7 +454,7 @@
 
 
 - [2020-11-18-理解-ECMAScript-规范（3）](https://juejin.im/post/6896664284328263694) ![](assets/new.png)  
-- [2020-11-18-前端错误监控](https://juejin.im/post/6896657931270373389) ![](assets/new.png)  
+- [2020-11-18-🤸‍♂️👩‍💻-使用-Serverless-生成你的GIT代码年历！-|-🏆-技术专题第七期征文](https://juejin.im/post/6896455317060583432) ![](assets/new.png)  
 - [2020-11-18-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://juejin.im/post/6896451677063544846) ![](assets/new.png)  
 - [2020-11-18-数据结构与算法学习之集合](https://juejin.im/post/6896436531125452813) ![](assets/new.png)  
 - [2020-11-17-写给前端的-Jenkins-教程——10分钟实现前端/-Node.js-项目的-CI/CD](https://juejin.im/post/6896151951545729031) ![](assets/new.png)  
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-19-老哥们。M1-值得入手吗](https://www.v2ex.com/t/727048) ![](assets/new.png)  
+- [2020-11-19-关于敏感词过滤问题](https://www.v2ex.com/t/727047) ![](assets/new.png)  
+- [2020-11-19-北京社招-急+1-美团-诚招高级/资深工程师（30-45k）](https://www.v2ex.com/t/727046) ![](assets/new.png)  
+- [2020-11-19-各位来试试，小米-miui-系统下的去除各种-app-开屏广告](https://www.v2ex.com/t/727045) ![](assets/new.png)  
+- [2020-11-19-我擦，深圳面试官被应聘者割喉](https://www.v2ex.com/t/727044) ![](assets/new.png)  
 - [2020-11-19-Vue-本地运行没事，-Build-之后运行发生页面卡死问题，找了一天了，没有查到问题](https://www.v2ex.com/t/727043) ![](assets/new.png)  
 - [2020-11-19-吃饭咋这难-为了吃-18-块钱的午餐，我省了-40-多块钱，最后只花了-18-块多一点](https://www.v2ex.com/t/727042) ![](assets/new.png)  
 - [2020-11-19-上海杨浦五角场沪东金融大厦办公室出租，-10-号线直达，近合生汇、万达广场](https://www.v2ex.com/t/727041) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-19-你有多少小米智能家居设备？](https://www.v2ex.com/t/727027) ![](assets/new.png)  
 - [2020-11-19-Macbook-Pro-219-磁盘不够用了，有什么扩展方式推荐？](https://www.v2ex.com/t/727024) ![](assets/new.png)  
 - [2020-11-19-话说为啥要搞微前端，我想了很久都没明白](https://www.v2ex.com/t/727023) ![](assets/new.png)  
-- [2020-11-19-感觉越来越有必要常用的账号有两个](https://www.v2ex.com/t/727022) ![](assets/new.png)  
-- [2020-11-19-CrossOver-20.0.2-在-M1-macbook-上成功运行-win-x86-程序](https://www.v2ex.com/t/727021) ![](assets/new.png)  
-- [2020-11-19-是我偏见吗？我始终觉得还是-iphone12-的拍照和拍视频效果好于-P40](https://www.v2ex.com/t/727020) ![](assets/new.png)  
-- [2020-11-19-社招-你离进字节跳动就差这个内推了](https://www.v2ex.com/t/727019) ![](assets/new.png)  
-- [2020-11-19-0202-年有没有手感超级棒的手机推荐？](https://www.v2ex.com/t/727017) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

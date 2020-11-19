@@ -14162,28 +14162,28 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "南非总统呼吁国际社会帮助非控制疫情恢复经济 中方积极回应",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwcM3yyyiKNXDwD2l9XM201119&isfromapp=1",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "福州发布重要通告 这些人来榕须持核酸检测证明！",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYq6wcvW8q0TVijsIveFt201119&isfromapp=1",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "​香港新增12例新冠肺炎确诊病例 累计确诊5491例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirXhkt7ZectyV4npAMtFv201119&isfromapp=1",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "特斯拉CEO埃隆·马斯克 确认感染新冠病毒",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinxvOBQw2kxpZvdGzj0Cn201119&isfromapp=1",
+        "date": "2020-11-19"
+      },
+      {
         "title": "截至11月18日24时新型冠状病毒肺炎疫情最新情况",
         "link": "http://www.nhc.gov.cn/xcs/yqtb/202011/54c97e71107f4ab49da84a04c6f84f49.shtml",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "美国超100万儿童确诊新冠 校园重启遭抗议",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGh7dC2yQhvTRt7fiuya201119&isfromapp=1",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "玻利维亚新冠肺炎确诊病例累计达143473例 排查小商贩集市潜在传播隐患",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizo9d6cbhLZ9pGaGdOYRA201119&isfromapp=1",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "确诊病例激增 美国多地医疗系统濒临崩溃",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDtAeNQ7ndxx1CmO4O8X5201119&isfromapp=1",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "雪上加霜！严峻防疫形势下 德国柏林爆发反防疫游行",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFsUzJZVxLNIaQa5vPSKv201119&isfromapp=1",
         "date": "2020-11-19"
       }
     ]
@@ -14693,6 +14693,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "golang return defer panic 对返回值的影响",
+        "link": "https://www.v2ex.com/t/727228",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "微信实验系统招算法研究员和大数据后台开发，欢迎联系~",
+        "link": "https://www.v2ex.com/t/727227",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "那个挂了阿里 P6+的小哥，一周后接到了蚂蚁 P7 offer！",
+        "link": "https://www.v2ex.com/t/727226",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "上海睿当家科技，不懂 App 外行，且又十分爱国的公司...",
+        "link": "https://www.v2ex.com/t/727225",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "Linux 状态图表 2020-10",
+        "link": "https://www.v2ex.com/t/727224",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "安卓主进程等待多个子进程做完任务有什么优雅的设计模式吗？",
+        "link": "https://www.v2ex.com/t/727223",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "公司突然说可以买一些计算机和周边品类的图书，大家有什么推荐的？",
+        "link": "https://www.v2ex.com/t/727222",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "Big Sur WindowServer 吃内存也太多了吧",
+        "link": "https://www.v2ex.com/t/727221",
+        "date": "2020-11-19"
+      },
+      {
         "title": "mongodb 遇到 i/o 瓶颈，老哥们有没有什么办法？",
         "link": "https://www.v2ex.com/t/727220",
         "date": "2020-11-19"
@@ -14835,31 +14875,6 @@
       {
         "title": "木兰编程语言 0.0.15.0：基于网络的运行环境；词法错误处理",
         "link": "https://www.v2ex.com/t/727180",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "🔥🔥🔥 [新加坡] [Shopee] [直招] 招后台研发，包含 Kubernetes、Nginx、 Linux Kernel 等不同方向",
-        "link": "https://www.v2ex.com/t/727179",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "MBP16 寸 Type-C 外接 U2720QM 一直显示无信号",
-        "link": "https://www.v2ex.com/t/727178",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "把第三方提供的 API 做成 SDK 提供给多个项目使用 那么集成中可以用到哪些设计模式?",
-        "link": "https://www.v2ex.com/t/727175",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "如何用脚本命令批量检查不同文件夹的 git 状态？",
-        "link": "https://www.v2ex.com/t/727173",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "前端程序员有必要入一台 M1 mbp 吗",
-        "link": "https://www.v2ex.com/t/727172",
         "date": "2020-11-19"
       }
     ]
@@ -15077,48 +15092,8 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 消息队列和任务队列有什么区别？",
-        "link": "https://toutiao.io/k/cfr4egg",
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-19"
       },
       {
@@ -15132,13 +15107,18 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-19"
       },
       {
@@ -15147,8 +15127,43 @@
         "date": "2020-11-19"
       },
       {
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
+        "date": "2020-11-19"
+      },
+      {
         "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
         "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-19"
       }
     ]

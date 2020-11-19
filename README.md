@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 09:35:38，:rocket: 更新条数: +3082， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 09:48:08，:rocket: 更新条数: +3085， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-11-19-南非总统呼吁国际社会帮助非控制疫情恢复经济-中方积极回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwcM3yyyiKNXDwD2l9XM201119&isfromapp=1) ![](assets/new.png)  
+- [2020-11-19-福州发布重要通告-这些人来榕须持核酸检测证明！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYq6wcvW8q0TVijsIveFt201119&isfromapp=1) ![](assets/new.png)  
+- [2020-11-19-​香港新增12例新冠肺炎确诊病例-累计确诊5491例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirXhkt7ZectyV4npAMtFv201119&isfromapp=1) ![](assets/new.png)  
+- [2020-11-19-特斯拉CEO埃隆·马斯克-确认感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinxvOBQw2kxpZvdGzj0Cn201119&isfromapp=1) ![](assets/new.png)  
 - [2020-11-19-截至11月18日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202011/54c97e71107f4ab49da84a04c6f84f49.shtml) ![](assets/new.png)  
-- [2020-11-19-美国超100万儿童确诊新冠-校园重启遭抗议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGh7dC2yQhvTRt7fiuya201119&isfromapp=1) ![](assets/new.png)  
-- [2020-11-19-玻利维亚新冠肺炎确诊病例累计达143473例-排查小商贩集市潜在传播隐患](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizo9d6cbhLZ9pGaGdOYRA201119&isfromapp=1) ![](assets/new.png)  
-- [2020-11-19-确诊病例激增-美国多地医疗系统濒临崩溃](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDtAeNQ7ndxx1CmO4O8X5201119&isfromapp=1) ![](assets/new.png)  
-- [2020-11-19-雪上加霜！严峻防疫形势下-德国柏林爆发反防疫游行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFsUzJZVxLNIaQa5vPSKv201119&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,14 @@
 </summary>
 
 
+- [2020-11-19-golang-return-defer-panic-对返回值的影响](https://www.v2ex.com/t/727228) ![](assets/new.png)  
+- [2020-11-19-微信实验系统招算法研究员和大数据后台开发，欢迎联系~](https://www.v2ex.com/t/727227) ![](assets/new.png)  
+- [2020-11-19-那个挂了阿里-P6+的小哥，一周后接到了蚂蚁-P7-offer！](https://www.v2ex.com/t/727226) ![](assets/new.png)  
+- [2020-11-19-上海睿当家科技，不懂-App-外行，且又十分爱国的公司...](https://www.v2ex.com/t/727225) ![](assets/new.png)  
+- [2020-11-19-Linux-状态图表-2020-10](https://www.v2ex.com/t/727224) ![](assets/new.png)  
+- [2020-11-19-安卓主进程等待多个子进程做完任务有什么优雅的设计模式吗？](https://www.v2ex.com/t/727223) ![](assets/new.png)  
+- [2020-11-19-公司突然说可以买一些计算机和周边品类的图书，大家有什么推荐的？](https://www.v2ex.com/t/727222) ![](assets/new.png)  
+- [2020-11-19-Big-Sur-WindowServer-吃内存也太多了吧](https://www.v2ex.com/t/727221) ![](assets/new.png)  
 - [2020-11-19-mongodb-遇到-i/o-瓶颈，老哥们有没有什么办法？](https://www.v2ex.com/t/727220) ![](assets/new.png)  
 - [2020-11-19-M1-芯片低功耗高性能的实现](https://www.v2ex.com/t/727218) ![](assets/new.png)  
 - [2020-11-19-上海---坚果云-招聘移动端开发工程师](https://www.v2ex.com/t/727217) ![](assets/new.png)  
@@ -545,14 +553,6 @@
 - [2020-11-19-Celery5.0-定期任务的重启和动态添加和删除的实现](https://www.v2ex.com/t/727206) ![](assets/new.png)  
 - [2020-11-19-Linux-C-语言的-unistd.h-中的-sync和-Linux-命令行中-sync-功效一样吗？](https://www.v2ex.com/t/727205) ![](assets/new.png)  
 - [2020-11-19-翻译-offer-录用-怎样](https://www.v2ex.com/t/727204) ![](assets/new.png)  
-- [2020-11-19-苹果被曝重大系统漏洞：新款-MacBook、-iPhone-12-统统波及，-root-权限秒被获取](https://www.v2ex.com/t/727203) ![](assets/new.png)  
-- [2020-11-19-手机-7plus-升级到-iOS14.2-后无法与苹果手表相连,求助](https://www.v2ex.com/t/727202) ![](assets/new.png)  
-- [2020-11-19-从上海裸辞回-4-线城市，不知道干什么，心里没底，求打气](https://www.v2ex.com/t/727201) ![](assets/new.png)  
-- [2020-11-19-有没有可以直接发红包的-intellij-插件](https://www.v2ex.com/t/727199) ![](assets/new.png)  
-- [2020-11-19-网易云-你是真的棒-解决不了问题-就解决提出问题的人](https://www.v2ex.com/t/727198) ![](assets/new.png)  
-- [2020-11-19--一面数据-|-深圳-周末双休-早十晚七，-欢迎-Python-/大数据方面的同学来投简历啊~~](https://www.v2ex.com/t/727197) ![](assets/new.png)  
-- [2020-11-19-今天发了一个新版的-iOS14.218B111](https://www.v2ex.com/t/727195) ![](assets/new.png)  
-- [2020-11-19-金山文档在线文档掉线](https://www.v2ex.com/t/727192) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

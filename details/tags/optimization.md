@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-19 15:42:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 15:49:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -11,5 +11,6 @@
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-11-19-广州/苏州高性能计算-HPC-Linux-运维-支持全球客户](https://www.v2ex.com/t/727300) 
 - [2020-11-19-新老手都值得看的-Flink-关键技术解析与优化实战](https://toutiao.io/k/ee2z21c) 
 - [2020-11-18-山东大学高性能计算云平台初体验](https://sec.thief.one/article_content?a_id=5c9c329650d623b299b047d78c38d52f) 

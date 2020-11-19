@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 15:42:33，:rocket: 更新条数: +3049， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 15:49:37，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -533,6 +533,26 @@
 </summary>
 
 
+- [2020-11-19-求一个简单的思路，获取微信群成员的微信号](https://www.v2ex.com/t/727333) ![](assets/new.png)  
+- [2020-11-19-南京/阿里巴巴-南京研发中心期待你的加入，-2~3-周内发-offer](https://www.v2ex.com/t/727332) ![](assets/new.png)  
+- [2020-11-19-有使用-M1-MAC-跑-iOS-APP-的各位，数据文件能保存吗？](https://www.v2ex.com/t/727331) ![](assets/new.png)  
+- [2020-11-19-Python-采集手机地图的瓦片-有接的不？](https://www.v2ex.com/t/727329) ![](assets/new.png)  
+- [2020-11-19-求助，-Big-Sur-升级安装失败](https://www.v2ex.com/t/727326) ![](assets/new.png)  
+- [2020-11-19-vue3-的安装包那么大,-500-多-K,-不会很慢吗?](https://www.v2ex.com/t/727325) ![](assets/new.png)  
+- [2020-11-19-单纯-js-脚本方式能用那些前端框架吗？](https://www.v2ex.com/t/727323) ![](assets/new.png)  
+- [2020-11-19-棋魂播到-30-集，在我心里，不分国界，包含今年看过的美剧日剧，今年年度最佳。](https://www.v2ex.com/t/727322) ![](assets/new.png)  
+- [2020-11-19-开源众包平台可靠不.0-买华为-2000-云服务器](https://www.v2ex.com/t/727321) ![](assets/new.png)  
+- [2020-11-19-我又来分享生活了，比较有意思的一段经历](https://www.v2ex.com/t/727320) ![](assets/new.png)  
+- [2020-11-19-欠薪情况下，可否立即离职](https://www.v2ex.com/t/727319) ![](assets/new.png)  
+- [2020-11-19-请问有人比较过-Clion-和-Visual-Studio-不？](https://www.v2ex.com/t/727317) ![](assets/new.png)  
+- [2020-11-19-有-B-站的同学吗，自动连播咋关啊](https://www.v2ex.com/t/727316) ![](assets/new.png)  
+- [2020-11-19-2015-年的老-mbp-能经得住-bigsur-的偷袭吗？](https://www.v2ex.com/t/727314) ![](assets/new.png)  
+- [2020-11-19-求浦西家具回收推荐](https://www.v2ex.com/t/727310) ![](assets/new.png)  
+- [2020-11-19-不是，你们有试试双卡吗？](https://www.v2ex.com/t/727308) ![](assets/new.png)  
+- [2020-11-19-使用-Vue-前端、Rails-后端实现图片上传的功能](https://www.v2ex.com/t/727307) ![](assets/new.png)  
+- [2020-11-19-Big-Sur-升级后电量掉的很快](https://www.v2ex.com/t/727305) ![](assets/new.png)  
+- [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) ![](assets/new.png)  
+- [2020-11-19-hmm，-YouTube-港区车](https://www.v2ex.com/t/727301) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -584,8 +604,8 @@
 - [2020-11-19-个人如何成长？兴趣驱动，选择与被选择的思考](https://toutiao.io/k/5j6qmgt) ![](assets/new.png)  
 - [2020-11-19-Elasticsearch-集群故障排查及修复指南](https://toutiao.io/k/nbiibv7) ![](assets/new.png)  
 - [2020-11-19-新老手都值得看的-Flink-关键技术解析与优化实战](https://toutiao.io/k/ee2z21c) ![](assets/new.png)  
-- [2020-11-19-再聊-Blazor，它是否值得你花时间学习](https://toutiao.io/k/z1391vp) ![](assets/new.png)  
 - [2020-11-19-硬核，这-3-款-IDE-插件让你的代码牢不可破](https://toutiao.io/k/wtbklhn) ![](assets/new.png)  
+- [2020-11-19-再聊-Blazor，它是否值得你花时间学习](https://toutiao.io/k/z1391vp) ![](assets/new.png)  
 - [2020-11-19-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
 - [2020-11-19-如何在公司项目中使用-WebSocke（入门实战指南）](https://toutiao.io/k/dg32a9e) ![](assets/new.png)  
 - [2020-11-19-Objective-C-的元组实现-JDTuple](https://toutiao.io/k/trnzy7k) ![](assets/new.png)  

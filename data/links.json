@@ -14687,16 +14687,177 @@
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/wechat/ershicimi/198",
+    "rss": "https://rss.itggg.cn/wechat/ershicimi/198",
     "title": "知乎日报",
     "link": "https://www.ershicimi.com/a/198",
     "items": []
   },
   {
-    "rss": "https://rss.shab.fun/v2ex/topics/latest",
+    "rss": "https://rss.itggg.cn/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
-    "items": []
+    "items": [
+      {
+        "title": "求一个简单的思路，获取微信群成员的微信号",
+        "link": "https://www.v2ex.com/t/727333",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[南京/阿里巴巴] 南京研发中心期待你的加入， 2~3 周内发 offer",
+        "link": "https://www.v2ex.com/t/727332",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "有使用 M1 MAC 跑 iOS APP 的各位，数据文件能保存吗？",
+        "link": "https://www.v2ex.com/t/727331",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "Python 采集手机地图的瓦片 有接的不？",
+        "link": "https://www.v2ex.com/t/727329",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "求助， Big Sur 升级安装失败",
+        "link": "https://www.v2ex.com/t/727326",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "vue3 的安装包那么大, 500 多 K, 不会很慢吗?",
+        "link": "https://www.v2ex.com/t/727325",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "单纯 js 脚本方式能用那些前端框架吗？",
+        "link": "https://www.v2ex.com/t/727323",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "棋魂播到 30 集，在我心里，不分国界，包含今年看过的美剧日剧，今年年度最佳。",
+        "link": "https://www.v2ex.com/t/727322",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "开源众包平台可靠不.0 买华为 2000 云服务器",
+        "link": "https://www.v2ex.com/t/727321",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "我又来分享生活了，比较有意思的一段经历",
+        "link": "https://www.v2ex.com/t/727320",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "欠薪情况下，可否立即离职",
+        "link": "https://www.v2ex.com/t/727319",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "请问有人比较过 Clion 和 Visual Studio 不？",
+        "link": "https://www.v2ex.com/t/727317",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "有 B 站的同学吗，自动连播咋关啊",
+        "link": "https://www.v2ex.com/t/727316",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "2015 年的老 mbp 能经得住 bigsur 的偷袭吗？",
+        "link": "https://www.v2ex.com/t/727314",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "求浦西家具回收推荐",
+        "link": "https://www.v2ex.com/t/727310",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "不是，你们有试试双卡吗？",
+        "link": "https://www.v2ex.com/t/727308",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "使用 Vue 前端、Rails 后端实现图片上传的功能",
+        "link": "https://www.v2ex.com/t/727307",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "Big Sur 升级后电量掉的很快",
+        "link": "https://www.v2ex.com/t/727305",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "在 Docker 虚拟机中启动 gnome-session 失败，有人了解怎么在 docker 内使用 vnc 连接桌面吗？",
+        "link": "https://www.v2ex.com/t/727302",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "hmm， YouTube 港区车",
+        "link": "https://www.v2ex.com/t/727301",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[广州/苏州]高性能计算 HPC Linux 运维 支持全球客户",
+        "link": "https://www.v2ex.com/t/727300",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "下单了自己买的第一台 mac (m1 air 16g 512g)",
+        "link": "https://www.v2ex.com/t/727299",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "请问有没有了解采用动捕、面捕、文本 AI 技术 驱动 3D 角色 实现虚拟模型互动深圳团队自荐或推荐呢？",
+        "link": "https://www.v2ex.com/t/727298",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "AWS Lightsail 重启失败，控制台里面看不到实例状态",
+        "link": "https://www.v2ex.com/t/727295",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "Awesome Open Source 这个网站有大佬用过吗？咨询一下问题",
+        "link": "https://www.v2ex.com/t/727294",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "买了才几天的 u2720q 显示异常，请问这种情况多见么？",
+        "link": "https://www.v2ex.com/t/727292",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "今天被通知不符合试用期，我还没签字，我想要求提供不符合试用标准，这样做对吗？",
+        "link": "https://www.v2ex.com/t/727291",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "ubuntu 笔记本求推荐",
+        "link": "https://www.v2ex.com/t/727290",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "请教个问题，在安卓上，根据后端返回的经纬度，在百度地图上画出轨迹点，每个轨迹点都可以点击",
+        "link": "https://www.v2ex.com/t/727289",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "Go 匿名聊天室，更新新增全天用户上线时间分布，+协程池",
+        "link": "https://www.v2ex.com/t/727288",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "出售 Apple 企业账号一枚， qq:914825333",
+        "link": "https://www.v2ex.com/t/727285",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[阿里巴巴内推][上海/杭州]前端/后端/产品/数据都招",
+        "link": "https://www.v2ex.com/t/727284",
+        "date": "2020-11-19"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/blogread/newest",
@@ -14856,13 +15017,13 @@
         "date": "2020-11-19"
       },
       {
-        "title": "再聊 Blazor，它是否值得你花时间学习",
-        "link": "https://toutiao.io/k/z1391vp",
+        "title": "硬核，这 3 款 IDE 插件让你的代码牢不可破",
+        "link": "https://toutiao.io/k/wtbklhn",
         "date": "2020-11-19"
       },
       {
-        "title": "硬核，这 3 款 IDE 插件让你的代码牢不可破",
-        "link": "https://toutiao.io/k/wtbklhn",
+        "title": "再聊 Blazor，它是否值得你花时间学习",
+        "link": "https://toutiao.io/k/z1391vp",
         "date": "2020-11-19"
       },
       {
@@ -14911,18 +15072,18 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-19"
       },
       {
@@ -14936,23 +15097,13 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-19"
       },
       {
@@ -14961,18 +15112,28 @@
         "date": "2020-11-19"
       },
       {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
+        "date": "2020-11-19"
+      },
+      {
         "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
         "link": "https://toutiao.io/k/leud24r",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
         "date": "2020-11-19"
       },
       {
@@ -14981,8 +15142,8 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-19"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-19 14:48:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 15:04:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-19-window.open-打开一个在线文档，默认的-title-是文件的-url-地址，如何修改该-title-为自己想要的内容？](https://www.v2ex.com/t/727280) 
 - [2020-11-19-postMessage-还能这样玩](https://toutiao.io/k/286vf6i) 
 - [2020-11-19-Docker-安全实践](https://toutiao.io/k/e8r4p6x) 
 - [2020-11-19-预告|2020中国网络安全产业高峰论坛即将盛启](https://sec.thief.one/article_content?a_id=707419a5419ae6b3067665a7ebd37f95) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 15:04:45，:rocket: 更新条数: +3082， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 15:13:48，:rocket: 更新条数: +3082， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-19-开源众包平台可靠不.0-买华为-2000-云服务器](https://www.v2ex.com/t/727321) ![](assets/new.png)  
+- [2020-11-19-我又来分享生活了，比较有意思的一段经历](https://www.v2ex.com/t/727320) ![](assets/new.png)  
 - [2020-11-19-欠薪情况下，可否立即离职](https://www.v2ex.com/t/727319) ![](assets/new.png)  
 - [2020-11-19-请问有人比较过-Clion-和-Visual-Studio-不？](https://www.v2ex.com/t/727317) ![](assets/new.png)  
 - [2020-11-19-有-B-站的同学吗，自动连播咋关啊](https://www.v2ex.com/t/727316) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-19-买了才几天的-u2720q-显示异常，请问这种情况多见么？](https://www.v2ex.com/t/727292) ![](assets/new.png)  
 - [2020-11-19-今天被通知不符合试用期，我还没签字，我想要求提供不符合试用标准，这样做对吗？](https://www.v2ex.com/t/727291) ![](assets/new.png)  
 - [2020-11-19-ubuntu-笔记本求推荐](https://www.v2ex.com/t/727290) ![](assets/new.png)  
-- [2020-11-19-请教个问题，在安卓上，根据后端返回的经纬度，在百度地图上画出轨迹点，每个轨迹点都可以点击](https://www.v2ex.com/t/727289) ![](assets/new.png)  
-- [2020-11-19-Go-匿名聊天室，更新新增全天用户上线时间分布，+协程池](https://www.v2ex.com/t/727288) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

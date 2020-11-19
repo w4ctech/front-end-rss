@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 05:21:49，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 05:33:04，:rocket: 更新条数: +3079， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-19-搭建一个基于-datatable-风格的网址导航](https://www.v2ex.com/t/727090) ![](assets/new.png)  
+- [2020-11-19-Apple-发表声明-App-Store-对-Small-Business-的抽成将降到-15%](https://www.v2ex.com/t/727089) ![](assets/new.png)  
 - [2020-11-19-北京考的驾驶证到期了，有亲自换过证的老哥吗，怎么个流程？](https://www.v2ex.com/t/727086) ![](assets/new.png)  
 - [2020-11-19-iPhone12-我遇到的问题](https://www.v2ex.com/t/727085) ![](assets/new.png)  
 - [2020-11-19-youtube-印度-premium-车，美区账号，五个坑都空着](https://www.v2ex.com/t/727084) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-19-游戏原画师-日韩画风-1-年工作经验求初级岗.](https://www.v2ex.com/t/727063) ![](assets/new.png)  
 - [2020-11-19-上海-招聘-Android-开发工程师，-1-3-年工作经验，-13-16k，-13-薪，学历不限。](https://www.v2ex.com/t/727059) ![](assets/new.png)  
 - [2020-11-19-十亿级数据报表，选用什么数据库查询比较快](https://www.v2ex.com/t/727058) ![](assets/new.png)  
-- [2020-11-19-南京-招聘-Golang-后台开发](https://www.v2ex.com/t/727057) ![](assets/new.png)  
-- [2020-11-19-上海急招字节跳动-SRE-工程师-监控组件方向](https://www.v2ex.com/t/727054) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-19 12:04:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 12:15:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-19-在小米-8-上用-chrome-打开-V2EX-会导致手机的护眼模式被关闭，大家会吗？](https://www.v2ex.com/t/727269) 
+- [2020-11-19-iPhone12-无法正常连接-Carplay-系统](https://www.v2ex.com/t/727268) 
 - [2020-11-19-一个-js-文件如何引入一个-vue-组件](https://www.v2ex.com/t/727266) 
 - [2020-11-19-MBP13-2015-卡顿，有什么办法优化性能吗？](https://www.v2ex.com/t/727265) 
 - [2020-11-19-一加的-Wrap-充电器有一点迷](https://www.v2ex.com/t/727263) 
@@ -41,4 +43,3 @@
 - [2020-11-19-公司突然说可以买一些计算机和周边品类的图书，大家有什么推荐的？](https://www.v2ex.com/t/727222) 
 - [2020-11-19-Big-Sur-WindowServer-吃内存也太多了吧](https://www.v2ex.com/t/727221) 
 - [2020-11-19-mongodb-遇到-i/o-瓶颈，老哥们有没有什么办法？](https://www.v2ex.com/t/727220) 
-- [2020-11-19-M1-芯片低功耗高性能的实现](https://www.v2ex.com/t/727218) 

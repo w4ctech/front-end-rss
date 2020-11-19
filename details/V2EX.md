@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-19 01:40:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 01:47:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-19-Rootless-桌面的-Google-feed-突然可用](https://www.v2ex.com/t/726973) 
+- [2020-11-19-转售开发板-嵌入式开发-&-Linux-驱动学习-&-Android-开发学习开发板](https://www.v2ex.com/t/726971) 
 - [2020-11-19-2012-Mac-mini-16G-内存-能拿来干些什么事情](https://www.v2ex.com/t/726969) 
 - [2020-11-19-fork-一个仓库之后，该仓库新建分支之后，怎么同步所有分支到自己的仓库](https://www.v2ex.com/t/726968) 
 - [2020-11-19-为什么-MSVC-的-LNK2019-错误信息中,函数名前面都有多余的下划线?](https://www.v2ex.com/t/726967) 
@@ -38,4 +40,3 @@
 - [2020-11-18-关于-iPhone12-Pro-Max-近景对焦](https://www.v2ex.com/t/726928) 
 - [2020-11-18-Anker-的-hub/拓展坞有-2.4g-Wi-Fi-干扰的问题吗？](https://www.v2ex.com/t/726926) 
 - [2020-11-18-Big-Sur-在使用多屏时重启后顺序会错](https://www.v2ex.com/t/726925) 
-- [2020-11-18-求问下大家-mac-扩展坞有没有推荐能方便接多显示器的](https://www.v2ex.com/t/726923) 

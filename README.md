@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 01:40:03，:rocket: 更新条数: +3308， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 01:47:50，:rocket: 更新条数: +3309， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-19-Rootless-桌面的-Google-feed-突然可用](https://www.v2ex.com/t/726973) ![](assets/new.png)  
+- [2020-11-19-转售开发板-嵌入式开发-&-Linux-驱动学习-&-Android-开发学习开发板](https://www.v2ex.com/t/726971) ![](assets/new.png)  
 - [2020-11-19-2012-Mac-mini-16G-内存-能拿来干些什么事情](https://www.v2ex.com/t/726969) ![](assets/new.png)  
 - [2020-11-19-fork-一个仓库之后，该仓库新建分支之后，怎么同步所有分支到自己的仓库](https://www.v2ex.com/t/726968) ![](assets/new.png)  
 - [2020-11-19-为什么-MSVC-的-LNK2019-错误信息中,函数名前面都有多余的下划线?](https://www.v2ex.com/t/726967) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-19-Google-账号误删除活动历史](https://www.v2ex.com/t/726950) ![](assets/new.png)  
 - [2020-11-19-Java-开发有必要花接近一个月的工资去买一台-13-寸的-mbp-吗？](https://www.v2ex.com/t/726949) ![](assets/new.png)  
 - [2020-11-19-接下来这一两周，从上海去别的城市需要做核酸检测吗](https://www.v2ex.com/t/726947) ![](assets/new.png)  
-- [2020-11-19-Youtube-TV-拼车](https://www.v2ex.com/t/726944) ![](assets/new.png)  
-- [2020-11-19-迫于有几个闲置显卡，现在还有啥值得挖着的币么？](https://www.v2ex.com/t/726943) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -630,11 +630,11 @@
 - [2020-11-19-如何在公司项目中使用-WebSocke（入门实战指南）](https://toutiao.io/k/dg32a9e) ![](assets/new.png)  
 - [2020-11-19-简单分析下-Node.js-关于集群的那些事](https://toutiao.io/k/p9mn466) ![](assets/new.png)  
 - [2020-11-19-搜狐智能媒体数据仓库体系建设实践](https://toutiao.io/k/zwe8iqv) ![](assets/new.png)  
-- [2020-11-19-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
-- [2020-11-19-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
-- [2020-11-19-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) ![](assets/new.png)  
-- [2020-11-19-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-19-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) ![](assets/new.png)  
+- [2020-11-19-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-19-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
+- [2020-11-19-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-19-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) ![](assets/new.png)  
+- [2020-11-19-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

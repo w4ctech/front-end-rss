@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-19 12:42:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-19 12:49:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -26,24 +26,6 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
-<td><a href="#2019-01">01月</a></td>
-<td><a href="#2019-02">02月</a></td>
-<td><a href="#2019-03">03月</a></td>
-<td>04月</td>
-<td>05月</td>
-<td><a href="#2019-06">06月</a></td>
-<td>07月</td>
-<td>08月</td>
-<td>09月</td>
-<td>10月</td>
-<td><a href="#2019-11">11月</a></td>
-<td><a href="#2019-12">12月</a></td>
-</tr>
-
-<tr>
-<th colspan="12">2018年</th>
-</tr>
-<tr>
 <td>01月</td>
 <td>02月</td>
 <td>03月</td>
@@ -54,8 +36,8 @@
 <td>08月</td>
 <td>09月</td>
 <td>10月</td>
-<td>11月</td>
-<td><a href="#2018-12">12月</a></td>
+<td><a href="#2019-11">11月</a></td>
+<td><a href="#2019-12">12月</a></td>
 </tr>
 
 </table>
@@ -144,6 +126,8 @@
 - [【掘金前端】2020-11-19-单工程多项目](https://juejin.im/post/6896797902996733959) 
 - [【掘金前端】2020-11-19-$parent/$children的使用场景----vue组件通信系列](https://juejin.im/post/6896783432932655112) 
 - [【掘金前端】2020-11-18-React-实现简易的图片拖动排序](https://juejin.im/post/6896712416928169991) 
+- [【V2EX】2020-11-19-升级-Big-Sur-后外接屏幕看不到消息通知，能听到声音？有人遇到没？](https://www.v2ex.com/t/727281) 
+- [【V2EX】2020-11-19-window.open-打开一个在线文档，默认的-title-是文件的-url-地址，如何修改该-title-为自己想要的内容？](https://www.v2ex.com/t/727280) 
 - [【V2EX】2020-11-19-控制中心是-Bug？还是就是这么设计的？](https://www.v2ex.com/t/727279) 
 - [【V2EX】2020-11-19-5500M-的-MacBook-Pro-外接显示屏看-Netflix-居然会掉帧](https://www.v2ex.com/t/727278) 
 - [【V2EX】2020-11-19-蝶式键盘有一个按键粘滞感，不知道是因为撒了点咖啡进去还是因为性能缺陷](https://www.v2ex.com/t/727275) 
@@ -180,7 +164,6 @@
 - [【V2EX】2020-11-19-请问一下，-M1-可以正常使用-webstorm-和-sketch-吗](https://www.v2ex.com/t/727235) 
 - [【V2EX】2020-11-19-最近在-boss-直聘上找深圳这边的软件测试，请问有哪些公司是需要避坑的吗？](https://www.v2ex.com/t/727233) 
 - [【V2EX】2020-11-19-IBM-分析：苹果用-M1-芯片，-1-年可省-25-亿美元硬件成本](https://www.v2ex.com/t/727232) 
-- [【V2EX】2020-11-19-阿里云盘已经可以快速通过内侧了，我这里已经开通啦，还没有上传文件测试速度！](https://www.v2ex.com/t/727230) 
 - [【技术头条】2020-11-19-揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-11-19-年轻人不讲武德，偷袭阿里的机房-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13968&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-11-19-阿里巴巴集团-CTO-程立：今年天猫双-11，阿里练了什么？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13967&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778266%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -221,21 +204,21 @@
 - [【开发者头条】2020-11-19-前沿实践：垃圾回收器是如何演进的？](https://toutiao.io/k/ngoia8o) 
 - [【开发者头条】2020-11-19-从-react-native-的-js-和-native-通讯看看-JSI-是什么](https://toutiao.io/k/zsxr7qt) 
 - [【开发者头条】2020-11-19-数据平台服务化建设（四）：-数据接入](https://toutiao.io/k/mgett3d) 
-- [【开发者头条】2020-11-19-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) 
-- [【开发者头条】2020-11-19-推荐-MyBatis-的本质和原理](https://toutiao.io/k/613ifih) 
-- [【开发者头条】2020-11-19-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) 
-- [【开发者头条】2020-11-19-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) 
-- [【开发者头条】2020-11-19-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) 
-- [【开发者头条】2020-11-19-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) 
-- [【开发者头条】2020-11-19-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) 
-- [【开发者头条】2020-11-19-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) 
-- [【开发者头条】2020-11-19-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) 
-- [【开发者头条】2020-11-19-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) 
-- [【开发者头条】2020-11-19-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) 
 - [【开发者头条】2020-11-19-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) 
-- [【开发者头条】2020-11-19-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) 
+- [【开发者头条】2020-11-19-推荐-一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](https://toutiao.io/k/gk7ay10) 
+- [【开发者头条】2020-11-19-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) 
+- [【开发者头条】2020-11-19-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) 
+- [【开发者头条】2020-11-19-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) 
+- [【开发者头条】2020-11-19-推荐-消息队列和任务队列有什么区别？](https://toutiao.io/k/cfr4egg) 
+- [【开发者头条】2020-11-19-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) 
+- [【开发者头条】2020-11-19-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) 
 - [【开发者头条】2020-11-19-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) 
-- [【开发者头条】2020-11-19-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) 
+- [【开发者头条】2020-11-19-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) 
+- [【开发者头条】2020-11-19-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) 
+- [【开发者头条】2020-11-19-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) 
+- [【开发者头条】2020-11-19-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) 
+- [【开发者头条】2020-11-19-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) 
+- [【开发者头条】2020-11-19-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) 
 - [【安全热点】2020-11-19-奇安信独家技术支撑!2020年全国电信和互联网行业网安管理职业技能...](https://sec.thief.one/article_content?a_id=cd78d9b0ad089d4839ad502673b61949) 
 - [【安全热点】2020-11-19-【漏洞通告】Drupal远程代码执行漏洞CVE-2020-13671](https://sec.thief.one/article_content?a_id=48a6f236702e56cd09f86577cca9d41c) 
 - [【安全热点】2020-11-19-AIoT安全峰会议题回顾|等保2.0-物联网安全扩展要求解读](https://sec.thief.one/article_content?a_id=f14bc1c353b9247643ba59b41b6639ae) 
@@ -2203,8 +2186,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-抓防疫也顾春耕-李克强开了新冠疫情领导小组会](http://m.china.caixin.com/m/2020-03-02/101523024.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-北京：黄某英离汉进京有关问题的调查及情况通报](http://m.china.caixin.com/m/2020-03-02/101522908.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html) 
-- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3265,64 +3246,6 @@
 - [【前端艺术家&&飞冰早报】2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [【前端艺术家&&飞冰早报】2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
 - [【前端艺术家&&飞冰早报】2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-06">
- 2019-06
-</summary>
-
-
-- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-03">
- 2019-03
-</summary>
-
-
-- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-02">
- 2019-02
-</summary>
-
-
-- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2019-01">
- 2019-01
-</summary>
-
-
-- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2018-12">
- 2018-12
-</summary>
-
-
-- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
-- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
-- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

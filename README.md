@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 13:35:22，:rocket: 更新条数: +3086， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 13:47:50，:rocket: 更新条数: +3086， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-19-AWS-Lightsail-重启失败，控制台里面看不到实例状态](https://www.v2ex.com/t/727295) ![](assets/new.png)  
+- [2020-11-19-Awesome-Open-Source-这个网站有大佬用过吗？咨询一下问题](https://www.v2ex.com/t/727294) ![](assets/new.png)  
 - [2020-11-19-买了才几天的-u2720q-显示异常，请问这种情况多见么？](https://www.v2ex.com/t/727292) ![](assets/new.png)  
 - [2020-11-19-今天被通知不符合试用期，我还没签字，我想要求提供不符合试用标准，这样做对吗？](https://www.v2ex.com/t/727291) ![](assets/new.png)  
 - [2020-11-19-ubuntu-笔记本求推荐](https://www.v2ex.com/t/727290) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-19-我有一个猎头电话黑名单，怎么导入到-iPhone-中？](https://www.v2ex.com/t/727272) ![](assets/new.png)  
 - [2020-11-19-macOS-风格的终端截图和录屏都是怎么做到的？](https://www.v2ex.com/t/727271) ![](assets/new.png)  
 - [2020-11-19-萌新小白，打算入坑-nas，求指导](https://www.v2ex.com/t/727270) ![](assets/new.png)  
-- [2020-11-19-在小米-8-上用-chrome-打开-V2EX-会导致手机的护眼模式被关闭，大家会吗？](https://www.v2ex.com/t/727269) ![](assets/new.png)  
-- [2020-11-19-iPhone12-无法正常连接-Carplay-系统](https://www.v2ex.com/t/727268) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

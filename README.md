@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 14:04:45，:rocket: 更新条数: +3085， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 14:14:18，:rocket: 更新条数: +3084， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-19-Big-Sur-升级后电量掉的很快](https://www.v2ex.com/t/727305) ![](assets/new.png)  
 - [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) ![](assets/new.png)  
 - [2020-11-19-hmm，-YouTube-港区车](https://www.v2ex.com/t/727301) ![](assets/new.png)  
 - [2020-11-19-广州/苏州高性能计算-HPC-Linux-运维-支持全球客户](https://www.v2ex.com/t/727300) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-19-window.open-打开一个在线文档，默认的-title-是文件的-url-地址，如何修改该-title-为自己想要的内容？](https://www.v2ex.com/t/727280) ![](assets/new.png)  
 - [2020-11-19-控制中心是-Bug？还是就是这么设计的？](https://www.v2ex.com/t/727279) ![](assets/new.png)  
 - [2020-11-19-5500M-的-MacBook-Pro-外接显示屏看-Netflix-居然会掉帧](https://www.v2ex.com/t/727278) ![](assets/new.png)  
-- [2020-11-19-蝶式键盘有一个按键粘滞感，不知道是因为撒了点咖啡进去还是因为性能缺陷](https://www.v2ex.com/t/727275) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -14486,6 +14486,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "Vue3+TS，写一个逼格满满的项目",
+        "link": "https://juejin.im/post/6896748218076364814",
+        "date": "2020-11-19"
+      },
+      {
         "title": "javaScript 闭包",
         "link": "https://juejin.im/post/6896714960257155080",
         "date": "2020-11-18"
@@ -14503,11 +14508,6 @@
       {
         "title": "webpack打包后的文件简单分析",
         "link": "https://juejin.im/post/6896712539212775437",
-        "date": "2020-11-18"
-      },
-      {
-        "title": "React 实现简易的图片拖动排序",
-        "link": "https://juejin.im/post/6896712416928169991",
         "date": "2020-11-18"
       }
     ]
@@ -14693,6 +14693,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "金山文档在线文档掉线",
+        "link": "https://www.v2ex.com/t/727192",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "M1 这么香，那么问题来了，有必要把手上的 2019mbp 换成 m1 air 嘛",
+        "link": "https://www.v2ex.com/t/727191",
+        "date": "2020-11-19"
+      },
+      {
         "title": "求助， Python 监控 windows 程序，崩溃后自启动",
         "link": "https://www.v2ex.com/t/727190",
         "date": "2020-11-19"
@@ -14860,16 +14870,6 @@
       {
         "title": "办宽带被电信内鬼薅羊毛了，各位注意一下",
         "link": "https://www.v2ex.com/t/727144",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "阿里云 idea 插件卡死了",
-        "link": "https://www.v2ex.com/t/727143",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "如何迁移老 Mac 的 QQ 聊天记录到 M1 MAC?",
-        "link": "https://www.v2ex.com/t/727141",
         "date": "2020-11-19"
       }
     ]
@@ -15087,43 +15087,33 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
+        "title": "[推荐] 52 图初探 Linux 通用知识",
+        "link": "https://toutiao.io/k/mgktqso",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
-        "link": "https://toutiao.io/k/gk7ay10",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-19"
       },
       {
@@ -15132,23 +15122,18 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-19"
-      },
-      {
         "title": "[推荐] 面试过 200 人的经验，都在这里了",
         "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
         "date": "2020-11-19"
       },
       {
@@ -15159,6 +15144,21 @@
       {
         "title": "[推荐] 高并发高性能服务器是如何实现的",
         "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
         "date": "2020-11-19"
       }
     ]

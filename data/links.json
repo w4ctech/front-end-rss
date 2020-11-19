@@ -35,11 +35,6 @@
         "date": "2020-11-17"
       },
       {
-        "title": "为何新冠病死率看起来在下降？ 《自然》刊文详解原因",
-        "link": "https://m.caixin.com/m/2020-11-18/101629488.html",
-        "date": "2020-11-17"
-      },
-      {
         "title": "最新海外疫情：新冠感染超5553万 累计死亡超133万",
         "link": "https://m.caixin.com/m/2020-11-18/101629831.html",
         "date": "2020-11-17"
@@ -57,6 +52,11 @@
       {
         "title": "大流行手记|11月17日：世卫谨慎看待疫苗捷报 俄罗斯日增病例创新高",
         "link": "https://m.caixin.com/m/2020-11-18/101629492.html",
+        "date": "2020-11-17"
+      },
+      {
+        "title": "为何新冠病死率看起来在下降？ 《自然》刊文详解原因",
+        "link": "https://m.caixin.com/m/2020-11-18/101629488.html",
         "date": "2020-11-17"
       },
       {
@@ -14486,6 +14486,11 @@
     "link": "https://juejin.im/frontend",
     "items": [
       {
+        "title": "前端--JS干货知识点 推荐收藏",
+        "link": "https://juejin.im/post/6896807511584997384",
+        "date": "2020-11-19"
+      },
+      {
         "title": "Vue 自检",
         "link": "https://juejin.im/post/6896807654492995597",
         "date": "2020-11-19"
@@ -14498,11 +14503,6 @@
       {
         "title": "$parent/$children的使用场景 -- vue组件通信系列",
         "link": "https://juejin.im/post/6896783432932655112",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "Vue响应式数据原理",
-        "link": "https://juejin.im/post/6896777102369456142",
         "date": "2020-11-19"
       },
       {
@@ -14693,6 +14693,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "控制中心是 Bug？还是就是这么设计的？",
+        "link": "https://www.v2ex.com/t/727279",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "5500M 的 MacBook Pro 外接显示屏看 Netflix 居然会掉帧",
+        "link": "https://www.v2ex.com/t/727278",
+        "date": "2020-11-19"
+      },
+      {
         "title": "蝶式键盘有一个按键粘滞感，不知道是因为撒了点咖啡进去还是因为性能缺陷",
         "link": "https://www.v2ex.com/t/727275",
         "date": "2020-11-19"
@@ -14865,21 +14875,6 @@
       {
         "title": "阿里云盘已经可以快速通过内侧了，我这里已经开通啦，还没有上传文件测试速度！",
         "link": "https://www.v2ex.com/t/727230",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "golang return defer panic 对返回值的影响",
-        "link": "https://www.v2ex.com/t/727228",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "微信实验系统招算法研究员和大数据后台开发，欢迎联系~",
-        "link": "https://www.v2ex.com/t/727227",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "那个挂了阿里 P6+的小哥，一周后接到了蚂蚁 P7 offer！",
-        "link": "https://www.v2ex.com/t/727226",
         "date": "2020-11-19"
       }
     ]
@@ -15097,18 +15092,8 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] Docker 底层原理浅析",
+        "link": "https://toutiao.io/k/nvbge2t",
         "date": "2020-11-19"
       },
       {
@@ -15117,8 +15102,8 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
+        "title": "[推荐] 消息队列和任务队列有什么区别？",
+        "link": "https://toutiao.io/k/cfr4egg",
         "date": "2020-11-19"
       },
       {
@@ -15127,13 +15112,23 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
         "date": "2020-11-19"
       },
       {
@@ -15142,33 +15137,33 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-19"
       },
       {
         "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
         "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-19"
       }
     ]

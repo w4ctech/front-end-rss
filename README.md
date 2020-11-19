@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 15:49:37，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 16:05:16，:rocket: 更新条数: +3082， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-19-有没有哪个朋友愿意给小弟来一场有偿模拟面试？](https://www.v2ex.com/t/727336) ![](assets/new.png)  
+- [2020-11-19-抖音北京-CICD-开发实习生-Python-/golang](https://www.v2ex.com/t/727335) ![](assets/new.png)  
+- [2020-11-19-请问-vscode-折叠一大坨代码的时候能不能只折叠最外层的嵌套，而不是折叠每一个嵌套？](https://www.v2ex.com/t/727334) ![](assets/new.png)  
 - [2020-11-19-求一个简单的思路，获取微信群成员的微信号](https://www.v2ex.com/t/727333) ![](assets/new.png)  
 - [2020-11-19-南京/阿里巴巴-南京研发中心期待你的加入，-2~3-周内发-offer](https://www.v2ex.com/t/727332) ![](assets/new.png)  
 - [2020-11-19-有使用-M1-MAC-跑-iOS-APP-的各位，数据文件能保存吗？](https://www.v2ex.com/t/727331) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-19-求浦西家具回收推荐](https://www.v2ex.com/t/727310) ![](assets/new.png)  
 - [2020-11-19-不是，你们有试试双卡吗？](https://www.v2ex.com/t/727308) ![](assets/new.png)  
 - [2020-11-19-使用-Vue-前端、Rails-后端实现图片上传的功能](https://www.v2ex.com/t/727307) ![](assets/new.png)  
-- [2020-11-19-Big-Sur-升级后电量掉的很快](https://www.v2ex.com/t/727305) ![](assets/new.png)  
-- [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) ![](assets/new.png)  
-- [2020-11-19-hmm，-YouTube-港区车](https://www.v2ex.com/t/727301) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

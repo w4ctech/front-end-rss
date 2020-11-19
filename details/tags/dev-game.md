@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-19 10:35:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 10:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,4 +7,5 @@
 
 
 
+- [2020-11-19-请问为什么-boss-直聘上有一些公司明显主营业务不是游戏也会招聘游戏测试？](https://www.v2ex.com/t/727249) 
 - [2020-11-17-IBM获得针对多人游戏内交易的拟议区块链共识专利](https://sec.thief.one/article_content?a_id=ea211fafce3a3d954f88bbcbcf047ede) 

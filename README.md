@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 10:35:26，:rocket: 更新条数: +3087， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 10:47:45，:rocket: 更新条数: +3087， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-19-请问为什么-boss-直聘上有一些公司明显主营业务不是游戏也会招聘游戏测试？](https://www.v2ex.com/t/727249) ![](assets/new.png)  
+- [2020-11-19-很好，没有生气☺](https://www.v2ex.com/t/727248) ![](assets/new.png)  
 - [2020-11-19-我猜这里有很多写爬虫的高手。请教以下，知道哪里能获得国内主要高速公路、国道的车辆通行数据信息么？](https://www.v2ex.com/t/727247) ![](assets/new.png)  
 - [2020-11-19-iCloud-同步照片特别慢，可以关掉-IPv6-试试](https://www.v2ex.com/t/727246) ![](assets/new.png)  
 - [2020-11-19-Ipone-有没有那种给应用加密的软件？](https://www.v2ex.com/t/727245) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-19-微信实验系统招算法研究员和大数据后台开发，欢迎联系~](https://www.v2ex.com/t/727227) ![](assets/new.png)  
 - [2020-11-19-那个挂了阿里-P6+的小哥，一周后接到了蚂蚁-P7-offer！](https://www.v2ex.com/t/727226) ![](assets/new.png)  
 - [2020-11-19-上海睿当家科技，不懂-App-外行，且又十分爱国的公司...](https://www.v2ex.com/t/727225) ![](assets/new.png)  
-- [2020-11-19-Linux-状态图表-2020-10](https://www.v2ex.com/t/727224) ![](assets/new.png)  
-- [2020-11-19-安卓主进程等待多个子进程做完任务有什么优雅的设计模式吗？](https://www.v2ex.com/t/727223) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

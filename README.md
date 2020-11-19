@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 05:11:55，:rocket: 更新条数: +3080， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 05:21:49，:rocket: 更新条数: +3081， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-11-18-11月18日全国新增确诊病例12例-均为境外输入病例](https://m.caixin.com/m/2020-11-19/101629984.html) ![](assets/new.png)  
+- [2020-11-18-英国赴华健康码申请要求再调整-航班乘客如何完成检测？](https://m.caixin.com/m/2020-11-19/101630020.html) ![](assets/new.png)  
 - [2020-11-18-大流行手记|11月18日：WHO总部累计65人感染-谭德赛吁各界为疫苗计划捐款](https://m.caixin.com/m/2020-11-19/101629954.html) ![](assets/new.png)  
 - [2020-11-17-研究：新冠肺炎或易诱发精神疾病-反之亦然](https://m.caixin.com/m/2020-11-18/101629716.html) ![](assets/new.png)  
 - [2020-11-17-为何新冠病死率看起来在下降？-《自然》刊文详解原因](https://m.caixin.com/m/2020-11-18/101629488.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-14-【境内疫情观察】全国新增13例境外输入病例（11月14日）](http://m.database.caixin.com/m/2020-11-15/101628411.html) ![](assets/new.png)  
 - [2020-11-14-大流行手记|11月14日：多国明确疫苗接种计划-韩国疫情升温](https://m.caixin.com/m/2020-11-15/101628278.html) ![](assets/new.png)  
 - [2020-11-13-【境内疫情观察】全国新增18例境外输入病例（11月13日）](http://m.database.caixin.com/m/2020-11-14/101627999.html) ![](assets/new.png)  
-- [2020-11-13-大流行手记|11月13日：英日增病例创新高-日本研究称新冠变异后传染性增强](https://m.caixin.com/m/2020-11-14/101627841.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,8 @@
 </summary>
 
 
+- [2020-11-19-北京考的驾驶证到期了，有亲自换过证的老哥吗，怎么个流程？](https://www.v2ex.com/t/727086) ![](assets/new.png)  
+- [2020-11-19-iPhone12-我遇到的问题](https://www.v2ex.com/t/727085) ![](assets/new.png)  
 - [2020-11-19-youtube-印度-premium-车，美区账号，五个坑都空着](https://www.v2ex.com/t/727084) ![](assets/new.png)  
 - [2020-11-19-举报诈骗电话和网站，我用-12321-和-96110-错了么?](https://www.v2ex.com/t/727082) ![](assets/new.png)  
 - [2020-11-19-求助，升级了电信-1000M-宽带，却始终跑不满？](https://www.v2ex.com/t/727081) ![](assets/new.png)  
@@ -551,8 +553,6 @@
 - [2020-11-19-十亿级数据报表，选用什么数据库查询比较快](https://www.v2ex.com/t/727058) ![](assets/new.png)  
 - [2020-11-19-南京-招聘-Golang-后台开发](https://www.v2ex.com/t/727057) ![](assets/new.png)  
 - [2020-11-19-上海急招字节跳动-SRE-工程师-监控组件方向](https://www.v2ex.com/t/727054) ![](assets/new.png)  
-- [2020-11-19-有没有改过名字的，周期要多长，所有的证件，银行卡什么的怎么处理](https://www.v2ex.com/t/727052) ![](assets/new.png)  
-- [2020-11-19-apple-trade-in-是直接给钱吗?-线下店有这个服务吗?](https://www.v2ex.com/t/727051) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -604,8 +604,8 @@
 - [2020-11-19-Elasticsearch-集群故障排查及修复指南](https://toutiao.io/k/nbiibv7) ![](assets/new.png)  
 - [2020-11-19-新老手都值得看的-Flink-关键技术解析与优化实战](https://toutiao.io/k/ee2z21c) ![](assets/new.png)  
 - [2020-11-19-再聊-Blazor，它是否值得你花时间学习](https://toutiao.io/k/z1391vp) ![](assets/new.png)  
-- [2020-11-19-Objective-C-的元组实现-JDTuple](https://toutiao.io/k/trnzy7k) ![](assets/new.png)  
 - [2020-11-19-硬核，这-3-款-IDE-插件让你的代码牢不可破](https://toutiao.io/k/wtbklhn) ![](assets/new.png)  
+- [2020-11-19-Objective-C-的元组实现-JDTuple](https://toutiao.io/k/trnzy7k) ![](assets/new.png)  
 - [2020-11-19-Docker-安全实践](https://toutiao.io/k/e8r4p6x) ![](assets/new.png)  
 - [2020-11-19-如何在公司项目中使用-WebSocke（入门实战指南）](https://toutiao.io/k/dg32a9e) ![](assets/new.png)  
 - [2020-11-19-搜狐智能媒体数据仓库体系建设实践](https://toutiao.io/k/zwe8iqv) ![](assets/new.png)  

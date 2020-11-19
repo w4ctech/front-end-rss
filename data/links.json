@@ -14693,6 +14693,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有人发觉 iOS 下用浏览器/微信访问 DNSPod 上的域名，解析速度超慢，但是用 Win/Mac/Android 基本没有问题？",
+        "link": "https://www.v2ex.com/t/727150",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "求推荐手机 VR 眼镜和安卓 VR 视频播放器",
+        "link": "https://www.v2ex.com/t/727149",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "请教一下各位大佬关于 CDN 配置的问题",
+        "link": "https://www.v2ex.com/t/727147",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "看了很多新的苹果 m1 cpu 的惊天测评，心中还是有点惴惴不安",
+        "link": "https://www.v2ex.com/t/727146",
+        "date": "2020-11-19"
+      },
+      {
         "title": "M1 的 Mac 以后系统降级。。。真的能行得通么",
         "link": "https://www.v2ex.com/t/727145",
         "date": "2020-11-19"
@@ -14865,26 +14885,6 @@
       {
         "title": "爱思序列号检测 iPhone 12 屏幕厂商的办法, 应该是假的",
         "link": "https://www.v2ex.com/t/727101",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "Figma 现在比 Sketch 强很多吗？ V2 的设计师们能评价一下吗？",
-        "link": "https://www.v2ex.com/t/727100",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "Siri 不够聪明，用\"快捷指令\"来拯救",
-        "link": "https://www.v2ex.com/t/727099",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "react-redux 是推荐用传统的爷父子传参方式，还是 hooks 的方式发送 acton？",
-        "link": "https://www.v2ex.com/t/727098",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "我们这样定义 api，大家觉得如何？",
-        "link": "https://www.v2ex.com/t/727096",
         "date": "2020-11-19"
       }
     ]
@@ -15082,13 +15082,13 @@
         "date": "2020-11-19"
       },
       {
-        "title": "从 react-native 的 js 和 native 通讯看看 JSI 是什么",
-        "link": "https://toutiao.io/k/zsxr7qt",
+        "title": "前沿实践：垃圾回收器是如何演进的？",
+        "link": "https://toutiao.io/k/ngoia8o",
         "date": "2020-11-19"
       },
       {
-        "title": "前沿实践：垃圾回收器是如何演进的？",
-        "link": "https://toutiao.io/k/ngoia8o",
+        "title": "从 react-native 的 js 和 native 通讯看看 JSI 是什么",
+        "link": "https://toutiao.io/k/zsxr7qt",
         "date": "2020-11-19"
       },
       {
@@ -15102,68 +15102,8 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
-        "date": "2020-11-19"
-      },
-      {
         "title": "[推荐] MySQL 的 join 功能弱爆了？",
         "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
         "date": "2020-11-19"
       },
       {
@@ -15172,8 +15112,68 @@
         "date": "2020-11-19"
       },
       {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？",
+        "link": "https://toutiao.io/k/gk7ay10",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "[推荐] 深入理解 Java 线程池",
+        "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-19"
       }
     ]

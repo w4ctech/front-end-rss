@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 07:22:28，:rocket: 更新条数: +3087， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 07:33:11，:rocket: 更新条数: +3087， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-19-有没有人发觉-iOS-下用浏览器/微信访问-DNSPod-上的域名，解析速度超慢，但是用-Win/Mac/Android-基本没有问题？](https://www.v2ex.com/t/727150) ![](assets/new.png)  
+- [2020-11-19-求推荐手机-VR-眼镜和安卓-VR-视频播放器](https://www.v2ex.com/t/727149) ![](assets/new.png)  
+- [2020-11-19-请教一下各位大佬关于-CDN-配置的问题](https://www.v2ex.com/t/727147) ![](assets/new.png)  
+- [2020-11-19-看了很多新的苹果-m1-cpu-的惊天测评，心中还是有点惴惴不安](https://www.v2ex.com/t/727146) ![](assets/new.png)  
 - [2020-11-19-M1-的-Mac-以后系统降级。。。真的能行得通么](https://www.v2ex.com/t/727145) ![](assets/new.png)  
 - [2020-11-19-办宽带被电信内鬼薅羊毛了，各位注意一下](https://www.v2ex.com/t/727144) ![](assets/new.png)  
 - [2020-11-19-阿里云-idea-插件卡死了](https://www.v2ex.com/t/727143) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-19-求推荐一款-2C-或-3C-或-2C1A-的充电器，满足出差-macbookpro15-和-iphone12promax-的日常充电](https://www.v2ex.com/t/727130) ![](assets/new.png)  
 - [2020-11-19-杭州-字节跳动-飞书智能企业管理生态部门招人啦---拿完年终奖，起航新人生](https://www.v2ex.com/t/727128) ![](assets/new.png)  
 - [2020-11-19-汽车之家大数据或者实时计算平台方向的工程师](https://www.v2ex.com/t/727127) ![](assets/new.png)  
-- [2020-11-19-上海帮忙招一个-Flutter-工程师，会-Flutter-框架的小伙伴看过来了](https://www.v2ex.com/t/727126) ![](assets/new.png)  
-- [2020-11-19-从什么时候开始，无产阶级开始帮资本家辩护了？](https://www.v2ex.com/t/727124) ![](assets/new.png)  
-- [2020-11-19-wordpress-有哪些插件或主题类似文档结构风格的-如:-wedocs](https://www.v2ex.com/t/727123) ![](assets/new.png)  
-- [2020-11-19-关于-M1，这篇文章做了比较详尽的解释](https://www.v2ex.com/t/727122) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -611,8 +611,8 @@
 - [2020-11-19-搜狐智能媒体数据仓库体系建设实践](https://toutiao.io/k/zwe8iqv) ![](assets/new.png)  
 - [2020-11-19-简单分析下-Node.js-关于集群的那些事](https://toutiao.io/k/p9mn466) ![](assets/new.png)  
 - [2020-11-19-看完这篇,再也不用担心不会写-dockerfile-了](https://toutiao.io/k/zzpdj8o) ![](assets/new.png)  
-- [2020-11-19-从-react-native-的-js-和-native-通讯看看-JSI-是什么](https://toutiao.io/k/zsxr7qt) ![](assets/new.png)  
 - [2020-11-19-前沿实践：垃圾回收器是如何演进的？](https://toutiao.io/k/ngoia8o) ![](assets/new.png)  
+- [2020-11-19-从-react-native-的-js-和-native-通讯看看-JSI-是什么](https://toutiao.io/k/zsxr7qt) ![](assets/new.png)  
 - [2020-11-19-深坑啊！同一个-Spring-AOP-的坑，我一天踩了两次](https://toutiao.io/k/mq8x3lu) ![](assets/new.png)  
 - [2020-11-19-数据平台服务化建设（四）：-数据接入](https://toutiao.io/k/mgett3d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

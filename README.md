@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-19 11:21:38，:rocket: 更新条数: +3319， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 11:32:59，:rocket: 更新条数: +3320， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-19-产品经理被研发要求设计好数据库字段](https://www.v2ex.com/t/727261) ![](assets/new.png)  
+- [2020-11-19-jdk-8-怎么和-jdk-15.1-差距这么大？](https://www.v2ex.com/t/727260) ![](assets/new.png)  
 - [2020-11-19-iPhone12-pro-max-电脑预约一直卡在注册码页面](https://www.v2ex.com/t/727259) ![](assets/new.png)  
 - [2020-11-19-Go-协程池解析~通俗易懂](https://www.v2ex.com/t/727257) ![](assets/new.png)  
 - [2020-11-19-自译-Inkdrop-我是如何通过一个-Markdown-编辑器获得-$1300/月？](https://www.v2ex.com/t/727255) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-19-有木有外区-apple-music-用户看下能否复现这个-bug](https://www.v2ex.com/t/727238) ![](assets/new.png)  
 - [2020-11-19-请问-macOS-内存占比中-‘其它’-占比怎么清除](https://www.v2ex.com/t/727237) ![](assets/new.png)  
 - [2020-11-19-M1-机器学习性能真的这么强？-堪比-1080ti？](https://www.v2ex.com/t/727236) ![](assets/new.png)  
-- [2020-11-19-请问一下，-M1-可以正常使用-webstorm-和-sketch-吗](https://www.v2ex.com/t/727235) ![](assets/new.png)  
-- [2020-11-19-最近在-boss-直聘上找深圳这边的软件测试，请问有哪些公司是需要避坑的吗？](https://www.v2ex.com/t/727233) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

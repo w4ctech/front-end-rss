@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-19 22:33:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 22:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2020-11-19-使用-Vue-前端、Rails-后端实现图片上传的功能](https://www.v2ex.com/t/727307) 
 - [2020-11-19-Big-Sur-升级后电量掉的很快](https://www.v2ex.com/t/727305) 
 - [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) 
-- [2020-11-19-广州/苏州高性能计算-HPC-Linux-运维-支持全球客户](https://www.v2ex.com/t/727300) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-20 06:41:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 06:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -12,5 +12,4 @@
 - [2020-11-20-字节跳动-飞书-OKR-团队，火热招聘！成都、北京、武汉、广州！海量产品、运营、技术、设计职位等你来！](https://www.v2ex.com/t/727495) 
 - [2020-11-20-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) 
 - [2020-11-20-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) 
-- [2020-11-20-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) 
 - [2020-11-18-招聘-|-广东博智林机器人有限公司碧桂园旗下](https://sec.thief.one/article_content?a_id=e63a13fe0908b75a5f5fa4bc4853efcc) 

@@ -15,6 +15,11 @@
         "date": "2020-11-19"
       },
       {
+        "title": "【境内疫情观察】新疆现有确诊病例清零（11月19日）",
+        "link": "http://m.database.caixin.com/m/2020-11-20/101630462.html",
+        "date": "2020-11-19"
+      },
+      {
         "title": "大流行手记|11月19日：日本规定打新冠疫苗为国民义务 特斯拉CEO马斯克确诊",
         "link": "https://m.caixin.com/m/2020-11-20/101630323.html",
         "date": "2020-11-19"
@@ -14708,6 +14713,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "投资不过山海关",
+        "link": "https://www.v2ex.com/t/727543",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "现在 v2 出二手都不标价了？",
+        "link": "https://www.v2ex.com/t/727542",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "问一下 m1 芯片的时钟周期是多少 我感觉程序的运行时间计算不太对.",
+        "link": "https://www.v2ex.com/t/727541",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "新网 com 域名首年 11.11 元，无 aff",
+        "link": "https://www.v2ex.com/t/727539",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "分享一个 m1 的 app 支持清单地址",
+        "link": "https://www.v2ex.com/t/727538",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "Flutter 的开发体验真的是很好",
+        "link": "https://www.v2ex.com/t/727537",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[北京社招-急+2] 美团-诚招高级/资深工程师（30-45k）",
+        "link": "https://www.v2ex.com/t/727536",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "这句话的翻译是？(PEP585)",
+        "link": "https://www.v2ex.com/t/727535",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "需要换个电脑， 13 寸 mbp 要不要买新出 M1 芯片还是 i7 纠结了，求赐教",
+        "link": "https://www.v2ex.com/t/727533",
+        "date": "2020-11-20"
+      },
+      {
         "title": "字节跳动北京前端服务端客户端 招聘 海量 HC",
         "link": "https://www.v2ex.com/t/727532",
         "date": "2020-11-20"
@@ -14841,36 +14891,6 @@
         "title": "字节跳动-飞书 OKR 团队，火热招聘！成都、北京、武汉、广州！海量产品、运营、技术、设计职位等你来！",
         "link": "https://www.v2ex.com/t/727495",
         "date": "2020-11-20"
-      },
-      {
-        "title": "MacBook Air (M1,2020)隔空播放问题，芯片兼容问题？",
-        "link": "https://www.v2ex.com/t/727493",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "升级到 big sur 后炉石闪退大家都遇到过吗？",
-        "link": "https://www.v2ex.com/t/727492",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "Offer 选择求建议 成都 15 OR 杭州 20",
-        "link": "https://www.v2ex.com/t/727490",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "用花 B/淘 B 用出了烦恼",
-        "link": "https://www.v2ex.com/t/727486",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "有微信公众号前端 UI 组件库推荐的吗？",
-        "link": "https://www.v2ex.com/t/727484",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "Python 异常处理风格",
-        "link": "https://www.v2ex.com/t/727483",
-        "date": "2020-11-20"
       }
     ]
   },
@@ -14879,6 +14899,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "质量内建——缺陷管理实践分享 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-11-20"
+      },
       {
         "title": "AI云原生浅谈：好未来AI中台实践 (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -14972,11 +14997,6 @@
       {
         "title": "什么是低代码（Low-Code）？ (developer.aliyun.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13954&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778355%3Futm_content%3Dg_1000205617%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "企业双11业绩增长156% 、成交额突破151亿元 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13953&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778319%3Futm_content%3Dg_1000205616%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-11-20"
       }
     ]
@@ -15087,8 +15107,13 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-20"
       },
       {
@@ -15097,28 +15122,23 @@
         "date": "2020-11-20"
       },
       {
+        "title": "[推荐] 小团队如何落地敏捷开发",
+        "link": "https://toutiao.io/k/hg0jmdy",
+        "date": "2020-11-20"
+      },
+      {
         "title": "[推荐] 深入理解 Java 线程池",
         "link": "https://toutiao.io/k/dwlr0t4",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 消息架构的设计难题以及应对之道",
-        "link": "https://toutiao.io/k/3vly0qt",
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
-        "link": "https://toutiao.io/k/b2q9ajw",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
-        "link": "https://toutiao.io/k/ekz4xzi",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
         "date": "2020-11-20"
       },
       {
@@ -15127,18 +15147,13 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
+        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
+        "link": "https://toutiao.io/k/yyjv3sj",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-20"
       },
       {
@@ -15147,18 +15162,23 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 技术人员该如何接手一个复杂的系统？吐血推荐这几招",
-        "link": "https://toutiao.io/k/yyjv3sj",
-        "date": "2020-11-20"
-      },
-      {
         "title": "[推荐] 分布式一致性协议：ZAB",
         "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
+        "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
+        "link": "https://toutiao.io/k/ekz4xzi",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-20"
       }
     ]

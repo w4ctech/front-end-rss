@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 06:41:48，:rocket: 更新条数: +3084， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 06:47:53，:rocket: 更新条数: +3088， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 - [2020-11-19-11月19日全国新增确诊病例17例-新增疑似病例1例](https://m.caixin.com/m/2020-11-20/101630332.html) ![](assets/new.png)  
 - [2020-11-19-天津新增4例本土确诊病例-为此前通报的4名核酸检测阳性者](https://m.caixin.com/m/2020-11-20/101630319.html) ![](assets/new.png)  
+- [2020-11-19-【境内疫情观察】新疆现有确诊病例清零（11月19日）](http://m.database.caixin.com/m/2020-11-20/101630462.html) ![](assets/new.png)  
 - [2020-11-19-大流行手记|11月19日：日本规定打新冠疫苗为国民义务-特斯拉CEO马斯克确诊](https://m.caixin.com/m/2020-11-20/101630323.html) ![](assets/new.png)  
 - [2020-11-18-港中文研发“微生态免疫力配方”-促新冠患者加快康复](https://m.caixin.com/m/2020-11-19/101630268.html) ![](assets/new.png)  
 - [2020-11-18-美国新冠死亡人数突破25万-多州市重拾抗疫措施](http://m.international.caixin.com/m/2020-11-19/101630028.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-15-多地进口冷链包装检出新冠阳性-交通部发文加强冷链运输防控](http://m.companies.caixin.com/m/2020-11-16/101628925.html) ![](assets/new.png)  
 - [2020-11-15-上海：高风险进口冷链食品入沪将进行核酸检测和外包装消毒](https://m.caixin.com/m/2020-11-16/101628578.html) ![](assets/new.png)  
 - [2020-11-15-厦门1份进口冷冻猪肉外包装核酸检测阳性-未流入市场](https://m.caixin.com/m/2020-11-16/101628582.html) ![](assets/new.png)  
-- [2020-11-15-【境内疫情观察】全国新增8例境外输入病例（11月15日）](http://m.database.caixin.com/m/2020-11-16/101628695.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,15 @@
 </summary>
 
 
+- [2020-11-20-投资不过山海关](https://www.v2ex.com/t/727543) ![](assets/new.png)  
+- [2020-11-20-现在-v2-出二手都不标价了？](https://www.v2ex.com/t/727542) ![](assets/new.png)  
+- [2020-11-20-问一下-m1-芯片的时钟周期是多少-我感觉程序的运行时间计算不太对.](https://www.v2ex.com/t/727541) ![](assets/new.png)  
+- [2020-11-20-新网-com-域名首年-11.11-元，无-aff](https://www.v2ex.com/t/727539) ![](assets/new.png)  
+- [2020-11-20-分享一个-m1-的-app-支持清单地址](https://www.v2ex.com/t/727538) ![](assets/new.png)  
+- [2020-11-20-Flutter-的开发体验真的是很好](https://www.v2ex.com/t/727537) ![](assets/new.png)  
+- [2020-11-20-北京社招-急+2-美团-诚招高级/资深工程师（30-45k）](https://www.v2ex.com/t/727536) ![](assets/new.png)  
+- [2020-11-20-这句话的翻译是？PEP585](https://www.v2ex.com/t/727535) ![](assets/new.png)  
+- [2020-11-20-需要换个电脑，-13-寸-mbp-要不要买新出-M1-芯片还是-i7-纠结了，求赐教](https://www.v2ex.com/t/727533) ![](assets/new.png)  
 - [2020-11-20-字节跳动北京前端服务端客户端-招聘-海量-HC](https://www.v2ex.com/t/727532) ![](assets/new.png)  
 - [2020-11-20-开源项目中，如何管理项目的『专业版』的代码？](https://www.v2ex.com/t/727531) ![](assets/new.png)  
 - [2020-11-20-求推荐-windows-电脑](https://www.v2ex.com/t/727529) ![](assets/new.png)  
@@ -544,15 +553,6 @@
 - [2020-11-20-有人熟悉-opencart-吗？](https://www.v2ex.com/t/727522) ![](assets/new.png)  
 - [2020-11-20-请问大家在哪儿写技术日志啊？求推荐](https://www.v2ex.com/t/727521) ![](assets/new.png)  
 - [2020-11-20-有没有互联网公司的项目经理呀](https://www.v2ex.com/t/727519) ![](assets/new.png)  
-- [2020-11-20-苏宁这么猛的吗](https://www.v2ex.com/t/727518) ![](assets/new.png)  
-- [2020-11-20-Picsee---看图-&-截图-1.2.0-更新了，这次更新主要优化图床模块](https://www.v2ex.com/t/727516) ![](assets/new.png)  
-- [2020-11-20-上海有套小两房出租，坐标北蔡，沪南路北中路附近](https://www.v2ex.com/t/727515) ![](assets/new.png)  
-- [2020-11-20-个人建个什么网站，可以赚些小钱？](https://www.v2ex.com/t/727512) ![](assets/new.png)  
-- [2020-11-20-大家的后路，我都安排的妥妥的了](https://www.v2ex.com/t/727511) ![](assets/new.png)  
-- [2020-11-20-你有没有在代码里留过一些不明显的彩蛋？](https://www.v2ex.com/t/727510) ![](assets/new.png)  
-- [2020-11-20-老哥们，给推荐款网页更新提醒工具呗？](https://www.v2ex.com/t/727508) ![](assets/new.png)  
-- [2020-11-20-一加-8t-刷原生安卓后，能无限-google-photo-原画质存储吗？](https://www.v2ex.com/t/727506) ![](assets/new.png)  
-- [2020-11-20-请问-M1-的电脑怎么装-iPad-的微信？](https://www.v2ex.com/t/727504) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-20-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-20-AI云原生浅谈：好未来AI中台实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-20-双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-20-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-20-电梯行业的数字化转型，精细化管理开启新的红利窗口-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13956&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778400%3Futm_content%3Dg_1000205619%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-20-如何快速实现精准的个性化搜索服务-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13955&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778356%3Futm_content%3Dg_1000205618%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-20-什么是低代码（Low-Code）？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13954&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778355%3Futm_content%3Dg_1000205617%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-20-企业双11业绩增长156%-、成交额突破151亿元-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13953&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778319%3Futm_content%3Dg_1000205616%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

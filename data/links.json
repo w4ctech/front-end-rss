@@ -14723,6 +14723,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "想知道微信个人小程序是怎么播放视频的",
+        "link": "https://www.v2ex.com/t/727661",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "杭州装个宽带不，找我啊，经济实惠 200M 249 元一年",
+        "link": "https://www.v2ex.com/t/727660",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "JetBrains 家的新项目好像没人提， Projector， IntelliJ 版的 VS Code Remote",
+        "link": "https://www.v2ex.com/t/727659",
+        "date": "2020-11-20"
+      },
+      {
         "title": "如果 B 站出一个电脑上的剪辑软件就好了",
         "link": "https://www.v2ex.com/t/727656",
         "date": "2020-11-20"
@@ -14920,16 +14935,6 @@
       {
         "title": "昨天 3520 出了 18 款丐版 Air，感觉赚翻",
         "link": "https://www.v2ex.com/t/727612",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "天津又疫情了，感觉好无奈，来讨论一下吧？",
-        "link": "https://www.v2ex.com/t/727611",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "除了 SSL Pinning, 还有什么方法能防止抓包?",
-        "link": "https://www.v2ex.com/t/727609",
         "date": "2020-11-20"
       }
     ]
@@ -15147,18 +15152,38 @@
         "date": "2020-11-20"
       },
       {
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-20"
+      },
+      {
         "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
         "link": "https://toutiao.io/k/qbvqq09",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-20"
       },
       {
@@ -15172,33 +15197,8 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
-        "date": "2020-11-20"
-      },
-      {
         "title": "[推荐] 面试过 200 人的经验，都在这里了",
         "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] Docker 底层原理浅析",
-        "link": "https://toutiao.io/k/nvbge2t",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-20"
       },
       {
@@ -15212,13 +15212,18 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 高并发高性能服务器是如何实现的",
-        "link": "https://toutiao.io/k/e3xq8ad",
+        "title": "[推荐] 程序员成为高级管理者的三次跃升",
+        "link": "https://toutiao.io/k/6y7eq6s",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
+        "link": "https://toutiao.io/k/jeuqdr2",
         "date": "2020-11-20"
       }
     ]

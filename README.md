@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 11:11:30，:rocket: 更新条数: +3096， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 11:21:11，:rocket: 更新条数: +3097， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-20-想知道微信个人小程序是怎么播放视频的](https://www.v2ex.com/t/727661) ![](assets/new.png)  
+- [2020-11-20-杭州装个宽带不，找我啊，经济实惠-200M-249-元一年](https://www.v2ex.com/t/727660) ![](assets/new.png)  
+- [2020-11-20-JetBrains-家的新项目好像没人提，-Projector，-IntelliJ-版的-VS-Code-Remote](https://www.v2ex.com/t/727659) ![](assets/new.png)  
 - [2020-11-20-如果-B-站出一个电脑上的剪辑软件就好了](https://www.v2ex.com/t/727656) ![](assets/new.png)  
 - [2020-11-20-上海30~60K15.5-薪-美团-Java-开发小组急招，再发一次](https://www.v2ex.com/t/727655) ![](assets/new.png)  
 - [2020-11-20-我来给-csdn-洗地了，扩充-block-list-的好机会，不用谢！](https://www.v2ex.com/t/727653) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-20-用有鼠标的设备打开这个页游，你没笑就真没幽默感了……](https://www.v2ex.com/t/727639) ![](assets/new.png)  
 - [2020-11-20-求一个好用的短信通知服务-or-软件？](https://www.v2ex.com/t/727638) ![](assets/new.png)  
 - [2020-11-20-求助：-Python-用-wsgiref-写数据接口](https://www.v2ex.com/t/727637) ![](assets/new.png)  
-- [2020-11-20-小前端在成都有幸拿了两个-offer，不知如何选择，恳请-V2EX-大哥指点迷津。](https://www.v2ex.com/t/727635) ![](assets/new.png)  
-- [2020-11-20-求一款支持夜间模式的-UML-画图工具，眼睛要瞎了！](https://www.v2ex.com/t/727634) ![](assets/new.png)  
-- [2020-11-20-社招ZOOMC++,-Java-,-WEB,-Android-岗位都有招聘](https://www.v2ex.com/t/727633) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

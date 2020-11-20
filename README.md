@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 11:47:38，:rocket: 更新条数: +3097， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 12:05:00，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -64,7 +64,6 @@
 </summary>
 
 
-- [2020-11-19-11月19日全国新增确诊病例17例-新增疑似病例1例](https://m.caixin.com/m/2020-11-20/101630332.html) ![](assets/new.png)  
 - [2020-11-19-天津新增4例新冠本土确诊病例-所住小区升为高风险地区](https://m.caixin.com/m/2020-11-20/101630539.html) ![](assets/new.png)  
 - [2020-11-19-袁国勇：未有足够证据显示新冠病毒去年在意大利传播](https://m.caixin.com/m/2020-11-20/101630664.html) ![](assets/new.png)  
 - [2020-11-19-天津新增4例本土确诊病例-为此前通报的4名核酸检测阳性者](https://m.caixin.com/m/2020-11-20/101630319.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-11-16-【境内疫情观察】全国新增15例境外输入病例（11月16日）](http://m.database.caixin.com/m/2020-11-17/101629210.html) ![](assets/new.png)  
 - [2020-11-16-大流行手记|11月16日：英首相密接后隔离-研究称去年9月意大利或已有感染者](https://m.caixin.com/m/2020-11-17/101629015.html) ![](assets/new.png)  
 - [2020-11-15-多地进口冷链包装检出新冠阳性-交通部发文加强冷链运输防控](http://m.companies.caixin.com/m/2020-11-16/101628925.html) ![](assets/new.png)  
+- [2020-11-15-上海：高风险进口冷链食品入沪将进行核酸检测和外包装消毒](https://m.caixin.com/m/2020-11-16/101628578.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-11-20-天津新增确诊病例中含一家三口-家中幼儿所在幼儿园封闭管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUsH5y4aMtKd25dXESrWh201120&isfromapp=1) ![](assets/new.png)  
-- [2020-11-19-上海19日新增4例境外输入新冠肺炎确诊病例-新增治愈出院8例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqru9M1eCjFOv6vAjBT8C201120&isfromapp=1) ![](assets/new.png)  
-- [2020-11-19-为阻止新冠病毒传播-美国加州出台“宵禁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirFpRD3WpZFNE1KHZQuKe201120&isfromapp=1) ![](assets/new.png)  
-- [2020-11-19-世卫组织欧洲办事处警告：欧洲再次成为新冠疫情震中每17秒就有一人病亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqi3qIeah8vw061oqnwB8201120&isfromapp=1) ![](assets/new.png)  
-- [2020-11-19-美国新冠肺炎确诊病例累计超1166万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisVWK9TZB2Kyg3tN948mA201120&isfromapp=1) ![](assets/new.png)  
+- [2020-11-20-应对新冠疫情-北马其顿拟进入危机状态30天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioTijdny69BPUVg5TFeEX201120&isfromapp=1) ![](assets/new.png)  
+- [2020-11-20-意大利博尔扎诺自治省开展大规模新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ZMRM6FQqpFvHcTkxkii201120&isfromapp=1) ![](assets/new.png)  
+- [2020-11-20-伊朗新增新冠肺炎确诊病例13260例-累计确诊828377例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWhna6lVu1hpg9L8hMbVN201120&isfromapp=1) ![](assets/new.png)  
+- [2020-11-20-​香港新增26例新冠肺炎确诊病例-为近3个月来单日新增最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioVL294ppwWF0vwe4cITS201120&isfromapp=1) ![](assets/new.png)  
+- [2020-11-20-印度多地新冠肺炎疫情出现反弹-卫生部派出工作组协助抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFvAYMOa2J1BQFihglK1U201120&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,26 +553,6 @@
 </summary>
 
 
-- [2020-11-20-Dating-类-App-如何推广？](https://www.v2ex.com/t/727663) ![](assets/new.png)  
-- [2020-11-20-远程-DODOEX-招聘产品](https://www.v2ex.com/t/727662) ![](assets/new.png)  
-- [2020-11-20-想知道微信个人小程序是怎么播放视频的](https://www.v2ex.com/t/727661) ![](assets/new.png)  
-- [2020-11-20-杭州装个宽带不，找我啊，经济实惠-200M-249-元一年](https://www.v2ex.com/t/727660) ![](assets/new.png)  
-- [2020-11-20-JetBrains-家的新项目好像没人提，-Projector，-IntelliJ-版的-VS-Code-Remote](https://www.v2ex.com/t/727659) ![](assets/new.png)  
-- [2020-11-20-如果-B-站出一个电脑上的剪辑软件就好了](https://www.v2ex.com/t/727656) ![](assets/new.png)  
-- [2020-11-20-上海30~60K15.5-薪-美团-Java-开发小组急招，再发一次](https://www.v2ex.com/t/727655) ![](assets/new.png)  
-- [2020-11-20-我来给-csdn-洗地了，扩充-block-list-的好机会，不用谢！](https://www.v2ex.com/t/727653) ![](assets/new.png)  
-- [2020-11-20-今天群晖被暴力破解了一整天](https://www.v2ex.com/t/727652) ![](assets/new.png)  
-- [2020-11-20-小哥哥，小姐姐们，周末快乐，大家周末都干什么尼？一起看书嘛](https://www.v2ex.com/t/727651) ![](assets/new.png)  
-- [2020-11-20-如何突破库云网盘的下载限制](https://www.v2ex.com/t/727650) ![](assets/new.png)  
-- [2020-11-20-刘未鹏现在在哪里写文章](https://www.v2ex.com/t/727649) ![](assets/new.png)  
-- [2020-11-20-现在有哪家-qs-可以免-5-的？](https://www.v2ex.com/t/727648) ![](assets/new.png)  
-- [2020-11-20-国内的云服务器上访问-github，-docker-hub-啥的好慢啊。。。](https://www.v2ex.com/t/727646) ![](assets/new.png)  
-- [2020-11-20-三七互娱内推-社招-中/高-中台运维工程师-13-25K-15-薪-广州](https://www.v2ex.com/t/727644) ![](assets/new.png)  
-- [2020-11-20-武汉全职可远程,-10k-至-20k-招募优质运维工程师狂魔们！](https://www.v2ex.com/t/727643) ![](assets/new.png)  
-- [2020-11-20-整天关注互联网隐私，结果发现从家人透露出去的隐私，可比各种-app-多多了呀](https://www.v2ex.com/t/727642) ![](assets/new.png)  
-- [2020-11-20-Go-space-聊天游戏，新增上线分布图+登录城市展示~有点意思哦](https://www.v2ex.com/t/727641) ![](assets/new.png)  
-- [2020-11-20-什么浏览器更适合？](https://www.v2ex.com/t/727640) ![](assets/new.png)  
-- [2020-11-20-用有鼠标的设备打开这个页游，你没笑就真没幽默感了……](https://www.v2ex.com/t/727639) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -597,16 +597,16 @@
 
 - [2020-11-20-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
 - [2020-11-20-史上最姨母级-Java-继承详解](https://toutiao.io/k/5x6siju) ![](assets/new.png)  
-- [2020-11-20-内存数据库解析与主流产品对比（三）](https://toutiao.io/k/9qv70vb) ![](assets/new.png)  
 - [2020-11-20-Pulsar-能否超越-Kafka？](https://toutiao.io/k/abi4u4p) ![](assets/new.png)  
+- [2020-11-20-内存数据库解析与主流产品对比（三）](https://toutiao.io/k/9qv70vb) ![](assets/new.png)  
 - [2020-11-20-Python-源码混淆与加密](https://toutiao.io/k/3g7dp26) ![](assets/new.png)  
 - [2020-11-20-Golang-单元测试：有哪些误区和实践？](https://toutiao.io/k/5szw95c) ![](assets/new.png)  
 - [2020-11-20-WebRTC-服务端工程实践和优化探索](https://toutiao.io/k/9bmwz0s) ![](assets/new.png)  
 - [2020-11-20-详解-JavaScript-中的模块、Import-和-Export](https://toutiao.io/k/545z46w) ![](assets/new.png)  
 - [2020-11-20-VSCode-+-Vim-+-Whichkey-,-VSCode-模拟-Spacemacs-的使用方案](https://toutiao.io/k/rovywe3) ![](assets/new.png)  
 - [2020-11-20-漫画全面解释-Spark-企业调优点](https://toutiao.io/k/ioiv5kb) ![](assets/new.png)  
-- [2020-11-20-京东-EB-级全域大数据平台的演进与治理历程](https://toutiao.io/k/xns6hdm) ![](assets/new.png)  
 - [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
+- [2020-11-20-京东-EB-级全域大数据平台的演进与治理历程](https://toutiao.io/k/xns6hdm) ![](assets/new.png)  
 - [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
 - [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
 - [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-20 13:35:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 13:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-20-关于开源许可，使用-Wordpress-进行二次开发的网站，上线需要进行开源吗？](https://www.v2ex.com/t/727681) 
 - [2020-11-20-问个问题，大家愿意付费报名前/后端进阶班么去提升自己么？](https://www.v2ex.com/t/727679) 
 - [2020-11-20-Rainbow-Fart-马保国语音包](https://www.v2ex.com/t/727678) 
 - [2020-11-20-office-365-发车，还剩两个名额](https://www.v2ex.com/t/727677) 
@@ -46,5 +47,3 @@
 - [2020-11-20-求一款支持夜间模式的-UML-画图工具，眼睛要瞎了！](https://www.v2ex.com/t/727634) 
 - [2020-11-20-社招ZOOMC++,-Java-,-WEB,-Android-岗位都有招聘](https://www.v2ex.com/t/727633) 
 - [2020-11-20-像那种一对多模型多的一方的多选添加元素怎么做比较好](https://www.v2ex.com/t/727632) 
-- [2020-11-20-考研方向选择求建议](https://www.v2ex.com/t/727631) 
-- [2020-11-20-深度解读最新版-Scrum-指南](https://www.v2ex.com/t/727630) 

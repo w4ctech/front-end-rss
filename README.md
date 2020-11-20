@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 07:23:02，:rocket: 更新条数: +3094， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 07:33:06，:rocket: 更新条数: +3094， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-20-应用应该选择长连接还是连接池?](https://www.v2ex.com/t/727569) ![](assets/new.png)  
+- [2020-11-20-golang-就没有提供一个可以被-cancel-的-read-接口？](https://www.v2ex.com/t/727568) ![](assets/new.png)  
+- [2020-11-20-一款简洁高效的在线写作与集成编辑工具](https://www.v2ex.com/t/727567) ![](assets/new.png)  
+- [2020-11-20-目前市场上有没有实时地铁时刻表的应用呢？如-app，-h5，小程序等形式](https://www.v2ex.com/t/727565) ![](assets/new.png)  
 - [2020-11-20-大家跳槽会去刷题吗？最近发现了一个事很奇怪](https://www.v2ex.com/t/727564) ![](assets/new.png)  
 - [2020-11-20-上海儿童在线教育公司叽里呱啦因业务发展大量招聘-Java-，-H5，数仓，-Cocos，-UI/UX-。薪资-Open](https://www.v2ex.com/t/727562) ![](assets/new.png)  
 - [2020-11-20-bmp-选配-13-寸-10-代-i7-32G-1T-和-16-寸-9-代-i7-16G-内存-1T-存储官网售价一样买那个划算？](https://www.v2ex.com/t/727561) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-20-k8s-前后端分离项目，更新前端所在的-pod，必定会报-502](https://www.v2ex.com/t/727549) ![](assets/new.png)  
 - [2020-11-20-是否可以通过-Apple-Configurator-2-将-iPhone-内的微信和-TIM-带聊天记录整体导出到-Mac-中？](https://www.v2ex.com/t/727548) ![](assets/new.png)  
 - [2020-11-20-有人遇到-Safari-云标签混乱的问题么?](https://www.v2ex.com/t/727547) ![](assets/new.png)  
-- [2020-11-20-寻找一名兼职-web-前端，-5000/月，长期合作](https://www.v2ex.com/t/727546) ![](assets/new.png)  
-- [2020-11-20-招人啦：不修福报，不搞团建，不搞分享的，薪水还-OK，做完自己的事情就行](https://www.v2ex.com/t/727545) ![](assets/new.png)  
-- [2020-11-20-不动就问，请教一下毛坯房交房的注意事项](https://www.v2ex.com/t/727544) ![](assets/new.png)  
-- [2020-11-20-投资不过山海关](https://www.v2ex.com/t/727543) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

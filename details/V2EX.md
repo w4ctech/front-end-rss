@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-20 17:12:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 17:23:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -7,7 +7,6 @@
 
 - [2020-11-20-查看软件是否适配-Apple-silicon-的网站](https://www.v2ex.com/t/727721) 
 - [2020-11-20-上海的程序员可能又要在家办公了](https://www.v2ex.com/t/727719) 
-- [2020-11-20-Apple-music-日区，开车](https://www.v2ex.com/t/727718) 
 - [2020-11-20-啪一下就要-2021-了，很快啊！](https://www.v2ex.com/t/727717) 
 - [2020-11-20-apple-的家庭共享里面，家庭成员可以看见互相的信息吗](https://www.v2ex.com/t/727716) 
 - [2020-11-20-Supernatural-圆满结局](https://www.v2ex.com/t/727715) 

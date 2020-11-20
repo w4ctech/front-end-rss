@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-20 10:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 10:13:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-01-27-赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html) 
 - [2020-10-25-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-11-20-什么浏览器更适合？](https://www.v2ex.com/t/727640) 
 - [2020-11-20-小弟不才,后端一位,用残留的一点安卓知识,在-webview-上实现一个套壳浏览器，但是感觉很鸡肋,请大家提提意见](https://www.v2ex.com/t/727626) 
 - [2020-11-20-被黑客攻击了，登录流程要怎么做才安全](https://toutiao.io/k/rftwer0) 
 - [2020-11-19-预告|2020中国网络安全产业高峰论坛即将盛启](https://sec.thief.one/article_content?a_id=707419a5419ae6b3067665a7ebd37f95) 

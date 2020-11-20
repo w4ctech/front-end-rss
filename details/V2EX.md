@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-20 17:04:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 17:12:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-20-查看软件是否适配-Apple-silicon-的网站](https://www.v2ex.com/t/727721) 
+- [2020-11-20-上海的程序员可能又要在家办公了](https://www.v2ex.com/t/727719) 
 - [2020-11-20-Apple-music-日区，开车](https://www.v2ex.com/t/727718) 
 - [2020-11-20-啪一下就要-2021-了，很快啊！](https://www.v2ex.com/t/727717) 
 - [2020-11-20-apple-的家庭共享里面，家庭成员可以看见互相的信息吗](https://www.v2ex.com/t/727716) 
@@ -44,5 +46,3 @@
 - [2020-11-20-总金额,总抽取数量-确定的情况下,抽奖有什么思路](https://www.v2ex.com/t/727674) 
 - [2020-11-20-surge-mac-4.0-on-Big-Sur-出了问题吗](https://www.v2ex.com/t/727673) 
 - [2020-11-20-购买代码签名证书步骤和费用小结](https://www.v2ex.com/t/727672) 
-- [2020-11-20-关于-macOS-的硬盘空间的问题](https://www.v2ex.com/t/727671) 
-- [2020-11-20-Windows-7-安装-.NET-5-/-.NET-Core-3.1-环境的方法和依赖文件](https://www.v2ex.com/t/727670) 

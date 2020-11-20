@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-20 17:04:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-20 17:12:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -26,6 +26,24 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
+<td><a href="#2019-01">01月</a></td>
+<td><a href="#2019-02">02月</a></td>
+<td><a href="#2019-03">03月</a></td>
+<td>04月</td>
+<td>05月</td>
+<td><a href="#2019-06">06月</a></td>
+<td>07月</td>
+<td>08月</td>
+<td>09月</td>
+<td>10月</td>
+<td><a href="#2019-11">11月</a></td>
+<td><a href="#2019-12">12月</a></td>
+</tr>
+
+<tr>
+<th colspan="12">2018年</th>
+</tr>
+<tr>
 <td>01月</td>
 <td>02月</td>
 <td>03月</td>
@@ -36,8 +54,8 @@
 <td>08月</td>
 <td>09月</td>
 <td>10月</td>
-<td><a href="#2019-11">11月</a></td>
-<td><a href="#2019-12">12月</a></td>
+<td>11月</td>
+<td><a href="#2018-12">12月</a></td>
 </tr>
 
 </table>
@@ -134,6 +152,8 @@
 - [【掘金前端】2020-11-20-CSS动画：Transitions,-Transforms和Animation使用](https://juejin.im/post/6897133639004323847) 
 - [【掘金前端】2020-11-20-网络爬虫之页面解析](https://juejin.im/post/6897131531177820168) 
 - [【掘金前端】2020-11-20-Serverless-小山文-|-🏆-技术专题第七期征文](https://juejin.im/post/6897119673456803848) 
+- [【V2EX】2020-11-20-查看软件是否适配-Apple-silicon-的网站](https://www.v2ex.com/t/727721) 
+- [【V2EX】2020-11-20-上海的程序员可能又要在家办公了](https://www.v2ex.com/t/727719) 
 - [【V2EX】2020-11-20-Apple-music-日区，开车](https://www.v2ex.com/t/727718) 
 - [【V2EX】2020-11-20-啪一下就要-2021-了，很快啊！](https://www.v2ex.com/t/727717) 
 - [【V2EX】2020-11-20-apple-的家庭共享里面，家庭成员可以看见互相的信息吗](https://www.v2ex.com/t/727716) 
@@ -173,8 +193,6 @@
 - [【V2EX】2020-11-20-总金额,总抽取数量-确定的情况下,抽奖有什么思路](https://www.v2ex.com/t/727674) 
 - [【V2EX】2020-11-20-surge-mac-4.0-on-Big-Sur-出了问题吗](https://www.v2ex.com/t/727673) 
 - [【V2EX】2020-11-20-购买代码签名证书步骤和费用小结](https://www.v2ex.com/t/727672) 
-- [【V2EX】2020-11-20-关于-macOS-的硬盘空间的问题](https://www.v2ex.com/t/727671) 
-- [【V2EX】2020-11-20-Windows-7-安装-.NET-5-/-.NET-Core-3.1-环境的方法和依赖文件](https://www.v2ex.com/t/727670) 
 - [【技术头条】2020-11-20-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-11-20-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-11-20-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -215,21 +233,21 @@
 - [【开发者头条】2020-11-20-被黑客攻击了，登录流程要怎么做才安全](https://toutiao.io/k/rftwer0) 
 - [【开发者头条】2020-11-20-美团外卖流量数据的采集加工和应用](https://toutiao.io/k/csx9zdy) 
 - [【开发者头条】2020-11-20-magic-api：Java-后端开发者的福音，接口开发利器](https://toutiao.io/k/8du3dh8) 
-- [【开发者头条】2020-11-20-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) 
-- [【开发者头条】2020-11-20-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) 
-- [【开发者头条】2020-11-20-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) 
-- [【开发者头条】2020-11-20-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) 
+- [【开发者头条】2020-11-20-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) 
+- [【开发者头条】2020-11-20-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) 
+- [【开发者头条】2020-11-20-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) 
 - [【开发者头条】2020-11-20-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) 
-- [【开发者头条】2020-11-20-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) 
+- [【开发者头条】2020-11-20-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) 
+- [【开发者头条】2020-11-20-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) 
+- [【开发者头条】2020-11-20-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) 
+- [【开发者头条】2020-11-20-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) 
+- [【开发者头条】2020-11-20-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) 
 - [【开发者头条】2020-11-20-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) 
 - [【开发者头条】2020-11-20-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) 
+- [【开发者头条】2020-11-20-推荐-自定义注解！绝对是程序员装逼的利器](https://toutiao.io/k/gnbzbuw) 
+- [【开发者头条】2020-11-20-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) 
 - [【开发者头条】2020-11-20-推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0) 
-- [【开发者头条】2020-11-20-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) 
-- [【开发者头条】2020-11-20-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) 
-- [【开发者头条】2020-11-20-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) 
-- [【开发者头条】2020-11-20-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) 
-- [【开发者头条】2020-11-20-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) 
-- [【开发者头条】2020-11-20-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) 
+- [【开发者头条】2020-11-20-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) 
 - [【安全热点】2020-11-20-11-月全国程序员平均工资出炉](https://sec.thief.one/article_content?a_id=c8d61c7a76ae25031eb640905d551461) 
 - [【安全热点】2020-11-20-奇安信天眼荣获Frost&Sullivan“2020年中国威胁检测与响应TDR...](https://sec.thief.one/article_content?a_id=1ea51ba14fa65111039916a1c08be41e) 
 - [【安全热点】2020-11-20-中国移动云能力中心携手绿盟科技-共建云安全服务生态体系](https://sec.thief.one/article_content?a_id=c96318a57f1b0470d4cd88092d946d9b) 
@@ -2197,6 +2215,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-抓防疫也顾春耕-李克强开了新冠疫情领导小组会](http://m.china.caixin.com/m/2020-03-02/101523024.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-北京：黄某英离汉进京有关问题的调查及情况通报](http://m.china.caixin.com/m/2020-03-02/101522908.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html) 
+- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
+- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3257,6 +3277,64 @@
 - [【前端艺术家&&飞冰早报】2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [【前端艺术家&&飞冰早报】2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
 - [【前端艺术家&&飞冰早报】2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-06">
+ 2019-06
+</summary>
+
+
+- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-03">
+ 2019-03
+</summary>
+
+
+- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-02">
+ 2019-02
+</summary>
+
+
+- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-01">
+ 2019-01
+</summary>
+
+
+- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
+- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2018-12">
+ 2018-12
+</summary>
+
+
+- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
+- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

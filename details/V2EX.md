@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-20 06:13:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 06:28:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-20-开源项目中，如何管理项目的『专业版』的代码？](https://www.v2ex.com/t/727531) 
+- [2020-11-20-求推荐-windows-电脑](https://www.v2ex.com/t/727529) 
+- [2020-11-20-M1-的-Macbook-Air，选择-7-核还是-8-核-GPU-版本。](https://www.v2ex.com/t/727527) 
+- [2020-11-20-社招20-45KD-轮开源公司-PingCAP---前端工程师/高级前端工程师](https://www.v2ex.com/t/727526) 
+- [2020-11-20-Macbook-Pro-2017-升级到-Big-Sur-后，无法隔空播放到-HomePod](https://www.v2ex.com/t/727525) 
+- [2020-11-20-开了-adguard-为什么还不不能去掉广告？](https://www.v2ex.com/t/727524) 
 - [2020-11-20-想找一个熟悉-boost::asio-并且熟悉-asio-的异步网络编程的朋友，请教一些问题](https://www.v2ex.com/t/727523) 
 - [2020-11-20-有人熟悉-opencart-吗？](https://www.v2ex.com/t/727522) 
 - [2020-11-20-请问大家在哪儿写技术日志啊？求推荐](https://www.v2ex.com/t/727521) 
@@ -32,11 +38,3 @@
 - [2020-11-20-有微信公众号前端-UI-组件库推荐的吗？](https://www.v2ex.com/t/727484) 
 - [2020-11-20-Python-异常处理风格](https://www.v2ex.com/t/727483) 
 - [2020-11-20-Go-里面的-channel-最长可以阻塞多少数据呢？](https://www.v2ex.com/t/727482) 
-- [2020-11-20-如何从日常发现中挖掘赚钱产品？](https://www.v2ex.com/t/727481) 
-- [2020-11-20-微信公众号前端-UI-组件库有推荐的吗](https://www.v2ex.com/t/727480) 
-- [2020-11-20-golang-中的值传递和指针传递的理解？](https://www.v2ex.com/t/727479) 
-- [2020-11-20-上海-千寻位置内推-支持线上面试-简历直接发给面试官-数据开发、产品经理（GIS）、安全开发专场！](https://www.v2ex.com/t/727478) 
-- [2020-11-20-为什么-chrome-的-dev-tools-监测不到-yapi-发送的测试请求？](https://www.v2ex.com/t/727477) 
-- [2020-11-20-有偿求个爬微博指定博主粉丝-UID-的-py](https://www.v2ex.com/t/727476) 
-- [2020-11-20-华强北-AirPods2-和非苹果的品牌蓝牙耳机哪个更好？](https://www.v2ex.com/t/727475) 
-- [2020-11-20-mac-外接显示器发烫严重](https://www.v2ex.com/t/727474) 

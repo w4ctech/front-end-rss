@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-20 19:10:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 19:20:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,5 +41,3 @@
 - [2020-11-20-mbp-外接-USB-蓝牙适配器后本机蓝牙故障](https://www.v2ex.com/t/727723) 
 - [2020-11-20-查看软件是否适配-Apple-silicon-的网站](https://www.v2ex.com/t/727721) 
 - [2020-11-20-详解-JavaScript-中的模块、Import-和-Export](https://toutiao.io/k/545z46w) 
-- [2020-11-20-同步与异步-Python-有何不同?](https://sec.thief.one/article_content?a_id=6fec97b27fa30c5f49c972327eb5852f) 
-- [2020-11-19-再见,正则表达式](https://sec.thief.one/article_content?a_id=a1dd1111232e9f125da3882318a05e83) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 12:05:00，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 12:15:17，:rocket: 更新条数: +3330， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -474,9 +474,9 @@
 
 
 - [2020-11-20-Google-2020开发者大会Flutter专题](https://juejin.im/post/6897164337144676359) ![](assets/new.png)  
-- [2020-11-20-阿里跨端技术---缘起与未来](https://juejin.im/post/6897142005961326599) ![](assets/new.png)  
 - [2020-11-20-使用-antd-vue2.x-、Vue3.0.2-和Ts-开始你的-Vue3.x-旅程](https://juejin.im/post/6897139078794313735) ![](assets/new.png)  
 - [2020-11-20-JS-函数的执行时机](https://juejin.im/post/6897137650944180238) ![](assets/new.png)  
+- [2020-11-20-CSS动画：Transitions,-Transforms和Animation使用](https://juejin.im/post/6897133639004323847) ![](assets/new.png)  
 - [2020-11-20-网络爬虫之页面解析](https://juejin.im/post/6897131531177820168) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
@@ -553,6 +553,26 @@
 </summary>
 
 
+- [2020-11-20-是不是没用桌面端和移动端都适配的比较好的前端框架？](https://www.v2ex.com/t/727667) ![](assets/new.png)  
+- [2020-11-20-关于-Apple-watch-trade-in](https://www.v2ex.com/t/727666) ![](assets/new.png)  
+- [2020-11-20-老哥们，有知道中讯邮电这个公司的嘛？](https://www.v2ex.com/t/727665) ![](assets/new.png)  
+- [2020-11-20-用-Java-表现搞笑段子，你的段子，我来实现](https://www.v2ex.com/t/727664) ![](assets/new.png)  
+- [2020-11-20-Dating-类-App-如何推广？](https://www.v2ex.com/t/727663) ![](assets/new.png)  
+- [2020-11-20-远程-DODOEX-招聘产品](https://www.v2ex.com/t/727662) ![](assets/new.png)  
+- [2020-11-20-想知道微信个人小程序是怎么播放视频的](https://www.v2ex.com/t/727661) ![](assets/new.png)  
+- [2020-11-20-杭州装个宽带不，找我啊，经济实惠-200M-249-元一年](https://www.v2ex.com/t/727660) ![](assets/new.png)  
+- [2020-11-20-JetBrains-家的新项目好像没人提，-Projector，-IntelliJ-版的-VS-Code-Remote](https://www.v2ex.com/t/727659) ![](assets/new.png)  
+- [2020-11-20-如果-B-站出一个电脑上的剪辑软件就好了](https://www.v2ex.com/t/727656) ![](assets/new.png)  
+- [2020-11-20-上海30~60K15.5-薪-美团-Java-开发小组急招，再发一次](https://www.v2ex.com/t/727655) ![](assets/new.png)  
+- [2020-11-20-我来给-csdn-洗地了，扩充-block-list-的好机会，不用谢！](https://www.v2ex.com/t/727653) ![](assets/new.png)  
+- [2020-11-20-今天群晖被暴力破解了一整天](https://www.v2ex.com/t/727652) ![](assets/new.png)  
+- [2020-11-20-小哥哥，小姐姐们，周末快乐，大家周末都干什么尼？一起看书嘛](https://www.v2ex.com/t/727651) ![](assets/new.png)  
+- [2020-11-20-如何突破库云网盘的下载限制](https://www.v2ex.com/t/727650) ![](assets/new.png)  
+- [2020-11-20-刘未鹏现在在哪里写文章](https://www.v2ex.com/t/727649) ![](assets/new.png)  
+- [2020-11-20-现在有哪家-qs-可以免-5-的？](https://www.v2ex.com/t/727648) ![](assets/new.png)  
+- [2020-11-20-国内的云服务器上访问-github，-docker-hub-啥的好慢啊。。。](https://www.v2ex.com/t/727646) ![](assets/new.png)  
+- [2020-11-20-三七互娱内推-社招-中/高-中台运维工程师-13-25K-15-薪-广州](https://www.v2ex.com/t/727644) ![](assets/new.png)  
+- [2020-11-20-武汉全职可远程,-10k-至-20k-招募优质运维工程师狂魔们！](https://www.v2ex.com/t/727643) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,8 +625,8 @@
 - [2020-11-20-详解-JavaScript-中的模块、Import-和-Export](https://toutiao.io/k/545z46w) ![](assets/new.png)  
 - [2020-11-20-VSCode-+-Vim-+-Whichkey-,-VSCode-模拟-Spacemacs-的使用方案](https://toutiao.io/k/rovywe3) ![](assets/new.png)  
 - [2020-11-20-漫画全面解释-Spark-企业调优点](https://toutiao.io/k/ioiv5kb) ![](assets/new.png)  
-- [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
 - [2020-11-20-京东-EB-级全域大数据平台的演进与治理历程](https://toutiao.io/k/xns6hdm) ![](assets/new.png)  
+- [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
 - [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
 - [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
 - [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  

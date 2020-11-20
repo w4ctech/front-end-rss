@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-20 15:26:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 15:33:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,4 +46,3 @@
 - [2020-11-20-想知道微信个人小程序是怎么播放视频的](https://www.v2ex.com/t/727661) 
 - [2020-11-20-杭州装个宽带不，找我啊，经济实惠-200M-249-元一年](https://www.v2ex.com/t/727660) 
 - [2020-11-20-JetBrains-家的新项目好像没人提，-Projector，-IntelliJ-版的-VS-Code-Remote](https://www.v2ex.com/t/727659) 
-- [2020-11-20-如果-B-站出一个电脑上的剪辑软件就好了](https://www.v2ex.com/t/727656) 

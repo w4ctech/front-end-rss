@@ -14254,7 +14254,7 @@
     "items": []
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/65",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/65",
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": []
@@ -14938,108 +14938,7 @@
     "rss": "https://rss.itggg.cn/blogread/newest",
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
-    "items": [
-      {
-        "title": "6岁！是时候重新认识下Serverless了 | 云原生趣谈 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "我看技术人的成长路径 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "质量内建——缺陷管理实践分享 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "AI云原生浅谈：好未来AI中台实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧” (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "年轻人不讲武德，偷袭阿里的机房 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13968&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "阿里巴巴集团 CTO 程立：今年天猫双 11，阿里练了什么？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13967&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778266%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "双11核心系统全面云原生化：效率提升一倍，成本下降80% (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13966&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778246%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "四两拨千斤：小巧新秀ClickHouse如何完美支撑史上最强双十一？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13965&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778258%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "4982亿背后的前端技术 2020天猫双11前端体系大揭秘 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13964&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778394%3Futm_content%3Dg_1000207219%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "Serverless在编程教育中的实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13963&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778418%3Futm_content%3Dg_1000206840%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "双11还能创造什么新技术？ (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13962&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778396%3Futm_content%3Dg_1000206571%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "再谈领域驱动设计 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=13961&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "Flink 1.11 与 Hive 批流一体数仓实践 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13960&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777720%3Futm_content%3Dg_1000206570%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "云原生时代微服务的高可用架构设计 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13959&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777594%3Futm_content%3Dg_1000206569%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "当 TiDB 与 Flink 相结合：高效、易用的实时数仓 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13958&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776726%3Futm_content%3Dg_1000206568%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "思否独立开发者采访 | 开启技术变现之路，探索第三收入来源 (segmentfault.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13957&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000038196276%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "电梯行业的数字化转型，精细化管理开启新的红利窗口 (developer.aliyun.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=13956&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778400%3Futm_content%3Dg_1000205619%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2020-11-20"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/toutiao/today",

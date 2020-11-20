@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-20 13:04:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 13:10:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -335,9 +335,9 @@
 - [【张鑫旭-鑫空间-鑫生活】细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】什么浏览器更适合？](https://www.v2ex.com/t/727640)
-- [【V2EX】小弟不才,后端一位,用残留的一点安卓知识,在-webview-上实现一个套壳浏览器，但是感觉很鸡肋,请大家提提意见](https://www.v2ex.com/t/727626)
 - [【开发者头条】被黑客攻击了，登录流程要怎么做才安全](https://toutiao.io/k/rftwer0)
 - [【安全热点】中国移动云能力中心携手绿盟科技-共建云安全服务生态体系](https://sec.thief.one/article_content?a_id=c96318a57f1b0470d4cd88092d946d9b)
+- [【安全热点】神经网络与随机数的安全性分析上](https://sec.thief.one/article_content?a_id=1611f76d0ff15f4ce833bf1ed37ccb09)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -410,6 +410,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
 - [【V2EX】远程-DODOEX-招聘产品](https://www.v2ex.com/t/727662)
 - [【V2EX】社招ZOOMC++,-Java-,-WEB,-Android-岗位都有招聘](https://www.v2ex.com/t/727633)
+- [【开发者头条】推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
+- [【开发者头条】推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2)
 - [【开发者头条】推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi)
 - [【开发者头条】推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
 - [【安全热点】面试题:1-到-1000-之间有多少个-7?](https://sec.thief.one/article_content?a_id=d44d069be6d40bd08d40a185508c6b9d)

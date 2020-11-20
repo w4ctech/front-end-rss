@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 15:35:34，:rocket: 更新条数: +3076， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 15:47:53，:rocket: 更新条数: +3332， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -65,6 +65,7 @@
 
 
 - [2020-11-19-最新疫情：全国新冠累计确诊86398例-境外输入17例](https://m.caixin.com/m/2020-11-20/101630723.html) ![](assets/new.png)  
+- [2020-11-19-上海新增2例本地新冠肺炎确诊病例](https://m.caixin.com/m/2020-11-20/101630849.html) ![](assets/new.png)  
 - [2020-11-19-本地病例单日激增21宗-香港或已进入第四波疫情](https://m.caixin.com/m/2020-11-20/101630824.html) ![](assets/new.png)  
 - [2020-11-19-天津新增4例新冠本土确诊病例-所住小区升为高风险地区](https://m.caixin.com/m/2020-11-20/101630539.html) ![](assets/new.png)  
 - [2020-11-19-最新海外疫情：新冠感染超5680万-累计死亡超135万](https://m.caixin.com/m/2020-11-20/101630760.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-17-为何新冠病死率看起来在下降？-《自然》刊文详解原因](https://m.caixin.com/m/2020-11-18/101629488.html) ![](assets/new.png)  
 - [2020-11-17-研究：新冠肺炎或易诱发精神疾病-反之亦然](https://m.caixin.com/m/2020-11-18/101629716.html) ![](assets/new.png)  
 - [2020-11-16-【境内疫情观察】全国新增15例境外输入病例（11月16日）](http://m.database.caixin.com/m/2020-11-17/101629210.html) ![](assets/new.png)  
-- [2020-11-16-大流行手记|11月16日：英首相密接后隔离-研究称去年9月意大利或已有感染者](https://m.caixin.com/m/2020-11-17/101629015.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -376,6 +376,26 @@
 </summary>
 
 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) ![](assets/new.png)  
+- [2020-11-05-EaseJs中regX/regY的用法](https://aotu.io/notes/2020/11/05/easeJs-center-setting/) ![](assets/new.png)  
+- [2020-10-28-node.js-沙盒逃逸分析](https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/) ![](assets/new.png)  
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
+- [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) ![](assets/new.png)  
+- [2020-09-28-使用-Vue3-开发小程序](https://aotu.io/notes/2020/09/28/taro-vue3/) ![](assets/new.png)  
+- [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) ![](assets/new.png)  
+- [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/) ![](assets/new.png)  
+- [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) ![](assets/new.png)  
+- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/) ![](assets/new.png)  
+- [2020-08-31-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) ![](assets/new.png)  
+- [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) ![](assets/new.png)  
+- [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/) ![](assets/new.png)  
+- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) ![](assets/new.png)  
+- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/) ![](assets/new.png)  
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) ![](assets/new.png)  
+- [2020-07-23-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/23/mobile-top-nav/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +553,7 @@
 </summary>
 
 
+- [2020-11-20-iPhone12-pro-迟迟不发货已退款，有什么好选择](https://www.v2ex.com/t/727707) ![](assets/new.png)  
 - [2020-11-20-电报创始人评价-iPhone-12-Pro](https://www.v2ex.com/t/727705) ![](assets/new.png)  
 - [2020-11-20-新东家不专业，该不该向上汇报实际工程情况？](https://www.v2ex.com/t/727704) ![](assets/new.png)  
 - [2020-11-20-迫于流量用不完-想出一张西钉卡](https://www.v2ex.com/t/727703) ![](assets/new.png)  
@@ -552,7 +573,6 @@
 - [2020-11-20-迫于海淘，黑五，请-v2er-推荐首张信用卡](https://www.v2ex.com/t/727686) ![](assets/new.png)  
 - [2020-11-20-杭州或远程OpenSquare-招聘前端工程师](https://www.v2ex.com/t/727685) ![](assets/new.png)  
 - [2020-11-20-一人推荐一个-YouTube-频道](https://www.v2ex.com/t/727684) ![](assets/new.png)  
-- [2020-11-20-找室友一起整租两居室-徐汇-9/12/15-号线田林路宜山路漕宝路](https://www.v2ex.com/t/727682) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +584,26 @@
 </summary>
 
 
+- [2020-11-20-6岁！是时候重新认识下Serverless了-|-云原生趣谈-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13975&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778541%3Futm_content%3Dg_1000207513%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-我看技术人的成长路径-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13974&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778540%3Futm_content%3Dg_1000207512%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-质量内建——缺陷管理实践分享-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13973&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-manage-defect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-AI云原生浅谈：好未来AI中台实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-年轻人不讲武德，偷袭阿里的机房-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13968&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-阿里巴巴集团-CTO-程立：今年天猫双-11，阿里练了什么？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13967&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778266%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-双11核心系统全面云原生化：效率提升一倍，成本下降80%-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13966&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778246%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-四两拨千斤：小巧新秀ClickHouse如何完美支撑史上最强双十一？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13965&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778258%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-4982亿背后的前端技术-2020天猫双11前端体系大揭秘-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13964&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778394%3Futm_content%3Dg_1000207219%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-Serverless在编程教育中的实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13963&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778418%3Futm_content%3Dg_1000206840%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-双11还能创造什么新技术？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13962&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778396%3Futm_content%3Dg_1000206571%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-再谈领域驱动设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13961&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-ddd%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-Flink-1.11-与-Hive-批流一体数仓实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13960&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777720%3Futm_content%3Dg_1000206570%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-云原生时代微服务的高可用架构设计-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13959&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F777594%3Futm_content%3Dg_1000206569%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-当-TiDB-与-Flink-相结合：高效、易用的实时数仓-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13958&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F776726%3Futm_content%3Dg_1000206568%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-思否独立开发者采访-|-开启技术变现之路，探索第三收入来源-segmentfault.com](https://blogread.cn/news/go.php?idItem=13957&url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000038196276%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-11-20-电梯行业的数字化转型，精细化管理开启新的红利窗口-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13956&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778400%3Futm_content%3Dg_1000205619%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

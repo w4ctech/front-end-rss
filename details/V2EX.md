@@ -1,13 +1,19 @@
-:alarm_clock: 更新时间: 2020-11-20 02:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 02:28:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-20-自己搭的-chevereto-免费版，-API-POST-上传报-Invalid-API-v1-key.](https://www.v2ex.com/t/727418) 
+- [2020-11-20-如果选择国内的网盘提供商备份数据，压缩加密上传后是否有被和谐的风险？](https://www.v2ex.com/t/727417) 
+- [2020-11-20-github-学生包](https://www.v2ex.com/t/727415) 
+- [2020-11-20-微信自动把复制的网址转成标题](https://www.v2ex.com/t/727414) 
+- [2020-11-20-所以,-绿屏问题-PDD-买的-iphone12-怎么办?快递今天送到](https://www.v2ex.com/t/727411) 
+- [2020-11-20-PHP7.x-PDO-如何支持-Mysql8，不修改数据库配置?](https://www.v2ex.com/t/727410) 
 - [2020-11-20-AQS-公平锁真的完全公平吗？](https://www.v2ex.com/t/727408) 
 - [2020-11-20-其实不是-m1-太强，而是-intel-牙膏挤的太慢](https://www.v2ex.com/t/727407) 
-- [2020-11-20-我们正准备上线一个换工作的能得到多少薪资的计算器](https://www.v2ex.com/t/727405) 
+- [2020-11-20-跳槽薪资计算器](https://www.v2ex.com/t/727405) 
 - [2020-11-20-windows-自带的-OpenSSH，无法使用-ssh-copy-id-这个命令吗？](https://www.v2ex.com/t/727404) 
 - [2020-11-20-南京-招聘-Java-/区块链开发工程师（可实习）](https://www.v2ex.com/t/727400) 
 - [2020-11-20-有多少老铁是用黑苹果作为主力开发机啊?](https://www.v2ex.com/t/727398) 
@@ -29,10 +35,3 @@
 - [2020-11-20-Python-哪里可以下载各个版本的-macOS-二进制包？](https://www.v2ex.com/t/727376) 
 - [2020-11-20-抽奖助手小程序](https://www.v2ex.com/t/727374) 
 - [2020-11-20-iPhone12，微信发语音消息全是噪音，有人遇到相同问题吗？](https://www.v2ex.com/t/727373) 
-- [2020-11-20-今天早上打开电脑-vscode-突然绿了，好在只有-vscode，吓我一跳](https://www.v2ex.com/t/727369) 
-- [2020-11-20-V2-直连上不来](https://www.v2ex.com/t/727367) 
-- [2020-11-20-965-到大小周，你觉得薪资怎么换算](https://www.v2ex.com/t/727366) 
-- [2020-11-20-张老师：发生甚么事了？哦，原来是一个二十多岁的小伙子写了-123-页的-PDF-举报我学术造假...](https://www.v2ex.com/t/727365) 
-- [2020-11-20-说实话，非引战帖，感觉-datagrip-还没有-phpmyadmin-好用](https://www.v2ex.com/t/727364) 
-- [2020-11-20-better-touch-tool-的自定义-touch-bar-按钮在切换显示器后就失效怎么办？](https://www.v2ex.com/t/727362) 
-- [2020-11-20-请问下渣浪系的-IMS-是一家怎样的公司？](https://www.v2ex.com/t/727361) 

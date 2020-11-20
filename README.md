@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 14:04:20，:rocket: 更新条数: +3096， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 14:25:29，:rocket: 更新条数: +3087， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -65,15 +65,16 @@
 
 
 - [2020-11-19-最新疫情：全国新冠累计确诊86398例-境外输入17例](https://m.caixin.com/m/2020-11-20/101630723.html) ![](assets/new.png)  
+- [2020-11-19-本地病例单日激增21宗-香港或已进入第四波疫情](https://m.caixin.com/m/2020-11-20/101630824.html) ![](assets/new.png)  
 - [2020-11-19-天津新增4例新冠本土确诊病例-所住小区升为高风险地区](https://m.caixin.com/m/2020-11-20/101630539.html) ![](assets/new.png)  
 - [2020-11-19-袁国勇：未有足够证据显示新冠病毒去年在意大利传播](https://m.caixin.com/m/2020-11-20/101630664.html) ![](assets/new.png)  
 - [2020-11-19-最新海外疫情：新冠感染超5680万-累计死亡超135万](https://m.caixin.com/m/2020-11-20/101630760.html) ![](assets/new.png)  
 - [2020-11-19-天津新增4例本土确诊病例-为此前通报的4名核酸检测阳性者](https://m.caixin.com/m/2020-11-20/101630319.html) ![](assets/new.png)  
 - [2020-11-19-【境内疫情观察】新疆现有确诊病例清零（11月19日）](http://m.database.caixin.com/m/2020-11-20/101630462.html) ![](assets/new.png)  
 - [2020-11-19-大流行手记|11月19日：日本规定打新冠疫苗为国民义务-特斯拉CEO马斯克确诊](https://m.caixin.com/m/2020-11-20/101630323.html) ![](assets/new.png)  
-- [2020-11-18-港中文研发“微生态免疫力配方”-促新冠患者加快康复](https://m.caixin.com/m/2020-11-19/101630268.html) ![](assets/new.png)  
 - [2020-11-18-【境内疫情观察】天津新增1例本土无症状感染者（11月18日）](http://m.database.caixin.com/m/2020-11-19/101630044.html) ![](assets/new.png)  
 - [2020-11-18-大流行手记|11月18日：WHO总部累计65人感染-谭德赛吁各界为疫苗计划捐款](https://m.caixin.com/m/2020-11-19/101629954.html) ![](assets/new.png)  
+- [2020-11-18-港中文研发“微生态免疫力配方”-促新冠患者加快康复](https://m.caixin.com/m/2020-11-19/101630268.html) ![](assets/new.png)  
 - [2020-11-18-美国新冠死亡人数突破25万-多州市重拾抗疫措施](http://m.international.caixin.com/m/2020-11-19/101630028.html) ![](assets/new.png)  
 - [2020-11-18-英国赴华健康码申请要求再调整-航班乘客如何完成检测？](https://m.caixin.com/m/2020-11-19/101630020.html) ![](assets/new.png)  
 - [2020-11-17-天津新增1例本土新冠病例-1例本土无症状感染者](https://m.caixin.com/m/2020-11-18/101629482.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-17-研究：新冠肺炎或易诱发精神疾病-反之亦然](https://m.caixin.com/m/2020-11-18/101629716.html) ![](assets/new.png)  
 - [2020-11-16-【境内疫情观察】全国新增15例境外输入病例（11月16日）](http://m.database.caixin.com/m/2020-11-17/101629210.html) ![](assets/new.png)  
 - [2020-11-16-大流行手记|11月16日：英首相密接后隔离-研究称去年9月意大利或已有感染者](https://m.caixin.com/m/2020-11-17/101629015.html) ![](assets/new.png)  
-- [2020-11-15-多地进口冷链包装检出新冠阳性-交通部发文加强冷链运输防控](http://m.companies.caixin.com/m/2020-11-16/101628925.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -355,16 +355,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +523,10 @@
 </summary>
 
 
+- [2020-11-20-用电脑来控制手机音乐的的播放，支持全局快捷键](https://www.v2ex.com/t/727690) ![](assets/new.png)  
+- [2020-11-20-有办法用-android-手机来显示电脑的-HDMI-输出么？](https://www.v2ex.com/t/727689) ![](assets/new.png)  
+- [2020-11-20-Sign-in-with-Apple-注册的账户，可以找到账号密码吗？](https://www.v2ex.com/t/727688) ![](assets/new.png)  
+- [2020-11-20-Mac-上-Chrome-更新后图标好丑](https://www.v2ex.com/t/727687) ![](assets/new.png)  
 - [2020-11-20-迫于海淘，黑五，请-v2er-推荐首张信用卡](https://www.v2ex.com/t/727686) ![](assets/new.png)  
 - [2020-11-20-杭州或远程OpenSquare-招聘前端工程师](https://www.v2ex.com/t/727685) ![](assets/new.png)  
 - [2020-11-20-一人推荐一个-YouTube-频道](https://www.v2ex.com/t/727684) ![](assets/new.png)  
@@ -549,10 +543,6 @@
 - [2020-11-20-关于-macOS-的硬盘空间的问题](https://www.v2ex.com/t/727671) ![](assets/new.png)  
 - [2020-11-20-Windows-7-安装-.NET-5-/-.NET-Core-3.1-环境的方法和依赖文件](https://www.v2ex.com/t/727670) ![](assets/new.png)  
 - [2020-11-20-出自用-MacBookPro](https://www.v2ex.com/t/727668) ![](assets/new.png)  
-- [2020-11-20-是不是没用桌面端和移动端都适配的比较好的前端框架？](https://www.v2ex.com/t/727667) ![](assets/new.png)  
-- [2020-11-20-关于-Apple-watch-trade-in](https://www.v2ex.com/t/727666) ![](assets/new.png)  
-- [2020-11-20-老哥们，有知道中讯邮电这个公司的嘛？](https://www.v2ex.com/t/727665) ![](assets/new.png)  
-- [2020-11-20-用-Java-表现搞笑段子，你的段子，我来实现](https://www.v2ex.com/t/727664) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

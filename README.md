@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 01:47:35，:rocket: 更新条数: +3085， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 02:04:34，:rocket: 更新条数: +3080， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-11-19-11月19日全国新增确诊病例19例-新增疑似病例1例](https://m.caixin.com/m/2020-11-20/101630332.html) ![](assets/new.png)  
+- [2020-11-19-11月19日全国新增确诊病例17例-新增疑似病例1例](https://m.caixin.com/m/2020-11-20/101630332.html) ![](assets/new.png)  
 - [2020-11-19-天津新增4例本土确诊病例-为此前通报的4名核酸检测阳性者](https://m.caixin.com/m/2020-11-20/101630319.html) ![](assets/new.png)  
 - [2020-11-19-大流行手记|11月19日：日本规定打新冠疫苗为国民义务-特斯拉CEO马斯克确诊](https://m.caixin.com/m/2020-11-20/101630323.html) ![](assets/new.png)  
 - [2020-11-18-港中文研发“微生态免疫力配方”-促新冠患者加快康复](https://m.caixin.com/m/2020-11-19/101630268.html) ![](assets/new.png)  
@@ -533,11 +533,18 @@
 </summary>
 
 
+- [2020-11-20-南京-招聘-Java-/区块链开发工程师（可实习）](https://www.v2ex.com/t/727400) ![](assets/new.png)  
+- [2020-11-20-有多少老铁是用黑苹果作为主力开发机啊?](https://www.v2ex.com/t/727398) ![](assets/new.png)  
+- [2020-11-20-想到一个有趣的问题，为什么-debug-模式可以进断点而-run-模式不行？](https://www.v2ex.com/t/727396) ![](assets/new.png)  
+- [2020-11-20-想了解一下“5G-消息”](https://www.v2ex.com/t/727395) ![](assets/new.png)  
+- [2020-11-20-垃圾佬又来了-各位看看这个垃圾值不值](https://www.v2ex.com/t/727393) ![](assets/new.png)  
+- [2020-11-20-医用护肤类产品，可以-call-me.-自己的店，用心经营，正品无疑。](https://www.v2ex.com/t/727392) ![](assets/new.png)  
+- [2020-11-20-U2720QM-显示器-B-站无-HDR-选项](https://www.v2ex.com/t/727391) ![](assets/new.png)  
+- [2020-11-20-思否独立开发者-|-开启技术变现之路，探索第三收入来源](https://www.v2ex.com/t/727390) ![](assets/new.png)  
 - [2020-11-20-关于花花不好惹这类型游戏是否涉及传销营销？](https://www.v2ex.com/t/727389) ![](assets/new.png)  
 - [2020-11-20-杭州-有赞-Java-](https://www.v2ex.com/t/727388) ![](assets/new.png)  
 - [2020-11-20-macos-新系统-Big-Sur-在微信小程序开发工具经常崩溃](https://www.v2ex.com/t/727387) ![](assets/new.png)  
 - [2020-11-20-下不了车了-请问有什么办法让-PDD-商家退换货么](https://www.v2ex.com/t/727386) ![](assets/new.png)  
-- [2020-11-20-office365-家庭版车来了](https://www.v2ex.com/t/727383) ![](assets/new.png)  
 - [2020-11-20-有拿到-M1-芯片-Mac-，并且有一对-HomePod-的大佬能不能说下-M1-芯片的-Mac-能不能在系统全局就连接-HomePod-的立体声编组？](https://www.v2ex.com/t/727382) ![](assets/new.png)  
 - [2020-11-20-三七互娱内推-社招-中/高-C#-开发工程师-15-25K-广州](https://www.v2ex.com/t/727381) ![](assets/new.png)  
 - [2020-11-20-最近家里发现两只小强，求推荐蟑螂药或者分享灭蟑经验](https://www.v2ex.com/t/727380) ![](assets/new.png)  
@@ -546,13 +553,6 @@
 - [2020-11-20-Python-哪里可以下载各个版本的-macOS-二进制包？](https://www.v2ex.com/t/727376) ![](assets/new.png)  
 - [2020-11-20-抽奖助手小程序](https://www.v2ex.com/t/727374) ![](assets/new.png)  
 - [2020-11-20-iPhone12，微信发语音消息全是噪音，有人遇到相同问题吗？](https://www.v2ex.com/t/727373) ![](assets/new.png)  
-- [2020-11-20-今天早上打开电脑-vscode-突然绿了，好在只有-vscode，吓我一跳](https://www.v2ex.com/t/727369) ![](assets/new.png)  
-- [2020-11-20-V2-直连上不来](https://www.v2ex.com/t/727367) ![](assets/new.png)  
-- [2020-11-20-965-到大小周，你觉得薪资怎么换算](https://www.v2ex.com/t/727366) ![](assets/new.png)  
-- [2020-11-20-张老师：发生甚么事了？哦，原来是一个二十多岁的小伙子写了-123-页的-PDF-举报我学术造假...](https://www.v2ex.com/t/727365) ![](assets/new.png)  
-- [2020-11-20-说实话，非引战帖，感觉-datagrip-还没有-phpmyadmin-好用](https://www.v2ex.com/t/727364) ![](assets/new.png)  
-- [2020-11-20-better-touch-tool-的自定义-touch-bar-按钮在切换显示器后就失效怎么办？](https://www.v2ex.com/t/727362) ![](assets/new.png)  
-- [2020-11-20-请问下渣浪系的-IMS-是一家怎样的公司？](https://www.v2ex.com/t/727361) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -605,16 +605,16 @@
 - [2020-11-20-WebRTC-服务端工程实践和优化探索](https://toutiao.io/k/9bmwz0s) ![](assets/new.png)  
 - [2020-11-20-VSCode-+-Vim-+-Whichkey-,-VSCode-模拟-Spacemacs-的使用方案](https://toutiao.io/k/rovywe3) ![](assets/new.png)  
 - [2020-11-20-漫画全面解释-Spark-企业调优点](https://toutiao.io/k/ioiv5kb) ![](assets/new.png)  
-- [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
 - [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  
+- [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
 - [2020-11-20-京东-EB-级全域大数据平台的演进与治理历程](https://toutiao.io/k/xns6hdm) ![](assets/new.png)  
 - [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
 - [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
 - [2020-11-20-Selenium-爬虫使用代理情况下不设置这几个参数，代理就白加了](https://toutiao.io/k/oflggpf) ![](assets/new.png)  
-- [2020-11-20-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
-- [2020-11-20-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
-- [2020-11-20-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
-- [2020-11-20-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
+- [2020-11-20-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
+- [2020-11-20-推荐-52-图初探-Linux-通用知识](https://toutiao.io/k/mgktqso) ![](assets/new.png)  
+- [2020-11-20-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
+- [2020-11-20-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

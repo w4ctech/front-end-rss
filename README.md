@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 00:29:59，:rocket: 更新条数: +3311， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 00:57:30，:rocket: 更新条数: +3316， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,9 @@
 </summary>
 
 
-- [2020-11-18-最新疫情：全国新冠累计确诊86381例-境外输入新增12例](http://m.china.caixin.com/m/2020-11-19/101630195.html) ![](assets/new.png)  
+- [2020-11-19-11月19日全国新增确诊病例19例-新增疑似病例1例](https://m.caixin.com/m/2020-11-20/101630332.html) ![](assets/new.png)  
+- [2020-11-19-天津新增4例本土确诊病例-为此前通报的4名核酸检测阳性者](https://m.caixin.com/m/2020-11-20/101630319.html) ![](assets/new.png)  
+- [2020-11-19-大流行手记|11月19日：日本规定打新冠疫苗为国民义务-特斯拉CEO马斯克确诊](https://m.caixin.com/m/2020-11-20/101630323.html) ![](assets/new.png)  
 - [2020-11-18-港中文研发“微生态免疫力配方”-促新冠患者加快康复](https://m.caixin.com/m/2020-11-19/101630268.html) ![](assets/new.png)  
 - [2020-11-18-美国新冠死亡人数突破25万-多州市重拾抗疫措施](http://m.international.caixin.com/m/2020-11-19/101630028.html) ![](assets/new.png)  
 - [2020-11-18-【境内疫情观察】天津新增1例本土无症状感染者（11月18日）](http://m.database.caixin.com/m/2020-11-19/101630044.html) ![](assets/new.png)  
@@ -82,8 +84,6 @@
 - [2020-11-15-上海：高风险进口冷链食品入沪将进行核酸检测和外包装消毒](https://m.caixin.com/m/2020-11-16/101628578.html) ![](assets/new.png)  
 - [2020-11-15-厦门1份进口冷冻猪肉外包装核酸检测阳性-未流入市场](https://m.caixin.com/m/2020-11-16/101628582.html) ![](assets/new.png)  
 - [2020-11-15-【境内疫情观察】全国新增8例境外输入病例（11月15日）](http://m.database.caixin.com/m/2020-11-16/101628695.html) ![](assets/new.png)  
-- [2020-11-15-大流行手记|11月15日：希腊水貂检出新冠病毒-特朗普疫苗分配计划引质疑](https://m.caixin.com/m/2020-11-16/101628565.html) ![](assets/new.png)  
-- [2020-11-15-又一新冠mRNA疫苗开启中国临床试验-其他疫苗进展如何？](https://m.caixin.com/m/2020-11-16/101628915.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,14 @@
 </summary>
 
 
+- [2020-11-20-V2-直连上不来](https://www.v2ex.com/t/727367) ![](assets/new.png)  
+- [2020-11-20-965-到大小周，你觉得薪资怎么换算](https://www.v2ex.com/t/727366) ![](assets/new.png)  
+- [2020-11-20-张老师：发生甚么事了？哦，原来是一个二十多岁的小伙子写了-123-页的-PDF-举报我学术造假...](https://www.v2ex.com/t/727365) ![](assets/new.png)  
+- [2020-11-20-说实话，非引战帖，感觉-datagrip-还没有-phpmyadmin-好用](https://www.v2ex.com/t/727364) ![](assets/new.png)  
+- [2020-11-20-better-touch-tool-的自定义-touch-bar-按钮在切换显示器后就失效怎么办？](https://www.v2ex.com/t/727362) ![](assets/new.png)  
+- [2020-11-20-请问下渣浪系的-IMS-是一家怎样的公司？](https://www.v2ex.com/t/727361) ![](assets/new.png)  
+- [2020-11-20-白鹭资管-量化招聘：上海/杭州](https://www.v2ex.com/t/727359) ![](assets/new.png)  
+- [2020-11-20-pixel3-android11-系统，摄像头时好时坏](https://www.v2ex.com/t/727358) ![](assets/new.png)  
 - [2020-11-20-关于-Apple-M1-的群众意见每日汇总-码农方向2020.11.20](https://www.v2ex.com/t/727357) ![](assets/new.png)  
 - [2020-11-20-有谁在-CSDN-上面上传过资源吗？为什么我设置的需要的-0-积分和-1-积分下载过几天都会变成-7-积分和-9-积分](https://www.v2ex.com/t/727356) ![](assets/new.png)  
 - [2020-11-20-带文本编辑类的-web-应用的用户登录和权限一般是怎么做的](https://www.v2ex.com/t/727355) ![](assets/new.png)  
@@ -565,14 +573,6 @@
 - [2020-11-19-一个野生‧程序猿‧的‧三次元‧硬科幻作品](https://www.v2ex.com/t/727347) ![](assets/new.png)  
 - [2020-11-19-我又来了～我的中文博客文章被机器采集翻译成英文滴，翻译水平还行呢，有意思](https://www.v2ex.com/t/727346) ![](assets/new.png)  
 - [2020-11-19-test-又发错了，先删了](https://www.v2ex.com/t/727345) ![](assets/new.png)  
-- [2020-11-19-20201120-午夜俱乐部](https://www.v2ex.com/t/727344) ![](assets/new.png)  
-- [2020-11-19-Telegram-是如何兴起的？](https://www.v2ex.com/t/727343) ![](assets/new.png)  
-- [2020-11-19-黑苹果-使用黑果小兵的镜像如何选择-opencore？](https://www.v2ex.com/t/727341) ![](assets/new.png)  
-- [2020-11-19-今天-200-块收了个机箱，应该挺值的？](https://www.v2ex.com/t/727340) ![](assets/new.png)  
-- [2020-11-19-是否可以支持除微博和-imgur-之外的图床？](https://www.v2ex.com/t/727339) ![](assets/new.png)  
-- [2020-11-19-|-前端-|-自学-|-本科-|-非科班-|-找朋（大）友（佬）|-Q-群-|-萌新求带](https://www.v2ex.com/t/727338) ![](assets/new.png)  
-- [2020-11-19-Fecmall---Fecro-商用免费授权-企业单商户跨境电商系统，已正式发版](https://www.v2ex.com/t/727337) ![](assets/new.png)  
-- [2020-11-19-有没有哪个朋友愿意给小弟来一场有偿模拟面试？](https://www.v2ex.com/t/727336) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -615,26 +615,26 @@
 </summary>
 
 
-- [2020-11-20-内存数据库解析与主流产品对比（三）](https://toutiao.io/k/9qv70vb) ![](assets/new.png)  
 - [2020-11-20-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
+- [2020-11-20-内存数据库解析与主流产品对比（三）](https://toutiao.io/k/9qv70vb) ![](assets/new.png)  
+- [2020-11-20-史上最姨母级-Java-继承详解](https://toutiao.io/k/5x6siju) ![](assets/new.png)  
 - [2020-11-20-Golang-单元测试：有哪些误区和实践？](https://toutiao.io/k/5szw95c) ![](assets/new.png)  
 - [2020-11-20-详解-JavaScript-中的模块、Import-和-Export](https://toutiao.io/k/545z46w) ![](assets/new.png)  
 - [2020-11-20-Python-源码混淆与加密](https://toutiao.io/k/3g7dp26) ![](assets/new.png)  
-- [2020-11-20-史上最姨母级-Java-继承详解](https://toutiao.io/k/5x6siju) ![](assets/new.png)  
+- [2020-11-20-WebRTC-服务端工程实践和优化探索](https://toutiao.io/k/9bmwz0s) ![](assets/new.png)  
 - [2020-11-20-Pulsar-能否超越-Kafka？](https://toutiao.io/k/abi4u4p) ![](assets/new.png)  
 - [2020-11-20-漫画全面解释-Spark-企业调优点](https://toutiao.io/k/ioiv5kb) ![](assets/new.png)  
 - [2020-11-20-VSCode-+-Vim-+-Whichkey-,-VSCode-模拟-Spacemacs-的使用方案](https://toutiao.io/k/rovywe3) ![](assets/new.png)  
-- [2020-11-20-WebRTC-服务端工程实践和优化探索](https://toutiao.io/k/9bmwz0s) ![](assets/new.png)  
-- [2020-11-20-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
-- [2020-11-20-推荐-深入理解-Java-线程池](https://toutiao.io/k/dwlr0t4) ![](assets/new.png)  
-- [2020-11-20-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
-- [2020-11-20-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
-- [2020-11-20-推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2) ![](assets/new.png)  
-- [2020-11-20-推荐-消息架构的设计难题以及应对之道](https://toutiao.io/k/3vly0qt) ![](assets/new.png)  
-- [2020-11-20-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
-- [2020-11-20-推荐-终于有人把数据中台讲明白了](https://toutiao.io/k/t3ybr20) ![](assets/new.png)  
-- [2020-11-20-推荐-小团队如何落地敏捷开发](https://toutiao.io/k/hg0jmdy) ![](assets/new.png)  
+- [2020-11-20-推荐-总是感觉时间不够用？程序员如何管理时间？](https://toutiao.io/k/leud24r) ![](assets/new.png)  
 - [2020-11-20-推荐-Java-中-9-种常见的-CMS-GC-问题分析与解决](https://toutiao.io/k/mlyha8z) ![](assets/new.png)  
+- [2020-11-20-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) ![](assets/new.png)  
+- [2020-11-20-推荐-原来-10-张图就可以搞懂分布式链路追踪系统原理](https://toutiao.io/k/5xc996m) ![](assets/new.png)  
+- [2020-11-20-推荐-几乎刷完了力扣所有的链表题，我发现了这些东西。。。](https://toutiao.io/k/b2q9ajw) ![](assets/new.png)  
+- [2020-11-20-推荐-技术人员该如何接手一个复杂的系统？吐血推荐这几招](https://toutiao.io/k/yyjv3sj) ![](assets/new.png)  
+- [2020-11-20-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-20-推荐-搞定-spring-aop-面试题，这一篇就够了](https://toutiao.io/k/ekz4xzi) ![](assets/new.png)  
+- [2020-11-20-推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t) ![](assets/new.png)  
+- [2020-11-20-推荐-基于时间线的-Feed-流后台系统设计](https://toutiao.io/k/yy8cawz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

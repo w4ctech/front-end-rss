@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-20 10:47:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 11:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,6 +34,12 @@
 - [2020-11-20-什么浏览器更适合？](https://www.v2ex.com/t/727640) 
 - [2020-11-20-小弟不才,后端一位,用残留的一点安卓知识,在-webview-上实现一个套壳浏览器，但是感觉很鸡肋,请大家提提意见](https://www.v2ex.com/t/727626) 
 - [2020-11-20-被黑客攻击了，登录流程要怎么做才安全](https://toutiao.io/k/rftwer0) 
+- [2020-11-20-神经网络与随机数的安全性分析上](https://sec.thief.one/article_content?a_id=1611f76d0ff15f4ce833bf1ed37ccb09) 
+- [2020-11-20-苹果生态不再安全?M1芯片首爆高危漏洞!](https://sec.thief.one/article_content?a_id=e69b5c32d4e6056d55d135d1f14e1450) 
+- [2020-11-20-【漏洞预警】CNNVD-关于Drupal安全漏洞的通报](https://sec.thief.one/article_content?a_id=17d67a97c7ece434533addbb216b0d39) 
+- [2020-11-20-【安全热点周报】第169期:圆通出现“内鬼”超40万条个人信息被泄露](https://sec.thief.one/article_content?a_id=bceeb175196166f0fc2c3532131f45e4) 
+- [2020-11-20-第二届INSEC-WORLD世界信息安全大会即将在成都举行](https://sec.thief.one/article_content?a_id=6be1fc6c8cca6397d423b8f1d06490e2) 
+- [2020-11-19-【安全圈】ZeroLogon-已被黑客组织大量用于全球范围内的工业攻击](https://sec.thief.one/article_content?a_id=3fbe79f1d334583f0d602c11cb9d1c68) 
 - [2020-11-19-预告|2020中国网络安全产业高峰论坛即将盛启](https://sec.thief.one/article_content?a_id=707419a5419ae6b3067665a7ebd37f95) 
 - [2020-11-19-AIoT安全峰会议题回顾|等保2.0-物联网安全扩展要求解读](https://sec.thief.one/article_content?a_id=f14bc1c353b9247643ba59b41b6639ae) 
 - [2020-11-19-新基建碰撞安全之道,红客联盟对上绿色兵团?-|-INSEC-WORLD-倒...](https://sec.thief.one/article_content?a_id=45f8a05e6d1a18563dec336b8fdce140) 
@@ -50,13 +56,3 @@
 - [2020-11-18-第三届“安洵杯”网络安全挑战赛来啦!!](https://sec.thief.one/article_content?a_id=f33a66c2c1ce1ce5291351183690d85e) 
 - [2020-11-18-CVE-2020-17053:IE-UAF漏洞分析](https://sec.thief.one/article_content?a_id=ae198dd09808dc2f65b1f40765031b84) 
 - [2020-11-18-网络安全意识培训的八大新策略](https://sec.thief.one/article_content?a_id=066e07f4a66ba6bb8ad7989e5ecfcd22) 
-- [2020-11-18-信息安全漏洞周报2020年第44期](https://sec.thief.one/article_content?a_id=5b53bdbeae2dccb2e299a450b5b16a4f) 
-- [2020-11-18-Web安全:暴力破解](https://sec.thief.one/article_content?a_id=a5bd462a4be58c9868eecddd73021bc2) 
-- [2020-11-18-又在作妖!特朗普国家安全顾问:华为威胁是未来的“头号担忧”](https://sec.thief.one/article_content?a_id=f95d73068cd84f1c0716590ceef234f8) 
-- [2020-11-18-翻译Adminer-SSRF:绕过CVE-2018-7667修复并走私POST参数](https://sec.thief.one/article_content?a_id=df52e89cb871a7a212394972e0bb1be8) 
-- [2020-11-17-SecWiki安全招聘第43期](https://sec.thief.one/article_content?a_id=d7581d53c91bc7799e5d03bef301c503) 
-- [2020-11-17-【安全圈】Capcom承认数据泄露,并披露了详细信息](https://sec.thief.one/article_content?a_id=eb3c07c739afd8ec21ed518c1082cd8a) 
-- [2020-11-17-安全内参|2021年新兴网络安全威胁预测](https://sec.thief.one/article_content?a_id=856effe1224002d56dddfbfb135207e3) 
-- [2020-11-17-绿盟科技全力护航2020电力行业网络安全攻防邀请赛](https://sec.thief.one/article_content?a_id=2e0de21cfe08f99a08e8dd5b1cd39748) 
-- [2020-11-17-AIoT安全峰会议题回顾|光明守卫:MIUI12全副武装的隐私保护](https://sec.thief.one/article_content?a_id=5194cd48d9e492daa9c9dd74c463a9c9) 
-- [2020-11-17-滴滴安全应急响应中心致谢小米安全团队](https://sec.thief.one/article_content?a_id=be71507b7d74de522526a7c25ce55956) 

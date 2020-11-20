@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-20 10:47:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 11:03:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -81,3 +81,4 @@
 - [2020-11-20-女儿出生一个月了，有什么软件或者工具可以管理&存储她相关的照片和视频呢](https://www.v2ex.com/t/727606) 
 - [2020-11-20-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-11-20-WebRTC-服务端工程实践和优化探索](https://toutiao.io/k/9bmwz0s) 
+- [2020-11-20-【视频】|-Python:列表排序](https://sec.thief.one/article_content?a_id=c613c49565829af227e59c679514ecad) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 10:47:34，:rocket: 更新条数: +3333， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 11:03:48，:rocket: 更新条数: +3332， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,6 +553,11 @@
 </summary>
 
 
+- [2020-11-20-上海30~60K15.5-薪-美团-Java-开发小组急招，再发一次](https://www.v2ex.com/t/727655) ![](assets/new.png)  
+- [2020-11-20-我来给-csdn-洗地了，扩充-block-list-的好机会，不用谢！](https://www.v2ex.com/t/727653) ![](assets/new.png)  
+- [2020-11-20-今天群晖被暴力破解了一整天](https://www.v2ex.com/t/727652) ![](assets/new.png)  
+- [2020-11-20-小哥哥，小姐姐们，周末快乐，大家周末都干什么尼？一起看书嘛](https://www.v2ex.com/t/727651) ![](assets/new.png)  
+- [2020-11-20-如何突破库云网盘的下载限制](https://www.v2ex.com/t/727650) ![](assets/new.png)  
 - [2020-11-20-刘未鹏现在在哪里写文章](https://www.v2ex.com/t/727649) ![](assets/new.png)  
 - [2020-11-20-现在有哪家-qs-可以免-5-的？](https://www.v2ex.com/t/727648) ![](assets/new.png)  
 - [2020-11-20-国内的云服务器上访问-github，-docker-hub-啥的好慢啊。。。](https://www.v2ex.com/t/727646) ![](assets/new.png)  
@@ -568,11 +573,6 @@
 - [2020-11-20-求一款支持夜间模式的-UML-画图工具，眼睛要瞎了！](https://www.v2ex.com/t/727634) ![](assets/new.png)  
 - [2020-11-20-社招ZOOMC++,-Java-,-WEB,-Android-岗位都有招聘](https://www.v2ex.com/t/727633) ![](assets/new.png)  
 - [2020-11-20-像那种一对多模型多的一方的多选添加元素怎么做比较好](https://www.v2ex.com/t/727632) ![](assets/new.png)  
-- [2020-11-20-考研方向选择求建议](https://www.v2ex.com/t/727631) ![](assets/new.png)  
-- [2020-11-20-深度解读最新版-Scrum-指南](https://www.v2ex.com/t/727630) ![](assets/new.png)  
-- [2020-11-20-外国人对中国人根深蒂固的偏见](https://www.v2ex.com/t/727629) ![](assets/new.png)  
-- [2020-11-20-可以用普通-TYPE-C-的手机充电头给-MacBook-充电吗？](https://www.v2ex.com/t/727628) ![](assets/new.png)  
-- [2020-11-20-如果腾讯云实在不愿意退款，那我还有什么招？](https://www.v2ex.com/t/727627) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -625,8 +625,8 @@
 - [2020-11-20-详解-JavaScript-中的模块、Import-和-Export](https://toutiao.io/k/545z46w) ![](assets/new.png)  
 - [2020-11-20-VSCode-+-Vim-+-Whichkey-,-VSCode-模拟-Spacemacs-的使用方案](https://toutiao.io/k/rovywe3) ![](assets/new.png)  
 - [2020-11-20-漫画全面解释-Spark-企业调优点](https://toutiao.io/k/ioiv5kb) ![](assets/new.png)  
-- [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
 - [2020-11-20-京东-EB-级全域大数据平台的演进与治理历程](https://toutiao.io/k/xns6hdm) ![](assets/new.png)  
+- [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
 - [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
 - [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
 - [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  
@@ -646,26 +646,26 @@
 </summary>
 
 
-- [2020-11-19-每日攻防资讯简报Nov.19th](https://sec.thief.one/article_content?a_id=116b15d42b9aa1b688d9e746f0ca8bb9) ![](assets/new.png)  
-- [2020-11-19-【新经济·新引擎】今年前三季度新型消费快速发展-科技赋能满足新需...](https://sec.thief.one/article_content?a_id=88d35c6ccf18a63aa8205bfb072f8fed) ![](assets/new.png)  
-- [2020-11-19-预告|2020中国网络安全产业高峰论坛即将盛启](https://sec.thief.one/article_content?a_id=707419a5419ae6b3067665a7ebd37f95) ![](assets/new.png)  
-- [2020-11-19-奇安信独家技术支撑!2020年全国电信和互联网行业网安管理职业技能...](https://sec.thief.one/article_content?a_id=cd78d9b0ad089d4839ad502673b61949) ![](assets/new.png)  
-- [2020-11-19-【漏洞通告】Drupal远程代码执行漏洞CVE-2020-13671](https://sec.thief.one/article_content?a_id=48a6f236702e56cd09f86577cca9d41c) ![](assets/new.png)  
-- [2020-11-19-AIoT安全峰会议题回顾|等保2.0-物联网安全扩展要求解读](https://sec.thief.one/article_content?a_id=f14bc1c353b9247643ba59b41b6639ae) ![](assets/new.png)  
-- [2020-11-19-【补丁库更新】奇安信集团2020年11月补丁库更新通告第二次更新](https://sec.thief.one/article_content?a_id=801ae38391d9c0929d069f0c4b7f27b1) ![](assets/new.png)  
-- [2020-11-19-2020-KCTF秋季赛-|-第一题点评及解题思路](https://sec.thief.one/article_content?a_id=946722cba276404811782fb036e826f2) ![](assets/new.png)  
-- [2020-11-19-基于打印机跳板技术的新型C2及其检测方法上篇](https://sec.thief.one/article_content?a_id=725935cb53ad0b0eccfefb44b417c2fd) ![](assets/new.png)  
-- [2020-11-19-2020最烂密码排行榜](https://sec.thief.one/article_content?a_id=ce2da1ba57918c1d2a63f6f96c6c1760) ![](assets/new.png)  
-- [2020-11-19-新基建碰撞安全之道,红客联盟对上绿色兵团?-|-INSEC-WORLD-倒...](https://sec.thief.one/article_content?a_id=45f8a05e6d1a18563dec336b8fdce140) ![](assets/new.png)  
-- [2020-11-19-【漏洞通告】Drupal-远程代码执行漏洞CVE-2020-13671](https://sec.thief.one/article_content?a_id=6f3dc814ed39077f95b8d27732ed51ff) ![](assets/new.png)  
-- [2020-11-19-科普篇丨大牛深入浅出讲解RFID技术](https://sec.thief.one/article_content?a_id=990ebd9b935d66744273a2c39bd90cea) ![](assets/new.png)  
-- [2020-11-19-⼀次对五指-cms的任意⽂件删除漏洞挖掘](https://sec.thief.one/article_content?a_id=4f717fed69fee61df6af760a5130c3c5) ![](assets/new.png)  
-- [2020-11-19-不拼不搏-人生白活](https://sec.thief.one/article_content?a_id=027f5fa1dc3bfadbe67d93cd8b0d5cf4) ![](assets/new.png)  
-- [2020-11-19-2020京麒网络安全大会议程发布,你想看的都在这里!](https://sec.thief.one/article_content?a_id=72eb5a81aef83a1cc1cbc5595005dd6d) ![](assets/new.png)  
-- [2020-11-19-泰国SEC修订净资本要求规则,以便提高流动性并支持数字资产业务](https://sec.thief.one/article_content?a_id=3572cea70cfc2d6ccb6737fb8f9fd04f) ![](assets/new.png)  
-- [2020-11-19-“断卡行动”重拳出击,银行如何用技术手段响应监管要求、遏止黑产...](https://sec.thief.one/article_content?a_id=f0027a102edcb1b0344b6220f3fdf70f) ![](assets/new.png)  
-- [2020-11-19-2020云安全联盟大中华区大会将于12月4日开幕](https://sec.thief.one/article_content?a_id=93c6bea7e3a3708c52589dafa6c25434) ![](assets/new.png)  
-- [2020-11-19-DSRC助力-|-报名开始!补天白帽城市沙龙-成都站](https://sec.thief.one/article_content?a_id=2077564af5bb547ca67f7bf298fcdff8) ![](assets/new.png)  
+- [2020-11-20-别再说Python简单!](https://sec.thief.one/article_content?a_id=56990827a81f22cf0df4a4a1b6990c12) ![](assets/new.png)  
+- [2020-11-20-DSRC五周年-Give-Me-Four—你距离iPhone-12还有2个高危](https://sec.thief.one/article_content?a_id=7dac1ece79dc6976b0dac03a989bb8d0) ![](assets/new.png)  
+- [2020-11-20-「FVIP会员日」来了!下周三等你来“薅”](https://sec.thief.one/article_content?a_id=ce966854451f114aa761d92221688c77) ![](assets/new.png)  
+- [2020-11-20-神经网络与随机数的安全性分析上](https://sec.thief.one/article_content?a_id=1611f76d0ff15f4ce833bf1ed37ccb09) ![](assets/new.png)  
+- [2020-11-20-苹果生态不再安全?M1芯片首爆高危漏洞!](https://sec.thief.one/article_content?a_id=e69b5c32d4e6056d55d135d1f14e1450) ![](assets/new.png)  
+- [2020-11-20-Windows域渗透之Kerberos委派议题扩展](https://sec.thief.one/article_content?a_id=5be6c281ecc50c748cc9f6a64e2c98a3) ![](assets/new.png)  
+- [2020-11-20-如何区分IaaS、PaaS和SaaS-|-知道](https://sec.thief.one/article_content?a_id=67d7f739928ba06238daf59fa792f780) ![](assets/new.png)  
+- [2020-11-20-报名开始!补天白帽城市沙龙-成都站](https://sec.thief.one/article_content?a_id=e2648a95ab27f35fef90dfad17330854) ![](assets/new.png)  
+- [2020-11-20-【漏洞预警】CNNVD-关于Drupal安全漏洞的通报](https://sec.thief.one/article_content?a_id=17d67a97c7ece434533addbb216b0d39) ![](assets/new.png)  
+- [2020-11-20-股权穿透图的利用](https://sec.thief.one/article_content?a_id=aa29a93784cf0e6509d2823abeddb30d) ![](assets/new.png)  
+- [2020-11-20-永信至诚完成2亿元融资,国资背景专业基金入股](https://sec.thief.one/article_content?a_id=3d0fab53bc75e3d89e79c1d3d8f8815f) ![](assets/new.png)  
+- [2020-11-20-【安全热点周报】第169期:圆通出现“内鬼”超40万条个人信息被泄露](https://sec.thief.one/article_content?a_id=bceeb175196166f0fc2c3532131f45e4) ![](assets/new.png)  
+- [2020-11-20-高校挑战赛-|-神秘嘉宾,做客MTSRC!](https://sec.thief.one/article_content?a_id=ae422555877e06441fc463933b1d98e8) ![](assets/new.png)  
+- [2020-11-20-彭博社McGlone认为比特币会在未来两年内达到17万美元](https://sec.thief.one/article_content?a_id=f0043d488df8946f5acf1da2bf80273d) ![](assets/new.png)  
+- [2020-11-20-同步与异步-Python-有何不同?](https://sec.thief.one/article_content?a_id=6fec97b27fa30c5f49c972327eb5852f) ![](assets/new.png)  
+- [2020-11-20-面试题:1-到-1000-之间有多少个-7?](https://sec.thief.one/article_content?a_id=d44d069be6d40bd08d40a185508c6b9d) ![](assets/new.png)  
+- [2020-11-20-比特币无情震荡,市场已摩拳擦掌](https://sec.thief.one/article_content?a_id=c2327df6ec3d40482b464e408b3dff84) ![](assets/new.png)  
+- [2020-11-20-加拿大拟出台数据保护新法:罚款最高可达全球营收5%](https://sec.thief.one/article_content?a_id=c46ab41cac4b7ce1b9af57ac7cdc9fab) ![](assets/new.png)  
+- [2020-11-20-内核漏洞利用之CVE-2020-17382篇下](https://sec.thief.one/article_content?a_id=0115242d40cb3ad16d8bc089cf5cb4ca) ![](assets/new.png)  
+- [2020-11-20-第二届INSEC-WORLD世界信息安全大会即将在成都举行](https://sec.thief.one/article_content?a_id=6be1fc6c8cca6397d423b8f1d06490e2) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

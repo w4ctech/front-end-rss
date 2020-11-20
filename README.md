@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 05:47:53，:rocket: 更新条数: +3088， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 06:04:51，:rocket: 更新条数: +3087， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,13 @@
 </summary>
 
 
+- [2020-11-20-有没有互联网公司的项目经理呀](https://www.v2ex.com/t/727519) ![](assets/new.png)  
+- [2020-11-20-苏宁这么猛的吗](https://www.v2ex.com/t/727518) ![](assets/new.png)  
+- [2020-11-20-Picsee---看图-&-截图-1.2.0-更新了，这次更新主要优化图床模块](https://www.v2ex.com/t/727516) ![](assets/new.png)  
+- [2020-11-20-上海有套小两房出租，坐标北蔡，沪南路北中路附近](https://www.v2ex.com/t/727515) ![](assets/new.png)  
+- [2020-11-20-个人建个什么网站，可以赚些小钱？](https://www.v2ex.com/t/727512) ![](assets/new.png)  
+- [2020-11-20-大家的后路，我都安排的妥妥的了](https://www.v2ex.com/t/727511) ![](assets/new.png)  
+- [2020-11-20-你有没有在代码里留过一些不明显的彩蛋？](https://www.v2ex.com/t/727510) ![](assets/new.png)  
 - [2020-11-20-老哥们，给推荐款网页更新提醒工具呗？](https://www.v2ex.com/t/727508) ![](assets/new.png)  
 - [2020-11-20-一加-8t-刷原生安卓后，能无限-google-photo-原画质存储吗？](https://www.v2ex.com/t/727506) ![](assets/new.png)  
 - [2020-11-20-请问-M1-的电脑怎么装-iPad-的微信？](https://www.v2ex.com/t/727504) ![](assets/new.png)  
@@ -546,13 +553,6 @@
 - [2020-11-20-MacBook-Air-M1,2020隔空播放问题，芯片兼容问题？](https://www.v2ex.com/t/727493) ![](assets/new.png)  
 - [2020-11-20-升级到-big-sur-后炉石闪退大家都遇到过吗？](https://www.v2ex.com/t/727492) ![](assets/new.png)  
 - [2020-11-20-Offer-选择求建议-成都-15-OR-杭州-20](https://www.v2ex.com/t/727490) ![](assets/new.png)  
-- [2020-11-20-用花-B/淘-B-用出了烦恼](https://www.v2ex.com/t/727486) ![](assets/new.png)  
-- [2020-11-20-有微信公众号前端-UI-组件库推荐的吗？](https://www.v2ex.com/t/727484) ![](assets/new.png)  
-- [2020-11-20-Python-异常处理风格](https://www.v2ex.com/t/727483) ![](assets/new.png)  
-- [2020-11-20-Go-里面的-channel-最长可以阻塞多少数据呢？](https://www.v2ex.com/t/727482) ![](assets/new.png)  
-- [2020-11-20-如何从日常发现中挖掘赚钱产品？](https://www.v2ex.com/t/727481) ![](assets/new.png)  
-- [2020-11-20-微信公众号前端-UI-组件库有推荐的吗](https://www.v2ex.com/t/727480) ![](assets/new.png)  
-- [2020-11-20-golang-中的值传递和指针传递的理解？](https://www.v2ex.com/t/727479) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 </summary>
 
 
+- [2020-11-20-AI云原生浅谈：好未来AI中台实践-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13972&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778470%3Futm_content%3Dg_1000207511%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-20-双十一消费近万亿！1亿人见证数字物流，“尾款人”收货更快了？购物狂欢七大趋势浮现-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13971&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778497%3Futm_content%3Dg_1000207510%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-20-日均调用量超13亿次，阿里达摩院研发全球首个实时翻译直播-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13970&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778403%3Futm_content%3Dg_1000207509%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-20-揭秘“双11”黑科技：机器人“接管”物流、服务器“不发烧”-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13969&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778476%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -583,7 +584,6 @@
 - [2020-11-20-如何快速实现精准的个性化搜索服务-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13955&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778356%3Futm_content%3Dg_1000205618%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-20-什么是低代码（Low-Code）？-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13954&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778355%3Futm_content%3Dg_1000205617%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-11-20-企业双11业绩增长156%-、成交额突破151亿元-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13953&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778319%3Futm_content%3Dg_1000205616%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-11-20-考拉海购全面云原生迁移之路-developer.aliyun.com](https://blogread.cn/news/go.php?idItem=13952&url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F778144%3Futm_content%3Dg_1000205615%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -606,10 +606,10 @@
 - [2020-11-20-VSCode-+-Vim-+-Whichkey-,-VSCode-模拟-Spacemacs-的使用方案](https://toutiao.io/k/rovywe3) ![](assets/new.png)  
 - [2020-11-20-漫画全面解释-Spark-企业调优点](https://toutiao.io/k/ioiv5kb) ![](assets/new.png)  
 - [2020-11-20-京东-EB-级全域大数据平台的演进与治理历程](https://toutiao.io/k/xns6hdm) ![](assets/new.png)  
-- [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
-- [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  
-- [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
 - [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
+- [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  
+- [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
+- [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
 - [2020-11-20-Selenium-爬虫使用代理情况下不设置这几个参数，代理就白加了](https://toutiao.io/k/oflggpf) ![](assets/new.png)  
 - [2020-11-20-被黑客攻击了，登录流程要怎么做才安全](https://toutiao.io/k/rftwer0) ![](assets/new.png)  
 - [2020-11-20-设计实现高性能本地内存缓存](https://toutiao.io/k/0c0zsxd) ![](assets/new.png)  

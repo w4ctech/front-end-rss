@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-20 05:47:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 06:04:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -11,6 +11,7 @@
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-11-20-Picsee---看图-&-截图-1.2.0-更新了，这次更新主要优化图床模块](https://www.v2ex.com/t/727516) 
 - [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) 
 - [2020-11-20-设计实现高性能本地内存缓存](https://toutiao.io/k/0c0zsxd) 
 - [2020-11-20-推荐-高并发高性能服务器是如何实现的](https://toutiao.io/k/e3xq8ad) 

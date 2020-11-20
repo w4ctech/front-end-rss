@@ -15879,6 +15879,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有拿到 M1 芯片 Mac ，并且有一对 HomePod 的大佬能不能说下 M1 芯片的 Mac 能不能在系统全局就连接 HomePod 的立体声编组？",
+        "link": "https://www.v2ex.com/t/727382",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[三七互娱内推-社招-中/高 C# 开发工程师 15-25K] [广州]",
+        "link": "https://www.v2ex.com/t/727381",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "最近家里发现两只小强，求推荐蟑螂药或者分享灭蟑经验",
+        "link": "https://www.v2ex.com/t/727380",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "实现一个 http router 库玩玩。。。",
+        "link": "https://www.v2ex.com/t/727378",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[南京] 招聘两名高级安卓开发工程师，薪资 15-18K/月，一名高级 Java web 开发工程师，薪资 15-18K/月， 3-5 年经验。",
+        "link": "https://www.v2ex.com/t/727377",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "Python 哪里可以下载各个版本的 macOS 二进制包？",
+        "link": "https://www.v2ex.com/t/727376",
+        "date": "2020-11-20"
+      },
+      {
         "title": "抽奖助手小程序",
         "link": "https://www.v2ex.com/t/727374",
         "date": "2020-11-20"
@@ -16047,26 +16077,6 @@
         "title": "求一个简单的思路，获取微信群成员的微信号",
         "link": "https://www.v2ex.com/t/727333",
         "date": "2020-11-19"
-      },
-      {
-        "title": "[南京/阿里巴巴] 南京研发中心期待你的加入， 2~3 周内发 offer",
-        "link": "https://www.v2ex.com/t/727332",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "有使用 M1 MAC 跑 iOS APP 的各位，数据文件能保存吗？",
-        "link": "https://www.v2ex.com/t/727331",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "Python 采集手机地图的瓦片 有接的不？",
-        "link": "https://www.v2ex.com/t/727329",
-        "date": "2020-11-19"
-      },
-      {
-        "title": "求助， Big Sur 升级安装失败",
-        "link": "https://www.v2ex.com/t/727326",
-        "date": "2020-11-19"
       }
     ]
   },
@@ -16203,13 +16213,13 @@
         "date": "2020-11-20"
       },
       {
-        "title": "详解 JavaScript 中的模块、Import 和 Export",
-        "link": "https://toutiao.io/k/545z46w",
+        "title": "Python 源码混淆与加密",
+        "link": "https://toutiao.io/k/3g7dp26",
         "date": "2020-11-20"
       },
       {
-        "title": "Python 源码混淆与加密",
-        "link": "https://toutiao.io/k/3g7dp26",
+        "title": "详解 JavaScript 中的模块、Import 和 Export",
+        "link": "https://toutiao.io/k/545z46w",
         "date": "2020-11-20"
       },
       {
@@ -16233,8 +16243,23 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 深入理解 Java 线程池",
-        "link": "https://toutiao.io/k/dwlr0t4",
+        "title": "分布式集群如何实现高效的数据分布",
+        "link": "https://toutiao.io/k/nbpbkri",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "京东 EB 级全域大数据平台的演进与治理历程",
+        "link": "https://toutiao.io/k/xns6hdm",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "闲鱼是这样高效稳定完成项目迁移的",
+        "link": "https://toutiao.io/k/qqb6aj0",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "糟糕，系统又被攻击了",
+        "link": "https://toutiao.io/k/et457nd",
         "date": "2020-11-20"
       },
       {
@@ -16243,18 +16268,8 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 面试过 200 人的经验，都在这里了",
-        "link": "https://toutiao.io/k/pfctyn9",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
-        "link": "https://toutiao.io/k/qbvqq09",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-20"
       },
       {
@@ -16268,18 +16283,23 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 终于有人把数据中台讲明白了",
-        "link": "https://toutiao.io/k/t3ybr20",
+        "title": "[推荐] 高并发高性能服务器是如何实现的",
+        "link": "https://toutiao.io/k/e3xq8ad",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 52 图初探 Linux 通用知识",
-        "link": "https://toutiao.io/k/mgktqso",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
-        "link": "https://toutiao.io/k/leud24r",
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-20"
       },
       {
@@ -16288,23 +16308,33 @@
         "date": "2020-11-20"
       },
       {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
+        "link": "https://toutiao.io/k/5xc996m",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 总是感觉时间不够用？程序员如何管理时间？",
+        "link": "https://toutiao.io/k/leud24r",
+        "date": "2020-11-20"
+      },
+      {
         "title": "[推荐] 搞定 spring aop 面试题，这一篇就够了",
         "link": "https://toutiao.io/k/ekz4xzi",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
-        "link": "https://toutiao.io/k/jeuqdr2",
+        "title": "[推荐] 终于有人把数据中台讲明白了",
+        "link": "https://toutiao.io/k/t3ybr20",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] MySQL 的 join 功能弱爆了？",
-        "link": "https://toutiao.io/k/031qbdy",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
+        "title": "[推荐] 消息架构的设计难题以及应对之道",
+        "link": "https://toutiao.io/k/3vly0qt",
         "date": "2020-11-20"
       }
     ]

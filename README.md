@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 08:38:02，:rocket: 更新条数: +3093， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 08:48:00，:rocket: 更新条数: +3094， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,10 @@
 </summary>
 
 
+- [2020-11-20-2015-款-mac-pro-蓝牙不可用。波浪线。](https://www.v2ex.com/t/727605) ![](assets/new.png)  
+- [2020-11-20-求教-celery-beat-调度不准时](https://www.v2ex.com/t/727604) ![](assets/new.png)  
+- [2020-11-20-学生身份有哪些好用的资源包可以免费领](https://www.v2ex.com/t/727603) ![](assets/new.png)  
+- [2020-11-20-统一推迟联盟现在有什么消息了吗？官网最新消息停在-3-月份](https://www.v2ex.com/t/727602) ![](assets/new.png)  
 - [2020-11-20-近半年的实习体验分享](https://www.v2ex.com/t/727601) ![](assets/new.png)  
 - [2020-11-20-厨子今年刀法不行啊,-pro-刚发布就掉价比-air-还多.](https://www.v2ex.com/t/727600) ![](assets/new.png)  
 - [2020-11-20-新浪微博-Android-版本怎么也是到处拉屎（随意在根目录创建文件夹）？](https://www.v2ex.com/t/727599) ![](assets/new.png)  
@@ -549,10 +553,6 @@
 - [2020-11-20-URLOS-容器云管理面板-11.99-元-购买-跨域管理套餐-+-永久标准版](https://www.v2ex.com/t/727587) ![](assets/new.png)  
 - [2020-11-20-大侠们，求问一个负载均衡的问题](https://www.v2ex.com/t/727586) ![](assets/new.png)  
 - [2020-11-20-萌新请教下关于切面功能跨模块的使用的问题？](https://www.v2ex.com/t/727585) ![](assets/new.png)  
-- [2020-11-20-工业互联网如何入门？有没有相关产业的信息可以关注？](https://www.v2ex.com/t/727584) ![](assets/new.png)  
-- [2020-11-20-安卓如何限制一个应用的退出](https://www.v2ex.com/t/727581) ![](assets/new.png)  
-- [2020-11-20-纠结买二手-X86-13-寸顶配，还是-买全新-ARM-M1-顶配？](https://www.v2ex.com/t/727580) ![](assets/new.png)  
-- [2020-11-20-现在还有多少人上-OSC-的动弹？](https://www.v2ex.com/t/727579) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -606,8 +606,8 @@
 - [2020-11-20-VSCode-+-Vim-+-Whichkey-,-VSCode-模拟-Spacemacs-的使用方案](https://toutiao.io/k/rovywe3) ![](assets/new.png)  
 - [2020-11-20-漫画全面解释-Spark-企业调优点](https://toutiao.io/k/ioiv5kb) ![](assets/new.png)  
 - [2020-11-20-京东-EB-级全域大数据平台的演进与治理历程](https://toutiao.io/k/xns6hdm) ![](assets/new.png)  
-- [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
 - [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
+- [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
 - [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
 - [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  
 - [2020-11-20-Selenium-爬虫使用代理情况下不设置这几个参数，代理就白加了](https://toutiao.io/k/oflggpf) ![](assets/new.png)  

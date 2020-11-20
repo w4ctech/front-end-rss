@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-11-20 08:38:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 08:48:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-20-2015-款-mac-pro-蓝牙不可用。波浪线。](https://www.v2ex.com/t/727605) 
+- [2020-11-20-求教-celery-beat-调度不准时](https://www.v2ex.com/t/727604) 
+- [2020-11-20-学生身份有哪些好用的资源包可以免费领](https://www.v2ex.com/t/727603) 
+- [2020-11-20-统一推迟联盟现在有什么消息了吗？官网最新消息停在-3-月份](https://www.v2ex.com/t/727602) 
 - [2020-11-20-近半年的实习体验分享](https://www.v2ex.com/t/727601) 
 - [2020-11-20-厨子今年刀法不行啊,-pro-刚发布就掉价比-air-还多.](https://www.v2ex.com/t/727600) 
 - [2020-11-20-新浪微博-Android-版本怎么也是到处拉屎（随意在根目录创建文件夹）？](https://www.v2ex.com/t/727599) 
@@ -42,6 +46,3 @@
 - [2020-11-20-迫于穷，想了解一下艾维的-windows10-的追溯。](https://www.v2ex.com/t/727558) 
 - [2020-11-20-mini-黑苹果主机的方案选型，大家来讨论下呢](https://www.v2ex.com/t/727557) 
 - [2020-11-20-设置了-hosts，-dig-raw.githubusercontent.com-总是失败](https://www.v2ex.com/t/727556) 
-- [2020-11-20-从零开始的-RPG-游戏制作教程](https://www.v2ex.com/t/727555) 
-- [2020-11-20-第一次用-Apple-Watch-SE,-请问心律不齐通知-IRNF-怎么打开？](https://www.v2ex.com/t/727554) 
-- [2020-11-20-吐槽贴：现在用中文搜索出正确的答案太难了](https://www.v2ex.com/t/727553) 

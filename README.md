@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 16:05:29，:rocket: 更新条数: +3098， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 16:18:06，:rocket: 更新条数: +3097， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,7 @@
 </summary>
 
 
+- [2020-11-20-一杯茶一包烟，一个串口调一天……](https://www.v2ex.com/t/727714) ![](assets/new.png)  
 - [2020-11-20-现在显卡都不讲武德了吗？](https://www.v2ex.com/t/727712) ![](assets/new.png)  
 - [2020-11-20-有什么办法过好/改变平凡的一生吗?](https://www.v2ex.com/t/727711) ![](assets/new.png)  
 - [2020-11-20-想实现一个-web-页面-ssh-连接](https://www.v2ex.com/t/727710) ![](assets/new.png)  
@@ -552,7 +553,6 @@
 - [2020-11-20-佛系背单词-App-帮助已经有基础的同学扩大词汇量](https://www.v2ex.com/t/727691) ![](assets/new.png)  
 - [2020-11-20-用电脑来控制手机音乐的的播放，支持全局快捷键](https://www.v2ex.com/t/727690) ![](assets/new.png)  
 - [2020-11-20-有办法用-android-手机来显示电脑的-HDMI-输出么？](https://www.v2ex.com/t/727689) ![](assets/new.png)  
-- [2020-11-20-Sign-in-with-Apple-注册的账户，可以找到账号密码吗？](https://www.v2ex.com/t/727688) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

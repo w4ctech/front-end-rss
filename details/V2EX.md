@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-20 12:15:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 12:30:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-20-Windows-7-安装-.NET-5-/-.NET-Core-3.1-环境的方法和依赖文件](https://www.v2ex.com/t/727670) 
+- [2020-11-20-出自用-MacBookPro](https://www.v2ex.com/t/727668) 
 - [2020-11-20-是不是没用桌面端和移动端都适配的比较好的前端框架？](https://www.v2ex.com/t/727667) 
 - [2020-11-20-关于-Apple-watch-trade-in](https://www.v2ex.com/t/727666) 
 - [2020-11-20-老哥们，有知道中讯邮电这个公司的嘛？](https://www.v2ex.com/t/727665) 
@@ -46,5 +48,3 @@
 - [2020-11-20-这种应该就是爬虫爬的好的结果吧](https://www.v2ex.com/t/727623) 
 - [2020-11-20-MIT-协议开源软件被流氓公司申请了软著，加入广告上架应用商店怎么办？](https://www.v2ex.com/t/727622) 
 - [2020-11-20-转租，南山蛇口小区房主卧转租](https://www.v2ex.com/t/727621) 
-- [2020-11-20-使用-M1-的兄弟，帮忙看看-WindowServer-进程的内存占用](https://www.v2ex.com/t/727619) 
-- [2020-11-20-不选择自如的情况下个人租房还有其他选择吗](https://www.v2ex.com/t/727618) 

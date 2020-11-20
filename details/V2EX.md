@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-11-20 15:12:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 15:26:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-20-电报创始人评价-iPhone-12-Pro](https://www.v2ex.com/t/727705) 
+- [2020-11-20-新东家不专业，该不该向上汇报实际工程情况？](https://www.v2ex.com/t/727704) 
+- [2020-11-20-迫于流量用不完-想出一张西钉卡](https://www.v2ex.com/t/727703) 
+- [2020-11-20-dotnet-core+mongodb-开发-web-api](https://www.v2ex.com/t/727702) 
+- [2020-11-20-会不会厨子计划用-ARM-架构满足大多数的需求，用-x86-满足少部份人的需求这样的市场策略？](https://www.v2ex.com/t/727701) 
+- [2020-11-20-macOS-Big-Sur-时间机器不能用，有遇到的吗？](https://www.v2ex.com/t/727700) 
 - [2020-11-20-终于发现了干扰-Mac-mini-Wi-Fi-的源头。。。小米温度计-pro](https://www.v2ex.com/t/727699) 
 - [2020-11-20-各位的-Macbook-Pro-16-寸有遇到中英文切换不灵敏的问题吗？](https://www.v2ex.com/t/727696) 
 - [2020-11-20-网络小白家庭组网遇到问题-求助交流贴](https://www.v2ex.com/t/727695) 
@@ -41,8 +47,3 @@
 - [2020-11-20-杭州装个宽带不，找我啊，经济实惠-200M-249-元一年](https://www.v2ex.com/t/727660) 
 - [2020-11-20-JetBrains-家的新项目好像没人提，-Projector，-IntelliJ-版的-VS-Code-Remote](https://www.v2ex.com/t/727659) 
 - [2020-11-20-如果-B-站出一个电脑上的剪辑软件就好了](https://www.v2ex.com/t/727656) 
-- [2020-11-20-上海30~60K15.5-薪-美团-Java-开发小组急招，再发一次](https://www.v2ex.com/t/727655) 
-- [2020-11-20-我来给-csdn-洗地了，扩充-block-list-的好机会，不用谢！](https://www.v2ex.com/t/727653) 
-- [2020-11-20-今天群晖被暴力破解了一整天](https://www.v2ex.com/t/727652) 
-- [2020-11-20-小哥哥，小姐姐们，周末快乐，大家周末都干什么尼？一起看书嘛](https://www.v2ex.com/t/727651) 
-- [2020-11-20-如何突破库云网盘的下载限制](https://www.v2ex.com/t/727650) 

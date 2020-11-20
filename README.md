@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 16:50:35，:rocket: 更新条数: +3062， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 16:55:26，:rocket: 更新条数: +3097， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
@@ -595,6 +595,26 @@
 </summary>
 
 
+- [2020-11-20-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
+- [2020-11-20-史上最姨母级-Java-继承详解](https://toutiao.io/k/5x6siju) ![](assets/new.png)  
+- [2020-11-20-Pulsar-能否超越-Kafka？](https://toutiao.io/k/abi4u4p) ![](assets/new.png)  
+- [2020-11-20-内存数据库解析与主流产品对比（三）](https://toutiao.io/k/9qv70vb) ![](assets/new.png)  
+- [2020-11-20-Python-源码混淆与加密](https://toutiao.io/k/3g7dp26) ![](assets/new.png)  
+- [2020-11-20-Golang-单元测试：有哪些误区和实践？](https://toutiao.io/k/5szw95c) ![](assets/new.png)  
+- [2020-11-20-WebRTC-服务端工程实践和优化探索](https://toutiao.io/k/9bmwz0s) ![](assets/new.png)  
+- [2020-11-20-详解-JavaScript-中的模块、Import-和-Export](https://toutiao.io/k/545z46w) ![](assets/new.png)  
+- [2020-11-20-VSCode-+-Vim-+-Whichkey-,-VSCode-模拟-Spacemacs-的使用方案](https://toutiao.io/k/rovywe3) ![](assets/new.png)  
+- [2020-11-20-漫画全面解释-Spark-企业调优点](https://toutiao.io/k/ioiv5kb) ![](assets/new.png)  
+- [2020-11-20-前端性能测试实践](https://toutiao.io/k/ma9fbqt) ![](assets/new.png)  
+- [2020-11-20-京东-EB-级全域大数据平台的演进与治理历程](https://toutiao.io/k/xns6hdm) ![](assets/new.png)  
+- [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
+- [2020-11-20-分布式集群如何实现高效的数据分布](https://toutiao.io/k/nbpbkri) ![](assets/new.png)  
+- [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  
+- [2020-11-20-Selenium-爬虫使用代理情况下不设置这几个参数，代理就白加了](https://toutiao.io/k/oflggpf) ![](assets/new.png)  
+- [2020-11-20-设计实现高性能本地内存缓存](https://toutiao.io/k/0c0zsxd) ![](assets/new.png)  
+- [2020-11-20-被黑客攻击了，登录流程要怎么做才安全](https://toutiao.io/k/rftwer0) ![](assets/new.png)  
+- [2020-11-20-美团外卖流量数据的采集加工和应用](https://toutiao.io/k/csx9zdy) ![](assets/new.png)  
+- [2020-11-20-magic-api：Java-后端开发者的福音，接口开发利器](https://toutiao.io/k/8du3dh8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

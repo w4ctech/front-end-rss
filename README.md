@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 10:35:13，:rocket: 更新条数: +3332， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 10:47:34，:rocket: 更新条数: +3333， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,15 +64,16 @@
 </summary>
 
 
-- [2020-11-19-天津新增4例新冠本土确诊病例-所住小区升为高风险地区](https://m.caixin.com/m/2020-11-20/101630539.html) ![](assets/new.png)  
 - [2020-11-19-11月19日全国新增确诊病例17例-新增疑似病例1例](https://m.caixin.com/m/2020-11-20/101630332.html) ![](assets/new.png)  
+- [2020-11-19-天津新增4例新冠本土确诊病例-所住小区升为高风险地区](https://m.caixin.com/m/2020-11-20/101630539.html) ![](assets/new.png)  
+- [2020-11-19-袁国勇：未有足够证据显示新冠病毒去年在意大利传播](https://m.caixin.com/m/2020-11-20/101630664.html) ![](assets/new.png)  
 - [2020-11-19-天津新增4例本土确诊病例-为此前通报的4名核酸检测阳性者](https://m.caixin.com/m/2020-11-20/101630319.html) ![](assets/new.png)  
 - [2020-11-19-【境内疫情观察】新疆现有确诊病例清零（11月19日）](http://m.database.caixin.com/m/2020-11-20/101630462.html) ![](assets/new.png)  
 - [2020-11-19-大流行手记|11月19日：日本规定打新冠疫苗为国民义务-特斯拉CEO马斯克确诊](https://m.caixin.com/m/2020-11-20/101630323.html) ![](assets/new.png)  
 - [2020-11-18-港中文研发“微生态免疫力配方”-促新冠患者加快康复](https://m.caixin.com/m/2020-11-19/101630268.html) ![](assets/new.png)  
-- [2020-11-18-美国新冠死亡人数突破25万-多州市重拾抗疫措施](http://m.international.caixin.com/m/2020-11-19/101630028.html) ![](assets/new.png)  
 - [2020-11-18-【境内疫情观察】天津新增1例本土无症状感染者（11月18日）](http://m.database.caixin.com/m/2020-11-19/101630044.html) ![](assets/new.png)  
 - [2020-11-18-大流行手记|11月18日：WHO总部累计65人感染-谭德赛吁各界为疫苗计划捐款](https://m.caixin.com/m/2020-11-19/101629954.html) ![](assets/new.png)  
+- [2020-11-18-美国新冠死亡人数突破25万-多州市重拾抗疫措施](http://m.international.caixin.com/m/2020-11-19/101630028.html) ![](assets/new.png)  
 - [2020-11-18-英国赴华健康码申请要求再调整-航班乘客如何完成检测？](https://m.caixin.com/m/2020-11-19/101630020.html) ![](assets/new.png)  
 - [2020-11-17-最新海外疫情：新冠感染超5553万-累计死亡超133万](https://m.caixin.com/m/2020-11-18/101629831.html) ![](assets/new.png)  
 - [2020-11-17-天津新增1例本土新冠病例-1例本土无症状感染者](https://m.caixin.com/m/2020-11-18/101629482.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-11-16-【境内疫情观察】全国新增15例境外输入病例（11月16日）](http://m.database.caixin.com/m/2020-11-17/101629210.html) ![](assets/new.png)  
 - [2020-11-16-大流行手记|11月16日：英首相密接后隔离-研究称去年9月意大利或已有感染者](https://m.caixin.com/m/2020-11-17/101629015.html) ![](assets/new.png)  
 - [2020-11-15-多地进口冷链包装检出新冠阳性-交通部发文加强冷链运输防控](http://m.companies.caixin.com/m/2020-11-16/101628925.html) ![](assets/new.png)  
-- [2020-11-15-上海：高风险进口冷链食品入沪将进行核酸检测和外包装消毒](https://m.caixin.com/m/2020-11-16/101628578.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,8 @@
 </summary>
 
 
+- [2020-11-20-刘未鹏现在在哪里写文章](https://www.v2ex.com/t/727649) ![](assets/new.png)  
+- [2020-11-20-现在有哪家-qs-可以免-5-的？](https://www.v2ex.com/t/727648) ![](assets/new.png)  
 - [2020-11-20-国内的云服务器上访问-github，-docker-hub-啥的好慢啊。。。](https://www.v2ex.com/t/727646) ![](assets/new.png)  
 - [2020-11-20-三七互娱内推-社招-中/高-中台运维工程师-13-25K-15-薪-广州](https://www.v2ex.com/t/727644) ![](assets/new.png)  
 - [2020-11-20-武汉全职可远程,-10k-至-20k-招募优质运维工程师狂魔们！](https://www.v2ex.com/t/727643) ![](assets/new.png)  
@@ -571,8 +573,6 @@
 - [2020-11-20-外国人对中国人根深蒂固的偏见](https://www.v2ex.com/t/727629) ![](assets/new.png)  
 - [2020-11-20-可以用普通-TYPE-C-的手机充电头给-MacBook-充电吗？](https://www.v2ex.com/t/727628) ![](assets/new.png)  
 - [2020-11-20-如果腾讯云实在不愿意退款，那我还有什么招？](https://www.v2ex.com/t/727627) ![](assets/new.png)  
-- [2020-11-20-小弟不才,后端一位,用残留的一点安卓知识,在-webview-上实现一个套壳浏览器，但是感觉很鸡肋,请大家提提意见](https://www.v2ex.com/t/727626) ![](assets/new.png)  
-- [2020-11-20-短信里面的-中utf16-be-英ASCII-混合-Buffer-如何解码？](https://www.v2ex.com/t/727625) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -618,8 +618,8 @@
 - [2020-11-20-7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm) ![](assets/new.png)  
 - [2020-11-20-史上最姨母级-Java-继承详解](https://toutiao.io/k/5x6siju) ![](assets/new.png)  
 - [2020-11-20-内存数据库解析与主流产品对比（三）](https://toutiao.io/k/9qv70vb) ![](assets/new.png)  
-- [2020-11-20-Python-源码混淆与加密](https://toutiao.io/k/3g7dp26) ![](assets/new.png)  
 - [2020-11-20-Pulsar-能否超越-Kafka？](https://toutiao.io/k/abi4u4p) ![](assets/new.png)  
+- [2020-11-20-Python-源码混淆与加密](https://toutiao.io/k/3g7dp26) ![](assets/new.png)  
 - [2020-11-20-Golang-单元测试：有哪些误区和实践？](https://toutiao.io/k/5szw95c) ![](assets/new.png)  
 - [2020-11-20-WebRTC-服务端工程实践和优化探索](https://toutiao.io/k/9bmwz0s) ![](assets/new.png)  
 - [2020-11-20-详解-JavaScript-中的模块、Import-和-Export](https://toutiao.io/k/545z46w) ![](assets/new.png)  

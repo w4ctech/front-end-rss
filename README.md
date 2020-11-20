@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 14:35:12，:rocket: 更新条数: +3097， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 14:47:56，:rocket: 更新条数: +3096， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-11-20-一条数据线成功救活变砖-mbp](https://www.v2ex.com/t/727694) ![](assets/new.png)  
+- [2020-11-20-关于-Android-APP-的运行问题？](https://www.v2ex.com/t/727693) ![](assets/new.png)  
+- [2020-11-20-佛系背单词-App-帮助已经有基础的同学扩大词汇量](https://www.v2ex.com/t/727691) ![](assets/new.png)  
 - [2020-11-20-用电脑来控制手机音乐的的播放，支持全局快捷键](https://www.v2ex.com/t/727690) ![](assets/new.png)  
 - [2020-11-20-有办法用-android-手机来显示电脑的-HDMI-输出么？](https://www.v2ex.com/t/727689) ![](assets/new.png)  
 - [2020-11-20-Sign-in-with-Apple-注册的账户，可以找到账号密码吗？](https://www.v2ex.com/t/727688) ![](assets/new.png)  
@@ -550,9 +553,6 @@
 - [2020-11-20-总金额,总抽取数量-确定的情况下,抽奖有什么思路](https://www.v2ex.com/t/727674) ![](assets/new.png)  
 - [2020-11-20-surge-mac-4.0-on-Big-Sur-出了问题吗](https://www.v2ex.com/t/727673) ![](assets/new.png)  
 - [2020-11-20-购买代码签名证书步骤和费用小结](https://www.v2ex.com/t/727672) ![](assets/new.png)  
-- [2020-11-20-关于-macOS-的硬盘空间的问题](https://www.v2ex.com/t/727671) ![](assets/new.png)  
-- [2020-11-20-Windows-7-安装-.NET-5-/-.NET-Core-3.1-环境的方法和依赖文件](https://www.v2ex.com/t/727670) ![](assets/new.png)  
-- [2020-11-20-出自用-MacBookPro](https://www.v2ex.com/t/727668) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

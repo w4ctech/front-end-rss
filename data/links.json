@@ -14728,6 +14728,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "一条数据线成功救活变砖 mbp",
+        "link": "https://www.v2ex.com/t/727694",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "关于 Android APP 的运行问题？",
+        "link": "https://www.v2ex.com/t/727693",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "佛系背单词 App 帮助已经有基础的同学扩大词汇量",
+        "link": "https://www.v2ex.com/t/727691",
+        "date": "2020-11-20"
+      },
+      {
         "title": "用电脑来控制手机音乐的的播放，支持全局快捷键",
         "link": "https://www.v2ex.com/t/727690",
         "date": "2020-11-20"
@@ -14915,26 +14930,6 @@
       {
         "title": "国内的云服务器上访问 github， docker hub 啥的好慢啊。。。",
         "link": "https://www.v2ex.com/t/727646",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[三七互娱内推-社招-中/高 中台运维工程师 13-25K 15 薪] [广州]",
-        "link": "https://www.v2ex.com/t/727644",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[武汉](全职可远程, 10k 至 20k) 招募优质运维工程师狂魔们！",
-        "link": "https://www.v2ex.com/t/727643",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "整天关注互联网隐私，结果发现从家人透露出去的隐私，可比各种 app 多多了呀",
-        "link": "https://www.v2ex.com/t/727642",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "Go-space 聊天游戏，新增上线分布图+登录城市展示~有点意思哦",
-        "link": "https://www.v2ex.com/t/727641",
         "date": "2020-11-20"
       }
     ]
@@ -15152,8 +15147,8 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
-        "link": "https://toutiao.io/k/5lujxq0",
+        "title": "[推荐] 分布式一致性协议：ZAB",
+        "link": "https://toutiao.io/k/r6571za",
         "date": "2020-11-20"
       },
       {
@@ -15162,13 +15157,18 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] MyBatis 的本质和原理",
-        "link": "https://toutiao.io/k/613ifih",
+        "title": "[推荐] 面试过 200 人的经验，都在这里了",
+        "link": "https://toutiao.io/k/pfctyn9",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
-        "link": "https://toutiao.io/k/y490i6z",
+        "title": "[推荐] 超越 “双十一”：ebay 支付核心账务系统架构演进之路",
+        "link": "https://toutiao.io/k/qbvqq09",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 精心为你准备的最全的 20 道 MySQL 面试题",
+        "link": "https://toutiao.io/k/5lujxq0",
         "date": "2020-11-20"
       },
       {
@@ -15177,38 +15177,8 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
-        "link": "https://toutiao.io/k/yy8cawz",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 小团队如何落地敏捷开发",
-        "link": "https://toutiao.io/k/hg0jmdy",
-        "date": "2020-11-20"
-      },
-      {
         "title": "[推荐] 漫画面试回答 kafka 为何如此之快",
         "link": "https://toutiao.io/k/jeuqdr2",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 分布式一致性协议：ZAB",
-        "link": "https://toutiao.io/k/r6571za",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 原来 10 张图就可以搞懂分布式链路追踪系统原理",
-        "link": "https://toutiao.io/k/5xc996m",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
-        "link": "https://toutiao.io/k/gnbzbuw",
-        "date": "2020-11-20"
-      },
-      {
-        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
-        "link": "https://toutiao.io/k/t68u47i",
         "date": "2020-11-20"
       },
       {
@@ -15217,13 +15187,38 @@
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] 程序员成为高级管理者的三次跃升",
-        "link": "https://toutiao.io/k/6y7eq6s",
+        "title": "[推荐] 几乎刷完了力扣所有的链表题，我发现了这些东西。。。",
+        "link": "https://toutiao.io/k/b2q9ajw",
         "date": "2020-11-20"
       },
       {
-        "title": "[推荐] Java 中 9 种常见的 CMS GC 问题分析与解决",
-        "link": "https://toutiao.io/k/mlyha8z",
+        "title": "[推荐] 基于时间线的 Feed 流后台系统设计",
+        "link": "https://toutiao.io/k/yy8cawz",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 自定义注解！绝对是程序员装逼的利器",
+        "link": "https://toutiao.io/k/gnbzbuw",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 4 万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台",
+        "link": "https://toutiao.io/k/y490i6z",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] 技术总监 7 年总结，如何进行正确的沟通？",
+        "link": "https://toutiao.io/k/t68u47i",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] MyBatis 的本质和原理",
+        "link": "https://toutiao.io/k/613ifih",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "[推荐] MySQL 的 join 功能弱爆了？",
+        "link": "https://toutiao.io/k/031qbdy",
         "date": "2020-11-20"
       }
     ]

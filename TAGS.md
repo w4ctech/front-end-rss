@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-20 02:36:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 02:47:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,6 @@
 
 
 
-- [【掘金前端】React-实现简易的图片拖动排序](https://juejin.im/post/6896712416928169991)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -57,7 +56,6 @@
 
 
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
-- [【掘金前端】Vue-自检](https://juejin.im/post/6896807654492995597)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [......【查看更多】......](./details/tags/vue.md)
 
@@ -75,6 +73,7 @@
 
 
 
+- [【掘金前端】【TypeScript】如何在项目中使用TypeScript](https://juejin.im/post/6896830861979680776)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -92,6 +91,7 @@
 
 
 
+- [【掘金前端】手撸一个小程序自动化构建平台](https://juejin.im/post/6896823039099731975)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [【安全热点】世界互联网大会组委会发布《携手构建网络空间命运共同体行动倡议》](https://sec.thief.one/article_content?a_id=55ddf1f7e88f9c9e15c90bb0707d1fdf)
 - [【安全热点】一种针对Webpack等前端打包工具构建的网站的自动化测试思路附开...](https://sec.thief.one/article_content?a_id=22be5009dcd050e7cf81e5fea087f96d)
@@ -111,6 +111,7 @@
 
 
 
+- [【掘金前端】11.koa鉴权](https://juejin.im/post/6896832791816880136)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -162,6 +163,7 @@
 
 
 - [【阮一峰的网络日志】科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)
+- [【V2EX】来做游戏吧！从-0-开始的-RPG-制作之旅！](https://www.v2ex.com/t/727434)
 - [【V2EX】关于花花不好惹这类型游戏是否涉及传销营销？](https://www.v2ex.com/t/727389)
 - [【开发者头条】7-年，从-“游戏少年”-到大厂技术总监的逆袭之路](https://toutiao.io/k/9dk11zm)
 - [【安全热点】IBM获得针对多人游戏内交易的拟议区块链共识专利](https://sec.thief.one/article_content?a_id=ea211fafce3a3d954f88bbcbcf047ede)
@@ -372,7 +374,6 @@
 
 
 - [【V2EX】问一个有关于-docker-compose-编排的问题。](https://www.v2ex.com/t/727431)
-- [【开发者头条】推荐-Docker-底层原理浅析](https://toutiao.io/k/nvbge2t)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -408,8 +409,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html)
+- [【V2EX】重庆推推棒-重庆互联网公司招聘--华夏云融航空、中移物联网](https://www.v2ex.com/t/727436)
+- [【V2EX】有人面过拳头的工程师岗位吗，想问一下面试的难度大概多大](https://www.v2ex.com/t/727433)
 - [【V2EX】南京-招聘-Java-/区块链开发工程师（可实习）](https://www.v2ex.com/t/727400)
-- [【开发者头条】推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9)
 - [【开发者头条】推荐-漫画面试回答-kafka-为何如此之快](https://toutiao.io/k/jeuqdr2)
 - [【开发者头条】推荐-精心为你准备的最全的-20-道-MySQL-面试题](https://toutiao.io/k/5lujxq0)
 - [【安全热点】招聘-|-广东博智林机器人有限公司碧桂园旗下](https://sec.thief.one/article_content?a_id=e63a13fe0908b75a5f5fa4bc4853efcc)

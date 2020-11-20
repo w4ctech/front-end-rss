@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-20 02:36:18，:rocket: 更新条数: +3080， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-20 02:47:41，:rocket: 更新条数: +3083， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -453,11 +453,11 @@
 </summary>
 
 
-- [2020-11-19-jsliang-求职系列---19---垃圾回收](https://juejin.im/post/6896988786547228679) ![](assets/new.png)  
-- [2020-11-19-前端--JS干货知识点-推荐收藏](https://juejin.im/post/6896807511584997384) ![](assets/new.png)  
-- [2020-11-19-字节跳动火山引擎加入-Linux-云原生计算基金会（CNCF）](https://juejin.im/post/6896809766510592008) ![](assets/new.png)  
-- [2020-11-19-Vue-自检](https://juejin.im/post/6896807654492995597) ![](assets/new.png)  
-- [2020-11-18-React-实现简易的图片拖动排序](https://juejin.im/post/6896712416928169991) ![](assets/new.png)  
+- [2020-11-19-11.koa鉴权](https://juejin.im/post/6896832791816880136) ![](assets/new.png)  
+- [2020-11-19-JS继承](https://juejin.im/post/6896830895354249230) ![](assets/new.png)  
+- [2020-11-19-【TypeScript】如何在项目中使用TypeScript](https://juejin.im/post/6896830861979680776) ![](assets/new.png)  
+- [2020-11-19-手撸一个小程序自动化构建平台](https://juejin.im/post/6896823039099731975) ![](assets/new.png)  
+- [2020-11-19-jsx-相关知识](https://juejin.im/post/6896822319067430919) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +533,11 @@
 </summary>
 
 
+- [2020-11-20-重庆推推棒-重庆互联网公司招聘--华夏云融航空、中移物联网](https://www.v2ex.com/t/727436) ![](assets/new.png)  
+- [2020-11-20-关于-IT-宅男的领英提升讨论](https://www.v2ex.com/t/727435) ![](assets/new.png)  
+- [2020-11-20-来做游戏吧！从-0-开始的-RPG-制作之旅！](https://www.v2ex.com/t/727434) ![](assets/new.png)  
+- [2020-11-20-有人面过拳头的工程师岗位吗，想问一下面试的难度大概多大](https://www.v2ex.com/t/727433) ![](assets/new.png)  
+- [2020-11-20-老哥们，弟中弟请教上海租房问题](https://www.v2ex.com/t/727432) ![](assets/new.png)  
 - [2020-11-20-问一个有关于-docker-compose-编排的问题。](https://www.v2ex.com/t/727431) ![](assets/new.png)  
 - [2020-11-20-macos-bigsur-WindowServer-这个进程占用-cpu-太高](https://www.v2ex.com/t/727429) ![](assets/new.png)  
 - [2020-11-20-给妈妈换个新手机，大家给个建议](https://www.v2ex.com/t/727428) ![](assets/new.png)  
@@ -548,11 +553,6 @@
 - [2020-11-20-github-学生包](https://www.v2ex.com/t/727415) ![](assets/new.png)  
 - [2020-11-20-微信自动把复制的网址转成标题](https://www.v2ex.com/t/727414) ![](assets/new.png)  
 - [2020-11-20-所以,-绿屏问题-PDD-买的-iphone12-怎么办?快递今天送到](https://www.v2ex.com/t/727411) ![](assets/new.png)  
-- [2020-11-20-PHP7.x-PDO-如何支持-Mysql8，不修改数据库配置?](https://www.v2ex.com/t/727410) ![](assets/new.png)  
-- [2020-11-20-AQS-公平锁真的完全公平吗？](https://www.v2ex.com/t/727408) ![](assets/new.png)  
-- [2020-11-20-其实不是-m1-太强，而是-intel-牙膏挤的太慢](https://www.v2ex.com/t/727407) ![](assets/new.png)  
-- [2020-11-20-跳槽薪资计算器](https://www.v2ex.com/t/727405) ![](assets/new.png)  
-- [2020-11-20-windows-自带的-OpenSSH，无法使用-ssh-copy-id-这个命令吗？](https://www.v2ex.com/t/727404) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -611,10 +611,10 @@
 - [2020-11-20-闲鱼是这样高效稳定完成项目迁移的](https://toutiao.io/k/qqb6aj0) ![](assets/new.png)  
 - [2020-11-20-Selenium-爬虫使用代理情况下不设置这几个参数，代理就白加了](https://toutiao.io/k/oflggpf) ![](assets/new.png)  
 - [2020-11-20-糟糕，系统又被攻击了](https://toutiao.io/k/et457nd) ![](assets/new.png)  
-- [2020-11-20-推荐-程序员成为高级管理者的三次跃升](https://toutiao.io/k/6y7eq6s) ![](assets/new.png)  
-- [2020-11-20-推荐-分布式一致性协议：ZAB](https://toutiao.io/k/r6571za) ![](assets/new.png)  
+- [2020-11-20-推荐-4-万字全面掌握数据库、数据仓库、数据集市、数据湖、数据中台](https://toutiao.io/k/y490i6z) ![](assets/new.png)  
+- [2020-11-20-推荐-超越-“双十一”：ebay-支付核心账务系统架构演进之路](https://toutiao.io/k/qbvqq09) ![](assets/new.png)  
 - [2020-11-20-推荐-技术总监-7-年总结，如何进行正确的沟通？](https://toutiao.io/k/t68u47i) ![](assets/new.png)  
-- [2020-11-20-推荐-面试过-200-人的经验，都在这里了](https://toutiao.io/k/pfctyn9) ![](assets/new.png)  
+- [2020-11-20-推荐-MySQL-的-join-功能弱爆了？](https://toutiao.io/k/031qbdy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

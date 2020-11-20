@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-11-19 23:48:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 00:07:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-11-20-劳务派遣简历工作单位大家怎么写](https://www.v2ex.com/t/727352) 
+- [2020-11-19-求问-RTI-公司的-DDSData-Distribution-Service是一个软件吗？还是一个技术标准？不就是-RabbitMQ-吗。。。](https://www.v2ex.com/t/727351) 
 - [2020-11-19-JDK-For-ARM-macOS-出来了，-有没有人可以在-M1-mbp-上试一试-Intellij](https://www.v2ex.com/t/727349) 
 - [2020-11-19-为什么京东国际不能退掉中国大陆-13%的增值税？](https://www.v2ex.com/t/727348) 
 - [2020-11-19-一个野生‧程序猿‧的‧三次元‧硬科幻作品](https://www.v2ex.com/t/727347) 
@@ -39,4 +41,3 @@
 - [2020-11-19-不是，你们有试试双卡吗？](https://www.v2ex.com/t/727308) 
 - [2020-11-19-使用-Vue-前端、Rails-后端实现图片上传的功能](https://www.v2ex.com/t/727307) 
 - [2020-11-19-Big-Sur-升级后电量掉的很快](https://www.v2ex.com/t/727305) 
-- [2020-11-19-在-Docker-虚拟机中启动-gnome-session-失败，有人了解怎么在-docker-内使用-vnc-连接桌面吗？](https://www.v2ex.com/t/727302) 
